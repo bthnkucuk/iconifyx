@@ -1,13 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:iconifyx_core/iconifyx_core.dart';
 
 import '../../bootstrap/bootstrap_bloc.dart';
 import '../../bootstrap/icon_catalog.dart';
 import '../../router/coordinator.dart';
+import '../../router/routes/shell/app_shell_layout.dart';
 import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/icon_detail_route.dart';
 import '../../shared/bloc/pack_bloc.dart';
-import '../../shared/widgets/icon_tile.dart';
+import '../../theme/app_theme.dart';
 
 class PackDetailPage extends StatelessWidget {
   const PackDetailPage({super.key, required this.prefix});
@@ -18,48 +20,54 @@ class PackDetailPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return BlocBuilder<BootstrapBloc, BootstrapState>(
       builder: (context, state) {
-        if (state is BootstrapPacksReady) {
-          final summary = state.packs.byPrefix[prefix];
-          if (summary == null) {
-            return _PackMissing(prefix: prefix);
-          }
-          if (state is BootstrapCatalogReady) {
-            return BlocProvider(
-              key: ValueKey(prefix),
-              create: (_) => PackBloc(
-                catalog: state.catalog,
-                packs: state.packs,
-              )..add(PackOpened(prefix)),
-              child: _PackBody(prefix: prefix),
-            );
-          }
-          return _PackLoadingCatalog(summary: summary);
+        if (state is! BootstrapPacksReady) {
+          return const Center(child: CircularProgressIndicator(color: AppTheme.coral));
         }
-        return const Center(child: CircularProgressIndicator());
+        final summary = state.packs.byPrefix[prefix];
+        if (summary == null) return _Missing(prefix: prefix);
+        if (state is BootstrapCatalogReady) {
+          return BlocProvider(
+            key: ValueKey(prefix),
+            create: (_) => PackBloc(
+              catalog: state.catalog,
+              packs: state.packs,
+            )..add(PackOpened(prefix)),
+            child: _PackBody(prefix: prefix),
+          );
+        }
+        return _LoadingCatalog(summary: summary);
       },
     );
   }
 }
 
-class _PackLoadingCatalog extends StatelessWidget {
-  const _PackLoadingCatalog({required this.summary});
+class _LoadingCatalog extends StatelessWidget {
+  const _LoadingCatalog({required this.summary});
   final PackSummary summary;
 
   @override
   Widget build(BuildContext context) {
-    return CustomScrollView(
-      slivers: [
-        SliverPadding(
-          padding: const EdgeInsets.fromLTRB(28, 24, 28, 12),
-          sliver: SliverToBoxAdapter(
-            child: _PackHeader(summary: summary, totalCount: summary.iconCount),
-          ),
+    return PageContainer(
+      children: [
+        _Breadcrumb(packName: summary.name),
+        const SizedBox(height: 16),
+        _Toolbar(
+          packName: summary.name,
+          totalCount: summary.iconCount,
+          filter: '',
+          onFilterChanged: (_) {},
+          tileSize: 32,
+          onTileSizeChanged: (_) {},
+          enabled: false,
         ),
-        const SliverFillRemaining(
-          hasScrollBody: false,
-          child: Padding(
-            padding: EdgeInsets.all(64),
-            child: Center(child: CircularProgressIndicator()),
+        const SizedBox(height: 16),
+        Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 28),
+          child: const Center(
+            child: Padding(
+              padding: EdgeInsets.symmetric(vertical: 96),
+              child: CircularProgressIndicator(color: AppTheme.coral),
+            ),
           ),
         ),
       ],
@@ -67,105 +75,181 @@ class _PackLoadingCatalog extends StatelessWidget {
   }
 }
 
-class _PackBody extends StatelessWidget {
+class _PackBody extends StatefulWidget {
   const _PackBody({required this.prefix});
   final String prefix;
 
   @override
+  State<_PackBody> createState() => _PackBodyState();
+}
+
+class _PackBodyState extends State<_PackBody> {
+  int _tileSize = 32; // 20 / 24 / 32 per handoff spec
+
+  @override
   Widget build(BuildContext context) {
-    final coordinator = appCoordinator;
-    return Material(
-      color: Theme.of(context).scaffoldBackgroundColor,
-      child: BlocBuilder<PackBloc, PackState>(
-        builder: (context, state) {
-          if (state is PackMissing) return _PackMissing(prefix: state.prefix);
-          if (state is! PackReady) {
-            return const Center(child: CircularProgressIndicator());
+    return BlocBuilder<PackBloc, PackState>(
+      builder: (context, state) {
+        if (state is PackMissing) return _Missing(prefix: state.prefix);
+        if (state is! PackReady) {
+          return const Center(child: CircularProgressIndicator(color: AppTheme.coral));
+        }
+        return PageContainer(
+          children: [
+            _Breadcrumb(packName: state.summary.name),
+            const SizedBox(height: 16),
+            _Toolbar(
+              packName: state.summary.name,
+              totalCount: state.icons.length,
+              shownCount: state.filtered.length,
+              filter: state.filter,
+              onFilterChanged: (q) =>
+                  context.read<PackBloc>().add(PackFilterChanged(q)),
+              tileSize: _tileSize,
+              onTileSizeChanged: (s) => setState(() => _tileSize = s),
+            ),
+            const SizedBox(height: 16),
+            _IconGridCard(
+              icons: state.filtered,
+              tileSize: _tileSize,
+            ),
+            _PackMeta(summary: state.summary),
+            const SizedBox(height: 56),
+          ],
+        );
+      },
+    );
+  }
+}
+
+class _Breadcrumb extends StatelessWidget {
+  const _Breadcrumb({required this.packName});
+  final String packName;
+
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
+    final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
+    return Padding(
+      padding: const EdgeInsets.fromLTRB(28, 28, 28, 0),
+      child: DefaultTextStyle.merge(
+        style: AppTheme.mono(size: 12, color: muted),
+        child: Row(
+          children: [
+            _CrumbLink(label: 'iconifyx', onTap: () => appCoordinator.navigate(HomeRoute())),
+            Text(' / ', style: AppTheme.mono(size: 12, color: muted)),
+            _CrumbLink(label: 'icons', onTap: () => appCoordinator.navigate(HomeRoute())),
+            Text(' / ', style: AppTheme.mono(size: 12, color: muted)),
+            Text(packName, style: AppTheme.mono(size: 12, color: ink, weight: FontWeight.w600)),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+class _CrumbLink extends StatefulWidget {
+  const _CrumbLink({required this.label, required this.onTap});
+  final String label;
+  final VoidCallback onTap;
+
+  @override
+  State<_CrumbLink> createState() => _CrumbLinkState();
+}
+
+class _CrumbLinkState extends State<_CrumbLink> {
+  bool _hover = false;
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
+    return MouseRegion(
+      cursor: SystemMouseCursors.click,
+      onEnter: (_) => setState(() => _hover = true),
+      onExit: (_) => setState(() => _hover = false),
+      child: GestureDetector(
+        onTap: widget.onTap,
+        child: Text(widget.label,
+            style: AppTheme.mono(
+              size: 12,
+              color: _hover ? AppTheme.coral : muted,
+            )),
+      ),
+    );
+  }
+}
+
+class _Toolbar extends StatelessWidget {
+  const _Toolbar({
+    required this.packName,
+    required this.totalCount,
+    this.shownCount,
+    required this.filter,
+    required this.onFilterChanged,
+    required this.tileSize,
+    required this.onTileSizeChanged,
+    this.enabled = true,
+  });
+
+  final String packName;
+  final int totalCount;
+  final int? shownCount;
+  final String filter;
+  final ValueChanged<String> onFilterChanged;
+  final int tileSize;
+  final ValueChanged<int> onTileSizeChanged;
+  final bool enabled;
+
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
+    return Padding(
+      padding: const EdgeInsets.symmetric(horizontal: 28),
+      child: LayoutBuilder(
+        builder: (context, constraints) {
+          final wide = constraints.maxWidth >= 720;
+          final countText = shownCount != null && shownCount != totalCount
+              ? '${_fmt(shownCount!)} of ${_fmt(totalCount)} icons'
+              : '${_fmt(totalCount)} icons';
+          final title = Row(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Text(packName, style: Theme.of(context).textTheme.headlineMedium),
+              const SizedBox(width: 12),
+              _CountPillMono(text: countText, color: muted),
+            ],
+          );
+          final right = Row(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              SizedBox(
+                width: 240,
+                child: TextField(
+                  onChanged: enabled ? onFilterChanged : null,
+                  enabled: enabled,
+                  decoration: InputDecoration(
+                    hintText: 'Filter…',
+                    prefixIcon: Icon(Icons.search, size: 16, color: muted),
+                    prefixIconConstraints:
+                        const BoxConstraints(minWidth: 32, minHeight: 32),
+                  ),
+                ),
+              ),
+              const SizedBox(width: 10),
+              _SizeToggle(value: tileSize, onChanged: onTileSizeChanged),
+            ],
+          );
+          if (wide) {
+            return Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [Expanded(child: title), right],
+            );
           }
-          return LayoutBuilder(
-            builder: (context, constraints) {
-              final w = constraints.maxWidth;
-              final tile = w >= 1600
-                  ? 80.0
-                  : w >= 1200
-                      ? 72.0
-                      : 64.0;
-              final crossAxisCount = (w / tile).floor().clamp(4, 24);
-              return CustomScrollView(
-                slivers: [
-                  SliverPadding(
-                    padding: const EdgeInsets.fromLTRB(28, 24, 28, 8),
-                    sliver: SliverToBoxAdapter(
-                      child: Column(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: [
-                          Row(
-                            children: [
-                              TextButton.icon(
-                                icon: const Icon(Icons.arrow_back, size: 18),
-                                label: const Text('All packs'),
-                                onPressed: () =>
-                                    coordinator.navigate(HomeRoute()),
-                              ),
-                            ],
-                          ),
-                          const SizedBox(height: 12),
-                          _PackHeader(
-                            summary: state.summary,
-                            totalCount: state.icons.length,
-                          ),
-                          const SizedBox(height: 16),
-                          TextField(
-                            decoration: const InputDecoration(
-                              hintText: 'Filter inside this pack',
-                              prefixIcon: Icon(Icons.filter_list, size: 18),
-                            ),
-                            onChanged: (q) => context
-                                .read<PackBloc>()
-                                .add(PackFilterChanged(q)),
-                          ),
-                          const SizedBox(height: 12),
-                          Text(
-                            state.filter.isEmpty
-                                ? '${_format(state.icons.length)} icons'
-                                : '${_format(state.filtered.length)} of ${_format(state.icons.length)}',
-                            style:
-                                Theme.of(context).textTheme.bodySmall?.copyWith(
-                                      color: Theme.of(context)
-                                          .colorScheme
-                                          .onSurfaceVariant,
-                                    ),
-                          ),
-                          const SizedBox(height: 8),
-                        ],
-                      ),
-                    ),
-                  ),
-                  SliverPadding(
-                    padding: const EdgeInsets.fromLTRB(28, 0, 28, 32),
-                    sliver: SliverGrid.builder(
-                      gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-                        crossAxisCount: crossAxisCount,
-                        mainAxisSpacing: 6,
-                        crossAxisSpacing: 6,
-                      ),
-                      itemCount: state.filtered.length,
-                      itemBuilder: (context, i) {
-                        final ic = state.filtered[i];
-                        return IconTile.iconOnly(
-                          key: ValueKey(
-                              '${ic.prefix}/${ic.name}/${ic.codepoint}'),
-                          icon: ic,
-                          onTap: () => coordinator.push(
-                            IconDetailRoute(prefix: ic.prefix, name: ic.name),
-                          ),
-                        );
-                      },
-                    ),
-                  ),
-                ],
-              );
-            },
+          return Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [title, const SizedBox(height: 12), right],
           );
         },
       ),
@@ -173,69 +257,269 @@ class _PackBody extends StatelessWidget {
   }
 }
 
-class _PackHeader extends StatelessWidget {
-  const _PackHeader({required this.summary, required this.totalCount});
-
-  final PackSummary summary;
-  final int totalCount;
+class _SizeToggle extends StatelessWidget {
+  const _SizeToggle({required this.value, required this.onChanged});
+  final int value;
+  final ValueChanged<int> onChanged;
 
   @override
   Widget build(BuildContext context) {
-    final cs = Theme.of(context).colorScheme;
-    return Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
+    const sizes = [20, 24, 32];
+    return Row(
+      mainAxisSize: MainAxisSize.min,
       children: [
-        Text(
-          summary.name,
-          style: Theme.of(context).textTheme.headlineSmall?.copyWith(
-                fontWeight: FontWeight.w700,
-              ),
-        ),
-        const SizedBox(height: 6),
-        Wrap(
-          spacing: 16,
-          runSpacing: 4,
-          children: [
-            _meta(context, '${_format(totalCount)} icons'),
-            _meta(context, summary.license),
-            if (summary.author != null) _meta(context, summary.author!),
-            _meta(context, summary.packageName, color: cs.primary, mono: true),
-            if (summary.duotoneCount > 0)
-              _meta(context, '${summary.duotoneCount} duotone'),
-          ],
-        ),
+        for (var i = 0; i < sizes.length; i++) ...[
+          _SizeBtn(size: sizes[i], active: value == sizes[i], onTap: () => onChanged(sizes[i])),
+          if (i < sizes.length - 1) const SizedBox(width: 6),
+        ],
       ],
-    );
-  }
-
-  Widget _meta(BuildContext context, String value,
-      {Color? color, bool mono = false}) {
-    return Text(
-      value,
-      style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-            color: color ?? Theme.of(context).colorScheme.onSurfaceVariant,
-            fontFamily: mono ? 'monospace' : null,
-          ),
     );
   }
 }
 
-class _PackMissing extends StatelessWidget {
-  const _PackMissing({required this.prefix});
+class _SizeBtn extends StatefulWidget {
+  const _SizeBtn({required this.size, required this.active, required this.onTap});
+  final int size;
+  final bool active;
+  final VoidCallback onTap;
+  @override
+  State<_SizeBtn> createState() => _SizeBtnState();
+}
+
+class _SizeBtnState extends State<_SizeBtn> {
+  bool _hover = false;
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final rule = isDark ? AppTheme.ruleDark : AppTheme.rule;
+    final ink2 = isDark ? AppTheme.ink2Dark : AppTheme.ink2;
+    final paper2 = isDark ? AppTheme.paper2Dark : AppTheme.paper2;
+    final coralSoft = isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft;
+    final active = widget.active;
+    final bg = active ? coralSoft : (_hover ? paper2 : Colors.transparent);
+    final fg = active ? AppTheme.coral : ink2;
+    return MouseRegion(
+      cursor: SystemMouseCursors.click,
+      onEnter: (_) => setState(() => _hover = true),
+      onExit: (_) => setState(() => _hover = false),
+      child: GestureDetector(
+        onTap: widget.onTap,
+        child: AnimatedContainer(
+          duration: const Duration(milliseconds: 120),
+          width: 32,
+          height: 32,
+          decoration: BoxDecoration(
+            color: bg,
+            border: Border.all(color: active ? AppTheme.coral : rule),
+            borderRadius: BorderRadius.circular(8),
+          ),
+          alignment: Alignment.center,
+          child: Icon(
+            widget.size <= 20
+                ? Icons.grid_view_rounded
+                : widget.size <= 24
+                    ? Icons.grid_view_outlined
+                    : Icons.apps_outlined,
+            size: 14,
+            color: fg,
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+class _IconGridCard extends StatelessWidget {
+  const _IconGridCard({required this.icons, required this.tileSize});
+  final List<IconRecord> icons;
+  final int tileSize;
+
+  @override
+  Widget build(BuildContext context) {
+    return Padding(
+      padding: const EdgeInsets.fromLTRB(28, 0, 28, 24),
+      child: LayoutBuilder(
+        builder: (context, c) {
+          // Handoff spec: 8 cols @ 32, 10 cols @ 24, 12 cols @ 20.
+          // Scale based on actual width.
+          final base = tileSize == 32 ? 80.0 : tileSize == 24 ? 64.0 : 52.0;
+          final cols = (c.maxWidth / base).floor().clamp(4, 24);
+          return Container(
+            decoration: BoxDecoration(
+              color: Theme.of(context).colorScheme.surface,
+              borderRadius: BorderRadius.circular(16),
+              border: Border.all(color: Theme.of(context).dividerColor),
+            ),
+            padding: const EdgeInsets.all(8),
+            child: icons.isEmpty
+                ? const Padding(
+                    padding: EdgeInsets.symmetric(vertical: 48),
+                    child: Center(child: Text('No icons match this filter.')),
+                  )
+                : GridView.builder(
+                    shrinkWrap: true,
+                    physics: const NeverScrollableScrollPhysics(),
+                    gridDelegate:
+                        SliverGridDelegateWithFixedCrossAxisCount(
+                      crossAxisCount: cols,
+                      mainAxisSpacing: 0,
+                      crossAxisSpacing: 0,
+                    ),
+                    itemCount: icons.length,
+                    itemBuilder: (context, i) {
+                      final ic = icons[i];
+                      return _IconCell(
+                        key: ValueKey('${ic.prefix}/${ic.name}/${ic.codepoint}'),
+                        record: ic,
+                        iconSize: tileSize.toDouble(),
+                      );
+                    },
+                  ),
+          );
+        },
+      ),
+    );
+  }
+}
+
+class _IconCell extends StatefulWidget {
+  const _IconCell({super.key, required this.record, required this.iconSize});
+  final IconRecord record;
+  final double iconSize;
+
+  @override
+  State<_IconCell> createState() => _IconCellState();
+}
+
+class _IconCellState extends State<_IconCell> {
+  bool _hover = false;
+
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final ink2 = isDark ? AppTheme.ink2Dark : AppTheme.ink2;
+    final coralSoft = isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft;
+    return MouseRegion(
+      cursor: SystemMouseCursors.click,
+      onEnter: (_) => setState(() => _hover = true),
+      onExit: (_) => setState(() => _hover = false),
+      child: GestureDetector(
+        onTap: () => appCoordinator.push(
+          IconDetailRoute(prefix: widget.record.prefix, name: widget.record.name),
+        ),
+        child: Tooltip(
+          message: widget.record.name,
+          child: AspectRatio(
+            aspectRatio: 1,
+            child: AnimatedContainer(
+              duration: const Duration(milliseconds: 100),
+              decoration: BoxDecoration(
+                color: _hover ? coralSoft : Colors.transparent,
+                borderRadius: BorderRadius.circular(10),
+              ),
+              child: Center(
+                child: FittedBox(
+                  fit: BoxFit.contain,
+                  child: IconifyIcon(
+                    widget.record.toIconifyData(),
+                    size: widget.iconSize,
+                    color: _hover ? AppTheme.coral : ink2,
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+class _PackMeta extends StatelessWidget {
+  const _PackMeta({required this.summary});
+  final PackSummary summary;
+
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
+    final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
+    Widget kv(String k, String v) {
+      return Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Text(k.toUpperCase(),
+              style: AppTheme.mono(
+                  size: 10,
+                  color: muted,
+                  weight: FontWeight.w700,
+                  letterSpacing: 1.0)),
+          const SizedBox(height: 4),
+          Text(v,
+              style: AppTheme.mono(size: 13, color: ink, weight: FontWeight.w500)),
+        ],
+      );
+    }
+    return Padding(
+      padding: const EdgeInsets.fromLTRB(28, 8, 28, 0),
+      child: Container(
+        padding: const EdgeInsets.all(18),
+        decoration: BoxDecoration(
+          color: Theme.of(context).colorScheme.surface,
+          borderRadius: BorderRadius.circular(14),
+          border: Border.all(color: Theme.of(context).dividerColor),
+        ),
+        child: Wrap(
+          spacing: 32,
+          runSpacing: 16,
+          children: [
+            kv('Pub package', summary.packageName),
+            kv('Author', summary.author ?? '—'),
+            kv('License', summary.license),
+            kv('Icons', _fmt(summary.iconCount)),
+            if (summary.duotoneCount > 0) kv('Duotone', _fmt(summary.duotoneCount)),
+            kv('Category', summary.category),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+class _CountPillMono extends StatelessWidget {
+  const _CountPillMono({required this.text, required this.color});
+  final String text;
+  final Color color;
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    return Container(
+      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+      decoration: BoxDecoration(
+        color: isDark ? AppTheme.paper2Dark : AppTheme.paper2,
+        borderRadius: BorderRadius.circular(6),
+      ),
+      child: Text(text, style: AppTheme.mono(size: 11, color: color)),
+    );
+  }
+}
+
+class _Missing extends StatelessWidget {
+  const _Missing({required this.prefix});
   final String prefix;
 
   @override
   Widget build(BuildContext context) {
     return Center(
       child: Padding(
-        padding: const EdgeInsets.all(32),
+        padding: const EdgeInsets.all(48),
         child: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
-            const Icon(Icons.report_outlined, size: 48),
+            const Icon(Icons.report_outlined, size: 56),
             const SizedBox(height: 16),
             Text('Pack "$prefix" not found'),
-            const SizedBox(height: 12),
+            const SizedBox(height: 16),
             FilledButton(
               onPressed: () => appCoordinator.navigate(HomeRoute()),
               child: const Text('Back to home'),
@@ -247,6 +531,5 @@ class _PackMissing extends StatelessWidget {
   }
 }
 
-String _format(int n) => n
-    .toString()
-    .replaceAllMapped(RegExp(r'(\d)(?=(\d{3})+(?!\d))'), (m) => '${m[1]},');
+String _fmt(int n) => n.toString().replaceAllMapped(
+    RegExp(r'(\d)(?=(\d{3})+(?!\d))'), (m) => '${m[1]},');

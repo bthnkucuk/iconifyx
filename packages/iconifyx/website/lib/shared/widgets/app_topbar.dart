@@ -5,11 +5,13 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import '../../router/coordinator.dart';
+import '../../router/routes/shell/all_packs_route.dart';
 import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/search_route.dart';
 import '../../theme/app_theme.dart';
 import '../../theme/theme_cubit.dart';
 import 'brand_mark.dart';
+import 'mobile_drawer.dart';
 
 /// Sticky frosted nav per the handoff spec.
 class AppTopBar extends StatelessWidget implements PreferredSizeWidget {
@@ -40,16 +42,6 @@ class AppTopBar extends StatelessWidget implements PreferredSizeWidget {
             height: 58,
             child: Row(
               children: [
-                if (showMenuButton)
-                  Padding(
-                    padding: const EdgeInsets.only(right: 6),
-                    child: Builder(
-                      builder: (ctx) => IconButton(
-                        icon: const Icon(Icons.menu, size: 20),
-                        onPressed: () => Scaffold.of(ctx).openDrawer(),
-                      ),
-                    ),
-                  ),
                 InkWell(
                   borderRadius: BorderRadius.circular(8),
                   onTap: () => appCoordinator.navigate(HomeRoute()),
@@ -67,17 +59,27 @@ class AppTopBar extends StatelessWidget implements PreferredSizeWidget {
                     ),
                   ),
                 ),
-                const SizedBox(width: 14),
-                _NavLink(label: 'Home', onTap: () => appCoordinator.navigate(HomeRoute()), active: true),
-                _NavLink(label: 'Icons', onTap: () => appCoordinator.navigate(SearchRoute())),
-                _NavLink(label: 'Docs', onTap: () => _launch('https://pub.dev/packages/iconifyx')),
-                _NavLink(label: 'Changelog', onTap: () => _launch('https://github.com/bthnkucuk/iconifyx/releases')),
-                const Spacer(),
-                _NavSearch(color: ink2),
-                const SizedBox(width: 10),
-                _ThemeToggle(),
-                const SizedBox(width: 10),
-                _PubCta(),
+                if (showMenuButton)
+                  // Mobile: brand on left, hamburger far-right.
+                  ...[
+                  const Spacer(),
+                  _HamburgerButton(onTap: () => MobileDrawer.show(context)),
+                ]
+                else
+                  // Desktop: full nav row.
+                  ...[
+                  const SizedBox(width: 14),
+                  _NavLink(label: 'Home', onTap: () => appCoordinator.navigate(HomeRoute()), active: true),
+                  _NavLink(label: 'Icons', onTap: () => appCoordinator.navigate(AllPacksRoute())),
+                  _NavLink(label: 'Docs', onTap: () => _launch('https://pub.dev/packages/iconifyx')),
+                  _NavLink(label: 'Changelog', onTap: () => _launch('https://github.com/bthnkucuk/iconifyx/releases')),
+                  const Spacer(),
+                  _SearchTrigger(color: ink2),
+                  const SizedBox(width: 10),
+                  _ThemeToggle(),
+                  const SizedBox(width: 10),
+                  _PubCta(),
+                ],
               ],
             ),
           ),
@@ -91,6 +93,69 @@ class AppTopBar extends StatelessWidget implements PreferredSizeWidget {
   }
 }
 
+// ─── Hamburger ──────────────────────────────────────────────────────────────
+class _HamburgerButton extends StatefulWidget {
+  const _HamburgerButton({required this.onTap});
+  final VoidCallback onTap;
+  @override
+  State<_HamburgerButton> createState() => _HamburgerButtonState();
+}
+
+class _HamburgerButtonState extends State<_HamburgerButton> {
+  bool _hover = false;
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final card = isDark ? AppTheme.cardDark : AppTheme.card;
+    final rule = isDark ? AppTheme.ruleDark : AppTheme.rule;
+    final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
+    return MouseRegion(
+      cursor: SystemMouseCursors.click,
+      onEnter: (_) => setState(() => _hover = true),
+      onExit: (_) => setState(() => _hover = false),
+      child: GestureDetector(
+        onTap: widget.onTap,
+        child: AnimatedContainer(
+          duration: const Duration(milliseconds: 120),
+          width: 38,
+          height: 38,
+          decoration: BoxDecoration(
+            color: card,
+            border: Border.all(color: _hover ? AppTheme.coral : rule),
+            borderRadius: BorderRadius.circular(8),
+          ),
+          alignment: Alignment.center,
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              _Bar(color: ink),
+              const SizedBox(height: 4),
+              _Bar(color: ink),
+              const SizedBox(height: 4),
+              _Bar(color: ink),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+class _Bar extends StatelessWidget {
+  const _Bar({required this.color});
+  final Color color;
+  @override
+  Widget build(BuildContext context) => Container(
+        width: 16,
+        height: 1.75,
+        decoration: BoxDecoration(
+          color: color,
+          borderRadius: BorderRadius.circular(2),
+        ),
+      );
+}
+
+// ─── Nav link (hover bg) ────────────────────────────────────────────────────
 class _NavLink extends StatefulWidget {
   const _NavLink({required this.label, required this.onTap, this.active = false});
 
@@ -110,12 +175,9 @@ class _NavLinkState extends State<_NavLink> {
     final isDark = Theme.of(context).brightness == Brightness.dark;
     final ink2 = isDark ? AppTheme.ink2Dark : AppTheme.ink2;
     final paper2 = isDark ? AppTheme.paper2Dark : AppTheme.paper2;
-    final coralSoft =
-        isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft;
+    final coralSoft = isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft;
 
-    final bg = widget.active
-        ? coralSoft
-        : (_hover ? paper2 : Colors.transparent);
+    final bg = widget.active ? coralSoft : (_hover ? paper2 : Colors.transparent);
     final fg = widget.active ? AppTheme.coral : ink2;
     return MouseRegion(
       cursor: SystemMouseCursors.click,
@@ -145,102 +207,56 @@ class _NavLinkState extends State<_NavLink> {
   }
 }
 
-class _NavSearch extends StatefulWidget {
-  const _NavSearch({required this.color});
+// ─── Search trigger (opens command palette) ─────────────────────────────────
+class _SearchTrigger extends StatefulWidget {
+  const _SearchTrigger({required this.color});
   final Color color;
-
   @override
-  State<_NavSearch> createState() => _NavSearchState();
+  State<_SearchTrigger> createState() => _SearchTriggerState();
 }
 
-class _NavSearchState extends State<_NavSearch> {
-  late final FocusNode _focus;
-  late final TextEditingController _controller;
-  bool _focused = false;
-
-  @override
-  void initState() {
-    super.initState();
-    _focus = FocusNode()..addListener(_onFocus);
-    _controller = TextEditingController();
-  }
-
-  @override
-  void dispose() {
-    _focus.removeListener(_onFocus);
-    _focus.dispose();
-    _controller.dispose();
-    super.dispose();
-  }
-
-  void _onFocus() => setState(() => _focused = _focus.hasFocus);
-
-  void _go() {
-    final q = _controller.text.trim();
-    appCoordinator.navigate(SearchRoute(query: q));
-  }
-
+class _SearchTriggerState extends State<_SearchTrigger> {
+  bool _hover = false;
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
     final card = isDark ? AppTheme.cardDark : AppTheme.card;
     final rule = isDark ? AppTheme.ruleDark : AppTheme.rule;
     final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
-    final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
-    final coralSoft =
-        isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft;
-
-    return SizedBox(
-      width: 280,
-      child: AnimatedContainer(
-        duration: const Duration(milliseconds: 120),
-        height: 36,
-        padding: const EdgeInsets.symmetric(horizontal: 12),
-        decoration: BoxDecoration(
-          color: card,
-          border: Border.all(
-            color: _focused ? AppTheme.coral : rule,
-            width: _focused ? 1.2 : 1,
+    return MouseRegion(
+      cursor: SystemMouseCursors.click,
+      onEnter: (_) => setState(() => _hover = true),
+      onExit: (_) => setState(() => _hover = false),
+      child: GestureDetector(
+        onTap: () => appCoordinator.push(SearchRoute()),
+        child: AnimatedContainer(
+          duration: const Duration(milliseconds: 120),
+          width: 280,
+          height: 36,
+          padding: const EdgeInsets.symmetric(horizontal: 12),
+          decoration: BoxDecoration(
+            color: card,
+            border: Border.all(color: _hover ? AppTheme.coral : rule),
+            borderRadius: BorderRadius.circular(10),
           ),
-          borderRadius: BorderRadius.circular(10),
-          boxShadow: _focused
-              ? [BoxShadow(color: coralSoft, blurRadius: 0, spreadRadius: 3)]
-              : null,
-        ),
-        child: Row(
-          children: [
-            Icon(Icons.search, size: 16, color: muted),
-            const SizedBox(width: 8),
-            Expanded(
-              child: TextField(
-                controller: _controller,
-                focusNode: _focus,
-                onSubmitted: (_) => _go(),
-                style: TextStyle(fontSize: 13, color: ink),
-                decoration: InputDecoration(
-                  hintText: 'Search 165K icons…',
-                  hintStyle: TextStyle(color: muted, fontSize: 13),
-                  isCollapsed: true,
-                  contentPadding: EdgeInsets.zero,
-                  border: InputBorder.none,
-                  enabledBorder: InputBorder.none,
-                  focusedBorder: InputBorder.none,
+          child: Row(
+            children: [
+              Icon(Icons.search, size: 16, color: muted),
+              const SizedBox(width: 10),
+              Expanded(
+                child: Text('Search 165K icons…',
+                    style: TextStyle(fontSize: 13, color: muted)),
+              ),
+              Container(
+                padding: const EdgeInsets.symmetric(horizontal: 5, vertical: 1.5),
+                decoration: BoxDecoration(
+                  border: Border.all(color: rule),
+                  borderRadius: BorderRadius.circular(4),
                 ),
+                child: Text('⌘K', style: AppTheme.mono(size: 10, color: muted)),
               ),
-            ),
-            const SizedBox(width: 8),
-            Container(
-              padding: const EdgeInsets.symmetric(horizontal: 5, vertical: 1.5),
-              decoration: BoxDecoration(
-                border: Border.all(color: rule),
-                borderRadius: BorderRadius.circular(4),
-              ),
-              child: Text(
-                '⌘K',
-                style: AppTheme.mono(size: 10, color: muted),
-              ),
-            ),
-          ],
+            ],
+          ),
         ),
       ),
     );
@@ -285,7 +301,6 @@ class _PubCta extends StatefulWidget {
 
 class _PubCtaState extends State<_PubCta> {
   bool _hover = false;
-
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;

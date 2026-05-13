@@ -6,8 +6,10 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 import '../../bootstrap/bootstrap_bloc.dart';
 import '../../bootstrap/icon_catalog.dart';
 import '../../router/coordinator.dart';
+import '../../router/routes/shell/app_shell_layout.dart';
 import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/pack_detail_route.dart';
+import '../../theme/app_theme.dart';
 
 class IconDetailPage extends StatelessWidget {
   const IconDetailPage({super.key, required this.prefix, required this.name});
@@ -20,264 +22,389 @@ class IconDetailPage extends StatelessWidget {
     return BlocBuilder<BootstrapBloc, BootstrapState>(
       builder: (context, state) {
         if (state is! BootstrapCatalogReady) {
-          return const Center(child: CircularProgressIndicator());
+          return const Center(
+              child: CircularProgressIndicator(color: AppTheme.coral));
         }
         final icons = state.catalog.byPrefix[prefix];
         final pack = state.packs.byPrefix[prefix];
         if (icons == null || pack == null) {
           return _Missing(prefix: prefix, name: name);
         }
-        final record =
-            icons.firstWhere((r) => r.name == name, orElse: () => icons.first);
-        return _IconView(record: record, pack: pack);
+        final record = icons.firstWhere(
+          (r) => r.name == name,
+          orElse: () => icons.first,
+        );
+        final related = icons.where((r) => r.name != record.name).take(12).toList();
+        return _IconView(record: record, pack: pack, related: related);
       },
     );
   }
 }
 
-class _IconView extends StatefulWidget {
-  const _IconView({required this.record, required this.pack});
-
+class _IconView extends StatelessWidget {
+  const _IconView({required this.record, required this.pack, required this.related});
   final IconRecord record;
   final PackSummary pack;
-
-  @override
-  State<_IconView> createState() => _IconViewState();
-}
-
-class _IconViewState extends State<_IconView> {
-  double _size = 96;
-  Color? _color;
+  final List<IconRecord> related;
 
   @override
   Widget build(BuildContext context) {
-    final cs = Theme.of(context).colorScheme;
-    final coordinator = appCoordinator;
-    final r = widget.record;
-    final dartSnippet = _dartSnippet(r);
-
-    return Material(
-      color: Theme.of(context).scaffoldBackgroundColor,
-      child: SingleChildScrollView(
-        padding: const EdgeInsets.fromLTRB(28, 24, 28, 32),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Row(
-              children: [
-                TextButton.icon(
-                  icon: const Icon(Icons.arrow_back, size: 18),
-                  label: Text(widget.pack.name),
-                  onPressed: () => coordinator.navigate(
-                    PackDetailRoute(prefix: widget.pack.prefix),
-                  ),
-                ),
-                const Text(' / '),
-                Flexible(
-                  child: SelectableText(
-                    r.name,
-                    style: Theme.of(context).textTheme.bodyMedium,
-                  ),
-                ),
-              ],
-            ),
-            const SizedBox(height: 16),
-            LayoutBuilder(
-              builder: (context, constraints) {
-                final wide = constraints.maxWidth >= 720;
-                final preview = AspectRatio(
-                  aspectRatio: 1,
-                  child: Container(
-                    decoration: BoxDecoration(
-                      color: cs.surfaceContainerHighest,
-                      borderRadius: BorderRadius.circular(16),
-                      border: Border.all(color: cs.outlineVariant),
-                    ),
-                    child: Center(
-                      child: IconifyIcon(
-                        r.toIconifyData(),
-                        size: _size,
-                        color: _color ?? cs.onSurface,
-                      ),
-                    ),
-                  ),
-                );
-                final controls = _ControlsAndCode(
-                  record: r,
-                  pack: widget.pack,
-                  size: _size,
-                  color: _color ?? cs.onSurface,
-                  onSizeChanged: (v) => setState(() => _size = v),
-                  onColorChanged: (c) => setState(() => _color = c),
-                  dartSnippet: dartSnippet,
-                );
-                if (wide) {
-                  return Row(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      SizedBox(width: 360, child: preview),
-                      const SizedBox(width: 24),
-                      Expanded(child: controls),
-                    ],
-                  );
-                }
-                return Column(
+    return PageContainer(
+      children: [
+        _Breadcrumb(packPrefix: pack.prefix, packName: pack.name, iconName: record.name),
+        const SizedBox(height: 16),
+        Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 28),
+          child: LayoutBuilder(
+            builder: (context, c) {
+              final wide = c.maxWidth >= 980;
+              final preview = _PreviewCard(record: record, pack: pack);
+              final right = _RightColumn(record: record, pack: pack, related: related);
+              if (wide) {
+                return Row(
+                  crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    preview,
-                    const SizedBox(height: 20),
-                    controls,
+                    Expanded(child: preview),
+                    const SizedBox(width: 48),
+                    SizedBox(width: 420, child: right),
                   ],
                 );
-              },
-            ),
-          ],
+              }
+              return Column(
+                crossAxisAlignment: CrossAxisAlignment.stretch,
+                children: [
+                  preview,
+                  const SizedBox(height: 24),
+                  right,
+                ],
+              );
+            },
+          ),
         ),
-      ),
-    );
-  }
-}
-
-class _ControlsAndCode extends StatelessWidget {
-  const _ControlsAndCode({
-    required this.record,
-    required this.pack,
-    required this.size,
-    required this.color,
-    required this.onSizeChanged,
-    required this.onColorChanged,
-    required this.dartSnippet,
-  });
-
-  final IconRecord record;
-  final PackSummary pack;
-  final double size;
-  final Color color;
-  final ValueChanged<double> onSizeChanged;
-  final ValueChanged<Color> onColorChanged;
-  final String dartSnippet;
-
-  @override
-  Widget build(BuildContext context) {
-    final cs = Theme.of(context).colorScheme;
-    return Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
-      children: [
-        Text(
-          record.name,
-          style: Theme.of(context)
-              .textTheme
-              .headlineSmall
-              ?.copyWith(fontWeight: FontWeight.w700),
-        ),
-        const SizedBox(height: 8),
-        Wrap(
-          spacing: 8,
-          runSpacing: 8,
-          children: [
-            _Chip('codepoint: 0x${record.codepoint.toRadixString(16)}'),
-            _Chip('font: ${record.fontFamily}'),
-            _Chip('package: ${record.fontPackage}'),
-            if (record.duotone) _Chip('duotone', color: cs.primary),
-          ],
-        ),
-        const SizedBox(height: 20),
-        Text('Size: ${size.toStringAsFixed(0)} px',
-            style: Theme.of(context).textTheme.labelLarge),
-        Slider(
-          value: size,
-          min: 16,
-          max: 256,
-          divisions: 30,
-          onChanged: onSizeChanged,
-        ),
-        Text('Color', style: Theme.of(context).textTheme.labelLarge),
-        const SizedBox(height: 6),
-        Wrap(
-          spacing: 6,
-          children: [
-            for (final c in const [
-              null,
-              Colors.indigo,
-              Colors.teal,
-              Colors.deepOrange,
-              Colors.red,
-              Colors.green,
-              Colors.amber,
-              Colors.pink,
-            ])
-              _ColorSwatch(
-                color: c ?? cs.onSurface,
-                selected: c == null,
-                onTap: () => onColorChanged(c ?? cs.onSurface),
-              ),
-          ],
-        ),
-        const SizedBox(height: 24),
-        Text('Dart usage',
-            style: Theme.of(context)
-                .textTheme
-                .titleSmall
-                ?.copyWith(fontWeight: FontWeight.w600)),
-        const SizedBox(height: 8),
-        _CodeBlock(code: dartSnippet),
+        const SizedBox(height: 56),
       ],
     );
   }
 }
 
-class _Chip extends StatelessWidget {
-  const _Chip(this.label, {this.color});
-  final String label;
-  final Color? color;
+class _Breadcrumb extends StatelessWidget {
+  const _Breadcrumb({required this.packPrefix, required this.packName, required this.iconName});
+  final String packPrefix;
+  final String packName;
+  final String iconName;
 
   @override
   Widget build(BuildContext context) {
-    final cs = Theme.of(context).colorScheme;
-    return Container(
-      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
-      decoration: BoxDecoration(
-        color: (color ?? cs.onSurfaceVariant).withValues(alpha: 0.08),
-        borderRadius: BorderRadius.circular(6),
-        border: Border.all(color: cs.outlineVariant),
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
+    final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
+    return Padding(
+      padding: const EdgeInsets.fromLTRB(28, 28, 28, 0),
+      child: Row(
+        children: [
+          _CrumbLink(label: 'iconifyx', onTap: () => appCoordinator.navigate(HomeRoute())),
+          Text(' / ', style: AppTheme.mono(size: 12, color: muted)),
+          _CrumbLink(label: 'icons', onTap: () => appCoordinator.navigate(HomeRoute())),
+          Text(' / ', style: AppTheme.mono(size: 12, color: muted)),
+          _CrumbLink(label: packName, onTap: () => appCoordinator.navigate(PackDetailRoute(prefix: packPrefix))),
+          Text(' / ', style: AppTheme.mono(size: 12, color: muted)),
+          Flexible(child: Text(iconName, overflow: TextOverflow.ellipsis, style: AppTheme.mono(size: 12, color: ink, weight: FontWeight.w600))),
+        ],
       ),
-      child: Text(
-        label,
-        style: TextStyle(
-          fontFamily: 'monospace',
-          color: color ?? cs.onSurfaceVariant,
-          fontSize: 12,
+    );
+  }
+}
+
+class _CrumbLink extends StatefulWidget {
+  const _CrumbLink({required this.label, required this.onTap});
+  final String label;
+  final VoidCallback onTap;
+  @override
+  State<_CrumbLink> createState() => _CrumbLinkState();
+}
+
+class _CrumbLinkState extends State<_CrumbLink> {
+  bool _hover = false;
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
+    return MouseRegion(
+      cursor: SystemMouseCursors.click,
+      onEnter: (_) => setState(() => _hover = true),
+      onExit: (_) => setState(() => _hover = false),
+      child: GestureDetector(
+        onTap: widget.onTap,
+        child: Text(widget.label, style: AppTheme.mono(size: 12, color: _hover ? AppTheme.coral : muted)),
+      ),
+    );
+  }
+}
+
+class _PreviewCard extends StatelessWidget {
+  const _PreviewCard({required this.record, required this.pack});
+  final IconRecord record;
+  final PackSummary pack;
+
+  static const _sizes = [16, 20, 24, 32, 48];
+
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final paper = isDark ? AppTheme.paperDark : AppTheme.paper;
+    final paper2 = isDark ? AppTheme.paper2Dark : AppTheme.paper2;
+    final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
+    final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
+    return Container(
+      padding: const EdgeInsets.all(48),
+      decoration: BoxDecoration(
+        color: Theme.of(context).colorScheme.surface,
+        borderRadius: BorderRadius.circular(20),
+        border: Border.all(color: Theme.of(context).dividerColor),
+      ),
+      child: Column(
+        children: [
+          // 240×240 preview stage @ 120px icon.
+          Container(
+            width: 240,
+            height: 240,
+            decoration: BoxDecoration(
+              color: paper,
+              borderRadius: BorderRadius.circular(16),
+              border: Border.all(color: Theme.of(context).dividerColor),
+            ),
+            alignment: Alignment.center,
+            child: IconifyIcon(record.toIconifyData(), size: 120, color: ink),
+          ),
+          const SizedBox(height: 32),
+          // Name + Iconfyx.foo · Category mono sub.
+          Text(record.name,
+              textAlign: TextAlign.center,
+              style: Theme.of(context).textTheme.headlineSmall),
+          const SizedBox(height: 4),
+          Text(
+            '${record.prefix}:${record.name} · ${pack.name}',
+            textAlign: TextAlign.center,
+            style: AppTheme.mono(size: 12, color: muted),
+          ),
+          const SizedBox(height: 32),
+          // Size row.
+          Wrap(
+            alignment: WrapAlignment.center,
+            spacing: 18,
+            runSpacing: 12,
+            children: [
+              for (final s in _sizes)
+                Column(
+                  children: [
+                    Container(
+                      width: s + 18.0,
+                      height: s + 18.0,
+                      decoration: BoxDecoration(
+                        color: paper2,
+                        borderRadius: BorderRadius.circular(10),
+                      ),
+                      alignment: Alignment.center,
+                      child: IconifyIcon(record.toIconifyData(),
+                          size: s.toDouble(), color: ink),
+                    ),
+                    const SizedBox(height: 6),
+                    Text('${s}px',
+                        style: AppTheme.mono(size: 11, color: muted)),
+                  ],
+                ),
+            ],
+          ),
+          const SizedBox(height: 28),
+          // Actions row.
+          Wrap(
+            alignment: WrapAlignment.center,
+            spacing: 8,
+            children: [
+              _PrimaryButton(
+                icon: Icons.copy_rounded,
+                label: 'Copy Dart',
+                onTap: () => _copyDartSnippet(context, record),
+              ),
+              _SecondaryButton(
+                icon: Icons.numbers_rounded,
+                label: 'Copy const',
+                onTap: () => _copyConst(context, record),
+              ),
+              _SecondaryButton(
+                icon: Icons.share_outlined,
+                label: 'Share URL',
+                onTap: () => _shareUrl(context, record),
+              ),
+            ],
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+class _RightColumn extends StatelessWidget {
+  const _RightColumn({required this.record, required this.pack, required this.related});
+  final IconRecord record;
+  final PackSummary pack;
+  final List<IconRecord> related;
+
+  @override
+  Widget build(BuildContext context) {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.stretch,
+      children: [
+        _CodeTabs(record: record),
+        const SizedBox(height: 18),
+        _MetaCard(record: record, pack: pack),
+        const SizedBox(height: 18),
+        _Related(pack: pack, records: related),
+      ],
+    );
+  }
+}
+
+// ─── Code tabs + dark code block ────────────────────────────────────────────
+class _CodeTabs extends StatefulWidget {
+  const _CodeTabs({required this.record});
+  final IconRecord record;
+  @override
+  State<_CodeTabs> createState() => _CodeTabsState();
+}
+
+class _CodeTabsState extends State<_CodeTabs> {
+  int _active = 0;
+  static const _tabs = ['Flutter', 'IconData', 'Codepoint'];
+
+  String _snippetFor(int idx) {
+    final r = widget.record;
+    final cp = '0x${r.codepoint.toRadixString(16)}';
+    final cls = _packClassName(r.prefix);
+    final ident = _camelize(r.name);
+    switch (idx) {
+      case 0:
+        return "import 'package:${r.fontPackage}/${r.fontPackage}.dart';\nimport 'package:iconifyx_core/iconifyx_core.dart';\n\nIconifyIcon(\n  $cls.$ident,\n  size: 24,\n);";
+      case 1:
+        if (r.duotone) {
+          return "// duotone: same codepoint, <Family>Secondary\nIconifyIconData.duo(\n  IconData($cp, fontFamily: '${r.fontFamily}', fontPackage: '${r.fontPackage}'),\n  IconData($cp, fontFamily: '${r.fontFamily}Secondary', fontPackage: '${r.fontPackage}'),\n)";
+        }
+        return "IconifyIconData.solo(\n  IconData($cp, fontFamily: '${r.fontFamily}', fontPackage: '${r.fontPackage}'),\n)";
+      case 2:
+        return "// codepoint reserved across regens\n$cp // ${r.name}";
+    }
+    return '';
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final paper2 = isDark ? AppTheme.paper2Dark : AppTheme.paper2;
+    final ink2 = isDark ? AppTheme.ink2Dark : AppTheme.ink2;
+    final code = _snippetFor(_active);
+    return Container(
+      decoration: BoxDecoration(
+        borderRadius: BorderRadius.circular(14),
+        border: Border.all(color: Theme.of(context).dividerColor),
+      ),
+      clipBehavior: Clip.antiAlias,
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.stretch,
+        children: [
+          Container(
+            color: paper2,
+            padding: const EdgeInsets.all(4),
+            child: Row(
+              children: [
+                for (var i = 0; i < _tabs.length; i++) ...[
+                  _TabBtn(
+                    label: _tabs[i],
+                    active: _active == i,
+                    onTap: () => setState(() => _active = i),
+                  ),
+                  if (i < _tabs.length - 1) const SizedBox(width: 4),
+                ],
+                const Spacer(),
+                _CopyChip(text: code, color: ink2),
+              ],
+            ),
+          ),
+          _CodeBlock(code: code),
+        ],
+      ),
+    );
+  }
+}
+
+class _TabBtn extends StatelessWidget {
+  const _TabBtn({required this.label, required this.active, required this.onTap});
+  final String label;
+  final bool active;
+  final VoidCallback onTap;
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final card = isDark ? AppTheme.cardDark : AppTheme.card;
+    final ink2 = isDark ? AppTheme.ink2Dark : AppTheme.ink2;
+    return GestureDetector(
+      onTap: onTap,
+      child: MouseRegion(
+        cursor: SystemMouseCursors.click,
+        child: Container(
+          padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+          decoration: BoxDecoration(
+            color: active ? card : Colors.transparent,
+            borderRadius: BorderRadius.circular(6),
+            border: Border.all(color: active ? Theme.of(context).dividerColor : Colors.transparent),
+          ),
+          child: Text(label, style: AppTheme.mono(size: 12, color: ink2, weight: FontWeight.w600)),
         ),
       ),
     );
   }
 }
 
-class _ColorSwatch extends StatelessWidget {
-  const _ColorSwatch({
-    required this.color,
-    required this.selected,
-    required this.onTap,
-  });
-
+class _CopyChip extends StatefulWidget {
+  const _CopyChip({required this.text, required this.color});
+  final String text;
   final Color color;
-  final bool selected;
-  final VoidCallback onTap;
+  @override
+  State<_CopyChip> createState() => _CopyChipState();
+}
 
+class _CopyChipState extends State<_CopyChip> {
+  bool _hover = false;
+  bool _copied = false;
+  Future<void> _do() async {
+    await Clipboard.setData(ClipboardData(text: widget.text));
+    if (!mounted) return;
+    setState(() => _copied = true);
+    await Future.delayed(const Duration(milliseconds: 1400));
+    if (mounted) setState(() => _copied = false);
+  }
   @override
   Widget build(BuildContext context) {
-    return InkWell(
-      onTap: onTap,
-      child: Container(
-        width: 28,
-        height: 28,
-        decoration: BoxDecoration(
-          color: color,
-          shape: BoxShape.circle,
-          border: Border.all(
-            color: selected
-                ? Theme.of(context).colorScheme.primary
-                : Theme.of(context).colorScheme.outlineVariant,
-            width: selected ? 2 : 1,
+    return MouseRegion(
+      cursor: SystemMouseCursors.click,
+      onEnter: (_) => setState(() => _hover = true),
+      onExit: (_) => setState(() => _hover = false),
+      child: GestureDetector(
+        onTap: _do,
+        child: AnimatedContainer(
+          duration: const Duration(milliseconds: 120),
+          padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+          decoration: BoxDecoration(
+            color: _hover ? AppTheme.coral : Colors.transparent,
+            borderRadius: BorderRadius.circular(6),
+          ),
+          child: Text(
+            _copied ? 'COPIED' : 'COPY',
+            style: AppTheme.mono(
+              size: 11,
+              weight: FontWeight.w600,
+              color: _hover ? Colors.white : widget.color,
+              letterSpacing: 0.5,
+            ),
           ),
         ),
       ),
@@ -288,67 +415,253 @@ class _ColorSwatch extends StatelessWidget {
 class _CodeBlock extends StatelessWidget {
   const _CodeBlock({required this.code});
   final String code;
-
   @override
   Widget build(BuildContext context) {
-    final cs = Theme.of(context).colorScheme;
+    const codeBg = Color(0xFF0F1422);
+    const codeFg = Color(0xFFE6DECF);
     return Container(
-      width: double.infinity,
-      padding: const EdgeInsets.fromLTRB(16, 12, 8, 12),
-      decoration: BoxDecoration(
-        color: cs.surfaceContainerHighest,
-        borderRadius: BorderRadius.circular(8),
-        border: Border.all(color: cs.outlineVariant),
-      ),
-      child: Row(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          Expanded(
-            child: SelectableText(
-              code,
-              style: const TextStyle(fontFamily: 'monospace', fontSize: 12.5),
-            ),
-          ),
-          IconButton(
-            tooltip: 'Copy',
-            icon: const Icon(Icons.copy, size: 18),
-            onPressed: () async {
-              await Clipboard.setData(ClipboardData(text: code));
-              if (context.mounted) {
-                ScaffoldMessenger.of(context).showSnackBar(
-                  const SnackBar(content: Text('Copied to clipboard')),
-                );
-              }
-            },
-          ),
-        ],
+      color: codeBg,
+      padding: const EdgeInsets.all(16),
+      child: SelectableText(
+        code,
+        style: AppTheme.mono(size: 12.5, color: codeFg, height: 1.65),
       ),
     );
   }
 }
 
-String _dartSnippet(IconRecord r) {
-  if (r.duotone) {
-    return '''IconifyIcon(
-  IconifyIconData.duo(
-    IconData(0x${r.codepoint.toRadixString(16)},
-      fontFamily: '${r.fontFamily}',
-      fontPackage: '${r.fontPackage}'),
-    IconData(0x${r.codepoint.toRadixString(16)},
-      fontFamily: '${r.fontFamily}Secondary',
-      fontPackage: '${r.fontPackage}'),
-  ),
-  size: 24,
-)''';
+// ─── Meta card ──────────────────────────────────────────────────────────────
+class _MetaCard extends StatelessWidget {
+  const _MetaCard({required this.record, required this.pack});
+  final IconRecord record;
+  final PackSummary pack;
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
+    final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
+    Widget kv(String k, String v) {
+      return Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Text(k.toUpperCase(),
+              style: AppTheme.mono(
+                  size: 10, color: muted, weight: FontWeight.w700, letterSpacing: 1.0)),
+          const SizedBox(height: 4),
+          Text(v, style: AppTheme.mono(size: 13, color: ink, weight: FontWeight.w500)),
+        ],
+      );
+    }
+    final items = [
+      kv('Style', record.duotone ? 'Duotone' : 'Mono'),
+      kv('Codepoint', '0x${record.codepoint.toRadixString(16).toUpperCase()}'),
+      kv('Font', record.fontFamily),
+      kv('Package', record.fontPackage),
+      kv('License', pack.license),
+      kv('Category', pack.category),
+    ];
+    return Container(
+      padding: const EdgeInsets.all(18),
+      decoration: BoxDecoration(
+        color: Theme.of(context).colorScheme.surface,
+        borderRadius: BorderRadius.circular(14),
+        border: Border.all(color: Theme.of(context).dividerColor),
+      ),
+      child: GridView.count(
+        crossAxisCount: 2,
+        shrinkWrap: true,
+        physics: const NeverScrollableScrollPhysics(),
+        childAspectRatio: 4.2,
+        mainAxisSpacing: 14,
+        crossAxisSpacing: 14,
+        children: items,
+      ),
+    );
   }
-  return '''IconifyIcon(
-  IconifyIconData.solo(
-    IconData(0x${r.codepoint.toRadixString(16)},
-      fontFamily: '${r.fontFamily}',
-      fontPackage: '${r.fontPackage}'),
-  ),
-  size: 24,
-)''';
+}
+
+// ─── Related ────────────────────────────────────────────────────────────────
+class _Related extends StatelessWidget {
+  const _Related({required this.pack, required this.records});
+  final PackSummary pack;
+  final List<IconRecord> records;
+  @override
+  Widget build(BuildContext context) {
+    if (records.isEmpty) return const SizedBox.shrink();
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.stretch,
+      children: [
+        Padding(
+          padding: const EdgeInsets.fromLTRB(0, 8, 0, 12),
+          child: Text('Related in ${pack.name}',
+              style: Theme.of(context).textTheme.titleMedium),
+        ),
+        GridView.builder(
+          shrinkWrap: true,
+          physics: const NeverScrollableScrollPhysics(),
+          itemCount: records.length,
+          gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+            crossAxisCount: 6,
+            mainAxisSpacing: 6,
+            crossAxisSpacing: 6,
+          ),
+          itemBuilder: (context, i) => _RelatedTile(record: records[i]),
+        ),
+      ],
+    );
+  }
+}
+
+class _RelatedTile extends StatefulWidget {
+  const _RelatedTile({required this.record});
+  final IconRecord record;
+  @override
+  State<_RelatedTile> createState() => _RelatedTileState();
+}
+
+class _RelatedTileState extends State<_RelatedTile> {
+  bool _hover = false;
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final ink2 = isDark ? AppTheme.ink2Dark : AppTheme.ink2;
+    final coralSoft = isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft;
+    return MouseRegion(
+      cursor: SystemMouseCursors.click,
+      onEnter: (_) => setState(() => _hover = true),
+      onExit: (_) => setState(() => _hover = false),
+      child: GestureDetector(
+        onTap: () => appCoordinator.push(
+          PackDetailRoute(prefix: widget.record.prefix),
+        ),
+        child: AspectRatio(
+          aspectRatio: 1,
+          child: Tooltip(
+            message: widget.record.name,
+            child: AnimatedContainer(
+              duration: const Duration(milliseconds: 100),
+              decoration: BoxDecoration(
+                color: _hover ? coralSoft : Colors.transparent,
+                border: Border.all(
+                  color: _hover ? AppTheme.coral : Theme.of(context).dividerColor,
+                ),
+                borderRadius: BorderRadius.circular(8),
+              ),
+              child: Center(
+                child: FittedBox(
+                  fit: BoxFit.contain,
+                  child: IconifyIcon(
+                    widget.record.toIconifyData(),
+                    size: 22,
+                    color: _hover ? AppTheme.coral : ink2,
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+// ─── Buttons ────────────────────────────────────────────────────────────────
+class _PrimaryButton extends StatefulWidget {
+  const _PrimaryButton({required this.icon, required this.label, required this.onTap});
+  final IconData icon;
+  final String label;
+  final VoidCallback onTap;
+  @override
+  State<_PrimaryButton> createState() => _PrimaryButtonState();
+}
+
+class _PrimaryButtonState extends State<_PrimaryButton> {
+  bool _hover = false;
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
+    return MouseRegion(
+      cursor: SystemMouseCursors.click,
+      onEnter: (_) => setState(() => _hover = true),
+      onExit: (_) => setState(() => _hover = false),
+      child: GestureDetector(
+        onTap: widget.onTap,
+        child: AnimatedContainer(
+          duration: const Duration(milliseconds: 120),
+          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
+          decoration: BoxDecoration(
+            color: _hover ? ink : AppTheme.coral,
+            borderRadius: BorderRadius.circular(10),
+          ),
+          child: Row(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Icon(widget.icon, size: 16, color: Colors.white),
+              const SizedBox(width: 6),
+              Text(widget.label,
+                  style: const TextStyle(
+                    color: Colors.white,
+                    fontSize: 13,
+                    fontWeight: FontWeight.w600,
+                  )),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+class _SecondaryButton extends StatefulWidget {
+  const _SecondaryButton({required this.icon, required this.label, required this.onTap});
+  final IconData icon;
+  final String label;
+  final VoidCallback onTap;
+  @override
+  State<_SecondaryButton> createState() => _SecondaryButtonState();
+}
+
+class _SecondaryButtonState extends State<_SecondaryButton> {
+  bool _hover = false;
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final ink2 = isDark ? AppTheme.ink2Dark : AppTheme.ink2;
+    final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
+    final rule = isDark ? AppTheme.ruleDark : AppTheme.rule;
+    final card = isDark ? AppTheme.cardDark : AppTheme.card;
+    return MouseRegion(
+      cursor: SystemMouseCursors.click,
+      onEnter: (_) => setState(() => _hover = true),
+      onExit: (_) => setState(() => _hover = false),
+      child: GestureDetector(
+        onTap: widget.onTap,
+        child: AnimatedContainer(
+          duration: const Duration(milliseconds: 120),
+          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
+          decoration: BoxDecoration(
+            color: card,
+            border: Border.all(color: _hover ? ink : rule),
+            borderRadius: BorderRadius.circular(10),
+          ),
+          child: Row(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Icon(widget.icon, size: 16, color: ink2),
+              const SizedBox(width: 6),
+              Text(widget.label,
+                  style: TextStyle(
+                    color: ink2,
+                    fontSize: 13,
+                    fontWeight: FontWeight.w600,
+                  )),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
 }
 
 class _Missing extends StatelessWidget {
@@ -360,14 +673,14 @@ class _Missing extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
       child: Padding(
-        padding: const EdgeInsets.all(32),
+        padding: const EdgeInsets.all(48),
         child: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
-            const Icon(Icons.help_outline, size: 48),
+            const Icon(Icons.help_outline, size: 56),
             const SizedBox(height: 16),
             Text('Icon "$name" not found in "$prefix"'),
-            const SizedBox(height: 12),
+            const SizedBox(height: 16),
             FilledButton(
               onPressed: () => appCoordinator.navigate(HomeRoute()),
               child: const Text('Back to home'),
@@ -375,6 +688,60 @@ class _Missing extends StatelessWidget {
           ],
         ),
       ),
+    );
+  }
+}
+
+// ─── Helpers ────────────────────────────────────────────────────────────────
+String _packClassName(String prefix) {
+  // e.g. "fa6-solid" → "Fa6SolidIcons", "mdi" → "MdiIcons"
+  final parts = prefix.split(RegExp(r'[-_]'));
+  return '${parts.map((p) => p.isEmpty ? p : p[0].toUpperCase() + p.substring(1)).join('')}Icons';
+}
+
+String _camelize(String name) {
+  final parts = name.split(RegExp(r'[-._/:]'));
+  if (parts.isEmpty) return name;
+  final head = parts.first.toLowerCase();
+  final tail = parts.skip(1).map((p) =>
+      p.isEmpty ? '' : p[0].toUpperCase() + p.substring(1).toLowerCase());
+  var ident = '$head${tail.join('')}';
+  if (ident.isNotEmpty && RegExp(r'^[0-9]').hasMatch(ident)) {
+    ident = 'n$ident';
+  }
+  return ident;
+}
+
+Future<void> _copyDartSnippet(BuildContext context, IconRecord r) async {
+  final cls = _packClassName(r.prefix);
+  final ident = _camelize(r.name);
+  final snippet =
+      "import 'package:${r.fontPackage}/${r.fontPackage}.dart';\nimport 'package:iconifyx_core/iconifyx_core.dart';\n\nIconifyIcon($cls.$ident, size: 24)";
+  await Clipboard.setData(ClipboardData(text: snippet));
+  if (context.mounted) {
+    ScaffoldMessenger.of(context).showSnackBar(
+      const SnackBar(content: Text('Dart snippet copied')),
+    );
+  }
+}
+
+Future<void> _copyConst(BuildContext context, IconRecord r) async {
+  final cls = _packClassName(r.prefix);
+  final ident = _camelize(r.name);
+  await Clipboard.setData(ClipboardData(text: '$cls.$ident'));
+  if (context.mounted) {
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(content: Text('Copied $cls.$ident')),
+    );
+  }
+}
+
+Future<void> _shareUrl(BuildContext context, IconRecord r) async {
+  final url = '/pack/${r.prefix}/icon/${Uri.encodeComponent(r.name)}';
+  await Clipboard.setData(ClipboardData(text: url));
+  if (context.mounted) {
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(content: Text('URL copied: $url')),
     );
   }
 }

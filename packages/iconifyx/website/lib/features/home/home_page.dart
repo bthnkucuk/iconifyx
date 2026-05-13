@@ -6,10 +6,10 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 import '../../bootstrap/bootstrap_bloc.dart';
 import '../../bootstrap/icon_catalog.dart';
 import '../../router/coordinator.dart';
+import '../../router/routes/shell/all_packs_route.dart';
 import '../../router/routes/shell/app_shell_layout.dart';
 import '../../router/routes/shell/category_route.dart';
 import '../../router/routes/shell/pack_detail_route.dart';
-import '../../router/routes/shell/search_route.dart';
 import '../../theme/app_theme.dart';
 
 class HomePage extends StatelessWidget {
@@ -87,14 +87,17 @@ class _Hero extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Padding(
-      padding: const EdgeInsets.fromLTRB(28, 72, 28, 56),
-      child: Stack(
-        children: [
-          _HeroScatter(mdiPack: mdiPack, names: scatterIcons),
-          Column(
-            crossAxisAlignment: CrossAxisAlignment.center,
-            children: [
+    return SizedBox(
+      width: double.infinity,
+      child: Padding(
+        padding: const EdgeInsets.fromLTRB(28, 72, 28, 56),
+        child: Stack(
+          alignment: Alignment.topCenter,
+          children: [
+            _HeroScatter(mdiPack: mdiPack, names: scatterIcons),
+            Column(
+              crossAxisAlignment: CrossAxisAlignment.center,
+              children: [
               ConstrainedBox(
                 constraints: const BoxConstraints(maxWidth: 880),
                 child: Text.rich(
@@ -127,7 +130,8 @@ class _Hero extends StatelessWidget {
               _HeroStats(packs: packs),
             ],
           ),
-        ],
+          ],
+        ),
       ),
     );
   }
@@ -144,45 +148,69 @@ class _HeroScatter extends StatelessWidget {
     if (pack == null) return const SizedBox.shrink();
     // Build a {name → IconRecord} from the pack preview (only ~12 items).
     final byName = <String, IconRecord>{for (final r in pack.preview) r.name: r};
-    // Approximate scatter positions (top%, left%, rotate°, highlighted).
-    const spots = <_ScatterSpot>[
-      _ScatterSpot(top: 16, left: 8, rotate: -7, highlighted: false),
-      _ScatterSpot(top: 28, left: 88, rotate: 6, highlighted: true),
-      _ScatterSpot(top: 72, left: 4, rotate: 4, highlighted: false),
-      _ScatterSpot(top: 60, left: 92, rotate: -3, highlighted: false),
-      _ScatterSpot(top: 8, left: 50, rotate: 8, highlighted: false),
-      _ScatterSpot(top: 86, left: 60, rotate: -5, highlighted: true),
-      _ScatterSpot(top: 50, left: 14, rotate: 3, highlighted: false),
-      _ScatterSpot(top: 40, left: 80, rotate: -8, highlighted: false),
-    ];
     return Positioned.fill(
-      child: ClipRect(
-        child: LayoutBuilder(
-          builder: (context, c) {
-            final children = <Widget>[];
-            for (var i = 0; i < spots.length && i < names.length; i++) {
-              final name = names[i];
-              final rec = byName[name] ?? (pack.preview.isNotEmpty ? pack.preview[i % pack.preview.length] : null);
-              if (rec == null) continue;
-              final s = spots[i];
-              children.add(Positioned(
-                top: c.maxHeight * (s.top / 100),
-                left: c.maxWidth * (s.left / 100) - 22,
-                child: _ScatterTile(record: rec, rotate: s.rotate, highlighted: s.highlighted),
-              ));
-            }
-            return Stack(children: children);
-          },
+      child: IgnorePointer(
+        child: ClipRect(
+          child: LayoutBuilder(
+            builder: (context, c) {
+              // Text max-width is 880; keep scatter in the left/right gutters
+              // outside that band so icons never overlap the headline.
+              const textMaxWidth = 880.0;
+              const tileSize = 44.0;
+              final gutter = (c.maxWidth - textMaxWidth) / 2;
+              if (gutter < tileSize + 8) {
+                // Screen too narrow — skip scatter rather than crowd the text.
+                return const SizedBox.shrink();
+              }
+              // top%, side (l/r), rotate°, highlighted.
+              const spots = <_ScatterGutterSpot>[
+                _ScatterGutterSpot(top: 0.10, side: _Side.left, dx: 0.55, rotate: -7, highlighted: false),
+                _ScatterGutterSpot(top: 0.18, side: _Side.right, dx: 0.45, rotate: 6, highlighted: true),
+                _ScatterGutterSpot(top: 0.48, side: _Side.left, dx: 0.20, rotate: 4, highlighted: false),
+                _ScatterGutterSpot(top: 0.58, side: _Side.right, dx: 0.65, rotate: -3, highlighted: false),
+                _ScatterGutterSpot(top: 0.72, side: _Side.left, dx: 0.60, rotate: 3, highlighted: false),
+                _ScatterGutterSpot(top: 0.78, side: _Side.right, dx: 0.30, rotate: -5, highlighted: true),
+                _ScatterGutterSpot(top: 0.36, side: _Side.left, dx: 0.35, rotate: 8, highlighted: false),
+                _ScatterGutterSpot(top: 0.32, side: _Side.right, dx: 0.55, rotate: -8, highlighted: false),
+              ];
+              final children = <Widget>[];
+              for (var i = 0; i < spots.length && i < names.length; i++) {
+                final name = names[i];
+                final rec = byName[name] ?? (pack.preview.isNotEmpty ? pack.preview[i % pack.preview.length] : null);
+                if (rec == null) continue;
+                final s = spots[i];
+                // dx is a 0..1 position WITHIN the gutter band.
+                final left = s.side == _Side.left
+                    ? s.dx * (gutter - tileSize)
+                    : c.maxWidth - gutter + s.dx * (gutter - tileSize);
+                children.add(Positioned(
+                  top: c.maxHeight * s.top,
+                  left: left,
+                  child: _ScatterTile(record: rec, rotate: s.rotate, highlighted: s.highlighted),
+                ));
+              }
+              return Stack(children: children);
+            },
+          ),
         ),
       ),
     );
   }
 }
 
-class _ScatterSpot {
-  const _ScatterSpot({required this.top, required this.left, required this.rotate, required this.highlighted});
+enum _Side { left, right }
+
+class _ScatterGutterSpot {
+  const _ScatterGutterSpot({
+    required this.top,
+    required this.side,
+    required this.dx,
+    required this.rotate,
+    required this.highlighted,
+  });
   final double top;
-  final double left;
+  final _Side side;
+  final double dx;
   final double rotate;
   final bool highlighted;
 }
@@ -257,10 +285,8 @@ class _InstallBarState extends State<_InstallBar> {
     final paper2 = isDark ? AppTheme.paper2Dark : AppTheme.paper2;
     final ink2 = isDark ? AppTheme.ink2Dark : AppTheme.ink2;
     final rule = isDark ? AppTheme.ruleDark : AppTheme.rule;
-    return Container(
+    return DecoratedBox(
       decoration: BoxDecoration(
-        color: card,
-        border: Border.all(color: rule),
         borderRadius: BorderRadius.circular(14),
         boxShadow: const [
           BoxShadow(
@@ -270,67 +296,77 @@ class _InstallBarState extends State<_InstallBar> {
           ),
         ],
       ),
-      child: IntrinsicHeight(
-        child: Row(
-          mainAxisSize: MainAxisSize.min,
-          children: [
-            Padding(
-              padding: const EdgeInsets.fromLTRB(18, 13, 20, 13),
-              child: Row(
-                children: [
-                  Container(
-                    width: 8,
-                    height: 8,
-                    decoration: const BoxDecoration(
-                      color: AppTheme.mint,
-                      shape: BoxShape.circle,
-                      boxShadow: [
-                        BoxShadow(color: AppTheme.mint, blurRadius: 8),
+      child: Container(
+        decoration: BoxDecoration(
+          color: card,
+          border: Border.all(color: rule),
+          borderRadius: BorderRadius.circular(14),
+        ),
+        clipBehavior: Clip.antiAlias,
+        child: IntrinsicHeight(
+          child: Row(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Padding(
+                padding: const EdgeInsets.fromLTRB(18, 13, 20, 13),
+                child: Row(
+                  children: [
+                    Container(
+                      width: 8,
+                      height: 8,
+                      decoration: const BoxDecoration(
+                        color: AppTheme.mint,
+                        shape: BoxShape.circle,
+                        boxShadow: [
+                          BoxShadow(color: AppTheme.mint, blurRadius: 8),
+                        ],
+                      ),
+                    ),
+                    const SizedBox(width: 10),
+                    Text(
+                      widget.command,
+                      style: AppTheme.mono(size: 14, color: ink2),
+                    ),
+                  ],
+                ),
+              ),
+              Container(width: 1, color: rule),
+              MouseRegion(
+                cursor: SystemMouseCursors.click,
+                onEnter: (_) => setState(() => _hover = true),
+                onExit: (_) => setState(() => _hover = false),
+                child: GestureDetector(
+                  onTap: _copy,
+                  child: AnimatedContainer(
+                    duration: const Duration(milliseconds: 120),
+                    padding: const EdgeInsets.symmetric(horizontal: 18),
+                    decoration: BoxDecoration(
+                      color: _hover ? AppTheme.coral : paper2,
+                    ),
+                    child: Row(
+                      children: [
+                        Icon(
+                          _copied ? Icons.check : Icons.copy_outlined,
+                          size: 14,
+                          color: _hover ? Colors.white : ink2,
+                        ),
+                        const SizedBox(width: 8),
+                        Text(
+                          _copied ? 'COPIED' : 'COPY',
+                          style: AppTheme.mono(
+                            size: 12,
+                            weight: FontWeight.w600,
+                            color: _hover ? Colors.white : ink2,
+                            letterSpacing: 0.24,
+                          ),
+                        ),
                       ],
                     ),
                   ),
-                  const SizedBox(width: 10),
-                  Text(widget.command,
-                      style: AppTheme.mono(size: 14, color: ink2)),
-                ],
-              ),
-            ),
-            Container(width: 1, color: rule),
-            MouseRegion(
-              cursor: SystemMouseCursors.click,
-              onEnter: (_) => setState(() => _hover = true),
-              onExit: (_) => setState(() => _hover = false),
-              child: GestureDetector(
-                onTap: _copy,
-                child: AnimatedContainer(
-                  duration: const Duration(milliseconds: 120),
-                  padding: const EdgeInsets.symmetric(horizontal: 18),
-                  decoration: BoxDecoration(
-                    color: _hover ? AppTheme.coral : paper2,
-                  ),
-                  child: Row(
-                    children: [
-                      Icon(
-                        _copied ? Icons.check : Icons.copy_outlined,
-                        size: 14,
-                        color: _hover ? Colors.white : ink2,
-                      ),
-                      const SizedBox(width: 8),
-                      Text(
-                        _copied ? 'COPIED' : 'COPY',
-                        style: AppTheme.mono(
-                          size: 12,
-                          weight: FontWeight.w600,
-                          color: _hover ? Colors.white : ink2,
-                          letterSpacing: 0.24,
-                        ),
-                      ),
-                    ],
-                  ),
                 ),
               ),
-            ),
-          ],
+            ],
+          ),
         ),
       ),
     );
@@ -414,7 +450,7 @@ class _CategorySection extends StatelessWidget {
               _TextButtonWithIcon(
                 label: 'All packs',
                 icon: Icons.arrow_outward,
-                onTap: () => appCoordinator.navigate(SearchRoute()),
+                onTap: () => appCoordinator.navigate(AllPacksRoute()),
               ),
             ],
           ),
@@ -622,7 +658,7 @@ class _AllPacksCardState extends State<_AllPacksCard> {
       onEnter: (_) => setState(() => _hover = true),
       onExit: (_) => setState(() => _hover = false),
       child: GestureDetector(
-        onTap: () => appCoordinator.navigate(SearchRoute()),
+        onTap: () => appCoordinator.navigate(AllPacksRoute()),
         child: AnimatedContainer(
           duration: const Duration(milliseconds: 150),
           transform: _hover
