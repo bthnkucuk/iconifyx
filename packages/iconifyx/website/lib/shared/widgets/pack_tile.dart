@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:iconifyx_core/iconifyx_core.dart';
 
 import '../../bootstrap/icon_catalog.dart';
 import '../../router/coordinator.dart';
 import '../../router/routes/shell/pack_detail_route.dart';
 import '../../theme/app_theme.dart';
 import 'hover_box.dart';
+import 'iconify_thumb.dart';
 
 /// Card used in the all-packs masonry and the home page's featured-packs row.
 /// Square-ish, 4-icon preview at the top, name + meta + count pill below.
@@ -129,7 +129,7 @@ class _SampleCell extends StatelessWidget {
       decoration:
           BoxDecoration(color: bg, borderRadius: BorderRadius.circular(10)),
       child: Center(
-        child: IconifyIcon(record.toIconifyData(), size: 20, color: color),
+        child: IconifyThumb(record.toIconifyData(), size: 20, color: color),
       ),
     );
   }

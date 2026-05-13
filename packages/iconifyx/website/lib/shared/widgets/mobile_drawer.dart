@@ -1,7 +1,6 @@
 // ignore_for_file: unused_element_parameter
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:iconifyx_core/iconifyx_core.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import '../../bootstrap/bootstrap_bloc.dart';
@@ -14,6 +13,7 @@ import '../../router/routes/shell/search_route.dart';
 import '../../theme/app_theme.dart';
 import '../../theme/theme_cubit.dart';
 import 'hover_box.dart';
+import 'iconify_thumb.dart';
 
 /// Mobile drawer: a sheet that slides down from below the top nav.
 /// Triggered by the hamburger button when viewport width < 900px.
@@ -441,7 +441,7 @@ class _CategoryCardMobileState extends State<_CategoryCardMobile> {
                   ),
                   child: Center(
                     child: i < samples.length
-                        ? IconifyIcon(
+                        ? IconifyThumb(
                             samples[i].toIconifyData(),
                             size: 14,
                             color: i == 0 ? AppTheme.coral : ink2,

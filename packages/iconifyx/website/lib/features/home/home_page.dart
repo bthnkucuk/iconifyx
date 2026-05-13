@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
-import 'package:iconifyx_core/iconifyx_core.dart';
 
 import '../../bootstrap/bootstrap_bloc.dart';
 import '../../bootstrap/icon_catalog.dart';
@@ -10,6 +9,7 @@ import '../../router/coordinator.dart';
 import '../../router/routes/shell/all_packs_route.dart';
 import '../../router/routes/shell/app_shell_layout.dart';
 import '../../shared/widgets/hover_box.dart';
+import '../../shared/widgets/iconify_thumb.dart';
 import '../../shared/widgets/pack_tile.dart';
 import '../../theme/app_theme.dart';
 
@@ -452,7 +452,7 @@ class _ScatterTile extends StatelessWidget {
           ],
         ),
         child: Center(
-          child: IconifyIcon(
+          child: IconifyThumb(
             record.toIconifyData(),
             size: 22,
             color: highlighted ? AppTheme.coral : ink2,
@@ -818,7 +818,7 @@ class _SampleCell extends StatelessWidget {
       decoration:
           BoxDecoration(color: bg, borderRadius: BorderRadius.circular(10)),
       child: Center(
-        child: IconifyIcon(record.toIconifyData(), size: 20, color: color),
+        child: IconifyThumb(record.toIconifyData(), size: 20, color: color),
       ),
     );
   }

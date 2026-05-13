@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:iconifyx_core/iconifyx_core.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import '../../shared/widgets/hover_box.dart';
+import '../../shared/widgets/iconify_thumb.dart';
 
 import '../../bootstrap/bootstrap_bloc.dart';
 import '../../bootstrap/icon_catalog.dart';
@@ -739,7 +739,7 @@ class _PopularTileState extends State<_PopularTile> {
           borderRadius: BorderRadius.circular(8),
         ),
         child: Center(
-          child: IconifyIcon(
+          child: IconifyThumb(
             widget.record.toIconifyData(),
             size: 20,
             color: hovered ? AppTheme.coral : ink2,
@@ -870,7 +870,7 @@ class _Entry {
           bg: bg,
           child: preview == null
               ? Icon(Icons.collections_outlined, size: 18, color: fg)
-              : IconifyIcon(preview.toIconifyData(), size: 18, color: fg),
+              : IconifyThumb(preview.toIconifyData(), size: 18, color: fg),
         );
       },
     );
@@ -890,7 +890,7 @@ class _Entry {
         required BuildContext context,
       }) =>
           _Leading(
-              bg: bg, child: IconifyIcon(r.toIconifyData(), size: 18, color: fg)),
+              bg: bg, child: IconifyThumb(r.toIconifyData(), size: 18, color: fg)),
     );
   }
 
@@ -940,7 +940,7 @@ class _CategoryLeading extends StatelessWidget {
           ),
           child: Center(
             child: i < samples.length
-                ? IconifyIcon(samples[i].toIconifyData(),
+                ? IconifyThumb(samples[i].toIconifyData(),
                     size: 11,
                     color: i == 0 ? AppTheme.coral : fg)
                 : const SizedBox.shrink(),

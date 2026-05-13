@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:iconifyx_core/iconifyx_core.dart';
 import 'package:stupid_simple_sheet/stupid_simple_sheet.dart';
 
 import '../../bootstrap/bootstrap_bloc.dart';
@@ -10,6 +9,7 @@ import '../../router/coordinator.dart';
 import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/pack_detail_route.dart';
 import '../../shared/widgets/hover_box.dart';
+import '../../shared/widgets/iconify_thumb.dart';
 import '../../theme/app_theme.dart';
 
 class IconDetailPage extends StatelessWidget {
@@ -235,7 +235,7 @@ class _PreviewCard extends StatelessWidget {
               border: Border.all(color: Theme.of(context).dividerColor),
             ),
             alignment: Alignment.center,
-            child: IconifyIcon(record.toIconifyData(), size: 120, color: ink),
+            child: IconifyThumb(record.toIconifyData(), size: 120, color: ink),
           ),
           const SizedBox(height: 32),
           // Name + Iconfyx.foo · Category mono sub.
@@ -266,7 +266,7 @@ class _PreviewCard extends StatelessWidget {
                         borderRadius: BorderRadius.circular(10),
                       ),
                       alignment: Alignment.center,
-                      child: IconifyIcon(record.toIconifyData(),
+                      child: IconifyThumb(record.toIconifyData(),
                           size: s.toDouble(), color: ink),
                     ),
                     const SizedBox(height: 6),
@@ -631,13 +631,10 @@ class _RelatedTileState extends State<_RelatedTile> {
               borderRadius: BorderRadius.circular(8),
             ),
             child: Center(
-              child: FittedBox(
-                fit: BoxFit.contain,
-                child: IconifyIcon(
-                  widget.record.toIconifyData(),
-                  size: 22,
-                  color: hovered ? AppTheme.coral : ink2,
-                ),
+              child: IconifyThumb(
+                widget.record.toIconifyData(),
+                size: 22,
+                color: hovered ? AppTheme.coral : ink2,
               ),
             ),
           ),

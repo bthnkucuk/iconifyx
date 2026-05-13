@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:iconifyx_core/iconifyx_core.dart';
 
 import '../../bootstrap/bootstrap_bloc.dart';
 import '../../bootstrap/icon_catalog.dart';
@@ -12,6 +11,7 @@ import '../../router/routes/shell/icon_detail_route.dart';
 import '../../router/routes/shell/pack_detail_route.dart';
 import '../../shared/widgets/collapsible_section.dart';
 import '../../shared/widgets/hover_box.dart';
+import '../../shared/widgets/iconify_thumb.dart';
 import '../../theme/app_theme.dart';
 
 /// Pack-detail page.
@@ -491,7 +491,7 @@ class _IconCell extends StatelessWidget {
               child: Center(
                 child: iconData == null
                     ? const SizedBox.shrink()
-                    : IconifyIcon(
+                    : IconifyThumb(
                         iconData,
                         size: palette.iconRenderSize,
                         color: hovered ? AppTheme.coral : palette.iconColor,
