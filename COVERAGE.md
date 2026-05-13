@@ -6,7 +6,7 @@ Generated 2026-05-13 from `@iconify/json` v2.2.472. Source counts are Iconify's 
 - **Sets fully missing:** 2
 - **Sets partially missing (≥5% gap):** 36
 - **Source icons:** 301,637
-- **Built icons:** 301,752
+- **Built icons:** 298,789
 
 Synthesised weight variants (Lucide / Tabler / Iconoir etc. with `-thin`/`-light`/`-bold` suffixes) are excluded from the built count so source-vs-built comparisons stay meaningful — those are local clones, not upstream icons.
 
@@ -21,24 +21,24 @@ Synthesised weight variants (Lucide / Tabler / Iconoir etc. with `-thin`/`-light
 
 | Set | Prefix | Source | Built | Missing | % |
 |---|---|---:|---:|---:|---:|
-| Noto Emoji | `noto` | 3,710 | 179 | 3,531 | 95.2% |
+| Noto Emoji | `noto` | 3,710 | 38 | 3,672 | 99.0% |
+| Fluent Emoji Flat | `fluent-emoji-flat` | 3,145 | 43 | 3,102 | 98.6% |
+| UnJS Logos | `unjs` | 63 | 1 | 62 | 98.4% |
+| Twitter Emoji | `twemoji` | 3,988 | 70 | 3,918 | 98.2% |
+| Emoji One (v1) | `emojione-v1` | 1,262 | 51 | 1,211 | 96.0% |
+| Emoji One (Colored) | `emojione` | 1,834 | 80 | 1,754 | 95.6% |
 | Kameleon color icons | `streamline-kameleon-color` | 400 | 20 | 380 | 95.0% |
-| UnJS Logos | `unjs` | 63 | 5 | 58 | 92.1% |
-| Twitter Emoji | `twemoji` | 3,988 | 475 | 3,513 | 88.1% |
-| Fluent Emoji Flat | `fluent-emoji-flat` | 3,145 | 434 | 2,711 | 86.2% |
-| Emoji One (v1) | `emojione-v1` | 1,262 | 245 | 1,017 | 80.6% |
-| Noto Emoji (v1) | `noto-v1` | 2,162 | 463 | 1,699 | 78.6% |
+| Noto Emoji (v1) | `noto-v1` | 2,162 | 160 | 2,002 | 92.6% |
+| Flat Color Icons | `flat-color-icons` | 329 | 32 | 297 | 90.3% |
+| Firefox OS Emoji | `fxemoji` | 1,034 | 117 | 917 | 88.7% |
+| VSCode Icons | `vscode-icons` | 1,489 | 234 | 1,255 | 84.3% |
+| Material Icon Theme | `material-icon-theme` | 1,168 | 234 | 934 | 80.0% |
 | Circle Flags | `circle-flags` | 634 | 153 | 481 | 75.9% |
-| Flat Color Icons | `flat-color-icons` | 329 | 83 | 246 | 74.8% |
-| Emoji One (Colored) | `emojione` | 1,834 | 503 | 1,331 | 72.6% |
-| VSCode Icons | `vscode-icons` | 1,489 | 418 | 1,071 | 71.9% |
+| SVG Logos | `logos` | 1,861 | 534 | 1,327 | 71.3% |
 | Freehand color icons | `streamline-freehand-color` | 1,000 | 307 | 693 | 69.3% |
-| Material Icon Theme | `material-icon-theme` | 1,168 | 389 | 779 | 66.7% |
 | Google Cloud Icons | `gcp` | 214 | 84 | 130 | 60.7% |
-| SVG Logos | `logos` | 1,861 | 827 | 1,034 | 55.6% |
 | IconPark TwoTone | `icon-park-twotone` | 1,944 | 884 | 1,060 | 54.5% |
 | Streamline Emojis | `streamline-emojis` | 787 | 407 | 380 | 48.3% |
-| Firefox OS Emoji | `fxemoji` | 1,034 | 536 | 498 | 48.2% |
 | Ultimate color icons | `streamline-ultimate-color` | 998 | 587 | 411 | 41.2% |
 | Devicon | `devicon` | 1,036 | 745 | 291 | 28.1% |
 | Flagpack | `flagpack` | 254 | 185 | 69 | 27.2% |
@@ -64,24 +64,24 @@ Synthesised weight variants (Lucide / Tabler / Iconoir etc. with `-thin`/`-light
 |---|---|---:|---:|---:|---|
 | Fluent UI System Color Icons | `fluent-color` | 890 | 0 | +890 | ✗ missing |
 | SVG Spinners | `svg-spinners` | 46 | 0 | +46 | ✗ missing |
-| Noto Emoji | `noto` | 3,710 | 179 | +3531 | ⚠ partial |
+| Noto Emoji | `noto` | 3,710 | 38 | +3672 | ⚠ partial |
+| Fluent Emoji Flat | `fluent-emoji-flat` | 3,145 | 43 | +3102 | ⚠ partial |
+| UnJS Logos | `unjs` | 63 | 1 | +62 | ⚠ partial |
+| Twitter Emoji | `twemoji` | 3,988 | 70 | +3918 | ⚠ partial |
+| Emoji One (v1) | `emojione-v1` | 1,262 | 51 | +1211 | ⚠ partial |
+| Emoji One (Colored) | `emojione` | 1,834 | 80 | +1754 | ⚠ partial |
 | Kameleon color icons | `streamline-kameleon-color` | 400 | 20 | +380 | ⚠ partial |
-| UnJS Logos | `unjs` | 63 | 5 | +58 | ⚠ partial |
-| Twitter Emoji | `twemoji` | 3,988 | 475 | +3513 | ⚠ partial |
-| Fluent Emoji Flat | `fluent-emoji-flat` | 3,145 | 434 | +2711 | ⚠ partial |
-| Emoji One (v1) | `emojione-v1` | 1,262 | 245 | +1017 | ⚠ partial |
-| Noto Emoji (v1) | `noto-v1` | 2,162 | 463 | +1699 | ⚠ partial |
+| Noto Emoji (v1) | `noto-v1` | 2,162 | 160 | +2002 | ⚠ partial |
+| Flat Color Icons | `flat-color-icons` | 329 | 32 | +297 | ⚠ partial |
+| Firefox OS Emoji | `fxemoji` | 1,034 | 117 | +917 | ⚠ partial |
+| VSCode Icons | `vscode-icons` | 1,489 | 234 | +1255 | ⚠ partial |
+| Material Icon Theme | `material-icon-theme` | 1,168 | 234 | +934 | ⚠ partial |
 | Circle Flags | `circle-flags` | 634 | 153 | +481 | ⚠ partial |
-| Flat Color Icons | `flat-color-icons` | 329 | 83 | +246 | ⚠ partial |
-| Emoji One (Colored) | `emojione` | 1,834 | 503 | +1331 | ⚠ partial |
-| VSCode Icons | `vscode-icons` | 1,489 | 418 | +1071 | ⚠ partial |
+| SVG Logos | `logos` | 1,861 | 534 | +1327 | ⚠ partial |
 | Freehand color icons | `streamline-freehand-color` | 1,000 | 307 | +693 | ⚠ partial |
-| Material Icon Theme | `material-icon-theme` | 1,168 | 389 | +779 | ⚠ partial |
 | Google Cloud Icons | `gcp` | 214 | 84 | +130 | ⚠ partial |
-| SVG Logos | `logos` | 1,861 | 827 | +1034 | ⚠ partial |
 | IconPark TwoTone | `icon-park-twotone` | 1,944 | 884 | +1060 | ⚠ partial |
 | Streamline Emojis | `streamline-emojis` | 787 | 407 | +380 | ⚠ partial |
-| Firefox OS Emoji | `fxemoji` | 1,034 | 536 | +498 | ⚠ partial |
 | Ultimate color icons | `streamline-ultimate-color` | 998 | 587 | +411 | ⚠ partial |
 | Devicon | `devicon` | 1,036 | 745 | +291 | ⚠ partial |
 | Flagpack | `flagpack` | 254 | 185 | +69 | ⚠ partial |

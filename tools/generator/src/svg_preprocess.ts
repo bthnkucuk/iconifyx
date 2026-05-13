@@ -32,7 +32,15 @@ export function iconToSvg(icon: ResolvedIcon): string {
     inner = `<g transform="${transforms.join(' ')}">${body}</g>`;
   }
 
-  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${width} ${height}">${inner}</svg>`;
+  // `xmlns:xlink` is declared defensively. A handful of Iconify bodies
+  // (e.g. `logos:deploy`, `logos:google-developers-icon`) reference legacy
+  // `xlink:href` attributes inline. Without the namespace declaration the
+  // oslllo-svg-fixer XML parser aborts the entire stroke-fill batch with
+  // "unknown namespace prefix 'xlink'", silently dropping every icon in
+  // the set back to its original multi-color body and letting it ship as
+  // a featureless monochrome blob. The declaration is harmless when xlink
+  // isn't used.
+  return `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 ${width} ${height}">${inner}</svg>`;
 }
 
 /**
@@ -95,6 +103,103 @@ export function rasterFillSignal(
 /** Back-compat shim — prefer rasterFillSignal for diagnostics. */
 export function isLikelyStrokeSet(icons: readonly ResolvedIcon[]): boolean {
   return rasterFillSignal(icons).strokeRatio >= 0.7;
+}
+
+// ============================================================================
+// Paint-order risk
+// ============================================================================
+//
+// Some Iconify sets (notably `logos`, `vscode-icons`, `devicon`, `material-icon-theme`)
+// ship multicolor SVGs where the visible icon depends on PAINT ORDER and
+// COLOR CONTRAST between layered shapes — e.g. a light "Ae" letterform
+// painted on top of a dark rounded-square background:
+//
+//   <rect fill="#1F0742" .../>
+//   <path fill="#D49EFB" d="…Ae letterform…"/>
+//
+// When converted to a monochrome TTF, every fill becomes `currentColor`.
+// The letter merges into the rectangle behind it (both same color,
+// non-zero winding fill rule) and the glyph renders as a featureless
+// filled square. This is a fundamentally different failure mode from
+// the stroke / evenodd cases above:
+//
+//   - Stroke: `stroke="…" fill="none"` — rasterize+trace fixes it.
+//   - Evenodd: internal cutouts via `fill-rule="evenodd"` — rasterize+trace fixes.
+//   - Paint-order: overlapping fills of different colors — rasterize+trace
+//     does NOT fix it (Potrace traces the COMBINED silhouette as one
+//     filled blob; the letter is "inside" the bg shape's filled region
+//     and gets absorbed regardless).
+//
+// We detect the risk per-icon by counting the number of distinct concrete
+// fill colors used in the body (excluding `none` and `currentColor`).
+// Anything > 1 is flagged. The pipeline then marks such icons as
+// deprecated so they never appear in the Dart class nor receive a glyph
+// in the TTF — better to omit a broken icon than ship a featureless blob.
+//
+// Codepoint stability is preserved: deprecated entries keep their slot
+// in the manifest, so consumers' apps that reference them still compile
+// (with a deprecation warning). If a future Iconify release replaces a
+// multi-fill body with a single-color equivalent, the next regen will
+// un-deprecate the icon automatically.
+
+const FILL_ATTR_RE = /\bfill\s*=\s*["']([^"']+)["']/g;
+const FILL_STYLE_RE = /\bfill\s*:\s*([^;"'\s]+)/g;
+
+/**
+ * Extract every concrete fill color appearing on elements in `body`.
+ * Returns a set of lowercased color tokens. `none`, `currentColor`,
+ * `transparent`, and `url(#...)` paint-server references are excluded
+ * because they don't contribute to the "two fills overlap in the same
+ * monochrome color" failure mode.
+ */
+function extractConcreteFills(body: string): Set<string> {
+  const colors = new Set<string>();
+  const scan = (re: RegExp): void => {
+    re.lastIndex = 0;
+    let m: RegExpExecArray | null;
+    while ((m = re.exec(body)) !== null) {
+      const raw = m[1]!.trim().toLowerCase();
+      if (raw === 'none' || raw === 'transparent') continue;
+      if (raw === 'currentcolor') continue;
+      if (raw.startsWith('url(')) continue;
+      colors.add(raw);
+    }
+  };
+  scan(FILL_ATTR_RE);
+  scan(FILL_STYLE_RE);
+  return colors;
+}
+
+/**
+ * Returns true if `body` is at risk of rendering as a featureless blob
+ * in a monochrome TTF because it relies on >1 distinct fill color to
+ * convey its meaning (i.e. paint-order layering).
+ */
+export function isPaintOrderRiskBody(body: string): boolean {
+  return extractConcreteFills(body).size >= 2;
+}
+
+export interface PaintOrderReason {
+  /** Fraction of sampled icons whose body uses ≥2 distinct concrete fills. */
+  paintOrderRatio: number;
+}
+
+/**
+ * Sample-based per-set paint-order signal. Mirrors `rasterFillSignal`
+ * but for the multi-fill failure mode. Surfaced in the audit report so
+ * we can spot packs that ship a lot of multicolor logos.
+ */
+export function paintOrderSignal(
+  icons: readonly ResolvedIcon[],
+  sampleSize = 25
+): PaintOrderReason {
+  const sample = icons.slice(0, sampleSize);
+  if (sample.length === 0) return { paintOrderRatio: 0 };
+  let n = 0;
+  for (const ic of sample) {
+    if (isPaintOrderRiskBody(ic.body)) n += 1;
+  }
+  return { paintOrderRatio: n / sample.length };
 }
 
 /**

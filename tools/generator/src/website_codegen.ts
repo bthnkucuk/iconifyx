@@ -162,9 +162,13 @@ ${deps}
   zenrouter_core: ^2.0.2
   flutter_staggered_grid_view: ^0.7.0
   shared_preferences: ^2.3.2
-  google_fonts: ^6.2.0
-  url_launcher: ^6.3.1
+  url_launcher: ^6.3.2
   oref: ^2.8.1
+  # IconDetailRoute presents the icon detail page as a content-sized sheet
+  # over the shell layout. \`google_fonts\` is intentionally NOT a dep —
+  # runtime gstatic.com fetches were crashing CanvasKit on web; we ship
+  # Plus Jakarta Sans + JetBrains Mono as static assets instead.
+  stupid_simple_sheet: ^0.9.1
 
 dev_dependencies:
   flutter_test:
@@ -176,6 +180,29 @@ flutter:
   assets:
     - lib/data/packs.json
     - lib/data/icons_index.json
+  fonts:
+    - family: PlusJakartaSans
+      fonts:
+        - asset: assets/fonts/PlusJakartaSans-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/PlusJakartaSans-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/PlusJakartaSans-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/PlusJakartaSans-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/PlusJakartaSans-ExtraBold.ttf
+          weight: 800
+    - family: JetBrainsMono
+      fonts:
+        - asset: assets/fonts/JetBrainsMono-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/JetBrainsMono-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/JetBrainsMono-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/JetBrainsMono-Bold.ttf
+          weight: 700
 `;
 }
 

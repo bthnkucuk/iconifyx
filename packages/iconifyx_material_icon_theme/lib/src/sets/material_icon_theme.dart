@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Material Extensions
 /// License: MIT — https://github.com/material-extensions/vscode-material-icon-theme/blob/main/LICENSE
-/// Icons: 389 (split across 2 fonts)
+/// Icons: 234 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -116,11 +116,6 @@ class MaterialIconThemeIcons {
     IconData(0xe013, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
-  /// `cabal`
-  static const IconifyIconData cabal = IconifyIconData.solo(
-    IconData(0xe014, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
   /// `caddy`
   static const IconifyIconData caddy = IconifyIconData.solo(
     IconData(0xe015, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
@@ -134,11 +129,6 @@ class MaterialIconThemeIcons {
   /// `capacitor`
   static const IconifyIconData capacitor = IconifyIconData.solo(
     IconData(0xe017, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `cbx`
-  static const IconifyIconData cbx = IconifyIconData.solo(
-    IconData(0xe018, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
   /// `changelog`
@@ -321,19 +311,9 @@ class MaterialIconThemeIcons {
     IconData(0xe03c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
-  /// `editorconfig`
-  static const IconifyIconData editorconfig = IconifyIconData.solo(
-    IconData(0xe03d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
   /// `ejs`
   static const IconifyIconData ejs = IconifyIconData.solo(
     IconData(0xe03e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `elm`
-  static const IconifyIconData elm = IconifyIconData.solo(
-    IconData(0xe03f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
   /// `email`
@@ -376,711 +356,15 @@ class MaterialIconThemeIcons {
     IconData(0xe047, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
-  /// `folder-android`
-  static const IconifyIconData folderAndroid = IconifyIconData.solo(
-    IconData(0xe048, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-android-open`
-  static const IconifyIconData folderAndroidOpen = IconifyIconData.solo(
-    IconData(0xe049, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-api`
-  static const IconifyIconData folderApi = IconifyIconData.solo(
-    IconData(0xe04a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-api-open`
-  static const IconifyIconData folderApiOpen = IconifyIconData.solo(
-    IconData(0xe04b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-archive`
-  static const IconifyIconData folderArchive = IconifyIconData.solo(
-    IconData(0xe04c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-archive-open`
-  static const IconifyIconData folderArchiveOpen = IconifyIconData.solo(
-    IconData(0xe04d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-attachment`
-  static const IconifyIconData folderAttachment = IconifyIconData.solo(
-    IconData(0xe04e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-attachment-open`
-  static const IconifyIconData folderAttachmentOpen = IconifyIconData.solo(
-    IconData(0xe04f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-bicep`
-  static const IconifyIconData folderBicep = IconifyIconData.solo(
-    IconData(0xe050, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-bicep-open`
-  static const IconifyIconData folderBicepOpen = IconifyIconData.solo(
-    IconData(0xe051, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-bloc`
-  static const IconifyIconData folderBloc = IconifyIconData.solo(
-    IconData(0xe052, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-bloc-open`
-  static const IconifyIconData folderBlocOpen = IconifyIconData.solo(
-    IconData(0xe053, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-cline`
-  static const IconifyIconData folderCline = IconifyIconData.solo(
-    IconData(0xe054, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-cline-open`
-  static const IconifyIconData folderClineOpen = IconifyIconData.solo(
-    IconData(0xe055, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-cloudflare`
-  static const IconifyIconData folderCloudflare = IconifyIconData.solo(
-    IconData(0xe056, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-cloudflare-open`
-  static const IconifyIconData folderCloudflareOpen = IconifyIconData.solo(
-    IconData(0xe057, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-cluster`
-  static const IconifyIconData folderCluster = IconifyIconData.solo(
-    IconData(0xe058, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-cluster-open`
-  static const IconifyIconData folderClusterOpen = IconifyIconData.solo(
-    IconData(0xe059, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-components`
-  static const IconifyIconData folderComponents = IconifyIconData.solo(
-    IconData(0xe05a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-components-open`
-  static const IconifyIconData folderComponentsOpen = IconifyIconData.solo(
-    IconData(0xe05b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-config`
-  static const IconifyIconData folderConfig = IconifyIconData.solo(
-    IconData(0xe05c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-config-open`
-  static const IconifyIconData folderConfigOpen = IconifyIconData.solo(
-    IconData(0xe05d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-connection`
-  static const IconifyIconData folderConnection = IconifyIconData.solo(
-    IconData(0xe05e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-connection-open`
-  static const IconifyIconData folderConnectionOpen = IconifyIconData.solo(
-    IconData(0xe05f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-console`
-  static const IconifyIconData folderConsole = IconifyIconData.solo(
-    IconData(0xe060, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-console-open`
-  static const IconifyIconData folderConsoleOpen = IconifyIconData.solo(
-    IconData(0xe061, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-content`
-  static const IconifyIconData folderContent = IconifyIconData.solo(
-    IconData(0xe062, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-content-open`
-  static const IconifyIconData folderContentOpen = IconifyIconData.solo(
-    IconData(0xe063, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-controller`
-  static const IconifyIconData folderController = IconifyIconData.solo(
-    IconData(0xe064, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-controller-open`
-  static const IconifyIconData folderControllerOpen = IconifyIconData.solo(
-    IconData(0xe065, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-coverage`
-  static const IconifyIconData folderCoverage = IconifyIconData.solo(
-    IconData(0xe066, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-coverage-open`
-  static const IconifyIconData folderCoverageOpen = IconifyIconData.solo(
-    IconData(0xe067, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-database`
-  static const IconifyIconData folderDatabase = IconifyIconData.solo(
-    IconData(0xe068, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-database-open`
-  static const IconifyIconData folderDatabaseOpen = IconifyIconData.solo(
-    IconData(0xe069, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-decorators`
-  static const IconifyIconData folderDecorators = IconifyIconData.solo(
-    IconData(0xe06a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-decorators-open`
-  static const IconifyIconData folderDecoratorsOpen = IconifyIconData.solo(
-    IconData(0xe06b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-element`
-  static const IconifyIconData folderElement = IconifyIconData.solo(
-    IconData(0xe06c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-element-open`
-  static const IconifyIconData folderElementOpen = IconifyIconData.solo(
-    IconData(0xe06d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-enum`
-  static const IconifyIconData folderEnum = IconifyIconData.solo(
-    IconData(0xe06e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-enum-open`
-  static const IconifyIconData folderEnumOpen = IconifyIconData.solo(
-    IconData(0xe06f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-eslint`
-  static const IconifyIconData folderEslint = IconifyIconData.solo(
-    IconData(0xe070, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-eslint-open`
-  static const IconifyIconData folderEslintOpen = IconifyIconData.solo(
-    IconData(0xe071, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-event`
-  static const IconifyIconData folderEvent = IconifyIconData.solo(
-    IconData(0xe072, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-event-open`
-  static const IconifyIconData folderEventOpen = IconifyIconData.solo(
-    IconData(0xe073, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-export`
-  static const IconifyIconData folderExport = IconifyIconData.solo(
-    IconData(0xe074, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-export-open`
-  static const IconifyIconData folderExportOpen = IconifyIconData.solo(
-    IconData(0xe075, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-favicon`
-  static const IconifyIconData folderFavicon = IconifyIconData.solo(
-    IconData(0xe076, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-favicon-open`
-  static const IconifyIconData folderFaviconOpen = IconifyIconData.solo(
-    IconData(0xe077, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-form`
-  static const IconifyIconData folderForm = IconifyIconData.solo(
-    IconData(0xe078, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-form-open`
-  static const IconifyIconData folderFormOpen = IconifyIconData.solo(
-    IconData(0xe079, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-gamemaker`
-  static const IconifyIconData folderGamemaker = IconifyIconData.solo(
-    IconData(0xe07a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-gamemaker-open`
-  static const IconifyIconData folderGamemakerOpen = IconifyIconData.solo(
-    IconData(0xe07b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-gemini-ai`
-  static const IconifyIconData folderGeminiAi = IconifyIconData.solo(
-    IconData(0xe07c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-gemini-ai-open`
-  static const IconifyIconData folderGeminiAiOpen = IconifyIconData.solo(
-    IconData(0xe07d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-global`
-  static const IconifyIconData folderGlobal = IconifyIconData.solo(
-    IconData(0xe07e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-global-open`
-  static const IconifyIconData folderGlobalOpen = IconifyIconData.solo(
-    IconData(0xe07f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-go`
-  static const IconifyIconData folderGo = IconifyIconData.solo(
-    IconData(0xe080, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-go-open`
-  static const IconifyIconData folderGoOpen = IconifyIconData.solo(
-    IconData(0xe081, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-godot`
-  static const IconifyIconData folderGodot = IconifyIconData.solo(
-    IconData(0xe082, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-godot-open`
-  static const IconifyIconData folderGodotOpen = IconifyIconData.solo(
-    IconData(0xe083, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-gradle`
-  static const IconifyIconData folderGradle = IconifyIconData.solo(
-    IconData(0xe084, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-gradle-open`
-  static const IconifyIconData folderGradleOpen = IconifyIconData.solo(
-    IconData(0xe085, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-helm`
-  static const IconifyIconData folderHelm = IconifyIconData.solo(
-    IconData(0xe086, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-helm-open`
-  static const IconifyIconData folderHelmOpen = IconifyIconData.solo(
-    IconData(0xe087, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-helper`
-  static const IconifyIconData folderHelper = IconifyIconData.solo(
-    IconData(0xe088, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-helper-open`
-  static const IconifyIconData folderHelperOpen = IconifyIconData.solo(
-    IconData(0xe089, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-i18n`
-  static const IconifyIconData folderI18n = IconifyIconData.solo(
-    IconData(0xe08a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-i18n-open`
-  static const IconifyIconData folderI18nOpen = IconifyIconData.solo(
-    IconData(0xe08b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-import`
-  static const IconifyIconData folderImport = IconifyIconData.solo(
-    IconData(0xe08c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-import-open`
-  static const IconifyIconData folderImportOpen = IconifyIconData.solo(
-    IconData(0xe08d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-input`
-  static const IconifyIconData folderInput = IconifyIconData.solo(
-    IconData(0xe08e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-input-open`
-  static const IconifyIconData folderInputOpen = IconifyIconData.solo(
-    IconData(0xe08f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-javascript`
-  static const IconifyIconData folderJavascript = IconifyIconData.solo(
-    IconData(0xe090, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-javascript-open`
-  static const IconifyIconData folderJavascriptOpen = IconifyIconData.solo(
-    IconData(0xe091, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-job`
-  static const IconifyIconData folderJob = IconifyIconData.solo(
-    IconData(0xe092, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-job-open`
-  static const IconifyIconData folderJobOpen = IconifyIconData.solo(
-    IconData(0xe093, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-keys`
-  static const IconifyIconData folderKeys = IconifyIconData.solo(
-    IconData(0xe094, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-keys-open`
-  static const IconifyIconData folderKeysOpen = IconifyIconData.solo(
-    IconData(0xe095, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-kotlin`
-  static const IconifyIconData folderKotlin = IconifyIconData.solo(
-    IconData(0xe096, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-kotlin-open`
-  static const IconifyIconData folderKotlinOpen = IconifyIconData.solo(
-    IconData(0xe097, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-lib`
-  static const IconifyIconData folderLib = IconifyIconData.solo(
-    IconData(0xe098, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-lib-open`
-  static const IconifyIconData folderLibOpen = IconifyIconData.solo(
-    IconData(0xe099, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-log`
-  static const IconifyIconData folderLog = IconifyIconData.solo(
-    IconData(0xe09a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-log-open`
-  static const IconifyIconData folderLogOpen = IconifyIconData.solo(
-    IconData(0xe09b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-lottie`
-  static const IconifyIconData folderLottie = IconifyIconData.solo(
-    IconData(0xe09c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-lottie-open`
-  static const IconifyIconData folderLottieOpen = IconifyIconData.solo(
-    IconData(0xe09d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-mappings`
-  static const IconifyIconData folderMappings = IconifyIconData.solo(
-    IconData(0xe09e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-mappings-open`
-  static const IconifyIconData folderMappingsOpen = IconifyIconData.solo(
-    IconData(0xe09f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-middleware`
-  static const IconifyIconData folderMiddleware = IconifyIconData.solo(
-    IconData(0xe0a0, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-middleware-open`
-  static const IconifyIconData folderMiddlewareOpen = IconifyIconData.solo(
-    IconData(0xe0a1, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-netlify`
-  static const IconifyIconData folderNetlify = IconifyIconData.solo(
-    IconData(0xe0a2, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-netlify-open`
-  static const IconifyIconData folderNetlifyOpen = IconifyIconData.solo(
-    IconData(0xe0a3, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-ngrx-store`
-  static const IconifyIconData folderNgrxStore = IconifyIconData.solo(
-    IconData(0xe0a4, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-ngrx-store-open`
-  static const IconifyIconData folderNgrxStoreOpen = IconifyIconData.solo(
-    IconData(0xe0a5, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-node`
-  static const IconifyIconData folderNode = IconifyIconData.solo(
-    IconData(0xe0a6, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-node-open`
-  static const IconifyIconData folderNodeOpen = IconifyIconData.solo(
-    IconData(0xe0a7, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-prisma`
-  static const IconifyIconData folderPrisma = IconifyIconData.solo(
-    IconData(0xe0a8, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-prisma-open`
-  static const IconifyIconData folderPrismaOpen = IconifyIconData.solo(
-    IconData(0xe0a9, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-prompts`
-  static const IconifyIconData folderPrompts = IconifyIconData.solo(
-    IconData(0xe0aa, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-prompts-open`
-  static const IconifyIconData folderPromptsOpen = IconifyIconData.solo(
-    IconData(0xe0ab, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-react-components`
-  static const IconifyIconData folderReactComponents = IconifyIconData.solo(
-    IconData(0xe0ac, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-react-components-open`
-  static const IconifyIconData folderReactComponentsOpen = IconifyIconData.solo(
-    IconData(0xe0ad, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-resource`
-  static const IconifyIconData folderResource = IconifyIconData.solo(
-    IconData(0xe0ae, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-resource-open`
-  static const IconifyIconData folderResourceOpen = IconifyIconData.solo(
-    IconData(0xe0af, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
   /// `folder-seeders` (duo-tone)
   static const IconifyIconData folderSeeders = IconifyIconData.duo(
     IconData(0xe0b0, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
     IconData(0xe0b0, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
-  /// `folder-seeders-open` (duo-tone)
-  static const IconifyIconData folderSeedersOpen = IconifyIconData.duo(
-    IconData(0xe0b1, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-    IconData(0xe0b1, fontFamily: 'MaterialIconThemeSecondary', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-server`
-  static const IconifyIconData folderServer = IconifyIconData.solo(
-    IconData(0xe0b2, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-server-open`
-  static const IconifyIconData folderServerOpen = IconifyIconData.solo(
-    IconData(0xe0b3, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-shader`
-  static const IconifyIconData folderShader = IconifyIconData.solo(
-    IconData(0xe0b4, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-shader-open`
-  static const IconifyIconData folderShaderOpen = IconifyIconData.solo(
-    IconData(0xe0b5, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-shared`
-  static const IconifyIconData folderShared = IconifyIconData.solo(
-    IconData(0xe0b6, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-shared-open`
-  static const IconifyIconData folderSharedOpen = IconifyIconData.solo(
-    IconData(0xe0b7, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-simulations`
-  static const IconifyIconData folderSimulations = IconifyIconData.solo(
-    IconData(0xe0b8, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-simulations-open`
-  static const IconifyIconData folderSimulationsOpen = IconifyIconData.solo(
-    IconData(0xe0b9, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-skills`
-  static const IconifyIconData folderSkills = IconifyIconData.solo(
-    IconData(0xe0ba, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-skills-open`
-  static const IconifyIconData folderSkillsOpen = IconifyIconData.solo(
-    IconData(0xe0bb, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-snapcraft`
-  static const IconifyIconData folderSnapcraft = IconifyIconData.solo(
-    IconData(0xe0bc, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-snapcraft-open`
-  static const IconifyIconData folderSnapcraftOpen = IconifyIconData.solo(
-    IconData(0xe0bd, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-stylus`
-  static const IconifyIconData folderStylus = IconifyIconData.solo(
-    IconData(0xe0be, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-stylus-open`
-  static const IconifyIconData folderStylusOpen = IconifyIconData.solo(
-    IconData(0xe0bf, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-taskfile`
-  static const IconifyIconData folderTaskfile = IconifyIconData.solo(
-    IconData(0xe0c0, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-taskfile-open`
-  static const IconifyIconData folderTaskfileOpen = IconifyIconData.solo(
-    IconData(0xe0c1, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-tasks`
-  static const IconifyIconData folderTasks = IconifyIconData.solo(
-    IconData(0xe0c2, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-tasks-open`
-  static const IconifyIconData folderTasksOpen = IconifyIconData.solo(
-    IconData(0xe0c3, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-television`
-  static const IconifyIconData folderTelevision = IconifyIconData.solo(
-    IconData(0xe0c4, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-television-open`
-  static const IconifyIconData folderTelevisionOpen = IconifyIconData.solo(
-    IconData(0xe0c5, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-temp`
-  static const IconifyIconData folderTemp = IconifyIconData.solo(
-    IconData(0xe0c6, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-temp-open`
-  static const IconifyIconData folderTempOpen = IconifyIconData.solo(
-    IconData(0xe0c7, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-terraform`
-  static const IconifyIconData folderTerraform = IconifyIconData.solo(
-    IconData(0xe0c8, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-terraform-open`
-  static const IconifyIconData folderTerraformOpen = IconifyIconData.solo(
-    IconData(0xe0c9, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-test`
-  static const IconifyIconData folderTest = IconifyIconData.solo(
-    IconData(0xe0ca, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-test-open`
-  static const IconifyIconData folderTestOpen = IconifyIconData.solo(
-    IconData(0xe0cb, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-trigger`
-  static const IconifyIconData folderTrigger = IconifyIconData.solo(
-    IconData(0xe0cc, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-trigger-open`
-  static const IconifyIconData folderTriggerOpen = IconifyIconData.solo(
-    IconData(0xe0cd, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-ui`
-  static const IconifyIconData folderUi = IconifyIconData.solo(
-    IconData(0xe0ce, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-ui-open`
-  static const IconifyIconData folderUiOpen = IconifyIconData.solo(
-    IconData(0xe0cf, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-vscode`
-  static const IconifyIconData folderVscode = IconifyIconData.solo(
-    IconData(0xe0d0, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `folder-vscode-open`
-  static const IconifyIconData folderVscodeOpen = IconifyIconData.solo(
-    IconData(0xe0d1, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `fsharp`
-  static const IconifyIconData fsharp = IconifyIconData.solo(
-    IconData(0xe0d2, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
   /// `gamemaker`
   static const IconifyIconData gamemaker = IconifyIconData.solo(
     IconData(0xe0d3, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `gatsby`
-  static const IconifyIconData gatsby = IconifyIconData.solo(
-    IconData(0xe0d4, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
   /// `git`
@@ -1136,11 +420,6 @@ class MaterialIconThemeIcons {
   /// `happo`
   static const IconifyIconData happo = IconifyIconData.solo(
     IconData(0xe0df, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `haxe`
-  static const IconifyIconData haxe = IconifyIconData.solo(
-    IconData(0xe0e0, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
   /// `hcl`
@@ -1283,11 +562,6 @@ class MaterialIconThemeIcons {
     IconData(0xe0fc, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
-  /// `luau`
-  static const IconifyIconData luau = IconifyIconData.solo(
-    IconData(0xe0fd, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
   /// `lynx`
   static const IconifyIconData lynx = IconifyIconData.solo(
     IconData(0xe0fe, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
@@ -1298,11 +572,6 @@ class MaterialIconThemeIcons {
     IconData(0xe0ff, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
-  /// `macaulay2`
-  static const IconifyIconData macaulay2 = IconifyIconData.solo(
-    IconData(0xe100, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
   /// `markdown`
   static const IconifyIconData markdown = IconifyIconData.solo(
     IconData(0xe101, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
@@ -1311,11 +580,6 @@ class MaterialIconThemeIcons {
   /// `markdownlint`
   static const IconifyIconData markdownlint = IconifyIconData.solo(
     IconData(0xe102, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `matlab`
-  static const IconifyIconData matlab = IconifyIconData.solo(
-    IconData(0xe103, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
   /// `mdx`
@@ -1363,11 +627,6 @@ class MaterialIconThemeIcons {
     IconData(0xe10c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
-  /// `netlify`
-  static const IconifyIconData netlify = IconifyIconData.solo(
-    IconData(0xe10d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
   /// `next`
   static const IconifyIconData next = IconifyIconData.solo(
     IconData(0xe10e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
@@ -1401,11 +660,6 @@ class MaterialIconThemeIcons {
   /// `nim`
   static const IconifyIconData nim = IconifyIconData.solo(
     IconData(0xe114, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `nix`
-  static const IconifyIconData nix = IconifyIconData.solo(
-    IconData(0xe115, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
   /// `nodejs`
@@ -1733,11 +987,6 @@ class MaterialIconThemeIcons {
     IconData(0xe158, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
-  /// `systemd`
-  static const IconifyIconData systemd = IconifyIconData.solo(
-    IconData(0xe159, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
   /// `table`
   static const IconifyIconData table = IconifyIconData.solo(
     IconData(0xe15a, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
@@ -1746,16 +995,6 @@ class MaterialIconThemeIcons {
   /// `tailwindcss`
   static const IconifyIconData tailwindcss = IconifyIconData.solo(
     IconData(0xe15b, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `taskfile`
-  static const IconifyIconData taskfile = IconifyIconData.solo(
-    IconData(0xe15c, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `tauri`
-  static const IconifyIconData tauri = IconifyIconData.solo(
-    IconData(0xe15d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
   /// `teal`
@@ -1848,11 +1087,6 @@ class MaterialIconThemeIcons {
     IconData(0xe16f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
-  /// `velite`
-  static const IconifyIconData velite = IconifyIconData.solo(
-    IconData(0xe170, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
   /// `velocity`
   static const IconifyIconData velocity = IconifyIconData.solo(
     IconData(0xe171, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
@@ -1918,11 +1152,6 @@ class MaterialIconThemeIcons {
     IconData(0xe17d, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
-  /// `watchman`
-  static const IconifyIconData watchman = IconifyIconData.solo(
-    IconData(0xe17e, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
   /// `webassembly`
   static const IconifyIconData webassembly = IconifyIconData.solo(
     IconData(0xe17f, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
@@ -1936,11 +1165,6 @@ class MaterialIconThemeIcons {
   /// `windicss`
   static const IconifyIconData windicss = IconifyIconData.solo(
     IconData(0xe181, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
-  );
-
-  /// `wrangler`
-  static const IconifyIconData wrangler = IconifyIconData.solo(
-    IconData(0xe182, fontFamily: 'MaterialIconTheme', fontPackage: 'iconifyx_material_icon_theme'),
   );
 
   /// `xaml`

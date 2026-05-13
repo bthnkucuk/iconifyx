@@ -10,5 +10,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   authorUrl: 'https://github.com/unjs',
   licenseTitle: 'Apache 2.0',
   licenseSpdx: 'Apache-2.0',
-  iconCount: 5,
+  iconCount: 1,
 );

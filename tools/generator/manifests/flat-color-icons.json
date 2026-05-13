@@ -15,40 +15,50 @@
       "title": "MIT",
       "spdx": "MIT"
     },
-    "total": 83
+    "total": 32
   },
   "fonts": [
     {
       "family": "FlatColorIcons",
       "nextCodepoint": 57427,
-      "iconCount": 83
+      "iconCount": 32
     }
   ],
   "icons": {
     "add-column": {
       "codepoint": 57344,
       "fontFamily": "FlatColorIcons",
-      "identifier": "addColumn"
+      "identifier": "addColumn",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "add-row": {
       "codepoint": 57345,
       "fontFamily": "FlatColorIcons",
-      "identifier": "addRow"
+      "identifier": "addRow",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "approval": {
       "codepoint": 57346,
       "fontFamily": "FlatColorIcons",
-      "identifier": "approval"
+      "identifier": "approval",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "approve": {
       "codepoint": 57347,
       "fontFamily": "FlatColorIcons",
-      "identifier": "approve"
+      "identifier": "approve",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "area-chart": {
       "codepoint": 57348,
       "fontFamily": "FlatColorIcons",
-      "identifier": "areaChart"
+      "identifier": "areaChart",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "bar-chart": {
       "codepoint": 57349,
@@ -58,7 +68,9 @@
     "charge-battery": {
       "codepoint": 57350,
       "fontFamily": "FlatColorIcons",
-      "identifier": "chargeBattery"
+      "identifier": "chargeBattery",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "checkmark": {
       "codepoint": 57351,
@@ -68,22 +80,30 @@
     "circuit": {
       "codepoint": 57352,
       "fontFamily": "FlatColorIcons",
-      "identifier": "circuit"
+      "identifier": "circuit",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "clapperboard": {
       "codepoint": 57353,
       "fontFamily": "FlatColorIcons",
-      "identifier": "clapperboard"
+      "identifier": "clapperboard",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "clock": {
       "codepoint": 57354,
       "fontFamily": "FlatColorIcons",
-      "identifier": "clock"
+      "identifier": "clock",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "combo-chart": {
       "codepoint": 57355,
       "fontFamily": "FlatColorIcons",
-      "identifier": "comboChart"
+      "identifier": "comboChart",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "comments": {
       "codepoint": 57356,
@@ -93,27 +113,37 @@
     "copyleft": {
       "codepoint": 57357,
       "fontFamily": "FlatColorIcons",
-      "identifier": "copyleft"
+      "identifier": "copyleft",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "copyright": {
       "codepoint": 57358,
       "fontFamily": "FlatColorIcons",
-      "identifier": "copyright"
+      "identifier": "copyright",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "currency-exchange": {
       "codepoint": 57359,
       "fontFamily": "FlatColorIcons",
-      "identifier": "currencyExchange"
+      "identifier": "currencyExchange",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "data-sheet": {
       "codepoint": 57360,
       "fontFamily": "FlatColorIcons",
-      "identifier": "dataSheet"
+      "identifier": "dataSheet",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "diploma-1": {
       "codepoint": 57361,
       "fontFamily": "FlatColorIcons",
-      "identifier": "diploma1"
+      "identifier": "diploma1",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "down": {
       "codepoint": 57362,
@@ -133,12 +163,16 @@
     "electrical-sensor": {
       "codepoint": 57365,
       "fontFamily": "FlatColorIcons",
-      "identifier": "electricalSensor"
+      "identifier": "electricalSensor",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "electrical-threshold": {
       "codepoint": 57366,
       "fontFamily": "FlatColorIcons",
-      "identifier": "electricalThreshold"
+      "identifier": "electricalThreshold",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "electricity": {
       "codepoint": 57367,
@@ -148,7 +182,9 @@
     "electro-devices": {
       "codepoint": 57368,
       "fontFamily": "FlatColorIcons",
-      "identifier": "electroDevices"
+      "identifier": "electroDevices",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "empty-battery": {
       "codepoint": 57369,
@@ -163,12 +199,16 @@
     "entering-heaven-alive": {
       "codepoint": 57371,
       "fontFamily": "FlatColorIcons",
-      "identifier": "enteringHeavenAlive"
+      "identifier": "enteringHeavenAlive",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "file": {
       "codepoint": 57372,
       "fontFamily": "FlatColorIcons",
-      "identifier": "file"
+      "identifier": "file",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "film": {
       "codepoint": 57373,
@@ -183,12 +223,16 @@
     "flow-chart": {
       "codepoint": 57375,
       "fontFamily": "FlatColorIcons",
-      "identifier": "flowChart"
+      "identifier": "flowChart",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "folder": {
       "codepoint": 57376,
       "fontFamily": "FlatColorIcons",
-      "identifier": "folder"
+      "identifier": "folder",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "full-battery": {
       "codepoint": 57377,
@@ -198,12 +242,16 @@
     "genealogy": {
       "codepoint": 57378,
       "fontFamily": "FlatColorIcons",
-      "identifier": "genealogy"
+      "identifier": "genealogy",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "good-decision": {
       "codepoint": 57379,
       "fontFamily": "FlatColorIcons",
-      "identifier": "goodDecision"
+      "identifier": "goodDecision",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "grid": {
       "codepoint": 57380,
@@ -213,17 +261,23 @@
     "heat-map": {
       "codepoint": 57381,
       "fontFamily": "FlatColorIcons",
-      "identifier": "heatMap"
+      "identifier": "heatMap",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "high-battery": {
       "codepoint": 57382,
       "fontFamily": "FlatColorIcons",
-      "identifier": "highBattery"
+      "identifier": "highBattery",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "idea": {
       "codepoint": 57383,
       "fontFamily": "FlatColorIcons",
-      "identifier": "idea"
+      "identifier": "idea",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "left": {
       "codepoint": 57384,
@@ -253,7 +307,9 @@
     "light-at-the-end-of-tunnel": {
       "codepoint": 57389,
       "fontFamily": "FlatColorIcons",
-      "identifier": "lightAtTheEndOfTunnel"
+      "identifier": "lightAtTheEndOfTunnel",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "like-placeholder": {
       "codepoint": 57390,
@@ -263,27 +319,37 @@
     "line-chart": {
       "codepoint": 57391,
       "fontFamily": "FlatColorIcons",
-      "identifier": "lineChart"
+      "identifier": "lineChart",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "low-battery": {
       "codepoint": 57392,
       "fontFamily": "FlatColorIcons",
-      "identifier": "lowBattery"
+      "identifier": "lowBattery",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "low-priority": {
       "codepoint": 57393,
       "fontFamily": "FlatColorIcons",
-      "identifier": "lowPriority"
+      "identifier": "lowPriority",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "middle-battery": {
       "codepoint": 57394,
       "fontFamily": "FlatColorIcons",
-      "identifier": "middleBattery"
+      "identifier": "middleBattery",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "mind-map": {
       "codepoint": 57395,
       "fontFamily": "FlatColorIcons",
-      "identifier": "mindMap"
+      "identifier": "mindMap",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "minus": {
       "codepoint": 57396,
@@ -293,32 +359,44 @@
     "negative-dynamic": {
       "codepoint": 57397,
       "fontFamily": "FlatColorIcons",
-      "identifier": "negativeDynamic"
+      "identifier": "negativeDynamic",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "nook": {
       "codepoint": 57398,
       "fontFamily": "FlatColorIcons",
-      "identifier": "nook"
+      "identifier": "nook",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "ok": {
       "codepoint": 57399,
       "fontFamily": "FlatColorIcons",
-      "identifier": "ok"
+      "identifier": "ok",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "opened-folder": {
       "codepoint": 57400,
       "fontFamily": "FlatColorIcons",
-      "identifier": "openedFolder"
+      "identifier": "openedFolder",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "plus": {
       "codepoint": 57401,
       "fontFamily": "FlatColorIcons",
-      "identifier": "plus"
+      "identifier": "plus",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "positive-dynamic": {
       "codepoint": 57402,
       "fontFamily": "FlatColorIcons",
-      "identifier": "positiveDynamic"
+      "identifier": "positiveDynamic",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "process": {
       "codepoint": 57403,
@@ -333,7 +411,9 @@
     "radar-plot": {
       "codepoint": 57405,
       "fontFamily": "FlatColorIcons",
-      "identifier": "radarPlot"
+      "identifier": "radarPlot",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "redo": {
       "codepoint": 57406,
@@ -343,7 +423,9 @@
     "registered-trademark": {
       "codepoint": 57407,
       "fontFamily": "FlatColorIcons",
-      "identifier": "registeredTrademark"
+      "identifier": "registeredTrademark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "right": {
       "codepoint": 57408,
@@ -373,47 +455,65 @@
     "ruler": {
       "codepoint": 57413,
       "fontFamily": "FlatColorIcons",
-      "identifier": "ruler"
+      "identifier": "ruler",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "sales-performance": {
       "codepoint": 57414,
       "fontFamily": "FlatColorIcons",
-      "identifier": "salesPerformance"
+      "identifier": "salesPerformance",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "scatter-plot": {
       "codepoint": 57415,
       "fontFamily": "FlatColorIcons",
-      "identifier": "scatterPlot"
+      "identifier": "scatterPlot",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "service-mark": {
       "codepoint": 57416,
       "fontFamily": "FlatColorIcons",
-      "identifier": "serviceMark"
+      "identifier": "serviceMark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "sound-recording-copyright": {
       "codepoint": 57417,
       "fontFamily": "FlatColorIcons",
-      "identifier": "soundRecordingCopyright"
+      "identifier": "soundRecordingCopyright",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "stumbleupon": {
       "codepoint": 57418,
       "fontFamily": "FlatColorIcons",
-      "identifier": "stumbleupon"
+      "identifier": "stumbleupon",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "synchronize": {
       "codepoint": 57419,
       "fontFamily": "FlatColorIcons",
-      "identifier": "synchronize"
+      "identifier": "synchronize",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "todo-list": {
       "codepoint": 57420,
       "fontFamily": "FlatColorIcons",
-      "identifier": "todoList"
+      "identifier": "todoList",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "trademark": {
       "codepoint": 57421,
       "fontFamily": "FlatColorIcons",
-      "identifier": "trademark"
+      "identifier": "trademark",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "undo": {
       "codepoint": 57422,
@@ -438,7 +538,9 @@
     "wi-fi-logo": {
       "codepoint": 57426,
       "fontFamily": "FlatColorIcons",
-      "identifier": "wiFiLogo"
+      "identifier": "wiFiLogo",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     }
   }
 }

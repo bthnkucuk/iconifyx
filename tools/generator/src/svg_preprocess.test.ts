@@ -1,5 +1,11 @@
 import { expect, test, describe } from 'bun:test';
-import { isDuotoneBody, splitDuotoneBody } from './svg_preprocess.ts';
+import {
+  isDuotoneBody,
+  splitDuotoneBody,
+  isPaintOrderRiskBody,
+  paintOrderSignal,
+} from './svg_preprocess.ts';
+import type { ResolvedIcon } from './load_iconify.ts';
 
 describe('isDuotoneBody', () => {
   test('detects opacity < 1', () => {
@@ -60,5 +66,75 @@ describe('splitDuotoneBody', () => {
     // body as primary. Caller will treat it as a non-duotone icon.
     expect(primary).toBe(body);
     expect(secondary).toBe('');
+  });
+});
+
+describe('isPaintOrderRiskBody', () => {
+  test('flags `logos:adobe-after-effects` style (rect + path, distinct colors)', () => {
+    const body =
+      `<rect width="256" height="249.6" fill="#00005b" rx="42.5"/>` +
+      `<path fill="#99f" d="M102 149H63"/>`;
+    expect(isPaintOrderRiskBody(body)).toBe(true);
+  });
+
+  test('does not flag single-fill currentColor (regular Iconify icon)', () => {
+    expect(
+      isPaintOrderRiskBody(`<path fill="currentColor" d="M0 0"/>`)
+    ).toBe(false);
+  });
+
+  test('does not flag a body with only one concrete fill color', () => {
+    const body =
+      `<path fill="#ff0000" d="M0 0"/>` +
+      `<path fill="#FF0000" d="M1 1"/>` +
+      `<path fill="none" d="M2 2"/>`;
+    expect(isPaintOrderRiskBody(body)).toBe(false);
+  });
+
+  test('ignores `url(#...)` paint-server references', () => {
+    // Gradient/pattern references aren't comparable monochrome colors so we
+    // don't count them. The pre-validator drops <linearGradient>/etc anyway.
+    const body =
+      `<path fill="url(#a)" d="M0 0"/>` +
+      `<path fill="#00f" d="M1 1"/>`;
+    expect(isPaintOrderRiskBody(body)).toBe(false);
+  });
+
+  test('detects fill colors set via `style="fill:..."` (Solar, IC variants)', () => {
+    const body =
+      `<path style="fill:#fff" d="M0 0"/>` +
+      `<path style="fill:#000" d="M1 1"/>`;
+    expect(isPaintOrderRiskBody(body)).toBe(true);
+  });
+
+  test('treats `currentColor` and `transparent` as non-concrete', () => {
+    const body =
+      `<path fill="currentColor" d="M0 0"/>` +
+      `<path fill="transparent" d="M1 1"/>` +
+      `<path fill="#ff0" d="M2 2"/>`;
+    expect(isPaintOrderRiskBody(body)).toBe(false);
+  });
+});
+
+describe('paintOrderSignal', () => {
+  const mk = (body: string): ResolvedIcon => ({
+    name: 't',
+    body,
+    width: 24,
+    height: 24,
+  });
+
+  test('returns ratio of multi-fill icons in sample', () => {
+    const icons: ResolvedIcon[] = [
+      mk(`<path fill="currentColor" d="M0 0"/>`),
+      mk(`<rect fill="#000"/><path fill="#fff"/>`),
+      mk(`<path fill="#abc" d="M0 0"/>`),
+      mk(`<rect fill="#f00"/><path fill="#0f0"/>`),
+    ];
+    expect(paintOrderSignal(icons).paintOrderRatio).toBeCloseTo(0.5);
+  });
+
+  test('zero for empty input', () => {
+    expect(paintOrderSignal([]).paintOrderRatio).toBe(0);
   });
 });

@@ -16,13 +16,13 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/googlefonts/noto-emoji/blob/main/svg/LICENSE"
     },
-    "total": 463
+    "total": 160
   },
   "fonts": [
     {
       "family": "NotoV1",
       "nextCodepoint": 57807,
-      "iconCount": 463
+      "iconCount": 160
     },
     {
       "family": "NotoV1Secondary",
@@ -34,22 +34,30 @@
     "aerial-tramway": {
       "codepoint": 57344,
       "fontFamily": "NotoV1",
-      "identifier": "aerialTramway"
+      "identifier": "aerialTramway",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "airplane": {
       "codepoint": 57345,
       "fontFamily": "NotoV1",
-      "identifier": "airplane"
+      "identifier": "airplane",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "alarm-clock": {
       "codepoint": 57346,
       "fontFamily": "NotoV1",
-      "identifier": "alarmClock"
+      "identifier": "alarmClock",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "alien": {
       "codepoint": 57347,
       "fontFamily": "NotoV1",
-      "identifier": "alien"
+      "identifier": "alien",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "anchor": {
       "codepoint": 57348,
@@ -64,12 +72,16 @@
     "angry-face": {
       "codepoint": 57350,
       "fontFamily": "NotoV1",
-      "identifier": "angryFace"
+      "identifier": "angryFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "anguished-face": {
       "codepoint": 57351,
       "fontFamily": "NotoV1",
-      "identifier": "anguishedFace"
+      "identifier": "anguishedFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "antenna-bars": {
       "codepoint": 57352,
@@ -99,72 +111,100 @@
     "astonished-face": {
       "codepoint": 57357,
       "fontFamily": "NotoV1",
-      "identifier": "astonishedFace"
+      "identifier": "astonishedFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "atm-sign": {
       "codepoint": 57358,
       "fontFamily": "NotoV1",
-      "identifier": "atmSign"
+      "identifier": "atmSign",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "automobile": {
       "codepoint": 57359,
       "fontFamily": "NotoV1",
-      "identifier": "automobile"
+      "identifier": "automobile",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "back-arrow": {
       "codepoint": 57360,
       "fontFamily": "NotoV1",
-      "identifier": "backArrow"
+      "identifier": "backArrow",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "backpack": {
       "codepoint": 57361,
       "fontFamily": "NotoV1",
-      "identifier": "backpack"
+      "identifier": "backpack",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "baggage-claim": {
       "codepoint": 57362,
       "fontFamily": "NotoV1",
-      "identifier": "baggageClaim"
+      "identifier": "baggageClaim",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "balloon": {
       "codepoint": 57363,
       "fontFamily": "NotoV1",
-      "identifier": "balloon"
+      "identifier": "balloon",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "ballot-box-with-check": {
       "codepoint": 57364,
       "fontFamily": "NotoV1",
-      "identifier": "ballotBoxWithCheck"
+      "identifier": "ballotBoxWithCheck",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "bank": {
       "codepoint": 57365,
       "fontFamily": "NotoV1",
-      "identifier": "bank"
+      "identifier": "bank",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "bat": {
       "codepoint": 57366,
       "fontFamily": "NotoV1",
-      "identifier": "bat"
+      "identifier": "bat",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "bathtub": {
       "codepoint": 57367,
       "fontFamily": "NotoV1",
-      "identifier": "bathtub"
+      "identifier": "bathtub",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "bikini": {
       "codepoint": 57368,
       "fontFamily": "NotoV1",
-      "identifier": "bikini"
+      "identifier": "bikini",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "biohazard": {
       "codepoint": 57369,
       "fontFamily": "NotoV1",
-      "identifier": "biohazard"
+      "identifier": "biohazard",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "birthday-cake": {
       "codepoint": 57370,
       "fontFamily": "NotoV1",
-      "identifier": "birthdayCake"
+      "identifier": "birthdayCake",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "black-heart": {
       "codepoint": 57371,
@@ -174,12 +214,16 @@
     "blowfish": {
       "codepoint": 57372,
       "fontFamily": "NotoV1",
-      "identifier": "blowfish"
+      "identifier": "blowfish",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "blue-book": {
       "codepoint": 57373,
       "fontFamily": "NotoV1",
-      "identifier": "blueBook"
+      "identifier": "blueBook",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "blue-circle": {
       "codepoint": 57374,
@@ -194,17 +238,23 @@
     "bomb": {
       "codepoint": 57376,
       "fontFamily": "NotoV1",
-      "identifier": "bomb"
+      "identifier": "bomb",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "books": {
       "codepoint": 57377,
       "fontFamily": "NotoV1",
-      "identifier": "books"
+      "identifier": "books",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "bouquet": {
       "codepoint": 57378,
       "fontFamily": "NotoV1",
-      "identifier": "bouquet"
+      "identifier": "bouquet",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "bright-button": {
       "codepoint": 57379,
@@ -224,12 +274,16 @@
     "call-me-hand": {
       "codepoint": 57382,
       "fontFamily": "NotoV1",
-      "identifier": "callMeHand"
+      "identifier": "callMeHand",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "camera-with-flash": {
       "codepoint": 57383,
       "fontFamily": "NotoV1",
-      "identifier": "cameraWithFlash"
+      "identifier": "cameraWithFlash",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "cancer": {
       "codepoint": 57384,
@@ -244,27 +298,37 @@
     "card-index": {
       "codepoint": 57386,
       "fontFamily": "NotoV1",
-      "identifier": "cardIndex"
+      "identifier": "cardIndex",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "carp-streamer": {
       "codepoint": 57387,
       "fontFamily": "NotoV1",
-      "identifier": "carpStreamer"
+      "identifier": "carpStreamer",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "carrot": {
       "codepoint": 57388,
       "fontFamily": "NotoV1",
-      "identifier": "carrot"
+      "identifier": "carrot",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "castle": {
       "codepoint": 57389,
       "fontFamily": "NotoV1",
-      "identifier": "castle"
+      "identifier": "castle",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "check-box-with-check": {
       "codepoint": 57390,
       "fontFamily": "NotoV1",
-      "identifier": "checkBoxWithCheck"
+      "identifier": "checkBoxWithCheck",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "check-mark": {
       "codepoint": 57391,
@@ -274,27 +338,37 @@
     "chequered-flag": {
       "codepoint": 57392,
       "fontFamily": "NotoV1",
-      "identifier": "chequeredFlag"
+      "identifier": "chequeredFlag",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "chicken": {
       "codepoint": 57393,
       "fontFamily": "NotoV1",
-      "identifier": "chicken"
+      "identifier": "chicken",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "children-crossing": {
       "codepoint": 57394,
       "fontFamily": "NotoV1",
-      "identifier": "childrenCrossing"
+      "identifier": "childrenCrossing",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "cigarette": {
       "codepoint": 57395,
       "fontFamily": "NotoV1",
-      "identifier": "cigarette"
+      "identifier": "cigarette",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "cinema": {
       "codepoint": 57396,
       "fontFamily": "NotoV1",
-      "identifier": "cinema"
+      "identifier": "cinema",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "circled-m": {
       "codepoint": 57397,
@@ -304,12 +378,16 @@
     "cityscape": {
       "codepoint": 57398,
       "fontFamily": "NotoV1",
-      "identifier": "cityscape"
+      "identifier": "cityscape",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "clapping-hands": {
       "codepoint": 57399,
       "fontFamily": "NotoV1",
-      "identifier": "clappingHands"
+      "identifier": "clappingHands",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "clockwise-vertical-arrows": {
       "codepoint": 57400,
@@ -319,32 +397,44 @@
     "closed-umbrella": {
       "codepoint": 57401,
       "fontFamily": "NotoV1",
-      "identifier": "closedUmbrella"
+      "identifier": "closedUmbrella",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "cloud": {
       "codepoint": 57402,
       "fontFamily": "NotoV1",
-      "identifier": "cloud"
+      "identifier": "cloud",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "cloud-with-lightning": {
       "codepoint": 57403,
       "fontFamily": "NotoV1",
-      "identifier": "cloudWithLightning"
+      "identifier": "cloudWithLightning",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "cloud-with-lightning-and-rain": {
       "codepoint": 57404,
       "fontFamily": "NotoV1",
-      "identifier": "cloudWithLightningAndRain"
+      "identifier": "cloudWithLightningAndRain",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "cloud-with-rain": {
       "codepoint": 57405,
       "fontFamily": "NotoV1",
-      "identifier": "cloudWithRain"
+      "identifier": "cloudWithRain",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "cloud-with-snow": {
       "codepoint": 57406,
       "fontFamily": "NotoV1",
-      "identifier": "cloudWithSnow"
+      "identifier": "cloudWithSnow",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "club-suit": {
       "codepoint": 57407,
@@ -354,32 +444,44 @@
     "collision": {
       "codepoint": 57408,
       "fontFamily": "NotoV1",
-      "identifier": "collision"
+      "identifier": "collision",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "computer-disk": {
       "codepoint": 57409,
       "fontFamily": "NotoV1",
-      "identifier": "computerDisk"
+      "identifier": "computerDisk",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "computer-mouse": {
       "codepoint": 57410,
       "fontFamily": "NotoV1",
-      "identifier": "computerMouse"
+      "identifier": "computerMouse",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "confounded-face": {
       "codepoint": 57411,
       "fontFamily": "NotoV1",
-      "identifier": "confoundedFace"
+      "identifier": "confoundedFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "cooking": {
       "codepoint": 57412,
       "fontFamily": "NotoV1",
-      "identifier": "cooking"
+      "identifier": "cooking",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "cool-button": {
       "codepoint": 57413,
       "fontFamily": "NotoV1",
-      "identifier": "coolButton"
+      "identifier": "coolButton",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "copyright": {
       "codepoint": 57414,
@@ -394,12 +496,16 @@
     "cow": {
       "codepoint": 57416,
       "fontFamily": "NotoV1",
-      "identifier": "cow"
+      "identifier": "cow",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "cow-face": {
       "codepoint": 57417,
       "fontFamily": "NotoV1",
-      "identifier": "cowFace"
+      "identifier": "cowFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "crescent-moon": {
       "codepoint": 57418,
@@ -414,17 +520,23 @@
     "cross-mark-button": {
       "codepoint": 57420,
       "fontFamily": "NotoV1",
-      "identifier": "crossMarkButton"
+      "identifier": "crossMarkButton",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "crossed-fingers": {
       "codepoint": 57421,
       "fontFamily": "NotoV1",
-      "identifier": "crossedFingers"
+      "identifier": "crossedFingers",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "crying-face": {
       "codepoint": 57422,
       "fontFamily": "NotoV1",
-      "identifier": "cryingFace"
+      "identifier": "cryingFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "curly-loop": {
       "codepoint": 57423,
@@ -434,7 +546,9 @@
     "customs": {
       "codepoint": 57424,
       "fontFamily": "NotoV1",
-      "identifier": "customs"
+      "identifier": "customs",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "cyclone": {
       "codepoint": 57425,
@@ -444,12 +558,16 @@
     "dashing-away": {
       "codepoint": 57426,
       "fontFamily": "NotoV1",
-      "identifier": "dashingAway"
+      "identifier": "dashingAway",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "department-store": {
       "codepoint": 57427,
       "fontFamily": "NotoV1",
-      "identifier": "departmentStore"
+      "identifier": "departmentStore",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "digit-eight": {
       "codepoint": 57428,
@@ -509,22 +627,30 @@
     "direct-hit": {
       "codepoint": 57439,
       "fontFamily": "NotoV1",
-      "identifier": "directHit"
+      "identifier": "directHit",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "disappointed-but-relieved-face": {
       "codepoint": 57440,
       "fontFamily": "NotoV1",
-      "identifier": "disappointedButRelievedFace"
+      "identifier": "disappointedButRelievedFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "disappointed-face": {
       "codepoint": 57441,
       "fontFamily": "NotoV1",
-      "identifier": "disappointedFace"
+      "identifier": "disappointedFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "dizzy-face": {
       "codepoint": 57442,
       "fontFamily": "NotoV1",
-      "identifier": "dizzyFace"
+      "identifier": "dizzyFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "double-curly-loop": {
       "codepoint": 57443,
@@ -539,7 +665,9 @@
     "dove": {
       "codepoint": 57445,
       "fontFamily": "NotoV1",
-      "identifier": "dove"
+      "identifier": "dove",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "down-arrow": {
       "codepoint": 57446,
@@ -559,12 +687,16 @@
     "downcast-face-with-sweat": {
       "codepoint": 57449,
       "fontFamily": "NotoV1",
-      "identifier": "downcastFaceWithSweat"
+      "identifier": "downcastFaceWithSweat",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "drooling-face": {
       "codepoint": 57450,
       "fontFamily": "NotoV1",
-      "identifier": "droolingFace"
+      "identifier": "droolingFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "droplet": {
       "codepoint": 57451,
@@ -574,22 +706,30 @@
     "e-mail": {
       "codepoint": 57452,
       "fontFamily": "NotoV1",
-      "identifier": "eMail"
+      "identifier": "eMail",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "ear": {
       "codepoint": 57453,
       "fontFamily": "NotoV1",
-      "identifier": "ear"
+      "identifier": "ear",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "egg": {
       "codepoint": 57454,
       "fontFamily": "NotoV1",
-      "identifier": "egg"
+      "identifier": "egg",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "eight-oclock": {
       "codepoint": 57455,
       "fontFamily": "NotoV1",
-      "identifier": "eightOclock"
+      "identifier": "eightOclock",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "eight-pointed-star": {
       "codepoint": 57456,
@@ -604,12 +744,16 @@
     "eleven-oclock": {
       "codepoint": 57458,
       "fontFamily": "NotoV1",
-      "identifier": "elevenOclock"
+      "identifier": "elevenOclock",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "end-arrow": {
       "codepoint": 57459,
       "fontFamily": "NotoV1",
-      "identifier": "endArrow"
+      "identifier": "endArrow",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "envelope": {
       "codepoint": 57460,
@@ -619,7 +763,9 @@
     "envelope-with-arrow": {
       "codepoint": 57461,
       "fontFamily": "NotoV1",
-      "identifier": "envelopeWithArrow"
+      "identifier": "envelopeWithArrow",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "exclamation-mark": {
       "codepoint": 57462,
@@ -634,32 +780,44 @@
     "expressionless-face": {
       "codepoint": 57464,
       "fontFamily": "NotoV1",
-      "identifier": "expressionlessFace"
+      "identifier": "expressionlessFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "eye": {
       "codepoint": 57465,
       "fontFamily": "NotoV1",
-      "identifier": "eye"
+      "identifier": "eye",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "eyes": {
       "codepoint": 57466,
       "fontFamily": "NotoV1",
-      "identifier": "eyes"
+      "identifier": "eyes",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "face-with-cold-sweat": {
       "codepoint": 57467,
       "fontFamily": "NotoV1",
-      "identifier": "faceWithColdSweat"
+      "identifier": "faceWithColdSweat",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "face-with-open-mouth": {
       "codepoint": 57468,
       "fontFamily": "NotoV1",
-      "identifier": "faceWithOpenMouth"
+      "identifier": "faceWithOpenMouth",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "face-without-mouth": {
       "codepoint": 57469,
       "fontFamily": "NotoV1",
-      "identifier": "faceWithoutMouth"
+      "identifier": "faceWithoutMouth",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "fast-down-button": {
       "codepoint": 57470,
@@ -684,7 +842,9 @@
     "fax-machine": {
       "codepoint": 57474,
       "fontFamily": "NotoV1",
-      "identifier": "faxMachine"
+      "identifier": "faxMachine",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "female-sign": {
       "codepoint": 57475,
@@ -694,82 +854,114 @@
     "file-folder": {
       "codepoint": 57476,
       "fontFamily": "NotoV1",
-      "identifier": "fileFolder"
+      "identifier": "fileFolder",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "film-projector": {
       "codepoint": 57477,
       "fontFamily": "NotoV1",
-      "identifier": "filmProjector"
+      "identifier": "filmProjector",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "fire": {
       "codepoint": 57478,
       "fontFamily": "NotoV1",
-      "identifier": "fire"
+      "identifier": "fire",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "fire-engine": {
       "codepoint": 57479,
       "fontFamily": "NotoV1",
-      "identifier": "fireEngine"
+      "identifier": "fireEngine",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "first-quarter-moon-face": {
       "codepoint": 57480,
       "fontFamily": "NotoV1",
-      "identifier": "firstQuarterMoonFace"
+      "identifier": "firstQuarterMoonFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "first-quarter-moon-with-face": {
       "codepoint": 57481,
       "fontFamily": "NotoV1",
-      "identifier": "firstQuarterMoonWithFace"
+      "identifier": "firstQuarterMoonWithFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "five-oclock": {
       "codepoint": 57482,
       "fontFamily": "NotoV1",
-      "identifier": "fiveOclock"
+      "identifier": "fiveOclock",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "flag-for-chequered-flag": {
       "codepoint": 57483,
       "fontFamily": "NotoV1",
-      "identifier": "flagForChequeredFlag"
+      "identifier": "flagForChequeredFlag",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "flag-for-china": {
       "codepoint": 57484,
       "fontFamily": "NotoV1",
-      "identifier": "flagForChina"
+      "identifier": "flagForChina",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "flag-for-flag-china": {
       "codepoint": 57485,
       "fontFamily": "NotoV1",
-      "identifier": "flagForFlagChina"
+      "identifier": "flagForFlagChina",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "flag-for-triangular-flag": {
       "codepoint": 57486,
       "fontFamily": "NotoV1",
-      "identifier": "flagForTriangularFlag"
+      "identifier": "flagForTriangularFlag",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "flag-for-white-flag": {
       "codepoint": 57487,
       "fontFamily": "NotoV1",
-      "identifier": "flagForWhiteFlag"
+      "identifier": "flagForWhiteFlag",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "flashlight": {
       "codepoint": 57488,
       "fontFamily": "NotoV1",
-      "identifier": "flashlight"
+      "identifier": "flashlight",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "flexed-biceps": {
       "codepoint": 57489,
       "fontFamily": "NotoV1",
-      "identifier": "flexedBiceps"
+      "identifier": "flexedBiceps",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "floppy-disk": {
       "codepoint": 57490,
       "fontFamily": "NotoV1",
-      "identifier": "floppyDisk"
+      "identifier": "floppyDisk",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "fog": {
       "codepoint": 57491,
       "fontFamily": "NotoV1",
-      "identifier": "fog"
+      "identifier": "fog",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "footprints": {
       "codepoint": 57492,
@@ -784,52 +976,72 @@
     "fork-and-knife-with-plate": {
       "codepoint": 57494,
       "fontFamily": "NotoV1",
-      "identifier": "forkAndKnifeWithPlate"
+      "identifier": "forkAndKnifeWithPlate",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "four-oclock": {
       "codepoint": 57495,
       "fontFamily": "NotoV1",
-      "identifier": "fourOclock"
+      "identifier": "fourOclock",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "free-button": {
       "codepoint": 57496,
       "fontFamily": "NotoV1",
-      "identifier": "freeButton"
+      "identifier": "freeButton",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "fried-shrimp": {
       "codepoint": 57497,
       "fontFamily": "NotoV1",
-      "identifier": "friedShrimp"
+      "identifier": "friedShrimp",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "frog": {
       "codepoint": 57498,
       "fontFamily": "NotoV1",
-      "identifier": "frog"
+      "identifier": "frog",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "frog-face": {
       "codepoint": 57499,
       "fontFamily": "NotoV1",
-      "identifier": "frogFace"
+      "identifier": "frogFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "frowning-face": {
       "codepoint": 57500,
       "fontFamily": "NotoV1",
-      "identifier": "frowningFace"
+      "identifier": "frowningFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "frowning-face-with-open-mouth": {
       "codepoint": 57501,
       "fontFamily": "NotoV1",
-      "identifier": "frowningFaceWithOpenMouth"
+      "identifier": "frowningFaceWithOpenMouth",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "full-moon-face": {
       "codepoint": 57502,
       "fontFamily": "NotoV1",
-      "identifier": "fullMoonFace"
+      "identifier": "fullMoonFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "full-moon-with-face": {
       "codepoint": 57503,
       "fontFamily": "NotoV1",
-      "identifier": "fullMoonWithFace"
+      "identifier": "fullMoonWithFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "gemini": {
       "codepoint": 57504,
@@ -839,7 +1051,9 @@
     "ghost": {
       "codepoint": 57505,
       "fontFamily": "NotoV1",
-      "identifier": "ghost"
+      "identifier": "ghost",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "globe-with-meridians": {
       "codepoint": 57506,
@@ -849,47 +1063,65 @@
     "goat": {
       "codepoint": 57507,
       "fontFamily": "NotoV1",
-      "identifier": "goat"
+      "identifier": "goat",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "goblin": {
       "codepoint": 57508,
       "fontFamily": "NotoV1",
-      "identifier": "goblin"
+      "identifier": "goblin",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "green-book": {
       "codepoint": 57509,
       "fontFamily": "NotoV1",
-      "identifier": "greenBook"
+      "identifier": "greenBook",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "grimacing-face": {
       "codepoint": 57510,
       "fontFamily": "NotoV1",
-      "identifier": "grimacingFace"
+      "identifier": "grimacingFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "grinning-face-with-big-eyes": {
       "codepoint": 57511,
       "fontFamily": "NotoV1",
-      "identifier": "grinningFaceWithBigEyes"
+      "identifier": "grinningFaceWithBigEyes",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "grinning-face-with-sweat": {
       "codepoint": 57512,
       "fontFamily": "NotoV1",
-      "identifier": "grinningFaceWithSweat"
+      "identifier": "grinningFaceWithSweat",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "hand-with-fingers-splayed": {
       "codepoint": 57513,
       "fontFamily": "NotoV1",
-      "identifier": "handWithFingersSplayed"
+      "identifier": "handWithFingersSplayed",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "handbag": {
       "codepoint": 57514,
       "fontFamily": "NotoV1",
-      "identifier": "handbag"
+      "identifier": "handbag",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "hatching-chick": {
       "codepoint": 57515,
       "fontFamily": "NotoV1",
-      "identifier": "hatchingChick"
+      "identifier": "hatchingChick",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "heavy-check-mark": {
       "codepoint": 57516,
@@ -914,12 +1146,16 @@
     "helicopter": {
       "codepoint": 57520,
       "fontFamily": "NotoV1",
-      "identifier": "helicopter"
+      "identifier": "helicopter",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "hibiscus": {
       "codepoint": 57521,
       "fontFamily": "NotoV1",
-      "identifier": "hibiscus"
+      "identifier": "hibiscus",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "high-voltage": {
       "codepoint": 57522,
@@ -929,12 +1165,16 @@
     "hospital": {
       "codepoint": 57523,
       "fontFamily": "NotoV1",
-      "identifier": "hospital"
+      "identifier": "hospital",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "hot-dog": {
       "codepoint": 57524,
       "fontFamily": "NotoV1",
-      "identifier": "hotDog"
+      "identifier": "hotDog",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "hot-springs": {
       "codepoint": 57525,
@@ -949,7 +1189,9 @@
     "hushed-face": {
       "codepoint": 57527,
       "fontFamily": "NotoV1",
-      "identifier": "hushedFace"
+      "identifier": "hushedFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "information": {
       "codepoint": 57528,
@@ -959,112 +1201,156 @@
     "input-latin-letters": {
       "codepoint": 57529,
       "fontFamily": "NotoV1",
-      "identifier": "inputLatinLetters"
+      "identifier": "inputLatinLetters",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "input-latin-lowercase": {
       "codepoint": 57530,
       "fontFamily": "NotoV1",
-      "identifier": "inputLatinLowercase"
+      "identifier": "inputLatinLowercase",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "input-latin-uppercase": {
       "codepoint": 57531,
       "fontFamily": "NotoV1",
-      "identifier": "inputLatinUppercase"
+      "identifier": "inputLatinUppercase",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "input-numbers": {
       "codepoint": 57532,
       "fontFamily": "NotoV1",
-      "identifier": "inputNumbers"
+      "identifier": "inputNumbers",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "input-symbols": {
       "codepoint": 57533,
       "fontFamily": "NotoV1",
-      "identifier": "inputSymbols"
+      "identifier": "inputSymbols",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "japanese-acceptable-button": {
       "codepoint": 57534,
       "fontFamily": "NotoV1",
-      "identifier": "japaneseAcceptableButton"
+      "identifier": "japaneseAcceptableButton",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "japanese-bargain-button": {
       "codepoint": 57535,
       "fontFamily": "NotoV1",
-      "identifier": "japaneseBargainButton"
+      "identifier": "japaneseBargainButton",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "japanese-discount-button": {
       "codepoint": 57536,
       "fontFamily": "NotoV1",
-      "identifier": "japaneseDiscountButton"
+      "identifier": "japaneseDiscountButton",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "japanese-free-of-charge-button": {
       "codepoint": 57537,
       "fontFamily": "NotoV1",
-      "identifier": "japaneseFreeOfChargeButton"
+      "identifier": "japaneseFreeOfChargeButton",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "japanese-here-button": {
       "codepoint": 57538,
       "fontFamily": "NotoV1",
-      "identifier": "japaneseHereButton"
+      "identifier": "japaneseHereButton",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "japanese-monthly-amount-button": {
       "codepoint": 57539,
       "fontFamily": "NotoV1",
-      "identifier": "japaneseMonthlyAmountButton"
+      "identifier": "japaneseMonthlyAmountButton",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "japanese-no-vacancy-button": {
       "codepoint": 57540,
       "fontFamily": "NotoV1",
-      "identifier": "japaneseNoVacancyButton"
+      "identifier": "japaneseNoVacancyButton",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "japanese-not-free-of-charge-button": {
       "codepoint": 57541,
       "fontFamily": "NotoV1",
-      "identifier": "japaneseNotFreeOfChargeButton"
+      "identifier": "japaneseNotFreeOfChargeButton",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "japanese-passing-grade-button": {
       "codepoint": 57542,
       "fontFamily": "NotoV1",
-      "identifier": "japanesePassingGradeButton"
+      "identifier": "japanesePassingGradeButton",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "japanese-post-office": {
       "codepoint": 57543,
       "fontFamily": "NotoV1",
-      "identifier": "japanesePostOffice"
+      "identifier": "japanesePostOffice",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "japanese-prohibited-button": {
       "codepoint": 57544,
       "fontFamily": "NotoV1",
-      "identifier": "japaneseProhibitedButton"
+      "identifier": "japaneseProhibitedButton",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "japanese-reserved-button": {
       "codepoint": 57545,
       "fontFamily": "NotoV1",
-      "identifier": "japaneseReservedButton"
+      "identifier": "japaneseReservedButton",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "japanese-secret-button": {
       "codepoint": 57546,
       "fontFamily": "NotoV1",
-      "identifier": "japaneseSecretButton"
+      "identifier": "japaneseSecretButton",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "japanese-service-charge-button": {
       "codepoint": 57547,
       "fontFamily": "NotoV1",
-      "identifier": "japaneseServiceChargeButton"
+      "identifier": "japaneseServiceChargeButton",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "japanese-vacancy-button": {
       "codepoint": 57548,
       "fontFamily": "NotoV1",
-      "identifier": "japaneseVacancyButton"
+      "identifier": "japaneseVacancyButton",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "jeans": {
       "codepoint": 57549,
       "fontFamily": "NotoV1",
-      "identifier": "jeans"
+      "identifier": "jeans",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "joystick": {
       "codepoint": 57550,
       "fontFamily": "NotoV1",
-      "identifier": "joystick"
+      "identifier": "joystick",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "key": {
       "codepoint": 57551,
@@ -1074,12 +1360,16 @@
     "kissing-face": {
       "codepoint": 57552,
       "fontFamily": "NotoV1",
-      "identifier": "kissingFace"
+      "identifier": "kissingFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "kissing-face-with-smiling-eyes": {
       "codepoint": 57553,
       "fontFamily": "NotoV1",
-      "identifier": "kissingFaceWithSmilingEyes"
+      "identifier": "kissingFaceWithSmilingEyes",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "large-blue-diamond": {
       "codepoint": 57554,
@@ -1089,12 +1379,16 @@
     "last-quarter-moon-face": {
       "codepoint": 57555,
       "fontFamily": "NotoV1",
-      "identifier": "lastQuarterMoonFace"
+      "identifier": "lastQuarterMoonFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "last-quarter-moon-with-face": {
       "codepoint": 57556,
       "fontFamily": "NotoV1",
-      "identifier": "lastQuarterMoonWithFace"
+      "identifier": "lastQuarterMoonWithFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "last-track-button": {
       "codepoint": 57557,
@@ -1114,12 +1408,16 @@
     "left-facing-fist": {
       "codepoint": 57560,
       "fontFamily": "NotoV1",
-      "identifier": "leftFacingFist"
+      "identifier": "leftFacingFist",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "left-luggage": {
       "codepoint": 57561,
       "fontFamily": "NotoV1",
-      "identifier": "leftLuggage"
+      "identifier": "leftLuggage",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "left-right-arrow": {
       "codepoint": 57562,
@@ -1279,32 +1577,44 @@
     "link": {
       "codepoint": 57593,
       "fontFamily": "NotoV1",
-      "identifier": "link"
+      "identifier": "link",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "locked": {
       "codepoint": 57594,
       "fontFamily": "NotoV1",
-      "identifier": "locked"
+      "identifier": "locked",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "locomotive": {
       "codepoint": 57595,
       "fontFamily": "NotoV1",
-      "identifier": "locomotive"
+      "identifier": "locomotive",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "loudly-crying-face": {
       "codepoint": 57596,
       "fontFamily": "NotoV1",
-      "identifier": "loudlyCryingFace"
+      "identifier": "loudlyCryingFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "loudspeaker": {
       "codepoint": 57597,
       "fontFamily": "NotoV1",
-      "identifier": "loudspeaker"
+      "identifier": "loudspeaker",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "mahjong-red-dragon": {
       "codepoint": 57598,
       "fontFamily": "NotoV1",
-      "identifier": "mahjongRedDragon"
+      "identifier": "mahjongRedDragon",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "male-sign": {
       "codepoint": 57599,
@@ -1324,22 +1634,30 @@
     "mens-room": {
       "codepoint": 57602,
       "fontFamily": "NotoV1",
-      "identifier": "mensRoom"
+      "identifier": "mensRoom",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "middle-finger": {
       "codepoint": 57603,
       "fontFamily": "NotoV1",
-      "identifier": "middleFinger"
+      "identifier": "middleFinger",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "milky-way": {
       "codepoint": 57604,
       "fontFamily": "NotoV1",
-      "identifier": "milkyWay"
+      "identifier": "milkyWay",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "minibus": {
       "codepoint": 57605,
       "fontFamily": "NotoV1",
-      "identifier": "minibus"
+      "identifier": "minibus",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "minus": {
       "codepoint": 57606,
@@ -1354,47 +1672,65 @@
     "moai": {
       "codepoint": 57608,
       "fontFamily": "NotoV1",
-      "identifier": "moai"
+      "identifier": "moai",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "mobile-phone-off": {
       "codepoint": 57609,
       "fontFamily": "NotoV1",
-      "identifier": "mobilePhoneOff"
+      "identifier": "mobilePhoneOff",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "money-mouth-face": {
       "codepoint": 57610,
       "fontFamily": "NotoV1",
-      "identifier": "moneyMouthFace"
+      "identifier": "moneyMouthFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "motorcycle": {
       "codepoint": 57611,
       "fontFamily": "NotoV1",
-      "identifier": "motorcycle"
+      "identifier": "motorcycle",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "mount-fuji": {
       "codepoint": 57612,
       "fontFamily": "NotoV1",
-      "identifier": "mountFuji"
+      "identifier": "mountFuji",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "mountain": {
       "codepoint": 57613,
       "fontFamily": "NotoV1",
-      "identifier": "mountain"
+      "identifier": "mountain",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "mountain-cableway": {
       "codepoint": 57614,
       "fontFamily": "NotoV1",
-      "identifier": "mountainCableway"
+      "identifier": "mountainCableway",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "mouse": {
       "codepoint": 57615,
       "fontFamily": "NotoV1",
-      "identifier": "mouse"
+      "identifier": "mouse",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "mouse-face": {
       "codepoint": 57616,
       "fontFamily": "NotoV1",
-      "identifier": "mouseFace"
+      "identifier": "mouseFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "musical-note": {
       "codepoint": 57617,
@@ -1404,27 +1740,37 @@
     "nauseated-face": {
       "codepoint": 57618,
       "fontFamily": "NotoV1",
-      "identifier": "nauseatedFace"
+      "identifier": "nauseatedFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "neutral-face": {
       "codepoint": 57619,
       "fontFamily": "NotoV1",
-      "identifier": "neutralFace"
+      "identifier": "neutralFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "new-button": {
       "codepoint": 57620,
       "fontFamily": "NotoV1",
-      "identifier": "newButton"
+      "identifier": "newButton",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "new-moon": {
       "codepoint": 57621,
       "fontFamily": "NotoV1",
-      "identifier": "newMoon"
+      "identifier": "newMoon",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "new-moon-face": {
       "codepoint": 57622,
       "fontFamily": "NotoV1",
-      "identifier": "newMoonFace"
+      "identifier": "newMoonFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "next-track-button": {
       "codepoint": 57623,
@@ -1434,112 +1780,156 @@
     "ng-button": {
       "codepoint": 57624,
       "fontFamily": "NotoV1",
-      "identifier": "ngButton"
+      "identifier": "ngButton",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "night-with-stars": {
       "codepoint": 57625,
       "fontFamily": "NotoV1",
-      "identifier": "nightWithStars"
+      "identifier": "nightWithStars",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "nine-oclock": {
       "codepoint": 57626,
       "fontFamily": "NotoV1",
-      "identifier": "nineOclock"
+      "identifier": "nineOclock",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "no-entry": {
       "codepoint": 57627,
       "fontFamily": "NotoV1",
-      "identifier": "noEntry"
+      "identifier": "noEntry",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "nose": {
       "codepoint": 57628,
       "fontFamily": "NotoV1",
-      "identifier": "nose"
+      "identifier": "nose",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "notebook": {
       "codepoint": 57629,
       "fontFamily": "NotoV1",
-      "identifier": "notebook"
+      "identifier": "notebook",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "nut-and-bolt": {
       "codepoint": 57630,
       "fontFamily": "NotoV1",
-      "identifier": "nutAndBolt"
+      "identifier": "nutAndBolt",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "office-building": {
       "codepoint": 57631,
       "fontFamily": "NotoV1",
-      "identifier": "officeBuilding"
+      "identifier": "officeBuilding",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "ogre": {
       "codepoint": 57632,
       "fontFamily": "NotoV1",
-      "identifier": "ogre"
+      "identifier": "ogre",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "oil-drum": {
       "codepoint": 57633,
       "fontFamily": "NotoV1",
-      "identifier": "oilDrum"
+      "identifier": "oilDrum",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "ok-button": {
       "codepoint": 57634,
       "fontFamily": "NotoV1",
-      "identifier": "okButton"
+      "identifier": "okButton",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "ok-hand": {
       "codepoint": 57635,
       "fontFamily": "NotoV1",
-      "identifier": "okHand"
+      "identifier": "okHand",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "on-arrow": {
       "codepoint": 57636,
       "fontFamily": "NotoV1",
-      "identifier": "onArrow"
+      "identifier": "onArrow",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "on-exclamation-arrow": {
       "codepoint": 57637,
       "fontFamily": "NotoV1",
-      "identifier": "onExclamationArrow"
+      "identifier": "onExclamationArrow",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "oncoming-automobile": {
       "codepoint": 57638,
       "fontFamily": "NotoV1",
-      "identifier": "oncomingAutomobile"
+      "identifier": "oncomingAutomobile",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "oncoming-fist": {
       "codepoint": 57639,
       "fontFamily": "NotoV1",
-      "identifier": "oncomingFist"
+      "identifier": "oncomingFist",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "oncoming-police-car": {
       "codepoint": 57640,
       "fontFamily": "NotoV1",
-      "identifier": "oncomingPoliceCar"
+      "identifier": "oncomingPoliceCar",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "oncoming-taxi": {
       "codepoint": 57641,
       "fontFamily": "NotoV1",
-      "identifier": "oncomingTaxi"
+      "identifier": "oncomingTaxi",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "one-oclock": {
       "codepoint": 57642,
       "fontFamily": "NotoV1",
-      "identifier": "oneOclock"
+      "identifier": "oneOclock",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "open-book": {
       "codepoint": 57643,
       "fontFamily": "NotoV1",
-      "identifier": "openBook"
+      "identifier": "openBook",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "open-file-folder": {
       "codepoint": 57644,
       "fontFamily": "NotoV1",
-      "identifier": "openFileFolder"
+      "identifier": "openFileFolder",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "open-hands": {
       "codepoint": 57645,
       "fontFamily": "NotoV1",
-      "identifier": "openHands"
+      "identifier": "openHands",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "ophiuchus": {
       "codepoint": 57646,
@@ -1549,32 +1939,44 @@
     "optical-disk": {
       "codepoint": 57647,
       "fontFamily": "NotoV1",
-      "identifier": "opticalDisk"
+      "identifier": "opticalDisk",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "orange-book": {
       "codepoint": 57648,
       "fontFamily": "NotoV1",
-      "identifier": "orangeBook"
+      "identifier": "orangeBook",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "p-button": {
       "codepoint": 57649,
       "fontFamily": "NotoV1",
-      "identifier": "pButton"
+      "identifier": "pButton",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "pager": {
       "codepoint": 57650,
       "fontFamily": "NotoV1",
-      "identifier": "pager"
+      "identifier": "pager",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "panda": {
       "codepoint": 57651,
       "fontFamily": "NotoV1",
-      "identifier": "panda"
+      "identifier": "panda",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "panda-face": {
       "codepoint": 57652,
       "fontFamily": "NotoV1",
-      "identifier": "pandaFace"
+      "identifier": "pandaFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "paperclip": {
       "codepoint": 57653,
@@ -1589,12 +1991,16 @@
     "passenger-ship": {
       "codepoint": 57655,
       "fontFamily": "NotoV1",
-      "identifier": "passengerShip"
+      "identifier": "passengerShip",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "passport-control": {
       "codepoint": 57656,
       "fontFamily": "NotoV1",
-      "identifier": "passportControl"
+      "identifier": "passportControl",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "pause-button": {
       "codepoint": 57657,
@@ -1609,27 +2015,37 @@
     "pensive-face": {
       "codepoint": 57659,
       "fontFamily": "NotoV1",
-      "identifier": "pensiveFace"
+      "identifier": "pensiveFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "person-taking-bath": {
       "codepoint": 57660,
       "fontFamily": "NotoV1",
-      "identifier": "personTakingBath"
+      "identifier": "personTakingBath",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "person-taking-bath-light-skin-tone": {
       "codepoint": 57661,
       "fontFamily": "NotoV1",
-      "identifier": "personTakingBathLightSkinTone"
+      "identifier": "personTakingBathLightSkinTone",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "person-taking-bath-medium-light-skin-tone": {
       "codepoint": 57662,
       "fontFamily": "NotoV1",
-      "identifier": "personTakingBathMediumLightSkinTone"
+      "identifier": "personTakingBathMediumLightSkinTone",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "pill": {
       "codepoint": 57663,
       "fontFamily": "NotoV1",
-      "identifier": "pill"
+      "identifier": "pill",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "pisces": {
       "codepoint": 57664,
@@ -1659,17 +2075,23 @@
     "police-car": {
       "codepoint": 57669,
       "fontFamily": "NotoV1",
-      "identifier": "policeCar"
+      "identifier": "policeCar",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "postal-horn": {
       "codepoint": 57670,
       "fontFamily": "NotoV1",
-      "identifier": "postalHorn"
+      "identifier": "postalHorn",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "potable-water": {
       "codepoint": 57671,
       "fontFamily": "NotoV1",
-      "identifier": "potableWater"
+      "identifier": "potableWater",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "pound-symbol": {
       "codepoint": 57672,
@@ -1684,17 +2106,23 @@
     "rabbit": {
       "codepoint": 57674,
       "fontFamily": "NotoV1",
-      "identifier": "rabbit"
+      "identifier": "rabbit",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "rabbit-face": {
       "codepoint": 57675,
       "fontFamily": "NotoV1",
-      "identifier": "rabbitFace"
+      "identifier": "rabbitFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "racing-car": {
       "codepoint": 57676,
       "fontFamily": "NotoV1",
-      "identifier": "racingCar"
+      "identifier": "racingCar",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "radioactive": {
       "codepoint": 57677,
@@ -1728,22 +2156,30 @@
     "raised-fist": {
       "codepoint": 57682,
       "fontFamily": "NotoV1",
-      "identifier": "raisedFist"
+      "identifier": "raisedFist",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "raised-hand": {
       "codepoint": 57683,
       "fontFamily": "NotoV1",
-      "identifier": "raisedHand"
+      "identifier": "raisedHand",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "raised-hand-with-fingers-splayed": {
       "codepoint": 57684,
       "fontFamily": "NotoV1",
-      "identifier": "raisedHandWithFingersSplayed"
+      "identifier": "raisedHandWithFingersSplayed",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "rat": {
       "codepoint": 57685,
       "fontFamily": "NotoV1",
-      "identifier": "rat"
+      "identifier": "rat",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "record-button": {
       "codepoint": 57686,
@@ -1753,7 +2189,9 @@
     "red-paper-lantern": {
       "codepoint": 57687,
       "fontFamily": "NotoV1",
-      "identifier": "redPaperLantern"
+      "identifier": "redPaperLantern",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "registered": {
       "codepoint": 57688,
@@ -1763,7 +2201,9 @@
     "reminder-ribbon": {
       "codepoint": 57689,
       "fontFamily": "NotoV1",
-      "identifier": "reminderRibbon"
+      "identifier": "reminderRibbon",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "repeat-button": {
       "codepoint": 57690,
@@ -1778,7 +2218,9 @@
     "restroom": {
       "codepoint": 57692,
       "fontFamily": "NotoV1",
-      "identifier": "restroom"
+      "identifier": "restroom",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "reverse-button": {
       "codepoint": 57693,
@@ -1788,7 +2230,9 @@
     "right-anger-bubble": {
       "codepoint": 57694,
       "fontFamily": "NotoV1",
-      "identifier": "rightAngerBubble"
+      "identifier": "rightAngerBubble",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "right-arrow": {
       "codepoint": 57695,
@@ -1813,32 +2257,44 @@
     "right-facing-fist": {
       "codepoint": 57699,
       "fontFamily": "NotoV1",
-      "identifier": "rightFacingFist"
+      "identifier": "rightFacingFist",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "rolling-on-the-floor-laughing": {
       "codepoint": 57700,
       "fontFamily": "NotoV1",
-      "identifier": "rollingOnTheFloorLaughing"
+      "identifier": "rollingOnTheFloorLaughing",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "rooster": {
       "codepoint": 57701,
       "fontFamily": "NotoV1",
-      "identifier": "rooster"
+      "identifier": "rooster",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "rosette": {
       "codepoint": 57702,
       "fontFamily": "NotoV1",
-      "identifier": "rosette"
+      "identifier": "rosette",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "round-pushpin": {
       "codepoint": 57703,
       "fontFamily": "NotoV1",
-      "identifier": "roundPushpin"
+      "identifier": "roundPushpin",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "sad-but-relieved-face": {
       "codepoint": 57704,
       "fontFamily": "NotoV1",
-      "identifier": "sadButRelievedFace"
+      "identifier": "sadButRelievedFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "sagittarius": {
       "codepoint": 57705,
@@ -1848,12 +2304,16 @@
     "sailboat": {
       "codepoint": 57706,
       "fontFamily": "NotoV1",
-      "identifier": "sailboat"
+      "identifier": "sailboat",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "school-backpack": {
       "codepoint": 57707,
       "fontFamily": "NotoV1",
-      "identifier": "schoolBackpack"
+      "identifier": "schoolBackpack",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "scorpio": {
       "codepoint": 57708,
@@ -1868,7 +2328,9 @@
     "seven-oclock": {
       "codepoint": 57710,
       "fontFamily": "NotoV1",
-      "identifier": "sevenOclock"
+      "identifier": "sevenOclock",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "shuffle-tracks-button": {
       "codepoint": 57711,
@@ -1878,7 +2340,9 @@
     "six-oclock": {
       "codepoint": 57712,
       "fontFamily": "NotoV1",
-      "identifier": "sixOclock"
+      "identifier": "sixOclock",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "skull": {
       "codepoint": 57713,
@@ -1888,22 +2352,30 @@
     "sleepy-face": {
       "codepoint": 57714,
       "fontFamily": "NotoV1",
-      "identifier": "sleepyFace"
+      "identifier": "sleepyFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "slightly-frowning-face": {
       "codepoint": 57715,
       "fontFamily": "NotoV1",
-      "identifier": "slightlyFrowningFace"
+      "identifier": "slightlyFrowningFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "slightly-smiling-face": {
       "codepoint": 57716,
       "fontFamily": "NotoV1",
-      "identifier": "slightlySmilingFace"
+      "identifier": "slightlySmilingFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "slot-machine": {
       "codepoint": 57717,
       "fontFamily": "NotoV1",
-      "identifier": "slotMachine"
+      "identifier": "slotMachine",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "small-blue-diamond": {
       "codepoint": 57718,
@@ -1913,32 +2385,44 @@
     "smiling-face": {
       "codepoint": 57719,
       "fontFamily": "NotoV1",
-      "identifier": "smilingFace"
+      "identifier": "smilingFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "smiling-face-with-halo": {
       "codepoint": 57720,
       "fontFamily": "NotoV1",
-      "identifier": "smilingFaceWithHalo"
+      "identifier": "smilingFaceWithHalo",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "smiling-face-with-open-mouth": {
       "codepoint": 57721,
       "fontFamily": "NotoV1",
-      "identifier": "smilingFaceWithOpenMouth"
+      "identifier": "smilingFaceWithOpenMouth",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "smiling-face-with-open-mouth-and-cold-sweat": {
       "codepoint": 57722,
       "fontFamily": "NotoV1",
-      "identifier": "smilingFaceWithOpenMouthAndColdSweat"
+      "identifier": "smilingFaceWithOpenMouthAndColdSweat",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "smiling-face-with-sunglasses": {
       "codepoint": 57723,
       "fontFamily": "NotoV1",
-      "identifier": "smilingFaceWithSunglasses"
+      "identifier": "smilingFaceWithSunglasses",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "smirking-face": {
       "codepoint": 57724,
       "fontFamily": "NotoV1",
-      "identifier": "smirkingFace"
+      "identifier": "smirkingFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "snowflake": {
       "codepoint": 57725,
@@ -1948,22 +2432,30 @@
     "snowman": {
       "codepoint": 57726,
       "fontFamily": "NotoV1",
-      "identifier": "snowman"
+      "identifier": "snowman",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "snowman-without-snow": {
       "codepoint": 57727,
       "fontFamily": "NotoV1",
-      "identifier": "snowmanWithoutSnow"
+      "identifier": "snowmanWithoutSnow",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "soccer-ball": {
       "codepoint": 57728,
       "fontFamily": "NotoV1",
-      "identifier": "soccerBall"
+      "identifier": "soccerBall",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "soon-arrow": {
       "codepoint": 57729,
       "fontFamily": "NotoV1",
-      "identifier": "soonArrow"
+      "identifier": "soonArrow",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "spade-suit": {
       "codepoint": 57730,
@@ -1973,32 +2465,44 @@
     "speaker-high-volume": {
       "codepoint": 57731,
       "fontFamily": "NotoV1",
-      "identifier": "speakerHighVolume"
+      "identifier": "speakerHighVolume",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "speaker-low-volume": {
       "codepoint": 57732,
       "fontFamily": "NotoV1",
-      "identifier": "speakerLowVolume"
+      "identifier": "speakerLowVolume",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "speaker-medium-volume": {
       "codepoint": 57733,
       "fontFamily": "NotoV1",
-      "identifier": "speakerMediumVolume"
+      "identifier": "speakerMediumVolume",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "speech-balloon": {
       "codepoint": 57734,
       "fontFamily": "NotoV1",
-      "identifier": "speechBalloon"
+      "identifier": "speechBalloon",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "spider": {
       "codepoint": 57735,
       "fontFamily": "NotoV1",
-      "identifier": "spider"
+      "identifier": "spider",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "spider-web": {
       "codepoint": 57736,
       "fontFamily": "NotoV1",
-      "identifier": "spiderWeb"
+      "identifier": "spiderWeb",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "spoon": {
       "codepoint": 57737,
@@ -2008,7 +2512,9 @@
     "spouting-whale": {
       "codepoint": 57738,
       "fontFamily": "NotoV1",
-      "identifier": "spoutingWhale"
+      "identifier": "spoutingWhale",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "stop-button": {
       "codepoint": 57739,
@@ -2018,7 +2524,9 @@
     "straight-ruler": {
       "codepoint": 57740,
       "fontFamily": "NotoV1",
-      "identifier": "straightRuler"
+      "identifier": "straightRuler",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "sun": {
       "codepoint": 57741,
@@ -2028,27 +2536,37 @@
     "sun-behind-cloud": {
       "codepoint": 57742,
       "fontFamily": "NotoV1",
-      "identifier": "sunBehindCloud"
+      "identifier": "sunBehindCloud",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "sun-behind-large-cloud": {
       "codepoint": 57743,
       "fontFamily": "NotoV1",
-      "identifier": "sunBehindLargeCloud"
+      "identifier": "sunBehindLargeCloud",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "sun-behind-rain-cloud": {
       "codepoint": 57744,
       "fontFamily": "NotoV1",
-      "identifier": "sunBehindRainCloud"
+      "identifier": "sunBehindRainCloud",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "sun-behind-small-cloud": {
       "codepoint": 57745,
       "fontFamily": "NotoV1",
-      "identifier": "sunBehindSmallCloud"
+      "identifier": "sunBehindSmallCloud",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "sun-with-face": {
       "codepoint": 57746,
       "fontFamily": "NotoV1",
-      "identifier": "sunWithFace"
+      "identifier": "sunWithFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "sweat-droplets": {
       "codepoint": 57747,
@@ -2063,82 +2581,114 @@
     "telephone-receiver": {
       "codepoint": 57749,
       "fontFamily": "NotoV1",
-      "identifier": "telephoneReceiver"
+      "identifier": "telephoneReceiver",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "telescope": {
       "codepoint": 57750,
       "fontFamily": "NotoV1",
-      "identifier": "telescope"
+      "identifier": "telescope",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "ten-oclock": {
       "codepoint": 57751,
       "fontFamily": "NotoV1",
-      "identifier": "tenOclock"
+      "identifier": "tenOclock",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "thermometer": {
       "codepoint": 57752,
       "fontFamily": "NotoV1",
-      "identifier": "thermometer"
+      "identifier": "thermometer",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "thinking-face": {
       "codepoint": 57753,
       "fontFamily": "NotoV1",
-      "identifier": "thinkingFace"
+      "identifier": "thinkingFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "thought-balloon": {
       "codepoint": 57754,
       "fontFamily": "NotoV1",
-      "identifier": "thoughtBalloon"
+      "identifier": "thoughtBalloon",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "three-oclock": {
       "codepoint": 57755,
       "fontFamily": "NotoV1",
-      "identifier": "threeOclock"
+      "identifier": "threeOclock",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "thumbs-down": {
       "codepoint": 57756,
       "fontFamily": "NotoV1",
-      "identifier": "thumbsDown"
+      "identifier": "thumbsDown",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "thumbs-up": {
       "codepoint": 57757,
       "fontFamily": "NotoV1",
-      "identifier": "thumbsUp"
+      "identifier": "thumbsUp",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "ticket": {
       "codepoint": 57758,
       "fontFamily": "NotoV1",
-      "identifier": "ticket"
+      "identifier": "ticket",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "tiger-face": {
       "codepoint": 57759,
       "fontFamily": "NotoV1",
-      "identifier": "tigerFace"
+      "identifier": "tigerFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "tired-face": {
       "codepoint": 57760,
       "fontFamily": "NotoV1",
-      "identifier": "tiredFace"
+      "identifier": "tiredFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "tokyo-tower": {
       "codepoint": 57761,
       "fontFamily": "NotoV1",
-      "identifier": "tokyoTower"
+      "identifier": "tokyoTower",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "top-arrow": {
       "codepoint": 57762,
       "fontFamily": "NotoV1",
-      "identifier": "topArrow"
+      "identifier": "topArrow",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "trackball": {
       "codepoint": 57763,
       "fontFamily": "NotoV1",
-      "identifier": "trackball"
+      "identifier": "trackball",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "tractor": {
       "codepoint": 57764,
       "fontFamily": "NotoV1",
-      "identifier": "tractor"
+      "identifier": "tractor",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "trade-mark": {
       "codepoint": 57765,
@@ -2148,32 +2698,44 @@
     "triangular-flag": {
       "codepoint": 57766,
       "fontFamily": "NotoV1",
-      "identifier": "triangularFlag"
+      "identifier": "triangularFlag",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "triangular-ruler": {
       "codepoint": 57767,
       "fontFamily": "NotoV1",
-      "identifier": "triangularRuler"
+      "identifier": "triangularRuler",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "twelve-oclock": {
       "codepoint": 57768,
       "fontFamily": "NotoV1",
-      "identifier": "twelveOclock"
+      "identifier": "twelveOclock",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "two-oclock": {
       "codepoint": 57769,
       "fontFamily": "NotoV1",
-      "identifier": "twoOclock"
+      "identifier": "twoOclock",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "unamused-face": {
       "codepoint": 57770,
       "fontFamily": "NotoV1",
-      "identifier": "unamusedFace"
+      "identifier": "unamusedFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "unlocked": {
       "codepoint": 57771,
       "fontFamily": "NotoV1",
-      "identifier": "unlocked"
+      "identifier": "unlocked",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "up-arrow": {
       "codepoint": 57772,
@@ -2188,7 +2750,9 @@
     "up-exclamation-button": {
       "codepoint": 57774,
       "fontFamily": "NotoV1",
-      "identifier": "upExclamationButton"
+      "identifier": "upExclamationButton",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "up-left-arrow": {
       "codepoint": 57775,
@@ -2203,17 +2767,23 @@
     "up-text-button": {
       "codepoint": 57777,
       "fontFamily": "NotoV1",
-      "identifier": "upTextButton"
+      "identifier": "upTextButton",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "video-camera": {
       "codepoint": 57778,
       "fontFamily": "NotoV1",
-      "identifier": "videoCamera"
+      "identifier": "videoCamera",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "videocassette": {
       "codepoint": 57779,
       "fontFamily": "NotoV1",
-      "identifier": "videocassette"
+      "identifier": "videocassette",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "virgo": {
       "codepoint": 57780,
@@ -2223,42 +2793,58 @@
     "volleyball": {
       "codepoint": 57781,
       "fontFamily": "NotoV1",
-      "identifier": "volleyball"
+      "identifier": "volleyball",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "vs-button": {
       "codepoint": 57782,
       "fontFamily": "NotoV1",
-      "identifier": "vsButton"
+      "identifier": "vsButton",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "vulcan-salute": {
       "codepoint": 57783,
       "fontFamily": "NotoV1",
-      "identifier": "vulcanSalute"
+      "identifier": "vulcanSalute",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "warning": {
       "codepoint": 57784,
       "fontFamily": "NotoV1",
-      "identifier": "warning"
+      "identifier": "warning",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "wastebasket": {
       "codepoint": 57785,
       "fontFamily": "NotoV1",
-      "identifier": "wastebasket"
+      "identifier": "wastebasket",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "water-buffalo": {
       "codepoint": 57786,
       "fontFamily": "NotoV1",
-      "identifier": "waterBuffalo"
+      "identifier": "waterBuffalo",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "water-closet": {
       "codepoint": 57787,
       "fontFamily": "NotoV1",
-      "identifier": "waterCloset"
+      "identifier": "waterCloset",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "water-wave": {
       "codepoint": 57788,
       "fontFamily": "NotoV1",
-      "identifier": "waterWave"
+      "identifier": "waterWave",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "wavy-dash": {
       "codepoint": 57789,
@@ -2268,12 +2854,16 @@
     "weary-face": {
       "codepoint": 57790,
       "fontFamily": "NotoV1",
-      "identifier": "wearyFace"
+      "identifier": "wearyFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "wheelchair-symbol": {
       "codepoint": 57791,
       "fontFamily": "NotoV1",
-      "identifier": "wheelchairSymbol"
+      "identifier": "wheelchairSymbol",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "white-circle": {
       "codepoint": 57792,
@@ -2288,7 +2878,9 @@
     "white-flag": {
       "codepoint": 57794,
       "fontFamily": "NotoV1",
-      "identifier": "whiteFlag"
+      "identifier": "whiteFlag",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "white-large-square": {
       "codepoint": 57795,
@@ -2318,37 +2910,51 @@
     "wind-face": {
       "codepoint": 57800,
       "fontFamily": "NotoV1",
-      "identifier": "windFace"
+      "identifier": "windFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "winking-face": {
       "codepoint": 57801,
       "fontFamily": "NotoV1",
-      "identifier": "winkingFace"
+      "identifier": "winkingFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "womens-room": {
       "codepoint": 57802,
       "fontFamily": "NotoV1",
-      "identifier": "womensRoom"
+      "identifier": "womensRoom",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "world-map": {
       "codepoint": 57803,
       "fontFamily": "NotoV1",
-      "identifier": "worldMap"
+      "identifier": "worldMap",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "worried-face": {
       "codepoint": 57804,
       "fontFamily": "NotoV1",
-      "identifier": "worriedFace"
+      "identifier": "worriedFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "wrench": {
       "codepoint": 57805,
       "fontFamily": "NotoV1",
-      "identifier": "wrench"
+      "identifier": "wrench",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     },
     "zipper-mouth-face": {
       "codepoint": 57806,
       "fontFamily": "NotoV1",
-      "identifier": "zipperMouthFace"
+      "identifier": "zipperMouthFace",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
     }
   }
 }

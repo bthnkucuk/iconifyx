@@ -16,7 +16,14 @@ import {
 import { loadConfig, displayCategory, fontFamilyFromPrefix, dartFileNameFromPrefix } from './group_sets.ts';
 import { validateIconBody } from './glyph_validator.ts';
 import { strokeFillBatch } from './stroke_fill.ts';
-import { isDuotoneBody, splitDuotoneBody, setStrokeWidth, rasterFillSignal } from './svg_preprocess.ts';
+import {
+  isDuotoneBody,
+  splitDuotoneBody,
+  setStrokeWidth,
+  rasterFillSignal,
+  paintOrderSignal,
+  isPaintOrderRiskBody,
+} from './svg_preprocess.ts';
 import { secondaryFontFamily } from './manifest.ts';
 import {
   readManifest,
@@ -77,6 +84,18 @@ interface RasterFillAuditEntry {
   sig: ReturnType<typeof rasterFillSignal>;
   applied: boolean;
   source: 'explicit' | 'auto' | 'none';
+  /**
+   * Per-set paint-order signal (multi-fill ratio) measured AFTER duotone
+   * split + stroke-fill rasterize-trace — so packs that were already
+   * neutralised via rasterize-trace report 0% here.
+   */
+  paintOrder: ReturnType<typeof paintOrderSignal>;
+  /**
+   * Per-set count of icons we proactively dropped at the paint-order
+   * detector (multi-fill bodies that would have rendered as featureless
+   * monochrome blobs). Surfaced in STROKE_AUDIT.md.
+   */
+  paintOrderDropped: number;
 }
 const rasterFillSignalCache = new Map<string, RasterFillAuditEntry>();
 
@@ -226,6 +245,8 @@ export async function runPipeline(options: PipelineOptions = {}): Promise<void> 
       source: cached?.source ?? 'none',
       iconCount: live.length,
       duotoneCount: live.filter((i) => i.duotone).length,
+      paintOrder: cached?.paintOrder ?? { paintOrderRatio: 0 },
+      paintOrderDropped: cached?.paintOrderDropped ?? 0,
     });
   }
   await writeStrokeAudit(auditEntries);
@@ -310,9 +331,6 @@ async function processOneSet(
       `  "${prefix}": auto-detected stroke/evenodd (stroke=${(sig.strokeRatio * 100).toFixed(0)}%, evenodd=${(sig.evenOddRatio * 100).toFixed(0)}%) — applying rasterize-trace`
     );
   }
-  // Stash the signal on the manifest later so audit reports show why a
-  // set was processed.
-  rasterFillSignalCache.set(prefix, { sig, applied: isStrokeFillSet, source: explicitlyConfigured ? 'explicit' : autoDetected ? 'auto' : 'none' });
   if (isStrokeFillSet) {
     await strokeFillBatch(prefix, allResolved);
     if (secondaryByName.size > 0) {
@@ -323,6 +341,49 @@ async function processOneSet(
     }
   }
 
+  // Paint-order detection. Sample AFTER stroke-fill — rasterize-trace
+  // collapses every body to a single `fill="..."` path, so packs that went
+  // through it correctly report a 0% paint-order ratio here even though
+  // they were multi-fill at source. This makes the audit signal a true
+  // measure of "icons still at risk of monochrome-blob rendering".
+  const paintSig = paintOrderSignal(allResolved);
+
+  // Per-icon paint-order risk. Even AFTER rasterize-trace, sets that
+  // weren't sent through stroke-fill (or whose rasterize-trace failed
+  // for that specific icon) still carry multi-fill bodies. Those bodies
+  // render as a featureless monochrome blob in the final TTF — `logos`'s
+  // `adobe-after-effects` shipped as a purple square with no "Ae" letter.
+  // Rasterize-trace does NOT fix this class of bug because Potrace traces
+  // the COMBINED silhouette as one filled region (the inner letter is
+  // "inside" the outer rect's filled region and gets absorbed). Better
+  // to omit a broken icon than ship a featureless square — drop it here
+  // so it never gets a codepoint nor appears in the Dart class.
+  let paintOrderDropped = 0;
+  const paintOrderDroppedNames = new Set<string>();
+  for (const r of allResolved) {
+    if (isPaintOrderRiskBody(r.body)) {
+      paintOrderDroppedNames.add(r.name);
+      paintOrderDropped += 1;
+    }
+  }
+
+  // Stash the signal on the manifest later so audit reports show why a
+  // set was processed.
+  rasterFillSignalCache.set(prefix, {
+    sig,
+    applied: isStrokeFillSet,
+    source: explicitlyConfigured ? 'explicit' : autoDetected ? 'auto' : 'none',
+    paintOrder: paintSig,
+    paintOrderDropped,
+  });
+
+  if (paintOrderDropped > 0) {
+    const sample = [...paintOrderDroppedNames].slice(0, 3).join(', ');
+    log.info(
+      `  "${prefix}": dropping ${paintOrderDropped} multi-fill icon${paintOrderDropped === 1 ? '' : 's'} (paint-order risk, would render as monochrome blob) (${sample}${paintOrderDropped > 3 ? '…' : ''})`
+    );
+  }
+
   // Pre-validate each glyph; drop anything svgicons2svgfont/svg2ttf would
   // choke on. This recovers ~99% of sets that previously failed because of
   // ONE malformed glyph (line-md, icon-park, devicon, …). We validate the
@@ -330,6 +391,12 @@ async function processOneSet(
   const resolved: ResolvedIcon[] = [];
   const droppedGlyphs: { name: string; reason: string }[] = [];
   for (const ic of allResolved) {
+    if (paintOrderDroppedNames.has(ic.name)) {
+      droppedGlyphs.push({ name: ic.name, reason: 'paint-order risk (multi-fill body)' });
+      secondaryByName.delete(ic.name);
+      duotoneNames.delete(ic.name);
+      continue;
+    }
     const v = validateIconBody(ic);
     if (v.ok) {
       resolved.push(ic);

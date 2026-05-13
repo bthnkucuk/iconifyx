@@ -470,6 +470,10 @@ dependencies:
   shared_preferences: ^2.3.2
   url_launcher: ^6.3.2
   oref: ^2.8.1
+  # IconDetailRoute presents the icon detail page as a content-sized sheet
+  # over the shell layout. `google_fonts` is intentionally NOT a dep —
+  # runtime gstatic.com fetches were crashing CanvasKit on web; we ship
+  # Plus Jakarta Sans + JetBrains Mono as static assets instead.
   stupid_simple_sheet: ^0.9.1
 
 dev_dependencies:
