@@ -16,18 +16,18 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 80
+    "total": 350
   },
   "fonts": [
     {
       "family": "Emojione",
-      "nextCodepoint": 57847,
-      "iconCount": 80
+      "nextCodepoint": 57946,
+      "iconCount": 350
     },
     {
       "family": "EmojioneSecondary",
-      "nextCodepoint": 57847,
-      "iconCount": 1
+      "nextCodepoint": 57946,
+      "iconCount": 271
     }
   ],
   "icons": {
@@ -35,15 +35,13 @@
       "codepoint": 57344,
       "fontFamily": "Emojione",
       "identifier": "aButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "ab-button": {
       "codepoint": 57345,
       "fontFamily": "Emojione",
       "identifier": "abButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "airplane": {
       "codepoint": 57346,
@@ -61,36 +59,43 @@
       "codepoint": 57348,
       "fontFamily": "Emojione",
       "identifier": "antennaBars",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "anticlockwise-arrows-button": {
       "codepoint": 57349,
       "fontFamily": "Emojione",
       "identifier": "anticlockwiseArrowsButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "aquarius": {
+      "codepoint": 57847,
+      "fontFamily": "Emojione",
+      "identifier": "aquarius",
+      "duotone": true
+    },
+    "aries": {
+      "codepoint": 57848,
+      "fontFamily": "Emojione",
+      "identifier": "aries",
+      "duotone": true
     },
     "asterisk": {
       "codepoint": 57350,
       "fontFamily": "Emojione",
       "identifier": "asterisk",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "atom-symbol": {
       "codepoint": 57351,
       "fontFamily": "Emojione",
       "identifier": "atomSymbol",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "b-button": {
       "codepoint": 57352,
       "fontFamily": "Emojione",
       "identifier": "bButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "baggage-claim": {
       "codepoint": 57353,
@@ -103,8 +108,7 @@
       "codepoint": 57354,
       "fontFamily": "Emojione",
       "identifier": "ballotBoxWithCheck",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "baseball": {
       "codepoint": 57355,
@@ -117,8 +121,7 @@
       "codepoint": 57356,
       "fontFamily": "Emojione",
       "identifier": "bathtub",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "beating-heart": {
       "codepoint": 57357,
@@ -141,6 +144,18 @@
       "codepoint": 57360,
       "fontFamily": "Emojione",
       "identifier": "blackHeart"
+    },
+    "black-nib": {
+      "codepoint": 57849,
+      "fontFamily": "Emojione",
+      "identifier": "blackNib",
+      "duotone": true
+    },
+    "black-square-button": {
+      "codepoint": 57850,
+      "fontFamily": "Emojione",
+      "identifier": "blackSquareButton",
+      "duotone": true
     },
     "blue-circle": {
       "codepoint": 57361,
@@ -185,8 +200,19 @@
       "codepoint": 57368,
       "fontFamily": "Emojione",
       "identifier": "cancer",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "capricorn": {
+      "codepoint": 57851,
+      "fontFamily": "Emojione",
+      "identifier": "capricorn",
+      "duotone": true
+    },
+    "chains": {
+      "codepoint": 57852,
+      "fontFamily": "Emojione",
+      "identifier": "chains",
+      "duotone": true
     },
     "chart-decreasing": {
       "codepoint": 57369,
@@ -206,22 +232,19 @@
       "codepoint": 57371,
       "fontFamily": "Emojione",
       "identifier": "chartIncreasingWithYen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "check-box-with-check": {
       "codepoint": 57372,
       "fontFamily": "Emojione",
       "identifier": "checkBoxWithCheck",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "check-mark-button": {
       "codepoint": 57373,
       "fontFamily": "Emojione",
       "identifier": "checkMarkButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "chicken": {
       "codepoint": 57374,
@@ -241,22 +264,19 @@
       "codepoint": 57376,
       "fontFamily": "Emojione",
       "identifier": "cinema",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "circled-m": {
       "codepoint": 57377,
       "fontFamily": "Emojione",
       "identifier": "circledM",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "cl-button": {
       "codepoint": 57378,
       "fontFamily": "Emojione",
       "identifier": "clButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "clinking-beer-mugs": {
       "codepoint": 57379,
@@ -276,8 +296,7 @@
       "codepoint": 57381,
       "fontFamily": "Emojione",
       "identifier": "cloud",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "cloud-with-lightning": {
       "codepoint": 57382,
@@ -304,15 +323,13 @@
       "codepoint": 57385,
       "fontFamily": "Emojione",
       "identifier": "cloudWithSnow",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "cocktail-glass": {
       "codepoint": 57386,
       "fontFamily": "Emojione",
       "identifier": "cocktailGlass",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "computer-disk": {
       "codepoint": 57387,
@@ -332,15 +349,13 @@
       "codepoint": 57389,
       "fontFamily": "Emojione",
       "identifier": "coolButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "counterclockwise-arrows-button": {
       "codepoint": 57390,
       "fontFamily": "Emojione",
       "identifier": "counterclockwiseArrowsButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "crayon": {
       "codepoint": 57391,
@@ -363,15 +378,13 @@
       "codepoint": 57394,
       "fontFamily": "Emojione",
       "identifier": "crossMarkButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "customs": {
       "codepoint": 57395,
       "fontFamily": "Emojione",
       "identifier": "customs",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "cyclone": {
       "codepoint": 57396,
@@ -401,78 +414,67 @@
       "codepoint": 57400,
       "fontFamily": "Emojione",
       "identifier": "digitEight",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "digit-five": {
       "codepoint": 57401,
       "fontFamily": "Emojione",
       "identifier": "digitFive",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "digit-four": {
       "codepoint": 57402,
       "fontFamily": "Emojione",
       "identifier": "digitFour",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "digit-nine": {
       "codepoint": 57403,
       "fontFamily": "Emojione",
       "identifier": "digitNine",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "digit-one": {
       "codepoint": 57404,
       "fontFamily": "Emojione",
       "identifier": "digitOne",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "digit-seven": {
       "codepoint": 57405,
       "fontFamily": "Emojione",
       "identifier": "digitSeven",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "digit-six": {
       "codepoint": 57406,
       "fontFamily": "Emojione",
       "identifier": "digitSix",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "digit-three": {
       "codepoint": 57407,
       "fontFamily": "Emojione",
       "identifier": "digitThree",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "digit-two": {
       "codepoint": 57408,
       "fontFamily": "Emojione",
       "identifier": "digitTwo",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "digit-zero": {
       "codepoint": 57409,
       "fontFamily": "Emojione",
       "identifier": "digitZero",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "dizzy": {
       "codepoint": 57410,
       "fontFamily": "Emojione",
       "identifier": "dizzy",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "dotted-six-pointed-star": {
       "codepoint": 57411,
@@ -493,36 +495,31 @@
       "codepoint": 57414,
       "fontFamily": "Emojione",
       "identifier": "downArrow",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "down-button": {
       "codepoint": 57415,
       "fontFamily": "Emojione",
       "identifier": "downButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "down-left-arrow": {
       "codepoint": 57416,
       "fontFamily": "Emojione",
       "identifier": "downLeftArrow",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "down-right-arrow": {
       "codepoint": 57417,
       "fontFamily": "Emojione",
       "identifier": "downRightArrow",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "downwards-button": {
       "codepoint": 57418,
       "fontFamily": "Emojione",
       "identifier": "downwardsButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "droplet": {
       "codepoint": 57419,
@@ -544,8 +541,7 @@
       "codepoint": 57422,
       "fontFamily": "Emojione",
       "identifier": "ejectButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "electric-plug": {
       "codepoint": 57423,
@@ -585,6 +581,12 @@
       "fontFamily": "Emojione",
       "identifier": "exclamationQuestionMark"
     },
+    "expressionless-face": {
+      "codepoint": 57853,
+      "fontFamily": "Emojione",
+      "identifier": "expressionlessFace",
+      "duotone": true
+    },
     "eye": {
       "codepoint": 57429,
       "fontFamily": "Emojione",
@@ -596,36 +598,37 @@
       "codepoint": 57430,
       "fontFamily": "Emojione",
       "identifier": "eyeInSpeechBubble",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "fallen-leaf": {
+      "codepoint": 57854,
+      "fontFamily": "Emojione",
+      "identifier": "fallenLeaf",
+      "duotone": true
     },
     "fast-down-button": {
       "codepoint": 57431,
       "fontFamily": "Emojione",
       "identifier": "fastDownButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "fast-forward-button": {
       "codepoint": 57432,
       "fontFamily": "Emojione",
       "identifier": "fastForwardButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "fast-reverse-button": {
       "codepoint": 57433,
       "fontFamily": "Emojione",
       "identifier": "fastReverseButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "fast-up-button": {
       "codepoint": 57434,
       "fontFamily": "Emojione",
       "identifier": "fastUpButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "film-frames": {
       "codepoint": 57435,
@@ -653,6 +656,12 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flag-england": {
+      "codepoint": 57855,
+      "fontFamily": "Emojione",
+      "identifier": "flagEngland",
+      "duotone": true
+    },
     "flag-for-aland-islands": {
       "codepoint": 57439,
       "fontFamily": "Emojione",
@@ -664,8 +673,7 @@
       "codepoint": 57440,
       "fontFamily": "Emojione",
       "identifier": "flagForAlbania",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-angola": {
       "codepoint": 57441,
@@ -678,8 +686,7 @@
       "codepoint": 57442,
       "fontFamily": "Emojione",
       "identifier": "flagForAntarctica",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-armenia": {
       "codepoint": 57443,
@@ -699,8 +706,7 @@
       "codepoint": 57445,
       "fontFamily": "Emojione",
       "identifier": "flagForAustria",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-bahamas": {
       "codepoint": 57446,
@@ -708,6 +714,12 @@
       "identifier": "flagForBahamas",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "flag-for-bahrain": {
+      "codepoint": 57856,
+      "fontFamily": "Emojione",
+      "identifier": "flagForBahrain",
+      "duotone": true
     },
     "flag-for-barbados": {
       "codepoint": 57447,
@@ -797,8 +809,7 @@
       "codepoint": 57459,
       "fontFamily": "Emojione",
       "identifier": "flagForCanada",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-canary-islands": {
       "codepoint": 57460,
@@ -835,6 +846,12 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flag-for-chequered-flag": {
+      "codepoint": 57857,
+      "fontFamily": "Emojione",
+      "identifier": "flagForChequeredFlag",
+      "duotone": true
+    },
     "flag-for-chile": {
       "codepoint": 57465,
       "fontFamily": "Emojione",
@@ -846,8 +863,7 @@
       "codepoint": 57466,
       "fontFamily": "Emojione",
       "identifier": "flagForChina",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-colombia": {
       "codepoint": 57467,
@@ -881,8 +897,7 @@
       "codepoint": 57471,
       "fontFamily": "Emojione",
       "identifier": "flagForDenmark",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-eritrea": {
       "codepoint": 57472,
@@ -902,8 +917,13 @@
       "codepoint": 57474,
       "fontFamily": "Emojione",
       "identifier": "flagForEuropeanUnion",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "flag-for-finland": {
+      "codepoint": 57858,
+      "fontFamily": "Emojione",
+      "identifier": "flagForFinland",
+      "duotone": true
     },
     "flag-for-flag-aland-islands": {
       "codepoint": 57475,
@@ -916,8 +936,7 @@
       "codepoint": 57476,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagAlbania",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-angola": {
       "codepoint": 57477,
@@ -930,8 +949,7 @@
       "codepoint": 57478,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagAntarctica",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-armenia": {
       "codepoint": 57479,
@@ -951,8 +969,7 @@
       "codepoint": 57481,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagAustria",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-bahamas": {
       "codepoint": 57482,
@@ -960,6 +977,12 @@
       "identifier": "flagForFlagBahamas",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "flag-for-flag-bahrain": {
+      "codepoint": 57859,
+      "fontFamily": "Emojione",
+      "identifier": "flagForFlagBahrain",
+      "duotone": true
     },
     "flag-for-flag-barbados": {
       "codepoint": 57483,
@@ -1049,8 +1072,7 @@
       "codepoint": 57495,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagCanada",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-canary-islands": {
       "codepoint": 57496,
@@ -1098,8 +1120,7 @@
       "codepoint": 57502,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagChina",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-colombia": {
       "codepoint": 57503,
@@ -1133,8 +1154,7 @@
       "codepoint": 57507,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagDenmark",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-eritrea": {
       "codepoint": 57508,
@@ -1154,8 +1174,13 @@
       "codepoint": 57510,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagEuropeanUnion",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "flag-for-flag-finland": {
+      "codepoint": 57860,
+      "fontFamily": "Emojione",
+      "identifier": "flagForFlagFinland",
+      "duotone": true
     },
     "flag-for-flag-french-polynesia": {
       "codepoint": 57511,
@@ -1192,6 +1217,18 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flag-for-flag-greece": {
+      "codepoint": 57861,
+      "fontFamily": "Emojione",
+      "identifier": "flagForFlagGreece",
+      "duotone": true
+    },
+    "flag-for-flag-greenland": {
+      "codepoint": 57862,
+      "fontFamily": "Emojione",
+      "identifier": "flagForFlagGreenland",
+      "duotone": true
+    },
     "flag-for-flag-guadeloupe": {
       "codepoint": 57516,
       "fontFamily": "Emojione",
@@ -1217,15 +1254,13 @@
       "codepoint": 57519,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagHonduras",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-hong-kong-sar-china": {
       "codepoint": 57520,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagHongKongSarChina",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-hungary": {
       "codepoint": 57521,
@@ -1245,8 +1280,7 @@
       "codepoint": 57523,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagIndonesia",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-iran": {
       "codepoint": 57524,
@@ -1255,12 +1289,17 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flag-for-flag-israel": {
+      "codepoint": 57863,
+      "fontFamily": "Emojione",
+      "identifier": "flagForFlagIsrael",
+      "duotone": true
+    },
     "flag-for-flag-japan": {
       "codepoint": 57525,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagJapan",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-jersey": {
       "codepoint": 57526,
@@ -1353,6 +1392,24 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flag-for-flag-micronesia": {
+      "codepoint": 57864,
+      "fontFamily": "Emojione",
+      "identifier": "flagForFlagMicronesia",
+      "duotone": true
+    },
+    "flag-for-flag-monaco": {
+      "codepoint": 57865,
+      "fontFamily": "Emojione",
+      "identifier": "flagForFlagMonaco",
+      "duotone": true
+    },
+    "flag-for-flag-morocco": {
+      "codepoint": 57866,
+      "fontFamily": "Emojione",
+      "identifier": "flagForFlagMorocco",
+      "duotone": true
+    },
     "flag-for-flag-namibia": {
       "codepoint": 57539,
       "fontFamily": "Emojione",
@@ -1392,8 +1449,13 @@
       "codepoint": 57544,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagNigeria",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "flag-for-flag-norfolk-island": {
+      "codepoint": 57867,
+      "fontFamily": "Emojione",
+      "identifier": "flagForFlagNorfolkIsland",
+      "duotone": true
     },
     "flag-for-flag-north-korea": {
       "codepoint": 57545,
@@ -1413,8 +1475,7 @@
       "codepoint": 57547,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagPalau",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-panama": {
       "codepoint": 57548,
@@ -1427,15 +1488,13 @@
       "codepoint": 57549,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagPeru",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-poland": {
       "codepoint": 57550,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagPoland",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-samoa": {
       "codepoint": 57551,
@@ -1462,8 +1521,7 @@
       "codepoint": 57554,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagSomalia",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-st-barthelemy": {
       "codepoint": 57555,
@@ -1486,12 +1544,17 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flag-for-flag-sweden": {
+      "codepoint": 57868,
+      "fontFamily": "Emojione",
+      "identifier": "flagForFlagSweden",
+      "duotone": true
+    },
     "flag-for-flag-switzerland": {
       "codepoint": 57558,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagSwitzerland",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-thailand": {
       "codepoint": 57559,
@@ -1532,8 +1595,7 @@
       "codepoint": 57564,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagTunisia",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-turkey": {
       "codepoint": 57565,
@@ -1555,6 +1617,12 @@
       "identifier": "flagForFlagTuvalu",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "flag-for-flag-ukraine": {
+      "codepoint": 57869,
+      "fontFamily": "Emojione",
+      "identifier": "flagForFlagUkraine",
+      "duotone": true
     },
     "flag-for-flag-united-kingdom": {
       "codepoint": 57568,
@@ -1581,8 +1649,7 @@
       "codepoint": 57571,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagVietnam",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-western-sahara": {
       "codepoint": 57572,
@@ -1626,6 +1693,18 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flag-for-greece": {
+      "codepoint": 57870,
+      "fontFamily": "Emojione",
+      "identifier": "flagForGreece",
+      "duotone": true
+    },
+    "flag-for-greenland": {
+      "codepoint": 57871,
+      "fontFamily": "Emojione",
+      "identifier": "flagForGreenland",
+      "duotone": true
+    },
     "flag-for-guadeloupe": {
       "codepoint": 57578,
       "fontFamily": "Emojione",
@@ -1651,15 +1730,13 @@
       "codepoint": 57581,
       "fontFamily": "Emojione",
       "identifier": "flagForHonduras",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-hong-kong-sar-china": {
       "codepoint": 57582,
       "fontFamily": "Emojione",
       "identifier": "flagForHongKongSarChina",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-hungary": {
       "codepoint": 57583,
@@ -1679,8 +1756,7 @@
       "codepoint": 57585,
       "fontFamily": "Emojione",
       "identifier": "flagForIndonesia",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-iran": {
       "codepoint": 57586,
@@ -1689,12 +1765,17 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flag-for-israel": {
+      "codepoint": 57872,
+      "fontFamily": "Emojione",
+      "identifier": "flagForIsrael",
+      "duotone": true
+    },
     "flag-for-japan": {
       "codepoint": 57587,
       "fontFamily": "Emojione",
       "identifier": "flagForJapan",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-jersey": {
       "codepoint": 57588,
@@ -1787,6 +1868,24 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flag-for-micronesia": {
+      "codepoint": 57873,
+      "fontFamily": "Emojione",
+      "identifier": "flagForMicronesia",
+      "duotone": true
+    },
+    "flag-for-monaco": {
+      "codepoint": 57874,
+      "fontFamily": "Emojione",
+      "identifier": "flagForMonaco",
+      "duotone": true
+    },
+    "flag-for-morocco": {
+      "codepoint": 57875,
+      "fontFamily": "Emojione",
+      "identifier": "flagForMorocco",
+      "duotone": true
+    },
     "flag-for-namibia": {
       "codepoint": 57601,
       "fontFamily": "Emojione",
@@ -1826,8 +1925,13 @@
       "codepoint": 57606,
       "fontFamily": "Emojione",
       "identifier": "flagForNigeria",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "flag-for-norfolk-island": {
+      "codepoint": 57876,
+      "fontFamily": "Emojione",
+      "identifier": "flagForNorfolkIsland",
+      "duotone": true
     },
     "flag-for-north-korea": {
       "codepoint": 57607,
@@ -1840,8 +1944,7 @@
       "codepoint": 57608,
       "fontFamily": "Emojione",
       "identifier": "flagForPalau",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-panama": {
       "codepoint": 57609,
@@ -1854,15 +1957,13 @@
       "codepoint": 57610,
       "fontFamily": "Emojione",
       "identifier": "flagForPeru",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-poland": {
       "codepoint": 57611,
       "fontFamily": "Emojione",
       "identifier": "flagForPoland",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-samoa": {
       "codepoint": 57612,
@@ -1889,8 +1990,7 @@
       "codepoint": 57615,
       "fontFamily": "Emojione",
       "identifier": "flagForSomalia",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-st-barthelemy": {
       "codepoint": 57616,
@@ -1913,12 +2013,17 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flag-for-sweden": {
+      "codepoint": 57877,
+      "fontFamily": "Emojione",
+      "identifier": "flagForSweden",
+      "duotone": true
+    },
     "flag-for-switzerland": {
       "codepoint": 57619,
       "fontFamily": "Emojione",
       "identifier": "flagForSwitzerland",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-thailand": {
       "codepoint": 57620,
@@ -1959,8 +2064,7 @@
       "codepoint": 57625,
       "fontFamily": "Emojione",
       "identifier": "flagForTunisia",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-turkey": {
       "codepoint": 57626,
@@ -1982,6 +2086,12 @@
       "identifier": "flagForTuvalu",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "flag-for-ukraine": {
+      "codepoint": 57878,
+      "fontFamily": "Emojione",
+      "identifier": "flagForUkraine",
+      "duotone": true
     },
     "flag-for-united-kingdom": {
       "codepoint": 57629,
@@ -2008,8 +2118,7 @@
       "codepoint": 57632,
       "fontFamily": "Emojione",
       "identifier": "flagForVietnam",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-western-sahara": {
       "codepoint": 57633,
@@ -2022,13 +2131,24 @@
       "codepoint": 57634,
       "fontFamily": "Emojione",
       "identifier": "flagScotland",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "fog": {
+      "codepoint": 57879,
+      "fontFamily": "Emojione",
+      "identifier": "fog",
+      "duotone": true
     },
     "footprints": {
       "codepoint": 57635,
       "fontFamily": "Emojione",
       "identifier": "footprints"
+    },
+    "fork-and-knife": {
+      "codepoint": 57880,
+      "fontFamily": "Emojione",
+      "identifier": "forkAndKnife",
+      "duotone": true
     },
     "fork-and-knife-with-plate": {
       "codepoint": 57636,
@@ -2037,12 +2157,17 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "fountain-pen": {
+      "codepoint": 57881,
+      "fontFamily": "Emojione",
+      "identifier": "fountainPen",
+      "duotone": true
+    },
     "free-button": {
       "codepoint": 57637,
       "fontFamily": "Emojione",
       "identifier": "freeButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "fried-shrimp": {
       "codepoint": 57638,
@@ -2065,6 +2190,18 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "gem-stone": {
+      "codepoint": 57882,
+      "fontFamily": "Emojione",
+      "identifier": "gemStone",
+      "duotone": true
+    },
+    "gemini": {
+      "codepoint": 57883,
+      "fontFamily": "Emojione",
+      "identifier": "gemini",
+      "duotone": true
+    },
     "glasses": {
       "codepoint": 57641,
       "fontFamily": "Emojione",
@@ -2079,8 +2216,7 @@
       "codepoint": 57643,
       "fontFamily": "Emojione",
       "identifier": "glowingStar",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "green-heart": {
       "codepoint": 57644,
@@ -2091,6 +2227,42 @@
       "codepoint": 57645,
       "fontFamily": "Emojione",
       "identifier": "growingHeart"
+    },
+    "hand-with-fingers-splayed": {
+      "codepoint": 57884,
+      "fontFamily": "Emojione",
+      "identifier": "handWithFingersSplayed",
+      "duotone": true
+    },
+    "hand-with-fingers-splayed-dark-skin-tone": {
+      "codepoint": 57885,
+      "fontFamily": "Emojione",
+      "identifier": "handWithFingersSplayedDarkSkinTone",
+      "duotone": true
+    },
+    "hand-with-fingers-splayed-light-skin-tone": {
+      "codepoint": 57886,
+      "fontFamily": "Emojione",
+      "identifier": "handWithFingersSplayedLightSkinTone",
+      "duotone": true
+    },
+    "hand-with-fingers-splayed-medium-dark-skin-tone": {
+      "codepoint": 57887,
+      "fontFamily": "Emojione",
+      "identifier": "handWithFingersSplayedMediumDarkSkinTone",
+      "duotone": true
+    },
+    "hand-with-fingers-splayed-medium-light-skin-tone": {
+      "codepoint": 57888,
+      "fontFamily": "Emojione",
+      "identifier": "handWithFingersSplayedMediumLightSkinTone",
+      "duotone": true
+    },
+    "hand-with-fingers-splayed-medium-skin-tone": {
+      "codepoint": 57889,
+      "fontFamily": "Emojione",
+      "identifier": "handWithFingersSplayedMediumSkinTone",
+      "duotone": true
     },
     "heart-decoration": {
       "codepoint": 57646,
@@ -2119,6 +2291,12 @@
       "fontFamily": "Emojione",
       "identifier": "heavyLargeCircle"
     },
+    "herb": {
+      "codepoint": 57890,
+      "fontFamily": "Emojione",
+      "identifier": "herb",
+      "duotone": true
+    },
     "high-voltage": {
       "codepoint": 57651,
       "fontFamily": "Emojione",
@@ -2143,8 +2321,7 @@
       "codepoint": 57655,
       "fontFamily": "Emojione",
       "identifier": "idButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "incoming-envelope": {
       "codepoint": 57656,
@@ -2164,29 +2341,25 @@
       "codepoint": 57658,
       "fontFamily": "Emojione",
       "identifier": "inputLatinLetters",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "input-latin-lowercase": {
       "codepoint": 57659,
       "fontFamily": "Emojione",
       "identifier": "inputLatinLowercase",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "input-latin-uppercase": {
       "codepoint": 57660,
       "fontFamily": "Emojione",
       "identifier": "inputLatinUppercase",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "input-numbers": {
       "codepoint": 57661,
       "fontFamily": "Emojione",
       "identifier": "inputNumbers",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "input-symbols": {
       "codepoint": 57662,
@@ -2194,6 +2367,12 @@
       "identifier": "inputSymbols",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "japanese-application-button": {
+      "codepoint": 57891,
+      "fontFamily": "Emojione",
+      "identifier": "japaneseApplicationButton",
+      "duotone": true
     },
     "japanese-bargain-button": {
       "codepoint": 57663,
@@ -2211,22 +2390,43 @@
       "codepoint": 57665,
       "fontFamily": "Emojione",
       "identifier": "japaneseDiscountButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "japanese-free-of-charge-button": {
+      "codepoint": 57892,
+      "fontFamily": "Emojione",
+      "identifier": "japaneseFreeOfChargeButton",
+      "duotone": true
     },
     "japanese-here-button": {
       "codepoint": 57666,
       "fontFamily": "Emojione",
       "identifier": "japaneseHereButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "japanese-monthly-amount-button": {
+      "codepoint": 57893,
+      "fontFamily": "Emojione",
+      "identifier": "japaneseMonthlyAmountButton",
+      "duotone": true
     },
     "japanese-no-vacancy-button": {
       "codepoint": 57667,
       "fontFamily": "Emojione",
       "identifier": "japaneseNoVacancyButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "japanese-not-free-of-charge-button": {
+      "codepoint": 57894,
+      "fontFamily": "Emojione",
+      "identifier": "japaneseNotFreeOfChargeButton",
+      "duotone": true
+    },
+    "japanese-open-for-business-button": {
+      "codepoint": 57895,
+      "fontFamily": "Emojione",
+      "identifier": "japaneseOpenForBusinessButton",
+      "duotone": true
     },
     "japanese-passing-grade-button": {
       "codepoint": 57668,
@@ -2239,15 +2439,13 @@
       "codepoint": 57669,
       "fontFamily": "Emojione",
       "identifier": "japaneseProhibitedButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "japanese-reserved-button": {
       "codepoint": 57670,
       "fontFamily": "Emojione",
       "identifier": "japaneseReservedButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "japanese-secret-button": {
       "codepoint": 57671,
@@ -2260,8 +2458,7 @@
       "codepoint": 57672,
       "fontFamily": "Emojione",
       "identifier": "japaneseServiceChargeButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "japanese-symbol-for-beginner": {
       "codepoint": 57673,
@@ -2274,8 +2471,13 @@
       "codepoint": 57674,
       "fontFamily": "Emojione",
       "identifier": "japaneseVacancyButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "key": {
+      "codepoint": 57896,
+      "fontFamily": "Emojione",
+      "identifier": "key",
+      "duotone": true
     },
     "keycap-0": {
       "codepoint": 57675,
@@ -2368,6 +2570,18 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "kiss-mark": {
+      "codepoint": 57897,
+      "fontFamily": "Emojione",
+      "identifier": "kissMark",
+      "duotone": true
+    },
+    "kissing-face-with-smiling-eyes": {
+      "codepoint": 57898,
+      "fontFamily": "Emojione",
+      "identifier": "kissingFaceWithSmilingEyes",
+      "duotone": true
+    },
     "large-blue-diamond": {
       "codepoint": 57688,
       "fontFamily": "Emojione",
@@ -2382,8 +2596,7 @@
       "codepoint": 57690,
       "fontFamily": "Emojione",
       "identifier": "lastTrackButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "latin-cross": {
       "codepoint": 57691,
@@ -2394,15 +2607,13 @@
       "codepoint": 57692,
       "fontFamily": "Emojione",
       "identifier": "leftArrow",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "left-arrow-curving-right": {
       "codepoint": 57693,
       "fontFamily": "Emojione",
       "identifier": "leftArrowCurvingRight",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "left-luggage": {
       "codepoint": 57694,
@@ -2415,8 +2626,7 @@
       "codepoint": 57695,
       "fontFamily": "Emojione",
       "identifier": "leftRightArrow",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "left-speech-bubble": {
       "codepoint": 57696,
@@ -2429,190 +2639,169 @@
       "codepoint": 57697,
       "fontFamily": "Emojione",
       "identifier": "leo",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-a": {
       "codepoint": 57698,
       "fontFamily": "Emojione",
       "identifier": "letterA",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-b": {
       "codepoint": 57699,
       "fontFamily": "Emojione",
       "identifier": "letterB",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-c": {
       "codepoint": 57700,
       "fontFamily": "Emojione",
       "identifier": "letterC",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-d": {
       "codepoint": 57701,
       "fontFamily": "Emojione",
       "identifier": "letterD",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-e": {
       "codepoint": 57702,
       "fontFamily": "Emojione",
       "identifier": "letterE",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-f": {
       "codepoint": 57703,
       "fontFamily": "Emojione",
       "identifier": "letterF",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-g": {
       "codepoint": 57704,
       "fontFamily": "Emojione",
       "identifier": "letterG",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-h": {
       "codepoint": 57705,
       "fontFamily": "Emojione",
       "identifier": "letterH",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-i": {
       "codepoint": 57706,
       "fontFamily": "Emojione",
       "identifier": "letterI",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-j": {
       "codepoint": 57707,
       "fontFamily": "Emojione",
       "identifier": "letterJ",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-k": {
       "codepoint": 57708,
       "fontFamily": "Emojione",
       "identifier": "letterK",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-l": {
       "codepoint": 57709,
       "fontFamily": "Emojione",
       "identifier": "letterL",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-m": {
       "codepoint": 57710,
       "fontFamily": "Emojione",
       "identifier": "letterM",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-n": {
       "codepoint": 57711,
       "fontFamily": "Emojione",
       "identifier": "letterN",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-o": {
       "codepoint": 57712,
       "fontFamily": "Emojione",
       "identifier": "letterO",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-p": {
       "codepoint": 57713,
       "fontFamily": "Emojione",
       "identifier": "letterP",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-q": {
       "codepoint": 57714,
       "fontFamily": "Emojione",
       "identifier": "letterQ",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-r": {
       "codepoint": 57715,
       "fontFamily": "Emojione",
       "identifier": "letterR",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-s": {
       "codepoint": 57716,
       "fontFamily": "Emojione",
       "identifier": "letterS",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-t": {
       "codepoint": 57717,
       "fontFamily": "Emojione",
       "identifier": "letterT",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-u": {
       "codepoint": 57718,
       "fontFamily": "Emojione",
       "identifier": "letterU",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-v": {
       "codepoint": 57719,
       "fontFamily": "Emojione",
       "identifier": "letterV",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-w": {
       "codepoint": 57720,
       "fontFamily": "Emojione",
       "identifier": "letterW",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-x": {
       "codepoint": 57721,
       "fontFamily": "Emojione",
       "identifier": "letterX",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-y": {
       "codepoint": 57722,
       "fontFamily": "Emojione",
       "identifier": "letterY",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-z": {
       "codepoint": 57723,
       "fontFamily": "Emojione",
       "identifier": "letterZ",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "libra": {
+      "codepoint": 57899,
+      "fontFamily": "Emojione",
+      "identifier": "libra",
+      "duotone": true
     },
     "light-skin-tone": {
       "codepoint": 57724,
@@ -2640,6 +2829,12 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "maple-leaf": {
+      "codepoint": 57900,
+      "fontFamily": "Emojione",
+      "identifier": "mapleLeaf",
+      "duotone": true
+    },
     "medium-dark-skin-tone": {
       "codepoint": 57728,
       "fontFamily": "Emojione",
@@ -2659,8 +2854,7 @@
       "codepoint": 57731,
       "fontFamily": "Emojione",
       "identifier": "mensRoom",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "microphone": {
       "codepoint": 57732,
@@ -2683,33 +2877,41 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "musical-score": {
+      "codepoint": 57901,
+      "fontFamily": "Emojione",
+      "identifier": "musicalScore",
+      "duotone": true
+    },
     "new-button": {
       "codepoint": 57735,
       "fontFamily": "Emojione",
       "identifier": "newButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "newspaper": {
+      "codepoint": 57902,
+      "fontFamily": "Emojione",
+      "identifier": "newspaper",
+      "duotone": true
     },
     "next-track-button": {
       "codepoint": 57736,
       "fontFamily": "Emojione",
       "identifier": "nextTrackButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "ng-button": {
       "codepoint": 57737,
       "fontFamily": "Emojione",
       "identifier": "ngButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "no-entry": {
       "codepoint": 57738,
       "fontFamily": "Emojione",
       "identifier": "noEntry",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "nose": {
       "codepoint": 57739,
@@ -2750,8 +2952,7 @@
       "codepoint": 57744,
       "fontFamily": "Emojione",
       "identifier": "oButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "oil-drum": {
       "codepoint": 57745,
@@ -2764,13 +2965,60 @@
       "codepoint": 57746,
       "fontFamily": "Emojione",
       "identifier": "okButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "old-key": {
+      "codepoint": 57903,
+      "fontFamily": "Emojione",
+      "identifier": "oldKey",
+      "duotone": true
     },
     "om": {
       "codepoint": 57747,
       "fontFamily": "Emojione",
       "identifier": "om"
+    },
+    "oncoming-fist": {
+      "codepoint": 57904,
+      "fontFamily": "Emojione",
+      "identifier": "oncomingFist",
+      "duotone": true
+    },
+    "oncoming-fist-dark-skin-tone": {
+      "codepoint": 57905,
+      "fontFamily": "Emojione",
+      "identifier": "oncomingFistDarkSkinTone",
+      "duotone": true
+    },
+    "oncoming-fist-light-skin-tone": {
+      "codepoint": 57906,
+      "fontFamily": "Emojione",
+      "identifier": "oncomingFistLightSkinTone",
+      "duotone": true
+    },
+    "oncoming-fist-medium-dark-skin-tone": {
+      "codepoint": 57907,
+      "fontFamily": "Emojione",
+      "identifier": "oncomingFistMediumDarkSkinTone",
+      "duotone": true
+    },
+    "oncoming-fist-medium-light-skin-tone": {
+      "codepoint": 57908,
+      "fontFamily": "Emojione",
+      "identifier": "oncomingFistMediumLightSkinTone",
+      "duotone": true
+    },
+    "oncoming-fist-medium-skin-tone": {
+      "codepoint": 57909,
+      "fontFamily": "Emojione",
+      "identifier": "oncomingFistMediumSkinTone",
+      "duotone": true
+    },
+    "open-file-folder": {
+      "codepoint": 57910,
+      "fontFamily": "Emojione",
+      "identifier": "openFileFolder",
+      "duotone": true
     },
     "ophiuchus": {
       "codepoint": 57748,
@@ -2788,8 +3036,7 @@
       "codepoint": 57750,
       "fontFamily": "Emojione",
       "identifier": "pButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "passport-control": {
       "codepoint": 57751,
@@ -2802,8 +3049,7 @@
       "codepoint": 57752,
       "fontFamily": "Emojione",
       "identifier": "pauseButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "paw-prints": {
       "codepoint": 57753,
@@ -2821,15 +3067,13 @@
       "codepoint": 57755,
       "fontFamily": "Emojione",
       "identifier": "pill",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "pisces": {
       "codepoint": 57756,
       "fontFamily": "Emojione",
       "identifier": "pisces",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "place-of-worship": {
       "codepoint": 57757,
@@ -2840,29 +3084,25 @@
       "codepoint": 57758,
       "fontFamily": "Emojione",
       "identifier": "playButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "play-or-pause-button": {
       "codepoint": 57759,
       "fontFamily": "Emojione",
       "identifier": "playOrPauseButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "potable-water": {
       "codepoint": 57760,
       "fontFamily": "Emojione",
       "identifier": "potableWater",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "pound-symbol": {
       "codepoint": 57761,
       "fontFamily": "Emojione",
       "identifier": "poundSymbol",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "prohibited": {
       "codepoint": 57762,
@@ -2886,12 +3126,89 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "raised-hand": {
+      "codepoint": 57911,
+      "fontFamily": "Emojione",
+      "identifier": "raisedHand",
+      "duotone": true
+    },
+    "raised-hand-dark-skin-tone": {
+      "codepoint": 57912,
+      "fontFamily": "Emojione",
+      "identifier": "raisedHandDarkSkinTone",
+      "duotone": true
+    },
+    "raised-hand-light-skin-tone": {
+      "codepoint": 57913,
+      "fontFamily": "Emojione",
+      "identifier": "raisedHandLightSkinTone",
+      "duotone": true
+    },
+    "raised-hand-medium-dark-skin-tone": {
+      "codepoint": 57914,
+      "fontFamily": "Emojione",
+      "identifier": "raisedHandMediumDarkSkinTone",
+      "duotone": true
+    },
+    "raised-hand-medium-light-skin-tone": {
+      "codepoint": 57915,
+      "fontFamily": "Emojione",
+      "identifier": "raisedHandMediumLightSkinTone",
+      "duotone": true
+    },
+    "raised-hand-medium-skin-tone": {
+      "codepoint": 57916,
+      "fontFamily": "Emojione",
+      "identifier": "raisedHandMediumSkinTone",
+      "duotone": true
+    },
+    "raised-hand-with-fingers-splayed": {
+      "codepoint": 57917,
+      "fontFamily": "Emojione",
+      "identifier": "raisedHandWithFingersSplayed",
+      "duotone": true
+    },
+    "raised-hand-with-fingers-splayed-dark-skin-tone": {
+      "codepoint": 57918,
+      "fontFamily": "Emojione",
+      "identifier": "raisedHandWithFingersSplayedDarkSkinTone",
+      "duotone": true
+    },
+    "raised-hand-with-fingers-splayed-light-skin-tone": {
+      "codepoint": 57919,
+      "fontFamily": "Emojione",
+      "identifier": "raisedHandWithFingersSplayedLightSkinTone",
+      "duotone": true
+    },
+    "raised-hand-with-fingers-splayed-medium-dark-skin-tone": {
+      "codepoint": 57920,
+      "fontFamily": "Emojione",
+      "identifier": "raisedHandWithFingersSplayedMediumDarkSkinTone",
+      "duotone": true
+    },
+    "raised-hand-with-fingers-splayed-medium-light-skin-tone": {
+      "codepoint": 57921,
+      "fontFamily": "Emojione",
+      "identifier": "raisedHandWithFingersSplayedMediumLightSkinTone",
+      "duotone": true
+    },
+    "raised-hand-with-fingers-splayed-medium-skin-tone": {
+      "codepoint": 57922,
+      "fontFamily": "Emojione",
+      "identifier": "raisedHandWithFingersSplayedMediumSkinTone",
+      "duotone": true
+    },
     "record-button": {
       "codepoint": 57766,
       "fontFamily": "Emojione",
       "identifier": "recordButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "recycling-symbol": {
+      "codepoint": 57923,
+      "fontFamily": "Emojione",
+      "identifier": "recyclingSymbol",
+      "duotone": true
     },
     "red-circle": {
       "codepoint": 57767,
@@ -2917,8 +3234,7 @@
       "codepoint": 57771,
       "fontFamily": "Emojione",
       "identifier": "repeatButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "repeat-single-button": {
       "codepoint": 57772,
@@ -2931,15 +3247,19 @@
       "codepoint": 57773,
       "fontFamily": "Emojione",
       "identifier": "restroom",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "reverse-button": {
       "codepoint": 57774,
       "fontFamily": "Emojione",
       "identifier": "reverseButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "revolving-hearts": {
+      "codepoint": 57924,
+      "fontFamily": "Emojione",
+      "identifier": "revolvingHearts",
+      "duotone": true
     },
     "right-anger-bubble": {
       "codepoint": 57775,
@@ -2950,29 +3270,25 @@
       "codepoint": 57776,
       "fontFamily": "Emojione",
       "identifier": "rightArrow",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "right-arrow-curving-down": {
       "codepoint": 57777,
       "fontFamily": "Emojione",
       "identifier": "rightArrowCurvingDown",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "right-arrow-curving-left": {
       "codepoint": 57778,
       "fontFamily": "Emojione",
       "identifier": "rightArrowCurvingLeft",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "right-arrow-curving-up": {
       "codepoint": 57779,
       "fontFamily": "Emojione",
       "identifier": "rightArrowCurvingUp",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "rosette": {
       "codepoint": 57780,
@@ -2985,8 +3301,13 @@
       "codepoint": 57781,
       "fontFamily": "Emojione",
       "identifier": "roundPushpin",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "sagittarius": {
+      "codepoint": 57925,
+      "fontFamily": "Emojione",
+      "identifier": "sagittarius",
+      "duotone": true
     },
     "sake": {
       "codepoint": 57782,
@@ -2999,15 +3320,13 @@
       "codepoint": 57783,
       "fontFamily": "Emojione",
       "identifier": "scorpio",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "scorpius": {
       "codepoint": 57784,
       "fontFamily": "Emojione",
       "identifier": "scorpius",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "shaved-ice": {
       "codepoint": 57785,
@@ -3043,12 +3362,17 @@
       "fontFamily": "Emojione",
       "identifier": "snowflake"
     },
+    "soccer-ball": {
+      "codepoint": 57926,
+      "fontFamily": "Emojione",
+      "identifier": "soccerBall",
+      "duotone": true
+    },
     "sos-button": {
       "codepoint": 57791,
       "fontFamily": "Emojione",
       "identifier": "sosButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "sparkle": {
       "codepoint": 57792,
@@ -3073,8 +3397,7 @@
       "codepoint": 57795,
       "fontFamily": "Emojione",
       "identifier": "sparklingHeart",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "speaking-head": {
       "codepoint": 57796,
@@ -3114,15 +3437,13 @@
       "codepoint": 57802,
       "fontFamily": "Emojione",
       "identifier": "stopButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "stop-sign": {
       "codepoint": 57803,
       "fontFamily": "Emojione",
       "identifier": "stopSign",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "sun": {
       "codepoint": 57804,
@@ -3176,12 +3497,17 @@
       "fontFamily": "Emojione",
       "identifier": "sweatDroplets"
     },
+    "t-shirt": {
+      "codepoint": 57927,
+      "fontFamily": "Emojione",
+      "identifier": "tShirt",
+      "duotone": true
+    },
     "taurus": {
       "codepoint": 57812,
       "fontFamily": "Emojione",
       "identifier": "taurus",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "television": {
       "codepoint": 57813,
@@ -3195,6 +3521,78 @@
       "fontFamily": "Emojione",
       "identifier": "thoughtBalloon"
     },
+    "thumbs-down": {
+      "codepoint": 57928,
+      "fontFamily": "Emojione",
+      "identifier": "thumbsDown",
+      "duotone": true
+    },
+    "thumbs-down-dark-skin-tone": {
+      "codepoint": 57929,
+      "fontFamily": "Emojione",
+      "identifier": "thumbsDownDarkSkinTone",
+      "duotone": true
+    },
+    "thumbs-down-light-skin-tone": {
+      "codepoint": 57930,
+      "fontFamily": "Emojione",
+      "identifier": "thumbsDownLightSkinTone",
+      "duotone": true
+    },
+    "thumbs-down-medium-dark-skin-tone": {
+      "codepoint": 57931,
+      "fontFamily": "Emojione",
+      "identifier": "thumbsDownMediumDarkSkinTone",
+      "duotone": true
+    },
+    "thumbs-down-medium-light-skin-tone": {
+      "codepoint": 57932,
+      "fontFamily": "Emojione",
+      "identifier": "thumbsDownMediumLightSkinTone",
+      "duotone": true
+    },
+    "thumbs-down-medium-skin-tone": {
+      "codepoint": 57933,
+      "fontFamily": "Emojione",
+      "identifier": "thumbsDownMediumSkinTone",
+      "duotone": true
+    },
+    "thumbs-up": {
+      "codepoint": 57934,
+      "fontFamily": "Emojione",
+      "identifier": "thumbsUp",
+      "duotone": true
+    },
+    "thumbs-up-dark-skin-tone": {
+      "codepoint": 57935,
+      "fontFamily": "Emojione",
+      "identifier": "thumbsUpDarkSkinTone",
+      "duotone": true
+    },
+    "thumbs-up-light-skin-tone": {
+      "codepoint": 57936,
+      "fontFamily": "Emojione",
+      "identifier": "thumbsUpLightSkinTone",
+      "duotone": true
+    },
+    "thumbs-up-medium-dark-skin-tone": {
+      "codepoint": 57937,
+      "fontFamily": "Emojione",
+      "identifier": "thumbsUpMediumDarkSkinTone",
+      "duotone": true
+    },
+    "thumbs-up-medium-light-skin-tone": {
+      "codepoint": 57938,
+      "fontFamily": "Emojione",
+      "identifier": "thumbsUpMediumLightSkinTone",
+      "duotone": true
+    },
+    "thumbs-up-medium-skin-tone": {
+      "codepoint": 57939,
+      "fontFamily": "Emojione",
+      "identifier": "thumbsUpMediumSkinTone",
+      "duotone": true
+    },
     "tornado": {
       "codepoint": 57815,
       "fontFamily": "Emojione",
@@ -3202,66 +3600,88 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "triangular-ruler": {
+      "codepoint": 57940,
+      "fontFamily": "Emojione",
+      "identifier": "triangularRuler",
+      "duotone": true
+    },
     "two-hearts": {
       "codepoint": 57816,
       "fontFamily": "Emojione",
       "identifier": "twoHearts"
     },
+    "unamused-face": {
+      "codepoint": 57941,
+      "fontFamily": "Emojione",
+      "identifier": "unamusedFace",
+      "duotone": true
+    },
     "up-arrow": {
       "codepoint": 57817,
       "fontFamily": "Emojione",
       "identifier": "upArrow",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "up-button": {
       "codepoint": 57818,
       "fontFamily": "Emojione",
       "identifier": "upButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "up-down-arrow": {
       "codepoint": 57819,
       "fontFamily": "Emojione",
       "identifier": "upDownArrow",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "up-left-arrow": {
       "codepoint": 57820,
       "fontFamily": "Emojione",
       "identifier": "upLeftArrow",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "up-right-arrow": {
       "codepoint": 57821,
       "fontFamily": "Emojione",
       "identifier": "upRightArrow",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "up-text-button": {
       "codepoint": 57822,
       "fontFamily": "Emojione",
       "identifier": "upTextButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "upwards-button": {
       "codepoint": 57823,
       "fontFamily": "Emojione",
       "identifier": "upwardsButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "vibration-mode": {
+      "codepoint": 57942,
+      "fontFamily": "Emojione",
+      "identifier": "vibrationMode",
+      "duotone": true
     },
     "virgo": {
       "codepoint": 57824,
       "fontFamily": "Emojione",
       "identifier": "virgo",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "volleyball": {
+      "codepoint": 57943,
+      "fontFamily": "Emojione",
+      "identifier": "volleyball",
+      "duotone": true
+    },
+    "vs-button": {
+      "codepoint": 57944,
+      "fontFamily": "Emojione",
+      "identifier": "vsButton",
+      "duotone": true
     },
     "warning": {
       "codepoint": 57825,
@@ -3274,8 +3694,7 @@
       "codepoint": 57826,
       "fontFamily": "Emojione",
       "identifier": "waterCloset",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "water-wave": {
       "codepoint": 57827,
@@ -3329,8 +3748,7 @@
       "codepoint": 57835,
       "fontFamily": "Emojione",
       "identifier": "whiteHeavyCheckMark",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "white-large-square": {
       "codepoint": 57836,
@@ -3362,6 +3780,12 @@
       "fontFamily": "Emojione",
       "identifier": "whiteSmallSquare"
     },
+    "white-square-button": {
+      "codepoint": 57945,
+      "fontFamily": "Emojione",
+      "identifier": "whiteSquareButton",
+      "duotone": true
+    },
     "womans-clothes": {
       "codepoint": 57842,
       "fontFamily": "Emojione",
@@ -3373,8 +3797,7 @@
       "codepoint": 57843,
       "fontFamily": "Emojione",
       "identifier": "womensRoom",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "yellow-heart": {
       "codepoint": 57844,

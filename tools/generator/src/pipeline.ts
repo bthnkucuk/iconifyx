@@ -19,6 +19,7 @@ import { strokeFillBatch } from './stroke_fill.ts';
 import {
   isDuotoneBody,
   splitDuotoneBody,
+  trySplitTwoColorBody,
   setStrokeWidth,
   rasterFillSignal,
   paintOrderSignal,
@@ -312,6 +313,30 @@ async function processOneSet(
     duotoneNames.add(r.name);
   }
 
+  // Second duotone path: bodies that don't use opacity but DO use two
+  // distinct fill colors (e.g. `logos:adobe-after-effects` — dark square +
+  // light "Ae" letter). Without this they'd hit the paint-order drop and
+  // never ship; with the split they render as a proper two-layer glyph.
+  // Only icons not already handled by the opacity-based split above are
+  // considered. The first color in source order is treated as background
+  // (primary layer); the second as foreground (secondary layer). Both
+  // sides have their `fill` attribute normalised to `currentColor`.
+  let twoColorSplitCount = 0;
+  for (const r of allResolved) {
+    if (duotoneNames.has(r.name)) continue;
+    const split = trySplitTwoColorBody(r.body);
+    if (split === null) continue;
+    r.body = split.primary;
+    secondaryByName.set(r.name, { ...r, body: split.secondary });
+    duotoneNames.add(r.name);
+    twoColorSplitCount += 1;
+  }
+  if (twoColorSplitCount > 0) {
+    log.info(
+      `  "${prefix}": split ${twoColorSplitCount} two-color icon${twoColorSplitCount === 1 ? '' : 's'} into duotone primary/secondary`
+    );
+  }
+
   // Stroke / evenodd icon sets need rasterize-then-trace pre-processing
   // before font conversion (svgicons2svgfont collapses strokes to zero
   // width and TTF rendering uses non-zero winding regardless of an
@@ -361,6 +386,10 @@ async function processOneSet(
   let paintOrderDropped = 0;
   const paintOrderDroppedNames = new Set<string>();
   for (const r of allResolved) {
+    // Icons split into duotone above (either via opacity or via 2-color
+    // split) already have their primary half normalised to a single fill —
+    // no need to drop them. Their secondary half is shipped separately.
+    if (duotoneNames.has(r.name)) continue;
     if (isPaintOrderRiskBody(r.body)) {
       paintOrderDroppedNames.add(r.name);
       paintOrderDropped += 1;

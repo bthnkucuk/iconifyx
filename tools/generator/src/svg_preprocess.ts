@@ -179,6 +179,120 @@ export function isPaintOrderRiskBody(body: string): boolean {
   return extractConcreteFills(body).size >= 2;
 }
 
+/**
+ * Try to split a two-color body into a duotone primary + secondary pair.
+ *
+ * Many Iconify `logos` entries are exactly two colors — a background
+ * shape (rounded square / circle) and a foreground letterform on top.
+ * Example, `logos:adobe-after-effects`:
+ *
+ *   <rect fill="#00005b" rx="42.5" .../>
+ *   <path fill="#99f" d="…Ae letterform…"/>
+ *
+ * In monochrome the foreground letter is absorbed into the background
+ * fill region (same `currentColor`, non-zero winding) → the glyph
+ * ships as a featureless filled square. But the source SVG ALREADY
+ * draws the two layers separately, so we can route them through the
+ * same Primary / Secondary font pair we already use for opacity-based
+ * duotone (Phosphor `*-duotone`, Solar `*-bold-duotone`, etc.).
+ *
+ * **Decision rule:** the body must have exactly 2 distinct concrete
+ * fills (`extractConcreteFills` excludes `none` / `currentColor` /
+ * `url(#...)`). The element painting FIRST in source order is assigned
+ * to the primary layer (background); the second color → secondary
+ * (foreground). Both layers have their `fill` attribute normalised to
+ * `currentColor` so the runtime widget's color params drive rendering.
+ *
+ * Returns `null` when the body can't be cleanly split (3+ colors,
+ * gradients, nested groups, non-self-closing elements). Callers then
+ * fall through to the paint-order drop path.
+ */
+export function trySplitTwoColorBody(
+  body: string
+): { primary: string; secondary: string } | null {
+  const fills = extractConcreteFills(body);
+  if (fills.size !== 2) return null;
+
+  // Optional single outer <g attrs>…</g> wrap; preserve its non-fill attrs.
+  const groupMatch = body.match(/^\s*<g\b([^>]*)>([\s\S]*?)<\/g>\s*$/);
+  let groupAttrs = '';
+  let inner = body;
+  if (groupMatch) {
+    groupAttrs = groupMatch[1]!;
+    inner = groupMatch[2]!;
+  }
+  const inheritedFill = groupAttrs
+    .match(/\bfill\s*=\s*["']([^"']+)["']/)?.[1]
+    ?.toLowerCase();
+  const groupAttrsClean = groupAttrs.replace(
+    /\s+fill\s*=\s*["'][^"']+["']/,
+    ''
+  );
+
+  const ELEMENT_RE =
+    /<(path|circle|ellipse|rect|line|polyline|polygon)\b([^>]*?)\/>/g;
+  const primaryEls: string[] = [];
+  const secondaryEls: string[] = [];
+  let firstColor: string | null = null;
+
+  let m: RegExpExecArray | null;
+  let lastIndex = 0;
+  let consumedAll = true;
+  while ((m = ELEMENT_RE.exec(inner)) !== null) {
+    const gap = inner.slice(lastIndex, m.index);
+    if (gap.trim().length > 0) {
+      consumedAll = false;
+      break;
+    }
+    lastIndex = ELEMENT_RE.lastIndex;
+    const [, tag, attrs] = m;
+    const fillMatch = attrs!.match(/\bfill\s*=\s*["']([^"']+)["']/);
+    const rawFill = (fillMatch?.[1] ?? inheritedFill ?? 'currentcolor')
+      .toLowerCase()
+      .trim();
+    // Anything that's not one of the two concrete colors — `none`,
+    // `transparent`, `currentColor`, `url(...)` — is structurally
+    // ambiguous for splitting; bail.
+    if (
+      rawFill === 'none' ||
+      rawFill === 'transparent' ||
+      rawFill === 'currentcolor' ||
+      rawFill.startsWith('url(')
+    ) {
+      consumedAll = false;
+      break;
+    }
+    if (firstColor === null) firstColor = rawFill;
+    const normalizedAttrs = fillMatch
+      ? attrs!.replace(
+          /\s+fill\s*=\s*["'][^"']+["']/,
+          ' fill="currentColor"'
+        )
+      : `${attrs} fill="currentColor"`;
+    const el = `<${tag}${normalizedAttrs}/>`;
+    if (rawFill === firstColor) primaryEls.push(el);
+    else secondaryEls.push(el);
+  }
+  if (inner.slice(lastIndex).trim().length > 0) consumedAll = false;
+  if (
+    !consumedAll ||
+    primaryEls.length === 0 ||
+    secondaryEls.length === 0
+  ) {
+    return null;
+  }
+
+  const wrap = (els: string[]): string => {
+    if (els.length === 0) return '';
+    if (groupAttrsClean.trim().length > 0) {
+      return `<g${groupAttrsClean}>${els.join('')}</g>`;
+    }
+    return els.join('');
+  };
+
+  return { primary: wrap(primaryEls), secondary: wrap(secondaryEls) };
+}
+
 export interface PaintOrderReason {
   /** Fraction of sampled icons whose body uses ≥2 distinct concrete fills. */
   paintOrderRatio: number;

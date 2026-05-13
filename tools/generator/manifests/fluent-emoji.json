@@ -16,13 +16,18 @@
       "spdx": "MIT",
       "url": "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE"
     },
-    "total": 2776
+    "total": 2777
   },
   "fonts": [
     {
       "family": "FluentEmoji",
-      "nextCodepoint": 60120,
-      "iconCount": 2776
+      "nextCodepoint": 60121,
+      "iconCount": 2777
+    },
+    {
+      "family": "FluentEmojiSecondary",
+      "nextCodepoint": 60121,
+      "iconCount": 1
     }
   ],
   "icons": {
@@ -11070,6 +11075,12 @@
       "codepoint": 59552,
       "fontFamily": "FluentEmoji",
       "identifier": "tomato"
+    },
+    "tongue": {
+      "codepoint": 60120,
+      "fontFamily": "FluentEmoji",
+      "identifier": "tongue",
+      "duotone": true
     },
     "toolbox": {
       "codepoint": 59553,

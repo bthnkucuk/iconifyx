@@ -16,18 +16,18 @@
       "spdx": "CC0-1.0",
       "url": "https://raw.githubusercontent.com/gilbarbara/logos/master/LICENSE.txt"
     },
-    "total": 534
+    "total": 902
   },
   "fonts": [
     {
       "family": "Logos",
-      "nextCodepoint": 58924,
-      "iconCount": 534
+      "nextCodepoint": 59042,
+      "iconCount": 902
     },
     {
       "family": "LogosSecondary",
-      "nextCodepoint": 58924,
-      "iconCount": 4
+      "nextCodepoint": 59042,
+      "iconCount": 372
     }
   ],
   "icons": {
@@ -35,8 +35,7 @@
       "codepoint": 58171,
       "fontFamily": "Logos",
       "identifier": "n100tb",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "500px": {
       "codepoint": 57344,
@@ -47,8 +46,7 @@
       "codepoint": 57345,
       "fontFamily": "Logos",
       "identifier": "n6px",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "active-campaign": {
       "codepoint": 57346,
@@ -78,22 +76,19 @@
       "codepoint": 57348,
       "fontFamily": "Logos",
       "identifier": "adobeAfterEffects",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "adobe-animate": {
       "codepoint": 57349,
       "fontFamily": "Logos",
       "identifier": "adobeAnimate",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "adobe-dreamweaver": {
       "codepoint": 58174,
       "fontFamily": "Logos",
       "identifier": "adobeDreamweaver",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "adobe-icon": {
       "codepoint": 57350,
@@ -104,50 +99,43 @@
       "codepoint": 57351,
       "fontFamily": "Logos",
       "identifier": "adobeIllustrator",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "adobe-incopy": {
       "codepoint": 58175,
       "fontFamily": "Logos",
       "identifier": "adobeIncopy",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "adobe-indesign": {
       "codepoint": 58176,
       "fontFamily": "Logos",
       "identifier": "adobeIndesign",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "adobe-lightroom": {
       "codepoint": 58177,
       "fontFamily": "Logos",
       "identifier": "adobeLightroom",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "adobe-photoshop": {
       "codepoint": 58178,
       "fontFamily": "Logos",
       "identifier": "adobePhotoshop",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "adobe-premiere": {
       "codepoint": 57352,
       "fontFamily": "Logos",
       "identifier": "adobePremiere",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "adobe-xd": {
       "codepoint": 58179,
       "fontFamily": "Logos",
       "identifier": "adobeXd",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "adonisjs": {
       "codepoint": 57353,
@@ -163,8 +151,7 @@
       "codepoint": 57355,
       "fontFamily": "Logos",
       "identifier": "adroll",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "adyen": {
       "codepoint": 57356,
@@ -226,6 +213,18 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "akamai": {
+      "codepoint": 58924,
+      "fontFamily": "Logos",
+      "identifier": "akamai",
+      "duotone": true
+    },
+    "akka": {
+      "codepoint": 58925,
+      "fontFamily": "Logos",
+      "identifier": "akka",
+      "duotone": true
+    },
     "alfresco": {
       "codepoint": 58185,
       "fontFamily": "Logos",
@@ -233,12 +232,23 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "algolia": {
+      "codepoint": 58926,
+      "fontFamily": "Logos",
+      "identifier": "algolia",
+      "duotone": true
+    },
+    "alpinejs": {
+      "codepoint": 58927,
+      "fontFamily": "Logos",
+      "identifier": "alpinejs",
+      "duotone": true
+    },
     "alpinejs-icon": {
       "codepoint": 58186,
       "fontFamily": "Logos",
       "identifier": "alpinejsIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "amazon-chime": {
       "codepoint": 57361,
@@ -261,15 +271,13 @@
       "codepoint": 57364,
       "fontFamily": "Logos",
       "identifier": "amex",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "amex-digital": {
       "codepoint": 57365,
       "fontFamily": "Logos",
       "identifier": "amexDigital",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "amp": {
       "codepoint": 58187,
@@ -296,8 +304,7 @@
       "codepoint": 58189,
       "fontFamily": "Logos",
       "identifier": "android",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "android-icon": {
       "codepoint": 58190,
@@ -305,6 +312,12 @@
       "identifier": "androidIcon",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "android-vertical": {
+      "codepoint": 58928,
+      "fontFamily": "Logos",
+      "identifier": "androidVertical",
+      "duotone": true
     },
     "angellist": {
       "codepoint": 57367,
@@ -324,6 +337,12 @@
       "identifier": "angularIcon",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "ansible": {
+      "codepoint": 58929,
+      "fontFamily": "Logos",
+      "identifier": "ansible",
+      "duotone": true
     },
     "ant-design": {
       "codepoint": 58193,
@@ -350,8 +369,7 @@
       "codepoint": 57368,
       "fontFamily": "Logos",
       "identifier": "apacheCloudstack",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "apache-flink": {
       "codepoint": 58196,
@@ -366,6 +384,18 @@
       "identifier": "apacheSpark",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "apache-superset": {
+      "codepoint": 58930,
+      "fontFamily": "Logos",
+      "identifier": "apacheSuperset",
+      "duotone": true
+    },
+    "apache-superset-icon": {
+      "codepoint": 58931,
+      "fontFamily": "Logos",
+      "identifier": "apacheSupersetIcon",
+      "duotone": true
     },
     "api-ai": {
       "codepoint": 57369,
@@ -397,8 +427,7 @@
       "codepoint": 58201,
       "fontFamily": "Logos",
       "identifier": "apigee",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "apitools": {
       "codepoint": 57370,
@@ -426,15 +455,13 @@
       "codepoint": 57373,
       "fontFamily": "Logos",
       "identifier": "appcelerator",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "appcircle": {
       "codepoint": 57374,
       "fontFamily": "Logos",
       "identifier": "appcircle",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "appcircle-icon": {
       "codepoint": 57375,
@@ -511,8 +538,7 @@
       "codepoint": 58206,
       "fontFamily": "Logos",
       "identifier": "apptentive",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "appveyor": {
       "codepoint": 57385,
@@ -564,20 +590,24 @@
       "codepoint": 58210,
       "fontFamily": "Logos",
       "identifier": "armoryIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "asana": {
       "codepoint": 57390,
       "fontFamily": "Logos",
       "identifier": "asana",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "asana-icon": {
       "codepoint": 57391,
       "fontFamily": "Logos",
       "identifier": "asanaIcon"
+    },
+    "asciidoctor": {
+      "codepoint": 58932,
+      "fontFamily": "Logos",
+      "identifier": "asciidoctor",
+      "duotone": true
     },
     "astro": {
       "codepoint": 58211,
@@ -630,8 +660,7 @@
       "codepoint": 57393,
       "fontFamily": "Logos",
       "identifier": "atomIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "atomic": {
       "codepoint": 58217,
@@ -661,8 +690,7 @@
       "codepoint": 57396,
       "fontFamily": "Logos",
       "identifier": "aurora",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "aurous": {
       "codepoint": 58219,
@@ -685,8 +713,7 @@
       "codepoint": 57399,
       "fontFamily": "Logos",
       "identifier": "autoit",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "ava": {
       "codepoint": 58220,
@@ -695,12 +722,17 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "awesome": {
+      "codepoint": 58933,
+      "fontFamily": "Logos",
+      "identifier": "awesome",
+      "duotone": true
+    },
     "aws": {
       "codepoint": 57400,
       "fontFamily": "Logos",
       "identifier": "aws",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "aws-amplify": {
       "codepoint": 58221,
@@ -1162,15 +1194,13 @@
       "codepoint": 57404,
       "fontFamily": "Logos",
       "identifier": "backbone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "backbone-icon": {
       "codepoint": 57405,
       "fontFamily": "Logos",
       "identifier": "backboneIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "backerkit": {
       "codepoint": 57406,
@@ -1231,8 +1261,7 @@
       "codepoint": 57413,
       "fontFamily": "Logos",
       "identifier": "batch",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "beats": {
       "codepoint": 58286,
@@ -1246,12 +1275,17 @@
       "fontFamily": "Logos",
       "identifier": "behance"
     },
+    "bem-2": {
+      "codepoint": 58934,
+      "fontFamily": "Logos",
+      "identifier": "bem2",
+      "duotone": true
+    },
     "bigpanda": {
       "codepoint": 58287,
       "fontFamily": "Logos",
       "identifier": "bigpanda",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "bing": {
       "codepoint": 58288,
@@ -1264,13 +1298,18 @@
       "codepoint": 58289,
       "fontFamily": "Logos",
       "identifier": "biomejs",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "biomejs-icon": {
       "codepoint": 57415,
       "fontFamily": "Logos",
       "identifier": "biomejsIcon"
+    },
+    "bitbar": {
+      "codepoint": 58935,
+      "fontFamily": "Logos",
+      "identifier": "bitbar",
+      "duotone": true
     },
     "bitbucket": {
       "codepoint": 58290,
@@ -1321,8 +1360,7 @@
       "codepoint": 57418,
       "fontFamily": "Logos",
       "identifier": "blogger",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "blossom": {
       "codepoint": 58295,
@@ -1405,8 +1443,25 @@
       "codepoint": 57427,
       "fontFamily": "Logos",
       "identifier": "brainjs",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "branch": {
+      "codepoint": 58936,
+      "fontFamily": "Logos",
+      "identifier": "branch",
+      "duotone": true
+    },
+    "branch-icon": {
+      "codepoint": 58937,
+      "fontFamily": "Logos",
+      "identifier": "branchIcon",
+      "duotone": true
+    },
+    "brandfolder": {
+      "codepoint": 58938,
+      "fontFamily": "Logos",
+      "identifier": "brandfolder",
+      "duotone": true
     },
     "brandfolder-icon": {
       "codepoint": 57428,
@@ -1431,15 +1486,13 @@
       "codepoint": 57430,
       "fontFamily": "Logos",
       "identifier": "broadcomIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "brotli": {
       "codepoint": 57431,
       "fontFamily": "Logos",
       "identifier": "brotli",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "browserify": {
       "codepoint": 57432,
@@ -1447,6 +1500,12 @@
       "identifier": "browserify",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "browserify-icon": {
+      "codepoint": 58939,
+      "fontFamily": "Logos",
+      "identifier": "browserifyIcon",
+      "duotone": true
     },
     "browserslist": {
       "codepoint": 57433,
@@ -1466,6 +1525,18 @@
       "codepoint": 57434,
       "fontFamily": "Logos",
       "identifier": "brunch"
+    },
+    "bubble": {
+      "codepoint": 58940,
+      "fontFamily": "Logos",
+      "identifier": "bubble",
+      "duotone": true
+    },
+    "bubble-icon": {
+      "codepoint": 58941,
+      "fontFamily": "Logos",
+      "identifier": "bubbleIcon",
+      "duotone": true
     },
     "buck": {
       "codepoint": 57435,
@@ -1490,8 +1561,7 @@
       "codepoint": 57436,
       "fontFamily": "Logos",
       "identifier": "bugherd",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "bugherd-icon": {
       "codepoint": 57437,
@@ -1500,12 +1570,17 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "bugsee": {
+      "codepoint": 58942,
+      "fontFamily": "Logos",
+      "identifier": "bugsee",
+      "duotone": true
+    },
     "bugsnag": {
       "codepoint": 58304,
       "fontFamily": "Logos",
       "identifier": "bugsnag",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "bugsnag-icon": {
       "codepoint": 57438,
@@ -1537,8 +1612,7 @@
       "codepoint": 57442,
       "fontFamily": "Logos",
       "identifier": "buildkiteIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "bulma": {
       "codepoint": 57443,
@@ -1591,15 +1665,13 @@
       "codepoint": 58311,
       "fontFamily": "Logos",
       "identifier": "cachet",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "caffe2": {
       "codepoint": 58312,
       "fontFamily": "Logos",
       "identifier": "caffe2",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "cakephp": {
       "codepoint": 57444,
@@ -1615,8 +1687,7 @@
       "codepoint": 58313,
       "fontFamily": "Logos",
       "identifier": "campaignmonitor",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "campfire": {
       "codepoint": 58314,
@@ -1672,8 +1743,7 @@
       "codepoint": 57452,
       "fontFamily": "Logos",
       "identifier": "celluloid",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "centos": {
       "codepoint": 57453,
@@ -1739,6 +1809,12 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "chef": {
+      "codepoint": 58943,
+      "fontFamily": "Logos",
+      "identifier": "chef",
+      "duotone": true
+    },
     "chevereto": {
       "codepoint": 57459,
       "fontFamily": "Logos",
@@ -1755,8 +1831,7 @@
       "codepoint": 57461,
       "fontFamily": "Logos",
       "identifier": "chromaticIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "chrome": {
       "codepoint": 58320,
@@ -1800,8 +1875,7 @@
       "codepoint": 57464,
       "fontFamily": "Logos",
       "identifier": "cljs",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "clojure": {
       "codepoint": 58324,
@@ -1845,8 +1919,7 @@
       "codepoint": 58328,
       "fontFamily": "Logos",
       "identifier": "cloudflareIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "cloudflare-workers-icon": {
       "codepoint": 58329,
@@ -1866,8 +1939,7 @@
       "codepoint": 57467,
       "fontFamily": "Logos",
       "identifier": "cobalt",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "cockpit": {
       "codepoint": 57468,
@@ -1878,8 +1950,7 @@
       "codepoint": 57469,
       "fontFamily": "Logos",
       "identifier": "cocoapods",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "coda-icon": {
       "codepoint": 57470,
@@ -1944,15 +2015,13 @@
       "codepoint": 58333,
       "fontFamily": "Logos",
       "identifier": "codefund",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "codefund-icon": {
       "codepoint": 58334,
       "fontFamily": "Logos",
       "identifier": "codefundIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "codepen": {
       "codepoint": 57479,
@@ -1975,8 +2044,19 @@
       "codepoint": 57481,
       "fontFamily": "Logos",
       "identifier": "codepush",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "codersrank": {
+      "codepoint": 58944,
+      "fontFamily": "Logos",
+      "identifier": "codersrank",
+      "duotone": true
+    },
+    "codersrank-icon": {
+      "codepoint": 58945,
+      "fontFamily": "Logos",
+      "identifier": "codersrankIcon",
+      "duotone": true
     },
     "coderwall": {
       "codepoint": 58336,
@@ -2082,12 +2162,17 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "concretecms-icon": {
+      "codepoint": 58946,
+      "fontFamily": "Logos",
+      "identifier": "concretecmsIcon",
+      "duotone": true
+    },
     "conda": {
       "codepoint": 57491,
       "fontFamily": "Logos",
       "identifier": "conda",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "confluence": {
       "codepoint": 58344,
@@ -2100,8 +2185,7 @@
       "codepoint": 57492,
       "fontFamily": "Logos",
       "identifier": "containership",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "contentful": {
       "codepoint": 58345,
@@ -2109,6 +2193,12 @@
       "identifier": "contentful",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "convox": {
+      "codepoint": 58947,
+      "fontFamily": "Logos",
+      "identifier": "convox",
+      "duotone": true
     },
     "convox-icon": {
       "codepoint": 57493,
@@ -2165,8 +2255,7 @@
       "codepoint": 57500,
       "fontFamily": "Logos",
       "identifier": "coveralls",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "coverity": {
       "codepoint": 58348,
@@ -2211,6 +2300,12 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "cross-browser-testing": {
+      "codepoint": 58948,
+      "fontFamily": "Logos",
+      "identifier": "crossBrowserTesting",
+      "duotone": true
+    },
     "crossplane": {
       "codepoint": 58352,
       "fontFamily": "Logos",
@@ -2239,8 +2334,7 @@
       "codepoint": 57506,
       "fontFamily": "Logos",
       "identifier": "css",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "css-3": {
       "codepoint": 58354,
@@ -2265,15 +2359,13 @@
       "codepoint": 58356,
       "fontFamily": "Logos",
       "identifier": "cucumber",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "curl": {
       "codepoint": 58357,
       "fontFamily": "Logos",
       "identifier": "curl",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "customerio": {
       "codepoint": 58358,
@@ -2321,15 +2413,13 @@
       "codepoint": 58364,
       "fontFamily": "Logos",
       "identifier": "dailydev",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "dailydev-icon": {
       "codepoint": 58365,
       "fontFamily": "Logos",
       "identifier": "dailydevIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "daisyui": {
       "codepoint": 58366,
@@ -2349,8 +2439,7 @@
       "codepoint": 57508,
       "fontFamily": "Logos",
       "identifier": "danfo",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "dat": {
       "codepoint": 57509,
@@ -2411,8 +2500,7 @@
       "codepoint": 57514,
       "fontFamily": "Logos",
       "identifier": "dbt",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "dbt-icon": {
       "codepoint": 57515,
@@ -2478,8 +2566,7 @@
       "codepoint": 57521,
       "fontFamily": "Logos",
       "identifier": "dependabot",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "dependencyci": {
       "codepoint": 57522,
@@ -2513,8 +2600,7 @@
       "codepoint": 57525,
       "fontFamily": "Logos",
       "identifier": "deppbot",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "derby": {
       "codepoint": 57526,
@@ -2561,8 +2647,7 @@
       "codepoint": 57530,
       "fontFamily": "Logos",
       "identifier": "deviantart",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "deviantart-icon": {
       "codepoint": 57531,
@@ -2639,8 +2724,7 @@
       "codepoint": 58385,
       "fontFamily": "Logos",
       "identifier": "djangoIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "dockbit": {
       "codepoint": 58386,
@@ -2653,6 +2737,12 @@
       "codepoint": 57537,
       "fontFamily": "Logos",
       "identifier": "docker"
+    },
+    "doctrine": {
+      "codepoint": 58949,
+      "fontFamily": "Logos",
+      "identifier": "doctrine",
+      "duotone": true
     },
     "docusaurus": {
       "codepoint": 57538,
@@ -2675,6 +2765,12 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "dojo-toolkit": {
+      "codepoint": 58950,
+      "fontFamily": "Logos",
+      "identifier": "dojoToolkit",
+      "duotone": true
+    },
     "dotcloud": {
       "codepoint": 57539,
       "fontFamily": "Logos",
@@ -2684,15 +2780,19 @@
       "codepoint": 57540,
       "fontFamily": "Logos",
       "identifier": "dotnet",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "dreamfactory": {
       "codepoint": 57541,
       "fontFamily": "Logos",
       "identifier": "dreamfactory",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "dreamhost": {
+      "codepoint": 58951,
+      "fontFamily": "Logos",
+      "identifier": "dreamhost",
+      "duotone": true
     },
     "dribbble": {
       "codepoint": 57542,
@@ -2703,8 +2803,7 @@
       "codepoint": 58389,
       "fontFamily": "Logos",
       "identifier": "dribbbleIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "drift": {
       "codepoint": 57543,
@@ -2734,8 +2833,7 @@
       "codepoint": 57545,
       "fontFamily": "Logos",
       "identifier": "drone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "drone-icon": {
       "codepoint": 57546,
@@ -2863,8 +2961,7 @@
       "codepoint": 57556,
       "fontFamily": "Logos",
       "identifier": "elasticpath",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "elasticpath-icon": {
       "codepoint": 57557,
@@ -2933,12 +3030,17 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "embedly": {
+      "codepoint": 58952,
+      "fontFamily": "Logos",
+      "identifier": "embedly",
+      "duotone": true
+    },
     "ember": {
       "codepoint": 57563,
       "fontFamily": "Logos",
       "identifier": "ember",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "ember-tomster": {
       "codepoint": 58407,
@@ -2994,6 +3096,12 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "envoyer": {
+      "codepoint": 58953,
+      "fontFamily": "Logos",
+      "identifier": "envoyer",
+      "duotone": true
+    },
     "envoyproxy": {
       "codepoint": 58411,
       "fontFamily": "Logos",
@@ -3033,8 +3141,7 @@
       "codepoint": 57568,
       "fontFamily": "Logos",
       "identifier": "eraserIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "erlang": {
       "codepoint": 58416,
@@ -3043,19 +3150,35 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "es6": {
+      "codepoint": 58954,
+      "fontFamily": "Logos",
+      "identifier": "es6",
+      "duotone": true
+    },
+    "esbuild": {
+      "codepoint": 58955,
+      "fontFamily": "Logos",
+      "identifier": "esbuild",
+      "duotone": true
+    },
     "esdoc": {
       "codepoint": 58417,
       "fontFamily": "Logos",
       "identifier": "esdoc",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "eslint": {
+      "codepoint": 58956,
+      "fontFamily": "Logos",
+      "identifier": "eslint",
+      "duotone": true
     },
     "eslint-old": {
       "codepoint": 58418,
       "fontFamily": "Logos",
       "identifier": "eslintOld",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "eta": {
       "codepoint": 57569,
@@ -3066,15 +3189,13 @@
       "codepoint": 57570,
       "fontFamily": "Logos",
       "identifier": "etaIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "eta-lang": {
       "codepoint": 57571,
       "fontFamily": "Logos",
       "identifier": "etaLang",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "etcd": {
       "codepoint": 57572,
@@ -3092,8 +3213,7 @@
       "codepoint": 58420,
       "fontFamily": "Logos",
       "identifier": "eventbriteIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "eventsentry": {
       "codepoint": 58421,
@@ -3106,8 +3226,7 @@
       "codepoint": 57573,
       "fontFamily": "Logos",
       "identifier": "evergreenIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "expo": {
       "codepoint": 57574,
@@ -3133,8 +3252,13 @@
       "codepoint": 57578,
       "fontFamily": "Logos",
       "identifier": "fabric",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "facebook": {
+      "codepoint": 58957,
+      "fontFamily": "Logos",
+      "identifier": "facebook",
+      "duotone": true
     },
     "falcor": {
       "codepoint": 58422,
@@ -3196,8 +3320,7 @@
       "codepoint": 57586,
       "fontFamily": "Logos",
       "identifier": "fetch",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "figma": {
       "codepoint": 58425,
@@ -3253,22 +3376,19 @@
       "codepoint": 57590,
       "fontFamily": "Logos",
       "identifier": "flexibleGs",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flickr": {
       "codepoint": 57591,
       "fontFamily": "Logos",
       "identifier": "flickr",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flickr-icon": {
       "codepoint": 57592,
       "fontFamily": "Logos",
       "identifier": "flickrIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flight": {
       "codepoint": 57593,
@@ -3370,8 +3490,7 @@
       "codepoint": 58437,
       "fontFamily": "Logos",
       "identifier": "fontAwesome",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "forest": {
       "codepoint": 58438,
@@ -3391,8 +3510,7 @@
       "codepoint": 57603,
       "fontFamily": "Logos",
       "identifier": "forestadminIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "forever": {
       "codepoint": 57604,
@@ -3408,8 +3526,7 @@
       "codepoint": 57606,
       "fontFamily": "Logos",
       "identifier": "fortran",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "foundationdb": {
       "codepoint": 57607,
@@ -3441,8 +3558,7 @@
       "codepoint": 57610,
       "fontFamily": "Logos",
       "identifier": "framework7",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "framework7-icon": {
       "codepoint": 57611,
@@ -3460,8 +3576,7 @@
       "codepoint": 58441,
       "fontFamily": "Logos",
       "identifier": "freedcamp",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "freedomdefined": {
       "codepoint": 58442,
@@ -3488,8 +3603,7 @@
       "codepoint": 57613,
       "fontFamily": "Logos",
       "identifier": "fsharp",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "fuchsia": {
       "codepoint": 57614,
@@ -3538,20 +3652,24 @@
       "codepoint": 57620,
       "fontFamily": "Logos",
       "identifier": "geekbot",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "geetest": {
       "codepoint": 57621,
       "fontFamily": "Logos",
       "identifier": "geetest",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "geetest-icon": {
       "codepoint": 57622,
       "fontFamily": "Logos",
       "identifier": "geetestIcon"
+    },
+    "get-satisfaction": {
+      "codepoint": 58958,
+      "fontFamily": "Logos",
+      "identifier": "getSatisfaction",
+      "duotone": true
     },
     "getyourguide": {
       "codepoint": 57623,
@@ -3562,8 +3680,7 @@
       "codepoint": 58445,
       "fontFamily": "Logos",
       "identifier": "ghost",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "giantswarm": {
       "codepoint": 58446,
@@ -3579,17 +3696,28 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "git": {
+      "codepoint": 58959,
+      "fontFamily": "Logos",
+      "identifier": "git",
+      "duotone": true
+    },
     "git-icon": {
       "codepoint": 57624,
       "fontFamily": "Logos",
       "identifier": "gitIcon"
     },
+    "gitboard": {
+      "codepoint": 58960,
+      "fontFamily": "Logos",
+      "identifier": "gitboard",
+      "duotone": true
+    },
     "github-actions": {
       "codepoint": 57625,
       "fontFamily": "Logos",
       "identifier": "githubActions",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "github-copilot": {
       "codepoint": 57626,
@@ -3637,6 +3765,12 @@
       "identifier": "gleam",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "glimmerjs": {
+      "codepoint": 58961,
+      "fontFamily": "Logos",
+      "identifier": "glimmerjs",
+      "duotone": true
     },
     "glint": {
       "codepoint": 58454,
@@ -3768,8 +3902,7 @@
       "codepoint": 58467,
       "fontFamily": "Logos",
       "identifier": "googleAnalytics",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "google-bard-icon": {
       "codepoint": 58468,
@@ -3803,15 +3936,13 @@
       "codepoint": 58472,
       "fontFamily": "Logos",
       "identifier": "googleCurrents",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "google-data-studio": {
       "codepoint": 58473,
       "fontFamily": "Logos",
       "identifier": "googleDataStudio",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "google-developers": {
       "codepoint": 58474,
@@ -3908,8 +4039,7 @@
       "codepoint": 57634,
       "fontFamily": "Logos",
       "identifier": "googlePlayConsoleIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "google-plus": {
       "codepoint": 58487,
@@ -3936,8 +4066,7 @@
       "codepoint": 57636,
       "fontFamily": "Logos",
       "identifier": "gordon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "gradio": {
       "codepoint": 58489,
@@ -3976,8 +4105,7 @@
       "codepoint": 57639,
       "fontFamily": "Logos",
       "identifier": "grammarlyIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "grape": {
       "codepoint": 58492,
@@ -4098,8 +4226,7 @@
       "codepoint": 57650,
       "fontFamily": "Logos",
       "identifier": "gulp",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "gunicorn": {
       "codepoint": 58501,
@@ -4117,6 +4244,12 @@
       "codepoint": 57652,
       "fontFamily": "Logos",
       "identifier": "gusto"
+    },
+    "gwt": {
+      "codepoint": 58962,
+      "fontFamily": "Logos",
+      "identifier": "gwt",
+      "duotone": true
     },
     "hack": {
       "codepoint": 58502,
@@ -4155,8 +4288,13 @@
       "codepoint": 58505,
       "fontFamily": "Logos",
       "identifier": "haml",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "hanami": {
+      "codepoint": 58963,
+      "fontFamily": "Logos",
+      "identifier": "hanami",
+      "duotone": true
     },
     "hapi": {
       "codepoint": 58506,
@@ -4176,8 +4314,7 @@
       "codepoint": 58508,
       "fontFamily": "Logos",
       "identifier": "harness",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "harness-icon": {
       "codepoint": 57655,
@@ -4219,8 +4356,7 @@
       "codepoint": 58512,
       "fontFamily": "Logos",
       "identifier": "hasura",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "hasura-icon": {
       "codepoint": 57658,
@@ -4274,8 +4410,7 @@
       "codepoint": 57662,
       "fontFamily": "Logos",
       "identifier": "helpscout",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "helpscout-icon": {
       "codepoint": 57663,
@@ -4286,15 +4421,19 @@
       "codepoint": 57664,
       "fontFamily": "Logos",
       "identifier": "hermes",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "heron": {
+      "codepoint": 58964,
+      "fontFamily": "Logos",
+      "identifier": "heron",
+      "duotone": true
     },
     "hexo": {
       "codepoint": 57665,
       "fontFamily": "Logos",
       "identifier": "hexo",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "hhvm": {
       "codepoint": 58517,
@@ -4303,6 +4442,12 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "hibernate": {
+      "codepoint": 58965,
+      "fontFamily": "Logos",
+      "identifier": "hibernate",
+      "duotone": true
+    },
     "hipchat": {
       "codepoint": 58518,
       "fontFamily": "Logos",
@@ -4310,12 +4455,17 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "hipercard": {
+      "codepoint": 58966,
+      "fontFamily": "Logos",
+      "identifier": "hipercard",
+      "duotone": true
+    },
     "hoa": {
       "codepoint": 57666,
       "fontFamily": "Logos",
       "identifier": "hoa",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "homebrew": {
       "codepoint": 58519,
@@ -4338,15 +4488,13 @@
       "codepoint": 57669,
       "fontFamily": "Logos",
       "identifier": "hootsuite",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "hootsuite-icon": {
       "codepoint": 57670,
       "fontFamily": "Logos",
       "identifier": "hootsuiteIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "horizon": {
       "codepoint": 58520,
@@ -4366,6 +4514,12 @@
       "identifier": "hostgator",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "hotjar": {
+      "codepoint": 58967,
+      "fontFamily": "Logos",
+      "identifier": "hotjar",
+      "duotone": true
     },
     "hotjar-icon": {
       "codepoint": 57672,
@@ -4395,15 +4549,13 @@
       "codepoint": 58524,
       "fontFamily": "Logos",
       "identifier": "htmx",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "htmx-icon": {
       "codepoint": 58525,
       "fontFamily": "Logos",
       "identifier": "htmxIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "httpie": {
       "codepoint": 57674,
@@ -4414,6 +4566,12 @@
       "codepoint": 57675,
       "fontFamily": "Logos",
       "identifier": "httpieIcon"
+    },
+    "hubspot": {
+      "codepoint": 58968,
+      "fontFamily": "Logos",
+      "identifier": "hubspot",
+      "duotone": true
     },
     "hugging-face": {
       "codepoint": 58526,
@@ -4477,6 +4635,12 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "imba": {
+      "codepoint": 58969,
+      "fontFamily": "Logos",
+      "identifier": "imba",
+      "duotone": true
+    },
     "imba-icon": {
       "codepoint": 57680,
       "fontFamily": "Logos",
@@ -4492,6 +4656,12 @@
       "fontFamily": "Logos",
       "identifier": "immerIcon"
     },
+    "immutable": {
+      "codepoint": 58970,
+      "fontFamily": "Logos",
+      "identifier": "immutable",
+      "duotone": true
+    },
     "importio": {
       "codepoint": 57683,
       "fontFamily": "Logos",
@@ -4501,6 +4671,24 @@
       "codepoint": 57684,
       "fontFamily": "Logos",
       "identifier": "importioIcon"
+    },
+    "incident": {
+      "codepoint": 58971,
+      "fontFamily": "Logos",
+      "identifier": "incident",
+      "duotone": true
+    },
+    "infer": {
+      "codepoint": 58972,
+      "fontFamily": "Logos",
+      "identifier": "infer",
+      "duotone": true
+    },
+    "inferno": {
+      "codepoint": 58973,
+      "fontFamily": "Logos",
+      "identifier": "inferno",
+      "duotone": true
     },
     "influxdb": {
       "codepoint": 57685,
@@ -4576,41 +4764,48 @@
       "codepoint": 57692,
       "fontFamily": "Logos",
       "identifier": "invision",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "invision-icon": {
       "codepoint": 57693,
       "fontFamily": "Logos",
       "identifier": "invisionIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "io": {
+      "codepoint": 58974,
+      "fontFamily": "Logos",
+      "identifier": "io",
+      "duotone": true
     },
     "ios": {
       "codepoint": 57694,
       "fontFamily": "Logos",
       "identifier": "ios"
     },
+    "iron": {
+      "codepoint": 58975,
+      "fontFamily": "Logos",
+      "identifier": "iron",
+      "duotone": true
+    },
     "jade": {
       "codepoint": 57695,
       "fontFamily": "Logos",
       "identifier": "jade",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "jamstack": {
       "codepoint": 57696,
       "fontFamily": "Logos",
       "identifier": "jamstack",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "jamstack-icon": {
       "codepoint": 57697,
       "fontFamily": "Logos",
       "identifier": "jamstackIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "jasmine": {
       "codepoint": 58537,
@@ -4618,6 +4813,12 @@
       "identifier": "jasmine",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "java": {
+      "codepoint": 58976,
+      "fontFamily": "Logos",
+      "identifier": "java",
+      "duotone": true
     },
     "javascript": {
       "codepoint": 57698,
@@ -4652,6 +4853,12 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "jest": {
+      "codepoint": 58977,
+      "fontFamily": "Logos",
+      "identifier": "jest",
+      "duotone": true
+    },
     "jetbrains": {
       "codepoint": 58542,
       "fontFamily": "Logos",
@@ -4682,6 +4889,12 @@
       "codepoint": 57700,
       "fontFamily": "Logos",
       "identifier": "jfrog"
+    },
+    "jhipster-icon": {
+      "codepoint": 58978,
+      "fontFamily": "Logos",
+      "identifier": "jhipsterIcon",
+      "duotone": true
     },
     "joomla": {
       "codepoint": 58545,
@@ -4727,15 +4940,13 @@
       "codepoint": 58548,
       "fontFamily": "Logos",
       "identifier": "jscs",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "jsdom": {
       "codepoint": 58549,
       "fontFamily": "Logos",
       "identifier": "jsdom",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "jsfiddle": {
       "codepoint": 57704,
@@ -4760,8 +4971,7 @@
       "codepoint": 58551,
       "fontFamily": "Logos",
       "identifier": "jsonSchema",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "json-schema-icon": {
       "codepoint": 57706,
@@ -4781,6 +4991,12 @@
       "identifier": "jss",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "juju": {
+      "codepoint": 58979,
+      "fontFamily": "Logos",
+      "identifier": "juju",
+      "duotone": true
     },
     "julia": {
       "codepoint": 58552,
@@ -4822,8 +5038,7 @@
       "codepoint": 57712,
       "fontFamily": "Logos",
       "identifier": "karma",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "katalon": {
       "codepoint": 57713,
@@ -4839,8 +5054,7 @@
       "codepoint": 57715,
       "fontFamily": "Logos",
       "identifier": "kde",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "kemal": {
       "codepoint": 58555,
@@ -4853,8 +5067,7 @@
       "codepoint": 57716,
       "fontFamily": "Logos",
       "identifier": "keycdn",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "keycdn-icon": {
       "codepoint": 58556,
@@ -4867,8 +5080,7 @@
       "codepoint": 57717,
       "fontFamily": "Logos",
       "identifier": "keydb",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "keydb-icon": {
       "codepoint": 57718,
@@ -4901,8 +5113,7 @@
       "codepoint": 57720,
       "fontFamily": "Logos",
       "identifier": "khanAcademyIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "kickstarter": {
       "codepoint": 57721,
@@ -4937,6 +5148,12 @@
       "codepoint": 57724,
       "fontFamily": "Logos",
       "identifier": "kirbyIcon"
+    },
+    "kitematic": {
+      "codepoint": 58980,
+      "fontFamily": "Logos",
+      "identifier": "kitematic",
+      "duotone": true
     },
     "kloudless": {
       "codepoint": 58561,
@@ -4996,8 +5213,7 @@
       "codepoint": 57728,
       "fontFamily": "Logos",
       "identifier": "krakenjs",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "ktor": {
       "codepoint": 58566,
@@ -5017,8 +5233,7 @@
       "codepoint": 57729,
       "fontFamily": "Logos",
       "identifier": "kubernetes",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "kustomer": {
       "codepoint": 57730,
@@ -5073,8 +5288,7 @@
       "codepoint": 57737,
       "fontFamily": "Logos",
       "identifier": "leankitIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "lerna": {
       "codepoint": 57738,
@@ -5092,15 +5306,13 @@
       "codepoint": 57739,
       "fontFamily": "Logos",
       "identifier": "letsencrypt",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "leveldb": {
       "codepoint": 57740,
       "fontFamily": "Logos",
       "identifier": "leveldb",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "lexical": {
       "codepoint": 57741,
@@ -5128,15 +5340,13 @@
       "codepoint": 57744,
       "fontFamily": "Logos",
       "identifier": "lightstep",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "lightstep-icon": {
       "codepoint": 57745,
       "fontFamily": "Logos",
       "identifier": "lightstepIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "linkedin": {
       "codepoint": 57746,
@@ -5204,13 +5414,18 @@
       "codepoint": 58577,
       "fontFamily": "Logos",
       "identifier": "lodash",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "loggly": {
       "codepoint": 57751,
       "fontFamily": "Logos",
       "identifier": "loggly"
+    },
+    "logmatic": {
+      "codepoint": 58981,
+      "fontFamily": "Logos",
+      "identifier": "logmatic",
+      "duotone": true
     },
     "logstash": {
       "codepoint": 58578,
@@ -5242,8 +5457,7 @@
       "codepoint": 57753,
       "fontFamily": "Logos",
       "identifier": "loom",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "loom-icon": {
       "codepoint": 57754,
@@ -5254,8 +5468,7 @@
       "codepoint": 57755,
       "fontFamily": "Logos",
       "identifier": "loopback",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "loopback-icon": {
       "codepoint": 57756,
@@ -5266,8 +5479,7 @@
       "codepoint": 57757,
       "fontFamily": "Logos",
       "identifier": "losant",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "lotus": {
       "codepoint": 57758,
@@ -5328,22 +5540,19 @@
       "codepoint": 57762,
       "fontFamily": "Logos",
       "identifier": "mageia",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "mailchimp": {
       "codepoint": 57763,
       "fontFamily": "Logos",
       "identifier": "mailchimp",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "mailgun": {
       "codepoint": 57764,
       "fontFamily": "Logos",
       "identifier": "mailgun",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "mailgun-icon": {
       "codepoint": 57765,
@@ -5354,15 +5563,13 @@
       "codepoint": 58586,
       "fontFamily": "Logos",
       "identifier": "mailjet",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "malinajs": {
       "codepoint": 57766,
       "fontFamily": "Logos",
       "identifier": "malinajs",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "manjaro": {
       "codepoint": 57767,
@@ -5380,8 +5587,7 @@
       "codepoint": 57769,
       "fontFamily": "Logos",
       "identifier": "mantineIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "mantl": {
       "codepoint": 58587,
@@ -5401,15 +5607,13 @@
       "codepoint": 57770,
       "fontFamily": "Logos",
       "identifier": "mapsMe",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "mariadb-icon": {
       "codepoint": 57771,
       "fontFamily": "Logos",
       "identifier": "mariadbIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "markdown": {
       "codepoint": 57772,
@@ -5441,6 +5645,18 @@
       "identifier": "mastercard",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "mastodon": {
+      "codepoint": 58982,
+      "fontFamily": "Logos",
+      "identifier": "mastodon",
+      "duotone": true
+    },
+    "mastodon-icon": {
+      "codepoint": 58983,
+      "fontFamily": "Logos",
+      "identifier": "mastodonIcon",
+      "duotone": true
     },
     "material-ui": {
       "codepoint": 57775,
@@ -5488,6 +5704,18 @@
       "fontFamily": "Logos",
       "identifier": "mattermostIcon"
     },
+    "mautic": {
+      "codepoint": 58984,
+      "fontFamily": "Logos",
+      "identifier": "mautic",
+      "duotone": true
+    },
+    "mautic-icon": {
+      "codepoint": 58985,
+      "fontFamily": "Logos",
+      "identifier": "mauticIcon",
+      "duotone": true
+    },
     "maven": {
       "codepoint": 58594,
       "fontFamily": "Logos",
@@ -5499,8 +5727,7 @@
       "codepoint": 57780,
       "fontFamily": "Logos",
       "identifier": "maxcdn",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "mdn": {
       "codepoint": 57781,
@@ -5518,8 +5745,7 @@
       "codepoint": 57783,
       "fontFamily": "Logos",
       "identifier": "meanio",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "medium": {
       "codepoint": 57784,
@@ -5580,19 +5806,23 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "mention": {
+      "codepoint": 58986,
+      "fontFamily": "Logos",
+      "identifier": "mention",
+      "duotone": true
+    },
     "mern": {
       "codepoint": 58602,
       "fontFamily": "Logos",
       "identifier": "mern",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "mesos": {
       "codepoint": 57786,
       "fontFamily": "Logos",
       "identifier": "mesos",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "mesosphere": {
       "codepoint": 58603,
@@ -5632,8 +5862,7 @@
       "codepoint": 58607,
       "fontFamily": "Logos",
       "identifier": "meteor",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "meteor-icon": {
       "codepoint": 57788,
@@ -5659,8 +5888,7 @@
       "codepoint": 58608,
       "fontFamily": "Logos",
       "identifier": "microcosm",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "micron": {
       "codepoint": 57792,
@@ -5831,8 +6059,7 @@
       "codepoint": 58622,
       "fontFamily": "Logos",
       "identifier": "mixmax",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "mixpanel": {
       "codepoint": 58623,
@@ -5847,6 +6074,12 @@
       "identifier": "mlab",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "mocha": {
+      "codepoint": 58987,
+      "fontFamily": "Logos",
+      "identifier": "mocha",
+      "duotone": true
     },
     "mockflow": {
       "codepoint": 58625,
@@ -5905,6 +6138,12 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "momentjs": {
+      "codepoint": 58988,
+      "fontFamily": "Logos",
+      "identifier": "momentjs",
+      "duotone": true
+    },
     "monday": {
       "codepoint": 57809,
       "fontFamily": "Logos",
@@ -5923,15 +6162,13 @@
       "codepoint": 57811,
       "fontFamily": "Logos",
       "identifier": "monero",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "mongodb": {
       "codepoint": 57812,
       "fontFamily": "Logos",
       "identifier": "mongodb",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "mongodb-icon": {
       "codepoint": 57813,
@@ -5954,6 +6191,24 @@
       "codepoint": 57815,
       "fontFamily": "Logos",
       "identifier": "moonshotAiIcon"
+    },
+    "mootools": {
+      "codepoint": 58989,
+      "fontFamily": "Logos",
+      "identifier": "mootools",
+      "duotone": true
+    },
+    "morpheus": {
+      "codepoint": 58990,
+      "fontFamily": "Logos",
+      "identifier": "morpheus",
+      "duotone": true
+    },
+    "morpheus-icon": {
+      "codepoint": 58991,
+      "fontFamily": "Logos",
+      "identifier": "morpheusIcon",
+      "duotone": true
     },
     "mozilla": {
       "codepoint": 57816,
@@ -5991,12 +6246,23 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "msw-icon": {
+      "codepoint": 58992,
+      "fontFamily": "Logos",
+      "identifier": "mswIcon",
+      "duotone": true
+    },
+    "multipass": {
+      "codepoint": 58993,
+      "fontFamily": "Logos",
+      "identifier": "multipass",
+      "duotone": true
+    },
     "mysql": {
       "codepoint": 58635,
       "fontFamily": "Logos",
       "identifier": "mysql",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "mysql-icon": {
       "codepoint": 57819,
@@ -6017,8 +6283,7 @@
       "codepoint": 57822,
       "fontFamily": "Logos",
       "identifier": "nasm",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "nativescript": {
       "codepoint": 57823,
@@ -6065,6 +6330,12 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "neonmetrics": {
+      "codepoint": 58994,
+      "fontFamily": "Logos",
+      "identifier": "neonmetrics",
+      "duotone": true
+    },
     "neovim": {
       "codepoint": 58639,
       "fontFamily": "Logos",
@@ -6107,15 +6378,13 @@
       "codepoint": 58643,
       "fontFamily": "Logos",
       "identifier": "netlify",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "netlify-icon": {
       "codepoint": 58644,
       "fontFamily": "Logos",
       "identifier": "netlifyIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "netuitive": {
       "codepoint": 57829,
@@ -6162,10 +6431,22 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "nginx": {
+      "codepoint": 58995,
+      "fontFamily": "Logos",
+      "identifier": "nginx",
+      "duotone": true
+    },
     "ngrok": {
       "codepoint": 57833,
       "fontFamily": "Logos",
       "identifier": "ngrok"
+    },
+    "nhost": {
+      "codepoint": 58996,
+      "fontFamily": "Logos",
+      "identifier": "nhost",
+      "duotone": true
     },
     "nhost-icon": {
       "codepoint": 57834,
@@ -6183,8 +6464,7 @@
       "codepoint": 58648,
       "fontFamily": "Logos",
       "identifier": "nocodb",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "nodal": {
       "codepoint": 57836,
@@ -6204,8 +6484,7 @@
       "codepoint": 57837,
       "fontFamily": "Logos",
       "identifier": "nodebots",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "nodejitsu": {
       "codepoint": 57838,
@@ -6232,15 +6511,13 @@
       "codepoint": 57839,
       "fontFamily": "Logos",
       "identifier": "nodemon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "nodeos": {
       "codepoint": 57840,
       "fontFamily": "Logos",
       "identifier": "nodeos",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "nodewebkit": {
       "codepoint": 57841,
@@ -6278,8 +6555,7 @@
       "codepoint": 57847,
       "fontFamily": "Logos",
       "identifier": "noysi",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "npm-2": {
       "codepoint": 58652,
@@ -6287,6 +6563,12 @@
       "identifier": "npm2",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "npm-icon": {
+      "codepoint": 58997,
+      "fontFamily": "Logos",
+      "identifier": "npmIcon",
+      "duotone": true
     },
     "nuclide": {
       "codepoint": 57848,
@@ -6299,8 +6581,7 @@
       "codepoint": 57849,
       "fontFamily": "Logos",
       "identifier": "numpy",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "nuodb": {
       "codepoint": 57850,
@@ -6455,8 +6736,7 @@
       "codepoint": 57863,
       "fontFamily": "Logos",
       "identifier": "opencollective",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "opencv": {
       "codepoint": 58665,
@@ -6488,29 +6768,25 @@
       "codepoint": 57865,
       "fontFamily": "Logos",
       "identifier": "opensearch",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "opensearch-icon": {
       "codepoint": 57866,
       "fontFamily": "Logos",
       "identifier": "opensearchIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "opensource": {
       "codepoint": 57867,
       "fontFamily": "Logos",
       "identifier": "opensource",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "openstack": {
       "codepoint": 57868,
       "fontFamily": "Logos",
       "identifier": "openstack",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "openstack-icon": {
       "codepoint": 57869,
@@ -6521,15 +6797,13 @@
       "codepoint": 57870,
       "fontFamily": "Logos",
       "identifier": "opentelemetry",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "opentelemetry-icon": {
       "codepoint": 57871,
       "fontFamily": "Logos",
       "identifier": "opentelemetryIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "opera": {
       "codepoint": 58668,
@@ -6575,8 +6849,7 @@
       "codepoint": 58673,
       "fontFamily": "Logos",
       "identifier": "oreilly",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "origami": {
       "codepoint": 58674,
@@ -6653,8 +6926,7 @@
       "codepoint": 57876,
       "fontFamily": "Logos",
       "identifier": "packer",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "pagerduty": {
       "codepoint": 57877,
@@ -6699,8 +6971,7 @@
       "codepoint": 58683,
       "fontFamily": "Logos",
       "identifier": "parsehub",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "partytown": {
       "codepoint": 58684,
@@ -6775,6 +7046,12 @@
       "identifier": "periscope",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "perplexity": {
+      "codepoint": 58998,
+      "fontFamily": "Logos",
+      "identifier": "perplexity",
+      "duotone": true
     },
     "phalcon": {
       "codepoint": 58691,
@@ -6876,8 +7153,7 @@
       "codepoint": 58697,
       "fontFamily": "Logos",
       "identifier": "pivotalTracker",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "pixate": {
       "codepoint": 57898,
@@ -6890,8 +7166,7 @@
       "codepoint": 57899,
       "fontFamily": "Logos",
       "identifier": "pixelapse",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "pkg": {
       "codepoint": 57900,
@@ -6907,8 +7182,7 @@
       "codepoint": 58698,
       "fontFamily": "Logos",
       "identifier": "planless",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "plasmic": {
       "codepoint": 57902,
@@ -6928,8 +7202,7 @@
       "codepoint": 58700,
       "fontFamily": "Logos",
       "identifier": "play",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "pluralsight": {
       "codepoint": 58701,
@@ -6963,15 +7236,13 @@
       "codepoint": 58705,
       "fontFamily": "Logos",
       "identifier": "pnpm",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "pocket-base": {
       "codepoint": 58706,
       "fontFamily": "Logos",
       "identifier": "pocketBase",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "poeditor": {
       "codepoint": 58707,
@@ -7019,15 +7290,13 @@
       "codepoint": 57905,
       "fontFamily": "Logos",
       "identifier": "postman",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "postman-icon": {
       "codepoint": 57906,
       "fontFamily": "Logos",
       "identifier": "postmanIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "pouchdb": {
       "codepoint": 57907,
@@ -7040,8 +7309,7 @@
       "codepoint": 57908,
       "fontFamily": "Logos",
       "identifier": "preact",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "precursor": {
       "codepoint": 57909,
@@ -7140,8 +7408,7 @@
       "codepoint": 58715,
       "fontFamily": "Logos",
       "identifier": "promises",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "proofy": {
       "codepoint": 57920,
@@ -7154,8 +7421,7 @@
       "codepoint": 57921,
       "fontFamily": "Logos",
       "identifier": "prospect",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "protoio": {
       "codepoint": 57922,
@@ -7236,8 +7502,7 @@
       "codepoint": 57932,
       "fontFamily": "Logos",
       "identifier": "pwa",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "pycharm": {
       "codepoint": 58719,
@@ -7296,12 +7561,23 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "qlik": {
+      "codepoint": 58999,
+      "fontFamily": "Logos",
+      "identifier": "qlik",
+      "duotone": true
+    },
     "qt": {
       "codepoint": 57937,
       "fontFamily": "Logos",
       "identifier": "qt",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "quay": {
+      "codepoint": 59000,
+      "fontFamily": "Logos",
+      "identifier": "quay",
+      "duotone": true
     },
     "quora": {
       "codepoint": 57938,
@@ -7312,15 +7588,13 @@
       "codepoint": 57939,
       "fontFamily": "Logos",
       "identifier": "qwen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "qwen-icon": {
       "codepoint": 57940,
       "fontFamily": "Logos",
       "identifier": "qwenIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "qwik": {
       "codepoint": 57941,
@@ -7347,8 +7621,7 @@
       "codepoint": 57943,
       "fontFamily": "Logos",
       "identifier": "rabbitmq",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "rabbitmq-icon": {
       "codepoint": 57944,
@@ -7364,8 +7637,7 @@
       "codepoint": 57946,
       "fontFamily": "Logos",
       "identifier": "rackspaceIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "rails": {
       "codepoint": 57947,
@@ -7452,8 +7724,7 @@
       "codepoint": 58732,
       "fontFamily": "Logos",
       "identifier": "reapp",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "reasonml": {
       "codepoint": 57953,
@@ -7466,8 +7737,7 @@
       "codepoint": 57954,
       "fontFamily": "Logos",
       "identifier": "reasonmlIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "recaptcha": {
       "codepoint": 58733,
@@ -7487,8 +7757,7 @@
       "codepoint": 58735,
       "fontFamily": "Logos",
       "identifier": "redditIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "redhat": {
       "codepoint": 57955,
@@ -7528,15 +7797,13 @@
       "codepoint": 57959,
       "fontFamily": "Logos",
       "identifier": "reduxSaga",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "redwoodjs": {
       "codepoint": 58738,
       "fontFamily": "Logos",
       "identifier": "redwoodjs",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "refactor": {
       "codepoint": 57960,
@@ -7549,8 +7816,7 @@
       "codepoint": 57961,
       "fontFamily": "Logos",
       "identifier": "reindex",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "relay": {
       "codepoint": 57962,
@@ -7614,8 +7880,7 @@
       "codepoint": 58741,
       "fontFamily": "Logos",
       "identifier": "riak",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "rider": {
       "codepoint": 58742,
@@ -7642,8 +7907,7 @@
       "codepoint": 58744,
       "fontFamily": "Logos",
       "identifier": "rkt",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "rocksdb": {
       "codepoint": 58745,
@@ -7666,8 +7930,7 @@
       "codepoint": 57973,
       "fontFamily": "Logos",
       "identifier": "rollbar",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "rollbar-icon": {
       "codepoint": 57974,
@@ -7709,12 +7972,35 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "rome": {
+      "codepoint": 59001,
+      "fontFamily": "Logos",
+      "identifier": "rome",
+      "duotone": true
+    },
+    "rome-icon": {
+      "codepoint": 59002,
+      "fontFamily": "Logos",
+      "identifier": "romeIcon",
+      "duotone": true
+    },
+    "rsa": {
+      "codepoint": 59003,
+      "fontFamily": "Logos",
+      "identifier": "rsa",
+      "duotone": true
+    },
+    "rsmq": {
+      "codepoint": 59004,
+      "fontFamily": "Logos",
+      "identifier": "rsmq",
+      "duotone": true
+    },
     "rubocop": {
       "codepoint": 58751,
       "fontFamily": "Logos",
       "identifier": "rubocop",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "ruby": {
       "codepoint": 58752,
@@ -7760,8 +8046,13 @@
       "codepoint": 58757,
       "fontFamily": "Logos",
       "identifier": "runscope",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "rush": {
+      "codepoint": 59005,
+      "fontFamily": "Logos",
+      "identifier": "rush",
+      "duotone": true
     },
     "rush-icon": {
       "codepoint": 57976,
@@ -7794,8 +8085,7 @@
       "codepoint": 57980,
       "fontFamily": "Logos",
       "identifier": "salesforce",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "saltstack": {
       "codepoint": 57981,
@@ -7821,6 +8111,12 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "sass-doc": {
+      "codepoint": 59006,
+      "fontFamily": "Logos",
+      "identifier": "sassDoc",
+      "duotone": true
+    },
     "scala": {
       "codepoint": 58761,
       "fontFamily": "Logos",
@@ -7837,8 +8133,7 @@
       "codepoint": 58762,
       "fontFamily": "Logos",
       "identifier": "scribd",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "seaborn": {
       "codepoint": 58763,
@@ -7865,8 +8160,7 @@
       "codepoint": 58766,
       "fontFamily": "Logos",
       "identifier": "sectionIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "sectionio": {
       "codepoint": 58767,
@@ -7894,8 +8188,7 @@
       "codepoint": 57987,
       "fontFamily": "Logos",
       "identifier": "semanticUi",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "semantic-web": {
       "codepoint": 57988,
@@ -7910,6 +8203,12 @@
       "identifier": "semaphore",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "semaphoreci": {
+      "codepoint": 59007,
+      "fontFamily": "Logos",
+      "identifier": "semaphoreci",
+      "duotone": true
     },
     "sencha": {
       "codepoint": 58769,
@@ -7934,8 +8233,7 @@
       "codepoint": 57990,
       "fontFamily": "Logos",
       "identifier": "sensu",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "sensu-icon": {
       "codepoint": 57991,
@@ -7980,8 +8278,7 @@
       "codepoint": 58773,
       "fontFamily": "Logos",
       "identifier": "sherlockIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "shields": {
       "codepoint": 57996,
@@ -8018,8 +8315,7 @@
       "codepoint": 58777,
       "fontFamily": "Logos",
       "identifier": "shortcut",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "sidekiq": {
       "codepoint": 57998,
@@ -8064,12 +8360,23 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "sitepoint": {
+      "codepoint": 59008,
+      "fontFamily": "Logos",
+      "identifier": "sitepoint",
+      "duotone": true
+    },
+    "sk-hynix": {
+      "codepoint": 59009,
+      "fontFamily": "Logos",
+      "identifier": "skHynix",
+      "duotone": true
+    },
     "skaffolder": {
       "codepoint": 58001,
       "fontFamily": "Logos",
       "identifier": "skaffolder",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "sketch": {
       "codepoint": 58002,
@@ -8082,8 +8389,7 @@
       "codepoint": 58003,
       "fontFamily": "Logos",
       "identifier": "sketchapp",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "skylight": {
       "codepoint": 58782,
@@ -8112,6 +8418,12 @@
       "identifier": "slidev",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "slim": {
+      "codepoint": 59010,
+      "fontFamily": "Logos",
+      "identifier": "slim",
+      "duotone": true
     },
     "smartling": {
       "codepoint": 58004,
@@ -8163,19 +8475,23 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "socket-io": {
+      "codepoint": 59011,
+      "fontFamily": "Logos",
+      "identifier": "socketIo",
+      "duotone": true
+    },
     "solarwinds": {
       "codepoint": 58007,
       "fontFamily": "Logos",
       "identifier": "solarwinds",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "solid": {
       "codepoint": 58008,
       "fontFamily": "Logos",
       "identifier": "solid",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "solidity": {
       "codepoint": 58009,
@@ -8193,8 +8509,7 @@
       "codepoint": 58792,
       "fontFamily": "Logos",
       "identifier": "solr",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "sonarcloud": {
       "codepoint": 58793,
@@ -8207,8 +8522,7 @@
       "codepoint": 58010,
       "fontFamily": "Logos",
       "identifier": "sonarlint",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "sonarlint-icon": {
       "codepoint": 58794,
@@ -8216,6 +8530,12 @@
       "identifier": "sonarlintIcon",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "sonarqube": {
+      "codepoint": 59012,
+      "fontFamily": "Logos",
+      "identifier": "sonarqube",
+      "duotone": true
     },
     "soundcloud": {
       "codepoint": 58795,
@@ -8233,6 +8553,18 @@
       "codepoint": 58012,
       "fontFamily": "Logos",
       "identifier": "spark"
+    },
+    "sparkcentral": {
+      "codepoint": 59013,
+      "fontFamily": "Logos",
+      "identifier": "sparkcentral",
+      "duotone": true
+    },
+    "sparkpost": {
+      "codepoint": 59014,
+      "fontFamily": "Logos",
+      "identifier": "sparkpost",
+      "duotone": true
     },
     "spidermonkey": {
       "codepoint": 58013,
@@ -8270,22 +8602,19 @@
       "codepoint": 58018,
       "fontFamily": "Logos",
       "identifier": "spree",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "spring": {
       "codepoint": 58019,
       "fontFamily": "Logos",
       "identifier": "spring",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "spring-icon": {
       "codepoint": 58020,
       "fontFamily": "Logos",
       "identifier": "springIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "sqldep": {
       "codepoint": 58021,
@@ -8306,6 +8635,18 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "sst": {
+      "codepoint": 59015,
+      "fontFamily": "Logos",
+      "identifier": "sst",
+      "duotone": true
+    },
+    "sst-icon": {
+      "codepoint": 59016,
+      "fontFamily": "Logos",
+      "identifier": "sstIcon",
+      "duotone": true
+    },
     "stability-ai": {
       "codepoint": 58799,
       "fontFamily": "Logos",
@@ -8324,8 +8665,7 @@
       "codepoint": 58022,
       "fontFamily": "Logos",
       "identifier": "stackbit",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "stackbit-icon": {
       "codepoint": 58023,
@@ -8353,15 +8693,13 @@
       "codepoint": 58802,
       "fontFamily": "Logos",
       "identifier": "stackoverflowIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "stackshare": {
       "codepoint": 58026,
       "fontFamily": "Logos",
       "identifier": "stackshare",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "stacksmith": {
       "codepoint": 58803,
@@ -8401,6 +8739,12 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "steemit": {
+      "codepoint": 59017,
+      "fontFamily": "Logos",
+      "identifier": "steemit",
+      "duotone": true
+    },
     "stenciljs": {
       "codepoint": 58029,
       "fontFamily": "Logos",
@@ -8415,8 +8759,13 @@
       "codepoint": 58031,
       "fontFamily": "Logos",
       "identifier": "stetho",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "stickermule": {
+      "codepoint": 59018,
+      "fontFamily": "Logos",
+      "identifier": "stickermule",
+      "duotone": true
     },
     "stigg": {
       "codepoint": 58807,
@@ -8441,8 +8790,7 @@
       "codepoint": 58809,
       "fontFamily": "Logos",
       "identifier": "stoplight",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "stormpath": {
       "codepoint": 58033,
@@ -8463,8 +8811,7 @@
       "codepoint": 58036,
       "fontFamily": "Logos",
       "identifier": "storyblok",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "storyblok-icon": {
       "codepoint": 58037,
@@ -8504,12 +8851,24 @@
       "fontFamily": "Logos",
       "identifier": "stripe"
     },
+    "strongloop": {
+      "codepoint": 59019,
+      "fontFamily": "Logos",
+      "identifier": "strongloop",
+      "duotone": true
+    },
     "struts": {
       "codepoint": 58813,
       "fontFamily": "Logos",
       "identifier": "struts",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "styleci": {
+      "codepoint": 59020,
+      "fontFamily": "Logos",
+      "identifier": "styleci",
+      "duotone": true
     },
     "stylefmt": {
       "codepoint": 58040,
@@ -8589,6 +8948,12 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "supersonic": {
+      "codepoint": 59021,
+      "fontFamily": "Logos",
+      "identifier": "supersonic",
+      "duotone": true
+    },
     "supertokens": {
       "codepoint": 58822,
       "fontFamily": "Logos",
@@ -8638,8 +9003,7 @@
       "codepoint": 58046,
       "fontFamily": "Logos",
       "identifier": "suse",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "susy": {
       "codepoint": 58047,
@@ -8657,8 +9021,7 @@
       "codepoint": 58049,
       "fontFamily": "Logos",
       "identifier": "svelteIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "svelte-kit": {
       "codepoint": 58050,
@@ -8681,8 +9044,7 @@
       "codepoint": 58827,
       "fontFamily": "Logos",
       "identifier": "swagger",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "swc": {
       "codepoint": 58828,
@@ -8698,6 +9060,12 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "swiftype": {
+      "codepoint": 59022,
+      "fontFamily": "Logos",
+      "identifier": "swiftype",
+      "duotone": true
+    },
     "swr": {
       "codepoint": 58053,
       "fontFamily": "Logos",
@@ -8707,8 +9075,13 @@
       "codepoint": 58054,
       "fontFamily": "Logos",
       "identifier": "symfony",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "sysdig": {
+      "codepoint": 59023,
+      "fontFamily": "Logos",
+      "identifier": "sysdig",
+      "duotone": true
     },
     "sysdig-icon": {
       "codepoint": 58830,
@@ -8766,8 +9139,7 @@
       "codepoint": 58058,
       "fontFamily": "Logos",
       "identifier": "taskadeIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "tastejs": {
       "codepoint": 58835,
@@ -8780,15 +9152,13 @@
       "codepoint": 58059,
       "fontFamily": "Logos",
       "identifier": "tauri",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "tealium": {
       "codepoint": 58060,
       "fontFamily": "Logos",
       "identifier": "tealium",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "teamcity": {
       "codepoint": 58836,
@@ -8806,8 +9176,7 @@
       "codepoint": 58062,
       "fontFamily": "Logos",
       "identifier": "teamwork",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "teamwork-icon": {
       "codepoint": 58063,
@@ -8849,12 +9218,24 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "terraform-icon": {
+      "codepoint": 59024,
+      "fontFamily": "Logos",
+      "identifier": "terraformIcon",
+      "duotone": true
+    },
     "terser": {
       "codepoint": 58840,
       "fontFamily": "Logos",
       "identifier": "terser",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "testcafe": {
+      "codepoint": 59025,
+      "fontFamily": "Logos",
+      "identifier": "testcafe",
+      "duotone": true
     },
     "testing-library": {
       "codepoint": 58841,
@@ -8949,6 +9330,24 @@
       "fontFamily": "Logos",
       "identifier": "tnw"
     },
+    "todoist": {
+      "codepoint": 59026,
+      "fontFamily": "Logos",
+      "identifier": "todoist",
+      "duotone": true
+    },
+    "todoist-icon": {
+      "codepoint": 59027,
+      "fontFamily": "Logos",
+      "identifier": "todoistIcon",
+      "duotone": true
+    },
+    "todomvc": {
+      "codepoint": 59028,
+      "fontFamily": "Logos",
+      "identifier": "todomvc",
+      "duotone": true
+    },
     "tomcat": {
       "codepoint": 58077,
       "fontFamily": "Logos",
@@ -9019,8 +9418,7 @@
       "codepoint": 58080,
       "fontFamily": "Logos",
       "identifier": "treehouse",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "treehouse-icon": {
       "codepoint": 58081,
@@ -9144,6 +9542,24 @@
       "fontFamily": "Logos",
       "identifier": "twitter"
     },
+    "typescript": {
+      "codepoint": 59029,
+      "fontFamily": "Logos",
+      "identifier": "typescript",
+      "duotone": true
+    },
+    "typescript-icon": {
+      "codepoint": 59030,
+      "fontFamily": "Logos",
+      "identifier": "typescriptIcon",
+      "duotone": true
+    },
+    "typescript-icon-round": {
+      "codepoint": 59031,
+      "fontFamily": "Logos",
+      "identifier": "typescriptIconRound",
+      "duotone": true
+    },
     "typesense": {
       "codepoint": 58092,
       "fontFamily": "Logos",
@@ -9154,12 +9570,17 @@
       "fontFamily": "Logos",
       "identifier": "typesenseIcon"
     },
+    "ubuntu": {
+      "codepoint": 59032,
+      "fontFamily": "Logos",
+      "identifier": "ubuntu",
+      "duotone": true
+    },
     "udacity": {
       "codepoint": 58094,
       "fontFamily": "Logos",
       "identifier": "udacity",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "udemy": {
       "codepoint": 58095,
@@ -9187,8 +9608,7 @@
       "codepoint": 58098,
       "fontFamily": "Logos",
       "identifier": "unito",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "unito-icon": {
       "codepoint": 58099,
@@ -9204,8 +9624,7 @@
       "codepoint": 58862,
       "fontFamily": "Logos",
       "identifier": "unjs",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "unrealengine": {
       "codepoint": 58101,
@@ -9235,8 +9654,7 @@
       "codepoint": 58103,
       "fontFamily": "Logos",
       "identifier": "upstashIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "upwork": {
       "codepoint": 58104,
@@ -9252,6 +9670,12 @@
       "codepoint": 58106,
       "fontFamily": "Logos",
       "identifier": "userTestingIcon"
+    },
+    "uservoice": {
+      "codepoint": 59033,
+      "fontFamily": "Logos",
+      "identifier": "uservoice",
+      "duotone": true
     },
     "uwsgi": {
       "codepoint": 58865,
@@ -9283,8 +9707,7 @@
       "codepoint": 58109,
       "fontFamily": "Logos",
       "identifier": "vagrantIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "vault": {
       "codepoint": 58110,
@@ -9324,8 +9747,7 @@
       "codepoint": 58114,
       "fontFamily": "Logos",
       "identifier": "victorops",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "vimeo": {
       "codepoint": 58115,
@@ -9395,8 +9817,7 @@
       "codepoint": 58118,
       "fontFamily": "Logos",
       "identifier": "vitest",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "vivaldi": {
       "codepoint": 58876,
@@ -9430,8 +9851,13 @@
       "codepoint": 58880,
       "fontFamily": "Logos",
       "identifier": "vue",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "vueuse": {
+      "codepoint": 59034,
+      "fontFamily": "Logos",
+      "identifier": "vueuse",
+      "duotone": true
     },
     "vultr-icon": {
       "codepoint": 58119,
@@ -9444,8 +9870,7 @@
       "codepoint": 58120,
       "fontFamily": "Logos",
       "identifier": "w3c",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "waffle": {
       "codepoint": 58121,
@@ -9520,6 +9945,12 @@
       "identifier": "webDevIcon",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "web-fundamentals": {
+      "codepoint": 59035,
+      "fontFamily": "Logos",
+      "identifier": "webFundamentals",
+      "duotone": true
     },
     "webassembly": {
       "codepoint": 58127,
@@ -9627,6 +10058,12 @@
       "fontFamily": "Logos",
       "identifier": "wercker"
     },
+    "whalar": {
+      "codepoint": 59036,
+      "fontFamily": "Logos",
+      "identifier": "whalar",
+      "duotone": true
+    },
     "whalar-icon": {
       "codepoint": 58132,
       "fontFamily": "Logos",
@@ -9655,8 +10092,13 @@
       "codepoint": 58134,
       "fontFamily": "Logos",
       "identifier": "whatwg",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "wicket-icon": {
+      "codepoint": 59037,
+      "fontFamily": "Logos",
+      "identifier": "wicketIcon",
+      "duotone": true
     },
     "wifi": {
       "codepoint": 58135,
@@ -9720,8 +10162,7 @@
       "codepoint": 58903,
       "fontFamily": "Logos",
       "identifier": "wordpress",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "wordpress-icon-alt": {
       "codepoint": 58142,
@@ -9732,8 +10173,13 @@
       "codepoint": 58143,
       "fontFamily": "Logos",
       "identifier": "workboard",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "workos": {
+      "codepoint": 59038,
+      "fontFamily": "Logos",
+      "identifier": "workos",
+      "duotone": true
     },
     "wpengine": {
       "codepoint": 58144,
@@ -9761,8 +10207,7 @@
       "codepoint": 58148,
       "fontFamily": "Logos",
       "identifier": "xampp",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "xata": {
       "codepoint": 58149,
@@ -9796,8 +10241,7 @@
       "codepoint": 58151,
       "fontFamily": "Logos",
       "identifier": "xero",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "xplenty": {
       "codepoint": 58906,
@@ -9855,15 +10299,13 @@
       "codepoint": 58158,
       "fontFamily": "Logos",
       "identifier": "yarn",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "ycombinator": {
       "codepoint": 58159,
       "fontFamily": "Logos",
       "identifier": "ycombinator",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "yii": {
       "codepoint": 58909,
@@ -9890,13 +10332,30 @@
       "codepoint": 58160,
       "fontFamily": "Logos",
       "identifier": "youtubeIcon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "yugabyte": {
+      "codepoint": 59039,
+      "fontFamily": "Logos",
+      "identifier": "yugabyte",
+      "duotone": true
     },
     "yugabyte-icon": {
       "codepoint": 58161,
       "fontFamily": "Logos",
       "identifier": "yugabyteIcon"
+    },
+    "zabbix": {
+      "codepoint": 59040,
+      "fontFamily": "Logos",
+      "identifier": "zabbix",
+      "duotone": true
+    },
+    "zapier": {
+      "codepoint": 59041,
+      "fontFamily": "Logos",
+      "identifier": "zapier",
+      "duotone": true
     },
     "zapier-icon": {
       "codepoint": 58162,
@@ -9966,8 +10425,7 @@
       "codepoint": 58919,
       "fontFamily": "Logos",
       "identifier": "zig",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "zigbee": {
       "codepoint": 58920,

@@ -23,6 +23,11 @@
       "family": "IconPark",
       "nextCodepoint": 60002,
       "iconCount": 2658
+    },
+    {
+      "family": "IconParkSecondary",
+      "nextCodepoint": 60002,
+      "iconCount": 80
     }
   ],
   "icons": {
@@ -614,7 +619,8 @@
     "apple": {
       "codepoint": 57461,
       "fontFamily": "IconPark",
-      "identifier": "apple"
+      "identifier": "apple",
+      "duotone": true
     },
     "apple-one": {
       "codepoint": 57462,
@@ -864,7 +870,8 @@
     "avocado": {
       "codepoint": 57511,
       "fontFamily": "IconPark",
-      "identifier": "avocado"
+      "identifier": "avocado",
+      "duotone": true
     },
     "avocado-one": {
       "codepoint": 57512,
@@ -894,7 +901,8 @@
     "baby-feet": {
       "codepoint": 57517,
       "fontFamily": "IconPark",
-      "identifier": "babyFeet"
+      "identifier": "babyFeet",
+      "duotone": true
     },
     "baby-meal": {
       "codepoint": 57518,
@@ -1114,7 +1122,8 @@
     "battery-empty": {
       "codepoint": 57561,
       "fontFamily": "IconPark",
-      "identifier": "batteryEmpty"
+      "identifier": "batteryEmpty",
+      "duotone": true
     },
     "battery-failure": {
       "codepoint": 57562,
@@ -1219,7 +1228,8 @@
     "bib": {
       "codepoint": 57582,
       "fontFamily": "IconPark",
-      "identifier": "bib"
+      "identifier": "bib",
+      "duotone": true
     },
     "big-clock": {
       "codepoint": 57583,
@@ -1244,7 +1254,8 @@
     "bird": {
       "codepoint": 57587,
       "fontFamily": "IconPark",
-      "identifier": "bird"
+      "identifier": "bird",
+      "duotone": true
     },
     "birthday-cake": {
       "codepoint": 57588,
@@ -1259,7 +1270,8 @@
     "black-eight": {
       "codepoint": 57590,
       "fontFamily": "IconPark",
-      "identifier": "blackEight"
+      "identifier": "blackEight",
+      "duotone": true
     },
     "blackboard": {
       "codepoint": 57591,
@@ -1784,7 +1796,8 @@
     "camera": {
       "codepoint": 57695,
       "fontFamily": "IconPark",
-      "identifier": "camera"
+      "identifier": "camera",
+      "duotone": true
     },
     "camera-five": {
       "codepoint": 57696,
@@ -2059,7 +2072,8 @@
     "checkbox": {
       "codepoint": 57750,
       "fontFamily": "IconPark",
-      "identifier": "checkbox"
+      "identifier": "checkbox",
+      "duotone": true
     },
     "checkerboard": {
       "codepoint": 57751,
@@ -2554,7 +2568,8 @@
     "collection-files": {
       "codepoint": 57849,
       "fontFamily": "IconPark",
-      "identifier": "collectionFiles"
+      "identifier": "collectionFiles",
+      "duotone": true
     },
     "collection-records": {
       "codepoint": 57850,
@@ -2684,7 +2699,8 @@
     "config": {
       "codepoint": 57875,
       "fontFamily": "IconPark",
-      "identifier": "config"
+      "identifier": "config",
+      "duotone": true
     },
     "confounded-face": {
       "codepoint": 57876,
@@ -2749,7 +2765,8 @@
     "contrast": {
       "codepoint": 57888,
       "fontFamily": "IconPark",
-      "identifier": "contrast"
+      "identifier": "contrast",
+      "duotone": true
     },
     "contrast-view": {
       "codepoint": 57889,
@@ -2939,7 +2956,8 @@
     "crown": {
       "codepoint": 57926,
       "fontFamily": "IconPark",
-      "identifier": "crown"
+      "identifier": "crown",
+      "duotone": true
     },
     "crown-three": {
       "codepoint": 57927,
@@ -2949,7 +2967,8 @@
     "crown-two": {
       "codepoint": 57928,
       "fontFamily": "IconPark",
-      "identifier": "crownTwo"
+      "identifier": "crownTwo",
+      "duotone": true
     },
     "cruise": {
       "codepoint": 57929,
@@ -3064,12 +3083,14 @@
     "damage-map": {
       "codepoint": 57951,
       "fontFamily": "IconPark",
-      "identifier": "damageMap"
+      "identifier": "damageMap",
+      "duotone": true
     },
     "dark-mode": {
       "codepoint": 57952,
       "fontFamily": "IconPark",
-      "identifier": "darkMode"
+      "identifier": "darkMode",
+      "duotone": true
     },
     "dashboard": {
       "codepoint": 57953,
@@ -3439,7 +3460,8 @@
     "direction": {
       "codepoint": 58026,
       "fontFamily": "IconPark",
-      "identifier": "direction"
+      "identifier": "direction",
+      "duotone": true
     },
     "direction-adjustment": {
       "codepoint": 58027,
@@ -3634,7 +3656,8 @@
     "dolphin": {
       "codepoint": 58065,
       "fontFamily": "IconPark",
-      "identifier": "dolphin"
+      "identifier": "dolphin",
+      "duotone": true
     },
     "dome": {
       "codepoint": 58066,
@@ -3864,7 +3887,8 @@
     "eagle": {
       "codepoint": 58111,
       "fontFamily": "IconPark",
-      "identifier": "eagle"
+      "identifier": "eagle",
+      "duotone": true
     },
     "earth": {
       "codepoint": 58112,
@@ -4084,7 +4108,8 @@
     "endocrine": {
       "codepoint": 58155,
       "fontFamily": "IconPark",
-      "identifier": "endocrine"
+      "identifier": "endocrine",
+      "duotone": true
     },
     "endpoint-displacement": {
       "codepoint": 58156,
@@ -4339,7 +4364,8 @@
     "extend": {
       "codepoint": 58206,
       "fontFamily": "IconPark",
-      "identifier": "extend"
+      "identifier": "extend",
+      "duotone": true
     },
     "external-transmission": {
       "codepoint": 58207,
@@ -4349,7 +4375,8 @@
     "eyebrow": {
       "codepoint": 58208,
       "fontFamily": "IconPark",
-      "identifier": "eyebrow"
+      "identifier": "eyebrow",
+      "duotone": true
     },
     "eyes": {
       "codepoint": 58209,
@@ -4444,7 +4471,8 @@
     "facetime": {
       "codepoint": 58227,
       "fontFamily": "IconPark",
-      "identifier": "facetime"
+      "identifier": "facetime",
+      "duotone": true
     },
     "faceu": {
       "codepoint": 58228,
@@ -4464,7 +4492,8 @@
     "factory-building": {
       "codepoint": 58231,
       "fontFamily": "IconPark",
-      "identifier": "factoryBuilding"
+      "identifier": "factoryBuilding",
+      "duotone": true
     },
     "fail-picture": {
       "codepoint": 58232,
@@ -4524,7 +4553,8 @@
     "figma": {
       "codepoint": 58243,
       "fontFamily": "IconPark",
-      "identifier": "figma"
+      "identifier": "figma",
+      "duotone": true
     },
     "figma-component": {
       "codepoint": 58244,
@@ -4874,7 +4904,8 @@
     "financing": {
       "codepoint": 58313,
       "fontFamily": "IconPark",
-      "identifier": "financing"
+      "identifier": "financing",
+      "duotone": true
     },
     "financing-one": {
       "codepoint": 58314,
@@ -4959,7 +4990,8 @@
     "fish-one": {
       "codepoint": 58330,
       "fontFamily": "IconPark",
-      "identifier": "fishOne"
+      "identifier": "fishOne",
+      "duotone": true
     },
     "fishing": {
       "codepoint": 58331,
@@ -5149,7 +5181,8 @@
     "folder-focus": {
       "codepoint": 58368,
       "fontFamily": "IconPark",
-      "identifier": "folderFocus"
+      "identifier": "folderFocus",
+      "duotone": true
     },
     "folder-focus-one": {
       "codepoint": 58369,
@@ -5199,7 +5232,8 @@
     "folder-protection": {
       "codepoint": 58378,
       "fontFamily": "IconPark",
-      "identifier": "folderProtection"
+      "identifier": "folderProtection",
+      "duotone": true
     },
     "folder-protection-one": {
       "codepoint": 58379,
@@ -5209,7 +5243,8 @@
     "folder-quality": {
       "codepoint": 58380,
       "fontFamily": "IconPark",
-      "identifier": "folderQuality"
+      "identifier": "folderQuality",
+      "duotone": true
     },
     "folder-quality-one": {
       "codepoint": 58381,
@@ -5409,7 +5444,8 @@
     "frog": {
       "codepoint": 58420,
       "fontFamily": "IconPark",
-      "identifier": "frog"
+      "identifier": "frog",
+      "duotone": true
     },
     "frowning-face-whit-open-mouth": {
       "codepoint": 58421,
@@ -5559,7 +5595,8 @@
     "gavel": {
       "codepoint": 58450,
       "fontFamily": "IconPark",
-      "identifier": "gavel"
+      "identifier": "gavel",
+      "duotone": true
     },
     "gemini": {
       "codepoint": 58451,
@@ -5734,7 +5771,8 @@
     "google": {
       "codepoint": 58485,
       "fontFamily": "IconPark",
-      "identifier": "google"
+      "identifier": "google",
+      "duotone": true
     },
     "google-ads": {
       "codepoint": 58486,
@@ -5749,7 +5787,8 @@
     "gps": {
       "codepoint": 58488,
       "fontFamily": "IconPark",
-      "identifier": "gps"
+      "identifier": "gps",
+      "duotone": true
     },
     "graphic-design": {
       "codepoint": 58489,
@@ -5994,17 +6033,20 @@
     "handle-down": {
       "codepoint": 58537,
       "fontFamily": "IconPark",
-      "identifier": "handleDown"
+      "identifier": "handleDown",
+      "duotone": true
     },
     "handle-left": {
       "codepoint": 58538,
       "fontFamily": "IconPark",
-      "identifier": "handleLeft"
+      "identifier": "handleLeft",
+      "duotone": true
     },
     "handle-right": {
       "codepoint": 58539,
       "fontFamily": "IconPark",
-      "identifier": "handleRight"
+      "identifier": "handleRight",
+      "duotone": true
     },
     "handle-round": {
       "codepoint": 58540,
@@ -6024,7 +6066,8 @@
     "handle-up": {
       "codepoint": 58543,
       "fontFamily": "IconPark",
-      "identifier": "handleUp"
+      "identifier": "handleUp",
+      "duotone": true
     },
     "handle-x": {
       "codepoint": 58544,
@@ -6144,7 +6187,8 @@
     "health": {
       "codepoint": 58567,
       "fontFamily": "IconPark",
-      "identifier": "health"
+      "identifier": "health",
+      "duotone": true
     },
     "health-products": {
       "codepoint": 58568,
@@ -6544,7 +6588,8 @@
     "inclusive-gateway": {
       "codepoint": 58647,
       "fontFamily": "IconPark",
-      "identifier": "inclusiveGateway"
+      "identifier": "inclusiveGateway",
+      "duotone": true
     },
     "income": {
       "codepoint": 58648,
@@ -6889,7 +6934,8 @@
     "keyhole": {
       "codepoint": 58716,
       "fontFamily": "IconPark",
-      "identifier": "keyhole"
+      "identifier": "keyhole",
+      "duotone": true
     },
     "keyline": {
       "codepoint": 58717,
@@ -7399,7 +7445,8 @@
     "local-two": {
       "codepoint": 58818,
       "fontFamily": "IconPark",
-      "identifier": "localTwo"
+      "identifier": "localTwo",
+      "duotone": true
     },
     "lock": {
       "codepoint": 58819,
@@ -7889,7 +7936,8 @@
     "messages-one": {
       "codepoint": 58916,
       "fontFamily": "IconPark",
-      "identifier": "messagesOne"
+      "identifier": "messagesOne",
+      "duotone": true
     },
     "micro-sd": {
       "codepoint": 58917,
@@ -8094,12 +8142,14 @@
     "more-three": {
       "codepoint": 58957,
       "fontFamily": "IconPark",
-      "identifier": "moreThree"
+      "identifier": "moreThree",
+      "duotone": true
     },
     "more-two": {
       "codepoint": 58958,
       "fontFamily": "IconPark",
-      "identifier": "moreTwo"
+      "identifier": "moreTwo",
+      "duotone": true
     },
     "mosaic": {
       "codepoint": 58959,
@@ -8274,7 +8324,8 @@
     "mute": {
       "codepoint": 58993,
       "fontFamily": "IconPark",
-      "identifier": "mute"
+      "identifier": "mute",
+      "duotone": true
     },
     "nail-polish": {
       "codepoint": 58994,
@@ -8359,7 +8410,8 @@
     "new-dianziqian": {
       "codepoint": 59010,
       "fontFamily": "IconPark",
-      "identifier": "newDianziqian"
+      "identifier": "newDianziqian",
+      "duotone": true
     },
     "new-efferent": {
       "codepoint": 59011,
@@ -8709,7 +8761,8 @@
     "painted-eggshell": {
       "codepoint": 59080,
       "fontFamily": "IconPark",
-      "identifier": "paintedEggshell"
+      "identifier": "paintedEggshell",
+      "duotone": true
     },
     "painted-screen": {
       "codepoint": 59081,
@@ -9149,7 +9202,8 @@
     "phone-two": {
       "codepoint": 59168,
       "fontFamily": "IconPark",
-      "identifier": "phoneTwo"
+      "identifier": "phoneTwo",
+      "duotone": true
     },
     "phone-video-call": {
       "codepoint": 59169,
@@ -9254,7 +9308,8 @@
     "pill": {
       "codepoint": 59189,
       "fontFamily": "IconPark",
-      "identifier": "pill"
+      "identifier": "pill",
+      "duotone": true
     },
     "pills": {
       "codepoint": 59190,
@@ -9304,12 +9359,14 @@
     "platte": {
       "codepoint": 59199,
       "fontFamily": "IconPark",
-      "identifier": "platte"
+      "identifier": "platte",
+      "duotone": true
     },
     "play": {
       "codepoint": 59200,
       "fontFamily": "IconPark",
-      "identifier": "play"
+      "identifier": "play",
+      "duotone": true
     },
     "play-basketball": {
       "codepoint": 59201,
@@ -9334,7 +9391,8 @@
     "play-two": {
       "codepoint": 59205,
       "fontFamily": "IconPark",
-      "identifier": "playTwo"
+      "identifier": "playTwo",
+      "duotone": true
     },
     "play-volleyball": {
       "codepoint": 59206,
@@ -9494,7 +9552,8 @@
     "preview-open": {
       "codepoint": 59237,
       "fontFamily": "IconPark",
-      "identifier": "previewOpen"
+      "identifier": "previewOpen",
+      "duotone": true
     },
     "printer": {
       "codepoint": 59238,
@@ -9609,7 +9668,8 @@
     "qingniao-clue": {
       "codepoint": 59260,
       "fontFamily": "IconPark",
-      "identifier": "qingniaoClue"
+      "identifier": "qingniaoClue",
+      "duotone": true
     },
     "qiyehao": {
       "codepoint": 59261,
@@ -9664,7 +9724,8 @@
     "radiation": {
       "codepoint": 59271,
       "fontFamily": "IconPark",
-      "identifier": "radiation"
+      "identifier": "radiation",
+      "duotone": true
     },
     "radio": {
       "codepoint": 59272,
@@ -9684,7 +9745,8 @@
     "radio-two": {
       "codepoint": 59275,
       "fontFamily": "IconPark",
-      "identifier": "radioTwo"
+      "identifier": "radioTwo",
+      "duotone": true
     },
     "radish": {
       "codepoint": 59276,
@@ -9819,7 +9881,8 @@
     "red-cross": {
       "codepoint": 59302,
       "fontFamily": "IconPark",
-      "identifier": "redCross"
+      "identifier": "redCross",
+      "duotone": true
     },
     "red-envelope": {
       "codepoint": 59303,
@@ -9854,7 +9917,8 @@
     "reduce-two": {
       "codepoint": 59309,
       "fontFamily": "IconPark",
-      "identifier": "reduceTwo"
+      "identifier": "reduceTwo",
+      "duotone": true
     },
     "reduce-user": {
       "codepoint": 59310,
@@ -10619,7 +10683,8 @@
     "server": {
       "codepoint": 59462,
       "fontFamily": "IconPark",
-      "identifier": "server"
+      "identifier": "server",
+      "duotone": true
     },
     "set-off": {
       "codepoint": 59463,
@@ -10629,7 +10694,8 @@
     "setting": {
       "codepoint": 59464,
       "fontFamily": "IconPark",
-      "identifier": "setting"
+      "identifier": "setting",
+      "duotone": true
     },
     "setting-computer": {
       "codepoint": 59465,
@@ -10649,7 +10715,8 @@
     "setting-one": {
       "codepoint": 59468,
       "fontFamily": "IconPark",
-      "identifier": "settingOne"
+      "identifier": "settingOne",
+      "duotone": true
     },
     "setting-three": {
       "codepoint": 59469,
@@ -10659,7 +10726,8 @@
     "setting-two": {
       "codepoint": 59470,
       "fontFamily": "IconPark",
-      "identifier": "settingTwo"
+      "identifier": "settingTwo",
+      "duotone": true
     },
     "setting-web": {
       "codepoint": 59471,
@@ -10934,7 +11002,8 @@
     "sketch": {
       "codepoint": 59525,
       "fontFamily": "IconPark",
-      "identifier": "sketch"
+      "identifier": "sketch",
+      "duotone": true
     },
     "skiing-nordic": {
       "codepoint": 59526,
@@ -11189,7 +11258,8 @@
     "speaker": {
       "codepoint": 59576,
       "fontFamily": "IconPark",
-      "identifier": "speaker"
+      "identifier": "speaker",
+      "duotone": true
     },
     "speaker-one": {
       "codepoint": 59577,
@@ -11294,7 +11364,8 @@
     "stamp": {
       "codepoint": 59597,
       "fontFamily": "IconPark",
-      "identifier": "stamp"
+      "identifier": "stamp",
+      "duotone": true
     },
     "stand-up": {
       "codepoint": 59598,
@@ -11454,7 +11525,8 @@
     "sun-one": {
       "codepoint": 59629,
       "fontFamily": "IconPark",
-      "identifier": "sunOne"
+      "identifier": "sunOne",
+      "duotone": true
     },
     "sunbath": {
       "codepoint": 59630,
@@ -11549,7 +11621,8 @@
     "switch-button": {
       "codepoint": 59648,
       "fontFamily": "IconPark",
-      "identifier": "switchButton"
+      "identifier": "switchButton",
+      "duotone": true
     },
     "switch-contrast": {
       "codepoint": 59649,
@@ -11644,7 +11717,8 @@
     "tag-one": {
       "codepoint": 59667,
       "fontFamily": "IconPark",
-      "identifier": "tagOne"
+      "identifier": "tagOne",
+      "duotone": true
     },
     "tailoring": {
       "codepoint": 59668,
@@ -12344,7 +12418,8 @@
     "tumblr": {
       "codepoint": 59807,
       "fontFamily": "IconPark",
-      "identifier": "tumblr"
+      "identifier": "tumblr",
+      "duotone": true
     },
     "turkey": {
       "codepoint": 59808,
@@ -12759,7 +12834,8 @@
     "video-one": {
       "codepoint": 59890,
       "fontFamily": "IconPark",
-      "identifier": "videoOne"
+      "identifier": "videoOne",
+      "duotone": true
     },
     "video-two": {
       "codepoint": 59891,
@@ -12784,7 +12860,8 @@
     "view-grid-card": {
       "codepoint": 59895,
       "fontFamily": "IconPark",
-      "identifier": "viewGridCard"
+      "identifier": "viewGridCard",
+      "duotone": true
     },
     "view-grid-detail": {
       "codepoint": 59896,
@@ -12809,7 +12886,8 @@
     "vigo": {
       "codepoint": 59900,
       "fontFamily": "IconPark",
-      "identifier": "vigo"
+      "identifier": "vigo",
+      "duotone": true
     },
     "vip": {
       "codepoint": 59901,
@@ -12899,7 +12977,8 @@
     "vr-glasses": {
       "codepoint": 59918,
       "fontFamily": "IconPark",
-      "identifier": "vrGlasses"
+      "identifier": "vrGlasses",
+      "duotone": true
     },
     "waistline": {
       "codepoint": 59919,
@@ -13034,7 +13113,8 @@
     "webcam": {
       "codepoint": 59945,
       "fontFamily": "IconPark",
-      "identifier": "webcam"
+      "identifier": "webcam",
+      "duotone": true
     },
     "wechat": {
       "codepoint": 59946,
@@ -13254,12 +13334,14 @@
     "xigua": {
       "codepoint": 59989,
       "fontFamily": "IconPark",
-      "identifier": "xigua"
+      "identifier": "xigua",
+      "duotone": true
     },
     "xingfuli": {
       "codepoint": 59990,
       "fontFamily": "IconPark",
-      "identifier": "xingfuli"
+      "identifier": "xingfuli",
+      "duotone": true
     },
     "xingtu": {
       "codepoint": 59991,
@@ -13274,12 +13356,14 @@
     "youtobe": {
       "codepoint": 59993,
       "fontFamily": "IconPark",
-      "identifier": "youtobe"
+      "identifier": "youtobe",
+      "duotone": true
     },
     "youtube": {
       "codepoint": 59994,
       "fontFamily": "IconPark",
-      "identifier": "youtube"
+      "identifier": "youtube",
+      "duotone": true
     },
     "zero-key": {
       "codepoint": 59995,
@@ -13289,7 +13373,8 @@
     "zijinyunying": {
       "codepoint": 59996,
       "fontFamily": "IconPark",
-      "identifier": "zijinyunying"
+      "identifier": "zijinyunying",
+      "duotone": true
     },
     "zip": {
       "codepoint": 59997,

@@ -16,635 +16,2486 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 307
+    "total": 978
   },
   "fonts": [
     {
       "family": "StreamlineFreehandColor",
-      "nextCodepoint": 57651,
-      "iconCount": 307
+      "nextCodepoint": 58322,
+      "iconCount": 978
+    },
+    {
+      "family": "StreamlineFreehandColorSecondary",
+      "nextCodepoint": 58322,
+      "iconCount": 971
     }
   ],
   "icons": {
+    "accessories-remote-shutter": {
+      "codepoint": 57651,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "accessoriesRemoteShutter",
+      "duotone": true
+    },
     "accessories-retro-film-1": {
       "codepoint": 57344,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "accessoriesRetroFilm1"
+      "identifier": "accessoriesRetroFilm1",
+      "duotone": true
+    },
+    "accounting-abacus": {
+      "codepoint": 57652,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "accountingAbacus",
+      "duotone": true
     },
     "accounting-calculator": {
       "codepoint": 57345,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "accountingCalculator"
+      "identifier": "accountingCalculator",
+      "duotone": true
     },
     "accounting-invoice": {
       "codepoint": 57346,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "accountingInvoice"
+      "identifier": "accountingInvoice",
+      "duotone": true
+    },
+    "accounting-invoice-mail": {
+      "codepoint": 57653,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "accountingInvoiceMail",
+      "duotone": true
     },
     "advertising-ad-browser": {
       "codepoint": 57347,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "advertisingAdBrowser"
+      "identifier": "advertisingAdBrowser",
+      "duotone": true
+    },
+    "advertising-money-idea": {
+      "codepoint": 57654,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "advertisingMoneyIdea",
+      "duotone": true
+    },
+    "airplane-mode-rectangle": {
+      "codepoint": 57655,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "airplaneModeRectangle",
+      "duotone": true
+    },
+    "alert-alarm-bell": {
+      "codepoint": 57656,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "alertAlarmBell",
+      "duotone": true
+    },
+    "alert-alarm-clock": {
+      "codepoint": 57657,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "alertAlarmClock",
+      "duotone": true
     },
     "alerts-radioactive-circle": {
       "codepoint": 57348,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "alertsRadioactiveCircle"
+      "identifier": "alertsRadioactiveCircle",
+      "duotone": true
     },
     "alerts-stop-sign": {
       "codepoint": 57349,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "alertsStopSign"
+      "identifier": "alertsStopSign",
+      "duotone": true
+    },
+    "alerts-warning-triangle": {
+      "codepoint": 57658,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "alertsWarningTriangle",
+      "duotone": true
     },
     "allowances-no-bicycles-sign": {
       "codepoint": 57350,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "allowancesNoBicyclesSign"
+      "identifier": "allowancesNoBicyclesSign",
+      "duotone": true
+    },
+    "allowances-no-food-sign": {
+      "codepoint": 57659,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "allowancesNoFoodSign",
+      "duotone": true
     },
     "allowances-no-photos-sign": {
       "codepoint": 57351,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "allowancesNoPhotosSign"
+      "identifier": "allowancesNoPhotosSign",
+      "duotone": true
+    },
+    "allowances-no-smoking": {
+      "codepoint": 57660,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "allowancesNoSmoking",
+      "duotone": true
+    },
+    "allowances-silence": {
+      "codepoint": 57661,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "allowancesSilence",
+      "duotone": true
+    },
+    "allowances-smoking": {
+      "codepoint": 57662,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "allowancesSmoking",
+      "duotone": true
     },
     "amusement-park-castle": {
       "codepoint": 57352,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "amusementParkCastle"
+      "identifier": "amusementParkCastle",
+      "duotone": true
     },
     "amusement-park-ferris-wheel": {
       "codepoint": 57353,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "amusementParkFerrisWheel"
+      "identifier": "amusementParkFerrisWheel",
+      "duotone": true
+    },
+    "amusement-park-strength-meter": {
+      "codepoint": 57663,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "amusementParkStrengthMeter",
+      "duotone": true
+    },
+    "analytics-board-graph-line": {
+      "codepoint": 57664,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "analyticsBoardGraphLine",
+      "duotone": true
+    },
+    "analytics-graph-bar-horizontal": {
+      "codepoint": 57665,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "analyticsGraphBarHorizontal",
+      "duotone": true
     },
     "analytics-graph-line-triple": {
       "codepoint": 57354,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "analyticsGraphLineTriple"
+      "identifier": "analyticsGraphLineTriple",
+      "duotone": true
+    },
+    "analytics-graph-pie": {
+      "codepoint": 57666,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "analyticsGraphPie",
+      "duotone": true
+    },
+    "analytics-graph-stock": {
+      "codepoint": 57667,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "analyticsGraphStock",
+      "duotone": true
+    },
+    "android-logo": {
+      "codepoint": 57668,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "androidLogo",
+      "duotone": true
+    },
+    "android-settings": {
+      "codepoint": 57669,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "androidSettings",
+      "duotone": true
     },
     "app-window-bookmark": {
       "codepoint": 57355,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "appWindowBookmark"
+      "identifier": "appWindowBookmark",
+      "duotone": true
+    },
+    "app-window-expand": {
+      "codepoint": 57670,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "appWindowExpand",
+      "duotone": true
     },
     "app-window-graph": {
       "codepoint": 57356,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "appWindowGraph"
+      "identifier": "appWindowGraph",
+      "duotone": true
     },
     "app-window-layout": {
       "codepoint": 57357,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "appWindowLayout"
+      "identifier": "appWindowLayout",
+      "duotone": true
     },
     "app-window-link": {
       "codepoint": 57358,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "appWindowLink"
+      "identifier": "appWindowLink",
+      "duotone": true
+    },
+    "app-window-search-text": {
+      "codepoint": 57671,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "appWindowSearchText",
+      "duotone": true
+    },
+    "app-window-source-code": {
+      "codepoint": 57672,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "appWindowSourceCode",
+      "duotone": true
     },
     "app-window-two": {
       "codepoint": 57359,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "appWindowTwo"
+      "identifier": "appWindowTwo",
+      "duotone": true
+    },
+    "app-window-user": {
+      "codepoint": 57673,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "appWindowUser",
+      "duotone": true
+    },
+    "app-window-wireless-problem": {
+      "codepoint": 57674,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "appWindowWirelessProblem",
+      "duotone": true
+    },
+    "apps-laptop-shield": {
+      "codepoint": 57675,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "appsLaptopShield",
+      "duotone": true
+    },
+    "apps-monitor-graph-line": {
+      "codepoint": 57676,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "appsMonitorGraphLine",
+      "duotone": true
     },
     "apps-monitor-user": {
       "codepoint": 57360,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "appsMonitorUser"
+      "identifier": "appsMonitorUser",
+      "duotone": true
+    },
+    "archive-box": {
+      "codepoint": 57677,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "archiveBox",
+      "duotone": true
+    },
+    "archive-drawer-1": {
+      "codepoint": 57678,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "archiveDrawer1",
+      "duotone": true
+    },
+    "archive-drawer-2": {
+      "codepoint": 57679,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "archiveDrawer2",
+      "duotone": true
     },
     "arduino-plus-minus-1": {
       "codepoint": 57361,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "arduinoPlusMinus1"
+      "identifier": "arduinoPlusMinus1",
+      "duotone": true
+    },
+    "barcode-view-price": {
+      "codepoint": 57680,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "barcodeViewPrice",
+      "duotone": true
+    },
+    "begging-giving": {
+      "codepoint": 57681,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "beggingGiving",
+      "duotone": true
     },
     "bluetooth-logo": {
       "codepoint": 57362,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "bluetoothLogo"
+      "identifier": "bluetoothLogo",
+      "duotone": true
     },
     "bluetooth-transfer": {
       "codepoint": 57363,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "bluetoothTransfer"
+      "identifier": "bluetoothTransfer",
+      "duotone": true
+    },
+    "board-game-chess-figures": {
+      "codepoint": 57682,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "boardGameChessFigures",
+      "duotone": true
+    },
+    "board-game-dice-pawn": {
+      "codepoint": 57683,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "boardGameDicePawn",
+      "duotone": true
     },
     "book-bookmark": {
       "codepoint": 57364,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "bookBookmark"
+      "identifier": "bookBookmark",
+      "duotone": true
+    },
+    "book-flip-page": {
+      "codepoint": 57684,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "bookFlipPage",
+      "duotone": true
+    },
+    "book-library-shelf-1": {
+      "codepoint": 57685,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "bookLibraryShelf1",
+      "duotone": true
+    },
+    "book-sound-audio": {
+      "codepoint": 57686,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "bookSoundAudio",
+      "duotone": true
+    },
+    "bookmarks-document": {
+      "codepoint": 57687,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "bookmarksDocument",
+      "duotone": true
+    },
+    "broken-smartphone-1": {
+      "codepoint": 57688,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "brokenSmartphone1",
+      "duotone": true
+    },
+    "bug-alert-message": {
+      "codepoint": 57689,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "bugAlertMessage",
+      "duotone": true
     },
     "bug-browser-warning": {
       "codepoint": 57365,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "bugBrowserWarning"
+      "identifier": "bugBrowserWarning",
+      "duotone": true
+    },
+    "bug-cloud-error": {
+      "codepoint": 57690,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "bugCloudError",
+      "duotone": true
+    },
+    "bug-service-chat": {
+      "codepoint": 57691,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "bugServiceChat",
+      "duotone": true
     },
     "business-cash-eye": {
       "codepoint": 57366,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "businessCashEye"
+      "identifier": "businessCashEye",
+      "duotone": true
     },
     "business-cash-idea": {
       "codepoint": 57367,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "businessCashIdea"
+      "identifier": "businessCashIdea",
+      "duotone": true
+    },
+    "business-cash-scale-balance": {
+      "codepoint": 57692,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "businessCashScaleBalance",
+      "duotone": true
+    },
+    "business-cash-search": {
+      "codepoint": 57693,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "businessCashSearch",
+      "duotone": true
+    },
+    "business-coaching-bait-1": {
+      "codepoint": 57694,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "businessCoachingBait1",
+      "duotone": true
+    },
+    "business-coaching-idea-jigsaw": {
+      "codepoint": 57695,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "businessCoachingIdeaJigsaw",
+      "duotone": true
     },
     "business-coaching-strategy-1": {
       "codepoint": 57368,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "businessCoachingStrategy1"
+      "identifier": "businessCoachingStrategy1",
+      "duotone": true
     },
     "business-coaching-whistle": {
       "codepoint": 57369,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "businessCoachingWhistle"
+      "identifier": "businessCoachingWhistle",
+      "duotone": true
     },
     "business-deal-handshake": {
       "codepoint": 57370,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "businessDealHandshake"
+      "identifier": "businessDealHandshake",
+      "duotone": true
+    },
+    "business-deal-men-cash-conversation": {
+      "codepoint": 57696,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "businessDealMenCashConversation",
+      "duotone": true
+    },
+    "business-management-agreement": {
+      "codepoint": 57697,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "businessManagementAgreement",
+      "duotone": true
+    },
+    "business-management-team-up": {
+      "codepoint": 57698,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "businessManagementTeamUp",
+      "duotone": true
+    },
+    "business-management-teamwork-clap": {
+      "codepoint": 57699,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "businessManagementTeamworkClap",
+      "duotone": true
     },
     "business-metaphor-boat-success": {
       "codepoint": 57371,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "businessMetaphorBoatSuccess"
+      "identifier": "businessMetaphorBoatSuccess",
+      "duotone": true
+    },
+    "business-metaphor-burn-money": {
+      "codepoint": 57700,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "businessMetaphorBurnMoney",
+      "duotone": true
+    },
+    "business-metaphor-lucky-cat": {
+      "codepoint": 57701,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "businessMetaphorLuckyCat",
+      "duotone": true
     },
     "business-metaphor-shark": {
       "codepoint": 57372,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "businessMetaphorShark"
+      "identifier": "businessMetaphorShark",
+      "duotone": true
+    },
+    "business-product-supplier-1": {
+      "codepoint": 57702,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "businessProductSupplier1",
+      "duotone": true
+    },
+    "business-product-supplier-2": {
+      "codepoint": 57703,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "businessProductSupplier2",
+      "duotone": true
     },
     "business-workflow-compare": {
       "codepoint": 57373,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "businessWorkflowCompare"
+      "identifier": "businessWorkflowCompare",
+      "duotone": true
+    },
+    "business-workflow-merge-1": {
+      "codepoint": 57704,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "businessWorkflowMerge1",
+      "duotone": true
+    },
+    "business-workflow-merge-2": {
+      "codepoint": 57705,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "businessWorkflowMerge2",
+      "duotone": true
     },
     "business-workflow-project-management": {
       "codepoint": 57374,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "businessWorkflowProjectManagement"
+      "identifier": "businessWorkflowProjectManagement",
+      "duotone": true
+    },
+    "cables-split": {
+      "codepoint": 57706,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cablesSplit",
+      "duotone": true
+    },
+    "cables-usb-1": {
+      "codepoint": 57707,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cablesUsb1",
+      "duotone": true
+    },
+    "cables-usb-type-c": {
+      "codepoint": 57708,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cablesUsbTypeC",
+      "duotone": true
+    },
+    "calculator-calculator-app": {
+      "codepoint": 57709,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "calculatorCalculatorApp",
+      "duotone": true
+    },
+    "calendar-date": {
+      "codepoint": 57710,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "calendarDate",
+      "duotone": true
     },
     "calendar-grid": {
       "codepoint": 57375,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "calendarGrid"
+      "identifier": "calendarGrid",
+      "duotone": true
+    },
+    "camera": {
+      "codepoint": 57711,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "camera",
+      "duotone": true
+    },
+    "camera-double": {
+      "codepoint": 57712,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cameraDouble",
+      "duotone": true
     },
     "camera-mode-photo": {
       "codepoint": 57376,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "cameraModePhoto"
+      "identifier": "cameraModePhoto",
+      "duotone": true
+    },
+    "camera-settings-flip": {
+      "codepoint": 57713,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cameraSettingsFlip",
+      "duotone": true
+    },
+    "camera-settings-hand-motion": {
+      "codepoint": 57714,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cameraSettingsHandMotion",
+      "duotone": true
     },
     "camera-settings-wifi": {
       "codepoint": 57377,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "cameraSettingsWifi"
+      "identifier": "cameraSettingsWifi",
+      "duotone": true
+    },
+    "camera-stabilizer": {
+      "codepoint": 57715,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cameraStabilizer",
+      "duotone": true
+    },
+    "camera-studio": {
+      "codepoint": 57716,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cameraStudio",
+      "duotone": true
+    },
+    "camera-tripod": {
+      "codepoint": 57717,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cameraTripod",
+      "duotone": true
+    },
+    "card-game-card-spade": {
+      "codepoint": 57718,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cardGameCardSpade",
+      "duotone": true
     },
     "card-game-symbols": {
       "codepoint": 57378,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "cardGameSymbols"
+      "identifier": "cardGameSymbols",
+      "duotone": true
+    },
+    "cash-payment-bag-1": {
+      "codepoint": 57719,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cashPaymentBag1",
+      "duotone": true
     },
     "cash-payment-bill": {
       "codepoint": 57379,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "cashPaymentBill"
+      "identifier": "cashPaymentBill",
+      "duotone": true
+    },
+    "cash-payment-coin-1": {
+      "codepoint": 57720,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cashPaymentCoin1",
+      "duotone": true
     },
     "cash-payment-pen-signature": {
       "codepoint": 57380,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "cashPaymentPenSignature"
+      "identifier": "cashPaymentPenSignature",
+      "duotone": true
+    },
+    "cash-payment-sign-2": {
+      "codepoint": 57721,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cashPaymentSign2",
+      "duotone": true
+    },
+    "casino-777-slot-machine": {
+      "codepoint": 57722,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "casino777SlotMachine",
+      "duotone": true
+    },
+    "cd-disc": {
+      "codepoint": 57723,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cdDisc",
+      "duotone": true
+    },
+    "cd-player-disc": {
+      "codepoint": 57724,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cdPlayerDisc",
+      "duotone": true
+    },
+    "cd-rom-burn": {
+      "codepoint": 57725,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cdRomBurn",
+      "duotone": true
+    },
+    "cd-rom-disc-1": {
+      "codepoint": 57726,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cdRomDisc1",
+      "duotone": true
+    },
+    "cd-rom-disc-broken": {
+      "codepoint": 57727,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cdRomDiscBroken",
+      "duotone": true
     },
     "cell-formating-border-horizontal-vertical": {
       "codepoint": 57381,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "cellFormatingBorderHorizontalVertical"
+      "identifier": "cellFormatingBorderHorizontalVertical",
+      "duotone": true
     },
     "cellular-network-lte": {
       "codepoint": 57382,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "cellularNetworkLte"
+      "identifier": "cellularNetworkLte",
+      "duotone": true
+    },
+    "cellular-network-wifi-3g": {
+      "codepoint": 57728,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cellularNetworkWifi3g",
+      "duotone": true
+    },
+    "cellular-network-wifi-4g": {
+      "codepoint": 57729,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cellularNetworkWifi4g",
+      "duotone": true
+    },
+    "cellular-network-wifi-5g": {
+      "codepoint": 57730,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cellularNetworkWifi5g",
+      "duotone": true
     },
     "charging-battery-eco": {
       "codepoint": 57383,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "chargingBatteryEco"
+      "identifier": "chargingBatteryEco",
+      "duotone": true
     },
     "charging-battery-flash-connected": {
       "codepoint": 57384,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "chargingBatteryFlashConnected"
+      "identifier": "chargingBatteryFlashConnected",
+      "duotone": true
+    },
+    "charging-battery-high-1": {
+      "codepoint": 57731,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "chargingBatteryHigh1",
+      "duotone": true
+    },
+    "charging-battery-low-2": {
+      "codepoint": 57732,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "chargingBatteryLow2",
+      "duotone": true
+    },
+    "charging-flash-wave": {
+      "codepoint": 57733,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "chargingFlashWave",
+      "duotone": true
     },
     "charging-flash-wireless": {
       "codepoint": 57385,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "chargingFlashWireless"
+      "identifier": "chargingFlashWireless",
+      "duotone": true
     },
     "check-payment-sign": {
       "codepoint": 57386,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "checkPaymentSign"
+      "identifier": "checkPaymentSign",
+      "duotone": true
     },
     "circus-clown-1": {
       "codepoint": 57387,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "circusClown1"
+      "identifier": "circusClown1",
+      "duotone": true
     },
     "circus-tent": {
       "codepoint": 57388,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "circusTent"
+      "identifier": "circusTent",
+      "duotone": true
+    },
+    "cleaning-man": {
+      "codepoint": 57734,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cleaningMan",
+      "duotone": true
+    },
+    "cleaning-robot-vacuum": {
+      "codepoint": 57735,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cleaningRobotVacuum",
+      "duotone": true
+    },
+    "cleaning-sign": {
+      "codepoint": 57736,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cleaningSign",
+      "duotone": true
     },
     "cloud-check": {
       "codepoint": 57389,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "cloudCheck"
+      "identifier": "cloudCheck",
+      "duotone": true
+    },
+    "cloud-data-transfer": {
+      "codepoint": 57737,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cloudDataTransfer",
+      "duotone": true
     },
     "cloud-disable": {
       "codepoint": 57390,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "cloudDisable"
+      "identifier": "cloudDisable",
+      "duotone": true
+    },
+    "cloud-error-404": {
+      "codepoint": 57738,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cloudError404",
+      "duotone": true
+    },
+    "cloud-gaming-service": {
+      "codepoint": 57739,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cloudGamingService",
+      "duotone": true
+    },
+    "cloud-loading-1": {
+      "codepoint": 57740,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cloudLoading1",
+      "duotone": true
+    },
+    "cloud-lock-1": {
+      "codepoint": 57741,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cloudLock1",
+      "duotone": true
     },
     "cloud-network-1": {
       "codepoint": 57391,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "cloudNetwork1"
+      "identifier": "cloudNetwork1",
+      "duotone": true
+    },
+    "cloud-phone-exchange": {
+      "codepoint": 57742,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cloudPhoneExchange",
+      "duotone": true
+    },
+    "cloud-storage-drive": {
+      "codepoint": 57743,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cloudStorageDrive",
+      "duotone": true
     },
     "code-barcode-scan": {
       "codepoint": 57392,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "codeBarcodeScan"
+      "identifier": "codeBarcodeScan",
+      "duotone": true
     },
     "code-qr": {
       "codepoint": 57393,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "codeQr"
+      "identifier": "codeQr",
+      "duotone": true
     },
     "coding-file-exe-tag": {
       "codepoint": 57394,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "codingFileExeTag"
+      "identifier": "codingFileExeTag",
+      "duotone": true
     },
     "coding-file-iso-tag": {
       "codepoint": 57395,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "codingFileIsoTag"
+      "identifier": "codingFileIsoTag",
+      "duotone": true
     },
     "coding-files-network-folder": {
       "codepoint": 57396,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "codingFilesNetworkFolder"
+      "identifier": "codingFilesNetworkFolder",
+      "duotone": true
+    },
+    "collaboration-meeting-team-file": {
+      "codepoint": 57744,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "collaborationMeetingTeamFile",
+      "duotone": true
+    },
+    "collaboration-team-chat": {
+      "codepoint": 57745,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "collaborationTeamChat",
+      "duotone": true
+    },
+    "color-brush-1": {
+      "codepoint": 57746,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "colorBrush1",
+      "duotone": true
     },
     "color-brush-2": {
       "codepoint": 57397,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "colorBrush2"
+      "identifier": "colorBrush2",
+      "duotone": true
+    },
+    "color-crayon": {
+      "codepoint": 57747,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "colorCrayon",
+      "duotone": true
+    },
+    "color-drop-off": {
+      "codepoint": 57748,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "colorDropOff",
+      "duotone": true
+    },
+    "color-gradient": {
+      "codepoint": 57749,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "colorGradient",
+      "duotone": true
+    },
+    "color-palette": {
+      "codepoint": 57750,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "colorPalette",
+      "duotone": true
+    },
+    "color-palette-sample-2": {
+      "codepoint": 57751,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "colorPaletteSample2",
+      "duotone": true
     },
     "color-picker-drop": {
       "codepoint": 57398,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "colorPickerDrop"
+      "identifier": "colorPickerDrop",
+      "duotone": true
+    },
+    "color-spray": {
+      "codepoint": 57752,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "colorSpray",
+      "duotone": true
+    },
+    "color-triangle": {
+      "codepoint": 57753,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "colorTriangle",
+      "duotone": true
+    },
+    "composition-16-to-9": {
+      "codepoint": 57754,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "composition16To9",
+      "duotone": true
     },
     "composition-man": {
       "codepoint": 57399,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "compositionMan"
+      "identifier": "compositionMan",
+      "duotone": true
+    },
+    "composition-paronama-horizontal": {
+      "codepoint": 57755,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "compositionParonamaHorizontal",
+      "duotone": true
+    },
+    "computer-bug-1": {
+      "codepoint": 57756,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "computerBug1",
+      "duotone": true
+    },
+    "concert-couple-duet-1": {
+      "codepoint": 57757,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "concertCoupleDuet1",
+      "duotone": true
+    },
+    "connect-device-cancel": {
+      "codepoint": 57758,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "connectDeviceCancel",
+      "duotone": true
+    },
+    "connect-device-exchange": {
+      "codepoint": 57759,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "connectDeviceExchange",
+      "duotone": true
+    },
+    "content-browser-edit": {
+      "codepoint": 57760,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "contentBrowserEdit",
+      "duotone": true
+    },
+    "content-brush-pen": {
+      "codepoint": 57761,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "contentBrushPen",
+      "duotone": true
+    },
+    "content-paper-edit": {
+      "codepoint": 57762,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "contentPaperEdit",
+      "duotone": true
     },
     "content-typewriter": {
       "codepoint": 57400,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "contentTypewriter"
+      "identifier": "contentTypewriter",
+      "duotone": true
+    },
+    "content-write": {
+      "codepoint": 57763,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "contentWrite",
+      "duotone": true
+    },
+    "controls-camera-off-1": {
+      "codepoint": 57764,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "controlsCameraOff1",
+      "duotone": true
     },
     "controls-slider-toggle-left": {
       "codepoint": 57401,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "controlsSliderToggleLeft"
+      "identifier": "controlsSliderToggleLeft",
+      "duotone": true
     },
     "controls-slider-toggle-right": {
       "codepoint": 57402,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "controlsSliderToggleRight"
+      "identifier": "controlsSliderToggleRight",
+      "duotone": true
+    },
+    "controls-sliders-vertical": {
+      "codepoint": 57765,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "controlsSlidersVertical",
+      "duotone": true
     },
     "controls-volume-knob": {
       "codepoint": 57403,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "controlsVolumeKnob"
+      "identifier": "controlsVolumeKnob",
+      "duotone": true
+    },
+    "conversation-chat": {
+      "codepoint": 57766,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "conversationChat",
+      "duotone": true
+    },
+    "conversation-question-text-1": {
+      "codepoint": 57767,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "conversationQuestionText1",
+      "duotone": true
+    },
+    "conversation-question-warning-3": {
+      "codepoint": 57768,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "conversationQuestionWarning3",
+      "duotone": true
+    },
+    "copy-paste-clipboard": {
+      "codepoint": 57769,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "copyPasteClipboard",
+      "duotone": true
     },
     "copy-paste-cut-scissors": {
       "codepoint": 57404,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "copyPasteCutScissors"
+      "identifier": "copyPasteCutScissors",
+      "duotone": true
+    },
+    "coupon-cut": {
+      "codepoint": 57770,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "couponCut",
+      "duotone": true
     },
     "coupon-percent": {
       "codepoint": 57405,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "couponPercent"
+      "identifier": "couponPercent",
+      "duotone": true
+    },
+    "creativity-idea-bulb": {
+      "codepoint": 57771,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "creativityIdeaBulb",
+      "duotone": true
+    },
+    "creativity-idea-strategy": {
+      "codepoint": 57772,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "creativityIdeaStrategy",
+      "duotone": true
+    },
+    "credit-card-1": {
+      "codepoint": 57773,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "creditCard1",
+      "duotone": true
     },
     "credit-card-amex": {
       "codepoint": 57406,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "creditCardAmex"
+      "identifier": "creditCardAmex",
+      "duotone": true
+    },
+    "credit-card-dollar": {
+      "codepoint": 57774,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "creditCardDollar",
+      "duotone": true
+    },
+    "credit-card-mastercard": {
+      "codepoint": 57775,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "creditCardMastercard",
+      "duotone": true
+    },
+    "credit-card-payment": {
+      "codepoint": 57776,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "creditCardPayment",
+      "duotone": true
+    },
+    "credit-card-phone-call": {
+      "codepoint": 57777,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "creditCardPhoneCall",
+      "duotone": true
+    },
+    "credit-card-smartphone": {
+      "codepoint": 57778,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "creditCardSmartphone",
+      "duotone": true
+    },
+    "credit-card-visa": {
+      "codepoint": 57779,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "creditCardVisa",
+      "duotone": true
+    },
+    "crm-lead-distribution": {
+      "codepoint": 57780,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "crmLeadDistribution",
+      "duotone": true
+    },
+    "crop-expand": {
+      "codepoint": 57781,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cropExpand",
+      "duotone": true
     },
     "crop-image": {
       "codepoint": 57407,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "cropImage"
+      "identifier": "cropImage",
+      "duotone": true
     },
     "crypto-close-up-group-chat-users-conversation": {
       "codepoint": 57408,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "cryptoCloseUpGroupChatUsersConversation"
+      "identifier": "cryptoCloseUpGroupChatUsersConversation",
+      "duotone": true
     },
     "crypto-currency-bitcoin-chip": {
       "codepoint": 57409,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "cryptoCurrencyBitcoinChip"
+      "identifier": "cryptoCurrencyBitcoinChip",
+      "duotone": true
+    },
+    "crypto-currency-bitcoin-code": {
+      "codepoint": 57782,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cryptoCurrencyBitcoinCode",
+      "duotone": true
     },
     "crypto-currency-bitcoin-give": {
       "codepoint": 57410,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "cryptoCurrencyBitcoinGive"
+      "identifier": "cryptoCurrencyBitcoinGive",
+      "duotone": true
     },
     "crypto-currency-bitcoin-graph-increase": {
       "codepoint": 57411,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "cryptoCurrencyBitcoinGraphIncrease"
+      "identifier": "cryptoCurrencyBitcoinGraphIncrease",
+      "duotone": true
     },
     "crypto-currency-bitcoin-monitor-shield": {
       "codepoint": 57412,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "cryptoCurrencyBitcoinMonitorShield"
+      "identifier": "cryptoCurrencyBitcoinMonitorShield",
+      "duotone": true
+    },
+    "crypto-currency-bitcoin-network-globe": {
+      "codepoint": 57783,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cryptoCurrencyBitcoinNetworkGlobe",
+      "duotone": true
+    },
+    "crypto-currency-litecoin": {
+      "codepoint": 57784,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cryptoCurrencyLitecoin",
+      "duotone": true
+    },
+    "crypto-currency-namecoin": {
+      "codepoint": 57785,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cryptoCurrencyNamecoin",
+      "duotone": true
+    },
+    "crypto-currency-tether": {
+      "codepoint": 57786,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cryptoCurrencyTether",
+      "duotone": true
+    },
+    "crypto-currency-usd-coin": {
+      "codepoint": 57787,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cryptoCurrencyUsdCoin",
+      "duotone": true
+    },
+    "crypto-mining": {
+      "codepoint": 57788,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cryptoMining",
+      "duotone": true
     },
     "currency-bag-bath": {
       "codepoint": 57413,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "currencyBagBath"
+      "identifier": "currencyBagBath",
+      "duotone": true
+    },
+    "currency-bath-increase": {
+      "codepoint": 57789,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "currencyBathIncrease",
+      "duotone": true
     },
     "currency-dollar-bubble": {
       "codepoint": 57414,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "currencyDollarBubble"
+      "identifier": "currencyDollarBubble",
+      "duotone": true
+    },
+    "currency-dollar-chip": {
+      "codepoint": 57790,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "currencyDollarChip",
+      "duotone": true
+    },
+    "currency-dollar-decrease": {
+      "codepoint": 57791,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "currencyDollarDecrease",
+      "duotone": true
+    },
+    "currency-dollar-euro-chat-bubble": {
+      "codepoint": 57792,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "currencyDollarEuroChatBubble",
+      "duotone": true
+    },
+    "currency-euro-bubble": {
+      "codepoint": 57793,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "currencyEuroBubble",
+      "duotone": true
+    },
+    "currency-euro-dollar-exchange": {
+      "codepoint": 57794,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "currencyEuroDollarExchange",
+      "duotone": true
     },
     "currency-international-currency": {
       "codepoint": 57415,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "currencyInternationalCurrency"
+      "identifier": "currencyInternationalCurrency",
+      "duotone": true
+    },
+    "currency-pound-bubble": {
+      "codepoint": 57795,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "currencyPoundBubble",
+      "duotone": true
+    },
+    "currency-yen-bubble": {
+      "codepoint": 57796,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "currencyYenBubble",
+      "duotone": true
+    },
+    "cursor-highlight-click-1": {
+      "codepoint": 57797,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cursorHighlightClick1",
+      "duotone": true
+    },
+    "cursor-speed-1": {
+      "codepoint": 57798,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "cursorSpeed1",
+      "duotone": true
+    },
+    "customer-action-complaint": {
+      "codepoint": 57799,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "customerActionComplaint",
+      "duotone": true
     },
     "customer-action-product-message": {
       "codepoint": 57416,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "customerActionProductMessage"
+      "identifier": "customerActionProductMessage",
+      "duotone": true
+    },
+    "dashboard-browser-gauge": {
+      "codepoint": 57800,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "dashboardBrowserGauge",
+      "duotone": true
+    },
+    "dashboard-layout": {
+      "codepoint": 57801,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "dashboardLayout",
+      "duotone": true
     },
     "data-transfer-diagonal": {
       "codepoint": 57417,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "dataTransferDiagonal"
+      "identifier": "dataTransferDiagonal",
+      "duotone": true
+    },
+    "data-transfer-document-module": {
+      "codepoint": 57802,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "dataTransferDocumentModule",
+      "duotone": true
     },
     "data-transfer-edi-reload": {
       "codepoint": 57418,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "dataTransferEdiReload"
+      "identifier": "dataTransferEdiReload",
+      "duotone": true
     },
     "data-transfer-ftp": {
       "codepoint": 57419,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "dataTransferFtp"
+      "identifier": "dataTransferFtp",
+      "duotone": true
+    },
+    "data-transfer-sync": {
+      "codepoint": 57803,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "dataTransferSync",
+      "duotone": true
     },
     "data-transfer-vertical": {
       "codepoint": 57420,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "dataTransferVertical"
+      "identifier": "dataTransferVertical",
+      "duotone": true
     },
     "database": {
       "codepoint": 57421,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "database"
+      "identifier": "database",
+      "duotone": true
+    },
+    "database-check": {
+      "codepoint": 57804,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "databaseCheck",
+      "duotone": true
+    },
+    "database-connection": {
+      "codepoint": 57805,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "databaseConnection",
+      "duotone": true
+    },
+    "database-hand": {
+      "codepoint": 57806,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "databaseHand",
+      "duotone": true
+    },
+    "database-hierarchy": {
+      "codepoint": 57807,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "databaseHierarchy",
+      "duotone": true
     },
     "database-network-1": {
       "codepoint": 57422,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "databaseNetwork1"
+      "identifier": "databaseNetwork1",
+      "duotone": true
+    },
+    "database-settings": {
+      "codepoint": 57808,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "databaseSettings",
+      "duotone": true
+    },
+    "database-share": {
+      "codepoint": 57809,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "databaseShare",
+      "duotone": true
+    },
+    "delete-bin-2": {
+      "codepoint": 57810,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "deleteBin2",
+      "duotone": true
     },
     "delete-bin-5": {
       "codepoint": 57423,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "deleteBin5"
+      "identifier": "deleteBin5",
+      "duotone": true
     },
     "delete-disable-block-1": {
       "codepoint": 57424,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "deleteDisableBlock1"
+      "identifier": "deleteDisableBlock1",
+      "duotone": true
+    },
+    "delete-skull": {
+      "codepoint": 57811,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "deleteSkull",
+      "duotone": true
+    },
+    "design-process-draw-pen": {
+      "codepoint": 57812,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "designProcessDrawPen",
+      "duotone": true
+    },
+    "design-process-drawing-board": {
+      "codepoint": 57813,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "designProcessDrawingBoard",
+      "duotone": true
+    },
+    "design-process-drawing-board-education": {
+      "codepoint": 57814,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "designProcessDrawingBoardEducation",
+      "duotone": true
+    },
+    "design-process-fibonacci": {
+      "codepoint": 57815,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "designProcessFibonacci",
+      "duotone": true
+    },
+    "design-process-mouse-pen": {
+      "codepoint": 57816,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "designProcessMousePen",
+      "duotone": true
     },
     "design-process-pen-idea": {
       "codepoint": 57425,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "designProcessPenIdea"
+      "identifier": "designProcessPenIdea",
+      "duotone": true
+    },
+    "design-tool-brush-ruler": {
+      "codepoint": 57817,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "designToolBrushRuler",
+      "duotone": true
+    },
+    "design-tool-liquid-glue": {
+      "codepoint": 57818,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "designToolLiquidGlue",
+      "duotone": true
+    },
+    "design-tool-magic-wand": {
+      "codepoint": 57819,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "designToolMagicWand",
+      "duotone": true
+    },
+    "design-tool-pen-brush-cup": {
+      "codepoint": 57820,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "designToolPenBrushCup",
+      "duotone": true
+    },
+    "design-tool-pen-pencil-brush": {
+      "codepoint": 57821,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "designToolPenPencilBrush",
+      "duotone": true
+    },
+    "design-tool-quill": {
+      "codepoint": 57822,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "designToolQuill",
+      "duotone": true
+    },
+    "design-tool-stamp": {
+      "codepoint": 57823,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "designToolStamp",
+      "duotone": true
+    },
+    "desk-computer-base-work-standing-user-1": {
+      "codepoint": 57824,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "deskComputerBaseWorkStandingUser1",
+      "duotone": true
     },
     "desktop-action-monitor-add": {
       "codepoint": 57426,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "desktopActionMonitorAdd"
+      "identifier": "desktopActionMonitorAdd",
+      "duotone": true
+    },
+    "desktop-action-monitor-edit": {
+      "codepoint": 57825,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "desktopActionMonitorEdit",
+      "duotone": true
     },
     "desktop-action-monitor-question": {
       "codepoint": 57427,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "desktopActionMonitorQuestion"
+      "identifier": "desktopActionMonitorQuestion",
+      "duotone": true
     },
     "desktop-action-monitor-remove": {
       "codepoint": 57428,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "desktopActionMonitorRemove"
+      "identifier": "desktopActionMonitorRemove",
+      "duotone": true
+    },
+    "desktop-action-monitor-screen-sleep-2": {
+      "codepoint": 57826,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "desktopActionMonitorScreenSleep2",
+      "duotone": true
     },
     "desktop-computer-pc": {
       "codepoint": 57429,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "desktopComputerPc"
+      "identifier": "desktopComputerPc",
+      "duotone": true
+    },
+    "desktop-monitor": {
+      "codepoint": 57827,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "desktopMonitor",
+      "duotone": true
+    },
+    "digital-player-phone-speaker-1": {
+      "codepoint": 57828,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "digitalPlayerPhoneSpeaker1",
+      "duotone": true
+    },
+    "disability-ad": {
+      "codepoint": 57829,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "disabilityAd",
+      "duotone": true
+    },
+    "disability-blind-read": {
+      "codepoint": 57830,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "disabilityBlindRead",
+      "duotone": true
+    },
+    "disability-braille": {
+      "codepoint": 57831,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "disabilityBraille",
+      "duotone": true
+    },
+    "disability-cane-1": {
+      "codepoint": 57832,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "disabilityCane1",
+      "duotone": true
+    },
+    "disability-down-syndrome-ribbon": {
+      "codepoint": 57833,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "disabilityDownSyndromeRibbon",
+      "duotone": true
+    },
+    "disability-hands-language": {
+      "codepoint": 57834,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "disabilityHandsLanguage",
+      "duotone": true
+    },
+    "disability-hearing-t": {
+      "codepoint": 57835,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "disabilityHearingT",
+      "duotone": true
+    },
+    "disability-partially-blind": {
+      "codepoint": 57836,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "disabilityPartiallyBlind",
+      "duotone": true
+    },
+    "disability-service-dog": {
+      "codepoint": 57837,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "disabilityServiceDog",
+      "duotone": true
     },
     "disability-sit-pregnancy": {
       "codepoint": 57430,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "disabilitySitPregnancy"
+      "identifier": "disabilitySitPregnancy",
+      "duotone": true
+    },
+    "disability-walking-help-1": {
+      "codepoint": 57838,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "disabilityWalkingHelp1",
+      "duotone": true
+    },
+    "disability-wheelchair-3": {
+      "codepoint": 57839,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "disabilityWheelchair3",
+      "duotone": true
+    },
+    "disability-wheelchair-way": {
+      "codepoint": 57840,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "disabilityWheelchairWay",
+      "duotone": true
     },
     "discount-50-percent": {
       "codepoint": 57431,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "discount50Percent"
+      "identifier": "discount50Percent",
+      "duotone": true
+    },
+    "discount-circle-dash": {
+      "codepoint": 57841,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "discountCircleDash",
+      "duotone": true
+    },
+    "discount-percent-bubble": {
+      "codepoint": 57842,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "discountPercentBubble",
+      "duotone": true
     },
     "discount-percent-increase-arrow": {
       "codepoint": 57432,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "discountPercentIncreaseArrow"
+      "identifier": "discountPercentIncreaseArrow",
+      "duotone": true
+    },
+    "discount-percent-thin": {
+      "codepoint": 57843,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "discountPercentThin",
+      "duotone": true
     },
     "discount-point-coin": {
       "codepoint": 57433,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "discountPointCoin"
+      "identifier": "discountPointCoin",
+      "duotone": true
     },
     "discount-sale-sign": {
       "codepoint": 57434,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "discountSaleSign"
+      "identifier": "discountSaleSign",
+      "duotone": true
+    },
+    "donation-charity-donate-bag-2": {
+      "codepoint": 57844,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "donationCharityDonateBag2",
+      "duotone": true
+    },
+    "donation-charity-donate-box": {
+      "codepoint": 57845,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "donationCharityDonateBox",
+      "duotone": true
+    },
+    "donation-charity-donate-heart-flower": {
+      "codepoint": 57846,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "donationCharityDonateHeartFlower",
+      "duotone": true
     },
     "download-brackets": {
       "codepoint": 57435,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "downloadBrackets"
+      "identifier": "downloadBrackets",
+      "duotone": true
+    },
+    "download-harddrive-1": {
+      "codepoint": 57847,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "downloadHarddrive1",
+      "duotone": true
+    },
+    "drawer-download": {
+      "codepoint": 57848,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "drawerDownload",
+      "duotone": true
+    },
+    "drawer-envelope": {
+      "codepoint": 57849,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "drawerEnvelope",
+      "duotone": true
+    },
+    "drawer-image": {
+      "codepoint": 57850,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "drawerImage",
+      "duotone": true
     },
     "e-commerce-add-basket-cloud": {
       "codepoint": 57436,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "eCommerceAddBasketCloud"
+      "identifier": "eCommerceAddBasketCloud",
+      "duotone": true
     },
     "e-commerce-basket-monitor": {
       "codepoint": 57437,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "eCommerceBasketMonitor"
+      "identifier": "eCommerceBasketMonitor",
+      "duotone": true
+    },
+    "e-commerce-cart-laptop": {
+      "codepoint": 57851,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "eCommerceCartLaptop",
+      "duotone": true
+    },
+    "e-commerce-cart-vr": {
+      "codepoint": 57852,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "eCommerceCartVr",
+      "duotone": true
+    },
+    "e-commerce-click-buy": {
+      "codepoint": 57853,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "eCommerceClickBuy",
+      "duotone": true
     },
     "e-commerce-online-shop": {
       "codepoint": 57438,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "eCommerceOnlineShop"
+      "identifier": "eCommerceOnlineShop",
+      "duotone": true
+    },
+    "e-commerce-target-shopping-bag": {
+      "codepoint": 57854,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "eCommerceTargetShoppingBag",
+      "duotone": true
+    },
+    "earpods": {
+      "codepoint": 57855,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "earpods",
+      "duotone": true
+    },
+    "earpods-attention": {
+      "codepoint": 57856,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "earpodsAttention",
+      "duotone": true
+    },
+    "earpods-charge": {
+      "codepoint": 57857,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "earpodsCharge",
+      "duotone": true
+    },
+    "earpods-true-wireless": {
+      "codepoint": 57858,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "earpodsTrueWireless",
+      "duotone": true
+    },
+    "edit-pen-write-paper": {
+      "codepoint": 57859,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "editPenWritePaper",
+      "duotone": true
+    },
+    "edit-pencil": {
+      "codepoint": 57860,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "editPencil",
+      "duotone": true
     },
     "edit-quill-feather-1": {
       "codepoint": 57439,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "editQuillFeather1"
+      "identifier": "editQuillFeather1",
+      "duotone": true
+    },
+    "email-action-delete-junk-1": {
+      "codepoint": 57861,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "emailActionDeleteJunk1",
+      "duotone": true
+    },
+    "email-action-download": {
+      "codepoint": 57862,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "emailActionDownload",
+      "duotone": true
+    },
+    "email-action-image": {
+      "codepoint": 57863,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "emailActionImage",
+      "duotone": true
+    },
+    "email-action-remove": {
+      "codepoint": 57864,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "emailActionRemove",
+      "duotone": true
+    },
+    "email-action-reply-1": {
+      "codepoint": 57865,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "emailActionReply1",
+      "duotone": true
+    },
+    "email-action-search": {
+      "codepoint": 57866,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "emailActionSearch",
+      "duotone": true
+    },
+    "email-action-sync-1": {
+      "codepoint": 57867,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "emailActionSync1",
+      "duotone": true
+    },
+    "email-action-warning": {
+      "codepoint": 57868,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "emailActionWarning",
+      "duotone": true
     },
     "emoji-hand-cheers": {
       "codepoint": 57440,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "emojiHandCheers"
+      "identifier": "emojiHandCheers",
+      "duotone": true
+    },
+    "envelope-letter-front": {
+      "codepoint": 57869,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "envelopeLetterFront",
+      "duotone": true
+    },
+    "envelope-paper-document": {
+      "codepoint": 57870,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "envelopePaperDocument",
+      "duotone": true
     },
     "envelope-pigeon": {
       "codepoint": 57441,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "envelopePigeon"
+      "identifier": "envelopePigeon",
+      "duotone": true
     },
     "equalizer-bar-graph": {
       "codepoint": 57442,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "equalizerBarGraph"
+      "identifier": "equalizerBarGraph",
+      "duotone": true
+    },
+    "equalizer-phone-application-2": {
+      "codepoint": 57871,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "equalizerPhoneApplication2",
+      "duotone": true
+    },
+    "equalizer-stereo-play": {
+      "codepoint": 57872,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "equalizerStereoPlay",
+      "duotone": true
+    },
+    "equalizer-volume-graph": {
+      "codepoint": 57873,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "equalizerVolumeGraph",
+      "duotone": true
+    },
+    "escalator-ascend-person": {
+      "codepoint": 57874,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "escalatorAscendPerson",
+      "duotone": true
+    },
+    "escalator-descend-person": {
+      "codepoint": 57875,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "escalatorDescendPerson",
+      "duotone": true
+    },
+    "expand-smartphone": {
+      "codepoint": 57876,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "expandSmartphone",
+      "duotone": true
+    },
+    "face-id-male-1": {
+      "codepoint": 57877,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "faceIdMale1",
+      "duotone": true
+    },
+    "face-id-square": {
+      "codepoint": 57878,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "faceIdSquare",
+      "duotone": true
     },
     "face-id-user": {
       "codepoint": 57443,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "faceIdUser"
+      "identifier": "faceIdUser",
+      "duotone": true
+    },
+    "family-baby-change-diaper": {
+      "codepoint": 57879,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "familyBabyChangeDiaper",
+      "duotone": true
     },
     "family-child-play-ball-sign": {
       "codepoint": 57444,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "familyChildPlayBallSign"
+      "identifier": "familyChildPlayBallSign",
+      "duotone": true
     },
     "famous-character-pokemon": {
       "codepoint": 57445,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "famousCharacterPokemon"
+      "identifier": "famousCharacterPokemon",
+      "duotone": true
     },
     "famous-character-starwars-r2d2": {
       "codepoint": 57446,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "famousCharacterStarwarsR2d2"
+      "identifier": "famousCharacterStarwarsR2d2",
+      "duotone": true
+    },
+    "fax-machine-paper-print": {
+      "codepoint": 57880,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "faxMachinePaperPrint",
+      "duotone": true
+    },
+    "file-code": {
+      "codepoint": 57881,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "fileCode",
+      "duotone": true
+    },
+    "file-code-2": {
+      "codepoint": 57882,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "fileCode2",
+      "duotone": true
+    },
+    "file-code-apk": {
+      "codepoint": 57883,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "fileCodeApk",
+      "duotone": true
+    },
+    "file-code-c-plus-plus": {
+      "codepoint": 57884,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "fileCodeCPlusPlus",
+      "duotone": true
+    },
+    "file-code-css": {
+      "codepoint": 57885,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "fileCodeCss",
+      "duotone": true
+    },
+    "file-code-html": {
+      "codepoint": 57886,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "fileCodeHtml",
+      "duotone": true
+    },
+    "file-code-java": {
+      "codepoint": 57887,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "fileCodeJava",
+      "duotone": true
+    },
+    "file-code-js-javascript": {
+      "codepoint": 57888,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "fileCodeJsJavascript",
+      "duotone": true
+    },
+    "file-code-share-1": {
+      "codepoint": 57889,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "fileCodeShare1",
+      "duotone": true
+    },
+    "file-code-warning-1": {
+      "codepoint": 57890,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "fileCodeWarning1",
+      "duotone": true
+    },
+    "filter": {
+      "codepoint": 57891,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "filter",
+      "duotone": true
+    },
+    "fireworks-2": {
+      "codepoint": 57892,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "fireworks2",
+      "duotone": true
     },
     "flip-reflect-up": {
       "codepoint": 57447,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "flipReflectUp"
+      "identifier": "flipReflectUp",
+      "duotone": true
     },
     "flip-right": {
       "codepoint": 57448,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "flipRight"
+      "identifier": "flipRight",
+      "duotone": true
+    },
+    "flip-rotate-clockwise": {
+      "codepoint": 57893,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "flipRotateClockwise",
+      "duotone": true
     },
     "flip-up": {
       "codepoint": 57449,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "flipUp"
+      "identifier": "flipUp",
+      "duotone": true
     },
     "floppy-disk": {
       "codepoint": 57450,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "floppyDisk"
+      "identifier": "floppyDisk",
+      "duotone": true
+    },
+    "focus-camera-auto": {
+      "codepoint": 57894,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "focusCameraAuto",
+      "duotone": true
     },
     "focus-cross": {
       "codepoint": 57451,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "focusCross"
+      "identifier": "focusCross",
+      "duotone": true
+    },
+    "focus-frame-target-1": {
+      "codepoint": 57895,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "focusFrameTarget1",
+      "duotone": true
     },
     "focus-motion": {
       "codepoint": 57452,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "focusMotion"
+      "identifier": "focusMotion",
+      "duotone": true
+    },
+    "form-edition-clipboard": {
+      "codepoint": 57896,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "formEditionClipboard",
+      "duotone": true
+    },
+    "form-edition-clipboard-check": {
+      "codepoint": 57897,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "formEditionClipboardCheck",
+      "duotone": true
+    },
+    "form-edition-clipboard-write": {
+      "codepoint": 57898,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "formEditionClipboardWrite",
+      "duotone": true
     },
     "form-edition-file-attach": {
       "codepoint": 57453,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "formEditionFileAttach"
+      "identifier": "formEditionFileAttach",
+      "duotone": true
+    },
+    "form-edition-image-attach": {
+      "codepoint": 57899,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "formEditionImageAttach",
+      "duotone": true
+    },
+    "form-edition-number-1": {
+      "codepoint": 57900,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "formEditionNumber1",
+      "duotone": true
     },
     "form-edition-text-2": {
       "codepoint": 57454,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "formEditionText2"
+      "identifier": "formEditionText2",
+      "duotone": true
+    },
+    "form-validation-check-double": {
+      "codepoint": 57901,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "formValidationCheckDouble",
+      "duotone": true
     },
     "form-validation-check-square-1": {
       "codepoint": 57455,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "formValidationCheckSquare1"
+      "identifier": "formValidationCheckSquare1",
+      "duotone": true
+    },
+    "form-validation-cursor-choose": {
+      "codepoint": 57902,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "formValidationCursorChoose",
+      "duotone": true
     },
     "form-validation-remove-square": {
       "codepoint": 57456,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "formValidationRemoveSquare"
+      "identifier": "formValidationRemoveSquare",
+      "duotone": true
     },
     "garbage-throw": {
       "codepoint": 57457,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "garbageThrow"
+      "identifier": "garbageThrow",
+      "duotone": true
+    },
+    "gesture-double-tap": {
+      "codepoint": 57903,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "gestureDoubleTap",
+      "duotone": true
     },
     "gesture-swipe-two-fingers-horizontal": {
       "codepoint": 57458,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "gestureSwipeTwoFingersHorizontal"
+      "identifier": "gestureSwipeTwoFingersHorizontal",
+      "duotone": true
+    },
+    "gesture-zoom-in": {
+      "codepoint": 57904,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "gestureZoomIn",
+      "duotone": true
+    },
+    "gps-location-rectangle": {
+      "codepoint": 57905,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "gpsLocationRectangle",
+      "duotone": true
+    },
+    "graphic-tablet-draw-1": {
+      "codepoint": 57906,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "graphicTabletDraw1",
+      "duotone": true
+    },
+    "graphic-tablet-intous-draw": {
+      "codepoint": 57907,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "graphicTabletIntousDraw",
+      "duotone": true
+    },
+    "grid-corner-ruler": {
+      "codepoint": 57908,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "gridCornerRuler",
+      "duotone": true
+    },
+    "grid-monitor": {
+      "codepoint": 57909,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "gridMonitor",
+      "duotone": true
+    },
+    "grid-ruler": {
+      "codepoint": 57910,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "gridRuler",
+      "duotone": true
+    },
+    "grid-snap-magnet": {
+      "codepoint": 57911,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "gridSnapMagnet",
+      "duotone": true
+    },
+    "hard-drive-exertnal-1": {
+      "codepoint": 57912,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "hardDriveExertnal1",
+      "duotone": true
+    },
+    "hard-drive-warning": {
+      "codepoint": 57913,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "hardDriveWarning",
+      "duotone": true
     },
     "headphones-1": {
       "codepoint": 57459,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "headphones1"
+      "identifier": "headphones1",
+      "duotone": true
     },
     "headphones-cable": {
       "codepoint": 57460,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "headphonesCable"
+      "identifier": "headphonesCable",
+      "duotone": true
+    },
+    "headphones-human": {
+      "codepoint": 57914,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "headphonesHuman",
+      "duotone": true
+    },
+    "help-headphones-customer-support": {
+      "codepoint": 57915,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "helpHeadphonesCustomerSupport",
+      "duotone": true
     },
     "help-headphones-customer-support-human": {
       "codepoint": 57461,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "helpHeadphonesCustomerSupportHuman"
+      "identifier": "helpHeadphonesCustomerSupportHuman",
+      "duotone": true
+    },
+    "help-question-circle": {
+      "codepoint": 57916,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "helpQuestionCircle",
+      "duotone": true
+    },
+    "hierarchy": {
+      "codepoint": 57917,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "hierarchy",
+      "duotone": true
     },
     "hierarchy-web": {
       "codepoint": 57462,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "hierarchyWeb"
+      "identifier": "hierarchyWeb",
+      "duotone": true
+    },
+    "home": {
+      "codepoint": 57918,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "home",
+      "duotone": true
+    },
+    "home-chimney-2": {
+      "codepoint": 57919,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "homeChimney2",
+      "duotone": true
+    },
+    "home-to-cloud-sync": {
+      "codepoint": 57920,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "homeToCloudSync",
+      "duotone": true
     },
     "human-resources-businessman": {
       "codepoint": 57463,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "humanResourcesBusinessman"
+      "identifier": "humanResourcesBusinessman",
+      "duotone": true
     },
     "human-resources-employee-crown-woman": {
       "codepoint": 57464,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "humanResourcesEmployeeCrownWoman"
+      "identifier": "humanResourcesEmployeeCrownWoman",
+      "duotone": true
+    },
+    "human-resources-hierarchy": {
+      "codepoint": 57921,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "humanResourcesHierarchy",
+      "duotone": true
+    },
+    "human-resources-rating-man": {
+      "codepoint": 57922,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "humanResourcesRatingMan",
+      "duotone": true
+    },
+    "image-file-dollar": {
+      "codepoint": 57923,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "imageFileDollar",
+      "duotone": true
+    },
+    "image-file-edit": {
+      "codepoint": 57924,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "imageFileEdit",
+      "duotone": true
+    },
+    "image-file-favorite-heart": {
+      "codepoint": 57925,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "imageFileFavoriteHeart",
+      "duotone": true
+    },
+    "image-file-search": {
+      "codepoint": 57926,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "imageFileSearch",
+      "duotone": true
+    },
+    "information-desk": {
+      "codepoint": 57927,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "informationDesk",
+      "duotone": true
     },
     "instrument-accordian": {
       "codepoint": 57465,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "instrumentAccordian"
+      "identifier": "instrumentAccordian",
+      "duotone": true
+    },
+    "instrument-electronic-keyboard": {
+      "codepoint": 57928,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "instrumentElectronicKeyboard",
+      "duotone": true
+    },
+    "instrument-saxophone": {
+      "codepoint": 57929,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "instrumentSaxophone",
+      "duotone": true
+    },
+    "ipod-player": {
+      "codepoint": 57930,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "ipodPlayer",
+      "duotone": true
+    },
+    "ipod-player-2": {
+      "codepoint": 57931,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "ipodPlayer2",
+      "duotone": true
+    },
+    "iris-scan-target": {
+      "codepoint": 57932,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "irisScanTarget",
+      "duotone": true
+    },
+    "job-briefcase-document": {
+      "codepoint": 57933,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "jobBriefcaseDocument",
+      "duotone": true
+    },
+    "job-candidate-target-1": {
+      "codepoint": 57934,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "jobCandidateTarget1",
+      "duotone": true
+    },
+    "job-choose-candidate": {
+      "codepoint": 57935,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "jobChooseCandidate",
+      "duotone": true
+    },
+    "job-profile-search": {
+      "codepoint": 57936,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "jobProfileSearch",
+      "duotone": true
+    },
+    "job-seach-man": {
+      "codepoint": 57937,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "jobSeachMan",
+      "duotone": true
     },
     "job-search-magnifier-briefcase": {
       "codepoint": 57466,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "jobSearchMagnifierBriefcase"
+      "identifier": "jobSearchMagnifierBriefcase",
+      "duotone": true
     },
     "keyboard": {
       "codepoint": 57467,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "keyboard"
+      "identifier": "keyboard",
+      "duotone": true
     },
     "keyboard-arrow-return": {
       "codepoint": 57468,
@@ -654,82 +2505,260 @@
     "keyboard-delete-button": {
       "codepoint": 57469,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "keyboardDeleteButton"
+      "identifier": "keyboardDeleteButton",
+      "duotone": true
+    },
+    "keyboard-eject-button": {
+      "codepoint": 57938,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "keyboardEjectButton",
+      "duotone": true
+    },
+    "keyboard-id-dial-finger": {
+      "codepoint": 57939,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "keyboardIdDialFinger",
+      "duotone": true
     },
     "keyboard-keypad-pull-down": {
       "codepoint": 57470,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "keyboardKeypadPullDown"
+      "identifier": "keyboardKeypadPullDown",
+      "duotone": true
+    },
+    "keyboard-wireless": {
+      "codepoint": 57940,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "keyboardWireless",
+      "duotone": true
+    },
+    "kindle-read-document-hold": {
+      "codepoint": 57941,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "kindleReadDocumentHold",
+      "duotone": true
     },
     "laptop-action-flash": {
       "codepoint": 57471,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "laptopActionFlash"
+      "identifier": "laptopActionFlash",
+      "duotone": true
     },
     "laptop-action-lock": {
       "codepoint": 57472,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "laptopActionLock"
+      "identifier": "laptopActionLock",
+      "duotone": true
     },
     "laptop-action-search": {
       "codepoint": 57473,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "laptopActionSearch"
+      "identifier": "laptopActionSearch",
+      "duotone": true
+    },
+    "laptop-action-warning": {
+      "codepoint": 57942,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "laptopActionWarning",
+      "duotone": true
+    },
+    "laptop-computer-1": {
+      "codepoint": 57943,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "laptopComputer1",
+      "duotone": true
+    },
+    "laptop-computer-smiley": {
+      "codepoint": 57944,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "laptopComputerSmiley",
+      "duotone": true
+    },
+    "laundry-hand-wash": {
+      "codepoint": 57945,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "laundryHandWash",
+      "duotone": true
+    },
+    "laundry-washing-machine": {
+      "codepoint": 57946,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "laundryWashingMachine",
+      "duotone": true
+    },
+    "layers-bring-backward": {
+      "codepoint": 57947,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "layersBringBackward",
+      "duotone": true
+    },
+    "layers-off": {
+      "codepoint": 57948,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "layersOff",
+      "duotone": true
+    },
+    "layers-stacked-1": {
+      "codepoint": 57949,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "layersStacked1",
+      "duotone": true
     },
     "layouts-array-1": {
       "codepoint": 57474,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "layoutsArray1"
+      "identifier": "layoutsArray1",
+      "duotone": true
+    },
+    "layouts-content": {
+      "codepoint": 57950,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "layoutsContent",
+      "duotone": true
     },
     "learning-programming-book": {
       "codepoint": 57475,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "learningProgrammingBook"
+      "identifier": "learningProgrammingBook",
+      "duotone": true
+    },
+    "learning-programming-flag": {
+      "codepoint": 57951,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "learningProgrammingFlag",
+      "duotone": true
+    },
+    "lens-horizontal": {
+      "codepoint": 57952,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "lensHorizontal",
+      "duotone": true
+    },
+    "lens-shutter-1": {
+      "codepoint": 57953,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "lensShutter1",
+      "duotone": true
     },
     "lift-two-people-elevator": {
       "codepoint": 57476,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "liftTwoPeopleElevator"
+      "identifier": "liftTwoPeopleElevator",
+      "duotone": true
     },
     "light-mode-brightness-half": {
       "codepoint": 57477,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "lightModeBrightnessHalf"
+      "identifier": "lightModeBrightnessHalf",
+      "duotone": true
+    },
+    "light-mode-dark-light": {
+      "codepoint": 57954,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "lightModeDarkLight",
+      "duotone": true
+    },
+    "light-mode-flash-auto": {
+      "codepoint": 57955,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "lightModeFlashAuto",
+      "duotone": true
     },
     "light-mode-hdr": {
       "codepoint": 57478,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "lightModeHdr"
+      "identifier": "lightModeHdr",
+      "duotone": true
+    },
+    "light-mode-night-architecture": {
+      "codepoint": 57956,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "lightModeNightArchitecture",
+      "duotone": true
     },
     "light-spotlight-1": {
       "codepoint": 57479,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "lightSpotlight1"
+      "identifier": "lightSpotlight1",
+      "duotone": true
     },
     "light-umbrella-reflect": {
       "codepoint": 57480,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "lightUmbrellaReflect"
+      "identifier": "lightUmbrellaReflect",
+      "duotone": true
+    },
+    "link-paperclip": {
+      "codepoint": 57957,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "linkPaperclip",
+      "duotone": true
     },
     "lists-bullets": {
       "codepoint": 57481,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "listsBullets"
+      "identifier": "listsBullets",
+      "duotone": true
+    },
+    "lists-numbers": {
+      "codepoint": 57958,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "listsNumbers",
+      "duotone": true
     },
     "loading-browser-bar": {
       "codepoint": 57482,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "loadingBrowserBar"
+      "identifier": "loadingBrowserBar",
+      "duotone": true
     },
     "loading-spinning-star": {
       "codepoint": 57483,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "loadingSpinningStar"
+      "identifier": "loadingSpinningStar",
+      "duotone": true
+    },
+    "lock-cancel-slash": {
+      "codepoint": 57959,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "lockCancelSlash",
+      "duotone": true
+    },
+    "lock-circle": {
+      "codepoint": 57960,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "lockCircle",
+      "duotone": true
+    },
+    "lock-key-1": {
+      "codepoint": 57961,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "lockKey1",
+      "duotone": true
     },
     "lock-network": {
       "codepoint": 57484,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "lockNetwork"
+      "identifier": "lockNetwork",
+      "duotone": true
+    },
+    "locker-room-hanger-woman": {
+      "codepoint": 57962,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "lockerRoomHangerWoman",
+      "duotone": true
+    },
+    "locker-room-suitcase-umbrella": {
+      "codepoint": 57963,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "lockerRoomSuitcaseUmbrella",
+      "duotone": true
+    },
+    "locker-room-wash-hands": {
+      "codepoint": 57964,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "lockerRoomWashHands",
+      "duotone": true
     },
     "login-logout-key": {
       "codepoint": 57485,
@@ -739,407 +2768,1553 @@
     "login-rectangle": {
       "codepoint": 57486,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "loginRectangle"
+      "identifier": "loginRectangle",
+      "duotone": true
+    },
+    "mailbox-full-1": {
+      "codepoint": 57965,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "mailboxFull1",
+      "duotone": true
     },
     "mailbox-post-1": {
       "codepoint": 57487,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "mailboxPost1"
+      "identifier": "mailboxPost1",
+      "duotone": true
     },
     "mask-diamond": {
       "codepoint": 57488,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "maskDiamond"
+      "identifier": "maskDiamond",
+      "duotone": true
+    },
+    "media-protection-shield-1": {
+      "codepoint": 57966,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "mediaProtectionShield1",
+      "duotone": true
+    },
+    "meeting-co-working-2": {
+      "codepoint": 57967,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "meetingCoWorking2",
+      "duotone": true
+    },
+    "meeting-presentation": {
+      "codepoint": 57968,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "meetingPresentation",
+      "duotone": true
+    },
+    "meeting-user-man-stress": {
+      "codepoint": 57969,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "meetingUserManStress",
+      "duotone": true
+    },
+    "memory-computer-ram": {
+      "codepoint": 57970,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "memoryComputerRam",
+      "duotone": true
+    },
+    "memory-flash-drive": {
+      "codepoint": 57971,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "memoryFlashDrive",
+      "duotone": true
+    },
+    "memory-sd-card": {
+      "codepoint": 57972,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "memorySdCard",
+      "duotone": true
+    },
+    "memory-sd-card-check": {
+      "codepoint": 57973,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "memorySdCardCheck",
+      "duotone": true
     },
     "memory-sd-card-search": {
       "codepoint": 57489,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "memorySdCardSearch"
+      "identifier": "memorySdCardSearch",
+      "duotone": true
+    },
+    "memory-sd-card-settings": {
+      "codepoint": 57974,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "memorySdCardSettings",
+      "duotone": true
+    },
+    "memory-sd-card-sync": {
+      "codepoint": 57975,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "memorySdCardSync",
+      "duotone": true
     },
     "menu-navigation-2": {
       "codepoint": 57490,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "menuNavigation2"
+      "identifier": "menuNavigation2",
+      "duotone": true
     },
     "menu-navigation-horizontal": {
       "codepoint": 57491,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "menuNavigationHorizontal"
+      "identifier": "menuNavigationHorizontal",
+      "duotone": true
+    },
+    "messages-bubble-image": {
+      "codepoint": 57976,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "messagesBubbleImage",
+      "duotone": true
+    },
+    "messages-bubble-menu": {
+      "codepoint": 57977,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "messagesBubbleMenu",
+      "duotone": true
+    },
+    "messages-bubble-settings": {
+      "codepoint": 57978,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "messagesBubbleSettings",
+      "duotone": true
+    },
+    "messages-bubble-smile": {
+      "codepoint": 57979,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "messagesBubbleSmile",
+      "duotone": true
+    },
+    "messages-bubble-sms-block-1": {
+      "codepoint": 57980,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "messagesBubbleSmsBlock1",
+      "duotone": true
+    },
+    "messages-bubble-square-graph": {
+      "codepoint": 57981,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "messagesBubbleSquareGraph",
+      "duotone": true
+    },
+    "messages-bubble-square-lock": {
+      "codepoint": 57982,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "messagesBubbleSquareLock",
+      "duotone": true
+    },
+    "messages-bubble-square-search": {
+      "codepoint": 57983,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "messagesBubbleSquareSearch",
+      "duotone": true
+    },
+    "messages-bubble-square-settings": {
+      "codepoint": 57984,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "messagesBubbleSquareSettings",
+      "duotone": true
+    },
+    "messages-bubble-square-text": {
+      "codepoint": 57985,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "messagesBubbleSquareText",
+      "duotone": true
+    },
+    "messages-people-person-bubble-square-2": {
+      "codepoint": 57986,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "messagesPeoplePersonBubbleSquare2",
+      "duotone": true
+    },
+    "messages-people-user-bubble": {
+      "codepoint": 57987,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "messagesPeopleUserBubble",
+      "duotone": true
+    },
+    "messages-people-woman-heart": {
+      "codepoint": 57988,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "messagesPeopleWomanHeart",
+      "duotone": true
     },
     "microphone": {
       "codepoint": 57492,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "microphone"
+      "identifier": "microphone",
+      "duotone": true
+    },
+    "microphone-karaoke-1": {
+      "codepoint": 57989,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "microphoneKaraoke1",
+      "duotone": true
+    },
+    "microphone-off": {
+      "codepoint": 57990,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "microphoneOff",
+      "duotone": true
+    },
+    "microprocessor-computer-chip-32-bit": {
+      "codepoint": 57991,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "microprocessorComputerChip32Bit",
+      "duotone": true
+    },
+    "microprocessor-computer-chip-64-bit": {
+      "codepoint": 57992,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "microprocessorComputerChip64Bit",
+      "duotone": true
     },
     "microprocessor-computer-chip-flash": {
       "codepoint": 57493,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "microprocessorComputerChipFlash"
+      "identifier": "microprocessorComputerChipFlash",
+      "duotone": true
+    },
+    "microprocessor-computer-chip-overheat": {
+      "codepoint": 57993,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "microprocessorComputerChipOverheat",
+      "duotone": true
+    },
+    "microprocessor-computer-chip-processor": {
+      "codepoint": 57994,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "microprocessorComputerChipProcessor",
+      "duotone": true
+    },
+    "microprocessor-computer-chip-search": {
+      "codepoint": 57995,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "microprocessorComputerChipSearch",
+      "duotone": true
+    },
+    "mobile-phone-blackberry-2": {
+      "codepoint": 57996,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "mobilePhoneBlackberry2",
+      "duotone": true
     },
     "mobile-phone-hand-hold": {
       "codepoint": 57494,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "mobilePhoneHandHold"
+      "identifier": "mobilePhoneHandHold",
+      "duotone": true
+    },
+    "mobile-phone-smartphone": {
+      "codepoint": 57997,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "mobilePhoneSmartphone",
+      "duotone": true
     },
     "mobile-phone-write": {
       "codepoint": 57495,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "mobilePhoneWrite"
+      "identifier": "mobilePhoneWrite",
+      "duotone": true
     },
     "mobile-shopping-cart": {
       "codepoint": 57496,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "mobileShoppingCart"
+      "identifier": "mobileShoppingCart",
+      "duotone": true
+    },
+    "mobile-shopping-shop-basket": {
+      "codepoint": 57998,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "mobileShoppingShopBasket",
+      "duotone": true
     },
     "mobilephone-action-blutooth": {
       "codepoint": 57497,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "mobilephoneActionBlutooth"
+      "identifier": "mobilephoneActionBlutooth",
+      "duotone": true
     },
     "mobilephone-action-camera": {
       "codepoint": 57498,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "mobilephoneActionCamera"
+      "identifier": "mobilephoneActionCamera",
+      "duotone": true
     },
     "mobilephone-action-cash": {
       "codepoint": 57499,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "mobilephoneActionCash"
+      "identifier": "mobilephoneActionCash",
+      "duotone": true
+    },
+    "mobilephone-action-location-lock": {
+      "codepoint": 57999,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "mobilephoneActionLocationLock",
+      "duotone": true
+    },
+    "mobilephone-action-lock": {
+      "codepoint": 58000,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "mobilephoneActionLock",
+      "duotone": true
     },
     "mobilephone-action-navigation-map": {
       "codepoint": 57500,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "mobilephoneActionNavigationMap"
+      "identifier": "mobilephoneActionNavigationMap",
+      "duotone": true
+    },
+    "mobilephone-action-notification-allowed": {
+      "codepoint": 58001,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "mobilephoneActionNotificationAllowed",
+      "duotone": true
     },
     "mobilephone-action-otp-message-1": {
       "codepoint": 57501,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "mobilephoneActionOtpMessage1"
+      "identifier": "mobilephoneActionOtpMessage1",
+      "duotone": true
     },
     "mobilephone-action-settings": {
       "codepoint": 57502,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "mobilephoneActionSettings"
+      "identifier": "mobilephoneActionSettings",
+      "duotone": true
+    },
+    "mobilephone-action-voice-approved": {
+      "codepoint": 58002,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "mobilephoneActionVoiceApproved",
+      "duotone": true
+    },
+    "modern-camera-go-pro": {
+      "codepoint": 58003,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "modernCameraGoPro",
+      "duotone": true
+    },
+    "modern-music-bass-guitar": {
+      "codepoint": 58004,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "modernMusicBassGuitar",
+      "duotone": true
+    },
+    "modern-music-dj": {
+      "codepoint": 58005,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "modernMusicDj",
+      "duotone": true
     },
     "modern-music-drums": {
       "codepoint": 57503,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "modernMusicDrums"
+      "identifier": "modernMusicDrums",
+      "duotone": true
+    },
+    "modern-music-mix-touch": {
+      "codepoint": 58006,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "modernMusicMixTouch",
+      "duotone": true
     },
     "modern-payment-contactless": {
       "codepoint": 57504,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "modernPaymentContactless"
+      "identifier": "modernPaymentContactless",
+      "duotone": true
+    },
+    "modern-payment-desktop-transaction": {
+      "codepoint": 58007,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "modernPaymentDesktopTransaction",
+      "duotone": true
+    },
+    "modern-payment-e-wallet": {
+      "codepoint": 58008,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "modernPaymentEWallet",
+      "duotone": true
+    },
+    "modern-payment-qr-basket": {
+      "codepoint": 58009,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "modernPaymentQrBasket",
+      "duotone": true
+    },
+    "modern-payment-self-checkout-touch": {
+      "codepoint": 58010,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "modernPaymentSelfCheckoutTouch",
+      "duotone": true
+    },
+    "modern-payment-wireless-smartphone": {
+      "codepoint": 58011,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "modernPaymentWirelessSmartphone",
+      "duotone": true
+    },
+    "module-building-blocks": {
+      "codepoint": 58012,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "moduleBuildingBlocks",
+      "duotone": true
     },
     "module-three-boxes": {
       "codepoint": 57505,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "moduleThreeBoxes"
+      "identifier": "moduleThreeBoxes",
+      "duotone": true
+    },
+    "monetization-bill-magnet": {
+      "codepoint": 58013,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "monetizationBillMagnet",
+      "duotone": true
+    },
+    "monetization-mouse": {
+      "codepoint": 58014,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "monetizationMouse",
+      "duotone": true
+    },
+    "money-atm-withdraw": {
+      "codepoint": 58015,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "moneyAtmWithdraw",
+      "duotone": true
+    },
+    "money-bag": {
+      "codepoint": 58016,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "moneyBag",
+      "duotone": true
     },
     "money-bag-dollar": {
       "codepoint": 57506,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "moneyBagDollar"
+      "identifier": "moneyBagDollar",
+      "duotone": true
     },
     "money-bag-euro": {
       "codepoint": 57507,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "moneyBagEuro"
+      "identifier": "moneyBagEuro",
+      "duotone": true
+    },
+    "money-bill-fly": {
+      "codepoint": 58017,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "moneyBillFly",
+      "duotone": true
+    },
+    "money-cash-bill": {
+      "codepoint": 58018,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "moneyCashBill",
+      "duotone": true
     },
     "money-cash-bill-stack": {
       "codepoint": 57508,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "moneyCashBillStack"
+      "identifier": "moneyCashBillStack",
+      "duotone": true
+    },
+    "money-coin-cash": {
+      "codepoint": 58019,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "moneyCoinCash",
+      "duotone": true
+    },
+    "money-coin-purse": {
+      "codepoint": 58020,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "moneyCoinPurse",
+      "duotone": true
     },
     "money-coin-stack": {
       "codepoint": 57509,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "moneyCoinStack"
+      "identifier": "moneyCoinStack",
+      "duotone": true
     },
     "money-wallet": {
       "codepoint": 57510,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "moneyWallet"
+      "identifier": "moneyWallet",
+      "duotone": true
+    },
+    "mouse": {
+      "codepoint": 58021,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "mouse",
+      "duotone": true
+    },
+    "mouse-wireless-1": {
+      "codepoint": 58022,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "mouseWireless1",
+      "duotone": true
+    },
+    "move-cross-over": {
+      "codepoint": 58023,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "moveCrossOver",
+      "duotone": true
     },
     "move-rectangle-left": {
       "codepoint": 57511,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "moveRectangleLeft"
+      "identifier": "moveRectangleLeft",
+      "duotone": true
     },
     "move-scroll-omnidirection-button": {
       "codepoint": 57512,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "moveScrollOmnidirectionButton"
+      "identifier": "moveScrollOmnidirectionButton",
+      "duotone": true
+    },
+    "movies-clapboard": {
+      "codepoint": 58024,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "moviesClapboard",
+      "duotone": true
+    },
+    "movies-hot-trending": {
+      "codepoint": 58025,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "moviesHotTrending",
+      "duotone": true
+    },
+    "movies-reel-rating": {
+      "codepoint": 58026,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "moviesReelRating",
+      "duotone": true
+    },
+    "moving-walkway-luggage-1": {
+      "codepoint": 58027,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "movingWalkwayLuggage1",
+      "duotone": true
     },
     "multimedia-controls-button-next": {
       "codepoint": 57513,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "multimediaControlsButtonNext"
+      "identifier": "multimediaControlsButtonNext",
+      "duotone": true
     },
     "multimedia-controls-loop-arrow-1": {
       "codepoint": 57514,
       "fontFamily": "StreamlineFreehandColor",
       "identifier": "multimediaControlsLoopArrow1"
     },
+    "multimedia-controls-single-track": {
+      "codepoint": 58028,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "multimediaControlsSingleTrack",
+      "duotone": true
+    },
+    "music-basket": {
+      "codepoint": 58029,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "musicBasket",
+      "duotone": true
+    },
     "music-clef": {
       "codepoint": 57515,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "musicClef"
+      "identifier": "musicClef",
+      "duotone": true
+    },
+    "music-genre-romantic-cd": {
+      "codepoint": 58030,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "musicGenreRomanticCd",
+      "duotone": true
     },
     "music-metronome": {
       "codepoint": 57516,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "musicMetronome"
+      "identifier": "musicMetronome",
+      "duotone": true
+    },
+    "music-note-1": {
+      "codepoint": 58031,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "musicNote1",
+      "duotone": true
+    },
+    "music-note-circle-block-1": {
+      "codepoint": 58032,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "musicNoteCircleBlock1",
+      "duotone": true
+    },
+    "navigation-page-right": {
+      "codepoint": 58033,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "navigationPageRight",
+      "duotone": true
+    },
+    "network": {
+      "codepoint": 58034,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "network",
+      "duotone": true
+    },
+    "network-connection-locked": {
+      "codepoint": 58035,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "networkConnectionLocked",
+      "duotone": true
     },
     "network-connector": {
       "codepoint": 57517,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "networkConnector"
+      "identifier": "networkConnector",
+      "duotone": true
+    },
+    "network-laptop-1": {
+      "codepoint": 58036,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "networkLaptop1",
+      "duotone": true
+    },
+    "network-monitor-hierarchy": {
+      "codepoint": 58037,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "networkMonitorHierarchy",
+      "duotone": true
+    },
+    "network-monitor-team-1": {
+      "codepoint": 58038,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "networkMonitorTeam1",
+      "duotone": true
+    },
+    "network-monitor-transfer-arrow-1": {
+      "codepoint": 58039,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "networkMonitorTransferArrow1",
+      "duotone": true
+    },
+    "network-router-signal-1": {
+      "codepoint": 58040,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "networkRouterSignal1",
+      "duotone": true
+    },
+    "network-router-signal-double": {
+      "codepoint": 58041,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "networkRouterSignalDouble",
+      "duotone": true
+    },
+    "newspaper-fold": {
+      "codepoint": 58042,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "newspaperFold",
+      "duotone": true
+    },
+    "newspaper-read-man": {
+      "codepoint": 58043,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "newspaperReadMan",
+      "duotone": true
+    },
+    "night-club-disco-ball-1": {
+      "codepoint": 58044,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "nightClubDiscoBall1",
+      "duotone": true
+    },
+    "notes-add": {
+      "codepoint": 58045,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "notesAdd",
+      "duotone": true
     },
     "notes-book": {
       "codepoint": 57518,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "notesBook"
+      "identifier": "notesBook",
+      "duotone": true
+    },
+    "notes-book-1": {
+      "codepoint": 58046,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "notesBook1",
+      "duotone": true
+    },
+    "notes-hand": {
+      "codepoint": 58047,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "notesHand",
+      "duotone": true
+    },
+    "notes-paper": {
+      "codepoint": 58048,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "notesPaper",
+      "duotone": true
+    },
+    "notes-quill": {
+      "codepoint": 58049,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "notesQuill",
+      "duotone": true
     },
     "office-building-glass-window": {
       "codepoint": 57519,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "officeBuildingGlassWindow"
+      "identifier": "officeBuildingGlassWindow",
+      "duotone": true
+    },
+    "office-building-outdoors": {
+      "codepoint": 58050,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "officeBuildingOutdoors",
+      "duotone": true
     },
     "office-business-card": {
       "codepoint": 57520,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "officeBusinessCard"
+      "identifier": "officeBusinessCard",
+      "duotone": true
+    },
+    "office-desk-1": {
+      "codepoint": 58051,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "officeDesk1",
+      "duotone": true
+    },
+    "office-desk-lamp": {
+      "codepoint": 58052,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "officeDeskLamp",
+      "duotone": true
     },
     "office-file-sheet": {
       "codepoint": 57521,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "officeFileSheet"
+      "identifier": "officeFileSheet",
+      "duotone": true
     },
     "office-file-text": {
       "codepoint": 57522,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "officeFileText"
+      "identifier": "officeFileText",
+      "duotone": true
+    },
+    "office-file-text-graph": {
+      "codepoint": 58053,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "officeFileTextGraph",
+      "duotone": true
+    },
+    "office-folder": {
+      "codepoint": 58054,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "officeFolder",
+      "duotone": true
     },
     "office-paper-binder": {
       "codepoint": 57523,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "officePaperBinder"
+      "identifier": "officePaperBinder",
+      "duotone": true
     },
     "office-photocopy-machine-2": {
       "codepoint": 57524,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "officePhotocopyMachine2"
+      "identifier": "officePhotocopyMachine2",
+      "duotone": true
     },
     "office-shredder-1": {
       "codepoint": 57525,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "officeShredder1"
+      "identifier": "officeShredder1",
+      "duotone": true
+    },
+    "office-stamp-document": {
+      "codepoint": 58055,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "officeStampDocument",
+      "duotone": true
     },
     "office-stapler-1": {
       "codepoint": 57526,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "officeStapler1"
+      "identifier": "officeStapler1",
+      "duotone": true
     },
     "office-tape-2": {
       "codepoint": 57527,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "officeTape2"
+      "identifier": "officeTape2",
+      "duotone": true
     },
     "office-water-dispenser": {
       "codepoint": 57528,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "officeWaterDispenser"
+      "identifier": "officeWaterDispenser",
+      "duotone": true
+    },
+    "office-work-wireless": {
+      "codepoint": 58056,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "officeWorkWireless",
+      "duotone": true
     },
     "optimization-configuration": {
       "codepoint": 57529,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "optimizationConfiguration"
+      "identifier": "optimizationConfiguration",
+      "duotone": true
+    },
+    "optimization-graph-settings": {
+      "codepoint": 58057,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "optimizationGraphSettings",
+      "duotone": true
+    },
+    "organization-files": {
+      "codepoint": 58058,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "organizationFiles",
+      "duotone": true
+    },
+    "paginate-filter-mail": {
+      "codepoint": 58059,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "paginateFilterMail",
+      "duotone": true
+    },
+    "paginate-filter-music": {
+      "codepoint": 58060,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "paginateFilterMusic",
+      "duotone": true
     },
     "paragraphs-bullets": {
       "codepoint": 57530,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "paragraphsBullets"
+      "identifier": "paragraphsBullets",
+      "duotone": true
     },
     "paragraphs-image-right": {
       "codepoint": 57531,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "paragraphsImageRight"
+      "identifier": "paragraphsImageRight",
+      "duotone": true
+    },
+    "paragraphs-indent": {
+      "codepoint": 58061,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "paragraphsIndent",
+      "duotone": true
+    },
+    "paragraphs-indent-last-line": {
+      "codepoint": 58062,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "paragraphsIndentLastLine",
+      "duotone": true
     },
     "paragraphs-indent-left": {
       "codepoint": 57532,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "paragraphsIndentLeft"
+      "identifier": "paragraphsIndentLeft",
+      "duotone": true
+    },
+    "paragraphs-insert-image-top": {
+      "codepoint": 58063,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "paragraphsInsertImageTop",
+      "duotone": true
     },
     "paragraphs-symbol": {
       "codepoint": 57533,
       "fontFamily": "StreamlineFreehandColor",
       "identifier": "paragraphsSymbol"
     },
+    "party-alchoholic-drink-1": {
+      "codepoint": 58064,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "partyAlchoholicDrink1",
+      "duotone": true
+    },
     "party-balloon": {
       "codepoint": 57534,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "partyBalloon"
+      "identifier": "partyBalloon",
+      "duotone": true
+    },
+    "party-decoration-banner-1": {
+      "codepoint": 58065,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "partyDecorationBanner1",
+      "duotone": true
     },
     "password-approved": {
       "codepoint": 57535,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "passwordApproved"
+      "identifier": "passwordApproved",
+      "duotone": true
+    },
+    "password-desktop-lock-approved": {
+      "codepoint": 58066,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "passwordDesktopLockApproved",
+      "duotone": true
     },
     "password-type": {
       "codepoint": 57536,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "passwordType"
+      "identifier": "passwordType",
+      "duotone": true
+    },
+    "pathfinder-merge": {
+      "codepoint": 58067,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "pathfinderMerge",
+      "duotone": true
+    },
+    "performance-increase-clipboard": {
+      "codepoint": 58068,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "performanceIncreaseClipboard",
+      "duotone": true
+    },
+    "performance-presentation-graph": {
+      "codepoint": 58069,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "performancePresentationGraph",
+      "duotone": true
     },
     "phone-actions-24-hours-call": {
       "codepoint": 57537,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "phoneActions24HoursCall"
+      "identifier": "phoneActions24HoursCall",
+      "duotone": true
     },
     "phone-actions-bluetooth": {
       "codepoint": 57538,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "phoneActionsBluetooth"
+      "identifier": "phoneActionsBluetooth",
+      "duotone": true
+    },
+    "phone-actions-merge": {
+      "codepoint": 58070,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "phoneActionsMerge",
+      "duotone": true
+    },
+    "phone-actions-off": {
+      "codepoint": 58071,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "phoneActionsOff",
+      "duotone": true
+    },
+    "phone-actions-ringing": {
+      "codepoint": 58072,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "phoneActionsRinging",
+      "duotone": true
+    },
+    "phone-actions-wait-hold": {
+      "codepoint": 58073,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "phoneActionsWaitHold",
+      "duotone": true
     },
     "phone-book": {
       "codepoint": 57539,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "phoneBook"
+      "identifier": "phoneBook",
+      "duotone": true
+    },
+    "phone-booth": {
+      "codepoint": 58074,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "phoneBooth",
+      "duotone": true
+    },
+    "phone-camera-rear-quardruple": {
+      "codepoint": 58075,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "phoneCameraRearQuardruple",
+      "duotone": true
     },
     "phone-dial": {
       "codepoint": 57540,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "phoneDial"
+      "identifier": "phoneDial",
+      "duotone": true
+    },
+    "phone-off": {
+      "codepoint": 58076,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "phoneOff",
+      "duotone": true
+    },
+    "phone-retro-1": {
+      "codepoint": 58077,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "phoneRetro1",
+      "duotone": true
+    },
+    "phone-ring": {
+      "codepoint": 58078,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "phoneRing",
+      "duotone": true
     },
     "phone-selfie-front": {
       "codepoint": 57541,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "phoneSelfieFront"
+      "identifier": "phoneSelfieFront",
+      "duotone": true
+    },
+    "photo-frame-hang": {
+      "codepoint": 58079,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "photoFrameHang",
+      "duotone": true
+    },
+    "photo-frame-landscape": {
+      "codepoint": 58080,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "photoFrameLandscape",
+      "duotone": true
     },
     "picture-double-landscape": {
       "codepoint": 57542,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "pictureDoubleLandscape"
+      "identifier": "pictureDoubleLandscape",
+      "duotone": true
+    },
+    "picture-polaroid-four": {
+      "codepoint": 58081,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "picturePolaroidFour",
+      "duotone": true
+    },
+    "picture-polaroid-hide": {
+      "codepoint": 58082,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "picturePolaroidHide",
+      "duotone": true
+    },
+    "picture-stack-landscape": {
+      "codepoint": 58083,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "pictureStackLandscape",
+      "duotone": true
+    },
+    "playlist-album-1": {
+      "codepoint": 58084,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "playlistAlbum1",
+      "duotone": true
+    },
+    "playlist-cloud": {
+      "codepoint": 58085,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "playlistCloud",
+      "duotone": true
+    },
+    "playlist-menu": {
+      "codepoint": 58086,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "playlistMenu",
+      "duotone": true
+    },
+    "playlist-square-sync": {
+      "codepoint": 58087,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "playlistSquareSync",
+      "duotone": true
     },
     "plugin-hands-puzzle": {
       "codepoint": 57543,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "pluginHandsPuzzle"
+      "identifier": "pluginHandsPuzzle",
+      "duotone": true
+    },
+    "plugin-jigsaw-puzzle": {
+      "codepoint": 58088,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "pluginJigsawPuzzle",
+      "duotone": true
+    },
+    "podcast-microphone-international-1": {
+      "codepoint": 58089,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "podcastMicrophoneInternational1",
+      "duotone": true
     },
     "power-button": {
       "codepoint": 57544,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "powerButton"
+      "identifier": "powerButton",
+      "duotone": true
+    },
+    "power-supply-battery-charge": {
+      "codepoint": 58090,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "powerSupplyBatteryCharge",
+      "duotone": true
+    },
+    "power-supply-plug": {
+      "codepoint": 58091,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "powerSupplyPlug",
+      "duotone": true
+    },
+    "power-supply-wall-socket-1": {
+      "codepoint": 58092,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "powerSupplyWallSocket1",
+      "duotone": true
+    },
+    "presentation-analytics": {
+      "codepoint": 58093,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "presentationAnalytics",
+      "duotone": true
+    },
+    "presentation-audience": {
+      "codepoint": 58094,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "presentationAudience",
+      "duotone": true
+    },
+    "presentation-board-graph": {
+      "codepoint": 58095,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "presentationBoardGraph",
+      "duotone": true
+    },
+    "presentation-podium-notes": {
+      "codepoint": 58096,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "presentationPodiumNotes",
+      "duotone": true
+    },
+    "presentation-projector-1": {
+      "codepoint": 58097,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "presentationProjector1",
+      "duotone": true
+    },
+    "presentation-projector-screen-bars": {
+      "codepoint": 58098,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "presentationProjectorScreenBars",
+      "duotone": true
     },
     "presentation-projector-screen-budget-analytics": {
       "codepoint": 57545,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "presentationProjectorScreenBudgetAnalytics"
+      "identifier": "presentationProjectorScreenBudgetAnalytics",
+      "duotone": true
+    },
+    "presentation-screen": {
+      "codepoint": 58099,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "presentationScreen",
+      "duotone": true
     },
     "print-text": {
       "codepoint": 57546,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "printText"
+      "identifier": "printText",
+      "duotone": true
+    },
+    "product-launch-go-sign": {
+      "codepoint": 58100,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "productLaunchGoSign",
+      "duotone": true
+    },
+    "product-launch-laptop": {
+      "codepoint": 58101,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "productLaunchLaptop",
+      "duotone": true
     },
     "products-purse": {
       "codepoint": 57547,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "productsPurse"
+      "identifier": "productsPurse",
+      "duotone": true
+    },
+    "products-purse-2": {
+      "codepoint": 58102,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "productsPurse2",
+      "duotone": true
+    },
+    "products-shopping-bags": {
+      "codepoint": 58103,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "productsShoppingBags",
+      "duotone": true
+    },
+    "programming-browser": {
+      "codepoint": 58104,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "programmingBrowser",
+      "duotone": true
+    },
+    "programming-code-idea": {
+      "codepoint": 58105,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "programmingCodeIdea",
+      "duotone": true
+    },
+    "programming-flowchart": {
+      "codepoint": 58106,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "programmingFlowchart",
+      "duotone": true
+    },
+    "programming-hold-code": {
+      "codepoint": 58107,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "programmingHoldCode",
+      "duotone": true
     },
     "programming-keyboard-type": {
       "codepoint": 57548,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "programmingKeyboardType"
+      "identifier": "programmingKeyboardType",
+      "duotone": true
+    },
+    "programming-language-bookmark-javascript": {
+      "codepoint": 58108,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "programmingLanguageBookmarkJavascript",
+      "duotone": true
+    },
+    "programming-language-browser-css": {
+      "codepoint": 58109,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "programmingLanguageBrowserCss",
+      "duotone": true
+    },
+    "programming-language-browser-html": {
+      "codepoint": 58110,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "programmingLanguageBrowserHtml",
+      "duotone": true
+    },
+    "programming-language-css-3": {
+      "codepoint": 58111,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "programmingLanguageCss3",
+      "duotone": true
+    },
+    "programming-language-html-5": {
+      "codepoint": 58112,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "programmingLanguageHtml5",
+      "duotone": true
+    },
+    "programming-language-script-lock": {
+      "codepoint": 58113,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "programmingLanguageScriptLock",
+      "duotone": true
+    },
+    "programming-monitor": {
+      "codepoint": 58114,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "programmingMonitor",
+      "duotone": true
     },
     "programming-search": {
       "codepoint": 57549,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "programmingSearch"
+      "identifier": "programmingSearch",
+      "duotone": true
+    },
+    "programming-team-chat": {
+      "codepoint": 58115,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "programmingTeamChat",
+      "duotone": true
+    },
+    "programming-user-code": {
+      "codepoint": 58116,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "programmingUserCode",
+      "duotone": true
+    },
+    "programming-user-head-matrix": {
+      "codepoint": 58117,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "programmingUserHeadMatrix",
+      "duotone": true
+    },
+    "push-notification-2": {
+      "codepoint": 58118,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "pushNotification2",
+      "duotone": true
+    },
+    "push-notification-alert-1": {
+      "codepoint": 58119,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "pushNotificationAlert1",
+      "duotone": true
     },
     "qr-code-scan-1": {
       "codepoint": 57550,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "qrCodeScan1"
+      "identifier": "qrCodeScan1",
+      "duotone": true
     },
     "radio-antenna-handle": {
       "codepoint": 57551,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "radioAntennaHandle"
+      "identifier": "radioAntennaHandle",
+      "duotone": true
+    },
+    "radio-stereo": {
+      "codepoint": 58120,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "radioStereo",
+      "duotone": true
+    },
+    "read-email-target": {
+      "codepoint": 58121,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "readEmailTarget",
+      "duotone": true
+    },
+    "receipt": {
+      "codepoint": 58122,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "receipt",
+      "duotone": true
+    },
+    "receipt-cash-register-print": {
+      "codepoint": 58123,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "receiptCashRegisterPrint",
+      "duotone": true
     },
     "receipt-view-pricing": {
       "codepoint": 57552,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "receiptViewPricing"
+      "identifier": "receiptViewPricing",
+      "duotone": true
+    },
+    "reorder-up": {
+      "codepoint": 58124,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "reorderUp",
+      "duotone": true
     },
     "resize-arrow-retract-horizontal": {
       "codepoint": 57553,
       "fontFamily": "StreamlineFreehandColor",
       "identifier": "resizeArrowRetractHorizontal"
     },
+    "resize-expand-arrow": {
+      "codepoint": 58125,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "resizeExpandArrow",
+      "duotone": true
+    },
     "resize-shrink-1": {
       "codepoint": 57554,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "resizeShrink1"
+      "identifier": "resizeShrink1",
+      "duotone": true
+    },
+    "responsive-design-expand": {
+      "codepoint": 58126,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "responsiveDesignExpand",
+      "duotone": true
+    },
+    "responsive-design-hand": {
+      "codepoint": 58127,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "responsiveDesignHand",
+      "duotone": true
+    },
+    "responsive-design-monitor-phone": {
+      "codepoint": 58128,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "responsiveDesignMonitorPhone",
+      "duotone": true
     },
     "retouch-contrast": {
       "codepoint": 57555,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "retouchContrast"
+      "identifier": "retouchContrast",
+      "duotone": true
+    },
+    "retouch-cut-edit": {
+      "codepoint": 58129,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "retouchCutEdit",
+      "duotone": true
+    },
+    "retouch-face": {
+      "codepoint": 58130,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "retouchFace",
+      "duotone": true
+    },
+    "retouch-magic-wand": {
+      "codepoint": 58131,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "retouchMagicWand",
+      "duotone": true
     },
     "retouch-saturation": {
       "codepoint": 57556,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "retouchSaturation"
+      "identifier": "retouchSaturation",
+      "duotone": true
+    },
+    "retouch-sticker": {
+      "codepoint": 58132,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "retouchSticker",
+      "duotone": true
     },
     "retract-shrink-arrow": {
       "codepoint": 57557,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "retractShrinkArrow"
+      "identifier": "retractShrinkArrow",
+      "duotone": true
+    },
+    "role-playing-games-icon-weapon-equipment-crate-chest-1": {
+      "codepoint": 58133,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "rolePlayingGamesIconWeaponEquipmentCrateChest1",
+      "duotone": true
+    },
+    "rotate-lock-smartphone": {
+      "codepoint": 58134,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "rotateLockSmartphone",
+      "duotone": true
+    },
+    "rotate-smartphone": {
+      "codepoint": 58135,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "rotateSmartphone",
+      "duotone": true
     },
     "ruler-t": {
       "codepoint": 57558,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "rulerT"
+      "identifier": "rulerT",
+      "duotone": true
+    },
+    "safety-911-call": {
+      "codepoint": 58136,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "safety911Call",
+      "duotone": true
+    },
+    "safety-call-firefighters-1": {
+      "codepoint": 58137,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "safetyCallFirefighters1",
+      "duotone": true
+    },
+    "safety-danger-mudslide": {
+      "codepoint": 58138,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "safetyDangerMudslide",
+      "duotone": true
     },
     "safety-drown-hand": {
       "codepoint": 57559,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "safetyDrownHand"
+      "identifier": "safetyDrownHand",
+      "duotone": true
+    },
+    "safety-exit-door": {
+      "codepoint": 58139,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "safetyExitDoor",
+      "duotone": true
+    },
+    "safety-exit-sign": {
+      "codepoint": 58140,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "safetyExitSign",
+      "duotone": true
+    },
+    "safety-fire-exit": {
+      "codepoint": 58141,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "safetyFireExit",
+      "duotone": true
     },
     "safety-fire-extinguisher": {
       "codepoint": 57560,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "safetyFireExtinguisher"
+      "identifier": "safetyFireExtinguisher",
+      "duotone": true
     },
     "safety-sign-danger-slippery": {
       "codepoint": 57561,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "safetySignDangerSlippery"
+      "identifier": "safetySignDangerSlippery",
+      "duotone": true
     },
     "safety-sign-electricity": {
       "codepoint": 57562,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "safetySignElectricity"
+      "identifier": "safetySignElectricity",
+      "duotone": true
     },
     "safety-warning-radioactive": {
       "codepoint": 57563,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "safetyWarningRadioactive"
+      "identifier": "safetyWarningRadioactive",
+      "duotone": true
+    },
+    "saving-bag-increase": {
+      "codepoint": 58142,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "savingBagIncrease",
+      "duotone": true
     },
     "saving-bank": {
       "codepoint": 57564,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "savingBank"
+      "identifier": "savingBank",
+      "duotone": true
     },
     "saving-bank-cash": {
       "codepoint": 57565,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "savingBankCash"
+      "identifier": "savingBankCash",
+      "duotone": true
     },
     "saving-bank-international": {
       "codepoint": 57566,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "savingBankInternational"
+      "identifier": "savingBankInternational",
+      "duotone": true
     },
     "saving-bear-market": {
       "codepoint": 57567,
@@ -1149,347 +4324,1340 @@
     "saving-bear-market-graph-bars": {
       "codepoint": 57568,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "savingBearMarketGraphBars"
+      "identifier": "savingBearMarketGraphBars",
+      "duotone": true
+    },
+    "saving-bull-market-graph-bars": {
+      "codepoint": 58143,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "savingBullMarketGraphBars",
+      "duotone": true
+    },
+    "saving-money-seedling": {
+      "codepoint": 58144,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "savingMoneySeedling",
+      "duotone": true
+    },
+    "saving-piggy-bank": {
+      "codepoint": 58145,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "savingPiggyBank",
+      "duotone": true
+    },
+    "saving-safe": {
+      "codepoint": 58146,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "savingSafe",
+      "duotone": true
     },
     "saving-wallet-international": {
       "codepoint": 57569,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "savingWalletInternational"
+      "identifier": "savingWalletInternational",
+      "duotone": true
     },
     "scanner": {
       "codepoint": 57570,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "scanner"
+      "identifier": "scanner",
+      "duotone": true
+    },
+    "screen-curved": {
+      "codepoint": 58147,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "screenCurved",
+      "duotone": true
+    },
+    "scroll-vertical-smartphone": {
+      "codepoint": 58148,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "scrollVerticalSmartphone",
+      "duotone": true
+    },
+    "search-magnifier": {
+      "codepoint": 58149,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "searchMagnifier",
+      "duotone": true
+    },
+    "seat-vip": {
+      "codepoint": 58150,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "seatVip",
+      "duotone": true
+    },
+    "security-computer-shield": {
+      "codepoint": 58151,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "securityComputerShield",
+      "duotone": true
+    },
+    "security-gdpr-browser": {
+      "codepoint": 58152,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "securityGdprBrowser",
+      "duotone": true
+    },
+    "security-it-service": {
+      "codepoint": 58153,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "securityItService",
+      "duotone": true
     },
     "security-network-chain": {
       "codepoint": 57571,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "securityNetworkChain"
+      "identifier": "securityNetworkChain",
+      "duotone": true
+    },
+    "security-phone-protection-approved": {
+      "codepoint": 58154,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "securityPhoneProtectionApproved",
+      "duotone": true
     },
     "security-shield-network": {
       "codepoint": 57572,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "securityShieldNetwork"
+      "identifier": "securityShieldNetwork",
+      "duotone": true
+    },
+    "security-shield-settings": {
+      "codepoint": 58155,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "securityShieldSettings",
+      "duotone": true
+    },
+    "security-shield-wall": {
+      "codepoint": 58156,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "securityShieldWall",
+      "duotone": true
+    },
+    "security-user-lock": {
+      "codepoint": 58157,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "securityUserLock",
+      "duotone": true
     },
     "select-target-crosshair-1": {
       "codepoint": 57573,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "selectTargetCrosshair1"
+      "identifier": "selectTargetCrosshair1",
+      "duotone": true
     },
     "send-email-fly": {
       "codepoint": 57574,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "sendEmailFly"
+      "identifier": "sendEmailFly",
+      "duotone": true
+    },
+    "send-email-paper-plane-1": {
+      "codepoint": 58158,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "sendEmailPaperPlane1",
+      "duotone": true
+    },
+    "send-email-pop-up": {
+      "codepoint": 58159,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "sendEmailPopUp",
+      "duotone": true
+    },
+    "seo-eye-network": {
+      "codepoint": 58160,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "seoEyeNetwork",
+      "duotone": true
+    },
+    "seo-search-graph": {
+      "codepoint": 58161,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "seoSearchGraph",
+      "duotone": true
     },
     "server-2": {
       "codepoint": 57575,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "server2"
+      "identifier": "server2",
+      "duotone": true
     },
     "server-api-cloud": {
       "codepoint": 57576,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "serverApiCloud"
+      "identifier": "serverApiCloud",
+      "duotone": true
+    },
+    "server-edit": {
+      "codepoint": 58162,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "serverEdit",
+      "duotone": true
+    },
+    "server-error-404-not-found": {
+      "codepoint": 58163,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "serverError404NotFound",
+      "duotone": true
     },
     "server-hand": {
       "codepoint": 57577,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "serverHand"
+      "identifier": "serverHand",
+      "duotone": true
+    },
+    "server-lock": {
+      "codepoint": 58164,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "serverLock",
+      "duotone": true
+    },
+    "server-sftp-folder": {
+      "codepoint": 58165,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "serverSftpFolder",
+      "duotone": true
     },
     "settings-cog": {
       "codepoint": 57578,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "settingsCog"
+      "identifier": "settingsCog",
+      "duotone": true
+    },
+    "settings-cog-double-1": {
+      "codepoint": 58166,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "settingsCogDouble1",
+      "duotone": true
+    },
+    "settings-hammer": {
+      "codepoint": 58167,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "settingsHammer",
+      "duotone": true
     },
     "settings-screwdriver": {
       "codepoint": 57579,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "settingsScrewdriver"
+      "identifier": "settingsScrewdriver",
+      "duotone": true
+    },
+    "settings-wrench-double": {
+      "codepoint": 58168,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "settingsWrenchDouble",
+      "duotone": true
+    },
+    "shape-cube": {
+      "codepoint": 58169,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shapeCube",
+      "duotone": true
     },
     "shape-pyramid": {
       "codepoint": 57580,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "shapePyramid"
+      "identifier": "shapePyramid",
+      "duotone": true
+    },
+    "share-circles": {
+      "codepoint": 58170,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shareCircles",
+      "duotone": true
     },
     "share-forward": {
       "codepoint": 57581,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "shareForward"
+      "identifier": "shareForward",
+      "duotone": true
+    },
+    "share-megaphone": {
+      "codepoint": 58171,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shareMegaphone",
+      "duotone": true
+    },
+    "share-radar": {
+      "codepoint": 58172,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shareRadar",
+      "duotone": true
     },
     "share-user-signal-1": {
       "codepoint": 57582,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "shareUserSignal1"
+      "identifier": "shareUserSignal1",
+      "duotone": true
+    },
+    "shop": {
+      "codepoint": 58173,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shop",
+      "duotone": true
+    },
+    "shop-cart": {
+      "codepoint": 58174,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shopCart",
+      "duotone": true
+    },
+    "shop-cashier": {
+      "codepoint": 58175,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shopCashier",
+      "duotone": true
+    },
+    "shop-close": {
+      "codepoint": 58176,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shopClose",
+      "duotone": true
+    },
+    "shop-like": {
+      "codepoint": 58177,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shopLike",
+      "duotone": true
+    },
+    "shop-open-1": {
+      "codepoint": 58178,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shopOpen1",
+      "duotone": true
+    },
+    "shop-sign": {
+      "codepoint": 58179,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shopSign",
+      "duotone": true
+    },
+    "shop-street-sign": {
+      "codepoint": 58180,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shopStreetSign",
+      "duotone": true
+    },
+    "shopping-bag-barcode": {
+      "codepoint": 58181,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shoppingBagBarcode",
+      "duotone": true
     },
     "shopping-bag-biodegradable-1": {
       "codepoint": 57583,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "shoppingBagBiodegradable1"
+      "identifier": "shoppingBagBiodegradable1",
+      "duotone": true
+    },
+    "shopping-bag-duty-free": {
+      "codepoint": 58182,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shoppingBagDutyFree",
+      "duotone": true
     },
     "shopping-bag-no-plastic": {
       "codepoint": 57584,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "shoppingBagNoPlastic"
+      "identifier": "shoppingBagNoPlastic",
+      "duotone": true
+    },
+    "shopping-bag-sad": {
+      "codepoint": 58183,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shoppingBagSad",
+      "duotone": true
     },
     "shopping-bag-side": {
       "codepoint": 57585,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "shoppingBagSide"
+      "identifier": "shoppingBagSide",
+      "duotone": true
+    },
+    "shopping-bag-target": {
+      "codepoint": 58184,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shoppingBagTarget",
+      "duotone": true
+    },
+    "shopping-basket-1": {
+      "codepoint": 58185,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shoppingBasket1",
+      "duotone": true
+    },
+    "shopping-basket-arrow-in": {
+      "codepoint": 58186,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shoppingBasketArrowIn",
+      "duotone": true
+    },
+    "shopping-basket-arrow-out": {
+      "codepoint": 58187,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shoppingBasketArrowOut",
+      "duotone": true
+    },
+    "shopping-basket-favorite-star": {
+      "codepoint": 58188,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shoppingBasketFavoriteStar",
+      "duotone": true
+    },
+    "shopping-basket-like": {
+      "codepoint": 58189,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shoppingBasketLike",
+      "duotone": true
+    },
+    "shopping-basket-rating": {
+      "codepoint": 58190,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shoppingBasketRating",
+      "duotone": true
+    },
+    "shopping-basket-search": {
+      "codepoint": 58191,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shoppingBasketSearch",
+      "duotone": true
+    },
+    "shopping-basket-smile-1": {
+      "codepoint": 58192,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shoppingBasketSmile1",
+      "duotone": true
     },
     "shopping-cart-trolley": {
       "codepoint": 57586,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "shoppingCartTrolley"
+      "identifier": "shoppingCartTrolley",
+      "duotone": true
+    },
+    "shopping-cart-trolley-check": {
+      "codepoint": 58193,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shoppingCartTrolleyCheck",
+      "duotone": true
+    },
+    "shopping-cart-trolley-download": {
+      "codepoint": 58194,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shoppingCartTrolleyDownload",
+      "duotone": true
     },
     "shopping-cart-trolley-full": {
       "codepoint": 57587,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "shoppingCartTrolleyFull"
+      "identifier": "shoppingCartTrolleyFull",
+      "duotone": true
+    },
+    "shopping-cart-trolley-upload": {
+      "codepoint": 58195,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "shoppingCartTrolleyUpload",
+      "duotone": true
+    },
+    "show-hat-magician-1": {
+      "codepoint": 58196,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "showHatMagician1",
+      "duotone": true
+    },
+    "show-theater-drama-1": {
+      "codepoint": 58197,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "showTheaterDrama1",
+      "duotone": true
+    },
+    "signal-low": {
+      "codepoint": 58198,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "signalLow",
+      "duotone": true
+    },
+    "sim-card": {
+      "codepoint": 58199,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "simCard",
+      "duotone": true
     },
     "smart-watch-band-2": {
       "codepoint": 57588,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "smartWatchBand2"
+      "identifier": "smartWatchBand2",
+      "duotone": true
+    },
+    "smart-watch-circle": {
+      "codepoint": 58200,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "smartWatchCircle",
+      "duotone": true
+    },
+    "smart-watch-circle-bluetooth": {
+      "codepoint": 58201,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "smartWatchCircleBluetooth",
+      "duotone": true
+    },
+    "smart-watch-circle-graph-line": {
+      "codepoint": 58202,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "smartWatchCircleGraphLine",
+      "duotone": true
+    },
+    "smart-watch-circle-location": {
+      "codepoint": 58203,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "smartWatchCircleLocation",
+      "duotone": true
+    },
+    "smart-watch-square": {
+      "codepoint": 58204,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "smartWatchSquare",
+      "duotone": true
+    },
+    "smart-watch-square-bell-alternate": {
+      "codepoint": 58205,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "smartWatchSquareBellAlternate",
+      "duotone": true
+    },
+    "smart-watch-square-graph-alternate": {
+      "codepoint": 58206,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "smartWatchSquareGraphAlternate",
+      "duotone": true
+    },
+    "smart-watch-square-location-alternate": {
+      "codepoint": 58207,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "smartWatchSquareLocationAlternate",
+      "duotone": true
+    },
+    "smart-watch-square-navigation-alternate": {
+      "codepoint": 58208,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "smartWatchSquareNavigationAlternate",
+      "duotone": true
+    },
+    "smart-watch-wrist": {
+      "codepoint": 58209,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "smartWatchWrist",
+      "duotone": true
+    },
+    "smartphone-app-widget-add": {
+      "codepoint": 58210,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "smartphoneAppWidgetAdd",
+      "duotone": true
+    },
+    "smartphone-app-widget-remove": {
+      "codepoint": 58211,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "smartphoneAppWidgetRemove",
+      "duotone": true
+    },
+    "smartphone-app-widget-stock": {
+      "codepoint": 58212,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "smartphoneAppWidgetStock",
+      "duotone": true
+    },
+    "smartphone-app-widget-translator": {
+      "codepoint": 58213,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "smartphoneAppWidgetTranslator",
+      "duotone": true
+    },
+    "smiley-blessed": {
+      "codepoint": 58214,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "smileyBlessed",
+      "duotone": true
     },
     "smiley-blush": {
       "codepoint": 57589,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "smileyBlush"
+      "identifier": "smileyBlush",
+      "duotone": true
     },
     "smiley-cheeky": {
       "codepoint": 57590,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "smileyCheeky"
+      "identifier": "smileyCheeky",
+      "duotone": true
+    },
+    "smiley-crazy": {
+      "codepoint": 58215,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "smileyCrazy",
+      "duotone": true
+    },
+    "smiley-crying-rainbow": {
+      "codepoint": 58216,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "smileyCryingRainbow",
+      "duotone": true
     },
     "smiley-dizzy": {
       "codepoint": 57591,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "smileyDizzy"
+      "identifier": "smileyDizzy",
+      "duotone": true
     },
     "smiley-eyes-only": {
       "codepoint": 57592,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "smileyEyesOnly"
+      "identifier": "smileyEyesOnly",
+      "duotone": true
     },
     "smiley-grumpy": {
       "codepoint": 57593,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "smileyGrumpy"
+      "identifier": "smileyGrumpy",
+      "duotone": true
+    },
+    "smiley-happy": {
+      "codepoint": 58217,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "smileyHappy",
+      "duotone": true
     },
     "smiley-in-trouble": {
       "codepoint": 57594,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "smileyInTrouble"
+      "identifier": "smileyInTrouble",
+      "duotone": true
     },
     "smiley-kiss-heart": {
       "codepoint": 57595,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "smileyKissHeart"
+      "identifier": "smileyKissHeart",
+      "duotone": true
+    },
+    "smiley-lol": {
+      "codepoint": 58218,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "smileyLol",
+      "duotone": true
     },
     "smiley-petrified": {
       "codepoint": 57596,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "smileyPetrified"
+      "identifier": "smileyPetrified",
+      "duotone": true
+    },
+    "smiley-rich": {
+      "codepoint": 58219,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "smileyRich",
+      "duotone": true
     },
     "smiley-shine-big-eyes": {
       "codepoint": 57597,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "smileyShineBigEyes"
+      "identifier": "smileyShineBigEyes",
+      "duotone": true
+    },
+    "smiley-sick-contageous": {
+      "codepoint": 58220,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "smileySickContageous",
+      "duotone": true
     },
     "smiley-smile-2": {
       "codepoint": 57598,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "smileySmile2"
+      "identifier": "smileySmile2",
+      "duotone": true
+    },
+    "smiley-thrilled": {
+      "codepoint": 58221,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "smileyThrilled",
+      "duotone": true
     },
     "smiley-thumbs-up": {
       "codepoint": 57599,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "smileyThumbsUp"
+      "identifier": "smileyThumbsUp",
+      "duotone": true
     },
     "smiley-wink": {
       "codepoint": 57600,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "smileyWink"
+      "identifier": "smileyWink",
+      "duotone": true
     },
     "smiley-zipped": {
       "codepoint": 57601,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "smileyZipped"
+      "identifier": "smileyZipped",
+      "duotone": true
+    },
+    "speaker": {
+      "codepoint": 58222,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "speaker",
+      "duotone": true
+    },
+    "speaker-stand": {
+      "codepoint": 58223,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "speakerStand",
+      "duotone": true
+    },
+    "stairs-ascend": {
+      "codepoint": 58224,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "stairsAscend",
+      "duotone": true
+    },
+    "stairs-descend": {
+      "codepoint": 58225,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "stairsDescend",
+      "duotone": true
     },
     "stamps-portrait-1": {
       "codepoint": 57602,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "stampsPortrait1"
+      "identifier": "stampsPortrait1",
+      "duotone": true
     },
     "stats-line-graph-circle": {
       "codepoint": 57603,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "statsLineGraphCircle"
+      "identifier": "statsLineGraphCircle",
+      "duotone": true
+    },
+    "strategy-business-success-peak": {
+      "codepoint": 58226,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "strategyBusinessSuccessPeak",
+      "duotone": true
+    },
+    "strategy-target-center-phone": {
+      "codepoint": 58227,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "strategyTargetCenterPhone",
+      "duotone": true
     },
     "swimming-pool-person": {
       "codepoint": 57604,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "swimmingPoolPerson"
+      "identifier": "swimmingPoolPerson",
+      "duotone": true
     },
     "synchronize-arrows": {
       "codepoint": 57605,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "synchronizeArrows"
+      "identifier": "synchronizeArrows",
+      "duotone": true
+    },
+    "synchronize-arrows-warning": {
+      "codepoint": 58228,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "synchronizeArrowsWarning",
+      "duotone": true
+    },
+    "tablet-application": {
+      "codepoint": 58229,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "tabletApplication",
+      "duotone": true
+    },
+    "tag-hot-price": {
+      "codepoint": 58230,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "tagHotPrice",
+      "duotone": true
     },
     "tag-new-circle": {
       "codepoint": 57606,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "tagNewCircle"
+      "identifier": "tagNewCircle",
+      "duotone": true
+    },
+    "tag-sale-price": {
+      "codepoint": 58231,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "tagSalePrice",
+      "duotone": true
+    },
+    "tags-double": {
+      "codepoint": 58232,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "tagsDouble",
+      "duotone": true
     },
     "taking-pictures-circle": {
       "codepoint": 57607,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "takingPicturesCircle"
+      "identifier": "takingPicturesCircle",
+      "duotone": true
+    },
+    "taking-pictures-man": {
+      "codepoint": 58233,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "takingPicturesMan",
+      "duotone": true
+    },
+    "tape-cassette-1": {
+      "codepoint": 58234,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "tapeCassette1",
+      "duotone": true
+    },
+    "task-clipboard-check": {
+      "codepoint": 58235,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "taskClipboardCheck",
+      "duotone": true
+    },
+    "task-list-clipboard-check": {
+      "codepoint": 58236,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "taskListClipboardCheck",
+      "duotone": true
+    },
+    "task-list-clipboard-clock": {
+      "codepoint": 58237,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "taskListClipboardClock",
+      "duotone": true
+    },
+    "task-list-clipboard-favorite-star": {
+      "codepoint": 58238,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "taskListClipboardFavoriteStar",
+      "duotone": true
+    },
+    "task-list-clipboard-share": {
+      "codepoint": 58239,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "taskListClipboardShare",
+      "duotone": true
     },
     "task-list-pen": {
       "codepoint": 57608,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "taskListPen"
+      "identifier": "taskListPen",
+      "duotone": true
+    },
+    "task-list-pin-1": {
+      "codepoint": 58240,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "taskListPin1",
+      "duotone": true
+    },
+    "terminal": {
+      "codepoint": 58241,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "terminal",
+      "duotone": true
+    },
+    "text-formating-align-bottom": {
+      "codepoint": 58242,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "textFormatingAlignBottom",
+      "duotone": true
     },
     "text-formating-arrange-spacing": {
       "codepoint": 57609,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "textFormatingArrangeSpacing"
+      "identifier": "textFormatingArrangeSpacing",
+      "duotone": true
+    },
+    "text-formating-eraser-2": {
+      "codepoint": 58243,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "textFormatingEraser2",
+      "duotone": true
+    },
+    "text-formating-font-size": {
+      "codepoint": 58244,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "textFormatingFontSize",
+      "duotone": true
     },
     "text-formating-input": {
       "codepoint": 57610,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "textFormatingInput"
+      "identifier": "textFormatingInput",
+      "duotone": true
+    },
+    "text-formating-rotate-angle": {
+      "codepoint": 58245,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "textFormatingRotateAngle",
+      "duotone": true
     },
     "text-formating-rotate-vertical": {
       "codepoint": 57611,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "textFormatingRotateVertical"
+      "identifier": "textFormatingRotateVertical",
+      "duotone": true
     },
     "text-formating-square": {
       "codepoint": 57612,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "textFormatingSquare"
+      "identifier": "textFormatingSquare",
+      "duotone": true
+    },
+    "text-formating-subscript": {
+      "codepoint": 58246,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "textFormatingSubscript",
+      "duotone": true
     },
     "time-clock-24-hrs-2": {
       "codepoint": 57613,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "timeClock24Hrs2"
+      "identifier": "timeClock24Hrs2",
+      "duotone": true
+    },
+    "time-clock-circle": {
+      "codepoint": 58247,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "timeClockCircle",
+      "duotone": true
+    },
+    "time-clock-nine-twenty-five-1": {
+      "codepoint": 58248,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "timeClockNineTwentyFive1",
+      "duotone": true
+    },
+    "time-clock-share-1": {
+      "codepoint": 58249,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "timeClockShare1",
+      "duotone": true
+    },
+    "time-clock-square": {
+      "codepoint": 58250,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "timeClockSquare",
+      "duotone": true
     },
     "time-hourglass-triangle": {
       "codepoint": 57614,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "timeHourglassTriangle"
+      "identifier": "timeHourglassTriangle",
+      "duotone": true
+    },
+    "time-stopwatch": {
+      "codepoint": 58251,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "timeStopwatch",
+      "duotone": true
     },
     "time-wrist-watch-1": {
       "codepoint": 57615,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "timeWristWatch1"
+      "identifier": "timeWristWatch1",
+      "duotone": true
     },
     "timer-countdown-ten": {
       "codepoint": 57616,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "timerCountdownTen"
+      "identifier": "timerCountdownTen",
+      "duotone": true
+    },
+    "toilet-hand-dryer": {
+      "codepoint": 58252,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "toiletHandDryer",
+      "duotone": true
+    },
+    "toilet-no-trash-throw": {
+      "codepoint": 58253,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "toiletNoTrashThrow",
+      "duotone": true
+    },
+    "toilet-paper": {
+      "codepoint": 58254,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "toiletPaper",
+      "duotone": true
+    },
+    "toilet-sign": {
+      "codepoint": 58255,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "toiletSign",
+      "duotone": true
+    },
+    "touch-id-fingerprint-lock-1": {
+      "codepoint": 58256,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "touchIdFingerprintLock1",
+      "duotone": true
     },
     "touch-id-fingerprint-square": {
       "codepoint": 57617,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "touchIdFingerprintSquare"
+      "identifier": "touchIdFingerprintSquare",
+      "duotone": true
     },
     "trading-graph": {
       "codepoint": 57618,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "tradingGraph"
+      "identifier": "tradingGraph",
+      "duotone": true
     },
     "transfer-pictures-laptop-smartphone": {
       "codepoint": 57619,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "transferPicturesLaptopSmartphone"
+      "identifier": "transferPicturesLaptopSmartphone",
+      "duotone": true
+    },
+    "transfer-pictures-sent": {
+      "codepoint": 58257,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "transferPicturesSent",
+      "duotone": true
+    },
+    "transfer-pictures-smartphone": {
+      "codepoint": 58258,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "transferPicturesSmartphone",
+      "duotone": true
     },
     "transform-right": {
       "codepoint": 57620,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "transformRight"
+      "identifier": "transformRight",
+      "duotone": true
+    },
+    "ui-browser-slider": {
+      "codepoint": 58259,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "uiBrowserSlider",
+      "duotone": true
+    },
+    "ui-page-scroll": {
+      "codepoint": 58260,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "uiPageScroll",
+      "duotone": true
+    },
+    "ui-phone-slider-vertical": {
+      "codepoint": 58261,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "uiPhoneSliderVertical",
+      "duotone": true
     },
     "ui-step-indicator-2": {
       "codepoint": 57621,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "uiStepIndicator2"
+      "identifier": "uiStepIndicator2",
+      "duotone": true
+    },
+    "ui-webpage-bullets": {
+      "codepoint": 58262,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "uiWebpageBullets",
+      "duotone": true
+    },
+    "ui-webpage-slider-cursor": {
+      "codepoint": 58263,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "uiWebpageSliderCursor",
+      "duotone": true
+    },
+    "unlink-broken-chain-1": {
+      "codepoint": 58264,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "unlinkBrokenChain1",
+      "duotone": true
+    },
+    "unlock-circle": {
+      "codepoint": 58265,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "unlockCircle",
+      "duotone": true
     },
     "upload-brackets": {
       "codepoint": 57622,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "uploadBrackets"
+      "identifier": "uploadBrackets",
+      "duotone": true
     },
     "upload-menu": {
       "codepoint": 57623,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "uploadMenu"
+      "identifier": "uploadMenu",
+      "duotone": true
+    },
+    "vectors-add-anchor": {
+      "codepoint": 58266,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "vectorsAddAnchor",
+      "duotone": true
+    },
+    "vectors-anchor-rectangle": {
+      "codepoint": 58267,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "vectorsAnchorRectangle",
+      "duotone": true
+    },
+    "vectors-path-flat": {
+      "codepoint": 58268,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "vectorsPathFlat",
+      "duotone": true
+    },
+    "vectors-pen-add-1": {
+      "codepoint": 58269,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "vectorsPenAdd1",
+      "duotone": true
+    },
+    "vectors-pen-draw": {
+      "codepoint": 58270,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "vectorsPenDraw",
+      "duotone": true
+    },
+    "vibrate-smartphone": {
+      "codepoint": 58271,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "vibrateSmartphone",
+      "duotone": true
+    },
+    "vide-document-avi-1": {
+      "codepoint": 58272,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "videDocumentAvi1",
+      "duotone": true
+    },
+    "vide-document-mov-1": {
+      "codepoint": 58273,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "videDocumentMov1",
+      "duotone": true
+    },
+    "video-edit-effects": {
+      "codepoint": 58274,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "videoEditEffects",
+      "duotone": true
+    },
+    "video-edit-play": {
+      "codepoint": 58275,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "videoEditPlay",
+      "duotone": true
     },
     "video-edit-slow-motion": {
       "codepoint": 57624,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "videoEditSlowMotion"
+      "identifier": "videoEditSlowMotion",
+      "duotone": true
     },
     "video-edit-split": {
       "codepoint": 57625,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "videoEditSplit"
+      "identifier": "videoEditSplit",
+      "duotone": true
+    },
+    "video-file-camera": {
+      "codepoint": 58276,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "videoFileCamera",
+      "duotone": true
+    },
+    "video-game-360-vr": {
+      "codepoint": 58277,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "videoGame360Vr",
+      "duotone": true
+    },
+    "video-game-breakout": {
+      "codepoint": 58278,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "videoGameBreakout",
+      "duotone": true
+    },
+    "video-game-control-gear": {
+      "codepoint": 58279,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "videoGameControlGear",
+      "duotone": true
+    },
+    "video-game-controller": {
+      "codepoint": 58280,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "videoGameController",
+      "duotone": true
+    },
+    "video-game-controller-team": {
+      "codepoint": 58281,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "videoGameControllerTeam",
+      "duotone": true
+    },
+    "video-game-controller-wifi": {
+      "codepoint": 58282,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "videoGameControllerWifi",
+      "duotone": true
+    },
+    "video-game-hatchi": {
+      "codepoint": 58283,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "videoGameHatchi",
+      "duotone": true
     },
     "video-game-mario-mushroom-1": {
       "codepoint": 57626,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "videoGameMarioMushroom1"
+      "identifier": "videoGameMarioMushroom1",
+      "duotone": true
     },
     "video-game-nintendo": {
       "codepoint": 57627,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "videoGameNintendo"
+      "identifier": "videoGameNintendo",
+      "duotone": true
+    },
+    "video-game-tetris": {
+      "codepoint": 58284,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "videoGameTetris",
+      "duotone": true
+    },
+    "video-games-device-switch-joy-controller": {
+      "codepoint": 58285,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "videoGamesDeviceSwitchJoyController",
+      "duotone": true
+    },
+    "video-meeting-camera-browser": {
+      "codepoint": 58286,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "videoMeetingCameraBrowser",
+      "duotone": true
     },
     "video-meeting-monitor-webcam": {
       "codepoint": 57628,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "videoMeetingMonitorWebcam"
+      "identifier": "videoMeetingMonitorWebcam",
+      "duotone": true
+    },
+    "video-meeting-team-monitor-man-1": {
+      "codepoint": 58287,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "videoMeetingTeamMonitorMan1",
+      "duotone": true
+    },
+    "video-player-movie": {
+      "codepoint": 58288,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "videoPlayerMovie",
+      "duotone": true
     },
     "video-player-slider": {
       "codepoint": 57629,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "videoPlayerSlider"
+      "identifier": "videoPlayerSlider",
+      "duotone": true
     },
     "video-player-smartphone-horizontal": {
       "codepoint": 57630,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "videoPlayerSmartphoneHorizontal"
+      "identifier": "videoPlayerSmartphoneHorizontal",
+      "duotone": true
+    },
+    "view-binocular": {
+      "codepoint": 58289,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "viewBinocular",
+      "duotone": true
     },
     "view-eye-1": {
       "codepoint": 57631,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "viewEye1"
+      "identifier": "viewEye1",
+      "duotone": true
+    },
+    "view-eye-off": {
+      "codepoint": 58290,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "viewEyeOff",
+      "duotone": true
+    },
+    "vintage-camera-polaroid": {
+      "codepoint": 58291,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "vintageCameraPolaroid",
+      "duotone": true
+    },
+    "vintage-tv-1": {
+      "codepoint": 58292,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "vintageTv1",
+      "duotone": true
     },
     "vinyl-record-gramophone": {
       "codepoint": 57632,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "vinylRecordGramophone"
+      "identifier": "vinylRecordGramophone",
+      "duotone": true
+    },
+    "vinyl-record-player-2": {
+      "codepoint": 58293,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "vinylRecordPlayer2",
+      "duotone": true
+    },
+    "voice-id-approved": {
+      "codepoint": 58294,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "voiceIdApproved",
+      "duotone": true
     },
     "voice-id-smartphone": {
       "codepoint": 57633,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "voiceIdSmartphone"
+      "identifier": "voiceIdSmartphone",
+      "duotone": true
+    },
+    "voice-id-user": {
+      "codepoint": 58295,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "voiceIdUser",
+      "duotone": true
+    },
+    "volume-control-down-1": {
+      "codepoint": 58296,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "volumeControlDown1",
+      "duotone": true
     },
     "volume-control-medium-1": {
       "codepoint": 57634,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "volumeControlMedium1"
+      "identifier": "volumeControlMedium1",
+      "duotone": true
     },
     "volume-control-up-1": {
       "codepoint": 57635,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "volumeControlUp1"
+      "identifier": "volumeControlUp1",
+      "duotone": true
     },
     "waiting-room-clock": {
       "codepoint": 57636,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "waitingRoomClock"
+      "identifier": "waitingRoomClock",
+      "duotone": true
     },
     "walking-symbol": {
       "codepoint": 57637,
@@ -1499,67 +5667,230 @@
     "walkman-player": {
       "codepoint": 57638,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "walkmanPlayer"
+      "identifier": "walkmanPlayer",
+      "duotone": true
+    },
+    "water-fountain-drink": {
+      "codepoint": 58297,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "waterFountainDrink",
+      "duotone": true
+    },
+    "water-fountain-sink": {
+      "codepoint": 58298,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "waterFountainSink",
+      "duotone": true
+    },
+    "wealth-crystal-shine": {
+      "codepoint": 58299,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "wealthCrystalShine",
+      "duotone": true
+    },
+    "wealth-gold-bars": {
+      "codepoint": 58300,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "wealthGoldBars",
+      "duotone": true
     },
     "wealth-pearl-ring": {
       "codepoint": 57639,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "wealthPearlRing"
+      "identifier": "wealthPearlRing",
+      "duotone": true
+    },
+    "wealth-time-money": {
+      "codepoint": 58301,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "wealthTimeMoney",
+      "duotone": true
     },
     "wealth-treasure-chest-open": {
       "codepoint": 57640,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "wealthTreasureChestOpen"
+      "identifier": "wealthTreasureChestOpen",
+      "duotone": true
+    },
+    "webcam": {
+      "codepoint": 58302,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "webcam",
+      "duotone": true
+    },
+    "webcam-off-1": {
+      "codepoint": 58303,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "webcamOff1",
+      "duotone": true
+    },
+    "website-development-browser-com-web": {
+      "codepoint": 58304,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "websiteDevelopmentBrowserComWeb",
+      "duotone": true
+    },
+    "website-development-browser-hand": {
+      "codepoint": 58305,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "websiteDevelopmentBrowserHand",
+      "duotone": true
+    },
+    "website-development-browser-page-layout": {
+      "codepoint": 58306,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "websiteDevelopmentBrowserPageLayout",
+      "duotone": true
     },
     "website-development-browser-source-code": {
       "codepoint": 57641,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "websiteDevelopmentBrowserSourceCode"
+      "identifier": "websiteDevelopmentBrowserSourceCode",
+      "duotone": true
+    },
+    "website-development-build": {
+      "codepoint": 58307,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "websiteDevelopmentBuild",
+      "duotone": true
+    },
+    "website-development-code-flowchart-1": {
+      "codepoint": 58308,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "websiteDevelopmentCodeFlowchart1",
+      "duotone": true
+    },
+    "website-development-monitor-www-web": {
+      "codepoint": 58309,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "websiteDevelopmentMonitorWwwWeb",
+      "duotone": true
+    },
+    "wifi-laptop": {
+      "codepoint": 58310,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "wifiLaptop",
+      "duotone": true
     },
     "wifi-monitor-1": {
       "codepoint": 57642,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "wifiMonitor1"
+      "identifier": "wifiMonitor1",
+      "duotone": true
     },
     "wifi-on": {
       "codepoint": 57643,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "wifiOn"
+      "identifier": "wifiOn",
+      "duotone": true
     },
     "wireless-house-signal": {
       "codepoint": 57644,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "wirelessHouseSignal"
+      "identifier": "wirelessHouseSignal",
+      "duotone": true
     },
     "wireless-signal-rss-feed": {
       "codepoint": 57645,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "wirelessSignalRssFeed"
+      "identifier": "wirelessSignalRssFeed",
+      "duotone": true
     },
     "wireless-tower-building": {
       "codepoint": 57646,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "wirelessTowerBuilding"
+      "identifier": "wirelessTowerBuilding",
+      "duotone": true
     },
     "wireless-wifi-signal-antenna": {
       "codepoint": 57647,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "wirelessWifiSignalAntenna"
+      "identifier": "wirelessWifiSignalAntenna",
+      "duotone": true
     },
     "wireless-wifi-signal-pole": {
       "codepoint": 57648,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "wirelessWifiSignalPole"
+      "identifier": "wirelessWifiSignalPole",
+      "duotone": true
+    },
+    "work-from-home-travel-office": {
+      "codepoint": 58311,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "workFromHomeTravelOffice",
+      "duotone": true
+    },
+    "work-from-home-user-pet-cat": {
+      "codepoint": 58312,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "workFromHomeUserPetCat",
+      "duotone": true
     },
     "worker-lay-off-fired-user-finger-1": {
       "codepoint": 57649,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "workerLayOffFiredUserFinger1"
+      "identifier": "workerLayOffFiredUserFinger1",
+      "duotone": true
+    },
+    "workflow-branch": {
+      "codepoint": 58313,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "workflowBranch",
+      "duotone": true
+    },
+    "worldwide-web-browser": {
+      "codepoint": 58314,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "worldwideWebBrowser",
+      "duotone": true
+    },
+    "worldwide-web-disable": {
+      "codepoint": 58315,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "worldwideWebDisable",
+      "duotone": true
+    },
+    "worldwide-web-location-pin": {
+      "codepoint": 58316,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "worldwideWebLocationPin",
+      "duotone": true
+    },
+    "worldwide-web-network-www": {
+      "codepoint": 58317,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "worldwideWebNetworkWww",
+      "duotone": true
+    },
+    "worldwide-web-phone": {
+      "codepoint": 58318,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "worldwideWebPhone",
+      "duotone": true
+    },
+    "worldwide-web-sync": {
+      "codepoint": 58319,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "worldwideWebSync",
+      "duotone": true
     },
     "worldwide-web-users": {
       "codepoint": 57650,
       "fontFamily": "StreamlineFreehandColor",
-      "identifier": "worldwideWebUsers"
+      "identifier": "worldwideWebUsers",
+      "duotone": true
+    },
+    "zoom-in-magnifier-1": {
+      "codepoint": 58320,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "zoomInMagnifier1",
+      "duotone": true
+    },
+    "zoom-out-magnifier-1": {
+      "codepoint": 58321,
+      "fontFamily": "StreamlineFreehandColor",
+      "identifier": "zoomOutMagnifier1",
+      "duotone": true
     }
   }
 }

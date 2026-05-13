@@ -16,13 +16,18 @@
       "spdx": "MIT",
       "url": "https://github.com/lipis/flag-icons/blob/main/LICENSE"
     },
-    "total": 476
+    "total": 491
   },
   "fonts": [
     {
       "family": "Flag",
-      "nextCodepoint": 57820,
-      "iconCount": 476
+      "nextCodepoint": 57835,
+      "iconCount": 491
+    },
+    {
+      "family": "FlagSecondary",
+      "nextCodepoint": 57835,
+      "iconCount": 45
     }
   ],
   "icons": {
@@ -139,12 +144,14 @@
     "at-1x1": {
       "codepoint": 57366,
       "fontFamily": "Flag",
-      "identifier": "at1x1"
+      "identifier": "at1x1",
+      "duotone": true
     },
     "at-4x3": {
       "codepoint": 57367,
       "fontFamily": "Flag",
-      "identifier": "at4x3"
+      "identifier": "at4x3",
+      "duotone": true
     },
     "au-1x1": {
       "codepoint": 57368,
@@ -209,12 +216,14 @@
     "bd-1x1": {
       "codepoint": 57380,
       "fontFamily": "Flag",
-      "identifier": "bd1x1"
+      "identifier": "bd1x1",
+      "duotone": true
     },
     "bd-4x3": {
       "codepoint": 57381,
       "fontFamily": "Flag",
-      "identifier": "bd4x3"
+      "identifier": "bd4x3",
+      "duotone": true
     },
     "be-1x1": {
       "codepoint": 57382,
@@ -249,12 +258,14 @@
     "bh-1x1": {
       "codepoint": 57388,
       "fontFamily": "Flag",
-      "identifier": "bh1x1"
+      "identifier": "bh1x1",
+      "duotone": true
     },
     "bh-4x3": {
       "codepoint": 57389,
       "fontFamily": "Flag",
-      "identifier": "bh4x3"
+      "identifier": "bh4x3",
+      "duotone": true
     },
     "bi-1x1": {
       "codepoint": 57390,
@@ -359,12 +370,14 @@
     "ca-1x1": {
       "codepoint": 57410,
       "fontFamily": "Flag",
-      "identifier": "ca1x1"
+      "identifier": "ca1x1",
+      "duotone": true
     },
     "ca-4x3": {
       "codepoint": 57411,
       "fontFamily": "Flag",
-      "identifier": "ca4x3"
+      "identifier": "ca4x3",
+      "duotone": true
     },
     "cc-1x1": {
       "codepoint": 57412,
@@ -596,6 +609,18 @@
       "fontFamily": "Flag",
       "identifier": "dj4x3"
     },
+    "dk-1x1": {
+      "codepoint": 57820,
+      "fontFamily": "Flag",
+      "identifier": "dk1x1",
+      "duotone": true
+    },
+    "dk-4x3": {
+      "codepoint": 57821,
+      "fontFamily": "Flag",
+      "identifier": "dk4x3",
+      "duotone": true
+    },
     "dm-1x1": {
       "codepoint": 57458,
       "fontFamily": "Flag",
@@ -759,12 +784,14 @@
     "fi-1x1": {
       "codepoint": 57490,
       "fontFamily": "Flag",
-      "identifier": "fi1x1"
+      "identifier": "fi1x1",
+      "duotone": true
     },
     "fi-4x3": {
       "codepoint": 57491,
       "fontFamily": "Flag",
-      "identifier": "fi4x3"
+      "identifier": "fi4x3",
+      "duotone": true
     },
     "fj-1x1": {
       "codepoint": 57492,
@@ -829,12 +856,14 @@
     "gb-eng-1x1": {
       "codepoint": 57504,
       "fontFamily": "Flag",
-      "identifier": "gbEng1x1"
+      "identifier": "gbEng1x1",
+      "duotone": true
     },
     "gb-eng-4x3": {
       "codepoint": 57505,
       "fontFamily": "Flag",
-      "identifier": "gbEng4x3"
+      "identifier": "gbEng4x3",
+      "duotone": true
     },
     "gb-nir-1x1": {
       "codepoint": 57506,
@@ -879,12 +908,14 @@
     "ge-1x1": {
       "codepoint": 57514,
       "fontFamily": "Flag",
-      "identifier": "ge1x1"
+      "identifier": "ge1x1",
+      "duotone": true
     },
     "ge-4x3": {
       "codepoint": 57515,
       "fontFamily": "Flag",
-      "identifier": "ge4x3"
+      "identifier": "ge4x3",
+      "duotone": true
     },
     "gf-1x1": {
       "codepoint": 57516,
@@ -929,12 +960,14 @@
     "gl-1x1": {
       "codepoint": 57524,
       "fontFamily": "Flag",
-      "identifier": "gl1x1"
+      "identifier": "gl1x1",
+      "duotone": true
     },
     "gl-4x3": {
       "codepoint": 57525,
       "fontFamily": "Flag",
-      "identifier": "gl4x3"
+      "identifier": "gl4x3",
+      "duotone": true
     },
     "gm-1x1": {
       "codepoint": 57526,
@@ -1050,6 +1083,18 @@
       "codepoint": 57548,
       "fontFamily": "Flag",
       "identifier": "ic4x3"
+    },
+    "id-1x1": {
+      "codepoint": 57822,
+      "fontFamily": "Flag",
+      "identifier": "id1x1",
+      "duotone": true
+    },
+    "id-4x3": {
+      "codepoint": 57823,
+      "fontFamily": "Flag",
+      "identifier": "id4x3",
+      "duotone": true
     },
     "ie-1x1": {
       "codepoint": 57549,
@@ -1194,12 +1239,14 @@
     "kg-1x1": {
       "codepoint": 57577,
       "fontFamily": "Flag",
-      "identifier": "kg1x1"
+      "identifier": "kg1x1",
+      "duotone": true
     },
     "kg-4x3": {
       "codepoint": 57578,
       "fontFamily": "Flag",
-      "identifier": "kg4x3"
+      "identifier": "kg4x3",
+      "duotone": true
     },
     "kh-1x1": {
       "codepoint": 57579,
@@ -1379,7 +1426,14 @@
     "lv-1x1": {
       "codepoint": 57614,
       "fontFamily": "Flag",
-      "identifier": "lv1x1"
+      "identifier": "lv1x1",
+      "duotone": true
+    },
+    "lv-4x3": {
+      "codepoint": 57824,
+      "fontFamily": "Flag",
+      "identifier": "lv4x3",
+      "duotone": true
     },
     "ly-1x1": {
       "codepoint": 57615,
@@ -1400,6 +1454,18 @@
       "codepoint": 57618,
       "fontFamily": "Flag",
       "identifier": "ma4x3"
+    },
+    "mc-1x1": {
+      "codepoint": 57825,
+      "fontFamily": "Flag",
+      "identifier": "mc1x1",
+      "duotone": true
+    },
+    "mc-4x3": {
+      "codepoint": 57826,
+      "fontFamily": "Flag",
+      "identifier": "mc4x3",
+      "duotone": true
     },
     "md-1x1": {
       "codepoint": 57619,
@@ -1450,6 +1516,18 @@
       "codepoint": 57628,
       "fontFamily": "Flag",
       "identifier": "mh4x3"
+    },
+    "mk-1x1": {
+      "codepoint": 57827,
+      "fontFamily": "Flag",
+      "identifier": "mk1x1",
+      "duotone": true
+    },
+    "mk-4x3": {
+      "codepoint": 57828,
+      "fontFamily": "Flag",
+      "identifier": "mk4x3",
+      "duotone": true
     },
     "ml-1x1": {
       "codepoint": 57629,
@@ -1604,17 +1682,20 @@
     "nf-4x3": {
       "codepoint": 57659,
       "fontFamily": "Flag",
-      "identifier": "nf4x3"
+      "identifier": "nf4x3",
+      "duotone": true
     },
     "ng-1x1": {
       "codepoint": 57660,
       "fontFamily": "Flag",
-      "identifier": "ng1x1"
+      "identifier": "ng1x1",
+      "duotone": true
     },
     "ng-4x3": {
       "codepoint": 57661,
       "fontFamily": "Flag",
-      "identifier": "ng4x3"
+      "identifier": "ng4x3",
+      "duotone": true
     },
     "ni-1x1": {
       "codepoint": 57662,
@@ -1711,6 +1792,18 @@
       "fontFamily": "Flag",
       "identifier": "pc4x3"
     },
+    "pe-1x1": {
+      "codepoint": 57829,
+      "fontFamily": "Flag",
+      "identifier": "pe1x1",
+      "duotone": true
+    },
+    "pe-4x3": {
+      "codepoint": 57830,
+      "fontFamily": "Flag",
+      "identifier": "pe4x3",
+      "duotone": true
+    },
     "pf-1x1": {
       "codepoint": 57681,
       "fontFamily": "Flag",
@@ -1754,12 +1847,14 @@
     "pl-1x1": {
       "codepoint": 57689,
       "fontFamily": "Flag",
-      "identifier": "pl1x1"
+      "identifier": "pl1x1",
+      "duotone": true
     },
     "pl-4x3": {
       "codepoint": 57690,
       "fontFamily": "Flag",
-      "identifier": "pl4x3"
+      "identifier": "pl4x3",
+      "duotone": true
     },
     "pm-1x1": {
       "codepoint": 57691,
@@ -1824,12 +1919,14 @@
     "qa-1x1": {
       "codepoint": 57703,
       "fontFamily": "Flag",
-      "identifier": "qa1x1"
+      "identifier": "qa1x1",
+      "duotone": true
     },
     "qa-4x3": {
       "codepoint": 57704,
       "fontFamily": "Flag",
-      "identifier": "qa4x3"
+      "identifier": "qa4x3",
+      "duotone": true
     },
     "re-1x1": {
       "codepoint": 57705,
@@ -1910,6 +2007,18 @@
       "codepoint": 57720,
       "fontFamily": "Flag",
       "identifier": "sd4x3"
+    },
+    "se-1x1": {
+      "codepoint": 57831,
+      "fontFamily": "Flag",
+      "identifier": "se1x1",
+      "duotone": true
+    },
+    "se-4x3": {
+      "codepoint": 57832,
+      "fontFamily": "Flag",
+      "identifier": "se4x3",
+      "duotone": true
     },
     "sg-1x1": {
       "codepoint": 57721,
@@ -2131,15 +2240,29 @@
       "fontFamily": "Flag",
       "identifier": "tm4x3"
     },
+    "tn-1x1": {
+      "codepoint": 57833,
+      "fontFamily": "Flag",
+      "identifier": "tn1x1",
+      "duotone": true
+    },
+    "tn-4x3": {
+      "codepoint": 57834,
+      "fontFamily": "Flag",
+      "identifier": "tn4x3",
+      "duotone": true
+    },
     "tr-1x1": {
       "codepoint": 57765,
       "fontFamily": "Flag",
-      "identifier": "tr1x1"
+      "identifier": "tr1x1",
+      "duotone": true
     },
     "tr-4x3": {
       "codepoint": 57766,
       "fontFamily": "Flag",
-      "identifier": "tr4x3"
+      "identifier": "tr4x3",
+      "duotone": true
     },
     "tt-1x1": {
       "codepoint": 57767,
@@ -2184,12 +2307,14 @@
     "ua-1x1": {
       "codepoint": 57775,
       "fontFamily": "Flag",
-      "identifier": "ua1x1"
+      "identifier": "ua1x1",
+      "duotone": true
     },
     "ua-4x3": {
       "codepoint": 57776,
       "fontFamily": "Flag",
-      "identifier": "ua4x3"
+      "identifier": "ua4x3",
+      "duotone": true
     },
     "ug-1x1": {
       "codepoint": 57777,

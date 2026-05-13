@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/tandpfun/skill-icons/blob/main/LICENSE',
-  iconCount: 313,
+  iconCount: 328,
 );

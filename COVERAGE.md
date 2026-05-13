@@ -4,9 +4,9 @@ Generated 2026-05-13 from `@iconify/json` v2.2.472. Source counts are Iconify's 
 
 - **Sets built:** 223 / 225
 - **Sets fully missing:** 2
-- **Sets partially missing (≥5% gap):** 36
+- **Sets partially missing (≥5% gap):** 31
 - **Source icons:** 301,637
-- **Built icons:** 298,789
+- **Built icons:** 303,650
 
 Synthesised weight variants (Lucide / Tabler / Iconoir etc. with `-thin`/`-light`/`-bold` suffixes) are excluded from the built count so source-vs-built comparisons stay meaningful — those are local clones, not upstream icons.
 
@@ -21,40 +21,35 @@ Synthesised weight variants (Lucide / Tabler / Iconoir etc. with `-thin`/`-light
 
 | Set | Prefix | Source | Built | Missing | % |
 |---|---|---:|---:|---:|---:|
-| Noto Emoji | `noto` | 3,710 | 38 | 3,672 | 99.0% |
-| Fluent Emoji Flat | `fluent-emoji-flat` | 3,145 | 43 | 3,102 | 98.6% |
+| Kameleon color icons | `streamline-kameleon-color` | 400 | 3 | 397 | 99.3% |
 | UnJS Logos | `unjs` | 63 | 1 | 62 | 98.4% |
-| Twitter Emoji | `twemoji` | 3,988 | 70 | 3,918 | 98.2% |
-| Emoji One (v1) | `emojione-v1` | 1,262 | 51 | 1,211 | 96.0% |
-| Emoji One (Colored) | `emojione` | 1,834 | 80 | 1,754 | 95.6% |
-| Kameleon color icons | `streamline-kameleon-color` | 400 | 20 | 380 | 95.0% |
-| Noto Emoji (v1) | `noto-v1` | 2,162 | 160 | 2,002 | 92.6% |
-| Flat Color Icons | `flat-color-icons` | 329 | 32 | 297 | 90.3% |
-| Firefox OS Emoji | `fxemoji` | 1,034 | 117 | 917 | 88.7% |
-| VSCode Icons | `vscode-icons` | 1,489 | 234 | 1,255 | 84.3% |
-| Material Icon Theme | `material-icon-theme` | 1,168 | 234 | 934 | 80.0% |
+| Noto Emoji | `noto` | 3,710 | 70 | 3,640 | 98.1% |
+| Fluent Emoji Flat | `fluent-emoji-flat` | 3,145 | 536 | 2,609 | 83.0% |
+| Noto Emoji (v1) | `noto-v1` | 2,162 | 380 | 1,782 | 82.4% |
+| Twitter Emoji | `twemoji` | 3,988 | 707 | 3,281 | 82.3% |
+| Emoji One (Colored) | `emojione` | 1,834 | 350 | 1,484 | 80.9% |
+| Emoji One (v1) | `emojione-v1` | 1,262 | 247 | 1,015 | 80.4% |
+| Firefox OS Emoji | `fxemoji` | 1,034 | 244 | 790 | 76.4% |
 | Circle Flags | `circle-flags` | 634 | 153 | 481 | 75.9% |
-| SVG Logos | `logos` | 1,861 | 534 | 1,327 | 71.3% |
-| Freehand color icons | `streamline-freehand-color` | 1,000 | 307 | 693 | 69.3% |
-| Google Cloud Icons | `gcp` | 214 | 84 | 130 | 60.7% |
+| Flat Color Icons | `flat-color-icons` | 329 | 93 | 236 | 71.7% |
+| VSCode Icons | `vscode-icons` | 1,489 | 558 | 931 | 62.5% |
 | IconPark TwoTone | `icon-park-twotone` | 1,944 | 884 | 1,060 | 54.5% |
+| SVG Logos | `logos` | 1,861 | 902 | 959 | 51.5% |
 | Streamline Emojis | `streamline-emojis` | 787 | 407 | 380 | 48.3% |
+| Google Cloud Icons | `gcp` | 214 | 118 | 96 | 44.9% |
 | Ultimate color icons | `streamline-ultimate-color` | 998 | 587 | 411 | 41.2% |
-| Devicon | `devicon` | 1,036 | 745 | 291 | 28.1% |
-| Flagpack | `flagpack` | 254 | 185 | 69 | 27.2% |
-| Flat UI Icons | `flat-ui` | 100 | 73 | 27 | 27.0% |
-| CoreUI Flags | `cif` | 199 | 149 | 50 | 25.1% |
-| Glyphs Poly | `glyphs-poly` | 863 | 666 | 197 | 22.8% |
-| Skill Icons | `skill-icons` | 400 | 313 | 87 | 21.8% |
-| Web3 Icons Branded | `token-branded` | 2,028 | 1,595 | 433 | 21.4% |
+| Material Icon Theme | `material-icon-theme` | 1,168 | 774 | 394 | 33.7% |
+| Flat UI Icons | `flat-ui` | 100 | 75 | 25 | 25.0% |
+| Flagpack | `flagpack` | 254 | 191 | 63 | 24.8% |
+| Devicon | `devicon` | 1,036 | 808 | 228 | 22.0% |
+| CoreUI Flags | `cif` | 199 | 160 | 39 | 19.6% |
+| Skill Icons | `skill-icons` | 400 | 328 | 72 | 18.0% |
+| Web3 Icons Branded | `token-branded` | 2,028 | 1,664 | 364 | 17.9% |
 | Stickies color icons | `streamline-stickies-color` | 200 | 165 | 35 | 17.5% |
-| Flex color icons | `streamline-flex-color` | 1,000 | 844 | 156 | 15.6% |
-| Sharp color icons | `streamline-sharp-color` | 1,000 | 868 | 132 | 13.2% |
-| Streamline color | `streamline-color` | 2,000 | 1,744 | 256 | 12.8% |
-| Flag Icons | `flag` | 542 | 476 | 66 | 12.2% |
-| Plump color icons | `streamline-plump-color` | 1,000 | 879 | 121 | 12.1% |
-| Fluent Emoji | `fluent-emoji` | 3,126 | 2,776 | 350 | 11.2% |
+| Glyphs Poly | `glyphs-poly` | 863 | 733 | 130 | 15.1% |
+| Fluent Emoji | `fluent-emoji` | 3,126 | 2,777 | 349 | 11.2% |
 | OpenMoji | `openmoji` | 4,475 | 4,049 | 426 | 9.5% |
+| Flag Icons | `flag` | 542 | 491 | 51 | 9.4% |
 | BPMN | `bpmn` | 112 | 102 | 10 | 8.9% |
 | Academicons | `academicons` | 158 | 148 | 10 | 6.3% |
 
@@ -64,40 +59,35 @@ Synthesised weight variants (Lucide / Tabler / Iconoir etc. with `-thin`/`-light
 |---|---|---:|---:|---:|---|
 | Fluent UI System Color Icons | `fluent-color` | 890 | 0 | +890 | ✗ missing |
 | SVG Spinners | `svg-spinners` | 46 | 0 | +46 | ✗ missing |
-| Noto Emoji | `noto` | 3,710 | 38 | +3672 | ⚠ partial |
-| Fluent Emoji Flat | `fluent-emoji-flat` | 3,145 | 43 | +3102 | ⚠ partial |
+| Kameleon color icons | `streamline-kameleon-color` | 400 | 3 | +397 | ⚠ partial |
 | UnJS Logos | `unjs` | 63 | 1 | +62 | ⚠ partial |
-| Twitter Emoji | `twemoji` | 3,988 | 70 | +3918 | ⚠ partial |
-| Emoji One (v1) | `emojione-v1` | 1,262 | 51 | +1211 | ⚠ partial |
-| Emoji One (Colored) | `emojione` | 1,834 | 80 | +1754 | ⚠ partial |
-| Kameleon color icons | `streamline-kameleon-color` | 400 | 20 | +380 | ⚠ partial |
-| Noto Emoji (v1) | `noto-v1` | 2,162 | 160 | +2002 | ⚠ partial |
-| Flat Color Icons | `flat-color-icons` | 329 | 32 | +297 | ⚠ partial |
-| Firefox OS Emoji | `fxemoji` | 1,034 | 117 | +917 | ⚠ partial |
-| VSCode Icons | `vscode-icons` | 1,489 | 234 | +1255 | ⚠ partial |
-| Material Icon Theme | `material-icon-theme` | 1,168 | 234 | +934 | ⚠ partial |
+| Noto Emoji | `noto` | 3,710 | 70 | +3640 | ⚠ partial |
+| Fluent Emoji Flat | `fluent-emoji-flat` | 3,145 | 536 | +2609 | ⚠ partial |
+| Noto Emoji (v1) | `noto-v1` | 2,162 | 380 | +1782 | ⚠ partial |
+| Twitter Emoji | `twemoji` | 3,988 | 707 | +3281 | ⚠ partial |
+| Emoji One (Colored) | `emojione` | 1,834 | 350 | +1484 | ⚠ partial |
+| Emoji One (v1) | `emojione-v1` | 1,262 | 247 | +1015 | ⚠ partial |
+| Firefox OS Emoji | `fxemoji` | 1,034 | 244 | +790 | ⚠ partial |
 | Circle Flags | `circle-flags` | 634 | 153 | +481 | ⚠ partial |
-| SVG Logos | `logos` | 1,861 | 534 | +1327 | ⚠ partial |
-| Freehand color icons | `streamline-freehand-color` | 1,000 | 307 | +693 | ⚠ partial |
-| Google Cloud Icons | `gcp` | 214 | 84 | +130 | ⚠ partial |
+| Flat Color Icons | `flat-color-icons` | 329 | 93 | +236 | ⚠ partial |
+| VSCode Icons | `vscode-icons` | 1,489 | 558 | +931 | ⚠ partial |
 | IconPark TwoTone | `icon-park-twotone` | 1,944 | 884 | +1060 | ⚠ partial |
+| SVG Logos | `logos` | 1,861 | 902 | +959 | ⚠ partial |
 | Streamline Emojis | `streamline-emojis` | 787 | 407 | +380 | ⚠ partial |
+| Google Cloud Icons | `gcp` | 214 | 118 | +96 | ⚠ partial |
 | Ultimate color icons | `streamline-ultimate-color` | 998 | 587 | +411 | ⚠ partial |
-| Devicon | `devicon` | 1,036 | 745 | +291 | ⚠ partial |
-| Flagpack | `flagpack` | 254 | 185 | +69 | ⚠ partial |
-| Flat UI Icons | `flat-ui` | 100 | 73 | +27 | ⚠ partial |
-| CoreUI Flags | `cif` | 199 | 149 | +50 | ⚠ partial |
-| Glyphs Poly | `glyphs-poly` | 863 | 666 | +197 | ⚠ partial |
-| Skill Icons | `skill-icons` | 400 | 313 | +87 | ⚠ partial |
-| Web3 Icons Branded | `token-branded` | 2,028 | 1,595 | +433 | ⚠ partial |
+| Material Icon Theme | `material-icon-theme` | 1,168 | 774 | +394 | ⚠ partial |
+| Flat UI Icons | `flat-ui` | 100 | 75 | +25 | ⚠ partial |
+| Flagpack | `flagpack` | 254 | 191 | +63 | ⚠ partial |
+| Devicon | `devicon` | 1,036 | 808 | +228 | ⚠ partial |
+| CoreUI Flags | `cif` | 199 | 160 | +39 | ⚠ partial |
+| Skill Icons | `skill-icons` | 400 | 328 | +72 | ⚠ partial |
+| Web3 Icons Branded | `token-branded` | 2,028 | 1,664 | +364 | ⚠ partial |
 | Stickies color icons | `streamline-stickies-color` | 200 | 165 | +35 | ⚠ partial |
-| Flex color icons | `streamline-flex-color` | 1,000 | 844 | +156 | ⚠ partial |
-| Sharp color icons | `streamline-sharp-color` | 1,000 | 868 | +132 | ⚠ partial |
-| Streamline color | `streamline-color` | 2,000 | 1,744 | +256 | ⚠ partial |
-| Flag Icons | `flag` | 542 | 476 | +66 | ⚠ partial |
-| Plump color icons | `streamline-plump-color` | 1,000 | 879 | +121 | ⚠ partial |
-| Fluent Emoji | `fluent-emoji` | 3,126 | 2,776 | +350 | ⚠ partial |
+| Glyphs Poly | `glyphs-poly` | 863 | 733 | +130 | ⚠ partial |
+| Fluent Emoji | `fluent-emoji` | 3,126 | 2,777 | +349 | ⚠ partial |
 | OpenMoji | `openmoji` | 4,475 | 4,049 | +426 | ⚠ partial |
+| Flag Icons | `flag` | 542 | 491 | +51 | ⚠ partial |
 | BPMN | `bpmn` | 112 | 102 | +10 | ⚠ partial |
 | Academicons | `academicons` | 158 | 148 | +10 | ⚠ partial |
 | EOS Icons | `eos-icons` | 253 | 242 | +11 | ✓ |
@@ -106,6 +96,7 @@ Synthesised weight variants (Lucide / Tabler / Iconoir etc. with `-thin`/`-light
 | Fluent Emoji High Contrast | `fluent-emoji-high-contrast` | 1,595 | 1,545 | +50 | ✓ |
 | CoreUI Brands | `cib` | 830 | 810 | +20 | ✓ |
 | Brandico | `brandico` | 45 | 44 | +1 | ✓ |
+| Freehand color icons | `streamline-freehand-color` | 1,000 | 978 | +22 | ✓ |
 | Game Icons | `game-icons` | 4,133 | 4,061 | +72 | ✓ |
 | OOUI | `ooui` | 371 | 365 | +6 | ✓ |
 | Map Icons | `map` | 167 | 165 | +2 | ✓ |
@@ -122,6 +113,10 @@ Synthesised weight variants (Lucide / Tabler / Iconoir etc. with `-thin`/`-light
 | Typicons | `typcn` | 336 | 335 | +1 | ✓ |
 | Framework7 Icons | `f7` | 1,253 | 1,250 | +3 | ✓ |
 | Famicons | `famicons` | 1,342 | 1,339 | +3 | ✓ |
+| Streamline color | `streamline-color` | 2,000 | 1,996 | +4 | ✓ |
+| Plump color icons | `streamline-plump-color` | 1,000 | 998 | +2 | ✓ |
+| Flex color icons | `streamline-flex-color` | 1,000 | 998 | +2 | ✓ |
+| Sharp color icons | `streamline-sharp-color` | 1,000 | 999 | +1 | ✓ |
 | Boxicons | `boxicons` | 3,768 | 3,768 | 0 | ✓ |
 | Pixel Icon | `pixel` | 578 | 578 | 0 | ✓ |
 | Meteor Icons | `meteor-icons` | 321 | 321 | 0 | ✓ |

@@ -16,25 +16,26 @@
       "spdx": "MIT",
       "url": "https://github.com/designmodo/Flat-UI/blob/master/LICENSE"
     },
-    "total": 73
+    "total": 75
   },
   "fonts": [
     {
       "family": "FlatUi",
-      "nextCodepoint": 57417,
-      "iconCount": 73
+      "nextCodepoint": 57419,
+      "iconCount": 75
     },
     {
       "family": "FlatUiSecondary",
-      "nextCodepoint": 57417,
-      "iconCount": 14
+      "nextCodepoint": 57419,
+      "iconCount": 19
     }
   ],
   "icons": {
     "android": {
       "codepoint": 57344,
       "fontFamily": "FlatUi",
-      "identifier": "android"
+      "identifier": "android",
+      "duotone": true
     },
     "android1": {
       "codepoint": 57345,
@@ -223,6 +224,18 @@
       "fontFamily": "FlatUi",
       "identifier": "imac"
     },
+    "ipad": {
+      "codepoint": 57417,
+      "fontFamily": "FlatUi",
+      "identifier": "ipad",
+      "duotone": true
+    },
+    "iphone": {
+      "codepoint": 57418,
+      "fontFamily": "FlatUi",
+      "identifier": "iphone",
+      "duotone": true
+    },
     "lettersymbol": {
       "codepoint": 57381,
       "fontFamily": "FlatUi",
@@ -247,7 +260,8 @@
     "magicmouse": {
       "codepoint": 57385,
       "fontFamily": "FlatUi",
-      "identifier": "magicmouse"
+      "identifier": "magicmouse",
+      "duotone": true
     },
     "map": {
       "codepoint": 57386,
@@ -408,7 +422,8 @@
     "yinyang": {
       "codepoint": 57416,
       "fontFamily": "FlatUi",
-      "identifier": "yinyang"
+      "identifier": "yinyang",
+      "duotone": true
     }
   }
 }

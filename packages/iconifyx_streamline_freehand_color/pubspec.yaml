@@ -1,6 +1,6 @@
 name: iconifyx_streamline_freehand_color
 description: >-
-  Freehand color icons icons from Iconify, packaged for Flutter (307 icons, CC BY 4.0 license).
+  Freehand color icons icons from Iconify, packaged for Flutter (978 icons, CC BY 4.0 license).
 version: 0.1.0
 publish_to: 'none'
 
@@ -20,3 +20,6 @@ flutter:
     - family: StreamlineFreehandColor
       fonts:
         - asset: assets/fonts/StreamlineFreehandColor.ttf
+    - family: StreamlineFreehandColorSecondary
+      fonts:
+        - asset: assets/fonts/StreamlineFreehandColorSecondary.ttf

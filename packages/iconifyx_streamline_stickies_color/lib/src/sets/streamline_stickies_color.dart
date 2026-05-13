@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Streamline
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 165
+/// Icons: 165 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -111,9 +111,10 @@ class StreamlineStickiesColorIcons {
     IconData(0xe012, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
   );
 
-  /// `bluetooth-duo`
-  static const IconifyIconData bluetoothDuo = IconifyIconData.solo(
+  /// `bluetooth-duo` (duo-tone)
+  static const IconifyIconData bluetoothDuo = IconifyIconData.duo(
     IconData(0xe013, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
+    IconData(0xe013, fontFamily: 'StreamlineStickiesColorSecondary', fontPackage: 'iconifyx_streamline_stickies_color'),
   );
 
   /// `boarding-pass`
@@ -386,9 +387,10 @@ class StreamlineStickiesColorIcons {
     IconData(0xe049, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
   );
 
-  /// `help-duo`
-  static const IconifyIconData helpDuo = IconifyIconData.solo(
+  /// `help-duo` (duo-tone)
+  static const IconifyIconData helpDuo = IconifyIconData.duo(
     IconData(0xe04a, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
+    IconData(0xe04a, fontFamily: 'StreamlineStickiesColorSecondary', fontPackage: 'iconifyx_streamline_stickies_color'),
   );
 
   /// `information-toilet-location-duo`
@@ -451,9 +453,10 @@ class StreamlineStickiesColorIcons {
     IconData(0xe056, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
   );
 
-  /// `love-duo`
-  static const IconifyIconData loveDuo = IconifyIconData.solo(
+  /// `love-duo` (duo-tone)
+  static const IconifyIconData loveDuo = IconifyIconData.duo(
     IconData(0xe057, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
+    IconData(0xe057, fontFamily: 'StreamlineStickiesColorSecondary', fontPackage: 'iconifyx_streamline_stickies_color'),
   );
 
   /// `mail-duo`
@@ -596,9 +599,10 @@ class StreamlineStickiesColorIcons {
     IconData(0xe073, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
   );
 
-  /// `programming-duo`
-  static const IconifyIconData programmingDuo = IconifyIconData.solo(
+  /// `programming-duo` (duo-tone)
+  static const IconifyIconData programmingDuo = IconifyIconData.duo(
     IconData(0xe074, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
+    IconData(0xe074, fontFamily: 'StreamlineStickiesColorSecondary', fontPackage: 'iconifyx_streamline_stickies_color'),
   );
 
   /// `qr-code-duo`
@@ -791,9 +795,10 @@ class StreamlineStickiesColorIcons {
     IconData(0xe09a, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
   );
 
-  /// `validation-1-duo`
-  static const IconifyIconData validation1Duo = IconifyIconData.solo(
+  /// `validation-1-duo` (duo-tone)
+  static const IconifyIconData validation1Duo = IconifyIconData.duo(
     IconData(0xe09b, fontFamily: 'StreamlineStickiesColor', fontPackage: 'iconifyx_streamline_stickies_color'),
+    IconData(0xe09b, fontFamily: 'StreamlineStickiesColorSecondary', fontPackage: 'iconifyx_streamline_stickies_color'),
   );
 
   /// `view-mail`

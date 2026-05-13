@@ -1,6 +1,6 @@
 name: iconifyx_streamline_flex_color
 description: >-
-  Flex color icons icons from Iconify, packaged for Flutter (844 icons, CC BY 4.0 license).
+  Flex color icons icons from Iconify, packaged for Flutter (998 icons, CC BY 4.0 license).
 version: 0.1.0
 publish_to: 'none'
 
@@ -20,3 +20,6 @@ flutter:
     - family: StreamlineFlexColor
       fonts:
         - asset: assets/fonts/StreamlineFlexColor.ttf
+    - family: StreamlineFlexColorSecondary
+      fonts:
+        - asset: assets/fonts/StreamlineFlexColorSecondary.ttf

@@ -20,3 +20,6 @@ flutter:
     - family: StreamlineUltimateColor
       fonts:
         - asset: assets/fonts/StreamlineUltimateColor.ttf
+    - family: StreamlineUltimateColorSecondary
+      fonts:
+        - asset: assets/fonts/StreamlineUltimateColorSecondary.ttf

@@ -23,6 +23,11 @@
       "family": "StreamlineUltimateColor",
       "nextCodepoint": 57931,
       "iconCount": 587
+    },
+    {
+      "family": "StreamlineUltimateColorSecondary",
+      "nextCodepoint": 57931,
+      "iconCount": 2
     }
   ],
   "icons": {
@@ -94,7 +99,8 @@
     "amazon-web-services-logo": {
       "codepoint": 57357,
       "fontFamily": "StreamlineUltimateColor",
-      "identifier": "amazonWebServicesLogo"
+      "identifier": "amazonWebServicesLogo",
+      "duotone": true
     },
     "ambulance-call": {
       "codepoint": 57358,
@@ -1429,7 +1435,8 @@
     "loading": {
       "codepoint": 57624,
       "fontFamily": "StreamlineUltimateColor",
-      "identifier": "loading"
+      "identifier": "loading",
+      "duotone": true
     },
     "loading-half": {
       "codepoint": 57625,

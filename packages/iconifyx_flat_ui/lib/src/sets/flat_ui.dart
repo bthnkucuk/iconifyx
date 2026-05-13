@@ -9,16 +9,17 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Designmodo, Inc.
 /// License: MIT — https://github.com/designmodo/Flat-UI/blob/master/LICENSE
-/// Icons: 73 (split across 2 fonts)
+/// Icons: 75 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
 class FlatUiIcons {
   const FlatUiIcons._();
 
-  /// `android`
-  static const IconifyIconData android = IconifyIconData.solo(
+  /// `android` (duo-tone)
+  static const IconifyIconData android = IconifyIconData.duo(
     IconData(0xe000, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
+    IconData(0xe000, fontFamily: 'FlatUiSecondary', fontPackage: 'iconifyx_flat_ui'),
   );
 
   /// `android1`
@@ -208,6 +209,18 @@ class FlatUiIcons {
     IconData(0xe024, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
   );
 
+  /// `ipad` (duo-tone)
+  static const IconifyIconData ipad = IconifyIconData.duo(
+    IconData(0xe049, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
+    IconData(0xe049, fontFamily: 'FlatUiSecondary', fontPackage: 'iconifyx_flat_ui'),
+  );
+
+  /// `iphone` (duo-tone)
+  static const IconifyIconData iphone = IconifyIconData.duo(
+    IconData(0xe04a, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
+    IconData(0xe04a, fontFamily: 'FlatUiSecondary', fontPackage: 'iconifyx_flat_ui'),
+  );
+
   /// `lettersymbol`
   static const IconifyIconData lettersymbol = IconifyIconData.solo(
     IconData(0xe025, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
@@ -229,9 +242,10 @@ class FlatUiIcons {
     IconData(0xe028, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
   );
 
-  /// `magicmouse`
-  static const IconifyIconData magicmouse = IconifyIconData.solo(
+  /// `magicmouse` (duo-tone)
+  static const IconifyIconData magicmouse = IconifyIconData.duo(
     IconData(0xe029, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
+    IconData(0xe029, fontFamily: 'FlatUiSecondary', fontPackage: 'iconifyx_flat_ui'),
   );
 
   /// `map` (duo-tone)
@@ -390,9 +404,10 @@ class FlatUiIcons {
     IconData(0xe047, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
   );
 
-  /// `yinyang`
-  static const IconifyIconData yinyang = IconifyIconData.solo(
+  /// `yinyang` (duo-tone)
+  static const IconifyIconData yinyang = IconifyIconData.duo(
     IconData(0xe048, fontFamily: 'FlatUi', fontPackage: 'iconifyx_flat_ui'),
+    IconData(0xe048, fontFamily: 'FlatUiSecondary', fontPackage: 'iconifyx_flat_ui'),
   );
 
 }

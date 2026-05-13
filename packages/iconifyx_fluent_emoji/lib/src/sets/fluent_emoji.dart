@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Microsoft Corporation
 /// License: MIT — https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE
-/// Icons: 2776
+/// Icons: 2777 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -11059,6 +11059,12 @@ class FluentEmojiIcons {
   /// `tomato`
   static const IconifyIconData tomato = IconifyIconData.solo(
     IconData(0xe8a0, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+  );
+
+  /// `tongue` (duo-tone)
+  static const IconifyIconData tongue = IconifyIconData.duo(
+    IconData(0xead8, fontFamily: 'FluentEmoji', fontPackage: 'iconifyx_fluent_emoji'),
+    IconData(0xead8, fontFamily: 'FluentEmojiSecondary', fontPackage: 'iconifyx_fluent_emoji'),
   );
 
   /// `toolbox`

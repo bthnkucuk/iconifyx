@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Streamline
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 587
+/// Icons: 587 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -81,9 +81,10 @@ class StreamlineUltimateColorIcons {
     IconData(0xe00c, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
   );
 
-  /// `amazon-web-services-logo`
-  static const IconifyIconData amazonWebServicesLogo = IconifyIconData.solo(
+  /// `amazon-web-services-logo` (duo-tone)
+  static const IconifyIconData amazonWebServicesLogo = IconifyIconData.duo(
     IconData(0xe00d, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
+    IconData(0xe00d, fontFamily: 'StreamlineUltimateColorSecondary', fontPackage: 'iconifyx_streamline_ultimate_color'),
   );
 
   /// `ambulance-call`
@@ -1416,9 +1417,10 @@ class StreamlineUltimateColorIcons {
     IconData(0xe117, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
   );
 
-  /// `loading`
-  static const IconifyIconData loading = IconifyIconData.solo(
+  /// `loading` (duo-tone)
+  static const IconifyIconData loading = IconifyIconData.duo(
     IconData(0xe118, fontFamily: 'StreamlineUltimateColor', fontPackage: 'iconifyx_streamline_ultimate_color'),
+    IconData(0xe118, fontFamily: 'StreamlineUltimateColorSecondary', fontPackage: 'iconifyx_streamline_ultimate_color'),
   );
 
   /// `loading-half`

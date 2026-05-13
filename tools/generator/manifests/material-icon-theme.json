@@ -16,18 +16,18 @@
       "spdx": "MIT",
       "url": "https://github.com/material-extensions/vscode-material-icon-theme/blob/main/LICENSE"
     },
-    "total": 234
+    "total": 774
   },
   "fonts": [
     {
       "family": "MaterialIconTheme",
-      "nextCodepoint": 57735,
-      "iconCount": 234
+      "nextCodepoint": 58130,
+      "iconCount": 774
     },
     {
       "family": "MaterialIconThemeSecondary",
-      "nextCodepoint": 57735,
-      "iconCount": 1
+      "nextCodepoint": 58130,
+      "iconCount": 541
     }
   ],
   "icons": {
@@ -35,6 +35,30 @@
       "codepoint": 57344,
       "fontFamily": "MaterialIconTheme",
       "identifier": "n3d"
+    },
+    "adobe-illustrator": {
+      "codepoint": 57735,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "adobeIllustrator",
+      "duotone": true
+    },
+    "adobe-illustrator-light": {
+      "codepoint": 57736,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "adobeIllustratorLight",
+      "duotone": true
+    },
+    "adobe-photoshop": {
+      "codepoint": 57737,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "adobePhotoshop",
+      "duotone": true
+    },
+    "adobe-photoshop-light": {
+      "codepoint": 57738,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "adobePhotoshopLight",
+      "duotone": true
     },
     "adonis": {
       "codepoint": 57345,
@@ -76,6 +100,12 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "astro"
     },
+    "astro-config": {
+      "codepoint": 57739,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "astroConfig",
+      "duotone": true
+    },
     "autohotkey": {
       "codepoint": 57353,
       "fontFamily": "MaterialIconTheme",
@@ -116,6 +146,12 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "blink"
     },
+    "blink-light": {
+      "codepoint": 57740,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "blinkLight",
+      "duotone": true
+    },
     "blitz": {
       "codepoint": 57361,
       "fontFamily": "MaterialIconTheme",
@@ -126,17 +162,28 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "browserlist"
     },
+    "browserlist-light": {
+      "codepoint": 57741,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "browserlistLight",
+      "duotone": true
+    },
     "bucklescript": {
       "codepoint": 57363,
       "fontFamily": "MaterialIconTheme",
       "identifier": "bucklescript"
     },
+    "buildkite": {
+      "codepoint": 57742,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "buildkite",
+      "duotone": true
+    },
     "cabal": {
       "codepoint": 57364,
       "fontFamily": "MaterialIconTheme",
       "identifier": "cabal",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "caddy": {
       "codepoint": 57365,
@@ -180,10 +227,22 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "circleci"
     },
+    "clangd": {
+      "codepoint": 57743,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "clangd",
+      "duotone": true
+    },
     "cline": {
       "codepoint": 57373,
       "fontFamily": "MaterialIconTheme",
       "identifier": "cline"
+    },
+    "cloudfoundry": {
+      "codepoint": 57744,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "cloudfoundry",
+      "duotone": true
     },
     "code-climate": {
       "codepoint": 57374,
@@ -204,6 +263,12 @@
       "codepoint": 57377,
       "fontFamily": "MaterialIconTheme",
       "identifier": "coffee"
+    },
+    "coldfusion": {
+      "codepoint": 57745,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "coldfusion",
+      "duotone": true
     },
     "command": {
       "codepoint": 57378,
@@ -259,6 +324,12 @@
       "codepoint": 57388,
       "fontFamily": "MaterialIconTheme",
       "identifier": "cypress"
+    },
+    "dart-generated": {
+      "codepoint": 57746,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "dartGenerated",
+      "duotone": true
     },
     "database": {
       "codepoint": 57389,
@@ -374,6 +445,12 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "esbuild"
     },
+    "eslint": {
+      "codepoint": 57747,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "eslint",
+      "duotone": true
+    },
     "excalidraw": {
       "codepoint": 57411,
       "fontFamily": "MaterialIconTheme",
@@ -399,285 +476,821 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "flow"
     },
+    "folder-admin": {
+      "codepoint": 57748,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAdmin",
+      "duotone": true
+    },
+    "folder-admin-open": {
+      "codepoint": 57749,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAdminOpen",
+      "duotone": true
+    },
     "folder-android": {
       "codepoint": 57416,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAndroid",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-android-open": {
       "codepoint": 57417,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAndroidOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-angular": {
+      "codepoint": 57750,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAngular",
+      "duotone": true
+    },
+    "folder-angular-open": {
+      "codepoint": 57751,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAngularOpen",
+      "duotone": true
+    },
+    "folder-animation": {
+      "codepoint": 57752,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAnimation",
+      "duotone": true
+    },
+    "folder-animation-open": {
+      "codepoint": 57753,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAnimationOpen",
+      "duotone": true
     },
     "folder-api": {
       "codepoint": 57418,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderApi",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-api-open": {
       "codepoint": 57419,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderApiOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-apollo": {
+      "codepoint": 57754,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderApollo",
+      "duotone": true
+    },
+    "folder-apollo-open": {
+      "codepoint": 57755,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderApolloOpen",
+      "duotone": true
+    },
+    "folder-app": {
+      "codepoint": 57756,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderApp",
+      "duotone": true
+    },
+    "folder-app-open": {
+      "codepoint": 57757,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAppOpen",
+      "duotone": true
+    },
+    "folder-appwrite": {
+      "codepoint": 57758,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAppwrite",
+      "duotone": true
+    },
+    "folder-appwrite-open": {
+      "codepoint": 57759,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAppwriteOpen",
+      "duotone": true
     },
     "folder-archive": {
       "codepoint": 57420,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderArchive",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-archive-open": {
       "codepoint": 57421,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderArchiveOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-assembly": {
+      "codepoint": 57760,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAssembly",
+      "duotone": true
+    },
+    "folder-assembly-open": {
+      "codepoint": 57761,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAssemblyOpen",
+      "duotone": true
+    },
+    "folder-astro": {
+      "codepoint": 57762,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAstro",
+      "duotone": true
+    },
+    "folder-astro-open": {
+      "codepoint": 57763,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAstroOpen",
+      "duotone": true
+    },
+    "folder-atom": {
+      "codepoint": 57764,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAtom",
+      "duotone": true
+    },
+    "folder-atom-open": {
+      "codepoint": 57765,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAtomOpen",
+      "duotone": true
     },
     "folder-attachment": {
       "codepoint": 57422,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAttachment",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-attachment-open": {
       "codepoint": 57423,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAttachmentOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-audio": {
+      "codepoint": 57766,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAudio",
+      "duotone": true
+    },
+    "folder-audio-open": {
+      "codepoint": 57767,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAudioOpen",
+      "duotone": true
+    },
+    "folder-aws": {
+      "codepoint": 57768,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAws",
+      "duotone": true
+    },
+    "folder-aws-open": {
+      "codepoint": 57769,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAwsOpen",
+      "duotone": true
+    },
+    "folder-azure-pipelines": {
+      "codepoint": 57770,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAzurePipelines",
+      "duotone": true
+    },
+    "folder-azure-pipelines-open": {
+      "codepoint": 57771,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAzurePipelinesOpen",
+      "duotone": true
+    },
+    "folder-backup": {
+      "codepoint": 57772,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderBackup",
+      "duotone": true
+    },
+    "folder-backup-open": {
+      "codepoint": 57773,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderBackupOpen",
+      "duotone": true
+    },
+    "folder-base": {
+      "codepoint": 57774,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderBase",
+      "duotone": true
+    },
+    "folder-base-open": {
+      "codepoint": 57775,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderBaseOpen",
+      "duotone": true
+    },
+    "folder-batch": {
+      "codepoint": 57776,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderBatch",
+      "duotone": true
+    },
+    "folder-batch-open": {
+      "codepoint": 57777,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderBatchOpen",
+      "duotone": true
+    },
+    "folder-benchmark": {
+      "codepoint": 57778,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderBenchmark",
+      "duotone": true
+    },
+    "folder-benchmark-open": {
+      "codepoint": 57779,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderBenchmarkOpen",
+      "duotone": true
     },
     "folder-bicep": {
       "codepoint": 57424,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderBicep",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-bicep-open": {
       "codepoint": 57425,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderBicepOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-blender": {
+      "codepoint": 57780,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderBlender",
+      "duotone": true
+    },
+    "folder-blender-open": {
+      "codepoint": 57781,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderBlenderOpen",
+      "duotone": true
     },
     "folder-bloc": {
       "codepoint": 57426,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderBloc",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-bloc-open": {
       "codepoint": 57427,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderBlocOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-cart": {
+      "codepoint": 57782,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCart",
+      "duotone": true
+    },
+    "folder-cart-open": {
+      "codepoint": 57783,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCartOpen",
+      "duotone": true
+    },
+    "folder-certificate": {
+      "codepoint": 57784,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCertificate",
+      "duotone": true
+    },
+    "folder-certificate-open": {
+      "codepoint": 57785,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCertificateOpen",
+      "duotone": true
+    },
+    "folder-changesets": {
+      "codepoint": 57786,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderChangesets",
+      "duotone": true
+    },
+    "folder-changesets-open": {
+      "codepoint": 57787,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderChangesetsOpen",
+      "duotone": true
+    },
+    "folder-ci": {
+      "codepoint": 57788,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCi",
+      "duotone": true
+    },
+    "folder-ci-open": {
+      "codepoint": 57789,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCiOpen",
+      "duotone": true
+    },
+    "folder-circleci": {
+      "codepoint": 57790,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCircleci",
+      "duotone": true
+    },
+    "folder-circleci-open": {
+      "codepoint": 57791,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCircleciOpen",
+      "duotone": true
+    },
+    "folder-class": {
+      "codepoint": 57792,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderClass",
+      "duotone": true
+    },
+    "folder-class-open": {
+      "codepoint": 57793,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderClassOpen",
+      "duotone": true
+    },
+    "folder-client": {
+      "codepoint": 57794,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderClient",
+      "duotone": true
+    },
+    "folder-client-open": {
+      "codepoint": 57795,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderClientOpen",
+      "duotone": true
     },
     "folder-cline": {
       "codepoint": 57428,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCline",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-cline-open": {
       "codepoint": 57429,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderClineOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-cloudflare": {
       "codepoint": 57430,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCloudflare",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-cloudflare-open": {
       "codepoint": 57431,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCloudflareOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-cluster": {
       "codepoint": 57432,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCluster",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-cluster-open": {
       "codepoint": 57433,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderClusterOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-cobol": {
+      "codepoint": 57796,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCobol",
+      "duotone": true
+    },
+    "folder-cobol-open": {
+      "codepoint": 57797,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCobolOpen",
+      "duotone": true
+    },
+    "folder-command": {
+      "codepoint": 57798,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCommand",
+      "duotone": true
+    },
+    "folder-command-open": {
+      "codepoint": 57799,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCommandOpen",
+      "duotone": true
     },
     "folder-components": {
       "codepoint": 57434,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderComponents",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-components-open": {
       "codepoint": 57435,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderComponentsOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-config": {
       "codepoint": 57436,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderConfig",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-config-open": {
       "codepoint": 57437,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderConfigOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-connection": {
       "codepoint": 57438,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderConnection",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-connection-open": {
       "codepoint": 57439,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderConnectionOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-console": {
       "codepoint": 57440,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderConsole",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-console-open": {
       "codepoint": 57441,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderConsoleOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-constant": {
+      "codepoint": 57800,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderConstant",
+      "duotone": true
+    },
+    "folder-constant-open": {
+      "codepoint": 57801,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderConstantOpen",
+      "duotone": true
+    },
+    "folder-container": {
+      "codepoint": 57802,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderContainer",
+      "duotone": true
+    },
+    "folder-container-open": {
+      "codepoint": 57803,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderContainerOpen",
+      "duotone": true
     },
     "folder-content": {
       "codepoint": 57442,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderContent",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-content-open": {
       "codepoint": 57443,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderContentOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-context": {
+      "codepoint": 57804,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderContext",
+      "duotone": true
+    },
+    "folder-context-open": {
+      "codepoint": 57805,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderContextOpen",
+      "duotone": true
+    },
+    "folder-contract": {
+      "codepoint": 57806,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderContract",
+      "duotone": true
+    },
+    "folder-contract-open": {
+      "codepoint": 57807,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderContractOpen",
+      "duotone": true
     },
     "folder-controller": {
       "codepoint": 57444,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderController",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-controller-open": {
       "codepoint": 57445,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderControllerOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-core": {
+      "codepoint": 57808,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCore",
+      "duotone": true
+    },
+    "folder-core-open": {
+      "codepoint": 57809,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCoreOpen",
+      "duotone": true
     },
     "folder-coverage": {
       "codepoint": 57446,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCoverage",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-coverage-open": {
       "codepoint": 57447,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderCoverageOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-cue": {
+      "codepoint": 57810,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCue",
+      "duotone": true
+    },
+    "folder-cue-open": {
+      "codepoint": 57811,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCueOpen",
+      "duotone": true
+    },
+    "folder-cursor": {
+      "codepoint": 57812,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCursor",
+      "duotone": true
+    },
+    "folder-cursor-light": {
+      "codepoint": 57813,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCursorLight",
+      "duotone": true
+    },
+    "folder-cursor-open": {
+      "codepoint": 57814,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCursorOpen",
+      "duotone": true
+    },
+    "folder-cursor-open-light": {
+      "codepoint": 57815,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCursorOpenLight",
+      "duotone": true
+    },
+    "folder-custom": {
+      "codepoint": 57816,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCustom",
+      "duotone": true
+    },
+    "folder-custom-open": {
+      "codepoint": 57817,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCustomOpen",
+      "duotone": true
+    },
+    "folder-cypress": {
+      "codepoint": 57818,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCypress",
+      "duotone": true
+    },
+    "folder-cypress-open": {
+      "codepoint": 57819,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCypressOpen",
+      "duotone": true
+    },
+    "folder-dart": {
+      "codepoint": 57820,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderDart",
+      "duotone": true
+    },
+    "folder-dart-open": {
+      "codepoint": 57821,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderDartOpen",
+      "duotone": true
     },
     "folder-database": {
       "codepoint": 57448,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDatabase",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-database-open": {
       "codepoint": 57449,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDatabaseOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-debug": {
+      "codepoint": 57822,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderDebug",
+      "duotone": true
+    },
+    "folder-debug-open": {
+      "codepoint": 57823,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderDebugOpen",
+      "duotone": true
     },
     "folder-decorators": {
       "codepoint": 57450,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDecorators",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-decorators-open": {
       "codepoint": 57451,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderDecoratorsOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-delta": {
+      "codepoint": 57824,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderDelta",
+      "duotone": true
+    },
+    "folder-delta-open": {
+      "codepoint": 57825,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderDeltaOpen",
+      "duotone": true
+    },
+    "folder-desktop": {
+      "codepoint": 57826,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderDesktop",
+      "duotone": true
+    },
+    "folder-desktop-open": {
+      "codepoint": 57827,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderDesktopOpen",
+      "duotone": true
+    },
+    "folder-dist": {
+      "codepoint": 57828,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderDist",
+      "duotone": true
+    },
+    "folder-dist-open": {
+      "codepoint": 57829,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderDistOpen",
+      "duotone": true
+    },
+    "folder-docker": {
+      "codepoint": 57830,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderDocker",
+      "duotone": true
+    },
+    "folder-docker-open": {
+      "codepoint": 57831,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderDockerOpen",
+      "duotone": true
+    },
+    "folder-docs": {
+      "codepoint": 57832,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderDocs",
+      "duotone": true
+    },
+    "folder-docs-open": {
+      "codepoint": 57833,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderDocsOpen",
+      "duotone": true
+    },
+    "folder-download": {
+      "codepoint": 57834,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderDownload",
+      "duotone": true
+    },
+    "folder-download-open": {
+      "codepoint": 57835,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderDownloadOpen",
+      "duotone": true
+    },
+    "folder-drizzle": {
+      "codepoint": 57836,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderDrizzle",
+      "duotone": true
+    },
+    "folder-drizzle-open": {
+      "codepoint": 57837,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderDrizzleOpen",
+      "duotone": true
+    },
+    "folder-dump": {
+      "codepoint": 57838,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderDump",
+      "duotone": true
+    },
+    "folder-dump-open": {
+      "codepoint": 57839,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderDumpOpen",
+      "duotone": true
     },
     "folder-element": {
       "codepoint": 57452,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderElement",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-element-open": {
       "codepoint": 57453,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderElementOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-enum": {
       "codepoint": 57454,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderEnum",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-enum-open": {
       "codepoint": 57455,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderEnumOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-environment": {
+      "codepoint": 57840,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderEnvironment",
+      "duotone": true
+    },
+    "folder-environment-open": {
+      "codepoint": 57841,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderEnvironmentOpen",
+      "duotone": true
+    },
+    "folder-error": {
+      "codepoint": 57842,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderError",
+      "duotone": true
+    },
+    "folder-error-open": {
+      "codepoint": 57843,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderErrorOpen",
+      "duotone": true
     },
     "folder-eslint": {
       "codepoint": 57456,
@@ -690,414 +1303,1279 @@
       "codepoint": 57457,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderEslintOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-event": {
       "codepoint": 57458,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderEvent",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-event-open": {
       "codepoint": 57459,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderEventOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-examples": {
+      "codepoint": 57844,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderExamples",
+      "duotone": true
+    },
+    "folder-examples-open": {
+      "codepoint": 57845,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderExamplesOpen",
+      "duotone": true
+    },
+    "folder-expo": {
+      "codepoint": 57846,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderExpo",
+      "duotone": true
+    },
+    "folder-expo-open": {
+      "codepoint": 57847,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderExpoOpen",
+      "duotone": true
     },
     "folder-export": {
       "codepoint": 57460,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderExport",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-export-open": {
       "codepoint": 57461,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderExportOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-fastlane": {
+      "codepoint": 57848,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderFastlane",
+      "duotone": true
+    },
+    "folder-fastlane-open": {
+      "codepoint": 57849,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderFastlaneOpen",
+      "duotone": true
     },
     "folder-favicon": {
       "codepoint": 57462,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderFavicon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-favicon-open": {
       "codepoint": 57463,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderFaviconOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-features": {
+      "codepoint": 57850,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderFeatures",
+      "duotone": true
+    },
+    "folder-features-open": {
+      "codepoint": 57851,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderFeaturesOpen",
+      "duotone": true
+    },
+    "folder-filter": {
+      "codepoint": 57852,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderFilter",
+      "duotone": true
+    },
+    "folder-filter-open": {
+      "codepoint": 57853,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderFilterOpen",
+      "duotone": true
+    },
+    "folder-firebase": {
+      "codepoint": 57854,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderFirebase",
+      "duotone": true
+    },
+    "folder-firebase-open": {
+      "codepoint": 57855,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderFirebaseOpen",
+      "duotone": true
+    },
+    "folder-firestore": {
+      "codepoint": 57856,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderFirestore",
+      "duotone": true
+    },
+    "folder-firestore-open": {
+      "codepoint": 57857,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderFirestoreOpen",
+      "duotone": true
+    },
+    "folder-flow": {
+      "codepoint": 57858,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderFlow",
+      "duotone": true
+    },
+    "folder-flow-open": {
+      "codepoint": 57859,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderFlowOpen",
+      "duotone": true
+    },
+    "folder-flutter": {
+      "codepoint": 57860,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderFlutter",
+      "duotone": true
+    },
+    "folder-flutter-open": {
+      "codepoint": 57861,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderFlutterOpen",
+      "duotone": true
+    },
+    "folder-font": {
+      "codepoint": 57862,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderFont",
+      "duotone": true
+    },
+    "folder-font-open": {
+      "codepoint": 57863,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderFontOpen",
+      "duotone": true
     },
     "folder-form": {
       "codepoint": 57464,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderForm",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-form-open": {
       "codepoint": 57465,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderFormOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-functions": {
+      "codepoint": 57864,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderFunctions",
+      "duotone": true
+    },
+    "folder-functions-open": {
+      "codepoint": 57865,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderFunctionsOpen",
+      "duotone": true
     },
     "folder-gamemaker": {
       "codepoint": 57466,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGamemaker",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-gamemaker-open": {
       "codepoint": 57467,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGamemakerOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-gemini-ai": {
       "codepoint": 57468,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGeminiAi",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-gemini-ai-open": {
       "codepoint": 57469,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGeminiAiOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-generator": {
+      "codepoint": 57866,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGenerator",
+      "duotone": true
+    },
+    "folder-generator-open": {
+      "codepoint": 57867,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGeneratorOpen",
+      "duotone": true
+    },
+    "folder-gh-workflows": {
+      "codepoint": 57868,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGhWorkflows",
+      "duotone": true
+    },
+    "folder-gh-workflows-open": {
+      "codepoint": 57869,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGhWorkflowsOpen",
+      "duotone": true
+    },
+    "folder-git": {
+      "codepoint": 57870,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGit",
+      "duotone": true
+    },
+    "folder-git-open": {
+      "codepoint": 57871,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGitOpen",
+      "duotone": true
+    },
+    "folder-gitea": {
+      "codepoint": 57872,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGitea",
+      "duotone": true
+    },
+    "folder-gitea-open": {
+      "codepoint": 57873,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGiteaOpen",
+      "duotone": true
+    },
+    "folder-github": {
+      "codepoint": 57874,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGithub",
+      "duotone": true
+    },
+    "folder-github-open": {
+      "codepoint": 57875,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGithubOpen",
+      "duotone": true
     },
     "folder-global": {
       "codepoint": 57470,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGlobal",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-global-open": {
       "codepoint": 57471,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGlobalOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-go": {
       "codepoint": 57472,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGo",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-go-open": {
       "codepoint": 57473,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGoOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-godot": {
       "codepoint": 57474,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGodot",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-godot-open": {
       "codepoint": 57475,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGodotOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-gradle": {
       "codepoint": 57476,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGradle",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-gradle-open": {
       "codepoint": 57477,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGradleOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-graphql": {
+      "codepoint": 57876,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGraphql",
+      "duotone": true
+    },
+    "folder-graphql-open": {
+      "codepoint": 57877,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGraphqlOpen",
+      "duotone": true
+    },
+    "folder-guard": {
+      "codepoint": 57878,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGuard",
+      "duotone": true
+    },
+    "folder-guard-open": {
+      "codepoint": 57879,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGuardOpen",
+      "duotone": true
+    },
+    "folder-gulp": {
+      "codepoint": 57880,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGulp",
+      "duotone": true
+    },
+    "folder-gulp-open": {
+      "codepoint": 57881,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGulpOpen",
+      "duotone": true
     },
     "folder-helm": {
       "codepoint": 57478,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderHelm",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-helm-open": {
       "codepoint": 57479,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderHelmOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-helper": {
       "codepoint": 57480,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderHelper",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-helper-open": {
       "codepoint": 57481,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderHelperOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-home": {
+      "codepoint": 57882,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderHome",
+      "duotone": true
+    },
+    "folder-home-open": {
+      "codepoint": 57883,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderHomeOpen",
+      "duotone": true
+    },
+    "folder-hook": {
+      "codepoint": 57884,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderHook",
+      "duotone": true
+    },
+    "folder-hook-open": {
+      "codepoint": 57885,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderHookOpen",
+      "duotone": true
+    },
+    "folder-husky": {
+      "codepoint": 57886,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderHusky",
+      "duotone": true
+    },
+    "folder-husky-open": {
+      "codepoint": 57887,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderHuskyOpen",
+      "duotone": true
     },
     "folder-i18n": {
       "codepoint": 57482,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderI18n",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-i18n-open": {
       "codepoint": 57483,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderI18nOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-images": {
+      "codepoint": 57888,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderImages",
+      "duotone": true
+    },
+    "folder-images-open": {
+      "codepoint": 57889,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderImagesOpen",
+      "duotone": true
     },
     "folder-import": {
       "codepoint": 57484,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderImport",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-import-open": {
       "codepoint": 57485,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderImportOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-include": {
+      "codepoint": 57890,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderInclude",
+      "duotone": true
+    },
+    "folder-include-open": {
+      "codepoint": 57891,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderIncludeOpen",
+      "duotone": true
     },
     "folder-input": {
       "codepoint": 57486,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderInput",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-input-open": {
       "codepoint": 57487,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderInputOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-interface": {
+      "codepoint": 57892,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderInterface",
+      "duotone": true
+    },
+    "folder-interface-open": {
+      "codepoint": 57893,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderInterfaceOpen",
+      "duotone": true
+    },
+    "folder-ios": {
+      "codepoint": 57894,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderIos",
+      "duotone": true
+    },
+    "folder-ios-open": {
+      "codepoint": 57895,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderIosOpen",
+      "duotone": true
+    },
+    "folder-java": {
+      "codepoint": 57896,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderJava",
+      "duotone": true
+    },
+    "folder-java-open": {
+      "codepoint": 57897,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderJavaOpen",
+      "duotone": true
     },
     "folder-javascript": {
       "codepoint": 57488,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderJavascript",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-javascript-open": {
       "codepoint": 57489,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderJavascriptOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-jinja": {
+      "codepoint": 57898,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderJinja",
+      "duotone": true
+    },
+    "folder-jinja-light": {
+      "codepoint": 57899,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderJinjaLight",
+      "duotone": true
+    },
+    "folder-jinja-open": {
+      "codepoint": 57900,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderJinjaOpen",
+      "duotone": true
+    },
+    "folder-jinja-open-light": {
+      "codepoint": 57901,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderJinjaOpenLight",
+      "duotone": true
     },
     "folder-job": {
       "codepoint": 57490,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderJob",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-job-open": {
       "codepoint": 57491,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderJobOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-json": {
+      "codepoint": 57902,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderJson",
+      "duotone": true
+    },
+    "folder-json-open": {
+      "codepoint": 57903,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderJsonOpen",
+      "duotone": true
     },
     "folder-keys": {
       "codepoint": 57492,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderKeys",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-keys-open": {
       "codepoint": 57493,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderKeysOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-kotlin": {
       "codepoint": 57494,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderKotlin",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-kotlin-open": {
       "codepoint": 57495,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderKotlinOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-kubernetes": {
+      "codepoint": 57904,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderKubernetes",
+      "duotone": true
+    },
+    "folder-kubernetes-open": {
+      "codepoint": 57905,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderKubernetesOpen",
+      "duotone": true
+    },
+    "folder-kusto": {
+      "codepoint": 57906,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderKusto",
+      "duotone": true
+    },
+    "folder-kusto-open": {
+      "codepoint": 57907,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderKustoOpen",
+      "duotone": true
+    },
+    "folder-layout": {
+      "codepoint": 57908,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderLayout",
+      "duotone": true
+    },
+    "folder-layout-open": {
+      "codepoint": 57909,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderLayoutOpen",
+      "duotone": true
+    },
+    "folder-less": {
+      "codepoint": 57910,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderLess",
+      "duotone": true
+    },
+    "folder-less-open": {
+      "codepoint": 57911,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderLessOpen",
+      "duotone": true
     },
     "folder-lib": {
       "codepoint": 57496,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLib",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-lib-open": {
       "codepoint": 57497,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLibOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-license": {
+      "codepoint": 57912,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderLicense",
+      "duotone": true
+    },
+    "folder-license-open": {
+      "codepoint": 57913,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderLicenseOpen",
+      "duotone": true
+    },
+    "folder-link": {
+      "codepoint": 57914,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderLink",
+      "duotone": true
+    },
+    "folder-link-open": {
+      "codepoint": 57915,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderLinkOpen",
+      "duotone": true
+    },
+    "folder-linux": {
+      "codepoint": 57916,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderLinux",
+      "duotone": true
+    },
+    "folder-linux-open": {
+      "codepoint": 57917,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderLinuxOpen",
+      "duotone": true
+    },
+    "folder-liquibase": {
+      "codepoint": 57918,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderLiquibase",
+      "duotone": true
+    },
+    "folder-liquibase-open": {
+      "codepoint": 57919,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderLiquibaseOpen",
+      "duotone": true
     },
     "folder-log": {
       "codepoint": 57498,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLog",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-log-open": {
       "codepoint": 57499,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLogOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-lottie": {
       "codepoint": 57500,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLottie",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-lottie-open": {
       "codepoint": 57501,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderLottieOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-lua": {
+      "codepoint": 57920,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderLua",
+      "duotone": true
+    },
+    "folder-lua-open": {
+      "codepoint": 57921,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderLuaOpen",
+      "duotone": true
+    },
+    "folder-luau": {
+      "codepoint": 57922,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderLuau",
+      "duotone": true
+    },
+    "folder-luau-open": {
+      "codepoint": 57923,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderLuauOpen",
+      "duotone": true
+    },
+    "folder-macos": {
+      "codepoint": 57924,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMacos",
+      "duotone": true
+    },
+    "folder-macos-open": {
+      "codepoint": 57925,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMacosOpen",
+      "duotone": true
+    },
+    "folder-mail": {
+      "codepoint": 57926,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMail",
+      "duotone": true
+    },
+    "folder-mail-open": {
+      "codepoint": 57927,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMailOpen",
+      "duotone": true
     },
     "folder-mappings": {
       "codepoint": 57502,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMappings",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-mappings-open": {
       "codepoint": 57503,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMappingsOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-markdown": {
+      "codepoint": 57928,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMarkdown",
+      "duotone": true
+    },
+    "folder-markdown-open": {
+      "codepoint": 57929,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMarkdownOpen",
+      "duotone": true
+    },
+    "folder-mercurial": {
+      "codepoint": 57930,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMercurial",
+      "duotone": true
+    },
+    "folder-mercurial-open": {
+      "codepoint": 57931,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMercurialOpen",
+      "duotone": true
+    },
+    "folder-messages": {
+      "codepoint": 57932,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMessages",
+      "duotone": true
+    },
+    "folder-messages-open": {
+      "codepoint": 57933,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMessagesOpen",
+      "duotone": true
+    },
+    "folder-meta": {
+      "codepoint": 57934,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMeta",
+      "duotone": true
+    },
+    "folder-meta-open": {
+      "codepoint": 57935,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMetaOpen",
+      "duotone": true
+    },
+    "folder-metro": {
+      "codepoint": 57936,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMetro",
+      "duotone": true
+    },
+    "folder-metro-open": {
+      "codepoint": 57937,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMetroOpen",
+      "duotone": true
     },
     "folder-middleware": {
       "codepoint": 57504,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMiddleware",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-middleware-open": {
       "codepoint": 57505,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderMiddlewareOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-migrations": {
+      "codepoint": 57938,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMigrations",
+      "duotone": true
+    },
+    "folder-migrations-open": {
+      "codepoint": 57939,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMigrationsOpen",
+      "duotone": true
+    },
+    "folder-mjml": {
+      "codepoint": 57940,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMjml",
+      "duotone": true
+    },
+    "folder-mjml-open": {
+      "codepoint": 57941,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMjmlOpen",
+      "duotone": true
+    },
+    "folder-mobile": {
+      "codepoint": 57942,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMobile",
+      "duotone": true
+    },
+    "folder-mobile-open": {
+      "codepoint": 57943,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMobileOpen",
+      "duotone": true
+    },
+    "folder-mock": {
+      "codepoint": 57944,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMock",
+      "duotone": true
+    },
+    "folder-mock-open": {
+      "codepoint": 57945,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMockOpen",
+      "duotone": true
+    },
+    "folder-mojo": {
+      "codepoint": 57946,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMojo",
+      "duotone": true
+    },
+    "folder-mojo-open": {
+      "codepoint": 57947,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMojoOpen",
+      "duotone": true
+    },
+    "folder-molecule": {
+      "codepoint": 57948,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMolecule",
+      "duotone": true
+    },
+    "folder-molecule-open": {
+      "codepoint": 57949,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMoleculeOpen",
+      "duotone": true
+    },
+    "folder-moon": {
+      "codepoint": 57950,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMoon",
+      "duotone": true
+    },
+    "folder-moon-open": {
+      "codepoint": 57951,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMoonOpen",
+      "duotone": true
     },
     "folder-netlify": {
       "codepoint": 57506,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderNetlify",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-netlify-open": {
       "codepoint": 57507,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderNetlifyOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-next": {
+      "codepoint": 57952,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderNext",
+      "duotone": true
+    },
+    "folder-next-open": {
+      "codepoint": 57953,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderNextOpen",
+      "duotone": true
+    },
+    "folder-nginx": {
+      "codepoint": 57954,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderNginx",
+      "duotone": true
+    },
+    "folder-nginx-open": {
+      "codepoint": 57955,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderNginxOpen",
+      "duotone": true
     },
     "folder-ngrx-store": {
       "codepoint": 57508,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderNgrxStore",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-ngrx-store-open": {
       "codepoint": 57509,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderNgrxStoreOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-node": {
       "codepoint": 57510,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderNode",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-node-open": {
       "codepoint": 57511,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderNodeOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-nuxt": {
+      "codepoint": 57956,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderNuxt",
+      "duotone": true
+    },
+    "folder-nuxt-open": {
+      "codepoint": 57957,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderNuxtOpen",
+      "duotone": true
+    },
+    "folder-organism": {
+      "codepoint": 57958,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderOrganism",
+      "duotone": true
+    },
+    "folder-organism-open": {
+      "codepoint": 57959,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderOrganismOpen",
+      "duotone": true
+    },
+    "folder-other": {
+      "codepoint": 57960,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderOther",
+      "duotone": true
+    },
+    "folder-other-open": {
+      "codepoint": 57961,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderOtherOpen",
+      "duotone": true
+    },
+    "folder-packages": {
+      "codepoint": 57962,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPackages",
+      "duotone": true
+    },
+    "folder-packages-open": {
+      "codepoint": 57963,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPackagesOpen",
+      "duotone": true
+    },
+    "folder-pdf": {
+      "codepoint": 57964,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPdf",
+      "duotone": true
+    },
+    "folder-pdf-open": {
+      "codepoint": 57965,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPdfOpen",
+      "duotone": true
+    },
+    "folder-pdm": {
+      "codepoint": 57966,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPdm",
+      "duotone": true
+    },
+    "folder-pdm-open": {
+      "codepoint": 57967,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPdmOpen",
+      "duotone": true
+    },
+    "folder-php": {
+      "codepoint": 57968,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPhp",
+      "duotone": true
+    },
+    "folder-php-open": {
+      "codepoint": 57969,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPhpOpen",
+      "duotone": true
+    },
+    "folder-pipe": {
+      "codepoint": 57970,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPipe",
+      "duotone": true
+    },
+    "folder-pipe-open": {
+      "codepoint": 57971,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPipeOpen",
+      "duotone": true
+    },
+    "folder-plastic": {
+      "codepoint": 57972,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPlastic",
+      "duotone": true
+    },
+    "folder-plastic-open": {
+      "codepoint": 57973,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPlasticOpen",
+      "duotone": true
+    },
+    "folder-plugin": {
+      "codepoint": 57974,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPlugin",
+      "duotone": true
+    },
+    "folder-plugin-open": {
+      "codepoint": 57975,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPluginOpen",
+      "duotone": true
+    },
+    "folder-policy": {
+      "codepoint": 57976,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPolicy",
+      "duotone": true
+    },
+    "folder-policy-open": {
+      "codepoint": 57977,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPolicyOpen",
+      "duotone": true
+    },
+    "folder-postman": {
+      "codepoint": 57978,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPostman",
+      "duotone": true
+    },
+    "folder-postman-open": {
+      "codepoint": 57979,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPostmanOpen",
+      "duotone": true
+    },
+    "folder-powershell": {
+      "codepoint": 57980,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPowershell",
+      "duotone": true
+    },
+    "folder-powershell-open": {
+      "codepoint": 57981,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPowershellOpen",
+      "duotone": true
     },
     "folder-prisma": {
       "codepoint": 57512,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPrisma",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-prisma-open": {
       "codepoint": 57513,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPrismaOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-private": {
+      "codepoint": 57982,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPrivate",
+      "duotone": true
+    },
+    "folder-private-open": {
+      "codepoint": 57983,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPrivateOpen",
+      "duotone": true
+    },
+    "folder-project": {
+      "codepoint": 57984,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderProject",
+      "duotone": true
+    },
+    "folder-project-open": {
+      "codepoint": 57985,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderProjectOpen",
+      "duotone": true
     },
     "folder-prompts": {
       "codepoint": 57514,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPrompts",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-prompts-open": {
       "codepoint": 57515,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderPromptsOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-proto": {
+      "codepoint": 57986,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderProto",
+      "duotone": true
+    },
+    "folder-proto-open": {
+      "codepoint": 57987,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderProtoOpen",
+      "duotone": true
+    },
+    "folder-public": {
+      "codepoint": 57988,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPublic",
+      "duotone": true
+    },
+    "folder-public-open": {
+      "codepoint": 57989,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPublicOpen",
+      "duotone": true
+    },
+    "folder-pytorch": {
+      "codepoint": 57990,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPytorch",
+      "duotone": true
+    },
+    "folder-pytorch-open": {
+      "codepoint": 57991,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPytorchOpen",
+      "duotone": true
+    },
+    "folder-quasar": {
+      "codepoint": 57992,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderQuasar",
+      "duotone": true
+    },
+    "folder-quasar-open": {
+      "codepoint": 57993,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderQuasarOpen",
+      "duotone": true
+    },
+    "folder-queue": {
+      "codepoint": 57994,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderQueue",
+      "duotone": true
+    },
+    "folder-queue-open": {
+      "codepoint": 57995,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderQueueOpen",
+      "duotone": true
+    },
+    "folder-r": {
+      "codepoint": 57996,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderR",
+      "duotone": true
+    },
+    "folder-r-open": {
+      "codepoint": 57997,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderROpen",
+      "duotone": true
     },
     "folder-react-components": {
       "codepoint": 57516,
@@ -1113,19 +2591,197 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "folder-redux-reducer": {
+      "codepoint": 57998,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderReduxReducer",
+      "duotone": true
+    },
+    "folder-redux-reducer-open": {
+      "codepoint": 57999,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderReduxReducerOpen",
+      "duotone": true
+    },
+    "folder-repository": {
+      "codepoint": 58000,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderRepository",
+      "duotone": true
+    },
+    "folder-repository-open": {
+      "codepoint": 58001,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderRepositoryOpen",
+      "duotone": true
+    },
+    "folder-resolver": {
+      "codepoint": 58002,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderResolver",
+      "duotone": true
+    },
+    "folder-resolver-open": {
+      "codepoint": 58003,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderResolverOpen",
+      "duotone": true
+    },
     "folder-resource": {
       "codepoint": 57518,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderResource",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-resource-open": {
       "codepoint": 57519,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderResourceOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-review": {
+      "codepoint": 58004,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderReview",
+      "duotone": true
+    },
+    "folder-review-open": {
+      "codepoint": 58005,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderReviewOpen",
+      "duotone": true
+    },
+    "folder-robot": {
+      "codepoint": 58006,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderRobot",
+      "duotone": true
+    },
+    "folder-robot-open": {
+      "codepoint": 58007,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderRobotOpen",
+      "duotone": true
+    },
+    "folder-routes": {
+      "codepoint": 58008,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderRoutes",
+      "duotone": true
+    },
+    "folder-routes-open": {
+      "codepoint": 58009,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderRoutesOpen",
+      "duotone": true
+    },
+    "folder-rules": {
+      "codepoint": 58010,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderRules",
+      "duotone": true
+    },
+    "folder-rules-open": {
+      "codepoint": 58011,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderRulesOpen",
+      "duotone": true
+    },
+    "folder-rust": {
+      "codepoint": 58012,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderRust",
+      "duotone": true
+    },
+    "folder-rust-open": {
+      "codepoint": 58013,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderRustOpen",
+      "duotone": true
+    },
+    "folder-salt": {
+      "codepoint": 58014,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSalt",
+      "duotone": true
+    },
+    "folder-salt-open": {
+      "codepoint": 58015,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSaltOpen",
+      "duotone": true
+    },
+    "folder-sandbox": {
+      "codepoint": 58016,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSandbox",
+      "duotone": true
+    },
+    "folder-sandbox-open": {
+      "codepoint": 58017,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSandboxOpen",
+      "duotone": true
+    },
+    "folder-sass": {
+      "codepoint": 58018,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSass",
+      "duotone": true
+    },
+    "folder-sass-open": {
+      "codepoint": 58019,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSassOpen",
+      "duotone": true
+    },
+    "folder-scala": {
+      "codepoint": 58020,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderScala",
+      "duotone": true
+    },
+    "folder-scala-open": {
+      "codepoint": 58021,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderScalaOpen",
+      "duotone": true
+    },
+    "folder-scons": {
+      "codepoint": 58022,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderScons",
+      "duotone": true
+    },
+    "folder-scons-open": {
+      "codepoint": 58023,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSconsOpen",
+      "duotone": true
+    },
+    "folder-scripts": {
+      "codepoint": 58024,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderScripts",
+      "duotone": true
+    },
+    "folder-scripts-open": {
+      "codepoint": 58025,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderScriptsOpen",
+      "duotone": true
+    },
+    "folder-secure": {
+      "codepoint": 58026,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSecure",
+      "duotone": true
+    },
+    "folder-secure-open": {
+      "codepoint": 58027,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSecureOpen",
+      "duotone": true
     },
     "folder-seeders": {
       "codepoint": 57520,
@@ -1137,239 +2793,589 @@
       "codepoint": 57521,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSeedersOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-server": {
       "codepoint": 57522,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderServer",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-server-open": {
       "codepoint": 57523,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderServerOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-serverless": {
+      "codepoint": 58028,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderServerless",
+      "duotone": true
+    },
+    "folder-serverless-open": {
+      "codepoint": 58029,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderServerlessOpen",
+      "duotone": true
     },
     "folder-shader": {
       "codepoint": 57524,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderShader",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-shader-open": {
       "codepoint": 57525,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderShaderOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-shared": {
       "codepoint": 57526,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderShared",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-shared-open": {
       "codepoint": 57527,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSharedOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-simulations": {
       "codepoint": 57528,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSimulations",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-simulations-open": {
       "codepoint": 57529,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSimulationsOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-skills": {
       "codepoint": 57530,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSkills",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-skills-open": {
       "codepoint": 57531,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSkillsOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-snapcraft": {
       "codepoint": 57532,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSnapcraft",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-snapcraft-open": {
       "codepoint": 57533,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSnapcraftOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-snippet": {
+      "codepoint": 58030,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSnippet",
+      "duotone": true
+    },
+    "folder-snippet-open": {
+      "codepoint": 58031,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSnippetOpen",
+      "duotone": true
+    },
+    "folder-src": {
+      "codepoint": 58032,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSrc",
+      "duotone": true
+    },
+    "folder-src-open": {
+      "codepoint": 58033,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSrcOpen",
+      "duotone": true
+    },
+    "folder-stack": {
+      "codepoint": 58034,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderStack",
+      "duotone": true
+    },
+    "folder-stack-open": {
+      "codepoint": 58035,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderStackOpen",
+      "duotone": true
+    },
+    "folder-stencil": {
+      "codepoint": 58036,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderStencil",
+      "duotone": true
+    },
+    "folder-stencil-open": {
+      "codepoint": 58037,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderStencilOpen",
+      "duotone": true
+    },
+    "folder-store": {
+      "codepoint": 58038,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderStore",
+      "duotone": true
+    },
+    "folder-store-open": {
+      "codepoint": 58039,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderStoreOpen",
+      "duotone": true
+    },
+    "folder-storybook": {
+      "codepoint": 58040,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderStorybook",
+      "duotone": true
+    },
+    "folder-storybook-open": {
+      "codepoint": 58041,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderStorybookOpen",
+      "duotone": true
     },
     "folder-stylus": {
       "codepoint": 57534,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderStylus",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-stylus-open": {
       "codepoint": 57535,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderStylusOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-sublime": {
+      "codepoint": 58042,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSublime",
+      "duotone": true
+    },
+    "folder-sublime-open": {
+      "codepoint": 58043,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSublimeOpen",
+      "duotone": true
+    },
+    "folder-supabase": {
+      "codepoint": 58044,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSupabase",
+      "duotone": true
+    },
+    "folder-supabase-open": {
+      "codepoint": 58045,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSupabaseOpen",
+      "duotone": true
+    },
+    "folder-svelte": {
+      "codepoint": 58046,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSvelte",
+      "duotone": true
+    },
+    "folder-svelte-open": {
+      "codepoint": 58047,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSvelteOpen",
+      "duotone": true
+    },
+    "folder-svg": {
+      "codepoint": 58048,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSvg",
+      "duotone": true
+    },
+    "folder-svg-open": {
+      "codepoint": 58049,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSvgOpen",
+      "duotone": true
+    },
+    "folder-syntax": {
+      "codepoint": 58050,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSyntax",
+      "duotone": true
+    },
+    "folder-syntax-open": {
+      "codepoint": 58051,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSyntaxOpen",
+      "duotone": true
+    },
+    "folder-target": {
+      "codepoint": 58052,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTarget",
+      "duotone": true
+    },
+    "folder-target-open": {
+      "codepoint": 58053,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTargetOpen",
+      "duotone": true
     },
     "folder-taskfile": {
       "codepoint": 57536,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTaskfile",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-taskfile-open": {
       "codepoint": 57537,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTaskfileOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-tasks": {
       "codepoint": 57538,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTasks",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-tasks-open": {
       "codepoint": 57539,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTasksOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-television": {
       "codepoint": 57540,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTelevision",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-television-open": {
       "codepoint": 57541,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTelevisionOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-temp": {
       "codepoint": 57542,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTemp",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-temp-open": {
       "codepoint": 57543,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTempOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-template": {
+      "codepoint": 58054,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTemplate",
+      "duotone": true
+    },
+    "folder-template-open": {
+      "codepoint": 58055,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTemplateOpen",
+      "duotone": true
     },
     "folder-terraform": {
       "codepoint": 57544,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTerraform",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-terraform-open": {
       "codepoint": 57545,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTerraformOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-test": {
       "codepoint": 57546,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTest",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-test-open": {
       "codepoint": 57547,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTestOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-theme": {
+      "codepoint": 58056,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTheme",
+      "duotone": true
+    },
+    "folder-theme-open": {
+      "codepoint": 58057,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderThemeOpen",
+      "duotone": true
+    },
+    "folder-toc": {
+      "codepoint": 58058,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderToc",
+      "duotone": true
+    },
+    "folder-toc-open": {
+      "codepoint": 58059,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTocOpen",
+      "duotone": true
+    },
+    "folder-tools": {
+      "codepoint": 58060,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTools",
+      "duotone": true
+    },
+    "folder-tools-open": {
+      "codepoint": 58061,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderToolsOpen",
+      "duotone": true
+    },
+    "folder-trash": {
+      "codepoint": 58062,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTrash",
+      "duotone": true
+    },
+    "folder-trash-open": {
+      "codepoint": 58063,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTrashOpen",
+      "duotone": true
     },
     "folder-trigger": {
       "codepoint": 57548,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTrigger",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-trigger-open": {
       "codepoint": 57549,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTriggerOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-typescript": {
+      "codepoint": 58064,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTypescript",
+      "duotone": true
+    },
+    "folder-typescript-open": {
+      "codepoint": 58065,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTypescriptOpen",
+      "duotone": true
     },
     "folder-ui": {
       "codepoint": 57550,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderUi",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-ui-open": {
       "codepoint": 57551,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderUiOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-unity": {
+      "codepoint": 58066,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderUnity",
+      "duotone": true
+    },
+    "folder-unity-open": {
+      "codepoint": 58067,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderUnityOpen",
+      "duotone": true
+    },
+    "folder-update": {
+      "codepoint": 58068,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderUpdate",
+      "duotone": true
+    },
+    "folder-update-open": {
+      "codepoint": 58069,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderUpdateOpen",
+      "duotone": true
+    },
+    "folder-upload": {
+      "codepoint": 58070,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderUpload",
+      "duotone": true
+    },
+    "folder-upload-open": {
+      "codepoint": 58071,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderUploadOpen",
+      "duotone": true
+    },
+    "folder-utils": {
+      "codepoint": 58072,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderUtils",
+      "duotone": true
+    },
+    "folder-utils-open": {
+      "codepoint": 58073,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderUtilsOpen",
+      "duotone": true
+    },
+    "folder-vercel": {
+      "codepoint": 58074,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderVercel",
+      "duotone": true
+    },
+    "folder-vercel-open": {
+      "codepoint": 58075,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderVercelOpen",
+      "duotone": true
+    },
+    "folder-video": {
+      "codepoint": 58076,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderVideo",
+      "duotone": true
+    },
+    "folder-video-open": {
+      "codepoint": 58077,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderVideoOpen",
+      "duotone": true
+    },
+    "folder-views": {
+      "codepoint": 58078,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderViews",
+      "duotone": true
+    },
+    "folder-views-open": {
+      "codepoint": 58079,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderViewsOpen",
+      "duotone": true
+    },
+    "folder-vm": {
+      "codepoint": 58080,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderVm",
+      "duotone": true
+    },
+    "folder-vm-open": {
+      "codepoint": 58081,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderVmOpen",
+      "duotone": true
     },
     "folder-vscode": {
       "codepoint": 57552,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderVscode",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "folder-vscode-open": {
       "codepoint": 57553,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderVscodeOpen",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "folder-wakatime": {
+      "codepoint": 58082,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderWakatime",
+      "duotone": true
+    },
+    "folder-wakatime-open": {
+      "codepoint": 58083,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderWakatimeOpen",
+      "duotone": true
+    },
+    "folder-windows": {
+      "codepoint": 58084,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderWindows",
+      "duotone": true
+    },
+    "folder-windows-open": {
+      "codepoint": 58085,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderWindowsOpen",
+      "duotone": true
+    },
+    "folder-wordpress": {
+      "codepoint": 58086,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderWordpress",
+      "duotone": true
+    },
+    "folder-wordpress-open": {
+      "codepoint": 58087,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderWordpressOpen",
+      "duotone": true
+    },
+    "folder-yarn": {
+      "codepoint": 58088,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderYarn",
+      "duotone": true
+    },
+    "folder-yarn-open": {
+      "codepoint": 58089,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderYarnOpen",
+      "duotone": true
+    },
+    "folder-zed": {
+      "codepoint": 58090,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderZed",
+      "duotone": true
+    },
+    "folder-zed-open": {
+      "codepoint": 58091,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderZedOpen",
+      "duotone": true
     },
     "fsharp": {
       "codepoint": 57554,
       "fontFamily": "MaterialIconTheme",
       "identifier": "fsharp",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "gamemaker": {
       "codepoint": 57555,
@@ -1380,8 +3386,7 @@
       "codepoint": 57556,
       "fontFamily": "MaterialIconTheme",
       "identifier": "gatsby",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "git": {
       "codepoint": 57557,
@@ -1520,6 +3525,12 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "jinja"
     },
+    "jsconfig": {
+      "codepoint": 58092,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "jsconfig",
+      "duotone": true
+    },
     "json": {
       "codepoint": 57584,
       "fontFamily": "MaterialIconTheme",
@@ -1529,6 +3540,18 @@
       "codepoint": 57585,
       "fontFamily": "MaterialIconTheme",
       "identifier": "jsonSchema"
+    },
+    "jsr-light": {
+      "codepoint": 58093,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "jsrLight",
+      "duotone": true
+    },
+    "karma": {
+      "codepoint": 58094,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "karma",
+      "duotone": true
     },
     "key": {
       "codepoint": 57586,
@@ -1549,6 +3572,12 @@
       "codepoint": 57589,
       "fontFamily": "MaterialIconTheme",
       "identifier": "latexmk"
+    },
+    "lefthook": {
+      "codepoint": 58095,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "lefthook",
+      "duotone": true
     },
     "lib": {
       "codepoint": 57590,
@@ -1589,8 +3618,7 @@
       "codepoint": 57597,
       "fontFamily": "MaterialIconTheme",
       "identifier": "luau",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "lynx": {
       "codepoint": 57598,
@@ -1606,8 +3634,19 @@
       "codepoint": 57600,
       "fontFamily": "MaterialIconTheme",
       "identifier": "macaulay2",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "markdoc": {
+      "codepoint": 58096,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "markdoc",
+      "duotone": true
+    },
+    "markdoc-config": {
+      "codepoint": 58097,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "markdocConfig",
+      "duotone": true
     },
     "markdown": {
       "codepoint": 57601,
@@ -1651,6 +3690,14 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "mint"
     },
+    "mjml": {
+      "codepoint": 58098,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "mjml",
+      "duotone": true,
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
+    },
     "moonscript": {
       "codepoint": 57609,
       "fontFamily": "MaterialIconTheme",
@@ -1675,8 +3722,13 @@
       "codepoint": 57613,
       "fontFamily": "MaterialIconTheme",
       "identifier": "netlify",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "netlify-light": {
+      "codepoint": 58099,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "netlifyLight",
+      "duotone": true
     },
     "next": {
       "codepoint": 57614,
@@ -1717,8 +3769,7 @@
       "codepoint": 57621,
       "fontFamily": "MaterialIconTheme",
       "identifier": "nix",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "nodejs": {
       "codepoint": 57622,
@@ -1810,10 +3861,34 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "phpunit"
     },
+    "pinejs": {
+      "codepoint": 58100,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "pinejs",
+      "duotone": true
+    },
     "pipeline": {
       "codepoint": 57640,
       "fontFamily": "MaterialIconTheme",
       "identifier": "pipeline"
+    },
+    "playwright": {
+      "codepoint": 58101,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "playwright",
+      "duotone": true
+    },
+    "pnpm": {
+      "codepoint": 58102,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "pnpm",
+      "duotone": true
+    },
+    "pnpm-light": {
+      "codepoint": 58103,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "pnpmLight",
+      "duotone": true
     },
     "posthtml": {
       "codepoint": 57641,
@@ -1850,6 +3925,12 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "purescript"
     },
+    "python": {
+      "codepoint": 58104,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "python",
+      "duotone": true
+    },
     "qsharp": {
       "codepoint": 57648,
       "fontFamily": "MaterialIconTheme",
@@ -1859,6 +3940,12 @@
       "codepoint": 57649,
       "fontFamily": "MaterialIconTheme",
       "identifier": "quokka"
+    },
+    "racket": {
+      "codepoint": 58105,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "racket",
+      "duotone": true
     },
     "raml": {
       "codepoint": 57650,
@@ -1920,6 +4007,12 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "robot"
     },
+    "rome": {
+      "codepoint": 58106,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "rome",
+      "duotone": true
+    },
     "routing": {
       "codepoint": 57662,
       "fontFamily": "MaterialIconTheme",
@@ -1929,6 +4022,18 @@
       "codepoint": 57663,
       "fontFamily": "MaterialIconTheme",
       "identifier": "rstack"
+    },
+    "rubocop": {
+      "codepoint": 58107,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "rubocop",
+      "duotone": true
+    },
+    "rubocop-light": {
+      "codepoint": 58108,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "rubocopLight",
+      "duotone": true
     },
     "ruff": {
       "codepoint": 57664,
@@ -1945,10 +4050,28 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "salt"
     },
+    "san": {
+      "codepoint": 58109,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "san",
+      "duotone": true
+    },
     "sbt": {
       "codepoint": 57667,
       "fontFamily": "MaterialIconTheme",
       "identifier": "sbt"
+    },
+    "scons": {
+      "codepoint": 58110,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "scons",
+      "duotone": true
+    },
+    "scons-light": {
+      "codepoint": 58111,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "sconsLight",
+      "duotone": true
     },
     "search": {
       "codepoint": 57668,
@@ -1980,6 +4103,12 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "shader"
     },
+    "siyuan": {
+      "codepoint": 58112,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "siyuan",
+      "duotone": true
+    },
     "sketch": {
       "codepoint": 57674,
       "fontFamily": "MaterialIconTheme",
@@ -1999,6 +4128,12 @@
       "codepoint": 57677,
       "fontFamily": "MaterialIconTheme",
       "identifier": "smarty"
+    },
+    "snapcraft": {
+      "codepoint": 58113,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "snapcraft",
+      "duotone": true
     },
     "snowpack": {
       "codepoint": 57678,
@@ -2026,6 +4161,12 @@
       "codepoint": 57682,
       "fontFamily": "MaterialIconTheme",
       "identifier": "stitches"
+    },
+    "storybook": {
+      "codepoint": 58114,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "storybook",
+      "duotone": true
     },
     "stylelint": {
       "codepoint": 57683,
@@ -2059,12 +4200,29 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "swagger"
     },
+    "sway": {
+      "codepoint": 58115,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "sway",
+      "duotone": true
+    },
+    "syncpack": {
+      "codepoint": 58116,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "syncpack",
+      "duotone": true
+    },
     "systemd": {
       "codepoint": 57689,
       "fontFamily": "MaterialIconTheme",
       "identifier": "systemd",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "systemd-light": {
+      "codepoint": 58117,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "systemdLight",
+      "duotone": true
     },
     "table": {
       "codepoint": 57690,
@@ -2087,8 +4245,13 @@
       "codepoint": 57693,
       "fontFamily": "MaterialIconTheme",
       "identifier": "tauri",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "taze": {
+      "codepoint": 58118,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "taze",
+      "duotone": true
     },
     "teal": {
       "codepoint": 57694,
@@ -2125,6 +4288,12 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "tex"
     },
+    "textlint": {
+      "codepoint": 58119,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "textlint",
+      "duotone": true
+    },
     "tilt": {
       "codepoint": 57701,
       "fontFamily": "MaterialIconTheme",
@@ -2135,10 +4304,34 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "tldraw"
     },
+    "tobimake": {
+      "codepoint": 58120,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "tobimake",
+      "duotone": true
+    },
+    "toml": {
+      "codepoint": 58121,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "toml",
+      "duotone": true
+    },
+    "toml-light": {
+      "codepoint": 58122,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "tomlLight",
+      "duotone": true
+    },
     "trigger": {
       "codepoint": 57703,
       "fontFamily": "MaterialIconTheme",
       "identifier": "trigger"
+    },
+    "tsconfig": {
+      "codepoint": 58123,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "tsconfig",
+      "duotone": true
     },
     "tsdoc": {
       "codepoint": 57704,
@@ -2154,6 +4347,12 @@
       "codepoint": 57706,
       "fontFamily": "MaterialIconTheme",
       "identifier": "twig"
+    },
+    "twine": {
+      "codepoint": 58124,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "twine",
+      "duotone": true
     },
     "typst": {
       "codepoint": 57707,
@@ -2180,12 +4379,17 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "uv"
     },
+    "vagrant": {
+      "codepoint": 58125,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "vagrant",
+      "duotone": true
+    },
     "velite": {
       "codepoint": 57712,
       "fontFamily": "MaterialIconTheme",
       "identifier": "velite",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "velocity": {
       "codepoint": 57713,
@@ -2196,6 +4400,12 @@
       "codepoint": 57714,
       "fontFamily": "MaterialIconTheme",
       "identifier": "vercel"
+    },
+    "verdaccio": {
+      "codepoint": 58126,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "verdaccio",
+      "duotone": true
     },
     "verified": {
       "codepoint": 57715,
@@ -2232,6 +4442,24 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "vitest"
     },
+    "vlang": {
+      "codepoint": 58127,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "vlang",
+      "duotone": true
+    },
+    "vue": {
+      "codepoint": 58128,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "vue",
+      "duotone": true
+    },
+    "vuex-store": {
+      "codepoint": 58129,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "vuexStore",
+      "duotone": true
+    },
     "wakatime": {
       "codepoint": 57722,
       "fontFamily": "MaterialIconTheme",
@@ -2256,8 +4484,7 @@
       "codepoint": 57726,
       "fontFamily": "MaterialIconTheme",
       "identifier": "watchman",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "webassembly": {
       "codepoint": 57727,
@@ -2278,8 +4505,7 @@
       "codepoint": 57730,
       "fontFamily": "MaterialIconTheme",
       "identifier": "wrangler",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "xaml": {
       "codepoint": 57731,

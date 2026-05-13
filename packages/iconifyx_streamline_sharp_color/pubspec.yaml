@@ -1,6 +1,6 @@
 name: iconifyx_streamline_sharp_color
 description: >-
-  Sharp color icons icons from Iconify, packaged for Flutter (868 icons, CC BY 4.0 license).
+  Sharp color icons icons from Iconify, packaged for Flutter (999 icons, CC BY 4.0 license).
 version: 0.1.0
 publish_to: 'none'
 
@@ -20,3 +20,6 @@ flutter:
     - family: StreamlineSharpColor
       fonts:
         - asset: assets/fonts/StreamlineSharpColor.ttf
+    - family: StreamlineSharpColorSecondary
+      fonts:
+        - asset: assets/fonts/StreamlineSharpColorSecondary.ttf

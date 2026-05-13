@@ -16,18 +16,18 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/googlefonts/noto-emoji/blob/main/svg/LICENSE"
     },
-    "total": 38
+    "total": 70
   },
   "fonts": [
     {
       "family": "Noto",
-      "nextCodepoint": 57523,
-      "iconCount": 38
+      "nextCodepoint": 57536,
+      "iconCount": 70
     },
     {
       "family": "NotoSecondary",
-      "nextCodepoint": 57523,
-      "iconCount": 5
+      "nextCodepoint": 57536,
+      "iconCount": 37
     }
   ],
   "icons": {
@@ -48,8 +48,7 @@
       "codepoint": 57346,
       "fontFamily": "Noto",
       "identifier": "alien",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "american-football": {
       "codepoint": 57347,
@@ -76,15 +75,13 @@
       "codepoint": 57350,
       "fontFamily": "Noto",
       "identifier": "bellPepper",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "biohazard": {
       "codepoint": 57351,
       "fontFamily": "Noto",
       "identifier": "biohazard",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "bird": {
       "codepoint": 57352,
@@ -104,8 +101,7 @@
       "codepoint": 57354,
       "fontFamily": "Noto",
       "identifier": "bone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "bowl-with-spoon": {
       "codepoint": 57355,
@@ -125,8 +121,13 @@
       "codepoint": 57357,
       "fontFamily": "Noto",
       "identifier": "bubbles",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "busts-in-silhouette": {
+      "codepoint": 57523,
+      "fontFamily": "Noto",
+      "identifier": "bustsInSilhouette",
+      "duotone": true
     },
     "butter": {
       "codepoint": 57358,
@@ -183,12 +184,17 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "chopsticks": {
+      "codepoint": 57524,
+      "fontFamily": "Noto",
+      "identifier": "chopsticks",
+      "duotone": true
+    },
     "cloud": {
       "codepoint": 57366,
       "fontFamily": "Noto",
       "identifier": "cloud",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "cloud-with-rain": {
       "codepoint": 57367,
@@ -203,6 +209,12 @@
       "identifier": "cloudWithSnow",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "club-suit": {
+      "codepoint": 57525,
+      "fontFamily": "Noto",
+      "identifier": "clubSuit",
+      "duotone": true
     },
     "clutch-bag": {
       "codepoint": 57369,
@@ -231,6 +243,12 @@
       "identifier": "cow",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "crescent-moon": {
+      "codepoint": 57526,
+      "fontFamily": "Noto",
+      "identifier": "crescentMoon",
+      "duotone": true
     },
     "crossed-flags": {
       "codepoint": 57373,
@@ -269,8 +287,7 @@
       "codepoint": 57378,
       "fontFamily": "Noto",
       "identifier": "diamondSuit",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "dolphin": {
       "codepoint": 57379,
@@ -279,12 +296,17 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "drop-of-blood": {
+      "codepoint": 57527,
+      "fontFamily": "Noto",
+      "identifier": "dropOfBlood",
+      "duotone": true
+    },
     "droplet": {
       "codepoint": 57380,
       "fontFamily": "Noto",
       "identifier": "droplet",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "dumpling": {
       "codepoint": 57381,
@@ -513,8 +535,7 @@
       "codepoint": 57413,
       "fontFamily": "Noto",
       "identifier": "femaleSign",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "file-folder": {
       "codepoint": 57414,
@@ -522,6 +543,12 @@
       "identifier": "fileFolder",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "fingerprint": {
+      "codepoint": 57528,
+      "fontFamily": "Noto",
+      "identifier": "fingerprint",
+      "duotone": true
     },
     "fish-cake-with-swirl": {
       "codepoint": 57415,
@@ -577,6 +604,18 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "full-moon": {
+      "codepoint": 57529,
+      "fontFamily": "Noto",
+      "identifier": "fullMoon",
+      "duotone": true
+    },
+    "gloves": {
+      "codepoint": 57530,
+      "fontFamily": "Noto",
+      "identifier": "gloves",
+      "duotone": true
+    },
     "goal-net": {
       "codepoint": 57423,
       "fontFamily": "Noto",
@@ -588,8 +627,7 @@
       "codepoint": 57424,
       "fontFamily": "Noto",
       "identifier": "heartSuit",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "heavy-check-mark": {
       "codepoint": 57425,
@@ -643,8 +681,7 @@
       "codepoint": 57432,
       "fontFamily": "Noto",
       "identifier": "jar",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "key": {
       "codepoint": 57433,
@@ -660,6 +697,12 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "leafless-tree": {
+      "codepoint": 57531,
+      "fontFamily": "Noto",
+      "identifier": "leaflessTree",
+      "duotone": true
+    },
     "left-speech-bubble": {
       "codepoint": 57435,
       "fontFamily": "Noto",
@@ -669,8 +712,7 @@
       "codepoint": 57436,
       "fontFamily": "Noto",
       "identifier": "leo",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-a": {
       "codepoint": 57437,
@@ -837,6 +879,12 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "new-moon": {
+      "codepoint": 57532,
+      "fontFamily": "Noto",
+      "identifier": "newMoon",
+      "duotone": true
+    },
     "office-building": {
       "codepoint": 57468,
       "fontFamily": "Noto",
@@ -855,8 +903,7 @@
       "codepoint": 57470,
       "fontFamily": "Noto",
       "identifier": "ophiuchus",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "page-facing-up": {
       "codepoint": 57471,
@@ -923,8 +970,7 @@
       "codepoint": 57480,
       "fontFamily": "Noto",
       "identifier": "radioactive",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "rat": {
       "codepoint": 57481,
@@ -958,8 +1004,7 @@
       "codepoint": 57485,
       "fontFamily": "Noto",
       "identifier": "rightAngerBubble",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "sake": {
       "codepoint": 57486,
@@ -979,8 +1024,7 @@
       "codepoint": 57488,
       "fontFamily": "Noto",
       "identifier": "seedling",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "shamrock": {
       "codepoint": 57489,
@@ -1003,10 +1047,22 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "spade-suit": {
+      "codepoint": 57533,
+      "fontFamily": "Noto",
+      "identifier": "spadeSuit",
+      "duotone": true
+    },
     "sparkle": {
       "codepoint": 57492,
       "fontFamily": "Noto",
       "identifier": "sparkle",
+      "duotone": true
+    },
+    "speaking-head": {
+      "codepoint": 57534,
+      "fontFamily": "Noto",
+      "identifier": "speakingHead",
       "duotone": true
     },
     "spider-web": {
@@ -1042,6 +1098,12 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "sweat-droplets": {
+      "codepoint": 57535,
+      "fontFamily": "Noto",
+      "identifier": "sweatDroplets",
+      "duotone": true
+    },
     "swim-brief": {
       "codepoint": 57498,
       "fontFamily": "Noto",
@@ -1065,15 +1127,13 @@
       "codepoint": 57501,
       "fontFamily": "Noto",
       "identifier": "ticket",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "transgender-flag": {
       "codepoint": 57502,
       "fontFamily": "Noto",
       "identifier": "transgenderFlag",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "volleyball": {
       "codepoint": 57503,
@@ -1114,8 +1174,7 @@
       "codepoint": 57508,
       "fontFamily": "Noto",
       "identifier": "whiteFlower",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "white-heart": {
       "codepoint": 57509,

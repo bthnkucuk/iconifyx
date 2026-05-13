@@ -20,3 +20,6 @@ flutter:
     - family: StreamlineStickiesColor
       fonts:
         - asset: assets/fonts/StreamlineStickiesColor.ttf
+    - family: StreamlineStickiesColorSecondary
+      fonts:
+        - asset: assets/fonts/StreamlineStickiesColorSecondary.ttf

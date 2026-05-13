@@ -23,6 +23,11 @@
       "family": "StreamlineStickiesColor",
       "nextCodepoint": 57509,
       "iconCount": 165
+    },
+    {
+      "family": "StreamlineStickiesColorSecondary",
+      "nextCodepoint": 57509,
+      "iconCount": 5
     }
   ],
   "icons": {
@@ -124,7 +129,8 @@
     "bluetooth-duo": {
       "codepoint": 57363,
       "fontFamily": "StreamlineStickiesColor",
-      "identifier": "bluetoothDuo"
+      "identifier": "bluetoothDuo",
+      "duotone": true
     },
     "boarding-pass": {
       "codepoint": 57364,
@@ -399,7 +405,8 @@
     "help-duo": {
       "codepoint": 57418,
       "fontFamily": "StreamlineStickiesColor",
-      "identifier": "helpDuo"
+      "identifier": "helpDuo",
+      "duotone": true
     },
     "information-toilet-location-duo": {
       "codepoint": 57419,
@@ -464,7 +471,8 @@
     "love-duo": {
       "codepoint": 57431,
       "fontFamily": "StreamlineStickiesColor",
-      "identifier": "loveDuo"
+      "identifier": "loveDuo",
+      "duotone": true
     },
     "mail-duo": {
       "codepoint": 57432,
@@ -609,7 +617,8 @@
     "programming-duo": {
       "codepoint": 57460,
       "fontFamily": "StreamlineStickiesColor",
-      "identifier": "programmingDuo"
+      "identifier": "programmingDuo",
+      "duotone": true
     },
     "qr-code-duo": {
       "codepoint": 57461,
@@ -804,7 +813,8 @@
     "validation-1-duo": {
       "codepoint": 57499,
       "fontFamily": "StreamlineStickiesColor",
-      "identifier": "validation1Duo"
+      "identifier": "validation1Duo",
+      "duotone": true
     },
     "view-mail": {
       "codepoint": 57500,

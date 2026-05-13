@@ -5,9 +5,9 @@ Generated 2026-05-13. For each set we sample the first 25 icons and measure two 
 - **Sets receiving raster pre-pass:** 111 / 225
 - **Of those, auto-detected:** 85
 - **Sets with ≥20% raster signal that were NOT processed:** 6
-- **Sets containing duo-tone icons:** 42 (7,367 icons across them)
-- **Sets with ≥20% paint-order risk (multi-fill bodies that would render as monochrome blobs):** 14
-- **Icons proactively dropped this run for paint-order risk:** 22,315
+- **Sets containing duo-tone icons:** 59 (15,104 icons across them)
+- **Sets with ≥20% paint-order risk (multi-fill bodies that would render as monochrome blobs):** 12
+- **Icons proactively dropped this run for paint-order risk:** 18,436
 
 If any "missed" sets render incorrectly in the example app, add their prefix to `strokeFillSets` in `tools/generator/config.yaml`.
 
@@ -17,20 +17,20 @@ Iconify bodies that paint two or more concrete colors (e.g. a light letterform o
 
 | Set | Prefix | Paint-order % | Dropped | Raster applied |
 |---|---|---:|---:|:---:|
-| UnJS Logos | `unjs` | 100% | 59 | — |
-| Kameleon color icons | `streamline-kameleon-color` | 100% | 400 | — |
+| UnJS Logos | `unjs` | 100% | 56 | — |
+| Kameleon color icons | `streamline-kameleon-color` | 100% | 397 | — |
 | Circle Flags | `circle-flags` | 100% | 737 | — |
-| Emoji One (v1) | `emojione-v1` | 96% | 1,425 | — |
-| Twitter Emoji | `twemoji` | 96% | 4,553 | — |
-| Emoji One (Colored) | `emojione` | 96% | 2,028 | — |
-| Fluent Emoji Flat | `fluent-emoji-flat` | 92% | 3,087 | — |
-| Flat Color Icons | `flat-color-icons` | 88% | 274 | — |
-| Firefox OS Emoji | `fxemoji` | 88% | 882 | — |
-| Noto Emoji (v1) | `noto-v1` | 84% | 2,100 | — |
-| SVG Logos | `logos` | 60% | 1,039 | — |
-| Noto Emoji | `noto` | 56% | 4,014 | — |
-| VSCode Icons | `vscode-icons` | 52% | 981 | — |
-| Material Icon Theme | `material-icon-theme` | 20% | 687 | — |
+| Emoji One (Colored) | `emojione` | 84% | 1,694 | — |
+| Noto Emoji (v1) | `noto-v1` | 76% | 1,732 | — |
+| Emoji One (v1) | `emojione-v1` | 76% | 1,202 | — |
+| Twitter Emoji | `twemoji` | 76% | 3,891 | — |
+| Fluent Emoji Flat | `fluent-emoji-flat` | 72% | 2,512 | — |
+| Firefox OS Emoji | `fxemoji` | 72% | 754 | — |
+| Flat Color Icons | `flat-color-icons` | 64% | 213 | — |
+| Noto Emoji | `noto` | 56% | 3,761 | — |
+| VSCode Icons | `vscode-icons` | 28% | 639 | — |
+| SVG Logos | `logos` | 8% | 654 | — |
+| Material Icon Theme | `material-icon-theme` | 4% | 145 | — |
 | Fluent UI System Icons | `fluent` | 0% | 5 | — |
 | Fluent UI System Color Icons | `fluent-color` | 0% | 44 | — |
 
@@ -43,45 +43,62 @@ Open these sets in the example app and verify the primary / secondary layers of 
 | Solar | `solar` | 2,412 |
 | Phosphor | `ph` | 1,528 |
 | Google Material Icons | `ic` | 1,351 |
+| Freehand color icons | `streamline-freehand-color` | 971 |
+| Streamline color | `streamline-color` | 810 |
 | Pepicons Print | `pepicons-print` | 703 |
+| Twitter Emoji | `twemoji` | 637 |
+| Material Icon Theme | `material-icon-theme` | 541 |
+| Fluent Emoji Flat | `fluent-emoji-flat` | 494 |
+| Sharp color icons | `streamline-sharp-color` | 437 |
+| Plump color icons | `streamline-plump-color` | 435 |
+| Flex color icons | `streamline-flex-color` | 433 |
+| Cryptocurrency Color Icons | `cryptocurrency-color` | 379 |
+| SVG Logos | `logos` | 372 |
 | Streamline Emojis | `streamline-emojis` | 364 |
+| VSCode Icons | `vscode-icons` | 326 |
+| Glyphs Poly | `glyphs-poly` | 293 |
+| Emoji One (Colored) | `emojione` | 271 |
 | IconaMoon | `iconamoon` | 234 |
+| Noto Emoji (v1) | `noto-v1` | 224 |
+| Web3 Icons Branded | `token-branded` | 199 |
+| Emoji One (v1) | `emojione-v1` | 196 |
 | Stash Icons | `stash` | 193 |
 | Unicons Monochrome | `uim` | 188 |
+| Devicon | `devicon` | 177 |
+| Firefox OS Emoji | `fxemoji` | 128 |
 | Pepicons | `pepicons` | 125 |
+| Skill Icons | `skill-icons` | 120 |
 | Duoicons | `duo-icons` | 91 |
+| IconPark | `icon-park` | 80 |
+| Flat Color Icons | `flat-color-icons` | 61 |
+| Flag Icons | `flag` | 45 |
 | Qlementine Icons | `qlementine-icons` | 41 |
+| Google Cloud Icons | `gcp` | 40 |
+| Noto Emoji | `noto` | 37 |
+| CoreUI Flags | `cif` | 35 |
 | NRK Core Icons | `nrk` | 23 |
+| Flat UI Icons | `flat-ui` | 19 |
+| Flagpack | `flagpack` | 16 |
 | Cryptocurrency Icons | `cryptocurrency` | 15 |
-| Flat UI Icons | `flat-ui` | 14 |
 | css.gg | `gg` | 11 |
-| Devicon | `devicon` | 7 |
-| Noto Emoji | `noto` | 5 |
+| Stickies color icons | `streamline-stickies-color` | 5 |
 | Web3 Icons | `token` | 5 |
-| Noto Emoji (v1) | `noto-v1` | 4 |
 | Tabler Icons | `tabler` | 4 |
-| Skill Icons | `skill-icons` | 4 |
 | WordPress Icons | `wordpress` | 4 |
 | Radix Icons | `radix-icons` | 4 |
-| SVG Logos | `logos` | 4 |
+| Kameleon color icons | `streamline-kameleon-color` | 3 |
 | Huge Icons | `hugeicons` | 3 |
 | Arcticons | `arcticons` | 3 |
 | Grommet Icons | `grommet-icons` | 3 |
 | Evil Icons | `ei` | 3 |
-| VSCode Icons | `vscode-icons` | 2 |
-| Glyphs Poly | `glyphs-poly` | 2 |
-| Cryptocurrency Color Icons | `cryptocurrency-color` | 2 |
+| Ultimate color icons | `streamline-ultimate-color` | 2 |
 | MingCute Icon | `mingcute` | 2 |
-| Web3 Icons Branded | `token-branded` | 2 |
 | Pixelarticons | `pixelarticons` | 2 |
 | Clarity | `clarity` | 2 |
-| Material Icon Theme | `material-icon-theme` | 1 |
 | Devicon Plain | `devicon-plain` | 1 |
-| Fluent Emoji Flat | `fluent-emoji-flat` | 1 |
 | Bitcoin Icons | `bitcoin-icons` | 1 |
+| Fluent Emoji | `fluent-emoji` | 1 |
 | TDesign Icons | `tdesign` | 1 |
-| Emoji One (Colored) | `emojione` | 1 |
-| Firefox OS Emoji | `fxemoji` | 1 |
 
 ## All sets
 
@@ -92,23 +109,23 @@ Open these sets in the example app and verify the primary / secondary layers of 
 | Garden SVG Icons | `garden` | 28% | 0% | 0% | — | — | none |
 | BPMN | `bpmn` | 28% | 0% | 0% | — | — | none |
 | UnJS Logos | `unjs` | 24% | 0% | 100% | — | — | none |
-| Noto Emoji (v1) | `noto-v1` | 24% | 0% | 84% | 4 | — | none |
-| VSCode Icons | `vscode-icons` | 8% | 12% | 52% | 2 | — | none |
+| Noto Emoji (v1) | `noto-v1` | 24% | 0% | 76% | 224 | — | none |
+| VSCode Icons | `vscode-icons` | 8% | 12% | 28% | 326 | — | none |
 | Ant Design Icons | `ant-design` | 0% | 16% | 0% | — | — | none |
 | OpenSearch UI | `oui` | 0% | 16% | 0% | — | — | none |
-| Material Icon Theme | `material-icon-theme` | 8% | 8% | 20% | 1 | — | none |
+| Material Icon Theme | `material-icon-theme` | 8% | 8% | 4% | 541 | — | none |
 | TopCoat Icons | `topcoat` | 0% | 16% | 0% | — | — | none |
 | Stash Icons | `stash` | 0% | 12% | 0% | 193 | — | none |
-| Kameleon color icons | `streamline-kameleon-color` | 0% | 12% | 100% | — | — | none |
-| Noto Emoji | `noto` | 12% | 0% | 56% | 5 | — | none |
+| Kameleon color icons | `streamline-kameleon-color` | 0% | 12% | 100% | 3 | — | none |
+| Noto Emoji | `noto` | 12% | 0% | 56% | 37 | — | none |
 | Codicons | `codicon` | 0% | 8% | 0% | — | — | none |
-| Emoji One (v1) | `emojione-v1` | 0% | 8% | 96% | — | — | none |
-| Flat Color Icons | `flat-color-icons` | 8% | 0% | 88% | — | — | none |
+| Emoji One (v1) | `emojione-v1` | 0% | 8% | 76% | 196 | — | none |
+| Flat Color Icons | `flat-color-icons` | 8% | 0% | 64% | 61 | — | none |
 | EOS Icons | `eos-icons` | 0% | 4% | 0% | — | — | none |
 | Mono Icons | `mi` | 0% | 4% | 0% | — | — | none |
 | Nimbus | `nimbus` | 0% | 4% | 0% | — | — | none |
 | Devicon Plain | `devicon-plain` | 0% | 4% | 0% | 1 | — | none |
-| Fluent Emoji Flat | `fluent-emoji-flat` | 0% | 4% | 92% | 1 | — | none |
+| Fluent Emoji Flat | `fluent-emoji-flat` | 0% | 4% | 72% | 494 | — | none |
 | Emoji One (Monotone) | `emojione-monotone` | 0% | 4% | 0% | — | — | none |
 | Foundation | `foundation` | 0% | 4% | 0% | — | — | none |
 | Icons8 Windows 8 Icons | `wpf` | 0% | 4% | 0% | — | — | none |
@@ -137,11 +154,8 @@ Open these sets in the example app and verify the primary / secondary layers of 
 | CodeX Icons | `codex` | 100% | 0% | 0% | — | ✓ | auto |
 | Streamline | `streamline` | 36% | 64% | 0% | — | ✓ | auto |
 | Flex free icons | `streamline-flex` | 36% | 64% | 0% | — | ✓ | auto |
-| Ultimate color icons | `streamline-ultimate-color` | 100% | 4% | 0% | — | ✓ | auto |
-| Stickies color icons | `streamline-stickies-color` | 100% | 0% | 0% | — | ✓ | auto |
-| Streamline color | `streamline-color` | 52% | 52% | 0% | — | ✓ | auto |
-| Flex color icons | `streamline-flex-color` | 52% | 60% | 0% | — | ✓ | auto |
-| Sharp color icons | `streamline-sharp-color` | 52% | 48% | 0% | — | ✓ | auto |
+| Flex color icons | `streamline-flex-color` | 52% | 60% | 0% | 433 | ✓ | auto |
+| Sharp color icons | `streamline-sharp-color` | 52% | 48% | 0% | 437 | ✓ | auto |
 | Cyber color icons | `streamline-cyber-color` | 100% | 0% | 0% | — | ✓ | auto |
 | Marketeq | `marketeq` | 100% | 0% | 0% | — | ✓ | auto |
 | Catppuccin Icons | `catppuccin` | 100% | 24% | 0% | — | ✓ | auto |
@@ -149,7 +163,6 @@ Open these sets in the example app and verify the primary / secondary layers of 
 | Arcticons | `arcticons` | 100% | 0% | 0% | 3 | ✓ | auto |
 | OpenMoji | `openmoji` | 100% | 0% | 0% | — | ✓ | auto |
 | Streamline Emojis | `streamline-emojis` | 100% | 0% | 0% | 364 | ✓ | auto |
-| Flagpack | `flagpack` | 24% | 100% | 0% | — | ✓ | auto |
 | FontAudio | `fad` | 0% | 100% | 0% | — | ✓ | auto |
 | Health Icons | `healthicons` | 0% | 100% | 0% | — | ✓ | auto |
 | Covid Icons | `covid` | 100% | 0% | 0% | — | ✓ | auto |
@@ -161,27 +174,31 @@ Open these sets in the example app and verify the primary / secondary layers of 
 | IconPark TwoTone | `icon-park-twotone` | 96% | 0% | 0% | — | ✓ | auto |
 | Quill Icons | `quill` | 92% | 8% | 0% | — | ✓ | auto |
 | Siemens Industrial Experience Icons | `ix` | 0% | 96% | 0% | — | ✓ | auto |
-| IconPark | `icon-park` | 96% | 0% | 0% | — | ✓ | auto |
+| Ultimate color icons | `streamline-ultimate-color` | 96% | 4% | 0% | 2 | ✓ | auto |
+| Stickies color icons | `streamline-stickies-color` | 96% | 0% | 0% | 5 | ✓ | auto |
+| IconPark | `icon-park` | 96% | 0% | 0% | 80 | ✓ | auto |
 | Majesticons | `majesticons` | 76% | 16% | 0% | — | ✓ | auto |
 | Basil | `basil` | 0% | 92% | 0% | — | ✓ | explicit |
 | Akar Icons | `akar-icons` | 88% | 4% | 0% | — | ✓ | explicit |
 | Bitcoin Icons | `bitcoin-icons` | 48% | 44% | 0% | 1 | ✓ | auto |
 | Cuida Icons | `cuida` | 0% | 92% | 0% | — | ✓ | auto |
 | Freehand free icons | `streamline-freehand` | 0% | 92% | 0% | — | ✓ | auto |
-| Plump color icons | `streamline-plump-color` | 52% | 52% | 0% | — | ✓ | auto |
-| Freehand color icons | `streamline-freehand-color` | 0% | 92% | 0% | — | ✓ | auto |
+| Freehand color icons | `streamline-freehand-color` | 0% | 92% | 0% | 971 | ✓ | auto |
+| Streamline color | `streamline-color` | 52% | 44% | 0% | 810 | ✓ | auto |
+| Flagpack | `flagpack` | 24% | 92% | 0% | 16 | ✓ | auto |
 | Grommet Icons | `grommet-icons` | 68% | 24% | 0% | 3 | ✓ | auto |
 | Solar | `solar` | 48% | 40% | 0% | 2,412 | ✓ | explicit |
 | Sargam Icons | `si` | 68% | 24% | 0% | — | ✓ | auto |
 | Feather Icon | `fe` | 0% | 88% | 0% | — | ✓ | auto |
 | Gravity UI Icons | `gravity-ui` | 0% | 88% | 0% | — | ✓ | auto |
 | Glyphs | `glyphs` | 68% | 24% | 0% | — | ✓ | auto |
-| Glyphs Poly | `glyphs-poly` | 72% | 40% | 0% | 2 | ✓ | auto |
 | Tabler Icons | `tabler` | 84% | 0% | 0% | 4 | ✓ | explicit |
 | Flowbite Icons | `flowbite` | 68% | 16% | 0% | — | ✓ | auto |
 | coolicons | `ci` | 84% | 0% | 0% | — | ✓ | auto |
 | Gitlab SVGs | `pajamas` | 0% | 84% | 0% | — | ✓ | auto |
-| Fluent Emoji | `fluent-emoji` | 68% | 40% | 0% | — | ✓ | auto |
+| Plump color icons | `streamline-plump-color` | 52% | 44% | 0% | 435 | ✓ | auto |
+| Fluent Emoji | `fluent-emoji` | 68% | 40% | 0% | 1 | ✓ | auto |
+| Glyphs Poly | `glyphs-poly` | 72% | 32% | 0% | 293 | ✓ | auto |
 | Pepicons Print | `pepicons-print` | 0% | 76% | 0% | 703 | ✓ | auto |
 | Teenyicons | `teenyicons` | 44% | 28% | 0% | — | ✓ | auto |
 | HeroIcons v1 Solid | `heroicons-solid` | 0% | 72% | 0% | — | ✓ | auto |
@@ -194,28 +211,28 @@ Open these sets in the example app and verify the primary / secondary layers of 
 | css.gg | `gg` | 0% | 60% | 0% | 11 | ✓ | auto |
 | Ultimate free icons | `streamline-ultimate` | 52% | 8% | 0% | — | ✓ | auto |
 | Mage Icons | `mage` | 56% | 0% | 0% | — | ✓ | explicit |
-| Flag Icons | `flag` | 40% | 40% | 0% | — | ✓ | auto |
+| Flag Icons | `flag` | 40% | 40% | 0% | 45 | ✓ | auto |
 | Meteocons | `meteocons` | 56% | 0% | 0% | — | ✓ | auto |
 | Myna UI Icons | `mynaui` | 52% | 0% | 0% | — | ✓ | explicit |
 | Nonicons | `nonicons` | 0% | 52% | 0% | — | ✓ | auto |
-| Cryptocurrency Color Icons | `cryptocurrency-color` | 0% | 52% | 0% | 2 | ✓ | auto |
+| Cryptocurrency Color Icons | `cryptocurrency-color` | 0% | 52% | 0% | 379 | ✓ | auto |
 | Duoicons | `duo-icons` | 0% | 48% | 0% | 91 | ✓ | auto |
-| Skill Icons | `skill-icons` | 0% | 48% | 0% | 4 | ✓ | auto |
-| Google Cloud Icons | `gcp` | 0% | 48% | 0% | — | ✓ | auto |
+| Google Cloud Icons | `gcp` | 0% | 48% | 0% | 40 | ✓ | auto |
 | uiw icons | `uiw` | 0% | 44% | 0% | — | ✓ | auto |
 | MingCute Icon | `mingcute` | 0% | 40% | 0% | 2 | ✓ | auto |
 | Qlementine Icons | `qlementine-icons` | 0% | 40% | 0% | 41 | ✓ | auto |
-| Flat UI Icons | `flat-ui` | 4% | 36% | 0% | 14 | ✓ | auto |
+| Flat UI Icons | `flat-ui` | 4% | 36% | 0% | 19 | ✓ | auto |
 | SidekickIcons | `sidekickicons` | 28% | 4% | 0% | — | ✓ | explicit |
 | Web3 Icons | `token` | 0% | 32% | 0% | 5 | ✓ | auto |
-| CoreUI Flags | `cif` | 28% | 28% | 0% | — | ✓ | auto |
+| CoreUI Flags | `cif` | 28% | 28% | 0% | 35 | ✓ | auto |
 | Cryptocurrency Icons | `cryptocurrency` | 0% | 28% | 0% | 15 | ✓ | auto |
 | WordPress Icons | `wordpress` | 0% | 24% | 0% | 4 | ✓ | auto |
 | FormKit Icons | `formkit` | 4% | 20% | 0% | — | ✓ | auto |
 | Radix Icons | `radix-icons` | 0% | 24% | 0% | 4 | ✓ | explicit |
 | File Icons | `file-icons` | 0% | 24% | 0% | — | ✓ | auto |
-| Devicon | `devicon` | 0% | 20% | 0% | 7 | ✓ | auto |
-| Web3 Icons Branded | `token-branded` | 0% | 20% | 0% | 2 | ✓ | auto |
+| Skill Icons | `skill-icons` | 0% | 24% | 0% | 120 | ✓ | auto |
+| Devicon | `devicon` | 0% | 20% | 0% | 177 | ✓ | auto |
+| Web3 Icons Branded | `token-branded` | 0% | 20% | 0% | 199 | ✓ | auto |
 | Font-GIS | `gis` | 0% | 20% | 0% | — | ✓ | auto |
 | Lineicons | `lineicons` | 0% | 16% | 0% | — | ✓ | explicit |
 | Octicons | `octicon` | 0% | 12% | 0% | — | ✓ | explicit |
@@ -261,17 +278,17 @@ Open these sets in the example app and verify the primary / secondary layers of 
 | Dinkie Icons | `dinkie-icons` | 0% | 0% | 0% | — | — | none |
 | Fluent UI System Color Icons | `fluent-color` | 0% | 0% | 0% | — | — | none |
 | Simple Icons | `simple-icons` | 0% | 0% | 0% | — | — | none |
-| SVG Logos | `logos` | 0% | 0% | 60% | 4 | — | none |
+| SVG Logos | `logos` | 0% | 0% | 8% | 372 | — | none |
 | CoreUI Brands | `cib` | 0% | 0% | 0% | — | — | none |
 | Font Awesome Brands | `fa7-brands` | 0% | 0% | 0% | — | — | none |
 | Boxicons Brands | `bxl` | 0% | 0% | 0% | — | — | none |
 | Custom Brand Icons | `cbi` | 0% | 0% | 0% | — | — | none |
 | Brandico | `brandico` | 0% | 0% | 0% | — | — | none |
 | Entypo+ Social | `entypo-social` | 0% | 0% | 0% | — | — | none |
-| Twitter Emoji | `twemoji` | 0% | 0% | 96% | — | — | none |
+| Twitter Emoji | `twemoji` | 0% | 0% | 76% | 637 | — | none |
 | Fluent Emoji High Contrast | `fluent-emoji-high-contrast` | 0% | 0% | 0% | — | — | none |
-| Emoji One (Colored) | `emojione` | 0% | 0% | 96% | 1 | — | none |
-| Firefox OS Emoji | `fxemoji` | 0% | 0% | 88% | 1 | — | none |
+| Emoji One (Colored) | `emojione` | 0% | 0% | 84% | 271 | — | none |
+| Firefox OS Emoji | `fxemoji` | 0% | 0% | 72% | 128 | — | none |
 | Circle Flags | `circle-flags` | 0% | 0% | 100% | — | — | none |
 | Map Icons | `map` | 0% | 0% | 0% | — | — | none |
 | GeoGlyphs | `geo` | 0% | 0% | 0% | — | — | none |

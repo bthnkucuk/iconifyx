@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Yummygum
 /// License: MIT — https://github.com/Yummygum/flagpack-core/blob/main/LICENSE
-/// Icons: 185
+/// Icons: 191 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -39,6 +39,12 @@ class FlagpackIcons {
   /// `ai`
   static const IconifyIconData ai = IconifyIconData.solo(
     IconData(0xe004, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
+  );
+
+  /// `al` (duo-tone)
+  static const IconifyIconData al = IconifyIconData.duo(
+    IconData(0xe0b9, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
+    IconData(0xe0b9, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
 
   /// `ao`
@@ -81,9 +87,10 @@ class FlagpackIcons {
     IconData(0xe00c, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `bd`
-  static const IconifyIconData bd = IconifyIconData.solo(
+  /// `bd` (duo-tone)
+  static const IconifyIconData bd = IconifyIconData.duo(
     IconData(0xe00d, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
+    IconData(0xe00d, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
 
   /// `be`
@@ -101,9 +108,10 @@ class FlagpackIcons {
     IconData(0xe010, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `bh`
-  static const IconifyIconData bh = IconifyIconData.solo(
+  /// `bh` (duo-tone)
+  static const IconifyIconData bh = IconifyIconData.duo(
     IconData(0xe011, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
+    IconData(0xe011, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
 
   /// `bi`
@@ -161,9 +169,10 @@ class FlagpackIcons {
     IconData(0xe01c, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `ca`
-  static const IconifyIconData ca = IconifyIconData.solo(
+  /// `ca` (duo-tone)
+  static const IconifyIconData ca = IconifyIconData.duo(
     IconData(0xe01d, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
+    IconData(0xe01d, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
 
   /// `cc`
@@ -201,9 +210,10 @@ class FlagpackIcons {
     IconData(0xe024, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `cn`
-  static const IconifyIconData cn = IconifyIconData.solo(
+  /// `cn` (duo-tone)
+  static const IconifyIconData cn = IconifyIconData.duo(
     IconData(0xe025, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
+    IconData(0xe025, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
 
   /// `cu`
@@ -291,14 +301,21 @@ class FlagpackIcons {
     IconData(0xe036, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `gb`
-  static const IconifyIconData gb = IconifyIconData.solo(
+  /// `gb` (duo-tone)
+  static const IconifyIconData gb = IconifyIconData.duo(
     IconData(0xe037, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
+    IconData(0xe037, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
 
   /// `gb-eng`
   static const IconifyIconData gbEng = IconifyIconData.solo(
     IconData(0xe038, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
+  );
+
+  /// `gb-sct` (duo-tone)
+  static const IconifyIconData gbSct = IconifyIconData.duo(
+    IconData(0xe0ba, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
+    IconData(0xe0ba, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
 
   /// `gb-wls`
@@ -346,9 +363,10 @@ class FlagpackIcons {
     IconData(0xe041, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `gr`
-  static const IconifyIconData gr = IconifyIconData.solo(
+  /// `gr` (duo-tone)
+  static const IconifyIconData gr = IconifyIconData.duo(
     IconData(0xe042, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
+    IconData(0xe042, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
 
   /// `gt`
@@ -446,9 +464,10 @@ class FlagpackIcons {
     IconData(0xe055, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `jm`
-  static const IconifyIconData jm = IconifyIconData.solo(
+  /// `jm` (duo-tone)
+  static const IconifyIconData jm = IconifyIconData.duo(
     IconData(0xe056, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
+    IconData(0xe056, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
 
   /// `jo`
@@ -541,6 +560,12 @@ class FlagpackIcons {
     IconData(0xe068, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
+  /// `lv` (duo-tone)
+  static const IconifyIconData lv = IconifyIconData.duo(
+    IconData(0xe0bb, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
+    IconData(0xe0bb, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
+  );
+
   /// `ly`
   static const IconifyIconData ly = IconifyIconData.solo(
     IconData(0xe069, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
@@ -611,9 +636,16 @@ class FlagpackIcons {
     IconData(0xe076, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `ng`
-  static const IconifyIconData ng = IconifyIconData.solo(
+  /// `nf` (duo-tone)
+  static const IconifyIconData nf = IconifyIconData.duo(
+    IconData(0xe0bc, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
+    IconData(0xe0bc, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
+  );
+
+  /// `ng` (duo-tone)
+  static const IconifyIconData ng = IconifyIconData.duo(
     IconData(0xe077, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
+    IconData(0xe077, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
 
   /// `ni`
@@ -701,9 +733,10 @@ class FlagpackIcons {
     IconData(0xe088, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `qa`
-  static const IconifyIconData qa = IconifyIconData.solo(
+  /// `qa` (duo-tone)
+  static const IconifyIconData qa = IconifyIconData.duo(
     IconData(0xe089, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
+    IconData(0xe089, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
 
   /// `ro`
@@ -719,6 +752,12 @@ class FlagpackIcons {
   /// `rw`
   static const IconifyIconData rw = IconifyIconData.solo(
     IconData(0xe08c, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
+  );
+
+  /// `sa` (duo-tone)
+  static const IconifyIconData sa = IconifyIconData.duo(
+    IconData(0xe0bd, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
+    IconData(0xe0bd, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
 
   /// `sb`
@@ -771,9 +810,10 @@ class FlagpackIcons {
     IconData(0xe096, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
   );
 
-  /// `so`
-  static const IconifyIconData so = IconifyIconData.solo(
+  /// `so` (duo-tone)
+  static const IconifyIconData so = IconifyIconData.duo(
     IconData(0xe097, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
+    IconData(0xe097, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
 
   /// `ss`
@@ -819,6 +859,12 @@ class FlagpackIcons {
   /// `tg`
   static const IconifyIconData tg = IconifyIconData.solo(
     IconData(0xe0a0, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
+  );
+
+  /// `th` (duo-tone)
+  static const IconifyIconData th = IconifyIconData.duo(
+    IconData(0xe0be, fontFamily: 'Flagpack', fontPackage: 'iconifyx_flagpack'),
+    IconData(0xe0be, fontFamily: 'FlagpackSecondary', fontPackage: 'iconifyx_flagpack'),
   );
 
   /// `tj`

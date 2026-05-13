@@ -1,6 +1,6 @@
 name: iconifyx_streamline_color
 description: >-
-  Streamline color icons from Iconify, packaged for Flutter (1744 icons, CC BY 4.0 license).
+  Streamline color icons from Iconify, packaged for Flutter (1996 icons, CC BY 4.0 license).
 version: 0.1.0
 publish_to: 'none'
 
@@ -20,3 +20,6 @@ flutter:
     - family: StreamlineColor
       fonts:
         - asset: assets/fonts/StreamlineColor.ttf
+    - family: StreamlineColorSecondary
+      fonts:
+        - asset: assets/fonts/StreamlineColorSecondary.ttf

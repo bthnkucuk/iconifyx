@@ -1,6 +1,6 @@
 name: iconifyx_emojione_v1
 description: >-
-  Emoji One (v1) icons from Iconify, packaged for Flutter (51 icons, CC BY-SA 4.0 license).
+  Emoji One (v1) icons from Iconify, packaged for Flutter (247 icons, CC BY-SA 4.0 license).
 version: 0.1.0
 publish_to: 'none'
 
@@ -20,3 +20,6 @@ flutter:
     - family: EmojioneV1
       fonts:
         - asset: assets/fonts/EmojioneV1.ttf
+    - family: EmojioneV1Secondary
+      fonts:
+        - asset: assets/fonts/EmojioneV1Secondary.ttf

@@ -16,13 +16,18 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 70
+    "total": 707
   },
   "fonts": [
     {
       "family": "Twemoji",
-      "nextCodepoint": 57819,
-      "iconCount": 70
+      "nextCodepoint": 58180,
+      "iconCount": 707
+    },
+    {
+      "family": "TwemojiSecondary",
+      "nextCodepoint": 58180,
+      "iconCount": 637
     }
   ],
   "icons": {
@@ -33,19 +38,107 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "a-button": {
+      "codepoint": 57819,
+      "fontFamily": "Twemoji",
+      "identifier": "aButton",
+      "duotone": true
+    },
+    "a-button-blood-type": {
+      "codepoint": 57820,
+      "fontFamily": "Twemoji",
+      "identifier": "aButtonBloodType",
+      "duotone": true
+    },
+    "ab-button": {
+      "codepoint": 57821,
+      "fontFamily": "Twemoji",
+      "identifier": "abButton",
+      "duotone": true
+    },
+    "ab-button-blood-type": {
+      "codepoint": 57822,
+      "fontFamily": "Twemoji",
+      "identifier": "abButtonBloodType",
+      "duotone": true
+    },
+    "admission-tickets": {
+      "codepoint": 57823,
+      "fontFamily": "Twemoji",
+      "identifier": "admissionTickets",
+      "duotone": true
+    },
+    "alien": {
+      "codepoint": 57824,
+      "fontFamily": "Twemoji",
+      "identifier": "alien",
+      "duotone": true
+    },
+    "american-football": {
+      "codepoint": 57825,
+      "fontFamily": "Twemoji",
+      "identifier": "americanFootball",
+      "duotone": true
+    },
+    "amphora": {
+      "codepoint": 57826,
+      "fontFamily": "Twemoji",
+      "identifier": "amphora",
+      "duotone": true
+    },
+    "angry-face": {
+      "codepoint": 57827,
+      "fontFamily": "Twemoji",
+      "identifier": "angryFace",
+      "duotone": true
+    },
+    "angry-face-with-horns": {
+      "codepoint": 57828,
+      "fontFamily": "Twemoji",
+      "identifier": "angryFaceWithHorns",
+      "duotone": true
+    },
+    "anguished-face": {
+      "codepoint": 57829,
+      "fontFamily": "Twemoji",
+      "identifier": "anguishedFace",
+      "duotone": true
+    },
     "antenna-bars": {
       "codepoint": 57345,
       "fontFamily": "Twemoji",
       "identifier": "antennaBars",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "anticlockwise-arrows-button": {
       "codepoint": 57346,
       "fontFamily": "Twemoji",
       "identifier": "anticlockwiseArrowsButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "aquarius": {
+      "codepoint": 57830,
+      "fontFamily": "Twemoji",
+      "identifier": "aquarius",
+      "duotone": true
+    },
+    "aries": {
+      "codepoint": 57831,
+      "fontFamily": "Twemoji",
+      "identifier": "aries",
+      "duotone": true
+    },
+    "b-button": {
+      "codepoint": 57832,
+      "fontFamily": "Twemoji",
+      "identifier": "bButton",
+      "duotone": true
+    },
+    "b-button-blood-type": {
+      "codepoint": 57833,
+      "fontFamily": "Twemoji",
+      "identifier": "bButtonBloodType",
+      "duotone": true
     },
     "baby-bottle": {
       "codepoint": 57347,
@@ -53,6 +146,12 @@
       "identifier": "babyBottle",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "baby-symbol": {
+      "codepoint": 57834,
+      "fontFamily": "Twemoji",
+      "identifier": "babySymbol",
+      "duotone": true
     },
     "backhand-index-pointing-down": {
       "codepoint": 57348,
@@ -134,29 +233,87 @@
       "fontFamily": "Twemoji",
       "identifier": "backhandIndexPointingUpMediumSkinTone"
     },
+    "baggage-claim": {
+      "codepoint": 57835,
+      "fontFamily": "Twemoji",
+      "identifier": "baggageClaim",
+      "duotone": true
+    },
+    "balance-scale": {
+      "codepoint": 57836,
+      "fontFamily": "Twemoji",
+      "identifier": "balanceScale",
+      "duotone": true
+    },
     "bald": {
       "codepoint": 57364,
       "fontFamily": "Twemoji",
       "identifier": "bald"
     },
+    "ballet-shoes": {
+      "codepoint": 57837,
+      "fontFamily": "Twemoji",
+      "identifier": "balletShoes",
+      "duotone": true
+    },
     "balloon": {
       "codepoint": 57365,
       "fontFamily": "Twemoji",
       "identifier": "balloon",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "ballot-box-with-check": {
+      "codepoint": 57838,
+      "fontFamily": "Twemoji",
+      "identifier": "ballotBoxWithCheck",
+      "duotone": true
+    },
+    "basketball": {
+      "codepoint": 57839,
+      "fontFamily": "Twemoji",
+      "identifier": "basketball",
+      "duotone": true
     },
     "bathtub": {
       "codepoint": 57366,
       "fontFamily": "Twemoji",
       "identifier": "bathtub",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "beating-heart": {
+      "codepoint": 57840,
+      "fontFamily": "Twemoji",
+      "identifier": "beatingHeart",
+      "duotone": true
     },
     "bell": {
       "codepoint": 57367,
       "fontFamily": "Twemoji",
       "identifier": "bell"
+    },
+    "bell-with-slash": {
+      "codepoint": 57841,
+      "fontFamily": "Twemoji",
+      "identifier": "bellWithSlash",
+      "duotone": true
+    },
+    "bikini": {
+      "codepoint": 57842,
+      "fontFamily": "Twemoji",
+      "identifier": "bikini",
+      "duotone": true
+    },
+    "biohazard": {
+      "codepoint": 57843,
+      "fontFamily": "Twemoji",
+      "identifier": "biohazard",
+      "duotone": true
+    },
+    "black-square-button": {
+      "codepoint": 57844,
+      "fontFamily": "Twemoji",
+      "identifier": "blackSquareButton",
+      "duotone": true
     },
     "blue-circle": {
       "codepoint": 57368,
@@ -178,52 +335,148 @@
       "fontFamily": "Twemoji",
       "identifier": "brightButton"
     },
+    "busts-in-silhouette": {
+      "codepoint": 57845,
+      "fontFamily": "Twemoji",
+      "identifier": "bustsInSilhouette",
+      "duotone": true
+    },
+    "call-me-hand": {
+      "codepoint": 57846,
+      "fontFamily": "Twemoji",
+      "identifier": "callMeHand",
+      "duotone": true
+    },
+    "call-me-hand-dark-skin-tone": {
+      "codepoint": 57847,
+      "fontFamily": "Twemoji",
+      "identifier": "callMeHandDarkSkinTone",
+      "duotone": true
+    },
     "call-me-hand-light-skin-tone": {
       "codepoint": 57372,
       "fontFamily": "Twemoji",
       "identifier": "callMeHandLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "call-me-hand-medium-dark-skin-tone": {
+      "codepoint": 57848,
+      "fontFamily": "Twemoji",
+      "identifier": "callMeHandMediumDarkSkinTone",
+      "duotone": true
     },
     "call-me-hand-medium-light-skin-tone": {
       "codepoint": 57373,
       "fontFamily": "Twemoji",
       "identifier": "callMeHandMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "call-me-hand-medium-skin-tone": {
       "codepoint": 57374,
       "fontFamily": "Twemoji",
       "identifier": "callMeHandMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "camel": {
+      "codepoint": 57849,
+      "fontFamily": "Twemoji",
+      "identifier": "camel",
+      "duotone": true
+    },
+    "cancer": {
+      "codepoint": 57850,
+      "fontFamily": "Twemoji",
+      "identifier": "cancer",
+      "duotone": true
+    },
+    "capricorn": {
+      "codepoint": 57851,
+      "fontFamily": "Twemoji",
+      "identifier": "capricorn",
+      "duotone": true
+    },
+    "chart-increasing-with-yen": {
+      "codepoint": 57852,
+      "fontFamily": "Twemoji",
+      "identifier": "chartIncreasingWithYen",
+      "duotone": true
+    },
+    "check-box-with-check": {
+      "codepoint": 57853,
+      "fontFamily": "Twemoji",
+      "identifier": "checkBoxWithCheck",
+      "duotone": true
+    },
+    "check-mark-button": {
+      "codepoint": 57854,
+      "fontFamily": "Twemoji",
+      "identifier": "checkMarkButton",
+      "duotone": true
+    },
+    "chess-pawn": {
+      "codepoint": 57855,
+      "fontFamily": "Twemoji",
+      "identifier": "chessPawn",
+      "duotone": true
     },
     "children-crossing": {
       "codepoint": 57375,
       "fontFamily": "Twemoji",
       "identifier": "childrenCrossing"
     },
+    "chopsticks": {
+      "codepoint": 57856,
+      "fontFamily": "Twemoji",
+      "identifier": "chopsticks",
+      "duotone": true
+    },
     "cinema": {
       "codepoint": 57376,
       "fontFamily": "Twemoji",
       "identifier": "cinema",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "circled-m": {
       "codepoint": 57377,
       "fontFamily": "Twemoji",
       "identifier": "circledM",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "cl-button": {
+      "codepoint": 57857,
+      "fontFamily": "Twemoji",
+      "identifier": "clButton",
+      "duotone": true
     },
     "clockwise-vertical-arrows": {
       "codepoint": 57378,
       "fontFamily": "Twemoji",
       "identifier": "clockwiseVerticalArrows",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "cloud": {
+      "codepoint": 57858,
+      "fontFamily": "Twemoji",
+      "identifier": "cloud",
+      "duotone": true
+    },
+    "cloud-with-lightning": {
+      "codepoint": 57859,
+      "fontFamily": "Twemoji",
+      "identifier": "cloudWithLightning",
+      "duotone": true
+    },
+    "cloud-with-rain": {
+      "codepoint": 57860,
+      "fontFamily": "Twemoji",
+      "identifier": "cloudWithRain",
+      "duotone": true
+    },
+    "cloud-with-snow": {
+      "codepoint": 57861,
+      "fontFamily": "Twemoji",
+      "identifier": "cloudWithSnow",
+      "duotone": true
     },
     "collision": {
       "codepoint": 57379,
@@ -239,12 +492,29 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "computer-mouse": {
+      "codepoint": 57862,
+      "fontFamily": "Twemoji",
+      "identifier": "computerMouse",
+      "duotone": true
+    },
+    "confounded-face": {
+      "codepoint": 57863,
+      "fontFamily": "Twemoji",
+      "identifier": "confoundedFace",
+      "duotone": true
+    },
+    "confused-face": {
+      "codepoint": 57864,
+      "fontFamily": "Twemoji",
+      "identifier": "confusedFace",
+      "duotone": true
+    },
     "cookie": {
       "codepoint": 57381,
       "fontFamily": "Twemoji",
       "identifier": "cookie",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "cool-button": {
       "codepoint": 57382,
@@ -257,8 +527,25 @@
       "codepoint": 57383,
       "fontFamily": "Twemoji",
       "identifier": "counterclockwiseArrowsButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "cow": {
+      "codepoint": 57865,
+      "fontFamily": "Twemoji",
+      "identifier": "cow",
+      "duotone": true
+    },
+    "crescent-moon": {
+      "codepoint": 57866,
+      "fontFamily": "Twemoji",
+      "identifier": "crescentMoon",
+      "duotone": true
+    },
+    "cross-mark-button": {
+      "codepoint": 57867,
+      "fontFamily": "Twemoji",
+      "identifier": "crossMarkButton",
+      "duotone": true
     },
     "crossed-fingers-light-skin-tone": {
       "codepoint": 57384,
@@ -281,12 +568,29 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "cucumber": {
+      "codepoint": 57868,
+      "fontFamily": "Twemoji",
+      "identifier": "cucumber",
+      "duotone": true
+    },
     "curly-haired": {
       "codepoint": 57387,
       "fontFamily": "Twemoji",
       "identifier": "curlyHaired",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "currency-exchange": {
+      "codepoint": 57869,
+      "fontFamily": "Twemoji",
+      "identifier": "currencyExchange",
+      "duotone": true
+    },
+    "customs": {
+      "codepoint": 57870,
+      "fontFamily": "Twemoji",
+      "identifier": "customs",
+      "duotone": true
     },
     "cyclone": {
       "codepoint": 57388,
@@ -310,40 +614,65 @@
       "fontFamily": "Twemoji",
       "identifier": "dimButton"
     },
+    "disappointed-face": {
+      "codepoint": 57871,
+      "fontFamily": "Twemoji",
+      "identifier": "disappointedFace",
+      "duotone": true
+    },
+    "dizzy": {
+      "codepoint": 57872,
+      "fontFamily": "Twemoji",
+      "identifier": "dizzy",
+      "duotone": true
+    },
+    "dizzy-face": {
+      "codepoint": 57873,
+      "fontFamily": "Twemoji",
+      "identifier": "dizzyFace",
+      "duotone": true
+    },
+    "dotted-six-pointed-star": {
+      "codepoint": 57874,
+      "fontFamily": "Twemoji",
+      "identifier": "dottedSixPointedStar",
+      "duotone": true
+    },
+    "double-curly-loop": {
+      "codepoint": 57875,
+      "fontFamily": "Twemoji",
+      "identifier": "doubleCurlyLoop",
+      "duotone": true
+    },
     "down-arrow": {
       "codepoint": 57392,
       "fontFamily": "Twemoji",
       "identifier": "downArrow",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "down-button": {
       "codepoint": 57393,
       "fontFamily": "Twemoji",
       "identifier": "downButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "down-left-arrow": {
       "codepoint": 57394,
       "fontFamily": "Twemoji",
       "identifier": "downLeftArrow",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "down-right-arrow": {
       "codepoint": 57395,
       "fontFamily": "Twemoji",
       "identifier": "downRightArrow",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "downwards-button": {
       "codepoint": 57396,
       "fontFamily": "Twemoji",
       "identifier": "downwardsButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "dress": {
       "codepoint": 57397,
@@ -362,283 +691,394 @@
       "fontFamily": "Twemoji",
       "identifier": "droplet"
     },
+    "ear": {
+      "codepoint": 57876,
+      "fontFamily": "Twemoji",
+      "identifier": "ear",
+      "duotone": true
+    },
+    "ear-dark-skin-tone": {
+      "codepoint": 57877,
+      "fontFamily": "Twemoji",
+      "identifier": "earDarkSkinTone",
+      "duotone": true
+    },
     "ear-light-skin-tone": {
       "codepoint": 57400,
       "fontFamily": "Twemoji",
       "identifier": "earLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "ear-medium-dark-skin-tone": {
+      "codepoint": 57878,
+      "fontFamily": "Twemoji",
+      "identifier": "earMediumDarkSkinTone",
+      "duotone": true
     },
     "ear-medium-light-skin-tone": {
       "codepoint": 57401,
       "fontFamily": "Twemoji",
       "identifier": "earMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "ear-medium-skin-tone": {
       "codepoint": 57402,
       "fontFamily": "Twemoji",
       "identifier": "earMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "egg": {
       "codepoint": 57403,
       "fontFamily": "Twemoji",
       "identifier": "egg",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "eggplant": {
+      "codepoint": 57879,
+      "fontFamily": "Twemoji",
+      "identifier": "eggplant",
+      "duotone": true
+    },
+    "eight-spoked-asterisk": {
+      "codepoint": 57880,
+      "fontFamily": "Twemoji",
+      "identifier": "eightSpokedAsterisk",
+      "duotone": true
     },
     "eject-button": {
       "codepoint": 57404,
       "fontFamily": "Twemoji",
       "identifier": "ejectButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "electric-plug": {
+      "codepoint": 57881,
+      "fontFamily": "Twemoji",
+      "identifier": "electricPlug",
+      "duotone": true
+    },
+    "elevator": {
+      "codepoint": 57882,
+      "fontFamily": "Twemoji",
+      "identifier": "elevator",
+      "duotone": true
+    },
+    "england": {
+      "codepoint": 57883,
+      "fontFamily": "Twemoji",
+      "identifier": "england",
+      "duotone": true
+    },
+    "enraged-face": {
+      "codepoint": 57884,
+      "fontFamily": "Twemoji",
+      "identifier": "enragedFace",
+      "duotone": true
+    },
+    "expressionless-face": {
+      "codepoint": 57885,
+      "fontFamily": "Twemoji",
+      "identifier": "expressionlessFace",
+      "duotone": true
+    },
+    "eye-in-speech-bubble": {
+      "codepoint": 57886,
+      "fontFamily": "Twemoji",
+      "identifier": "eyeInSpeechBubble",
+      "duotone": true
+    },
+    "face-with-crossed-out-eyes": {
+      "codepoint": 57887,
+      "fontFamily": "Twemoji",
+      "identifier": "faceWithCrossedOutEyes",
+      "duotone": true
+    },
+    "face-with-diagonal-mouth": {
+      "codepoint": 57888,
+      "fontFamily": "Twemoji",
+      "identifier": "faceWithDiagonalMouth",
+      "duotone": true
+    },
+    "face-with-open-mouth": {
+      "codepoint": 57889,
+      "fontFamily": "Twemoji",
+      "identifier": "faceWithOpenMouth",
+      "duotone": true
+    },
+    "face-with-raised-eyebrow": {
+      "codepoint": 57890,
+      "fontFamily": "Twemoji",
+      "identifier": "faceWithRaisedEyebrow",
+      "duotone": true
+    },
+    "face-with-spiral-eyes": {
+      "codepoint": 57891,
+      "fontFamily": "Twemoji",
+      "identifier": "faceWithSpiralEyes",
+      "duotone": true
+    },
+    "face-without-mouth": {
+      "codepoint": 57892,
+      "fontFamily": "Twemoji",
+      "identifier": "faceWithoutMouth",
+      "duotone": true
+    },
+    "fallen-leaf": {
+      "codepoint": 57893,
+      "fontFamily": "Twemoji",
+      "identifier": "fallenLeaf",
+      "duotone": true
     },
     "family": {
       "codepoint": 57405,
       "fontFamily": "Twemoji",
       "identifier": "family",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-adult-adult-child": {
       "codepoint": 57406,
       "fontFamily": "Twemoji",
       "identifier": "familyAdultAdultChild",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-adult-adult-child-child": {
       "codepoint": 57407,
       "fontFamily": "Twemoji",
       "identifier": "familyAdultAdultChildChild",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-adult-child": {
       "codepoint": 57408,
       "fontFamily": "Twemoji",
       "identifier": "familyAdultChild",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-adult-child-child": {
       "codepoint": 57409,
       "fontFamily": "Twemoji",
       "identifier": "familyAdultChildChild",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-man-boy": {
       "codepoint": 57410,
       "fontFamily": "Twemoji",
       "identifier": "familyManBoy",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-man-boy-boy": {
       "codepoint": 57411,
       "fontFamily": "Twemoji",
       "identifier": "familyManBoyBoy",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-man-girl": {
       "codepoint": 57412,
       "fontFamily": "Twemoji",
       "identifier": "familyManGirl",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-man-girl-boy": {
       "codepoint": 57413,
       "fontFamily": "Twemoji",
       "identifier": "familyManGirlBoy",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-man-girl-girl": {
       "codepoint": 57414,
       "fontFamily": "Twemoji",
       "identifier": "familyManGirlGirl",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-man-man-boy": {
       "codepoint": 57415,
       "fontFamily": "Twemoji",
       "identifier": "familyManManBoy",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-man-man-boy-boy": {
       "codepoint": 57416,
       "fontFamily": "Twemoji",
       "identifier": "familyManManBoyBoy",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-man-man-girl": {
       "codepoint": 57417,
       "fontFamily": "Twemoji",
       "identifier": "familyManManGirl",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-man-man-girl-boy": {
       "codepoint": 57418,
       "fontFamily": "Twemoji",
       "identifier": "familyManManGirlBoy",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-man-man-girl-girl": {
       "codepoint": 57419,
       "fontFamily": "Twemoji",
       "identifier": "familyManManGirlGirl",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-man-woman-boy": {
       "codepoint": 57420,
       "fontFamily": "Twemoji",
       "identifier": "familyManWomanBoy",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-man-woman-boy-boy": {
       "codepoint": 57421,
       "fontFamily": "Twemoji",
       "identifier": "familyManWomanBoyBoy",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-man-woman-girl": {
       "codepoint": 57422,
       "fontFamily": "Twemoji",
       "identifier": "familyManWomanGirl",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-man-woman-girl-boy": {
       "codepoint": 57423,
       "fontFamily": "Twemoji",
       "identifier": "familyManWomanGirlBoy",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-man-woman-girl-girl": {
       "codepoint": 57424,
       "fontFamily": "Twemoji",
       "identifier": "familyManWomanGirlGirl",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-woman-boy": {
       "codepoint": 57425,
       "fontFamily": "Twemoji",
       "identifier": "familyWomanBoy",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-woman-boy-boy": {
       "codepoint": 57426,
       "fontFamily": "Twemoji",
       "identifier": "familyWomanBoyBoy",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-woman-girl": {
       "codepoint": 57427,
       "fontFamily": "Twemoji",
       "identifier": "familyWomanGirl",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-woman-girl-boy": {
       "codepoint": 57428,
       "fontFamily": "Twemoji",
       "identifier": "familyWomanGirlBoy",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-woman-girl-girl": {
       "codepoint": 57429,
       "fontFamily": "Twemoji",
       "identifier": "familyWomanGirlGirl",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-woman-woman-boy": {
       "codepoint": 57430,
       "fontFamily": "Twemoji",
       "identifier": "familyWomanWomanBoy",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-woman-woman-boy-boy": {
       "codepoint": 57431,
       "fontFamily": "Twemoji",
       "identifier": "familyWomanWomanBoyBoy",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-woman-woman-girl": {
       "codepoint": 57432,
       "fontFamily": "Twemoji",
       "identifier": "familyWomanWomanGirl",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-woman-woman-girl-boy": {
       "codepoint": 57433,
       "fontFamily": "Twemoji",
       "identifier": "familyWomanWomanGirlBoy",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "family-woman-woman-girl-girl": {
       "codepoint": 57434,
       "fontFamily": "Twemoji",
       "identifier": "familyWomanWomanGirlGirl",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "fast-down-button": {
       "codepoint": 57435,
       "fontFamily": "Twemoji",
       "identifier": "fastDownButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "fast-forward-button": {
       "codepoint": 57436,
       "fontFamily": "Twemoji",
       "identifier": "fastForwardButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "fast-reverse-button": {
       "codepoint": 57437,
       "fontFamily": "Twemoji",
       "identifier": "fastReverseButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "fast-up-button": {
       "codepoint": 57438,
       "fontFamily": "Twemoji",
       "identifier": "fastUpButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "female-sign": {
+      "codepoint": 57894,
+      "fontFamily": "Twemoji",
+      "identifier": "femaleSign",
+      "duotone": true
+    },
+    "file-folder": {
+      "codepoint": 57895,
+      "fontFamily": "Twemoji",
+      "identifier": "fileFolder",
+      "duotone": true
+    },
+    "film-projector": {
+      "codepoint": 57896,
+      "fontFamily": "Twemoji",
+      "identifier": "filmProjector",
+      "duotone": true
     },
     "fingerprint": {
       "codepoint": 57439,
       "fontFamily": "Twemoji",
       "identifier": "fingerprint"
+    },
+    "fire": {
+      "codepoint": 57897,
+      "fontFamily": "Twemoji",
+      "identifier": "fire",
+      "duotone": true
+    },
+    "fish-cake-with-swirl": {
+      "codepoint": 57898,
+      "fontFamily": "Twemoji",
+      "identifier": "fishCakeWithSwirl",
+      "duotone": true
+    },
+    "flag-antarctica": {
+      "codepoint": 57899,
+      "fontFamily": "Twemoji",
+      "identifier": "flagAntarctica",
+      "duotone": true
+    },
+    "flag-austria": {
+      "codepoint": 57900,
+      "fontFamily": "Twemoji",
+      "identifier": "flagAustria",
+      "duotone": true
     },
     "flag-azerbaijan": {
       "codepoint": 57440,
@@ -647,19 +1087,23 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flag-bahrain": {
+      "codepoint": 57901,
+      "fontFamily": "Twemoji",
+      "identifier": "flagBahrain",
+      "duotone": true
+    },
     "flag-bangladesh": {
       "codepoint": 57441,
       "fontFamily": "Twemoji",
       "identifier": "flagBangladesh",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-canada": {
       "codepoint": 57442,
       "fontFamily": "Twemoji",
       "identifier": "flagCanada",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-caribbean-netherlands": {
       "codepoint": 57443,
@@ -667,6 +1111,12 @@
       "identifier": "flagCaribbeanNetherlands",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "flag-china": {
+      "codepoint": 57902,
+      "fontFamily": "Twemoji",
+      "identifier": "flagChina",
+      "duotone": true
     },
     "flag-cuba": {
       "codepoint": 57444,
@@ -686,15 +1136,37 @@
       "codepoint": 57446,
       "fontFamily": "Twemoji",
       "identifier": "flagDenmark",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "flag-england": {
+      "codepoint": 57903,
+      "fontFamily": "Twemoji",
+      "identifier": "flagEngland",
+      "duotone": true
     },
     "flag-european-union": {
       "codepoint": 57447,
       "fontFamily": "Twemoji",
       "identifier": "flagEuropeanUnion",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "flag-for-albania": {
+      "codepoint": 57904,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForAlbania",
+      "duotone": true
+    },
+    "flag-for-antarctica": {
+      "codepoint": 57905,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForAntarctica",
+      "duotone": true
+    },
+    "flag-for-austria": {
+      "codepoint": 57906,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForAustria",
+      "duotone": true
     },
     "flag-for-azerbaijan": {
       "codepoint": 57448,
@@ -703,19 +1175,23 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flag-for-bahrain": {
+      "codepoint": 57907,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForBahrain",
+      "duotone": true
+    },
     "flag-for-bangladesh": {
       "codepoint": 57449,
       "fontFamily": "Twemoji",
       "identifier": "flagForBangladesh",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-canada": {
       "codepoint": 57450,
       "fontFamily": "Twemoji",
       "identifier": "flagForCanada",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-caribbean-netherlands": {
       "codepoint": 57451,
@@ -723,6 +1199,12 @@
       "identifier": "flagForCaribbeanNetherlands",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "flag-for-china": {
+      "codepoint": 57908,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForChina",
+      "duotone": true
     },
     "flag-for-cuba": {
       "codepoint": 57452,
@@ -742,15 +1224,37 @@
       "codepoint": 57454,
       "fontFamily": "Twemoji",
       "identifier": "flagForDenmark",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "flag-for-england": {
+      "codepoint": 57909,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForEngland",
+      "duotone": true
     },
     "flag-for-european-union": {
       "codepoint": 57455,
       "fontFamily": "Twemoji",
       "identifier": "flagForEuropeanUnion",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "flag-for-flag-albania": {
+      "codepoint": 57910,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagAlbania",
+      "duotone": true
+    },
+    "flag-for-flag-antarctica": {
+      "codepoint": 57911,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagAntarctica",
+      "duotone": true
+    },
+    "flag-for-flag-austria": {
+      "codepoint": 57912,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagAustria",
+      "duotone": true
     },
     "flag-for-flag-azerbaijan": {
       "codepoint": 57456,
@@ -759,19 +1263,23 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flag-for-flag-bahrain": {
+      "codepoint": 57913,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagBahrain",
+      "duotone": true
+    },
     "flag-for-flag-bangladesh": {
       "codepoint": 57457,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagBangladesh",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-canada": {
       "codepoint": 57458,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagCanada",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-caribbean-netherlands": {
       "codepoint": 57459,
@@ -779,6 +1287,12 @@
       "identifier": "flagForFlagCaribbeanNetherlands",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "flag-for-flag-china": {
+      "codepoint": 57914,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagChina",
+      "duotone": true
     },
     "flag-for-flag-cuba": {
       "codepoint": 57460,
@@ -798,15 +1312,19 @@
       "codepoint": 57462,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagDenmark",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-european-union": {
       "codepoint": 57463,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagEuropeanUnion",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "flag-for-flag-georgia": {
+      "codepoint": 57915,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagGeorgia",
+      "duotone": true
     },
     "flag-for-flag-gibraltar": {
       "codepoint": 57464,
@@ -819,22 +1337,19 @@
       "codepoint": 57465,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagGreece",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-greenland": {
       "codepoint": 57466,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagGreenland",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-indonesia": {
       "codepoint": 57467,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagIndonesia",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-isle-of-man": {
       "codepoint": 57468,
@@ -854,8 +1369,7 @@
       "codepoint": 57470,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagJapan",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-kazakhstan": {
       "codepoint": 57471,
@@ -868,8 +1382,7 @@
       "codepoint": 57472,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagLatvia",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-lebanon": {
       "codepoint": 57473,
@@ -889,8 +1402,19 @@
       "codepoint": 57475,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagMicronesia",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "flag-for-flag-monaco": {
+      "codepoint": 57916,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagMonaco",
+      "duotone": true
+    },
+    "flag-for-flag-morocco": {
+      "codepoint": 57917,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagMorocco",
+      "duotone": true
     },
     "flag-for-flag-nauru": {
       "codepoint": 57476,
@@ -903,8 +1427,13 @@
       "codepoint": 57477,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagNigeria",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "flag-for-flag-norfolk-island": {
+      "codepoint": 57918,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagNorfolkIsland",
+      "duotone": true
     },
     "flag-for-flag-north-korea": {
       "codepoint": 57478,
@@ -912,6 +1441,12 @@
       "identifier": "flagForFlagNorthKorea",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "flag-for-flag-north-macedonia": {
+      "codepoint": 57919,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagNorthMacedonia",
+      "duotone": true
     },
     "flag-for-flag-oman": {
       "codepoint": 57479,
@@ -924,15 +1459,19 @@
       "codepoint": 57480,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagPalau",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "flag-for-flag-peru": {
+      "codepoint": 57920,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagPeru",
+      "duotone": true
     },
     "flag-for-flag-poland": {
       "codepoint": 57481,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagPoland",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-puerto-rico": {
       "codepoint": 57482,
@@ -945,8 +1484,7 @@
       "codepoint": 57483,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagQatar",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-reunion": {
       "codepoint": 57484,
@@ -976,6 +1514,12 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flag-for-flag-somalia": {
+      "codepoint": 57921,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagSomalia",
+      "duotone": true
+    },
     "flag-for-flag-st-lucia": {
       "codepoint": 57488,
       "fontFamily": "Twemoji",
@@ -987,15 +1531,13 @@
       "codepoint": 57489,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagSweden",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-switzerland": {
       "codepoint": 57490,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagSwitzerland",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-flag-taiwan": {
       "codepoint": 57491,
@@ -1011,6 +1553,30 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flag-for-flag-tonga": {
+      "codepoint": 57922,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagTonga",
+      "duotone": true
+    },
+    "flag-for-flag-tunisia": {
+      "codepoint": 57923,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagTunisia",
+      "duotone": true
+    },
+    "flag-for-flag-turkey": {
+      "codepoint": 57924,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagTurkey",
+      "duotone": true
+    },
+    "flag-for-flag-ukraine": {
+      "codepoint": 57925,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagUkraine",
+      "duotone": true
+    },
     "flag-for-flag-united-nations": {
       "codepoint": 57493,
       "fontFamily": "Twemoji",
@@ -1025,6 +1591,18 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flag-for-flag-vietnam": {
+      "codepoint": 57926,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagVietnam",
+      "duotone": true
+    },
+    "flag-for-georgia": {
+      "codepoint": 57927,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForGeorgia",
+      "duotone": true
+    },
     "flag-for-gibraltar": {
       "codepoint": 57495,
       "fontFamily": "Twemoji",
@@ -1036,22 +1614,19 @@
       "codepoint": 57496,
       "fontFamily": "Twemoji",
       "identifier": "flagForGreece",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-greenland": {
       "codepoint": 57497,
       "fontFamily": "Twemoji",
       "identifier": "flagForGreenland",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-indonesia": {
       "codepoint": 57498,
       "fontFamily": "Twemoji",
       "identifier": "flagForIndonesia",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-isle-of-man": {
       "codepoint": 57499,
@@ -1071,8 +1646,7 @@
       "codepoint": 57501,
       "fontFamily": "Twemoji",
       "identifier": "flagForJapan",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-kazakhstan": {
       "codepoint": 57502,
@@ -1085,8 +1659,7 @@
       "codepoint": 57503,
       "fontFamily": "Twemoji",
       "identifier": "flagForLatvia",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-lebanon": {
       "codepoint": 57504,
@@ -1094,6 +1667,12 @@
       "identifier": "flagForLebanon",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "flag-for-macedonia": {
+      "codepoint": 57928,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForMacedonia",
+      "duotone": true
     },
     "flag-for-malta": {
       "codepoint": 57505,
@@ -1106,8 +1685,19 @@
       "codepoint": 57506,
       "fontFamily": "Twemoji",
       "identifier": "flagForMicronesia",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "flag-for-monaco": {
+      "codepoint": 57929,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForMonaco",
+      "duotone": true
+    },
+    "flag-for-morocco": {
+      "codepoint": 57930,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForMorocco",
+      "duotone": true
     },
     "flag-for-nauru": {
       "codepoint": 57507,
@@ -1120,8 +1710,13 @@
       "codepoint": 57508,
       "fontFamily": "Twemoji",
       "identifier": "flagForNigeria",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "flag-for-norfolk-island": {
+      "codepoint": 57931,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForNorfolkIsland",
+      "duotone": true
     },
     "flag-for-north-korea": {
       "codepoint": 57509,
@@ -1141,15 +1736,19 @@
       "codepoint": 57511,
       "fontFamily": "Twemoji",
       "identifier": "flagForPalau",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "flag-for-peru": {
+      "codepoint": 57932,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForPeru",
+      "duotone": true
     },
     "flag-for-poland": {
       "codepoint": 57512,
       "fontFamily": "Twemoji",
       "identifier": "flagForPoland",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-puerto-rico": {
       "codepoint": 57513,
@@ -1162,8 +1761,7 @@
       "codepoint": 57514,
       "fontFamily": "Twemoji",
       "identifier": "flagForQatar",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-reunion": {
       "codepoint": 57515,
@@ -1183,8 +1781,7 @@
       "codepoint": 57517,
       "fontFamily": "Twemoji",
       "identifier": "flagForScotland",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-sierra-leone": {
       "codepoint": 57518,
@@ -1200,6 +1797,12 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flag-for-somalia": {
+      "codepoint": 57933,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForSomalia",
+      "duotone": true
+    },
     "flag-for-st-lucia": {
       "codepoint": 57520,
       "fontFamily": "Twemoji",
@@ -1211,15 +1814,13 @@
       "codepoint": 57521,
       "fontFamily": "Twemoji",
       "identifier": "flagForSweden",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-switzerland": {
       "codepoint": 57522,
       "fontFamily": "Twemoji",
       "identifier": "flagForSwitzerland",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-for-taiwan": {
       "codepoint": 57523,
@@ -1235,6 +1836,36 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flag-for-tonga": {
+      "codepoint": 57934,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForTonga",
+      "duotone": true
+    },
+    "flag-for-triangular-flag": {
+      "codepoint": 57935,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForTriangularFlag",
+      "duotone": true
+    },
+    "flag-for-tunisia": {
+      "codepoint": 57936,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForTunisia",
+      "duotone": true
+    },
+    "flag-for-turkey": {
+      "codepoint": 57937,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForTurkey",
+      "duotone": true
+    },
+    "flag-for-ukraine": {
+      "codepoint": 57938,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForUkraine",
+      "duotone": true
+    },
     "flag-for-united-nations": {
       "codepoint": 57525,
       "fontFamily": "Twemoji",
@@ -1249,6 +1880,18 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flag-for-vietnam": {
+      "codepoint": 57939,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForVietnam",
+      "duotone": true
+    },
+    "flag-georgia": {
+      "codepoint": 57940,
+      "fontFamily": "Twemoji",
+      "identifier": "flagGeorgia",
+      "duotone": true
+    },
     "flag-gibraltar": {
       "codepoint": 57527,
       "fontFamily": "Twemoji",
@@ -1260,22 +1903,19 @@
       "codepoint": 57528,
       "fontFamily": "Twemoji",
       "identifier": "flagGreece",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-greenland": {
       "codepoint": 57529,
       "fontFamily": "Twemoji",
       "identifier": "flagGreenland",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-indonesia": {
       "codepoint": 57530,
       "fontFamily": "Twemoji",
       "identifier": "flagIndonesia",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-isle-of-man": {
       "codepoint": 57531,
@@ -1295,8 +1935,7 @@
       "codepoint": 57533,
       "fontFamily": "Twemoji",
       "identifier": "flagJapan",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-kazakhstan": {
       "codepoint": 57534,
@@ -1309,8 +1948,7 @@
       "codepoint": 57535,
       "fontFamily": "Twemoji",
       "identifier": "flagLatvia",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-lebanon": {
       "codepoint": 57536,
@@ -1330,8 +1968,19 @@
       "codepoint": 57538,
       "fontFamily": "Twemoji",
       "identifier": "flagMicronesia",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "flag-monaco": {
+      "codepoint": 57941,
+      "fontFamily": "Twemoji",
+      "identifier": "flagMonaco",
+      "duotone": true
+    },
+    "flag-morocco": {
+      "codepoint": 57942,
+      "fontFamily": "Twemoji",
+      "identifier": "flagMorocco",
+      "duotone": true
     },
     "flag-nauru": {
       "codepoint": 57539,
@@ -1344,8 +1993,13 @@
       "codepoint": 57540,
       "fontFamily": "Twemoji",
       "identifier": "flagNigeria",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "flag-norfolk-island": {
+      "codepoint": 57943,
+      "fontFamily": "Twemoji",
+      "identifier": "flagNorfolkIsland",
+      "duotone": true
     },
     "flag-north-korea": {
       "codepoint": 57541,
@@ -1353,6 +2007,12 @@
       "identifier": "flagNorthKorea",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "flag-north-macedonia": {
+      "codepoint": 57944,
+      "fontFamily": "Twemoji",
+      "identifier": "flagNorthMacedonia",
+      "duotone": true
     },
     "flag-oman": {
       "codepoint": 57542,
@@ -1365,15 +2025,19 @@
       "codepoint": 57543,
       "fontFamily": "Twemoji",
       "identifier": "flagPalau",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "flag-peru": {
+      "codepoint": 57945,
+      "fontFamily": "Twemoji",
+      "identifier": "flagPeru",
+      "duotone": true
     },
     "flag-poland": {
       "codepoint": 57544,
       "fontFamily": "Twemoji",
       "identifier": "flagPoland",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-puerto-rico": {
       "codepoint": 57545,
@@ -1386,8 +2050,7 @@
       "codepoint": 57546,
       "fontFamily": "Twemoji",
       "identifier": "flagQatar",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-reunion": {
       "codepoint": 57547,
@@ -1407,8 +2070,7 @@
       "codepoint": 57549,
       "fontFamily": "Twemoji",
       "identifier": "flagScotland",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-sierra-leone": {
       "codepoint": 57550,
@@ -1424,6 +2086,12 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flag-somalia": {
+      "codepoint": 57946,
+      "fontFamily": "Twemoji",
+      "identifier": "flagSomalia",
+      "duotone": true
+    },
     "flag-st-lucia": {
       "codepoint": 57552,
       "fontFamily": "Twemoji",
@@ -1435,15 +2103,13 @@
       "codepoint": 57553,
       "fontFamily": "Twemoji",
       "identifier": "flagSweden",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-switzerland": {
       "codepoint": 57554,
       "fontFamily": "Twemoji",
       "identifier": "flagSwitzerland",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flag-taiwan": {
       "codepoint": 57555,
@@ -1459,6 +2125,36 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flag-tonga": {
+      "codepoint": 57947,
+      "fontFamily": "Twemoji",
+      "identifier": "flagTonga",
+      "duotone": true
+    },
+    "flag-tunisia": {
+      "codepoint": 57948,
+      "fontFamily": "Twemoji",
+      "identifier": "flagTunisia",
+      "duotone": true
+    },
+    "flag-turkey": {
+      "codepoint": 57949,
+      "fontFamily": "Twemoji",
+      "identifier": "flagTurkey",
+      "duotone": true
+    },
+    "flag-turkiye": {
+      "codepoint": 57950,
+      "fontFamily": "Twemoji",
+      "identifier": "flagTurkiye",
+      "duotone": true
+    },
+    "flag-ukraine": {
+      "codepoint": 57951,
+      "fontFamily": "Twemoji",
+      "identifier": "flagUkraine",
+      "duotone": true
+    },
     "flag-united-nations": {
       "codepoint": 57557,
       "fontFamily": "Twemoji",
@@ -1473,47 +2169,83 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "flag-vietnam": {
+      "codepoint": 57952,
+      "fontFamily": "Twemoji",
+      "identifier": "flagVietnam",
+      "duotone": true
+    },
+    "flexed-biceps": {
+      "codepoint": 57953,
+      "fontFamily": "Twemoji",
+      "identifier": "flexedBiceps",
+      "duotone": true
+    },
+    "flexed-biceps-dark-skin-tone": {
+      "codepoint": 57954,
+      "fontFamily": "Twemoji",
+      "identifier": "flexedBicepsDarkSkinTone",
+      "duotone": true
+    },
     "flexed-biceps-light-skin-tone": {
       "codepoint": 57559,
       "fontFamily": "Twemoji",
       "identifier": "flexedBicepsLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "flexed-biceps-medium-dark-skin-tone": {
+      "codepoint": 57955,
+      "fontFamily": "Twemoji",
+      "identifier": "flexedBicepsMediumDarkSkinTone",
+      "duotone": true
     },
     "flexed-biceps-medium-light-skin-tone": {
       "codepoint": 57560,
       "fontFamily": "Twemoji",
       "identifier": "flexedBicepsMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "flexed-biceps-medium-skin-tone": {
       "codepoint": 57561,
       "fontFamily": "Twemoji",
       "identifier": "flexedBicepsMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "foot": {
+      "codepoint": 57956,
+      "fontFamily": "Twemoji",
+      "identifier": "foot",
+      "duotone": true
+    },
+    "foot-dark-skin-tone": {
+      "codepoint": 57957,
+      "fontFamily": "Twemoji",
+      "identifier": "footDarkSkinTone",
+      "duotone": true
     },
     "foot-light-skin-tone": {
       "codepoint": 57562,
       "fontFamily": "Twemoji",
       "identifier": "footLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "foot-medium-dark-skin-tone": {
+      "codepoint": 57958,
+      "fontFamily": "Twemoji",
+      "identifier": "footMediumDarkSkinTone",
+      "duotone": true
     },
     "foot-medium-light-skin-tone": {
       "codepoint": 57563,
       "fontFamily": "Twemoji",
       "identifier": "footMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "foot-medium-skin-tone": {
       "codepoint": 57564,
       "fontFamily": "Twemoji",
       "identifier": "footMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "fork-and-knife": {
       "codepoint": 57565,
@@ -1524,13 +2256,60 @@
       "codepoint": 57566,
       "fontFamily": "Twemoji",
       "identifier": "freeButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "frowning-face": {
+      "codepoint": 57959,
+      "fontFamily": "Twemoji",
+      "identifier": "frowningFace",
+      "duotone": true
+    },
+    "frowning-face-with-open-mouth": {
+      "codepoint": 57960,
+      "fontFamily": "Twemoji",
+      "identifier": "frowningFaceWithOpenMouth",
+      "duotone": true
+    },
+    "garlic": {
+      "codepoint": 57961,
+      "fontFamily": "Twemoji",
+      "identifier": "garlic",
+      "duotone": true
+    },
+    "glasses": {
+      "codepoint": 57962,
+      "fontFamily": "Twemoji",
+      "identifier": "glasses",
+      "duotone": true
+    },
+    "globe-showing-americas": {
+      "codepoint": 57963,
+      "fontFamily": "Twemoji",
+      "identifier": "globeShowingAmericas",
+      "duotone": true
+    },
+    "globe-showing-asia-australia": {
+      "codepoint": 57964,
+      "fontFamily": "Twemoji",
+      "identifier": "globeShowingAsiaAustralia",
+      "duotone": true
+    },
+    "globe-showing-europe-africa": {
+      "codepoint": 57965,
+      "fontFamily": "Twemoji",
+      "identifier": "globeShowingEuropeAfrica",
+      "duotone": true
     },
     "globe-with-meridians": {
       "codepoint": 57567,
       "fontFamily": "Twemoji",
       "identifier": "globeWithMeridians"
+    },
+    "glowing-star": {
+      "codepoint": 57966,
+      "fontFamily": "Twemoji",
+      "identifier": "glowingStar",
+      "duotone": true
     },
     "green-circle": {
       "codepoint": 57568,
@@ -1552,6 +2331,12 @@
       "fontFamily": "Twemoji",
       "identifier": "greyHeart"
     },
+    "hammer": {
+      "codepoint": 57967,
+      "fontFamily": "Twemoji",
+      "identifier": "hammer",
+      "duotone": true
+    },
     "hamsa": {
       "codepoint": 57572,
       "fontFamily": "Twemoji",
@@ -1559,47 +2344,77 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "hand-with-fingers-splayed": {
+      "codepoint": 57968,
+      "fontFamily": "Twemoji",
+      "identifier": "handWithFingersSplayed",
+      "duotone": true
+    },
+    "hand-with-fingers-splayed-dark-skin-tone": {
+      "codepoint": 57969,
+      "fontFamily": "Twemoji",
+      "identifier": "handWithFingersSplayedDarkSkinTone",
+      "duotone": true
+    },
     "hand-with-fingers-splayed-light-skin-tone": {
       "codepoint": 57573,
       "fontFamily": "Twemoji",
       "identifier": "handWithFingersSplayedLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "hand-with-fingers-splayed-medium-dark-skin-tone": {
+      "codepoint": 57970,
+      "fontFamily": "Twemoji",
+      "identifier": "handWithFingersSplayedMediumDarkSkinTone",
+      "duotone": true
     },
     "hand-with-fingers-splayed-medium-light-skin-tone": {
       "codepoint": 57574,
       "fontFamily": "Twemoji",
       "identifier": "handWithFingersSplayedMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "hand-with-fingers-splayed-medium-skin-tone": {
       "codepoint": 57575,
       "fontFamily": "Twemoji",
       "identifier": "handWithFingersSplayedMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "hand-with-index-finger-and-thumb-crossed": {
+      "codepoint": 57971,
+      "fontFamily": "Twemoji",
+      "identifier": "handWithIndexFingerAndThumbCrossed",
+      "duotone": true
+    },
+    "hand-with-index-finger-and-thumb-crossed-dark-skin-tone": {
+      "codepoint": 57972,
+      "fontFamily": "Twemoji",
+      "identifier": "handWithIndexFingerAndThumbCrossedDarkSkinTone",
+      "duotone": true
     },
     "hand-with-index-finger-and-thumb-crossed-light-skin-tone": {
       "codepoint": 57576,
       "fontFamily": "Twemoji",
       "identifier": "handWithIndexFingerAndThumbCrossedLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "hand-with-index-finger-and-thumb-crossed-medium-dark-skin-tone": {
+      "codepoint": 57973,
+      "fontFamily": "Twemoji",
+      "identifier": "handWithIndexFingerAndThumbCrossedMediumDarkSkinTone",
+      "duotone": true
     },
     "hand-with-index-finger-and-thumb-crossed-medium-light-skin-tone": {
       "codepoint": 57577,
       "fontFamily": "Twemoji",
       "identifier": "handWithIndexFingerAndThumbCrossedMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "hand-with-index-finger-and-thumb-crossed-medium-skin-tone": {
       "codepoint": 57578,
       "fontFamily": "Twemoji",
       "identifier": "handWithIndexFingerAndThumbCrossedMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "handshake-light-skin-tone": {
       "codepoint": 57579,
@@ -1657,31 +2472,64 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "heart-decoration": {
+      "codepoint": 57974,
+      "fontFamily": "Twemoji",
+      "identifier": "heartDecoration",
+      "duotone": true
+    },
     "heart-hands": {
       "codepoint": 57587,
       "fontFamily": "Twemoji",
       "identifier": "heartHands",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "heart-hands-dark-skin-tone": {
+      "codepoint": 57975,
+      "fontFamily": "Twemoji",
+      "identifier": "heartHandsDarkSkinTone",
+      "duotone": true
     },
     "heart-hands-light-skin-tone": {
       "codepoint": 57588,
       "fontFamily": "Twemoji",
       "identifier": "heartHandsLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "heart-hands-medium-dark-skin-tone": {
+      "codepoint": 57976,
+      "fontFamily": "Twemoji",
+      "identifier": "heartHandsMediumDarkSkinTone",
+      "duotone": true
+    },
+    "heart-hands-medium-light-skin-tone": {
+      "codepoint": 57977,
+      "fontFamily": "Twemoji",
+      "identifier": "heartHandsMediumLightSkinTone",
+      "duotone": true
     },
     "heart-hands-medium-skin-tone": {
       "codepoint": 57589,
       "fontFamily": "Twemoji",
       "identifier": "heartHandsMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "high-heeled-shoe": {
+      "codepoint": 57978,
+      "fontFamily": "Twemoji",
+      "identifier": "highHeeledShoe",
+      "duotone": true
     },
     "high-voltage": {
       "codepoint": 57590,
       "fontFamily": "Twemoji",
       "identifier": "highVoltage"
+    },
+    "hot-pepper": {
+      "codepoint": 57979,
+      "fontFamily": "Twemoji",
+      "identifier": "hotPepper",
+      "duotone": true
     },
     "hourglass": {
       "codepoint": 57591,
@@ -1716,12 +2564,17 @@
       "fontFamily": "Twemoji",
       "identifier": "hundredPoints"
     },
+    "hushed-face": {
+      "codepoint": 57980,
+      "fontFamily": "Twemoji",
+      "identifier": "hushedFace",
+      "duotone": true
+    },
     "ice": {
       "codepoint": 57596,
       "fontFamily": "Twemoji",
       "identifier": "ice",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "ice-cream": {
       "codepoint": 57597,
@@ -1734,29 +2587,49 @@
       "codepoint": 57598,
       "fontFamily": "Twemoji",
       "identifier": "iceCube",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "id-button": {
+      "codepoint": 57981,
+      "fontFamily": "Twemoji",
+      "identifier": "idButton",
+      "duotone": true
+    },
+    "index-pointing-at-the-viewer": {
+      "codepoint": 57982,
+      "fontFamily": "Twemoji",
+      "identifier": "indexPointingAtTheViewer",
+      "duotone": true
+    },
+    "index-pointing-at-the-viewer-dark-skin-tone": {
+      "codepoint": 57983,
+      "fontFamily": "Twemoji",
+      "identifier": "indexPointingAtTheViewerDarkSkinTone",
+      "duotone": true
     },
     "index-pointing-at-the-viewer-light-skin-tone": {
       "codepoint": 57599,
       "fontFamily": "Twemoji",
       "identifier": "indexPointingAtTheViewerLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "index-pointing-at-the-viewer-medium-dark-skin-tone": {
+      "codepoint": 57984,
+      "fontFamily": "Twemoji",
+      "identifier": "indexPointingAtTheViewerMediumDarkSkinTone",
+      "duotone": true
     },
     "index-pointing-at-the-viewer-medium-light-skin-tone": {
       "codepoint": 57600,
       "fontFamily": "Twemoji",
       "identifier": "indexPointingAtTheViewerMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "index-pointing-at-the-viewer-medium-skin-tone": {
       "codepoint": 57601,
       "fontFamily": "Twemoji",
       "identifier": "indexPointingAtTheViewerMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "index-pointing-up-light-skin-tone": {
       "codepoint": 57602,
@@ -1783,57 +2656,145 @@
       "codepoint": 57605,
       "fontFamily": "Twemoji",
       "identifier": "infinity",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "information": {
       "codepoint": 57606,
       "fontFamily": "Twemoji",
       "identifier": "information",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "input-latin-letters": {
       "codepoint": 57607,
       "fontFamily": "Twemoji",
       "identifier": "inputLatinLetters",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "input-latin-lowercase": {
       "codepoint": 57608,
       "fontFamily": "Twemoji",
       "identifier": "inputLatinLowercase",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "input-latin-uppercase": {
       "codepoint": 57609,
       "fontFamily": "Twemoji",
       "identifier": "inputLatinUppercase",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "input-numbers": {
       "codepoint": 57610,
       "fontFamily": "Twemoji",
       "identifier": "inputNumbers",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "input-symbols": {
       "codepoint": 57611,
       "fontFamily": "Twemoji",
       "identifier": "inputSymbols",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "japanese-acceptable-button": {
+      "codepoint": 57985,
+      "fontFamily": "Twemoji",
+      "identifier": "japaneseAcceptableButton",
+      "duotone": true
+    },
+    "japanese-application-button": {
+      "codepoint": 57986,
+      "fontFamily": "Twemoji",
+      "identifier": "japaneseApplicationButton",
+      "duotone": true
+    },
+    "japanese-congratulations-button": {
+      "codepoint": 57987,
+      "fontFamily": "Twemoji",
+      "identifier": "japaneseCongratulationsButton",
+      "duotone": true
+    },
+    "japanese-discount-button": {
+      "codepoint": 57988,
+      "fontFamily": "Twemoji",
+      "identifier": "japaneseDiscountButton",
+      "duotone": true
+    },
+    "japanese-free-of-charge-button": {
+      "codepoint": 57989,
+      "fontFamily": "Twemoji",
+      "identifier": "japaneseFreeOfChargeButton",
+      "duotone": true
     },
     "japanese-here-button": {
       "codepoint": 57612,
       "fontFamily": "Twemoji",
       "identifier": "japaneseHereButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "japanese-monthly-amount-button": {
+      "codepoint": 57990,
+      "fontFamily": "Twemoji",
+      "identifier": "japaneseMonthlyAmountButton",
+      "duotone": true
+    },
+    "japanese-no-vacancy-button": {
+      "codepoint": 57991,
+      "fontFamily": "Twemoji",
+      "identifier": "japaneseNoVacancyButton",
+      "duotone": true
+    },
+    "japanese-not-free-of-charge-button": {
+      "codepoint": 57992,
+      "fontFamily": "Twemoji",
+      "identifier": "japaneseNotFreeOfChargeButton",
+      "duotone": true
+    },
+    "japanese-open-for-business-button": {
+      "codepoint": 57993,
+      "fontFamily": "Twemoji",
+      "identifier": "japaneseOpenForBusinessButton",
+      "duotone": true
+    },
+    "japanese-passing-grade-button": {
+      "codepoint": 57994,
+      "fontFamily": "Twemoji",
+      "identifier": "japanesePassingGradeButton",
+      "duotone": true
+    },
+    "japanese-prohibited-button": {
+      "codepoint": 57995,
+      "fontFamily": "Twemoji",
+      "identifier": "japaneseProhibitedButton",
+      "duotone": true
+    },
+    "japanese-reserved-button": {
+      "codepoint": 57996,
+      "fontFamily": "Twemoji",
+      "identifier": "japaneseReservedButton",
+      "duotone": true
+    },
+    "japanese-secret-button": {
+      "codepoint": 57997,
+      "fontFamily": "Twemoji",
+      "identifier": "japaneseSecretButton",
+      "duotone": true
+    },
+    "japanese-service-charge-button": {
+      "codepoint": 57998,
+      "fontFamily": "Twemoji",
+      "identifier": "japaneseServiceChargeButton",
+      "duotone": true
+    },
+    "japanese-vacancy-button": {
+      "codepoint": 57999,
+      "fontFamily": "Twemoji",
+      "identifier": "japaneseVacancyButton",
+      "duotone": true
+    },
+    "jeans": {
+      "codepoint": 58000,
+      "fontFamily": "Twemoji",
+      "identifier": "jeans",
+      "duotone": true
     },
     "jellyfish": {
       "codepoint": 57613,
@@ -1847,96 +2808,119 @@
       "fontFamily": "Twemoji",
       "identifier": "jigsaw"
     },
+    "keyboard": {
+      "codepoint": 58001,
+      "fontFamily": "Twemoji",
+      "identifier": "keyboard",
+      "duotone": true
+    },
     "keycap-0": {
       "codepoint": 57615,
       "fontFamily": "Twemoji",
       "identifier": "keycap0",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "keycap-1": {
       "codepoint": 57616,
       "fontFamily": "Twemoji",
       "identifier": "keycap1",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "keycap-10": {
       "codepoint": 57617,
       "fontFamily": "Twemoji",
       "identifier": "keycap10",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "keycap-2": {
       "codepoint": 57618,
       "fontFamily": "Twemoji",
       "identifier": "keycap2",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "keycap-3": {
       "codepoint": 57619,
       "fontFamily": "Twemoji",
       "identifier": "keycap3",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "keycap-4": {
       "codepoint": 57620,
       "fontFamily": "Twemoji",
       "identifier": "keycap4",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "keycap-5": {
       "codepoint": 57621,
       "fontFamily": "Twemoji",
       "identifier": "keycap5",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "keycap-6": {
       "codepoint": 57622,
       "fontFamily": "Twemoji",
       "identifier": "keycap6",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "keycap-7": {
       "codepoint": 57623,
       "fontFamily": "Twemoji",
       "identifier": "keycap7",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "keycap-8": {
       "codepoint": 57624,
       "fontFamily": "Twemoji",
       "identifier": "keycap8",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "keycap-9": {
       "codepoint": 57625,
       "fontFamily": "Twemoji",
       "identifier": "keycap9",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "keycap-asterisk": {
       "codepoint": 57626,
       "fontFamily": "Twemoji",
       "identifier": "keycapAsterisk",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "keycap-pound": {
       "codepoint": 57627,
       "fontFamily": "Twemoji",
       "identifier": "keycapPound",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "khanda": {
+      "codepoint": 58002,
+      "fontFamily": "Twemoji",
+      "identifier": "khanda",
+      "duotone": true
+    },
+    "kissing-face": {
+      "codepoint": 58003,
+      "fontFamily": "Twemoji",
+      "identifier": "kissingFace",
+      "duotone": true
+    },
+    "kissing-face-with-smiling-eyes": {
+      "codepoint": 58004,
+      "fontFamily": "Twemoji",
+      "identifier": "kissingFaceWithSmilingEyes",
+      "duotone": true
+    },
+    "knocked-out-face": {
+      "codepoint": 58005,
+      "fontFamily": "Twemoji",
+      "identifier": "knockedOutFace",
+      "duotone": true
+    },
+    "landslide": {
+      "codepoint": 58006,
+      "fontFamily": "Twemoji",
+      "identifier": "landslide",
+      "duotone": true
     },
     "laptop": {
       "codepoint": 57628,
@@ -1961,8 +2945,13 @@
       "codepoint": 57631,
       "fontFamily": "Twemoji",
       "identifier": "lastTrackButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "latin-cross": {
+      "codepoint": 58007,
+      "fontFamily": "Twemoji",
+      "identifier": "latinCross",
+      "duotone": true
     },
     "leafless-tree": {
       "codepoint": 57632,
@@ -1973,293 +2962,336 @@
       "codepoint": 57633,
       "fontFamily": "Twemoji",
       "identifier": "leftArrow",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "left-arrow-curving-right": {
       "codepoint": 57634,
       "fontFamily": "Twemoji",
       "identifier": "leftArrowCurvingRight",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "left-facing-fist": {
+      "codepoint": 58008,
+      "fontFamily": "Twemoji",
+      "identifier": "leftFacingFist",
+      "duotone": true
+    },
+    "left-facing-fist-dark-skin-tone": {
+      "codepoint": 58009,
+      "fontFamily": "Twemoji",
+      "identifier": "leftFacingFistDarkSkinTone",
+      "duotone": true
     },
     "left-facing-fist-light-skin-tone": {
       "codepoint": 57635,
       "fontFamily": "Twemoji",
       "identifier": "leftFacingFistLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "left-facing-fist-medium-dark-skin-tone": {
+      "codepoint": 58010,
+      "fontFamily": "Twemoji",
+      "identifier": "leftFacingFistMediumDarkSkinTone",
+      "duotone": true
     },
     "left-facing-fist-medium-light-skin-tone": {
       "codepoint": 57636,
       "fontFamily": "Twemoji",
       "identifier": "leftFacingFistMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "left-facing-fist-medium-skin-tone": {
       "codepoint": 57637,
       "fontFamily": "Twemoji",
       "identifier": "leftFacingFistMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "left-luggage": {
+      "codepoint": 58011,
+      "fontFamily": "Twemoji",
+      "identifier": "leftLuggage",
+      "duotone": true
     },
     "left-right-arrow": {
       "codepoint": 57638,
       "fontFamily": "Twemoji",
       "identifier": "leftRightArrow",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "left-speech-bubble": {
       "codepoint": 57639,
       "fontFamily": "Twemoji",
       "identifier": "leftSpeechBubble"
     },
+    "leftwards-hand": {
+      "codepoint": 58012,
+      "fontFamily": "Twemoji",
+      "identifier": "leftwardsHand",
+      "duotone": true
+    },
+    "leftwards-hand-dark-skin-tone": {
+      "codepoint": 58013,
+      "fontFamily": "Twemoji",
+      "identifier": "leftwardsHandDarkSkinTone",
+      "duotone": true
+    },
     "leftwards-hand-light-skin-tone": {
       "codepoint": 57640,
       "fontFamily": "Twemoji",
       "identifier": "leftwardsHandLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "leftwards-hand-medium-dark-skin-tone": {
+      "codepoint": 58014,
+      "fontFamily": "Twemoji",
+      "identifier": "leftwardsHandMediumDarkSkinTone",
+      "duotone": true
     },
     "leftwards-hand-medium-light-skin-tone": {
       "codepoint": 57641,
       "fontFamily": "Twemoji",
       "identifier": "leftwardsHandMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "leftwards-hand-medium-skin-tone": {
       "codepoint": 57642,
       "fontFamily": "Twemoji",
       "identifier": "leftwardsHandMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "leftwards-pushing-hand": {
+      "codepoint": 58015,
+      "fontFamily": "Twemoji",
+      "identifier": "leftwardsPushingHand",
+      "duotone": true
+    },
+    "leftwards-pushing-hand-dark-skin-tone": {
+      "codepoint": 58016,
+      "fontFamily": "Twemoji",
+      "identifier": "leftwardsPushingHandDarkSkinTone",
+      "duotone": true
     },
     "leftwards-pushing-hand-light-skin-tone": {
       "codepoint": 57643,
       "fontFamily": "Twemoji",
       "identifier": "leftwardsPushingHandLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "leftwards-pushing-hand-medium-light-skin-tone": {
       "codepoint": 57644,
       "fontFamily": "Twemoji",
       "identifier": "leftwardsPushingHandMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "leftwards-pushing-hand-medium-skin-tone": {
       "codepoint": 57645,
       "fontFamily": "Twemoji",
       "identifier": "leftwardsPushingHandMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "leg": {
+      "codepoint": 58017,
+      "fontFamily": "Twemoji",
+      "identifier": "leg",
+      "duotone": true
+    },
+    "leg-dark-skin-tone": {
+      "codepoint": 58018,
+      "fontFamily": "Twemoji",
+      "identifier": "legDarkSkinTone",
+      "duotone": true
     },
     "leg-light-skin-tone": {
       "codepoint": 57646,
       "fontFamily": "Twemoji",
       "identifier": "legLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "leg-medium-dark-skin-tone": {
+      "codepoint": 58019,
+      "fontFamily": "Twemoji",
+      "identifier": "legMediumDarkSkinTone",
+      "duotone": true
     },
     "leg-medium-light-skin-tone": {
       "codepoint": 57647,
       "fontFamily": "Twemoji",
       "identifier": "legMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "leg-medium-skin-tone": {
       "codepoint": 57648,
       "fontFamily": "Twemoji",
       "identifier": "legMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "leo": {
+      "codepoint": 58020,
+      "fontFamily": "Twemoji",
+      "identifier": "leo",
+      "duotone": true
     },
     "letter-a": {
       "codepoint": 57649,
       "fontFamily": "Twemoji",
       "identifier": "letterA",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-b": {
       "codepoint": 57650,
       "fontFamily": "Twemoji",
       "identifier": "letterB",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-c": {
       "codepoint": 57651,
       "fontFamily": "Twemoji",
       "identifier": "letterC",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-d": {
       "codepoint": 57652,
       "fontFamily": "Twemoji",
       "identifier": "letterD",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-e": {
       "codepoint": 57653,
       "fontFamily": "Twemoji",
       "identifier": "letterE",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-f": {
       "codepoint": 57654,
       "fontFamily": "Twemoji",
       "identifier": "letterF",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-g": {
       "codepoint": 57655,
       "fontFamily": "Twemoji",
       "identifier": "letterG",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-h": {
       "codepoint": 57656,
       "fontFamily": "Twemoji",
       "identifier": "letterH",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-i": {
       "codepoint": 57657,
       "fontFamily": "Twemoji",
       "identifier": "letterI",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-j": {
       "codepoint": 57658,
       "fontFamily": "Twemoji",
       "identifier": "letterJ",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-k": {
       "codepoint": 57659,
       "fontFamily": "Twemoji",
       "identifier": "letterK",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-l": {
       "codepoint": 57660,
       "fontFamily": "Twemoji",
       "identifier": "letterL",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-m": {
       "codepoint": 57661,
       "fontFamily": "Twemoji",
       "identifier": "letterM",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-n": {
       "codepoint": 57662,
       "fontFamily": "Twemoji",
       "identifier": "letterN",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-o": {
       "codepoint": 57663,
       "fontFamily": "Twemoji",
       "identifier": "letterO",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-p": {
       "codepoint": 57664,
       "fontFamily": "Twemoji",
       "identifier": "letterP",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-q": {
       "codepoint": 57665,
       "fontFamily": "Twemoji",
       "identifier": "letterQ",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-r": {
       "codepoint": 57666,
       "fontFamily": "Twemoji",
       "identifier": "letterR",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-s": {
       "codepoint": 57667,
       "fontFamily": "Twemoji",
       "identifier": "letterS",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-t": {
       "codepoint": 57668,
       "fontFamily": "Twemoji",
       "identifier": "letterT",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-u": {
       "codepoint": 57669,
       "fontFamily": "Twemoji",
       "identifier": "letterU",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-v": {
       "codepoint": 57670,
       "fontFamily": "Twemoji",
       "identifier": "letterV",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-w": {
       "codepoint": 57671,
       "fontFamily": "Twemoji",
       "identifier": "letterW",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-x": {
       "codepoint": 57672,
       "fontFamily": "Twemoji",
       "identifier": "letterX",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-y": {
       "codepoint": 57673,
       "fontFamily": "Twemoji",
       "identifier": "letterY",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "letter-z": {
       "codepoint": 57674,
       "fontFamily": "Twemoji",
       "identifier": "letterZ",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "libra": {
+      "codepoint": 58021,
+      "fontFamily": "Twemoji",
+      "identifier": "libra",
+      "duotone": true
     },
     "light-blue-heart": {
       "codepoint": 57675,
@@ -2271,40 +3303,71 @@
       "fontFamily": "Twemoji",
       "identifier": "lightSkinTone"
     },
+    "linked-paperclips": {
+      "codepoint": 58022,
+      "fontFamily": "Twemoji",
+      "identifier": "linkedPaperclips",
+      "duotone": true
+    },
     "litter-in-bin-sign": {
       "codepoint": 57677,
       "fontFamily": "Twemoji",
       "identifier": "litterInBinSign",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "locked": {
       "codepoint": 57678,
       "fontFamily": "Twemoji",
       "identifier": "locked",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "love-you-gesture": {
+      "codepoint": 58023,
+      "fontFamily": "Twemoji",
+      "identifier": "loveYouGesture",
+      "duotone": true
+    },
+    "love-you-gesture-dark-skin-tone": {
+      "codepoint": 58024,
+      "fontFamily": "Twemoji",
+      "identifier": "loveYouGestureDarkSkinTone",
+      "duotone": true
     },
     "love-you-gesture-light-skin-tone": {
       "codepoint": 57679,
       "fontFamily": "Twemoji",
       "identifier": "loveYouGestureLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "love-you-gesture-medium-dark-skin-tone": {
+      "codepoint": 58025,
+      "fontFamily": "Twemoji",
+      "identifier": "loveYouGestureMediumDarkSkinTone",
+      "duotone": true
     },
     "love-you-gesture-medium-light-skin-tone": {
       "codepoint": 57680,
       "fontFamily": "Twemoji",
       "identifier": "loveYouGestureMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "love-you-gesture-medium-skin-tone": {
       "codepoint": 57681,
       "fontFamily": "Twemoji",
       "identifier": "loveYouGestureMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "mahjong-red-dragon": {
+      "codepoint": 58026,
+      "fontFamily": "Twemoji",
+      "identifier": "mahjongRedDragon",
+      "duotone": true
+    },
+    "male-sign": {
+      "codepoint": 58027,
+      "fontFamily": "Twemoji",
+      "identifier": "maleSign",
+      "duotone": true
     },
     "map-of-japan": {
       "codepoint": 57682,
@@ -2312,6 +3375,12 @@
       "identifier": "mapOfJapan",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "medical-symbol": {
+      "codepoint": 58028,
+      "fontFamily": "Twemoji",
+      "identifier": "medicalSymbol",
+      "duotone": true
     },
     "medium-light-skin-tone": {
       "codepoint": 57683,
@@ -2323,12 +3392,89 @@
       "fontFamily": "Twemoji",
       "identifier": "mediumSkinTone"
     },
+    "melting-face": {
+      "codepoint": 58029,
+      "fontFamily": "Twemoji",
+      "identifier": "meltingFace",
+      "duotone": true
+    },
+    "menorah": {
+      "codepoint": 58030,
+      "fontFamily": "Twemoji",
+      "identifier": "menorah",
+      "duotone": true
+    },
+    "mens-room": {
+      "codepoint": 58031,
+      "fontFamily": "Twemoji",
+      "identifier": "mensRoom",
+      "duotone": true
+    },
+    "middle-finger": {
+      "codepoint": 58032,
+      "fontFamily": "Twemoji",
+      "identifier": "middleFinger",
+      "duotone": true
+    },
+    "middle-finger-dark-skin-tone": {
+      "codepoint": 58033,
+      "fontFamily": "Twemoji",
+      "identifier": "middleFingerDarkSkinTone",
+      "duotone": true
+    },
+    "middle-finger-light-skin-tone": {
+      "codepoint": 58034,
+      "fontFamily": "Twemoji",
+      "identifier": "middleFingerLightSkinTone",
+      "duotone": true
+    },
+    "middle-finger-medium-dark-skin-tone": {
+      "codepoint": 58035,
+      "fontFamily": "Twemoji",
+      "identifier": "middleFingerMediumDarkSkinTone",
+      "duotone": true
+    },
     "middle-finger-medium-light-skin-tone": {
       "codepoint": 57685,
       "fontFamily": "Twemoji",
       "identifier": "middleFingerMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "middle-finger-medium-skin-tone": {
+      "codepoint": 58036,
+      "fontFamily": "Twemoji",
+      "identifier": "middleFingerMediumSkinTone",
+      "duotone": true
+    },
+    "moai": {
+      "codepoint": 58037,
+      "fontFamily": "Twemoji",
+      "identifier": "moai",
+      "duotone": true
+    },
+    "mobile-phone": {
+      "codepoint": 58038,
+      "fontFamily": "Twemoji",
+      "identifier": "mobilePhone",
+      "duotone": true
+    },
+    "mobile-phone-off": {
+      "codepoint": 58039,
+      "fontFamily": "Twemoji",
+      "identifier": "mobilePhoneOff",
+      "duotone": true
+    },
+    "mobile-phone-with-arrow": {
+      "codepoint": 58040,
+      "fontFamily": "Twemoji",
+      "identifier": "mobilePhoneWithArrow",
+      "duotone": true
+    },
+    "musical-keyboard": {
+      "codepoint": 58041,
+      "fontFamily": "Twemoji",
+      "identifier": "musicalKeyboard",
+      "duotone": true
     },
     "musical-note": {
       "codepoint": 57686,
@@ -2340,12 +3486,29 @@
       "fontFamily": "Twemoji",
       "identifier": "musicalNotes"
     },
+    "musical-score": {
+      "codepoint": 58042,
+      "fontFamily": "Twemoji",
+      "identifier": "musicalScore",
+      "duotone": true
+    },
+    "name-badge": {
+      "codepoint": 58043,
+      "fontFamily": "Twemoji",
+      "identifier": "nameBadge",
+      "duotone": true
+    },
+    "neutral-face": {
+      "codepoint": 58044,
+      "fontFamily": "Twemoji",
+      "identifier": "neutralFace",
+      "duotone": true
+    },
     "new-button": {
       "codepoint": 57688,
       "fontFamily": "Twemoji",
       "identifier": "newButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "newspaper": {
       "codepoint": 57689,
@@ -2358,160 +3521,336 @@
       "codepoint": 57690,
       "fontFamily": "Twemoji",
       "identifier": "nextTrackButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "ng-button": {
       "codepoint": 57691,
       "fontFamily": "Twemoji",
       "identifier": "ngButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "no-entry": {
+      "codepoint": 58045,
+      "fontFamily": "Twemoji",
+      "identifier": "noEntry",
+      "duotone": true
+    },
+    "o-button": {
+      "codepoint": 58046,
+      "fontFamily": "Twemoji",
+      "identifier": "oButton",
+      "duotone": true
+    },
+    "o-button-blood-type": {
+      "codepoint": 58047,
+      "fontFamily": "Twemoji",
+      "identifier": "oButtonBloodType",
+      "duotone": true
     },
     "ok-button": {
       "codepoint": 57692,
       "fontFamily": "Twemoji",
       "identifier": "okButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "ok-hand": {
+      "codepoint": 58048,
+      "fontFamily": "Twemoji",
+      "identifier": "okHand",
+      "duotone": true
+    },
+    "ok-hand-dark-skin-tone": {
+      "codepoint": 58049,
+      "fontFamily": "Twemoji",
+      "identifier": "okHandDarkSkinTone",
+      "duotone": true
     },
     "ok-hand-light-skin-tone": {
       "codepoint": 57693,
       "fontFamily": "Twemoji",
       "identifier": "okHandLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "ok-hand-medium-dark-skin-tone": {
+      "codepoint": 58050,
+      "fontFamily": "Twemoji",
+      "identifier": "okHandMediumDarkSkinTone",
+      "duotone": true
     },
     "ok-hand-medium-light-skin-tone": {
       "codepoint": 57694,
       "fontFamily": "Twemoji",
       "identifier": "okHandMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "ok-hand-medium-skin-tone": {
       "codepoint": 57695,
       "fontFamily": "Twemoji",
       "identifier": "okHandMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "old-key": {
+      "codepoint": 58051,
+      "fontFamily": "Twemoji",
+      "identifier": "oldKey",
+      "duotone": true
+    },
+    "oncoming-fist": {
+      "codepoint": 58052,
+      "fontFamily": "Twemoji",
+      "identifier": "oncomingFist",
+      "duotone": true
+    },
+    "oncoming-fist-dark-skin-tone": {
+      "codepoint": 58053,
+      "fontFamily": "Twemoji",
+      "identifier": "oncomingFistDarkSkinTone",
+      "duotone": true
     },
     "oncoming-fist-light-skin-tone": {
       "codepoint": 57696,
       "fontFamily": "Twemoji",
       "identifier": "oncomingFistLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "oncoming-fist-medium-dark-skin-tone": {
+      "codepoint": 58054,
+      "fontFamily": "Twemoji",
+      "identifier": "oncomingFistMediumDarkSkinTone",
+      "duotone": true
     },
     "oncoming-fist-medium-light-skin-tone": {
       "codepoint": 57697,
       "fontFamily": "Twemoji",
       "identifier": "oncomingFistMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "oncoming-fist-medium-skin-tone": {
       "codepoint": 57698,
       "fontFamily": "Twemoji",
       "identifier": "oncomingFistMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "open-file-folder": {
+      "codepoint": 58055,
+      "fontFamily": "Twemoji",
+      "identifier": "openFileFolder",
+      "duotone": true
+    },
+    "open-hands": {
+      "codepoint": 58056,
+      "fontFamily": "Twemoji",
+      "identifier": "openHands",
+      "duotone": true
+    },
+    "open-hands-dark-skin-tone": {
+      "codepoint": 58057,
+      "fontFamily": "Twemoji",
+      "identifier": "openHandsDarkSkinTone",
+      "duotone": true
     },
     "open-hands-light-skin-tone": {
       "codepoint": 57699,
       "fontFamily": "Twemoji",
       "identifier": "openHandsLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "open-hands-medium-dark-skin-tone": {
+      "codepoint": 58058,
+      "fontFamily": "Twemoji",
+      "identifier": "openHandsMediumDarkSkinTone",
+      "duotone": true
     },
     "open-hands-medium-light-skin-tone": {
       "codepoint": 57700,
       "fontFamily": "Twemoji",
       "identifier": "openHandsMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "open-hands-medium-skin-tone": {
       "codepoint": 57701,
       "fontFamily": "Twemoji",
       "identifier": "openHandsMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "ophiuchus": {
+      "codepoint": 58059,
+      "fontFamily": "Twemoji",
+      "identifier": "ophiuchus",
+      "duotone": true
+    },
+    "orthodox-cross": {
+      "codepoint": 58060,
+      "fontFamily": "Twemoji",
+      "identifier": "orthodoxCross",
+      "duotone": true
+    },
+    "p-button": {
+      "codepoint": 58061,
+      "fontFamily": "Twemoji",
+      "identifier": "pButton",
+      "duotone": true
+    },
+    "palm-down-hand": {
+      "codepoint": 58062,
+      "fontFamily": "Twemoji",
+      "identifier": "palmDownHand",
+      "duotone": true
+    },
+    "palm-down-hand-dark-skin-tone": {
+      "codepoint": 58063,
+      "fontFamily": "Twemoji",
+      "identifier": "palmDownHandDarkSkinTone",
+      "duotone": true
     },
     "palm-down-hand-light-skin-tone": {
       "codepoint": 57702,
       "fontFamily": "Twemoji",
       "identifier": "palmDownHandLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "palm-down-hand-medium-dark-skin-tone": {
+      "codepoint": 58064,
+      "fontFamily": "Twemoji",
+      "identifier": "palmDownHandMediumDarkSkinTone",
+      "duotone": true
     },
     "palm-down-hand-medium-light-skin-tone": {
       "codepoint": 57703,
       "fontFamily": "Twemoji",
       "identifier": "palmDownHandMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "palm-down-hand-medium-skin-tone": {
       "codepoint": 57704,
       "fontFamily": "Twemoji",
       "identifier": "palmDownHandMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "palm-up-hand": {
+      "codepoint": 58065,
+      "fontFamily": "Twemoji",
+      "identifier": "palmUpHand",
+      "duotone": true
+    },
+    "palm-up-hand-dark-skin-tone": {
+      "codepoint": 58066,
+      "fontFamily": "Twemoji",
+      "identifier": "palmUpHandDarkSkinTone",
+      "duotone": true
     },
     "palm-up-hand-light-skin-tone": {
       "codepoint": 57705,
       "fontFamily": "Twemoji",
       "identifier": "palmUpHandLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "palm-up-hand-medium-dark-skin-tone": {
+      "codepoint": 58067,
+      "fontFamily": "Twemoji",
+      "identifier": "palmUpHandMediumDarkSkinTone",
+      "duotone": true
     },
     "palm-up-hand-medium-light-skin-tone": {
       "codepoint": 57706,
       "fontFamily": "Twemoji",
       "identifier": "palmUpHandMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "palm-up-hand-medium-skin-tone": {
       "codepoint": 57707,
       "fontFamily": "Twemoji",
       "identifier": "palmUpHandMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "palms-up-together": {
+      "codepoint": 58068,
+      "fontFamily": "Twemoji",
+      "identifier": "palmsUpTogether",
+      "duotone": true
+    },
+    "palms-up-together-dark-skin-tone": {
+      "codepoint": 58069,
+      "fontFamily": "Twemoji",
+      "identifier": "palmsUpTogetherDarkSkinTone",
+      "duotone": true
     },
     "palms-up-together-light-skin-tone": {
       "codepoint": 57708,
       "fontFamily": "Twemoji",
       "identifier": "palmsUpTogetherLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "palms-up-together-medium-dark-skin-tone": {
+      "codepoint": 58070,
+      "fontFamily": "Twemoji",
+      "identifier": "palmsUpTogetherMediumDarkSkinTone",
+      "duotone": true
     },
     "palms-up-together-medium-light-skin-tone": {
       "codepoint": 57709,
       "fontFamily": "Twemoji",
       "identifier": "palmsUpTogetherMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "palms-up-together-medium-skin-tone": {
       "codepoint": 57710,
       "fontFamily": "Twemoji",
       "identifier": "palmsUpTogetherMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "paperclip": {
       "codepoint": 57711,
       "fontFamily": "Twemoji",
       "identifier": "paperclip"
     },
+    "passport-control": {
+      "codepoint": 58071,
+      "fontFamily": "Twemoji",
+      "identifier": "passportControl",
+      "duotone": true
+    },
     "pause-button": {
       "codepoint": 57712,
       "fontFamily": "Twemoji",
       "identifier": "pauseButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "peace-symbol": {
+      "codepoint": 58072,
+      "fontFamily": "Twemoji",
+      "identifier": "peaceSymbol",
+      "duotone": true
+    },
+    "peanuts": {
+      "codepoint": 58073,
+      "fontFamily": "Twemoji",
+      "identifier": "peanuts",
+      "duotone": true
+    },
+    "pear": {
+      "codepoint": 58074,
+      "fontFamily": "Twemoji",
+      "identifier": "pear",
+      "duotone": true
+    },
+    "pensive-face": {
+      "codepoint": 58075,
+      "fontFamily": "Twemoji",
+      "identifier": "pensiveFace",
+      "duotone": true
+    },
+    "people-hugging": {
+      "codepoint": 58076,
+      "fontFamily": "Twemoji",
+      "identifier": "peopleHugging",
+      "duotone": true
+    },
+    "persevering-face": {
+      "codepoint": 58077,
+      "fontFamily": "Twemoji",
+      "identifier": "perseveringFace",
+      "duotone": true
     },
     "person-taking-bath": {
       "codepoint": 57713,
@@ -2527,12 +3866,23 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "pig": {
+      "codepoint": 58078,
+      "fontFamily": "Twemoji",
+      "identifier": "pig",
+      "duotone": true
+    },
+    "pig-nose": {
+      "codepoint": 58079,
+      "fontFamily": "Twemoji",
+      "identifier": "pigNose",
+      "duotone": true
+    },
     "pill": {
       "codepoint": 57715,
       "fontFamily": "Twemoji",
       "identifier": "pill",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "pinched-fingers-light-skin-tone": {
       "codepoint": 57716,
@@ -2548,45 +3898,100 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "pinching-hand": {
+      "codepoint": 58080,
+      "fontFamily": "Twemoji",
+      "identifier": "pinchingHand",
+      "duotone": true
+    },
+    "pinching-hand-dark-skin-tone": {
+      "codepoint": 58081,
+      "fontFamily": "Twemoji",
+      "identifier": "pinchingHandDarkSkinTone",
+      "duotone": true
+    },
     "pinching-hand-light-skin-tone": {
       "codepoint": 57718,
       "fontFamily": "Twemoji",
       "identifier": "pinchingHandLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "pinching-hand-medium-dark-skin-tone": {
+      "codepoint": 58082,
+      "fontFamily": "Twemoji",
+      "identifier": "pinchingHandMediumDarkSkinTone",
+      "duotone": true
     },
     "pinching-hand-medium-light-skin-tone": {
       "codepoint": 57719,
       "fontFamily": "Twemoji",
       "identifier": "pinchingHandMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "pinching-hand-medium-skin-tone": {
       "codepoint": 57720,
       "fontFamily": "Twemoji",
       "identifier": "pinchingHandMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "pink-heart": {
       "codepoint": 57721,
       "fontFamily": "Twemoji",
       "identifier": "pinkHeart"
     },
+    "pisces": {
+      "codepoint": 58083,
+      "fontFamily": "Twemoji",
+      "identifier": "pisces",
+      "duotone": true
+    },
+    "place-of-worship": {
+      "codepoint": 58084,
+      "fontFamily": "Twemoji",
+      "identifier": "placeOfWorship",
+      "duotone": true
+    },
     "play-button": {
       "codepoint": 57722,
       "fontFamily": "Twemoji",
       "identifier": "playButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "play-or-pause-button": {
       "codepoint": 57723,
       "fontFamily": "Twemoji",
       "identifier": "playOrPauseButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "pool-8-ball": {
+      "codepoint": 58085,
+      "fontFamily": "Twemoji",
+      "identifier": "pool8Ball",
+      "duotone": true
+    },
+    "postal-horn": {
+      "codepoint": 58086,
+      "fontFamily": "Twemoji",
+      "identifier": "postalHorn",
+      "duotone": true
+    },
+    "potato": {
+      "codepoint": 58087,
+      "fontFamily": "Twemoji",
+      "identifier": "potato",
+      "duotone": true
+    },
+    "poultry-leg": {
+      "codepoint": 58088,
+      "fontFamily": "Twemoji",
+      "identifier": "poultryLeg",
+      "duotone": true
+    },
+    "pouting-face": {
+      "codepoint": 58089,
+      "fontFamily": "Twemoji",
+      "identifier": "poutingFace",
+      "duotone": true
     },
     "purple-circle": {
       "codepoint": 57724,
@@ -2608,26 +4013,53 @@
       "fontFamily": "Twemoji",
       "identifier": "puzzlePiece"
     },
+    "radio-button": {
+      "codepoint": 58090,
+      "fontFamily": "Twemoji",
+      "identifier": "radioButton",
+      "duotone": true
+    },
+    "radioactive": {
+      "codepoint": 58091,
+      "fontFamily": "Twemoji",
+      "identifier": "radioactive",
+      "duotone": true
+    },
+    "raised-back-of-hand": {
+      "codepoint": 58092,
+      "fontFamily": "Twemoji",
+      "identifier": "raisedBackOfHand",
+      "duotone": true
+    },
+    "raised-back-of-hand-dark-skin-tone": {
+      "codepoint": 58093,
+      "fontFamily": "Twemoji",
+      "identifier": "raisedBackOfHandDarkSkinTone",
+      "duotone": true
+    },
     "raised-back-of-hand-light-skin-tone": {
       "codepoint": 57728,
       "fontFamily": "Twemoji",
       "identifier": "raisedBackOfHandLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "raised-back-of-hand-medium-dark-skin-tone": {
+      "codepoint": 58094,
+      "fontFamily": "Twemoji",
+      "identifier": "raisedBackOfHandMediumDarkSkinTone",
+      "duotone": true
     },
     "raised-back-of-hand-medium-light-skin-tone": {
       "codepoint": 57729,
       "fontFamily": "Twemoji",
       "identifier": "raisedBackOfHandMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "raised-back-of-hand-medium-skin-tone": {
       "codepoint": 57730,
       "fontFamily": "Twemoji",
       "identifier": "raisedBackOfHandMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "raised-fist-light-skin-tone": {
       "codepoint": 57731,
@@ -2650,26 +4082,41 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "raised-hand": {
+      "codepoint": 58095,
+      "fontFamily": "Twemoji",
+      "identifier": "raisedHand",
+      "duotone": true
+    },
+    "raised-hand-dark-skin-tone": {
+      "codepoint": 58096,
+      "fontFamily": "Twemoji",
+      "identifier": "raisedHandDarkSkinTone",
+      "duotone": true
+    },
     "raised-hand-light-skin-tone": {
       "codepoint": 57734,
       "fontFamily": "Twemoji",
       "identifier": "raisedHandLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "raised-hand-medium-dark-skin-tone": {
+      "codepoint": 58097,
+      "fontFamily": "Twemoji",
+      "identifier": "raisedHandMediumDarkSkinTone",
+      "duotone": true
     },
     "raised-hand-medium-light-skin-tone": {
       "codepoint": 57735,
       "fontFamily": "Twemoji",
       "identifier": "raisedHandMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "raised-hand-medium-skin-tone": {
       "codepoint": 57736,
       "fontFamily": "Twemoji",
       "identifier": "raisedHandMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "raising-hands-light-skin-tone": {
       "codepoint": 57737,
@@ -2689,22 +4136,25 @@
       "codepoint": 57739,
       "fontFamily": "Twemoji",
       "identifier": "receipt",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "record-button": {
       "codepoint": 57740,
       "fontFamily": "Twemoji",
       "identifier": "recordButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "recycling-symbol": {
+      "codepoint": 58098,
+      "fontFamily": "Twemoji",
+      "identifier": "recyclingSymbol",
+      "duotone": true
     },
     "red-haired": {
       "codepoint": 57741,
       "fontFamily": "Twemoji",
       "identifier": "redHaired",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "red-triangle-pointed-down": {
       "codepoint": 57742,
@@ -2716,124 +4166,185 @@
       "fontFamily": "Twemoji",
       "identifier": "redTrianglePointedUp"
     },
+    "relieved-face": {
+      "codepoint": 58099,
+      "fontFamily": "Twemoji",
+      "identifier": "relievedFace",
+      "duotone": true
+    },
+    "reminder-ribbon": {
+      "codepoint": 58100,
+      "fontFamily": "Twemoji",
+      "identifier": "reminderRibbon",
+      "duotone": true
+    },
     "repeat-button": {
       "codepoint": 57744,
       "fontFamily": "Twemoji",
       "identifier": "repeatButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "repeat-single-button": {
       "codepoint": 57745,
       "fontFamily": "Twemoji",
       "identifier": "repeatSingleButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "restroom": {
       "codepoint": 57746,
       "fontFamily": "Twemoji",
       "identifier": "restroom",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "reverse-button": {
       "codepoint": 57747,
       "fontFamily": "Twemoji",
       "identifier": "reverseButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "revolving-hearts": {
+      "codepoint": 58101,
+      "fontFamily": "Twemoji",
+      "identifier": "revolvingHearts",
+      "duotone": true
+    },
+    "right-anger-bubble": {
+      "codepoint": 58102,
+      "fontFamily": "Twemoji",
+      "identifier": "rightAngerBubble",
+      "duotone": true
     },
     "right-arrow": {
       "codepoint": 57748,
       "fontFamily": "Twemoji",
       "identifier": "rightArrow",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "right-arrow-curving-down": {
       "codepoint": 57749,
       "fontFamily": "Twemoji",
       "identifier": "rightArrowCurvingDown",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "right-arrow-curving-left": {
       "codepoint": 57750,
       "fontFamily": "Twemoji",
       "identifier": "rightArrowCurvingLeft",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "right-arrow-curving-up": {
       "codepoint": 57751,
       "fontFamily": "Twemoji",
       "identifier": "rightArrowCurvingUp",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "right-facing-fist": {
+      "codepoint": 58103,
+      "fontFamily": "Twemoji",
+      "identifier": "rightFacingFist",
+      "duotone": true
+    },
+    "right-facing-fist-dark-skin-tone": {
+      "codepoint": 58104,
+      "fontFamily": "Twemoji",
+      "identifier": "rightFacingFistDarkSkinTone",
+      "duotone": true
     },
     "right-facing-fist-light-skin-tone": {
       "codepoint": 57752,
       "fontFamily": "Twemoji",
       "identifier": "rightFacingFistLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "right-facing-fist-medium-dark-skin-tone": {
+      "codepoint": 58105,
+      "fontFamily": "Twemoji",
+      "identifier": "rightFacingFistMediumDarkSkinTone",
+      "duotone": true
     },
     "right-facing-fist-medium-light-skin-tone": {
       "codepoint": 57753,
       "fontFamily": "Twemoji",
       "identifier": "rightFacingFistMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "right-facing-fist-medium-skin-tone": {
       "codepoint": 57754,
       "fontFamily": "Twemoji",
       "identifier": "rightFacingFistMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "rightwards-hand": {
+      "codepoint": 58106,
+      "fontFamily": "Twemoji",
+      "identifier": "rightwardsHand",
+      "duotone": true
+    },
+    "rightwards-hand-dark-skin-tone": {
+      "codepoint": 58107,
+      "fontFamily": "Twemoji",
+      "identifier": "rightwardsHandDarkSkinTone",
+      "duotone": true
     },
     "rightwards-hand-light-skin-tone": {
       "codepoint": 57755,
       "fontFamily": "Twemoji",
       "identifier": "rightwardsHandLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "rightwards-hand-medium-dark-skin-tone": {
+      "codepoint": 58108,
+      "fontFamily": "Twemoji",
+      "identifier": "rightwardsHandMediumDarkSkinTone",
+      "duotone": true
     },
     "rightwards-hand-medium-light-skin-tone": {
       "codepoint": 57756,
       "fontFamily": "Twemoji",
       "identifier": "rightwardsHandMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "rightwards-hand-medium-skin-tone": {
       "codepoint": 57757,
       "fontFamily": "Twemoji",
       "identifier": "rightwardsHandMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "rightwards-pushing-hand": {
+      "codepoint": 58109,
+      "fontFamily": "Twemoji",
+      "identifier": "rightwardsPushingHand",
+      "duotone": true
+    },
+    "rightwards-pushing-hand-dark-skin-tone": {
+      "codepoint": 58110,
+      "fontFamily": "Twemoji",
+      "identifier": "rightwardsPushingHandDarkSkinTone",
+      "duotone": true
     },
     "rightwards-pushing-hand-light-skin-tone": {
       "codepoint": 57758,
       "fontFamily": "Twemoji",
       "identifier": "rightwardsPushingHandLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "rightwards-pushing-hand-medium-dark-skin-tone": {
+      "codepoint": 58111,
+      "fontFamily": "Twemoji",
+      "identifier": "rightwardsPushingHandMediumDarkSkinTone",
+      "duotone": true
     },
     "rightwards-pushing-hand-medium-light-skin-tone": {
       "codepoint": 57759,
       "fontFamily": "Twemoji",
       "identifier": "rightwardsPushingHandMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "rightwards-pushing-hand-medium-skin-tone": {
       "codepoint": 57760,
       "fontFamily": "Twemoji",
       "identifier": "rightwardsPushingHandMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "ring": {
       "codepoint": 57761,
@@ -2849,6 +4360,18 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "safety-pin": {
+      "codepoint": 58112,
+      "fontFamily": "Twemoji",
+      "identifier": "safetyPin",
+      "duotone": true
+    },
+    "sagittarius": {
+      "codepoint": 58113,
+      "fontFamily": "Twemoji",
+      "identifier": "sagittarius",
+      "duotone": true
+    },
     "satellite": {
       "codepoint": 57763,
       "fontFamily": "Twemoji",
@@ -2863,19 +4386,47 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "scarf": {
+      "codepoint": 58114,
+      "fontFamily": "Twemoji",
+      "identifier": "scarf",
+      "duotone": true
+    },
+    "scorpio": {
+      "codepoint": 58115,
+      "fontFamily": "Twemoji",
+      "identifier": "scorpio",
+      "duotone": true
+    },
+    "scorpius": {
+      "codepoint": 58116,
+      "fontFamily": "Twemoji",
+      "identifier": "scorpius",
+      "duotone": true
+    },
     "scotland": {
       "codepoint": 57765,
       "fontFamily": "Twemoji",
       "identifier": "scotland",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "sheaf-of-rice": {
+      "codepoint": 58117,
+      "fontFamily": "Twemoji",
+      "identifier": "sheafOfRice",
+      "duotone": true
+    },
+    "shinto-shrine": {
+      "codepoint": 58118,
+      "fontFamily": "Twemoji",
+      "identifier": "shintoShrine",
+      "duotone": true
     },
     "shuffle-tracks-button": {
       "codepoint": 57766,
       "fontFamily": "Twemoji",
       "identifier": "shuffleTracksButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "sign-of-the-horns-light-skin-tone": {
       "codepoint": 57767,
@@ -2898,22 +4449,105 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "skull": {
+      "codepoint": 58119,
+      "fontFamily": "Twemoji",
+      "identifier": "skull",
+      "duotone": true
+    },
+    "slightly-frowning-face": {
+      "codepoint": 58120,
+      "fontFamily": "Twemoji",
+      "identifier": "slightlyFrowningFace",
+      "duotone": true
+    },
+    "slightly-smiling-face": {
+      "codepoint": 58121,
+      "fontFamily": "Twemoji",
+      "identifier": "slightlySmilingFace",
+      "duotone": true
+    },
     "small-blue-diamond": {
       "codepoint": 57770,
       "fontFamily": "Twemoji",
       "identifier": "smallBlueDiamond"
+    },
+    "smiling-face-with-horns": {
+      "codepoint": 58122,
+      "fontFamily": "Twemoji",
+      "identifier": "smilingFaceWithHorns",
+      "duotone": true
+    },
+    "smirking-face": {
+      "codepoint": 58123,
+      "fontFamily": "Twemoji",
+      "identifier": "smirkingFace",
+      "duotone": true
     },
     "snowflake": {
       "codepoint": 57771,
       "fontFamily": "Twemoji",
       "identifier": "snowflake"
     },
+    "sos-button": {
+      "codepoint": 58124,
+      "fontFamily": "Twemoji",
+      "identifier": "sosButton",
+      "duotone": true
+    },
+    "sparkle": {
+      "codepoint": 58125,
+      "fontFamily": "Twemoji",
+      "identifier": "sparkle",
+      "duotone": true
+    },
     "sparkles": {
       "codepoint": 57772,
       "fontFamily": "Twemoji",
       "identifier": "sparkles",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "sparkling-heart": {
+      "codepoint": 58126,
+      "fontFamily": "Twemoji",
+      "identifier": "sparklingHeart",
+      "duotone": true
+    },
+    "speaker-high-volume": {
+      "codepoint": 58127,
+      "fontFamily": "Twemoji",
+      "identifier": "speakerHighVolume",
+      "duotone": true
+    },
+    "speaker-low-volume": {
+      "codepoint": 58128,
+      "fontFamily": "Twemoji",
+      "identifier": "speakerLowVolume",
+      "duotone": true
+    },
+    "speaker-medium-volume": {
+      "codepoint": 58129,
+      "fontFamily": "Twemoji",
+      "identifier": "speakerMediumVolume",
+      "duotone": true
+    },
+    "speaking-head": {
+      "codepoint": 58130,
+      "fontFamily": "Twemoji",
+      "identifier": "speakingHead",
+      "duotone": true
+    },
+    "speech-balloon": {
+      "codepoint": 58131,
+      "fontFamily": "Twemoji",
+      "identifier": "speechBalloon",
+      "duotone": true
+    },
+    "splatter": {
+      "codepoint": 58132,
+      "fontFamily": "Twemoji",
+      "identifier": "splatter",
+      "duotone": true
     },
     "spoon": {
       "codepoint": 57773,
@@ -2925,17 +4559,64 @@
       "fontFamily": "Twemoji",
       "identifier": "star"
     },
+    "star-of-david": {
+      "codepoint": 58133,
+      "fontFamily": "Twemoji",
+      "identifier": "starOfDavid",
+      "duotone": true
+    },
+    "stethoscope": {
+      "codepoint": 58134,
+      "fontFamily": "Twemoji",
+      "identifier": "stethoscope",
+      "duotone": true
+    },
     "stop-button": {
       "codepoint": 57775,
       "fontFamily": "Twemoji",
       "identifier": "stopButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "stop-sign": {
+      "codepoint": 58135,
+      "fontFamily": "Twemoji",
+      "identifier": "stopSign",
+      "duotone": true
+    },
+    "straight-ruler": {
+      "codepoint": 58136,
+      "fontFamily": "Twemoji",
+      "identifier": "straightRuler",
+      "duotone": true
     },
     "sun": {
       "codepoint": 57776,
       "fontFamily": "Twemoji",
       "identifier": "sun"
+    },
+    "sun-behind-cloud": {
+      "codepoint": 58137,
+      "fontFamily": "Twemoji",
+      "identifier": "sunBehindCloud",
+      "duotone": true
+    },
+    "sun-behind-large-cloud": {
+      "codepoint": 58138,
+      "fontFamily": "Twemoji",
+      "identifier": "sunBehindLargeCloud",
+      "duotone": true
+    },
+    "sun-behind-small-cloud": {
+      "codepoint": 58139,
+      "fontFamily": "Twemoji",
+      "identifier": "sunBehindSmallCloud",
+      "duotone": true
+    },
+    "sun-with-face": {
+      "codepoint": 58140,
+      "fontFamily": "Twemoji",
+      "identifier": "sunWithFace",
+      "duotone": true
     },
     "sweat-droplets": {
       "codepoint": 57777,
@@ -2946,48 +4627,114 @@
       "codepoint": 57778,
       "fontFamily": "Twemoji",
       "identifier": "tShirt",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "teapot": {
+      "codepoint": 58141,
+      "fontFamily": "Twemoji",
+      "identifier": "teapot",
+      "duotone": true
     },
     "thought-balloon": {
       "codepoint": 57779,
       "fontFamily": "Twemoji",
       "identifier": "thoughtBalloon"
     },
+    "thumbs-down": {
+      "codepoint": 58142,
+      "fontFamily": "Twemoji",
+      "identifier": "thumbsDown",
+      "duotone": true
+    },
+    "thumbs-down-dark-skin-tone": {
+      "codepoint": 58143,
+      "fontFamily": "Twemoji",
+      "identifier": "thumbsDownDarkSkinTone",
+      "duotone": true
+    },
+    "thumbs-down-light-skin-tone": {
+      "codepoint": 58144,
+      "fontFamily": "Twemoji",
+      "identifier": "thumbsDownLightSkinTone",
+      "duotone": true
+    },
+    "thumbs-down-medium-dark-skin-tone": {
+      "codepoint": 58145,
+      "fontFamily": "Twemoji",
+      "identifier": "thumbsDownMediumDarkSkinTone",
+      "duotone": true
+    },
     "thumbs-down-medium-light-skin-tone": {
       "codepoint": 57780,
       "fontFamily": "Twemoji",
       "identifier": "thumbsDownMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "thumbs-down-medium-skin-tone": {
       "codepoint": 57781,
       "fontFamily": "Twemoji",
       "identifier": "thumbsDownMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "thumbs-up": {
+      "codepoint": 58146,
+      "fontFamily": "Twemoji",
+      "identifier": "thumbsUp",
+      "duotone": true
+    },
+    "thumbs-up-dark-skin-tone": {
+      "codepoint": 58147,
+      "fontFamily": "Twemoji",
+      "identifier": "thumbsUpDarkSkinTone",
+      "duotone": true
+    },
+    "thumbs-up-light-skin-tone": {
+      "codepoint": 58148,
+      "fontFamily": "Twemoji",
+      "identifier": "thumbsUpLightSkinTone",
+      "duotone": true
+    },
+    "thumbs-up-medium-dark-skin-tone": {
+      "codepoint": 58149,
+      "fontFamily": "Twemoji",
+      "identifier": "thumbsUpMediumDarkSkinTone",
+      "duotone": true
     },
     "thumbs-up-medium-light-skin-tone": {
       "codepoint": 57782,
       "fontFamily": "Twemoji",
       "identifier": "thumbsUpMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "thumbs-up-medium-skin-tone": {
       "codepoint": 57783,
       "fontFamily": "Twemoji",
       "identifier": "thumbsUpMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "ticket": {
       "codepoint": 57784,
       "fontFamily": "Twemoji",
       "identifier": "ticket",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "tiger": {
+      "codepoint": 58150,
+      "fontFamily": "Twemoji",
+      "identifier": "tiger",
+      "duotone": true
+    },
+    "tomato": {
+      "codepoint": 58151,
+      "fontFamily": "Twemoji",
+      "identifier": "tomato",
+      "duotone": true
+    },
+    "tooth": {
+      "codepoint": 58152,
+      "fontFamily": "Twemoji",
+      "identifier": "tooth",
+      "duotone": true
     },
     "transgender-flag": {
       "codepoint": 57785,
@@ -2995,6 +4742,18 @@
       "identifier": "transgenderFlag",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "transgender-symbol": {
+      "codepoint": 58153,
+      "fontFamily": "Twemoji",
+      "identifier": "transgenderSymbol",
+      "duotone": true
+    },
+    "triangular-flag": {
+      "codepoint": 58154,
+      "fontFamily": "Twemoji",
+      "identifier": "triangularFlag",
+      "duotone": true
     },
     "triangular-ruler": {
       "codepoint": 57786,
@@ -3010,71 +4769,85 @@
       "codepoint": 57788,
       "fontFamily": "Twemoji",
       "identifier": "trumpet",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "two-hump-camel": {
+      "codepoint": 58155,
+      "fontFamily": "Twemoji",
+      "identifier": "twoHumpCamel",
+      "duotone": true
+    },
+    "unamused-face": {
+      "codepoint": 58156,
+      "fontFamily": "Twemoji",
+      "identifier": "unamusedFace",
+      "duotone": true
     },
     "unlocked": {
       "codepoint": 57789,
       "fontFamily": "Twemoji",
       "identifier": "unlocked",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "up-arrow": {
       "codepoint": 57790,
       "fontFamily": "Twemoji",
       "identifier": "upArrow",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "up-button": {
       "codepoint": 57791,
       "fontFamily": "Twemoji",
       "identifier": "upButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "up-down-arrow": {
       "codepoint": 57792,
       "fontFamily": "Twemoji",
       "identifier": "upDownArrow",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "up-exclamation-button": {
       "codepoint": 57793,
       "fontFamily": "Twemoji",
       "identifier": "upExclamationButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "up-left-arrow": {
       "codepoint": 57794,
       "fontFamily": "Twemoji",
       "identifier": "upLeftArrow",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "up-right-arrow": {
       "codepoint": 57795,
       "fontFamily": "Twemoji",
       "identifier": "upRightArrow",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "up-text-button": {
       "codepoint": 57796,
       "fontFamily": "Twemoji",
       "identifier": "upTextButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "upside-down-face": {
+      "codepoint": 58157,
+      "fontFamily": "Twemoji",
+      "identifier": "upsideDownFace",
+      "duotone": true
     },
     "upwards-button": {
       "codepoint": 57797,
       "fontFamily": "Twemoji",
       "identifier": "upwardsButton",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "vibration-mode": {
+      "codepoint": 58158,
+      "fontFamily": "Twemoji",
+      "identifier": "vibrationMode",
+      "duotone": true
     },
     "victory-hand-light-skin-tone": {
       "codepoint": 57798,
@@ -3097,26 +4870,89 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "video-camera": {
+      "codepoint": 58159,
+      "fontFamily": "Twemoji",
+      "identifier": "videoCamera",
+      "duotone": true
+    },
+    "virgo": {
+      "codepoint": 58160,
+      "fontFamily": "Twemoji",
+      "identifier": "virgo",
+      "duotone": true
+    },
+    "volleyball": {
+      "codepoint": 58161,
+      "fontFamily": "Twemoji",
+      "identifier": "volleyball",
+      "duotone": true
+    },
+    "vs-button": {
+      "codepoint": 58162,
+      "fontFamily": "Twemoji",
+      "identifier": "vsButton",
+      "duotone": true
+    },
+    "vulcan-salute": {
+      "codepoint": 58163,
+      "fontFamily": "Twemoji",
+      "identifier": "vulcanSalute",
+      "duotone": true
+    },
+    "vulcan-salute-dark-skin-tone": {
+      "codepoint": 58164,
+      "fontFamily": "Twemoji",
+      "identifier": "vulcanSaluteDarkSkinTone",
+      "duotone": true
+    },
     "vulcan-salute-light-skin-tone": {
       "codepoint": 57801,
       "fontFamily": "Twemoji",
       "identifier": "vulcanSaluteLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "vulcan-salute-medium-dark-skin-tone": {
+      "codepoint": 58165,
+      "fontFamily": "Twemoji",
+      "identifier": "vulcanSaluteMediumDarkSkinTone",
+      "duotone": true
     },
     "vulcan-salute-medium-light-skin-tone": {
       "codepoint": 57802,
       "fontFamily": "Twemoji",
       "identifier": "vulcanSaluteMediumLightSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
     },
     "vulcan-salute-medium-skin-tone": {
       "codepoint": 57803,
       "fontFamily": "Twemoji",
       "identifier": "vulcanSaluteMediumSkinTone",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "warning": {
+      "codepoint": 58166,
+      "fontFamily": "Twemoji",
+      "identifier": "warning",
+      "duotone": true
+    },
+    "wastebasket": {
+      "codepoint": 58167,
+      "fontFamily": "Twemoji",
+      "identifier": "wastebasket",
+      "duotone": true
+    },
+    "water-closet": {
+      "codepoint": 58168,
+      "fontFamily": "Twemoji",
+      "identifier": "waterCloset",
+      "duotone": true
+    },
+    "water-wave": {
+      "codepoint": 58169,
+      "fontFamily": "Twemoji",
+      "identifier": "waterWave",
+      "duotone": true
     },
     "waving-hand-light-skin-tone": {
       "codepoint": 57804,
@@ -3146,10 +4982,40 @@
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
     },
+    "wheel-of-dharma": {
+      "codepoint": 58170,
+      "fontFamily": "Twemoji",
+      "identifier": "wheelOfDharma",
+      "duotone": true
+    },
+    "wheelchair-symbol": {
+      "codepoint": 58171,
+      "fontFamily": "Twemoji",
+      "identifier": "wheelchairSymbol",
+      "duotone": true
+    },
     "white-exclamation-mark": {
       "codepoint": 57808,
       "fontFamily": "Twemoji",
       "identifier": "whiteExclamationMark"
+    },
+    "white-flower": {
+      "codepoint": 58172,
+      "fontFamily": "Twemoji",
+      "identifier": "whiteFlower",
+      "duotone": true
+    },
+    "white-haired": {
+      "codepoint": 58173,
+      "fontFamily": "Twemoji",
+      "identifier": "whiteHaired",
+      "duotone": true
+    },
+    "white-heavy-check-mark": {
+      "codepoint": 58174,
+      "fontFamily": "Twemoji",
+      "identifier": "whiteHeavyCheckMark",
+      "duotone": true
     },
     "white-medium-star": {
       "codepoint": 57809,
@@ -3160,6 +5026,12 @@
       "codepoint": 57810,
       "fontFamily": "Twemoji",
       "identifier": "whiteQuestionMark"
+    },
+    "white-square-button": {
+      "codepoint": 58175,
+      "fontFamily": "Twemoji",
+      "identifier": "whiteSquareButton",
+      "duotone": true
     },
     "wind-face": {
       "codepoint": 57811,
@@ -3172,8 +5044,13 @@
       "codepoint": 57812,
       "fontFamily": "Twemoji",
       "identifier": "wing",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "duotone": true
+    },
+    "winking-face": {
+      "codepoint": 58176,
+      "fontFamily": "Twemoji",
+      "identifier": "winkingFace",
+      "duotone": true
     },
     "wireless": {
       "codepoint": 57813,
@@ -3181,6 +5058,18 @@
       "identifier": "wireless",
       "deprecated": true,
       "deprecatedSince": "2026-05-13"
+    },
+    "womens-room": {
+      "codepoint": 58177,
+      "fontFamily": "Twemoji",
+      "identifier": "womensRoom",
+      "duotone": true
+    },
+    "worried-face": {
+      "codepoint": 58178,
+      "fontFamily": "Twemoji",
+      "identifier": "worriedFace",
+      "duotone": true
     },
     "writing-hand-light-skin-tone": {
       "codepoint": 57814,
@@ -3210,6 +5099,12 @@
       "codepoint": 57818,
       "fontFamily": "Twemoji",
       "identifier": "yellowSquare"
+    },
+    "yin-yang": {
+      "codepoint": 58179,
+      "fontFamily": "Twemoji",
+      "identifier": "yinYang",
+      "duotone": true
     }
   }
 }

@@ -27,7 +27,7 @@
     {
       "family": "CryptocurrencyColorSecondary",
       "nextCodepoint": 57825,
-      "iconCount": 2
+      "iconCount": 379
     }
   ],
   "icons": {
@@ -49,22 +49,26 @@
     "aave": {
       "codepoint": 57347,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "aave"
+      "identifier": "aave",
+      "duotone": true
     },
     "abt": {
       "codepoint": 57348,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "abt"
+      "identifier": "abt",
+      "duotone": true
     },
     "act": {
       "codepoint": 57349,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "act"
+      "identifier": "act",
+      "duotone": true
     },
     "actn": {
       "codepoint": 57350,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "actn"
+      "identifier": "actn",
+      "duotone": true
     },
     "ada": {
       "codepoint": 57351,
@@ -74,17 +78,20 @@
     "add": {
       "codepoint": 57352,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "add"
+      "identifier": "add",
+      "duotone": true
     },
     "adx": {
       "codepoint": 57353,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "adx"
+      "identifier": "adx",
+      "duotone": true
     },
     "ae": {
       "codepoint": 57354,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ae"
+      "identifier": "ae",
+      "duotone": true
     },
     "aeon": {
       "codepoint": 57355,
@@ -104,7 +111,8 @@
     "agrs": {
       "codepoint": 57358,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "agrs"
+      "identifier": "agrs",
+      "duotone": true
     },
     "aion": {
       "codepoint": 57359,
@@ -114,52 +122,62 @@
     "algo": {
       "codepoint": 57360,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "algo"
+      "identifier": "algo",
+      "duotone": true
     },
     "amb": {
       "codepoint": 57361,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "amb"
+      "identifier": "amb",
+      "duotone": true
     },
     "amp": {
       "codepoint": 57362,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "amp"
+      "identifier": "amp",
+      "duotone": true
     },
     "ampl": {
       "codepoint": 57363,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ampl"
+      "identifier": "ampl",
+      "duotone": true
     },
     "ankr": {
       "codepoint": 57364,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ankr"
+      "identifier": "ankr",
+      "duotone": true
     },
     "ant": {
       "codepoint": 57365,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ant"
+      "identifier": "ant",
+      "duotone": true
     },
     "ape": {
       "codepoint": 57366,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ape"
+      "identifier": "ape",
+      "duotone": true
     },
     "apex": {
       "codepoint": 57367,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "apex"
+      "identifier": "apex",
+      "duotone": true
     },
     "appc": {
       "codepoint": 57368,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "appc"
+      "identifier": "appc",
+      "duotone": true
     },
     "ardr": {
       "codepoint": 57369,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ardr"
+      "identifier": "ardr",
+      "duotone": true
     },
     "arg": {
       "codepoint": 57370,
@@ -169,12 +187,14 @@
     "ark": {
       "codepoint": 57371,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ark"
+      "identifier": "ark",
+      "duotone": true
     },
     "arn": {
       "codepoint": 57372,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "arn"
+      "identifier": "arn",
+      "duotone": true
     },
     "arnx": {
       "codepoint": 57373,
@@ -184,12 +204,14 @@
     "ary": {
       "codepoint": 57374,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ary"
+      "identifier": "ary",
+      "duotone": true
     },
     "ast": {
       "codepoint": 57375,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ast"
+      "identifier": "ast",
+      "duotone": true
     },
     "atlas": {
       "codepoint": 57376,
@@ -199,7 +221,8 @@
     "atm": {
       "codepoint": 57377,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "atm"
+      "identifier": "atm",
+      "duotone": true
     },
     "atom": {
       "codepoint": 57378,
@@ -209,22 +232,26 @@
     "audr": {
       "codepoint": 57379,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "audr"
+      "identifier": "audr",
+      "duotone": true
     },
     "aury": {
       "codepoint": 57380,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "aury"
+      "identifier": "aury",
+      "duotone": true
     },
     "auto": {
       "codepoint": 57381,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "auto"
+      "identifier": "auto",
+      "duotone": true
     },
     "avax": {
       "codepoint": 57382,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "avax"
+      "identifier": "avax",
+      "duotone": true
     },
     "aywa": {
       "codepoint": 57383,
@@ -234,7 +261,8 @@
     "bab": {
       "codepoint": 57384,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "bab"
+      "identifier": "bab",
+      "duotone": true
     },
     "bal": {
       "codepoint": 57385,
@@ -249,82 +277,98 @@
     "bat": {
       "codepoint": 57387,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "bat"
+      "identifier": "bat",
+      "duotone": true
     },
     "bay": {
       "codepoint": 57388,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "bay"
+      "identifier": "bay",
+      "duotone": true
     },
     "bcbc": {
       "codepoint": 57389,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "bcbc"
+      "identifier": "bcbc",
+      "duotone": true
     },
     "bcc": {
       "codepoint": 57390,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "bcc"
+      "identifier": "bcc",
+      "duotone": true
     },
     "bcd": {
       "codepoint": 57391,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "bcd"
+      "identifier": "bcd",
+      "duotone": true
     },
     "bch": {
       "codepoint": 57392,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "bch"
+      "identifier": "bch",
+      "duotone": true
     },
     "bcio": {
       "codepoint": 57393,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "bcio"
+      "identifier": "bcio",
+      "duotone": true
     },
     "bcn": {
       "codepoint": 57394,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "bcn"
+      "identifier": "bcn",
+      "duotone": true
     },
     "bco": {
       "codepoint": 57395,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "bco"
+      "identifier": "bco",
+      "duotone": true
     },
     "bcpt": {
       "codepoint": 57396,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "bcpt"
+      "identifier": "bcpt",
+      "duotone": true
     },
     "bdl": {
       "codepoint": 57397,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "bdl"
+      "identifier": "bdl",
+      "duotone": true
     },
     "beam": {
       "codepoint": 57398,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "beam"
+      "identifier": "beam",
+      "duotone": true
     },
     "bela": {
       "codepoint": 57399,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "bela"
+      "identifier": "bela",
+      "duotone": true
     },
     "bix": {
       "codepoint": 57400,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "bix"
+      "identifier": "bix",
+      "duotone": true
     },
     "blcn": {
       "codepoint": 57401,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "blcn"
+      "identifier": "blcn",
+      "duotone": true
     },
     "blk": {
       "codepoint": 57402,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "blk"
+      "identifier": "blk",
+      "duotone": true
     },
     "block": {
       "codepoint": 57403,
@@ -334,67 +378,80 @@
     "blz": {
       "codepoint": 57404,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "blz"
+      "identifier": "blz",
+      "duotone": true
     },
     "bnb": {
       "codepoint": 57405,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "bnb"
+      "identifier": "bnb",
+      "duotone": true
     },
     "bnt": {
       "codepoint": 57406,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "bnt"
+      "identifier": "bnt",
+      "duotone": true
     },
     "bnty": {
       "codepoint": 57407,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "bnty"
+      "identifier": "bnty",
+      "duotone": true
     },
     "booty": {
       "codepoint": 57408,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "booty"
+      "identifier": "booty",
+      "duotone": true
     },
     "bos": {
       "codepoint": 57409,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "bos"
+      "identifier": "bos",
+      "duotone": true
     },
     "bpt": {
       "codepoint": 57410,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "bpt"
+      "identifier": "bpt",
+      "duotone": true
     },
     "bq": {
       "codepoint": 57411,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "bq"
+      "identifier": "bq",
+      "duotone": true
     },
     "brd": {
       "codepoint": 57412,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "brd"
+      "identifier": "brd",
+      "duotone": true
     },
     "bsd": {
       "codepoint": 57413,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "bsd"
+      "identifier": "bsd",
+      "duotone": true
     },
     "bsv": {
       "codepoint": 57414,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "bsv"
+      "identifier": "bsv",
+      "duotone": true
     },
     "btc": {
       "codepoint": 57415,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "btc"
+      "identifier": "btc",
+      "duotone": true
     },
     "btcd": {
       "codepoint": 57416,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "btcd"
+      "identifier": "btcd",
+      "duotone": true
     },
     "btch": {
       "codepoint": 57417,
@@ -404,12 +461,14 @@
     "btcp": {
       "codepoint": 57418,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "btcp"
+      "identifier": "btcp",
+      "duotone": true
     },
     "btcz": {
       "codepoint": 57419,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "btcz"
+      "identifier": "btcz",
+      "duotone": true
     },
     "btdx": {
       "codepoint": 57420,
@@ -419,17 +478,20 @@
     "btg": {
       "codepoint": 57421,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "btg"
+      "identifier": "btg",
+      "duotone": true
     },
     "btm": {
       "codepoint": 57422,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "btm"
+      "identifier": "btm",
+      "duotone": true
     },
     "bts": {
       "codepoint": 57423,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "bts"
+      "identifier": "bts",
+      "duotone": true
     },
     "btt": {
       "codepoint": 57424,
@@ -439,17 +501,20 @@
     "btx": {
       "codepoint": 57425,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "btx"
+      "identifier": "btx",
+      "duotone": true
     },
     "burst": {
       "codepoint": 57426,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "burst"
+      "identifier": "burst",
+      "duotone": true
     },
     "bze": {
       "codepoint": 57427,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "bze"
+      "identifier": "bze",
+      "duotone": true
     },
     "call": {
       "codepoint": 57428,
@@ -464,17 +529,20 @@
     "cdn": {
       "codepoint": 57430,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "cdn"
+      "identifier": "cdn",
+      "duotone": true
     },
     "cdt": {
       "codepoint": 57431,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "cdt"
+      "identifier": "cdt",
+      "duotone": true
     },
     "cenz": {
       "codepoint": 57432,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "cenz"
+      "identifier": "cenz",
+      "duotone": true
     },
     "chain": {
       "codepoint": 57433,
@@ -484,22 +552,26 @@
     "chat": {
       "codepoint": 57434,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "chat"
+      "identifier": "chat",
+      "duotone": true
     },
     "chips": {
       "codepoint": 57435,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "chips"
+      "identifier": "chips",
+      "duotone": true
     },
     "chsb": {
       "codepoint": 57436,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "chsb"
+      "identifier": "chsb",
+      "duotone": true
     },
     "chz": {
       "codepoint": 57437,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "chz"
+      "identifier": "chz",
+      "duotone": true
     },
     "cix": {
       "codepoint": 57438,
@@ -509,27 +581,32 @@
     "clam": {
       "codepoint": 57439,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "clam"
+      "identifier": "clam",
+      "duotone": true
     },
     "cloak": {
       "codepoint": 57440,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "cloak"
+      "identifier": "cloak",
+      "duotone": true
     },
     "cmm": {
       "codepoint": 57441,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "cmm"
+      "identifier": "cmm",
+      "duotone": true
     },
     "cmt": {
       "codepoint": 57442,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "cmt"
+      "identifier": "cmt",
+      "duotone": true
     },
     "cnd": {
       "codepoint": 57443,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "cnd"
+      "identifier": "cnd",
+      "duotone": true
     },
     "cnx": {
       "codepoint": 57444,
@@ -539,57 +616,68 @@
     "cny": {
       "codepoint": 57445,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "cny"
+      "identifier": "cny",
+      "duotone": true
     },
     "cob": {
       "codepoint": 57446,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "cob"
+      "identifier": "cob",
+      "duotone": true
     },
     "colx": {
       "codepoint": 57447,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "colx"
+      "identifier": "colx",
+      "duotone": true
     },
     "comp": {
       "codepoint": 57448,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "comp"
+      "identifier": "comp",
+      "duotone": true
     },
     "coqui": {
       "codepoint": 57449,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "coqui"
+      "identifier": "coqui",
+      "duotone": true
     },
     "cred": {
       "codepoint": 57450,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "cred"
+      "identifier": "cred",
+      "duotone": true
     },
     "crpt": {
       "codepoint": 57451,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "crpt"
+      "identifier": "crpt",
+      "duotone": true
     },
     "crv": {
       "codepoint": 57452,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "crv"
+      "identifier": "crv",
+      "duotone": true
     },
     "crw": {
       "codepoint": 57453,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "crw"
+      "identifier": "crw",
+      "duotone": true
     },
     "cs": {
       "codepoint": 57454,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "cs"
+      "identifier": "cs",
+      "duotone": true
     },
     "ctr": {
       "codepoint": 57455,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ctr"
+      "identifier": "ctr",
+      "duotone": true
     },
     "ctxc": {
       "codepoint": 57456,
@@ -599,17 +687,20 @@
     "cvc": {
       "codepoint": 57457,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "cvc"
+      "identifier": "cvc",
+      "duotone": true
     },
     "d": {
       "codepoint": 57458,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "d"
+      "identifier": "d",
+      "duotone": true
     },
     "dai": {
       "codepoint": 57459,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "dai"
+      "identifier": "dai",
+      "duotone": true
     },
     "dash": {
       "codepoint": 57460,
@@ -619,77 +710,92 @@
     "dat": {
       "codepoint": 57461,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "dat"
+      "identifier": "dat",
+      "duotone": true
     },
     "data": {
       "codepoint": 57462,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "data"
+      "identifier": "data",
+      "duotone": true
     },
     "dbc": {
       "codepoint": 57463,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "dbc"
+      "identifier": "dbc",
+      "duotone": true
     },
     "dcn": {
       "codepoint": 57464,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "dcn"
+      "identifier": "dcn",
+      "duotone": true
     },
     "dcr": {
       "codepoint": 57465,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "dcr"
+      "identifier": "dcr",
+      "duotone": true
     },
     "deez": {
       "codepoint": 57466,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "deez"
+      "identifier": "deez",
+      "duotone": true
     },
     "dent": {
       "codepoint": 57467,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "dent"
+      "identifier": "dent",
+      "duotone": true
     },
     "dew": {
       "codepoint": 57468,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "dew"
+      "identifier": "dew",
+      "duotone": true
     },
     "dgb": {
       "codepoint": 57469,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "dgb"
+      "identifier": "dgb",
+      "duotone": true
     },
     "dgd": {
       "codepoint": 57470,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "dgd"
+      "identifier": "dgd",
+      "duotone": true
     },
     "dlt": {
       "codepoint": 57471,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "dlt"
+      "identifier": "dlt",
+      "duotone": true
     },
     "dnt": {
       "codepoint": 57472,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "dnt"
+      "identifier": "dnt",
+      "duotone": true
     },
     "dock": {
       "codepoint": 57473,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "dock"
+      "identifier": "dock",
+      "duotone": true
     },
     "doge": {
       "codepoint": 57474,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "doge"
+      "identifier": "doge",
+      "duotone": true
     },
     "dot": {
       "codepoint": 57475,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "dot"
+      "identifier": "dot",
+      "duotone": true
     },
     "drgn": {
       "codepoint": 57476,
@@ -704,7 +810,8 @@
     "dta": {
       "codepoint": 57478,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "dta"
+      "identifier": "dta",
+      "duotone": true
     },
     "dth": {
       "codepoint": 57479,
@@ -719,27 +826,32 @@
     "ebst": {
       "codepoint": 57481,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ebst"
+      "identifier": "ebst",
+      "duotone": true
     },
     "eca": {
       "codepoint": 57482,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "eca"
+      "identifier": "eca",
+      "duotone": true
     },
     "edg": {
       "codepoint": 57483,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "edg"
+      "identifier": "edg",
+      "duotone": true
     },
     "edo": {
       "codepoint": 57484,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "edo"
+      "identifier": "edo",
+      "duotone": true
     },
     "edoge": {
       "codepoint": 57485,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "edoge"
+      "identifier": "edoge",
+      "duotone": true
     },
     "ela": {
       "codepoint": 57486,
@@ -754,7 +866,8 @@
     "elf": {
       "codepoint": 57488,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "elf"
+      "identifier": "elf",
+      "duotone": true
     },
     "elix": {
       "codepoint": 57489,
@@ -764,17 +877,20 @@
     "ella": {
       "codepoint": 57490,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ella"
+      "identifier": "ella",
+      "duotone": true
     },
     "emb": {
       "codepoint": 57491,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "emb"
+      "identifier": "emb",
+      "duotone": true
     },
     "emc": {
       "codepoint": 57492,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "emc"
+      "identifier": "emc",
+      "duotone": true
     },
     "emc2": {
       "codepoint": 57493,
@@ -784,17 +900,20 @@
     "eng": {
       "codepoint": 57494,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "eng"
+      "identifier": "eng",
+      "duotone": true
     },
     "enj": {
       "codepoint": 57495,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "enj"
+      "identifier": "enj",
+      "duotone": true
     },
     "entrp": {
       "codepoint": 57496,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "entrp"
+      "identifier": "entrp",
+      "duotone": true
     },
     "eon": {
       "codepoint": 57497,
@@ -804,7 +923,8 @@
     "eop": {
       "codepoint": 57498,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "eop"
+      "identifier": "eop",
+      "duotone": true
     },
     "eos": {
       "codepoint": 57499,
@@ -814,12 +934,14 @@
     "eqli": {
       "codepoint": 57500,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "eqli"
+      "identifier": "eqli",
+      "duotone": true
     },
     "equa": {
       "codepoint": 57501,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "equa"
+      "identifier": "equa",
+      "duotone": true
     },
     "etc": {
       "codepoint": 57502,
@@ -839,42 +961,50 @@
     "etn": {
       "codepoint": 57505,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "etn"
+      "identifier": "etn",
+      "duotone": true
     },
     "etp": {
       "codepoint": 57506,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "etp"
+      "identifier": "etp",
+      "duotone": true
     },
     "eur": {
       "codepoint": 57507,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "eur"
+      "identifier": "eur",
+      "duotone": true
     },
     "evx": {
       "codepoint": 57508,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "evx"
+      "identifier": "evx",
+      "duotone": true
     },
     "exmo": {
       "codepoint": 57509,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "exmo"
+      "identifier": "exmo",
+      "duotone": true
     },
     "exp": {
       "codepoint": 57510,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "exp"
+      "identifier": "exp",
+      "duotone": true
     },
     "fair": {
       "codepoint": 57511,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "fair"
+      "identifier": "fair",
+      "duotone": true
     },
     "fct": {
       "codepoint": 57512,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "fct"
+      "identifier": "fct",
+      "duotone": true
     },
     "fida": {
       "codepoint": 57513,
@@ -884,7 +1014,8 @@
     "fil": {
       "codepoint": 57514,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "fil"
+      "identifier": "fil",
+      "duotone": true
     },
     "fjc": {
       "codepoint": 57515,
@@ -894,12 +1025,14 @@
     "fldc": {
       "codepoint": 57516,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "fldc"
+      "identifier": "fldc",
+      "duotone": true
     },
     "flo": {
       "codepoint": 57517,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "flo"
+      "identifier": "flo",
+      "duotone": true
     },
     "flux": {
       "codepoint": 57518,
@@ -909,52 +1042,62 @@
     "fsn": {
       "codepoint": 57519,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "fsn"
+      "identifier": "fsn",
+      "duotone": true
     },
     "ftc": {
       "codepoint": 57520,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ftc"
+      "identifier": "ftc",
+      "duotone": true
     },
     "fuel": {
       "codepoint": 57521,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "fuel"
+      "identifier": "fuel",
+      "duotone": true
     },
     "fun": {
       "codepoint": 57522,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "fun"
+      "identifier": "fun",
+      "duotone": true
     },
     "game": {
       "codepoint": 57523,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "game"
+      "identifier": "game",
+      "duotone": true
     },
     "gas": {
       "codepoint": 57524,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "gas"
+      "identifier": "gas",
+      "duotone": true
     },
     "gbp": {
       "codepoint": 57525,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "gbp"
+      "identifier": "gbp",
+      "duotone": true
     },
     "gbx": {
       "codepoint": 57526,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "gbx"
+      "identifier": "gbx",
+      "duotone": true
     },
     "gbyte": {
       "codepoint": 57527,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "gbyte"
+      "identifier": "gbyte",
+      "duotone": true
     },
     "generic": {
       "codepoint": 57528,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "generic"
+      "identifier": "generic",
+      "duotone": true
     },
     "gin": {
       "codepoint": 57529,
@@ -964,7 +1107,8 @@
     "glxt": {
       "codepoint": 57530,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "glxt"
+      "identifier": "glxt",
+      "duotone": true
     },
     "gmr": {
       "codepoint": 57531,
@@ -979,32 +1123,38 @@
     "gno": {
       "codepoint": 57533,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "gno"
+      "identifier": "gno",
+      "duotone": true
     },
     "gnt": {
       "codepoint": 57534,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "gnt"
+      "identifier": "gnt",
+      "duotone": true
     },
     "gold": {
       "codepoint": 57535,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "gold"
+      "identifier": "gold",
+      "duotone": true
     },
     "grc": {
       "codepoint": 57536,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "grc"
+      "identifier": "grc",
+      "duotone": true
     },
     "grin": {
       "codepoint": 57537,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "grin"
+      "identifier": "grin",
+      "duotone": true
     },
     "grs": {
       "codepoint": 57538,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "grs"
+      "identifier": "grs",
+      "duotone": true
     },
     "grt": {
       "codepoint": 57539,
@@ -1014,32 +1164,38 @@
     "gsc": {
       "codepoint": 57540,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "gsc"
+      "identifier": "gsc",
+      "duotone": true
     },
     "gto": {
       "codepoint": 57541,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "gto"
+      "identifier": "gto",
+      "duotone": true
     },
     "gup": {
       "codepoint": 57542,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "gup"
+      "identifier": "gup",
+      "duotone": true
     },
     "gusd": {
       "codepoint": 57543,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "gusd"
+      "identifier": "gusd",
+      "duotone": true
     },
     "gvt": {
       "codepoint": 57544,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "gvt"
+      "identifier": "gvt",
+      "duotone": true
     },
     "gxs": {
       "codepoint": 57545,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "gxs"
+      "identifier": "gxs",
+      "duotone": true
     },
     "gzr": {
       "codepoint": 57546,
@@ -1049,22 +1205,26 @@
     "hight": {
       "codepoint": 57547,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "hight"
+      "identifier": "hight",
+      "duotone": true
     },
     "hns": {
       "codepoint": 57548,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "hns"
+      "identifier": "hns",
+      "duotone": true
     },
     "hodl": {
       "codepoint": 57549,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "hodl"
+      "identifier": "hodl",
+      "duotone": true
     },
     "hot": {
       "codepoint": 57550,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "hot"
+      "identifier": "hot",
+      "duotone": true
     },
     "hpb": {
       "codepoint": 57551,
@@ -1074,7 +1234,8 @@
     "hsr": {
       "codepoint": 57552,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "hsr"
+      "identifier": "hsr",
+      "duotone": true
     },
     "ht": {
       "codepoint": 57553,
@@ -1084,27 +1245,32 @@
     "html": {
       "codepoint": 57554,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "html"
+      "identifier": "html",
+      "duotone": true
     },
     "huc": {
       "codepoint": 57555,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "huc"
+      "identifier": "huc",
+      "duotone": true
     },
     "husd": {
       "codepoint": 57556,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "husd"
+      "identifier": "husd",
+      "duotone": true
     },
     "hush": {
       "codepoint": 57557,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "hush"
+      "identifier": "hush",
+      "duotone": true
     },
     "icn": {
       "codepoint": 57558,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "icn"
+      "identifier": "icn",
+      "duotone": true
     },
     "icp": {
       "codepoint": 57559,
@@ -1114,22 +1280,26 @@
     "icx": {
       "codepoint": 57560,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "icx"
+      "identifier": "icx",
+      "duotone": true
     },
     "ignis": {
       "codepoint": 57561,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ignis"
+      "identifier": "ignis",
+      "duotone": true
     },
     "ilk": {
       "codepoint": 57562,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ilk"
+      "identifier": "ilk",
+      "duotone": true
     },
     "ink": {
       "codepoint": 57563,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ink"
+      "identifier": "ink",
+      "duotone": true
     },
     "ins": {
       "codepoint": 57564,
@@ -1139,7 +1309,8 @@
     "ion": {
       "codepoint": 57565,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ion"
+      "identifier": "ion",
+      "duotone": true
     },
     "iop": {
       "codepoint": 57566,
@@ -1149,7 +1320,8 @@
     "iost": {
       "codepoint": 57567,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "iost"
+      "identifier": "iost",
+      "duotone": true
     },
     "iotx": {
       "codepoint": 57568,
@@ -1159,32 +1331,38 @@
     "iq": {
       "codepoint": 57569,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "iq"
+      "identifier": "iq",
+      "duotone": true
     },
     "itc": {
       "codepoint": 57570,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "itc"
+      "identifier": "itc",
+      "duotone": true
     },
     "jnt": {
       "codepoint": 57571,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "jnt"
+      "identifier": "jnt",
+      "duotone": true
     },
     "jpy": {
       "codepoint": 57572,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "jpy"
+      "identifier": "jpy",
+      "duotone": true
     },
     "kcs": {
       "codepoint": 57573,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "kcs"
+      "identifier": "kcs",
+      "duotone": true
     },
     "kin": {
       "codepoint": 57574,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "kin"
+      "identifier": "kin",
+      "duotone": true
     },
     "klown": {
       "codepoint": 57575,
@@ -1199,22 +1377,26 @@
     "krb": {
       "codepoint": 57577,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "krb"
+      "identifier": "krb",
+      "duotone": true
     },
     "ksm": {
       "codepoint": 57578,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ksm"
+      "identifier": "ksm",
+      "duotone": true
     },
     "lbc": {
       "codepoint": 57579,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "lbc"
+      "identifier": "lbc",
+      "duotone": true
     },
     "lend": {
       "codepoint": 57580,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "lend"
+      "identifier": "lend",
+      "duotone": true
     },
     "leo": {
       "codepoint": 57581,
@@ -1224,12 +1406,14 @@
     "link": {
       "codepoint": 57582,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "link"
+      "identifier": "link",
+      "duotone": true
     },
     "lkk": {
       "codepoint": 57583,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "lkk"
+      "identifier": "lkk",
+      "duotone": true
     },
     "loom": {
       "codepoint": 57584,
@@ -1239,27 +1423,32 @@
     "lpt": {
       "codepoint": 57585,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "lpt"
+      "identifier": "lpt",
+      "duotone": true
     },
     "lrc": {
       "codepoint": 57586,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "lrc"
+      "identifier": "lrc",
+      "duotone": true
     },
     "lsk": {
       "codepoint": 57587,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "lsk"
+      "identifier": "lsk",
+      "duotone": true
     },
     "ltc": {
       "codepoint": 57588,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ltc"
+      "identifier": "ltc",
+      "duotone": true
     },
     "lun": {
       "codepoint": 57589,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "lun"
+      "identifier": "lun",
+      "duotone": true
     },
     "maid": {
       "codepoint": 57590,
@@ -1269,37 +1458,44 @@
     "matic": {
       "codepoint": 57591,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "matic"
+      "identifier": "matic",
+      "duotone": true
     },
     "max": {
       "codepoint": 57592,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "max"
+      "identifier": "max",
+      "duotone": true
     },
     "mcap": {
       "codepoint": 57593,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "mcap"
+      "identifier": "mcap",
+      "duotone": true
     },
     "mco": {
       "codepoint": 57594,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "mco"
+      "identifier": "mco",
+      "duotone": true
     },
     "mda": {
       "codepoint": 57595,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "mda"
+      "identifier": "mda",
+      "duotone": true
     },
     "mds": {
       "codepoint": 57596,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "mds"
+      "identifier": "mds",
+      "duotone": true
     },
     "med": {
       "codepoint": 57597,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "med"
+      "identifier": "med",
+      "duotone": true
     },
     "meetone": {
       "codepoint": 57598,
@@ -1309,42 +1505,50 @@
     "mft": {
       "codepoint": 57599,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "mft"
+      "identifier": "mft",
+      "duotone": true
     },
     "miota": {
       "codepoint": 57600,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "miota"
+      "identifier": "miota",
+      "duotone": true
     },
     "mith": {
       "codepoint": 57601,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "mith"
+      "identifier": "mith",
+      "duotone": true
     },
     "mkr": {
       "codepoint": 57602,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "mkr"
+      "identifier": "mkr",
+      "duotone": true
     },
     "mln": {
       "codepoint": 57603,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "mln"
+      "identifier": "mln",
+      "duotone": true
     },
     "mnx": {
       "codepoint": 57604,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "mnx"
+      "identifier": "mnx",
+      "duotone": true
     },
     "mnz": {
       "codepoint": 57605,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "mnz"
+      "identifier": "mnz",
+      "duotone": true
     },
     "moac": {
       "codepoint": 57606,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "moac"
+      "identifier": "moac",
+      "duotone": true
     },
     "mod": {
       "codepoint": 57607,
@@ -1354,7 +1558,8 @@
     "mona": {
       "codepoint": 57608,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "mona"
+      "identifier": "mona",
+      "duotone": true
     },
     "msr": {
       "codepoint": 57609,
@@ -1369,57 +1574,68 @@
     "mtl": {
       "codepoint": 57611,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "mtl"
+      "identifier": "mtl",
+      "duotone": true
     },
     "music": {
       "codepoint": 57612,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "music"
+      "identifier": "music",
+      "duotone": true
     },
     "mzc": {
       "codepoint": 57613,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "mzc"
+      "identifier": "mzc",
+      "duotone": true
     },
     "nano": {
       "codepoint": 57614,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "nano"
+      "identifier": "nano",
+      "duotone": true
     },
     "nas": {
       "codepoint": 57615,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "nas"
+      "identifier": "nas",
+      "duotone": true
     },
     "nav": {
       "codepoint": 57616,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "nav"
+      "identifier": "nav",
+      "duotone": true
     },
     "ncash": {
       "codepoint": 57617,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ncash"
+      "identifier": "ncash",
+      "duotone": true
     },
     "ndz": {
       "codepoint": 57618,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ndz"
+      "identifier": "ndz",
+      "duotone": true
     },
     "nebl": {
       "codepoint": 57619,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "nebl"
+      "identifier": "nebl",
+      "duotone": true
     },
     "neo": {
       "codepoint": 57620,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "neo"
+      "identifier": "neo",
+      "duotone": true
     },
     "neos": {
       "codepoint": 57621,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "neos"
+      "identifier": "neos",
+      "duotone": true
     },
     "neu": {
       "codepoint": 57622,
@@ -1434,37 +1650,44 @@
     "ngc": {
       "codepoint": 57624,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ngc"
+      "identifier": "ngc",
+      "duotone": true
     },
     "nio": {
       "codepoint": 57625,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "nio"
+      "identifier": "nio",
+      "duotone": true
     },
     "nkn": {
       "codepoint": 57626,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "nkn"
+      "identifier": "nkn",
+      "duotone": true
     },
     "nlc2": {
       "codepoint": 57627,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "nlc2"
+      "identifier": "nlc2",
+      "duotone": true
     },
     "nlg": {
       "codepoint": 57628,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "nlg"
+      "identifier": "nlg",
+      "duotone": true
     },
     "nmc": {
       "codepoint": 57629,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "nmc"
+      "identifier": "nmc",
+      "duotone": true
     },
     "nmr": {
       "codepoint": 57630,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "nmr"
+      "identifier": "nmr",
+      "duotone": true
     },
     "npxs": {
       "codepoint": 57631,
@@ -1479,42 +1702,50 @@
     "nuls": {
       "codepoint": 57633,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "nuls"
+      "identifier": "nuls",
+      "duotone": true
     },
     "nxs": {
       "codepoint": 57634,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "nxs"
+      "identifier": "nxs",
+      "duotone": true
     },
     "nxt": {
       "codepoint": 57635,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "nxt"
+      "identifier": "nxt",
+      "duotone": true
     },
     "oax": {
       "codepoint": 57636,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "oax"
+      "identifier": "oax",
+      "duotone": true
     },
     "ok": {
       "codepoint": 57637,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ok"
+      "identifier": "ok",
+      "duotone": true
     },
     "omg": {
       "codepoint": 57638,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "omg"
+      "identifier": "omg",
+      "duotone": true
     },
     "omni": {
       "codepoint": 57639,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "omni"
+      "identifier": "omni",
+      "duotone": true
     },
     "one": {
       "codepoint": 57640,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "one"
+      "identifier": "one",
+      "duotone": true
     },
     "ong": {
       "codepoint": 57641,
@@ -1524,12 +1755,14 @@
     "ont": {
       "codepoint": 57642,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ont"
+      "identifier": "ont",
+      "duotone": true
     },
     "oot": {
       "codepoint": 57643,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "oot"
+      "identifier": "oot",
+      "duotone": true
     },
     "ost": {
       "codepoint": 57644,
@@ -1539,12 +1772,14 @@
     "ox": {
       "codepoint": 57645,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ox"
+      "identifier": "ox",
+      "duotone": true
     },
     "oxt": {
       "codepoint": 57646,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "oxt"
+      "identifier": "oxt",
+      "duotone": true
     },
     "oxy": {
       "codepoint": 57647,
@@ -1554,37 +1789,44 @@
     "pac": {
       "codepoint": 57648,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "pac"
+      "identifier": "pac",
+      "duotone": true
     },
     "part": {
       "codepoint": 57649,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "part_"
+      "identifier": "part_",
+      "duotone": true
     },
     "pasc": {
       "codepoint": 57650,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "pasc"
+      "identifier": "pasc",
+      "duotone": true
     },
     "pasl": {
       "codepoint": 57651,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "pasl"
+      "identifier": "pasl",
+      "duotone": true
     },
     "pax": {
       "codepoint": 57652,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "pax"
+      "identifier": "pax",
+      "duotone": true
     },
     "paxg": {
       "codepoint": 57653,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "paxg"
+      "identifier": "paxg",
+      "duotone": true
     },
     "pay": {
       "codepoint": 57654,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "pay"
+      "identifier": "pay",
+      "duotone": true
     },
     "payx": {
       "codepoint": 57655,
@@ -1599,62 +1841,74 @@
     "pirl": {
       "codepoint": 57657,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "pirl"
+      "identifier": "pirl",
+      "duotone": true
     },
     "pivx": {
       "codepoint": 57658,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "pivx"
+      "identifier": "pivx",
+      "duotone": true
     },
     "plr": {
       "codepoint": 57659,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "plr"
+      "identifier": "plr",
+      "duotone": true
     },
     "poa": {
       "codepoint": 57660,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "poa"
+      "identifier": "poa",
+      "duotone": true
     },
     "poe": {
       "codepoint": 57661,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "poe"
+      "identifier": "poe",
+      "duotone": true
     },
     "polis": {
       "codepoint": 57662,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "polis"
+      "identifier": "polis",
+      "duotone": true
     },
     "poly": {
       "codepoint": 57663,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "poly"
+      "identifier": "poly",
+      "duotone": true
     },
     "pot": {
       "codepoint": 57664,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "pot"
+      "identifier": "pot",
+      "duotone": true
     },
     "powr": {
       "codepoint": 57665,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "powr"
+      "identifier": "powr",
+      "duotone": true
     },
     "ppc": {
       "codepoint": 57666,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ppc"
+      "identifier": "ppc",
+      "duotone": true
     },
     "ppp": {
       "codepoint": 57667,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ppp"
+      "identifier": "ppp",
+      "duotone": true
     },
     "ppt": {
       "codepoint": 57668,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ppt"
+      "identifier": "ppt",
+      "duotone": true
     },
     "pre": {
       "codepoint": 57669,
@@ -1664,32 +1918,38 @@
     "prl": {
       "codepoint": 57670,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "prl"
+      "identifier": "prl",
+      "duotone": true
     },
     "pungo": {
       "codepoint": 57671,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "pungo"
+      "identifier": "pungo",
+      "duotone": true
     },
     "pura": {
       "codepoint": 57672,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "pura"
+      "identifier": "pura",
+      "duotone": true
     },
     "qash": {
       "codepoint": 57673,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "qash"
+      "identifier": "qash",
+      "duotone": true
     },
     "qiwi": {
       "codepoint": 57674,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "qiwi"
+      "identifier": "qiwi",
+      "duotone": true
     },
     "qlc": {
       "codepoint": 57675,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "qlc"
+      "identifier": "qlc",
+      "duotone": true
     },
     "qnt": {
       "codepoint": 57676,
@@ -1699,32 +1959,38 @@
     "qrl": {
       "codepoint": 57677,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "qrl"
+      "identifier": "qrl",
+      "duotone": true
     },
     "qsp": {
       "codepoint": 57678,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "qsp"
+      "identifier": "qsp",
+      "duotone": true
     },
     "qtum": {
       "codepoint": 57679,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "qtum"
+      "identifier": "qtum",
+      "duotone": true
     },
     "r": {
       "codepoint": 57680,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "r"
+      "identifier": "r",
+      "duotone": true
     },
     "rads": {
       "codepoint": 57681,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "rads"
+      "identifier": "rads",
+      "duotone": true
     },
     "rap": {
       "codepoint": 57682,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "rap"
+      "identifier": "rap",
+      "duotone": true
     },
     "ray": {
       "codepoint": 57683,
@@ -1734,7 +2000,8 @@
     "rcn": {
       "codepoint": 57684,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "rcn"
+      "identifier": "rcn",
+      "duotone": true
     },
     "rdd": {
       "codepoint": 57685,
@@ -1744,62 +2011,74 @@
     "rdn": {
       "codepoint": 57686,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "rdn"
+      "identifier": "rdn",
+      "duotone": true
     },
     "ren": {
       "codepoint": 57687,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ren"
+      "identifier": "ren",
+      "duotone": true
     },
     "rep": {
       "codepoint": 57688,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "rep"
+      "identifier": "rep",
+      "duotone": true
     },
     "repv2": {
       "codepoint": 57689,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "repv2"
+      "identifier": "repv2",
+      "duotone": true
     },
     "req": {
       "codepoint": 57690,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "req"
+      "identifier": "req",
+      "duotone": true
     },
     "rhoc": {
       "codepoint": 57691,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "rhoc"
+      "identifier": "rhoc",
+      "duotone": true
     },
     "ric": {
       "codepoint": 57692,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ric"
+      "identifier": "ric",
+      "duotone": true
     },
     "rise": {
       "codepoint": 57693,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "rise"
+      "identifier": "rise",
+      "duotone": true
     },
     "rlc": {
       "codepoint": 57694,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "rlc"
+      "identifier": "rlc",
+      "duotone": true
     },
     "rpx": {
       "codepoint": 57695,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "rpx"
+      "identifier": "rpx",
+      "duotone": true
     },
     "rub": {
       "codepoint": 57696,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "rub"
+      "identifier": "rub",
+      "duotone": true
     },
     "rvn": {
       "codepoint": 57697,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "rvn"
+      "identifier": "rvn",
+      "duotone": true
     },
     "ryo": {
       "codepoint": 57698,
@@ -1819,37 +2098,44 @@
     "sai": {
       "codepoint": 57701,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "sai"
+      "identifier": "sai",
+      "duotone": true
     },
     "salt": {
       "codepoint": 57702,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "salt"
+      "identifier": "salt",
+      "duotone": true
     },
     "san": {
       "codepoint": 57703,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "san"
+      "identifier": "san",
+      "duotone": true
     },
     "sand": {
       "codepoint": 57704,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "sand"
+      "identifier": "sand",
+      "duotone": true
     },
     "sbd": {
       "codepoint": 57705,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "sbd"
+      "identifier": "sbd",
+      "duotone": true
     },
     "sberbank": {
       "codepoint": 57706,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "sberbank"
+      "identifier": "sberbank",
+      "duotone": true
     },
     "sc": {
       "codepoint": 57707,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "sc"
+      "identifier": "sc",
+      "duotone": true
     },
     "ser": {
       "codepoint": 57708,
@@ -1864,7 +2150,8 @@
     "sib": {
       "codepoint": 57710,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "sib"
+      "identifier": "sib",
+      "duotone": true
     },
     "sin": {
       "codepoint": 57711,
@@ -1879,42 +2166,50 @@
     "sky": {
       "codepoint": 57713,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "sky"
+      "identifier": "sky",
+      "duotone": true
     },
     "slr": {
       "codepoint": 57714,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "slr"
+      "identifier": "slr",
+      "duotone": true
     },
     "sls": {
       "codepoint": 57715,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "sls"
+      "identifier": "sls",
+      "duotone": true
     },
     "smart": {
       "codepoint": 57716,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "smart"
+      "identifier": "smart",
+      "duotone": true
     },
     "sngls": {
       "codepoint": 57717,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "sngls"
+      "identifier": "sngls",
+      "duotone": true
     },
     "snm": {
       "codepoint": 57718,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "snm"
+      "identifier": "snm",
+      "duotone": true
     },
     "snt": {
       "codepoint": 57719,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "snt"
+      "identifier": "snt",
+      "duotone": true
     },
     "snx": {
       "codepoint": 57720,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "snx"
+      "identifier": "snx",
+      "duotone": true
     },
     "soc": {
       "codepoint": 57721,
@@ -1924,122 +2219,146 @@
     "sol": {
       "codepoint": 57722,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "sol"
+      "identifier": "sol",
+      "duotone": true
     },
     "spacehbit": {
       "codepoint": 57723,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "spacehbit"
+      "identifier": "spacehbit",
+      "duotone": true
     },
     "spank": {
       "codepoint": 57724,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "spank"
+      "identifier": "spank",
+      "duotone": true
     },
     "sphtx": {
       "codepoint": 57725,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "sphtx"
+      "identifier": "sphtx",
+      "duotone": true
     },
     "srn": {
       "codepoint": 57726,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "srn"
+      "identifier": "srn",
+      "duotone": true
     },
     "stak": {
       "codepoint": 57727,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "stak"
+      "identifier": "stak",
+      "duotone": true
     },
     "start": {
       "codepoint": 57728,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "start"
+      "identifier": "start",
+      "duotone": true
     },
     "steem": {
       "codepoint": 57729,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "steem"
+      "identifier": "steem",
+      "duotone": true
     },
     "storj": {
       "codepoint": 57730,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "storj"
+      "identifier": "storj",
+      "duotone": true
     },
     "storm": {
       "codepoint": 57731,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "storm"
+      "identifier": "storm",
+      "duotone": true
     },
     "stox": {
       "codepoint": 57732,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "stox"
+      "identifier": "stox",
+      "duotone": true
     },
     "stq": {
       "codepoint": 57733,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "stq"
+      "identifier": "stq",
+      "duotone": true
     },
     "strat": {
       "codepoint": 57734,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "strat"
+      "identifier": "strat",
+      "duotone": true
     },
     "stx": {
       "codepoint": 57735,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "stx"
+      "identifier": "stx",
+      "duotone": true
     },
     "sub": {
       "codepoint": 57736,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "sub"
+      "identifier": "sub",
+      "duotone": true
     },
     "sumo": {
       "codepoint": 57737,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "sumo"
+      "identifier": "sumo",
+      "duotone": true
     },
     "sushi": {
       "codepoint": 57738,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "sushi"
+      "identifier": "sushi",
+      "duotone": true
     },
     "sys": {
       "codepoint": 57739,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "sys"
+      "identifier": "sys",
+      "duotone": true
     },
     "taas": {
       "codepoint": 57740,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "taas"
+      "identifier": "taas",
+      "duotone": true
     },
     "tau": {
       "codepoint": 57741,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "tau"
+      "identifier": "tau",
+      "duotone": true
     },
     "tbx": {
       "codepoint": 57742,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "tbx"
+      "identifier": "tbx",
+      "duotone": true
     },
     "tel": {
       "codepoint": 57743,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "tel"
+      "identifier": "tel",
+      "duotone": true
     },
     "ten": {
       "codepoint": 57744,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ten"
+      "identifier": "ten",
+      "duotone": true
     },
     "tern": {
       "codepoint": 57745,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "tern"
+      "identifier": "tern",
+      "duotone": true
     },
     "tgch": {
       "codepoint": 57746,
@@ -2049,17 +2368,20 @@
     "theta": {
       "codepoint": 57747,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "theta"
+      "identifier": "theta",
+      "duotone": true
     },
     "tix": {
       "codepoint": 57748,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "tix"
+      "identifier": "tix",
+      "duotone": true
     },
     "tkn": {
       "codepoint": 57749,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "tkn"
+      "identifier": "tkn",
+      "duotone": true
     },
     "tks": {
       "codepoint": 57750,
@@ -2069,22 +2391,26 @@
     "tnb": {
       "codepoint": 57751,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "tnb"
+      "identifier": "tnb",
+      "duotone": true
     },
     "tnc": {
       "codepoint": 57752,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "tnc"
+      "identifier": "tnc",
+      "duotone": true
     },
     "tnt": {
       "codepoint": 57753,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "tnt"
+      "identifier": "tnt",
+      "duotone": true
     },
     "tomo": {
       "codepoint": 57754,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "tomo"
+      "identifier": "tomo",
+      "duotone": true
     },
     "tpay": {
       "codepoint": 57755,
@@ -2094,7 +2420,8 @@
     "trig": {
       "codepoint": 57756,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "trig"
+      "identifier": "trig",
+      "duotone": true
     },
     "trtl": {
       "codepoint": 57757,
@@ -2104,7 +2431,8 @@
     "trx": {
       "codepoint": 57758,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "trx"
+      "identifier": "trx",
+      "duotone": true
     },
     "tusd": {
       "codepoint": 57759,
@@ -2114,12 +2442,14 @@
     "tzc": {
       "codepoint": 57760,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "tzc"
+      "identifier": "tzc",
+      "duotone": true
     },
     "ubq": {
       "codepoint": 57761,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "ubq"
+      "identifier": "ubq",
+      "duotone": true
     },
     "uma": {
       "codepoint": 57762,
@@ -2139,7 +2469,8 @@
     "usd": {
       "codepoint": 57765,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "usd"
+      "identifier": "usd",
+      "duotone": true
     },
     "usdc": {
       "codepoint": 57766,
@@ -2149,57 +2480,68 @@
     "usdt": {
       "codepoint": 57767,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "usdt"
+      "identifier": "usdt",
+      "duotone": true
     },
     "utk": {
       "codepoint": 57768,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "utk"
+      "identifier": "utk",
+      "duotone": true
     },
     "veri": {
       "codepoint": 57769,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "veri"
+      "identifier": "veri",
+      "duotone": true
     },
     "vet": {
       "codepoint": 57770,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "vet"
+      "identifier": "vet",
+      "duotone": true
     },
     "via": {
       "codepoint": 57771,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "via"
+      "identifier": "via",
+      "duotone": true
     },
     "vib": {
       "codepoint": 57772,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "vib"
+      "identifier": "vib",
+      "duotone": true
     },
     "vibe": {
       "codepoint": 57773,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "vibe"
+      "identifier": "vibe",
+      "duotone": true
     },
     "vivo": {
       "codepoint": 57774,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "vivo"
+      "identifier": "vivo",
+      "duotone": true
     },
     "vrc": {
       "codepoint": 57775,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "vrc"
+      "identifier": "vrc",
+      "duotone": true
     },
     "vrsc": {
       "codepoint": 57776,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "vrsc"
+      "identifier": "vrsc",
+      "duotone": true
     },
     "vtc": {
       "codepoint": 57777,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "vtc"
+      "identifier": "vtc",
+      "duotone": true
     },
     "vtho": {
       "codepoint": 57778,
@@ -2209,22 +2551,26 @@
     "wabi": {
       "codepoint": 57779,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "wabi"
+      "identifier": "wabi",
+      "duotone": true
     },
     "wan": {
       "codepoint": 57780,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "wan"
+      "identifier": "wan",
+      "duotone": true
     },
     "waves": {
       "codepoint": 57781,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "waves"
+      "identifier": "waves",
+      "duotone": true
     },
     "wax": {
       "codepoint": 57782,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "wax"
+      "identifier": "wax",
+      "duotone": true
     },
     "wbtc": {
       "codepoint": 57783,
@@ -2234,7 +2580,8 @@
     "wgr": {
       "codepoint": 57784,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "wgr"
+      "identifier": "wgr",
+      "duotone": true
     },
     "wicc": {
       "codepoint": 57785,
@@ -2249,7 +2596,8 @@
     "wpr": {
       "codepoint": 57787,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "wpr"
+      "identifier": "wpr",
+      "duotone": true
     },
     "wtc": {
       "codepoint": 57788,
@@ -2265,57 +2613,68 @@
     "xas": {
       "codepoint": 57790,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "xas"
+      "identifier": "xas",
+      "duotone": true
     },
     "xbc": {
       "codepoint": 57791,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "xbc"
+      "identifier": "xbc",
+      "duotone": true
     },
     "xbp": {
       "codepoint": 57792,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "xbp"
+      "identifier": "xbp",
+      "duotone": true
     },
     "xby": {
       "codepoint": 57793,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "xby"
+      "identifier": "xby",
+      "duotone": true
     },
     "xcp": {
       "codepoint": 57794,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "xcp"
+      "identifier": "xcp",
+      "duotone": true
     },
     "xdn": {
       "codepoint": 57795,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "xdn"
+      "identifier": "xdn",
+      "duotone": true
     },
     "xem": {
       "codepoint": 57796,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "xem"
+      "identifier": "xem",
+      "duotone": true
     },
     "xin": {
       "codepoint": 57797,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "xin"
+      "identifier": "xin",
+      "duotone": true
     },
     "xlm": {
       "codepoint": 57798,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "xlm"
+      "identifier": "xlm",
+      "duotone": true
     },
     "xmcc": {
       "codepoint": 57799,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "xmcc"
+      "identifier": "xmcc",
+      "duotone": true
     },
     "xmg": {
       "codepoint": 57800,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "xmg"
+      "identifier": "xmg",
+      "duotone": true
     },
     "xmo": {
       "codepoint": 57801,
@@ -2325,57 +2684,68 @@
     "xmr": {
       "codepoint": 57802,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "xmr"
+      "identifier": "xmr",
+      "duotone": true
     },
     "xmy": {
       "codepoint": 57803,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "xmy"
+      "identifier": "xmy",
+      "duotone": true
     },
     "xp": {
       "codepoint": 57804,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "xp"
+      "identifier": "xp",
+      "duotone": true
     },
     "xpa": {
       "codepoint": 57805,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "xpa"
+      "identifier": "xpa",
+      "duotone": true
     },
     "xpm": {
       "codepoint": 57806,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "xpm"
+      "identifier": "xpm",
+      "duotone": true
     },
     "xpr": {
       "codepoint": 57807,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "xpr"
+      "identifier": "xpr",
+      "duotone": true
     },
     "xrp": {
       "codepoint": 57808,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "xrp"
+      "identifier": "xrp",
+      "duotone": true
     },
     "xsg": {
       "codepoint": 57809,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "xsg"
+      "identifier": "xsg",
+      "duotone": true
     },
     "xtz": {
       "codepoint": 57810,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "xtz"
+      "identifier": "xtz",
+      "duotone": true
     },
     "xuc": {
       "codepoint": 57811,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "xuc"
+      "identifier": "xuc",
+      "duotone": true
     },
     "xvc": {
       "codepoint": 57812,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "xvc"
+      "identifier": "xvc",
+      "duotone": true
     },
     "xvg": {
       "codepoint": 57813,
@@ -2386,7 +2756,8 @@
     "xzc": {
       "codepoint": 57814,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "xzc"
+      "identifier": "xzc",
+      "duotone": true
     },
     "yfi": {
       "codepoint": 57815,
@@ -2396,22 +2767,26 @@
     "yoyow": {
       "codepoint": 57816,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "yoyow"
+      "identifier": "yoyow",
+      "duotone": true
     },
     "zcl": {
       "codepoint": 57817,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "zcl"
+      "identifier": "zcl",
+      "duotone": true
     },
     "zec": {
       "codepoint": 57818,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "zec"
+      "identifier": "zec",
+      "duotone": true
     },
     "zel": {
       "codepoint": 57819,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "zel"
+      "identifier": "zel",
+      "duotone": true
     },
     "zen": {
       "codepoint": 57820,
@@ -2431,12 +2806,14 @@
     "zilla": {
       "codepoint": 57823,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "zilla"
+      "identifier": "zilla",
+      "duotone": true
     },
     "zrx": {
       "codepoint": 57824,
       "fontFamily": "CryptocurrencyColor",
-      "identifier": "zrx"
+      "identifier": "zrx",
+      "duotone": true
     }
   }
 }

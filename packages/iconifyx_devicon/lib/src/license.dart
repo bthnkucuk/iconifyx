@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/devicons/devicon/blob/master/LICENSE',
-  iconCount: 745,
+  iconCount: 808,
 );

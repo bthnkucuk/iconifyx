@@ -16,25 +16,32 @@
       "spdx": "MIT",
       "url": "https://github.com/tandpfun/skill-icons/blob/main/LICENSE"
     },
-    "total": 313
+    "total": 328
   },
   "fonts": [
     {
       "family": "SkillIcons",
-      "nextCodepoint": 57657,
-      "iconCount": 313
+      "nextCodepoint": 57672,
+      "iconCount": 328
     },
     {
       "family": "SkillIconsSecondary",
-      "nextCodepoint": 57657,
-      "iconCount": 4
+      "nextCodepoint": 57672,
+      "iconCount": 120
     }
   ],
   "icons": {
     "ableton-dark": {
       "codepoint": 57344,
       "fontFamily": "SkillIcons",
-      "identifier": "abletonDark"
+      "identifier": "abletonDark",
+      "duotone": true
+    },
+    "ableton-light": {
+      "codepoint": 57657,
+      "fontFamily": "SkillIcons",
+      "identifier": "abletonLight",
+      "duotone": true
     },
     "activitypub-dark": {
       "codepoint": 57345,
@@ -49,17 +56,26 @@
     "actix-dark": {
       "codepoint": 57347,
       "fontFamily": "SkillIcons",
-      "identifier": "actixDark"
+      "identifier": "actixDark",
+      "duotone": true
+    },
+    "actix-light": {
+      "codepoint": 57658,
+      "fontFamily": "SkillIcons",
+      "identifier": "actixLight",
+      "duotone": true
     },
     "adonis": {
       "codepoint": 57348,
       "fontFamily": "SkillIcons",
-      "identifier": "adonis"
+      "identifier": "adonis",
+      "duotone": true
     },
     "aftereffects": {
       "codepoint": 57349,
       "fontFamily": "SkillIcons",
-      "identifier": "aftereffects"
+      "identifier": "aftereffects",
+      "duotone": true
     },
     "aiscript-dark": {
       "codepoint": 57350,
@@ -84,12 +100,14 @@
     "anaconda-dark": {
       "codepoint": 57354,
       "fontFamily": "SkillIcons",
-      "identifier": "anacondaDark"
+      "identifier": "anacondaDark",
+      "duotone": true
     },
     "anaconda-light": {
       "codepoint": 57355,
       "fontFamily": "SkillIcons",
-      "identifier": "anacondaLight"
+      "identifier": "anacondaLight",
+      "duotone": true
     },
     "ansible": {
       "codepoint": 57356,
@@ -109,7 +127,8 @@
     "appwrite": {
       "codepoint": 57359,
       "fontFamily": "SkillIcons",
-      "identifier": "appwrite"
+      "identifier": "appwrite",
+      "duotone": true
     },
     "arch-light": {
       "codepoint": 57360,
@@ -119,7 +138,8 @@
     "arduino": {
       "codepoint": 57361,
       "fontFamily": "SkillIcons",
-      "identifier": "arduino"
+      "identifier": "arduino",
+      "duotone": true
     },
     "atom": {
       "codepoint": 57362,
@@ -129,7 +149,20 @@
     "audition": {
       "codepoint": 57363,
       "fontFamily": "SkillIcons",
-      "identifier": "audition"
+      "identifier": "audition",
+      "duotone": true
+    },
+    "autocad-dark": {
+      "codepoint": 57659,
+      "fontFamily": "SkillIcons",
+      "identifier": "autocadDark",
+      "duotone": true
+    },
+    "autocad-light": {
+      "codepoint": 57660,
+      "fontFamily": "SkillIcons",
+      "identifier": "autocadLight",
+      "duotone": true
     },
     "aws-dark": {
       "codepoint": 57364,
@@ -204,7 +237,8 @@
     "c": {
       "codepoint": 57378,
       "fontFamily": "SkillIcons",
-      "identifier": "c"
+      "identifier": "c",
+      "duotone": true
     },
     "cassandra-dark": {
       "codepoint": 57379,
@@ -245,22 +279,32 @@
     "codepen-dark": {
       "codepoint": 57386,
       "fontFamily": "SkillIcons",
-      "identifier": "codepenDark"
+      "identifier": "codepenDark",
+      "duotone": true
     },
     "codepen-light": {
       "codepoint": 57387,
       "fontFamily": "SkillIcons",
-      "identifier": "codepenLight"
+      "identifier": "codepenLight",
+      "duotone": true
     },
     "coffeescript-dark": {
       "codepoint": 57388,
       "fontFamily": "SkillIcons",
-      "identifier": "coffeescriptDark"
+      "identifier": "coffeescriptDark",
+      "duotone": true
+    },
+    "coffeescript-light": {
+      "codepoint": 57661,
+      "fontFamily": "SkillIcons",
+      "identifier": "coffeescriptLight",
+      "duotone": true
     },
     "cpp": {
       "codepoint": 57389,
       "fontFamily": "SkillIcons",
-      "identifier": "cpp"
+      "identifier": "cpp",
+      "duotone": true
     },
     "crystal-dark": {
       "codepoint": 57390,
@@ -270,12 +314,14 @@
     "crystal-light": {
       "codepoint": 57391,
       "fontFamily": "SkillIcons",
-      "identifier": "crystalLight"
+      "identifier": "crystalLight",
+      "duotone": true
     },
     "cs": {
       "codepoint": 57392,
       "fontFamily": "SkillIcons",
-      "identifier": "cs"
+      "identifier": "cs",
+      "duotone": true
     },
     "css": {
       "codepoint": 57393,
@@ -290,12 +336,14 @@
     "d3-dark": {
       "codepoint": 57395,
       "fontFamily": "SkillIcons",
-      "identifier": "d3Dark"
+      "identifier": "d3Dark",
+      "duotone": true
     },
     "d3-light": {
       "codepoint": 57396,
       "fontFamily": "SkillIcons",
-      "identifier": "d3Light"
+      "identifier": "d3Light",
+      "duotone": true
     },
     "dart-dark": {
       "codepoint": 57397,
@@ -315,22 +363,26 @@
     "deno-dark": {
       "codepoint": 57400,
       "fontFamily": "SkillIcons",
-      "identifier": "denoDark"
+      "identifier": "denoDark",
+      "duotone": true
     },
     "deno-light": {
       "codepoint": 57401,
       "fontFamily": "SkillIcons",
-      "identifier": "denoLight"
+      "identifier": "denoLight",
+      "duotone": true
     },
     "devto-dark": {
       "codepoint": 57402,
       "fontFamily": "SkillIcons",
-      "identifier": "devtoDark"
+      "identifier": "devtoDark",
+      "duotone": true
     },
     "devto-light": {
       "codepoint": 57403,
       "fontFamily": "SkillIcons",
-      "identifier": "devtoLight"
+      "identifier": "devtoLight",
+      "duotone": true
     },
     "discord": {
       "codepoint": 57404,
@@ -350,22 +402,26 @@
     "django": {
       "codepoint": 57407,
       "fontFamily": "SkillIcons",
-      "identifier": "django"
+      "identifier": "django",
+      "duotone": true
     },
     "docker": {
       "codepoint": 57408,
       "fontFamily": "SkillIcons",
-      "identifier": "docker"
+      "identifier": "docker",
+      "duotone": true
     },
     "dotnet": {
       "codepoint": 57409,
       "fontFamily": "SkillIcons",
-      "identifier": "dotnet"
+      "identifier": "dotnet",
+      "duotone": true
     },
     "electron": {
       "codepoint": 57410,
       "fontFamily": "SkillIcons",
-      "identifier": "electron"
+      "identifier": "electron",
+      "duotone": true
     },
     "elixir-dark": {
       "codepoint": 57411,
@@ -406,17 +462,20 @@
     "expressjs-dark": {
       "codepoint": 57418,
       "fontFamily": "SkillIcons",
-      "identifier": "expressjsDark"
+      "identifier": "expressjsDark",
+      "duotone": true
     },
     "expressjs-light": {
       "codepoint": 57419,
       "fontFamily": "SkillIcons",
-      "identifier": "expressjsLight"
+      "identifier": "expressjsLight",
+      "duotone": true
     },
     "fastapi": {
       "codepoint": 57420,
       "fontFamily": "SkillIcons",
-      "identifier": "fastapi"
+      "identifier": "fastapi",
+      "duotone": true
     },
     "fediverse-dark": {
       "codepoint": 57421,
@@ -441,12 +500,14 @@
     "flask-dark": {
       "codepoint": 57425,
       "fontFamily": "SkillIcons",
-      "identifier": "flaskDark"
+      "identifier": "flaskDark",
+      "duotone": true
     },
     "flask-light": {
       "codepoint": 57426,
       "fontFamily": "SkillIcons",
-      "identifier": "flaskLight"
+      "identifier": "flaskLight",
+      "duotone": true
     },
     "flutter-dark": {
       "codepoint": 57427,
@@ -466,17 +527,20 @@
     "fortran": {
       "codepoint": 57430,
       "fontFamily": "SkillIcons",
-      "identifier": "fortran"
+      "identifier": "fortran",
+      "duotone": true
     },
     "gamemakerstudio": {
       "codepoint": 57431,
       "fontFamily": "SkillIcons",
-      "identifier": "gamemakerstudio"
+      "identifier": "gamemakerstudio",
+      "duotone": true
     },
     "gatsby": {
       "codepoint": 57432,
       "fontFamily": "SkillIcons",
-      "identifier": "gatsby"
+      "identifier": "gatsby",
+      "duotone": true
     },
     "gherkin-dark": {
       "codepoint": 57433,
@@ -496,7 +560,14 @@
     "github-dark": {
       "codepoint": 57436,
       "fontFamily": "SkillIcons",
-      "identifier": "githubDark"
+      "identifier": "githubDark",
+      "duotone": true
+    },
+    "github-light": {
+      "codepoint": 57662,
+      "fontFamily": "SkillIcons",
+      "identifier": "githubLight",
+      "duotone": true
     },
     "githubactions-dark": {
       "codepoint": 57437,
@@ -521,12 +592,20 @@
     "golang": {
       "codepoint": 57441,
       "fontFamily": "SkillIcons",
-      "identifier": "golang"
+      "identifier": "golang",
+      "duotone": true
     },
     "gradle-dark": {
       "codepoint": 57442,
       "fontFamily": "SkillIcons",
-      "identifier": "gradleDark"
+      "identifier": "gradleDark",
+      "duotone": true
+    },
+    "gradle-light": {
+      "codepoint": 57663,
+      "fontFamily": "SkillIcons",
+      "identifier": "gradleLight",
+      "duotone": true
     },
     "grafana-dark": {
       "codepoint": 57443,
@@ -541,17 +620,20 @@
     "graphql-dark": {
       "codepoint": 57445,
       "fontFamily": "SkillIcons",
-      "identifier": "graphqlDark"
+      "identifier": "graphqlDark",
+      "duotone": true
     },
     "graphql-light": {
       "codepoint": 57446,
       "fontFamily": "SkillIcons",
-      "identifier": "graphqlLight"
+      "identifier": "graphqlLight",
+      "duotone": true
     },
     "gulp": {
       "codepoint": 57447,
       "fontFamily": "SkillIcons",
-      "identifier": "gulp"
+      "identifier": "gulp",
+      "duotone": true
     },
     "haskell-dark": {
       "codepoint": 57448,
@@ -581,7 +663,8 @@
     "heroku": {
       "codepoint": 57453,
       "fontFamily": "SkillIcons",
-      "identifier": "heroku"
+      "identifier": "heroku",
+      "duotone": true
     },
     "html": {
       "codepoint": 57454,
@@ -606,7 +689,8 @@
     "illustrator": {
       "codepoint": 57458,
       "fontFamily": "SkillIcons",
-      "identifier": "illustrator"
+      "identifier": "illustrator",
+      "duotone": true
     },
     "instagram": {
       "codepoint": 57459,
@@ -633,10 +717,17 @@
       "fontFamily": "SkillIcons",
       "identifier": "javaLight"
     },
+    "javascript": {
+      "codepoint": 57664,
+      "fontFamily": "SkillIcons",
+      "identifier": "javascript",
+      "duotone": true
+    },
     "jest": {
       "codepoint": 57464,
       "fontFamily": "SkillIcons",
-      "identifier": "jest"
+      "identifier": "jest",
+      "duotone": true
     },
     "jquery": {
       "codepoint": 57465,
@@ -676,17 +767,20 @@
     "kubernetes": {
       "codepoint": 57472,
       "fontFamily": "SkillIcons",
-      "identifier": "kubernetes"
+      "identifier": "kubernetes",
+      "duotone": true
     },
     "laravel-dark": {
       "codepoint": 57473,
       "fontFamily": "SkillIcons",
-      "identifier": "laravelDark"
+      "identifier": "laravelDark",
+      "duotone": true
     },
     "laravel-light": {
       "codepoint": 57474,
       "fontFamily": "SkillIcons",
-      "identifier": "laravelLight"
+      "identifier": "laravelLight",
+      "duotone": true
     },
     "latex-dark": {
       "codepoint": 57475,
@@ -711,7 +805,8 @@
     "linkedin": {
       "codepoint": 57479,
       "fontFamily": "SkillIcons",
-      "identifier": "linkedin"
+      "identifier": "linkedin",
+      "duotone": true
     },
     "linux-dark": {
       "codepoint": 57480,
@@ -766,12 +861,14 @@
     "materialui-dark": {
       "codepoint": 57490,
       "fontFamily": "SkillIcons",
-      "identifier": "materialuiDark"
+      "identifier": "materialuiDark",
+      "duotone": true
     },
     "materialui-light": {
       "codepoint": 57491,
       "fontFamily": "SkillIcons",
-      "identifier": "materialuiLight"
+      "identifier": "materialuiLight",
+      "duotone": true
     },
     "matlab-dark": {
       "codepoint": 57492,
@@ -801,12 +898,14 @@
     "misskey-dark": {
       "codepoint": 57497,
       "fontFamily": "SkillIcons",
-      "identifier": "misskeyDark"
+      "identifier": "misskeyDark",
+      "duotone": true
     },
     "misskey-light": {
       "codepoint": 57498,
       "fontFamily": "SkillIcons",
-      "identifier": "misskeyLight"
+      "identifier": "misskeyLight",
+      "duotone": true
     },
     "mongodb": {
       "codepoint": 57499,
@@ -836,12 +935,14 @@
     "nestjs-dark": {
       "codepoint": 57504,
       "fontFamily": "SkillIcons",
-      "identifier": "nestjsDark"
+      "identifier": "nestjsDark",
+      "duotone": true
     },
     "nestjs-light": {
       "codepoint": 57505,
       "fontFamily": "SkillIcons",
-      "identifier": "nestjsLight"
+      "identifier": "nestjsLight",
+      "duotone": true
     },
     "netlify-dark": {
       "codepoint": 57506,
@@ -856,17 +957,20 @@
     "nextjs-dark": {
       "codepoint": 57508,
       "fontFamily": "SkillIcons",
-      "identifier": "nextjsDark"
+      "identifier": "nextjsDark",
+      "duotone": true
     },
     "nextjs-light": {
       "codepoint": 57509,
       "fontFamily": "SkillIcons",
-      "identifier": "nextjsLight"
+      "identifier": "nextjsLight",
+      "duotone": true
     },
     "nginx": {
       "codepoint": 57510,
       "fontFamily": "SkillIcons",
-      "identifier": "nginx"
+      "identifier": "nginx",
+      "duotone": true
     },
     "nim-dark": {
       "codepoint": 57511,
@@ -891,12 +995,14 @@
     "nodejs-dark": {
       "codepoint": 57515,
       "fontFamily": "SkillIcons",
-      "identifier": "nodejsDark"
+      "identifier": "nodejsDark",
+      "duotone": true
     },
     "nodejs-light": {
       "codepoint": 57516,
       "fontFamily": "SkillIcons",
-      "identifier": "nodejsLight"
+      "identifier": "nodejsLight",
+      "duotone": true
     },
     "notion-light": {
       "codepoint": 57517,
@@ -911,12 +1017,14 @@
     "nuxtjs-dark": {
       "codepoint": 57519,
       "fontFamily": "SkillIcons",
-      "identifier": "nuxtjsDark"
+      "identifier": "nuxtjsDark",
+      "duotone": true
     },
     "nuxtjs-light": {
       "codepoint": 57520,
       "fontFamily": "SkillIcons",
-      "identifier": "nuxtjsLight"
+      "identifier": "nuxtjsLight",
+      "duotone": true
     },
     "obsidian-light": {
       "codepoint": 57521,
@@ -953,30 +1061,47 @@
       "fontFamily": "SkillIcons",
       "identifier": "openshift"
     },
+    "openstack-dark": {
+      "codepoint": 57665,
+      "fontFamily": "SkillIcons",
+      "identifier": "openstackDark",
+      "duotone": true
+    },
+    "openstack-light": {
+      "codepoint": 57666,
+      "fontFamily": "SkillIcons",
+      "identifier": "openstackLight",
+      "duotone": true
+    },
     "p5js": {
       "codepoint": 57528,
       "fontFamily": "SkillIcons",
-      "identifier": "p5js"
+      "identifier": "p5js",
+      "duotone": true
     },
     "perl": {
       "codepoint": 57529,
       "fontFamily": "SkillIcons",
-      "identifier": "perl"
+      "identifier": "perl",
+      "duotone": true
     },
     "photoshop": {
       "codepoint": 57530,
       "fontFamily": "SkillIcons",
-      "identifier": "photoshop"
+      "identifier": "photoshop",
+      "duotone": true
     },
     "php-dark": {
       "codepoint": 57531,
       "fontFamily": "SkillIcons",
-      "identifier": "phpDark"
+      "identifier": "phpDark",
+      "duotone": true
     },
     "php-light": {
       "codepoint": 57532,
       "fontFamily": "SkillIcons",
-      "identifier": "phpLight"
+      "identifier": "phpLight",
+      "duotone": true
     },
     "phpstorm-light": {
       "codepoint": 57533,
@@ -1006,12 +1131,14 @@
     "planetscale-dark": {
       "codepoint": 57538,
       "fontFamily": "SkillIcons",
-      "identifier": "planetscaleDark"
+      "identifier": "planetscaleDark",
+      "duotone": true
     },
     "planetscale-light": {
       "codepoint": 57539,
       "fontFamily": "SkillIcons",
-      "identifier": "planetscaleLight"
+      "identifier": "planetscaleLight",
+      "duotone": true
     },
     "pnpm-light": {
       "codepoint": 57540,
@@ -1026,7 +1153,8 @@
     "postman": {
       "codepoint": 57542,
       "fontFamily": "SkillIcons",
-      "identifier": "postman"
+      "identifier": "postman",
+      "duotone": true
     },
     "powershell-dark": {
       "codepoint": 57543,
@@ -1041,12 +1169,14 @@
     "premiere": {
       "codepoint": 57545,
       "fontFamily": "SkillIcons",
-      "identifier": "premiere"
+      "identifier": "premiere",
+      "duotone": true
     },
     "prisma": {
       "codepoint": 57546,
       "fontFamily": "SkillIcons",
-      "identifier": "prisma"
+      "identifier": "prisma",
+      "duotone": true
     },
     "processing-dark": {
       "codepoint": 57547,
@@ -1061,7 +1191,8 @@
     "prometheus": {
       "codepoint": 57549,
       "fontFamily": "SkillIcons",
-      "identifier": "prometheus"
+      "identifier": "prometheus",
+      "duotone": true
     },
     "pug-dark": {
       "codepoint": 57550,
@@ -1091,22 +1222,26 @@
     "pytorch-dark": {
       "codepoint": 57555,
       "fontFamily": "SkillIcons",
-      "identifier": "pytorchDark"
+      "identifier": "pytorchDark",
+      "duotone": true
     },
     "pytorch-light": {
       "codepoint": 57556,
       "fontFamily": "SkillIcons",
-      "identifier": "pytorchLight"
+      "identifier": "pytorchLight",
+      "duotone": true
     },
     "qt-dark": {
       "codepoint": 57557,
       "fontFamily": "SkillIcons",
-      "identifier": "qtDark"
+      "identifier": "qtDark",
+      "duotone": true
     },
     "qt-light": {
       "codepoint": 57558,
       "fontFamily": "SkillIcons",
-      "identifier": "qtLight"
+      "identifier": "qtLight",
+      "duotone": true
     },
     "r-dark": {
       "codepoint": 57559,
@@ -1121,17 +1256,20 @@
     "rabbitmq-dark": {
       "codepoint": 57561,
       "fontFamily": "SkillIcons",
-      "identifier": "rabbitmqDark"
+      "identifier": "rabbitmqDark",
+      "duotone": true
     },
     "rabbitmq-light": {
       "codepoint": 57562,
       "fontFamily": "SkillIcons",
-      "identifier": "rabbitmqLight"
+      "identifier": "rabbitmqLight",
+      "duotone": true
     },
     "rails": {
       "codepoint": 57563,
       "fontFamily": "SkillIcons",
-      "identifier": "rails"
+      "identifier": "rails",
+      "duotone": true
     },
     "react-dark": {
       "codepoint": 57564,
@@ -1161,17 +1299,20 @@
     "redux": {
       "codepoint": 57569,
       "fontFamily": "SkillIcons",
-      "identifier": "redux"
+      "identifier": "redux",
+      "duotone": true
     },
     "regex-dark": {
       "codepoint": 57570,
       "fontFamily": "SkillIcons",
-      "identifier": "regexDark"
+      "identifier": "regexDark",
+      "duotone": true
     },
     "regex-light": {
       "codepoint": 57571,
       "fontFamily": "SkillIcons",
-      "identifier": "regexLight"
+      "identifier": "regexLight",
+      "duotone": true
     },
     "remix-dark": {
       "codepoint": 57572,
@@ -1182,6 +1323,18 @@
       "codepoint": 57573,
       "fontFamily": "SkillIcons",
       "identifier": "remixLight"
+    },
+    "replit-dark": {
+      "codepoint": 57667,
+      "fontFamily": "SkillIcons",
+      "identifier": "replitDark",
+      "duotone": true
+    },
+    "replit-light": {
+      "codepoint": 57668,
+      "fontFamily": "SkillIcons",
+      "identifier": "replitLight",
+      "duotone": true
     },
     "rider-light": {
       "codepoint": 57574,
@@ -1211,7 +1364,14 @@
     "ros-dark": {
       "codepoint": 57579,
       "fontFamily": "SkillIcons",
-      "identifier": "rosDark"
+      "identifier": "rosDark",
+      "duotone": true
+    },
+    "ros-light": {
+      "codepoint": 57669,
+      "fontFamily": "SkillIcons",
+      "identifier": "rosLight",
+      "duotone": true
     },
     "ruby": {
       "codepoint": 57580,
@@ -1221,7 +1381,8 @@
     "rust": {
       "codepoint": 57581,
       "fontFamily": "SkillIcons",
-      "identifier": "rust"
+      "identifier": "rust",
+      "duotone": true
     },
     "sass": {
       "codepoint": 57582,
@@ -1246,7 +1407,8 @@
     "sentry": {
       "codepoint": 57586,
       "fontFamily": "SkillIcons",
-      "identifier": "sentry"
+      "identifier": "sentry",
+      "duotone": true
     },
     "sequelize-dark": {
       "codepoint": 57587,
@@ -1257,6 +1419,18 @@
       "codepoint": 57588,
       "fontFamily": "SkillIcons",
       "identifier": "sequelizeLight"
+    },
+    "sketchup-dark": {
+      "codepoint": 57670,
+      "fontFamily": "SkillIcons",
+      "identifier": "sketchupDark",
+      "duotone": true
+    },
+    "sketchup-light": {
+      "codepoint": 57671,
+      "fontFamily": "SkillIcons",
+      "identifier": "sketchupLight",
+      "duotone": true
     },
     "solidity": {
       "codepoint": 57589,
@@ -1287,12 +1461,14 @@
     "spring-dark": {
       "codepoint": 57594,
       "fontFamily": "SkillIcons",
-      "identifier": "springDark"
+      "identifier": "springDark",
+      "duotone": true
     },
     "spring-light": {
       "codepoint": 57595,
       "fontFamily": "SkillIcons",
-      "identifier": "springLight"
+      "identifier": "springLight",
+      "duotone": true
     },
     "sqlite": {
       "codepoint": 57596,
@@ -1347,17 +1523,20 @@
     "swift": {
       "codepoint": 57606,
       "fontFamily": "SkillIcons",
-      "identifier": "swift"
+      "identifier": "swift",
+      "duotone": true
     },
     "symfony-dark": {
       "codepoint": 57607,
       "fontFamily": "SkillIcons",
-      "identifier": "symfonyDark"
+      "identifier": "symfonyDark",
+      "duotone": true
     },
     "symfony-light": {
       "codepoint": 57608,
       "fontFamily": "SkillIcons",
-      "identifier": "symfonyLight"
+      "identifier": "symfonyLight",
+      "duotone": true
     },
     "tailwindcss-dark": {
       "codepoint": 57609,
@@ -1382,12 +1561,14 @@
     "tensorflow-dark": {
       "codepoint": 57613,
       "fontFamily": "SkillIcons",
-      "identifier": "tensorflowDark"
+      "identifier": "tensorflowDark",
+      "duotone": true
     },
     "tensorflow-light": {
       "codepoint": 57614,
       "fontFamily": "SkillIcons",
-      "identifier": "tensorflowLight"
+      "identifier": "tensorflowLight",
+      "duotone": true
     },
     "terraform-dark": {
       "codepoint": 57615,
@@ -1412,12 +1593,14 @@
     "twitter": {
       "codepoint": 57619,
       "fontFamily": "SkillIcons",
-      "identifier": "twitter"
+      "identifier": "twitter",
+      "duotone": true
     },
     "typescript": {
       "codepoint": 57620,
       "fontFamily": "SkillIcons",
-      "identifier": "typescript"
+      "identifier": "typescript",
+      "duotone": true
     },
     "ubuntu-light": {
       "codepoint": 57621,
@@ -1437,7 +1620,8 @@
     "unrealengine": {
       "codepoint": 57624,
       "fontFamily": "SkillIcons",
-      "identifier": "unrealengine"
+      "identifier": "unrealengine",
+      "duotone": true
     },
     "v-dark": {
       "codepoint": 57625,
@@ -1457,12 +1641,14 @@
     "vercel-dark": {
       "codepoint": 57628,
       "fontFamily": "SkillIcons",
-      "identifier": "vercelDark"
+      "identifier": "vercelDark",
+      "duotone": true
     },
     "vercel-light": {
       "codepoint": 57629,
       "fontFamily": "SkillIcons",
-      "identifier": "vercelLight"
+      "identifier": "vercelLight",
+      "duotone": true
     },
     "verilog": {
       "codepoint": 57630,
@@ -1528,7 +1714,8 @@
     "webflow": {
       "codepoint": 57642,
       "fontFamily": "SkillIcons",
-      "identifier": "webflow"
+      "identifier": "webflow",
+      "duotone": true
     },
     "webpack-dark": {
       "codepoint": 57643,
@@ -1563,7 +1750,8 @@
     "wordpress": {
       "codepoint": 57649,
       "fontFamily": "SkillIcons",
-      "identifier": "wordpress"
+      "identifier": "wordpress",
+      "duotone": true
     },
     "workers-dark": {
       "codepoint": 57650,
@@ -1578,7 +1766,8 @@
     "xd": {
       "codepoint": 57652,
       "fontFamily": "SkillIcons",
-      "identifier": "xd"
+      "identifier": "xd",
+      "duotone": true
     },
     "yarn-light": {
       "codepoint": 57653,
@@ -1593,12 +1782,14 @@
     "zig-dark": {
       "codepoint": 57655,
       "fontFamily": "SkillIcons",
-      "identifier": "zigDark"
+      "identifier": "zigDark",
+      "duotone": true
     },
     "zig-light": {
       "codepoint": 57656,
       "fontFamily": "SkillIcons",
-      "identifier": "zigLight"
+      "identifier": "zigLight",
+      "duotone": true
     }
   }
 }
