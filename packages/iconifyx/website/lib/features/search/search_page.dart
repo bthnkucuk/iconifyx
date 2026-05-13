@@ -69,65 +69,73 @@ class _SearchBody extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final cs = Theme.of(context).colorScheme;
-    return Padding(
-      padding: const EdgeInsets.fromLTRB(28, 24, 28, 0),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          Text(
-            'Search icons',
-            style: Theme.of(context)
-                .textTheme
-                .headlineSmall
-                ?.copyWith(fontWeight: FontWeight.w700),
-          ),
-          const SizedBox(height: 12),
-          TextField(
-            controller: controller,
-            autofocus: true,
-            decoration: const InputDecoration(
-              hintText: 'Type to search across every icon…',
-              prefixIcon: Icon(Icons.search),
+    return Material(
+      color: Theme.of(context).scaffoldBackgroundColor,
+      child: Padding(
+        padding: const EdgeInsets.fromLTRB(28, 24, 28, 0),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(
+              'Search icons',
+              style: Theme.of(context)
+                  .textTheme
+                  .headlineSmall
+                  ?.copyWith(fontWeight: FontWeight.w700),
             ),
-            onChanged: (v) =>
-                context.read<SearchBloc>().add(SearchQueryChanged(v)),
-          ),
-          const SizedBox(height: 16),
-          Expanded(
-            child: BlocBuilder<SearchBloc, SearchState>(
-              builder: (context, state) {
-                return switch (state) {
-                  SearchWarming() => Padding(
-                      padding: const EdgeInsets.all(32),
-                      child: Center(
-                        child: Column(
-                          mainAxisSize: MainAxisSize.min,
-                          children: [
-                            const CircularProgressIndicator(),
-                            const SizedBox(height: 16),
-                            Text(
-                              'Indexing $_kHumanCount icons…',
-                              style: Theme.of(context).textTheme.bodyMedium,
-                            ),
-                          ],
+            const SizedBox(height: 12),
+            TextField(
+              controller: controller,
+              autofocus: true,
+              decoration: const InputDecoration(
+                hintText: 'Type to search across every icon…',
+                prefixIcon: Icon(Icons.search),
+              ),
+              onChanged: (v) =>
+                  context.read<SearchBloc>().add(SearchQueryChanged(v)),
+            ),
+            const SizedBox(height: 16),
+            Expanded(
+              child: BlocBuilder<SearchBloc, SearchState>(
+                builder: (context, state) {
+                  return switch (state) {
+                    SearchWarming() => Padding(
+                        padding: const EdgeInsets.all(32),
+                        child: Center(
+                          child: Column(
+                            mainAxisSize: MainAxisSize.min,
+                            children: [
+                              const CircularProgressIndicator(),
+                              const SizedBox(height: 16),
+                              Text(
+                                'Indexing $_kHumanCount icons…',
+                                style: Theme.of(context).textTheme.bodyMedium,
+                              ),
+                            ],
+                          ),
                         ),
                       ),
-                    ),
-                  SearchEmpty() => _EmptyState(color: cs.onSurfaceVariant),
-                  SearchRunning() =>
-                    const Center(child: CircularProgressIndicator()),
-                  SearchResults(:final groupsByPrefix, :final totalMatches, :final truncated, :final query) =>
-                    _Results(
-                      query: query,
-                      groups: groupsByPrefix,
-                      total: totalMatches,
-                      truncated: truncated,
-                    ),
-                };
-              },
+                    SearchEmpty() => _EmptyState(color: cs.onSurfaceVariant),
+                    SearchRunning() =>
+                      const Center(child: CircularProgressIndicator()),
+                    SearchResults(
+                      :final groupsByPrefix,
+                      :final totalMatches,
+                      :final truncated,
+                      :final query
+                    ) =>
+                      _Results(
+                        query: query,
+                        groups: groupsByPrefix,
+                        total: totalMatches,
+                        truncated: truncated,
+                      ),
+                  };
+                },
+              ),
             ),
-          ),
-        ],
+          ],
+        ),
       ),
     );
   }
@@ -148,7 +156,10 @@ class _EmptyState extends StatelessWidget {
           Icon(Icons.search_off, size: 48, color: color),
           const SizedBox(height: 12),
           Text('Type to search across every icon',
-              style: Theme.of(context).textTheme.bodyMedium?.copyWith(color: color)),
+              style: Theme.of(context)
+                  .textTheme
+                  .bodyMedium
+                  ?.copyWith(color: color)),
         ],
       ),
     );

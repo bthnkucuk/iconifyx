@@ -56,79 +56,82 @@ class _IconViewState extends State<_IconView> {
     final r = widget.record;
     final dartSnippet = _dartSnippet(r);
 
-    return SingleChildScrollView(
-      padding: const EdgeInsets.fromLTRB(28, 24, 28, 32),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          Row(
-            children: [
-              TextButton.icon(
-                icon: const Icon(Icons.arrow_back, size: 18),
-                label: Text(widget.pack.name),
-                onPressed: () => coordinator.navigate(
-                  PackDetailRoute(prefix: widget.pack.prefix),
-                ),
-              ),
-              const Text(' / '),
-              Flexible(
-                child: SelectableText(
-                  r.name,
-                  style: Theme.of(context).textTheme.bodyMedium,
-                ),
-              ),
-            ],
-          ),
-          const SizedBox(height: 16),
-          LayoutBuilder(
-            builder: (context, constraints) {
-              final wide = constraints.maxWidth >= 720;
-              final preview = AspectRatio(
-                aspectRatio: 1,
-                child: Container(
-                  decoration: BoxDecoration(
-                    color: cs.surfaceContainerHighest,
-                    borderRadius: BorderRadius.circular(16),
-                    border: Border.all(color: cs.outlineVariant),
+    return Material(
+      color: Theme.of(context).scaffoldBackgroundColor,
+      child: SingleChildScrollView(
+        padding: const EdgeInsets.fromLTRB(28, 24, 28, 32),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Row(
+              children: [
+                TextButton.icon(
+                  icon: const Icon(Icons.arrow_back, size: 18),
+                  label: Text(widget.pack.name),
+                  onPressed: () => coordinator.navigate(
+                    PackDetailRoute(prefix: widget.pack.prefix),
                   ),
-                  child: Center(
-                    child: IconifyIcon(
-                      r.toIconifyData(),
-                      size: _size,
-                      color: _color ?? cs.onSurface,
+                ),
+                const Text(' / '),
+                Flexible(
+                  child: SelectableText(
+                    r.name,
+                    style: Theme.of(context).textTheme.bodyMedium,
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 16),
+            LayoutBuilder(
+              builder: (context, constraints) {
+                final wide = constraints.maxWidth >= 720;
+                final preview = AspectRatio(
+                  aspectRatio: 1,
+                  child: Container(
+                    decoration: BoxDecoration(
+                      color: cs.surfaceContainerHighest,
+                      borderRadius: BorderRadius.circular(16),
+                      border: Border.all(color: cs.outlineVariant),
+                    ),
+                    child: Center(
+                      child: IconifyIcon(
+                        r.toIconifyData(),
+                        size: _size,
+                        color: _color ?? cs.onSurface,
+                      ),
                     ),
                   ),
-                ),
-              );
-              final controls = _ControlsAndCode(
-                record: r,
-                pack: widget.pack,
-                size: _size,
-                color: _color ?? cs.onSurface,
-                onSizeChanged: (v) => setState(() => _size = v),
-                onColorChanged: (c) => setState(() => _color = c),
-                dartSnippet: dartSnippet,
-              );
-              if (wide) {
-                return Row(
-                  crossAxisAlignment: CrossAxisAlignment.start,
+                );
+                final controls = _ControlsAndCode(
+                  record: r,
+                  pack: widget.pack,
+                  size: _size,
+                  color: _color ?? cs.onSurface,
+                  onSizeChanged: (v) => setState(() => _size = v),
+                  onColorChanged: (c) => setState(() => _color = c),
+                  dartSnippet: dartSnippet,
+                );
+                if (wide) {
+                  return Row(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      SizedBox(width: 360, child: preview),
+                      const SizedBox(width: 24),
+                      Expanded(child: controls),
+                    ],
+                  );
+                }
+                return Column(
                   children: [
-                    SizedBox(width: 360, child: preview),
-                    const SizedBox(width: 24),
-                    Expanded(child: controls),
+                    preview,
+                    const SizedBox(height: 20),
+                    controls,
                   ],
                 );
-              }
-              return Column(
-                children: [
-                  preview,
-                  const SizedBox(height: 20),
-                  controls,
-                ],
-              );
-            },
-          ),
-        ],
+              },
+            ),
+          ],
+        ),
       ),
     );
   }
@@ -366,8 +369,7 @@ class _Missing extends StatelessWidget {
             Text('Icon "$name" not found in "$prefix"'),
             const SizedBox(height: 12),
             FilledButton(
-              onPressed: () =>
-                  appCoordinator.navigate(HomeRoute()),
+              onPressed: () => appCoordinator.navigate(HomeRoute()),
               child: const Text('Back to home'),
             ),
           ],

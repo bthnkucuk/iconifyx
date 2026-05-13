@@ -162,6 +162,8 @@ ${deps}
   zenrouter_core: ^2.0.2
   flutter_staggered_grid_view: ^0.7.0
   shared_preferences: ^2.3.2
+  google_fonts: ^6.2.0
+  url_launcher: ^6.3.1
 
 dev_dependencies:
   flutter_test:
