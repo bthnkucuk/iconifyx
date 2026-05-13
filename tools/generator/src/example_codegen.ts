@@ -37,7 +37,11 @@ export function emitExampleIndex(input: ExampleCodegenInput): string {
   lines.push(`class ExampleIconEntry {`);
   lines.push(`  final String name;`);
   lines.push(`  final IconifyIconData data;`);
-  lines.push(`  const ExampleIconEntry(this.name, this.data);`);
+  lines.push(`  /// For duotone icons, the secondary (translucent) layer.`);
+  lines.push(`  /// Render with IconifyDuotoneIcon when present.`);
+  lines.push(`  final IconifyIconData? secondary;`);
+  lines.push(`  const ExampleIconEntry(this.name, this.data, [this.secondary]);`);
+  lines.push(`  bool get isDuotone => secondary != null;`);
   lines.push(`}`);
   lines.push(``);
   lines.push(`class ExampleSetEntry {`);
@@ -90,7 +94,15 @@ export function emitExampleIndex(input: ExampleCodegenInput): string {
       lines.push(`        packageName: '${escape(pkg)}',`);
       lines.push(`        icons: <ExampleIconEntry>[`);
       for (const [name, entry] of liveEntries) {
-        lines.push(`          ExampleIconEntry('${escape(name)}', ${className}.${entry.identifier}),`);
+        if (entry.duotone) {
+          lines.push(
+            `          ExampleIconEntry('${escape(name)}', ${className}.${entry.identifier}Primary, ${className}.${entry.identifier}Secondary),`
+          );
+        } else {
+          lines.push(
+            `          ExampleIconEntry('${escape(name)}', ${className}.${entry.identifier}),`
+          );
+        }
       }
       lines.push(`        ],`);
       lines.push(`      ),`);

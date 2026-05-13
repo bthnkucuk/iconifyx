@@ -20,3 +20,6 @@ flutter:
     - family: DeviconPlain
       fonts:
         - asset: assets/fonts/DeviconPlain.ttf
+    - family: DeviconPlainSecondary
+      fonts:
+        - asset: assets/fonts/DeviconPlainSecondary.ttf

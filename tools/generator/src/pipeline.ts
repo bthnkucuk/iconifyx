@@ -290,18 +290,26 @@ async function processOneSet(
   }
   for (const primaryFamily of primaryFamiliesWithDuotone) {
     const secName = secondaryFontFamily(primaryFamily);
-    if (fonts.find((f) => f.family === secName)) continue;
     const primaryFont = fonts.find((f) => f.family === primaryFamily);
     if (!primaryFont) continue;
     let dtCount = 0;
     for (const e of Object.values(icons)) {
       if (e.duotone && !e.deprecated && e.fontFamily === primaryFamily) dtCount += 1;
     }
-    fonts.push({
-      family: secName,
-      nextCodepoint: primaryFont.nextCodepoint,
-      iconCount: dtCount,
-    });
+    const existing = fonts.find((f) => f.family === secName);
+    if (existing) {
+      // Refresh the count + cursor; the allocator may have preserved a stale
+      // 0 from before duotone support, or recompute logic from a previous
+      // run that didn't track Secondary fonts.
+      existing.iconCount = dtCount;
+      existing.nextCodepoint = primaryFont.nextCodepoint;
+    } else {
+      fonts.push({
+        family: secName,
+        nextCodepoint: primaryFont.nextCodepoint,
+        iconCount: dtCount,
+      });
+    }
   }
 
   const liveCount = Object.values(icons).filter((i) => !i.deprecated).length;
@@ -343,14 +351,21 @@ async function processOneSet(
         entry.deprecatedSince = today;
       }
     }
-    // Recompute live count + per-font live counts.
+    // Recompute live count + per-font live counts. For duotone icons we
+    // also bump the matching Secondary font (the icon's `fontFamily` field
+    // refers to the primary family only).
     const liveCountUpdated = Object.values(icons).filter((i) => !i.deprecated).length;
     manifest.info.total = liveCountUpdated;
     for (const f of fonts) f.iconCount = 0;
     for (const e of Object.values(icons)) {
       if (e.deprecated) continue;
-      const f = fonts.find((x) => x.family === e.fontFamily);
-      if (f) f.iconCount += 1;
+      const primaryF = fonts.find((x) => x.family === e.fontFamily);
+      if (primaryF) primaryF.iconCount += 1;
+      if (e.duotone) {
+        const secName = secondaryFontFamily(e.fontFamily);
+        const secF = fonts.find((x) => x.family === secName);
+        if (secF) secF.iconCount += 1;
+      }
     }
   }
 
