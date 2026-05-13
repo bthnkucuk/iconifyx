@@ -112,6 +112,18 @@ bun run generate -- --clean       # remove orphan packages + manifests
 
 Manifests at `tools/generator/manifests/*.json` are **committed** — they store every icon's stable codepoint forever. Never hand-edit or delete them; consumers' built apps reference these codepoints by integer value.
 
+## Fetching Flutter deps for every package
+
+After cloning or regenerating, every per-set package needs `flutter pub get` once. Doing this by hand for ~210 packages is painful, so a helper script lives at the repo root:
+
+```bash
+./pub_get_all.sh                  # 8 parallel pub gets (default)
+PARALLELISM=4 ./pub_get_all.sh    # cap parallelism
+./pub_get_all.sh --no-fvm         # use bare `flutter` instead of `fvm flutter`
+```
+
+The script finds every `pubspec.yaml` under `packages/` and `test_apps/`, runs `fvm flutter pub get` in each, and reports a per-package ✓/✗ summary. Failed packages' logs are kept in a temp dir for inspection. Takes ~30–60 s on first run, much faster on subsequent runs thanks to Flutter's pub cache.
+
 ## Example app
 
 ```bash

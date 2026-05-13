@@ -31,12 +31,14 @@ class SetBrowserPage extends StatefulWidget {
 
 class _SetBrowserPageState extends State<SetBrowserPage> {
   ExampleSetEntry? _selectedSet;
-  String _filter = '';
+  // Filter for icons within the currently-selected set.
+  String _iconFilter = '';
+  // Independent filter for the drawer: matches against set name or prefix.
+  String _setFilter = '';
 
   @override
   void initState() {
     super.initState();
-    // Pick the first set by default.
     for (final category in exampleCategories) {
       if (category.sets.isNotEmpty) {
         _selectedSet = category.sets.first;
@@ -48,16 +50,36 @@ class _SetBrowserPageState extends State<SetBrowserPage> {
   List<ExampleIconEntry> get _visibleIcons {
     final set = _selectedSet;
     if (set == null) return const [];
-    if (_filter.isEmpty) return set.icons;
-    final f = _filter.toLowerCase();
+    if (_iconFilter.isEmpty) return set.icons;
+    final f = _iconFilter.toLowerCase();
     return set.icons.where((i) => i.name.toLowerCase().contains(f)).toList();
+  }
+
+  /// Returns categories with only the sets that match the drawer filter.
+  /// Categories whose sets all filtered out are dropped entirely.
+  List<ExampleCategory> get _visibleCategories {
+    if (_setFilter.isEmpty) return exampleCategories;
+    final f = _setFilter.toLowerCase();
+    final out = <ExampleCategory>[];
+    for (final category in exampleCategories) {
+      final matching = category.sets.where((s) {
+        return s.name.toLowerCase().contains(f) ||
+            s.prefix.toLowerCase().contains(f);
+      }).toList();
+      if (matching.isNotEmpty) {
+        out.add(ExampleCategory(name: category.name, sets: matching));
+      }
+    }
+    return out;
   }
 
   @override
   Widget build(BuildContext context) {
     final selected = _selectedSet;
     final icons = _visibleIcons;
+    final categories = _visibleCategories;
     final crossAxis = MediaQuery.sizeOf(context).width ~/ 96;
+    final hasMatch = categories.isNotEmpty;
 
     return Scaffold(
       appBar: AppBar(
@@ -73,44 +95,81 @@ class _SetBrowserPageState extends State<SetBrowserPage> {
                 hintText: 'Filter icons in this set…',
                 border: OutlineInputBorder(),
               ),
-              onChanged: (v) => setState(() => _filter = v),
+              onChanged: (v) => setState(() => _iconFilter = v),
             ),
           ),
         ),
       ),
       drawer: Drawer(
         child: SafeArea(
-          child: ListView(
+          child: Column(
             children: [
               const DrawerHeader(
                 child: Center(
                   child: Text('Icon sets', style: TextStyle(fontSize: 22)),
                 ),
               ),
-              for (final category in exampleCategories) ...[
-                Padding(
-                  padding: const EdgeInsets.fromLTRB(16, 16, 16, 4),
-                  child: Text(
-                    category.name,
-                    style: const TextStyle(fontWeight: FontWeight.bold),
+              Padding(
+                padding: const EdgeInsets.fromLTRB(12, 0, 12, 8),
+                child: TextField(
+                  decoration: InputDecoration(
+                    isDense: true,
+                    prefixIcon: const Icon(Icons.search),
+                    hintText: 'Search sets…',
+                    border: const OutlineInputBorder(),
+                    suffixIcon: _setFilter.isEmpty
+                        ? null
+                        : IconButton(
+                            icon: const Icon(Icons.clear),
+                            onPressed: () =>
+                                setState(() => _setFilter = ''),
+                          ),
                   ),
+                  onChanged: (v) => setState(() => _setFilter = v),
                 ),
-                for (final set in category.sets)
-                  ListTile(
-                    selected: identical(set, selected),
-                    dense: true,
-                    title: Text(set.name),
-                    subtitle:
-                        Text('${set.icons.length} icons · ${set.license}'),
-                    onTap: () {
-                      setState(() {
-                        _selectedSet = set;
-                        _filter = '';
-                      });
-                      Navigator.of(context).pop();
-                    },
-                  ),
-              ],
+              ),
+              Expanded(
+                child: hasMatch
+                    ? ListView(
+                        children: [
+                          for (final category in categories) ...[
+                            Padding(
+                              padding:
+                                  const EdgeInsets.fromLTRB(16, 16, 16, 4),
+                              child: Text(
+                                category.name,
+                                style: const TextStyle(
+                                    fontWeight: FontWeight.bold),
+                              ),
+                            ),
+                            for (final set in category.sets)
+                              ListTile(
+                                selected: identical(set, selected),
+                                dense: true,
+                                title: Text(set.name),
+                                subtitle: Text(
+                                    '${set.prefix} · ${set.icons.length} icons · ${set.license}'),
+                                onTap: () {
+                                  setState(() {
+                                    _selectedSet = set;
+                                    _iconFilter = '';
+                                  });
+                                  Navigator.of(context).pop();
+                                },
+                              ),
+                          ],
+                        ],
+                      )
+                    : Center(
+                        child: Padding(
+                          padding: const EdgeInsets.all(16),
+                          child: Text(
+                            'No sets match "$_setFilter".',
+                            textAlign: TextAlign.center,
+                          ),
+                        ),
+                      ),
+              ),
             ],
           ),
         ),
@@ -118,7 +177,7 @@ class _SetBrowserPageState extends State<SetBrowserPage> {
       body: selected == null
           ? const Center(child: Text('No sets bundled.'))
           : icons.isEmpty
-              ? Center(child: Text('No icons match "$_filter".'))
+              ? Center(child: Text('No icons match "$_iconFilter".'))
               : GridView.builder(
                   padding: const EdgeInsets.all(12),
                   gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
