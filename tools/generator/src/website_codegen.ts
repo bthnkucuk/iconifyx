@@ -164,6 +164,7 @@ ${deps}
   shared_preferences: ^2.3.2
   google_fonts: ^6.2.0
   url_launcher: ^6.3.1
+  oref: ^2.8.1
 
 dev_dependencies:
   flutter_test:

@@ -14,6 +14,7 @@ import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/search_route.dart';
 import '../../theme/app_theme.dart';
 import '../../theme/theme_cubit.dart';
+import 'hover_box.dart';
 
 /// Mobile drawer: a sheet that slides down from below the top nav.
 /// Triggered by the hamburger button when viewport width < 900px.
@@ -170,56 +171,41 @@ class _DrawerContent extends StatelessWidget {
   }
 }
 
-class _DrawerSearchTrigger extends StatefulWidget {
+class _DrawerSearchTrigger extends StatelessWidget {
   const _DrawerSearchTrigger({required this.onTap});
   final VoidCallback onTap;
-  @override
-  State<_DrawerSearchTrigger> createState() => _DrawerSearchTriggerState();
-}
-
-class _DrawerSearchTriggerState extends State<_DrawerSearchTrigger> {
-  bool _hover = false;
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
     final card = isDark ? AppTheme.cardDark : AppTheme.card;
     final rule = isDark ? AppTheme.ruleDark : AppTheme.rule;
     final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
-    return MouseRegion(
-      cursor: SystemMouseCursors.click,
-      onEnter: (_) => setState(() => _hover = true),
-      onExit: (_) => setState(() => _hover = false),
-      child: GestureDetector(
-        onTap: widget.onTap,
-        child: AnimatedContainer(
-          duration: const Duration(milliseconds: 120),
-          padding: const EdgeInsets.fromLTRB(14, 14, 14, 14),
-          decoration: BoxDecoration(
-            color: card,
-            border: Border.all(color: _hover ? AppTheme.coral : rule),
-            borderRadius: BorderRadius.circular(12),
+    return HoverBox(
+      onTap: onTap,
+      padding: const EdgeInsets.all(14),
+      borderRadius: 12,
+      bg: card,
+      borderColor: rule,
+      hoverBorderColor: AppTheme.coral,
+      child: Row(
+        children: [
+          Icon(Icons.search, size: 18, color: muted),
+          const SizedBox(width: 10),
+          Expanded(
+            child: Text(
+              'Search icons, categories…',
+              style: TextStyle(fontSize: 15, color: muted),
+            ),
           ),
-          child: Row(
-            children: [
-              Icon(Icons.search, size: 18, color: muted),
-              const SizedBox(width: 10),
-              Expanded(
-                child: Text(
-                  'Search icons, categories…',
-                  style: TextStyle(fontSize: 15, color: muted),
-                ),
-              ),
-              Container(
-                padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
-                decoration: BoxDecoration(
-                  border: Border.all(color: rule),
-                  borderRadius: BorderRadius.circular(4),
-                ),
-                child: Text('⌘K', style: AppTheme.mono(size: 10, color: muted)),
-              ),
-            ],
+          Container(
+            padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+            decoration: BoxDecoration(
+              border: Border.all(color: rule),
+              borderRadius: BorderRadius.circular(4),
+            ),
+            child: Text('⌘K', style: AppTheme.mono(size: 10, color: muted)),
           ),
-        ),
+        ],
       ),
     );
   }
@@ -263,7 +249,6 @@ class _NavRow extends StatefulWidget {
 }
 
 class _NavRowState extends State<_NavRow> {
-  bool _hover = false;
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
@@ -272,63 +257,53 @@ class _NavRowState extends State<_NavRow> {
     final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
     final ink2 = isDark ? AppTheme.ink2Dark : AppTheme.ink2;
     final coralSoft = isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft;
-    final activeBg = widget.active ? coralSoft : (_hover ? paper2 : Colors.transparent);
     final activeFg = widget.active ? AppTheme.coral : ink;
-    return MouseRegion(
-      cursor: SystemMouseCursors.click,
-      onEnter: (_) => setState(() => _hover = true),
-      onExit: (_) => setState(() => _hover = false),
-      child: GestureDetector(
-        onTap: widget.onTap,
-        child: AnimatedContainer(
-          duration: const Duration(milliseconds: 100),
-          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
-          decoration: BoxDecoration(
-            color: activeBg,
-            borderRadius: BorderRadius.circular(10),
+    return HoverBox(
+      onTap: widget.onTap,
+      bg: widget.active ? coralSoft : Colors.transparent,
+      hoverBg: widget.active ? coralSoft : paper2,
+      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
+      borderRadius: 10,
+      child: Row(
+        children: [
+          Container(
+            width: 36,
+            height: 36,
+            decoration: BoxDecoration(
+              color: widget.active ? card : paper2,
+              borderRadius: BorderRadius.circular(9),
+            ),
+            alignment: Alignment.center,
+            child: Icon(widget.icon,
+                size: 18, color: widget.active ? AppTheme.coral : ink2),
           ),
-          child: Row(
-            children: [
-              Container(
-                width: 36,
-                height: 36,
-                decoration: BoxDecoration(
-                  color: widget.active ? card : paper2,
-                  borderRadius: BorderRadius.circular(9),
-                ),
-                alignment: Alignment.center,
-                child: Icon(widget.icon,
-                    size: 18, color: widget.active ? AppTheme.coral : ink2),
-              ),
-              const SizedBox(width: 12),
-              Expanded(
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Text(widget.name,
-                        style: TextStyle(
-                          fontSize: 16,
-                          fontWeight: FontWeight.w700,
-                          color: activeFg,
-                        )),
-                    const SizedBox(height: 2),
-                    Text(widget.sub,
-                        style: AppTheme.mono(
-                          size: 12,
-                          color: widget.active
-                              ? AppTheme.coral.withValues(alpha: 0.8)
-                              : AppTheme.muted,
-                        )),
-                  ],
-                ),
-              ),
-              Text('→',
-                  style: AppTheme.mono(
-                      size: 14,
-                      color: widget.active ? AppTheme.coral : AppTheme.muted)),
-            ],
+          const SizedBox(width: 12),
+          Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(widget.name,
+                    style: TextStyle(
+                      fontSize: 16,
+                      fontWeight: FontWeight.w700,
+                      color: activeFg,
+                    )),
+                const SizedBox(height: 2),
+                Text(widget.sub,
+                    style: AppTheme.mono(
+                      size: 12,
+                      color: widget.active
+                          ? AppTheme.coral.withValues(alpha: 0.8)
+                          : AppTheme.muted,
+                    )),
+              ],
+            ),
           ),
-        ),
+          Text('→',
+              style: AppTheme.mono(
+                  size: 14,
+                  color: widget.active ? AppTheme.coral : AppTheme.muted)),
+        ],
       ),
     );
   }
@@ -397,7 +372,6 @@ class _CategoryCardMobile extends StatefulWidget {
 }
 
 class _CategoryCardMobileState extends State<_CategoryCardMobile> {
-  bool _hover = false;
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
@@ -415,77 +389,68 @@ class _CategoryCardMobileState extends State<_CategoryCardMobile> {
         if (samples.length >= 3) break;
       }
     }
-    return MouseRegion(
-      cursor: SystemMouseCursors.click,
-      onEnter: (_) => setState(() => _hover = true),
-      onExit: (_) => setState(() => _hover = false),
-      child: GestureDetector(
-        onTap: widget.onTap,
-        child: AnimatedContainer(
-          duration: const Duration(milliseconds: 120),
-          transform: _hover ? Matrix4.translationValues(0, -1, 0) : Matrix4.identity(),
-          padding: const EdgeInsets.all(14),
-          decoration: BoxDecoration(
-            color: card,
-            border: Border.all(color: _hover ? AppTheme.coral : rule),
-            borderRadius: BorderRadius.circular(12),
-          ),
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
+    return HoverBox(
+      onTap: widget.onTap,
+      padding: const EdgeInsets.all(14),
+      borderRadius: 12,
+      bg: card,
+      borderColor: rule,
+      hoverBorderColor: AppTheme.coral,
+      translateOnHoverY: -1,
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
             children: [
-              Row(
-                children: [
-                  for (var i = 0; i < 3; i++) ...[
-                    if (i > 0) const SizedBox(width: 6),
-                    Container(
-                      width: 26,
-                      height: 26,
-                      decoration: BoxDecoration(
-                        color: i == 0 ? coralSoft : paper2,
-                        borderRadius: BorderRadius.circular(7),
-                      ),
-                      child: Center(
-                        child: i < samples.length
-                            ? IconifyIcon(
-                                samples[i].toIconifyData(),
-                                size: 14,
-                                color: i == 0 ? AppTheme.coral : ink2,
-                              )
-                            : const SizedBox.shrink(),
-                      ),
-                    ),
-                  ],
-                ],
+              for (var i = 0; i < 3; i++) ...[
+                if (i > 0) const SizedBox(width: 6),
+                Container(
+                  width: 26,
+                  height: 26,
+                  decoration: BoxDecoration(
+                    color: i == 0 ? coralSoft : paper2,
+                    borderRadius: BorderRadius.circular(7),
+                  ),
+                  child: Center(
+                    child: i < samples.length
+                        ? IconifyIcon(
+                            samples[i].toIconifyData(),
+                            size: 14,
+                            color: i == 0 ? AppTheme.coral : ink2,
+                          )
+                        : const SizedBox.shrink(),
+                  ),
+                ),
+              ],
+            ],
+          ),
+          const SizedBox(height: 10),
+          Text(widget.category.name,
+              style: TextStyle(
+                fontSize: 13.5,
+                fontWeight: FontWeight.w700,
+                color: ink,
+              )),
+          const SizedBox(height: 4),
+          Row(
+            children: [
+              Expanded(
+                child: Text('${widget.category.packPrefixes.length} packs',
+                    style: TextStyle(fontSize: 11, color: AppTheme.muted)),
               ),
-              const SizedBox(height: 10),
-              Text(widget.category.name,
-                  style: TextStyle(
-                    fontSize: 13.5,
-                    fontWeight: FontWeight.w700,
-                    color: ink,
-                  )),
-              const SizedBox(height: 4),
-              Row(
-                children: [
-                  Expanded(
-                    child: Text('${widget.category.packPrefixes.length} packs',
-                        style: TextStyle(fontSize: 11, color: AppTheme.muted)),
-                  ),
-                  Container(
-                    padding:
-                        const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
-                    decoration: BoxDecoration(
-                      color: paper2,
-                      borderRadius: BorderRadius.circular(6),
-                    ),
-                    child: Text('${widget.category.packPrefixes.length}',
-                        style: AppTheme.mono(size: 10, color: AppTheme.muted)),
-                  ),
-                ],
+              Container(
+                padding:
+                    const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+                decoration: BoxDecoration(
+                  color: paper2,
+                  borderRadius: BorderRadius.circular(6),
+                ),
+                child: Text('${widget.category.packPrefixes.length}',
+                    style: AppTheme.mono(size: 10, color: AppTheme.muted)),
               ),
             ],
           ),
-        ),
+        ],
       ),
     );
   }
@@ -613,44 +578,32 @@ class _PubCtaRow extends StatefulWidget {
 }
 
 class _PubCtaRowState extends State<_PubCtaRow> {
-  bool _hover = false;
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
     final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
     final paper = isDark ? AppTheme.paperDark : AppTheme.paper;
-    return MouseRegion(
-      cursor: SystemMouseCursors.click,
-      onEnter: (_) => setState(() => _hover = true),
-      onExit: (_) => setState(() => _hover = false),
-      child: GestureDetector(
-        onTap: () =>
-            launchUrl(Uri.parse('https://pub.dev/packages/iconifyx')),
-        child: AnimatedContainer(
-          duration: const Duration(milliseconds: 120),
-          padding: const EdgeInsets.symmetric(vertical: 14),
-          decoration: BoxDecoration(
-            color: _hover ? AppTheme.coral : ink,
-            borderRadius: BorderRadius.circular(12),
+    return HoverBox(
+      onTap: () => launchUrl(Uri.parse('https://pub.dev/packages/iconifyx')),
+      padding: const EdgeInsets.symmetric(vertical: 14),
+      borderRadius: 12,
+      bg: ink,
+      hoverBg: AppTheme.coral,
+      alignment: Alignment.center,
+      child: Row(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Text(
+            'View on pub.dev',
+            style: TextStyle(
+              color: paper,
+              fontSize: 14,
+              fontWeight: FontWeight.w700,
+            ),
           ),
-          alignment: Alignment.center,
-          child: Row(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              Text(
-                'View on pub.dev',
-                style: TextStyle(
-                  color: _hover ? Colors.white : paper,
-                  fontSize: 14,
-                  fontWeight: FontWeight.w700,
-                ),
-              ),
-              const SizedBox(width: 6),
-              Icon(Icons.trending_up_outlined,
-                  size: 16, color: _hover ? Colors.white : paper),
-            ],
-          ),
-        ),
+          const SizedBox(width: 6),
+          Icon(Icons.trending_up_outlined, size: 16, color: paper),
+        ],
       ),
     );
   }

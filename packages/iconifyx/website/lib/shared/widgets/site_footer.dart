@@ -3,6 +3,7 @@ import 'package:url_launcher/url_launcher.dart';
 
 import '../../theme/app_theme.dart';
 import 'brand_mark.dart';
+import 'hover_box.dart';
 
 class SiteFooter extends StatelessWidget {
   const SiteFooter({super.key});
@@ -47,36 +48,25 @@ class SiteFooter extends StatelessWidget {
   }
 }
 
-class _FooterLink extends StatefulWidget {
+class _FooterLink extends StatelessWidget {
   const _FooterLink({required this.label, required this.url});
   final String label;
   final String url;
 
   @override
-  State<_FooterLink> createState() => _FooterLinkState();
-}
-
-class _FooterLinkState extends State<_FooterLink> {
-  bool _hover = false;
-  @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
     final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
-    return MouseRegion(
-      cursor: SystemMouseCursors.click,
-      onEnter: (_) => setState(() => _hover = true),
-      onExit: (_) => setState(() => _hover = false),
-      child: GestureDetector(
-        onTap: () => launchUrl(Uri.parse(widget.url)),
-        child: Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 10),
-          child: Text(
-            widget.label,
-            style: TextStyle(
-              fontSize: 13,
-              fontWeight: FontWeight.w500,
-              color: _hover ? AppTheme.coral : muted,
-            ),
+    return HoverBuilder(
+      onTap: () => launchUrl(Uri.parse(url)),
+      builder: (ctx, hovered) => Padding(
+        padding: const EdgeInsets.symmetric(horizontal: 10),
+        child: Text(
+          label,
+          style: TextStyle(
+            fontSize: 13,
+            fontWeight: FontWeight.w500,
+            color: hovered ? AppTheme.coral : muted,
           ),
         ),
       ),

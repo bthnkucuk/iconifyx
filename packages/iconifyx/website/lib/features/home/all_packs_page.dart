@@ -7,6 +7,7 @@ import '../../router/coordinator.dart';
 import '../../router/routes/shell/app_shell_layout.dart';
 import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/pack_detail_route.dart';
+import '../../shared/widgets/hover_box.dart';
 import '../../shared/widgets/pack_card.dart';
 import '../../theme/app_theme.dart';
 
@@ -101,28 +102,23 @@ class AllPacksPage extends StatelessWidget {
   }
 }
 
-class _CrumbLink extends StatefulWidget {
+class _CrumbLink extends StatelessWidget {
   const _CrumbLink({required this.label, required this.onTap});
   final String label;
   final VoidCallback onTap;
-  @override
-  State<_CrumbLink> createState() => _CrumbLinkState();
-}
 
-class _CrumbLinkState extends State<_CrumbLink> {
-  bool _hover = false;
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
     final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
-    return MouseRegion(
-      cursor: SystemMouseCursors.click,
-      onEnter: (_) => setState(() => _hover = true),
-      onExit: (_) => setState(() => _hover = false),
-      child: GestureDetector(
-        onTap: widget.onTap,
-        child: Text(widget.label,
-            style: AppTheme.mono(size: 12, color: _hover ? AppTheme.coral : muted)),
+    return HoverBuilder(
+      onTap: onTap,
+      builder: (ctx, hovered) => Text(
+        label,
+        style: AppTheme.mono(
+          size: 12,
+          color: hovered ? AppTheme.coral : muted,
+        ),
       ),
     );
   }

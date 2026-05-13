@@ -10,6 +10,7 @@ import '../../router/routes/shell/all_packs_route.dart';
 import '../../router/routes/shell/app_shell_layout.dart';
 import '../../router/routes/shell/category_route.dart';
 import '../../router/routes/shell/pack_detail_route.dart';
+import '../../shared/widgets/hover_box.dart';
 import '../../theme/app_theme.dart';
 
 class HomePage extends StatelessWidget {
@@ -267,7 +268,6 @@ class _InstallBar extends StatefulWidget {
 }
 
 class _InstallBarState extends State<_InstallBar> {
-  bool _hover = false;
   bool _copied = false;
 
   Future<void> _copy() async {
@@ -331,37 +331,32 @@ class _InstallBarState extends State<_InstallBar> {
                 ),
               ),
               Container(width: 1, color: rule),
-              MouseRegion(
-                cursor: SystemMouseCursors.click,
-                onEnter: (_) => setState(() => _hover = true),
-                onExit: (_) => setState(() => _hover = false),
-                child: GestureDetector(
-                  onTap: _copy,
-                  child: AnimatedContainer(
-                    duration: const Duration(milliseconds: 120),
-                    padding: const EdgeInsets.symmetric(horizontal: 18),
-                    decoration: BoxDecoration(
-                      color: _hover ? AppTheme.coral : paper2,
-                    ),
-                    child: Row(
-                      children: [
-                        Icon(
-                          _copied ? Icons.check : Icons.copy_outlined,
-                          size: 14,
-                          color: _hover ? Colors.white : ink2,
+              HoverBuilder(
+                onTap: _copy,
+                builder: (ctx, hovered) => AnimatedContainer(
+                  duration: const Duration(milliseconds: 120),
+                  padding: const EdgeInsets.symmetric(horizontal: 18),
+                  decoration: BoxDecoration(
+                    color: hovered ? AppTheme.coral : paper2,
+                  ),
+                  child: Row(
+                    children: [
+                      Icon(
+                        _copied ? Icons.check : Icons.copy_outlined,
+                        size: 14,
+                        color: hovered ? Colors.white : ink2,
+                      ),
+                      const SizedBox(width: 8),
+                      Text(
+                        _copied ? 'COPIED' : 'COPY',
+                        style: AppTheme.mono(
+                          size: 12,
+                          weight: FontWeight.w600,
+                          color: hovered ? Colors.white : ink2,
+                          letterSpacing: 0.24,
                         ),
-                        const SizedBox(width: 8),
-                        Text(
-                          _copied ? 'COPIED' : 'COPY',
-                          style: AppTheme.mono(
-                            size: 12,
-                            weight: FontWeight.w600,
-                            color: _hover ? Colors.white : ink2,
-                            letterSpacing: 0.24,
-                          ),
-                        ),
-                      ],
-                    ),
+                      ),
+                    ],
                   ),
                 ),
               ),
@@ -501,8 +496,6 @@ class _CategoryCard extends StatefulWidget {
 }
 
 class _CategoryCardState extends State<_CategoryCard> {
-  bool _hover = false;
-
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
@@ -523,40 +516,35 @@ class _CategoryCardState extends State<_CategoryCard> {
       }
     }
     while (samples.length < 4) {
-      // Pad with placeholders if the category has <4 packs.
       samples.add(samples.isEmpty
           ? widget.packs.packs.first.preview.first
           : samples[samples.length % samples.length]);
     }
 
-    return MouseRegion(
-      cursor: SystemMouseCursors.click,
-      onEnter: (_) => setState(() => _hover = true),
-      onExit: (_) => setState(() => _hover = false),
-      child: GestureDetector(
-        onTap: () => appCoordinator
-            .navigate(CategoryRoute(slug: widget.category.slug)),
-        child: AnimatedContainer(
-          duration: const Duration(milliseconds: 150),
-          transform: _hover
-              ? (Matrix4.translationValues(0, -2, 0))
-              : Matrix4.identity(),
-          decoration: BoxDecoration(
-            color: card,
-            borderRadius: BorderRadius.circular(16),
-            border: Border.all(color: _hover ? AppTheme.coral : rule),
-            boxShadow: _hover
-                ? const [
-                    BoxShadow(
-                      color: Color(0x140E1320),
-                      blurRadius: 30,
-                      offset: Offset(0, 12),
-                    ),
-                  ]
-                : null,
-          ),
-          padding: const EdgeInsets.all(20),
-          child: Column(
+    return HoverBuilder(
+      onTap: () => appCoordinator
+          .navigate(CategoryRoute(slug: widget.category.slug)),
+      builder: (ctx, hovered) => AnimatedContainer(
+        duration: const Duration(milliseconds: 150),
+        transform: hovered
+            ? Matrix4.translationValues(0, -2, 0)
+            : Matrix4.identity(),
+        decoration: BoxDecoration(
+          color: card,
+          borderRadius: BorderRadius.circular(16),
+          border: Border.all(color: hovered ? AppTheme.coral : rule),
+          boxShadow: hovered
+              ? const [
+                  BoxShadow(
+                    color: Color(0x140E1320),
+                    blurRadius: 30,
+                    offset: Offset(0, 12),
+                  ),
+                ]
+              : null,
+        ),
+        padding: const EdgeInsets.all(20),
+        child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Row(
@@ -596,8 +584,7 @@ class _CategoryCardState extends State<_CategoryCard> {
             ],
           ),
         ),
-      ),
-    );
+      );
   }
 }
 
@@ -648,38 +635,33 @@ class _AllPacksCard extends StatefulWidget {
 }
 
 class _AllPacksCardState extends State<_AllPacksCard> {
-  bool _hover = false;
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
     final coralSoft = isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft;
-    return MouseRegion(
-      cursor: SystemMouseCursors.click,
-      onEnter: (_) => setState(() => _hover = true),
-      onExit: (_) => setState(() => _hover = false),
-      child: GestureDetector(
-        onTap: () => appCoordinator.navigate(AllPacksRoute()),
-        child: AnimatedContainer(
-          duration: const Duration(milliseconds: 150),
-          transform: _hover
-              ? (Matrix4.translationValues(0, -2, 0))
-              : Matrix4.identity(),
-          decoration: BoxDecoration(
-            color: coralSoft,
-            borderRadius: BorderRadius.circular(16),
-            border: Border.all(color: AppTheme.coral),
-            boxShadow: _hover
-                ? const [
-                    BoxShadow(
-                      color: Color(0x140E1320),
-                      blurRadius: 30,
-                      offset: Offset(0, 12),
-                    ),
-                  ]
-                : null,
-          ),
-          padding: const EdgeInsets.all(20),
-          child: Column(
+    return HoverBuilder(
+      onTap: () => appCoordinator.navigate(AllPacksRoute()),
+      builder: (ctx, hovered) => AnimatedContainer(
+        duration: const Duration(milliseconds: 150),
+        transform: hovered
+            ? Matrix4.translationValues(0, -2, 0)
+            : Matrix4.identity(),
+        decoration: BoxDecoration(
+          color: coralSoft,
+          borderRadius: BorderRadius.circular(16),
+          border: Border.all(color: AppTheme.coral),
+          boxShadow: hovered
+              ? const [
+                  BoxShadow(
+                    color: Color(0x140E1320),
+                    blurRadius: 30,
+                    offset: Offset(0, 12),
+                  ),
+                ]
+              : null,
+        ),
+        padding: const EdgeInsets.all(20),
+        child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Row(
@@ -740,8 +722,7 @@ class _AllPacksCardState extends State<_AllPacksCard> {
             ],
           ),
         ),
-      ),
-    );
+      );
   }
 }
 
@@ -814,7 +795,6 @@ class _PopTile extends StatefulWidget {
 }
 
 class _PopTileState extends State<_PopTile> {
-  bool _hover = false;
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
@@ -822,31 +802,26 @@ class _PopTileState extends State<_PopTile> {
     final rule = isDark ? AppTheme.ruleDark : AppTheme.rule;
     final ink2 = isDark ? AppTheme.ink2Dark : AppTheme.ink2;
     final coralSoft = isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft;
-    return MouseRegion(
-      cursor: SystemMouseCursors.click,
-      onEnter: (_) => setState(() => _hover = true),
-      onExit: (_) => setState(() => _hover = false),
-      child: GestureDetector(
+    return AspectRatio(
+      aspectRatio: 1,
+      child: HoverBuilder(
         onTap: () => appCoordinator
             .navigate(PackDetailRoute(prefix: widget.record.prefix)),
-        child: AspectRatio(
-          aspectRatio: 1,
-          child: AnimatedContainer(
-            duration: const Duration(milliseconds: 120),
-            transform: _hover
-                ? (Matrix4.translationValues(0, -1, 0))
-                : Matrix4.identity(),
-            decoration: BoxDecoration(
-              color: _hover ? coralSoft : card,
-              border: Border.all(color: _hover ? AppTheme.coral : rule),
-              borderRadius: BorderRadius.circular(12),
-            ),
-            child: Center(
-              child: IconifyIcon(
-                widget.record.toIconifyData(),
-                size: 28,
-                color: _hover ? AppTheme.coral : ink2,
-              ),
+        builder: (ctx, hovered) => AnimatedContainer(
+          duration: const Duration(milliseconds: 120),
+          transform: hovered
+              ? Matrix4.translationValues(0, -1, 0)
+              : Matrix4.identity(),
+          decoration: BoxDecoration(
+            color: hovered ? coralSoft : card,
+            border: Border.all(color: hovered ? AppTheme.coral : rule),
+            borderRadius: BorderRadius.circular(12),
+          ),
+          child: Center(
+            child: IconifyIcon(
+              widget.record.toIconifyData(),
+              size: 28,
+              color: hovered ? AppTheme.coral : ink2,
             ),
           ),
         ),
@@ -870,26 +845,22 @@ class _TextButtonWithIcon extends StatefulWidget {
 }
 
 class _TextButtonWithIconState extends State<_TextButtonWithIcon> {
-  bool _hover = false;
   @override
   Widget build(BuildContext context) {
-    final color = _hover ? AppTheme.coral : AppTheme.muted;
-    return MouseRegion(
-      cursor: SystemMouseCursors.click,
-      onEnter: (_) => setState(() => _hover = true),
-      onExit: (_) => setState(() => _hover = false),
-      child: GestureDetector(
-        onTap: widget.onTap,
-        child: Row(
-          mainAxisSize: MainAxisSize.min,
-          children: [
-            Text(widget.label,
-                style: TextStyle(
-                    fontSize: 13, color: color, fontWeight: FontWeight.w500)),
-            const SizedBox(width: 4),
-            Icon(widget.icon, color: color, size: 14),
-          ],
-        ),
+    return HoverBuilder(
+      onTap: widget.onTap,
+      builder: (ctx, hovered) => Row(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          Text(widget.label,
+              style: TextStyle(
+                  fontSize: 13,
+                  color: hovered ? AppTheme.coral : AppTheme.muted,
+                  fontWeight: FontWeight.w500)),
+          const SizedBox(width: 4),
+          Icon(widget.icon,
+              color: hovered ? AppTheme.coral : AppTheme.muted, size: 14),
+        ],
       ),
     );
   }

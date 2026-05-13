@@ -9,6 +9,7 @@ import '../../router/coordinator.dart';
 import '../../router/routes/shell/app_shell_layout.dart';
 import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/pack_detail_route.dart';
+import '../../shared/widgets/hover_box.dart';
 import '../../theme/app_theme.dart';
 
 class IconDetailPage extends StatelessWidget {
@@ -115,28 +116,20 @@ class _Breadcrumb extends StatelessWidget {
   }
 }
 
-class _CrumbLink extends StatefulWidget {
+class _CrumbLink extends StatelessWidget {
   const _CrumbLink({required this.label, required this.onTap});
   final String label;
   final VoidCallback onTap;
-  @override
-  State<_CrumbLink> createState() => _CrumbLinkState();
-}
 
-class _CrumbLinkState extends State<_CrumbLink> {
-  bool _hover = false;
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
     final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
-    return MouseRegion(
-      cursor: SystemMouseCursors.click,
-      onEnter: (_) => setState(() => _hover = true),
-      onExit: (_) => setState(() => _hover = false),
-      child: GestureDetector(
-        onTap: widget.onTap,
-        child: Text(widget.label, style: AppTheme.mono(size: 12, color: _hover ? AppTheme.coral : muted)),
-      ),
+    return HoverBuilder(
+      onTap: onTap,
+      builder: (ctx, hovered) => Text(label,
+          style: AppTheme.mono(
+              size: 12, color: hovered ? AppTheme.coral : muted)),
     );
   }
 }
@@ -373,7 +366,6 @@ class _CopyChip extends StatefulWidget {
 }
 
 class _CopyChipState extends State<_CopyChip> {
-  bool _hover = false;
   bool _copied = false;
   Future<void> _do() async {
     await Clipboard.setData(ClipboardData(text: widget.text));
@@ -382,29 +374,25 @@ class _CopyChipState extends State<_CopyChip> {
     await Future.delayed(const Duration(milliseconds: 1400));
     if (mounted) setState(() => _copied = false);
   }
+
   @override
   Widget build(BuildContext context) {
-    return MouseRegion(
-      cursor: SystemMouseCursors.click,
-      onEnter: (_) => setState(() => _hover = true),
-      onExit: (_) => setState(() => _hover = false),
-      child: GestureDetector(
-        onTap: _do,
-        child: AnimatedContainer(
-          duration: const Duration(milliseconds: 120),
-          padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
-          decoration: BoxDecoration(
-            color: _hover ? AppTheme.coral : Colors.transparent,
-            borderRadius: BorderRadius.circular(6),
-          ),
-          child: Text(
-            _copied ? 'COPIED' : 'COPY',
-            style: AppTheme.mono(
-              size: 11,
-              weight: FontWeight.w600,
-              color: _hover ? Colors.white : widget.color,
-              letterSpacing: 0.5,
-            ),
+    return HoverBuilder(
+      onTap: _do,
+      builder: (ctx, hovered) => AnimatedContainer(
+        duration: const Duration(milliseconds: 120),
+        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+        decoration: BoxDecoration(
+          color: hovered ? AppTheme.coral : Colors.transparent,
+          borderRadius: BorderRadius.circular(6),
+        ),
+        child: Text(
+          _copied ? 'COPIED' : 'COPY',
+          style: AppTheme.mono(
+            size: 11,
+            weight: FontWeight.w600,
+            color: hovered ? Colors.white : widget.color,
+            letterSpacing: 0.5,
           ),
         ),
       ),
@@ -520,41 +508,34 @@ class _RelatedTile extends StatefulWidget {
 }
 
 class _RelatedTileState extends State<_RelatedTile> {
-  bool _hover = false;
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
     final ink2 = isDark ? AppTheme.ink2Dark : AppTheme.ink2;
     final coralSoft = isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft;
-    return MouseRegion(
-      cursor: SystemMouseCursors.click,
-      onEnter: (_) => setState(() => _hover = true),
-      onExit: (_) => setState(() => _hover = false),
-      child: GestureDetector(
-        onTap: () => appCoordinator.push(
-          PackDetailRoute(prefix: widget.record.prefix),
-        ),
-        child: AspectRatio(
-          aspectRatio: 1,
-          child: Tooltip(
-            message: widget.record.name,
-            child: AnimatedContainer(
-              duration: const Duration(milliseconds: 100),
-              decoration: BoxDecoration(
-                color: _hover ? coralSoft : Colors.transparent,
-                border: Border.all(
-                  color: _hover ? AppTheme.coral : Theme.of(context).dividerColor,
-                ),
-                borderRadius: BorderRadius.circular(8),
+    return AspectRatio(
+      aspectRatio: 1,
+      child: Tooltip(
+        message: widget.record.name,
+        child: HoverBuilder(
+          onTap: () => appCoordinator
+              .push(PackDetailRoute(prefix: widget.record.prefix)),
+          builder: (ctx, hovered) => AnimatedContainer(
+            duration: const Duration(milliseconds: 100),
+            decoration: BoxDecoration(
+              color: hovered ? coralSoft : Colors.transparent,
+              border: Border.all(
+                color: hovered ? AppTheme.coral : Theme.of(context).dividerColor,
               ),
-              child: Center(
-                child: FittedBox(
-                  fit: BoxFit.contain,
-                  child: IconifyIcon(
-                    widget.record.toIconifyData(),
-                    size: 22,
-                    color: _hover ? AppTheme.coral : ink2,
-                  ),
+              borderRadius: BorderRadius.circular(8),
+            ),
+            child: Center(
+              child: FittedBox(
+                fit: BoxFit.contain,
+                child: IconifyIcon(
+                  widget.record.toIconifyData(),
+                  size: 22,
+                  color: hovered ? AppTheme.coral : ink2,
                 ),
               ),
             ),
@@ -576,38 +557,28 @@ class _PrimaryButton extends StatefulWidget {
 }
 
 class _PrimaryButtonState extends State<_PrimaryButton> {
-  bool _hover = false;
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
     final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
-    return MouseRegion(
-      cursor: SystemMouseCursors.click,
-      onEnter: (_) => setState(() => _hover = true),
-      onExit: (_) => setState(() => _hover = false),
-      child: GestureDetector(
-        onTap: widget.onTap,
-        child: AnimatedContainer(
-          duration: const Duration(milliseconds: 120),
-          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
-          decoration: BoxDecoration(
-            color: _hover ? ink : AppTheme.coral,
-            borderRadius: BorderRadius.circular(10),
-          ),
-          child: Row(
-            mainAxisSize: MainAxisSize.min,
-            children: [
-              Icon(widget.icon, size: 16, color: Colors.white),
-              const SizedBox(width: 6),
-              Text(widget.label,
-                  style: const TextStyle(
-                    color: Colors.white,
-                    fontSize: 13,
-                    fontWeight: FontWeight.w600,
-                  )),
-            ],
-          ),
-        ),
+    return HoverBox(
+      onTap: widget.onTap,
+      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
+      borderRadius: 10,
+      bg: AppTheme.coral,
+      hoverBg: ink,
+      child: Row(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          Icon(widget.icon, size: 16, color: Colors.white),
+          const SizedBox(width: 6),
+          Text(widget.label,
+              style: const TextStyle(
+                color: Colors.white,
+                fontSize: 13,
+                fontWeight: FontWeight.w600,
+              )),
+        ],
       ),
     );
   }
@@ -623,7 +594,6 @@ class _SecondaryButton extends StatefulWidget {
 }
 
 class _SecondaryButtonState extends State<_SecondaryButton> {
-  bool _hover = false;
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
@@ -631,34 +601,25 @@ class _SecondaryButtonState extends State<_SecondaryButton> {
     final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
     final rule = isDark ? AppTheme.ruleDark : AppTheme.rule;
     final card = isDark ? AppTheme.cardDark : AppTheme.card;
-    return MouseRegion(
-      cursor: SystemMouseCursors.click,
-      onEnter: (_) => setState(() => _hover = true),
-      onExit: (_) => setState(() => _hover = false),
-      child: GestureDetector(
-        onTap: widget.onTap,
-        child: AnimatedContainer(
-          duration: const Duration(milliseconds: 120),
-          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
-          decoration: BoxDecoration(
-            color: card,
-            border: Border.all(color: _hover ? ink : rule),
-            borderRadius: BorderRadius.circular(10),
-          ),
-          child: Row(
-            mainAxisSize: MainAxisSize.min,
-            children: [
-              Icon(widget.icon, size: 16, color: ink2),
-              const SizedBox(width: 6),
-              Text(widget.label,
-                  style: TextStyle(
-                    color: ink2,
-                    fontSize: 13,
-                    fontWeight: FontWeight.w600,
-                  )),
-            ],
-          ),
-        ),
+    return HoverBox(
+      onTap: widget.onTap,
+      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
+      borderRadius: 10,
+      bg: card,
+      borderColor: rule,
+      hoverBorderColor: ink,
+      child: Row(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          Icon(widget.icon, size: 16, color: ink2),
+          const SizedBox(width: 6),
+          Text(widget.label,
+              style: TextStyle(
+                color: ink2,
+                fontSize: 13,
+                fontWeight: FontWeight.w600,
+              )),
+        ],
       ),
     );
   }

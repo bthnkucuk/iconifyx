@@ -4,6 +4,8 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:iconifyx_core/iconifyx_core.dart';
 import 'package:url_launcher/url_launcher.dart';
 
+import '../../shared/widgets/hover_box.dart';
+
 import '../../bootstrap/bootstrap_bloc.dart';
 import '../../bootstrap/icon_catalog.dart';
 import '../../router/coordinator.dart';
@@ -479,7 +481,6 @@ class _Body extends StatelessWidget {
           key: key,
           entry: entries[i],
           active: i == activeIndex,
-          onHover: () => onActiveChanged(i),
           onTap: () => onActivate(entries[i]),
         ));
       }
@@ -560,19 +561,18 @@ class _SectionTitle extends StatelessWidget {
   }
 }
 
-// ─── Palette row ────────────────────────────────────────────────────────────
+// ─── Palette row (Mix-powered, no setState on hover) ────────────────────────
 class _PaletteRow extends StatelessWidget {
   const _PaletteRow({
     super.key,
     required this.entry,
     required this.active,
     required this.onTap,
-    required this.onHover,
   });
   final _Entry entry;
   final bool active;
   final VoidCallback onTap;
-  final VoidCallback onHover;
+
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
@@ -582,16 +582,21 @@ class _PaletteRow extends StatelessWidget {
     final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
     final ink2 = isDark ? AppTheme.ink2Dark : AppTheme.ink2;
     final coralSoft = isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft;
-    final bg = active ? coralSoft : Colors.transparent;
-    final fg = active ? AppTheme.coral : ink;
-    final subFg = active ? AppTheme.coral.withValues(alpha: 0.8) : muted;
-    return MouseRegion(
-      cursor: SystemMouseCursors.click,
-      onEnter: (_) => onHover(),
-      child: GestureDetector(
-        onTap: onTap,
-        child: AnimatedContainer(
-          duration: const Duration(milliseconds: 80),
+
+    // Active (keyboard nav) is pre-painted; mouse hover is handled INSIDE the
+    // HoverBuilder via an oref signal so it only rebuilds this row's subtree.
+    return HoverBuilder(
+      onTap: onTap,
+      builder: (ctx, hovered) {
+        final showCoral = active || hovered;
+        final bg = showCoral ? coralSoft : Colors.transparent;
+        final fg = showCoral ? AppTheme.coral : ink;
+        final subFg =
+            showCoral ? AppTheme.coral.withValues(alpha: 0.8) : muted;
+        final leadingBg = showCoral ? card : paper2;
+        final leadingFg = showCoral ? AppTheme.coral : ink2;
+        return AnimatedContainer(
+          duration: const Duration(milliseconds: 90),
           padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 9),
           decoration: BoxDecoration(
             color: bg,
@@ -600,10 +605,10 @@ class _PaletteRow extends StatelessWidget {
           child: Row(
             children: [
               entry.buildLeading(
-                  active: active,
-                  bg: active ? card : paper2,
-                  fg: active ? AppTheme.coral : ink2,
-                  context: context),
+                  active: showCoral,
+                  bg: leadingBg,
+                  fg: leadingFg,
+                  context: ctx),
               const SizedBox(width: 12),
               Expanded(
                 child: Column(
@@ -627,8 +632,7 @@ class _PaletteRow extends StatelessWidget {
               ),
               if (active)
                 Container(
-                  padding:
-                      const EdgeInsets.symmetric(horizontal: 7, vertical: 3),
+                  padding: const EdgeInsets.symmetric(horizontal: 7, vertical: 3),
                   decoration: BoxDecoration(
                     border: Border.all(color: AppTheme.coral),
                     borderRadius: BorderRadius.circular(4),
@@ -638,8 +642,8 @@ class _PaletteRow extends StatelessWidget {
                 ),
             ],
           ),
-        ),
-      ),
+        );
+      },
     );
   }
 }
@@ -676,33 +680,27 @@ class _PopularTile extends StatefulWidget {
 }
 
 class _PopularTileState extends State<_PopularTile> {
-  bool _hover = false;
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
     final paper2 = isDark ? AppTheme.paper2Dark : AppTheme.paper2;
     final coralSoft = isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft;
     final ink2 = isDark ? AppTheme.ink2Dark : AppTheme.ink2;
-    return MouseRegion(
-      cursor: SystemMouseCursors.click,
-      onEnter: (_) => setState(() => _hover = true),
-      onExit: (_) => setState(() => _hover = false),
-      child: GestureDetector(
-        onTap: () => appCoordinator.push(
-          IconDetailRoute(prefix: widget.record.prefix, name: widget.record.name),
+    return HoverBuilder(
+      onTap: () => appCoordinator.push(
+        IconDetailRoute(prefix: widget.record.prefix, name: widget.record.name),
+      ),
+      builder: (ctx, hovered) => AnimatedContainer(
+        duration: const Duration(milliseconds: 100),
+        decoration: BoxDecoration(
+          color: hovered ? coralSoft : paper2,
+          borderRadius: BorderRadius.circular(8),
         ),
-        child: AnimatedContainer(
-          duration: const Duration(milliseconds: 100),
-          decoration: BoxDecoration(
-            color: _hover ? coralSoft : paper2,
-            borderRadius: BorderRadius.circular(8),
-          ),
-          child: Center(
-            child: IconifyIcon(
-              widget.record.toIconifyData(),
-              size: 20,
-              color: _hover ? AppTheme.coral : ink2,
-            ),
+        child: Center(
+          child: IconifyIcon(
+            widget.record.toIconifyData(),
+            size: 20,
+            color: hovered ? AppTheme.coral : ink2,
           ),
         ),
       ),

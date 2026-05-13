@@ -9,6 +9,7 @@ import '../../router/routes/shell/app_shell_layout.dart';
 import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/icon_detail_route.dart';
 import '../../shared/bloc/pack_bloc.dart';
+import '../../shared/widgets/hover_box.dart';
 import '../../theme/app_theme.dart';
 
 class PackDetailPage extends StatelessWidget {
@@ -149,32 +150,23 @@ class _Breadcrumb extends StatelessWidget {
   }
 }
 
-class _CrumbLink extends StatefulWidget {
+class _CrumbLink extends StatelessWidget {
   const _CrumbLink({required this.label, required this.onTap});
   final String label;
   final VoidCallback onTap;
 
   @override
-  State<_CrumbLink> createState() => _CrumbLinkState();
-}
-
-class _CrumbLinkState extends State<_CrumbLink> {
-  bool _hover = false;
-  @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
     final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
-    return MouseRegion(
-      cursor: SystemMouseCursors.click,
-      onEnter: (_) => setState(() => _hover = true),
-      onExit: (_) => setState(() => _hover = false),
-      child: GestureDetector(
-        onTap: widget.onTap,
-        child: Text(widget.label,
-            style: AppTheme.mono(
-              size: 12,
-              color: _hover ? AppTheme.coral : muted,
-            )),
+    return HoverBuilder(
+      onTap: onTap,
+      builder: (ctx, hovered) => Text(
+        label,
+        style: AppTheme.mono(
+          size: 12,
+          color: hovered ? AppTheme.coral : muted,
+        ),
       ),
     );
   }
@@ -287,7 +279,6 @@ class _SizeBtn extends StatefulWidget {
 }
 
 class _SizeBtnState extends State<_SizeBtn> {
-  bool _hover = false;
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
@@ -296,34 +287,24 @@ class _SizeBtnState extends State<_SizeBtn> {
     final paper2 = isDark ? AppTheme.paper2Dark : AppTheme.paper2;
     final coralSoft = isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft;
     final active = widget.active;
-    final bg = active ? coralSoft : (_hover ? paper2 : Colors.transparent);
     final fg = active ? AppTheme.coral : ink2;
-    return MouseRegion(
-      cursor: SystemMouseCursors.click,
-      onEnter: (_) => setState(() => _hover = true),
-      onExit: (_) => setState(() => _hover = false),
-      child: GestureDetector(
-        onTap: widget.onTap,
-        child: AnimatedContainer(
-          duration: const Duration(milliseconds: 120),
-          width: 32,
-          height: 32,
-          decoration: BoxDecoration(
-            color: bg,
-            border: Border.all(color: active ? AppTheme.coral : rule),
-            borderRadius: BorderRadius.circular(8),
-          ),
-          alignment: Alignment.center,
-          child: Icon(
-            widget.size <= 20
-                ? Icons.grid_view_rounded
-                : widget.size <= 24
-                    ? Icons.grid_view_outlined
-                    : Icons.apps_outlined,
-            size: 14,
-            color: fg,
-          ),
-        ),
+    return HoverBox(
+      onTap: widget.onTap,
+      width: 32,
+      height: 32,
+      borderRadius: 8,
+      borderColor: active ? AppTheme.coral : rule,
+      bg: active ? coralSoft : Colors.transparent,
+      hoverBg: active ? coralSoft : paper2,
+      alignment: Alignment.center,
+      child: Icon(
+        widget.size <= 20
+            ? Icons.grid_view_rounded
+            : widget.size <= 24
+                ? Icons.grid_view_outlined
+                : Icons.apps_outlined,
+        size: 14,
+        color: fg,
       ),
     );
   }
@@ -392,39 +373,33 @@ class _IconCell extends StatefulWidget {
 }
 
 class _IconCellState extends State<_IconCell> {
-  bool _hover = false;
-
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
     final ink2 = isDark ? AppTheme.ink2Dark : AppTheme.ink2;
     final coralSoft = isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft;
-    return MouseRegion(
-      cursor: SystemMouseCursors.click,
-      onEnter: (_) => setState(() => _hover = true),
-      onExit: (_) => setState(() => _hover = false),
-      child: GestureDetector(
-        onTap: () => appCoordinator.push(
-          IconDetailRoute(prefix: widget.record.prefix, name: widget.record.name),
-        ),
-        child: Tooltip(
-          message: widget.record.name,
-          child: AspectRatio(
-            aspectRatio: 1,
-            child: AnimatedContainer(
-              duration: const Duration(milliseconds: 100),
-              decoration: BoxDecoration(
-                color: _hover ? coralSoft : Colors.transparent,
-                borderRadius: BorderRadius.circular(10),
-              ),
-              child: Center(
-                child: FittedBox(
-                  fit: BoxFit.contain,
-                  child: IconifyIcon(
-                    widget.record.toIconifyData(),
-                    size: widget.iconSize,
-                    color: _hover ? AppTheme.coral : ink2,
-                  ),
+    return Tooltip(
+      message: widget.record.name,
+      child: AspectRatio(
+        aspectRatio: 1,
+        child: HoverBuilder(
+          onTap: () => appCoordinator.push(
+            IconDetailRoute(
+                prefix: widget.record.prefix, name: widget.record.name),
+          ),
+          builder: (ctx, hovered) => AnimatedContainer(
+            duration: const Duration(milliseconds: 100),
+            decoration: BoxDecoration(
+              color: hovered ? coralSoft : Colors.transparent,
+              borderRadius: BorderRadius.circular(10),
+            ),
+            child: Center(
+              child: FittedBox(
+                fit: BoxFit.contain,
+                child: IconifyIcon(
+                  widget.record.toIconifyData(),
+                  size: widget.iconSize,
+                  color: hovered ? AppTheme.coral : ink2,
                 ),
               ),
             ),
