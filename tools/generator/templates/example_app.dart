@@ -417,18 +417,13 @@ class _SidebarSetTile extends StatelessWidget {
                   children: [
                     for (var i = 0; i < samples.length; i++) ...[
                       if (i > 0) const SizedBox(width: 8),
-                      samples[i].isDuotone
-                          ? _squareDuotone(
-                              primary: samples[i].data,
-                              secondary: samples[i].secondary!,
-                              size: 22,
-                              primaryColor: iconColor,
-                              secondaryColor: iconColor,
-                              secondaryOpacity: 0.35,
-                            )
-                          : _squareIcon(
-                              samples[i].data.data, 22, iconColor,
-                            ),
+                      _squareIconify(
+                        icon: samples[i].icon,
+                        size: 22,
+                        color: iconColor,
+                        secondaryColor: iconColor,
+                        secondaryOpacity: 0.35,
+                      ),
                     ],
                   ],
                 ),
@@ -452,38 +447,26 @@ class _SidebarSetTile extends StatelessWidget {
 // Constrain any Iconify icon to a square box, scaling down icons whose font
 // glyph naturally renders wider than tall (svg-logos icons, many Logos sets
 // have ~32×17 viewBox). FittedBox.contain keeps aspect ratio; without it
-// `Icon(size: 24)` for a wide glyph paints at 48×24 and overflows the tile.
-Widget _squareIcon(IconData data, double size, Color? color) {
-  return SizedBox.square(
-    dimension: size,
-    child: FittedBox(
-      fit: BoxFit.contain,
-      child: Icon(data, size: size, color: color),
-    ),
-  );
-}
-
-Widget _squareDuotone({
-  required IconifyIconData primary,
-  required IconifyIconData secondary,
+// the wide glyph would paint past the tile bounds.
+Widget _squareIconify({
+  required IconifyIconData icon,
   required double size,
-  Color? primaryColor,
+  Color? color,
   Color? secondaryColor,
   double secondaryOpacity = 0.4,
 }) {
+  final widget = icon.isDuotone
+      ? IconifyIcon.duotone(
+          icon,
+          size: size,
+          color: color,
+          secondaryColor: secondaryColor,
+          secondaryOpacity: secondaryOpacity,
+        )
+      : IconifyIcon(icon, size: size, color: color);
   return SizedBox.square(
     dimension: size,
-    child: FittedBox(
-      fit: BoxFit.contain,
-      child: IconifyDuotoneIcon(
-        primary,
-        secondary,
-        size: size,
-        primaryColor: primaryColor,
-        secondaryColor: secondaryColor,
-        secondaryOpacity: secondaryOpacity,
-      ),
-    ),
+    child: FittedBox(fit: BoxFit.contain, child: widget),
   );
 }
 
@@ -740,20 +723,13 @@ class _IconTile extends StatelessWidget {
               children: [
                 Expanded(
                   child: Center(
-                    child: entry.isDuotone
-                        ? _squareDuotone(
-                            primary: entry.data,
-                            secondary: entry.secondary!,
-                            size: iconSize,
-                            primaryColor: primary,
-                            secondaryColor: secondary,
-                            secondaryOpacity: secondaryOpacity,
-                          )
-                        : _squareIcon(
-                            entry.data.data,
-                            iconSize,
-                            primary,
-                          ),
+                    child: _squareIconify(
+                      icon: entry.icon,
+                      size: iconSize,
+                      color: primary,
+                      secondaryColor: secondary,
+                      secondaryOpacity: secondaryOpacity,
+                    ),
                   ),
                 ),
                 const SizedBox(height: 4),
@@ -821,16 +797,10 @@ class _IconDetails extends StatelessWidget {
   String _importLine() => "import 'package:$packageName/$packageName.dart';";
 
   String _usageSnippet() {
-    if (entry.isDuotone) {
-      return 'IconifyDuotoneIcon(\n'
-          '  ${_classFromPackage()}.${_identFromName(entry.name, suffix: 'Primary')},\n'
-          '  ${_classFromPackage()}.${_identFromName(entry.name, suffix: 'Secondary')},\n'
-          '  size: 24,\n'
-          ')';
-    }
-    return 'Icon(\n'
-        '  ${_classFromPackage()}.${_identFromName(entry.name)}.data,\n'
+    return 'IconifyIcon(\n'
+        '  ${_classFromPackage()}.${_identFromName(entry.name)},\n'
         '  size: 24,\n'
+        '${entry.isDuotone ? "  // duotone — customise secondary via IconifyIcon.duotone(...)\n" : ""}'
         ')';
   }
 
@@ -839,17 +809,13 @@ class _IconDetails extends StatelessWidget {
   }
 
   Widget _renderIcon({required double size, required Color color}) {
-    if (entry.isDuotone) {
-      return _squareDuotone(
-        primary: entry.data,
-        secondary: entry.secondary!,
-        size: size,
-        primaryColor: color,
-        secondaryColor: secondary,
-        secondaryOpacity: secondaryOpacity,
-      );
-    }
-    return _squareIcon(entry.data.data, size, color);
+    return _squareIconify(
+      icon: entry.icon,
+      size: size,
+      color: color,
+      secondaryColor: secondary,
+      secondaryOpacity: secondaryOpacity,
+    );
   }
 
   @override
@@ -860,7 +826,7 @@ class _IconDetails extends StatelessWidget {
     final previewFg = darkCanvas && primary.computeLuminance() < 0.3
         ? Colors.white
         : primary;
-    final cp = '0x${entry.data.codePoint.toRadixString(16)}';
+    final cp = '0x${entry.icon.primary.codePoint.toRadixString(16)}';
 
     return Padding(
       padding: EdgeInsets.fromLTRB(

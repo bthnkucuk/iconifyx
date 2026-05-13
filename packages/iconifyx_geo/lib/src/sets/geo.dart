@@ -17,213 +17,153 @@ class GeoIcons {
   const GeoIcons._();
 
   /// `turf-along`
-  static const IconifyIconData turfAlong = IconifyIconData(IconData(
-    0xe000,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfAlong = IconifyIconData.solo(
+    IconData(0xe000, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-bbox-polygon`
-  static const IconifyIconData turfBboxPolygon = IconifyIconData(IconData(
-    0xe001,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfBboxPolygon = IconifyIconData.solo(
+    IconData(0xe001, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-bezier`
-  static const IconifyIconData turfBezier = IconifyIconData(IconData(
-    0xe002,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfBezier = IconifyIconData.solo(
+    IconData(0xe002, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-buffer`
-  static const IconifyIconData turfBuffer = IconifyIconData(IconData(
-    0xe003,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfBuffer = IconifyIconData.solo(
+    IconData(0xe003, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-center`
-  static const IconifyIconData turfCenter = IconifyIconData(IconData(
-    0xe004,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfCenter = IconifyIconData.solo(
+    IconData(0xe004, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-centroid`
-  static const IconifyIconData turfCentroid = IconifyIconData(IconData(
-    0xe005,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfCentroid = IconifyIconData.solo(
+    IconData(0xe005, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-concave`
-  static const IconifyIconData turfConcave = IconifyIconData(IconData(
-    0xe006,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfConcave = IconifyIconData.solo(
+    IconData(0xe006, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-convex`
-  static const IconifyIconData turfConvex = IconifyIconData(IconData(
-    0xe007,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfConvex = IconifyIconData.solo(
+    IconData(0xe007, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-destination`
-  static const IconifyIconData turfDestination = IconifyIconData(IconData(
-    0xe008,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfDestination = IconifyIconData.solo(
+    IconData(0xe008, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-envelope`
-  static const IconifyIconData turfEnvelope = IconifyIconData(IconData(
-    0xe009,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfEnvelope = IconifyIconData.solo(
+    IconData(0xe009, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-erased`
-  static const IconifyIconData turfErased = IconifyIconData(IconData(
-    0xe00a,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfErased = IconifyIconData.solo(
+    IconData(0xe00a, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-explode`
-  static const IconifyIconData turfExplode = IconifyIconData(IconData(
-    0xe00b,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfExplode = IconifyIconData.solo(
+    IconData(0xe00b, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-extent`
-  static const IconifyIconData turfExtent = IconifyIconData(IconData(
-    0xe00c,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfExtent = IconifyIconData.solo(
+    IconData(0xe00c, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-intersect`
-  static const IconifyIconData turfIntersect = IconifyIconData(IconData(
-    0xe00d,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfIntersect = IconifyIconData.solo(
+    IconData(0xe00d, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-kinks`
-  static const IconifyIconData turfKinks = IconifyIconData(IconData(
-    0xe00e,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfKinks = IconifyIconData.solo(
+    IconData(0xe00e, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-line-slice`
-  static const IconifyIconData turfLineSlice = IconifyIconData(IconData(
-    0xe00f,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfLineSlice = IconifyIconData.solo(
+    IconData(0xe00f, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-merge`
-  static const IconifyIconData turfMerge = IconifyIconData(IconData(
-    0xe010,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfMerge = IconifyIconData.solo(
+    IconData(0xe010, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-midpoint`
-  static const IconifyIconData turfMidpoint = IconifyIconData(IconData(
-    0xe011,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfMidpoint = IconifyIconData.solo(
+    IconData(0xe011, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-point-grid`
-  static const IconifyIconData turfPointGrid = IconifyIconData(IconData(
-    0xe012,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfPointGrid = IconifyIconData.solo(
+    IconData(0xe012, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-point-on-line`
-  static const IconifyIconData turfPointOnLine = IconifyIconData(IconData(
-    0xe013,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfPointOnLine = IconifyIconData.solo(
+    IconData(0xe013, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-point-on-surface`
-  static const IconifyIconData turfPointOnSurface = IconifyIconData(IconData(
-    0xe014,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfPointOnSurface = IconifyIconData.solo(
+    IconData(0xe014, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-simplify`
-  static const IconifyIconData turfSimplify = IconifyIconData(IconData(
-    0xe015,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfSimplify = IconifyIconData.solo(
+    IconData(0xe015, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-size`
-  static const IconifyIconData turfSize = IconifyIconData(IconData(
-    0xe016,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfSize = IconifyIconData.solo(
+    IconData(0xe016, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-square`
-  static const IconifyIconData turfSquare = IconifyIconData(IconData(
-    0xe017,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfSquare = IconifyIconData.solo(
+    IconData(0xe017, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-square-grid`
-  static const IconifyIconData turfSquareGrid = IconifyIconData(IconData(
-    0xe018,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfSquareGrid = IconifyIconData.solo(
+    IconData(0xe018, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-tin`
-  static const IconifyIconData turfTin = IconifyIconData(IconData(
-    0xe019,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfTin = IconifyIconData.solo(
+    IconData(0xe019, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-triangle-grid`
-  static const IconifyIconData turfTriangleGrid = IconifyIconData(IconData(
-    0xe01a,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfTriangleGrid = IconifyIconData.solo(
+    IconData(0xe01a, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `turf-union`
-  static const IconifyIconData turfUnion = IconifyIconData(IconData(
-    0xe01b,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData turfUnion = IconifyIconData.solo(
+    IconData(0xe01b, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `ui-earth-east`
-  static const IconifyIconData uiEarthEast = IconifyIconData(IconData(
-    0xe01c,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData uiEarthEast = IconifyIconData.solo(
+    IconData(0xe01c, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
   /// `ui-earth-west`
-  static const IconifyIconData uiEarthWest = IconifyIconData(IconData(
-    0xe01d,
-    fontFamily: 'Geo',
-    fontPackage: 'iconifyx_geo',
-  ));
+  static const IconifyIconData uiEarthWest = IconifyIconData.solo(
+    IconData(0xe01d, fontFamily: 'Geo', fontPackage: 'iconifyx_geo'),
+  );
 
 }

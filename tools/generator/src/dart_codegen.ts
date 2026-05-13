@@ -72,34 +72,25 @@ export function emitSetDart(input: DartCodegenInput): string {
     if (entry.deprecated) continue;
 
     if (entry.duotone) {
-      // Two const fields per duotone icon: <identifier>Primary lives in the
-      // primary font family; <identifier>Secondary at the same codepoint in
-      // the matching Secondary font. Users compose them via the
-      // IconifyDuotoneIcon widget from iconifyx_core.
+      // Single const per duotone icon: IconifyIconData.duo bundles both
+      // layers (primary in the regular font, secondary at the same
+      // codepoint in <Family>Secondary). Render with IconifyIcon — it
+      // auto-detects isDuotone and paints both layers in a single
+      // render layer.
       const secFamily = secondaryFontFamily(entry.fontFamily);
-      lines.push(`  /// \`${escapeDoc(name)}\` — primary layer (full opacity)`);
-      lines.push(`  static const IconifyIconData ${entry.identifier}Primary = IconifyIconData(IconData(`);
-      lines.push(`    ${formatCodepoint(entry.codepoint)},`);
-      lines.push(`    fontFamily: '${entry.fontFamily}',`);
-      lines.push(`    fontPackage: '${fontPackage}',`);
-      lines.push(`  ));`);
-      lines.push('');
-      lines.push(`  /// \`${escapeDoc(name)}\` — secondary layer (rendered translucent by IconifyDuotoneIcon)`);
-      lines.push(`  static const IconifyIconData ${entry.identifier}Secondary = IconifyIconData(IconData(`);
-      lines.push(`    ${formatCodepoint(entry.codepoint)},`);
-      lines.push(`    fontFamily: '${secFamily}',`);
-      lines.push(`    fontPackage: '${fontPackage}',`);
-      lines.push(`  ));`);
+      lines.push(`  /// \`${escapeDoc(name)}\` (duo-tone)`);
+      lines.push(`  static const IconifyIconData ${entry.identifier} = IconifyIconData.duo(`);
+      lines.push(`    IconData(${formatCodepoint(entry.codepoint)}, fontFamily: '${entry.fontFamily}', fontPackage: '${fontPackage}'),`);
+      lines.push(`    IconData(${formatCodepoint(entry.codepoint)}, fontFamily: '${secFamily}', fontPackage: '${fontPackage}'),`);
+      lines.push(`  );`);
       lines.push('');
       continue;
     }
 
     lines.push(`  /// \`${escapeDoc(name)}\``);
-    lines.push(`  static const IconifyIconData ${entry.identifier} = IconifyIconData(IconData(`);
-    lines.push(`    ${formatCodepoint(entry.codepoint)},`);
-    lines.push(`    fontFamily: '${entry.fontFamily}',`);
-    lines.push(`    fontPackage: '${fontPackage}',`);
-    lines.push(`  ));`);
+    lines.push(`  static const IconifyIconData ${entry.identifier} = IconifyIconData.solo(`);
+    lines.push(`    IconData(${formatCodepoint(entry.codepoint)}, fontFamily: '${entry.fontFamily}', fontPackage: '${fontPackage}'),`);
+    lines.push(`  );`);
     lines.push('');
   }
 

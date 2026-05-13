@@ -17,143 +17,103 @@ class StreamlineKameleonColorIcons {
   const StreamlineKameleonColorIcons._();
 
   /// `airconditioner`
-  static const IconifyIconData airconditioner = IconifyIconData(IconData(
-    0xe000,
-    fontFamily: 'StreamlineKameleonColor',
-    fontPackage: 'iconifyx_streamline_kameleon_color',
-  ));
+  static const IconifyIconData airconditioner = IconifyIconData.solo(
+    IconData(0xe000, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
+  );
 
   /// `chair-4`
-  static const IconifyIconData chair4 = IconifyIconData(IconData(
-    0xe001,
-    fontFamily: 'StreamlineKameleonColor',
-    fontPackage: 'iconifyx_streamline_kameleon_color',
-  ));
+  static const IconifyIconData chair4 = IconifyIconData.solo(
+    IconData(0xe001, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
+  );
 
   /// `cone`
-  static const IconifyIconData cone = IconifyIconData(IconData(
-    0xe002,
-    fontFamily: 'StreamlineKameleonColor',
-    fontPackage: 'iconifyx_streamline_kameleon_color',
-  ));
+  static const IconifyIconData cone = IconifyIconData.solo(
+    IconData(0xe002, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
+  );
 
   /// `conversion`
-  static const IconifyIconData conversion = IconifyIconData(IconData(
-    0xe003,
-    fontFamily: 'StreamlineKameleonColor',
-    fontPackage: 'iconifyx_streamline_kameleon_color',
-  ));
+  static const IconifyIconData conversion = IconifyIconData.solo(
+    IconData(0xe003, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
+  );
 
   /// `coupons`
-  static const IconifyIconData coupons = IconifyIconData(IconData(
-    0xe004,
-    fontFamily: 'StreamlineKameleonColor',
-    fontPackage: 'iconifyx_streamline_kameleon_color',
-  ));
+  static const IconifyIconData coupons = IconifyIconData.solo(
+    IconData(0xe004, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
+  );
 
   /// `download-cloud`
-  static const IconifyIconData downloadCloud = IconifyIconData(IconData(
-    0xe005,
-    fontFamily: 'StreamlineKameleonColor',
-    fontPackage: 'iconifyx_streamline_kameleon_color',
-  ));
+  static const IconifyIconData downloadCloud = IconifyIconData.solo(
+    IconData(0xe005, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
+  );
 
   /// `eco-tag`
-  static const IconifyIconData ecoTag = IconifyIconData(IconData(
-    0xe006,
-    fontFamily: 'StreamlineKameleonColor',
-    fontPackage: 'iconifyx_streamline_kameleon_color',
-  ));
+  static const IconifyIconData ecoTag = IconifyIconData.solo(
+    IconData(0xe006, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
+  );
 
   /// `enter-key`
-  static const IconifyIconData enterKey = IconifyIconData(IconData(
-    0xe007,
-    fontFamily: 'StreamlineKameleonColor',
-    fontPackage: 'iconifyx_streamline_kameleon_color',
-  ));
+  static const IconifyIconData enterKey = IconifyIconData.solo(
+    IconData(0xe007, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
+  );
 
   /// `filter`
-  static const IconifyIconData filter = IconifyIconData(IconData(
-    0xe008,
-    fontFamily: 'StreamlineKameleonColor',
-    fontPackage: 'iconifyx_streamline_kameleon_color',
-  ));
+  static const IconifyIconData filter = IconifyIconData.solo(
+    IconData(0xe008, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
+  );
 
   /// `heart-key`
-  static const IconifyIconData heartKey = IconifyIconData(IconData(
-    0xe009,
-    fontFamily: 'StreamlineKameleonColor',
-    fontPackage: 'iconifyx_streamline_kameleon_color',
-  ));
+  static const IconifyIconData heartKey = IconifyIconData.solo(
+    IconData(0xe009, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
+  );
 
   /// `nuclear-mushroom`
-  static const IconifyIconData nuclearMushroom = IconifyIconData(IconData(
-    0xe00a,
-    fontFamily: 'StreamlineKameleonColor',
-    fontPackage: 'iconifyx_streamline_kameleon_color',
-  ));
+  static const IconifyIconData nuclearMushroom = IconifyIconData.solo(
+    IconData(0xe00a, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
+  );
 
   /// `peace`
-  static const IconifyIconData peace = IconifyIconData(IconData(
-    0xe00b,
-    fontFamily: 'StreamlineKameleonColor',
-    fontPackage: 'iconifyx_streamline_kameleon_color',
-  ));
+  static const IconifyIconData peace = IconifyIconData.solo(
+    IconData(0xe00b, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
+  );
 
   /// `pointer`
-  static const IconifyIconData pointer = IconifyIconData(IconData(
-    0xe00c,
-    fontFamily: 'StreamlineKameleonColor',
-    fontPackage: 'iconifyx_streamline_kameleon_color',
-  ));
+  static const IconifyIconData pointer = IconifyIconData.solo(
+    IconData(0xe00c, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
+  );
 
   /// `popcorn`
-  static const IconifyIconData popcorn = IconifyIconData(IconData(
-    0xe00d,
-    fontFamily: 'StreamlineKameleonColor',
-    fontPackage: 'iconifyx_streamline_kameleon_color',
-  ));
+  static const IconifyIconData popcorn = IconifyIconData.solo(
+    IconData(0xe00d, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
+  );
 
   /// `pounds-coin`
-  static const IconifyIconData poundsCoin = IconifyIconData(IconData(
-    0xe00e,
-    fontFamily: 'StreamlineKameleonColor',
-    fontPackage: 'iconifyx_streamline_kameleon_color',
-  ));
+  static const IconifyIconData poundsCoin = IconifyIconData.solo(
+    IconData(0xe00e, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
+  );
 
   /// `prism-2`
-  static const IconifyIconData prism2 = IconifyIconData(IconData(
-    0xe00f,
-    fontFamily: 'StreamlineKameleonColor',
-    fontPackage: 'iconifyx_streamline_kameleon_color',
-  ));
+  static const IconifyIconData prism2 = IconifyIconData.solo(
+    IconData(0xe00f, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
+  );
 
   /// `rainbow`
-  static const IconifyIconData rainbow = IconifyIconData(IconData(
-    0xe010,
-    fontFamily: 'StreamlineKameleonColor',
-    fontPackage: 'iconifyx_streamline_kameleon_color',
-  ));
+  static const IconifyIconData rainbow = IconifyIconData.solo(
+    IconData(0xe010, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
+  );
 
   /// `soccer-field`
-  static const IconifyIconData soccerField = IconifyIconData(IconData(
-    0xe011,
-    fontFamily: 'StreamlineKameleonColor',
-    fontPackage: 'iconifyx_streamline_kameleon_color',
-  ));
+  static const IconifyIconData soccerField = IconifyIconData.solo(
+    IconData(0xe011, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
+  );
 
   /// `speaker`
-  static const IconifyIconData speaker = IconifyIconData(IconData(
-    0xe012,
-    fontFamily: 'StreamlineKameleonColor',
-    fontPackage: 'iconifyx_streamline_kameleon_color',
-  ));
+  static const IconifyIconData speaker = IconifyIconData.solo(
+    IconData(0xe012, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
+  );
 
   /// `yen-coin`
-  static const IconifyIconData yenCoin = IconifyIconData(IconData(
-    0xe013,
-    fontFamily: 'StreamlineKameleonColor',
-    fontPackage: 'iconifyx_streamline_kameleon_color',
-  ));
+  static const IconifyIconData yenCoin = IconifyIconData.solo(
+    IconData(0xe013, fontFamily: 'StreamlineKameleonColor', fontPackage: 'iconifyx_streamline_kameleon_color'),
+  );
 
 }

@@ -17,38 +17,28 @@ class UnjsIcons {
   const UnjsIcons._();
 
   /// `mkdist`
-  static const IconifyIconData mkdist = IconifyIconData(IconData(
-    0xe000,
-    fontFamily: 'Unjs',
-    fontPackage: 'iconifyx_unjs',
-  ));
+  static const IconifyIconData mkdist = IconifyIconData.solo(
+    IconData(0xe000, fontFamily: 'Unjs', fontPackage: 'iconifyx_unjs'),
+  );
 
   /// `scule`
-  static const IconifyIconData scule = IconifyIconData(IconData(
-    0xe001,
-    fontFamily: 'Unjs',
-    fontPackage: 'iconifyx_unjs',
-  ));
+  static const IconifyIconData scule = IconifyIconData.solo(
+    IconData(0xe001, fontFamily: 'Unjs', fontPackage: 'iconifyx_unjs'),
+  );
 
   /// `unctx`
-  static const IconifyIconData unctx = IconifyIconData(IconData(
-    0xe002,
-    fontFamily: 'Unjs',
-    fontPackage: 'iconifyx_unjs',
-  ));
+  static const IconifyIconData unctx = IconifyIconData.solo(
+    IconData(0xe002, fontFamily: 'Unjs', fontPackage: 'iconifyx_unjs'),
+  );
 
   /// `unpdf`
-  static const IconifyIconData unpdf = IconifyIconData(IconData(
-    0xe003,
-    fontFamily: 'Unjs',
-    fontPackage: 'iconifyx_unjs',
-  ));
+  static const IconifyIconData unpdf = IconifyIconData.solo(
+    IconData(0xe003, fontFamily: 'Unjs', fontPackage: 'iconifyx_unjs'),
+  );
 
   /// `unwasm`
-  static const IconifyIconData unwasm = IconifyIconData(IconData(
-    0xe004,
-    fontFamily: 'Unjs',
-    fontPackage: 'iconifyx_unjs',
-  ));
+  static const IconifyIconData unwasm = IconifyIconData.solo(
+    IconData(0xe004, fontFamily: 'Unjs', fontPackage: 'iconifyx_unjs'),
+  );
 
 }
