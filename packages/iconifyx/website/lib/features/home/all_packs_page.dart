@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 import 'package:iconifyx_core/iconifyx_core.dart';
 
 import '../../bootstrap/bootstrap_bloc.dart';
@@ -10,6 +9,7 @@ import '../../router/routes/shell/app_shell_layout.dart';
 import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/pack_detail_route.dart';
 import '../../shared/widgets/hover_box.dart';
+import '../../shared/widgets/site_footer.dart';
 import '../../theme/app_theme.dart';
 
 /// All packs listing — every iconifyx_* pack with a left category filter
@@ -86,84 +86,146 @@ class _AllPacksPageState extends State<AllPacksPage> {
                     name: _categorySlug!,
                     packPrefixes: const []),
               );
-        return PageContainer(
-          children: [
-            // Breadcrumb.
-            Padding(
-              padding: const EdgeInsets.fromLTRB(28, 28, 28, 0),
-              child: Row(
-                children: [
-                  _CrumbLink(
-                      label: 'iconifyx',
-                      onTap: () => appCoordinator.navigate(HomeRoute())),
-                  Text(' / ', style: AppTheme.mono(size: 12, color: muted)),
-                  Text('packs',
-                      style: AppTheme.mono(
-                          size: 12, color: muted, weight: FontWeight.w600)),
-                ],
-              ),
-            ),
-            const SizedBox(height: 16),
-            Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 28),
-              child: LayoutBuilder(
-                builder: (context, c) {
-                  final wide = c.maxWidth >= 900;
-                  final sidebar = _CategorySidebar(
-                    packs: packs,
-                    selected: _categorySlug,
-                    onSelect: (slug) => setState(() => _categorySlug = slug),
-                  );
-                  final main = Column(
-                    crossAxisAlignment: CrossAxisAlignment.stretch,
-                    children: [
-                      _TitleBar(
-                        title: activeCat?.name ?? 'All packs',
-                        countText:
-                            '${_fmt(filtered.length)} of ${_fmt(packs.packs.length)} packs',
-                        filterController: _filterController,
-                        onFilterChanged: (v) => setState(() => _filter = v),
-                      ),
-                      const SizedBox(height: 18),
-                      if (filtered.isEmpty)
-                        Padding(
-                          padding: const EdgeInsets.symmetric(vertical: 64),
-                          child: Center(
-                            child: Text(
-                              _filter.trim().isEmpty
-                                  ? 'No packs in this category.'
-                                  : 'No packs matched "${_filter.trim()}".',
-                              style: TextStyle(color: muted),
+
+        // Wide vs narrow layout decision lives at the top so we can render
+        // either a Row (sidebar + main CustomScrollView) or a single
+        // CustomScrollView. The grid is ALWAYS a lazy SliverGrid so cards
+        // build only when scrolled into view — no shrinkWrap-induced full
+        // tree inflation.
+        return Material(
+          color: Theme.of(context).scaffoldBackgroundColor,
+          child: LayoutBuilder(
+            builder: (context, c) {
+              final wide = c.maxWidth >= 900;
+              final pad =
+                  ((c.maxWidth - AppShellLayout.pageMaxWidth) / 2)
+                      .clamp(0.0, double.infinity);
+              final emptyMessage = filtered.isEmpty
+                  ? (_filter.trim().isEmpty
+                      ? 'No packs in this category.'
+                      : 'No packs matched "${_filter.trim()}".')
+                  : null;
+              final breadcrumb = Padding(
+                padding: const EdgeInsets.fromLTRB(28, 28, 28, 16),
+                child: Row(
+                  children: [
+                    _CrumbLink(
+                        label: 'iconifyx',
+                        onTap: () => appCoordinator.navigate(HomeRoute())),
+                    Text(' / ', style: AppTheme.mono(size: 12, color: muted)),
+                    Text('packs',
+                        style: AppTheme.mono(
+                            size: 12,
+                            color: muted,
+                            weight: FontWeight.w600)),
+                  ],
+                ),
+              );
+              final title = Padding(
+                padding: const EdgeInsets.fromLTRB(28, 0, 28, 18),
+                child: _TitleBar(
+                  title: activeCat?.name ?? 'All packs',
+                  countText:
+                      '${_fmt(filtered.length)} of ${_fmt(packs.packs.length)} packs',
+                  filterController: _filterController,
+                  onFilterChanged: (v) => setState(() => _filter = v),
+                ),
+              );
+
+              if (wide) {
+                final sidebar = SingleChildScrollView(
+                  padding: EdgeInsets.fromLTRB(pad + 28, 28, 24, 40),
+                  child: SizedBox(
+                    width: 240,
+                    child: _CategorySidebar(
+                      packs: packs,
+                      selected: _categorySlug,
+                      onSelect: (slug) =>
+                          setState(() => _categorySlug = slug),
+                    ),
+                  ),
+                );
+                return Row(
+                  crossAxisAlignment: CrossAxisAlignment.stretch,
+                  children: [
+                    sidebar,
+                    Expanded(
+                      child: CustomScrollView(
+                        slivers: [
+                          SliverToBoxAdapter(child: breadcrumb),
+                          SliverToBoxAdapter(child: title),
+                          if (emptyMessage != null)
+                            SliverPadding(
+                              padding: const EdgeInsets.fromLTRB(28, 0, 28, 64),
+                              sliver: SliverToBoxAdapter(
+                                child: Center(
+                                  child: Text(emptyMessage,
+                                      style: TextStyle(color: muted)),
+                                ),
+                              ),
+                            )
+                          else
+                            _PackGridSliver(packs: filtered),
+                          SliverPadding(
+                            padding: EdgeInsets.only(right: pad),
+                            sliver: const SliverToBoxAdapter(
+                              child: SiteFooter(),
                             ),
                           ),
-                        )
-                      else
-                        _PackGrid(packs: filtered),
-                    ],
-                  );
-                  if (wide) {
-                    return Row(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        SizedBox(width: 240, child: sidebar),
-                        const SizedBox(width: 32),
-                        Expanded(child: main),
-                      ],
-                    );
-                  }
-                  return Column(
-                    crossAxisAlignment: CrossAxisAlignment.stretch,
-                    children: [
-                      sidebar,
-                      const SizedBox(height: 24),
-                      main,
-                    ],
-                  );
-                },
-              ),
-            ),
-            const SizedBox(height: 40),
-          ],
+                        ],
+                      ),
+                    ),
+                  ],
+                );
+              }
+              // Narrow: stacked single scroll.
+              return CustomScrollView(
+                slivers: [
+                  SliverPadding(
+                    padding: EdgeInsets.symmetric(horizontal: pad),
+                    sliver: SliverToBoxAdapter(child: breadcrumb),
+                  ),
+                  SliverPadding(
+                    padding: EdgeInsets.symmetric(horizontal: pad),
+                    sliver: SliverToBoxAdapter(
+                      child: Padding(
+                        padding: const EdgeInsets.fromLTRB(28, 0, 28, 16),
+                        child: _CategorySidebar(
+                          packs: packs,
+                          selected: _categorySlug,
+                          onSelect: (slug) =>
+                              setState(() => _categorySlug = slug),
+                        ),
+                      ),
+                    ),
+                  ),
+                  SliverPadding(
+                    padding: EdgeInsets.symmetric(horizontal: pad),
+                    sliver: SliverToBoxAdapter(child: title),
+                  ),
+                  if (emptyMessage != null)
+                    SliverPadding(
+                      padding: EdgeInsets.fromLTRB(28 + pad, 0, 28 + pad, 64),
+                      sliver: SliverToBoxAdapter(
+                        child: Center(
+                          child: Text(emptyMessage,
+                              style: TextStyle(color: muted)),
+                        ),
+                      ),
+                    )
+                  else
+                    SliverPadding(
+                      padding: EdgeInsets.symmetric(horizontal: pad),
+                      sliver: _PackGridSliver(packs: filtered),
+                    ),
+                  SliverPadding(
+                    padding: EdgeInsets.symmetric(horizontal: pad),
+                    sliver: const SliverToBoxAdapter(child: SiteFooter()),
+                  ),
+                ],
+              );
+            },
+          ),
         );
       },
     );
@@ -361,32 +423,36 @@ class _CategoryRow extends StatelessWidget {
   }
 }
 
-// ─── Pack grid using the category-card visual ───────────────────────────────
-class _PackGrid extends StatelessWidget {
-  const _PackGrid({required this.packs});
+// ─── Sliver pack grid (LAZY, only builds visible tiles) ─────────────────────
+class _PackGridSliver extends StatelessWidget {
+  const _PackGridSliver({required this.packs});
   final List<PackSummary> packs;
   @override
   Widget build(BuildContext context) {
-    return LayoutBuilder(
-      builder: (context, c) {
-        final w = c.maxWidth;
-        final cols = w >= 1240
-            ? 4
-            : w >= 900
-                ? 3
-                : w >= 560
-                    ? 2
-                    : 1;
-        return MasonryGridView.count(
-          crossAxisCount: cols,
-          shrinkWrap: true,
-          physics: const NeverScrollableScrollPhysics(),
-          mainAxisSpacing: 14,
-          crossAxisSpacing: 14,
-          itemCount: packs.length,
-          itemBuilder: (context, i) => _PackTile(summary: packs[i]),
-        );
-      },
+    return SliverPadding(
+      padding: const EdgeInsets.fromLTRB(28, 0, 28, 40),
+      sliver: SliverLayoutBuilder(
+        builder: (context, constraints) {
+          final w = constraints.crossAxisExtent;
+          final cols = w >= 1240
+              ? 4
+              : w >= 900
+                  ? 3
+                  : w >= 560
+                      ? 2
+                      : 1;
+          return SliverGrid.builder(
+            gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+              crossAxisCount: cols,
+              mainAxisSpacing: 14,
+              crossAxisSpacing: 14,
+              childAspectRatio: 1.4,
+            ),
+            itemCount: packs.length,
+            itemBuilder: (context, i) => _PackTile(summary: packs[i]),
+          );
+        },
+      ),
     );
   }
 }

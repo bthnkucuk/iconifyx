@@ -95,27 +95,36 @@ class _PackBodyState extends State<_PackBody> {
         if (state is! PackReady) {
           return const Center(child: CircularProgressIndicator(color: AppTheme.coral));
         }
-        return PageContainer(
-          children: [
-            _Breadcrumb(packName: state.summary.name),
-            const SizedBox(height: 16),
-            _Toolbar(
-              packName: state.summary.name,
-              totalCount: state.icons.length,
-              shownCount: state.filtered.length,
-              filter: state.filter,
-              onFilterChanged: (q) =>
-                  context.read<PackBloc>().add(PackFilterChanged(q)),
-              tileSize: _tileSize,
-              onTileSizeChanged: (s) => setState(() => _tileSize = s),
+        // Use PageContainer.slivers so the icon grid below is LAZY —
+        // SliverGrid.builder participates in the outer scroll viewport and
+        // only builds visible rows. The old GridView.builder with
+        // shrinkWrap+NeverScrollable forced ALL 14k icons (mdi) to materialise
+        // up front, which is what made the app crawl.
+        return PageContainer.slivers(
+          slivers: [
+            SliverToBoxAdapter(
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.stretch,
+                children: [
+                  _Breadcrumb(packName: state.summary.name),
+                  const SizedBox(height: 16),
+                  _Toolbar(
+                    packName: state.summary.name,
+                    totalCount: state.icons.length,
+                    shownCount: state.filtered.length,
+                    filter: state.filter,
+                    onFilterChanged: (q) =>
+                        context.read<PackBloc>().add(PackFilterChanged(q)),
+                    tileSize: _tileSize,
+                    onTileSizeChanged: (s) => setState(() => _tileSize = s),
+                  ),
+                  const SizedBox(height: 16),
+                ],
+              ),
             ),
-            const SizedBox(height: 16),
-            _IconGridCard(
-              icons: state.filtered,
-              tileSize: _tileSize,
-            ),
-            _PackMeta(summary: state.summary),
-            const SizedBox(height: 56),
+            _LazyIconGrid(icons: state.filtered, tileSize: _tileSize),
+            SliverToBoxAdapter(child: _PackMeta(summary: state.summary)),
+            const SliverToBoxAdapter(child: SizedBox(height: 56)),
           ],
         );
       },
@@ -310,52 +319,63 @@ class _SizeBtnState extends State<_SizeBtn> {
   }
 }
 
-class _IconGridCard extends StatelessWidget {
-  const _IconGridCard({required this.icons, required this.tileSize});
+/// Sliver-level icon grid — participates in the outer CustomScrollView's
+/// viewport so `SliverGrid.builder` only materialises rows that are within (or
+/// near) the visible area. Replaces the old `GridView.builder + shrinkWrap +
+/// NeverScrollableScrollPhysics` combo that synchronously inflated all 14k+
+/// icons on mdi → caused the catastrophic slowdown.
+class _LazyIconGrid extends StatelessWidget {
+  const _LazyIconGrid({required this.icons, required this.tileSize});
   final List<IconRecord> icons;
   final int tileSize;
 
   @override
   Widget build(BuildContext context) {
-    return Padding(
+    if (icons.isEmpty) {
+      return const SliverPadding(
+        padding: EdgeInsets.fromLTRB(28, 24, 28, 48),
+        sliver: SliverToBoxAdapter(
+          child: Center(child: Text('No icons match this filter.')),
+        ),
+      );
+    }
+    // Handoff spec: 8/10/12 cols based on tileSize (32/24/20).
+    final base = tileSize == 32
+        ? 80.0
+        : tileSize == 24
+            ? 64.0
+            : 52.0;
+    return SliverPadding(
       padding: const EdgeInsets.fromLTRB(28, 0, 28, 24),
-      child: LayoutBuilder(
-        builder: (context, c) {
-          // Handoff spec: 8 cols @ 32, 10 cols @ 24, 12 cols @ 20.
-          // Scale based on actual width.
-          final base = tileSize == 32 ? 80.0 : tileSize == 24 ? 64.0 : 52.0;
-          final cols = (c.maxWidth / base).floor().clamp(4, 24);
-          return Container(
+      sliver: SliverLayoutBuilder(
+        builder: (context, constraints) {
+          final w = constraints.crossAxisExtent;
+          final cols = (w / base).floor().clamp(4, 24);
+          return DecoratedSliver(
             decoration: BoxDecoration(
               color: Theme.of(context).colorScheme.surface,
               borderRadius: BorderRadius.circular(16),
               border: Border.all(color: Theme.of(context).dividerColor),
             ),
-            padding: const EdgeInsets.all(8),
-            child: icons.isEmpty
-                ? const Padding(
-                    padding: EdgeInsets.symmetric(vertical: 48),
-                    child: Center(child: Text('No icons match this filter.')),
-                  )
-                : GridView.builder(
-                    shrinkWrap: true,
-                    physics: const NeverScrollableScrollPhysics(),
-                    gridDelegate:
-                        SliverGridDelegateWithFixedCrossAxisCount(
-                      crossAxisCount: cols,
-                      mainAxisSpacing: 0,
-                      crossAxisSpacing: 0,
-                    ),
-                    itemCount: icons.length,
-                    itemBuilder: (context, i) {
-                      final ic = icons[i];
-                      return _IconCell(
-                        key: ValueKey('${ic.prefix}/${ic.name}/${ic.codepoint}'),
-                        record: ic,
-                        iconSize: tileSize.toDouble(),
-                      );
-                    },
-                  ),
+            sliver: SliverPadding(
+              padding: const EdgeInsets.all(8),
+              sliver: SliverGrid.builder(
+                gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                  crossAxisCount: cols,
+                  mainAxisSpacing: 0,
+                  crossAxisSpacing: 0,
+                ),
+                itemCount: icons.length,
+                itemBuilder: (context, i) {
+                  final ic = icons[i];
+                  return _IconCell(
+                    key: ValueKey('${ic.prefix}/${ic.name}/${ic.codepoint}'),
+                    record: ic,
+                    iconSize: tileSize.toDouble(),
+                  );
+                },
+              ),
+            ),
           );
         },
       ),

@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 
 import '../../bootstrap/bootstrap_bloc.dart';
 import '../../bootstrap/icon_catalog.dart';
@@ -22,12 +21,14 @@ class CategoryPage extends StatelessWidget {
     return BlocBuilder<BootstrapBloc, BootstrapState>(
       builder: (context, state) {
         if (state is! BootstrapPacksReady) {
-          return const Center(child: CircularProgressIndicator(color: AppTheme.coral));
+          return const Center(
+              child: CircularProgressIndicator(color: AppTheme.coral));
         }
         final packs = state.packs;
         final cat = packs.categories.firstWhere(
           (c) => c.slug == slug,
-          orElse: () => CategoryEntry(slug: slug, name: slug, packPrefixes: const []),
+          orElse: () =>
+              CategoryEntry(slug: slug, name: slug, packPrefixes: const []),
         );
         final members = [
           for (final p in cat.packPrefixes)
@@ -35,41 +36,56 @@ class CategoryPage extends StatelessWidget {
         ];
         final isDark = Theme.of(context).brightness == Brightness.dark;
         final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
-        return PageContainer(
-          children: [
-            // Breadcrumb.
-            Padding(
-              padding: const EdgeInsets.fromLTRB(28, 28, 28, 0),
-              child: Row(
-                children: [
-                  _CrumbLink(label: 'iconifyx', onTap: () => appCoordinator.navigate(HomeRoute())),
-                  Text(' / ', style: AppTheme.mono(size: 12, color: muted)),
-                  _CrumbLink(label: 'categories', onTap: () => appCoordinator.navigate(HomeRoute())),
-                  Text(' / ', style: AppTheme.mono(size: 12, color: muted)),
-                  Text(cat.slug, style: AppTheme.mono(size: 12, color: muted, weight: FontWeight.w600)),
-                ],
+        return PageContainer.slivers(
+          slivers: [
+            SliverToBoxAdapter(
+              child: Padding(
+                padding: const EdgeInsets.fromLTRB(28, 28, 28, 0),
+                child: Row(
+                  children: [
+                    _CrumbLink(
+                        label: 'iconifyx',
+                        onTap: () => appCoordinator.navigate(HomeRoute())),
+                    Text(' / ', style: AppTheme.mono(size: 12, color: muted)),
+                    _CrumbLink(
+                        label: 'categories',
+                        onTap: () => appCoordinator.navigate(HomeRoute())),
+                    Text(' / ', style: AppTheme.mono(size: 12, color: muted)),
+                    Text(cat.slug,
+                        style: AppTheme.mono(
+                            size: 12,
+                            color: muted,
+                            weight: FontWeight.w600)),
+                  ],
+                ),
               ),
             ),
-            Padding(
-              padding: const EdgeInsets.fromLTRB(28, 16, 28, 8),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Text(cat.name, style: Theme.of(context).textTheme.headlineMedium),
-                  const SizedBox(height: 4),
-                  Text(
-                    '${members.length} packs in this category',
-                    style: Theme.of(context).textTheme.bodyMedium?.copyWith(color: muted),
-                  ),
-                ],
+            SliverToBoxAdapter(
+              child: Padding(
+                padding: const EdgeInsets.fromLTRB(28, 16, 28, 8),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text(cat.name,
+                        style: Theme.of(context).textTheme.headlineMedium),
+                    const SizedBox(height: 4),
+                    Text(
+                      '${members.length} packs in this category',
+                      style: Theme.of(context)
+                          .textTheme
+                          .bodyMedium
+                          ?.copyWith(color: muted),
+                    ),
+                  ],
+                ),
               ),
             ),
-            const SizedBox(height: 16),
-            Padding(
+            const SliverToBoxAdapter(child: SizedBox(height: 16)),
+            SliverPadding(
               padding: const EdgeInsets.fromLTRB(28, 4, 28, 40),
-              child: LayoutBuilder(
-                builder: (context, c) {
-                  final w = c.maxWidth;
+              sliver: SliverLayoutBuilder(
+                builder: (context, constraints) {
+                  final w = constraints.crossAxisExtent;
                   final cols = w >= 1400
                       ? 5
                       : w >= 1100
@@ -79,12 +95,13 @@ class CategoryPage extends StatelessWidget {
                               : w >= 500
                                   ? 2
                                   : 1;
-                  return MasonryGridView.count(
-                    crossAxisCount: cols,
-                    shrinkWrap: true,
-                    physics: const NeverScrollableScrollPhysics(),
-                    mainAxisSpacing: 14,
-                    crossAxisSpacing: 14,
+                  return SliverGrid.builder(
+                    gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                      crossAxisCount: cols,
+                      mainAxisSpacing: 14,
+                      crossAxisSpacing: 14,
+                      childAspectRatio: 1,
+                    ),
                     itemCount: members.length,
                     itemBuilder: (context, i) {
                       final summary = members[i];
