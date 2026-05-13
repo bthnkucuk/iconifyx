@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:iconifyx_core/iconifyx_core.dart';
+import 'package:stupid_simple_sheet/stupid_simple_sheet.dart';
 
 import '../../bootstrap/bootstrap_bloc.dart';
 import '../../bootstrap/icon_catalog.dart';
@@ -51,65 +52,68 @@ class _IconView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Material(
-      color: Theme.of(context).scaffoldBackgroundColor,
-      shape: const RoundedRectangleBorder(
-        borderRadius: BorderRadius.vertical(top: Radius.circular(16)),
-      ),
-      clipBehavior: Clip.antiAlias,
-      child: SafeArea(
-        top: false,
-        child: Column(
-          mainAxisSize: MainAxisSize.min,
-          children: [
-            Flexible(
-              child: SingleChildScrollView(
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.stretch,
-                  mainAxisSize: MainAxisSize.min,
-                  children: [
-                    _Breadcrumb(
-                        packPrefix: pack.prefix,
-                        packName: pack.name,
-                        iconName: record.name),
-                    const SizedBox(height: 16),
-                    Padding(
-                      padding: const EdgeInsets.symmetric(horizontal: 28),
-                      child: LayoutBuilder(
-                        builder: (context, c) {
-                          final wide = c.maxWidth >= 980;
-                          final preview =
-                              _PreviewCard(record: record, pack: pack);
-                          final right = _RightColumn(
-                              record: record, pack: pack, related: related);
-                          if (wide) {
-                            return Row(
-                              crossAxisAlignment: CrossAxisAlignment.start,
+    return SheetBackground(
+      backgroundColor: Theme.of(context).scaffoldBackgroundColor,
+      child: Material(
+        color: Theme.of(context).scaffoldBackgroundColor,
+        shape: const RoundedRectangleBorder(
+          borderRadius: BorderRadius.vertical(top: Radius.circular(16)),
+        ),
+        clipBehavior: Clip.antiAlias,
+        child: SafeArea(
+          top: false,
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Flexible(
+                child: SingleChildScrollView(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.stretch,
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      _Breadcrumb(
+                          packPrefix: pack.prefix,
+                          packName: pack.name,
+                          iconName: record.name),
+                      const SizedBox(height: 16),
+                      Padding(
+                        padding: const EdgeInsets.symmetric(horizontal: 28),
+                        child: LayoutBuilder(
+                          builder: (context, c) {
+                            final wide = c.maxWidth >= 980;
+                            final preview =
+                                _PreviewCard(record: record, pack: pack);
+                            final right = _RightColumn(
+                                record: record, pack: pack, related: related);
+                            if (wide) {
+                              return Row(
+                                crossAxisAlignment: CrossAxisAlignment.start,
+                                children: [
+                                  Expanded(child: preview),
+                                  const SizedBox(width: 48),
+                                  SizedBox(width: 420, child: right),
+                                ],
+                              );
+                            }
+                            return Column(
+                              crossAxisAlignment: CrossAxisAlignment.stretch,
+                              mainAxisSize: MainAxisSize.min,
                               children: [
-                                Expanded(child: preview),
-                                const SizedBox(width: 48),
-                                SizedBox(width: 420, child: right),
+                                preview,
+                                const SizedBox(height: 24),
+                                right,
                               ],
                             );
-                          }
-                          return Column(
-                            crossAxisAlignment: CrossAxisAlignment.stretch,
-                            mainAxisSize: MainAxisSize.min,
-                            children: [
-                              preview,
-                              const SizedBox(height: 24),
-                              right,
-                            ],
-                          );
-                        },
+                          },
+                        ),
                       ),
-                    ),
-                    const SizedBox(height: 24),
-                  ],
+                      const SizedBox(height: 24),
+                    ],
+                  ),
                 ),
               ),
-            ),
-          ],
+            ],
+          ),
         ),
       ),
     );

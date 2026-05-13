@@ -10,6 +10,7 @@ import '../../router/routes/shell/app_shell_layout.dart';
 import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/icon_detail_route.dart';
 import '../../router/routes/shell/pack_detail_route.dart';
+import '../../shared/widgets/collapsible_section.dart';
 import '../../shared/widgets/hover_box.dart';
 import '../../theme/app_theme.dart';
 
@@ -145,27 +146,47 @@ class _PackDetailPageState extends State<PackDetailPage> {
     return out.toList(growable: false);
   }
 
+  /// When a fling/scroll ends we want cells that rendered as placeholders
+  /// (because `Scrollable.recommendDeferredLoadingForContext` was true) to
+  /// finally paint their icon. The simplest trigger is a top-level rebuild
+  /// gated by a ScrollEndNotification listener — the rebuild is cheap (the
+  /// outer LayoutBuilder + `_GridContent` + `_applyFilters` all early-out on
+  /// equal inputs) and gives the currently-mounted cells a fresh build pass
+  /// where `recommendDeferredLoading` is now false → icons paint.
+  bool _onScrollNotification(ScrollNotification n) {
+    if (n is ScrollEndNotification) {
+      // ignore: avoid_print
+      // Causes _LoadedBody → _GridContent → SliverChildBuilderDelegate to
+      // rebuild and re-evaluate the deferred check.
+      setState(() {});
+    }
+    return false;
+  }
+
   @override
   Widget build(BuildContext context) {
     final prefix = widget.route.prefix;
-    return BlocBuilder<BootstrapBloc, BootstrapState>(
-      builder: (context, state) {
-        if (state is! BootstrapPacksReady) {
-          return const Center(
-              child: CircularProgressIndicator(color: AppTheme.coral));
-        }
-        final summary = state.packs.byPrefix[prefix];
-        if (summary == null) return _Missing(prefix: prefix);
-        if (state is! BootstrapCatalogReady) {
-          return _LoadingCatalog(summary: summary);
-        }
-        final allIcons = state.catalog.byPrefix[prefix] ?? const [];
-        return _LoadedBody(
-          page: this,
-          summary: summary,
-          allIcons: allIcons,
-        );
-      },
+    return NotificationListener<ScrollNotification>(
+      onNotification: _onScrollNotification,
+      child: BlocBuilder<BootstrapBloc, BootstrapState>(
+        builder: (context, state) {
+          if (state is! BootstrapPacksReady) {
+            return const Center(
+                child: CircularProgressIndicator(color: AppTheme.coral));
+          }
+          final summary = state.packs.byPrefix[prefix];
+          if (summary == null) return _Missing(prefix: prefix);
+          if (state is! BootstrapCatalogReady) {
+            return _LoadingCatalog(summary: summary);
+          }
+          final allIcons = state.catalog.byPrefix[prefix] ?? const [];
+          return _LoadedBody(
+            page: this,
+            summary: summary,
+            allIcons: allIcons,
+          );
+        },
+      ),
     );
   }
 }
@@ -201,12 +222,13 @@ class _LoadedBody extends StatelessWidget {
         // grid + its `selectorBuilder` + `_applyFilters` ran ~60×/s during
         // scroll — for arcticons (15k icons) that's ~900k iterations/s of
         // filter work and one SliverGrid widget allocation per frame.
-        final pageColumnWidth = wide ? (c.maxWidth - 240 - 28 - 24) : c.maxWidth;
+        final pageColumnWidth =
+            wide ? (c.maxWidth - 240 - 28 - 24) : c.maxWidth;
         final pageContainerPad =
             ((pageColumnWidth - AppShellLayout.pageMaxWidth) / 2)
                 .clamp(0.0, double.infinity);
-        final gridCrossExtent =
-            (pageColumnWidth - 2 * pageContainerPad - 56).clamp(0.0, double.infinity);
+        final gridCrossExtent = (pageColumnWidth - 2 * pageContainerPad - 56)
+            .clamp(0.0, double.infinity);
         final iconSizeValue = page._iconSize;
         final cellTarget = (iconSizeValue + 56).clamp(72, 200).toDouble();
         final cols = (gridCrossExtent / cellTarget).floor().clamp(3, 24);
@@ -259,26 +281,35 @@ class _LoadedBody extends StatelessWidget {
           ),
         );
 
-        // The title + filter input top of the icon column. Rebuilds only on
-        // filter query change.
-        final titleSliver = SliverPadding(
-          padding: const EdgeInsets.fromLTRB(28, 0, 28, 18),
-          sliver: SliverToBoxAdapter(
-            child: route.selectorBuilder<({String? style, String q})>(
-              selector: (qs) => (style: qs['style'], q: qs['q'] ?? ''),
-              builder: (ctx, qs) {
-                final filtered = page._applyFilters(allIcons, qs.style, qs.q);
-                return _TitleBar(
-                  title: summary.name,
-                  countText: filtered.length == allIcons.length
-                      ? '${_fmt(allIcons.length)} icons'
-                      : '${_fmt(filtered.length)} of ${_fmt(allIcons.length)}',
-                  controller: page._filterController,
-                  onChanged: page._setFilter,
-                );
-              },
-            ),
-          ),
+        // The title + filter input is pinned at the top of the icon column
+        // (sticky as user scrolls). Rebuilds only on filter query change —
+        // the selectorBuilder wraps the SliverPersistentHeader so the
+        // pinned delegate gets a fresh count text when the filter changes.
+        final scaffoldBg = Theme.of(context).scaffoldBackgroundColor;
+        final titleSliver = route.selectorBuilder<({String? style, String q})>(
+          selector: (qs) => (style: qs['style'], q: qs['q'] ?? ''),
+          builder: (ctx, qs) {
+            final filtered = page._applyFilters(allIcons, qs.style, qs.q);
+            return SliverPersistentHeader(
+              pinned: true,
+              delegate: _PinnedTitleDelegate(
+                height: wide ? 66 : 116,
+                background: scaffoldBg,
+                child: Padding(
+                  padding: const EdgeInsets.symmetric(horizontal: 28),
+                  child: _TitleBar(
+                    title: summary.name,
+                    countText: filtered.length == allIcons.length
+                        ? '${_fmt(allIcons.length)} icons'
+                        : '${_fmt(filtered.length)} of ${_fmt(allIcons.length)}',
+                    controller: page._filterController,
+                    onChanged: page._setFilter,
+                    useRowLayout: wide,
+                  ),
+                ),
+              ),
+            );
+          },
         );
 
         // The lazy icon grid as a TOP-LEVEL sliver. `SliverGrid` with
@@ -308,7 +339,6 @@ class _LoadedBody extends StatelessWidget {
                 ),
                 Expanded(
                   child: PageContainer.slivers(
-                    cacheExtent: 1200,
                     slivers: [
                       breadcrumbSliver,
                       titleSliver,
@@ -320,14 +350,20 @@ class _LoadedBody extends StatelessWidget {
             ),
           );
         }
-        // Narrow: sidebar inline above grid; entire scroll flows through
-        // PageContainer.slivers (which handles outer pad + footer).
+        // Narrow: sidebar inline above grid, wrapped in CollapsibleSection
+        // so mobile users land on a tidy top — the filters/options panel is
+        // a tap away on the trailing chevron, but doesn't dominate the
+        // viewport by default.
         final inlineSidebarSliver = SliverPadding(
           padding: const EdgeInsets.fromLTRB(28, 0, 28, 16),
-          sliver: SliverToBoxAdapter(child: sidebar),
+          sliver: SliverToBoxAdapter(
+            child: CollapsibleSection(
+              title: 'OPTIONS',
+              child: sidebar,
+            ),
+          ),
         );
         return PageContainer.slivers(
-          cacheExtent: 1200,
           slivers: [
             breadcrumbSliver,
             inlineSidebarSliver,
@@ -387,8 +423,7 @@ class _GridContent extends StatelessWidget {
       builder: (ctx, qs) {
         final filtered = page._applyFilters(allIcons, qs.style, qs.q);
         if (filtered.isEmpty) {
-          // Sized empty marker so layout stays sensible (we're inside a
-          // SliverLayoutBuilder).
+          // Sized empty marker so layout stays sensible.
           return const SliverToBoxAdapter(child: SizedBox.shrink());
         }
         return SliverGrid(
@@ -430,7 +465,14 @@ class _IconCell extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final iconData = record.toIconifyData();
+    // During fast scroll the engine reports `recommendDeferredLoading`. Skip
+    // the IconifyIcon's first paint (TextPainter.layout shapes a fresh glyph
+    // for every new codepoint — that's the per-cell cost we measured). Show
+    // the cell chrome only; when scroll velocity drops below the threshold
+    // and any new cell enters the viewport, that cell renders the icon
+    // normally.
+    final deferred = Scrollable.recommendDeferredLoadingForContext(context);
+    final iconData = deferred ? null : record.toIconifyData();
     return HoverBuilder(
       onTap: () => appCoordinator.push(
         IconDetailRoute(prefix: record.prefix, name: record.name),
@@ -447,11 +489,13 @@ class _IconCell extends StatelessWidget {
           children: [
             Expanded(
               child: Center(
-                child: IconifyIcon(
-                  iconData,
-                  size: palette.iconRenderSize,
-                  color: hovered ? AppTheme.coral : palette.iconColor,
-                ),
+                child: iconData == null
+                    ? const SizedBox.shrink()
+                    : IconifyIcon(
+                        iconData,
+                        size: palette.iconRenderSize,
+                        color: hovered ? AppTheme.coral : palette.iconColor,
+                      ),
               ),
             ),
             const SizedBox(height: 4),
@@ -517,24 +561,7 @@ class _Sidebar extends StatelessWidget {
         ],
         _SidebarLabel('SIZE'),
         const SizedBox(height: 4),
-        Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 8),
-          child: Row(
-            children: [
-              Text('${size.toStringAsFixed(0)} px',
-                  style: AppTheme.mono(size: 12, color: ink)),
-              Expanded(
-                child: Slider(
-                  value: size,
-                  min: 16,
-                  max: 64,
-                  divisions: 12,
-                  onChanged: onSize,
-                ),
-              ),
-            ],
-          ),
-        ),
+        _SizeSliderRow(initialValue: size, onCommit: onSize),
         const SizedBox(height: 18),
         _SidebarLabel('COLOR'),
         const SizedBox(height: 6),
@@ -556,8 +583,8 @@ class _Sidebar extends StatelessWidget {
               ])
                 _Swatch(
                   color: c ?? ink,
-                  selected:
-                      (color == null && c == null) || (color != null && color == c),
+                  selected: (color == null && c == null) ||
+                      (color != null && color == c),
                   onTap: () => onColor(c),
                 ),
             ],
@@ -573,8 +600,7 @@ class _Sidebar extends StatelessWidget {
           _MetaRow(label: 'Duotone', value: _fmt(summary.duotoneCount)),
         _MetaRow(label: 'Package', value: summary.packageName, mono: true),
         const SizedBox(height: 8),
-        Text(summary.category,
-            style: AppTheme.mono(size: 10, color: muted)),
+        Text(summary.category, style: AppTheme.mono(size: 10, color: muted)),
       ],
     );
   }
@@ -598,6 +624,44 @@ class _SidebarLabel extends StatelessWidget {
   }
 }
 
+/// Discrete-snap size slider.
+///
+/// `divisions: 12` with min=16/max=64 snaps to the steps
+/// `16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64`. The Slider only
+/// fires `onChanged` when the snapped value crosses to the next step — not
+/// on every drag pixel — so committing on every `onChanged` updates the
+/// grid at most ~12 times across the full drag, not 60 Hz. That's cheap
+/// enough for live preview without the per-pixel rebuild storm.
+class _SizeSliderRow extends StatelessWidget {
+  const _SizeSliderRow({required this.initialValue, required this.onCommit});
+  final double initialValue;
+  final ValueChanged<double> onCommit;
+
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
+    return Padding(
+      padding: const EdgeInsets.symmetric(horizontal: 8),
+      child: Row(
+        children: [
+          Text('${initialValue.toStringAsFixed(0)} px',
+              style: AppTheme.mono(size: 12, color: ink)),
+          Expanded(
+            child: Slider(
+              value: initialValue,
+              min: 16,
+              max: 64,
+              divisions: 12,
+              onChanged: onCommit,
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}
+
 class _MetaRow extends StatelessWidget {
   const _MetaRow({required this.label, required this.value, this.mono = false});
   final String label;
@@ -616,8 +680,8 @@ class _MetaRow extends StatelessWidget {
           SizedBox(
             width: 60,
             child: Text(label.toUpperCase(),
-                style: AppTheme.mono(
-                    size: 9, color: muted, letterSpacing: 0.6)),
+                style:
+                    AppTheme.mono(size: 9, color: muted, letterSpacing: 0.6)),
           ),
           Expanded(
             child: Text(value,
@@ -703,66 +767,104 @@ class _TitleBar extends StatelessWidget {
     required this.countText,
     required this.controller,
     required this.onChanged,
+    required this.useRowLayout,
   });
   final String title;
   final String countText;
   final TextEditingController controller;
   final ValueChanged<String> onChanged;
 
+  /// When true, title row + filter input share one row (wide viewports).
+  /// When false, they stack vertically. Driven by the parent so the pinned
+  /// header above can reserve a fixed extent.
+  final bool useRowLayout;
+
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
     final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
-    return LayoutBuilder(
-      builder: (context, c) {
-        final wide = c.maxWidth >= 560;
-        final titleRow = Row(
-          mainAxisSize: MainAxisSize.min,
-          crossAxisAlignment: CrossAxisAlignment.center,
-          children: [
-            Flexible(
-              child: Text(title,
-                  style: Theme.of(context).textTheme.headlineMedium,
-                  overflow: TextOverflow.ellipsis),
-            ),
-            const SizedBox(width: 12),
-            Container(
-              padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
-              decoration: BoxDecoration(
-                color: isDark ? AppTheme.paper2Dark : AppTheme.paper2,
-                borderRadius: BorderRadius.circular(6),
-              ),
-              child:
-                  Text(countText, style: AppTheme.mono(size: 11, color: muted)),
-            ),
-          ],
-        );
-        final filterField = SizedBox(
-          width: wide ? 240 : double.infinity,
-          child: TextField(
-            controller: controller,
-            onChanged: onChanged,
-            decoration: InputDecoration(
-              hintText: 'Filter icons…',
-              prefixIcon: Icon(Icons.search, size: 16, color: muted),
-              prefixIconConstraints:
-                  const BoxConstraints(minWidth: 32, minHeight: 32),
-            ),
+    final titleRow = Row(
+      mainAxisSize: MainAxisSize.min,
+      crossAxisAlignment: CrossAxisAlignment.center,
+      children: [
+        Flexible(
+          child: Text(title,
+              style: Theme.of(context).textTheme.headlineMedium,
+              overflow: TextOverflow.ellipsis),
+        ),
+        const SizedBox(width: 12),
+        Container(
+          padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+          decoration: BoxDecoration(
+            color: isDark ? AppTheme.paper2Dark : AppTheme.paper2,
+            borderRadius: BorderRadius.circular(6),
           ),
-        );
-        if (wide) {
-          return Row(
-            mainAxisAlignment: MainAxisAlignment.spaceBetween,
-            children: [titleRow, filterField],
-          );
-        }
-        return Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [titleRow, const SizedBox(height: 10), filterField],
-        );
-      },
+          child: Text(countText, style: AppTheme.mono(size: 11, color: muted)),
+        ),
+      ],
+    );
+    final filterField = SizedBox(
+      width: useRowLayout ? 240 : double.infinity,
+      child: TextField(
+        controller: controller,
+        onChanged: onChanged,
+        decoration: InputDecoration(
+          hintText: 'Filter icons…',
+          prefixIcon: Icon(Icons.search, size: 16, color: muted),
+          prefixIconConstraints:
+              const BoxConstraints(minWidth: 32, minHeight: 32),
+        ),
+      ),
+    );
+    if (useRowLayout) {
+      return Row(
+        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+        children: [titleRow, filterField],
+      );
+    }
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [titleRow, const SizedBox(height: 10), filterField],
     );
   }
+}
+
+/// Fixed-height pinned header. Wraps content in [Material] so scrolling
+/// content underneath doesn't bleed through.
+class _PinnedTitleDelegate extends SliverPersistentHeaderDelegate {
+  _PinnedTitleDelegate({
+    required this.height,
+    required this.background,
+    required this.child,
+  });
+
+  final double height;
+  final Color background;
+  final Widget child;
+
+  @override
+  double get minExtent => height;
+
+  @override
+  double get maxExtent => height;
+
+  @override
+  Widget build(
+      BuildContext context, double shrinkOffset, bool overlapsContent) {
+    return Material(
+      color: background,
+      child: Padding(
+        padding: const EdgeInsets.only(bottom: 18),
+        child: child,
+      ),
+    );
+  }
+
+  @override
+  bool shouldRebuild(covariant _PinnedTitleDelegate old) =>
+      old.height != height ||
+      old.background != background ||
+      !identical(old.child, child);
 }
 
 class _CrumbLink extends StatelessWidget {
@@ -777,8 +879,7 @@ class _CrumbLink extends StatelessWidget {
       onTap: onTap,
       builder: (ctx, hovered) => Text(
         label,
-        style: AppTheme.mono(
-            size: 12, color: hovered ? AppTheme.coral : muted),
+        style: AppTheme.mono(size: 12, color: hovered ? AppTheme.coral : muted),
       ),
     );
   }
@@ -793,8 +894,7 @@ class _LoadingCatalog extends StatelessWidget {
       padding: const EdgeInsets.all(48),
       child: Column(
         children: [
-          Text(summary.name,
-              style: Theme.of(context).textTheme.headlineMedium),
+          Text(summary.name, style: Theme.of(context).textTheme.headlineMedium),
           const SizedBox(height: 24),
           const Center(child: CircularProgressIndicator(color: AppTheme.coral)),
         ],
@@ -829,5 +929,6 @@ class _Missing extends StatelessWidget {
   }
 }
 
-String _fmt(int n) => n.toString().replaceAllMapped(
-    RegExp(r'(\d)(?=(\d{3})+(?!\d))'), (m) => '${m[1]},');
+String _fmt(int n) => n
+    .toString()
+    .replaceAllMapped(RegExp(r'(\d)(?=(\d{3})+(?!\d))'), (m) => '${m[1]},');

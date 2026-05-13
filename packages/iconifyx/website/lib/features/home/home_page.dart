@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 import 'package:iconifyx_core/iconifyx_core.dart';
 
 import '../../bootstrap/bootstrap_bloc.dart';
@@ -8,8 +9,8 @@ import '../../bootstrap/icon_catalog.dart';
 import '../../router/coordinator.dart';
 import '../../router/routes/shell/all_packs_route.dart';
 import '../../router/routes/shell/app_shell_layout.dart';
-import '../../router/routes/shell/pack_detail_route.dart';
 import '../../shared/widgets/hover_box.dart';
+import '../../shared/widgets/pack_tile.dart';
 import '../../theme/app_theme.dart';
 
 class HomePage extends StatelessWidget {
@@ -53,17 +54,6 @@ class _Ready extends StatelessWidget {
   const _Ready({required this.packs});
   final PackIndex packs;
 
-  static const _featuredIcons = [
-    'home',
-    'magnify',
-    'heart-outline',
-    'account-outline',
-    'bell-outline',
-    'download-outline',
-    'star-outline',
-    'cog-outline',
-  ];
-
   static const _scatterIcons = [
     'home',
     'heart-outline',
@@ -75,18 +65,172 @@ class _Ready extends StatelessWidget {
     'account-outline',
   ];
 
+  // Featured packs row: 4 highly-popular Iconify packs. PackTile renders each.
+  static const _featuredPackPrefixes = ['ph', 'lucide', 'solar', 'mdi'];
+
   @override
   Widget build(BuildContext context) {
     final mdiPack = packs.byPrefix['mdi'];
-    return PageContainer(
-      children: [
-        _Hero(packs: packs, mdiPack: mdiPack, scatterIcons: _scatterIcons),
-        _CategorySection(packs: packs),
-        _PopSection(mdiPack: mdiPack, names: _featuredIcons),
-        const SizedBox(height: 56),
+    final featured = [
+      for (final p in _featuredPackPrefixes)
+        if (packs.byPrefix[p] != null) packs.byPrefix[p]!,
+    ];
+    return PageContainer.slivers(
+      slivers: [
+        SliverToBoxAdapter(
+          child: _Hero(
+              packs: packs, mdiPack: mdiPack, scatterIcons: _scatterIcons),
+        ),
+        SliverToBoxAdapter(child: _CategorySection(packs: packs)),
+        SliverToBoxAdapter(child: _FeaturedPacksSection(featured: featured)),
+        SliverToBoxAdapter(child: _AllPacksHeader()),
+        _AllPacksGridSliver(
+          packs: packs.packs,
+          cols: _allPacksCols(context),
+        ),
+        const SliverToBoxAdapter(child: SizedBox(height: 56)),
       ],
     );
   }
+}
+
+// ─── Featured packs row ─────────────────────────────────────────────────────
+/// Four hand-picked packs as the same square card shown in /packs. Adapts the
+/// column count down on narrow viewports so a card never gets crushed.
+class _FeaturedPacksSection extends StatelessWidget {
+  const _FeaturedPacksSection({required this.featured});
+  final List<PackSummary> featured;
+
+  @override
+  Widget build(BuildContext context) {
+    if (featured.isEmpty) return const SizedBox.shrink();
+    return Padding(
+      padding: const EdgeInsets.fromLTRB(28, 0, 28, 36),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Text('Most used packs',
+              style: Theme.of(context).textTheme.headlineMedium),
+          const SizedBox(height: 6),
+          Text(
+            'A curated handful — dive into one or browse them all below.',
+            style: Theme.of(context).textTheme.bodyMedium?.copyWith(
+                  color: AppTheme.muted,
+                ),
+          ),
+          const SizedBox(height: 22),
+          LayoutBuilder(
+            builder: (context, c) {
+              final cols = c.maxWidth >= 900
+                  ? 4
+                  : c.maxWidth >= 600
+                      ? 2
+                      : 1;
+              const gap = 14.0;
+              final cellW = (c.maxWidth - gap * (cols - 1)) / cols;
+              return Wrap(
+                spacing: gap,
+                runSpacing: gap,
+                children: [
+                  for (final p in featured.take(4))
+                    SizedBox(width: cellW, child: PackTile(summary: p)),
+                ],
+              );
+            },
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+// ─── All-packs heading (sits above the masonry sliver) ─────────────────────
+class _AllPacksHeader extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    final muted = Theme.of(context).brightness == Brightness.dark
+        ? AppTheme.mutedDark
+        : AppTheme.muted;
+    return Padding(
+      padding: const EdgeInsets.fromLTRB(28, 0, 28, 22),
+      child: Row(
+        crossAxisAlignment: CrossAxisAlignment.center,
+        children: [
+          Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text('All packs',
+                    style: Theme.of(context).textTheme.headlineMedium),
+                const SizedBox(height: 6),
+                Text(
+                  'Every Iconify set shipped in iconifyx — tap one to open its grid.',
+                  style: Theme.of(context).textTheme.bodyMedium?.copyWith(
+                        color: muted,
+                      ),
+                ),
+              ],
+            ),
+          ),
+          const SizedBox(width: 16),
+          HoverBuilder(
+            onTap: () => appCoordinator.navigate(AllPacksRoute()),
+            builder: (ctx, hovered) => Text(
+              'Browse all →',
+              style: AppTheme.mono(
+                size: 12,
+                color: hovered ? AppTheme.coral : muted,
+                weight: FontWeight.w600,
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+// ─── All-packs masonry sliver (5 cols on wide) ─────────────────────────────
+/// Same lazy `SliverMasonryGrid.count` shape that /packs uses, capped at
+/// 5 columns on wide viewports. Sliver — only visible tiles materialise.
+///
+/// `cols` is computed by the parent (from MediaQuery / box LayoutBuilder),
+/// NOT by a SliverLayoutBuilder here — wrapping the masonry in a sliver-
+/// constraint builder would rebuild it every scroll frame because
+/// `SliverConstraints` (scrollOffset, remainingPaintExtent) change per
+/// frame, which would tear down/rebuild every mounted PackTile.
+class _AllPacksGridSliver extends StatelessWidget {
+  const _AllPacksGridSliver({required this.packs, required this.cols});
+  final List<PackSummary> packs;
+  final int cols;
+
+  @override
+  Widget build(BuildContext context) {
+    return SliverPadding(
+      padding: const EdgeInsets.fromLTRB(28, 0, 28, 40),
+      sliver: SliverMasonryGrid.count(
+        crossAxisCount: cols,
+        mainAxisSpacing: 14,
+        crossAxisSpacing: 14,
+        childCount: packs.length,
+        itemBuilder: (context, i) => PackTile(summary: packs[i]),
+      ),
+    );
+  }
+}
+
+/// Column count for the all-packs masonry, derived once from the viewport
+/// width (clamped to the centred 1240 max-width column the page sits in).
+int _allPacksCols(BuildContext context) {
+  final viewportW = MediaQuery.sizeOf(context).width;
+  final pageW =
+      viewportW.clamp(0.0, AppShellLayout.pageMaxWidth.toDouble());
+  final contentW = (pageW - 56).clamp(0.0, double.infinity); // 28+28 gutter
+  if (contentW >= 1100) return 5;
+  if (contentW >= 900) return 4;
+  if (contentW >= 600) return 3;
+  if (contentW >= 380) return 2;
+  return 1;
 }
 
 // ─── Hero ────────────────────────────────────────────────────────────────────
@@ -618,10 +762,15 @@ class _CategoryCardState extends State<_CategoryCard> {
               children: [
                 for (var i = 0; i < 4; i++) ...[
                   if (i > 0) const SizedBox(width: 8),
-                  _SampleCell(
-                    record: samples[i],
-                    bg: i == 0 ? coralSoft : paper2,
-                    color: i == 0 ? AppTheme.coral : ink2,
+                  Expanded(
+                    child: AspectRatio(
+                      aspectRatio: 1,
+                      child: _SampleCell(
+                        record: samples[i],
+                        bg: i == 0 ? coralSoft : paper2,
+                        color: i == 0 ? AppTheme.coral : ink2,
+                      ),
+                    ),
                   ),
                 ],
               ],
@@ -666,8 +815,6 @@ class _SampleCell extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      width: 38,
-      height: 38,
       decoration:
           BoxDecoration(color: bg, borderRadius: BorderRadius.circular(10)),
       child: Center(
@@ -735,27 +882,32 @@ class _AllPacksCardState extends State<_AllPacksCard> {
           children: [
             Row(
               children: [
-                Container(
-                  width: 38,
-                  height: 38,
-                  decoration: BoxDecoration(
-                    color: AppTheme.coral,
-                    borderRadius: BorderRadius.circular(10),
-                  ),
-                  child: const Icon(Icons.grid_view_rounded,
-                      color: Colors.white, size: 20),
-                ),
-                const SizedBox(width: 8),
-                for (var i = 0; i < 3; i++) ...[
-                  Container(
-                    width: 38,
-                    height: 38,
-                    decoration: BoxDecoration(
-                      color: AppTheme.coral.withValues(alpha: 0.18),
-                      borderRadius: BorderRadius.circular(10),
+                Expanded(
+                  child: AspectRatio(
+                    aspectRatio: 1,
+                    child: Container(
+                      decoration: BoxDecoration(
+                        color: AppTheme.coral,
+                        borderRadius: BorderRadius.circular(10),
+                      ),
+                      child: const Icon(Icons.grid_view_rounded,
+                          color: Colors.white, size: 20),
                     ),
                   ),
-                  if (i < 2) const SizedBox(width: 8),
+                ),
+                for (var i = 0; i < 3; i++) ...[
+                  const SizedBox(width: 8),
+                  Expanded(
+                    child: AspectRatio(
+                      aspectRatio: 1,
+                      child: Container(
+                        decoration: BoxDecoration(
+                          color: AppTheme.coral.withValues(alpha: 0.18),
+                          borderRadius: BorderRadius.circular(10),
+                        ),
+                      ),
+                    ),
+                  ),
                 ],
               ],
             ),
@@ -788,112 +940,6 @@ class _AllPacksCardState extends State<_AllPacksCard> {
               ],
             ),
           ],
-        ),
-      ),
-    );
-  }
-}
-
-// ─── Pop section (curated icon row) ─────────────────────────────────────────
-class _PopSection extends StatelessWidget {
-  const _PopSection({required this.mdiPack, required this.names});
-  final PackSummary? mdiPack;
-  final List<String> names;
-
-  @override
-  Widget build(BuildContext context) {
-    final pack = mdiPack;
-    if (pack == null) return const SizedBox.shrink();
-    final byName = <String, IconRecord>{
-      for (final r in pack.preview) r.name: r
-    };
-    final shown = <IconRecord>[];
-    for (final n in names) {
-      final r = byName[n];
-      if (r != null) shown.add(r);
-    }
-    // Fallback fill from preview if names weren't in the first 12.
-    int i = 0;
-    while (shown.length < 8 && i < pack.preview.length) {
-      if (!shown.contains(pack.preview[i])) shown.add(pack.preview[i]);
-      i++;
-    }
-    return Padding(
-      padding: const EdgeInsets.fromLTRB(28, 0, 28, 36),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          Text('Most-used Material icons',
-              style: Theme.of(context).textTheme.headlineMedium),
-          const SizedBox(height: 6),
-          Text('Dogfooded from iconifyx_mdi — same code your app will use.',
-              style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-                    color: AppTheme.muted,
-                  )),
-          const SizedBox(height: 22),
-          LayoutBuilder(builder: (context, c) {
-            final cols = c.maxWidth >= 1100
-                ? 8
-                : c.maxWidth >= 760
-                    ? 6
-                    : c.maxWidth >= 440
-                        ? 4
-                        : 3;
-            const gap = 14.0;
-            final cellW = (c.maxWidth - gap * (cols - 1)) / cols;
-            return Wrap(
-              spacing: gap,
-              runSpacing: gap,
-              children: [
-                for (final r in shown.take(8))
-                  SizedBox(width: cellW, child: _PopTile(record: r)),
-              ],
-            );
-          }),
-        ],
-      ),
-    );
-  }
-}
-
-class _PopTile extends StatefulWidget {
-  const _PopTile({required this.record});
-  final IconRecord record;
-
-  @override
-  State<_PopTile> createState() => _PopTileState();
-}
-
-class _PopTileState extends State<_PopTile> {
-  @override
-  Widget build(BuildContext context) {
-    final isDark = Theme.of(context).brightness == Brightness.dark;
-    final card = isDark ? AppTheme.cardDark : AppTheme.card;
-    final rule = isDark ? AppTheme.ruleDark : AppTheme.rule;
-    final ink2 = isDark ? AppTheme.ink2Dark : AppTheme.ink2;
-    final coralSoft = isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft;
-    return AspectRatio(
-      aspectRatio: 1,
-      child: HoverBuilder(
-        onTap: () => appCoordinator
-            .navigate(PackDetailRoute(prefix: widget.record.prefix)),
-        builder: (ctx, hovered) => AnimatedContainer(
-          duration: const Duration(milliseconds: 120),
-          transform: hovered
-              ? Matrix4.translationValues(0, -1, 0)
-              : Matrix4.identity(),
-          decoration: BoxDecoration(
-            color: hovered ? coralSoft : card,
-            border: Border.all(color: hovered ? AppTheme.coral : rule),
-            borderRadius: BorderRadius.circular(12),
-          ),
-          child: Center(
-            child: IconifyIcon(
-              widget.record.toIconifyData(),
-              size: 28,
-              color: hovered ? AppTheme.coral : ink2,
-            ),
-          ),
         ),
       ),
     );

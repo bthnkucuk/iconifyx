@@ -1,6 +1,13 @@
 import 'package:flutter/cupertino.dart' show CupertinoPageTransitionsBuilder;
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
+
+// Plus Jakarta Sans + JetBrains Mono are bundled as static assets (see the
+// `flutter.fonts` block in pubspec.yaml). Earlier we were pulling them at
+// runtime via google_fonts; on web that path racked up WASM allocations on
+// top of the ~43 MB of bundled icon TTFs and crashed CanvasKit. Static
+// assets are loaded once into the engine, no network, no exceptions.
+const String _sansFamily = 'PlusJakartaSans';
+const String _monoFamily = 'JetBrainsMono';
 
 /// Design tokens from the iconfyx handoff. Source of truth is
 /// `design_handoff_iconfyx_site/iconfyx_Site.html`'s `:root` block.
@@ -98,9 +105,9 @@ class AppTheme {
       outlineVariant: rule,
     );
 
-    final body = GoogleFonts.plusJakartaSansTextTheme(
-      ThemeData(brightness: brightness).textTheme,
-    );
+    final body = ThemeData(brightness: brightness).textTheme.apply(
+          fontFamily: _sansFamily,
+        );
 
     TextStyle jakarta({
       required double size,
@@ -109,7 +116,8 @@ class AppTheme {
       double? letterSpacing,
       double? height,
     }) =>
-        GoogleFonts.plusJakartaSans(
+        TextStyle(
+          fontFamily: _sansFamily,
           fontSize: size,
           fontWeight: weight,
           color: color ?? ink,
@@ -249,7 +257,8 @@ class AppTheme {
           color: ink,
           borderRadius: BorderRadius.circular(6),
         ),
-        textStyle: GoogleFonts.jetBrainsMono(
+        textStyle: TextStyle(
+          fontFamily: _monoFamily,
           color: paper,
           fontSize: 11,
           fontWeight: FontWeight.w500,
@@ -291,7 +300,8 @@ class AppTheme {
     double letterSpacing = 0,
     double height = 1.4,
   }) =>
-      GoogleFonts.jetBrainsMono(
+      TextStyle(
+        fontFamily: _monoFamily,
         fontSize: size,
         fontWeight: weight,
         color: color,

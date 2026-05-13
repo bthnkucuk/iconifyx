@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
-import 'package:iconifyx_core/iconifyx_core.dart';
 
 import '../../bootstrap/bootstrap_bloc.dart';
 import '../../bootstrap/icon_catalog.dart';
@@ -9,8 +8,9 @@ import '../../router/coordinator.dart';
 import '../../router/routes/shell/all_packs_route.dart';
 import '../../router/routes/shell/app_shell_layout.dart';
 import '../../router/routes/shell/home_route.dart';
-import '../../router/routes/shell/pack_detail_route.dart';
+import '../../shared/widgets/collapsible_section.dart';
 import '../../shared/widgets/hover_box.dart';
+import '../../shared/widgets/pack_tile.dart';
 import '../../theme/app_theme.dart';
 
 /// All packs page.
@@ -116,6 +116,25 @@ class _AllPacksPageState extends State<AllPacksPage> {
         return LayoutBuilder(
           builder: (context, c) {
             final wide = c.maxWidth >= 900;
+            // Derive the masonry's eventual crossAxisExtent from the box
+            // LayoutBuilder once — passing the resulting `cols` down means
+            // the masonry sliver doesn't need a SliverLayoutBuilder, so the
+            // grid does NOT rebuild every scroll frame.
+            final pageColumnWidth =
+                wide ? (c.maxWidth - 240 - 28 - 24) : c.maxWidth;
+            final pageContainerPad =
+                ((pageColumnWidth - AppShellLayout.pageMaxWidth) / 2)
+                    .clamp(0.0, double.infinity);
+            final contentW =
+                (pageColumnWidth - 2 * pageContainerPad - 56)
+                    .clamp(0.0, double.infinity);
+            final cols = contentW >= 1240
+                ? 4
+                : contentW >= 900
+                    ? 3
+                    : contentW >= 560
+                        ? 2
+                        : 1;
             return ValueListenableBuilder<Map<String, String>>(
               valueListenable: widget.route.queryNotifier,
               builder: (context, queries, _) {
@@ -142,6 +161,7 @@ class _AllPacksPageState extends State<AllPacksPage> {
                         onSelectCat: _setCategory,
                         onFilter: _setFilter,
                         selectedSlug: cat,
+                        cols: cols,
                       )
                     : _NarrowLayout(
                         packs: packs,
@@ -153,6 +173,7 @@ class _AllPacksPageState extends State<AllPacksPage> {
                         onSelectCat: _setCategory,
                         onFilter: _setFilter,
                         selectedSlug: cat,
+                        cols: cols,
                       );
               },
             );
@@ -175,8 +196,10 @@ class _WideLayout extends StatelessWidget {
     required this.onSelectCat,
     required this.onFilter,
     required this.selectedSlug,
+    required this.cols,
   });
 
+  final int cols;
   final PackIndex packs;
   final CategoryEntry? activeCat;
   final List<PackSummary> filtered;
@@ -216,6 +239,8 @@ class _WideLayout extends StatelessWidget {
                 filterController: filterController,
                 onFilter: onFilter,
                 inlineSidebar: null,
+                cols: cols,
+                useRowLayout: true,
               ),
             ),
           ),
@@ -237,8 +262,10 @@ class _NarrowLayout extends StatelessWidget {
     required this.onSelectCat,
     required this.onFilter,
     required this.selectedSlug,
+    required this.cols,
   });
 
+  final int cols;
   final PackIndex packs;
   final CategoryEntry? activeCat;
   final List<PackSummary> filtered;
@@ -260,11 +287,17 @@ class _NarrowLayout extends StatelessWidget {
         filter: filter,
         filterController: filterController,
         onFilter: onFilter,
-        inlineSidebar: _CategorySidebar(
-          packs: packs,
-          selected: selectedSlug,
-          onSelect: onSelectCat,
+        inlineSidebar: CollapsibleSection(
+          title: 'CATEGORIES',
+          child: _CategorySidebar(
+            packs: packs,
+            selected: selectedSlug,
+            onSelect: onSelectCat,
+            showHeading: false,
+          ),
         ),
+        cols: cols,
+        useRowLayout: false,
       ),
     );
   }
@@ -273,9 +306,11 @@ class _NarrowLayout extends StatelessWidget {
 // ─── Slivers shared by both layouts ─────────────────────────────────────────
 //
 // Returns the page's content as a list of top-level slivers, ready to be
-// handed to [PageContainer.slivers]. The masonry stays a TOP-LEVEL sliver
-// (SliverPadding > SliverLayoutBuilder > SliverMasonryGrid.count) so only
-// visible tiles are inflated.
+// handed to [PageContainer.slivers]. The masonry is a TOP-LEVEL sliver
+// (SliverPadding > SliverMasonryGrid.count) — `cols` is computed once by
+// the parent's box LayoutBuilder, NOT here via SliverLayoutBuilder, because
+// SliverConstraints change every scroll frame and would rebuild the whole
+// grid mid-scroll.
 List<Widget> _buildPageSlivers({
   required BuildContext context,
   required CategoryEntry? activeCat,
@@ -285,6 +320,8 @@ List<Widget> _buildPageSlivers({
   required TextEditingController filterController,
   required ValueChanged<String> onFilter,
   required Widget? inlineSidebar,
+  required int cols,
+  required bool useRowLayout,
 }) {
   final isDark = Theme.of(context).brightness == Brightness.dark;
   final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
@@ -303,12 +340,13 @@ List<Widget> _buildPageSlivers({
     ),
   );
   final titleBar = Padding(
-    padding: const EdgeInsets.fromLTRB(28, 0, 28, 18),
+    padding: const EdgeInsets.symmetric(horizontal: 28),
     child: _TitleBar(
       title: activeCat?.name ?? 'All packs',
       countText: '${_fmt(filtered.length)} of ${_fmt(allCount)} packs',
       controller: filterController,
       onChanged: onFilter,
+      useRowLayout: useRowLayout,
     ),
   );
 
@@ -319,7 +357,14 @@ List<Widget> _buildPageSlivers({
         padding: const EdgeInsets.fromLTRB(28, 0, 28, 16),
         sliver: SliverToBoxAdapter(child: inlineSidebar),
       ),
-    SliverToBoxAdapter(child: titleBar),
+    SliverPersistentHeader(
+      pinned: true,
+      delegate: _PinnedTitleDelegate(
+        height: useRowLayout ? 66 : 116,
+        background: Theme.of(context).scaffoldBackgroundColor,
+        child: titleBar,
+      ),
+    ),
     if (filtered.isEmpty)
       SliverPadding(
         padding: const EdgeInsets.fromLTRB(28, 0, 28, 64),
@@ -336,27 +381,16 @@ List<Widget> _buildPageSlivers({
       )
     else
       // Top-level masonry sliver → SliverChildBuilderDelegate only inflates
-      // visible tiles.
+      // visible tiles. `cols` comes pre-computed from the outer box
+      // LayoutBuilder so this sliver doesn't rebuild during scroll.
       SliverPadding(
         padding: const EdgeInsets.fromLTRB(28, 0, 28, 40),
-        sliver: SliverLayoutBuilder(
-          builder: (context, constraints) {
-            final w = constraints.crossAxisExtent;
-            final cols = w >= 1240
-                ? 4
-                : w >= 900
-                    ? 3
-                    : w >= 560
-                        ? 2
-                        : 1;
-            return SliverMasonryGrid.count(
-              crossAxisCount: cols,
-              mainAxisSpacing: 14,
-              crossAxisSpacing: 14,
-              childCount: filtered.length,
-              itemBuilder: (context, i) => _PackTile(summary: filtered[i]),
-            );
-          },
+        sliver: SliverMasonryGrid.count(
+          crossAxisCount: cols,
+          mainAxisSpacing: 14,
+          crossAxisSpacing: 14,
+          childCount: filtered.length,
+          itemBuilder: (context, i) => PackTile(summary: filtered[i]),
         ),
       ),
   ];
@@ -369,6 +403,7 @@ class _TitleBar extends StatelessWidget {
     required this.countText,
     required this.controller,
     required this.onChanged,
+    required this.useRowLayout,
   });
 
   final String title;
@@ -376,61 +411,98 @@ class _TitleBar extends StatelessWidget {
   final TextEditingController controller;
   final ValueChanged<String> onChanged;
 
+  /// When true, title + count and filter input live on one row (wide
+  /// viewports). When false, filter input wraps to a second row. Driven by
+  /// the parent (page-level wide flag) so that the pinned header above can
+  /// reserve a fixed extent.
+  final bool useRowLayout;
+
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
     final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
-    return LayoutBuilder(
-      builder: (context, c) {
-        final wide = c.maxWidth >= 560;
-        final titleRow = Row(
-          mainAxisSize: MainAxisSize.min,
-          crossAxisAlignment: CrossAxisAlignment.center,
-          children: [
-            Flexible(
-              child: Text(title,
-                  style: Theme.of(context).textTheme.headlineMedium,
-                  overflow: TextOverflow.ellipsis),
-            ),
-            const SizedBox(width: 12),
-            Container(
-              padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
-              decoration: BoxDecoration(
-                color: isDark ? AppTheme.paper2Dark : AppTheme.paper2,
-                borderRadius: BorderRadius.circular(6),
-              ),
-              child: Text(countText,
-                  style: AppTheme.mono(size: 11, color: muted)),
-            ),
-          ],
-        );
-        final filter = SizedBox(
-          width: wide ? 240 : double.infinity,
-          child: TextField(
-            controller: controller,
-            onChanged: onChanged,
-            decoration: InputDecoration(
-              hintText: 'Filter packs…',
-              prefixIcon: Icon(Icons.search, size: 16, color: muted),
-              prefixIconConstraints:
-                  const BoxConstraints(minWidth: 32, minHeight: 32),
-            ),
+    final titleRow = Row(
+      mainAxisSize: MainAxisSize.min,
+      crossAxisAlignment: CrossAxisAlignment.center,
+      children: [
+        Flexible(
+          child: Text(title,
+              style: Theme.of(context).textTheme.headlineMedium,
+              overflow: TextOverflow.ellipsis),
+        ),
+        const SizedBox(width: 12),
+        Container(
+          padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+          decoration: BoxDecoration(
+            color: isDark ? AppTheme.paper2Dark : AppTheme.paper2,
+            borderRadius: BorderRadius.circular(6),
           ),
-        );
-        if (wide) {
-          return Row(
-            mainAxisAlignment: MainAxisAlignment.spaceBetween,
-            crossAxisAlignment: CrossAxisAlignment.center,
-            children: [titleRow, filter],
-          );
-        }
-        return Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [titleRow, const SizedBox(height: 10), filter],
-        );
-      },
+          child: Text(countText, style: AppTheme.mono(size: 11, color: muted)),
+        ),
+      ],
+    );
+    final filter = SizedBox(
+      width: useRowLayout ? 240 : double.infinity,
+      child: TextField(
+        controller: controller,
+        onChanged: onChanged,
+        decoration: InputDecoration(
+          hintText: 'Filter packs…',
+          prefixIcon: Icon(Icons.search, size: 16, color: muted),
+          prefixIconConstraints:
+              const BoxConstraints(minWidth: 32, minHeight: 32),
+        ),
+      ),
+    );
+    if (useRowLayout) {
+      return Row(
+        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+        crossAxisAlignment: CrossAxisAlignment.center,
+        children: [titleRow, filter],
+      );
+    }
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [titleRow, const SizedBox(height: 10), filter],
     );
   }
+}
+
+/// Fixed-height pinned header. Wraps content in [Material] so scrolling
+/// content underneath doesn't bleed through.
+class _PinnedTitleDelegate extends SliverPersistentHeaderDelegate {
+  _PinnedTitleDelegate({
+    required this.height,
+    required this.background,
+    required this.child,
+  });
+
+  final double height;
+  final Color background;
+  final Widget child;
+
+  @override
+  double get minExtent => height;
+
+  @override
+  double get maxExtent => height;
+
+  @override
+  Widget build(BuildContext context, double shrinkOffset, bool overlapsContent) {
+    return Material(
+      color: background,
+      child: Padding(
+        padding: const EdgeInsets.only(bottom: 18),
+        child: child,
+      ),
+    );
+  }
+
+  @override
+  bool shouldRebuild(covariant _PinnedTitleDelegate old) =>
+      old.height != height ||
+      old.background != background ||
+      !identical(old.child, child);
 }
 
 // ─── Sidebar (category filter list) ─────────────────────────────────────────
@@ -439,11 +511,17 @@ class _CategorySidebar extends StatelessWidget {
     required this.packs,
     required this.selected,
     required this.onSelect,
+    this.showHeading = true,
   });
 
   final PackIndex packs;
   final String? selected;
   final ValueChanged<String?> onSelect;
+
+  /// Wide layout shows the "CATEGORIES" label inline; narrow layout wraps
+  /// this widget in [CollapsibleSection] whose own header already carries
+  /// the label, so we hide ours to avoid the duplicate row.
+  final bool showHeading;
 
   @override
   Widget build(BuildContext context) {
@@ -454,18 +532,19 @@ class _CategorySidebar extends StatelessWidget {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.stretch,
       children: [
-        Padding(
-          padding: const EdgeInsets.fromLTRB(4, 4, 4, 8),
-          child: Text(
-            'CATEGORIES',
-            style: AppTheme.mono(
-              size: 10,
-              color: muted,
-              weight: FontWeight.w700,
-              letterSpacing: 1.0,
+        if (showHeading)
+          Padding(
+            padding: const EdgeInsets.fromLTRB(4, 4, 4, 8),
+            child: Text(
+              'CATEGORIES',
+              style: AppTheme.mono(
+                size: 10,
+                color: muted,
+                weight: FontWeight.w700,
+                letterSpacing: 1.0,
+              ),
             ),
           ),
-        ),
         _CategoryRow(
           label: 'All packs',
           count: packs.packs.length,
@@ -545,144 +624,6 @@ class _CategoryRow extends StatelessWidget {
           ),
         ],
       ),
-    );
-  }
-}
-
-// ─── Pack tile ──────────────────────────────────────────────────────────────
-class _PackTile extends StatelessWidget {
-  const _PackTile({required this.summary});
-  final PackSummary summary;
-
-  @override
-  Widget build(BuildContext context) {
-    final isDark = Theme.of(context).brightness == Brightness.dark;
-    final card = isDark ? AppTheme.cardDark : AppTheme.card;
-    final rule = isDark ? AppTheme.ruleDark : AppTheme.rule;
-    final paper2 = isDark ? AppTheme.paper2Dark : AppTheme.paper2;
-    final ink2 = isDark ? AppTheme.ink2Dark : AppTheme.ink2;
-    final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
-    final coralSoft = isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft;
-
-    final samples = [...summary.preview.take(4)];
-    while (samples.length < 4 && summary.preview.isNotEmpty) {
-      samples.add(summary.preview.first);
-    }
-
-    return HoverBuilder(
-      onTap: () =>
-          appCoordinator.navigate(PackDetailRoute(prefix: summary.prefix)),
-      builder: (ctx, hovered) => AnimatedSlide(
-        duration: const Duration(milliseconds: 150),
-        offset: Offset(0, hovered ? -2 / 64 : 0),
-        child: Container(
-          decoration: BoxDecoration(
-            color: card,
-            borderRadius: BorderRadius.circular(16),
-            border: Border.all(color: hovered ? AppTheme.coral : rule),
-            boxShadow: hovered
-                ? const [
-                    BoxShadow(
-                      color: Color(0x140E1320),
-                      blurRadius: 30,
-                      offset: Offset(0, 12),
-                    ),
-                  ]
-                : null,
-          ),
-          padding: const EdgeInsets.all(20),
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            mainAxisSize: MainAxisSize.min,
-            children: [
-              Row(
-                children: [
-                  for (var i = 0; i < 4; i++) ...[
-                    if (i > 0) const SizedBox(width: 8),
-                    if (i < samples.length)
-                      _SampleCell(
-                        record: samples[i],
-                        bg: i == 0 ? coralSoft : paper2,
-                        color: i == 0 ? AppTheme.coral : ink2,
-                      )
-                    else
-                      _EmptyCell(bg: paper2),
-                  ],
-                ],
-              ),
-              const SizedBox(height: 16),
-              Row(
-                crossAxisAlignment: CrossAxisAlignment.center,
-                children: [
-                  Expanded(
-                    child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Text(summary.name,
-                            style: Theme.of(context).textTheme.titleMedium,
-                            maxLines: 1,
-                            overflow: TextOverflow.ellipsis),
-                        const SizedBox(height: 2),
-                        Text(
-                          '${summary.category} · ${summary.license}',
-                          style: TextStyle(fontSize: 12, color: muted),
-                          maxLines: 1,
-                          overflow: TextOverflow.ellipsis,
-                        ),
-                      ],
-                    ),
-                  ),
-                  const SizedBox(width: 8),
-                  Container(
-                    padding:
-                        const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
-                    decoration: BoxDecoration(
-                      color: paper2,
-                      borderRadius: BorderRadius.circular(6),
-                    ),
-                    child: Text(_fmt(summary.iconCount),
-                        style: AppTheme.mono(size: 11, color: ink2)),
-                  ),
-                ],
-              ),
-            ],
-          ),
-        ),
-      ),
-    );
-  }
-}
-
-class _SampleCell extends StatelessWidget {
-  const _SampleCell(
-      {required this.record, required this.bg, required this.color});
-  final IconRecord record;
-  final Color bg;
-  final Color color;
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      width: 38,
-      height: 38,
-      decoration:
-          BoxDecoration(color: bg, borderRadius: BorderRadius.circular(10)),
-      child: Center(
-        child: IconifyIcon(record.toIconifyData(), size: 20, color: color),
-      ),
-    );
-  }
-}
-
-class _EmptyCell extends StatelessWidget {
-  const _EmptyCell({required this.bg});
-  final Color bg;
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      width: 38,
-      height: 38,
-      decoration:
-          BoxDecoration(color: bg, borderRadius: BorderRadius.circular(10)),
     );
   }
 }
