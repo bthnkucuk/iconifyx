@@ -9,7 +9,6 @@ import '../../bootstrap/icon_catalog.dart';
 import '../../router/coordinator.dart';
 import '../../router/route.dart';
 import '../../router/routes/shell/all_packs_route.dart';
-import '../../router/routes/shell/category_route.dart';
 import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/search_route.dart';
 import '../../theme/app_theme.dart';
@@ -152,7 +151,7 @@ class _DrawerContent extends StatelessWidget {
             ],
           ),
           const SizedBox(height: 10),
-          _CategoryGrid(packs: packs!, onTap: (slug) => _go(context, CategoryRoute(slug: slug))),
+          _CategoryGrid(packs: packs!, onTap: (slug) => _go(context, AllPacksRoute(initialQueries: {'cat': slug}))),
         ],
         const SizedBox(height: 24),
         _ThemeRow(),

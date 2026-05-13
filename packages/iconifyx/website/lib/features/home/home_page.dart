@@ -8,7 +8,6 @@ import '../../bootstrap/icon_catalog.dart';
 import '../../router/coordinator.dart';
 import '../../router/routes/shell/all_packs_route.dart';
 import '../../router/routes/shell/app_shell_layout.dart';
-import '../../router/routes/shell/category_route.dart';
 import '../../router/routes/shell/pack_detail_route.dart';
 import '../../shared/widgets/hover_box.dart';
 import '../../theme/app_theme.dart';
@@ -592,7 +591,7 @@ class _CategoryCardState extends State<_CategoryCard> {
 
     return HoverBuilder(
       onTap: () =>
-          appCoordinator.navigate(CategoryRoute(slug: widget.category.slug)),
+          appCoordinator.navigate(AllPacksRoute(initialQueries: {'cat': widget.category.slug})),
       builder: (ctx, hovered) => AnimatedContainer(
         duration: const Duration(milliseconds: 150),
         transform:

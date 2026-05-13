@@ -5,6 +5,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 import '../../bootstrap/bootstrap_bloc.dart';
 import '../../bootstrap/icon_catalog.dart';
 import '../../router/coordinator.dart';
+import '../../router/routes/shell/all_packs_route.dart';
 import '../../router/routes/shell/app_shell_layout.dart';
 import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/pack_detail_route.dart';
@@ -12,56 +13,93 @@ import '../../shared/widgets/hover_box.dart';
 import '../../shared/widgets/site_footer.dart';
 import '../../theme/app_theme.dart';
 
-/// All packs listing — every iconifyx_* pack with a left category filter
-/// sidebar and a right-side pack-name filter input in the toolbar.
+/// All packs listing.
+///
+/// Filter state lives entirely on the [AllPacksRoute] via its
+/// `RouteQueryParameters` mixin — that means the URL (`/packs?cat=…&q=…`) is
+/// always the source of truth, deep links work, browser back/forward works,
+/// and the page rebuilds **only** the bits that depend on the changed query
+/// via `route.selectorBuilder<T>(...)`.
 class AllPacksPage extends StatefulWidget {
-  const AllPacksPage({super.key});
+  const AllPacksPage({super.key, required this.route});
+  final AllPacksRoute route;
 
   @override
   State<AllPacksPage> createState() => _AllPacksPageState();
 }
 
 class _AllPacksPageState extends State<AllPacksPage> {
-  /// `null` = show every pack.
-  String? _categorySlug;
-  String _filter = '';
   late final TextEditingController _filterController;
 
   @override
   void initState() {
     super.initState();
-    _filterController = TextEditingController();
+    _filterController =
+        TextEditingController(text: widget.route.query('q') ?? '');
+    // Keep the controller text in sync if queries change externally (e.g.
+    // user navigates to /packs?q=foo or clears via category click).
+    widget.route.queryNotifier.addListener(_onQueriesChanged);
   }
 
   @override
   void dispose() {
+    widget.route.queryNotifier.removeListener(_onQueriesChanged);
     _filterController.dispose();
     super.dispose();
   }
 
-  List<PackSummary> _visiblePacks(PackIndex packs) {
-    final base = _categorySlug == null
+  void _onQueriesChanged() {
+    final q = widget.route.query('q') ?? '';
+    if (_filterController.text != q) {
+      _filterController.value = TextEditingValue(
+        text: q,
+        selection: TextSelection.collapsed(offset: q.length),
+      );
+    }
+  }
+
+  void _setCategory(String? slug) {
+    final qs = Map<String, String>.from(widget.route.queries);
+    if (slug == null) {
+      qs.remove('cat');
+    } else {
+      qs['cat'] = slug;
+    }
+    widget.route.updateQueries(appCoordinator, queries: qs);
+  }
+
+  void _setFilter(String text) {
+    final qs = Map<String, String>.from(widget.route.queries);
+    final trimmed = text.trim();
+    if (trimmed.isEmpty) {
+      qs.remove('q');
+    } else {
+      qs['q'] = trimmed;
+    }
+    widget.route.updateQueries(appCoordinator, queries: qs);
+  }
+
+  List<PackSummary> _visible(PackIndex packs, String? slug, String q) {
+    final base = slug == null
         ? packs.packs
         : () {
             final cat = packs.categories.firstWhere(
-              (c) => c.slug == _categorySlug,
+              (c) => c.slug == slug,
               orElse: () => CategoryEntry(
-                  slug: _categorySlug!,
-                  name: _categorySlug!,
-                  packPrefixes: const []),
+                  slug: slug, name: slug, packPrefixes: const []),
             );
             return [
               for (final p in cat.packPrefixes)
                 if (packs.byPrefix[p] != null) packs.byPrefix[p]!,
             ];
           }();
-    final q = _filter.trim().toLowerCase();
-    if (q.isEmpty) return base;
+    final query = q.trim().toLowerCase();
+    if (query.isEmpty) return base;
     return base
         .where((p) =>
-            p.name.toLowerCase().contains(q) ||
-            p.prefix.toLowerCase().contains(q) ||
-            p.category.toLowerCase().contains(q))
+            p.name.toLowerCase().contains(query) ||
+            p.prefix.toLowerCase().contains(query) ||
+            p.category.toLowerCase().contains(query))
         .toList(growable: false);
   }
 
@@ -76,35 +114,61 @@ class _AllPacksPageState extends State<AllPacksPage> {
         final packs = state.packs;
         final isDark = Theme.of(context).brightness == Brightness.dark;
         final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
-        final filtered = _visiblePacks(packs);
-        final activeCat = _categorySlug == null
-            ? null
-            : packs.categories.firstWhere(
-                (c) => c.slug == _categorySlug,
-                orElse: () => CategoryEntry(
-                    slug: _categorySlug!,
-                    name: _categorySlug!,
-                    packPrefixes: const []),
-              );
 
-        // Wide vs narrow layout decision lives at the top so we can render
-        // either a Row (sidebar + main CustomScrollView) or a single
-        // CustomScrollView. The grid is ALWAYS a lazy SliverGrid so cards
-        // build only when scrolled into view — no shrinkWrap-induced full
-        // tree inflation.
         return Material(
           color: Theme.of(context).scaffoldBackgroundColor,
           child: LayoutBuilder(
             builder: (context, c) {
               final wide = c.maxWidth >= 900;
-              final pad =
-                  ((c.maxWidth - AppShellLayout.pageMaxWidth) / 2)
-                      .clamp(0.0, double.infinity);
-              final emptyMessage = filtered.isEmpty
-                  ? (_filter.trim().isEmpty
-                      ? 'No packs in this category.'
-                      : 'No packs matched "${_filter.trim()}".')
-                  : null;
+              final pad = ((c.maxWidth - AppShellLayout.pageMaxWidth) / 2)
+                  .clamp(0.0, double.infinity);
+
+              // Sidebar is a query-driven selectorBuilder — only rebuilds
+              // when the `cat` query changes.
+              final sidebarWidget = widget.route.selectorBuilder<String?>(
+                selector: (q) => q['cat'],
+                builder: (ctx, selected) => _CategorySidebar(
+                  packs: packs,
+                  selected: selected,
+                  onSelect: _setCategory,
+                ),
+              );
+
+              // Main column rebuilds via a selectorBuilder over the FULL
+              // query map (only 2 keys, so still cheap and consistent).
+              final mainWidget = widget.route.selectorBuilder<_QueryState>(
+                selector: (q) =>
+                    _QueryState(cat: q['cat'], filter: q['q'] ?? ''),
+                builder: (ctx, qs) {
+                  final filtered = _visible(packs, qs.cat, qs.filter);
+                  final activeCat = qs.cat == null
+                      ? null
+                      : packs.categories.firstWhere(
+                          (c) => c.slug == qs.cat,
+                          orElse: () => CategoryEntry(
+                              slug: qs.cat!,
+                              name: qs.cat!,
+                              packPrefixes: const []),
+                        );
+                  final emptyMessage = filtered.isEmpty
+                      ? (qs.filter.trim().isEmpty
+                          ? 'No packs in this category.'
+                          : 'No packs matched "${qs.filter.trim()}".')
+                      : null;
+                  return _MainContent(
+                    titleText: activeCat?.name ?? 'All packs',
+                    countText:
+                        '${_fmt(filtered.length)} of ${_fmt(packs.packs.length)} packs',
+                    filterController: _filterController,
+                    onFilterChanged: _setFilter,
+                    emptyMessage: emptyMessage,
+                    filteredPacks: filtered,
+                    wide: wide,
+                    horizontalPadding: pad,
+                  );
+                },
+              );
+
               final breadcrumb = Padding(
                 padding: const EdgeInsets.fromLTRB(28, 28, 28, 16),
                 child: Row(
@@ -115,57 +179,24 @@ class _AllPacksPageState extends State<AllPacksPage> {
                     Text(' / ', style: AppTheme.mono(size: 12, color: muted)),
                     Text('packs',
                         style: AppTheme.mono(
-                            size: 12,
-                            color: muted,
-                            weight: FontWeight.w600)),
+                            size: 12, color: muted, weight: FontWeight.w600)),
                   ],
-                ),
-              );
-              final title = Padding(
-                padding: const EdgeInsets.fromLTRB(28, 0, 28, 18),
-                child: _TitleBar(
-                  title: activeCat?.name ?? 'All packs',
-                  countText:
-                      '${_fmt(filtered.length)} of ${_fmt(packs.packs.length)} packs',
-                  filterController: _filterController,
-                  onFilterChanged: (v) => setState(() => _filter = v),
                 ),
               );
 
               if (wide) {
-                final sidebar = SingleChildScrollView(
-                  padding: EdgeInsets.fromLTRB(pad + 28, 28, 24, 40),
-                  child: SizedBox(
-                    width: 240,
-                    child: _CategorySidebar(
-                      packs: packs,
-                      selected: _categorySlug,
-                      onSelect: (slug) =>
-                          setState(() => _categorySlug = slug),
-                    ),
-                  ),
-                );
                 return Row(
                   crossAxisAlignment: CrossAxisAlignment.stretch,
                   children: [
-                    sidebar,
+                    SingleChildScrollView(
+                      padding: EdgeInsets.fromLTRB(pad + 28, 28, 24, 40),
+                      child: SizedBox(width: 240, child: sidebarWidget),
+                    ),
                     Expanded(
                       child: CustomScrollView(
                         slivers: [
                           SliverToBoxAdapter(child: breadcrumb),
-                          SliverToBoxAdapter(child: title),
-                          if (emptyMessage != null)
-                            SliverPadding(
-                              padding: const EdgeInsets.fromLTRB(28, 0, 28, 64),
-                              sliver: SliverToBoxAdapter(
-                                child: Center(
-                                  child: Text(emptyMessage,
-                                      style: TextStyle(color: muted)),
-                                ),
-                              ),
-                            )
-                          else
-                            _PackGridSliver(packs: filtered),
+                          SliverToBoxAdapter(child: mainWidget),
                           SliverPadding(
                             padding: EdgeInsets.only(right: pad),
                             sliver: const SliverToBoxAdapter(
@@ -186,38 +217,13 @@ class _AllPacksPageState extends State<AllPacksPage> {
                     sliver: SliverToBoxAdapter(child: breadcrumb),
                   ),
                   SliverPadding(
-                    padding: EdgeInsets.symmetric(horizontal: pad),
-                    sliver: SliverToBoxAdapter(
-                      child: Padding(
-                        padding: const EdgeInsets.fromLTRB(28, 0, 28, 16),
-                        child: _CategorySidebar(
-                          packs: packs,
-                          selected: _categorySlug,
-                          onSelect: (slug) =>
-                              setState(() => _categorySlug = slug),
-                        ),
-                      ),
-                    ),
+                    padding: EdgeInsets.fromLTRB(28 + pad, 0, 28 + pad, 16),
+                    sliver: SliverToBoxAdapter(child: sidebarWidget),
                   ),
                   SliverPadding(
                     padding: EdgeInsets.symmetric(horizontal: pad),
-                    sliver: SliverToBoxAdapter(child: title),
+                    sliver: SliverToBoxAdapter(child: mainWidget),
                   ),
-                  if (emptyMessage != null)
-                    SliverPadding(
-                      padding: EdgeInsets.fromLTRB(28 + pad, 0, 28 + pad, 64),
-                      sliver: SliverToBoxAdapter(
-                        child: Center(
-                          child: Text(emptyMessage,
-                              style: TextStyle(color: muted)),
-                        ),
-                      ),
-                    )
-                  else
-                    SliverPadding(
-                      padding: EdgeInsets.symmetric(horizontal: pad),
-                      sliver: _PackGridSliver(packs: filtered),
-                    ),
                   SliverPadding(
                     padding: EdgeInsets.symmetric(horizontal: pad),
                     sliver: const SliverToBoxAdapter(child: SiteFooter()),
@@ -228,6 +234,75 @@ class _AllPacksPageState extends State<AllPacksPage> {
           ),
         );
       },
+    );
+  }
+}
+
+@immutable
+class _QueryState {
+  const _QueryState({required this.cat, required this.filter});
+  final String? cat;
+  final String filter;
+  @override
+  bool operator ==(Object other) =>
+      other is _QueryState && other.cat == cat && other.filter == filter;
+  @override
+  int get hashCode => Object.hash(cat, filter);
+}
+
+// ─── Main content (title + filter + grid) ───────────────────────────────────
+class _MainContent extends StatelessWidget {
+  const _MainContent({
+    required this.titleText,
+    required this.countText,
+    required this.filterController,
+    required this.onFilterChanged,
+    required this.emptyMessage,
+    required this.filteredPacks,
+    required this.wide,
+    required this.horizontalPadding,
+  });
+
+  final String titleText;
+  final String countText;
+  final TextEditingController filterController;
+  final ValueChanged<String> onFilterChanged;
+  final String? emptyMessage;
+  final List<PackSummary> filteredPacks;
+  final bool wide;
+  final double horizontalPadding;
+
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
+    return CustomScrollView(
+      shrinkWrap: true,
+      physics: const NeverScrollableScrollPhysics(),
+      slivers: [
+        SliverToBoxAdapter(
+          child: Padding(
+            padding: const EdgeInsets.fromLTRB(28, 0, 28, 18),
+            child: _TitleBar(
+              title: titleText,
+              countText: countText,
+              filterController: filterController,
+              onFilterChanged: onFilterChanged,
+            ),
+          ),
+        ),
+        if (emptyMessage != null)
+          SliverPadding(
+            padding: const EdgeInsets.fromLTRB(28, 0, 28, 64),
+            sliver: SliverToBoxAdapter(
+              child: Center(
+                child: Text(emptyMessage!, style: TextStyle(color: muted)),
+              ),
+            ),
+          )
+        else
+          _PackGridSliver(packs: filteredPacks),
+      ],
     );
   }
 }
@@ -269,8 +344,8 @@ class _TitleBar extends StatelessWidget {
                 color: isDark ? AppTheme.paper2Dark : AppTheme.paper2,
                 borderRadius: BorderRadius.circular(6),
               ),
-              child:
-                  Text(countText, style: AppTheme.mono(size: 11, color: muted)),
+              child: Text(countText,
+                  style: AppTheme.mono(size: 11, color: muted)),
             ),
           ],
         );
@@ -471,7 +546,6 @@ class _PackTile extends StatelessWidget {
     final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
     final coralSoft = isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft;
 
-    // 4 sample icons from this pack's preview (pad with first if <4).
     final samples = [...summary.preview.take(4)];
     while (samples.length < 4 && summary.preview.isNotEmpty) {
       samples.add(summary.preview.first);
@@ -616,6 +690,5 @@ class _CrumbLink extends StatelessWidget {
   }
 }
 
-String _fmt(int n) => n
-    .toString()
-    .replaceAllMapped(RegExp(r'(\d)(?=(\d{3})+(?!\d))'), (m) => '${m[1]},');
+String _fmt(int n) => n.toString().replaceAllMapped(
+    RegExp(r'(\d)(?=(\d{3})+(?!\d))'), (m) => '${m[1]},');

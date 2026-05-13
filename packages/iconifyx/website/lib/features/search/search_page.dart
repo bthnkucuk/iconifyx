@@ -10,7 +10,6 @@ import '../../bootstrap/bootstrap_bloc.dart';
 import '../../bootstrap/icon_catalog.dart';
 import '../../router/coordinator.dart';
 import '../../router/routes/shell/all_packs_route.dart';
-import '../../router/routes/shell/category_route.dart';
 import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/icon_detail_route.dart';
 import '../../router/routes/shell/pack_detail_route.dart';
@@ -800,7 +799,7 @@ class _Entry {
       name: cat.name,
       sub: '${cat.packPrefixes.length} packs · category',
       kind: _Kind.category,
-      run: () => appCoordinator.navigate(CategoryRoute(slug: cat.slug)),
+      run: () => appCoordinator.navigate(AllPacksRoute(initialQueries: {'cat': cat.slug})),
       buildLeading: ({
         required bool active,
         required Color bg,

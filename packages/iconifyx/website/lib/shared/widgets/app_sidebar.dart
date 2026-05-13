@@ -4,7 +4,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import '../../bootstrap/bootstrap_bloc.dart';
 import '../../bootstrap/icon_catalog.dart';
 import '../../router/coordinator.dart';
-import '../../router/routes/shell/category_route.dart';
+import '../../router/routes/shell/all_packs_route.dart';
 import '../../router/routes/shell/home_route.dart';
 
 class AppSidebar extends StatelessWidget {
@@ -58,7 +58,7 @@ class AppSidebar extends StatelessWidget {
         _SidebarTile(
           icon: Icons.folder_outlined,
           label: '${cat.name} (${cat.packPrefixes.length})',
-          onTap: () => coordinator.navigate(CategoryRoute(slug: cat.slug)),
+          onTap: () => coordinator.navigate(AllPacksRoute(initialQueries: {'cat': cat.slug})),
         ),
     ];
   }
