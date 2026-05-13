@@ -1,0 +1,4450 @@
+{
+  "schemaVersion": 1,
+  "prefix": "icon-park-twotone",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "UI 24px",
+  "subPackage": "iconifyx_icon_park_twotone",
+  "info": {
+    "name": "IconPark TwoTone",
+    "author": {
+      "name": "ByteDance",
+      "url": "https://github.com/bytedance/IconPark"
+    },
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://github.com/bytedance/IconPark/blob/master/LICENSE"
+    },
+    "total": 884
+  },
+  "fonts": [
+    {
+      "family": "IconParkTwotone",
+      "nextCodepoint": 58228,
+      "iconCount": 884
+    }
+  ],
+  "icons": {
+    "abnormal": {
+      "codepoint": 57344,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "abnormal"
+    },
+    "acceleration": {
+      "codepoint": 57345,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "acceleration"
+    },
+    "ad": {
+      "codepoint": 57346,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "ad"
+    },
+    "add": {
+      "codepoint": 57347,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "add"
+    },
+    "add-item": {
+      "codepoint": 57348,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "addItem"
+    },
+    "add-music": {
+      "codepoint": 57349,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "addMusic"
+    },
+    "add-pic": {
+      "codepoint": 57350,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "addPic"
+    },
+    "add-print": {
+      "codepoint": 57351,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "addPrint"
+    },
+    "add-subset": {
+      "codepoint": 57352,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "addSubset"
+    },
+    "add-subtract": {
+      "codepoint": 57353,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "addSubtract"
+    },
+    "add-text-two": {
+      "codepoint": 57354,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "addTextTwo"
+    },
+    "add-user": {
+      "codepoint": 57355,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "addUser"
+    },
+    "add-web": {
+      "codepoint": 57356,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "addWeb"
+    },
+    "address-book": {
+      "codepoint": 57357,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "addressBook"
+    },
+    "afro-pick": {
+      "codepoint": 57358,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "afroPick"
+    },
+    "air-bike": {
+      "codepoint": 57359,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "airBike"
+    },
+    "airplane-window-one": {
+      "codepoint": 57360,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "airplaneWindowOne"
+    },
+    "airplay": {
+      "codepoint": 57361,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "airplay"
+    },
+    "align-right-one": {
+      "codepoint": 57362,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignRightOne"
+    },
+    "align-text-both-one": {
+      "codepoint": 57363,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignTextBothOne"
+    },
+    "align-text-bottom-one": {
+      "codepoint": 57364,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignTextBottomOne"
+    },
+    "align-text-center-one": {
+      "codepoint": 57365,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignTextCenterOne"
+    },
+    "align-text-middle-one": {
+      "codepoint": 57366,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignTextMiddleOne"
+    },
+    "align-text-right-one": {
+      "codepoint": 57367,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignTextRightOne"
+    },
+    "align-text-top-one": {
+      "codepoint": 57368,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignTextTopOne"
+    },
+    "alignment-bottom-center": {
+      "codepoint": 57369,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignmentBottomCenter"
+    },
+    "alignment-bottom-left": {
+      "codepoint": 57370,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignmentBottomLeft"
+    },
+    "alignment-bottom-right": {
+      "codepoint": 57371,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignmentBottomRight"
+    },
+    "alignment-horizontal-bottom": {
+      "codepoint": 57372,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignmentHorizontalBottom"
+    },
+    "alignment-horizontal-center": {
+      "codepoint": 57373,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignmentHorizontalCenter"
+    },
+    "alignment-horizontal-top": {
+      "codepoint": 57374,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignmentHorizontalTop"
+    },
+    "alignment-left-bottom": {
+      "codepoint": 57375,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignmentLeftBottom"
+    },
+    "alignment-left-center": {
+      "codepoint": 57376,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignmentLeftCenter"
+    },
+    "alignment-left-top": {
+      "codepoint": 57377,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignmentLeftTop"
+    },
+    "alignment-right-bottom": {
+      "codepoint": 57378,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignmentRightBottom"
+    },
+    "alignment-right-center": {
+      "codepoint": 57379,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignmentRightCenter"
+    },
+    "alignment-right-top": {
+      "codepoint": 57380,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignmentRightTop"
+    },
+    "alignment-top-center": {
+      "codepoint": 57381,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignmentTopCenter"
+    },
+    "alignment-top-left": {
+      "codepoint": 57382,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignmentTopLeft"
+    },
+    "alignment-top-right": {
+      "codepoint": 57383,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignmentTopRight"
+    },
+    "alignment-vertical-center": {
+      "codepoint": 57384,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignmentVerticalCenter"
+    },
+    "alignment-vertical-left": {
+      "codepoint": 57385,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignmentVerticalLeft"
+    },
+    "alignment-vertical-right": {
+      "codepoint": 57386,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "alignmentVerticalRight"
+    },
+    "ambulance": {
+      "codepoint": 57387,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "ambulance"
+    },
+    "anchor": {
+      "codepoint": 57388,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "anchor"
+    },
+    "anchor-one": {
+      "codepoint": 57389,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "anchorOne"
+    },
+    "anchor-round": {
+      "codepoint": 57390,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "anchorRound"
+    },
+    "anchor-squre": {
+      "codepoint": 57391,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "anchorSqure"
+    },
+    "anchor-two": {
+      "codepoint": 57392,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "anchorTwo"
+    },
+    "aperture-priority": {
+      "codepoint": 57393,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "aperturePriority"
+    },
+    "apple": {
+      "codepoint": 57394,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "apple"
+    },
+    "applet-closed": {
+      "codepoint": 57395,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "appletClosed"
+    },
+    "application": {
+      "codepoint": 57396,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "application"
+    },
+    "application-two": {
+      "codepoint": 57397,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "applicationTwo"
+    },
+    "appointment": {
+      "codepoint": 57398,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "appointment"
+    },
+    "arc-de-triomphe": {
+      "codepoint": 57399,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "arcDeTriomphe"
+    },
+    "archery": {
+      "codepoint": 57400,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "archery"
+    },
+    "arena": {
+      "codepoint": 57401,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "arena"
+    },
+    "assembly-line": {
+      "codepoint": 57402,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "assemblyLine"
+    },
+    "asterisk-key": {
+      "codepoint": 57403,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "asteriskKey"
+    },
+    "at-sign": {
+      "codepoint": 57404,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "atSign"
+    },
+    "auto-focus": {
+      "codepoint": 57405,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "autoFocus"
+    },
+    "aviation": {
+      "codepoint": 57406,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "aviation"
+    },
+    "avocado": {
+      "codepoint": 57407,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "avocado"
+    },
+    "avocado-one": {
+      "codepoint": 57408,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "avocadoOne"
+    },
+    "baby-app": {
+      "codepoint": 57409,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "babyApp"
+    },
+    "baby-meal": {
+      "codepoint": 57410,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "babyMeal"
+    },
+    "baby-mobile": {
+      "codepoint": 57411,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "babyMobile"
+    },
+    "baby-one": {
+      "codepoint": 57412,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "babyOne"
+    },
+    "bachelor-cap": {
+      "codepoint": 57413,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "bachelorCap"
+    },
+    "bachelor-cap-two": {
+      "codepoint": 57414,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "bachelorCapTwo"
+    },
+    "backpack": {
+      "codepoint": 57415,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "backpack"
+    },
+    "badge": {
+      "codepoint": 57416,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "badge"
+    },
+    "badminton": {
+      "codepoint": 57417,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "badminton"
+    },
+    "baggage-delay": {
+      "codepoint": 57418,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "baggageDelay"
+    },
+    "balance-two": {
+      "codepoint": 57419,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "balanceTwo"
+    },
+    "banana": {
+      "codepoint": 57420,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "banana"
+    },
+    "bank-card-one": {
+      "codepoint": 57421,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "bankCardOne"
+    },
+    "bank-card-two": {
+      "codepoint": 57422,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "bankCardTwo"
+    },
+    "bank-transfer": {
+      "codepoint": 57423,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "bankTransfer"
+    },
+    "barbecue": {
+      "codepoint": 57424,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "barbecue"
+    },
+    "barber-clippers": {
+      "codepoint": 57425,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "barberClippers"
+    },
+    "baseball-bat": {
+      "codepoint": 57426,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "baseballBat"
+    },
+    "baseball-cap": {
+      "codepoint": 57427,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "baseballCap"
+    },
+    "battery-failure": {
+      "codepoint": 57428,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "batteryFailure"
+    },
+    "battery-storage": {
+      "codepoint": 57429,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "batteryStorage"
+    },
+    "battery-tips": {
+      "codepoint": 57430,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "batteryTips"
+    },
+    "battery-working-one": {
+      "codepoint": 57431,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "batteryWorkingOne"
+    },
+    "beauty": {
+      "codepoint": 57432,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "beauty"
+    },
+    "beauty-instrument": {
+      "codepoint": 57433,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "beautyInstrument"
+    },
+    "beer": {
+      "codepoint": 57434,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "beer"
+    },
+    "bib": {
+      "codepoint": 57435,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "bib"
+    },
+    "big-x": {
+      "codepoint": 57436,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "bigX"
+    },
+    "black-eight": {
+      "codepoint": 57437,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "blackEight"
+    },
+    "block-ten": {
+      "codepoint": 57438,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "blockTen"
+    },
+    "blockchain": {
+      "codepoint": 57439,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "blockchain"
+    },
+    "bloom": {
+      "codepoint": 57440,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "bloom"
+    },
+    "boiler": {
+      "codepoint": 57441,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "boiler"
+    },
+    "bookmark-one": {
+      "codepoint": 57442,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "bookmarkOne"
+    },
+    "bottle-three": {
+      "codepoint": 57443,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "bottleThree"
+    },
+    "bottom-bar": {
+      "codepoint": 57444,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "bottomBar"
+    },
+    "bow": {
+      "codepoint": 57445,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "bow"
+    },
+    "box": {
+      "codepoint": 57446,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "box"
+    },
+    "boxing": {
+      "codepoint": 57447,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "boxing"
+    },
+    "boy-one": {
+      "codepoint": 57448,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "boyOne"
+    },
+    "boy-two": {
+      "codepoint": 57449,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "boyTwo"
+    },
+    "brain": {
+      "codepoint": 57450,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "brain"
+    },
+    "brake-pads": {
+      "codepoint": 57451,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "brakePads"
+    },
+    "branch-one": {
+      "codepoint": 57452,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "branchOne"
+    },
+    "bread-one": {
+      "codepoint": 57453,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "breadOne"
+    },
+    "briefcase": {
+      "codepoint": 57454,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "briefcase"
+    },
+    "bring-to-front-one": {
+      "codepoint": 57455,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "bringToFrontOne"
+    },
+    "browser": {
+      "codepoint": 57456,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "browser"
+    },
+    "bubble-chart": {
+      "codepoint": 57457,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "bubbleChart"
+    },
+    "building-two": {
+      "codepoint": 57458,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "buildingTwo"
+    },
+    "bus": {
+      "codepoint": 57459,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "bus"
+    },
+    "bus-one": {
+      "codepoint": 57460,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "busOne"
+    },
+    "cactus": {
+      "codepoint": 57461,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cactus"
+    },
+    "cake": {
+      "codepoint": 57462,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cake"
+    },
+    "cake-five": {
+      "codepoint": 57463,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cakeFive"
+    },
+    "cake-four": {
+      "codepoint": 57464,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cakeFour"
+    },
+    "cake-one": {
+      "codepoint": 57465,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cakeOne"
+    },
+    "calendar-dot": {
+      "codepoint": 57466,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "calendarDot"
+    },
+    "calendar-thirty": {
+      "codepoint": 57467,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "calendarThirty"
+    },
+    "calendar-three": {
+      "codepoint": 57468,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "calendarThree"
+    },
+    "camera": {
+      "codepoint": 57469,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "camera"
+    },
+    "camera-five": {
+      "codepoint": 57470,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cameraFive"
+    },
+    "camera-four": {
+      "codepoint": 57471,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cameraFour"
+    },
+    "camera-one": {
+      "codepoint": 57472,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cameraOne"
+    },
+    "camera-two": {
+      "codepoint": 57473,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cameraTwo"
+    },
+    "camp": {
+      "codepoint": 57474,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "camp"
+    },
+    "cancer": {
+      "codepoint": 57475,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cancer"
+    },
+    "candy": {
+      "codepoint": 57476,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "candy"
+    },
+    "canned-fruit": {
+      "codepoint": 57477,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cannedFruit"
+    },
+    "capricornus": {
+      "codepoint": 57478,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "capricornus"
+    },
+    "car": {
+      "codepoint": 57479,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "car"
+    },
+    "card-two": {
+      "codepoint": 57480,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cardTwo"
+    },
+    "castle": {
+      "codepoint": 57481,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "castle"
+    },
+    "category-management": {
+      "codepoint": 57482,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "categoryManagement"
+    },
+    "cd": {
+      "codepoint": 57483,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cd"
+    },
+    "cell": {
+      "codepoint": 57484,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cell"
+    },
+    "certificate": {
+      "codepoint": 57485,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "certificate"
+    },
+    "chafing-dish": {
+      "codepoint": 57486,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "chafingDish"
+    },
+    "chair": {
+      "codepoint": 57487,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "chair"
+    },
+    "change-date-sort": {
+      "codepoint": 57488,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "changeDateSort"
+    },
+    "charging-treasure": {
+      "codepoint": 57489,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "chargingTreasure"
+    },
+    "chart-line-area": {
+      "codepoint": 57490,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "chartLineArea"
+    },
+    "chart-pie": {
+      "codepoint": 57491,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "chartPie"
+    },
+    "chart-proportion": {
+      "codepoint": 57492,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "chartProportion"
+    },
+    "chart-ring": {
+      "codepoint": 57493,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "chartRing"
+    },
+    "checkbox": {
+      "codepoint": 57494,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "checkbox"
+    },
+    "checkerboard": {
+      "codepoint": 57495,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "checkerboard"
+    },
+    "checklist": {
+      "codepoint": 57496,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "checklist"
+    },
+    "cheese": {
+      "codepoint": 57497,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cheese"
+    },
+    "cherry": {
+      "codepoint": 57498,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cherry"
+    },
+    "chicken": {
+      "codepoint": 57499,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "chicken"
+    },
+    "children-cap": {
+      "codepoint": 57500,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "childrenCap"
+    },
+    "chimney": {
+      "codepoint": 57501,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "chimney"
+    },
+    "chinese-one": {
+      "codepoint": 57502,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "chineseOne"
+    },
+    "chip": {
+      "codepoint": 57503,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "chip"
+    },
+    "christmas-tree-one": {
+      "codepoint": 57504,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "christmasTreeOne"
+    },
+    "church-one": {
+      "codepoint": 57505,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "churchOne"
+    },
+    "circle-four": {
+      "codepoint": 57506,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "circleFour"
+    },
+    "circle-house": {
+      "codepoint": 57507,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "circleHouse"
+    },
+    "circle-three": {
+      "codepoint": 57508,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "circleThree"
+    },
+    "circles-and-triangles": {
+      "codepoint": 57509,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "circlesAndTriangles"
+    },
+    "circular-connection": {
+      "codepoint": 57510,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "circularConnection"
+    },
+    "circus": {
+      "codepoint": 57511,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "circus"
+    },
+    "city": {
+      "codepoint": 57512,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "city"
+    },
+    "city-one": {
+      "codepoint": 57513,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cityOne"
+    },
+    "classroom": {
+      "codepoint": 57514,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "classroom"
+    },
+    "clear": {
+      "codepoint": 57515,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "clear"
+    },
+    "click": {
+      "codepoint": 57516,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "click"
+    },
+    "clipboard": {
+      "codepoint": 57517,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "clipboard"
+    },
+    "clock-tower": {
+      "codepoint": 57518,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "clockTower"
+    },
+    "clothes-gloves-two": {
+      "codepoint": 57519,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "clothesGlovesTwo"
+    },
+    "clothes-hoodie": {
+      "codepoint": 57520,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "clothesHoodie"
+    },
+    "clothes-pants-sweat": {
+      "codepoint": 57521,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "clothesPantsSweat"
+    },
+    "clothes-skates": {
+      "codepoint": 57522,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "clothesSkates"
+    },
+    "clothes-turtleneck": {
+      "codepoint": 57523,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "clothesTurtleneck"
+    },
+    "clothes-windbreaker": {
+      "codepoint": 57524,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "clothesWindbreaker"
+    },
+    "cloudy": {
+      "codepoint": 57525,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cloudy"
+    },
+    "cloudy-night": {
+      "codepoint": 57526,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cloudyNight"
+    },
+    "coat-hanger": {
+      "codepoint": 57527,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "coatHanger"
+    },
+    "coconut-tree": {
+      "codepoint": 57528,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "coconutTree"
+    },
+    "code-laptop": {
+      "codepoint": 57529,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "codeLaptop"
+    },
+    "coffee-machine": {
+      "codepoint": 57530,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "coffeeMachine"
+    },
+    "cola": {
+      "codepoint": 57531,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cola"
+    },
+    "collect-computer": {
+      "codepoint": 57532,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "collectComputer"
+    },
+    "collect-laptop": {
+      "codepoint": 57533,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "collectLaptop"
+    },
+    "collect-picture": {
+      "codepoint": 57534,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "collectPicture"
+    },
+    "collection-files": {
+      "codepoint": 57535,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "collectionFiles"
+    },
+    "collection-records": {
+      "codepoint": 57536,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "collectionRecords"
+    },
+    "color-card": {
+      "codepoint": 57537,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "colorCard"
+    },
+    "color-filter": {
+      "codepoint": 57538,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "colorFilter"
+    },
+    "comments": {
+      "codepoint": 57539,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "comments"
+    },
+    "communication": {
+      "codepoint": 57540,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "communication"
+    },
+    "commuter-bag": {
+      "codepoint": 57541,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "commuterBag"
+    },
+    "compass": {
+      "codepoint": 57542,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "compass"
+    },
+    "computer": {
+      "codepoint": 57543,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "computer"
+    },
+    "concept-sharing": {
+      "codepoint": 57544,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "conceptSharing"
+    },
+    "concern": {
+      "codepoint": 57545,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "concern"
+    },
+    "config": {
+      "codepoint": 57546,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "config"
+    },
+    "connect-address-one": {
+      "codepoint": 57547,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "connectAddressOne"
+    },
+    "connect-address-two": {
+      "codepoint": 57548,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "connectAddressTwo"
+    },
+    "connection": {
+      "codepoint": 57549,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "connection"
+    },
+    "connection-point": {
+      "codepoint": 57550,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "connectionPoint"
+    },
+    "connection-point-two": {
+      "codepoint": 57551,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "connectionPointTwo"
+    },
+    "contrast": {
+      "codepoint": 57552,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "contrast"
+    },
+    "contrast-view-circle": {
+      "codepoint": 57553,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "contrastViewCircle"
+    },
+    "control": {
+      "codepoint": 57554,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "control"
+    },
+    "cooking": {
+      "codepoint": 57555,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cooking"
+    },
+    "cooking-pot": {
+      "codepoint": 57556,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cookingPot"
+    },
+    "copy": {
+      "codepoint": 57557,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "copy"
+    },
+    "copy-link": {
+      "codepoint": 57558,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "copyLink"
+    },
+    "coronavirus": {
+      "codepoint": 57559,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "coronavirus"
+    },
+    "crab": {
+      "codepoint": 57560,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "crab"
+    },
+    "crown": {
+      "codepoint": 57561,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "crown"
+    },
+    "crown-three": {
+      "codepoint": 57562,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "crownThree"
+    },
+    "crown-two": {
+      "codepoint": 57563,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "crownTwo"
+    },
+    "cruise": {
+      "codepoint": 57564,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cruise"
+    },
+    "cup": {
+      "codepoint": 57565,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cup"
+    },
+    "curling": {
+      "codepoint": 57566,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "curling"
+    },
+    "cycle-one": {
+      "codepoint": 57567,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "cycleOne"
+    },
+    "damage-map": {
+      "codepoint": 57568,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "damageMap"
+    },
+    "dark-mode": {
+      "codepoint": 57569,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "darkMode"
+    },
+    "dashboard-car": {
+      "codepoint": 57570,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "dashboardCar"
+    },
+    "dashboard-one": {
+      "codepoint": 57571,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "dashboardOne"
+    },
+    "data": {
+      "codepoint": 57572,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "data"
+    },
+    "data-all": {
+      "codepoint": 57573,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "dataAll"
+    },
+    "data-display": {
+      "codepoint": 57574,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "dataDisplay"
+    },
+    "data-four": {
+      "codepoint": 57575,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "dataFour"
+    },
+    "data-one": {
+      "codepoint": 57576,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "dataOne"
+    },
+    "data-screen": {
+      "codepoint": 57577,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "dataScreen"
+    },
+    "data-sheet": {
+      "codepoint": 57578,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "dataSheet"
+    },
+    "data-switching": {
+      "codepoint": 57579,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "dataSwitching"
+    },
+    "data-three": {
+      "codepoint": 57580,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "dataThree"
+    },
+    "data-user": {
+      "codepoint": 57581,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "dataUser"
+    },
+    "database-alert": {
+      "codepoint": 57582,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "databaseAlert"
+    },
+    "database-code": {
+      "codepoint": 57583,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "databaseCode"
+    },
+    "database-config": {
+      "codepoint": 57584,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "databaseConfig"
+    },
+    "database-first": {
+      "codepoint": 57585,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "databaseFirst"
+    },
+    "database-forbid": {
+      "codepoint": 57586,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "databaseForbid"
+    },
+    "database-network": {
+      "codepoint": 57587,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "databaseNetwork"
+    },
+    "database-network-point": {
+      "codepoint": 57588,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "databaseNetworkPoint"
+    },
+    "database-position": {
+      "codepoint": 57589,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "databasePosition"
+    },
+    "database-search": {
+      "codepoint": 57590,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "databaseSearch"
+    },
+    "database-setting": {
+      "codepoint": 57591,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "databaseSetting"
+    },
+    "death-star": {
+      "codepoint": 57592,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "deathStar"
+    },
+    "delete-five": {
+      "codepoint": 57593,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "deleteFive"
+    },
+    "delete-four": {
+      "codepoint": 57594,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "deleteFour"
+    },
+    "delete-one": {
+      "codepoint": 57595,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "deleteOne"
+    },
+    "delete-three": {
+      "codepoint": 57596,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "deleteThree"
+    },
+    "delivery": {
+      "codepoint": 57597,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "delivery"
+    },
+    "desk-lamp-one": {
+      "codepoint": 57598,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "deskLampOne"
+    },
+    "devices": {
+      "codepoint": 57599,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "devices"
+    },
+    "digital-watches": {
+      "codepoint": 57600,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "digitalWatches"
+    },
+    "direction": {
+      "codepoint": 57601,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "direction"
+    },
+    "direction-adjustment-two": {
+      "codepoint": 57602,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "directionAdjustmentTwo"
+    },
+    "disabaled-web": {
+      "codepoint": 57603,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "disabaledWeb"
+    },
+    "disabled-laptop": {
+      "codepoint": 57604,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "disabledLaptop"
+    },
+    "discovery-index": {
+      "codepoint": 57605,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "discoveryIndex"
+    },
+    "disk-one": {
+      "codepoint": 57606,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "diskOne"
+    },
+    "display": {
+      "codepoint": 57607,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "display"
+    },
+    "distribute-horizontal-spacing": {
+      "codepoint": 57608,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "distributeHorizontalSpacing"
+    },
+    "distribute-vertical-spacing": {
+      "codepoint": 57609,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "distributeVerticalSpacing"
+    },
+    "diving-bottle": {
+      "codepoint": 57610,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "divingBottle"
+    },
+    "diving-suit": {
+      "codepoint": 57611,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "divingSuit"
+    },
+    "division": {
+      "codepoint": 57612,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "division"
+    },
+    "doc-search-two": {
+      "codepoint": 57613,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "docSearchTwo"
+    },
+    "dog": {
+      "codepoint": 57614,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "dog"
+    },
+    "door-handle": {
+      "codepoint": 57615,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "doorHandle"
+    },
+    "double-bed": {
+      "codepoint": 57616,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "doubleBed"
+    },
+    "doughnut": {
+      "codepoint": 57617,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "doughnut"
+    },
+    "down-square": {
+      "codepoint": 57618,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "downSquare"
+    },
+    "download-laptop": {
+      "codepoint": 57619,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "downloadLaptop"
+    },
+    "download-web": {
+      "codepoint": 57620,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "downloadWeb"
+    },
+    "drink": {
+      "codepoint": 57621,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "drink"
+    },
+    "drone": {
+      "codepoint": 57622,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "drone"
+    },
+    "drone-one": {
+      "codepoint": 57623,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "droneOne"
+    },
+    "edit": {
+      "codepoint": 57624,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "edit"
+    },
+    "edit-name": {
+      "codepoint": 57625,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "editName"
+    },
+    "edit-two": {
+      "codepoint": 57626,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "editTwo"
+    },
+    "editing": {
+      "codepoint": 57627,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "editing"
+    },
+    "egg": {
+      "codepoint": 57628,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "egg"
+    },
+    "eggplant": {
+      "codepoint": 57629,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "eggplant"
+    },
+    "eight-key": {
+      "codepoint": 57630,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "eightKey"
+    },
+    "electric-iron": {
+      "codepoint": 57631,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "electricIron"
+    },
+    "electric-wave": {
+      "codepoint": 57632,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "electricWave"
+    },
+    "electronic-door-lock": {
+      "codepoint": 57633,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "electronicDoorLock"
+    },
+    "electronic-locks-close": {
+      "codepoint": 57634,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "electronicLocksClose"
+    },
+    "electronic-locks-open": {
+      "codepoint": 57635,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "electronicLocksOpen"
+    },
+    "electronic-pen": {
+      "codepoint": 57636,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "electronicPen"
+    },
+    "email-block": {
+      "codepoint": 57637,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "emailBlock"
+    },
+    "email-delect": {
+      "codepoint": 57638,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "emailDelect"
+    },
+    "email-lock": {
+      "codepoint": 57639,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "emailLock"
+    },
+    "email-search": {
+      "codepoint": 57640,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "emailSearch"
+    },
+    "email-security": {
+      "codepoint": 57641,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "emailSecurity"
+    },
+    "endocrine": {
+      "codepoint": 57642,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "endocrine"
+    },
+    "energy-socket": {
+      "codepoint": 57643,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "energySocket"
+    },
+    "engineering-brand": {
+      "codepoint": 57644,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "engineeringBrand"
+    },
+    "engineering-vehicle": {
+      "codepoint": 57645,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "engineeringVehicle"
+    },
+    "english": {
+      "codepoint": 57646,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "english"
+    },
+    "english-mustache": {
+      "codepoint": 57647,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "englishMustache"
+    },
+    "equal-ratio": {
+      "codepoint": 57648,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "equalRatio"
+    },
+    "equalizer": {
+      "codepoint": 57649,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "equalizer"
+    },
+    "erase": {
+      "codepoint": 57650,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "erase"
+    },
+    "every-user": {
+      "codepoint": 57651,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "everyUser"
+    },
+    "excel": {
+      "codepoint": 57652,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "excel"
+    },
+    "excel-one": {
+      "codepoint": 57653,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "excelOne"
+    },
+    "expand-right": {
+      "codepoint": 57654,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "expandRight"
+    },
+    "expand-up": {
+      "codepoint": 57655,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "expandUp"
+    },
+    "experiment": {
+      "codepoint": 57656,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "experiment"
+    },
+    "experiment-one": {
+      "codepoint": 57657,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "experimentOne"
+    },
+    "express-delivery": {
+      "codepoint": 57658,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "expressDelivery"
+    },
+    "extend": {
+      "codepoint": 57659,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "extend"
+    },
+    "eyebrow": {
+      "codepoint": 57660,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "eyebrow"
+    },
+    "f-eight-key": {
+      "codepoint": 57661,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fEightKey"
+    },
+    "f-five-key": {
+      "codepoint": 57662,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fFiveKey"
+    },
+    "f-four-key": {
+      "codepoint": 57663,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fFourKey"
+    },
+    "f-n-key": {
+      "codepoint": 57664,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fNKey"
+    },
+    "f-nine-key": {
+      "codepoint": 57665,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fNineKey"
+    },
+    "f-one-key": {
+      "codepoint": 57666,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fOneKey"
+    },
+    "f-seven-key": {
+      "codepoint": 57667,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fSevenKey"
+    },
+    "f-six-key": {
+      "codepoint": 57668,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fSixKey"
+    },
+    "f-three-key": {
+      "codepoint": 57669,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fThreeKey"
+    },
+    "f-two-key": {
+      "codepoint": 57670,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fTwoKey"
+    },
+    "f-zero-key": {
+      "codepoint": 57671,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fZeroKey"
+    },
+    "face-powder": {
+      "codepoint": 57672,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "facePowder"
+    },
+    "facetime": {
+      "codepoint": 57673,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "facetime"
+    },
+    "facial-cleanser": {
+      "codepoint": 57674,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "facialCleanser"
+    },
+    "factory-building": {
+      "codepoint": 57675,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "factoryBuilding"
+    },
+    "family": {
+      "codepoint": 57676,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "family"
+    },
+    "ferris-wheel": {
+      "codepoint": 57677,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "ferrisWheel"
+    },
+    "figma": {
+      "codepoint": 57678,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "figma"
+    },
+    "file-collection-one": {
+      "codepoint": 57679,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fileCollectionOne"
+    },
+    "file-date-one": {
+      "codepoint": 57680,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fileDateOne"
+    },
+    "file-display-one": {
+      "codepoint": 57681,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fileDisplayOne"
+    },
+    "file-editing-one": {
+      "codepoint": 57682,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fileEditingOne"
+    },
+    "file-focus-one": {
+      "codepoint": 57683,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fileFocusOne"
+    },
+    "file-lock-one": {
+      "codepoint": 57684,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fileLockOne"
+    },
+    "file-music-one": {
+      "codepoint": 57685,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fileMusicOne"
+    },
+    "file-protection-one": {
+      "codepoint": 57686,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fileProtectionOne"
+    },
+    "file-quality-one": {
+      "codepoint": 57687,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fileQualityOne"
+    },
+    "file-search": {
+      "codepoint": 57688,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fileSearch"
+    },
+    "file-search-one": {
+      "codepoint": 57689,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fileSearchOne"
+    },
+    "file-settings-one": {
+      "codepoint": 57690,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fileSettingsOne"
+    },
+    "file-staff-one": {
+      "codepoint": 57691,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fileStaffOne"
+    },
+    "financing": {
+      "codepoint": 57692,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "financing"
+    },
+    "financing-two": {
+      "codepoint": 57693,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "financingTwo"
+    },
+    "find": {
+      "codepoint": 57694,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "find"
+    },
+    "fingernail": {
+      "codepoint": 57695,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fingernail"
+    },
+    "first-aid-kit": {
+      "codepoint": 57696,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "firstAidKit"
+    },
+    "five-key": {
+      "codepoint": 57697,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fiveKey"
+    },
+    "flag": {
+      "codepoint": 57698,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "flag"
+    },
+    "flashlamp": {
+      "codepoint": 57699,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "flashlamp"
+    },
+    "flight-airflow": {
+      "codepoint": 57700,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "flightAirflow"
+    },
+    "flight-safety": {
+      "codepoint": 57701,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "flightSafety"
+    },
+    "flip-horizontally": {
+      "codepoint": 57702,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "flipHorizontally"
+    },
+    "flip-vertically": {
+      "codepoint": 57703,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "flipVertically"
+    },
+    "float": {
+      "codepoint": 57704,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "float"
+    },
+    "focus": {
+      "codepoint": 57705,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "focus"
+    },
+    "focus-one": {
+      "codepoint": 57706,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "focusOne"
+    },
+    "folder-block-one": {
+      "codepoint": 57707,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "folderBlockOne"
+    },
+    "folder-focus": {
+      "codepoint": 57708,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "folderFocus"
+    },
+    "folder-focus-one": {
+      "codepoint": 57709,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "folderFocusOne"
+    },
+    "folder-lock-one": {
+      "codepoint": 57710,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "folderLockOne"
+    },
+    "folder-music-one": {
+      "codepoint": 57711,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "folderMusicOne"
+    },
+    "folder-open": {
+      "codepoint": 57712,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "folderOpen"
+    },
+    "folder-protection": {
+      "codepoint": 57713,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "folderProtection"
+    },
+    "folder-protection-one": {
+      "codepoint": 57714,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "folderProtectionOne"
+    },
+    "folder-quality": {
+      "codepoint": 57715,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "folderQuality"
+    },
+    "folder-quality-one": {
+      "codepoint": 57716,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "folderQualityOne"
+    },
+    "folder-search-one": {
+      "codepoint": 57717,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "folderSearchOne"
+    },
+    "folder-settings-one": {
+      "codepoint": 57718,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "folderSettingsOne"
+    },
+    "font-search": {
+      "codepoint": 57719,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fontSearch"
+    },
+    "fork-spoon": {
+      "codepoint": 57720,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "forkSpoon"
+    },
+    "format": {
+      "codepoint": 57721,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "format"
+    },
+    "four-arrows": {
+      "codepoint": 57722,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fourArrows"
+    },
+    "four-key": {
+      "codepoint": 57723,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fourKey"
+    },
+    "four-point-connection": {
+      "codepoint": 57724,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fourPointConnection"
+    },
+    "french-fries": {
+      "codepoint": 57725,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "frenchFries"
+    },
+    "friends-circle": {
+      "codepoint": 57726,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "friendsCircle"
+    },
+    "fruiter": {
+      "codepoint": 57727,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fruiter"
+    },
+    "full-screen-play": {
+      "codepoint": 57728,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "fullScreenPlay"
+    },
+    "game-console": {
+      "codepoint": 57729,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "gameConsole"
+    },
+    "game-three": {
+      "codepoint": 57730,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "gameThree"
+    },
+    "gamepad": {
+      "codepoint": 57731,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "gamepad"
+    },
+    "gate": {
+      "codepoint": 57732,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "gate"
+    },
+    "gauze": {
+      "codepoint": 57733,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "gauze"
+    },
+    "girl-one": {
+      "codepoint": 57734,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "girlOne"
+    },
+    "girl-two": {
+      "codepoint": 57735,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "girlTwo"
+    },
+    "glasses": {
+      "codepoint": 57736,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "glasses"
+    },
+    "glasses-one": {
+      "codepoint": 57737,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "glassesOne"
+    },
+    "glasses-three": {
+      "codepoint": 57738,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "glassesThree"
+    },
+    "globe": {
+      "codepoint": 57739,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "globe"
+    },
+    "goblet": {
+      "codepoint": 57740,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "goblet"
+    },
+    "goblet-cracking": {
+      "codepoint": 57741,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "gobletCracking"
+    },
+    "goblet-full": {
+      "codepoint": 57742,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "gobletFull"
+    },
+    "gongfu": {
+      "codepoint": 57743,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "gongfu"
+    },
+    "gopro": {
+      "codepoint": 57744,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "gopro"
+    },
+    "gps": {
+      "codepoint": 57745,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "gps"
+    },
+    "graphic-design": {
+      "codepoint": 57746,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "graphicDesign"
+    },
+    "graphic-design-two": {
+      "codepoint": 57747,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "graphicDesignTwo"
+    },
+    "green-house": {
+      "codepoint": 57748,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "greenHouse"
+    },
+    "green-new-energy": {
+      "codepoint": 57749,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "greenNewEnergy"
+    },
+    "guide-board": {
+      "codepoint": 57750,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "guideBoard"
+    },
+    "hair-dryer": {
+      "codepoint": 57751,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "hairDryer"
+    },
+    "hair-dryer-one": {
+      "codepoint": 57752,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "hairDryerOne"
+    },
+    "hamburger-one": {
+      "codepoint": 57753,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "hamburgerOne"
+    },
+    "hand-painted-plate": {
+      "codepoint": 57754,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "handPaintedPlate"
+    },
+    "handbag": {
+      "codepoint": 57755,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "handbag"
+    },
+    "handheld": {
+      "codepoint": 57756,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "handheld"
+    },
+    "handle-a": {
+      "codepoint": 57757,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "handleA"
+    },
+    "handle-b": {
+      "codepoint": 57758,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "handleB"
+    },
+    "handle-c": {
+      "codepoint": 57759,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "handleC"
+    },
+    "handle-down": {
+      "codepoint": 57760,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "handleDown"
+    },
+    "handle-left": {
+      "codepoint": 57761,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "handleLeft"
+    },
+    "handle-right": {
+      "codepoint": 57762,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "handleRight"
+    },
+    "handle-round": {
+      "codepoint": 57763,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "handleRound"
+    },
+    "handle-square": {
+      "codepoint": 57764,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "handleSquare"
+    },
+    "handle-triangle": {
+      "codepoint": 57765,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "handleTriangle"
+    },
+    "handle-up": {
+      "codepoint": 57766,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "handleUp"
+    },
+    "handle-x": {
+      "codepoint": 57767,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "handleX"
+    },
+    "handle-y": {
+      "codepoint": 57768,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "handleY"
+    },
+    "handle-z": {
+      "codepoint": 57769,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "handleZ"
+    },
+    "hands": {
+      "codepoint": 57770,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "hands"
+    },
+    "handwashing": {
+      "codepoint": 57771,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "handwashing"
+    },
+    "handwashing-fluid": {
+      "codepoint": 57772,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "handwashingFluid"
+    },
+    "hanger-two": {
+      "codepoint": 57773,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "hangerTwo"
+    },
+    "hard-disk-one": {
+      "codepoint": 57774,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "hardDiskOne"
+    },
+    "hashtag-key": {
+      "codepoint": 57775,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "hashtagKey"
+    },
+    "hat": {
+      "codepoint": 57776,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "hat"
+    },
+    "hdd": {
+      "codepoint": 57777,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "hdd"
+    },
+    "hdmi-connector": {
+      "codepoint": 57778,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "hdmiConnector"
+    },
+    "headset": {
+      "codepoint": 57779,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "headset"
+    },
+    "headwear": {
+      "codepoint": 57780,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "headwear"
+    },
+    "health": {
+      "codepoint": 57781,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "health"
+    },
+    "healthy-recognition": {
+      "codepoint": 57782,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "healthyRecognition"
+    },
+    "heater-resistor": {
+      "codepoint": 57783,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "heaterResistor"
+    },
+    "helmet-one": {
+      "codepoint": 57784,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "helmetOne"
+    },
+    "high-speed-rail": {
+      "codepoint": 57785,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "highSpeedRail"
+    },
+    "history-query": {
+      "codepoint": 57786,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "historyQuery"
+    },
+    "hold-interface": {
+      "codepoint": 57787,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "holdInterface"
+    },
+    "hold-seeds": {
+      "codepoint": 57788,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "holdSeeds"
+    },
+    "homestay": {
+      "codepoint": 57789,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "homestay"
+    },
+    "hospital-two": {
+      "codepoint": 57790,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "hospitalTwo"
+    },
+    "hot-air-balloon": {
+      "codepoint": 57791,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "hotAirBalloon"
+    },
+    "hot-pot": {
+      "codepoint": 57792,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "hotPot"
+    },
+    "hotel": {
+      "codepoint": 57793,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "hotel"
+    },
+    "hourglass-full": {
+      "codepoint": 57794,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "hourglassFull"
+    },
+    "hourglass-null": {
+      "codepoint": 57795,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "hourglassNull"
+    },
+    "icecream": {
+      "codepoint": 57796,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "icecream"
+    },
+    "icecream-four": {
+      "codepoint": 57797,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "icecreamFour"
+    },
+    "icecream-two": {
+      "codepoint": 57798,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "icecreamTwo"
+    },
+    "imbalance": {
+      "codepoint": 57799,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "imbalance"
+    },
+    "in-flight": {
+      "codepoint": 57800,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "inFlight"
+    },
+    "inbox": {
+      "codepoint": 57801,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "inbox"
+    },
+    "inbox-download-r": {
+      "codepoint": 57802,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "inboxDownloadR"
+    },
+    "inbox-in": {
+      "codepoint": 57803,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "inboxIn"
+    },
+    "inbox-out": {
+      "codepoint": 57804,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "inboxOut"
+    },
+    "inbox-r": {
+      "codepoint": 57805,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "inboxR"
+    },
+    "inbox-success": {
+      "codepoint": 57806,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "inboxSuccess"
+    },
+    "inbox-success-r": {
+      "codepoint": 57807,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "inboxSuccessR"
+    },
+    "inbox-upload-r": {
+      "codepoint": 57808,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "inboxUploadR"
+    },
+    "inclusive-gateway": {
+      "codepoint": 57809,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "inclusiveGateway"
+    },
+    "insert-card": {
+      "codepoint": 57810,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "insertCard"
+    },
+    "inspection": {
+      "codepoint": 57811,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "inspection"
+    },
+    "instagram-one": {
+      "codepoint": 57812,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "instagramOne"
+    },
+    "install": {
+      "codepoint": 57813,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "install"
+    },
+    "internal-expansion": {
+      "codepoint": 57814,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "internalExpansion"
+    },
+    "internal-reduction": {
+      "codepoint": 57815,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "internalReduction"
+    },
+    "intersection": {
+      "codepoint": 57816,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "intersection"
+    },
+    "invert-camera": {
+      "codepoint": 57817,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "invertCamera"
+    },
+    "ipad": {
+      "codepoint": 57818,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "ipad"
+    },
+    "ipad-one": {
+      "codepoint": 57819,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "ipadOne"
+    },
+    "iphone": {
+      "codepoint": 57820,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "iphone"
+    },
+    "iwatch-one": {
+      "codepoint": 57821,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "iwatchOne"
+    },
+    "iwatch-two": {
+      "codepoint": 57822,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "iwatchTwo"
+    },
+    "jump": {
+      "codepoint": 57823,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "jump"
+    },
+    "kettle-one": {
+      "codepoint": 57824,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "kettleOne"
+    },
+    "key-one": {
+      "codepoint": 57825,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "keyOne"
+    },
+    "key-two": {
+      "codepoint": 57826,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "keyTwo"
+    },
+    "keyhole": {
+      "codepoint": 57827,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "keyhole"
+    },
+    "keyline": {
+      "codepoint": 57828,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "keyline"
+    },
+    "kitchen-knife": {
+      "codepoint": 57829,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "kitchenKnife"
+    },
+    "knife-fork": {
+      "codepoint": 57830,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "knifeFork"
+    },
+    "label": {
+      "codepoint": 57831,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "label"
+    },
+    "land-surveying": {
+      "codepoint": 57832,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "landSurveying"
+    },
+    "landing": {
+      "codepoint": 57833,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "landing"
+    },
+    "laptop-computer": {
+      "codepoint": 57834,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "laptopComputer"
+    },
+    "laptop-one": {
+      "codepoint": 57835,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "laptopOne"
+    },
+    "layout-five": {
+      "codepoint": 57836,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "layoutFive"
+    },
+    "layout-four": {
+      "codepoint": 57837,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "layoutFour"
+    },
+    "layout-one": {
+      "codepoint": 57838,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "layoutOne"
+    },
+    "layout-three": {
+      "codepoint": 57839,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "layoutThree"
+    },
+    "layout-two": {
+      "codepoint": 57840,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "layoutTwo"
+    },
+    "left-bar": {
+      "codepoint": 57841,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "leftBar"
+    },
+    "left-expand": {
+      "codepoint": 57842,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "leftExpand"
+    },
+    "left-square": {
+      "codepoint": 57843,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "leftSquare"
+    },
+    "leo": {
+      "codepoint": 57844,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "leo"
+    },
+    "light-house": {
+      "codepoint": 57845,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "lightHouse"
+    },
+    "light-member": {
+      "codepoint": 57846,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "lightMember"
+    },
+    "lipstick": {
+      "codepoint": 57847,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "lipstick"
+    },
+    "lipstick-one": {
+      "codepoint": 57848,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "lipstickOne"
+    },
+    "list-alphabet": {
+      "codepoint": 57849,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "listAlphabet"
+    },
+    "list-fail": {
+      "codepoint": 57850,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "listFail"
+    },
+    "list-one": {
+      "codepoint": 57851,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "listOne"
+    },
+    "list-success": {
+      "codepoint": 57852,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "listSuccess"
+    },
+    "local": {
+      "codepoint": 57853,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "local"
+    },
+    "local-two": {
+      "codepoint": 57854,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "localTwo"
+    },
+    "lock": {
+      "codepoint": 57855,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "lock"
+    },
+    "lock-one": {
+      "codepoint": 57856,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "lockOne"
+    },
+    "locking-computer": {
+      "codepoint": 57857,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "lockingComputer"
+    },
+    "locking-laptop": {
+      "codepoint": 57858,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "lockingLaptop"
+    },
+    "locking-picture": {
+      "codepoint": 57859,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "lockingPicture"
+    },
+    "locking-web": {
+      "codepoint": 57860,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "lockingWeb"
+    },
+    "lotus": {
+      "codepoint": 57861,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "lotus"
+    },
+    "luggage": {
+      "codepoint": 57862,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "luggage"
+    },
+    "magnet": {
+      "codepoint": 57863,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "magnet"
+    },
+    "mail-download": {
+      "codepoint": 57864,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "mailDownload"
+    },
+    "mail-edit": {
+      "codepoint": 57865,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "mailEdit"
+    },
+    "mail-review": {
+      "codepoint": 57866,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "mailReview"
+    },
+    "mail-unpacking": {
+      "codepoint": 57867,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "mailUnpacking"
+    },
+    "makeups": {
+      "codepoint": 57868,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "makeups"
+    },
+    "male": {
+      "codepoint": 57869,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "male"
+    },
+    "manual-gear": {
+      "codepoint": 57870,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "manualGear"
+    },
+    "margin": {
+      "codepoint": 57871,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "margin"
+    },
+    "margin-one": {
+      "codepoint": 57872,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "marginOne"
+    },
+    "mark": {
+      "codepoint": 57873,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "mark"
+    },
+    "mascara": {
+      "codepoint": 57874,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "mascara"
+    },
+    "mask-one": {
+      "codepoint": 57875,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "maskOne"
+    },
+    "massage-chair": {
+      "codepoint": 57876,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "massageChair"
+    },
+    "massage-chair-one": {
+      "codepoint": 57877,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "massageChairOne"
+    },
+    "master": {
+      "codepoint": 57878,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "master"
+    },
+    "me": {
+      "codepoint": 57879,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "me"
+    },
+    "measuring-cup": {
+      "codepoint": 57880,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "measuringCup"
+    },
+    "medal-one": {
+      "codepoint": 57881,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "medalOne"
+    },
+    "medical-files": {
+      "codepoint": 57882,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "medicalFiles"
+    },
+    "medication-time": {
+      "codepoint": 57883,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "medicationTime"
+    },
+    "medicine-chest": {
+      "codepoint": 57884,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "medicineChest"
+    },
+    "memory-card": {
+      "codepoint": 57885,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "memoryCard"
+    },
+    "memory-card-one": {
+      "codepoint": 57886,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "memoryCardOne"
+    },
+    "menu-fold-one": {
+      "codepoint": 57887,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "menuFoldOne"
+    },
+    "menu-unfold-one": {
+      "codepoint": 57888,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "menuUnfoldOne"
+    },
+    "message-privacy": {
+      "codepoint": 57889,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "messagePrivacy"
+    },
+    "message-search": {
+      "codepoint": 57890,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "messageSearch"
+    },
+    "message-security": {
+      "codepoint": 57891,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "messageSecurity"
+    },
+    "messages-one": {
+      "codepoint": 57892,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "messagesOne"
+    },
+    "microscope": {
+      "codepoint": 57893,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "microscope"
+    },
+    "microscope-one": {
+      "codepoint": 57894,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "microscopeOne"
+    },
+    "microwave-oven": {
+      "codepoint": 57895,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "microwaveOven"
+    },
+    "mirror-one": {
+      "codepoint": 57896,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "mirrorOne"
+    },
+    "mirror-two": {
+      "codepoint": 57897,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "mirrorTwo"
+    },
+    "modify": {
+      "codepoint": 57898,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "modify"
+    },
+    "modify-two": {
+      "codepoint": 57899,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "modifyTwo"
+    },
+    "monitor-one": {
+      "codepoint": 57900,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "monitorOne"
+    },
+    "monkey": {
+      "codepoint": 57901,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "monkey"
+    },
+    "monument-one": {
+      "codepoint": 57902,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "monumentOne"
+    },
+    "monument-two": {
+      "codepoint": 57903,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "monumentTwo"
+    },
+    "mounted": {
+      "codepoint": 57904,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "mounted"
+    },
+    "multi-circular": {
+      "codepoint": 57905,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "multiCircular"
+    },
+    "multi-picture-carousel": {
+      "codepoint": 57906,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "multiPictureCarousel"
+    },
+    "multi-rectangle": {
+      "codepoint": 57907,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "multiRectangle"
+    },
+    "multi-triangular-two": {
+      "codepoint": 57908,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "multiTriangularTwo"
+    },
+    "museum-one": {
+      "codepoint": 57909,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "museumOne"
+    },
+    "museum-two": {
+      "codepoint": 57910,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "museumTwo"
+    },
+    "music-cd": {
+      "codepoint": 57911,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "musicCd"
+    },
+    "music-list": {
+      "codepoint": 57912,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "musicList"
+    },
+    "music-one": {
+      "codepoint": 57913,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "musicOne"
+    },
+    "mute": {
+      "codepoint": 57914,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "mute"
+    },
+    "nail-polish": {
+      "codepoint": 57915,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "nailPolish"
+    },
+    "natural-mode": {
+      "codepoint": 57916,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "naturalMode"
+    },
+    "needle": {
+      "codepoint": 57917,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "needle"
+    },
+    "nested-arrows": {
+      "codepoint": 57918,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "nestedArrows"
+    },
+    "nests": {
+      "codepoint": 57919,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "nests"
+    },
+    "network-drive": {
+      "codepoint": 57920,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "networkDrive"
+    },
+    "new-computer": {
+      "codepoint": 57921,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "newComputer"
+    },
+    "new-picture": {
+      "codepoint": 57922,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "newPicture"
+    },
+    "newlybuild": {
+      "codepoint": 57923,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "newlybuild"
+    },
+    "newspaper-folding": {
+      "codepoint": 57924,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "newspaperFolding"
+    },
+    "nine-key": {
+      "codepoint": 57925,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "nineKey"
+    },
+    "nine-points-connected": {
+      "codepoint": 57926,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "ninePointsConnected"
+    },
+    "nmr": {
+      "codepoint": 57927,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "nmr"
+    },
+    "no-shooting": {
+      "codepoint": 57928,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "noShooting"
+    },
+    "notepad": {
+      "codepoint": 57929,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "notepad"
+    },
+    "nuclear-plant": {
+      "codepoint": 57930,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "nuclearPlant"
+    },
+    "nut": {
+      "codepoint": 57931,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "nut"
+    },
+    "one-key": {
+      "codepoint": 57932,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "oneKey"
+    },
+    "one-third-rotation": {
+      "codepoint": 57933,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "oneThirdRotation"
+    },
+    "open-an-account": {
+      "codepoint": 57934,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "openAnAccount"
+    },
+    "open-one": {
+      "codepoint": 57935,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "openOne"
+    },
+    "oscillator": {
+      "codepoint": 57936,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "oscillator"
+    },
+    "outbound": {
+      "codepoint": 57937,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "outbound"
+    },
+    "oval-one": {
+      "codepoint": 57938,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "ovalOne"
+    },
+    "oven": {
+      "codepoint": 57939,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "oven"
+    },
+    "pacifier": {
+      "codepoint": 57940,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "pacifier"
+    },
+    "paint": {
+      "codepoint": 57941,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "paint"
+    },
+    "painted-screen": {
+      "codepoint": 57942,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "paintedScreen"
+    },
+    "palm": {
+      "codepoint": 57943,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "palm"
+    },
+    "panda": {
+      "codepoint": 57944,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "panda"
+    },
+    "paragraph-alphabet": {
+      "codepoint": 57945,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "paragraphAlphabet"
+    },
+    "paragraph-rectangle": {
+      "codepoint": 57946,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "paragraphRectangle"
+    },
+    "paragraph-round": {
+      "codepoint": 57947,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "paragraphRound"
+    },
+    "paragraph-triangle": {
+      "codepoint": 57948,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "paragraphTriangle"
+    },
+    "parenting-book": {
+      "codepoint": 57949,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "parentingBook"
+    },
+    "passport-one": {
+      "codepoint": 57950,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "passportOne"
+    },
+    "pearl-of-the-orient": {
+      "codepoint": 57951,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "pearlOfTheOrient"
+    },
+    "peas": {
+      "codepoint": 57952,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "peas"
+    },
+    "pennant": {
+      "codepoint": 57953,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "pennant"
+    },
+    "people-bottom-card": {
+      "codepoint": 57954,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "peopleBottomCard"
+    },
+    "people-safe": {
+      "codepoint": 57955,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "peopleSafe"
+    },
+    "people-safe-one": {
+      "codepoint": 57956,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "peopleSafeOne"
+    },
+    "people-search-one": {
+      "codepoint": 57957,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "peopleSearchOne"
+    },
+    "people-top-card": {
+      "codepoint": 57958,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "peopleTopCard"
+    },
+    "percentage": {
+      "codepoint": 57959,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "percentage"
+    },
+    "performance": {
+      "codepoint": 57960,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "performance"
+    },
+    "perfume": {
+      "codepoint": 57961,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "perfume"
+    },
+    "permissions": {
+      "codepoint": 57962,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "permissions"
+    },
+    "personal-collection": {
+      "codepoint": 57963,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "personalCollection"
+    },
+    "personal-privacy": {
+      "codepoint": 57964,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "personalPrivacy"
+    },
+    "phone-call": {
+      "codepoint": 57965,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "phoneCall"
+    },
+    "phone-outgoing": {
+      "codepoint": 57966,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "phoneOutgoing"
+    },
+    "phone-two": {
+      "codepoint": 57967,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "phoneTwo"
+    },
+    "phone-video-call": {
+      "codepoint": 57968,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "phoneVideoCall"
+    },
+    "phonograph": {
+      "codepoint": 57969,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "phonograph"
+    },
+    "pic": {
+      "codepoint": 57970,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "pic"
+    },
+    "pic-one": {
+      "codepoint": 57971,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "picOne"
+    },
+    "picture": {
+      "codepoint": 57972,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "picture"
+    },
+    "picture-album": {
+      "codepoint": 57973,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "pictureAlbum"
+    },
+    "picture-one": {
+      "codepoint": 57974,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "pictureOne"
+    },
+    "pig": {
+      "codepoint": 57975,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "pig"
+    },
+    "pigeon": {
+      "codepoint": 57976,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "pigeon"
+    },
+    "platte": {
+      "codepoint": 57977,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "platte"
+    },
+    "play": {
+      "codepoint": 57978,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "play"
+    },
+    "play-two": {
+      "codepoint": 57979,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "playTwo"
+    },
+    "play-wrong": {
+      "codepoint": 57980,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "playWrong"
+    },
+    "plug-one": {
+      "codepoint": 57981,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "plugOne"
+    },
+    "pokeball-one": {
+      "codepoint": 57982,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "pokeballOne"
+    },
+    "pot": {
+      "codepoint": 57983,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "pot"
+    },
+    "potentiometer": {
+      "codepoint": 57984,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "potentiometer"
+    },
+    "powerpoint": {
+      "codepoint": 57985,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "powerpoint"
+    },
+    "ppt": {
+      "codepoint": 57986,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "ppt"
+    },
+    "preview-open": {
+      "codepoint": 57987,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "previewOpen"
+    },
+    "printer-two": {
+      "codepoint": 57988,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "printerTwo"
+    },
+    "prison": {
+      "codepoint": 57989,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "prison"
+    },
+    "projector": {
+      "codepoint": 57990,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "projector"
+    },
+    "projector-one": {
+      "codepoint": 57991,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "projectorOne"
+    },
+    "public-toilet": {
+      "codepoint": 57992,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "publicToilet"
+    },
+    "pumpkin": {
+      "codepoint": 57993,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "pumpkin"
+    },
+    "pure-natural": {
+      "codepoint": 57994,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "pureNatural"
+    },
+    "push-door": {
+      "codepoint": 57995,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "pushDoor"
+    },
+    "rabbit": {
+      "codepoint": 57996,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "rabbit"
+    },
+    "radar-two": {
+      "codepoint": 57997,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "radarTwo"
+    },
+    "radiation": {
+      "codepoint": 57998,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "radiation"
+    },
+    "radio": {
+      "codepoint": 57999,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "radio"
+    },
+    "radio-one": {
+      "codepoint": 58000,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "radioOne"
+    },
+    "radio-two": {
+      "codepoint": 58001,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "radioTwo"
+    },
+    "radish-one": {
+      "codepoint": 58002,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "radishOne"
+    },
+    "rattle": {
+      "codepoint": 58003,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "rattle"
+    },
+    "rattle-one": {
+      "codepoint": 58004,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "rattleOne"
+    },
+    "razor": {
+      "codepoint": 58005,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "razor"
+    },
+    "recent-views-sort": {
+      "codepoint": 58006,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "recentViewsSort"
+    },
+    "record": {
+      "codepoint": 58007,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "record"
+    },
+    "record-player": {
+      "codepoint": 58008,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "recordPlayer"
+    },
+    "red-cross": {
+      "codepoint": 58009,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "redCross"
+    },
+    "red-envelopes": {
+      "codepoint": 58010,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "redEnvelopes"
+    },
+    "reduce": {
+      "codepoint": 58011,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "reduce"
+    },
+    "reduce-two": {
+      "codepoint": 58012,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "reduceTwo"
+    },
+    "reduce-user": {
+      "codepoint": 58013,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "reduceUser"
+    },
+    "reel": {
+      "codepoint": 58014,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "reel"
+    },
+    "refresh-one": {
+      "codepoint": 58015,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "refreshOne"
+    },
+    "refrigerator": {
+      "codepoint": 58016,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "refrigerator"
+    },
+    "relational-graph": {
+      "codepoint": 58017,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "relationalGraph"
+    },
+    "remote-control-one": {
+      "codepoint": 58018,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "remoteControlOne"
+    },
+    "repair": {
+      "codepoint": 58019,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "repair"
+    },
+    "resting": {
+      "codepoint": 58020,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "resting"
+    },
+    "retro-bag": {
+      "codepoint": 58021,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "retroBag"
+    },
+    "reverse-lens-one": {
+      "codepoint": 58022,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "reverseLensOne"
+    },
+    "right-bar": {
+      "codepoint": 58023,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "rightBar"
+    },
+    "right-expand": {
+      "codepoint": 58024,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "rightExpand"
+    },
+    "right-square": {
+      "codepoint": 58025,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "rightSquare"
+    },
+    "right-user": {
+      "codepoint": 58026,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "rightUser"
+    },
+    "robot": {
+      "codepoint": 58027,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "robot"
+    },
+    "robot-one": {
+      "codepoint": 58028,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "robotOne"
+    },
+    "rock-gesture": {
+      "codepoint": 58029,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "rockGesture"
+    },
+    "rocket-one": {
+      "codepoint": 58030,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "rocketOne"
+    },
+    "rollerskates": {
+      "codepoint": 58031,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "rollerskates"
+    },
+    "rope-skipping": {
+      "codepoint": 58032,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "ropeSkipping"
+    },
+    "rotate-one": {
+      "codepoint": 58033,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "rotateOne"
+    },
+    "rotation-one": {
+      "codepoint": 58034,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "rotationOne"
+    },
+    "round": {
+      "codepoint": 58035,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "round"
+    },
+    "round-caliper": {
+      "codepoint": 58036,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "roundCaliper"
+    },
+    "round-mask": {
+      "codepoint": 58037,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "roundMask"
+    },
+    "router": {
+      "codepoint": 58038,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "router"
+    },
+    "ruler-one": {
+      "codepoint": 58039,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "rulerOne"
+    },
+    "s-turn-down": {
+      "codepoint": 58040,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "sTurnDown"
+    },
+    "s-turn-left": {
+      "codepoint": 58041,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "sTurnLeft"
+    },
+    "s-turn-right": {
+      "codepoint": 58042,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "sTurnRight"
+    },
+    "s-turn-up": {
+      "codepoint": 58043,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "sTurnUp"
+    },
+    "sailboat": {
+      "codepoint": 58044,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "sailboat"
+    },
+    "sailing": {
+      "codepoint": 58045,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "sailing"
+    },
+    "sandwich-one": {
+      "codepoint": 58046,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "sandwichOne"
+    },
+    "scale-one": {
+      "codepoint": 58047,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "scaleOne"
+    },
+    "scallion": {
+      "codepoint": 58048,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "scallion"
+    },
+    "scan-setting": {
+      "codepoint": 58049,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "scanSetting"
+    },
+    "schedule": {
+      "codepoint": 58050,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "schedule"
+    },
+    "scissors": {
+      "codepoint": 58051,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "scissors"
+    },
+    "scoreboard": {
+      "codepoint": 58052,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "scoreboard"
+    },
+    "screen-rotation": {
+      "codepoint": 58053,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "screenRotation"
+    },
+    "screenshot-one": {
+      "codepoint": 58054,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "screenshotOne"
+    },
+    "screenshot-two": {
+      "codepoint": 58055,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "screenshotTwo"
+    },
+    "seat": {
+      "codepoint": 58056,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "seat"
+    },
+    "seedling": {
+      "codepoint": 58057,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "seedling"
+    },
+    "selfie": {
+      "codepoint": 58058,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "selfie"
+    },
+    "send-to-back": {
+      "codepoint": 58059,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "sendToBack"
+    },
+    "seo": {
+      "codepoint": 58060,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "seo"
+    },
+    "setting": {
+      "codepoint": 58061,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "setting"
+    },
+    "setting-computer": {
+      "codepoint": 58062,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "settingComputer"
+    },
+    "setting-laptop": {
+      "codepoint": 58063,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "settingLaptop"
+    },
+    "setting-one": {
+      "codepoint": 58064,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "settingOne"
+    },
+    "setting-three": {
+      "codepoint": 58065,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "settingThree"
+    },
+    "setting-two": {
+      "codepoint": 58066,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "settingTwo"
+    },
+    "setting-web": {
+      "codepoint": 58067,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "settingWeb"
+    },
+    "seven-key": {
+      "codepoint": 58068,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "sevenKey"
+    },
+    "shake": {
+      "codepoint": 58069,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "shake"
+    },
+    "shaving": {
+      "codepoint": 58070,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "shaving"
+    },
+    "ship": {
+      "codepoint": 58071,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "ship"
+    },
+    "shopping-bag-one": {
+      "codepoint": 58072,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "shoppingBagOne"
+    },
+    "shopping-cart-two": {
+      "codepoint": 58073,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "shoppingCartTwo"
+    },
+    "shutter-priority": {
+      "codepoint": 58074,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "shutterPriority"
+    },
+    "sickbed": {
+      "codepoint": 58075,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "sickbed"
+    },
+    "signal-strength": {
+      "codepoint": 58076,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "signalStrength"
+    },
+    "sim-card": {
+      "codepoint": 58077,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "simCard"
+    },
+    "single-bed": {
+      "codepoint": 58078,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "singleBed"
+    },
+    "sippy-cup": {
+      "codepoint": 58079,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "sippyCup"
+    },
+    "six-circular-connection": {
+      "codepoint": 58080,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "sixCircularConnection"
+    },
+    "six-key": {
+      "codepoint": 58081,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "sixKey"
+    },
+    "six-points": {
+      "codepoint": 58082,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "sixPoints"
+    },
+    "skates": {
+      "codepoint": 58083,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "skates"
+    },
+    "skating": {
+      "codepoint": 58084,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "skating"
+    },
+    "sketch": {
+      "codepoint": 58085,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "sketch"
+    },
+    "slave": {
+      "codepoint": 58086,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "slave"
+    },
+    "sleep-two": {
+      "codepoint": 58087,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "sleepTwo"
+    },
+    "slide-two": {
+      "codepoint": 58088,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "slideTwo"
+    },
+    "slippers": {
+      "codepoint": 58089,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "slippers"
+    },
+    "slippers-one": {
+      "codepoint": 58090,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "slippersOne"
+    },
+    "snowman": {
+      "codepoint": 58091,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "snowman"
+    },
+    "soap-bubble": {
+      "codepoint": 58092,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "soapBubble"
+    },
+    "soccer": {
+      "codepoint": 58093,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "soccer"
+    },
+    "sound": {
+      "codepoint": 58094,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "sound"
+    },
+    "source-code": {
+      "codepoint": 58095,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "sourceCode"
+    },
+    "soybean-milk-maker": {
+      "codepoint": 58096,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "soybeanMilkMaker"
+    },
+    "speaker": {
+      "codepoint": 58097,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "speaker"
+    },
+    "speed": {
+      "codepoint": 58098,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "speed"
+    },
+    "spikedshoes": {
+      "codepoint": 58099,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "spikedshoes"
+    },
+    "spinning-top": {
+      "codepoint": 58100,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "spinningTop"
+    },
+    "split": {
+      "codepoint": 58101,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "split"
+    },
+    "split-turn-down-left": {
+      "codepoint": 58102,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "splitTurnDownLeft"
+    },
+    "split-turn-down-right": {
+      "codepoint": 58103,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "splitTurnDownRight"
+    },
+    "spoon": {
+      "codepoint": 58104,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "spoon"
+    },
+    "sporting": {
+      "codepoint": 58105,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "sporting"
+    },
+    "ssd": {
+      "codepoint": 58106,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "ssd"
+    },
+    "stack-light": {
+      "codepoint": 58107,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "stackLight"
+    },
+    "stamp": {
+      "codepoint": 58108,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "stamp"
+    },
+    "stand-up": {
+      "codepoint": 58109,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "standUp"
+    },
+    "stapler": {
+      "codepoint": 58110,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "stapler"
+    },
+    "stereo-one": {
+      "codepoint": 58111,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "stereoOne"
+    },
+    "stethoscope": {
+      "codepoint": 58112,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "stethoscope"
+    },
+    "storage-card-two": {
+      "codepoint": 58113,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "storageCardTwo"
+    },
+    "straight-razor": {
+      "codepoint": 58114,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "straightRazor"
+    },
+    "stretching-one": {
+      "codepoint": 58115,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "stretchingOne"
+    },
+    "sun": {
+      "codepoint": 58116,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "sun"
+    },
+    "surveillance-cameras": {
+      "codepoint": 58117,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "surveillanceCameras"
+    },
+    "surveillance-cameras-one": {
+      "codepoint": 58118,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "surveillanceCamerasOne"
+    },
+    "surveillance-cameras-two": {
+      "codepoint": 58119,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "surveillanceCamerasTwo"
+    },
+    "swallow": {
+      "codepoint": 58120,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "swallow"
+    },
+    "swimming-ring": {
+      "codepoint": 58121,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "swimmingRing"
+    },
+    "swimsuit": {
+      "codepoint": 58122,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "swimsuit"
+    },
+    "switch-button": {
+      "codepoint": 58123,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "switchButton"
+    },
+    "switch-one": {
+      "codepoint": 58124,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "switchOne"
+    },
+    "table": {
+      "codepoint": 58125,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "table"
+    },
+    "table-lamp": {
+      "codepoint": 58126,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "tableLamp"
+    },
+    "taj-mahal": {
+      "codepoint": 58127,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "tajMahal"
+    },
+    "take-off-one": {
+      "codepoint": 58128,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "takeOffOne"
+    },
+    "tape-measure": {
+      "codepoint": 58129,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "tapeMeasure"
+    },
+    "taurus": {
+      "codepoint": 58130,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "taurus"
+    },
+    "teapot": {
+      "codepoint": 58131,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "teapot"
+    },
+    "tent": {
+      "codepoint": 58132,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "tent"
+    },
+    "terminal": {
+      "codepoint": 58133,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "terminal"
+    },
+    "termination-file": {
+      "codepoint": 58134,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "terminationFile"
+    },
+    "test-tube": {
+      "codepoint": 58135,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "testTube"
+    },
+    "text": {
+      "codepoint": 58136,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "text"
+    },
+    "the-single-shoulder-bag": {
+      "codepoint": 58137,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "theSingleShoulderBag"
+    },
+    "three-d-glasses": {
+      "codepoint": 58138,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "threeDGlasses"
+    },
+    "three-hexagons": {
+      "codepoint": 58139,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "threeHexagons"
+    },
+    "three-key": {
+      "codepoint": 58140,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "threeKey"
+    },
+    "thumbs-down": {
+      "codepoint": 58141,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "thumbsDown"
+    },
+    "thumbs-up": {
+      "codepoint": 58142,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "thumbsUp"
+    },
+    "ticket": {
+      "codepoint": 58143,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "ticket"
+    },
+    "tickets-one": {
+      "codepoint": 58144,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "ticketsOne"
+    },
+    "tickets-two": {
+      "codepoint": 58145,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "ticketsTwo"
+    },
+    "timed-mail": {
+      "codepoint": 58146,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "timedMail"
+    },
+    "timer": {
+      "codepoint": 58147,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "timer"
+    },
+    "tire-swing": {
+      "codepoint": 58148,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "tireSwing"
+    },
+    "toolkit": {
+      "codepoint": 58149,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "toolkit"
+    },
+    "top-bar": {
+      "codepoint": 58150,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "topBar"
+    },
+    "torch": {
+      "codepoint": 58151,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "torch"
+    },
+    "tower-of-babel": {
+      "codepoint": 58152,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "towerOfBabel"
+    },
+    "trace": {
+      "codepoint": 58153,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "trace"
+    },
+    "trademark": {
+      "codepoint": 58154,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "trademark"
+    },
+    "train": {
+      "codepoint": 58155,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "train"
+    },
+    "transaction-order": {
+      "codepoint": 58156,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "transactionOrder"
+    },
+    "transfer": {
+      "codepoint": 58157,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "transfer"
+    },
+    "transform": {
+      "codepoint": 58158,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "transform"
+    },
+    "transport": {
+      "codepoint": 58159,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "transport"
+    },
+    "tray": {
+      "codepoint": 58160,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "tray"
+    },
+    "treadmill-two": {
+      "codepoint": 58161,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "treadmillTwo"
+    },
+    "treasure-chest": {
+      "codepoint": 58162,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "treasureChest"
+    },
+    "tree-diagram": {
+      "codepoint": 58163,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "treeDiagram"
+    },
+    "tree-one": {
+      "codepoint": 58164,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "treeOne"
+    },
+    "trend-two": {
+      "codepoint": 58165,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "trendTwo"
+    },
+    "trunk": {
+      "codepoint": 58166,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "trunk"
+    },
+    "tub": {
+      "codepoint": 58167,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "tub"
+    },
+    "tuchong": {
+      "codepoint": 58168,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "tuchong"
+    },
+    "turkey": {
+      "codepoint": 58169,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "turkey"
+    },
+    "two-key": {
+      "codepoint": 58170,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "twoKey"
+    },
+    "u-disk": {
+      "codepoint": 58171,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "uDisk"
+    },
+    "u-turn-down": {
+      "codepoint": 58172,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "uTurnDown"
+    },
+    "u-turn-left": {
+      "codepoint": 58173,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "uTurnLeft"
+    },
+    "u-turn-right": {
+      "codepoint": 58174,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "uTurnRight"
+    },
+    "u-turn-up": {
+      "codepoint": 58175,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "uTurnUp"
+    },
+    "umbrella-two": {
+      "codepoint": 58176,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "umbrellaTwo"
+    },
+    "unlock": {
+      "codepoint": 58177,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "unlock"
+    },
+    "unlock-one": {
+      "codepoint": 58178,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "unlockOne"
+    },
+    "up-c": {
+      "codepoint": 58179,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "upC"
+    },
+    "up-square": {
+      "codepoint": 58180,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "upSquare"
+    },
+    "upload-laptop": {
+      "codepoint": 58181,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "uploadLaptop"
+    },
+    "upload-web": {
+      "codepoint": 58182,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "uploadWeb"
+    },
+    "user": {
+      "codepoint": 58183,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "user"
+    },
+    "user-business": {
+      "codepoint": 58184,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "userBusiness"
+    },
+    "user-positioning": {
+      "codepoint": 58185,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "userPositioning"
+    },
+    "vacuum-cleaner": {
+      "codepoint": 58186,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "vacuumCleaner"
+    },
+    "vegetable-basket": {
+      "codepoint": 58187,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "vegetableBasket"
+    },
+    "vegetables": {
+      "codepoint": 58188,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "vegetables"
+    },
+    "vertical-timeline": {
+      "codepoint": 58189,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "verticalTimeline"
+    },
+    "vertically-centered": {
+      "codepoint": 58190,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "verticallyCentered"
+    },
+    "vial": {
+      "codepoint": 58191,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "vial"
+    },
+    "video-one": {
+      "codepoint": 58192,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "videoOne"
+    },
+    "video-two": {
+      "codepoint": 58193,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "videoTwo"
+    },
+    "videocamera": {
+      "codepoint": 58194,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "videocamera"
+    },
+    "videocamera-one": {
+      "codepoint": 58195,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "videocameraOne"
+    },
+    "view-grid-card": {
+      "codepoint": 58196,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "viewGridCard"
+    },
+    "view-list": {
+      "codepoint": 58197,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "viewList"
+    },
+    "viewfinder": {
+      "codepoint": 58198,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "viewfinder"
+    },
+    "voice": {
+      "codepoint": 58199,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "voice"
+    },
+    "voice-input": {
+      "codepoint": 58200,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "voiceInput"
+    },
+    "volume-mute": {
+      "codepoint": 58201,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "volumeMute"
+    },
+    "vr-glasses": {
+      "codepoint": 58202,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "vrGlasses"
+    },
+    "wallet": {
+      "codepoint": 58203,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "wallet"
+    },
+    "wallet-one": {
+      "codepoint": 58204,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "walletOne"
+    },
+    "wallet-three": {
+      "codepoint": 58205,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "walletThree"
+    },
+    "warehousing": {
+      "codepoint": 58206,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "warehousing"
+    },
+    "washing-machine": {
+      "codepoint": 58207,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "washingMachine"
+    },
+    "watch": {
+      "codepoint": 58208,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "watch"
+    },
+    "watch-one": {
+      "codepoint": 58209,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "watchOne"
+    },
+    "water-level": {
+      "codepoint": 58210,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "waterLevel"
+    },
+    "waterpolo-one": {
+      "codepoint": 58211,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "waterpoloOne"
+    },
+    "webcam": {
+      "codepoint": 58212,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "webcam"
+    },
+    "weixin-people-nearby": {
+      "codepoint": 58213,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "weixinPeopleNearby"
+    },
+    "weixin-top-stories": {
+      "codepoint": 58214,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "weixinTopStories"
+    },
+    "wheelchair": {
+      "codepoint": 58215,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "wheelchair"
+    },
+    "whole-site-accelerator": {
+      "codepoint": 58216,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "wholeSiteAccelerator"
+    },
+    "wind-turbine": {
+      "codepoint": 58217,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "windTurbine"
+    },
+    "woolen-hat": {
+      "codepoint": 58218,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "woolenHat"
+    },
+    "word": {
+      "codepoint": 58219,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "word"
+    },
+    "worker": {
+      "codepoint": 58220,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "worker"
+    },
+    "wrong-user": {
+      "codepoint": 58221,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "wrongUser"
+    },
+    "xigua": {
+      "codepoint": 58222,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "xigua"
+    },
+    "xingfuli": {
+      "codepoint": 58223,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "xingfuli"
+    },
+    "youtobe": {
+      "codepoint": 58224,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "youtobe"
+    },
+    "youtube": {
+      "codepoint": 58225,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "youtube"
+    },
+    "zero-key": {
+      "codepoint": 58226,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "zeroKey"
+    },
+    "zijinyunying": {
+      "codepoint": 58227,
+      "fontFamily": "IconParkTwotone",
+      "identifier": "zijinyunying"
+    }
+  }
+}

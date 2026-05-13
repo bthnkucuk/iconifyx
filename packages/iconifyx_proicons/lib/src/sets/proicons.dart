@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: ProCode
 /// License: MIT — https://github.com/ProCode-Software/proicons/blob/main/LICENSE
-/// Icons: 569
+/// Icons: 572
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -152,6 +152,13 @@ class ProiconsIcons {
   /// `align-right`
   static const IconifyIconData alignRight = IconifyIconData(IconData(
     0xe013,
+    fontFamily: 'Proicons',
+    fontPackage: 'iconifyx_proicons',
+  ));
+
+  /// `align-top`
+  static const IconifyIconData alignTop = IconifyIconData(IconData(
+    0xe239,
     fontFamily: 'Proicons',
     fontPackage: 'iconifyx_proicons',
   ));
@@ -2809,6 +2816,13 @@ class ProiconsIcons {
     fontPackage: 'iconifyx_proicons',
   ));
 
+  /// `picture-in-picture-exit`
+  static const IconifyIconData pictureInPictureExit = IconifyIconData(IconData(
+    0xe23a,
+    fontFamily: 'Proicons',
+    fontPackage: 'iconifyx_proicons',
+  ));
+
   /// `pie-chart`
   static const IconifyIconData pieChart = IconifyIconData(IconData(
     0xe18f,
@@ -3722,6 +3736,13 @@ class ProiconsIcons {
   /// `text-underline`
   static const IconifyIconData textUnderline = IconifyIconData(IconData(
     0xe211,
+    fontFamily: 'Proicons',
+    fontPackage: 'iconifyx_proicons',
+  ));
+
+  /// `thumbs-down`
+  static const IconifyIconData thumbsDown = IconifyIconData(IconData(
+    0xe23b,
     fontFamily: 'Proicons',
     fontPackage: 'iconifyx_proicons',
   ));

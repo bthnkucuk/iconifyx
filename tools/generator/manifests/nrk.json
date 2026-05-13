@@ -16,17 +16,17 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 240
+    "total": 241
   },
   "fonts": [
     {
       "family": "Nrk",
-      "nextCodepoint": 57584,
-      "iconCount": 240
+      "nextCodepoint": 57585,
+      "iconCount": 241
     },
     {
       "family": "NrkSecondary",
-      "nextCodepoint": 57584,
+      "nextCodepoint": 57585,
       "iconCount": 23
     }
   ],
@@ -423,6 +423,11 @@
       "codepoint": 57421,
       "fontFamily": "Nrk",
       "identifier": "hardwareTablet"
+    },
+    "hardware-tv": {
+      "codepoint": 57584,
+      "fontFamily": "Nrk",
+      "identifier": "hardwareTv"
     },
     "hardware-watch": {
       "codepoint": 57422,

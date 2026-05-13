@@ -16,7 +16,7 @@
       "spdx": "CC-BY-SA-4.0",
       "url": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
-    "total": 15004
+    "total": 15099
   },
   "fonts": [
     {
@@ -31,8 +31,8 @@
     },
     {
       "family": "Arcticons_3",
-      "nextCodepoint": 60348,
-      "iconCount": 3004
+      "nextCodepoint": 60443,
+      "iconCount": 3099
     },
     {
       "family": "ArcticonsSecondary",
@@ -145,6 +145,11 @@
       "codepoint": 57344,
       "fontFamily": "Arcticons",
       "identifier": "n001Taxis"
+    },
+    "0h-h1": {
+      "codepoint": 60348,
+      "fontFamily": "Arcticons_3",
+      "identifier": "n0hH1"
     },
     "0h-n0": {
       "codepoint": 57345,
@@ -840,6 +845,11 @@
       "codepoint": 57502,
       "fontFamily": "Arcticons",
       "identifier": "n9gag"
+    },
+    "a-0h-h1": {
+      "codepoint": 60349,
+      "fontFamily": "Arcticons_3",
+      "identifier": "a0hH1"
     },
     "a-better-camera": {
       "codepoint": 57503,
@@ -1871,6 +1881,11 @@
       "fontFamily": "Arcticons",
       "identifier": "aeriesPortal"
     },
+    "aerofoil": {
+      "codepoint": 60350,
+      "fontFamily": "Arcticons_3",
+      "identifier": "aerofoil"
+    },
     "aether-gazer": {
       "codepoint": 57709,
       "fontFamily": "Arcticons",
@@ -2006,6 +2021,11 @@
       "fontFamily": "Arcticons",
       "identifier": "agovAccess"
     },
+    "agricultural-bank-of-china": {
+      "codepoint": 60351,
+      "fontFamily": "Arcticons_3",
+      "identifier": "agriculturalBankOfChina"
+    },
     "agrimap-mobile": {
       "codepoint": 57736,
       "fontFamily": "Arcticons",
@@ -2055,6 +2075,11 @@
       "codepoint": 57745,
       "fontFamily": "Arcticons",
       "identifier": "ai"
+    },
+    "ai-chat": {
+      "codepoint": 60352,
+      "fontFamily": "Arcticons_3",
+      "identifier": "aiChat"
     },
     "ai-chat-alt": {
       "codepoint": 57746,
@@ -2171,6 +2196,11 @@
       "fontFamily": "Arcticons",
       "identifier": "airCanada"
     },
+    "air-india": {
+      "codepoint": 60353,
+      "fontFamily": "Arcticons_3",
+      "identifier": "airIndia"
+    },
     "air-miles": {
       "codepoint": 57769,
       "fontFamily": "Arcticons",
@@ -2285,6 +2315,11 @@
       "codepoint": 57791,
       "fontFamily": "Arcticons",
       "identifier": "airmusic"
+    },
+    "airplaneslive": {
+      "codepoint": 60354,
+      "fontFamily": "Arcticons_3",
+      "identifier": "airplaneslive"
     },
     "airqualitywa": {
       "codepoint": 57792,
@@ -2515,6 +2550,11 @@
       "codepoint": 57837,
       "fontFamily": "Arcticons",
       "identifier": "alazan"
+    },
+    "albaraka": {
+      "codepoint": 60355,
+      "fontFamily": "Arcticons_3",
+      "identifier": "albaraka"
     },
     "albatross": {
       "codepoint": 57838,
@@ -4055,6 +4095,11 @@
       "codepoint": 58145,
       "fontFamily": "Arcticons",
       "identifier": "anybuddy"
+    },
+    "anycode-wallet": {
+      "codepoint": 60356,
+      "fontFamily": "Arcticons_3",
+      "identifier": "anycodeWallet"
     },
     "anyconnect": {
       "codepoint": 58146,
@@ -5631,6 +5676,11 @@
       "fontFamily": "Arcticons",
       "identifier": "audinaut"
     },
+    "audio-editor": {
+      "codepoint": 60357,
+      "fontFamily": "Arcticons_3",
+      "identifier": "audioEditor"
+    },
     "audio-glow": {
       "codepoint": 58461,
       "fontFamily": "Arcticons",
@@ -6077,10 +6127,20 @@
       "fontFamily": "Arcticons",
       "identifier": "avastPasswords"
     },
+    "avatar-world": {
+      "codepoint": 60358,
+      "fontFamily": "Arcticons_3",
+      "identifier": "avatarWorld"
+    },
     "avee-music-player": {
       "codepoint": 58550,
       "fontFamily": "Arcticons",
       "identifier": "aveeMusicPlayer"
+    },
+    "avenza": {
+      "codepoint": 60359,
+      "fontFamily": "Arcticons_3",
+      "identifier": "avenza"
     },
     "average-data-usage-widget": {
       "codepoint": 58551,
@@ -6251,6 +6311,11 @@
       "codepoint": 58584,
       "fontFamily": "Arcticons",
       "identifier": "ays"
+    },
+    "ayugram": {
+      "codepoint": 60360,
+      "fontFamily": "Arcticons_3",
+      "identifier": "ayugram"
     },
     "ayvens": {
       "codepoint": 58585,
@@ -7041,6 +7106,11 @@
       "codepoint": 58742,
       "fontFamily": "Arcticons",
       "identifier": "bazos"
+    },
+    "bb": {
+      "codepoint": 60361,
+      "fontFamily": "Arcticons_3",
+      "identifier": "bb"
     },
     "bb-racing": {
       "codepoint": 58743,
@@ -8981,6 +9051,11 @@
       "codepoint": 59130,
       "fontFamily": "Arcticons",
       "identifier": "boamobile"
+    },
+    "boardgamegeek": {
+      "codepoint": 60362,
+      "fontFamily": "Arcticons_3",
+      "identifier": "boardgamegeek"
     },
     "boardpro": {
       "codepoint": 59131,
@@ -12302,6 +12377,11 @@
       "fontFamily": "Arcticons",
       "identifier": "carriage"
     },
+    "carrier-vanity-name": {
+      "codepoint": 60363,
+      "fontFamily": "Arcticons_3",
+      "identifier": "carrierVanityName"
+    },
     "carrion": {
       "codepoint": 59795,
       "fontFamily": "Arcticons",
@@ -12441,6 +12521,11 @@
       "codepoint": 59822,
       "fontFamily": "Arcticons",
       "identifier": "castbox"
+    },
+    "castle": {
+      "codepoint": 60364,
+      "fontFamily": "Arcticons_3",
+      "identifier": "castle"
     },
     "castlevania": {
       "codepoint": 59823,
@@ -13127,10 +13212,20 @@
       "fontFamily": "Arcticons",
       "identifier": "chessclock"
     },
+    "chesscraft": {
+      "codepoint": 60365,
+      "fontFamily": "Arcticons_3",
+      "identifier": "chesscraft"
+    },
     "chessis": {
       "codepoint": 59960,
       "fontFamily": "Arcticons",
       "identifier": "chessis"
+    },
+    "chesskid": {
+      "codepoint": 60366,
+      "fontFamily": "Arcticons_3",
+      "identifier": "chesskid"
     },
     "chessmix": {
       "codepoint": 59961,
@@ -14892,6 +14987,11 @@
       "fontFamily": "Arcticons",
       "identifier": "connectedCare"
     },
+    "connectips": {
+      "codepoint": 60367,
+      "fontFamily": "Arcticons_3",
+      "identifier": "connectips"
+    },
     "connectlife": {
       "codepoint": 60313,
       "fontFamily": "Arcticons",
@@ -15887,6 +15987,11 @@
       "fontFamily": "Arcticons",
       "identifier": "cupHeroes"
     },
+    "cuphead": {
+      "codepoint": 60368,
+      "fontFamily": "Arcticons_3",
+      "identifier": "cuphead"
+    },
     "cuppa": {
       "codepoint": 60512,
       "fontFamily": "Arcticons",
@@ -16636,6 +16741,11 @@
       "codepoint": 60661,
       "fontFamily": "Arcticons",
       "identifier": "dbnavigatorAlt"
+    },
+    "dbnavigator-beta": {
+      "codepoint": 60369,
+      "fontFamily": "Arcticons_3",
+      "identifier": "dbnavigatorBeta"
     },
     "dbnavigator-next": {
       "codepoint": 60662,
@@ -19207,6 +19317,11 @@
       "fontFamily": "Arcticons",
       "identifier": "duca"
     },
+    "duck-detector": {
+      "codepoint": 60370,
+      "fontFamily": "Arcticons_3",
+      "identifier": "duckDetector"
+    },
     "duck-life-1": {
       "codepoint": 61176,
       "fontFamily": "Arcticons",
@@ -19251,6 +19366,11 @@
       "codepoint": 61184,
       "fontFamily": "Arcticons",
       "identifier": "duckLife9"
+    },
+    "duckduckgo": {
+      "codepoint": 60371,
+      "fontFamily": "Arcticons_3",
+      "identifier": "duckduckgo"
     },
     "duckstation": {
       "codepoint": 61185,
@@ -20342,6 +20462,11 @@
       "fontFamily": "Arcticons",
       "identifier": "elsa"
     },
+    "elstersecure": {
+      "codepoint": 60372,
+      "fontFamily": "Arcticons_3",
+      "identifier": "elstersecure"
+    },
     "elucid": {
       "codepoint": 61403,
       "fontFamily": "Arcticons",
@@ -20817,6 +20942,11 @@
       "fontFamily": "Arcticons",
       "identifier": "emojiBone"
     },
+    "emoji-bookmark": {
+      "codepoint": 60373,
+      "fontFamily": "Arcticons_3",
+      "identifier": "emojiBookmark"
+    },
     "emoji-bookmark-tabs": {
       "codepoint": 61498,
       "fontFamily": "Arcticons",
@@ -20826,6 +20956,11 @@
       "codepoint": 61499,
       "fontFamily": "Arcticons",
       "identifier": "emojiBooks"
+    },
+    "emoji-boomerang": {
+      "codepoint": 60374,
+      "fontFamily": "Arcticons_3",
+      "identifier": "emojiBoomerang"
     },
     "emoji-bow-and-arrow": {
       "codepoint": 61500,
@@ -20866,6 +21001,11 @@
       "codepoint": 61507,
       "fontFamily": "Arcticons",
       "identifier": "emojiBriefs"
+    },
+    "emoji-broccoli": {
+      "codepoint": 60375,
+      "fontFamily": "Arcticons_3",
+      "identifier": "emojiBroccoli"
     },
     "emoji-broom": {
       "codepoint": 61508,
@@ -21427,6 +21567,16 @@
       "fontFamily": "Arcticons",
       "identifier": "emojiExtraterrestrialAlien"
     },
+    "emoji-eye": {
+      "codepoint": 60376,
+      "fontFamily": "Arcticons_3",
+      "identifier": "emojiEye"
+    },
+    "emoji-eye-in-speech-bubble": {
+      "codepoint": 60377,
+      "fontFamily": "Arcticons_3",
+      "identifier": "emojiEyeInSpeechBubble"
+    },
     "emoji-eyes": {
       "codepoint": 61620,
       "fontFamily": "Arcticons",
@@ -21892,6 +22042,11 @@
       "fontFamily": "Arcticons",
       "identifier": "emojiMultipleMusicalNotes"
     },
+    "emoji-mushroom": {
+      "codepoint": 60378,
+      "fontFamily": "Arcticons_3",
+      "identifier": "emojiMushroom"
+    },
     "emoji-musical-keyboard": {
       "codepoint": 61713,
       "fontFamily": "Arcticons",
@@ -21986,6 +22141,11 @@
       "codepoint": 61731,
       "fontFamily": "Arcticons",
       "identifier": "emojiPotableWaterSymbol"
+    },
+    "emoji-potato": {
+      "codepoint": 60379,
+      "fontFamily": "Arcticons_3",
+      "identifier": "emojiPotato"
     },
     "emoji-potted-plant": {
       "codepoint": 61732,
@@ -22431,6 +22591,11 @@
       "codepoint": 61820,
       "fontFamily": "Arcticons",
       "identifier": "enpass"
+    },
+    "enrecipes": {
+      "codepoint": 60380,
+      "fontFamily": "Arcticons_3",
+      "identifier": "enrecipes"
     },
     "enroute": {
       "codepoint": 61821,
@@ -24863,6 +25028,11 @@
       "fontFamily": "Arcticons",
       "identifier": "fixcyprus"
     },
+    "fixedsmart": {
+      "codepoint": 60381,
+      "fontFamily": "Arcticons_3",
+      "identifier": "fixedsmart"
+    },
     "fixprice": {
       "codepoint": 62307,
       "fontFamily": "Arcticons",
@@ -25252,6 +25422,11 @@
       "codepoint": 62384,
       "fontFamily": "Arcticons",
       "identifier": "florisboard"
+    },
+    "flosports": {
+      "codepoint": 60382,
+      "fontFamily": "Arcticons_3",
+      "identifier": "flosports"
     },
     "flote": {
       "codepoint": 62385,
@@ -26833,6 +27008,11 @@
       "fontFamily": "Arcticons",
       "identifier": "fujiten"
     },
+    "fulguris": {
+      "codepoint": 60383,
+      "fontFamily": "Arcticons_3",
+      "identifier": "fulguris"
+    },
     "full-battery-charge-alarm": {
       "codepoint": 62701,
       "fontFamily": "Arcticons",
@@ -27698,6 +27878,11 @@
       "fontFamily": "Arcticons",
       "identifier": "getapps"
     },
+    "getcontact": {
+      "codepoint": 60384,
+      "fontFamily": "Arcticons_3",
+      "identifier": "getcontact"
+    },
     "getflow": {
       "codepoint": 62874,
       "fontFamily": "Arcticons",
@@ -27957,6 +28142,11 @@
       "codepoint": 62925,
       "fontFamily": "Arcticons",
       "identifier": "glider"
+    },
+    "glidex": {
+      "codepoint": 60385,
+      "fontFamily": "Arcticons_3",
+      "identifier": "glidex"
     },
     "glip": {
       "codepoint": 62926,
@@ -28712,6 +28902,11 @@
       "codepoint": 63076,
       "fontFamily": "Arcticons",
       "identifier": "googlePinyinInput"
+    },
+    "google-pixel-buds": {
+      "codepoint": 60386,
+      "fontFamily": "Arcticons_3",
+      "identifier": "googlePixelBuds"
     },
     "google-play": {
       "codepoint": 63077,
@@ -29488,6 +29683,11 @@
       "fontFamily": "Arcticons",
       "identifier": "gruenzeit"
     },
+    "grupo-cajamar": {
+      "codepoint": 60387,
+      "fontFamily": "Arcticons_3",
+      "identifier": "grupoCajamar"
+    },
     "gruppo-san-donato": {
       "codepoint": 63232,
       "fontFamily": "Arcticons",
@@ -30037,6 +30237,11 @@
       "codepoint": 63341,
       "fontFamily": "Arcticons",
       "identifier": "harborFreight"
+    },
+    "hard-dance": {
+      "codepoint": 60388,
+      "fontFamily": "Arcticons_3",
+      "identifier": "hardDance"
     },
     "hardoff": {
       "codepoint": 63342,
@@ -30833,6 +31038,11 @@
       "fontFamily": "Arcticons_2",
       "identifier": "hl"
     },
+    "hm": {
+      "codepoint": 60389,
+      "fontFamily": "Arcticons_3",
+      "identifier": "hm"
+    },
     "hmal": {
       "codepoint": 57501,
       "fontFamily": "Arcticons_2",
@@ -30882,6 +31092,11 @@
       "codepoint": 57510,
       "fontFamily": "Arcticons_2",
       "identifier": "hoerbiMobilfunk"
+    },
+    "hoichoi": {
+      "codepoint": 60390,
+      "fontFamily": "Arcticons_3",
+      "identifier": "hoichoi"
     },
     "hojskolesangbogen": {
       "codepoint": 57511,
@@ -30957,6 +31172,11 @@
       "codepoint": 57525,
       "fontFamily": "Arcticons_2",
       "identifier": "homeFinance"
+    },
+    "home-network": {
+      "codepoint": 60391,
+      "fontFamily": "Arcticons_3",
+      "identifier": "homeNetwork"
     },
     "home-plus": {
       "codepoint": 57526,
@@ -31202,6 +31422,11 @@
       "codepoint": 57574,
       "fontFamily": "Arcticons_2",
       "identifier": "houzz"
+    },
+    "how-to-tie-a-tie": {
+      "codepoint": 60392,
+      "fontFamily": "Arcticons_3",
+      "identifier": "howToTieATie"
     },
     "how-we-feel": {
       "codepoint": 57575,
@@ -32262,6 +32487,11 @@
       "codepoint": 57786,
       "fontFamily": "Arcticons_2",
       "identifier": "illuminanceLuxLightMeter"
+    },
+    "illuminati": {
+      "codepoint": 60393,
+      "fontFamily": "Arcticons_3",
+      "identifier": "illuminati"
     },
     "ilry-mobiili": {
       "codepoint": 57787,
@@ -34284,6 +34514,11 @@
       "fontFamily": "Arcticons_2",
       "identifier": "jugnoo"
     },
+    "jugo": {
+      "codepoint": 60394,
+      "fontFamily": "Arcticons_3",
+      "identifier": "jugo"
+    },
     "juice-king": {
       "codepoint": 58191,
       "fontFamily": "Arcticons_2",
@@ -35183,6 +35418,11 @@
       "codepoint": 58370,
       "fontFamily": "Arcticons_2",
       "identifier": "khanAcademy"
+    },
+    "khan-academy-viewer": {
+      "codepoint": 60395,
+      "fontFamily": "Arcticons_3",
+      "identifier": "khanAcademyViewer"
     },
     "khangs-sir-official": {
       "codepoint": 58371,
@@ -37169,6 +37409,11 @@
       "fontFamily": "Arcticons_2",
       "identifier": "letterLowercaseCircleL"
     },
+    "letter-lowercase-circle-m": {
+      "codepoint": 60396,
+      "fontFamily": "Arcticons_3",
+      "identifier": "letterLowercaseCircleM"
+    },
     "letter-lowercase-circle-n": {
       "codepoint": 58768,
       "fontFamily": "Arcticons_2",
@@ -37279,6 +37524,11 @@
       "fontFamily": "Arcticons_2",
       "identifier": "letterLowercaseL"
     },
+    "letter-lowercase-m": {
+      "codepoint": 60397,
+      "fontFamily": "Arcticons_3",
+      "identifier": "letterLowercaseM"
+    },
     "letter-lowercase-n": {
       "codepoint": 58790,
       "fontFamily": "Arcticons_2",
@@ -37373,6 +37623,11 @@
       "codepoint": 58808,
       "fontFamily": "Arcticons_2",
       "identifier": "letterLowercaseSquareL"
+    },
+    "letter-lowercase-square-m": {
+      "codepoint": 60398,
+      "fontFamily": "Arcticons_3",
+      "identifier": "letterLowercaseSquareM"
     },
     "letter-lowercase-square-n": {
       "codepoint": 58809,
@@ -37614,6 +37869,11 @@
       "fontFamily": "Arcticons_2",
       "identifier": "letterUppercaseCircleY"
     },
+    "letter-uppercase-circle-z": {
+      "codepoint": 60399,
+      "fontFamily": "Arcticons_3",
+      "identifier": "letterUppercaseCircleZ"
+    },
     "letter-uppercase-d": {
       "codepoint": 58857,
       "fontFamily": "Arcticons_2",
@@ -37819,6 +38079,11 @@
       "fontFamily": "Arcticons_2",
       "identifier": "letterUppercaseSquareY"
     },
+    "letter-uppercase-square-z": {
+      "codepoint": 60400,
+      "fontFamily": "Arcticons_3",
+      "identifier": "letterUppercaseSquareZ"
+    },
     "letter-uppercase-t": {
       "codepoint": 58898,
       "fontFamily": "Arcticons_2",
@@ -37848,6 +38113,11 @@
       "codepoint": 58903,
       "fontFamily": "Arcticons_2",
       "identifier": "letterUppercaseY"
+    },
+    "letter-uppercase-z": {
+      "codepoint": 60401,
+      "fontFamily": "Arcticons_3",
+      "identifier": "letterUppercaseZ"
     },
     "letterboxd": {
       "codepoint": 58904,
@@ -39359,6 +39629,11 @@
       "fontFamily": "Arcticons_2",
       "identifier": "lpulive"
     },
+    "lputouch": {
+      "codepoint": 60402,
+      "fontFamily": "Arcticons_3",
+      "identifier": "lputouch"
+    },
     "lrc-editor": {
       "codepoint": 59206,
       "fontFamily": "Arcticons_2",
@@ -40359,6 +40634,11 @@
       "fontFamily": "Arcticons_2",
       "identifier": "marshallBluetooth"
     },
+    "martins-groceries-to-go": {
+      "codepoint": 60403,
+      "fontFamily": "Arcticons_3",
+      "identifier": "martinsGroceriesToGo"
+    },
     "marugen-ramen": {
       "codepoint": 59406,
       "fontFamily": "Arcticons_2",
@@ -40848,6 +41128,11 @@
       "codepoint": 59503,
       "fontFamily": "Arcticons_2",
       "identifier": "meb"
+    },
+    "mecharena": {
+      "codepoint": 60404,
+      "fontFamily": "Arcticons_3",
+      "identifier": "mecharena"
     },
     "medal-tv": {
       "codepoint": 59504,
@@ -41619,6 +41904,11 @@
       "fontFamily": "Arcticons_2",
       "identifier": "metrodroid"
     },
+    "metrolink": {
+      "codepoint": 60405,
+      "fontFamily": "Arcticons_3",
+      "identifier": "metrolink"
+    },
     "metrolist": {
       "codepoint": 59658,
       "fontFamily": "Arcticons_2",
@@ -41983,6 +42273,16 @@
       "codepoint": 59730,
       "fontFamily": "Arcticons_2",
       "identifier": "microsoftCompanyPortal"
+    },
+    "microsoft-copilot": {
+      "codepoint": 60406,
+      "fontFamily": "Arcticons_3",
+      "identifier": "microsoftCopilot"
+    },
+    "microsoft-copilot-alt": {
+      "codepoint": 60407,
+      "fontFamily": "Arcticons_3",
+      "identifier": "microsoftCopilotAlt"
     },
     "microsoft-defender": {
       "codepoint": 59731,
@@ -42659,6 +42959,11 @@
       "fontFamily": "Arcticons_2",
       "identifier": "miniMilitia"
     },
+    "mini-militia-alt": {
+      "codepoint": 60408,
+      "fontFamily": "Arcticons_3",
+      "identifier": "miniMilitiaAlt"
+    },
     "mini-motorways": {
       "codepoint": 59866,
       "fontFamily": "Arcticons_2",
@@ -43284,6 +43589,11 @@
       "fontFamily": "Arcticons_2",
       "identifier": "mobywatel"
     },
+    "moco": {
+      "codepoint": 60409,
+      "fontFamily": "Arcticons_3",
+      "identifier": "moco"
+    },
     "modalis": {
       "codepoint": 59991,
       "fontFamily": "Arcticons_2",
@@ -43383,6 +43693,11 @@
       "codepoint": 60010,
       "fontFamily": "Arcticons_2",
       "identifier": "mojeidKlic"
+    },
+    "mojeikp": {
+      "codepoint": 60410,
+      "fontFamily": "Arcticons_3",
+      "identifier": "mojeikp"
     },
     "mojepliki": {
       "codepoint": 60011,
@@ -43693,6 +44008,11 @@
       "codepoint": 60072,
       "fontFamily": "Arcticons_2",
       "identifier": "monopoly"
+    },
+    "monoposto": {
+      "codepoint": 60411,
+      "fontFamily": "Arcticons_3",
+      "identifier": "monoposto"
     },
     "monpetitgazon": {
       "codepoint": 60073,
@@ -45484,6 +45804,11 @@
       "fontFamily": "Arcticons_2",
       "identifier": "mymetro"
     },
+    "mymo": {
+      "codepoint": 60412,
+      "fontFamily": "Arcticons_3",
+      "identifier": "mymo"
+    },
     "mymonero": {
       "codepoint": 60431,
       "fontFamily": "Arcticons_2",
@@ -45643,6 +45968,11 @@
       "codepoint": 60462,
       "fontFamily": "Arcticons_2",
       "identifier": "mysky"
+    },
+    "myslt": {
+      "codepoint": 60413,
+      "fontFamily": "Arcticons_3",
+      "identifier": "myslt"
     },
     "mysmartfren": {
       "codepoint": 60463,
@@ -46393,6 +46723,26 @@
       "codepoint": 60612,
       "fontFamily": "Arcticons_2",
       "identifier": "nekogramxXeye"
+    },
+    "nekokolpa-1": {
+      "codepoint": 60414,
+      "fontFamily": "Arcticons_3",
+      "identifier": "nekokolpa1"
+    },
+    "nekokolpa-2": {
+      "codepoint": 60415,
+      "fontFamily": "Arcticons_3",
+      "identifier": "nekokolpa2"
+    },
+    "nekokolpa-community": {
+      "codepoint": 60416,
+      "fontFamily": "Arcticons_3",
+      "identifier": "nekokolpaCommunity"
+    },
+    "nekokolpa-multi": {
+      "codepoint": 60417,
+      "fontFamily": "Arcticons_3",
+      "identifier": "nekokolpaMulti"
     },
     "nekokolpa-standard": {
       "codepoint": 60613,
@@ -47559,6 +47909,11 @@
       "fontFamily": "Arcticons_2",
       "identifier": "nordea"
     },
+    "nordea-id": {
+      "codepoint": 60418,
+      "fontFamily": "Arcticons_3",
+      "identifier": "nordeaId"
+    },
     "nordic-noodle": {
       "codepoint": 60846,
       "fontFamily": "Arcticons_2",
@@ -47708,6 +48063,11 @@
       "codepoint": 60875,
       "fontFamily": "Arcticons_2",
       "identifier": "noteIt"
+    },
+    "note-to-self": {
+      "codepoint": 60419,
+      "fontFamily": "Arcticons_3",
+      "identifier": "noteToSelf"
     },
     "notebloc": {
       "codepoint": 60876,
@@ -48374,6 +48734,11 @@
       "fontFamily": "Arcticons_2",
       "identifier": "nullsRoyale"
     },
+    "number-0": {
+      "codepoint": 60420,
+      "fontFamily": "Arcticons_3",
+      "identifier": "number0"
+    },
     "number-1": {
       "codepoint": 61009,
       "fontFamily": "Arcticons_2",
@@ -48423,6 +48788,11 @@
       "codepoint": 61018,
       "fontFamily": "Arcticons_2",
       "identifier": "number9"
+    },
+    "number-circle-0": {
+      "codepoint": 60421,
+      "fontFamily": "Arcticons_3",
+      "identifier": "numberCircle0"
     },
     "number-circle-1": {
       "codepoint": 61019,
@@ -48488,6 +48858,11 @@
       "codepoint": 61031,
       "fontFamily": "Arcticons_2",
       "identifier": "numberogram"
+    },
+    "numbers-es-ap": {
+      "codepoint": 60422,
+      "fontFamily": "Arcticons_3",
+      "identifier": "numbersEsAp"
     },
     "numerica": {
       "codepoint": 61032,
@@ -51734,6 +52109,11 @@
       "fontFamily": "Arcticons_2",
       "identifier": "pelisplay"
     },
+    "pemutar-visha": {
+      "codepoint": 60423,
+      "fontFamily": "Arcticons_3",
+      "identifier": "pemutarVisha"
+    },
     "penfed": {
       "codepoint": 61681,
       "fontFamily": "Arcticons_2",
@@ -54574,6 +54954,16 @@
       "fontFamily": "Arcticons_2",
       "identifier": "protonAuthenticator"
     },
+    "proton-calendar": {
+      "codepoint": 60424,
+      "fontFamily": "Arcticons_3",
+      "identifier": "protonCalendar"
+    },
+    "proton-drive": {
+      "codepoint": 60425,
+      "fontFamily": "Arcticons_3",
+      "identifier": "protonDrive"
+    },
     "proton-lumo": {
       "codepoint": 62249,
       "fontFamily": "Arcticons_2",
@@ -55938,6 +56328,11 @@
       "codepoint": 62521,
       "fontFamily": "Arcticons_2",
       "identifier": "ramHospital"
+    },
+    "rama-app": {
+      "codepoint": 60426,
+      "fontFamily": "Arcticons_3",
+      "identifier": "ramaApp"
     },
     "ramuchan": {
       "codepoint": 62522,
@@ -59034,6 +59429,11 @@
       "fontFamily": "Arcticons_2",
       "identifier": "seasoncalendar"
     },
+    "seat": {
+      "codepoint": 60427,
+      "fontFamily": "Arcticons_3",
+      "identifier": "seat"
+    },
     "seats": {
       "codepoint": 63141,
       "fontFamily": "Arcticons_2",
@@ -60884,6 +61284,11 @@
       "fontFamily": "Arcticons_3",
       "identifier": "sleepSounds"
     },
+    "sleep-time": {
+      "codepoint": 60428,
+      "fontFamily": "Arcticons_3",
+      "identifier": "sleepTime"
+    },
     "sleep-tracker": {
       "codepoint": 57511,
       "fontFamily": "Arcticons_3",
@@ -61413,6 +61818,11 @@
       "codepoint": 57616,
       "fontFamily": "Arcticons_3",
       "identifier": "snap"
+    },
+    "snap-mobile": {
+      "codepoint": 60429,
+      "fontFamily": "Arcticons_3",
+      "identifier": "snapMobile"
     },
     "snapbridge": {
       "codepoint": 57617,
@@ -62283,6 +62693,11 @@
       "codepoint": 57790,
       "fontFamily": "Arcticons_3",
       "identifier": "spatialTouch"
+    },
+    "spb": {
+      "codepoint": 60430,
+      "fontFamily": "Arcticons_3",
+      "identifier": "spb"
     },
     "spck": {
       "codepoint": 57791,
@@ -64044,6 +64459,11 @@
       "fontFamily": "Arcticons_3",
       "identifier": "sush"
     },
+    "sushi": {
+      "codepoint": 60431,
+      "fontFamily": "Arcticons_3",
+      "identifier": "sushi"
+    },
     "sushiro": {
       "codepoint": 58143,
       "fontFamily": "Arcticons_3",
@@ -64818,6 +65238,11 @@
       "codepoint": 58297,
       "fontFamily": "Arcticons_3",
       "identifier": "tanglemaster3d"
+    },
+    "tango": {
+      "codepoint": 60432,
+      "fontFamily": "Arcticons_3",
+      "identifier": "tango"
     },
     "tank": {
       "codepoint": 58298,
@@ -66233,6 +66658,11 @@
       "codepoint": 58580,
       "fontFamily": "Arcticons_3",
       "identifier": "thriftbooks"
+    },
+    "throne": {
+      "codepoint": 60433,
+      "fontFamily": "Arcticons_3",
+      "identifier": "throne"
     },
     "thud": {
       "codepoint": 58581,
@@ -68824,6 +69254,11 @@
       "fontFamily": "Arcticons_3",
       "identifier": "ublDigital"
     },
+    "uboi-vyom": {
+      "codepoint": 60434,
+      "fontFamily": "Arcticons_3",
+      "identifier": "uboiVyom"
+    },
     "ubox": {
       "codepoint": 59099,
       "fontFamily": "Arcticons_3",
@@ -68873,6 +69308,11 @@
       "codepoint": 59108,
       "fontFamily": "Arcticons_3",
       "identifier": "ucoMbankingPlus"
+    },
+    "udbapp-pro": {
+      "codepoint": 60435,
+      "fontFamily": "Arcticons_3",
+      "identifier": "udbappPro"
     },
     "udeapp": {
       "codepoint": 59109,
@@ -69154,6 +69594,11 @@
       "fontFamily": "Arcticons_3",
       "identifier": "unifiProtect"
     },
+    "unified-remote": {
+      "codepoint": 60436,
+      "fontFamily": "Arcticons_3",
+      "identifier": "unifiedRemote"
+    },
     "unifiednlp": {
       "codepoint": 59165,
       "fontFamily": "Arcticons_3",
@@ -69203,6 +69648,11 @@
       "codepoint": 59174,
       "fontFamily": "Arcticons_3",
       "identifier": "uniteStudents"
+    },
+    "united-airlines": {
+      "codepoint": 60437,
+      "fontFamily": "Arcticons_3",
+      "identifier": "unitedAirlines"
     },
     "units": {
       "codepoint": 59175,
@@ -69328,6 +69778,11 @@
       "codepoint": 59199,
       "fontFamily": "Arcticons_3",
       "identifier": "unstuck"
+    },
+    "untappd": {
+      "codepoint": 60438,
+      "fontFamily": "Arcticons_3",
+      "identifier": "untappd"
     },
     "untis-messenger": {
       "codepoint": 59200,
@@ -70804,6 +71259,11 @@
       "fontFamily": "Arcticons_3",
       "identifier": "vkX"
     },
+    "vkino": {
+      "codepoint": 60439,
+      "fontFamily": "Arcticons_3",
+      "identifier": "vkino"
+    },
     "vklass": {
       "codepoint": 59495,
       "fontFamily": "Arcticons_3",
@@ -71298,6 +71758,11 @@
       "codepoint": 59593,
       "fontFamily": "Arcticons_3",
       "identifier": "waferVault"
+    },
+    "wafrn": {
+      "codepoint": 60440,
+      "fontFamily": "Arcticons_3",
+      "identifier": "wafrn"
     },
     "wahoo": {
       "codepoint": 59594,
@@ -71929,6 +72394,11 @@
       "fontFamily": "Arcticons_3",
       "identifier": "webtoon"
     },
+    "webtube": {
+      "codepoint": 60441,
+      "fontFamily": "Arcticons_3",
+      "identifier": "webtube"
+    },
     "webui-x": {
       "codepoint": 59720,
       "fontFamily": "Arcticons_3",
@@ -71968,6 +72438,11 @@
       "codepoint": 59727,
       "fontFamily": "Arcticons_3",
       "identifier": "weeklyRuns"
+    },
+    "weelo": {
+      "codepoint": 60442,
+      "fontFamily": "Arcticons_3",
+      "identifier": "weelo"
     },
     "weex": {
       "codepoint": 59728,

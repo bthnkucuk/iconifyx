@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/Yummygum/flagpack-core/blob/main/LICENSE',
-  iconCount: 54,
+  iconCount: 185,
 );

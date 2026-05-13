@@ -16,13 +16,13 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 495
+    "total": 500
   },
   "fonts": [
     {
       "family": "StreamlineCyberColor",
-      "nextCodepoint": 57839,
-      "iconCount": 495
+      "nextCodepoint": 57844,
+      "iconCount": 500
     }
   ],
   "icons": {
@@ -350,6 +350,11 @@
       "codepoint": 57408,
       "fontFamily": "StreamlineCyberColor",
       "identifier": "bubbleChatDoubleTypingSmileyFace"
+    },
+    "bubble-chat-like": {
+      "codepoint": 57839,
+      "fontFamily": "StreamlineCyberColor",
+      "identifier": "bubbleChatLike"
     },
     "bubble-chat-quote": {
       "codepoint": 57409,
@@ -830,6 +835,11 @@
       "codepoint": 57504,
       "fontFamily": "StreamlineCyberColor",
       "identifier": "cursorArrowTarget"
+    },
+    "cursor-choose": {
+      "codepoint": 57840,
+      "fontFamily": "StreamlineCyberColor",
+      "identifier": "cursorChoose"
     },
     "cursor-move": {
       "codepoint": 57505,
@@ -1751,6 +1761,11 @@
       "fontFamily": "StreamlineCyberColor",
       "identifier": "pickupTruck"
     },
+    "picture-2": {
+      "codepoint": 57841,
+      "fontFamily": "StreamlineCyberColor",
+      "identifier": "picture2"
+    },
     "picture-6": {
       "codepoint": 57689,
       "fontFamily": "StreamlineCyberColor",
@@ -2031,10 +2046,20 @@
       "fontFamily": "StreamlineCyberColor",
       "identifier": "signalSquare"
     },
+    "skull-1": {
+      "codepoint": 57842,
+      "fontFamily": "StreamlineCyberColor",
+      "identifier": "skull1"
+    },
     "smartwatch-1": {
       "codepoint": 57745,
       "fontFamily": "StreamlineCyberColor",
       "identifier": "smartwatch1"
+    },
+    "smartwatch-favorite-heart-1": {
+      "codepoint": 57843,
+      "fontFamily": "StreamlineCyberColor",
+      "identifier": "smartwatchFavoriteHeart1"
     },
     "smiley-angry-2": {
       "codepoint": 57746,

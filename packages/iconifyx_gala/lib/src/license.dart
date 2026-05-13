@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'GPL',
   licenseSpdx: 'GPL-3.0',
   licenseUrl: 'https://github.com/cyberalien/gala-icons/blob/main/LICENSE',
-  iconCount: 52,
+  iconCount: 55,
 );

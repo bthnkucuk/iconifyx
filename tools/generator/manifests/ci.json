@@ -16,13 +16,13 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 713
+    "total": 716
   },
   "fonts": [
     {
       "family": "Ci",
-      "nextCodepoint": 58057,
-      "iconCount": 713
+      "nextCodepoint": 58060,
+      "iconCount": 716
     }
   ],
   "icons": {
@@ -60,6 +60,11 @@
       "codepoint": 57350,
       "fontFamily": "Ci",
       "identifier": "addToQueue"
+    },
+    "adobe-xd": {
+      "codepoint": 58057,
+      "fontFamily": "Ci",
+      "identifier": "adobeXd"
     },
     "airplay": {
       "codepoint": 57351,
@@ -1050,6 +1055,11 @@
       "codepoint": 57548,
       "fontFamily": "Ci",
       "identifier": "coffeeTogo"
+    },
+    "color": {
+      "codepoint": 58058,
+      "fontFamily": "Ci",
+      "identifier": "color"
     },
     "columns": {
       "codepoint": 57549,
@@ -2600,6 +2610,11 @@
       "codepoint": 57858,
       "fontFamily": "Ci",
       "identifier": "pauseCircleOutline"
+    },
+    "paypal": {
+      "codepoint": 58059,
+      "fontFamily": "Ci",
+      "identifier": "paypal"
     },
     "phone": {
       "codepoint": 57859,

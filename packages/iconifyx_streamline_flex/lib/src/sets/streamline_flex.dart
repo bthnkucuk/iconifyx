@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Streamline
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 1386
+/// Icons: 1500
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -75,6 +75,27 @@ class StreamlineFlexIcons {
   /// `3d-rotate-y-axis-solid`
   static const IconifyIconData n3dRotateYAxisSolid = IconifyIconData(IconData(
     0xe008,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `add-to-playlist`
+  static const IconifyIconData addToPlaylist = IconifyIconData(IconData(
+    0xe56a,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `add-to-playlist-remix`
+  static const IconifyIconData addToPlaylistRemix = IconifyIconData(IconData(
+    0xe56b,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `add-to-playlist-solid`
+  static const IconifyIconData addToPlaylistSolid = IconifyIconData(IconData(
+    0xe56c,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -152,6 +173,13 @@ class StreamlineFlexIcons {
   /// `airplane-disabled-remix`
   static const IconifyIconData airplaneDisabledRemix = IconifyIconData(IconData(
     0xe013,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `airplane-disabled-solid`
+  static const IconifyIconData airplaneDisabledSolid = IconifyIconData(IconData(
+    0xe56d,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -387,9 +415,23 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `archive-box`
+  static const IconifyIconData archiveBox = IconifyIconData(IconData(
+    0xe56e,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `archive-box-remix`
   static const IconifyIconData archiveBoxRemix = IconifyIconData(IconData(
     0xe035,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `archive-box-solid`
+  static const IconifyIconData archiveBoxSolid = IconifyIconData(IconData(
+    0xe56f,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -667,6 +709,13 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `battery-charging`
+  static const IconifyIconData batteryCharging = IconifyIconData(IconData(
+    0xe570,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `battery-charging-remix`
   static const IconifyIconData batteryChargingRemix = IconifyIconData(IconData(
     0xe05d,
@@ -793,6 +842,13 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `binoculars-remix`
+  static const IconifyIconData binocularsRemix = IconifyIconData(IconData(
+    0xe571,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `binoculars-solid`
   static const IconifyIconData binocularsSolid = IconifyIconData(IconData(
     0xe06f,
@@ -824,6 +880,13 @@ class StreamlineFlexIcons {
   /// `block-2`
   static const IconifyIconData block2 = IconifyIconData(IconData(
     0xe073,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `block-2-remix`
+  static const IconifyIconData block2Remix = IconifyIconData(IconData(
+    0xe572,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -863,9 +926,30 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `bluetooth-disabled-remix`
+  static const IconifyIconData bluetoothDisabledRemix = IconifyIconData(IconData(
+    0xe573,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `bluetooth-disabled-solid`
+  static const IconifyIconData bluetoothDisabledSolid = IconifyIconData(IconData(
+    0xe574,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `bluetooth-searching`
   static const IconifyIconData bluetoothSearching = IconifyIconData(IconData(
     0xe079,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `bluetooth-searching-remix`
+  static const IconifyIconData bluetoothSearchingRemix = IconifyIconData(IconData(
+    0xe575,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -894,6 +978,27 @@ class StreamlineFlexIcons {
   /// `book-reading-solid`
   static const IconifyIconData bookReadingSolid = IconifyIconData(IconData(
     0xe07d,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `bookmark`
+  static const IconifyIconData bookmark = IconifyIconData(IconData(
+    0xe576,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `bookmark-remix`
+  static const IconifyIconData bookmarkRemix = IconifyIconData(IconData(
+    0xe577,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `bookmark-solid`
+  static const IconifyIconData bookmarkSolid = IconifyIconData(IconData(
+    0xe578,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -1199,6 +1304,20 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `calculator-1-remix`
+  static const IconifyIconData calculator1Remix = IconifyIconData(IconData(
+    0xe579,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `calculator-1-solid`
+  static const IconifyIconData calculator1Solid = IconifyIconData(IconData(
+    0xe57a,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `calendar-mark`
   static const IconifyIconData calendarMark = IconifyIconData(IconData(
     0xe0a9,
@@ -1286,6 +1405,13 @@ class StreamlineFlexIcons {
   /// `camera-tripod`
   static const IconifyIconData cameraTripod = IconifyIconData(IconData(
     0xe0b5,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `camera-tripod-remix`
+  static const IconifyIconData cameraTripodRemix = IconifyIconData(IconData(
+    0xe57b,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -1612,9 +1738,58 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `chef-toque-hat`
+  static const IconifyIconData chefToqueHat = IconifyIconData(IconData(
+    0xe57c,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `chef-toque-hat-remix`
+  static const IconifyIconData chefToqueHatRemix = IconifyIconData(IconData(
+    0xe57d,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `chef-toque-hat-solid`
+  static const IconifyIconData chefToqueHatSolid = IconifyIconData(IconData(
+    0xe57e,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `chess-king`
+  static const IconifyIconData chessKing = IconifyIconData(IconData(
+    0xe57f,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `chess-king-remix`
+  static const IconifyIconData chessKingRemix = IconifyIconData(IconData(
+    0xe580,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `chess-king-solid`
   static const IconifyIconData chessKingSolid = IconifyIconData(IconData(
     0xe0e4,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `city-hall`
+  static const IconifyIconData cityHall = IconifyIconData(IconData(
+    0xe581,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `city-hall-remix`
+  static const IconifyIconData cityHallRemix = IconifyIconData(IconData(
+    0xe582,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -1699,6 +1874,20 @@ class StreamlineFlexIcons {
   /// `cloud-off`
   static const IconifyIconData cloudOff = IconifyIconData(IconData(
     0xe0f0,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `cloud-off-remix`
+  static const IconifyIconData cloudOffRemix = IconifyIconData(IconData(
+    0xe583,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `cloud-off-solid`
+  static const IconifyIconData cloudOffSolid = IconifyIconData(IconData(
+    0xe584,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -1864,6 +2053,13 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `color-swatches`
+  static const IconifyIconData colorSwatches = IconifyIconData(IconData(
+    0xe585,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `color-swatches-remix`
   static const IconifyIconData colorSwatchesRemix = IconifyIconData(IconData(
     0xe108,
@@ -1881,6 +2077,13 @@ class StreamlineFlexIcons {
   /// `compsition-horizontal`
   static const IconifyIconData compsitionHorizontal = IconifyIconData(IconData(
     0xe10a,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `compsition-horizontal-remix`
+  static const IconifyIconData compsitionHorizontalRemix = IconifyIconData(IconData(
+    0xe586,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -1927,9 +2130,44 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `contact-book-solid`
+  static const IconifyIconData contactBookSolid = IconifyIconData(IconData(
+    0xe587,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `contact-phonebook-2`
+  static const IconifyIconData contactPhonebook2 = IconifyIconData(IconData(
+    0xe588,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `contact-phonebook-2-remix`
+  static const IconifyIconData contactPhonebook2Remix = IconifyIconData(IconData(
+    0xe589,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `contact-phonebook-2-solid`
+  static const IconifyIconData contactPhonebook2Solid = IconifyIconData(IconData(
+    0xe58a,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `controller-stick`
   static const IconifyIconData controllerStick = IconifyIconData(IconData(
     0xe111,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `controller-stick-remix`
+  static const IconifyIconData controllerStickRemix = IconifyIconData(IconData(
+    0xe58b,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -2049,6 +2287,13 @@ class StreamlineFlexIcons {
   /// `credit-card-disable`
   static const IconifyIconData creditCardDisable = IconifyIconData(IconData(
     0xe122,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `credit-card-disable-remix`
+  static const IconifyIconData creditCardDisableRemix = IconifyIconData(IconData(
+    0xe58c,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -2410,6 +2655,13 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `departure-time-solid`
+  static const IconifyIconData departureTimeSolid = IconifyIconData(IconData(
+    0xe58d,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `desktop-lock`
   static const IconifyIconData desktopLock = IconifyIconData(IconData(
     0xe156,
@@ -2511,6 +2763,27 @@ class StreamlineFlexIcons {
   /// `dice-5-solid`
   static const IconifyIconData dice5Solid = IconifyIconData(IconData(
     0xe164,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `dictionary-language-book`
+  static const IconifyIconData dictionaryLanguageBook = IconifyIconData(IconData(
+    0xe58e,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `dictionary-language-book-remix`
+  static const IconifyIconData dictionaryLanguageBookRemix = IconifyIconData(IconData(
+    0xe58f,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `dictionary-language-book-solid`
+  static const IconifyIconData dictionaryLanguageBookSolid = IconifyIconData(IconData(
+    0xe590,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -2756,6 +3029,13 @@ class StreamlineFlexIcons {
   /// `drone-remix`
   static const IconifyIconData droneRemix = IconifyIconData(IconData(
     0xe187,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `drone-solid`
+  static const IconifyIconData droneSolid = IconifyIconData(IconData(
+    0xe591,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -3096,6 +3376,13 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `file-bookmark-remix`
+  static const IconifyIconData fileBookmarkRemix = IconifyIconData(IconData(
+    0xe592,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `file-bookmark-solid`
   static const IconifyIconData fileBookmarkSolid = IconifyIconData(IconData(
     0xe1b8,
@@ -3141,6 +3428,13 @@ class StreamlineFlexIcons {
   /// `film-slate`
   static const IconifyIconData filmSlate = IconifyIconData(IconData(
     0xe1be,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `film-slate-remix`
+  static const IconifyIconData filmSlateRemix = IconifyIconData(IconData(
+    0xe593,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -3271,6 +3565,20 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `flash-off-remix`
+  static const IconifyIconData flashOffRemix = IconifyIconData(IconData(
+    0xe594,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `flash-off-solid`
+  static const IconifyIconData flashOffSolid = IconifyIconData(IconData(
+    0xe595,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `flash-warning`
   static const IconifyIconData flashWarning = IconifyIconData(IconData(
     0xe1d1,
@@ -3316,6 +3624,13 @@ class StreamlineFlexIcons {
   /// `flip-horizontal-circle-2`
   static const IconifyIconData flipHorizontalCircle2 = IconifyIconData(IconData(
     0xe1d7,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `flip-horizontal-circle-2-remix`
+  static const IconifyIconData flipHorizontalCircle2Remix = IconifyIconData(IconData(
+    0xe596,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -3544,6 +3859,20 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `gas-station-fuel-petroleum-remix`
+  static const IconifyIconData gasStationFuelPetroleumRemix = IconifyIconData(IconData(
+    0xe597,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `gas-station-fuel-petroleum-solid`
+  static const IconifyIconData gasStationFuelPetroleumSolid = IconifyIconData(IconData(
+    0xe598,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `gift-2`
   static const IconifyIconData gift2 = IconifyIconData(IconData(
     0xe1f8,
@@ -3677,6 +4006,13 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `hand-held-tablet-writing-remix`
+  static const IconifyIconData handHeldTabletWritingRemix = IconifyIconData(IconData(
+    0xe599,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `hand-held-tablet-writing-solid`
   static const IconifyIconData handHeldTabletWritingSolid = IconifyIconData(IconData(
     0xe20b,
@@ -3705,9 +4041,23 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `hard-drive-1`
+  static const IconifyIconData hardDrive1 = IconifyIconData(IconData(
+    0xe59a,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `hard-drive-1-remix`
   static const IconifyIconData hardDrive1Remix = IconifyIconData(IconData(
     0xe20f,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `hard-drive-1-solid`
+  static const IconifyIconData hardDrive1Solid = IconifyIconData(IconData(
+    0xe59b,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -3992,6 +4342,13 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `horizontal-toggle-button-remix`
+  static const IconifyIconData horizontalToggleButtonRemix = IconifyIconData(IconData(
+    0xe59c,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `horizontal-toggle-button-solid`
   static const IconifyIconData horizontalToggleButtonSolid = IconifyIconData(IconData(
     0xe238,
@@ -4044,6 +4401,20 @@ class StreamlineFlexIcons {
   /// `humidity-none`
   static const IconifyIconData humidityNone = IconifyIconData(IconData(
     0xe23f,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `humidity-none-remix`
+  static const IconifyIconData humidityNoneRemix = IconifyIconData(IconData(
+    0xe59d,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `humidity-none-solid`
+  static const IconifyIconData humidityNoneSolid = IconifyIconData(IconData(
+    0xe59e,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -4181,6 +4552,13 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `incognito-mode-remix`
+  static const IconifyIconData incognitoModeRemix = IconifyIconData(IconData(
+    0xe59f,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `incognito-mode-solid`
   static const IconifyIconData incognitoModeSolid = IconifyIconData(IconData(
     0xe253,
@@ -4286,6 +4664,13 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `input-box-solid`
+  static const IconifyIconData inputBoxSolid = IconifyIconData(IconData(
+    0xe5a0,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `insert-center-left-1`
   static const IconifyIconData insertCenterLeft1 = IconifyIconData(IconData(
     0xe262,
@@ -4307,9 +4692,23 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `insurance-hand-1`
+  static const IconifyIconData insuranceHand1 = IconifyIconData(IconData(
+    0xe5a1,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `insurance-hand-1-remix`
   static const IconifyIconData insuranceHand1Remix = IconifyIconData(IconData(
     0xe265,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `insurance-hand-1-solid`
+  static const IconifyIconData insuranceHand1Solid = IconifyIconData(IconData(
+    0xe5a2,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -4398,6 +4797,13 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `iphone`
+  static const IconifyIconData iphone = IconifyIconData(IconData(
+    0xe5a3,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `iphone-remix`
   static const IconifyIconData iphoneRemix = IconifyIconData(IconData(
     0xe272,
@@ -4436,6 +4842,13 @@ class StreamlineFlexIcons {
   /// `iron`
   static const IconifyIconData iron = IconifyIconData(IconData(
     0xe277,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `iron-remix`
+  static const IconifyIconData ironRemix = IconifyIconData(IconData(
+    0xe5a4,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -4615,6 +5028,13 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `laptop`
+  static const IconifyIconData laptop = IconifyIconData(IconData(
+    0xe5a5,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `laptop-remix`
   static const IconifyIconData laptopRemix = IconifyIconData(IconData(
     0xe291,
@@ -4688,6 +5108,13 @@ class StreamlineFlexIcons {
   /// `layout-window-1-solid`
   static const IconifyIconData layoutWindow1Solid = IconifyIconData(IconData(
     0xe29b,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `left-click`
+  static const IconifyIconData leftClick = IconifyIconData(IconData(
+    0xe5a6,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -4986,6 +5413,48 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `login-1`
+  static const IconifyIconData login1 = IconifyIconData(IconData(
+    0xe5a7,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `login-1-remix`
+  static const IconifyIconData login1Remix = IconifyIconData(IconData(
+    0xe5a8,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `login-1-solid`
+  static const IconifyIconData login1Solid = IconifyIconData(IconData(
+    0xe5a9,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `logout-1`
+  static const IconifyIconData logout1 = IconifyIconData(IconData(
+    0xe5aa,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `logout-1-remix`
+  static const IconifyIconData logout1Remix = IconifyIconData(IconData(
+    0xe5ab,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `logout-1-solid`
+  static const IconifyIconData logout1Solid = IconifyIconData(IconData(
+    0xe5ac,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `magic-wand-1`
   static const IconifyIconData magicWand1 = IconifyIconData(IconData(
     0xe2c6,
@@ -5259,6 +5728,13 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `module-puzzle-2-remix`
+  static const IconifyIconData modulePuzzle2Remix = IconifyIconData(IconData(
+    0xe5ad,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `module-puzzle-2-solid`
   static const IconifyIconData modulePuzzle2Solid = IconifyIconData(IconData(
     0xe2ed,
@@ -5497,6 +5973,27 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `news-paper`
+  static const IconifyIconData newsPaper = IconifyIconData(IconData(
+    0xe5ae,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `news-paper-remix`
+  static const IconifyIconData newsPaperRemix = IconifyIconData(IconData(
+    0xe5af,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `news-paper-solid`
+  static const IconifyIconData newsPaperSolid = IconifyIconData(IconData(
+    0xe5b0,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `non-commercial-dollars`
   static const IconifyIconData nonCommercialDollars = IconifyIconData(IconData(
     0xe30f,
@@ -5507,6 +6004,13 @@ class StreamlineFlexIcons {
   /// `non-commercial-dollars-remix`
   static const IconifyIconData nonCommercialDollarsRemix = IconifyIconData(IconData(
     0xe310,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `non-commercial-dollars-solid`
+  static const IconifyIconData nonCommercialDollarsSolid = IconifyIconData(IconData(
+    0xe5b1,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -5581,6 +6085,13 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `number-sign-remix`
+  static const IconifyIconData numberSignRemix = IconifyIconData(IconData(
+    0xe5b2,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `number-sign-solid`
   static const IconifyIconData numberSignSolid = IconifyIconData(IconData(
     0xe31b,
@@ -5598,6 +6109,13 @@ class StreamlineFlexIcons {
   /// `nurse-assistant-emergency-remix`
   static const IconifyIconData nurseAssistantEmergencyRemix = IconifyIconData(IconData(
     0xe31d,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `nurse-assistant-emergency-solid`
+  static const IconifyIconData nurseAssistantEmergencySolid = IconifyIconData(IconData(
+    0xe5b3,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -5906,6 +6424,27 @@ class StreamlineFlexIcons {
   /// `pdf-reader-application-remix`
   static const IconifyIconData pdfReaderApplicationRemix = IconifyIconData(IconData(
     0xe349,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `pdf-reader-application-solid`
+  static const IconifyIconData pdfReaderApplicationSolid = IconifyIconData(IconData(
+    0xe5b4,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `pen-1`
+  static const IconifyIconData pen1 = IconifyIconData(IconData(
+    0xe5b5,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `pen-1-remix`
+  static const IconifyIconData pen1Remix = IconifyIconData(IconData(
+    0xe5b6,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -6323,6 +6862,13 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `politics-vote-2-remix`
+  static const IconifyIconData politicsVote2Remix = IconifyIconData(IconData(
+    0xe5b7,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `politics-vote-2-solid`
   static const IconifyIconData politicsVote2Solid = IconifyIconData(IconData(
     0xe385,
@@ -6379,9 +6925,30 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `prescription-pills-drugs-healthcare-remix`
+  static const IconifyIconData prescriptionPillsDrugsHealthcareRemix = IconifyIconData(IconData(
+    0xe5b8,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `prescription-pills-drugs-healthcare-solid`
+  static const IconifyIconData prescriptionPillsDrugsHealthcareSolid = IconifyIconData(IconData(
+    0xe5b9,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `presentation`
   static const IconifyIconData presentation = IconifyIconData(IconData(
     0xe38d,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `presentation-remix`
+  static const IconifyIconData presentationRemix = IconifyIconData(IconData(
+    0xe5ba,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -6456,6 +7023,13 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `projector`
+  static const IconifyIconData projector = IconifyIconData(IconData(
+    0xe5bb,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `projector-board`
   static const IconifyIconData projectorBoard = IconifyIconData(IconData(
     0xe398,
@@ -6463,9 +7037,44 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `projector-board-remix`
+  static const IconifyIconData projectorBoardRemix = IconifyIconData(IconData(
+    0xe5bc,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `projector-board-solid`
+  static const IconifyIconData projectorBoardSolid = IconifyIconData(IconData(
+    0xe5bd,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `projector-remix`
+  static const IconifyIconData projectorRemix = IconifyIconData(IconData(
+    0xe5be,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `projector-solid`
+  static const IconifyIconData projectorSolid = IconifyIconData(IconData(
+    0xe5bf,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `qr-code`
   static const IconifyIconData qrCode = IconifyIconData(IconData(
     0xe399,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `qr-code-remix`
+  static const IconifyIconData qrCodeRemix = IconifyIconData(IconData(
+    0xe5c0,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -6827,6 +7436,13 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `salad-vegetable-diet-remix`
+  static const IconifyIconData saladVegetableDietRemix = IconifyIconData(IconData(
+    0xe5c1,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `salad-vegetable-diet-solid`
   static const IconifyIconData saladVegetableDietSolid = IconifyIconData(IconData(
     0xe3cd,
@@ -6869,9 +7485,23 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `scanner-bar-code-remix`
+  static const IconifyIconData scannerBarCodeRemix = IconifyIconData(IconData(
+    0xe5c2,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `scanner-bar-code-solid`
   static const IconifyIconData scannerBarCodeSolid = IconifyIconData(IconData(
     0xe3d3,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `scanner-remix`
+  static const IconifyIconData scannerRemix = IconifyIconData(IconData(
+    0xe5c3,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -6907,6 +7537,13 @@ class StreamlineFlexIcons {
   /// `school-bus-side-solid`
   static const IconifyIconData schoolBusSideSolid = IconifyIconData(IconData(
     0xe3d8,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `school-remix`
+  static const IconifyIconData schoolRemix = IconifyIconData(IconData(
+    0xe5c4,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -6974,6 +7611,13 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `screen-curve-solid`
+  static const IconifyIconData screenCurveSolid = IconifyIconData(IconData(
+    0xe5c5,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `screenshot`
   static const IconifyIconData screenshot = IconifyIconData(IconData(
     0xe3e2,
@@ -7005,6 +7649,13 @@ class StreamlineFlexIcons {
   /// `screwdriver-wrench-remix`
   static const IconifyIconData screwdriverWrenchRemix = IconifyIconData(IconData(
     0xe3e6,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `screwdriver-wrench-solid`
+  static const IconifyIconData screwdriverWrenchSolid = IconifyIconData(IconData(
+    0xe5c6,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -7457,9 +8108,30 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `signage-pedestrian-no-crossing-remix`
+  static const IconifyIconData signagePedestrianNoCrossingRemix = IconifyIconData(IconData(
+    0xe5c7,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `signage-pedestrian-no-crossing-solid`
   static const IconifyIconData signagePedestrianNoCrossingSolid = IconifyIconData(IconData(
     0xe427,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `signal-full`
+  static const IconifyIconData signalFull = IconifyIconData(IconData(
+    0xe5c8,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `signal-full-remix`
+  static const IconifyIconData signalFullRemix = IconifyIconData(IconData(
+    0xe5c9,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -7541,6 +8213,13 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `smoking-area-remix`
+  static const IconifyIconData smokingAreaRemix = IconifyIconData(IconData(
+    0xe5ca,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `smoking-area-solid`
   static const IconifyIconData smokingAreaSolid = IconifyIconData(IconData(
     0xe433,
@@ -7572,6 +8251,13 @@ class StreamlineFlexIcons {
   /// `sofa`
   static const IconifyIconData sofa = IconifyIconData(IconData(
     0xe437,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `sofa-remix`
+  static const IconifyIconData sofaRemix = IconifyIconData(IconData(
+    0xe5cb,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -7968,6 +8654,20 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `surveillance-camera-remix`
+  static const IconifyIconData surveillanceCameraRemix = IconifyIconData(IconData(
+    0xe5cc,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `surveillance-camera-solid`
+  static const IconifyIconData surveillanceCameraSolid = IconifyIconData(IconData(
+    0xe5cd,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `table`
   static const IconifyIconData table = IconifyIconData(IconData(
     0xe470,
@@ -8031,6 +8731,13 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `tag`
+  static const IconifyIconData tag = IconifyIconData(IconData(
+    0xe5ce,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `tag-alt`
   static const IconifyIconData tagAlt = IconifyIconData(IconData(
     0xe479,
@@ -8059,6 +8766,13 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `tag-solid`
+  static const IconifyIconData tagSolid = IconifyIconData(IconData(
+    0xe5cf,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `tall-hat`
   static const IconifyIconData tallHat = IconifyIconData(IconData(
     0xe47d,
@@ -8069,6 +8783,13 @@ class StreamlineFlexIcons {
   /// `tall-hat-remix`
   static const IconifyIconData tallHatRemix = IconifyIconData(IconData(
     0xe47e,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `tall-hat-solid`
+  static const IconifyIconData tallHatSolid = IconifyIconData(IconData(
+    0xe5d0,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -8143,6 +8864,13 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `tea-cup-remix`
+  static const IconifyIconData teaCupRemix = IconifyIconData(IconData(
+    0xe5d1,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `tea-cup-solid`
   static const IconifyIconData teaCupSolid = IconifyIconData(IconData(
     0xe489,
@@ -8153,6 +8881,13 @@ class StreamlineFlexIcons {
   /// `text-file`
   static const IconifyIconData textFile = IconifyIconData(IconData(
     0xe48a,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `text-file-remix`
+  static const IconifyIconData textFileRemix = IconifyIconData(IconData(
+    0xe5d2,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -8272,6 +9007,13 @@ class StreamlineFlexIcons {
   /// `thread-post-tweet`
   static const IconifyIconData threadPostTweet = IconifyIconData(IconData(
     0xe49b,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `thread-post-tweet-remix`
+  static const IconifyIconData threadPostTweetRemix = IconifyIconData(IconData(
+    0xe5d3,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -8892,6 +9634,27 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `user-identifier-card`
+  static const IconifyIconData userIdentifierCard = IconifyIconData(IconData(
+    0xe5d4,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `user-identifier-card-remix`
+  static const IconifyIconData userIdentifierCardRemix = IconifyIconData(IconData(
+    0xe5d5,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `user-identifier-card-solid`
+  static const IconifyIconData userIdentifierCardSolid = IconifyIconData(IconData(
+    0xe5d6,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `user-king-crown`
   static const IconifyIconData userKingCrown = IconifyIconData(IconData(
     0xe4f4,
@@ -9067,6 +9830,13 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `voice-scan-2-remix`
+  static const IconifyIconData voiceScan2Remix = IconifyIconData(IconData(
+    0xe5d7,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `voice-scan-2-solid`
   static const IconifyIconData voiceScan2Solid = IconifyIconData(IconData(
     0xe50d,
@@ -9077,6 +9847,13 @@ class StreamlineFlexIcons {
   /// `volume-level-high`
   static const IconifyIconData volumeLevelHigh = IconifyIconData(IconData(
     0xe50e,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `volume-level-high-remix`
+  static const IconifyIconData volumeLevelHighRemix = IconifyIconData(IconData(
+    0xe5d8,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));
@@ -9319,6 +10096,20 @@ class StreamlineFlexIcons {
     fontPackage: 'iconifyx_streamline_flex',
   ));
 
+  /// `watchtower-castle`
+  static const IconifyIconData watchtowerCastle = IconifyIconData(IconData(
+    0xe5d9,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `watchtower-castle-remix`
+  static const IconifyIconData watchtowerCastleRemix = IconifyIconData(IconData(
+    0xe5da,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
   /// `watchtower-castle-solid`
   static const IconifyIconData watchtowerCastleSolid = IconifyIconData(IconData(
     0xe531,
@@ -9434,6 +10225,13 @@ class StreamlineFlexIcons {
   /// `white-board`
   static const IconifyIconData whiteBoard = IconifyIconData(IconData(
     0xe541,
+    fontFamily: 'StreamlineFlex',
+    fontPackage: 'iconifyx_streamline_flex',
+  ));
+
+  /// `white-board-remix`
+  static const IconifyIconData whiteBoardRemix = IconifyIconData(IconData(
+    0xe5db,
     fontFamily: 'StreamlineFlex',
     fontPackage: 'iconifyx_streamline_flex',
   ));

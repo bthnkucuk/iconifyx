@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/resolvetosavelives/healthicons/blob/main/LICENSE"
     },
-    "total": 3296
+    "total": 3373
   },
   "fonts": [
     {
       "family": "Healthicons",
-      "nextCodepoint": 60640,
-      "iconCount": 3296
+      "nextCodepoint": 60717,
+      "iconCount": 3373
     }
   ],
   "icons": {
@@ -361,6 +361,11 @@
       "fontFamily": "Healthicons",
       "identifier": "agricultureNegative"
     },
+    "agriculture-outline": {
+      "codepoint": 60640,
+      "fontFamily": "Healthicons",
+      "identifier": "agricultureOutline"
+    },
     "agriculture-worker": {
       "codepoint": 57411,
       "fontFamily": "Healthicons",
@@ -400,6 +405,11 @@
       "codepoint": 57418,
       "fontFamily": "Healthicons",
       "identifier": "agricultureWorker2xOutline"
+    },
+    "agriculture2x-outline": {
+      "codepoint": 60641,
+      "fontFamily": "Healthicons",
+      "identifier": "agriculture2xOutline"
     },
     "alcohol": {
       "codepoint": 57419,
@@ -590,6 +600,11 @@
       "codepoint": 57456,
       "fontFamily": "Healthicons",
       "identifier": "ancv"
+    },
+    "ancv-negative": {
+      "codepoint": 60642,
+      "fontFamily": "Healthicons",
+      "identifier": "ancvNegative"
     },
     "ancv-outline": {
       "codepoint": 57457,
@@ -906,6 +921,11 @@
       "fontFamily": "Healthicons",
       "identifier": "armOutline"
     },
+    "arm-outline-24px": {
+      "codepoint": 60643,
+      "fontFamily": "Healthicons",
+      "identifier": "armOutline24px"
+    },
     "artificial-intelligence": {
       "codepoint": 57520,
       "fontFamily": "Healthicons",
@@ -1131,10 +1151,25 @@
       "fontFamily": "Healthicons",
       "identifier": "baby0306m24px"
     },
+    "baby-0306m-negative": {
+      "codepoint": 60644,
+      "fontFamily": "Healthicons",
+      "identifier": "baby0306mNegative"
+    },
+    "baby-0306m-outline": {
+      "codepoint": 60645,
+      "fontFamily": "Healthicons",
+      "identifier": "baby0306mOutline"
+    },
     "baby-0306m-outline-24px": {
       "codepoint": 57565,
       "fontFamily": "Healthicons",
       "identifier": "baby0306mOutline24px"
+    },
+    "baby-0306m2x-outline": {
+      "codepoint": 60646,
+      "fontFamily": "Healthicons",
+      "identifier": "baby0306m2xOutline"
     },
     "baby-female-0203m": {
       "codepoint": 57566,
@@ -1176,10 +1211,30 @@
       "fontFamily": "Healthicons",
       "identifier": "babyFemale0306m"
     },
+    "baby-female-0306m-negative": {
+      "codepoint": 60647,
+      "fontFamily": "Healthicons",
+      "identifier": "babyFemale0306mNegative"
+    },
+    "baby-female-0306m-outline": {
+      "codepoint": 60648,
+      "fontFamily": "Healthicons",
+      "identifier": "babyFemale0306mOutline"
+    },
+    "baby-female-0306m2x-outline": {
+      "codepoint": 60649,
+      "fontFamily": "Healthicons",
+      "identifier": "babyFemale0306m2xOutline"
+    },
     "baby-female-0609m": {
       "codepoint": 57574,
       "fontFamily": "Healthicons",
       "identifier": "babyFemale0609m"
+    },
+    "baby-female-0609m-negative": {
+      "codepoint": 60650,
+      "fontFamily": "Healthicons",
+      "identifier": "babyFemale0609mNegative"
     },
     "baby-female-0609m-outline": {
       "codepoint": 57575,
@@ -1251,10 +1306,30 @@
       "fontFamily": "Healthicons",
       "identifier": "babyMale0306m"
     },
+    "baby-male-0306m-negative": {
+      "codepoint": 60651,
+      "fontFamily": "Healthicons",
+      "identifier": "babyMale0306mNegative"
+    },
+    "baby-male-0306m-outline": {
+      "codepoint": 60652,
+      "fontFamily": "Healthicons",
+      "identifier": "babyMale0306mOutline"
+    },
+    "baby-male-0306m2x-outline": {
+      "codepoint": 60653,
+      "fontFamily": "Healthicons",
+      "identifier": "babyMale0306m2xOutline"
+    },
     "baby-male-0609m": {
       "codepoint": 57589,
       "fontFamily": "Healthicons",
       "identifier": "babyMale0609m"
+    },
+    "baby-male-0609m-negative": {
+      "codepoint": 60654,
+      "fontFamily": "Healthicons",
+      "identifier": "babyMale0609mNegative"
     },
     "baby-male-0609m-outline": {
       "codepoint": 57590,
@@ -1996,6 +2071,26 @@
       "fontFamily": "Healthicons",
       "identifier": "bloodPressure"
     },
+    "blood-pressure-2": {
+      "codepoint": 60655,
+      "fontFamily": "Healthicons",
+      "identifier": "bloodPressure2"
+    },
+    "blood-pressure-2-negative": {
+      "codepoint": 60656,
+      "fontFamily": "Healthicons",
+      "identifier": "bloodPressure2Negative"
+    },
+    "blood-pressure-2-outline": {
+      "codepoint": 60657,
+      "fontFamily": "Healthicons",
+      "identifier": "bloodPressure2Outline"
+    },
+    "blood-pressure-22x-outline": {
+      "codepoint": 60658,
+      "fontFamily": "Healthicons",
+      "identifier": "bloodPressure22xOutline"
+    },
     "blood-pressure-monitor": {
       "codepoint": 57738,
       "fontFamily": "Healthicons",
@@ -2005,6 +2100,11 @@
       "codepoint": 57739,
       "fontFamily": "Healthicons",
       "identifier": "bloodPressureMonitor24px"
+    },
+    "blood-pressure-monitor-negative": {
+      "codepoint": 60659,
+      "fontFamily": "Healthicons",
+      "identifier": "bloodPressureMonitorNegative"
     },
     "blood-pressure-monitor-outline": {
       "codepoint": 57740,
@@ -2210,6 +2310,11 @@
       "codepoint": 57780,
       "fontFamily": "Healthicons",
       "identifier": "boy1015y"
+    },
+    "boy-1015y-negative": {
+      "codepoint": 60660,
+      "fontFamily": "Healthicons",
+      "identifier": "boy1015yNegative"
     },
     "boy-1015y-outline": {
       "codepoint": 57781,
@@ -2556,6 +2661,11 @@
       "fontFamily": "Healthicons",
       "identifier": "cardiogramOutline"
     },
+    "cardiogram-outline-24px": {
+      "codepoint": 60661,
+      "fontFamily": "Healthicons",
+      "identifier": "cardiogramOutline24px"
+    },
     "cardiogram2x-outline": {
       "codepoint": 57850,
       "fontFamily": "Healthicons",
@@ -2625,6 +2735,11 @@
       "codepoint": 57863,
       "fontFamily": "Healthicons",
       "identifier": "cervicalCancer"
+    },
+    "cervical-cancer-24px": {
+      "codepoint": 60662,
+      "fontFamily": "Healthicons",
+      "identifier": "cervicalCancer24px"
     },
     "cervical-cancer-negative": {
       "codepoint": 57864,
@@ -4196,6 +4311,26 @@
       "fontFamily": "Healthicons",
       "identifier": "crossCountryMotorcycle2xOutline"
     },
+    "crutches": {
+      "codepoint": 60663,
+      "fontFamily": "Healthicons",
+      "identifier": "crutches"
+    },
+    "crutches-negative": {
+      "codepoint": 60664,
+      "fontFamily": "Healthicons",
+      "identifier": "crutchesNegative"
+    },
+    "crutches-outline": {
+      "codepoint": 60665,
+      "fontFamily": "Healthicons",
+      "identifier": "crutchesOutline"
+    },
+    "crutches2x-outline": {
+      "codepoint": 60666,
+      "fontFamily": "Healthicons",
+      "identifier": "crutches2xOutline"
+    },
     "crying": {
       "codepoint": 58178,
       "fontFamily": "Healthicons",
@@ -4601,6 +4736,11 @@
       "fontFamily": "Healthicons",
       "identifier": "diagnostics2xOutline"
     },
+    "diarrhea": {
+      "codepoint": 60667,
+      "fontFamily": "Healthicons",
+      "identifier": "diarrhea"
+    },
     "diarrhea-24px": {
       "codepoint": 58259,
       "fontFamily": "Healthicons",
@@ -4610,6 +4750,11 @@
       "codepoint": 58260,
       "fontFamily": "Healthicons",
       "identifier": "diarrheaNegative"
+    },
+    "diarrhea-outline": {
+      "codepoint": 60668,
+      "fontFamily": "Healthicons",
+      "identifier": "diarrheaOutline"
     },
     "diarrhea-outline-24px": {
       "codepoint": 58261,
@@ -5101,6 +5246,16 @@
       "fontFamily": "Healthicons",
       "identifier": "elderlyNegative"
     },
+    "elderly-outline": {
+      "codepoint": 60669,
+      "fontFamily": "Healthicons",
+      "identifier": "elderlyOutline"
+    },
+    "elderly2x-outline": {
+      "codepoint": 60670,
+      "fontFamily": "Healthicons",
+      "identifier": "elderly2xOutline"
+    },
     "electricity": {
       "codepoint": 58359,
       "fontFamily": "Healthicons",
@@ -5190,6 +5345,21 @@
       "codepoint": 58376,
       "fontFamily": "Healthicons",
       "identifier": "endocrinology2xOutline"
+    },
+    "endotracheal-tube": {
+      "codepoint": 60671,
+      "fontFamily": "Healthicons",
+      "identifier": "endotrachealTube"
+    },
+    "endotracheal-tube-outline": {
+      "codepoint": 60672,
+      "fontFamily": "Healthicons",
+      "identifier": "endotrachealTubeOutline"
+    },
+    "endotracheal-tube2x-outline": {
+      "codepoint": 60673,
+      "fontFamily": "Healthicons",
+      "identifier": "endotrachealTube2xOutline"
     },
     "entry": {
       "codepoint": 58377,
@@ -5316,10 +5486,20 @@
       "fontFamily": "Healthicons",
       "identifier": "exerciseRunningNegative"
     },
+    "exercise-running-outline": {
+      "codepoint": 60674,
+      "fontFamily": "Healthicons",
+      "identifier": "exerciseRunningOutline"
+    },
     "exercise-walk-supported": {
       "codepoint": 58402,
       "fontFamily": "Healthicons",
       "identifier": "exerciseWalkSupported"
+    },
+    "exercise-walk-supported-negative": {
+      "codepoint": 60675,
+      "fontFamily": "Healthicons",
+      "identifier": "exerciseWalkSupportedNegative"
     },
     "exercise-walk-supported-outline": {
       "codepoint": 58403,
@@ -5340,6 +5520,16 @@
       "codepoint": 58406,
       "fontFamily": "Healthicons",
       "identifier": "exerciseWalkingOutline"
+    },
+    "exercise-weights": {
+      "codepoint": 60676,
+      "fontFamily": "Healthicons",
+      "identifier": "exerciseWeights"
+    },
+    "exercise-weights-negative": {
+      "codepoint": 60677,
+      "fontFamily": "Healthicons",
+      "identifier": "exerciseWeightsNegative"
     },
     "exercise-weights-outline": {
       "codepoint": 58407,
@@ -5561,6 +5751,16 @@
       "fontFamily": "Healthicons",
       "identifier": "femaleAndMaleNegative"
     },
+    "female-and-male-outline": {
+      "codepoint": 60678,
+      "fontFamily": "Healthicons",
+      "identifier": "femaleAndMaleOutline"
+    },
+    "female-and-male2x-outline": {
+      "codepoint": 60679,
+      "fontFamily": "Healthicons",
+      "identifier": "femaleAndMale2xOutline"
+    },
     "female-condom": {
       "codepoint": 58451,
       "fontFamily": "Healthicons",
@@ -5716,6 +5916,11 @@
       "fontFamily": "Healthicons",
       "identifier": "fhirLogo"
     },
+    "fhir-logo-negative": {
+      "codepoint": 60680,
+      "fontFamily": "Healthicons",
+      "identifier": "fhirLogoNegative"
+    },
     "fhir-logo-outline": {
       "codepoint": 58482,
       "fontFamily": "Healthicons",
@@ -5800,6 +6005,11 @@
       "codepoint": 58498,
       "fontFamily": "Healthicons",
       "identifier": "footOutline24px"
+    },
+    "forest": {
+      "codepoint": 60681,
+      "fontFamily": "Healthicons",
+      "identifier": "forest"
     },
     "forest-negative": {
       "codepoint": 58499,
@@ -5925,6 +6135,11 @@
       "codepoint": 58523,
       "fontFamily": "Healthicons",
       "identifier": "gastroenterology"
+    },
+    "gastroenterology-negative": {
+      "codepoint": 60682,
+      "fontFamily": "Healthicons",
+      "identifier": "gastroenterologyNegative"
     },
     "gastroenterology-outline": {
       "codepoint": 58524,
@@ -6060,6 +6275,11 @@
       "codepoint": 58550,
       "fontFamily": "Healthicons",
       "identifier": "girl1015y"
+    },
+    "girl-1015y-negative": {
+      "codepoint": 60683,
+      "fontFamily": "Healthicons",
+      "identifier": "girl1015yNegative"
     },
     "girl-1015y-outline": {
       "codepoint": 58551,
@@ -6241,6 +6461,16 @@
       "fontFamily": "Healthicons",
       "identifier": "guideDogNegative"
     },
+    "guide-dog-outline": {
+      "codepoint": 60684,
+      "fontFamily": "Healthicons",
+      "identifier": "guideDogOutline"
+    },
+    "guide-dog2x-outline": {
+      "codepoint": 60685,
+      "fontFamily": "Healthicons",
+      "identifier": "guideDog2xOutline"
+    },
     "gym": {
       "codepoint": 58587,
       "fontFamily": "Healthicons",
@@ -6396,6 +6626,16 @@
       "fontFamily": "Healthicons",
       "identifier": "headCircumference"
     },
+    "head-circumference-outline": {
+      "codepoint": 60686,
+      "fontFamily": "Healthicons",
+      "identifier": "headCircumferenceOutline"
+    },
+    "head-circumference2x-outline": {
+      "codepoint": 60687,
+      "fontFamily": "Healthicons",
+      "identifier": "headCircumference2xOutline"
+    },
     "head-outline": {
       "codepoint": 58618,
       "fontFamily": "Healthicons",
@@ -6405,6 +6645,11 @@
       "codepoint": 58619,
       "fontFamily": "Healthicons",
       "identifier": "headOutline24px"
+    },
+    "headache": {
+      "codepoint": 60688,
+      "fontFamily": "Healthicons",
+      "identifier": "headache"
     },
     "headache-24px": {
       "codepoint": 58620,
@@ -7105,6 +7350,11 @@
       "codepoint": 58759,
       "fontFamily": "Healthicons",
       "identifier": "homeQuarantineOutline"
+    },
+    "home-quarantine-outline-24px": {
+      "codepoint": 60689,
+      "fontFamily": "Healthicons",
+      "identifier": "homeQuarantineOutline24px"
     },
     "home-quarantine2x-outline": {
       "codepoint": 58760,
@@ -8401,6 +8651,11 @@
       "fontFamily": "Healthicons",
       "identifier": "lifeScience"
     },
+    "life-science-24px": {
+      "codepoint": 60690,
+      "fontFamily": "Healthicons",
+      "identifier": "lifeScience24px"
+    },
     "life-science-outline": {
       "codepoint": 59019,
       "fontFamily": "Healthicons",
@@ -9316,6 +9571,11 @@
       "fontFamily": "Healthicons",
       "identifier": "medicines"
     },
+    "medicines-24px": {
+      "codepoint": 60691,
+      "fontFamily": "Healthicons",
+      "identifier": "medicines24px"
+    },
     "medicines-negative": {
       "codepoint": 59202,
       "fontFamily": "Healthicons",
@@ -9976,6 +10236,16 @@
       "fontFamily": "Healthicons",
       "identifier": "network4gNegative"
     },
+    "network-4g-outline": {
+      "codepoint": 60692,
+      "fontFamily": "Healthicons",
+      "identifier": "network4gOutline"
+    },
+    "network-4g2x-outline": {
+      "codepoint": 60693,
+      "fontFamily": "Healthicons",
+      "identifier": "network4g2xOutline"
+    },
     "network-5g": {
       "codepoint": 59334,
       "fontFamily": "Healthicons",
@@ -10631,6 +10901,36 @@
       "fontFamily": "Healthicons",
       "identifier": "outbreak2xOutline"
     },
+    "outpatient": {
+      "codepoint": 60694,
+      "fontFamily": "Healthicons",
+      "identifier": "outpatient"
+    },
+    "outpatient-department": {
+      "codepoint": 60695,
+      "fontFamily": "Healthicons",
+      "identifier": "outpatientDepartment"
+    },
+    "outpatient-department-negative": {
+      "codepoint": 60696,
+      "fontFamily": "Healthicons",
+      "identifier": "outpatientDepartmentNegative"
+    },
+    "outpatient-department-outline": {
+      "codepoint": 60697,
+      "fontFamily": "Healthicons",
+      "identifier": "outpatientDepartmentOutline"
+    },
+    "outpatient-department2x-outline": {
+      "codepoint": 60698,
+      "fontFamily": "Healthicons",
+      "identifier": "outpatientDepartment2xOutline"
+    },
+    "outpatient-negative": {
+      "codepoint": 60699,
+      "fontFamily": "Healthicons",
+      "identifier": "outpatientNegative"
+    },
     "outpatient-outline": {
       "codepoint": 59465,
       "fontFamily": "Healthicons",
@@ -11185,6 +11485,11 @@
       "codepoint": 59575,
       "fontFamily": "Healthicons",
       "identifier": "phone2xOutline"
+    },
+    "physical-therapy": {
+      "codepoint": 60700,
+      "fontFamily": "Healthicons",
+      "identifier": "physicalTherapy"
     },
     "physical-therapy-negative": {
       "codepoint": 59576,
@@ -11821,6 +12126,11 @@
       "fontFamily": "Healthicons",
       "identifier": "pregnant0812w"
     },
+    "pregnant-0812w-negative": {
+      "codepoint": 60701,
+      "fontFamily": "Healthicons",
+      "identifier": "pregnant0812wNegative"
+    },
     "pregnant-0812w-outline": {
       "codepoint": 59703,
       "fontFamily": "Healthicons",
@@ -11835,6 +12145,11 @@
       "codepoint": 59705,
       "fontFamily": "Healthicons",
       "identifier": "pregnant2426w"
+    },
+    "pregnant-2426w-negative": {
+      "codepoint": 60702,
+      "fontFamily": "Healthicons",
+      "identifier": "pregnant2426wNegative"
     },
     "pregnant-2426w-outline": {
       "codepoint": 59706,
@@ -11875,6 +12190,11 @@
       "codepoint": 59713,
       "fontFamily": "Healthicons",
       "identifier": "pregnant3638w"
+    },
+    "pregnant-3638w-negative": {
+      "codepoint": 60703,
+      "fontFamily": "Healthicons",
+      "identifier": "pregnant3638wNegative"
     },
     "pregnant-3638w-outline": {
       "codepoint": 59714,
@@ -11995,6 +12315,11 @@
       "codepoint": 59737,
       "fontFamily": "Healthicons",
       "identifier": "prostateOutline"
+    },
+    "prostate-outline-24px": {
+      "codepoint": 60704,
+      "fontFamily": "Healthicons",
+      "identifier": "prostateOutline24px"
     },
     "provider-fst": {
       "codepoint": 59738,
@@ -12801,6 +13126,16 @@
       "fontFamily": "Healthicons",
       "identifier": "regularPatient2xOutline"
     },
+    "resilient-and-migration-sensitive-health-system": {
+      "codepoint": 60705,
+      "fontFamily": "Healthicons",
+      "identifier": "resilientAndMigrationSensitiveHealthSystem"
+    },
+    "resilient-and-migration-sensitive-health-system-24px": {
+      "codepoint": 60706,
+      "fontFamily": "Healthicons",
+      "identifier": "resilientAndMigrationSensitiveHealthSystem24px"
+    },
     "resilient-and-migration-sensitive-health-system-outline": {
       "codepoint": 59899,
       "fontFamily": "Healthicons",
@@ -12976,6 +13311,11 @@
       "fontFamily": "Healthicons",
       "identifier": "runningNegative"
     },
+    "running-outline": {
+      "codepoint": 60707,
+      "fontFamily": "Healthicons",
+      "identifier": "runningOutline"
+    },
     "running-outline-24px": {
       "codepoint": 59934,
       "fontFamily": "Healthicons",
@@ -13030,6 +13370,11 @@
       "codepoint": 59944,
       "fontFamily": "Healthicons",
       "identifier": "runningWater2xOutline"
+    },
+    "running2x-outline": {
+      "codepoint": 60708,
+      "fontFamily": "Healthicons",
+      "identifier": "running2xOutline"
     },
     "rupee": {
       "codepoint": 59945,
@@ -16221,6 +16566,26 @@
       "fontFamily": "Healthicons",
       "identifier": "weight2xOutline"
     },
+    "weights": {
+      "codepoint": 60709,
+      "fontFamily": "Healthicons",
+      "identifier": "weights"
+    },
+    "weights-negative": {
+      "codepoint": 60710,
+      "fontFamily": "Healthicons",
+      "identifier": "weightsNegative"
+    },
+    "weights-outline": {
+      "codepoint": 60711,
+      "fontFamily": "Healthicons",
+      "identifier": "weightsOutline"
+    },
+    "weights2x-outline": {
+      "codepoint": 60712,
+      "fontFamily": "Healthicons",
+      "identifier": "weights2xOutline"
+    },
     "wheelchair": {
       "codepoint": 60583,
       "fontFamily": "Healthicons",
@@ -16266,10 +16631,20 @@
       "fontFamily": "Healthicons",
       "identifier": "wheelchairNegative"
     },
+    "wheelchair-outline": {
+      "codepoint": 60713,
+      "fontFamily": "Healthicons",
+      "identifier": "wheelchairOutline"
+    },
     "wheelchair-outline-24px": {
       "codepoint": 60592,
       "fontFamily": "Healthicons",
       "identifier": "wheelchairOutline24px"
+    },
+    "wheelchair2x-outline": {
+      "codepoint": 60714,
+      "fontFamily": "Healthicons",
+      "identifier": "wheelchair2xOutline"
     },
     "wold-care": {
       "codepoint": 60593,
@@ -16295,6 +16670,11 @@
       "codepoint": 60597,
       "fontFamily": "Healthicons",
       "identifier": "woman24px"
+    },
+    "woman-negative": {
+      "codepoint": 60715,
+      "fontFamily": "Healthicons",
+      "identifier": "womanNegative"
     },
     "woman-outline": {
       "codepoint": 60598,
@@ -16390,6 +16770,11 @@
       "codepoint": 60616,
       "fontFamily": "Healthicons",
       "identifier": "xray24px"
+    },
+    "xray-negative": {
+      "codepoint": 60716,
+      "fontFamily": "Healthicons",
+      "identifier": "xrayNegative"
     },
     "xray-outline": {
       "codepoint": 60617,

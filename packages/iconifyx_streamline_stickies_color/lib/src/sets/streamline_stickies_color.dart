@@ -9,16 +9,30 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Streamline
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 97
+/// Icons: 165
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
 class StreamlineStickiesColorIcons {
   const StreamlineStickiesColorIcons._();
 
+  /// `3d`
+  static const IconifyIconData n3d = IconifyIconData(IconData(
+    0xe061,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `3d-duo`
   static const IconifyIconData n3dDuo = IconifyIconData(IconData(
     0xe000,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `add-device-duo`
+  static const IconifyIconData addDeviceDuo = IconifyIconData(IconData(
+    0xe062,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -30,9 +44,23 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `android-setting`
+  static const IconifyIconData androidSetting = IconifyIconData(IconData(
+    0xe063,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `android-setting-duo`
   static const IconifyIconData androidSettingDuo = IconifyIconData(IconData(
     0xe002,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `app-window`
+  static const IconifyIconData appWindow = IconifyIconData(IconData(
+    0xe064,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -44,9 +72,23 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `astrology-study`
+  static const IconifyIconData astrologyStudy = IconifyIconData(IconData(
+    0xe065,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `astrology-study-duo`
   static const IconifyIconData astrologyStudyDuo = IconifyIconData(IconData(
     0xe004,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `baby-cart-quality`
+  static const IconifyIconData babyCartQuality = IconifyIconData(IconData(
+    0xe066,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -72,9 +114,37 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `balloon-tour`
+  static const IconifyIconData balloonTour = IconifyIconData(IconData(
+    0xe067,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `balloon-tour-duo`
   static const IconifyIconData balloonTourDuo = IconifyIconData(IconData(
     0xe008,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `bigben`
+  static const IconifyIconData bigben = IconifyIconData(IconData(
+    0xe068,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `bigben-duo`
+  static const IconifyIconData bigbenDuo = IconifyIconData(IconData(
+    0xe069,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `bluetooth`
+  static const IconifyIconData bluetooth = IconifyIconData(IconData(
+    0xe06a,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -86,6 +156,13 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `boarding-pass`
+  static const IconifyIconData boardingPass = IconifyIconData(IconData(
+    0xe06b,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `boarding-pass-duo`
   static const IconifyIconData boardingPassDuo = IconifyIconData(IconData(
     0xe00a,
@@ -93,9 +170,23 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `book-library`
+  static const IconifyIconData bookLibrary = IconifyIconData(IconData(
+    0xe06c,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `book-library-duo`
   static const IconifyIconData bookLibraryDuo = IconifyIconData(IconData(
     0xe00b,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `bug`
+  static const IconifyIconData bug = IconifyIconData(IconData(
+    0xe06d,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -114,9 +205,23 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `cancel-2`
+  static const IconifyIconData cancel2 = IconifyIconData(IconData(
+    0xe06e,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `cancel-2-duo`
   static const IconifyIconData cancel2Duo = IconifyIconData(IconData(
     0xe00e,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `candy-cane`
+  static const IconifyIconData candyCane = IconifyIconData(IconData(
+    0xe06f,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -128,9 +233,23 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `checking-order`
+  static const IconifyIconData checkingOrder = IconifyIconData(IconData(
+    0xe070,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `checking-order-duo`
   static const IconifyIconData checkingOrderDuo = IconifyIconData(IconData(
     0xe010,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `cloud-data-transfer`
+  static const IconifyIconData cloudDataTransfer = IconifyIconData(IconData(
+    0xe071,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -149,9 +268,23 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `compass-1`
+  static const IconifyIconData compass1 = IconifyIconData(IconData(
+    0xe072,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `compass-1-duo`
   static const IconifyIconData compass1Duo = IconifyIconData(IconData(
     0xe013,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `construction-area`
+  static const IconifyIconData constructionArea = IconifyIconData(IconData(
+    0xe073,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -163,6 +296,13 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `control`
+  static const IconifyIconData control = IconifyIconData(IconData(
+    0xe074,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `control-duo`
   static const IconifyIconData controlDuo = IconifyIconData(IconData(
     0xe015,
@@ -170,9 +310,23 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `cursor`
+  static const IconifyIconData cursor = IconifyIconData(IconData(
+    0xe075,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `cursor-duo`
   static const IconifyIconData cursorDuo = IconifyIconData(IconData(
     0xe016,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `dangerous-chemical-lab`
+  static const IconifyIconData dangerousChemicalLab = IconifyIconData(IconData(
+    0xe076,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -191,9 +345,23 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `drawer-inbox`
+  static const IconifyIconData drawerInbox = IconifyIconData(IconData(
+    0xe077,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `drawer-inbox-duo`
   static const IconifyIconData drawerInboxDuo = IconifyIconData(IconData(
     0xe019,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `drone`
+  static const IconifyIconData drone = IconifyIconData(IconData(
+    0xe078,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -212,6 +380,13 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `easter-egg`
+  static const IconifyIconData easterEgg = IconifyIconData(IconData(
+    0xe079,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `easter-egg-duo`
   static const IconifyIconData easterEggDuo = IconifyIconData(IconData(
     0xe01c,
@@ -226,9 +401,23 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `eiffel-tower`
+  static const IconifyIconData eiffelTower = IconifyIconData(IconData(
+    0xe07a,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `eiffel-tower-duo`
   static const IconifyIconData eiffelTowerDuo = IconifyIconData(IconData(
     0xe01e,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `elevator-lift`
+  static const IconifyIconData elevatorLift = IconifyIconData(IconData(
+    0xe07b,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -240,9 +429,23 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `face-id-1`
+  static const IconifyIconData faceId1 = IconifyIconData(IconData(
+    0xe07c,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `face-id-1-duo`
   static const IconifyIconData faceId1Duo = IconifyIconData(IconData(
     0xe020,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `filming-movie`
+  static const IconifyIconData filmingMovie = IconifyIconData(IconData(
+    0xe07d,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -261,9 +464,23 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `gift-reciept`
+  static const IconifyIconData giftReciept = IconifyIconData(IconData(
+    0xe07e,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `gift-reciept-duo`
   static const IconifyIconData giftRecieptDuo = IconifyIconData(IconData(
     0xe023,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `globe-1`
+  static const IconifyIconData globe1 = IconifyIconData(IconData(
+    0xe07f,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -275,9 +492,23 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `graph-bar`
+  static const IconifyIconData graphBar = IconifyIconData(IconData(
+    0xe080,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `graph-bar-duo`
   static const IconifyIconData graphBarDuo = IconifyIconData(IconData(
     0xe025,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `graph-pie`
+  static const IconifyIconData graphPie = IconifyIconData(IconData(
+    0xe081,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -296,6 +527,13 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `help`
+  static const IconifyIconData help = IconifyIconData(IconData(
+    0xe082,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `help-duo`
   static const IconifyIconData helpDuo = IconifyIconData(IconData(
     0xe028,
@@ -306,6 +544,13 @@ class StreamlineStickiesColorIcons {
   /// `information-toilet-location-duo`
   static const IconifyIconData informationToiletLocationDuo = IconifyIconData(IconData(
     0xe029,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `instruments-piano`
+  static const IconifyIconData instrumentsPiano = IconifyIconData(IconData(
+    0xe083,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -331,9 +576,23 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `lab-tools`
+  static const IconifyIconData labTools = IconifyIconData(IconData(
+    0xe084,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `lab-tools-duo`
   static const IconifyIconData labToolsDuo = IconifyIconData(IconData(
     0xe02d,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `labtop`
+  static const IconifyIconData labtop = IconifyIconData(IconData(
+    0xe085,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -345,9 +604,23 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `library-research`
+  static const IconifyIconData libraryResearch = IconifyIconData(IconData(
+    0xe086,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `library-research-duo`
   static const IconifyIconData libraryResearchDuo = IconifyIconData(IconData(
     0xe02f,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `love`
+  static const IconifyIconData love = IconifyIconData(IconData(
+    0xe087,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -366,9 +639,23 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `mailbox-2`
+  static const IconifyIconData mailbox2 = IconifyIconData(IconData(
+    0xe088,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `mailbox-2-duo`
   static const IconifyIconData mailbox2Duo = IconifyIconData(IconData(
     0xe032,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `medal`
+  static const IconifyIconData medal = IconifyIconData(IconData(
+    0xe089,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -380,9 +667,23 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `mobile-phone`
+  static const IconifyIconData mobilePhone = IconifyIconData(IconData(
+    0xe08a,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `mobile-phone-duo`
   static const IconifyIconData mobilePhoneDuo = IconifyIconData(IconData(
     0xe034,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `money-briefcase`
+  static const IconifyIconData moneyBriefcase = IconifyIconData(IconData(
+    0xe08b,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -401,6 +702,13 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `muslim`
+  static const IconifyIconData muslim = IconifyIconData(IconData(
+    0xe08c,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `muslim-duo`
   static const IconifyIconData muslimDuo = IconifyIconData(IconData(
     0xe037,
@@ -415,6 +723,13 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `on-off-1`
+  static const IconifyIconData onOff1 = IconifyIconData(IconData(
+    0xe08d,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `on-off-1-duo`
   static const IconifyIconData onOff1Duo = IconifyIconData(IconData(
     0xe039,
@@ -425,6 +740,13 @@ class StreamlineStickiesColorIcons {
   /// `online-information-duo`
   static const IconifyIconData onlineInformationDuo = IconifyIconData(IconData(
     0xe03a,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `passport`
+  static const IconifyIconData passport = IconifyIconData(IconData(
+    0xe08e,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -450,9 +772,23 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `picture`
+  static const IconifyIconData picture = IconifyIconData(IconData(
+    0xe08f,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `picture-duo`
   static const IconifyIconData pictureDuo = IconifyIconData(IconData(
     0xe03e,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `pile-of-money`
+  static const IconifyIconData pileOfMoney = IconifyIconData(IconData(
+    0xe090,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -471,9 +807,23 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `product-cloth`
+  static const IconifyIconData productCloth = IconifyIconData(IconData(
+    0xe091,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `product-cloth-duo`
   static const IconifyIconData productClothDuo = IconifyIconData(IconData(
     0xe041,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `programming`
+  static const IconifyIconData programming = IconifyIconData(IconData(
+    0xe092,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -499,9 +849,23 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `recycle`
+  static const IconifyIconData recycle = IconifyIconData(IconData(
+    0xe093,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `recycle-duo`
   static const IconifyIconData recycleDuo = IconifyIconData(IconData(
     0xe045,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `refund-product-reciept`
+  static const IconifyIconData refundProductReciept = IconifyIconData(IconData(
+    0xe094,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -527,9 +891,23 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `sad-song`
+  static const IconifyIconData sadSong = IconifyIconData(IconData(
+    0xe095,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `sad-song-duo`
   static const IconifyIconData sadSongDuo = IconifyIconData(IconData(
     0xe049,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `safety`
+  static const IconifyIconData safety = IconifyIconData(IconData(
+    0xe096,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -541,6 +919,13 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `school`
+  static const IconifyIconData school = IconifyIconData(IconData(
+    0xe097,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `school-duo`
   static const IconifyIconData schoolDuo = IconifyIconData(IconData(
     0xe04b,
@@ -548,9 +933,23 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `science-lab`
+  static const IconifyIconData scienceLab = IconifyIconData(IconData(
+    0xe098,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `science-lab-duo`
   static const IconifyIconData scienceLabDuo = IconifyIconData(IconData(
     0xe04c,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `search`
+  static const IconifyIconData search = IconifyIconData(IconData(
+    0xe099,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -576,9 +975,23 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `shop-store`
+  static const IconifyIconData shopStore = IconifyIconData(IconData(
+    0xe09a,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `shop-store-duo`
   static const IconifyIconData shopStoreDuo = IconifyIconData(IconData(
     0xe050,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `slate`
+  static const IconifyIconData slate = IconifyIconData(IconData(
+    0xe09b,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -590,9 +1003,23 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `smart-tv`
+  static const IconifyIconData smartTv = IconifyIconData(IconData(
+    0xe09c,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `smart-tv-duo`
   static const IconifyIconData smartTvDuo = IconifyIconData(IconData(
     0xe052,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `snowman`
+  static const IconifyIconData snowman = IconifyIconData(IconData(
+    0xe09d,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -639,9 +1066,23 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `telescope`
+  static const IconifyIconData telescope = IconifyIconData(IconData(
+    0xe09e,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `telescope-duo`
   static const IconifyIconData telescopeDuo = IconifyIconData(IconData(
     0xe059,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `time`
+  static const IconifyIconData time = IconifyIconData(IconData(
+    0xe09f,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -653,9 +1094,37 @@ class StreamlineStickiesColorIcons {
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
 
+  /// `validation-1`
+  static const IconifyIconData validation1 = IconifyIconData(IconData(
+    0xe0a0,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `validation-1-duo`
+  static const IconifyIconData validation1Duo = IconifyIconData(IconData(
+    0xe0a1,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `view-mail`
+  static const IconifyIconData viewMail = IconifyIconData(IconData(
+    0xe0a2,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
   /// `view-mail-duo`
   static const IconifyIconData viewMailDuo = IconifyIconData(IconData(
     0xe05b,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `vr-goggle`
+  static const IconifyIconData vrGoggle = IconifyIconData(IconData(
+    0xe0a3,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));
@@ -684,6 +1153,13 @@ class StreamlineStickiesColorIcons {
   /// `world-nature-duo`
   static const IconifyIconData worldNatureDuo = IconifyIconData(IconData(
     0xe05f,
+    fontFamily: 'StreamlineStickiesColor',
+    fontPackage: 'iconifyx_streamline_stickies_color',
+  ));
+
+  /// `wrench`
+  static const IconifyIconData wrench = IconifyIconData(IconData(
+    0xe0a4,
     fontFamily: 'StreamlineStickiesColor',
     fontPackage: 'iconifyx_streamline_stickies_color',
   ));

@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Streamline
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 141
+/// Icons: 142
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -138,6 +138,13 @@ class CovidIcons {
   /// `covid19-virus-patient-2`
   static const IconifyIconData covid19VirusPatient2 = IconifyIconData(IconData(
     0xe011,
+    fontFamily: 'Covid',
+    fontPackage: 'iconifyx_covid',
+  ));
+
+  /// `covid19-virus-reinfected`
+  static const IconifyIconData covid19VirusReinfected = IconifyIconData(IconData(
+    0xe08d,
     fontFamily: 'Covid',
     fontPackage: 'iconifyx_covid',
   ));

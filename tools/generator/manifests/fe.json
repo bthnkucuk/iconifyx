@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/feathericon/feathericon/blob/master/LICENSE"
     },
-    "total": 254
+    "total": 255
   },
   "fonts": [
     {
       "family": "Fe",
-      "nextCodepoint": 57598,
-      "iconCount": 254
+      "nextCodepoint": 57599,
+      "iconCount": 255
     }
   ],
   "icons": {
@@ -825,6 +825,11 @@
       "codepoint": 57503,
       "fontFamily": "Fe",
       "identifier": "noticeOn"
+    },
+    "notice-push": {
+      "codepoint": 57598,
+      "fontFamily": "Fe",
+      "identifier": "noticePush"
     },
     "octpus": {
       "codepoint": 57504,

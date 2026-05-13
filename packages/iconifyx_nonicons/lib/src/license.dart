@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/yamatsum/nonicons/blob/master/LICENSE',
-  iconCount: 66,
+  iconCount: 69,
 );

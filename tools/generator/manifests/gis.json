@@ -16,13 +16,13 @@
       "spdx": "CC-BY-4.0",
       "url": "https://github.com/Viglino/font-gis/blob/main/LICENSE-CC-BY.md"
     },
-    "total": 353
+    "total": 367
   },
   "fonts": [
     {
       "family": "Gis",
-      "nextCodepoint": 57697,
-      "iconCount": 353
+      "nextCodepoint": 57711,
+      "iconCount": 367
     }
   ],
   "icons": {
@@ -215,6 +215,11 @@
       "codepoint": 57381,
       "fontFamily": "Gis",
       "identifier": "difference"
+    },
+    "dilatation": {
+      "codepoint": 57697,
+      "fontFamily": "Gis",
+      "identifier": "dilatation"
     },
     "direct": {
       "codepoint": 57382,
@@ -451,6 +456,11 @@
       "fontFamily": "Gis",
       "identifier": "folderGlobeO"
     },
+    "folder-map": {
+      "codepoint": 57698,
+      "fontFamily": "Gis",
+      "identifier": "folderMap"
+    },
     "folder-maps": {
       "codepoint": 57429,
       "fontFamily": "Gis",
@@ -525,6 +535,11 @@
       "codepoint": 57443,
       "fontFamily": "Gis",
       "identifier": "globeOptions"
+    },
+    "globe-poi": {
+      "codepoint": 57699,
+      "fontFamily": "Gis",
+      "identifier": "globePoi"
     },
     "globe-share": {
       "codepoint": 57444,
@@ -606,6 +621,11 @@
       "fontFamily": "Gis",
       "identifier": "home"
     },
+    "hydro-map": {
+      "codepoint": 57700,
+      "fontFamily": "Gis",
+      "identifier": "hydroMap"
+    },
     "i3s-file": {
       "codepoint": 57460,
       "fontFamily": "Gis",
@@ -666,10 +686,20 @@
       "fontFamily": "Gis",
       "identifier": "layerAltAddO"
     },
+    "layer-alt-edit": {
+      "codepoint": 57701,
+      "fontFamily": "Gis",
+      "identifier": "layerAltEdit"
+    },
     "layer-alt-o": {
       "codepoint": 57472,
       "fontFamily": "Gis",
       "identifier": "layerAltO"
+    },
+    "layer-alt-poi": {
+      "codepoint": 57702,
+      "fontFamily": "Gis",
+      "identifier": "layerAltPoi"
     },
     "layer-alt-rm-o": {
       "codepoint": 57473,
@@ -781,6 +811,11 @@
       "fontFamily": "Gis",
       "identifier": "layersO"
     },
+    "layers-poi": {
+      "codepoint": 57703,
+      "fontFamily": "Gis",
+      "identifier": "layersPoi"
+    },
     "location": {
       "codepoint": 57495,
       "fontFamily": "Gis",
@@ -820,6 +855,11 @@
       "codepoint": 57502,
       "fontFamily": "Gis",
       "identifier": "locationPoiO"
+    },
+    "magnify-map": {
+      "codepoint": 57704,
+      "fontFamily": "Gis",
+      "identifier": "magnifyMap"
     },
     "map": {
       "codepoint": 57503,
@@ -1076,6 +1116,11 @@
       "fontFamily": "Gis",
       "identifier": "pedestrian"
     },
+    "phone-map": {
+      "codepoint": 57705,
+      "fontFamily": "Gis",
+      "identifier": "phoneMap"
+    },
     "phone-route": {
       "codepoint": 57554,
       "fontFamily": "Gis",
@@ -1231,6 +1276,11 @@
       "fontFamily": "Gis",
       "identifier": "polygonO"
     },
+    "polygon-o-dash": {
+      "codepoint": 57706,
+      "fontFamily": "Gis",
+      "identifier": "polygonODash"
+    },
     "polygon-pt": {
       "codepoint": 57585,
       "fontFamily": "Gis",
@@ -1360,6 +1410,21 @@
       "codepoint": 57610,
       "fontFamily": "Gis",
       "identifier": "rotate"
+    },
+    "route": {
+      "codepoint": 57707,
+      "fontFamily": "Gis",
+      "identifier": "route"
+    },
+    "route-end": {
+      "codepoint": 57708,
+      "fontFamily": "Gis",
+      "identifier": "routeEnd"
+    },
+    "route-start": {
+      "codepoint": 57709,
+      "fontFamily": "Gis",
+      "identifier": "routeStart"
     },
     "satellite": {
       "codepoint": 57611,
@@ -1615,6 +1680,11 @@
       "codepoint": 57661,
       "fontFamily": "Gis",
       "identifier": "swipeMapH"
+    },
+    "swipe-map-v": {
+      "codepoint": 57710,
+      "fontFamily": "Gis",
+      "identifier": "swipeMapV"
     },
     "sym-difference": {
       "codepoint": 57662,

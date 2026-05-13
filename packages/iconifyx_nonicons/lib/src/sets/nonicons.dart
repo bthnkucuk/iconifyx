@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: yamatsum
 /// License: MIT — https://github.com/yamatsum/nonicons/blob/master/LICENSE
-/// Icons: 66
+/// Icons: 69
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -117,6 +117,13 @@ class NoniconsIcons {
   /// `error-16`
   static const IconifyIconData error16 = IconifyIconData(IconData(
     0xe00e,
+    fontFamily: 'Nonicons',
+    fontPackage: 'iconifyx_nonicons',
+  ));
+
+  /// `eslint-16`
+  static const IconifyIconData eslint16 = IconifyIconData(IconData(
+    0xe042,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
@@ -359,6 +366,13 @@ class NoniconsIcons {
     fontPackage: 'iconifyx_nonicons',
   ));
 
+  /// `terraform-16`
+  static const IconifyIconData terraform16 = IconifyIconData(IconData(
+    0xe043,
+    fontFamily: 'Nonicons',
+    fontPackage: 'iconifyx_nonicons',
+  ));
+
   /// `tmux-16`
   static const IconifyIconData tmux16 = IconifyIconData(IconData(
     0xe031,
@@ -453,6 +467,13 @@ class NoniconsIcons {
   /// `vim-visual-mode-16`
   static const IconifyIconData vimVisualMode16 = IconifyIconData(IconData(
     0xe03e,
+    fontFamily: 'Nonicons',
+    fontPackage: 'iconifyx_nonicons',
+  ));
+
+  /// `vscode-16`
+  static const IconifyIconData vscode16 = IconifyIconData(IconData(
+    0xe044,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));

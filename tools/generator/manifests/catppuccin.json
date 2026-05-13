@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/catppuccin/vscode-icons/blob/main/LICENSE"
     },
-    "total": 283
+    "total": 660
   },
   "fonts": [
     {
       "family": "Catppuccin",
-      "nextCodepoint": 57627,
-      "iconCount": 283
+      "nextCodepoint": 58004,
+      "iconCount": 660
     }
   ],
   "icons": {
@@ -35,6 +35,16 @@
       "codepoint": 57345,
       "fontFamily": "Catppuccin",
       "identifier": "adobeAe"
+    },
+    "adobe-ai": {
+      "codepoint": 57627,
+      "fontFamily": "Catppuccin",
+      "identifier": "adobeAi"
+    },
+    "adobe-id": {
+      "codepoint": 57628,
+      "fontFamily": "Catppuccin",
+      "identifier": "adobeId"
     },
     "adobe-ps": {
       "codepoint": 57346,
@@ -56,6 +66,21 @@
       "fontFamily": "Catppuccin",
       "identifier": "alex"
     },
+    "amber": {
+      "codepoint": 57629,
+      "fontFamily": "Catppuccin",
+      "identifier": "amber"
+    },
+    "android": {
+      "codepoint": 57630,
+      "fontFamily": "Catppuccin",
+      "identifier": "android"
+    },
+    "angular": {
+      "codepoint": 57631,
+      "fontFamily": "Catppuccin",
+      "identifier": "angular"
+    },
     "angular-component": {
       "codepoint": 57350,
       "fontFamily": "Catppuccin",
@@ -66,6 +91,11 @@
       "fontFamily": "Catppuccin",
       "identifier": "angularDirective"
     },
+    "angular-guard": {
+      "codepoint": 57632,
+      "fontFamily": "Catppuccin",
+      "identifier": "angularGuard"
+    },
     "angular-pipe": {
       "codepoint": 57352,
       "fontFamily": "Catppuccin",
@@ -75,6 +105,21 @@
       "codepoint": 57353,
       "fontFamily": "Catppuccin",
       "identifier": "angularService"
+    },
+    "ansible-lint": {
+      "codepoint": 57633,
+      "fontFamily": "Catppuccin",
+      "identifier": "ansibleLint"
+    },
+    "antlr": {
+      "codepoint": 57634,
+      "fontFamily": "Catppuccin",
+      "identifier": "antlr"
+    },
+    "apache": {
+      "codepoint": 57635,
+      "fontFamily": "Catppuccin",
+      "identifier": "apache"
     },
     "api-blueprint": {
       "codepoint": 57354,
@@ -91,6 +136,16 @@
       "fontFamily": "Catppuccin",
       "identifier": "apple"
     },
+    "arduino": {
+      "codepoint": 57636,
+      "fontFamily": "Catppuccin",
+      "identifier": "arduino"
+    },
+    "asciidoc": {
+      "codepoint": 57637,
+      "fontFamily": "Catppuccin",
+      "identifier": "asciidoc"
+    },
     "assembly": {
       "codepoint": 57357,
       "fontFamily": "Catppuccin",
@@ -100,6 +155,16 @@
       "codepoint": 57358,
       "fontFamily": "Catppuccin",
       "identifier": "astro"
+    },
+    "astro-config": {
+      "codepoint": 57638,
+      "fontFamily": "Catppuccin",
+      "identifier": "astroConfig"
+    },
+    "audio": {
+      "codepoint": 57639,
+      "fontFamily": "Catppuccin",
+      "identifier": "audio"
     },
     "autohotkey": {
       "codepoint": 57359,
@@ -116,10 +181,25 @@
       "fontFamily": "Catppuccin",
       "identifier": "babel"
     },
+    "bash": {
+      "codepoint": 57640,
+      "fontFamily": "Catppuccin",
+      "identifier": "bash"
+    },
     "batch": {
       "codepoint": 57362,
       "fontFamily": "Catppuccin",
       "identifier": "batch"
+    },
+    "bazel": {
+      "codepoint": 57641,
+      "fontFamily": "Catppuccin",
+      "identifier": "bazel"
+    },
+    "benchmark": {
+      "codepoint": 57642,
+      "fontFamily": "Catppuccin",
+      "identifier": "benchmark"
     },
     "bicep": {
       "codepoint": 57363,
@@ -141,15 +221,35 @@
       "fontFamily": "Catppuccin",
       "identifier": "bitbucket"
     },
+    "blink": {
+      "codepoint": 57643,
+      "fontFamily": "Catppuccin",
+      "identifier": "blink"
+    },
     "blitz": {
       "codepoint": 57367,
       "fontFamily": "Catppuccin",
       "identifier": "blitz"
     },
+    "bower": {
+      "codepoint": 57644,
+      "fontFamily": "Catppuccin",
+      "identifier": "bower"
+    },
     "browserslist": {
       "codepoint": 57368,
       "fontFamily": "Catppuccin",
       "identifier": "browserslist"
+    },
+    "bun": {
+      "codepoint": 57645,
+      "fontFamily": "Catppuccin",
+      "identifier": "bun"
+    },
+    "bun-lock": {
+      "codepoint": 57646,
+      "fontFamily": "Catppuccin",
+      "identifier": "bunLock"
     },
     "c": {
       "codepoint": 57369,
@@ -161,6 +261,36 @@
       "fontFamily": "Catppuccin",
       "identifier": "cHeader"
     },
+    "cabal": {
+      "codepoint": 57647,
+      "fontFamily": "Catppuccin",
+      "identifier": "cabal"
+    },
+    "caddy": {
+      "codepoint": 57648,
+      "fontFamily": "Catppuccin",
+      "identifier": "caddy"
+    },
+    "capacitor": {
+      "codepoint": 57649,
+      "fontFamily": "Catppuccin",
+      "identifier": "capacitor"
+    },
+    "cargo": {
+      "codepoint": 57650,
+      "fontFamily": "Catppuccin",
+      "identifier": "cargo"
+    },
+    "cargo-lock": {
+      "codepoint": 57651,
+      "fontFamily": "Catppuccin",
+      "identifier": "cargoLock"
+    },
+    "certificate": {
+      "codepoint": 57652,
+      "fontFamily": "Catppuccin",
+      "identifier": "certificate"
+    },
     "changelog": {
       "codepoint": 57371,
       "fontFamily": "Catppuccin",
@@ -170,6 +300,16 @@
       "codepoint": 57372,
       "fontFamily": "Catppuccin",
       "identifier": "circleCi"
+    },
+    "clojure": {
+      "codepoint": 57653,
+      "fontFamily": "Catppuccin",
+      "identifier": "clojure"
+    },
+    "cmake": {
+      "codepoint": 57654,
+      "fontFamily": "Catppuccin",
+      "identifier": "cmake"
     },
     "cobol": {
       "codepoint": 57373,
@@ -185,6 +325,31 @@
       "codepoint": 57375,
       "fontFamily": "Catppuccin",
       "identifier": "codeOfConduct"
+    },
+    "codeowners": {
+      "codepoint": 57655,
+      "fontFamily": "Catppuccin",
+      "identifier": "codeowners"
+    },
+    "coffeescript": {
+      "codepoint": 57656,
+      "fontFamily": "Catppuccin",
+      "identifier": "coffeescript"
+    },
+    "commitlint": {
+      "codepoint": 57657,
+      "fontFamily": "Catppuccin",
+      "identifier": "commitlint"
+    },
+    "config": {
+      "codepoint": 57658,
+      "fontFamily": "Catppuccin",
+      "identifier": "config"
+    },
+    "contributing": {
+      "codepoint": 57659,
+      "fontFamily": "Catppuccin",
+      "identifier": "contributing"
     },
     "cpp": {
       "codepoint": 57376,
@@ -206,15 +371,40 @@
       "fontFamily": "Catppuccin",
       "identifier": "csharp"
     },
+    "cspell": {
+      "codepoint": 57660,
+      "fontFamily": "Catppuccin",
+      "identifier": "cspell"
+    },
     "css": {
       "codepoint": 57380,
       "fontFamily": "Catppuccin",
       "identifier": "css"
     },
+    "css-map": {
+      "codepoint": 57661,
+      "fontFamily": "Catppuccin",
+      "identifier": "cssMap"
+    },
     "css3": {
       "codepoint": 57381,
       "fontFamily": "Catppuccin",
       "identifier": "css3"
+    },
+    "csv": {
+      "codepoint": 57662,
+      "fontFamily": "Catppuccin",
+      "identifier": "csv"
+    },
+    "cucumber": {
+      "codepoint": 57663,
+      "fontFamily": "Catppuccin",
+      "identifier": "cucumber"
+    },
+    "cuda": {
+      "codepoint": 57664,
+      "fontFamily": "Catppuccin",
+      "identifier": "cuda"
     },
     "cue": {
       "codepoint": 57382,
@@ -226,6 +416,36 @@
       "fontFamily": "Catppuccin",
       "identifier": "cursor"
     },
+    "cursor-ignore": {
+      "codepoint": 57665,
+      "fontFamily": "Catppuccin",
+      "identifier": "cursorIgnore"
+    },
+    "cypress": {
+      "codepoint": 57666,
+      "fontFamily": "Catppuccin",
+      "identifier": "cypress"
+    },
+    "d": {
+      "codepoint": 57667,
+      "fontFamily": "Catppuccin",
+      "identifier": "d"
+    },
+    "darklua": {
+      "codepoint": 57668,
+      "fontFamily": "Catppuccin",
+      "identifier": "darklua"
+    },
+    "dart": {
+      "codepoint": 57669,
+      "fontFamily": "Catppuccin",
+      "identifier": "dart"
+    },
+    "dart-generated": {
+      "codepoint": 57670,
+      "fontFamily": "Catppuccin",
+      "identifier": "dartGenerated"
+    },
     "database": {
       "codepoint": 57384,
       "fontFamily": "Catppuccin",
@@ -236,15 +456,35 @@
       "fontFamily": "Catppuccin",
       "identifier": "deno"
     },
+    "deno-lock": {
+      "codepoint": 57671,
+      "fontFamily": "Catppuccin",
+      "identifier": "denoLock"
+    },
     "dependabot": {
       "codepoint": 57386,
       "fontFamily": "Catppuccin",
       "identifier": "dependabot"
     },
+    "devcontainer": {
+      "codepoint": 57672,
+      "fontFamily": "Catppuccin",
+      "identifier": "devcontainer"
+    },
     "dhall": {
       "codepoint": 57387,
       "fontFamily": "Catppuccin",
       "identifier": "dhall"
+    },
+    "diff": {
+      "codepoint": 57673,
+      "fontFamily": "Catppuccin",
+      "identifier": "diff"
+    },
+    "django": {
+      "codepoint": 57674,
+      "fontFamily": "Catppuccin",
+      "identifier": "django"
     },
     "docker": {
       "codepoint": 57388,
@@ -256,10 +496,45 @@
       "fontFamily": "Catppuccin",
       "identifier": "dockerCompose"
     },
+    "docker-ignore": {
+      "codepoint": 57675,
+      "fontFamily": "Catppuccin",
+      "identifier": "dockerIgnore"
+    },
+    "docusaurus": {
+      "codepoint": 57676,
+      "fontFamily": "Catppuccin",
+      "identifier": "docusaurus"
+    },
+    "drawio": {
+      "codepoint": 57677,
+      "fontFamily": "Catppuccin",
+      "identifier": "drawio"
+    },
+    "drizzle-orm": {
+      "codepoint": 57678,
+      "fontFamily": "Catppuccin",
+      "identifier": "drizzleOrm"
+    },
+    "dub": {
+      "codepoint": 57679,
+      "fontFamily": "Catppuccin",
+      "identifier": "dub"
+    },
+    "dub-selections": {
+      "codepoint": 57680,
+      "fontFamily": "Catppuccin",
+      "identifier": "dubSelections"
+    },
     "editorconfig": {
       "codepoint": 57390,
       "fontFamily": "Catppuccin",
       "identifier": "editorconfig"
+    },
+    "ejs": {
+      "codepoint": 57681,
+      "fontFamily": "Catppuccin",
+      "identifier": "ejs"
     },
     "eleventy": {
       "codepoint": 57391,
@@ -276,10 +551,25 @@
       "fontFamily": "Catppuccin",
       "identifier": "elm"
     },
+    "ember": {
+      "codepoint": 57682,
+      "fontFamily": "Catppuccin",
+      "identifier": "ember"
+    },
     "env": {
       "codepoint": 57394,
       "fontFamily": "Catppuccin",
       "identifier": "env"
+    },
+    "envrc": {
+      "codepoint": 57683,
+      "fontFamily": "Catppuccin",
+      "identifier": "envrc"
+    },
+    "erlang": {
+      "codepoint": 57684,
+      "fontFamily": "Catppuccin",
+      "identifier": "erlang"
     },
     "esbuild": {
       "codepoint": 57395,
@@ -291,15 +581,30 @@
       "fontFamily": "Catppuccin",
       "identifier": "eslint"
     },
+    "eslint-ignore": {
+      "codepoint": 57685,
+      "fontFamily": "Catppuccin",
+      "identifier": "eslintIgnore"
+    },
     "exe": {
       "codepoint": 57397,
       "fontFamily": "Catppuccin",
       "identifier": "exe"
     },
+    "fastlane": {
+      "codepoint": 57686,
+      "fontFamily": "Catppuccin",
+      "identifier": "fastlane"
+    },
     "favicon": {
       "codepoint": 57398,
       "fontFamily": "Catppuccin",
       "identifier": "favicon"
+    },
+    "figma": {
+      "codepoint": 57687,
+      "fontFamily": "Catppuccin",
+      "identifier": "figma"
     },
     "file": {
       "codepoint": 57399,
@@ -310,6 +615,11 @@
       "codepoint": 57400,
       "fontFamily": "Catppuccin",
       "identifier": "firebase"
+    },
+    "flutter": {
+      "codepoint": 57688,
+      "fontFamily": "Catppuccin",
+      "identifier": "flutter"
     },
     "folder": {
       "codepoint": 57401,
@@ -325,6 +635,16 @@
       "codepoint": 57403,
       "fontFamily": "Catppuccin",
       "identifier": "folderAdminOpen"
+    },
+    "folder-android": {
+      "codepoint": 57689,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderAndroid"
+    },
+    "folder-android-open": {
+      "codepoint": 57690,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderAndroidOpen"
     },
     "folder-animation": {
       "codepoint": 57404,
@@ -346,6 +666,16 @@
       "fontFamily": "Catppuccin",
       "identifier": "folderApiOpen"
     },
+    "folder-app": {
+      "codepoint": 57691,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderApp"
+    },
+    "folder-app-open": {
+      "codepoint": 57692,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderAppOpen"
+    },
     "folder-assets": {
       "codepoint": 57408,
       "fontFamily": "Catppuccin",
@@ -355,6 +685,36 @@
       "codepoint": 57409,
       "fontFamily": "Catppuccin",
       "identifier": "folderAssetsOpen"
+    },
+    "folder-audio": {
+      "codepoint": 57693,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderAudio"
+    },
+    "folder-audio-open": {
+      "codepoint": 57694,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderAudioOpen"
+    },
+    "folder-audit": {
+      "codepoint": 57695,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderAudit"
+    },
+    "folder-audit-open": {
+      "codepoint": 57696,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderAuditOpen"
+    },
+    "folder-aws": {
+      "codepoint": 57697,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderAws"
+    },
+    "folder-aws-open": {
+      "codepoint": 57698,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderAwsOpen"
     },
     "folder-azure-devops": {
       "codepoint": 57410,
@@ -376,6 +736,46 @@
       "fontFamily": "Catppuccin",
       "identifier": "folderAzurePipelinesOpen"
     },
+    "folder-benchmark": {
+      "codepoint": 57699,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderBenchmark"
+    },
+    "folder-benchmark-open": {
+      "codepoint": 57700,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderBenchmarkOpen"
+    },
+    "folder-caddy": {
+      "codepoint": 57701,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderCaddy"
+    },
+    "folder-caddy-open": {
+      "codepoint": 57702,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderCaddyOpen"
+    },
+    "folder-cargo": {
+      "codepoint": 57703,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderCargo"
+    },
+    "folder-cargo-open": {
+      "codepoint": 57704,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderCargoOpen"
+    },
+    "folder-circle-ci": {
+      "codepoint": 57705,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderCircleCi"
+    },
+    "folder-circle-ci-open": {
+      "codepoint": 57706,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderCircleCiOpen"
+    },
     "folder-client": {
       "codepoint": 57414,
       "fontFamily": "Catppuccin",
@@ -385,6 +785,36 @@
       "codepoint": 57415,
       "fontFamily": "Catppuccin",
       "identifier": "folderClientOpen"
+    },
+    "folder-cloud": {
+      "codepoint": 57707,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderCloud"
+    },
+    "folder-cloud-open": {
+      "codepoint": 57708,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderCloudOpen"
+    },
+    "folder-command": {
+      "codepoint": 57709,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderCommand"
+    },
+    "folder-command-open": {
+      "codepoint": 57710,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderCommandOpen"
+    },
+    "folder-components": {
+      "codepoint": 57711,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderComponents"
+    },
+    "folder-components-open": {
+      "codepoint": 57712,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderComponentsOpen"
     },
     "folder-composables": {
       "codepoint": 57416,
@@ -396,6 +826,16 @@
       "fontFamily": "Catppuccin",
       "identifier": "folderComposablesOpen"
     },
+    "folder-config": {
+      "codepoint": 57713,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderConfig"
+    },
+    "folder-config-open": {
+      "codepoint": 57714,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderConfigOpen"
+    },
     "folder-connection": {
       "codepoint": 57418,
       "fontFamily": "Catppuccin",
@@ -405,6 +845,56 @@
       "codepoint": 57419,
       "fontFamily": "Catppuccin",
       "identifier": "folderConnectionOpen"
+    },
+    "folder-constant": {
+      "codepoint": 57715,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderConstant"
+    },
+    "folder-constant-open": {
+      "codepoint": 57716,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderConstantOpen"
+    },
+    "folder-content": {
+      "codepoint": 57717,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderContent"
+    },
+    "folder-content-open": {
+      "codepoint": 57718,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderContentOpen"
+    },
+    "folder-controllers": {
+      "codepoint": 57719,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderControllers"
+    },
+    "folder-controllers-open": {
+      "codepoint": 57720,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderControllersOpen"
+    },
+    "folder-core": {
+      "codepoint": 57721,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderCore"
+    },
+    "folder-core-open": {
+      "codepoint": 57722,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderCoreOpen"
+    },
+    "folder-coverage": {
+      "codepoint": 57723,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderCoverage"
+    },
+    "folder-coverage-open": {
+      "codepoint": 57724,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderCoverageOpen"
     },
     "folder-cursor": {
       "codepoint": 57420,
@@ -416,6 +906,16 @@
       "fontFamily": "Catppuccin",
       "identifier": "folderCursorOpen"
     },
+    "folder-cypress": {
+      "codepoint": 57725,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderCypress"
+    },
+    "folder-cypress-open": {
+      "codepoint": 57726,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderCypressOpen"
+    },
     "folder-database": {
       "codepoint": 57422,
       "fontFamily": "Catppuccin",
@@ -425,6 +925,46 @@
       "codepoint": 57423,
       "fontFamily": "Catppuccin",
       "identifier": "folderDatabaseOpen"
+    },
+    "folder-debug": {
+      "codepoint": 57727,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderDebug"
+    },
+    "folder-debug-open": {
+      "codepoint": 57728,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderDebugOpen"
+    },
+    "folder-devcontainer": {
+      "codepoint": 57729,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderDevcontainer"
+    },
+    "folder-devcontainer-open": {
+      "codepoint": 57730,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderDevcontainerOpen"
+    },
+    "folder-direnv": {
+      "codepoint": 57731,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderDirenv"
+    },
+    "folder-direnv-open": {
+      "codepoint": 57732,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderDirenvOpen"
+    },
+    "folder-dist": {
+      "codepoint": 57733,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderDist"
+    },
+    "folder-dist-open": {
+      "codepoint": 57734,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderDistOpen"
     },
     "folder-docker": {
       "codepoint": 57424,
@@ -446,6 +986,26 @@
       "fontFamily": "Catppuccin",
       "identifier": "folderDocsOpen"
     },
+    "folder-download": {
+      "codepoint": 57735,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderDownload"
+    },
+    "folder-download-open": {
+      "codepoint": 57736,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderDownloadOpen"
+    },
+    "folder-drizzle-orm": {
+      "codepoint": 57737,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderDrizzleOrm"
+    },
+    "folder-drizzle-orm-open": {
+      "codepoint": 57738,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderDrizzleOrmOpen"
+    },
     "folder-examples": {
       "codepoint": 57428,
       "fontFamily": "Catppuccin",
@@ -455,6 +1015,16 @@
       "codepoint": 57429,
       "fontFamily": "Catppuccin",
       "identifier": "folderExamplesOpen"
+    },
+    "folder-fastlane": {
+      "codepoint": 57739,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderFastlane"
+    },
+    "folder-fastlane-open": {
+      "codepoint": 57740,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderFastlaneOpen"
     },
     "folder-firebase": {
       "codepoint": 57430,
@@ -476,6 +1046,16 @@
       "fontFamily": "Catppuccin",
       "identifier": "folderFontsOpen"
     },
+    "folder-forgejo": {
+      "codepoint": 57741,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderForgejo"
+    },
+    "folder-forgejo-open": {
+      "codepoint": 57742,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderForgejoOpen"
+    },
     "folder-functions": {
       "codepoint": 57434,
       "fontFamily": "Catppuccin",
@@ -495,6 +1075,46 @@
       "codepoint": 57437,
       "fontFamily": "Catppuccin",
       "identifier": "folderFvmOpen"
+    },
+    "folder-git": {
+      "codepoint": 57743,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderGit"
+    },
+    "folder-git-open": {
+      "codepoint": 57744,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderGitOpen"
+    },
+    "folder-github": {
+      "codepoint": 57745,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderGithub"
+    },
+    "folder-github-open": {
+      "codepoint": 57746,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderGithubOpen"
+    },
+    "folder-gitlab": {
+      "codepoint": 57747,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderGitlab"
+    },
+    "folder-gitlab-open": {
+      "codepoint": 57748,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderGitlabOpen"
+    },
+    "folder-gradle": {
+      "codepoint": 57749,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderGradle"
+    },
+    "folder-gradle-open": {
+      "codepoint": 57750,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderGradleOpen"
     },
     "folder-graphql": {
       "codepoint": 57438,
@@ -526,6 +1146,36 @@
       "fontFamily": "Catppuccin",
       "identifier": "folderHuskyOpen"
     },
+    "folder-images": {
+      "codepoint": 57751,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderImages"
+    },
+    "folder-images-open": {
+      "codepoint": 57752,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderImagesOpen"
+    },
+    "folder-include": {
+      "codepoint": 57753,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderInclude"
+    },
+    "folder-include-open": {
+      "codepoint": 57754,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderIncludeOpen"
+    },
+    "folder-intellij": {
+      "codepoint": 57755,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderIntellij"
+    },
+    "folder-intellij-open": {
+      "codepoint": 57756,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderIntellijOpen"
+    },
     "folder-javascript": {
       "codepoint": 57444,
       "fontFamily": "Catppuccin",
@@ -556,6 +1206,26 @@
       "fontFamily": "Catppuccin",
       "identifier": "folderLayoutsOpen"
     },
+    "folder-lib": {
+      "codepoint": 57757,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderLib"
+    },
+    "folder-lib-open": {
+      "codepoint": 57758,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderLibOpen"
+    },
+    "folder-linux": {
+      "codepoint": 57759,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderLinux"
+    },
+    "folder-linux-open": {
+      "codepoint": 57760,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderLinuxOpen"
+    },
     "folder-locales": {
       "codepoint": 57450,
       "fontFamily": "Catppuccin",
@@ -565,6 +1235,16 @@
       "codepoint": 57451,
       "fontFamily": "Catppuccin",
       "identifier": "folderLocalesOpen"
+    },
+    "folder-luau": {
+      "codepoint": 57761,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderLuau"
+    },
+    "folder-luau-open": {
+      "codepoint": 57762,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderLuauOpen"
     },
     "folder-lune": {
       "codepoint": 57452,
@@ -576,6 +1256,16 @@
       "fontFamily": "Catppuccin",
       "identifier": "folderLuneOpen"
     },
+    "folder-macos": {
+      "codepoint": 57763,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderMacos"
+    },
+    "folder-macos-open": {
+      "codepoint": 57764,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderMacosOpen"
+    },
     "folder-messages": {
       "codepoint": 57454,
       "fontFamily": "Catppuccin",
@@ -585,6 +1275,26 @@
       "codepoint": 57455,
       "fontFamily": "Catppuccin",
       "identifier": "folderMessagesOpen"
+    },
+    "folder-middleware": {
+      "codepoint": 57765,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderMiddleware"
+    },
+    "folder-middleware-open": {
+      "codepoint": 57766,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderMiddlewareOpen"
+    },
+    "folder-mocks": {
+      "codepoint": 57767,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderMocks"
+    },
+    "folder-mocks-open": {
+      "codepoint": 57768,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderMocksOpen"
     },
     "folder-moonrepo": {
       "codepoint": 57456,
@@ -596,10 +1306,60 @@
       "fontFamily": "Catppuccin",
       "identifier": "folderMoonrepoOpen"
     },
+    "folder-next": {
+      "codepoint": 57769,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderNext"
+    },
+    "folder-next-open": {
+      "codepoint": 57770,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderNextOpen"
+    },
+    "folder-nix": {
+      "codepoint": 57771,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderNix"
+    },
+    "folder-nix-open": {
+      "codepoint": 57772,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderNixOpen"
+    },
+    "folder-node": {
+      "codepoint": 57773,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderNode"
+    },
+    "folder-node-open": {
+      "codepoint": 57774,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderNodeOpen"
+    },
+    "folder-nuxt": {
+      "codepoint": 57775,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderNuxt"
+    },
+    "folder-nuxt-open": {
+      "codepoint": 57776,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderNuxtOpen"
+    },
     "folder-open": {
       "codepoint": 57458,
       "fontFamily": "Catppuccin",
       "identifier": "folderOpen"
+    },
+    "folder-packages": {
+      "codepoint": 57777,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderPackages"
+    },
+    "folder-packages-open": {
+      "codepoint": 57778,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderPackagesOpen"
     },
     "folder-pesde": {
       "codepoint": 57459,
@@ -641,6 +1401,46 @@
       "fontFamily": "Catppuccin",
       "identifier": "folderPrismaOpen"
     },
+    "folder-private": {
+      "codepoint": 57779,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderPrivate"
+    },
+    "folder-private-open": {
+      "codepoint": 57780,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderPrivateOpen"
+    },
+    "folder-proto": {
+      "codepoint": 57781,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderProto"
+    },
+    "folder-proto-open": {
+      "codepoint": 57782,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderProtoOpen"
+    },
+    "folder-public": {
+      "codepoint": 57783,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderPublic"
+    },
+    "folder-public-open": {
+      "codepoint": 57784,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderPublicOpen"
+    },
+    "folder-queue": {
+      "codepoint": 57785,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderQueue"
+    },
+    "folder-queue-open": {
+      "codepoint": 57786,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderQueueOpen"
+    },
     "folder-redux": {
       "codepoint": 57467,
       "fontFamily": "Catppuccin",
@@ -670,6 +1470,16 @@
       "codepoint": 57472,
       "fontFamily": "Catppuccin",
       "identifier": "folderRobloxOpen"
+    },
+    "folder-routes": {
+      "codepoint": 57787,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderRoutes"
+    },
+    "folder-routes-open": {
+      "codepoint": 57788,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderRoutesOpen"
     },
     "folder-sass": {
       "codepoint": 57473,
@@ -721,6 +1531,16 @@
       "fontFamily": "Catppuccin",
       "identifier": "folderSharedOpen"
     },
+    "folder-src": {
+      "codepoint": 57789,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderSrc"
+    },
+    "folder-src-open": {
+      "codepoint": 57790,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderSrcOpen"
+    },
     "folder-storybook": {
       "codepoint": 57483,
       "fontFamily": "Catppuccin",
@@ -741,6 +1561,36 @@
       "fontFamily": "Catppuccin",
       "identifier": "folderStylesOpen"
     },
+    "folder-svg": {
+      "codepoint": 57791,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderSvg"
+    },
+    "folder-svg-open": {
+      "codepoint": 57792,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderSvgOpen"
+    },
+    "folder-symlink": {
+      "codepoint": 57793,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderSymlink"
+    },
+    "folder-symlink-open": {
+      "codepoint": 57794,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderSymlinkOpen"
+    },
+    "folder-tauri": {
+      "codepoint": 57795,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderTauri"
+    },
+    "folder-tauri-open": {
+      "codepoint": 57796,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderTauriOpen"
+    },
     "folder-temp": {
       "codepoint": 57487,
       "fontFamily": "Catppuccin",
@@ -750,6 +1600,16 @@
       "codepoint": 57488,
       "fontFamily": "Catppuccin",
       "identifier": "folderTempOpen"
+    },
+    "folder-templates": {
+      "codepoint": 57797,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderTemplates"
+    },
+    "folder-templates-open": {
+      "codepoint": 57798,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderTemplatesOpen"
     },
     "folder-tests": {
       "codepoint": 57489,
@@ -761,6 +1621,26 @@
       "fontFamily": "Catppuccin",
       "identifier": "folderTestsOpen"
     },
+    "folder-themes": {
+      "codepoint": 57799,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderThemes"
+    },
+    "folder-themes-open": {
+      "codepoint": 57800,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderThemesOpen"
+    },
+    "folder-turbo": {
+      "codepoint": 57801,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderTurbo"
+    },
+    "folder-turbo-open": {
+      "codepoint": 57802,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderTurboOpen"
+    },
     "folder-types": {
       "codepoint": 57491,
       "fontFamily": "Catppuccin",
@@ -771,6 +1651,36 @@
       "fontFamily": "Catppuccin",
       "identifier": "folderTypesOpen"
     },
+    "folder-upload": {
+      "codepoint": 57803,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderUpload"
+    },
+    "folder-upload-open": {
+      "codepoint": 57804,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderUploadOpen"
+    },
+    "folder-utils": {
+      "codepoint": 57805,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderUtils"
+    },
+    "folder-utils-open": {
+      "codepoint": 57806,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderUtilsOpen"
+    },
+    "folder-vercel": {
+      "codepoint": 57807,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderVercel"
+    },
+    "folder-vercel-open": {
+      "codepoint": 57808,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderVercelOpen"
+    },
     "folder-video": {
       "codepoint": 57493,
       "fontFamily": "Catppuccin",
@@ -780,6 +1690,16 @@
       "codepoint": 57494,
       "fontFamily": "Catppuccin",
       "identifier": "folderVideoOpen"
+    },
+    "folder-views": {
+      "codepoint": 57809,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderViews"
+    },
+    "folder-views-open": {
+      "codepoint": 57810,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderViewsOpen"
     },
     "folder-vscode": {
       "codepoint": 57495,
@@ -801,10 +1721,70 @@
       "fontFamily": "Catppuccin",
       "identifier": "folderWindowsOpen"
     },
+    "folder-workflows": {
+      "codepoint": 57811,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderWorkflows"
+    },
+    "folder-workflows-open": {
+      "codepoint": 57812,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderWorkflowsOpen"
+    },
+    "folder-wxt": {
+      "codepoint": 57813,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderWxt"
+    },
+    "folder-wxt-open": {
+      "codepoint": 57814,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderWxtOpen"
+    },
+    "folder-xcode": {
+      "codepoint": 57815,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderXcode"
+    },
+    "folder-xcode-open": {
+      "codepoint": 57816,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderXcodeOpen"
+    },
+    "folder-xmake": {
+      "codepoint": 57817,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderXmake"
+    },
+    "folder-xmake-open": {
+      "codepoint": 57818,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderXmakeOpen"
+    },
+    "folder-yarn": {
+      "codepoint": 57819,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderYarn"
+    },
+    "folder-yarn-open": {
+      "codepoint": 57820,
+      "fontFamily": "Catppuccin",
+      "identifier": "folderYarnOpen"
+    },
     "font": {
       "codepoint": 57499,
       "fontFamily": "Catppuccin",
       "identifier": "font"
+    },
+    "foreman": {
+      "codepoint": 57821,
+      "fontFamily": "Catppuccin",
+      "identifier": "foreman"
+    },
+    "forgejo": {
+      "codepoint": 57822,
+      "fontFamily": "Catppuccin",
+      "identifier": "forgejo"
     },
     "fortran": {
       "codepoint": 57500,
@@ -826,20 +1806,100 @@
       "fontFamily": "Catppuccin",
       "identifier": "gatsby"
     },
+    "gcp": {
+      "codepoint": 57823,
+      "fontFamily": "Catppuccin",
+      "identifier": "gcp"
+    },
+    "git": {
+      "codepoint": 57824,
+      "fontFamily": "Catppuccin",
+      "identifier": "git"
+    },
+    "git-cliff": {
+      "codepoint": 57825,
+      "fontFamily": "Catppuccin",
+      "identifier": "gitCliff"
+    },
+    "gitlab": {
+      "codepoint": 57826,
+      "fontFamily": "Catppuccin",
+      "identifier": "gitlab"
+    },
+    "gitpod": {
+      "codepoint": 57827,
+      "fontFamily": "Catppuccin",
+      "identifier": "gitpod"
+    },
     "gleam": {
       "codepoint": 57504,
       "fontFamily": "Catppuccin",
       "identifier": "gleam"
+    },
+    "gleam-config": {
+      "codepoint": 57828,
+      "fontFamily": "Catppuccin",
+      "identifier": "gleamConfig"
+    },
+    "go": {
+      "codepoint": 57829,
+      "fontFamily": "Catppuccin",
+      "identifier": "go"
+    },
+    "go-mod": {
+      "codepoint": 57830,
+      "fontFamily": "Catppuccin",
+      "identifier": "goMod"
+    },
+    "go-template": {
+      "codepoint": 57831,
+      "fontFamily": "Catppuccin",
+      "identifier": "goTemplate"
+    },
+    "godot": {
+      "codepoint": 57832,
+      "fontFamily": "Catppuccin",
+      "identifier": "godot"
+    },
+    "godot-assets": {
+      "codepoint": 57833,
+      "fontFamily": "Catppuccin",
+      "identifier": "godotAssets"
+    },
+    "gradle": {
+      "codepoint": 57834,
+      "fontFamily": "Catppuccin",
+      "identifier": "gradle"
     },
     "graphql": {
       "codepoint": 57505,
       "fontFamily": "Catppuccin",
       "identifier": "graphql"
     },
+    "groovy": {
+      "codepoint": 57835,
+      "fontFamily": "Catppuccin",
+      "identifier": "groovy"
+    },
+    "gulp": {
+      "codepoint": 57836,
+      "fontFamily": "Catppuccin",
+      "identifier": "gulp"
+    },
+    "hacking": {
+      "codepoint": 57837,
+      "fontFamily": "Catppuccin",
+      "identifier": "hacking"
+    },
     "haml": {
       "codepoint": 57506,
       "fontFamily": "Catppuccin",
       "identifier": "haml"
+    },
+    "handlebars": {
+      "codepoint": 57838,
+      "fontFamily": "Catppuccin",
+      "identifier": "handlebars"
     },
     "hardhat": {
       "codepoint": 57507,
@@ -856,6 +1916,11 @@
       "fontFamily": "Catppuccin",
       "identifier": "haskell"
     },
+    "haxe": {
+      "codepoint": 57839,
+      "fontFamily": "Catppuccin",
+      "identifier": "haxe"
+    },
     "helm": {
       "codepoint": 57510,
       "fontFamily": "Catppuccin",
@@ -865,6 +1930,16 @@
       "codepoint": 57511,
       "fontFamily": "Catppuccin",
       "identifier": "heroku"
+    },
+    "histoire": {
+      "codepoint": 57840,
+      "fontFamily": "Catppuccin",
+      "identifier": "histoire"
+    },
+    "html": {
+      "codepoint": 57841,
+      "fontFamily": "Catppuccin",
+      "identifier": "html"
     },
     "http": {
       "codepoint": 57512,
@@ -881,15 +1956,35 @@
       "fontFamily": "Catppuccin",
       "identifier": "hugo"
     },
+    "humans": {
+      "codepoint": 57842,
+      "fontFamily": "Catppuccin",
+      "identifier": "humans"
+    },
     "husky": {
       "codepoint": 57515,
       "fontFamily": "Catppuccin",
       "identifier": "husky"
     },
+    "image": {
+      "codepoint": 57843,
+      "fontFamily": "Catppuccin",
+      "identifier": "image"
+    },
     "ionic": {
       "codepoint": 57516,
       "fontFamily": "Catppuccin",
       "identifier": "ionic"
+    },
+    "java": {
+      "codepoint": 57844,
+      "fontFamily": "Catppuccin",
+      "identifier": "java"
+    },
+    "java-alt-1": {
+      "codepoint": 57845,
+      "fontFamily": "Catppuccin",
+      "identifier": "javaAlt1"
     },
     "java-alt-2": {
       "codepoint": 57517,
@@ -916,10 +2011,35 @@
       "fontFamily": "Catppuccin",
       "identifier": "javaClassAbstract"
     },
+    "java-class-final": {
+      "codepoint": 57846,
+      "fontFamily": "Catppuccin",
+      "identifier": "javaClassFinal"
+    },
     "java-class-sealed": {
       "codepoint": 57522,
       "fontFamily": "Catppuccin",
       "identifier": "javaClassSealed"
+    },
+    "java-enum": {
+      "codepoint": 57847,
+      "fontFamily": "Catppuccin",
+      "identifier": "javaEnum"
+    },
+    "java-exception": {
+      "codepoint": 57848,
+      "fontFamily": "Catppuccin",
+      "identifier": "javaException"
+    },
+    "java-interface": {
+      "codepoint": 57849,
+      "fontFamily": "Catppuccin",
+      "identifier": "javaInterface"
+    },
+    "java-jar": {
+      "codepoint": 57850,
+      "fontFamily": "Catppuccin",
+      "identifier": "javaJar"
     },
     "java-record": {
       "codepoint": 57523,
@@ -931,10 +2051,35 @@
       "fontFamily": "Catppuccin",
       "identifier": "javascript"
     },
+    "javascript-config": {
+      "codepoint": 57851,
+      "fontFamily": "Catppuccin",
+      "identifier": "javascriptConfig"
+    },
+    "javascript-map": {
+      "codepoint": 57852,
+      "fontFamily": "Catppuccin",
+      "identifier": "javascriptMap"
+    },
+    "javascript-react": {
+      "codepoint": 57853,
+      "fontFamily": "Catppuccin",
+      "identifier": "javascriptReact"
+    },
     "javascript-test": {
       "codepoint": 57525,
       "fontFamily": "Catppuccin",
       "identifier": "javascriptTest"
+    },
+    "jest": {
+      "codepoint": 57854,
+      "fontFamily": "Catppuccin",
+      "identifier": "jest"
+    },
+    "jinja": {
+      "codepoint": 57855,
+      "fontFamily": "Catppuccin",
+      "identifier": "jinja"
     },
     "json": {
       "codepoint": 57526,
@@ -946,20 +2091,65 @@
       "fontFamily": "Catppuccin",
       "identifier": "jsonSchema"
     },
+    "juce": {
+      "codepoint": 57856,
+      "fontFamily": "Catppuccin",
+      "identifier": "juce"
+    },
+    "jule": {
+      "codepoint": 57857,
+      "fontFamily": "Catppuccin",
+      "identifier": "jule"
+    },
+    "julia": {
+      "codepoint": 57858,
+      "fontFamily": "Catppuccin",
+      "identifier": "julia"
+    },
+    "jupyter": {
+      "codepoint": 57859,
+      "fontFamily": "Catppuccin",
+      "identifier": "jupyter"
+    },
     "just": {
       "codepoint": 57528,
       "fontFamily": "Catppuccin",
       "identifier": "just"
+    },
+    "kdl": {
+      "codepoint": 57860,
+      "fontFamily": "Catppuccin",
+      "identifier": "kdl"
     },
     "key": {
       "codepoint": 57529,
       "fontFamily": "Catppuccin",
       "identifier": "key"
     },
+    "knip": {
+      "codepoint": 57861,
+      "fontFamily": "Catppuccin",
+      "identifier": "knip"
+    },
+    "kotlin": {
+      "codepoint": 57862,
+      "fontFamily": "Catppuccin",
+      "identifier": "kotlin"
+    },
+    "laravel": {
+      "codepoint": 57863,
+      "fontFamily": "Catppuccin",
+      "identifier": "laravel"
+    },
     "latex": {
       "codepoint": 57530,
       "fontFamily": "Catppuccin",
       "identifier": "latex"
+    },
+    "latte": {
+      "codepoint": 57864,
+      "fontFamily": "Catppuccin",
+      "identifier": "latte"
     },
     "lerna": {
       "codepoint": 57531,
@@ -976,10 +2166,30 @@
       "fontFamily": "Catppuccin",
       "identifier": "lib"
     },
+    "license": {
+      "codepoint": 57865,
+      "fontFamily": "Catppuccin",
+      "identifier": "license"
+    },
+    "lint-staged": {
+      "codepoint": 57866,
+      "fontFamily": "Catppuccin",
+      "identifier": "lintStaged"
+    },
     "liquid": {
       "codepoint": 57534,
       "fontFamily": "Catppuccin",
       "identifier": "liquid"
+    },
+    "lisp": {
+      "codepoint": 57867,
+      "fontFamily": "Catppuccin",
+      "identifier": "lisp"
+    },
+    "lock": {
+      "codepoint": 57868,
+      "fontFamily": "Catppuccin",
+      "identifier": "lock"
     },
     "log": {
       "codepoint": 57535,
@@ -990,6 +2200,11 @@
       "codepoint": 57536,
       "fontFamily": "Catppuccin",
       "identifier": "lua"
+    },
+    "lua-check": {
+      "codepoint": 57869,
+      "fontFamily": "Catppuccin",
+      "identifier": "luaCheck"
     },
     "lua-client": {
       "codepoint": 57537,
@@ -1011,6 +2226,76 @@
       "fontFamily": "Catppuccin",
       "identifier": "luaTest"
     },
+    "luau": {
+      "codepoint": 57870,
+      "fontFamily": "Catppuccin",
+      "identifier": "luau"
+    },
+    "luau-check": {
+      "codepoint": 57871,
+      "fontFamily": "Catppuccin",
+      "identifier": "luauCheck"
+    },
+    "luau-client": {
+      "codepoint": 57872,
+      "fontFamily": "Catppuccin",
+      "identifier": "luauClient"
+    },
+    "luau-config": {
+      "codepoint": 57873,
+      "fontFamily": "Catppuccin",
+      "identifier": "luauConfig"
+    },
+    "luau-server": {
+      "codepoint": 57874,
+      "fontFamily": "Catppuccin",
+      "identifier": "luauServer"
+    },
+    "luau-test": {
+      "codepoint": 57875,
+      "fontFamily": "Catppuccin",
+      "identifier": "luauTest"
+    },
+    "macos": {
+      "codepoint": 57876,
+      "fontFamily": "Catppuccin",
+      "identifier": "macos"
+    },
+    "makefile": {
+      "codepoint": 57877,
+      "fontFamily": "Catppuccin",
+      "identifier": "makefile"
+    },
+    "mantle": {
+      "codepoint": 57878,
+      "fontFamily": "Catppuccin",
+      "identifier": "mantle"
+    },
+    "markdown": {
+      "codepoint": 57879,
+      "fontFamily": "Catppuccin",
+      "identifier": "markdown"
+    },
+    "markdown-mdx": {
+      "codepoint": 57880,
+      "fontFamily": "Catppuccin",
+      "identifier": "markdownMdx"
+    },
+    "marko": {
+      "codepoint": 57881,
+      "fontFamily": "Catppuccin",
+      "identifier": "marko"
+    },
+    "matlab": {
+      "codepoint": 57882,
+      "fontFamily": "Catppuccin",
+      "identifier": "matlab"
+    },
+    "maven": {
+      "codepoint": 57883,
+      "fontFamily": "Catppuccin",
+      "identifier": "maven"
+    },
     "mdbook": {
       "codepoint": 57541,
       "fontFamily": "Catppuccin",
@@ -1031,6 +2316,11 @@
       "fontFamily": "Catppuccin",
       "identifier": "midi"
     },
+    "mjml": {
+      "codepoint": 57884,
+      "fontFamily": "Catppuccin",
+      "identifier": "mjml"
+    },
     "modernizr": {
       "codepoint": 57545,
       "fontFamily": "Catppuccin",
@@ -1040,6 +2330,21 @@
       "codepoint": 57546,
       "fontFamily": "Catppuccin",
       "identifier": "moonrepo"
+    },
+    "moonwave": {
+      "codepoint": 57885,
+      "fontFamily": "Catppuccin",
+      "identifier": "moonwave"
+    },
+    "ms-excel": {
+      "codepoint": 57886,
+      "fontFamily": "Catppuccin",
+      "identifier": "msExcel"
+    },
+    "ms-powerpoint": {
+      "codepoint": 57887,
+      "fontFamily": "Catppuccin",
+      "identifier": "msPowerpoint"
     },
     "ms-word": {
       "codepoint": 57547,
@@ -1051,6 +2356,16 @@
       "fontFamily": "Catppuccin",
       "identifier": "msbuild"
     },
+    "nativescript": {
+      "codepoint": 57888,
+      "fontFamily": "Catppuccin",
+      "identifier": "nativescript"
+    },
+    "nest": {
+      "codepoint": 57889,
+      "fontFamily": "Catppuccin",
+      "identifier": "nest"
+    },
     "nest-controller": {
       "codepoint": 57549,
       "fontFamily": "Catppuccin",
@@ -1060,6 +2375,21 @@
       "codepoint": 57550,
       "fontFamily": "Catppuccin",
       "identifier": "nestDecorator"
+    },
+    "nest-filter": {
+      "codepoint": 57890,
+      "fontFamily": "Catppuccin",
+      "identifier": "nestFilter"
+    },
+    "nest-gateway": {
+      "codepoint": 57891,
+      "fontFamily": "Catppuccin",
+      "identifier": "nestGateway"
+    },
+    "nest-guard": {
+      "codepoint": 57892,
+      "fontFamily": "Catppuccin",
+      "identifier": "nestGuard"
     },
     "nest-middleware": {
       "codepoint": 57551,
@@ -1086,6 +2416,16 @@
       "fontFamily": "Catppuccin",
       "identifier": "next"
     },
+    "nextflow": {
+      "codepoint": 57893,
+      "fontFamily": "Catppuccin",
+      "identifier": "nextflow"
+    },
+    "nginx": {
+      "codepoint": 57894,
+      "fontFamily": "Catppuccin",
+      "identifier": "nginx"
+    },
     "nim": {
       "codepoint": 57556,
       "fontFamily": "Catppuccin",
@@ -1096,10 +2436,75 @@
       "fontFamily": "Catppuccin",
       "identifier": "ninja"
     },
+    "nix": {
+      "codepoint": 57895,
+      "fontFamily": "Catppuccin",
+      "identifier": "nix"
+    },
+    "nix-lock": {
+      "codepoint": 57896,
+      "fontFamily": "Catppuccin",
+      "identifier": "nixLock"
+    },
+    "nodemon": {
+      "codepoint": 57897,
+      "fontFamily": "Catppuccin",
+      "identifier": "nodemon"
+    },
+    "npm": {
+      "codepoint": 57898,
+      "fontFamily": "Catppuccin",
+      "identifier": "npm"
+    },
+    "npm-ignore": {
+      "codepoint": 57899,
+      "fontFamily": "Catppuccin",
+      "identifier": "npmIgnore"
+    },
+    "npm-lock": {
+      "codepoint": 57900,
+      "fontFamily": "Catppuccin",
+      "identifier": "npmLock"
+    },
     "nuget": {
       "codepoint": 57558,
       "fontFamily": "Catppuccin",
       "identifier": "nuget"
+    },
+    "nunjucks": {
+      "codepoint": 57901,
+      "fontFamily": "Catppuccin",
+      "identifier": "nunjucks"
+    },
+    "nuxt": {
+      "codepoint": 57902,
+      "fontFamily": "Catppuccin",
+      "identifier": "nuxt"
+    },
+    "nuxt-ignore": {
+      "codepoint": 57903,
+      "fontFamily": "Catppuccin",
+      "identifier": "nuxtIgnore"
+    },
+    "nx": {
+      "codepoint": 57904,
+      "fontFamily": "Catppuccin",
+      "identifier": "nx"
+    },
+    "nx-ignore": {
+      "codepoint": 57905,
+      "fontFamily": "Catppuccin",
+      "identifier": "nxIgnore"
+    },
+    "ocaml": {
+      "codepoint": 57906,
+      "fontFamily": "Catppuccin",
+      "identifier": "ocaml"
+    },
+    "odin": {
+      "codepoint": 57907,
+      "fontFamily": "Catppuccin",
+      "identifier": "odin"
     },
     "opentofu": {
       "codepoint": 57559,
@@ -1111,10 +2516,20 @@
       "fontFamily": "Catppuccin",
       "identifier": "org"
     },
+    "package-json": {
+      "codepoint": 57908,
+      "fontFamily": "Catppuccin",
+      "identifier": "packageJson"
+    },
     "panda-css": {
       "codepoint": 57561,
       "fontFamily": "Catppuccin",
       "identifier": "pandaCss"
+    },
+    "pdf": {
+      "codepoint": 57909,
+      "fontFamily": "Catppuccin",
+      "identifier": "pdf"
     },
     "perl": {
       "codepoint": 57562,
@@ -1125,6 +2540,11 @@
       "codepoint": 57563,
       "fontFamily": "Catppuccin",
       "identifier": "pesde"
+    },
+    "pesde-lock": {
+      "codepoint": 57910,
+      "fontFamily": "Catppuccin",
+      "identifier": "pesdeLock"
     },
     "php": {
       "codepoint": 57564,
@@ -1146,6 +2566,46 @@
       "fontFamily": "Catppuccin",
       "identifier": "pixi"
     },
+    "pixi-lock": {
+      "codepoint": 57911,
+      "fontFamily": "Catppuccin",
+      "identifier": "pixiLock"
+    },
+    "plantuml": {
+      "codepoint": 57912,
+      "fontFamily": "Catppuccin",
+      "identifier": "plantuml"
+    },
+    "playwright": {
+      "codepoint": 57913,
+      "fontFamily": "Catppuccin",
+      "identifier": "playwright"
+    },
+    "plop": {
+      "codepoint": 57914,
+      "fontFamily": "Catppuccin",
+      "identifier": "plop"
+    },
+    "pnpm": {
+      "codepoint": 57915,
+      "fontFamily": "Catppuccin",
+      "identifier": "pnpm"
+    },
+    "pnpm-lock": {
+      "codepoint": 57916,
+      "fontFamily": "Catppuccin",
+      "identifier": "pnpmLock"
+    },
+    "poetry-lock": {
+      "codepoint": 57917,
+      "fontFamily": "Catppuccin",
+      "identifier": "poetryLock"
+    },
+    "postcss": {
+      "codepoint": 57918,
+      "fontFamily": "Catppuccin",
+      "identifier": "postcss"
+    },
     "powershell": {
       "codepoint": 57568,
       "fontFamily": "Catppuccin",
@@ -1156,15 +2616,40 @@
       "fontFamily": "Catppuccin",
       "identifier": "preCommit"
     },
+    "premake": {
+      "codepoint": 57919,
+      "fontFamily": "Catppuccin",
+      "identifier": "premake"
+    },
+    "prettier": {
+      "codepoint": 57920,
+      "fontFamily": "Catppuccin",
+      "identifier": "prettier"
+    },
+    "prettier-ignore": {
+      "codepoint": 57921,
+      "fontFamily": "Catppuccin",
+      "identifier": "prettierIgnore"
+    },
     "prisma": {
       "codepoint": 57570,
       "fontFamily": "Catppuccin",
       "identifier": "prisma"
     },
+    "prolog": {
+      "codepoint": 57922,
+      "fontFamily": "Catppuccin",
+      "identifier": "prolog"
+    },
     "properties": {
       "codepoint": 57571,
       "fontFamily": "Catppuccin",
       "identifier": "properties"
+    },
+    "proto": {
+      "codepoint": 57923,
+      "fontFamily": "Catppuccin",
+      "identifier": "proto"
     },
     "prototools": {
       "codepoint": 57572,
@@ -1181,20 +2666,70 @@
       "fontFamily": "Catppuccin",
       "identifier": "puppet"
     },
+    "puppeteer": {
+      "codepoint": 57924,
+      "fontFamily": "Catppuccin",
+      "identifier": "puppeteer"
+    },
     "python": {
       "codepoint": 57575,
       "fontFamily": "Catppuccin",
       "identifier": "python"
+    },
+    "python-compiled": {
+      "codepoint": 57925,
+      "fontFamily": "Catppuccin",
+      "identifier": "pythonCompiled"
+    },
+    "python-config": {
+      "codepoint": 57926,
+      "fontFamily": "Catppuccin",
+      "identifier": "pythonConfig"
+    },
+    "qwik": {
+      "codepoint": 57927,
+      "fontFamily": "Catppuccin",
+      "identifier": "qwik"
+    },
+    "r": {
+      "codepoint": 57928,
+      "fontFamily": "Catppuccin",
+      "identifier": "r"
+    },
+    "racket": {
+      "codepoint": 57929,
+      "fontFamily": "Catppuccin",
+      "identifier": "racket"
     },
     "razor": {
       "codepoint": 57576,
       "fontFamily": "Catppuccin",
       "identifier": "razor"
     },
+    "rdata": {
+      "codepoint": 57930,
+      "fontFamily": "Catppuccin",
+      "identifier": "rdata"
+    },
     "readme": {
       "codepoint": 57577,
       "fontFamily": "Catppuccin",
       "identifier": "readme"
+    },
+    "reason": {
+      "codepoint": 57931,
+      "fontFamily": "Catppuccin",
+      "identifier": "reason"
+    },
+    "redwood": {
+      "codepoint": 57932,
+      "fontFamily": "Catppuccin",
+      "identifier": "redwood"
+    },
+    "release": {
+      "codepoint": 57933,
+      "fontFamily": "Catppuccin",
+      "identifier": "release"
     },
     "remix": {
       "codepoint": 57578,
@@ -1205,6 +2740,11 @@
       "codepoint": 57579,
       "fontFamily": "Catppuccin",
       "identifier": "renovate"
+    },
+    "rescript": {
+      "codepoint": 57934,
+      "fontFamily": "Catppuccin",
+      "identifier": "rescript"
     },
     "rmd": {
       "codepoint": 57580,
@@ -1221,6 +2761,26 @@
       "fontFamily": "Catppuccin",
       "identifier": "robots"
     },
+    "rocket": {
+      "codepoint": 57935,
+      "fontFamily": "Catppuccin",
+      "identifier": "rocket"
+    },
+    "rojo": {
+      "codepoint": 57936,
+      "fontFamily": "Catppuccin",
+      "identifier": "rojo"
+    },
+    "rokit": {
+      "codepoint": 57937,
+      "fontFamily": "Catppuccin",
+      "identifier": "rokit"
+    },
+    "rollup": {
+      "codepoint": 57938,
+      "fontFamily": "Catppuccin",
+      "identifier": "rollup"
+    },
     "root": {
       "codepoint": 57583,
       "fontFamily": "Catppuccin",
@@ -1236,10 +2796,65 @@
       "fontFamily": "Catppuccin",
       "identifier": "rproj"
     },
+    "rsml": {
+      "codepoint": 57939,
+      "fontFamily": "Catppuccin",
+      "identifier": "rsml"
+    },
+    "ruby": {
+      "codepoint": 57940,
+      "fontFamily": "Catppuccin",
+      "identifier": "ruby"
+    },
+    "ruby-gem": {
+      "codepoint": 57941,
+      "fontFamily": "Catppuccin",
+      "identifier": "rubyGem"
+    },
+    "ruby-gem-lock": {
+      "codepoint": 57942,
+      "fontFamily": "Catppuccin",
+      "identifier": "rubyGemLock"
+    },
+    "ruff": {
+      "codepoint": 57943,
+      "fontFamily": "Catppuccin",
+      "identifier": "ruff"
+    },
+    "rust": {
+      "codepoint": 57944,
+      "fontFamily": "Catppuccin",
+      "identifier": "rust"
+    },
+    "rust-alt": {
+      "codepoint": 57945,
+      "fontFamily": "Catppuccin",
+      "identifier": "rustAlt"
+    },
+    "rust-alt-config": {
+      "codepoint": 57946,
+      "fontFamily": "Catppuccin",
+      "identifier": "rustAltConfig"
+    },
+    "rust-config": {
+      "codepoint": 57947,
+      "fontFamily": "Catppuccin",
+      "identifier": "rustConfig"
+    },
+    "salesforce": {
+      "codepoint": 57948,
+      "fontFamily": "Catppuccin",
+      "identifier": "salesforce"
+    },
     "sass": {
       "codepoint": 57586,
       "fontFamily": "Catppuccin",
       "identifier": "sass"
+    },
+    "scala": {
+      "codepoint": 57949,
+      "fontFamily": "Catppuccin",
+      "identifier": "scala"
     },
     "scheme": {
       "codepoint": 57587,
@@ -1266,15 +2881,40 @@
       "fontFamily": "Catppuccin",
       "identifier": "semgrep"
     },
+    "semgrep-ignore": {
+      "codepoint": 57950,
+      "fontFamily": "Catppuccin",
+      "identifier": "semgrepIgnore"
+    },
     "sentry": {
       "codepoint": 57592,
       "fontFamily": "Catppuccin",
       "identifier": "sentry"
     },
+    "serverless": {
+      "codepoint": 57951,
+      "fontFamily": "Catppuccin",
+      "identifier": "serverless"
+    },
     "shader": {
       "codepoint": 57593,
       "fontFamily": "Catppuccin",
       "identifier": "shader"
+    },
+    "sketch": {
+      "codepoint": 57952,
+      "fontFamily": "Catppuccin",
+      "identifier": "sketch"
+    },
+    "slidesk": {
+      "codepoint": 57953,
+      "fontFamily": "Catppuccin",
+      "identifier": "slidesk"
+    },
+    "snowpack": {
+      "codepoint": 57954,
+      "fontFamily": "Catppuccin",
+      "identifier": "snowpack"
     },
     "solid": {
       "codepoint": 57594,
@@ -1286,6 +2926,16 @@
       "fontFamily": "Catppuccin",
       "identifier": "solidity"
     },
+    "sonar-cloud": {
+      "codepoint": 57955,
+      "fontFamily": "Catppuccin",
+      "identifier": "sonarCloud"
+    },
+    "spwn": {
+      "codepoint": 57956,
+      "fontFamily": "Catppuccin",
+      "identifier": "spwn"
+    },
     "squirrel": {
       "codepoint": 57596,
       "fontFamily": "Catppuccin",
@@ -1295,6 +2945,11 @@
       "codepoint": 57597,
       "fontFamily": "Catppuccin",
       "identifier": "stackblitz"
+    },
+    "stata": {
+      "codepoint": 57957,
+      "fontFamily": "Catppuccin",
+      "identifier": "stata"
     },
     "stencil": {
       "codepoint": 57598,
@@ -1311,20 +2966,95 @@
       "fontFamily": "Catppuccin",
       "identifier": "storybook"
     },
+    "storybook-svelte": {
+      "codepoint": 57958,
+      "fontFamily": "Catppuccin",
+      "identifier": "storybookSvelte"
+    },
+    "storybook-vue": {
+      "codepoint": 57959,
+      "fontFamily": "Catppuccin",
+      "identifier": "storybookVue"
+    },
     "stylelint": {
       "codepoint": 57601,
       "fontFamily": "Catppuccin",
       "identifier": "stylelint"
+    },
+    "stylelint-ignore": {
+      "codepoint": 57960,
+      "fontFamily": "Catppuccin",
+      "identifier": "stylelintIgnore"
+    },
+    "stylua": {
+      "codepoint": 57961,
+      "fontFamily": "Catppuccin",
+      "identifier": "stylua"
+    },
+    "stylua-ignore": {
+      "codepoint": 57962,
+      "fontFamily": "Catppuccin",
+      "identifier": "styluaIgnore"
+    },
+    "sublime": {
+      "codepoint": 57963,
+      "fontFamily": "Catppuccin",
+      "identifier": "sublime"
     },
     "super-collider": {
       "codepoint": 57602,
       "fontFamily": "Catppuccin",
       "identifier": "superCollider"
     },
+    "svelte": {
+      "codepoint": 57964,
+      "fontFamily": "Catppuccin",
+      "identifier": "svelte"
+    },
+    "svelte-config": {
+      "codepoint": 57965,
+      "fontFamily": "Catppuccin",
+      "identifier": "svelteConfig"
+    },
+    "svg": {
+      "codepoint": 57966,
+      "fontFamily": "Catppuccin",
+      "identifier": "svg"
+    },
+    "swift": {
+      "codepoint": 57967,
+      "fontFamily": "Catppuccin",
+      "identifier": "swift"
+    },
     "swiftformat": {
       "codepoint": 57603,
       "fontFamily": "Catppuccin",
       "identifier": "swiftformat"
+    },
+    "symlink": {
+      "codepoint": 57968,
+      "fontFamily": "Catppuccin",
+      "identifier": "symlink"
+    },
+    "tailwind": {
+      "codepoint": 57969,
+      "fontFamily": "Catppuccin",
+      "identifier": "tailwind"
+    },
+    "taskfile": {
+      "codepoint": 57970,
+      "fontFamily": "Catppuccin",
+      "identifier": "taskfile"
+    },
+    "tauri": {
+      "codepoint": 57971,
+      "fontFamily": "Catppuccin",
+      "identifier": "tauri"
+    },
+    "tauri-ignore": {
+      "codepoint": 57972,
+      "fontFamily": "Catppuccin",
+      "identifier": "tauriIgnore"
     },
     "terraform": {
       "codepoint": 57604,
@@ -1336,10 +3066,45 @@
       "fontFamily": "Catppuccin",
       "identifier": "text"
     },
+    "todo": {
+      "codepoint": 57973,
+      "fontFamily": "Catppuccin",
+      "identifier": "todo"
+    },
+    "toml": {
+      "codepoint": 57974,
+      "fontFamily": "Catppuccin",
+      "identifier": "toml"
+    },
+    "turbo": {
+      "codepoint": 57975,
+      "fontFamily": "Catppuccin",
+      "identifier": "turbo"
+    },
+    "twig": {
+      "codepoint": 57976,
+      "fontFamily": "Catppuccin",
+      "identifier": "twig"
+    },
+    "twine": {
+      "codepoint": 57977,
+      "fontFamily": "Catppuccin",
+      "identifier": "twine"
+    },
     "typescript": {
       "codepoint": 57606,
       "fontFamily": "Catppuccin",
       "identifier": "typescript"
+    },
+    "typescript-config": {
+      "codepoint": 57978,
+      "fontFamily": "Catppuccin",
+      "identifier": "typescriptConfig"
+    },
+    "typescript-def": {
+      "codepoint": 57979,
+      "fontFamily": "Catppuccin",
+      "identifier": "typescriptDef"
     },
     "typescript-react": {
       "codepoint": 57607,
@@ -1361,6 +3126,16 @@
       "fontFamily": "Catppuccin",
       "identifier": "unity"
     },
+    "unocss": {
+      "codepoint": 57980,
+      "fontFamily": "Catppuccin",
+      "identifier": "unocss"
+    },
+    "url": {
+      "codepoint": 57981,
+      "fontFamily": "Catppuccin",
+      "identifier": "url"
+    },
     "uv": {
       "codepoint": 57611,
       "fontFamily": "Catppuccin",
@@ -1376,10 +3151,30 @@
       "fontFamily": "Catppuccin",
       "identifier": "vala"
     },
+    "vanilla-extract": {
+      "codepoint": 57982,
+      "fontFamily": "Catppuccin",
+      "identifier": "vanillaExtract"
+    },
+    "vapi": {
+      "codepoint": 57983,
+      "fontFamily": "Catppuccin",
+      "identifier": "vapi"
+    },
+    "vento": {
+      "codepoint": 57984,
+      "fontFamily": "Catppuccin",
+      "identifier": "vento"
+    },
     "vercel": {
       "codepoint": 57614,
       "fontFamily": "Catppuccin",
       "identifier": "vercel"
+    },
+    "vercel-ignore": {
+      "codepoint": 57985,
+      "fontFamily": "Catppuccin",
+      "identifier": "vercelIgnore"
     },
     "verilog": {
       "codepoint": 57615,
@@ -1390,6 +3185,16 @@
       "codepoint": 57616,
       "fontFamily": "Catppuccin",
       "identifier": "vhs"
+    },
+    "video": {
+      "codepoint": 57986,
+      "fontFamily": "Catppuccin",
+      "identifier": "video"
+    },
+    "vim": {
+      "codepoint": 57987,
+      "fontFamily": "Catppuccin",
+      "identifier": "vim"
     },
     "visual-studio": {
       "codepoint": 57617,
@@ -1406,6 +3211,11 @@
       "fontFamily": "Catppuccin",
       "identifier": "vite"
     },
+    "vitest": {
+      "codepoint": 57988,
+      "fontFamily": "Catppuccin",
+      "identifier": "vitest"
+    },
     "vs-codium": {
       "codepoint": 57620,
       "fontFamily": "Catppuccin",
@@ -1416,15 +3226,90 @@
       "fontFamily": "Catppuccin",
       "identifier": "vscode"
     },
+    "vscode-ignore": {
+      "codepoint": 57989,
+      "fontFamily": "Catppuccin",
+      "identifier": "vscodeIgnore"
+    },
+    "vue": {
+      "codepoint": 57990,
+      "fontFamily": "Catppuccin",
+      "identifier": "vue"
+    },
+    "vue-config": {
+      "codepoint": 57991,
+      "fontFamily": "Catppuccin",
+      "identifier": "vueConfig"
+    },
+    "wally": {
+      "codepoint": 57992,
+      "fontFamily": "Catppuccin",
+      "identifier": "wally"
+    },
     "web-assembly": {
       "codepoint": 57622,
       "fontFamily": "Catppuccin",
       "identifier": "webAssembly"
     },
+    "webpack": {
+      "codepoint": 57993,
+      "fontFamily": "Catppuccin",
+      "identifier": "webpack"
+    },
+    "windi": {
+      "codepoint": 57994,
+      "fontFamily": "Catppuccin",
+      "identifier": "windi"
+    },
+    "workflow": {
+      "codepoint": 57995,
+      "fontFamily": "Catppuccin",
+      "identifier": "workflow"
+    },
+    "wrangler": {
+      "codepoint": 57996,
+      "fontFamily": "Catppuccin",
+      "identifier": "wrangler"
+    },
+    "wxt": {
+      "codepoint": 57997,
+      "fontFamily": "Catppuccin",
+      "identifier": "wxt"
+    },
     "xaml": {
       "codepoint": 57623,
       "fontFamily": "Catppuccin",
       "identifier": "xaml"
+    },
+    "xcode": {
+      "codepoint": 57998,
+      "fontFamily": "Catppuccin",
+      "identifier": "xcode"
+    },
+    "xmake": {
+      "codepoint": 57999,
+      "fontFamily": "Catppuccin",
+      "identifier": "xmake"
+    },
+    "xml": {
+      "codepoint": 58000,
+      "fontFamily": "Catppuccin",
+      "identifier": "xml"
+    },
+    "yaml": {
+      "codepoint": 58001,
+      "fontFamily": "Catppuccin",
+      "identifier": "yaml"
+    },
+    "yarn": {
+      "codepoint": 58002,
+      "fontFamily": "Catppuccin",
+      "identifier": "yarn"
+    },
+    "yarn-lock": {
+      "codepoint": 58003,
+      "fontFamily": "Catppuccin",
+      "identifier": "yarnLock"
     },
     "zap": {
       "codepoint": 57624,

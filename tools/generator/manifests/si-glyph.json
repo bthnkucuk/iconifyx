@@ -15,13 +15,13 @@
       "spdx": "CC-BY-SA-4.0",
       "url": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
-    "total": 795
+    "total": 799
   },
   "fonts": [
     {
       "family": "SiGlyph",
-      "nextCodepoint": 58139,
-      "iconCount": 795
+      "nextCodepoint": 58143,
+      "iconCount": 799
     }
   ],
   "icons": {
@@ -369,6 +369,11 @@
       "codepoint": 57412,
       "fontFamily": "SiGlyph",
       "identifier": "axe"
+    },
+    "baby": {
+      "codepoint": 58139,
+      "fontFamily": "SiGlyph",
+      "identifier": "baby"
     },
     "baby-milk-botl": {
       "codepoint": 57413,
@@ -970,6 +975,11 @@
       "fontFamily": "SiGlyph",
       "identifier": "candyStick"
     },
+    "car": {
+      "codepoint": 58140,
+      "fontFamily": "SiGlyph",
+      "identifier": "car"
+    },
     "car-garage": {
       "codepoint": 57533,
       "fontFamily": "SiGlyph",
@@ -1069,6 +1079,11 @@
       "codepoint": 57552,
       "fontFamily": "SiGlyph",
       "identifier": "christmassEgg"
+    },
+    "christmass-hat": {
+      "codepoint": 58141,
+      "fontFamily": "SiGlyph",
+      "identifier": "christmassHat"
     },
     "christmass-tree": {
       "codepoint": 57553,
@@ -2564,6 +2579,11 @@
       "codepoint": 57851,
       "fontFamily": "SiGlyph",
       "identifier": "mapSquare"
+    },
+    "mark-snorker": {
+      "codepoint": 58142,
+      "fontFamily": "SiGlyph",
+      "identifier": "markSnorker"
     },
     "mask-1": {
       "codepoint": 57852,

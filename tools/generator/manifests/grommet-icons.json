@@ -16,17 +16,17 @@
       "spdx": "Apache-2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0"
     },
-    "total": 627
+    "total": 637
   },
   "fonts": [
     {
       "family": "GrommetIcons",
-      "nextCodepoint": 57971,
-      "iconCount": 627
+      "nextCodepoint": 57981,
+      "iconCount": 637
     },
     {
       "family": "GrommetIconsSecondary",
-      "nextCodepoint": 57971,
+      "nextCodepoint": 57981,
       "iconCount": 3
     }
   ],
@@ -135,6 +135,21 @@
       "codepoint": 57364,
       "fontFamily": "GrommetIcons",
       "identifier": "apple"
+    },
+    "apple-app-store": {
+      "codepoint": 57971,
+      "fontFamily": "GrommetIcons",
+      "identifier": "appleAppStore"
+    },
+    "apple-music": {
+      "codepoint": 57972,
+      "fontFamily": "GrommetIcons",
+      "identifier": "appleMusic"
+    },
+    "apple-podcasts": {
+      "codepoint": 57973,
+      "fontFamily": "GrommetIcons",
+      "identifier": "applePodcasts"
     },
     "apps": {
       "codepoint": 57365,
@@ -1001,6 +1016,11 @@
       "fontFamily": "GrommetIcons",
       "identifier": "dxc"
     },
+    "edge": {
+      "codepoint": 57974,
+      "fontFamily": "GrommetIcons",
+      "identifier": "edge"
+    },
     "edit": {
       "codepoint": 57538,
       "fontFamily": "GrommetIcons",
@@ -1316,6 +1336,11 @@
       "fontFamily": "GrommetIcons",
       "identifier": "gem"
     },
+    "genai": {
+      "codepoint": 57975,
+      "fontFamily": "GrommetIcons",
+      "identifier": "genai"
+    },
     "genaifill": {
       "codepoint": 57601,
       "fontFamily": "GrommetIcons",
@@ -1355,6 +1380,11 @@
       "codepoint": 57608,
       "fontFamily": "GrommetIcons",
       "identifier": "googlePlay"
+    },
+    "google-plus": {
+      "codepoint": 57976,
+      "fontFamily": "GrommetIcons",
+      "identifier": "googlePlus"
     },
     "google-wallet": {
       "codepoint": 57609,
@@ -1445,6 +1475,11 @@
       "codepoint": 57626,
       "fontFamily": "GrommetIcons",
       "identifier": "homeRounded"
+    },
+    "horton": {
+      "codepoint": 57977,
+      "fontFamily": "GrommetIcons",
+      "identifier": "horton"
     },
     "host": {
       "codepoint": 57627,
@@ -1595,6 +1630,11 @@
       "codepoint": 57656,
       "fontFamily": "GrommetIcons",
       "identifier": "language"
+    },
+    "lastfm": {
+      "codepoint": 57978,
+      "fontFamily": "GrommetIcons",
+      "identifier": "lastfm"
     },
     "launch": {
       "codepoint": 57657,
@@ -1765,6 +1805,11 @@
       "codepoint": 57690,
       "fontFamily": "GrommetIcons",
       "identifier": "menu"
+    },
+    "meta": {
+      "codepoint": 57979,
+      "fontFamily": "GrommetIcons",
+      "identifier": "meta"
     },
     "microfocus": {
       "codepoint": 57691,
@@ -2420,6 +2465,11 @@
       "codepoint": 57821,
       "fontFamily": "GrommetIcons",
       "identifier": "sort"
+    },
+    "soundcloud": {
+      "codepoint": 57980,
+      "fontFamily": "GrommetIcons",
+      "identifier": "soundcloud"
     },
     "spa": {
       "codepoint": 57822,

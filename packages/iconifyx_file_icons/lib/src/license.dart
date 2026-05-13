@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'ISC',
   licenseSpdx: 'ISC',
   licenseUrl: 'https://github.com/file-icons/icons/blob/master/LICENSE.md',
-  iconCount: 923,
+  iconCount: 930,
 );

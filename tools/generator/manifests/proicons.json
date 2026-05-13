@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/ProCode-Software/proicons/blob/main/LICENSE"
     },
-    "total": 569
+    "total": 572
   },
   "fonts": [
     {
       "family": "Proicons",
-      "nextCodepoint": 57913,
-      "iconCount": 569
+      "nextCodepoint": 57916,
+      "iconCount": 572
     }
   ],
   "icons": {
@@ -125,6 +125,11 @@
       "codepoint": 57363,
       "fontFamily": "Proicons",
       "identifier": "alignRight"
+    },
+    "align-top": {
+      "codepoint": 57913,
+      "fontFamily": "Proicons",
+      "identifier": "alignTop"
     },
     "align-vertical-centers": {
       "codepoint": 57364,
@@ -2021,6 +2026,11 @@
       "fontFamily": "Proicons",
       "identifier": "pictureInPictureEnter"
     },
+    "picture-in-picture-exit": {
+      "codepoint": 57914,
+      "fontFamily": "Proicons",
+      "identifier": "pictureInPictureExit"
+    },
     "pie-chart": {
       "codepoint": 57743,
       "fontFamily": "Proicons",
@@ -2675,6 +2685,11 @@
       "codepoint": 57873,
       "fontFamily": "Proicons",
       "identifier": "textUnderline"
+    },
+    "thumbs-down": {
+      "codepoint": 57915,
+      "fontFamily": "Proicons",
+      "identifier": "thumbsDown"
     },
     "thumbs-up": {
       "codepoint": 57874,

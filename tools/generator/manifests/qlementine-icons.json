@@ -16,17 +16,17 @@
       "spdx": "MIT",
       "url": "https://github.com/oclero/qlementine-icons/blob/master/LICENSE"
     },
-    "total": 880
+    "total": 885
   },
   "fonts": [
     {
       "family": "QlementineIcons",
-      "nextCodepoint": 58224,
-      "iconCount": 880
+      "nextCodepoint": 58229,
+      "iconCount": 885
     },
     {
       "family": "QlementineIconsSecondary",
-      "nextCodepoint": 58224,
+      "nextCodepoint": 58229,
       "iconCount": 41
     }
   ],
@@ -440,6 +440,11 @@
       "fontFamily": "QlementineIcons",
       "identifier": "bookmark24"
     },
+    "bookmark-crossed-2-16": {
+      "codepoint": 58224,
+      "fontFamily": "QlementineIcons",
+      "identifier": "bookmarkCrossed216"
+    },
     "bookmark-filled-16": {
       "codepoint": 57424,
       "fontFamily": "QlementineIcons",
@@ -726,6 +731,11 @@
       "codepoint": 57479,
       "fontFamily": "QlementineIcons",
       "identifier": "clap16"
+    },
+    "clap-24": {
+      "codepoint": 58225,
+      "fontFamily": "QlementineIcons",
+      "identifier": "clap24"
     },
     "clear-16": {
       "codepoint": 57480,
@@ -4406,6 +4416,21 @@
       "codepoint": 58210,
       "fontFamily": "QlementineIcons",
       "identifier": "x24"
+    },
+    "youtube-16": {
+      "codepoint": 58226,
+      "fontFamily": "QlementineIcons",
+      "identifier": "youtube16"
+    },
+    "youtube-24": {
+      "codepoint": 58227,
+      "fontFamily": "QlementineIcons",
+      "identifier": "youtube24"
+    },
+    "youtube-fill-16": {
+      "codepoint": 58228,
+      "fontFamily": "QlementineIcons",
+      "identifier": "youtubeFill16"
     },
     "youtube-fill-24": {
       "codepoint": 58211,

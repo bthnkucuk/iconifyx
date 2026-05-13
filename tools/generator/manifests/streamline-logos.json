@@ -16,13 +16,13 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 1350
+    "total": 1362
   },
   "fonts": [
     {
       "family": "StreamlineLogos",
-      "nextCodepoint": 58694,
-      "iconCount": 1350
+      "nextCodepoint": 58706,
+      "iconCount": 1362
     }
   ],
   "icons": {
@@ -351,6 +351,11 @@
       "fontFamily": "StreamlineLogos",
       "identifier": "alipayLogoBlock"
     },
+    "alipay-logo-solid": {
+      "codepoint": 58694,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "alipayLogoSolid"
+    },
     "alpine-linux-logo": {
       "codepoint": 57409,
       "fontFamily": "StreamlineLogos",
@@ -651,10 +656,20 @@
       "fontFamily": "StreamlineLogos",
       "identifier": "applePodcastLogoSolid"
     },
+    "arch-linux-logo": {
+      "codepoint": 58695,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "archLinuxLogo"
+    },
     "arch-linux-logo-block": {
       "codepoint": 57469,
       "fontFamily": "StreamlineLogos",
       "identifier": "archLinuxLogoBlock"
+    },
+    "arch-linux-logo-solid": {
+      "codepoint": 58696,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "archLinuxLogoSolid"
     },
     "askfm-logo": {
       "codepoint": 57470,
@@ -2416,6 +2431,11 @@
       "fontFamily": "StreamlineLogos",
       "identifier": "ffffoundingLogo"
     },
+    "ffffounding-logo-block": {
+      "codepoint": 58697,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "ffffoundingLogoBlock"
+    },
     "ffffounding-logo-solid": {
       "codepoint": 57822,
       "fontFamily": "StreamlineLogos",
@@ -3421,6 +3441,11 @@
       "fontFamily": "StreamlineLogos",
       "identifier": "iconjarLogoBlock"
     },
+    "iconjar-logo-solid": {
+      "codepoint": 58698,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "iconjarLogoSolid"
+    },
     "iconmoon-logo": {
       "codepoint": 58023,
       "fontFamily": "StreamlineLogos",
@@ -3515,6 +3540,16 @@
       "codepoint": 58041,
       "fontFamily": "StreamlineLogos",
       "identifier": "inkscapeLogo"
+    },
+    "inkscape-logo-block": {
+      "codepoint": 58699,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "inkscapeLogoBlock"
+    },
+    "inkscape-logo-solid": {
+      "codepoint": 58700,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "inkscapeLogoSolid"
     },
     "instagram-logo-1": {
       "codepoint": 58042,
@@ -4476,6 +4511,11 @@
       "fontFamily": "StreamlineLogos",
       "identifier": "microsoftYammerLogo2Block"
     },
+    "microsoft-yammer-logo-2-solid": {
+      "codepoint": 58701,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "microsoftYammerLogo2Solid"
+    },
     "midi-logo": {
       "codepoint": 58234,
       "fontFamily": "StreamlineLogos",
@@ -5021,6 +5061,11 @@
       "fontFamily": "StreamlineLogos",
       "identifier": "pinterestLogoBlock"
     },
+    "pinterest-logo-solid": {
+      "codepoint": 58702,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "pinterestLogoSolid"
+    },
     "pixabay-logo": {
       "codepoint": 58343,
       "fontFamily": "StreamlineLogos",
@@ -5070,6 +5115,11 @@
       "codepoint": 58352,
       "fontFamily": "StreamlineLogos",
       "identifier": "playstationLogo"
+    },
+    "playstation-logo-block": {
+      "codepoint": 58703,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "playstationLogoBlock"
     },
     "playstation-logo-solid": {
       "codepoint": 58353,
@@ -5205,6 +5255,11 @@
       "codepoint": 58379,
       "fontFamily": "StreamlineLogos",
       "identifier": "proxmoxLogoBlock"
+    },
+    "proxmox-logo-solid": {
+      "codepoint": 58704,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "proxmoxLogoSolid"
     },
     "qik-logo": {
       "codepoint": 58380,
@@ -5860,6 +5915,11 @@
       "codepoint": 58510,
       "fontFamily": "StreamlineLogos",
       "identifier": "telegramLogo1Block"
+    },
+    "telegram-logo-1-solid": {
+      "codepoint": 58705,
+      "fontFamily": "StreamlineLogos",
+      "identifier": "telegramLogo1Solid"
     },
     "telegram-logo-2": {
       "codepoint": 58511,

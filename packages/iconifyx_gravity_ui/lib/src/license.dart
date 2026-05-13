@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/gravity-ui/icons/blob/main/LICENSE',
-  iconCount: 777,
+  iconCount: 781,
 );

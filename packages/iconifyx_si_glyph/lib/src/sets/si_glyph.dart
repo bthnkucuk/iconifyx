@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: SmartIcons
 /// License: CC BY SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
-/// Icons: 795
+/// Icons: 799
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -495,6 +495,13 @@ class SiGlyphIcons {
   /// `axe`
   static const IconifyIconData axe = IconifyIconData(IconData(
     0xe044,
+    fontFamily: 'SiGlyph',
+    fontPackage: 'iconifyx_si_glyph',
+  ));
+
+  /// `baby`
+  static const IconifyIconData baby = IconifyIconData(IconData(
+    0xe31b,
     fontFamily: 'SiGlyph',
     fontPackage: 'iconifyx_si_glyph',
   ));
@@ -1339,6 +1346,13 @@ class SiGlyphIcons {
     fontPackage: 'iconifyx_si_glyph',
   ));
 
+  /// `car`
+  static const IconifyIconData car = IconifyIconData(IconData(
+    0xe31c,
+    fontFamily: 'SiGlyph',
+    fontPackage: 'iconifyx_si_glyph',
+  ));
+
   /// `car-garage`
   static const IconifyIconData carGarage = IconifyIconData(IconData(
     0xe0bd,
@@ -1475,6 +1489,13 @@ class SiGlyphIcons {
   /// `christmass-egg`
   static const IconifyIconData christmassEgg = IconifyIconData(IconData(
     0xe0d0,
+    fontFamily: 'SiGlyph',
+    fontPackage: 'iconifyx_si_glyph',
+  ));
+
+  /// `christmass-hat`
+  static const IconifyIconData christmassHat = IconifyIconData(IconData(
+    0xe31d,
     fontFamily: 'SiGlyph',
     fontPackage: 'iconifyx_si_glyph',
   ));
@@ -3568,6 +3589,13 @@ class SiGlyphIcons {
   /// `map-square`
   static const IconifyIconData mapSquare = IconifyIconData(IconData(
     0xe1fb,
+    fontFamily: 'SiGlyph',
+    fontPackage: 'iconifyx_si_glyph',
+  ));
+
+  /// `mark-snorker`
+  static const IconifyIconData markSnorker = IconifyIconData(IconData(
+    0xe31e,
     fontFamily: 'SiGlyph',
     fontPackage: 'iconifyx_si_glyph',
   ));

@@ -16,18 +16,18 @@
       "spdx": "CC-BY-4.0",
       "url": "https://github.com/CyCraft/pepicons/blob/dev/LICENSE"
     },
-    "total": 1276
+    "total": 1286
   },
   "fonts": [
     {
       "family": "PepiconsPrint",
-      "nextCodepoint": 58620,
-      "iconCount": 1276
+      "nextCodepoint": 58630,
+      "iconCount": 1286
     },
     {
       "family": "PepiconsPrintSecondary",
-      "nextCodepoint": 58620,
-      "iconCount": 702
+      "nextCodepoint": 58630,
+      "iconCount": 703
     }
   ],
   "icons": {
@@ -3164,6 +3164,32 @@
       "fontFamily": "PepiconsPrint",
       "identifier": "handsClappingOff"
     },
+    "handshake": {
+      "codepoint": 58620,
+      "fontFamily": "PepiconsPrint",
+      "identifier": "handshake"
+    },
+    "handshake-circle": {
+      "codepoint": 58621,
+      "fontFamily": "PepiconsPrint",
+      "identifier": "handshakeCircle"
+    },
+    "handshake-circle-filled": {
+      "codepoint": 58622,
+      "fontFamily": "PepiconsPrint",
+      "identifier": "handshakeCircleFilled",
+      "duotone": true
+    },
+    "handshake-circle-off": {
+      "codepoint": 58623,
+      "fontFamily": "PepiconsPrint",
+      "identifier": "handshakeCircleOff"
+    },
+    "handshake-off": {
+      "codepoint": 58624,
+      "fontFamily": "PepiconsPrint",
+      "identifier": "handshakeOff"
+    },
     "hash": {
       "codepoint": 57905,
       "fontFamily": "PepiconsPrint",
@@ -4092,6 +4118,31 @@
       "fontFamily": "PepiconsPrint",
       "identifier": "microphoneCircleOff",
       "duotone": true
+    },
+    "microphone-handheld": {
+      "codepoint": 58625,
+      "fontFamily": "PepiconsPrint",
+      "identifier": "microphoneHandheld"
+    },
+    "microphone-handheld-circle": {
+      "codepoint": 58626,
+      "fontFamily": "PepiconsPrint",
+      "identifier": "microphoneHandheldCircle"
+    },
+    "microphone-handheld-circle-filled": {
+      "codepoint": 58627,
+      "fontFamily": "PepiconsPrint",
+      "identifier": "microphoneHandheldCircleFilled"
+    },
+    "microphone-handheld-circle-off": {
+      "codepoint": 58628,
+      "fontFamily": "PepiconsPrint",
+      "identifier": "microphoneHandheldCircleOff"
+    },
+    "microphone-handheld-off": {
+      "codepoint": 58629,
+      "fontFamily": "PepiconsPrint",
+      "identifier": "microphoneHandheldOff"
     },
     "microphone-off": {
       "codepoint": 58069,

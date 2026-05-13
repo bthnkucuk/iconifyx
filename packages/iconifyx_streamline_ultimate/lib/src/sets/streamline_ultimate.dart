@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Streamline
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 1996
+/// Icons: 1999
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -425,6 +425,13 @@ class StreamlineUltimateIcons {
   /// `ampersand`
   static const IconifyIconData ampersand = IconifyIconData(IconData(
     0xe03a,
+    fontFamily: 'StreamlineUltimate',
+    fontPackage: 'iconifyx_streamline_ultimate',
+  ));
+
+  /// `ampersand-bold`
+  static const IconifyIconData ampersandBold = IconifyIconData(IconData(
+    0xe7cc,
     fontFamily: 'StreamlineUltimate',
     fontPackage: 'iconifyx_streamline_ultimate',
   ));
@@ -11748,6 +11755,13 @@ class StreamlineUltimateIcons {
     fontPackage: 'iconifyx_streamline_ultimate',
   ));
 
+  /// `smiley-wrong`
+  static const IconifyIconData smileyWrong = IconifyIconData(IconData(
+    0xe7cd,
+    fontFamily: 'StreamlineUltimate',
+    fontPackage: 'iconifyx_streamline_ultimate',
+  ));
+
   /// `smiley-wrong-bold`
   static const IconifyIconData smileyWrongBold = IconifyIconData(IconData(
     0xe68c,
@@ -13781,6 +13795,13 @@ class StreamlineUltimateIcons {
   /// `wine-barrel-1-bold`
   static const IconifyIconData wineBarrel1Bold = IconifyIconData(IconData(
     0xe7ae,
+    fontFamily: 'StreamlineUltimate',
+    fontPackage: 'iconifyx_streamline_ultimate',
+  ));
+
+  /// `wordpress-logo-1`
+  static const IconifyIconData wordpressLogo1 = IconifyIconData(IconData(
+    0xe7ce,
     fontFamily: 'StreamlineUltimate',
     fontPackage: 'iconifyx_streamline_ultimate',
   ));

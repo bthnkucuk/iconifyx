@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Resolve to Save Lives
 /// License: MIT — https://github.com/resolvetosavelives/healthicons/blob/main/LICENSE
-/// Icons: 3296
+/// Icons: 3373
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -485,6 +485,13 @@ class HealthiconsIcons {
     fontPackage: 'iconifyx_healthicons',
   ));
 
+  /// `agriculture-outline`
+  static const IconifyIconData agricultureOutline = IconifyIconData(IconData(
+    0xece0,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
   /// `agriculture-worker`
   static const IconifyIconData agricultureWorker = IconifyIconData(IconData(
     0xe043,
@@ -537,6 +544,13 @@ class HealthiconsIcons {
   /// `agriculture-worker2x-outline`
   static const IconifyIconData agricultureWorker2xOutline = IconifyIconData(IconData(
     0xe04a,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `agriculture2x-outline`
+  static const IconifyIconData agriculture2xOutline = IconifyIconData(IconData(
+    0xece1,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));
@@ -803,6 +817,13 @@ class HealthiconsIcons {
   /// `ancv`
   static const IconifyIconData ancv = IconifyIconData(IconData(
     0xe070,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `ancv-negative`
+  static const IconifyIconData ancvNegative = IconifyIconData(IconData(
+    0xece2,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));
@@ -1248,6 +1269,13 @@ class HealthiconsIcons {
     fontPackage: 'iconifyx_healthicons',
   ));
 
+  /// `arm-outline-24px`
+  static const IconifyIconData armOutline24px = IconifyIconData(IconData(
+    0xece3,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
   /// `artificial-intelligence`
   static const IconifyIconData artificialIntelligence = IconifyIconData(IconData(
     0xe0b0,
@@ -1563,9 +1591,30 @@ class HealthiconsIcons {
     fontPackage: 'iconifyx_healthicons',
   ));
 
+  /// `baby-0306m-negative`
+  static const IconifyIconData baby0306mNegative = IconifyIconData(IconData(
+    0xece4,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `baby-0306m-outline`
+  static const IconifyIconData baby0306mOutline = IconifyIconData(IconData(
+    0xece5,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
   /// `baby-0306m-outline-24px`
   static const IconifyIconData baby0306mOutline24px = IconifyIconData(IconData(
     0xe0dd,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `baby-0306m2x-outline`
+  static const IconifyIconData baby0306m2xOutline = IconifyIconData(IconData(
+    0xece6,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));
@@ -1626,9 +1675,37 @@ class HealthiconsIcons {
     fontPackage: 'iconifyx_healthicons',
   ));
 
+  /// `baby-female-0306m-negative`
+  static const IconifyIconData babyFemale0306mNegative = IconifyIconData(IconData(
+    0xece7,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `baby-female-0306m-outline`
+  static const IconifyIconData babyFemale0306mOutline = IconifyIconData(IconData(
+    0xece8,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `baby-female-0306m2x-outline`
+  static const IconifyIconData babyFemale0306m2xOutline = IconifyIconData(IconData(
+    0xece9,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
   /// `baby-female-0609m`
   static const IconifyIconData babyFemale0609m = IconifyIconData(IconData(
     0xe0e6,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `baby-female-0609m-negative`
+  static const IconifyIconData babyFemale0609mNegative = IconifyIconData(IconData(
+    0xecea,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));
@@ -1731,9 +1808,37 @@ class HealthiconsIcons {
     fontPackage: 'iconifyx_healthicons',
   ));
 
+  /// `baby-male-0306m-negative`
+  static const IconifyIconData babyMale0306mNegative = IconifyIconData(IconData(
+    0xeceb,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `baby-male-0306m-outline`
+  static const IconifyIconData babyMale0306mOutline = IconifyIconData(IconData(
+    0xecec,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `baby-male-0306m2x-outline`
+  static const IconifyIconData babyMale0306m2xOutline = IconifyIconData(IconData(
+    0xeced,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
   /// `baby-male-0609m`
   static const IconifyIconData babyMale0609m = IconifyIconData(IconData(
     0xe0f5,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `baby-male-0609m-negative`
+  static const IconifyIconData babyMale0609mNegative = IconifyIconData(IconData(
+    0xecee,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));
@@ -2774,6 +2879,34 @@ class HealthiconsIcons {
     fontPackage: 'iconifyx_healthicons',
   ));
 
+  /// `blood-pressure-2`
+  static const IconifyIconData bloodPressure2 = IconifyIconData(IconData(
+    0xecef,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `blood-pressure-2-negative`
+  static const IconifyIconData bloodPressure2Negative = IconifyIconData(IconData(
+    0xecf0,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `blood-pressure-2-outline`
+  static const IconifyIconData bloodPressure2Outline = IconifyIconData(IconData(
+    0xecf1,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `blood-pressure-22x-outline`
+  static const IconifyIconData bloodPressure22xOutline = IconifyIconData(IconData(
+    0xecf2,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
   /// `blood-pressure-monitor`
   static const IconifyIconData bloodPressureMonitor = IconifyIconData(IconData(
     0xe18a,
@@ -2784,6 +2917,13 @@ class HealthiconsIcons {
   /// `blood-pressure-monitor-24px`
   static const IconifyIconData bloodPressureMonitor24px = IconifyIconData(IconData(
     0xe18b,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `blood-pressure-monitor-negative`
+  static const IconifyIconData bloodPressureMonitorNegative = IconifyIconData(IconData(
+    0xecf3,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));
@@ -3071,6 +3211,13 @@ class HealthiconsIcons {
   /// `boy-1015y`
   static const IconifyIconData boy1015y = IconifyIconData(IconData(
     0xe1b4,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `boy-1015y-negative`
+  static const IconifyIconData boy1015yNegative = IconifyIconData(IconData(
+    0xecf4,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));
@@ -3558,6 +3705,13 @@ class HealthiconsIcons {
     fontPackage: 'iconifyx_healthicons',
   ));
 
+  /// `cardiogram-outline-24px`
+  static const IconifyIconData cardiogramOutline24px = IconifyIconData(IconData(
+    0xecf5,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
   /// `cardiogram2x-outline`
   static const IconifyIconData cardiogram2xOutline = IconifyIconData(IconData(
     0xe1fa,
@@ -3652,6 +3806,13 @@ class HealthiconsIcons {
   /// `cervical-cancer`
   static const IconifyIconData cervicalCancer = IconifyIconData(IconData(
     0xe207,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `cervical-cancer-24px`
+  static const IconifyIconData cervicalCancer24px = IconifyIconData(IconData(
+    0xecf6,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));
@@ -5854,6 +6015,34 @@ class HealthiconsIcons {
     fontPackage: 'iconifyx_healthicons',
   ));
 
+  /// `crutches`
+  static const IconifyIconData crutches = IconifyIconData(IconData(
+    0xecf7,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `crutches-negative`
+  static const IconifyIconData crutchesNegative = IconifyIconData(IconData(
+    0xecf8,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `crutches-outline`
+  static const IconifyIconData crutchesOutline = IconifyIconData(IconData(
+    0xecf9,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `crutches2x-outline`
+  static const IconifyIconData crutches2xOutline = IconifyIconData(IconData(
+    0xecfa,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
   /// `crying`
   static const IconifyIconData crying = IconifyIconData(IconData(
     0xe342,
@@ -6421,6 +6610,13 @@ class HealthiconsIcons {
     fontPackage: 'iconifyx_healthicons',
   ));
 
+  /// `diarrhea`
+  static const IconifyIconData diarrhea = IconifyIconData(IconData(
+    0xecfb,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
   /// `diarrhea-24px`
   static const IconifyIconData diarrhea24px = IconifyIconData(IconData(
     0xe393,
@@ -6431,6 +6627,13 @@ class HealthiconsIcons {
   /// `diarrhea-negative`
   static const IconifyIconData diarrheaNegative = IconifyIconData(IconData(
     0xe394,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `diarrhea-outline`
+  static const IconifyIconData diarrheaOutline = IconifyIconData(IconData(
+    0xecfc,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));
@@ -7121,6 +7324,20 @@ class HealthiconsIcons {
     fontPackage: 'iconifyx_healthicons',
   ));
 
+  /// `elderly-outline`
+  static const IconifyIconData elderlyOutline = IconifyIconData(IconData(
+    0xecfd,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `elderly2x-outline`
+  static const IconifyIconData elderly2xOutline = IconifyIconData(IconData(
+    0xecfe,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
   /// `electricity`
   static const IconifyIconData electricity = IconifyIconData(IconData(
     0xe3f7,
@@ -7243,6 +7460,27 @@ class HealthiconsIcons {
   /// `endocrinology2x-outline`
   static const IconifyIconData endocrinology2xOutline = IconifyIconData(IconData(
     0xe408,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `endotracheal-tube`
+  static const IconifyIconData endotrachealTube = IconifyIconData(IconData(
+    0xecff,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `endotracheal-tube-outline`
+  static const IconifyIconData endotrachealTubeOutline = IconifyIconData(IconData(
+    0xed00,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `endotracheal-tube2x-outline`
+  static const IconifyIconData endotrachealTube2xOutline = IconifyIconData(IconData(
+    0xed01,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));
@@ -7422,9 +7660,23 @@ class HealthiconsIcons {
     fontPackage: 'iconifyx_healthicons',
   ));
 
+  /// `exercise-running-outline`
+  static const IconifyIconData exerciseRunningOutline = IconifyIconData(IconData(
+    0xed02,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
   /// `exercise-walk-supported`
   static const IconifyIconData exerciseWalkSupported = IconifyIconData(IconData(
     0xe422,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `exercise-walk-supported-negative`
+  static const IconifyIconData exerciseWalkSupportedNegative = IconifyIconData(IconData(
+    0xed03,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));
@@ -7453,6 +7705,20 @@ class HealthiconsIcons {
   /// `exercise-walking-outline`
   static const IconifyIconData exerciseWalkingOutline = IconifyIconData(IconData(
     0xe426,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `exercise-weights`
+  static const IconifyIconData exerciseWeights = IconifyIconData(IconData(
+    0xed04,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `exercise-weights-negative`
+  static const IconifyIconData exerciseWeightsNegative = IconifyIconData(IconData(
+    0xed05,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));
@@ -7765,6 +8031,20 @@ class HealthiconsIcons {
     fontPackage: 'iconifyx_healthicons',
   ));
 
+  /// `female-and-male-outline`
+  static const IconifyIconData femaleAndMaleOutline = IconifyIconData(IconData(
+    0xed06,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `female-and-male2x-outline`
+  static const IconifyIconData femaleAndMale2xOutline = IconifyIconData(IconData(
+    0xed07,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
   /// `female-condom`
   static const IconifyIconData femaleCondom = IconifyIconData(IconData(
     0xe453,
@@ -7982,6 +8262,13 @@ class HealthiconsIcons {
     fontPackage: 'iconifyx_healthicons',
   ));
 
+  /// `fhir-logo-negative`
+  static const IconifyIconData fhirLogoNegative = IconifyIconData(IconData(
+    0xed08,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
   /// `fhir-logo-outline`
   static const IconifyIconData fhirLogoOutline = IconifyIconData(IconData(
     0xe472,
@@ -8097,6 +8384,13 @@ class HealthiconsIcons {
   /// `foot-outline-24px`
   static const IconifyIconData footOutline24px = IconifyIconData(IconData(
     0xe482,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `forest`
+  static const IconifyIconData forest = IconifyIconData(IconData(
+    0xed09,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));
@@ -8272,6 +8566,13 @@ class HealthiconsIcons {
   /// `gastroenterology`
   static const IconifyIconData gastroenterology = IconifyIconData(IconData(
     0xe49b,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `gastroenterology-negative`
+  static const IconifyIconData gastroenterologyNegative = IconifyIconData(IconData(
+    0xed0a,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));
@@ -8461,6 +8762,13 @@ class HealthiconsIcons {
   /// `girl-1015y`
   static const IconifyIconData girl1015y = IconifyIconData(IconData(
     0xe4b6,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `girl-1015y-negative`
+  static const IconifyIconData girl1015yNegative = IconifyIconData(IconData(
+    0xed0b,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));
@@ -8717,6 +9025,20 @@ class HealthiconsIcons {
     fontPackage: 'iconifyx_healthicons',
   ));
 
+  /// `guide-dog-outline`
+  static const IconifyIconData guideDogOutline = IconifyIconData(IconData(
+    0xed0c,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `guide-dog2x-outline`
+  static const IconifyIconData guideDog2xOutline = IconifyIconData(IconData(
+    0xed0d,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
   /// `gym`
   static const IconifyIconData gym = IconifyIconData(IconData(
     0xe4db,
@@ -8934,6 +9256,20 @@ class HealthiconsIcons {
     fontPackage: 'iconifyx_healthicons',
   ));
 
+  /// `head-circumference-outline`
+  static const IconifyIconData headCircumferenceOutline = IconifyIconData(IconData(
+    0xed0e,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `head-circumference2x-outline`
+  static const IconifyIconData headCircumference2xOutline = IconifyIconData(IconData(
+    0xed0f,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
   /// `head-outline`
   static const IconifyIconData headOutline = IconifyIconData(IconData(
     0xe4fa,
@@ -8944,6 +9280,13 @@ class HealthiconsIcons {
   /// `head-outline-24px`
   static const IconifyIconData headOutline24px = IconifyIconData(IconData(
     0xe4fb,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `headache`
+  static const IconifyIconData headache = IconifyIconData(IconData(
+    0xed10,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));
@@ -9924,6 +10267,13 @@ class HealthiconsIcons {
   /// `home-quarantine-outline`
   static const IconifyIconData homeQuarantineOutline = IconifyIconData(IconData(
     0xe587,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `home-quarantine-outline-24px`
+  static const IconifyIconData homeQuarantineOutline24px = IconifyIconData(IconData(
+    0xed11,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));
@@ -11741,6 +12091,13 @@ class HealthiconsIcons {
     fontPackage: 'iconifyx_healthicons',
   ));
 
+  /// `life-science-24px`
+  static const IconifyIconData lifeScience24px = IconifyIconData(IconData(
+    0xed12,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
   /// `life-science-outline`
   static const IconifyIconData lifeScienceOutline = IconifyIconData(IconData(
     0xe68b,
@@ -13022,6 +13379,13 @@ class HealthiconsIcons {
     fontPackage: 'iconifyx_healthicons',
   ));
 
+  /// `medicines-24px`
+  static const IconifyIconData medicines24px = IconifyIconData(IconData(
+    0xed13,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
   /// `medicines-negative`
   static const IconifyIconData medicinesNegative = IconifyIconData(IconData(
     0xe742,
@@ -13946,6 +14310,20 @@ class HealthiconsIcons {
     fontPackage: 'iconifyx_healthicons',
   ));
 
+  /// `network-4g-outline`
+  static const IconifyIconData network4gOutline = IconifyIconData(IconData(
+    0xed14,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `network-4g2x-outline`
+  static const IconifyIconData network4g2xOutline = IconifyIconData(IconData(
+    0xed15,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
   /// `network-5g`
   static const IconifyIconData network5g = IconifyIconData(IconData(
     0xe7c6,
@@ -14863,6 +15241,48 @@ class HealthiconsIcons {
     fontPackage: 'iconifyx_healthicons',
   ));
 
+  /// `outpatient`
+  static const IconifyIconData outpatient = IconifyIconData(IconData(
+    0xed16,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `outpatient-department`
+  static const IconifyIconData outpatientDepartment = IconifyIconData(IconData(
+    0xed17,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `outpatient-department-negative`
+  static const IconifyIconData outpatientDepartmentNegative = IconifyIconData(IconData(
+    0xed18,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `outpatient-department-outline`
+  static const IconifyIconData outpatientDepartmentOutline = IconifyIconData(IconData(
+    0xed19,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `outpatient-department2x-outline`
+  static const IconifyIconData outpatientDepartment2xOutline = IconifyIconData(IconData(
+    0xed1a,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `outpatient-negative`
+  static const IconifyIconData outpatientNegative = IconifyIconData(IconData(
+    0xed1b,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
   /// `outpatient-outline`
   static const IconifyIconData outpatientOutline = IconifyIconData(IconData(
     0xe849,
@@ -15636,6 +16056,13 @@ class HealthiconsIcons {
   /// `phone2x-outline`
   static const IconifyIconData phone2xOutline = IconifyIconData(IconData(
     0xe8b7,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `physical-therapy`
+  static const IconifyIconData physicalTherapy = IconifyIconData(IconData(
+    0xed1c,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));
@@ -16529,6 +16956,13 @@ class HealthiconsIcons {
     fontPackage: 'iconifyx_healthicons',
   ));
 
+  /// `pregnant-0812w-negative`
+  static const IconifyIconData pregnant0812wNegative = IconifyIconData(IconData(
+    0xed1d,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
   /// `pregnant-0812w-outline`
   static const IconifyIconData pregnant0812wOutline = IconifyIconData(IconData(
     0xe937,
@@ -16546,6 +16980,13 @@ class HealthiconsIcons {
   /// `pregnant-2426w`
   static const IconifyIconData pregnant2426w = IconifyIconData(IconData(
     0xe939,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `pregnant-2426w-negative`
+  static const IconifyIconData pregnant2426wNegative = IconifyIconData(IconData(
+    0xed1e,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));
@@ -16602,6 +17043,13 @@ class HealthiconsIcons {
   /// `pregnant-3638w`
   static const IconifyIconData pregnant3638w = IconifyIconData(IconData(
     0xe941,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `pregnant-3638w-negative`
+  static const IconifyIconData pregnant3638wNegative = IconifyIconData(IconData(
+    0xed1f,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));
@@ -16770,6 +17218,13 @@ class HealthiconsIcons {
   /// `prostate-outline`
   static const IconifyIconData prostateOutline = IconifyIconData(IconData(
     0xe959,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `prostate-outline-24px`
+  static const IconifyIconData prostateOutline24px = IconifyIconData(IconData(
+    0xed20,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));
@@ -17901,6 +18356,20 @@ class HealthiconsIcons {
     fontPackage: 'iconifyx_healthicons',
   ));
 
+  /// `resilient-and-migration-sensitive-health-system`
+  static const IconifyIconData resilientAndMigrationSensitiveHealthSystem = IconifyIconData(IconData(
+    0xed21,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `resilient-and-migration-sensitive-health-system-24px`
+  static const IconifyIconData resilientAndMigrationSensitiveHealthSystem24px = IconifyIconData(IconData(
+    0xed22,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
   /// `resilient-and-migration-sensitive-health-system-outline`
   static const IconifyIconData resilientAndMigrationSensitiveHealthSystemOutline = IconifyIconData(IconData(
     0xe9fb,
@@ -18146,6 +18615,13 @@ class HealthiconsIcons {
     fontPackage: 'iconifyx_healthicons',
   ));
 
+  /// `running-outline`
+  static const IconifyIconData runningOutline = IconifyIconData(IconData(
+    0xed23,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
   /// `running-outline-24px`
   static const IconifyIconData runningOutline24px = IconifyIconData(IconData(
     0xea1e,
@@ -18219,6 +18695,13 @@ class HealthiconsIcons {
   /// `running-water2x-outline`
   static const IconifyIconData runningWater2xOutline = IconifyIconData(IconData(
     0xea28,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `running2x-outline`
+  static const IconifyIconData running2xOutline = IconifyIconData(IconData(
+    0xed24,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));
@@ -22689,6 +23172,34 @@ class HealthiconsIcons {
     fontPackage: 'iconifyx_healthicons',
   ));
 
+  /// `weights`
+  static const IconifyIconData weights = IconifyIconData(IconData(
+    0xed25,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `weights-negative`
+  static const IconifyIconData weightsNegative = IconifyIconData(IconData(
+    0xed26,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `weights-outline`
+  static const IconifyIconData weightsOutline = IconifyIconData(IconData(
+    0xed27,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `weights2x-outline`
+  static const IconifyIconData weights2xOutline = IconifyIconData(IconData(
+    0xed28,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
   /// `wheelchair`
   static const IconifyIconData wheelchair = IconifyIconData(IconData(
     0xeca7,
@@ -22752,9 +23263,23 @@ class HealthiconsIcons {
     fontPackage: 'iconifyx_healthicons',
   ));
 
+  /// `wheelchair-outline`
+  static const IconifyIconData wheelchairOutline = IconifyIconData(IconData(
+    0xed29,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
   /// `wheelchair-outline-24px`
   static const IconifyIconData wheelchairOutline24px = IconifyIconData(IconData(
     0xecb0,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `wheelchair2x-outline`
+  static const IconifyIconData wheelchair2xOutline = IconifyIconData(IconData(
+    0xed2a,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));
@@ -22790,6 +23315,13 @@ class HealthiconsIcons {
   /// `woman-24px`
   static const IconifyIconData woman24px = IconifyIconData(IconData(
     0xecb5,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `woman-negative`
+  static const IconifyIconData womanNegative = IconifyIconData(IconData(
+    0xed2b,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));
@@ -22923,6 +23455,13 @@ class HealthiconsIcons {
   /// `xray-24px`
   static const IconifyIconData xray24px = IconifyIconData(IconData(
     0xecc8,
+    fontFamily: 'Healthicons',
+    fontPackage: 'iconifyx_healthicons',
+  ));
+
+  /// `xray-negative`
+  static const IconifyIconData xrayNegative = IconifyIconData(IconData(
+    0xed2c,
     fontFamily: 'Healthicons',
     fontPackage: 'iconifyx_healthicons',
   ));

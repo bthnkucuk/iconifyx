@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Kryston Schwarze
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 713
+/// Icons: 716
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -61,6 +61,13 @@ class CiIcons {
   /// `add-to-queue`
   static const IconifyIconData addToQueue = IconifyIconData(IconData(
     0xe006,
+    fontFamily: 'Ci',
+    fontPackage: 'iconifyx_ci',
+  ));
+
+  /// `adobe-xd`
+  static const IconifyIconData adobeXd = IconifyIconData(IconData(
+    0xe2c9,
     fontFamily: 'Ci',
     fontPackage: 'iconifyx_ci',
   ));
@@ -1447,6 +1454,13 @@ class CiIcons {
   /// `coffee-togo`
   static const IconifyIconData coffeeTogo = IconifyIconData(IconData(
     0xe0cc,
+    fontFamily: 'Ci',
+    fontPackage: 'iconifyx_ci',
+  ));
+
+  /// `color`
+  static const IconifyIconData color = IconifyIconData(IconData(
+    0xe2ca,
     fontFamily: 'Ci',
     fontPackage: 'iconifyx_ci',
   ));
@@ -3617,6 +3631,13 @@ class CiIcons {
   /// `pause-circle-outline`
   static const IconifyIconData pauseCircleOutline = IconifyIconData(IconData(
     0xe202,
+    fontFamily: 'Ci',
+    fontPackage: 'iconifyx_ci',
+  ));
+
+  /// `paypal`
+  static const IconifyIconData paypal = IconifyIconData(IconData(
+    0xe2cb,
     fontFamily: 'Ci',
     fontPackage: 'iconifyx_ci',
   ));

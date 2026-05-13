@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/codex-team/icons/blob/master/LICENSE"
     },
-    "total": 77
+    "total": 78
   },
   "fonts": [
     {
       "family": "Codex",
-      "nextCodepoint": 57421,
-      "iconCount": 77
+      "nextCodepoint": 57422,
+      "iconCount": 78
     }
   ],
   "icons": {
@@ -265,6 +265,11 @@
       "codepoint": 57391,
       "fontFamily": "Codex",
       "identifier": "listNumbered"
+    },
+    "loader": {
+      "codepoint": 57421,
+      "fontFamily": "Codex",
+      "identifier": "loader"
     },
     "marker": {
       "codepoint": 57392,

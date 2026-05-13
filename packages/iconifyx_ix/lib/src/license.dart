@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/siemens/ix-icons/blob/main/LICENSE.md',
-  iconCount: 1419,
+  iconCount: 1434,
 );

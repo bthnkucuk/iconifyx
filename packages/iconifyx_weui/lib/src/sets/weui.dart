@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: WeUI
 /// License: MIT
-/// Icons: 159
+/// Icons: 162
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -75,6 +75,13 @@ class WeuiIcons {
   /// `arrow-filled`
   static const IconifyIconData arrowFilled = IconifyIconData(IconData(
     0xe008,
+    fontFamily: 'Weui',
+    fontPackage: 'iconifyx_weui',
+  ));
+
+  /// `arrow-outlined`
+  static const IconifyIconData arrowOutlined = IconifyIconData(IconData(
+    0xe09f,
     fontFamily: 'Weui',
     fontPackage: 'iconifyx_weui',
   ));
@@ -194,6 +201,13 @@ class WeuiIcons {
   /// `close-filled`
   static const IconifyIconData closeFilled = IconifyIconData(IconData(
     0xe019,
+    fontFamily: 'Weui',
+    fontPackage: 'iconifyx_weui',
+  ));
+
+  /// `close-outlined`
+  static const IconifyIconData closeOutlined = IconifyIconData(IconData(
+    0xe0a0,
     fontFamily: 'Weui',
     fontPackage: 'iconifyx_weui',
   ));
@@ -467,6 +481,13 @@ class WeuiIcons {
   /// `imac-filled`
   static const IconifyIconData imacFilled = IconifyIconData(IconData(
     0xe040,
+    fontFamily: 'Weui',
+    fontPackage: 'iconifyx_weui',
+  ));
+
+  /// `imac-outlined`
+  static const IconifyIconData imacOutlined = IconifyIconData(IconData(
+    0xe0a1,
     fontFamily: 'Weui',
     fontPackage: 'iconifyx_weui',
   ));

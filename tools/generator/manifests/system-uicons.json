@@ -16,13 +16,13 @@
       "spdx": "Unlicense",
       "url": "https://github.com/CoreyGinnivan/system-uicons/blob/master/LICENSE"
     },
-    "total": 430
+    "total": 432
   },
   "fonts": [
     {
       "family": "SystemUicons",
-      "nextCodepoint": 57774,
-      "iconCount": 430
+      "nextCodepoint": 57776,
+      "iconCount": 432
     }
   ],
   "icons": {
@@ -700,6 +700,11 @@
       "codepoint": 57478,
       "fontFamily": "SystemUicons",
       "identifier": "document"
+    },
+    "document-justified": {
+      "codepoint": 57774,
+      "fontFamily": "SystemUicons",
+      "identifier": "documentJustified"
     },
     "document-list": {
       "codepoint": 57479,
@@ -1830,6 +1835,11 @@
       "codepoint": 57704,
       "fontFamily": "SystemUicons",
       "identifier": "star"
+    },
+    "sun": {
+      "codepoint": 57775,
+      "fontFamily": "SystemUicons",
+      "identifier": "sun"
     },
     "support": {
       "codepoint": 57705,

@@ -16,13 +16,13 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 154
+    "total": 155
   },
   "fonts": [
     {
       "family": "Fad",
-      "nextCodepoint": 57498,
-      "iconCount": 154
+      "nextCodepoint": 57499,
+      "iconCount": 155
     }
   ],
   "icons": {
@@ -440,6 +440,11 @@
       "codepoint": 57426,
       "fontFamily": "Fad",
       "identifier": "logoVst"
+    },
+    "logo-waveform": {
+      "codepoint": 57498,
+      "fontFamily": "Fad",
+      "identifier": "logoWaveform"
     },
     "loop": {
       "codepoint": 57427,

@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Christopher Downer
 /// License: CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/
-/// Icons: 456 (split across 2 fonts)
+/// Icons: 489 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -19,6 +19,13 @@ class CryptocurrencyIcons {
   /// `0xbtc`
   static const IconifyIconData n0xbtc = IconifyIconData(IconData(
     0xe000,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
+  /// `1inch`
+  static const IconifyIconData n1inch = IconifyIconData(IconData(
+    0xe1c8,
     fontFamily: 'Cryptocurrency',
     fontPackage: 'iconifyx_cryptocurrency',
   ));
@@ -149,6 +156,13 @@ class CryptocurrencyIcons {
     fontPackage: 'iconifyx_cryptocurrency',
   ));
 
+  /// `ampl`
+  static const IconifyIconData ampl = IconifyIconData(IconData(
+    0xe1c9,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
   /// `ankr`
   static const IconifyIconData ankr = IconifyIconData(IconData(
     0xe012,
@@ -201,6 +215,13 @@ class CryptocurrencyIcons {
   /// `ark`
   static const IconifyIconData ark = IconifyIconData(IconData(
     0xe019,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
+  /// `arn`
+  static const IconifyIconData arn = IconifyIconData(IconData(
+    0xe1ca,
     fontFamily: 'Cryptocurrency',
     fontPackage: 'iconifyx_cryptocurrency',
   ));
@@ -324,6 +345,13 @@ class CryptocurrencyIcons {
     fontPackage: 'iconifyx_cryptocurrency',
   ));
 
+  /// `bcc`
+  static const IconifyIconData bcc = IconifyIconData(IconData(
+    0xe1cb,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
   /// `bcd`
   static const IconifyIconData bcd = IconifyIconData(IconData(
     0xe02b,
@@ -362,6 +390,13 @@ class CryptocurrencyIcons {
   /// `bcpt`
   static const IconifyIconData bcpt = IconifyIconData(IconData(
     0xe030,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
+  /// `bdl`
+  static const IconifyIconData bdl = IconifyIconData(IconData(
+    0xe1cc,
     fontFamily: 'Cryptocurrency',
     fontPackage: 'iconifyx_cryptocurrency',
   ));
@@ -604,6 +639,13 @@ class CryptocurrencyIcons {
     fontPackage: 'iconifyx_cryptocurrency',
   ));
 
+  /// `cenz`
+  static const IconifyIconData cenz = IconifyIconData(IconData(
+    0xe1cd,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
   /// `chain`
   static const IconifyIconData chain = IconifyIconData(IconData(
     0xe053,
@@ -779,6 +821,13 @@ class CryptocurrencyIcons {
     fontPackage: 'iconifyx_cryptocurrency',
   ));
 
+  /// `ctxc`
+  static const IconifyIconData ctxc = IconifyIconData(IconData(
+    0xe1ce,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
   /// `cvc`
   static const IconifyIconData cvc = IconifyIconData(IconData(
     0xe06a,
@@ -828,9 +877,23 @@ class CryptocurrencyIcons {
     fontPackage: 'iconifyx_cryptocurrency',
   ));
 
+  /// `dcn`
+  static const IconifyIconData dcn = IconifyIconData(IconData(
+    0xe1cf,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
   /// `dcr`
   static const IconifyIconData dcr = IconifyIconData(IconData(
     0xe071,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
+  /// `deez`
+  static const IconifyIconData deez = IconifyIconData(IconData(
+    0xe1d0,
     fontFamily: 'Cryptocurrency',
     fontPackage: 'iconifyx_cryptocurrency',
   ));
@@ -1052,6 +1115,13 @@ class CryptocurrencyIcons {
     fontPackage: 'iconifyx_cryptocurrency',
   ));
 
+  /// `eng`
+  static const IconifyIconData eng = IconifyIconData(IconData(
+    0xe1d1,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
   /// `enj`
   static const IconifyIconData enj = IconifyIconData(IconData(
     0xe08f,
@@ -1062,6 +1132,13 @@ class CryptocurrencyIcons {
   /// `entrp`
   static const IconifyIconData entrp = IconifyIconData(IconData(
     0xe090,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
+  /// `eon`
+  static const IconifyIconData eon = IconifyIconData(IconData(
+    0xe1d2,
     fontFamily: 'Cryptocurrency',
     fontPackage: 'iconifyx_cryptocurrency',
   ));
@@ -1101,6 +1178,20 @@ class CryptocurrencyIcons {
     fontPackage: 'iconifyx_cryptocurrency',
   ));
 
+  /// `etc` — primary layer (full opacity)
+  static const IconifyIconData etcPrimary = IconifyIconData(IconData(
+    0xe1d3,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
+  /// `etc` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData etcSecondary = IconifyIconData(IconData(
+    0xe1d3,
+    fontFamily: 'CryptocurrencySecondary',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
   /// `eth`
   static const IconifyIconData eth = IconifyIconData(IconData(
     0xe096,
@@ -1125,6 +1216,13 @@ class CryptocurrencyIcons {
   /// `etn`
   static const IconifyIconData etn = IconifyIconData(IconData(
     0xe098,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
+  /// `etp`
+  static const IconifyIconData etp = IconifyIconData(IconData(
+    0xe1d4,
     fontFamily: 'Cryptocurrency',
     fontPackage: 'iconifyx_cryptocurrency',
   ));
@@ -1234,6 +1332,13 @@ class CryptocurrencyIcons {
     fontPackage: 'iconifyx_cryptocurrency',
   ));
 
+  /// `fun`
+  static const IconifyIconData fun = IconifyIconData(IconData(
+    0xe1d5,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
   /// `game`
   static const IconifyIconData game = IconifyIconData(IconData(
     0xe0a8,
@@ -1283,6 +1388,13 @@ class CryptocurrencyIcons {
     fontPackage: 'iconifyx_cryptocurrency',
   ));
 
+  /// `glxt`
+  static const IconifyIconData glxt = IconifyIconData(IconData(
+    0xe1d6,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
   /// `gmr`
   static const IconifyIconData gmr = IconifyIconData(IconData(
     0xe0af,
@@ -1314,6 +1426,13 @@ class CryptocurrencyIcons {
   /// `gold`
   static const IconifyIconData gold = IconifyIconData(IconData(
     0xe0b3,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
+  /// `grc`
+  static const IconifyIconData grc = IconifyIconData(IconData(
+    0xe1d7,
     fontFamily: 'Cryptocurrency',
     fontPackage: 'iconifyx_cryptocurrency',
   ));
@@ -1374,6 +1493,20 @@ class CryptocurrencyIcons {
     fontPackage: 'iconifyx_cryptocurrency',
   ));
 
+  /// `gxlt`
+  static const IconifyIconData gxlt = IconifyIconData(IconData(
+    0xe1d8,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
+  /// `gxs`
+  static const IconifyIconData gxs = IconifyIconData(IconData(
+    0xe1d9,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
   /// `gzr`
   static const IconifyIconData gzr = IconifyIconData(IconData(
     0xe0bc,
@@ -1420,6 +1553,13 @@ class CryptocurrencyIcons {
   static const IconifyIconData hpbSecondary = IconifyIconData(IconData(
     0xe0c1,
     fontFamily: 'CryptocurrencySecondary',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
+  /// `hsr`
+  static const IconifyIconData hsr = IconifyIconData(IconData(
+    0xe1da,
+    fontFamily: 'Cryptocurrency',
     fontPackage: 'iconifyx_cryptocurrency',
   ));
 
@@ -1475,6 +1615,13 @@ class CryptocurrencyIcons {
   /// `icx`
   static const IconifyIconData icx = IconifyIconData(IconData(
     0xe0c9,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
+  /// `ignis`
+  static const IconifyIconData ignis = IconifyIconData(IconData(
+    0xe1db,
     fontFamily: 'Cryptocurrency',
     fontPackage: 'iconifyx_cryptocurrency',
   ));
@@ -1724,6 +1871,13 @@ class CryptocurrencyIcons {
     fontPackage: 'iconifyx_cryptocurrency',
   ));
 
+  /// `mcap`
+  static const IconifyIconData mcap = IconifyIconData(IconData(
+    0xe1dc,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
   /// `mco`
   static const IconifyIconData mco = IconifyIconData(IconData(
     0xe0eb,
@@ -1752,6 +1906,13 @@ class CryptocurrencyIcons {
     fontPackage: 'iconifyx_cryptocurrency',
   ));
 
+  /// `meetone`
+  static const IconifyIconData meetone = IconifyIconData(IconData(
+    0xe1dd,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
   /// `mft`
   static const IconifyIconData mft = IconifyIconData(IconData(
     0xe0ef,
@@ -1762,6 +1923,13 @@ class CryptocurrencyIcons {
   /// `miota`
   static const IconifyIconData miota = IconifyIconData(IconData(
     0xe0f0,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
+  /// `mith`
+  static const IconifyIconData mith = IconifyIconData(IconData(
+    0xe1de,
     fontFamily: 'Cryptocurrency',
     fontPackage: 'iconifyx_cryptocurrency',
   ));
@@ -2144,6 +2312,13 @@ class CryptocurrencyIcons {
     fontPackage: 'iconifyx_cryptocurrency',
   ));
 
+  /// `payx`
+  static const IconifyIconData payx = IconifyIconData(IconData(
+    0xe1df,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
   /// `pgt`
   static const IconifyIconData pgt = IconifyIconData(IconData(
     0xe126,
@@ -2375,6 +2550,13 @@ class CryptocurrencyIcons {
     fontPackage: 'iconifyx_cryptocurrency',
   ));
 
+  /// `rdn`
+  static const IconifyIconData rdn = IconifyIconData(IconData(
+    0xe1e0,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
   /// `ren`
   static const IconifyIconData ren = IconifyIconData(IconData(
     0xe145,
@@ -2399,6 +2581,20 @@ class CryptocurrencyIcons {
   /// `req`
   static const IconifyIconData req = IconifyIconData(IconData(
     0xe148,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
+  /// `rhoc`
+  static const IconifyIconData rhoc = IconifyIconData(IconData(
+    0xe1e1,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
+  /// `ric`
+  static const IconifyIconData ric = IconifyIconData(IconData(
+    0xe1e2,
     fontFamily: 'Cryptocurrency',
     fontPackage: 'iconifyx_cryptocurrency',
   ));
@@ -2609,6 +2805,13 @@ class CryptocurrencyIcons {
   /// `sol`
   static const IconifyIconData sol = IconifyIconData(IconData(
     0xe166,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
+  /// `spacehbit`
+  static const IconifyIconData spacehbit = IconifyIconData(IconData(
+    0xe1e3,
     fontFamily: 'Cryptocurrency',
     fontPackage: 'iconifyx_cryptocurrency',
   ));
@@ -2886,6 +3089,13 @@ class CryptocurrencyIcons {
     fontPackage: 'iconifyx_cryptocurrency',
   ));
 
+  /// `uni`
+  static const IconifyIconData uni = IconifyIconData(IconData(
+    0xe1e4,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
   /// `unity` — primary layer (full opacity)
   static const IconifyIconData unityPrimary = IconifyIconData(IconData(
     0xe18e,
@@ -2963,6 +3173,13 @@ class CryptocurrencyIcons {
     fontPackage: 'iconifyx_cryptocurrency',
   ));
 
+  /// `vibe`
+  static const IconifyIconData vibe = IconifyIconData(IconData(
+    0xe1e5,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
   /// `vivo`
   static const IconifyIconData vivo = IconifyIconData(IconData(
     0xe198,
@@ -3033,6 +3250,13 @@ class CryptocurrencyIcons {
     fontPackage: 'iconifyx_cryptocurrency',
   ));
 
+  /// `wgr`
+  static const IconifyIconData wgr = IconifyIconData(IconData(
+    0xe1e6,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
   /// `wicc`
   static const IconifyIconData wicc = IconifyIconData(IconData(
     0xe1a2,
@@ -3092,6 +3316,13 @@ class CryptocurrencyIcons {
   /// `xbp`
   static const IconifyIconData xbp = IconifyIconData(IconData(
     0xe1a9,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
+  /// `xby`
+  static const IconifyIconData xby = IconifyIconData(IconData(
+    0xe1e7,
     fontFamily: 'Cryptocurrency',
     fontPackage: 'iconifyx_cryptocurrency',
   ));
@@ -3260,6 +3491,13 @@ class CryptocurrencyIcons {
   /// `zcl`
   static const IconifyIconData zcl = IconifyIconData(IconData(
     0xe1c1,
+    fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
+  /// `zec`
+  static const IconifyIconData zec = IconifyIconData(IconData(
+    0xe1e8,
     fontFamily: 'Cryptocurrency',
     fontPackage: 'iconifyx_cryptocurrency',
   ));

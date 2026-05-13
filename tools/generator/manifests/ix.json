@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/siemens/ix-icons/blob/main/LICENSE.md"
     },
-    "total": 1419
+    "total": 1434
   },
   "fonts": [
     {
       "family": "Ix",
-      "nextCodepoint": 58763,
-      "iconCount": 1419
+      "nextCodepoint": 58778,
+      "iconCount": 1434
     }
   ],
   "icons": {
@@ -2676,6 +2676,16 @@
       "fontFamily": "Ix",
       "identifier": "fastForwardFilled"
     },
+    "feedback": {
+      "codepoint": 58763,
+      "fontFamily": "Ix",
+      "identifier": "feedback"
+    },
+    "feedback-filled": {
+      "codepoint": 58764,
+      "fontFamily": "Ix",
+      "identifier": "feedbackFilled"
+    },
     "filter": {
       "codepoint": 57874,
       "fontFamily": "Ix",
@@ -3591,6 +3601,11 @@
       "fontFamily": "Ix",
       "identifier": "leaf"
     },
+    "legal": {
+      "codepoint": 58765,
+      "fontFamily": "Ix",
+      "identifier": "legal"
+    },
     "legal-circle": {
       "codepoint": 58057,
       "fontFamily": "Ix",
@@ -3980,6 +3995,11 @@
       "codepoint": 58134,
       "fontFamily": "Ix",
       "identifier": "map"
+    },
+    "map-alt-1": {
+      "codepoint": 58766,
+      "fontFamily": "Ix",
+      "identifier": "mapAlt1"
     },
     "map-alt-1-filled": {
       "codepoint": 58135,
@@ -4561,6 +4581,11 @@
       "fontFamily": "Ix",
       "identifier": "penCancelledFilled"
     },
+    "pen-filled": {
+      "codepoint": 58767,
+      "fontFamily": "Ix",
+      "identifier": "penFilled"
+    },
     "phone": {
       "codepoint": 58251,
       "fontFamily": "Ix",
@@ -4580,6 +4605,16 @@
       "codepoint": 58254,
       "fontFamily": "Ix",
       "identifier": "photoCameraAdd"
+    },
+    "photo-camera-cancelled": {
+      "codepoint": 58768,
+      "fontFamily": "Ix",
+      "identifier": "photoCameraCancelled"
+    },
+    "photo-camera-cancelled-filled": {
+      "codepoint": 58769,
+      "fontFamily": "Ix",
+      "identifier": "photoCameraCancelledFilled"
     },
     "photo-camera-filled": {
       "codepoint": 58255,
@@ -4790,6 +4825,11 @@
       "codepoint": 58296,
       "fontFamily": "Ix",
       "identifier": "polarPlot"
+    },
+    "polarchart": {
+      "codepoint": 58770,
+      "fontFamily": "Ix",
+      "identifier": "polarchart"
     },
     "polarchart-filled": {
       "codepoint": 58297,
@@ -5180,6 +5220,11 @@
       "codepoint": 58374,
       "fontFamily": "Ix",
       "identifier": "reorder"
+    },
+    "replace": {
+      "codepoint": 58771,
+      "fontFamily": "Ix",
+      "identifier": "replace"
     },
     "report-barchart": {
       "codepoint": 58375,
@@ -6076,6 +6121,16 @@
       "fontFamily": "Ix",
       "identifier": "surveillance"
     },
+    "surveillance-cancelled": {
+      "codepoint": 58772,
+      "fontFamily": "Ix",
+      "identifier": "surveillanceCancelled"
+    },
+    "surveillance-cancelled-filled": {
+      "codepoint": 58773,
+      "fontFamily": "Ix",
+      "identifier": "surveillanceCancelledFilled"
+    },
     "surveillance-filled": {
       "codepoint": 58554,
       "fontFamily": "Ix",
@@ -6266,6 +6321,11 @@
       "fontFamily": "Ix",
       "identifier": "tasksOpen"
     },
+    "telegram-logo": {
+      "codepoint": 58774,
+      "fontFamily": "Ix",
+      "identifier": "telegramLogo"
+    },
     "text": {
       "codepoint": 58592,
       "fontFamily": "Ix",
@@ -6365,6 +6425,11 @@
       "codepoint": 58611,
       "fontFamily": "Ix",
       "identifier": "thresholdOn"
+    },
+    "thumb-down": {
+      "codepoint": 58775,
+      "fontFamily": "Ix",
+      "identifier": "thumbDown"
     },
     "thumb-down-filled": {
       "codepoint": 58612,
@@ -6975,6 +7040,16 @@
       "codepoint": 58733,
       "fontFamily": "Ix",
       "identifier": "webcam"
+    },
+    "webcam-cancelled": {
+      "codepoint": 58776,
+      "fontFamily": "Ix",
+      "identifier": "webcamCancelled"
+    },
+    "webcam-cancelled-filled": {
+      "codepoint": 58777,
+      "fontFamily": "Ix",
+      "identifier": "webcamCancelledFilled"
     },
     "webcam-filled": {
       "codepoint": 58734,

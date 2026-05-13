@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: CyCraft
 /// License: CC BY 4.0 — https://github.com/CyCraft/pepicons/blob/dev/LICENSE
-/// Icons: 1293
+/// Icons: 1298
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -4254,6 +4254,41 @@ class PepiconsPopIcons {
   /// `house-off`
   static const IconifyIconData houseOff = IconifyIconData(IconData(
     0xe25d,
+    fontFamily: 'PepiconsPop',
+    fontPackage: 'iconifyx_pepicons_pop',
+  ));
+
+  /// `identification`
+  static const IconifyIconData identification = IconifyIconData(IconData(
+    0xe50d,
+    fontFamily: 'PepiconsPop',
+    fontPackage: 'iconifyx_pepicons_pop',
+  ));
+
+  /// `identification-circle`
+  static const IconifyIconData identificationCircle = IconifyIconData(IconData(
+    0xe50e,
+    fontFamily: 'PepiconsPop',
+    fontPackage: 'iconifyx_pepicons_pop',
+  ));
+
+  /// `identification-circle-filled`
+  static const IconifyIconData identificationCircleFilled = IconifyIconData(IconData(
+    0xe50f,
+    fontFamily: 'PepiconsPop',
+    fontPackage: 'iconifyx_pepicons_pop',
+  ));
+
+  /// `identification-circle-off`
+  static const IconifyIconData identificationCircleOff = IconifyIconData(IconData(
+    0xe510,
+    fontFamily: 'PepiconsPop',
+    fontPackage: 'iconifyx_pepicons_pop',
+  ));
+
+  /// `identification-off`
+  static const IconifyIconData identificationOff = IconifyIconData(IconData(
+    0xe511,
     fontFamily: 'PepiconsPop',
     fontPackage: 'iconifyx_pepicons_pop',
   ));

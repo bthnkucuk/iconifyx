@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: CyCraft
 /// License: CC BY 4.0 — https://github.com/CyCraft/pepicons/blob/dev/LICENSE
-/// Icons: 1276 (split across 2 fonts)
+/// Icons: 1286 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -6239,6 +6239,48 @@ class PepiconsPrintIcons {
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
+  /// `handshake`
+  static const IconifyIconData handshake = IconifyIconData(IconData(
+    0xe4fc,
+    fontFamily: 'PepiconsPrint',
+    fontPackage: 'iconifyx_pepicons_print',
+  ));
+
+  /// `handshake-circle`
+  static const IconifyIconData handshakeCircle = IconifyIconData(IconData(
+    0xe4fd,
+    fontFamily: 'PepiconsPrint',
+    fontPackage: 'iconifyx_pepicons_print',
+  ));
+
+  /// `handshake-circle-filled` — primary layer (full opacity)
+  static const IconifyIconData handshakeCircleFilledPrimary = IconifyIconData(IconData(
+    0xe4fe,
+    fontFamily: 'PepiconsPrint',
+    fontPackage: 'iconifyx_pepicons_print',
+  ));
+
+  /// `handshake-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData handshakeCircleFilledSecondary = IconifyIconData(IconData(
+    0xe4fe,
+    fontFamily: 'PepiconsPrintSecondary',
+    fontPackage: 'iconifyx_pepicons_print',
+  ));
+
+  /// `handshake-circle-off`
+  static const IconifyIconData handshakeCircleOff = IconifyIconData(IconData(
+    0xe4ff,
+    fontFamily: 'PepiconsPrint',
+    fontPackage: 'iconifyx_pepicons_print',
+  ));
+
+  /// `handshake-off`
+  static const IconifyIconData handshakeOff = IconifyIconData(IconData(
+    0xe500,
+    fontFamily: 'PepiconsPrint',
+    fontPackage: 'iconifyx_pepicons_print',
+  ));
+
   /// `hash`
   static const IconifyIconData hash = IconifyIconData(IconData(
     0xe231,
@@ -8147,6 +8189,41 @@ class PepiconsPrintIcons {
   static const IconifyIconData microphoneCircleOffSecondary = IconifyIconData(IconData(
     0xe2d4,
     fontFamily: 'PepiconsPrintSecondary',
+    fontPackage: 'iconifyx_pepicons_print',
+  ));
+
+  /// `microphone-handheld`
+  static const IconifyIconData microphoneHandheld = IconifyIconData(IconData(
+    0xe501,
+    fontFamily: 'PepiconsPrint',
+    fontPackage: 'iconifyx_pepicons_print',
+  ));
+
+  /// `microphone-handheld-circle`
+  static const IconifyIconData microphoneHandheldCircle = IconifyIconData(IconData(
+    0xe502,
+    fontFamily: 'PepiconsPrint',
+    fontPackage: 'iconifyx_pepicons_print',
+  ));
+
+  /// `microphone-handheld-circle-filled`
+  static const IconifyIconData microphoneHandheldCircleFilled = IconifyIconData(IconData(
+    0xe503,
+    fontFamily: 'PepiconsPrint',
+    fontPackage: 'iconifyx_pepicons_print',
+  ));
+
+  /// `microphone-handheld-circle-off`
+  static const IconifyIconData microphoneHandheldCircleOff = IconifyIconData(IconData(
+    0xe504,
+    fontFamily: 'PepiconsPrint',
+    fontPackage: 'iconifyx_pepicons_print',
+  ));
+
+  /// `microphone-handheld-off`
+  static const IconifyIconData microphoneHandheldOff = IconifyIconData(IconData(
+    0xe505,
+    fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 

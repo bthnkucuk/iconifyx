@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/gorango/glyphs/blob/main/license"
     },
-    "total": 3449
+    "total": 3452
   },
   "fonts": [
     {
       "family": "Glyphs",
-      "nextCodepoint": 60793,
-      "iconCount": 3449
+      "nextCodepoint": 60796,
+      "iconCount": 3452
     }
   ],
   "icons": {
@@ -15691,6 +15691,11 @@
       "fontFamily": "Glyphs",
       "identifier": "tilde"
     },
+    "tilde-bold": {
+      "codepoint": 60793,
+      "fontFamily": "Glyphs",
+      "identifier": "tildeBold"
+    },
     "tilde-duo": {
       "codepoint": 60477,
       "fontFamily": "Glyphs",
@@ -16910,6 +16915,16 @@
       "codepoint": 60720,
       "fontFamily": "Glyphs",
       "identifier": "wifi100"
+    },
+    "wifi-100-bold": {
+      "codepoint": 60794,
+      "fontFamily": "Glyphs",
+      "identifier": "wifi100Bold"
+    },
+    "wifi-100-duo": {
+      "codepoint": 60795,
+      "fontFamily": "Glyphs",
+      "identifier": "wifi100Duo"
     },
     "wifi-100-outline": {
       "codepoint": 60721,

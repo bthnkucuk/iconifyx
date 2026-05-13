@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Streamline
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 1350
+/// Icons: 1362
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -471,6 +471,13 @@ class StreamlineLogosIcons {
     fontPackage: 'iconifyx_streamline_logos',
   ));
 
+  /// `alipay-logo-solid`
+  static const IconifyIconData alipayLogoSolid = IconifyIconData(IconData(
+    0xe546,
+    fontFamily: 'StreamlineLogos',
+    fontPackage: 'iconifyx_streamline_logos',
+  ));
+
   /// `alpine-linux-logo`
   static const IconifyIconData alpineLinuxLogo = IconifyIconData(IconData(
     0xe041,
@@ -891,9 +898,23 @@ class StreamlineLogosIcons {
     fontPackage: 'iconifyx_streamline_logos',
   ));
 
+  /// `arch-linux-logo`
+  static const IconifyIconData archLinuxLogo = IconifyIconData(IconData(
+    0xe547,
+    fontFamily: 'StreamlineLogos',
+    fontPackage: 'iconifyx_streamline_logos',
+  ));
+
   /// `arch-linux-logo-block`
   static const IconifyIconData archLinuxLogoBlock = IconifyIconData(IconData(
     0xe07d,
+    fontFamily: 'StreamlineLogos',
+    fontPackage: 'iconifyx_streamline_logos',
+  ));
+
+  /// `arch-linux-logo-solid`
+  static const IconifyIconData archLinuxLogoSolid = IconifyIconData(IconData(
+    0xe548,
     fontFamily: 'StreamlineLogos',
     fontPackage: 'iconifyx_streamline_logos',
   ));
@@ -3362,6 +3383,13 @@ class StreamlineLogosIcons {
     fontPackage: 'iconifyx_streamline_logos',
   ));
 
+  /// `ffffounding-logo-block`
+  static const IconifyIconData ffffoundingLogoBlock = IconifyIconData(IconData(
+    0xe549,
+    fontFamily: 'StreamlineLogos',
+    fontPackage: 'iconifyx_streamline_logos',
+  ));
+
   /// `ffffounding-logo-solid`
   static const IconifyIconData ffffoundingLogoSolid = IconifyIconData(IconData(
     0xe1de,
@@ -4769,6 +4797,13 @@ class StreamlineLogosIcons {
     fontPackage: 'iconifyx_streamline_logos',
   ));
 
+  /// `iconjar-logo-solid`
+  static const IconifyIconData iconjarLogoSolid = IconifyIconData(IconData(
+    0xe54a,
+    fontFamily: 'StreamlineLogos',
+    fontPackage: 'iconifyx_streamline_logos',
+  ));
+
   /// `iconmoon-logo`
   static const IconifyIconData iconmoonLogo = IconifyIconData(IconData(
     0xe2a7,
@@ -4898,6 +4933,20 @@ class StreamlineLogosIcons {
   /// `inkscape-logo`
   static const IconifyIconData inkscapeLogo = IconifyIconData(IconData(
     0xe2b9,
+    fontFamily: 'StreamlineLogos',
+    fontPackage: 'iconifyx_streamline_logos',
+  ));
+
+  /// `inkscape-logo-block`
+  static const IconifyIconData inkscapeLogoBlock = IconifyIconData(IconData(
+    0xe54b,
+    fontFamily: 'StreamlineLogos',
+    fontPackage: 'iconifyx_streamline_logos',
+  ));
+
+  /// `inkscape-logo-solid`
+  static const IconifyIconData inkscapeLogoSolid = IconifyIconData(IconData(
+    0xe54c,
     fontFamily: 'StreamlineLogos',
     fontPackage: 'iconifyx_streamline_logos',
   ));
@@ -6246,6 +6295,13 @@ class StreamlineLogosIcons {
     fontPackage: 'iconifyx_streamline_logos',
   ));
 
+  /// `microsoft-yammer-logo-2-solid`
+  static const IconifyIconData microsoftYammerLogo2Solid = IconifyIconData(IconData(
+    0xe54d,
+    fontFamily: 'StreamlineLogos',
+    fontPackage: 'iconifyx_streamline_logos',
+  ));
+
   /// `midi-logo`
   static const IconifyIconData midiLogo = IconifyIconData(IconData(
     0xe37a,
@@ -7009,6 +7065,13 @@ class StreamlineLogosIcons {
     fontPackage: 'iconifyx_streamline_logos',
   ));
 
+  /// `pinterest-logo-solid`
+  static const IconifyIconData pinterestLogoSolid = IconifyIconData(IconData(
+    0xe54e,
+    fontFamily: 'StreamlineLogos',
+    fontPackage: 'iconifyx_streamline_logos',
+  ));
+
   /// `pixabay-logo`
   static const IconifyIconData pixabayLogo = IconifyIconData(IconData(
     0xe3e7,
@@ -7075,6 +7138,13 @@ class StreamlineLogosIcons {
   /// `playstation-logo`
   static const IconifyIconData playstationLogo = IconifyIconData(IconData(
     0xe3f0,
+    fontFamily: 'StreamlineLogos',
+    fontPackage: 'iconifyx_streamline_logos',
+  ));
+
+  /// `playstation-logo-block`
+  static const IconifyIconData playstationLogoBlock = IconifyIconData(IconData(
+    0xe54f,
     fontFamily: 'StreamlineLogos',
     fontPackage: 'iconifyx_streamline_logos',
   ));
@@ -7264,6 +7334,13 @@ class StreamlineLogosIcons {
   /// `proxmox-logo-block`
   static const IconifyIconData proxmoxLogoBlock = IconifyIconData(IconData(
     0xe40b,
+    fontFamily: 'StreamlineLogos',
+    fontPackage: 'iconifyx_streamline_logos',
+  ));
+
+  /// `proxmox-logo-solid`
+  static const IconifyIconData proxmoxLogoSolid = IconifyIconData(IconData(
+    0xe550,
     fontFamily: 'StreamlineLogos',
     fontPackage: 'iconifyx_streamline_logos',
   ));
@@ -8181,6 +8258,13 @@ class StreamlineLogosIcons {
   /// `telegram-logo-1-block`
   static const IconifyIconData telegramLogo1Block = IconifyIconData(IconData(
     0xe48e,
+    fontFamily: 'StreamlineLogos',
+    fontPackage: 'iconifyx_streamline_logos',
+  ));
+
+  /// `telegram-logo-1-solid`
+  static const IconifyIconData telegramLogo1Solid = IconifyIconData(IconData(
+    0xe551,
     fontFamily: 'StreamlineLogos',
     fontPackage: 'iconifyx_streamline_logos',
   ));

@@ -16,13 +16,13 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 499
+    "total": 500
   },
   "fonts": [
     {
       "family": "StreamlineCyber",
-      "nextCodepoint": 57843,
-      "iconCount": 499
+      "nextCodepoint": 57844,
+      "iconCount": 500
     }
   ],
   "icons": {
@@ -1225,6 +1225,11 @@
       "codepoint": 57583,
       "fontFamily": "StreamlineCyber",
       "identifier": "headsetUser"
+    },
+    "heart-balloon": {
+      "codepoint": 57843,
+      "fontFamily": "StreamlineCyber",
+      "identifier": "heartBalloon"
     },
     "heart-beat": {
       "codepoint": 57584,

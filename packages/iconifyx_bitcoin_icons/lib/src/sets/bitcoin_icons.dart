@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Bitcoin Design Community
 /// License: MIT — https://github.com/BitcoinDesign/Bitcoin-Icons/blob/main/LICENSE-MIT
-/// Icons: 329 (split across 2 fonts)
+/// Icons: 330 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -1006,6 +1006,13 @@ class BitcoinIconsIcons {
   /// `graph-filled`
   static const IconifyIconData graphFilled = IconifyIconData(IconData(
     0xe08c,
+    fontFamily: 'BitcoinIcons',
+    fontPackage: 'iconifyx_bitcoin_icons',
+  ));
+
+  /// `graph-outline`
+  static const IconifyIconData graphOutline = IconifyIconData(IconData(
+    0xe149,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));

@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: ByteDance
 /// License: Apache 2.0 — https://github.com/bytedance/IconPark/blob/master/LICENSE
-/// Icons: 1949
+/// Icons: 1970
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -607,6 +607,13 @@ class IconParkSolidIcons {
   /// `angry-face`
   static const IconifyIconData angryFace = IconifyIconData(IconData(
     0xe054,
+    fontFamily: 'IconParkSolid',
+    fontPackage: 'iconifyx_icon_park_solid',
+  ));
+
+  /// `anguished-face`
+  static const IconifyIconData anguishedFace = IconifyIconData(IconData(
+    0xe79f,
     fontFamily: 'IconParkSolid',
     fontPackage: 'iconifyx_icon_park_solid',
   ));
@@ -1829,6 +1836,13 @@ class IconParkSolidIcons {
     fontPackage: 'iconifyx_icon_park_solid',
   ));
 
+  /// `bus-one`
+  static const IconifyIconData busOne = IconifyIconData(IconData(
+    0xe7a0,
+    fontFamily: 'IconParkSolid',
+    fontPackage: 'iconifyx_icon_park_solid',
+  ));
+
   /// `bus-two`
   static const IconifyIconData busTwo = IconifyIconData(IconData(
     0xe103,
@@ -2305,6 +2319,13 @@ class IconParkSolidIcons {
     fontPackage: 'iconifyx_icon_park_solid',
   ));
 
+  /// `chicken-leg`
+  static const IconifyIconData chickenLeg = IconifyIconData(IconData(
+    0xe7a1,
+    fontFamily: 'IconParkSolid',
+    fontPackage: 'iconifyx_icon_park_solid',
+  ));
+
   /// `children-cap`
   static const IconifyIconData childrenCap = IconifyIconData(IconData(
     0xe147,
@@ -2767,6 +2788,13 @@ class IconParkSolidIcons {
     fontPackage: 'iconifyx_icon_park_solid',
   ));
 
+  /// `color-card`
+  static const IconifyIconData colorCard = IconifyIconData(IconData(
+    0xe7a2,
+    fontFamily: 'IconParkSolid',
+    fontPackage: 'iconifyx_icon_park_solid',
+  ));
+
   /// `color-filter`
   static const IconifyIconData colorFilter = IconifyIconData(IconData(
     0xe189,
@@ -2896,6 +2924,13 @@ class IconParkSolidIcons {
   /// `cones`
   static const IconifyIconData cones = IconifyIconData(IconData(
     0xe19b,
+    fontFamily: 'IconParkSolid',
+    fontPackage: 'iconifyx_icon_park_solid',
+  ));
+
+  /// `config`
+  static const IconifyIconData config = IconifyIconData(IconData(
+    0xe7a3,
     fontFamily: 'IconParkSolid',
     fontPackage: 'iconifyx_icon_park_solid',
   ));
@@ -3208,9 +3243,23 @@ class IconParkSolidIcons {
     fontPackage: 'iconifyx_icon_park_solid',
   ));
 
+  /// `curve-adjustment`
+  static const IconifyIconData curveAdjustment = IconifyIconData(IconData(
+    0xe7a4,
+    fontFamily: 'IconParkSolid',
+    fontPackage: 'iconifyx_icon_park_solid',
+  ));
+
   /// `cutting-one`
   static const IconifyIconData cuttingOne = IconifyIconData(IconData(
     0xe1c8,
+    fontFamily: 'IconParkSolid',
+    fontPackage: 'iconifyx_icon_park_solid',
+  ));
+
+  /// `cuvette`
+  static const IconifyIconData cuvette = IconifyIconData(IconData(
+    0xe7a5,
     fontFamily: 'IconParkSolid',
     fontPackage: 'iconifyx_icon_park_solid',
   ));
@@ -3439,6 +3488,13 @@ class IconParkSolidIcons {
     fontPackage: 'iconifyx_icon_park_solid',
   ));
 
+  /// `database-point`
+  static const IconifyIconData databasePoint = IconifyIconData(IconData(
+    0xe7a6,
+    fontFamily: 'IconParkSolid',
+    fontPackage: 'iconifyx_icon_park_solid',
+  ));
+
   /// `database-position`
   static const IconifyIconData databasePosition = IconifyIconData(IconData(
     0xe1e9,
@@ -3498,6 +3554,13 @@ class IconParkSolidIcons {
   /// `death-star`
   static const IconifyIconData deathStar = IconifyIconData(IconData(
     0xe1f1,
+    fontFamily: 'IconParkSolid',
+    fontPackage: 'iconifyx_icon_park_solid',
+  ));
+
+  /// `deer`
+  static const IconifyIconData deer = IconifyIconData(IconData(
+    0xe1f2,
     fontFamily: 'IconParkSolid',
     fontPackage: 'iconifyx_icon_park_solid',
   ));
@@ -5021,6 +5084,13 @@ class IconParkSolidIcons {
     fontPackage: 'iconifyx_icon_park_solid',
   ));
 
+  /// `fill`
+  static const IconifyIconData fill = IconifyIconData(IconData(
+    0xe7a7,
+    fontFamily: 'IconParkSolid',
+    fontPackage: 'iconifyx_icon_park_solid',
+  ));
+
   /// `filter`
   static const IconifyIconData filter = IconifyIconData(IconData(
     0xe2cc,
@@ -5038,6 +5108,13 @@ class IconParkSolidIcons {
   /// `financing`
   static const IconifyIconData financing = IconifyIconData(IconData(
     0xe2ce,
+    fontFamily: 'IconParkSolid',
+    fontPackage: 'iconifyx_icon_park_solid',
+  ));
+
+  /// `financing-one`
+  static const IconifyIconData financingOne = IconifyIconData(IconData(
+    0xe7a8,
     fontFamily: 'IconParkSolid',
     fontPackage: 'iconifyx_icon_park_solid',
   ));
@@ -5546,6 +5623,13 @@ class IconParkSolidIcons {
     fontPackage: 'iconifyx_icon_park_solid',
   ));
 
+  /// `foursquare`
+  static const IconifyIconData foursquare = IconifyIconData(IconData(
+    0xe7a9,
+    fontFamily: 'IconParkSolid',
+    fontPackage: 'iconifyx_icon_park_solid',
+  ));
+
   /// `french-fries`
   static const IconifyIconData frenchFries = IconifyIconData(IconData(
     0xe317,
@@ -5738,6 +5822,13 @@ class IconParkSolidIcons {
   /// `gift-bag`
   static const IconifyIconData giftBag = IconifyIconData(IconData(
     0xe332,
+    fontFamily: 'IconParkSolid',
+    fontPackage: 'iconifyx_icon_park_solid',
+  ));
+
+  /// `gift-box`
+  static const IconifyIconData giftBox = IconifyIconData(IconData(
+    0xe7aa,
     fontFamily: 'IconParkSolid',
     fontPackage: 'iconifyx_icon_park_solid',
   ));
@@ -8871,6 +8962,13 @@ class IconParkSolidIcons {
     fontPackage: 'iconifyx_icon_park_solid',
   ));
 
+  /// `panda`
+  static const IconifyIconData panda = IconifyIconData(IconData(
+    0xe4f2,
+    fontFamily: 'IconParkSolid',
+    fontPackage: 'iconifyx_icon_park_solid',
+  ));
+
   /// `panorama-horizontal`
   static const IconifyIconData panoramaHorizontal = IconifyIconData(IconData(
     0xe4f3,
@@ -10138,6 +10236,13 @@ class IconParkSolidIcons {
     fontPackage: 'iconifyx_icon_park_solid',
   ));
 
+  /// `refraction`
+  static const IconifyIconData refraction = IconifyIconData(IconData(
+    0xe7ab,
+    fontFamily: 'IconParkSolid',
+    fontPackage: 'iconifyx_icon_park_solid',
+  ));
+
   /// `refresh-one`
   static const IconifyIconData refreshOne = IconifyIconData(IconData(
     0xe5a8,
@@ -10649,6 +10754,13 @@ class IconParkSolidIcons {
     fontPackage: 'iconifyx_icon_park_solid',
   ));
 
+  /// `sandwich`
+  static const IconifyIconData sandwich = IconifyIconData(IconData(
+    0xe7ac,
+    fontFamily: 'IconParkSolid',
+    fontPackage: 'iconifyx_icon_park_solid',
+  ));
+
   /// `sandwich-one`
   static const IconifyIconData sandwichOne = IconifyIconData(IconData(
     0xe5f1,
@@ -10890,6 +11002,13 @@ class IconParkSolidIcons {
   /// `setting-laptop`
   static const IconifyIconData settingLaptop = IconifyIconData(IconData(
     0xe613,
+    fontFamily: 'IconParkSolid',
+    fontPackage: 'iconifyx_icon_park_solid',
+  ));
+
+  /// `setting-one`
+  static const IconifyIconData settingOne = IconifyIconData(IconData(
+    0xe7ad,
     fontFamily: 'IconParkSolid',
     fontPackage: 'iconifyx_icon_park_solid',
   ));
@@ -11608,6 +11727,13 @@ class IconParkSolidIcons {
     fontPackage: 'iconifyx_icon_park_solid',
   ));
 
+  /// `steering-wheel`
+  static const IconifyIconData steeringWheel = IconifyIconData(IconData(
+    0xe7ae,
+    fontFamily: 'IconParkSolid',
+    fontPackage: 'iconifyx_icon_park_solid',
+  ));
+
   /// `steoller`
   static const IconifyIconData steoller = IconifyIconData(IconData(
     0xe67a,
@@ -12042,6 +12168,13 @@ class IconParkSolidIcons {
     fontPackage: 'iconifyx_icon_park_solid',
   ));
 
+  /// `text-message`
+  static const IconifyIconData textMessage = IconifyIconData(IconData(
+    0xe7af,
+    fontFamily: 'IconParkSolid',
+    fontPackage: 'iconifyx_icon_park_solid',
+  ));
+
   /// `texture-two`
   static const IconifyIconData textureTwo = IconifyIconData(IconData(
     0xe6b8,
@@ -12385,6 +12518,13 @@ class IconParkSolidIcons {
     fontPackage: 'iconifyx_icon_park_solid',
   ));
 
+  /// `traditional-chinese-medicine`
+  static const IconifyIconData traditionalChineseMedicine = IconifyIconData(IconData(
+    0xe7b0,
+    fontFamily: 'IconParkSolid',
+    fontPackage: 'iconifyx_icon_park_solid',
+  ));
+
   /// `train`
   static const IconifyIconData train = IconifyIconData(IconData(
     0xe6e9,
@@ -12521,6 +12661,13 @@ class IconParkSolidIcons {
   /// `triangle-round-rectangle`
   static const IconifyIconData triangleRoundRectangle = IconifyIconData(IconData(
     0xe6fc,
+    fontFamily: 'IconParkSolid',
+    fontPackage: 'iconifyx_icon_park_solid',
+  ));
+
+  /// `triangle-ruler`
+  static const IconifyIconData triangleRuler = IconifyIconData(IconData(
+    0xe7b1,
     fontFamily: 'IconParkSolid',
     fontPackage: 'iconifyx_icon_park_solid',
   ));

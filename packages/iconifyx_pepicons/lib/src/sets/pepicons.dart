@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: CyCraft
 /// License: CC BY 4.0 — https://github.com/CyCraft/pepicons/blob/dev/LICENSE
-/// Icons: 424 (split across 2 fonts)
+/// Icons: 430 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -677,6 +677,13 @@ class PepiconsIcons {
   /// `clapperboard-print`
   static const IconifyIconData clapperboardPrint = IconifyIconData(IconData(
     0xe049,
+    fontFamily: 'Pepicons',
+    fontPackage: 'iconifyx_pepicons',
+  ));
+
+  /// `clipboard`
+  static const IconifyIconData clipboard = IconifyIconData(IconData(
+    0xe1a8,
     fontFamily: 'Pepicons',
     fontPackage: 'iconifyx_pepicons',
   ));
@@ -1430,6 +1437,13 @@ class PepiconsIcons {
     fontPackage: 'iconifyx_pepicons',
   ));
 
+  /// `flower`
+  static const IconifyIconData flower = IconifyIconData(IconData(
+    0xe1a9,
+    fontFamily: 'Pepicons',
+    fontPackage: 'iconifyx_pepicons',
+  ));
+
   /// `flower-bud`
   static const IconifyIconData flowerBud = IconifyIconData(IconData(
     0xe09b,
@@ -1668,6 +1682,20 @@ class PepiconsIcons {
     fontPackage: 'iconifyx_pepicons',
   ));
 
+  /// `handshake`
+  static const IconifyIconData handshake = IconifyIconData(IconData(
+    0xe1aa,
+    fontFamily: 'Pepicons',
+    fontPackage: 'iconifyx_pepicons',
+  ));
+
+  /// `handshake-print`
+  static const IconifyIconData handshakePrint = IconifyIconData(IconData(
+    0xe1ab,
+    fontFamily: 'Pepicons',
+    fontPackage: 'iconifyx_pepicons',
+  ));
+
   /// `hash`
   static const IconifyIconData hash = IconifyIconData(IconData(
     0xe0b5,
@@ -1763,6 +1791,13 @@ class PepiconsIcons {
   static const IconifyIconData housePrintSecondary = IconifyIconData(IconData(
     0xe0be,
     fontFamily: 'PepiconsSecondary',
+    fontPackage: 'iconifyx_pepicons',
+  ));
+
+  /// `identification`
+  static const IconifyIconData identification = IconifyIconData(IconData(
+    0xe1ac,
+    fontFamily: 'Pepicons',
     fontPackage: 'iconifyx_pepicons',
   ));
 
@@ -3519,6 +3554,13 @@ class PepiconsIcons {
   /// `text-bubble`
   static const IconifyIconData textBubble = IconifyIconData(IconData(
     0xe181,
+    fontFamily: 'Pepicons',
+    fontPackage: 'iconifyx_pepicons',
+  ));
+
+  /// `text-bubble-print`
+  static const IconifyIconData textBubblePrint = IconifyIconData(IconData(
+    0xe1ad,
     fontFamily: 'Pepicons',
     fontPackage: 'iconifyx_pepicons',
   ));

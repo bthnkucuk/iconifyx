@@ -4,4 +4,4 @@ This package bundles the Iconify icon set "weui" (WeUI Icon).
 
 - Author: WeUI (https://github.com/weui/weui-icon)
 - License: MIT (SPDX: MIT)
-- Icon count: 159
+- Icon count: 162

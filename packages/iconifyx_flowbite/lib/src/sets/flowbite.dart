@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Themesberg
 /// License: MIT — https://github.com/themesberg/flowbite-icons/blob/main/LICENSE
-/// Icons: 832
+/// Icons: 833
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -4968,6 +4968,13 @@ class FlowbiteIcons {
   /// `star-half-outline`
   static const IconifyIconData starHalfOutline = IconifyIconData(IconData(
     0xe2c3,
+    fontFamily: 'Flowbite',
+    fontPackage: 'iconifyx_flowbite',
+  ));
+
+  /// `star-half-solid`
+  static const IconifyIconData starHalfSolid = IconifyIconData(IconData(
+    0xe340,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));

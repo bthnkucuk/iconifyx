@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: CyCraft
 /// License: CC BY 4.0 — https://github.com/CyCraft/pepicons/blob/dev/LICENSE
-/// Icons: 1263
+/// Icons: 1275
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -1181,6 +1181,13 @@ class PepiconsPencilIcons {
   /// `cellphone-eye-circle`
   static const IconifyIconData cellphoneEyeCircle = IconifyIconData(IconData(
     0xe0a6,
+    fontFamily: 'PepiconsPencil',
+    fontPackage: 'iconifyx_pepicons_pencil',
+  ));
+
+  /// `cellphone-eye-circle-filled`
+  static const IconifyIconData cellphoneEyeCircleFilled = IconifyIconData(IconData(
+    0xe4ef,
     fontFamily: 'PepiconsPencil',
     fontPackage: 'iconifyx_pepicons_pencil',
   ));
@@ -3929,6 +3936,41 @@ class PepiconsPencilIcons {
     fontPackage: 'iconifyx_pepicons_pencil',
   ));
 
+  /// `handshake`
+  static const IconifyIconData handshake = IconifyIconData(IconData(
+    0xe4f0,
+    fontFamily: 'PepiconsPencil',
+    fontPackage: 'iconifyx_pepicons_pencil',
+  ));
+
+  /// `handshake-circle`
+  static const IconifyIconData handshakeCircle = IconifyIconData(IconData(
+    0xe4f1,
+    fontFamily: 'PepiconsPencil',
+    fontPackage: 'iconifyx_pepicons_pencil',
+  ));
+
+  /// `handshake-circle-filled`
+  static const IconifyIconData handshakeCircleFilled = IconifyIconData(IconData(
+    0xe4f2,
+    fontFamily: 'PepiconsPencil',
+    fontPackage: 'iconifyx_pepicons_pencil',
+  ));
+
+  /// `handshake-circle-off`
+  static const IconifyIconData handshakeCircleOff = IconifyIconData(IconData(
+    0xe4f3,
+    fontFamily: 'PepiconsPencil',
+    fontPackage: 'iconifyx_pepicons_pencil',
+  ));
+
+  /// `handshake-off`
+  static const IconifyIconData handshakeOff = IconifyIconData(IconData(
+    0xe4f4,
+    fontFamily: 'PepiconsPencil',
+    fontPackage: 'iconifyx_pepicons_pencil',
+  ));
+
   /// `hash`
   static const IconifyIconData hash = IconifyIconData(IconData(
     0xe22f,
@@ -5077,6 +5119,41 @@ class PepiconsPencilIcons {
     fontPackage: 'iconifyx_pepicons_pencil',
   ));
 
+  /// `microphone-handheld`
+  static const IconifyIconData microphoneHandheld = IconifyIconData(IconData(
+    0xe4f5,
+    fontFamily: 'PepiconsPencil',
+    fontPackage: 'iconifyx_pepicons_pencil',
+  ));
+
+  /// `microphone-handheld-circle`
+  static const IconifyIconData microphoneHandheldCircle = IconifyIconData(IconData(
+    0xe4f6,
+    fontFamily: 'PepiconsPencil',
+    fontPackage: 'iconifyx_pepicons_pencil',
+  ));
+
+  /// `microphone-handheld-circle-filled`
+  static const IconifyIconData microphoneHandheldCircleFilled = IconifyIconData(IconData(
+    0xe4f7,
+    fontFamily: 'PepiconsPencil',
+    fontPackage: 'iconifyx_pepicons_pencil',
+  ));
+
+  /// `microphone-handheld-circle-off`
+  static const IconifyIconData microphoneHandheldCircleOff = IconifyIconData(IconData(
+    0xe4f8,
+    fontFamily: 'PepiconsPencil',
+    fontPackage: 'iconifyx_pepicons_pencil',
+  ));
+
+  /// `microphone-handheld-off`
+  static const IconifyIconData microphoneHandheldOff = IconifyIconData(IconData(
+    0xe4f9,
+    fontFamily: 'PepiconsPencil',
+    fontPackage: 'iconifyx_pepicons_pencil',
+  ));
+
   /// `microphone-off`
   static const IconifyIconData microphoneOff = IconifyIconData(IconData(
     0xe2d3,
@@ -5227,6 +5304,13 @@ class PepiconsPencilIcons {
   /// `monitor-loop-circle`
   static const IconifyIconData monitorLoopCircle = IconifyIconData(IconData(
     0xe2e8,
+    fontFamily: 'PepiconsPencil',
+    fontPackage: 'iconifyx_pepicons_pencil',
+  ));
+
+  /// `monitor-loop-circle-filled`
+  static const IconifyIconData monitorLoopCircleFilled = IconifyIconData(IconData(
+    0xe4fa,
     fontFamily: 'PepiconsPencil',
     fontPackage: 'iconifyx_pepicons_pencil',
   ));

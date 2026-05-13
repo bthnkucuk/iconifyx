@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: @fefanto
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 154
+/// Icons: 155
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -593,6 +593,13 @@ class FadIcons {
   /// `logo-vst`
   static const IconifyIconData logoVst = IconifyIconData(IconData(
     0xe052,
+    fontFamily: 'Fad',
+    fontPackage: 'iconifyx_fad',
+  ));
+
+  /// `logo-waveform`
+  static const IconifyIconData logoWaveform = IconifyIconData(IconData(
+    0xe09a,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));

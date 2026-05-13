@@ -36,32 +36,65 @@ export function iconToSvg(icon: ResolvedIcon): string {
 }
 
 /**
- * Heuristic detection of stroke-based icons. svgicons2svgfont treats
- * strokes as zero-width and the resulting glyphs will be invisible.
+ * Heuristic detection of icon sets whose bodies need rasterize-then-trace
+ * pre-processing before font conversion. Two failure modes both call for
+ * the same fix (oslllo-svg-fixer's rasterize + Potrace trace pipeline):
  *
- * Iconify icon bodies expose stroke attribution explicitly. If we see
- * `stroke="currentColor"` (or any stroke= attr) AND no fill, we flag it.
+ * 1. **Stroke-only icons.** svgicons2svgfont treats strokes as zero-width
+ *    geometry; an outlined circle renders as a solid filled disc. Bodies
+ *    with `stroke=...` and no fill (Lucide, Tabler, etc.).
  *
- * NOTE: this is a SET-LEVEL heuristic — we sample the first N icons and
- * decide whether to run the stroke→fill pass for the whole set. Per-icon
- * processing of 300k icons would be too slow.
+ * 2. **`fill-rule="evenodd"` paths.** TTF glyph rendering uses non-zero
+ *    winding by default; an SVG path designed for even-odd evaluation
+ *    loses its internal cutouts and renders as a solid silhouette
+ *    (gravity-ui's `car`, `bug`, anything with internal holes).
+ *
+ * Auto-detection inspects a sample of the set and returns a numeric
+ * "needs-rasterize" ratio. Callers compare against a threshold and apply
+ * stroke-fill when warranted.
  */
-export function isLikelyStrokeSet(
+export interface RasterFillReason {
+  /** Fraction of sampled icons that look stroke-only. */
+  strokeRatio: number;
+  /** Fraction of sampled icons that use `fill-rule="evenodd"`. */
+  evenOddRatio: number;
+  /** Combined ratio (stroke or evenodd). */
+  combinedRatio: number;
+}
+
+export function rasterFillSignal(
   icons: readonly ResolvedIcon[],
-  sampleSize = 20
-): boolean {
+  sampleSize = 25
+): RasterFillReason {
   const sample = icons.slice(0, sampleSize);
-  if (sample.length === 0) return false;
+  if (sample.length === 0) {
+    return { strokeRatio: 0, evenOddRatio: 0, combinedRatio: 0 };
+  }
 
   let strokeCount = 0;
+  let evenOddCount = 0;
+  let combinedCount = 0;
+  const fillRuleRe = /fill-rule\s*=\s*["']?evenodd["']?/;
   for (const ic of sample) {
     const b = ic.body;
     const hasStroke = /stroke=/.test(b);
     const hasFillNone = /fill=["']?none["']?/.test(b) || !/fill=/.test(b);
-    if (hasStroke && hasFillNone) strokeCount += 1;
+    const strokeOnly = hasStroke && hasFillNone;
+    const evenOdd = fillRuleRe.test(b);
+    if (strokeOnly) strokeCount += 1;
+    if (evenOdd) evenOddCount += 1;
+    if (strokeOnly || evenOdd) combinedCount += 1;
   }
-  // 70%+ of sampled icons are stroke-only → treat the whole set as stroke.
-  return strokeCount / sample.length >= 0.7;
+  return {
+    strokeRatio: strokeCount / sample.length,
+    evenOddRatio: evenOddCount / sample.length,
+    combinedRatio: combinedCount / sample.length,
+  };
+}
+
+/** Back-compat shim — prefer rasterFillSignal for diagnostics. */
+export function isLikelyStrokeSet(icons: readonly ResolvedIcon[]): boolean {
+  return rasterFillSignal(icons).strokeRatio >= 0.7;
 }
 
 /**

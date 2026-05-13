@@ -16,13 +16,13 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 1526
+    "total": 1541
   },
   "fonts": [
     {
       "family": "LetsIcons",
-      "nextCodepoint": 58870,
-      "iconCount": 1526
+      "nextCodepoint": 58885,
+      "iconCount": 1541
     }
   ],
   "icons": {
@@ -145,6 +145,11 @@
       "codepoint": 57367,
       "fontFamily": "LetsIcons",
       "identifier": "addSquareFill"
+    },
+    "add-square-light": {
+      "codepoint": 58870,
+      "fontFamily": "LetsIcons",
+      "identifier": "addSquareLight"
     },
     "alarm": {
       "codepoint": 57368,
@@ -1301,6 +1306,11 @@
       "fontFamily": "LetsIcons",
       "identifier": "candlestickDuotoneLine"
     },
+    "candlestick-light": {
+      "codepoint": 58871,
+      "fontFamily": "LetsIcons",
+      "identifier": "candlestickLight"
+    },
     "carbs": {
       "codepoint": 57599,
       "fontFamily": "LetsIcons",
@@ -2016,6 +2026,16 @@
       "fontFamily": "LetsIcons",
       "identifier": "copy"
     },
+    "copy-alt": {
+      "codepoint": 58872,
+      "fontFamily": "LetsIcons",
+      "identifier": "copyAlt"
+    },
+    "copy-alt-light": {
+      "codepoint": 58873,
+      "fontFamily": "LetsIcons",
+      "identifier": "copyAltLight"
+    },
     "copy-light": {
       "codepoint": 57742,
       "fontFamily": "LetsIcons",
@@ -2275,6 +2295,16 @@
       "codepoint": 57793,
       "fontFamily": "LetsIcons",
       "identifier": "deskLight"
+    },
+    "desktop": {
+      "codepoint": 58874,
+      "fontFamily": "LetsIcons",
+      "identifier": "desktop"
+    },
+    "desktop-light": {
+      "codepoint": 58875,
+      "fontFamily": "LetsIcons",
+      "identifier": "desktopLight"
     },
     "dimond": {
       "codepoint": 57794,
@@ -3231,6 +3261,11 @@
       "fontFamily": "LetsIcons",
       "identifier": "folderCopyFill"
     },
+    "folder-copy-light": {
+      "codepoint": 58876,
+      "fontFamily": "LetsIcons",
+      "identifier": "folderCopyLight"
+    },
     "folder-del": {
       "codepoint": 57985,
       "fontFamily": "LetsIcons",
@@ -3275,6 +3310,11 @@
       "codepoint": 57993,
       "fontFamily": "LetsIcons",
       "identifier": "folderDublicateFill"
+    },
+    "folder-dublicate-light": {
+      "codepoint": 58877,
+      "fontFamily": "LetsIcons",
+      "identifier": "folderDublicateLight"
     },
     "folder-duotone-fill": {
       "codepoint": 57994,
@@ -4706,6 +4746,16 @@
       "fontFamily": "LetsIcons",
       "identifier": "micLight"
     },
+    "mobile": {
+      "codepoint": 58878,
+      "fontFamily": "LetsIcons",
+      "identifier": "mobile"
+    },
+    "mobile-light": {
+      "codepoint": 58879,
+      "fontFamily": "LetsIcons",
+      "identifier": "mobileLight"
+    },
     "molecule": {
       "codepoint": 58280,
       "fontFamily": "LetsIcons",
@@ -5686,6 +5736,11 @@
       "fontFamily": "LetsIcons",
       "identifier": "roadAlt"
     },
+    "road-alt-duotone": {
+      "codepoint": 58880,
+      "fontFamily": "LetsIcons",
+      "identifier": "roadAltDuotone"
+    },
     "road-alt-duotone-line": {
       "codepoint": 58476,
       "fontFamily": "LetsIcons",
@@ -5920,6 +5975,11 @@
       "codepoint": 58522,
       "fontFamily": "LetsIcons",
       "identifier": "send"
+    },
+    "send-duotone": {
+      "codepoint": 58881,
+      "fontFamily": "LetsIcons",
+      "identifier": "sendDuotone"
     },
     "send-duotone-line": {
       "codepoint": 58523,
@@ -7416,6 +7476,16 @@
       "fontFamily": "LetsIcons",
       "identifier": "viewHide"
     },
+    "view-hide-duotone": {
+      "codepoint": 58882,
+      "fontFamily": "LetsIcons",
+      "identifier": "viewHideDuotone"
+    },
+    "view-hide-duotone-line": {
+      "codepoint": 58883,
+      "fontFamily": "LetsIcons",
+      "identifier": "viewHideDuotoneLine"
+    },
     "view-hide-fill": {
       "codepoint": 58822,
       "fontFamily": "LetsIcons",
@@ -7510,6 +7580,11 @@
       "codepoint": 58840,
       "fontFamily": "LetsIcons",
       "identifier": "watchAlt"
+    },
+    "watch-alt-light": {
+      "codepoint": 58884,
+      "fontFamily": "LetsIcons",
+      "identifier": "watchAltLight"
     },
     "watch-light": {
       "codepoint": 58841,

@@ -16,16 +16,3686 @@
       "spdx": "MIT",
       "url": "https://github.com/cyberalien/line-md/blob/main/license.txt"
     },
-    "total": 2
+    "total": 1279
   },
   "fonts": [
     {
       "family": "LineMd",
-      "nextCodepoint": 57346,
-      "iconCount": 2
+      "nextCodepoint": 58623,
+      "iconCount": 1279
     }
   ],
   "icons": {
+    "account": {
+      "codepoint": 57346,
+      "fontFamily": "LineMd",
+      "identifier": "account"
+    },
+    "account-add": {
+      "codepoint": 57347,
+      "fontFamily": "LineMd",
+      "identifier": "accountAdd"
+    },
+    "account-alert": {
+      "codepoint": 57348,
+      "fontFamily": "LineMd",
+      "identifier": "accountAlert"
+    },
+    "account-alert-loop": {
+      "codepoint": 57349,
+      "fontFamily": "LineMd",
+      "identifier": "accountAlertLoop"
+    },
+    "account-delete": {
+      "codepoint": 57350,
+      "fontFamily": "LineMd",
+      "identifier": "accountDelete"
+    },
+    "account-remove": {
+      "codepoint": 57351,
+      "fontFamily": "LineMd",
+      "identifier": "accountRemove"
+    },
+    "account-small": {
+      "codepoint": 57352,
+      "fontFamily": "LineMd",
+      "identifier": "accountSmall"
+    },
+    "alert": {
+      "codepoint": 57353,
+      "fontFamily": "LineMd",
+      "identifier": "alert"
+    },
+    "alert-circle": {
+      "codepoint": 57354,
+      "fontFamily": "LineMd",
+      "identifier": "alertCircle"
+    },
+    "alert-circle-loop": {
+      "codepoint": 57355,
+      "fontFamily": "LineMd",
+      "identifier": "alertCircleLoop"
+    },
+    "alert-circle-twotone": {
+      "codepoint": 57356,
+      "fontFamily": "LineMd",
+      "identifier": "alertCircleTwotone"
+    },
+    "alert-circle-twotone-loop": {
+      "codepoint": 57357,
+      "fontFamily": "LineMd",
+      "identifier": "alertCircleTwotoneLoop"
+    },
+    "alert-loop": {
+      "codepoint": 57358,
+      "fontFamily": "LineMd",
+      "identifier": "alertLoop"
+    },
+    "alert-square": {
+      "codepoint": 57359,
+      "fontFamily": "LineMd",
+      "identifier": "alertSquare"
+    },
+    "alert-square-loop": {
+      "codepoint": 57360,
+      "fontFamily": "LineMd",
+      "identifier": "alertSquareLoop"
+    },
+    "alert-square-twotone": {
+      "codepoint": 57361,
+      "fontFamily": "LineMd",
+      "identifier": "alertSquareTwotone"
+    },
+    "alert-square-twotone-loop": {
+      "codepoint": 57362,
+      "fontFamily": "LineMd",
+      "identifier": "alertSquareTwotoneLoop"
+    },
+    "alert-twotone": {
+      "codepoint": 57363,
+      "fontFamily": "LineMd",
+      "identifier": "alertTwotone"
+    },
+    "alert-twotone-loop": {
+      "codepoint": 57364,
+      "fontFamily": "LineMd",
+      "identifier": "alertTwotoneLoop"
+    },
+    "align-center": {
+      "codepoint": 57365,
+      "fontFamily": "LineMd",
+      "identifier": "alignCenter"
+    },
+    "align-justify": {
+      "codepoint": 57366,
+      "fontFamily": "LineMd",
+      "identifier": "alignJustify"
+    },
+    "align-left": {
+      "codepoint": 57367,
+      "fontFamily": "LineMd",
+      "identifier": "alignLeft"
+    },
+    "align-right": {
+      "codepoint": 57368,
+      "fontFamily": "LineMd",
+      "identifier": "alignRight"
+    },
+    "arrow-align-bottom": {
+      "codepoint": 57369,
+      "fontFamily": "LineMd",
+      "identifier": "arrowAlignBottom"
+    },
+    "arrow-align-center": {
+      "codepoint": 57370,
+      "fontFamily": "LineMd",
+      "identifier": "arrowAlignCenter"
+    },
+    "arrow-align-left": {
+      "codepoint": 57371,
+      "fontFamily": "LineMd",
+      "identifier": "arrowAlignLeft"
+    },
+    "arrow-align-middle": {
+      "codepoint": 57372,
+      "fontFamily": "LineMd",
+      "identifier": "arrowAlignMiddle"
+    },
+    "arrow-align-right": {
+      "codepoint": 57373,
+      "fontFamily": "LineMd",
+      "identifier": "arrowAlignRight"
+    },
+    "arrow-align-top": {
+      "codepoint": 57374,
+      "fontFamily": "LineMd",
+      "identifier": "arrowAlignTop"
+    },
+    "arrow-close-down": {
+      "codepoint": 57375,
+      "fontFamily": "LineMd",
+      "identifier": "arrowCloseDown"
+    },
+    "arrow-close-left": {
+      "codepoint": 57376,
+      "fontFamily": "LineMd",
+      "identifier": "arrowCloseLeft"
+    },
+    "arrow-close-right": {
+      "codepoint": 57377,
+      "fontFamily": "LineMd",
+      "identifier": "arrowCloseRight"
+    },
+    "arrow-close-up": {
+      "codepoint": 57378,
+      "fontFamily": "LineMd",
+      "identifier": "arrowCloseUp"
+    },
+    "arrow-down": {
+      "codepoint": 57379,
+      "fontFamily": "LineMd",
+      "identifier": "arrowDown"
+    },
+    "arrow-down-circle": {
+      "codepoint": 57380,
+      "fontFamily": "LineMd",
+      "identifier": "arrowDownCircle"
+    },
+    "arrow-down-circle-twotone": {
+      "codepoint": 57381,
+      "fontFamily": "LineMd",
+      "identifier": "arrowDownCircleTwotone"
+    },
+    "arrow-down-square": {
+      "codepoint": 57382,
+      "fontFamily": "LineMd",
+      "identifier": "arrowDownSquare"
+    },
+    "arrow-down-square-twotone": {
+      "codepoint": 57383,
+      "fontFamily": "LineMd",
+      "identifier": "arrowDownSquareTwotone"
+    },
+    "arrow-left": {
+      "codepoint": 57384,
+      "fontFamily": "LineMd",
+      "identifier": "arrowLeft"
+    },
+    "arrow-left-circle": {
+      "codepoint": 57385,
+      "fontFamily": "LineMd",
+      "identifier": "arrowLeftCircle"
+    },
+    "arrow-left-circle-twotone": {
+      "codepoint": 57386,
+      "fontFamily": "LineMd",
+      "identifier": "arrowLeftCircleTwotone"
+    },
+    "arrow-left-square": {
+      "codepoint": 57387,
+      "fontFamily": "LineMd",
+      "identifier": "arrowLeftSquare"
+    },
+    "arrow-left-square-twotone": {
+      "codepoint": 57388,
+      "fontFamily": "LineMd",
+      "identifier": "arrowLeftSquareTwotone"
+    },
+    "arrow-long-diagonal": {
+      "codepoint": 57389,
+      "fontFamily": "LineMd",
+      "identifier": "arrowLongDiagonal"
+    },
+    "arrow-long-diagonal-rotated": {
+      "codepoint": 57390,
+      "fontFamily": "LineMd",
+      "identifier": "arrowLongDiagonalRotated"
+    },
+    "arrow-open-down": {
+      "codepoint": 57391,
+      "fontFamily": "LineMd",
+      "identifier": "arrowOpenDown"
+    },
+    "arrow-open-left": {
+      "codepoint": 57392,
+      "fontFamily": "LineMd",
+      "identifier": "arrowOpenLeft"
+    },
+    "arrow-open-right": {
+      "codepoint": 57393,
+      "fontFamily": "LineMd",
+      "identifier": "arrowOpenRight"
+    },
+    "arrow-open-up": {
+      "codepoint": 57394,
+      "fontFamily": "LineMd",
+      "identifier": "arrowOpenUp"
+    },
+    "arrow-right": {
+      "codepoint": 57395,
+      "fontFamily": "LineMd",
+      "identifier": "arrowRight"
+    },
+    "arrow-right-circle": {
+      "codepoint": 57396,
+      "fontFamily": "LineMd",
+      "identifier": "arrowRightCircle"
+    },
+    "arrow-right-circle-twotone": {
+      "codepoint": 57397,
+      "fontFamily": "LineMd",
+      "identifier": "arrowRightCircleTwotone"
+    },
+    "arrow-right-square": {
+      "codepoint": 57398,
+      "fontFamily": "LineMd",
+      "identifier": "arrowRightSquare"
+    },
+    "arrow-right-square-twotone": {
+      "codepoint": 57399,
+      "fontFamily": "LineMd",
+      "identifier": "arrowRightSquareTwotone"
+    },
+    "arrow-small-down": {
+      "codepoint": 57400,
+      "fontFamily": "LineMd",
+      "identifier": "arrowSmallDown"
+    },
+    "arrow-small-left": {
+      "codepoint": 57401,
+      "fontFamily": "LineMd",
+      "identifier": "arrowSmallLeft"
+    },
+    "arrow-small-right": {
+      "codepoint": 57402,
+      "fontFamily": "LineMd",
+      "identifier": "arrowSmallRight"
+    },
+    "arrow-small-up": {
+      "codepoint": 57403,
+      "fontFamily": "LineMd",
+      "identifier": "arrowSmallUp"
+    },
+    "arrow-up": {
+      "codepoint": 57404,
+      "fontFamily": "LineMd",
+      "identifier": "arrowUp"
+    },
+    "arrow-up-circle": {
+      "codepoint": 57405,
+      "fontFamily": "LineMd",
+      "identifier": "arrowUpCircle"
+    },
+    "arrow-up-circle-twotone": {
+      "codepoint": 57406,
+      "fontFamily": "LineMd",
+      "identifier": "arrowUpCircleTwotone"
+    },
+    "arrow-up-square": {
+      "codepoint": 57407,
+      "fontFamily": "LineMd",
+      "identifier": "arrowUpSquare"
+    },
+    "arrow-up-square-twotone": {
+      "codepoint": 57408,
+      "fontFamily": "LineMd",
+      "identifier": "arrowUpSquareTwotone"
+    },
+    "arrows-diagonal": {
+      "codepoint": 57409,
+      "fontFamily": "LineMd",
+      "identifier": "arrowsDiagonal"
+    },
+    "arrows-diagonal-rotated": {
+      "codepoint": 57410,
+      "fontFamily": "LineMd",
+      "identifier": "arrowsDiagonalRotated"
+    },
+    "arrows-horizontal": {
+      "codepoint": 57411,
+      "fontFamily": "LineMd",
+      "identifier": "arrowsHorizontal"
+    },
+    "arrows-horizontal-alt": {
+      "codepoint": 57412,
+      "fontFamily": "LineMd",
+      "identifier": "arrowsHorizontalAlt"
+    },
+    "arrows-long-diagonal": {
+      "codepoint": 57413,
+      "fontFamily": "LineMd",
+      "identifier": "arrowsLongDiagonal"
+    },
+    "arrows-long-diagonal-rotated": {
+      "codepoint": 57414,
+      "fontFamily": "LineMd",
+      "identifier": "arrowsLongDiagonalRotated"
+    },
+    "arrows-vertical": {
+      "codepoint": 57415,
+      "fontFamily": "LineMd",
+      "identifier": "arrowsVertical"
+    },
+    "arrows-vertical-alt": {
+      "codepoint": 57416,
+      "fontFamily": "LineMd",
+      "identifier": "arrowsVerticalAlt"
+    },
+    "at": {
+      "codepoint": 57417,
+      "fontFamily": "LineMd",
+      "identifier": "at"
+    },
+    "backup-restore": {
+      "codepoint": 57418,
+      "fontFamily": "LineMd",
+      "identifier": "backupRestore"
+    },
+    "beer": {
+      "codepoint": 57419,
+      "fontFamily": "LineMd",
+      "identifier": "beer"
+    },
+    "beer-alt": {
+      "codepoint": 57420,
+      "fontFamily": "LineMd",
+      "identifier": "beerAlt"
+    },
+    "beer-alt-filled": {
+      "codepoint": 57421,
+      "fontFamily": "LineMd",
+      "identifier": "beerAltFilled"
+    },
+    "beer-alt-filled-loop": {
+      "codepoint": 57422,
+      "fontFamily": "LineMd",
+      "identifier": "beerAltFilledLoop"
+    },
+    "beer-alt-loop": {
+      "codepoint": 57423,
+      "fontFamily": "LineMd",
+      "identifier": "beerAltLoop"
+    },
+    "beer-alt-solid": {
+      "codepoint": 57424,
+      "fontFamily": "LineMd",
+      "identifier": "beerAltSolid"
+    },
+    "beer-alt-solid-loop": {
+      "codepoint": 57425,
+      "fontFamily": "LineMd",
+      "identifier": "beerAltSolidLoop"
+    },
+    "beer-alt-twotone": {
+      "codepoint": 57426,
+      "fontFamily": "LineMd",
+      "identifier": "beerAltTwotone"
+    },
+    "beer-alt-twotone-loop": {
+      "codepoint": 57427,
+      "fontFamily": "LineMd",
+      "identifier": "beerAltTwotoneLoop"
+    },
+    "beer-filled": {
+      "codepoint": 57428,
+      "fontFamily": "LineMd",
+      "identifier": "beerFilled"
+    },
+    "beer-filled-loop": {
+      "codepoint": 57429,
+      "fontFamily": "LineMd",
+      "identifier": "beerFilledLoop"
+    },
+    "beer-loop": {
+      "codepoint": 57430,
+      "fontFamily": "LineMd",
+      "identifier": "beerLoop"
+    },
+    "beer-solid": {
+      "codepoint": 57431,
+      "fontFamily": "LineMd",
+      "identifier": "beerSolid"
+    },
+    "beer-twotone": {
+      "codepoint": 57432,
+      "fontFamily": "LineMd",
+      "identifier": "beerTwotone"
+    },
+    "beer-twotone-loop": {
+      "codepoint": 57433,
+      "fontFamily": "LineMd",
+      "identifier": "beerTwotoneLoop"
+    },
+    "bell": {
+      "codepoint": 57434,
+      "fontFamily": "LineMd",
+      "identifier": "bell"
+    },
+    "bell-alert": {
+      "codepoint": 57435,
+      "fontFamily": "LineMd",
+      "identifier": "bellAlert"
+    },
+    "bell-alert-filled": {
+      "codepoint": 57436,
+      "fontFamily": "LineMd",
+      "identifier": "bellAlertFilled"
+    },
+    "bell-alert-filled-loop": {
+      "codepoint": 57437,
+      "fontFamily": "LineMd",
+      "identifier": "bellAlertFilledLoop"
+    },
+    "bell-alert-loop": {
+      "codepoint": 57438,
+      "fontFamily": "LineMd",
+      "identifier": "bellAlertLoop"
+    },
+    "bell-alert-twotone": {
+      "codepoint": 57439,
+      "fontFamily": "LineMd",
+      "identifier": "bellAlertTwotone"
+    },
+    "bell-alert-twotone-loop": {
+      "codepoint": 57440,
+      "fontFamily": "LineMd",
+      "identifier": "bellAlertTwotoneLoop"
+    },
+    "bell-filled": {
+      "codepoint": 57441,
+      "fontFamily": "LineMd",
+      "identifier": "bellFilled"
+    },
+    "bell-filled-loop": {
+      "codepoint": 57442,
+      "fontFamily": "LineMd",
+      "identifier": "bellFilledLoop"
+    },
+    "bell-loop": {
+      "codepoint": 57443,
+      "fontFamily": "LineMd",
+      "identifier": "bellLoop"
+    },
+    "bell-twotone": {
+      "codepoint": 57444,
+      "fontFamily": "LineMd",
+      "identifier": "bellTwotone"
+    },
+    "bell-twotone-alert": {
+      "codepoint": 57445,
+      "fontFamily": "LineMd",
+      "identifier": "bellTwotoneAlert"
+    },
+    "bell-twotone-alert-loop": {
+      "codepoint": 57446,
+      "fontFamily": "LineMd",
+      "identifier": "bellTwotoneAlertLoop"
+    },
+    "bell-twotone-loop": {
+      "codepoint": 57447,
+      "fontFamily": "LineMd",
+      "identifier": "bellTwotoneLoop"
+    },
+    "bluesky": {
+      "codepoint": 57448,
+      "fontFamily": "LineMd",
+      "identifier": "bluesky"
+    },
+    "bluesky-filled": {
+      "codepoint": 57449,
+      "fontFamily": "LineMd",
+      "identifier": "blueskyFilled"
+    },
+    "bluesky-twotone": {
+      "codepoint": 57450,
+      "fontFamily": "LineMd",
+      "identifier": "blueskyTwotone"
+    },
+    "brake": {
+      "codepoint": 57451,
+      "fontFamily": "LineMd",
+      "identifier": "brake"
+    },
+    "brake-abs": {
+      "codepoint": 57452,
+      "fontFamily": "LineMd",
+      "identifier": "brakeAbs"
+    },
+    "brake-abs-filled": {
+      "codepoint": 57453,
+      "fontFamily": "LineMd",
+      "identifier": "brakeAbsFilled"
+    },
+    "brake-abs-twotone": {
+      "codepoint": 57454,
+      "fontFamily": "LineMd",
+      "identifier": "brakeAbsTwotone"
+    },
+    "brake-alert": {
+      "codepoint": 57455,
+      "fontFamily": "LineMd",
+      "identifier": "brakeAlert"
+    },
+    "brake-alert-filled": {
+      "codepoint": 57456,
+      "fontFamily": "LineMd",
+      "identifier": "brakeAlertFilled"
+    },
+    "brake-alert-twotone": {
+      "codepoint": 57457,
+      "fontFamily": "LineMd",
+      "identifier": "brakeAlertTwotone"
+    },
+    "brake-filled": {
+      "codepoint": 57458,
+      "fontFamily": "LineMd",
+      "identifier": "brakeFilled"
+    },
+    "brake-hold": {
+      "codepoint": 57459,
+      "fontFamily": "LineMd",
+      "identifier": "brakeHold"
+    },
+    "brake-hold-filled": {
+      "codepoint": 57460,
+      "fontFamily": "LineMd",
+      "identifier": "brakeHoldFilled"
+    },
+    "brake-hold-twotone": {
+      "codepoint": 57461,
+      "fontFamily": "LineMd",
+      "identifier": "brakeHoldTwotone"
+    },
+    "brake-parking": {
+      "codepoint": 57462,
+      "fontFamily": "LineMd",
+      "identifier": "brakeParking"
+    },
+    "brake-parking-filled": {
+      "codepoint": 57463,
+      "fontFamily": "LineMd",
+      "identifier": "brakeParkingFilled"
+    },
+    "brake-parking-twotone": {
+      "codepoint": 57464,
+      "fontFamily": "LineMd",
+      "identifier": "brakeParkingTwotone"
+    },
+    "brake-twotone": {
+      "codepoint": 57465,
+      "fontFamily": "LineMd",
+      "identifier": "brakeTwotone"
+    },
+    "briefcase": {
+      "codepoint": 57466,
+      "fontFamily": "LineMd",
+      "identifier": "briefcase"
+    },
+    "briefcase-cancel": {
+      "codepoint": 57467,
+      "fontFamily": "LineMd",
+      "identifier": "briefcaseCancel"
+    },
+    "briefcase-cancel-filled": {
+      "codepoint": 57468,
+      "fontFamily": "LineMd",
+      "identifier": "briefcaseCancelFilled"
+    },
+    "briefcase-cancel-twotone": {
+      "codepoint": 57469,
+      "fontFamily": "LineMd",
+      "identifier": "briefcaseCancelTwotone"
+    },
+    "briefcase-check": {
+      "codepoint": 57470,
+      "fontFamily": "LineMd",
+      "identifier": "briefcaseCheck"
+    },
+    "briefcase-check-filled": {
+      "codepoint": 57471,
+      "fontFamily": "LineMd",
+      "identifier": "briefcaseCheckFilled"
+    },
+    "briefcase-check-twotone": {
+      "codepoint": 57472,
+      "fontFamily": "LineMd",
+      "identifier": "briefcaseCheckTwotone"
+    },
+    "briefcase-filled": {
+      "codepoint": 57473,
+      "fontFamily": "LineMd",
+      "identifier": "briefcaseFilled"
+    },
+    "briefcase-minus": {
+      "codepoint": 57474,
+      "fontFamily": "LineMd",
+      "identifier": "briefcaseMinus"
+    },
+    "briefcase-minus-filled": {
+      "codepoint": 57475,
+      "fontFamily": "LineMd",
+      "identifier": "briefcaseMinusFilled"
+    },
+    "briefcase-minus-twotone": {
+      "codepoint": 57476,
+      "fontFamily": "LineMd",
+      "identifier": "briefcaseMinusTwotone"
+    },
+    "briefcase-plus": {
+      "codepoint": 57477,
+      "fontFamily": "LineMd",
+      "identifier": "briefcasePlus"
+    },
+    "briefcase-plus-filled": {
+      "codepoint": 57478,
+      "fontFamily": "LineMd",
+      "identifier": "briefcasePlusFilled"
+    },
+    "briefcase-plus-twotone": {
+      "codepoint": 57479,
+      "fontFamily": "LineMd",
+      "identifier": "briefcasePlusTwotone"
+    },
+    "briefcase-remove": {
+      "codepoint": 57480,
+      "fontFamily": "LineMd",
+      "identifier": "briefcaseRemove"
+    },
+    "briefcase-remove-filled": {
+      "codepoint": 57481,
+      "fontFamily": "LineMd",
+      "identifier": "briefcaseRemoveFilled"
+    },
+    "briefcase-remove-twotone": {
+      "codepoint": 57482,
+      "fontFamily": "LineMd",
+      "identifier": "briefcaseRemoveTwotone"
+    },
+    "briefcase-twotone": {
+      "codepoint": 57483,
+      "fontFamily": "LineMd",
+      "identifier": "briefcaseTwotone"
+    },
+    "buy-me-a-coffee": {
+      "codepoint": 57484,
+      "fontFamily": "LineMd",
+      "identifier": "buyMeACoffee"
+    },
+    "buy-me-a-coffee-filled": {
+      "codepoint": 57485,
+      "fontFamily": "LineMd",
+      "identifier": "buyMeACoffeeFilled"
+    },
+    "buy-me-a-coffee-twotone": {
+      "codepoint": 57486,
+      "fontFamily": "LineMd",
+      "identifier": "buyMeACoffeeTwotone"
+    },
+    "cake": {
+      "codepoint": 57487,
+      "fontFamily": "LineMd",
+      "identifier": "cake"
+    },
+    "cake-filled": {
+      "codepoint": 57488,
+      "fontFamily": "LineMd",
+      "identifier": "cakeFilled"
+    },
+    "cake-twotone": {
+      "codepoint": 57489,
+      "fontFamily": "LineMd",
+      "identifier": "cakeTwotone"
+    },
+    "calendar": {
+      "codepoint": 57490,
+      "fontFamily": "LineMd",
+      "identifier": "calendar"
+    },
+    "calendar-out": {
+      "codepoint": 57491,
+      "fontFamily": "LineMd",
+      "identifier": "calendarOut"
+    },
+    "calendar-twotone": {
+      "codepoint": 57492,
+      "fontFamily": "LineMd",
+      "identifier": "calendarTwotone"
+    },
+    "cancel": {
+      "codepoint": 57493,
+      "fontFamily": "LineMd",
+      "identifier": "cancel"
+    },
+    "cancel-twotone": {
+      "codepoint": 57494,
+      "fontFamily": "LineMd",
+      "identifier": "cancelTwotone"
+    },
+    "car-light": {
+      "codepoint": 57495,
+      "fontFamily": "LineMd",
+      "identifier": "carLight"
+    },
+    "car-light-alert": {
+      "codepoint": 57496,
+      "fontFamily": "LineMd",
+      "identifier": "carLightAlert"
+    },
+    "car-light-alert-filled": {
+      "codepoint": 57497,
+      "fontFamily": "LineMd",
+      "identifier": "carLightAlertFilled"
+    },
+    "car-light-alert-off": {
+      "codepoint": 57498,
+      "fontFamily": "LineMd",
+      "identifier": "carLightAlertOff"
+    },
+    "car-light-alert-off-filled": {
+      "codepoint": 57499,
+      "fontFamily": "LineMd",
+      "identifier": "carLightAlertOffFilled"
+    },
+    "car-light-alert-off-twotone": {
+      "codepoint": 57500,
+      "fontFamily": "LineMd",
+      "identifier": "carLightAlertOffTwotone"
+    },
+    "car-light-alert-twotone": {
+      "codepoint": 57501,
+      "fontFamily": "LineMd",
+      "identifier": "carLightAlertTwotone"
+    },
+    "car-light-dimmed": {
+      "codepoint": 57502,
+      "fontFamily": "LineMd",
+      "identifier": "carLightDimmed"
+    },
+    "car-light-dimmed-filled": {
+      "codepoint": 57503,
+      "fontFamily": "LineMd",
+      "identifier": "carLightDimmedFilled"
+    },
+    "car-light-dimmed-off": {
+      "codepoint": 57504,
+      "fontFamily": "LineMd",
+      "identifier": "carLightDimmedOff"
+    },
+    "car-light-dimmed-off-filled": {
+      "codepoint": 57505,
+      "fontFamily": "LineMd",
+      "identifier": "carLightDimmedOffFilled"
+    },
+    "car-light-dimmed-off-twotone": {
+      "codepoint": 57506,
+      "fontFamily": "LineMd",
+      "identifier": "carLightDimmedOffTwotone"
+    },
+    "car-light-dimmed-twotone": {
+      "codepoint": 57507,
+      "fontFamily": "LineMd",
+      "identifier": "carLightDimmedTwotone"
+    },
+    "car-light-filled": {
+      "codepoint": 57508,
+      "fontFamily": "LineMd",
+      "identifier": "carLightFilled"
+    },
+    "car-light-off": {
+      "codepoint": 57509,
+      "fontFamily": "LineMd",
+      "identifier": "carLightOff"
+    },
+    "car-light-off-filled": {
+      "codepoint": 57510,
+      "fontFamily": "LineMd",
+      "identifier": "carLightOffFilled"
+    },
+    "car-light-off-twotone": {
+      "codepoint": 57511,
+      "fontFamily": "LineMd",
+      "identifier": "carLightOffTwotone"
+    },
+    "car-light-twotone": {
+      "codepoint": 57512,
+      "fontFamily": "LineMd",
+      "identifier": "carLightTwotone"
+    },
+    "cellphone": {
+      "codepoint": 57513,
+      "fontFamily": "LineMd",
+      "identifier": "cellphone"
+    },
+    "cellphone-arrow-down": {
+      "codepoint": 57514,
+      "fontFamily": "LineMd",
+      "identifier": "cellphoneArrowDown"
+    },
+    "cellphone-arrow-down-twotone": {
+      "codepoint": 57515,
+      "fontFamily": "LineMd",
+      "identifier": "cellphoneArrowDownTwotone"
+    },
+    "cellphone-arrow-up": {
+      "codepoint": 57516,
+      "fontFamily": "LineMd",
+      "identifier": "cellphoneArrowUp"
+    },
+    "cellphone-arrow-up-twotone": {
+      "codepoint": 57517,
+      "fontFamily": "LineMd",
+      "identifier": "cellphoneArrowUpTwotone"
+    },
+    "cellphone-off": {
+      "codepoint": 57518,
+      "fontFamily": "LineMd",
+      "identifier": "cellphoneOff"
+    },
+    "cellphone-off-twotone": {
+      "codepoint": 57519,
+      "fontFamily": "LineMd",
+      "identifier": "cellphoneOffTwotone"
+    },
+    "cellphone-screenshot": {
+      "codepoint": 57520,
+      "fontFamily": "LineMd",
+      "identifier": "cellphoneScreenshot"
+    },
+    "cellphone-screenshot-twotone": {
+      "codepoint": 57521,
+      "fontFamily": "LineMd",
+      "identifier": "cellphoneScreenshotTwotone"
+    },
+    "cellphone-twotone": {
+      "codepoint": 57522,
+      "fontFamily": "LineMd",
+      "identifier": "cellphoneTwotone"
+    },
+    "cellphonearrow-down": {
+      "codepoint": 57523,
+      "fontFamily": "LineMd",
+      "identifier": "cellphonearrowDown"
+    },
+    "cellphonearrow-down-twotone": {
+      "codepoint": 57524,
+      "fontFamily": "LineMd",
+      "identifier": "cellphonearrowDownTwotone"
+    },
+    "cellphonearrow-up": {
+      "codepoint": 57525,
+      "fontFamily": "LineMd",
+      "identifier": "cellphonearrowUp"
+    },
+    "cellphonearrow-up-twotone": {
+      "codepoint": 57526,
+      "fontFamily": "LineMd",
+      "identifier": "cellphonearrowUpTwotone"
+    },
+    "cellphonescreenshot": {
+      "codepoint": 57527,
+      "fontFamily": "LineMd",
+      "identifier": "cellphonescreenshot"
+    },
+    "cellphonescreenshot-twotone": {
+      "codepoint": 57528,
+      "fontFamily": "LineMd",
+      "identifier": "cellphonescreenshotTwotone"
+    },
+    "chat": {
+      "codepoint": 57529,
+      "fontFamily": "LineMd",
+      "identifier": "chat"
+    },
+    "chat-alert": {
+      "codepoint": 57530,
+      "fontFamily": "LineMd",
+      "identifier": "chatAlert"
+    },
+    "chat-alert-filled": {
+      "codepoint": 57531,
+      "fontFamily": "LineMd",
+      "identifier": "chatAlertFilled"
+    },
+    "chat-alert-filled-off": {
+      "codepoint": 57532,
+      "fontFamily": "LineMd",
+      "identifier": "chatAlertFilledOff"
+    },
+    "chat-alert-off": {
+      "codepoint": 57533,
+      "fontFamily": "LineMd",
+      "identifier": "chatAlertOff"
+    },
+    "chat-alert-twotone": {
+      "codepoint": 57534,
+      "fontFamily": "LineMd",
+      "identifier": "chatAlertTwotone"
+    },
+    "chat-alert-twotone-off": {
+      "codepoint": 57535,
+      "fontFamily": "LineMd",
+      "identifier": "chatAlertTwotoneOff"
+    },
+    "chat-bubble": {
+      "codepoint": 57536,
+      "fontFamily": "LineMd",
+      "identifier": "chatBubble"
+    },
+    "chat-bubble-filled": {
+      "codepoint": 57537,
+      "fontFamily": "LineMd",
+      "identifier": "chatBubbleFilled"
+    },
+    "chat-bubble-filled-off": {
+      "codepoint": 57538,
+      "fontFamily": "LineMd",
+      "identifier": "chatBubbleFilledOff"
+    },
+    "chat-bubble-off": {
+      "codepoint": 57539,
+      "fontFamily": "LineMd",
+      "identifier": "chatBubbleOff"
+    },
+    "chat-bubble-off-filled": {
+      "codepoint": 57540,
+      "fontFamily": "LineMd",
+      "identifier": "chatBubbleOffFilled"
+    },
+    "chat-bubble-off-twotone": {
+      "codepoint": 57541,
+      "fontFamily": "LineMd",
+      "identifier": "chatBubbleOffTwotone"
+    },
+    "chat-bubble-twotone": {
+      "codepoint": 57542,
+      "fontFamily": "LineMd",
+      "identifier": "chatBubbleTwotone"
+    },
+    "chat-bubble-twotone-off": {
+      "codepoint": 57543,
+      "fontFamily": "LineMd",
+      "identifier": "chatBubbleTwotoneOff"
+    },
+    "chat-filled": {
+      "codepoint": 57544,
+      "fontFamily": "LineMd",
+      "identifier": "chatFilled"
+    },
+    "chat-filled-off": {
+      "codepoint": 57545,
+      "fontFamily": "LineMd",
+      "identifier": "chatFilledOff"
+    },
+    "chat-off": {
+      "codepoint": 57546,
+      "fontFamily": "LineMd",
+      "identifier": "chatOff"
+    },
+    "chat-off-filled": {
+      "codepoint": 57547,
+      "fontFamily": "LineMd",
+      "identifier": "chatOffFilled"
+    },
+    "chat-off-twotone": {
+      "codepoint": 57548,
+      "fontFamily": "LineMd",
+      "identifier": "chatOffTwotone"
+    },
+    "chat-round": {
+      "codepoint": 57549,
+      "fontFamily": "LineMd",
+      "identifier": "chatRound"
+    },
+    "chat-round-alert": {
+      "codepoint": 57550,
+      "fontFamily": "LineMd",
+      "identifier": "chatRoundAlert"
+    },
+    "chat-round-alert-filled": {
+      "codepoint": 57551,
+      "fontFamily": "LineMd",
+      "identifier": "chatRoundAlertFilled"
+    },
+    "chat-round-alert-filled-off": {
+      "codepoint": 57552,
+      "fontFamily": "LineMd",
+      "identifier": "chatRoundAlertFilledOff"
+    },
+    "chat-round-alert-off": {
+      "codepoint": 57553,
+      "fontFamily": "LineMd",
+      "identifier": "chatRoundAlertOff"
+    },
+    "chat-round-alert-twotone": {
+      "codepoint": 57554,
+      "fontFamily": "LineMd",
+      "identifier": "chatRoundAlertTwotone"
+    },
+    "chat-round-alert-twotone-off": {
+      "codepoint": 57555,
+      "fontFamily": "LineMd",
+      "identifier": "chatRoundAlertTwotoneOff"
+    },
+    "chat-round-dots": {
+      "codepoint": 57556,
+      "fontFamily": "LineMd",
+      "identifier": "chatRoundDots"
+    },
+    "chat-round-dots-filled": {
+      "codepoint": 57557,
+      "fontFamily": "LineMd",
+      "identifier": "chatRoundDotsFilled"
+    },
+    "chat-round-dots-filled-off": {
+      "codepoint": 57558,
+      "fontFamily": "LineMd",
+      "identifier": "chatRoundDotsFilledOff"
+    },
+    "chat-round-dots-off": {
+      "codepoint": 57559,
+      "fontFamily": "LineMd",
+      "identifier": "chatRoundDotsOff"
+    },
+    "chat-round-dots-twotone": {
+      "codepoint": 57560,
+      "fontFamily": "LineMd",
+      "identifier": "chatRoundDotsTwotone"
+    },
+    "chat-round-dots-twotone-off": {
+      "codepoint": 57561,
+      "fontFamily": "LineMd",
+      "identifier": "chatRoundDotsTwotoneOff"
+    },
+    "chat-round-filled": {
+      "codepoint": 57562,
+      "fontFamily": "LineMd",
+      "identifier": "chatRoundFilled"
+    },
+    "chat-round-filled-off": {
+      "codepoint": 57563,
+      "fontFamily": "LineMd",
+      "identifier": "chatRoundFilledOff"
+    },
+    "chat-round-off": {
+      "codepoint": 57564,
+      "fontFamily": "LineMd",
+      "identifier": "chatRoundOff"
+    },
+    "chat-round-off-filled": {
+      "codepoint": 57565,
+      "fontFamily": "LineMd",
+      "identifier": "chatRoundOffFilled"
+    },
+    "chat-round-off-twotone": {
+      "codepoint": 57566,
+      "fontFamily": "LineMd",
+      "identifier": "chatRoundOffTwotone"
+    },
+    "chat-round-twotone": {
+      "codepoint": 57567,
+      "fontFamily": "LineMd",
+      "identifier": "chatRoundTwotone"
+    },
+    "chat-round-twotone-off": {
+      "codepoint": 57568,
+      "fontFamily": "LineMd",
+      "identifier": "chatRoundTwotoneOff"
+    },
+    "chat-twotone": {
+      "codepoint": 57569,
+      "fontFamily": "LineMd",
+      "identifier": "chatTwotone"
+    },
+    "chat-twotone-off": {
+      "codepoint": 57570,
+      "fontFamily": "LineMd",
+      "identifier": "chatTwotoneOff"
+    },
+    "check-all": {
+      "codepoint": 57571,
+      "fontFamily": "LineMd",
+      "identifier": "checkAll"
+    },
+    "check-list-3": {
+      "codepoint": 57572,
+      "fontFamily": "LineMd",
+      "identifier": "checkList3"
+    },
+    "check-list-3-filled": {
+      "codepoint": 57573,
+      "fontFamily": "LineMd",
+      "identifier": "checkList3Filled"
+    },
+    "check-list-3-solid": {
+      "codepoint": 57574,
+      "fontFamily": "LineMd",
+      "identifier": "checkList3Solid"
+    },
+    "check-list-3-twotone": {
+      "codepoint": 57575,
+      "fontFamily": "LineMd",
+      "identifier": "checkList3Twotone"
+    },
+    "chevron-double-down": {
+      "codepoint": 57576,
+      "fontFamily": "LineMd",
+      "identifier": "chevronDoubleDown"
+    },
+    "chevron-double-left": {
+      "codepoint": 57577,
+      "fontFamily": "LineMd",
+      "identifier": "chevronDoubleLeft"
+    },
+    "chevron-double-right": {
+      "codepoint": 57578,
+      "fontFamily": "LineMd",
+      "identifier": "chevronDoubleRight"
+    },
+    "chevron-double-up": {
+      "codepoint": 57579,
+      "fontFamily": "LineMd",
+      "identifier": "chevronDoubleUp"
+    },
+    "chevron-down": {
+      "codepoint": 57580,
+      "fontFamily": "LineMd",
+      "identifier": "chevronDown"
+    },
+    "chevron-down-circle": {
+      "codepoint": 57581,
+      "fontFamily": "LineMd",
+      "identifier": "chevronDownCircle"
+    },
+    "chevron-down-circle-twotone": {
+      "codepoint": 57582,
+      "fontFamily": "LineMd",
+      "identifier": "chevronDownCircleTwotone"
+    },
+    "chevron-down-square": {
+      "codepoint": 57583,
+      "fontFamily": "LineMd",
+      "identifier": "chevronDownSquare"
+    },
+    "chevron-down-square-twotone": {
+      "codepoint": 57584,
+      "fontFamily": "LineMd",
+      "identifier": "chevronDownSquareTwotone"
+    },
+    "chevron-left": {
+      "codepoint": 57585,
+      "fontFamily": "LineMd",
+      "identifier": "chevronLeft"
+    },
+    "chevron-left-circle": {
+      "codepoint": 57586,
+      "fontFamily": "LineMd",
+      "identifier": "chevronLeftCircle"
+    },
+    "chevron-left-circle-twotone": {
+      "codepoint": 57587,
+      "fontFamily": "LineMd",
+      "identifier": "chevronLeftCircleTwotone"
+    },
+    "chevron-left-square": {
+      "codepoint": 57588,
+      "fontFamily": "LineMd",
+      "identifier": "chevronLeftSquare"
+    },
+    "chevron-left-square-twotone": {
+      "codepoint": 57589,
+      "fontFamily": "LineMd",
+      "identifier": "chevronLeftSquareTwotone"
+    },
+    "chevron-right": {
+      "codepoint": 57590,
+      "fontFamily": "LineMd",
+      "identifier": "chevronRight"
+    },
+    "chevron-right-circle": {
+      "codepoint": 57591,
+      "fontFamily": "LineMd",
+      "identifier": "chevronRightCircle"
+    },
+    "chevron-right-circle-twotone": {
+      "codepoint": 57592,
+      "fontFamily": "LineMd",
+      "identifier": "chevronRightCircleTwotone"
+    },
+    "chevron-right-square": {
+      "codepoint": 57593,
+      "fontFamily": "LineMd",
+      "identifier": "chevronRightSquare"
+    },
+    "chevron-right-square-twotone": {
+      "codepoint": 57594,
+      "fontFamily": "LineMd",
+      "identifier": "chevronRightSquareTwotone"
+    },
+    "chevron-small-double-down": {
+      "codepoint": 57595,
+      "fontFamily": "LineMd",
+      "identifier": "chevronSmallDoubleDown"
+    },
+    "chevron-small-double-left": {
+      "codepoint": 57596,
+      "fontFamily": "LineMd",
+      "identifier": "chevronSmallDoubleLeft"
+    },
+    "chevron-small-double-right": {
+      "codepoint": 57597,
+      "fontFamily": "LineMd",
+      "identifier": "chevronSmallDoubleRight"
+    },
+    "chevron-small-double-up": {
+      "codepoint": 57598,
+      "fontFamily": "LineMd",
+      "identifier": "chevronSmallDoubleUp"
+    },
+    "chevron-small-down": {
+      "codepoint": 57599,
+      "fontFamily": "LineMd",
+      "identifier": "chevronSmallDown"
+    },
+    "chevron-small-left": {
+      "codepoint": 57600,
+      "fontFamily": "LineMd",
+      "identifier": "chevronSmallLeft"
+    },
+    "chevron-small-right": {
+      "codepoint": 57601,
+      "fontFamily": "LineMd",
+      "identifier": "chevronSmallRight"
+    },
+    "chevron-small-triple-down": {
+      "codepoint": 57602,
+      "fontFamily": "LineMd",
+      "identifier": "chevronSmallTripleDown"
+    },
+    "chevron-small-triple-left": {
+      "codepoint": 57603,
+      "fontFamily": "LineMd",
+      "identifier": "chevronSmallTripleLeft"
+    },
+    "chevron-small-triple-right": {
+      "codepoint": 57604,
+      "fontFamily": "LineMd",
+      "identifier": "chevronSmallTripleRight"
+    },
+    "chevron-small-triple-up": {
+      "codepoint": 57605,
+      "fontFamily": "LineMd",
+      "identifier": "chevronSmallTripleUp"
+    },
+    "chevron-small-up": {
+      "codepoint": 57606,
+      "fontFamily": "LineMd",
+      "identifier": "chevronSmallUp"
+    },
+    "chevron-triple-down": {
+      "codepoint": 57607,
+      "fontFamily": "LineMd",
+      "identifier": "chevronTripleDown"
+    },
+    "chevron-triple-left": {
+      "codepoint": 57608,
+      "fontFamily": "LineMd",
+      "identifier": "chevronTripleLeft"
+    },
+    "chevron-triple-right": {
+      "codepoint": 57609,
+      "fontFamily": "LineMd",
+      "identifier": "chevronTripleRight"
+    },
+    "chevron-triple-up": {
+      "codepoint": 57610,
+      "fontFamily": "LineMd",
+      "identifier": "chevronTripleUp"
+    },
+    "chevron-up": {
+      "codepoint": 57611,
+      "fontFamily": "LineMd",
+      "identifier": "chevronUp"
+    },
+    "chevron-up-circle": {
+      "codepoint": 57612,
+      "fontFamily": "LineMd",
+      "identifier": "chevronUpCircle"
+    },
+    "chevron-up-circle-twotone": {
+      "codepoint": 57613,
+      "fontFamily": "LineMd",
+      "identifier": "chevronUpCircleTwotone"
+    },
+    "chevron-up-square": {
+      "codepoint": 57614,
+      "fontFamily": "LineMd",
+      "identifier": "chevronUpSquare"
+    },
+    "chevron-up-square-twotone": {
+      "codepoint": 57615,
+      "fontFamily": "LineMd",
+      "identifier": "chevronUpSquareTwotone"
+    },
+    "circle": {
+      "codepoint": 57616,
+      "fontFamily": "LineMd",
+      "identifier": "circle"
+    },
+    "circle-filled": {
+      "codepoint": 57617,
+      "fontFamily": "LineMd",
+      "identifier": "circleFilled"
+    },
+    "circle-filled-to-confirm-circle-filled-transition": {
+      "codepoint": 57618,
+      "fontFamily": "LineMd",
+      "identifier": "circleFilledToConfirmCircleFilledTransition"
+    },
+    "circle-to-confirm-circle-transition": {
+      "codepoint": 57619,
+      "fontFamily": "LineMd",
+      "identifier": "circleToConfirmCircleTransition"
+    },
+    "circle-to-confirm-circle-twotone-transition": {
+      "codepoint": 57620,
+      "fontFamily": "LineMd",
+      "identifier": "circleToConfirmCircleTwotoneTransition"
+    },
+    "circle-twotone": {
+      "codepoint": 57621,
+      "fontFamily": "LineMd",
+      "identifier": "circleTwotone"
+    },
+    "circle-twotone-to-confirm-circle-transition": {
+      "codepoint": 57622,
+      "fontFamily": "LineMd",
+      "identifier": "circleTwotoneToConfirmCircleTransition"
+    },
+    "circle-twotone-to-confirm-circle-twotone-transition": {
+      "codepoint": 57623,
+      "fontFamily": "LineMd",
+      "identifier": "circleTwotoneToConfirmCircleTwotoneTransition"
+    },
+    "clipboard": {
+      "codepoint": 57624,
+      "fontFamily": "LineMd",
+      "identifier": "clipboard"
+    },
+    "clipboard-arrow": {
+      "codepoint": 57625,
+      "fontFamily": "LineMd",
+      "identifier": "clipboardArrow"
+    },
+    "clipboard-arrow-twotone": {
+      "codepoint": 57626,
+      "fontFamily": "LineMd",
+      "identifier": "clipboardArrowTwotone"
+    },
+    "clipboard-check": {
+      "codepoint": 57627,
+      "fontFamily": "LineMd",
+      "identifier": "clipboardCheck"
+    },
+    "clipboard-check-to-clipboard-transition": {
+      "codepoint": 57628,
+      "fontFamily": "LineMd",
+      "identifier": "clipboardCheckToClipboardTransition"
+    },
+    "clipboard-check-twotone": {
+      "codepoint": 57629,
+      "fontFamily": "LineMd",
+      "identifier": "clipboardCheckTwotone"
+    },
+    "clipboard-check-twotone-to-clipboard-twotone-transition": {
+      "codepoint": 57630,
+      "fontFamily": "LineMd",
+      "identifier": "clipboardCheckTwotoneToClipboardTwotoneTransition"
+    },
+    "clipboard-list": {
+      "codepoint": 57631,
+      "fontFamily": "LineMd",
+      "identifier": "clipboardList"
+    },
+    "clipboard-list-twotone": {
+      "codepoint": 57632,
+      "fontFamily": "LineMd",
+      "identifier": "clipboardListTwotone"
+    },
+    "clipboard-minus": {
+      "codepoint": 57633,
+      "fontFamily": "LineMd",
+      "identifier": "clipboardMinus"
+    },
+    "clipboard-minus-twotone": {
+      "codepoint": 57634,
+      "fontFamily": "LineMd",
+      "identifier": "clipboardMinusTwotone"
+    },
+    "clipboard-plus": {
+      "codepoint": 57635,
+      "fontFamily": "LineMd",
+      "identifier": "clipboardPlus"
+    },
+    "clipboard-plus-twotone": {
+      "codepoint": 57636,
+      "fontFamily": "LineMd",
+      "identifier": "clipboardPlusTwotone"
+    },
+    "clipboard-remove": {
+      "codepoint": 57637,
+      "fontFamily": "LineMd",
+      "identifier": "clipboardRemove"
+    },
+    "clipboard-remove-twotone": {
+      "codepoint": 57638,
+      "fontFamily": "LineMd",
+      "identifier": "clipboardRemoveTwotone"
+    },
+    "clipboard-to-clipboard-check-transition": {
+      "codepoint": 57639,
+      "fontFamily": "LineMd",
+      "identifier": "clipboardToClipboardCheckTransition"
+    },
+    "clipboard-twotone": {
+      "codepoint": 57640,
+      "fontFamily": "LineMd",
+      "identifier": "clipboardTwotone"
+    },
+    "clipboard-twotone-to-clipboard-check-twotone-transition": {
+      "codepoint": 57641,
+      "fontFamily": "LineMd",
+      "identifier": "clipboardTwotoneToClipboardCheckTwotoneTransition"
+    },
+    "clipboard-twotone-to-clipboard-twotone-check-transition": {
+      "codepoint": 57642,
+      "fontFamily": "LineMd",
+      "identifier": "clipboardTwotoneToClipboardTwotoneCheckTransition"
+    },
+    "close": {
+      "codepoint": 57643,
+      "fontFamily": "LineMd",
+      "identifier": "close"
+    },
+    "close-circle": {
+      "codepoint": 57644,
+      "fontFamily": "LineMd",
+      "identifier": "closeCircle"
+    },
+    "close-circle-filled": {
+      "codepoint": 57645,
+      "fontFamily": "LineMd",
+      "identifier": "closeCircleFilled"
+    },
+    "close-circle-twotone": {
+      "codepoint": 57646,
+      "fontFamily": "LineMd",
+      "identifier": "closeCircleTwotone"
+    },
+    "close-small": {
+      "codepoint": 57647,
+      "fontFamily": "LineMd",
+      "identifier": "closeSmall"
+    },
+    "close-square": {
+      "codepoint": 57648,
+      "fontFamily": "LineMd",
+      "identifier": "closeSquare"
+    },
+    "close-square-filled": {
+      "codepoint": 57649,
+      "fontFamily": "LineMd",
+      "identifier": "closeSquareFilled"
+    },
+    "close-square-twotone": {
+      "codepoint": 57650,
+      "fontFamily": "LineMd",
+      "identifier": "closeSquareTwotone"
+    },
+    "close-to-menu-alt-transition": {
+      "codepoint": 57651,
+      "fontFamily": "LineMd",
+      "identifier": "closeToMenuAltTransition"
+    },
+    "close-to-menu-transition": {
+      "codepoint": 57652,
+      "fontFamily": "LineMd",
+      "identifier": "closeToMenuTransition"
+    },
+    "cloud": {
+      "codepoint": 57653,
+      "fontFamily": "LineMd",
+      "identifier": "cloud"
+    },
+    "cloud-alt": {
+      "codepoint": 57654,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAlt"
+    },
+    "cloud-alt-braces": {
+      "codepoint": 57655,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltBraces"
+    },
+    "cloud-alt-braces-loop": {
+      "codepoint": 57656,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltBracesLoop"
+    },
+    "cloud-alt-download": {
+      "codepoint": 57657,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltDownload"
+    },
+    "cloud-alt-download-filled": {
+      "codepoint": 57658,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltDownloadFilled"
+    },
+    "cloud-alt-download-filled-loop": {
+      "codepoint": 57659,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltDownloadFilledLoop"
+    },
+    "cloud-alt-download-loop": {
+      "codepoint": 57660,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltDownloadLoop"
+    },
+    "cloud-alt-download-twotone": {
+      "codepoint": 57661,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltDownloadTwotone"
+    },
+    "cloud-alt-download-twotone-loop": {
+      "codepoint": 57662,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltDownloadTwotoneLoop"
+    },
+    "cloud-alt-filled": {
+      "codepoint": 57663,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltFilled"
+    },
+    "cloud-alt-filled-loop": {
+      "codepoint": 57664,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltFilledLoop"
+    },
+    "cloud-alt-loop": {
+      "codepoint": 57665,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltLoop"
+    },
+    "cloud-alt-off": {
+      "codepoint": 57666,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltOff"
+    },
+    "cloud-alt-off-filled": {
+      "codepoint": 57667,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltOffFilled"
+    },
+    "cloud-alt-off-filled-loop": {
+      "codepoint": 57668,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltOffFilledLoop"
+    },
+    "cloud-alt-off-loop": {
+      "codepoint": 57669,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltOffLoop"
+    },
+    "cloud-alt-off-twotone": {
+      "codepoint": 57670,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltOffTwotone"
+    },
+    "cloud-alt-off-twotone-loop": {
+      "codepoint": 57671,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltOffTwotoneLoop"
+    },
+    "cloud-alt-print": {
+      "codepoint": 57672,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltPrint"
+    },
+    "cloud-alt-print-filled": {
+      "codepoint": 57673,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltPrintFilled"
+    },
+    "cloud-alt-print-filled-loop": {
+      "codepoint": 57674,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltPrintFilledLoop"
+    },
+    "cloud-alt-print-loop": {
+      "codepoint": 57675,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltPrintLoop"
+    },
+    "cloud-alt-print-twotone": {
+      "codepoint": 57676,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltPrintTwotone"
+    },
+    "cloud-alt-print-twotone-loop": {
+      "codepoint": 57677,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltPrintTwotoneLoop"
+    },
+    "cloud-alt-tags": {
+      "codepoint": 57678,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltTags"
+    },
+    "cloud-alt-tags-filled": {
+      "codepoint": 57679,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltTagsFilled"
+    },
+    "cloud-alt-tags-filled-loop": {
+      "codepoint": 57680,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltTagsFilledLoop"
+    },
+    "cloud-alt-tags-loop": {
+      "codepoint": 57681,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltTagsLoop"
+    },
+    "cloud-alt-tags-twotone": {
+      "codepoint": 57682,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltTagsTwotone"
+    },
+    "cloud-alt-tags-twotone-loop": {
+      "codepoint": 57683,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltTagsTwotoneLoop"
+    },
+    "cloud-alt-twotone": {
+      "codepoint": 57684,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltTwotone"
+    },
+    "cloud-alt-twotone-loop": {
+      "codepoint": 57685,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltTwotoneLoop"
+    },
+    "cloud-alt-upload": {
+      "codepoint": 57686,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltUpload"
+    },
+    "cloud-alt-upload-filled": {
+      "codepoint": 57687,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltUploadFilled"
+    },
+    "cloud-alt-upload-filled-loop": {
+      "codepoint": 57688,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltUploadFilledLoop"
+    },
+    "cloud-alt-upload-loop": {
+      "codepoint": 57689,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltUploadLoop"
+    },
+    "cloud-alt-upload-twotone": {
+      "codepoint": 57690,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltUploadTwotone"
+    },
+    "cloud-alt-upload-twotone-loop": {
+      "codepoint": 57691,
+      "fontFamily": "LineMd",
+      "identifier": "cloudAltUploadTwotoneLoop"
+    },
+    "cloud-braces-loop": {
+      "codepoint": 57692,
+      "fontFamily": "LineMd",
+      "identifier": "cloudBracesLoop"
+    },
+    "cloud-down": {
+      "codepoint": 57693,
+      "fontFamily": "LineMd",
+      "identifier": "cloudDown"
+    },
+    "cloud-down-twotone": {
+      "codepoint": 57694,
+      "fontFamily": "LineMd",
+      "identifier": "cloudDownTwotone"
+    },
+    "cloud-download-loop": {
+      "codepoint": 57695,
+      "fontFamily": "LineMd",
+      "identifier": "cloudDownloadLoop"
+    },
+    "cloud-download-outline-loop": {
+      "codepoint": 57696,
+      "fontFamily": "LineMd",
+      "identifier": "cloudDownloadOutlineLoop"
+    },
+    "cloud-filled": {
+      "codepoint": 57697,
+      "fontFamily": "LineMd",
+      "identifier": "cloudFilled"
+    },
+    "cloud-loop": {
+      "codepoint": 57698,
+      "fontFamily": "LineMd",
+      "identifier": "cloudLoop"
+    },
+    "cloud-off": {
+      "codepoint": 57699,
+      "fontFamily": "LineMd",
+      "identifier": "cloudOff"
+    },
+    "cloud-off-filled": {
+      "codepoint": 57700,
+      "fontFamily": "LineMd",
+      "identifier": "cloudOffFilled"
+    },
+    "cloud-off-outline-loop": {
+      "codepoint": 57701,
+      "fontFamily": "LineMd",
+      "identifier": "cloudOffOutlineLoop"
+    },
+    "cloud-off-twotone": {
+      "codepoint": 57702,
+      "fontFamily": "LineMd",
+      "identifier": "cloudOffTwotone"
+    },
+    "cloud-outline-loop": {
+      "codepoint": 57703,
+      "fontFamily": "LineMd",
+      "identifier": "cloudOutlineLoop"
+    },
+    "cloud-print-loop": {
+      "codepoint": 57704,
+      "fontFamily": "LineMd",
+      "identifier": "cloudPrintLoop"
+    },
+    "cloud-print-outline-loop": {
+      "codepoint": 57705,
+      "fontFamily": "LineMd",
+      "identifier": "cloudPrintOutlineLoop"
+    },
+    "cloud-tags-loop": {
+      "codepoint": 57706,
+      "fontFamily": "LineMd",
+      "identifier": "cloudTagsLoop"
+    },
+    "cloud-twotone": {
+      "codepoint": 57707,
+      "fontFamily": "LineMd",
+      "identifier": "cloudTwotone"
+    },
+    "cloud-up": {
+      "codepoint": 57708,
+      "fontFamily": "LineMd",
+      "identifier": "cloudUp"
+    },
+    "cloud-up-twotone": {
+      "codepoint": 57709,
+      "fontFamily": "LineMd",
+      "identifier": "cloudUpTwotone"
+    },
+    "cloud-upload-loop": {
+      "codepoint": 57710,
+      "fontFamily": "LineMd",
+      "identifier": "cloudUploadLoop"
+    },
+    "cloud-upload-outline-loop": {
+      "codepoint": 57711,
+      "fontFamily": "LineMd",
+      "identifier": "cloudUploadOutlineLoop"
+    },
+    "coffee": {
+      "codepoint": 57712,
+      "fontFamily": "LineMd",
+      "identifier": "coffee"
+    },
+    "coffee-arrow": {
+      "codepoint": 57713,
+      "fontFamily": "LineMd",
+      "identifier": "coffeeArrow"
+    },
+    "coffee-arrow-filled": {
+      "codepoint": 57714,
+      "fontFamily": "LineMd",
+      "identifier": "coffeeArrowFilled"
+    },
+    "coffee-arrow-twotone": {
+      "codepoint": 57715,
+      "fontFamily": "LineMd",
+      "identifier": "coffeeArrowTwotone"
+    },
+    "coffee-filled": {
+      "codepoint": 57716,
+      "fontFamily": "LineMd",
+      "identifier": "coffeeFilled"
+    },
+    "coffee-filled-loop": {
+      "codepoint": 57717,
+      "fontFamily": "LineMd",
+      "identifier": "coffeeFilledLoop"
+    },
+    "coffee-half-empty-filled-loop": {
+      "codepoint": 57718,
+      "fontFamily": "LineMd",
+      "identifier": "coffeeHalfEmptyFilledLoop"
+    },
+    "coffee-half-empty-twotone-loop": {
+      "codepoint": 57719,
+      "fontFamily": "LineMd",
+      "identifier": "coffeeHalfEmptyTwotoneLoop"
+    },
+    "coffee-loop": {
+      "codepoint": 57720,
+      "fontFamily": "LineMd",
+      "identifier": "coffeeLoop"
+    },
+    "coffee-twotone": {
+      "codepoint": 57721,
+      "fontFamily": "LineMd",
+      "identifier": "coffeeTwotone"
+    },
+    "coffee-twotone-loop": {
+      "codepoint": 57722,
+      "fontFamily": "LineMd",
+      "identifier": "coffeeTwotoneLoop"
+    },
+    "cog": {
+      "codepoint": 57723,
+      "fontFamily": "LineMd",
+      "identifier": "cog"
+    },
+    "cog-filled": {
+      "codepoint": 57724,
+      "fontFamily": "LineMd",
+      "identifier": "cogFilled"
+    },
+    "cog-filled-loop": {
+      "codepoint": 57725,
+      "fontFamily": "LineMd",
+      "identifier": "cogFilledLoop"
+    },
+    "cog-loop": {
+      "codepoint": 57726,
+      "fontFamily": "LineMd",
+      "identifier": "cogLoop"
+    },
+    "cog-off": {
+      "codepoint": 57727,
+      "fontFamily": "LineMd",
+      "identifier": "cogOff"
+    },
+    "cog-off-filled": {
+      "codepoint": 57728,
+      "fontFamily": "LineMd",
+      "identifier": "cogOffFilled"
+    },
+    "cog-off-filled-loop": {
+      "codepoint": 57729,
+      "fontFamily": "LineMd",
+      "identifier": "cogOffFilledLoop"
+    },
+    "cog-off-loop": {
+      "codepoint": 57730,
+      "fontFamily": "LineMd",
+      "identifier": "cogOffLoop"
+    },
+    "compass": {
+      "codepoint": 57731,
+      "fontFamily": "LineMd",
+      "identifier": "compass"
+    },
+    "compass-filled": {
+      "codepoint": 57732,
+      "fontFamily": "LineMd",
+      "identifier": "compassFilled"
+    },
+    "compass-filled-loop": {
+      "codepoint": 57733,
+      "fontFamily": "LineMd",
+      "identifier": "compassFilledLoop"
+    },
+    "compass-loop": {
+      "codepoint": 57734,
+      "fontFamily": "LineMd",
+      "identifier": "compassLoop"
+    },
+    "compass-off": {
+      "codepoint": 57735,
+      "fontFamily": "LineMd",
+      "identifier": "compassOff"
+    },
+    "compass-off-filled": {
+      "codepoint": 57736,
+      "fontFamily": "LineMd",
+      "identifier": "compassOffFilled"
+    },
+    "compass-off-filled-loop": {
+      "codepoint": 57737,
+      "fontFamily": "LineMd",
+      "identifier": "compassOffFilledLoop"
+    },
+    "compass-off-loop": {
+      "codepoint": 57738,
+      "fontFamily": "LineMd",
+      "identifier": "compassOffLoop"
+    },
+    "compass-off-twotone": {
+      "codepoint": 57739,
+      "fontFamily": "LineMd",
+      "identifier": "compassOffTwotone"
+    },
+    "compass-off-twotone-loop": {
+      "codepoint": 57740,
+      "fontFamily": "LineMd",
+      "identifier": "compassOffTwotoneLoop"
+    },
+    "compass-twotone": {
+      "codepoint": 57741,
+      "fontFamily": "LineMd",
+      "identifier": "compassTwotone"
+    },
+    "compass-twotone-loop": {
+      "codepoint": 57742,
+      "fontFamily": "LineMd",
+      "identifier": "compassTwotoneLoop"
+    },
+    "compass-twotone-off": {
+      "codepoint": 57743,
+      "fontFamily": "LineMd",
+      "identifier": "compassTwotoneOff"
+    },
+    "computer": {
+      "codepoint": 57744,
+      "fontFamily": "LineMd",
+      "identifier": "computer"
+    },
+    "computer-filled": {
+      "codepoint": 57745,
+      "fontFamily": "LineMd",
+      "identifier": "computerFilled"
+    },
+    "computer-off": {
+      "codepoint": 57746,
+      "fontFamily": "LineMd",
+      "identifier": "computerOff"
+    },
+    "computer-off-filled": {
+      "codepoint": 57747,
+      "fontFamily": "LineMd",
+      "identifier": "computerOffFilled"
+    },
+    "computer-off-twotone": {
+      "codepoint": 57748,
+      "fontFamily": "LineMd",
+      "identifier": "computerOffTwotone"
+    },
+    "computer-twotone": {
+      "codepoint": 57749,
+      "fontFamily": "LineMd",
+      "identifier": "computerTwotone"
+    },
+    "confirm": {
+      "codepoint": 57750,
+      "fontFamily": "LineMd",
+      "identifier": "confirm"
+    },
+    "confirm-circle": {
+      "codepoint": 57751,
+      "fontFamily": "LineMd",
+      "identifier": "confirmCircle"
+    },
+    "confirm-circle-filled": {
+      "codepoint": 57752,
+      "fontFamily": "LineMd",
+      "identifier": "confirmCircleFilled"
+    },
+    "confirm-circle-filled-to-circle-filled-transition": {
+      "codepoint": 57753,
+      "fontFamily": "LineMd",
+      "identifier": "confirmCircleFilledToCircleFilledTransition"
+    },
+    "confirm-circle-to-circle-transition": {
+      "codepoint": 57754,
+      "fontFamily": "LineMd",
+      "identifier": "confirmCircleToCircleTransition"
+    },
+    "confirm-circle-to-circle-twotone-transition": {
+      "codepoint": 57755,
+      "fontFamily": "LineMd",
+      "identifier": "confirmCircleToCircleTwotoneTransition"
+    },
+    "confirm-circle-twotone": {
+      "codepoint": 57756,
+      "fontFamily": "LineMd",
+      "identifier": "confirmCircleTwotone"
+    },
+    "confirm-circle-twotone-to-circle-transition": {
+      "codepoint": 57757,
+      "fontFamily": "LineMd",
+      "identifier": "confirmCircleTwotoneToCircleTransition"
+    },
+    "confirm-circle-twotone-to-circle-twotone-transition": {
+      "codepoint": 57758,
+      "fontFamily": "LineMd",
+      "identifier": "confirmCircleTwotoneToCircleTwotoneTransition"
+    },
+    "confirm-square": {
+      "codepoint": 57759,
+      "fontFamily": "LineMd",
+      "identifier": "confirmSquare"
+    },
+    "confirm-square-filled": {
+      "codepoint": 57760,
+      "fontFamily": "LineMd",
+      "identifier": "confirmSquareFilled"
+    },
+    "confirm-square-filled-to-square-filled-transition": {
+      "codepoint": 57761,
+      "fontFamily": "LineMd",
+      "identifier": "confirmSquareFilledToSquareFilledTransition"
+    },
+    "confirm-square-to-square-transition": {
+      "codepoint": 57762,
+      "fontFamily": "LineMd",
+      "identifier": "confirmSquareToSquareTransition"
+    },
+    "confirm-square-to-square-twotone-transition": {
+      "codepoint": 57763,
+      "fontFamily": "LineMd",
+      "identifier": "confirmSquareToSquareTwotoneTransition"
+    },
+    "confirm-square-twotone": {
+      "codepoint": 57764,
+      "fontFamily": "LineMd",
+      "identifier": "confirmSquareTwotone"
+    },
+    "confirm-square-twotone-to-square-transition": {
+      "codepoint": 57765,
+      "fontFamily": "LineMd",
+      "identifier": "confirmSquareTwotoneToSquareTransition"
+    },
+    "confirm-square-twotone-to-square-twotone-transition": {
+      "codepoint": 57766,
+      "fontFamily": "LineMd",
+      "identifier": "confirmSquareTwotoneToSquareTwotoneTransition"
+    },
+    "construction": {
+      "codepoint": 57767,
+      "fontFamily": "LineMd",
+      "identifier": "construction"
+    },
+    "construction-twotone": {
+      "codepoint": 57768,
+      "fontFamily": "LineMd",
+      "identifier": "constructionTwotone"
+    },
+    "cookie": {
+      "codepoint": 57769,
+      "fontFamily": "LineMd",
+      "identifier": "cookie"
+    },
+    "cookie-check": {
+      "codepoint": 57770,
+      "fontFamily": "LineMd",
+      "identifier": "cookieCheck"
+    },
+    "cookie-check-filled": {
+      "codepoint": 57771,
+      "fontFamily": "LineMd",
+      "identifier": "cookieCheckFilled"
+    },
+    "cookie-check-twotone": {
+      "codepoint": 57772,
+      "fontFamily": "LineMd",
+      "identifier": "cookieCheckTwotone"
+    },
+    "cookie-filled": {
+      "codepoint": 57773,
+      "fontFamily": "LineMd",
+      "identifier": "cookieFilled"
+    },
+    "cookie-minus": {
+      "codepoint": 57774,
+      "fontFamily": "LineMd",
+      "identifier": "cookieMinus"
+    },
+    "cookie-minus-filled": {
+      "codepoint": 57775,
+      "fontFamily": "LineMd",
+      "identifier": "cookieMinusFilled"
+    },
+    "cookie-minus-twotone": {
+      "codepoint": 57776,
+      "fontFamily": "LineMd",
+      "identifier": "cookieMinusTwotone"
+    },
+    "cookie-off": {
+      "codepoint": 57777,
+      "fontFamily": "LineMd",
+      "identifier": "cookieOff"
+    },
+    "cookie-off-filled": {
+      "codepoint": 57778,
+      "fontFamily": "LineMd",
+      "identifier": "cookieOffFilled"
+    },
+    "cookie-off-twotone": {
+      "codepoint": 57779,
+      "fontFamily": "LineMd",
+      "identifier": "cookieOffTwotone"
+    },
+    "cookie-plus": {
+      "codepoint": 57780,
+      "fontFamily": "LineMd",
+      "identifier": "cookiePlus"
+    },
+    "cookie-plus-filled": {
+      "codepoint": 57781,
+      "fontFamily": "LineMd",
+      "identifier": "cookiePlusFilled"
+    },
+    "cookie-plus-twotone": {
+      "codepoint": 57782,
+      "fontFamily": "LineMd",
+      "identifier": "cookiePlusTwotone"
+    },
+    "cookie-remove": {
+      "codepoint": 57783,
+      "fontFamily": "LineMd",
+      "identifier": "cookieRemove"
+    },
+    "cookie-remove-filled": {
+      "codepoint": 57784,
+      "fontFamily": "LineMd",
+      "identifier": "cookieRemoveFilled"
+    },
+    "cookie-remove-twotone": {
+      "codepoint": 57785,
+      "fontFamily": "LineMd",
+      "identifier": "cookieRemoveTwotone"
+    },
+    "cookie-settings": {
+      "codepoint": 57786,
+      "fontFamily": "LineMd",
+      "identifier": "cookieSettings"
+    },
+    "cookie-settings-filled": {
+      "codepoint": 57787,
+      "fontFamily": "LineMd",
+      "identifier": "cookieSettingsFilled"
+    },
+    "cookie-settings-twotone": {
+      "codepoint": 57788,
+      "fontFamily": "LineMd",
+      "identifier": "cookieSettingsTwotone"
+    },
+    "cookie-twotone": {
+      "codepoint": 57789,
+      "fontFamily": "LineMd",
+      "identifier": "cookieTwotone"
+    },
+    "discord": {
+      "codepoint": 57790,
+      "fontFamily": "LineMd",
+      "identifier": "discord"
+    },
+    "discord-twotone": {
+      "codepoint": 57791,
+      "fontFamily": "LineMd",
+      "identifier": "discordTwotone"
+    },
+    "document": {
+      "codepoint": 57792,
+      "fontFamily": "LineMd",
+      "identifier": "document"
+    },
+    "document-add": {
+      "codepoint": 57793,
+      "fontFamily": "LineMd",
+      "identifier": "documentAdd"
+    },
+    "document-add-twotone": {
+      "codepoint": 57794,
+      "fontFamily": "LineMd",
+      "identifier": "documentAddTwotone"
+    },
+    "document-code": {
+      "codepoint": 57795,
+      "fontFamily": "LineMd",
+      "identifier": "documentCode"
+    },
+    "document-code-twotone": {
+      "codepoint": 57796,
+      "fontFamily": "LineMd",
+      "identifier": "documentCodeTwotone"
+    },
+    "document-delete": {
+      "codepoint": 57797,
+      "fontFamily": "LineMd",
+      "identifier": "documentDelete"
+    },
+    "document-delete-twotone": {
+      "codepoint": 57798,
+      "fontFamily": "LineMd",
+      "identifier": "documentDeleteTwotone"
+    },
+    "document-list": {
+      "codepoint": 57799,
+      "fontFamily": "LineMd",
+      "identifier": "documentList"
+    },
+    "document-list-twotone": {
+      "codepoint": 57800,
+      "fontFamily": "LineMd",
+      "identifier": "documentListTwotone"
+    },
+    "document-remove": {
+      "codepoint": 57801,
+      "fontFamily": "LineMd",
+      "identifier": "documentRemove"
+    },
+    "document-remove-twotone": {
+      "codepoint": 57802,
+      "fontFamily": "LineMd",
+      "identifier": "documentRemoveTwotone"
+    },
+    "document-report": {
+      "codepoint": 57803,
+      "fontFamily": "LineMd",
+      "identifier": "documentReport"
+    },
+    "document-report-twotone": {
+      "codepoint": 57804,
+      "fontFamily": "LineMd",
+      "identifier": "documentReportTwotone"
+    },
+    "document-twotone": {
+      "codepoint": 57805,
+      "fontFamily": "LineMd",
+      "identifier": "documentTwotone"
+    },
+    "double-arrow-horizontal": {
+      "codepoint": 57806,
+      "fontFamily": "LineMd",
+      "identifier": "doubleArrowHorizontal"
+    },
+    "double-arrow-vertical": {
+      "codepoint": 57807,
+      "fontFamily": "LineMd",
+      "identifier": "doubleArrowVertical"
+    },
+    "download": {
+      "codepoint": 57808,
+      "fontFamily": "LineMd",
+      "identifier": "download"
+    },
+    "download-loop": {
+      "codepoint": 57809,
+      "fontFamily": "LineMd",
+      "identifier": "downloadLoop"
+    },
+    "download-off": {
+      "codepoint": 57810,
+      "fontFamily": "LineMd",
+      "identifier": "downloadOff"
+    },
+    "download-off-loop": {
+      "codepoint": 57811,
+      "fontFamily": "LineMd",
+      "identifier": "downloadOffLoop"
+    },
+    "download-off-outline": {
+      "codepoint": 57812,
+      "fontFamily": "LineMd",
+      "identifier": "downloadOffOutline"
+    },
+    "download-off-outline-loop": {
+      "codepoint": 57813,
+      "fontFamily": "LineMd",
+      "identifier": "downloadOffOutlineLoop"
+    },
+    "download-off-twotone": {
+      "codepoint": 57814,
+      "fontFamily": "LineMd",
+      "identifier": "downloadOffTwotone"
+    },
+    "download-off-twotone-loop": {
+      "codepoint": 57815,
+      "fontFamily": "LineMd",
+      "identifier": "downloadOffTwotoneLoop"
+    },
+    "download-outline": {
+      "codepoint": 57816,
+      "fontFamily": "LineMd",
+      "identifier": "downloadOutline"
+    },
+    "download-outline-loop": {
+      "codepoint": 57817,
+      "fontFamily": "LineMd",
+      "identifier": "downloadOutlineLoop"
+    },
+    "download-twotone": {
+      "codepoint": 57818,
+      "fontFamily": "LineMd",
+      "identifier": "downloadTwotone"
+    },
+    "download-twotone-loop": {
+      "codepoint": 57819,
+      "fontFamily": "LineMd",
+      "identifier": "downloadTwotoneLoop"
+    },
+    "downloading": {
+      "codepoint": 57820,
+      "fontFamily": "LineMd",
+      "identifier": "downloading"
+    },
+    "downloading-loop": {
+      "codepoint": 57821,
+      "fontFamily": "LineMd",
+      "identifier": "downloadingLoop"
+    },
+    "edit": {
+      "codepoint": 57822,
+      "fontFamily": "LineMd",
+      "identifier": "edit"
+    },
+    "edit-filled": {
+      "codepoint": 57823,
+      "fontFamily": "LineMd",
+      "identifier": "editFilled"
+    },
+    "edit-full-filled": {
+      "codepoint": 57824,
+      "fontFamily": "LineMd",
+      "identifier": "editFullFilled"
+    },
+    "edit-full-twotone": {
+      "codepoint": 57825,
+      "fontFamily": "LineMd",
+      "identifier": "editFullTwotone"
+    },
+    "edit-twotone": {
+      "codepoint": 57826,
+      "fontFamily": "LineMd",
+      "identifier": "editTwotone"
+    },
+    "edit-twotone-full": {
+      "codepoint": 57827,
+      "fontFamily": "LineMd",
+      "identifier": "editTwotoneFull"
+    },
+    "email": {
+      "codepoint": 57828,
+      "fontFamily": "LineMd",
+      "identifier": "email"
+    },
+    "email-alert": {
+      "codepoint": 57829,
+      "fontFamily": "LineMd",
+      "identifier": "emailAlert"
+    },
+    "email-alert-filled": {
+      "codepoint": 57830,
+      "fontFamily": "LineMd",
+      "identifier": "emailAlertFilled"
+    },
+    "email-alert-twotone": {
+      "codepoint": 57831,
+      "fontFamily": "LineMd",
+      "identifier": "emailAlertTwotone"
+    },
+    "email-alt-filled": {
+      "codepoint": 57832,
+      "fontFamily": "LineMd",
+      "identifier": "emailAltFilled"
+    },
+    "email-alt-twotone": {
+      "codepoint": 57833,
+      "fontFamily": "LineMd",
+      "identifier": "emailAltTwotone"
+    },
+    "email-arrow-down": {
+      "codepoint": 57834,
+      "fontFamily": "LineMd",
+      "identifier": "emailArrowDown"
+    },
+    "email-arrow-down-filled": {
+      "codepoint": 57835,
+      "fontFamily": "LineMd",
+      "identifier": "emailArrowDownFilled"
+    },
+    "email-arrow-down-twotone": {
+      "codepoint": 57836,
+      "fontFamily": "LineMd",
+      "identifier": "emailArrowDownTwotone"
+    },
+    "email-arrow-left": {
+      "codepoint": 57837,
+      "fontFamily": "LineMd",
+      "identifier": "emailArrowLeft"
+    },
+    "email-arrow-left-filled": {
+      "codepoint": 57838,
+      "fontFamily": "LineMd",
+      "identifier": "emailArrowLeftFilled"
+    },
+    "email-arrow-left-twotone": {
+      "codepoint": 57839,
+      "fontFamily": "LineMd",
+      "identifier": "emailArrowLeftTwotone"
+    },
+    "email-arrow-right": {
+      "codepoint": 57840,
+      "fontFamily": "LineMd",
+      "identifier": "emailArrowRight"
+    },
+    "email-arrow-right-filled": {
+      "codepoint": 57841,
+      "fontFamily": "LineMd",
+      "identifier": "emailArrowRightFilled"
+    },
+    "email-arrow-right-twotone": {
+      "codepoint": 57842,
+      "fontFamily": "LineMd",
+      "identifier": "emailArrowRightTwotone"
+    },
+    "email-arrow-up": {
+      "codepoint": 57843,
+      "fontFamily": "LineMd",
+      "identifier": "emailArrowUp"
+    },
+    "email-arrow-up-filled": {
+      "codepoint": 57844,
+      "fontFamily": "LineMd",
+      "identifier": "emailArrowUpFilled"
+    },
+    "email-arrow-up-twotone": {
+      "codepoint": 57845,
+      "fontFamily": "LineMd",
+      "identifier": "emailArrowUpTwotone"
+    },
+    "email-check": {
+      "codepoint": 57846,
+      "fontFamily": "LineMd",
+      "identifier": "emailCheck"
+    },
+    "email-check-filled": {
+      "codepoint": 57847,
+      "fontFamily": "LineMd",
+      "identifier": "emailCheckFilled"
+    },
+    "email-check-twotone": {
+      "codepoint": 57848,
+      "fontFamily": "LineMd",
+      "identifier": "emailCheckTwotone"
+    },
+    "email-filled": {
+      "codepoint": 57849,
+      "fontFamily": "LineMd",
+      "identifier": "emailFilled"
+    },
+    "email-minus": {
+      "codepoint": 57850,
+      "fontFamily": "LineMd",
+      "identifier": "emailMinus"
+    },
+    "email-minus-filled": {
+      "codepoint": 57851,
+      "fontFamily": "LineMd",
+      "identifier": "emailMinusFilled"
+    },
+    "email-minus-twotone": {
+      "codepoint": 57852,
+      "fontFamily": "LineMd",
+      "identifier": "emailMinusTwotone"
+    },
+    "email-multiple": {
+      "codepoint": 57853,
+      "fontFamily": "LineMd",
+      "identifier": "emailMultiple"
+    },
+    "email-multiple-filled": {
+      "codepoint": 57854,
+      "fontFamily": "LineMd",
+      "identifier": "emailMultipleFilled"
+    },
+    "email-multiple-twotone": {
+      "codepoint": 57855,
+      "fontFamily": "LineMd",
+      "identifier": "emailMultipleTwotone"
+    },
+    "email-opened": {
+      "codepoint": 57856,
+      "fontFamily": "LineMd",
+      "identifier": "emailOpened"
+    },
+    "email-opened-alt-filled": {
+      "codepoint": 57857,
+      "fontFamily": "LineMd",
+      "identifier": "emailOpenedAltFilled"
+    },
+    "email-opened-alt-twotone": {
+      "codepoint": 57858,
+      "fontFamily": "LineMd",
+      "identifier": "emailOpenedAltTwotone"
+    },
+    "email-opened-filled": {
+      "codepoint": 57859,
+      "fontFamily": "LineMd",
+      "identifier": "emailOpenedFilled"
+    },
+    "email-opened-multiple": {
+      "codepoint": 57860,
+      "fontFamily": "LineMd",
+      "identifier": "emailOpenedMultiple"
+    },
+    "email-opened-multiple-filled": {
+      "codepoint": 57861,
+      "fontFamily": "LineMd",
+      "identifier": "emailOpenedMultipleFilled"
+    },
+    "email-opened-multiple-twotone": {
+      "codepoint": 57862,
+      "fontFamily": "LineMd",
+      "identifier": "emailOpenedMultipleTwotone"
+    },
+    "email-opened-twotone": {
+      "codepoint": 57863,
+      "fontFamily": "LineMd",
+      "identifier": "emailOpenedTwotone"
+    },
+    "email-opened-twotone-alt": {
+      "codepoint": 57864,
+      "fontFamily": "LineMd",
+      "identifier": "emailOpenedTwotoneAlt"
+    },
+    "email-plus": {
+      "codepoint": 57865,
+      "fontFamily": "LineMd",
+      "identifier": "emailPlus"
+    },
+    "email-plus-filled": {
+      "codepoint": 57866,
+      "fontFamily": "LineMd",
+      "identifier": "emailPlusFilled"
+    },
+    "email-plus-twotone": {
+      "codepoint": 57867,
+      "fontFamily": "LineMd",
+      "identifier": "emailPlusTwotone"
+    },
+    "email-remove": {
+      "codepoint": 57868,
+      "fontFamily": "LineMd",
+      "identifier": "emailRemove"
+    },
+    "email-remove-filled": {
+      "codepoint": 57869,
+      "fontFamily": "LineMd",
+      "identifier": "emailRemoveFilled"
+    },
+    "email-remove-twotone": {
+      "codepoint": 57870,
+      "fontFamily": "LineMd",
+      "identifier": "emailRemoveTwotone"
+    },
+    "email-twotone": {
+      "codepoint": 57871,
+      "fontFamily": "LineMd",
+      "identifier": "emailTwotone"
+    },
+    "email-twotone-alt": {
+      "codepoint": 57872,
+      "fontFamily": "LineMd",
+      "identifier": "emailTwotoneAlt"
+    },
+    "emoji-angry": {
+      "codepoint": 57873,
+      "fontFamily": "LineMd",
+      "identifier": "emojiAngry"
+    },
+    "emoji-angry-filled": {
+      "codepoint": 57874,
+      "fontFamily": "LineMd",
+      "identifier": "emojiAngryFilled"
+    },
+    "emoji-angry-twotone": {
+      "codepoint": 57875,
+      "fontFamily": "LineMd",
+      "identifier": "emojiAngryTwotone"
+    },
+    "emoji-cry": {
+      "codepoint": 57876,
+      "fontFamily": "LineMd",
+      "identifier": "emojiCry"
+    },
+    "emoji-cry-filled": {
+      "codepoint": 57877,
+      "fontFamily": "LineMd",
+      "identifier": "emojiCryFilled"
+    },
+    "emoji-frown": {
+      "codepoint": 57878,
+      "fontFamily": "LineMd",
+      "identifier": "emojiFrown"
+    },
+    "emoji-frown-filled": {
+      "codepoint": 57879,
+      "fontFamily": "LineMd",
+      "identifier": "emojiFrownFilled"
+    },
+    "emoji-frown-open": {
+      "codepoint": 57880,
+      "fontFamily": "LineMd",
+      "identifier": "emojiFrownOpen"
+    },
+    "emoji-frown-open-filled": {
+      "codepoint": 57881,
+      "fontFamily": "LineMd",
+      "identifier": "emojiFrownOpenFilled"
+    },
+    "emoji-frown-open-twotone": {
+      "codepoint": 57882,
+      "fontFamily": "LineMd",
+      "identifier": "emojiFrownOpenTwotone"
+    },
+    "emoji-frown-twotone": {
+      "codepoint": 57883,
+      "fontFamily": "LineMd",
+      "identifier": "emojiFrownTwotone"
+    },
+    "emoji-grin": {
+      "codepoint": 57884,
+      "fontFamily": "LineMd",
+      "identifier": "emojiGrin"
+    },
+    "emoji-grin-filled": {
+      "codepoint": 57885,
+      "fontFamily": "LineMd",
+      "identifier": "emojiGrinFilled"
+    },
+    "emoji-grin-twotone": {
+      "codepoint": 57886,
+      "fontFamily": "LineMd",
+      "identifier": "emojiGrinTwotone"
+    },
+    "emoji-neutral": {
+      "codepoint": 57887,
+      "fontFamily": "LineMd",
+      "identifier": "emojiNeutral"
+    },
+    "emoji-neutral-filled": {
+      "codepoint": 57888,
+      "fontFamily": "LineMd",
+      "identifier": "emojiNeutralFilled"
+    },
+    "emoji-neutral-twotone": {
+      "codepoint": 57889,
+      "fontFamily": "LineMd",
+      "identifier": "emojiNeutralTwotone"
+    },
+    "emoji-smile": {
+      "codepoint": 57890,
+      "fontFamily": "LineMd",
+      "identifier": "emojiSmile"
+    },
+    "emoji-smile-filled": {
+      "codepoint": 57891,
+      "fontFamily": "LineMd",
+      "identifier": "emojiSmileFilled"
+    },
+    "emoji-smile-twotone": {
+      "codepoint": 57892,
+      "fontFamily": "LineMd",
+      "identifier": "emojiSmileTwotone"
+    },
+    "emoji-smile-wink": {
+      "codepoint": 57893,
+      "fontFamily": "LineMd",
+      "identifier": "emojiSmileWink"
+    },
+    "emoji-smile-wink-filled": {
+      "codepoint": 57894,
+      "fontFamily": "LineMd",
+      "identifier": "emojiSmileWinkFilled"
+    },
+    "emoji-smile-wink-twotone": {
+      "codepoint": 57895,
+      "fontFamily": "LineMd",
+      "identifier": "emojiSmileWinkTwotone"
+    },
+    "engine": {
+      "codepoint": 57896,
+      "fontFamily": "LineMd",
+      "identifier": "engine"
+    },
+    "engine-filled": {
+      "codepoint": 57897,
+      "fontFamily": "LineMd",
+      "identifier": "engineFilled"
+    },
+    "engine-off": {
+      "codepoint": 57898,
+      "fontFamily": "LineMd",
+      "identifier": "engineOff"
+    },
+    "engine-off-filled": {
+      "codepoint": 57899,
+      "fontFamily": "LineMd",
+      "identifier": "engineOffFilled"
+    },
+    "engine-off-twotone": {
+      "codepoint": 57900,
+      "fontFamily": "LineMd",
+      "identifier": "engineOffTwotone"
+    },
+    "engine-twotone": {
+      "codepoint": 57901,
+      "fontFamily": "LineMd",
+      "identifier": "engineTwotone"
+    },
+    "external-link": {
+      "codepoint": 57902,
+      "fontFamily": "LineMd",
+      "identifier": "externalLink"
+    },
+    "external-link-rounded": {
+      "codepoint": 57903,
+      "fontFamily": "LineMd",
+      "identifier": "externalLinkRounded"
+    },
+    "facebook": {
+      "codepoint": 57904,
+      "fontFamily": "LineMd",
+      "identifier": "facebook"
+    },
+    "file": {
+      "codepoint": 57905,
+      "fontFamily": "LineMd",
+      "identifier": "file"
+    },
+    "file-cancel": {
+      "codepoint": 57906,
+      "fontFamily": "LineMd",
+      "identifier": "fileCancel"
+    },
+    "file-cancel-filled": {
+      "codepoint": 57907,
+      "fontFamily": "LineMd",
+      "identifier": "fileCancelFilled"
+    },
+    "file-cancel-twotone": {
+      "codepoint": 57908,
+      "fontFamily": "LineMd",
+      "identifier": "fileCancelTwotone"
+    },
+    "file-document": {
+      "codepoint": 57909,
+      "fontFamily": "LineMd",
+      "identifier": "fileDocument"
+    },
+    "file-document-cancel": {
+      "codepoint": 57910,
+      "fontFamily": "LineMd",
+      "identifier": "fileDocumentCancel"
+    },
+    "file-document-cancel-filled": {
+      "codepoint": 57911,
+      "fontFamily": "LineMd",
+      "identifier": "fileDocumentCancelFilled"
+    },
+    "file-document-cancel-twotone": {
+      "codepoint": 57912,
+      "fontFamily": "LineMd",
+      "identifier": "fileDocumentCancelTwotone"
+    },
+    "file-document-filled": {
+      "codepoint": 57913,
+      "fontFamily": "LineMd",
+      "identifier": "fileDocumentFilled"
+    },
+    "file-document-minus": {
+      "codepoint": 57914,
+      "fontFamily": "LineMd",
+      "identifier": "fileDocumentMinus"
+    },
+    "file-document-minus-filled": {
+      "codepoint": 57915,
+      "fontFamily": "LineMd",
+      "identifier": "fileDocumentMinusFilled"
+    },
+    "file-document-minus-twotone": {
+      "codepoint": 57916,
+      "fontFamily": "LineMd",
+      "identifier": "fileDocumentMinusTwotone"
+    },
+    "file-document-off": {
+      "codepoint": 57917,
+      "fontFamily": "LineMd",
+      "identifier": "fileDocumentOff"
+    },
+    "file-document-off-filled": {
+      "codepoint": 57918,
+      "fontFamily": "LineMd",
+      "identifier": "fileDocumentOffFilled"
+    },
+    "file-document-off-twotone": {
+      "codepoint": 57919,
+      "fontFamily": "LineMd",
+      "identifier": "fileDocumentOffTwotone"
+    },
+    "file-document-plus": {
+      "codepoint": 57920,
+      "fontFamily": "LineMd",
+      "identifier": "fileDocumentPlus"
+    },
+    "file-document-plus-filled": {
+      "codepoint": 57921,
+      "fontFamily": "LineMd",
+      "identifier": "fileDocumentPlusFilled"
+    },
+    "file-document-plus-twotone": {
+      "codepoint": 57922,
+      "fontFamily": "LineMd",
+      "identifier": "fileDocumentPlusTwotone"
+    },
+    "file-document-remove": {
+      "codepoint": 57923,
+      "fontFamily": "LineMd",
+      "identifier": "fileDocumentRemove"
+    },
+    "file-document-remove-filled": {
+      "codepoint": 57924,
+      "fontFamily": "LineMd",
+      "identifier": "fileDocumentRemoveFilled"
+    },
+    "file-document-remove-twotone": {
+      "codepoint": 57925,
+      "fontFamily": "LineMd",
+      "identifier": "fileDocumentRemoveTwotone"
+    },
+    "file-document-twotone": {
+      "codepoint": 57926,
+      "fontFamily": "LineMd",
+      "identifier": "fileDocumentTwotone"
+    },
+    "file-download": {
+      "codepoint": 57927,
+      "fontFamily": "LineMd",
+      "identifier": "fileDownload"
+    },
+    "file-download-filled": {
+      "codepoint": 57928,
+      "fontFamily": "LineMd",
+      "identifier": "fileDownloadFilled"
+    },
+    "file-download-twotone": {
+      "codepoint": 57929,
+      "fontFamily": "LineMd",
+      "identifier": "fileDownloadTwotone"
+    },
+    "file-export": {
+      "codepoint": 57930,
+      "fontFamily": "LineMd",
+      "identifier": "fileExport"
+    },
+    "file-export-filled": {
+      "codepoint": 57931,
+      "fontFamily": "LineMd",
+      "identifier": "fileExportFilled"
+    },
+    "file-export-twotone": {
+      "codepoint": 57932,
+      "fontFamily": "LineMd",
+      "identifier": "fileExportTwotone"
+    },
+    "file-filled": {
+      "codepoint": 57933,
+      "fontFamily": "LineMd",
+      "identifier": "fileFilled"
+    },
+    "file-import": {
+      "codepoint": 57934,
+      "fontFamily": "LineMd",
+      "identifier": "fileImport"
+    },
+    "file-import-filled": {
+      "codepoint": 57935,
+      "fontFamily": "LineMd",
+      "identifier": "fileImportFilled"
+    },
+    "file-import-twotone": {
+      "codepoint": 57936,
+      "fontFamily": "LineMd",
+      "identifier": "fileImportTwotone"
+    },
+    "file-minus": {
+      "codepoint": 57937,
+      "fontFamily": "LineMd",
+      "identifier": "fileMinus"
+    },
+    "file-minus-filled": {
+      "codepoint": 57938,
+      "fontFamily": "LineMd",
+      "identifier": "fileMinusFilled"
+    },
+    "file-minus-twotone": {
+      "codepoint": 57939,
+      "fontFamily": "LineMd",
+      "identifier": "fileMinusTwotone"
+    },
+    "file-off": {
+      "codepoint": 57940,
+      "fontFamily": "LineMd",
+      "identifier": "fileOff"
+    },
+    "file-off-filled": {
+      "codepoint": 57941,
+      "fontFamily": "LineMd",
+      "identifier": "fileOffFilled"
+    },
+    "file-off-twotone": {
+      "codepoint": 57942,
+      "fontFamily": "LineMd",
+      "identifier": "fileOffTwotone"
+    },
+    "file-plus": {
+      "codepoint": 57943,
+      "fontFamily": "LineMd",
+      "identifier": "filePlus"
+    },
+    "file-plus-filled": {
+      "codepoint": 57944,
+      "fontFamily": "LineMd",
+      "identifier": "filePlusFilled"
+    },
+    "file-plus-twotone": {
+      "codepoint": 57945,
+      "fontFamily": "LineMd",
+      "identifier": "filePlusTwotone"
+    },
+    "file-remove": {
+      "codepoint": 57946,
+      "fontFamily": "LineMd",
+      "identifier": "fileRemove"
+    },
+    "file-remove-filled": {
+      "codepoint": 57947,
+      "fontFamily": "LineMd",
+      "identifier": "fileRemoveFilled"
+    },
+    "file-remove-twotone": {
+      "codepoint": 57948,
+      "fontFamily": "LineMd",
+      "identifier": "fileRemoveTwotone"
+    },
+    "file-search": {
+      "codepoint": 57949,
+      "fontFamily": "LineMd",
+      "identifier": "fileSearch"
+    },
+    "file-search-filled": {
+      "codepoint": 57950,
+      "fontFamily": "LineMd",
+      "identifier": "fileSearchFilled"
+    },
+    "file-search-twotone": {
+      "codepoint": 57951,
+      "fontFamily": "LineMd",
+      "identifier": "fileSearchTwotone"
+    },
+    "file-twotone": {
+      "codepoint": 57952,
+      "fontFamily": "LineMd",
+      "identifier": "fileTwotone"
+    },
+    "file-upload": {
+      "codepoint": 57953,
+      "fontFamily": "LineMd",
+      "identifier": "fileUpload"
+    },
+    "file-upload-filled": {
+      "codepoint": 57954,
+      "fontFamily": "LineMd",
+      "identifier": "fileUploadFilled"
+    },
+    "file-upload-twotone": {
+      "codepoint": 57955,
+      "fontFamily": "LineMd",
+      "identifier": "fileUploadTwotone"
+    },
+    "filter": {
+      "codepoint": 57956,
+      "fontFamily": "LineMd",
+      "identifier": "filter"
+    },
+    "filter-alt": {
+      "codepoint": 57957,
+      "fontFamily": "LineMd",
+      "identifier": "filterAlt"
+    },
+    "filter-alt-off": {
+      "codepoint": 57958,
+      "fontFamily": "LineMd",
+      "identifier": "filterAltOff"
+    },
+    "filter-confirm": {
+      "codepoint": 57959,
+      "fontFamily": "LineMd",
+      "identifier": "filterConfirm"
+    },
+    "filter-confirm-filled": {
+      "codepoint": 57960,
+      "fontFamily": "LineMd",
+      "identifier": "filterConfirmFilled"
+    },
+    "filter-confirm-twotone": {
+      "codepoint": 57961,
+      "fontFamily": "LineMd",
+      "identifier": "filterConfirmTwotone"
+    },
+    "filter-filled": {
+      "codepoint": 57962,
+      "fontFamily": "LineMd",
+      "identifier": "filterFilled"
+    },
+    "filter-minus": {
+      "codepoint": 57963,
+      "fontFamily": "LineMd",
+      "identifier": "filterMinus"
+    },
+    "filter-minus-filled": {
+      "codepoint": 57964,
+      "fontFamily": "LineMd",
+      "identifier": "filterMinusFilled"
+    },
+    "filter-minus-twotone": {
+      "codepoint": 57965,
+      "fontFamily": "LineMd",
+      "identifier": "filterMinusTwotone"
+    },
+    "filter-off": {
+      "codepoint": 57966,
+      "fontFamily": "LineMd",
+      "identifier": "filterOff"
+    },
+    "filter-off-filled": {
+      "codepoint": 57967,
+      "fontFamily": "LineMd",
+      "identifier": "filterOffFilled"
+    },
+    "filter-off-twotone": {
+      "codepoint": 57968,
+      "fontFamily": "LineMd",
+      "identifier": "filterOffTwotone"
+    },
+    "filter-plus": {
+      "codepoint": 57969,
+      "fontFamily": "LineMd",
+      "identifier": "filterPlus"
+    },
+    "filter-plus-filled": {
+      "codepoint": 57970,
+      "fontFamily": "LineMd",
+      "identifier": "filterPlusFilled"
+    },
+    "filter-plus-twotone": {
+      "codepoint": 57971,
+      "fontFamily": "LineMd",
+      "identifier": "filterPlusTwotone"
+    },
+    "filter-remove": {
+      "codepoint": 57972,
+      "fontFamily": "LineMd",
+      "identifier": "filterRemove"
+    },
+    "filter-remove-filled": {
+      "codepoint": 57973,
+      "fontFamily": "LineMd",
+      "identifier": "filterRemoveFilled"
+    },
+    "filter-remove-twotone": {
+      "codepoint": 57974,
+      "fontFamily": "LineMd",
+      "identifier": "filterRemoveTwotone"
+    },
+    "filter-twotone": {
+      "codepoint": 57975,
+      "fontFamily": "LineMd",
+      "identifier": "filterTwotone"
+    },
+    "folder": {
+      "codepoint": 57976,
+      "fontFamily": "LineMd",
+      "identifier": "folder"
+    },
+    "folder-arrow-down": {
+      "codepoint": 57977,
+      "fontFamily": "LineMd",
+      "identifier": "folderArrowDown"
+    },
+    "folder-arrow-down-filled": {
+      "codepoint": 57978,
+      "fontFamily": "LineMd",
+      "identifier": "folderArrowDownFilled"
+    },
+    "folder-arrow-down-twotone": {
+      "codepoint": 57979,
+      "fontFamily": "LineMd",
+      "identifier": "folderArrowDownTwotone"
+    },
+    "folder-arrow-left": {
+      "codepoint": 57980,
+      "fontFamily": "LineMd",
+      "identifier": "folderArrowLeft"
+    },
+    "folder-arrow-left-filled": {
+      "codepoint": 57981,
+      "fontFamily": "LineMd",
+      "identifier": "folderArrowLeftFilled"
+    },
+    "folder-arrow-left-twotone": {
+      "codepoint": 57982,
+      "fontFamily": "LineMd",
+      "identifier": "folderArrowLeftTwotone"
+    },
+    "folder-arrow-right": {
+      "codepoint": 57983,
+      "fontFamily": "LineMd",
+      "identifier": "folderArrowRight"
+    },
+    "folder-arrow-right-filled": {
+      "codepoint": 57984,
+      "fontFamily": "LineMd",
+      "identifier": "folderArrowRightFilled"
+    },
+    "folder-arrow-right-twotone": {
+      "codepoint": 57985,
+      "fontFamily": "LineMd",
+      "identifier": "folderArrowRightTwotone"
+    },
+    "folder-arrow-up": {
+      "codepoint": 57986,
+      "fontFamily": "LineMd",
+      "identifier": "folderArrowUp"
+    },
+    "folder-arrow-up-filled": {
+      "codepoint": 57987,
+      "fontFamily": "LineMd",
+      "identifier": "folderArrowUpFilled"
+    },
+    "folder-arrow-up-twotone": {
+      "codepoint": 57988,
+      "fontFamily": "LineMd",
+      "identifier": "folderArrowUpTwotone"
+    },
+    "folder-cancel": {
+      "codepoint": 57989,
+      "fontFamily": "LineMd",
+      "identifier": "folderCancel"
+    },
+    "folder-cancel-filled": {
+      "codepoint": 57990,
+      "fontFamily": "LineMd",
+      "identifier": "folderCancelFilled"
+    },
+    "folder-cancel-twotone": {
+      "codepoint": 57991,
+      "fontFamily": "LineMd",
+      "identifier": "folderCancelTwotone"
+    },
+    "folder-check": {
+      "codepoint": 57992,
+      "fontFamily": "LineMd",
+      "identifier": "folderCheck"
+    },
+    "folder-check-filled": {
+      "codepoint": 57993,
+      "fontFamily": "LineMd",
+      "identifier": "folderCheckFilled"
+    },
+    "folder-check-twotone": {
+      "codepoint": 57994,
+      "fontFamily": "LineMd",
+      "identifier": "folderCheckTwotone"
+    },
+    "folder-filled": {
+      "codepoint": 57995,
+      "fontFamily": "LineMd",
+      "identifier": "folderFilled"
+    },
+    "folder-minus": {
+      "codepoint": 57996,
+      "fontFamily": "LineMd",
+      "identifier": "folderMinus"
+    },
+    "folder-minus-filled": {
+      "codepoint": 57997,
+      "fontFamily": "LineMd",
+      "identifier": "folderMinusFilled"
+    },
+    "folder-minus-twotone": {
+      "codepoint": 57998,
+      "fontFamily": "LineMd",
+      "identifier": "folderMinusTwotone"
+    },
+    "folder-multiple": {
+      "codepoint": 57999,
+      "fontFamily": "LineMd",
+      "identifier": "folderMultiple"
+    },
+    "folder-multiple-filled": {
+      "codepoint": 58000,
+      "fontFamily": "LineMd",
+      "identifier": "folderMultipleFilled"
+    },
+    "folder-multiple-twotone": {
+      "codepoint": 58001,
+      "fontFamily": "LineMd",
+      "identifier": "folderMultipleTwotone"
+    },
+    "folder-music": {
+      "codepoint": 58002,
+      "fontFamily": "LineMd",
+      "identifier": "folderMusic"
+    },
+    "folder-music-filled": {
+      "codepoint": 58003,
+      "fontFamily": "LineMd",
+      "identifier": "folderMusicFilled"
+    },
+    "folder-music-twotone": {
+      "codepoint": 58004,
+      "fontFamily": "LineMd",
+      "identifier": "folderMusicTwotone"
+    },
+    "folder-network": {
+      "codepoint": 58005,
+      "fontFamily": "LineMd",
+      "identifier": "folderNetwork"
+    },
+    "folder-network-filled": {
+      "codepoint": 58006,
+      "fontFamily": "LineMd",
+      "identifier": "folderNetworkFilled"
+    },
+    "folder-network-twotone": {
+      "codepoint": 58007,
+      "fontFamily": "LineMd",
+      "identifier": "folderNetworkTwotone"
+    },
+    "folder-off": {
+      "codepoint": 58008,
+      "fontFamily": "LineMd",
+      "identifier": "folderOff"
+    },
+    "folder-off-filled": {
+      "codepoint": 58009,
+      "fontFamily": "LineMd",
+      "identifier": "folderOffFilled"
+    },
+    "folder-off-twotone": {
+      "codepoint": 58010,
+      "fontFamily": "LineMd",
+      "identifier": "folderOffTwotone"
+    },
+    "folder-plus": {
+      "codepoint": 58011,
+      "fontFamily": "LineMd",
+      "identifier": "folderPlus"
+    },
+    "folder-plus-filled": {
+      "codepoint": 58012,
+      "fontFamily": "LineMd",
+      "identifier": "folderPlusFilled"
+    },
+    "folder-plus-twotone": {
+      "codepoint": 58013,
+      "fontFamily": "LineMd",
+      "identifier": "folderPlusTwotone"
+    },
+    "folder-remove": {
+      "codepoint": 58014,
+      "fontFamily": "LineMd",
+      "identifier": "folderRemove"
+    },
+    "folder-remove-filled": {
+      "codepoint": 58015,
+      "fontFamily": "LineMd",
+      "identifier": "folderRemoveFilled"
+    },
+    "folder-remove-twotone": {
+      "codepoint": 58016,
+      "fontFamily": "LineMd",
+      "identifier": "folderRemoveTwotone"
+    },
+    "folder-settings": {
+      "codepoint": 58017,
+      "fontFamily": "LineMd",
+      "identifier": "folderSettings"
+    },
+    "folder-settings-filled": {
+      "codepoint": 58018,
+      "fontFamily": "LineMd",
+      "identifier": "folderSettingsFilled"
+    },
+    "folder-settings-twotone": {
+      "codepoint": 58019,
+      "fontFamily": "LineMd",
+      "identifier": "folderSettingsTwotone"
+    },
+    "folder-twotone": {
+      "codepoint": 58020,
+      "fontFamily": "LineMd",
+      "identifier": "folderTwotone"
+    },
+    "folder-zip": {
+      "codepoint": 58021,
+      "fontFamily": "LineMd",
+      "identifier": "folderZip"
+    },
+    "folder-zip-filled": {
+      "codepoint": 58022,
+      "fontFamily": "LineMd",
+      "identifier": "folderZipFilled"
+    },
+    "folder-zip-twotone": {
+      "codepoint": 58023,
+      "fontFamily": "LineMd",
+      "identifier": "folderZipTwotone"
+    },
+    "fork-left": {
+      "codepoint": 58024,
+      "fontFamily": "LineMd",
+      "identifier": "forkLeft"
+    },
+    "fork-right": {
+      "codepoint": 58025,
+      "fontFamily": "LineMd",
+      "identifier": "forkRight"
+    },
+    "gauge": {
+      "codepoint": 58026,
+      "fontFamily": "LineMd",
+      "identifier": "gauge"
+    },
+    "gauge-empty": {
+      "codepoint": 58027,
+      "fontFamily": "LineMd",
+      "identifier": "gaugeEmpty"
+    },
+    "gauge-empty-twotone": {
+      "codepoint": 58028,
+      "fontFamily": "LineMd",
+      "identifier": "gaugeEmptyTwotone"
+    },
+    "gauge-full": {
+      "codepoint": 58029,
+      "fontFamily": "LineMd",
+      "identifier": "gaugeFull"
+    },
+    "gauge-full-twotone": {
+      "codepoint": 58030,
+      "fontFamily": "LineMd",
+      "identifier": "gaugeFullTwotone"
+    },
+    "gauge-loop": {
+      "codepoint": 58031,
+      "fontFamily": "LineMd",
+      "identifier": "gaugeLoop"
+    },
+    "gauge-low": {
+      "codepoint": 58032,
+      "fontFamily": "LineMd",
+      "identifier": "gaugeLow"
+    },
+    "gauge-low-twotone": {
+      "codepoint": 58033,
+      "fontFamily": "LineMd",
+      "identifier": "gaugeLowTwotone"
+    },
+    "gauge-twotone": {
+      "codepoint": 58034,
+      "fontFamily": "LineMd",
+      "identifier": "gaugeTwotone"
+    },
+    "gauge-twotone-loop": {
+      "codepoint": 58035,
+      "fontFamily": "LineMd",
+      "identifier": "gaugeTwotoneLoop"
+    },
+    "github": {
+      "codepoint": 58036,
+      "fontFamily": "LineMd",
+      "identifier": "github"
+    },
+    "github-loop": {
+      "codepoint": 58037,
+      "fontFamily": "LineMd",
+      "identifier": "githubLoop"
+    },
+    "github-twotone": {
+      "codepoint": 58038,
+      "fontFamily": "LineMd",
+      "identifier": "githubTwotone"
+    },
+    "github-twotone-loop": {
+      "codepoint": 58039,
+      "fontFamily": "LineMd",
+      "identifier": "githubTwotoneLoop"
+    },
+    "grid-3": {
+      "codepoint": 58040,
+      "fontFamily": "LineMd",
+      "identifier": "grid3"
+    },
+    "grid-3-filled": {
+      "codepoint": 58041,
+      "fontFamily": "LineMd",
+      "identifier": "grid3Filled"
+    },
+    "grid-3-solid": {
+      "codepoint": 58042,
+      "fontFamily": "LineMd",
+      "identifier": "grid3Solid"
+    },
+    "grid-3-twotone": {
+      "codepoint": 58043,
+      "fontFamily": "LineMd",
+      "identifier": "grid3Twotone"
+    },
+    "hash": {
+      "codepoint": 58044,
+      "fontFamily": "LineMd",
+      "identifier": "hash"
+    },
+    "hash-small": {
+      "codepoint": 58045,
+      "fontFamily": "LineMd",
+      "identifier": "hashSmall"
+    },
+    "hazard-lights": {
+      "codepoint": 58046,
+      "fontFamily": "LineMd",
+      "identifier": "hazardLights"
+    },
+    "hazard-lights-filled": {
+      "codepoint": 58047,
+      "fontFamily": "LineMd",
+      "identifier": "hazardLightsFilled"
+    },
+    "hazard-lights-filled-loop": {
+      "codepoint": 58048,
+      "fontFamily": "LineMd",
+      "identifier": "hazardLightsFilledLoop"
+    },
+    "hazard-lights-loop": {
+      "codepoint": 58049,
+      "fontFamily": "LineMd",
+      "identifier": "hazardLightsLoop"
+    },
+    "hazard-lights-off": {
+      "codepoint": 58050,
+      "fontFamily": "LineMd",
+      "identifier": "hazardLightsOff"
+    },
+    "hazard-lights-off-filled": {
+      "codepoint": 58051,
+      "fontFamily": "LineMd",
+      "identifier": "hazardLightsOffFilled"
+    },
+    "hazard-lights-off-filled-loop": {
+      "codepoint": 58052,
+      "fontFamily": "LineMd",
+      "identifier": "hazardLightsOffFilledLoop"
+    },
+    "hazard-lights-off-loop": {
+      "codepoint": 58053,
+      "fontFamily": "LineMd",
+      "identifier": "hazardLightsOffLoop"
+    },
+    "hazard-lights-off-twotone": {
+      "codepoint": 58054,
+      "fontFamily": "LineMd",
+      "identifier": "hazardLightsOffTwotone"
+    },
+    "hazard-lights-off-twotone-loop": {
+      "codepoint": 58055,
+      "fontFamily": "LineMd",
+      "identifier": "hazardLightsOffTwotoneLoop"
+    },
+    "hazard-lights-twotone": {
+      "codepoint": 58056,
+      "fontFamily": "LineMd",
+      "identifier": "hazardLightsTwotone"
+    },
+    "hazard-lights-twotone-loop": {
+      "codepoint": 58057,
+      "fontFamily": "LineMd",
+      "identifier": "hazardLightsTwotoneLoop"
+    },
+    "heart": {
+      "codepoint": 58058,
+      "fontFamily": "LineMd",
+      "identifier": "heart"
+    },
+    "heart-filled": {
+      "codepoint": 58059,
+      "fontFamily": "LineMd",
+      "identifier": "heartFilled"
+    },
+    "heart-filled-half": {
+      "codepoint": 58060,
+      "fontFamily": "LineMd",
+      "identifier": "heartFilledHalf"
+    },
+    "heart-half": {
+      "codepoint": 58061,
+      "fontFamily": "LineMd",
+      "identifier": "heartHalf"
+    },
+    "heart-half-filled": {
+      "codepoint": 58062,
+      "fontFamily": "LineMd",
+      "identifier": "heartHalfFilled"
+    },
+    "heart-half-twotone": {
+      "codepoint": 58063,
+      "fontFamily": "LineMd",
+      "identifier": "heartHalfTwotone"
+    },
+    "heart-twotone": {
+      "codepoint": 58064,
+      "fontFamily": "LineMd",
+      "identifier": "heartTwotone"
+    },
+    "heart-twotone-half": {
+      "codepoint": 58065,
+      "fontFamily": "LineMd",
+      "identifier": "heartTwotoneHalf"
+    },
+    "heart-twotone-half-filled": {
+      "codepoint": 58066,
+      "fontFamily": "LineMd",
+      "identifier": "heartTwotoneHalfFilled"
+    },
+    "home": {
+      "codepoint": 58067,
+      "fontFamily": "LineMd",
+      "identifier": "home"
+    },
+    "home-alt-twotone": {
+      "codepoint": 58068,
+      "fontFamily": "LineMd",
+      "identifier": "homeAltTwotone"
+    },
+    "home-md": {
+      "codepoint": 58069,
+      "fontFamily": "LineMd",
+      "identifier": "homeMd"
+    },
+    "home-md-alt-twotone": {
+      "codepoint": 58070,
+      "fontFamily": "LineMd",
+      "identifier": "homeMdAltTwotone"
+    },
+    "home-md-twotone": {
+      "codepoint": 58071,
+      "fontFamily": "LineMd",
+      "identifier": "homeMdTwotone"
+    },
+    "home-md-twotone-alt": {
+      "codepoint": 58072,
+      "fontFamily": "LineMd",
+      "identifier": "homeMdTwotoneAlt"
+    },
+    "home-simple": {
+      "codepoint": 58073,
+      "fontFamily": "LineMd",
+      "identifier": "homeSimple"
+    },
+    "home-simple-filled": {
+      "codepoint": 58074,
+      "fontFamily": "LineMd",
+      "identifier": "homeSimpleFilled"
+    },
+    "home-simple-twotone": {
+      "codepoint": 58075,
+      "fontFamily": "LineMd",
+      "identifier": "homeSimpleTwotone"
+    },
+    "home-twotone": {
+      "codepoint": 58076,
+      "fontFamily": "LineMd",
+      "identifier": "homeTwotone"
+    },
+    "home-twotone-alt": {
+      "codepoint": 58077,
+      "fontFamily": "LineMd",
+      "identifier": "homeTwotoneAlt"
+    },
+    "iconify1": {
+      "codepoint": 58078,
+      "fontFamily": "LineMd",
+      "identifier": "iconify1"
+    },
+    "iconify2": {
+      "codepoint": 58079,
+      "fontFamily": "LineMd",
+      "identifier": "iconify2"
+    },
     "iconify2-static": {
       "codepoint": 57344,
       "fontFamily": "LineMd",
@@ -35,6 +3705,2721 @@
       "codepoint": 57345,
       "fontFamily": "LineMd",
       "identifier": "iconify2StaticTwotone"
+    },
+    "iconify2-twotone": {
+      "codepoint": 58080,
+      "fontFamily": "LineMd",
+      "identifier": "iconify2Twotone"
+    },
+    "image": {
+      "codepoint": 58081,
+      "fontFamily": "LineMd",
+      "identifier": "image"
+    },
+    "image-filled": {
+      "codepoint": 58082,
+      "fontFamily": "LineMd",
+      "identifier": "imageFilled"
+    },
+    "image-twotone": {
+      "codepoint": 58083,
+      "fontFamily": "LineMd",
+      "identifier": "imageTwotone"
+    },
+    "instagram": {
+      "codepoint": 58084,
+      "fontFamily": "LineMd",
+      "identifier": "instagram"
+    },
+    "laptop": {
+      "codepoint": 58085,
+      "fontFamily": "LineMd",
+      "identifier": "laptop"
+    },
+    "laptop-filled": {
+      "codepoint": 58086,
+      "fontFamily": "LineMd",
+      "identifier": "laptopFilled"
+    },
+    "laptop-off": {
+      "codepoint": 58087,
+      "fontFamily": "LineMd",
+      "identifier": "laptopOff"
+    },
+    "laptop-off-filled": {
+      "codepoint": 58088,
+      "fontFamily": "LineMd",
+      "identifier": "laptopOffFilled"
+    },
+    "laptop-off-twotone": {
+      "codepoint": 58089,
+      "fontFamily": "LineMd",
+      "identifier": "laptopOffTwotone"
+    },
+    "laptop-twotone": {
+      "codepoint": 58090,
+      "fontFamily": "LineMd",
+      "identifier": "laptopTwotone"
+    },
+    "light-dark": {
+      "codepoint": 58091,
+      "fontFamily": "LineMd",
+      "identifier": "lightDark"
+    },
+    "light-dark-loop": {
+      "codepoint": 58092,
+      "fontFamily": "LineMd",
+      "identifier": "lightDarkLoop"
+    },
+    "lightbulb": {
+      "codepoint": 58093,
+      "fontFamily": "LineMd",
+      "identifier": "lightbulb"
+    },
+    "lightbulb-filled": {
+      "codepoint": 58094,
+      "fontFamily": "LineMd",
+      "identifier": "lightbulbFilled"
+    },
+    "lightbulb-off": {
+      "codepoint": 58095,
+      "fontFamily": "LineMd",
+      "identifier": "lightbulbOff"
+    },
+    "lightbulb-off-filled": {
+      "codepoint": 58096,
+      "fontFamily": "LineMd",
+      "identifier": "lightbulbOffFilled"
+    },
+    "lightbulb-off-filled-loop": {
+      "codepoint": 58097,
+      "fontFamily": "LineMd",
+      "identifier": "lightbulbOffFilledLoop"
+    },
+    "lightbulb-off-loop": {
+      "codepoint": 58098,
+      "fontFamily": "LineMd",
+      "identifier": "lightbulbOffLoop"
+    },
+    "lightbulb-off-twotone": {
+      "codepoint": 58099,
+      "fontFamily": "LineMd",
+      "identifier": "lightbulbOffTwotone"
+    },
+    "lightbulb-off-twotone-loop": {
+      "codepoint": 58100,
+      "fontFamily": "LineMd",
+      "identifier": "lightbulbOffTwotoneLoop"
+    },
+    "lightbulb-twotone": {
+      "codepoint": 58101,
+      "fontFamily": "LineMd",
+      "identifier": "lightbulbTwotone"
+    },
+    "link": {
+      "codepoint": 58102,
+      "fontFamily": "LineMd",
+      "identifier": "link"
+    },
+    "linkedin": {
+      "codepoint": 58103,
+      "fontFamily": "LineMd",
+      "identifier": "linkedin"
+    },
+    "list": {
+      "codepoint": 58104,
+      "fontFamily": "LineMd",
+      "identifier": "list"
+    },
+    "list-3": {
+      "codepoint": 58105,
+      "fontFamily": "LineMd",
+      "identifier": "list3"
+    },
+    "list-3-filled": {
+      "codepoint": 58106,
+      "fontFamily": "LineMd",
+      "identifier": "list3Filled"
+    },
+    "list-3-solid": {
+      "codepoint": 58107,
+      "fontFamily": "LineMd",
+      "identifier": "list3Solid"
+    },
+    "list-3-twotone": {
+      "codepoint": 58108,
+      "fontFamily": "LineMd",
+      "identifier": "list3Twotone"
+    },
+    "list-indented": {
+      "codepoint": 58109,
+      "fontFamily": "LineMd",
+      "identifier": "listIndented"
+    },
+    "list-indented-reversed": {
+      "codepoint": 58110,
+      "fontFamily": "LineMd",
+      "identifier": "listIndentedReversed"
+    },
+    "loading-alt-loop": {
+      "codepoint": 58111,
+      "fontFamily": "LineMd",
+      "identifier": "loadingAltLoop"
+    },
+    "loading-loop": {
+      "codepoint": 58112,
+      "fontFamily": "LineMd",
+      "identifier": "loadingLoop"
+    },
+    "loading-twotone-loop": {
+      "codepoint": 58113,
+      "fontFamily": "LineMd",
+      "identifier": "loadingTwotoneLoop"
+    },
+    "log-in": {
+      "codepoint": 58114,
+      "fontFamily": "LineMd",
+      "identifier": "logIn"
+    },
+    "log-out": {
+      "codepoint": 58115,
+      "fontFamily": "LineMd",
+      "identifier": "logOut"
+    },
+    "login": {
+      "codepoint": 58116,
+      "fontFamily": "LineMd",
+      "identifier": "login"
+    },
+    "logout": {
+      "codepoint": 58117,
+      "fontFamily": "LineMd",
+      "identifier": "logout"
+    },
+    "map-marker": {
+      "codepoint": 58118,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarker"
+    },
+    "map-marker-alt": {
+      "codepoint": 58119,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerAlt"
+    },
+    "map-marker-alt-filled": {
+      "codepoint": 58120,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerAltFilled"
+    },
+    "map-marker-alt-filled-loop": {
+      "codepoint": 58121,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerAltFilledLoop"
+    },
+    "map-marker-alt-loop": {
+      "codepoint": 58122,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerAltLoop"
+    },
+    "map-marker-alt-off": {
+      "codepoint": 58123,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerAltOff"
+    },
+    "map-marker-alt-off-filled": {
+      "codepoint": 58124,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerAltOffFilled"
+    },
+    "map-marker-alt-off-filled-loop": {
+      "codepoint": 58125,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerAltOffFilledLoop"
+    },
+    "map-marker-alt-off-loop": {
+      "codepoint": 58126,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerAltOffLoop"
+    },
+    "map-marker-alt-off-twotone": {
+      "codepoint": 58127,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerAltOffTwotone"
+    },
+    "map-marker-alt-off-twotone-loop": {
+      "codepoint": 58128,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerAltOffTwotoneLoop"
+    },
+    "map-marker-alt-twotone": {
+      "codepoint": 58129,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerAltTwotone"
+    },
+    "map-marker-alt-twotone-loop": {
+      "codepoint": 58130,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerAltTwotoneLoop"
+    },
+    "map-marker-filled": {
+      "codepoint": 58131,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerFilled"
+    },
+    "map-marker-filled-loop": {
+      "codepoint": 58132,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerFilledLoop"
+    },
+    "map-marker-loop": {
+      "codepoint": 58133,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerLoop"
+    },
+    "map-marker-minus": {
+      "codepoint": 58134,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMinus"
+    },
+    "map-marker-minus-filled": {
+      "codepoint": 58135,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMinusFilled"
+    },
+    "map-marker-minus-twotone": {
+      "codepoint": 58136,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMinusTwotone"
+    },
+    "map-marker-multiple": {
+      "codepoint": 58137,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMultiple"
+    },
+    "map-marker-multiple-alt": {
+      "codepoint": 58138,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMultipleAlt"
+    },
+    "map-marker-multiple-alt-filled": {
+      "codepoint": 58139,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMultipleAltFilled"
+    },
+    "map-marker-multiple-alt-filled-loop": {
+      "codepoint": 58140,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMultipleAltFilledLoop"
+    },
+    "map-marker-multiple-alt-loop": {
+      "codepoint": 58141,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMultipleAltLoop"
+    },
+    "map-marker-multiple-alt-off": {
+      "codepoint": 58142,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMultipleAltOff"
+    },
+    "map-marker-multiple-alt-off-filled": {
+      "codepoint": 58143,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMultipleAltOffFilled"
+    },
+    "map-marker-multiple-alt-off-filled-loop": {
+      "codepoint": 58144,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMultipleAltOffFilledLoop"
+    },
+    "map-marker-multiple-alt-off-loop": {
+      "codepoint": 58145,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMultipleAltOffLoop"
+    },
+    "map-marker-multiple-alt-off-twotone": {
+      "codepoint": 58146,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMultipleAltOffTwotone"
+    },
+    "map-marker-multiple-alt-off-twotone-loop": {
+      "codepoint": 58147,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMultipleAltOffTwotoneLoop"
+    },
+    "map-marker-multiple-alt-twotone": {
+      "codepoint": 58148,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMultipleAltTwotone"
+    },
+    "map-marker-multiple-alt-twotone-loop": {
+      "codepoint": 58149,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMultipleAltTwotoneLoop"
+    },
+    "map-marker-multiple-filled": {
+      "codepoint": 58150,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMultipleFilled"
+    },
+    "map-marker-multiple-filled-loop": {
+      "codepoint": 58151,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMultipleFilledLoop"
+    },
+    "map-marker-multiple-loop": {
+      "codepoint": 58152,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMultipleLoop"
+    },
+    "map-marker-multiple-off": {
+      "codepoint": 58153,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMultipleOff"
+    },
+    "map-marker-multiple-off-filled": {
+      "codepoint": 58154,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMultipleOffFilled"
+    },
+    "map-marker-multiple-off-filled-loop": {
+      "codepoint": 58155,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMultipleOffFilledLoop"
+    },
+    "map-marker-multiple-off-loop": {
+      "codepoint": 58156,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMultipleOffLoop"
+    },
+    "map-marker-multiple-off-twotone": {
+      "codepoint": 58157,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMultipleOffTwotone"
+    },
+    "map-marker-multiple-off-twotone-loop": {
+      "codepoint": 58158,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMultipleOffTwotoneLoop"
+    },
+    "map-marker-multiple-twotone": {
+      "codepoint": 58159,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMultipleTwotone"
+    },
+    "map-marker-multiple-twotone-loop": {
+      "codepoint": 58160,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerMultipleTwotoneLoop"
+    },
+    "map-marker-off": {
+      "codepoint": 58161,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerOff"
+    },
+    "map-marker-off-alt": {
+      "codepoint": 58162,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerOffAlt"
+    },
+    "map-marker-off-alt-filled": {
+      "codepoint": 58163,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerOffAltFilled"
+    },
+    "map-marker-off-alt-filled-loop": {
+      "codepoint": 58164,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerOffAltFilledLoop"
+    },
+    "map-marker-off-alt-loop": {
+      "codepoint": 58165,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerOffAltLoop"
+    },
+    "map-marker-off-alt-twotone": {
+      "codepoint": 58166,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerOffAltTwotone"
+    },
+    "map-marker-off-alt-twotone-loop": {
+      "codepoint": 58167,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerOffAltTwotoneLoop"
+    },
+    "map-marker-off-filled": {
+      "codepoint": 58168,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerOffFilled"
+    },
+    "map-marker-off-filled-loop": {
+      "codepoint": 58169,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerOffFilledLoop"
+    },
+    "map-marker-off-loop": {
+      "codepoint": 58170,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerOffLoop"
+    },
+    "map-marker-off-twotone": {
+      "codepoint": 58171,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerOffTwotone"
+    },
+    "map-marker-off-twotone-loop": {
+      "codepoint": 58172,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerOffTwotoneLoop"
+    },
+    "map-marker-plus": {
+      "codepoint": 58173,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerPlus"
+    },
+    "map-marker-plus-filled": {
+      "codepoint": 58174,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerPlusFilled"
+    },
+    "map-marker-plus-twotone": {
+      "codepoint": 58175,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerPlusTwotone"
+    },
+    "map-marker-radius": {
+      "codepoint": 58176,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerRadius"
+    },
+    "map-marker-radius-filled": {
+      "codepoint": 58177,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerRadiusFilled"
+    },
+    "map-marker-radius-twotone": {
+      "codepoint": 58178,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerRadiusTwotone"
+    },
+    "map-marker-remove": {
+      "codepoint": 58179,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerRemove"
+    },
+    "map-marker-remove-filled": {
+      "codepoint": 58180,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerRemoveFilled"
+    },
+    "map-marker-remove-twotone": {
+      "codepoint": 58181,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerRemoveTwotone"
+    },
+    "map-marker-twotone": {
+      "codepoint": 58182,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerTwotone"
+    },
+    "map-marker-twotone-loop": {
+      "codepoint": 58183,
+      "fontFamily": "LineMd",
+      "identifier": "mapMarkerTwotoneLoop"
+    },
+    "marker": {
+      "codepoint": 58184,
+      "fontFamily": "LineMd",
+      "identifier": "marker"
+    },
+    "marker-filled": {
+      "codepoint": 58185,
+      "fontFamily": "LineMd",
+      "identifier": "markerFilled"
+    },
+    "marker-twotone": {
+      "codepoint": 58186,
+      "fontFamily": "LineMd",
+      "identifier": "markerTwotone"
+    },
+    "mastodon": {
+      "codepoint": 58187,
+      "fontFamily": "LineMd",
+      "identifier": "mastodon"
+    },
+    "mastodon-filled": {
+      "codepoint": 58188,
+      "fontFamily": "LineMd",
+      "identifier": "mastodonFilled"
+    },
+    "mastodon-twotone": {
+      "codepoint": 58189,
+      "fontFamily": "LineMd",
+      "identifier": "mastodonTwotone"
+    },
+    "medical-services": {
+      "codepoint": 58190,
+      "fontFamily": "LineMd",
+      "identifier": "medicalServices"
+    },
+    "medical-services-filled": {
+      "codepoint": 58191,
+      "fontFamily": "LineMd",
+      "identifier": "medicalServicesFilled"
+    },
+    "medical-services-twotone": {
+      "codepoint": 58192,
+      "fontFamily": "LineMd",
+      "identifier": "medicalServicesTwotone"
+    },
+    "menu": {
+      "codepoint": 58193,
+      "fontFamily": "LineMd",
+      "identifier": "menu"
+    },
+    "menu-fold-left": {
+      "codepoint": 58194,
+      "fontFamily": "LineMd",
+      "identifier": "menuFoldLeft"
+    },
+    "menu-fold-right": {
+      "codepoint": 58195,
+      "fontFamily": "LineMd",
+      "identifier": "menuFoldRight"
+    },
+    "menu-to-close-alt-transition": {
+      "codepoint": 58196,
+      "fontFamily": "LineMd",
+      "identifier": "menuToCloseAltTransition"
+    },
+    "menu-to-close-transition": {
+      "codepoint": 58197,
+      "fontFamily": "LineMd",
+      "identifier": "menuToCloseTransition"
+    },
+    "menu-unfold-left": {
+      "codepoint": 58198,
+      "fontFamily": "LineMd",
+      "identifier": "menuUnfoldLeft"
+    },
+    "menu-unfold-right": {
+      "codepoint": 58199,
+      "fontFamily": "LineMd",
+      "identifier": "menuUnfoldRight"
+    },
+    "minus": {
+      "codepoint": 58200,
+      "fontFamily": "LineMd",
+      "identifier": "minus"
+    },
+    "minus-circle": {
+      "codepoint": 58201,
+      "fontFamily": "LineMd",
+      "identifier": "minusCircle"
+    },
+    "minus-circle-filled": {
+      "codepoint": 58202,
+      "fontFamily": "LineMd",
+      "identifier": "minusCircleFilled"
+    },
+    "minus-circle-twotone": {
+      "codepoint": 58203,
+      "fontFamily": "LineMd",
+      "identifier": "minusCircleTwotone"
+    },
+    "minus-square": {
+      "codepoint": 58204,
+      "fontFamily": "LineMd",
+      "identifier": "minusSquare"
+    },
+    "minus-square-filled": {
+      "codepoint": 58205,
+      "fontFamily": "LineMd",
+      "identifier": "minusSquareFilled"
+    },
+    "minus-square-twotone": {
+      "codepoint": 58206,
+      "fontFamily": "LineMd",
+      "identifier": "minusSquareTwotone"
+    },
+    "monitor": {
+      "codepoint": 58207,
+      "fontFamily": "LineMd",
+      "identifier": "monitor"
+    },
+    "monitor-arrow-down": {
+      "codepoint": 58208,
+      "fontFamily": "LineMd",
+      "identifier": "monitorArrowDown"
+    },
+    "monitor-arrow-down-filled": {
+      "codepoint": 58209,
+      "fontFamily": "LineMd",
+      "identifier": "monitorArrowDownFilled"
+    },
+    "monitor-arrow-down-twotone": {
+      "codepoint": 58210,
+      "fontFamily": "LineMd",
+      "identifier": "monitorArrowDownTwotone"
+    },
+    "monitor-arrow-up": {
+      "codepoint": 58211,
+      "fontFamily": "LineMd",
+      "identifier": "monitorArrowUp"
+    },
+    "monitor-arrow-up-filled": {
+      "codepoint": 58212,
+      "fontFamily": "LineMd",
+      "identifier": "monitorArrowUpFilled"
+    },
+    "monitor-arrow-up-twotone": {
+      "codepoint": 58213,
+      "fontFamily": "LineMd",
+      "identifier": "monitorArrowUpTwotone"
+    },
+    "monitor-filled": {
+      "codepoint": 58214,
+      "fontFamily": "LineMd",
+      "identifier": "monitorFilled"
+    },
+    "monitor-mutlple": {
+      "codepoint": 58215,
+      "fontFamily": "LineMd",
+      "identifier": "monitorMutlple"
+    },
+    "monitor-mutlple-filled": {
+      "codepoint": 58216,
+      "fontFamily": "LineMd",
+      "identifier": "monitorMutlpleFilled"
+    },
+    "monitor-mutlple-twotone": {
+      "codepoint": 58217,
+      "fontFamily": "LineMd",
+      "identifier": "monitorMutlpleTwotone"
+    },
+    "monitor-off": {
+      "codepoint": 58218,
+      "fontFamily": "LineMd",
+      "identifier": "monitorOff"
+    },
+    "monitor-off-filled": {
+      "codepoint": 58219,
+      "fontFamily": "LineMd",
+      "identifier": "monitorOffFilled"
+    },
+    "monitor-off-twotone": {
+      "codepoint": 58220,
+      "fontFamily": "LineMd",
+      "identifier": "monitorOffTwotone"
+    },
+    "monitor-screenshot": {
+      "codepoint": 58221,
+      "fontFamily": "LineMd",
+      "identifier": "monitorScreenshot"
+    },
+    "monitor-screenshot-filled": {
+      "codepoint": 58222,
+      "fontFamily": "LineMd",
+      "identifier": "monitorScreenshotFilled"
+    },
+    "monitor-screenshot-twotone": {
+      "codepoint": 58223,
+      "fontFamily": "LineMd",
+      "identifier": "monitorScreenshotTwotone"
+    },
+    "monitor-small": {
+      "codepoint": 58224,
+      "fontFamily": "LineMd",
+      "identifier": "monitorSmall"
+    },
+    "monitor-small-filled": {
+      "codepoint": 58225,
+      "fontFamily": "LineMd",
+      "identifier": "monitorSmallFilled"
+    },
+    "monitor-small-off": {
+      "codepoint": 58226,
+      "fontFamily": "LineMd",
+      "identifier": "monitorSmallOff"
+    },
+    "monitor-small-off-filled": {
+      "codepoint": 58227,
+      "fontFamily": "LineMd",
+      "identifier": "monitorSmallOffFilled"
+    },
+    "monitor-small-off-twotone": {
+      "codepoint": 58228,
+      "fontFamily": "LineMd",
+      "identifier": "monitorSmallOffTwotone"
+    },
+    "monitor-small-twotone": {
+      "codepoint": 58229,
+      "fontFamily": "LineMd",
+      "identifier": "monitorSmallTwotone"
+    },
+    "monitor-twotone": {
+      "codepoint": 58230,
+      "fontFamily": "LineMd",
+      "identifier": "monitorTwotone"
+    },
+    "moon": {
+      "codepoint": 58231,
+      "fontFamily": "LineMd",
+      "identifier": "moon"
+    },
+    "moon-alt": {
+      "codepoint": 58232,
+      "fontFamily": "LineMd",
+      "identifier": "moonAlt"
+    },
+    "moon-alt-filled": {
+      "codepoint": 58233,
+      "fontFamily": "LineMd",
+      "identifier": "moonAltFilled"
+    },
+    "moon-alt-filled-loop": {
+      "codepoint": 58234,
+      "fontFamily": "LineMd",
+      "identifier": "moonAltFilledLoop"
+    },
+    "moon-alt-loop": {
+      "codepoint": 58235,
+      "fontFamily": "LineMd",
+      "identifier": "moonAltLoop"
+    },
+    "moon-alt-off": {
+      "codepoint": 58236,
+      "fontFamily": "LineMd",
+      "identifier": "moonAltOff"
+    },
+    "moon-alt-off-filled": {
+      "codepoint": 58237,
+      "fontFamily": "LineMd",
+      "identifier": "moonAltOffFilled"
+    },
+    "moon-alt-off-filled-loop": {
+      "codepoint": 58238,
+      "fontFamily": "LineMd",
+      "identifier": "moonAltOffFilledLoop"
+    },
+    "moon-alt-off-loop": {
+      "codepoint": 58239,
+      "fontFamily": "LineMd",
+      "identifier": "moonAltOffLoop"
+    },
+    "moon-alt-off-twotone": {
+      "codepoint": 58240,
+      "fontFamily": "LineMd",
+      "identifier": "moonAltOffTwotone"
+    },
+    "moon-alt-off-twotone-loop": {
+      "codepoint": 58241,
+      "fontFamily": "LineMd",
+      "identifier": "moonAltOffTwotoneLoop"
+    },
+    "moon-alt-to-sunny-outline-loop-transition": {
+      "codepoint": 58242,
+      "fontFamily": "LineMd",
+      "identifier": "moonAltToSunnyOutlineLoopTransition"
+    },
+    "moon-alt-twotone": {
+      "codepoint": 58243,
+      "fontFamily": "LineMd",
+      "identifier": "moonAltTwotone"
+    },
+    "moon-alt-twotone-loop": {
+      "codepoint": 58244,
+      "fontFamily": "LineMd",
+      "identifier": "moonAltTwotoneLoop"
+    },
+    "moon-filled": {
+      "codepoint": 58245,
+      "fontFamily": "LineMd",
+      "identifier": "moonFilled"
+    },
+    "moon-filled-alt-loop": {
+      "codepoint": 58246,
+      "fontFamily": "LineMd",
+      "identifier": "moonFilledAltLoop"
+    },
+    "moon-filled-alt-to-sunny-filled-loop-transition": {
+      "codepoint": 58247,
+      "fontFamily": "LineMd",
+      "identifier": "moonFilledAltToSunnyFilledLoopTransition"
+    },
+    "moon-filled-loop": {
+      "codepoint": 58248,
+      "fontFamily": "LineMd",
+      "identifier": "moonFilledLoop"
+    },
+    "moon-filled-to-sunny-filled-loop-transition": {
+      "codepoint": 58249,
+      "fontFamily": "LineMd",
+      "identifier": "moonFilledToSunnyFilledLoopTransition"
+    },
+    "moon-filled-to-sunny-filled-transition": {
+      "codepoint": 58250,
+      "fontFamily": "LineMd",
+      "identifier": "moonFilledToSunnyFilledTransition"
+    },
+    "moon-loop": {
+      "codepoint": 58251,
+      "fontFamily": "LineMd",
+      "identifier": "moonLoop"
+    },
+    "moon-off": {
+      "codepoint": 58252,
+      "fontFamily": "LineMd",
+      "identifier": "moonOff"
+    },
+    "moon-off-filled": {
+      "codepoint": 58253,
+      "fontFamily": "LineMd",
+      "identifier": "moonOffFilled"
+    },
+    "moon-off-filled-loop": {
+      "codepoint": 58254,
+      "fontFamily": "LineMd",
+      "identifier": "moonOffFilledLoop"
+    },
+    "moon-off-loop": {
+      "codepoint": 58255,
+      "fontFamily": "LineMd",
+      "identifier": "moonOffLoop"
+    },
+    "moon-off-twotone": {
+      "codepoint": 58256,
+      "fontFamily": "LineMd",
+      "identifier": "moonOffTwotone"
+    },
+    "moon-off-twotone-loop": {
+      "codepoint": 58257,
+      "fontFamily": "LineMd",
+      "identifier": "moonOffTwotoneLoop"
+    },
+    "moon-rising": {
+      "codepoint": 58258,
+      "fontFamily": "LineMd",
+      "identifier": "moonRising"
+    },
+    "moon-rising-alt": {
+      "codepoint": 58259,
+      "fontFamily": "LineMd",
+      "identifier": "moonRisingAlt"
+    },
+    "moon-rising-alt-filled": {
+      "codepoint": 58260,
+      "fontFamily": "LineMd",
+      "identifier": "moonRisingAltFilled"
+    },
+    "moon-rising-alt-filled-loop": {
+      "codepoint": 58261,
+      "fontFamily": "LineMd",
+      "identifier": "moonRisingAltFilledLoop"
+    },
+    "moon-rising-alt-loop": {
+      "codepoint": 58262,
+      "fontFamily": "LineMd",
+      "identifier": "moonRisingAltLoop"
+    },
+    "moon-rising-alt-twotone": {
+      "codepoint": 58263,
+      "fontFamily": "LineMd",
+      "identifier": "moonRisingAltTwotone"
+    },
+    "moon-rising-alt-twotone-loop": {
+      "codepoint": 58264,
+      "fontFamily": "LineMd",
+      "identifier": "moonRisingAltTwotoneLoop"
+    },
+    "moon-rising-filled": {
+      "codepoint": 58265,
+      "fontFamily": "LineMd",
+      "identifier": "moonRisingFilled"
+    },
+    "moon-rising-filled-alt-loop": {
+      "codepoint": 58266,
+      "fontFamily": "LineMd",
+      "identifier": "moonRisingFilledAltLoop"
+    },
+    "moon-rising-filled-loop": {
+      "codepoint": 58267,
+      "fontFamily": "LineMd",
+      "identifier": "moonRisingFilledLoop"
+    },
+    "moon-rising-loop": {
+      "codepoint": 58268,
+      "fontFamily": "LineMd",
+      "identifier": "moonRisingLoop"
+    },
+    "moon-rising-twotone": {
+      "codepoint": 58269,
+      "fontFamily": "LineMd",
+      "identifier": "moonRisingTwotone"
+    },
+    "moon-rising-twotone-alt-loop": {
+      "codepoint": 58270,
+      "fontFamily": "LineMd",
+      "identifier": "moonRisingTwotoneAltLoop"
+    },
+    "moon-rising-twotone-loop": {
+      "codepoint": 58271,
+      "fontFamily": "LineMd",
+      "identifier": "moonRisingTwotoneLoop"
+    },
+    "moon-simple": {
+      "codepoint": 58272,
+      "fontFamily": "LineMd",
+      "identifier": "moonSimple"
+    },
+    "moon-simple-filled": {
+      "codepoint": 58273,
+      "fontFamily": "LineMd",
+      "identifier": "moonSimpleFilled"
+    },
+    "moon-simple-off": {
+      "codepoint": 58274,
+      "fontFamily": "LineMd",
+      "identifier": "moonSimpleOff"
+    },
+    "moon-simple-off-filled": {
+      "codepoint": 58275,
+      "fontFamily": "LineMd",
+      "identifier": "moonSimpleOffFilled"
+    },
+    "moon-simple-off-twotone": {
+      "codepoint": 58276,
+      "fontFamily": "LineMd",
+      "identifier": "moonSimpleOffTwotone"
+    },
+    "moon-simple-twotone": {
+      "codepoint": 58277,
+      "fontFamily": "LineMd",
+      "identifier": "moonSimpleTwotone"
+    },
+    "moon-to-sunny-outline-loop-transition": {
+      "codepoint": 58278,
+      "fontFamily": "LineMd",
+      "identifier": "moonToSunnyOutlineLoopTransition"
+    },
+    "moon-to-sunny-outline-transition": {
+      "codepoint": 58279,
+      "fontFamily": "LineMd",
+      "identifier": "moonToSunnyOutlineTransition"
+    },
+    "moon-twotone": {
+      "codepoint": 58280,
+      "fontFamily": "LineMd",
+      "identifier": "moonTwotone"
+    },
+    "moon-twotone-alt-loop": {
+      "codepoint": 58281,
+      "fontFamily": "LineMd",
+      "identifier": "moonTwotoneAltLoop"
+    },
+    "moon-twotone-loop": {
+      "codepoint": 58282,
+      "fontFamily": "LineMd",
+      "identifier": "moonTwotoneLoop"
+    },
+    "mushroom": {
+      "codepoint": 58283,
+      "fontFamily": "LineMd",
+      "identifier": "mushroom"
+    },
+    "mushroom-filled": {
+      "codepoint": 58284,
+      "fontFamily": "LineMd",
+      "identifier": "mushroomFilled"
+    },
+    "mushroom-off": {
+      "codepoint": 58285,
+      "fontFamily": "LineMd",
+      "identifier": "mushroomOff"
+    },
+    "mushroom-off-filled": {
+      "codepoint": 58286,
+      "fontFamily": "LineMd",
+      "identifier": "mushroomOffFilled"
+    },
+    "mushroom-off-twotone": {
+      "codepoint": 58287,
+      "fontFamily": "LineMd",
+      "identifier": "mushroomOffTwotone"
+    },
+    "mushroom-twotone": {
+      "codepoint": 58288,
+      "fontFamily": "LineMd",
+      "identifier": "mushroomTwotone"
+    },
+    "my-location": {
+      "codepoint": 58289,
+      "fontFamily": "LineMd",
+      "identifier": "myLocation"
+    },
+    "my-location-loop": {
+      "codepoint": 58290,
+      "fontFamily": "LineMd",
+      "identifier": "myLocationLoop"
+    },
+    "my-location-off": {
+      "codepoint": 58291,
+      "fontFamily": "LineMd",
+      "identifier": "myLocationOff"
+    },
+    "my-location-off-loop": {
+      "codepoint": 58292,
+      "fontFamily": "LineMd",
+      "identifier": "myLocationOffLoop"
+    },
+    "my-location-off-twotone": {
+      "codepoint": 58293,
+      "fontFamily": "LineMd",
+      "identifier": "myLocationOffTwotone"
+    },
+    "my-location-off-twotone-loop": {
+      "codepoint": 58294,
+      "fontFamily": "LineMd",
+      "identifier": "myLocationOffTwotoneLoop"
+    },
+    "my-location-twotone": {
+      "codepoint": 58295,
+      "fontFamily": "LineMd",
+      "identifier": "myLocationTwotone"
+    },
+    "my-location-twotone-loop": {
+      "codepoint": 58296,
+      "fontFamily": "LineMd",
+      "identifier": "myLocationTwotoneLoop"
+    },
+    "navigation-left-down": {
+      "codepoint": 58297,
+      "fontFamily": "LineMd",
+      "identifier": "navigationLeftDown"
+    },
+    "navigation-left-up": {
+      "codepoint": 58298,
+      "fontFamily": "LineMd",
+      "identifier": "navigationLeftUp"
+    },
+    "navigation-right-down": {
+      "codepoint": 58299,
+      "fontFamily": "LineMd",
+      "identifier": "navigationRightDown"
+    },
+    "navigation-right-up": {
+      "codepoint": 58300,
+      "fontFamily": "LineMd",
+      "identifier": "navigationRightUp"
+    },
+    "paint-drop": {
+      "codepoint": 58301,
+      "fontFamily": "LineMd",
+      "identifier": "paintDrop"
+    },
+    "paint-drop-filled": {
+      "codepoint": 58302,
+      "fontFamily": "LineMd",
+      "identifier": "paintDropFilled"
+    },
+    "paint-drop-half-filled": {
+      "codepoint": 58303,
+      "fontFamily": "LineMd",
+      "identifier": "paintDropHalfFilled"
+    },
+    "paint-drop-half-filled-twotone": {
+      "codepoint": 58304,
+      "fontFamily": "LineMd",
+      "identifier": "paintDropHalfFilledTwotone"
+    },
+    "paint-drop-half-twotone": {
+      "codepoint": 58305,
+      "fontFamily": "LineMd",
+      "identifier": "paintDropHalfTwotone"
+    },
+    "paint-drop-twotone": {
+      "codepoint": 58306,
+      "fontFamily": "LineMd",
+      "identifier": "paintDropTwotone"
+    },
+    "patreon": {
+      "codepoint": 58307,
+      "fontFamily": "LineMd",
+      "identifier": "patreon"
+    },
+    "pause": {
+      "codepoint": 58308,
+      "fontFamily": "LineMd",
+      "identifier": "pause"
+    },
+    "pause-off": {
+      "codepoint": 58309,
+      "fontFamily": "LineMd",
+      "identifier": "pauseOff"
+    },
+    "pause-to-play-filled-transition": {
+      "codepoint": 58310,
+      "fontFamily": "LineMd",
+      "identifier": "pauseToPlayFilledTransition"
+    },
+    "pause-to-play-transition": {
+      "codepoint": 58311,
+      "fontFamily": "LineMd",
+      "identifier": "pauseToPlayTransition"
+    },
+    "peanut": {
+      "codepoint": 58312,
+      "fontFamily": "LineMd",
+      "identifier": "peanut"
+    },
+    "peanut-filled": {
+      "codepoint": 58313,
+      "fontFamily": "LineMd",
+      "identifier": "peanutFilled"
+    },
+    "peanut-off": {
+      "codepoint": 58314,
+      "fontFamily": "LineMd",
+      "identifier": "peanutOff"
+    },
+    "peanut-off-filled": {
+      "codepoint": 58315,
+      "fontFamily": "LineMd",
+      "identifier": "peanutOffFilled"
+    },
+    "peanut-off-twotone": {
+      "codepoint": 58316,
+      "fontFamily": "LineMd",
+      "identifier": "peanutOffTwotone"
+    },
+    "peanut-twotone": {
+      "codepoint": 58317,
+      "fontFamily": "LineMd",
+      "identifier": "peanutTwotone"
+    },
+    "peertube": {
+      "codepoint": 58318,
+      "fontFamily": "LineMd",
+      "identifier": "peertube"
+    },
+    "peertube-alt": {
+      "codepoint": 58319,
+      "fontFamily": "LineMd",
+      "identifier": "peertubeAlt"
+    },
+    "pencil": {
+      "codepoint": 58320,
+      "fontFamily": "LineMd",
+      "identifier": "pencil"
+    },
+    "pencil-alt-twotone": {
+      "codepoint": 58321,
+      "fontFamily": "LineMd",
+      "identifier": "pencilAltTwotone"
+    },
+    "pencil-twotone": {
+      "codepoint": 58322,
+      "fontFamily": "LineMd",
+      "identifier": "pencilTwotone"
+    },
+    "pencil-twotone-alt": {
+      "codepoint": 58323,
+      "fontFamily": "LineMd",
+      "identifier": "pencilTwotoneAlt"
+    },
+    "person": {
+      "codepoint": 58324,
+      "fontFamily": "LineMd",
+      "identifier": "person"
+    },
+    "person-add": {
+      "codepoint": 58325,
+      "fontFamily": "LineMd",
+      "identifier": "personAdd"
+    },
+    "person-add-filled": {
+      "codepoint": 58326,
+      "fontFamily": "LineMd",
+      "identifier": "personAddFilled"
+    },
+    "person-add-twotone": {
+      "codepoint": 58327,
+      "fontFamily": "LineMd",
+      "identifier": "personAddTwotone"
+    },
+    "person-filled": {
+      "codepoint": 58328,
+      "fontFamily": "LineMd",
+      "identifier": "personFilled"
+    },
+    "person-off": {
+      "codepoint": 58329,
+      "fontFamily": "LineMd",
+      "identifier": "personOff"
+    },
+    "person-off-filled": {
+      "codepoint": 58330,
+      "fontFamily": "LineMd",
+      "identifier": "personOffFilled"
+    },
+    "person-off-filled-loop": {
+      "codepoint": 58331,
+      "fontFamily": "LineMd",
+      "identifier": "personOffFilledLoop"
+    },
+    "person-off-loop": {
+      "codepoint": 58332,
+      "fontFamily": "LineMd",
+      "identifier": "personOffLoop"
+    },
+    "person-off-twotone": {
+      "codepoint": 58333,
+      "fontFamily": "LineMd",
+      "identifier": "personOffTwotone"
+    },
+    "person-off-twotone-loop": {
+      "codepoint": 58334,
+      "fontFamily": "LineMd",
+      "identifier": "personOffTwotoneLoop"
+    },
+    "person-remove": {
+      "codepoint": 58335,
+      "fontFamily": "LineMd",
+      "identifier": "personRemove"
+    },
+    "person-remove-filled": {
+      "codepoint": 58336,
+      "fontFamily": "LineMd",
+      "identifier": "personRemoveFilled"
+    },
+    "person-remove-twotone": {
+      "codepoint": 58337,
+      "fontFamily": "LineMd",
+      "identifier": "personRemoveTwotone"
+    },
+    "person-search": {
+      "codepoint": 58338,
+      "fontFamily": "LineMd",
+      "identifier": "personSearch"
+    },
+    "person-search-filled": {
+      "codepoint": 58339,
+      "fontFamily": "LineMd",
+      "identifier": "personSearchFilled"
+    },
+    "person-search-twotone": {
+      "codepoint": 58340,
+      "fontFamily": "LineMd",
+      "identifier": "personSearchTwotone"
+    },
+    "person-twotone": {
+      "codepoint": 58341,
+      "fontFamily": "LineMd",
+      "identifier": "personTwotone"
+    },
+    "phone": {
+      "codepoint": 58342,
+      "fontFamily": "LineMd",
+      "identifier": "phone"
+    },
+    "phone-add": {
+      "codepoint": 58343,
+      "fontFamily": "LineMd",
+      "identifier": "phoneAdd"
+    },
+    "phone-add-filled": {
+      "codepoint": 58344,
+      "fontFamily": "LineMd",
+      "identifier": "phoneAddFilled"
+    },
+    "phone-add-twotone": {
+      "codepoint": 58345,
+      "fontFamily": "LineMd",
+      "identifier": "phoneAddTwotone"
+    },
+    "phone-call": {
+      "codepoint": 58346,
+      "fontFamily": "LineMd",
+      "identifier": "phoneCall"
+    },
+    "phone-call-filled": {
+      "codepoint": 58347,
+      "fontFamily": "LineMd",
+      "identifier": "phoneCallFilled"
+    },
+    "phone-call-filled-loop": {
+      "codepoint": 58348,
+      "fontFamily": "LineMd",
+      "identifier": "phoneCallFilledLoop"
+    },
+    "phone-call-loop": {
+      "codepoint": 58349,
+      "fontFamily": "LineMd",
+      "identifier": "phoneCallLoop"
+    },
+    "phone-call-twotone": {
+      "codepoint": 58350,
+      "fontFamily": "LineMd",
+      "identifier": "phoneCallTwotone"
+    },
+    "phone-call-twotone-loop": {
+      "codepoint": 58351,
+      "fontFamily": "LineMd",
+      "identifier": "phoneCallTwotoneLoop"
+    },
+    "phone-filled": {
+      "codepoint": 58352,
+      "fontFamily": "LineMd",
+      "identifier": "phoneFilled"
+    },
+    "phone-filled-loop": {
+      "codepoint": 58353,
+      "fontFamily": "LineMd",
+      "identifier": "phoneFilledLoop"
+    },
+    "phone-incoming": {
+      "codepoint": 58354,
+      "fontFamily": "LineMd",
+      "identifier": "phoneIncoming"
+    },
+    "phone-incoming-filled": {
+      "codepoint": 58355,
+      "fontFamily": "LineMd",
+      "identifier": "phoneIncomingFilled"
+    },
+    "phone-incoming-twotone": {
+      "codepoint": 58356,
+      "fontFamily": "LineMd",
+      "identifier": "phoneIncomingTwotone"
+    },
+    "phone-loop": {
+      "codepoint": 58357,
+      "fontFamily": "LineMd",
+      "identifier": "phoneLoop"
+    },
+    "phone-off": {
+      "codepoint": 58358,
+      "fontFamily": "LineMd",
+      "identifier": "phoneOff"
+    },
+    "phone-off-filled": {
+      "codepoint": 58359,
+      "fontFamily": "LineMd",
+      "identifier": "phoneOffFilled"
+    },
+    "phone-off-filled-loop": {
+      "codepoint": 58360,
+      "fontFamily": "LineMd",
+      "identifier": "phoneOffFilledLoop"
+    },
+    "phone-off-loop": {
+      "codepoint": 58361,
+      "fontFamily": "LineMd",
+      "identifier": "phoneOffLoop"
+    },
+    "phone-off-twotone": {
+      "codepoint": 58362,
+      "fontFamily": "LineMd",
+      "identifier": "phoneOffTwotone"
+    },
+    "phone-off-twotone-loop": {
+      "codepoint": 58363,
+      "fontFamily": "LineMd",
+      "identifier": "phoneOffTwotoneLoop"
+    },
+    "phone-outgoing": {
+      "codepoint": 58364,
+      "fontFamily": "LineMd",
+      "identifier": "phoneOutgoing"
+    },
+    "phone-outgoing-filled": {
+      "codepoint": 58365,
+      "fontFamily": "LineMd",
+      "identifier": "phoneOutgoingFilled"
+    },
+    "phone-outgoing-twotone": {
+      "codepoint": 58366,
+      "fontFamily": "LineMd",
+      "identifier": "phoneOutgoingTwotone"
+    },
+    "phone-remove": {
+      "codepoint": 58367,
+      "fontFamily": "LineMd",
+      "identifier": "phoneRemove"
+    },
+    "phone-remove-filled": {
+      "codepoint": 58368,
+      "fontFamily": "LineMd",
+      "identifier": "phoneRemoveFilled"
+    },
+    "phone-remove-twotone": {
+      "codepoint": 58369,
+      "fontFamily": "LineMd",
+      "identifier": "phoneRemoveTwotone"
+    },
+    "phone-twotone": {
+      "codepoint": 58370,
+      "fontFamily": "LineMd",
+      "identifier": "phoneTwotone"
+    },
+    "phone-twotone-loop": {
+      "codepoint": 58371,
+      "fontFamily": "LineMd",
+      "identifier": "phoneTwotoneLoop"
+    },
+    "pixelfed": {
+      "codepoint": 58372,
+      "fontFamily": "LineMd",
+      "identifier": "pixelfed"
+    },
+    "pixelfed-filled": {
+      "codepoint": 58373,
+      "fontFamily": "LineMd",
+      "identifier": "pixelfedFilled"
+    },
+    "pixelfed-twotone": {
+      "codepoint": 58374,
+      "fontFamily": "LineMd",
+      "identifier": "pixelfedTwotone"
+    },
+    "pizza": {
+      "codepoint": 58375,
+      "fontFamily": "LineMd",
+      "identifier": "pizza"
+    },
+    "pizza-filled": {
+      "codepoint": 58376,
+      "fontFamily": "LineMd",
+      "identifier": "pizzaFilled"
+    },
+    "pizza-off": {
+      "codepoint": 58377,
+      "fontFamily": "LineMd",
+      "identifier": "pizzaOff"
+    },
+    "pizza-off-filled": {
+      "codepoint": 58378,
+      "fontFamily": "LineMd",
+      "identifier": "pizzaOffFilled"
+    },
+    "pizza-off-twotone": {
+      "codepoint": 58379,
+      "fontFamily": "LineMd",
+      "identifier": "pizzaOffTwotone"
+    },
+    "pizza-twotone": {
+      "codepoint": 58380,
+      "fontFamily": "LineMd",
+      "identifier": "pizzaTwotone"
+    },
+    "play": {
+      "codepoint": 58381,
+      "fontFamily": "LineMd",
+      "identifier": "play"
+    },
+    "play-filled": {
+      "codepoint": 58382,
+      "fontFamily": "LineMd",
+      "identifier": "playFilled"
+    },
+    "play-filled-to-pause-transition": {
+      "codepoint": 58383,
+      "fontFamily": "LineMd",
+      "identifier": "playFilledToPauseTransition"
+    },
+    "play-off": {
+      "codepoint": 58384,
+      "fontFamily": "LineMd",
+      "identifier": "playOff"
+    },
+    "play-off-filled": {
+      "codepoint": 58385,
+      "fontFamily": "LineMd",
+      "identifier": "playOffFilled"
+    },
+    "play-off-twotone": {
+      "codepoint": 58386,
+      "fontFamily": "LineMd",
+      "identifier": "playOffTwotone"
+    },
+    "play-to-pause-transition": {
+      "codepoint": 58387,
+      "fontFamily": "LineMd",
+      "identifier": "playToPauseTransition"
+    },
+    "play-twotone": {
+      "codepoint": 58388,
+      "fontFamily": "LineMd",
+      "identifier": "playTwotone"
+    },
+    "pleroma": {
+      "codepoint": 58389,
+      "fontFamily": "LineMd",
+      "identifier": "pleroma"
+    },
+    "plus": {
+      "codepoint": 58390,
+      "fontFamily": "LineMd",
+      "identifier": "plus"
+    },
+    "plus-circle": {
+      "codepoint": 58391,
+      "fontFamily": "LineMd",
+      "identifier": "plusCircle"
+    },
+    "plus-circle-filled": {
+      "codepoint": 58392,
+      "fontFamily": "LineMd",
+      "identifier": "plusCircleFilled"
+    },
+    "plus-circle-twotone": {
+      "codepoint": 58393,
+      "fontFamily": "LineMd",
+      "identifier": "plusCircleTwotone"
+    },
+    "plus-square": {
+      "codepoint": 58394,
+      "fontFamily": "LineMd",
+      "identifier": "plusSquare"
+    },
+    "plus-square-filled": {
+      "codepoint": 58395,
+      "fontFamily": "LineMd",
+      "identifier": "plusSquareFilled"
+    },
+    "plus-square-twotone": {
+      "codepoint": 58396,
+      "fontFamily": "LineMd",
+      "identifier": "plusSquareTwotone"
+    },
+    "question": {
+      "codepoint": 58397,
+      "fontFamily": "LineMd",
+      "identifier": "question"
+    },
+    "question-circle": {
+      "codepoint": 58398,
+      "fontFamily": "LineMd",
+      "identifier": "questionCircle"
+    },
+    "question-circle-twotone": {
+      "codepoint": 58399,
+      "fontFamily": "LineMd",
+      "identifier": "questionCircleTwotone"
+    },
+    "question-square": {
+      "codepoint": 58400,
+      "fontFamily": "LineMd",
+      "identifier": "questionSquare"
+    },
+    "question-square-twotone": {
+      "codepoint": 58401,
+      "fontFamily": "LineMd",
+      "identifier": "questionSquareTwotone"
+    },
+    "reddit": {
+      "codepoint": 58402,
+      "fontFamily": "LineMd",
+      "identifier": "reddit"
+    },
+    "reddit-circle": {
+      "codepoint": 58403,
+      "fontFamily": "LineMd",
+      "identifier": "redditCircle"
+    },
+    "reddit-circle-loop": {
+      "codepoint": 58404,
+      "fontFamily": "LineMd",
+      "identifier": "redditCircleLoop"
+    },
+    "reddit-loop": {
+      "codepoint": 58405,
+      "fontFamily": "LineMd",
+      "identifier": "redditLoop"
+    },
+    "remove": {
+      "codepoint": 58406,
+      "fontFamily": "LineMd",
+      "identifier": "remove"
+    },
+    "rotate-180": {
+      "codepoint": 58407,
+      "fontFamily": "LineMd",
+      "identifier": "rotate180"
+    },
+    "rotate-270": {
+      "codepoint": 58408,
+      "fontFamily": "LineMd",
+      "identifier": "rotate270"
+    },
+    "rotate-90": {
+      "codepoint": 58409,
+      "fontFamily": "LineMd",
+      "identifier": "rotate90"
+    },
+    "round-360": {
+      "codepoint": 58410,
+      "fontFamily": "LineMd",
+      "identifier": "round360"
+    },
+    "round-ramp-left": {
+      "codepoint": 58411,
+      "fontFamily": "LineMd",
+      "identifier": "roundRampLeft"
+    },
+    "round-ramp-right": {
+      "codepoint": 58412,
+      "fontFamily": "LineMd",
+      "identifier": "roundRampRight"
+    },
+    "roundabout-left": {
+      "codepoint": 58413,
+      "fontFamily": "LineMd",
+      "identifier": "roundaboutLeft"
+    },
+    "roundabout-right": {
+      "codepoint": 58414,
+      "fontFamily": "LineMd",
+      "identifier": "roundaboutRight"
+    },
+    "rss": {
+      "codepoint": 58415,
+      "fontFamily": "LineMd",
+      "identifier": "rss"
+    },
+    "search": {
+      "codepoint": 58416,
+      "fontFamily": "LineMd",
+      "identifier": "search"
+    },
+    "search-filled": {
+      "codepoint": 58417,
+      "fontFamily": "LineMd",
+      "identifier": "searchFilled"
+    },
+    "search-twotone": {
+      "codepoint": 58418,
+      "fontFamily": "LineMd",
+      "identifier": "searchTwotone"
+    },
+    "security": {
+      "codepoint": 58419,
+      "fontFamily": "LineMd",
+      "identifier": "security"
+    },
+    "security-filled": {
+      "codepoint": 58420,
+      "fontFamily": "LineMd",
+      "identifier": "securityFilled"
+    },
+    "security-off": {
+      "codepoint": 58421,
+      "fontFamily": "LineMd",
+      "identifier": "securityOff"
+    },
+    "security-off-filled": {
+      "codepoint": 58422,
+      "fontFamily": "LineMd",
+      "identifier": "securityOffFilled"
+    },
+    "security-off-twotone": {
+      "codepoint": 58423,
+      "fontFamily": "LineMd",
+      "identifier": "securityOffTwotone"
+    },
+    "security-twotone": {
+      "codepoint": 58424,
+      "fontFamily": "LineMd",
+      "identifier": "securityTwotone"
+    },
+    "soundcloud": {
+      "codepoint": 58425,
+      "fontFamily": "LineMd",
+      "identifier": "soundcloud"
+    },
+    "speed": {
+      "codepoint": 58426,
+      "fontFamily": "LineMd",
+      "identifier": "speed"
+    },
+    "speed-loop": {
+      "codepoint": 58427,
+      "fontFamily": "LineMd",
+      "identifier": "speedLoop"
+    },
+    "speed-twotone": {
+      "codepoint": 58428,
+      "fontFamily": "LineMd",
+      "identifier": "speedTwotone"
+    },
+    "speed-twotone-loop": {
+      "codepoint": 58429,
+      "fontFamily": "LineMd",
+      "identifier": "speedTwotoneLoop"
+    },
+    "speedometer": {
+      "codepoint": 58430,
+      "fontFamily": "LineMd",
+      "identifier": "speedometer"
+    },
+    "speedometer-loop": {
+      "codepoint": 58431,
+      "fontFamily": "LineMd",
+      "identifier": "speedometerLoop"
+    },
+    "spotify": {
+      "codepoint": 58432,
+      "fontFamily": "LineMd",
+      "identifier": "spotify"
+    },
+    "spotify-filled": {
+      "codepoint": 58433,
+      "fontFamily": "LineMd",
+      "identifier": "spotifyFilled"
+    },
+    "spotify-twotone": {
+      "codepoint": 58434,
+      "fontFamily": "LineMd",
+      "identifier": "spotifyTwotone"
+    },
+    "square": {
+      "codepoint": 58435,
+      "fontFamily": "LineMd",
+      "identifier": "square"
+    },
+    "square-filled": {
+      "codepoint": 58436,
+      "fontFamily": "LineMd",
+      "identifier": "squareFilled"
+    },
+    "square-filled-to-confirm-square-filled-transition": {
+      "codepoint": 58437,
+      "fontFamily": "LineMd",
+      "identifier": "squareFilledToConfirmSquareFilledTransition"
+    },
+    "square-to-confirm-square-transition": {
+      "codepoint": 58438,
+      "fontFamily": "LineMd",
+      "identifier": "squareToConfirmSquareTransition"
+    },
+    "square-to-confirm-square-twotone-transition": {
+      "codepoint": 58439,
+      "fontFamily": "LineMd",
+      "identifier": "squareToConfirmSquareTwotoneTransition"
+    },
+    "square-twotone": {
+      "codepoint": 58440,
+      "fontFamily": "LineMd",
+      "identifier": "squareTwotone"
+    },
+    "square-twotone-to-confirm-square-transition": {
+      "codepoint": 58441,
+      "fontFamily": "LineMd",
+      "identifier": "squareTwotoneToConfirmSquareTransition"
+    },
+    "square-twotone-to-confirm-square-twotone-transition": {
+      "codepoint": 58442,
+      "fontFamily": "LineMd",
+      "identifier": "squareTwotoneToConfirmSquareTwotoneTransition"
+    },
+    "star": {
+      "codepoint": 58443,
+      "fontFamily": "LineMd",
+      "identifier": "star"
+    },
+    "star-alt": {
+      "codepoint": 58444,
+      "fontFamily": "LineMd",
+      "identifier": "starAlt"
+    },
+    "star-alt-filled": {
+      "codepoint": 58445,
+      "fontFamily": "LineMd",
+      "identifier": "starAltFilled"
+    },
+    "star-alt-filled-half": {
+      "codepoint": 58446,
+      "fontFamily": "LineMd",
+      "identifier": "starAltFilledHalf"
+    },
+    "star-alt-filled-right-half": {
+      "codepoint": 58447,
+      "fontFamily": "LineMd",
+      "identifier": "starAltFilledRightHalf"
+    },
+    "star-alt-twotone": {
+      "codepoint": 58448,
+      "fontFamily": "LineMd",
+      "identifier": "starAltTwotone"
+    },
+    "star-alt-twotone-half": {
+      "codepoint": 58449,
+      "fontFamily": "LineMd",
+      "identifier": "starAltTwotoneHalf"
+    },
+    "star-alt-twotone-right-half": {
+      "codepoint": 58450,
+      "fontFamily": "LineMd",
+      "identifier": "starAltTwotoneRightHalf"
+    },
+    "star-filled": {
+      "codepoint": 58451,
+      "fontFamily": "LineMd",
+      "identifier": "starFilled"
+    },
+    "star-filled-half": {
+      "codepoint": 58452,
+      "fontFamily": "LineMd",
+      "identifier": "starFilledHalf"
+    },
+    "star-filled-right-half": {
+      "codepoint": 58453,
+      "fontFamily": "LineMd",
+      "identifier": "starFilledRightHalf"
+    },
+    "star-half": {
+      "codepoint": 58454,
+      "fontFamily": "LineMd",
+      "identifier": "starHalf"
+    },
+    "star-half-alt": {
+      "codepoint": 58455,
+      "fontFamily": "LineMd",
+      "identifier": "starHalfAlt"
+    },
+    "star-half-alt-filled": {
+      "codepoint": 58456,
+      "fontFamily": "LineMd",
+      "identifier": "starHalfAltFilled"
+    },
+    "star-half-alt-twotone": {
+      "codepoint": 58457,
+      "fontFamily": "LineMd",
+      "identifier": "starHalfAltTwotone"
+    },
+    "star-half-filled": {
+      "codepoint": 58458,
+      "fontFamily": "LineMd",
+      "identifier": "starHalfFilled"
+    },
+    "star-half-twotone": {
+      "codepoint": 58459,
+      "fontFamily": "LineMd",
+      "identifier": "starHalfTwotone"
+    },
+    "star-pulsating-filled-loop": {
+      "codepoint": 58460,
+      "fontFamily": "LineMd",
+      "identifier": "starPulsatingFilledLoop"
+    },
+    "star-pulsating-loop": {
+      "codepoint": 58461,
+      "fontFamily": "LineMd",
+      "identifier": "starPulsatingLoop"
+    },
+    "star-pulsating-twotone-loop": {
+      "codepoint": 58462,
+      "fontFamily": "LineMd",
+      "identifier": "starPulsatingTwotoneLoop"
+    },
+    "star-right-half": {
+      "codepoint": 58463,
+      "fontFamily": "LineMd",
+      "identifier": "starRightHalf"
+    },
+    "star-right-half-alt": {
+      "codepoint": 58464,
+      "fontFamily": "LineMd",
+      "identifier": "starRightHalfAlt"
+    },
+    "star-right-half-alt-filled": {
+      "codepoint": 58465,
+      "fontFamily": "LineMd",
+      "identifier": "starRightHalfAltFilled"
+    },
+    "star-right-half-alt-twotone": {
+      "codepoint": 58466,
+      "fontFamily": "LineMd",
+      "identifier": "starRightHalfAltTwotone"
+    },
+    "star-right-half-filled": {
+      "codepoint": 58467,
+      "fontFamily": "LineMd",
+      "identifier": "starRightHalfFilled"
+    },
+    "star-right-half-twotone": {
+      "codepoint": 58468,
+      "fontFamily": "LineMd",
+      "identifier": "starRightHalfTwotone"
+    },
+    "star-twotone": {
+      "codepoint": 58469,
+      "fontFamily": "LineMd",
+      "identifier": "starTwotone"
+    },
+    "star-twotone-half": {
+      "codepoint": 58470,
+      "fontFamily": "LineMd",
+      "identifier": "starTwotoneHalf"
+    },
+    "star-twotone-right-half": {
+      "codepoint": 58471,
+      "fontFamily": "LineMd",
+      "identifier": "starTwotoneRightHalf"
+    },
+    "steering": {
+      "codepoint": 58472,
+      "fontFamily": "LineMd",
+      "identifier": "steering"
+    },
+    "steering-off": {
+      "codepoint": 58473,
+      "fontFamily": "LineMd",
+      "identifier": "steeringOff"
+    },
+    "sun-rising": {
+      "codepoint": 58474,
+      "fontFamily": "LineMd",
+      "identifier": "sunRising"
+    },
+    "sun-rising-filled": {
+      "codepoint": 58475,
+      "fontFamily": "LineMd",
+      "identifier": "sunRisingFilled"
+    },
+    "sun-rising-filled-loop": {
+      "codepoint": 58476,
+      "fontFamily": "LineMd",
+      "identifier": "sunRisingFilledLoop"
+    },
+    "sun-rising-loop": {
+      "codepoint": 58477,
+      "fontFamily": "LineMd",
+      "identifier": "sunRisingLoop"
+    },
+    "sun-rising-twotone": {
+      "codepoint": 58478,
+      "fontFamily": "LineMd",
+      "identifier": "sunRisingTwotone"
+    },
+    "sun-rising-twotone-loop": {
+      "codepoint": 58479,
+      "fontFamily": "LineMd",
+      "identifier": "sunRisingTwotoneLoop"
+    },
+    "sunny": {
+      "codepoint": 58480,
+      "fontFamily": "LineMd",
+      "identifier": "sunny"
+    },
+    "sunny-filled": {
+      "codepoint": 58481,
+      "fontFamily": "LineMd",
+      "identifier": "sunnyFilled"
+    },
+    "sunny-filled-loop": {
+      "codepoint": 58482,
+      "fontFamily": "LineMd",
+      "identifier": "sunnyFilledLoop"
+    },
+    "sunny-filled-loop-to-moon-alt-filled-loop-transition": {
+      "codepoint": 58483,
+      "fontFamily": "LineMd",
+      "identifier": "sunnyFilledLoopToMoonAltFilledLoopTransition"
+    },
+    "sunny-filled-loop-to-moon-filled-alt-loop-transition": {
+      "codepoint": 58484,
+      "fontFamily": "LineMd",
+      "identifier": "sunnyFilledLoopToMoonFilledAltLoopTransition"
+    },
+    "sunny-filled-loop-to-moon-filled-loop-transition": {
+      "codepoint": 58485,
+      "fontFamily": "LineMd",
+      "identifier": "sunnyFilledLoopToMoonFilledLoopTransition"
+    },
+    "sunny-filled-loop-to-moon-filled-transition": {
+      "codepoint": 58486,
+      "fontFamily": "LineMd",
+      "identifier": "sunnyFilledLoopToMoonFilledTransition"
+    },
+    "sunny-loop": {
+      "codepoint": 58487,
+      "fontFamily": "LineMd",
+      "identifier": "sunnyLoop"
+    },
+    "sunny-off": {
+      "codepoint": 58488,
+      "fontFamily": "LineMd",
+      "identifier": "sunnyOff"
+    },
+    "sunny-off-filled": {
+      "codepoint": 58489,
+      "fontFamily": "LineMd",
+      "identifier": "sunnyOffFilled"
+    },
+    "sunny-off-filled-loop": {
+      "codepoint": 58490,
+      "fontFamily": "LineMd",
+      "identifier": "sunnyOffFilledLoop"
+    },
+    "sunny-off-loop": {
+      "codepoint": 58491,
+      "fontFamily": "LineMd",
+      "identifier": "sunnyOffLoop"
+    },
+    "sunny-off-twotone": {
+      "codepoint": 58492,
+      "fontFamily": "LineMd",
+      "identifier": "sunnyOffTwotone"
+    },
+    "sunny-off-twotone-loop": {
+      "codepoint": 58493,
+      "fontFamily": "LineMd",
+      "identifier": "sunnyOffTwotoneLoop"
+    },
+    "sunny-outline": {
+      "codepoint": 58494,
+      "fontFamily": "LineMd",
+      "identifier": "sunnyOutline"
+    },
+    "sunny-outline-loop": {
+      "codepoint": 58495,
+      "fontFamily": "LineMd",
+      "identifier": "sunnyOutlineLoop"
+    },
+    "sunny-outline-to-moon-alt-loop-transition": {
+      "codepoint": 58496,
+      "fontFamily": "LineMd",
+      "identifier": "sunnyOutlineToMoonAltLoopTransition"
+    },
+    "sunny-outline-to-moon-loop-transition": {
+      "codepoint": 58497,
+      "fontFamily": "LineMd",
+      "identifier": "sunnyOutlineToMoonLoopTransition"
+    },
+    "sunny-outline-to-moon-transition": {
+      "codepoint": 58498,
+      "fontFamily": "LineMd",
+      "identifier": "sunnyOutlineToMoonTransition"
+    },
+    "sunny-outline-twotone": {
+      "codepoint": 58499,
+      "fontFamily": "LineMd",
+      "identifier": "sunnyOutlineTwotone"
+    },
+    "sunny-outline-twotone-loop": {
+      "codepoint": 58500,
+      "fontFamily": "LineMd",
+      "identifier": "sunnyOutlineTwotoneLoop"
+    },
+    "sunny-twotone": {
+      "codepoint": 58501,
+      "fontFamily": "LineMd",
+      "identifier": "sunnyTwotone"
+    },
+    "sunny-twotone-loop": {
+      "codepoint": 58502,
+      "fontFamily": "LineMd",
+      "identifier": "sunnyTwotoneLoop"
+    },
+    "switch": {
+      "codepoint": 58503,
+      "fontFamily": "LineMd",
+      "identifier": "switch_"
+    },
+    "switch-filled": {
+      "codepoint": 58504,
+      "fontFamily": "LineMd",
+      "identifier": "switchFilled"
+    },
+    "switch-filled-to-switch-off-filled-transition": {
+      "codepoint": 58505,
+      "fontFamily": "LineMd",
+      "identifier": "switchFilledToSwitchOffFilledTransition"
+    },
+    "switch-off": {
+      "codepoint": 58506,
+      "fontFamily": "LineMd",
+      "identifier": "switchOff"
+    },
+    "switch-off-filled": {
+      "codepoint": 58507,
+      "fontFamily": "LineMd",
+      "identifier": "switchOffFilled"
+    },
+    "switch-off-filled-to-switch-filled-transition": {
+      "codepoint": 58508,
+      "fontFamily": "LineMd",
+      "identifier": "switchOffFilledToSwitchFilledTransition"
+    },
+    "switch-off-to-switch-transition": {
+      "codepoint": 58509,
+      "fontFamily": "LineMd",
+      "identifier": "switchOffToSwitchTransition"
+    },
+    "switch-off-twotone": {
+      "codepoint": 58510,
+      "fontFamily": "LineMd",
+      "identifier": "switchOffTwotone"
+    },
+    "switch-off-twotone-to-switch-twotone-transition": {
+      "codepoint": 58511,
+      "fontFamily": "LineMd",
+      "identifier": "switchOffTwotoneToSwitchTwotoneTransition"
+    },
+    "switch-to-switch-off-transition": {
+      "codepoint": 58512,
+      "fontFamily": "LineMd",
+      "identifier": "switchToSwitchOffTransition"
+    },
+    "switch-twotone": {
+      "codepoint": 58513,
+      "fontFamily": "LineMd",
+      "identifier": "switchTwotone"
+    },
+    "switch-twotone-to-switch-off-twotone-transition": {
+      "codepoint": 58514,
+      "fontFamily": "LineMd",
+      "identifier": "switchTwotoneToSwitchOffTwotoneTransition"
+    },
+    "tablet": {
+      "codepoint": 58515,
+      "fontFamily": "LineMd",
+      "identifier": "tablet"
+    },
+    "tablet-arrow-down": {
+      "codepoint": 58516,
+      "fontFamily": "LineMd",
+      "identifier": "tabletArrowDown"
+    },
+    "tablet-arrow-down-twotone": {
+      "codepoint": 58517,
+      "fontFamily": "LineMd",
+      "identifier": "tabletArrowDownTwotone"
+    },
+    "tablet-arrow-up": {
+      "codepoint": 58518,
+      "fontFamily": "LineMd",
+      "identifier": "tabletArrowUp"
+    },
+    "tablet-arrow-up-twotone": {
+      "codepoint": 58519,
+      "fontFamily": "LineMd",
+      "identifier": "tabletArrowUpTwotone"
+    },
+    "tablet-off": {
+      "codepoint": 58520,
+      "fontFamily": "LineMd",
+      "identifier": "tabletOff"
+    },
+    "tablet-off-twotone": {
+      "codepoint": 58521,
+      "fontFamily": "LineMd",
+      "identifier": "tabletOffTwotone"
+    },
+    "tablet-screenshot": {
+      "codepoint": 58522,
+      "fontFamily": "LineMd",
+      "identifier": "tabletScreenshot"
+    },
+    "tablet-screenshot-twotone": {
+      "codepoint": 58523,
+      "fontFamily": "LineMd",
+      "identifier": "tabletScreenshotTwotone"
+    },
+    "tablet-twotone": {
+      "codepoint": 58524,
+      "fontFamily": "LineMd",
+      "identifier": "tabletTwotone"
+    },
+    "taco": {
+      "codepoint": 58525,
+      "fontFamily": "LineMd",
+      "identifier": "taco"
+    },
+    "telegram": {
+      "codepoint": 58526,
+      "fontFamily": "LineMd",
+      "identifier": "telegram"
+    },
+    "text-box": {
+      "codepoint": 58527,
+      "fontFamily": "LineMd",
+      "identifier": "textBox"
+    },
+    "text-box-multiple": {
+      "codepoint": 58528,
+      "fontFamily": "LineMd",
+      "identifier": "textBoxMultiple"
+    },
+    "text-box-multiple-to-text-box-transition": {
+      "codepoint": 58529,
+      "fontFamily": "LineMd",
+      "identifier": "textBoxMultipleToTextBoxTransition"
+    },
+    "text-box-multiple-twotone": {
+      "codepoint": 58530,
+      "fontFamily": "LineMd",
+      "identifier": "textBoxMultipleTwotone"
+    },
+    "text-box-multiple-twotone-to-text-box-twotone-transition": {
+      "codepoint": 58531,
+      "fontFamily": "LineMd",
+      "identifier": "textBoxMultipleTwotoneToTextBoxTwotoneTransition"
+    },
+    "text-box-to-text-box-multiple-transition": {
+      "codepoint": 58532,
+      "fontFamily": "LineMd",
+      "identifier": "textBoxToTextBoxMultipleTransition"
+    },
+    "text-box-twotone": {
+      "codepoint": 58533,
+      "fontFamily": "LineMd",
+      "identifier": "textBoxTwotone"
+    },
+    "text-box-twotone-to-text-box-multiple-twotone-transition": {
+      "codepoint": 58534,
+      "fontFamily": "LineMd",
+      "identifier": "textBoxTwotoneToTextBoxMultipleTwotoneTransition"
+    },
+    "thumbs-down": {
+      "codepoint": 58535,
+      "fontFamily": "LineMd",
+      "identifier": "thumbsDown"
+    },
+    "thumbs-down-filled": {
+      "codepoint": 58536,
+      "fontFamily": "LineMd",
+      "identifier": "thumbsDownFilled"
+    },
+    "thumbs-down-twotone": {
+      "codepoint": 58537,
+      "fontFamily": "LineMd",
+      "identifier": "thumbsDownTwotone"
+    },
+    "thumbs-up": {
+      "codepoint": 58538,
+      "fontFamily": "LineMd",
+      "identifier": "thumbsUp"
+    },
+    "thumbs-up-filled": {
+      "codepoint": 58539,
+      "fontFamily": "LineMd",
+      "identifier": "thumbsUpFilled"
+    },
+    "thumbs-up-twotone": {
+      "codepoint": 58540,
+      "fontFamily": "LineMd",
+      "identifier": "thumbsUpTwotone"
+    },
+    "tiktok": {
+      "codepoint": 58541,
+      "fontFamily": "LineMd",
+      "identifier": "tiktok"
+    },
+    "trash": {
+      "codepoint": 58542,
+      "fontFamily": "LineMd",
+      "identifier": "trash"
+    },
+    "turn-left": {
+      "codepoint": 58543,
+      "fontFamily": "LineMd",
+      "identifier": "turnLeft"
+    },
+    "turn-right": {
+      "codepoint": 58544,
+      "fontFamily": "LineMd",
+      "identifier": "turnRight"
+    },
+    "turn-sharp-left": {
+      "codepoint": 58545,
+      "fontFamily": "LineMd",
+      "identifier": "turnSharpLeft"
+    },
+    "turn-sharp-right": {
+      "codepoint": 58546,
+      "fontFamily": "LineMd",
+      "identifier": "turnSharpRight"
+    },
+    "turn-slight-left": {
+      "codepoint": 58547,
+      "fontFamily": "LineMd",
+      "identifier": "turnSlightLeft"
+    },
+    "turn-slight-right": {
+      "codepoint": 58548,
+      "fontFamily": "LineMd",
+      "identifier": "turnSlightRight"
+    },
+    "twitter": {
+      "codepoint": 58549,
+      "fontFamily": "LineMd",
+      "identifier": "twitter"
+    },
+    "twitter-filled": {
+      "codepoint": 58550,
+      "fontFamily": "LineMd",
+      "identifier": "twitterFilled"
+    },
+    "twitter-twotone": {
+      "codepoint": 58551,
+      "fontFamily": "LineMd",
+      "identifier": "twitterTwotone"
+    },
+    "twitter-x": {
+      "codepoint": 58552,
+      "fontFamily": "LineMd",
+      "identifier": "twitterX"
+    },
+    "twitter-x-alt": {
+      "codepoint": 58553,
+      "fontFamily": "LineMd",
+      "identifier": "twitterXAlt"
+    },
+    "u-turn-left": {
+      "codepoint": 58554,
+      "fontFamily": "LineMd",
+      "identifier": "uTurnLeft"
+    },
+    "u-turn-right": {
+      "codepoint": 58555,
+      "fontFamily": "LineMd",
+      "identifier": "uTurnRight"
+    },
+    "upload": {
+      "codepoint": 58556,
+      "fontFamily": "LineMd",
+      "identifier": "upload"
+    },
+    "upload-loop": {
+      "codepoint": 58557,
+      "fontFamily": "LineMd",
+      "identifier": "uploadLoop"
+    },
+    "upload-off": {
+      "codepoint": 58558,
+      "fontFamily": "LineMd",
+      "identifier": "uploadOff"
+    },
+    "upload-off-loop": {
+      "codepoint": 58559,
+      "fontFamily": "LineMd",
+      "identifier": "uploadOffLoop"
+    },
+    "upload-off-outline": {
+      "codepoint": 58560,
+      "fontFamily": "LineMd",
+      "identifier": "uploadOffOutline"
+    },
+    "upload-off-outline-loop": {
+      "codepoint": 58561,
+      "fontFamily": "LineMd",
+      "identifier": "uploadOffOutlineLoop"
+    },
+    "upload-off-twotone": {
+      "codepoint": 58562,
+      "fontFamily": "LineMd",
+      "identifier": "uploadOffTwotone"
+    },
+    "upload-off-twotone-loop": {
+      "codepoint": 58563,
+      "fontFamily": "LineMd",
+      "identifier": "uploadOffTwotoneLoop"
+    },
+    "upload-outline": {
+      "codepoint": 58564,
+      "fontFamily": "LineMd",
+      "identifier": "uploadOutline"
+    },
+    "upload-outline-loop": {
+      "codepoint": 58565,
+      "fontFamily": "LineMd",
+      "identifier": "uploadOutlineLoop"
+    },
+    "upload-twotone": {
+      "codepoint": 58566,
+      "fontFamily": "LineMd",
+      "identifier": "uploadTwotone"
+    },
+    "upload-twotone-loop": {
+      "codepoint": 58567,
+      "fontFamily": "LineMd",
+      "identifier": "uploadTwotoneLoop"
+    },
+    "uploading": {
+      "codepoint": 58568,
+      "fontFamily": "LineMd",
+      "identifier": "uploading"
+    },
+    "uploading-loop": {
+      "codepoint": 58569,
+      "fontFamily": "LineMd",
+      "identifier": "uploadingLoop"
+    },
+    "valign-baseline": {
+      "codepoint": 58570,
+      "fontFamily": "LineMd",
+      "identifier": "valignBaseline"
+    },
+    "valign-baseline-twotone": {
+      "codepoint": 58571,
+      "fontFamily": "LineMd",
+      "identifier": "valignBaselineTwotone"
+    },
+    "valign-bottom": {
+      "codepoint": 58572,
+      "fontFamily": "LineMd",
+      "identifier": "valignBottom"
+    },
+    "valign-bottom-twotone": {
+      "codepoint": 58573,
+      "fontFamily": "LineMd",
+      "identifier": "valignBottomTwotone"
+    },
+    "valign-middle": {
+      "codepoint": 58574,
+      "fontFamily": "LineMd",
+      "identifier": "valignMiddle"
+    },
+    "valign-middle-twotone": {
+      "codepoint": 58575,
+      "fontFamily": "LineMd",
+      "identifier": "valignMiddleTwotone"
+    },
+    "valign-top": {
+      "codepoint": 58576,
+      "fontFamily": "LineMd",
+      "identifier": "valignTop"
+    },
+    "valign-top-twotone": {
+      "codepoint": 58577,
+      "fontFamily": "LineMd",
+      "identifier": "valignTopTwotone"
+    },
+    "volume-high": {
+      "codepoint": 58578,
+      "fontFamily": "LineMd",
+      "identifier": "volumeHigh"
+    },
+    "volume-high-filled": {
+      "codepoint": 58579,
+      "fontFamily": "LineMd",
+      "identifier": "volumeHighFilled"
+    },
+    "volume-high-off": {
+      "codepoint": 58580,
+      "fontFamily": "LineMd",
+      "identifier": "volumeHighOff"
+    },
+    "volume-high-off-filled": {
+      "codepoint": 58581,
+      "fontFamily": "LineMd",
+      "identifier": "volumeHighOffFilled"
+    },
+    "volume-high-off-twotone": {
+      "codepoint": 58582,
+      "fontFamily": "LineMd",
+      "identifier": "volumeHighOffTwotone"
+    },
+    "volume-high-twotone": {
+      "codepoint": 58583,
+      "fontFamily": "LineMd",
+      "identifier": "volumeHighTwotone"
+    },
+    "volume-low": {
+      "codepoint": 58584,
+      "fontFamily": "LineMd",
+      "identifier": "volumeLow"
+    },
+    "volume-low-filled": {
+      "codepoint": 58585,
+      "fontFamily": "LineMd",
+      "identifier": "volumeLowFilled"
+    },
+    "volume-low-off": {
+      "codepoint": 58586,
+      "fontFamily": "LineMd",
+      "identifier": "volumeLowOff"
+    },
+    "volume-low-off-filled": {
+      "codepoint": 58587,
+      "fontFamily": "LineMd",
+      "identifier": "volumeLowOffFilled"
+    },
+    "volume-low-off-twotone": {
+      "codepoint": 58588,
+      "fontFamily": "LineMd",
+      "identifier": "volumeLowOffTwotone"
+    },
+    "volume-low-twotone": {
+      "codepoint": 58589,
+      "fontFamily": "LineMd",
+      "identifier": "volumeLowTwotone"
+    },
+    "volume-medium": {
+      "codepoint": 58590,
+      "fontFamily": "LineMd",
+      "identifier": "volumeMedium"
+    },
+    "volume-medium-filled": {
+      "codepoint": 58591,
+      "fontFamily": "LineMd",
+      "identifier": "volumeMediumFilled"
+    },
+    "volume-medium-off": {
+      "codepoint": 58592,
+      "fontFamily": "LineMd",
+      "identifier": "volumeMediumOff"
+    },
+    "volume-medium-off-filled": {
+      "codepoint": 58593,
+      "fontFamily": "LineMd",
+      "identifier": "volumeMediumOffFilled"
+    },
+    "volume-medium-off-twotone": {
+      "codepoint": 58594,
+      "fontFamily": "LineMd",
+      "identifier": "volumeMediumOffTwotone"
+    },
+    "volume-medium-twotone": {
+      "codepoint": 58595,
+      "fontFamily": "LineMd",
+      "identifier": "volumeMediumTwotone"
+    },
+    "volume-minus": {
+      "codepoint": 58596,
+      "fontFamily": "LineMd",
+      "identifier": "volumeMinus"
+    },
+    "volume-minus-filled": {
+      "codepoint": 58597,
+      "fontFamily": "LineMd",
+      "identifier": "volumeMinusFilled"
+    },
+    "volume-minus-twotone": {
+      "codepoint": 58598,
+      "fontFamily": "LineMd",
+      "identifier": "volumeMinusTwotone"
+    },
+    "volume-plus": {
+      "codepoint": 58599,
+      "fontFamily": "LineMd",
+      "identifier": "volumePlus"
+    },
+    "volume-plus-filled": {
+      "codepoint": 58600,
+      "fontFamily": "LineMd",
+      "identifier": "volumePlusFilled"
+    },
+    "volume-plus-twotone": {
+      "codepoint": 58601,
+      "fontFamily": "LineMd",
+      "identifier": "volumePlusTwotone"
+    },
+    "volume-remove": {
+      "codepoint": 58602,
+      "fontFamily": "LineMd",
+      "identifier": "volumeRemove"
+    },
+    "volume-remove-filled": {
+      "codepoint": 58603,
+      "fontFamily": "LineMd",
+      "identifier": "volumeRemoveFilled"
+    },
+    "volume-remove-twotone": {
+      "codepoint": 58604,
+      "fontFamily": "LineMd",
+      "identifier": "volumeRemoveTwotone"
+    },
+    "watch": {
+      "codepoint": 58605,
+      "fontFamily": "LineMd",
+      "identifier": "watch"
+    },
+    "watch-loop": {
+      "codepoint": 58606,
+      "fontFamily": "LineMd",
+      "identifier": "watchLoop"
+    },
+    "watch-off": {
+      "codepoint": 58607,
+      "fontFamily": "LineMd",
+      "identifier": "watchOff"
+    },
+    "watch-off-loop": {
+      "codepoint": 58608,
+      "fontFamily": "LineMd",
+      "identifier": "watchOffLoop"
+    },
+    "watch-off-twotone": {
+      "codepoint": 58609,
+      "fontFamily": "LineMd",
+      "identifier": "watchOffTwotone"
+    },
+    "watch-off-twotone-loop": {
+      "codepoint": 58610,
+      "fontFamily": "LineMd",
+      "identifier": "watchOffTwotoneLoop"
+    },
+    "watch-twotone": {
+      "codepoint": 58611,
+      "fontFamily": "LineMd",
+      "identifier": "watchTwotone"
+    },
+    "watch-twotone-loop": {
+      "codepoint": 58612,
+      "fontFamily": "LineMd",
+      "identifier": "watchTwotoneLoop"
+    },
+    "water": {
+      "codepoint": 58613,
+      "fontFamily": "LineMd",
+      "identifier": "water"
+    },
+    "water-filled": {
+      "codepoint": 58614,
+      "fontFamily": "LineMd",
+      "identifier": "waterFilled"
+    },
+    "water-off": {
+      "codepoint": 58615,
+      "fontFamily": "LineMd",
+      "identifier": "waterOff"
+    },
+    "water-off-filled": {
+      "codepoint": 58616,
+      "fontFamily": "LineMd",
+      "identifier": "waterOffFilled"
+    },
+    "water-off-twotone": {
+      "codepoint": 58617,
+      "fontFamily": "LineMd",
+      "identifier": "waterOffTwotone"
+    },
+    "water-twotone": {
+      "codepoint": 58618,
+      "fontFamily": "LineMd",
+      "identifier": "waterTwotone"
+    },
+    "weather-cloudy-loop": {
+      "codepoint": 58619,
+      "fontFamily": "LineMd",
+      "identifier": "weatherCloudyLoop"
+    },
+    "youtube": {
+      "codepoint": 58620,
+      "fontFamily": "LineMd",
+      "identifier": "youtube"
+    },
+    "youtube-filled": {
+      "codepoint": 58621,
+      "fontFamily": "LineMd",
+      "identifier": "youtubeFilled"
+    },
+    "youtube-twotone": {
+      "codepoint": 58622,
+      "fontFamily": "LineMd",
+      "identifier": "youtubeTwotone"
     }
   }
 }

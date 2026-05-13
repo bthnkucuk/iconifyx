@@ -16,13 +16,13 @@
       "spdx": "GPL-3.0",
       "url": "https://github.com/cyberalien/gala-icons/blob/main/LICENSE"
     },
-    "total": 52
+    "total": 55
   },
   "fonts": [
     {
       "family": "Gala",
       "nextCodepoint": 57399,
-      "iconCount": 52
+      "iconCount": 55
     }
   ],
   "icons": {
@@ -39,9 +39,7 @@
     "apple": {
       "codepoint": 57346,
       "fontFamily": "Gala",
-      "identifier": "apple",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "apple"
     },
     "bag": {
       "codepoint": 57347,
@@ -51,16 +49,12 @@
     "bell": {
       "codepoint": 57348,
       "fontFamily": "Gala",
-      "identifier": "bell",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "bell"
     },
     "book": {
       "codepoint": 57349,
       "fontFamily": "Gala",
-      "identifier": "book",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "book"
     },
     "brochure": {
       "codepoint": 57350,

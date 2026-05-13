@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/cyberalien/line-md/blob/main/license.txt',
-  iconCount: 2,
+  iconCount: 1279,
 );

@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Streamline
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 953
+/// Icons: 1000
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -40,6 +40,13 @@ class StreamlineFreehandIcons {
   /// `accounting-calculator`
   static const IconifyIconData accountingCalculator = IconifyIconData(IconData(
     0xe003,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
+  /// `accounting-invoice`
+  static const IconifyIconData accountingInvoice = IconifyIconData(IconData(
+    0xe3b9,
     fontFamily: 'StreamlineFreehand',
     fontPackage: 'iconifyx_streamline_freehand',
   ));
@@ -114,9 +121,30 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `allowances-no-bicycles-sign`
+  static const IconifyIconData allowancesNoBicyclesSign = IconifyIconData(IconData(
+    0xe3ba,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `allowances-no-food-sign`
   static const IconifyIconData allowancesNoFoodSign = IconifyIconData(IconData(
     0xe00e,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
+  /// `allowances-no-photos-sign`
+  static const IconifyIconData allowancesNoPhotosSign = IconifyIconData(IconData(
+    0xe3bb,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
+  /// `allowances-no-smoking`
+  static const IconifyIconData allowancesNoSmoking = IconifyIconData(IconData(
+    0xe3bc,
     fontFamily: 'StreamlineFreehand',
     fontPackage: 'iconifyx_streamline_freehand',
   ));
@@ -159,6 +187,13 @@ class StreamlineFreehandIcons {
   /// `analytics-board-graph-line`
   static const IconifyIconData analyticsBoardGraphLine = IconifyIconData(IconData(
     0xe014,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
+  /// `analytics-graph-bar-horizontal`
+  static const IconifyIconData analyticsGraphBarHorizontal = IconifyIconData(IconData(
+    0xe3bd,
     fontFamily: 'StreamlineFreehand',
     fontPackage: 'iconifyx_streamline_freehand',
   ));
@@ -341,6 +376,13 @@ class StreamlineFreehandIcons {
   /// `bluetooth-logo`
   static const IconifyIconData bluetoothLogo = IconifyIconData(IconData(
     0xe02e,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
+  /// `bluetooth-transfer`
+  static const IconifyIconData bluetoothTransfer = IconifyIconData(IconData(
+    0xe3be,
     fontFamily: 'StreamlineFreehand',
     fontPackage: 'iconifyx_streamline_freehand',
   ));
@@ -905,6 +947,13 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `cleaning-sign`
+  static const IconifyIconData cleaningSign = IconifyIconData(IconData(
+    0xe3bf,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `cloud-check`
   static const IconifyIconData cloudCheck = IconifyIconData(IconData(
     0xe07f,
@@ -1087,6 +1136,13 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `color-triangle`
+  static const IconifyIconData colorTriangle = IconifyIconData(IconData(
+    0xe3c0,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `composition-16-to-9`
   static const IconifyIconData composition16To9 = IconifyIconData(IconData(
     0xe099,
@@ -1136,6 +1192,13 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `connect-flash`
+  static const IconifyIconData connectFlash = IconifyIconData(IconData(
+    0xe3c1,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `content-browser-edit`
   static const IconifyIconData contentBrowserEdit = IconifyIconData(IconData(
     0xe0a0,
@@ -1171,6 +1234,13 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `controls-camera-off`
+  static const IconifyIconData controlsCameraOff = IconifyIconData(IconData(
+    0xe3c2,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `controls-slider-toggle-left`
   static const IconifyIconData controlsSliderToggleLeft = IconifyIconData(IconData(
     0xe0a5,
@@ -1181,6 +1251,13 @@ class StreamlineFreehandIcons {
   /// `controls-slider-toggle-right`
   static const IconifyIconData controlsSliderToggleRight = IconifyIconData(IconData(
     0xe0a6,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
+  /// `controls-sliders-vertical`
+  static const IconifyIconData controlsSlidersVertical = IconifyIconData(IconData(
+    0xe3c3,
     fontFamily: 'StreamlineFreehand',
     fontPackage: 'iconifyx_streamline_freehand',
   ));
@@ -1251,6 +1328,13 @@ class StreamlineFreehandIcons {
   /// `creativity-idea-strategy`
   static const IconifyIconData creativityIdeaStrategy = IconifyIconData(IconData(
     0xe0b0,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
+  /// `credit-card-1`
+  static const IconifyIconData creditCard1 = IconifyIconData(IconData(
+    0xe3c4,
     fontFamily: 'StreamlineFreehand',
     fontPackage: 'iconifyx_streamline_freehand',
   ));
@@ -1489,6 +1573,13 @@ class StreamlineFreehandIcons {
   /// `cursor-highlight-click-1`
   static const IconifyIconData cursorHighlightClick1 = IconifyIconData(IconData(
     0xe0d2,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
+  /// `cursor-speed-1`
+  static const IconifyIconData cursorSpeed1 = IconifyIconData(IconData(
+    0xe3c5,
     fontFamily: 'StreamlineFreehand',
     fontPackage: 'iconifyx_streamline_freehand',
   ));
@@ -1857,6 +1948,13 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `disability-partially-blind`
+  static const IconifyIconData disabilityPartiallyBlind = IconifyIconData(IconData(
+    0xe3c6,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `disability-qcc-line`
   static const IconifyIconData disabilityQccLine = IconifyIconData(IconData(
     0xe107,
@@ -1916,6 +2014,13 @@ class StreamlineFreehandIcons {
   /// `discount-percent-bubble`
   static const IconifyIconData discountPercentBubble = IconifyIconData(IconData(
     0xe10f,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
+  /// `discount-percent-increase-arrow`
+  static const IconifyIconData discountPercentIncreaseArrow = IconifyIconData(IconData(
+    0xe3c7,
     fontFamily: 'StreamlineFreehand',
     fontPackage: 'iconifyx_streamline_freehand',
   ));
@@ -2214,6 +2319,13 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `escalator-descend-person`
+  static const IconifyIconData escalatorDescendPerson = IconifyIconData(IconData(
+    0xe3c8,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `expand-smartphone`
   static const IconifyIconData expandSmartphone = IconifyIconData(IconData(
     0xe13a,
@@ -2375,6 +2487,13 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `flip-rotate-clockwise`
+  static const IconifyIconData flipRotateClockwise = IconifyIconData(IconData(
+    0xe3c9,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `flip-up`
   static const IconifyIconData flipUp = IconifyIconData(IconData(
     0xe151,
@@ -2483,6 +2602,13 @@ class StreamlineFreehandIcons {
   /// `form-validation-cursor-choose`
   static const IconifyIconData formValidationCursorChoose = IconifyIconData(IconData(
     0xe160,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
+  /// `form-validation-remove-square`
+  static const IconifyIconData formValidationRemoveSquare = IconifyIconData(IconData(
+    0xe3ca,
     fontFamily: 'StreamlineFreehand',
     fontPackage: 'iconifyx_streamline_freehand',
   ));
@@ -2823,6 +2949,13 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `keyboard-asterisk-1`
+  static const IconifyIconData keyboardAsterisk1 = IconifyIconData(IconData(
+    0xe3cb,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `keyboard-asterisk-2`
   static const IconifyIconData keyboardAsterisk2 = IconifyIconData(IconData(
     0xe191,
@@ -3110,6 +3243,13 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `lock-cancel-slash`
+  static const IconifyIconData lockCancelSlash = IconifyIconData(IconData(
+    0xe3cc,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `lock-circle`
   static const IconifyIconData lockCircle = IconifyIconData(IconData(
     0xe1ba,
@@ -3306,6 +3446,13 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `messages-bubble-sms-block-1`
+  static const IconifyIconData messagesBubbleSmsBlock1 = IconifyIconData(IconData(
+    0xe3cd,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `messages-bubble-square-graph`
   static const IconifyIconData messagesBubbleSquareGraph = IconifyIconData(IconData(
     0xe1d6,
@@ -3376,6 +3523,13 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `microphone-off`
+  static const IconifyIconData microphoneOff = IconifyIconData(IconData(
+    0xe3ce,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `microprocessor-computer-chip-32-bit`
   static const IconifyIconData microprocessorComputerChip32Bit = IconifyIconData(IconData(
     0xe1e0,
@@ -3428,6 +3582,20 @@ class StreamlineFreehandIcons {
   /// `mobile-phone-hand-hold`
   static const IconifyIconData mobilePhoneHandHold = IconifyIconData(IconData(
     0xe1e7,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
+  /// `mobile-phone-smartphone`
+  static const IconifyIconData mobilePhoneSmartphone = IconifyIconData(IconData(
+    0xe3cf,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
+  /// `mobile-phone-write`
+  static const IconifyIconData mobilePhoneWrite = IconifyIconData(IconData(
+    0xe3d0,
     fontFamily: 'StreamlineFreehand',
     fontPackage: 'iconifyx_streamline_freehand',
   ));
@@ -3551,6 +3719,13 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `modern-payment-contactless`
+  static const IconifyIconData modernPaymentContactless = IconifyIconData(IconData(
+    0xe3d1,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `modern-payment-desktop-transaction`
   static const IconifyIconData modernPaymentDesktopTransaction = IconifyIconData(IconData(
     0xe1f9,
@@ -3642,6 +3817,13 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `money-bill-fly`
+  static const IconifyIconData moneyBillFly = IconifyIconData(IconData(
+    0xe3d2,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `money-cash-bill`
   static const IconifyIconData moneyCashBill = IconifyIconData(IconData(
     0xe206,
@@ -3694,6 +3876,13 @@ class StreamlineFreehandIcons {
   /// `mouse-wireless-1`
   static const IconifyIconData mouseWireless1 = IconifyIconData(IconData(
     0xe20d,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
+  /// `move-cross-over`
+  static const IconifyIconData moveCrossOver = IconifyIconData(IconData(
+    0xe3d3,
     fontFamily: 'StreamlineFreehand',
     fontPackage: 'iconifyx_streamline_freehand',
   ));
@@ -3761,6 +3950,13 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `multimedia-controls-single-track`
+  static const IconifyIconData multimediaControlsSingleTrack = IconifyIconData(IconData(
+    0xe3d4,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `music-basket`
   static const IconifyIconData musicBasket = IconifyIconData(IconData(
     0xe217,
@@ -3792,6 +3988,13 @@ class StreamlineFreehandIcons {
   /// `music-note-1`
   static const IconifyIconData musicNote1 = IconifyIconData(IconData(
     0xe21b,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
+  /// `music-note-circle-block-1`
+  static const IconifyIconData musicNoteCircleBlock1 = IconifyIconData(IconData(
+    0xe3d5,
     fontFamily: 'StreamlineFreehand',
     fontPackage: 'iconifyx_streamline_freehand',
   ));
@@ -3929,6 +4132,13 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `office-building-glass-window`
+  static const IconifyIconData officeBuildingGlassWindow = IconifyIconData(IconData(
+    0xe3d6,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `office-building-outdoors`
   static const IconifyIconData officeBuildingOutdoors = IconifyIconData(IconData(
     0xe22f,
@@ -4009,6 +4219,13 @@ class StreamlineFreehandIcons {
   /// `office-stamp-document`
   static const IconifyIconData officeStampDocument = IconifyIconData(IconData(
     0xe23a,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
+  /// `office-stapler-1`
+  static const IconifyIconData officeStapler1 = IconifyIconData(IconData(
+    0xe3d7,
     fontFamily: 'StreamlineFreehand',
     fontPackage: 'iconifyx_streamline_freehand',
   ));
@@ -4153,6 +4370,13 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `password-type`
+  static const IconifyIconData passwordType = IconifyIconData(IconData(
+    0xe3d8,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `pathfinder-merge`
   static const IconifyIconData pathfinderMerge = IconifyIconData(IconData(
     0xe24f,
@@ -4191,6 +4415,13 @@ class StreamlineFreehandIcons {
   /// `phone-actions-merge`
   static const IconifyIconData phoneActionsMerge = IconifyIconData(IconData(
     0xe254,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
+  /// `phone-actions-off`
+  static const IconifyIconData phoneActionsOff = IconifyIconData(IconData(
+    0xe3d9,
     fontFamily: 'StreamlineFreehand',
     fontPackage: 'iconifyx_streamline_freehand',
   ));
@@ -4433,6 +4664,13 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `presentation-screen`
+  static const IconifyIconData presentationScreen = IconifyIconData(IconData(
+    0xe3da,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `print-text`
   static const IconifyIconData printText = IconifyIconData(IconData(
     0xe277,
@@ -4531,6 +4769,13 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `programming-language-css-3`
+  static const IconifyIconData programmingLanguageCss3 = IconifyIconData(IconData(
+    0xe3db,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `programming-language-html-5`
   static const IconifyIconData programmingLanguageHtml5 = IconifyIconData(IconData(
     0xe285,
@@ -4583,6 +4828,13 @@ class StreamlineFreehandIcons {
   /// `push-notification-2`
   static const IconifyIconData pushNotification2 = IconifyIconData(IconData(
     0xe28c,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
+  /// `push-notification-alert-1`
+  static const IconifyIconData pushNotificationAlert1 = IconifyIconData(IconData(
+    0xe3dc,
     fontFamily: 'StreamlineFreehand',
     fontPackage: 'iconifyx_streamline_freehand',
   ));
@@ -4846,6 +5098,13 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `safety-sign-danger-slippery`
+  static const IconifyIconData safetySignDangerSlippery = IconifyIconData(IconData(
+    0xe3dd,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `safety-sign-electricity`
   static const IconifyIconData safetySignElectricity = IconifyIconData(IconData(
     0xe2b2,
@@ -4926,6 +5185,13 @@ class StreamlineFreehandIcons {
   /// `saving-piggy-bank`
   static const IconifyIconData savingPiggyBank = IconifyIconData(IconData(
     0xe2bd,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
+  /// `saving-safe`
+  static const IconifyIconData savingSafe = IconifyIconData(IconData(
+    0xe3de,
     fontFamily: 'StreamlineFreehand',
     fontPackage: 'iconifyx_streamline_freehand',
   ));
@@ -5049,6 +5315,13 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `send-email-paper-plane-1`
+  static const IconifyIconData sendEmailPaperPlane1 = IconifyIconData(IconData(
+    0xe3df,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `send-email-pop-up`
   static const IconifyIconData sendEmailPopUp = IconifyIconData(IconData(
     0xe2cf,
@@ -5080,6 +5353,13 @@ class StreamlineFreehandIcons {
   /// `server-api-cloud`
   static const IconifyIconData serverApiCloud = IconifyIconData(IconData(
     0xe2d3,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
+  /// `server-edit`
+  static const IconifyIconData serverEdit = IconifyIconData(IconData(
+    0xe3e0,
     fontFamily: 'StreamlineFreehand',
     fontPackage: 'iconifyx_streamline_freehand',
   ));
@@ -5126,6 +5406,13 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `settings-hammer`
+  static const IconifyIconData settingsHammer = IconifyIconData(IconData(
+    0xe3e1,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `settings-screwdriver`
   static const IconifyIconData settingsScrewdriver = IconifyIconData(IconData(
     0xe2da,
@@ -5133,9 +5420,23 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `settings-wrench-double`
+  static const IconifyIconData settingsWrenchDouble = IconifyIconData(IconData(
+    0xe3e2,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `shape-cube`
   static const IconifyIconData shapeCube = IconifyIconData(IconData(
     0xe2db,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
+  /// `shape-pyramid`
+  static const IconifyIconData shapePyramid = IconifyIconData(IconData(
+    0xe3e3,
     fontFamily: 'StreamlineFreehand',
     fontPackage: 'iconifyx_streamline_freehand',
   ));
@@ -5910,6 +6211,13 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `text-formating-subscript`
+  static const IconifyIconData textFormatingSubscript = IconifyIconData(IconData(
+    0xe3e4,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `time-clock-24-hrs-2`
   static const IconifyIconData timeClock24Hrs2 = IconifyIconData(IconData(
     0xe34a,
@@ -6011,6 +6319,13 @@ class StreamlineFreehandIcons {
   /// `touch-id-fingerprint-square`
   static const IconifyIconData touchIdFingerprintSquare = IconifyIconData(IconData(
     0xe358,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
+  /// `trading-graph`
+  static const IconifyIconData tradingGraph = IconifyIconData(IconData(
+    0xe3e5,
     fontFamily: 'StreamlineFreehand',
     fontPackage: 'iconifyx_streamline_freehand',
   ));
@@ -6386,6 +6701,13 @@ class StreamlineFreehandIcons {
     fontPackage: 'iconifyx_streamline_freehand',
   ));
 
+  /// `voice-id-smartphone`
+  static const IconifyIconData voiceIdSmartphone = IconifyIconData(IconData(
+    0xe3e6,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
   /// `voice-id-user`
   static const IconifyIconData voiceIdUser = IconifyIconData(IconData(
     0xe38e,
@@ -6522,6 +6844,13 @@ class StreamlineFreehandIcons {
   /// `website-development-browser-source-code`
   static const IconifyIconData websiteDevelopmentBrowserSourceCode = IconifyIconData(IconData(
     0xe3a1,
+    fontFamily: 'StreamlineFreehand',
+    fontPackage: 'iconifyx_streamline_freehand',
+  ));
+
+  /// `website-development-build`
+  static const IconifyIconData websiteDevelopmentBuild = IconifyIconData(IconData(
+    0xe3e7,
     fontFamily: 'StreamlineFreehand',
     fontPackage: 'iconifyx_streamline_freehand',
   ));

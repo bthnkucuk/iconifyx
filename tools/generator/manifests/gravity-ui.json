@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/gravity-ui/icons/blob/main/LICENSE"
     },
-    "total": 777
+    "total": 781
   },
   "fonts": [
     {
       "family": "GravityUi",
-      "nextCodepoint": 58121,
-      "iconCount": 777
+      "nextCodepoint": 58125,
+      "iconCount": 781
     }
   ],
   "icons": {
@@ -2591,10 +2591,20 @@
       "fontFamily": "GravityUi",
       "identifier": "lock"
     },
+    "lock-fill": {
+      "codepoint": 58121,
+      "fontFamily": "GravityUi",
+      "identifier": "lockFill"
+    },
     "lock-open": {
       "codepoint": 57857,
       "fontFamily": "GravityUi",
       "identifier": "lockOpen"
+    },
+    "lock-open-fill": {
+      "codepoint": 58122,
+      "fontFamily": "GravityUi",
+      "identifier": "lockOpenFill"
     },
     "logo-acrobat": {
       "codepoint": 57858,
@@ -2625,6 +2635,11 @@
       "codepoint": 57863,
       "fontFamily": "GravityUi",
       "identifier": "logoFacebook"
+    },
+    "logo-figma": {
+      "codepoint": 58123,
+      "fontFamily": "GravityUi",
+      "identifier": "logoFigma"
     },
     "logo-github": {
       "codepoint": 57864,
@@ -2810,6 +2825,11 @@
       "codepoint": 57900,
       "fontFamily": "GravityUi",
       "identifier": "microphoneSlash"
+    },
+    "microscope": {
+      "codepoint": 58124,
+      "fontFamily": "GravityUi",
+      "identifier": "microscope"
     },
     "minus": {
       "codepoint": 57901,

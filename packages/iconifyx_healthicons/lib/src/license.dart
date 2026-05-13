@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/resolvetosavelives/healthicons/blob/main/LICENSE',
-  iconCount: 3296,
+  iconCount: 3373,
 );

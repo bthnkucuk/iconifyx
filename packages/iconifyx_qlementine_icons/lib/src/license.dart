@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/oclero/qlementine-icons/blob/master/LICENSE',
-  iconCount: 880,
+  iconCount: 885,
 );

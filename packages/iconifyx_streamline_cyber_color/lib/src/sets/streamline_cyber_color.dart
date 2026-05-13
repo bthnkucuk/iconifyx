@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Streamline
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 495
+/// Icons: 500
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -467,6 +467,13 @@ class StreamlineCyberColorIcons {
   /// `bubble-chat-double-typing-smiley-face`
   static const IconifyIconData bubbleChatDoubleTypingSmileyFace = IconifyIconData(IconData(
     0xe040,
+    fontFamily: 'StreamlineCyberColor',
+    fontPackage: 'iconifyx_streamline_cyber_color',
+  ));
+
+  /// `bubble-chat-like`
+  static const IconifyIconData bubbleChatLike = IconifyIconData(IconData(
+    0xe1ef,
     fontFamily: 'StreamlineCyberColor',
     fontPackage: 'iconifyx_streamline_cyber_color',
   ));
@@ -1139,6 +1146,13 @@ class StreamlineCyberColorIcons {
   /// `cursor-arrow-target`
   static const IconifyIconData cursorArrowTarget = IconifyIconData(IconData(
     0xe0a0,
+    fontFamily: 'StreamlineCyberColor',
+    fontPackage: 'iconifyx_streamline_cyber_color',
+  ));
+
+  /// `cursor-choose`
+  static const IconifyIconData cursorChoose = IconifyIconData(IconData(
+    0xe1f0,
     fontFamily: 'StreamlineCyberColor',
     fontPackage: 'iconifyx_streamline_cyber_color',
   ));
@@ -2431,6 +2445,13 @@ class StreamlineCyberColorIcons {
     fontPackage: 'iconifyx_streamline_cyber_color',
   ));
 
+  /// `picture-2`
+  static const IconifyIconData picture2 = IconifyIconData(IconData(
+    0xe1f1,
+    fontFamily: 'StreamlineCyberColor',
+    fontPackage: 'iconifyx_streamline_cyber_color',
+  ));
+
   /// `picture-6`
   static const IconifyIconData picture6 = IconifyIconData(IconData(
     0xe159,
@@ -2823,9 +2844,23 @@ class StreamlineCyberColorIcons {
     fontPackage: 'iconifyx_streamline_cyber_color',
   ));
 
+  /// `skull-1`
+  static const IconifyIconData skull1 = IconifyIconData(IconData(
+    0xe1f2,
+    fontFamily: 'StreamlineCyberColor',
+    fontPackage: 'iconifyx_streamline_cyber_color',
+  ));
+
   /// `smartwatch-1`
   static const IconifyIconData smartwatch1 = IconifyIconData(IconData(
     0xe191,
+    fontFamily: 'StreamlineCyberColor',
+    fontPackage: 'iconifyx_streamline_cyber_color',
+  ));
+
+  /// `smartwatch-favorite-heart-1`
+  static const IconifyIconData smartwatchFavoriteHeart1 = IconifyIconData(IconData(
+    0xe1f3,
     fontFamily: 'StreamlineCyberColor',
     fontPackage: 'iconifyx_streamline_cyber_color',
   ));

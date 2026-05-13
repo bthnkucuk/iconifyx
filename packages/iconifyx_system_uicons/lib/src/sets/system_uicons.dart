@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Corey Ginnivan
 /// License: Unlicense — https://github.com/CoreyGinnivan/system-uicons/blob/master/LICENSE
-/// Icons: 430
+/// Icons: 432
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -957,6 +957,13 @@ class SystemUiconsIcons {
   /// `document`
   static const IconifyIconData document = IconifyIconData(IconData(
     0xe086,
+    fontFamily: 'SystemUicons',
+    fontPackage: 'iconifyx_system_uicons',
+  ));
+
+  /// `document-justified`
+  static const IconifyIconData documentJustified = IconifyIconData(IconData(
+    0xe1ae,
     fontFamily: 'SystemUicons',
     fontPackage: 'iconifyx_system_uicons',
   ));
@@ -2539,6 +2546,13 @@ class SystemUiconsIcons {
   /// `star`
   static const IconifyIconData star = IconifyIconData(IconData(
     0xe168,
+    fontFamily: 'SystemUicons',
+    fontPackage: 'iconifyx_system_uicons',
+  ));
+
+  /// `sun`
+  static const IconifyIconData sun = IconifyIconData(IconData(
+    0xe1af,
     fontFamily: 'SystemUicons',
     fontPackage: 'iconifyx_system_uicons',
   ));

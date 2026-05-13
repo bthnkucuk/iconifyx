@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Jay Newey
 /// License: MIT — https://github.com/jaynewey/charm-icons/blob/main/LICENSE
-/// Icons: 262
+/// Icons: 263
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -110,6 +110,13 @@ class CharmIcons {
   /// `at-sign`
   static const IconifyIconData atSign = IconifyIconData(IconData(
     0xe00d,
+    fontFamily: 'Charm',
+    fontPackage: 'iconifyx_charm',
+  ));
+
+  /// `atom`
+  static const IconifyIconData atom = IconifyIconData(IconData(
+    0xe106,
     fontFamily: 'Charm',
     fontPackage: 'iconifyx_charm',
   ));

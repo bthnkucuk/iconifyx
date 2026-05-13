@@ -418,18 +418,16 @@ class _SidebarSetTile extends StatelessWidget {
                     for (var i = 0; i < samples.length; i++) ...[
                       if (i > 0) const SizedBox(width: 8),
                       samples[i].isDuotone
-                          ? IconifyDuotoneIcon(
-                              samples[i].data,
-                              samples[i].secondary!,
+                          ? _squareDuotone(
+                              primary: samples[i].data,
+                              secondary: samples[i].secondary!,
                               size: 22,
                               primaryColor: iconColor,
                               secondaryColor: iconColor,
                               secondaryOpacity: 0.35,
                             )
-                          : Icon(
-                              samples[i].data.data,
-                              size: 22,
-                              color: iconColor,
+                          : _squareIcon(
+                              samples[i].data.data, 22, iconColor,
                             ),
                     ],
                   ],
@@ -449,6 +447,44 @@ class _SidebarSetTile extends StatelessWidget {
     }
     return '$n icons';
   }
+}
+
+// Constrain any Iconify icon to a square box, scaling down icons whose font
+// glyph naturally renders wider than tall (svg-logos icons, many Logos sets
+// have ~32×17 viewBox). FittedBox.contain keeps aspect ratio; without it
+// `Icon(size: 24)` for a wide glyph paints at 48×24 and overflows the tile.
+Widget _squareIcon(IconData data, double size, Color? color) {
+  return SizedBox.square(
+    dimension: size,
+    child: FittedBox(
+      fit: BoxFit.contain,
+      child: Icon(data, size: size, color: color),
+    ),
+  );
+}
+
+Widget _squareDuotone({
+  required IconifyIconData primary,
+  required IconifyIconData secondary,
+  required double size,
+  Color? primaryColor,
+  Color? secondaryColor,
+  double secondaryOpacity = 0.4,
+}) {
+  return SizedBox.square(
+    dimension: size,
+    child: FittedBox(
+      fit: BoxFit.contain,
+      child: IconifyDuotoneIcon(
+        primary,
+        secondary,
+        size: size,
+        primaryColor: primaryColor,
+        secondaryColor: secondaryColor,
+        secondaryOpacity: secondaryOpacity,
+      ),
+    ),
+  );
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -608,6 +644,7 @@ class _IconGridArea extends StatelessWidget {
                             setPrefix: s.prefix,
                             setName: s.name,
                             packageName: s.packageName,
+                            license: s.license,
                           );
                         },
                       );
@@ -656,6 +693,7 @@ class _IconTile extends StatelessWidget {
   final String setPrefix;
   final String setName;
   final String packageName;
+  final String license;
 
   const _IconTile({
     super.key,
@@ -668,6 +706,7 @@ class _IconTile extends StatelessWidget {
     required this.setPrefix,
     required this.setName,
     required this.packageName,
+    required this.license,
   });
 
   @override
@@ -702,18 +741,18 @@ class _IconTile extends StatelessWidget {
                 Expanded(
                   child: Center(
                     child: entry.isDuotone
-                        ? IconifyDuotoneIcon(
-                            entry.data,
-                            entry.secondary!,
+                        ? _squareDuotone(
+                            primary: entry.data,
+                            secondary: entry.secondary!,
                             size: iconSize,
                             primaryColor: primary,
                             secondaryColor: secondary,
                             secondaryOpacity: secondaryOpacity,
                           )
-                        : Icon(
+                        : _squareIcon(
                             entry.data.data,
-                            size: iconSize,
-                            color: primary,
+                            iconSize,
+                            primary,
                           ),
                   ),
                 ),
@@ -747,6 +786,7 @@ class _IconTile extends StatelessWidget {
         setPrefix: setPrefix,
         setName: setName,
         packageName: packageName,
+        license: license,
       ),
     );
   }
@@ -765,6 +805,7 @@ class _IconDetails extends StatelessWidget {
   final String setPrefix;
   final String setName;
   final String packageName;
+  final String license;
   const _IconDetails({
     required this.entry,
     required this.primary,
@@ -774,6 +815,7 @@ class _IconDetails extends StatelessWidget {
     required this.setPrefix,
     required this.setName,
     required this.packageName,
+    required this.license,
   });
 
   String _importLine() => "import 'package:$packageName/$packageName.dart';";
@@ -793,85 +835,123 @@ class _IconDetails extends StatelessWidget {
   }
 
   String _classFromPackage() {
-    // package name is iconifyx_<suffix> where <suffix> is the prefix with
-    // hyphens swapped for underscores; class is the prefix camel-cased + Icons.
     return _camelCaseClassFromPrefix(setPrefix);
+  }
+
+  Widget _renderIcon({required double size, required Color color}) {
+    if (entry.isDuotone) {
+      return _squareDuotone(
+        primary: entry.data,
+        secondary: entry.secondary!,
+        size: size,
+        primaryColor: color,
+        secondaryColor: secondary,
+        secondaryOpacity: secondaryOpacity,
+      );
+    }
+    return _squareIcon(entry.data.data, size, color);
   }
 
   @override
   Widget build(BuildContext context) {
     final cs = Theme.of(context).colorScheme;
     final tt = Theme.of(context).textTheme;
+    final previewBg = darkCanvas ? const Color(0xFF111827) : cs.surfaceContainerHighest;
+    final previewFg = darkCanvas && primary.computeLuminance() < 0.3
+        ? Colors.white
+        : primary;
+    final cp = '0x${entry.data.codePoint.toRadixString(16)}';
+
     return Padding(
       padding: EdgeInsets.fromLTRB(
-        24,
-        8,
-        24,
+        28,
+        4,
+        28,
         24 + MediaQuery.viewInsetsOf(context).bottom,
       ),
       child: Column(
         mainAxisSize: MainAxisSize.min,
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Row(
+          // Hero preview ────────────────────────────────────────────
+          Container(
+            width: double.infinity,
+            height: 200,
+            decoration: BoxDecoration(
+              gradient: LinearGradient(
+                begin: Alignment.topLeft,
+                end: Alignment.bottomRight,
+                colors: darkCanvas
+                    ? const [Color(0xFF111827), Color(0xFF1F2937)]
+                    : [cs.surfaceContainerLow, cs.surfaceContainerHigh],
+              ),
+              borderRadius: BorderRadius.circular(20),
+            ),
+            child: Center(child: _renderIcon(size: 96, color: previewFg)),
+          ),
+          const SizedBox(height: 20),
+
+          // Title row + meta chips ──────────────────────────────────
+          Text(
+            entry.name,
+            style: tt.headlineSmall?.copyWith(
+              fontWeight: FontWeight.w600,
+              letterSpacing: -0.4,
+            ),
+          ),
+          const SizedBox(height: 6),
+          Wrap(
+            spacing: 8,
+            runSpacing: 6,
+            crossAxisAlignment: WrapCrossAlignment.center,
             children: [
-              Container(
-                width: 96,
-                height: 96,
-                decoration: BoxDecoration(
-                  color: darkCanvas
-                      ? const Color(0xFF1F2937)
-                      : cs.surfaceContainer,
-                  borderRadius: BorderRadius.circular(14),
-                  border: Border.all(color: cs.outlineVariant),
-                ),
-                alignment: Alignment.center,
-                child: entry.isDuotone
-                    ? IconifyDuotoneIcon(
-                        entry.data,
-                        entry.secondary!,
-                        size: 56,
-                        primaryColor: primary,
-                        secondaryColor: secondary,
-                        secondaryOpacity: secondaryOpacity,
-                      )
-                    : Icon(entry.data.data, size: 56, color: primary),
-              ),
-              const SizedBox(width: 20),
-              Expanded(
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Text(
-                      entry.name,
-                      style: tt.titleLarge
-                          ?.copyWith(fontWeight: FontWeight.w600),
-                    ),
-                    const SizedBox(height: 4),
-                    Text(
-                      '$setName  ·  $setPrefix',
-                      style: tt.bodyMedium
-                          ?.copyWith(color: cs.onSurfaceVariant),
-                    ),
-                    const SizedBox(height: 6),
-                    Wrap(
-                      spacing: 8,
-                      runSpacing: 4,
-                      children: [
-                        _MetaChip(
-                          text:
-                              '0x${entry.data.codePoint.toRadixString(16)}',
-                        ),
-                        if (entry.isDuotone)
-                          const _MetaChip(text: 'duotone', accent: true),
-                      ],
-                    ),
-                  ],
-                ),
-              ),
+              _MetaChip(text: setName),
+              _MetaChip(text: setPrefix),
+              _MetaChip(text: license),
+              _MetaChip(text: cp),
+              if (entry.isDuotone) const _MetaChip(text: 'duotone', accent: true),
             ],
           ),
           const SizedBox(height: 24),
+
+          // Size preview strip ─────────────────────────────────────
+          Text('Sizes', style: _sectionTitle(tt)),
+          const SizedBox(height: 8),
+          Container(
+            decoration: BoxDecoration(
+              color: previewBg,
+              borderRadius: BorderRadius.circular(14),
+              border: Border.all(color: cs.outlineVariant),
+            ),
+            padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 18),
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.spaceAround,
+              crossAxisAlignment: CrossAxisAlignment.end,
+              children: [
+                for (final s in const [16.0, 20.0, 24.0, 32.0, 48.0, 64.0])
+                  Column(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      _renderIcon(size: s, color: previewFg),
+                      const SizedBox(height: 8),
+                      Text(
+                        '${s.toInt()}',
+                        style: tt.labelSmall?.copyWith(
+                          color: darkCanvas
+                              ? Colors.white60
+                              : cs.onSurfaceVariant,
+                        ),
+                      ),
+                    ],
+                  ),
+              ],
+            ),
+          ),
+          const SizedBox(height: 24),
+
+          // Code snippets ──────────────────────────────────────────
+          _CodeBlock(label: 'Add to pubspec.yaml', text: 'dependencies:\n  $packageName:\n    path: ../path/to/$packageName'),
+          const SizedBox(height: 12),
           _CodeBlock(label: 'Import', text: _importLine()),
           const SizedBox(height: 12),
           _CodeBlock(label: 'Usage', text: _usageSnippet()),
@@ -879,6 +959,9 @@ class _IconDetails extends StatelessWidget {
       ),
     );
   }
+
+  TextStyle? _sectionTitle(TextTheme tt) =>
+      tt.labelMedium?.copyWith(fontWeight: FontWeight.w700, letterSpacing: 0.3);
 }
 
 class _CodeBlock extends StatelessWidget {
@@ -892,43 +975,54 @@ class _CodeBlock extends StatelessWidget {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        Row(
+        Text(
+          label.toUpperCase(),
+          style: tt.labelSmall?.copyWith(
+            color: cs.onSurfaceVariant,
+            fontWeight: FontWeight.w700,
+            letterSpacing: 0.6,
+          ),
+        ),
+        const SizedBox(height: 6),
+        Stack(
           children: [
-            Text(
-              label,
-              style: tt.labelMedium?.copyWith(fontWeight: FontWeight.w600),
+            Container(
+              width: double.infinity,
+              padding: const EdgeInsets.fromLTRB(16, 14, 56, 14),
+              decoration: BoxDecoration(
+                color: cs.surfaceContainerHigh,
+                borderRadius: BorderRadius.circular(12),
+                border: Border.all(color: cs.outlineVariant),
+              ),
+              child: SelectableText(
+                text,
+                style: tt.bodySmall?.copyWith(
+                  fontFamily: 'monospace',
+                  height: 1.55,
+                  color: cs.onSurface,
+                ),
+              ),
             ),
-            const Spacer(),
-            TextButton.icon(
-              onPressed: () {
-                Clipboard.setData(ClipboardData(text: text));
-                ScaffoldMessenger.of(context).showSnackBar(
-                  SnackBar(
-                    duration: const Duration(seconds: 1),
-                    content: Text('$label copied'),
-                  ),
-                );
-              },
-              icon: const Icon(Icons.content_copy, size: 16),
-              label: const Text('Copy'),
+            Positioned(
+              top: 6,
+              right: 6,
+              child: IconButton.filledTonal(
+                visualDensity: VisualDensity.compact,
+                icon: const Icon(Icons.content_copy_rounded, size: 16),
+                onPressed: () {
+                  Clipboard.setData(ClipboardData(text: text));
+                  ScaffoldMessenger.of(context).showSnackBar(
+                    SnackBar(
+                      duration: const Duration(seconds: 1),
+                      behavior: SnackBarBehavior.floating,
+                      content: Text('Copied · $label'),
+                    ),
+                  );
+                },
+                tooltip: 'Copy',
+              ),
             ),
           ],
-        ),
-        const SizedBox(height: 4),
-        Container(
-          width: double.infinity,
-          padding: const EdgeInsets.all(12),
-          decoration: BoxDecoration(
-            color: cs.surfaceContainerHigh,
-            borderRadius: BorderRadius.circular(8),
-          ),
-          child: SelectableText(
-            text,
-            style: tt.bodySmall?.copyWith(
-              fontFamily: 'monospace',
-              height: 1.45,
-            ),
-          ),
         ),
       ],
     );

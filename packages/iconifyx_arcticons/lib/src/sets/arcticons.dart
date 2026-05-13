@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Donnnno
 /// License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
-/// Icons: 15004 (split across 5 fonts)
+/// Icons: 15099 (split across 5 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -20,6 +20,13 @@ class ArcticonsIcons {
   static const IconifyIconData n001Taxis = IconifyIconData(IconData(
     0xe000,
     fontFamily: 'Arcticons',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `0h-h1`
+  static const IconifyIconData n0hH1 = IconifyIconData(IconData(
+    0xebbc,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -1126,6 +1133,13 @@ class ArcticonsIcons {
   static const IconifyIconData n9gag = IconifyIconData(IconData(
     0xe09e,
     fontFamily: 'Arcticons',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `a-0h-h1`
+  static const IconifyIconData a0hH1 = IconifyIconData(IconData(
+    0xebbd,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -2571,6 +2585,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `aerofoil`
+  static const IconifyIconData aerofoil = IconifyIconData(IconData(
+    0xebbe,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `aether-gazer`
   static const IconifyIconData aetherGazer = IconifyIconData(IconData(
     0xe16d,
@@ -2760,6 +2781,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `agricultural-bank-of-china`
+  static const IconifyIconData agriculturalBankOfChina = IconifyIconData(IconData(
+    0xebbf,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `agrimap-mobile`
   static const IconifyIconData agrimapMobile = IconifyIconData(IconData(
     0xe188,
@@ -2827,6 +2855,13 @@ class ArcticonsIcons {
   static const IconifyIconData ai = IconifyIconData(IconData(
     0xe191,
     fontFamily: 'Arcticons',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `ai-chat`
+  static const IconifyIconData aiChat = IconifyIconData(IconData(
+    0xebc0,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -2991,6 +3026,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `air-india`
+  static const IconifyIconData airIndia = IconifyIconData(IconData(
+    0xebc1,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `air-miles`
   static const IconifyIconData airMiles = IconifyIconData(IconData(
     0xe1a9,
@@ -3149,6 +3191,13 @@ class ArcticonsIcons {
   static const IconifyIconData airmusic = IconifyIconData(IconData(
     0xe1bf,
     fontFamily: 'Arcticons',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `airplaneslive`
+  static const IconifyIconData airplaneslive = IconifyIconData(IconData(
+    0xebc2,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -3471,6 +3520,13 @@ class ArcticonsIcons {
   static const IconifyIconData alazan = IconifyIconData(IconData(
     0xe1ed,
     fontFamily: 'Arcticons',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `albaraka`
+  static const IconifyIconData albaraka = IconifyIconData(IconData(
+    0xebc3,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -5627,6 +5683,13 @@ class ArcticonsIcons {
   static const IconifyIconData anybuddy = IconifyIconData(IconData(
     0xe321,
     fontFamily: 'Arcticons',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `anycode-wallet`
+  static const IconifyIconData anycodeWallet = IconifyIconData(IconData(
+    0xebc4,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -7835,6 +7898,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `audio-editor`
+  static const IconifyIconData audioEditor = IconifyIconData(IconData(
+    0xebc5,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `audio-glow`
   static const IconifyIconData audioGlow = IconifyIconData(IconData(
     0xe45d,
@@ -8465,10 +8535,24 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `avatar-world`
+  static const IconifyIconData avatarWorld = IconifyIconData(IconData(
+    0xebc6,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `avee-music-player`
   static const IconifyIconData aveeMusicPlayer = IconifyIconData(IconData(
     0xe4b6,
     fontFamily: 'Arcticons',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `avenza`
+  static const IconifyIconData avenza = IconifyIconData(IconData(
+    0xebc7,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -8707,6 +8791,13 @@ class ArcticonsIcons {
   static const IconifyIconData ays = IconifyIconData(IconData(
     0xe4d8,
     fontFamily: 'Arcticons',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `ayugram`
+  static const IconifyIconData ayugram = IconifyIconData(IconData(
+    0xebc8,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -9813,6 +9904,13 @@ class ArcticonsIcons {
   static const IconifyIconData bazos = IconifyIconData(IconData(
     0xe576,
     fontFamily: 'Arcticons',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `bb`
+  static const IconifyIconData bb = IconifyIconData(IconData(
+    0xebc9,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -12529,6 +12627,13 @@ class ArcticonsIcons {
   static const IconifyIconData boamobile = IconifyIconData(IconData(
     0xe6fa,
     fontFamily: 'Arcticons',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `boardgamegeek`
+  static const IconifyIconData boardgamegeek = IconifyIconData(IconData(
+    0xebca,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -17180,6 +17285,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `carrier-vanity-name`
+  static const IconifyIconData carrierVanityName = IconifyIconData(IconData(
+    0xebcb,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `carrion`
   static const IconifyIconData carrion = IconifyIconData(IconData(
     0xe993,
@@ -17373,6 +17485,13 @@ class ArcticonsIcons {
   static const IconifyIconData castbox = IconifyIconData(IconData(
     0xe9ae,
     fontFamily: 'Arcticons',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `castle`
+  static const IconifyIconData castle = IconifyIconData(IconData(
+    0xebcc,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -18335,10 +18454,24 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `chesscraft`
+  static const IconifyIconData chesscraft = IconifyIconData(IconData(
+    0xebcd,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `chessis`
   static const IconifyIconData chessis = IconifyIconData(IconData(
     0xea38,
     fontFamily: 'Arcticons',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `chesskid`
+  static const IconifyIconData chesskid = IconifyIconData(IconData(
+    0xebce,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -20806,6 +20939,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `connectips`
+  static const IconifyIconData connectips = IconifyIconData(IconData(
+    0xebcf,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `connectlife`
   static const IconifyIconData connectlife = IconifyIconData(IconData(
     0xeb99,
@@ -22199,6 +22339,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `cuphead`
+  static const IconifyIconData cuphead = IconifyIconData(IconData(
+    0xebd0,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `cuppa`
   static const IconifyIconData cuppa = IconifyIconData(IconData(
     0xec60,
@@ -23246,6 +23393,13 @@ class ArcticonsIcons {
   static const IconifyIconData dbnavigatorAlt = IconifyIconData(IconData(
     0xecf5,
     fontFamily: 'Arcticons',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `dbnavigator-beta`
+  static const IconifyIconData dbnavigatorBeta = IconifyIconData(IconData(
+    0xebd1,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -26847,6 +27001,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `duck-detector`
+  static const IconifyIconData duckDetector = IconifyIconData(IconData(
+    0xebd2,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `duck-life-1`
   static const IconifyIconData duckLife1 = IconifyIconData(IconData(
     0xeef8,
@@ -26907,6 +27068,13 @@ class ArcticonsIcons {
   static const IconifyIconData duckLife9 = IconifyIconData(IconData(
     0xef00,
     fontFamily: 'Arcticons',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `duckduckgo`
+  static const IconifyIconData duckduckgo = IconifyIconData(IconData(
+    0xebd3,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -28436,6 +28604,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `elstersecure`
+  static const IconifyIconData elstersecure = IconifyIconData(IconData(
+    0xebd4,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `elucid`
   static const IconifyIconData elucid = IconifyIconData(IconData(
     0xefdb,
@@ -29101,6 +29276,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `emoji-bookmark`
+  static const IconifyIconData emojiBookmark = IconifyIconData(IconData(
+    0xebd5,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `emoji-bookmark-tabs`
   static const IconifyIconData emojiBookmarkTabs = IconifyIconData(IconData(
     0xf03a,
@@ -29112,6 +29294,13 @@ class ArcticonsIcons {
   static const IconifyIconData emojiBooks = IconifyIconData(IconData(
     0xf03b,
     fontFamily: 'Arcticons',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `emoji-boomerang`
+  static const IconifyIconData emojiBoomerang = IconifyIconData(IconData(
+    0xebd6,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -29168,6 +29357,13 @@ class ArcticonsIcons {
   static const IconifyIconData emojiBriefs = IconifyIconData(IconData(
     0xf043,
     fontFamily: 'Arcticons',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `emoji-broccoli`
+  static const IconifyIconData emojiBroccoli = IconifyIconData(IconData(
+    0xebd7,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -29955,6 +30151,20 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `emoji-eye`
+  static const IconifyIconData emojiEye = IconifyIconData(IconData(
+    0xebd8,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `emoji-eye-in-speech-bubble`
+  static const IconifyIconData emojiEyeInSpeechBubble = IconifyIconData(IconData(
+    0xebd9,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `emoji-eyes`
   static const IconifyIconData emojiEyes = IconifyIconData(IconData(
     0xf0b4,
@@ -30606,6 +30816,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `emoji-mushroom`
+  static const IconifyIconData emojiMushroom = IconifyIconData(IconData(
+    0xebda,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `emoji-musical-keyboard`
   static const IconifyIconData emojiMusicalKeyboard = IconifyIconData(IconData(
     0xf111,
@@ -30736,6 +30953,13 @@ class ArcticonsIcons {
   static const IconifyIconData emojiPotableWaterSymbol = IconifyIconData(IconData(
     0xf123,
     fontFamily: 'Arcticons',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `emoji-potato`
+  static const IconifyIconData emojiPotato = IconifyIconData(IconData(
+    0xebdb,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -31359,6 +31583,13 @@ class ArcticonsIcons {
   static const IconifyIconData enpass = IconifyIconData(IconData(
     0xf17c,
     fontFamily: 'Arcticons',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `enrecipes`
+  static const IconifyIconData enrecipes = IconifyIconData(IconData(
+    0xebdc,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -34771,6 +35002,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `fixedsmart`
+  static const IconifyIconData fixedsmart = IconifyIconData(IconData(
+    0xebdd,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `fixprice`
   static const IconifyIconData fixprice = IconifyIconData(IconData(
     0xf363,
@@ -35314,6 +35552,13 @@ class ArcticonsIcons {
   static const IconifyIconData florisboard = IconifyIconData(IconData(
     0xf3b0,
     fontFamily: 'Arcticons',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `flosports`
+  static const IconifyIconData flosports = IconifyIconData(IconData(
+    0xebde,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -37529,6 +37774,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `fulguris`
+  static const IconifyIconData fulguris = IconifyIconData(IconData(
+    0xebdf,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `full-battery-charge-alarm`
   static const IconifyIconData fullBatteryChargeAlarm = IconifyIconData(IconData(
     0xf4ed,
@@ -38740,6 +38992,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `getcontact`
+  static const IconifyIconData getcontact = IconifyIconData(IconData(
+    0xebe0,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `getflow`
   static const IconifyIconData getflow = IconifyIconData(IconData(
     0xf59a,
@@ -39101,6 +39360,13 @@ class ArcticonsIcons {
   static const IconifyIconData glider = IconifyIconData(IconData(
     0xf5cd,
     fontFamily: 'Arcticons',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `glidex`
+  static const IconifyIconData glidex = IconifyIconData(IconData(
+    0xebe1,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -40158,6 +40424,13 @@ class ArcticonsIcons {
   static const IconifyIconData googlePinyinInput = IconifyIconData(IconData(
     0xf664,
     fontFamily: 'Arcticons',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `google-pixel-buds`
+  static const IconifyIconData googlePixelBuds = IconifyIconData(IconData(
+    0xebe2,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -41246,6 +41519,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `grupo-cajamar`
+  static const IconifyIconData grupoCajamar = IconifyIconData(IconData(
+    0xebe3,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `gruppo-san-donato`
   static const IconifyIconData gruppoSanDonato = IconifyIconData(IconData(
     0xf700,
@@ -42013,6 +42293,13 @@ class ArcticonsIcons {
   static const IconifyIconData harborFreight = IconifyIconData(IconData(
     0xf76d,
     fontFamily: 'Arcticons',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `hard-dance`
+  static const IconifyIconData hardDance = IconifyIconData(IconData(
+    0xebe4,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -43129,6 +43416,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `hm`
+  static const IconifyIconData hm = IconifyIconData(IconData(
+    0xebe5,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `hmal`
   static const IconifyIconData hmal = IconifyIconData(IconData(
     0xe09d,
@@ -43196,6 +43490,13 @@ class ArcticonsIcons {
   static const IconifyIconData hoerbiMobilfunk = IconifyIconData(IconData(
     0xe0a6,
     fontFamily: 'Arcticons_2',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `hoichoi`
+  static const IconifyIconData hoichoi = IconifyIconData(IconData(
+    0xebe6,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -43301,6 +43602,13 @@ class ArcticonsIcons {
   static const IconifyIconData homeFinance = IconifyIconData(IconData(
     0xe0b5,
     fontFamily: 'Arcticons_2',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `home-network`
+  static const IconifyIconData homeNetwork = IconifyIconData(IconData(
+    0xebe7,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -43644,6 +43952,13 @@ class ArcticonsIcons {
   static const IconifyIconData houzz = IconifyIconData(IconData(
     0xe0e6,
     fontFamily: 'Arcticons_2',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `how-to-tie-a-tie`
+  static const IconifyIconData howToTieATie = IconifyIconData(IconData(
+    0xebe8,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -45128,6 +45443,13 @@ class ArcticonsIcons {
   static const IconifyIconData illuminanceLuxLightMeter = IconifyIconData(IconData(
     0xe1ba,
     fontFamily: 'Arcticons_2',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `illuminati`
+  static const IconifyIconData illuminati = IconifyIconData(IconData(
+    0xebe9,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -47966,6 +48288,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `jugo`
+  static const IconifyIconData jugo = IconifyIconData(IconData(
+    0xebea,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `juice-king`
   static const IconifyIconData juiceKing = IconifyIconData(IconData(
     0xe34f,
@@ -49223,6 +49552,13 @@ class ArcticonsIcons {
   static const IconifyIconData khanAcademy = IconifyIconData(IconData(
     0xe402,
     fontFamily: 'Arcticons_2',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `khan-academy-viewer`
+  static const IconifyIconData khanAcademyViewer = IconifyIconData(IconData(
+    0xebeb,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -52005,6 +52341,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `letter-lowercase-circle-m`
+  static const IconifyIconData letterLowercaseCircleM = IconifyIconData(IconData(
+    0xebec,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `letter-lowercase-circle-n`
   static const IconifyIconData letterLowercaseCircleN = IconifyIconData(IconData(
     0xe590,
@@ -52159,6 +52502,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `letter-lowercase-m`
+  static const IconifyIconData letterLowercaseM = IconifyIconData(IconData(
+    0xebed,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `letter-lowercase-n`
   static const IconifyIconData letterLowercaseN = IconifyIconData(IconData(
     0xe5a6,
@@ -52289,6 +52639,13 @@ class ArcticonsIcons {
   static const IconifyIconData letterLowercaseSquareL = IconifyIconData(IconData(
     0xe5b8,
     fontFamily: 'Arcticons_2',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `letter-lowercase-square-m`
+  static const IconifyIconData letterLowercaseSquareM = IconifyIconData(IconData(
+    0xebee,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -52628,6 +52985,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `letter-uppercase-circle-z`
+  static const IconifyIconData letterUppercaseCircleZ = IconifyIconData(IconData(
+    0xebef,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `letter-uppercase-d`
   static const IconifyIconData letterUppercaseD = IconifyIconData(IconData(
     0xe5e9,
@@ -52915,6 +53279,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `letter-uppercase-square-z`
+  static const IconifyIconData letterUppercaseSquareZ = IconifyIconData(IconData(
+    0xebf0,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `letter-uppercase-t`
   static const IconifyIconData letterUppercaseT = IconifyIconData(IconData(
     0xe612,
@@ -52954,6 +53325,13 @@ class ArcticonsIcons {
   static const IconifyIconData letterUppercaseY = IconifyIconData(IconData(
     0xe617,
     fontFamily: 'Arcticons_2',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `letter-uppercase-z`
+  static const IconifyIconData letterUppercaseZ = IconifyIconData(IconData(
+    0xebf1,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -55071,6 +55449,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `lputouch`
+  static const IconifyIconData lputouch = IconifyIconData(IconData(
+    0xebf2,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `lrc-editor`
   static const IconifyIconData lrcEditor = IconifyIconData(IconData(
     0xe746,
@@ -56471,6 +56856,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `martins-groceries-to-go`
+  static const IconifyIconData martinsGroceriesToGo = IconifyIconData(IconData(
+    0xebf3,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `marugen-ramen`
   static const IconifyIconData marugenRamen = IconifyIconData(IconData(
     0xe80e,
@@ -57154,6 +57546,13 @@ class ArcticonsIcons {
   static const IconifyIconData meb = IconifyIconData(IconData(
     0xe86f,
     fontFamily: 'Arcticons_2',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `mecharena`
+  static const IconifyIconData mecharena = IconifyIconData(IconData(
+    0xebf4,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -58235,6 +58634,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `metrolink`
+  static const IconifyIconData metrolink = IconifyIconData(IconData(
+    0xebf5,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `metrolist`
   static const IconifyIconData metrolist = IconifyIconData(IconData(
     0xe90a,
@@ -58743,6 +59149,20 @@ class ArcticonsIcons {
   static const IconifyIconData microsoftCompanyPortal = IconifyIconData(IconData(
     0xe952,
     fontFamily: 'Arcticons_2',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `microsoft-copilot`
+  static const IconifyIconData microsoftCopilot = IconifyIconData(IconData(
+    0xebf6,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `microsoft-copilot-alt`
+  static const IconifyIconData microsoftCopilotAlt = IconifyIconData(IconData(
+    0xebf7,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -59691,6 +60111,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `mini-militia-alt`
+  static const IconifyIconData miniMilitiaAlt = IconifyIconData(IconData(
+    0xebf8,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `mini-motorways`
   static const IconifyIconData miniMotorways = IconifyIconData(IconData(
     0xe9da,
@@ -60566,6 +60993,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `moco`
+  static const IconifyIconData moco = IconifyIconData(IconData(
+    0xebf9,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `modalis`
   static const IconifyIconData modalis = IconifyIconData(IconData(
     0xea57,
@@ -60703,6 +61137,13 @@ class ArcticonsIcons {
   static const IconifyIconData mojeidKlic = IconifyIconData(IconData(
     0xea6a,
     fontFamily: 'Arcticons_2',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `mojeikp`
+  static const IconifyIconData mojeikp = IconifyIconData(IconData(
+    0xebfa,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -61137,6 +61578,13 @@ class ArcticonsIcons {
   static const IconifyIconData monopoly = IconifyIconData(IconData(
     0xeaa8,
     fontFamily: 'Arcticons_2',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `monoposto`
+  static const IconifyIconData monoposto = IconifyIconData(IconData(
+    0xebfb,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -63646,6 +64094,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `mymo`
+  static const IconifyIconData mymo = IconifyIconData(IconData(
+    0xebfc,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `mymonero`
   static const IconifyIconData mymonero = IconifyIconData(IconData(
     0xec0f,
@@ -63867,6 +64322,13 @@ class ArcticonsIcons {
   static const IconifyIconData mysky = IconifyIconData(IconData(
     0xec2e,
     fontFamily: 'Arcticons_2',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `myslt`
+  static const IconifyIconData myslt = IconifyIconData(IconData(
+    0xebfd,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -64917,6 +65379,34 @@ class ArcticonsIcons {
   static const IconifyIconData nekogramxXeye = IconifyIconData(IconData(
     0xecc4,
     fontFamily: 'Arcticons_2',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `nekokolpa-1`
+  static const IconifyIconData nekokolpa1 = IconifyIconData(IconData(
+    0xebfe,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `nekokolpa-2`
+  static const IconifyIconData nekokolpa2 = IconifyIconData(IconData(
+    0xebff,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `nekokolpa-community`
+  static const IconifyIconData nekokolpaCommunity = IconifyIconData(IconData(
+    0xec00,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `nekokolpa-multi`
+  static const IconifyIconData nekokolpaMulti = IconifyIconData(IconData(
+    0xec01,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -66551,6 +67041,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `nordea-id`
+  static const IconifyIconData nordeaId = IconifyIconData(IconData(
+    0xec02,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `nordic-noodle`
   static const IconifyIconData nordicNoodle = IconifyIconData(IconData(
     0xedae,
@@ -66758,6 +67255,13 @@ class ArcticonsIcons {
   static const IconifyIconData noteIt = IconifyIconData(IconData(
     0xedcb,
     fontFamily: 'Arcticons_2',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `note-to-self`
+  static const IconifyIconData noteToSelf = IconifyIconData(IconData(
+    0xec03,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -67692,6 +68196,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `number-0`
+  static const IconifyIconData number0 = IconifyIconData(IconData(
+    0xec04,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `number-1`
   static const IconifyIconData number1 = IconifyIconData(IconData(
     0xee51,
@@ -67759,6 +68270,13 @@ class ArcticonsIcons {
   static const IconifyIconData number9 = IconifyIconData(IconData(
     0xee5a,
     fontFamily: 'Arcticons_2',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `number-circle-0`
+  static const IconifyIconData numberCircle0 = IconifyIconData(IconData(
+    0xec05,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -67850,6 +68368,13 @@ class ArcticonsIcons {
   static const IconifyIconData numberogram = IconifyIconData(IconData(
     0xee67,
     fontFamily: 'Arcticons_2',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `numbers-es-ap`
+  static const IconifyIconData numbersEsAp = IconifyIconData(IconData(
+    0xec06,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -72396,6 +72921,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `pemutar-visha`
+  static const IconifyIconData pemutarVisha = IconifyIconData(IconData(
+    0xec07,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `penfed`
   static const IconifyIconData penfed = IconifyIconData(IconData(
     0xf0f1,
@@ -76372,6 +76904,20 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `proton-calendar`
+  static const IconifyIconData protonCalendar = IconifyIconData(IconData(
+    0xec08,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `proton-drive`
+  static const IconifyIconData protonDrive = IconifyIconData(IconData(
+    0xec09,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `proton-lumo`
   static const IconifyIconData protonLumo = IconifyIconData(IconData(
     0xf329,
@@ -78280,6 +78826,13 @@ class ArcticonsIcons {
   static const IconifyIconData ramHospital = IconifyIconData(IconData(
     0xf439,
     fontFamily: 'Arcticons_2',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `rama-app`
+  static const IconifyIconData ramaApp = IconifyIconData(IconData(
+    0xec0a,
+    fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
 
@@ -82616,6 +83169,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `seat`
+  static const IconifyIconData seat = IconifyIconData(IconData(
+    0xec0b,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `seats`
   static const IconifyIconData seats = IconifyIconData(IconData(
     0xf6a5,
@@ -85206,6 +85766,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `sleep-time`
+  static const IconifyIconData sleepTime = IconifyIconData(IconData(
+    0xec0c,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `sleep-tracker`
   static const IconifyIconData sleepTracker = IconifyIconData(IconData(
     0xe0a7,
@@ -85944,6 +86511,13 @@ class ArcticonsIcons {
   /// `snap`
   static const IconifyIconData snap = IconifyIconData(IconData(
     0xe110,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `snap-mobile`
+  static const IconifyIconData snapMobile = IconifyIconData(IconData(
+    0xec0d,
     fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
@@ -87162,6 +87736,13 @@ class ArcticonsIcons {
   /// `spatial-touch`
   static const IconifyIconData spatialTouch = IconifyIconData(IconData(
     0xe1be,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `spb`
+  static const IconifyIconData spb = IconifyIconData(IconData(
+    0xec0e,
     fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
@@ -89630,6 +90211,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `sushi`
+  static const IconifyIconData sushi = IconifyIconData(IconData(
+    0xec0f,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `sushiro`
   static const IconifyIconData sushiro = IconifyIconData(IconData(
     0xe31f,
@@ -90711,6 +91299,13 @@ class ArcticonsIcons {
   /// `tanglemaster3d`
   static const IconifyIconData tanglemaster3d = IconifyIconData(IconData(
     0xe3b9,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `tango`
+  static const IconifyIconData tango = IconifyIconData(IconData(
+    0xec10,
     fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
@@ -92692,6 +93287,13 @@ class ArcticonsIcons {
   /// `thriftbooks`
   static const IconifyIconData thriftbooks = IconifyIconData(IconData(
     0xe4d4,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `throne`
+  static const IconifyIconData throne = IconifyIconData(IconData(
+    0xec11,
     fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
@@ -96322,6 +96924,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `uboi-vyom`
+  static const IconifyIconData uboiVyom = IconifyIconData(IconData(
+    0xec12,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `ubox`
   static const IconifyIconData ubox = IconifyIconData(IconData(
     0xe6db,
@@ -96388,6 +96997,13 @@ class ArcticonsIcons {
   /// `uco-mbanking-plus`
   static const IconifyIconData ucoMbankingPlus = IconifyIconData(IconData(
     0xe6e4,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `udbapp-pro`
+  static const IconifyIconData udbappPro = IconifyIconData(IconData(
+    0xec13,
     fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
@@ -96784,6 +97400,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `unified-remote`
+  static const IconifyIconData unifiedRemote = IconifyIconData(IconData(
+    0xec14,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `unifiednlp`
   static const IconifyIconData unifiednlp = IconifyIconData(IconData(
     0xe71d,
@@ -96850,6 +97473,13 @@ class ArcticonsIcons {
   /// `unite-students`
   static const IconifyIconData uniteStudents = IconifyIconData(IconData(
     0xe726,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `united-airlines`
+  static const IconifyIconData unitedAirlines = IconifyIconData(IconData(
+    0xec15,
     fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
@@ -97025,6 +97655,13 @@ class ArcticonsIcons {
   /// `unstuck`
   static const IconifyIconData unstuck = IconifyIconData(IconData(
     0xe73f,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `untappd`
+  static const IconifyIconData untappd = IconifyIconData(IconData(
+    0xec16,
     fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
@@ -99094,6 +99731,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `vkino`
+  static const IconifyIconData vkino = IconifyIconData(IconData(
+    0xec17,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `vklass`
   static const IconifyIconData vklass = IconifyIconData(IconData(
     0xe867,
@@ -99783,6 +100427,13 @@ class ArcticonsIcons {
   /// `wafer-vault`
   static const IconifyIconData waferVault = IconifyIconData(IconData(
     0xe8c9,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `wafrn`
+  static const IconifyIconData wafrn = IconifyIconData(IconData(
+    0xec18,
     fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));
@@ -100669,6 +101320,13 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
+  /// `webtube`
+  static const IconifyIconData webtube = IconifyIconData(IconData(
+    0xec19,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
   /// `webui-x`
   static const IconifyIconData webuiX = IconifyIconData(IconData(
     0xe948,
@@ -100721,6 +101379,13 @@ class ArcticonsIcons {
   /// `weekly-runs`
   static const IconifyIconData weeklyRuns = IconifyIconData(IconData(
     0xe94f,
+    fontFamily: 'Arcticons_3',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `weelo`
+  static const IconifyIconData weelo = IconifyIconData(IconData(
+    0xec1a,
     fontFamily: 'Arcticons_3',
     fontPackage: 'iconifyx_arcticons',
   ));

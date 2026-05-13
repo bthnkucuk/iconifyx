@@ -16,13 +16,13 @@
       "spdx": "CC-BY-4.0",
       "url": "https://github.com/CyCraft/pepicons/blob/dev/LICENSE"
     },
-    "total": 1293
+    "total": 1298
   },
   "fonts": [
     {
       "family": "PepiconsPop",
-      "nextCodepoint": 58637,
-      "iconCount": 1293
+      "nextCodepoint": 58642,
+      "iconCount": 1298
     }
   ],
   "icons": {
@@ -3055,6 +3055,31 @@
       "codepoint": 57949,
       "fontFamily": "PepiconsPop",
       "identifier": "houseOff"
+    },
+    "identification": {
+      "codepoint": 58637,
+      "fontFamily": "PepiconsPop",
+      "identifier": "identification"
+    },
+    "identification-circle": {
+      "codepoint": 58638,
+      "fontFamily": "PepiconsPop",
+      "identifier": "identificationCircle"
+    },
+    "identification-circle-filled": {
+      "codepoint": 58639,
+      "fontFamily": "PepiconsPop",
+      "identifier": "identificationCircleFilled"
+    },
+    "identification-circle-off": {
+      "codepoint": 58640,
+      "fontFamily": "PepiconsPop",
+      "identifier": "identificationCircleOff"
+    },
+    "identification-off": {
+      "codepoint": 58641,
+      "fontFamily": "PepiconsPop",
+      "identifier": "identificationOff"
     },
     "info": {
       "codepoint": 57950,

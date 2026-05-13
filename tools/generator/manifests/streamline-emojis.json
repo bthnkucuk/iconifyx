@@ -1,0 +1,2434 @@
+{
+  "schemaVersion": 1,
+  "prefix": "streamline-emojis",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Emoji",
+  "subPackage": "iconifyx_streamline_emojis",
+  "info": {
+    "name": "Streamline Emojis",
+    "author": {
+      "name": "Streamline",
+      "url": "https://github.com/webalys-hq/streamline-vectors"
+    },
+    "license": {
+      "title": "CC BY 4.0",
+      "spdx": "CC-BY-4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "total": 407
+  },
+  "fonts": [
+    {
+      "family": "StreamlineEmojis",
+      "nextCodepoint": 57751,
+      "iconCount": 407
+    },
+    {
+      "family": "StreamlineEmojisSecondary",
+      "nextCodepoint": 57751,
+      "iconCount": 364
+    }
+  ],
+  "icons": {
+    "2": {
+      "codepoint": 57344,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "n2",
+      "duotone": true
+    },
+    "airplane": {
+      "codepoint": 57345,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "airplane",
+      "duotone": true
+    },
+    "alien": {
+      "codepoint": 57346,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "alien",
+      "duotone": true
+    },
+    "ambulance": {
+      "codepoint": 57347,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "ambulance",
+      "duotone": true
+    },
+    "american-football": {
+      "codepoint": 57348,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "americanFootball"
+    },
+    "anchor": {
+      "codepoint": 57349,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "anchor",
+      "duotone": true
+    },
+    "ant": {
+      "codepoint": 57350,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "ant",
+      "duotone": true
+    },
+    "astronaut-1": {
+      "codepoint": 57351,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "astronaut1",
+      "duotone": true
+    },
+    "astronaut-2": {
+      "codepoint": 57352,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "astronaut2",
+      "duotone": true
+    },
+    "australia": {
+      "codepoint": 57353,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "australia",
+      "duotone": true
+    },
+    "automobile": {
+      "codepoint": 57354,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "automobile",
+      "duotone": true
+    },
+    "baby-2": {
+      "codepoint": 57355,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "baby2",
+      "duotone": true
+    },
+    "baby-angel-1": {
+      "codepoint": 57356,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "babyAngel1",
+      "duotone": true
+    },
+    "baby-angel-2": {
+      "codepoint": 57357,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "babyAngel2",
+      "duotone": true
+    },
+    "baby-bottle": {
+      "codepoint": 57358,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "babyBottle",
+      "duotone": true
+    },
+    "baby-chick": {
+      "codepoint": 57359,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "babyChick",
+      "duotone": true
+    },
+    "backhand-index-pointing-down-2": {
+      "codepoint": 57360,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "backhandIndexPointingDown2",
+      "duotone": true
+    },
+    "backhand-index-pointing-left-2": {
+      "codepoint": 57361,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "backhandIndexPointingLeft2",
+      "duotone": true
+    },
+    "backhand-index-pointing-right-2": {
+      "codepoint": 57362,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "backhandIndexPointingRight2",
+      "duotone": true
+    },
+    "backhand-index-pointing-up-2": {
+      "codepoint": 57363,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "backhandIndexPointingUp2",
+      "duotone": true
+    },
+    "bar-chart": {
+      "codepoint": 57364,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "barChart",
+      "duotone": true
+    },
+    "barber-pole": {
+      "codepoint": 57365,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "barberPole",
+      "duotone": true
+    },
+    "baseball": {
+      "codepoint": 57366,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "baseball",
+      "duotone": true
+    },
+    "basketball": {
+      "codepoint": 57367,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "basketball",
+      "duotone": true
+    },
+    "bathtub": {
+      "codepoint": 57368,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "bathtub",
+      "duotone": true
+    },
+    "bear-face": {
+      "codepoint": 57369,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "bearFace",
+      "duotone": true
+    },
+    "beating-heart": {
+      "codepoint": 57370,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "beatingHeart"
+    },
+    "beer-mug": {
+      "codepoint": 57371,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "beerMug",
+      "duotone": true
+    },
+    "bell": {
+      "codepoint": 57372,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "bell",
+      "duotone": true
+    },
+    "bell-with-slash": {
+      "codepoint": 57373,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "bellWithSlash",
+      "duotone": true
+    },
+    "bird-1": {
+      "codepoint": 57374,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "bird1",
+      "duotone": true
+    },
+    "blowfish": {
+      "codepoint": 57375,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "blowfish",
+      "duotone": true
+    },
+    "boar-1": {
+      "codepoint": 57376,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "boar1",
+      "duotone": true
+    },
+    "boar-2": {
+      "codepoint": 57377,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "boar2",
+      "duotone": true
+    },
+    "bottle-with-popping-cork": {
+      "codepoint": 57378,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "bottleWithPoppingCork",
+      "duotone": true
+    },
+    "bouquet": {
+      "codepoint": 57379,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "bouquet",
+      "duotone": true
+    },
+    "bowling": {
+      "codepoint": 57380,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "bowling",
+      "duotone": true
+    },
+    "boy-2": {
+      "codepoint": 57381,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "boy2",
+      "duotone": true
+    },
+    "brazil": {
+      "codepoint": 57382,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "brazil",
+      "duotone": true
+    },
+    "bride-with-veil-1": {
+      "codepoint": 57383,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "brideWithVeil1",
+      "duotone": true
+    },
+    "bride-with-veil-2": {
+      "codepoint": 57384,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "brideWithVeil2",
+      "duotone": true
+    },
+    "bug": {
+      "codepoint": 57385,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "bug",
+      "duotone": true
+    },
+    "bus": {
+      "codepoint": 57386,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "bus",
+      "duotone": true
+    },
+    "bust-in-silhouette": {
+      "codepoint": 57387,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "bustInSilhouette",
+      "duotone": true
+    },
+    "cactus-1": {
+      "codepoint": 57388,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "cactus1",
+      "duotone": true
+    },
+    "cactus-2": {
+      "codepoint": 57389,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "cactus2",
+      "duotone": true
+    },
+    "calendar": {
+      "codepoint": 57390,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "calendar",
+      "duotone": true
+    },
+    "camel": {
+      "codepoint": 57391,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "camel",
+      "duotone": true
+    },
+    "canada": {
+      "codepoint": 57392,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "canada",
+      "duotone": true
+    },
+    "candy": {
+      "codepoint": 57393,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "candy",
+      "duotone": true
+    },
+    "carousel-horse": {
+      "codepoint": 57394,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "carouselHorse",
+      "duotone": true
+    },
+    "castle": {
+      "codepoint": 57395,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "castle",
+      "duotone": true
+    },
+    "cat": {
+      "codepoint": 57396,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "cat",
+      "duotone": true
+    },
+    "champagne-glass-1": {
+      "codepoint": 57397,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "champagneGlass1",
+      "duotone": true
+    },
+    "champagne-glass-2": {
+      "codepoint": 57398,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "champagneGlass2",
+      "duotone": true
+    },
+    "chipmunk": {
+      "codepoint": 57399,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "chipmunk",
+      "duotone": true
+    },
+    "christmas-tree": {
+      "codepoint": 57400,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "christmasTree",
+      "duotone": true
+    },
+    "cigarette": {
+      "codepoint": 57401,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "cigarette",
+      "duotone": true
+    },
+    "clapping-hands-1": {
+      "codepoint": 57402,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "clappingHands1",
+      "duotone": true
+    },
+    "clapping-hands-2": {
+      "codepoint": 57403,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "clappingHands2",
+      "duotone": true
+    },
+    "clinking-beer-mugs": {
+      "codepoint": 57404,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "clinkingBeerMugs",
+      "duotone": true
+    },
+    "clinking-glasses-1": {
+      "codepoint": 57405,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "clinkingGlasses1",
+      "duotone": true
+    },
+    "clinking-glasses-2": {
+      "codepoint": 57406,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "clinkingGlasses2",
+      "duotone": true
+    },
+    "clinking-glasses-3": {
+      "codepoint": 57407,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "clinkingGlasses3",
+      "duotone": true
+    },
+    "clinking-glasses-4": {
+      "codepoint": 57408,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "clinkingGlasses4",
+      "duotone": true
+    },
+    "clinking-glasses-5": {
+      "codepoint": 57409,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "clinkingGlasses5",
+      "duotone": true
+    },
+    "clipboard": {
+      "codepoint": 57410,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "clipboard",
+      "duotone": true
+    },
+    "cloud-1": {
+      "codepoint": 57411,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "cloud1",
+      "duotone": true
+    },
+    "cloud-2": {
+      "codepoint": 57412,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "cloud2",
+      "duotone": true
+    },
+    "cloud-with-rain-1": {
+      "codepoint": 57413,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "cloudWithRain1",
+      "duotone": true
+    },
+    "cloud-with-rain-2": {
+      "codepoint": 57414,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "cloudWithRain2"
+    },
+    "clown-face": {
+      "codepoint": 57415,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "clownFace",
+      "duotone": true
+    },
+    "cocktail-glass": {
+      "codepoint": 57416,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "cocktailGlass",
+      "duotone": true
+    },
+    "confetti-ball": {
+      "codepoint": 57417,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "confettiBall",
+      "duotone": true
+    },
+    "construction-worker": {
+      "codepoint": 57418,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "constructionWorker",
+      "duotone": true
+    },
+    "cookie": {
+      "codepoint": 57419,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "cookie",
+      "duotone": true
+    },
+    "couple-with-heart-man-man-1": {
+      "codepoint": 57420,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "coupleWithHeartManMan1"
+    },
+    "couple-with-heart-man-man-2": {
+      "codepoint": 57421,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "coupleWithHeartManMan2"
+    },
+    "couple-with-heart-woman-man-1": {
+      "codepoint": 57422,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "coupleWithHeartWomanMan1"
+    },
+    "couple-with-heart-woman-man-2": {
+      "codepoint": 57423,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "coupleWithHeartWomanMan2"
+    },
+    "couple-with-heart-woman-woman-2": {
+      "codepoint": 57424,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "coupleWithHeartWomanWoman2"
+    },
+    "cow": {
+      "codepoint": 57425,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "cow",
+      "duotone": true
+    },
+    "cow-face": {
+      "codepoint": 57426,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "cowFace",
+      "duotone": true
+    },
+    "cowboy-hat-face": {
+      "codepoint": 57427,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "cowboyHatFace",
+      "duotone": true
+    },
+    "crossed-fingers-2": {
+      "codepoint": 57428,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "crossedFingers2",
+      "duotone": true
+    },
+    "crossed-flags": {
+      "codepoint": 57429,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "crossedFlags",
+      "duotone": true
+    },
+    "crown": {
+      "codepoint": 57430,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "crown",
+      "duotone": true
+    },
+    "crystal-ball-2": {
+      "codepoint": 57431,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "crystalBall2",
+      "duotone": true
+    },
+    "custard": {
+      "codepoint": 57432,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "custard",
+      "duotone": true
+    },
+    "dashing-away": {
+      "codepoint": 57433,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "dashingAway",
+      "duotone": true
+    },
+    "delivery-truck": {
+      "codepoint": 57434,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "deliveryTruck",
+      "duotone": true
+    },
+    "detective-2": {
+      "codepoint": 57435,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "detective2",
+      "duotone": true
+    },
+    "dog-face": {
+      "codepoint": 57436,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "dogFace",
+      "duotone": true
+    },
+    "dollar-banknote": {
+      "codepoint": 57437,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "dollarBanknote",
+      "duotone": true
+    },
+    "dolphin": {
+      "codepoint": 57438,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "dolphin",
+      "duotone": true
+    },
+    "door": {
+      "codepoint": 57439,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "door",
+      "duotone": true
+    },
+    "doughnut-1": {
+      "codepoint": 57440,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "doughnut1",
+      "duotone": true
+    },
+    "doughnut-2": {
+      "codepoint": 57441,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "doughnut2",
+      "duotone": true
+    },
+    "dress": {
+      "codepoint": 57442,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "dress",
+      "duotone": true
+    },
+    "droplet": {
+      "codepoint": 57443,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "droplet",
+      "duotone": true
+    },
+    "e-mail-1": {
+      "codepoint": 57444,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "eMail1",
+      "duotone": true
+    },
+    "e-mail-2": {
+      "codepoint": 57445,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "eMail2",
+      "duotone": true
+    },
+    "ear": {
+      "codepoint": 57446,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "ear",
+      "duotone": true
+    },
+    "egypt": {
+      "codepoint": 57447,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "egypt",
+      "duotone": true
+    },
+    "electric-plug": {
+      "codepoint": 57448,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "electricPlug",
+      "duotone": true
+    },
+    "elephant": {
+      "codepoint": 57449,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "elephant",
+      "duotone": true
+    },
+    "ewe-1": {
+      "codepoint": 57450,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "ewe1",
+      "duotone": true
+    },
+    "ewe-2": {
+      "codepoint": 57451,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "ewe2",
+      "duotone": true
+    },
+    "eye": {
+      "codepoint": 57452,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "eye",
+      "duotone": true
+    },
+    "eyes": {
+      "codepoint": 57453,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "eyes",
+      "duotone": true
+    },
+    "factory": {
+      "codepoint": 57454,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "factory_",
+      "duotone": true
+    },
+    "fallen-leaf": {
+      "codepoint": 57455,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "fallenLeaf",
+      "duotone": true
+    },
+    "family-man-boy-2": {
+      "codepoint": 57456,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyManBoy2"
+    },
+    "family-man-boy-boy-2": {
+      "codepoint": 57457,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyManBoyBoy2"
+    },
+    "family-man-girl-2": {
+      "codepoint": 57458,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyManGirl2"
+    },
+    "family-man-girl-boy-2": {
+      "codepoint": 57459,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyManGirlBoy2"
+    },
+    "family-man-girl-girl-2": {
+      "codepoint": 57460,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyManGirlGirl2"
+    },
+    "family-man-man-boy-2": {
+      "codepoint": 57461,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyManManBoy2"
+    },
+    "family-man-man-boy-boy-2": {
+      "codepoint": 57462,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyManManBoyBoy2"
+    },
+    "family-man-man-girl-2": {
+      "codepoint": 57463,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyManManGirl2"
+    },
+    "family-man-man-girl-boy-2": {
+      "codepoint": 57464,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyManManGirlBoy2"
+    },
+    "family-man-man-girl-girl-2": {
+      "codepoint": 57465,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyManManGirlGirl2"
+    },
+    "family-man-woman-boy-2": {
+      "codepoint": 57466,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyManWomanBoy2"
+    },
+    "family-man-woman-boy-boy-2": {
+      "codepoint": 57467,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyManWomanBoyBoy2"
+    },
+    "family-man-woman-girl-2": {
+      "codepoint": 57468,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyManWomanGirl2"
+    },
+    "family-man-woman-girl-boy-2": {
+      "codepoint": 57469,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyManWomanGirlBoy2"
+    },
+    "family-man-woman-girl-girl-2": {
+      "codepoint": 57470,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyManWomanGirlGirl2"
+    },
+    "family-woman-boy-2": {
+      "codepoint": 57471,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyWomanBoy2"
+    },
+    "family-woman-boy-boy-2": {
+      "codepoint": 57472,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyWomanBoyBoy2"
+    },
+    "family-woman-girl-2": {
+      "codepoint": 57473,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyWomanGirl2"
+    },
+    "family-woman-girl-boy-2": {
+      "codepoint": 57474,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyWomanGirlBoy2"
+    },
+    "family-woman-girl-girl-2": {
+      "codepoint": 57475,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyWomanGirlGirl2"
+    },
+    "family-woman-woman-boy-2": {
+      "codepoint": 57476,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyWomanWomanBoy2"
+    },
+    "family-woman-woman-boy-boy-2": {
+      "codepoint": 57477,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyWomanWomanBoyBoy2"
+    },
+    "family-woman-woman-girl-2": {
+      "codepoint": 57478,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyWomanWomanGirl2"
+    },
+    "family-woman-woman-girl-boy-2": {
+      "codepoint": 57479,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyWomanWomanGirlBoy2"
+    },
+    "family-woman-woman-girl-girl-2": {
+      "codepoint": 57480,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "familyWomanWomanGirlGirl2"
+    },
+    "fax-machine": {
+      "codepoint": 57481,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "faxMachine",
+      "duotone": true
+    },
+    "ferris-wheel": {
+      "codepoint": 57482,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "ferrisWheel",
+      "duotone": true
+    },
+    "file-folder": {
+      "codepoint": 57483,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "fileFolder",
+      "duotone": true
+    },
+    "fishing-pole": {
+      "codepoint": 57484,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "fishingPole",
+      "duotone": true
+    },
+    "flexed-biceps-2": {
+      "codepoint": 57485,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "flexedBiceps2",
+      "duotone": true
+    },
+    "fountain": {
+      "codepoint": 57486,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "fountain",
+      "duotone": true
+    },
+    "fountain-pen": {
+      "codepoint": 57487,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "fountainPen",
+      "duotone": true
+    },
+    "fox-face-1": {
+      "codepoint": 57488,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "foxFace1",
+      "duotone": true
+    },
+    "fox-face-2": {
+      "codepoint": 57489,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "foxFace2",
+      "duotone": true
+    },
+    "game-dice": {
+      "codepoint": 57490,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "gameDice",
+      "duotone": true
+    },
+    "ghost": {
+      "codepoint": 57491,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "ghost",
+      "duotone": true
+    },
+    "glasses-1": {
+      "codepoint": 57492,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "glasses1",
+      "duotone": true
+    },
+    "globe-showing-americas": {
+      "codepoint": 57493,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "globeShowingAmericas",
+      "duotone": true
+    },
+    "globe-showing-europe-africa": {
+      "codepoint": 57494,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "globeShowingEuropeAfrica",
+      "duotone": true
+    },
+    "goat": {
+      "codepoint": 57495,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "goat",
+      "duotone": true
+    },
+    "grapes": {
+      "codepoint": 57496,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "grapes",
+      "duotone": true
+    },
+    "greece": {
+      "codepoint": 57497,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "greece",
+      "duotone": true
+    },
+    "green-book": {
+      "codepoint": 57498,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "greenBook",
+      "duotone": true
+    },
+    "growing-heart": {
+      "codepoint": 57499,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "growingHeart",
+      "duotone": true
+    },
+    "guard-2": {
+      "codepoint": 57500,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "guard2",
+      "duotone": true
+    },
+    "guitar": {
+      "codepoint": 57501,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "guitar",
+      "duotone": true
+    },
+    "hamburger-1": {
+      "codepoint": 57502,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "hamburger1",
+      "duotone": true
+    },
+    "hamburger-2": {
+      "codepoint": 57503,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "hamburger2",
+      "duotone": true
+    },
+    "hamburger-3": {
+      "codepoint": 57504,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "hamburger3",
+      "duotone": true
+    },
+    "hamster-face": {
+      "codepoint": 57505,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "hamsterFace",
+      "duotone": true
+    },
+    "hand-with-fingers-splayed-2": {
+      "codepoint": 57506,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "handWithFingersSplayed2",
+      "duotone": true
+    },
+    "headphone": {
+      "codepoint": 57507,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "headphone",
+      "duotone": true
+    },
+    "herb": {
+      "codepoint": 57508,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "herb",
+      "duotone": true
+    },
+    "honey-pot": {
+      "codepoint": 57509,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "honeyPot",
+      "duotone": true
+    },
+    "honeybee": {
+      "codepoint": 57510,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "honeybee",
+      "duotone": true
+    },
+    "horse-face": {
+      "codepoint": 57511,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "horseFace",
+      "duotone": true
+    },
+    "hospital": {
+      "codepoint": 57512,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "hospital",
+      "duotone": true
+    },
+    "hot-beverage-1": {
+      "codepoint": 57513,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "hotBeverage1",
+      "duotone": true
+    },
+    "hot-beverage-2": {
+      "codepoint": 57514,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "hotBeverage2",
+      "duotone": true
+    },
+    "hourglass-done": {
+      "codepoint": 57515,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "hourglassDone",
+      "duotone": true
+    },
+    "hourglass-not-done-1": {
+      "codepoint": 57516,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "hourglassNotDone1",
+      "duotone": true
+    },
+    "hourglass-not-done-2": {
+      "codepoint": 57517,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "hourglassNotDone2",
+      "duotone": true
+    },
+    "house-with-garden": {
+      "codepoint": 57518,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "houseWithGarden",
+      "duotone": true
+    },
+    "index-pointing-up-2": {
+      "codepoint": 57519,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "indexPointingUp2",
+      "duotone": true
+    },
+    "india": {
+      "codepoint": 57520,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "india",
+      "duotone": true
+    },
+    "iran": {
+      "codepoint": 57521,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "iran",
+      "duotone": true
+    },
+    "iraq": {
+      "codepoint": 57522,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "iraq",
+      "duotone": true
+    },
+    "japan": {
+      "codepoint": 57523,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "japan",
+      "duotone": true
+    },
+    "jeans": {
+      "codepoint": 57524,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "jeans",
+      "duotone": true
+    },
+    "joker": {
+      "codepoint": 57525,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "joker",
+      "duotone": true
+    },
+    "kimono": {
+      "codepoint": 57526,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "kimono",
+      "duotone": true
+    },
+    "kiss-man-man-2": {
+      "codepoint": 57527,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "kissManMan2"
+    },
+    "kiss-woman-man-2": {
+      "codepoint": 57528,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "kissWomanMan2"
+    },
+    "kiss-woman-woman-2": {
+      "codepoint": 57529,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "kissWomanWoman2"
+    },
+    "koala": {
+      "codepoint": 57530,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "koala",
+      "duotone": true
+    },
+    "locomotive": {
+      "codepoint": 57531,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "locomotive",
+      "duotone": true
+    },
+    "love-hotel": {
+      "codepoint": 57532,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "loveHotel",
+      "duotone": true
+    },
+    "magnifying-glass-tilted-left": {
+      "codepoint": 57533,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "magnifyingGlassTiltedLeft",
+      "duotone": true
+    },
+    "malaysia": {
+      "codepoint": 57534,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "malaysia",
+      "duotone": true
+    },
+    "man-2": {
+      "codepoint": 57535,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "man2",
+      "duotone": true
+    },
+    "man-and-woman-holding-hands-2": {
+      "codepoint": 57536,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manAndWomanHoldingHands2",
+      "duotone": true
+    },
+    "man-artist-1": {
+      "codepoint": 57537,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manArtist1",
+      "duotone": true
+    },
+    "man-artist-2": {
+      "codepoint": 57538,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manArtist2",
+      "duotone": true
+    },
+    "man-astronaut-1": {
+      "codepoint": 57539,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manAstronaut1",
+      "duotone": true
+    },
+    "man-astronaut-2": {
+      "codepoint": 57540,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manAstronaut2",
+      "duotone": true
+    },
+    "man-bowing-1": {
+      "codepoint": 57541,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manBowing1",
+      "duotone": true
+    },
+    "man-bowing-2": {
+      "codepoint": 57542,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manBowing2",
+      "duotone": true
+    },
+    "man-cook-1": {
+      "codepoint": 57543,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manCook1",
+      "duotone": true
+    },
+    "man-cook-2": {
+      "codepoint": 57544,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manCook2",
+      "duotone": true
+    },
+    "man-dancing-2": {
+      "codepoint": 57545,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manDancing2",
+      "duotone": true
+    },
+    "man-facepalming-1": {
+      "codepoint": 57546,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manFacepalming1",
+      "duotone": true
+    },
+    "man-facepalming-2": {
+      "codepoint": 57547,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manFacepalming2",
+      "duotone": true
+    },
+    "man-factory-worker-1": {
+      "codepoint": 57548,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manFactoryWorker1",
+      "duotone": true
+    },
+    "man-factory-worker-2": {
+      "codepoint": 57549,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manFactoryWorker2",
+      "duotone": true
+    },
+    "man-frowning-1": {
+      "codepoint": 57550,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manFrowning1",
+      "duotone": true
+    },
+    "man-frowning-2": {
+      "codepoint": 57551,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manFrowning2",
+      "duotone": true
+    },
+    "man-gesturing-no-1": {
+      "codepoint": 57552,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manGesturingNo1",
+      "duotone": true
+    },
+    "man-gesturing-no-2": {
+      "codepoint": 57553,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manGesturingNo2",
+      "duotone": true
+    },
+    "man-gesturing-ok-2": {
+      "codepoint": 57554,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manGesturingOk2",
+      "duotone": true
+    },
+    "man-getting-haircut-1": {
+      "codepoint": 57555,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manGettingHaircut1",
+      "duotone": true
+    },
+    "man-getting-haircut-2": {
+      "codepoint": 57556,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manGettingHaircut2",
+      "duotone": true
+    },
+    "man-getting-massage-1": {
+      "codepoint": 57557,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manGettingMassage1",
+      "duotone": true
+    },
+    "man-getting-massage-2": {
+      "codepoint": 57558,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manGettingMassage2",
+      "duotone": true
+    },
+    "man-health-worker-1": {
+      "codepoint": 57559,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manHealthWorker1",
+      "duotone": true
+    },
+    "man-health-worker-2": {
+      "codepoint": 57560,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manHealthWorker2",
+      "duotone": true
+    },
+    "man-mechanic-1": {
+      "codepoint": 57561,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manMechanic1",
+      "duotone": true
+    },
+    "man-mechanic-2": {
+      "codepoint": 57562,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manMechanic2",
+      "duotone": true
+    },
+    "man-office-worker-1": {
+      "codepoint": 57563,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manOfficeWorker1",
+      "duotone": true
+    },
+    "man-office-worker-2": {
+      "codepoint": 57564,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manOfficeWorker2",
+      "duotone": true
+    },
+    "man-police-officer-2": {
+      "codepoint": 57565,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manPoliceOfficer2",
+      "duotone": true
+    },
+    "man-pouting-1": {
+      "codepoint": 57566,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manPouting1",
+      "duotone": true
+    },
+    "man-pouting-2": {
+      "codepoint": 57567,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manPouting2",
+      "duotone": true
+    },
+    "man-raising-hand-2": {
+      "codepoint": 57568,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manRaisingHand2",
+      "duotone": true
+    },
+    "man-scientist-1": {
+      "codepoint": 57569,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manScientist1",
+      "duotone": true
+    },
+    "man-scientist-2": {
+      "codepoint": 57570,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manScientist2",
+      "duotone": true
+    },
+    "man-shrugging-1": {
+      "codepoint": 57571,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manShrugging1",
+      "duotone": true
+    },
+    "man-shrugging-2": {
+      "codepoint": 57572,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manShrugging2",
+      "duotone": true
+    },
+    "man-singer-2": {
+      "codepoint": 57573,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manSinger2",
+      "duotone": true
+    },
+    "man-tipping-hand-1": {
+      "codepoint": 57574,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manTippingHand1",
+      "duotone": true
+    },
+    "man-tipping-hand-2": {
+      "codepoint": 57575,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manTippingHand2",
+      "duotone": true
+    },
+    "man-walking-1": {
+      "codepoint": 57576,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manWalking1",
+      "duotone": true
+    },
+    "man-walking-2": {
+      "codepoint": 57577,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "manWalking2",
+      "duotone": true
+    },
+    "maple-leaf": {
+      "codepoint": 57578,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "mapleLeaf",
+      "duotone": true
+    },
+    "meat-on-bone": {
+      "codepoint": 57579,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "meatOnBone",
+      "duotone": true
+    },
+    "melon-1": {
+      "codepoint": 57580,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "melon1",
+      "duotone": true
+    },
+    "melon-2": {
+      "codepoint": 57581,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "melon2",
+      "duotone": true
+    },
+    "microphone": {
+      "codepoint": 57582,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "microphone",
+      "duotone": true
+    },
+    "microscope": {
+      "codepoint": 57583,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "microscope",
+      "duotone": true
+    },
+    "minibus": {
+      "codepoint": 57584,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "minibus",
+      "duotone": true
+    },
+    "moai": {
+      "codepoint": 57585,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "moai",
+      "duotone": true
+    },
+    "money-bag": {
+      "codepoint": 57586,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "moneyBag",
+      "duotone": true
+    },
+    "monkey-face": {
+      "codepoint": 57587,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "monkeyFace",
+      "duotone": true
+    },
+    "mouse": {
+      "codepoint": 57588,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "mouse",
+      "duotone": true
+    },
+    "mouse-face": {
+      "codepoint": 57589,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "mouseFace",
+      "duotone": true
+    },
+    "musical-note": {
+      "codepoint": 57590,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "musicalNote",
+      "duotone": true
+    },
+    "musical-score": {
+      "codepoint": 57591,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "musicalScore",
+      "duotone": true
+    },
+    "muted-speaker": {
+      "codepoint": 57592,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "mutedSpeaker",
+      "duotone": true
+    },
+    "nail-polish-2": {
+      "codepoint": 57593,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "nailPolish2",
+      "duotone": true
+    },
+    "necktie": {
+      "codepoint": 57594,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "necktie",
+      "duotone": true
+    },
+    "nepal": {
+      "codepoint": 57595,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "nepal",
+      "duotone": true
+    },
+    "newspaper": {
+      "codepoint": 57596,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "newspaper",
+      "duotone": true
+    },
+    "no-smoking": {
+      "codepoint": 57597,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "noSmoking",
+      "duotone": true
+    },
+    "north-korea": {
+      "codepoint": 57598,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "northKorea",
+      "duotone": true
+    },
+    "nut-and-bolt": {
+      "codepoint": 57599,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "nutAndBolt",
+      "duotone": true
+    },
+    "octopus": {
+      "codepoint": 57600,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "octopus",
+      "duotone": true
+    },
+    "office-building": {
+      "codepoint": 57601,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "officeBuilding",
+      "duotone": true
+    },
+    "ok-hand-2": {
+      "codepoint": 57602,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "okHand2",
+      "duotone": true
+    },
+    "old-man-2": {
+      "codepoint": 57603,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "oldMan2",
+      "duotone": true
+    },
+    "old-woman-1": {
+      "codepoint": 57604,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "oldWoman1",
+      "duotone": true
+    },
+    "old-woman-2": {
+      "codepoint": 57605,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "oldWoman2",
+      "duotone": true
+    },
+    "oncoming-fist-2": {
+      "codepoint": 57606,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "oncomingFist2",
+      "duotone": true
+    },
+    "oncoming-police-car": {
+      "codepoint": 57607,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "oncomingPoliceCar",
+      "duotone": true
+    },
+    "open-book": {
+      "codepoint": 57608,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "openBook",
+      "duotone": true
+    },
+    "open-file-folder": {
+      "codepoint": 57609,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "openFileFolder",
+      "duotone": true
+    },
+    "open-mailbox-with-raised-flag": {
+      "codepoint": 57610,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "openMailboxWithRaisedFlag",
+      "duotone": true
+    },
+    "ox": {
+      "codepoint": 57611,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "ox",
+      "duotone": true
+    },
+    "package": {
+      "codepoint": 57612,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "package",
+      "duotone": true
+    },
+    "pakistan": {
+      "codepoint": 57613,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "pakistan",
+      "duotone": true
+    },
+    "palm-tree": {
+      "codepoint": 57614,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "palmTree",
+      "duotone": true
+    },
+    "paperclip": {
+      "codepoint": 57615,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "paperclip",
+      "duotone": true
+    },
+    "peach": {
+      "codepoint": 57616,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "peach",
+      "duotone": true
+    },
+    "pear": {
+      "codepoint": 57617,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "pear",
+      "duotone": true
+    },
+    "pig": {
+      "codepoint": 57618,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "pig",
+      "duotone": true
+    },
+    "pig-face": {
+      "codepoint": 57619,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "pigFace",
+      "duotone": true
+    },
+    "pig-nose": {
+      "codepoint": 57620,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "pigNose",
+      "duotone": true
+    },
+    "pistol": {
+      "codepoint": 57621,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "pistol",
+      "duotone": true
+    },
+    "pizza-2": {
+      "codepoint": 57622,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "pizza2",
+      "duotone": true
+    },
+    "poodle": {
+      "codepoint": 57623,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "poodle",
+      "duotone": true
+    },
+    "pound-banknote": {
+      "codepoint": 57624,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "poundBanknote",
+      "duotone": true
+    },
+    "pregnant-woman-1": {
+      "codepoint": 57625,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "pregnantWoman1"
+    },
+    "pregnant-woman-2": {
+      "codepoint": 57626,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "pregnantWoman2"
+    },
+    "prince-2": {
+      "codepoint": 57627,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "prince2",
+      "duotone": true
+    },
+    "princess-2": {
+      "codepoint": 57628,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "princess2",
+      "duotone": true
+    },
+    "purse": {
+      "codepoint": 57629,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "purse",
+      "duotone": true
+    },
+    "rabbit": {
+      "codepoint": 57630,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "rabbit",
+      "duotone": true
+    },
+    "rabbit-face": {
+      "codepoint": 57631,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "rabbitFace",
+      "duotone": true
+    },
+    "radio": {
+      "codepoint": 57632,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "radio",
+      "duotone": true
+    },
+    "railway-car": {
+      "codepoint": 57633,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "railwayCar",
+      "duotone": true
+    },
+    "rainbow": {
+      "codepoint": 57634,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "rainbow",
+      "duotone": true
+    },
+    "raised-fist-2": {
+      "codepoint": 57635,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "raisedFist2",
+      "duotone": true
+    },
+    "raised-hand-2": {
+      "codepoint": 57636,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "raisedHand2",
+      "duotone": true
+    },
+    "raising-hands-1": {
+      "codepoint": 57637,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "raisingHands1",
+      "duotone": true
+    },
+    "raising-hands-2": {
+      "codepoint": 57638,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "raisingHands2",
+      "duotone": true
+    },
+    "ram": {
+      "codepoint": 57639,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "ram",
+      "duotone": true
+    },
+    "recycling-symbol": {
+      "codepoint": 57640,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "recyclingSymbol",
+      "duotone": true
+    },
+    "red-wine-glass": {
+      "codepoint": 57641,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "redWineGlass",
+      "duotone": true
+    },
+    "restroom": {
+      "codepoint": 57642,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "restroom",
+      "duotone": true
+    },
+    "revolving-hearts": {
+      "codepoint": 57643,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "revolvingHearts",
+      "duotone": true
+    },
+    "rice-ball": {
+      "codepoint": 57644,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "riceBall",
+      "duotone": true
+    },
+    "right-anger-bubble": {
+      "codepoint": 57645,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "rightAngerBubble",
+      "duotone": true
+    },
+    "ring-2": {
+      "codepoint": 57646,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "ring2",
+      "duotone": true
+    },
+    "robot-face-1": {
+      "codepoint": 57647,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "robotFace1",
+      "duotone": true
+    },
+    "robot-face-2": {
+      "codepoint": 57648,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "robotFace2",
+      "duotone": true
+    },
+    "robot-face-3": {
+      "codepoint": 57649,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "robotFace3",
+      "duotone": true
+    },
+    "roller-coaster": {
+      "codepoint": 57650,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "rollerCoaster",
+      "duotone": true
+    },
+    "rooster": {
+      "codepoint": 57651,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "rooster",
+      "duotone": true
+    },
+    "running-shoe": {
+      "codepoint": 57652,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "runningShoe",
+      "duotone": true
+    },
+    "santa-claus-1": {
+      "codepoint": 57653,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "santaClaus1",
+      "duotone": true
+    },
+    "santa-claus-2": {
+      "codepoint": 57654,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "santaClaus2",
+      "duotone": true
+    },
+    "satellite-antenna": {
+      "codepoint": 57655,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "satelliteAntenna",
+      "duotone": true
+    },
+    "selfie-1": {
+      "codepoint": 57656,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "selfie1"
+    },
+    "selfie-2": {
+      "codepoint": 57657,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "selfie2"
+    },
+    "shaved-ice": {
+      "codepoint": 57658,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "shavedIce",
+      "duotone": true
+    },
+    "ship": {
+      "codepoint": 57659,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "ship",
+      "duotone": true
+    },
+    "shower": {
+      "codepoint": 57660,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "shower",
+      "duotone": true
+    },
+    "sign-of-the-horns-2": {
+      "codepoint": 57661,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "signOfTheHorns2",
+      "duotone": true
+    },
+    "skis": {
+      "codepoint": 57662,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "skis",
+      "duotone": true
+    },
+    "skull": {
+      "codepoint": 57663,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "skull",
+      "duotone": true
+    },
+    "snowflake": {
+      "codepoint": 57664,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "snowflake",
+      "duotone": true
+    },
+    "snowman": {
+      "codepoint": 57665,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "snowman"
+    },
+    "soft-ice-cream-1": {
+      "codepoint": 57666,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "softIceCream1",
+      "duotone": true
+    },
+    "soft-ice-cream-2": {
+      "codepoint": 57667,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "softIceCream2",
+      "duotone": true
+    },
+    "south-africa": {
+      "codepoint": 57668,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "southAfrica",
+      "duotone": true
+    },
+    "south-korea": {
+      "codepoint": 57669,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "southKorea",
+      "duotone": true
+    },
+    "spaghetti": {
+      "codepoint": 57670,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "spaghetti",
+      "duotone": true
+    },
+    "speedboat": {
+      "codepoint": 57671,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "speedboat",
+      "duotone": true
+    },
+    "spiral-shell": {
+      "codepoint": 57672,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "spiralShell",
+      "duotone": true
+    },
+    "spouting-whale": {
+      "codepoint": 57673,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "spoutingWhale",
+      "duotone": true
+    },
+    "sunglasses": {
+      "codepoint": 57674,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "sunglasses",
+      "duotone": true
+    },
+    "sushi": {
+      "codepoint": 57675,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "sushi",
+      "duotone": true
+    },
+    "sweat-droplets": {
+      "codepoint": 57676,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "sweatDroplets",
+      "duotone": true
+    },
+    "syria": {
+      "codepoint": 57677,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "syria",
+      "duotone": true
+    },
+    "syringe": {
+      "codepoint": 57678,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "syringe",
+      "duotone": true
+    },
+    "t-shirt": {
+      "codepoint": 57679,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "tShirt",
+      "duotone": true
+    },
+    "tangerine": {
+      "codepoint": 57680,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "tangerine",
+      "duotone": true
+    },
+    "taxi": {
+      "codepoint": 57681,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "taxi",
+      "duotone": true
+    },
+    "teacup-without-handle": {
+      "codepoint": 57682,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "teacupWithoutHandle",
+      "duotone": true
+    },
+    "telescope": {
+      "codepoint": 57683,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "telescope",
+      "duotone": true
+    },
+    "tennis-1": {
+      "codepoint": 57684,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "tennis1",
+      "duotone": true
+    },
+    "tennis-2": {
+      "codepoint": 57685,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "tennis2",
+      "duotone": true
+    },
+    "tent": {
+      "codepoint": 57686,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "tent",
+      "duotone": true
+    },
+    "thought-balloon": {
+      "codepoint": 57687,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "thoughtBalloon",
+      "duotone": true
+    },
+    "thumbs-down-2": {
+      "codepoint": 57688,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "thumbsDown2"
+    },
+    "thumbs-up-2": {
+      "codepoint": 57689,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "thumbsUp2",
+      "duotone": true
+    },
+    "tiger": {
+      "codepoint": 57690,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "tiger",
+      "duotone": true
+    },
+    "toilet": {
+      "codepoint": 57691,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "toilet",
+      "duotone": true
+    },
+    "tropical-drink": {
+      "codepoint": 57692,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "tropicalDrink",
+      "duotone": true
+    },
+    "tropical-fish": {
+      "codepoint": 57693,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "tropicalFish",
+      "duotone": true
+    },
+    "turtle": {
+      "codepoint": 57694,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "turtle",
+      "duotone": true
+    },
+    "two-men-holding-hands-2": {
+      "codepoint": 57695,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "twoMenHoldingHands2",
+      "duotone": true
+    },
+    "two-women-holding-hands-2": {
+      "codepoint": 57696,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "twoWomenHoldingHands2",
+      "duotone": true
+    },
+    "umbrella": {
+      "codepoint": 57697,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "umbrella",
+      "duotone": true
+    },
+    "umbrella-with-rain-drops": {
+      "codepoint": 57698,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "umbrellaWithRainDrops",
+      "duotone": true
+    },
+    "unicorn-face": {
+      "codepoint": 57699,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "unicornFace",
+      "duotone": true
+    },
+    "united-arab-emirates": {
+      "codepoint": 57700,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "unitedArabEmirates",
+      "duotone": true
+    },
+    "united-kingdom": {
+      "codepoint": 57701,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "unitedKingdom",
+      "duotone": true
+    },
+    "united-states": {
+      "codepoint": 57702,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "unitedStates",
+      "duotone": true
+    },
+    "vertical-traffic-light": {
+      "codepoint": 57703,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "verticalTrafficLight",
+      "duotone": true
+    },
+    "victory-hand-2": {
+      "codepoint": 57704,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "victoryHand2",
+      "duotone": true
+    },
+    "violin": {
+      "codepoint": 57705,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "violin",
+      "duotone": true
+    },
+    "vulcan-salute-2": {
+      "codepoint": 57706,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "vulcanSalute2",
+      "duotone": true
+    },
+    "watch": {
+      "codepoint": 57707,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "watch",
+      "duotone": true
+    },
+    "water-wave": {
+      "codepoint": 57708,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "waterWave"
+    },
+    "watermelon-1": {
+      "codepoint": 57709,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "watermelon1",
+      "duotone": true
+    },
+    "watermelon-2": {
+      "codepoint": 57710,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "watermelon2",
+      "duotone": true
+    },
+    "waving-hand-2": {
+      "codepoint": 57711,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "wavingHand2",
+      "duotone": true
+    },
+    "wedding": {
+      "codepoint": 57712,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "wedding",
+      "duotone": true
+    },
+    "white-wine-glass": {
+      "codepoint": 57713,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "whiteWineGlass",
+      "duotone": true
+    },
+    "wine-glass": {
+      "codepoint": 57714,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "wineGlass",
+      "duotone": true
+    },
+    "wolf-face": {
+      "codepoint": 57715,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "wolfFace",
+      "duotone": true
+    },
+    "woman-2": {
+      "codepoint": 57716,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "woman2",
+      "duotone": true
+    },
+    "woman-artist-2": {
+      "codepoint": 57717,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanArtist2",
+      "duotone": true
+    },
+    "woman-astronaut-2": {
+      "codepoint": 57718,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanAstronaut2",
+      "duotone": true
+    },
+    "woman-cook-2": {
+      "codepoint": 57719,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanCook2",
+      "duotone": true
+    },
+    "woman-dancing-2": {
+      "codepoint": 57720,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanDancing2",
+      "duotone": true
+    },
+    "woman-facepalming-2": {
+      "codepoint": 57721,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanFacepalming2",
+      "duotone": true
+    },
+    "woman-factory-worker-2": {
+      "codepoint": 57722,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanFactoryWorker2",
+      "duotone": true
+    },
+    "woman-farmer-2": {
+      "codepoint": 57723,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanFarmer2",
+      "duotone": true
+    },
+    "woman-firefighter-2": {
+      "codepoint": 57724,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanFirefighter2",
+      "duotone": true
+    },
+    "woman-frowning-2": {
+      "codepoint": 57725,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanFrowning2",
+      "duotone": true
+    },
+    "woman-gesturing-no-2": {
+      "codepoint": 57726,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanGesturingNo2",
+      "duotone": true
+    },
+    "woman-gesturing-ok-2": {
+      "codepoint": 57727,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanGesturingOk2",
+      "duotone": true
+    },
+    "woman-getting-haircut-1": {
+      "codepoint": 57728,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanGettingHaircut1",
+      "duotone": true
+    },
+    "woman-getting-haircut-2": {
+      "codepoint": 57729,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanGettingHaircut2",
+      "duotone": true
+    },
+    "woman-getting-massage-2": {
+      "codepoint": 57730,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanGettingMassage2",
+      "duotone": true
+    },
+    "woman-health-worker-2": {
+      "codepoint": 57731,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanHealthWorker2",
+      "duotone": true
+    },
+    "woman-judge-2": {
+      "codepoint": 57732,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanJudge2",
+      "duotone": true
+    },
+    "woman-mechanic-2": {
+      "codepoint": 57733,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanMechanic2",
+      "duotone": true
+    },
+    "woman-office-worker-2": {
+      "codepoint": 57734,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanOfficeWorker2",
+      "duotone": true
+    },
+    "woman-pilot-2": {
+      "codepoint": 57735,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanPilot2",
+      "duotone": true
+    },
+    "woman-police-officer-2": {
+      "codepoint": 57736,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanPoliceOfficer2",
+      "duotone": true
+    },
+    "woman-pouting-2": {
+      "codepoint": 57737,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanPouting2",
+      "duotone": true
+    },
+    "woman-raising-hand-2": {
+      "codepoint": 57738,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanRaisingHand2",
+      "duotone": true
+    },
+    "woman-running-2": {
+      "codepoint": 57739,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanRunning2",
+      "duotone": true
+    },
+    "woman-scientist-2": {
+      "codepoint": 57740,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanScientist2",
+      "duotone": true
+    },
+    "woman-shrugging-2": {
+      "codepoint": 57741,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanShrugging2",
+      "duotone": true
+    },
+    "woman-singer-2": {
+      "codepoint": 57742,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanSinger2",
+      "duotone": true
+    },
+    "woman-tipping-hand-2": {
+      "codepoint": 57743,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanTippingHand2",
+      "duotone": true
+    },
+    "woman-walking-1": {
+      "codepoint": 57744,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanWalking1",
+      "duotone": true
+    },
+    "woman-walking-2": {
+      "codepoint": 57745,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womanWalking2",
+      "duotone": true
+    },
+    "womans-hat": {
+      "codepoint": 57746,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "womansHat",
+      "duotone": true
+    },
+    "wrench": {
+      "codepoint": 57747,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "wrench",
+      "duotone": true
+    },
+    "writing-hand-1": {
+      "codepoint": 57748,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "writingHand1",
+      "duotone": true
+    },
+    "writing-hand-2": {
+      "codepoint": 57749,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "writingHand2",
+      "duotone": true
+    },
+    "zzz": {
+      "codepoint": 57750,
+      "fontFamily": "StreamlineEmojis",
+      "identifier": "zzz",
+      "duotone": true
+    }
+  }
+}

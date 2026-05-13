@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/wisdesignsystem/lsicon/blob/main/LICENSE',
-  iconCount: 709,
+  iconCount: 716,
 );

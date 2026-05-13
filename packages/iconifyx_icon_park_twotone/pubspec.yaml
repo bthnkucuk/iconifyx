@@ -1,0 +1,22 @@
+name: iconifyx_icon_park_twotone
+description: >-
+  IconPark TwoTone icons from Iconify, packaged for Flutter (884 icons, Apache 2.0 license).
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.3.0
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  iconifyx_core:
+    path: ../iconifyx_core
+
+flutter:
+  uses-material-design: false
+  fonts:
+    - family: IconParkTwotone
+      fonts:
+        - asset: assets/fonts/IconParkTwotone.ttf

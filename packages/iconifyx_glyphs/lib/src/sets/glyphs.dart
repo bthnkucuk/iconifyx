@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Goran Spasojevic
 /// License: MIT — https://github.com/gorango/glyphs/blob/main/license
-/// Icons: 3449
+/// Icons: 3452
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -21947,6 +21947,13 @@ class GlyphsIcons {
     fontPackage: 'iconifyx_glyphs',
   ));
 
+  /// `tilde-bold`
+  static const IconifyIconData tildeBold = IconifyIconData(IconData(
+    0xed79,
+    fontFamily: 'Glyphs',
+    fontPackage: 'iconifyx_glyphs',
+  ));
+
   /// `tilde-duo`
   static const IconifyIconData tildeDuo = IconifyIconData(IconData(
     0xec3d,
@@ -23651,6 +23658,20 @@ class GlyphsIcons {
   /// `wifi-100`
   static const IconifyIconData wifi100 = IconifyIconData(IconData(
     0xed30,
+    fontFamily: 'Glyphs',
+    fontPackage: 'iconifyx_glyphs',
+  ));
+
+  /// `wifi-100-bold`
+  static const IconifyIconData wifi100Bold = IconifyIconData(IconData(
+    0xed7a,
+    fontFamily: 'Glyphs',
+    fontPackage: 'iconifyx_glyphs',
+  ));
+
+  /// `wifi-100-duo`
+  static const IconifyIconData wifi100Duo = IconifyIconData(IconData(
+    0xed7b,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));

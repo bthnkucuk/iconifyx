@@ -15,13 +15,13 @@
       "title": "MIT",
       "spdx": "MIT"
     },
-    "total": 159
+    "total": 162
   },
   "fonts": [
     {
       "family": "Weui",
-      "nextCodepoint": 57503,
-      "iconCount": 159
+      "nextCodepoint": 57506,
+      "iconCount": 162
     }
   ],
   "icons": {
@@ -69,6 +69,11 @@
       "codepoint": 57352,
       "fontFamily": "Weui",
       "identifier": "arrowFilled"
+    },
+    "arrow-outlined": {
+      "codepoint": 57503,
+      "fontFamily": "Weui",
+      "identifier": "arrowOutlined"
     },
     "at-filled": {
       "codepoint": 57353,
@@ -154,6 +159,11 @@
       "codepoint": 57369,
       "fontFamily": "Weui",
       "identifier": "closeFilled"
+    },
+    "close-outlined": {
+      "codepoint": 57504,
+      "fontFamily": "Weui",
+      "identifier": "closeOutlined"
     },
     "close2-filled": {
       "codepoint": 57370,
@@ -349,6 +359,11 @@
       "codepoint": 57408,
       "fontFamily": "Weui",
       "identifier": "imacFilled"
+    },
+    "imac-outlined": {
+      "codepoint": 57505,
+      "fontFamily": "Weui",
+      "identifier": "imacOutlined"
     },
     "info-filled": {
       "codepoint": 57409,

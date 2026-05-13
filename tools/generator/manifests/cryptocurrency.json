@@ -16,18 +16,18 @@
       "spdx": "CC0-1.0",
       "url": "https://creativecommons.org/publicdomain/zero/1.0/"
     },
-    "total": 456
+    "total": 489
   },
   "fonts": [
     {
       "family": "Cryptocurrency",
-      "nextCodepoint": 57800,
-      "iconCount": 456
+      "nextCodepoint": 57833,
+      "iconCount": 489
     },
     {
       "family": "CryptocurrencySecondary",
-      "nextCodepoint": 57800,
-      "iconCount": 14
+      "nextCodepoint": 57833,
+      "iconCount": 15
     }
   ],
   "icons": {
@@ -35,6 +35,11 @@
       "codepoint": 57344,
       "fontFamily": "Cryptocurrency",
       "identifier": "n0xbtc"
+    },
+    "1inch": {
+      "codepoint": 57800,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "n1inch"
     },
     "2give": {
       "codepoint": 57345,
@@ -122,6 +127,11 @@
       "fontFamily": "Cryptocurrency",
       "identifier": "amp"
     },
+    "ampl": {
+      "codepoint": 57801,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "ampl"
+    },
     "ankr": {
       "codepoint": 57362,
       "fontFamily": "Cryptocurrency",
@@ -161,6 +171,11 @@
       "codepoint": 57369,
       "fontFamily": "Cryptocurrency",
       "identifier": "ark"
+    },
+    "arn": {
+      "codepoint": 57802,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "arn"
     },
     "arnx": {
       "codepoint": 57370,
@@ -247,6 +262,11 @@
       "fontFamily": "Cryptocurrency",
       "identifier": "bcbc"
     },
+    "bcc": {
+      "codepoint": 57803,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "bcc"
+    },
     "bcd": {
       "codepoint": 57387,
       "fontFamily": "Cryptocurrency",
@@ -276,6 +296,11 @@
       "codepoint": 57392,
       "fontFamily": "Cryptocurrency",
       "identifier": "bcpt"
+    },
+    "bdl": {
+      "codepoint": 57804,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "bdl"
     },
     "beam": {
       "codepoint": 57393,
@@ -447,6 +472,11 @@
       "fontFamily": "Cryptocurrency",
       "identifier": "cdt"
     },
+    "cenz": {
+      "codepoint": 57805,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "cenz"
+    },
     "chain": {
       "codepoint": 57427,
       "fontFamily": "Cryptocurrency",
@@ -564,6 +594,11 @@
       "fontFamily": "Cryptocurrency",
       "identifier": "ctr"
     },
+    "ctxc": {
+      "codepoint": 57806,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "ctxc"
+    },
     "cvc": {
       "codepoint": 57450,
       "fontFamily": "Cryptocurrency",
@@ -599,10 +634,20 @@
       "fontFamily": "Cryptocurrency",
       "identifier": "dbc"
     },
+    "dcn": {
+      "codepoint": 57807,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "dcn"
+    },
     "dcr": {
       "codepoint": 57457,
       "fontFamily": "Cryptocurrency",
       "identifier": "dcr"
+    },
+    "deez": {
+      "codepoint": 57808,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "deez"
     },
     "dent": {
       "codepoint": 57458,
@@ -751,6 +796,11 @@
       "fontFamily": "Cryptocurrency",
       "identifier": "emc2"
     },
+    "eng": {
+      "codepoint": 57809,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "eng"
+    },
     "enj": {
       "codepoint": 57487,
       "fontFamily": "Cryptocurrency",
@@ -760,6 +810,11 @@
       "codepoint": 57488,
       "fontFamily": "Cryptocurrency",
       "identifier": "entrp"
+    },
+    "eon": {
+      "codepoint": 57810,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "eon"
     },
     "eop": {
       "codepoint": 57489,
@@ -786,6 +841,12 @@
       "fontFamily": "Cryptocurrency",
       "identifier": "equa"
     },
+    "etc": {
+      "codepoint": 57811,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "etc",
+      "duotone": true
+    },
     "eth": {
       "codepoint": 57494,
       "fontFamily": "Cryptocurrency",
@@ -801,6 +862,11 @@
       "codepoint": 57496,
       "fontFamily": "Cryptocurrency",
       "identifier": "etn"
+    },
+    "etp": {
+      "codepoint": 57812,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "etp"
     },
     "eur": {
       "codepoint": 57497,
@@ -877,6 +943,11 @@
       "fontFamily": "Cryptocurrency",
       "identifier": "fuel"
     },
+    "fun": {
+      "codepoint": 57813,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "fun"
+    },
     "game": {
       "codepoint": 57512,
       "fontFamily": "Cryptocurrency",
@@ -912,6 +983,11 @@
       "fontFamily": "Cryptocurrency",
       "identifier": "gin"
     },
+    "glxt": {
+      "codepoint": 57814,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "glxt"
+    },
     "gmr": {
       "codepoint": 57519,
       "fontFamily": "Cryptocurrency",
@@ -936,6 +1012,11 @@
       "codepoint": 57523,
       "fontFamily": "Cryptocurrency",
       "identifier": "gold"
+    },
+    "grc": {
+      "codepoint": 57815,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "grc"
     },
     "grin": {
       "codepoint": 57524,
@@ -977,6 +1058,16 @@
       "fontFamily": "Cryptocurrency",
       "identifier": "gvt"
     },
+    "gxlt": {
+      "codepoint": 57816,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "gxlt"
+    },
+    "gxs": {
+      "codepoint": 57817,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "gxs"
+    },
     "gzr": {
       "codepoint": 57532,
       "fontFamily": "Cryptocurrency",
@@ -1007,6 +1098,11 @@
       "fontFamily": "Cryptocurrency",
       "identifier": "hpb",
       "duotone": true
+    },
+    "hsr": {
+      "codepoint": 57818,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "hsr"
     },
     "ht": {
       "codepoint": 57538,
@@ -1047,6 +1143,11 @@
       "codepoint": 57545,
       "fontFamily": "Cryptocurrency",
       "identifier": "icx"
+    },
+    "ignis": {
+      "codepoint": 57819,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "ignis"
     },
     "ilk": {
       "codepoint": 57546,
@@ -1215,6 +1316,11 @@
       "fontFamily": "Cryptocurrency",
       "identifier": "max"
     },
+    "mcap": {
+      "codepoint": 57820,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "mcap"
+    },
     "mco": {
       "codepoint": 57579,
       "fontFamily": "Cryptocurrency",
@@ -1235,6 +1341,11 @@
       "fontFamily": "Cryptocurrency",
       "identifier": "med"
     },
+    "meetone": {
+      "codepoint": 57821,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "meetone"
+    },
     "mft": {
       "codepoint": 57583,
       "fontFamily": "Cryptocurrency",
@@ -1244,6 +1355,11 @@
       "codepoint": 57584,
       "fontFamily": "Cryptocurrency",
       "identifier": "miota"
+    },
+    "mith": {
+      "codepoint": 57822,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "mith"
     },
     "mkr": {
       "codepoint": 57585,
@@ -1511,6 +1627,11 @@
       "fontFamily": "Cryptocurrency",
       "identifier": "pay"
     },
+    "payx": {
+      "codepoint": 57823,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "payx"
+    },
     "pgt": {
       "codepoint": 57638,
       "fontFamily": "Cryptocurrency",
@@ -1668,6 +1789,11 @@
       "identifier": "rdd",
       "duotone": true
     },
+    "rdn": {
+      "codepoint": 57824,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "rdn"
+    },
     "ren": {
       "codepoint": 57669,
       "fontFamily": "Cryptocurrency",
@@ -1687,6 +1813,16 @@
       "codepoint": 57672,
       "fontFamily": "Cryptocurrency",
       "identifier": "req"
+    },
+    "rhoc": {
+      "codepoint": 57825,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "rhoc"
+    },
+    "ric": {
+      "codepoint": 57826,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "ric"
     },
     "rise": {
       "codepoint": 57673,
@@ -1837,6 +1973,11 @@
       "codepoint": 57702,
       "fontFamily": "Cryptocurrency",
       "identifier": "sol"
+    },
+    "spacehbit": {
+      "codepoint": 57827,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "spacehbit"
     },
     "spank": {
       "codepoint": 57703,
@@ -2033,6 +2174,11 @@
       "fontFamily": "Cryptocurrency",
       "identifier": "uma"
     },
+    "uni": {
+      "codepoint": 57828,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "uni"
+    },
     "unity": {
       "codepoint": 57742,
       "fontFamily": "Cryptocurrency",
@@ -2084,6 +2230,11 @@
       "fontFamily": "Cryptocurrency",
       "identifier": "vib"
     },
+    "vibe": {
+      "codepoint": 57829,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "vibe"
+    },
     "vivo": {
       "codepoint": 57752,
       "fontFamily": "Cryptocurrency",
@@ -2134,6 +2285,11 @@
       "fontFamily": "Cryptocurrency",
       "identifier": "wbtc"
     },
+    "wgr": {
+      "codepoint": 57830,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "wgr"
+    },
     "wicc": {
       "codepoint": 57762,
       "fontFamily": "Cryptocurrency",
@@ -2174,6 +2330,11 @@
       "codepoint": 57769,
       "fontFamily": "Cryptocurrency",
       "identifier": "xbp"
+    },
+    "xby": {
+      "codepoint": 57831,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "xby"
     },
     "xcp": {
       "codepoint": 57770,
@@ -2294,6 +2455,11 @@
       "codepoint": 57793,
       "fontFamily": "Cryptocurrency",
       "identifier": "zcl"
+    },
+    "zec": {
+      "codepoint": 57832,
+      "fontFamily": "Cryptocurrency",
+      "identifier": "zec"
     },
     "zel": {
       "codepoint": 57794,

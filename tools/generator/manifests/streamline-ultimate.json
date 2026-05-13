@@ -16,13 +16,13 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 1996
+    "total": 1999
   },
   "fonts": [
     {
       "family": "StreamlineUltimate",
-      "nextCodepoint": 59340,
-      "iconCount": 1996
+      "nextCodepoint": 59343,
+      "iconCount": 1999
     }
   ],
   "icons": {
@@ -320,6 +320,11 @@
       "codepoint": 57402,
       "fontFamily": "StreamlineUltimate",
       "identifier": "ampersand"
+    },
+    "ampersand-bold": {
+      "codepoint": 59340,
+      "fontFamily": "StreamlineUltimate",
+      "identifier": "ampersandBold"
     },
     "amusement-park-balloon": {
       "codepoint": 57403,
@@ -8406,6 +8411,11 @@
       "fontFamily": "StreamlineUltimate",
       "identifier": "smileyUnhappyBold"
     },
+    "smiley-wrong": {
+      "codepoint": 59341,
+      "fontFamily": "StreamlineUltimate",
+      "identifier": "smileyWrong"
+    },
     "smiley-wrong-bold": {
       "codepoint": 59020,
       "fontFamily": "StreamlineUltimate",
@@ -9860,6 +9870,11 @@
       "codepoint": 59310,
       "fontFamily": "StreamlineUltimate",
       "identifier": "wineBarrel1Bold"
+    },
+    "wordpress-logo-1": {
+      "codepoint": 59342,
+      "fontFamily": "StreamlineUltimate",
+      "identifier": "wordpressLogo1"
     },
     "wordpress-logo-1-bold": {
       "codepoint": 59311,

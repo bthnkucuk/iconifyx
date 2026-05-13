@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: ByteDance
 /// License: Apache 2.0 — https://github.com/bytedance/IconPark/blob/master/LICENSE
-/// Icons: 2656
+/// Icons: 2658
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -4583,6 +4583,13 @@ class IconParkIcons {
   /// `deeplink`
   static const IconifyIconData deeplink = IconifyIconData(IconData(
     0xe28c,
+    fontFamily: 'IconPark',
+    fontPackage: 'iconifyx_icon_park',
+  ));
+
+  /// `deer`
+  static const IconifyIconData deer = IconifyIconData(IconData(
+    0xe28d,
     fontFamily: 'IconPark',
     fontPackage: 'iconifyx_icon_park',
   ));
@@ -12185,6 +12192,13 @@ class IconParkIcons {
   /// `palm`
   static const IconifyIconData palm = IconifyIconData(IconData(
     0xe6cb,
+    fontFamily: 'IconPark',
+    fontPackage: 'iconifyx_icon_park',
+  ));
+
+  /// `panda`
+  static const IconifyIconData panda = IconifyIconData(IconData(
+    0xe6cc,
     fontFamily: 'IconPark',
     fontPackage: 'iconifyx_icon_park',
   ));

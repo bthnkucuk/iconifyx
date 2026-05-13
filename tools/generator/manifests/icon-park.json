@@ -16,13 +16,13 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/bytedance/IconPark/blob/master/LICENSE"
     },
-    "total": 2656
+    "total": 2658
   },
   "fonts": [
     {
       "family": "IconPark",
       "nextCodepoint": 60002,
-      "iconCount": 2656
+      "iconCount": 2658
     }
   ],
   "icons": {
@@ -3294,9 +3294,7 @@
     "deer": {
       "codepoint": 57997,
       "fontFamily": "IconPark",
-      "identifier": "deer",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "deer"
     },
     "degree-hat": {
       "codepoint": 57998,
@@ -8731,9 +8729,7 @@
     "panda": {
       "codepoint": 59084,
       "fontFamily": "IconPark",
-      "identifier": "panda",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "panda"
     },
     "pangle": {
       "codepoint": 59085,

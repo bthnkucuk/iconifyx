@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/lipis/flag-icons/blob/main/LICENSE',
-  iconCount: 163,
+  iconCount: 476,
 );

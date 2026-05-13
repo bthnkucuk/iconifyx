@@ -16,20 +16,30 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 1291
+    "total": 1499
   },
   "fonts": [
     {
       "family": "StreamlinePlump",
-      "nextCodepoint": 58635,
-      "iconCount": 1291
+      "nextCodepoint": 58843,
+      "iconCount": 1499
     }
   ],
   "icons": {
+    "3d-coordinate-axis": {
+      "codepoint": 58635,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "n3dCoordinateAxis"
+    },
     "3d-coordinate-axis-remix": {
       "codepoint": 57344,
       "fontFamily": "StreamlinePlump",
       "identifier": "n3dCoordinateAxisRemix"
+    },
+    "3d-coordinate-axis-solid": {
+      "codepoint": 58636,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "n3dCoordinateAxisSolid"
     },
     "add-bell-notification": {
       "codepoint": 57345,
@@ -156,6 +166,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "airplaneDisabled"
     },
+    "airplane-disabled-remix": {
+      "codepoint": 58637,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "airplaneDisabledRemix"
+    },
     "airplane-disabled-solid": {
       "codepoint": 57370,
       "fontFamily": "StreamlinePlump",
@@ -165,6 +180,11 @@
       "codepoint": 57371,
       "fontFamily": "StreamlinePlump",
       "identifier": "airplaneEnabled"
+    },
+    "airplane-enabled-remix": {
+      "codepoint": 58638,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "airplaneEnabledRemix"
     },
     "airplane-enabled-solid": {
       "codepoint": 57372,
@@ -301,6 +321,16 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "applicationAddSolid"
     },
+    "archive-box": {
+      "codepoint": 58639,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "archiveBox"
+    },
+    "archive-box-remix": {
+      "codepoint": 58640,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "archiveBoxRemix"
+    },
     "archive-box-solid": {
       "codepoint": 57399,
       "fontFamily": "StreamlinePlump",
@@ -335,6 +365,16 @@
       "codepoint": 57405,
       "fontFamily": "StreamlinePlump",
       "identifier": "arrowCursorMoveSolid"
+    },
+    "arrow-curvy-both-direction-2": {
+      "codepoint": 58641,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "arrowCurvyBothDirection2"
+    },
+    "arrow-curvy-both-direction-2-solid": {
+      "codepoint": 58642,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "arrowCurvyBothDirection2Solid"
     },
     "arrow-diagonal-2": {
       "codepoint": 57406,
@@ -390,6 +430,21 @@
       "codepoint": 57416,
       "fontFamily": "StreamlinePlump",
       "identifier": "arrowTransferHorizontalSquare"
+    },
+    "arrow-transfer-horizontal-square-solid": {
+      "codepoint": 58643,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "arrowTransferHorizontalSquareSolid"
+    },
+    "arrow-turn-down-large": {
+      "codepoint": 58644,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "arrowTurnDownLarge"
+    },
+    "arrow-turn-down-large-solid": {
+      "codepoint": 58645,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "arrowTurnDownLargeSolid"
     },
     "arrow-up-4": {
       "codepoint": 57417,
@@ -485,6 +540,11 @@
       "codepoint": 57435,
       "fontFamily": "StreamlinePlump",
       "identifier": "bagSuitcase4Remix"
+    },
+    "bag-suitcase-4-solid": {
+      "codepoint": 58646,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "bagSuitcase4Solid"
     },
     "ball": {
       "codepoint": 57436,
@@ -601,10 +661,25 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "bicycleBikeRemix"
     },
+    "bicycle-bike-solid": {
+      "codepoint": 58647,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "bicycleBikeSolid"
+    },
+    "bill-1-remix": {
+      "codepoint": 58648,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "bill1Remix"
+    },
     "binoculars": {
       "codepoint": 57459,
       "fontFamily": "StreamlinePlump",
       "identifier": "binoculars"
+    },
+    "binoculars-remix": {
+      "codepoint": 58649,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "binocularsRemix"
     },
     "binoculars-solid": {
       "codepoint": 57460,
@@ -641,6 +716,21 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "block1Solid"
     },
+    "bluetooth": {
+      "codepoint": 58650,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "bluetooth"
+    },
+    "bluetooth-remix": {
+      "codepoint": 58651,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "bluetoothRemix"
+    },
+    "bluetooth-solid": {
+      "codepoint": 58652,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "bluetoothSolid"
+    },
     "bomb": {
       "codepoint": 57467,
       "fontFamily": "StreamlinePlump",
@@ -660,6 +750,11 @@
       "codepoint": 57470,
       "fontFamily": "StreamlinePlump",
       "identifier": "book1"
+    },
+    "book-1-remix": {
+      "codepoint": 58653,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "book1Remix"
     },
     "book-1-solid": {
       "codepoint": 57471,
@@ -731,6 +826,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "brailleBlind"
     },
+    "braille-blind-remix": {
+      "codepoint": 58654,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "brailleBlindRemix"
+    },
     "braille-blind-solid": {
       "codepoint": 57485,
       "fontFamily": "StreamlinePlump",
@@ -761,6 +861,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "browserCode1Remix"
     },
+    "browser-code-1-solid": {
+      "codepoint": 58655,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "browserCode1Solid"
+    },
     "browser-website-1": {
       "codepoint": 57491,
       "fontFamily": "StreamlinePlump",
@@ -770,6 +875,11 @@
       "codepoint": 57492,
       "fontFamily": "StreamlinePlump",
       "identifier": "browserWebsite1Remix"
+    },
+    "browser-website-1-solid": {
+      "codepoint": 58656,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "browserWebsite1Solid"
     },
     "bug": {
       "codepoint": 57493,
@@ -811,6 +921,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "buildingOfficeRemix"
     },
+    "building-office-solid": {
+      "codepoint": 58657,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "buildingOfficeSolid"
+    },
     "burger": {
       "codepoint": 57501,
       "fontFamily": "StreamlinePlump",
@@ -830,6 +945,16 @@
       "codepoint": 57504,
       "fontFamily": "StreamlinePlump",
       "identifier": "bus"
+    },
+    "bus-remix": {
+      "codepoint": 58658,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "busRemix"
+    },
+    "bus-solid": {
+      "codepoint": 58659,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "busSolid"
     },
     "business-progress-bar-2": {
       "codepoint": 57505,
@@ -866,6 +991,16 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "buttonPower1"
     },
+    "button-power-1-remix": {
+      "codepoint": 58660,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "buttonPower1Remix"
+    },
+    "button-power-1-solid": {
+      "codepoint": 58661,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "buttonPower1Solid"
+    },
     "cable-split": {
       "codepoint": 57512,
       "fontFamily": "StreamlinePlump",
@@ -885,6 +1020,11 @@
       "codepoint": 57515,
       "fontFamily": "StreamlinePlump",
       "identifier": "cakeSlice"
+    },
+    "cake-slice-remix": {
+      "codepoint": 58662,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "cakeSliceRemix"
     },
     "cake-slice-solid": {
       "codepoint": 57516,
@@ -911,6 +1051,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "calendarAdd"
     },
+    "calendar-add-remix": {
+      "codepoint": 58663,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "calendarAddRemix"
+    },
     "calendar-add-solid": {
       "codepoint": 57521,
       "fontFamily": "StreamlinePlump",
@@ -920,6 +1065,11 @@
       "codepoint": 57522,
       "fontFamily": "StreamlinePlump",
       "identifier": "calendarCheck"
+    },
+    "calendar-check-remix": {
+      "codepoint": 58664,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "calendarCheckRemix"
     },
     "calendar-check-solid": {
       "codepoint": 57523,
@@ -931,6 +1081,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "calendarHeart"
     },
+    "calendar-heart-remix": {
+      "codepoint": 58665,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "calendarHeartRemix"
+    },
     "calendar-heart-solid": {
       "codepoint": 57525,
       "fontFamily": "StreamlinePlump",
@@ -941,10 +1096,20 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "calendarMark"
     },
+    "calendar-mark-remix": {
+      "codepoint": 58666,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "calendarMarkRemix"
+    },
     "calendar-mark-solid": {
       "codepoint": 57527,
       "fontFamily": "StreamlinePlump",
       "identifier": "calendarMarkSolid"
+    },
+    "calendar-note-remix": {
+      "codepoint": 58667,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "calendarNoteRemix"
     },
     "call-center-support-service": {
       "codepoint": 57528,
@@ -1010,6 +1175,11 @@
       "codepoint": 57540,
       "fontFamily": "StreamlinePlump",
       "identifier": "candle"
+    },
+    "candle-remix": {
+      "codepoint": 58668,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "candleRemix"
     },
     "candle-solid": {
       "codepoint": 57541,
@@ -1171,6 +1341,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "checkThickRemix"
     },
+    "check-thick-solid": {
+      "codepoint": 58669,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "checkThickSolid"
+    },
     "cheese": {
       "codepoint": 57573,
       "fontFamily": "StreamlinePlump",
@@ -1186,6 +1361,21 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "cheeseSolid"
     },
+    "chef-toque-hat": {
+      "codepoint": 58670,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "chefToqueHat"
+    },
+    "chef-toque-hat-remix": {
+      "codepoint": 58671,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "chefToqueHatRemix"
+    },
+    "chef-toque-hat-solid": {
+      "codepoint": 58672,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "chefToqueHatSolid"
+    },
     "cherries": {
       "codepoint": 57576,
       "fontFamily": "StreamlinePlump",
@@ -1200,6 +1390,11 @@
       "codepoint": 57578,
       "fontFamily": "StreamlinePlump",
       "identifier": "cherriesSolid"
+    },
+    "chess-pawn": {
+      "codepoint": 58673,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "chessPawn"
     },
     "chess-pawn-remix": {
       "codepoint": 57579,
@@ -1331,6 +1526,21 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "codeMonitor2Solid"
     },
+    "coffee-bean": {
+      "codepoint": 58674,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "coffeeBean"
+    },
+    "coffee-bean-remix": {
+      "codepoint": 58675,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "coffeeBeanRemix"
+    },
+    "coffee-bean-solid": {
+      "codepoint": 58676,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "coffeeBeanSolid"
+    },
     "coffee-mug": {
       "codepoint": 57605,
       "fontFamily": "StreamlinePlump",
@@ -1381,10 +1591,30 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "colorPicker"
     },
+    "color-picker-remix": {
+      "codepoint": 58677,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "colorPickerRemix"
+    },
     "color-picker-solid": {
       "codepoint": 57615,
       "fontFamily": "StreamlinePlump",
       "identifier": "colorPickerSolid"
+    },
+    "command": {
+      "codepoint": 58678,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "command"
+    },
+    "command-remix": {
+      "codepoint": 58679,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "commandRemix"
+    },
+    "command-solid": {
+      "codepoint": 58680,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "commandSolid"
     },
     "compass-navigator": {
       "codepoint": 57616,
@@ -1406,6 +1636,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "compressPdf"
     },
+    "compress-pdf-remix": {
+      "codepoint": 58681,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "compressPdfRemix"
+    },
     "compress-pdf-solid": {
       "codepoint": 57620,
       "fontFamily": "StreamlinePlump",
@@ -1426,10 +1661,30 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "computerPcDesktopSolid"
     },
+    "contact-phonebook": {
+      "codepoint": 58682,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "contactPhonebook"
+    },
+    "contact-phonebook-remix": {
+      "codepoint": 58683,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "contactPhonebookRemix"
+    },
+    "contact-phonebook-solid": {
+      "codepoint": 58684,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "contactPhonebookSolid"
+    },
     "content-statistic": {
       "codepoint": 57624,
       "fontFamily": "StreamlinePlump",
       "identifier": "contentStatistic"
+    },
+    "content-statistic-remix": {
+      "codepoint": 58685,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "contentStatisticRemix"
     },
     "content-statistic-solid": {
       "codepoint": 57625,
@@ -1491,6 +1746,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "creditCard5Remix"
     },
+    "credit-card-5-solid": {
+      "codepoint": 58686,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "creditCard5Solid"
+    },
     "crop-selection": {
       "codepoint": 57637,
       "fontFamily": "StreamlinePlump",
@@ -1526,6 +1786,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "customerSupport7"
     },
+    "customer-support-7-remix": {
+      "codepoint": 58687,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "customerSupport7Remix"
+    },
     "customer-support-7-solid": {
       "codepoint": 57644,
       "fontFamily": "StreamlinePlump",
@@ -1535,6 +1800,11 @@
       "codepoint": 57645,
       "fontFamily": "StreamlinePlump",
       "identifier": "cut"
+    },
+    "cut-remix": {
+      "codepoint": 58688,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "cutRemix"
     },
     "cut-solid": {
       "codepoint": 57646,
@@ -1626,6 +1896,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "databaseServer3Solid"
     },
+    "database-solid": {
+      "codepoint": 58689,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "databaseSolid"
+    },
     "deepfake-technology-1": {
       "codepoint": 57664,
       "fontFamily": "StreamlinePlump",
@@ -1656,10 +1931,35 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "deleteBookmarkSolid"
     },
+    "delete-keyboard": {
+      "codepoint": 58690,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "deleteKeyboard"
+    },
+    "delete-keyboard-remix": {
+      "codepoint": 58691,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "deleteKeyboardRemix"
+    },
+    "delete-keyboard-solid": {
+      "codepoint": 58692,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "deleteKeyboardSolid"
+    },
     "delete-row": {
       "codepoint": 57670,
       "fontFamily": "StreamlinePlump",
       "identifier": "deleteRow"
+    },
+    "delete-row-remix": {
+      "codepoint": 58693,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "deleteRowRemix"
+    },
+    "delete-row-solid": {
+      "codepoint": 58694,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "deleteRowSolid"
     },
     "description": {
       "codepoint": 57671,
@@ -1756,10 +2056,20 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "dicesEntertainmentGamingDicesSolid"
     },
+    "disable-alarm": {
+      "codepoint": 58695,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "disableAlarm"
+    },
     "disable-alarm-remix": {
       "codepoint": 57690,
       "fontFamily": "StreamlinePlump",
       "identifier": "disableAlarmRemix"
+    },
+    "disable-alarm-solid": {
+      "codepoint": 58696,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "disableAlarmSolid"
     },
     "disable-heart": {
       "codepoint": 57691,
@@ -1956,6 +2266,16 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "drumStickSolid"
     },
+    "dumbell": {
+      "codepoint": 58697,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "dumbell"
+    },
+    "dumbell-remix": {
+      "codepoint": 58698,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "dumbellRemix"
+    },
     "dumbell-solid": {
       "codepoint": 57730,
       "fontFamily": "StreamlinePlump",
@@ -1975,6 +2295,21 @@
       "codepoint": 57733,
       "fontFamily": "StreamlinePlump",
       "identifier": "earSpecialitySolid"
+    },
+    "earpods": {
+      "codepoint": 58699,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "earpods"
+    },
+    "earpods-remix": {
+      "codepoint": 58700,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "earpodsRemix"
+    },
+    "earpods-solid": {
+      "codepoint": 58701,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "earpodsSolid"
     },
     "earth-1": {
       "codepoint": 57734,
@@ -2010,6 +2345,16 @@
       "codepoint": 57740,
       "fontFamily": "StreamlinePlump",
       "identifier": "electricCord1"
+    },
+    "electric-cord-1-remix": {
+      "codepoint": 58702,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "electricCord1Remix"
+    },
+    "electric-cord-1-solid": {
+      "codepoint": 58703,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "electricCord1Solid"
     },
     "email-attachment-document": {
       "codepoint": 57741,
@@ -2106,6 +2451,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "escalatorUp"
     },
+    "escalator-up-remix": {
+      "codepoint": 58704,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "escalatorUpRemix"
+    },
     "escalator-up-solid": {
       "codepoint": 57760,
       "fontFamily": "StreamlinePlump",
@@ -2165,6 +2515,21 @@
       "codepoint": 57771,
       "fontFamily": "StreamlinePlump",
       "identifier": "facebookLogo1Remix"
+    },
+    "factory-plant": {
+      "codepoint": 58705,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "factoryPlant"
+    },
+    "factory-plant-remix": {
+      "codepoint": 58706,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "factoryPlantRemix"
+    },
+    "factory-plant-solid": {
+      "codepoint": 58707,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "factoryPlantSolid"
     },
     "fahrenheit": {
       "codepoint": 57772,
@@ -2231,6 +2596,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "fileReport"
     },
+    "file-report-remix": {
+      "codepoint": 58708,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "fileReportRemix"
+    },
     "file-report-solid": {
       "codepoint": 57785,
       "fontFamily": "StreamlinePlump",
@@ -2271,6 +2641,16 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "filmSlate"
     },
+    "film-slate-remix": {
+      "codepoint": 58709,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "filmSlateRemix"
+    },
+    "film-slate-solid": {
+      "codepoint": 58710,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "filmSlateSolid"
+    },
     "filter-1": {
       "codepoint": 57793,
       "fontFamily": "StreamlinePlump",
@@ -2291,6 +2671,16 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "fingerprint2"
     },
+    "fingerprint-2-remix": {
+      "codepoint": 58711,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "fingerprint2Remix"
+    },
+    "fingerprint-2-solid": {
+      "codepoint": 58712,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "fingerprint2Solid"
+    },
     "fire-evacuation": {
       "codepoint": 57797,
       "fontFamily": "StreamlinePlump",
@@ -2305,6 +2695,11 @@
       "codepoint": 57799,
       "fontFamily": "StreamlinePlump",
       "identifier": "fireEvacuationSolid"
+    },
+    "firefighter-truck": {
+      "codepoint": 58713,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "firefighterTruck"
     },
     "firefighter-truck-remix": {
       "codepoint": 57800,
@@ -2401,10 +2796,20 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "flipHorizontalCircle1Solid"
     },
+    "floppy-disk": {
+      "codepoint": 58714,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "floppyDisk"
+    },
     "floppy-disk-remix": {
       "codepoint": 57819,
       "fontFamily": "StreamlinePlump",
       "identifier": "floppyDiskRemix"
+    },
+    "floppy-disk-solid": {
+      "codepoint": 58715,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "floppyDiskSolid"
     },
     "focus-points": {
       "codepoint": 57820,
@@ -2420,6 +2825,21 @@
       "codepoint": 57822,
       "fontFamily": "StreamlinePlump",
       "identifier": "focusPointsSolid"
+    },
+    "food-truck-event-fair": {
+      "codepoint": 58716,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "foodTruckEventFair"
+    },
+    "food-truck-event-fair-remix": {
+      "codepoint": 58717,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "foodTruckEventFairRemix"
+    },
+    "food-truck-event-fair-solid": {
+      "codepoint": 58718,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "foodTruckEventFairSolid"
     },
     "fork-knife": {
       "codepoint": 57823,
@@ -2455,6 +2875,16 @@
       "codepoint": 57829,
       "fontFamily": "StreamlinePlump",
       "identifier": "fragile"
+    },
+    "fragile-remix": {
+      "codepoint": 58719,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "fragileRemix"
+    },
+    "fragile-solid": {
+      "codepoint": 58720,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "fragileSolid"
     },
     "fried-egg-breakfast": {
       "codepoint": 57830,
@@ -2526,6 +2956,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "giftRemix"
     },
+    "gift-solid": {
+      "codepoint": 58721,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "giftSolid"
+    },
     "give-gift": {
       "codepoint": 57844,
       "fontFamily": "StreamlinePlump",
@@ -2590,6 +3025,16 @@
       "codepoint": 57856,
       "fontFamily": "StreamlinePlump",
       "identifier": "governmentBuilding1"
+    },
+    "government-building-1-remix": {
+      "codepoint": 58722,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "governmentBuilding1Remix"
+    },
+    "government-building-1-solid": {
+      "codepoint": 58723,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "governmentBuilding1Solid"
     },
     "graduation-cap": {
       "codepoint": 57857,
@@ -2686,10 +3131,30 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "handHeld"
     },
+    "hand-held-remix": {
+      "codepoint": 58724,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "handHeldRemix"
+    },
     "hand-held-solid": {
       "codepoint": 57876,
       "fontFamily": "StreamlinePlump",
       "identifier": "handHeldSolid"
+    },
+    "hard-drive-2": {
+      "codepoint": 58725,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "hardDrive2"
+    },
+    "hard-drive-2-remix": {
+      "codepoint": 58726,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "hardDrive2Remix"
+    },
+    "hard-drive-2-solid": {
+      "codepoint": 58727,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "hardDrive2Solid"
     },
     "heart-rate-pulse-graph": {
       "codepoint": 57877,
@@ -2761,10 +3226,20 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "hierarchy15Solid"
     },
+    "high-speed-train-side": {
+      "codepoint": 58728,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "highSpeedTrainSide"
+    },
     "high-speed-train-side-remix": {
       "codepoint": 57891,
       "fontFamily": "StreamlinePlump",
       "identifier": "highSpeedTrainSideRemix"
+    },
+    "high-speed-train-side-solid": {
+      "codepoint": 58729,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "highSpeedTrainSideSolid"
     },
     "home-1": {
       "codepoint": 57892,
@@ -2820,6 +3295,21 @@
       "codepoint": 57902,
       "fontFamily": "StreamlinePlump",
       "identifier": "horizontalSliderSquareSolid"
+    },
+    "hospital-sign-square": {
+      "codepoint": 58730,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "hospitalSignSquare"
+    },
+    "hospital-sign-square-remix": {
+      "codepoint": 58731,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "hospitalSignSquareRemix"
+    },
+    "hospital-sign-square-solid": {
+      "codepoint": 58732,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "hospitalSignSquareSolid"
     },
     "hot-air-balloon": {
       "codepoint": 57903,
@@ -2951,6 +3441,16 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "inboxContentSolid"
     },
+    "inbox-post": {
+      "codepoint": 58733,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "inboxPost"
+    },
+    "inbox-post-remix": {
+      "codepoint": 58734,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "inboxPostRemix"
+    },
     "inbox-post-solid": {
       "codepoint": 57929,
       "fontFamily": "StreamlinePlump",
@@ -3026,6 +3526,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "inputBoxRemix"
     },
+    "input-box-solid": {
+      "codepoint": 58735,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "inputBoxSolid"
+    },
     "insert-column": {
       "codepoint": 57944,
       "fontFamily": "StreamlinePlump",
@@ -3060,6 +3565,11 @@
       "codepoint": 57950,
       "fontFamily": "StreamlinePlump",
       "identifier": "insuranceHand"
+    },
+    "insurance-hand-remix": {
+      "codepoint": 58736,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "insuranceHandRemix"
     },
     "insurance-hand-solid": {
       "codepoint": 57951,
@@ -3176,6 +3686,16 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "justiceScale2"
     },
+    "justice-scale-2-remix": {
+      "codepoint": 58737,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "justiceScale2Remix"
+    },
+    "justice-scale-2-solid": {
+      "codepoint": 58738,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "justiceScale2Solid"
+    },
     "keyboard": {
       "codepoint": 57974,
       "fontFamily": "StreamlinePlump",
@@ -3210,6 +3730,31 @@
       "codepoint": 57980,
       "fontFamily": "StreamlinePlump",
       "identifier": "ladder"
+    },
+    "ladder-remix": {
+      "codepoint": 58739,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "ladderRemix"
+    },
+    "ladder-solid": {
+      "codepoint": 58740,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "ladderSolid"
+    },
+    "landing": {
+      "codepoint": 58741,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "landing"
+    },
+    "landing-remix": {
+      "codepoint": 58742,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "landingRemix"
+    },
+    "landing-solid": {
+      "codepoint": 58743,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "landingSolid"
     },
     "landscape-view": {
       "codepoint": 57981,
@@ -3276,10 +3821,30 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "layoutRightSidebar"
     },
+    "layout-right-sidebar-remix": {
+      "codepoint": 58744,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "layoutRightSidebarRemix"
+    },
+    "layout-right-sidebar-solid": {
+      "codepoint": 58745,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "layoutRightSidebarSolid"
+    },
     "layout-window-4": {
       "codepoint": 57994,
       "fontFamily": "StreamlinePlump",
       "identifier": "layoutWindow4"
+    },
+    "layout-window-4-remix": {
+      "codepoint": 58746,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "layoutWindow4Remix"
+    },
+    "layout-window-4-solid": {
+      "codepoint": 58747,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "layoutWindow4Solid"
     },
     "leaf-protect": {
       "codepoint": 57995,
@@ -3346,15 +3911,45 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "lightningCloud"
     },
+    "lightning-cloud-remix": {
+      "codepoint": 58748,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "lightningCloudRemix"
+    },
+    "lightning-cloud-solid": {
+      "codepoint": 58749,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "lightningCloudSolid"
+    },
     "like-1": {
       "codepoint": 58008,
       "fontFamily": "StreamlinePlump",
       "identifier": "like1"
     },
+    "like-1-remix": {
+      "codepoint": 58750,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "like1Remix"
+    },
+    "like-1-solid": {
+      "codepoint": 58751,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "like1Solid"
+    },
+    "line-arrow-expand-horizontal-remix": {
+      "codepoint": 58752,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "lineArrowExpandHorizontalRemix"
+    },
     "line-arrow-right-circle-2-remix": {
       "codepoint": 58009,
       "fontFamily": "StreamlinePlump",
       "identifier": "lineArrowRightCircle2Remix"
+    },
+    "line-arrow-transfer-horizontal-square-1-remix": {
+      "codepoint": 58753,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "lineArrowTransferHorizontalSquare1Remix"
     },
     "link-chain": {
       "codepoint": 58010,
@@ -3370,6 +3965,21 @@
       "codepoint": 58012,
       "fontFamily": "StreamlinePlump",
       "identifier": "linkChainSolid"
+    },
+    "lipstick": {
+      "codepoint": 58754,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "lipstick"
+    },
+    "lipstick-remix": {
+      "codepoint": 58755,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "lipstickRemix"
+    },
+    "lipstick-solid": {
+      "codepoint": 58756,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "lipstickSolid"
     },
     "loading-circle": {
       "codepoint": 58013,
@@ -3476,6 +4086,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "log"
     },
+    "log-remix": {
+      "codepoint": 58757,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "logRemix"
+    },
     "log-solid": {
       "codepoint": 58034,
       "fontFamily": "StreamlinePlump",
@@ -3485,6 +4100,11 @@
       "codepoint": 58035,
       "fontFamily": "StreamlinePlump",
       "identifier": "login1"
+    },
+    "login-1-remix": {
+      "codepoint": 58758,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "login1Remix"
     },
     "login-1-solid": {
       "codepoint": 58036,
@@ -3531,6 +4151,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "magnetRemix"
     },
+    "magnet-solid": {
+      "codepoint": 58759,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "magnetSolid"
+    },
     "mail-notification": {
       "codepoint": 58045,
       "fontFamily": "StreamlinePlump",
@@ -3555,6 +4180,11 @@
       "codepoint": 58049,
       "fontFamily": "StreamlinePlump",
       "identifier": "mailOutgoingRemix"
+    },
+    "mail-outgoing-solid": {
+      "codepoint": 58760,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "mailOutgoingSolid"
     },
     "mail-search": {
       "codepoint": 58050,
@@ -3691,6 +4321,21 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "mapLocationStarPinSolid"
     },
+    "maximize-1": {
+      "codepoint": 58761,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "maximize1"
+    },
+    "maximize-1-remix": {
+      "codepoint": 58762,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "maximize1Remix"
+    },
+    "maximize-1-solid": {
+      "codepoint": 58763,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "maximize1Solid"
+    },
     "medical-bag": {
       "codepoint": 58077,
       "fontFamily": "StreamlinePlump",
@@ -3746,6 +4391,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "microscopeObservationScieneRemix"
     },
+    "microscope-observation-sciene-solid": {
+      "codepoint": 58764,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "microscopeObservationScieneSolid"
+    },
     "module": {
       "codepoint": 58088,
       "fontFamily": "StreamlinePlump",
@@ -3755,6 +4405,11 @@
       "codepoint": 58089,
       "fontFamily": "StreamlinePlump",
       "identifier": "moduleRemix"
+    },
+    "module-solid": {
+      "codepoint": 58765,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "moduleSolid"
     },
     "money-cash-bill-1": {
       "codepoint": 58090,
@@ -3981,10 +4636,40 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "noSmakingArea"
     },
+    "no-smaking-area-remix": {
+      "codepoint": 58766,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "noSmakingAreaRemix"
+    },
+    "no-smaking-area-solid": {
+      "codepoint": 58767,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "noSmakingAreaSolid"
+    },
+    "no-touch-sign": {
+      "codepoint": 58768,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "noTouchSign"
+    },
+    "no-touch-sign-remix": {
+      "codepoint": 58769,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "noTouchSignRemix"
+    },
     "no-touch-sign-solid": {
       "codepoint": 58135,
       "fontFamily": "StreamlinePlump",
       "identifier": "noTouchSignSolid"
+    },
+    "notepad-text": {
+      "codepoint": 58770,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "notepadText"
+    },
+    "notepad-text-solid": {
+      "codepoint": 58771,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "notepadTextSolid"
     },
     "notification-alarm-snooze": {
       "codepoint": 58136,
@@ -4005,6 +4690,11 @@
       "codepoint": 58139,
       "fontFamily": "StreamlinePlump",
       "identifier": "notificationAlert"
+    },
+    "notification-alert-remix": {
+      "codepoint": 58772,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "notificationAlertRemix"
     },
     "notification-alert-solid": {
       "codepoint": 58140,
@@ -4076,6 +4766,16 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "oneHandedHoldingTabletHandheld"
     },
+    "one-handed-holding-tablet-handheld-remix": {
+      "codepoint": 58773,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "oneHandedHoldingTabletHandheldRemix"
+    },
+    "one-handed-holding-tablet-handheld-solid": {
+      "codepoint": 58774,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "oneHandedHoldingTabletHandheldSolid"
+    },
     "open-umbrella": {
       "codepoint": 58154,
       "fontFamily": "StreamlinePlump",
@@ -4111,6 +4811,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "padlockKey"
     },
+    "padlock-key-remix": {
+      "codepoint": 58775,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "padlockKeyRemix"
+    },
     "padlock-key-solid": {
       "codepoint": 58161,
       "fontFamily": "StreamlinePlump",
@@ -4120,6 +4825,11 @@
       "codepoint": 58162,
       "fontFamily": "StreamlinePlump",
       "identifier": "padlockSquare2"
+    },
+    "padlock-square-2-remix": {
+      "codepoint": 58776,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "padlockSquare2Remix"
     },
     "padlock-square-2-solid": {
       "codepoint": 58163,
@@ -4140,6 +4850,21 @@
       "codepoint": 58166,
       "fontFamily": "StreamlinePlump",
       "identifier": "pageSettingSolid"
+    },
+    "paint-bucket": {
+      "codepoint": 58777,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "paintBucket"
+    },
+    "paint-bucket-remix": {
+      "codepoint": 58778,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "paintBucketRemix"
+    },
+    "paint-bucket-solid": {
+      "codepoint": 58779,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "paintBucketSolid"
     },
     "paint-palette": {
       "codepoint": 58167,
@@ -4176,6 +4901,26 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "paintingBoard"
     },
+    "painting-board-remix": {
+      "codepoint": 58780,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "paintingBoardRemix"
+    },
+    "painting-board-solid": {
+      "codepoint": 58781,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "paintingBoardSolid"
+    },
+    "panoramic-screen": {
+      "codepoint": 58782,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "panoramicScreen"
+    },
+    "panoramic-screen-remix": {
+      "codepoint": 58783,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "panoramicScreenRemix"
+    },
     "panoramic-screen-solid": {
       "codepoint": 58174,
       "fontFamily": "StreamlinePlump",
@@ -4200,6 +4945,16 @@
       "codepoint": 58178,
       "fontFamily": "StreamlinePlump",
       "identifier": "park"
+    },
+    "park-remix": {
+      "codepoint": 58784,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "parkRemix"
+    },
+    "park-solid": {
+      "codepoint": 58785,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "parkSolid"
     },
     "password-lock": {
       "codepoint": 58179,
@@ -4235,6 +4990,11 @@
       "codepoint": 58185,
       "fontFamily": "StreamlinePlump",
       "identifier": "paymentRecieve7"
+    },
+    "payment-recieve-7-remix": {
+      "codepoint": 58786,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "paymentRecieve7Remix"
     },
     "payment-recieve-7-solid": {
       "codepoint": 58186,
@@ -4396,6 +5156,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "pinwheel"
     },
+    "pinwheel-remix": {
+      "codepoint": 58787,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "pinwheelRemix"
+    },
     "pinwheel-solid": {
       "codepoint": 58218,
       "fontFamily": "StreamlinePlump",
@@ -4451,6 +5216,16 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "politicsVote2"
     },
+    "politics-vote-2-remix": {
+      "codepoint": 58788,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "politicsVote2Remix"
+    },
+    "politics-vote-2-solid": {
+      "codepoint": 58789,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "politicsVote2Solid"
+    },
     "pool-ladder": {
       "codepoint": 58229,
       "fontFamily": "StreamlinePlump",
@@ -4480,6 +5255,21 @@
       "codepoint": 58234,
       "fontFamily": "StreamlinePlump",
       "identifier": "porkMeatSolid"
+    },
+    "potted-flower": {
+      "codepoint": 58790,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "pottedFlower"
+    },
+    "potted-flower-remix": {
+      "codepoint": 58791,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "pottedFlowerRemix"
+    },
+    "potted-flower-solid": {
+      "codepoint": 58792,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "pottedFlowerSolid"
     },
     "pound-circle": {
       "codepoint": 58235,
@@ -4516,6 +5306,31 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "printer"
     },
+    "printer-remix": {
+      "codepoint": 58793,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "printerRemix"
+    },
+    "printer-solid": {
+      "codepoint": 58794,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "printerSolid"
+    },
+    "production-belt": {
+      "codepoint": 58795,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "productionBelt"
+    },
+    "production-belt-remix": {
+      "codepoint": 58796,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "productionBeltRemix"
+    },
+    "production-belt-solid": {
+      "codepoint": 58797,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "productionBeltSolid"
+    },
     "projector-screen": {
       "codepoint": 58242,
       "fontFamily": "StreamlinePlump",
@@ -4546,10 +5361,20 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "pyramidShapeSolid"
     },
+    "quotation-2": {
+      "codepoint": 58798,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "quotation2"
+    },
     "quotation-2-remix": {
       "codepoint": 58248,
       "fontFamily": "StreamlinePlump",
       "identifier": "quotation2Remix"
+    },
+    "quotation-2-solid": {
+      "codepoint": 58799,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "quotation2Solid"
     },
     "radioactive-1": {
       "codepoint": 58249,
@@ -4636,6 +5461,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "recycleBin2"
     },
+    "recycle-bin-2-remix": {
+      "codepoint": 58800,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "recycleBin2Remix"
+    },
     "recycle-bin-2-solid": {
       "codepoint": 58266,
       "fontFamily": "StreamlinePlump",
@@ -4645,6 +5475,21 @@
       "codepoint": 58267,
       "fontFamily": "StreamlinePlump",
       "identifier": "recycleBin3"
+    },
+    "recycle-bin-3-remix": {
+      "codepoint": 58801,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "recycleBin3Remix"
+    },
+    "recycle-bin-3-solid": {
+      "codepoint": 58802,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "recycleBin3Solid"
+    },
+    "recycle-bin-remix": {
+      "codepoint": 58803,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "recycleBinRemix"
     },
     "recycle-bin-solid": {
       "codepoint": 58268,
@@ -4776,6 +5621,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "rssSquare"
     },
+    "rss-square-remix": {
+      "codepoint": 58804,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "rssSquareRemix"
+    },
     "rss-square-solid": {
       "codepoint": 58294,
       "fontFamily": "StreamlinePlump",
@@ -4785,6 +5635,16 @@
       "codepoint": 58295,
       "fontFamily": "StreamlinePlump",
       "identifier": "ruler"
+    },
+    "ruler-remix": {
+      "codepoint": 58805,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "rulerRemix"
+    },
+    "ruler-solid": {
+      "codepoint": 58806,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "rulerSolid"
     },
     "sad-face": {
       "codepoint": 58296,
@@ -4896,6 +5756,16 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "script2"
     },
+    "script-2-remix": {
+      "codepoint": 58807,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "script2Remix"
+    },
+    "script-2-solid": {
+      "codepoint": 58808,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "script2Solid"
+    },
     "sd-card": {
       "codepoint": 58318,
       "fontFamily": "StreamlinePlump",
@@ -4976,6 +5846,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "shareLock"
     },
+    "share-lock-remix": {
+      "codepoint": 58809,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "shareLockRemix"
+    },
     "share-lock-solid": {
       "codepoint": 58334,
       "fontFamily": "StreamlinePlump",
@@ -5001,6 +5876,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "shipmentUpload"
     },
+    "shipment-upload-remix": {
+      "codepoint": 58810,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "shipmentUploadRemix"
+    },
     "shipment-upload-solid": {
       "codepoint": 58339,
       "fontFamily": "StreamlinePlump",
@@ -5015,6 +5895,11 @@
       "codepoint": 58341,
       "fontFamily": "StreamlinePlump",
       "identifier": "shippingBox1Remix"
+    },
+    "shipping-box-1-solid": {
+      "codepoint": 58811,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "shippingBox1Solid"
     },
     "shopping-basket-1": {
       "codepoint": 58342,
@@ -5040,6 +5925,11 @@
       "codepoint": 58346,
       "fontFamily": "StreamlinePlump",
       "identifier": "shoppingCartAddRemix"
+    },
+    "shopping-cart-add-solid": {
+      "codepoint": 58812,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "shoppingCartAddSolid"
     },
     "shuffle": {
       "codepoint": 58347,
@@ -5201,10 +6091,20 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "smokingAreaRemix"
     },
+    "smoking-area-solid": {
+      "codepoint": 58813,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "smokingAreaSolid"
+    },
     "sofa": {
       "codepoint": 58379,
       "fontFamily": "StreamlinePlump",
       "identifier": "sofa"
+    },
+    "sofa-remix": {
+      "codepoint": 58814,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "sofaRemix"
     },
     "sofa-solid": {
       "codepoint": 58380,
@@ -5261,6 +6161,16 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "stamp"
     },
+    "stamp-remix": {
+      "codepoint": 58815,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "stampRemix"
+    },
+    "stamp-solid": {
+      "codepoint": 58816,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "stampSolid"
+    },
     "star-circle": {
       "codepoint": 58391,
       "fontFamily": "StreamlinePlump",
@@ -5280,6 +6190,11 @@
       "codepoint": 58394,
       "fontFamily": "StreamlinePlump",
       "identifier": "starMedal"
+    },
+    "star-medal-1-remix": {
+      "codepoint": 58817,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "starMedal1Remix"
     },
     "star-medal-solid": {
       "codepoint": 58395,
@@ -5320,6 +6235,16 @@
       "codepoint": 58402,
       "fontFamily": "StreamlinePlump",
       "identifier": "stool"
+    },
+    "stool-remix": {
+      "codepoint": 58818,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "stoolRemix"
+    },
+    "stool-solid": {
+      "codepoint": 58819,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "stoolSolid"
     },
     "stopwatch-half": {
       "codepoint": 58403,
@@ -5381,6 +6306,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "streetSignSolid"
     },
+    "stroller": {
+      "codepoint": 58820,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "stroller"
+    },
     "stroller-remix": {
       "codepoint": 58415,
       "fontFamily": "StreamlinePlump",
@@ -5391,10 +6321,20 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "strollerSolid"
     },
+    "suitcase-rolling": {
+      "codepoint": 58821,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "suitcaseRolling"
+    },
     "suitcase-rolling-remix": {
       "codepoint": 58417,
       "fontFamily": "StreamlinePlump",
       "identifier": "suitcaseRollingRemix"
+    },
+    "suitcase-rolling-solid": {
+      "codepoint": 58822,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "suitcaseRollingSolid"
     },
     "sun": {
       "codepoint": 58418,
@@ -5441,6 +6381,16 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "table"
     },
+    "table-remix": {
+      "codepoint": 58823,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "tableRemix"
+    },
+    "table-solid": {
+      "codepoint": 58824,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "tableSolid"
+    },
     "tablet-capsule": {
       "codepoint": 58427,
       "fontFamily": "StreamlinePlump",
@@ -5450,6 +6400,11 @@
       "codepoint": 58428,
       "fontFamily": "StreamlinePlump",
       "identifier": "tabletCapsuleRemix"
+    },
+    "tablet-capsule-solid": {
+      "codepoint": 58825,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "tabletCapsuleSolid"
     },
     "tag-alt": {
       "codepoint": 58429,
@@ -5521,6 +6476,26 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "telescopeRemix"
     },
+    "telescope-solid": {
+      "codepoint": 58826,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "telescopeSolid"
+    },
+    "test-tube": {
+      "codepoint": 58827,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "testTube"
+    },
+    "test-tube-remix": {
+      "codepoint": 58828,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "testTubeRemix"
+    },
+    "test-tube-solid": {
+      "codepoint": 58829,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "testTubeSolid"
+    },
     "text-box-1": {
       "codepoint": 58443,
       "fontFamily": "StreamlinePlump",
@@ -5560,6 +6535,11 @@
       "codepoint": 58450,
       "fontFamily": "StreamlinePlump",
       "identifier": "textShadowRemix"
+    },
+    "text-shadow-solid": {
+      "codepoint": 58830,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "textShadowSolid"
     },
     "theater-mask": {
       "codepoint": 58451,
@@ -5640,6 +6620,16 @@
       "codepoint": 58466,
       "fontFamily": "StreamlinePlump",
       "identifier": "toast"
+    },
+    "toast-remix": {
+      "codepoint": 58831,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "toastRemix"
+    },
+    "toast-solid": {
+      "codepoint": 58832,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "toastSolid"
     },
     "toilet-man": {
       "codepoint": 58467,
@@ -5726,6 +6716,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "trafficLightRemix"
     },
+    "traffic-light-solid": {
+      "codepoint": 58833,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "trafficLightSolid"
+    },
     "transparent": {
       "codepoint": 58484,
       "fontFamily": "StreamlinePlump",
@@ -5756,6 +6751,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "treasureChestRemix"
     },
+    "treasure-chest-solid": {
+      "codepoint": 58834,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "treasureChestSolid"
+    },
     "tree-1": {
       "codepoint": 58490,
       "fontFamily": "StreamlinePlump",
@@ -5765,6 +6765,11 @@
       "codepoint": 58491,
       "fontFamily": "StreamlinePlump",
       "identifier": "tree1Remix"
+    },
+    "tree-1-solid": {
+      "codepoint": 58835,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "tree1Solid"
     },
     "trending-content": {
       "codepoint": 58492,
@@ -5780,6 +6785,11 @@
       "codepoint": 58494,
       "fontFamily": "StreamlinePlump",
       "identifier": "trendingContentSolid"
+    },
+    "triangle-arrow-curvy-both-direction-2-remix": {
+      "codepoint": 58836,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "triangleArrowCurvyBothDirection2Remix"
     },
     "triangle-arrow-expand-remix": {
       "codepoint": 58495,
@@ -6121,6 +7131,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "voiceTypingWordConvertRemix"
     },
+    "voice-typing-word-convert-solid": {
+      "codepoint": 58837,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "voiceTypingWordConvertSolid"
+    },
     "volume-level-high": {
       "codepoint": 58563,
       "fontFamily": "StreamlinePlump",
@@ -6281,6 +7296,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "wavingHandRemix"
     },
+    "waving-hand-solid": {
+      "codepoint": 58838,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "wavingHandSolid"
+    },
     "web": {
       "codepoint": 58595,
       "fontFamily": "StreamlinePlump",
@@ -6386,6 +7406,11 @@
       "fontFamily": "StreamlinePlump",
       "identifier": "wine"
     },
+    "wine-remix": {
+      "codepoint": 58839,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "wineRemix"
+    },
     "wine-solid": {
       "codepoint": 58616,
       "fontFamily": "StreamlinePlump",
@@ -6395,6 +7420,16 @@
       "codepoint": 58617,
       "fontFamily": "StreamlinePlump",
       "identifier": "workspaceDesk"
+    },
+    "workspace-desk-remix": {
+      "codepoint": 58840,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "workspaceDeskRemix"
+    },
+    "workspace-desk-solid": {
+      "codepoint": 58841,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "workspaceDeskSolid"
     },
     "world": {
       "codepoint": 58618,
@@ -6465,6 +7500,11 @@
       "codepoint": 58631,
       "fontFamily": "StreamlinePlump",
       "identifier": "zoomInGesture"
+    },
+    "zoom-in-gesture-remix": {
+      "codepoint": 58842,
+      "fontFamily": "StreamlinePlump",
+      "identifier": "zoomInGestureRemix"
     },
     "zoom-in-gesture-solid": {
       "codepoint": 58632,

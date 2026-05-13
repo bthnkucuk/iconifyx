@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/jaynewey/charm-icons/blob/main/LICENSE"
     },
-    "total": 262
+    "total": 263
   },
   "fonts": [
     {
       "family": "Charm",
-      "nextCodepoint": 57606,
-      "iconCount": 262
+      "nextCodepoint": 57607,
+      "iconCount": 263
     }
   ],
   "icons": {
@@ -95,6 +95,11 @@
       "codepoint": 57357,
       "fontFamily": "Charm",
       "identifier": "atSign"
+    },
+    "atom": {
+      "codepoint": 57606,
+      "fontFamily": "Charm",
+      "identifier": "atom"
     },
     "bell": {
       "codepoint": 57358,

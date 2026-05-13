@@ -16,17 +16,17 @@
       "spdx": "CC-BY-4.0",
       "url": "https://github.com/CyCraft/pepicons/blob/dev/LICENSE"
     },
-    "total": 424
+    "total": 430
   },
   "fonts": [
     {
       "family": "Pepicons",
-      "nextCodepoint": 57768,
-      "iconCount": 424
+      "nextCodepoint": 57774,
+      "iconCount": 430
     },
     {
       "family": "PepiconsSecondary",
-      "nextCodepoint": 57768,
+      "nextCodepoint": 57774,
       "iconCount": 125
     }
   ],
@@ -421,6 +421,11 @@
       "codepoint": 57417,
       "fontFamily": "Pepicons",
       "identifier": "clapperboardPrint"
+    },
+    "clipboard": {
+      "codepoint": 57768,
+      "fontFamily": "Pepicons",
+      "identifier": "clipboard"
     },
     "clipboard-check": {
       "codepoint": 57418,
@@ -853,6 +858,11 @@
       "fontFamily": "Pepicons",
       "identifier": "flag2Print"
     },
+    "flower": {
+      "codepoint": 57769,
+      "fontFamily": "Pepicons",
+      "identifier": "flower"
+    },
     "flower-bud": {
       "codepoint": 57499,
       "fontFamily": "Pepicons",
@@ -991,6 +1001,16 @@
       "fontFamily": "Pepicons",
       "identifier": "handPointPrint"
     },
+    "handshake": {
+      "codepoint": 57770,
+      "fontFamily": "Pepicons",
+      "identifier": "handshake"
+    },
+    "handshake-print": {
+      "codepoint": 57771,
+      "fontFamily": "Pepicons",
+      "identifier": "handshakePrint"
+    },
     "hash": {
       "codepoint": 57525,
       "fontFamily": "Pepicons",
@@ -1044,6 +1064,11 @@
       "fontFamily": "Pepicons",
       "identifier": "housePrint",
       "duotone": true
+    },
+    "identification": {
+      "codepoint": 57772,
+      "fontFamily": "Pepicons",
+      "identifier": "identification"
     },
     "identification-print": {
       "codepoint": 57535,
@@ -2075,6 +2100,11 @@
       "codepoint": 57729,
       "fontFamily": "Pepicons",
       "identifier": "textBubble"
+    },
+    "text-bubble-print": {
+      "codepoint": 57773,
+      "fontFamily": "Pepicons",
+      "identifier": "textBubblePrint"
     },
     "text-bubbles": {
       "codepoint": 57730,

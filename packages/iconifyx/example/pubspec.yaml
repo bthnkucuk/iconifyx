@@ -152,6 +152,8 @@ dependencies:
     path: ../../iconifyx_flowbite
   iconifyx_fluent:
     path: ../../iconifyx_fluent
+  iconifyx_fluent_emoji:
+    path: ../../iconifyx_fluent_emoji
   iconifyx_fluent_emoji_flat:
     path: ../../iconifyx_fluent_emoji_flat
   iconifyx_fluent_emoji_high_contrast:
@@ -174,6 +176,8 @@ dependencies:
     path: ../../iconifyx_game_icons
   iconifyx_garden:
     path: ../../iconifyx_garden
+  iconifyx_gcp:
+    path: ../../iconifyx_gcp
   iconifyx_geo:
     path: ../../iconifyx_geo
   iconifyx_gg:
@@ -214,6 +218,8 @@ dependencies:
     path: ../../iconifyx_icon_park_outline
   iconifyx_icon_park_solid:
     path: ../../iconifyx_icon_park_solid
+  iconifyx_icon_park_twotone:
+    path: ../../iconifyx_icon_park_twotone
   iconifyx_iconamoon:
     path: ../../iconifyx_iconamoon
   iconifyx_iconoir:
@@ -256,6 +262,8 @@ dependencies:
     path: ../../iconifyx_maki
   iconifyx_map:
     path: ../../iconifyx_map
+  iconifyx_marketeq:
+    path: ../../iconifyx_marketeq
   iconifyx_material_icon_theme:
     path: ../../iconifyx_material_icon_theme
   iconifyx_material_symbols:
@@ -366,12 +374,16 @@ dependencies:
     path: ../../iconifyx_streamline_cyber
   iconifyx_streamline_cyber_color:
     path: ../../iconifyx_streamline_cyber_color
+  iconifyx_streamline_emojis:
+    path: ../../iconifyx_streamline_emojis
   iconifyx_streamline_flex:
     path: ../../iconifyx_streamline_flex
   iconifyx_streamline_flex_color:
     path: ../../iconifyx_streamline_flex_color
   iconifyx_streamline_freehand:
     path: ../../iconifyx_streamline_freehand
+  iconifyx_streamline_freehand_color:
+    path: ../../iconifyx_streamline_freehand_color
   iconifyx_streamline_kameleon_color:
     path: ../../iconifyx_streamline_kameleon_color
   iconifyx_streamline_logos:
@@ -390,6 +402,8 @@ dependencies:
     path: ../../iconifyx_streamline_stickies_color
   iconifyx_streamline_ultimate:
     path: ../../iconifyx_streamline_ultimate
+  iconifyx_streamline_ultimate_color:
+    path: ../../iconifyx_streamline_ultimate_color
   iconifyx_subway:
     path: ../../iconifyx_subway
   iconifyx_system_uicons:

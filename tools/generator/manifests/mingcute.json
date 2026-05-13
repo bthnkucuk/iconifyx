@@ -16,17 +16,17 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/Richard9394/MingCute/blob/main/LICENSE"
     },
-    "total": 3341
+    "total": 3352
   },
   "fonts": [
     {
       "family": "Mingcute",
-      "nextCodepoint": 60685,
-      "iconCount": 3341
+      "nextCodepoint": 60696,
+      "iconCount": 3352
     },
     {
       "family": "MingcuteSecondary",
-      "nextCodepoint": 60685,
+      "nextCodepoint": 60696,
       "iconCount": 2
     }
   ],
@@ -195,6 +195,11 @@
       "codepoint": 57376,
       "fontFamily": "Mingcute",
       "identifier": "airbnbFill"
+    },
+    "airbnb-line": {
+      "codepoint": 60685,
+      "fontFamily": "Mingcute",
+      "identifier": "airbnbLine"
     },
     "airdrop-fill": {
       "codepoint": 57377,
@@ -456,6 +461,11 @@
       "fontFamily": "Mingcute",
       "identifier": "alignVerticalCenterLine"
     },
+    "alipay-fill": {
+      "codepoint": 60686,
+      "fontFamily": "Mingcute",
+      "identifier": "alipayFill"
+    },
     "alipay-line": {
       "codepoint": 57429,
       "fontFamily": "Mingcute",
@@ -650,6 +660,16 @@
       "codepoint": 57467,
       "fontFamily": "Mingcute",
       "identifier": "archiveLine"
+    },
+    "aries-fill": {
+      "codepoint": 60687,
+      "fontFamily": "Mingcute",
+      "identifier": "ariesFill"
+    },
+    "aries-line": {
+      "codepoint": 60688,
+      "fontFamily": "Mingcute",
+      "identifier": "ariesLine"
     },
     "arow-to-down-fill": {
       "codepoint": 57468,
@@ -5966,6 +5986,11 @@
       "fontFamily": "Mingcute",
       "identifier": "faultFill"
     },
+    "fault-line": {
+      "codepoint": 60689,
+      "fontFamily": "Mingcute",
+      "identifier": "faultLine"
+    },
     "fax-fill": {
       "codepoint": 58531,
       "fontFamily": "Mingcute",
@@ -7691,6 +7716,11 @@
       "fontFamily": "Mingcute",
       "identifier": "handsClappingFill"
     },
+    "hands-clapping-line": {
+      "codepoint": 60690,
+      "fontFamily": "Mingcute",
+      "identifier": "handsClappingLine"
+    },
     "happy-fill": {
       "codepoint": 58876,
       "fontFamily": "Mingcute",
@@ -8160,6 +8190,16 @@
       "codepoint": 58969,
       "fontFamily": "Mingcute",
       "identifier": "hoodLine"
+    },
+    "hop-fill": {
+      "codepoint": 60691,
+      "fontFamily": "Mingcute",
+      "identifier": "hopFill"
+    },
+    "hop-line": {
+      "codepoint": 60692,
+      "fontFamily": "Mingcute",
+      "identifier": "hopLine"
     },
     "horn-2-fill": {
       "codepoint": 58970,
@@ -9332,6 +9372,16 @@
       "codepoint": 59203,
       "fontFamily": "Mingcute",
       "identifier": "loading4Line"
+    },
+    "loading-fill": {
+      "codepoint": 60693,
+      "fontFamily": "Mingcute",
+      "identifier": "loadingFill"
+    },
+    "loading-line": {
+      "codepoint": 60694,
+      "fontFamily": "Mingcute",
+      "identifier": "loadingLine"
     },
     "location-2-fill": {
       "codepoint": 59204,
@@ -10682,6 +10732,11 @@
       "codepoint": 59473,
       "fontFamily": "Mingcute",
       "identifier": "paintBrushAiLine"
+    },
+    "paint-brush-fill": {
+      "codepoint": 60695,
+      "fontFamily": "Mingcute",
+      "identifier": "paintBrushFill"
     },
     "paint-brush-line": {
       "codepoint": 59474,

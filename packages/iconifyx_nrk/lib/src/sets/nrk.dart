@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Norsk rikskringkasting
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 240 (split across 2 fonts)
+/// Icons: 241 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -579,6 +579,13 @@ class NrkIcons {
   /// `hardware-tablet`
   static const IconifyIconData hardwareTablet = IconifyIconData(IconData(
     0xe04d,
+    fontFamily: 'Nrk',
+    fontPackage: 'iconifyx_nrk',
+  ));
+
+  /// `hardware-tv`
+  static const IconifyIconData hardwareTv = IconifyIconData(IconData(
+    0xe0f0,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));

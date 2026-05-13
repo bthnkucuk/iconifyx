@@ -16,35 +16,2175 @@
       "spdx": "MIT",
       "url": "https://github.com/basmilius/weather-icons/blob/dev/LICENSE"
     },
-    "total": 4
+    "total": 432
   },
   "fonts": [
     {
       "family": "Meteocons",
-      "nextCodepoint": 57348,
-      "iconCount": 4
+      "nextCodepoint": 57776,
+      "iconCount": 432
     }
   ],
   "icons": {
+    "barometer": {
+      "codepoint": 57348,
+      "fontFamily": "Meteocons",
+      "identifier": "barometer"
+    },
+    "barometer-fill": {
+      "codepoint": 57349,
+      "fontFamily": "Meteocons",
+      "identifier": "barometerFill"
+    },
+    "beanie": {
+      "codepoint": 57350,
+      "fontFamily": "Meteocons",
+      "identifier": "beanie"
+    },
+    "beanie-fill": {
+      "codepoint": 57351,
+      "fontFamily": "Meteocons",
+      "identifier": "beanieFill"
+    },
+    "clear-day": {
+      "codepoint": 57352,
+      "fontFamily": "Meteocons",
+      "identifier": "clearDay"
+    },
+    "clear-day-fill": {
+      "codepoint": 57353,
+      "fontFamily": "Meteocons",
+      "identifier": "clearDayFill"
+    },
+    "clear-night": {
+      "codepoint": 57354,
+      "fontFamily": "Meteocons",
+      "identifier": "clearNight"
+    },
+    "clear-night-fill": {
+      "codepoint": 57355,
+      "fontFamily": "Meteocons",
+      "identifier": "clearNightFill"
+    },
+    "cloud-down": {
+      "codepoint": 57356,
+      "fontFamily": "Meteocons",
+      "identifier": "cloudDown"
+    },
+    "cloud-down-fill": {
+      "codepoint": 57357,
+      "fontFamily": "Meteocons",
+      "identifier": "cloudDownFill"
+    },
+    "cloud-up": {
+      "codepoint": 57358,
+      "fontFamily": "Meteocons",
+      "identifier": "cloudUp"
+    },
+    "cloud-up-fill": {
+      "codepoint": 57359,
+      "fontFamily": "Meteocons",
+      "identifier": "cloudUpFill"
+    },
+    "cloudy": {
+      "codepoint": 57360,
+      "fontFamily": "Meteocons",
+      "identifier": "cloudy"
+    },
+    "cloudy-fill": {
+      "codepoint": 57361,
+      "fontFamily": "Meteocons",
+      "identifier": "cloudyFill"
+    },
     "code-green": {
       "codepoint": 57344,
       "fontFamily": "Meteocons",
       "identifier": "codeGreen"
+    },
+    "code-green-fill": {
+      "codepoint": 57362,
+      "fontFamily": "Meteocons",
+      "identifier": "codeGreenFill"
     },
     "code-orange": {
       "codepoint": 57345,
       "fontFamily": "Meteocons",
       "identifier": "codeOrange"
     },
+    "code-orange-fill": {
+      "codepoint": 57363,
+      "fontFamily": "Meteocons",
+      "identifier": "codeOrangeFill"
+    },
+    "code-red": {
+      "codepoint": 57364,
+      "fontFamily": "Meteocons",
+      "identifier": "codeRed"
+    },
+    "code-red-fill": {
+      "codepoint": 57365,
+      "fontFamily": "Meteocons",
+      "identifier": "codeRedFill"
+    },
     "code-yellow": {
       "codepoint": 57346,
       "fontFamily": "Meteocons",
       "identifier": "codeYellow"
     },
+    "code-yellow-fill": {
+      "codepoint": 57366,
+      "fontFamily": "Meteocons",
+      "identifier": "codeYellowFill"
+    },
+    "compass-fill": {
+      "codepoint": 57367,
+      "fontFamily": "Meteocons",
+      "identifier": "compassFill"
+    },
+    "drizzle": {
+      "codepoint": 57368,
+      "fontFamily": "Meteocons",
+      "identifier": "drizzle"
+    },
+    "drizzle-fill": {
+      "codepoint": 57369,
+      "fontFamily": "Meteocons",
+      "identifier": "drizzleFill"
+    },
+    "dust": {
+      "codepoint": 57370,
+      "fontFamily": "Meteocons",
+      "identifier": "dust"
+    },
+    "dust-day": {
+      "codepoint": 57371,
+      "fontFamily": "Meteocons",
+      "identifier": "dustDay"
+    },
+    "dust-day-fill": {
+      "codepoint": 57372,
+      "fontFamily": "Meteocons",
+      "identifier": "dustDayFill"
+    },
+    "dust-fill": {
+      "codepoint": 57373,
+      "fontFamily": "Meteocons",
+      "identifier": "dustFill"
+    },
+    "dust-night": {
+      "codepoint": 57374,
+      "fontFamily": "Meteocons",
+      "identifier": "dustNight"
+    },
+    "dust-night-fill": {
+      "codepoint": 57375,
+      "fontFamily": "Meteocons",
+      "identifier": "dustNightFill"
+    },
+    "dust-wind": {
+      "codepoint": 57376,
+      "fontFamily": "Meteocons",
+      "identifier": "dustWind"
+    },
+    "dust-wind-fill": {
+      "codepoint": 57377,
+      "fontFamily": "Meteocons",
+      "identifier": "dustWindFill"
+    },
+    "extreme": {
+      "codepoint": 57378,
+      "fontFamily": "Meteocons",
+      "identifier": "extreme"
+    },
+    "extreme-day": {
+      "codepoint": 57379,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeDay"
+    },
+    "extreme-day-drizzle": {
+      "codepoint": 57380,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeDayDrizzle"
+    },
+    "extreme-day-drizzle-fill": {
+      "codepoint": 57381,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeDayDrizzleFill"
+    },
+    "extreme-day-fill": {
+      "codepoint": 57382,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeDayFill"
+    },
+    "extreme-day-fog": {
+      "codepoint": 57383,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeDayFog"
+    },
+    "extreme-day-fog-fill": {
+      "codepoint": 57384,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeDayFogFill"
+    },
+    "extreme-day-hail": {
+      "codepoint": 57385,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeDayHail"
+    },
+    "extreme-day-hail-fill": {
+      "codepoint": 57386,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeDayHailFill"
+    },
+    "extreme-day-haze": {
+      "codepoint": 57387,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeDayHaze"
+    },
+    "extreme-day-haze-fill": {
+      "codepoint": 57388,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeDayHazeFill"
+    },
+    "extreme-day-rain": {
+      "codepoint": 57389,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeDayRain"
+    },
+    "extreme-day-rain-fill": {
+      "codepoint": 57390,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeDayRainFill"
+    },
+    "extreme-day-sleet": {
+      "codepoint": 57391,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeDaySleet"
+    },
+    "extreme-day-sleet-fill": {
+      "codepoint": 57392,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeDaySleetFill"
+    },
+    "extreme-day-smoke": {
+      "codepoint": 57393,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeDaySmoke"
+    },
+    "extreme-day-smoke-fill": {
+      "codepoint": 57394,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeDaySmokeFill"
+    },
+    "extreme-day-snow": {
+      "codepoint": 57395,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeDaySnow"
+    },
+    "extreme-day-snow-fill": {
+      "codepoint": 57396,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeDaySnowFill"
+    },
+    "extreme-drizzle": {
+      "codepoint": 57397,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeDrizzle"
+    },
+    "extreme-drizzle-fill": {
+      "codepoint": 57398,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeDrizzleFill"
+    },
+    "extreme-fill": {
+      "codepoint": 57399,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeFill"
+    },
+    "extreme-fog": {
+      "codepoint": 57400,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeFog"
+    },
+    "extreme-fog-fill": {
+      "codepoint": 57401,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeFogFill"
+    },
+    "extreme-hail": {
+      "codepoint": 57402,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeHail"
+    },
+    "extreme-hail-fill": {
+      "codepoint": 57403,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeHailFill"
+    },
+    "extreme-haze": {
+      "codepoint": 57404,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeHaze"
+    },
+    "extreme-haze-fill": {
+      "codepoint": 57405,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeHazeFill"
+    },
+    "extreme-night": {
+      "codepoint": 57406,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeNight"
+    },
+    "extreme-night-drizzle": {
+      "codepoint": 57407,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeNightDrizzle"
+    },
+    "extreme-night-drizzle-fill": {
+      "codepoint": 57408,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeNightDrizzleFill"
+    },
+    "extreme-night-fill": {
+      "codepoint": 57409,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeNightFill"
+    },
+    "extreme-night-fog": {
+      "codepoint": 57410,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeNightFog"
+    },
+    "extreme-night-fog-fill": {
+      "codepoint": 57411,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeNightFogFill"
+    },
+    "extreme-night-hail": {
+      "codepoint": 57412,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeNightHail"
+    },
+    "extreme-night-hail-fill": {
+      "codepoint": 57413,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeNightHailFill"
+    },
+    "extreme-night-haze": {
+      "codepoint": 57414,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeNightHaze"
+    },
+    "extreme-night-haze-fill": {
+      "codepoint": 57415,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeNightHazeFill"
+    },
+    "extreme-night-rain": {
+      "codepoint": 57416,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeNightRain"
+    },
+    "extreme-night-rain-fill": {
+      "codepoint": 57417,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeNightRainFill"
+    },
+    "extreme-night-sleet": {
+      "codepoint": 57418,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeNightSleet"
+    },
+    "extreme-night-sleet-fill": {
+      "codepoint": 57419,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeNightSleetFill"
+    },
+    "extreme-night-smoke": {
+      "codepoint": 57420,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeNightSmoke"
+    },
+    "extreme-night-smoke-fill": {
+      "codepoint": 57421,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeNightSmokeFill"
+    },
+    "extreme-night-snow": {
+      "codepoint": 57422,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeNightSnow"
+    },
+    "extreme-night-snow-fill": {
+      "codepoint": 57423,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeNightSnowFill"
+    },
+    "extreme-rain": {
+      "codepoint": 57424,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeRain"
+    },
+    "extreme-rain-fill": {
+      "codepoint": 57425,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeRainFill"
+    },
+    "extreme-sleet": {
+      "codepoint": 57426,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeSleet"
+    },
+    "extreme-sleet-fill": {
+      "codepoint": 57427,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeSleetFill"
+    },
+    "extreme-smoke": {
+      "codepoint": 57428,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeSmoke"
+    },
+    "extreme-smoke-fill": {
+      "codepoint": 57429,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeSmokeFill"
+    },
+    "extreme-snow": {
+      "codepoint": 57430,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeSnow"
+    },
+    "extreme-snow-fill": {
+      "codepoint": 57431,
+      "fontFamily": "Meteocons",
+      "identifier": "extremeSnowFill"
+    },
+    "falling-stars": {
+      "codepoint": 57432,
+      "fontFamily": "Meteocons",
+      "identifier": "fallingStars"
+    },
+    "falling-stars-fill": {
+      "codepoint": 57433,
+      "fontFamily": "Meteocons",
+      "identifier": "fallingStarsFill"
+    },
+    "flag-gale-warning": {
+      "codepoint": 57434,
+      "fontFamily": "Meteocons",
+      "identifier": "flagGaleWarning"
+    },
+    "flag-gale-warning-fill": {
+      "codepoint": 57435,
+      "fontFamily": "Meteocons",
+      "identifier": "flagGaleWarningFill"
+    },
+    "flag-hurricane-warning": {
+      "codepoint": 57436,
+      "fontFamily": "Meteocons",
+      "identifier": "flagHurricaneWarning"
+    },
+    "flag-hurricane-warning-fill": {
+      "codepoint": 57437,
+      "fontFamily": "Meteocons",
+      "identifier": "flagHurricaneWarningFill"
+    },
+    "flag-small-craft-advisory": {
+      "codepoint": 57438,
+      "fontFamily": "Meteocons",
+      "identifier": "flagSmallCraftAdvisory"
+    },
+    "flag-small-craft-advisory-fill": {
+      "codepoint": 57439,
+      "fontFamily": "Meteocons",
+      "identifier": "flagSmallCraftAdvisoryFill"
+    },
+    "flag-storm-warning": {
+      "codepoint": 57440,
+      "fontFamily": "Meteocons",
+      "identifier": "flagStormWarning"
+    },
+    "flag-storm-warning-fill": {
+      "codepoint": 57441,
+      "fontFamily": "Meteocons",
+      "identifier": "flagStormWarningFill"
+    },
+    "fog": {
+      "codepoint": 57442,
+      "fontFamily": "Meteocons",
+      "identifier": "fog"
+    },
+    "fog-day": {
+      "codepoint": 57443,
+      "fontFamily": "Meteocons",
+      "identifier": "fogDay"
+    },
+    "fog-day-fill": {
+      "codepoint": 57444,
+      "fontFamily": "Meteocons",
+      "identifier": "fogDayFill"
+    },
+    "fog-fill": {
+      "codepoint": 57445,
+      "fontFamily": "Meteocons",
+      "identifier": "fogFill"
+    },
+    "fog-night": {
+      "codepoint": 57446,
+      "fontFamily": "Meteocons",
+      "identifier": "fogNight"
+    },
+    "fog-night-fill": {
+      "codepoint": 57447,
+      "fontFamily": "Meteocons",
+      "identifier": "fogNightFill"
+    },
+    "glove": {
+      "codepoint": 57448,
+      "fontFamily": "Meteocons",
+      "identifier": "glove"
+    },
+    "glove-fill": {
+      "codepoint": 57449,
+      "fontFamily": "Meteocons",
+      "identifier": "gloveFill"
+    },
+    "hail": {
+      "codepoint": 57450,
+      "fontFamily": "Meteocons",
+      "identifier": "hail"
+    },
+    "hail-fill": {
+      "codepoint": 57451,
+      "fontFamily": "Meteocons",
+      "identifier": "hailFill"
+    },
+    "haze": {
+      "codepoint": 57452,
+      "fontFamily": "Meteocons",
+      "identifier": "haze"
+    },
+    "haze-day": {
+      "codepoint": 57453,
+      "fontFamily": "Meteocons",
+      "identifier": "hazeDay"
+    },
+    "haze-day-fill": {
+      "codepoint": 57454,
+      "fontFamily": "Meteocons",
+      "identifier": "hazeDayFill"
+    },
+    "haze-fill": {
+      "codepoint": 57455,
+      "fontFamily": "Meteocons",
+      "identifier": "hazeFill"
+    },
+    "haze-night": {
+      "codepoint": 57456,
+      "fontFamily": "Meteocons",
+      "identifier": "hazeNight"
+    },
+    "haze-night-fill": {
+      "codepoint": 57457,
+      "fontFamily": "Meteocons",
+      "identifier": "hazeNightFill"
+    },
+    "horizon": {
+      "codepoint": 57458,
+      "fontFamily": "Meteocons",
+      "identifier": "horizon"
+    },
+    "horizon-fill": {
+      "codepoint": 57459,
+      "fontFamily": "Meteocons",
+      "identifier": "horizonFill"
+    },
+    "humidity": {
+      "codepoint": 57460,
+      "fontFamily": "Meteocons",
+      "identifier": "humidity"
+    },
+    "humidity-fill": {
+      "codepoint": 57461,
+      "fontFamily": "Meteocons",
+      "identifier": "humidityFill"
+    },
+    "hurricane": {
+      "codepoint": 57462,
+      "fontFamily": "Meteocons",
+      "identifier": "hurricane"
+    },
+    "hurricane-fill": {
+      "codepoint": 57463,
+      "fontFamily": "Meteocons",
+      "identifier": "hurricaneFill"
+    },
+    "lightning-bolt": {
+      "codepoint": 57464,
+      "fontFamily": "Meteocons",
+      "identifier": "lightningBolt"
+    },
+    "lightning-bolt-fill": {
+      "codepoint": 57465,
+      "fontFamily": "Meteocons",
+      "identifier": "lightningBoltFill"
+    },
+    "mist": {
+      "codepoint": 57466,
+      "fontFamily": "Meteocons",
+      "identifier": "mist"
+    },
+    "mist-fill": {
+      "codepoint": 57467,
+      "fontFamily": "Meteocons",
+      "identifier": "mistFill"
+    },
+    "moon-first-quarter": {
+      "codepoint": 57468,
+      "fontFamily": "Meteocons",
+      "identifier": "moonFirstQuarter"
+    },
+    "moon-first-quarter-fill": {
+      "codepoint": 57469,
+      "fontFamily": "Meteocons",
+      "identifier": "moonFirstQuarterFill"
+    },
     "moon-full": {
       "codepoint": 57347,
       "fontFamily": "Meteocons",
       "identifier": "moonFull"
+    },
+    "moon-full-fill": {
+      "codepoint": 57470,
+      "fontFamily": "Meteocons",
+      "identifier": "moonFullFill"
+    },
+    "moon-last-quarter": {
+      "codepoint": 57471,
+      "fontFamily": "Meteocons",
+      "identifier": "moonLastQuarter"
+    },
+    "moon-last-quarter-fill": {
+      "codepoint": 57472,
+      "fontFamily": "Meteocons",
+      "identifier": "moonLastQuarterFill"
+    },
+    "moon-new": {
+      "codepoint": 57473,
+      "fontFamily": "Meteocons",
+      "identifier": "moonNew"
+    },
+    "moon-new-fill": {
+      "codepoint": 57474,
+      "fontFamily": "Meteocons",
+      "identifier": "moonNewFill"
+    },
+    "moon-waning-crescent": {
+      "codepoint": 57475,
+      "fontFamily": "Meteocons",
+      "identifier": "moonWaningCrescent"
+    },
+    "moon-waning-crescent-fill": {
+      "codepoint": 57476,
+      "fontFamily": "Meteocons",
+      "identifier": "moonWaningCrescentFill"
+    },
+    "moon-waning-gibbous": {
+      "codepoint": 57477,
+      "fontFamily": "Meteocons",
+      "identifier": "moonWaningGibbous"
+    },
+    "moon-waning-gibbous-fill": {
+      "codepoint": 57478,
+      "fontFamily": "Meteocons",
+      "identifier": "moonWaningGibbousFill"
+    },
+    "moon-waxing-crescent": {
+      "codepoint": 57479,
+      "fontFamily": "Meteocons",
+      "identifier": "moonWaxingCrescent"
+    },
+    "moon-waxing-crescent-fill": {
+      "codepoint": 57480,
+      "fontFamily": "Meteocons",
+      "identifier": "moonWaxingCrescentFill"
+    },
+    "moon-waxing-gibbous": {
+      "codepoint": 57481,
+      "fontFamily": "Meteocons",
+      "identifier": "moonWaxingGibbous"
+    },
+    "moon-waxing-gibbous-fill": {
+      "codepoint": 57482,
+      "fontFamily": "Meteocons",
+      "identifier": "moonWaxingGibbousFill"
+    },
+    "moonrise": {
+      "codepoint": 57483,
+      "fontFamily": "Meteocons",
+      "identifier": "moonrise"
+    },
+    "moonrise-fill": {
+      "codepoint": 57484,
+      "fontFamily": "Meteocons",
+      "identifier": "moonriseFill"
+    },
+    "moonset": {
+      "codepoint": 57485,
+      "fontFamily": "Meteocons",
+      "identifier": "moonset"
+    },
+    "moonset-fill": {
+      "codepoint": 57486,
+      "fontFamily": "Meteocons",
+      "identifier": "moonsetFill"
+    },
+    "overcast": {
+      "codepoint": 57487,
+      "fontFamily": "Meteocons",
+      "identifier": "overcast"
+    },
+    "overcast-day": {
+      "codepoint": 57488,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastDay"
+    },
+    "overcast-day-drizzle": {
+      "codepoint": 57489,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastDayDrizzle"
+    },
+    "overcast-day-drizzle-fill": {
+      "codepoint": 57490,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastDayDrizzleFill"
+    },
+    "overcast-day-fill": {
+      "codepoint": 57491,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastDayFill"
+    },
+    "overcast-day-fog": {
+      "codepoint": 57492,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastDayFog"
+    },
+    "overcast-day-fog-fill": {
+      "codepoint": 57493,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastDayFogFill"
+    },
+    "overcast-day-hail": {
+      "codepoint": 57494,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastDayHail"
+    },
+    "overcast-day-hail-fill": {
+      "codepoint": 57495,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastDayHailFill"
+    },
+    "overcast-day-haze": {
+      "codepoint": 57496,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastDayHaze"
+    },
+    "overcast-day-haze-fill": {
+      "codepoint": 57497,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastDayHazeFill"
+    },
+    "overcast-day-rain": {
+      "codepoint": 57498,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastDayRain"
+    },
+    "overcast-day-rain-fill": {
+      "codepoint": 57499,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastDayRainFill"
+    },
+    "overcast-day-sleet": {
+      "codepoint": 57500,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastDaySleet"
+    },
+    "overcast-day-sleet-fill": {
+      "codepoint": 57501,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastDaySleetFill"
+    },
+    "overcast-day-smoke": {
+      "codepoint": 57502,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastDaySmoke"
+    },
+    "overcast-day-smoke-fill": {
+      "codepoint": 57503,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastDaySmokeFill"
+    },
+    "overcast-day-snow": {
+      "codepoint": 57504,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastDaySnow"
+    },
+    "overcast-day-snow-fill": {
+      "codepoint": 57505,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastDaySnowFill"
+    },
+    "overcast-drizzle": {
+      "codepoint": 57506,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastDrizzle"
+    },
+    "overcast-drizzle-fill": {
+      "codepoint": 57507,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastDrizzleFill"
+    },
+    "overcast-fill": {
+      "codepoint": 57508,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastFill"
+    },
+    "overcast-fog": {
+      "codepoint": 57509,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastFog"
+    },
+    "overcast-fog-fill": {
+      "codepoint": 57510,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastFogFill"
+    },
+    "overcast-hail": {
+      "codepoint": 57511,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastHail"
+    },
+    "overcast-hail-fill": {
+      "codepoint": 57512,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastHailFill"
+    },
+    "overcast-haze": {
+      "codepoint": 57513,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastHaze"
+    },
+    "overcast-haze-fill": {
+      "codepoint": 57514,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastHazeFill"
+    },
+    "overcast-night": {
+      "codepoint": 57515,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastNight"
+    },
+    "overcast-night-drizzle": {
+      "codepoint": 57516,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastNightDrizzle"
+    },
+    "overcast-night-drizzle-fill": {
+      "codepoint": 57517,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastNightDrizzleFill"
+    },
+    "overcast-night-fill": {
+      "codepoint": 57518,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastNightFill"
+    },
+    "overcast-night-fog": {
+      "codepoint": 57519,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastNightFog"
+    },
+    "overcast-night-fog-fill": {
+      "codepoint": 57520,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastNightFogFill"
+    },
+    "overcast-night-hail": {
+      "codepoint": 57521,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastNightHail"
+    },
+    "overcast-night-hail-fill": {
+      "codepoint": 57522,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastNightHailFill"
+    },
+    "overcast-night-haze": {
+      "codepoint": 57523,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastNightHaze"
+    },
+    "overcast-night-haze-fill": {
+      "codepoint": 57524,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastNightHazeFill"
+    },
+    "overcast-night-rain": {
+      "codepoint": 57525,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastNightRain"
+    },
+    "overcast-night-rain-fill": {
+      "codepoint": 57526,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastNightRainFill"
+    },
+    "overcast-night-sleet": {
+      "codepoint": 57527,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastNightSleet"
+    },
+    "overcast-night-sleet-fill": {
+      "codepoint": 57528,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastNightSleetFill"
+    },
+    "overcast-night-smoke": {
+      "codepoint": 57529,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastNightSmoke"
+    },
+    "overcast-night-smoke-fill": {
+      "codepoint": 57530,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastNightSmokeFill"
+    },
+    "overcast-night-snow": {
+      "codepoint": 57531,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastNightSnow"
+    },
+    "overcast-night-snow-fill": {
+      "codepoint": 57532,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastNightSnowFill"
+    },
+    "overcast-rain": {
+      "codepoint": 57533,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastRain"
+    },
+    "overcast-rain-fill": {
+      "codepoint": 57534,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastRainFill"
+    },
+    "overcast-sleet": {
+      "codepoint": 57535,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastSleet"
+    },
+    "overcast-sleet-fill": {
+      "codepoint": 57536,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastSleetFill"
+    },
+    "overcast-smoke": {
+      "codepoint": 57537,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastSmoke"
+    },
+    "overcast-smoke-fill": {
+      "codepoint": 57538,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastSmokeFill"
+    },
+    "overcast-snow": {
+      "codepoint": 57539,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastSnow"
+    },
+    "overcast-snow-fill": {
+      "codepoint": 57540,
+      "fontFamily": "Meteocons",
+      "identifier": "overcastSnowFill"
+    },
+    "partly-cloudy-day": {
+      "codepoint": 57541,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyDay"
+    },
+    "partly-cloudy-day-drizzle": {
+      "codepoint": 57542,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyDayDrizzle"
+    },
+    "partly-cloudy-day-drizzle-fill": {
+      "codepoint": 57543,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyDayDrizzleFill"
+    },
+    "partly-cloudy-day-fill": {
+      "codepoint": 57544,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyDayFill"
+    },
+    "partly-cloudy-day-fog": {
+      "codepoint": 57545,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyDayFog"
+    },
+    "partly-cloudy-day-fog-fill": {
+      "codepoint": 57546,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyDayFogFill"
+    },
+    "partly-cloudy-day-hail": {
+      "codepoint": 57547,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyDayHail"
+    },
+    "partly-cloudy-day-hail-fill": {
+      "codepoint": 57548,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyDayHailFill"
+    },
+    "partly-cloudy-day-haze": {
+      "codepoint": 57549,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyDayHaze"
+    },
+    "partly-cloudy-day-haze-fill": {
+      "codepoint": 57550,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyDayHazeFill"
+    },
+    "partly-cloudy-day-rain": {
+      "codepoint": 57551,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyDayRain"
+    },
+    "partly-cloudy-day-rain-fill": {
+      "codepoint": 57552,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyDayRainFill"
+    },
+    "partly-cloudy-day-sleet": {
+      "codepoint": 57553,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyDaySleet"
+    },
+    "partly-cloudy-day-sleet-fill": {
+      "codepoint": 57554,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyDaySleetFill"
+    },
+    "partly-cloudy-day-smoke": {
+      "codepoint": 57555,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyDaySmoke"
+    },
+    "partly-cloudy-day-smoke-fill": {
+      "codepoint": 57556,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyDaySmokeFill"
+    },
+    "partly-cloudy-day-snow": {
+      "codepoint": 57557,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyDaySnow"
+    },
+    "partly-cloudy-day-snow-fill": {
+      "codepoint": 57558,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyDaySnowFill"
+    },
+    "partly-cloudy-night": {
+      "codepoint": 57559,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyNight"
+    },
+    "partly-cloudy-night-drizzle": {
+      "codepoint": 57560,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyNightDrizzle"
+    },
+    "partly-cloudy-night-drizzle-fill": {
+      "codepoint": 57561,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyNightDrizzleFill"
+    },
+    "partly-cloudy-night-fill": {
+      "codepoint": 57562,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyNightFill"
+    },
+    "partly-cloudy-night-fog": {
+      "codepoint": 57563,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyNightFog"
+    },
+    "partly-cloudy-night-fog-fill": {
+      "codepoint": 57564,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyNightFogFill"
+    },
+    "partly-cloudy-night-hail": {
+      "codepoint": 57565,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyNightHail"
+    },
+    "partly-cloudy-night-hail-fill": {
+      "codepoint": 57566,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyNightHailFill"
+    },
+    "partly-cloudy-night-haze": {
+      "codepoint": 57567,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyNightHaze"
+    },
+    "partly-cloudy-night-haze-fill": {
+      "codepoint": 57568,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyNightHazeFill"
+    },
+    "partly-cloudy-night-rain": {
+      "codepoint": 57569,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyNightRain"
+    },
+    "partly-cloudy-night-rain-fill": {
+      "codepoint": 57570,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyNightRainFill"
+    },
+    "partly-cloudy-night-sleet": {
+      "codepoint": 57571,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyNightSleet"
+    },
+    "partly-cloudy-night-sleet-fill": {
+      "codepoint": 57572,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyNightSleetFill"
+    },
+    "partly-cloudy-night-smoke": {
+      "codepoint": 57573,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyNightSmoke"
+    },
+    "partly-cloudy-night-smoke-fill": {
+      "codepoint": 57574,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyNightSmokeFill"
+    },
+    "partly-cloudy-night-snow": {
+      "codepoint": 57575,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyNightSnow"
+    },
+    "partly-cloudy-night-snow-fill": {
+      "codepoint": 57576,
+      "fontFamily": "Meteocons",
+      "identifier": "partlyCloudyNightSnowFill"
+    },
+    "pollen": {
+      "codepoint": 57577,
+      "fontFamily": "Meteocons",
+      "identifier": "pollen"
+    },
+    "pollen-fill": {
+      "codepoint": 57578,
+      "fontFamily": "Meteocons",
+      "identifier": "pollenFill"
+    },
+    "pollen-flower-fill": {
+      "codepoint": 57579,
+      "fontFamily": "Meteocons",
+      "identifier": "pollenFlowerFill"
+    },
+    "pollen-grass": {
+      "codepoint": 57580,
+      "fontFamily": "Meteocons",
+      "identifier": "pollenGrass"
+    },
+    "pollen-grass-fill": {
+      "codepoint": 57581,
+      "fontFamily": "Meteocons",
+      "identifier": "pollenGrassFill"
+    },
+    "pollen-tree-fill": {
+      "codepoint": 57582,
+      "fontFamily": "Meteocons",
+      "identifier": "pollenTreeFill"
+    },
+    "pressure-high-alt-fill": {
+      "codepoint": 57583,
+      "fontFamily": "Meteocons",
+      "identifier": "pressureHighAltFill"
+    },
+    "pressure-low": {
+      "codepoint": 57584,
+      "fontFamily": "Meteocons",
+      "identifier": "pressureLow"
+    },
+    "pressure-low-alt-fill": {
+      "codepoint": 57585,
+      "fontFamily": "Meteocons",
+      "identifier": "pressureLowAltFill"
+    },
+    "pressure-low-fill": {
+      "codepoint": 57586,
+      "fontFamily": "Meteocons",
+      "identifier": "pressureLowFill"
+    },
+    "rain": {
+      "codepoint": 57587,
+      "fontFamily": "Meteocons",
+      "identifier": "rain"
+    },
+    "rain-fill": {
+      "codepoint": 57588,
+      "fontFamily": "Meteocons",
+      "identifier": "rainFill"
+    },
+    "rainbow": {
+      "codepoint": 57589,
+      "fontFamily": "Meteocons",
+      "identifier": "rainbow"
+    },
+    "rainbow-clear": {
+      "codepoint": 57590,
+      "fontFamily": "Meteocons",
+      "identifier": "rainbowClear"
+    },
+    "rainbow-clear-fill": {
+      "codepoint": 57591,
+      "fontFamily": "Meteocons",
+      "identifier": "rainbowClearFill"
+    },
+    "rainbow-fill": {
+      "codepoint": 57592,
+      "fontFamily": "Meteocons",
+      "identifier": "rainbowFill"
+    },
+    "raindrop": {
+      "codepoint": 57593,
+      "fontFamily": "Meteocons",
+      "identifier": "raindrop"
+    },
+    "raindrop-fill": {
+      "codepoint": 57594,
+      "fontFamily": "Meteocons",
+      "identifier": "raindropFill"
+    },
+    "raindrop-measure": {
+      "codepoint": 57595,
+      "fontFamily": "Meteocons",
+      "identifier": "raindropMeasure"
+    },
+    "raindrop-measure-fill": {
+      "codepoint": 57596,
+      "fontFamily": "Meteocons",
+      "identifier": "raindropMeasureFill"
+    },
+    "raindrops": {
+      "codepoint": 57597,
+      "fontFamily": "Meteocons",
+      "identifier": "raindrops"
+    },
+    "raindrops-fill": {
+      "codepoint": 57598,
+      "fontFamily": "Meteocons",
+      "identifier": "raindropsFill"
+    },
+    "sleet": {
+      "codepoint": 57599,
+      "fontFamily": "Meteocons",
+      "identifier": "sleet"
+    },
+    "sleet-fill": {
+      "codepoint": 57600,
+      "fontFamily": "Meteocons",
+      "identifier": "sleetFill"
+    },
+    "smoke": {
+      "codepoint": 57601,
+      "fontFamily": "Meteocons",
+      "identifier": "smoke"
+    },
+    "smoke-fill": {
+      "codepoint": 57602,
+      "fontFamily": "Meteocons",
+      "identifier": "smokeFill"
+    },
+    "smoke-particles": {
+      "codepoint": 57603,
+      "fontFamily": "Meteocons",
+      "identifier": "smokeParticles"
+    },
+    "smoke-particles-fill": {
+      "codepoint": 57604,
+      "fontFamily": "Meteocons",
+      "identifier": "smokeParticlesFill"
+    },
+    "snow": {
+      "codepoint": 57605,
+      "fontFamily": "Meteocons",
+      "identifier": "snow"
+    },
+    "snow-fill": {
+      "codepoint": 57606,
+      "fontFamily": "Meteocons",
+      "identifier": "snowFill"
+    },
+    "snowflake": {
+      "codepoint": 57607,
+      "fontFamily": "Meteocons",
+      "identifier": "snowflake"
+    },
+    "snowflake-fill": {
+      "codepoint": 57608,
+      "fontFamily": "Meteocons",
+      "identifier": "snowflakeFill"
+    },
+    "snowman": {
+      "codepoint": 57609,
+      "fontFamily": "Meteocons",
+      "identifier": "snowman"
+    },
+    "solar-eclipse": {
+      "codepoint": 57610,
+      "fontFamily": "Meteocons",
+      "identifier": "solarEclipse"
+    },
+    "solar-eclipse-fill": {
+      "codepoint": 57611,
+      "fontFamily": "Meteocons",
+      "identifier": "solarEclipseFill"
+    },
+    "star": {
+      "codepoint": 57612,
+      "fontFamily": "Meteocons",
+      "identifier": "star"
+    },
+    "star-fill": {
+      "codepoint": 57613,
+      "fontFamily": "Meteocons",
+      "identifier": "starFill"
+    },
+    "starry-night": {
+      "codepoint": 57614,
+      "fontFamily": "Meteocons",
+      "identifier": "starryNight"
+    },
+    "starry-night-fill": {
+      "codepoint": 57615,
+      "fontFamily": "Meteocons",
+      "identifier": "starryNightFill"
+    },
+    "sun-hot": {
+      "codepoint": 57616,
+      "fontFamily": "Meteocons",
+      "identifier": "sunHot"
+    },
+    "sun-hot-fill": {
+      "codepoint": 57617,
+      "fontFamily": "Meteocons",
+      "identifier": "sunHotFill"
+    },
+    "sunrise": {
+      "codepoint": 57618,
+      "fontFamily": "Meteocons",
+      "identifier": "sunrise"
+    },
+    "sunrise-fill": {
+      "codepoint": 57619,
+      "fontFamily": "Meteocons",
+      "identifier": "sunriseFill"
+    },
+    "sunset": {
+      "codepoint": 57620,
+      "fontFamily": "Meteocons",
+      "identifier": "sunset"
+    },
+    "sunset-fill": {
+      "codepoint": 57621,
+      "fontFamily": "Meteocons",
+      "identifier": "sunsetFill"
+    },
+    "thermometer": {
+      "codepoint": 57622,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometer"
+    },
+    "thermometer-colder": {
+      "codepoint": 57623,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerColder"
+    },
+    "thermometer-colder-fill": {
+      "codepoint": 57624,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerColderFill"
+    },
+    "thermometer-fill": {
+      "codepoint": 57625,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerFill"
+    },
+    "thermometer-glass": {
+      "codepoint": 57626,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerGlass"
+    },
+    "thermometer-glass-celsius": {
+      "codepoint": 57627,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerGlassCelsius"
+    },
+    "thermometer-glass-celsius-fill": {
+      "codepoint": 57628,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerGlassCelsiusFill"
+    },
+    "thermometer-glass-fahrenheit": {
+      "codepoint": 57629,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerGlassFahrenheit"
+    },
+    "thermometer-glass-fahrenheit-fill": {
+      "codepoint": 57630,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerGlassFahrenheitFill"
+    },
+    "thermometer-glass-fill": {
+      "codepoint": 57631,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerGlassFill"
+    },
+    "thermometer-mercury": {
+      "codepoint": 57632,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerMercury"
+    },
+    "thermometer-mercury-cold": {
+      "codepoint": 57633,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerMercuryCold"
+    },
+    "thermometer-mercury-cold-fill": {
+      "codepoint": 57634,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerMercuryColdFill"
+    },
+    "thermometer-mercury-fill": {
+      "codepoint": 57635,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerMercuryFill"
+    },
+    "thermometer-moon": {
+      "codepoint": 57636,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerMoon"
+    },
+    "thermometer-moon-fill": {
+      "codepoint": 57637,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerMoonFill"
+    },
+    "thermometer-raindrop": {
+      "codepoint": 57638,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerRaindrop"
+    },
+    "thermometer-raindrop-fill": {
+      "codepoint": 57639,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerRaindropFill"
+    },
+    "thermometer-snow": {
+      "codepoint": 57640,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerSnow"
+    },
+    "thermometer-snow-fill": {
+      "codepoint": 57641,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerSnowFill"
+    },
+    "thermometer-sun": {
+      "codepoint": 57642,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerSun"
+    },
+    "thermometer-sun-fill": {
+      "codepoint": 57643,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerSunFill"
+    },
+    "thermometer-warmer": {
+      "codepoint": 57644,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerWarmer"
+    },
+    "thermometer-warmer-fill": {
+      "codepoint": 57645,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerWarmerFill"
+    },
+    "thermometer-water": {
+      "codepoint": 57646,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerWater"
+    },
+    "thermometer-water-fill": {
+      "codepoint": 57647,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerWaterFill"
+    },
+    "thunderstorms": {
+      "codepoint": 57648,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstorms"
+    },
+    "thunderstorms-day": {
+      "codepoint": 57649,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsDay"
+    },
+    "thunderstorms-day-extreme": {
+      "codepoint": 57650,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsDayExtreme"
+    },
+    "thunderstorms-day-extreme-fill": {
+      "codepoint": 57651,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsDayExtremeFill"
+    },
+    "thunderstorms-day-extreme-snow": {
+      "codepoint": 57652,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsDayExtremeSnow"
+    },
+    "thunderstorms-day-extreme-snow-fill": {
+      "codepoint": 57653,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsDayExtremeSnowFill"
+    },
+    "thunderstorms-day-fill": {
+      "codepoint": 57654,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsDayFill"
+    },
+    "thunderstorms-day-overcast": {
+      "codepoint": 57655,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsDayOvercast"
+    },
+    "thunderstorms-day-overcast-fill": {
+      "codepoint": 57656,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsDayOvercastFill"
+    },
+    "thunderstorms-day-overcast-snow": {
+      "codepoint": 57657,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsDayOvercastSnow"
+    },
+    "thunderstorms-day-overcast-snow-fill": {
+      "codepoint": 57658,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsDayOvercastSnowFill"
+    },
+    "thunderstorms-day-snow": {
+      "codepoint": 57659,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsDaySnow"
+    },
+    "thunderstorms-day-snow-fill": {
+      "codepoint": 57660,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsDaySnowFill"
+    },
+    "thunderstorms-extreme": {
+      "codepoint": 57661,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsExtreme"
+    },
+    "thunderstorms-extreme-fill": {
+      "codepoint": 57662,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsExtremeFill"
+    },
+    "thunderstorms-extreme-snow": {
+      "codepoint": 57663,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsExtremeSnow"
+    },
+    "thunderstorms-extreme-snow-fill": {
+      "codepoint": 57664,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsExtremeSnowFill"
+    },
+    "thunderstorms-fill": {
+      "codepoint": 57665,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsFill"
+    },
+    "thunderstorms-night": {
+      "codepoint": 57666,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsNight"
+    },
+    "thunderstorms-night-extreme": {
+      "codepoint": 57667,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsNightExtreme"
+    },
+    "thunderstorms-night-extreme-fill": {
+      "codepoint": 57668,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsNightExtremeFill"
+    },
+    "thunderstorms-night-extreme-snow": {
+      "codepoint": 57669,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsNightExtremeSnow"
+    },
+    "thunderstorms-night-extreme-snow-fill": {
+      "codepoint": 57670,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsNightExtremeSnowFill"
+    },
+    "thunderstorms-night-fill": {
+      "codepoint": 57671,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsNightFill"
+    },
+    "thunderstorms-night-overcast": {
+      "codepoint": 57672,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsNightOvercast"
+    },
+    "thunderstorms-night-overcast-fill": {
+      "codepoint": 57673,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsNightOvercastFill"
+    },
+    "thunderstorms-night-overcast-snow": {
+      "codepoint": 57674,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsNightOvercastSnow"
+    },
+    "thunderstorms-night-overcast-snow-fill": {
+      "codepoint": 57675,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsNightOvercastSnowFill"
+    },
+    "thunderstorms-night-snow": {
+      "codepoint": 57676,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsNightSnow"
+    },
+    "thunderstorms-night-snow-fill": {
+      "codepoint": 57677,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsNightSnowFill"
+    },
+    "thunderstorms-overcast": {
+      "codepoint": 57678,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsOvercast"
+    },
+    "thunderstorms-overcast-fill": {
+      "codepoint": 57679,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsOvercastFill"
+    },
+    "thunderstorms-overcast-snow": {
+      "codepoint": 57680,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsOvercastSnow"
+    },
+    "thunderstorms-overcast-snow-fill": {
+      "codepoint": 57681,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsOvercastSnowFill"
+    },
+    "thunderstorms-snow": {
+      "codepoint": 57682,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsSnow"
+    },
+    "thunderstorms-snow-fill": {
+      "codepoint": 57683,
+      "fontFamily": "Meteocons",
+      "identifier": "thunderstormsSnowFill"
+    },
+    "tide-high": {
+      "codepoint": 57684,
+      "fontFamily": "Meteocons",
+      "identifier": "tideHigh"
+    },
+    "tide-high-fill": {
+      "codepoint": 57685,
+      "fontFamily": "Meteocons",
+      "identifier": "tideHighFill"
+    },
+    "tide-low": {
+      "codepoint": 57686,
+      "fontFamily": "Meteocons",
+      "identifier": "tideLow"
+    },
+    "tide-low-fill": {
+      "codepoint": 57687,
+      "fontFamily": "Meteocons",
+      "identifier": "tideLowFill"
+    },
+    "time-afternoon": {
+      "codepoint": 57688,
+      "fontFamily": "Meteocons",
+      "identifier": "timeAfternoon"
+    },
+    "time-afternoon-fill": {
+      "codepoint": 57689,
+      "fontFamily": "Meteocons",
+      "identifier": "timeAfternoonFill"
+    },
+    "time-evening": {
+      "codepoint": 57690,
+      "fontFamily": "Meteocons",
+      "identifier": "timeEvening"
+    },
+    "time-evening-fill": {
+      "codepoint": 57691,
+      "fontFamily": "Meteocons",
+      "identifier": "timeEveningFill"
+    },
+    "time-late-afternoon": {
+      "codepoint": 57692,
+      "fontFamily": "Meteocons",
+      "identifier": "timeLateAfternoon"
+    },
+    "time-late-afternoon-fill": {
+      "codepoint": 57693,
+      "fontFamily": "Meteocons",
+      "identifier": "timeLateAfternoonFill"
+    },
+    "time-late-evening": {
+      "codepoint": 57694,
+      "fontFamily": "Meteocons",
+      "identifier": "timeLateEvening"
+    },
+    "time-late-evening-fill": {
+      "codepoint": 57695,
+      "fontFamily": "Meteocons",
+      "identifier": "timeLateEveningFill"
+    },
+    "time-late-morning": {
+      "codepoint": 57696,
+      "fontFamily": "Meteocons",
+      "identifier": "timeLateMorning"
+    },
+    "time-late-morning-fill": {
+      "codepoint": 57697,
+      "fontFamily": "Meteocons",
+      "identifier": "timeLateMorningFill"
+    },
+    "time-late-night": {
+      "codepoint": 57698,
+      "fontFamily": "Meteocons",
+      "identifier": "timeLateNight"
+    },
+    "time-late-night-fill": {
+      "codepoint": 57699,
+      "fontFamily": "Meteocons",
+      "identifier": "timeLateNightFill"
+    },
+    "time-morning": {
+      "codepoint": 57700,
+      "fontFamily": "Meteocons",
+      "identifier": "timeMorning"
+    },
+    "time-morning-fill": {
+      "codepoint": 57701,
+      "fontFamily": "Meteocons",
+      "identifier": "timeMorningFill"
+    },
+    "time-night": {
+      "codepoint": 57702,
+      "fontFamily": "Meteocons",
+      "identifier": "timeNight"
+    },
+    "time-night-fill": {
+      "codepoint": 57703,
+      "fontFamily": "Meteocons",
+      "identifier": "timeNightFill"
+    },
+    "tornado": {
+      "codepoint": 57704,
+      "fontFamily": "Meteocons",
+      "identifier": "tornado"
+    },
+    "tornado-fill": {
+      "codepoint": 57705,
+      "fontFamily": "Meteocons",
+      "identifier": "tornadoFill"
+    },
+    "umbrella": {
+      "codepoint": 57706,
+      "fontFamily": "Meteocons",
+      "identifier": "umbrella"
+    },
+    "umbrella-fill": {
+      "codepoint": 57707,
+      "fontFamily": "Meteocons",
+      "identifier": "umbrellaFill"
+    },
+    "umbrella-wind": {
+      "codepoint": 57708,
+      "fontFamily": "Meteocons",
+      "identifier": "umbrellaWind"
+    },
+    "umbrella-wind-alt": {
+      "codepoint": 57709,
+      "fontFamily": "Meteocons",
+      "identifier": "umbrellaWindAlt"
+    },
+    "umbrella-wind-alt-fill": {
+      "codepoint": 57710,
+      "fontFamily": "Meteocons",
+      "identifier": "umbrellaWindAltFill"
+    },
+    "umbrella-wind-fill": {
+      "codepoint": 57711,
+      "fontFamily": "Meteocons",
+      "identifier": "umbrellaWindFill"
+    },
+    "uv-index": {
+      "codepoint": 57712,
+      "fontFamily": "Meteocons",
+      "identifier": "uvIndex"
+    },
+    "uv-index-1": {
+      "codepoint": 57713,
+      "fontFamily": "Meteocons",
+      "identifier": "uvIndex1"
+    },
+    "uv-index-1-fill": {
+      "codepoint": 57714,
+      "fontFamily": "Meteocons",
+      "identifier": "uvIndex1Fill"
+    },
+    "uv-index-10": {
+      "codepoint": 57715,
+      "fontFamily": "Meteocons",
+      "identifier": "uvIndex10"
+    },
+    "uv-index-10-fill": {
+      "codepoint": 57716,
+      "fontFamily": "Meteocons",
+      "identifier": "uvIndex10Fill"
+    },
+    "uv-index-11": {
+      "codepoint": 57717,
+      "fontFamily": "Meteocons",
+      "identifier": "uvIndex11"
+    },
+    "uv-index-11-fill": {
+      "codepoint": 57718,
+      "fontFamily": "Meteocons",
+      "identifier": "uvIndex11Fill"
+    },
+    "uv-index-2": {
+      "codepoint": 57719,
+      "fontFamily": "Meteocons",
+      "identifier": "uvIndex2"
+    },
+    "uv-index-2-fill": {
+      "codepoint": 57720,
+      "fontFamily": "Meteocons",
+      "identifier": "uvIndex2Fill"
+    },
+    "uv-index-3": {
+      "codepoint": 57721,
+      "fontFamily": "Meteocons",
+      "identifier": "uvIndex3"
+    },
+    "uv-index-3-fill": {
+      "codepoint": 57722,
+      "fontFamily": "Meteocons",
+      "identifier": "uvIndex3Fill"
+    },
+    "uv-index-4": {
+      "codepoint": 57723,
+      "fontFamily": "Meteocons",
+      "identifier": "uvIndex4"
+    },
+    "uv-index-4-fill": {
+      "codepoint": 57724,
+      "fontFamily": "Meteocons",
+      "identifier": "uvIndex4Fill"
+    },
+    "uv-index-5": {
+      "codepoint": 57725,
+      "fontFamily": "Meteocons",
+      "identifier": "uvIndex5"
+    },
+    "uv-index-5-fill": {
+      "codepoint": 57726,
+      "fontFamily": "Meteocons",
+      "identifier": "uvIndex5Fill"
+    },
+    "uv-index-6": {
+      "codepoint": 57727,
+      "fontFamily": "Meteocons",
+      "identifier": "uvIndex6"
+    },
+    "uv-index-6-fill": {
+      "codepoint": 57728,
+      "fontFamily": "Meteocons",
+      "identifier": "uvIndex6Fill"
+    },
+    "uv-index-7": {
+      "codepoint": 57729,
+      "fontFamily": "Meteocons",
+      "identifier": "uvIndex7"
+    },
+    "uv-index-7-fill": {
+      "codepoint": 57730,
+      "fontFamily": "Meteocons",
+      "identifier": "uvIndex7Fill"
+    },
+    "uv-index-8": {
+      "codepoint": 57731,
+      "fontFamily": "Meteocons",
+      "identifier": "uvIndex8"
+    },
+    "uv-index-8-fill": {
+      "codepoint": 57732,
+      "fontFamily": "Meteocons",
+      "identifier": "uvIndex8Fill"
+    },
+    "uv-index-9": {
+      "codepoint": 57733,
+      "fontFamily": "Meteocons",
+      "identifier": "uvIndex9"
+    },
+    "uv-index-9-fill": {
+      "codepoint": 57734,
+      "fontFamily": "Meteocons",
+      "identifier": "uvIndex9Fill"
+    },
+    "uv-index-fill": {
+      "codepoint": 57735,
+      "fontFamily": "Meteocons",
+      "identifier": "uvIndexFill"
+    },
+    "wind": {
+      "codepoint": 57736,
+      "fontFamily": "Meteocons",
+      "identifier": "wind"
+    },
+    "wind-alert": {
+      "codepoint": 57737,
+      "fontFamily": "Meteocons",
+      "identifier": "windAlert"
+    },
+    "wind-alert-fill": {
+      "codepoint": 57738,
+      "fontFamily": "Meteocons",
+      "identifier": "windAlertFill"
+    },
+    "wind-beaufort-0": {
+      "codepoint": 57739,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort0"
+    },
+    "wind-beaufort-0-fill": {
+      "codepoint": 57740,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort0Fill"
+    },
+    "wind-beaufort-1": {
+      "codepoint": 57741,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort1"
+    },
+    "wind-beaufort-1-fill": {
+      "codepoint": 57742,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort1Fill"
+    },
+    "wind-beaufort-10": {
+      "codepoint": 57743,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort10"
+    },
+    "wind-beaufort-10-fill": {
+      "codepoint": 57744,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort10Fill"
+    },
+    "wind-beaufort-11": {
+      "codepoint": 57745,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort11"
+    },
+    "wind-beaufort-11-fill": {
+      "codepoint": 57746,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort11Fill"
+    },
+    "wind-beaufort-12": {
+      "codepoint": 57747,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort12"
+    },
+    "wind-beaufort-12-fill": {
+      "codepoint": 57748,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort12Fill"
+    },
+    "wind-beaufort-2": {
+      "codepoint": 57749,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort2"
+    },
+    "wind-beaufort-2-fill": {
+      "codepoint": 57750,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort2Fill"
+    },
+    "wind-beaufort-3": {
+      "codepoint": 57751,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort3"
+    },
+    "wind-beaufort-3-fill": {
+      "codepoint": 57752,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort3Fill"
+    },
+    "wind-beaufort-4": {
+      "codepoint": 57753,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort4"
+    },
+    "wind-beaufort-4-fill": {
+      "codepoint": 57754,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort4Fill"
+    },
+    "wind-beaufort-5": {
+      "codepoint": 57755,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort5"
+    },
+    "wind-beaufort-5-fill": {
+      "codepoint": 57756,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort5Fill"
+    },
+    "wind-beaufort-6": {
+      "codepoint": 57757,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort6"
+    },
+    "wind-beaufort-6-fill": {
+      "codepoint": 57758,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort6Fill"
+    },
+    "wind-beaufort-7": {
+      "codepoint": 57759,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort7"
+    },
+    "wind-beaufort-7-fill": {
+      "codepoint": 57760,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort7Fill"
+    },
+    "wind-beaufort-8": {
+      "codepoint": 57761,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort8"
+    },
+    "wind-beaufort-8-fill": {
+      "codepoint": 57762,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort8Fill"
+    },
+    "wind-beaufort-9": {
+      "codepoint": 57763,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort9"
+    },
+    "wind-beaufort-9-fill": {
+      "codepoint": 57764,
+      "fontFamily": "Meteocons",
+      "identifier": "windBeaufort9Fill"
+    },
+    "wind-fill": {
+      "codepoint": 57765,
+      "fontFamily": "Meteocons",
+      "identifier": "windFill"
+    },
+    "wind-offshore": {
+      "codepoint": 57766,
+      "fontFamily": "Meteocons",
+      "identifier": "windOffshore"
+    },
+    "wind-offshore-fill": {
+      "codepoint": 57767,
+      "fontFamily": "Meteocons",
+      "identifier": "windOffshoreFill"
+    },
+    "wind-onshore": {
+      "codepoint": 57768,
+      "fontFamily": "Meteocons",
+      "identifier": "windOnshore"
+    },
+    "wind-onshore-fill": {
+      "codepoint": 57769,
+      "fontFamily": "Meteocons",
+      "identifier": "windOnshoreFill"
+    },
+    "wind-snow": {
+      "codepoint": 57770,
+      "fontFamily": "Meteocons",
+      "identifier": "windSnow"
+    },
+    "wind-snow-fill": {
+      "codepoint": 57771,
+      "fontFamily": "Meteocons",
+      "identifier": "windSnowFill"
+    },
+    "windsock": {
+      "codepoint": 57772,
+      "fontFamily": "Meteocons",
+      "identifier": "windsock"
+    },
+    "windsock-fill": {
+      "codepoint": 57773,
+      "fontFamily": "Meteocons",
+      "identifier": "windsockFill"
+    },
+    "windsock-weak": {
+      "codepoint": 57774,
+      "fontFamily": "Meteocons",
+      "identifier": "windsockWeak"
+    },
+    "windsock-weak-fill": {
+      "codepoint": 57775,
+      "fontFamily": "Meteocons",
+      "identifier": "windsockWeakFill"
     }
   }
 }

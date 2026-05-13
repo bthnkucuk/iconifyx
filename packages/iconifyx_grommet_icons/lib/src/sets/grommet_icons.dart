@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Grommet
 /// License: Apache 2.0 — https://www.apache.org/licenses/LICENSE-2.0
-/// Icons: 627 (split across 2 fonts)
+/// Icons: 637 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -159,6 +159,27 @@ class GrommetIconsIcons {
   /// `apple`
   static const IconifyIconData apple = IconifyIconData(IconData(
     0xe014,
+    fontFamily: 'GrommetIcons',
+    fontPackage: 'iconifyx_grommet_icons',
+  ));
+
+  /// `apple-app-store`
+  static const IconifyIconData appleAppStore = IconifyIconData(IconData(
+    0xe273,
+    fontFamily: 'GrommetIcons',
+    fontPackage: 'iconifyx_grommet_icons',
+  ));
+
+  /// `apple-music`
+  static const IconifyIconData appleMusic = IconifyIconData(IconData(
+    0xe274,
+    fontFamily: 'GrommetIcons',
+    fontPackage: 'iconifyx_grommet_icons',
+  ));
+
+  /// `apple-podcasts`
+  static const IconifyIconData applePodcasts = IconifyIconData(IconData(
+    0xe275,
     fontFamily: 'GrommetIcons',
     fontPackage: 'iconifyx_grommet_icons',
   ));
@@ -1374,6 +1395,13 @@ class GrommetIconsIcons {
     fontPackage: 'iconifyx_grommet_icons',
   ));
 
+  /// `edge`
+  static const IconifyIconData edge = IconifyIconData(IconData(
+    0xe276,
+    fontFamily: 'GrommetIcons',
+    fontPackage: 'iconifyx_grommet_icons',
+  ));
+
   /// `edit`
   static const IconifyIconData edit = IconifyIconData(IconData(
     0xe0c2,
@@ -1815,6 +1843,13 @@ class GrommetIconsIcons {
     fontPackage: 'iconifyx_grommet_icons',
   ));
 
+  /// `genai`
+  static const IconifyIconData genai = IconifyIconData(IconData(
+    0xe277,
+    fontFamily: 'GrommetIcons',
+    fontPackage: 'iconifyx_grommet_icons',
+  ));
+
   /// `genaifill`
   static const IconifyIconData genaifill = IconifyIconData(IconData(
     0xe101,
@@ -1867,6 +1902,13 @@ class GrommetIconsIcons {
   /// `google-play`
   static const IconifyIconData googlePlay = IconifyIconData(IconData(
     0xe108,
+    fontFamily: 'GrommetIcons',
+    fontPackage: 'iconifyx_grommet_icons',
+  ));
+
+  /// `google-plus`
+  static const IconifyIconData googlePlus = IconifyIconData(IconData(
+    0xe278,
     fontFamily: 'GrommetIcons',
     fontPackage: 'iconifyx_grommet_icons',
   ));
@@ -1993,6 +2035,13 @@ class GrommetIconsIcons {
   /// `home-rounded`
   static const IconifyIconData homeRounded = IconifyIconData(IconData(
     0xe11a,
+    fontFamily: 'GrommetIcons',
+    fontPackage: 'iconifyx_grommet_icons',
+  ));
+
+  /// `horton`
+  static const IconifyIconData horton = IconifyIconData(IconData(
+    0xe279,
     fontFamily: 'GrommetIcons',
     fontPackage: 'iconifyx_grommet_icons',
   ));
@@ -2203,6 +2252,13 @@ class GrommetIconsIcons {
   /// `language`
   static const IconifyIconData language = IconifyIconData(IconData(
     0xe138,
+    fontFamily: 'GrommetIcons',
+    fontPackage: 'iconifyx_grommet_icons',
+  ));
+
+  /// `lastfm`
+  static const IconifyIconData lastfm = IconifyIconData(IconData(
+    0xe27a,
     fontFamily: 'GrommetIcons',
     fontPackage: 'iconifyx_grommet_icons',
   ));
@@ -2441,6 +2497,13 @@ class GrommetIconsIcons {
   /// `menu`
   static const IconifyIconData menu = IconifyIconData(IconData(
     0xe15a,
+    fontFamily: 'GrommetIcons',
+    fontPackage: 'iconifyx_grommet_icons',
+  ));
+
+  /// `meta`
+  static const IconifyIconData meta = IconifyIconData(IconData(
+    0xe27b,
     fontFamily: 'GrommetIcons',
     fontPackage: 'iconifyx_grommet_icons',
   ));
@@ -3358,6 +3421,13 @@ class GrommetIconsIcons {
   /// `sort`
   static const IconifyIconData sort = IconifyIconData(IconData(
     0xe1dd,
+    fontFamily: 'GrommetIcons',
+    fontPackage: 'iconifyx_grommet_icons',
+  ));
+
+  /// `soundcloud`
+  static const IconifyIconData soundcloud = IconifyIconData(IconData(
+    0xe27c,
     fontFamily: 'GrommetIcons',
     fontPackage: 'iconifyx_grommet_icons',
   ));

@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Streamline
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 499
+/// Icons: 500
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -1692,6 +1692,13 @@ class StreamlineCyberIcons {
   /// `headset-user`
   static const IconifyIconData headsetUser = IconifyIconData(IconData(
     0xe0ef,
+    fontFamily: 'StreamlineCyber',
+    fontPackage: 'iconifyx_streamline_cyber',
+  ));
+
+  /// `heart-balloon`
+  static const IconifyIconData heartBalloon = IconifyIconData(IconData(
+    0xe1f3,
     fontFamily: 'StreamlineCyber',
     fontPackage: 'iconifyx_streamline_cyber',
   ));

@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/wisdesignsystem/lsicon/blob/main/LICENSE"
     },
-    "total": 709
+    "total": 716
   },
   "fonts": [
     {
       "family": "Lsicon",
-      "nextCodepoint": 58053,
-      "iconCount": 709
+      "nextCodepoint": 58060,
+      "iconCount": 716
     }
   ],
   "icons": {
@@ -801,6 +801,11 @@
       "fontFamily": "Lsicon",
       "identifier": "dataFilled"
     },
+    "data-outline": {
+      "codepoint": 58053,
+      "fontFamily": "Lsicon",
+      "identifier": "dataOutline"
+    },
     "data-screen-filled": {
       "codepoint": 57499,
       "fontFamily": "Lsicon",
@@ -1051,6 +1056,11 @@
       "fontFamily": "Lsicon",
       "identifier": "exportOutline"
     },
+    "file-avi-filled": {
+      "codepoint": 58054,
+      "fontFamily": "Lsicon",
+      "identifier": "fileAviFilled"
+    },
     "file-avi-outline": {
       "codepoint": 57549,
       "fontFamily": "Lsicon",
@@ -1065,6 +1075,11 @@
       "codepoint": 57551,
       "fontFamily": "Lsicon",
       "identifier": "fileCdrOutline"
+    },
+    "file-csv-filled": {
+      "codepoint": 58055,
+      "fontFamily": "Lsicon",
+      "identifier": "fileCsvFilled"
     },
     "file-csv-outline": {
       "codepoint": 57552,
@@ -1110,6 +1125,11 @@
       "codepoint": 57560,
       "fontFamily": "Lsicon",
       "identifier": "fileJpgOutline"
+    },
+    "file-mov-filled": {
+      "codepoint": 58056,
+      "fontFamily": "Lsicon",
+      "identifier": "fileMovFilled"
     },
     "file-mov-outline": {
       "codepoint": 57561,
@@ -1175,6 +1195,11 @@
       "codepoint": 57573,
       "fontFamily": "Lsicon",
       "identifier": "filePptOutline"
+    },
+    "file-rar-filled": {
+      "codepoint": 58057,
+      "fontFamily": "Lsicon",
+      "identifier": "fileRarFilled"
     },
     "file-rar-outline": {
       "codepoint": 57574,
@@ -2641,6 +2666,11 @@
       "fontFamily": "Lsicon",
       "identifier": "searchOutline"
     },
+    "send-filled": {
+      "codepoint": 58058,
+      "fontFamily": "Lsicon",
+      "identifier": "sendFilled"
+    },
     "send-outline": {
       "codepoint": 57867,
       "fontFamily": "Lsicon",
@@ -3095,6 +3125,11 @@
       "codepoint": 57957,
       "fontFamily": "Lsicon",
       "identifier": "topOutline"
+    },
+    "translate-filled": {
+      "codepoint": 58059,
+      "fontFamily": "Lsicon",
+      "identifier": "translateFilled"
     },
     "translate-outline": {
       "codepoint": 57958,

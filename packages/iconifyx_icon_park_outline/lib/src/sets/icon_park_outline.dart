@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: ByteDance
 /// License: Apache 2.0 — https://github.com/bytedance/IconPark/blob/master/LICENSE
-/// Icons: 2649
+/// Icons: 2658
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -3565,6 +3565,13 @@ class IconParkOutlineIcons {
     fontPackage: 'iconifyx_icon_park_outline',
   ));
 
+  /// `color-card`
+  static const IconifyIconData colorCard = IconifyIconData(IconData(
+    0xea5b,
+    fontFamily: 'IconParkOutline',
+    fontPackage: 'iconifyx_icon_park_outline',
+  ));
+
   /// `color-filter`
   static const IconifyIconData colorFilter = IconifyIconData(IconData(
     0xe1fb,
@@ -4489,6 +4496,13 @@ class IconParkOutlineIcons {
     fontPackage: 'iconifyx_icon_park_outline',
   ));
 
+  /// `database-point`
+  static const IconifyIconData databasePoint = IconifyIconData(IconData(
+    0xea5c,
+    fontFamily: 'IconParkOutline',
+    fontPackage: 'iconifyx_icon_park_outline',
+  ));
+
   /// `database-position`
   static const IconifyIconData databasePosition = IconifyIconData(IconData(
     0xe27f,
@@ -4569,6 +4583,13 @@ class IconParkOutlineIcons {
   /// `deeplink`
   static const IconifyIconData deeplink = IconifyIconData(IconData(
     0xe28a,
+    fontFamily: 'IconParkOutline',
+    fontPackage: 'iconifyx_icon_park_outline',
+  ));
+
+  /// `deer`
+  static const IconifyIconData deer = IconifyIconData(IconData(
+    0xe28b,
     fontFamily: 'IconParkOutline',
     fontPackage: 'iconifyx_icon_park_outline',
   ));
@@ -8577,6 +8598,13 @@ class IconParkOutlineIcons {
     fontPackage: 'iconifyx_icon_park_outline',
   ));
 
+  /// `heart`
+  static const IconifyIconData heart = IconifyIconData(IconData(
+    0xea5d,
+    fontFamily: 'IconParkOutline',
+    fontPackage: 'iconifyx_icon_park_outline',
+  ));
+
   /// `heart-ballon`
   static const IconifyIconData heartBallon = IconifyIconData(IconData(
     0xe4c8,
@@ -12164,6 +12192,13 @@ class IconParkOutlineIcons {
   /// `palm`
   static const IconifyIconData palm = IconifyIconData(IconData(
     0xe6c8,
+    fontFamily: 'IconParkOutline',
+    fontPackage: 'iconifyx_icon_park_outline',
+  ));
+
+  /// `panda`
+  static const IconifyIconData panda = IconifyIconData(IconData(
+    0xe6c9,
     fontFamily: 'IconParkOutline',
     fontPackage: 'iconifyx_icon_park_outline',
   ));
@@ -15794,6 +15829,13 @@ class IconParkOutlineIcons {
     fontPackage: 'iconifyx_icon_park_outline',
   ));
 
+  /// `steering-wheel`
+  static const IconifyIconData steeringWheel = IconifyIconData(IconData(
+    0xea5e,
+    fontFamily: 'IconParkOutline',
+    fontPackage: 'iconifyx_icon_park_outline',
+  ));
+
   /// `steoller`
   static const IconifyIconData steoller = IconifyIconData(IconData(
     0xe8d0,
@@ -16956,6 +16998,13 @@ class IconParkOutlineIcons {
     fontPackage: 'iconifyx_icon_park_outline',
   ));
 
+  /// `traditional-chinese-medicine`
+  static const IconifyIconData traditionalChineseMedicine = IconifyIconData(IconData(
+    0xea5f,
+    fontFamily: 'IconParkOutline',
+    fontPackage: 'iconifyx_icon_park_outline',
+  ));
+
   /// `train`
   static const IconifyIconData train = IconifyIconData(IconData(
     0xe976,
@@ -17141,6 +17190,13 @@ class IconParkOutlineIcons {
   /// `triangle-round-rectangle`
   static const IconifyIconData triangleRoundRectangle = IconifyIconData(IconData(
     0xe990,
+    fontFamily: 'IconParkOutline',
+    fontPackage: 'iconifyx_icon_park_outline',
+  ));
+
+  /// `triangle-ruler`
+  static const IconifyIconData triangleRuler = IconifyIconData(IconData(
+    0xea60,
     fontFamily: 'IconParkOutline',
     fontPackage: 'iconifyx_icon_park_outline',
   ));
@@ -17491,6 +17547,13 @@ class IconParkOutlineIcons {
   /// `up-and-down`
   static const IconifyIconData upAndDown = IconifyIconData(IconData(
     0xe9c2,
+    fontFamily: 'IconParkOutline',
+    fontPackage: 'iconifyx_icon_park_outline',
+  ));
+
+  /// `up-c`
+  static const IconifyIconData upC = IconifyIconData(IconData(
+    0xea61,
     fontFamily: 'IconParkOutline',
     fontPackage: 'iconifyx_icon_park_outline',
   ));

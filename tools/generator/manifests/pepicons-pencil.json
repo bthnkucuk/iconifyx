@@ -16,13 +16,13 @@
       "spdx": "CC-BY-4.0",
       "url": "https://github.com/CyCraft/pepicons/blob/dev/LICENSE"
     },
-    "total": 1263
+    "total": 1275
   },
   "fonts": [
     {
       "family": "PepiconsPencil",
-      "nextCodepoint": 58607,
-      "iconCount": 1263
+      "nextCodepoint": 58619,
+      "iconCount": 1275
     }
   ],
   "icons": {
@@ -860,6 +860,11 @@
       "codepoint": 57510,
       "fontFamily": "PepiconsPencil",
       "identifier": "cellphoneEyeCircle"
+    },
+    "cellphone-eye-circle-filled": {
+      "codepoint": 58607,
+      "fontFamily": "PepiconsPencil",
+      "identifier": "cellphoneEyeCircleFilled"
     },
     "cellphone-eye-circle-off": {
       "codepoint": 57511,
@@ -2821,6 +2826,31 @@
       "fontFamily": "PepiconsPencil",
       "identifier": "handsClappingOff"
     },
+    "handshake": {
+      "codepoint": 58608,
+      "fontFamily": "PepiconsPencil",
+      "identifier": "handshake"
+    },
+    "handshake-circle": {
+      "codepoint": 58609,
+      "fontFamily": "PepiconsPencil",
+      "identifier": "handshakeCircle"
+    },
+    "handshake-circle-filled": {
+      "codepoint": 58610,
+      "fontFamily": "PepiconsPencil",
+      "identifier": "handshakeCircleFilled"
+    },
+    "handshake-circle-off": {
+      "codepoint": 58611,
+      "fontFamily": "PepiconsPencil",
+      "identifier": "handshakeCircleOff"
+    },
+    "handshake-off": {
+      "codepoint": 58612,
+      "fontFamily": "PepiconsPencil",
+      "identifier": "handshakeOff"
+    },
     "hash": {
       "codepoint": 57903,
       "fontFamily": "PepiconsPencil",
@@ -3641,6 +3671,31 @@
       "fontFamily": "PepiconsPencil",
       "identifier": "microphoneCircleOff"
     },
+    "microphone-handheld": {
+      "codepoint": 58613,
+      "fontFamily": "PepiconsPencil",
+      "identifier": "microphoneHandheld"
+    },
+    "microphone-handheld-circle": {
+      "codepoint": 58614,
+      "fontFamily": "PepiconsPencil",
+      "identifier": "microphoneHandheldCircle"
+    },
+    "microphone-handheld-circle-filled": {
+      "codepoint": 58615,
+      "fontFamily": "PepiconsPencil",
+      "identifier": "microphoneHandheldCircleFilled"
+    },
+    "microphone-handheld-circle-off": {
+      "codepoint": 58616,
+      "fontFamily": "PepiconsPencil",
+      "identifier": "microphoneHandheldCircleOff"
+    },
+    "microphone-handheld-off": {
+      "codepoint": 58617,
+      "fontFamily": "PepiconsPencil",
+      "identifier": "microphoneHandheldOff"
+    },
     "microphone-off": {
       "codepoint": 58067,
       "fontFamily": "PepiconsPencil",
@@ -3750,6 +3805,11 @@
       "codepoint": 58088,
       "fontFamily": "PepiconsPencil",
       "identifier": "monitorLoopCircle"
+    },
+    "monitor-loop-circle-filled": {
+      "codepoint": 58618,
+      "fontFamily": "PepiconsPencil",
+      "identifier": "monitorLoopCircleFilled"
     },
     "monitor-loop-circle-off": {
       "codepoint": 58089,

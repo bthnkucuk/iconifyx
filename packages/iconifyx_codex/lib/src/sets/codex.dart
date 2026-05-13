@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: CodeX
 /// License: MIT — https://github.com/codex-team/icons/blob/master/LICENSE
-/// Icons: 77
+/// Icons: 78
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -348,6 +348,13 @@ class CodexIcons {
   /// `list-numbered`
   static const IconifyIconData listNumbered = IconifyIconData(IconData(
     0xe02f,
+    fontFamily: 'Codex',
+    fontPackage: 'iconifyx_codex',
+  ));
+
+  /// `loader`
+  static const IconifyIconData loader = IconifyIconData(IconData(
+    0xe04d,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));

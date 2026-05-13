@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Olivier Cléro
 /// License: MIT — https://github.com/oclero/qlementine-icons/blob/master/LICENSE
-/// Icons: 880 (split across 2 fonts)
+/// Icons: 885 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -639,6 +639,13 @@ class QlementineIconsIcons {
     fontPackage: 'iconifyx_qlementine_icons',
   ));
 
+  /// `bookmark-crossed-2-16`
+  static const IconifyIconData bookmarkCrossed216 = IconifyIconData(IconData(
+    0xe370,
+    fontFamily: 'QlementineIcons',
+    fontPackage: 'iconifyx_qlementine_icons',
+  ));
+
   /// `bookmark-filled-16`
   static const IconifyIconData bookmarkFilled16 = IconifyIconData(IconData(
     0xe050,
@@ -1076,6 +1083,13 @@ class QlementineIconsIcons {
   /// `clap-16`
   static const IconifyIconData clap16 = IconifyIconData(IconData(
     0xe087,
+    fontFamily: 'QlementineIcons',
+    fontPackage: 'iconifyx_qlementine_icons',
+  ));
+
+  /// `clap-24`
+  static const IconifyIconData clap24 = IconifyIconData(IconData(
+    0xe371,
     fontFamily: 'QlementineIcons',
     fontPackage: 'iconifyx_qlementine_icons',
   ));
@@ -6368,6 +6382,27 @@ class QlementineIconsIcons {
   /// `x-24`
   static const IconifyIconData x24 = IconifyIconData(IconData(
     0xe362,
+    fontFamily: 'QlementineIcons',
+    fontPackage: 'iconifyx_qlementine_icons',
+  ));
+
+  /// `youtube-16`
+  static const IconifyIconData youtube16 = IconifyIconData(IconData(
+    0xe372,
+    fontFamily: 'QlementineIcons',
+    fontPackage: 'iconifyx_qlementine_icons',
+  ));
+
+  /// `youtube-24`
+  static const IconifyIconData youtube24 = IconifyIconData(IconData(
+    0xe373,
+    fontFamily: 'QlementineIcons',
+    fontPackage: 'iconifyx_qlementine_icons',
+  ));
+
+  /// `youtube-fill-16`
+  static const IconifyIconData youtubeFill16 = IconifyIconData(IconData(
+    0xe374,
     fontFamily: 'QlementineIcons',
     fontPackage: 'iconifyx_qlementine_icons',
   ));

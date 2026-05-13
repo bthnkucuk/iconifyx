@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Jake Wells
 /// License: GPL — https://github.com/cyberalien/gala-icons/blob/main/LICENSE
-/// Icons: 52
+/// Icons: 55
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -30,9 +30,30 @@ class GalaIcons {
     fontPackage: 'iconifyx_gala',
   ));
 
+  /// `apple`
+  static const IconifyIconData apple = IconifyIconData(IconData(
+    0xe002,
+    fontFamily: 'Gala',
+    fontPackage: 'iconifyx_gala',
+  ));
+
   /// `bag`
   static const IconifyIconData bag = IconifyIconData(IconData(
     0xe003,
+    fontFamily: 'Gala',
+    fontPackage: 'iconifyx_gala',
+  ));
+
+  /// `bell`
+  static const IconifyIconData bell = IconifyIconData(IconData(
+    0xe004,
+    fontFamily: 'Gala',
+    fontPackage: 'iconifyx_gala',
+  ));
+
+  /// `book`
+  static const IconifyIconData book = IconifyIconData(IconData(
+    0xe005,
     fontFamily: 'Gala',
     fontPackage: 'iconifyx_gala',
   ));

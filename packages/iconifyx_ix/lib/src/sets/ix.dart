@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Siemens AG
 /// License: MIT — https://github.com/siemens/ix-icons/blob/main/LICENSE.md
-/// Icons: 1419
+/// Icons: 1434
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -3726,6 +3726,20 @@ class IxIcons {
     fontPackage: 'iconifyx_ix',
   ));
 
+  /// `feedback`
+  static const IconifyIconData feedback = IconifyIconData(IconData(
+    0xe58b,
+    fontFamily: 'Ix',
+    fontPackage: 'iconifyx_ix',
+  ));
+
+  /// `feedback-filled`
+  static const IconifyIconData feedbackFilled = IconifyIconData(IconData(
+    0xe58c,
+    fontFamily: 'Ix',
+    fontPackage: 'iconifyx_ix',
+  ));
+
   /// `filter`
   static const IconifyIconData filter = IconifyIconData(IconData(
     0xe212,
@@ -5007,6 +5021,13 @@ class IxIcons {
     fontPackage: 'iconifyx_ix',
   ));
 
+  /// `legal`
+  static const IconifyIconData legal = IconifyIconData(IconData(
+    0xe58d,
+    fontFamily: 'Ix',
+    fontPackage: 'iconifyx_ix',
+  ));
+
   /// `legal-circle`
   static const IconifyIconData legalCircle = IconifyIconData(IconData(
     0xe2c9,
@@ -5549,6 +5570,13 @@ class IxIcons {
   /// `map`
   static const IconifyIconData map = IconifyIconData(IconData(
     0xe316,
+    fontFamily: 'Ix',
+    fontPackage: 'iconifyx_ix',
+  ));
+
+  /// `map-alt-1`
+  static const IconifyIconData mapAlt1 = IconifyIconData(IconData(
+    0xe58e,
     fontFamily: 'Ix',
     fontPackage: 'iconifyx_ix',
   ));
@@ -6365,6 +6393,13 @@ class IxIcons {
     fontPackage: 'iconifyx_ix',
   ));
 
+  /// `pen-filled`
+  static const IconifyIconData penFilled = IconifyIconData(IconData(
+    0xe58f,
+    fontFamily: 'Ix',
+    fontPackage: 'iconifyx_ix',
+  ));
+
   /// `phone`
   static const IconifyIconData phone = IconifyIconData(IconData(
     0xe38b,
@@ -6389,6 +6424,20 @@ class IxIcons {
   /// `photo-camera-add`
   static const IconifyIconData photoCameraAdd = IconifyIconData(IconData(
     0xe38e,
+    fontFamily: 'Ix',
+    fontPackage: 'iconifyx_ix',
+  ));
+
+  /// `photo-camera-cancelled`
+  static const IconifyIconData photoCameraCancelled = IconifyIconData(IconData(
+    0xe590,
+    fontFamily: 'Ix',
+    fontPackage: 'iconifyx_ix',
+  ));
+
+  /// `photo-camera-cancelled-filled`
+  static const IconifyIconData photoCameraCancelledFilled = IconifyIconData(IconData(
+    0xe591,
     fontFamily: 'Ix',
     fontPackage: 'iconifyx_ix',
   ));
@@ -6683,6 +6732,13 @@ class IxIcons {
   /// `polar-plot`
   static const IconifyIconData polarPlot = IconifyIconData(IconData(
     0xe3b8,
+    fontFamily: 'Ix',
+    fontPackage: 'iconifyx_ix',
+  ));
+
+  /// `polarchart`
+  static const IconifyIconData polarchart = IconifyIconData(IconData(
+    0xe592,
     fontFamily: 'Ix',
     fontPackage: 'iconifyx_ix',
   ));
@@ -7229,6 +7285,13 @@ class IxIcons {
   /// `reorder`
   static const IconifyIconData reorder = IconifyIconData(IconData(
     0xe406,
+    fontFamily: 'Ix',
+    fontPackage: 'iconifyx_ix',
+  ));
+
+  /// `replace`
+  static const IconifyIconData replace = IconifyIconData(IconData(
+    0xe593,
     fontFamily: 'Ix',
     fontPackage: 'iconifyx_ix',
   ));
@@ -8486,6 +8549,20 @@ class IxIcons {
     fontPackage: 'iconifyx_ix',
   ));
 
+  /// `surveillance-cancelled`
+  static const IconifyIconData surveillanceCancelled = IconifyIconData(IconData(
+    0xe594,
+    fontFamily: 'Ix',
+    fontPackage: 'iconifyx_ix',
+  ));
+
+  /// `surveillance-cancelled-filled`
+  static const IconifyIconData surveillanceCancelledFilled = IconifyIconData(IconData(
+    0xe595,
+    fontFamily: 'Ix',
+    fontPackage: 'iconifyx_ix',
+  ));
+
   /// `surveillance-filled`
   static const IconifyIconData surveillanceFilled = IconifyIconData(IconData(
     0xe4ba,
@@ -8752,6 +8829,13 @@ class IxIcons {
     fontPackage: 'iconifyx_ix',
   ));
 
+  /// `telegram-logo`
+  static const IconifyIconData telegramLogo = IconifyIconData(IconData(
+    0xe596,
+    fontFamily: 'Ix',
+    fontPackage: 'iconifyx_ix',
+  ));
+
   /// `text`
   static const IconifyIconData text = IconifyIconData(IconData(
     0xe4e0,
@@ -8888,6 +8972,13 @@ class IxIcons {
   /// `threshold-on`
   static const IconifyIconData thresholdOn = IconifyIconData(IconData(
     0xe4f3,
+    fontFamily: 'Ix',
+    fontPackage: 'iconifyx_ix',
+  ));
+
+  /// `thumb-down`
+  static const IconifyIconData thumbDown = IconifyIconData(IconData(
+    0xe597,
     fontFamily: 'Ix',
     fontPackage: 'iconifyx_ix',
   ));
@@ -9742,6 +9833,20 @@ class IxIcons {
   /// `webcam`
   static const IconifyIconData webcam = IconifyIconData(IconData(
     0xe56d,
+    fontFamily: 'Ix',
+    fontPackage: 'iconifyx_ix',
+  ));
+
+  /// `webcam-cancelled`
+  static const IconifyIconData webcamCancelled = IconifyIconData(IconData(
+    0xe598,
+    fontFamily: 'Ix',
+    fontPackage: 'iconifyx_ix',
+  ));
+
+  /// `webcam-cancelled-filled`
+  static const IconifyIconData webcamCancelledFilled = IconifyIconData(IconData(
+    0xe599,
     fontFamily: 'Ix',
     fontPackage: 'iconifyx_ix',
   ));

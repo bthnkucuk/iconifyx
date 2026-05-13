@@ -16,13 +16,13 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/bytedance/IconPark/blob/master/LICENSE"
     },
-    "total": 2649
+    "total": 2658
   },
   "fonts": [
     {
       "family": "IconParkOutline",
-      "nextCodepoint": 59995,
-      "iconCount": 2649
+      "nextCodepoint": 60002,
+      "iconCount": 2658
     }
   ],
   "icons": {
@@ -2561,6 +2561,11 @@
       "fontFamily": "IconParkOutline",
       "identifier": "collectionRecords"
     },
+    "color-card": {
+      "codepoint": 59995,
+      "fontFamily": "IconParkOutline",
+      "identifier": "colorCard"
+    },
     "color-filter": {
       "codepoint": 57851,
       "fontFamily": "IconParkOutline",
@@ -3221,6 +3226,11 @@
       "fontFamily": "IconParkOutline",
       "identifier": "databaseNetworkPoint"
     },
+    "database-point": {
+      "codepoint": 59996,
+      "fontFamily": "IconParkOutline",
+      "identifier": "databasePoint"
+    },
     "database-position": {
       "codepoint": 57983,
       "fontFamily": "IconParkOutline",
@@ -3284,9 +3294,7 @@
     "deer": {
       "codepoint": 57995,
       "fontFamily": "IconParkOutline",
-      "identifier": "deer",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "deer"
     },
     "degree-hat": {
       "codepoint": 57996,
@@ -6148,6 +6156,11 @@
       "fontFamily": "IconParkOutline",
       "identifier": "healthyRecognition"
     },
+    "heart": {
+      "codepoint": 59997,
+      "fontFamily": "IconParkOutline",
+      "identifier": "heart"
+    },
     "heart-ballon": {
       "codepoint": 58568,
       "fontFamily": "IconParkOutline",
@@ -8716,9 +8729,7 @@
     "panda": {
       "codepoint": 59081,
       "fontFamily": "IconParkOutline",
-      "identifier": "panda",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "panda"
     },
     "pangle": {
       "codepoint": 59082,
@@ -11310,6 +11321,11 @@
       "fontFamily": "IconParkOutline",
       "identifier": "startTimeSort"
     },
+    "steering-wheel": {
+      "codepoint": 59998,
+      "fontFamily": "IconParkOutline",
+      "identifier": "steeringWheel"
+    },
     "steoller": {
       "codepoint": 59600,
       "fontFamily": "IconParkOutline",
@@ -12140,6 +12156,11 @@
       "fontFamily": "IconParkOutline",
       "identifier": "trademark"
     },
+    "traditional-chinese-medicine": {
+      "codepoint": 59999,
+      "fontFamily": "IconParkOutline",
+      "identifier": "traditionalChineseMedicine"
+    },
     "train": {
       "codepoint": 59766,
       "fontFamily": "IconParkOutline",
@@ -12274,6 +12295,11 @@
       "codepoint": 59792,
       "fontFamily": "IconParkOutline",
       "identifier": "triangleRoundRectangle"
+    },
+    "triangle-ruler": {
+      "codepoint": 60000,
+      "fontFamily": "IconParkOutline",
+      "identifier": "triangleRuler"
     },
     "triangular-pyramid": {
       "codepoint": 59793,
@@ -12524,6 +12550,11 @@
       "codepoint": 59842,
       "fontFamily": "IconParkOutline",
       "identifier": "upAndDown"
+    },
+    "up-c": {
+      "codepoint": 60001,
+      "fontFamily": "IconParkOutline",
+      "identifier": "upC"
     },
     "up-one": {
       "codepoint": 59843,

@@ -1,0 +1,449 @@
+{
+  "schemaVersion": 1,
+  "prefix": "gcp",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Programming",
+  "subPackage": "iconifyx_gcp",
+  "info": {
+    "name": "Google Cloud Icons",
+    "author": {
+      "name": "Google Cloud"
+    },
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0",
+      "url": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    "total": 84
+  },
+  "fonts": [
+    {
+      "family": "Gcp",
+      "nextCodepoint": 57428,
+      "iconCount": 84
+    }
+  ],
+  "icons": {
+    "access-context-manager": {
+      "codepoint": 57344,
+      "fontFamily": "Gcp",
+      "identifier": "accessContextManager"
+    },
+    "administration": {
+      "codepoint": 57345,
+      "fontFamily": "Gcp",
+      "identifier": "administration"
+    },
+    "advanced-agent-modeling": {
+      "codepoint": 57346,
+      "fontFamily": "Gcp",
+      "identifier": "advancedAgentModeling"
+    },
+    "ai-platform-unified": {
+      "codepoint": 57347,
+      "fontFamily": "Gcp",
+      "identifier": "aiPlatformUnified"
+    },
+    "anthos": {
+      "codepoint": 57348,
+      "fontFamily": "Gcp",
+      "identifier": "anthos"
+    },
+    "api": {
+      "codepoint": 57349,
+      "fontFamily": "Gcp",
+      "identifier": "api"
+    },
+    "artifact-registry": {
+      "codepoint": 57350,
+      "fontFamily": "Gcp",
+      "identifier": "artifactRegistry"
+    },
+    "automl-natural-language": {
+      "codepoint": 57351,
+      "fontFamily": "Gcp",
+      "identifier": "automlNaturalLanguage"
+    },
+    "bare-metal-solutions": {
+      "codepoint": 57352,
+      "fontFamily": "Gcp",
+      "identifier": "bareMetalSolutions"
+    },
+    "bigquery": {
+      "codepoint": 57353,
+      "fontFamily": "Gcp",
+      "identifier": "bigquery"
+    },
+    "billing": {
+      "codepoint": 57354,
+      "fontFamily": "Gcp",
+      "identifier": "billing"
+    },
+    "catalog": {
+      "codepoint": 57355,
+      "fontFamily": "Gcp",
+      "identifier": "catalog"
+    },
+    "certificate-manager": {
+      "codepoint": 57356,
+      "fontFamily": "Gcp",
+      "identifier": "certificateManager"
+    },
+    "cloud-armor": {
+      "codepoint": 57357,
+      "fontFamily": "Gcp",
+      "identifier": "cloudArmor"
+    },
+    "cloud-asset-inventory": {
+      "codepoint": 57358,
+      "fontFamily": "Gcp",
+      "identifier": "cloudAssetInventory"
+    },
+    "cloud-cdn": {
+      "codepoint": 57359,
+      "fontFamily": "Gcp",
+      "identifier": "cloudCdn"
+    },
+    "cloud-code": {
+      "codepoint": 57360,
+      "fontFamily": "Gcp",
+      "identifier": "cloudCode"
+    },
+    "cloud-composer": {
+      "codepoint": 57361,
+      "fontFamily": "Gcp",
+      "identifier": "cloudComposer"
+    },
+    "cloud-data-fusion": {
+      "codepoint": 57362,
+      "fontFamily": "Gcp",
+      "identifier": "cloudDataFusion"
+    },
+    "cloud-gpu": {
+      "codepoint": 57363,
+      "fontFamily": "Gcp",
+      "identifier": "cloudGpu"
+    },
+    "cloud-healthcare-api": {
+      "codepoint": 57364,
+      "fontFamily": "Gcp",
+      "identifier": "cloudHealthcareApi"
+    },
+    "cloud-healthcare-marketplace": {
+      "codepoint": 57365,
+      "fontFamily": "Gcp",
+      "identifier": "cloudHealthcareMarketplace"
+    },
+    "cloud-ids": {
+      "codepoint": 57366,
+      "fontFamily": "Gcp",
+      "identifier": "cloudIds"
+    },
+    "cloud-jobs-api": {
+      "codepoint": 57367,
+      "fontFamily": "Gcp",
+      "identifier": "cloudJobsApi"
+    },
+    "cloud-load-balancing": {
+      "codepoint": 57368,
+      "fontFamily": "Gcp",
+      "identifier": "cloudLoadBalancing"
+    },
+    "cloud-media-edge": {
+      "codepoint": 57369,
+      "fontFamily": "Gcp",
+      "identifier": "cloudMediaEdge"
+    },
+    "cloud-ops": {
+      "codepoint": 57370,
+      "fontFamily": "Gcp",
+      "identifier": "cloudOps"
+    },
+    "cloud-optimization-ai-fleet-routing-api": {
+      "codepoint": 57371,
+      "fontFamily": "Gcp",
+      "identifier": "cloudOptimizationAiFleetRoutingApi"
+    },
+    "cloud-run": {
+      "codepoint": 57372,
+      "fontFamily": "Gcp",
+      "identifier": "cloudRun"
+    },
+    "cloud-run-for-anthos": {
+      "codepoint": 57373,
+      "fontFamily": "Gcp",
+      "identifier": "cloudRunForAnthos"
+    },
+    "cloud-security-scanner": {
+      "codepoint": 57374,
+      "fontFamily": "Gcp",
+      "identifier": "cloudSecurityScanner"
+    },
+    "cloud-shell": {
+      "codepoint": 57375,
+      "fontFamily": "Gcp",
+      "identifier": "cloudShell"
+    },
+    "cloud-sql": {
+      "codepoint": 57376,
+      "fontFamily": "Gcp",
+      "identifier": "cloudSql"
+    },
+    "cloud-storage": {
+      "codepoint": 57377,
+      "fontFamily": "Gcp",
+      "identifier": "cloudStorage"
+    },
+    "cloud-tasks": {
+      "codepoint": 57378,
+      "fontFamily": "Gcp",
+      "identifier": "cloudTasks"
+    },
+    "cloud-tpu": {
+      "codepoint": 57379,
+      "fontFamily": "Gcp",
+      "identifier": "cloudTpu"
+    },
+    "cloud-vision-api": {
+      "codepoint": 57380,
+      "fontFamily": "Gcp",
+      "identifier": "cloudVisionApi"
+    },
+    "compute-engine": {
+      "codepoint": 57381,
+      "fontFamily": "Gcp",
+      "identifier": "computeEngine"
+    },
+    "connectivity-test": {
+      "codepoint": 57382,
+      "fontFamily": "Gcp",
+      "identifier": "connectivityTest"
+    },
+    "connectors": {
+      "codepoint": 57383,
+      "fontFamily": "Gcp",
+      "identifier": "connectors"
+    },
+    "container-registry": {
+      "codepoint": 57384,
+      "fontFamily": "Gcp",
+      "identifier": "containerRegistry"
+    },
+    "data-labeling": {
+      "codepoint": 57385,
+      "fontFamily": "Gcp",
+      "identifier": "dataLabeling"
+    },
+    "data-layers": {
+      "codepoint": 57386,
+      "fontFamily": "Gcp",
+      "identifier": "dataLayers"
+    },
+    "dataplex": {
+      "codepoint": 57387,
+      "fontFamily": "Gcp",
+      "identifier": "dataplex"
+    },
+    "dataproc": {
+      "codepoint": 57388,
+      "fontFamily": "Gcp",
+      "identifier": "dataproc"
+    },
+    "datastore": {
+      "codepoint": 57389,
+      "fontFamily": "Gcp",
+      "identifier": "datastore"
+    },
+    "datastream": {
+      "codepoint": 57390,
+      "fontFamily": "Gcp",
+      "identifier": "datastream"
+    },
+    "debugger": {
+      "codepoint": 57391,
+      "fontFamily": "Gcp",
+      "identifier": "debugger"
+    },
+    "dialogflow-cx": {
+      "codepoint": 57392,
+      "fontFamily": "Gcp",
+      "identifier": "dialogflowCx"
+    },
+    "dialogflow-insights": {
+      "codepoint": 57393,
+      "fontFamily": "Gcp",
+      "identifier": "dialogflowInsights"
+    },
+    "document-ai": {
+      "codepoint": 57394,
+      "fontFamily": "Gcp",
+      "identifier": "documentAi"
+    },
+    "fleet-engine": {
+      "codepoint": 57395,
+      "fontFamily": "Gcp",
+      "identifier": "fleetEngine"
+    },
+    "free-trial": {
+      "codepoint": 57396,
+      "fontFamily": "Gcp",
+      "identifier": "freeTrial"
+    },
+    "game-servers": {
+      "codepoint": 57397,
+      "fontFamily": "Gcp",
+      "identifier": "gameServers"
+    },
+    "gke-on-prem": {
+      "codepoint": 57398,
+      "fontFamily": "Gcp",
+      "identifier": "gkeOnPrem"
+    },
+    "google-cloud-marketplace": {
+      "codepoint": 57399,
+      "fontFamily": "Gcp",
+      "identifier": "googleCloudMarketplace"
+    },
+    "home": {
+      "codepoint": 57400,
+      "fontFamily": "Gcp",
+      "identifier": "home"
+    },
+    "iot-edge": {
+      "codepoint": 57401,
+      "fontFamily": "Gcp",
+      "identifier": "iotEdge"
+    },
+    "key-access-justifications": {
+      "codepoint": 57402,
+      "fontFamily": "Gcp",
+      "identifier": "keyAccessJustifications"
+    },
+    "launcher": {
+      "codepoint": 57403,
+      "fontFamily": "Gcp",
+      "identifier": "launcher"
+    },
+    "media-translation-api": {
+      "codepoint": 57404,
+      "fontFamily": "Gcp",
+      "identifier": "mediaTranslationApi"
+    },
+    "my-cloud": {
+      "codepoint": 57405,
+      "fontFamily": "Gcp",
+      "identifier": "myCloud"
+    },
+    "network-security": {
+      "codepoint": 57406,
+      "fontFamily": "Gcp",
+      "identifier": "networkSecurity"
+    },
+    "onboarding": {
+      "codepoint": 57407,
+      "fontFamily": "Gcp",
+      "identifier": "onboarding"
+    },
+    "os-inventory-management": {
+      "codepoint": 57408,
+      "fontFamily": "Gcp",
+      "identifier": "osInventoryManagement"
+    },
+    "partner-portal": {
+      "codepoint": 57409,
+      "fontFamily": "Gcp",
+      "identifier": "partnerPortal"
+    },
+    "permissions": {
+      "codepoint": 57410,
+      "fontFamily": "Gcp",
+      "identifier": "permissions"
+    },
+    "private-connectivity": {
+      "codepoint": 57411,
+      "fontFamily": "Gcp",
+      "identifier": "privateConnectivity"
+    },
+    "producer-portal": {
+      "codepoint": 57412,
+      "fontFamily": "Gcp",
+      "identifier": "producerPortal"
+    },
+    "project": {
+      "codepoint": 57413,
+      "fontFamily": "Gcp",
+      "identifier": "project"
+    },
+    "pubsub": {
+      "codepoint": 57414,
+      "fontFamily": "Gcp",
+      "identifier": "pubsub"
+    },
+    "quantum-engine": {
+      "codepoint": 57415,
+      "fontFamily": "Gcp",
+      "identifier": "quantumEngine"
+    },
+    "real-world-insights": {
+      "codepoint": 57416,
+      "fontFamily": "Gcp",
+      "identifier": "realWorldInsights"
+    },
+    "recommendations-ai": {
+      "codepoint": 57417,
+      "fontFamily": "Gcp",
+      "identifier": "recommendationsAi"
+    },
+    "retail-api": {
+      "codepoint": 57418,
+      "fontFamily": "Gcp",
+      "identifier": "retailApi"
+    },
+    "runtime-config": {
+      "codepoint": 57419,
+      "fontFamily": "Gcp",
+      "identifier": "runtimeConfig"
+    },
+    "security-health-advisor": {
+      "codepoint": 57420,
+      "fontFamily": "Gcp",
+      "identifier": "securityHealthAdvisor"
+    },
+    "stackdriver": {
+      "codepoint": 57421,
+      "fontFamily": "Gcp",
+      "identifier": "stackdriver"
+    },
+    "support": {
+      "codepoint": 57422,
+      "fontFamily": "Gcp",
+      "identifier": "support"
+    },
+    "trace": {
+      "codepoint": 57423,
+      "fontFamily": "Gcp",
+      "identifier": "trace"
+    },
+    "user-preferences": {
+      "codepoint": 57424,
+      "fontFamily": "Gcp",
+      "identifier": "userPreferences"
+    },
+    "virtual-private-cloud": {
+      "codepoint": 57425,
+      "fontFamily": "Gcp",
+      "identifier": "virtualPrivateCloud"
+    },
+    "web-risk": {
+      "codepoint": 57426,
+      "fontFamily": "Gcp",
+      "identifier": "webRisk"
+    },
+    "workload-identity-pool": {
+      "codepoint": 57427,
+      "fontFamily": "Gcp",
+      "identifier": "workloadIdentityPool"
+    }
+  }
+}

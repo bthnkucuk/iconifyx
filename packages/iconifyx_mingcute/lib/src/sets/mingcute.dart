@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: MingCute Design
 /// License: Apache 2.0 — https://github.com/Richard9394/MingCute/blob/main/LICENSE
-/// Icons: 3341 (split across 2 fonts)
+/// Icons: 3352 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -243,6 +243,13 @@ class MingcuteIcons {
   /// `airbnb-fill`
   static const IconifyIconData airbnbFill = IconifyIconData(IconData(
     0xe020,
+    fontFamily: 'Mingcute',
+    fontPackage: 'iconifyx_mingcute',
+  ));
+
+  /// `airbnb-line`
+  static const IconifyIconData airbnbLine = IconifyIconData(IconData(
+    0xed0d,
     fontFamily: 'Mingcute',
     fontPackage: 'iconifyx_mingcute',
   ));
@@ -611,6 +618,13 @@ class MingcuteIcons {
     fontPackage: 'iconifyx_mingcute',
   ));
 
+  /// `alipay-fill`
+  static const IconifyIconData alipayFill = IconifyIconData(IconData(
+    0xed0e,
+    fontFamily: 'Mingcute',
+    fontPackage: 'iconifyx_mingcute',
+  ));
+
   /// `alipay-line`
   static const IconifyIconData alipayLine = IconifyIconData(IconData(
     0xe055,
@@ -880,6 +894,20 @@ class MingcuteIcons {
   /// `archive-line`
   static const IconifyIconData archiveLine = IconifyIconData(IconData(
     0xe07b,
+    fontFamily: 'Mingcute',
+    fontPackage: 'iconifyx_mingcute',
+  ));
+
+  /// `aries-fill`
+  static const IconifyIconData ariesFill = IconifyIconData(IconData(
+    0xed0f,
+    fontFamily: 'Mingcute',
+    fontPackage: 'iconifyx_mingcute',
+  ));
+
+  /// `aries-line`
+  static const IconifyIconData ariesLine = IconifyIconData(IconData(
+    0xed10,
     fontFamily: 'Mingcute',
     fontPackage: 'iconifyx_mingcute',
   ));
@@ -8325,6 +8353,13 @@ class MingcuteIcons {
     fontPackage: 'iconifyx_mingcute',
   ));
 
+  /// `fault-line`
+  static const IconifyIconData faultLine = IconifyIconData(IconData(
+    0xed11,
+    fontFamily: 'Mingcute',
+    fontPackage: 'iconifyx_mingcute',
+  ));
+
   /// `fax-fill`
   static const IconifyIconData faxFill = IconifyIconData(IconData(
     0xe4a3,
@@ -10740,6 +10775,13 @@ class MingcuteIcons {
     fontPackage: 'iconifyx_mingcute',
   ));
 
+  /// `hands-clapping-line`
+  static const IconifyIconData handsClappingLine = IconifyIconData(IconData(
+    0xed12,
+    fontFamily: 'Mingcute',
+    fontPackage: 'iconifyx_mingcute',
+  ));
+
   /// `happy-fill`
   static const IconifyIconData happyFill = IconifyIconData(IconData(
     0xe5fc,
@@ -11394,6 +11436,20 @@ class MingcuteIcons {
   /// `hood-line`
   static const IconifyIconData hoodLine = IconifyIconData(IconData(
     0xe659,
+    fontFamily: 'Mingcute',
+    fontPackage: 'iconifyx_mingcute',
+  ));
+
+  /// `hop-fill`
+  static const IconifyIconData hopFill = IconifyIconData(IconData(
+    0xed13,
+    fontFamily: 'Mingcute',
+    fontPackage: 'iconifyx_mingcute',
+  ));
+
+  /// `hop-line`
+  static const IconifyIconData hopLine = IconifyIconData(IconData(
+    0xed14,
     fontFamily: 'Mingcute',
     fontPackage: 'iconifyx_mingcute',
   ));
@@ -13046,6 +13102,20 @@ class MingcuteIcons {
   /// `loading-4-line`
   static const IconifyIconData loading4Line = IconifyIconData(IconData(
     0xe743,
+    fontFamily: 'Mingcute',
+    fontPackage: 'iconifyx_mingcute',
+  ));
+
+  /// `loading-fill`
+  static const IconifyIconData loadingFill = IconifyIconData(IconData(
+    0xed15,
+    fontFamily: 'Mingcute',
+    fontPackage: 'iconifyx_mingcute',
+  ));
+
+  /// `loading-line`
+  static const IconifyIconData loadingLine = IconifyIconData(IconData(
+    0xed16,
     fontFamily: 'Mingcute',
     fontPackage: 'iconifyx_mingcute',
   ));
@@ -14936,6 +15006,13 @@ class MingcuteIcons {
   /// `paint-brush-ai-line`
   static const IconifyIconData paintBrushAiLine = IconifyIconData(IconData(
     0xe851,
+    fontFamily: 'Mingcute',
+    fontPackage: 'iconifyx_mingcute',
+  ));
+
+  /// `paint-brush-fill`
+  static const IconifyIconData paintBrushFill = IconifyIconData(IconData(
+    0xed17,
     fontFamily: 'Mingcute',
     fontPackage: 'iconifyx_mingcute',
   ));

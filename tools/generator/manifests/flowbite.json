@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/themesberg/flowbite-icons/blob/main/LICENSE"
     },
-    "total": 832
+    "total": 833
   },
   "fonts": [
     {
       "family": "Flowbite",
-      "nextCodepoint": 58176,
-      "iconCount": 832
+      "nextCodepoint": 58177,
+      "iconCount": 833
     }
   ],
   "icons": {
@@ -3565,6 +3565,11 @@
       "codepoint": 58051,
       "fontFamily": "Flowbite",
       "identifier": "starHalfOutline"
+    },
+    "star-half-solid": {
+      "codepoint": 58176,
+      "fontFamily": "Flowbite",
+      "identifier": "starHalfSolid"
     },
     "star-half-stroke-outline": {
       "codepoint": 58052,

@@ -16,13 +16,13 @@
       "spdx": "ISC",
       "url": "https://github.com/file-icons/icons/blob/master/LICENSE.md"
     },
-    "total": 923
+    "total": 930
   },
   "fonts": [
     {
       "family": "FileIcons",
-      "nextCodepoint": 58267,
-      "iconCount": 923
+      "nextCodepoint": 58274,
+      "iconCount": 930
     }
   ],
   "icons": {
@@ -1986,6 +1986,11 @@
       "fontFamily": "FileIcons",
       "identifier": "idris"
     },
+    "igor-pro": {
+      "codepoint": 58267,
+      "fontFamily": "FileIcons",
+      "identifier": "igorPro"
+    },
     "illumos": {
       "codepoint": 57736,
       "fontFamily": "FileIcons",
@@ -2080,6 +2085,11 @@
       "codepoint": 57754,
       "fontFamily": "FileIcons",
       "identifier": "jade"
+    },
+    "jakefile": {
+      "codepoint": 58268,
+      "fontFamily": "FileIcons",
+      "identifier": "jakefile"
     },
     "janet": {
       "codepoint": 57755,
@@ -2576,6 +2586,11 @@
       "fontFamily": "FileIcons",
       "identifier": "microsoftLync"
     },
+    "microsoft-onenote": {
+      "codepoint": 58269,
+      "fontFamily": "FileIcons",
+      "identifier": "microsoftOnenote"
+    },
     "microsoft-outlook": {
       "codepoint": 57854,
       "fontFamily": "FileIcons",
@@ -2670,6 +2685,11 @@
       "codepoint": 57872,
       "fontFamily": "FileIcons",
       "identifier": "modula2"
+    },
+    "modula-3": {
+      "codepoint": 58270,
+      "fontFamily": "FileIcons",
+      "identifier": "modula3"
     },
     "moho": {
       "codepoint": 57873,
@@ -3116,6 +3136,11 @@
       "fontFamily": "FileIcons",
       "identifier": "owl"
     },
+    "ox": {
+      "codepoint": 58271,
+      "fontFamily": "FileIcons",
+      "identifier": "ox"
+    },
     "oxygene": {
       "codepoint": 57962,
       "fontFamily": "FileIcons",
@@ -3295,6 +3320,11 @@
       "codepoint": 57997,
       "fontFamily": "FileIcons",
       "identifier": "postscript"
+    },
+    "pov-ray": {
+      "codepoint": 58272,
+      "fontFamily": "FileIcons",
+      "identifier": "povRay"
     },
     "powerbuilder": {
       "codepoint": 57998,
@@ -3585,6 +3615,11 @@
       "codepoint": 58055,
       "fontFamily": "FileIcons",
       "identifier": "riot"
+    },
+    "riot-old": {
+      "codepoint": 58273,
+      "fontFamily": "FileIcons",
+      "identifier": "riotOld"
     },
     "risc-v": {
       "codepoint": 58056,

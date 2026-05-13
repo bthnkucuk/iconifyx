@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Wis Design
 /// License: MIT — https://github.com/wisdesignsystem/lsicon/blob/main/LICENSE
-/// Icons: 709
+/// Icons: 716
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -1101,6 +1101,13 @@ class LsiconIcons {
     fontPackage: 'iconifyx_lsicon',
   ));
 
+  /// `data-outline`
+  static const IconifyIconData dataOutline = IconifyIconData(IconData(
+    0xe2c5,
+    fontFamily: 'Lsicon',
+    fontPackage: 'iconifyx_lsicon',
+  ));
+
   /// `data-screen-filled`
   static const IconifyIconData dataScreenFilled = IconifyIconData(IconData(
     0xe09b,
@@ -1451,6 +1458,13 @@ class LsiconIcons {
     fontPackage: 'iconifyx_lsicon',
   ));
 
+  /// `file-avi-filled`
+  static const IconifyIconData fileAviFilled = IconifyIconData(IconData(
+    0xe2c6,
+    fontFamily: 'Lsicon',
+    fontPackage: 'iconifyx_lsicon',
+  ));
+
   /// `file-avi-outline`
   static const IconifyIconData fileAviOutline = IconifyIconData(IconData(
     0xe0cd,
@@ -1468,6 +1482,13 @@ class LsiconIcons {
   /// `file-cdr-outline`
   static const IconifyIconData fileCdrOutline = IconifyIconData(IconData(
     0xe0cf,
+    fontFamily: 'Lsicon',
+    fontPackage: 'iconifyx_lsicon',
+  ));
+
+  /// `file-csv-filled`
+  static const IconifyIconData fileCsvFilled = IconifyIconData(IconData(
+    0xe2c7,
     fontFamily: 'Lsicon',
     fontPackage: 'iconifyx_lsicon',
   ));
@@ -1531,6 +1552,13 @@ class LsiconIcons {
   /// `file-jpg-outline`
   static const IconifyIconData fileJpgOutline = IconifyIconData(IconData(
     0xe0d8,
+    fontFamily: 'Lsicon',
+    fontPackage: 'iconifyx_lsicon',
+  ));
+
+  /// `file-mov-filled`
+  static const IconifyIconData fileMovFilled = IconifyIconData(IconData(
+    0xe2c8,
     fontFamily: 'Lsicon',
     fontPackage: 'iconifyx_lsicon',
   ));
@@ -1622,6 +1650,13 @@ class LsiconIcons {
   /// `file-ppt-outline`
   static const IconifyIconData filePptOutline = IconifyIconData(IconData(
     0xe0e5,
+    fontFamily: 'Lsicon',
+    fontPackage: 'iconifyx_lsicon',
+  ));
+
+  /// `file-rar-filled`
+  static const IconifyIconData fileRarFilled = IconifyIconData(IconData(
+    0xe2c9,
     fontFamily: 'Lsicon',
     fontPackage: 'iconifyx_lsicon',
   ));
@@ -3677,6 +3712,13 @@ class LsiconIcons {
     fontPackage: 'iconifyx_lsicon',
   ));
 
+  /// `send-filled`
+  static const IconifyIconData sendFilled = IconifyIconData(IconData(
+    0xe2ca,
+    fontFamily: 'Lsicon',
+    fontPackage: 'iconifyx_lsicon',
+  ));
+
   /// `send-outline`
   static const IconifyIconData sendOutline = IconifyIconData(IconData(
     0xe20b,
@@ -4310,6 +4352,13 @@ class LsiconIcons {
   /// `top-outline`
   static const IconifyIconData topOutline = IconifyIconData(IconData(
     0xe265,
+    fontFamily: 'Lsicon',
+    fontPackage: 'iconifyx_lsicon',
+  ));
+
+  /// `translate-filled`
+  static const IconifyIconData translateFilled = IconifyIconData(IconData(
+    0xe2cb,
     fontFamily: 'Lsicon',
     fontPackage: 'iconifyx_lsicon',
   ));

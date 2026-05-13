@@ -16,17 +16,17 @@
       "spdx": "MIT",
       "url": "https://github.com/BitcoinDesign/Bitcoin-Icons/blob/main/LICENSE-MIT"
     },
-    "total": 329
+    "total": 330
   },
   "fonts": [
     {
       "family": "BitcoinIcons",
-      "nextCodepoint": 57673,
-      "iconCount": 329
+      "nextCodepoint": 57674,
+      "iconCount": 330
     },
     {
       "family": "BitcoinIconsSecondary",
-      "nextCodepoint": 57673,
+      "nextCodepoint": 57674,
       "iconCount": 1
     }
   ],
@@ -736,6 +736,11 @@
       "codepoint": 57484,
       "fontFamily": "BitcoinIcons",
       "identifier": "graphFilled"
+    },
+    "graph-outline": {
+      "codepoint": 57673,
+      "fontFamily": "BitcoinIcons",
+      "identifier": "graphOutline"
     },
     "grid-filled": {
       "codepoint": 57485,

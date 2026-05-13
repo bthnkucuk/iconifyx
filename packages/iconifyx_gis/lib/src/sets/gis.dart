@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Jean-Marc Viglino
 /// License: CC BY 4.0 — https://github.com/Viglino/font-gis/blob/main/LICENSE-CC-BY.md
-/// Icons: 353
+/// Icons: 367
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -278,6 +278,13 @@ class GisIcons {
   /// `difference`
   static const IconifyIconData difference = IconifyIconData(IconData(
     0xe025,
+    fontFamily: 'Gis',
+    fontPackage: 'iconifyx_gis',
+  ));
+
+  /// `dilatation`
+  static const IconifyIconData dilatation = IconifyIconData(IconData(
+    0xe161,
     fontFamily: 'Gis',
     fontPackage: 'iconifyx_gis',
   ));
@@ -611,6 +618,13 @@ class GisIcons {
     fontPackage: 'iconifyx_gis',
   ));
 
+  /// `folder-map`
+  static const IconifyIconData folderMap = IconifyIconData(IconData(
+    0xe162,
+    fontFamily: 'Gis',
+    fontPackage: 'iconifyx_gis',
+  ));
+
   /// `folder-maps`
   static const IconifyIconData folderMaps = IconifyIconData(IconData(
     0xe055,
@@ -712,6 +726,13 @@ class GisIcons {
   /// `globe-options`
   static const IconifyIconData globeOptions = IconifyIconData(IconData(
     0xe063,
+    fontFamily: 'Gis',
+    fontPackage: 'iconifyx_gis',
+  ));
+
+  /// `globe-poi`
+  static const IconifyIconData globePoi = IconifyIconData(IconData(
+    0xe163,
     fontFamily: 'Gis',
     fontPackage: 'iconifyx_gis',
   ));
@@ -828,6 +849,13 @@ class GisIcons {
     fontPackage: 'iconifyx_gis',
   ));
 
+  /// `hydro-map`
+  static const IconifyIconData hydroMap = IconifyIconData(IconData(
+    0xe164,
+    fontFamily: 'Gis',
+    fontPackage: 'iconifyx_gis',
+  ));
+
   /// `i3s-file`
   static const IconifyIconData i3sFile = IconifyIconData(IconData(
     0xe074,
@@ -912,9 +940,23 @@ class GisIcons {
     fontPackage: 'iconifyx_gis',
   ));
 
+  /// `layer-alt-edit`
+  static const IconifyIconData layerAltEdit = IconifyIconData(IconData(
+    0xe165,
+    fontFamily: 'Gis',
+    fontPackage: 'iconifyx_gis',
+  ));
+
   /// `layer-alt-o`
   static const IconifyIconData layerAltO = IconifyIconData(IconData(
     0xe080,
+    fontFamily: 'Gis',
+    fontPackage: 'iconifyx_gis',
+  ));
+
+  /// `layer-alt-poi`
+  static const IconifyIconData layerAltPoi = IconifyIconData(IconData(
+    0xe166,
     fontFamily: 'Gis',
     fontPackage: 'iconifyx_gis',
   ));
@@ -1073,6 +1115,13 @@ class GisIcons {
     fontPackage: 'iconifyx_gis',
   ));
 
+  /// `layers-poi`
+  static const IconifyIconData layersPoi = IconifyIconData(IconData(
+    0xe167,
+    fontFamily: 'Gis',
+    fontPackage: 'iconifyx_gis',
+  ));
+
   /// `location`
   static const IconifyIconData location = IconifyIconData(IconData(
     0xe097,
@@ -1125,6 +1174,13 @@ class GisIcons {
   /// `location-poi-o`
   static const IconifyIconData locationPoiO = IconifyIconData(IconData(
     0xe09e,
+    fontFamily: 'Gis',
+    fontPackage: 'iconifyx_gis',
+  ));
+
+  /// `magnify-map`
+  static const IconifyIconData magnifyMap = IconifyIconData(IconData(
+    0xe168,
     fontFamily: 'Gis',
     fontPackage: 'iconifyx_gis',
   ));
@@ -1486,6 +1542,13 @@ class GisIcons {
     fontPackage: 'iconifyx_gis',
   ));
 
+  /// `phone-map`
+  static const IconifyIconData phoneMap = IconifyIconData(IconData(
+    0xe169,
+    fontFamily: 'Gis',
+    fontPackage: 'iconifyx_gis',
+  ));
+
   /// `phone-route`
   static const IconifyIconData phoneRoute = IconifyIconData(IconData(
     0xe0d2,
@@ -1703,6 +1766,13 @@ class GisIcons {
     fontPackage: 'iconifyx_gis',
   ));
 
+  /// `polygon-o-dash`
+  static const IconifyIconData polygonODash = IconifyIconData(IconData(
+    0xe16a,
+    fontFamily: 'Gis',
+    fontPackage: 'iconifyx_gis',
+  ));
+
   /// `polygon-pt`
   static const IconifyIconData polygonPt = IconifyIconData(IconData(
     0xe0f1,
@@ -1881,6 +1951,27 @@ class GisIcons {
   /// `rotate`
   static const IconifyIconData rotate = IconifyIconData(IconData(
     0xe10a,
+    fontFamily: 'Gis',
+    fontPackage: 'iconifyx_gis',
+  ));
+
+  /// `route`
+  static const IconifyIconData route = IconifyIconData(IconData(
+    0xe16b,
+    fontFamily: 'Gis',
+    fontPackage: 'iconifyx_gis',
+  ));
+
+  /// `route-end`
+  static const IconifyIconData routeEnd = IconifyIconData(IconData(
+    0xe16c,
+    fontFamily: 'Gis',
+    fontPackage: 'iconifyx_gis',
+  ));
+
+  /// `route-start`
+  static const IconifyIconData routeStart = IconifyIconData(IconData(
+    0xe16d,
     fontFamily: 'Gis',
     fontPackage: 'iconifyx_gis',
   ));
@@ -2238,6 +2329,13 @@ class GisIcons {
   /// `swipe-map-h`
   static const IconifyIconData swipeMapH = IconifyIconData(IconData(
     0xe13d,
+    fontFamily: 'Gis',
+    fontPackage: 'iconifyx_gis',
+  ));
+
+  /// `swipe-map-v`
+  static const IconifyIconData swipeMapV = IconifyIconData(IconData(
+    0xe16e,
     fontFamily: 'Gis',
     fontPackage: 'iconifyx_gis',
   ));

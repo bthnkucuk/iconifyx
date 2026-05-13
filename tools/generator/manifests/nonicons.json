@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/yamatsum/nonicons/blob/master/LICENSE"
     },
-    "total": 66
+    "total": 69
   },
   "fonts": [
     {
       "family": "Nonicons",
-      "nextCodepoint": 57410,
-      "iconCount": 66
+      "nextCodepoint": 57413,
+      "iconCount": 69
     }
   ],
   "icons": {
@@ -100,6 +100,11 @@
       "codepoint": 57358,
       "fontFamily": "Nonicons",
       "identifier": "error16"
+    },
+    "eslint-16": {
+      "codepoint": 57410,
+      "fontFamily": "Nonicons",
+      "identifier": "eslint16"
     },
     "field-16": {
       "codepoint": 57359,
@@ -271,6 +276,11 @@
       "fontFamily": "Nonicons",
       "identifier": "template16"
     },
+    "terraform-16": {
+      "codepoint": 57411,
+      "fontFamily": "Nonicons",
+      "identifier": "terraform16"
+    },
     "tmux-16": {
       "codepoint": 57393,
       "fontFamily": "Nonicons",
@@ -340,6 +350,11 @@
       "codepoint": 57406,
       "fontFamily": "Nonicons",
       "identifier": "vimVisualMode16"
+    },
+    "vscode-16": {
+      "codepoint": 57412,
+      "fontFamily": "Nonicons",
+      "identifier": "vscode16"
     },
     "vue-16": {
       "codepoint": 57407,

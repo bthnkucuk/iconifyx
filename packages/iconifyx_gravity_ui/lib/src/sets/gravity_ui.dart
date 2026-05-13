@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: YANDEX LLC
 /// License: MIT — https://github.com/gravity-ui/icons/blob/main/LICENSE
-/// Icons: 777
+/// Icons: 781
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -3607,9 +3607,23 @@ class GravityUiIcons {
     fontPackage: 'iconifyx_gravity_ui',
   ));
 
+  /// `lock-fill`
+  static const IconifyIconData lockFill = IconifyIconData(IconData(
+    0xe309,
+    fontFamily: 'GravityUi',
+    fontPackage: 'iconifyx_gravity_ui',
+  ));
+
   /// `lock-open`
   static const IconifyIconData lockOpen = IconifyIconData(IconData(
     0xe201,
+    fontFamily: 'GravityUi',
+    fontPackage: 'iconifyx_gravity_ui',
+  ));
+
+  /// `lock-open-fill`
+  static const IconifyIconData lockOpenFill = IconifyIconData(IconData(
+    0xe30a,
     fontFamily: 'GravityUi',
     fontPackage: 'iconifyx_gravity_ui',
   ));
@@ -3652,6 +3666,13 @@ class GravityUiIcons {
   /// `logo-facebook`
   static const IconifyIconData logoFacebook = IconifyIconData(IconData(
     0xe207,
+    fontFamily: 'GravityUi',
+    fontPackage: 'iconifyx_gravity_ui',
+  ));
+
+  /// `logo-figma`
+  static const IconifyIconData logoFigma = IconifyIconData(IconData(
+    0xe30b,
     fontFamily: 'GravityUi',
     fontPackage: 'iconifyx_gravity_ui',
   ));
@@ -3911,6 +3932,13 @@ class GravityUiIcons {
   /// `microphone-slash`
   static const IconifyIconData microphoneSlash = IconifyIconData(IconData(
     0xe22c,
+    fontFamily: 'GravityUi',
+    fontPackage: 'iconifyx_gravity_ui',
+  ));
+
+  /// `microscope`
+  static const IconifyIconData microscope = IconifyIconData(IconData(
+    0xe30c,
     fontFamily: 'GravityUi',
     fontPackage: 'iconifyx_gravity_ui',
   ));

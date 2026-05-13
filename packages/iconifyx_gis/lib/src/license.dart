@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'CC BY 4.0',
   licenseSpdx: 'CC-BY-4.0',
   licenseUrl: 'https://github.com/Viglino/font-gis/blob/main/LICENSE-CC-BY.md',
-  iconCount: 353,
+  iconCount: 367,
 );

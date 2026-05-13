@@ -16,13 +16,13 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 3972
+    "total": 4002
   },
   "fonts": [
     {
       "family": "Streamline",
-      "nextCodepoint": 61316,
-      "iconCount": 3972
+      "nextCodepoint": 61346,
+      "iconCount": 4002
     }
   ],
   "icons": {
@@ -651,6 +651,11 @@
       "fontFamily": "Streamline",
       "identifier": "ampersandRemix"
     },
+    "ampersand-solid": {
+      "codepoint": 61316,
+      "fontFamily": "Streamline",
+      "identifier": "ampersandSolid"
+    },
     "anchor": {
       "codepoint": 57469,
       "fontFamily": "Streamline",
@@ -855,6 +860,11 @@
       "codepoint": 57509,
       "fontFamily": "Streamline",
       "identifier": "arrowCursor2Remix"
+    },
+    "arrow-cursor-2-solid": {
+      "codepoint": 61317,
+      "fontFamily": "Streamline",
+      "identifier": "arrowCursor2Solid"
     },
     "arrow-curvy-up-down-1": {
       "codepoint": 57510,
@@ -2726,6 +2736,11 @@
       "fontFamily": "Streamline",
       "identifier": "callCenterSupportService"
     },
+    "call-center-support-service-remix": {
+      "codepoint": 61318,
+      "fontFamily": "Streamline",
+      "identifier": "callCenterSupportServiceRemix"
+    },
     "call-center-support-service-solid": {
       "codepoint": 57884,
       "fontFamily": "Streamline",
@@ -3295,6 +3310,11 @@
       "codepoint": 57997,
       "fontFamily": "Streamline",
       "identifier": "chessBishopRemix"
+    },
+    "chess-bishop-solid": {
+      "codepoint": 61319,
+      "fontFamily": "Streamline",
+      "identifier": "chessBishopSolid"
     },
     "chess-king": {
       "codepoint": 57998,
@@ -8216,6 +8236,31 @@
       "fontFamily": "Streamline",
       "identifier": "imagePhotoPolaroidFourPhotosCameraPolaroidPicturePhotographyPicturesFourPhoto"
     },
+    "image-photo-polaroid-photos-polaroid-picture-camera-photography-photo-pictures": {
+      "codepoint": 61320,
+      "fontFamily": "Streamline",
+      "identifier": "imagePhotoPolaroidPhotosPolaroidPictureCameraPhotographyPhotoPictures"
+    },
+    "image-picture-flower-photos-photo-picture-camera-photography-pictures-flower": {
+      "codepoint": 61321,
+      "fontFamily": "Streamline",
+      "identifier": "imagePictureFlowerPhotosPhotoPictureCameraPhotographyPicturesFlower"
+    },
+    "image-picture-gallery-pages-filter-picture-pagination-image": {
+      "codepoint": 61322,
+      "fontFamily": "Streamline",
+      "identifier": "imagePictureGalleryPagesFilterPicturePaginationImage"
+    },
+    "image-picture-landscape-1-photos-photo-landscape-picture-photography-camera-pictures": {
+      "codepoint": 61323,
+      "fontFamily": "Streamline",
+      "identifier": "imagePictureLandscape1PhotosPhotoLandscapePicturePhotographyCameraPictures"
+    },
+    "image-picture-landscape-2-photos-photo-landscape-picture-photography-camera-pictures": {
+      "codepoint": 61324,
+      "fontFamily": "Streamline",
+      "identifier": "imagePictureLandscape2PhotosPhotoLandscapePicturePhotographyCameraPictures"
+    },
     "image-saturation": {
       "codepoint": 58982,
       "fontFamily": "Streamline",
@@ -8591,6 +8636,11 @@
       "fontFamily": "Streamline",
       "identifier": "interfaceAlignBackBackDesignLayerLayersPileStack"
     },
+    "interface-align-front-design-front-layer-layers-pile-stack": {
+      "codepoint": 61325,
+      "fontFamily": "Streamline",
+      "identifier": "interfaceAlignFrontDesignFrontLayerLayersPileStack"
+    },
     "interface-align-horizontal-center-align-center-design": {
       "codepoint": 59057,
       "fontFamily": "Streamline",
@@ -8601,6 +8651,11 @@
       "fontFamily": "Streamline",
       "identifier": "interfaceAlignHorizontalLeftAlignDesignLeft"
     },
+    "interface-align-horizontal-right-align-design-right": {
+      "codepoint": 61326,
+      "fontFamily": "Streamline",
+      "identifier": "interfaceAlignHorizontalRightAlignDesignRight"
+    },
     "interface-align-layers-1-design-layer-layers-pile-stack": {
       "codepoint": 59059,
       "fontFamily": "Streamline",
@@ -8610,6 +8665,21 @@
       "codepoint": 59060,
       "fontFamily": "Streamline",
       "identifier": "interfaceAlignLayers2DesignLayerLayersPileStack"
+    },
+    "interface-align-vertical-bottom-align-design-bottom": {
+      "codepoint": 61327,
+      "fontFamily": "Streamline",
+      "identifier": "interfaceAlignVerticalBottomAlignDesignBottom"
+    },
+    "interface-align-vertical-center-align-design-middle": {
+      "codepoint": 61328,
+      "fontFamily": "Streamline",
+      "identifier": "interfaceAlignVerticalCenterAlignDesignMiddle"
+    },
+    "interface-align-vertical-top-align-design-top": {
+      "codepoint": 61329,
+      "fontFamily": "Streamline",
+      "identifier": "interfaceAlignVerticalTopAlignDesignTop"
     },
     "interface-arrows-all-direction-move-button-arrows-direction": {
       "codepoint": 59061,
@@ -8896,6 +8966,11 @@
       "fontFamily": "Streamline",
       "identifier": "interfaceArrowsExpand3ExpandSmallerRetractBiggerBigSmallDiagonal"
     },
+    "interface-arrows-expand-4-expand-small-bigger-retract-smaller-big": {
+      "codepoint": 61330,
+      "fontFamily": "Streamline",
+      "identifier": "interfaceArrowsExpand4ExpandSmallBiggerRetractSmallerBig"
+    },
     "interface-arrows-expand-5-expand-small-bigger-retract-smaller-big": {
       "codepoint": 59118,
       "fontFamily": "Streamline",
@@ -8961,6 +9036,11 @@
       "fontFamily": "Streamline",
       "identifier": "interfaceArrowsLoopArrowDiagramLoopInfinityRepeat"
     },
+    "interface-arrows-move-down-move-down-arrows": {
+      "codepoint": 61331,
+      "fontFamily": "Streamline",
+      "identifier": "interfaceArrowsMoveDownMoveDownArrows"
+    },
     "interface-arrows-move-horizontal-circle-transfer-data-internet-arrow-horizontal-network-circle": {
       "codepoint": 59131,
       "fontFamily": "Streamline",
@@ -8986,10 +9066,20 @@
       "fontFamily": "Streamline",
       "identifier": "interfaceArrowsMoveRightDownExpandResizeBiggerCornerSmallSmallerSizeArrowArrowsBig"
     },
+    "interface-arrows-move-right-move-right-arrows": {
+      "codepoint": 61332,
+      "fontFamily": "Streamline",
+      "identifier": "interfaceArrowsMoveRightMoveRightArrows"
+    },
     "interface-arrows-move-right-up-expand-resize-bigger-corner-small-smaller-size-arrow-arrows-big": {
       "codepoint": 59136,
       "fontFamily": "Streamline",
       "identifier": "interfaceArrowsMoveRightUpExpandResizeBiggerCornerSmallSmallerSizeArrowArrowsBig"
+    },
+    "interface-arrows-move-up-move-up-arrows": {
+      "codepoint": 61333,
+      "fontFamily": "Streamline",
+      "identifier": "interfaceArrowsMoveUpMoveUpArrows"
     },
     "interface-arrows-reload-1-arrows-load-arrow-sync-square-loading-reload-synchronize": {
       "codepoint": 59137,
@@ -9040,6 +9130,11 @@
       "codepoint": 59146,
       "fontFamily": "Streamline",
       "identifier": "interfaceArrowsShrink3ExpandRetractShrinkBiggerBigSmallSmaller"
+    },
+    "interface-arrows-shrink-4-expand-retract-shrink-bigger-big-small-smaller": {
+      "codepoint": 61334,
+      "fontFamily": "Streamline",
+      "identifier": "interfaceArrowsShrink4ExpandRetractShrinkBiggerBigSmallSmaller"
     },
     "interface-arrows-shrink-5-expand-retract-shrink-bigger-big-small-smaller": {
       "codepoint": 59147,
@@ -9271,6 +9366,11 @@
       "fontFamily": "Streamline",
       "identifier": "interfaceCalendarWarningAlterCalendarCautionDateDayMonthNotificationWarning"
     },
+    "interface-content-archive-box-content-banker-archive-file": {
+      "codepoint": 61335,
+      "fontFamily": "Streamline",
+      "identifier": "interfaceContentArchiveBoxContentBankerArchiveFile"
+    },
     "interface-content-archive-folder-outbox-content-folder-archive-file-inbox": {
       "codepoint": 59193,
       "fontFamily": "Streamline",
@@ -9305,6 +9405,11 @@
       "codepoint": 59199,
       "fontFamily": "Streamline",
       "identifier": "interfaceContentBookPagePagesContentBooksBookOpen"
+    },
+    "interface-content-chart-product-data-analysis-analytics-graph-line-business-board-chart": {
+      "codepoint": 61336,
+      "fontFamily": "Streamline",
+      "identifier": "interfaceContentChartProductDataAnalysisAnalyticsGraphLineBusinessBoardChart"
     },
     "interface-content-eye-glasses-vision-sunglasses-protection-spectacles-correction-sun-eye-glasses": {
       "codepoint": 59200,
@@ -9350,6 +9455,11 @@
       "codepoint": 59208,
       "fontFamily": "Streamline",
       "identifier": "interfaceCursorHandHandSelectCursorFinger"
+    },
+    "interface-dashboard-layout-1-corners-dashboard-frame-layout-mat-octagon-square-triangle": {
+      "codepoint": 61337,
+      "fontFamily": "Streamline",
+      "identifier": "interfaceDashboardLayout1CornersDashboardFrameLayoutMatOctagonSquareTriangle"
     },
     "interface-dashboard-layout-2-corners-dashboard-frame-layout-circle-square-center": {
       "codepoint": 59209,
@@ -10166,6 +10276,11 @@
       "fontFamily": "Streamline",
       "identifier": "interfaceIdVoiceScanIdentificationSecureIdSoundwaveSoundVoiceBracketsSecurity"
     },
+    "interface-layout-1-column-layout-layouts-left-sidebar": {
+      "codepoint": 61338,
+      "fontFamily": "Streamline",
+      "identifier": "interfaceLayout1ColumnLayoutLayoutsLeftSidebar"
+    },
     "interface-layout-10-column-layout-layouts-right-sidebar": {
       "codepoint": 59372,
       "fontFamily": "Streamline",
@@ -10621,6 +10736,11 @@
       "fontFamily": "Streamline",
       "identifier": "interfaceSettingSliderVerticalAdjustmentAdjustControlsFaderVerticalSettingsSlider1"
     },
+    "interface-setting-slider-vertical-adjustment-adjust-controls-fader-vertical-settings-slider-square": {
+      "codepoint": 61339,
+      "fontFamily": "Streamline",
+      "identifier": "interfaceSettingSliderVerticalAdjustmentAdjustControlsFaderVerticalSettingsSliderSquare"
+    },
     "interface-setting-tool-box-box-briefcase-tool-settings": {
       "codepoint": 59463,
       "fontFamily": "Streamline",
@@ -10701,10 +10821,25 @@
       "fontFamily": "Streamline",
       "identifier": "interfaceTextFormattingFontSizeSizeTextFormattingFontFormat"
     },
+    "interface-text-formatting-image-bottom-insert-paragraph-bottom-image-text-align-formatting": {
+      "codepoint": 61340,
+      "fontFamily": "Streamline",
+      "identifier": "interfaceTextFormattingImageBottomInsertParagraphBottomImageTextAlignFormatting"
+    },
     "interface-text-formatting-image-left-alignment-wrap-formatting-paragraph-image-left-text": {
       "codepoint": 59479,
       "fontFamily": "Streamline",
       "identifier": "interfaceTextFormattingImageLeftAlignmentWrapFormattingParagraphImageLeftText"
+    },
+    "interface-text-formatting-image-right-paragraph-image-text-alignment-wrap-right-formatting": {
+      "codepoint": 61341,
+      "fontFamily": "Streamline",
+      "identifier": "interfaceTextFormattingImageRightParagraphImageTextAlignmentWrapRightFormatting"
+    },
+    "interface-text-formatting-image-top-insert-paragraph-image-text-align-top-formatting": {
+      "codepoint": 61342,
+      "fontFamily": "Streamline",
+      "identifier": "interfaceTextFormattingImageTopInsertParagraphImageTextAlignTopFormatting"
     },
     "interface-text-formatting-indent-decrease-text-alignment-indent-paragraph-align-formatting-decrease": {
       "codepoint": 59480,
@@ -10760,6 +10895,11 @@
       "codepoint": 59490,
       "fontFamily": "Streamline",
       "identifier": "interfaceTextFormattingParagraphArticleAlignmentFormattingNormalParagraphText"
+    },
+    "interface-text-formatting-paragraph-bullets-points-bullet-align-paragraph-formatting-bullets-text": {
+      "codepoint": 61343,
+      "fontFamily": "Streamline",
+      "identifier": "interfaceTextFormattingParagraphBulletsPointsBulletAlignParagraphFormattingBulletsText"
     },
     "interface-text-formatting-paragraph-column-text-alignment-formatting-paragraph-columns-column-two": {
       "codepoint": 59491,
@@ -14365,6 +14505,16 @@
       "codepoint": 60211,
       "fontFamily": "Streamline",
       "identifier": "piSymbolCircle"
+    },
+    "pi-symbol-circle-remix": {
+      "codepoint": 61344,
+      "fontFamily": "Streamline",
+      "identifier": "piSymbolCircleRemix"
+    },
+    "pi-symbol-circle-solid": {
+      "codepoint": 61345,
+      "fontFamily": "Streamline",
+      "identifier": "piSymbolCircleSolid"
     },
     "pictures-folder-memories": {
       "codepoint": 60212,

@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Streamline
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 3972
+/// Icons: 4002
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -891,6 +891,13 @@ class StreamlineIcons {
     fontPackage: 'iconifyx_streamline',
   ));
 
+  /// `ampersand-solid`
+  static const IconifyIconData ampersandSolid = IconifyIconData(IconData(
+    0xef84,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
   /// `anchor`
   static const IconifyIconData anchor = IconifyIconData(IconData(
     0xe07d,
@@ -1174,6 +1181,13 @@ class StreamlineIcons {
   /// `arrow-cursor-2-remix`
   static const IconifyIconData arrowCursor2Remix = IconifyIconData(IconData(
     0xe0a5,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
+  /// `arrow-cursor-2-solid`
+  static const IconifyIconData arrowCursor2Solid = IconifyIconData(IconData(
+    0xef85,
     fontFamily: 'Streamline',
     fontPackage: 'iconifyx_streamline',
   ));
@@ -3796,6 +3810,13 @@ class StreamlineIcons {
     fontPackage: 'iconifyx_streamline',
   ));
 
+  /// `call-center-support-service-remix`
+  static const IconifyIconData callCenterSupportServiceRemix = IconifyIconData(IconData(
+    0xef86,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
   /// `call-center-support-service-solid`
   static const IconifyIconData callCenterSupportServiceSolid = IconifyIconData(IconData(
     0xe21c,
@@ -4590,6 +4611,13 @@ class StreamlineIcons {
   /// `chess-bishop-remix`
   static const IconifyIconData chessBishopRemix = IconifyIconData(IconData(
     0xe28d,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
+  /// `chess-bishop-solid`
+  static const IconifyIconData chessBishopSolid = IconifyIconData(IconData(
+    0xef87,
     fontFamily: 'Streamline',
     fontPackage: 'iconifyx_streamline',
   ));
@@ -11482,6 +11510,41 @@ class StreamlineIcons {
     fontPackage: 'iconifyx_streamline',
   ));
 
+  /// `image-photo-polaroid-photos-polaroid-picture-camera-photography-photo-pictures`
+  static const IconifyIconData imagePhotoPolaroidPhotosPolaroidPictureCameraPhotographyPhotoPictures = IconifyIconData(IconData(
+    0xef88,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
+  /// `image-picture-flower-photos-photo-picture-camera-photography-pictures-flower`
+  static const IconifyIconData imagePictureFlowerPhotosPhotoPictureCameraPhotographyPicturesFlower = IconifyIconData(IconData(
+    0xef89,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
+  /// `image-picture-gallery-pages-filter-picture-pagination-image`
+  static const IconifyIconData imagePictureGalleryPagesFilterPicturePaginationImage = IconifyIconData(IconData(
+    0xef8a,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
+  /// `image-picture-landscape-1-photos-photo-landscape-picture-photography-camera-pictures`
+  static const IconifyIconData imagePictureLandscape1PhotosPhotoLandscapePicturePhotographyCameraPictures = IconifyIconData(IconData(
+    0xef8b,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
+  /// `image-picture-landscape-2-photos-photo-landscape-picture-photography-camera-pictures`
+  static const IconifyIconData imagePictureLandscape2PhotosPhotoLandscapePicturePhotographyCameraPictures = IconifyIconData(IconData(
+    0xef8c,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
   /// `image-saturation`
   static const IconifyIconData imageSaturation = IconifyIconData(IconData(
     0xe666,
@@ -12007,6 +12070,13 @@ class StreamlineIcons {
     fontPackage: 'iconifyx_streamline',
   ));
 
+  /// `interface-align-front-design-front-layer-layers-pile-stack`
+  static const IconifyIconData interfaceAlignFrontDesignFrontLayerLayersPileStack = IconifyIconData(IconData(
+    0xef8d,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
   /// `interface-align-horizontal-center-align-center-design`
   static const IconifyIconData interfaceAlignHorizontalCenterAlignCenterDesign = IconifyIconData(IconData(
     0xe6b1,
@@ -12021,6 +12091,13 @@ class StreamlineIcons {
     fontPackage: 'iconifyx_streamline',
   ));
 
+  /// `interface-align-horizontal-right-align-design-right`
+  static const IconifyIconData interfaceAlignHorizontalRightAlignDesignRight = IconifyIconData(IconData(
+    0xef8e,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
   /// `interface-align-layers-1-design-layer-layers-pile-stack`
   static const IconifyIconData interfaceAlignLayers1DesignLayerLayersPileStack = IconifyIconData(IconData(
     0xe6b3,
@@ -12031,6 +12108,27 @@ class StreamlineIcons {
   /// `interface-align-layers-2-design-layer-layers-pile-stack`
   static const IconifyIconData interfaceAlignLayers2DesignLayerLayersPileStack = IconifyIconData(IconData(
     0xe6b4,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
+  /// `interface-align-vertical-bottom-align-design-bottom`
+  static const IconifyIconData interfaceAlignVerticalBottomAlignDesignBottom = IconifyIconData(IconData(
+    0xef8f,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
+  /// `interface-align-vertical-center-align-design-middle`
+  static const IconifyIconData interfaceAlignVerticalCenterAlignDesignMiddle = IconifyIconData(IconData(
+    0xef90,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
+  /// `interface-align-vertical-top-align-design-top`
+  static const IconifyIconData interfaceAlignVerticalTopAlignDesignTop = IconifyIconData(IconData(
+    0xef91,
     fontFamily: 'Streamline',
     fontPackage: 'iconifyx_streamline',
   ));
@@ -12434,6 +12532,13 @@ class StreamlineIcons {
     fontPackage: 'iconifyx_streamline',
   ));
 
+  /// `interface-arrows-expand-4-expand-small-bigger-retract-smaller-big`
+  static const IconifyIconData interfaceArrowsExpand4ExpandSmallBiggerRetractSmallerBig = IconifyIconData(IconData(
+    0xef92,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
   /// `interface-arrows-expand-5-expand-small-bigger-retract-smaller-big`
   static const IconifyIconData interfaceArrowsExpand5ExpandSmallBiggerRetractSmallerBig = IconifyIconData(IconData(
     0xe6ee,
@@ -12525,6 +12630,13 @@ class StreamlineIcons {
     fontPackage: 'iconifyx_streamline',
   ));
 
+  /// `interface-arrows-move-down-move-down-arrows`
+  static const IconifyIconData interfaceArrowsMoveDownMoveDownArrows = IconifyIconData(IconData(
+    0xef93,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
   /// `interface-arrows-move-horizontal-circle-transfer-data-internet-arrow-horizontal-network-circle`
   static const IconifyIconData interfaceArrowsMoveHorizontalCircleTransferDataInternetArrowHorizontalNetworkCircle = IconifyIconData(IconData(
     0xe6fb,
@@ -12560,9 +12672,23 @@ class StreamlineIcons {
     fontPackage: 'iconifyx_streamline',
   ));
 
+  /// `interface-arrows-move-right-move-right-arrows`
+  static const IconifyIconData interfaceArrowsMoveRightMoveRightArrows = IconifyIconData(IconData(
+    0xef94,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
   /// `interface-arrows-move-right-up-expand-resize-bigger-corner-small-smaller-size-arrow-arrows-big`
   static const IconifyIconData interfaceArrowsMoveRightUpExpandResizeBiggerCornerSmallSmallerSizeArrowArrowsBig = IconifyIconData(IconData(
     0xe700,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
+  /// `interface-arrows-move-up-move-up-arrows`
+  static const IconifyIconData interfaceArrowsMoveUpMoveUpArrows = IconifyIconData(IconData(
+    0xef95,
     fontFamily: 'Streamline',
     fontPackage: 'iconifyx_streamline',
   ));
@@ -12633,6 +12759,13 @@ class StreamlineIcons {
   /// `interface-arrows-shrink-3-expand-retract-shrink-bigger-big-small-smaller`
   static const IconifyIconData interfaceArrowsShrink3ExpandRetractShrinkBiggerBigSmallSmaller = IconifyIconData(IconData(
     0xe70a,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
+  /// `interface-arrows-shrink-4-expand-retract-shrink-bigger-big-small-smaller`
+  static const IconifyIconData interfaceArrowsShrink4ExpandRetractShrinkBiggerBigSmallSmaller = IconifyIconData(IconData(
+    0xef96,
     fontFamily: 'Streamline',
     fontPackage: 'iconifyx_streamline',
   ));
@@ -12959,6 +13092,13 @@ class StreamlineIcons {
     fontPackage: 'iconifyx_streamline',
   ));
 
+  /// `interface-content-archive-box-content-banker-archive-file`
+  static const IconifyIconData interfaceContentArchiveBoxContentBankerArchiveFile = IconifyIconData(IconData(
+    0xef97,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
   /// `interface-content-archive-folder-outbox-content-folder-archive-file-inbox`
   static const IconifyIconData interfaceContentArchiveFolderOutboxContentFolderArchiveFileInbox = IconifyIconData(IconData(
     0xe739,
@@ -13004,6 +13144,13 @@ class StreamlineIcons {
   /// `interface-content-book-page-pages-content-books-book-open`
   static const IconifyIconData interfaceContentBookPagePagesContentBooksBookOpen = IconifyIconData(IconData(
     0xe73f,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
+  /// `interface-content-chart-product-data-analysis-analytics-graph-line-business-board-chart`
+  static const IconifyIconData interfaceContentChartProductDataAnalysisAnalyticsGraphLineBusinessBoardChart = IconifyIconData(IconData(
+    0xef98,
     fontFamily: 'Streamline',
     fontPackage: 'iconifyx_streamline',
   ));
@@ -13067,6 +13214,13 @@ class StreamlineIcons {
   /// `interface-cursor-hand-hand-select-cursor-finger`
   static const IconifyIconData interfaceCursorHandHandSelectCursorFinger = IconifyIconData(IconData(
     0xe748,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
+  /// `interface-dashboard-layout-1-corners-dashboard-frame-layout-mat-octagon-square-triangle`
+  static const IconifyIconData interfaceDashboardLayout1CornersDashboardFrameLayoutMatOctagonSquareTriangle = IconifyIconData(IconData(
+    0xef99,
     fontFamily: 'Streamline',
     fontPackage: 'iconifyx_streamline',
   ));
@@ -14212,6 +14366,13 @@ class StreamlineIcons {
     fontPackage: 'iconifyx_streamline',
   ));
 
+  /// `interface-layout-1-column-layout-layouts-left-sidebar`
+  static const IconifyIconData interfaceLayout1ColumnLayoutLayoutsLeftSidebar = IconifyIconData(IconData(
+    0xef9a,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
   /// `interface-layout-10-column-layout-layouts-right-sidebar`
   static const IconifyIconData interfaceLayout10ColumnLayoutLayoutsRightSidebar = IconifyIconData(IconData(
     0xe7ec,
@@ -14849,6 +15010,13 @@ class StreamlineIcons {
     fontPackage: 'iconifyx_streamline',
   ));
 
+  /// `interface-setting-slider-vertical-adjustment-adjust-controls-fader-vertical-settings-slider-square`
+  static const IconifyIconData interfaceSettingSliderVerticalAdjustmentAdjustControlsFaderVerticalSettingsSliderSquare = IconifyIconData(IconData(
+    0xef9b,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
   /// `interface-setting-tool-box-box-briefcase-tool-settings`
   static const IconifyIconData interfaceSettingToolBoxBoxBriefcaseToolSettings = IconifyIconData(IconData(
     0xe847,
@@ -14961,9 +15129,30 @@ class StreamlineIcons {
     fontPackage: 'iconifyx_streamline',
   ));
 
+  /// `interface-text-formatting-image-bottom-insert-paragraph-bottom-image-text-align-formatting`
+  static const IconifyIconData interfaceTextFormattingImageBottomInsertParagraphBottomImageTextAlignFormatting = IconifyIconData(IconData(
+    0xef9c,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
   /// `interface-text-formatting-image-left-alignment-wrap-formatting-paragraph-image-left-text`
   static const IconifyIconData interfaceTextFormattingImageLeftAlignmentWrapFormattingParagraphImageLeftText = IconifyIconData(IconData(
     0xe857,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
+  /// `interface-text-formatting-image-right-paragraph-image-text-alignment-wrap-right-formatting`
+  static const IconifyIconData interfaceTextFormattingImageRightParagraphImageTextAlignmentWrapRightFormatting = IconifyIconData(IconData(
+    0xef9d,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
+  /// `interface-text-formatting-image-top-insert-paragraph-image-text-align-top-formatting`
+  static const IconifyIconData interfaceTextFormattingImageTopInsertParagraphImageTextAlignTopFormatting = IconifyIconData(IconData(
+    0xef9e,
     fontFamily: 'Streamline',
     fontPackage: 'iconifyx_streamline',
   ));
@@ -15041,6 +15230,13 @@ class StreamlineIcons {
   /// `interface-text-formatting-paragraph-article-alignment-formatting-normal-paragraph-text`
   static const IconifyIconData interfaceTextFormattingParagraphArticleAlignmentFormattingNormalParagraphText = IconifyIconData(IconData(
     0xe862,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
+  /// `interface-text-formatting-paragraph-bullets-points-bullet-align-paragraph-formatting-bullets-text`
+  static const IconifyIconData interfaceTextFormattingParagraphBulletsPointsBulletAlignParagraphFormattingBulletsText = IconifyIconData(IconData(
+    0xef9f,
     fontFamily: 'Streamline',
     fontPackage: 'iconifyx_streamline',
   ));
@@ -20088,6 +20284,20 @@ class StreamlineIcons {
   /// `pi-symbol-circle`
   static const IconifyIconData piSymbolCircle = IconifyIconData(IconData(
     0xeb33,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
+  /// `pi-symbol-circle-remix`
+  static const IconifyIconData piSymbolCircleRemix = IconifyIconData(IconData(
+    0xefa0,
+    fontFamily: 'Streamline',
+    fontPackage: 'iconifyx_streamline',
+  ));
+
+  /// `pi-symbol-circle-solid`
+  static const IconifyIconData piSymbolCircleSolid = IconifyIconData(IconData(
+    0xefa1,
     fontFamily: 'Streamline',
     fontPackage: 'iconifyx_streamline',
   ));

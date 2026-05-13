@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: liwen0526
 /// License: MIT — https://github.com/uiwjs/icons/blob/master/LICENSE
-/// Icons: 210
+/// Icons: 214
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -79,9 +79,23 @@ class UiwIcons {
     fontPackage: 'iconifyx_uiw',
   ));
 
+  /// `arrow-down`
+  static const IconifyIconData arrowDown = IconifyIconData(IconData(
+    0xe0d2,
+    fontFamily: 'Uiw',
+    fontPackage: 'iconifyx_uiw',
+  ));
+
   /// `arrow-left`
   static const IconifyIconData arrowLeft = IconifyIconData(IconData(
     0xe009,
+    fontFamily: 'Uiw',
+    fontPackage: 'iconifyx_uiw',
+  ));
+
+  /// `arrow-right`
+  static const IconifyIconData arrowRight = IconifyIconData(IconData(
+    0xe0d3,
     fontFamily: 'Uiw',
     fontPackage: 'iconifyx_uiw',
   ));
@@ -681,6 +695,13 @@ class UiwIcons {
     fontPackage: 'iconifyx_uiw',
   ));
 
+  /// `left`
+  static const IconifyIconData left = IconifyIconData(IconData(
+    0xe0d4,
+    fontFamily: 'Uiw',
+    fontPackage: 'iconifyx_uiw',
+  ));
+
   /// `left-circle`
   static const IconifyIconData leftCircle = IconifyIconData(IconData(
     0xe05f,
@@ -950,6 +971,13 @@ class UiwIcons {
   /// `picture`
   static const IconifyIconData picture = IconifyIconData(IconData(
     0xe085,
+    fontFamily: 'Uiw',
+    fontPackage: 'iconifyx_uiw',
+  ));
+
+  /// `pie-chart`
+  static const IconifyIconData pieChart = IconifyIconData(IconData(
+    0xe0d5,
     fontFamily: 'Uiw',
     fontPackage: 'iconifyx_uiw',
   ));

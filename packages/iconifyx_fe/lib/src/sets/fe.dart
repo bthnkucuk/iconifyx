@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Megumi Hano
 /// License: MIT — https://github.com/feathericon/feathericon/blob/master/LICENSE
-/// Icons: 254
+/// Icons: 255
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -1132,6 +1132,13 @@ class FeIcons {
   /// `notice-on`
   static const IconifyIconData noticeOn = IconifyIconData(IconData(
     0xe09f,
+    fontFamily: 'Fe',
+    fontPackage: 'iconifyx_fe',
+  ));
+
+  /// `notice-push`
+  static const IconifyIconData noticePush = IconifyIconData(IconData(
+    0xe0fe,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));

@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Leonid Tsvetkov
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 1526
+/// Icons: 1541
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -180,6 +180,13 @@ class LetsIconsIcons {
   /// `add-square-fill`
   static const IconifyIconData addSquareFill = IconifyIconData(IconData(
     0xe017,
+    fontFamily: 'LetsIcons',
+    fontPackage: 'iconifyx_lets_icons',
+  ));
+
+  /// `add-square-light`
+  static const IconifyIconData addSquareLight = IconifyIconData(IconData(
+    0xe5f6,
     fontFamily: 'LetsIcons',
     fontPackage: 'iconifyx_lets_icons',
   ));
@@ -1801,6 +1808,13 @@ class LetsIconsIcons {
     fontPackage: 'iconifyx_lets_icons',
   ));
 
+  /// `candlestick-light`
+  static const IconifyIconData candlestickLight = IconifyIconData(IconData(
+    0xe5f7,
+    fontFamily: 'LetsIcons',
+    fontPackage: 'iconifyx_lets_icons',
+  ));
+
   /// `carbs`
   static const IconifyIconData carbs = IconifyIconData(IconData(
     0xe0ff,
@@ -2802,6 +2816,20 @@ class LetsIconsIcons {
     fontPackage: 'iconifyx_lets_icons',
   ));
 
+  /// `copy-alt`
+  static const IconifyIconData copyAlt = IconifyIconData(IconData(
+    0xe5f8,
+    fontFamily: 'LetsIcons',
+    fontPackage: 'iconifyx_lets_icons',
+  ));
+
+  /// `copy-alt-light`
+  static const IconifyIconData copyAltLight = IconifyIconData(IconData(
+    0xe5f9,
+    fontFamily: 'LetsIcons',
+    fontPackage: 'iconifyx_lets_icons',
+  ));
+
   /// `copy-light`
   static const IconifyIconData copyLight = IconifyIconData(IconData(
     0xe18e,
@@ -3162,6 +3190,20 @@ class LetsIconsIcons {
   /// `desk-light`
   static const IconifyIconData deskLight = IconifyIconData(IconData(
     0xe1c1,
+    fontFamily: 'LetsIcons',
+    fontPackage: 'iconifyx_lets_icons',
+  ));
+
+  /// `desktop`
+  static const IconifyIconData desktop = IconifyIconData(IconData(
+    0xe5fa,
+    fontFamily: 'LetsIcons',
+    fontPackage: 'iconifyx_lets_icons',
+  ));
+
+  /// `desktop-light`
+  static const IconifyIconData desktopLight = IconifyIconData(IconData(
+    0xe5fb,
     fontFamily: 'LetsIcons',
     fontPackage: 'iconifyx_lets_icons',
   ));
@@ -4503,6 +4545,13 @@ class LetsIconsIcons {
     fontPackage: 'iconifyx_lets_icons',
   ));
 
+  /// `folder-copy-light`
+  static const IconifyIconData folderCopyLight = IconifyIconData(IconData(
+    0xe5fc,
+    fontFamily: 'LetsIcons',
+    fontPackage: 'iconifyx_lets_icons',
+  ));
+
   /// `folder-del`
   static const IconifyIconData folderDel = IconifyIconData(IconData(
     0xe281,
@@ -4562,6 +4611,13 @@ class LetsIconsIcons {
   /// `folder-dublicate-fill`
   static const IconifyIconData folderDublicateFill = IconifyIconData(IconData(
     0xe289,
+    fontFamily: 'LetsIcons',
+    fontPackage: 'iconifyx_lets_icons',
+  ));
+
+  /// `folder-dublicate-light`
+  static const IconifyIconData folderDublicateLight = IconifyIconData(IconData(
+    0xe5fd,
     fontFamily: 'LetsIcons',
     fontPackage: 'iconifyx_lets_icons',
   ));
@@ -6568,6 +6624,20 @@ class LetsIconsIcons {
     fontPackage: 'iconifyx_lets_icons',
   ));
 
+  /// `mobile`
+  static const IconifyIconData mobile = IconifyIconData(IconData(
+    0xe5fe,
+    fontFamily: 'LetsIcons',
+    fontPackage: 'iconifyx_lets_icons',
+  ));
+
+  /// `mobile-light`
+  static const IconifyIconData mobileLight = IconifyIconData(IconData(
+    0xe5ff,
+    fontFamily: 'LetsIcons',
+    fontPackage: 'iconifyx_lets_icons',
+  ));
+
   /// `molecule`
   static const IconifyIconData molecule = IconifyIconData(IconData(
     0xe3a8,
@@ -7940,6 +8010,13 @@ class LetsIconsIcons {
     fontPackage: 'iconifyx_lets_icons',
   ));
 
+  /// `road-alt-duotone`
+  static const IconifyIconData roadAltDuotone = IconifyIconData(IconData(
+    0xe600,
+    fontFamily: 'LetsIcons',
+    fontPackage: 'iconifyx_lets_icons',
+  ));
+
   /// `road-alt-duotone-line`
   static const IconifyIconData roadAltDuotoneLine = IconifyIconData(IconData(
     0xe46c,
@@ -8265,6 +8342,13 @@ class LetsIconsIcons {
   /// `send`
   static const IconifyIconData send = IconifyIconData(IconData(
     0xe49a,
+    fontFamily: 'LetsIcons',
+    fontPackage: 'iconifyx_lets_icons',
+  ));
+
+  /// `send-duotone`
+  static const IconifyIconData sendDuotone = IconifyIconData(IconData(
+    0xe601,
     fontFamily: 'LetsIcons',
     fontPackage: 'iconifyx_lets_icons',
   ));
@@ -10362,6 +10446,20 @@ class LetsIconsIcons {
     fontPackage: 'iconifyx_lets_icons',
   ));
 
+  /// `view-hide-duotone`
+  static const IconifyIconData viewHideDuotone = IconifyIconData(IconData(
+    0xe602,
+    fontFamily: 'LetsIcons',
+    fontPackage: 'iconifyx_lets_icons',
+  ));
+
+  /// `view-hide-duotone-line`
+  static const IconifyIconData viewHideDuotoneLine = IconifyIconData(IconData(
+    0xe603,
+    fontFamily: 'LetsIcons',
+    fontPackage: 'iconifyx_lets_icons',
+  ));
+
   /// `view-hide-fill`
   static const IconifyIconData viewHideFill = IconifyIconData(IconData(
     0xe5c6,
@@ -10491,6 +10589,13 @@ class LetsIconsIcons {
   /// `watch-alt`
   static const IconifyIconData watchAlt = IconifyIconData(IconData(
     0xe5d8,
+    fontFamily: 'LetsIcons',
+    fontPackage: 'iconifyx_lets_icons',
+  ));
+
+  /// `watch-alt-light`
+  static const IconifyIconData watchAltLight = IconifyIconData(IconData(
+    0xe604,
     fontFamily: 'LetsIcons',
     fontPackage: 'iconifyx_lets_icons',
   ));

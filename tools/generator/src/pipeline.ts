@@ -16,7 +16,7 @@ import {
 import { loadConfig, displayCategory, fontFamilyFromPrefix, dartFileNameFromPrefix } from './group_sets.ts';
 import { validateIconBody } from './glyph_validator.ts';
 import { strokeFillBatch } from './stroke_fill.ts';
-import { isDuotoneBody, splitDuotoneBody, setStrokeWidth } from './svg_preprocess.ts';
+import { isDuotoneBody, splitDuotoneBody, setStrokeWidth, rasterFillSignal } from './svg_preprocess.ts';
 import { secondaryFontFamily } from './manifest.ts';
 import {
   readManifest,
@@ -35,6 +35,9 @@ import {
 } from './pubspec_codegen.ts';
 import { emitSetThirdPartyLicense, emitSetLicenseDart } from './license_codegen.ts';
 import { emitExampleIndex, emitExamplePubspec, emitExampleApp } from './example_codegen.ts';
+import { writeCoverageReport } from './coverage_report.ts';
+import { writeStrokeAudit } from './stroke_audit.ts';
+import type { AuditEntry } from './stroke_audit.ts';
 import {
   setPackageDir,
   setPackageFontsDir,
@@ -61,6 +64,17 @@ export interface PipelineOptions {
   /** Run a smoke set: instead of all sets, only this small list. */
   smokeOnly?: string[];
 }
+
+/**
+ * Per-set raster-fill audit data, populated as the pipeline runs and
+ * dumped into STROKE_AUDIT.md at the end.
+ */
+interface RasterFillAuditEntry {
+  sig: ReturnType<typeof rasterFillSignal>;
+  applied: boolean;
+  source: 'explicit' | 'auto' | 'none';
+}
+const rasterFillSignalCache = new Map<string, RasterFillAuditEntry>();
 
 export async function runPipeline(options: PipelineOptions = {}): Promise<void> {
   const concurrency =
@@ -184,6 +198,32 @@ export async function runPipeline(options: PipelineOptions = {}): Promise<void> 
   log.step('Writing example app data');
   await writeExampleData(allManifests, collections, config);
 
+  log.step('Writing coverage report');
+  await writeCoverageReport({
+    collections,
+    manifests: allManifests,
+    config,
+    iconifyJsonVersion: iconifyVersion,
+  });
+
+  log.step('Writing stroke / evenodd audit');
+  const auditEntries: AuditEntry[] = [];
+  for (const [prefix, info] of Object.entries(collections)) {
+    const cached = rasterFillSignalCache.get(prefix);
+    const m = allManifests.find((x) => x.prefix === prefix);
+    auditEntries.push({
+      prefix,
+      setName: info.name,
+      sig: cached?.sig ?? { strokeRatio: 0, evenOddRatio: 0, combinedRatio: 0 },
+      applied: cached?.applied ?? false,
+      source: cached?.source ?? 'none',
+      iconCount: m
+        ? Object.values(m.icons).filter((i) => !i.deprecated).length
+        : 0,
+    });
+  }
+  await writeStrokeAudit(auditEntries);
+
   log.success('All artifacts written.');
 }
 
@@ -245,11 +285,28 @@ async function processOneSet(
     duotoneNames.add(r.name);
   }
 
-  // Stroke-only icon sets (Lucide, Tabler, Iconoir, …) need their strokes
-  // converted to filled outlines before font conversion. The result is
-  // cached on disk; only first-time generation is slow. For duotone-aware
-  // sets like Solar we also stroke-fill the secondary layer.
-  const isStrokeFillSet = config.strokeFillSets?.includes(prefix) ?? false;
+  // Stroke / evenodd icon sets need rasterize-then-trace pre-processing
+  // before font conversion (svgicons2svgfont collapses strokes to zero
+  // width and TTF rendering uses non-zero winding regardless of an
+  // `fill-rule="evenodd"` in the source). Two signals trigger the pass:
+  //   1. Explicit allow-list in config.strokeFillSets (overrides detection)
+  //   2. Auto-detection on the icon sample: stroke ratio ≥ 50% OR
+  //      evenodd ratio ≥ 20% (50% combined catches gravity-ui-style sets
+  //      whose icons use evenodd cutouts but no explicit stroke).
+  // Per-icon: ~5-20 ms first time, then disk-cached.
+  const sig = rasterFillSignal(allResolved);
+  const explicitlyConfigured = config.strokeFillSets?.includes(prefix) ?? false;
+  const autoDetected =
+    sig.combinedRatio >= 0.5 || sig.evenOddRatio >= 0.2;
+  const isStrokeFillSet = explicitlyConfigured || autoDetected;
+  if (autoDetected && !explicitlyConfigured) {
+    log.info(
+      `  "${prefix}": auto-detected stroke/evenodd (stroke=${(sig.strokeRatio * 100).toFixed(0)}%, evenodd=${(sig.evenOddRatio * 100).toFixed(0)}%) — applying rasterize-trace`
+    );
+  }
+  // Stash the signal on the manifest later so audit reports show why a
+  // set was processed.
+  rasterFillSignalCache.set(prefix, { sig, applied: isStrokeFillSet, source: explicitlyConfigured ? 'explicit' : autoDetected ? 'auto' : 'none' });
   if (isStrokeFillSet) {
     await strokeFillBatch(prefix, allResolved);
     if (secondaryByName.size > 0) {

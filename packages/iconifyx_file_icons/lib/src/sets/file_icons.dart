@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: John Gardner
 /// License: ISC — https://github.com/file-icons/icons/blob/master/LICENSE.md
-/// Icons: 923
+/// Icons: 930
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -2760,6 +2760,13 @@ class FileIconsIcons {
     fontPackage: 'iconifyx_file_icons',
   ));
 
+  /// `igor-pro`
+  static const IconifyIconData igorPro = IconifyIconData(IconData(
+    0xe39b,
+    fontFamily: 'FileIcons',
+    fontPackage: 'iconifyx_file_icons',
+  ));
+
   /// `illumos`
   static const IconifyIconData illumos = IconifyIconData(IconData(
     0xe188,
@@ -2889,6 +2896,13 @@ class FileIconsIcons {
   /// `jade`
   static const IconifyIconData jade = IconifyIconData(IconData(
     0xe19a,
+    fontFamily: 'FileIcons',
+    fontPackage: 'iconifyx_file_icons',
+  ));
+
+  /// `jakefile`
+  static const IconifyIconData jakefile = IconifyIconData(IconData(
+    0xe39c,
     fontFamily: 'FileIcons',
     fontPackage: 'iconifyx_file_icons',
   ));
@@ -3586,6 +3600,13 @@ class FileIconsIcons {
     fontPackage: 'iconifyx_file_icons',
   ));
 
+  /// `microsoft-onenote`
+  static const IconifyIconData microsoftOnenote = IconifyIconData(IconData(
+    0xe39d,
+    fontFamily: 'FileIcons',
+    fontPackage: 'iconifyx_file_icons',
+  ));
+
   /// `microsoft-outlook`
   static const IconifyIconData microsoftOutlook = IconifyIconData(IconData(
     0xe1fe,
@@ -3715,6 +3736,13 @@ class FileIconsIcons {
   /// `modula-2`
   static const IconifyIconData modula2 = IconifyIconData(IconData(
     0xe210,
+    fontFamily: 'FileIcons',
+    fontPackage: 'iconifyx_file_icons',
+  ));
+
+  /// `modula-3`
+  static const IconifyIconData modula3 = IconifyIconData(IconData(
+    0xe39e,
     fontFamily: 'FileIcons',
     fontPackage: 'iconifyx_file_icons',
   ));
@@ -4342,6 +4370,13 @@ class FileIconsIcons {
     fontPackage: 'iconifyx_file_icons',
   ));
 
+  /// `ox`
+  static const IconifyIconData ox = IconifyIconData(IconData(
+    0xe39f,
+    fontFamily: 'FileIcons',
+    fontPackage: 'iconifyx_file_icons',
+  ));
+
   /// `oxygene`
   static const IconifyIconData oxygene = IconifyIconData(IconData(
     0xe26a,
@@ -4590,6 +4625,13 @@ class FileIconsIcons {
   /// `postscript`
   static const IconifyIconData postscript = IconifyIconData(IconData(
     0xe28d,
+    fontFamily: 'FileIcons',
+    fontPackage: 'iconifyx_file_icons',
+  ));
+
+  /// `pov-ray`
+  static const IconifyIconData povRay = IconifyIconData(IconData(
+    0xe3a0,
     fontFamily: 'FileIcons',
     fontPackage: 'iconifyx_file_icons',
   ));
@@ -4996,6 +5038,13 @@ class FileIconsIcons {
   /// `riot`
   static const IconifyIconData riot = IconifyIconData(IconData(
     0xe2c7,
+    fontFamily: 'FileIcons',
+    fontPackage: 'iconifyx_file_icons',
+  ));
+
+  /// `riot-old`
+  static const IconifyIconData riotOld = IconifyIconData(IconData(
+    0xe3a1,
     fontFamily: 'FileIcons',
     fontPackage: 'iconifyx_file_icons',
   ));

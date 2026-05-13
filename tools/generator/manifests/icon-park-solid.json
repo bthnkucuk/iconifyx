@@ -16,13 +16,13 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/bytedance/IconPark/blob/master/LICENSE"
     },
-    "total": 1949
+    "total": 1970
   },
   "fonts": [
     {
       "family": "IconParkSolid",
-      "nextCodepoint": 59295,
-      "iconCount": 1949
+      "nextCodepoint": 59314,
+      "iconCount": 1970
     }
   ],
   "icons": {
@@ -450,6 +450,11 @@
       "codepoint": 57428,
       "fontFamily": "IconParkSolid",
       "identifier": "angryFace"
+    },
+    "anguished-face": {
+      "codepoint": 59295,
+      "fontFamily": "IconParkSolid",
+      "identifier": "anguishedFace"
     },
     "announcement": {
       "codepoint": 57429,
@@ -1321,6 +1326,11 @@
       "fontFamily": "IconParkSolid",
       "identifier": "bus"
     },
+    "bus-one": {
+      "codepoint": 59296,
+      "fontFamily": "IconParkSolid",
+      "identifier": "busOne"
+    },
     "bus-two": {
       "codepoint": 57603,
       "fontFamily": "IconParkSolid",
@@ -1661,6 +1671,11 @@
       "fontFamily": "IconParkSolid",
       "identifier": "chicken"
     },
+    "chicken-leg": {
+      "codepoint": 59297,
+      "fontFamily": "IconParkSolid",
+      "identifier": "chickenLeg"
+    },
     "children-cap": {
       "codepoint": 57671,
       "fontFamily": "IconParkSolid",
@@ -1991,6 +2006,11 @@
       "fontFamily": "IconParkSolid",
       "identifier": "collectionRecords"
     },
+    "color-card": {
+      "codepoint": 59298,
+      "fontFamily": "IconParkSolid",
+      "identifier": "colorCard"
+    },
     "color-filter": {
       "codepoint": 57737,
       "fontFamily": "IconParkSolid",
@@ -2085,6 +2105,11 @@
       "codepoint": 57755,
       "fontFamily": "IconParkSolid",
       "identifier": "cones"
+    },
+    "config": {
+      "codepoint": 59299,
+      "fontFamily": "IconParkSolid",
+      "identifier": "config"
     },
     "confounded-face": {
       "codepoint": 57756,
@@ -2306,10 +2331,20 @@
       "fontFamily": "IconParkSolid",
       "identifier": "curling"
     },
+    "curve-adjustment": {
+      "codepoint": 59300,
+      "fontFamily": "IconParkSolid",
+      "identifier": "curveAdjustment"
+    },
     "cutting-one": {
       "codepoint": 57800,
       "fontFamily": "IconParkSolid",
       "identifier": "cuttingOne"
+    },
+    "cuvette": {
+      "codepoint": 59301,
+      "fontFamily": "IconParkSolid",
+      "identifier": "cuvette"
     },
     "cycle-one": {
       "codepoint": 57801,
@@ -2471,6 +2506,11 @@
       "fontFamily": "IconParkSolid",
       "identifier": "databaseNetworkPoint"
     },
+    "database-point": {
+      "codepoint": 59302,
+      "fontFamily": "IconParkSolid",
+      "identifier": "databasePoint"
+    },
     "database-position": {
       "codepoint": 57833,
       "fontFamily": "IconParkSolid",
@@ -2519,9 +2559,7 @@
     "deer": {
       "codepoint": 57842,
       "fontFamily": "IconParkSolid",
-      "identifier": "deer",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "deer"
     },
     "degree-hat": {
       "codepoint": 57843,
@@ -3608,6 +3646,11 @@
       "fontFamily": "IconParkSolid",
       "identifier": "fileWord"
     },
+    "fill": {
+      "codepoint": 59303,
+      "fontFamily": "IconParkSolid",
+      "identifier": "fill"
+    },
     "filter": {
       "codepoint": 58060,
       "fontFamily": "IconParkSolid",
@@ -3622,6 +3665,11 @@
       "codepoint": 58062,
       "fontFamily": "IconParkSolid",
       "identifier": "financing"
+    },
+    "financing-one": {
+      "codepoint": 59304,
+      "fontFamily": "IconParkSolid",
+      "identifier": "financingOne"
     },
     "financing-two": {
       "codepoint": 58063,
@@ -3983,6 +4031,11 @@
       "fontFamily": "IconParkSolid",
       "identifier": "fourRoundPointConnection"
     },
+    "foursquare": {
+      "codepoint": 59305,
+      "fontFamily": "IconParkSolid",
+      "identifier": "foursquare"
+    },
     "french-fries": {
       "codepoint": 58135,
       "fontFamily": "IconParkSolid",
@@ -4122,6 +4175,11 @@
       "codepoint": 58162,
       "fontFamily": "IconParkSolid",
       "identifier": "giftBag"
+    },
+    "gift-box": {
+      "codepoint": 59306,
+      "fontFamily": "IconParkSolid",
+      "identifier": "giftBox"
     },
     "girl": {
       "codepoint": 58163,
@@ -6361,9 +6419,7 @@
     "panda": {
       "codepoint": 58610,
       "fontFamily": "IconParkSolid",
-      "identifier": "panda",
-      "deprecated": true,
-      "deprecatedSince": "2026-05-13"
+      "identifier": "panda"
     },
     "panorama-horizontal": {
       "codepoint": 58611,
@@ -7270,6 +7326,11 @@
       "fontFamily": "IconParkSolid",
       "identifier": "reel"
     },
+    "refraction": {
+      "codepoint": 59307,
+      "fontFamily": "IconParkSolid",
+      "identifier": "refraction"
+    },
     "refresh-one": {
       "codepoint": 58792,
       "fontFamily": "IconParkSolid",
@@ -7635,6 +7696,11 @@
       "fontFamily": "IconParkSolid",
       "identifier": "salesReport"
     },
+    "sandwich": {
+      "codepoint": 59308,
+      "fontFamily": "IconParkSolid",
+      "identifier": "sandwich"
+    },
     "sandwich-one": {
       "codepoint": 58865,
       "fontFamily": "IconParkSolid",
@@ -7809,6 +7875,11 @@
       "codepoint": 58899,
       "fontFamily": "IconParkSolid",
       "identifier": "settingLaptop"
+    },
+    "setting-one": {
+      "codepoint": 59309,
+      "fontFamily": "IconParkSolid",
+      "identifier": "settingOne"
     },
     "setting-three": {
       "codepoint": 58900,
@@ -8320,6 +8391,11 @@
       "fontFamily": "IconParkSolid",
       "identifier": "star"
     },
+    "steering-wheel": {
+      "codepoint": 59310,
+      "fontFamily": "IconParkSolid",
+      "identifier": "steeringWheel"
+    },
     "steoller": {
       "codepoint": 59002,
       "fontFamily": "IconParkSolid",
@@ -8630,6 +8706,11 @@
       "fontFamily": "IconParkSolid",
       "identifier": "text"
     },
+    "text-message": {
+      "codepoint": 59311,
+      "fontFamily": "IconParkSolid",
+      "identifier": "textMessage"
+    },
     "texture-two": {
       "codepoint": 59064,
       "fontFamily": "IconParkSolid",
@@ -8875,6 +8956,11 @@
       "fontFamily": "IconParkSolid",
       "identifier": "trademark"
     },
+    "traditional-chinese-medicine": {
+      "codepoint": 59312,
+      "fontFamily": "IconParkSolid",
+      "identifier": "traditionalChineseMedicine"
+    },
     "train": {
       "codepoint": 59113,
       "fontFamily": "IconParkSolid",
@@ -8974,6 +9060,11 @@
       "codepoint": 59132,
       "fontFamily": "IconParkSolid",
       "identifier": "triangleRoundRectangle"
+    },
+    "triangle-ruler": {
+      "codepoint": 59313,
+      "fontFamily": "IconParkSolid",
+      "identifier": "triangleRuler"
     },
     "trophy": {
       "codepoint": 59133,

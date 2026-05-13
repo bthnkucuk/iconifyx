@@ -16,13 +16,13 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 1386
+    "total": 1500
   },
   "fonts": [
     {
       "family": "StreamlineFlex",
-      "nextCodepoint": 58730,
-      "iconCount": 1386
+      "nextCodepoint": 58844,
+      "iconCount": 1500
     }
   ],
   "icons": {
@@ -70,6 +70,21 @@
       "codepoint": 57352,
       "fontFamily": "StreamlineFlex",
       "identifier": "n3dRotateYAxisSolid"
+    },
+    "add-to-playlist": {
+      "codepoint": 58730,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "addToPlaylist"
+    },
+    "add-to-playlist-remix": {
+      "codepoint": 58731,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "addToPlaylistRemix"
+    },
+    "add-to-playlist-solid": {
+      "codepoint": 58732,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "addToPlaylistSolid"
     },
     "ai-chip-robot": {
       "codepoint": 57353,
@@ -125,6 +140,11 @@
       "codepoint": 57363,
       "fontFamily": "StreamlineFlex",
       "identifier": "airplaneDisabledRemix"
+    },
+    "airplane-disabled-solid": {
+      "codepoint": 58733,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "airplaneDisabledSolid"
     },
     "airport-plane": {
       "codepoint": 57364,
@@ -291,10 +311,20 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "applicationAddSolid"
     },
+    "archive-box": {
+      "codepoint": 58734,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "archiveBox"
+    },
     "archive-box-remix": {
       "codepoint": 57397,
       "fontFamily": "StreamlineFlex",
       "identifier": "archiveBoxRemix"
+    },
+    "archive-box-solid": {
+      "codepoint": 58735,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "archiveBoxSolid"
     },
     "arrow-cursor-2": {
       "codepoint": 57398,
@@ -491,6 +521,11 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "balloonSolid"
     },
+    "battery-charging": {
+      "codepoint": 58736,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "batteryCharging"
+    },
     "battery-charging-remix": {
       "codepoint": 57437,
       "fontFamily": "StreamlineFlex",
@@ -581,6 +616,11 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "binoculars"
     },
+    "binoculars-remix": {
+      "codepoint": 58737,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "binocularsRemix"
+    },
     "binoculars-solid": {
       "codepoint": 57455,
       "fontFamily": "StreamlineFlex",
@@ -605,6 +645,11 @@
       "codepoint": 57459,
       "fontFamily": "StreamlineFlex",
       "identifier": "block2"
+    },
+    "block-2-remix": {
+      "codepoint": 58738,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "block2Remix"
     },
     "block-2-solid": {
       "codepoint": 57460,
@@ -631,10 +676,25 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "bluetoothDisabled"
     },
+    "bluetooth-disabled-remix": {
+      "codepoint": 58739,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "bluetoothDisabledRemix"
+    },
+    "bluetooth-disabled-solid": {
+      "codepoint": 58740,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "bluetoothDisabledSolid"
+    },
     "bluetooth-searching": {
       "codepoint": 57465,
       "fontFamily": "StreamlineFlex",
       "identifier": "bluetoothSearching"
+    },
+    "bluetooth-searching-remix": {
+      "codepoint": 58741,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "bluetoothSearchingRemix"
     },
     "bluetooth-searching-solid": {
       "codepoint": 57466,
@@ -655,6 +715,21 @@
       "codepoint": 57469,
       "fontFamily": "StreamlineFlex",
       "identifier": "bookReadingSolid"
+    },
+    "bookmark": {
+      "codepoint": 58742,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "bookmark"
+    },
+    "bookmark-remix": {
+      "codepoint": 58743,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "bookmarkRemix"
+    },
+    "bookmark-solid": {
+      "codepoint": 58744,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "bookmarkSolid"
     },
     "bow-tie": {
       "codepoint": 57470,
@@ -871,6 +946,16 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "calculator1"
     },
+    "calculator-1-remix": {
+      "codepoint": 58745,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "calculator1Remix"
+    },
+    "calculator-1-solid": {
+      "codepoint": 58746,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "calculator1Solid"
+    },
     "calendar-mark": {
       "codepoint": 57513,
       "fontFamily": "StreamlineFlex",
@@ -935,6 +1020,11 @@
       "codepoint": 57525,
       "fontFamily": "StreamlineFlex",
       "identifier": "cameraTripod"
+    },
+    "camera-tripod-remix": {
+      "codepoint": 58747,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "cameraTripodRemix"
     },
     "camera-tripod-solid": {
       "codepoint": 57526,
@@ -1166,10 +1256,45 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "checkupMedicalReportClipboardSolid"
     },
+    "chef-toque-hat": {
+      "codepoint": 58748,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "chefToqueHat"
+    },
+    "chef-toque-hat-remix": {
+      "codepoint": 58749,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "chefToqueHatRemix"
+    },
+    "chef-toque-hat-solid": {
+      "codepoint": 58750,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "chefToqueHatSolid"
+    },
+    "chess-king": {
+      "codepoint": 58751,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "chessKing"
+    },
+    "chess-king-remix": {
+      "codepoint": 58752,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "chessKingRemix"
+    },
     "chess-king-solid": {
       "codepoint": 57572,
       "fontFamily": "StreamlineFlex",
       "identifier": "chessKingSolid"
+    },
+    "city-hall": {
+      "codepoint": 58753,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "cityHall"
+    },
+    "city-hall-remix": {
+      "codepoint": 58754,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "cityHallRemix"
     },
     "city-hall-solid": {
       "codepoint": 57573,
@@ -1230,6 +1355,16 @@
       "codepoint": 57584,
       "fontFamily": "StreamlineFlex",
       "identifier": "cloudOff"
+    },
+    "cloud-off-remix": {
+      "codepoint": 58755,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "cloudOffRemix"
+    },
+    "cloud-off-solid": {
+      "codepoint": 58756,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "cloudOffSolid"
     },
     "cloud-remix": {
       "codepoint": 57585,
@@ -1346,6 +1481,11 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "colorPickerSolid"
     },
+    "color-swatches": {
+      "codepoint": 58757,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "colorSwatches"
+    },
     "color-swatches-remix": {
       "codepoint": 57608,
       "fontFamily": "StreamlineFlex",
@@ -1360,6 +1500,11 @@
       "codepoint": 57610,
       "fontFamily": "StreamlineFlex",
       "identifier": "compsitionHorizontal"
+    },
+    "compsition-horizontal-remix": {
+      "codepoint": 58758,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "compsitionHorizontalRemix"
     },
     "compsition-horizontal-solid": {
       "codepoint": 57611,
@@ -1391,10 +1536,35 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "contactBookRemix"
     },
+    "contact-book-solid": {
+      "codepoint": 58759,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "contactBookSolid"
+    },
+    "contact-phonebook-2": {
+      "codepoint": 58760,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "contactPhonebook2"
+    },
+    "contact-phonebook-2-remix": {
+      "codepoint": 58761,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "contactPhonebook2Remix"
+    },
+    "contact-phonebook-2-solid": {
+      "codepoint": 58762,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "contactPhonebook2Solid"
+    },
     "controller-stick": {
       "codepoint": 57617,
       "fontFamily": "StreamlineFlex",
       "identifier": "controllerStick"
+    },
+    "controller-stick-remix": {
+      "codepoint": 58763,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "controllerStickRemix"
     },
     "controller-stick-solid": {
       "codepoint": 57618,
@@ -1480,6 +1650,11 @@
       "codepoint": 57634,
       "fontFamily": "StreamlineFlex",
       "identifier": "creditCardDisable"
+    },
+    "credit-card-disable-remix": {
+      "codepoint": 58764,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "creditCardDisableRemix"
     },
     "credit-card-disable-solid": {
       "codepoint": 57635,
@@ -1736,6 +1911,11 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "departureTimeRemix"
     },
+    "departure-time-solid": {
+      "codepoint": 58765,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "departureTimeSolid"
+    },
     "desktop-lock": {
       "codepoint": 57686,
       "fontFamily": "StreamlineFlex",
@@ -1810,6 +1990,21 @@
       "codepoint": 57700,
       "fontFamily": "StreamlineFlex",
       "identifier": "dice5Solid"
+    },
+    "dictionary-language-book": {
+      "codepoint": 58766,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "dictionaryLanguageBook"
+    },
+    "dictionary-language-book-remix": {
+      "codepoint": 58767,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "dictionaryLanguageBookRemix"
+    },
+    "dictionary-language-book-solid": {
+      "codepoint": 58768,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "dictionaryLanguageBookSolid"
     },
     "disable-bell-notification": {
       "codepoint": 57701,
@@ -1985,6 +2180,11 @@
       "codepoint": 57735,
       "fontFamily": "StreamlineFlex",
       "identifier": "droneRemix"
+    },
+    "drone-solid": {
+      "codepoint": 58769,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "droneSolid"
     },
     "ear-speciality": {
       "codepoint": 57736,
@@ -2226,6 +2426,11 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "fileBookmark"
     },
+    "file-bookmark-remix": {
+      "codepoint": 58770,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "fileBookmarkRemix"
+    },
     "file-bookmark-solid": {
       "codepoint": 57784,
       "fontFamily": "StreamlineFlex",
@@ -2260,6 +2465,11 @@
       "codepoint": 57790,
       "fontFamily": "StreamlineFlex",
       "identifier": "filmSlate"
+    },
+    "film-slate-remix": {
+      "codepoint": 58771,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "filmSlateRemix"
     },
     "film-slate-solid": {
       "codepoint": 57791,
@@ -2351,6 +2561,16 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "flashOff"
     },
+    "flash-off-remix": {
+      "codepoint": 58772,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "flashOffRemix"
+    },
+    "flash-off-solid": {
+      "codepoint": 58773,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "flashOffSolid"
+    },
     "flash-warning": {
       "codepoint": 57809,
       "fontFamily": "StreamlineFlex",
@@ -2385,6 +2605,11 @@
       "codepoint": 57815,
       "fontFamily": "StreamlineFlex",
       "identifier": "flipHorizontalCircle2"
+    },
+    "flip-horizontal-circle-2-remix": {
+      "codepoint": 58774,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "flipHorizontalCircle2Remix"
     },
     "flip-horizontal-circle-2-solid": {
       "codepoint": 57816,
@@ -2546,6 +2771,16 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "gasStationFuelPetroleum"
     },
+    "gas-station-fuel-petroleum-remix": {
+      "codepoint": 58775,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "gasStationFuelPetroleumRemix"
+    },
+    "gas-station-fuel-petroleum-solid": {
+      "codepoint": 58776,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "gasStationFuelPetroleumSolid"
+    },
     "gift-2": {
       "codepoint": 57848,
       "fontFamily": "StreamlineFlex",
@@ -2641,6 +2876,11 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "handHeldTabletWriting"
     },
+    "hand-held-tablet-writing-remix": {
+      "codepoint": 58777,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "handHeldTabletWritingRemix"
+    },
     "hand-held-tablet-writing-solid": {
       "codepoint": 57867,
       "fontFamily": "StreamlineFlex",
@@ -2661,10 +2901,20 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "happyFaceSolid"
     },
+    "hard-drive-1": {
+      "codepoint": 58778,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "hardDrive1"
+    },
     "hard-drive-1-remix": {
       "codepoint": 57871,
       "fontFamily": "StreamlineFlex",
       "identifier": "hardDrive1Remix"
+    },
+    "hard-drive-1-solid": {
+      "codepoint": 58779,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "hardDrive1Solid"
     },
     "health-care-2": {
       "codepoint": 57872,
@@ -2866,6 +3116,11 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "horizontalToggleButton"
     },
+    "horizontal-toggle-button-remix": {
+      "codepoint": 58780,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "horizontalToggleButtonRemix"
+    },
     "horizontal-toggle-button-solid": {
       "codepoint": 57912,
       "fontFamily": "StreamlineFlex",
@@ -2905,6 +3160,16 @@
       "codepoint": 57919,
       "fontFamily": "StreamlineFlex",
       "identifier": "humidityNone"
+    },
+    "humidity-none-remix": {
+      "codepoint": 58781,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "humidityNoneRemix"
+    },
+    "humidity-none-solid": {
+      "codepoint": 58782,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "humidityNoneSolid"
     },
     "ice-cream-2": {
       "codepoint": 57920,
@@ -3001,6 +3266,11 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "incognitoMode"
     },
+    "incognito-mode-remix": {
+      "codepoint": 58783,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "incognitoModeRemix"
+    },
     "incognito-mode-solid": {
       "codepoint": 57939,
       "fontFamily": "StreamlineFlex",
@@ -3076,6 +3346,11 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "inputBoxRemix"
     },
+    "input-box-solid": {
+      "codepoint": 58784,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "inputBoxSolid"
+    },
     "insert-center-left-1": {
       "codepoint": 57954,
       "fontFamily": "StreamlineFlex",
@@ -3091,10 +3366,20 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "insertCenterLeft1Solid"
     },
+    "insurance-hand-1": {
+      "codepoint": 58785,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "insuranceHand1"
+    },
     "insurance-hand-1-remix": {
       "codepoint": 57957,
       "fontFamily": "StreamlineFlex",
       "identifier": "insuranceHand1Remix"
+    },
+    "insurance-hand-1-solid": {
+      "codepoint": 58786,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "insuranceHand1Solid"
     },
     "intersex-symbol": {
       "codepoint": 57958,
@@ -3156,6 +3441,11 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "iosIpadosSolid"
     },
+    "iphone": {
+      "codepoint": 58787,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "iphone"
+    },
     "iphone-remix": {
       "codepoint": 57970,
       "fontFamily": "StreamlineFlex",
@@ -3185,6 +3475,11 @@
       "codepoint": 57975,
       "fontFamily": "StreamlineFlex",
       "identifier": "iron"
+    },
+    "iron-remix": {
+      "codepoint": 58788,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "ironRemix"
     },
     "iron-solid": {
       "codepoint": 57976,
@@ -3311,6 +3606,11 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "landscapeLockSolid"
     },
+    "laptop": {
+      "codepoint": 58789,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "laptop"
+    },
     "laptop-remix": {
       "codepoint": 58001,
       "fontFamily": "StreamlineFlex",
@@ -3365,6 +3665,11 @@
       "codepoint": 58011,
       "fontFamily": "StreamlineFlex",
       "identifier": "layoutWindow1Solid"
+    },
+    "left-click": {
+      "codepoint": 58790,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "leftClick"
     },
     "left-click-remix": {
       "codepoint": 58012,
@@ -3576,6 +3881,36 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "lockRotationSolid"
     },
+    "login-1": {
+      "codepoint": 58791,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "login1"
+    },
+    "login-1-remix": {
+      "codepoint": 58792,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "login1Remix"
+    },
+    "login-1-solid": {
+      "codepoint": 58793,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "login1Solid"
+    },
+    "logout-1": {
+      "codepoint": 58794,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "logout1"
+    },
+    "logout-1-remix": {
+      "codepoint": 58795,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "logout1Remix"
+    },
+    "logout-1-solid": {
+      "codepoint": 58796,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "logout1Solid"
+    },
     "magic-wand-1": {
       "codepoint": 58054,
       "fontFamily": "StreamlineFlex",
@@ -3771,6 +4106,11 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "modulePuzzle2"
     },
+    "module-puzzle-2-remix": {
+      "codepoint": 58797,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "modulePuzzle2Remix"
+    },
     "module-puzzle-2-solid": {
       "codepoint": 58093,
       "fontFamily": "StreamlineFlex",
@@ -3941,6 +4281,21 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "newStickyNoteSolid"
     },
+    "news-paper": {
+      "codepoint": 58798,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "newsPaper"
+    },
+    "news-paper-remix": {
+      "codepoint": 58799,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "newsPaperRemix"
+    },
+    "news-paper-solid": {
+      "codepoint": 58800,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "newsPaperSolid"
+    },
     "non-commercial-dollars": {
       "codepoint": 58127,
       "fontFamily": "StreamlineFlex",
@@ -3950,6 +4305,11 @@
       "codepoint": 58128,
       "fontFamily": "StreamlineFlex",
       "identifier": "nonCommercialDollarsRemix"
+    },
+    "non-commercial-dollars-solid": {
+      "codepoint": 58801,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "nonCommercialDollarsSolid"
     },
     "notepad-text": {
       "codepoint": 58129,
@@ -4001,6 +4361,11 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "numberSign"
     },
+    "number-sign-remix": {
+      "codepoint": 58802,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "numberSignRemix"
+    },
     "number-sign-solid": {
       "codepoint": 58139,
       "fontFamily": "StreamlineFlex",
@@ -4015,6 +4380,11 @@
       "codepoint": 58141,
       "fontFamily": "StreamlineFlex",
       "identifier": "nurseAssistantEmergencyRemix"
+    },
+    "nurse-assistant-emergency-solid": {
+      "codepoint": 58803,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "nurseAssistantEmergencySolid"
     },
     "office-building-1": {
       "codepoint": 58142,
@@ -4235,6 +4605,21 @@
       "codepoint": 58185,
       "fontFamily": "StreamlineFlex",
       "identifier": "pdfReaderApplicationRemix"
+    },
+    "pdf-reader-application-solid": {
+      "codepoint": 58804,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "pdfReaderApplicationSolid"
+    },
+    "pen-1": {
+      "codepoint": 58805,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "pen1"
+    },
+    "pen-1-remix": {
+      "codepoint": 58806,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "pen1Remix"
     },
     "pen-1-solid": {
       "codepoint": 58186,
@@ -4531,6 +4916,11 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "politicsVote2"
     },
+    "politics-vote-2-remix": {
+      "codepoint": 58807,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "politicsVote2Remix"
+    },
     "politics-vote-2-solid": {
       "codepoint": 58245,
       "fontFamily": "StreamlineFlex",
@@ -4571,10 +4961,25 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "prescriptionPillsDrugsHealthcare"
     },
+    "prescription-pills-drugs-healthcare-remix": {
+      "codepoint": 58808,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "prescriptionPillsDrugsHealthcareRemix"
+    },
+    "prescription-pills-drugs-healthcare-solid": {
+      "codepoint": 58809,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "prescriptionPillsDrugsHealthcareSolid"
+    },
     "presentation": {
       "codepoint": 58253,
       "fontFamily": "StreamlineFlex",
       "identifier": "presentation"
+    },
+    "presentation-remix": {
+      "codepoint": 58810,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "presentationRemix"
     },
     "presentation-solid": {
       "codepoint": 58254,
@@ -4626,15 +5031,45 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "productionBeltTimeSolid"
     },
+    "projector": {
+      "codepoint": 58811,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "projector"
+    },
     "projector-board": {
       "codepoint": 58264,
       "fontFamily": "StreamlineFlex",
       "identifier": "projectorBoard"
     },
+    "projector-board-remix": {
+      "codepoint": 58812,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "projectorBoardRemix"
+    },
+    "projector-board-solid": {
+      "codepoint": 58813,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "projectorBoardSolid"
+    },
+    "projector-remix": {
+      "codepoint": 58814,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "projectorRemix"
+    },
+    "projector-solid": {
+      "codepoint": 58815,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "projectorSolid"
+    },
     "qr-code": {
       "codepoint": 58265,
       "fontFamily": "StreamlineFlex",
       "identifier": "qrCode"
+    },
+    "qr-code-remix": {
+      "codepoint": 58816,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "qrCodeRemix"
     },
     "qr-code-solid": {
       "codepoint": 58266,
@@ -4891,6 +5326,11 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "saladVegetableDiet"
     },
+    "salad-vegetable-diet-remix": {
+      "codepoint": 58817,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "saladVegetableDietRemix"
+    },
     "salad-vegetable-diet-solid": {
       "codepoint": 58317,
       "fontFamily": "StreamlineFlex",
@@ -4921,10 +5361,20 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "scannerBarCode"
     },
+    "scanner-bar-code-remix": {
+      "codepoint": 58818,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "scannerBarCodeRemix"
+    },
     "scanner-bar-code-solid": {
       "codepoint": 58323,
       "fontFamily": "StreamlineFlex",
       "identifier": "scannerBarCodeSolid"
+    },
+    "scanner-remix": {
+      "codepoint": 58819,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "scannerRemix"
     },
     "scanner-solid": {
       "codepoint": 58324,
@@ -4950,6 +5400,11 @@
       "codepoint": 58328,
       "fontFamily": "StreamlineFlex",
       "identifier": "schoolBusSideSolid"
+    },
+    "school-remix": {
+      "codepoint": 58820,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "schoolRemix"
     },
     "school-solid": {
       "codepoint": 58329,
@@ -4996,6 +5451,11 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "screenCurveRemix"
     },
+    "screen-curve-solid": {
+      "codepoint": 58821,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "screenCurveSolid"
+    },
     "screenshot": {
       "codepoint": 58338,
       "fontFamily": "StreamlineFlex",
@@ -5020,6 +5480,11 @@
       "codepoint": 58342,
       "fontFamily": "StreamlineFlex",
       "identifier": "screwdriverWrenchRemix"
+    },
+    "screwdriver-wrench-solid": {
+      "codepoint": 58822,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "screwdriverWrenchSolid"
     },
     "script-2": {
       "codepoint": 58343,
@@ -5341,10 +5806,25 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "signagePedestrianNoCrossing"
     },
+    "signage-pedestrian-no-crossing-remix": {
+      "codepoint": 58823,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "signagePedestrianNoCrossingRemix"
+    },
     "signage-pedestrian-no-crossing-solid": {
       "codepoint": 58407,
       "fontFamily": "StreamlineFlex",
       "identifier": "signagePedestrianNoCrossingSolid"
+    },
+    "signal-full": {
+      "codepoint": 58824,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "signalFull"
+    },
+    "signal-full-remix": {
+      "codepoint": 58825,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "signalFullRemix"
     },
     "signal-full-solid": {
       "codepoint": 58408,
@@ -5401,6 +5881,11 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "smokingArea"
     },
+    "smoking-area-remix": {
+      "codepoint": 58826,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "smokingAreaRemix"
+    },
     "smoking-area-solid": {
       "codepoint": 58419,
       "fontFamily": "StreamlineFlex",
@@ -5425,6 +5910,11 @@
       "codepoint": 58423,
       "fontFamily": "StreamlineFlex",
       "identifier": "sofa"
+    },
+    "sofa-remix": {
+      "codepoint": 58827,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "sofaRemix"
     },
     "sofa-solid": {
       "codepoint": 58424,
@@ -5706,6 +6196,16 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "surveillanceCamera"
     },
+    "surveillance-camera-remix": {
+      "codepoint": 58828,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "surveillanceCameraRemix"
+    },
+    "surveillance-camera-solid": {
+      "codepoint": 58829,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "surveillanceCameraSolid"
+    },
     "table": {
       "codepoint": 58480,
       "fontFamily": "StreamlineFlex",
@@ -5751,6 +6251,11 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "tabletCapsuleSolid"
     },
+    "tag": {
+      "codepoint": 58830,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "tag"
+    },
     "tag-alt": {
       "codepoint": 58489,
       "fontFamily": "StreamlineFlex",
@@ -5771,6 +6276,11 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "tagRemix"
     },
+    "tag-solid": {
+      "codepoint": 58831,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "tagSolid"
+    },
     "tall-hat": {
       "codepoint": 58493,
       "fontFamily": "StreamlineFlex",
@@ -5780,6 +6290,11 @@
       "codepoint": 58494,
       "fontFamily": "StreamlineFlex",
       "identifier": "tallHatRemix"
+    },
+    "tall-hat-solid": {
+      "codepoint": 58832,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "tallHatSolid"
     },
     "tape-cassette-record": {
       "codepoint": 58495,
@@ -5831,6 +6346,11 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "teaCup"
     },
+    "tea-cup-remix": {
+      "codepoint": 58833,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "teaCupRemix"
+    },
     "tea-cup-solid": {
       "codepoint": 58505,
       "fontFamily": "StreamlineFlex",
@@ -5840,6 +6360,11 @@
       "codepoint": 58506,
       "fontFamily": "StreamlineFlex",
       "identifier": "textFile"
+    },
+    "text-file-remix": {
+      "codepoint": 58834,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "textFileRemix"
     },
     "text-file-solid": {
       "codepoint": 58507,
@@ -5925,6 +6450,11 @@
       "codepoint": 58523,
       "fontFamily": "StreamlineFlex",
       "identifier": "threadPostTweet"
+    },
+    "thread-post-tweet-remix": {
+      "codepoint": 58835,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "threadPostTweetRemix"
     },
     "thread-post-tweet-solid": {
       "codepoint": 58524,
@@ -6366,6 +6896,21 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "userFullBodySolid"
     },
+    "user-identifier-card": {
+      "codepoint": 58836,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "userIdentifierCard"
+    },
+    "user-identifier-card-remix": {
+      "codepoint": 58837,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "userIdentifierCardRemix"
+    },
+    "user-identifier-card-solid": {
+      "codepoint": 58838,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "userIdentifierCardSolid"
+    },
     "user-king-crown": {
       "codepoint": 58612,
       "fontFamily": "StreamlineFlex",
@@ -6491,6 +7036,11 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "voiceScan2"
     },
+    "voice-scan-2-remix": {
+      "codepoint": 58839,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "voiceScan2Remix"
+    },
     "voice-scan-2-solid": {
       "codepoint": 58637,
       "fontFamily": "StreamlineFlex",
@@ -6500,6 +7050,11 @@
       "codepoint": 58638,
       "fontFamily": "StreamlineFlex",
       "identifier": "volumeLevelHigh"
+    },
+    "volume-level-high-remix": {
+      "codepoint": 58840,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "volumeLevelHighRemix"
     },
     "volume-level-high-solid": {
       "codepoint": 58639,
@@ -6671,6 +7226,16 @@
       "fontFamily": "StreamlineFlex",
       "identifier": "watchSquareMenuSolid"
     },
+    "watchtower-castle": {
+      "codepoint": 58841,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "watchtowerCastle"
+    },
+    "watchtower-castle-remix": {
+      "codepoint": 58842,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "watchtowerCastleRemix"
+    },
     "watchtower-castle-solid": {
       "codepoint": 58673,
       "fontFamily": "StreamlineFlex",
@@ -6755,6 +7320,11 @@
       "codepoint": 58689,
       "fontFamily": "StreamlineFlex",
       "identifier": "whiteBoard"
+    },
+    "white-board-remix": {
+      "codepoint": 58843,
+      "fontFamily": "StreamlineFlex",
+      "identifier": "whiteBoardRemix"
     },
     "white-board-solid": {
       "codepoint": 58690,

@@ -100,6 +100,11 @@ iconifyx/
 
 See [CLAUDE.md](CLAUDE.md) for architecture rationale, [docs/MAINTENANCE.md](docs/MAINTENANCE.md) for the regeneration playbook, [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for design decisions.
 
+Generator-emitted reports:
+
+- [COVERAGE.md](COVERAGE.md) — per-set Iconify source count vs our built count, sorted by gap. Reveals which sets are partial or fully missing (gradient-only emoji sets, animation packs, etc.).
+- [STROKE_AUDIT.md](STROKE_AUDIT.md) — which sets went through the rasterize+trace pre-pass (and why: explicit config vs auto-detected). Use this to spot stroke-only or `fill-rule="evenodd"` sets that render as filled blobs and should be flagged.
+
 ## Regenerating (after `bun install`)
 
 ```bash

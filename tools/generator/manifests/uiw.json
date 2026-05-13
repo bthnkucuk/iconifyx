@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/uiwjs/icons/blob/master/LICENSE"
     },
-    "total": 210
+    "total": 214
   },
   "fonts": [
     {
       "family": "Uiw",
-      "nextCodepoint": 57554,
-      "iconCount": 210
+      "nextCodepoint": 57558,
+      "iconCount": 214
     }
   ],
   "icons": {
@@ -71,10 +71,20 @@
       "fontFamily": "Uiw",
       "identifier": "areaChart"
     },
+    "arrow-down": {
+      "codepoint": 57554,
+      "fontFamily": "Uiw",
+      "identifier": "arrowDown"
+    },
     "arrow-left": {
       "codepoint": 57353,
       "fontFamily": "Uiw",
       "identifier": "arrowLeft"
+    },
+    "arrow-right": {
+      "codepoint": 57555,
+      "fontFamily": "Uiw",
+      "identifier": "arrowRight"
     },
     "arrow-up": {
       "codepoint": 57354,
@@ -501,6 +511,11 @@
       "fontFamily": "Uiw",
       "identifier": "laptop"
     },
+    "left": {
+      "codepoint": 57556,
+      "fontFamily": "Uiw",
+      "identifier": "left"
+    },
     "left-circle": {
       "codepoint": 57439,
       "fontFamily": "Uiw",
@@ -695,6 +710,11 @@
       "codepoint": 57477,
       "fontFamily": "Uiw",
       "identifier": "picture"
+    },
+    "pie-chart": {
+      "codepoint": 57557,
+      "fontFamily": "Uiw",
+      "identifier": "pieChart"
     },
     "pinterest": {
       "codepoint": 57478,

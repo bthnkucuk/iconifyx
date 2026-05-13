@@ -16,13 +16,13 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 141
+    "total": 142
   },
   "fonts": [
     {
       "family": "Covid",
-      "nextCodepoint": 57485,
-      "iconCount": 141
+      "nextCodepoint": 57486,
+      "iconCount": 142
     }
   ],
   "icons": {
@@ -115,6 +115,11 @@
       "codepoint": 57361,
       "fontFamily": "Covid",
       "identifier": "covid19VirusPatient2"
+    },
+    "covid19-virus-reinfected": {
+      "codepoint": 57485,
+      "fontFamily": "Covid",
+      "identifier": "covid19VirusReinfected"
     },
     "covid19-virus-warning-1": {
       "codepoint": 57362,
