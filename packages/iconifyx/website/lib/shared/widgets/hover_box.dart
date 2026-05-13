@@ -3,19 +3,21 @@ import 'package:oref/oref.dart';
 
 /// A reusable hover-aware tappable container.
 ///
-/// Uses oref signals + SignalBuilder, but with a subtle layout choice that
-/// matters in practice:
+/// **Background colors snap (no lerp).** This is the fix for the "gray flash"
+/// the user reported on light theme — animating an `AnimatedContainer.color`
+/// from `Colors.transparent` to an opaque color (e.g. `paper2 = #F1ECE3`)
+/// makes Flutter interpolate through translucent midstates that on white
+/// backgrounds render as muddy gray-tan. The "fade-through-midstate" was
+/// visible in light because the start (transparent) and end (opaque) differ
+/// strongly; in dark it was invisible because dark hover bgs are themselves
+/// translucent overlays so the midstates are also low-alpha.
 ///
-///   MouseRegion(...)        <-- created ONCE; stable across hover changes
-///     -> GestureDetector
-///       -> SignalBuilder(builder: (ctx) { ... reads signal ... })
+/// Transforms (translateOnHoverY for card lifts) still animate via
+/// [AnimatedSlide] — there's no color-midstate issue for spatial movement.
 ///
-/// If `MouseRegion` lived INSIDE the SignalBuilder, every hover change would
-/// rebuild MouseRegion → Flutter briefly drops cursor tracking → onExit/onEnter
-/// flap → opaque hover-bg blink visible in light theme (invisible in dark
-/// because coralSoftDark is translucent). With MouseRegion in the outer scope
-/// and only the styled child reactive, hover changes touch nothing but the
-/// `AnimatedContainer`'s decoration.
+/// MouseRegion lives in the outer build scope (not inside SignalBuilder) so
+/// cursor tracking is stable; only the inner `SignalBuilder` rebuilds on
+/// hover changes.
 class HoverBox extends StatelessWidget {
   const HoverBox({
     super.key,
@@ -30,7 +32,7 @@ class HoverBox extends StatelessWidget {
     this.width,
     this.height,
     this.alignment,
-    this.duration = const Duration(milliseconds: 120),
+    this.duration = const Duration(milliseconds: 150),
     this.cursor = SystemMouseCursors.click,
     this.translateOnHoverY = 0,
   });
@@ -47,14 +49,14 @@ class HoverBox extends StatelessWidget {
   final double? width;
   final double? height;
   final AlignmentGeometry? alignment;
+
+  /// Only applied to transform (lift). Background/border snap instantly.
   final Duration duration;
   final MouseCursor cursor;
   final double translateOnHoverY;
 
   @override
   Widget build(BuildContext context) {
-    // Signal lives at the outer build scope so it survives both the inner
-    // SignalBuilder rebuild AND any parent rebuilds.
     final hover = signal(context, false);
     return MouseRegion(
       cursor: cursor,
@@ -68,8 +70,7 @@ class HoverBox extends StatelessWidget {
             final effectiveBg = hovered ? (hoverBg ?? bg) : bg;
             final effectiveBorder =
                 hovered ? (hoverBorderColor ?? borderColor) : borderColor;
-            Widget result = AnimatedContainer(
-              duration: duration,
+            Widget result = Container(
               width: width,
               height: height,
               padding: padding,
@@ -100,8 +101,13 @@ class HoverBox extends StatelessWidget {
 
 /// Same as [HoverBox] but exposes the hover state to a builder so the child
 /// can drive its own decoration / foreground colors. MouseRegion is in the
-/// outer scope so cursor tracking is stable — only the inner `SignalBuilder`
-/// rebuilds on hover changes.
+/// outer scope so cursor tracking is stable; the inner `SignalBuilder` is the
+/// only subtree that rebuilds on hover changes.
+///
+/// Callers that need bg color changes should NOT use an `AnimatedContainer`
+/// inside the builder (that re-introduces the lerp-through-midstates flicker)
+/// — use a plain `Container` with the conditional decoration. Use
+/// `AnimatedSlide` / `Transform.translate` for spatial animation.
 class HoverBuilder extends StatelessWidget {
   const HoverBuilder({
     super.key,
