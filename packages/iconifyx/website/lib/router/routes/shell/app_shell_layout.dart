@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/rendering.dart';
 import 'package:flutter/services.dart';
 import 'package:zenrouter/zenrouter.dart';
 
@@ -64,20 +65,29 @@ class PageContainer extends StatelessWidget {
     super.key,
     required this.children,
     this.showFooter = true,
+    this.cacheExtent,
   }) : slivers = null;
 
   /// Use when the page provides slivers directly (e.g. pages with big lazy
   /// grids). Each sliver must be a Sliver-class widget. The footer is auto-
   /// appended at the end.
+  ///
+  /// [cacheExtent] (pixels) — passed through to the inner [CustomScrollView]
+  /// so heavy lazy grids (pack detail's 15k-icon `SliverGrid.builder`) can
+  /// pre-warm cells above/below the viewport. Default is Flutter's 250 px;
+  /// pages with expensive per-cell builds should pass something larger so
+  /// scrolling stays smooth.
   const PageContainer.slivers({
     super.key,
     required List<Widget> this.slivers,
     this.showFooter = true,
+    this.cacheExtent,
   }) : children = const [];
 
   final List<Widget> children;
   final List<Widget>? slivers;
   final bool showFooter;
+  final double? cacheExtent;
 
   @override
   Widget build(BuildContext context) {
@@ -87,8 +97,12 @@ class PageContainer extends StatelessWidget {
         builder: (context, c) {
           final pad = ((c.maxWidth - AppShellLayout.pageMaxWidth) / 2)
               .clamp(0.0, double.infinity);
+          final scrollCache = cacheExtent == null
+              ? null
+              : ScrollCacheExtent.pixels(cacheExtent!);
           if (slivers != null) {
             return CustomScrollView(
+              scrollCacheExtent: scrollCache,
               slivers: [
                 for (final s in slivers!)
                   SliverPadding(
@@ -103,6 +117,7 @@ class PageContainer extends StatelessWidget {
             );
           }
           return CustomScrollView(
+            scrollCacheExtent: scrollCache,
             slivers: [
               SliverPadding(
                 padding: EdgeInsets.symmetric(horizontal: pad),

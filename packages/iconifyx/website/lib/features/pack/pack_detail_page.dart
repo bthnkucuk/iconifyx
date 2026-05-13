@@ -11,7 +11,6 @@ import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/icon_detail_route.dart';
 import '../../router/routes/shell/pack_detail_route.dart';
 import '../../shared/widgets/hover_box.dart';
-import '../../shared/widgets/site_footer.dart';
 import '../../theme/app_theme.dart';
 
 /// Pack-detail page.
@@ -190,29 +189,57 @@ class _LoadedBody extends StatelessWidget {
     final styles = page._availableStyles(allIcons);
     final iconColor = page._iconColor ?? ink;
 
-    return Material(
-      color: Theme.of(context).scaffoldBackgroundColor,
-      child: LayoutBuilder(
-        builder: (context, c) {
-          final wide = c.maxWidth >= 900;
-          final pad = ((c.maxWidth - AppShellLayout.pageMaxWidth) / 2)
-              .clamp(0.0, double.infinity);
+    return LayoutBuilder(
+      builder: (context, c) {
+        final wide = c.maxWidth >= 900;
 
-          final sidebar = route.selectorBuilder<String?>(
-            selector: (q) => q['style'],
-            builder: (ctx, activeStyle) => _Sidebar(
-              summary: summary,
-              styles: styles,
-              activeStyle: activeStyle,
-              onStyle: page._setStyle,
-              size: page._iconSize,
-              onSize: page.setIconSize,
-              color: page._iconColor,
-              onColor: page.setIconColor,
-            ),
-          );
+        // Derive the icon grid's eventual crossAxisExtent from box
+        // constraints here, in the OUTER (box) LayoutBuilder. This rebuilds
+        // only on viewport resize — never on scroll. Previously a
+        // `SliverLayoutBuilder` wrapped the grid; sliver constraints change
+        // every scroll frame (scrollOffset, remainingPaintExtent), so the
+        // grid + its `selectorBuilder` + `_applyFilters` ran ~60×/s during
+        // scroll — for arcticons (15k icons) that's ~900k iterations/s of
+        // filter work and one SliverGrid widget allocation per frame.
+        final pageColumnWidth = wide ? (c.maxWidth - 240 - 28 - 24) : c.maxWidth;
+        final pageContainerPad =
+            ((pageColumnWidth - AppShellLayout.pageMaxWidth) / 2)
+                .clamp(0.0, double.infinity);
+        final gridCrossExtent =
+            (pageColumnWidth - 2 * pageContainerPad - 56).clamp(0.0, double.infinity);
+        final iconSizeValue = page._iconSize;
+        final cellTarget = (iconSizeValue + 56).clamp(72, 200).toDouble();
+        final cols = (gridCrossExtent / cellTarget).floor().clamp(3, 24);
+        const crossAxisSpacing = 10.0;
+        final cellWidth =
+            (gridCrossExtent - crossAxisSpacing * (cols - 1)) / cols;
+        final iconRenderSize = (cellWidth - 16).clamp(16.0, 96.0);
 
-          final breadcrumb = Padding(
+        final palette = _CellPalette(
+          card: isDark ? AppTheme.cardDark : AppTheme.card,
+          rule: isDark ? AppTheme.ruleDark : AppTheme.rule,
+          coralSoft: isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft,
+          muted: muted,
+          iconColor: iconColor,
+          iconRenderSize: iconRenderSize,
+        );
+
+        final sidebar = route.selectorBuilder<String?>(
+          selector: (q) => q['style'],
+          builder: (ctx, activeStyle) => _Sidebar(
+            summary: summary,
+            styles: styles,
+            activeStyle: activeStyle,
+            onStyle: page._setStyle,
+            size: page._iconSize,
+            onSize: page.setIconSize,
+            color: page._iconColor,
+            onColor: page.setIconColor,
+          ),
+        );
+
+        final breadcrumbSliver = SliverToBoxAdapter(
+          child: Padding(
             padding: const EdgeInsets.fromLTRB(28, 28, 28, 16),
             child: Row(
               children: [
@@ -229,199 +256,128 @@ class _LoadedBody extends StatelessWidget {
                         size: 12, color: muted, weight: FontWeight.w600)),
               ],
             ),
-          );
+          ),
+        );
 
-          // The title + filter input top of the icon column. Rebuilds with
-          // the filter query so the count badge stays accurate.
-          final titleSliver = route.selectorBuilder<({String? style, String q})>(
-            selector: (qs) => (style: qs['style'], q: qs['q'] ?? ''),
-            builder: (ctx, qs) {
-              final filtered = page._applyFilters(allIcons, qs.style, qs.q);
-              return _TitleBar(
-                title: summary.name,
-                countText: filtered.length == allIcons.length
-                    ? '${_fmt(allIcons.length)} icons'
-                    : '${_fmt(filtered.length)} of ${_fmt(allIcons.length)}',
-                controller: page._filterController,
-                onChanged: page._setFilter,
-              );
-            },
-          );
-
-          // The actual icon SliverGrid — top-level sliver in the page scroll
-          // view → only visible rows materialise.
-          final gridSliver = route.selectorBuilder<({String? style, String q})>(
-            selector: (qs) => (style: qs['style'], q: qs['q'] ?? ''),
-            builder: (ctx, qs) {
-              final filtered = page._applyFilters(allIcons, qs.style, qs.q);
-              if (filtered.isEmpty) {
-                return Padding(
-                  padding: const EdgeInsets.symmetric(vertical: 64),
-                  child: Center(
-                    child: Text(
-                      qs.q.trim().isEmpty
-                          ? 'This style group has no icons.'
-                          : 'No icons matched "${qs.q.trim()}".',
-                      style: TextStyle(color: muted),
-                    ),
-                  ),
+        // The title + filter input top of the icon column. Rebuilds only on
+        // filter query change.
+        final titleSliver = SliverPadding(
+          padding: const EdgeInsets.fromLTRB(28, 0, 28, 18),
+          sliver: SliverToBoxAdapter(
+            child: route.selectorBuilder<({String? style, String q})>(
+              selector: (qs) => (style: qs['style'], q: qs['q'] ?? ''),
+              builder: (ctx, qs) {
+                final filtered = page._applyFilters(allIcons, qs.style, qs.q);
+                return _TitleBar(
+                  title: summary.name,
+                  countText: filtered.length == allIcons.length
+                      ? '${_fmt(allIcons.length)} icons'
+                      : '${_fmt(filtered.length)} of ${_fmt(allIcons.length)}',
+                  controller: page._filterController,
+                  onChanged: page._setFilter,
                 );
-              }
-              return const SizedBox.shrink();
-            },
-          );
+              },
+            ),
+          ),
+        );
 
-          if (wide) {
-            return Row(
+        // The lazy icon grid as a TOP-LEVEL sliver. `SliverGrid` with
+        // `SliverChildBuilderDelegate` only materialises rows visible in
+        // the outer scroll viewport — and crucially, no SliverLayoutBuilder
+        // wraps it, so it does NOT rebuild during scroll.
+        final gridSliver = SliverPadding(
+          padding: const EdgeInsets.fromLTRB(28, 0, 28, 40),
+          sliver: _GridContent(
+            page: page,
+            allIcons: allIcons,
+            cols: cols,
+            childAspect: 0.85,
+            palette: palette,
+          ),
+        );
+
+        if (wide) {
+          return Material(
+            color: Theme.of(context).scaffoldBackgroundColor,
+            child: Row(
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: [
                 SingleChildScrollView(
-                  padding: EdgeInsets.fromLTRB(pad + 28, 28, 24, 40),
+                  padding: const EdgeInsets.fromLTRB(28, 28, 24, 40),
                   child: SizedBox(width: 240, child: sidebar),
                 ),
                 Expanded(
-                  child: _ScrollColumn(
-                    pad: 0,
-                    breadcrumb: breadcrumb,
-                    titleSliverBuilder: () => titleSliver,
-                    gridFallback: gridSliver,
-                    page: page,
-                    allIcons: allIcons,
-                    iconColor: iconColor,
-                    rightEdgePadding: pad,
+                  child: PageContainer.slivers(
+                    cacheExtent: 1200,
+                    slivers: [
+                      breadcrumbSliver,
+                      titleSliver,
+                      gridSliver,
+                    ],
                   ),
                 ),
               ],
-            );
-          }
-          // Narrow: sidebar inline above grid.
-          return _ScrollColumn(
-            pad: pad,
-            breadcrumb: breadcrumb,
-            inlineSidebar: sidebar,
-            titleSliverBuilder: () => titleSliver,
-            gridFallback: gridSliver,
-            page: page,
-            allIcons: allIcons,
-            iconColor: iconColor,
-            rightEdgePadding: pad,
+            ),
           );
-        },
-      ),
-    );
-  }
-}
-
-/// Composes the right-hand-side scroll view: a CustomScrollView whose icon
-/// grid is a top-level `SliverGrid.builder` so only visible rows inflate.
-class _ScrollColumn extends StatelessWidget {
-  const _ScrollColumn({
-    required this.pad,
-    required this.breadcrumb,
-    this.inlineSidebar,
-    required this.titleSliverBuilder,
-    required this.gridFallback,
-    required this.page,
-    required this.allIcons,
-    required this.iconColor,
-    required this.rightEdgePadding,
-  });
-
-  final double pad;
-  final Widget breadcrumb;
-  final Widget? inlineSidebar;
-  final Widget Function() titleSliverBuilder;
-  final Widget gridFallback;
-  final _PackDetailPageState page;
-  final List<IconRecord> allIcons;
-  final Color iconColor;
-  final double rightEdgePadding;
-
-  @override
-  Widget build(BuildContext context) {
-    return CustomScrollView(
-      slivers: [
-        SliverPadding(
-          padding: EdgeInsets.symmetric(horizontal: pad),
-          sliver: SliverToBoxAdapter(child: breadcrumb),
-        ),
-        if (inlineSidebar != null)
-          SliverPadding(
-            padding: EdgeInsets.fromLTRB(28 + pad, 0, 28 + pad, 16),
-            sliver: SliverToBoxAdapter(child: inlineSidebar),
-          ),
-        SliverPadding(
-          padding: EdgeInsets.fromLTRB(28 + pad, 0, 28 + pad, 18),
-          sliver: SliverToBoxAdapter(child: titleSliverBuilder()),
-        ),
-        // The lazy icon grid as a TOP-LEVEL sliver. SliverGrid.builder's
-        // `SliverChildBuilderDelegate` only materialises rows visible in the
-        // outer scroll viewport.
-        SliverPadding(
-          padding: EdgeInsets.fromLTRB(28 + pad, 0, 28 + pad, 40),
-          sliver: _LazyGridSliver(
-            page: page,
-            allIcons: allIcons,
-            iconColor: iconColor,
-          ),
-        ),
-        SliverPadding(
-          padding: EdgeInsets.only(right: rightEdgePadding),
-          sliver: const SliverToBoxAdapter(child: SiteFooter()),
-        ),
-      ],
-    );
-  }
-}
-
-/// The icon grid as a top-level sliver. `SliverGrid.builder` only
-/// materialises cells whose y-position overlaps the outer scroll viewport.
-class _LazyGridSliver extends StatelessWidget {
-  const _LazyGridSliver({
-    required this.page,
-    required this.allIcons,
-    required this.iconColor,
-  });
-
-  final _PackDetailPageState page;
-  final List<IconRecord> allIcons;
-  final Color iconColor;
-
-  @override
-  Widget build(BuildContext context) {
-    return SliverLayoutBuilder(
-      builder: (context, constraints) {
-        final iconSize = page._iconSize;
-        final cellTarget = (iconSize + 56).clamp(72, 200).toDouble();
-        final w = constraints.crossAxisExtent;
-        final cols = (w / cellTarget).floor().clamp(3, 24);
-        const childAspect = 0.85;
-        return _GridContent(
-          page: page,
-          allIcons: allIcons,
-          iconColor: iconColor,
-          cols: cols,
-          childAspect: childAspect,
+        }
+        // Narrow: sidebar inline above grid; entire scroll flows through
+        // PageContainer.slivers (which handles outer pad + footer).
+        final inlineSidebarSliver = SliverPadding(
+          padding: const EdgeInsets.fromLTRB(28, 0, 28, 16),
+          sliver: SliverToBoxAdapter(child: sidebar),
+        );
+        return PageContainer.slivers(
+          cacheExtent: 1200,
+          slivers: [
+            breadcrumbSliver,
+            inlineSidebarSliver,
+            titleSliver,
+            gridSliver,
+          ],
         );
       },
     );
   }
 }
 
+/// Pre-resolved palette + sizing for the icon grid's cells.
+///
+/// Computed ONCE per grid rebuild (i.e. when style/size/color/theme changes)
+/// and handed to every [_IconCell] verbatim, so the per-cell build path does
+/// no `Theme.of(context)` / `AppTheme` lookups, no allocations beyond the
+/// `IconifyIconData` itself. Scrolling 15k cells past the viewport stays
+/// cheap because each newly-mounted cell just reads these values.
+class _CellPalette {
+  const _CellPalette({
+    required this.card,
+    required this.rule,
+    required this.coralSoft,
+    required this.muted,
+    required this.iconColor,
+    required this.iconRenderSize,
+  });
+  final Color card;
+  final Color rule;
+  final Color coralSoft;
+  final Color muted;
+  final Color iconColor;
+  final double iconRenderSize;
+}
+
 class _GridContent extends StatelessWidget {
   const _GridContent({
     required this.page,
     required this.allIcons,
-    required this.iconColor,
     required this.cols,
     required this.childAspect,
+    required this.palette,
   });
 
   final _PackDetailPageState page;
   final List<IconRecord> allIcons;
-  final Color iconColor;
   final int cols;
   final double childAspect;
+  final _CellPalette palette;
 
   @override
   Widget build(BuildContext context) {
@@ -435,23 +391,28 @@ class _GridContent extends StatelessWidget {
           // SliverLayoutBuilder).
           return const SliverToBoxAdapter(child: SizedBox.shrink());
         }
-        return SliverGrid.builder(
+        return SliverGrid(
           gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
             crossAxisCount: cols,
             mainAxisSpacing: 10,
             crossAxisSpacing: 10,
             childAspectRatio: childAspect,
           ),
-          itemCount: filtered.length,
-          itemBuilder: (context, i) {
-            final ic = filtered[i];
-            return _IconCell(
-              key: ValueKey('${ic.prefix}/${ic.name}/${ic.codepoint}'),
-              record: ic,
-              iconSize: page._iconSize,
-              iconColor: iconColor,
-            );
-          },
+          delegate: SliverChildBuilderDelegate(
+            (context, i) {
+              final ic = filtered[i];
+              return _IconCell(
+                key: ValueKey('${ic.prefix}/${ic.name}/${ic.codepoint}'),
+                record: ic,
+                palette: palette,
+              );
+            },
+            childCount: filtered.length,
+            // None of these are needed for an icon grid and they cost real
+            // CPU per visible cell at 15k items:
+            addAutomaticKeepAlives: false,
+            addSemanticIndexes: false,
+          ),
         );
       },
     );
@@ -462,29 +423,23 @@ class _IconCell extends StatelessWidget {
   const _IconCell({
     super.key,
     required this.record,
-    required this.iconSize,
-    required this.iconColor,
+    required this.palette,
   });
   final IconRecord record;
-  final double iconSize;
-  final Color iconColor;
+  final _CellPalette palette;
 
   @override
   Widget build(BuildContext context) {
-    final isDark = Theme.of(context).brightness == Brightness.dark;
-    final card = isDark ? AppTheme.cardDark : AppTheme.card;
-    final rule = isDark ? AppTheme.ruleDark : AppTheme.rule;
-    final coralSoft = isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft;
-    final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
+    final iconData = record.toIconifyData();
     return HoverBuilder(
       onTap: () => appCoordinator.push(
         IconDetailRoute(prefix: record.prefix, name: record.name),
       ),
       builder: (ctx, hovered) => Container(
         decoration: BoxDecoration(
-          color: hovered ? coralSoft : card,
+          color: hovered ? palette.coralSoft : palette.card,
           borderRadius: BorderRadius.circular(10),
-          border: Border.all(color: hovered ? AppTheme.coral : rule),
+          border: Border.all(color: hovered ? AppTheme.coral : palette.rule),
         ),
         padding: const EdgeInsets.fromLTRB(6, 8, 6, 6),
         child: Column(
@@ -492,13 +447,10 @@ class _IconCell extends StatelessWidget {
           children: [
             Expanded(
               child: Center(
-                child: FittedBox(
-                  fit: BoxFit.contain,
-                  child: IconifyIcon(
-                    record.toIconifyData(),
-                    size: iconSize,
-                    color: hovered ? AppTheme.coral : iconColor,
-                  ),
+                child: IconifyIcon(
+                  iconData,
+                  size: palette.iconRenderSize,
+                  color: hovered ? AppTheme.coral : palette.iconColor,
                 ),
               ),
             ),
@@ -511,7 +463,7 @@ class _IconCell extends StatelessWidget {
               style: TextStyle(
                 fontSize: 10,
                 height: 1.1,
-                color: hovered ? AppTheme.coral : muted,
+                color: hovered ? AppTheme.coral : palette.muted,
                 fontWeight: FontWeight.w500,
               ),
             ),

@@ -446,7 +446,7 @@ class _Body extends StatelessWidget {
 
     // Build flat list with section headers AND a popular-icons grid in empty
     // state. Section headers are not navigable; rows are.
-    final children = <Widget>[];
+    final entriesList = <Widget>[];
 
     // Group entries by kind for header insertion + index mapping.
     final quickRange = <int>[];
@@ -472,11 +472,11 @@ class _Body extends StatelessWidget {
 
     void addSection(String label, List<int> indices, {String? badge}) {
       if (indices.isEmpty) return;
-      children.add(_SectionTitle(label,
+      entriesList.add(_SectionTitle(label,
           badge: badge ?? indices.length.toString()));
       for (final i in indices) {
         final key = rowKeys.putIfAbsent(i, () => GlobalKey());
-        children.add(_PaletteRow(
+        entriesList.add(_PaletteRow(
           key: key,
           entry: entries[i],
           active: i == activeIndex,
@@ -489,15 +489,15 @@ class _Body extends StatelessWidget {
       addSection('Quick links', quickRange);
       addSection('Categories', categoryRange);
       if (featured.isNotEmpty) {
-        children.add(_SectionTitle('Popular icons', badge: featured.length.toString()));
-        children.add(_PopularGrid(records: featured));
+        entriesList.add(_SectionTitle('Popular icons', badge: featured.length.toString()));
+        entriesList.add(_PopularGrid(records: featured));
       }
     } else {
       addSection('Categories', categoryRange);
       addSection('Packs', packRange);
       addSection('Icons', iconRange);
       if (entries.isEmpty) {
-        children.add(Padding(
+        entriesList.add(Padding(
           padding: const EdgeInsets.symmetric(vertical: 48),
           child: Column(
             children: [
@@ -511,13 +511,11 @@ class _Body extends StatelessWidget {
       }
     }
 
-    return SingleChildScrollView(
+    return ListView.builder(
       controller: scrollController,
       padding: const EdgeInsets.all(6),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.stretch,
-        children: children,
-      ),
+      itemCount: entriesList.length,
+      itemBuilder: (_, i) => entriesList[i],
     );
   }
 }
@@ -655,17 +653,24 @@ class _PopularGrid extends StatelessWidget {
   Widget build(BuildContext context) {
     return Padding(
       padding: const EdgeInsets.fromLTRB(6, 4, 6, 4),
-      child: GridView.builder(
-        shrinkWrap: true,
-        physics: const NeverScrollableScrollPhysics(),
-        itemCount: records.length,
-        gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-          crossAxisCount: 8,
-          mainAxisSpacing: 4,
-          crossAxisSpacing: 4,
-          childAspectRatio: 1,
-        ),
-        itemBuilder: (context, i) => _PopularTile(record: records[i]),
+      child: LayoutBuilder(
+        builder: (context, constraints) {
+          const cols = 8;
+          const gap = 4.0;
+          final cellSize = (constraints.maxWidth - gap * (cols - 1)) / cols;
+          final children = <Widget>[];
+          for (var i = 0; i < cols; i++) {
+            if (i > 0) children.add(const SizedBox(width: gap));
+            children.add(SizedBox(
+              width: cellSize,
+              height: cellSize,
+              child: i < records.length
+                  ? _PopularTile(record: records[i])
+                  : const SizedBox.shrink(),
+            ));
+          }
+          return Row(children: children);
+        },
       ),
     );
   }
@@ -888,31 +893,50 @@ class _CategoryLeading extends StatelessWidget {
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
     final coralSoft = isDark ? AppTheme.coralSoftDark : AppTheme.coralSoft;
+    Widget cell(int i) {
+      return Expanded(
+        child: Container(
+          decoration: BoxDecoration(
+            color: i == 0 ? coralSoft : Colors.transparent,
+            borderRadius: BorderRadius.circular(3),
+          ),
+          child: Center(
+            child: i < samples.length
+                ? IconifyIcon(samples[i].toIconifyData(),
+                    size: 11,
+                    color: i == 0 ? AppTheme.coral : fg)
+                : const SizedBox.shrink(),
+          ),
+        ),
+      );
+    }
+
     return Container(
       width: 36,
       height: 36,
       decoration: BoxDecoration(color: bg, borderRadius: BorderRadius.circular(9)),
       padding: const EdgeInsets.all(4),
-      child: GridView.count(
-        crossAxisCount: 2,
-        mainAxisSpacing: 2,
-        crossAxisSpacing: 2,
-        physics: const NeverScrollableScrollPhysics(),
+      child: Column(
         children: [
-          for (var i = 0; i < 4; i++)
-            Container(
-              decoration: BoxDecoration(
-                color: i == 0 ? coralSoft : Colors.transparent,
-                borderRadius: BorderRadius.circular(3),
-              ),
-              child: Center(
-                child: i < samples.length
-                    ? IconifyIcon(samples[i].toIconifyData(),
-                        size: 11,
-                        color: i == 0 ? AppTheme.coral : fg)
-                    : const SizedBox.shrink(),
-              ),
+          Expanded(
+            child: Row(
+              children: [
+                cell(0),
+                const SizedBox(width: 2),
+                cell(1),
+              ],
             ),
+          ),
+          const SizedBox(height: 2),
+          Expanded(
+            child: Row(
+              children: [
+                cell(2),
+                const SizedBox(width: 2),
+                cell(3),
+              ],
+            ),
+          ),
         ],
       ),
     );

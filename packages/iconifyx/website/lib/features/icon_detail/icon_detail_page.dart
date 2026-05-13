@@ -510,14 +510,25 @@ class _MetaCard extends StatelessWidget {
         borderRadius: BorderRadius.circular(14),
         border: Border.all(color: Theme.of(context).dividerColor),
       ),
-      child: GridView.count(
-        crossAxisCount: 2,
-        shrinkWrap: true,
-        physics: const NeverScrollableScrollPhysics(),
-        childAspectRatio: 4.2,
-        mainAxisSpacing: 14,
-        crossAxisSpacing: 14,
-        children: items,
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.stretch,
+        children: [
+          for (var i = 0; i < items.length; i += 2) ...[
+            if (i > 0) const SizedBox(height: 14),
+            Row(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Expanded(child: items[i]),
+                const SizedBox(width: 14),
+                Expanded(
+                  child: i + 1 < items.length
+                      ? items[i + 1]
+                      : const SizedBox.shrink(),
+                ),
+              ],
+            ),
+          ],
+        ],
       ),
     );
   }
@@ -539,16 +550,24 @@ class _Related extends StatelessWidget {
           child: Text('Related in ${pack.name}',
               style: Theme.of(context).textTheme.titleMedium),
         ),
-        GridView.builder(
-          shrinkWrap: true,
-          physics: const NeverScrollableScrollPhysics(),
-          itemCount: records.length,
-          gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-            crossAxisCount: 6,
-            mainAxisSpacing: 6,
-            crossAxisSpacing: 6,
-          ),
-          itemBuilder: (context, i) => _RelatedTile(record: records[i]),
+        LayoutBuilder(
+          builder: (context, c) {
+            const cols = 6;
+            const gap = 6.0;
+            final cell = (c.maxWidth - gap * (cols - 1)) / cols;
+            return Wrap(
+              spacing: gap,
+              runSpacing: gap,
+              children: [
+                for (final r in records)
+                  SizedBox(
+                    width: cell,
+                    height: cell,
+                    child: _RelatedTile(record: r),
+                  ),
+              ],
+            );
+          },
         ),
       ],
     );
