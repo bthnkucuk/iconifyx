@@ -41,56 +41,69 @@ class AppTopBar extends StatelessWidget implements PreferredSizeWidget {
             color: paper.withValues(alpha: 0.80),
             padding: const EdgeInsets.symmetric(horizontal: 28, vertical: 0),
             height: 58,
-            child: Row(
-              children: [
-                InkWell(
-                  borderRadius: BorderRadius.circular(8),
-                  onTap: () => appCoordinator.navigate(HomeRoute()),
-                  child: Padding(
-                    padding: const EdgeInsets.symmetric(
-                      horizontal: 4,
-                      vertical: 6,
-                    ),
-                    child: Row(
-                      children: const [
-                        BrandMark(size: 30),
-                        SizedBox(width: 10),
-                        BrandWordmark(),
-                      ],
-                    ),
-                  ),
-                ),
-                if (showMenuButton)
-                  ...[
-                  const Spacer(),
-                  _HamburgerButton(onTap: () => MobileDrawer.show(context)),
-                ]
-                else
-                  ...[
-                  const SizedBox(width: 14),
-                  _NavLink(
-                      label: 'Home',
+            // LayoutBuilder picks a fixed search width based on available
+            // space. Using a fixed width (not Flexible) means `Spacer` wins
+            // all remaining space, pushing the search + theme + cta cluster
+            // hard against the right edge.
+            child: LayoutBuilder(
+              builder: (context, c) {
+                final searchW = c.maxWidth >= 1000
+                    ? 280.0
+                    : c.maxWidth >= 820
+                        ? 200.0
+                        : 140.0;
+                return Row(
+                  children: [
+                    InkWell(
+                      borderRadius: BorderRadius.circular(8),
                       onTap: () => appCoordinator.navigate(HomeRoute()),
-                      active: true),
-                  _NavLink(
-                      label: 'Icons',
-                      onTap: () => appCoordinator.navigate(AllPacksRoute())),
-                  _NavLink(
-                      label: 'Docs',
-                      onTap: () =>
-                          _launch('https://pub.dev/packages/iconifyx')),
-                  _NavLink(
-                      label: 'Changelog',
-                      onTap: () => _launch(
-                          'https://github.com/bthnkucuk/iconifyx/releases')),
-                  const Spacer(),
-                  _SearchTrigger(color: ink2),
-                  const SizedBox(width: 10),
-                  _ThemeToggle(),
-                  const SizedBox(width: 10),
-                  _PubCta(),
-                ],
-              ],
+                      child: Padding(
+                        padding: const EdgeInsets.symmetric(
+                          horizontal: 4,
+                          vertical: 6,
+                        ),
+                        child: Row(
+                          children: const [
+                            BrandMark(size: 30),
+                            SizedBox(width: 10),
+                            BrandWordmark(),
+                          ],
+                        ),
+                      ),
+                    ),
+                    if (showMenuButton) ...[
+                      const Spacer(),
+                      _HamburgerButton(
+                          onTap: () => MobileDrawer.show(context)),
+                    ] else ...[
+                      const SizedBox(width: 14),
+                      _NavLink(
+                          label: 'Home',
+                          onTap: () => appCoordinator.navigate(HomeRoute()),
+                          active: true),
+                      _NavLink(
+                          label: 'Icons',
+                          onTap: () =>
+                              appCoordinator.navigate(AllPacksRoute())),
+                      _NavLink(
+                          label: 'Docs',
+                          onTap: () =>
+                              _launch('https://pub.dev/packages/iconifyx')),
+                      _NavLink(
+                          label: 'Changelog',
+                          onTap: () => _launch(
+                              'https://github.com/bthnkucuk/iconifyx/releases')),
+                      const Spacer(),
+                      SizedBox(
+                          width: searchW, child: _SearchTrigger(color: ink2)),
+                      const SizedBox(width: 10),
+                      _ThemeToggle(),
+                      const SizedBox(width: 10),
+                      _PubCta(),
+                    ],
+                  ],
+                );
+              },
             ),
           ),
         ),
@@ -104,6 +117,9 @@ class AppTopBar extends StatelessWidget implements PreferredSizeWidget {
 }
 
 // ─── Hamburger ──────────────────────────────────────────────────────────────
+/// Morphs between three bars (closed) and a close (×) icon (open) based on
+/// [MobileDrawer.isOpen]. Tapping while open pops the drawer; tapping while
+/// closed runs [onTap] (which opens it).
 class _HamburgerButton extends StatelessWidget {
   const _HamburgerButton({required this.onTap});
   final VoidCallback onTap;
@@ -113,25 +129,44 @@ class _HamburgerButton extends StatelessWidget {
     final card = isDark ? AppTheme.cardDark : AppTheme.card;
     final rule = isDark ? AppTheme.ruleDark : AppTheme.rule;
     final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
-    return HoverBox(
-      onTap: onTap,
-      width: 38,
-      height: 38,
-      borderRadius: 8,
-      bg: card,
-      borderColor: rule,
-      hoverBorderColor: AppTheme.coral,
-      alignment: Alignment.center,
-      child: Column(
-        mainAxisSize: MainAxisSize.min,
-        children: [
-          _Bar(color: ink),
-          const SizedBox(height: 4),
-          _Bar(color: ink),
-          const SizedBox(height: 4),
-          _Bar(color: ink),
-        ],
-      ),
+    return ValueListenableBuilder<bool>(
+      valueListenable: MobileDrawer.isOpen,
+      builder: (ctx, open, _) {
+        return HoverBox(
+          onTap: open ? () => Navigator.of(context).maybePop() : onTap,
+          width: 38,
+          height: 38,
+          borderRadius: 8,
+          bg: card,
+          borderColor: rule,
+          hoverBorderColor: AppTheme.coral,
+          alignment: Alignment.center,
+          child: AnimatedSwitcher(
+            duration: const Duration(milliseconds: 160),
+            transitionBuilder: (child, anim) => FadeTransition(
+              opacity: anim,
+              child: RotationTransition(
+                turns: Tween<double>(begin: 0.875, end: 1).animate(anim),
+                child: child,
+              ),
+            ),
+            child: open
+                ? Icon(Icons.close,
+                    key: const ValueKey('x'), size: 20, color: ink)
+                : Column(
+                    key: const ValueKey('bars'),
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      _Bar(color: ink),
+                      const SizedBox(height: 4),
+                      _Bar(color: ink),
+                      const SizedBox(height: 4),
+                      _Bar(color: ink),
+                    ],
+                  ),
+          ),
+        );
+      },
     );
   }
 }
@@ -152,7 +187,8 @@ class _Bar extends StatelessWidget {
 
 // ─── Nav link (local-hover, no parent setState) ─────────────────────────────
 class _NavLink extends StatelessWidget {
-  const _NavLink({required this.label, required this.onTap, this.active = false});
+  const _NavLink(
+      {required this.label, required this.onTap, this.active = false});
   final String label;
   final VoidCallback onTap;
   final bool active;
@@ -193,8 +229,7 @@ class _SearchTrigger extends StatelessWidget {
     final rule = isDark ? AppTheme.ruleDark : AppTheme.rule;
     final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
     return HoverBox(
-      onTap: () => appCoordinator.push(SearchRoute()),
-      width: 280,
+      onTap: () => appCoordinator.pushOrMoveToTop(SearchRoute()),
       height: 36,
       padding: const EdgeInsets.symmetric(horizontal: 12),
       borderRadius: 10,
@@ -206,8 +241,12 @@ class _SearchTrigger extends StatelessWidget {
           Icon(Icons.search, size: 16, color: muted),
           const SizedBox(width: 10),
           Expanded(
-            child: Text('Search 165K icons…',
-                style: TextStyle(fontSize: 13, color: muted)),
+            child: Text(
+              'Search 165K icons…',
+              style: TextStyle(fontSize: 13, color: muted),
+              maxLines: 1,
+              overflow: TextOverflow.ellipsis,
+            ),
           ),
           Container(
             padding: const EdgeInsets.symmetric(horizontal: 5, vertical: 1.5),

@@ -1,3 +1,5 @@
+import 'dart:ui';
+
 import 'package:flutter/material.dart';
 import 'package:zenrouter/zenrouter.dart';
 
@@ -7,34 +9,58 @@ import '../../../features/search/search_page.dart';
 import 'app_shell_layout.dart';
 
 /// /search is a transparent overlay route — when pushed, the previous page
-/// stays mounted and visible underneath. Closing (pop / esc / backdrop tap)
-/// returns to whichever route was active before.
-class SearchRoute extends AppRoute with RouteTransition {
-  SearchRoute({this.query = ''});
+/// stays mounted and visible (now blurred) underneath. Closing (pop / esc /
+/// backdrop tap) returns to whichever route was active before.
+///
+/// The current `q` query parameter is tracked via [RouteQueryParameters] so
+/// keystrokes in the palette update the URL live (and the URL is the source
+/// of truth on direct/refresh navigation). [lastQuery] additionally caches
+/// the most recently typed value in-memory so that re-opening the palette
+/// (e.g. via ⌘K from another route) restores what the user was last typing.
+class SearchRoute extends AppRoute with RouteQueryParameters, RouteTransition {
+  SearchRoute({Map<String, String>? initialQueries})
+      : queryNotifier = ValueNotifier(
+          initialQueries == null || initialQueries.isEmpty
+              ? (lastQuery.isEmpty ? const {} : {'q': lastQuery})
+              : initialQueries,
+        ) {
+    // Mirror the live query into the static [lastQuery] so the next push
+    // (cmd-K from elsewhere) can seed itself with what the user was typing.
+    queryNotifier.addListener(() {
+      lastQuery = queryNotifier.value['q'] ?? '';
+    });
+  }
 
-  final String query;
+  /// In-memory cache of the last typed query, used to restore the input
+  /// when the palette is re-opened without an explicit `?q=...` URL.
+  static String lastQuery = '';
+
+  @override
+  final ValueNotifier<Map<String, String>> queryNotifier;
 
   @override
   Type get layout => AppShellLayout;
 
   @override
-  List<Object?> get props => [query];
+  List<Object?> get props => [];
 
   @override
-  Uri toUri() => query.isEmpty
-      ? Uri.parse('/search')
-      : Uri(path: '/search', queryParameters: {'q': query});
+  Uri toUri() {
+    return queries.isEmpty
+        ? Uri.parse('/search')
+        : Uri(path: '/search', queryParameters: queries);
+  }
 
   @override
   Widget build(covariant AppCoordinator coordinator, BuildContext context) =>
-      SearchPage(initialQuery: query);
+      SearchPage(route: this);
 
   @override
   StackTransition<T> transition<T extends RouteUnique>(
-    covariant CoordinatorCore coordinator,
+    AppCoordinator coordinator,
   ) {
     return StackTransition<T>.custom(
-      builder: (context) => SearchPage(initialQuery: query),
+      builder: (context) => build(coordinator, context),
       pageBuilder: (context, routeKey, child) =>
           _OverlayPage<T>(key: routeKey, child: child),
     );
@@ -42,7 +68,7 @@ class SearchRoute extends AppRoute with RouteTransition {
 }
 
 /// Transparent page: previous route stays painted underneath, ours overlays
-/// with a dim backdrop and a fade-in.
+/// with a blurred dim backdrop and a fade-in.
 class _OverlayPage<T> extends Page<T> {
   const _OverlayPage({super.key, required this.child});
 
@@ -92,12 +118,26 @@ class _OverlayRoute<T> extends PageRoute<T> {
     );
     return FadeTransition(
       opacity: curve,
-      child: SlideTransition(
-        position: Tween<Offset>(
-          begin: const Offset(0, -0.02),
-          end: Offset.zero,
-        ).animate(curve),
-        child: child,
+      // A full-frame BackdropFilter beneath the palette content. It applies a
+      // Gaussian blur to whatever's painted in the layer below this route —
+      // i.e. the underlying page — so the palette sits on a frosted scrim
+      // instead of a flat tint.
+      child: Stack(
+        children: [
+          Positioned.fill(
+            child: BackdropFilter(
+              filter: ImageFilter.blur(sigmaX: 2, sigmaY: 2),
+              child: const ColoredBox(color: Colors.transparent),
+            ),
+          ),
+          SlideTransition(
+            position: Tween<Offset>(
+              begin: const Offset(0, -0.02),
+              end: Offset.zero,
+            ).animate(curve),
+            child: child,
+          ),
+        ],
       ),
     );
   }

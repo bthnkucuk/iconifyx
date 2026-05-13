@@ -135,7 +135,7 @@ class _Breadcrumb extends StatelessWidget {
     final muted = isDark ? AppTheme.mutedDark : AppTheme.muted;
     final ink = isDark ? AppTheme.inkDark : AppTheme.ink;
     return Padding(
-      padding: const EdgeInsets.fromLTRB(28, 28, 28, 0),
+      padding: const EdgeInsets.fromLTRB(28, 28, 16, 0),
       child: Row(
         children: [
           _CrumbLink(
@@ -151,13 +151,35 @@ class _Breadcrumb extends StatelessWidget {
               onTap: () =>
                   appCoordinator.navigate(PackDetailRoute(prefix: packPrefix))),
           Text(' / ', style: AppTheme.mono(size: 12, color: muted)),
-          Flexible(
-              child: Text(iconName,
-                  overflow: TextOverflow.ellipsis,
-                  style: AppTheme.mono(
-                      size: 12, color: ink, weight: FontWeight.w600))),
+          Expanded(
+            child: Text(iconName,
+                overflow: TextOverflow.ellipsis,
+                style: AppTheme.mono(
+                    size: 12, color: ink, weight: FontWeight.w600)),
+          ),
+          const SizedBox(width: 8),
+          _CloseSheetButton(),
         ],
       ),
+    );
+  }
+}
+
+class _CloseSheetButton extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final rule = isDark ? AppTheme.ruleDark : AppTheme.rule;
+    final ink2 = isDark ? AppTheme.ink2Dark : AppTheme.ink2;
+    return HoverBox(
+      onTap: () => Navigator.of(context).maybePop(),
+      width: 28,
+      height: 28,
+      borderRadius: 8,
+      borderColor: rule,
+      hoverBorderColor: AppTheme.coral,
+      alignment: Alignment.center,
+      child: Icon(Icons.close, size: 16, color: ink2),
     );
   }
 }

@@ -20,31 +20,41 @@ import 'hover_box.dart';
 class MobileDrawer extends StatelessWidget {
   const MobileDrawer({super.key});
 
-  static Future<void> show(BuildContext context) {
-    return showGeneralDialog(
-      context: context,
-      barrierDismissible: true,
-      barrierLabel: 'Close menu',
-      barrierColor: const Color(0x570E1320),
-      transitionDuration: const Duration(milliseconds: 220),
-      pageBuilder: (ctx, anim, sec) => const MobileDrawer(),
-      transitionBuilder: (ctx, anim, sec, child) {
-        final curve = CurvedAnimation(
-          parent: anim,
-          curve: const Cubic(.2, .7, .3, 1),
-        );
-        return FadeTransition(
-          opacity: curve,
-          child: SlideTransition(
-            position: Tween<Offset>(
-              begin: const Offset(0, -0.04),
-              end: Offset.zero,
-            ).animate(curve),
-            child: child,
-          ),
-        );
-      },
-    );
+  /// Tracks whether the drawer is currently mounted. The hamburger button in
+  /// [AppTopBar] watches this so it can morph between bars and a close (×)
+  /// icon, and tap-to-close when already open.
+  static final ValueNotifier<bool> isOpen = ValueNotifier(false);
+
+  static Future<void> show(BuildContext context) async {
+    isOpen.value = true;
+    try {
+      await showGeneralDialog(
+        context: context,
+        barrierDismissible: true,
+        barrierLabel: 'Close menu',
+        barrierColor: Colors.transparent,
+        transitionDuration: const Duration(milliseconds: 220),
+        pageBuilder: (ctx, anim, sec) => const MobileDrawer(),
+        transitionBuilder: (ctx, anim, sec, child) {
+          final curve = CurvedAnimation(
+            parent: anim,
+            curve: const Cubic(.2, .7, .3, 1),
+          );
+          return FadeTransition(
+            opacity: curve,
+            child: SlideTransition(
+              position: Tween<Offset>(
+                begin: const Offset(0, -0.04),
+                end: Offset.zero,
+              ).animate(curve),
+              child: child,
+            ),
+          );
+        },
+      );
+    } finally {
+      isOpen.value = false;
+    }
   }
 
   @override
@@ -66,14 +76,33 @@ class MobileDrawer extends StatelessWidget {
               constraints: BoxConstraints(
                 maxHeight: MediaQuery.of(context).size.height - 58,
               ),
-              child: SingleChildScrollView(
-                padding: const EdgeInsets.fromLTRB(18, 20, 18, 26),
-                child: BlocBuilder<BootstrapBloc, BootstrapState>(
-                  builder: (ctx, state) {
-                    final packs = state is BootstrapPacksReady ? state.packs : null;
-                    return _DrawerContent(packs: packs);
-                  },
-                ),
+              // The search trigger lives ABOVE the scroll view so it stays
+              // pinned at the top of the drawer regardless of how far the
+              // user scrolls the rest of the content.
+              child: BlocBuilder<BootstrapBloc, BootstrapState>(
+                builder: (ctx, state) {
+                  final packs =
+                      state is BootstrapPacksReady ? state.packs : null;
+                  return Column(
+                    mainAxisSize: MainAxisSize.min,
+                    crossAxisAlignment: CrossAxisAlignment.stretch,
+                    children: [
+                      Padding(
+                        padding: const EdgeInsets.fromLTRB(18, 20, 18, 0),
+                        child: _DrawerSearchTrigger(onTap: () {
+                          Navigator.of(ctx).pop();
+                          appCoordinator.pushOrMoveToTop(SearchRoute());
+                        }),
+                      ),
+                      Flexible(
+                        child: SingleChildScrollView(
+                          padding: const EdgeInsets.fromLTRB(18, 22, 18, 26),
+                          child: _DrawerContent(packs: packs),
+                        ),
+                      ),
+                    ],
+                  );
+                },
               ),
             ),
           ),
@@ -97,11 +126,6 @@ class _DrawerContent extends StatelessWidget {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.stretch,
       children: [
-        _DrawerSearchTrigger(onTap: () {
-          Navigator.of(context).pop();
-          appCoordinator.push(SearchRoute());
-        }),
-        const SizedBox(height: 22),
         _SectionTitle('Navigate'),
         const SizedBox(height: 6),
         _NavRow(
@@ -151,7 +175,10 @@ class _DrawerContent extends StatelessWidget {
             ],
           ),
           const SizedBox(height: 10),
-          _CategoryGrid(packs: packs!, onTap: (slug) => _go(context, AllPacksRoute(initialQueries: {'cat': slug}))),
+          _CategoryGrid(
+              packs: packs!,
+              onTap: (slug) =>
+                  _go(context, AllPacksRoute(initialQueries: {'cat': slug}))),
         ],
         const SizedBox(height: 24),
         _ThemeRow(),
@@ -350,7 +377,10 @@ class _CategoryGrid extends StatelessWidget {
         runSpacing: gap,
         children: [
           for (final cat in ranked.take(8))
-            SizedBox(width: cellW, child: _CategoryCardMobile(category: cat, packs: packs, onTap: () => onTap(cat.slug))),
+            SizedBox(
+                width: cellW,
+                child: _CategoryCardMobile(
+                    category: cat, packs: packs, onTap: () => onTap(cat.slug))),
         ],
       );
     });
@@ -395,7 +425,6 @@ class _CategoryCardMobileState extends State<_CategoryCardMobile> {
       bg: card,
       borderColor: rule,
       hoverBorderColor: AppTheme.coral,
-      translateOnHoverY: -1,
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
@@ -438,8 +467,7 @@ class _CategoryCardMobileState extends State<_CategoryCardMobile> {
                     style: TextStyle(fontSize: 11, color: AppTheme.muted)),
               ),
               Container(
-                padding:
-                    const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+                padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
                 decoration: BoxDecoration(
                   color: paper2,
                   borderRadius: BorderRadius.circular(6),
@@ -505,7 +533,8 @@ class _ThemeRow extends StatelessWidget {
               _Segmented(
                 options: const ['Light', 'Dark'],
                 activeIndex: isDarkMode ? 1 : 0,
-                onChange: (i) => ctx.read<ThemeCubit>()
+                onChange: (i) => ctx
+                    .read<ThemeCubit>()
                     .setMode(i == 0 ? ThemeMode.light : ThemeMode.dark),
               ),
             ],
@@ -548,7 +577,8 @@ class _Segmented extends StatelessWidget {
                 cursor: SystemMouseCursors.click,
                 child: AnimatedContainer(
                   duration: const Duration(milliseconds: 120),
-                  padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                  padding:
+                      const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
                   decoration: BoxDecoration(
                     color: i == activeIndex ? card : Colors.transparent,
                     borderRadius: BorderRadius.circular(6),

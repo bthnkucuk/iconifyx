@@ -13,13 +13,15 @@ import '../../router/routes/shell/all_packs_route.dart';
 import '../../router/routes/shell/home_route.dart';
 import '../../router/routes/shell/icon_detail_route.dart';
 import '../../router/routes/shell/pack_detail_route.dart';
+import '../../router/routes/shell/search_route.dart';
 import '../../theme/app_theme.dart';
 
 /// Search page — Spotlight-style palette rendered as the `/search` route.
-/// Replaces the old broken overlay. Pixel-aligned to the iconfyx handoff spec.
+/// The current query is owned by the [SearchRoute] (via [RouteQueryParameters]),
+/// so it lives in the URL and is restored when the palette is re-opened.
 class SearchPage extends StatefulWidget {
-  const SearchPage({super.key, required this.initialQuery});
-  final String initialQuery;
+  const SearchPage({super.key, required this.route});
+  final SearchRoute route;
 
   @override
   State<SearchPage> createState() => _SearchPageState();
@@ -31,7 +33,6 @@ class _SearchPageState extends State<SearchPage> {
   late final FocusNode _shortcutFocus;
   late final ScrollController _scroll;
 
-  String _query = '';
   int _activeIndex = 0;
   final Map<int, GlobalKey> _rowKeys = {};
 
@@ -40,21 +41,29 @@ class _SearchPageState extends State<SearchPage> {
     'bell-outline', 'download-outline', 'star-outline', 'cog-outline',
   ];
 
+  String get _query => widget.route.query('q') ?? '';
+
   @override
   void initState() {
     super.initState();
-    _controller = TextEditingController(text: widget.initialQuery);
+    _controller = TextEditingController(text: _query);
     _inputFocus = FocusNode();
     _shortcutFocus = FocusNode();
     _scroll = ScrollController();
-    _query = widget.initialQuery;
+    widget.route.queryNotifier.addListener(_onRouteQueryChanged);
     WidgetsBinding.instance.addPostFrameCallback((_) {
       _inputFocus.requestFocus();
+      // Place caret at the end so the user can continue typing where they
+      // left off when the palette was re-opened with a seeded query.
+      _controller.selection = TextSelection.collapsed(
+        offset: _controller.text.length,
+      );
     });
   }
 
   @override
   void dispose() {
+    widget.route.queryNotifier.removeListener(_onRouteQueryChanged);
     _controller.dispose();
     _inputFocus.dispose();
     _shortcutFocus.dispose();
@@ -62,11 +71,31 @@ class _SearchPageState extends State<SearchPage> {
     super.dispose();
   }
 
+  /// Keeps the input controller in sync with external URL changes (e.g.
+  /// browser back/forward navigating between /search?q=foo and /search?q=bar).
+  void _onRouteQueryChanged() {
+    final q = _query;
+    if (_controller.text != q) {
+      _controller.value = TextEditingValue(
+        text: q,
+        selection: TextSelection.collapsed(offset: q.length),
+      );
+    }
+    if (mounted) setState(() => _activeIndex = 0);
+  }
+
   void _onQuery(String value) {
-    setState(() {
-      _query = value;
-      _activeIndex = 0;
-    });
+    // Write to the route's query notifier — this updates the URL via
+    // [RouteQueryParameters.updateQueries] and triggers _onRouteQueryChanged
+    // (which calls setState above to re-render the results).
+    final t = value.trim();
+    final qs = Map<String, String>.from(widget.route.queries);
+    if (t.isEmpty) {
+      qs.remove('q');
+    } else {
+      qs['q'] = t;
+    }
+    widget.route.updateQueries(appCoordinator, queries: qs);
   }
 
   void _close() {
@@ -332,19 +361,28 @@ class _PalettePanel extends StatelessWidget {
             onEsc: onClose,
           ),
           Container(height: 1, color: rule),
-          ConstrainedBox(
-            constraints: BoxConstraints(
-              maxHeight: MediaQuery.of(context).size.height * 0.7,
-            ),
-            child: _Body(
-              query: query,
-              entries: entries,
-              activeIndex: activeIndex,
-              onActiveChanged: onActiveChanged,
-              onActivate: onActivate,
-              rowKeys: rowKeys,
-              featured: featured,
-              scrollController: scrollController,
+          // `Flexible(loose)` lets the body shrink when the parent (the
+          // `Align`/`Padding` around this panel) gives a maxHeight smaller
+          // than 0.7×screen — e.g. when the browser viewport is short. The
+          // inner `ConstrainedBox` still caps the body at 0.7×screen so on
+          // tall viewports the palette stays anchored near the top rather
+          // than stretching all the way down.
+          Flexible(
+            fit: FlexFit.loose,
+            child: ConstrainedBox(
+              constraints: BoxConstraints(
+                maxHeight: MediaQuery.of(context).size.height * 0.7,
+              ),
+              child: _Body(
+                query: query,
+                entries: entries,
+                activeIndex: activeIndex,
+                onActiveChanged: onActiveChanged,
+                onActivate: onActivate,
+                rowKeys: rowKeys,
+                featured: featured,
+                scrollController: scrollController,
+              ),
             ),
           ),
           Container(height: 1, color: rule),
