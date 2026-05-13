@@ -1,5 +1,5 @@
 name: two_icon_test
-description: Verify bundle size + duotone rendering with iconifyx per-set packages.
+description: Verify bundle size when an app depends on only two per-set packages.
 publish_to: 'none'
 version: 0.1.0
 
@@ -12,8 +12,6 @@ dependencies:
     sdk: flutter
   iconifyx_core:
     path: ../../packages/iconifyx_core
-  iconifyx_mdi:
-    path: ../../packages/iconifyx_mdi
   iconifyx_lucide:
     path: ../../packages/iconifyx_lucide
   iconifyx_ph:

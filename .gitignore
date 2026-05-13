@@ -44,3 +44,6 @@ tools/generator/tmp/
 test_apps/*/build/
 test_apps/*/.dart_tool/
 test_apps/*/pubspec.lock
+
+# FVM Version Cache
+.fvm/
