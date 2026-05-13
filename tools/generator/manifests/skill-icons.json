@@ -32,1571 +32,1571 @@
   ],
   "icons": {
     "ableton-dark": {
-      "codepoint": 57434,
+      "codepoint": 57344,
       "fontFamily": "SkillIcons",
       "identifier": "abletonDark"
     },
     "activitypub-dark": {
-      "codepoint": 57435,
+      "codepoint": 57345,
       "fontFamily": "SkillIcons",
       "identifier": "activitypubDark"
     },
     "activitypub-light": {
-      "codepoint": 57344,
+      "codepoint": 57346,
       "fontFamily": "SkillIcons",
       "identifier": "activitypubLight"
     },
     "actix-dark": {
-      "codepoint": 57436,
+      "codepoint": 57347,
       "fontFamily": "SkillIcons",
       "identifier": "actixDark"
     },
     "adonis": {
-      "codepoint": 57345,
+      "codepoint": 57348,
       "fontFamily": "SkillIcons",
       "identifier": "adonis"
     },
     "aftereffects": {
-      "codepoint": 57346,
+      "codepoint": 57349,
       "fontFamily": "SkillIcons",
       "identifier": "aftereffects"
     },
     "aiscript-dark": {
-      "codepoint": 57437,
+      "codepoint": 57350,
       "fontFamily": "SkillIcons",
       "identifier": "aiscriptDark"
     },
     "aiscript-light": {
-      "codepoint": 57438,
+      "codepoint": 57351,
       "fontFamily": "SkillIcons",
       "identifier": "aiscriptLight"
     },
     "alpinejs-dark": {
-      "codepoint": 57439,
+      "codepoint": 57352,
       "fontFamily": "SkillIcons",
       "identifier": "alpinejsDark"
     },
     "alpinejs-light": {
-      "codepoint": 57440,
+      "codepoint": 57353,
       "fontFamily": "SkillIcons",
       "identifier": "alpinejsLight"
     },
     "anaconda-dark": {
-      "codepoint": 57441,
+      "codepoint": 57354,
       "fontFamily": "SkillIcons",
       "identifier": "anacondaDark"
     },
     "anaconda-light": {
-      "codepoint": 57347,
+      "codepoint": 57355,
       "fontFamily": "SkillIcons",
       "identifier": "anacondaLight"
     },
     "ansible": {
-      "codepoint": 57348,
+      "codepoint": 57356,
       "fontFamily": "SkillIcons",
       "identifier": "ansible"
     },
     "apollo": {
-      "codepoint": 57442,
+      "codepoint": 57357,
       "fontFamily": "SkillIcons",
       "identifier": "apollo"
     },
     "apple-light": {
-      "codepoint": 57443,
+      "codepoint": 57358,
       "fontFamily": "SkillIcons",
       "identifier": "appleLight"
     },
     "appwrite": {
-      "codepoint": 57444,
+      "codepoint": 57359,
       "fontFamily": "SkillIcons",
       "identifier": "appwrite"
     },
     "arch-light": {
-      "codepoint": 57445,
+      "codepoint": 57360,
       "fontFamily": "SkillIcons",
       "identifier": "archLight"
     },
     "arduino": {
-      "codepoint": 57349,
+      "codepoint": 57361,
       "fontFamily": "SkillIcons",
       "identifier": "arduino"
     },
     "atom": {
-      "codepoint": 57446,
+      "codepoint": 57362,
       "fontFamily": "SkillIcons",
       "identifier": "atom"
     },
     "audition": {
-      "codepoint": 57350,
+      "codepoint": 57363,
       "fontFamily": "SkillIcons",
       "identifier": "audition"
     },
     "aws-dark": {
-      "codepoint": 57447,
+      "codepoint": 57364,
       "fontFamily": "SkillIcons",
       "identifier": "awsDark"
     },
     "aws-light": {
-      "codepoint": 57351,
+      "codepoint": 57365,
       "fontFamily": "SkillIcons",
       "identifier": "awsLight"
     },
     "azul": {
-      "codepoint": 57448,
+      "codepoint": 57366,
       "fontFamily": "SkillIcons",
       "identifier": "azul"
     },
     "azure-dark": {
-      "codepoint": 57449,
+      "codepoint": 57367,
       "fontFamily": "SkillIcons",
       "identifier": "azureDark"
     },
     "azure-light": {
-      "codepoint": 57450,
+      "codepoint": 57368,
       "fontFamily": "SkillIcons",
       "identifier": "azureLight"
     },
     "babel": {
-      "codepoint": 57352,
+      "codepoint": 57369,
       "fontFamily": "SkillIcons",
       "identifier": "babel"
     },
     "bash-light": {
-      "codepoint": 57353,
+      "codepoint": 57370,
       "fontFamily": "SkillIcons",
       "identifier": "bashLight"
     },
     "bevy-light": {
-      "codepoint": 57451,
+      "codepoint": 57371,
       "fontFamily": "SkillIcons",
       "identifier": "bevyLight"
     },
     "bitbucket-light": {
-      "codepoint": 57452,
+      "codepoint": 57372,
       "fontFamily": "SkillIcons",
       "identifier": "bitbucketLight"
     },
     "blender-dark": {
-      "codepoint": 57453,
+      "codepoint": 57373,
       "fontFamily": "SkillIcons",
       "identifier": "blenderDark"
     },
     "blender-light": {
-      "codepoint": 57454,
+      "codepoint": 57374,
       "fontFamily": "SkillIcons",
       "identifier": "blenderLight"
     },
     "bootstrap": {
-      "codepoint": 57455,
+      "codepoint": 57375,
       "fontFamily": "SkillIcons",
       "identifier": "bootstrap"
     },
     "bun-dark": {
-      "codepoint": 57456,
+      "codepoint": 57376,
       "fontFamily": "SkillIcons",
       "identifier": "bunDark"
     },
     "bun-light": {
-      "codepoint": 57457,
+      "codepoint": 57377,
       "fontFamily": "SkillIcons",
       "identifier": "bunLight"
     },
     "c": {
-      "codepoint": 57354,
+      "codepoint": 57378,
       "fontFamily": "SkillIcons",
       "identifier": "c"
     },
     "cassandra-dark": {
-      "codepoint": 57458,
+      "codepoint": 57379,
       "fontFamily": "SkillIcons",
       "identifier": "cassandraDark",
       "duotone": true
     },
     "clion-light": {
-      "codepoint": 57459,
+      "codepoint": 57380,
       "fontFamily": "SkillIcons",
       "identifier": "clionLight"
     },
     "clojure-light": {
-      "codepoint": 57460,
+      "codepoint": 57381,
       "fontFamily": "SkillIcons",
       "identifier": "clojureLight"
     },
     "cloudflare-dark": {
-      "codepoint": 57461,
+      "codepoint": 57382,
       "fontFamily": "SkillIcons",
       "identifier": "cloudflareDark"
     },
     "cloudflare-light": {
-      "codepoint": 57462,
+      "codepoint": 57383,
       "fontFamily": "SkillIcons",
       "identifier": "cloudflareLight"
     },
     "cmake-dark": {
-      "codepoint": 57463,
+      "codepoint": 57384,
       "fontFamily": "SkillIcons",
       "identifier": "cmakeDark"
     },
     "cmake-light": {
-      "codepoint": 57464,
+      "codepoint": 57385,
       "fontFamily": "SkillIcons",
       "identifier": "cmakeLight"
     },
     "codepen-dark": {
-      "codepoint": 57465,
+      "codepoint": 57386,
       "fontFamily": "SkillIcons",
       "identifier": "codepenDark"
     },
     "codepen-light": {
-      "codepoint": 57355,
+      "codepoint": 57387,
       "fontFamily": "SkillIcons",
       "identifier": "codepenLight"
     },
     "coffeescript-dark": {
-      "codepoint": 57466,
+      "codepoint": 57388,
       "fontFamily": "SkillIcons",
       "identifier": "coffeescriptDark"
     },
     "cpp": {
-      "codepoint": 57356,
+      "codepoint": 57389,
       "fontFamily": "SkillIcons",
       "identifier": "cpp"
     },
     "crystal-dark": {
-      "codepoint": 57467,
+      "codepoint": 57390,
       "fontFamily": "SkillIcons",
       "identifier": "crystalDark"
     },
     "crystal-light": {
-      "codepoint": 57357,
+      "codepoint": 57391,
       "fontFamily": "SkillIcons",
       "identifier": "crystalLight"
     },
     "cs": {
-      "codepoint": 57358,
+      "codepoint": 57392,
       "fontFamily": "SkillIcons",
       "identifier": "cs"
     },
     "css": {
-      "codepoint": 57359,
+      "codepoint": 57393,
       "fontFamily": "SkillIcons",
       "identifier": "css"
     },
     "cypress-light": {
-      "codepoint": 57468,
+      "codepoint": 57394,
       "fontFamily": "SkillIcons",
       "identifier": "cypressLight"
     },
     "d3-dark": {
-      "codepoint": 57469,
+      "codepoint": 57395,
       "fontFamily": "SkillIcons",
       "identifier": "d3Dark"
     },
     "d3-light": {
-      "codepoint": 57360,
+      "codepoint": 57396,
       "fontFamily": "SkillIcons",
       "identifier": "d3Light"
     },
     "dart-dark": {
-      "codepoint": 57470,
+      "codepoint": 57397,
       "fontFamily": "SkillIcons",
       "identifier": "dartDark"
     },
     "dart-light": {
-      "codepoint": 57361,
+      "codepoint": 57398,
       "fontFamily": "SkillIcons",
       "identifier": "dartLight"
     },
     "debian-light": {
-      "codepoint": 57471,
+      "codepoint": 57399,
       "fontFamily": "SkillIcons",
       "identifier": "debianLight"
     },
     "deno-dark": {
-      "codepoint": 57472,
+      "codepoint": 57400,
       "fontFamily": "SkillIcons",
       "identifier": "denoDark"
     },
     "deno-light": {
-      "codepoint": 57473,
+      "codepoint": 57401,
       "fontFamily": "SkillIcons",
       "identifier": "denoLight"
     },
     "devto-dark": {
-      "codepoint": 57362,
+      "codepoint": 57402,
       "fontFamily": "SkillIcons",
       "identifier": "devtoDark"
     },
     "devto-light": {
-      "codepoint": 57363,
+      "codepoint": 57403,
       "fontFamily": "SkillIcons",
       "identifier": "devtoLight"
     },
     "discord": {
-      "codepoint": 57474,
+      "codepoint": 57404,
       "fontFamily": "SkillIcons",
       "identifier": "discord"
     },
     "discordbots": {
-      "codepoint": 57475,
+      "codepoint": 57405,
       "fontFamily": "SkillIcons",
       "identifier": "discordbots"
     },
     "discordjs-light": {
-      "codepoint": 57476,
+      "codepoint": 57406,
       "fontFamily": "SkillIcons",
       "identifier": "discordjsLight"
     },
     "django": {
-      "codepoint": 57477,
+      "codepoint": 57407,
       "fontFamily": "SkillIcons",
       "identifier": "django"
     },
     "docker": {
-      "codepoint": 57478,
+      "codepoint": 57408,
       "fontFamily": "SkillIcons",
       "identifier": "docker"
     },
     "dotnet": {
-      "codepoint": 57364,
+      "codepoint": 57409,
       "fontFamily": "SkillIcons",
       "identifier": "dotnet"
     },
     "electron": {
-      "codepoint": 57479,
+      "codepoint": 57410,
       "fontFamily": "SkillIcons",
       "identifier": "electron"
     },
     "elixir-dark": {
-      "codepoint": 57480,
+      "codepoint": 57411,
       "fontFamily": "SkillIcons",
       "identifier": "elixirDark"
     },
     "elixir-light": {
-      "codepoint": 57481,
+      "codepoint": 57412,
       "fontFamily": "SkillIcons",
       "identifier": "elixirLight"
     },
     "elysia-light": {
-      "codepoint": 57482,
+      "codepoint": 57413,
       "fontFamily": "SkillIcons",
       "identifier": "elysiaLight"
     },
     "emacs": {
-      "codepoint": 57483,
+      "codepoint": 57414,
       "fontFamily": "SkillIcons",
       "identifier": "emacs"
     },
     "ember": {
-      "codepoint": 57484,
+      "codepoint": 57415,
       "fontFamily": "SkillIcons",
       "identifier": "ember",
       "duotone": true
     },
     "emotion-dark": {
-      "codepoint": 57485,
+      "codepoint": 57416,
       "fontFamily": "SkillIcons",
       "identifier": "emotionDark"
     },
     "emotion-light": {
-      "codepoint": 57486,
+      "codepoint": 57417,
       "fontFamily": "SkillIcons",
       "identifier": "emotionLight"
     },
     "expressjs-dark": {
-      "codepoint": 57487,
+      "codepoint": 57418,
       "fontFamily": "SkillIcons",
       "identifier": "expressjsDark"
     },
     "expressjs-light": {
-      "codepoint": 57365,
+      "codepoint": 57419,
       "fontFamily": "SkillIcons",
       "identifier": "expressjsLight"
     },
     "fastapi": {
-      "codepoint": 57488,
+      "codepoint": 57420,
       "fontFamily": "SkillIcons",
       "identifier": "fastapi"
     },
     "fediverse-dark": {
-      "codepoint": 57489,
+      "codepoint": 57421,
       "fontFamily": "SkillIcons",
       "identifier": "fediverseDark"
     },
     "fediverse-light": {
-      "codepoint": 57490,
+      "codepoint": 57422,
       "fontFamily": "SkillIcons",
       "identifier": "fediverseLight"
     },
     "figma-dark": {
-      "codepoint": 57491,
+      "codepoint": 57423,
       "fontFamily": "SkillIcons",
       "identifier": "figmaDark"
     },
     "figma-light": {
-      "codepoint": 57492,
+      "codepoint": 57424,
       "fontFamily": "SkillIcons",
       "identifier": "figmaLight"
     },
     "flask-dark": {
-      "codepoint": 57493,
+      "codepoint": 57425,
       "fontFamily": "SkillIcons",
       "identifier": "flaskDark"
     },
     "flask-light": {
-      "codepoint": 57366,
+      "codepoint": 57426,
       "fontFamily": "SkillIcons",
       "identifier": "flaskLight"
     },
     "flutter-dark": {
-      "codepoint": 57494,
+      "codepoint": 57427,
       "fontFamily": "SkillIcons",
       "identifier": "flutterDark"
     },
     "flutter-light": {
-      "codepoint": 57495,
+      "codepoint": 57428,
       "fontFamily": "SkillIcons",
       "identifier": "flutterLight"
     },
     "forth": {
-      "codepoint": 57496,
+      "codepoint": 57429,
       "fontFamily": "SkillIcons",
       "identifier": "forth"
     },
     "fortran": {
-      "codepoint": 57367,
+      "codepoint": 57430,
       "fontFamily": "SkillIcons",
       "identifier": "fortran"
     },
     "gamemakerstudio": {
-      "codepoint": 57368,
+      "codepoint": 57431,
       "fontFamily": "SkillIcons",
       "identifier": "gamemakerstudio"
     },
     "gatsby": {
-      "codepoint": 57369,
+      "codepoint": 57432,
       "fontFamily": "SkillIcons",
       "identifier": "gatsby"
     },
     "gherkin-dark": {
-      "codepoint": 57497,
+      "codepoint": 57433,
       "fontFamily": "SkillIcons",
       "identifier": "gherkinDark"
     },
     "gherkin-light": {
-      "codepoint": 57498,
+      "codepoint": 57434,
       "fontFamily": "SkillIcons",
       "identifier": "gherkinLight"
     },
     "git": {
-      "codepoint": 57370,
+      "codepoint": 57435,
       "fontFamily": "SkillIcons",
       "identifier": "git"
     },
     "github-dark": {
-      "codepoint": 57499,
+      "codepoint": 57436,
       "fontFamily": "SkillIcons",
       "identifier": "githubDark"
     },
     "githubactions-dark": {
-      "codepoint": 57500,
+      "codepoint": 57437,
       "fontFamily": "SkillIcons",
       "identifier": "githubactionsDark"
     },
     "githubactions-light": {
-      "codepoint": 57501,
+      "codepoint": 57438,
       "fontFamily": "SkillIcons",
       "identifier": "githubactionsLight"
     },
     "godot-dark": {
-      "codepoint": 57502,
+      "codepoint": 57439,
       "fontFamily": "SkillIcons",
       "identifier": "godotDark"
     },
     "godot-light": {
-      "codepoint": 57503,
+      "codepoint": 57440,
       "fontFamily": "SkillIcons",
       "identifier": "godotLight"
     },
     "golang": {
-      "codepoint": 57371,
+      "codepoint": 57441,
       "fontFamily": "SkillIcons",
       "identifier": "golang"
     },
     "gradle-dark": {
-      "codepoint": 57504,
+      "codepoint": 57442,
       "fontFamily": "SkillIcons",
       "identifier": "gradleDark"
     },
     "grafana-dark": {
-      "codepoint": 57505,
+      "codepoint": 57443,
       "fontFamily": "SkillIcons",
       "identifier": "grafanaDark"
     },
     "grafana-light": {
-      "codepoint": 57506,
+      "codepoint": 57444,
       "fontFamily": "SkillIcons",
       "identifier": "grafanaLight"
     },
     "graphql-dark": {
-      "codepoint": 57507,
+      "codepoint": 57445,
       "fontFamily": "SkillIcons",
       "identifier": "graphqlDark"
     },
     "graphql-light": {
-      "codepoint": 57372,
+      "codepoint": 57446,
       "fontFamily": "SkillIcons",
       "identifier": "graphqlLight"
     },
     "gulp": {
-      "codepoint": 57373,
+      "codepoint": 57447,
       "fontFamily": "SkillIcons",
       "identifier": "gulp"
     },
     "haskell-dark": {
-      "codepoint": 57508,
+      "codepoint": 57448,
       "fontFamily": "SkillIcons",
       "identifier": "haskellDark"
     },
     "haxe-dark": {
-      "codepoint": 57509,
+      "codepoint": 57449,
       "fontFamily": "SkillIcons",
       "identifier": "haxeDark"
     },
     "haxe-light": {
-      "codepoint": 57510,
+      "codepoint": 57450,
       "fontFamily": "SkillIcons",
       "identifier": "haxeLight"
     },
     "haxeflixel-dark": {
-      "codepoint": 57511,
+      "codepoint": 57451,
       "fontFamily": "SkillIcons",
       "identifier": "haxeflixelDark"
     },
     "haxeflixel-light": {
-      "codepoint": 57374,
+      "codepoint": 57452,
       "fontFamily": "SkillIcons",
       "identifier": "haxeflixelLight"
     },
     "heroku": {
-      "codepoint": 57512,
+      "codepoint": 57453,
       "fontFamily": "SkillIcons",
       "identifier": "heroku"
     },
     "html": {
-      "codepoint": 57375,
+      "codepoint": 57454,
       "fontFamily": "SkillIcons",
       "identifier": "html"
     },
     "htmx-light": {
-      "codepoint": 57513,
+      "codepoint": 57455,
       "fontFamily": "SkillIcons",
       "identifier": "htmxLight"
     },
     "idea-dark": {
-      "codepoint": 57514,
+      "codepoint": 57456,
       "fontFamily": "SkillIcons",
       "identifier": "ideaDark"
     },
     "idea-light": {
-      "codepoint": 57515,
+      "codepoint": 57457,
       "fontFamily": "SkillIcons",
       "identifier": "ideaLight"
     },
     "illustrator": {
-      "codepoint": 57376,
+      "codepoint": 57458,
       "fontFamily": "SkillIcons",
       "identifier": "illustrator"
     },
     "instagram": {
-      "codepoint": 57516,
+      "codepoint": 57459,
       "fontFamily": "SkillIcons",
       "identifier": "instagram"
     },
     "ipfs-dark": {
-      "codepoint": 57517,
+      "codepoint": 57460,
       "fontFamily": "SkillIcons",
       "identifier": "ipfsDark"
     },
     "ipfs-light": {
-      "codepoint": 57377,
+      "codepoint": 57461,
       "fontFamily": "SkillIcons",
       "identifier": "ipfsLight"
     },
     "java-dark": {
-      "codepoint": 57518,
+      "codepoint": 57462,
       "fontFamily": "SkillIcons",
       "identifier": "javaDark"
     },
     "java-light": {
-      "codepoint": 57519,
+      "codepoint": 57463,
       "fontFamily": "SkillIcons",
       "identifier": "javaLight"
     },
     "jest": {
-      "codepoint": 57520,
+      "codepoint": 57464,
       "fontFamily": "SkillIcons",
       "identifier": "jest"
     },
     "jquery": {
-      "codepoint": 57521,
+      "codepoint": 57465,
       "fontFamily": "SkillIcons",
       "identifier": "jquery"
     },
     "julia-dark": {
-      "codepoint": 57522,
+      "codepoint": 57466,
       "fontFamily": "SkillIcons",
       "identifier": "juliaDark"
     },
     "julia-light": {
-      "codepoint": 57523,
+      "codepoint": 57467,
       "fontFamily": "SkillIcons",
       "identifier": "juliaLight"
     },
     "kafka": {
-      "codepoint": 57378,
+      "codepoint": 57468,
       "fontFamily": "SkillIcons",
       "identifier": "kafka"
     },
     "kali-light": {
-      "codepoint": 57524,
+      "codepoint": 57469,
       "fontFamily": "SkillIcons",
       "identifier": "kaliLight"
     },
     "kotlin-dark": {
-      "codepoint": 57525,
+      "codepoint": 57470,
       "fontFamily": "SkillIcons",
       "identifier": "kotlinDark"
     },
     "kotlin-light": {
-      "codepoint": 57526,
+      "codepoint": 57471,
       "fontFamily": "SkillIcons",
       "identifier": "kotlinLight"
     },
     "kubernetes": {
-      "codepoint": 57379,
+      "codepoint": 57472,
       "fontFamily": "SkillIcons",
       "identifier": "kubernetes"
     },
     "laravel-dark": {
-      "codepoint": 57527,
+      "codepoint": 57473,
       "fontFamily": "SkillIcons",
       "identifier": "laravelDark"
     },
     "laravel-light": {
-      "codepoint": 57380,
+      "codepoint": 57474,
       "fontFamily": "SkillIcons",
       "identifier": "laravelLight"
     },
     "latex-dark": {
-      "codepoint": 57528,
+      "codepoint": 57475,
       "fontFamily": "SkillIcons",
       "identifier": "latexDark"
     },
     "latex-light": {
-      "codepoint": 57529,
+      "codepoint": 57476,
       "fontFamily": "SkillIcons",
       "identifier": "latexLight"
     },
     "less-dark": {
-      "codepoint": 57530,
+      "codepoint": 57477,
       "fontFamily": "SkillIcons",
       "identifier": "lessDark"
     },
     "less-light": {
-      "codepoint": 57531,
+      "codepoint": 57478,
       "fontFamily": "SkillIcons",
       "identifier": "lessLight"
     },
     "linkedin": {
-      "codepoint": 57381,
+      "codepoint": 57479,
       "fontFamily": "SkillIcons",
       "identifier": "linkedin"
     },
     "linux-dark": {
-      "codepoint": 57532,
+      "codepoint": 57480,
       "fontFamily": "SkillIcons",
       "identifier": "linuxDark"
     },
     "linux-light": {
-      "codepoint": 57533,
+      "codepoint": 57481,
       "fontFamily": "SkillIcons",
       "identifier": "linuxLight"
     },
     "lit-dark": {
-      "codepoint": 57534,
+      "codepoint": 57482,
       "fontFamily": "SkillIcons",
       "identifier": "litDark"
     },
     "lit-light": {
-      "codepoint": 57535,
+      "codepoint": 57483,
       "fontFamily": "SkillIcons",
       "identifier": "litLight"
     },
     "lua-dark": {
-      "codepoint": 57536,
+      "codepoint": 57484,
       "fontFamily": "SkillIcons",
       "identifier": "luaDark"
     },
     "lua-light": {
-      "codepoint": 57382,
+      "codepoint": 57485,
       "fontFamily": "SkillIcons",
       "identifier": "luaLight"
     },
     "markdown-dark": {
-      "codepoint": 57537,
+      "codepoint": 57486,
       "fontFamily": "SkillIcons",
       "identifier": "markdownDark"
     },
     "markdown-light": {
-      "codepoint": 57383,
+      "codepoint": 57487,
       "fontFamily": "SkillIcons",
       "identifier": "markdownLight"
     },
     "mastodon-dark": {
-      "codepoint": 57538,
+      "codepoint": 57488,
       "fontFamily": "SkillIcons",
       "identifier": "mastodonDark"
     },
     "mastodon-light": {
-      "codepoint": 57384,
+      "codepoint": 57489,
       "fontFamily": "SkillIcons",
       "identifier": "mastodonLight"
     },
     "materialui-dark": {
-      "codepoint": 57539,
+      "codepoint": 57490,
       "fontFamily": "SkillIcons",
       "identifier": "materialuiDark"
     },
     "materialui-light": {
-      "codepoint": 57385,
+      "codepoint": 57491,
       "fontFamily": "SkillIcons",
       "identifier": "materialuiLight"
     },
     "matlab-dark": {
-      "codepoint": 57540,
+      "codepoint": 57492,
       "fontFamily": "SkillIcons",
       "identifier": "matlabDark"
     },
     "matlab-light": {
-      "codepoint": 57541,
+      "codepoint": 57493,
       "fontFamily": "SkillIcons",
       "identifier": "matlabLight"
     },
     "maven-dark": {
-      "codepoint": 57542,
+      "codepoint": 57494,
       "fontFamily": "SkillIcons",
       "identifier": "mavenDark"
     },
     "maven-light": {
-      "codepoint": 57543,
+      "codepoint": 57495,
       "fontFamily": "SkillIcons",
       "identifier": "mavenLight"
     },
     "mint-light": {
-      "codepoint": 57386,
+      "codepoint": 57496,
       "fontFamily": "SkillIcons",
       "identifier": "mintLight"
     },
     "misskey-dark": {
-      "codepoint": 57544,
+      "codepoint": 57497,
       "fontFamily": "SkillIcons",
       "identifier": "misskeyDark"
     },
     "misskey-light": {
-      "codepoint": 57387,
+      "codepoint": 57498,
       "fontFamily": "SkillIcons",
       "identifier": "misskeyLight"
     },
     "mongodb": {
-      "codepoint": 57545,
+      "codepoint": 57499,
       "fontFamily": "SkillIcons",
       "identifier": "mongodb"
     },
     "mysql-dark": {
-      "codepoint": 57546,
+      "codepoint": 57500,
       "fontFamily": "SkillIcons",
       "identifier": "mysqlDark"
     },
     "mysql-light": {
-      "codepoint": 57388,
+      "codepoint": 57501,
       "fontFamily": "SkillIcons",
       "identifier": "mysqlLight"
     },
     "neovim-dark": {
-      "codepoint": 57547,
+      "codepoint": 57502,
       "fontFamily": "SkillIcons",
       "identifier": "neovimDark"
     },
     "neovim-light": {
-      "codepoint": 57548,
+      "codepoint": 57503,
       "fontFamily": "SkillIcons",
       "identifier": "neovimLight"
     },
     "nestjs-dark": {
-      "codepoint": 57549,
+      "codepoint": 57504,
       "fontFamily": "SkillIcons",
       "identifier": "nestjsDark"
     },
     "nestjs-light": {
-      "codepoint": 57389,
+      "codepoint": 57505,
       "fontFamily": "SkillIcons",
       "identifier": "nestjsLight"
     },
     "netlify-dark": {
-      "codepoint": 57550,
+      "codepoint": 57506,
       "fontFamily": "SkillIcons",
       "identifier": "netlifyDark"
     },
     "netlify-light": {
-      "codepoint": 57551,
+      "codepoint": 57507,
       "fontFamily": "SkillIcons",
       "identifier": "netlifyLight"
     },
     "nextjs-dark": {
-      "codepoint": 57552,
+      "codepoint": 57508,
       "fontFamily": "SkillIcons",
       "identifier": "nextjsDark"
     },
     "nextjs-light": {
-      "codepoint": 57553,
+      "codepoint": 57509,
       "fontFamily": "SkillIcons",
       "identifier": "nextjsLight"
     },
     "nginx": {
-      "codepoint": 57554,
+      "codepoint": 57510,
       "fontFamily": "SkillIcons",
       "identifier": "nginx"
     },
     "nim-dark": {
-      "codepoint": 57555,
+      "codepoint": 57511,
       "fontFamily": "SkillIcons",
       "identifier": "nimDark"
     },
     "nim-light": {
-      "codepoint": 57390,
+      "codepoint": 57512,
       "fontFamily": "SkillIcons",
       "identifier": "nimLight"
     },
     "nix-dark": {
-      "codepoint": 57556,
+      "codepoint": 57513,
       "fontFamily": "SkillIcons",
       "identifier": "nixDark"
     },
     "nix-light": {
-      "codepoint": 57557,
+      "codepoint": 57514,
       "fontFamily": "SkillIcons",
       "identifier": "nixLight"
     },
     "nodejs-dark": {
-      "codepoint": 57558,
+      "codepoint": 57515,
       "fontFamily": "SkillIcons",
       "identifier": "nodejsDark"
     },
     "nodejs-light": {
-      "codepoint": 57391,
+      "codepoint": 57516,
       "fontFamily": "SkillIcons",
       "identifier": "nodejsLight"
     },
     "notion-light": {
-      "codepoint": 57392,
+      "codepoint": 57517,
       "fontFamily": "SkillIcons",
       "identifier": "notionLight"
     },
     "npm-light": {
-      "codepoint": 57559,
+      "codepoint": 57518,
       "fontFamily": "SkillIcons",
       "identifier": "npmLight"
     },
     "nuxtjs-dark": {
-      "codepoint": 57560,
+      "codepoint": 57519,
       "fontFamily": "SkillIcons",
       "identifier": "nuxtjsDark"
     },
     "nuxtjs-light": {
-      "codepoint": 57393,
+      "codepoint": 57520,
       "fontFamily": "SkillIcons",
       "identifier": "nuxtjsLight"
     },
     "obsidian-light": {
-      "codepoint": 57561,
+      "codepoint": 57521,
       "fontFamily": "SkillIcons",
       "identifier": "obsidianLight"
     },
     "ocaml": {
-      "codepoint": 57562,
+      "codepoint": 57522,
       "fontFamily": "SkillIcons",
       "identifier": "ocaml"
     },
     "octave-dark": {
-      "codepoint": 57563,
+      "codepoint": 57523,
       "fontFamily": "SkillIcons",
       "identifier": "octaveDark"
     },
     "octave-light": {
-      "codepoint": 57564,
+      "codepoint": 57524,
       "fontFamily": "SkillIcons",
       "identifier": "octaveLight"
     },
     "opencv-dark": {
-      "codepoint": 57565,
+      "codepoint": 57525,
       "fontFamily": "SkillIcons",
       "identifier": "opencvDark"
     },
     "opencv-light": {
-      "codepoint": 57394,
+      "codepoint": 57526,
       "fontFamily": "SkillIcons",
       "identifier": "opencvLight"
     },
     "openshift": {
-      "codepoint": 57395,
+      "codepoint": 57527,
       "fontFamily": "SkillIcons",
       "identifier": "openshift"
     },
     "p5js": {
-      "codepoint": 57396,
+      "codepoint": 57528,
       "fontFamily": "SkillIcons",
       "identifier": "p5js"
     },
     "perl": {
-      "codepoint": 57566,
+      "codepoint": 57529,
       "fontFamily": "SkillIcons",
       "identifier": "perl"
     },
     "photoshop": {
-      "codepoint": 57567,
+      "codepoint": 57530,
       "fontFamily": "SkillIcons",
       "identifier": "photoshop"
     },
     "php-dark": {
-      "codepoint": 57568,
+      "codepoint": 57531,
       "fontFamily": "SkillIcons",
       "identifier": "phpDark"
     },
     "php-light": {
-      "codepoint": 57397,
+      "codepoint": 57532,
       "fontFamily": "SkillIcons",
       "identifier": "phpLight"
     },
     "phpstorm-light": {
-      "codepoint": 57569,
+      "codepoint": 57533,
       "fontFamily": "SkillIcons",
       "identifier": "phpstormLight"
     },
     "pinia-light": {
-      "codepoint": 57570,
+      "codepoint": 57534,
       "fontFamily": "SkillIcons",
       "identifier": "piniaLight"
     },
     "pkl-light": {
-      "codepoint": 57571,
+      "codepoint": 57535,
       "fontFamily": "SkillIcons",
       "identifier": "pklLight"
     },
     "plan9-dark": {
-      "codepoint": 57572,
+      "codepoint": 57536,
       "fontFamily": "SkillIcons",
       "identifier": "plan9Dark"
     },
     "plan9-light": {
-      "codepoint": 57398,
+      "codepoint": 57537,
       "fontFamily": "SkillIcons",
       "identifier": "plan9Light"
     },
     "planetscale-dark": {
-      "codepoint": 57573,
+      "codepoint": 57538,
       "fontFamily": "SkillIcons",
       "identifier": "planetscaleDark"
     },
     "planetscale-light": {
-      "codepoint": 57399,
+      "codepoint": 57539,
       "fontFamily": "SkillIcons",
       "identifier": "planetscaleLight"
     },
     "pnpm-light": {
-      "codepoint": 57574,
+      "codepoint": 57540,
       "fontFamily": "SkillIcons",
       "identifier": "pnpmLight"
     },
     "postgresql-light": {
-      "codepoint": 57575,
+      "codepoint": 57541,
       "fontFamily": "SkillIcons",
       "identifier": "postgresqlLight"
     },
     "postman": {
-      "codepoint": 57400,
+      "codepoint": 57542,
       "fontFamily": "SkillIcons",
       "identifier": "postman"
     },
     "powershell-dark": {
-      "codepoint": 57576,
+      "codepoint": 57543,
       "fontFamily": "SkillIcons",
       "identifier": "powershellDark"
     },
     "powershell-light": {
-      "codepoint": 57577,
+      "codepoint": 57544,
       "fontFamily": "SkillIcons",
       "identifier": "powershellLight"
     },
     "premiere": {
-      "codepoint": 57401,
+      "codepoint": 57545,
       "fontFamily": "SkillIcons",
       "identifier": "premiere"
     },
     "prisma": {
-      "codepoint": 57402,
+      "codepoint": 57546,
       "fontFamily": "SkillIcons",
       "identifier": "prisma"
     },
     "processing-dark": {
-      "codepoint": 57578,
+      "codepoint": 57547,
       "fontFamily": "SkillIcons",
       "identifier": "processingDark"
     },
     "processing-light": {
-      "codepoint": 57403,
+      "codepoint": 57548,
       "fontFamily": "SkillIcons",
       "identifier": "processingLight"
     },
     "prometheus": {
-      "codepoint": 57579,
+      "codepoint": 57549,
       "fontFamily": "SkillIcons",
       "identifier": "prometheus"
     },
     "pug-dark": {
-      "codepoint": 57580,
+      "codepoint": 57550,
       "fontFamily": "SkillIcons",
       "identifier": "pugDark"
     },
     "pug-light": {
-      "codepoint": 57581,
+      "codepoint": 57551,
       "fontFamily": "SkillIcons",
       "identifier": "pugLight"
     },
     "pycharm-light": {
-      "codepoint": 57582,
+      "codepoint": 57552,
       "fontFamily": "SkillIcons",
       "identifier": "pycharmLight"
     },
     "python-dark": {
-      "codepoint": 57583,
+      "codepoint": 57553,
       "fontFamily": "SkillIcons",
       "identifier": "pythonDark"
     },
     "python-light": {
-      "codepoint": 57584,
+      "codepoint": 57554,
       "fontFamily": "SkillIcons",
       "identifier": "pythonLight"
     },
     "pytorch-dark": {
-      "codepoint": 57585,
+      "codepoint": 57555,
       "fontFamily": "SkillIcons",
       "identifier": "pytorchDark"
     },
     "pytorch-light": {
-      "codepoint": 57404,
+      "codepoint": 57556,
       "fontFamily": "SkillIcons",
       "identifier": "pytorchLight"
     },
     "qt-dark": {
-      "codepoint": 57586,
+      "codepoint": 57557,
       "fontFamily": "SkillIcons",
       "identifier": "qtDark"
     },
     "qt-light": {
-      "codepoint": 57405,
+      "codepoint": 57558,
       "fontFamily": "SkillIcons",
       "identifier": "qtLight"
     },
     "r-dark": {
-      "codepoint": 57587,
+      "codepoint": 57559,
       "fontFamily": "SkillIcons",
       "identifier": "rDark"
     },
     "r-light": {
-      "codepoint": 57588,
+      "codepoint": 57560,
       "fontFamily": "SkillIcons",
       "identifier": "rLight"
     },
     "rabbitmq-dark": {
-      "codepoint": 57589,
+      "codepoint": 57561,
       "fontFamily": "SkillIcons",
       "identifier": "rabbitmqDark"
     },
     "rabbitmq-light": {
-      "codepoint": 57406,
+      "codepoint": 57562,
       "fontFamily": "SkillIcons",
       "identifier": "rabbitmqLight"
     },
     "rails": {
-      "codepoint": 57590,
+      "codepoint": 57563,
       "fontFamily": "SkillIcons",
       "identifier": "rails"
     },
     "react-dark": {
-      "codepoint": 57591,
+      "codepoint": 57564,
       "fontFamily": "SkillIcons",
       "identifier": "reactDark"
     },
     "react-light": {
-      "codepoint": 57407,
+      "codepoint": 57565,
       "fontFamily": "SkillIcons",
       "identifier": "reactLight"
     },
     "reactivex-dark": {
-      "codepoint": 57592,
+      "codepoint": 57566,
       "fontFamily": "SkillIcons",
       "identifier": "reactivexDark"
     },
     "reactivex-light": {
-      "codepoint": 57593,
+      "codepoint": 57567,
       "fontFamily": "SkillIcons",
       "identifier": "reactivexLight"
     },
     "redhat-light": {
-      "codepoint": 57408,
+      "codepoint": 57568,
       "fontFamily": "SkillIcons",
       "identifier": "redhatLight"
     },
     "redux": {
-      "codepoint": 57409,
+      "codepoint": 57569,
       "fontFamily": "SkillIcons",
       "identifier": "redux"
     },
     "regex-dark": {
-      "codepoint": 57594,
+      "codepoint": 57570,
       "fontFamily": "SkillIcons",
       "identifier": "regexDark"
     },
     "regex-light": {
-      "codepoint": 57410,
+      "codepoint": 57571,
       "fontFamily": "SkillIcons",
       "identifier": "regexLight"
     },
     "remix-dark": {
-      "codepoint": 57595,
+      "codepoint": 57572,
       "fontFamily": "SkillIcons",
       "identifier": "remixDark"
     },
     "remix-light": {
-      "codepoint": 57596,
+      "codepoint": 57573,
       "fontFamily": "SkillIcons",
       "identifier": "remixLight"
     },
     "rider-light": {
-      "codepoint": 57597,
+      "codepoint": 57574,
       "fontFamily": "SkillIcons",
       "identifier": "riderLight"
     },
     "robloxstudio": {
-      "codepoint": 57411,
+      "codepoint": 57575,
       "fontFamily": "SkillIcons",
       "identifier": "robloxstudio"
     },
     "rocket": {
-      "codepoint": 57598,
+      "codepoint": 57576,
       "fontFamily": "SkillIcons",
       "identifier": "rocket"
     },
     "rollupjs-dark": {
-      "codepoint": 57599,
+      "codepoint": 57577,
       "fontFamily": "SkillIcons",
       "identifier": "rollupjsDark"
     },
     "rollupjs-light": {
-      "codepoint": 57600,
+      "codepoint": 57578,
       "fontFamily": "SkillIcons",
       "identifier": "rollupjsLight"
     },
     "ros-dark": {
-      "codepoint": 57601,
+      "codepoint": 57579,
       "fontFamily": "SkillIcons",
       "identifier": "rosDark"
     },
     "ruby": {
-      "codepoint": 57602,
+      "codepoint": 57580,
       "fontFamily": "SkillIcons",
       "identifier": "ruby"
     },
     "rust": {
-      "codepoint": 57603,
+      "codepoint": 57581,
       "fontFamily": "SkillIcons",
       "identifier": "rust"
     },
     "sass": {
-      "codepoint": 57604,
+      "codepoint": 57582,
       "fontFamily": "SkillIcons",
       "identifier": "sass"
     },
     "scala-dark": {
-      "codepoint": 57605,
+      "codepoint": 57583,
       "fontFamily": "SkillIcons",
       "identifier": "scalaDark"
     },
     "scala-light": {
-      "codepoint": 57606,
+      "codepoint": 57584,
       "fontFamily": "SkillIcons",
       "identifier": "scalaLight"
     },
     "selenium": {
-      "codepoint": 57412,
+      "codepoint": 57585,
       "fontFamily": "SkillIcons",
       "identifier": "selenium"
     },
     "sentry": {
-      "codepoint": 57607,
+      "codepoint": 57586,
       "fontFamily": "SkillIcons",
       "identifier": "sentry"
     },
     "sequelize-dark": {
-      "codepoint": 57608,
+      "codepoint": 57587,
       "fontFamily": "SkillIcons",
       "identifier": "sequelizeDark"
     },
     "sequelize-light": {
-      "codepoint": 57609,
+      "codepoint": 57588,
       "fontFamily": "SkillIcons",
       "identifier": "sequelizeLight"
     },
     "solidity": {
-      "codepoint": 57413,
+      "codepoint": 57589,
       "fontFamily": "SkillIcons",
       "identifier": "solidity",
       "duotone": true
     },
     "solidjs-dark": {
-      "codepoint": 57610,
+      "codepoint": 57590,
       "fontFamily": "SkillIcons",
       "identifier": "solidjsDark"
     },
     "solidjs-light": {
-      "codepoint": 57611,
+      "codepoint": 57591,
       "fontFamily": "SkillIcons",
       "identifier": "solidjsLight"
     },
     "spotify-dark": {
-      "codepoint": 57612,
+      "codepoint": 57592,
       "fontFamily": "SkillIcons",
       "identifier": "spotifyDark"
     },
     "spotify-light": {
-      "codepoint": 57414,
+      "codepoint": 57593,
       "fontFamily": "SkillIcons",
       "identifier": "spotifyLight"
     },
     "spring-dark": {
-      "codepoint": 57613,
+      "codepoint": 57594,
       "fontFamily": "SkillIcons",
       "identifier": "springDark"
     },
     "spring-light": {
-      "codepoint": 57415,
+      "codepoint": 57595,
       "fontFamily": "SkillIcons",
       "identifier": "springLight"
     },
     "sqlite": {
-      "codepoint": 57614,
+      "codepoint": 57596,
       "fontFamily": "SkillIcons",
       "identifier": "sqlite"
     },
     "stackoverflow-dark": {
-      "codepoint": 57615,
+      "codepoint": 57597,
       "fontFamily": "SkillIcons",
       "identifier": "stackoverflowDark"
     },
     "stackoverflow-light": {
-      "codepoint": 57616,
+      "codepoint": 57598,
       "fontFamily": "SkillIcons",
       "identifier": "stackoverflowLight"
     },
     "styledcomponents": {
-      "codepoint": 57617,
+      "codepoint": 57599,
       "fontFamily": "SkillIcons",
       "identifier": "styledcomponents"
     },
     "sublime-light": {
-      "codepoint": 57618,
+      "codepoint": 57600,
       "fontFamily": "SkillIcons",
       "identifier": "sublimeLight"
     },
     "supabase-dark": {
-      "codepoint": 57619,
+      "codepoint": 57601,
       "fontFamily": "SkillIcons",
       "identifier": "supabaseDark"
     },
     "supabase-light": {
-      "codepoint": 57620,
+      "codepoint": 57602,
       "fontFamily": "SkillIcons",
       "identifier": "supabaseLight"
     },
     "svelte": {
-      "codepoint": 57416,
+      "codepoint": 57603,
       "fontFamily": "SkillIcons",
       "identifier": "svelte"
     },
     "svg-dark": {
-      "codepoint": 57621,
+      "codepoint": 57604,
       "fontFamily": "SkillIcons",
       "identifier": "svgDark"
     },
     "svg-light": {
-      "codepoint": 57417,
+      "codepoint": 57605,
       "fontFamily": "SkillIcons",
       "identifier": "svgLight"
     },
     "swift": {
-      "codepoint": 57622,
+      "codepoint": 57606,
       "fontFamily": "SkillIcons",
       "identifier": "swift"
     },
     "symfony-dark": {
-      "codepoint": 57623,
+      "codepoint": 57607,
       "fontFamily": "SkillIcons",
       "identifier": "symfonyDark"
     },
     "symfony-light": {
-      "codepoint": 57418,
+      "codepoint": 57608,
       "fontFamily": "SkillIcons",
       "identifier": "symfonyLight"
     },
     "tailwindcss-dark": {
-      "codepoint": 57624,
+      "codepoint": 57609,
       "fontFamily": "SkillIcons",
       "identifier": "tailwindcssDark"
     },
     "tailwindcss-light": {
-      "codepoint": 57625,
+      "codepoint": 57610,
       "fontFamily": "SkillIcons",
       "identifier": "tailwindcssLight"
     },
     "tauri-dark": {
-      "codepoint": 57626,
+      "codepoint": 57611,
       "fontFamily": "SkillIcons",
       "identifier": "tauriDark"
     },
     "tauri-light": {
-      "codepoint": 57419,
+      "codepoint": 57612,
       "fontFamily": "SkillIcons",
       "identifier": "tauriLight"
     },
     "tensorflow-dark": {
-      "codepoint": 57627,
+      "codepoint": 57613,
       "fontFamily": "SkillIcons",
       "identifier": "tensorflowDark"
     },
     "tensorflow-light": {
-      "codepoint": 57420,
+      "codepoint": 57614,
       "fontFamily": "SkillIcons",
       "identifier": "tensorflowLight"
     },
     "terraform-dark": {
-      "codepoint": 57628,
+      "codepoint": 57615,
       "fontFamily": "SkillIcons",
       "identifier": "terraformDark"
     },
     "terraform-light": {
-      "codepoint": 57629,
+      "codepoint": 57616,
       "fontFamily": "SkillIcons",
       "identifier": "terraformLight"
     },
     "threejs-dark": {
-      "codepoint": 57630,
+      "codepoint": 57617,
       "fontFamily": "SkillIcons",
       "identifier": "threejsDark"
     },
     "threejs-light": {
-      "codepoint": 57421,
+      "codepoint": 57618,
       "fontFamily": "SkillIcons",
       "identifier": "threejsLight"
     },
     "twitter": {
-      "codepoint": 57422,
+      "codepoint": 57619,
       "fontFamily": "SkillIcons",
       "identifier": "twitter"
     },
     "typescript": {
-      "codepoint": 57423,
+      "codepoint": 57620,
       "fontFamily": "SkillIcons",
       "identifier": "typescript"
     },
     "ubuntu-light": {
-      "codepoint": 57631,
+      "codepoint": 57621,
       "fontFamily": "SkillIcons",
       "identifier": "ubuntuLight"
     },
     "unity-dark": {
-      "codepoint": 57632,
+      "codepoint": 57622,
       "fontFamily": "SkillIcons",
       "identifier": "unityDark"
     },
     "unity-light": {
-      "codepoint": 57424,
+      "codepoint": 57623,
       "fontFamily": "SkillIcons",
       "identifier": "unityLight"
     },
     "unrealengine": {
-      "codepoint": 57425,
+      "codepoint": 57624,
       "fontFamily": "SkillIcons",
       "identifier": "unrealengine"
     },
     "v-dark": {
-      "codepoint": 57633,
+      "codepoint": 57625,
       "fontFamily": "SkillIcons",
       "identifier": "vDark"
     },
     "v-light": {
-      "codepoint": 57634,
+      "codepoint": 57626,
       "fontFamily": "SkillIcons",
       "identifier": "vLight"
     },
     "vala": {
-      "codepoint": 57635,
+      "codepoint": 57627,
       "fontFamily": "SkillIcons",
       "identifier": "vala"
     },
     "vercel-dark": {
-      "codepoint": 57636,
+      "codepoint": 57628,
       "fontFamily": "SkillIcons",
       "identifier": "vercelDark"
     },
     "vercel-light": {
-      "codepoint": 57426,
+      "codepoint": 57629,
       "fontFamily": "SkillIcons",
       "identifier": "vercelLight"
     },
     "verilog": {
-      "codepoint": 57637,
+      "codepoint": 57630,
       "fontFamily": "SkillIcons",
       "identifier": "verilog",
       "duotone": true
     },
     "visualstudio-dark": {
-      "codepoint": 57638,
+      "codepoint": 57631,
       "fontFamily": "SkillIcons",
       "identifier": "visualstudioDark"
     },
     "visualstudio-light": {
-      "codepoint": 57639,
+      "codepoint": 57632,
       "fontFamily": "SkillIcons",
       "identifier": "visualstudioLight"
     },
     "vite-dark": {
-      "codepoint": 57640,
+      "codepoint": 57633,
       "fontFamily": "SkillIcons",
       "identifier": "viteDark"
     },
     "vite-light": {
-      "codepoint": 57641,
+      "codepoint": 57634,
       "fontFamily": "SkillIcons",
       "identifier": "viteLight"
     },
     "vitest-dark": {
-      "codepoint": 57642,
+      "codepoint": 57635,
       "fontFamily": "SkillIcons",
       "identifier": "vitestDark"
     },
     "vitest-light": {
-      "codepoint": 57427,
+      "codepoint": 57636,
       "fontFamily": "SkillIcons",
       "identifier": "vitestLight"
     },
     "vscodium-light": {
-      "codepoint": 57643,
+      "codepoint": 57637,
       "fontFamily": "SkillIcons",
       "identifier": "vscodiumLight"
     },
     "vuejs-dark": {
-      "codepoint": 57644,
+      "codepoint": 57638,
       "fontFamily": "SkillIcons",
       "identifier": "vuejsDark"
     },
     "vuejs-light": {
-      "codepoint": 57645,
+      "codepoint": 57639,
       "fontFamily": "SkillIcons",
       "identifier": "vuejsLight"
     },
     "vuetify-light": {
-      "codepoint": 57646,
+      "codepoint": 57640,
       "fontFamily": "SkillIcons",
       "identifier": "vuetifyLight"
     },
     "webassembly": {
-      "codepoint": 57428,
+      "codepoint": 57641,
       "fontFamily": "SkillIcons",
       "identifier": "webassembly"
     },
     "webflow": {
-      "codepoint": 57647,
+      "codepoint": 57642,
       "fontFamily": "SkillIcons",
       "identifier": "webflow"
     },
     "webpack-dark": {
-      "codepoint": 57648,
+      "codepoint": 57643,
       "fontFamily": "SkillIcons",
       "identifier": "webpackDark"
     },
     "webpack-light": {
-      "codepoint": 57429,
+      "codepoint": 57644,
       "fontFamily": "SkillIcons",
       "identifier": "webpackLight"
     },
     "webstorm-light": {
-      "codepoint": 57649,
+      "codepoint": 57645,
       "fontFamily": "SkillIcons",
       "identifier": "webstormLight"
     },
     "windicss-dark": {
-      "codepoint": 57650,
+      "codepoint": 57646,
       "fontFamily": "SkillIcons",
       "identifier": "windicssDark"
     },
     "windicss-light": {
-      "codepoint": 57651,
+      "codepoint": 57647,
       "fontFamily": "SkillIcons",
       "identifier": "windicssLight"
     },
     "windows-light": {
-      "codepoint": 57430,
+      "codepoint": 57648,
       "fontFamily": "SkillIcons",
       "identifier": "windowsLight"
     },
     "wordpress": {
-      "codepoint": 57431,
+      "codepoint": 57649,
       "fontFamily": "SkillIcons",
       "identifier": "wordpress"
     },
     "workers-dark": {
-      "codepoint": 57652,
+      "codepoint": 57650,
       "fontFamily": "SkillIcons",
       "identifier": "workersDark"
     },
     "workers-light": {
-      "codepoint": 57653,
+      "codepoint": 57651,
       "fontFamily": "SkillIcons",
       "identifier": "workersLight"
     },
     "xd": {
-      "codepoint": 57654,
+      "codepoint": 57652,
       "fontFamily": "SkillIcons",
       "identifier": "xd"
     },
     "yarn-light": {
-      "codepoint": 57655,
+      "codepoint": 57653,
       "fontFamily": "SkillIcons",
       "identifier": "yarnLight"
     },
     "yew-light": {
-      "codepoint": 57432,
+      "codepoint": 57654,
       "fontFamily": "SkillIcons",
       "identifier": "yewLight"
     },
     "zig-dark": {
-      "codepoint": 57656,
+      "codepoint": 57655,
       "fontFamily": "SkillIcons",
       "identifier": "zigDark"
     },
     "zig-light": {
-      "codepoint": 57433,
+      "codepoint": 57656,
       "fontFamily": "SkillIcons",
       "identifier": "zigLight"
     }

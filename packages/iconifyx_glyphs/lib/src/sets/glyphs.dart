@@ -21949,2233 +21949,2233 @@ class GlyphsIcons {
 
   /// `tilde-bold`
   static const IconifyIconData tildeBold = IconifyIconData(IconData(
-    0xed79,
+    0xec3d,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tilde-duo`
   static const IconifyIconData tildeDuo = IconifyIconData(IconData(
-    0xec3d,
+    0xec3e,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tilde-outline`
   static const IconifyIconData tildeOutline = IconifyIconData(IconData(
-    0xec3e,
+    0xec3f,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `timer`
   static const IconifyIconData timer = IconifyIconData(IconData(
-    0xec3f,
+    0xec40,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `timer-1`
   static const IconifyIconData timer1 = IconifyIconData(IconData(
-    0xec40,
+    0xec41,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `timer-1-bold`
   static const IconifyIconData timer1Bold = IconifyIconData(IconData(
-    0xec41,
+    0xec42,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `timer-1-duo`
   static const IconifyIconData timer1Duo = IconifyIconData(IconData(
-    0xec42,
+    0xec43,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `timer-1-outline`
   static const IconifyIconData timer1Outline = IconifyIconData(IconData(
-    0xec43,
+    0xec44,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `timer-2`
   static const IconifyIconData timer2 = IconifyIconData(IconData(
-    0xec44,
+    0xec45,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `timer-2-bold`
   static const IconifyIconData timer2Bold = IconifyIconData(IconData(
-    0xec45,
+    0xec46,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `timer-2-duo`
   static const IconifyIconData timer2Duo = IconifyIconData(IconData(
-    0xec46,
+    0xec47,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `timer-2-outline`
   static const IconifyIconData timer2Outline = IconifyIconData(IconData(
-    0xec47,
+    0xec48,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `timer-bold`
   static const IconifyIconData timerBold = IconifyIconData(IconData(
-    0xec48,
+    0xec49,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `timer-duo`
   static const IconifyIconData timerDuo = IconifyIconData(IconData(
-    0xec49,
+    0xec4a,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `timer-fast`
   static const IconifyIconData timerFast = IconifyIconData(IconData(
-    0xec4a,
+    0xec4b,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `timer-fast-bold`
   static const IconifyIconData timerFastBold = IconifyIconData(IconData(
-    0xec4b,
+    0xec4c,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `timer-fast-duo`
   static const IconifyIconData timerFastDuo = IconifyIconData(IconData(
-    0xec4c,
+    0xec4d,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `timer-fast-outline`
   static const IconifyIconData timerFastOutline = IconifyIconData(IconData(
-    0xec4d,
+    0xec4e,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `timer-outline`
   static const IconifyIconData timerOutline = IconifyIconData(IconData(
-    0xec4e,
+    0xec4f,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `times`
   static const IconifyIconData times = IconifyIconData(IconData(
-    0xec4f,
+    0xec50,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `times-bold`
   static const IconifyIconData timesBold = IconifyIconData(IconData(
-    0xec50,
+    0xec51,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `times-duo`
   static const IconifyIconData timesDuo = IconifyIconData(IconData(
-    0xec51,
+    0xec52,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `times-outline`
   static const IconifyIconData timesOutline = IconifyIconData(IconData(
-    0xec52,
+    0xec53,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tired`
   static const IconifyIconData tired = IconifyIconData(IconData(
-    0xec53,
+    0xec54,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tired-bold`
   static const IconifyIconData tiredBold = IconifyIconData(IconData(
-    0xec54,
+    0xec55,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tired-duo`
   static const IconifyIconData tiredDuo = IconifyIconData(IconData(
-    0xec55,
+    0xec56,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tired-outline`
   static const IconifyIconData tiredOutline = IconifyIconData(IconData(
-    0xec56,
+    0xec57,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `toggle`
   static const IconifyIconData toggle = IconifyIconData(IconData(
-    0xec57,
+    0xec58,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `toggle-1`
   static const IconifyIconData toggle1 = IconifyIconData(IconData(
-    0xec58,
+    0xec59,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `toggle-1-bold`
   static const IconifyIconData toggle1Bold = IconifyIconData(IconData(
-    0xec59,
+    0xec5a,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `toggle-1-duo`
   static const IconifyIconData toggle1Duo = IconifyIconData(IconData(
-    0xec5a,
+    0xec5b,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `toggle-1-outline`
   static const IconifyIconData toggle1Outline = IconifyIconData(IconData(
-    0xec5b,
+    0xec5c,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `toggle-2`
   static const IconifyIconData toggle2 = IconifyIconData(IconData(
-    0xec5c,
+    0xec5d,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `toggle-2-bold`
   static const IconifyIconData toggle2Bold = IconifyIconData(IconData(
-    0xec5d,
+    0xec5e,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `toggle-2-duo`
   static const IconifyIconData toggle2Duo = IconifyIconData(IconData(
-    0xec5e,
+    0xec5f,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `toggle-2-outline`
   static const IconifyIconData toggle2Outline = IconifyIconData(IconData(
-    0xec5f,
+    0xec60,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `toggle-bold`
   static const IconifyIconData toggleBold = IconifyIconData(IconData(
-    0xec60,
+    0xec61,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `toggle-duo`
   static const IconifyIconData toggleDuo = IconifyIconData(IconData(
-    0xec61,
+    0xec62,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `toggle-outline`
   static const IconifyIconData toggleOutline = IconifyIconData(IconData(
-    0xec62,
+    0xec63,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `toolbox`
   static const IconifyIconData toolbox = IconifyIconData(IconData(
-    0xec63,
+    0xec64,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `toolbox-bold`
   static const IconifyIconData toolboxBold = IconifyIconData(IconData(
-    0xec64,
+    0xec65,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `toolbox-duo`
   static const IconifyIconData toolboxDuo = IconifyIconData(IconData(
-    0xec65,
+    0xec66,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `toolbox-outline`
   static const IconifyIconData toolboxOutline = IconifyIconData(IconData(
-    0xec66,
+    0xec67,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tools`
   static const IconifyIconData tools = IconifyIconData(IconData(
-    0xec67,
+    0xec68,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tools-bold`
   static const IconifyIconData toolsBold = IconifyIconData(IconData(
-    0xec68,
+    0xec69,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tools-duo`
   static const IconifyIconData toolsDuo = IconifyIconData(IconData(
-    0xec69,
+    0xec6a,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tools-outline`
   static const IconifyIconData toolsOutline = IconifyIconData(IconData(
-    0xec6a,
+    0xec6b,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tornado`
   static const IconifyIconData tornado = IconifyIconData(IconData(
-    0xec6b,
+    0xec6c,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tornado-bold`
   static const IconifyIconData tornadoBold = IconifyIconData(IconData(
-    0xec6c,
+    0xec6d,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tornado-duo`
   static const IconifyIconData tornadoDuo = IconifyIconData(IconData(
-    0xec6d,
+    0xec6e,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tornado-outline`
   static const IconifyIconData tornadoOutline = IconifyIconData(IconData(
-    0xec6e,
+    0xec6f,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `train`
   static const IconifyIconData train = IconifyIconData(IconData(
-    0xec6f,
+    0xec70,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `train-bold`
   static const IconifyIconData trainBold = IconifyIconData(IconData(
-    0xec70,
+    0xec71,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `train-duo`
   static const IconifyIconData trainDuo = IconifyIconData(IconData(
-    0xec71,
+    0xec72,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `train-outline`
   static const IconifyIconData trainOutline = IconifyIconData(IconData(
-    0xec72,
+    0xec73,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `trash`
   static const IconifyIconData trash = IconifyIconData(IconData(
-    0xec73,
+    0xec74,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `trash-1`
   static const IconifyIconData trash1 = IconifyIconData(IconData(
-    0xec74,
+    0xec75,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `trash-1-bold`
   static const IconifyIconData trash1Bold = IconifyIconData(IconData(
-    0xec75,
+    0xec76,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `trash-1-duo`
   static const IconifyIconData trash1Duo = IconifyIconData(IconData(
-    0xec76,
+    0xec77,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `trash-1-outline`
   static const IconifyIconData trash1Outline = IconifyIconData(IconData(
-    0xec77,
+    0xec78,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `trash-bold`
   static const IconifyIconData trashBold = IconifyIconData(IconData(
-    0xec78,
+    0xec79,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `trash-duo`
   static const IconifyIconData trashDuo = IconifyIconData(IconData(
-    0xec79,
+    0xec7a,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `trash-outline`
   static const IconifyIconData trashOutline = IconifyIconData(IconData(
-    0xec7a,
+    0xec7b,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tree`
   static const IconifyIconData tree = IconifyIconData(IconData(
-    0xec7b,
+    0xec7c,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tree-1`
   static const IconifyIconData tree1 = IconifyIconData(IconData(
-    0xec7c,
+    0xec7d,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tree-1-bold`
   static const IconifyIconData tree1Bold = IconifyIconData(IconData(
-    0xec7d,
+    0xec7e,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tree-1-duo`
   static const IconifyIconData tree1Duo = IconifyIconData(IconData(
-    0xec7e,
+    0xec7f,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tree-1-outline`
   static const IconifyIconData tree1Outline = IconifyIconData(IconData(
-    0xec7f,
+    0xec80,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tree-2`
   static const IconifyIconData tree2 = IconifyIconData(IconData(
-    0xec80,
+    0xec81,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tree-2-bold`
   static const IconifyIconData tree2Bold = IconifyIconData(IconData(
-    0xec81,
+    0xec82,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tree-2-duo`
   static const IconifyIconData tree2Duo = IconifyIconData(IconData(
-    0xec82,
+    0xec83,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tree-2-outline`
   static const IconifyIconData tree2Outline = IconifyIconData(IconData(
-    0xec83,
+    0xec84,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tree-3`
   static const IconifyIconData tree3 = IconifyIconData(IconData(
-    0xec84,
+    0xec85,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tree-3-bold`
   static const IconifyIconData tree3Bold = IconifyIconData(IconData(
-    0xec85,
+    0xec86,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tree-3-duo`
   static const IconifyIconData tree3Duo = IconifyIconData(IconData(
-    0xec86,
+    0xec87,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tree-3-outline`
   static const IconifyIconData tree3Outline = IconifyIconData(IconData(
-    0xec87,
+    0xec88,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tree-4`
   static const IconifyIconData tree4 = IconifyIconData(IconData(
-    0xec88,
+    0xec89,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tree-4-bold`
   static const IconifyIconData tree4Bold = IconifyIconData(IconData(
-    0xec89,
+    0xec8a,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tree-4-duo`
   static const IconifyIconData tree4Duo = IconifyIconData(IconData(
-    0xec8a,
+    0xec8b,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tree-4-outline`
   static const IconifyIconData tree4Outline = IconifyIconData(IconData(
-    0xec8b,
+    0xec8c,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tree-5`
   static const IconifyIconData tree5 = IconifyIconData(IconData(
-    0xec8c,
+    0xec8d,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tree-5-bold`
   static const IconifyIconData tree5Bold = IconifyIconData(IconData(
-    0xec8d,
+    0xec8e,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tree-5-duo`
   static const IconifyIconData tree5Duo = IconifyIconData(IconData(
-    0xec8e,
+    0xec8f,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tree-5-outline`
   static const IconifyIconData tree5Outline = IconifyIconData(IconData(
-    0xec8f,
+    0xec90,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tree-bold`
   static const IconifyIconData treeBold = IconifyIconData(IconData(
-    0xec90,
+    0xec91,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tree-duo`
   static const IconifyIconData treeDuo = IconifyIconData(IconData(
-    0xec91,
+    0xec92,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tree-outline`
   static const IconifyIconData treeOutline = IconifyIconData(IconData(
-    0xec92,
+    0xec93,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `triangle`
   static const IconifyIconData triangle = IconifyIconData(IconData(
-    0xec93,
+    0xec94,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `triangle-bold`
   static const IconifyIconData triangleBold = IconifyIconData(IconData(
-    0xec94,
+    0xec95,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `triangle-duo`
   static const IconifyIconData triangleDuo = IconifyIconData(IconData(
-    0xec95,
+    0xec96,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `triangle-outline`
   static const IconifyIconData triangleOutline = IconifyIconData(IconData(
-    0xec96,
+    0xec97,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `trophy`
   static const IconifyIconData trophy = IconifyIconData(IconData(
-    0xec97,
+    0xec98,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `trophy-bold`
   static const IconifyIconData trophyBold = IconifyIconData(IconData(
-    0xec98,
+    0xec99,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `trophy-duo`
   static const IconifyIconData trophyDuo = IconifyIconData(IconData(
-    0xec99,
+    0xec9a,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `trophy-outline`
   static const IconifyIconData trophyOutline = IconifyIconData(IconData(
-    0xec9a,
+    0xec9b,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `truck`
   static const IconifyIconData truck = IconifyIconData(IconData(
-    0xec9b,
+    0xec9c,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `truck-bold`
   static const IconifyIconData truckBold = IconifyIconData(IconData(
-    0xec9c,
+    0xec9d,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `truck-duo`
   static const IconifyIconData truckDuo = IconifyIconData(IconData(
-    0xec9d,
+    0xec9e,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `truck-outline`
   static const IconifyIconData truckOutline = IconifyIconData(IconData(
-    0xec9e,
+    0xec9f,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `turn-sign`
   static const IconifyIconData turnSign = IconifyIconData(IconData(
-    0xec9f,
+    0xeca0,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `turn-sign-bold`
   static const IconifyIconData turnSignBold = IconifyIconData(IconData(
-    0xeca0,
+    0xeca1,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `turn-sign-duo`
   static const IconifyIconData turnSignDuo = IconifyIconData(IconData(
-    0xeca1,
+    0xeca2,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `turn-sign-outline`
   static const IconifyIconData turnSignOutline = IconifyIconData(IconData(
-    0xeca2,
+    0xeca3,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tv-retro`
   static const IconifyIconData tvRetro = IconifyIconData(IconData(
-    0xeca3,
+    0xeca4,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tv-retro-bold`
   static const IconifyIconData tvRetroBold = IconifyIconData(IconData(
-    0xeca4,
+    0xeca5,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tv-retro-duo`
   static const IconifyIconData tvRetroDuo = IconifyIconData(IconData(
-    0xeca5,
+    0xeca6,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `tv-retro-outline`
   static const IconifyIconData tvRetroOutline = IconifyIconData(IconData(
-    0xeca6,
+    0xeca7,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `two`
   static const IconifyIconData two = IconifyIconData(IconData(
-    0xeca7,
+    0xeca8,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `two-bold`
   static const IconifyIconData twoBold = IconifyIconData(IconData(
-    0xeca8,
+    0xeca9,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `two-duo`
   static const IconifyIconData twoDuo = IconifyIconData(IconData(
-    0xeca9,
+    0xecaa,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `two-outline`
   static const IconifyIconData twoOutline = IconifyIconData(IconData(
-    0xecaa,
+    0xecab,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `u`
   static const IconifyIconData u = IconifyIconData(IconData(
-    0xecab,
+    0xecac,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `u-bold`
   static const IconifyIconData uBold = IconifyIconData(IconData(
-    0xecac,
+    0xecad,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `u-duo`
   static const IconifyIconData uDuo = IconifyIconData(IconData(
-    0xecad,
+    0xecae,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `u-outline`
   static const IconifyIconData uOutline = IconifyIconData(IconData(
-    0xecae,
+    0xecaf,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `u-turn-sign`
   static const IconifyIconData uTurnSign = IconifyIconData(IconData(
-    0xecaf,
+    0xecb0,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `u-turn-sign-bold`
   static const IconifyIconData uTurnSignBold = IconifyIconData(IconData(
-    0xecb0,
+    0xecb1,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `u-turn-sign-duo`
   static const IconifyIconData uTurnSignDuo = IconifyIconData(IconData(
-    0xecb1,
+    0xecb2,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `u-turn-sign-outline`
   static const IconifyIconData uTurnSignOutline = IconifyIconData(IconData(
-    0xecb2,
+    0xecb3,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `underline`
   static const IconifyIconData underline = IconifyIconData(IconData(
-    0xecb3,
+    0xecb4,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `underline-bold`
   static const IconifyIconData underlineBold = IconifyIconData(IconData(
-    0xecb4,
+    0xecb5,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `underline-duo`
   static const IconifyIconData underlineDuo = IconifyIconData(IconData(
-    0xecb5,
+    0xecb6,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `underline-outline`
   static const IconifyIconData underlineOutline = IconifyIconData(IconData(
-    0xecb6,
+    0xecb7,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `union`
   static const IconifyIconData union = IconifyIconData(IconData(
-    0xecb7,
+    0xecb8,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `union-bold`
   static const IconifyIconData unionBold = IconifyIconData(IconData(
-    0xecb8,
+    0xecb9,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `union-duo`
   static const IconifyIconData unionDuo = IconifyIconData(IconData(
-    0xecb9,
+    0xecba,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `union-outline`
   static const IconifyIconData unionOutline = IconifyIconData(IconData(
-    0xecba,
+    0xecbb,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `unlink`
   static const IconifyIconData unlink = IconifyIconData(IconData(
-    0xecbb,
+    0xecbc,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `unlink-bold`
   static const IconifyIconData unlinkBold = IconifyIconData(IconData(
-    0xecbc,
+    0xecbd,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `unlink-duo`
   static const IconifyIconData unlinkDuo = IconifyIconData(IconData(
-    0xecbd,
+    0xecbe,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `unlink-outline`
   static const IconifyIconData unlinkOutline = IconifyIconData(IconData(
-    0xecbe,
+    0xecbf,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `user`
   static const IconifyIconData user = IconifyIconData(IconData(
-    0xecbf,
+    0xecc0,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `user-bold`
   static const IconifyIconData userBold = IconifyIconData(IconData(
-    0xecc0,
+    0xecc1,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `user-circle`
   static const IconifyIconData userCircle = IconifyIconData(IconData(
-    0xecc1,
+    0xecc2,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `user-circle-bold`
   static const IconifyIconData userCircleBold = IconifyIconData(IconData(
-    0xecc2,
+    0xecc3,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `user-circle-duo`
   static const IconifyIconData userCircleDuo = IconifyIconData(IconData(
-    0xecc3,
+    0xecc4,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `user-circle-outline`
   static const IconifyIconData userCircleOutline = IconifyIconData(IconData(
-    0xecc4,
+    0xecc5,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `user-comment`
   static const IconifyIconData userComment = IconifyIconData(IconData(
-    0xecc5,
+    0xecc6,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `user-comment-bold`
   static const IconifyIconData userCommentBold = IconifyIconData(IconData(
-    0xecc6,
+    0xecc7,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `user-comment-duo`
   static const IconifyIconData userCommentDuo = IconifyIconData(IconData(
-    0xecc7,
+    0xecc8,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `user-comment-outline`
   static const IconifyIconData userCommentOutline = IconifyIconData(IconData(
-    0xecc8,
+    0xecc9,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `user-duo`
   static const IconifyIconData userDuo = IconifyIconData(IconData(
-    0xecc9,
+    0xecca,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `user-outline`
   static const IconifyIconData userOutline = IconifyIconData(IconData(
-    0xecca,
+    0xeccb,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `users`
   static const IconifyIconData users = IconifyIconData(IconData(
-    0xeccb,
+    0xeccc,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `users-1`
   static const IconifyIconData users1 = IconifyIconData(IconData(
-    0xeccc,
+    0xeccd,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `users-1-bold`
   static const IconifyIconData users1Bold = IconifyIconData(IconData(
-    0xeccd,
+    0xecce,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `users-1-duo`
   static const IconifyIconData users1Duo = IconifyIconData(IconData(
-    0xecce,
+    0xeccf,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `users-1-outline`
   static const IconifyIconData users1Outline = IconifyIconData(IconData(
-    0xeccf,
+    0xecd0,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `users-bold`
   static const IconifyIconData usersBold = IconifyIconData(IconData(
-    0xecd0,
+    0xecd1,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `users-duo`
   static const IconifyIconData usersDuo = IconifyIconData(IconData(
-    0xecd1,
+    0xecd2,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `users-outline`
   static const IconifyIconData usersOutline = IconifyIconData(IconData(
-    0xecd2,
+    0xecd3,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `v`
   static const IconifyIconData v = IconifyIconData(IconData(
-    0xecd3,
+    0xecd4,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `v-bold`
   static const IconifyIconData vBold = IconifyIconData(IconData(
-    0xecd4,
+    0xecd5,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `v-duo`
   static const IconifyIconData vDuo = IconifyIconData(IconData(
-    0xecd5,
+    0xecd6,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `v-outline`
   static const IconifyIconData vOutline = IconifyIconData(IconData(
-    0xecd6,
+    0xecd7,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `van`
   static const IconifyIconData van = IconifyIconData(IconData(
-    0xecd7,
+    0xecd8,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `van-bold`
   static const IconifyIconData vanBold = IconifyIconData(IconData(
-    0xecd8,
+    0xecd9,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `van-duo`
   static const IconifyIconData vanDuo = IconifyIconData(IconData(
-    0xecd9,
+    0xecda,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `van-outline`
   static const IconifyIconData vanOutline = IconifyIconData(IconData(
-    0xecda,
+    0xecdb,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `venn`
   static const IconifyIconData venn = IconifyIconData(IconData(
-    0xecdb,
+    0xecdc,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `venn-bold`
   static const IconifyIconData vennBold = IconifyIconData(IconData(
-    0xecdc,
+    0xecdd,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `venn-duo`
   static const IconifyIconData vennDuo = IconifyIconData(IconData(
-    0xecdd,
+    0xecde,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `venn-outline`
   static const IconifyIconData vennOutline = IconifyIconData(IconData(
-    0xecde,
+    0xecdf,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `video`
   static const IconifyIconData video = IconifyIconData(IconData(
-    0xecdf,
+    0xece0,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `video-bold`
   static const IconifyIconData videoBold = IconifyIconData(IconData(
-    0xece0,
+    0xece1,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `video-duo`
   static const IconifyIconData videoDuo = IconifyIconData(IconData(
-    0xece1,
+    0xece2,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `video-outline`
   static const IconifyIconData videoOutline = IconifyIconData(IconData(
-    0xece2,
+    0xece3,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `view-collapse`
   static const IconifyIconData viewCollapse = IconifyIconData(IconData(
-    0xece3,
+    0xece4,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `view-collapse-bold`
   static const IconifyIconData viewCollapseBold = IconifyIconData(IconData(
-    0xece4,
+    0xece5,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `view-collapse-duo`
   static const IconifyIconData viewCollapseDuo = IconifyIconData(IconData(
-    0xece5,
+    0xece6,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `view-collapse-outline`
   static const IconifyIconData viewCollapseOutline = IconifyIconData(IconData(
-    0xece6,
+    0xece7,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `view-expand`
   static const IconifyIconData viewExpand = IconifyIconData(IconData(
-    0xece7,
+    0xece8,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `view-expand-bold`
   static const IconifyIconData viewExpandBold = IconifyIconData(IconData(
-    0xece8,
+    0xece9,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `view-expand-duo`
   static const IconifyIconData viewExpandDuo = IconifyIconData(IconData(
-    0xece9,
+    0xecea,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `view-expand-outline`
   static const IconifyIconData viewExpandOutline = IconifyIconData(IconData(
-    0xecea,
+    0xeceb,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `virus`
   static const IconifyIconData virus = IconifyIconData(IconData(
-    0xeceb,
+    0xecec,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `virus-bold`
   static const IconifyIconData virusBold = IconifyIconData(IconData(
-    0xecec,
+    0xeced,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `virus-duo`
   static const IconifyIconData virusDuo = IconifyIconData(IconData(
-    0xeced,
+    0xecee,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `virus-outline`
   static const IconifyIconData virusOutline = IconifyIconData(IconData(
-    0xecee,
+    0xecef,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `volleyball`
   static const IconifyIconData volleyball = IconifyIconData(IconData(
-    0xecef,
+    0xecf0,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `volleyball-bold`
   static const IconifyIconData volleyballBold = IconifyIconData(IconData(
-    0xecf0,
+    0xecf1,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `volleyball-duo`
   static const IconifyIconData volleyballDuo = IconifyIconData(IconData(
-    0xecf1,
+    0xecf2,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `volleyball-outline`
   static const IconifyIconData volleyballOutline = IconifyIconData(IconData(
-    0xecf2,
+    0xecf3,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `volume`
   static const IconifyIconData volume = IconifyIconData(IconData(
-    0xecf3,
+    0xecf4,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `volume-1`
   static const IconifyIconData volume1 = IconifyIconData(IconData(
-    0xecf4,
+    0xecf5,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `volume-1-bold`
   static const IconifyIconData volume1Bold = IconifyIconData(IconData(
-    0xecf5,
+    0xecf6,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `volume-1-duo`
   static const IconifyIconData volume1Duo = IconifyIconData(IconData(
-    0xecf6,
+    0xecf7,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `volume-1-outline`
   static const IconifyIconData volume1Outline = IconifyIconData(IconData(
-    0xecf7,
+    0xecf8,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `volume-2`
   static const IconifyIconData volume2 = IconifyIconData(IconData(
-    0xecf8,
+    0xecf9,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `volume-2-bold`
   static const IconifyIconData volume2Bold = IconifyIconData(IconData(
-    0xecf9,
+    0xecfa,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `volume-2-duo`
   static const IconifyIconData volume2Duo = IconifyIconData(IconData(
-    0xecfa,
+    0xecfb,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `volume-2-outline`
   static const IconifyIconData volume2Outline = IconifyIconData(IconData(
-    0xecfb,
+    0xecfc,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `volume-3`
   static const IconifyIconData volume3 = IconifyIconData(IconData(
-    0xecfc,
+    0xecfd,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `volume-3-bold`
   static const IconifyIconData volume3Bold = IconifyIconData(IconData(
-    0xecfd,
+    0xecfe,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `volume-3-duo`
   static const IconifyIconData volume3Duo = IconifyIconData(IconData(
-    0xecfe,
+    0xecff,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `volume-3-outline`
   static const IconifyIconData volume3Outline = IconifyIconData(IconData(
-    0xecff,
+    0xed00,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `volume-bold`
   static const IconifyIconData volumeBold = IconifyIconData(IconData(
-    0xed00,
+    0xed01,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `volume-duo`
   static const IconifyIconData volumeDuo = IconifyIconData(IconData(
-    0xed01,
+    0xed02,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `volume-mute`
   static const IconifyIconData volumeMute = IconifyIconData(IconData(
-    0xed02,
+    0xed03,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `volume-mute-bold`
   static const IconifyIconData volumeMuteBold = IconifyIconData(IconData(
-    0xed03,
+    0xed04,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `volume-mute-duo`
   static const IconifyIconData volumeMuteDuo = IconifyIconData(IconData(
-    0xed04,
+    0xed05,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `volume-mute-outline`
   static const IconifyIconData volumeMuteOutline = IconifyIconData(IconData(
-    0xed05,
+    0xed06,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `volume-outline`
   static const IconifyIconData volumeOutline = IconifyIconData(IconData(
-    0xed06,
+    0xed07,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `w`
   static const IconifyIconData w = IconifyIconData(IconData(
-    0xed07,
+    0xed08,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `w-bold`
   static const IconifyIconData wBold = IconifyIconData(IconData(
-    0xed08,
+    0xed09,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `w-duo`
   static const IconifyIconData wDuo = IconifyIconData(IconData(
-    0xed09,
+    0xed0a,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `w-outline`
   static const IconifyIconData wOutline = IconifyIconData(IconData(
-    0xed0a,
+    0xed0b,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `walking`
   static const IconifyIconData walking = IconifyIconData(IconData(
-    0xed0b,
+    0xed0c,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `walking-bold`
   static const IconifyIconData walkingBold = IconifyIconData(IconData(
-    0xed0c,
+    0xed0d,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `walking-duo`
   static const IconifyIconData walkingDuo = IconifyIconData(IconData(
-    0xed0d,
+    0xed0e,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `walking-outline`
   static const IconifyIconData walkingOutline = IconifyIconData(IconData(
-    0xed0e,
+    0xed0f,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wallet`
   static const IconifyIconData wallet = IconifyIconData(IconData(
-    0xed0f,
+    0xed10,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wallet-bold`
   static const IconifyIconData walletBold = IconifyIconData(IconData(
-    0xed10,
+    0xed11,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wallet-duo`
   static const IconifyIconData walletDuo = IconifyIconData(IconData(
-    0xed11,
+    0xed12,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wallet-outline`
   static const IconifyIconData walletOutline = IconifyIconData(IconData(
-    0xed12,
+    0xed13,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `watch`
   static const IconifyIconData watch = IconifyIconData(IconData(
-    0xed13,
+    0xed14,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `watch-1`
   static const IconifyIconData watch1 = IconifyIconData(IconData(
-    0xed14,
+    0xed15,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `watch-1-bold`
   static const IconifyIconData watch1Bold = IconifyIconData(IconData(
-    0xed15,
+    0xed16,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `watch-1-duo`
   static const IconifyIconData watch1Duo = IconifyIconData(IconData(
-    0xed16,
+    0xed17,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `watch-1-outline`
   static const IconifyIconData watch1Outline = IconifyIconData(IconData(
-    0xed17,
+    0xed18,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `watch-2`
   static const IconifyIconData watch2 = IconifyIconData(IconData(
-    0xed18,
+    0xed19,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `watch-2-bold`
   static const IconifyIconData watch2Bold = IconifyIconData(IconData(
-    0xed19,
+    0xed1a,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `watch-2-duo`
   static const IconifyIconData watch2Duo = IconifyIconData(IconData(
-    0xed1a,
+    0xed1b,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `watch-2-outline`
   static const IconifyIconData watch2Outline = IconifyIconData(IconData(
-    0xed1b,
+    0xed1c,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `watch-bold`
   static const IconifyIconData watchBold = IconifyIconData(IconData(
-    0xed1c,
+    0xed1d,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `watch-duo`
   static const IconifyIconData watchDuo = IconifyIconData(IconData(
-    0xed1d,
+    0xed1e,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `watch-fitness`
   static const IconifyIconData watchFitness = IconifyIconData(IconData(
-    0xed1e,
+    0xed1f,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `watch-fitness-bold`
   static const IconifyIconData watchFitnessBold = IconifyIconData(IconData(
-    0xed1f,
+    0xed20,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `watch-fitness-duo`
   static const IconifyIconData watchFitnessDuo = IconifyIconData(IconData(
-    0xed20,
+    0xed21,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `watch-fitness-outline`
   static const IconifyIconData watchFitnessOutline = IconifyIconData(IconData(
-    0xed21,
+    0xed22,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `watch-outline`
   static const IconifyIconData watchOutline = IconifyIconData(IconData(
-    0xed22,
+    0xed23,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `waves`
   static const IconifyIconData waves = IconifyIconData(IconData(
-    0xed23,
+    0xed24,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `waves-1`
   static const IconifyIconData waves1 = IconifyIconData(IconData(
-    0xed24,
+    0xed25,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `waves-1-bold`
   static const IconifyIconData waves1Bold = IconifyIconData(IconData(
-    0xed25,
+    0xed26,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `waves-1-duo`
   static const IconifyIconData waves1Duo = IconifyIconData(IconData(
-    0xed26,
+    0xed27,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `waves-1-outline`
   static const IconifyIconData waves1Outline = IconifyIconData(IconData(
-    0xed27,
+    0xed28,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `waves-bold`
   static const IconifyIconData wavesBold = IconifyIconData(IconData(
-    0xed28,
+    0xed29,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `waves-duo`
   static const IconifyIconData wavesDuo = IconifyIconData(IconData(
-    0xed29,
+    0xed2a,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `waves-outline`
   static const IconifyIconData wavesOutline = IconifyIconData(IconData(
-    0xed2a,
+    0xed2b,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi`
   static const IconifyIconData wifi = IconifyIconData(IconData(
-    0xed2b,
+    0xed2c,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-1`
   static const IconifyIconData wifi1 = IconifyIconData(IconData(
-    0xed2c,
+    0xed2d,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-1-bold`
   static const IconifyIconData wifi1Bold = IconifyIconData(IconData(
-    0xed2d,
+    0xed2e,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-1-duo`
   static const IconifyIconData wifi1Duo = IconifyIconData(IconData(
-    0xed2e,
+    0xed2f,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-1-outline`
   static const IconifyIconData wifi1Outline = IconifyIconData(IconData(
-    0xed2f,
+    0xed30,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-100`
   static const IconifyIconData wifi100 = IconifyIconData(IconData(
-    0xed30,
+    0xed31,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-100-bold`
   static const IconifyIconData wifi100Bold = IconifyIconData(IconData(
-    0xed7a,
+    0xed32,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-100-duo`
   static const IconifyIconData wifi100Duo = IconifyIconData(IconData(
-    0xed7b,
+    0xed33,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-100-outline`
   static const IconifyIconData wifi100Outline = IconifyIconData(IconData(
-    0xed31,
+    0xed34,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-2`
   static const IconifyIconData wifi2 = IconifyIconData(IconData(
-    0xed32,
+    0xed35,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-2-bold`
   static const IconifyIconData wifi2Bold = IconifyIconData(IconData(
-    0xed33,
+    0xed36,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-2-duo`
   static const IconifyIconData wifi2Duo = IconifyIconData(IconData(
-    0xed34,
+    0xed37,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-2-outline`
   static const IconifyIconData wifi2Outline = IconifyIconData(IconData(
-    0xed35,
+    0xed38,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-25`
   static const IconifyIconData wifi25 = IconifyIconData(IconData(
-    0xed36,
+    0xed39,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-25-bold`
   static const IconifyIconData wifi25Bold = IconifyIconData(IconData(
-    0xed37,
+    0xed3a,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-25-duo`
   static const IconifyIconData wifi25Duo = IconifyIconData(IconData(
-    0xed38,
+    0xed3b,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-25-outline`
   static const IconifyIconData wifi25Outline = IconifyIconData(IconData(
-    0xed39,
+    0xed3c,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-50`
   static const IconifyIconData wifi50 = IconifyIconData(IconData(
-    0xed3a,
+    0xed3d,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-50-bold`
   static const IconifyIconData wifi50Bold = IconifyIconData(IconData(
-    0xed3b,
+    0xed3e,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-50-duo`
   static const IconifyIconData wifi50Duo = IconifyIconData(IconData(
-    0xed3c,
+    0xed3f,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-50-outline`
   static const IconifyIconData wifi50Outline = IconifyIconData(IconData(
-    0xed3d,
+    0xed40,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-75`
   static const IconifyIconData wifi75 = IconifyIconData(IconData(
-    0xed3e,
+    0xed41,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-75-bold`
   static const IconifyIconData wifi75Bold = IconifyIconData(IconData(
-    0xed3f,
+    0xed42,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-75-duo`
   static const IconifyIconData wifi75Duo = IconifyIconData(IconData(
-    0xed40,
+    0xed43,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-75-outline`
   static const IconifyIconData wifi75Outline = IconifyIconData(IconData(
-    0xed41,
+    0xed44,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-bold`
   static const IconifyIconData wifiBold = IconifyIconData(IconData(
-    0xed42,
+    0xed45,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-duo`
   static const IconifyIconData wifiDuo = IconifyIconData(IconData(
-    0xed43,
+    0xed46,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wifi-outline`
   static const IconifyIconData wifiOutline = IconifyIconData(IconData(
-    0xed44,
+    0xed47,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wind`
   static const IconifyIconData wind = IconifyIconData(IconData(
-    0xed45,
+    0xed48,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wind-bold`
   static const IconifyIconData windBold = IconifyIconData(IconData(
-    0xed46,
+    0xed49,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wind-duo`
   static const IconifyIconData windDuo = IconifyIconData(IconData(
-    0xed47,
+    0xed4a,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wind-outline`
   static const IconifyIconData windOutline = IconifyIconData(IconData(
-    0xed48,
+    0xed4b,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `window`
   static const IconifyIconData window = IconifyIconData(IconData(
-    0xed49,
+    0xed4c,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `window-bold`
   static const IconifyIconData windowBold = IconifyIconData(IconData(
-    0xed4a,
+    0xed4d,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `window-duo`
   static const IconifyIconData windowDuo = IconifyIconData(IconData(
-    0xed4b,
+    0xed4e,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `window-outline`
   static const IconifyIconData windowOutline = IconifyIconData(IconData(
-    0xed4c,
+    0xed4f,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `windsock`
   static const IconifyIconData windsock = IconifyIconData(IconData(
-    0xed4d,
+    0xed50,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `windsock-bold`
   static const IconifyIconData windsockBold = IconifyIconData(IconData(
-    0xed4e,
+    0xed51,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `windsock-duo`
   static const IconifyIconData windsockDuo = IconifyIconData(IconData(
-    0xed4f,
+    0xed52,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `windsock-outline`
   static const IconifyIconData windsockOutline = IconifyIconData(IconData(
-    0xed50,
+    0xed53,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wink`
   static const IconifyIconData wink = IconifyIconData(IconData(
-    0xed51,
+    0xed54,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wink-bold`
   static const IconifyIconData winkBold = IconifyIconData(IconData(
-    0xed52,
+    0xed55,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wink-duo`
   static const IconifyIconData winkDuo = IconifyIconData(IconData(
-    0xed53,
+    0xed56,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wink-outline`
   static const IconifyIconData winkOutline = IconifyIconData(IconData(
-    0xed54,
+    0xed57,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wrench`
   static const IconifyIconData wrench = IconifyIconData(IconData(
-    0xed55,
+    0xed58,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wrench-bold`
   static const IconifyIconData wrenchBold = IconifyIconData(IconData(
-    0xed56,
+    0xed59,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wrench-duo`
   static const IconifyIconData wrenchDuo = IconifyIconData(IconData(
-    0xed57,
+    0xed5a,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `wrench-outline`
   static const IconifyIconData wrenchOutline = IconifyIconData(IconData(
-    0xed58,
+    0xed5b,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `x`
   static const IconifyIconData x = IconifyIconData(IconData(
-    0xed59,
+    0xed5c,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `x-bold`
   static const IconifyIconData xBold = IconifyIconData(IconData(
-    0xed5a,
+    0xed5d,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `x-duo`
   static const IconifyIconData xDuo = IconifyIconData(IconData(
-    0xed5b,
+    0xed5e,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `x-outline`
   static const IconifyIconData xOutline = IconifyIconData(IconData(
-    0xed5c,
+    0xed5f,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `y`
   static const IconifyIconData y = IconifyIconData(IconData(
-    0xed5d,
+    0xed60,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `y-bold`
   static const IconifyIconData yBold = IconifyIconData(IconData(
-    0xed5e,
+    0xed61,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `y-duo`
   static const IconifyIconData yDuo = IconifyIconData(IconData(
-    0xed5f,
+    0xed62,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `y-outline`
   static const IconifyIconData yOutline = IconifyIconData(IconData(
-    0xed60,
+    0xed63,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `yield-sign`
   static const IconifyIconData yieldSign = IconifyIconData(IconData(
-    0xed61,
+    0xed64,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `yield-sign-bold`
   static const IconifyIconData yieldSignBold = IconifyIconData(IconData(
-    0xed62,
+    0xed65,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `yield-sign-duo`
   static const IconifyIconData yieldSignDuo = IconifyIconData(IconData(
-    0xed63,
+    0xed66,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `yield-sign-outline`
   static const IconifyIconData yieldSignOutline = IconifyIconData(IconData(
-    0xed64,
+    0xed67,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `ying-yang`
   static const IconifyIconData yingYang = IconifyIconData(IconData(
-    0xed65,
+    0xed68,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `ying-yang-bold`
   static const IconifyIconData yingYangBold = IconifyIconData(IconData(
-    0xed66,
+    0xed69,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `ying-yang-duo`
   static const IconifyIconData yingYangDuo = IconifyIconData(IconData(
-    0xed67,
+    0xed6a,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `ying-yang-outline`
   static const IconifyIconData yingYangOutline = IconifyIconData(IconData(
-    0xed68,
+    0xed6b,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `z`
   static const IconifyIconData z = IconifyIconData(IconData(
-    0xed69,
+    0xed6c,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `z-bold`
   static const IconifyIconData zBold = IconifyIconData(IconData(
-    0xed6a,
+    0xed6d,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `z-duo`
   static const IconifyIconData zDuo = IconifyIconData(IconData(
-    0xed6b,
+    0xed6e,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `z-outline`
   static const IconifyIconData zOutline = IconifyIconData(IconData(
-    0xed6c,
+    0xed6f,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `zero`
   static const IconifyIconData zero = IconifyIconData(IconData(
-    0xed6d,
+    0xed70,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `zero-bold`
   static const IconifyIconData zeroBold = IconifyIconData(IconData(
-    0xed6e,
+    0xed71,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `zero-duo`
   static const IconifyIconData zeroDuo = IconifyIconData(IconData(
-    0xed6f,
+    0xed72,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `zero-outline`
   static const IconifyIconData zeroOutline = IconifyIconData(IconData(
-    0xed70,
+    0xed73,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `zoom-in`
   static const IconifyIconData zoomIn = IconifyIconData(IconData(
-    0xed71,
+    0xed74,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `zoom-in-bold`
   static const IconifyIconData zoomInBold = IconifyIconData(IconData(
-    0xed72,
+    0xed75,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `zoom-in-duo`
   static const IconifyIconData zoomInDuo = IconifyIconData(IconData(
-    0xed73,
+    0xed76,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `zoom-in-outline`
   static const IconifyIconData zoomInOutline = IconifyIconData(IconData(
-    0xed74,
+    0xed77,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `zoom-out`
   static const IconifyIconData zoomOut = IconifyIconData(IconData(
-    0xed75,
+    0xed78,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `zoom-out-bold`
   static const IconifyIconData zoomOutBold = IconifyIconData(IconData(
-    0xed76,
+    0xed79,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `zoom-out-duo`
   static const IconifyIconData zoomOutDuo = IconifyIconData(IconData(
-    0xed77,
+    0xed7a,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));
 
   /// `zoom-out-outline`
   static const IconifyIconData zoomOutOutline = IconifyIconData(IconData(
-    0xed78,
+    0xed7b,
     fontFamily: 'Glyphs',
     fontPackage: 'iconifyx_glyphs',
   ));

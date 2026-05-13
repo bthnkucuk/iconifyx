@@ -2592,1342 +2592,1342 @@
       "identifier": "lock"
     },
     "lock-fill": {
-      "codepoint": 58121,
+      "codepoint": 57857,
       "fontFamily": "GravityUi",
       "identifier": "lockFill"
     },
     "lock-open": {
-      "codepoint": 57857,
+      "codepoint": 57858,
       "fontFamily": "GravityUi",
       "identifier": "lockOpen"
     },
     "lock-open-fill": {
-      "codepoint": 58122,
+      "codepoint": 57859,
       "fontFamily": "GravityUi",
       "identifier": "lockOpenFill"
     },
     "logo-acrobat": {
-      "codepoint": 57858,
+      "codepoint": 57860,
       "fontFamily": "GravityUi",
       "identifier": "logoAcrobat"
     },
     "logo-android": {
-      "codepoint": 57859,
+      "codepoint": 57861,
       "fontFamily": "GravityUi",
       "identifier": "logoAndroid"
     },
     "logo-debian": {
-      "codepoint": 57860,
+      "codepoint": 57862,
       "fontFamily": "GravityUi",
       "identifier": "logoDebian"
     },
     "logo-docker": {
-      "codepoint": 57861,
+      "codepoint": 57863,
       "fontFamily": "GravityUi",
       "identifier": "logoDocker"
     },
     "logo-draw-io": {
-      "codepoint": 57862,
+      "codepoint": 57864,
       "fontFamily": "GravityUi",
       "identifier": "logoDrawIo"
     },
     "logo-facebook": {
-      "codepoint": 57863,
+      "codepoint": 57865,
       "fontFamily": "GravityUi",
       "identifier": "logoFacebook"
     },
     "logo-figma": {
-      "codepoint": 58123,
+      "codepoint": 57866,
       "fontFamily": "GravityUi",
       "identifier": "logoFigma"
     },
     "logo-github": {
-      "codepoint": 57864,
+      "codepoint": 57867,
       "fontFamily": "GravityUi",
       "identifier": "logoGithub"
     },
     "logo-gitlab": {
-      "codepoint": 57865,
+      "codepoint": 57868,
       "fontFamily": "GravityUi",
       "identifier": "logoGitlab"
     },
     "logo-linkedin": {
-      "codepoint": 57866,
+      "codepoint": 57869,
       "fontFamily": "GravityUi",
       "identifier": "logoLinkedin"
     },
     "logo-linux": {
-      "codepoint": 57867,
+      "codepoint": 57870,
       "fontFamily": "GravityUi",
       "identifier": "logoLinux"
     },
     "logo-macos": {
-      "codepoint": 57868,
+      "codepoint": 57871,
       "fontFamily": "GravityUi",
       "identifier": "logoMacos"
     },
     "logo-markdown": {
-      "codepoint": 57869,
+      "codepoint": 57872,
       "fontFamily": "GravityUi",
       "identifier": "logoMarkdown"
     },
     "logo-mcp": {
-      "codepoint": 57870,
+      "codepoint": 57873,
       "fontFamily": "GravityUi",
       "identifier": "logoMcp"
     },
     "logo-mermaid": {
-      "codepoint": 57871,
+      "codepoint": 57874,
       "fontFamily": "GravityUi",
       "identifier": "logoMermaid"
     },
     "logo-microsoft-office": {
-      "codepoint": 57872,
+      "codepoint": 57875,
       "fontFamily": "GravityUi",
       "identifier": "logoMicrosoftOffice"
     },
     "logo-nodejs": {
-      "codepoint": 57873,
+      "codepoint": 57876,
       "fontFamily": "GravityUi",
       "identifier": "logoNodejs"
     },
     "logo-notion": {
-      "codepoint": 57874,
+      "codepoint": 57877,
       "fontFamily": "GravityUi",
       "identifier": "logoNotion"
     },
     "logo-osi": {
-      "codepoint": 57875,
+      "codepoint": 57878,
       "fontFamily": "GravityUi",
       "identifier": "logoOsi"
     },
     "logo-python": {
-      "codepoint": 57876,
+      "codepoint": 57879,
       "fontFamily": "GravityUi",
       "identifier": "logoPython"
     },
     "logo-slack": {
-      "codepoint": 57877,
+      "codepoint": 57880,
       "fontFamily": "GravityUi",
       "identifier": "logoSlack"
     },
     "logo-stack-overflow": {
-      "codepoint": 57878,
+      "codepoint": 57881,
       "fontFamily": "GravityUi",
       "identifier": "logoStackOverflow"
     },
     "logo-telegram": {
-      "codepoint": 57879,
+      "codepoint": 57882,
       "fontFamily": "GravityUi",
       "identifier": "logoTelegram"
     },
     "logo-ubuntu": {
-      "codepoint": 57880,
+      "codepoint": 57883,
       "fontFamily": "GravityUi",
       "identifier": "logoUbuntu"
     },
     "logo-windows": {
-      "codepoint": 57881,
+      "codepoint": 57884,
       "fontFamily": "GravityUi",
       "identifier": "logoWindows"
     },
     "logo-yandex": {
-      "codepoint": 57882,
+      "codepoint": 57885,
       "fontFamily": "GravityUi",
       "identifier": "logoYandex"
     },
     "logo-yandex-cloud": {
-      "codepoint": 57883,
+      "codepoint": 57886,
       "fontFamily": "GravityUi",
       "identifier": "logoYandexCloud"
     },
     "logo-yandex-messenger": {
-      "codepoint": 57884,
+      "codepoint": 57887,
       "fontFamily": "GravityUi",
       "identifier": "logoYandexMessenger"
     },
     "logo-yandex-tracker": {
-      "codepoint": 57885,
+      "codepoint": 57888,
       "fontFamily": "GravityUi",
       "identifier": "logoYandexTracker"
     },
     "magic-wand": {
-      "codepoint": 57886,
+      "codepoint": 57889,
       "fontFamily": "GravityUi",
       "identifier": "magicWand"
     },
     "magnet": {
-      "codepoint": 57887,
+      "codepoint": 57890,
       "fontFamily": "GravityUi",
       "identifier": "magnet"
     },
     "magnifier": {
-      "codepoint": 57888,
+      "codepoint": 57891,
       "fontFamily": "GravityUi",
       "identifier": "magnifier"
     },
     "magnifier-minus": {
-      "codepoint": 57889,
+      "codepoint": 57892,
       "fontFamily": "GravityUi",
       "identifier": "magnifierMinus"
     },
     "magnifier-plus": {
-      "codepoint": 57890,
+      "codepoint": 57893,
       "fontFamily": "GravityUi",
       "identifier": "magnifierPlus"
     },
     "map-pin": {
-      "codepoint": 57891,
+      "codepoint": 57894,
       "fontFamily": "GravityUi",
       "identifier": "mapPin"
     },
     "map-pin-minus": {
-      "codepoint": 57892,
+      "codepoint": 57895,
       "fontFamily": "GravityUi",
       "identifier": "mapPinMinus"
     },
     "map-pin-plus": {
-      "codepoint": 57893,
+      "codepoint": 57896,
       "fontFamily": "GravityUi",
       "identifier": "mapPinPlus"
     },
     "math-intersection-shape": {
-      "codepoint": 57894,
+      "codepoint": 57897,
       "fontFamily": "GravityUi",
       "identifier": "mathIntersectionShape"
     },
     "math-operations": {
-      "codepoint": 57895,
+      "codepoint": 57898,
       "fontFamily": "GravityUi",
       "identifier": "mathOperations"
     },
     "math-union-shape": {
-      "codepoint": 57896,
+      "codepoint": 57899,
       "fontFamily": "GravityUi",
       "identifier": "mathUnionShape"
     },
     "medal": {
-      "codepoint": 57897,
+      "codepoint": 57900,
       "fontFamily": "GravityUi",
       "identifier": "medal"
     },
     "megaphone": {
-      "codepoint": 57898,
+      "codepoint": 57901,
       "fontFamily": "GravityUi",
       "identifier": "megaphone"
     },
     "microphone": {
-      "codepoint": 57899,
+      "codepoint": 57902,
       "fontFamily": "GravityUi",
       "identifier": "microphone"
     },
     "microphone-slash": {
-      "codepoint": 57900,
+      "codepoint": 57903,
       "fontFamily": "GravityUi",
       "identifier": "microphoneSlash"
     },
     "microscope": {
-      "codepoint": 58124,
+      "codepoint": 57904,
       "fontFamily": "GravityUi",
       "identifier": "microscope"
     },
     "minus": {
-      "codepoint": 57901,
+      "codepoint": 57905,
       "fontFamily": "GravityUi",
       "identifier": "minus"
     },
     "minus-shape": {
-      "codepoint": 57902,
+      "codepoint": 57906,
       "fontFamily": "GravityUi",
       "identifier": "minusShape"
     },
     "minus-shape-fill": {
-      "codepoint": 57903,
+      "codepoint": 57907,
       "fontFamily": "GravityUi",
       "identifier": "minusShapeFill"
     },
     "molecule": {
-      "codepoint": 57904,
+      "codepoint": 57908,
       "fontFamily": "GravityUi",
       "identifier": "molecule"
     },
     "moon": {
-      "codepoint": 57905,
+      "codepoint": 57909,
       "fontFamily": "GravityUi",
       "identifier": "moon"
     },
     "mug": {
-      "codepoint": 57906,
+      "codepoint": 57910,
       "fontFamily": "GravityUi",
       "identifier": "mug"
     },
     "music-note": {
-      "codepoint": 57907,
+      "codepoint": 57911,
       "fontFamily": "GravityUi",
       "identifier": "musicNote"
     },
     "nodes-down": {
-      "codepoint": 57908,
+      "codepoint": 57912,
       "fontFamily": "GravityUi",
       "identifier": "nodesDown"
     },
     "nodes-left": {
-      "codepoint": 57909,
+      "codepoint": 57913,
       "fontFamily": "GravityUi",
       "identifier": "nodesLeft"
     },
     "nodes-right": {
-      "codepoint": 57910,
+      "codepoint": 57914,
       "fontFamily": "GravityUi",
       "identifier": "nodesRight"
     },
     "nodes-up": {
-      "codepoint": 57911,
+      "codepoint": 57915,
       "fontFamily": "GravityUi",
       "identifier": "nodesUp"
     },
     "nut-hex": {
-      "codepoint": 57912,
+      "codepoint": 57916,
       "fontFamily": "GravityUi",
       "identifier": "nutHex"
     },
     "object-align-bottom": {
-      "codepoint": 57913,
+      "codepoint": 57917,
       "fontFamily": "GravityUi",
       "identifier": "objectAlignBottom"
     },
     "object-align-center-horizontal": {
-      "codepoint": 57914,
+      "codepoint": 57918,
       "fontFamily": "GravityUi",
       "identifier": "objectAlignCenterHorizontal"
     },
     "object-align-center-vertical": {
-      "codepoint": 57915,
+      "codepoint": 57919,
       "fontFamily": "GravityUi",
       "identifier": "objectAlignCenterVertical"
     },
     "object-align-justify-horizontal": {
-      "codepoint": 57916,
+      "codepoint": 57920,
       "fontFamily": "GravityUi",
       "identifier": "objectAlignJustifyHorizontal"
     },
     "object-align-justify-vertical": {
-      "codepoint": 57917,
+      "codepoint": 57921,
       "fontFamily": "GravityUi",
       "identifier": "objectAlignJustifyVertical"
     },
     "object-align-left": {
-      "codepoint": 57918,
+      "codepoint": 57922,
       "fontFamily": "GravityUi",
       "identifier": "objectAlignLeft"
     },
     "object-align-right": {
-      "codepoint": 57919,
+      "codepoint": 57923,
       "fontFamily": "GravityUi",
       "identifier": "objectAlignRight"
     },
     "object-align-top": {
-      "codepoint": 57920,
+      "codepoint": 57924,
       "fontFamily": "GravityUi",
       "identifier": "objectAlignTop"
     },
     "objects-align-bottom": {
-      "codepoint": 57921,
+      "codepoint": 57925,
       "fontFamily": "GravityUi",
       "identifier": "objectsAlignBottom"
     },
     "objects-align-center-horizontal": {
-      "codepoint": 57922,
+      "codepoint": 57926,
       "fontFamily": "GravityUi",
       "identifier": "objectsAlignCenterHorizontal"
     },
     "objects-align-center-vertical": {
-      "codepoint": 57923,
+      "codepoint": 57927,
       "fontFamily": "GravityUi",
       "identifier": "objectsAlignCenterVertical"
     },
     "objects-align-justify-horizontal": {
-      "codepoint": 57924,
+      "codepoint": 57928,
       "fontFamily": "GravityUi",
       "identifier": "objectsAlignJustifyHorizontal"
     },
     "objects-align-justify-vertical": {
-      "codepoint": 57925,
+      "codepoint": 57929,
       "fontFamily": "GravityUi",
       "identifier": "objectsAlignJustifyVertical"
     },
     "objects-align-left": {
-      "codepoint": 57926,
+      "codepoint": 57930,
       "fontFamily": "GravityUi",
       "identifier": "objectsAlignLeft"
     },
     "objects-align-right": {
-      "codepoint": 57927,
+      "codepoint": 57931,
       "fontFamily": "GravityUi",
       "identifier": "objectsAlignRight"
     },
     "objects-align-top": {
-      "codepoint": 57928,
+      "codepoint": 57932,
       "fontFamily": "GravityUi",
       "identifier": "objectsAlignTop"
     },
     "octagon-xmark": {
-      "codepoint": 57929,
+      "codepoint": 57933,
       "fontFamily": "GravityUi",
       "identifier": "octagonXmark"
     },
     "office-badge": {
-      "codepoint": 57930,
+      "codepoint": 57934,
       "fontFamily": "GravityUi",
       "identifier": "officeBadge"
     },
     "paintbrush": {
-      "codepoint": 57931,
+      "codepoint": 57935,
       "fontFamily": "GravityUi",
       "identifier": "paintbrush"
     },
     "palette": {
-      "codepoint": 57932,
+      "codepoint": 57936,
       "fontFamily": "GravityUi",
       "identifier": "palette"
     },
     "paper-plane": {
-      "codepoint": 57933,
+      "codepoint": 57937,
       "fontFamily": "GravityUi",
       "identifier": "paperPlane"
     },
     "paperclip": {
-      "codepoint": 57934,
+      "codepoint": 57938,
       "fontFamily": "GravityUi",
       "identifier": "paperclip"
     },
     "passport": {
-      "codepoint": 57935,
+      "codepoint": 57939,
       "fontFamily": "GravityUi",
       "identifier": "passport"
     },
     "pause": {
-      "codepoint": 57936,
+      "codepoint": 57940,
       "fontFamily": "GravityUi",
       "identifier": "pause"
     },
     "pause-fill": {
-      "codepoint": 57937,
+      "codepoint": 57941,
       "fontFamily": "GravityUi",
       "identifier": "pauseFill"
     },
     "pencil": {
-      "codepoint": 57938,
+      "codepoint": 57942,
       "fontFamily": "GravityUi",
       "identifier": "pencil"
     },
     "pencil-to-line": {
-      "codepoint": 57939,
+      "codepoint": 57943,
       "fontFamily": "GravityUi",
       "identifier": "pencilToLine"
     },
     "pencil-to-square": {
-      "codepoint": 57940,
+      "codepoint": 57944,
       "fontFamily": "GravityUi",
       "identifier": "pencilToSquare"
     },
     "percent": {
-      "codepoint": 57941,
+      "codepoint": 57945,
       "fontFamily": "GravityUi",
       "identifier": "percent"
     },
     "person": {
-      "codepoint": 57942,
+      "codepoint": 57946,
       "fontFamily": "GravityUi",
       "identifier": "person"
     },
     "person-fill": {
-      "codepoint": 57943,
+      "codepoint": 57947,
       "fontFamily": "GravityUi",
       "identifier": "personFill"
     },
     "person-gear": {
-      "codepoint": 57944,
+      "codepoint": 57948,
       "fontFamily": "GravityUi",
       "identifier": "personGear"
     },
     "person-magnifier": {
-      "codepoint": 57945,
+      "codepoint": 57949,
       "fontFamily": "GravityUi",
       "identifier": "personMagnifier"
     },
     "person-nut-hex": {
-      "codepoint": 57946,
+      "codepoint": 57950,
       "fontFamily": "GravityUi",
       "identifier": "personNutHex"
     },
     "person-pencil": {
-      "codepoint": 57947,
+      "codepoint": 57951,
       "fontFamily": "GravityUi",
       "identifier": "personPencil"
     },
     "person-planet-earth": {
-      "codepoint": 57948,
+      "codepoint": 57952,
       "fontFamily": "GravityUi",
       "identifier": "personPlanetEarth"
     },
     "person-plus": {
-      "codepoint": 57949,
+      "codepoint": 57953,
       "fontFamily": "GravityUi",
       "identifier": "personPlus"
     },
     "person-speaker": {
-      "codepoint": 57950,
+      "codepoint": 57954,
       "fontFamily": "GravityUi",
       "identifier": "personSpeaker"
     },
     "person-worker": {
-      "codepoint": 57951,
+      "codepoint": 57955,
       "fontFamily": "GravityUi",
       "identifier": "personWorker"
     },
     "person-xmark": {
-      "codepoint": 57952,
+      "codepoint": 57956,
       "fontFamily": "GravityUi",
       "identifier": "personXmark"
     },
     "persons": {
-      "codepoint": 57953,
+      "codepoint": 57957,
       "fontFamily": "GravityUi",
       "identifier": "persons"
     },
     "persons-lock": {
-      "codepoint": 57954,
+      "codepoint": 57958,
       "fontFamily": "GravityUi",
       "identifier": "personsLock"
     },
     "picture": {
-      "codepoint": 57955,
+      "codepoint": 57959,
       "fontFamily": "GravityUi",
       "identifier": "picture"
     },
     "pill": {
-      "codepoint": 57956,
+      "codepoint": 57960,
       "fontFamily": "GravityUi",
       "identifier": "pill"
     },
     "pin": {
-      "codepoint": 57957,
+      "codepoint": 57961,
       "fontFamily": "GravityUi",
       "identifier": "pin"
     },
     "pin-fill": {
-      "codepoint": 57958,
+      "codepoint": 57962,
       "fontFamily": "GravityUi",
       "identifier": "pinFill"
     },
     "pin-slash": {
-      "codepoint": 57959,
+      "codepoint": 57963,
       "fontFamily": "GravityUi",
       "identifier": "pinSlash"
     },
     "pin-slash-fill": {
-      "codepoint": 57960,
+      "codepoint": 57964,
       "fontFamily": "GravityUi",
       "identifier": "pinSlashFill"
     },
     "pipeline": {
-      "codepoint": 57961,
+      "codepoint": 57965,
       "fontFamily": "GravityUi",
       "identifier": "pipeline"
     },
     "plane": {
-      "codepoint": 57962,
+      "codepoint": 57966,
       "fontFamily": "GravityUi",
       "identifier": "plane"
     },
     "plane-fill": {
-      "codepoint": 57963,
+      "codepoint": 57967,
       "fontFamily": "GravityUi",
       "identifier": "planeFill"
     },
     "planet-earth": {
-      "codepoint": 57964,
+      "codepoint": 57968,
       "fontFamily": "GravityUi",
       "identifier": "planetEarth"
     },
     "play": {
-      "codepoint": 57965,
+      "codepoint": 57969,
       "fontFamily": "GravityUi",
       "identifier": "play"
     },
     "play-fill": {
-      "codepoint": 57966,
+      "codepoint": 57970,
       "fontFamily": "GravityUi",
       "identifier": "playFill"
     },
     "plug-connection": {
-      "codepoint": 57967,
+      "codepoint": 57971,
       "fontFamily": "GravityUi",
       "identifier": "plugConnection"
     },
     "plug-wire": {
-      "codepoint": 57968,
+      "codepoint": 57972,
       "fontFamily": "GravityUi",
       "identifier": "plugWire"
     },
     "plus": {
-      "codepoint": 57969,
+      "codepoint": 57973,
       "fontFamily": "GravityUi",
       "identifier": "plus"
     },
     "plus-shape": {
-      "codepoint": 57970,
+      "codepoint": 57974,
       "fontFamily": "GravityUi",
       "identifier": "plusShape"
     },
     "plus-shape-fill": {
-      "codepoint": 57971,
+      "codepoint": 57975,
       "fontFamily": "GravityUi",
       "identifier": "plusShapeFill"
     },
     "power": {
-      "codepoint": 57972,
+      "codepoint": 57976,
       "fontFamily": "GravityUi",
       "identifier": "power"
     },
     "printer": {
-      "codepoint": 57973,
+      "codepoint": 57977,
       "fontFamily": "GravityUi",
       "identifier": "printer"
     },
     "pulse": {
-      "codepoint": 57974,
+      "codepoint": 57978,
       "fontFamily": "GravityUi",
       "identifier": "pulse"
     },
     "puzzle": {
-      "codepoint": 57975,
+      "codepoint": 57979,
       "fontFamily": "GravityUi",
       "identifier": "puzzle"
     },
     "qr-code": {
-      "codepoint": 57976,
+      "codepoint": 57980,
       "fontFamily": "GravityUi",
       "identifier": "qrCode"
     },
     "quote-close": {
-      "codepoint": 57977,
+      "codepoint": 57981,
       "fontFamily": "GravityUi",
       "identifier": "quoteClose"
     },
     "quote-open": {
-      "codepoint": 57978,
+      "codepoint": 57982,
       "fontFamily": "GravityUi",
       "identifier": "quoteOpen"
     },
     "receipt": {
-      "codepoint": 57979,
+      "codepoint": 57983,
       "fontFamily": "GravityUi",
       "identifier": "receipt"
     },
     "rectangle-pulse": {
-      "codepoint": 57980,
+      "codepoint": 57984,
       "fontFamily": "GravityUi",
       "identifier": "rectanglePulse"
     },
     "rectangles-4": {
-      "codepoint": 57981,
+      "codepoint": 57985,
       "fontFamily": "GravityUi",
       "identifier": "rectangles4"
     },
     "rocket": {
-      "codepoint": 57982,
+      "codepoint": 57986,
       "fontFamily": "GravityUi",
       "identifier": "rocket"
     },
     "round-brackets": {
-      "codepoint": 57983,
+      "codepoint": 57987,
       "fontFamily": "GravityUi",
       "identifier": "roundBrackets"
     },
     "route": {
-      "codepoint": 57984,
+      "codepoint": 57988,
       "fontFamily": "GravityUi",
       "identifier": "route"
     },
     "sack": {
-      "codepoint": 57985,
+      "codepoint": 57989,
       "fontFamily": "GravityUi",
       "identifier": "sack"
     },
     "scales-balanced": {
-      "codepoint": 57986,
+      "codepoint": 57990,
       "fontFamily": "GravityUi",
       "identifier": "scalesBalanced"
     },
     "scales-unbalanced": {
-      "codepoint": 57987,
+      "codepoint": 57991,
       "fontFamily": "GravityUi",
       "identifier": "scalesUnbalanced"
     },
     "scissors": {
-      "codepoint": 57988,
+      "codepoint": 57992,
       "fontFamily": "GravityUi",
       "identifier": "scissors"
     },
     "seal-check": {
-      "codepoint": 57989,
+      "codepoint": 57993,
       "fontFamily": "GravityUi",
       "identifier": "sealCheck"
     },
     "seal-percent": {
-      "codepoint": 57990,
+      "codepoint": 57994,
       "fontFamily": "GravityUi",
       "identifier": "sealPercent"
     },
     "server": {
-      "codepoint": 57991,
+      "codepoint": 57995,
       "fontFamily": "GravityUi",
       "identifier": "server"
     },
     "shapes-3": {
-      "codepoint": 57992,
+      "codepoint": 57996,
       "fontFamily": "GravityUi",
       "identifier": "shapes3"
     },
     "shapes-4": {
-      "codepoint": 57993,
+      "codepoint": 57997,
       "fontFamily": "GravityUi",
       "identifier": "shapes4"
     },
     "shield": {
-      "codepoint": 57994,
+      "codepoint": 57998,
       "fontFamily": "GravityUi",
       "identifier": "shield"
     },
     "shield-check": {
-      "codepoint": 57995,
+      "codepoint": 57999,
       "fontFamily": "GravityUi",
       "identifier": "shieldCheck"
     },
     "shield-exclamation": {
-      "codepoint": 57996,
+      "codepoint": 58000,
       "fontFamily": "GravityUi",
       "identifier": "shieldExclamation"
     },
     "shield-keyhole": {
-      "codepoint": 57997,
+      "codepoint": 58001,
       "fontFamily": "GravityUi",
       "identifier": "shieldKeyhole"
     },
     "shopping-bag": {
-      "codepoint": 57998,
+      "codepoint": 58002,
       "fontFamily": "GravityUi",
       "identifier": "shoppingBag"
     },
     "shopping-basket": {
-      "codepoint": 57999,
+      "codepoint": 58003,
       "fontFamily": "GravityUi",
       "identifier": "shoppingBasket"
     },
     "shopping-cart": {
-      "codepoint": 58000,
+      "codepoint": 58004,
       "fontFamily": "GravityUi",
       "identifier": "shoppingCart"
     },
     "shuffle": {
-      "codepoint": 58001,
+      "codepoint": 58005,
       "fontFamily": "GravityUi",
       "identifier": "shuffle"
     },
     "signal": {
-      "codepoint": 58002,
+      "codepoint": 58006,
       "fontFamily": "GravityUi",
       "identifier": "signal"
     },
     "skull": {
-      "codepoint": 58003,
+      "codepoint": 58007,
       "fontFamily": "GravityUi",
       "identifier": "skull"
     },
     "sliders": {
-      "codepoint": 58004,
+      "codepoint": 58008,
       "fontFamily": "GravityUi",
       "identifier": "sliders"
     },
     "sliders-vertical": {
-      "codepoint": 58005,
+      "codepoint": 58009,
       "fontFamily": "GravityUi",
       "identifier": "slidersVertical"
     },
     "smartphone": {
-      "codepoint": 58006,
+      "codepoint": 58010,
       "fontFamily": "GravityUi",
       "identifier": "smartphone"
     },
     "snail": {
-      "codepoint": 58007,
+      "codepoint": 58011,
       "fontFamily": "GravityUi",
       "identifier": "snail"
     },
     "snowflake": {
-      "codepoint": 58008,
+      "codepoint": 58012,
       "fontFamily": "GravityUi",
       "identifier": "snowflake"
     },
     "sparkles": {
-      "codepoint": 58009,
+      "codepoint": 58013,
       "fontFamily": "GravityUi",
       "identifier": "sparkles"
     },
     "sparkles-fill": {
-      "codepoint": 58010,
+      "codepoint": 58014,
       "fontFamily": "GravityUi",
       "identifier": "sparklesFill"
     },
     "speedometer": {
-      "codepoint": 58011,
+      "codepoint": 58015,
       "fontFamily": "GravityUi",
       "identifier": "speedometer"
     },
     "sphere": {
-      "codepoint": 58012,
+      "codepoint": 58016,
       "fontFamily": "GravityUi",
       "identifier": "sphere"
     },
     "square": {
-      "codepoint": 58013,
+      "codepoint": 58017,
       "fontFamily": "GravityUi",
       "identifier": "square"
     },
     "square-article": {
-      "codepoint": 58014,
+      "codepoint": 58018,
       "fontFamily": "GravityUi",
       "identifier": "squareArticle"
     },
     "square-bars": {
-      "codepoint": 58015,
+      "codepoint": 58019,
       "fontFamily": "GravityUi",
       "identifier": "squareBars"
     },
     "square-bars-vertical": {
-      "codepoint": 58016,
+      "codepoint": 58020,
       "fontFamily": "GravityUi",
       "identifier": "squareBarsVertical"
     },
     "square-brackets": {
-      "codepoint": 58017,
+      "codepoint": 58021,
       "fontFamily": "GravityUi",
       "identifier": "squareBrackets"
     },
     "square-brackets-bars-vertical": {
-      "codepoint": 58018,
+      "codepoint": 58022,
       "fontFamily": "GravityUi",
       "identifier": "squareBracketsBarsVertical"
     },
     "square-brackets-letter-a": {
-      "codepoint": 58019,
+      "codepoint": 58023,
       "fontFamily": "GravityUi",
       "identifier": "squareBracketsLetterA"
     },
     "square-chart-bar": {
-      "codepoint": 58020,
+      "codepoint": 58024,
       "fontFamily": "GravityUi",
       "identifier": "squareChartBar"
     },
     "square-chart-column": {
-      "codepoint": 58021,
+      "codepoint": 58025,
       "fontFamily": "GravityUi",
       "identifier": "squareChartColumn"
     },
     "square-check": {
-      "codepoint": 58022,
+      "codepoint": 58026,
       "fontFamily": "GravityUi",
       "identifier": "squareCheck"
     },
     "square-dashed": {
-      "codepoint": 58023,
+      "codepoint": 58027,
       "fontFamily": "GravityUi",
       "identifier": "squareDashed"
     },
     "square-dashed-circle": {
-      "codepoint": 58024,
+      "codepoint": 58028,
       "fontFamily": "GravityUi",
       "identifier": "squareDashedCircle"
     },
     "square-dashed-letter-a": {
-      "codepoint": 58025,
+      "codepoint": 58029,
       "fontFamily": "GravityUi",
       "identifier": "squareDashedLetterA"
     },
     "square-dashed-letter-t": {
-      "codepoint": 58026,
+      "codepoint": 58030,
       "fontFamily": "GravityUi",
       "identifier": "squareDashedLetterT"
     },
     "square-dashed-text": {
-      "codepoint": 58027,
+      "codepoint": 58031,
       "fontFamily": "GravityUi",
       "identifier": "squareDashedText"
     },
     "square-dot": {
-      "codepoint": 58028,
+      "codepoint": 58032,
       "fontFamily": "GravityUi",
       "identifier": "squareDot"
     },
     "square-exclamation": {
-      "codepoint": 58029,
+      "codepoint": 58033,
       "fontFamily": "GravityUi",
       "identifier": "squareExclamation"
     },
     "square-fill": {
-      "codepoint": 58030,
+      "codepoint": 58034,
       "fontFamily": "GravityUi",
       "identifier": "squareFill"
     },
     "square-hashtag": {
-      "codepoint": 58031,
+      "codepoint": 58035,
       "fontFamily": "GravityUi",
       "identifier": "squareHashtag"
     },
     "square-letter-p": {
-      "codepoint": 58032,
+      "codepoint": 58036,
       "fontFamily": "GravityUi",
       "identifier": "squareLetterP"
     },
     "square-letter-t": {
-      "codepoint": 58033,
+      "codepoint": 58037,
       "fontFamily": "GravityUi",
       "identifier": "squareLetterT"
     },
     "square-line-horizontal": {
-      "codepoint": 58034,
+      "codepoint": 58038,
       "fontFamily": "GravityUi",
       "identifier": "squareLineHorizontal"
     },
     "square-line-vertical": {
-      "codepoint": 58035,
+      "codepoint": 58039,
       "fontFamily": "GravityUi",
       "identifier": "squareLineVertical"
     },
     "square-list-ul": {
-      "codepoint": 58036,
+      "codepoint": 58040,
       "fontFamily": "GravityUi",
       "identifier": "squareListUl"
     },
     "square-minus": {
-      "codepoint": 58037,
+      "codepoint": 58041,
       "fontFamily": "GravityUi",
       "identifier": "squareMinus"
     },
     "square-plus": {
-      "codepoint": 58038,
+      "codepoint": 58042,
       "fontFamily": "GravityUi",
       "identifier": "squarePlus"
     },
     "square-xmark": {
-      "codepoint": 58039,
+      "codepoint": 58043,
       "fontFamily": "GravityUi",
       "identifier": "squareXmark"
     },
     "star": {
-      "codepoint": 58040,
+      "codepoint": 58044,
       "fontFamily": "GravityUi",
       "identifier": "star"
     },
     "star-fill": {
-      "codepoint": 58041,
+      "codepoint": 58045,
       "fontFamily": "GravityUi",
       "identifier": "starFill"
     },
     "stethoscope": {
-      "codepoint": 58042,
+      "codepoint": 58046,
       "fontFamily": "GravityUi",
       "identifier": "stethoscope"
     },
     "sticker": {
-      "codepoint": 58043,
+      "codepoint": 58047,
       "fontFamily": "GravityUi",
       "identifier": "sticker"
     },
     "stop": {
-      "codepoint": 58044,
+      "codepoint": 58048,
       "fontFamily": "GravityUi",
       "identifier": "stop"
     },
     "stop-fill": {
-      "codepoint": 58045,
+      "codepoint": 58049,
       "fontFamily": "GravityUi",
       "identifier": "stopFill"
     },
     "stopwatch": {
-      "codepoint": 58046,
+      "codepoint": 58050,
       "fontFamily": "GravityUi",
       "identifier": "stopwatch"
     },
     "strikethrough": {
-      "codepoint": 58047,
+      "codepoint": 58051,
       "fontFamily": "GravityUi",
       "identifier": "strikethrough"
     },
     "suitcase": {
-      "codepoint": 58048,
+      "codepoint": 58052,
       "fontFamily": "GravityUi",
       "identifier": "suitcase"
     },
     "sun": {
-      "codepoint": 58049,
+      "codepoint": 58053,
       "fontFamily": "GravityUi",
       "identifier": "sun"
     },
     "superscript": {
-      "codepoint": 58050,
+      "codepoint": 58054,
       "fontFamily": "GravityUi",
       "identifier": "superscript"
     },
     "t-shirt": {
-      "codepoint": 58051,
+      "codepoint": 58055,
       "fontFamily": "GravityUi",
       "identifier": "tShirt"
     },
     "tachometer": {
-      "codepoint": 58052,
+      "codepoint": 58056,
       "fontFamily": "GravityUi",
       "identifier": "tachometer"
     },
     "tag": {
-      "codepoint": 58053,
+      "codepoint": 58057,
       "fontFamily": "GravityUi",
       "identifier": "tag"
     },
     "tag-dollar": {
-      "codepoint": 58054,
+      "codepoint": 58058,
       "fontFamily": "GravityUi",
       "identifier": "tagDollar"
     },
     "tag-ruble": {
-      "codepoint": 58055,
+      "codepoint": 58059,
       "fontFamily": "GravityUi",
       "identifier": "tagRuble"
     },
     "tags": {
-      "codepoint": 58056,
+      "codepoint": 58060,
       "fontFamily": "GravityUi",
       "identifier": "tags"
     },
     "target": {
-      "codepoint": 58057,
+      "codepoint": 58061,
       "fontFamily": "GravityUi",
       "identifier": "target"
     },
     "target-dart": {
-      "codepoint": 58058,
+      "codepoint": 58062,
       "fontFamily": "GravityUi",
       "identifier": "targetDart"
     },
     "terminal": {
-      "codepoint": 58059,
+      "codepoint": 58063,
       "fontFamily": "GravityUi",
       "identifier": "terminal"
     },
     "terminal-line": {
-      "codepoint": 58060,
+      "codepoint": 58064,
       "fontFamily": "GravityUi",
       "identifier": "terminalLine"
     },
     "text": {
-      "codepoint": 58061,
+      "codepoint": 58065,
       "fontFamily": "GravityUi",
       "identifier": "text"
     },
     "text-align-center": {
-      "codepoint": 58062,
+      "codepoint": 58066,
       "fontFamily": "GravityUi",
       "identifier": "textAlignCenter"
     },
     "text-align-justify": {
-      "codepoint": 58063,
+      "codepoint": 58067,
       "fontFamily": "GravityUi",
       "identifier": "textAlignJustify"
     },
     "text-align-left": {
-      "codepoint": 58064,
+      "codepoint": 58068,
       "fontFamily": "GravityUi",
       "identifier": "textAlignLeft"
     },
     "text-align-right": {
-      "codepoint": 58065,
+      "codepoint": 58069,
       "fontFamily": "GravityUi",
       "identifier": "textAlignRight"
     },
     "text-indent": {
-      "codepoint": 58066,
+      "codepoint": 58070,
       "fontFamily": "GravityUi",
       "identifier": "textIndent"
     },
     "text-outdent": {
-      "codepoint": 58067,
+      "codepoint": 58071,
       "fontFamily": "GravityUi",
       "identifier": "textOutdent"
     },
     "thumbs-down": {
-      "codepoint": 58068,
+      "codepoint": 58072,
       "fontFamily": "GravityUi",
       "identifier": "thumbsDown"
     },
     "thumbs-down-fill": {
-      "codepoint": 58069,
+      "codepoint": 58073,
       "fontFamily": "GravityUi",
       "identifier": "thumbsDownFill"
     },
     "thumbs-up": {
-      "codepoint": 58070,
+      "codepoint": 58074,
       "fontFamily": "GravityUi",
       "identifier": "thumbsUp"
     },
     "thumbs-up-2": {
-      "codepoint": 58071,
+      "codepoint": 58075,
       "fontFamily": "GravityUi",
       "identifier": "thumbsUp2"
     },
     "thumbs-up-fill": {
-      "codepoint": 58072,
+      "codepoint": 58076,
       "fontFamily": "GravityUi",
       "identifier": "thumbsUpFill"
     },
     "thunderbolt": {
-      "codepoint": 58073,
+      "codepoint": 58077,
       "fontFamily": "GravityUi",
       "identifier": "thunderbolt"
     },
     "thunderbolt-fill": {
-      "codepoint": 58074,
+      "codepoint": 58078,
       "fontFamily": "GravityUi",
       "identifier": "thunderboltFill"
     },
     "ticket": {
-      "codepoint": 58075,
+      "codepoint": 58079,
       "fontFamily": "GravityUi",
       "identifier": "ticket"
     },
     "timeline": {
-      "codepoint": 58076,
+      "codepoint": 58080,
       "fontFamily": "GravityUi",
       "identifier": "timeline"
     },
     "timestamps": {
-      "codepoint": 58077,
+      "codepoint": 58081,
       "fontFamily": "GravityUi",
       "identifier": "timestamps"
     },
     "toggle-off": {
-      "codepoint": 58078,
+      "codepoint": 58082,
       "fontFamily": "GravityUi",
       "identifier": "toggleOff"
     },
     "toggle-on": {
-      "codepoint": 58079,
+      "codepoint": 58083,
       "fontFamily": "GravityUi",
       "identifier": "toggleOn"
     },
     "traffic-light": {
-      "codepoint": 58080,
+      "codepoint": 58084,
       "fontFamily": "GravityUi",
       "identifier": "trafficLight"
     },
     "trapezoid-left-line-horizontal": {
-      "codepoint": 58081,
+      "codepoint": 58085,
       "fontFamily": "GravityUi",
       "identifier": "trapezoidLeftLineHorizontal"
     },
     "trapezoid-up-line-vertical": {
-      "codepoint": 58082,
+      "codepoint": 58086,
       "fontFamily": "GravityUi",
       "identifier": "trapezoidUpLineVertical"
     },
     "trash-bin": {
-      "codepoint": 58083,
+      "codepoint": 58087,
       "fontFamily": "GravityUi",
       "identifier": "trashBin"
     },
     "tray": {
-      "codepoint": 58084,
+      "codepoint": 58088,
       "fontFamily": "GravityUi",
       "identifier": "tray"
     },
     "triangle-down": {
-      "codepoint": 58085,
+      "codepoint": 58089,
       "fontFamily": "GravityUi",
       "identifier": "triangleDown"
     },
     "triangle-down-fill": {
-      "codepoint": 58086,
+      "codepoint": 58090,
       "fontFamily": "GravityUi",
       "identifier": "triangleDownFill"
     },
     "triangle-exclamation": {
-      "codepoint": 58087,
+      "codepoint": 58091,
       "fontFamily": "GravityUi",
       "identifier": "triangleExclamation"
     },
     "triangle-exclamation-fill": {
-      "codepoint": 58088,
+      "codepoint": 58092,
       "fontFamily": "GravityUi",
       "identifier": "triangleExclamationFill"
     },
     "triangle-left": {
-      "codepoint": 58089,
+      "codepoint": 58093,
       "fontFamily": "GravityUi",
       "identifier": "triangleLeft"
     },
     "triangle-left-fill": {
-      "codepoint": 58090,
+      "codepoint": 58094,
       "fontFamily": "GravityUi",
       "identifier": "triangleLeftFill"
     },
     "triangle-right": {
-      "codepoint": 58091,
+      "codepoint": 58095,
       "fontFamily": "GravityUi",
       "identifier": "triangleRight"
     },
     "triangle-right-fill": {
-      "codepoint": 58092,
+      "codepoint": 58096,
       "fontFamily": "GravityUi",
       "identifier": "triangleRightFill"
     },
     "triangle-thunderbolt": {
-      "codepoint": 58093,
+      "codepoint": 58097,
       "fontFamily": "GravityUi",
       "identifier": "triangleThunderbolt"
     },
     "triangle-up": {
-      "codepoint": 58094,
+      "codepoint": 58098,
       "fontFamily": "GravityUi",
       "identifier": "triangleUp"
     },
     "triangle-up-fill": {
-      "codepoint": 58095,
+      "codepoint": 58099,
       "fontFamily": "GravityUi",
       "identifier": "triangleUpFill"
     },
     "trolley": {
-      "codepoint": 58096,
+      "codepoint": 58100,
       "fontFamily": "GravityUi",
       "identifier": "trolley"
     },
     "tv": {
-      "codepoint": 58097,
+      "codepoint": 58101,
       "fontFamily": "GravityUi",
       "identifier": "tv"
     },
     "tv-retro": {
-      "codepoint": 58098,
+      "codepoint": 58102,
       "fontFamily": "GravityUi",
       "identifier": "tvRetro"
     },
     "umbrella": {
-      "codepoint": 58099,
+      "codepoint": 58103,
       "fontFamily": "GravityUi",
       "identifier": "umbrella"
     },
     "underline": {
-      "codepoint": 58100,
+      "codepoint": 58104,
       "fontFamily": "GravityUi",
       "identifier": "underline"
     },
     "universal-access": {
-      "codepoint": 58101,
+      "codepoint": 58105,
       "fontFamily": "GravityUi",
       "identifier": "universalAccess"
     },
     "vault": {
-      "codepoint": 58102,
+      "codepoint": 58106,
       "fontFamily": "GravityUi",
       "identifier": "vault"
     },
     "vector-circle": {
-      "codepoint": 58103,
+      "codepoint": 58107,
       "fontFamily": "GravityUi",
       "identifier": "vectorCircle"
     },
     "vector-square": {
-      "codepoint": 58104,
+      "codepoint": 58108,
       "fontFamily": "GravityUi",
       "identifier": "vectorSquare"
     },
     "video": {
-      "codepoint": 58105,
+      "codepoint": 58109,
       "fontFamily": "GravityUi",
       "identifier": "video"
     },
     "volume": {
-      "codepoint": 58106,
+      "codepoint": 58110,
       "fontFamily": "GravityUi",
       "identifier": "volume"
     },
     "volume-fill": {
-      "codepoint": 58107,
+      "codepoint": 58111,
       "fontFamily": "GravityUi",
       "identifier": "volumeFill"
     },
     "volume-low": {
-      "codepoint": 58108,
+      "codepoint": 58112,
       "fontFamily": "GravityUi",
       "identifier": "volumeLow"
     },
     "volume-low-fill": {
-      "codepoint": 58109,
+      "codepoint": 58113,
       "fontFamily": "GravityUi",
       "identifier": "volumeLowFill"
     },
     "volume-off": {
-      "codepoint": 58110,
+      "codepoint": 58114,
       "fontFamily": "GravityUi",
       "identifier": "volumeOff"
     },
     "volume-off-fill": {
-      "codepoint": 58111,
+      "codepoint": 58115,
       "fontFamily": "GravityUi",
       "identifier": "volumeOffFill"
     },
     "volume-slash": {
-      "codepoint": 58112,
+      "codepoint": 58116,
       "fontFamily": "GravityUi",
       "identifier": "volumeSlash"
     },
     "volume-slash-fill": {
-      "codepoint": 58113,
+      "codepoint": 58117,
       "fontFamily": "GravityUi",
       "identifier": "volumeSlashFill"
     },
     "volume-xmark": {
-      "codepoint": 58114,
+      "codepoint": 58118,
       "fontFamily": "GravityUi",
       "identifier": "volumeXmark"
     },
     "volume-xmark-fill": {
-      "codepoint": 58115,
+      "codepoint": 58119,
       "fontFamily": "GravityUi",
       "identifier": "volumeXmarkFill"
     },
     "weight-hanging": {
-      "codepoint": 58116,
+      "codepoint": 58120,
       "fontFamily": "GravityUi",
       "identifier": "weightHanging"
     },
     "wrench": {
-      "codepoint": 58117,
+      "codepoint": 58121,
       "fontFamily": "GravityUi",
       "identifier": "wrench"
     },
     "xmark": {
-      "codepoint": 58118,
+      "codepoint": 58122,
       "fontFamily": "GravityUi",
       "identifier": "xmark"
     },
     "xmark-shape": {
-      "codepoint": 58119,
+      "codepoint": 58123,
       "fontFamily": "GravityUi",
       "identifier": "xmarkShape"
     },
     "xmark-shape-fill": {
-      "codepoint": 58120,
+      "codepoint": 58124,
       "fontFamily": "GravityUi",
       "identifier": "xmarkShapeFill"
     }

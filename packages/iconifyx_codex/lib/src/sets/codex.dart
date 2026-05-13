@@ -354,210 +354,210 @@ class CodexIcons {
 
   /// `loader`
   static const IconifyIconData loader = IconifyIconData(IconData(
-    0xe04d,
+    0xe030,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `marker`
   static const IconifyIconData marker = IconifyIconData(IconData(
-    0xe030,
+    0xe031,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `menu`
   static const IconifyIconData menu = IconifyIconData(IconData(
-    0xe031,
+    0xe032,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `menu-small`
   static const IconifyIconData menuSmall = IconifyIconData(IconData(
-    0xe032,
+    0xe033,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `picture`
   static const IconifyIconData picture = IconifyIconData(IconData(
-    0xe033,
+    0xe034,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `play`
   static const IconifyIconData play = IconifyIconData(IconData(
-    0xe034,
+    0xe035,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `plus`
   static const IconifyIconData plus = IconifyIconData(IconData(
-    0xe035,
+    0xe036,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `question`
   static const IconifyIconData question = IconifyIconData(IconData(
-    0xe036,
+    0xe037,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `quote`
   static const IconifyIconData quote = IconifyIconData(IconData(
-    0xe037,
+    0xe038,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `redo`
   static const IconifyIconData redo = IconifyIconData(IconData(
-    0xe038,
+    0xe039,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `remove-background`
   static const IconifyIconData removeBackground = IconifyIconData(IconData(
-    0xe039,
+    0xe03a,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `replace`
   static const IconifyIconData replace = IconifyIconData(IconData(
-    0xe03a,
+    0xe03b,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `save`
   static const IconifyIconData save = IconifyIconData(IconData(
-    0xe03b,
+    0xe03c,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `search`
   static const IconifyIconData search = IconifyIconData(IconData(
-    0xe03c,
+    0xe03d,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `star`
   static const IconifyIconData star = IconifyIconData(IconData(
-    0xe03d,
+    0xe03e,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `stretch`
   static const IconifyIconData stretch = IconifyIconData(IconData(
-    0xe03e,
+    0xe03f,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `strikethrough`
   static const IconifyIconData strikethrough = IconifyIconData(IconData(
-    0xe03f,
+    0xe040,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `table`
   static const IconifyIconData table = IconifyIconData(IconData(
-    0xe040,
+    0xe041,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `table-with-headings`
   static const IconifyIconData tableWithHeadings = IconifyIconData(IconData(
-    0xe041,
+    0xe042,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `table-without-headings`
   static const IconifyIconData tableWithoutHeadings = IconifyIconData(IconData(
-    0xe042,
+    0xe043,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `text`
   static const IconifyIconData text = IconifyIconData(IconData(
-    0xe043,
+    0xe044,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `translate`
   static const IconifyIconData translate = IconifyIconData(IconData(
-    0xe044,
+    0xe045,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `trash`
   static const IconifyIconData trash = IconifyIconData(IconData(
-    0xe045,
+    0xe046,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `twitter`
   static const IconifyIconData twitter = IconifyIconData(IconData(
-    0xe046,
+    0xe047,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `underline`
   static const IconifyIconData underline = IconifyIconData(IconData(
-    0xe047,
+    0xe048,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `undo`
   static const IconifyIconData undo = IconifyIconData(IconData(
-    0xe048,
+    0xe049,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `unlink`
   static const IconifyIconData unlink = IconifyIconData(IconData(
-    0xe049,
+    0xe04a,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `user`
   static const IconifyIconData user = IconifyIconData(IconData(
-    0xe04a,
+    0xe04b,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `users-group`
   static const IconifyIconData usersGroup = IconifyIconData(IconData(
-    0xe04b,
+    0xe04c,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));
 
   /// `warning`
   static const IconifyIconData warning = IconifyIconData(IconData(
-    0xe04c,
+    0xe04d,
     fontFamily: 'Codex',
     fontPackage: 'iconifyx_codex',
   ));

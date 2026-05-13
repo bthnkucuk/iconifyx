@@ -4974,875 +4974,875 @@ class FlowbiteIcons {
 
   /// `star-half-solid`
   static const IconifyIconData starHalfSolid = IconifyIconData(IconData(
-    0xe340,
+    0xe2c4,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `star-half-stroke-outline`
   static const IconifyIconData starHalfStrokeOutline = IconifyIconData(IconData(
-    0xe2c4,
+    0xe2c5,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `star-half-stroke-solid`
   static const IconifyIconData starHalfStrokeSolid = IconifyIconData(IconData(
-    0xe2c5,
+    0xe2c6,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `star-outline`
   static const IconifyIconData starOutline = IconifyIconData(IconData(
-    0xe2c6,
+    0xe2c7,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `star-solid`
   static const IconifyIconData starSolid = IconifyIconData(IconData(
-    0xe2c7,
+    0xe2c8,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `stop-outline`
   static const IconifyIconData stopOutline = IconifyIconData(IconData(
-    0xe2c8,
+    0xe2c9,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `stop-solid`
   static const IconifyIconData stopSolid = IconifyIconData(IconData(
-    0xe2c9,
+    0xe2ca,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `store-outline`
   static const IconifyIconData storeOutline = IconifyIconData(IconData(
-    0xe2ca,
+    0xe2cb,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `store-solid`
   static const IconifyIconData storeSolid = IconifyIconData(IconData(
-    0xe2cb,
+    0xe2cc,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `stroopwafel-outline`
   static const IconifyIconData stroopwafelOutline = IconifyIconData(IconData(
-    0xe2cc,
+    0xe2cd,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `stroopwafel-solid`
   static const IconifyIconData stroopwafelSolid = IconifyIconData(IconData(
-    0xe2cd,
+    0xe2ce,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `subscript-outline`
   static const IconifyIconData subscriptOutline = IconifyIconData(IconData(
-    0xe2ce,
+    0xe2cf,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `sun-outline`
   static const IconifyIconData sunOutline = IconifyIconData(IconData(
-    0xe2cf,
+    0xe2d0,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `sun-solid`
   static const IconifyIconData sunSolid = IconifyIconData(IconData(
-    0xe2d0,
+    0xe2d1,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `superscript-outline`
   static const IconifyIconData superscriptOutline = IconifyIconData(IconData(
-    0xe2d1,
+    0xe2d2,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `swatchbook-outline`
   static const IconifyIconData swatchbookOutline = IconifyIconData(IconData(
-    0xe2d2,
+    0xe2d3,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `swatchbook-solid`
   static const IconifyIconData swatchbookSolid = IconifyIconData(IconData(
-    0xe2d3,
+    0xe2d4,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `t-shirt-outline`
   static const IconifyIconData tShirtOutline = IconifyIconData(IconData(
-    0xe2d4,
+    0xe2d5,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `t-shirt-solid`
   static const IconifyIconData tShirtSolid = IconifyIconData(IconData(
-    0xe2d5,
+    0xe2d6,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `table-column-outline`
   static const IconifyIconData tableColumnOutline = IconifyIconData(IconData(
-    0xe2d6,
+    0xe2d7,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `table-column-solid`
   static const IconifyIconData tableColumnSolid = IconifyIconData(IconData(
-    0xe2d7,
+    0xe2d8,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `table-row-outline`
   static const IconifyIconData tableRowOutline = IconifyIconData(IconData(
-    0xe2d8,
+    0xe2d9,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `table-row-solid`
   static const IconifyIconData tableRowSolid = IconifyIconData(IconData(
-    0xe2d9,
+    0xe2da,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `tablet-outline`
   static const IconifyIconData tabletOutline = IconifyIconData(IconData(
-    0xe2da,
+    0xe2db,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `tablet-solid`
   static const IconifyIconData tabletSolid = IconifyIconData(IconData(
-    0xe2db,
+    0xe2dc,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `tag-outline`
   static const IconifyIconData tagOutline = IconifyIconData(IconData(
-    0xe2dc,
+    0xe2dd,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `tag-solid`
   static const IconifyIconData tagSolid = IconifyIconData(IconData(
-    0xe2dd,
+    0xe2de,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `tailwind-solid`
   static const IconifyIconData tailwindSolid = IconifyIconData(IconData(
-    0xe2de,
+    0xe2df,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `teddy-bear-outline`
   static const IconifyIconData teddyBearOutline = IconifyIconData(IconData(
-    0xe2df,
+    0xe2e0,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `teddy-bear-solid`
   static const IconifyIconData teddyBearSolid = IconifyIconData(IconData(
-    0xe2e0,
+    0xe2e1,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `terminal-outline`
   static const IconifyIconData terminalOutline = IconifyIconData(IconData(
-    0xe2e1,
+    0xe2e2,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `terminal-solid`
   static const IconifyIconData terminalSolid = IconifyIconData(IconData(
-    0xe2e2,
+    0xe2e3,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `text-size-outline`
   static const IconifyIconData textSizeOutline = IconifyIconData(IconData(
-    0xe2e3,
+    0xe2e4,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `text-size-solid`
   static const IconifyIconData textSizeSolid = IconifyIconData(IconData(
-    0xe2e4,
+    0xe2e5,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `text-slash-outline`
   static const IconifyIconData textSlashOutline = IconifyIconData(IconData(
-    0xe2e5,
+    0xe2e6,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `text-slash-solid`
   static const IconifyIconData textSlashSolid = IconifyIconData(IconData(
-    0xe2e6,
+    0xe2e7,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `text-underline-outline`
   static const IconifyIconData textUnderlineOutline = IconifyIconData(IconData(
-    0xe2e7,
+    0xe2e8,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `theatre-outline`
   static const IconifyIconData theatreOutline = IconifyIconData(IconData(
-    0xe2e8,
+    0xe2e9,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `theatre-solid`
   static const IconifyIconData theatreSolid = IconifyIconData(IconData(
-    0xe2e9,
+    0xe2ea,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `thumbs-down-outline`
   static const IconifyIconData thumbsDownOutline = IconifyIconData(IconData(
-    0xe2ea,
+    0xe2eb,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `thumbs-down-solid`
   static const IconifyIconData thumbsDownSolid = IconifyIconData(IconData(
-    0xe2eb,
+    0xe2ec,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `thumbs-up-outline`
   static const IconifyIconData thumbsUpOutline = IconifyIconData(IconData(
-    0xe2ec,
+    0xe2ed,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `thumbs-up-solid`
   static const IconifyIconData thumbsUpSolid = IconifyIconData(IconData(
-    0xe2ed,
+    0xe2ee,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `thumbtack-outline`
   static const IconifyIconData thumbtackOutline = IconifyIconData(IconData(
-    0xe2ee,
+    0xe2ef,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `thumbtack-solid`
   static const IconifyIconData thumbtackSolid = IconifyIconData(IconData(
-    0xe2ef,
+    0xe2f0,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `ticket-outline`
   static const IconifyIconData ticketOutline = IconifyIconData(IconData(
-    0xe2f0,
+    0xe2f1,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `ticket-solid`
   static const IconifyIconData ticketSolid = IconifyIconData(IconData(
-    0xe2f1,
+    0xe2f2,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `toggle-header-cell-outline`
   static const IconifyIconData toggleHeaderCellOutline = IconifyIconData(IconData(
-    0xe2f2,
+    0xe2f3,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `toggle-header-column-outline`
   static const IconifyIconData toggleHeaderColumnOutline = IconifyIconData(IconData(
-    0xe2f3,
+    0xe2f4,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `toggle-header-row-outline`
   static const IconifyIconData toggleHeaderRowOutline = IconifyIconData(IconData(
-    0xe2f4,
+    0xe2f5,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `tools-outline`
   static const IconifyIconData toolsOutline = IconifyIconData(IconData(
-    0xe2f5,
+    0xe2f6,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `tracking-outline`
   static const IconifyIconData trackingOutline = IconifyIconData(IconData(
-    0xe2f6,
+    0xe2f7,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `tracking-solid`
   static const IconifyIconData trackingSolid = IconifyIconData(IconData(
-    0xe2f7,
+    0xe2f8,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `trash-bin-outline`
   static const IconifyIconData trashBinOutline = IconifyIconData(IconData(
-    0xe2f8,
+    0xe2f9,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `trash-bin-solid`
   static const IconifyIconData trashBinSolid = IconifyIconData(IconData(
-    0xe2f9,
+    0xe2fa,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `truck-clock-outline`
   static const IconifyIconData truckClockOutline = IconifyIconData(IconData(
-    0xe2fa,
+    0xe2fb,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `truck-clock-solid`
   static const IconifyIconData truckClockSolid = IconifyIconData(IconData(
-    0xe2fb,
+    0xe2fc,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `truck-outline`
   static const IconifyIconData truckOutline = IconifyIconData(IconData(
-    0xe2fc,
+    0xe2fd,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `truck-solid`
   static const IconifyIconData truckSolid = IconifyIconData(IconData(
-    0xe2fd,
+    0xe2fe,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `twitter-solid`
   static const IconifyIconData twitterSolid = IconifyIconData(IconData(
-    0xe2fe,
+    0xe2ff,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `undo-outline`
   static const IconifyIconData undoOutline = IconifyIconData(IconData(
-    0xe2ff,
+    0xe300,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `undo-solid`
   static const IconifyIconData undoSolid = IconifyIconData(IconData(
-    0xe300,
+    0xe301,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `upload-outline`
   static const IconifyIconData uploadOutline = IconifyIconData(IconData(
-    0xe301,
+    0xe302,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `upload-solid`
   static const IconifyIconData uploadSolid = IconifyIconData(IconData(
-    0xe302,
+    0xe303,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `user-add-outline`
   static const IconifyIconData userAddOutline = IconifyIconData(IconData(
-    0xe303,
+    0xe304,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `user-add-solid`
   static const IconifyIconData userAddSolid = IconifyIconData(IconData(
-    0xe304,
+    0xe305,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `user-circle-outline`
   static const IconifyIconData userCircleOutline = IconifyIconData(IconData(
-    0xe305,
+    0xe306,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `user-circle-solid`
   static const IconifyIconData userCircleSolid = IconifyIconData(IconData(
-    0xe306,
+    0xe307,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `user-edit-outline`
   static const IconifyIconData userEditOutline = IconifyIconData(IconData(
-    0xe307,
+    0xe308,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `user-edit-solid`
   static const IconifyIconData userEditSolid = IconifyIconData(IconData(
-    0xe308,
+    0xe309,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `user-graduate-outline`
   static const IconifyIconData userGraduateOutline = IconifyIconData(IconData(
-    0xe309,
+    0xe30a,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `user-graduate-solid`
   static const IconifyIconData userGraduateSolid = IconifyIconData(IconData(
-    0xe30a,
+    0xe30b,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `user-headset-outline`
   static const IconifyIconData userHeadsetOutline = IconifyIconData(IconData(
-    0xe30b,
+    0xe30c,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `user-headset-solid`
   static const IconifyIconData userHeadsetSolid = IconifyIconData(IconData(
-    0xe30c,
+    0xe30d,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `user-outline`
   static const IconifyIconData userOutline = IconifyIconData(IconData(
-    0xe30d,
+    0xe30e,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `user-remove-outline`
   static const IconifyIconData userRemoveOutline = IconifyIconData(IconData(
-    0xe30e,
+    0xe30f,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `user-remove-solid`
   static const IconifyIconData userRemoveSolid = IconifyIconData(IconData(
-    0xe30f,
+    0xe310,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `user-settings-outline`
   static const IconifyIconData userSettingsOutline = IconifyIconData(IconData(
-    0xe310,
+    0xe311,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `user-settings-solid`
   static const IconifyIconData userSettingsSolid = IconifyIconData(IconData(
-    0xe311,
+    0xe312,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `user-solid`
   static const IconifyIconData userSolid = IconifyIconData(IconData(
-    0xe312,
+    0xe313,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `users-group-outline`
   static const IconifyIconData usersGroupOutline = IconifyIconData(IconData(
-    0xe313,
+    0xe314,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `users-group-solid`
   static const IconifyIconData usersGroupSolid = IconifyIconData(IconData(
-    0xe314,
+    0xe315,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `users-outline`
   static const IconifyIconData usersOutline = IconifyIconData(IconData(
-    0xe315,
+    0xe316,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `users-solid`
   static const IconifyIconData usersSolid = IconifyIconData(IconData(
-    0xe316,
+    0xe317,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `video-camera-outline`
   static const IconifyIconData videoCameraOutline = IconifyIconData(IconData(
-    0xe317,
+    0xe318,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `video-camera-solid`
   static const IconifyIconData videoCameraSolid = IconifyIconData(IconData(
-    0xe318,
+    0xe319,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `visa-solid`
   static const IconifyIconData visaSolid = IconifyIconData(IconData(
-    0xe319,
+    0xe31a,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `volume-down-outline`
   static const IconifyIconData volumeDownOutline = IconifyIconData(IconData(
-    0xe31a,
+    0xe31b,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `volume-down-solid`
   static const IconifyIconData volumeDownSolid = IconifyIconData(IconData(
-    0xe31b,
+    0xe31c,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `volume-mute-outline`
   static const IconifyIconData volumeMuteOutline = IconifyIconData(IconData(
-    0xe31c,
+    0xe31d,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `volume-mute-solid`
   static const IconifyIconData volumeMuteSolid = IconifyIconData(IconData(
-    0xe31d,
+    0xe31e,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `volume-up-outline`
   static const IconifyIconData volumeUpOutline = IconifyIconData(IconData(
-    0xe31e,
+    0xe31f,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `volume-up-solid`
   static const IconifyIconData volumeUpSolid = IconifyIconData(IconData(
-    0xe31f,
+    0xe320,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `vue-solid`
   static const IconifyIconData vueSolid = IconifyIconData(IconData(
-    0xe320,
+    0xe321,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `wallet-outline`
   static const IconifyIconData walletOutline = IconifyIconData(IconData(
-    0xe321,
+    0xe322,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `wallet-solid`
   static const IconifyIconData walletSolid = IconifyIconData(IconData(
-    0xe322,
+    0xe323,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `wand-magic-sparkles-outline`
   static const IconifyIconData wandMagicSparklesOutline = IconifyIconData(IconData(
-    0xe323,
+    0xe324,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `wand-magic-sparkles-solid`
   static const IconifyIconData wandMagicSparklesSolid = IconifyIconData(IconData(
-    0xe324,
+    0xe325,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `water-bottle-outline`
   static const IconifyIconData waterBottleOutline = IconifyIconData(IconData(
-    0xe325,
+    0xe326,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `water-bottle-solid`
   static const IconifyIconData waterBottleSolid = IconifyIconData(IconData(
-    0xe326,
+    0xe327,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `whatsapp-solid`
   static const IconifyIconData whatsappSolid = IconifyIconData(IconData(
-    0xe327,
+    0xe328,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `wheat-exclamation-outline`
   static const IconifyIconData wheatExclamationOutline = IconifyIconData(IconData(
-    0xe328,
+    0xe329,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `wheat-outline`
   static const IconifyIconData wheatOutline = IconifyIconData(IconData(
-    0xe329,
+    0xe32a,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `whiskey-glass-outline`
   static const IconifyIconData whiskeyGlassOutline = IconifyIconData(IconData(
-    0xe32a,
+    0xe32b,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `whiskey-glass-solid`
   static const IconifyIconData whiskeyGlassSolid = IconifyIconData(IconData(
-    0xe32b,
+    0xe32c,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `window-outline`
   static const IconifyIconData windowOutline = IconifyIconData(IconData(
-    0xe32c,
+    0xe32d,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `window-restore-solid`
   static const IconifyIconData windowRestoreSolid = IconifyIconData(IconData(
-    0xe32d,
+    0xe32e,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `window-solid`
   static const IconifyIconData windowSolid = IconifyIconData(IconData(
-    0xe32e,
+    0xe32f,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `windows-solid`
   static const IconifyIconData windowsSolid = IconifyIconData(IconData(
-    0xe32f,
+    0xe330,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `wine-bottle-outline`
   static const IconifyIconData wineBottleOutline = IconifyIconData(IconData(
-    0xe330,
+    0xe331,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `wine-bottle-solid`
   static const IconifyIconData wineBottleSolid = IconifyIconData(IconData(
-    0xe331,
+    0xe332,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `wine-glass-empty-outline`
   static const IconifyIconData wineGlassEmptyOutline = IconifyIconData(IconData(
-    0xe332,
+    0xe333,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `wine-glass-empty-solid`
   static const IconifyIconData wineGlassEmptySolid = IconifyIconData(IconData(
-    0xe333,
+    0xe334,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `wine-glass-outline`
   static const IconifyIconData wineGlassOutline = IconifyIconData(IconData(
-    0xe334,
+    0xe335,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `wine-glass-solid`
   static const IconifyIconData wineGlassSolid = IconifyIconData(IconData(
-    0xe335,
+    0xe336,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `x-circle-outline`
   static const IconifyIconData xCircleOutline = IconifyIconData(IconData(
-    0xe336,
+    0xe337,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `x-circle-solid`
   static const IconifyIconData xCircleSolid = IconifyIconData(IconData(
-    0xe337,
+    0xe338,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `x-company-solid`
   static const IconifyIconData xCompanySolid = IconifyIconData(IconData(
-    0xe338,
+    0xe339,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `x-outline`
   static const IconifyIconData xOutline = IconifyIconData(IconData(
-    0xe339,
+    0xe33a,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `x-solid`
   static const IconifyIconData xSolid = IconifyIconData(IconData(
-    0xe33a,
+    0xe33b,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `youtube-solid`
   static const IconifyIconData youtubeSolid = IconifyIconData(IconData(
-    0xe33b,
+    0xe33c,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `zoom-in-outline`
   static const IconifyIconData zoomInOutline = IconifyIconData(IconData(
-    0xe33c,
+    0xe33d,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `zoom-in-solid`
   static const IconifyIconData zoomInSolid = IconifyIconData(IconData(
-    0xe33d,
+    0xe33e,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `zoom-out-outline`
   static const IconifyIconData zoomOutOutline = IconifyIconData(IconData(
-    0xe33e,
+    0xe33f,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));
 
   /// `zoom-out-solid`
   static const IconifyIconData zoomOutSolid = IconifyIconData(IconData(
-    0xe33f,
+    0xe340,
     fontFamily: 'Flowbite',
     fontPackage: 'iconifyx_flowbite',
   ));

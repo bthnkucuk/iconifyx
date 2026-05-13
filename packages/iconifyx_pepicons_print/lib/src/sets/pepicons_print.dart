@@ -6241,7700 +6241,7700 @@ class PepiconsPrintIcons {
 
   /// `handshake`
   static const IconifyIconData handshake = IconifyIconData(IconData(
-    0xe4fc,
+    0xe231,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `handshake-circle`
   static const IconifyIconData handshakeCircle = IconifyIconData(IconData(
-    0xe4fd,
+    0xe232,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `handshake-circle-filled` — primary layer (full opacity)
   static const IconifyIconData handshakeCircleFilledPrimary = IconifyIconData(IconData(
-    0xe4fe,
+    0xe233,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `handshake-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData handshakeCircleFilledSecondary = IconifyIconData(IconData(
-    0xe4fe,
+    0xe233,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `handshake-circle-off`
   static const IconifyIconData handshakeCircleOff = IconifyIconData(IconData(
-    0xe4ff,
+    0xe234,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `handshake-off`
   static const IconifyIconData handshakeOff = IconifyIconData(IconData(
-    0xe500,
+    0xe235,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `hash`
   static const IconifyIconData hash = IconifyIconData(IconData(
-    0xe231,
+    0xe236,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `hash-circle`
   static const IconifyIconData hashCircle = IconifyIconData(IconData(
-    0xe232,
+    0xe237,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `hash-circle-filled`
   static const IconifyIconData hashCircleFilled = IconifyIconData(IconData(
-    0xe233,
+    0xe238,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `hash-circle-off`
   static const IconifyIconData hashCircleOff = IconifyIconData(IconData(
-    0xe234,
+    0xe239,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `hash-off`
   static const IconifyIconData hashOff = IconifyIconData(IconData(
-    0xe235,
+    0xe23a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `headphone` — primary layer (full opacity)
   static const IconifyIconData headphonePrimary = IconifyIconData(IconData(
-    0xe236,
+    0xe23b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `headphone` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData headphoneSecondary = IconifyIconData(IconData(
-    0xe236,
+    0xe23b,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `headphone-circle` — primary layer (full opacity)
   static const IconifyIconData headphoneCirclePrimary = IconifyIconData(IconData(
-    0xe237,
+    0xe23c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `headphone-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData headphoneCircleSecondary = IconifyIconData(IconData(
-    0xe237,
+    0xe23c,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `headphone-circle-filled` — primary layer (full opacity)
   static const IconifyIconData headphoneCircleFilledPrimary = IconifyIconData(IconData(
-    0xe238,
+    0xe23d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `headphone-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData headphoneCircleFilledSecondary = IconifyIconData(IconData(
-    0xe238,
+    0xe23d,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `headphone-circle-off` — primary layer (full opacity)
   static const IconifyIconData headphoneCircleOffPrimary = IconifyIconData(IconData(
-    0xe239,
+    0xe23e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `headphone-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData headphoneCircleOffSecondary = IconifyIconData(IconData(
-    0xe239,
+    0xe23e,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `headphone-off` — primary layer (full opacity)
   static const IconifyIconData headphoneOffPrimary = IconifyIconData(IconData(
-    0xe23a,
+    0xe23f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `headphone-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData headphoneOffSecondary = IconifyIconData(IconData(
-    0xe23a,
+    0xe23f,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `heart` — primary layer (full opacity)
   static const IconifyIconData heartPrimary = IconifyIconData(IconData(
-    0xe23b,
+    0xe240,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `heart` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData heartSecondary = IconifyIconData(IconData(
-    0xe23b,
+    0xe240,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `heart-circle` — primary layer (full opacity)
   static const IconifyIconData heartCirclePrimary = IconifyIconData(IconData(
-    0xe23c,
+    0xe241,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `heart-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData heartCircleSecondary = IconifyIconData(IconData(
-    0xe23c,
+    0xe241,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `heart-circle-filled` — primary layer (full opacity)
   static const IconifyIconData heartCircleFilledPrimary = IconifyIconData(IconData(
-    0xe23d,
+    0xe242,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `heart-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData heartCircleFilledSecondary = IconifyIconData(IconData(
-    0xe23d,
+    0xe242,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `heart-circle-off` — primary layer (full opacity)
   static const IconifyIconData heartCircleOffPrimary = IconifyIconData(IconData(
-    0xe23e,
+    0xe243,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `heart-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData heartCircleOffSecondary = IconifyIconData(IconData(
-    0xe23e,
+    0xe243,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `heart-filled` — primary layer (full opacity)
   static const IconifyIconData heartFilledPrimary = IconifyIconData(IconData(
-    0xe23f,
+    0xe244,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `heart-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData heartFilledSecondary = IconifyIconData(IconData(
-    0xe23f,
+    0xe244,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `heart-filled-circle` — primary layer (full opacity)
   static const IconifyIconData heartFilledCirclePrimary = IconifyIconData(IconData(
-    0xe240,
+    0xe245,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `heart-filled-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData heartFilledCircleSecondary = IconifyIconData(IconData(
-    0xe240,
+    0xe245,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `heart-filled-circle-filled` — primary layer (full opacity)
   static const IconifyIconData heartFilledCircleFilledPrimary = IconifyIconData(IconData(
-    0xe241,
+    0xe246,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `heart-filled-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData heartFilledCircleFilledSecondary = IconifyIconData(IconData(
-    0xe241,
+    0xe246,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `heart-filled-circle-off` — primary layer (full opacity)
   static const IconifyIconData heartFilledCircleOffPrimary = IconifyIconData(IconData(
-    0xe242,
+    0xe247,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `heart-filled-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData heartFilledCircleOffSecondary = IconifyIconData(IconData(
-    0xe242,
+    0xe247,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `heart-filled-off` — primary layer (full opacity)
   static const IconifyIconData heartFilledOffPrimary = IconifyIconData(IconData(
-    0xe243,
+    0xe248,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `heart-filled-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData heartFilledOffSecondary = IconifyIconData(IconData(
-    0xe243,
+    0xe248,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `heart-off` — primary layer (full opacity)
   static const IconifyIconData heartOffPrimary = IconifyIconData(IconData(
-    0xe244,
+    0xe249,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `heart-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData heartOffSecondary = IconifyIconData(IconData(
-    0xe244,
+    0xe249,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `hospital`
   static const IconifyIconData hospital = IconifyIconData(IconData(
-    0xe245,
+    0xe24a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `hospital-circle`
   static const IconifyIconData hospitalCircle = IconifyIconData(IconData(
-    0xe246,
+    0xe24b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `hospital-circle-filled` — primary layer (full opacity)
   static const IconifyIconData hospitalCircleFilledPrimary = IconifyIconData(IconData(
-    0xe247,
+    0xe24c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `hospital-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData hospitalCircleFilledSecondary = IconifyIconData(IconData(
-    0xe247,
+    0xe24c,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `hospital-circle-off`
   static const IconifyIconData hospitalCircleOff = IconifyIconData(IconData(
-    0xe248,
+    0xe24d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `hospital-off`
   static const IconifyIconData hospitalOff = IconifyIconData(IconData(
-    0xe249,
+    0xe24e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `hourglass`
   static const IconifyIconData hourglass = IconifyIconData(IconData(
-    0xe24a,
+    0xe24f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `hourglass-circle`
   static const IconifyIconData hourglassCircle = IconifyIconData(IconData(
-    0xe24b,
+    0xe250,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `hourglass-circle-filled`
   static const IconifyIconData hourglassCircleFilled = IconifyIconData(IconData(
-    0xe24c,
+    0xe251,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `hourglass-circle-off`
   static const IconifyIconData hourglassCircleOff = IconifyIconData(IconData(
-    0xe24d,
+    0xe252,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `hourglass-off`
   static const IconifyIconData hourglassOff = IconifyIconData(IconData(
-    0xe24e,
+    0xe253,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `house` — primary layer (full opacity)
   static const IconifyIconData housePrimary = IconifyIconData(IconData(
-    0xe24f,
+    0xe254,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `house` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData houseSecondary = IconifyIconData(IconData(
-    0xe24f,
+    0xe254,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `house-circle` — primary layer (full opacity)
   static const IconifyIconData houseCirclePrimary = IconifyIconData(IconData(
-    0xe250,
+    0xe255,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `house-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData houseCircleSecondary = IconifyIconData(IconData(
-    0xe250,
+    0xe255,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `house-circle-filled`
   static const IconifyIconData houseCircleFilled = IconifyIconData(IconData(
-    0xe251,
+    0xe256,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `house-circle-off` — primary layer (full opacity)
   static const IconifyIconData houseCircleOffPrimary = IconifyIconData(IconData(
-    0xe252,
+    0xe257,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `house-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData houseCircleOffSecondary = IconifyIconData(IconData(
-    0xe252,
+    0xe257,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `house-off` — primary layer (full opacity)
   static const IconifyIconData houseOffPrimary = IconifyIconData(IconData(
-    0xe253,
+    0xe258,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `house-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData houseOffSecondary = IconifyIconData(IconData(
-    0xe253,
+    0xe258,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `identification` — primary layer (full opacity)
   static const IconifyIconData identificationPrimary = IconifyIconData(IconData(
-    0xe254,
+    0xe259,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `identification` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData identificationSecondary = IconifyIconData(IconData(
-    0xe254,
+    0xe259,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `identification-circle` — primary layer (full opacity)
   static const IconifyIconData identificationCirclePrimary = IconifyIconData(IconData(
-    0xe255,
+    0xe25a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `identification-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData identificationCircleSecondary = IconifyIconData(IconData(
-    0xe255,
+    0xe25a,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `identification-circle-filled` — primary layer (full opacity)
   static const IconifyIconData identificationCircleFilledPrimary = IconifyIconData(IconData(
-    0xe256,
+    0xe25b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `identification-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData identificationCircleFilledSecondary = IconifyIconData(IconData(
-    0xe256,
+    0xe25b,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `identification-circle-off` — primary layer (full opacity)
   static const IconifyIconData identificationCircleOffPrimary = IconifyIconData(IconData(
-    0xe257,
+    0xe25c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `identification-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData identificationCircleOffSecondary = IconifyIconData(IconData(
-    0xe257,
+    0xe25c,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `identification-off` — primary layer (full opacity)
   static const IconifyIconData identificationOffPrimary = IconifyIconData(IconData(
-    0xe258,
+    0xe25d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `identification-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData identificationOffSecondary = IconifyIconData(IconData(
-    0xe258,
+    0xe25d,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `info`
   static const IconifyIconData info = IconifyIconData(IconData(
-    0xe259,
+    0xe25e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `info-circle`
   static const IconifyIconData infoCircle = IconifyIconData(IconData(
-    0xe25a,
+    0xe25f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `info-circle-filled` — primary layer (full opacity)
   static const IconifyIconData infoCircleFilledPrimary = IconifyIconData(IconData(
-    0xe25b,
+    0xe260,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `info-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData infoCircleFilledSecondary = IconifyIconData(IconData(
-    0xe25b,
+    0xe260,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `info-circle-off`
   static const IconifyIconData infoCircleOff = IconifyIconData(IconData(
-    0xe25c,
+    0xe261,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `info-off`
   static const IconifyIconData infoOff = IconifyIconData(IconData(
-    0xe25d,
+    0xe262,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `internet` — primary layer (full opacity)
   static const IconifyIconData internetPrimary = IconifyIconData(IconData(
-    0xe25e,
+    0xe263,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `internet` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData internetSecondary = IconifyIconData(IconData(
-    0xe25e,
+    0xe263,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `internet-circle` — primary layer (full opacity)
   static const IconifyIconData internetCirclePrimary = IconifyIconData(IconData(
-    0xe25f,
+    0xe264,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `internet-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData internetCircleSecondary = IconifyIconData(IconData(
-    0xe25f,
+    0xe264,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `internet-circle-filled` — primary layer (full opacity)
   static const IconifyIconData internetCircleFilledPrimary = IconifyIconData(IconData(
-    0xe260,
+    0xe265,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `internet-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData internetCircleFilledSecondary = IconifyIconData(IconData(
-    0xe260,
+    0xe265,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `internet-circle-off` — primary layer (full opacity)
   static const IconifyIconData internetCircleOffPrimary = IconifyIconData(IconData(
-    0xe261,
+    0xe266,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `internet-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData internetCircleOffSecondary = IconifyIconData(IconData(
-    0xe261,
+    0xe266,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `internet-off` — primary layer (full opacity)
   static const IconifyIconData internetOffPrimary = IconifyIconData(IconData(
-    0xe262,
+    0xe267,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `internet-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData internetOffSecondary = IconifyIconData(IconData(
-    0xe262,
+    0xe267,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `key` — primary layer (full opacity)
   static const IconifyIconData keyPrimary = IconifyIconData(IconData(
-    0xe263,
+    0xe268,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `key` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData keySecondary = IconifyIconData(IconData(
-    0xe263,
+    0xe268,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `key-circle` — primary layer (full opacity)
   static const IconifyIconData keyCirclePrimary = IconifyIconData(IconData(
-    0xe264,
+    0xe269,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `key-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData keyCircleSecondary = IconifyIconData(IconData(
-    0xe264,
+    0xe269,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `key-circle-filled`
   static const IconifyIconData keyCircleFilled = IconifyIconData(IconData(
-    0xe265,
+    0xe26a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `key-circle-off` — primary layer (full opacity)
   static const IconifyIconData keyCircleOffPrimary = IconifyIconData(IconData(
-    0xe266,
+    0xe26b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `key-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData keyCircleOffSecondary = IconifyIconData(IconData(
-    0xe266,
+    0xe26b,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `key-off` — primary layer (full opacity)
   static const IconifyIconData keyOffPrimary = IconifyIconData(IconData(
-    0xe267,
+    0xe26c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `key-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData keyOffSecondary = IconifyIconData(IconData(
-    0xe267,
+    0xe26c,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `keyboard`
   static const IconifyIconData keyboard = IconifyIconData(IconData(
-    0xe268,
+    0xe26d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `keyboard-circle`
   static const IconifyIconData keyboardCircle = IconifyIconData(IconData(
-    0xe269,
+    0xe26e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `keyboard-circle-filled` — primary layer (full opacity)
   static const IconifyIconData keyboardCircleFilledPrimary = IconifyIconData(IconData(
-    0xe26a,
+    0xe26f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `keyboard-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData keyboardCircleFilledSecondary = IconifyIconData(IconData(
-    0xe26a,
+    0xe26f,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `keyboard-circle-off`
   static const IconifyIconData keyboardCircleOff = IconifyIconData(IconData(
-    0xe26b,
+    0xe270,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `keyboard-off`
   static const IconifyIconData keyboardOff = IconifyIconData(IconData(
-    0xe26c,
+    0xe271,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `knive-fork` — primary layer (full opacity)
   static const IconifyIconData kniveForkPrimary = IconifyIconData(IconData(
-    0xe26d,
+    0xe272,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `knive-fork` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData kniveForkSecondary = IconifyIconData(IconData(
-    0xe26d,
+    0xe272,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `knive-fork-circle` — primary layer (full opacity)
   static const IconifyIconData kniveForkCirclePrimary = IconifyIconData(IconData(
-    0xe26e,
+    0xe273,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `knive-fork-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData kniveForkCircleSecondary = IconifyIconData(IconData(
-    0xe26e,
+    0xe273,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `knive-fork-circle-filled` — primary layer (full opacity)
   static const IconifyIconData kniveForkCircleFilledPrimary = IconifyIconData(IconData(
-    0xe26f,
+    0xe274,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `knive-fork-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData kniveForkCircleFilledSecondary = IconifyIconData(IconData(
-    0xe26f,
+    0xe274,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `knive-fork-circle-off` — primary layer (full opacity)
   static const IconifyIconData kniveForkCircleOffPrimary = IconifyIconData(IconData(
-    0xe270,
+    0xe275,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `knive-fork-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData kniveForkCircleOffSecondary = IconifyIconData(IconData(
-    0xe270,
+    0xe275,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `knive-fork-off` — primary layer (full opacity)
   static const IconifyIconData kniveForkOffPrimary = IconifyIconData(IconData(
-    0xe271,
+    0xe276,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `knive-fork-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData kniveForkOffSecondary = IconifyIconData(IconData(
-    0xe271,
+    0xe276,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `label`
   static const IconifyIconData label = IconifyIconData(IconData(
-    0xe272,
+    0xe277,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `label-circle`
   static const IconifyIconData labelCircle = IconifyIconData(IconData(
-    0xe273,
+    0xe278,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `label-circle-filled`
   static const IconifyIconData labelCircleFilled = IconifyIconData(IconData(
-    0xe274,
+    0xe279,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `label-circle-off`
   static const IconifyIconData labelCircleOff = IconifyIconData(IconData(
-    0xe275,
+    0xe27a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `label-off`
   static const IconifyIconData labelOff = IconifyIconData(IconData(
-    0xe276,
+    0xe27b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `leaf`
   static const IconifyIconData leaf = IconifyIconData(IconData(
-    0xe277,
+    0xe27c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `leaf-circle`
   static const IconifyIconData leafCircle = IconifyIconData(IconData(
-    0xe278,
+    0xe27d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `leaf-circle-filled`
   static const IconifyIconData leafCircleFilled = IconifyIconData(IconData(
-    0xe279,
+    0xe27e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `leaf-circle-off`
   static const IconifyIconData leafCircleOff = IconifyIconData(IconData(
-    0xe27a,
+    0xe27f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `leaf-off`
   static const IconifyIconData leafOff = IconifyIconData(IconData(
-    0xe27b,
+    0xe280,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `leave` — primary layer (full opacity)
   static const IconifyIconData leavePrimary = IconifyIconData(IconData(
-    0xe27c,
+    0xe281,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `leave` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData leaveSecondary = IconifyIconData(IconData(
-    0xe27c,
+    0xe281,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `leave-circle` — primary layer (full opacity)
   static const IconifyIconData leaveCirclePrimary = IconifyIconData(IconData(
-    0xe27d,
+    0xe282,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `leave-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData leaveCircleSecondary = IconifyIconData(IconData(
-    0xe27d,
+    0xe282,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `leave-circle-filled`
   static const IconifyIconData leaveCircleFilled = IconifyIconData(IconData(
-    0xe27e,
+    0xe283,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `leave-circle-off` — primary layer (full opacity)
   static const IconifyIconData leaveCircleOffPrimary = IconifyIconData(IconData(
-    0xe27f,
+    0xe284,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `leave-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData leaveCircleOffSecondary = IconifyIconData(IconData(
-    0xe27f,
+    0xe284,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `leave-off` — primary layer (full opacity)
   static const IconifyIconData leaveOffPrimary = IconifyIconData(IconData(
-    0xe280,
+    0xe285,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `leave-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData leaveOffSecondary = IconifyIconData(IconData(
-    0xe280,
+    0xe285,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `letter` — primary layer (full opacity)
   static const IconifyIconData letterPrimary = IconifyIconData(IconData(
-    0xe281,
+    0xe286,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `letter` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData letterSecondary = IconifyIconData(IconData(
-    0xe281,
+    0xe286,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `letter-circle`
   static const IconifyIconData letterCircle = IconifyIconData(IconData(
-    0xe282,
+    0xe287,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `letter-circle-filled`
   static const IconifyIconData letterCircleFilled = IconifyIconData(IconData(
-    0xe283,
+    0xe288,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `letter-circle-off`
   static const IconifyIconData letterCircleOff = IconifyIconData(IconData(
-    0xe284,
+    0xe289,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `letter-off` — primary layer (full opacity)
   static const IconifyIconData letterOffPrimary = IconifyIconData(IconData(
-    0xe285,
+    0xe28a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `letter-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData letterOffSecondary = IconifyIconData(IconData(
-    0xe285,
+    0xe28a,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `letter-open` — primary layer (full opacity)
   static const IconifyIconData letterOpenPrimary = IconifyIconData(IconData(
-    0xe286,
+    0xe28b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `letter-open` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData letterOpenSecondary = IconifyIconData(IconData(
-    0xe286,
+    0xe28b,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `letter-open-circle` — primary layer (full opacity)
   static const IconifyIconData letterOpenCirclePrimary = IconifyIconData(IconData(
-    0xe287,
+    0xe28c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `letter-open-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData letterOpenCircleSecondary = IconifyIconData(IconData(
-    0xe287,
+    0xe28c,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `letter-open-circle-filled`
   static const IconifyIconData letterOpenCircleFilled = IconifyIconData(IconData(
-    0xe288,
+    0xe28d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `letter-open-circle-off` — primary layer (full opacity)
   static const IconifyIconData letterOpenCircleOffPrimary = IconifyIconData(IconData(
-    0xe289,
+    0xe28e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `letter-open-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData letterOpenCircleOffSecondary = IconifyIconData(IconData(
-    0xe289,
+    0xe28e,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `letter-open-off` — primary layer (full opacity)
   static const IconifyIconData letterOpenOffPrimary = IconifyIconData(IconData(
-    0xe28a,
+    0xe28f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `letter-open-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData letterOpenOffSecondary = IconifyIconData(IconData(
-    0xe28a,
+    0xe28f,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-slant-down` — primary layer (full opacity)
   static const IconifyIconData lineSlantDownPrimary = IconifyIconData(IconData(
-    0xe28b,
+    0xe290,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-slant-down` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lineSlantDownSecondary = IconifyIconData(IconData(
-    0xe28b,
+    0xe290,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-slant-down-circle` — primary layer (full opacity)
   static const IconifyIconData lineSlantDownCirclePrimary = IconifyIconData(IconData(
-    0xe28c,
+    0xe291,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-slant-down-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lineSlantDownCircleSecondary = IconifyIconData(IconData(
-    0xe28c,
+    0xe291,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-slant-down-circle-filled` — primary layer (full opacity)
   static const IconifyIconData lineSlantDownCircleFilledPrimary = IconifyIconData(IconData(
-    0xe28d,
+    0xe292,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-slant-down-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lineSlantDownCircleFilledSecondary = IconifyIconData(IconData(
-    0xe28d,
+    0xe292,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-slant-down-circle-off`
   static const IconifyIconData lineSlantDownCircleOff = IconifyIconData(IconData(
-    0xe28e,
+    0xe293,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-slant-down-off`
   static const IconifyIconData lineSlantDownOff = IconifyIconData(IconData(
-    0xe28f,
+    0xe294,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-slant-up` — primary layer (full opacity)
   static const IconifyIconData lineSlantUpPrimary = IconifyIconData(IconData(
-    0xe290,
+    0xe295,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-slant-up` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lineSlantUpSecondary = IconifyIconData(IconData(
-    0xe290,
+    0xe295,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-slant-up-circle` — primary layer (full opacity)
   static const IconifyIconData lineSlantUpCirclePrimary = IconifyIconData(IconData(
-    0xe291,
+    0xe296,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-slant-up-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lineSlantUpCircleSecondary = IconifyIconData(IconData(
-    0xe291,
+    0xe296,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-slant-up-circle-filled` — primary layer (full opacity)
   static const IconifyIconData lineSlantUpCircleFilledPrimary = IconifyIconData(IconData(
-    0xe292,
+    0xe297,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-slant-up-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lineSlantUpCircleFilledSecondary = IconifyIconData(IconData(
-    0xe292,
+    0xe297,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-slant-up-circle-off`
   static const IconifyIconData lineSlantUpCircleOff = IconifyIconData(IconData(
-    0xe293,
+    0xe298,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-slant-up-off`
   static const IconifyIconData lineSlantUpOff = IconifyIconData(IconData(
-    0xe294,
+    0xe299,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-x` — primary layer (full opacity)
   static const IconifyIconData lineXPrimary = IconifyIconData(IconData(
-    0xe295,
+    0xe29a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-x` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lineXSecondary = IconifyIconData(IconData(
-    0xe295,
+    0xe29a,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-x-circle` — primary layer (full opacity)
   static const IconifyIconData lineXCirclePrimary = IconifyIconData(IconData(
-    0xe296,
+    0xe29b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-x-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lineXCircleSecondary = IconifyIconData(IconData(
-    0xe296,
+    0xe29b,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-x-circle-filled` — primary layer (full opacity)
   static const IconifyIconData lineXCircleFilledPrimary = IconifyIconData(IconData(
-    0xe297,
+    0xe29c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-x-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lineXCircleFilledSecondary = IconifyIconData(IconData(
-    0xe297,
+    0xe29c,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-x-circle-off` — primary layer (full opacity)
   static const IconifyIconData lineXCircleOffPrimary = IconifyIconData(IconData(
-    0xe298,
+    0xe29d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-x-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lineXCircleOffSecondary = IconifyIconData(IconData(
-    0xe298,
+    0xe29d,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-x-off` — primary layer (full opacity)
   static const IconifyIconData lineXOffPrimary = IconifyIconData(IconData(
-    0xe299,
+    0xe29e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-x-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lineXOffSecondary = IconifyIconData(IconData(
-    0xe299,
+    0xe29e,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-y` — primary layer (full opacity)
   static const IconifyIconData lineYPrimary = IconifyIconData(IconData(
-    0xe29a,
+    0xe29f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-y` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lineYSecondary = IconifyIconData(IconData(
-    0xe29a,
+    0xe29f,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-y-circle` — primary layer (full opacity)
   static const IconifyIconData lineYCirclePrimary = IconifyIconData(IconData(
-    0xe29b,
+    0xe2a0,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-y-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lineYCircleSecondary = IconifyIconData(IconData(
-    0xe29b,
+    0xe2a0,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-y-circle-filled` — primary layer (full opacity)
   static const IconifyIconData lineYCircleFilledPrimary = IconifyIconData(IconData(
-    0xe29c,
+    0xe2a1,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-y-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lineYCircleFilledSecondary = IconifyIconData(IconData(
-    0xe29c,
+    0xe2a1,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-y-circle-off` — primary layer (full opacity)
   static const IconifyIconData lineYCircleOffPrimary = IconifyIconData(IconData(
-    0xe29d,
+    0xe2a2,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-y-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lineYCircleOffSecondary = IconifyIconData(IconData(
-    0xe29d,
+    0xe2a2,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-y-off` — primary layer (full opacity)
   static const IconifyIconData lineYOffPrimary = IconifyIconData(IconData(
-    0xe29e,
+    0xe2a3,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `line-y-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lineYOffSecondary = IconifyIconData(IconData(
-    0xe29e,
+    0xe2a3,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `list`
   static const IconifyIconData list = IconifyIconData(IconData(
-    0xe29f,
+    0xe2a4,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `list-circle`
   static const IconifyIconData listCircle = IconifyIconData(IconData(
-    0xe2a0,
+    0xe2a5,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `list-circle-filled` — primary layer (full opacity)
   static const IconifyIconData listCircleFilledPrimary = IconifyIconData(IconData(
-    0xe2a1,
+    0xe2a6,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `list-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData listCircleFilledSecondary = IconifyIconData(IconData(
-    0xe2a1,
+    0xe2a6,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `list-circle-off`
   static const IconifyIconData listCircleOff = IconifyIconData(IconData(
-    0xe2a2,
+    0xe2a7,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `list-off`
   static const IconifyIconData listOff = IconifyIconData(IconData(
-    0xe2a3,
+    0xe2a8,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `lock-closed` — primary layer (full opacity)
   static const IconifyIconData lockClosedPrimary = IconifyIconData(IconData(
-    0xe2a4,
+    0xe2a9,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `lock-closed` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lockClosedSecondary = IconifyIconData(IconData(
-    0xe2a4,
+    0xe2a9,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `lock-closed-circle` — primary layer (full opacity)
   static const IconifyIconData lockClosedCirclePrimary = IconifyIconData(IconData(
-    0xe2a5,
+    0xe2aa,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `lock-closed-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lockClosedCircleSecondary = IconifyIconData(IconData(
-    0xe2a5,
+    0xe2aa,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `lock-closed-circle-filled` — primary layer (full opacity)
   static const IconifyIconData lockClosedCircleFilledPrimary = IconifyIconData(IconData(
-    0xe2a6,
+    0xe2ab,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `lock-closed-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lockClosedCircleFilledSecondary = IconifyIconData(IconData(
-    0xe2a6,
+    0xe2ab,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `lock-closed-circle-off` — primary layer (full opacity)
   static const IconifyIconData lockClosedCircleOffPrimary = IconifyIconData(IconData(
-    0xe2a7,
+    0xe2ac,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `lock-closed-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lockClosedCircleOffSecondary = IconifyIconData(IconData(
-    0xe2a7,
+    0xe2ac,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `lock-closed-off` — primary layer (full opacity)
   static const IconifyIconData lockClosedOffPrimary = IconifyIconData(IconData(
-    0xe2a8,
+    0xe2ad,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `lock-closed-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lockClosedOffSecondary = IconifyIconData(IconData(
-    0xe2a8,
+    0xe2ad,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `lock-open` — primary layer (full opacity)
   static const IconifyIconData lockOpenPrimary = IconifyIconData(IconData(
-    0xe2a9,
+    0xe2ae,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `lock-open` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lockOpenSecondary = IconifyIconData(IconData(
-    0xe2a9,
+    0xe2ae,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `lock-open-circle` — primary layer (full opacity)
   static const IconifyIconData lockOpenCirclePrimary = IconifyIconData(IconData(
-    0xe2aa,
+    0xe2af,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `lock-open-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lockOpenCircleSecondary = IconifyIconData(IconData(
-    0xe2aa,
+    0xe2af,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `lock-open-circle-filled` — primary layer (full opacity)
   static const IconifyIconData lockOpenCircleFilledPrimary = IconifyIconData(IconData(
-    0xe2ab,
+    0xe2b0,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `lock-open-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lockOpenCircleFilledSecondary = IconifyIconData(IconData(
-    0xe2ab,
+    0xe2b0,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `lock-open-circle-off` — primary layer (full opacity)
   static const IconifyIconData lockOpenCircleOffPrimary = IconifyIconData(IconData(
-    0xe2ac,
+    0xe2b1,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `lock-open-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lockOpenCircleOffSecondary = IconifyIconData(IconData(
-    0xe2ac,
+    0xe2b1,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `lock-open-off` — primary layer (full opacity)
   static const IconifyIconData lockOpenOffPrimary = IconifyIconData(IconData(
-    0xe2ad,
+    0xe2b2,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `lock-open-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData lockOpenOffSecondary = IconifyIconData(IconData(
-    0xe2ad,
+    0xe2b2,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop` — primary layer (full opacity)
   static const IconifyIconData loopPrimary = IconifyIconData(IconData(
-    0xe2ae,
+    0xe2b3,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData loopSecondary = IconifyIconData(IconData(
-    0xe2ae,
+    0xe2b3,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-circle` — primary layer (full opacity)
   static const IconifyIconData loopCirclePrimary = IconifyIconData(IconData(
-    0xe2af,
+    0xe2b4,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData loopCircleSecondary = IconifyIconData(IconData(
-    0xe2af,
+    0xe2b4,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-circle-filled` — primary layer (full opacity)
   static const IconifyIconData loopCircleFilledPrimary = IconifyIconData(IconData(
-    0xe2b0,
+    0xe2b5,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData loopCircleFilledSecondary = IconifyIconData(IconData(
-    0xe2b0,
+    0xe2b5,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-circle-off` — primary layer (full opacity)
   static const IconifyIconData loopCircleOffPrimary = IconifyIconData(IconData(
-    0xe2b1,
+    0xe2b6,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData loopCircleOffSecondary = IconifyIconData(IconData(
-    0xe2b1,
+    0xe2b6,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-minus` — primary layer (full opacity)
   static const IconifyIconData loopMinusPrimary = IconifyIconData(IconData(
-    0xe2b2,
+    0xe2b7,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-minus` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData loopMinusSecondary = IconifyIconData(IconData(
-    0xe2b2,
+    0xe2b7,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-minus-circle` — primary layer (full opacity)
   static const IconifyIconData loopMinusCirclePrimary = IconifyIconData(IconData(
-    0xe2b3,
+    0xe2b8,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-minus-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData loopMinusCircleSecondary = IconifyIconData(IconData(
-    0xe2b3,
+    0xe2b8,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-minus-circle-filled` — primary layer (full opacity)
   static const IconifyIconData loopMinusCircleFilledPrimary = IconifyIconData(IconData(
-    0xe2b4,
+    0xe2b9,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-minus-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData loopMinusCircleFilledSecondary = IconifyIconData(IconData(
-    0xe2b4,
+    0xe2b9,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-minus-circle-off` — primary layer (full opacity)
   static const IconifyIconData loopMinusCircleOffPrimary = IconifyIconData(IconData(
-    0xe2b5,
+    0xe2ba,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-minus-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData loopMinusCircleOffSecondary = IconifyIconData(IconData(
-    0xe2b5,
+    0xe2ba,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-minus-off` — primary layer (full opacity)
   static const IconifyIconData loopMinusOffPrimary = IconifyIconData(IconData(
-    0xe2b6,
+    0xe2bb,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-minus-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData loopMinusOffSecondary = IconifyIconData(IconData(
-    0xe2b6,
+    0xe2bb,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-off` — primary layer (full opacity)
   static const IconifyIconData loopOffPrimary = IconifyIconData(IconData(
-    0xe2b7,
+    0xe2bc,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData loopOffSecondary = IconifyIconData(IconData(
-    0xe2b7,
+    0xe2bc,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-plus` — primary layer (full opacity)
   static const IconifyIconData loopPlusPrimary = IconifyIconData(IconData(
-    0xe2b8,
+    0xe2bd,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-plus` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData loopPlusSecondary = IconifyIconData(IconData(
-    0xe2b8,
+    0xe2bd,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-plus-circle` — primary layer (full opacity)
   static const IconifyIconData loopPlusCirclePrimary = IconifyIconData(IconData(
-    0xe2b9,
+    0xe2be,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-plus-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData loopPlusCircleSecondary = IconifyIconData(IconData(
-    0xe2b9,
+    0xe2be,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-plus-circle-filled` — primary layer (full opacity)
   static const IconifyIconData loopPlusCircleFilledPrimary = IconifyIconData(IconData(
-    0xe2ba,
+    0xe2bf,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-plus-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData loopPlusCircleFilledSecondary = IconifyIconData(IconData(
-    0xe2ba,
+    0xe2bf,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-plus-circle-off` — primary layer (full opacity)
   static const IconifyIconData loopPlusCircleOffPrimary = IconifyIconData(IconData(
-    0xe2bb,
+    0xe2c0,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-plus-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData loopPlusCircleOffSecondary = IconifyIconData(IconData(
-    0xe2bb,
+    0xe2c0,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-plus-off` — primary layer (full opacity)
   static const IconifyIconData loopPlusOffPrimary = IconifyIconData(IconData(
-    0xe2bc,
+    0xe2c1,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `loop-plus-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData loopPlusOffSecondary = IconifyIconData(IconData(
-    0xe2bc,
+    0xe2c1,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `magnet` — primary layer (full opacity)
   static const IconifyIconData magnetPrimary = IconifyIconData(IconData(
-    0xe2bd,
+    0xe2c2,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `magnet` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData magnetSecondary = IconifyIconData(IconData(
-    0xe2bd,
+    0xe2c2,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `magnet-circle` — primary layer (full opacity)
   static const IconifyIconData magnetCirclePrimary = IconifyIconData(IconData(
-    0xe2be,
+    0xe2c3,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `magnet-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData magnetCircleSecondary = IconifyIconData(IconData(
-    0xe2be,
+    0xe2c3,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `magnet-circle-filled`
   static const IconifyIconData magnetCircleFilled = IconifyIconData(IconData(
-    0xe2bf,
+    0xe2c4,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `magnet-circle-off`
   static const IconifyIconData magnetCircleOff = IconifyIconData(IconData(
-    0xe2c0,
+    0xe2c5,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `magnet-off`
   static const IconifyIconData magnetOff = IconifyIconData(IconData(
-    0xe2c1,
+    0xe2c6,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `map` — primary layer (full opacity)
   static const IconifyIconData mapPrimary = IconifyIconData(IconData(
-    0xe2c2,
+    0xe2c7,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `map` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData mapSecondary = IconifyIconData(IconData(
-    0xe2c2,
+    0xe2c7,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `map-circle` — primary layer (full opacity)
   static const IconifyIconData mapCirclePrimary = IconifyIconData(IconData(
-    0xe2c3,
+    0xe2c8,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `map-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData mapCircleSecondary = IconifyIconData(IconData(
-    0xe2c3,
+    0xe2c8,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `map-circle-filled` — primary layer (full opacity)
   static const IconifyIconData mapCircleFilledPrimary = IconifyIconData(IconData(
-    0xe2c4,
+    0xe2c9,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `map-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData mapCircleFilledSecondary = IconifyIconData(IconData(
-    0xe2c4,
+    0xe2c9,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `map-circle-off` — primary layer (full opacity)
   static const IconifyIconData mapCircleOffPrimary = IconifyIconData(IconData(
-    0xe2c5,
+    0xe2ca,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `map-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData mapCircleOffSecondary = IconifyIconData(IconData(
-    0xe2c5,
+    0xe2ca,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `map-off` — primary layer (full opacity)
   static const IconifyIconData mapOffPrimary = IconifyIconData(IconData(
-    0xe2c6,
+    0xe2cb,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `map-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData mapOffSecondary = IconifyIconData(IconData(
-    0xe2c6,
+    0xe2cb,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `megaphone`
   static const IconifyIconData megaphone = IconifyIconData(IconData(
-    0xe2c7,
+    0xe2cc,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `megaphone-circle`
   static const IconifyIconData megaphoneCircle = IconifyIconData(IconData(
-    0xe2c8,
+    0xe2cd,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `megaphone-circle-filled`
   static const IconifyIconData megaphoneCircleFilled = IconifyIconData(IconData(
-    0xe2c9,
+    0xe2ce,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `megaphone-circle-off`
   static const IconifyIconData megaphoneCircleOff = IconifyIconData(IconData(
-    0xe2ca,
+    0xe2cf,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `megaphone-off`
   static const IconifyIconData megaphoneOff = IconifyIconData(IconData(
-    0xe2cb,
+    0xe2d0,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `menu` — primary layer (full opacity)
   static const IconifyIconData menuPrimary = IconifyIconData(IconData(
-    0xe2cc,
+    0xe2d1,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `menu` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData menuSecondary = IconifyIconData(IconData(
-    0xe2cc,
+    0xe2d1,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `menu-circle` — primary layer (full opacity)
   static const IconifyIconData menuCirclePrimary = IconifyIconData(IconData(
-    0xe2cd,
+    0xe2d2,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `menu-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData menuCircleSecondary = IconifyIconData(IconData(
-    0xe2cd,
+    0xe2d2,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `menu-circle-filled` — primary layer (full opacity)
   static const IconifyIconData menuCircleFilledPrimary = IconifyIconData(IconData(
-    0xe2ce,
+    0xe2d3,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `menu-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData menuCircleFilledSecondary = IconifyIconData(IconData(
-    0xe2ce,
+    0xe2d3,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `menu-circle-off` — primary layer (full opacity)
   static const IconifyIconData menuCircleOffPrimary = IconifyIconData(IconData(
-    0xe2cf,
+    0xe2d4,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `menu-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData menuCircleOffSecondary = IconifyIconData(IconData(
-    0xe2cf,
+    0xe2d4,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `menu-off` — primary layer (full opacity)
   static const IconifyIconData menuOffPrimary = IconifyIconData(IconData(
-    0xe2d0,
+    0xe2d5,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `menu-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData menuOffSecondary = IconifyIconData(IconData(
-    0xe2d0,
+    0xe2d5,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `microphone` — primary layer (full opacity)
   static const IconifyIconData microphonePrimary = IconifyIconData(IconData(
-    0xe2d1,
+    0xe2d6,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `microphone` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData microphoneSecondary = IconifyIconData(IconData(
-    0xe2d1,
+    0xe2d6,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `microphone-circle` — primary layer (full opacity)
   static const IconifyIconData microphoneCirclePrimary = IconifyIconData(IconData(
-    0xe2d2,
+    0xe2d7,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `microphone-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData microphoneCircleSecondary = IconifyIconData(IconData(
-    0xe2d2,
+    0xe2d7,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `microphone-circle-filled` — primary layer (full opacity)
   static const IconifyIconData microphoneCircleFilledPrimary = IconifyIconData(IconData(
-    0xe2d3,
+    0xe2d8,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `microphone-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData microphoneCircleFilledSecondary = IconifyIconData(IconData(
-    0xe2d3,
+    0xe2d8,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `microphone-circle-off` — primary layer (full opacity)
   static const IconifyIconData microphoneCircleOffPrimary = IconifyIconData(IconData(
-    0xe2d4,
+    0xe2d9,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `microphone-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData microphoneCircleOffSecondary = IconifyIconData(IconData(
-    0xe2d4,
+    0xe2d9,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `microphone-handheld`
   static const IconifyIconData microphoneHandheld = IconifyIconData(IconData(
-    0xe501,
+    0xe2da,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `microphone-handheld-circle`
   static const IconifyIconData microphoneHandheldCircle = IconifyIconData(IconData(
-    0xe502,
+    0xe2db,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `microphone-handheld-circle-filled`
   static const IconifyIconData microphoneHandheldCircleFilled = IconifyIconData(IconData(
-    0xe503,
+    0xe2dc,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `microphone-handheld-circle-off`
   static const IconifyIconData microphoneHandheldCircleOff = IconifyIconData(IconData(
-    0xe504,
+    0xe2dd,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `microphone-handheld-off`
   static const IconifyIconData microphoneHandheldOff = IconifyIconData(IconData(
-    0xe505,
+    0xe2de,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `microphone-off` — primary layer (full opacity)
   static const IconifyIconData microphoneOffPrimary = IconifyIconData(IconData(
-    0xe2d5,
+    0xe2df,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `microphone-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData microphoneOffSecondary = IconifyIconData(IconData(
-    0xe2d5,
+    0xe2df,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `microphone2`
   static const IconifyIconData microphone2 = IconifyIconData(IconData(
-    0xe2d6,
+    0xe2e0,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `minus` — primary layer (full opacity)
   static const IconifyIconData minusPrimary = IconifyIconData(IconData(
-    0xe2d7,
+    0xe2e1,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `minus` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData minusSecondary = IconifyIconData(IconData(
-    0xe2d7,
+    0xe2e1,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `minus-circle` — primary layer (full opacity)
   static const IconifyIconData minusCirclePrimary = IconifyIconData(IconData(
-    0xe2d8,
+    0xe2e2,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `minus-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData minusCircleSecondary = IconifyIconData(IconData(
-    0xe2d8,
+    0xe2e2,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `minus-circle-filled` — primary layer (full opacity)
   static const IconifyIconData minusCircleFilledPrimary = IconifyIconData(IconData(
-    0xe2d9,
+    0xe2e3,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `minus-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData minusCircleFilledSecondary = IconifyIconData(IconData(
-    0xe2d9,
+    0xe2e3,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `minus-circle-off` — primary layer (full opacity)
   static const IconifyIconData minusCircleOffPrimary = IconifyIconData(IconData(
-    0xe2da,
+    0xe2e4,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `minus-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData minusCircleOffSecondary = IconifyIconData(IconData(
-    0xe2da,
+    0xe2e4,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `minus-off` — primary layer (full opacity)
   static const IconifyIconData minusOffPrimary = IconifyIconData(IconData(
-    0xe2db,
+    0xe2e5,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `minus-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData minusOffSecondary = IconifyIconData(IconData(
-    0xe2db,
+    0xe2e5,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `money-note`
   static const IconifyIconData moneyNote = IconifyIconData(IconData(
-    0xe2dc,
+    0xe2e6,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `money-note-circle`
   static const IconifyIconData moneyNoteCircle = IconifyIconData(IconData(
-    0xe2dd,
+    0xe2e7,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `money-note-circle-filled` — primary layer (full opacity)
   static const IconifyIconData moneyNoteCircleFilledPrimary = IconifyIconData(IconData(
-    0xe2de,
+    0xe2e8,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `money-note-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData moneyNoteCircleFilledSecondary = IconifyIconData(IconData(
-    0xe2de,
+    0xe2e8,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `money-note-circle-off`
   static const IconifyIconData moneyNoteCircleOff = IconifyIconData(IconData(
-    0xe2df,
+    0xe2e9,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `money-note-off`
   static const IconifyIconData moneyNoteOff = IconifyIconData(IconData(
-    0xe2e0,
+    0xe2ea,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `monitor` — primary layer (full opacity)
   static const IconifyIconData monitorPrimary = IconifyIconData(IconData(
-    0xe2e1,
+    0xe2eb,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `monitor` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData monitorSecondary = IconifyIconData(IconData(
-    0xe2e1,
+    0xe2eb,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `monitor-circle` — primary layer (full opacity)
   static const IconifyIconData monitorCirclePrimary = IconifyIconData(IconData(
-    0xe2e2,
+    0xe2ec,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `monitor-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData monitorCircleSecondary = IconifyIconData(IconData(
-    0xe2e2,
+    0xe2ec,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `monitor-circle-filled` — primary layer (full opacity)
   static const IconifyIconData monitorCircleFilledPrimary = IconifyIconData(IconData(
-    0xe2e3,
+    0xe2ed,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `monitor-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData monitorCircleFilledSecondary = IconifyIconData(IconData(
-    0xe2e3,
+    0xe2ed,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `monitor-circle-off` — primary layer (full opacity)
   static const IconifyIconData monitorCircleOffPrimary = IconifyIconData(IconData(
-    0xe2e4,
+    0xe2ee,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `monitor-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData monitorCircleOffSecondary = IconifyIconData(IconData(
-    0xe2e4,
+    0xe2ee,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `monitor-eye`
   static const IconifyIconData monitorEye = IconifyIconData(IconData(
-    0xe2e5,
+    0xe2ef,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `monitor-eye-circle`
   static const IconifyIconData monitorEyeCircle = IconifyIconData(IconData(
-    0xe2e6,
+    0xe2f0,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `monitor-eye-circle-filled` — primary layer (full opacity)
   static const IconifyIconData monitorEyeCircleFilledPrimary = IconifyIconData(IconData(
-    0xe2e7,
+    0xe2f1,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `monitor-eye-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData monitorEyeCircleFilledSecondary = IconifyIconData(IconData(
-    0xe2e7,
+    0xe2f1,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `monitor-eye-circle-off`
   static const IconifyIconData monitorEyeCircleOff = IconifyIconData(IconData(
-    0xe2e8,
+    0xe2f2,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `monitor-eye-off`
   static const IconifyIconData monitorEyeOff = IconifyIconData(IconData(
-    0xe2e9,
+    0xe2f3,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `monitor-loop`
   static const IconifyIconData monitorLoop = IconifyIconData(IconData(
-    0xe2ea,
+    0xe2f4,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `monitor-loop-circle`
   static const IconifyIconData monitorLoopCircle = IconifyIconData(IconData(
-    0xe2eb,
+    0xe2f5,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `monitor-loop-circle-filled`
   static const IconifyIconData monitorLoopCircleFilled = IconifyIconData(IconData(
-    0xe2ec,
+    0xe2f6,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `monitor-loop-circle-off`
   static const IconifyIconData monitorLoopCircleOff = IconifyIconData(IconData(
-    0xe2ed,
+    0xe2f7,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `monitor-loop-off`
   static const IconifyIconData monitorLoopOff = IconifyIconData(IconData(
-    0xe2ee,
+    0xe2f8,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `monitor-off` — primary layer (full opacity)
   static const IconifyIconData monitorOffPrimary = IconifyIconData(IconData(
-    0xe2ef,
+    0xe2f9,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `monitor-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData monitorOffSecondary = IconifyIconData(IconData(
-    0xe2ef,
+    0xe2f9,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `monitor2` — primary layer (full opacity)
   static const IconifyIconData monitor2Primary = IconifyIconData(IconData(
-    0xe2f0,
+    0xe2fa,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `monitor2` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData monitor2Secondary = IconifyIconData(IconData(
-    0xe2f0,
+    0xe2fa,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `moon` — primary layer (full opacity)
   static const IconifyIconData moonPrimary = IconifyIconData(IconData(
-    0xe2f1,
+    0xe2fb,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `moon` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData moonSecondary = IconifyIconData(IconData(
-    0xe2f1,
+    0xe2fb,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `moon-circle` — primary layer (full opacity)
   static const IconifyIconData moonCirclePrimary = IconifyIconData(IconData(
-    0xe2f2,
+    0xe2fc,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `moon-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData moonCircleSecondary = IconifyIconData(IconData(
-    0xe2f2,
+    0xe2fc,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `moon-circle-filled` — primary layer (full opacity)
   static const IconifyIconData moonCircleFilledPrimary = IconifyIconData(IconData(
-    0xe2f3,
+    0xe2fd,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `moon-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData moonCircleFilledSecondary = IconifyIconData(IconData(
-    0xe2f3,
+    0xe2fd,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `moon-circle-off` — primary layer (full opacity)
   static const IconifyIconData moonCircleOffPrimary = IconifyIconData(IconData(
-    0xe2f4,
+    0xe2fe,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `moon-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData moonCircleOffSecondary = IconifyIconData(IconData(
-    0xe2f4,
+    0xe2fe,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `moon-off` — primary layer (full opacity)
   static const IconifyIconData moonOffPrimary = IconifyIconData(IconData(
-    0xe2f5,
+    0xe2ff,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `moon-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData moonOffSecondary = IconifyIconData(IconData(
-    0xe2f5,
+    0xe2ff,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `motorcycle` — primary layer (full opacity)
   static const IconifyIconData motorcyclePrimary = IconifyIconData(IconData(
-    0xe2f6,
+    0xe300,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `motorcycle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData motorcycleSecondary = IconifyIconData(IconData(
-    0xe2f6,
+    0xe300,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `motorcycle-circle` — primary layer (full opacity)
   static const IconifyIconData motorcycleCirclePrimary = IconifyIconData(IconData(
-    0xe2f7,
+    0xe301,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `motorcycle-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData motorcycleCircleSecondary = IconifyIconData(IconData(
-    0xe2f7,
+    0xe301,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `motorcycle-circle-filled` — primary layer (full opacity)
   static const IconifyIconData motorcycleCircleFilledPrimary = IconifyIconData(IconData(
-    0xe2f8,
+    0xe302,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `motorcycle-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData motorcycleCircleFilledSecondary = IconifyIconData(IconData(
-    0xe2f8,
+    0xe302,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `motorcycle-circle-off` — primary layer (full opacity)
   static const IconifyIconData motorcycleCircleOffPrimary = IconifyIconData(IconData(
-    0xe2f9,
+    0xe303,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `motorcycle-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData motorcycleCircleOffSecondary = IconifyIconData(IconData(
-    0xe2f9,
+    0xe303,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `motorcycle-off` — primary layer (full opacity)
   static const IconifyIconData motorcycleOffPrimary = IconifyIconData(IconData(
-    0xe2fa,
+    0xe304,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `motorcycle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData motorcycleOffSecondary = IconifyIconData(IconData(
-    0xe2fa,
+    0xe304,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `move-x`
   static const IconifyIconData moveX = IconifyIconData(IconData(
-    0xe2fb,
+    0xe305,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `move-x-circle`
   static const IconifyIconData moveXCircle = IconifyIconData(IconData(
-    0xe2fc,
+    0xe306,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `move-x-circle-filled`
   static const IconifyIconData moveXCircleFilled = IconifyIconData(IconData(
-    0xe2fd,
+    0xe307,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `move-x-circle-off`
   static const IconifyIconData moveXCircleOff = IconifyIconData(IconData(
-    0xe2fe,
+    0xe308,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `move-x-off`
   static const IconifyIconData moveXOff = IconifyIconData(IconData(
-    0xe2ff,
+    0xe309,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `move-y`
   static const IconifyIconData moveY = IconifyIconData(IconData(
-    0xe300,
+    0xe30a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `move-y-circle`
   static const IconifyIconData moveYCircle = IconifyIconData(IconData(
-    0xe301,
+    0xe30b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `move-y-circle-filled`
   static const IconifyIconData moveYCircleFilled = IconifyIconData(IconData(
-    0xe302,
+    0xe30c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `move-y-circle-off`
   static const IconifyIconData moveYCircleOff = IconifyIconData(IconData(
-    0xe303,
+    0xe30d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `move-y-off`
   static const IconifyIconData moveYOff = IconifyIconData(IconData(
-    0xe304,
+    0xe30e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `music-note-double` — primary layer (full opacity)
   static const IconifyIconData musicNoteDoublePrimary = IconifyIconData(IconData(
-    0xe305,
+    0xe30f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `music-note-double` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData musicNoteDoubleSecondary = IconifyIconData(IconData(
-    0xe305,
+    0xe30f,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `music-note-double-circle` — primary layer (full opacity)
   static const IconifyIconData musicNoteDoubleCirclePrimary = IconifyIconData(IconData(
-    0xe306,
+    0xe310,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `music-note-double-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData musicNoteDoubleCircleSecondary = IconifyIconData(IconData(
-    0xe306,
+    0xe310,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `music-note-double-circle-filled` — primary layer (full opacity)
   static const IconifyIconData musicNoteDoubleCircleFilledPrimary = IconifyIconData(IconData(
-    0xe307,
+    0xe311,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `music-note-double-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData musicNoteDoubleCircleFilledSecondary = IconifyIconData(IconData(
-    0xe307,
+    0xe311,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `music-note-double-circle-off` — primary layer (full opacity)
   static const IconifyIconData musicNoteDoubleCircleOffPrimary = IconifyIconData(IconData(
-    0xe308,
+    0xe312,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `music-note-double-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData musicNoteDoubleCircleOffSecondary = IconifyIconData(IconData(
-    0xe308,
+    0xe312,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `music-note-double-off` — primary layer (full opacity)
   static const IconifyIconData musicNoteDoubleOffPrimary = IconifyIconData(IconData(
-    0xe309,
+    0xe313,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `music-note-double-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData musicNoteDoubleOffSecondary = IconifyIconData(IconData(
-    0xe309,
+    0xe313,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `music-note-single` — primary layer (full opacity)
   static const IconifyIconData musicNoteSinglePrimary = IconifyIconData(IconData(
-    0xe30a,
+    0xe314,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `music-note-single` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData musicNoteSingleSecondary = IconifyIconData(IconData(
-    0xe30a,
+    0xe314,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `music-note-single-circle` — primary layer (full opacity)
   static const IconifyIconData musicNoteSingleCirclePrimary = IconifyIconData(IconData(
-    0xe30b,
+    0xe315,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `music-note-single-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData musicNoteSingleCircleSecondary = IconifyIconData(IconData(
-    0xe30b,
+    0xe315,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `music-note-single-circle-filled` — primary layer (full opacity)
   static const IconifyIconData musicNoteSingleCircleFilledPrimary = IconifyIconData(IconData(
-    0xe30c,
+    0xe316,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `music-note-single-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData musicNoteSingleCircleFilledSecondary = IconifyIconData(IconData(
-    0xe30c,
+    0xe316,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `music-note-single-circle-off` — primary layer (full opacity)
   static const IconifyIconData musicNoteSingleCircleOffPrimary = IconifyIconData(IconData(
-    0xe30d,
+    0xe317,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `music-note-single-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData musicNoteSingleCircleOffSecondary = IconifyIconData(IconData(
-    0xe30d,
+    0xe317,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `music-note-single-off` — primary layer (full opacity)
   static const IconifyIconData musicNoteSingleOffPrimary = IconifyIconData(IconData(
-    0xe30e,
+    0xe318,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `music-note-single-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData musicNoteSingleOffSecondary = IconifyIconData(IconData(
-    0xe30e,
+    0xe318,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `next-track`
   static const IconifyIconData nextTrack = IconifyIconData(IconData(
-    0xe30f,
+    0xe319,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `next-track-circle`
   static const IconifyIconData nextTrackCircle = IconifyIconData(IconData(
-    0xe310,
+    0xe31a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `next-track-circle-filled`
   static const IconifyIconData nextTrackCircleFilled = IconifyIconData(IconData(
-    0xe311,
+    0xe31b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `next-track-circle-off`
   static const IconifyIconData nextTrackCircleOff = IconifyIconData(IconData(
-    0xe312,
+    0xe31c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `next-track-off`
   static const IconifyIconData nextTrackOff = IconifyIconData(IconData(
-    0xe313,
+    0xe31d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `no-entry` — primary layer (full opacity)
   static const IconifyIconData noEntryPrimary = IconifyIconData(IconData(
-    0xe314,
+    0xe31e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `no-entry` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData noEntrySecondary = IconifyIconData(IconData(
-    0xe314,
+    0xe31e,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `no-entry-circle` — primary layer (full opacity)
   static const IconifyIconData noEntryCirclePrimary = IconifyIconData(IconData(
-    0xe315,
+    0xe31f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `no-entry-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData noEntryCircleSecondary = IconifyIconData(IconData(
-    0xe315,
+    0xe31f,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `no-entry-circle-filled`
   static const IconifyIconData noEntryCircleFilled = IconifyIconData(IconData(
-    0xe316,
+    0xe320,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `no-entry-circle-off` — primary layer (full opacity)
   static const IconifyIconData noEntryCircleOffPrimary = IconifyIconData(IconData(
-    0xe317,
+    0xe321,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `no-entry-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData noEntryCircleOffSecondary = IconifyIconData(IconData(
-    0xe317,
+    0xe321,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `no-entry-off` — primary layer (full opacity)
   static const IconifyIconData noEntryOffPrimary = IconifyIconData(IconData(
-    0xe318,
+    0xe322,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `no-entry-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData noEntryOffSecondary = IconifyIconData(IconData(
-    0xe318,
+    0xe322,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `nut`
   static const IconifyIconData nut = IconifyIconData(IconData(
-    0xe319,
+    0xe323,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `nut-circle`
   static const IconifyIconData nutCircle = IconifyIconData(IconData(
-    0xe31a,
+    0xe324,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `nut-circle-filled`
   static const IconifyIconData nutCircleFilled = IconifyIconData(IconData(
-    0xe31b,
+    0xe325,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `nut-circle-off`
   static const IconifyIconData nutCircleOff = IconifyIconData(IconData(
-    0xe31c,
+    0xe326,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `nut-off`
   static const IconifyIconData nutOff = IconifyIconData(IconData(
-    0xe31d,
+    0xe327,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `open` — primary layer (full opacity)
   static const IconifyIconData openPrimary = IconifyIconData(IconData(
-    0xe31e,
+    0xe328,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `open` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData openSecondary = IconifyIconData(IconData(
-    0xe31e,
+    0xe328,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `open-circle`
   static const IconifyIconData openCircle = IconifyIconData(IconData(
-    0xe31f,
+    0xe329,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `open-circle-filled` — primary layer (full opacity)
   static const IconifyIconData openCircleFilledPrimary = IconifyIconData(IconData(
-    0xe320,
+    0xe32a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `open-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData openCircleFilledSecondary = IconifyIconData(IconData(
-    0xe320,
+    0xe32a,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `open-circle-off`
   static const IconifyIconData openCircleOff = IconifyIconData(IconData(
-    0xe321,
+    0xe32b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `open-off` — primary layer (full opacity)
   static const IconifyIconData openOffPrimary = IconifyIconData(IconData(
-    0xe322,
+    0xe32c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `open-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData openOffSecondary = IconifyIconData(IconData(
-    0xe322,
+    0xe32c,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `paint-pallet`
   static const IconifyIconData paintPallet = IconifyIconData(IconData(
-    0xe323,
+    0xe32d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `paint-pallet-circle`
   static const IconifyIconData paintPalletCircle = IconifyIconData(IconData(
-    0xe324,
+    0xe32e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `paint-pallet-circle-filled` — primary layer (full opacity)
   static const IconifyIconData paintPalletCircleFilledPrimary = IconifyIconData(IconData(
-    0xe325,
+    0xe32f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `paint-pallet-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData paintPalletCircleFilledSecondary = IconifyIconData(IconData(
-    0xe325,
+    0xe32f,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `paint-pallet-circle-off`
   static const IconifyIconData paintPalletCircleOff = IconifyIconData(IconData(
-    0xe326,
+    0xe330,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `paint-pallet-off`
   static const IconifyIconData paintPalletOff = IconifyIconData(IconData(
-    0xe327,
+    0xe331,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `paper-plane` — primary layer (full opacity)
   static const IconifyIconData paperPlanePrimary = IconifyIconData(IconData(
-    0xe328,
+    0xe332,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `paper-plane` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData paperPlaneSecondary = IconifyIconData(IconData(
-    0xe328,
+    0xe332,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `paper-plane-circle` — primary layer (full opacity)
   static const IconifyIconData paperPlaneCirclePrimary = IconifyIconData(IconData(
-    0xe329,
+    0xe333,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `paper-plane-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData paperPlaneCircleSecondary = IconifyIconData(IconData(
-    0xe329,
+    0xe333,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `paper-plane-circle-filled` — primary layer (full opacity)
   static const IconifyIconData paperPlaneCircleFilledPrimary = IconifyIconData(IconData(
-    0xe32a,
+    0xe334,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `paper-plane-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData paperPlaneCircleFilledSecondary = IconifyIconData(IconData(
-    0xe32a,
+    0xe334,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `paper-plane-circle-off` — primary layer (full opacity)
   static const IconifyIconData paperPlaneCircleOffPrimary = IconifyIconData(IconData(
-    0xe32b,
+    0xe335,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `paper-plane-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData paperPlaneCircleOffSecondary = IconifyIconData(IconData(
-    0xe32b,
+    0xe335,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `paper-plane-off` — primary layer (full opacity)
   static const IconifyIconData paperPlaneOffPrimary = IconifyIconData(IconData(
-    0xe32c,
+    0xe336,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `paper-plane-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData paperPlaneOffSecondary = IconifyIconData(IconData(
-    0xe32c,
+    0xe336,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `paperclip`
   static const IconifyIconData paperclip = IconifyIconData(IconData(
-    0xe32d,
+    0xe337,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `paperclip-circle`
   static const IconifyIconData paperclipCircle = IconifyIconData(IconData(
-    0xe32e,
+    0xe338,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `paperclip-circle-filled`
   static const IconifyIconData paperclipCircleFilled = IconifyIconData(IconData(
-    0xe32f,
+    0xe339,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `paperclip-circle-off`
   static const IconifyIconData paperclipCircleOff = IconifyIconData(IconData(
-    0xe330,
+    0xe33a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `paperclip-off`
   static const IconifyIconData paperclipOff = IconifyIconData(IconData(
-    0xe331,
+    0xe33b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pause`
   static const IconifyIconData pause = IconifyIconData(IconData(
-    0xe332,
+    0xe33c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pause-circle`
   static const IconifyIconData pauseCircle = IconifyIconData(IconData(
-    0xe333,
+    0xe33d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pause-circle-filled` — primary layer (full opacity)
   static const IconifyIconData pauseCircleFilledPrimary = IconifyIconData(IconData(
-    0xe334,
+    0xe33e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pause-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData pauseCircleFilledSecondary = IconifyIconData(IconData(
-    0xe334,
+    0xe33e,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pause-circle-off`
   static const IconifyIconData pauseCircleOff = IconifyIconData(IconData(
-    0xe335,
+    0xe33f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pause-off`
   static const IconifyIconData pauseOff = IconifyIconData(IconData(
-    0xe336,
+    0xe340,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pen` — primary layer (full opacity)
   static const IconifyIconData penPrimary = IconifyIconData(IconData(
-    0xe337,
+    0xe341,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pen` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData penSecondary = IconifyIconData(IconData(
-    0xe337,
+    0xe341,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pen-circle` — primary layer (full opacity)
   static const IconifyIconData penCirclePrimary = IconifyIconData(IconData(
-    0xe338,
+    0xe342,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pen-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData penCircleSecondary = IconifyIconData(IconData(
-    0xe338,
+    0xe342,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pen-circle-filled`
   static const IconifyIconData penCircleFilled = IconifyIconData(IconData(
-    0xe339,
+    0xe343,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pen-circle-off` — primary layer (full opacity)
   static const IconifyIconData penCircleOffPrimary = IconifyIconData(IconData(
-    0xe33a,
+    0xe344,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pen-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData penCircleOffSecondary = IconifyIconData(IconData(
-    0xe33a,
+    0xe344,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pen-off` — primary layer (full opacity)
   static const IconifyIconData penOffPrimary = IconifyIconData(IconData(
-    0xe33b,
+    0xe345,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pen-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData penOffSecondary = IconifyIconData(IconData(
-    0xe33b,
+    0xe345,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `people`
   static const IconifyIconData people = IconifyIconData(IconData(
-    0xe33c,
+    0xe346,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `people-circle`
   static const IconifyIconData peopleCircle = IconifyIconData(IconData(
-    0xe33d,
+    0xe347,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `people-circle-filled`
   static const IconifyIconData peopleCircleFilled = IconifyIconData(IconData(
-    0xe33e,
+    0xe348,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `people-circle-off`
   static const IconifyIconData peopleCircleOff = IconifyIconData(IconData(
-    0xe33f,
+    0xe349,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `people-off`
   static const IconifyIconData peopleOff = IconifyIconData(IconData(
-    0xe340,
+    0xe34a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `person`
   static const IconifyIconData person = IconifyIconData(IconData(
-    0xe341,
+    0xe34b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `person-checkmark`
   static const IconifyIconData personCheckmark = IconifyIconData(IconData(
-    0xe342,
+    0xe34c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `person-checkmark-circle`
   static const IconifyIconData personCheckmarkCircle = IconifyIconData(IconData(
-    0xe343,
+    0xe34d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `person-checkmark-circle-filled`
   static const IconifyIconData personCheckmarkCircleFilled = IconifyIconData(IconData(
-    0xe344,
+    0xe34e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `person-checkmark-circle-off`
   static const IconifyIconData personCheckmarkCircleOff = IconifyIconData(IconData(
-    0xe345,
+    0xe34f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `person-checkmark-off`
   static const IconifyIconData personCheckmarkOff = IconifyIconData(IconData(
-    0xe346,
+    0xe350,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `person-circle`
   static const IconifyIconData personCircle = IconifyIconData(IconData(
-    0xe347,
+    0xe351,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `person-circle-filled`
   static const IconifyIconData personCircleFilled = IconifyIconData(IconData(
-    0xe348,
+    0xe352,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `person-circle-off`
   static const IconifyIconData personCircleOff = IconifyIconData(IconData(
-    0xe349,
+    0xe353,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `person-off`
   static const IconifyIconData personOff = IconifyIconData(IconData(
-    0xe34a,
+    0xe354,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `person-plus`
   static const IconifyIconData personPlus = IconifyIconData(IconData(
-    0xe34b,
+    0xe355,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `person-plus-circle`
   static const IconifyIconData personPlusCircle = IconifyIconData(IconData(
-    0xe34c,
+    0xe356,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `person-plus-circle-filled`
   static const IconifyIconData personPlusCircleFilled = IconifyIconData(IconData(
-    0xe34d,
+    0xe357,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `person-plus-circle-off`
   static const IconifyIconData personPlusCircleOff = IconifyIconData(IconData(
-    0xe34e,
+    0xe358,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `person-plus-off`
   static const IconifyIconData personPlusOff = IconifyIconData(IconData(
-    0xe34f,
+    0xe359,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `persons`
   static const IconifyIconData persons = IconifyIconData(IconData(
-    0xe350,
+    0xe35a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `persons-circle`
   static const IconifyIconData personsCircle = IconifyIconData(IconData(
-    0xe351,
+    0xe35b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `persons-circle-filled`
   static const IconifyIconData personsCircleFilled = IconifyIconData(IconData(
-    0xe352,
+    0xe35c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `persons-circle-off`
   static const IconifyIconData personsCircleOff = IconifyIconData(IconData(
-    0xe353,
+    0xe35d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `persons-off`
   static const IconifyIconData personsOff = IconifyIconData(IconData(
-    0xe354,
+    0xe35e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `peso`
   static const IconifyIconData peso = IconifyIconData(IconData(
-    0xe355,
+    0xe35f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `peso-circle`
   static const IconifyIconData pesoCircle = IconifyIconData(IconData(
-    0xe356,
+    0xe360,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `peso-circle-filled`
   static const IconifyIconData pesoCircleFilled = IconifyIconData(IconData(
-    0xe357,
+    0xe361,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `peso-circle-off`
   static const IconifyIconData pesoCircleOff = IconifyIconData(IconData(
-    0xe358,
+    0xe362,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `peso-off`
   static const IconifyIconData pesoOff = IconifyIconData(IconData(
-    0xe359,
+    0xe363,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `phone` — primary layer (full opacity)
   static const IconifyIconData phonePrimary = IconifyIconData(IconData(
-    0xe35a,
+    0xe364,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `phone` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData phoneSecondary = IconifyIconData(IconData(
-    0xe35a,
+    0xe364,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `phone-circle` — primary layer (full opacity)
   static const IconifyIconData phoneCirclePrimary = IconifyIconData(IconData(
-    0xe35b,
+    0xe365,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `phone-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData phoneCircleSecondary = IconifyIconData(IconData(
-    0xe35b,
+    0xe365,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `phone-circle-filled` — primary layer (full opacity)
   static const IconifyIconData phoneCircleFilledPrimary = IconifyIconData(IconData(
-    0xe35c,
+    0xe366,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `phone-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData phoneCircleFilledSecondary = IconifyIconData(IconData(
-    0xe35c,
+    0xe366,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `phone-circle-off` — primary layer (full opacity)
   static const IconifyIconData phoneCircleOffPrimary = IconifyIconData(IconData(
-    0xe35d,
+    0xe367,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `phone-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData phoneCircleOffSecondary = IconifyIconData(IconData(
-    0xe35d,
+    0xe367,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `phone-off` — primary layer (full opacity)
   static const IconifyIconData phoneOffPrimary = IconifyIconData(IconData(
-    0xe35e,
+    0xe368,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `phone-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData phoneOffSecondary = IconifyIconData(IconData(
-    0xe35e,
+    0xe368,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `photo`
   static const IconifyIconData photo = IconifyIconData(IconData(
-    0xe35f,
+    0xe369,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `photo-camera` — primary layer (full opacity)
   static const IconifyIconData photoCameraPrimary = IconifyIconData(IconData(
-    0xe360,
+    0xe36a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `photo-camera` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData photoCameraSecondary = IconifyIconData(IconData(
-    0xe360,
+    0xe36a,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `photo-camera-circle` — primary layer (full opacity)
   static const IconifyIconData photoCameraCirclePrimary = IconifyIconData(IconData(
-    0xe361,
+    0xe36b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `photo-camera-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData photoCameraCircleSecondary = IconifyIconData(IconData(
-    0xe361,
+    0xe36b,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `photo-camera-circle-filled`
   static const IconifyIconData photoCameraCircleFilled = IconifyIconData(IconData(
-    0xe362,
+    0xe36c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `photo-camera-circle-off` — primary layer (full opacity)
   static const IconifyIconData photoCameraCircleOffPrimary = IconifyIconData(IconData(
-    0xe363,
+    0xe36d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `photo-camera-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData photoCameraCircleOffSecondary = IconifyIconData(IconData(
-    0xe363,
+    0xe36d,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `photo-camera-off` — primary layer (full opacity)
   static const IconifyIconData photoCameraOffPrimary = IconifyIconData(IconData(
-    0xe364,
+    0xe36e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `photo-camera-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData photoCameraOffSecondary = IconifyIconData(IconData(
-    0xe364,
+    0xe36e,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `photo-circle`
   static const IconifyIconData photoCircle = IconifyIconData(IconData(
-    0xe365,
+    0xe36f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `photo-circle-filled` — primary layer (full opacity)
   static const IconifyIconData photoCircleFilledPrimary = IconifyIconData(IconData(
-    0xe366,
+    0xe370,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `photo-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData photoCircleFilledSecondary = IconifyIconData(IconData(
-    0xe366,
+    0xe370,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `photo-circle-off`
   static const IconifyIconData photoCircleOff = IconifyIconData(IconData(
-    0xe367,
+    0xe371,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `photo-off`
   static const IconifyIconData photoOff = IconifyIconData(IconData(
-    0xe368,
+    0xe372,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `photo-studio`
   static const IconifyIconData photoStudio = IconifyIconData(IconData(
-    0xe369,
+    0xe373,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `photo-studio-circle`
   static const IconifyIconData photoStudioCircle = IconifyIconData(IconData(
-    0xe36a,
+    0xe374,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `photo-studio-circle-filled`
   static const IconifyIconData photoStudioCircleFilled = IconifyIconData(IconData(
-    0xe36b,
+    0xe375,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `photo-studio-circle-off`
   static const IconifyIconData photoStudioCircleOff = IconifyIconData(IconData(
-    0xe36c,
+    0xe376,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `photo-studio-off`
   static const IconifyIconData photoStudioOff = IconifyIconData(IconData(
-    0xe36d,
+    0xe377,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pill` — primary layer (full opacity)
   static const IconifyIconData pillPrimary = IconifyIconData(IconData(
-    0xe36e,
+    0xe378,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pill` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData pillSecondary = IconifyIconData(IconData(
-    0xe36e,
+    0xe378,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pill-circle` — primary layer (full opacity)
   static const IconifyIconData pillCirclePrimary = IconifyIconData(IconData(
-    0xe36f,
+    0xe379,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pill-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData pillCircleSecondary = IconifyIconData(IconData(
-    0xe36f,
+    0xe379,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pill-circle-filled` — primary layer (full opacity)
   static const IconifyIconData pillCircleFilledPrimary = IconifyIconData(IconData(
-    0xe370,
+    0xe37a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pill-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData pillCircleFilledSecondary = IconifyIconData(IconData(
-    0xe370,
+    0xe37a,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pill-circle-off` — primary layer (full opacity)
   static const IconifyIconData pillCircleOffPrimary = IconifyIconData(IconData(
-    0xe371,
+    0xe37b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pill-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData pillCircleOffSecondary = IconifyIconData(IconData(
-    0xe371,
+    0xe37b,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pill-off` — primary layer (full opacity)
   static const IconifyIconData pillOffPrimary = IconifyIconData(IconData(
-    0xe372,
+    0xe37c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pill-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData pillOffSecondary = IconifyIconData(IconData(
-    0xe372,
+    0xe37c,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pin`
   static const IconifyIconData pin = IconifyIconData(IconData(
-    0xe373,
+    0xe37d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pin-circle`
   static const IconifyIconData pinCircle = IconifyIconData(IconData(
-    0xe374,
+    0xe37e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pin-circle-filled`
   static const IconifyIconData pinCircleFilled = IconifyIconData(IconData(
-    0xe375,
+    0xe37f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pin-circle-off`
   static const IconifyIconData pinCircleOff = IconifyIconData(IconData(
-    0xe376,
+    0xe380,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pin-off`
   static const IconifyIconData pinOff = IconifyIconData(IconData(
-    0xe377,
+    0xe381,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pinpoint` — primary layer (full opacity)
   static const IconifyIconData pinpointPrimary = IconifyIconData(IconData(
-    0xe378,
+    0xe382,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pinpoint` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData pinpointSecondary = IconifyIconData(IconData(
-    0xe378,
+    0xe382,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pinpoint-circle` — primary layer (full opacity)
   static const IconifyIconData pinpointCirclePrimary = IconifyIconData(IconData(
-    0xe379,
+    0xe383,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pinpoint-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData pinpointCircleSecondary = IconifyIconData(IconData(
-    0xe379,
+    0xe383,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pinpoint-circle-filled`
   static const IconifyIconData pinpointCircleFilled = IconifyIconData(IconData(
-    0xe37a,
+    0xe384,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pinpoint-circle-off` — primary layer (full opacity)
   static const IconifyIconData pinpointCircleOffPrimary = IconifyIconData(IconData(
-    0xe37b,
+    0xe385,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pinpoint-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData pinpointCircleOffSecondary = IconifyIconData(IconData(
-    0xe37b,
+    0xe385,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pinpoint-off` — primary layer (full opacity)
   static const IconifyIconData pinpointOffPrimary = IconifyIconData(IconData(
-    0xe37c,
+    0xe386,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `pinpoint-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData pinpointOffSecondary = IconifyIconData(IconData(
-    0xe37c,
+    0xe386,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `planet`
   static const IconifyIconData planet = IconifyIconData(IconData(
-    0xe37d,
+    0xe387,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `planet-circle`
   static const IconifyIconData planetCircle = IconifyIconData(IconData(
-    0xe37e,
+    0xe388,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `planet-circle-filled`
   static const IconifyIconData planetCircleFilled = IconifyIconData(IconData(
-    0xe37f,
+    0xe389,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `planet-circle-off`
   static const IconifyIconData planetCircleOff = IconifyIconData(IconData(
-    0xe380,
+    0xe38a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `planet-off`
   static const IconifyIconData planetOff = IconifyIconData(IconData(
-    0xe381,
+    0xe38b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `planet-ring`
   static const IconifyIconData planetRing = IconifyIconData(IconData(
-    0xe382,
+    0xe38c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `planet-ring-circle`
   static const IconifyIconData planetRingCircle = IconifyIconData(IconData(
-    0xe383,
+    0xe38d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `planet-ring-circle-filled`
   static const IconifyIconData planetRingCircleFilled = IconifyIconData(IconData(
-    0xe384,
+    0xe38e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `planet-ring-circle-off`
   static const IconifyIconData planetRingCircleOff = IconifyIconData(IconData(
-    0xe385,
+    0xe38f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `planet-ring-off`
   static const IconifyIconData planetRingOff = IconifyIconData(IconData(
-    0xe386,
+    0xe390,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `play`
   static const IconifyIconData play = IconifyIconData(IconData(
-    0xe387,
+    0xe391,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `play-circle`
   static const IconifyIconData playCircle = IconifyIconData(IconData(
-    0xe388,
+    0xe392,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `play-circle-filled` — primary layer (full opacity)
   static const IconifyIconData playCircleFilledPrimary = IconifyIconData(IconData(
-    0xe389,
+    0xe393,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `play-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData playCircleFilledSecondary = IconifyIconData(IconData(
-    0xe389,
+    0xe393,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `play-circle-off`
   static const IconifyIconData playCircleOff = IconifyIconData(IconData(
-    0xe38a,
+    0xe394,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `play-off`
   static const IconifyIconData playOff = IconifyIconData(IconData(
-    0xe38b,
+    0xe395,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `plus` — primary layer (full opacity)
   static const IconifyIconData plusPrimary = IconifyIconData(IconData(
-    0xe38c,
+    0xe396,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `plus` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData plusSecondary = IconifyIconData(IconData(
-    0xe38c,
+    0xe396,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `plus-circle` — primary layer (full opacity)
   static const IconifyIconData plusCirclePrimary = IconifyIconData(IconData(
-    0xe38d,
+    0xe397,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `plus-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData plusCircleSecondary = IconifyIconData(IconData(
-    0xe38d,
+    0xe397,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `plus-circle-filled` — primary layer (full opacity)
   static const IconifyIconData plusCircleFilledPrimary = IconifyIconData(IconData(
-    0xe38e,
+    0xe398,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `plus-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData plusCircleFilledSecondary = IconifyIconData(IconData(
-    0xe38e,
+    0xe398,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `plus-circle-off` — primary layer (full opacity)
   static const IconifyIconData plusCircleOffPrimary = IconifyIconData(IconData(
-    0xe38f,
+    0xe399,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `plus-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData plusCircleOffSecondary = IconifyIconData(IconData(
-    0xe38f,
+    0xe399,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `plus-off` — primary layer (full opacity)
   static const IconifyIconData plusOffPrimary = IconifyIconData(IconData(
-    0xe390,
+    0xe39a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `plus-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData plusOffSecondary = IconifyIconData(IconData(
-    0xe390,
+    0xe39a,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `power` — primary layer (full opacity)
   static const IconifyIconData powerPrimary = IconifyIconData(IconData(
-    0xe391,
+    0xe39b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `power` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData powerSecondary = IconifyIconData(IconData(
-    0xe391,
+    0xe39b,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `power-circle` — primary layer (full opacity)
   static const IconifyIconData powerCirclePrimary = IconifyIconData(IconData(
-    0xe392,
+    0xe39c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `power-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData powerCircleSecondary = IconifyIconData(IconData(
-    0xe392,
+    0xe39c,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `power-circle-filled` — primary layer (full opacity)
   static const IconifyIconData powerCircleFilledPrimary = IconifyIconData(IconData(
-    0xe393,
+    0xe39d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `power-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData powerCircleFilledSecondary = IconifyIconData(IconData(
-    0xe393,
+    0xe39d,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `power-circle-off` — primary layer (full opacity)
   static const IconifyIconData powerCircleOffPrimary = IconifyIconData(IconData(
-    0xe394,
+    0xe39e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `power-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData powerCircleOffSecondary = IconifyIconData(IconData(
-    0xe394,
+    0xe39e,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `power-off` — primary layer (full opacity)
   static const IconifyIconData powerOffPrimary = IconifyIconData(IconData(
-    0xe395,
+    0xe39f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `power-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData powerOffSecondary = IconifyIconData(IconData(
-    0xe395,
+    0xe39f,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `previous-track`
   static const IconifyIconData previousTrack = IconifyIconData(IconData(
-    0xe396,
+    0xe3a0,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `previous-track-circle`
   static const IconifyIconData previousTrackCircle = IconifyIconData(IconData(
-    0xe397,
+    0xe3a1,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `previous-track-circle-filled`
   static const IconifyIconData previousTrackCircleFilled = IconifyIconData(IconData(
-    0xe398,
+    0xe3a2,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `previous-track-circle-off`
   static const IconifyIconData previousTrackCircleOff = IconifyIconData(IconData(
-    0xe399,
+    0xe3a3,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `previous-track-off`
   static const IconifyIconData previousTrackOff = IconifyIconData(IconData(
-    0xe39a,
+    0xe3a4,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `printer` — primary layer (full opacity)
   static const IconifyIconData printerPrimary = IconifyIconData(IconData(
-    0xe39b,
+    0xe3a5,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `printer` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData printerSecondary = IconifyIconData(IconData(
-    0xe39b,
+    0xe3a5,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `printer-circle`
   static const IconifyIconData printerCircle = IconifyIconData(IconData(
-    0xe39c,
+    0xe3a6,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `printer-circle-filled` — primary layer (full opacity)
   static const IconifyIconData printerCircleFilledPrimary = IconifyIconData(IconData(
-    0xe39d,
+    0xe3a7,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `printer-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData printerCircleFilledSecondary = IconifyIconData(IconData(
-    0xe39d,
+    0xe3a7,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `printer-circle-off`
   static const IconifyIconData printerCircleOff = IconifyIconData(IconData(
-    0xe39e,
+    0xe3a8,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `printer-off` — primary layer (full opacity)
   static const IconifyIconData printerOffPrimary = IconifyIconData(IconData(
-    0xe39f,
+    0xe3a9,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `printer-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData printerOffSecondary = IconifyIconData(IconData(
-    0xe39f,
+    0xe3a9,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `qr-code`
   static const IconifyIconData qrCode = IconifyIconData(IconData(
-    0xe3a0,
+    0xe3aa,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `qr-code-circle`
   static const IconifyIconData qrCodeCircle = IconifyIconData(IconData(
-    0xe3a1,
+    0xe3ab,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `qr-code-circle-filled` — primary layer (full opacity)
   static const IconifyIconData qrCodeCircleFilledPrimary = IconifyIconData(IconData(
-    0xe3a2,
+    0xe3ac,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `qr-code-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData qrCodeCircleFilledSecondary = IconifyIconData(IconData(
-    0xe3a2,
+    0xe3ac,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `qr-code-circle-off`
   static const IconifyIconData qrCodeCircleOff = IconifyIconData(IconData(
-    0xe3a3,
+    0xe3ad,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `qr-code-off`
   static const IconifyIconData qrCodeOff = IconifyIconData(IconData(
-    0xe3a4,
+    0xe3ae,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `question`
   static const IconifyIconData question = IconifyIconData(IconData(
-    0xe3a5,
+    0xe3af,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `question-circle`
   static const IconifyIconData questionCircle = IconifyIconData(IconData(
-    0xe3a6,
+    0xe3b0,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `question-circle-filled` — primary layer (full opacity)
   static const IconifyIconData questionCircleFilledPrimary = IconifyIconData(IconData(
-    0xe3a7,
+    0xe3b1,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `question-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData questionCircleFilledSecondary = IconifyIconData(IconData(
-    0xe3a7,
+    0xe3b1,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `question-circle-off`
   static const IconifyIconData questionCircleOff = IconifyIconData(IconData(
-    0xe3a8,
+    0xe3b2,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `question-off`
   static const IconifyIconData questionOff = IconifyIconData(IconData(
-    0xe3a9,
+    0xe3b3,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `radio`
   static const IconifyIconData radio = IconifyIconData(IconData(
-    0xe3aa,
+    0xe3b4,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `radio-circle`
   static const IconifyIconData radioCircle = IconifyIconData(IconData(
-    0xe3ab,
+    0xe3b5,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `radio-circle-filled` — primary layer (full opacity)
   static const IconifyIconData radioCircleFilledPrimary = IconifyIconData(IconData(
-    0xe3ac,
+    0xe3b6,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `radio-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData radioCircleFilledSecondary = IconifyIconData(IconData(
-    0xe3ac,
+    0xe3b6,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `radio-circle-off`
   static const IconifyIconData radioCircleOff = IconifyIconData(IconData(
-    0xe3ad,
+    0xe3b7,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `radio-off`
   static const IconifyIconData radioOff = IconifyIconData(IconData(
-    0xe3ae,
+    0xe3b8,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `raise-hand`
   static const IconifyIconData raiseHand = IconifyIconData(IconData(
-    0xe3af,
+    0xe3b9,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `raise-hand-circle`
   static const IconifyIconData raiseHandCircle = IconifyIconData(IconData(
-    0xe3b0,
+    0xe3ba,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `raise-hand-circle-filled`
   static const IconifyIconData raiseHandCircleFilled = IconifyIconData(IconData(
-    0xe3b1,
+    0xe3bb,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `raise-hand-circle-off`
   static const IconifyIconData raiseHandCircleOff = IconifyIconData(IconData(
-    0xe3b2,
+    0xe3bc,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `raise-hand-off`
   static const IconifyIconData raiseHandOff = IconifyIconData(IconData(
-    0xe3b3,
+    0xe3bd,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `refresh` — primary layer (full opacity)
   static const IconifyIconData refreshPrimary = IconifyIconData(IconData(
-    0xe3b4,
+    0xe3be,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `refresh` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData refreshSecondary = IconifyIconData(IconData(
-    0xe3b4,
+    0xe3be,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `reload` — primary layer (full opacity)
   static const IconifyIconData reloadPrimary = IconifyIconData(IconData(
-    0xe3b5,
+    0xe3bf,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `reload` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData reloadSecondary = IconifyIconData(IconData(
-    0xe3b5,
+    0xe3bf,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `repeat`
   static const IconifyIconData repeat = IconifyIconData(IconData(
-    0xe3b6,
+    0xe3c0,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `repeat-circle`
   static const IconifyIconData repeatCircle = IconifyIconData(IconData(
-    0xe3b7,
+    0xe3c1,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `repeat-circle-filled`
   static const IconifyIconData repeatCircleFilled = IconifyIconData(IconData(
-    0xe3b8,
+    0xe3c2,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `repeat-circle-off`
   static const IconifyIconData repeatCircleOff = IconifyIconData(IconData(
-    0xe3b9,
+    0xe3c3,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `repeat-off`
   static const IconifyIconData repeatOff = IconifyIconData(IconData(
-    0xe3ba,
+    0xe3c4,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `rewind`
   static const IconifyIconData rewind = IconifyIconData(IconData(
-    0xe3bb,
+    0xe3c5,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `rewind-circle`
   static const IconifyIconData rewindCircle = IconifyIconData(IconData(
-    0xe3bc,
+    0xe3c6,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `rewind-circle-filled`
   static const IconifyIconData rewindCircleFilled = IconifyIconData(IconData(
-    0xe3bd,
+    0xe3c7,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `rewind-circle-off`
   static const IconifyIconData rewindCircleOff = IconifyIconData(IconData(
-    0xe3be,
+    0xe3c8,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `rewind-off`
   static const IconifyIconData rewindOff = IconifyIconData(IconData(
-    0xe3bf,
+    0xe3c9,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `rewind-time`
   static const IconifyIconData rewindTime = IconifyIconData(IconData(
-    0xe3c0,
+    0xe3ca,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `rewind-time-circle`
   static const IconifyIconData rewindTimeCircle = IconifyIconData(IconData(
-    0xe3c1,
+    0xe3cb,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `rewind-time-circle-filled`
   static const IconifyIconData rewindTimeCircleFilled = IconifyIconData(IconData(
-    0xe3c2,
+    0xe3cc,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `rewind-time-circle-off`
   static const IconifyIconData rewindTimeCircleOff = IconifyIconData(IconData(
-    0xe3c3,
+    0xe3cd,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `rewind-time-off`
   static const IconifyIconData rewindTimeOff = IconifyIconData(IconData(
-    0xe3c4,
+    0xe3ce,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `ruler` — primary layer (full opacity)
   static const IconifyIconData rulerPrimary = IconifyIconData(IconData(
-    0xe3c5,
+    0xe3cf,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `ruler` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData rulerSecondary = IconifyIconData(IconData(
-    0xe3c5,
+    0xe3cf,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `ruler-circle` — primary layer (full opacity)
   static const IconifyIconData rulerCirclePrimary = IconifyIconData(IconData(
-    0xe3c6,
+    0xe3d0,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `ruler-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData rulerCircleSecondary = IconifyIconData(IconData(
-    0xe3c6,
+    0xe3d0,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `ruler-circle-filled` — primary layer (full opacity)
   static const IconifyIconData rulerCircleFilledPrimary = IconifyIconData(IconData(
-    0xe3c7,
+    0xe3d1,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `ruler-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData rulerCircleFilledSecondary = IconifyIconData(IconData(
-    0xe3c7,
+    0xe3d1,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `ruler-circle-off` — primary layer (full opacity)
   static const IconifyIconData rulerCircleOffPrimary = IconifyIconData(IconData(
-    0xe3c8,
+    0xe3d2,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `ruler-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData rulerCircleOffSecondary = IconifyIconData(IconData(
-    0xe3c8,
+    0xe3d2,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `ruler-off` — primary layer (full opacity)
   static const IconifyIconData rulerOffPrimary = IconifyIconData(IconData(
-    0xe3c9,
+    0xe3d3,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `ruler-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData rulerOffSecondary = IconifyIconData(IconData(
-    0xe3c9,
+    0xe3d3,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `scissors` — primary layer (full opacity)
   static const IconifyIconData scissorsPrimary = IconifyIconData(IconData(
-    0xe3ca,
+    0xe3d4,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `scissors` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData scissorsSecondary = IconifyIconData(IconData(
-    0xe3ca,
+    0xe3d4,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `scissors-circle` — primary layer (full opacity)
   static const IconifyIconData scissorsCirclePrimary = IconifyIconData(IconData(
-    0xe3cb,
+    0xe3d5,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `scissors-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData scissorsCircleSecondary = IconifyIconData(IconData(
-    0xe3cb,
+    0xe3d5,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `scissors-circle-filled` — primary layer (full opacity)
   static const IconifyIconData scissorsCircleFilledPrimary = IconifyIconData(IconData(
-    0xe3cc,
+    0xe3d6,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `scissors-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData scissorsCircleFilledSecondary = IconifyIconData(IconData(
-    0xe3cc,
+    0xe3d6,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `scissors-circle-off` — primary layer (full opacity)
   static const IconifyIconData scissorsCircleOffPrimary = IconifyIconData(IconData(
-    0xe3cd,
+    0xe3d7,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `scissors-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData scissorsCircleOffSecondary = IconifyIconData(IconData(
-    0xe3cd,
+    0xe3d7,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `scissors-off` — primary layer (full opacity)
   static const IconifyIconData scissorsOffPrimary = IconifyIconData(IconData(
-    0xe3ce,
+    0xe3d8,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `scissors-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData scissorsOffSecondary = IconifyIconData(IconData(
-    0xe3ce,
+    0xe3d8,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `seedling`
   static const IconifyIconData seedling = IconifyIconData(IconData(
-    0xe3cf,
+    0xe3d9,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `seedling-circle`
   static const IconifyIconData seedlingCircle = IconifyIconData(IconData(
-    0xe3d0,
+    0xe3da,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `seedling-circle-filled`
   static const IconifyIconData seedlingCircleFilled = IconifyIconData(IconData(
-    0xe3d1,
+    0xe3db,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `seedling-circle-off`
   static const IconifyIconData seedlingCircleOff = IconifyIconData(IconData(
-    0xe3d2,
+    0xe3dc,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `seedling-off`
   static const IconifyIconData seedlingOff = IconifyIconData(IconData(
-    0xe3d3,
+    0xe3dd,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `send` — primary layer (full opacity)
   static const IconifyIconData sendPrimary = IconifyIconData(IconData(
-    0xe3d4,
+    0xe3de,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `send` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData sendSecondary = IconifyIconData(IconData(
-    0xe3d4,
+    0xe3de,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `share-android` — primary layer (full opacity)
   static const IconifyIconData shareAndroidPrimary = IconifyIconData(IconData(
-    0xe3d5,
+    0xe3df,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `share-android` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData shareAndroidSecondary = IconifyIconData(IconData(
-    0xe3d5,
+    0xe3df,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `share-android-circle` — primary layer (full opacity)
   static const IconifyIconData shareAndroidCirclePrimary = IconifyIconData(IconData(
-    0xe3d6,
+    0xe3e0,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `share-android-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData shareAndroidCircleSecondary = IconifyIconData(IconData(
-    0xe3d6,
+    0xe3e0,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `share-android-circle-filled` — primary layer (full opacity)
   static const IconifyIconData shareAndroidCircleFilledPrimary = IconifyIconData(IconData(
-    0xe3d7,
+    0xe3e1,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `share-android-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData shareAndroidCircleFilledSecondary = IconifyIconData(IconData(
-    0xe3d7,
+    0xe3e1,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `share-android-circle-off` — primary layer (full opacity)
   static const IconifyIconData shareAndroidCircleOffPrimary = IconifyIconData(IconData(
-    0xe3d8,
+    0xe3e2,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `share-android-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData shareAndroidCircleOffSecondary = IconifyIconData(IconData(
-    0xe3d8,
+    0xe3e2,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `share-android-off` — primary layer (full opacity)
   static const IconifyIconData shareAndroidOffPrimary = IconifyIconData(IconData(
-    0xe3d9,
+    0xe3e3,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `share-android-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData shareAndroidOffSecondary = IconifyIconData(IconData(
-    0xe3d9,
+    0xe3e3,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `share-ios` — primary layer (full opacity)
   static const IconifyIconData shareIosPrimary = IconifyIconData(IconData(
-    0xe3da,
+    0xe3e4,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `share-ios` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData shareIosSecondary = IconifyIconData(IconData(
-    0xe3da,
+    0xe3e4,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `share-ios-circle` — primary layer (full opacity)
   static const IconifyIconData shareIosCirclePrimary = IconifyIconData(IconData(
-    0xe3db,
+    0xe3e5,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `share-ios-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData shareIosCircleSecondary = IconifyIconData(IconData(
-    0xe3db,
+    0xe3e5,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `share-ios-circle-filled` — primary layer (full opacity)
   static const IconifyIconData shareIosCircleFilledPrimary = IconifyIconData(IconData(
-    0xe3dc,
+    0xe3e6,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `share-ios-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData shareIosCircleFilledSecondary = IconifyIconData(IconData(
-    0xe3dc,
+    0xe3e6,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `share-ios-circle-off` — primary layer (full opacity)
   static const IconifyIconData shareIosCircleOffPrimary = IconifyIconData(IconData(
-    0xe3dd,
+    0xe3e7,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `share-ios-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData shareIosCircleOffSecondary = IconifyIconData(IconData(
-    0xe3dd,
+    0xe3e7,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `share-ios-off` — primary layer (full opacity)
   static const IconifyIconData shareIosOffPrimary = IconifyIconData(IconData(
-    0xe3de,
+    0xe3e8,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `share-ios-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData shareIosOffSecondary = IconifyIconData(IconData(
-    0xe3de,
+    0xe3e8,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield` — primary layer (full opacity)
   static const IconifyIconData shieldPrimary = IconifyIconData(IconData(
-    0xe3df,
+    0xe3e9,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData shieldSecondary = IconifyIconData(IconData(
-    0xe3df,
+    0xe3e9,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield-check` — primary layer (full opacity)
   static const IconifyIconData shieldCheckPrimary = IconifyIconData(IconData(
-    0xe3e0,
+    0xe3ea,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield-check` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData shieldCheckSecondary = IconifyIconData(IconData(
-    0xe3e0,
+    0xe3ea,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield-check-circle` — primary layer (full opacity)
   static const IconifyIconData shieldCheckCirclePrimary = IconifyIconData(IconData(
-    0xe3e1,
+    0xe3eb,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield-check-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData shieldCheckCircleSecondary = IconifyIconData(IconData(
-    0xe3e1,
+    0xe3eb,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield-check-circle-filled`
   static const IconifyIconData shieldCheckCircleFilled = IconifyIconData(IconData(
-    0xe3e2,
+    0xe3ec,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield-check-circle-off` — primary layer (full opacity)
   static const IconifyIconData shieldCheckCircleOffPrimary = IconifyIconData(IconData(
-    0xe3e3,
+    0xe3ed,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield-check-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData shieldCheckCircleOffSecondary = IconifyIconData(IconData(
-    0xe3e3,
+    0xe3ed,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield-check-off` — primary layer (full opacity)
   static const IconifyIconData shieldCheckOffPrimary = IconifyIconData(IconData(
-    0xe3e4,
+    0xe3ee,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield-check-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData shieldCheckOffSecondary = IconifyIconData(IconData(
-    0xe3e4,
+    0xe3ee,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield-checkered`
   static const IconifyIconData shieldCheckered = IconifyIconData(IconData(
-    0xe3e5,
+    0xe3ef,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield-checkered-circle`
   static const IconifyIconData shieldCheckeredCircle = IconifyIconData(IconData(
-    0xe3e6,
+    0xe3f0,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield-checkered-circle-filled` — primary layer (full opacity)
   static const IconifyIconData shieldCheckeredCircleFilledPrimary = IconifyIconData(IconData(
-    0xe3e7,
+    0xe3f1,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield-checkered-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData shieldCheckeredCircleFilledSecondary = IconifyIconData(IconData(
-    0xe3e7,
+    0xe3f1,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield-checkered-circle-off`
   static const IconifyIconData shieldCheckeredCircleOff = IconifyIconData(IconData(
-    0xe3e8,
+    0xe3f2,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield-checkered-off`
   static const IconifyIconData shieldCheckeredOff = IconifyIconData(IconData(
-    0xe3e9,
+    0xe3f3,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield-circle` — primary layer (full opacity)
   static const IconifyIconData shieldCirclePrimary = IconifyIconData(IconData(
-    0xe3ea,
+    0xe3f4,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData shieldCircleSecondary = IconifyIconData(IconData(
-    0xe3ea,
+    0xe3f4,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield-circle-filled` — primary layer (full opacity)
   static const IconifyIconData shieldCircleFilledPrimary = IconifyIconData(IconData(
-    0xe3eb,
+    0xe3f5,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData shieldCircleFilledSecondary = IconifyIconData(IconData(
-    0xe3eb,
+    0xe3f5,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield-circle-off` — primary layer (full opacity)
   static const IconifyIconData shieldCircleOffPrimary = IconifyIconData(IconData(
-    0xe3ec,
+    0xe3f6,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData shieldCircleOffSecondary = IconifyIconData(IconData(
-    0xe3ec,
+    0xe3f6,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield-off` — primary layer (full opacity)
   static const IconifyIconData shieldOffPrimary = IconifyIconData(IconData(
-    0xe3ed,
+    0xe3f7,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shield-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData shieldOffSecondary = IconifyIconData(IconData(
-    0xe3ed,
+    0xe3f7,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shuffle`
   static const IconifyIconData shuffle = IconifyIconData(IconData(
-    0xe3ee,
+    0xe3f8,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shuffle-circle`
   static const IconifyIconData shuffleCircle = IconifyIconData(IconData(
-    0xe3ef,
+    0xe3f9,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shuffle-circle-filled`
   static const IconifyIconData shuffleCircleFilled = IconifyIconData(IconData(
-    0xe3f0,
+    0xe3fa,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shuffle-circle-off`
   static const IconifyIconData shuffleCircleOff = IconifyIconData(IconData(
-    0xe3f1,
+    0xe3fb,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `shuffle-off`
   static const IconifyIconData shuffleOff = IconifyIconData(IconData(
-    0xe3f2,
+    0xe3fc,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `sliders`
   static const IconifyIconData sliders = IconifyIconData(IconData(
-    0xe3f3,
+    0xe3fd,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `sliders-circle`
   static const IconifyIconData slidersCircle = IconifyIconData(IconData(
-    0xe3f4,
+    0xe3fe,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `sliders-circle-filled`
   static const IconifyIconData slidersCircleFilled = IconifyIconData(IconData(
-    0xe3f5,
+    0xe3ff,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `sliders-circle-off`
   static const IconifyIconData slidersCircleOff = IconifyIconData(IconData(
-    0xe3f6,
+    0xe400,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `sliders-off`
   static const IconifyIconData slidersOff = IconifyIconData(IconData(
-    0xe3f7,
+    0xe401,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone` — primary layer (full opacity)
   static const IconifyIconData smartphonePrimary = IconifyIconData(IconData(
-    0xe3f8,
+    0xe402,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData smartphoneSecondary = IconifyIconData(IconData(
-    0xe3f8,
+    0xe402,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-cutout` — primary layer (full opacity)
   static const IconifyIconData smartphoneCutoutPrimary = IconifyIconData(IconData(
-    0xe3f9,
+    0xe403,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-cutout` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData smartphoneCutoutSecondary = IconifyIconData(IconData(
-    0xe3f9,
+    0xe403,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-cutout-circle` — primary layer (full opacity)
   static const IconifyIconData smartphoneCutoutCirclePrimary = IconifyIconData(IconData(
-    0xe3fa,
+    0xe404,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-cutout-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData smartphoneCutoutCircleSecondary = IconifyIconData(IconData(
-    0xe3fa,
+    0xe404,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-cutout-circle-filled`
   static const IconifyIconData smartphoneCutoutCircleFilled = IconifyIconData(IconData(
-    0xe3fb,
+    0xe405,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-cutout-circle-off` — primary layer (full opacity)
   static const IconifyIconData smartphoneCutoutCircleOffPrimary = IconifyIconData(IconData(
-    0xe3fc,
+    0xe406,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-cutout-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData smartphoneCutoutCircleOffSecondary = IconifyIconData(IconData(
-    0xe3fc,
+    0xe406,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-cutout-off` — primary layer (full opacity)
   static const IconifyIconData smartphoneCutoutOffPrimary = IconifyIconData(IconData(
-    0xe3fd,
+    0xe407,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-cutout-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData smartphoneCutoutOffSecondary = IconifyIconData(IconData(
-    0xe3fd,
+    0xe407,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-home-button` — primary layer (full opacity)
   static const IconifyIconData smartphoneHomeButtonPrimary = IconifyIconData(IconData(
-    0xe3fe,
+    0xe408,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-home-button` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData smartphoneHomeButtonSecondary = IconifyIconData(IconData(
-    0xe3fe,
+    0xe408,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-home-button-circle` — primary layer (full opacity)
   static const IconifyIconData smartphoneHomeButtonCirclePrimary = IconifyIconData(IconData(
-    0xe3ff,
+    0xe409,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-home-button-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData smartphoneHomeButtonCircleSecondary = IconifyIconData(IconData(
-    0xe3ff,
+    0xe409,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-home-button-circle-filled` — primary layer (full opacity)
   static const IconifyIconData smartphoneHomeButtonCircleFilledPrimary = IconifyIconData(IconData(
-    0xe400,
+    0xe40a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-home-button-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData smartphoneHomeButtonCircleFilledSecondary = IconifyIconData(IconData(
-    0xe400,
+    0xe40a,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-home-button-circle-off` — primary layer (full opacity)
   static const IconifyIconData smartphoneHomeButtonCircleOffPrimary = IconifyIconData(IconData(
-    0xe401,
+    0xe40b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-home-button-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData smartphoneHomeButtonCircleOffSecondary = IconifyIconData(IconData(
-    0xe401,
+    0xe40b,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-home-button-off` — primary layer (full opacity)
   static const IconifyIconData smartphoneHomeButtonOffPrimary = IconifyIconData(IconData(
-    0xe402,
+    0xe40c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-home-button-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData smartphoneHomeButtonOffSecondary = IconifyIconData(IconData(
-    0xe402,
+    0xe40c,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-notch` — primary layer (full opacity)
   static const IconifyIconData smartphoneNotchPrimary = IconifyIconData(IconData(
-    0xe403,
+    0xe40d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-notch` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData smartphoneNotchSecondary = IconifyIconData(IconData(
-    0xe403,
+    0xe40d,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-notch-circle` — primary layer (full opacity)
   static const IconifyIconData smartphoneNotchCirclePrimary = IconifyIconData(IconData(
-    0xe404,
+    0xe40e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-notch-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData smartphoneNotchCircleSecondary = IconifyIconData(IconData(
-    0xe404,
+    0xe40e,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-notch-circle-filled` — primary layer (full opacity)
   static const IconifyIconData smartphoneNotchCircleFilledPrimary = IconifyIconData(IconData(
-    0xe405,
+    0xe40f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-notch-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData smartphoneNotchCircleFilledSecondary = IconifyIconData(IconData(
-    0xe405,
+    0xe40f,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-notch-circle-off` — primary layer (full opacity)
   static const IconifyIconData smartphoneNotchCircleOffPrimary = IconifyIconData(IconData(
-    0xe406,
+    0xe410,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-notch-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData smartphoneNotchCircleOffSecondary = IconifyIconData(IconData(
-    0xe406,
+    0xe410,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-notch-off` — primary layer (full opacity)
   static const IconifyIconData smartphoneNotchOffPrimary = IconifyIconData(IconData(
-    0xe407,
+    0xe411,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone-notch-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData smartphoneNotchOffSecondary = IconifyIconData(IconData(
-    0xe407,
+    0xe411,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone2` — primary layer (full opacity)
   static const IconifyIconData smartphone2Primary = IconifyIconData(IconData(
-    0xe408,
+    0xe412,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `smartphone2` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData smartphone2Secondary = IconifyIconData(IconData(
-    0xe408,
+    0xe412,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `soft-drink` — primary layer (full opacity)
   static const IconifyIconData softDrinkPrimary = IconifyIconData(IconData(
-    0xe409,
+    0xe413,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `soft-drink` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData softDrinkSecondary = IconifyIconData(IconData(
-    0xe409,
+    0xe413,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `soft-drink-circle` — primary layer (full opacity)
   static const IconifyIconData softDrinkCirclePrimary = IconifyIconData(IconData(
-    0xe40a,
+    0xe414,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `soft-drink-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData softDrinkCircleSecondary = IconifyIconData(IconData(
-    0xe40a,
+    0xe414,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `soft-drink-circle-filled` — primary layer (full opacity)
   static const IconifyIconData softDrinkCircleFilledPrimary = IconifyIconData(IconData(
-    0xe40b,
+    0xe415,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `soft-drink-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData softDrinkCircleFilledSecondary = IconifyIconData(IconData(
-    0xe40b,
+    0xe415,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `soft-drink-circle-off` — primary layer (full opacity)
   static const IconifyIconData softDrinkCircleOffPrimary = IconifyIconData(IconData(
-    0xe40c,
+    0xe416,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `soft-drink-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData softDrinkCircleOffSecondary = IconifyIconData(IconData(
-    0xe40c,
+    0xe416,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `soft-drink-off` — primary layer (full opacity)
   static const IconifyIconData softDrinkOffPrimary = IconifyIconData(IconData(
-    0xe40d,
+    0xe417,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `soft-drink-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData softDrinkOffSecondary = IconifyIconData(IconData(
-    0xe40d,
+    0xe417,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `sort`
   static const IconifyIconData sort = IconifyIconData(IconData(
-    0xe40e,
+    0xe418,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `speaker-high`
   static const IconifyIconData speakerHigh = IconifyIconData(IconData(
-    0xe40f,
+    0xe419,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `speaker-high-circle`
   static const IconifyIconData speakerHighCircle = IconifyIconData(IconData(
-    0xe410,
+    0xe41a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `speaker-high-circle-filled` — primary layer (full opacity)
   static const IconifyIconData speakerHighCircleFilledPrimary = IconifyIconData(IconData(
-    0xe411,
+    0xe41b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `speaker-high-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData speakerHighCircleFilledSecondary = IconifyIconData(IconData(
-    0xe411,
+    0xe41b,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `speaker-high-circle-off`
   static const IconifyIconData speakerHighCircleOff = IconifyIconData(IconData(
-    0xe412,
+    0xe41c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `speaker-high-off`
   static const IconifyIconData speakerHighOff = IconifyIconData(IconData(
-    0xe413,
+    0xe41d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `speaker-low`
   static const IconifyIconData speakerLow = IconifyIconData(IconData(
-    0xe414,
+    0xe41e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `speaker-low-circle`
   static const IconifyIconData speakerLowCircle = IconifyIconData(IconData(
-    0xe415,
+    0xe41f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `speaker-low-circle-filled` — primary layer (full opacity)
   static const IconifyIconData speakerLowCircleFilledPrimary = IconifyIconData(IconData(
-    0xe416,
+    0xe420,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `speaker-low-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData speakerLowCircleFilledSecondary = IconifyIconData(IconData(
-    0xe416,
+    0xe420,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `speaker-low-circle-off`
   static const IconifyIconData speakerLowCircleOff = IconifyIconData(IconData(
-    0xe417,
+    0xe421,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `speaker-low-off`
   static const IconifyIconData speakerLowOff = IconifyIconData(IconData(
-    0xe418,
+    0xe422,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `speaker-off`
   static const IconifyIconData speakerOff = IconifyIconData(IconData(
-    0xe419,
+    0xe423,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `square` — primary layer (full opacity)
   static const IconifyIconData squarePrimary = IconifyIconData(IconData(
-    0xe41a,
+    0xe424,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `square` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData squareSecondary = IconifyIconData(IconData(
-    0xe41a,
+    0xe424,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `square-circle` — primary layer (full opacity)
   static const IconifyIconData squareCirclePrimary = IconifyIconData(IconData(
-    0xe41b,
+    0xe425,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `square-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData squareCircleSecondary = IconifyIconData(IconData(
-    0xe41b,
+    0xe425,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `square-circle-filled` — primary layer (full opacity)
   static const IconifyIconData squareCircleFilledPrimary = IconifyIconData(IconData(
-    0xe41c,
+    0xe426,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `square-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData squareCircleFilledSecondary = IconifyIconData(IconData(
-    0xe41c,
+    0xe426,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `square-circle-off` — primary layer (full opacity)
   static const IconifyIconData squareCircleOffPrimary = IconifyIconData(IconData(
-    0xe41d,
+    0xe427,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `square-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData squareCircleOffSecondary = IconifyIconData(IconData(
-    0xe41d,
+    0xe427,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `square-filled` — primary layer (full opacity)
   static const IconifyIconData squareFilledPrimary = IconifyIconData(IconData(
-    0xe41e,
+    0xe428,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `square-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData squareFilledSecondary = IconifyIconData(IconData(
-    0xe41e,
+    0xe428,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `square-filled-circle` — primary layer (full opacity)
   static const IconifyIconData squareFilledCirclePrimary = IconifyIconData(IconData(
-    0xe41f,
+    0xe429,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `square-filled-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData squareFilledCircleSecondary = IconifyIconData(IconData(
-    0xe41f,
+    0xe429,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `square-filled-circle-filled` — primary layer (full opacity)
   static const IconifyIconData squareFilledCircleFilledPrimary = IconifyIconData(IconData(
-    0xe420,
+    0xe42a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `square-filled-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData squareFilledCircleFilledSecondary = IconifyIconData(IconData(
-    0xe420,
+    0xe42a,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `square-filled-circle-off` — primary layer (full opacity)
   static const IconifyIconData squareFilledCircleOffPrimary = IconifyIconData(IconData(
-    0xe421,
+    0xe42b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `square-filled-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData squareFilledCircleOffSecondary = IconifyIconData(IconData(
-    0xe421,
+    0xe42b,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `square-filled-off` — primary layer (full opacity)
   static const IconifyIconData squareFilledOffPrimary = IconifyIconData(IconData(
-    0xe422,
+    0xe42c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `square-filled-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData squareFilledOffSecondary = IconifyIconData(IconData(
-    0xe422,
+    0xe42c,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `square-off` — primary layer (full opacity)
   static const IconifyIconData squareOffPrimary = IconifyIconData(IconData(
-    0xe423,
+    0xe42d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `square-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData squareOffSecondary = IconifyIconData(IconData(
-    0xe423,
+    0xe42d,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `star` — primary layer (full opacity)
   static const IconifyIconData starPrimary = IconifyIconData(IconData(
-    0xe424,
+    0xe42e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `star` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData starSecondary = IconifyIconData(IconData(
-    0xe424,
+    0xe42e,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `star-circle` — primary layer (full opacity)
   static const IconifyIconData starCirclePrimary = IconifyIconData(IconData(
-    0xe425,
+    0xe42f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `star-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData starCircleSecondary = IconifyIconData(IconData(
-    0xe425,
+    0xe42f,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `star-circle-filled` — primary layer (full opacity)
   static const IconifyIconData starCircleFilledPrimary = IconifyIconData(IconData(
-    0xe426,
+    0xe430,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `star-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData starCircleFilledSecondary = IconifyIconData(IconData(
-    0xe426,
+    0xe430,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `star-circle-off`
   static const IconifyIconData starCircleOff = IconifyIconData(IconData(
-    0xe427,
+    0xe431,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `star-filled` — primary layer (full opacity)
   static const IconifyIconData starFilledPrimary = IconifyIconData(IconData(
-    0xe428,
+    0xe432,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `star-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData starFilledSecondary = IconifyIconData(IconData(
-    0xe428,
+    0xe432,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `star-filled-circle` — primary layer (full opacity)
   static const IconifyIconData starFilledCirclePrimary = IconifyIconData(IconData(
-    0xe429,
+    0xe433,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `star-filled-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData starFilledCircleSecondary = IconifyIconData(IconData(
-    0xe429,
+    0xe433,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `star-filled-circle-filled` — primary layer (full opacity)
   static const IconifyIconData starFilledCircleFilledPrimary = IconifyIconData(IconData(
-    0xe42a,
+    0xe434,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `star-filled-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData starFilledCircleFilledSecondary = IconifyIconData(IconData(
-    0xe42a,
+    0xe434,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `star-filled-circle-off` — primary layer (full opacity)
   static const IconifyIconData starFilledCircleOffPrimary = IconifyIconData(IconData(
-    0xe42b,
+    0xe435,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `star-filled-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData starFilledCircleOffSecondary = IconifyIconData(IconData(
-    0xe42b,
+    0xe435,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `star-filled-off` — primary layer (full opacity)
   static const IconifyIconData starFilledOffPrimary = IconifyIconData(IconData(
-    0xe42c,
+    0xe436,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `star-filled-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData starFilledOffSecondary = IconifyIconData(IconData(
-    0xe42c,
+    0xe436,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `star-off`
   static const IconifyIconData starOff = IconifyIconData(IconData(
-    0xe42d,
+    0xe437,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `stars`
   static const IconifyIconData stars = IconifyIconData(IconData(
-    0xe42e,
+    0xe438,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `stars-circle`
   static const IconifyIconData starsCircle = IconifyIconData(IconData(
-    0xe42f,
+    0xe439,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `stars-circle-filled` — primary layer (full opacity)
   static const IconifyIconData starsCircleFilledPrimary = IconifyIconData(IconData(
-    0xe430,
+    0xe43a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `stars-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData starsCircleFilledSecondary = IconifyIconData(IconData(
-    0xe430,
+    0xe43a,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `stars-circle-off`
   static const IconifyIconData starsCircleOff = IconifyIconData(IconData(
-    0xe431,
+    0xe43b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `stars-off`
   static const IconifyIconData starsOff = IconifyIconData(IconData(
-    0xe432,
+    0xe43c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `stopwatch`
   static const IconifyIconData stopwatch = IconifyIconData(IconData(
-    0xe433,
+    0xe43d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `stopwatch-circle`
   static const IconifyIconData stopwatchCircle = IconifyIconData(IconData(
-    0xe434,
+    0xe43e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `stopwatch-circle-filled`
   static const IconifyIconData stopwatchCircleFilled = IconifyIconData(IconData(
-    0xe435,
+    0xe43f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `stopwatch-circle-off`
   static const IconifyIconData stopwatchCircleOff = IconifyIconData(IconData(
-    0xe436,
+    0xe440,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `stopwatch-off`
   static const IconifyIconData stopwatchOff = IconifyIconData(IconData(
-    0xe437,
+    0xe441,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `studio-backdrop`
   static const IconifyIconData studioBackdrop = IconifyIconData(IconData(
-    0xe438,
+    0xe442,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `studio-backdrop-circle`
   static const IconifyIconData studioBackdropCircle = IconifyIconData(IconData(
-    0xe439,
+    0xe443,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `studio-backdrop-circle-filled`
   static const IconifyIconData studioBackdropCircleFilled = IconifyIconData(IconData(
-    0xe43a,
+    0xe444,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `studio-backdrop-circle-off`
   static const IconifyIconData studioBackdropCircleOff = IconifyIconData(IconData(
-    0xe43b,
+    0xe445,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `studio-backdrop-off`
   static const IconifyIconData studioBackdropOff = IconifyIconData(IconData(
-    0xe43c,
+    0xe446,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `studio-light-front`
   static const IconifyIconData studioLightFront = IconifyIconData(IconData(
-    0xe43d,
+    0xe447,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `studio-light-front-circle`
   static const IconifyIconData studioLightFrontCircle = IconifyIconData(IconData(
-    0xe43e,
+    0xe448,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `studio-light-front-circle-filled`
   static const IconifyIconData studioLightFrontCircleFilled = IconifyIconData(IconData(
-    0xe43f,
+    0xe449,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `studio-light-front-circle-off`
   static const IconifyIconData studioLightFrontCircleOff = IconifyIconData(IconData(
-    0xe440,
+    0xe44a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `studio-light-front-off`
   static const IconifyIconData studioLightFrontOff = IconifyIconData(IconData(
-    0xe441,
+    0xe44b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `studio-light-side`
   static const IconifyIconData studioLightSide = IconifyIconData(IconData(
-    0xe442,
+    0xe44c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `studio-light-side-circle`
   static const IconifyIconData studioLightSideCircle = IconifyIconData(IconData(
-    0xe443,
+    0xe44d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `studio-light-side-circle-filled`
   static const IconifyIconData studioLightSideCircleFilled = IconifyIconData(IconData(
-    0xe444,
+    0xe44e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `studio-light-side-circle-off`
   static const IconifyIconData studioLightSideCircleOff = IconifyIconData(IconData(
-    0xe445,
+    0xe44f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `studio-light-side-off`
   static const IconifyIconData studioLightSideOff = IconifyIconData(IconData(
-    0xe446,
+    0xe450,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `sun` — primary layer (full opacity)
   static const IconifyIconData sunPrimary = IconifyIconData(IconData(
-    0xe447,
+    0xe451,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `sun` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData sunSecondary = IconifyIconData(IconData(
-    0xe447,
+    0xe451,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `sun-circle`
   static const IconifyIconData sunCircle = IconifyIconData(IconData(
-    0xe448,
+    0xe452,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `sun-circle-filled`
   static const IconifyIconData sunCircleFilled = IconifyIconData(IconData(
-    0xe449,
+    0xe453,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `sun-circle-off`
   static const IconifyIconData sunCircleOff = IconifyIconData(IconData(
-    0xe44a,
+    0xe454,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `sun-off` — primary layer (full opacity)
   static const IconifyIconData sunOffPrimary = IconifyIconData(IconData(
-    0xe44b,
+    0xe455,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `sun-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData sunOffSecondary = IconifyIconData(IconData(
-    0xe44b,
+    0xe455,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `sword`
   static const IconifyIconData sword = IconifyIconData(IconData(
-    0xe44c,
+    0xe456,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `sword-circle`
   static const IconifyIconData swordCircle = IconifyIconData(IconData(
-    0xe44d,
+    0xe457,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `sword-circle-filled`
   static const IconifyIconData swordCircleFilled = IconifyIconData(IconData(
-    0xe44e,
+    0xe458,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `sword-circle-off`
   static const IconifyIconData swordCircleOff = IconifyIconData(IconData(
-    0xe44f,
+    0xe459,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `sword-off`
   static const IconifyIconData swordOff = IconifyIconData(IconData(
-    0xe450,
+    0xe45a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `sword-shield`
   static const IconifyIconData swordShield = IconifyIconData(IconData(
-    0xe451,
+    0xe45b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `sword-shield-circle`
   static const IconifyIconData swordShieldCircle = IconifyIconData(IconData(
-    0xe452,
+    0xe45c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `sword-shield-circle-filled`
   static const IconifyIconData swordShieldCircleFilled = IconifyIconData(IconData(
-    0xe453,
+    0xe45d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `sword-shield-circle-off`
   static const IconifyIconData swordShieldCircleOff = IconifyIconData(IconData(
-    0xe454,
+    0xe45e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `sword-shield-off`
   static const IconifyIconData swordShieldOff = IconifyIconData(IconData(
-    0xe455,
+    0xe45f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `swords`
   static const IconifyIconData swords = IconifyIconData(IconData(
-    0xe456,
+    0xe460,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `swords-circle`
   static const IconifyIconData swordsCircle = IconifyIconData(IconData(
-    0xe457,
+    0xe461,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `swords-circle-filled`
   static const IconifyIconData swordsCircleFilled = IconifyIconData(IconData(
-    0xe458,
+    0xe462,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `swords-circle-off`
   static const IconifyIconData swordsCircleOff = IconifyIconData(IconData(
-    0xe459,
+    0xe463,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `swords-off`
   static const IconifyIconData swordsOff = IconifyIconData(IconData(
-    0xe45a,
+    0xe464,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `syringe` — primary layer (full opacity)
   static const IconifyIconData syringePrimary = IconifyIconData(IconData(
-    0xe45b,
+    0xe465,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `syringe` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData syringeSecondary = IconifyIconData(IconData(
-    0xe45b,
+    0xe465,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `syringe-circle` — primary layer (full opacity)
   static const IconifyIconData syringeCirclePrimary = IconifyIconData(IconData(
-    0xe45c,
+    0xe466,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `syringe-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData syringeCircleSecondary = IconifyIconData(IconData(
-    0xe45c,
+    0xe466,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `syringe-circle-filled` — primary layer (full opacity)
   static const IconifyIconData syringeCircleFilledPrimary = IconifyIconData(IconData(
-    0xe45d,
+    0xe467,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `syringe-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData syringeCircleFilledSecondary = IconifyIconData(IconData(
-    0xe45d,
+    0xe467,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `syringe-circle-off` — primary layer (full opacity)
   static const IconifyIconData syringeCircleOffPrimary = IconifyIconData(IconData(
-    0xe45e,
+    0xe468,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `syringe-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData syringeCircleOffSecondary = IconifyIconData(IconData(
-    0xe45e,
+    0xe468,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `syringe-off` — primary layer (full opacity)
   static const IconifyIconData syringeOffPrimary = IconifyIconData(IconData(
-    0xe45f,
+    0xe469,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `syringe-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData syringeOffSecondary = IconifyIconData(IconData(
-    0xe45f,
+    0xe469,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `t-shirt` — primary layer (full opacity)
   static const IconifyIconData tShirtPrimary = IconifyIconData(IconData(
-    0xe460,
+    0xe46a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `t-shirt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData tShirtSecondary = IconifyIconData(IconData(
-    0xe460,
+    0xe46a,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `t-shirt-circle` — primary layer (full opacity)
   static const IconifyIconData tShirtCirclePrimary = IconifyIconData(IconData(
-    0xe461,
+    0xe46b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `t-shirt-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData tShirtCircleSecondary = IconifyIconData(IconData(
-    0xe461,
+    0xe46b,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `t-shirt-circle-filled` — primary layer (full opacity)
   static const IconifyIconData tShirtCircleFilledPrimary = IconifyIconData(IconData(
-    0xe462,
+    0xe46c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `t-shirt-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData tShirtCircleFilledSecondary = IconifyIconData(IconData(
-    0xe462,
+    0xe46c,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `t-shirt-circle-off` — primary layer (full opacity)
   static const IconifyIconData tShirtCircleOffPrimary = IconifyIconData(IconData(
-    0xe463,
+    0xe46d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `t-shirt-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData tShirtCircleOffSecondary = IconifyIconData(IconData(
-    0xe463,
+    0xe46d,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `t-shirt-off` — primary layer (full opacity)
   static const IconifyIconData tShirtOffPrimary = IconifyIconData(IconData(
-    0xe464,
+    0xe46e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `t-shirt-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData tShirtOffSecondary = IconifyIconData(IconData(
-    0xe464,
+    0xe46e,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `tablet`
   static const IconifyIconData tablet = IconifyIconData(IconData(
-    0xe465,
+    0xe46f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `tablet-circle`
   static const IconifyIconData tabletCircle = IconifyIconData(IconData(
-    0xe466,
+    0xe470,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `tablet-circle-filled`
   static const IconifyIconData tabletCircleFilled = IconifyIconData(IconData(
-    0xe467,
+    0xe471,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `tablet-circle-off`
   static const IconifyIconData tabletCircleOff = IconifyIconData(IconData(
-    0xe468,
+    0xe472,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `tablet-off`
   static const IconifyIconData tabletOff = IconifyIconData(IconData(
-    0xe469,
+    0xe473,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `taxi` — primary layer (full opacity)
   static const IconifyIconData taxiPrimary = IconifyIconData(IconData(
-    0xe46a,
+    0xe474,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `taxi` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData taxiSecondary = IconifyIconData(IconData(
-    0xe46a,
+    0xe474,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `taxi-circle` — primary layer (full opacity)
   static const IconifyIconData taxiCirclePrimary = IconifyIconData(IconData(
-    0xe46b,
+    0xe475,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `taxi-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData taxiCircleSecondary = IconifyIconData(IconData(
-    0xe46b,
+    0xe475,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `taxi-circle-filled`
   static const IconifyIconData taxiCircleFilled = IconifyIconData(IconData(
-    0xe46c,
+    0xe476,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `taxi-circle-off` — primary layer (full opacity)
   static const IconifyIconData taxiCircleOffPrimary = IconifyIconData(IconData(
-    0xe46d,
+    0xe477,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `taxi-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData taxiCircleOffSecondary = IconifyIconData(IconData(
-    0xe46d,
+    0xe477,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `taxi-off` — primary layer (full opacity)
   static const IconifyIconData taxiOffPrimary = IconifyIconData(IconData(
-    0xe46e,
+    0xe478,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `taxi-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData taxiOffSecondary = IconifyIconData(IconData(
-    0xe46e,
+    0xe478,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `television` — primary layer (full opacity)
   static const IconifyIconData televisionPrimary = IconifyIconData(IconData(
-    0xe46f,
+    0xe479,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `television` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData televisionSecondary = IconifyIconData(IconData(
-    0xe46f,
+    0xe479,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `television-circle` — primary layer (full opacity)
   static const IconifyIconData televisionCirclePrimary = IconifyIconData(IconData(
-    0xe470,
+    0xe47a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `television-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData televisionCircleSecondary = IconifyIconData(IconData(
-    0xe470,
+    0xe47a,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `television-circle-filled` — primary layer (full opacity)
   static const IconifyIconData televisionCircleFilledPrimary = IconifyIconData(IconData(
-    0xe471,
+    0xe47b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `television-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData televisionCircleFilledSecondary = IconifyIconData(IconData(
-    0xe471,
+    0xe47b,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `television-circle-off` — primary layer (full opacity)
   static const IconifyIconData televisionCircleOffPrimary = IconifyIconData(IconData(
-    0xe472,
+    0xe47c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `television-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData televisionCircleOffSecondary = IconifyIconData(IconData(
-    0xe472,
+    0xe47c,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `television-off` — primary layer (full opacity)
   static const IconifyIconData televisionOffPrimary = IconifyIconData(IconData(
-    0xe473,
+    0xe47d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `television-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData televisionOffSecondary = IconifyIconData(IconData(
-    0xe473,
+    0xe47d,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `television-play`
   static const IconifyIconData televisionPlay = IconifyIconData(IconData(
-    0xe474,
+    0xe47e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `television-play-circle`
   static const IconifyIconData televisionPlayCircle = IconifyIconData(IconData(
-    0xe475,
+    0xe47f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `television-play-circle-filled`
   static const IconifyIconData televisionPlayCircleFilled = IconifyIconData(IconData(
-    0xe476,
+    0xe480,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `television-play-circle-off`
   static const IconifyIconData televisionPlayCircleOff = IconifyIconData(IconData(
-    0xe477,
+    0xe481,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `television-play-off`
   static const IconifyIconData televisionPlayOff = IconifyIconData(IconData(
-    0xe478,
+    0xe482,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `text-bubble` — primary layer (full opacity)
   static const IconifyIconData textBubblePrimary = IconifyIconData(IconData(
-    0xe479,
+    0xe483,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `text-bubble` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData textBubbleSecondary = IconifyIconData(IconData(
-    0xe479,
+    0xe483,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `text-bubble-circle`
   static const IconifyIconData textBubbleCircle = IconifyIconData(IconData(
-    0xe47a,
+    0xe484,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `text-bubble-circle-filled`
   static const IconifyIconData textBubbleCircleFilled = IconifyIconData(IconData(
-    0xe47b,
+    0xe485,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `text-bubble-circle-off`
   static const IconifyIconData textBubbleCircleOff = IconifyIconData(IconData(
-    0xe47c,
+    0xe486,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `text-bubble-off` — primary layer (full opacity)
   static const IconifyIconData textBubbleOffPrimary = IconifyIconData(IconData(
-    0xe47d,
+    0xe487,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `text-bubble-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData textBubbleOffSecondary = IconifyIconData(IconData(
-    0xe47d,
+    0xe487,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `text-bubbles` — primary layer (full opacity)
   static const IconifyIconData textBubblesPrimary = IconifyIconData(IconData(
-    0xe47e,
+    0xe488,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `text-bubbles` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData textBubblesSecondary = IconifyIconData(IconData(
-    0xe47e,
+    0xe488,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `text-bubbles-circle` — primary layer (full opacity)
   static const IconifyIconData textBubblesCirclePrimary = IconifyIconData(IconData(
-    0xe47f,
+    0xe489,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `text-bubbles-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData textBubblesCircleSecondary = IconifyIconData(IconData(
-    0xe47f,
+    0xe489,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `text-bubbles-circle-filled` — primary layer (full opacity)
   static const IconifyIconData textBubblesCircleFilledPrimary = IconifyIconData(IconData(
-    0xe480,
+    0xe48a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `text-bubbles-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData textBubblesCircleFilledSecondary = IconifyIconData(IconData(
-    0xe480,
+    0xe48a,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `text-bubbles-circle-off` — primary layer (full opacity)
   static const IconifyIconData textBubblesCircleOffPrimary = IconifyIconData(IconData(
-    0xe481,
+    0xe48b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `text-bubbles-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData textBubblesCircleOffSecondary = IconifyIconData(IconData(
-    0xe481,
+    0xe48b,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `text-bubbles-off` — primary layer (full opacity)
   static const IconifyIconData textBubblesOffPrimary = IconifyIconData(IconData(
-    0xe482,
+    0xe48c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `text-bubbles-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData textBubblesOffSecondary = IconifyIconData(IconData(
-    0xe482,
+    0xe48c,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `thumbs-down`
   static const IconifyIconData thumbsDown = IconifyIconData(IconData(
-    0xe483,
+    0xe48d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `thumbs-down-circle`
   static const IconifyIconData thumbsDownCircle = IconifyIconData(IconData(
-    0xe484,
+    0xe48e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `thumbs-down-circle-filled` — primary layer (full opacity)
   static const IconifyIconData thumbsDownCircleFilledPrimary = IconifyIconData(IconData(
-    0xe485,
+    0xe48f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `thumbs-down-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData thumbsDownCircleFilledSecondary = IconifyIconData(IconData(
-    0xe485,
+    0xe48f,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `thumbs-down-circle-off`
   static const IconifyIconData thumbsDownCircleOff = IconifyIconData(IconData(
-    0xe486,
+    0xe490,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `thumbs-down-off`
   static const IconifyIconData thumbsDownOff = IconifyIconData(IconData(
-    0xe487,
+    0xe491,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `thumbs-up`
   static const IconifyIconData thumbsUp = IconifyIconData(IconData(
-    0xe488,
+    0xe492,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `thumbs-up-circle`
   static const IconifyIconData thumbsUpCircle = IconifyIconData(IconData(
-    0xe489,
+    0xe493,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `thumbs-up-circle-filled` — primary layer (full opacity)
   static const IconifyIconData thumbsUpCircleFilledPrimary = IconifyIconData(IconData(
-    0xe48a,
+    0xe494,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `thumbs-up-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData thumbsUpCircleFilledSecondary = IconifyIconData(IconData(
-    0xe48a,
+    0xe494,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `thumbs-up-circle-off`
   static const IconifyIconData thumbsUpCircleOff = IconifyIconData(IconData(
-    0xe48b,
+    0xe495,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `thumbs-up-off`
   static const IconifyIconData thumbsUpOff = IconifyIconData(IconData(
-    0xe48c,
+    0xe496,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `ticket` — primary layer (full opacity)
   static const IconifyIconData ticketPrimary = IconifyIconData(IconData(
-    0xe48d,
+    0xe497,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `ticket` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData ticketSecondary = IconifyIconData(IconData(
-    0xe48d,
+    0xe497,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `ticket-circle` — primary layer (full opacity)
   static const IconifyIconData ticketCirclePrimary = IconifyIconData(IconData(
-    0xe48e,
+    0xe498,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `ticket-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData ticketCircleSecondary = IconifyIconData(IconData(
-    0xe48e,
+    0xe498,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `ticket-circle-filled`
   static const IconifyIconData ticketCircleFilled = IconifyIconData(IconData(
-    0xe48f,
+    0xe499,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `ticket-circle-off` — primary layer (full opacity)
   static const IconifyIconData ticketCircleOffPrimary = IconifyIconData(IconData(
-    0xe490,
+    0xe49a,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `ticket-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData ticketCircleOffSecondary = IconifyIconData(IconData(
-    0xe490,
+    0xe49a,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `ticket-off` — primary layer (full opacity)
   static const IconifyIconData ticketOffPrimary = IconifyIconData(IconData(
-    0xe491,
+    0xe49b,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `ticket-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData ticketOffSecondary = IconifyIconData(IconData(
-    0xe491,
+    0xe49b,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `times` — primary layer (full opacity)
   static const IconifyIconData timesPrimary = IconifyIconData(IconData(
-    0xe492,
+    0xe49c,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `times` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData timesSecondary = IconifyIconData(IconData(
-    0xe492,
+    0xe49c,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `times-circle` — primary layer (full opacity)
   static const IconifyIconData timesCirclePrimary = IconifyIconData(IconData(
-    0xe493,
+    0xe49d,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `times-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData timesCircleSecondary = IconifyIconData(IconData(
-    0xe493,
+    0xe49d,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `times-circle-filled` — primary layer (full opacity)
   static const IconifyIconData timesCircleFilledPrimary = IconifyIconData(IconData(
-    0xe494,
+    0xe49e,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `times-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData timesCircleFilledSecondary = IconifyIconData(IconData(
-    0xe494,
+    0xe49e,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `times-circle-off` — primary layer (full opacity)
   static const IconifyIconData timesCircleOffPrimary = IconifyIconData(IconData(
-    0xe495,
+    0xe49f,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `times-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData timesCircleOffSecondary = IconifyIconData(IconData(
-    0xe495,
+    0xe49f,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `times-off` — primary layer (full opacity)
   static const IconifyIconData timesOffPrimary = IconifyIconData(IconData(
-    0xe496,
+    0xe4a0,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `times-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData timesOffSecondary = IconifyIconData(IconData(
-    0xe496,
+    0xe4a0,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `tool` — primary layer (full opacity)
   static const IconifyIconData toolPrimary = IconifyIconData(IconData(
-    0xe497,
+    0xe4a1,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `tool` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData toolSecondary = IconifyIconData(IconData(
-    0xe497,
+    0xe4a1,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `train` — primary layer (full opacity)
   static const IconifyIconData trainPrimary = IconifyIconData(IconData(
-    0xe498,
+    0xe4a2,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `train` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData trainSecondary = IconifyIconData(IconData(
-    0xe498,
+    0xe4a2,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `train-circle` — primary layer (full opacity)
   static const IconifyIconData trainCirclePrimary = IconifyIconData(IconData(
-    0xe499,
+    0xe4a3,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `train-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData trainCircleSecondary = IconifyIconData(IconData(
-    0xe499,
+    0xe4a3,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `train-circle-filled` — primary layer (full opacity)
   static const IconifyIconData trainCircleFilledPrimary = IconifyIconData(IconData(
-    0xe49a,
+    0xe4a4,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `train-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData trainCircleFilledSecondary = IconifyIconData(IconData(
-    0xe49a,
+    0xe4a4,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `train-circle-off` — primary layer (full opacity)
   static const IconifyIconData trainCircleOffPrimary = IconifyIconData(IconData(
-    0xe49b,
+    0xe4a5,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `train-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData trainCircleOffSecondary = IconifyIconData(IconData(
-    0xe49b,
+    0xe4a5,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `train-off` — primary layer (full opacity)
   static const IconifyIconData trainOffPrimary = IconifyIconData(IconData(
-    0xe49c,
+    0xe4a6,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `train-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData trainOffSecondary = IconifyIconData(IconData(
-    0xe49c,
+    0xe4a6,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `trash`
   static const IconifyIconData trash = IconifyIconData(IconData(
-    0xe49d,
+    0xe4a7,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `trash-circle`
   static const IconifyIconData trashCircle = IconifyIconData(IconData(
-    0xe49e,
+    0xe4a8,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `trash-circle-filled` — primary layer (full opacity)
   static const IconifyIconData trashCircleFilledPrimary = IconifyIconData(IconData(
-    0xe49f,
+    0xe4a9,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `trash-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData trashCircleFilledSecondary = IconifyIconData(IconData(
-    0xe49f,
+    0xe4a9,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `trash-circle-off`
   static const IconifyIconData trashCircleOff = IconifyIconData(IconData(
-    0xe4a0,
+    0xe4aa,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `trash-off`
   static const IconifyIconData trashOff = IconifyIconData(IconData(
-    0xe4a1,
+    0xe4ab,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `tree`
   static const IconifyIconData tree = IconifyIconData(IconData(
-    0xe4a2,
+    0xe4ac,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `tree-circle`
   static const IconifyIconData treeCircle = IconifyIconData(IconData(
-    0xe4a3,
+    0xe4ad,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `tree-circle-filled`
   static const IconifyIconData treeCircleFilled = IconifyIconData(IconData(
-    0xe4a4,
+    0xe4ae,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `tree-circle-off`
   static const IconifyIconData treeCircleOff = IconifyIconData(IconData(
-    0xe4a5,
+    0xe4af,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `tree-off`
   static const IconifyIconData treeOff = IconifyIconData(IconData(
-    0xe4a6,
+    0xe4b0,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-down` — primary layer (full opacity)
   static const IconifyIconData triangleDownPrimary = IconifyIconData(IconData(
-    0xe4a7,
+    0xe4b1,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-down` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleDownSecondary = IconifyIconData(IconData(
-    0xe4a7,
+    0xe4b1,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-down-circle` — primary layer (full opacity)
   static const IconifyIconData triangleDownCirclePrimary = IconifyIconData(IconData(
-    0xe4a8,
+    0xe4b2,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-down-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleDownCircleSecondary = IconifyIconData(IconData(
-    0xe4a8,
+    0xe4b2,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-down-circle-filled` — primary layer (full opacity)
   static const IconifyIconData triangleDownCircleFilledPrimary = IconifyIconData(IconData(
-    0xe4a9,
+    0xe4b3,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-down-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleDownCircleFilledSecondary = IconifyIconData(IconData(
-    0xe4a9,
+    0xe4b3,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-down-circle-off` — primary layer (full opacity)
   static const IconifyIconData triangleDownCircleOffPrimary = IconifyIconData(IconData(
-    0xe4aa,
+    0xe4b4,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-down-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleDownCircleOffSecondary = IconifyIconData(IconData(
-    0xe4aa,
+    0xe4b4,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-down-filled` — primary layer (full opacity)
   static const IconifyIconData triangleDownFilledPrimary = IconifyIconData(IconData(
-    0xe4ab,
+    0xe4b5,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-down-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleDownFilledSecondary = IconifyIconData(IconData(
-    0xe4ab,
+    0xe4b5,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-down-filled-circle` — primary layer (full opacity)
   static const IconifyIconData triangleDownFilledCirclePrimary = IconifyIconData(IconData(
-    0xe4ac,
+    0xe4b6,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-down-filled-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleDownFilledCircleSecondary = IconifyIconData(IconData(
-    0xe4ac,
+    0xe4b6,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-down-filled-circle-filled` — primary layer (full opacity)
   static const IconifyIconData triangleDownFilledCircleFilledPrimary = IconifyIconData(IconData(
-    0xe4ad,
+    0xe4b7,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-down-filled-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleDownFilledCircleFilledSecondary = IconifyIconData(IconData(
-    0xe4ad,
+    0xe4b7,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-down-filled-circle-off` — primary layer (full opacity)
   static const IconifyIconData triangleDownFilledCircleOffPrimary = IconifyIconData(IconData(
-    0xe4ae,
+    0xe4b8,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-down-filled-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleDownFilledCircleOffSecondary = IconifyIconData(IconData(
-    0xe4ae,
+    0xe4b8,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-down-filled-off` — primary layer (full opacity)
   static const IconifyIconData triangleDownFilledOffPrimary = IconifyIconData(IconData(
-    0xe4af,
+    0xe4b9,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-down-filled-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleDownFilledOffSecondary = IconifyIconData(IconData(
-    0xe4af,
+    0xe4b9,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-down-off` — primary layer (full opacity)
   static const IconifyIconData triangleDownOffPrimary = IconifyIconData(IconData(
-    0xe4b0,
+    0xe4ba,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-down-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleDownOffSecondary = IconifyIconData(IconData(
-    0xe4b0,
+    0xe4ba,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-left` — primary layer (full opacity)
   static const IconifyIconData triangleLeftPrimary = IconifyIconData(IconData(
-    0xe4b1,
+    0xe4bb,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-left` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleLeftSecondary = IconifyIconData(IconData(
-    0xe4b1,
+    0xe4bb,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-left-circle` — primary layer (full opacity)
   static const IconifyIconData triangleLeftCirclePrimary = IconifyIconData(IconData(
-    0xe4b2,
+    0xe4bc,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-left-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleLeftCircleSecondary = IconifyIconData(IconData(
-    0xe4b2,
+    0xe4bc,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-left-circle-filled` — primary layer (full opacity)
   static const IconifyIconData triangleLeftCircleFilledPrimary = IconifyIconData(IconData(
-    0xe4b3,
+    0xe4bd,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-left-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleLeftCircleFilledSecondary = IconifyIconData(IconData(
-    0xe4b3,
+    0xe4bd,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-left-circle-off` — primary layer (full opacity)
   static const IconifyIconData triangleLeftCircleOffPrimary = IconifyIconData(IconData(
-    0xe4b4,
+    0xe4be,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-left-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleLeftCircleOffSecondary = IconifyIconData(IconData(
-    0xe4b4,
+    0xe4be,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-left-filled` — primary layer (full opacity)
   static const IconifyIconData triangleLeftFilledPrimary = IconifyIconData(IconData(
-    0xe4b5,
+    0xe4bf,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-left-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleLeftFilledSecondary = IconifyIconData(IconData(
-    0xe4b5,
+    0xe4bf,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-left-filled-circle` — primary layer (full opacity)
   static const IconifyIconData triangleLeftFilledCirclePrimary = IconifyIconData(IconData(
-    0xe4b6,
+    0xe4c0,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-left-filled-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleLeftFilledCircleSecondary = IconifyIconData(IconData(
-    0xe4b6,
+    0xe4c0,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-left-filled-circle-filled` — primary layer (full opacity)
   static const IconifyIconData triangleLeftFilledCircleFilledPrimary = IconifyIconData(IconData(
-    0xe4b7,
+    0xe4c1,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-left-filled-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleLeftFilledCircleFilledSecondary = IconifyIconData(IconData(
-    0xe4b7,
+    0xe4c1,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-left-filled-circle-off` — primary layer (full opacity)
   static const IconifyIconData triangleLeftFilledCircleOffPrimary = IconifyIconData(IconData(
-    0xe4b8,
+    0xe4c2,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-left-filled-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleLeftFilledCircleOffSecondary = IconifyIconData(IconData(
-    0xe4b8,
+    0xe4c2,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-left-filled-off` — primary layer (full opacity)
   static const IconifyIconData triangleLeftFilledOffPrimary = IconifyIconData(IconData(
-    0xe4b9,
+    0xe4c3,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-left-filled-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleLeftFilledOffSecondary = IconifyIconData(IconData(
-    0xe4b9,
+    0xe4c3,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-left-off` — primary layer (full opacity)
   static const IconifyIconData triangleLeftOffPrimary = IconifyIconData(IconData(
-    0xe4ba,
+    0xe4c4,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-left-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleLeftOffSecondary = IconifyIconData(IconData(
-    0xe4ba,
+    0xe4c4,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-right` — primary layer (full opacity)
   static const IconifyIconData triangleRightPrimary = IconifyIconData(IconData(
-    0xe4bb,
+    0xe4c5,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-right` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleRightSecondary = IconifyIconData(IconData(
-    0xe4bb,
+    0xe4c5,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-right-circle` — primary layer (full opacity)
   static const IconifyIconData triangleRightCirclePrimary = IconifyIconData(IconData(
-    0xe4bc,
+    0xe4c6,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-right-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleRightCircleSecondary = IconifyIconData(IconData(
-    0xe4bc,
+    0xe4c6,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-right-circle-filled` — primary layer (full opacity)
   static const IconifyIconData triangleRightCircleFilledPrimary = IconifyIconData(IconData(
-    0xe4bd,
+    0xe4c7,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-right-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleRightCircleFilledSecondary = IconifyIconData(IconData(
-    0xe4bd,
+    0xe4c7,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-right-circle-off` — primary layer (full opacity)
   static const IconifyIconData triangleRightCircleOffPrimary = IconifyIconData(IconData(
-    0xe4be,
+    0xe4c8,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-right-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleRightCircleOffSecondary = IconifyIconData(IconData(
-    0xe4be,
+    0xe4c8,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-right-filled` — primary layer (full opacity)
   static const IconifyIconData triangleRightFilledPrimary = IconifyIconData(IconData(
-    0xe4bf,
+    0xe4c9,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-right-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleRightFilledSecondary = IconifyIconData(IconData(
-    0xe4bf,
+    0xe4c9,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-right-filled-circle` — primary layer (full opacity)
   static const IconifyIconData triangleRightFilledCirclePrimary = IconifyIconData(IconData(
-    0xe4c0,
+    0xe4ca,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-right-filled-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleRightFilledCircleSecondary = IconifyIconData(IconData(
-    0xe4c0,
+    0xe4ca,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-right-filled-circle-filled` — primary layer (full opacity)
   static const IconifyIconData triangleRightFilledCircleFilledPrimary = IconifyIconData(IconData(
-    0xe4c1,
+    0xe4cb,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-right-filled-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleRightFilledCircleFilledSecondary = IconifyIconData(IconData(
-    0xe4c1,
+    0xe4cb,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-right-filled-circle-off` — primary layer (full opacity)
   static const IconifyIconData triangleRightFilledCircleOffPrimary = IconifyIconData(IconData(
-    0xe4c2,
+    0xe4cc,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-right-filled-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleRightFilledCircleOffSecondary = IconifyIconData(IconData(
-    0xe4c2,
+    0xe4cc,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-right-filled-off` — primary layer (full opacity)
   static const IconifyIconData triangleRightFilledOffPrimary = IconifyIconData(IconData(
-    0xe4c3,
+    0xe4cd,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-right-filled-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleRightFilledOffSecondary = IconifyIconData(IconData(
-    0xe4c3,
+    0xe4cd,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-right-off` — primary layer (full opacity)
   static const IconifyIconData triangleRightOffPrimary = IconifyIconData(IconData(
-    0xe4c4,
+    0xe4ce,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-right-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleRightOffSecondary = IconifyIconData(IconData(
-    0xe4c4,
+    0xe4ce,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-up` — primary layer (full opacity)
   static const IconifyIconData triangleUpPrimary = IconifyIconData(IconData(
-    0xe4c5,
+    0xe4cf,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-up` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleUpSecondary = IconifyIconData(IconData(
-    0xe4c5,
+    0xe4cf,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-up-circle` — primary layer (full opacity)
   static const IconifyIconData triangleUpCirclePrimary = IconifyIconData(IconData(
-    0xe4c6,
+    0xe4d0,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-up-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleUpCircleSecondary = IconifyIconData(IconData(
-    0xe4c6,
+    0xe4d0,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-up-circle-filled` — primary layer (full opacity)
   static const IconifyIconData triangleUpCircleFilledPrimary = IconifyIconData(IconData(
-    0xe4c7,
+    0xe4d1,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-up-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleUpCircleFilledSecondary = IconifyIconData(IconData(
-    0xe4c7,
+    0xe4d1,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-up-circle-off` — primary layer (full opacity)
   static const IconifyIconData triangleUpCircleOffPrimary = IconifyIconData(IconData(
-    0xe4c8,
+    0xe4d2,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-up-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleUpCircleOffSecondary = IconifyIconData(IconData(
-    0xe4c8,
+    0xe4d2,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-up-filled` — primary layer (full opacity)
   static const IconifyIconData triangleUpFilledPrimary = IconifyIconData(IconData(
-    0xe4c9,
+    0xe4d3,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-up-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleUpFilledSecondary = IconifyIconData(IconData(
-    0xe4c9,
+    0xe4d3,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-up-filled-circle` — primary layer (full opacity)
   static const IconifyIconData triangleUpFilledCirclePrimary = IconifyIconData(IconData(
-    0xe4ca,
+    0xe4d4,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-up-filled-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleUpFilledCircleSecondary = IconifyIconData(IconData(
-    0xe4ca,
+    0xe4d4,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-up-filled-circle-filled` — primary layer (full opacity)
   static const IconifyIconData triangleUpFilledCircleFilledPrimary = IconifyIconData(IconData(
-    0xe4cb,
+    0xe4d5,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-up-filled-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleUpFilledCircleFilledSecondary = IconifyIconData(IconData(
-    0xe4cb,
+    0xe4d5,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-up-filled-circle-off` — primary layer (full opacity)
   static const IconifyIconData triangleUpFilledCircleOffPrimary = IconifyIconData(IconData(
-    0xe4cc,
+    0xe4d6,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-up-filled-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleUpFilledCircleOffSecondary = IconifyIconData(IconData(
-    0xe4cc,
+    0xe4d6,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-up-filled-off` — primary layer (full opacity)
   static const IconifyIconData triangleUpFilledOffPrimary = IconifyIconData(IconData(
-    0xe4cd,
+    0xe4d7,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-up-filled-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleUpFilledOffSecondary = IconifyIconData(IconData(
-    0xe4cd,
+    0xe4d7,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-up-off` — primary layer (full opacity)
   static const IconifyIconData triangleUpOffPrimary = IconifyIconData(IconData(
-    0xe4ce,
+    0xe4d8,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `triangle-up-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData triangleUpOffSecondary = IconifyIconData(IconData(
-    0xe4ce,
+    0xe4d8,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `trophy`
   static const IconifyIconData trophy = IconifyIconData(IconData(
-    0xe4cf,
+    0xe4d9,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `trophy-circle`
   static const IconifyIconData trophyCircle = IconifyIconData(IconData(
-    0xe4d0,
+    0xe4da,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `trophy-circle-filled`
   static const IconifyIconData trophyCircleFilled = IconifyIconData(IconData(
-    0xe4d1,
+    0xe4db,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `trophy-circle-off`
   static const IconifyIconData trophyCircleOff = IconifyIconData(IconData(
-    0xe4d2,
+    0xe4dc,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `trophy-off`
   static const IconifyIconData trophyOff = IconifyIconData(IconData(
-    0xe4d3,
+    0xe4dd,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `truck` — primary layer (full opacity)
   static const IconifyIconData truckPrimary = IconifyIconData(IconData(
-    0xe4d4,
+    0xe4de,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `truck` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData truckSecondary = IconifyIconData(IconData(
-    0xe4d4,
+    0xe4de,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `truck-circle` — primary layer (full opacity)
   static const IconifyIconData truckCirclePrimary = IconifyIconData(IconData(
-    0xe4d5,
+    0xe4df,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `truck-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData truckCircleSecondary = IconifyIconData(IconData(
-    0xe4d5,
+    0xe4df,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `truck-circle-filled` — primary layer (full opacity)
   static const IconifyIconData truckCircleFilledPrimary = IconifyIconData(IconData(
-    0xe4d6,
+    0xe4e0,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `truck-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData truckCircleFilledSecondary = IconifyIconData(IconData(
-    0xe4d6,
+    0xe4e0,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `truck-circle-off` — primary layer (full opacity)
   static const IconifyIconData truckCircleOffPrimary = IconifyIconData(IconData(
-    0xe4d7,
+    0xe4e1,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `truck-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData truckCircleOffSecondary = IconifyIconData(IconData(
-    0xe4d7,
+    0xe4e1,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `truck-off` — primary layer (full opacity)
   static const IconifyIconData truckOffPrimary = IconifyIconData(IconData(
-    0xe4d8,
+    0xe4e2,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `truck-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData truckOffSecondary = IconifyIconData(IconData(
-    0xe4d8,
+    0xe4e2,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `umbrella` — primary layer (full opacity)
   static const IconifyIconData umbrellaPrimary = IconifyIconData(IconData(
-    0xe4d9,
+    0xe4e3,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `umbrella` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData umbrellaSecondary = IconifyIconData(IconData(
-    0xe4d9,
+    0xe4e3,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `umbrella-circle` — primary layer (full opacity)
   static const IconifyIconData umbrellaCirclePrimary = IconifyIconData(IconData(
-    0xe4da,
+    0xe4e4,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `umbrella-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData umbrellaCircleSecondary = IconifyIconData(IconData(
-    0xe4da,
+    0xe4e4,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `umbrella-circle-filled` — primary layer (full opacity)
   static const IconifyIconData umbrellaCircleFilledPrimary = IconifyIconData(IconData(
-    0xe4db,
+    0xe4e5,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `umbrella-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData umbrellaCircleFilledSecondary = IconifyIconData(IconData(
-    0xe4db,
+    0xe4e5,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `umbrella-circle-off` — primary layer (full opacity)
   static const IconifyIconData umbrellaCircleOffPrimary = IconifyIconData(IconData(
-    0xe4dc,
+    0xe4e6,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `umbrella-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData umbrellaCircleOffSecondary = IconifyIconData(IconData(
-    0xe4dc,
+    0xe4e6,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `umbrella-off` — primary layer (full opacity)
   static const IconifyIconData umbrellaOffPrimary = IconifyIconData(IconData(
-    0xe4dd,
+    0xe4e7,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `umbrella-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData umbrellaOffSecondary = IconifyIconData(IconData(
-    0xe4dd,
+    0xe4e7,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `watch`
   static const IconifyIconData watch = IconifyIconData(IconData(
-    0xe4de,
+    0xe4e8,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `watch-circle`
   static const IconifyIconData watchCircle = IconifyIconData(IconData(
-    0xe4df,
+    0xe4e9,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `watch-circle-filled`
   static const IconifyIconData watchCircleFilled = IconifyIconData(IconData(
-    0xe4e0,
+    0xe4ea,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `watch-circle-off`
   static const IconifyIconData watchCircleOff = IconifyIconData(IconData(
-    0xe4e1,
+    0xe4eb,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `watch-off`
   static const IconifyIconData watchOff = IconifyIconData(IconData(
-    0xe4e2,
+    0xe4ec,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `water-drop`
   static const IconifyIconData waterDrop = IconifyIconData(IconData(
-    0xe4e3,
+    0xe4ed,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `water-drop-circle`
   static const IconifyIconData waterDropCircle = IconifyIconData(IconData(
-    0xe4e4,
+    0xe4ee,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `water-drop-circle-filled`
   static const IconifyIconData waterDropCircleFilled = IconifyIconData(IconData(
-    0xe4e5,
+    0xe4ef,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `water-drop-circle-off`
   static const IconifyIconData waterDropCircleOff = IconifyIconData(IconData(
-    0xe4e6,
+    0xe4f0,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `water-drop-off`
   static const IconifyIconData waterDropOff = IconifyIconData(IconData(
-    0xe4e7,
+    0xe4f1,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `wifi`
   static const IconifyIconData wifi = IconifyIconData(IconData(
-    0xe4e8,
+    0xe4f2,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `wifi-circle`
   static const IconifyIconData wifiCircle = IconifyIconData(IconData(
-    0xe4e9,
+    0xe4f3,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `wifi-circle-filled` — primary layer (full opacity)
   static const IconifyIconData wifiCircleFilledPrimary = IconifyIconData(IconData(
-    0xe4ea,
+    0xe4f4,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `wifi-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData wifiCircleFilledSecondary = IconifyIconData(IconData(
-    0xe4ea,
+    0xe4f4,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `wifi-circle-off`
   static const IconifyIconData wifiCircleOff = IconifyIconData(IconData(
-    0xe4eb,
+    0xe4f5,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `wifi-off`
   static const IconifyIconData wifiOff = IconifyIconData(IconData(
-    0xe4ec,
+    0xe4f6,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `wrench` — primary layer (full opacity)
   static const IconifyIconData wrenchPrimary = IconifyIconData(IconData(
-    0xe4ed,
+    0xe4f7,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `wrench` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData wrenchSecondary = IconifyIconData(IconData(
-    0xe4ed,
+    0xe4f7,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `wrench-circle` — primary layer (full opacity)
   static const IconifyIconData wrenchCirclePrimary = IconifyIconData(IconData(
-    0xe4ee,
+    0xe4f8,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `wrench-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData wrenchCircleSecondary = IconifyIconData(IconData(
-    0xe4ee,
+    0xe4f8,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `wrench-circle-filled` — primary layer (full opacity)
   static const IconifyIconData wrenchCircleFilledPrimary = IconifyIconData(IconData(
-    0xe4ef,
+    0xe4f9,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `wrench-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData wrenchCircleFilledSecondary = IconifyIconData(IconData(
-    0xe4ef,
+    0xe4f9,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `wrench-circle-off` — primary layer (full opacity)
   static const IconifyIconData wrenchCircleOffPrimary = IconifyIconData(IconData(
-    0xe4f0,
+    0xe4fa,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `wrench-circle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData wrenchCircleOffSecondary = IconifyIconData(IconData(
-    0xe4f0,
+    0xe4fa,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `wrench-off` — primary layer (full opacity)
   static const IconifyIconData wrenchOffPrimary = IconifyIconData(IconData(
-    0xe4f1,
+    0xe4fb,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `wrench-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData wrenchOffSecondary = IconifyIconData(IconData(
-    0xe4f1,
+    0xe4fb,
     fontFamily: 'PepiconsPrintSecondary',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `yen`
   static const IconifyIconData yen = IconifyIconData(IconData(
-    0xe4f2,
+    0xe4fc,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `yen-circle`
   static const IconifyIconData yenCircle = IconifyIconData(IconData(
-    0xe4f3,
+    0xe4fd,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `yen-circle-filled`
   static const IconifyIconData yenCircleFilled = IconifyIconData(IconData(
-    0xe4f4,
+    0xe4fe,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `yen-circle-off`
   static const IconifyIconData yenCircleOff = IconifyIconData(IconData(
-    0xe4f5,
+    0xe4ff,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `yen-off`
   static const IconifyIconData yenOff = IconifyIconData(IconData(
-    0xe4f6,
+    0xe500,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `yuan`
   static const IconifyIconData yuan = IconifyIconData(IconData(
-    0xe4f7,
+    0xe501,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `yuan-circle`
   static const IconifyIconData yuanCircle = IconifyIconData(IconData(
-    0xe4f8,
+    0xe502,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `yuan-circle-filled`
   static const IconifyIconData yuanCircleFilled = IconifyIconData(IconData(
-    0xe4f9,
+    0xe503,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `yuan-circle-off`
   static const IconifyIconData yuanCircleOff = IconifyIconData(IconData(
-    0xe4fa,
+    0xe504,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));
 
   /// `yuan-off`
   static const IconifyIconData yuanOff = IconifyIconData(IconData(
-    0xe4fb,
+    0xe505,
     fontFamily: 'PepiconsPrint',
     fontPackage: 'iconifyx_pepicons_print',
   ));

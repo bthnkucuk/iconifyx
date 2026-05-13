@@ -102,272 +102,272 @@
       "identifier": "error16"
     },
     "eslint-16": {
-      "codepoint": 57410,
+      "codepoint": 57359,
       "fontFamily": "Nonicons",
       "identifier": "eslint16"
     },
     "field-16": {
-      "codepoint": 57359,
+      "codepoint": 57360,
       "fontFamily": "Nonicons",
       "identifier": "field16"
     },
     "go-16": {
-      "codepoint": 57360,
+      "codepoint": 57361,
       "fontFamily": "Nonicons",
       "identifier": "go16"
     },
     "graphql-16": {
-      "codepoint": 57361,
+      "codepoint": 57362,
       "fontFamily": "Nonicons",
       "identifier": "graphql16"
     },
     "html-16": {
-      "codepoint": 57362,
+      "codepoint": 57363,
       "fontFamily": "Nonicons",
       "identifier": "html16"
     },
     "interface-16": {
-      "codepoint": 57363,
+      "codepoint": 57364,
       "fontFamily": "Nonicons",
       "identifier": "interface16"
     },
     "ionic-16": {
-      "codepoint": 57364,
+      "codepoint": 57365,
       "fontFamily": "Nonicons",
       "identifier": "ionic16"
     },
     "java-16": {
-      "codepoint": 57365,
+      "codepoint": 57366,
       "fontFamily": "Nonicons",
       "identifier": "java16"
     },
     "javascript-16": {
-      "codepoint": 57366,
+      "codepoint": 57367,
       "fontFamily": "Nonicons",
       "identifier": "javascript16"
     },
     "json-16": {
-      "codepoint": 57367,
+      "codepoint": 57368,
       "fontFamily": "Nonicons",
       "identifier": "json16"
     },
     "keyword-16": {
-      "codepoint": 57368,
+      "codepoint": 57369,
       "fontFamily": "Nonicons",
       "identifier": "keyword16"
     },
     "kotlin-16": {
-      "codepoint": 57369,
+      "codepoint": 57370,
       "fontFamily": "Nonicons",
       "identifier": "kotlin16"
     },
     "kubernetes-16": {
-      "codepoint": 57370,
+      "codepoint": 57371,
       "fontFamily": "Nonicons",
       "identifier": "kubernetes16"
     },
     "layout-16": {
-      "codepoint": 57371,
+      "codepoint": 57372,
       "fontFamily": "Nonicons",
       "identifier": "layout16"
     },
     "loading-16": {
-      "codepoint": 57372,
+      "codepoint": 57373,
       "fontFamily": "Nonicons",
       "identifier": "loading16"
     },
     "lua-16": {
-      "codepoint": 57373,
+      "codepoint": 57374,
       "fontFamily": "Nonicons",
       "identifier": "lua16"
     },
     "next-16": {
-      "codepoint": 57374,
+      "codepoint": 57375,
       "fontFamily": "Nonicons",
       "identifier": "next16"
     },
     "nginx-16": {
-      "codepoint": 57375,
+      "codepoint": 57376,
       "fontFamily": "Nonicons",
       "identifier": "nginx16"
     },
     "node-16": {
-      "codepoint": 57376,
+      "codepoint": 57377,
       "fontFamily": "Nonicons",
       "identifier": "node16"
     },
     "not-found-16": {
-      "codepoint": 57377,
+      "codepoint": 57378,
       "fontFamily": "Nonicons",
       "identifier": "notFound16"
     },
     "npm-16": {
-      "codepoint": 57378,
+      "codepoint": 57379,
       "fontFamily": "Nonicons",
       "identifier": "npm16"
     },
     "perl-16": {
-      "codepoint": 57379,
+      "codepoint": 57380,
       "fontFamily": "Nonicons",
       "identifier": "perl16"
     },
     "php-16": {
-      "codepoint": 57380,
+      "codepoint": 57381,
       "fontFamily": "Nonicons",
       "identifier": "php16"
     },
     "prettier-16": {
-      "codepoint": 57381,
+      "codepoint": 57382,
       "fontFamily": "Nonicons",
       "identifier": "prettier16"
     },
     "prisma-16": {
-      "codepoint": 57382,
+      "codepoint": 57383,
       "fontFamily": "Nonicons",
       "identifier": "prisma16"
     },
     "python-16": {
-      "codepoint": 57383,
+      "codepoint": 57384,
       "fontFamily": "Nonicons",
       "identifier": "python16"
     },
     "r-16": {
-      "codepoint": 57384,
+      "codepoint": 57385,
       "fontFamily": "Nonicons",
       "identifier": "r16"
     },
     "react-16": {
-      "codepoint": 57385,
+      "codepoint": 57386,
       "fontFamily": "Nonicons",
       "identifier": "react16"
     },
     "rust-16": {
-      "codepoint": 57386,
+      "codepoint": 57387,
       "fontFamily": "Nonicons",
       "identifier": "rust16"
     },
     "scala-16": {
-      "codepoint": 57387,
+      "codepoint": 57388,
       "fontFamily": "Nonicons",
       "identifier": "scala16"
     },
     "snippet-16": {
-      "codepoint": 57388,
+      "codepoint": 57389,
       "fontFamily": "Nonicons",
       "identifier": "snippet16"
     },
     "struct-16": {
-      "codepoint": 57389,
+      "codepoint": 57390,
       "fontFamily": "Nonicons",
       "identifier": "struct16"
     },
     "svelte-16": {
-      "codepoint": 57390,
+      "codepoint": 57391,
       "fontFamily": "Nonicons",
       "identifier": "svelte16"
     },
     "swift-16": {
-      "codepoint": 57391,
+      "codepoint": 57392,
       "fontFamily": "Nonicons",
       "identifier": "swift16"
     },
     "template-16": {
-      "codepoint": 57392,
+      "codepoint": 57393,
       "fontFamily": "Nonicons",
       "identifier": "template16"
     },
     "terraform-16": {
-      "codepoint": 57411,
+      "codepoint": 57394,
       "fontFamily": "Nonicons",
       "identifier": "terraform16"
     },
     "tmux-16": {
-      "codepoint": 57393,
+      "codepoint": 57395,
       "fontFamily": "Nonicons",
       "identifier": "tmux16"
     },
     "toml-16": {
-      "codepoint": 57394,
+      "codepoint": 57396,
       "fontFamily": "Nonicons",
       "identifier": "toml16"
     },
     "turborepo-16": {
-      "codepoint": 57395,
+      "codepoint": 57397,
       "fontFamily": "Nonicons",
       "identifier": "turborepo16"
     },
     "type-16": {
-      "codepoint": 57396,
+      "codepoint": 57398,
       "fontFamily": "Nonicons",
       "identifier": "type16"
     },
     "typescript-16": {
-      "codepoint": 57397,
+      "codepoint": 57399,
       "fontFamily": "Nonicons",
       "identifier": "typescript16"
     },
     "variable-16": {
-      "codepoint": 57398,
+      "codepoint": 57400,
       "fontFamily": "Nonicons",
       "identifier": "variable16"
     },
     "vim-16": {
-      "codepoint": 57399,
+      "codepoint": 57401,
       "fontFamily": "Nonicons",
       "identifier": "vim16"
     },
     "vim-command-mode-16": {
-      "codepoint": 57400,
+      "codepoint": 57402,
       "fontFamily": "Nonicons",
       "identifier": "vimCommandMode16"
     },
     "vim-insert-mode-16": {
-      "codepoint": 57401,
+      "codepoint": 57403,
       "fontFamily": "Nonicons",
       "identifier": "vimInsertMode16"
     },
     "vim-normal-mode-16": {
-      "codepoint": 57402,
+      "codepoint": 57404,
       "fontFamily": "Nonicons",
       "identifier": "vimNormalMode16"
     },
     "vim-replace-mode-16": {
-      "codepoint": 57403,
+      "codepoint": 57405,
       "fontFamily": "Nonicons",
       "identifier": "vimReplaceMode16"
     },
     "vim-select-mode-16": {
-      "codepoint": 57404,
+      "codepoint": 57406,
       "fontFamily": "Nonicons",
       "identifier": "vimSelectMode16"
     },
     "vim-terminal-mode-16": {
-      "codepoint": 57405,
+      "codepoint": 57407,
       "fontFamily": "Nonicons",
       "identifier": "vimTerminalMode16"
     },
     "vim-visual-mode-16": {
-      "codepoint": 57406,
+      "codepoint": 57408,
       "fontFamily": "Nonicons",
       "identifier": "vimVisualMode16"
     },
     "vscode-16": {
-      "codepoint": 57412,
+      "codepoint": 57409,
       "fontFamily": "Nonicons",
       "identifier": "vscode16"
     },
     "vue-16": {
-      "codepoint": 57407,
+      "codepoint": 57410,
       "fontFamily": "Nonicons",
       "identifier": "vue16"
     },
     "yaml-16": {
-      "codepoint": 57408,
+      "codepoint": 57411,
       "fontFamily": "Nonicons",
       "identifier": "yaml16"
     },
     "yarn-16": {
-      "codepoint": 57409,
+      "codepoint": 57412,
       "fontFamily": "Nonicons",
       "identifier": "yarn16"
     }

@@ -126,11 +126,19 @@ async function buildOneFont(
   resolvedByName: Map<string, ResolvedIcon>
 ): Promise<Buffer> {
   return await new Promise<Buffer>((resolve, reject) => {
+    // `centerHorizontally: false` preserves each glyph's x-position within
+    // the source viewBox. Iconify SVGs already size their viewBox to the
+    // intended content area, so the natural position is the correct one.
+    // Centering would mis-align the primary and secondary layers of a
+    // duotone icon whose two halves live in different parts of the
+    // viewBox (e.g. ic/baseline-signal-wifi-1-bar-lock — lock on the
+    // right, wifi-bars on the left; centring shoves both to the middle
+    // and the icon stops making sense).
     const stream = new SVGIcons2SVGFontStream({
       fontName: fontEntry.family,
       fontHeight: 1000,
       normalize: true,
-      centerHorizontally: true,
+      centerHorizontally: false,
     });
     (stream as unknown as { log: (...args: unknown[]) => void }).log = () => {};
 

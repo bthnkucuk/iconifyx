@@ -15692,1597 +15692,1597 @@
       "identifier": "tilde"
     },
     "tilde-bold": {
-      "codepoint": 60793,
+      "codepoint": 60477,
       "fontFamily": "Glyphs",
       "identifier": "tildeBold"
     },
     "tilde-duo": {
-      "codepoint": 60477,
+      "codepoint": 60478,
       "fontFamily": "Glyphs",
       "identifier": "tildeDuo"
     },
     "tilde-outline": {
-      "codepoint": 60478,
+      "codepoint": 60479,
       "fontFamily": "Glyphs",
       "identifier": "tildeOutline"
     },
     "timer": {
-      "codepoint": 60479,
+      "codepoint": 60480,
       "fontFamily": "Glyphs",
       "identifier": "timer"
     },
     "timer-1": {
-      "codepoint": 60480,
+      "codepoint": 60481,
       "fontFamily": "Glyphs",
       "identifier": "timer1"
     },
     "timer-1-bold": {
-      "codepoint": 60481,
+      "codepoint": 60482,
       "fontFamily": "Glyphs",
       "identifier": "timer1Bold"
     },
     "timer-1-duo": {
-      "codepoint": 60482,
+      "codepoint": 60483,
       "fontFamily": "Glyphs",
       "identifier": "timer1Duo"
     },
     "timer-1-outline": {
-      "codepoint": 60483,
+      "codepoint": 60484,
       "fontFamily": "Glyphs",
       "identifier": "timer1Outline"
     },
     "timer-2": {
-      "codepoint": 60484,
+      "codepoint": 60485,
       "fontFamily": "Glyphs",
       "identifier": "timer2"
     },
     "timer-2-bold": {
-      "codepoint": 60485,
+      "codepoint": 60486,
       "fontFamily": "Glyphs",
       "identifier": "timer2Bold"
     },
     "timer-2-duo": {
-      "codepoint": 60486,
+      "codepoint": 60487,
       "fontFamily": "Glyphs",
       "identifier": "timer2Duo"
     },
     "timer-2-outline": {
-      "codepoint": 60487,
+      "codepoint": 60488,
       "fontFamily": "Glyphs",
       "identifier": "timer2Outline"
     },
     "timer-bold": {
-      "codepoint": 60488,
+      "codepoint": 60489,
       "fontFamily": "Glyphs",
       "identifier": "timerBold"
     },
     "timer-duo": {
-      "codepoint": 60489,
+      "codepoint": 60490,
       "fontFamily": "Glyphs",
       "identifier": "timerDuo"
     },
     "timer-fast": {
-      "codepoint": 60490,
+      "codepoint": 60491,
       "fontFamily": "Glyphs",
       "identifier": "timerFast"
     },
     "timer-fast-bold": {
-      "codepoint": 60491,
+      "codepoint": 60492,
       "fontFamily": "Glyphs",
       "identifier": "timerFastBold"
     },
     "timer-fast-duo": {
-      "codepoint": 60492,
+      "codepoint": 60493,
       "fontFamily": "Glyphs",
       "identifier": "timerFastDuo"
     },
     "timer-fast-outline": {
-      "codepoint": 60493,
+      "codepoint": 60494,
       "fontFamily": "Glyphs",
       "identifier": "timerFastOutline"
     },
     "timer-outline": {
-      "codepoint": 60494,
+      "codepoint": 60495,
       "fontFamily": "Glyphs",
       "identifier": "timerOutline"
     },
     "times": {
-      "codepoint": 60495,
+      "codepoint": 60496,
       "fontFamily": "Glyphs",
       "identifier": "times"
     },
     "times-bold": {
-      "codepoint": 60496,
+      "codepoint": 60497,
       "fontFamily": "Glyphs",
       "identifier": "timesBold"
     },
     "times-duo": {
-      "codepoint": 60497,
+      "codepoint": 60498,
       "fontFamily": "Glyphs",
       "identifier": "timesDuo"
     },
     "times-outline": {
-      "codepoint": 60498,
+      "codepoint": 60499,
       "fontFamily": "Glyphs",
       "identifier": "timesOutline"
     },
     "tired": {
-      "codepoint": 60499,
+      "codepoint": 60500,
       "fontFamily": "Glyphs",
       "identifier": "tired"
     },
     "tired-bold": {
-      "codepoint": 60500,
+      "codepoint": 60501,
       "fontFamily": "Glyphs",
       "identifier": "tiredBold"
     },
     "tired-duo": {
-      "codepoint": 60501,
+      "codepoint": 60502,
       "fontFamily": "Glyphs",
       "identifier": "tiredDuo"
     },
     "tired-outline": {
-      "codepoint": 60502,
+      "codepoint": 60503,
       "fontFamily": "Glyphs",
       "identifier": "tiredOutline"
     },
     "toggle": {
-      "codepoint": 60503,
+      "codepoint": 60504,
       "fontFamily": "Glyphs",
       "identifier": "toggle"
     },
     "toggle-1": {
-      "codepoint": 60504,
+      "codepoint": 60505,
       "fontFamily": "Glyphs",
       "identifier": "toggle1"
     },
     "toggle-1-bold": {
-      "codepoint": 60505,
+      "codepoint": 60506,
       "fontFamily": "Glyphs",
       "identifier": "toggle1Bold"
     },
     "toggle-1-duo": {
-      "codepoint": 60506,
+      "codepoint": 60507,
       "fontFamily": "Glyphs",
       "identifier": "toggle1Duo"
     },
     "toggle-1-outline": {
-      "codepoint": 60507,
+      "codepoint": 60508,
       "fontFamily": "Glyphs",
       "identifier": "toggle1Outline"
     },
     "toggle-2": {
-      "codepoint": 60508,
+      "codepoint": 60509,
       "fontFamily": "Glyphs",
       "identifier": "toggle2"
     },
     "toggle-2-bold": {
-      "codepoint": 60509,
+      "codepoint": 60510,
       "fontFamily": "Glyphs",
       "identifier": "toggle2Bold"
     },
     "toggle-2-duo": {
-      "codepoint": 60510,
+      "codepoint": 60511,
       "fontFamily": "Glyphs",
       "identifier": "toggle2Duo"
     },
     "toggle-2-outline": {
-      "codepoint": 60511,
+      "codepoint": 60512,
       "fontFamily": "Glyphs",
       "identifier": "toggle2Outline"
     },
     "toggle-bold": {
-      "codepoint": 60512,
+      "codepoint": 60513,
       "fontFamily": "Glyphs",
       "identifier": "toggleBold"
     },
     "toggle-duo": {
-      "codepoint": 60513,
+      "codepoint": 60514,
       "fontFamily": "Glyphs",
       "identifier": "toggleDuo"
     },
     "toggle-outline": {
-      "codepoint": 60514,
+      "codepoint": 60515,
       "fontFamily": "Glyphs",
       "identifier": "toggleOutline"
     },
     "toolbox": {
-      "codepoint": 60515,
+      "codepoint": 60516,
       "fontFamily": "Glyphs",
       "identifier": "toolbox"
     },
     "toolbox-bold": {
-      "codepoint": 60516,
+      "codepoint": 60517,
       "fontFamily": "Glyphs",
       "identifier": "toolboxBold"
     },
     "toolbox-duo": {
-      "codepoint": 60517,
+      "codepoint": 60518,
       "fontFamily": "Glyphs",
       "identifier": "toolboxDuo"
     },
     "toolbox-outline": {
-      "codepoint": 60518,
+      "codepoint": 60519,
       "fontFamily": "Glyphs",
       "identifier": "toolboxOutline"
     },
     "tools": {
-      "codepoint": 60519,
+      "codepoint": 60520,
       "fontFamily": "Glyphs",
       "identifier": "tools"
     },
     "tools-bold": {
-      "codepoint": 60520,
+      "codepoint": 60521,
       "fontFamily": "Glyphs",
       "identifier": "toolsBold"
     },
     "tools-duo": {
-      "codepoint": 60521,
+      "codepoint": 60522,
       "fontFamily": "Glyphs",
       "identifier": "toolsDuo"
     },
     "tools-outline": {
-      "codepoint": 60522,
+      "codepoint": 60523,
       "fontFamily": "Glyphs",
       "identifier": "toolsOutline"
     },
     "tornado": {
-      "codepoint": 60523,
+      "codepoint": 60524,
       "fontFamily": "Glyphs",
       "identifier": "tornado"
     },
     "tornado-bold": {
-      "codepoint": 60524,
+      "codepoint": 60525,
       "fontFamily": "Glyphs",
       "identifier": "tornadoBold"
     },
     "tornado-duo": {
-      "codepoint": 60525,
+      "codepoint": 60526,
       "fontFamily": "Glyphs",
       "identifier": "tornadoDuo"
     },
     "tornado-outline": {
-      "codepoint": 60526,
+      "codepoint": 60527,
       "fontFamily": "Glyphs",
       "identifier": "tornadoOutline"
     },
     "train": {
-      "codepoint": 60527,
+      "codepoint": 60528,
       "fontFamily": "Glyphs",
       "identifier": "train"
     },
     "train-bold": {
-      "codepoint": 60528,
+      "codepoint": 60529,
       "fontFamily": "Glyphs",
       "identifier": "trainBold"
     },
     "train-duo": {
-      "codepoint": 60529,
+      "codepoint": 60530,
       "fontFamily": "Glyphs",
       "identifier": "trainDuo"
     },
     "train-outline": {
-      "codepoint": 60530,
+      "codepoint": 60531,
       "fontFamily": "Glyphs",
       "identifier": "trainOutline"
     },
     "trash": {
-      "codepoint": 60531,
+      "codepoint": 60532,
       "fontFamily": "Glyphs",
       "identifier": "trash"
     },
     "trash-1": {
-      "codepoint": 60532,
+      "codepoint": 60533,
       "fontFamily": "Glyphs",
       "identifier": "trash1"
     },
     "trash-1-bold": {
-      "codepoint": 60533,
+      "codepoint": 60534,
       "fontFamily": "Glyphs",
       "identifier": "trash1Bold"
     },
     "trash-1-duo": {
-      "codepoint": 60534,
+      "codepoint": 60535,
       "fontFamily": "Glyphs",
       "identifier": "trash1Duo"
     },
     "trash-1-outline": {
-      "codepoint": 60535,
+      "codepoint": 60536,
       "fontFamily": "Glyphs",
       "identifier": "trash1Outline"
     },
     "trash-bold": {
-      "codepoint": 60536,
+      "codepoint": 60537,
       "fontFamily": "Glyphs",
       "identifier": "trashBold"
     },
     "trash-duo": {
-      "codepoint": 60537,
+      "codepoint": 60538,
       "fontFamily": "Glyphs",
       "identifier": "trashDuo"
     },
     "trash-outline": {
-      "codepoint": 60538,
+      "codepoint": 60539,
       "fontFamily": "Glyphs",
       "identifier": "trashOutline"
     },
     "tree": {
-      "codepoint": 60539,
+      "codepoint": 60540,
       "fontFamily": "Glyphs",
       "identifier": "tree"
     },
     "tree-1": {
-      "codepoint": 60540,
+      "codepoint": 60541,
       "fontFamily": "Glyphs",
       "identifier": "tree1"
     },
     "tree-1-bold": {
-      "codepoint": 60541,
+      "codepoint": 60542,
       "fontFamily": "Glyphs",
       "identifier": "tree1Bold"
     },
     "tree-1-duo": {
-      "codepoint": 60542,
+      "codepoint": 60543,
       "fontFamily": "Glyphs",
       "identifier": "tree1Duo"
     },
     "tree-1-outline": {
-      "codepoint": 60543,
+      "codepoint": 60544,
       "fontFamily": "Glyphs",
       "identifier": "tree1Outline"
     },
     "tree-2": {
-      "codepoint": 60544,
+      "codepoint": 60545,
       "fontFamily": "Glyphs",
       "identifier": "tree2"
     },
     "tree-2-bold": {
-      "codepoint": 60545,
+      "codepoint": 60546,
       "fontFamily": "Glyphs",
       "identifier": "tree2Bold"
     },
     "tree-2-duo": {
-      "codepoint": 60546,
+      "codepoint": 60547,
       "fontFamily": "Glyphs",
       "identifier": "tree2Duo"
     },
     "tree-2-outline": {
-      "codepoint": 60547,
+      "codepoint": 60548,
       "fontFamily": "Glyphs",
       "identifier": "tree2Outline"
     },
     "tree-3": {
-      "codepoint": 60548,
+      "codepoint": 60549,
       "fontFamily": "Glyphs",
       "identifier": "tree3"
     },
     "tree-3-bold": {
-      "codepoint": 60549,
+      "codepoint": 60550,
       "fontFamily": "Glyphs",
       "identifier": "tree3Bold"
     },
     "tree-3-duo": {
-      "codepoint": 60550,
+      "codepoint": 60551,
       "fontFamily": "Glyphs",
       "identifier": "tree3Duo"
     },
     "tree-3-outline": {
-      "codepoint": 60551,
+      "codepoint": 60552,
       "fontFamily": "Glyphs",
       "identifier": "tree3Outline"
     },
     "tree-4": {
-      "codepoint": 60552,
+      "codepoint": 60553,
       "fontFamily": "Glyphs",
       "identifier": "tree4"
     },
     "tree-4-bold": {
-      "codepoint": 60553,
+      "codepoint": 60554,
       "fontFamily": "Glyphs",
       "identifier": "tree4Bold"
     },
     "tree-4-duo": {
-      "codepoint": 60554,
+      "codepoint": 60555,
       "fontFamily": "Glyphs",
       "identifier": "tree4Duo"
     },
     "tree-4-outline": {
-      "codepoint": 60555,
+      "codepoint": 60556,
       "fontFamily": "Glyphs",
       "identifier": "tree4Outline"
     },
     "tree-5": {
-      "codepoint": 60556,
+      "codepoint": 60557,
       "fontFamily": "Glyphs",
       "identifier": "tree5"
     },
     "tree-5-bold": {
-      "codepoint": 60557,
+      "codepoint": 60558,
       "fontFamily": "Glyphs",
       "identifier": "tree5Bold"
     },
     "tree-5-duo": {
-      "codepoint": 60558,
+      "codepoint": 60559,
       "fontFamily": "Glyphs",
       "identifier": "tree5Duo"
     },
     "tree-5-outline": {
-      "codepoint": 60559,
+      "codepoint": 60560,
       "fontFamily": "Glyphs",
       "identifier": "tree5Outline"
     },
     "tree-bold": {
-      "codepoint": 60560,
+      "codepoint": 60561,
       "fontFamily": "Glyphs",
       "identifier": "treeBold"
     },
     "tree-duo": {
-      "codepoint": 60561,
+      "codepoint": 60562,
       "fontFamily": "Glyphs",
       "identifier": "treeDuo"
     },
     "tree-outline": {
-      "codepoint": 60562,
+      "codepoint": 60563,
       "fontFamily": "Glyphs",
       "identifier": "treeOutline"
     },
     "triangle": {
-      "codepoint": 60563,
+      "codepoint": 60564,
       "fontFamily": "Glyphs",
       "identifier": "triangle"
     },
     "triangle-bold": {
-      "codepoint": 60564,
+      "codepoint": 60565,
       "fontFamily": "Glyphs",
       "identifier": "triangleBold"
     },
     "triangle-duo": {
-      "codepoint": 60565,
+      "codepoint": 60566,
       "fontFamily": "Glyphs",
       "identifier": "triangleDuo"
     },
     "triangle-outline": {
-      "codepoint": 60566,
+      "codepoint": 60567,
       "fontFamily": "Glyphs",
       "identifier": "triangleOutline"
     },
     "trophy": {
-      "codepoint": 60567,
+      "codepoint": 60568,
       "fontFamily": "Glyphs",
       "identifier": "trophy"
     },
     "trophy-bold": {
-      "codepoint": 60568,
+      "codepoint": 60569,
       "fontFamily": "Glyphs",
       "identifier": "trophyBold"
     },
     "trophy-duo": {
-      "codepoint": 60569,
+      "codepoint": 60570,
       "fontFamily": "Glyphs",
       "identifier": "trophyDuo"
     },
     "trophy-outline": {
-      "codepoint": 60570,
+      "codepoint": 60571,
       "fontFamily": "Glyphs",
       "identifier": "trophyOutline"
     },
     "truck": {
-      "codepoint": 60571,
+      "codepoint": 60572,
       "fontFamily": "Glyphs",
       "identifier": "truck"
     },
     "truck-bold": {
-      "codepoint": 60572,
+      "codepoint": 60573,
       "fontFamily": "Glyphs",
       "identifier": "truckBold"
     },
     "truck-duo": {
-      "codepoint": 60573,
+      "codepoint": 60574,
       "fontFamily": "Glyphs",
       "identifier": "truckDuo"
     },
     "truck-outline": {
-      "codepoint": 60574,
+      "codepoint": 60575,
       "fontFamily": "Glyphs",
       "identifier": "truckOutline"
     },
     "turn-sign": {
-      "codepoint": 60575,
+      "codepoint": 60576,
       "fontFamily": "Glyphs",
       "identifier": "turnSign"
     },
     "turn-sign-bold": {
-      "codepoint": 60576,
+      "codepoint": 60577,
       "fontFamily": "Glyphs",
       "identifier": "turnSignBold"
     },
     "turn-sign-duo": {
-      "codepoint": 60577,
+      "codepoint": 60578,
       "fontFamily": "Glyphs",
       "identifier": "turnSignDuo"
     },
     "turn-sign-outline": {
-      "codepoint": 60578,
+      "codepoint": 60579,
       "fontFamily": "Glyphs",
       "identifier": "turnSignOutline"
     },
     "tv-retro": {
-      "codepoint": 60579,
+      "codepoint": 60580,
       "fontFamily": "Glyphs",
       "identifier": "tvRetro"
     },
     "tv-retro-bold": {
-      "codepoint": 60580,
+      "codepoint": 60581,
       "fontFamily": "Glyphs",
       "identifier": "tvRetroBold"
     },
     "tv-retro-duo": {
-      "codepoint": 60581,
+      "codepoint": 60582,
       "fontFamily": "Glyphs",
       "identifier": "tvRetroDuo"
     },
     "tv-retro-outline": {
-      "codepoint": 60582,
+      "codepoint": 60583,
       "fontFamily": "Glyphs",
       "identifier": "tvRetroOutline"
     },
     "two": {
-      "codepoint": 60583,
+      "codepoint": 60584,
       "fontFamily": "Glyphs",
       "identifier": "two"
     },
     "two-bold": {
-      "codepoint": 60584,
+      "codepoint": 60585,
       "fontFamily": "Glyphs",
       "identifier": "twoBold"
     },
     "two-duo": {
-      "codepoint": 60585,
+      "codepoint": 60586,
       "fontFamily": "Glyphs",
       "identifier": "twoDuo"
     },
     "two-outline": {
-      "codepoint": 60586,
+      "codepoint": 60587,
       "fontFamily": "Glyphs",
       "identifier": "twoOutline"
     },
     "u": {
-      "codepoint": 60587,
+      "codepoint": 60588,
       "fontFamily": "Glyphs",
       "identifier": "u"
     },
     "u-bold": {
-      "codepoint": 60588,
+      "codepoint": 60589,
       "fontFamily": "Glyphs",
       "identifier": "uBold"
     },
     "u-duo": {
-      "codepoint": 60589,
+      "codepoint": 60590,
       "fontFamily": "Glyphs",
       "identifier": "uDuo"
     },
     "u-outline": {
-      "codepoint": 60590,
+      "codepoint": 60591,
       "fontFamily": "Glyphs",
       "identifier": "uOutline"
     },
     "u-turn-sign": {
-      "codepoint": 60591,
+      "codepoint": 60592,
       "fontFamily": "Glyphs",
       "identifier": "uTurnSign"
     },
     "u-turn-sign-bold": {
-      "codepoint": 60592,
+      "codepoint": 60593,
       "fontFamily": "Glyphs",
       "identifier": "uTurnSignBold"
     },
     "u-turn-sign-duo": {
-      "codepoint": 60593,
+      "codepoint": 60594,
       "fontFamily": "Glyphs",
       "identifier": "uTurnSignDuo"
     },
     "u-turn-sign-outline": {
-      "codepoint": 60594,
+      "codepoint": 60595,
       "fontFamily": "Glyphs",
       "identifier": "uTurnSignOutline"
     },
     "underline": {
-      "codepoint": 60595,
+      "codepoint": 60596,
       "fontFamily": "Glyphs",
       "identifier": "underline"
     },
     "underline-bold": {
-      "codepoint": 60596,
+      "codepoint": 60597,
       "fontFamily": "Glyphs",
       "identifier": "underlineBold"
     },
     "underline-duo": {
-      "codepoint": 60597,
+      "codepoint": 60598,
       "fontFamily": "Glyphs",
       "identifier": "underlineDuo"
     },
     "underline-outline": {
-      "codepoint": 60598,
+      "codepoint": 60599,
       "fontFamily": "Glyphs",
       "identifier": "underlineOutline"
     },
     "union": {
-      "codepoint": 60599,
+      "codepoint": 60600,
       "fontFamily": "Glyphs",
       "identifier": "union"
     },
     "union-bold": {
-      "codepoint": 60600,
+      "codepoint": 60601,
       "fontFamily": "Glyphs",
       "identifier": "unionBold"
     },
     "union-duo": {
-      "codepoint": 60601,
+      "codepoint": 60602,
       "fontFamily": "Glyphs",
       "identifier": "unionDuo"
     },
     "union-outline": {
-      "codepoint": 60602,
+      "codepoint": 60603,
       "fontFamily": "Glyphs",
       "identifier": "unionOutline"
     },
     "unlink": {
-      "codepoint": 60603,
+      "codepoint": 60604,
       "fontFamily": "Glyphs",
       "identifier": "unlink"
     },
     "unlink-bold": {
-      "codepoint": 60604,
+      "codepoint": 60605,
       "fontFamily": "Glyphs",
       "identifier": "unlinkBold"
     },
     "unlink-duo": {
-      "codepoint": 60605,
+      "codepoint": 60606,
       "fontFamily": "Glyphs",
       "identifier": "unlinkDuo"
     },
     "unlink-outline": {
-      "codepoint": 60606,
+      "codepoint": 60607,
       "fontFamily": "Glyphs",
       "identifier": "unlinkOutline"
     },
     "user": {
-      "codepoint": 60607,
+      "codepoint": 60608,
       "fontFamily": "Glyphs",
       "identifier": "user"
     },
     "user-bold": {
-      "codepoint": 60608,
+      "codepoint": 60609,
       "fontFamily": "Glyphs",
       "identifier": "userBold"
     },
     "user-circle": {
-      "codepoint": 60609,
+      "codepoint": 60610,
       "fontFamily": "Glyphs",
       "identifier": "userCircle"
     },
     "user-circle-bold": {
-      "codepoint": 60610,
+      "codepoint": 60611,
       "fontFamily": "Glyphs",
       "identifier": "userCircleBold"
     },
     "user-circle-duo": {
-      "codepoint": 60611,
+      "codepoint": 60612,
       "fontFamily": "Glyphs",
       "identifier": "userCircleDuo"
     },
     "user-circle-outline": {
-      "codepoint": 60612,
+      "codepoint": 60613,
       "fontFamily": "Glyphs",
       "identifier": "userCircleOutline"
     },
     "user-comment": {
-      "codepoint": 60613,
+      "codepoint": 60614,
       "fontFamily": "Glyphs",
       "identifier": "userComment"
     },
     "user-comment-bold": {
-      "codepoint": 60614,
+      "codepoint": 60615,
       "fontFamily": "Glyphs",
       "identifier": "userCommentBold"
     },
     "user-comment-duo": {
-      "codepoint": 60615,
+      "codepoint": 60616,
       "fontFamily": "Glyphs",
       "identifier": "userCommentDuo"
     },
     "user-comment-outline": {
-      "codepoint": 60616,
+      "codepoint": 60617,
       "fontFamily": "Glyphs",
       "identifier": "userCommentOutline"
     },
     "user-duo": {
-      "codepoint": 60617,
+      "codepoint": 60618,
       "fontFamily": "Glyphs",
       "identifier": "userDuo"
     },
     "user-outline": {
-      "codepoint": 60618,
+      "codepoint": 60619,
       "fontFamily": "Glyphs",
       "identifier": "userOutline"
     },
     "users": {
-      "codepoint": 60619,
+      "codepoint": 60620,
       "fontFamily": "Glyphs",
       "identifier": "users"
     },
     "users-1": {
-      "codepoint": 60620,
+      "codepoint": 60621,
       "fontFamily": "Glyphs",
       "identifier": "users1"
     },
     "users-1-bold": {
-      "codepoint": 60621,
+      "codepoint": 60622,
       "fontFamily": "Glyphs",
       "identifier": "users1Bold"
     },
     "users-1-duo": {
-      "codepoint": 60622,
+      "codepoint": 60623,
       "fontFamily": "Glyphs",
       "identifier": "users1Duo"
     },
     "users-1-outline": {
-      "codepoint": 60623,
+      "codepoint": 60624,
       "fontFamily": "Glyphs",
       "identifier": "users1Outline"
     },
     "users-bold": {
-      "codepoint": 60624,
+      "codepoint": 60625,
       "fontFamily": "Glyphs",
       "identifier": "usersBold"
     },
     "users-duo": {
-      "codepoint": 60625,
+      "codepoint": 60626,
       "fontFamily": "Glyphs",
       "identifier": "usersDuo"
     },
     "users-outline": {
-      "codepoint": 60626,
+      "codepoint": 60627,
       "fontFamily": "Glyphs",
       "identifier": "usersOutline"
     },
     "v": {
-      "codepoint": 60627,
+      "codepoint": 60628,
       "fontFamily": "Glyphs",
       "identifier": "v"
     },
     "v-bold": {
-      "codepoint": 60628,
+      "codepoint": 60629,
       "fontFamily": "Glyphs",
       "identifier": "vBold"
     },
     "v-duo": {
-      "codepoint": 60629,
+      "codepoint": 60630,
       "fontFamily": "Glyphs",
       "identifier": "vDuo"
     },
     "v-outline": {
-      "codepoint": 60630,
+      "codepoint": 60631,
       "fontFamily": "Glyphs",
       "identifier": "vOutline"
     },
     "van": {
-      "codepoint": 60631,
+      "codepoint": 60632,
       "fontFamily": "Glyphs",
       "identifier": "van"
     },
     "van-bold": {
-      "codepoint": 60632,
+      "codepoint": 60633,
       "fontFamily": "Glyphs",
       "identifier": "vanBold"
     },
     "van-duo": {
-      "codepoint": 60633,
+      "codepoint": 60634,
       "fontFamily": "Glyphs",
       "identifier": "vanDuo"
     },
     "van-outline": {
-      "codepoint": 60634,
+      "codepoint": 60635,
       "fontFamily": "Glyphs",
       "identifier": "vanOutline"
     },
     "venn": {
-      "codepoint": 60635,
+      "codepoint": 60636,
       "fontFamily": "Glyphs",
       "identifier": "venn"
     },
     "venn-bold": {
-      "codepoint": 60636,
+      "codepoint": 60637,
       "fontFamily": "Glyphs",
       "identifier": "vennBold"
     },
     "venn-duo": {
-      "codepoint": 60637,
+      "codepoint": 60638,
       "fontFamily": "Glyphs",
       "identifier": "vennDuo"
     },
     "venn-outline": {
-      "codepoint": 60638,
+      "codepoint": 60639,
       "fontFamily": "Glyphs",
       "identifier": "vennOutline"
     },
     "video": {
-      "codepoint": 60639,
+      "codepoint": 60640,
       "fontFamily": "Glyphs",
       "identifier": "video"
     },
     "video-bold": {
-      "codepoint": 60640,
+      "codepoint": 60641,
       "fontFamily": "Glyphs",
       "identifier": "videoBold"
     },
     "video-duo": {
-      "codepoint": 60641,
+      "codepoint": 60642,
       "fontFamily": "Glyphs",
       "identifier": "videoDuo"
     },
     "video-outline": {
-      "codepoint": 60642,
+      "codepoint": 60643,
       "fontFamily": "Glyphs",
       "identifier": "videoOutline"
     },
     "view-collapse": {
-      "codepoint": 60643,
+      "codepoint": 60644,
       "fontFamily": "Glyphs",
       "identifier": "viewCollapse"
     },
     "view-collapse-bold": {
-      "codepoint": 60644,
+      "codepoint": 60645,
       "fontFamily": "Glyphs",
       "identifier": "viewCollapseBold"
     },
     "view-collapse-duo": {
-      "codepoint": 60645,
+      "codepoint": 60646,
       "fontFamily": "Glyphs",
       "identifier": "viewCollapseDuo"
     },
     "view-collapse-outline": {
-      "codepoint": 60646,
+      "codepoint": 60647,
       "fontFamily": "Glyphs",
       "identifier": "viewCollapseOutline"
     },
     "view-expand": {
-      "codepoint": 60647,
+      "codepoint": 60648,
       "fontFamily": "Glyphs",
       "identifier": "viewExpand"
     },
     "view-expand-bold": {
-      "codepoint": 60648,
+      "codepoint": 60649,
       "fontFamily": "Glyphs",
       "identifier": "viewExpandBold"
     },
     "view-expand-duo": {
-      "codepoint": 60649,
+      "codepoint": 60650,
       "fontFamily": "Glyphs",
       "identifier": "viewExpandDuo"
     },
     "view-expand-outline": {
-      "codepoint": 60650,
+      "codepoint": 60651,
       "fontFamily": "Glyphs",
       "identifier": "viewExpandOutline"
     },
     "virus": {
-      "codepoint": 60651,
+      "codepoint": 60652,
       "fontFamily": "Glyphs",
       "identifier": "virus"
     },
     "virus-bold": {
-      "codepoint": 60652,
+      "codepoint": 60653,
       "fontFamily": "Glyphs",
       "identifier": "virusBold"
     },
     "virus-duo": {
-      "codepoint": 60653,
+      "codepoint": 60654,
       "fontFamily": "Glyphs",
       "identifier": "virusDuo"
     },
     "virus-outline": {
-      "codepoint": 60654,
+      "codepoint": 60655,
       "fontFamily": "Glyphs",
       "identifier": "virusOutline"
     },
     "volleyball": {
-      "codepoint": 60655,
+      "codepoint": 60656,
       "fontFamily": "Glyphs",
       "identifier": "volleyball"
     },
     "volleyball-bold": {
-      "codepoint": 60656,
+      "codepoint": 60657,
       "fontFamily": "Glyphs",
       "identifier": "volleyballBold"
     },
     "volleyball-duo": {
-      "codepoint": 60657,
+      "codepoint": 60658,
       "fontFamily": "Glyphs",
       "identifier": "volleyballDuo"
     },
     "volleyball-outline": {
-      "codepoint": 60658,
+      "codepoint": 60659,
       "fontFamily": "Glyphs",
       "identifier": "volleyballOutline"
     },
     "volume": {
-      "codepoint": 60659,
+      "codepoint": 60660,
       "fontFamily": "Glyphs",
       "identifier": "volume"
     },
     "volume-1": {
-      "codepoint": 60660,
+      "codepoint": 60661,
       "fontFamily": "Glyphs",
       "identifier": "volume1"
     },
     "volume-1-bold": {
-      "codepoint": 60661,
+      "codepoint": 60662,
       "fontFamily": "Glyphs",
       "identifier": "volume1Bold"
     },
     "volume-1-duo": {
-      "codepoint": 60662,
+      "codepoint": 60663,
       "fontFamily": "Glyphs",
       "identifier": "volume1Duo"
     },
     "volume-1-outline": {
-      "codepoint": 60663,
+      "codepoint": 60664,
       "fontFamily": "Glyphs",
       "identifier": "volume1Outline"
     },
     "volume-2": {
-      "codepoint": 60664,
+      "codepoint": 60665,
       "fontFamily": "Glyphs",
       "identifier": "volume2"
     },
     "volume-2-bold": {
-      "codepoint": 60665,
+      "codepoint": 60666,
       "fontFamily": "Glyphs",
       "identifier": "volume2Bold"
     },
     "volume-2-duo": {
-      "codepoint": 60666,
+      "codepoint": 60667,
       "fontFamily": "Glyphs",
       "identifier": "volume2Duo"
     },
     "volume-2-outline": {
-      "codepoint": 60667,
+      "codepoint": 60668,
       "fontFamily": "Glyphs",
       "identifier": "volume2Outline"
     },
     "volume-3": {
-      "codepoint": 60668,
+      "codepoint": 60669,
       "fontFamily": "Glyphs",
       "identifier": "volume3"
     },
     "volume-3-bold": {
-      "codepoint": 60669,
+      "codepoint": 60670,
       "fontFamily": "Glyphs",
       "identifier": "volume3Bold"
     },
     "volume-3-duo": {
-      "codepoint": 60670,
+      "codepoint": 60671,
       "fontFamily": "Glyphs",
       "identifier": "volume3Duo"
     },
     "volume-3-outline": {
-      "codepoint": 60671,
+      "codepoint": 60672,
       "fontFamily": "Glyphs",
       "identifier": "volume3Outline"
     },
     "volume-bold": {
-      "codepoint": 60672,
+      "codepoint": 60673,
       "fontFamily": "Glyphs",
       "identifier": "volumeBold"
     },
     "volume-duo": {
-      "codepoint": 60673,
+      "codepoint": 60674,
       "fontFamily": "Glyphs",
       "identifier": "volumeDuo"
     },
     "volume-mute": {
-      "codepoint": 60674,
+      "codepoint": 60675,
       "fontFamily": "Glyphs",
       "identifier": "volumeMute"
     },
     "volume-mute-bold": {
-      "codepoint": 60675,
+      "codepoint": 60676,
       "fontFamily": "Glyphs",
       "identifier": "volumeMuteBold"
     },
     "volume-mute-duo": {
-      "codepoint": 60676,
+      "codepoint": 60677,
       "fontFamily": "Glyphs",
       "identifier": "volumeMuteDuo"
     },
     "volume-mute-outline": {
-      "codepoint": 60677,
+      "codepoint": 60678,
       "fontFamily": "Glyphs",
       "identifier": "volumeMuteOutline"
     },
     "volume-outline": {
-      "codepoint": 60678,
+      "codepoint": 60679,
       "fontFamily": "Glyphs",
       "identifier": "volumeOutline"
     },
     "w": {
-      "codepoint": 60679,
+      "codepoint": 60680,
       "fontFamily": "Glyphs",
       "identifier": "w"
     },
     "w-bold": {
-      "codepoint": 60680,
+      "codepoint": 60681,
       "fontFamily": "Glyphs",
       "identifier": "wBold"
     },
     "w-duo": {
-      "codepoint": 60681,
+      "codepoint": 60682,
       "fontFamily": "Glyphs",
       "identifier": "wDuo"
     },
     "w-outline": {
-      "codepoint": 60682,
+      "codepoint": 60683,
       "fontFamily": "Glyphs",
       "identifier": "wOutline"
     },
     "walking": {
-      "codepoint": 60683,
+      "codepoint": 60684,
       "fontFamily": "Glyphs",
       "identifier": "walking"
     },
     "walking-bold": {
-      "codepoint": 60684,
+      "codepoint": 60685,
       "fontFamily": "Glyphs",
       "identifier": "walkingBold"
     },
     "walking-duo": {
-      "codepoint": 60685,
+      "codepoint": 60686,
       "fontFamily": "Glyphs",
       "identifier": "walkingDuo"
     },
     "walking-outline": {
-      "codepoint": 60686,
+      "codepoint": 60687,
       "fontFamily": "Glyphs",
       "identifier": "walkingOutline"
     },
     "wallet": {
-      "codepoint": 60687,
+      "codepoint": 60688,
       "fontFamily": "Glyphs",
       "identifier": "wallet"
     },
     "wallet-bold": {
-      "codepoint": 60688,
+      "codepoint": 60689,
       "fontFamily": "Glyphs",
       "identifier": "walletBold"
     },
     "wallet-duo": {
-      "codepoint": 60689,
+      "codepoint": 60690,
       "fontFamily": "Glyphs",
       "identifier": "walletDuo"
     },
     "wallet-outline": {
-      "codepoint": 60690,
+      "codepoint": 60691,
       "fontFamily": "Glyphs",
       "identifier": "walletOutline"
     },
     "watch": {
-      "codepoint": 60691,
+      "codepoint": 60692,
       "fontFamily": "Glyphs",
       "identifier": "watch"
     },
     "watch-1": {
-      "codepoint": 60692,
+      "codepoint": 60693,
       "fontFamily": "Glyphs",
       "identifier": "watch1"
     },
     "watch-1-bold": {
-      "codepoint": 60693,
+      "codepoint": 60694,
       "fontFamily": "Glyphs",
       "identifier": "watch1Bold"
     },
     "watch-1-duo": {
-      "codepoint": 60694,
+      "codepoint": 60695,
       "fontFamily": "Glyphs",
       "identifier": "watch1Duo"
     },
     "watch-1-outline": {
-      "codepoint": 60695,
+      "codepoint": 60696,
       "fontFamily": "Glyphs",
       "identifier": "watch1Outline"
     },
     "watch-2": {
-      "codepoint": 60696,
+      "codepoint": 60697,
       "fontFamily": "Glyphs",
       "identifier": "watch2"
     },
     "watch-2-bold": {
-      "codepoint": 60697,
+      "codepoint": 60698,
       "fontFamily": "Glyphs",
       "identifier": "watch2Bold"
     },
     "watch-2-duo": {
-      "codepoint": 60698,
+      "codepoint": 60699,
       "fontFamily": "Glyphs",
       "identifier": "watch2Duo"
     },
     "watch-2-outline": {
-      "codepoint": 60699,
+      "codepoint": 60700,
       "fontFamily": "Glyphs",
       "identifier": "watch2Outline"
     },
     "watch-bold": {
-      "codepoint": 60700,
+      "codepoint": 60701,
       "fontFamily": "Glyphs",
       "identifier": "watchBold"
     },
     "watch-duo": {
-      "codepoint": 60701,
+      "codepoint": 60702,
       "fontFamily": "Glyphs",
       "identifier": "watchDuo"
     },
     "watch-fitness": {
-      "codepoint": 60702,
+      "codepoint": 60703,
       "fontFamily": "Glyphs",
       "identifier": "watchFitness"
     },
     "watch-fitness-bold": {
-      "codepoint": 60703,
+      "codepoint": 60704,
       "fontFamily": "Glyphs",
       "identifier": "watchFitnessBold"
     },
     "watch-fitness-duo": {
-      "codepoint": 60704,
+      "codepoint": 60705,
       "fontFamily": "Glyphs",
       "identifier": "watchFitnessDuo"
     },
     "watch-fitness-outline": {
-      "codepoint": 60705,
+      "codepoint": 60706,
       "fontFamily": "Glyphs",
       "identifier": "watchFitnessOutline"
     },
     "watch-outline": {
-      "codepoint": 60706,
+      "codepoint": 60707,
       "fontFamily": "Glyphs",
       "identifier": "watchOutline"
     },
     "waves": {
-      "codepoint": 60707,
+      "codepoint": 60708,
       "fontFamily": "Glyphs",
       "identifier": "waves"
     },
     "waves-1": {
-      "codepoint": 60708,
+      "codepoint": 60709,
       "fontFamily": "Glyphs",
       "identifier": "waves1"
     },
     "waves-1-bold": {
-      "codepoint": 60709,
+      "codepoint": 60710,
       "fontFamily": "Glyphs",
       "identifier": "waves1Bold"
     },
     "waves-1-duo": {
-      "codepoint": 60710,
+      "codepoint": 60711,
       "fontFamily": "Glyphs",
       "identifier": "waves1Duo"
     },
     "waves-1-outline": {
-      "codepoint": 60711,
+      "codepoint": 60712,
       "fontFamily": "Glyphs",
       "identifier": "waves1Outline"
     },
     "waves-bold": {
-      "codepoint": 60712,
+      "codepoint": 60713,
       "fontFamily": "Glyphs",
       "identifier": "wavesBold"
     },
     "waves-duo": {
-      "codepoint": 60713,
+      "codepoint": 60714,
       "fontFamily": "Glyphs",
       "identifier": "wavesDuo"
     },
     "waves-outline": {
-      "codepoint": 60714,
+      "codepoint": 60715,
       "fontFamily": "Glyphs",
       "identifier": "wavesOutline"
     },
     "wifi": {
-      "codepoint": 60715,
+      "codepoint": 60716,
       "fontFamily": "Glyphs",
       "identifier": "wifi"
     },
     "wifi-1": {
-      "codepoint": 60716,
+      "codepoint": 60717,
       "fontFamily": "Glyphs",
       "identifier": "wifi1"
     },
     "wifi-1-bold": {
-      "codepoint": 60717,
+      "codepoint": 60718,
       "fontFamily": "Glyphs",
       "identifier": "wifi1Bold"
     },
     "wifi-1-duo": {
-      "codepoint": 60718,
+      "codepoint": 60719,
       "fontFamily": "Glyphs",
       "identifier": "wifi1Duo"
     },
     "wifi-1-outline": {
-      "codepoint": 60719,
+      "codepoint": 60720,
       "fontFamily": "Glyphs",
       "identifier": "wifi1Outline"
     },
     "wifi-100": {
-      "codepoint": 60720,
+      "codepoint": 60721,
       "fontFamily": "Glyphs",
       "identifier": "wifi100"
     },
     "wifi-100-bold": {
-      "codepoint": 60794,
+      "codepoint": 60722,
       "fontFamily": "Glyphs",
       "identifier": "wifi100Bold"
     },
     "wifi-100-duo": {
-      "codepoint": 60795,
+      "codepoint": 60723,
       "fontFamily": "Glyphs",
       "identifier": "wifi100Duo"
     },
     "wifi-100-outline": {
-      "codepoint": 60721,
+      "codepoint": 60724,
       "fontFamily": "Glyphs",
       "identifier": "wifi100Outline"
     },
     "wifi-2": {
-      "codepoint": 60722,
+      "codepoint": 60725,
       "fontFamily": "Glyphs",
       "identifier": "wifi2"
     },
     "wifi-2-bold": {
-      "codepoint": 60723,
+      "codepoint": 60726,
       "fontFamily": "Glyphs",
       "identifier": "wifi2Bold"
     },
     "wifi-2-duo": {
-      "codepoint": 60724,
+      "codepoint": 60727,
       "fontFamily": "Glyphs",
       "identifier": "wifi2Duo"
     },
     "wifi-2-outline": {
-      "codepoint": 60725,
+      "codepoint": 60728,
       "fontFamily": "Glyphs",
       "identifier": "wifi2Outline"
     },
     "wifi-25": {
-      "codepoint": 60726,
+      "codepoint": 60729,
       "fontFamily": "Glyphs",
       "identifier": "wifi25"
     },
     "wifi-25-bold": {
-      "codepoint": 60727,
+      "codepoint": 60730,
       "fontFamily": "Glyphs",
       "identifier": "wifi25Bold"
     },
     "wifi-25-duo": {
-      "codepoint": 60728,
+      "codepoint": 60731,
       "fontFamily": "Glyphs",
       "identifier": "wifi25Duo"
     },
     "wifi-25-outline": {
-      "codepoint": 60729,
+      "codepoint": 60732,
       "fontFamily": "Glyphs",
       "identifier": "wifi25Outline"
     },
     "wifi-50": {
-      "codepoint": 60730,
+      "codepoint": 60733,
       "fontFamily": "Glyphs",
       "identifier": "wifi50"
     },
     "wifi-50-bold": {
-      "codepoint": 60731,
+      "codepoint": 60734,
       "fontFamily": "Glyphs",
       "identifier": "wifi50Bold"
     },
     "wifi-50-duo": {
-      "codepoint": 60732,
+      "codepoint": 60735,
       "fontFamily": "Glyphs",
       "identifier": "wifi50Duo"
     },
     "wifi-50-outline": {
-      "codepoint": 60733,
+      "codepoint": 60736,
       "fontFamily": "Glyphs",
       "identifier": "wifi50Outline"
     },
     "wifi-75": {
-      "codepoint": 60734,
+      "codepoint": 60737,
       "fontFamily": "Glyphs",
       "identifier": "wifi75"
     },
     "wifi-75-bold": {
-      "codepoint": 60735,
+      "codepoint": 60738,
       "fontFamily": "Glyphs",
       "identifier": "wifi75Bold"
     },
     "wifi-75-duo": {
-      "codepoint": 60736,
+      "codepoint": 60739,
       "fontFamily": "Glyphs",
       "identifier": "wifi75Duo"
     },
     "wifi-75-outline": {
-      "codepoint": 60737,
+      "codepoint": 60740,
       "fontFamily": "Glyphs",
       "identifier": "wifi75Outline"
     },
     "wifi-bold": {
-      "codepoint": 60738,
+      "codepoint": 60741,
       "fontFamily": "Glyphs",
       "identifier": "wifiBold"
     },
     "wifi-duo": {
-      "codepoint": 60739,
+      "codepoint": 60742,
       "fontFamily": "Glyphs",
       "identifier": "wifiDuo"
     },
     "wifi-outline": {
-      "codepoint": 60740,
+      "codepoint": 60743,
       "fontFamily": "Glyphs",
       "identifier": "wifiOutline"
     },
     "wind": {
-      "codepoint": 60741,
+      "codepoint": 60744,
       "fontFamily": "Glyphs",
       "identifier": "wind"
     },
     "wind-bold": {
-      "codepoint": 60742,
+      "codepoint": 60745,
       "fontFamily": "Glyphs",
       "identifier": "windBold"
     },
     "wind-duo": {
-      "codepoint": 60743,
+      "codepoint": 60746,
       "fontFamily": "Glyphs",
       "identifier": "windDuo"
     },
     "wind-outline": {
-      "codepoint": 60744,
+      "codepoint": 60747,
       "fontFamily": "Glyphs",
       "identifier": "windOutline"
     },
     "window": {
-      "codepoint": 60745,
+      "codepoint": 60748,
       "fontFamily": "Glyphs",
       "identifier": "window"
     },
     "window-bold": {
-      "codepoint": 60746,
+      "codepoint": 60749,
       "fontFamily": "Glyphs",
       "identifier": "windowBold"
     },
     "window-duo": {
-      "codepoint": 60747,
+      "codepoint": 60750,
       "fontFamily": "Glyphs",
       "identifier": "windowDuo"
     },
     "window-outline": {
-      "codepoint": 60748,
+      "codepoint": 60751,
       "fontFamily": "Glyphs",
       "identifier": "windowOutline"
     },
     "windsock": {
-      "codepoint": 60749,
+      "codepoint": 60752,
       "fontFamily": "Glyphs",
       "identifier": "windsock"
     },
     "windsock-bold": {
-      "codepoint": 60750,
+      "codepoint": 60753,
       "fontFamily": "Glyphs",
       "identifier": "windsockBold"
     },
     "windsock-duo": {
-      "codepoint": 60751,
+      "codepoint": 60754,
       "fontFamily": "Glyphs",
       "identifier": "windsockDuo"
     },
     "windsock-outline": {
-      "codepoint": 60752,
+      "codepoint": 60755,
       "fontFamily": "Glyphs",
       "identifier": "windsockOutline"
     },
     "wink": {
-      "codepoint": 60753,
+      "codepoint": 60756,
       "fontFamily": "Glyphs",
       "identifier": "wink"
     },
     "wink-bold": {
-      "codepoint": 60754,
+      "codepoint": 60757,
       "fontFamily": "Glyphs",
       "identifier": "winkBold"
     },
     "wink-duo": {
-      "codepoint": 60755,
+      "codepoint": 60758,
       "fontFamily": "Glyphs",
       "identifier": "winkDuo"
     },
     "wink-outline": {
-      "codepoint": 60756,
+      "codepoint": 60759,
       "fontFamily": "Glyphs",
       "identifier": "winkOutline"
     },
     "wrench": {
-      "codepoint": 60757,
+      "codepoint": 60760,
       "fontFamily": "Glyphs",
       "identifier": "wrench"
     },
     "wrench-bold": {
-      "codepoint": 60758,
+      "codepoint": 60761,
       "fontFamily": "Glyphs",
       "identifier": "wrenchBold"
     },
     "wrench-duo": {
-      "codepoint": 60759,
+      "codepoint": 60762,
       "fontFamily": "Glyphs",
       "identifier": "wrenchDuo"
     },
     "wrench-outline": {
-      "codepoint": 60760,
+      "codepoint": 60763,
       "fontFamily": "Glyphs",
       "identifier": "wrenchOutline"
     },
     "x": {
-      "codepoint": 60761,
+      "codepoint": 60764,
       "fontFamily": "Glyphs",
       "identifier": "x"
     },
     "x-bold": {
-      "codepoint": 60762,
+      "codepoint": 60765,
       "fontFamily": "Glyphs",
       "identifier": "xBold"
     },
     "x-duo": {
-      "codepoint": 60763,
+      "codepoint": 60766,
       "fontFamily": "Glyphs",
       "identifier": "xDuo"
     },
     "x-outline": {
-      "codepoint": 60764,
+      "codepoint": 60767,
       "fontFamily": "Glyphs",
       "identifier": "xOutline"
     },
     "y": {
-      "codepoint": 60765,
+      "codepoint": 60768,
       "fontFamily": "Glyphs",
       "identifier": "y"
     },
     "y-bold": {
-      "codepoint": 60766,
+      "codepoint": 60769,
       "fontFamily": "Glyphs",
       "identifier": "yBold"
     },
     "y-duo": {
-      "codepoint": 60767,
+      "codepoint": 60770,
       "fontFamily": "Glyphs",
       "identifier": "yDuo"
     },
     "y-outline": {
-      "codepoint": 60768,
+      "codepoint": 60771,
       "fontFamily": "Glyphs",
       "identifier": "yOutline"
     },
     "yield-sign": {
-      "codepoint": 60769,
+      "codepoint": 60772,
       "fontFamily": "Glyphs",
       "identifier": "yieldSign"
     },
     "yield-sign-bold": {
-      "codepoint": 60770,
+      "codepoint": 60773,
       "fontFamily": "Glyphs",
       "identifier": "yieldSignBold"
     },
     "yield-sign-duo": {
-      "codepoint": 60771,
+      "codepoint": 60774,
       "fontFamily": "Glyphs",
       "identifier": "yieldSignDuo"
     },
     "yield-sign-outline": {
-      "codepoint": 60772,
+      "codepoint": 60775,
       "fontFamily": "Glyphs",
       "identifier": "yieldSignOutline"
     },
     "ying-yang": {
-      "codepoint": 60773,
+      "codepoint": 60776,
       "fontFamily": "Glyphs",
       "identifier": "yingYang"
     },
     "ying-yang-bold": {
-      "codepoint": 60774,
+      "codepoint": 60777,
       "fontFamily": "Glyphs",
       "identifier": "yingYangBold"
     },
     "ying-yang-duo": {
-      "codepoint": 60775,
+      "codepoint": 60778,
       "fontFamily": "Glyphs",
       "identifier": "yingYangDuo"
     },
     "ying-yang-outline": {
-      "codepoint": 60776,
+      "codepoint": 60779,
       "fontFamily": "Glyphs",
       "identifier": "yingYangOutline"
     },
     "z": {
-      "codepoint": 60777,
+      "codepoint": 60780,
       "fontFamily": "Glyphs",
       "identifier": "z"
     },
     "z-bold": {
-      "codepoint": 60778,
+      "codepoint": 60781,
       "fontFamily": "Glyphs",
       "identifier": "zBold"
     },
     "z-duo": {
-      "codepoint": 60779,
+      "codepoint": 60782,
       "fontFamily": "Glyphs",
       "identifier": "zDuo"
     },
     "z-outline": {
-      "codepoint": 60780,
+      "codepoint": 60783,
       "fontFamily": "Glyphs",
       "identifier": "zOutline"
     },
     "zero": {
-      "codepoint": 60781,
+      "codepoint": 60784,
       "fontFamily": "Glyphs",
       "identifier": "zero"
     },
     "zero-bold": {
-      "codepoint": 60782,
+      "codepoint": 60785,
       "fontFamily": "Glyphs",
       "identifier": "zeroBold"
     },
     "zero-duo": {
-      "codepoint": 60783,
+      "codepoint": 60786,
       "fontFamily": "Glyphs",
       "identifier": "zeroDuo"
     },
     "zero-outline": {
-      "codepoint": 60784,
+      "codepoint": 60787,
       "fontFamily": "Glyphs",
       "identifier": "zeroOutline"
     },
     "zoom-in": {
-      "codepoint": 60785,
+      "codepoint": 60788,
       "fontFamily": "Glyphs",
       "identifier": "zoomIn"
     },
     "zoom-in-bold": {
-      "codepoint": 60786,
+      "codepoint": 60789,
       "fontFamily": "Glyphs",
       "identifier": "zoomInBold"
     },
     "zoom-in-duo": {
-      "codepoint": 60787,
+      "codepoint": 60790,
       "fontFamily": "Glyphs",
       "identifier": "zoomInDuo"
     },
     "zoom-in-outline": {
-      "codepoint": 60788,
+      "codepoint": 60791,
       "fontFamily": "Glyphs",
       "identifier": "zoomInOutline"
     },
     "zoom-out": {
-      "codepoint": 60789,
+      "codepoint": 60792,
       "fontFamily": "Glyphs",
       "identifier": "zoomOut"
     },
     "zoom-out-bold": {
-      "codepoint": 60790,
+      "codepoint": 60793,
       "fontFamily": "Glyphs",
       "identifier": "zoomOutBold"
     },
     "zoom-out-duo": {
-      "codepoint": 60791,
+      "codepoint": 60794,
       "fontFamily": "Glyphs",
       "identifier": "zoomOutDuo"
     },
     "zoom-out-outline": {
-      "codepoint": 60792,
+      "codepoint": 60795,
       "fontFamily": "Glyphs",
       "identifier": "zoomOutOutline"
     }

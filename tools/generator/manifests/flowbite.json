@@ -3567,627 +3567,627 @@
       "identifier": "starHalfOutline"
     },
     "star-half-solid": {
-      "codepoint": 58176,
+      "codepoint": 58052,
       "fontFamily": "Flowbite",
       "identifier": "starHalfSolid"
     },
     "star-half-stroke-outline": {
-      "codepoint": 58052,
+      "codepoint": 58053,
       "fontFamily": "Flowbite",
       "identifier": "starHalfStrokeOutline"
     },
     "star-half-stroke-solid": {
-      "codepoint": 58053,
+      "codepoint": 58054,
       "fontFamily": "Flowbite",
       "identifier": "starHalfStrokeSolid"
     },
     "star-outline": {
-      "codepoint": 58054,
+      "codepoint": 58055,
       "fontFamily": "Flowbite",
       "identifier": "starOutline"
     },
     "star-solid": {
-      "codepoint": 58055,
+      "codepoint": 58056,
       "fontFamily": "Flowbite",
       "identifier": "starSolid"
     },
     "stop-outline": {
-      "codepoint": 58056,
+      "codepoint": 58057,
       "fontFamily": "Flowbite",
       "identifier": "stopOutline"
     },
     "stop-solid": {
-      "codepoint": 58057,
+      "codepoint": 58058,
       "fontFamily": "Flowbite",
       "identifier": "stopSolid"
     },
     "store-outline": {
-      "codepoint": 58058,
+      "codepoint": 58059,
       "fontFamily": "Flowbite",
       "identifier": "storeOutline"
     },
     "store-solid": {
-      "codepoint": 58059,
+      "codepoint": 58060,
       "fontFamily": "Flowbite",
       "identifier": "storeSolid"
     },
     "stroopwafel-outline": {
-      "codepoint": 58060,
+      "codepoint": 58061,
       "fontFamily": "Flowbite",
       "identifier": "stroopwafelOutline"
     },
     "stroopwafel-solid": {
-      "codepoint": 58061,
+      "codepoint": 58062,
       "fontFamily": "Flowbite",
       "identifier": "stroopwafelSolid"
     },
     "subscript-outline": {
-      "codepoint": 58062,
+      "codepoint": 58063,
       "fontFamily": "Flowbite",
       "identifier": "subscriptOutline"
     },
     "sun-outline": {
-      "codepoint": 58063,
+      "codepoint": 58064,
       "fontFamily": "Flowbite",
       "identifier": "sunOutline"
     },
     "sun-solid": {
-      "codepoint": 58064,
+      "codepoint": 58065,
       "fontFamily": "Flowbite",
       "identifier": "sunSolid"
     },
     "superscript-outline": {
-      "codepoint": 58065,
+      "codepoint": 58066,
       "fontFamily": "Flowbite",
       "identifier": "superscriptOutline"
     },
     "swatchbook-outline": {
-      "codepoint": 58066,
+      "codepoint": 58067,
       "fontFamily": "Flowbite",
       "identifier": "swatchbookOutline"
     },
     "swatchbook-solid": {
-      "codepoint": 58067,
+      "codepoint": 58068,
       "fontFamily": "Flowbite",
       "identifier": "swatchbookSolid"
     },
     "t-shirt-outline": {
-      "codepoint": 58068,
+      "codepoint": 58069,
       "fontFamily": "Flowbite",
       "identifier": "tShirtOutline"
     },
     "t-shirt-solid": {
-      "codepoint": 58069,
+      "codepoint": 58070,
       "fontFamily": "Flowbite",
       "identifier": "tShirtSolid"
     },
     "table-column-outline": {
-      "codepoint": 58070,
+      "codepoint": 58071,
       "fontFamily": "Flowbite",
       "identifier": "tableColumnOutline"
     },
     "table-column-solid": {
-      "codepoint": 58071,
+      "codepoint": 58072,
       "fontFamily": "Flowbite",
       "identifier": "tableColumnSolid"
     },
     "table-row-outline": {
-      "codepoint": 58072,
+      "codepoint": 58073,
       "fontFamily": "Flowbite",
       "identifier": "tableRowOutline"
     },
     "table-row-solid": {
-      "codepoint": 58073,
+      "codepoint": 58074,
       "fontFamily": "Flowbite",
       "identifier": "tableRowSolid"
     },
     "tablet-outline": {
-      "codepoint": 58074,
+      "codepoint": 58075,
       "fontFamily": "Flowbite",
       "identifier": "tabletOutline"
     },
     "tablet-solid": {
-      "codepoint": 58075,
+      "codepoint": 58076,
       "fontFamily": "Flowbite",
       "identifier": "tabletSolid"
     },
     "tag-outline": {
-      "codepoint": 58076,
+      "codepoint": 58077,
       "fontFamily": "Flowbite",
       "identifier": "tagOutline"
     },
     "tag-solid": {
-      "codepoint": 58077,
+      "codepoint": 58078,
       "fontFamily": "Flowbite",
       "identifier": "tagSolid"
     },
     "tailwind-solid": {
-      "codepoint": 58078,
+      "codepoint": 58079,
       "fontFamily": "Flowbite",
       "identifier": "tailwindSolid"
     },
     "teddy-bear-outline": {
-      "codepoint": 58079,
+      "codepoint": 58080,
       "fontFamily": "Flowbite",
       "identifier": "teddyBearOutline"
     },
     "teddy-bear-solid": {
-      "codepoint": 58080,
+      "codepoint": 58081,
       "fontFamily": "Flowbite",
       "identifier": "teddyBearSolid"
     },
     "terminal-outline": {
-      "codepoint": 58081,
+      "codepoint": 58082,
       "fontFamily": "Flowbite",
       "identifier": "terminalOutline"
     },
     "terminal-solid": {
-      "codepoint": 58082,
+      "codepoint": 58083,
       "fontFamily": "Flowbite",
       "identifier": "terminalSolid"
     },
     "text-size-outline": {
-      "codepoint": 58083,
+      "codepoint": 58084,
       "fontFamily": "Flowbite",
       "identifier": "textSizeOutline"
     },
     "text-size-solid": {
-      "codepoint": 58084,
+      "codepoint": 58085,
       "fontFamily": "Flowbite",
       "identifier": "textSizeSolid"
     },
     "text-slash-outline": {
-      "codepoint": 58085,
+      "codepoint": 58086,
       "fontFamily": "Flowbite",
       "identifier": "textSlashOutline"
     },
     "text-slash-solid": {
-      "codepoint": 58086,
+      "codepoint": 58087,
       "fontFamily": "Flowbite",
       "identifier": "textSlashSolid"
     },
     "text-underline-outline": {
-      "codepoint": 58087,
+      "codepoint": 58088,
       "fontFamily": "Flowbite",
       "identifier": "textUnderlineOutline"
     },
     "theatre-outline": {
-      "codepoint": 58088,
+      "codepoint": 58089,
       "fontFamily": "Flowbite",
       "identifier": "theatreOutline"
     },
     "theatre-solid": {
-      "codepoint": 58089,
+      "codepoint": 58090,
       "fontFamily": "Flowbite",
       "identifier": "theatreSolid"
     },
     "thumbs-down-outline": {
-      "codepoint": 58090,
+      "codepoint": 58091,
       "fontFamily": "Flowbite",
       "identifier": "thumbsDownOutline"
     },
     "thumbs-down-solid": {
-      "codepoint": 58091,
+      "codepoint": 58092,
       "fontFamily": "Flowbite",
       "identifier": "thumbsDownSolid"
     },
     "thumbs-up-outline": {
-      "codepoint": 58092,
+      "codepoint": 58093,
       "fontFamily": "Flowbite",
       "identifier": "thumbsUpOutline"
     },
     "thumbs-up-solid": {
-      "codepoint": 58093,
+      "codepoint": 58094,
       "fontFamily": "Flowbite",
       "identifier": "thumbsUpSolid"
     },
     "thumbtack-outline": {
-      "codepoint": 58094,
+      "codepoint": 58095,
       "fontFamily": "Flowbite",
       "identifier": "thumbtackOutline"
     },
     "thumbtack-solid": {
-      "codepoint": 58095,
+      "codepoint": 58096,
       "fontFamily": "Flowbite",
       "identifier": "thumbtackSolid"
     },
     "ticket-outline": {
-      "codepoint": 58096,
+      "codepoint": 58097,
       "fontFamily": "Flowbite",
       "identifier": "ticketOutline"
     },
     "ticket-solid": {
-      "codepoint": 58097,
+      "codepoint": 58098,
       "fontFamily": "Flowbite",
       "identifier": "ticketSolid"
     },
     "toggle-header-cell-outline": {
-      "codepoint": 58098,
+      "codepoint": 58099,
       "fontFamily": "Flowbite",
       "identifier": "toggleHeaderCellOutline"
     },
     "toggle-header-column-outline": {
-      "codepoint": 58099,
+      "codepoint": 58100,
       "fontFamily": "Flowbite",
       "identifier": "toggleHeaderColumnOutline"
     },
     "toggle-header-row-outline": {
-      "codepoint": 58100,
+      "codepoint": 58101,
       "fontFamily": "Flowbite",
       "identifier": "toggleHeaderRowOutline"
     },
     "tools-outline": {
-      "codepoint": 58101,
+      "codepoint": 58102,
       "fontFamily": "Flowbite",
       "identifier": "toolsOutline"
     },
     "tracking-outline": {
-      "codepoint": 58102,
+      "codepoint": 58103,
       "fontFamily": "Flowbite",
       "identifier": "trackingOutline"
     },
     "tracking-solid": {
-      "codepoint": 58103,
+      "codepoint": 58104,
       "fontFamily": "Flowbite",
       "identifier": "trackingSolid"
     },
     "trash-bin-outline": {
-      "codepoint": 58104,
+      "codepoint": 58105,
       "fontFamily": "Flowbite",
       "identifier": "trashBinOutline"
     },
     "trash-bin-solid": {
-      "codepoint": 58105,
+      "codepoint": 58106,
       "fontFamily": "Flowbite",
       "identifier": "trashBinSolid"
     },
     "truck-clock-outline": {
-      "codepoint": 58106,
+      "codepoint": 58107,
       "fontFamily": "Flowbite",
       "identifier": "truckClockOutline"
     },
     "truck-clock-solid": {
-      "codepoint": 58107,
+      "codepoint": 58108,
       "fontFamily": "Flowbite",
       "identifier": "truckClockSolid"
     },
     "truck-outline": {
-      "codepoint": 58108,
+      "codepoint": 58109,
       "fontFamily": "Flowbite",
       "identifier": "truckOutline"
     },
     "truck-solid": {
-      "codepoint": 58109,
+      "codepoint": 58110,
       "fontFamily": "Flowbite",
       "identifier": "truckSolid"
     },
     "twitter-solid": {
-      "codepoint": 58110,
+      "codepoint": 58111,
       "fontFamily": "Flowbite",
       "identifier": "twitterSolid"
     },
     "undo-outline": {
-      "codepoint": 58111,
+      "codepoint": 58112,
       "fontFamily": "Flowbite",
       "identifier": "undoOutline"
     },
     "undo-solid": {
-      "codepoint": 58112,
+      "codepoint": 58113,
       "fontFamily": "Flowbite",
       "identifier": "undoSolid"
     },
     "upload-outline": {
-      "codepoint": 58113,
+      "codepoint": 58114,
       "fontFamily": "Flowbite",
       "identifier": "uploadOutline"
     },
     "upload-solid": {
-      "codepoint": 58114,
+      "codepoint": 58115,
       "fontFamily": "Flowbite",
       "identifier": "uploadSolid"
     },
     "user-add-outline": {
-      "codepoint": 58115,
+      "codepoint": 58116,
       "fontFamily": "Flowbite",
       "identifier": "userAddOutline"
     },
     "user-add-solid": {
-      "codepoint": 58116,
+      "codepoint": 58117,
       "fontFamily": "Flowbite",
       "identifier": "userAddSolid"
     },
     "user-circle-outline": {
-      "codepoint": 58117,
+      "codepoint": 58118,
       "fontFamily": "Flowbite",
       "identifier": "userCircleOutline"
     },
     "user-circle-solid": {
-      "codepoint": 58118,
+      "codepoint": 58119,
       "fontFamily": "Flowbite",
       "identifier": "userCircleSolid"
     },
     "user-edit-outline": {
-      "codepoint": 58119,
+      "codepoint": 58120,
       "fontFamily": "Flowbite",
       "identifier": "userEditOutline"
     },
     "user-edit-solid": {
-      "codepoint": 58120,
+      "codepoint": 58121,
       "fontFamily": "Flowbite",
       "identifier": "userEditSolid"
     },
     "user-graduate-outline": {
-      "codepoint": 58121,
+      "codepoint": 58122,
       "fontFamily": "Flowbite",
       "identifier": "userGraduateOutline"
     },
     "user-graduate-solid": {
-      "codepoint": 58122,
+      "codepoint": 58123,
       "fontFamily": "Flowbite",
       "identifier": "userGraduateSolid"
     },
     "user-headset-outline": {
-      "codepoint": 58123,
+      "codepoint": 58124,
       "fontFamily": "Flowbite",
       "identifier": "userHeadsetOutline"
     },
     "user-headset-solid": {
-      "codepoint": 58124,
+      "codepoint": 58125,
       "fontFamily": "Flowbite",
       "identifier": "userHeadsetSolid"
     },
     "user-outline": {
-      "codepoint": 58125,
+      "codepoint": 58126,
       "fontFamily": "Flowbite",
       "identifier": "userOutline"
     },
     "user-remove-outline": {
-      "codepoint": 58126,
+      "codepoint": 58127,
       "fontFamily": "Flowbite",
       "identifier": "userRemoveOutline"
     },
     "user-remove-solid": {
-      "codepoint": 58127,
+      "codepoint": 58128,
       "fontFamily": "Flowbite",
       "identifier": "userRemoveSolid"
     },
     "user-settings-outline": {
-      "codepoint": 58128,
+      "codepoint": 58129,
       "fontFamily": "Flowbite",
       "identifier": "userSettingsOutline"
     },
     "user-settings-solid": {
-      "codepoint": 58129,
+      "codepoint": 58130,
       "fontFamily": "Flowbite",
       "identifier": "userSettingsSolid"
     },
     "user-solid": {
-      "codepoint": 58130,
+      "codepoint": 58131,
       "fontFamily": "Flowbite",
       "identifier": "userSolid"
     },
     "users-group-outline": {
-      "codepoint": 58131,
+      "codepoint": 58132,
       "fontFamily": "Flowbite",
       "identifier": "usersGroupOutline"
     },
     "users-group-solid": {
-      "codepoint": 58132,
+      "codepoint": 58133,
       "fontFamily": "Flowbite",
       "identifier": "usersGroupSolid"
     },
     "users-outline": {
-      "codepoint": 58133,
+      "codepoint": 58134,
       "fontFamily": "Flowbite",
       "identifier": "usersOutline"
     },
     "users-solid": {
-      "codepoint": 58134,
+      "codepoint": 58135,
       "fontFamily": "Flowbite",
       "identifier": "usersSolid"
     },
     "video-camera-outline": {
-      "codepoint": 58135,
+      "codepoint": 58136,
       "fontFamily": "Flowbite",
       "identifier": "videoCameraOutline"
     },
     "video-camera-solid": {
-      "codepoint": 58136,
+      "codepoint": 58137,
       "fontFamily": "Flowbite",
       "identifier": "videoCameraSolid"
     },
     "visa-solid": {
-      "codepoint": 58137,
+      "codepoint": 58138,
       "fontFamily": "Flowbite",
       "identifier": "visaSolid"
     },
     "volume-down-outline": {
-      "codepoint": 58138,
+      "codepoint": 58139,
       "fontFamily": "Flowbite",
       "identifier": "volumeDownOutline"
     },
     "volume-down-solid": {
-      "codepoint": 58139,
+      "codepoint": 58140,
       "fontFamily": "Flowbite",
       "identifier": "volumeDownSolid"
     },
     "volume-mute-outline": {
-      "codepoint": 58140,
+      "codepoint": 58141,
       "fontFamily": "Flowbite",
       "identifier": "volumeMuteOutline"
     },
     "volume-mute-solid": {
-      "codepoint": 58141,
+      "codepoint": 58142,
       "fontFamily": "Flowbite",
       "identifier": "volumeMuteSolid"
     },
     "volume-up-outline": {
-      "codepoint": 58142,
+      "codepoint": 58143,
       "fontFamily": "Flowbite",
       "identifier": "volumeUpOutline"
     },
     "volume-up-solid": {
-      "codepoint": 58143,
+      "codepoint": 58144,
       "fontFamily": "Flowbite",
       "identifier": "volumeUpSolid"
     },
     "vue-solid": {
-      "codepoint": 58144,
+      "codepoint": 58145,
       "fontFamily": "Flowbite",
       "identifier": "vueSolid"
     },
     "wallet-outline": {
-      "codepoint": 58145,
+      "codepoint": 58146,
       "fontFamily": "Flowbite",
       "identifier": "walletOutline"
     },
     "wallet-solid": {
-      "codepoint": 58146,
+      "codepoint": 58147,
       "fontFamily": "Flowbite",
       "identifier": "walletSolid"
     },
     "wand-magic-sparkles-outline": {
-      "codepoint": 58147,
+      "codepoint": 58148,
       "fontFamily": "Flowbite",
       "identifier": "wandMagicSparklesOutline"
     },
     "wand-magic-sparkles-solid": {
-      "codepoint": 58148,
+      "codepoint": 58149,
       "fontFamily": "Flowbite",
       "identifier": "wandMagicSparklesSolid"
     },
     "water-bottle-outline": {
-      "codepoint": 58149,
+      "codepoint": 58150,
       "fontFamily": "Flowbite",
       "identifier": "waterBottleOutline"
     },
     "water-bottle-solid": {
-      "codepoint": 58150,
+      "codepoint": 58151,
       "fontFamily": "Flowbite",
       "identifier": "waterBottleSolid"
     },
     "whatsapp-solid": {
-      "codepoint": 58151,
+      "codepoint": 58152,
       "fontFamily": "Flowbite",
       "identifier": "whatsappSolid"
     },
     "wheat-exclamation-outline": {
-      "codepoint": 58152,
+      "codepoint": 58153,
       "fontFamily": "Flowbite",
       "identifier": "wheatExclamationOutline"
     },
     "wheat-outline": {
-      "codepoint": 58153,
+      "codepoint": 58154,
       "fontFamily": "Flowbite",
       "identifier": "wheatOutline"
     },
     "whiskey-glass-outline": {
-      "codepoint": 58154,
+      "codepoint": 58155,
       "fontFamily": "Flowbite",
       "identifier": "whiskeyGlassOutline"
     },
     "whiskey-glass-solid": {
-      "codepoint": 58155,
+      "codepoint": 58156,
       "fontFamily": "Flowbite",
       "identifier": "whiskeyGlassSolid"
     },
     "window-outline": {
-      "codepoint": 58156,
+      "codepoint": 58157,
       "fontFamily": "Flowbite",
       "identifier": "windowOutline"
     },
     "window-restore-solid": {
-      "codepoint": 58157,
+      "codepoint": 58158,
       "fontFamily": "Flowbite",
       "identifier": "windowRestoreSolid"
     },
     "window-solid": {
-      "codepoint": 58158,
+      "codepoint": 58159,
       "fontFamily": "Flowbite",
       "identifier": "windowSolid"
     },
     "windows-solid": {
-      "codepoint": 58159,
+      "codepoint": 58160,
       "fontFamily": "Flowbite",
       "identifier": "windowsSolid"
     },
     "wine-bottle-outline": {
-      "codepoint": 58160,
+      "codepoint": 58161,
       "fontFamily": "Flowbite",
       "identifier": "wineBottleOutline"
     },
     "wine-bottle-solid": {
-      "codepoint": 58161,
+      "codepoint": 58162,
       "fontFamily": "Flowbite",
       "identifier": "wineBottleSolid"
     },
     "wine-glass-empty-outline": {
-      "codepoint": 58162,
+      "codepoint": 58163,
       "fontFamily": "Flowbite",
       "identifier": "wineGlassEmptyOutline"
     },
     "wine-glass-empty-solid": {
-      "codepoint": 58163,
+      "codepoint": 58164,
       "fontFamily": "Flowbite",
       "identifier": "wineGlassEmptySolid"
     },
     "wine-glass-outline": {
-      "codepoint": 58164,
+      "codepoint": 58165,
       "fontFamily": "Flowbite",
       "identifier": "wineGlassOutline"
     },
     "wine-glass-solid": {
-      "codepoint": 58165,
+      "codepoint": 58166,
       "fontFamily": "Flowbite",
       "identifier": "wineGlassSolid"
     },
     "x-circle-outline": {
-      "codepoint": 58166,
+      "codepoint": 58167,
       "fontFamily": "Flowbite",
       "identifier": "xCircleOutline"
     },
     "x-circle-solid": {
-      "codepoint": 58167,
+      "codepoint": 58168,
       "fontFamily": "Flowbite",
       "identifier": "xCircleSolid"
     },
     "x-company-solid": {
-      "codepoint": 58168,
+      "codepoint": 58169,
       "fontFamily": "Flowbite",
       "identifier": "xCompanySolid"
     },
     "x-outline": {
-      "codepoint": 58169,
+      "codepoint": 58170,
       "fontFamily": "Flowbite",
       "identifier": "xOutline"
     },
     "x-solid": {
-      "codepoint": 58170,
+      "codepoint": 58171,
       "fontFamily": "Flowbite",
       "identifier": "xSolid"
     },
     "youtube-solid": {
-      "codepoint": 58171,
+      "codepoint": 58172,
       "fontFamily": "Flowbite",
       "identifier": "youtubeSolid"
     },
     "zoom-in-outline": {
-      "codepoint": 58172,
+      "codepoint": 58173,
       "fontFamily": "Flowbite",
       "identifier": "zoomInOutline"
     },
     "zoom-in-solid": {
-      "codepoint": 58173,
+      "codepoint": 58174,
       "fontFamily": "Flowbite",
       "identifier": "zoomInSolid"
     },
     "zoom-out-outline": {
-      "codepoint": 58174,
+      "codepoint": 58175,
       "fontFamily": "Flowbite",
       "identifier": "zoomOutOutline"
     },
     "zoom-out-solid": {
-      "codepoint": 58175,
+      "codepoint": 58176,
       "fontFamily": "Flowbite",
       "identifier": "zoomOutSolid"
     }

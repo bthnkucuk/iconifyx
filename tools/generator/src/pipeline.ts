@@ -211,15 +211,17 @@ export async function runPipeline(options: PipelineOptions = {}): Promise<void> 
   for (const [prefix, info] of Object.entries(collections)) {
     const cached = rasterFillSignalCache.get(prefix);
     const m = allManifests.find((x) => x.prefix === prefix);
+    const live = m
+      ? Object.values(m.icons).filter((i) => !i.deprecated)
+      : [];
     auditEntries.push({
       prefix,
       setName: info.name,
       sig: cached?.sig ?? { strokeRatio: 0, evenOddRatio: 0, combinedRatio: 0 },
       applied: cached?.applied ?? false,
       source: cached?.source ?? 'none',
-      iconCount: m
-        ? Object.values(m.icons).filter((i) => !i.deprecated).length
-        : 0,
+      iconCount: live.length,
+      duotoneCount: live.filter((i) => i.duotone).length,
     });
   }
   await writeStrokeAudit(auditEntries);

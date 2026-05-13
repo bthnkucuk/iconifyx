@@ -3057,3462 +3057,3462 @@
       "identifier": "houseOff"
     },
     "identification": {
-      "codepoint": 58637,
+      "codepoint": 57950,
       "fontFamily": "PepiconsPop",
       "identifier": "identification"
     },
     "identification-circle": {
-      "codepoint": 58638,
+      "codepoint": 57951,
       "fontFamily": "PepiconsPop",
       "identifier": "identificationCircle"
     },
     "identification-circle-filled": {
-      "codepoint": 58639,
+      "codepoint": 57952,
       "fontFamily": "PepiconsPop",
       "identifier": "identificationCircleFilled"
     },
     "identification-circle-off": {
-      "codepoint": 58640,
+      "codepoint": 57953,
       "fontFamily": "PepiconsPop",
       "identifier": "identificationCircleOff"
     },
     "identification-off": {
-      "codepoint": 58641,
+      "codepoint": 57954,
       "fontFamily": "PepiconsPop",
       "identifier": "identificationOff"
     },
     "info": {
-      "codepoint": 57950,
+      "codepoint": 57955,
       "fontFamily": "PepiconsPop",
       "identifier": "info"
     },
     "info-circle": {
-      "codepoint": 57951,
+      "codepoint": 57956,
       "fontFamily": "PepiconsPop",
       "identifier": "infoCircle"
     },
     "info-circle-filled": {
-      "codepoint": 57952,
+      "codepoint": 57957,
       "fontFamily": "PepiconsPop",
       "identifier": "infoCircleFilled"
     },
     "info-circle-off": {
-      "codepoint": 57953,
+      "codepoint": 57958,
       "fontFamily": "PepiconsPop",
       "identifier": "infoCircleOff"
     },
     "info-filled": {
-      "codepoint": 57954,
+      "codepoint": 57959,
       "fontFamily": "PepiconsPop",
       "identifier": "infoFilled"
     },
     "info-off": {
-      "codepoint": 57955,
+      "codepoint": 57960,
       "fontFamily": "PepiconsPop",
       "identifier": "infoOff"
     },
     "internet": {
-      "codepoint": 57956,
+      "codepoint": 57961,
       "fontFamily": "PepiconsPop",
       "identifier": "internet"
     },
     "internet-circle": {
-      "codepoint": 57957,
+      "codepoint": 57962,
       "fontFamily": "PepiconsPop",
       "identifier": "internetCircle"
     },
     "internet-circle-filled": {
-      "codepoint": 57958,
+      "codepoint": 57963,
       "fontFamily": "PepiconsPop",
       "identifier": "internetCircleFilled"
     },
     "internet-circle-off": {
-      "codepoint": 57959,
+      "codepoint": 57964,
       "fontFamily": "PepiconsPop",
       "identifier": "internetCircleOff"
     },
     "internet-off": {
-      "codepoint": 57960,
+      "codepoint": 57965,
       "fontFamily": "PepiconsPop",
       "identifier": "internetOff"
     },
     "key": {
-      "codepoint": 57961,
+      "codepoint": 57966,
       "fontFamily": "PepiconsPop",
       "identifier": "key"
     },
     "key-circle": {
-      "codepoint": 57962,
+      "codepoint": 57967,
       "fontFamily": "PepiconsPop",
       "identifier": "keyCircle"
     },
     "key-circle-filled": {
-      "codepoint": 57963,
+      "codepoint": 57968,
       "fontFamily": "PepiconsPop",
       "identifier": "keyCircleFilled"
     },
     "key-circle-off": {
-      "codepoint": 57964,
+      "codepoint": 57969,
       "fontFamily": "PepiconsPop",
       "identifier": "keyCircleOff"
     },
     "key-off": {
-      "codepoint": 57965,
+      "codepoint": 57970,
       "fontFamily": "PepiconsPop",
       "identifier": "keyOff"
     },
     "keyboard": {
-      "codepoint": 57966,
+      "codepoint": 57971,
       "fontFamily": "PepiconsPop",
       "identifier": "keyboard"
     },
     "keyboard-circle": {
-      "codepoint": 57967,
+      "codepoint": 57972,
       "fontFamily": "PepiconsPop",
       "identifier": "keyboardCircle"
     },
     "keyboard-circle-filled": {
-      "codepoint": 57968,
+      "codepoint": 57973,
       "fontFamily": "PepiconsPop",
       "identifier": "keyboardCircleFilled"
     },
     "keyboard-circle-off": {
-      "codepoint": 57969,
+      "codepoint": 57974,
       "fontFamily": "PepiconsPop",
       "identifier": "keyboardCircleOff"
     },
     "keyboard-off": {
-      "codepoint": 57970,
+      "codepoint": 57975,
       "fontFamily": "PepiconsPop",
       "identifier": "keyboardOff"
     },
     "knive-fork": {
-      "codepoint": 57971,
+      "codepoint": 57976,
       "fontFamily": "PepiconsPop",
       "identifier": "kniveFork"
     },
     "knive-fork-circle": {
-      "codepoint": 57972,
+      "codepoint": 57977,
       "fontFamily": "PepiconsPop",
       "identifier": "kniveForkCircle"
     },
     "knive-fork-circle-filled": {
-      "codepoint": 57973,
+      "codepoint": 57978,
       "fontFamily": "PepiconsPop",
       "identifier": "kniveForkCircleFilled"
     },
     "knive-fork-circle-off": {
-      "codepoint": 57974,
+      "codepoint": 57979,
       "fontFamily": "PepiconsPop",
       "identifier": "kniveForkCircleOff"
     },
     "knive-fork-off": {
-      "codepoint": 57975,
+      "codepoint": 57980,
       "fontFamily": "PepiconsPop",
       "identifier": "kniveForkOff"
     },
     "label": {
-      "codepoint": 57976,
+      "codepoint": 57981,
       "fontFamily": "PepiconsPop",
       "identifier": "label"
     },
     "label-circle": {
-      "codepoint": 57977,
+      "codepoint": 57982,
       "fontFamily": "PepiconsPop",
       "identifier": "labelCircle"
     },
     "label-circle-filled": {
-      "codepoint": 57978,
+      "codepoint": 57983,
       "fontFamily": "PepiconsPop",
       "identifier": "labelCircleFilled"
     },
     "label-circle-off": {
-      "codepoint": 57979,
+      "codepoint": 57984,
       "fontFamily": "PepiconsPop",
       "identifier": "labelCircleOff"
     },
     "label-off": {
-      "codepoint": 57980,
+      "codepoint": 57985,
       "fontFamily": "PepiconsPop",
       "identifier": "labelOff"
     },
     "leaf": {
-      "codepoint": 57981,
+      "codepoint": 57986,
       "fontFamily": "PepiconsPop",
       "identifier": "leaf"
     },
     "leaf-circle": {
-      "codepoint": 57982,
+      "codepoint": 57987,
       "fontFamily": "PepiconsPop",
       "identifier": "leafCircle"
     },
     "leaf-circle-filled": {
-      "codepoint": 57983,
+      "codepoint": 57988,
       "fontFamily": "PepiconsPop",
       "identifier": "leafCircleFilled"
     },
     "leaf-circle-off": {
-      "codepoint": 57984,
+      "codepoint": 57989,
       "fontFamily": "PepiconsPop",
       "identifier": "leafCircleOff"
     },
     "leaf-off": {
-      "codepoint": 57985,
+      "codepoint": 57990,
       "fontFamily": "PepiconsPop",
       "identifier": "leafOff"
     },
     "leave": {
-      "codepoint": 57986,
+      "codepoint": 57991,
       "fontFamily": "PepiconsPop",
       "identifier": "leave"
     },
     "leave-circle": {
-      "codepoint": 57987,
+      "codepoint": 57992,
       "fontFamily": "PepiconsPop",
       "identifier": "leaveCircle"
     },
     "leave-circle-filled": {
-      "codepoint": 57988,
+      "codepoint": 57993,
       "fontFamily": "PepiconsPop",
       "identifier": "leaveCircleFilled"
     },
     "leave-circle-off": {
-      "codepoint": 57989,
+      "codepoint": 57994,
       "fontFamily": "PepiconsPop",
       "identifier": "leaveCircleOff"
     },
     "leave-off": {
-      "codepoint": 57990,
+      "codepoint": 57995,
       "fontFamily": "PepiconsPop",
       "identifier": "leaveOff"
     },
     "letter": {
-      "codepoint": 57991,
+      "codepoint": 57996,
       "fontFamily": "PepiconsPop",
       "identifier": "letter"
     },
     "letter-circle": {
-      "codepoint": 57992,
+      "codepoint": 57997,
       "fontFamily": "PepiconsPop",
       "identifier": "letterCircle"
     },
     "letter-circle-filled": {
-      "codepoint": 57993,
+      "codepoint": 57998,
       "fontFamily": "PepiconsPop",
       "identifier": "letterCircleFilled"
     },
     "letter-circle-off": {
-      "codepoint": 57994,
+      "codepoint": 57999,
       "fontFamily": "PepiconsPop",
       "identifier": "letterCircleOff"
     },
     "letter-off": {
-      "codepoint": 57995,
+      "codepoint": 58000,
       "fontFamily": "PepiconsPop",
       "identifier": "letterOff"
     },
     "letter-open": {
-      "codepoint": 57996,
+      "codepoint": 58001,
       "fontFamily": "PepiconsPop",
       "identifier": "letterOpen"
     },
     "letter-open-circle": {
-      "codepoint": 57997,
+      "codepoint": 58002,
       "fontFamily": "PepiconsPop",
       "identifier": "letterOpenCircle"
     },
     "letter-open-circle-filled": {
-      "codepoint": 57998,
+      "codepoint": 58003,
       "fontFamily": "PepiconsPop",
       "identifier": "letterOpenCircleFilled"
     },
     "letter-open-circle-off": {
-      "codepoint": 57999,
+      "codepoint": 58004,
       "fontFamily": "PepiconsPop",
       "identifier": "letterOpenCircleOff"
     },
     "letter-open-off": {
-      "codepoint": 58000,
+      "codepoint": 58005,
       "fontFamily": "PepiconsPop",
       "identifier": "letterOpenOff"
     },
     "line-slant-down": {
-      "codepoint": 58001,
+      "codepoint": 58006,
       "fontFamily": "PepiconsPop",
       "identifier": "lineSlantDown"
     },
     "line-slant-down-circle": {
-      "codepoint": 58002,
+      "codepoint": 58007,
       "fontFamily": "PepiconsPop",
       "identifier": "lineSlantDownCircle"
     },
     "line-slant-down-circle-filled": {
-      "codepoint": 58003,
+      "codepoint": 58008,
       "fontFamily": "PepiconsPop",
       "identifier": "lineSlantDownCircleFilled"
     },
     "line-slant-down-circle-off": {
-      "codepoint": 58004,
+      "codepoint": 58009,
       "fontFamily": "PepiconsPop",
       "identifier": "lineSlantDownCircleOff"
     },
     "line-slant-down-off": {
-      "codepoint": 58005,
+      "codepoint": 58010,
       "fontFamily": "PepiconsPop",
       "identifier": "lineSlantDownOff"
     },
     "line-slant-up": {
-      "codepoint": 58006,
+      "codepoint": 58011,
       "fontFamily": "PepiconsPop",
       "identifier": "lineSlantUp"
     },
     "line-slant-up-circle": {
-      "codepoint": 58007,
+      "codepoint": 58012,
       "fontFamily": "PepiconsPop",
       "identifier": "lineSlantUpCircle"
     },
     "line-slant-up-circle-filled": {
-      "codepoint": 58008,
+      "codepoint": 58013,
       "fontFamily": "PepiconsPop",
       "identifier": "lineSlantUpCircleFilled"
     },
     "line-slant-up-circle-off": {
-      "codepoint": 58009,
+      "codepoint": 58014,
       "fontFamily": "PepiconsPop",
       "identifier": "lineSlantUpCircleOff"
     },
     "line-slant-up-off": {
-      "codepoint": 58010,
+      "codepoint": 58015,
       "fontFamily": "PepiconsPop",
       "identifier": "lineSlantUpOff"
     },
     "line-x": {
-      "codepoint": 58011,
+      "codepoint": 58016,
       "fontFamily": "PepiconsPop",
       "identifier": "lineX"
     },
     "line-x-circle": {
-      "codepoint": 58012,
+      "codepoint": 58017,
       "fontFamily": "PepiconsPop",
       "identifier": "lineXCircle"
     },
     "line-x-circle-filled": {
-      "codepoint": 58013,
+      "codepoint": 58018,
       "fontFamily": "PepiconsPop",
       "identifier": "lineXCircleFilled"
     },
     "line-x-circle-off": {
-      "codepoint": 58014,
+      "codepoint": 58019,
       "fontFamily": "PepiconsPop",
       "identifier": "lineXCircleOff"
     },
     "line-x-off": {
-      "codepoint": 58015,
+      "codepoint": 58020,
       "fontFamily": "PepiconsPop",
       "identifier": "lineXOff"
     },
     "line-y": {
-      "codepoint": 58016,
+      "codepoint": 58021,
       "fontFamily": "PepiconsPop",
       "identifier": "lineY"
     },
     "line-y-circle": {
-      "codepoint": 58017,
+      "codepoint": 58022,
       "fontFamily": "PepiconsPop",
       "identifier": "lineYCircle"
     },
     "line-y-circle-filled": {
-      "codepoint": 58018,
+      "codepoint": 58023,
       "fontFamily": "PepiconsPop",
       "identifier": "lineYCircleFilled"
     },
     "line-y-circle-off": {
-      "codepoint": 58019,
+      "codepoint": 58024,
       "fontFamily": "PepiconsPop",
       "identifier": "lineYCircleOff"
     },
     "line-y-off": {
-      "codepoint": 58020,
+      "codepoint": 58025,
       "fontFamily": "PepiconsPop",
       "identifier": "lineYOff"
     },
     "list": {
-      "codepoint": 58021,
+      "codepoint": 58026,
       "fontFamily": "PepiconsPop",
       "identifier": "list"
     },
     "list-circle": {
-      "codepoint": 58022,
+      "codepoint": 58027,
       "fontFamily": "PepiconsPop",
       "identifier": "listCircle"
     },
     "list-circle-filled": {
-      "codepoint": 58023,
+      "codepoint": 58028,
       "fontFamily": "PepiconsPop",
       "identifier": "listCircleFilled"
     },
     "list-circle-off": {
-      "codepoint": 58024,
+      "codepoint": 58029,
       "fontFamily": "PepiconsPop",
       "identifier": "listCircleOff"
     },
     "list-off": {
-      "codepoint": 58025,
+      "codepoint": 58030,
       "fontFamily": "PepiconsPop",
       "identifier": "listOff"
     },
     "lock-closed": {
-      "codepoint": 58026,
+      "codepoint": 58031,
       "fontFamily": "PepiconsPop",
       "identifier": "lockClosed"
     },
     "lock-closed-circle": {
-      "codepoint": 58027,
+      "codepoint": 58032,
       "fontFamily": "PepiconsPop",
       "identifier": "lockClosedCircle"
     },
     "lock-closed-circle-filled": {
-      "codepoint": 58028,
+      "codepoint": 58033,
       "fontFamily": "PepiconsPop",
       "identifier": "lockClosedCircleFilled"
     },
     "lock-closed-circle-off": {
-      "codepoint": 58029,
+      "codepoint": 58034,
       "fontFamily": "PepiconsPop",
       "identifier": "lockClosedCircleOff"
     },
     "lock-closed-off": {
-      "codepoint": 58030,
+      "codepoint": 58035,
       "fontFamily": "PepiconsPop",
       "identifier": "lockClosedOff"
     },
     "lock-open": {
-      "codepoint": 58031,
+      "codepoint": 58036,
       "fontFamily": "PepiconsPop",
       "identifier": "lockOpen"
     },
     "lock-open-circle": {
-      "codepoint": 58032,
+      "codepoint": 58037,
       "fontFamily": "PepiconsPop",
       "identifier": "lockOpenCircle"
     },
     "lock-open-circle-filled": {
-      "codepoint": 58033,
+      "codepoint": 58038,
       "fontFamily": "PepiconsPop",
       "identifier": "lockOpenCircleFilled"
     },
     "lock-open-circle-off": {
-      "codepoint": 58034,
+      "codepoint": 58039,
       "fontFamily": "PepiconsPop",
       "identifier": "lockOpenCircleOff"
     },
     "lock-open-off": {
-      "codepoint": 58035,
+      "codepoint": 58040,
       "fontFamily": "PepiconsPop",
       "identifier": "lockOpenOff"
     },
     "loop": {
-      "codepoint": 58036,
+      "codepoint": 58041,
       "fontFamily": "PepiconsPop",
       "identifier": "loop"
     },
     "loop-circle": {
-      "codepoint": 58037,
+      "codepoint": 58042,
       "fontFamily": "PepiconsPop",
       "identifier": "loopCircle"
     },
     "loop-circle-filled": {
-      "codepoint": 58038,
+      "codepoint": 58043,
       "fontFamily": "PepiconsPop",
       "identifier": "loopCircleFilled"
     },
     "loop-circle-off": {
-      "codepoint": 58039,
+      "codepoint": 58044,
       "fontFamily": "PepiconsPop",
       "identifier": "loopCircleOff"
     },
     "loop-minus": {
-      "codepoint": 58040,
+      "codepoint": 58045,
       "fontFamily": "PepiconsPop",
       "identifier": "loopMinus"
     },
     "loop-minus-circle": {
-      "codepoint": 58041,
+      "codepoint": 58046,
       "fontFamily": "PepiconsPop",
       "identifier": "loopMinusCircle"
     },
     "loop-minus-circle-filled": {
-      "codepoint": 58042,
+      "codepoint": 58047,
       "fontFamily": "PepiconsPop",
       "identifier": "loopMinusCircleFilled"
     },
     "loop-minus-circle-off": {
-      "codepoint": 58043,
+      "codepoint": 58048,
       "fontFamily": "PepiconsPop",
       "identifier": "loopMinusCircleOff"
     },
     "loop-minus-off": {
-      "codepoint": 58044,
+      "codepoint": 58049,
       "fontFamily": "PepiconsPop",
       "identifier": "loopMinusOff"
     },
     "loop-off": {
-      "codepoint": 58045,
+      "codepoint": 58050,
       "fontFamily": "PepiconsPop",
       "identifier": "loopOff"
     },
     "loop-plus": {
-      "codepoint": 58046,
+      "codepoint": 58051,
       "fontFamily": "PepiconsPop",
       "identifier": "loopPlus"
     },
     "loop-plus-circle": {
-      "codepoint": 58047,
+      "codepoint": 58052,
       "fontFamily": "PepiconsPop",
       "identifier": "loopPlusCircle"
     },
     "loop-plus-circle-filled": {
-      "codepoint": 58048,
+      "codepoint": 58053,
       "fontFamily": "PepiconsPop",
       "identifier": "loopPlusCircleFilled"
     },
     "loop-plus-circle-off": {
-      "codepoint": 58049,
+      "codepoint": 58054,
       "fontFamily": "PepiconsPop",
       "identifier": "loopPlusCircleOff"
     },
     "loop-plus-off": {
-      "codepoint": 58050,
+      "codepoint": 58055,
       "fontFamily": "PepiconsPop",
       "identifier": "loopPlusOff"
     },
     "magnet": {
-      "codepoint": 58051,
+      "codepoint": 58056,
       "fontFamily": "PepiconsPop",
       "identifier": "magnet"
     },
     "magnet-circle": {
-      "codepoint": 58052,
+      "codepoint": 58057,
       "fontFamily": "PepiconsPop",
       "identifier": "magnetCircle"
     },
     "magnet-circle-filled": {
-      "codepoint": 58053,
+      "codepoint": 58058,
       "fontFamily": "PepiconsPop",
       "identifier": "magnetCircleFilled"
     },
     "magnet-circle-off": {
-      "codepoint": 58054,
+      "codepoint": 58059,
       "fontFamily": "PepiconsPop",
       "identifier": "magnetCircleOff"
     },
     "magnet-off": {
-      "codepoint": 58055,
+      "codepoint": 58060,
       "fontFamily": "PepiconsPop",
       "identifier": "magnetOff"
     },
     "map": {
-      "codepoint": 58056,
+      "codepoint": 58061,
       "fontFamily": "PepiconsPop",
       "identifier": "map"
     },
     "map-circle": {
-      "codepoint": 58057,
+      "codepoint": 58062,
       "fontFamily": "PepiconsPop",
       "identifier": "mapCircle"
     },
     "map-circle-filled": {
-      "codepoint": 58058,
+      "codepoint": 58063,
       "fontFamily": "PepiconsPop",
       "identifier": "mapCircleFilled"
     },
     "map-circle-off": {
-      "codepoint": 58059,
+      "codepoint": 58064,
       "fontFamily": "PepiconsPop",
       "identifier": "mapCircleOff"
     },
     "map-off": {
-      "codepoint": 58060,
+      "codepoint": 58065,
       "fontFamily": "PepiconsPop",
       "identifier": "mapOff"
     },
     "megaphone": {
-      "codepoint": 58061,
+      "codepoint": 58066,
       "fontFamily": "PepiconsPop",
       "identifier": "megaphone"
     },
     "megaphone-circle": {
-      "codepoint": 58062,
+      "codepoint": 58067,
       "fontFamily": "PepiconsPop",
       "identifier": "megaphoneCircle"
     },
     "megaphone-circle-filled": {
-      "codepoint": 58063,
+      "codepoint": 58068,
       "fontFamily": "PepiconsPop",
       "identifier": "megaphoneCircleFilled"
     },
     "megaphone-circle-off": {
-      "codepoint": 58064,
+      "codepoint": 58069,
       "fontFamily": "PepiconsPop",
       "identifier": "megaphoneCircleOff"
     },
     "megaphone-off": {
-      "codepoint": 58065,
+      "codepoint": 58070,
       "fontFamily": "PepiconsPop",
       "identifier": "megaphoneOff"
     },
     "menu": {
-      "codepoint": 58066,
+      "codepoint": 58071,
       "fontFamily": "PepiconsPop",
       "identifier": "menu"
     },
     "menu-circle": {
-      "codepoint": 58067,
+      "codepoint": 58072,
       "fontFamily": "PepiconsPop",
       "identifier": "menuCircle"
     },
     "menu-circle-filled": {
-      "codepoint": 58068,
+      "codepoint": 58073,
       "fontFamily": "PepiconsPop",
       "identifier": "menuCircleFilled"
     },
     "menu-circle-off": {
-      "codepoint": 58069,
+      "codepoint": 58074,
       "fontFamily": "PepiconsPop",
       "identifier": "menuCircleOff"
     },
     "menu-off": {
-      "codepoint": 58070,
+      "codepoint": 58075,
       "fontFamily": "PepiconsPop",
       "identifier": "menuOff"
     },
     "microphone": {
-      "codepoint": 58071,
+      "codepoint": 58076,
       "fontFamily": "PepiconsPop",
       "identifier": "microphone"
     },
     "microphone-circle": {
-      "codepoint": 58072,
+      "codepoint": 58077,
       "fontFamily": "PepiconsPop",
       "identifier": "microphoneCircle"
     },
     "microphone-circle-filled": {
-      "codepoint": 58073,
+      "codepoint": 58078,
       "fontFamily": "PepiconsPop",
       "identifier": "microphoneCircleFilled"
     },
     "microphone-circle-off": {
-      "codepoint": 58074,
+      "codepoint": 58079,
       "fontFamily": "PepiconsPop",
       "identifier": "microphoneCircleOff"
     },
     "microphone-handheld": {
-      "codepoint": 58075,
+      "codepoint": 58080,
       "fontFamily": "PepiconsPop",
       "identifier": "microphoneHandheld"
     },
     "microphone-handheld-circle": {
-      "codepoint": 58076,
+      "codepoint": 58081,
       "fontFamily": "PepiconsPop",
       "identifier": "microphoneHandheldCircle"
     },
     "microphone-handheld-circle-filled": {
-      "codepoint": 58077,
+      "codepoint": 58082,
       "fontFamily": "PepiconsPop",
       "identifier": "microphoneHandheldCircleFilled"
     },
     "microphone-handheld-circle-off": {
-      "codepoint": 58078,
+      "codepoint": 58083,
       "fontFamily": "PepiconsPop",
       "identifier": "microphoneHandheldCircleOff"
     },
     "microphone-handheld-off": {
-      "codepoint": 58079,
+      "codepoint": 58084,
       "fontFamily": "PepiconsPop",
       "identifier": "microphoneHandheldOff"
     },
     "microphone-off": {
-      "codepoint": 58080,
+      "codepoint": 58085,
       "fontFamily": "PepiconsPop",
       "identifier": "microphoneOff"
     },
     "microphone2": {
-      "codepoint": 58081,
+      "codepoint": 58086,
       "fontFamily": "PepiconsPop",
       "identifier": "microphone2"
     },
     "minus": {
-      "codepoint": 58082,
+      "codepoint": 58087,
       "fontFamily": "PepiconsPop",
       "identifier": "minus"
     },
     "minus-circle": {
-      "codepoint": 58083,
+      "codepoint": 58088,
       "fontFamily": "PepiconsPop",
       "identifier": "minusCircle"
     },
     "minus-circle-filled": {
-      "codepoint": 58084,
+      "codepoint": 58089,
       "fontFamily": "PepiconsPop",
       "identifier": "minusCircleFilled"
     },
     "minus-circle-off": {
-      "codepoint": 58085,
+      "codepoint": 58090,
       "fontFamily": "PepiconsPop",
       "identifier": "minusCircleOff"
     },
     "minus-off": {
-      "codepoint": 58086,
+      "codepoint": 58091,
       "fontFamily": "PepiconsPop",
       "identifier": "minusOff"
     },
     "money-note": {
-      "codepoint": 58087,
+      "codepoint": 58092,
       "fontFamily": "PepiconsPop",
       "identifier": "moneyNote"
     },
     "money-note-circle": {
-      "codepoint": 58088,
+      "codepoint": 58093,
       "fontFamily": "PepiconsPop",
       "identifier": "moneyNoteCircle"
     },
     "money-note-circle-filled": {
-      "codepoint": 58089,
+      "codepoint": 58094,
       "fontFamily": "PepiconsPop",
       "identifier": "moneyNoteCircleFilled"
     },
     "money-note-circle-off": {
-      "codepoint": 58090,
+      "codepoint": 58095,
       "fontFamily": "PepiconsPop",
       "identifier": "moneyNoteCircleOff"
     },
     "money-note-off": {
-      "codepoint": 58091,
+      "codepoint": 58096,
       "fontFamily": "PepiconsPop",
       "identifier": "moneyNoteOff"
     },
     "monitor": {
-      "codepoint": 58092,
+      "codepoint": 58097,
       "fontFamily": "PepiconsPop",
       "identifier": "monitor"
     },
     "monitor-circle": {
-      "codepoint": 58093,
+      "codepoint": 58098,
       "fontFamily": "PepiconsPop",
       "identifier": "monitorCircle"
     },
     "monitor-circle-filled": {
-      "codepoint": 58094,
+      "codepoint": 58099,
       "fontFamily": "PepiconsPop",
       "identifier": "monitorCircleFilled"
     },
     "monitor-circle-off": {
-      "codepoint": 58095,
+      "codepoint": 58100,
       "fontFamily": "PepiconsPop",
       "identifier": "monitorCircleOff"
     },
     "monitor-eye": {
-      "codepoint": 58096,
+      "codepoint": 58101,
       "fontFamily": "PepiconsPop",
       "identifier": "monitorEye"
     },
     "monitor-eye-circle": {
-      "codepoint": 58097,
+      "codepoint": 58102,
       "fontFamily": "PepiconsPop",
       "identifier": "monitorEyeCircle"
     },
     "monitor-eye-circle-filled": {
-      "codepoint": 58098,
+      "codepoint": 58103,
       "fontFamily": "PepiconsPop",
       "identifier": "monitorEyeCircleFilled"
     },
     "monitor-eye-circle-off": {
-      "codepoint": 58099,
+      "codepoint": 58104,
       "fontFamily": "PepiconsPop",
       "identifier": "monitorEyeCircleOff"
     },
     "monitor-eye-off": {
-      "codepoint": 58100,
+      "codepoint": 58105,
       "fontFamily": "PepiconsPop",
       "identifier": "monitorEyeOff"
     },
     "monitor-loop": {
-      "codepoint": 58101,
+      "codepoint": 58106,
       "fontFamily": "PepiconsPop",
       "identifier": "monitorLoop"
     },
     "monitor-loop-circle": {
-      "codepoint": 58102,
+      "codepoint": 58107,
       "fontFamily": "PepiconsPop",
       "identifier": "monitorLoopCircle"
     },
     "monitor-loop-circle-filled": {
-      "codepoint": 58103,
+      "codepoint": 58108,
       "fontFamily": "PepiconsPop",
       "identifier": "monitorLoopCircleFilled"
     },
     "monitor-loop-circle-off": {
-      "codepoint": 58104,
+      "codepoint": 58109,
       "fontFamily": "PepiconsPop",
       "identifier": "monitorLoopCircleOff"
     },
     "monitor-loop-off": {
-      "codepoint": 58105,
+      "codepoint": 58110,
       "fontFamily": "PepiconsPop",
       "identifier": "monitorLoopOff"
     },
     "monitor-off": {
-      "codepoint": 58106,
+      "codepoint": 58111,
       "fontFamily": "PepiconsPop",
       "identifier": "monitorOff"
     },
     "monitor2": {
-      "codepoint": 58107,
+      "codepoint": 58112,
       "fontFamily": "PepiconsPop",
       "identifier": "monitor2"
     },
     "moon": {
-      "codepoint": 58108,
+      "codepoint": 58113,
       "fontFamily": "PepiconsPop",
       "identifier": "moon"
     },
     "moon-circle": {
-      "codepoint": 58109,
+      "codepoint": 58114,
       "fontFamily": "PepiconsPop",
       "identifier": "moonCircle"
     },
     "moon-circle-filled": {
-      "codepoint": 58110,
+      "codepoint": 58115,
       "fontFamily": "PepiconsPop",
       "identifier": "moonCircleFilled"
     },
     "moon-circle-off": {
-      "codepoint": 58111,
+      "codepoint": 58116,
       "fontFamily": "PepiconsPop",
       "identifier": "moonCircleOff"
     },
     "moon-filled": {
-      "codepoint": 58112,
+      "codepoint": 58117,
       "fontFamily": "PepiconsPop",
       "identifier": "moonFilled"
     },
     "moon-off": {
-      "codepoint": 58113,
+      "codepoint": 58118,
       "fontFamily": "PepiconsPop",
       "identifier": "moonOff"
     },
     "motorcycle": {
-      "codepoint": 58114,
+      "codepoint": 58119,
       "fontFamily": "PepiconsPop",
       "identifier": "motorcycle"
     },
     "motorcycle-circle": {
-      "codepoint": 58115,
+      "codepoint": 58120,
       "fontFamily": "PepiconsPop",
       "identifier": "motorcycleCircle"
     },
     "motorcycle-circle-filled": {
-      "codepoint": 58116,
+      "codepoint": 58121,
       "fontFamily": "PepiconsPop",
       "identifier": "motorcycleCircleFilled"
     },
     "motorcycle-circle-off": {
-      "codepoint": 58117,
+      "codepoint": 58122,
       "fontFamily": "PepiconsPop",
       "identifier": "motorcycleCircleOff"
     },
     "motorcycle-off": {
-      "codepoint": 58118,
+      "codepoint": 58123,
       "fontFamily": "PepiconsPop",
       "identifier": "motorcycleOff"
     },
     "move-x": {
-      "codepoint": 58119,
+      "codepoint": 58124,
       "fontFamily": "PepiconsPop",
       "identifier": "moveX"
     },
     "move-x-circle": {
-      "codepoint": 58120,
+      "codepoint": 58125,
       "fontFamily": "PepiconsPop",
       "identifier": "moveXCircle"
     },
     "move-x-circle-filled": {
-      "codepoint": 58121,
+      "codepoint": 58126,
       "fontFamily": "PepiconsPop",
       "identifier": "moveXCircleFilled"
     },
     "move-x-circle-off": {
-      "codepoint": 58122,
+      "codepoint": 58127,
       "fontFamily": "PepiconsPop",
       "identifier": "moveXCircleOff"
     },
     "move-x-off": {
-      "codepoint": 58123,
+      "codepoint": 58128,
       "fontFamily": "PepiconsPop",
       "identifier": "moveXOff"
     },
     "move-y": {
-      "codepoint": 58124,
+      "codepoint": 58129,
       "fontFamily": "PepiconsPop",
       "identifier": "moveY"
     },
     "move-y-circle": {
-      "codepoint": 58125,
+      "codepoint": 58130,
       "fontFamily": "PepiconsPop",
       "identifier": "moveYCircle"
     },
     "move-y-circle-filled": {
-      "codepoint": 58126,
+      "codepoint": 58131,
       "fontFamily": "PepiconsPop",
       "identifier": "moveYCircleFilled"
     },
     "move-y-circle-off": {
-      "codepoint": 58127,
+      "codepoint": 58132,
       "fontFamily": "PepiconsPop",
       "identifier": "moveYCircleOff"
     },
     "move-y-off": {
-      "codepoint": 58128,
+      "codepoint": 58133,
       "fontFamily": "PepiconsPop",
       "identifier": "moveYOff"
     },
     "music-note-double": {
-      "codepoint": 58129,
+      "codepoint": 58134,
       "fontFamily": "PepiconsPop",
       "identifier": "musicNoteDouble"
     },
     "music-note-double-circle": {
-      "codepoint": 58130,
+      "codepoint": 58135,
       "fontFamily": "PepiconsPop",
       "identifier": "musicNoteDoubleCircle"
     },
     "music-note-double-circle-filled": {
-      "codepoint": 58131,
+      "codepoint": 58136,
       "fontFamily": "PepiconsPop",
       "identifier": "musicNoteDoubleCircleFilled"
     },
     "music-note-double-circle-off": {
-      "codepoint": 58132,
+      "codepoint": 58137,
       "fontFamily": "PepiconsPop",
       "identifier": "musicNoteDoubleCircleOff"
     },
     "music-note-double-off": {
-      "codepoint": 58133,
+      "codepoint": 58138,
       "fontFamily": "PepiconsPop",
       "identifier": "musicNoteDoubleOff"
     },
     "music-note-single": {
-      "codepoint": 58134,
+      "codepoint": 58139,
       "fontFamily": "PepiconsPop",
       "identifier": "musicNoteSingle"
     },
     "music-note-single-circle": {
-      "codepoint": 58135,
+      "codepoint": 58140,
       "fontFamily": "PepiconsPop",
       "identifier": "musicNoteSingleCircle"
     },
     "music-note-single-circle-filled": {
-      "codepoint": 58136,
+      "codepoint": 58141,
       "fontFamily": "PepiconsPop",
       "identifier": "musicNoteSingleCircleFilled"
     },
     "music-note-single-circle-off": {
-      "codepoint": 58137,
+      "codepoint": 58142,
       "fontFamily": "PepiconsPop",
       "identifier": "musicNoteSingleCircleOff"
     },
     "music-note-single-off": {
-      "codepoint": 58138,
+      "codepoint": 58143,
       "fontFamily": "PepiconsPop",
       "identifier": "musicNoteSingleOff"
     },
     "next-track": {
-      "codepoint": 58139,
+      "codepoint": 58144,
       "fontFamily": "PepiconsPop",
       "identifier": "nextTrack"
     },
     "next-track-circle": {
-      "codepoint": 58140,
+      "codepoint": 58145,
       "fontFamily": "PepiconsPop",
       "identifier": "nextTrackCircle"
     },
     "next-track-circle-filled": {
-      "codepoint": 58141,
+      "codepoint": 58146,
       "fontFamily": "PepiconsPop",
       "identifier": "nextTrackCircleFilled"
     },
     "next-track-circle-off": {
-      "codepoint": 58142,
+      "codepoint": 58147,
       "fontFamily": "PepiconsPop",
       "identifier": "nextTrackCircleOff"
     },
     "next-track-off": {
-      "codepoint": 58143,
+      "codepoint": 58148,
       "fontFamily": "PepiconsPop",
       "identifier": "nextTrackOff"
     },
     "no-entry": {
-      "codepoint": 58144,
+      "codepoint": 58149,
       "fontFamily": "PepiconsPop",
       "identifier": "noEntry"
     },
     "no-entry-circle": {
-      "codepoint": 58145,
+      "codepoint": 58150,
       "fontFamily": "PepiconsPop",
       "identifier": "noEntryCircle"
     },
     "no-entry-circle-filled": {
-      "codepoint": 58146,
+      "codepoint": 58151,
       "fontFamily": "PepiconsPop",
       "identifier": "noEntryCircleFilled"
     },
     "no-entry-circle-off": {
-      "codepoint": 58147,
+      "codepoint": 58152,
       "fontFamily": "PepiconsPop",
       "identifier": "noEntryCircleOff"
     },
     "no-entry-off": {
-      "codepoint": 58148,
+      "codepoint": 58153,
       "fontFamily": "PepiconsPop",
       "identifier": "noEntryOff"
     },
     "nut": {
-      "codepoint": 58149,
+      "codepoint": 58154,
       "fontFamily": "PepiconsPop",
       "identifier": "nut"
     },
     "nut-circle": {
-      "codepoint": 58150,
+      "codepoint": 58155,
       "fontFamily": "PepiconsPop",
       "identifier": "nutCircle"
     },
     "nut-circle-filled": {
-      "codepoint": 58151,
+      "codepoint": 58156,
       "fontFamily": "PepiconsPop",
       "identifier": "nutCircleFilled"
     },
     "nut-circle-off": {
-      "codepoint": 58152,
+      "codepoint": 58157,
       "fontFamily": "PepiconsPop",
       "identifier": "nutCircleOff"
     },
     "nut-off": {
-      "codepoint": 58153,
+      "codepoint": 58158,
       "fontFamily": "PepiconsPop",
       "identifier": "nutOff"
     },
     "open": {
-      "codepoint": 58154,
+      "codepoint": 58159,
       "fontFamily": "PepiconsPop",
       "identifier": "open"
     },
     "open-circle": {
-      "codepoint": 58155,
+      "codepoint": 58160,
       "fontFamily": "PepiconsPop",
       "identifier": "openCircle"
     },
     "open-circle-filled": {
-      "codepoint": 58156,
+      "codepoint": 58161,
       "fontFamily": "PepiconsPop",
       "identifier": "openCircleFilled"
     },
     "open-circle-off": {
-      "codepoint": 58157,
+      "codepoint": 58162,
       "fontFamily": "PepiconsPop",
       "identifier": "openCircleOff"
     },
     "open-off": {
-      "codepoint": 58158,
+      "codepoint": 58163,
       "fontFamily": "PepiconsPop",
       "identifier": "openOff"
     },
     "paint-pallet": {
-      "codepoint": 58159,
+      "codepoint": 58164,
       "fontFamily": "PepiconsPop",
       "identifier": "paintPallet"
     },
     "paint-pallet-circle": {
-      "codepoint": 58160,
+      "codepoint": 58165,
       "fontFamily": "PepiconsPop",
       "identifier": "paintPalletCircle"
     },
     "paint-pallet-circle-filled": {
-      "codepoint": 58161,
+      "codepoint": 58166,
       "fontFamily": "PepiconsPop",
       "identifier": "paintPalletCircleFilled"
     },
     "paint-pallet-circle-off": {
-      "codepoint": 58162,
+      "codepoint": 58167,
       "fontFamily": "PepiconsPop",
       "identifier": "paintPalletCircleOff"
     },
     "paint-pallet-off": {
-      "codepoint": 58163,
+      "codepoint": 58168,
       "fontFamily": "PepiconsPop",
       "identifier": "paintPalletOff"
     },
     "paper-plane": {
-      "codepoint": 58164,
+      "codepoint": 58169,
       "fontFamily": "PepiconsPop",
       "identifier": "paperPlane"
     },
     "paper-plane-circle": {
-      "codepoint": 58165,
+      "codepoint": 58170,
       "fontFamily": "PepiconsPop",
       "identifier": "paperPlaneCircle"
     },
     "paper-plane-circle-filled": {
-      "codepoint": 58166,
+      "codepoint": 58171,
       "fontFamily": "PepiconsPop",
       "identifier": "paperPlaneCircleFilled"
     },
     "paper-plane-circle-off": {
-      "codepoint": 58167,
+      "codepoint": 58172,
       "fontFamily": "PepiconsPop",
       "identifier": "paperPlaneCircleOff"
     },
     "paper-plane-off": {
-      "codepoint": 58168,
+      "codepoint": 58173,
       "fontFamily": "PepiconsPop",
       "identifier": "paperPlaneOff"
     },
     "paperclip": {
-      "codepoint": 58169,
+      "codepoint": 58174,
       "fontFamily": "PepiconsPop",
       "identifier": "paperclip"
     },
     "paperclip-circle": {
-      "codepoint": 58170,
+      "codepoint": 58175,
       "fontFamily": "PepiconsPop",
       "identifier": "paperclipCircle"
     },
     "paperclip-circle-filled": {
-      "codepoint": 58171,
+      "codepoint": 58176,
       "fontFamily": "PepiconsPop",
       "identifier": "paperclipCircleFilled"
     },
     "paperclip-circle-off": {
-      "codepoint": 58172,
+      "codepoint": 58177,
       "fontFamily": "PepiconsPop",
       "identifier": "paperclipCircleOff"
     },
     "paperclip-off": {
-      "codepoint": 58173,
+      "codepoint": 58178,
       "fontFamily": "PepiconsPop",
       "identifier": "paperclipOff"
     },
     "pause": {
-      "codepoint": 58174,
+      "codepoint": 58179,
       "fontFamily": "PepiconsPop",
       "identifier": "pause"
     },
     "pause-circle": {
-      "codepoint": 58175,
+      "codepoint": 58180,
       "fontFamily": "PepiconsPop",
       "identifier": "pauseCircle"
     },
     "pause-circle-filled": {
-      "codepoint": 58176,
+      "codepoint": 58181,
       "fontFamily": "PepiconsPop",
       "identifier": "pauseCircleFilled"
     },
     "pause-circle-off": {
-      "codepoint": 58177,
+      "codepoint": 58182,
       "fontFamily": "PepiconsPop",
       "identifier": "pauseCircleOff"
     },
     "pause-off": {
-      "codepoint": 58178,
+      "codepoint": 58183,
       "fontFamily": "PepiconsPop",
       "identifier": "pauseOff"
     },
     "pen": {
-      "codepoint": 58179,
+      "codepoint": 58184,
       "fontFamily": "PepiconsPop",
       "identifier": "pen"
     },
     "pen-circle": {
-      "codepoint": 58180,
+      "codepoint": 58185,
       "fontFamily": "PepiconsPop",
       "identifier": "penCircle"
     },
     "pen-circle-filled": {
-      "codepoint": 58181,
+      "codepoint": 58186,
       "fontFamily": "PepiconsPop",
       "identifier": "penCircleFilled"
     },
     "pen-circle-off": {
-      "codepoint": 58182,
+      "codepoint": 58187,
       "fontFamily": "PepiconsPop",
       "identifier": "penCircleOff"
     },
     "pen-off": {
-      "codepoint": 58183,
+      "codepoint": 58188,
       "fontFamily": "PepiconsPop",
       "identifier": "penOff"
     },
     "people": {
-      "codepoint": 58184,
+      "codepoint": 58189,
       "fontFamily": "PepiconsPop",
       "identifier": "people"
     },
     "people-circle": {
-      "codepoint": 58185,
+      "codepoint": 58190,
       "fontFamily": "PepiconsPop",
       "identifier": "peopleCircle"
     },
     "people-circle-filled": {
-      "codepoint": 58186,
+      "codepoint": 58191,
       "fontFamily": "PepiconsPop",
       "identifier": "peopleCircleFilled"
     },
     "people-circle-off": {
-      "codepoint": 58187,
+      "codepoint": 58192,
       "fontFamily": "PepiconsPop",
       "identifier": "peopleCircleOff"
     },
     "people-off": {
-      "codepoint": 58188,
+      "codepoint": 58193,
       "fontFamily": "PepiconsPop",
       "identifier": "peopleOff"
     },
     "person": {
-      "codepoint": 58189,
+      "codepoint": 58194,
       "fontFamily": "PepiconsPop",
       "identifier": "person"
     },
     "person-checkmark": {
-      "codepoint": 58190,
+      "codepoint": 58195,
       "fontFamily": "PepiconsPop",
       "identifier": "personCheckmark"
     },
     "person-checkmark-circle": {
-      "codepoint": 58191,
+      "codepoint": 58196,
       "fontFamily": "PepiconsPop",
       "identifier": "personCheckmarkCircle"
     },
     "person-checkmark-circle-filled": {
-      "codepoint": 58192,
+      "codepoint": 58197,
       "fontFamily": "PepiconsPop",
       "identifier": "personCheckmarkCircleFilled"
     },
     "person-checkmark-circle-off": {
-      "codepoint": 58193,
+      "codepoint": 58198,
       "fontFamily": "PepiconsPop",
       "identifier": "personCheckmarkCircleOff"
     },
     "person-checkmark-off": {
-      "codepoint": 58194,
+      "codepoint": 58199,
       "fontFamily": "PepiconsPop",
       "identifier": "personCheckmarkOff"
     },
     "person-circle": {
-      "codepoint": 58195,
+      "codepoint": 58200,
       "fontFamily": "PepiconsPop",
       "identifier": "personCircle"
     },
     "person-circle-filled": {
-      "codepoint": 58196,
+      "codepoint": 58201,
       "fontFamily": "PepiconsPop",
       "identifier": "personCircleFilled"
     },
     "person-circle-off": {
-      "codepoint": 58197,
+      "codepoint": 58202,
       "fontFamily": "PepiconsPop",
       "identifier": "personCircleOff"
     },
     "person-filled": {
-      "codepoint": 58198,
+      "codepoint": 58203,
       "fontFamily": "PepiconsPop",
       "identifier": "personFilled"
     },
     "person-off": {
-      "codepoint": 58199,
+      "codepoint": 58204,
       "fontFamily": "PepiconsPop",
       "identifier": "personOff"
     },
     "person-plus": {
-      "codepoint": 58200,
+      "codepoint": 58205,
       "fontFamily": "PepiconsPop",
       "identifier": "personPlus"
     },
     "person-plus-circle": {
-      "codepoint": 58201,
+      "codepoint": 58206,
       "fontFamily": "PepiconsPop",
       "identifier": "personPlusCircle"
     },
     "person-plus-circle-filled": {
-      "codepoint": 58202,
+      "codepoint": 58207,
       "fontFamily": "PepiconsPop",
       "identifier": "personPlusCircleFilled"
     },
     "person-plus-circle-off": {
-      "codepoint": 58203,
+      "codepoint": 58208,
       "fontFamily": "PepiconsPop",
       "identifier": "personPlusCircleOff"
     },
     "person-plus-off": {
-      "codepoint": 58204,
+      "codepoint": 58209,
       "fontFamily": "PepiconsPop",
       "identifier": "personPlusOff"
     },
     "persons": {
-      "codepoint": 58205,
+      "codepoint": 58210,
       "fontFamily": "PepiconsPop",
       "identifier": "persons"
     },
     "persons-circle": {
-      "codepoint": 58206,
+      "codepoint": 58211,
       "fontFamily": "PepiconsPop",
       "identifier": "personsCircle"
     },
     "persons-circle-filled": {
-      "codepoint": 58207,
+      "codepoint": 58212,
       "fontFamily": "PepiconsPop",
       "identifier": "personsCircleFilled"
     },
     "persons-circle-off": {
-      "codepoint": 58208,
+      "codepoint": 58213,
       "fontFamily": "PepiconsPop",
       "identifier": "personsCircleOff"
     },
     "persons-off": {
-      "codepoint": 58209,
+      "codepoint": 58214,
       "fontFamily": "PepiconsPop",
       "identifier": "personsOff"
     },
     "peso": {
-      "codepoint": 58210,
+      "codepoint": 58215,
       "fontFamily": "PepiconsPop",
       "identifier": "peso"
     },
     "peso-circle": {
-      "codepoint": 58211,
+      "codepoint": 58216,
       "fontFamily": "PepiconsPop",
       "identifier": "pesoCircle"
     },
     "peso-circle-filled": {
-      "codepoint": 58212,
+      "codepoint": 58217,
       "fontFamily": "PepiconsPop",
       "identifier": "pesoCircleFilled"
     },
     "peso-circle-off": {
-      "codepoint": 58213,
+      "codepoint": 58218,
       "fontFamily": "PepiconsPop",
       "identifier": "pesoCircleOff"
     },
     "peso-off": {
-      "codepoint": 58214,
+      "codepoint": 58219,
       "fontFamily": "PepiconsPop",
       "identifier": "pesoOff"
     },
     "phone": {
-      "codepoint": 58215,
+      "codepoint": 58220,
       "fontFamily": "PepiconsPop",
       "identifier": "phone"
     },
     "phone-circle": {
-      "codepoint": 58216,
+      "codepoint": 58221,
       "fontFamily": "PepiconsPop",
       "identifier": "phoneCircle"
     },
     "phone-circle-filled": {
-      "codepoint": 58217,
+      "codepoint": 58222,
       "fontFamily": "PepiconsPop",
       "identifier": "phoneCircleFilled"
     },
     "phone-circle-off": {
-      "codepoint": 58218,
+      "codepoint": 58223,
       "fontFamily": "PepiconsPop",
       "identifier": "phoneCircleOff"
     },
     "phone-off": {
-      "codepoint": 58219,
+      "codepoint": 58224,
       "fontFamily": "PepiconsPop",
       "identifier": "phoneOff"
     },
     "photo": {
-      "codepoint": 58220,
+      "codepoint": 58225,
       "fontFamily": "PepiconsPop",
       "identifier": "photo"
     },
     "photo-camera": {
-      "codepoint": 58221,
+      "codepoint": 58226,
       "fontFamily": "PepiconsPop",
       "identifier": "photoCamera"
     },
     "photo-camera-circle": {
-      "codepoint": 58222,
+      "codepoint": 58227,
       "fontFamily": "PepiconsPop",
       "identifier": "photoCameraCircle"
     },
     "photo-camera-circle-filled": {
-      "codepoint": 58223,
+      "codepoint": 58228,
       "fontFamily": "PepiconsPop",
       "identifier": "photoCameraCircleFilled"
     },
     "photo-camera-circle-off": {
-      "codepoint": 58224,
+      "codepoint": 58229,
       "fontFamily": "PepiconsPop",
       "identifier": "photoCameraCircleOff"
     },
     "photo-camera-off": {
-      "codepoint": 58225,
+      "codepoint": 58230,
       "fontFamily": "PepiconsPop",
       "identifier": "photoCameraOff"
     },
     "photo-circle": {
-      "codepoint": 58226,
+      "codepoint": 58231,
       "fontFamily": "PepiconsPop",
       "identifier": "photoCircle"
     },
     "photo-circle-filled": {
-      "codepoint": 58227,
+      "codepoint": 58232,
       "fontFamily": "PepiconsPop",
       "identifier": "photoCircleFilled"
     },
     "photo-circle-off": {
-      "codepoint": 58228,
+      "codepoint": 58233,
       "fontFamily": "PepiconsPop",
       "identifier": "photoCircleOff"
     },
     "photo-off": {
-      "codepoint": 58229,
+      "codepoint": 58234,
       "fontFamily": "PepiconsPop",
       "identifier": "photoOff"
     },
     "photo-studio": {
-      "codepoint": 58230,
+      "codepoint": 58235,
       "fontFamily": "PepiconsPop",
       "identifier": "photoStudio"
     },
     "photo-studio-circle": {
-      "codepoint": 58231,
+      "codepoint": 58236,
       "fontFamily": "PepiconsPop",
       "identifier": "photoStudioCircle"
     },
     "photo-studio-circle-filled": {
-      "codepoint": 58232,
+      "codepoint": 58237,
       "fontFamily": "PepiconsPop",
       "identifier": "photoStudioCircleFilled"
     },
     "photo-studio-circle-off": {
-      "codepoint": 58233,
+      "codepoint": 58238,
       "fontFamily": "PepiconsPop",
       "identifier": "photoStudioCircleOff"
     },
     "photo-studio-off": {
-      "codepoint": 58234,
+      "codepoint": 58239,
       "fontFamily": "PepiconsPop",
       "identifier": "photoStudioOff"
     },
     "pill": {
-      "codepoint": 58235,
+      "codepoint": 58240,
       "fontFamily": "PepiconsPop",
       "identifier": "pill"
     },
     "pill-circle": {
-      "codepoint": 58236,
+      "codepoint": 58241,
       "fontFamily": "PepiconsPop",
       "identifier": "pillCircle"
     },
     "pill-circle-filled": {
-      "codepoint": 58237,
+      "codepoint": 58242,
       "fontFamily": "PepiconsPop",
       "identifier": "pillCircleFilled"
     },
     "pill-circle-off": {
-      "codepoint": 58238,
+      "codepoint": 58243,
       "fontFamily": "PepiconsPop",
       "identifier": "pillCircleOff"
     },
     "pill-off": {
-      "codepoint": 58239,
+      "codepoint": 58244,
       "fontFamily": "PepiconsPop",
       "identifier": "pillOff"
     },
     "pin": {
-      "codepoint": 58240,
+      "codepoint": 58245,
       "fontFamily": "PepiconsPop",
       "identifier": "pin"
     },
     "pin-circle": {
-      "codepoint": 58241,
+      "codepoint": 58246,
       "fontFamily": "PepiconsPop",
       "identifier": "pinCircle"
     },
     "pin-circle-filled": {
-      "codepoint": 58242,
+      "codepoint": 58247,
       "fontFamily": "PepiconsPop",
       "identifier": "pinCircleFilled"
     },
     "pin-circle-off": {
-      "codepoint": 58243,
+      "codepoint": 58248,
       "fontFamily": "PepiconsPop",
       "identifier": "pinCircleOff"
     },
     "pin-off": {
-      "codepoint": 58244,
+      "codepoint": 58249,
       "fontFamily": "PepiconsPop",
       "identifier": "pinOff"
     },
     "pinpoint": {
-      "codepoint": 58245,
+      "codepoint": 58250,
       "fontFamily": "PepiconsPop",
       "identifier": "pinpoint"
     },
     "pinpoint-circle": {
-      "codepoint": 58246,
+      "codepoint": 58251,
       "fontFamily": "PepiconsPop",
       "identifier": "pinpointCircle"
     },
     "pinpoint-circle-filled": {
-      "codepoint": 58247,
+      "codepoint": 58252,
       "fontFamily": "PepiconsPop",
       "identifier": "pinpointCircleFilled"
     },
     "pinpoint-circle-off": {
-      "codepoint": 58248,
+      "codepoint": 58253,
       "fontFamily": "PepiconsPop",
       "identifier": "pinpointCircleOff"
     },
     "pinpoint-filled": {
-      "codepoint": 58249,
+      "codepoint": 58254,
       "fontFamily": "PepiconsPop",
       "identifier": "pinpointFilled"
     },
     "pinpoint-off": {
-      "codepoint": 58250,
+      "codepoint": 58255,
       "fontFamily": "PepiconsPop",
       "identifier": "pinpointOff"
     },
     "pinpoint-off-filled": {
-      "codepoint": 58251,
+      "codepoint": 58256,
       "fontFamily": "PepiconsPop",
       "identifier": "pinpointOffFilled"
     },
     "planet": {
-      "codepoint": 58252,
+      "codepoint": 58257,
       "fontFamily": "PepiconsPop",
       "identifier": "planet"
     },
     "planet-circle": {
-      "codepoint": 58253,
+      "codepoint": 58258,
       "fontFamily": "PepiconsPop",
       "identifier": "planetCircle"
     },
     "planet-circle-filled": {
-      "codepoint": 58254,
+      "codepoint": 58259,
       "fontFamily": "PepiconsPop",
       "identifier": "planetCircleFilled"
     },
     "planet-circle-off": {
-      "codepoint": 58255,
+      "codepoint": 58260,
       "fontFamily": "PepiconsPop",
       "identifier": "planetCircleOff"
     },
     "planet-off": {
-      "codepoint": 58256,
+      "codepoint": 58261,
       "fontFamily": "PepiconsPop",
       "identifier": "planetOff"
     },
     "planet-ring": {
-      "codepoint": 58257,
+      "codepoint": 58262,
       "fontFamily": "PepiconsPop",
       "identifier": "planetRing"
     },
     "planet-ring-circle": {
-      "codepoint": 58258,
+      "codepoint": 58263,
       "fontFamily": "PepiconsPop",
       "identifier": "planetRingCircle"
     },
     "planet-ring-circle-filled": {
-      "codepoint": 58259,
+      "codepoint": 58264,
       "fontFamily": "PepiconsPop",
       "identifier": "planetRingCircleFilled"
     },
     "planet-ring-circle-off": {
-      "codepoint": 58260,
+      "codepoint": 58265,
       "fontFamily": "PepiconsPop",
       "identifier": "planetRingCircleOff"
     },
     "planet-ring-off": {
-      "codepoint": 58261,
+      "codepoint": 58266,
       "fontFamily": "PepiconsPop",
       "identifier": "planetRingOff"
     },
     "play": {
-      "codepoint": 58262,
+      "codepoint": 58267,
       "fontFamily": "PepiconsPop",
       "identifier": "play"
     },
     "play-circle": {
-      "codepoint": 58263,
+      "codepoint": 58268,
       "fontFamily": "PepiconsPop",
       "identifier": "playCircle"
     },
     "play-circle-filled": {
-      "codepoint": 58264,
+      "codepoint": 58269,
       "fontFamily": "PepiconsPop",
       "identifier": "playCircleFilled"
     },
     "play-circle-off": {
-      "codepoint": 58265,
+      "codepoint": 58270,
       "fontFamily": "PepiconsPop",
       "identifier": "playCircleOff"
     },
     "play-off": {
-      "codepoint": 58266,
+      "codepoint": 58271,
       "fontFamily": "PepiconsPop",
       "identifier": "playOff"
     },
     "plus": {
-      "codepoint": 58267,
+      "codepoint": 58272,
       "fontFamily": "PepiconsPop",
       "identifier": "plus"
     },
     "plus-circle": {
-      "codepoint": 58268,
+      "codepoint": 58273,
       "fontFamily": "PepiconsPop",
       "identifier": "plusCircle"
     },
     "plus-circle-filled": {
-      "codepoint": 58269,
+      "codepoint": 58274,
       "fontFamily": "PepiconsPop",
       "identifier": "plusCircleFilled"
     },
     "plus-circle-off": {
-      "codepoint": 58270,
+      "codepoint": 58275,
       "fontFamily": "PepiconsPop",
       "identifier": "plusCircleOff"
     },
     "plus-off": {
-      "codepoint": 58271,
+      "codepoint": 58276,
       "fontFamily": "PepiconsPop",
       "identifier": "plusOff"
     },
     "power": {
-      "codepoint": 58272,
+      "codepoint": 58277,
       "fontFamily": "PepiconsPop",
       "identifier": "power"
     },
     "power-circle": {
-      "codepoint": 58273,
+      "codepoint": 58278,
       "fontFamily": "PepiconsPop",
       "identifier": "powerCircle"
     },
     "power-circle-filled": {
-      "codepoint": 58274,
+      "codepoint": 58279,
       "fontFamily": "PepiconsPop",
       "identifier": "powerCircleFilled"
     },
     "power-circle-off": {
-      "codepoint": 58275,
+      "codepoint": 58280,
       "fontFamily": "PepiconsPop",
       "identifier": "powerCircleOff"
     },
     "power-off": {
-      "codepoint": 58276,
+      "codepoint": 58281,
       "fontFamily": "PepiconsPop",
       "identifier": "powerOff"
     },
     "previous-track": {
-      "codepoint": 58277,
+      "codepoint": 58282,
       "fontFamily": "PepiconsPop",
       "identifier": "previousTrack"
     },
     "previous-track-circle": {
-      "codepoint": 58278,
+      "codepoint": 58283,
       "fontFamily": "PepiconsPop",
       "identifier": "previousTrackCircle"
     },
     "previous-track-circle-filled": {
-      "codepoint": 58279,
+      "codepoint": 58284,
       "fontFamily": "PepiconsPop",
       "identifier": "previousTrackCircleFilled"
     },
     "previous-track-circle-off": {
-      "codepoint": 58280,
+      "codepoint": 58285,
       "fontFamily": "PepiconsPop",
       "identifier": "previousTrackCircleOff"
     },
     "previous-track-off": {
-      "codepoint": 58281,
+      "codepoint": 58286,
       "fontFamily": "PepiconsPop",
       "identifier": "previousTrackOff"
     },
     "printer": {
-      "codepoint": 58282,
+      "codepoint": 58287,
       "fontFamily": "PepiconsPop",
       "identifier": "printer"
     },
     "printer-circle": {
-      "codepoint": 58283,
+      "codepoint": 58288,
       "fontFamily": "PepiconsPop",
       "identifier": "printerCircle"
     },
     "printer-circle-filled": {
-      "codepoint": 58284,
+      "codepoint": 58289,
       "fontFamily": "PepiconsPop",
       "identifier": "printerCircleFilled"
     },
     "printer-circle-off": {
-      "codepoint": 58285,
+      "codepoint": 58290,
       "fontFamily": "PepiconsPop",
       "identifier": "printerCircleOff"
     },
     "printer-off": {
-      "codepoint": 58286,
+      "codepoint": 58291,
       "fontFamily": "PepiconsPop",
       "identifier": "printerOff"
     },
     "qr-code": {
-      "codepoint": 58287,
+      "codepoint": 58292,
       "fontFamily": "PepiconsPop",
       "identifier": "qrCode"
     },
     "qr-code-circle": {
-      "codepoint": 58288,
+      "codepoint": 58293,
       "fontFamily": "PepiconsPop",
       "identifier": "qrCodeCircle"
     },
     "qr-code-circle-filled": {
-      "codepoint": 58289,
+      "codepoint": 58294,
       "fontFamily": "PepiconsPop",
       "identifier": "qrCodeCircleFilled"
     },
     "qr-code-circle-off": {
-      "codepoint": 58290,
+      "codepoint": 58295,
       "fontFamily": "PepiconsPop",
       "identifier": "qrCodeCircleOff"
     },
     "qr-code-off": {
-      "codepoint": 58291,
+      "codepoint": 58296,
       "fontFamily": "PepiconsPop",
       "identifier": "qrCodeOff"
     },
     "question": {
-      "codepoint": 58292,
+      "codepoint": 58297,
       "fontFamily": "PepiconsPop",
       "identifier": "question"
     },
     "question-circle": {
-      "codepoint": 58293,
+      "codepoint": 58298,
       "fontFamily": "PepiconsPop",
       "identifier": "questionCircle"
     },
     "question-circle-filled": {
-      "codepoint": 58294,
+      "codepoint": 58299,
       "fontFamily": "PepiconsPop",
       "identifier": "questionCircleFilled"
     },
     "question-circle-off": {
-      "codepoint": 58295,
+      "codepoint": 58300,
       "fontFamily": "PepiconsPop",
       "identifier": "questionCircleOff"
     },
     "question-filled": {
-      "codepoint": 58296,
+      "codepoint": 58301,
       "fontFamily": "PepiconsPop",
       "identifier": "questionFilled"
     },
     "question-off": {
-      "codepoint": 58297,
+      "codepoint": 58302,
       "fontFamily": "PepiconsPop",
       "identifier": "questionOff"
     },
     "radio": {
-      "codepoint": 58298,
+      "codepoint": 58303,
       "fontFamily": "PepiconsPop",
       "identifier": "radio"
     },
     "radio-circle": {
-      "codepoint": 58299,
+      "codepoint": 58304,
       "fontFamily": "PepiconsPop",
       "identifier": "radioCircle"
     },
     "radio-circle-filled": {
-      "codepoint": 58300,
+      "codepoint": 58305,
       "fontFamily": "PepiconsPop",
       "identifier": "radioCircleFilled"
     },
     "radio-circle-off": {
-      "codepoint": 58301,
+      "codepoint": 58306,
       "fontFamily": "PepiconsPop",
       "identifier": "radioCircleOff"
     },
     "radio-off": {
-      "codepoint": 58302,
+      "codepoint": 58307,
       "fontFamily": "PepiconsPop",
       "identifier": "radioOff"
     },
     "raise-hand": {
-      "codepoint": 58303,
+      "codepoint": 58308,
       "fontFamily": "PepiconsPop",
       "identifier": "raiseHand"
     },
     "raise-hand-circle": {
-      "codepoint": 58304,
+      "codepoint": 58309,
       "fontFamily": "PepiconsPop",
       "identifier": "raiseHandCircle"
     },
     "raise-hand-circle-filled": {
-      "codepoint": 58305,
+      "codepoint": 58310,
       "fontFamily": "PepiconsPop",
       "identifier": "raiseHandCircleFilled"
     },
     "raise-hand-circle-off": {
-      "codepoint": 58306,
+      "codepoint": 58311,
       "fontFamily": "PepiconsPop",
       "identifier": "raiseHandCircleOff"
     },
     "raise-hand-off": {
-      "codepoint": 58307,
+      "codepoint": 58312,
       "fontFamily": "PepiconsPop",
       "identifier": "raiseHandOff"
     },
     "refresh": {
-      "codepoint": 58308,
+      "codepoint": 58313,
       "fontFamily": "PepiconsPop",
       "identifier": "refresh"
     },
     "reload": {
-      "codepoint": 58309,
+      "codepoint": 58314,
       "fontFamily": "PepiconsPop",
       "identifier": "reload"
     },
     "repeat": {
-      "codepoint": 58310,
+      "codepoint": 58315,
       "fontFamily": "PepiconsPop",
       "identifier": "repeat"
     },
     "repeat-circle": {
-      "codepoint": 58311,
+      "codepoint": 58316,
       "fontFamily": "PepiconsPop",
       "identifier": "repeatCircle"
     },
     "repeat-circle-filled": {
-      "codepoint": 58312,
+      "codepoint": 58317,
       "fontFamily": "PepiconsPop",
       "identifier": "repeatCircleFilled"
     },
     "repeat-circle-off": {
-      "codepoint": 58313,
+      "codepoint": 58318,
       "fontFamily": "PepiconsPop",
       "identifier": "repeatCircleOff"
     },
     "repeat-off": {
-      "codepoint": 58314,
+      "codepoint": 58319,
       "fontFamily": "PepiconsPop",
       "identifier": "repeatOff"
     },
     "rewind": {
-      "codepoint": 58315,
+      "codepoint": 58320,
       "fontFamily": "PepiconsPop",
       "identifier": "rewind"
     },
     "rewind-circle": {
-      "codepoint": 58316,
+      "codepoint": 58321,
       "fontFamily": "PepiconsPop",
       "identifier": "rewindCircle"
     },
     "rewind-circle-filled": {
-      "codepoint": 58317,
+      "codepoint": 58322,
       "fontFamily": "PepiconsPop",
       "identifier": "rewindCircleFilled"
     },
     "rewind-circle-off": {
-      "codepoint": 58318,
+      "codepoint": 58323,
       "fontFamily": "PepiconsPop",
       "identifier": "rewindCircleOff"
     },
     "rewind-off": {
-      "codepoint": 58319,
+      "codepoint": 58324,
       "fontFamily": "PepiconsPop",
       "identifier": "rewindOff"
     },
     "rewind-time": {
-      "codepoint": 58320,
+      "codepoint": 58325,
       "fontFamily": "PepiconsPop",
       "identifier": "rewindTime"
     },
     "rewind-time-circle": {
-      "codepoint": 58321,
+      "codepoint": 58326,
       "fontFamily": "PepiconsPop",
       "identifier": "rewindTimeCircle"
     },
     "rewind-time-circle-filled": {
-      "codepoint": 58322,
+      "codepoint": 58327,
       "fontFamily": "PepiconsPop",
       "identifier": "rewindTimeCircleFilled"
     },
     "rewind-time-circle-off": {
-      "codepoint": 58323,
+      "codepoint": 58328,
       "fontFamily": "PepiconsPop",
       "identifier": "rewindTimeCircleOff"
     },
     "rewind-time-off": {
-      "codepoint": 58324,
+      "codepoint": 58329,
       "fontFamily": "PepiconsPop",
       "identifier": "rewindTimeOff"
     },
     "ruler": {
-      "codepoint": 58325,
+      "codepoint": 58330,
       "fontFamily": "PepiconsPop",
       "identifier": "ruler"
     },
     "ruler-circle": {
-      "codepoint": 58326,
+      "codepoint": 58331,
       "fontFamily": "PepiconsPop",
       "identifier": "rulerCircle"
     },
     "ruler-circle-filled": {
-      "codepoint": 58327,
+      "codepoint": 58332,
       "fontFamily": "PepiconsPop",
       "identifier": "rulerCircleFilled"
     },
     "ruler-circle-off": {
-      "codepoint": 58328,
+      "codepoint": 58333,
       "fontFamily": "PepiconsPop",
       "identifier": "rulerCircleOff"
     },
     "ruler-off": {
-      "codepoint": 58329,
+      "codepoint": 58334,
       "fontFamily": "PepiconsPop",
       "identifier": "rulerOff"
     },
     "scissors": {
-      "codepoint": 58330,
+      "codepoint": 58335,
       "fontFamily": "PepiconsPop",
       "identifier": "scissors"
     },
     "scissors-circle": {
-      "codepoint": 58331,
+      "codepoint": 58336,
       "fontFamily": "PepiconsPop",
       "identifier": "scissorsCircle"
     },
     "scissors-circle-filled": {
-      "codepoint": 58332,
+      "codepoint": 58337,
       "fontFamily": "PepiconsPop",
       "identifier": "scissorsCircleFilled"
     },
     "scissors-circle-off": {
-      "codepoint": 58333,
+      "codepoint": 58338,
       "fontFamily": "PepiconsPop",
       "identifier": "scissorsCircleOff"
     },
     "scissors-off": {
-      "codepoint": 58334,
+      "codepoint": 58339,
       "fontFamily": "PepiconsPop",
       "identifier": "scissorsOff"
     },
     "seedling": {
-      "codepoint": 58335,
+      "codepoint": 58340,
       "fontFamily": "PepiconsPop",
       "identifier": "seedling"
     },
     "seedling-circle": {
-      "codepoint": 58336,
+      "codepoint": 58341,
       "fontFamily": "PepiconsPop",
       "identifier": "seedlingCircle"
     },
     "seedling-circle-filled": {
-      "codepoint": 58337,
+      "codepoint": 58342,
       "fontFamily": "PepiconsPop",
       "identifier": "seedlingCircleFilled"
     },
     "seedling-circle-off": {
-      "codepoint": 58338,
+      "codepoint": 58343,
       "fontFamily": "PepiconsPop",
       "identifier": "seedlingCircleOff"
     },
     "seedling-off": {
-      "codepoint": 58339,
+      "codepoint": 58344,
       "fontFamily": "PepiconsPop",
       "identifier": "seedlingOff"
     },
     "send": {
-      "codepoint": 58340,
+      "codepoint": 58345,
       "fontFamily": "PepiconsPop",
       "identifier": "send"
     },
     "share-android": {
-      "codepoint": 58341,
+      "codepoint": 58346,
       "fontFamily": "PepiconsPop",
       "identifier": "shareAndroid"
     },
     "share-android-circle": {
-      "codepoint": 58342,
+      "codepoint": 58347,
       "fontFamily": "PepiconsPop",
       "identifier": "shareAndroidCircle"
     },
     "share-android-circle-filled": {
-      "codepoint": 58343,
+      "codepoint": 58348,
       "fontFamily": "PepiconsPop",
       "identifier": "shareAndroidCircleFilled"
     },
     "share-android-circle-off": {
-      "codepoint": 58344,
+      "codepoint": 58349,
       "fontFamily": "PepiconsPop",
       "identifier": "shareAndroidCircleOff"
     },
     "share-android-off": {
-      "codepoint": 58345,
+      "codepoint": 58350,
       "fontFamily": "PepiconsPop",
       "identifier": "shareAndroidOff"
     },
     "share-ios": {
-      "codepoint": 58346,
+      "codepoint": 58351,
       "fontFamily": "PepiconsPop",
       "identifier": "shareIos"
     },
     "share-ios-circle": {
-      "codepoint": 58347,
+      "codepoint": 58352,
       "fontFamily": "PepiconsPop",
       "identifier": "shareIosCircle"
     },
     "share-ios-circle-filled": {
-      "codepoint": 58348,
+      "codepoint": 58353,
       "fontFamily": "PepiconsPop",
       "identifier": "shareIosCircleFilled"
     },
     "share-ios-circle-off": {
-      "codepoint": 58349,
+      "codepoint": 58354,
       "fontFamily": "PepiconsPop",
       "identifier": "shareIosCircleOff"
     },
     "share-ios-off": {
-      "codepoint": 58350,
+      "codepoint": 58355,
       "fontFamily": "PepiconsPop",
       "identifier": "shareIosOff"
     },
     "shield": {
-      "codepoint": 58351,
+      "codepoint": 58356,
       "fontFamily": "PepiconsPop",
       "identifier": "shield"
     },
     "shield-check": {
-      "codepoint": 58352,
+      "codepoint": 58357,
       "fontFamily": "PepiconsPop",
       "identifier": "shieldCheck"
     },
     "shield-check-circle": {
-      "codepoint": 58353,
+      "codepoint": 58358,
       "fontFamily": "PepiconsPop",
       "identifier": "shieldCheckCircle"
     },
     "shield-check-circle-filled": {
-      "codepoint": 58354,
+      "codepoint": 58359,
       "fontFamily": "PepiconsPop",
       "identifier": "shieldCheckCircleFilled"
     },
     "shield-check-circle-off": {
-      "codepoint": 58355,
+      "codepoint": 58360,
       "fontFamily": "PepiconsPop",
       "identifier": "shieldCheckCircleOff"
     },
     "shield-check-off": {
-      "codepoint": 58356,
+      "codepoint": 58361,
       "fontFamily": "PepiconsPop",
       "identifier": "shieldCheckOff"
     },
     "shield-checkered": {
-      "codepoint": 58357,
+      "codepoint": 58362,
       "fontFamily": "PepiconsPop",
       "identifier": "shieldCheckered"
     },
     "shield-checkered-circle": {
-      "codepoint": 58358,
+      "codepoint": 58363,
       "fontFamily": "PepiconsPop",
       "identifier": "shieldCheckeredCircle"
     },
     "shield-checkered-circle-filled": {
-      "codepoint": 58359,
+      "codepoint": 58364,
       "fontFamily": "PepiconsPop",
       "identifier": "shieldCheckeredCircleFilled"
     },
     "shield-checkered-circle-off": {
-      "codepoint": 58360,
+      "codepoint": 58365,
       "fontFamily": "PepiconsPop",
       "identifier": "shieldCheckeredCircleOff"
     },
     "shield-checkered-off": {
-      "codepoint": 58361,
+      "codepoint": 58366,
       "fontFamily": "PepiconsPop",
       "identifier": "shieldCheckeredOff"
     },
     "shield-circle": {
-      "codepoint": 58362,
+      "codepoint": 58367,
       "fontFamily": "PepiconsPop",
       "identifier": "shieldCircle"
     },
     "shield-circle-filled": {
-      "codepoint": 58363,
+      "codepoint": 58368,
       "fontFamily": "PepiconsPop",
       "identifier": "shieldCircleFilled"
     },
     "shield-circle-off": {
-      "codepoint": 58364,
+      "codepoint": 58369,
       "fontFamily": "PepiconsPop",
       "identifier": "shieldCircleOff"
     },
     "shield-off": {
-      "codepoint": 58365,
+      "codepoint": 58370,
       "fontFamily": "PepiconsPop",
       "identifier": "shieldOff"
     },
     "shuffle": {
-      "codepoint": 58366,
+      "codepoint": 58371,
       "fontFamily": "PepiconsPop",
       "identifier": "shuffle"
     },
     "shuffle-circle": {
-      "codepoint": 58367,
+      "codepoint": 58372,
       "fontFamily": "PepiconsPop",
       "identifier": "shuffleCircle"
     },
     "shuffle-circle-filled": {
-      "codepoint": 58368,
+      "codepoint": 58373,
       "fontFamily": "PepiconsPop",
       "identifier": "shuffleCircleFilled"
     },
     "shuffle-circle-off": {
-      "codepoint": 58369,
+      "codepoint": 58374,
       "fontFamily": "PepiconsPop",
       "identifier": "shuffleCircleOff"
     },
     "shuffle-off": {
-      "codepoint": 58370,
+      "codepoint": 58375,
       "fontFamily": "PepiconsPop",
       "identifier": "shuffleOff"
     },
     "sliders": {
-      "codepoint": 58371,
+      "codepoint": 58376,
       "fontFamily": "PepiconsPop",
       "identifier": "sliders"
     },
     "sliders-circle": {
-      "codepoint": 58372,
+      "codepoint": 58377,
       "fontFamily": "PepiconsPop",
       "identifier": "slidersCircle"
     },
     "sliders-circle-filled": {
-      "codepoint": 58373,
+      "codepoint": 58378,
       "fontFamily": "PepiconsPop",
       "identifier": "slidersCircleFilled"
     },
     "sliders-circle-off": {
-      "codepoint": 58374,
+      "codepoint": 58379,
       "fontFamily": "PepiconsPop",
       "identifier": "slidersCircleOff"
     },
     "sliders-off": {
-      "codepoint": 58375,
+      "codepoint": 58380,
       "fontFamily": "PepiconsPop",
       "identifier": "slidersOff"
     },
     "smartphone": {
-      "codepoint": 58376,
+      "codepoint": 58381,
       "fontFamily": "PepiconsPop",
       "identifier": "smartphone"
     },
     "smartphone-cutout": {
-      "codepoint": 58377,
+      "codepoint": 58382,
       "fontFamily": "PepiconsPop",
       "identifier": "smartphoneCutout"
     },
     "smartphone-cutout-circle": {
-      "codepoint": 58378,
+      "codepoint": 58383,
       "fontFamily": "PepiconsPop",
       "identifier": "smartphoneCutoutCircle"
     },
     "smartphone-cutout-circle-filled": {
-      "codepoint": 58379,
+      "codepoint": 58384,
       "fontFamily": "PepiconsPop",
       "identifier": "smartphoneCutoutCircleFilled"
     },
     "smartphone-cutout-circle-off": {
-      "codepoint": 58380,
+      "codepoint": 58385,
       "fontFamily": "PepiconsPop",
       "identifier": "smartphoneCutoutCircleOff"
     },
     "smartphone-cutout-off": {
-      "codepoint": 58381,
+      "codepoint": 58386,
       "fontFamily": "PepiconsPop",
       "identifier": "smartphoneCutoutOff"
     },
     "smartphone-home-button": {
-      "codepoint": 58382,
+      "codepoint": 58387,
       "fontFamily": "PepiconsPop",
       "identifier": "smartphoneHomeButton"
     },
     "smartphone-home-button-circle": {
-      "codepoint": 58383,
+      "codepoint": 58388,
       "fontFamily": "PepiconsPop",
       "identifier": "smartphoneHomeButtonCircle"
     },
     "smartphone-home-button-circle-filled": {
-      "codepoint": 58384,
+      "codepoint": 58389,
       "fontFamily": "PepiconsPop",
       "identifier": "smartphoneHomeButtonCircleFilled"
     },
     "smartphone-home-button-circle-off": {
-      "codepoint": 58385,
+      "codepoint": 58390,
       "fontFamily": "PepiconsPop",
       "identifier": "smartphoneHomeButtonCircleOff"
     },
     "smartphone-home-button-off": {
-      "codepoint": 58386,
+      "codepoint": 58391,
       "fontFamily": "PepiconsPop",
       "identifier": "smartphoneHomeButtonOff"
     },
     "smartphone-notch": {
-      "codepoint": 58387,
+      "codepoint": 58392,
       "fontFamily": "PepiconsPop",
       "identifier": "smartphoneNotch"
     },
     "smartphone-notch-circle": {
-      "codepoint": 58388,
+      "codepoint": 58393,
       "fontFamily": "PepiconsPop",
       "identifier": "smartphoneNotchCircle"
     },
     "smartphone-notch-circle-filled": {
-      "codepoint": 58389,
+      "codepoint": 58394,
       "fontFamily": "PepiconsPop",
       "identifier": "smartphoneNotchCircleFilled"
     },
     "smartphone-notch-circle-off": {
-      "codepoint": 58390,
+      "codepoint": 58395,
       "fontFamily": "PepiconsPop",
       "identifier": "smartphoneNotchCircleOff"
     },
     "smartphone-notch-off": {
-      "codepoint": 58391,
+      "codepoint": 58396,
       "fontFamily": "PepiconsPop",
       "identifier": "smartphoneNotchOff"
     },
     "smartphone2": {
-      "codepoint": 58392,
+      "codepoint": 58397,
       "fontFamily": "PepiconsPop",
       "identifier": "smartphone2"
     },
     "soft-drink": {
-      "codepoint": 58393,
+      "codepoint": 58398,
       "fontFamily": "PepiconsPop",
       "identifier": "softDrink"
     },
     "soft-drink-circle": {
-      "codepoint": 58394,
+      "codepoint": 58399,
       "fontFamily": "PepiconsPop",
       "identifier": "softDrinkCircle"
     },
     "soft-drink-circle-filled": {
-      "codepoint": 58395,
+      "codepoint": 58400,
       "fontFamily": "PepiconsPop",
       "identifier": "softDrinkCircleFilled"
     },
     "soft-drink-circle-off": {
-      "codepoint": 58396,
+      "codepoint": 58401,
       "fontFamily": "PepiconsPop",
       "identifier": "softDrinkCircleOff"
     },
     "soft-drink-off": {
-      "codepoint": 58397,
+      "codepoint": 58402,
       "fontFamily": "PepiconsPop",
       "identifier": "softDrinkOff"
     },
     "sort": {
-      "codepoint": 58398,
+      "codepoint": 58403,
       "fontFamily": "PepiconsPop",
       "identifier": "sort"
     },
     "speaker-high": {
-      "codepoint": 58399,
+      "codepoint": 58404,
       "fontFamily": "PepiconsPop",
       "identifier": "speakerHigh"
     },
     "speaker-high-circle": {
-      "codepoint": 58400,
+      "codepoint": 58405,
       "fontFamily": "PepiconsPop",
       "identifier": "speakerHighCircle"
     },
     "speaker-high-circle-filled": {
-      "codepoint": 58401,
+      "codepoint": 58406,
       "fontFamily": "PepiconsPop",
       "identifier": "speakerHighCircleFilled"
     },
     "speaker-high-circle-off": {
-      "codepoint": 58402,
+      "codepoint": 58407,
       "fontFamily": "PepiconsPop",
       "identifier": "speakerHighCircleOff"
     },
     "speaker-high-off": {
-      "codepoint": 58403,
+      "codepoint": 58408,
       "fontFamily": "PepiconsPop",
       "identifier": "speakerHighOff"
     },
     "speaker-low": {
-      "codepoint": 58404,
+      "codepoint": 58409,
       "fontFamily": "PepiconsPop",
       "identifier": "speakerLow"
     },
     "speaker-low-circle": {
-      "codepoint": 58405,
+      "codepoint": 58410,
       "fontFamily": "PepiconsPop",
       "identifier": "speakerLowCircle"
     },
     "speaker-low-circle-filled": {
-      "codepoint": 58406,
+      "codepoint": 58411,
       "fontFamily": "PepiconsPop",
       "identifier": "speakerLowCircleFilled"
     },
     "speaker-low-circle-off": {
-      "codepoint": 58407,
+      "codepoint": 58412,
       "fontFamily": "PepiconsPop",
       "identifier": "speakerLowCircleOff"
     },
     "speaker-low-off": {
-      "codepoint": 58408,
+      "codepoint": 58413,
       "fontFamily": "PepiconsPop",
       "identifier": "speakerLowOff"
     },
     "speaker-off": {
-      "codepoint": 58409,
+      "codepoint": 58414,
       "fontFamily": "PepiconsPop",
       "identifier": "speakerOff"
     },
     "square": {
-      "codepoint": 58410,
+      "codepoint": 58415,
       "fontFamily": "PepiconsPop",
       "identifier": "square"
     },
     "square-circle": {
-      "codepoint": 58411,
+      "codepoint": 58416,
       "fontFamily": "PepiconsPop",
       "identifier": "squareCircle"
     },
     "square-circle-filled": {
-      "codepoint": 58412,
+      "codepoint": 58417,
       "fontFamily": "PepiconsPop",
       "identifier": "squareCircleFilled"
     },
     "square-circle-off": {
-      "codepoint": 58413,
+      "codepoint": 58418,
       "fontFamily": "PepiconsPop",
       "identifier": "squareCircleOff"
     },
     "square-filled": {
-      "codepoint": 58414,
+      "codepoint": 58419,
       "fontFamily": "PepiconsPop",
       "identifier": "squareFilled"
     },
     "square-filled-circle": {
-      "codepoint": 58415,
+      "codepoint": 58420,
       "fontFamily": "PepiconsPop",
       "identifier": "squareFilledCircle"
     },
     "square-filled-circle-filled": {
-      "codepoint": 58416,
+      "codepoint": 58421,
       "fontFamily": "PepiconsPop",
       "identifier": "squareFilledCircleFilled"
     },
     "square-filled-circle-off": {
-      "codepoint": 58417,
+      "codepoint": 58422,
       "fontFamily": "PepiconsPop",
       "identifier": "squareFilledCircleOff"
     },
     "square-filled-off": {
-      "codepoint": 58418,
+      "codepoint": 58423,
       "fontFamily": "PepiconsPop",
       "identifier": "squareFilledOff"
     },
     "square-off": {
-      "codepoint": 58419,
+      "codepoint": 58424,
       "fontFamily": "PepiconsPop",
       "identifier": "squareOff"
     },
     "star": {
-      "codepoint": 58420,
+      "codepoint": 58425,
       "fontFamily": "PepiconsPop",
       "identifier": "star"
     },
     "star-circle": {
-      "codepoint": 58421,
+      "codepoint": 58426,
       "fontFamily": "PepiconsPop",
       "identifier": "starCircle"
     },
     "star-circle-filled": {
-      "codepoint": 58422,
+      "codepoint": 58427,
       "fontFamily": "PepiconsPop",
       "identifier": "starCircleFilled"
     },
     "star-circle-off": {
-      "codepoint": 58423,
+      "codepoint": 58428,
       "fontFamily": "PepiconsPop",
       "identifier": "starCircleOff"
     },
     "star-filled": {
-      "codepoint": 58424,
+      "codepoint": 58429,
       "fontFamily": "PepiconsPop",
       "identifier": "starFilled"
     },
     "star-filled-circle": {
-      "codepoint": 58425,
+      "codepoint": 58430,
       "fontFamily": "PepiconsPop",
       "identifier": "starFilledCircle"
     },
     "star-filled-circle-filled": {
-      "codepoint": 58426,
+      "codepoint": 58431,
       "fontFamily": "PepiconsPop",
       "identifier": "starFilledCircleFilled"
     },
     "star-filled-circle-off": {
-      "codepoint": 58427,
+      "codepoint": 58432,
       "fontFamily": "PepiconsPop",
       "identifier": "starFilledCircleOff"
     },
     "star-filled-off": {
-      "codepoint": 58428,
+      "codepoint": 58433,
       "fontFamily": "PepiconsPop",
       "identifier": "starFilledOff"
     },
     "star-off": {
-      "codepoint": 58429,
+      "codepoint": 58434,
       "fontFamily": "PepiconsPop",
       "identifier": "starOff"
     },
     "stars": {
-      "codepoint": 58430,
+      "codepoint": 58435,
       "fontFamily": "PepiconsPop",
       "identifier": "stars"
     },
     "stars-circle": {
-      "codepoint": 58431,
+      "codepoint": 58436,
       "fontFamily": "PepiconsPop",
       "identifier": "starsCircle"
     },
     "stars-circle-filled": {
-      "codepoint": 58432,
+      "codepoint": 58437,
       "fontFamily": "PepiconsPop",
       "identifier": "starsCircleFilled"
     },
     "stars-circle-off": {
-      "codepoint": 58433,
+      "codepoint": 58438,
       "fontFamily": "PepiconsPop",
       "identifier": "starsCircleOff"
     },
     "stars-off": {
-      "codepoint": 58434,
+      "codepoint": 58439,
       "fontFamily": "PepiconsPop",
       "identifier": "starsOff"
     },
     "stopwatch": {
-      "codepoint": 58435,
+      "codepoint": 58440,
       "fontFamily": "PepiconsPop",
       "identifier": "stopwatch"
     },
     "stopwatch-circle": {
-      "codepoint": 58436,
+      "codepoint": 58441,
       "fontFamily": "PepiconsPop",
       "identifier": "stopwatchCircle"
     },
     "stopwatch-circle-filled": {
-      "codepoint": 58437,
+      "codepoint": 58442,
       "fontFamily": "PepiconsPop",
       "identifier": "stopwatchCircleFilled"
     },
     "stopwatch-circle-off": {
-      "codepoint": 58438,
+      "codepoint": 58443,
       "fontFamily": "PepiconsPop",
       "identifier": "stopwatchCircleOff"
     },
     "stopwatch-off": {
-      "codepoint": 58439,
+      "codepoint": 58444,
       "fontFamily": "PepiconsPop",
       "identifier": "stopwatchOff"
     },
     "studio-backdrop": {
-      "codepoint": 58440,
+      "codepoint": 58445,
       "fontFamily": "PepiconsPop",
       "identifier": "studioBackdrop"
     },
     "studio-backdrop-circle": {
-      "codepoint": 58441,
+      "codepoint": 58446,
       "fontFamily": "PepiconsPop",
       "identifier": "studioBackdropCircle"
     },
     "studio-backdrop-circle-filled": {
-      "codepoint": 58442,
+      "codepoint": 58447,
       "fontFamily": "PepiconsPop",
       "identifier": "studioBackdropCircleFilled"
     },
     "studio-backdrop-circle-off": {
-      "codepoint": 58443,
+      "codepoint": 58448,
       "fontFamily": "PepiconsPop",
       "identifier": "studioBackdropCircleOff"
     },
     "studio-backdrop-off": {
-      "codepoint": 58444,
+      "codepoint": 58449,
       "fontFamily": "PepiconsPop",
       "identifier": "studioBackdropOff"
     },
     "studio-light-front": {
-      "codepoint": 58445,
+      "codepoint": 58450,
       "fontFamily": "PepiconsPop",
       "identifier": "studioLightFront"
     },
     "studio-light-front-circle": {
-      "codepoint": 58446,
+      "codepoint": 58451,
       "fontFamily": "PepiconsPop",
       "identifier": "studioLightFrontCircle"
     },
     "studio-light-front-circle-filled": {
-      "codepoint": 58447,
+      "codepoint": 58452,
       "fontFamily": "PepiconsPop",
       "identifier": "studioLightFrontCircleFilled"
     },
     "studio-light-front-circle-off": {
-      "codepoint": 58448,
+      "codepoint": 58453,
       "fontFamily": "PepiconsPop",
       "identifier": "studioLightFrontCircleOff"
     },
     "studio-light-front-off": {
-      "codepoint": 58449,
+      "codepoint": 58454,
       "fontFamily": "PepiconsPop",
       "identifier": "studioLightFrontOff"
     },
     "studio-light-side": {
-      "codepoint": 58450,
+      "codepoint": 58455,
       "fontFamily": "PepiconsPop",
       "identifier": "studioLightSide"
     },
     "studio-light-side-circle": {
-      "codepoint": 58451,
+      "codepoint": 58456,
       "fontFamily": "PepiconsPop",
       "identifier": "studioLightSideCircle"
     },
     "studio-light-side-circle-filled": {
-      "codepoint": 58452,
+      "codepoint": 58457,
       "fontFamily": "PepiconsPop",
       "identifier": "studioLightSideCircleFilled"
     },
     "studio-light-side-circle-off": {
-      "codepoint": 58453,
+      "codepoint": 58458,
       "fontFamily": "PepiconsPop",
       "identifier": "studioLightSideCircleOff"
     },
     "studio-light-side-off": {
-      "codepoint": 58454,
+      "codepoint": 58459,
       "fontFamily": "PepiconsPop",
       "identifier": "studioLightSideOff"
     },
     "sun": {
-      "codepoint": 58455,
+      "codepoint": 58460,
       "fontFamily": "PepiconsPop",
       "identifier": "sun"
     },
     "sun-circle": {
-      "codepoint": 58456,
+      "codepoint": 58461,
       "fontFamily": "PepiconsPop",
       "identifier": "sunCircle"
     },
     "sun-circle-filled": {
-      "codepoint": 58457,
+      "codepoint": 58462,
       "fontFamily": "PepiconsPop",
       "identifier": "sunCircleFilled"
     },
     "sun-circle-off": {
-      "codepoint": 58458,
+      "codepoint": 58463,
       "fontFamily": "PepiconsPop",
       "identifier": "sunCircleOff"
     },
     "sun-filled": {
-      "codepoint": 58459,
+      "codepoint": 58464,
       "fontFamily": "PepiconsPop",
       "identifier": "sunFilled"
     },
     "sun-off": {
-      "codepoint": 58460,
+      "codepoint": 58465,
       "fontFamily": "PepiconsPop",
       "identifier": "sunOff"
     },
     "sword": {
-      "codepoint": 58461,
+      "codepoint": 58466,
       "fontFamily": "PepiconsPop",
       "identifier": "sword"
     },
     "sword-circle": {
-      "codepoint": 58462,
+      "codepoint": 58467,
       "fontFamily": "PepiconsPop",
       "identifier": "swordCircle"
     },
     "sword-circle-filled": {
-      "codepoint": 58463,
+      "codepoint": 58468,
       "fontFamily": "PepiconsPop",
       "identifier": "swordCircleFilled"
     },
     "sword-circle-off": {
-      "codepoint": 58464,
+      "codepoint": 58469,
       "fontFamily": "PepiconsPop",
       "identifier": "swordCircleOff"
     },
     "sword-off": {
-      "codepoint": 58465,
+      "codepoint": 58470,
       "fontFamily": "PepiconsPop",
       "identifier": "swordOff"
     },
     "sword-shield": {
-      "codepoint": 58466,
+      "codepoint": 58471,
       "fontFamily": "PepiconsPop",
       "identifier": "swordShield"
     },
     "sword-shield-circle": {
-      "codepoint": 58467,
+      "codepoint": 58472,
       "fontFamily": "PepiconsPop",
       "identifier": "swordShieldCircle"
     },
     "sword-shield-circle-filled": {
-      "codepoint": 58468,
+      "codepoint": 58473,
       "fontFamily": "PepiconsPop",
       "identifier": "swordShieldCircleFilled"
     },
     "sword-shield-circle-off": {
-      "codepoint": 58469,
+      "codepoint": 58474,
       "fontFamily": "PepiconsPop",
       "identifier": "swordShieldCircleOff"
     },
     "sword-shield-off": {
-      "codepoint": 58470,
+      "codepoint": 58475,
       "fontFamily": "PepiconsPop",
       "identifier": "swordShieldOff"
     },
     "swords": {
-      "codepoint": 58471,
+      "codepoint": 58476,
       "fontFamily": "PepiconsPop",
       "identifier": "swords"
     },
     "swords-circle": {
-      "codepoint": 58472,
+      "codepoint": 58477,
       "fontFamily": "PepiconsPop",
       "identifier": "swordsCircle"
     },
     "swords-circle-filled": {
-      "codepoint": 58473,
+      "codepoint": 58478,
       "fontFamily": "PepiconsPop",
       "identifier": "swordsCircleFilled"
     },
     "swords-circle-off": {
-      "codepoint": 58474,
+      "codepoint": 58479,
       "fontFamily": "PepiconsPop",
       "identifier": "swordsCircleOff"
     },
     "swords-off": {
-      "codepoint": 58475,
+      "codepoint": 58480,
       "fontFamily": "PepiconsPop",
       "identifier": "swordsOff"
     },
     "syringe": {
-      "codepoint": 58476,
+      "codepoint": 58481,
       "fontFamily": "PepiconsPop",
       "identifier": "syringe"
     },
     "syringe-circle": {
-      "codepoint": 58477,
+      "codepoint": 58482,
       "fontFamily": "PepiconsPop",
       "identifier": "syringeCircle"
     },
     "syringe-circle-filled": {
-      "codepoint": 58478,
+      "codepoint": 58483,
       "fontFamily": "PepiconsPop",
       "identifier": "syringeCircleFilled"
     },
     "syringe-circle-off": {
-      "codepoint": 58479,
+      "codepoint": 58484,
       "fontFamily": "PepiconsPop",
       "identifier": "syringeCircleOff"
     },
     "syringe-off": {
-      "codepoint": 58480,
+      "codepoint": 58485,
       "fontFamily": "PepiconsPop",
       "identifier": "syringeOff"
     },
     "t-shirt": {
-      "codepoint": 58481,
+      "codepoint": 58486,
       "fontFamily": "PepiconsPop",
       "identifier": "tShirt"
     },
     "t-shirt-circle": {
-      "codepoint": 58482,
+      "codepoint": 58487,
       "fontFamily": "PepiconsPop",
       "identifier": "tShirtCircle"
     },
     "t-shirt-circle-filled": {
-      "codepoint": 58483,
+      "codepoint": 58488,
       "fontFamily": "PepiconsPop",
       "identifier": "tShirtCircleFilled"
     },
     "t-shirt-circle-off": {
-      "codepoint": 58484,
+      "codepoint": 58489,
       "fontFamily": "PepiconsPop",
       "identifier": "tShirtCircleOff"
     },
     "t-shirt-off": {
-      "codepoint": 58485,
+      "codepoint": 58490,
       "fontFamily": "PepiconsPop",
       "identifier": "tShirtOff"
     },
     "tablet": {
-      "codepoint": 58486,
+      "codepoint": 58491,
       "fontFamily": "PepiconsPop",
       "identifier": "tablet"
     },
     "tablet-circle": {
-      "codepoint": 58487,
+      "codepoint": 58492,
       "fontFamily": "PepiconsPop",
       "identifier": "tabletCircle"
     },
     "tablet-circle-filled": {
-      "codepoint": 58488,
+      "codepoint": 58493,
       "fontFamily": "PepiconsPop",
       "identifier": "tabletCircleFilled"
     },
     "tablet-circle-off": {
-      "codepoint": 58489,
+      "codepoint": 58494,
       "fontFamily": "PepiconsPop",
       "identifier": "tabletCircleOff"
     },
     "tablet-off": {
-      "codepoint": 58490,
+      "codepoint": 58495,
       "fontFamily": "PepiconsPop",
       "identifier": "tabletOff"
     },
     "taxi": {
-      "codepoint": 58491,
+      "codepoint": 58496,
       "fontFamily": "PepiconsPop",
       "identifier": "taxi"
     },
     "taxi-circle": {
-      "codepoint": 58492,
+      "codepoint": 58497,
       "fontFamily": "PepiconsPop",
       "identifier": "taxiCircle"
     },
     "taxi-circle-filled": {
-      "codepoint": 58493,
+      "codepoint": 58498,
       "fontFamily": "PepiconsPop",
       "identifier": "taxiCircleFilled"
     },
     "taxi-circle-off": {
-      "codepoint": 58494,
+      "codepoint": 58499,
       "fontFamily": "PepiconsPop",
       "identifier": "taxiCircleOff"
     },
     "taxi-off": {
-      "codepoint": 58495,
+      "codepoint": 58500,
       "fontFamily": "PepiconsPop",
       "identifier": "taxiOff"
     },
     "television": {
-      "codepoint": 58496,
+      "codepoint": 58501,
       "fontFamily": "PepiconsPop",
       "identifier": "television"
     },
     "television-circle": {
-      "codepoint": 58497,
+      "codepoint": 58502,
       "fontFamily": "PepiconsPop",
       "identifier": "televisionCircle"
     },
     "television-circle-filled": {
-      "codepoint": 58498,
+      "codepoint": 58503,
       "fontFamily": "PepiconsPop",
       "identifier": "televisionCircleFilled"
     },
     "television-circle-off": {
-      "codepoint": 58499,
+      "codepoint": 58504,
       "fontFamily": "PepiconsPop",
       "identifier": "televisionCircleOff"
     },
     "television-off": {
-      "codepoint": 58500,
+      "codepoint": 58505,
       "fontFamily": "PepiconsPop",
       "identifier": "televisionOff"
     },
     "television-play": {
-      "codepoint": 58501,
+      "codepoint": 58506,
       "fontFamily": "PepiconsPop",
       "identifier": "televisionPlay"
     },
     "television-play-circle": {
-      "codepoint": 58502,
+      "codepoint": 58507,
       "fontFamily": "PepiconsPop",
       "identifier": "televisionPlayCircle"
     },
     "television-play-circle-filled": {
-      "codepoint": 58503,
+      "codepoint": 58508,
       "fontFamily": "PepiconsPop",
       "identifier": "televisionPlayCircleFilled"
     },
     "television-play-circle-off": {
-      "codepoint": 58504,
+      "codepoint": 58509,
       "fontFamily": "PepiconsPop",
       "identifier": "televisionPlayCircleOff"
     },
     "television-play-off": {
-      "codepoint": 58505,
+      "codepoint": 58510,
       "fontFamily": "PepiconsPop",
       "identifier": "televisionPlayOff"
     },
     "text-bubble": {
-      "codepoint": 58506,
+      "codepoint": 58511,
       "fontFamily": "PepiconsPop",
       "identifier": "textBubble"
     },
     "text-bubble-circle": {
-      "codepoint": 58507,
+      "codepoint": 58512,
       "fontFamily": "PepiconsPop",
       "identifier": "textBubbleCircle"
     },
     "text-bubble-circle-filled": {
-      "codepoint": 58508,
+      "codepoint": 58513,
       "fontFamily": "PepiconsPop",
       "identifier": "textBubbleCircleFilled"
     },
     "text-bubble-circle-off": {
-      "codepoint": 58509,
+      "codepoint": 58514,
       "fontFamily": "PepiconsPop",
       "identifier": "textBubbleCircleOff"
     },
     "text-bubble-off": {
-      "codepoint": 58510,
+      "codepoint": 58515,
       "fontFamily": "PepiconsPop",
       "identifier": "textBubbleOff"
     },
     "text-bubbles": {
-      "codepoint": 58511,
+      "codepoint": 58516,
       "fontFamily": "PepiconsPop",
       "identifier": "textBubbles"
     },
     "text-bubbles-circle": {
-      "codepoint": 58512,
+      "codepoint": 58517,
       "fontFamily": "PepiconsPop",
       "identifier": "textBubblesCircle"
     },
     "text-bubbles-circle-filled": {
-      "codepoint": 58513,
+      "codepoint": 58518,
       "fontFamily": "PepiconsPop",
       "identifier": "textBubblesCircleFilled"
     },
     "text-bubbles-circle-off": {
-      "codepoint": 58514,
+      "codepoint": 58519,
       "fontFamily": "PepiconsPop",
       "identifier": "textBubblesCircleOff"
     },
     "text-bubbles-off": {
-      "codepoint": 58515,
+      "codepoint": 58520,
       "fontFamily": "PepiconsPop",
       "identifier": "textBubblesOff"
     },
     "thumbs-down": {
-      "codepoint": 58516,
+      "codepoint": 58521,
       "fontFamily": "PepiconsPop",
       "identifier": "thumbsDown"
     },
     "thumbs-down-circle": {
-      "codepoint": 58517,
+      "codepoint": 58522,
       "fontFamily": "PepiconsPop",
       "identifier": "thumbsDownCircle"
     },
     "thumbs-down-circle-filled": {
-      "codepoint": 58518,
+      "codepoint": 58523,
       "fontFamily": "PepiconsPop",
       "identifier": "thumbsDownCircleFilled"
     },
     "thumbs-down-circle-off": {
-      "codepoint": 58519,
+      "codepoint": 58524,
       "fontFamily": "PepiconsPop",
       "identifier": "thumbsDownCircleOff"
     },
     "thumbs-down-off": {
-      "codepoint": 58520,
+      "codepoint": 58525,
       "fontFamily": "PepiconsPop",
       "identifier": "thumbsDownOff"
     },
     "thumbs-up": {
-      "codepoint": 58521,
+      "codepoint": 58526,
       "fontFamily": "PepiconsPop",
       "identifier": "thumbsUp"
     },
     "thumbs-up-circle": {
-      "codepoint": 58522,
+      "codepoint": 58527,
       "fontFamily": "PepiconsPop",
       "identifier": "thumbsUpCircle"
     },
     "thumbs-up-circle-filled": {
-      "codepoint": 58523,
+      "codepoint": 58528,
       "fontFamily": "PepiconsPop",
       "identifier": "thumbsUpCircleFilled"
     },
     "thumbs-up-circle-off": {
-      "codepoint": 58524,
+      "codepoint": 58529,
       "fontFamily": "PepiconsPop",
       "identifier": "thumbsUpCircleOff"
     },
     "thumbs-up-off": {
-      "codepoint": 58525,
+      "codepoint": 58530,
       "fontFamily": "PepiconsPop",
       "identifier": "thumbsUpOff"
     },
     "ticket": {
-      "codepoint": 58526,
+      "codepoint": 58531,
       "fontFamily": "PepiconsPop",
       "identifier": "ticket"
     },
     "ticket-circle": {
-      "codepoint": 58527,
+      "codepoint": 58532,
       "fontFamily": "PepiconsPop",
       "identifier": "ticketCircle"
     },
     "ticket-circle-filled": {
-      "codepoint": 58528,
+      "codepoint": 58533,
       "fontFamily": "PepiconsPop",
       "identifier": "ticketCircleFilled"
     },
     "ticket-circle-off": {
-      "codepoint": 58529,
+      "codepoint": 58534,
       "fontFamily": "PepiconsPop",
       "identifier": "ticketCircleOff"
     },
     "ticket-off": {
-      "codepoint": 58530,
+      "codepoint": 58535,
       "fontFamily": "PepiconsPop",
       "identifier": "ticketOff"
     },
     "times": {
-      "codepoint": 58531,
+      "codepoint": 58536,
       "fontFamily": "PepiconsPop",
       "identifier": "times"
     },
     "times-circle": {
-      "codepoint": 58532,
+      "codepoint": 58537,
       "fontFamily": "PepiconsPop",
       "identifier": "timesCircle"
     },
     "times-circle-filled": {
-      "codepoint": 58533,
+      "codepoint": 58538,
       "fontFamily": "PepiconsPop",
       "identifier": "timesCircleFilled"
     },
     "times-circle-off": {
-      "codepoint": 58534,
+      "codepoint": 58539,
       "fontFamily": "PepiconsPop",
       "identifier": "timesCircleOff"
     },
     "times-off": {
-      "codepoint": 58535,
+      "codepoint": 58540,
       "fontFamily": "PepiconsPop",
       "identifier": "timesOff"
     },
     "tool": {
-      "codepoint": 58536,
+      "codepoint": 58541,
       "fontFamily": "PepiconsPop",
       "identifier": "tool"
     },
     "train": {
-      "codepoint": 58537,
+      "codepoint": 58542,
       "fontFamily": "PepiconsPop",
       "identifier": "train"
     },
     "train-circle": {
-      "codepoint": 58538,
+      "codepoint": 58543,
       "fontFamily": "PepiconsPop",
       "identifier": "trainCircle"
     },
     "train-circle-filled": {
-      "codepoint": 58539,
+      "codepoint": 58544,
       "fontFamily": "PepiconsPop",
       "identifier": "trainCircleFilled"
     },
     "train-circle-off": {
-      "codepoint": 58540,
+      "codepoint": 58545,
       "fontFamily": "PepiconsPop",
       "identifier": "trainCircleOff"
     },
     "train-off": {
-      "codepoint": 58541,
+      "codepoint": 58546,
       "fontFamily": "PepiconsPop",
       "identifier": "trainOff"
     },
     "trash": {
-      "codepoint": 58542,
+      "codepoint": 58547,
       "fontFamily": "PepiconsPop",
       "identifier": "trash"
     },
     "trash-circle": {
-      "codepoint": 58543,
+      "codepoint": 58548,
       "fontFamily": "PepiconsPop",
       "identifier": "trashCircle"
     },
     "trash-circle-filled": {
-      "codepoint": 58544,
+      "codepoint": 58549,
       "fontFamily": "PepiconsPop",
       "identifier": "trashCircleFilled"
     },
     "trash-circle-off": {
-      "codepoint": 58545,
+      "codepoint": 58550,
       "fontFamily": "PepiconsPop",
       "identifier": "trashCircleOff"
     },
     "trash-off": {
-      "codepoint": 58546,
+      "codepoint": 58551,
       "fontFamily": "PepiconsPop",
       "identifier": "trashOff"
     },
     "tree": {
-      "codepoint": 58547,
+      "codepoint": 58552,
       "fontFamily": "PepiconsPop",
       "identifier": "tree"
     },
     "tree-circle": {
-      "codepoint": 58548,
+      "codepoint": 58553,
       "fontFamily": "PepiconsPop",
       "identifier": "treeCircle"
     },
     "tree-circle-filled": {
-      "codepoint": 58549,
+      "codepoint": 58554,
       "fontFamily": "PepiconsPop",
       "identifier": "treeCircleFilled"
     },
     "tree-circle-off": {
-      "codepoint": 58550,
+      "codepoint": 58555,
       "fontFamily": "PepiconsPop",
       "identifier": "treeCircleOff"
     },
     "tree-off": {
-      "codepoint": 58551,
+      "codepoint": 58556,
       "fontFamily": "PepiconsPop",
       "identifier": "treeOff"
     },
     "triangle-down": {
-      "codepoint": 58552,
+      "codepoint": 58557,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleDown"
     },
     "triangle-down-circle": {
-      "codepoint": 58553,
+      "codepoint": 58558,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleDownCircle"
     },
     "triangle-down-circle-filled": {
-      "codepoint": 58554,
+      "codepoint": 58559,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleDownCircleFilled"
     },
     "triangle-down-circle-off": {
-      "codepoint": 58555,
+      "codepoint": 58560,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleDownCircleOff"
     },
     "triangle-down-filled": {
-      "codepoint": 58556,
+      "codepoint": 58561,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleDownFilled"
     },
     "triangle-down-filled-circle": {
-      "codepoint": 58557,
+      "codepoint": 58562,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleDownFilledCircle"
     },
     "triangle-down-filled-circle-filled": {
-      "codepoint": 58558,
+      "codepoint": 58563,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleDownFilledCircleFilled"
     },
     "triangle-down-filled-circle-off": {
-      "codepoint": 58559,
+      "codepoint": 58564,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleDownFilledCircleOff"
     },
     "triangle-down-filled-off": {
-      "codepoint": 58560,
+      "codepoint": 58565,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleDownFilledOff"
     },
     "triangle-down-off": {
-      "codepoint": 58561,
+      "codepoint": 58566,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleDownOff"
     },
     "triangle-left": {
-      "codepoint": 58562,
+      "codepoint": 58567,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleLeft"
     },
     "triangle-left-circle": {
-      "codepoint": 58563,
+      "codepoint": 58568,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleLeftCircle"
     },
     "triangle-left-circle-filled": {
-      "codepoint": 58564,
+      "codepoint": 58569,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleLeftCircleFilled"
     },
     "triangle-left-circle-off": {
-      "codepoint": 58565,
+      "codepoint": 58570,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleLeftCircleOff"
     },
     "triangle-left-filled": {
-      "codepoint": 58566,
+      "codepoint": 58571,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleLeftFilled"
     },
     "triangle-left-filled-circle": {
-      "codepoint": 58567,
+      "codepoint": 58572,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleLeftFilledCircle"
     },
     "triangle-left-filled-circle-filled": {
-      "codepoint": 58568,
+      "codepoint": 58573,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleLeftFilledCircleFilled"
     },
     "triangle-left-filled-circle-off": {
-      "codepoint": 58569,
+      "codepoint": 58574,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleLeftFilledCircleOff"
     },
     "triangle-left-filled-off": {
-      "codepoint": 58570,
+      "codepoint": 58575,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleLeftFilledOff"
     },
     "triangle-left-off": {
-      "codepoint": 58571,
+      "codepoint": 58576,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleLeftOff"
     },
     "triangle-right": {
-      "codepoint": 58572,
+      "codepoint": 58577,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleRight"
     },
     "triangle-right-circle": {
-      "codepoint": 58573,
+      "codepoint": 58578,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleRightCircle"
     },
     "triangle-right-circle-filled": {
-      "codepoint": 58574,
+      "codepoint": 58579,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleRightCircleFilled"
     },
     "triangle-right-circle-off": {
-      "codepoint": 58575,
+      "codepoint": 58580,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleRightCircleOff"
     },
     "triangle-right-filled": {
-      "codepoint": 58576,
+      "codepoint": 58581,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleRightFilled"
     },
     "triangle-right-filled-circle": {
-      "codepoint": 58577,
+      "codepoint": 58582,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleRightFilledCircle"
     },
     "triangle-right-filled-circle-filled": {
-      "codepoint": 58578,
+      "codepoint": 58583,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleRightFilledCircleFilled"
     },
     "triangle-right-filled-circle-off": {
-      "codepoint": 58579,
+      "codepoint": 58584,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleRightFilledCircleOff"
     },
     "triangle-right-filled-off": {
-      "codepoint": 58580,
+      "codepoint": 58585,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleRightFilledOff"
     },
     "triangle-right-off": {
-      "codepoint": 58581,
+      "codepoint": 58586,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleRightOff"
     },
     "triangle-up": {
-      "codepoint": 58582,
+      "codepoint": 58587,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleUp"
     },
     "triangle-up-circle": {
-      "codepoint": 58583,
+      "codepoint": 58588,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleUpCircle"
     },
     "triangle-up-circle-filled": {
-      "codepoint": 58584,
+      "codepoint": 58589,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleUpCircleFilled"
     },
     "triangle-up-circle-off": {
-      "codepoint": 58585,
+      "codepoint": 58590,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleUpCircleOff"
     },
     "triangle-up-filled": {
-      "codepoint": 58586,
+      "codepoint": 58591,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleUpFilled"
     },
     "triangle-up-filled-circle": {
-      "codepoint": 58587,
+      "codepoint": 58592,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleUpFilledCircle"
     },
     "triangle-up-filled-circle-filled": {
-      "codepoint": 58588,
+      "codepoint": 58593,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleUpFilledCircleFilled"
     },
     "triangle-up-filled-circle-off": {
-      "codepoint": 58589,
+      "codepoint": 58594,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleUpFilledCircleOff"
     },
     "triangle-up-filled-off": {
-      "codepoint": 58590,
+      "codepoint": 58595,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleUpFilledOff"
     },
     "triangle-up-off": {
-      "codepoint": 58591,
+      "codepoint": 58596,
       "fontFamily": "PepiconsPop",
       "identifier": "triangleUpOff"
     },
     "trophy": {
-      "codepoint": 58592,
+      "codepoint": 58597,
       "fontFamily": "PepiconsPop",
       "identifier": "trophy"
     },
     "trophy-circle": {
-      "codepoint": 58593,
+      "codepoint": 58598,
       "fontFamily": "PepiconsPop",
       "identifier": "trophyCircle"
     },
     "trophy-circle-filled": {
-      "codepoint": 58594,
+      "codepoint": 58599,
       "fontFamily": "PepiconsPop",
       "identifier": "trophyCircleFilled"
     },
     "trophy-circle-off": {
-      "codepoint": 58595,
+      "codepoint": 58600,
       "fontFamily": "PepiconsPop",
       "identifier": "trophyCircleOff"
     },
     "trophy-off": {
-      "codepoint": 58596,
+      "codepoint": 58601,
       "fontFamily": "PepiconsPop",
       "identifier": "trophyOff"
     },
     "truck": {
-      "codepoint": 58597,
+      "codepoint": 58602,
       "fontFamily": "PepiconsPop",
       "identifier": "truck"
     },
     "truck-circle": {
-      "codepoint": 58598,
+      "codepoint": 58603,
       "fontFamily": "PepiconsPop",
       "identifier": "truckCircle"
     },
     "truck-circle-filled": {
-      "codepoint": 58599,
+      "codepoint": 58604,
       "fontFamily": "PepiconsPop",
       "identifier": "truckCircleFilled"
     },
     "truck-circle-off": {
-      "codepoint": 58600,
+      "codepoint": 58605,
       "fontFamily": "PepiconsPop",
       "identifier": "truckCircleOff"
     },
     "truck-off": {
-      "codepoint": 58601,
+      "codepoint": 58606,
       "fontFamily": "PepiconsPop",
       "identifier": "truckOff"
     },
     "umbrella": {
-      "codepoint": 58602,
+      "codepoint": 58607,
       "fontFamily": "PepiconsPop",
       "identifier": "umbrella"
     },
     "umbrella-circle": {
-      "codepoint": 58603,
+      "codepoint": 58608,
       "fontFamily": "PepiconsPop",
       "identifier": "umbrellaCircle"
     },
     "umbrella-circle-filled": {
-      "codepoint": 58604,
+      "codepoint": 58609,
       "fontFamily": "PepiconsPop",
       "identifier": "umbrellaCircleFilled"
     },
     "umbrella-circle-off": {
-      "codepoint": 58605,
+      "codepoint": 58610,
       "fontFamily": "PepiconsPop",
       "identifier": "umbrellaCircleOff"
     },
     "umbrella-off": {
-      "codepoint": 58606,
+      "codepoint": 58611,
       "fontFamily": "PepiconsPop",
       "identifier": "umbrellaOff"
     },
     "watch": {
-      "codepoint": 58607,
+      "codepoint": 58612,
       "fontFamily": "PepiconsPop",
       "identifier": "watch"
     },
     "watch-circle": {
-      "codepoint": 58608,
+      "codepoint": 58613,
       "fontFamily": "PepiconsPop",
       "identifier": "watchCircle"
     },
     "watch-circle-filled": {
-      "codepoint": 58609,
+      "codepoint": 58614,
       "fontFamily": "PepiconsPop",
       "identifier": "watchCircleFilled"
     },
     "watch-circle-off": {
-      "codepoint": 58610,
+      "codepoint": 58615,
       "fontFamily": "PepiconsPop",
       "identifier": "watchCircleOff"
     },
     "watch-off": {
-      "codepoint": 58611,
+      "codepoint": 58616,
       "fontFamily": "PepiconsPop",
       "identifier": "watchOff"
     },
     "water-drop": {
-      "codepoint": 58612,
+      "codepoint": 58617,
       "fontFamily": "PepiconsPop",
       "identifier": "waterDrop"
     },
     "water-drop-circle": {
-      "codepoint": 58613,
+      "codepoint": 58618,
       "fontFamily": "PepiconsPop",
       "identifier": "waterDropCircle"
     },
     "water-drop-circle-filled": {
-      "codepoint": 58614,
+      "codepoint": 58619,
       "fontFamily": "PepiconsPop",
       "identifier": "waterDropCircleFilled"
     },
     "water-drop-circle-off": {
-      "codepoint": 58615,
+      "codepoint": 58620,
       "fontFamily": "PepiconsPop",
       "identifier": "waterDropCircleOff"
     },
     "water-drop-off": {
-      "codepoint": 58616,
+      "codepoint": 58621,
       "fontFamily": "PepiconsPop",
       "identifier": "waterDropOff"
     },
     "wifi": {
-      "codepoint": 58617,
+      "codepoint": 58622,
       "fontFamily": "PepiconsPop",
       "identifier": "wifi"
     },
     "wifi-circle": {
-      "codepoint": 58618,
+      "codepoint": 58623,
       "fontFamily": "PepiconsPop",
       "identifier": "wifiCircle"
     },
     "wifi-circle-filled": {
-      "codepoint": 58619,
+      "codepoint": 58624,
       "fontFamily": "PepiconsPop",
       "identifier": "wifiCircleFilled"
     },
     "wifi-circle-off": {
-      "codepoint": 58620,
+      "codepoint": 58625,
       "fontFamily": "PepiconsPop",
       "identifier": "wifiCircleOff"
     },
     "wifi-off": {
-      "codepoint": 58621,
+      "codepoint": 58626,
       "fontFamily": "PepiconsPop",
       "identifier": "wifiOff"
     },
     "wrench": {
-      "codepoint": 58622,
+      "codepoint": 58627,
       "fontFamily": "PepiconsPop",
       "identifier": "wrench"
     },
     "wrench-circle": {
-      "codepoint": 58623,
+      "codepoint": 58628,
       "fontFamily": "PepiconsPop",
       "identifier": "wrenchCircle"
     },
     "wrench-circle-filled": {
-      "codepoint": 58624,
+      "codepoint": 58629,
       "fontFamily": "PepiconsPop",
       "identifier": "wrenchCircleFilled"
     },
     "wrench-circle-off": {
-      "codepoint": 58625,
+      "codepoint": 58630,
       "fontFamily": "PepiconsPop",
       "identifier": "wrenchCircleOff"
     },
     "wrench-off": {
-      "codepoint": 58626,
+      "codepoint": 58631,
       "fontFamily": "PepiconsPop",
       "identifier": "wrenchOff"
     },
     "yen": {
-      "codepoint": 58627,
+      "codepoint": 58632,
       "fontFamily": "PepiconsPop",
       "identifier": "yen"
     },
     "yen-circle": {
-      "codepoint": 58628,
+      "codepoint": 58633,
       "fontFamily": "PepiconsPop",
       "identifier": "yenCircle"
     },
     "yen-circle-filled": {
-      "codepoint": 58629,
+      "codepoint": 58634,
       "fontFamily": "PepiconsPop",
       "identifier": "yenCircleFilled"
     },
     "yen-circle-off": {
-      "codepoint": 58630,
+      "codepoint": 58635,
       "fontFamily": "PepiconsPop",
       "identifier": "yenCircleOff"
     },
     "yen-off": {
-      "codepoint": 58631,
+      "codepoint": 58636,
       "fontFamily": "PepiconsPop",
       "identifier": "yenOff"
     },
     "yuan": {
-      "codepoint": 58632,
+      "codepoint": 58637,
       "fontFamily": "PepiconsPop",
       "identifier": "yuan"
     },
     "yuan-circle": {
-      "codepoint": 58633,
+      "codepoint": 58638,
       "fontFamily": "PepiconsPop",
       "identifier": "yuanCircle"
     },
     "yuan-circle-filled": {
-      "codepoint": 58634,
+      "codepoint": 58639,
       "fontFamily": "PepiconsPop",
       "identifier": "yuanCircleFilled"
     },
     "yuan-circle-off": {
-      "codepoint": 58635,
+      "codepoint": 58640,
       "fontFamily": "PepiconsPop",
       "identifier": "yuanCircleOff"
     },
     "yuan-off": {
-      "codepoint": 58636,
+      "codepoint": 58641,
       "fontFamily": "PepiconsPop",
       "identifier": "yuanOff"
     }

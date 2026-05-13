@@ -12,6 +12,8 @@ export interface AuditEntry {
   applied: boolean;
   source: AuditSource;
   iconCount: number;
+  /** Number of duotone (two-layer) icons in this set. */
+  duotoneCount: number;
 }
 
 /**
@@ -57,10 +59,19 @@ export async function writeStrokeAudit(entries: AuditEntry[]): Promise<void> {
       `gravity-ui glyphs we initially shipped as blobs).`
   );
   lines.push('');
+  const duotoneSets = rows.filter((r) => r.duotoneCount > 0);
+  const totalDuotoneIcons = duotoneSets.reduce(
+    (s, r) => s + r.duotoneCount,
+    0
+  );
+
   lines.push(`- **Sets receiving raster pre-pass:** ${totalApplied} / ${rows.length}`);
   lines.push(`- **Of those, auto-detected:** ${totalAuto}`);
   lines.push(
     `- **Sets with ≥20% raster signal that were NOT processed:** ${totalMissed}`
+  );
+  lines.push(
+    `- **Sets containing duo-tone icons:** ${duotoneSets.length} (${totalDuotoneIcons.toLocaleString('en-US')} icons across them)`
   );
   if (totalMissed > 0) {
     lines.push('');
@@ -70,16 +81,47 @@ export async function writeStrokeAudit(entries: AuditEntry[]): Promise<void> {
     );
   }
   lines.push('');
+  // Duotone visual-check checklist — sets with the most duotone icons
+  // surface first; these are the ones to spot-check in the example app
+  // for layer alignment (primary on right + secondary on left etc.,
+  // which used to render mis-centred before the centerHorizontally=false
+  // fix in font_builder).
+  lines.push('## Duotone sets (manual visual check recommended)');
+  lines.push('');
+  if (duotoneSets.length === 0) {
+    lines.push('_None._');
+  } else {
+    lines.push(
+      'Open these sets in the example app and verify the primary / ' +
+        'secondary layers of a few icons sit in their expected positions ' +
+        '(e.g. `ic/baseline-signal-wifi-1-bar-lock` — lock on the right, ' +
+        'wifi bars on the left). Sorted by duotone-icon count.'
+    );
+    lines.push('');
+    lines.push('| Set | Prefix | Duotone icons |');
+    lines.push('|---|---|---:|');
+    const sortedDuo = [...duotoneSets].sort(
+      (a, b) => b.duotoneCount - a.duotoneCount
+    );
+    for (const r of sortedDuo) {
+      lines.push(
+        `| ${escapeMd(r.setName)} | \`${r.prefix}\` | ${r.duotoneCount.toLocaleString('en-US')} |`
+      );
+    }
+  }
+  lines.push('');
+
   lines.push('## All sets');
   lines.push('');
-  lines.push('| Set | Prefix | Stroke % | Evenodd % | Applied | Source |');
-  lines.push('|---|---|---:|---:|:---:|---|');
+  lines.push('| Set | Prefix | Stroke % | Evenodd % | Duotone | Applied | Source |');
+  lines.push('|---|---|---:|---:|---:|:---:|---|');
   for (const r of rows) {
     const pctStroke = (r.sig.strokeRatio * 100).toFixed(0) + '%';
     const pctEven = (r.sig.evenOddRatio * 100).toFixed(0) + '%';
+    const duotoneCell = r.duotoneCount > 0 ? r.duotoneCount.toLocaleString('en-US') : '—';
     const appliedBadge = r.applied ? '✓' : '—';
     lines.push(
-      `| ${escapeMd(r.setName)} | \`${r.prefix}\` | ${pctStroke} | ${pctEven} | ${appliedBadge} | ${r.source} |`
+      `| ${escapeMd(r.setName)} | \`${r.prefix}\` | ${pctStroke} | ${pctEven} | ${duotoneCell} | ${appliedBadge} | ${r.source} |`
     );
   }
   lines.push('');

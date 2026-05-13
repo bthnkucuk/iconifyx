@@ -14,6 +14,8 @@ dependencies:
     path: ../../packages/iconifyx_core
   iconifyx_lucide:
     path: ../../packages/iconifyx_lucide
+  iconifyx_ic:
+    path: ../../packages/iconifyx_ic
   iconifyx_ph:
     path: ../../packages/iconifyx_ph
 

@@ -62,3547 +62,3547 @@
       "identifier": "addToQueue"
     },
     "adobe-xd": {
-      "codepoint": 58057,
+      "codepoint": 57351,
       "fontFamily": "Ci",
       "identifier": "adobeXd"
     },
     "airplay": {
-      "codepoint": 57351,
+      "codepoint": 57352,
       "fontFamily": "Ci",
       "identifier": "airplay"
     },
     "alarm": {
-      "codepoint": 57352,
+      "codepoint": 57353,
       "fontFamily": "Ci",
       "identifier": "alarm"
     },
     "alarm-add": {
-      "codepoint": 57353,
+      "codepoint": 57354,
       "fontFamily": "Ci",
       "identifier": "alarmAdd"
     },
     "app-store": {
-      "codepoint": 57354,
+      "codepoint": 57355,
       "fontFamily": "Ci",
       "identifier": "appStore"
     },
     "apple": {
-      "codepoint": 57355,
+      "codepoint": 57356,
       "fontFamily": "Ci",
       "identifier": "apple"
     },
     "archive": {
-      "codepoint": 57356,
+      "codepoint": 57357,
       "fontFamily": "Ci",
       "identifier": "archive"
     },
     "arrow-circle-down": {
-      "codepoint": 57357,
+      "codepoint": 57358,
       "fontFamily": "Ci",
       "identifier": "arrowCircleDown"
     },
     "arrow-circle-down-left": {
-      "codepoint": 57358,
+      "codepoint": 57359,
       "fontFamily": "Ci",
       "identifier": "arrowCircleDownLeft"
     },
     "arrow-circle-down-right": {
-      "codepoint": 57359,
+      "codepoint": 57360,
       "fontFamily": "Ci",
       "identifier": "arrowCircleDownRight"
     },
     "arrow-circle-left": {
-      "codepoint": 57360,
+      "codepoint": 57361,
       "fontFamily": "Ci",
       "identifier": "arrowCircleLeft"
     },
     "arrow-circle-right": {
-      "codepoint": 57361,
+      "codepoint": 57362,
       "fontFamily": "Ci",
       "identifier": "arrowCircleRight"
     },
     "arrow-circle-up": {
-      "codepoint": 57362,
+      "codepoint": 57363,
       "fontFamily": "Ci",
       "identifier": "arrowCircleUp"
     },
     "arrow-circle-up-left": {
-      "codepoint": 57363,
+      "codepoint": 57364,
       "fontFamily": "Ci",
       "identifier": "arrowCircleUpLeft"
     },
     "arrow-circle-up-right": {
-      "codepoint": 57364,
+      "codepoint": 57365,
       "fontFamily": "Ci",
       "identifier": "arrowCircleUpRight"
     },
     "arrow-down-left-lg": {
-      "codepoint": 57365,
+      "codepoint": 57366,
       "fontFamily": "Ci",
       "identifier": "arrowDownLeftLg"
     },
     "arrow-down-left-md": {
-      "codepoint": 57366,
+      "codepoint": 57367,
       "fontFamily": "Ci",
       "identifier": "arrowDownLeftMd"
     },
     "arrow-down-left-sm": {
-      "codepoint": 57367,
+      "codepoint": 57368,
       "fontFamily": "Ci",
       "identifier": "arrowDownLeftSm"
     },
     "arrow-down-lg": {
-      "codepoint": 57368,
+      "codepoint": 57369,
       "fontFamily": "Ci",
       "identifier": "arrowDownLg"
     },
     "arrow-down-md": {
-      "codepoint": 57369,
+      "codepoint": 57370,
       "fontFamily": "Ci",
       "identifier": "arrowDownMd"
     },
     "arrow-down-right-lg": {
-      "codepoint": 57370,
+      "codepoint": 57371,
       "fontFamily": "Ci",
       "identifier": "arrowDownRightLg"
     },
     "arrow-down-right-md": {
-      "codepoint": 57371,
+      "codepoint": 57372,
       "fontFamily": "Ci",
       "identifier": "arrowDownRightMd"
     },
     "arrow-down-right-sm": {
-      "codepoint": 57372,
+      "codepoint": 57373,
       "fontFamily": "Ci",
       "identifier": "arrowDownRightSm"
     },
     "arrow-down-sm": {
-      "codepoint": 57373,
+      "codepoint": 57374,
       "fontFamily": "Ci",
       "identifier": "arrowDownSm"
     },
     "arrow-down-up": {
-      "codepoint": 57374,
+      "codepoint": 57375,
       "fontFamily": "Ci",
       "identifier": "arrowDownUp"
     },
     "arrow-left-lg": {
-      "codepoint": 57375,
+      "codepoint": 57376,
       "fontFamily": "Ci",
       "identifier": "arrowLeftLg"
     },
     "arrow-left-md": {
-      "codepoint": 57376,
+      "codepoint": 57377,
       "fontFamily": "Ci",
       "identifier": "arrowLeftMd"
     },
     "arrow-left-right": {
-      "codepoint": 57377,
+      "codepoint": 57378,
       "fontFamily": "Ci",
       "identifier": "arrowLeftRight"
     },
     "arrow-left-sm": {
-      "codepoint": 57378,
+      "codepoint": 57379,
       "fontFamily": "Ci",
       "identifier": "arrowLeftSm"
     },
     "arrow-reload-02": {
-      "codepoint": 57379,
+      "codepoint": 57380,
       "fontFamily": "Ci",
       "identifier": "arrowReload02"
     },
     "arrow-right-lg": {
-      "codepoint": 57380,
+      "codepoint": 57381,
       "fontFamily": "Ci",
       "identifier": "arrowRightLg"
     },
     "arrow-right-md": {
-      "codepoint": 57381,
+      "codepoint": 57382,
       "fontFamily": "Ci",
       "identifier": "arrowRightMd"
     },
     "arrow-right-sm": {
-      "codepoint": 57382,
+      "codepoint": 57383,
       "fontFamily": "Ci",
       "identifier": "arrowRightSm"
     },
     "arrow-sub-down-left": {
-      "codepoint": 57383,
+      "codepoint": 57384,
       "fontFamily": "Ci",
       "identifier": "arrowSubDownLeft"
     },
     "arrow-sub-down-right": {
-      "codepoint": 57384,
+      "codepoint": 57385,
       "fontFamily": "Ci",
       "identifier": "arrowSubDownRight"
     },
     "arrow-sub-left-down": {
-      "codepoint": 57385,
+      "codepoint": 57386,
       "fontFamily": "Ci",
       "identifier": "arrowSubLeftDown"
     },
     "arrow-sub-left-up": {
-      "codepoint": 57386,
+      "codepoint": 57387,
       "fontFamily": "Ci",
       "identifier": "arrowSubLeftUp"
     },
     "arrow-sub-right-down": {
-      "codepoint": 57387,
+      "codepoint": 57388,
       "fontFamily": "Ci",
       "identifier": "arrowSubRightDown"
     },
     "arrow-sub-right-up": {
-      "codepoint": 57388,
+      "codepoint": 57389,
       "fontFamily": "Ci",
       "identifier": "arrowSubRightUp"
     },
     "arrow-sub-up-left": {
-      "codepoint": 57389,
+      "codepoint": 57390,
       "fontFamily": "Ci",
       "identifier": "arrowSubUpLeft"
     },
     "arrow-sub-up-right": {
-      "codepoint": 57390,
+      "codepoint": 57391,
       "fontFamily": "Ci",
       "identifier": "arrowSubUpRight"
     },
     "arrow-undo-down-left": {
-      "codepoint": 57391,
+      "codepoint": 57392,
       "fontFamily": "Ci",
       "identifier": "arrowUndoDownLeft"
     },
     "arrow-undo-down-right": {
-      "codepoint": 57392,
+      "codepoint": 57393,
       "fontFamily": "Ci",
       "identifier": "arrowUndoDownRight"
     },
     "arrow-undo-up-left": {
-      "codepoint": 57393,
+      "codepoint": 57394,
       "fontFamily": "Ci",
       "identifier": "arrowUndoUpLeft"
     },
     "arrow-undo-up-right": {
-      "codepoint": 57394,
+      "codepoint": 57395,
       "fontFamily": "Ci",
       "identifier": "arrowUndoUpRight"
     },
     "arrow-up-left-lg": {
-      "codepoint": 57395,
+      "codepoint": 57396,
       "fontFamily": "Ci",
       "identifier": "arrowUpLeftLg"
     },
     "arrow-up-left-md": {
-      "codepoint": 57396,
+      "codepoint": 57397,
       "fontFamily": "Ci",
       "identifier": "arrowUpLeftMd"
     },
     "arrow-up-left-sm": {
-      "codepoint": 57397,
+      "codepoint": 57398,
       "fontFamily": "Ci",
       "identifier": "arrowUpLeftSm"
     },
     "arrow-up-lg": {
-      "codepoint": 57398,
+      "codepoint": 57399,
       "fontFamily": "Ci",
       "identifier": "arrowUpLg"
     },
     "arrow-up-md": {
-      "codepoint": 57399,
+      "codepoint": 57400,
       "fontFamily": "Ci",
       "identifier": "arrowUpMd"
     },
     "arrow-up-right-lg": {
-      "codepoint": 57400,
+      "codepoint": 57401,
       "fontFamily": "Ci",
       "identifier": "arrowUpRightLg"
     },
     "arrow-up-right-md": {
-      "codepoint": 57401,
+      "codepoint": 57402,
       "fontFamily": "Ci",
       "identifier": "arrowUpRightMd"
     },
     "arrow-up-right-sm": {
-      "codepoint": 57402,
+      "codepoint": 57403,
       "fontFamily": "Ci",
       "identifier": "arrowUpRightSm"
     },
     "arrow-up-sm": {
-      "codepoint": 57403,
+      "codepoint": 57404,
       "fontFamily": "Ci",
       "identifier": "arrowUpSm"
     },
     "arrows-reload-01": {
-      "codepoint": 57404,
+      "codepoint": 57405,
       "fontFamily": "Ci",
       "identifier": "arrowsReload01"
     },
     "bar-bottom": {
-      "codepoint": 57405,
+      "codepoint": 57406,
       "fontFamily": "Ci",
       "identifier": "barBottom"
     },
     "bar-chart": {
-      "codepoint": 57406,
+      "codepoint": 57407,
       "fontFamily": "Ci",
       "identifier": "barChart"
     },
     "bar-chart-alt": {
-      "codepoint": 57407,
+      "codepoint": 57408,
       "fontFamily": "Ci",
       "identifier": "barChartAlt"
     },
     "bar-chart-circle": {
-      "codepoint": 57408,
+      "codepoint": 57409,
       "fontFamily": "Ci",
       "identifier": "barChartCircle"
     },
     "bar-chart-horizontal": {
-      "codepoint": 57409,
+      "codepoint": 57410,
       "fontFamily": "Ci",
       "identifier": "barChartHorizontal"
     },
     "bar-chart-square": {
-      "codepoint": 57410,
+      "codepoint": 57411,
       "fontFamily": "Ci",
       "identifier": "barChartSquare"
     },
     "bar-left": {
-      "codepoint": 57411,
+      "codepoint": 57412,
       "fontFamily": "Ci",
       "identifier": "barLeft"
     },
     "bar-right": {
-      "codepoint": 57412,
+      "codepoint": 57413,
       "fontFamily": "Ci",
       "identifier": "barRight"
     },
     "bar-top": {
-      "codepoint": 57413,
+      "codepoint": 57414,
       "fontFamily": "Ci",
       "identifier": "barTop"
     },
     "barcode": {
-      "codepoint": 57414,
+      "codepoint": 57415,
       "fontFamily": "Ci",
       "identifier": "barcode"
     },
     "behance": {
-      "codepoint": 57415,
+      "codepoint": 57416,
       "fontFamily": "Ci",
       "identifier": "behance"
     },
     "bell": {
-      "codepoint": 57416,
+      "codepoint": 57417,
       "fontFamily": "Ci",
       "identifier": "bell"
     },
     "bell-add": {
-      "codepoint": 57417,
+      "codepoint": 57418,
       "fontFamily": "Ci",
       "identifier": "bellAdd"
     },
     "bell-close": {
-      "codepoint": 57418,
+      "codepoint": 57419,
       "fontFamily": "Ci",
       "identifier": "bellClose"
     },
     "bell-notification": {
-      "codepoint": 57419,
+      "codepoint": 57420,
       "fontFamily": "Ci",
       "identifier": "bellNotification"
     },
     "bell-off": {
-      "codepoint": 57420,
+      "codepoint": 57421,
       "fontFamily": "Ci",
       "identifier": "bellOff"
     },
     "bell-remove": {
-      "codepoint": 57421,
+      "codepoint": 57422,
       "fontFamily": "Ci",
       "identifier": "bellRemove"
     },
     "bell-ring": {
-      "codepoint": 57422,
+      "codepoint": 57423,
       "fontFamily": "Ci",
       "identifier": "bellRing"
     },
     "black-lives-matter": {
-      "codepoint": 57423,
+      "codepoint": 57424,
       "fontFamily": "Ci",
       "identifier": "blackLivesMatter"
     },
     "bold": {
-      "codepoint": 57424,
+      "codepoint": 57425,
       "fontFamily": "Ci",
       "identifier": "bold"
     },
     "book": {
-      "codepoint": 57425,
+      "codepoint": 57426,
       "fontFamily": "Ci",
       "identifier": "book"
     },
     "book-open": {
-      "codepoint": 57426,
+      "codepoint": 57427,
       "fontFamily": "Ci",
       "identifier": "bookOpen"
     },
     "bookmark": {
-      "codepoint": 57427,
+      "codepoint": 57428,
       "fontFamily": "Ci",
       "identifier": "bookmark"
     },
     "building": {
-      "codepoint": 57428,
+      "codepoint": 57429,
       "fontFamily": "Ci",
       "identifier": "building"
     },
     "building-01": {
-      "codepoint": 57429,
+      "codepoint": 57430,
       "fontFamily": "Ci",
       "identifier": "building01"
     },
     "building-02": {
-      "codepoint": 57430,
+      "codepoint": 57431,
       "fontFamily": "Ci",
       "identifier": "building02"
     },
     "building-03": {
-      "codepoint": 57431,
+      "codepoint": 57432,
       "fontFamily": "Ci",
       "identifier": "building03"
     },
     "building-04": {
-      "codepoint": 57432,
+      "codepoint": 57433,
       "fontFamily": "Ci",
       "identifier": "building04"
     },
     "bulb": {
-      "codepoint": 57433,
+      "codepoint": 57434,
       "fontFamily": "Ci",
       "identifier": "bulb"
     },
     "calendar": {
-      "codepoint": 57434,
+      "codepoint": 57435,
       "fontFamily": "Ci",
       "identifier": "calendar"
     },
     "calendar-add": {
-      "codepoint": 57435,
+      "codepoint": 57436,
       "fontFamily": "Ci",
       "identifier": "calendarAdd"
     },
     "calendar-calendar": {
-      "codepoint": 57436,
+      "codepoint": 57437,
       "fontFamily": "Ci",
       "identifier": "calendarCalendar"
     },
     "calendar-check": {
-      "codepoint": 57437,
+      "codepoint": 57438,
       "fontFamily": "Ci",
       "identifier": "calendarCheck"
     },
     "calendar-close": {
-      "codepoint": 57438,
+      "codepoint": 57439,
       "fontFamily": "Ci",
       "identifier": "calendarClose"
     },
     "calendar-days": {
-      "codepoint": 57439,
+      "codepoint": 57440,
       "fontFamily": "Ci",
       "identifier": "calendarDays"
     },
     "calendar-edit": {
-      "codepoint": 57440,
+      "codepoint": 57441,
       "fontFamily": "Ci",
       "identifier": "calendarEdit"
     },
     "calendar-event": {
-      "codepoint": 57441,
+      "codepoint": 57442,
       "fontFamily": "Ci",
       "identifier": "calendarEvent"
     },
     "calendar-minus": {
-      "codepoint": 57442,
+      "codepoint": 57443,
       "fontFamily": "Ci",
       "identifier": "calendarMinus"
     },
     "calendar-plus": {
-      "codepoint": 57443,
+      "codepoint": 57444,
       "fontFamily": "Ci",
       "identifier": "calendarPlus"
     },
     "calendar-remove": {
-      "codepoint": 57444,
+      "codepoint": 57445,
       "fontFamily": "Ci",
       "identifier": "calendarRemove"
     },
     "calendar-week": {
-      "codepoint": 57445,
+      "codepoint": 57446,
       "fontFamily": "Ci",
       "identifier": "calendarWeek"
     },
     "calendar-x": {
-      "codepoint": 57446,
+      "codepoint": 57447,
       "fontFamily": "Ci",
       "identifier": "calendarX"
     },
     "camera": {
-      "codepoint": 57447,
+      "codepoint": 57448,
       "fontFamily": "Ci",
       "identifier": "camera"
     },
     "car-auto": {
-      "codepoint": 57448,
+      "codepoint": 57449,
       "fontFamily": "Ci",
       "identifier": "carAuto"
     },
     "caret-circle-down": {
-      "codepoint": 57449,
+      "codepoint": 57450,
       "fontFamily": "Ci",
       "identifier": "caretCircleDown"
     },
     "caret-circle-left": {
-      "codepoint": 57450,
+      "codepoint": 57451,
       "fontFamily": "Ci",
       "identifier": "caretCircleLeft"
     },
     "caret-circle-right": {
-      "codepoint": 57451,
+      "codepoint": 57452,
       "fontFamily": "Ci",
       "identifier": "caretCircleRight"
     },
     "caret-circle-up": {
-      "codepoint": 57452,
+      "codepoint": 57453,
       "fontFamily": "Ci",
       "identifier": "caretCircleUp"
     },
     "caret-down": {
-      "codepoint": 57453,
+      "codepoint": 57454,
       "fontFamily": "Ci",
       "identifier": "caretDown"
     },
     "caret-down-md": {
-      "codepoint": 57454,
+      "codepoint": 57455,
       "fontFamily": "Ci",
       "identifier": "caretDownMd"
     },
     "caret-down-sm": {
-      "codepoint": 57455,
+      "codepoint": 57456,
       "fontFamily": "Ci",
       "identifier": "caretDownSm"
     },
     "caret-left": {
-      "codepoint": 57456,
+      "codepoint": 57457,
       "fontFamily": "Ci",
       "identifier": "caretLeft"
     },
     "caret-left-sm": {
-      "codepoint": 57457,
+      "codepoint": 57458,
       "fontFamily": "Ci",
       "identifier": "caretLeftSm"
     },
     "caret-right": {
-      "codepoint": 57458,
+      "codepoint": 57459,
       "fontFamily": "Ci",
       "identifier": "caretRight"
     },
     "caret-right-sm": {
-      "codepoint": 57459,
+      "codepoint": 57460,
       "fontFamily": "Ci",
       "identifier": "caretRightSm"
     },
     "caret-up": {
-      "codepoint": 57460,
+      "codepoint": 57461,
       "fontFamily": "Ci",
       "identifier": "caretUp"
     },
     "caret-up-md": {
-      "codepoint": 57461,
+      "codepoint": 57462,
       "fontFamily": "Ci",
       "identifier": "caretUpMd"
     },
     "caret-up-sm": {
-      "codepoint": 57462,
+      "codepoint": 57463,
       "fontFamily": "Ci",
       "identifier": "caretUpSm"
     },
     "cast": {
-      "codepoint": 57463,
+      "codepoint": 57464,
       "fontFamily": "Ci",
       "identifier": "cast"
     },
     "chart-bar-horizontal-01": {
-      "codepoint": 57464,
+      "codepoint": 57465,
       "fontFamily": "Ci",
       "identifier": "chartBarHorizontal01"
     },
     "chart-bar-vertical-01": {
-      "codepoint": 57465,
+      "codepoint": 57466,
       "fontFamily": "Ci",
       "identifier": "chartBarVertical01"
     },
     "chart-line": {
-      "codepoint": 57466,
+      "codepoint": 57467,
       "fontFamily": "Ci",
       "identifier": "chartLine"
     },
     "chart-pie": {
-      "codepoint": 57467,
+      "codepoint": 57468,
       "fontFamily": "Ci",
       "identifier": "chartPie"
     },
     "chat": {
-      "codepoint": 57468,
+      "codepoint": 57469,
       "fontFamily": "Ci",
       "identifier": "chat"
     },
     "chat-add": {
-      "codepoint": 57469,
+      "codepoint": 57470,
       "fontFamily": "Ci",
       "identifier": "chatAdd"
     },
     "chat-alt": {
-      "codepoint": 57470,
+      "codepoint": 57471,
       "fontFamily": "Ci",
       "identifier": "chatAlt"
     },
     "chat-check": {
-      "codepoint": 57471,
+      "codepoint": 57472,
       "fontFamily": "Ci",
       "identifier": "chatCheck"
     },
     "chat-circle": {
-      "codepoint": 57472,
+      "codepoint": 57473,
       "fontFamily": "Ci",
       "identifier": "chatCircle"
     },
     "chat-circle-add": {
-      "codepoint": 57473,
+      "codepoint": 57474,
       "fontFamily": "Ci",
       "identifier": "chatCircleAdd"
     },
     "chat-circle-check": {
-      "codepoint": 57474,
+      "codepoint": 57475,
       "fontFamily": "Ci",
       "identifier": "chatCircleCheck"
     },
     "chat-circle-close": {
-      "codepoint": 57475,
+      "codepoint": 57476,
       "fontFamily": "Ci",
       "identifier": "chatCircleClose"
     },
     "chat-circle-dots": {
-      "codepoint": 57476,
+      "codepoint": 57477,
       "fontFamily": "Ci",
       "identifier": "chatCircleDots"
     },
     "chat-circle-remove": {
-      "codepoint": 57477,
+      "codepoint": 57478,
       "fontFamily": "Ci",
       "identifier": "chatCircleRemove"
     },
     "chat-close": {
-      "codepoint": 57478,
+      "codepoint": 57479,
       "fontFamily": "Ci",
       "identifier": "chatClose"
     },
     "chat-conversation": {
-      "codepoint": 57479,
+      "codepoint": 57480,
       "fontFamily": "Ci",
       "identifier": "chatConversation"
     },
     "chat-conversation-circle": {
-      "codepoint": 57480,
+      "codepoint": 57481,
       "fontFamily": "Ci",
       "identifier": "chatConversationCircle"
     },
     "chat-dots": {
-      "codepoint": 57481,
+      "codepoint": 57482,
       "fontFamily": "Ci",
       "identifier": "chatDots"
     },
     "chat-remove": {
-      "codepoint": 57482,
+      "codepoint": 57483,
       "fontFamily": "Ci",
       "identifier": "chatRemove"
     },
     "check": {
-      "codepoint": 57483,
+      "codepoint": 57484,
       "fontFamily": "Ci",
       "identifier": "check"
     },
     "check-all": {
-      "codepoint": 57484,
+      "codepoint": 57485,
       "fontFamily": "Ci",
       "identifier": "checkAll"
     },
     "check-all-big": {
-      "codepoint": 57485,
+      "codepoint": 57486,
       "fontFamily": "Ci",
       "identifier": "checkAllBig"
     },
     "check-big": {
-      "codepoint": 57486,
+      "codepoint": 57487,
       "fontFamily": "Ci",
       "identifier": "checkBig"
     },
     "check-bold": {
-      "codepoint": 57487,
+      "codepoint": 57488,
       "fontFamily": "Ci",
       "identifier": "checkBold"
     },
     "checkbox": {
-      "codepoint": 57488,
+      "codepoint": 57489,
       "fontFamily": "Ci",
       "identifier": "checkbox"
     },
     "checkbox-check": {
-      "codepoint": 57489,
+      "codepoint": 57490,
       "fontFamily": "Ci",
       "identifier": "checkboxCheck"
     },
     "checkbox-checked": {
-      "codepoint": 57490,
+      "codepoint": 57491,
       "fontFamily": "Ci",
       "identifier": "checkboxChecked"
     },
     "checkbox-fill": {
-      "codepoint": 57491,
+      "codepoint": 57492,
       "fontFamily": "Ci",
       "identifier": "checkboxFill"
     },
     "checkbox-square": {
-      "codepoint": 57492,
+      "codepoint": 57493,
       "fontFamily": "Ci",
       "identifier": "checkboxSquare"
     },
     "checkbox-unchecked": {
-      "codepoint": 57493,
+      "codepoint": 57494,
       "fontFamily": "Ci",
       "identifier": "checkboxUnchecked"
     },
     "chevron-big-down": {
-      "codepoint": 57494,
+      "codepoint": 57495,
       "fontFamily": "Ci",
       "identifier": "chevronBigDown"
     },
     "chevron-big-left": {
-      "codepoint": 57495,
+      "codepoint": 57496,
       "fontFamily": "Ci",
       "identifier": "chevronBigLeft"
     },
     "chevron-big-right": {
-      "codepoint": 57496,
+      "codepoint": 57497,
       "fontFamily": "Ci",
       "identifier": "chevronBigRight"
     },
     "chevron-big-up": {
-      "codepoint": 57497,
+      "codepoint": 57498,
       "fontFamily": "Ci",
       "identifier": "chevronBigUp"
     },
     "chevron-down": {
-      "codepoint": 57498,
+      "codepoint": 57499,
       "fontFamily": "Ci",
       "identifier": "chevronDown"
     },
     "chevron-down-duo": {
-      "codepoint": 57499,
+      "codepoint": 57500,
       "fontFamily": "Ci",
       "identifier": "chevronDownDuo"
     },
     "chevron-duo-down": {
-      "codepoint": 57500,
+      "codepoint": 57501,
       "fontFamily": "Ci",
       "identifier": "chevronDuoDown"
     },
     "chevron-duo-left": {
-      "codepoint": 57501,
+      "codepoint": 57502,
       "fontFamily": "Ci",
       "identifier": "chevronDuoLeft"
     },
     "chevron-duo-right": {
-      "codepoint": 57502,
+      "codepoint": 57503,
       "fontFamily": "Ci",
       "identifier": "chevronDuoRight"
     },
     "chevron-duo-up": {
-      "codepoint": 57503,
+      "codepoint": 57504,
       "fontFamily": "Ci",
       "identifier": "chevronDuoUp"
     },
     "chevron-left": {
-      "codepoint": 57504,
+      "codepoint": 57505,
       "fontFamily": "Ci",
       "identifier": "chevronLeft"
     },
     "chevron-left-duo": {
-      "codepoint": 57505,
+      "codepoint": 57506,
       "fontFamily": "Ci",
       "identifier": "chevronLeftDuo"
     },
     "chevron-left-md": {
-      "codepoint": 57506,
+      "codepoint": 57507,
       "fontFamily": "Ci",
       "identifier": "chevronLeftMd"
     },
     "chevron-right": {
-      "codepoint": 57507,
+      "codepoint": 57508,
       "fontFamily": "Ci",
       "identifier": "chevronRight"
     },
     "chevron-right-duo": {
-      "codepoint": 57508,
+      "codepoint": 57509,
       "fontFamily": "Ci",
       "identifier": "chevronRightDuo"
     },
     "chevron-right-md": {
-      "codepoint": 57509,
+      "codepoint": 57510,
       "fontFamily": "Ci",
       "identifier": "chevronRightMd"
     },
     "chevron-up": {
-      "codepoint": 57510,
+      "codepoint": 57511,
       "fontFamily": "Ci",
       "identifier": "chevronUp"
     },
     "chevron-up-duo": {
-      "codepoint": 57511,
+      "codepoint": 57512,
       "fontFamily": "Ci",
       "identifier": "chevronUpDuo"
     },
     "chromecast": {
-      "codepoint": 57512,
+      "codepoint": 57513,
       "fontFamily": "Ci",
       "identifier": "chromecast"
     },
     "circle": {
-      "codepoint": 57513,
+      "codepoint": 57514,
       "fontFamily": "Ci",
       "identifier": "circle"
     },
     "circle-check": {
-      "codepoint": 57514,
+      "codepoint": 57515,
       "fontFamily": "Ci",
       "identifier": "circleCheck"
     },
     "circle-check-outline": {
-      "codepoint": 57515,
+      "codepoint": 57516,
       "fontFamily": "Ci",
       "identifier": "circleCheckOutline"
     },
     "circle-chevron-down": {
-      "codepoint": 57516,
+      "codepoint": 57517,
       "fontFamily": "Ci",
       "identifier": "circleChevronDown"
     },
     "circle-chevron-left": {
-      "codepoint": 57517,
+      "codepoint": 57518,
       "fontFamily": "Ci",
       "identifier": "circleChevronLeft"
     },
     "circle-chevron-right": {
-      "codepoint": 57518,
+      "codepoint": 57519,
       "fontFamily": "Ci",
       "identifier": "circleChevronRight"
     },
     "circle-chevron-up": {
-      "codepoint": 57519,
+      "codepoint": 57520,
       "fontFamily": "Ci",
       "identifier": "circleChevronUp"
     },
     "circle-down": {
-      "codepoint": 57520,
+      "codepoint": 57521,
       "fontFamily": "Ci",
       "identifier": "circleDown"
     },
     "circle-help": {
-      "codepoint": 57521,
+      "codepoint": 57522,
       "fontFamily": "Ci",
       "identifier": "circleHelp"
     },
     "circle-left": {
-      "codepoint": 57522,
+      "codepoint": 57523,
       "fontFamily": "Ci",
       "identifier": "circleLeft"
     },
     "circle-right": {
-      "codepoint": 57523,
+      "codepoint": 57524,
       "fontFamily": "Ci",
       "identifier": "circleRight"
     },
     "circle-up": {
-      "codepoint": 57524,
+      "codepoint": 57525,
       "fontFamily": "Ci",
       "identifier": "circleUp"
     },
     "circle-warning": {
-      "codepoint": 57525,
+      "codepoint": 57526,
       "fontFamily": "Ci",
       "identifier": "circleWarning"
     },
     "clock": {
-      "codepoint": 57526,
+      "codepoint": 57527,
       "fontFamily": "Ci",
       "identifier": "clock"
     },
     "close-big": {
-      "codepoint": 57527,
+      "codepoint": 57528,
       "fontFamily": "Ci",
       "identifier": "closeBig"
     },
     "close-circle": {
-      "codepoint": 57528,
+      "codepoint": 57529,
       "fontFamily": "Ci",
       "identifier": "closeCircle"
     },
     "close-lg": {
-      "codepoint": 57529,
+      "codepoint": 57530,
       "fontFamily": "Ci",
       "identifier": "closeLg"
     },
     "close-md": {
-      "codepoint": 57530,
+      "codepoint": 57531,
       "fontFamily": "Ci",
       "identifier": "closeMd"
     },
     "close-sm": {
-      "codepoint": 57531,
+      "codepoint": 57532,
       "fontFamily": "Ci",
       "identifier": "closeSm"
     },
     "close-small": {
-      "codepoint": 57532,
+      "codepoint": 57533,
       "fontFamily": "Ci",
       "identifier": "closeSmall"
     },
     "close-square": {
-      "codepoint": 57533,
+      "codepoint": 57534,
       "fontFamily": "Ci",
       "identifier": "closeSquare"
     },
     "cloud": {
-      "codepoint": 57534,
+      "codepoint": 57535,
       "fontFamily": "Ci",
       "identifier": "cloud"
     },
     "cloud-add": {
-      "codepoint": 57535,
+      "codepoint": 57536,
       "fontFamily": "Ci",
       "identifier": "cloudAdd"
     },
     "cloud-check": {
-      "codepoint": 57536,
+      "codepoint": 57537,
       "fontFamily": "Ci",
       "identifier": "cloudCheck"
     },
     "cloud-close": {
-      "codepoint": 57537,
+      "codepoint": 57538,
       "fontFamily": "Ci",
       "identifier": "cloudClose"
     },
     "cloud-down": {
-      "codepoint": 57538,
+      "codepoint": 57539,
       "fontFamily": "Ci",
       "identifier": "cloudDown"
     },
     "cloud-download": {
-      "codepoint": 57539,
+      "codepoint": 57540,
       "fontFamily": "Ci",
       "identifier": "cloudDownload"
     },
     "cloud-off": {
-      "codepoint": 57540,
+      "codepoint": 57541,
       "fontFamily": "Ci",
       "identifier": "cloudOff"
     },
     "cloud-outline": {
-      "codepoint": 57541,
+      "codepoint": 57542,
       "fontFamily": "Ci",
       "identifier": "cloudOutline"
     },
     "cloud-remove": {
-      "codepoint": 57542,
+      "codepoint": 57543,
       "fontFamily": "Ci",
       "identifier": "cloudRemove"
     },
     "cloud-up": {
-      "codepoint": 57543,
+      "codepoint": 57544,
       "fontFamily": "Ci",
       "identifier": "cloudUp"
     },
     "cloud-upload": {
-      "codepoint": 57544,
+      "codepoint": 57545,
       "fontFamily": "Ci",
       "identifier": "cloudUpload"
     },
     "code": {
-      "codepoint": 57545,
+      "codepoint": 57546,
       "fontFamily": "Ci",
       "identifier": "code"
     },
     "coffe-to-go": {
-      "codepoint": 57546,
+      "codepoint": 57547,
       "fontFamily": "Ci",
       "identifier": "coffeToGo"
     },
     "coffee": {
-      "codepoint": 57547,
+      "codepoint": 57548,
       "fontFamily": "Ci",
       "identifier": "coffee"
     },
     "coffee-togo": {
-      "codepoint": 57548,
+      "codepoint": 57549,
       "fontFamily": "Ci",
       "identifier": "coffeeTogo"
     },
     "color": {
-      "codepoint": 58058,
+      "codepoint": 57550,
       "fontFamily": "Ci",
       "identifier": "color"
     },
     "columns": {
-      "codepoint": 57549,
+      "codepoint": 57551,
       "fontFamily": "Ci",
       "identifier": "columns"
     },
     "combine-cells": {
-      "codepoint": 57550,
+      "codepoint": 57552,
       "fontFamily": "Ci",
       "identifier": "combineCells"
     },
     "command": {
-      "codepoint": 57551,
+      "codepoint": 57553,
       "fontFamily": "Ci",
       "identifier": "command"
     },
     "compass": {
-      "codepoint": 57552,
+      "codepoint": 57554,
       "fontFamily": "Ci",
       "identifier": "compass"
     },
     "confused": {
-      "codepoint": 57553,
+      "codepoint": 57555,
       "fontFamily": "Ci",
       "identifier": "confused"
     },
     "cookie": {
-      "codepoint": 57554,
+      "codepoint": 57556,
       "fontFamily": "Ci",
       "identifier": "cookie"
     },
     "coolicons": {
-      "codepoint": 57555,
+      "codepoint": 57557,
       "fontFamily": "Ci",
       "identifier": "coolicons"
     },
     "copy": {
-      "codepoint": 57556,
+      "codepoint": 57558,
       "fontFamily": "Ci",
       "identifier": "copy"
     },
     "credit-card": {
-      "codepoint": 57557,
+      "codepoint": 57559,
       "fontFamily": "Ci",
       "identifier": "creditCard"
     },
     "credit-card-01": {
-      "codepoint": 57558,
+      "codepoint": 57560,
       "fontFamily": "Ci",
       "identifier": "creditCard01"
     },
     "credit-card-02": {
-      "codepoint": 57559,
+      "codepoint": 57561,
       "fontFamily": "Ci",
       "identifier": "creditCard02"
     },
     "credit-card-alt": {
-      "codepoint": 57560,
+      "codepoint": 57562,
       "fontFamily": "Ci",
       "identifier": "creditCardAlt"
     },
     "crop": {
-      "codepoint": 57561,
+      "codepoint": 57563,
       "fontFamily": "Ci",
       "identifier": "crop"
     },
     "css3": {
-      "codepoint": 57562,
+      "codepoint": 57564,
       "fontFamily": "Ci",
       "identifier": "css3"
     },
     "cupcake": {
-      "codepoint": 57563,
+      "codepoint": 57565,
       "fontFamily": "Ci",
       "identifier": "cupcake"
     },
     "cylinder": {
-      "codepoint": 57564,
+      "codepoint": 57566,
       "fontFamily": "Ci",
       "identifier": "cylinder"
     },
     "dashboard": {
-      "codepoint": 57565,
+      "codepoint": 57567,
       "fontFamily": "Ci",
       "identifier": "dashboard"
     },
     "dashboard-02": {
-      "codepoint": 57566,
+      "codepoint": 57568,
       "fontFamily": "Ci",
       "identifier": "dashboard02"
     },
     "data": {
-      "codepoint": 57567,
+      "codepoint": 57569,
       "fontFamily": "Ci",
       "identifier": "data"
     },
     "delete-column": {
-      "codepoint": 57568,
+      "codepoint": 57570,
       "fontFamily": "Ci",
       "identifier": "deleteColumn"
     },
     "delete-row": {
-      "codepoint": 57569,
+      "codepoint": 57571,
       "fontFamily": "Ci",
       "identifier": "deleteRow"
     },
     "desktop": {
-      "codepoint": 57570,
+      "codepoint": 57572,
       "fontFamily": "Ci",
       "identifier": "desktop"
     },
     "desktop-tower": {
-      "codepoint": 57571,
+      "codepoint": 57573,
       "fontFamily": "Ci",
       "identifier": "desktopTower"
     },
     "devices": {
-      "codepoint": 57572,
+      "codepoint": 57574,
       "fontFamily": "Ci",
       "identifier": "devices"
     },
     "discord": {
-      "codepoint": 57573,
+      "codepoint": 57575,
       "fontFamily": "Ci",
       "identifier": "discord"
     },
     "dot-01-xs": {
-      "codepoint": 57574,
+      "codepoint": 57576,
       "fontFamily": "Ci",
       "identifier": "dot01Xs"
     },
     "dot-02-s": {
-      "codepoint": 57575,
+      "codepoint": 57577,
       "fontFamily": "Ci",
       "identifier": "dot02S"
     },
     "dot-03-m": {
-      "codepoint": 57576,
+      "codepoint": 57578,
       "fontFamily": "Ci",
       "identifier": "dot03M"
     },
     "dot-04-l": {
-      "codepoint": 57577,
+      "codepoint": 57579,
       "fontFamily": "Ci",
       "identifier": "dot04L"
     },
     "dot-05-xl": {
-      "codepoint": 57578,
+      "codepoint": 57580,
       "fontFamily": "Ci",
       "identifier": "dot05Xl"
     },
     "double-quotes-l": {
-      "codepoint": 57579,
+      "codepoint": 57581,
       "fontFamily": "Ci",
       "identifier": "doubleQuotesL"
     },
     "double-quotes-r": {
-      "codepoint": 57580,
+      "codepoint": 57582,
       "fontFamily": "Ci",
       "identifier": "doubleQuotesR"
     },
     "doughnut-chart": {
-      "codepoint": 57581,
+      "codepoint": 57583,
       "fontFamily": "Ci",
       "identifier": "doughnutChart"
     },
     "download": {
-      "codepoint": 57582,
+      "codepoint": 57584,
       "fontFamily": "Ci",
       "identifier": "download"
     },
     "download-done": {
-      "codepoint": 57583,
+      "codepoint": 57585,
       "fontFamily": "Ci",
       "identifier": "downloadDone"
     },
     "download-package": {
-      "codepoint": 57584,
+      "codepoint": 57586,
       "fontFamily": "Ci",
       "identifier": "downloadPackage"
     },
     "drag-horizontal": {
-      "codepoint": 57585,
+      "codepoint": 57587,
       "fontFamily": "Ci",
       "identifier": "dragHorizontal"
     },
     "drag-vertical": {
-      "codepoint": 57586,
+      "codepoint": 57588,
       "fontFamily": "Ci",
       "identifier": "dragVertical"
     },
     "dribbble": {
-      "codepoint": 57587,
+      "codepoint": 57589,
       "fontFamily": "Ci",
       "identifier": "dribbble"
     },
     "dropbox": {
-      "codepoint": 57588,
+      "codepoint": 57590,
       "fontFamily": "Ci",
       "identifier": "dropbox"
     },
     "dummy-circle": {
-      "codepoint": 57589,
+      "codepoint": 57591,
       "fontFamily": "Ci",
       "identifier": "dummyCircle"
     },
     "dummy-circle-small": {
-      "codepoint": 57590,
+      "codepoint": 57592,
       "fontFamily": "Ci",
       "identifier": "dummyCircleSmall"
     },
     "dummy-square": {
-      "codepoint": 57591,
+      "codepoint": 57593,
       "fontFamily": "Ci",
       "identifier": "dummySquare"
     },
     "dummy-square-small": {
-      "codepoint": 57592,
+      "codepoint": 57594,
       "fontFamily": "Ci",
       "identifier": "dummySquareSmall"
     },
     "edit": {
-      "codepoint": 57593,
+      "codepoint": 57595,
       "fontFamily": "Ci",
       "identifier": "edit"
     },
     "edit-pencil-01": {
-      "codepoint": 57594,
+      "codepoint": 57596,
       "fontFamily": "Ci",
       "identifier": "editPencil01"
     },
     "edit-pencil-02": {
-      "codepoint": 57595,
+      "codepoint": 57597,
       "fontFamily": "Ci",
       "identifier": "editPencil02"
     },
     "edit-pencil-line-01": {
-      "codepoint": 57596,
+      "codepoint": 57598,
       "fontFamily": "Ci",
       "identifier": "editPencilLine01"
     },
     "edit-pencil-line-02": {
-      "codepoint": 57597,
+      "codepoint": 57599,
       "fontFamily": "Ci",
       "identifier": "editPencilLine02"
     },
     "error": {
-      "codepoint": 57598,
+      "codepoint": 57600,
       "fontFamily": "Ci",
       "identifier": "error"
     },
     "error-outline": {
-      "codepoint": 57599,
+      "codepoint": 57601,
       "fontFamily": "Ci",
       "identifier": "errorOutline"
     },
     "exit": {
-      "codepoint": 57600,
+      "codepoint": 57602,
       "fontFamily": "Ci",
       "identifier": "exit"
     },
     "expand": {
-      "codepoint": 57601,
+      "codepoint": 57603,
       "fontFamily": "Ci",
       "identifier": "expand"
     },
     "external-link": {
-      "codepoint": 57602,
+      "codepoint": 57604,
       "fontFamily": "Ci",
       "identifier": "externalLink"
     },
     "facebook": {
-      "codepoint": 57603,
+      "codepoint": 57605,
       "fontFamily": "Ci",
       "identifier": "facebook"
     },
     "fast-forward": {
-      "codepoint": 57604,
+      "codepoint": 57606,
       "fontFamily": "Ci",
       "identifier": "fastForward"
     },
     "fast-rewind": {
-      "codepoint": 57605,
+      "codepoint": 57607,
       "fontFamily": "Ci",
       "identifier": "fastRewind"
     },
     "figma": {
-      "codepoint": 57606,
+      "codepoint": 57608,
       "fontFamily": "Ci",
       "identifier": "figma"
     },
     "file-add": {
-      "codepoint": 57607,
+      "codepoint": 57609,
       "fontFamily": "Ci",
       "identifier": "fileAdd"
     },
     "file-archive": {
-      "codepoint": 57608,
+      "codepoint": 57610,
       "fontFamily": "Ci",
       "identifier": "fileArchive"
     },
     "file-blank": {
-      "codepoint": 57609,
+      "codepoint": 57611,
       "fontFamily": "Ci",
       "identifier": "fileBlank"
     },
     "file-blank-fill": {
-      "codepoint": 57610,
+      "codepoint": 57612,
       "fontFamily": "Ci",
       "identifier": "fileBlankFill"
     },
     "file-blank-outline": {
-      "codepoint": 57611,
+      "codepoint": 57613,
       "fontFamily": "Ci",
       "identifier": "fileBlankOutline"
     },
     "file-check": {
-      "codepoint": 57612,
+      "codepoint": 57614,
       "fontFamily": "Ci",
       "identifier": "fileCheck"
     },
     "file-close": {
-      "codepoint": 57613,
+      "codepoint": 57615,
       "fontFamily": "Ci",
       "identifier": "fileClose"
     },
     "file-code": {
-      "codepoint": 57614,
+      "codepoint": 57616,
       "fontFamily": "Ci",
       "identifier": "fileCode"
     },
     "file-css": {
-      "codepoint": 57615,
+      "codepoint": 57617,
       "fontFamily": "Ci",
       "identifier": "fileCss"
     },
     "file-document": {
-      "codepoint": 57616,
+      "codepoint": 57618,
       "fontFamily": "Ci",
       "identifier": "fileDocument"
     },
     "file-download": {
-      "codepoint": 57617,
+      "codepoint": 57619,
       "fontFamily": "Ci",
       "identifier": "fileDownload"
     },
     "file-edit": {
-      "codepoint": 57618,
+      "codepoint": 57620,
       "fontFamily": "Ci",
       "identifier": "fileEdit"
     },
     "file-find": {
-      "codepoint": 57619,
+      "codepoint": 57621,
       "fontFamily": "Ci",
       "identifier": "fileFind"
     },
     "file-html": {
-      "codepoint": 57620,
+      "codepoint": 57622,
       "fontFamily": "Ci",
       "identifier": "fileHtml"
     },
     "file-image": {
-      "codepoint": 57621,
+      "codepoint": 57623,
       "fontFamily": "Ci",
       "identifier": "fileImage"
     },
     "file-jpg": {
-      "codepoint": 57622,
+      "codepoint": 57624,
       "fontFamily": "Ci",
       "identifier": "fileJpg"
     },
     "file-js": {
-      "codepoint": 57623,
+      "codepoint": 57625,
       "fontFamily": "Ci",
       "identifier": "fileJs"
     },
     "file-minus": {
-      "codepoint": 57624,
+      "codepoint": 57626,
       "fontFamily": "Ci",
       "identifier": "fileMinus"
     },
     "file-new": {
-      "codepoint": 57625,
+      "codepoint": 57627,
       "fontFamily": "Ci",
       "identifier": "fileNew"
     },
     "file-pdf": {
-      "codepoint": 57626,
+      "codepoint": 57628,
       "fontFamily": "Ci",
       "identifier": "filePdf"
     },
     "file-png": {
-      "codepoint": 57627,
+      "codepoint": 57629,
       "fontFamily": "Ci",
       "identifier": "filePng"
     },
     "file-remove": {
-      "codepoint": 57628,
+      "codepoint": 57630,
       "fontFamily": "Ci",
       "identifier": "fileRemove"
     },
     "file-search": {
-      "codepoint": 57629,
+      "codepoint": 57631,
       "fontFamily": "Ci",
       "identifier": "fileSearch"
     },
     "file-svg": {
-      "codepoint": 57630,
+      "codepoint": 57632,
       "fontFamily": "Ci",
       "identifier": "fileSvg"
     },
     "file-upload": {
-      "codepoint": 57631,
+      "codepoint": 57633,
       "fontFamily": "Ci",
       "identifier": "fileUpload"
     },
     "files": {
-      "codepoint": 57632,
+      "codepoint": 57634,
       "fontFamily": "Ci",
       "identifier": "files"
     },
     "filter": {
-      "codepoint": 57633,
+      "codepoint": 57635,
       "fontFamily": "Ci",
       "identifier": "filter"
     },
     "filter-off": {
-      "codepoint": 57634,
+      "codepoint": 57636,
       "fontFamily": "Ci",
       "identifier": "filterOff"
     },
     "filter-off-outline": {
-      "codepoint": 57635,
+      "codepoint": 57637,
       "fontFamily": "Ci",
       "identifier": "filterOffOutline"
     },
     "filter-outline": {
-      "codepoint": 57636,
+      "codepoint": 57638,
       "fontFamily": "Ci",
       "identifier": "filterOutline"
     },
     "first-aid": {
-      "codepoint": 57637,
+      "codepoint": 57639,
       "fontFamily": "Ci",
       "identifier": "firstAid"
     },
     "first-page": {
-      "codepoint": 57638,
+      "codepoint": 57640,
       "fontFamily": "Ci",
       "identifier": "firstPage"
     },
     "flag": {
-      "codepoint": 57639,
+      "codepoint": 57641,
       "fontFamily": "Ci",
       "identifier": "flag"
     },
     "flag-fill": {
-      "codepoint": 57640,
+      "codepoint": 57642,
       "fontFamily": "Ci",
       "identifier": "flagFill"
     },
     "flag-outline": {
-      "codepoint": 57641,
+      "codepoint": 57643,
       "fontFamily": "Ci",
       "identifier": "flagOutline"
     },
     "folder": {
-      "codepoint": 57642,
+      "codepoint": 57644,
       "fontFamily": "Ci",
       "identifier": "folder"
     },
     "folder-add": {
-      "codepoint": 57643,
+      "codepoint": 57645,
       "fontFamily": "Ci",
       "identifier": "folderAdd"
     },
     "folder-check": {
-      "codepoint": 57644,
+      "codepoint": 57646,
       "fontFamily": "Ci",
       "identifier": "folderCheck"
     },
     "folder-close": {
-      "codepoint": 57645,
+      "codepoint": 57647,
       "fontFamily": "Ci",
       "identifier": "folderClose"
     },
     "folder-code": {
-      "codepoint": 57646,
+      "codepoint": 57648,
       "fontFamily": "Ci",
       "identifier": "folderCode"
     },
     "folder-document": {
-      "codepoint": 57647,
+      "codepoint": 57649,
       "fontFamily": "Ci",
       "identifier": "folderDocument"
     },
     "folder-download": {
-      "codepoint": 57648,
+      "codepoint": 57650,
       "fontFamily": "Ci",
       "identifier": "folderDownload"
     },
     "folder-edit": {
-      "codepoint": 57649,
+      "codepoint": 57651,
       "fontFamily": "Ci",
       "identifier": "folderEdit"
     },
     "folder-minus": {
-      "codepoint": 57650,
+      "codepoint": 57652,
       "fontFamily": "Ci",
       "identifier": "folderMinus"
     },
     "folder-open": {
-      "codepoint": 57651,
+      "codepoint": 57653,
       "fontFamily": "Ci",
       "identifier": "folderOpen"
     },
     "folder-plus": {
-      "codepoint": 57652,
+      "codepoint": 57654,
       "fontFamily": "Ci",
       "identifier": "folderPlus"
     },
     "folder-remove": {
-      "codepoint": 57653,
+      "codepoint": 57655,
       "fontFamily": "Ci",
       "identifier": "folderRemove"
     },
     "folder-search": {
-      "codepoint": 57654,
+      "codepoint": 57656,
       "fontFamily": "Ci",
       "identifier": "folderSearch"
     },
     "folder-upload": {
-      "codepoint": 57655,
+      "codepoint": 57657,
       "fontFamily": "Ci",
       "identifier": "folderUpload"
     },
     "folders": {
-      "codepoint": 57656,
+      "codepoint": 57658,
       "fontFamily": "Ci",
       "identifier": "folders"
     },
     "font": {
-      "codepoint": 57657,
+      "codepoint": 57659,
       "fontFamily": "Ci",
       "identifier": "font"
     },
     "forward": {
-      "codepoint": 57658,
+      "codepoint": 57660,
       "fontFamily": "Ci",
       "identifier": "forward"
     },
     "gift": {
-      "codepoint": 57659,
+      "codepoint": 57661,
       "fontFamily": "Ci",
       "identifier": "gift"
     },
     "github": {
-      "codepoint": 57660,
+      "codepoint": 57662,
       "fontFamily": "Ci",
       "identifier": "github"
     },
     "globe": {
-      "codepoint": 57661,
+      "codepoint": 57663,
       "fontFamily": "Ci",
       "identifier": "globe"
     },
     "google": {
-      "codepoint": 57662,
+      "codepoint": 57664,
       "fontFamily": "Ci",
       "identifier": "google"
     },
     "grid": {
-      "codepoint": 57663,
+      "codepoint": 57665,
       "fontFamily": "Ci",
       "identifier": "grid"
     },
     "grid-big": {
-      "codepoint": 57664,
+      "codepoint": 57666,
       "fontFamily": "Ci",
       "identifier": "gridBig"
     },
     "grid-big-round": {
-      "codepoint": 57665,
+      "codepoint": 57667,
       "fontFamily": "Ci",
       "identifier": "gridBigRound"
     },
     "grid-horizontal": {
-      "codepoint": 57666,
+      "codepoint": 57668,
       "fontFamily": "Ci",
       "identifier": "gridHorizontal"
     },
     "grid-horizontal-round": {
-      "codepoint": 57667,
+      "codepoint": 57669,
       "fontFamily": "Ci",
       "identifier": "gridHorizontalRound"
     },
     "grid-round": {
-      "codepoint": 57668,
+      "codepoint": 57670,
       "fontFamily": "Ci",
       "identifier": "gridRound"
     },
     "grid-small": {
-      "codepoint": 57669,
+      "codepoint": 57671,
       "fontFamily": "Ci",
       "identifier": "gridSmall"
     },
     "grid-small-round": {
-      "codepoint": 57670,
+      "codepoint": 57672,
       "fontFamily": "Ci",
       "identifier": "gridSmallRound"
     },
     "grid-vertical": {
-      "codepoint": 57671,
+      "codepoint": 57673,
       "fontFamily": "Ci",
       "identifier": "gridVertical"
     },
     "grid-vertical-round": {
-      "codepoint": 57672,
+      "codepoint": 57674,
       "fontFamily": "Ci",
       "identifier": "gridVerticalRound"
     },
     "group": {
-      "codepoint": 57673,
+      "codepoint": 57675,
       "fontFamily": "Ci",
       "identifier": "group"
     },
     "group-alt": {
-      "codepoint": 57674,
+      "codepoint": 57676,
       "fontFamily": "Ci",
       "identifier": "groupAlt"
     },
     "hamburger": {
-      "codepoint": 57675,
+      "codepoint": 57677,
       "fontFamily": "Ci",
       "identifier": "hamburger"
     },
     "hamburger-lg": {
-      "codepoint": 57676,
+      "codepoint": 57678,
       "fontFamily": "Ci",
       "identifier": "hamburgerLg"
     },
     "hamburger-md": {
-      "codepoint": 57677,
+      "codepoint": 57679,
       "fontFamily": "Ci",
       "identifier": "hamburgerMd"
     },
     "handbag": {
-      "codepoint": 57678,
+      "codepoint": 57680,
       "fontFamily": "Ci",
       "identifier": "handbag"
     },
     "happy": {
-      "codepoint": 57679,
+      "codepoint": 57681,
       "fontFamily": "Ci",
       "identifier": "happy"
     },
     "heading": {
-      "codepoint": 57680,
+      "codepoint": 57682,
       "fontFamily": "Ci",
       "identifier": "heading"
     },
     "heading-h1": {
-      "codepoint": 57681,
+      "codepoint": 57683,
       "fontFamily": "Ci",
       "identifier": "headingH1"
     },
     "heading-h2": {
-      "codepoint": 57682,
+      "codepoint": 57684,
       "fontFamily": "Ci",
       "identifier": "headingH2"
     },
     "heading-h3": {
-      "codepoint": 57683,
+      "codepoint": 57685,
       "fontFamily": "Ci",
       "identifier": "headingH3"
     },
     "heading-h4": {
-      "codepoint": 57684,
+      "codepoint": 57686,
       "fontFamily": "Ci",
       "identifier": "headingH4"
     },
     "heading-h5": {
-      "codepoint": 57685,
+      "codepoint": 57687,
       "fontFamily": "Ci",
       "identifier": "headingH5"
     },
     "heading-h6": {
-      "codepoint": 57686,
+      "codepoint": 57688,
       "fontFamily": "Ci",
       "identifier": "headingH6"
     },
     "headphones": {
-      "codepoint": 57687,
+      "codepoint": 57689,
       "fontFamily": "Ci",
       "identifier": "headphones"
     },
     "heart-01": {
-      "codepoint": 57688,
+      "codepoint": 57690,
       "fontFamily": "Ci",
       "identifier": "heart01"
     },
     "heart-02": {
-      "codepoint": 57689,
+      "codepoint": 57691,
       "fontFamily": "Ci",
       "identifier": "heart02"
     },
     "heart-fill": {
-      "codepoint": 57690,
+      "codepoint": 57692,
       "fontFamily": "Ci",
       "identifier": "heartFill"
     },
     "heart-outline": {
-      "codepoint": 57691,
+      "codepoint": 57693,
       "fontFamily": "Ci",
       "identifier": "heartOutline"
     },
     "help": {
-      "codepoint": 57692,
+      "codepoint": 57694,
       "fontFamily": "Ci",
       "identifier": "help"
     },
     "help-circle": {
-      "codepoint": 57693,
+      "codepoint": 57695,
       "fontFamily": "Ci",
       "identifier": "helpCircle"
     },
     "help-circle-outline": {
-      "codepoint": 57694,
+      "codepoint": 57696,
       "fontFamily": "Ci",
       "identifier": "helpCircleOutline"
     },
     "help-questionmark": {
-      "codepoint": 57695,
+      "codepoint": 57697,
       "fontFamily": "Ci",
       "identifier": "helpQuestionmark"
     },
     "hide": {
-      "codepoint": 57696,
+      "codepoint": 57698,
       "fontFamily": "Ci",
       "identifier": "hide"
     },
     "home-alt-check": {
-      "codepoint": 57697,
+      "codepoint": 57699,
       "fontFamily": "Ci",
       "identifier": "homeAltCheck"
     },
     "home-alt-fill": {
-      "codepoint": 57698,
+      "codepoint": 57700,
       "fontFamily": "Ci",
       "identifier": "homeAltFill"
     },
     "home-alt-minus": {
-      "codepoint": 57699,
+      "codepoint": 57701,
       "fontFamily": "Ci",
       "identifier": "homeAltMinus"
     },
     "home-alt-outline": {
-      "codepoint": 57700,
+      "codepoint": 57702,
       "fontFamily": "Ci",
       "identifier": "homeAltOutline"
     },
     "home-alt-plus": {
-      "codepoint": 57701,
+      "codepoint": 57703,
       "fontFamily": "Ci",
       "identifier": "homeAltPlus"
     },
     "home-alt-x": {
-      "codepoint": 57702,
+      "codepoint": 57704,
       "fontFamily": "Ci",
       "identifier": "homeAltX"
     },
     "home-check": {
-      "codepoint": 57703,
+      "codepoint": 57705,
       "fontFamily": "Ci",
       "identifier": "homeCheck"
     },
     "home-fill": {
-      "codepoint": 57704,
+      "codepoint": 57706,
       "fontFamily": "Ci",
       "identifier": "homeFill"
     },
     "home-heart": {
-      "codepoint": 57705,
+      "codepoint": 57707,
       "fontFamily": "Ci",
       "identifier": "homeHeart"
     },
     "home-heart-1": {
-      "codepoint": 57706,
+      "codepoint": 57708,
       "fontFamily": "Ci",
       "identifier": "homeHeart1"
     },
     "home-minus": {
-      "codepoint": 57707,
+      "codepoint": 57709,
       "fontFamily": "Ci",
       "identifier": "homeMinus"
     },
     "home-outline": {
-      "codepoint": 57708,
+      "codepoint": 57710,
       "fontFamily": "Ci",
       "identifier": "homeOutline"
     },
     "home-plus": {
-      "codepoint": 57709,
+      "codepoint": 57711,
       "fontFamily": "Ci",
       "identifier": "homePlus"
     },
     "home-x": {
-      "codepoint": 57710,
+      "codepoint": 57712,
       "fontFamily": "Ci",
       "identifier": "homeX"
     },
     "house-01": {
-      "codepoint": 57711,
+      "codepoint": 57713,
       "fontFamily": "Ci",
       "identifier": "house01"
     },
     "house-02": {
-      "codepoint": 57712,
+      "codepoint": 57714,
       "fontFamily": "Ci",
       "identifier": "house02"
     },
     "house-03": {
-      "codepoint": 57713,
+      "codepoint": 57715,
       "fontFamily": "Ci",
       "identifier": "house03"
     },
     "house-add": {
-      "codepoint": 57714,
+      "codepoint": 57716,
       "fontFamily": "Ci",
       "identifier": "houseAdd"
     },
     "house-check": {
-      "codepoint": 57715,
+      "codepoint": 57717,
       "fontFamily": "Ci",
       "identifier": "houseCheck"
     },
     "house-close": {
-      "codepoint": 57716,
+      "codepoint": 57718,
       "fontFamily": "Ci",
       "identifier": "houseClose"
     },
     "house-remove": {
-      "codepoint": 57717,
+      "codepoint": 57719,
       "fontFamily": "Ci",
       "identifier": "houseRemove"
     },
     "html5": {
-      "codepoint": 57718,
+      "codepoint": 57720,
       "fontFamily": "Ci",
       "identifier": "html5"
     },
     "id-card": {
-      "codepoint": 57719,
+      "codepoint": 57721,
       "fontFamily": "Ci",
       "identifier": "idCard"
     },
     "image": {
-      "codepoint": 57720,
+      "codepoint": 57722,
       "fontFamily": "Ci",
       "identifier": "image"
     },
     "image-01": {
-      "codepoint": 57721,
+      "codepoint": 57723,
       "fontFamily": "Ci",
       "identifier": "image01"
     },
     "image-02": {
-      "codepoint": 57722,
+      "codepoint": 57724,
       "fontFamily": "Ci",
       "identifier": "image02"
     },
     "image-alt": {
-      "codepoint": 57723,
+      "codepoint": 57725,
       "fontFamily": "Ci",
       "identifier": "imageAlt"
     },
     "info": {
-      "codepoint": 57724,
+      "codepoint": 57726,
       "fontFamily": "Ci",
       "identifier": "info"
     },
     "info-circle": {
-      "codepoint": 57725,
+      "codepoint": 57727,
       "fontFamily": "Ci",
       "identifier": "infoCircle"
     },
     "info-circle-outline": {
-      "codepoint": 57726,
+      "codepoint": 57728,
       "fontFamily": "Ci",
       "identifier": "infoCircleOutline"
     },
     "info-square": {
-      "codepoint": 57727,
+      "codepoint": 57729,
       "fontFamily": "Ci",
       "identifier": "infoSquare"
     },
     "info-square-outline": {
-      "codepoint": 57728,
+      "codepoint": 57730,
       "fontFamily": "Ci",
       "identifier": "infoSquareOutline"
     },
     "instagram": {
-      "codepoint": 57729,
+      "codepoint": 57731,
       "fontFamily": "Ci",
       "identifier": "instagram"
     },
     "instance": {
-      "codepoint": 57730,
+      "codepoint": 57732,
       "fontFamily": "Ci",
       "identifier": "instance"
     },
     "invision": {
-      "codepoint": 57731,
+      "codepoint": 57733,
       "fontFamily": "Ci",
       "identifier": "invision"
     },
     "italic": {
-      "codepoint": 57732,
+      "codepoint": 57734,
       "fontFamily": "Ci",
       "identifier": "italic"
     },
     "javascript": {
-      "codepoint": 57733,
+      "codepoint": 57735,
       "fontFamily": "Ci",
       "identifier": "javascript"
     },
     "keyboard": {
-      "codepoint": 57734,
+      "codepoint": 57736,
       "fontFamily": "Ci",
       "identifier": "keyboard"
     },
     "label": {
-      "codepoint": 57735,
+      "codepoint": 57737,
       "fontFamily": "Ci",
       "identifier": "label"
     },
     "laptop": {
-      "codepoint": 57736,
+      "codepoint": 57738,
       "fontFamily": "Ci",
       "identifier": "laptop"
     },
     "last-page": {
-      "codepoint": 57737,
+      "codepoint": 57739,
       "fontFamily": "Ci",
       "identifier": "lastPage"
     },
     "layer": {
-      "codepoint": 57738,
+      "codepoint": 57740,
       "fontFamily": "Ci",
       "identifier": "layer"
     },
     "layers": {
-      "codepoint": 57739,
+      "codepoint": 57741,
       "fontFamily": "Ci",
       "identifier": "layers"
     },
     "layers-alt": {
-      "codepoint": 57740,
+      "codepoint": 57742,
       "fontFamily": "Ci",
       "identifier": "layersAlt"
     },
     "leaf": {
-      "codepoint": 57741,
+      "codepoint": 57743,
       "fontFamily": "Ci",
       "identifier": "leaf"
     },
     "line-break": {
-      "codepoint": 57742,
+      "codepoint": 57744,
       "fontFamily": "Ci",
       "identifier": "lineBreak"
     },
     "line-chart-down": {
-      "codepoint": 57743,
+      "codepoint": 57745,
       "fontFamily": "Ci",
       "identifier": "lineChartDown"
     },
     "line-chart-up": {
-      "codepoint": 57744,
+      "codepoint": 57746,
       "fontFamily": "Ci",
       "identifier": "lineChartUp"
     },
     "line-l": {
-      "codepoint": 57745,
+      "codepoint": 57747,
       "fontFamily": "Ci",
       "identifier": "lineL"
     },
     "line-m": {
-      "codepoint": 57746,
+      "codepoint": 57748,
       "fontFamily": "Ci",
       "identifier": "lineM"
     },
     "line-s": {
-      "codepoint": 57747,
+      "codepoint": 57749,
       "fontFamily": "Ci",
       "identifier": "lineS"
     },
     "line-sx": {
-      "codepoint": 57748,
+      "codepoint": 57750,
       "fontFamily": "Ci",
       "identifier": "lineSx"
     },
     "line-xl": {
-      "codepoint": 57749,
+      "codepoint": 57751,
       "fontFamily": "Ci",
       "identifier": "lineXl"
     },
     "link": {
-      "codepoint": 57750,
+      "codepoint": 57752,
       "fontFamily": "Ci",
       "identifier": "link"
     },
     "link-02": {
-      "codepoint": 57751,
+      "codepoint": 57753,
       "fontFamily": "Ci",
       "identifier": "link02"
     },
     "link-break": {
-      "codepoint": 57752,
+      "codepoint": 57754,
       "fontFamily": "Ci",
       "identifier": "linkBreak"
     },
     "link-horizontal": {
-      "codepoint": 57753,
+      "codepoint": 57755,
       "fontFamily": "Ci",
       "identifier": "linkHorizontal"
     },
     "link-horizontal-off": {
-      "codepoint": 57754,
+      "codepoint": 57756,
       "fontFamily": "Ci",
       "identifier": "linkHorizontalOff"
     },
     "link-vertical": {
-      "codepoint": 57755,
+      "codepoint": 57757,
       "fontFamily": "Ci",
       "identifier": "linkVertical"
     },
     "linkedin": {
-      "codepoint": 57756,
+      "codepoint": 57758,
       "fontFamily": "Ci",
       "identifier": "linkedin"
     },
     "linkpath": {
-      "codepoint": 57757,
+      "codepoint": 57759,
       "fontFamily": "Ci",
       "identifier": "linkpath"
     },
     "list-add": {
-      "codepoint": 57758,
+      "codepoint": 57760,
       "fontFamily": "Ci",
       "identifier": "listAdd"
     },
     "list-check": {
-      "codepoint": 57759,
+      "codepoint": 57761,
       "fontFamily": "Ci",
       "identifier": "listCheck"
     },
     "list-checklist": {
-      "codepoint": 57760,
+      "codepoint": 57762,
       "fontFamily": "Ci",
       "identifier": "listChecklist"
     },
     "list-checklist-alt": {
-      "codepoint": 57761,
+      "codepoint": 57763,
       "fontFamily": "Ci",
       "identifier": "listChecklistAlt"
     },
     "list-minus": {
-      "codepoint": 57762,
+      "codepoint": 57764,
       "fontFamily": "Ci",
       "identifier": "listMinus"
     },
     "list-ol": {
-      "codepoint": 57763,
+      "codepoint": 57765,
       "fontFamily": "Ci",
       "identifier": "listOl"
     },
     "list-ordered": {
-      "codepoint": 57764,
+      "codepoint": 57766,
       "fontFamily": "Ci",
       "identifier": "listOrdered"
     },
     "list-plus": {
-      "codepoint": 57765,
+      "codepoint": 57767,
       "fontFamily": "Ci",
       "identifier": "listPlus"
     },
     "list-remove": {
-      "codepoint": 57766,
+      "codepoint": 57768,
       "fontFamily": "Ci",
       "identifier": "listRemove"
     },
     "list-ul": {
-      "codepoint": 57767,
+      "codepoint": 57769,
       "fontFamily": "Ci",
       "identifier": "listUl"
     },
     "list-unordered": {
-      "codepoint": 57768,
+      "codepoint": 57770,
       "fontFamily": "Ci",
       "identifier": "listUnordered"
     },
     "loading": {
-      "codepoint": 57769,
+      "codepoint": 57771,
       "fontFamily": "Ci",
       "identifier": "loading"
     },
     "location": {
-      "codepoint": 57770,
+      "codepoint": 57772,
       "fontFamily": "Ci",
       "identifier": "location"
     },
     "location-outline": {
-      "codepoint": 57771,
+      "codepoint": 57773,
       "fontFamily": "Ci",
       "identifier": "locationOutline"
     },
     "lock": {
-      "codepoint": 57772,
+      "codepoint": 57774,
       "fontFamily": "Ci",
       "identifier": "lock"
     },
     "lock-open": {
-      "codepoint": 57773,
+      "codepoint": 57775,
       "fontFamily": "Ci",
       "identifier": "lockOpen"
     },
     "log-out": {
-      "codepoint": 57774,
+      "codepoint": 57776,
       "fontFamily": "Ci",
       "identifier": "logOut"
     },
     "long-bottom-down": {
-      "codepoint": 57775,
+      "codepoint": 57777,
       "fontFamily": "Ci",
       "identifier": "longBottomDown"
     },
     "long-bottom-up": {
-      "codepoint": 57776,
+      "codepoint": 57778,
       "fontFamily": "Ci",
       "identifier": "longBottomUp"
     },
     "long-down": {
-      "codepoint": 57777,
+      "codepoint": 57779,
       "fontFamily": "Ci",
       "identifier": "longDown"
     },
     "long-left": {
-      "codepoint": 57778,
+      "codepoint": 57780,
       "fontFamily": "Ci",
       "identifier": "longLeft"
     },
     "long-right": {
-      "codepoint": 57779,
+      "codepoint": 57781,
       "fontFamily": "Ci",
       "identifier": "longRight"
     },
     "long-up": {
-      "codepoint": 57780,
+      "codepoint": 57782,
       "fontFamily": "Ci",
       "identifier": "longUp"
     },
     "long-up-left": {
-      "codepoint": 57781,
+      "codepoint": 57783,
       "fontFamily": "Ci",
       "identifier": "longUpLeft"
     },
     "long-up-right": {
-      "codepoint": 57782,
+      "codepoint": 57784,
       "fontFamily": "Ci",
       "identifier": "longUpRight"
     },
     "magnifying-glass-minus": {
-      "codepoint": 57783,
+      "codepoint": 57785,
       "fontFamily": "Ci",
       "identifier": "magnifyingGlassMinus"
     },
     "magnifying-glass-plus": {
-      "codepoint": 57784,
+      "codepoint": 57786,
       "fontFamily": "Ci",
       "identifier": "magnifyingGlassPlus"
     },
     "mail": {
-      "codepoint": 57785,
+      "codepoint": 57787,
       "fontFamily": "Ci",
       "identifier": "mail"
     },
     "mail-open": {
-      "codepoint": 57786,
+      "codepoint": 57788,
       "fontFamily": "Ci",
       "identifier": "mailOpen"
     },
     "main-component": {
-      "codepoint": 57787,
+      "codepoint": 57789,
       "fontFamily": "Ci",
       "identifier": "mainComponent"
     },
     "map": {
-      "codepoint": 57788,
+      "codepoint": 57790,
       "fontFamily": "Ci",
       "identifier": "map"
     },
     "map-pin": {
-      "codepoint": 57789,
+      "codepoint": 57791,
       "fontFamily": "Ci",
       "identifier": "mapPin"
     },
     "mention": {
-      "codepoint": 57790,
+      "codepoint": 57792,
       "fontFamily": "Ci",
       "identifier": "mention"
     },
     "menu-alt-01": {
-      "codepoint": 57791,
+      "codepoint": 57793,
       "fontFamily": "Ci",
       "identifier": "menuAlt01"
     },
     "menu-alt-02": {
-      "codepoint": 57792,
+      "codepoint": 57794,
       "fontFamily": "Ci",
       "identifier": "menuAlt02"
     },
     "menu-alt-03": {
-      "codepoint": 57793,
+      "codepoint": 57795,
       "fontFamily": "Ci",
       "identifier": "menuAlt03"
     },
     "menu-alt-04": {
-      "codepoint": 57794,
+      "codepoint": 57796,
       "fontFamily": "Ci",
       "identifier": "menuAlt04"
     },
     "menu-alt-05": {
-      "codepoint": 57795,
+      "codepoint": 57797,
       "fontFamily": "Ci",
       "identifier": "menuAlt05"
     },
     "menu-duo": {
-      "codepoint": 57796,
+      "codepoint": 57798,
       "fontFamily": "Ci",
       "identifier": "menuDuo"
     },
     "menu-duo-lg": {
-      "codepoint": 57797,
+      "codepoint": 57799,
       "fontFamily": "Ci",
       "identifier": "menuDuoLg"
     },
     "menu-duo-md": {
-      "codepoint": 57798,
+      "codepoint": 57800,
       "fontFamily": "Ci",
       "identifier": "menuDuoMd"
     },
     "message": {
-      "codepoint": 57799,
+      "codepoint": 57801,
       "fontFamily": "Ci",
       "identifier": "message"
     },
     "message-check": {
-      "codepoint": 57800,
+      "codepoint": 57802,
       "fontFamily": "Ci",
       "identifier": "messageCheck"
     },
     "message-circle": {
-      "codepoint": 57801,
+      "codepoint": 57803,
       "fontFamily": "Ci",
       "identifier": "messageCircle"
     },
     "message-close": {
-      "codepoint": 57802,
+      "codepoint": 57804,
       "fontFamily": "Ci",
       "identifier": "messageClose"
     },
     "message-minus": {
-      "codepoint": 57803,
+      "codepoint": 57805,
       "fontFamily": "Ci",
       "identifier": "messageMinus"
     },
     "message-plus": {
-      "codepoint": 57804,
+      "codepoint": 57806,
       "fontFamily": "Ci",
       "identifier": "messagePlus"
     },
     "message-plus-alt": {
-      "codepoint": 57805,
+      "codepoint": 57807,
       "fontFamily": "Ci",
       "identifier": "messagePlusAlt"
     },
     "message-round": {
-      "codepoint": 57806,
+      "codepoint": 57808,
       "fontFamily": "Ci",
       "identifier": "messageRound"
     },
     "message-writing": {
-      "codepoint": 57807,
+      "codepoint": 57809,
       "fontFamily": "Ci",
       "identifier": "messageWriting"
     },
     "messenger": {
-      "codepoint": 57808,
+      "codepoint": 57810,
       "fontFamily": "Ci",
       "identifier": "messenger"
     },
     "minus": {
-      "codepoint": 57809,
+      "codepoint": 57811,
       "fontFamily": "Ci",
       "identifier": "minus"
     },
     "minus-circle": {
-      "codepoint": 57810,
+      "codepoint": 57812,
       "fontFamily": "Ci",
       "identifier": "minusCircle"
     },
     "minus-circle-outline": {
-      "codepoint": 57811,
+      "codepoint": 57813,
       "fontFamily": "Ci",
       "identifier": "minusCircleOutline"
     },
     "minus-square": {
-      "codepoint": 57812,
+      "codepoint": 57814,
       "fontFamily": "Ci",
       "identifier": "minusSquare"
     },
     "mobile": {
-      "codepoint": 57813,
+      "codepoint": 57815,
       "fontFamily": "Ci",
       "identifier": "mobile"
     },
     "mobile-alt": {
-      "codepoint": 57814,
+      "codepoint": 57816,
       "fontFamily": "Ci",
       "identifier": "mobileAlt"
     },
     "mobile-button": {
-      "codepoint": 57815,
+      "codepoint": 57817,
       "fontFamily": "Ci",
       "identifier": "mobileButton"
     },
     "monitor": {
-      "codepoint": 57816,
+      "codepoint": 57818,
       "fontFamily": "Ci",
       "identifier": "monitor"
     },
     "monitor-play": {
-      "codepoint": 57817,
+      "codepoint": 57819,
       "fontFamily": "Ci",
       "identifier": "monitorPlay"
     },
     "moon": {
-      "codepoint": 57818,
+      "codepoint": 57820,
       "fontFamily": "Ci",
       "identifier": "moon"
     },
     "more-grid-big": {
-      "codepoint": 57819,
+      "codepoint": 57821,
       "fontFamily": "Ci",
       "identifier": "moreGridBig"
     },
     "more-grid-small": {
-      "codepoint": 57820,
+      "codepoint": 57822,
       "fontFamily": "Ci",
       "identifier": "moreGridSmall"
     },
     "more-horizontal": {
-      "codepoint": 57821,
+      "codepoint": 57823,
       "fontFamily": "Ci",
       "identifier": "moreHorizontal"
     },
     "more-vertical": {
-      "codepoint": 57822,
+      "codepoint": 57824,
       "fontFamily": "Ci",
       "identifier": "moreVertical"
     },
     "mouse": {
-      "codepoint": 57823,
+      "codepoint": 57825,
       "fontFamily": "Ci",
       "identifier": "mouse"
     },
     "move": {
-      "codepoint": 57824,
+      "codepoint": 57826,
       "fontFamily": "Ci",
       "identifier": "move"
     },
     "move-horizontal": {
-      "codepoint": 57825,
+      "codepoint": 57827,
       "fontFamily": "Ci",
       "identifier": "moveHorizontal"
     },
     "move-vertical": {
-      "codepoint": 57826,
+      "codepoint": 57828,
       "fontFamily": "Ci",
       "identifier": "moveVertical"
     },
     "moving-desk": {
-      "codepoint": 57827,
+      "codepoint": 57829,
       "fontFamily": "Ci",
       "identifier": "movingDesk"
     },
     "navigation": {
-      "codepoint": 57828,
+      "codepoint": 57830,
       "fontFamily": "Ci",
       "identifier": "navigation"
     },
     "note": {
-      "codepoint": 57829,
+      "codepoint": 57831,
       "fontFamily": "Ci",
       "identifier": "note"
     },
     "note-edit": {
-      "codepoint": 57830,
+      "codepoint": 57832,
       "fontFamily": "Ci",
       "identifier": "noteEdit"
     },
     "note-search": {
-      "codepoint": 57831,
+      "codepoint": 57833,
       "fontFamily": "Ci",
       "identifier": "noteSearch"
     },
     "notebook": {
-      "codepoint": 57832,
+      "codepoint": 57834,
       "fontFamily": "Ci",
       "identifier": "notebook"
     },
     "notification": {
-      "codepoint": 57833,
+      "codepoint": 57835,
       "fontFamily": "Ci",
       "identifier": "notification"
     },
     "notification-active": {
-      "codepoint": 57834,
+      "codepoint": 57836,
       "fontFamily": "Ci",
       "identifier": "notificationActive"
     },
     "notification-deactivated": {
-      "codepoint": 57835,
+      "codepoint": 57837,
       "fontFamily": "Ci",
       "identifier": "notificationDeactivated"
     },
     "notification-dot": {
-      "codepoint": 57836,
+      "codepoint": 57838,
       "fontFamily": "Ci",
       "identifier": "notificationDot"
     },
     "notification-minus": {
-      "codepoint": 57837,
+      "codepoint": 57839,
       "fontFamily": "Ci",
       "identifier": "notificationMinus"
     },
     "notification-outline": {
-      "codepoint": 57838,
+      "codepoint": 57840,
       "fontFamily": "Ci",
       "identifier": "notificationOutline"
     },
     "notification-outline-dot": {
-      "codepoint": 57839,
+      "codepoint": 57841,
       "fontFamily": "Ci",
       "identifier": "notificationOutlineDot"
     },
     "notification-outline-minus": {
-      "codepoint": 57840,
+      "codepoint": 57842,
       "fontFamily": "Ci",
       "identifier": "notificationOutlineMinus"
     },
     "notification-outline-plus": {
-      "codepoint": 57841,
+      "codepoint": 57843,
       "fontFamily": "Ci",
       "identifier": "notificationOutlinePlus"
     },
     "notification-plus": {
-      "codepoint": 57842,
+      "codepoint": 57844,
       "fontFamily": "Ci",
       "identifier": "notificationPlus"
     },
     "octagon": {
-      "codepoint": 57843,
+      "codepoint": 57845,
       "fontFamily": "Ci",
       "identifier": "octagon"
     },
     "octagon-check": {
-      "codepoint": 57844,
+      "codepoint": 57846,
       "fontFamily": "Ci",
       "identifier": "octagonCheck"
     },
     "octagon-help": {
-      "codepoint": 57845,
+      "codepoint": 57847,
       "fontFamily": "Ci",
       "identifier": "octagonHelp"
     },
     "octagon-warning": {
-      "codepoint": 57846,
+      "codepoint": 57848,
       "fontFamily": "Ci",
       "identifier": "octagonWarning"
     },
     "off-close": {
-      "codepoint": 57847,
+      "codepoint": 57849,
       "fontFamily": "Ci",
       "identifier": "offClose"
     },
     "off-outline-close": {
-      "codepoint": 57848,
+      "codepoint": 57850,
       "fontFamily": "Ci",
       "identifier": "offOutlineClose"
     },
     "option": {
-      "codepoint": 57849,
+      "codepoint": 57851,
       "fontFamily": "Ci",
       "identifier": "option"
     },
     "paper-plane": {
-      "codepoint": 57850,
+      "codepoint": 57852,
       "fontFamily": "Ci",
       "identifier": "paperPlane"
     },
     "paperclip-attechment-horizontal": {
-      "codepoint": 57851,
+      "codepoint": 57853,
       "fontFamily": "Ci",
       "identifier": "paperclipAttechmentHorizontal"
     },
     "paperclip-attechment-tilt": {
-      "codepoint": 57852,
+      "codepoint": 57854,
       "fontFamily": "Ci",
       "identifier": "paperclipAttechmentTilt"
     },
     "paragraph": {
-      "codepoint": 57853,
+      "codepoint": 57855,
       "fontFamily": "Ci",
       "identifier": "paragraph"
     },
     "path": {
-      "codepoint": 57854,
+      "codepoint": 57856,
       "fontFamily": "Ci",
       "identifier": "path"
     },
     "pause": {
-      "codepoint": 57855,
+      "codepoint": 57857,
       "fontFamily": "Ci",
       "identifier": "pause"
     },
     "pause-circle": {
-      "codepoint": 57856,
+      "codepoint": 57858,
       "fontFamily": "Ci",
       "identifier": "pauseCircle"
     },
     "pause-circle-filled": {
-      "codepoint": 57857,
+      "codepoint": 57859,
       "fontFamily": "Ci",
       "identifier": "pauseCircleFilled"
     },
     "pause-circle-outline": {
-      "codepoint": 57858,
+      "codepoint": 57860,
       "fontFamily": "Ci",
       "identifier": "pauseCircleOutline"
     },
     "paypal": {
-      "codepoint": 58059,
+      "codepoint": 57861,
       "fontFamily": "Ci",
       "identifier": "paypal"
     },
     "phone": {
-      "codepoint": 57859,
+      "codepoint": 57862,
       "fontFamily": "Ci",
       "identifier": "phone"
     },
     "phone-outline": {
-      "codepoint": 57860,
+      "codepoint": 57863,
       "fontFamily": "Ci",
       "identifier": "phoneOutline"
     },
     "pie-chart-25": {
-      "codepoint": 57861,
+      "codepoint": 57864,
       "fontFamily": "Ci",
       "identifier": "pieChart25"
     },
     "pie-chart-50": {
-      "codepoint": 57862,
+      "codepoint": 57865,
       "fontFamily": "Ci",
       "identifier": "pieChart50"
     },
     "pie-chart-75": {
-      "codepoint": 57863,
+      "codepoint": 57866,
       "fontFamily": "Ci",
       "identifier": "pieChart75"
     },
     "pie-chart-outline": {
-      "codepoint": 57864,
+      "codepoint": 57867,
       "fontFamily": "Ci",
       "identifier": "pieChartOutline"
     },
     "pie-chart-outline-25": {
-      "codepoint": 57865,
+      "codepoint": 57868,
       "fontFamily": "Ci",
       "identifier": "pieChartOutline25"
     },
     "planet": {
-      "codepoint": 57866,
+      "codepoint": 57869,
       "fontFamily": "Ci",
       "identifier": "planet"
     },
     "play": {
-      "codepoint": 57867,
+      "codepoint": 57870,
       "fontFamily": "Ci",
       "identifier": "play"
     },
     "play-arrow": {
-      "codepoint": 57868,
+      "codepoint": 57871,
       "fontFamily": "Ci",
       "identifier": "playArrow"
     },
     "play-circle": {
-      "codepoint": 57869,
+      "codepoint": 57872,
       "fontFamily": "Ci",
       "identifier": "playCircle"
     },
     "play-circle-filled": {
-      "codepoint": 57870,
+      "codepoint": 57873,
       "fontFamily": "Ci",
       "identifier": "playCircleFilled"
     },
     "play-circle-outline": {
-      "codepoint": 57871,
+      "codepoint": 57874,
       "fontFamily": "Ci",
       "identifier": "playCircleOutline"
     },
     "play-store": {
-      "codepoint": 57872,
+      "codepoint": 57875,
       "fontFamily": "Ci",
       "identifier": "playStore"
     },
     "plus": {
-      "codepoint": 57873,
+      "codepoint": 57876,
       "fontFamily": "Ci",
       "identifier": "plus"
     },
     "plus-circle": {
-      "codepoint": 57874,
+      "codepoint": 57877,
       "fontFamily": "Ci",
       "identifier": "plusCircle"
     },
     "plus-circle-outline": {
-      "codepoint": 57875,
+      "codepoint": 57878,
       "fontFamily": "Ci",
       "identifier": "plusCircleOutline"
     },
     "plus-square": {
-      "codepoint": 57876,
+      "codepoint": 57879,
       "fontFamily": "Ci",
       "identifier": "plusSquare"
     },
     "printer": {
-      "codepoint": 57877,
+      "codepoint": 57880,
       "fontFamily": "Ci",
       "identifier": "printer"
     },
     "puzzle": {
-      "codepoint": 57878,
+      "codepoint": 57881,
       "fontFamily": "Ci",
       "identifier": "puzzle"
     },
     "qr-code": {
-      "codepoint": 57879,
+      "codepoint": 57882,
       "fontFamily": "Ci",
       "identifier": "qrCode"
     },
     "qr-code-1": {
-      "codepoint": 57880,
+      "codepoint": 57883,
       "fontFamily": "Ci",
       "identifier": "qrCode1"
     },
     "radio": {
-      "codepoint": 57881,
+      "codepoint": 57884,
       "fontFamily": "Ci",
       "identifier": "radio"
     },
     "radio-fill": {
-      "codepoint": 57882,
+      "codepoint": 57885,
       "fontFamily": "Ci",
       "identifier": "radioFill"
     },
     "radio-filled": {
-      "codepoint": 57883,
+      "codepoint": 57886,
       "fontFamily": "Ci",
       "identifier": "radioFilled"
     },
     "radio-unchecked": {
-      "codepoint": 57884,
+      "codepoint": 57887,
       "fontFamily": "Ci",
       "identifier": "radioUnchecked"
     },
     "rainbow": {
-      "codepoint": 57885,
+      "codepoint": 57888,
       "fontFamily": "Ci",
       "identifier": "rainbow"
     },
     "reddit": {
-      "codepoint": 57886,
+      "codepoint": 57889,
       "fontFamily": "Ci",
       "identifier": "reddit"
     },
     "redo": {
-      "codepoint": 57887,
+      "codepoint": 57890,
       "fontFamily": "Ci",
       "identifier": "redo"
     },
     "refresh": {
-      "codepoint": 57888,
+      "codepoint": 57891,
       "fontFamily": "Ci",
       "identifier": "refresh"
     },
     "refresh-02": {
-      "codepoint": 57889,
+      "codepoint": 57892,
       "fontFamily": "Ci",
       "identifier": "refresh02"
     },
     "remove-minus": {
-      "codepoint": 57890,
+      "codepoint": 57893,
       "fontFamily": "Ci",
       "identifier": "removeMinus"
     },
     "remove-minus-circle": {
-      "codepoint": 57891,
+      "codepoint": 57894,
       "fontFamily": "Ci",
       "identifier": "removeMinusCircle"
     },
     "repeat": {
-      "codepoint": 57892,
+      "codepoint": 57895,
       "fontFamily": "Ci",
       "identifier": "repeat"
     },
     "rewind": {
-      "codepoint": 57893,
+      "codepoint": 57896,
       "fontFamily": "Ci",
       "identifier": "rewind"
     },
     "rows": {
-      "codepoint": 57894,
+      "codepoint": 57897,
       "fontFamily": "Ci",
       "identifier": "rows"
     },
     "ruler": {
-      "codepoint": 57895,
+      "codepoint": 57898,
       "fontFamily": "Ci",
       "identifier": "ruler"
     },
     "sad": {
-      "codepoint": 57896,
+      "codepoint": 57899,
       "fontFamily": "Ci",
       "identifier": "sad"
     },
     "save": {
-      "codepoint": 57897,
+      "codepoint": 57900,
       "fontFamily": "Ci",
       "identifier": "save"
     },
     "search": {
-      "codepoint": 57898,
+      "codepoint": 57901,
       "fontFamily": "Ci",
       "identifier": "search"
     },
     "search-magnifying-glass": {
-      "codepoint": 57899,
+      "codepoint": 57902,
       "fontFamily": "Ci",
       "identifier": "searchMagnifyingGlass"
     },
     "search-small": {
-      "codepoint": 57900,
+      "codepoint": 57903,
       "fontFamily": "Ci",
       "identifier": "searchSmall"
     },
     "search-small-minus": {
-      "codepoint": 57901,
+      "codepoint": 57904,
       "fontFamily": "Ci",
       "identifier": "searchSmallMinus"
     },
     "search-small-plus": {
-      "codepoint": 57902,
+      "codepoint": 57905,
       "fontFamily": "Ci",
       "identifier": "searchSmallPlus"
     },
     "select-multiple": {
-      "codepoint": 57903,
+      "codepoint": 57906,
       "fontFamily": "Ci",
       "identifier": "selectMultiple"
     },
     "settings": {
-      "codepoint": 57904,
+      "codepoint": 57907,
       "fontFamily": "Ci",
       "identifier": "settings"
     },
     "settings-filled": {
-      "codepoint": 57905,
+      "codepoint": 57908,
       "fontFamily": "Ci",
       "identifier": "settingsFilled"
     },
     "settings-future": {
-      "codepoint": 57906,
+      "codepoint": 57909,
       "fontFamily": "Ci",
       "identifier": "settingsFuture"
     },
     "share": {
-      "codepoint": 57907,
+      "codepoint": 57910,
       "fontFamily": "Ci",
       "identifier": "share"
     },
     "share-android": {
-      "codepoint": 57908,
+      "codepoint": 57911,
       "fontFamily": "Ci",
       "identifier": "shareAndroid"
     },
     "share-ios-export": {
-      "codepoint": 57909,
+      "codepoint": 57912,
       "fontFamily": "Ci",
       "identifier": "shareIosExport"
     },
     "share-outline": {
-      "codepoint": 57910,
+      "codepoint": 57913,
       "fontFamily": "Ci",
       "identifier": "shareOutline"
     },
     "shield": {
-      "codepoint": 57911,
+      "codepoint": 57914,
       "fontFamily": "Ci",
       "identifier": "shield"
     },
     "shield-check": {
-      "codepoint": 57912,
+      "codepoint": 57915,
       "fontFamily": "Ci",
       "identifier": "shieldCheck"
     },
     "shield-warning": {
-      "codepoint": 57913,
+      "codepoint": 57916,
       "fontFamily": "Ci",
       "identifier": "shieldWarning"
     },
     "shopping-bag-01": {
-      "codepoint": 57914,
+      "codepoint": 57917,
       "fontFamily": "Ci",
       "identifier": "shoppingBag01"
     },
     "shopping-bag-02": {
-      "codepoint": 57915,
+      "codepoint": 57918,
       "fontFamily": "Ci",
       "identifier": "shoppingBag02"
     },
     "shopping-cart-01": {
-      "codepoint": 57916,
+      "codepoint": 57919,
       "fontFamily": "Ci",
       "identifier": "shoppingCart01"
     },
     "shopping-cart-02": {
-      "codepoint": 57917,
+      "codepoint": 57920,
       "fontFamily": "Ci",
       "identifier": "shoppingCart02"
     },
     "short-down": {
-      "codepoint": 57918,
+      "codepoint": 57921,
       "fontFamily": "Ci",
       "identifier": "shortDown"
     },
     "short-left": {
-      "codepoint": 57919,
+      "codepoint": 57922,
       "fontFamily": "Ci",
       "identifier": "shortLeft"
     },
     "short-right": {
-      "codepoint": 57920,
+      "codepoint": 57923,
       "fontFamily": "Ci",
       "identifier": "shortRight"
     },
     "short-up": {
-      "codepoint": 57921,
+      "codepoint": 57924,
       "fontFamily": "Ci",
       "identifier": "shortUp"
     },
     "show": {
-      "codepoint": 57922,
+      "codepoint": 57925,
       "fontFamily": "Ci",
       "identifier": "show"
     },
     "shrink": {
-      "codepoint": 57923,
+      "codepoint": 57926,
       "fontFamily": "Ci",
       "identifier": "shrink"
     },
     "shuffle": {
-      "codepoint": 57924,
+      "codepoint": 57927,
       "fontFamily": "Ci",
       "identifier": "shuffle"
     },
     "single-quotes-l": {
-      "codepoint": 57925,
+      "codepoint": 57928,
       "fontFamily": "Ci",
       "identifier": "singleQuotesL"
     },
     "single-quotes-r": {
-      "codepoint": 57926,
+      "codepoint": 57929,
       "fontFamily": "Ci",
       "identifier": "singleQuotesR"
     },
     "sketch": {
-      "codepoint": 57927,
+      "codepoint": 57930,
       "fontFamily": "Ci",
       "identifier": "sketch"
     },
     "skip-back": {
-      "codepoint": 57928,
+      "codepoint": 57931,
       "fontFamily": "Ci",
       "identifier": "skipBack"
     },
     "skip-forward": {
-      "codepoint": 57929,
+      "codepoint": 57932,
       "fontFamily": "Ci",
       "identifier": "skipForward"
     },
     "skip-next": {
-      "codepoint": 57930,
+      "codepoint": 57933,
       "fontFamily": "Ci",
       "identifier": "skipNext"
     },
     "skip-previous": {
-      "codepoint": 57931,
+      "codepoint": 57934,
       "fontFamily": "Ci",
       "identifier": "skipPrevious"
     },
     "slack": {
-      "codepoint": 57932,
+      "codepoint": 57935,
       "fontFamily": "Ci",
       "identifier": "slack"
     },
     "slider-01": {
-      "codepoint": 57933,
+      "codepoint": 57936,
       "fontFamily": "Ci",
       "identifier": "slider01"
     },
     "slider-02": {
-      "codepoint": 57934,
+      "codepoint": 57937,
       "fontFamily": "Ci",
       "identifier": "slider02"
     },
     "slider-03": {
-      "codepoint": 57935,
+      "codepoint": 57938,
       "fontFamily": "Ci",
       "identifier": "slider03"
     },
     "small-long-down": {
-      "codepoint": 57936,
+      "codepoint": 57939,
       "fontFamily": "Ci",
       "identifier": "smallLongDown"
     },
     "small-long-left": {
-      "codepoint": 57937,
+      "codepoint": 57940,
       "fontFamily": "Ci",
       "identifier": "smallLongLeft"
     },
     "small-long-right": {
-      "codepoint": 57938,
+      "codepoint": 57941,
       "fontFamily": "Ci",
       "identifier": "smallLongRight"
     },
     "small-long-up": {
-      "codepoint": 57939,
+      "codepoint": 57942,
       "fontFamily": "Ci",
       "identifier": "smallLongUp"
     },
     "snapchat": {
-      "codepoint": 57940,
+      "codepoint": 57943,
       "fontFamily": "Ci",
       "identifier": "snapchat"
     },
     "sort-ascending": {
-      "codepoint": 57941,
+      "codepoint": 57944,
       "fontFamily": "Ci",
       "identifier": "sortAscending"
     },
     "sort-descending": {
-      "codepoint": 57942,
+      "codepoint": 57945,
       "fontFamily": "Ci",
       "identifier": "sortDescending"
     },
     "spectrum": {
-      "codepoint": 57943,
+      "codepoint": 57946,
       "fontFamily": "Ci",
       "identifier": "spectrum"
     },
     "spotify": {
-      "codepoint": 57944,
+      "codepoint": 57947,
       "fontFamily": "Ci",
       "identifier": "spotify"
     },
     "square": {
-      "codepoint": 57945,
+      "codepoint": 57948,
       "fontFamily": "Ci",
       "identifier": "square"
     },
     "square-check": {
-      "codepoint": 57946,
+      "codepoint": 57949,
       "fontFamily": "Ci",
       "identifier": "squareCheck"
     },
     "square-help": {
-      "codepoint": 57947,
+      "codepoint": 57950,
       "fontFamily": "Ci",
       "identifier": "squareHelp"
     },
     "square-warning": {
-      "codepoint": 57948,
+      "codepoint": 57951,
       "fontFamily": "Ci",
       "identifier": "squareWarning"
     },
     "stack-overflow": {
-      "codepoint": 57949,
+      "codepoint": 57952,
       "fontFamily": "Ci",
       "identifier": "stackOverflow"
     },
     "star": {
-      "codepoint": 57950,
+      "codepoint": 57953,
       "fontFamily": "Ci",
       "identifier": "star"
     },
     "stop": {
-      "codepoint": 57951,
+      "codepoint": 57954,
       "fontFamily": "Ci",
       "identifier": "stop"
     },
     "stop-circle": {
-      "codepoint": 57952,
+      "codepoint": 57955,
       "fontFamily": "Ci",
       "identifier": "stopCircle"
     },
     "stop-sign": {
-      "codepoint": 57953,
+      "codepoint": 57956,
       "fontFamily": "Ci",
       "identifier": "stopSign"
     },
     "stopwatch": {
-      "codepoint": 57954,
+      "codepoint": 57957,
       "fontFamily": "Ci",
       "identifier": "stopwatch"
     },
     "strikethrough": {
-      "codepoint": 57955,
+      "codepoint": 57958,
       "fontFamily": "Ci",
       "identifier": "strikethrough"
     },
     "sub-left": {
-      "codepoint": 57956,
+      "codepoint": 57959,
       "fontFamily": "Ci",
       "identifier": "subLeft"
     },
     "sub-right": {
-      "codepoint": 57957,
+      "codepoint": 57960,
       "fontFamily": "Ci",
       "identifier": "subRight"
     },
     "suitcase": {
-      "codepoint": 57958,
+      "codepoint": 57961,
       "fontFamily": "Ci",
       "identifier": "suitcase"
     },
     "sun": {
-      "codepoint": 57959,
+      "codepoint": 57962,
       "fontFamily": "Ci",
       "identifier": "sun"
     },
     "swatches-palette": {
-      "codepoint": 57960,
+      "codepoint": 57963,
       "fontFamily": "Ci",
       "identifier": "swatchesPalette"
     },
     "swicht-left": {
-      "codepoint": 57961,
+      "codepoint": 57964,
       "fontFamily": "Ci",
       "identifier": "swichtLeft"
     },
     "swicht-right": {
-      "codepoint": 57962,
+      "codepoint": 57965,
       "fontFamily": "Ci",
       "identifier": "swichtRight"
     },
     "table": {
-      "codepoint": 57963,
+      "codepoint": 57966,
       "fontFamily": "Ci",
       "identifier": "table"
     },
     "table-add": {
-      "codepoint": 57964,
+      "codepoint": 57967,
       "fontFamily": "Ci",
       "identifier": "tableAdd"
     },
     "table-delete": {
-      "codepoint": 57965,
+      "codepoint": 57968,
       "fontFamily": "Ci",
       "identifier": "tableDelete"
     },
     "table-remove": {
-      "codepoint": 57966,
+      "codepoint": 57969,
       "fontFamily": "Ci",
       "identifier": "tableRemove"
     },
     "tablet": {
-      "codepoint": 57967,
+      "codepoint": 57970,
       "fontFamily": "Ci",
       "identifier": "tablet"
     },
     "tablet-button": {
-      "codepoint": 57968,
+      "codepoint": 57971,
       "fontFamily": "Ci",
       "identifier": "tabletButton"
     },
     "tag": {
-      "codepoint": 57969,
+      "codepoint": 57972,
       "fontFamily": "Ci",
       "identifier": "tag"
     },
     "tag-outline": {
-      "codepoint": 57970,
+      "codepoint": 57973,
       "fontFamily": "Ci",
       "identifier": "tagOutline"
     },
     "tennis": {
-      "codepoint": 57971,
+      "codepoint": 57974,
       "fontFamily": "Ci",
       "identifier": "tennis"
     },
     "tennis-match": {
-      "codepoint": 57972,
+      "codepoint": 57975,
       "fontFamily": "Ci",
       "identifier": "tennisMatch"
     },
     "tennis-match-alt": {
-      "codepoint": 57973,
+      "codepoint": 57976,
       "fontFamily": "Ci",
       "identifier": "tennisMatchAlt"
     },
     "terminal": {
-      "codepoint": 57974,
+      "codepoint": 57977,
       "fontFamily": "Ci",
       "identifier": "terminal"
     },
     "text": {
-      "codepoint": 57975,
+      "codepoint": 57978,
       "fontFamily": "Ci",
       "identifier": "text"
     },
     "text-align-center": {
-      "codepoint": 57976,
+      "codepoint": 57979,
       "fontFamily": "Ci",
       "identifier": "textAlignCenter"
     },
     "text-align-justify": {
-      "codepoint": 57977,
+      "codepoint": 57980,
       "fontFamily": "Ci",
       "identifier": "textAlignJustify"
     },
     "text-align-left": {
-      "codepoint": 57978,
+      "codepoint": 57981,
       "fontFamily": "Ci",
       "identifier": "textAlignLeft"
     },
     "text-align-right": {
-      "codepoint": 57979,
+      "codepoint": 57982,
       "fontFamily": "Ci",
       "identifier": "textAlignRight"
     },
     "thin-big-down": {
-      "codepoint": 57980,
+      "codepoint": 57983,
       "fontFamily": "Ci",
       "identifier": "thinBigDown"
     },
     "thin-big-left": {
-      "codepoint": 57981,
+      "codepoint": 57984,
       "fontFamily": "Ci",
       "identifier": "thinBigLeft"
     },
     "thin-big-right": {
-      "codepoint": 57982,
+      "codepoint": 57985,
       "fontFamily": "Ci",
       "identifier": "thinBigRight"
     },
     "thin-big-up": {
-      "codepoint": 57983,
+      "codepoint": 57986,
       "fontFamily": "Ci",
       "identifier": "thinBigUp"
     },
     "thin-long-02-down": {
-      "codepoint": 57984,
+      "codepoint": 57987,
       "fontFamily": "Ci",
       "identifier": "thinLong02Down"
     },
     "thin-long-02-left": {
-      "codepoint": 57985,
+      "codepoint": 57988,
       "fontFamily": "Ci",
       "identifier": "thinLong02Left"
     },
     "thin-long-02-right": {
-      "codepoint": 57986,
+      "codepoint": 57989,
       "fontFamily": "Ci",
       "identifier": "thinLong02Right"
     },
     "thin-long-02-up": {
-      "codepoint": 57987,
+      "codepoint": 57990,
       "fontFamily": "Ci",
       "identifier": "thinLong02Up"
     },
     "thin-long-down": {
-      "codepoint": 57988,
+      "codepoint": 57991,
       "fontFamily": "Ci",
       "identifier": "thinLongDown"
     },
     "thin-long-left": {
-      "codepoint": 57989,
+      "codepoint": 57992,
       "fontFamily": "Ci",
       "identifier": "thinLongLeft"
     },
     "thin-long-right": {
-      "codepoint": 57990,
+      "codepoint": 57993,
       "fontFamily": "Ci",
       "identifier": "thinLongRight"
     },
     "thin-long-up": {
-      "codepoint": 57991,
+      "codepoint": 57994,
       "fontFamily": "Ci",
       "identifier": "thinLongUp"
     },
     "ticket-voucher": {
-      "codepoint": 57992,
+      "codepoint": 57995,
       "fontFamily": "Ci",
       "identifier": "ticketVoucher"
     },
     "timer": {
-      "codepoint": 57993,
+      "codepoint": 57996,
       "fontFamily": "Ci",
       "identifier": "timer"
     },
     "timer-add": {
-      "codepoint": 57994,
+      "codepoint": 57997,
       "fontFamily": "Ci",
       "identifier": "timerAdd"
     },
     "timer-close": {
-      "codepoint": 57995,
+      "codepoint": 57998,
       "fontFamily": "Ci",
       "identifier": "timerClose"
     },
     "timer-remove": {
-      "codepoint": 57996,
+      "codepoint": 57999,
       "fontFamily": "Ci",
       "identifier": "timerRemove"
     },
     "transfer": {
-      "codepoint": 57997,
+      "codepoint": 58000,
       "fontFamily": "Ci",
       "identifier": "transfer"
     },
     "trash-empty": {
-      "codepoint": 57998,
+      "codepoint": 58001,
       "fontFamily": "Ci",
       "identifier": "trashEmpty"
     },
     "trash-full": {
-      "codepoint": 57999,
+      "codepoint": 58002,
       "fontFamily": "Ci",
       "identifier": "trashFull"
     },
     "trello": {
-      "codepoint": 58000,
+      "codepoint": 58003,
       "fontFamily": "Ci",
       "identifier": "trello"
     },
     "trending-down": {
-      "codepoint": 58001,
+      "codepoint": 58004,
       "fontFamily": "Ci",
       "identifier": "trendingDown"
     },
     "trending-up": {
-      "codepoint": 58002,
+      "codepoint": 58005,
       "fontFamily": "Ci",
       "identifier": "trendingUp"
     },
     "triangle": {
-      "codepoint": 58003,
+      "codepoint": 58006,
       "fontFamily": "Ci",
       "identifier": "triangle"
     },
     "triangle-check": {
-      "codepoint": 58004,
+      "codepoint": 58007,
       "fontFamily": "Ci",
       "identifier": "triangleCheck"
     },
     "triangle-warning": {
-      "codepoint": 58005,
+      "codepoint": 58008,
       "fontFamily": "Ci",
       "identifier": "triangleWarning"
     },
     "twitter": {
-      "codepoint": 58006,
+      "codepoint": 58009,
       "fontFamily": "Ci",
       "identifier": "twitter"
     },
     "underline": {
-      "codepoint": 58007,
+      "codepoint": 58010,
       "fontFamily": "Ci",
       "identifier": "underline"
     },
     "undo": {
-      "codepoint": 58008,
+      "codepoint": 58011,
       "fontFamily": "Ci",
       "identifier": "undo"
     },
     "unfold-less": {
-      "codepoint": 58009,
+      "codepoint": 58012,
       "fontFamily": "Ci",
       "identifier": "unfoldLess"
     },
     "unfold-more": {
-      "codepoint": 58010,
+      "codepoint": 58013,
       "fontFamily": "Ci",
       "identifier": "unfoldMore"
     },
     "unlink": {
-      "codepoint": 58011,
+      "codepoint": 58014,
       "fontFamily": "Ci",
       "identifier": "unlink"
     },
     "unsplash": {
-      "codepoint": 58012,
+      "codepoint": 58015,
       "fontFamily": "Ci",
       "identifier": "unsplash"
     },
     "user": {
-      "codepoint": 58013,
+      "codepoint": 58016,
       "fontFamily": "Ci",
       "identifier": "user"
     },
     "user-01": {
-      "codepoint": 58014,
+      "codepoint": 58017,
       "fontFamily": "Ci",
       "identifier": "user01"
     },
     "user-02": {
-      "codepoint": 58015,
+      "codepoint": 58018,
       "fontFamily": "Ci",
       "identifier": "user02"
     },
     "user-03": {
-      "codepoint": 58016,
+      "codepoint": 58019,
       "fontFamily": "Ci",
       "identifier": "user03"
     },
     "user-add": {
-      "codepoint": 58017,
+      "codepoint": 58020,
       "fontFamily": "Ci",
       "identifier": "userAdd"
     },
     "user-card-id": {
-      "codepoint": 58018,
+      "codepoint": 58021,
       "fontFamily": "Ci",
       "identifier": "userCardId"
     },
     "user-check": {
-      "codepoint": 58019,
+      "codepoint": 58022,
       "fontFamily": "Ci",
       "identifier": "userCheck"
     },
     "user-circle": {
-      "codepoint": 58020,
+      "codepoint": 58023,
       "fontFamily": "Ci",
       "identifier": "userCircle"
     },
     "user-close": {
-      "codepoint": 58021,
+      "codepoint": 58024,
       "fontFamily": "Ci",
       "identifier": "userClose"
     },
     "user-heart": {
-      "codepoint": 58022,
+      "codepoint": 58025,
       "fontFamily": "Ci",
       "identifier": "userHeart"
     },
     "user-minus": {
-      "codepoint": 58023,
+      "codepoint": 58026,
       "fontFamily": "Ci",
       "identifier": "userMinus"
     },
     "user-pin": {
-      "codepoint": 58024,
+      "codepoint": 58027,
       "fontFamily": "Ci",
       "identifier": "userPin"
     },
     "user-plus": {
-      "codepoint": 58025,
+      "codepoint": 58028,
       "fontFamily": "Ci",
       "identifier": "userPlus"
     },
     "user-remove": {
-      "codepoint": 58026,
+      "codepoint": 58029,
       "fontFamily": "Ci",
       "identifier": "userRemove"
     },
     "user-square": {
-      "codepoint": 58027,
+      "codepoint": 58030,
       "fontFamily": "Ci",
       "identifier": "userSquare"
     },
     "user-voice": {
-      "codepoint": 58028,
+      "codepoint": 58031,
       "fontFamily": "Ci",
       "identifier": "userVoice"
     },
     "users": {
-      "codepoint": 58029,
+      "codepoint": 58032,
       "fontFamily": "Ci",
       "identifier": "users"
     },
     "users-group": {
-      "codepoint": 58030,
+      "codepoint": 58033,
       "fontFamily": "Ci",
       "identifier": "usersGroup"
     },
     "volume-max": {
-      "codepoint": 58031,
+      "codepoint": 58034,
       "fontFamily": "Ci",
       "identifier": "volumeMax"
     },
     "volume-min": {
-      "codepoint": 58032,
+      "codepoint": 58035,
       "fontFamily": "Ci",
       "identifier": "volumeMin"
     },
     "volume-minus": {
-      "codepoint": 58033,
+      "codepoint": 58036,
       "fontFamily": "Ci",
       "identifier": "volumeMinus"
     },
     "volume-off": {
-      "codepoint": 58034,
+      "codepoint": 58037,
       "fontFamily": "Ci",
       "identifier": "volumeOff"
     },
     "volume-off-02": {
-      "codepoint": 58035,
+      "codepoint": 58038,
       "fontFamily": "Ci",
       "identifier": "volumeOff02"
     },
     "volume-plus": {
-      "codepoint": 58036,
+      "codepoint": 58039,
       "fontFamily": "Ci",
       "identifier": "volumePlus"
     },
     "warning": {
-      "codepoint": 58037,
+      "codepoint": 58040,
       "fontFamily": "Ci",
       "identifier": "warning"
     },
     "warning-outline": {
-      "codepoint": 58038,
+      "codepoint": 58041,
       "fontFamily": "Ci",
       "identifier": "warningOutline"
     },
     "water-drop": {
-      "codepoint": 58039,
+      "codepoint": 58042,
       "fontFamily": "Ci",
       "identifier": "waterDrop"
     },
     "wavy": {
-      "codepoint": 58040,
+      "codepoint": 58043,
       "fontFamily": "Ci",
       "identifier": "wavy"
     },
     "wavy-check": {
-      "codepoint": 58041,
+      "codepoint": 58044,
       "fontFamily": "Ci",
       "identifier": "wavyCheck"
     },
     "wavy-help": {
-      "codepoint": 58042,
+      "codepoint": 58045,
       "fontFamily": "Ci",
       "identifier": "wavyHelp"
     },
     "wavy-warning": {
-      "codepoint": 58043,
+      "codepoint": 58046,
       "fontFamily": "Ci",
       "identifier": "wavyWarning"
     },
     "wifi-high": {
-      "codepoint": 58044,
+      "codepoint": 58047,
       "fontFamily": "Ci",
       "identifier": "wifiHigh"
     },
     "wifi-low": {
-      "codepoint": 58045,
+      "codepoint": 58048,
       "fontFamily": "Ci",
       "identifier": "wifiLow"
     },
     "wifi-medium": {
-      "codepoint": 58046,
+      "codepoint": 58049,
       "fontFamily": "Ci",
       "identifier": "wifiMedium"
     },
     "wifi-none": {
-      "codepoint": 58047,
+      "codepoint": 58050,
       "fontFamily": "Ci",
       "identifier": "wifiNone"
     },
     "wifi-off": {
-      "codepoint": 58048,
+      "codepoint": 58051,
       "fontFamily": "Ci",
       "identifier": "wifiOff"
     },
     "wifi-problem": {
-      "codepoint": 58049,
+      "codepoint": 58052,
       "fontFamily": "Ci",
       "identifier": "wifiProblem"
     },
     "window": {
-      "codepoint": 58050,
+      "codepoint": 58053,
       "fontFamily": "Ci",
       "identifier": "window"
     },
     "window-check": {
-      "codepoint": 58051,
+      "codepoint": 58054,
       "fontFamily": "Ci",
       "identifier": "windowCheck"
     },
     "window-close": {
-      "codepoint": 58052,
+      "codepoint": 58055,
       "fontFamily": "Ci",
       "identifier": "windowClose"
     },
     "window-code-block": {
-      "codepoint": 58053,
+      "codepoint": 58056,
       "fontFamily": "Ci",
       "identifier": "windowCodeBlock"
     },
     "window-sidebar": {
-      "codepoint": 58054,
+      "codepoint": 58057,
       "fontFamily": "Ci",
       "identifier": "windowSidebar"
     },
     "window-terminal": {
-      "codepoint": 58055,
+      "codepoint": 58058,
       "fontFamily": "Ci",
       "identifier": "windowTerminal"
     },
     "youtube": {
-      "codepoint": 58056,
+      "codepoint": 58059,
       "fontFamily": "Ci",
       "identifier": "youtube"
     }

@@ -32,376 +32,376 @@
   ],
   "icons": {
     "android": {
-      "codepoint": 57363,
+      "codepoint": 57344,
       "fontFamily": "FlatUi",
       "identifier": "android"
     },
     "android1": {
-      "codepoint": 57364,
+      "codepoint": 57345,
       "fontFamily": "FlatUi",
       "identifier": "android1"
     },
     "app-store": {
-      "codepoint": 57344,
+      "codepoint": 57346,
       "fontFamily": "FlatUi",
       "identifier": "appStore"
     },
     "arrow": {
-      "codepoint": 57345,
+      "codepoint": 57347,
       "fontFamily": "FlatUi",
       "identifier": "arrow"
     },
     "art": {
-      "codepoint": 57365,
+      "codepoint": 57348,
       "fontFamily": "FlatUi",
       "identifier": "art"
     },
     "bag": {
-      "codepoint": 57366,
+      "codepoint": 57349,
       "fontFamily": "FlatUi",
       "identifier": "bag"
     },
     "basket": {
-      "codepoint": 57367,
+      "codepoint": 57350,
       "fontFamily": "FlatUi",
       "identifier": "basket"
     },
     "book": {
-      "codepoint": 57368,
+      "codepoint": 57351,
       "fontFamily": "FlatUi",
       "identifier": "book",
       "duotone": true
     },
     "bowling": {
-      "codepoint": 57369,
+      "codepoint": 57352,
       "fontFamily": "FlatUi",
       "identifier": "bowling"
     },
     "box": {
-      "codepoint": 57346,
+      "codepoint": 57353,
       "fontFamily": "FlatUi",
       "identifier": "box",
       "duotone": true
     },
     "brush": {
-      "codepoint": 57370,
+      "codepoint": 57354,
       "fontFamily": "FlatUi",
       "identifier": "brush"
     },
     "bulb": {
-      "codepoint": 57371,
+      "codepoint": 57355,
       "fontFamily": "FlatUi",
       "identifier": "bulb"
     },
     "button": {
-      "codepoint": 57372,
+      "codepoint": 57356,
       "fontFamily": "FlatUi",
       "identifier": "button"
     },
     "calculator": {
-      "codepoint": 57373,
+      "codepoint": 57357,
       "fontFamily": "FlatUi",
       "identifier": "calculator"
     },
     "calendar": {
-      "codepoint": 57374,
+      "codepoint": 57358,
       "fontFamily": "FlatUi",
       "identifier": "calendar"
     },
     "camera": {
-      "codepoint": 57375,
+      "codepoint": 57359,
       "fontFamily": "FlatUi",
       "identifier": "camera",
       "duotone": true
     },
     "car": {
-      "codepoint": 57376,
+      "codepoint": 57360,
       "fontFamily": "FlatUi",
       "identifier": "car"
     },
     "card": {
-      "codepoint": 57377,
+      "codepoint": 57361,
       "fontFamily": "FlatUi",
       "identifier": "card"
     },
     "chair": {
-      "codepoint": 57378,
+      "codepoint": 57362,
       "fontFamily": "FlatUi",
       "identifier": "chair"
     },
     "chat": {
-      "codepoint": 57347,
+      "codepoint": 57363,
       "fontFamily": "FlatUi",
       "identifier": "chat"
     },
     "clipboard": {
-      "codepoint": 57348,
+      "codepoint": 57364,
       "fontFamily": "FlatUi",
       "identifier": "clipboard",
       "duotone": true
     },
     "clocks": {
-      "codepoint": 57379,
+      "codepoint": 57365,
       "fontFamily": "FlatUi",
       "identifier": "clocks"
     },
     "compas": {
-      "codepoint": 57380,
+      "codepoint": 57366,
       "fontFamily": "FlatUi",
       "identifier": "compas",
       "duotone": true
     },
     "cup": {
-      "codepoint": 57381,
+      "codepoint": 57367,
       "fontFamily": "FlatUi",
       "identifier": "cup"
     },
     "donut": {
-      "codepoint": 57382,
+      "codepoint": 57368,
       "fontFamily": "FlatUi",
       "identifier": "donut"
     },
     "dynamite": {
-      "codepoint": 57383,
+      "codepoint": 57369,
       "fontFamily": "FlatUi",
       "identifier": "dynamite"
     },
     "earth": {
-      "codepoint": 57384,
+      "codepoint": 57370,
       "fontFamily": "FlatUi",
       "identifier": "earth",
       "duotone": true
     },
     "egg": {
-      "codepoint": 57349,
+      "codepoint": 57371,
       "fontFamily": "FlatUi",
       "identifier": "egg"
     },
     "file": {
-      "codepoint": 57350,
+      "codepoint": 57372,
       "fontFamily": "FlatUi",
       "identifier": "file"
     },
     "flag": {
-      "codepoint": 57385,
+      "codepoint": 57373,
       "fontFamily": "FlatUi",
       "identifier": "flag"
     },
     "flower": {
-      "codepoint": 57386,
+      "codepoint": 57374,
       "fontFamily": "FlatUi",
       "identifier": "flower"
     },
     "games": {
-      "codepoint": 57351,
+      "codepoint": 57375,
       "fontFamily": "FlatUi",
       "identifier": "games"
     },
     "gift-box": {
-      "codepoint": 57352,
+      "codepoint": 57376,
       "fontFamily": "FlatUi",
       "identifier": "giftBox",
       "duotone": true
     },
     "goal": {
-      "codepoint": 57387,
+      "codepoint": 57377,
       "fontFamily": "FlatUi",
       "identifier": "goal"
     },
     "google": {
-      "codepoint": 57388,
+      "codepoint": 57378,
       "fontFamily": "FlatUi",
       "identifier": "google"
     },
     "graph": {
-      "codepoint": 57389,
+      "codepoint": 57379,
       "fontFamily": "FlatUi",
       "identifier": "graph"
     },
     "imac": {
-      "codepoint": 57390,
+      "codepoint": 57380,
       "fontFamily": "FlatUi",
       "identifier": "imac"
     },
     "lettersymbol": {
-      "codepoint": 57353,
+      "codepoint": 57381,
       "fontFamily": "FlatUi",
       "identifier": "lettersymbol"
     },
     "lock": {
-      "codepoint": 57354,
+      "codepoint": 57382,
       "fontFamily": "FlatUi",
       "identifier": "lock"
     },
     "loop": {
-      "codepoint": 57355,
+      "codepoint": 57383,
       "fontFamily": "FlatUi",
       "identifier": "loop",
       "duotone": true
     },
     "magic": {
-      "codepoint": 57391,
+      "codepoint": 57384,
       "fontFamily": "FlatUi",
       "identifier": "magic"
     },
     "magicmouse": {
-      "codepoint": 57356,
+      "codepoint": 57385,
       "fontFamily": "FlatUi",
       "identifier": "magicmouse"
     },
     "map": {
-      "codepoint": 57392,
+      "codepoint": 57386,
       "fontFamily": "FlatUi",
       "identifier": "map",
       "duotone": true
     },
     "mic": {
-      "codepoint": 57393,
+      "codepoint": 57387,
       "fontFamily": "FlatUi",
       "identifier": "mic"
     },
     "money": {
-      "codepoint": 57357,
+      "codepoint": 57388,
       "fontFamily": "FlatUi",
       "identifier": "money",
       "duotone": true
     },
     "mountain": {
-      "codepoint": 57358,
+      "codepoint": 57389,
       "fontFamily": "FlatUi",
       "identifier": "mountain"
     },
     "news": {
-      "codepoint": 57394,
+      "codepoint": 57390,
       "fontFamily": "FlatUi",
       "identifier": "news"
     },
     "paper-bag": {
-      "codepoint": 57359,
+      "codepoint": 57391,
       "fontFamily": "FlatUi",
       "identifier": "paperBag",
       "duotone": true
     },
     "pencil": {
-      "codepoint": 57395,
+      "codepoint": 57392,
       "fontFamily": "FlatUi",
       "identifier": "pencil"
     },
     "pencils": {
-      "codepoint": 57396,
+      "codepoint": 57393,
       "fontFamily": "FlatUi",
       "identifier": "pencils"
     },
     "picture": {
-      "codepoint": 57397,
+      "codepoint": 57394,
       "fontFamily": "FlatUi",
       "identifier": "picture"
     },
     "pig": {
-      "codepoint": 57398,
+      "codepoint": 57395,
       "fontFamily": "FlatUi",
       "identifier": "pig"
     },
     "pills": {
-      "codepoint": 57399,
+      "codepoint": 57396,
       "fontFamily": "FlatUi",
       "identifier": "pills"
     },
     "play": {
-      "codepoint": 57400,
+      "codepoint": 57397,
       "fontFamily": "FlatUi",
       "identifier": "play"
     },
     "retina": {
-      "codepoint": 57401,
+      "codepoint": 57398,
       "fontFamily": "FlatUi",
       "identifier": "retina"
     },
     "ring": {
-      "codepoint": 57402,
+      "codepoint": 57399,
       "fontFamily": "FlatUi",
       "identifier": "ring"
     },
     "rocket": {
-      "codepoint": 57403,
+      "codepoint": 57400,
       "fontFamily": "FlatUi",
       "identifier": "rocket"
     },
     "rss": {
-      "codepoint": 57404,
+      "codepoint": 57401,
       "fontFamily": "FlatUi",
       "identifier": "rss"
     },
     "safe": {
-      "codepoint": 57405,
+      "codepoint": 57402,
       "fontFamily": "FlatUi",
       "identifier": "safe"
     },
     "settings": {
-      "codepoint": 57406,
+      "codepoint": 57403,
       "fontFamily": "FlatUi",
       "identifier": "settings"
     },
     "shield": {
-      "codepoint": 57360,
+      "codepoint": 57404,
       "fontFamily": "FlatUi",
       "identifier": "shield",
       "duotone": true
     },
     "skateboard": {
-      "codepoint": 57407,
+      "codepoint": 57405,
       "fontFamily": "FlatUi",
       "identifier": "skateboard"
     },
     "storage": {
-      "codepoint": 57408,
+      "codepoint": 57406,
       "fontFamily": "FlatUi",
       "identifier": "storage"
     },
     "support": {
-      "codepoint": 57409,
+      "codepoint": 57407,
       "fontFamily": "FlatUi",
       "identifier": "support"
     },
     "ticket": {
-      "codepoint": 57410,
+      "codepoint": 57408,
       "fontFamily": "FlatUi",
       "identifier": "ticket"
     },
     "toilet-paper": {
-      "codepoint": 57411,
+      "codepoint": 57409,
       "fontFamily": "FlatUi",
       "identifier": "toiletPaper",
       "duotone": true
     },
     "trip-bag": {
-      "codepoint": 57412,
+      "codepoint": 57410,
       "fontFamily": "FlatUi",
       "identifier": "tripBag"
     },
     "trunk": {
-      "codepoint": 57413,
+      "codepoint": 57411,
       "fontFamily": "FlatUi",
       "identifier": "trunk"
     },
     "ubmrella": {
-      "codepoint": 57414,
+      "codepoint": 57412,
       "fontFamily": "FlatUi",
       "identifier": "ubmrella",
       "duotone": true
     },
     "user-interface": {
-      "codepoint": 57361,
+      "codepoint": 57413,
       "fontFamily": "FlatUi",
       "identifier": "userInterface"
     },
     "video": {
-      "codepoint": 57415,
+      "codepoint": 57414,
       "fontFamily": "FlatUi",
       "identifier": "video"
     },
     "wine": {
-      "codepoint": 57362,
+      "codepoint": 57415,
       "fontFamily": "FlatUi",
       "identifier": "wine"
     },

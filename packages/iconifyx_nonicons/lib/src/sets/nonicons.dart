@@ -123,378 +123,378 @@ class NoniconsIcons {
 
   /// `eslint-16`
   static const IconifyIconData eslint16 = IconifyIconData(IconData(
-    0xe042,
+    0xe00f,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `field-16`
   static const IconifyIconData field16 = IconifyIconData(IconData(
-    0xe00f,
+    0xe010,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `go-16`
   static const IconifyIconData go16 = IconifyIconData(IconData(
-    0xe010,
+    0xe011,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `graphql-16`
   static const IconifyIconData graphql16 = IconifyIconData(IconData(
-    0xe011,
+    0xe012,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `html-16`
   static const IconifyIconData html16 = IconifyIconData(IconData(
-    0xe012,
+    0xe013,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `interface-16`
   static const IconifyIconData interface16 = IconifyIconData(IconData(
-    0xe013,
+    0xe014,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `ionic-16`
   static const IconifyIconData ionic16 = IconifyIconData(IconData(
-    0xe014,
+    0xe015,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `java-16`
   static const IconifyIconData java16 = IconifyIconData(IconData(
-    0xe015,
+    0xe016,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `javascript-16`
   static const IconifyIconData javascript16 = IconifyIconData(IconData(
-    0xe016,
+    0xe017,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `json-16`
   static const IconifyIconData json16 = IconifyIconData(IconData(
-    0xe017,
+    0xe018,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `keyword-16`
   static const IconifyIconData keyword16 = IconifyIconData(IconData(
-    0xe018,
+    0xe019,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `kotlin-16`
   static const IconifyIconData kotlin16 = IconifyIconData(IconData(
-    0xe019,
+    0xe01a,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `kubernetes-16`
   static const IconifyIconData kubernetes16 = IconifyIconData(IconData(
-    0xe01a,
+    0xe01b,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `layout-16`
   static const IconifyIconData layout16 = IconifyIconData(IconData(
-    0xe01b,
+    0xe01c,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `loading-16`
   static const IconifyIconData loading16 = IconifyIconData(IconData(
-    0xe01c,
+    0xe01d,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `lua-16`
   static const IconifyIconData lua16 = IconifyIconData(IconData(
-    0xe01d,
+    0xe01e,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `next-16`
   static const IconifyIconData next16 = IconifyIconData(IconData(
-    0xe01e,
+    0xe01f,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `nginx-16`
   static const IconifyIconData nginx16 = IconifyIconData(IconData(
-    0xe01f,
+    0xe020,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `node-16`
   static const IconifyIconData node16 = IconifyIconData(IconData(
-    0xe020,
+    0xe021,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `not-found-16`
   static const IconifyIconData notFound16 = IconifyIconData(IconData(
-    0xe021,
+    0xe022,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `npm-16`
   static const IconifyIconData npm16 = IconifyIconData(IconData(
-    0xe022,
+    0xe023,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `perl-16`
   static const IconifyIconData perl16 = IconifyIconData(IconData(
-    0xe023,
+    0xe024,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `php-16`
   static const IconifyIconData php16 = IconifyIconData(IconData(
-    0xe024,
+    0xe025,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `prettier-16`
   static const IconifyIconData prettier16 = IconifyIconData(IconData(
-    0xe025,
+    0xe026,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `prisma-16`
   static const IconifyIconData prisma16 = IconifyIconData(IconData(
-    0xe026,
+    0xe027,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `python-16`
   static const IconifyIconData python16 = IconifyIconData(IconData(
-    0xe027,
+    0xe028,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `r-16`
   static const IconifyIconData r16 = IconifyIconData(IconData(
-    0xe028,
+    0xe029,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `react-16`
   static const IconifyIconData react16 = IconifyIconData(IconData(
-    0xe029,
+    0xe02a,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `rust-16`
   static const IconifyIconData rust16 = IconifyIconData(IconData(
-    0xe02a,
+    0xe02b,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `scala-16`
   static const IconifyIconData scala16 = IconifyIconData(IconData(
-    0xe02b,
+    0xe02c,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `snippet-16`
   static const IconifyIconData snippet16 = IconifyIconData(IconData(
-    0xe02c,
+    0xe02d,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `struct-16`
   static const IconifyIconData struct16 = IconifyIconData(IconData(
-    0xe02d,
+    0xe02e,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `svelte-16`
   static const IconifyIconData svelte16 = IconifyIconData(IconData(
-    0xe02e,
+    0xe02f,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `swift-16`
   static const IconifyIconData swift16 = IconifyIconData(IconData(
-    0xe02f,
+    0xe030,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `template-16`
   static const IconifyIconData template16 = IconifyIconData(IconData(
-    0xe030,
+    0xe031,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `terraform-16`
   static const IconifyIconData terraform16 = IconifyIconData(IconData(
-    0xe043,
+    0xe032,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `tmux-16`
   static const IconifyIconData tmux16 = IconifyIconData(IconData(
-    0xe031,
+    0xe033,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `toml-16`
   static const IconifyIconData toml16 = IconifyIconData(IconData(
-    0xe032,
+    0xe034,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `turborepo-16`
   static const IconifyIconData turborepo16 = IconifyIconData(IconData(
-    0xe033,
+    0xe035,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `type-16`
   static const IconifyIconData type16 = IconifyIconData(IconData(
-    0xe034,
+    0xe036,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `typescript-16`
   static const IconifyIconData typescript16 = IconifyIconData(IconData(
-    0xe035,
+    0xe037,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `variable-16`
   static const IconifyIconData variable16 = IconifyIconData(IconData(
-    0xe036,
+    0xe038,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `vim-16`
   static const IconifyIconData vim16 = IconifyIconData(IconData(
-    0xe037,
+    0xe039,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `vim-command-mode-16`
   static const IconifyIconData vimCommandMode16 = IconifyIconData(IconData(
-    0xe038,
+    0xe03a,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `vim-insert-mode-16`
   static const IconifyIconData vimInsertMode16 = IconifyIconData(IconData(
-    0xe039,
+    0xe03b,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `vim-normal-mode-16`
   static const IconifyIconData vimNormalMode16 = IconifyIconData(IconData(
-    0xe03a,
+    0xe03c,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `vim-replace-mode-16`
   static const IconifyIconData vimReplaceMode16 = IconifyIconData(IconData(
-    0xe03b,
+    0xe03d,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `vim-select-mode-16`
   static const IconifyIconData vimSelectMode16 = IconifyIconData(IconData(
-    0xe03c,
+    0xe03e,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `vim-terminal-mode-16`
   static const IconifyIconData vimTerminalMode16 = IconifyIconData(IconData(
-    0xe03d,
+    0xe03f,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `vim-visual-mode-16`
   static const IconifyIconData vimVisualMode16 = IconifyIconData(IconData(
-    0xe03e,
+    0xe040,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `vscode-16`
   static const IconifyIconData vscode16 = IconifyIconData(IconData(
-    0xe044,
+    0xe041,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `vue-16`
   static const IconifyIconData vue16 = IconifyIconData(IconData(
-    0xe03f,
+    0xe042,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `yaml-16`
   static const IconifyIconData yaml16 = IconifyIconData(IconData(
-    0xe040,
+    0xe043,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));
 
   /// `yarn-16`
   static const IconifyIconData yarn16 = IconifyIconData(IconData(
-    0xe041,
+    0xe044,
     fontFamily: 'Nonicons',
     fontPackage: 'iconifyx_nonicons',
   ));

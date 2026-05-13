@@ -97,1247 +97,1247 @@
       "identifier": "atSign"
     },
     "atom": {
-      "codepoint": 57606,
+      "codepoint": 57358,
       "fontFamily": "Charm",
       "identifier": "atom"
     },
     "bell": {
-      "codepoint": 57358,
+      "codepoint": 57359,
       "fontFamily": "Charm",
       "identifier": "bell"
     },
     "bell-slash": {
-      "codepoint": 57359,
+      "codepoint": 57360,
       "fontFamily": "Charm",
       "identifier": "bellSlash"
     },
     "bin": {
-      "codepoint": 57360,
+      "codepoint": 57361,
       "fontFamily": "Charm",
       "identifier": "bin"
     },
     "binary": {
-      "codepoint": 57361,
+      "codepoint": 57362,
       "fontFamily": "Charm",
       "identifier": "binary"
     },
     "block": {
-      "codepoint": 57362,
+      "codepoint": 57363,
       "fontFamily": "Charm",
       "identifier": "block"
     },
     "bluetooth": {
-      "codepoint": 57363,
+      "codepoint": 57364,
       "fontFamily": "Charm",
       "identifier": "bluetooth"
     },
     "bluetooth-connected": {
-      "codepoint": 57364,
+      "codepoint": 57365,
       "fontFamily": "Charm",
       "identifier": "bluetoothConnected"
     },
     "bluetooth-searching": {
-      "codepoint": 57365,
+      "codepoint": 57366,
       "fontFamily": "Charm",
       "identifier": "bluetoothSearching"
     },
     "bluetooth-slash": {
-      "codepoint": 57366,
+      "codepoint": 57367,
       "fontFamily": "Charm",
       "identifier": "bluetoothSlash"
     },
     "book": {
-      "codepoint": 57367,
+      "codepoint": 57368,
       "fontFamily": "Charm",
       "identifier": "book"
     },
     "book-open": {
-      "codepoint": 57368,
+      "codepoint": 57369,
       "fontFamily": "Charm",
       "identifier": "bookOpen"
     },
     "bookmark": {
-      "codepoint": 57369,
+      "codepoint": 57370,
       "fontFamily": "Charm",
       "identifier": "bookmark"
     },
     "briefcase": {
-      "codepoint": 57370,
+      "codepoint": 57371,
       "fontFamily": "Charm",
       "identifier": "briefcase"
     },
     "bug": {
-      "codepoint": 57371,
+      "codepoint": 57372,
       "fontFamily": "Charm",
       "identifier": "bug"
     },
     "calendar": {
-      "codepoint": 57372,
+      "codepoint": 57373,
       "fontFamily": "Charm",
       "identifier": "calendar"
     },
     "camera": {
-      "codepoint": 57373,
+      "codepoint": 57374,
       "fontFamily": "Charm",
       "identifier": "camera"
     },
     "camera-video": {
-      "codepoint": 57374,
+      "codepoint": 57375,
       "fontFamily": "Charm",
       "identifier": "cameraVideo"
     },
     "camera-video-slash": {
-      "codepoint": 57375,
+      "codepoint": 57376,
       "fontFamily": "Charm",
       "identifier": "cameraVideoSlash"
     },
     "candy": {
-      "codepoint": 57376,
+      "codepoint": 57377,
       "fontFamily": "Charm",
       "identifier": "candy"
     },
     "cards": {
-      "codepoint": 57377,
+      "codepoint": 57378,
       "fontFamily": "Charm",
       "identifier": "cards"
     },
     "cast": {
-      "codepoint": 57378,
+      "codepoint": 57379,
       "fontFamily": "Charm",
       "identifier": "cast"
     },
     "certificate": {
-      "codepoint": 57379,
+      "codepoint": 57380,
       "fontFamily": "Charm",
       "identifier": "certificate"
     },
     "chart-bar": {
-      "codepoint": 57380,
+      "codepoint": 57381,
       "fontFamily": "Charm",
       "identifier": "chartBar"
     },
     "chart-line": {
-      "codepoint": 57381,
+      "codepoint": 57382,
       "fontFamily": "Charm",
       "identifier": "chartLine"
     },
     "chevron-down": {
-      "codepoint": 57382,
+      "codepoint": 57383,
       "fontFamily": "Charm",
       "identifier": "chevronDown"
     },
     "chevron-left": {
-      "codepoint": 57383,
+      "codepoint": 57384,
       "fontFamily": "Charm",
       "identifier": "chevronLeft"
     },
     "chevron-right": {
-      "codepoint": 57384,
+      "codepoint": 57385,
       "fontFamily": "Charm",
       "identifier": "chevronRight"
     },
     "chevron-up": {
-      "codepoint": 57385,
+      "codepoint": 57386,
       "fontFamily": "Charm",
       "identifier": "chevronUp"
     },
     "chevrons-down": {
-      "codepoint": 57386,
+      "codepoint": 57387,
       "fontFamily": "Charm",
       "identifier": "chevronsDown"
     },
     "chevrons-left": {
-      "codepoint": 57387,
+      "codepoint": 57388,
       "fontFamily": "Charm",
       "identifier": "chevronsLeft"
     },
     "chevrons-right": {
-      "codepoint": 57388,
+      "codepoint": 57389,
       "fontFamily": "Charm",
       "identifier": "chevronsRight"
     },
     "chevrons-up": {
-      "codepoint": 57389,
+      "codepoint": 57390,
       "fontFamily": "Charm",
       "identifier": "chevronsUp"
     },
     "chevrons-up-down": {
-      "codepoint": 57390,
+      "codepoint": 57391,
       "fontFamily": "Charm",
       "identifier": "chevronsUpDown"
     },
     "chip": {
-      "codepoint": 57391,
+      "codepoint": 57392,
       "fontFamily": "Charm",
       "identifier": "chip"
     },
     "circle": {
-      "codepoint": 57392,
+      "codepoint": 57393,
       "fontFamily": "Charm",
       "identifier": "circle"
     },
     "circle-cross": {
-      "codepoint": 57393,
+      "codepoint": 57394,
       "fontFamily": "Charm",
       "identifier": "circleCross"
     },
     "circle-minus": {
-      "codepoint": 57394,
+      "codepoint": 57395,
       "fontFamily": "Charm",
       "identifier": "circleMinus"
     },
     "circle-tick": {
-      "codepoint": 57395,
+      "codepoint": 57396,
       "fontFamily": "Charm",
       "identifier": "circleTick"
     },
     "circle-warning": {
-      "codepoint": 57396,
+      "codepoint": 57397,
       "fontFamily": "Charm",
       "identifier": "circleWarning"
     },
     "clipboard": {
-      "codepoint": 57397,
+      "codepoint": 57398,
       "fontFamily": "Charm",
       "identifier": "clipboard"
     },
     "clipboard-tick": {
-      "codepoint": 57398,
+      "codepoint": 57399,
       "fontFamily": "Charm",
       "identifier": "clipboardTick"
     },
     "clock": {
-      "codepoint": 57399,
+      "codepoint": 57400,
       "fontFamily": "Charm",
       "identifier": "clock"
     },
     "clock-alarm": {
-      "codepoint": 57400,
+      "codepoint": 57401,
       "fontFamily": "Charm",
       "identifier": "clockAlarm"
     },
     "cloud": {
-      "codepoint": 57401,
+      "codepoint": 57402,
       "fontFamily": "Charm",
       "identifier": "cloud"
     },
     "clover": {
-      "codepoint": 57402,
+      "codepoint": 57403,
       "fontFamily": "Charm",
       "identifier": "clover"
     },
     "code": {
-      "codepoint": 57403,
+      "codepoint": 57404,
       "fontFamily": "Charm",
       "identifier": "code"
     },
     "coffee": {
-      "codepoint": 57404,
+      "codepoint": 57405,
       "fontFamily": "Charm",
       "identifier": "coffee"
     },
     "cog": {
-      "codepoint": 57405,
+      "codepoint": 57406,
       "fontFamily": "Charm",
       "identifier": "cog"
     },
     "compass": {
-      "codepoint": 57406,
+      "codepoint": 57407,
       "fontFamily": "Charm",
       "identifier": "compass"
     },
     "conical-flask": {
-      "codepoint": 57407,
+      "codepoint": 57408,
       "fontFamily": "Charm",
       "identifier": "conicalFlask"
     },
     "container": {
-      "codepoint": 57408,
+      "codepoint": 57409,
       "fontFamily": "Charm",
       "identifier": "container"
     },
     "copy": {
-      "codepoint": 57409,
+      "codepoint": 57410,
       "fontFamily": "Charm",
       "identifier": "copy"
     },
     "copyleft": {
-      "codepoint": 57410,
+      "codepoint": 57411,
       "fontFamily": "Charm",
       "identifier": "copyleft"
     },
     "copyright": {
-      "codepoint": 57411,
+      "codepoint": 57412,
       "fontFamily": "Charm",
       "identifier": "copyright"
     },
     "credit-card": {
-      "codepoint": 57412,
+      "codepoint": 57413,
       "fontFamily": "Charm",
       "identifier": "creditCard"
     },
     "crop": {
-      "codepoint": 57413,
+      "codepoint": 57414,
       "fontFamily": "Charm",
       "identifier": "crop"
     },
     "cross": {
-      "codepoint": 57414,
+      "codepoint": 57415,
       "fontFamily": "Charm",
       "identifier": "cross"
     },
     "crosshair": {
-      "codepoint": 57415,
+      "codepoint": 57416,
       "fontFamily": "Charm",
       "identifier": "crosshair"
     },
     "cube": {
-      "codepoint": 57416,
+      "codepoint": 57417,
       "fontFamily": "Charm",
       "identifier": "cube"
     },
     "cursor": {
-      "codepoint": 57417,
+      "codepoint": 57418,
       "fontFamily": "Charm",
       "identifier": "cursor"
     },
     "database": {
-      "codepoint": 57418,
+      "codepoint": 57419,
       "fontFamily": "Charm",
       "identifier": "database"
     },
     "diamond": {
-      "codepoint": 57419,
+      "codepoint": 57420,
       "fontFamily": "Charm",
       "identifier": "diamond"
     },
     "diff": {
-      "codepoint": 57420,
+      "codepoint": 57421,
       "fontFamily": "Charm",
       "identifier": "diff"
     },
     "disc": {
-      "codepoint": 57421,
+      "codepoint": 57422,
       "fontFamily": "Charm",
       "identifier": "disc"
     },
     "download": {
-      "codepoint": 57422,
+      "codepoint": 57423,
       "fontFamily": "Charm",
       "identifier": "download"
     },
     "droplet": {
-      "codepoint": 57423,
+      "codepoint": 57424,
       "fontFamily": "Charm",
       "identifier": "droplet"
     },
     "eraser": {
-      "codepoint": 57424,
+      "codepoint": 57425,
       "fontFamily": "Charm",
       "identifier": "eraser"
     },
     "extensions": {
-      "codepoint": 57425,
+      "codepoint": 57426,
       "fontFamily": "Charm",
       "identifier": "extensions"
     },
     "eye": {
-      "codepoint": 57426,
+      "codepoint": 57427,
       "fontFamily": "Charm",
       "identifier": "eye"
     },
     "eye-slash": {
-      "codepoint": 57427,
+      "codepoint": 57428,
       "fontFamily": "Charm",
       "identifier": "eyeSlash"
     },
     "face-frown": {
-      "codepoint": 57428,
+      "codepoint": 57429,
       "fontFamily": "Charm",
       "identifier": "faceFrown"
     },
     "face-neutral": {
-      "codepoint": 57429,
+      "codepoint": 57430,
       "fontFamily": "Charm",
       "identifier": "faceNeutral"
     },
     "face-smile": {
-      "codepoint": 57430,
+      "codepoint": 57431,
       "fontFamily": "Charm",
       "identifier": "faceSmile"
     },
     "file": {
-      "codepoint": 57431,
+      "codepoint": 57432,
       "fontFamily": "Charm",
       "identifier": "file"
     },
     "file-binary": {
-      "codepoint": 57432,
+      "codepoint": 57433,
       "fontFamily": "Charm",
       "identifier": "fileBinary"
     },
     "file-code": {
-      "codepoint": 57433,
+      "codepoint": 57434,
       "fontFamily": "Charm",
       "identifier": "fileCode"
     },
     "file-symlink": {
-      "codepoint": 57434,
+      "codepoint": 57435,
       "fontFamily": "Charm",
       "identifier": "fileSymlink"
     },
     "files": {
-      "codepoint": 57435,
+      "codepoint": 57436,
       "fontFamily": "Charm",
       "identifier": "files"
     },
     "filter": {
-      "codepoint": 57436,
+      "codepoint": 57437,
       "fontFamily": "Charm",
       "identifier": "filter"
     },
     "flag": {
-      "codepoint": 57437,
+      "codepoint": 57438,
       "fontFamily": "Charm",
       "identifier": "flag"
     },
     "flame": {
-      "codepoint": 57438,
+      "codepoint": 57439,
       "fontFamily": "Charm",
       "identifier": "flame"
     },
     "floppy-disk": {
-      "codepoint": 57439,
+      "codepoint": 57440,
       "fontFamily": "Charm",
       "identifier": "floppyDisk"
     },
     "folder": {
-      "codepoint": 57440,
+      "codepoint": 57441,
       "fontFamily": "Charm",
       "identifier": "folder"
     },
     "folder-symlink": {
-      "codepoint": 57441,
+      "codepoint": 57442,
       "fontFamily": "Charm",
       "identifier": "folderSymlink"
     },
     "folders": {
-      "codepoint": 57442,
+      "codepoint": 57443,
       "fontFamily": "Charm",
       "identifier": "folders"
     },
     "forward": {
-      "codepoint": 57443,
+      "codepoint": 57444,
       "fontFamily": "Charm",
       "identifier": "forward"
     },
     "gamepad": {
-      "codepoint": 57444,
+      "codepoint": 57445,
       "fontFamily": "Charm",
       "identifier": "gamepad"
     },
     "gem": {
-      "codepoint": 57445,
+      "codepoint": 57446,
       "fontFamily": "Charm",
       "identifier": "gem"
     },
     "gift": {
-      "codepoint": 57446,
+      "codepoint": 57447,
       "fontFamily": "Charm",
       "identifier": "gift"
     },
     "git-branch": {
-      "codepoint": 57447,
+      "codepoint": 57448,
       "fontFamily": "Charm",
       "identifier": "gitBranch"
     },
     "git-cherry-pick": {
-      "codepoint": 57448,
+      "codepoint": 57449,
       "fontFamily": "Charm",
       "identifier": "gitCherryPick"
     },
     "git-commit": {
-      "codepoint": 57449,
+      "codepoint": 57450,
       "fontFamily": "Charm",
       "identifier": "gitCommit"
     },
     "git-compare": {
-      "codepoint": 57450,
+      "codepoint": 57451,
       "fontFamily": "Charm",
       "identifier": "gitCompare"
     },
     "git-fork": {
-      "codepoint": 57451,
+      "codepoint": 57452,
       "fontFamily": "Charm",
       "identifier": "gitFork"
     },
     "git-merge": {
-      "codepoint": 57452,
+      "codepoint": 57453,
       "fontFamily": "Charm",
       "identifier": "gitMerge"
     },
     "git-request": {
-      "codepoint": 57453,
+      "codepoint": 57454,
       "fontFamily": "Charm",
       "identifier": "gitRequest"
     },
     "git-request-closed": {
-      "codepoint": 57454,
+      "codepoint": 57455,
       "fontFamily": "Charm",
       "identifier": "gitRequestClosed"
     },
     "git-request-cross": {
-      "codepoint": 57455,
+      "codepoint": 57456,
       "fontFamily": "Charm",
       "identifier": "gitRequestCross"
     },
     "git-request-draft": {
-      "codepoint": 57456,
+      "codepoint": 57457,
       "fontFamily": "Charm",
       "identifier": "gitRequestDraft"
     },
     "github": {
-      "codepoint": 57457,
+      "codepoint": 57458,
       "fontFamily": "Charm",
       "identifier": "github"
     },
     "gitlab": {
-      "codepoint": 57458,
+      "codepoint": 57459,
       "fontFamily": "Charm",
       "identifier": "gitlab"
     },
     "glasses": {
-      "codepoint": 57459,
+      "codepoint": 57460,
       "fontFamily": "Charm",
       "identifier": "glasses"
     },
     "globe": {
-      "codepoint": 57460,
+      "codepoint": 57461,
       "fontFamily": "Charm",
       "identifier": "globe"
     },
     "grab-horizontal": {
-      "codepoint": 57461,
+      "codepoint": 57462,
       "fontFamily": "Charm",
       "identifier": "grabHorizontal"
     },
     "grab-vertical": {
-      "codepoint": 57462,
+      "codepoint": 57463,
       "fontFamily": "Charm",
       "identifier": "grabVertical"
     },
     "graduate-cap": {
-      "codepoint": 57463,
+      "codepoint": 57464,
       "fontFamily": "Charm",
       "identifier": "graduateCap"
     },
     "hash": {
-      "codepoint": 57464,
+      "codepoint": 57465,
       "fontFamily": "Charm",
       "identifier": "hash"
     },
     "headphones": {
-      "codepoint": 57465,
+      "codepoint": 57466,
       "fontFamily": "Charm",
       "identifier": "headphones"
     },
     "heart": {
-      "codepoint": 57466,
+      "codepoint": 57467,
       "fontFamily": "Charm",
       "identifier": "heart"
     },
     "help": {
-      "codepoint": 57467,
+      "codepoint": 57468,
       "fontFamily": "Charm",
       "identifier": "help"
     },
     "hexagon": {
-      "codepoint": 57468,
+      "codepoint": 57469,
       "fontFamily": "Charm",
       "identifier": "hexagon"
     },
     "home": {
-      "codepoint": 57469,
+      "codepoint": 57470,
       "fontFamily": "Charm",
       "identifier": "home"
     },
     "hourglass": {
-      "codepoint": 57470,
+      "codepoint": 57471,
       "fontFamily": "Charm",
       "identifier": "hourglass"
     },
     "id": {
-      "codepoint": 57471,
+      "codepoint": 57472,
       "fontFamily": "Charm",
       "identifier": "id"
     },
     "image": {
-      "codepoint": 57472,
+      "codepoint": 57473,
       "fontFamily": "Charm",
       "identifier": "image"
     },
     "inbox": {
-      "codepoint": 57473,
+      "codepoint": 57474,
       "fontFamily": "Charm",
       "identifier": "inbox"
     },
     "infinity": {
-      "codepoint": 57474,
+      "codepoint": 57475,
       "fontFamily": "Charm",
       "identifier": "infinity"
     },
     "info": {
-      "codepoint": 57475,
+      "codepoint": 57476,
       "fontFamily": "Charm",
       "identifier": "info"
     },
     "key": {
-      "codepoint": 57476,
+      "codepoint": 57477,
       "fontFamily": "Charm",
       "identifier": "key"
     },
     "laptop": {
-      "codepoint": 57477,
+      "codepoint": 57478,
       "fontFamily": "Charm",
       "identifier": "laptop"
     },
     "layout-columns": {
-      "codepoint": 57478,
+      "codepoint": 57479,
       "fontFamily": "Charm",
       "identifier": "layoutColumns"
     },
     "layout-dashboard": {
-      "codepoint": 57479,
+      "codepoint": 57480,
       "fontFamily": "Charm",
       "identifier": "layoutDashboard"
     },
     "layout-grid": {
-      "codepoint": 57480,
+      "codepoint": 57481,
       "fontFamily": "Charm",
       "identifier": "layoutGrid"
     },
     "layout-list": {
-      "codepoint": 57481,
+      "codepoint": 57482,
       "fontFamily": "Charm",
       "identifier": "layoutList"
     },
     "layout-rows": {
-      "codepoint": 57482,
+      "codepoint": 57483,
       "fontFamily": "Charm",
       "identifier": "layoutRows"
     },
     "layout-sidebar": {
-      "codepoint": 57483,
+      "codepoint": 57484,
       "fontFamily": "Charm",
       "identifier": "layoutSidebar"
     },
     "layout-stack-h": {
-      "codepoint": 57484,
+      "codepoint": 57485,
       "fontFamily": "Charm",
       "identifier": "layoutStackH"
     },
     "layout-stack-v": {
-      "codepoint": 57485,
+      "codepoint": 57486,
       "fontFamily": "Charm",
       "identifier": "layoutStackV"
     },
     "lightbulb": {
-      "codepoint": 57486,
+      "codepoint": 57487,
       "fontFamily": "Charm",
       "identifier": "lightbulb"
     },
     "lightning-bolt": {
-      "codepoint": 57487,
+      "codepoint": 57488,
       "fontFamily": "Charm",
       "identifier": "lightningBolt"
     },
     "link": {
-      "codepoint": 57488,
+      "codepoint": 57489,
       "fontFamily": "Charm",
       "identifier": "link"
     },
     "link-external": {
-      "codepoint": 57489,
+      "codepoint": 57490,
       "fontFamily": "Charm",
       "identifier": "linkExternal"
     },
     "link-slash": {
-      "codepoint": 57490,
+      "codepoint": 57491,
       "fontFamily": "Charm",
       "identifier": "linkSlash"
     },
     "mail": {
-      "codepoint": 57491,
+      "codepoint": 57492,
       "fontFamily": "Charm",
       "identifier": "mail"
     },
     "map": {
-      "codepoint": 57492,
+      "codepoint": 57493,
       "fontFamily": "Charm",
       "identifier": "map"
     },
     "map-pin": {
-      "codepoint": 57493,
+      "codepoint": 57494,
       "fontFamily": "Charm",
       "identifier": "mapPin"
     },
     "media-back": {
-      "codepoint": 57494,
+      "codepoint": 57495,
       "fontFamily": "Charm",
       "identifier": "mediaBack"
     },
     "media-eject": {
-      "codepoint": 57495,
+      "codepoint": 57496,
       "fontFamily": "Charm",
       "identifier": "mediaEject"
     },
     "media-fast-forward": {
-      "codepoint": 57496,
+      "codepoint": 57497,
       "fontFamily": "Charm",
       "identifier": "mediaFastForward"
     },
     "media-pause": {
-      "codepoint": 57497,
+      "codepoint": 57498,
       "fontFamily": "Charm",
       "identifier": "mediaPause"
     },
     "media-play": {
-      "codepoint": 57498,
+      "codepoint": 57499,
       "fontFamily": "Charm",
       "identifier": "mediaPlay"
     },
     "media-rewind": {
-      "codepoint": 57499,
+      "codepoint": 57500,
       "fontFamily": "Charm",
       "identifier": "mediaRewind"
     },
     "media-skip": {
-      "codepoint": 57500,
+      "codepoint": 57501,
       "fontFamily": "Charm",
       "identifier": "mediaSkip"
     },
     "menu-hamburger": {
-      "codepoint": 57501,
+      "codepoint": 57502,
       "fontFamily": "Charm",
       "identifier": "menuHamburger"
     },
     "menu-kebab": {
-      "codepoint": 57502,
+      "codepoint": 57503,
       "fontFamily": "Charm",
       "identifier": "menuKebab"
     },
     "menu-meatball": {
-      "codepoint": 57503,
+      "codepoint": 57504,
       "fontFamily": "Charm",
       "identifier": "menuMeatball"
     },
     "message": {
-      "codepoint": 57504,
+      "codepoint": 57505,
       "fontFamily": "Charm",
       "identifier": "message"
     },
     "messages": {
-      "codepoint": 57505,
+      "codepoint": 57506,
       "fontFamily": "Charm",
       "identifier": "messages"
     },
     "microphone": {
-      "codepoint": 57506,
+      "codepoint": 57507,
       "fontFamily": "Charm",
       "identifier": "microphone"
     },
     "minus": {
-      "codepoint": 57507,
+      "codepoint": 57508,
       "fontFamily": "Charm",
       "identifier": "minus"
     },
     "mobile": {
-      "codepoint": 57508,
+      "codepoint": 57509,
       "fontFamily": "Charm",
       "identifier": "mobile"
     },
     "monitor": {
-      "codepoint": 57509,
+      "codepoint": 57510,
       "fontFamily": "Charm",
       "identifier": "monitor"
     },
     "monitor-arrow": {
-      "codepoint": 57510,
+      "codepoint": 57511,
       "fontFamily": "Charm",
       "identifier": "monitorArrow"
     },
     "monitor-cross": {
-      "codepoint": 57511,
+      "codepoint": 57512,
       "fontFamily": "Charm",
       "identifier": "monitorCross"
     },
     "moon": {
-      "codepoint": 57512,
+      "codepoint": 57513,
       "fontFamily": "Charm",
       "identifier": "moon"
     },
     "move": {
-      "codepoint": 57513,
+      "codepoint": 57514,
       "fontFamily": "Charm",
       "identifier": "move"
     },
     "music": {
-      "codepoint": 57514,
+      "codepoint": 57515,
       "fontFamily": "Charm",
       "identifier": "music"
     },
     "newspaper": {
-      "codepoint": 57515,
+      "codepoint": 57516,
       "fontFamily": "Charm",
       "identifier": "newspaper"
     },
     "north-star": {
-      "codepoint": 57516,
+      "codepoint": 57517,
       "fontFamily": "Charm",
       "identifier": "northStar"
     },
     "notes": {
-      "codepoint": 57517,
+      "codepoint": 57518,
       "fontFamily": "Charm",
       "identifier": "notes"
     },
     "notes-cross": {
-      "codepoint": 57518,
+      "codepoint": 57519,
       "fontFamily": "Charm",
       "identifier": "notesCross"
     },
     "notes-tick": {
-      "codepoint": 57519,
+      "codepoint": 57520,
       "fontFamily": "Charm",
       "identifier": "notesTick"
     },
     "nut": {
-      "codepoint": 57520,
+      "codepoint": 57521,
       "fontFamily": "Charm",
       "identifier": "nut"
     },
     "octagon": {
-      "codepoint": 57521,
+      "codepoint": 57522,
       "fontFamily": "Charm",
       "identifier": "octagon"
     },
     "octagon-warning": {
-      "codepoint": 57522,
+      "codepoint": 57523,
       "fontFamily": "Charm",
       "identifier": "octagonWarning"
     },
     "organisation": {
-      "codepoint": 57523,
+      "codepoint": 57524,
       "fontFamily": "Charm",
       "identifier": "organisation"
     },
     "package": {
-      "codepoint": 57524,
+      "codepoint": 57525,
       "fontFamily": "Charm",
       "identifier": "package"
     },
     "padlock": {
-      "codepoint": 57525,
+      "codepoint": 57526,
       "fontFamily": "Charm",
       "identifier": "padlock"
     },
     "paper-plane": {
-      "codepoint": 57526,
+      "codepoint": 57527,
       "fontFamily": "Charm",
       "identifier": "paperPlane"
     },
     "paperclip": {
-      "codepoint": 57527,
+      "codepoint": 57528,
       "fontFamily": "Charm",
       "identifier": "paperclip"
     },
     "pencil": {
-      "codepoint": 57528,
+      "codepoint": 57529,
       "fontFamily": "Charm",
       "identifier": "pencil"
     },
     "people": {
-      "codepoint": 57529,
+      "codepoint": 57530,
       "fontFamily": "Charm",
       "identifier": "people"
     },
     "person": {
-      "codepoint": 57530,
+      "codepoint": 57531,
       "fontFamily": "Charm",
       "identifier": "person"
     },
     "phone": {
-      "codepoint": 57531,
+      "codepoint": 57532,
       "fontFamily": "Charm",
       "identifier": "phone"
     },
     "phone-call": {
-      "codepoint": 57532,
+      "codepoint": 57533,
       "fontFamily": "Charm",
       "identifier": "phoneCall"
     },
     "phone-cross": {
-      "codepoint": 57533,
+      "codepoint": 57534,
       "fontFamily": "Charm",
       "identifier": "phoneCross"
     },
     "phone-forward": {
-      "codepoint": 57534,
+      "codepoint": 57535,
       "fontFamily": "Charm",
       "identifier": "phoneForward"
     },
     "phone-incoming": {
-      "codepoint": 57535,
+      "codepoint": 57536,
       "fontFamily": "Charm",
       "identifier": "phoneIncoming"
     },
     "phone-outgoing": {
-      "codepoint": 57536,
+      "codepoint": 57537,
       "fontFamily": "Charm",
       "identifier": "phoneOutgoing"
     },
     "pin": {
-      "codepoint": 57537,
+      "codepoint": 57538,
       "fontFamily": "Charm",
       "identifier": "pin"
     },
     "plant-pot": {
-      "codepoint": 57538,
+      "codepoint": 57539,
       "fontFamily": "Charm",
       "identifier": "plantPot"
     },
     "plus": {
-      "codepoint": 57539,
+      "codepoint": 57540,
       "fontFamily": "Charm",
       "identifier": "plus"
     },
     "power": {
-      "codepoint": 57540,
+      "codepoint": 57541,
       "fontFamily": "Charm",
       "identifier": "power"
     },
     "printer": {
-      "codepoint": 57541,
+      "codepoint": 57542,
       "fontFamily": "Charm",
       "identifier": "printer"
     },
     "pulse": {
-      "codepoint": 57542,
+      "codepoint": 57543,
       "fontFamily": "Charm",
       "identifier": "pulse"
     },
     "quote": {
-      "codepoint": 57543,
+      "codepoint": 57544,
       "fontFamily": "Charm",
       "identifier": "quote"
     },
     "refresh": {
-      "codepoint": 57544,
+      "codepoint": 57545,
       "fontFamily": "Charm",
       "identifier": "refresh"
     },
     "reply": {
-      "codepoint": 57545,
+      "codepoint": 57546,
       "fontFamily": "Charm",
       "identifier": "reply"
     },
     "robot": {
-      "codepoint": 57546,
+      "codepoint": 57547,
       "fontFamily": "Charm",
       "identifier": "robot"
     },
     "rocket": {
-      "codepoint": 57547,
+      "codepoint": 57548,
       "fontFamily": "Charm",
       "identifier": "rocket"
     },
     "rotate-anti-clockwise": {
-      "codepoint": 57548,
+      "codepoint": 57549,
       "fontFamily": "Charm",
       "identifier": "rotateAntiClockwise"
     },
     "rotate-clockwise": {
-      "codepoint": 57549,
+      "codepoint": 57550,
       "fontFamily": "Charm",
       "identifier": "rotateClockwise"
     },
     "scales": {
-      "codepoint": 57550,
+      "codepoint": 57551,
       "fontFamily": "Charm",
       "identifier": "scales"
     },
     "screen-maximise": {
-      "codepoint": 57551,
+      "codepoint": 57552,
       "fontFamily": "Charm",
       "identifier": "screenMaximise"
     },
     "screen-minimise": {
-      "codepoint": 57552,
+      "codepoint": 57553,
       "fontFamily": "Charm",
       "identifier": "screenMinimise"
     },
     "search": {
-      "codepoint": 57553,
+      "codepoint": 57554,
       "fontFamily": "Charm",
       "identifier": "search"
     },
     "server": {
-      "codepoint": 57554,
+      "codepoint": 57555,
       "fontFamily": "Charm",
       "identifier": "server"
     },
     "share": {
-      "codepoint": 57555,
+      "codepoint": 57556,
       "fontFamily": "Charm",
       "identifier": "share"
     },
     "shield": {
-      "codepoint": 57556,
+      "codepoint": 57557,
       "fontFamily": "Charm",
       "identifier": "shield"
     },
     "shield-cross": {
-      "codepoint": 57557,
+      "codepoint": 57558,
       "fontFamily": "Charm",
       "identifier": "shieldCross"
     },
     "shield-keyhole": {
-      "codepoint": 57558,
+      "codepoint": 57559,
       "fontFamily": "Charm",
       "identifier": "shieldKeyhole"
     },
     "shield-tick": {
-      "codepoint": 57559,
+      "codepoint": 57560,
       "fontFamily": "Charm",
       "identifier": "shieldTick"
     },
     "shield-warning": {
-      "codepoint": 57560,
+      "codepoint": 57561,
       "fontFamily": "Charm",
       "identifier": "shieldWarning"
     },
     "shopping-bag": {
-      "codepoint": 57561,
+      "codepoint": 57562,
       "fontFamily": "Charm",
       "identifier": "shoppingBag"
     },
     "sign-in": {
-      "codepoint": 57562,
+      "codepoint": 57563,
       "fontFamily": "Charm",
       "identifier": "signIn"
     },
     "sign-out": {
-      "codepoint": 57563,
+      "codepoint": 57564,
       "fontFamily": "Charm",
       "identifier": "signOut"
     },
     "signpost": {
-      "codepoint": 57564,
+      "codepoint": 57565,
       "fontFamily": "Charm",
       "identifier": "signpost"
     },
     "skull": {
-      "codepoint": 57565,
+      "codepoint": 57566,
       "fontFamily": "Charm",
       "identifier": "skull"
     },
     "snowflake": {
-      "codepoint": 57566,
+      "codepoint": 57567,
       "fontFamily": "Charm",
       "identifier": "snowflake"
     },
     "sound-down": {
-      "codepoint": 57567,
+      "codepoint": 57568,
       "fontFamily": "Charm",
       "identifier": "soundDown"
     },
     "sound-mute": {
-      "codepoint": 57568,
+      "codepoint": 57569,
       "fontFamily": "Charm",
       "identifier": "soundMute"
     },
     "sound-up": {
-      "codepoint": 57569,
+      "codepoint": 57570,
       "fontFamily": "Charm",
       "identifier": "soundUp"
     },
     "speaker": {
-      "codepoint": 57570,
+      "codepoint": 57571,
       "fontFamily": "Charm",
       "identifier": "speaker"
     },
     "square": {
-      "codepoint": 57571,
+      "codepoint": 57572,
       "fontFamily": "Charm",
       "identifier": "square"
     },
     "square-cross": {
-      "codepoint": 57572,
+      "codepoint": 57573,
       "fontFamily": "Charm",
       "identifier": "squareCross"
     },
     "square-tick": {
-      "codepoint": 57573,
+      "codepoint": 57574,
       "fontFamily": "Charm",
       "identifier": "squareTick"
     },
     "stack": {
-      "codepoint": 57574,
+      "codepoint": 57575,
       "fontFamily": "Charm",
       "identifier": "stack"
     },
     "stack-pop": {
-      "codepoint": 57575,
+      "codepoint": 57576,
       "fontFamily": "Charm",
       "identifier": "stackPop"
     },
     "stack-push": {
-      "codepoint": 57576,
+      "codepoint": 57577,
       "fontFamily": "Charm",
       "identifier": "stackPush"
     },
     "star": {
-      "codepoint": 57577,
+      "codepoint": 57578,
       "fontFamily": "Charm",
       "identifier": "star"
     },
     "sticky-note": {
-      "codepoint": 57578,
+      "codepoint": 57579,
       "fontFamily": "Charm",
       "identifier": "stickyNote"
     },
     "sun": {
-      "codepoint": 57579,
+      "codepoint": 57580,
       "fontFamily": "Charm",
       "identifier": "sun"
     },
     "swap-horizontal": {
-      "codepoint": 57580,
+      "codepoint": 57581,
       "fontFamily": "Charm",
       "identifier": "swapHorizontal"
     },
     "swap-vertical": {
-      "codepoint": 57581,
+      "codepoint": 57582,
       "fontFamily": "Charm",
       "identifier": "swapVertical"
     },
     "sword": {
-      "codepoint": 57582,
+      "codepoint": 57583,
       "fontFamily": "Charm",
       "identifier": "sword"
     },
     "swords": {
-      "codepoint": 57583,
+      "codepoint": 57584,
       "fontFamily": "Charm",
       "identifier": "swords"
     },
     "tablet": {
-      "codepoint": 57584,
+      "codepoint": 57585,
       "fontFamily": "Charm",
       "identifier": "tablet"
     },
     "tag": {
-      "codepoint": 57585,
+      "codepoint": 57586,
       "fontFamily": "Charm",
       "identifier": "tag"
     },
     "telescope": {
-      "codepoint": 57586,
+      "codepoint": 57587,
       "fontFamily": "Charm",
       "identifier": "telescope"
     },
     "tent": {
-      "codepoint": 57587,
+      "codepoint": 57588,
       "fontFamily": "Charm",
       "identifier": "tent"
     },
     "terminal": {
-      "codepoint": 57588,
+      "codepoint": 57589,
       "fontFamily": "Charm",
       "identifier": "terminal"
     },
     "thumb-down": {
-      "codepoint": 57589,
+      "codepoint": 57590,
       "fontFamily": "Charm",
       "identifier": "thumbDown"
     },
     "thumb-up": {
-      "codepoint": 57590,
+      "codepoint": 57591,
       "fontFamily": "Charm",
       "identifier": "thumbUp"
     },
     "tick": {
-      "codepoint": 57591,
+      "codepoint": 57592,
       "fontFamily": "Charm",
       "identifier": "tick"
     },
     "tick-double": {
-      "codepoint": 57592,
+      "codepoint": 57593,
       "fontFamily": "Charm",
       "identifier": "tickDouble"
     },
     "ticket": {
-      "codepoint": 57593,
+      "codepoint": 57594,
       "fontFamily": "Charm",
       "identifier": "ticket"
     },
     "tree-fir": {
-      "codepoint": 57594,
+      "codepoint": 57595,
       "fontFamily": "Charm",
       "identifier": "treeFir"
     },
     "triangle": {
-      "codepoint": 57595,
+      "codepoint": 57596,
       "fontFamily": "Charm",
       "identifier": "triangle"
     },
     "trophy": {
-      "codepoint": 57596,
+      "codepoint": 57597,
       "fontFamily": "Charm",
       "identifier": "trophy"
     },
     "umbrella": {
-      "codepoint": 57597,
+      "codepoint": 57598,
       "fontFamily": "Charm",
       "identifier": "umbrella"
     },
     "upload": {
-      "codepoint": 57598,
+      "codepoint": 57599,
       "fontFamily": "Charm",
       "identifier": "upload"
     },
     "wifi": {
-      "codepoint": 57599,
+      "codepoint": 57600,
       "fontFamily": "Charm",
       "identifier": "wifi"
     },
     "wifi-fair": {
-      "codepoint": 57600,
+      "codepoint": 57601,
       "fontFamily": "Charm",
       "identifier": "wifiFair"
     },
     "wifi-poor": {
-      "codepoint": 57601,
+      "codepoint": 57602,
       "fontFamily": "Charm",
       "identifier": "wifiPoor"
     },
     "wifi-slash": {
-      "codepoint": 57602,
+      "codepoint": 57603,
       "fontFamily": "Charm",
       "identifier": "wifiSlash"
     },
     "wifi-warning": {
-      "codepoint": 57603,
+      "codepoint": 57604,
       "fontFamily": "Charm",
       "identifier": "wifiWarning"
     },
     "zoom-in": {
-      "codepoint": 57604,
+      "codepoint": 57605,
       "fontFamily": "Charm",
       "identifier": "zoomIn"
     },
     "zoom-out": {
-      "codepoint": 57605,
+      "codepoint": 57606,
       "fontFamily": "Charm",
       "identifier": "zoomOut"
     }

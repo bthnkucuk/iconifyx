@@ -46,28315 +46,28315 @@ class OpenmojiIcons {
 
   /// `abacus`
   static const IconifyIconData abacus = IconifyIconData(IconData(
-    0xe7b3,
+    0xe004,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `accordion`
   static const IconifyIconData accordion = IconifyIconData(IconData(
-    0xe7b4,
+    0xe005,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `add-button`
   static const IconifyIconData addButton = IconifyIconData(IconData(
-    0xe004,
+    0xe006,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `add-contact`
   static const IconifyIconData addContact = IconifyIconData(IconData(
-    0xe005,
+    0xe007,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `adhesive-bandage`
   static const IconifyIconData adhesiveBandage = IconifyIconData(IconData(
-    0xe006,
+    0xe008,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `admission-tickets`
   static const IconifyIconData admissionTickets = IconifyIconData(IconData(
-    0xe007,
+    0xe009,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `aerial-tramway`
   static const IconifyIconData aerialTramway = IconifyIconData(IconData(
-    0xe7b5,
+    0xe00a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `agender`
   static const IconifyIconData agender = IconifyIconData(IconData(
-    0xe008,
+    0xe00b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ai-hand`
   static const IconifyIconData aiHand = IconifyIconData(IconData(
-    0xe009,
+    0xe00c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `airplane`
   static const IconifyIconData airplane = IconifyIconData(IconData(
-    0xe00a,
+    0xe00d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `airplane-arrival`
   static const IconifyIconData airplaneArrival = IconifyIconData(IconData(
-    0xe00b,
+    0xe00e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `airplane-departure`
   static const IconifyIconData airplaneDeparture = IconifyIconData(IconData(
-    0xe00c,
+    0xe00f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `alabama-flag`
   static const IconifyIconData alabamaFlag = IconifyIconData(IconData(
-    0xe00d,
+    0xe010,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `alarm-clock`
   static const IconifyIconData alarmClock = IconifyIconData(IconData(
-    0xe00e,
+    0xe011,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `alembic`
   static const IconifyIconData alembic = IconifyIconData(IconData(
-    0xe7b6,
+    0xe012,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `alien`
   static const IconifyIconData alien = IconifyIconData(IconData(
-    0xe00f,
+    0xe013,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ambulance`
   static const IconifyIconData ambulance = IconifyIconData(IconData(
-    0xe010,
+    0xe014,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `american-football`
   static const IconifyIconData americanFootball = IconifyIconData(IconData(
-    0xe7b7,
+    0xe015,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `amphora`
   static const IconifyIconData amphora = IconifyIconData(IconData(
-    0xe7b8,
+    0xe016,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `anatomical-heart`
   static const IconifyIconData anatomicalHeart = IconifyIconData(IconData(
-    0xe011,
+    0xe017,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `anchor`
   static const IconifyIconData anchor = IconifyIconData(IconData(
-    0xe012,
+    0xe018,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `android`
   static const IconifyIconData android = IconifyIconData(IconData(
-    0xe013,
+    0xe019,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `anger-symbol`
   static const IconifyIconData angerSymbol = IconifyIconData(IconData(
-    0xe014,
+    0xe01a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `angry-face`
   static const IconifyIconData angryFace = IconifyIconData(IconData(
-    0xe015,
+    0xe01b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `angry-face-with-horns`
   static const IconifyIconData angryFaceWithHorns = IconifyIconData(IconData(
-    0xe016,
+    0xe01c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `anguished-face`
   static const IconifyIconData anguishedFace = IconifyIconData(IconData(
-    0xe7b9,
+    0xe01d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `annoyed-face-with-tongue`
   static const IconifyIconData annoyedFaceWithTongue = IconifyIconData(IconData(
-    0xe017,
+    0xe01e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ant`
   static const IconifyIconData ant = IconifyIconData(IconData(
-    0xe7ba,
+    0xe01f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `antenna-bars`
   static const IconifyIconData antennaBars = IconifyIconData(IconData(
-    0xe7bb,
+    0xe020,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `anticlockwise-triangle-headed-top-u-shaped-arrow`
   static const IconifyIconData anticlockwiseTriangleHeadedTopUShapedArrow = IconifyIconData(IconData(
-    0xe018,
+    0xe021,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `anxious-face-with-sweat`
   static const IconifyIconData anxiousFaceWithSweat = IconifyIconData(IconData(
-    0xe019,
+    0xe022,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `apple`
   static const IconifyIconData apple = IconifyIconData(IconData(
-    0xe7bc,
+    0xe023,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `aquarius`
   static const IconifyIconData aquarius = IconifyIconData(IconData(
-    0xe7bd,
+    0xe024,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `aragon-flag`
   static const IconifyIconData aragonFlag = IconifyIconData(IconData(
-    0xe7be,
+    0xe025,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `aries`
   static const IconifyIconData aries = IconifyIconData(IconData(
-    0xe7bf,
+    0xe026,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `armchair`
   static const IconifyIconData armchair = IconifyIconData(IconData(
-    0xe7c0,
+    0xe027,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `aromantic`
   static const IconifyIconData aromantic = IconifyIconData(IconData(
-    0xe7c1,
+    0xe028,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `arrow-turn-right`
   static const IconifyIconData arrowTurnRight = IconifyIconData(IconData(
-    0xe01a,
+    0xe029,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `articulated-lorry`
   static const IconifyIconData articulatedLorry = IconifyIconData(IconData(
-    0xe01b,
+    0xe02a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `artist`
   static const IconifyIconData artist = IconifyIconData(IconData(
-    0xe7c2,
+    0xe02b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `artist-dark-skin-tone`
   static const IconifyIconData artistDarkSkinTone = IconifyIconData(IconData(
-    0xe7c3,
+    0xe02c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `artist-light-skin-tone`
   static const IconifyIconData artistLightSkinTone = IconifyIconData(IconData(
-    0xe7c4,
+    0xe02d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `artist-medium-dark-skin-tone`
   static const IconifyIconData artistMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe7c5,
+    0xe02e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `artist-medium-light-skin-tone`
   static const IconifyIconData artistMediumLightSkinTone = IconifyIconData(IconData(
-    0xe7c6,
+    0xe02f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `artist-medium-skin-tone`
   static const IconifyIconData artistMediumSkinTone = IconifyIconData(IconData(
-    0xe7c7,
+    0xe030,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `artstation`
   static const IconifyIconData artstation = IconifyIconData(IconData(
-    0xe01c,
+    0xe031,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `assembly-group`
   static const IconifyIconData assemblyGroup = IconifyIconData(IconData(
-    0xe01d,
+    0xe032,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `assembly-point`
   static const IconifyIconData assemblyPoint = IconifyIconData(IconData(
-    0xe01e,
+    0xe033,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `astonished-face`
   static const IconifyIconData astonishedFace = IconifyIconData(IconData(
-    0xe01f,
+    0xe034,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `astronaut`
   static const IconifyIconData astronaut = IconifyIconData(IconData(
-    0xe020,
+    0xe035,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `astronaut-dark-skin-tone`
   static const IconifyIconData astronautDarkSkinTone = IconifyIconData(IconData(
-    0xe7c8,
+    0xe036,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `astronaut-light-skin-tone`
   static const IconifyIconData astronautLightSkinTone = IconifyIconData(IconData(
-    0xe021,
+    0xe037,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `astronaut-medium-dark-skin-tone`
   static const IconifyIconData astronautMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe7c9,
+    0xe038,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `astronaut-medium-light-skin-tone`
   static const IconifyIconData astronautMediumLightSkinTone = IconifyIconData(IconData(
-    0xe022,
+    0xe039,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `astronaut-medium-skin-tone`
   static const IconifyIconData astronautMediumSkinTone = IconifyIconData(IconData(
-    0xe023,
+    0xe03a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `atm-sign`
   static const IconifyIconData atmSign = IconifyIconData(IconData(
-    0xe024,
+    0xe03b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `atom-bomb`
   static const IconifyIconData atomBomb = IconifyIconData(IconData(
-    0xe025,
+    0xe03c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `atom-symbol`
   static const IconifyIconData atomSymbol = IconifyIconData(IconData(
-    0xe026,
+    0xe03d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `augmented-reality`
   static const IconifyIconData augmentedReality = IconifyIconData(IconData(
-    0xe027,
+    0xe03e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `authority-building`
   static const IconifyIconData authorityBuilding = IconifyIconData(IconData(
-    0xe028,
+    0xe03f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `auto-rickshaw`
   static const IconifyIconData autoRickshaw = IconifyIconData(IconData(
-    0xe7ca,
+    0xe040,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `automobile`
   static const IconifyIconData automobile = IconifyIconData(IconData(
-    0xe029,
+    0xe041,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `autonom-car`
   static const IconifyIconData autonomCar = IconifyIconData(IconData(
-    0xe02a,
+    0xe042,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `autonomous-car`
   static const IconifyIconData autonomousCar = IconifyIconData(IconData(
-    0xe02b,
+    0xe043,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `avalanche`
   static const IconifyIconData avalanche = IconifyIconData(IconData(
-    0xe02c,
+    0xe044,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `avocado`
   static const IconifyIconData avocado = IconifyIconData(IconData(
-    0xe7cb,
+    0xe045,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `axe`
   static const IconifyIconData axe = IconifyIconData(IconData(
-    0xe7cc,
+    0xe046,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `axe2`
   static const IconifyIconData axe2 = IconifyIconData(IconData(
-    0xe7cd,
+    0xe047,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `b-button-blood-type`
   static const IconifyIconData bButtonBloodType = IconifyIconData(IconData(
-    0xe02d,
+    0xe048,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `baby`
   static const IconifyIconData baby = IconifyIconData(IconData(
-    0xe7ce,
+    0xe049,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `baby-angel`
   static const IconifyIconData babyAngel = IconifyIconData(IconData(
-    0xe02e,
+    0xe04a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `baby-angel-dark-skin-tone`
   static const IconifyIconData babyAngelDarkSkinTone = IconifyIconData(IconData(
-    0xe7cf,
+    0xe04b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `baby-angel-light-skin-tone`
   static const IconifyIconData babyAngelLightSkinTone = IconifyIconData(IconData(
-    0xe7d0,
+    0xe04c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `baby-angel-medium-dark-skin-tone`
   static const IconifyIconData babyAngelMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe7d1,
+    0xe04d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `baby-angel-medium-light-skin-tone`
   static const IconifyIconData babyAngelMediumLightSkinTone = IconifyIconData(IconData(
-    0xe02f,
+    0xe04e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `baby-angel-medium-skin-tone`
   static const IconifyIconData babyAngelMediumSkinTone = IconifyIconData(IconData(
-    0xe7d2,
+    0xe04f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `baby-bottle`
   static const IconifyIconData babyBottle = IconifyIconData(IconData(
-    0xe7d3,
+    0xe050,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `baby-chick`
   static const IconifyIconData babyChick = IconifyIconData(IconData(
-    0xe030,
+    0xe051,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `baby-dark-skin-tone`
   static const IconifyIconData babyDarkSkinTone = IconifyIconData(IconData(
-    0xe7d4,
+    0xe052,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `baby-light-skin-tone`
   static const IconifyIconData babyLightSkinTone = IconifyIconData(IconData(
-    0xe7d5,
+    0xe053,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `baby-medium-dark-skin-tone`
   static const IconifyIconData babyMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe7d6,
+    0xe054,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `baby-medium-light-skin-tone`
   static const IconifyIconData babyMediumLightSkinTone = IconifyIconData(IconData(
-    0xe7d7,
+    0xe055,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `baby-medium-skin-tone`
   static const IconifyIconData babyMediumSkinTone = IconifyIconData(IconData(
-    0xe7d8,
+    0xe056,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `baby-symbol`
   static const IconifyIconData babySymbol = IconifyIconData(IconData(
-    0xe031,
+    0xe057,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `back-arrow`
   static const IconifyIconData backArrow = IconifyIconData(IconData(
-    0xe032,
+    0xe058,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `backache`
   static const IconifyIconData backache = IconifyIconData(IconData(
-    0xe033,
+    0xe059,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `backhand-index-pointing-down`
   static const IconifyIconData backhandIndexPointingDown = IconifyIconData(IconData(
-    0xe034,
+    0xe05a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `backhand-index-pointing-down-light-skin-tone`
   static const IconifyIconData backhandIndexPointingDownLightSkinTone = IconifyIconData(IconData(
-    0xe035,
+    0xe05b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `backhand-index-pointing-down-medium-light-skin-tone`
   static const IconifyIconData backhandIndexPointingDownMediumLightSkinTone = IconifyIconData(IconData(
-    0xe036,
+    0xe05c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `backhand-index-pointing-down-medium-skin-tone`
   static const IconifyIconData backhandIndexPointingDownMediumSkinTone = IconifyIconData(IconData(
-    0xe037,
+    0xe05d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `backhand-index-pointing-left`
   static const IconifyIconData backhandIndexPointingLeft = IconifyIconData(IconData(
-    0xe038,
+    0xe05e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `backhand-index-pointing-left-dark-skin-tone`
   static const IconifyIconData backhandIndexPointingLeftDarkSkinTone = IconifyIconData(IconData(
-    0xe7d9,
+    0xe05f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `backhand-index-pointing-left-light-skin-tone`
   static const IconifyIconData backhandIndexPointingLeftLightSkinTone = IconifyIconData(IconData(
-    0xe039,
+    0xe060,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `backhand-index-pointing-left-medium-dark-skin-tone`
   static const IconifyIconData backhandIndexPointingLeftMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe7da,
+    0xe061,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `backhand-index-pointing-left-medium-light-skin-tone`
   static const IconifyIconData backhandIndexPointingLeftMediumLightSkinTone = IconifyIconData(IconData(
-    0xe03a,
+    0xe062,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `backhand-index-pointing-left-medium-skin-tone`
   static const IconifyIconData backhandIndexPointingLeftMediumSkinTone = IconifyIconData(IconData(
-    0xe03b,
+    0xe063,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `backhand-index-pointing-right`
   static const IconifyIconData backhandIndexPointingRight = IconifyIconData(IconData(
-    0xe03c,
+    0xe064,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `backhand-index-pointing-right-dark-skin-tone`
   static const IconifyIconData backhandIndexPointingRightDarkSkinTone = IconifyIconData(IconData(
-    0xe7db,
+    0xe065,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `backhand-index-pointing-right-light-skin-tone`
   static const IconifyIconData backhandIndexPointingRightLightSkinTone = IconifyIconData(IconData(
-    0xe03d,
+    0xe066,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `backhand-index-pointing-right-medium-dark-skin-tone`
   static const IconifyIconData backhandIndexPointingRightMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe7dc,
+    0xe067,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `backhand-index-pointing-right-medium-light-skin-tone`
   static const IconifyIconData backhandIndexPointingRightMediumLightSkinTone = IconifyIconData(IconData(
-    0xe03e,
+    0xe068,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `backhand-index-pointing-right-medium-skin-tone`
   static const IconifyIconData backhandIndexPointingRightMediumSkinTone = IconifyIconData(IconData(
-    0xe03f,
+    0xe069,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `backhand-index-pointing-up`
   static const IconifyIconData backhandIndexPointingUp = IconifyIconData(IconData(
-    0xe040,
+    0xe06a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `backhand-index-pointing-up-light-skin-tone`
   static const IconifyIconData backhandIndexPointingUpLightSkinTone = IconifyIconData(IconData(
-    0xe041,
+    0xe06b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `backhand-index-pointing-up-medium-light-skin-tone`
   static const IconifyIconData backhandIndexPointingUpMediumLightSkinTone = IconifyIconData(IconData(
-    0xe042,
+    0xe06c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `backhand-index-pointing-up-medium-skin-tone`
   static const IconifyIconData backhandIndexPointingUpMediumSkinTone = IconifyIconData(IconData(
-    0xe043,
+    0xe06d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `backpack`
   static const IconifyIconData backpack = IconifyIconData(IconData(
-    0xe044,
+    0xe06e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bacon`
   static const IconifyIconData bacon = IconifyIconData(IconData(
-    0xe045,
+    0xe06f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `badger`
   static const IconifyIconData badger = IconifyIconData(IconData(
-    0xe046,
+    0xe070,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `badminton`
   static const IconifyIconData badminton = IconifyIconData(IconData(
-    0xe047,
+    0xe071,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `baguette-bread`
   static const IconifyIconData baguetteBread = IconifyIconData(IconData(
-    0xe048,
+    0xe072,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `balance-scale`
   static const IconifyIconData balanceScale = IconifyIconData(IconData(
-    0xe049,
+    0xe073,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bald`
   static const IconifyIconData bald = IconifyIconData(IconData(
-    0xe04a,
+    0xe074,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `balearic-islands-flag`
   static const IconifyIconData balearicIslandsFlag = IconifyIconData(IconData(
-    0xe7dd,
+    0xe075,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ballet-dancer`
   static const IconifyIconData balletDancer = IconifyIconData(IconData(
-    0xe04b,
+    0xe076,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ballet-dancer-dark-skin-tone`
   static const IconifyIconData balletDancerDarkSkinTone = IconifyIconData(IconData(
-    0xe7de,
+    0xe077,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ballet-dancer-light-skin-tone`
   static const IconifyIconData balletDancerLightSkinTone = IconifyIconData(IconData(
-    0xe04c,
+    0xe078,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ballet-dancer-medium-dark-skin-tone`
   static const IconifyIconData balletDancerMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe7df,
+    0xe079,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ballet-dancer-medium-light-skin-tone`
   static const IconifyIconData balletDancerMediumLightSkinTone = IconifyIconData(IconData(
-    0xe04d,
+    0xe07a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ballet-dancer-medium-skin-tone`
   static const IconifyIconData balletDancerMediumSkinTone = IconifyIconData(IconData(
-    0xe04e,
+    0xe07b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ballet-shoes`
   static const IconifyIconData balletShoes = IconifyIconData(IconData(
-    0xe04f,
+    0xe07c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `balloon`
   static const IconifyIconData balloon = IconifyIconData(IconData(
-    0xe050,
+    0xe07d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ballot-box-with-ballot`
   static const IconifyIconData ballotBoxWithBallot = IconifyIconData(IconData(
-    0xe051,
+    0xe07e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `banana`
   static const IconifyIconData banana = IconifyIconData(IconData(
-    0xe052,
+    0xe07f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bandage-change`
   static const IconifyIconData bandageChange = IconifyIconData(IconData(
-    0xe053,
+    0xe080,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bandage-scissors`
   static const IconifyIconData bandageScissors = IconifyIconData(IconData(
-    0xe054,
+    0xe081,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bank`
   static const IconifyIconData bank = IconifyIconData(IconData(
-    0xe055,
+    0xe082,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bar-chart`
   static const IconifyIconData barChart = IconifyIconData(IconData(
-    0xe056,
+    0xe083,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `barber-pole`
   static const IconifyIconData barberPole = IconifyIconData(IconData(
-    0xe057,
+    0xe084,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `barcode`
   static const IconifyIconData barcode = IconifyIconData(IconData(
-    0xe058,
+    0xe085,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bari-flag`
   static const IconifyIconData bariFlag = IconifyIconData(IconData(
-    0xe059,
+    0xe086,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `barista`
   static const IconifyIconData barista = IconifyIconData(IconData(
-    0xe7e0,
+    0xe087,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `baseball`
   static const IconifyIconData baseball = IconifyIconData(IconData(
-    0xe05a,
+    0xe088,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `basket`
   static const IconifyIconData basket = IconifyIconData(IconData(
-    0xe7e1,
+    0xe089,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `basque-flag`
   static const IconifyIconData basqueFlag = IconifyIconData(IconData(
-    0xe7e2,
+    0xe08a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bat`
   static const IconifyIconData bat = IconifyIconData(IconData(
-    0xe05b,
+    0xe08b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bathtub`
   static const IconifyIconData bathtub = IconifyIconData(IconData(
-    0xe05c,
+    0xe08c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `battery`
   static const IconifyIconData battery = IconifyIconData(IconData(
-    0xe05d,
+    0xe08d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bavaria-flag`
   static const IconifyIconData bavariaFlag = IconifyIconData(IconData(
-    0xe7e3,
+    0xe08e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bdsm-rights`
   static const IconifyIconData bdsmRights = IconifyIconData(IconData(
-    0xe7e4,
+    0xe08f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `beach-with-umbrella`
   static const IconifyIconData beachWithUmbrella = IconifyIconData(IconData(
-    0xe05e,
+    0xe090,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `beaming-face-with-smiling-eyes`
   static const IconifyIconData beamingFaceWithSmilingEyes = IconifyIconData(IconData(
-    0xe05f,
+    0xe091,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `beating-heart`
   static const IconifyIconData beatingHeart = IconifyIconData(IconData(
-    0xe060,
+    0xe092,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bed-linen`
   static const IconifyIconData bedLinen = IconifyIconData(IconData(
-    0xe061,
+    0xe093,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `beer-mug`
   static const IconifyIconData beerMug = IconifyIconData(IconData(
-    0xe062,
+    0xe094,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bell`
   static const IconifyIconData bell = IconifyIconData(IconData(
-    0xe063,
+    0xe095,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bell-pepper`
   static const IconifyIconData bellPepper = IconifyIconData(IconData(
-    0xe7e5,
+    0xe096,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bell-with-slash`
   static const IconifyIconData bellWithSlash = IconifyIconData(IconData(
-    0xe064,
+    0xe097,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bellhop-bell`
   static const IconifyIconData bellhopBell = IconifyIconData(IconData(
-    0xe7e6,
+    0xe098,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `beluga`
   static const IconifyIconData beluga = IconifyIconData(IconData(
-    0xe065,
+    0xe099,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bento-box`
   static const IconifyIconData bentoBox = IconifyIconData(IconData(
-    0xe7e7,
+    0xe09a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `berber-flag`
   static const IconifyIconData berberFlag = IconifyIconData(IconData(
-    0xe7e8,
+    0xe09b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `berlin-flag`
   static const IconifyIconData berlinFlag = IconifyIconData(IconData(
-    0xe066,
+    0xe09c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `beverage-box`
   static const IconifyIconData beverageBox = IconifyIconData(IconData(
-    0xe067,
+    0xe09d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bicycle`
   static const IconifyIconData bicycle = IconifyIconData(IconData(
-    0xe7e9,
+    0xe09e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `biohazard`
   static const IconifyIconData biohazard = IconifyIconData(IconData(
-    0xe068,
+    0xe09f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `birthday-cake`
   static const IconifyIconData birthdayCake = IconifyIconData(IconData(
-    0xe069,
+    0xe0a0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `biting-lip`
   static const IconifyIconData bitingLip = IconifyIconData(IconData(
-    0xe06a,
+    0xe0a1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-bird`
   static const IconifyIconData blackBird = IconifyIconData(IconData(
-    0xe06b,
+    0xe0a2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-cat`
   static const IconifyIconData blackCat = IconifyIconData(IconData(
-    0xe06c,
+    0xe0a3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-chess-bishop`
   static const IconifyIconData blackChessBishop = IconifyIconData(IconData(
-    0xe06d,
+    0xe0a4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-chess-king`
   static const IconifyIconData blackChessKing = IconifyIconData(IconData(
-    0xe06e,
+    0xe0a5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-chess-knight`
   static const IconifyIconData blackChessKnight = IconifyIconData(IconData(
-    0xe7ea,
+    0xe0a6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-chess-queen`
   static const IconifyIconData blackChessQueen = IconifyIconData(IconData(
-    0xe06f,
+    0xe0a7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-chess-rook`
   static const IconifyIconData blackChessRook = IconifyIconData(IconData(
-    0xe070,
+    0xe0a8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-circle`
   static const IconifyIconData blackCircle = IconifyIconData(IconData(
-    0xe071,
+    0xe0a9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-flag`
   static const IconifyIconData blackFlag = IconifyIconData(IconData(
-    0xe072,
+    0xe0aa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-heart`
   static const IconifyIconData blackHeart = IconifyIconData(IconData(
-    0xe073,
+    0xe0ab,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-hexagon`
   static const IconifyIconData blackHexagon = IconifyIconData(IconData(
-    0xe074,
+    0xe0ac,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-hole`
   static const IconifyIconData blackHole = IconifyIconData(IconData(
-    0xe7eb,
+    0xe0ad,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-large-circle`
   static const IconifyIconData blackLargeCircle = IconifyIconData(IconData(
-    0xe075,
+    0xe0ae,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-large-square`
   static const IconifyIconData blackLargeSquare = IconifyIconData(IconData(
-    0xe076,
+    0xe0af,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-medium-small-square`
   static const IconifyIconData blackMediumSmallSquare = IconifyIconData(IconData(
-    0xe077,
+    0xe0b0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-medium-square`
   static const IconifyIconData blackMediumSquare = IconifyIconData(IconData(
-    0xe078,
+    0xe0b1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-nib`
   static const IconifyIconData blackNib = IconifyIconData(IconData(
-    0xe079,
+    0xe0b2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-octagon`
   static const IconifyIconData blackOctagon = IconifyIconData(IconData(
-    0xe07a,
+    0xe0b3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-pentagon`
   static const IconifyIconData blackPentagon = IconifyIconData(IconData(
-    0xe07b,
+    0xe0b4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-rectangle`
   static const IconifyIconData blackRectangle = IconifyIconData(IconData(
-    0xe07c,
+    0xe0b5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-small-square`
   static const IconifyIconData blackSmallSquare = IconifyIconData(IconData(
-    0xe07d,
+    0xe0b6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-square-button`
   static const IconifyIconData blackSquareButton = IconifyIconData(IconData(
-    0xe07e,
+    0xe0b7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-star`
   static const IconifyIconData blackStar = IconifyIconData(IconData(
-    0xe07f,
+    0xe0b8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-vertical-ellipse`
   static const IconifyIconData blackVerticalEllipse = IconifyIconData(IconData(
-    0xe080,
+    0xe0b9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `black-vertical-rectangle`
   static const IconifyIconData blackVerticalRectangle = IconifyIconData(IconData(
-    0xe081,
+    0xe0ba,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `blood-transfusion`
   static const IconifyIconData bloodTransfusion = IconifyIconData(IconData(
-    0xe082,
+    0xe0bb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `blossom`
   static const IconifyIconData blossom = IconifyIconData(IconData(
-    0xe7ec,
+    0xe0bc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `blue-book`
   static const IconifyIconData blueBook = IconifyIconData(IconData(
-    0xe7ed,
+    0xe0bd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `blue-circle`
   static const IconifyIconData blueCircle = IconifyIconData(IconData(
-    0xe083,
+    0xe0be,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `blue-flag`
   static const IconifyIconData blueFlag = IconifyIconData(IconData(
-    0xe084,
+    0xe0bf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `blue-hexagon`
   static const IconifyIconData blueHexagon = IconifyIconData(IconData(
-    0xe085,
+    0xe0c0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `blue-square`
   static const IconifyIconData blueSquare = IconifyIconData(IconData(
-    0xe086,
+    0xe0c1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `blueberries`
   static const IconifyIconData blueberries = IconifyIconData(IconData(
-    0xe7ee,
+    0xe0c2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bomb`
   static const IconifyIconData bomb = IconifyIconData(IconData(
-    0xe087,
+    0xe0c3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bone`
   static const IconifyIconData bone = IconifyIconData(IconData(
-    0xe088,
+    0xe0c4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bookmark`
   static const IconifyIconData bookmark = IconifyIconData(IconData(
-    0xe7ef,
+    0xe0c5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bookmark-tabs`
   static const IconifyIconData bookmarkTabs = IconifyIconData(IconData(
-    0xe089,
+    0xe0c6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `books`
   static const IconifyIconData books = IconifyIconData(IconData(
-    0xe7f0,
+    0xe0c7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bottle-with-popping-cork`
   static const IconifyIconData bottleWithPoppingCork = IconifyIconData(IconData(
-    0xe7f1,
+    0xe0c8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `boule-bread`
   static const IconifyIconData bouleBread = IconifyIconData(IconData(
-    0xe7f2,
+    0xe0c9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bouquet`
   static const IconifyIconData bouquet = IconifyIconData(IconData(
-    0xe7f3,
+    0xe0ca,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bow-and-arrow`
   static const IconifyIconData bowAndArrow = IconifyIconData(IconData(
-    0xe7f4,
+    0xe0cb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bowl-with-spoon`
   static const IconifyIconData bowlWithSpoon = IconifyIconData(IconData(
-    0xe08a,
+    0xe0cc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bowling`
   static const IconifyIconData bowling = IconifyIconData(IconData(
-    0xe08b,
+    0xe0cd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `boxing-glove`
   static const IconifyIconData boxingGlove = IconifyIconData(IconData(
-    0xe08c,
+    0xe0ce,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `boy`
   static const IconifyIconData boy = IconifyIconData(IconData(
-    0xe08d,
+    0xe0cf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `boy-dark-skin-tone`
   static const IconifyIconData boyDarkSkinTone = IconifyIconData(IconData(
-    0xe7f5,
+    0xe0d0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `boy-light-skin-tone`
   static const IconifyIconData boyLightSkinTone = IconifyIconData(IconData(
-    0xe7f6,
+    0xe0d1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `boy-medium-dark-skin-tone`
   static const IconifyIconData boyMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe7f7,
+    0xe0d2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `boy-medium-light-skin-tone`
   static const IconifyIconData boyMediumLightSkinTone = IconifyIconData(IconData(
-    0xe08e,
+    0xe0d3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `boy-medium-skin-tone`
   static const IconifyIconData boyMediumSkinTone = IconifyIconData(IconData(
-    0xe7f8,
+    0xe0d4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `brain`
   static const IconifyIconData brain = IconifyIconData(IconData(
-    0xe08f,
+    0xe0d5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `brain2`
   static const IconifyIconData brain2 = IconifyIconData(IconData(
-    0xe090,
+    0xe0d6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bread`
   static const IconifyIconData bread = IconifyIconData(IconData(
-    0xe091,
+    0xe0d7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `breast-feeding`
   static const IconifyIconData breastFeeding = IconifyIconData(IconData(
-    0xe7f9,
+    0xe0d8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `breast-feeding-dark-skin-tone`
   static const IconifyIconData breastFeedingDarkSkinTone = IconifyIconData(IconData(
-    0xe7fa,
+    0xe0d9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `breast-feeding-light-skin-tone`
   static const IconifyIconData breastFeedingLightSkinTone = IconifyIconData(IconData(
-    0xe7fb,
+    0xe0da,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `breast-feeding-medium-dark-skin-tone`
   static const IconifyIconData breastFeedingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe7fc,
+    0xe0db,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `breast-feeding-medium-light-skin-tone`
   static const IconifyIconData breastFeedingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe7fd,
+    0xe0dc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `breast-feeding-medium-skin-tone`
   static const IconifyIconData breastFeedingMediumSkinTone = IconifyIconData(IconData(
-    0xe7fe,
+    0xe0dd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bretagne-flag`
   static const IconifyIconData bretagneFlag = IconifyIconData(IconData(
-    0xe092,
+    0xe0de,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `brick`
   static const IconifyIconData brick = IconifyIconData(IconData(
-    0xe093,
+    0xe0df,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bride-with-veil`
   static const IconifyIconData brideWithVeil = IconifyIconData(IconData(
-    0xe7ff,
+    0xe0e0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bride-with-veil-dark-skin-tone`
   static const IconifyIconData brideWithVeilDarkSkinTone = IconifyIconData(IconData(
-    0xe800,
+    0xe0e1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bride-with-veil-light-skin-tone`
   static const IconifyIconData brideWithVeilLightSkinTone = IconifyIconData(IconData(
-    0xe801,
+    0xe0e2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bride-with-veil-medium-dark-skin-tone`
   static const IconifyIconData brideWithVeilMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe802,
+    0xe0e3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bride-with-veil-medium-light-skin-tone`
   static const IconifyIconData brideWithVeilMediumLightSkinTone = IconifyIconData(IconData(
-    0xe094,
+    0xe0e4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bride-with-veil-medium-skin-tone`
   static const IconifyIconData brideWithVeilMediumSkinTone = IconifyIconData(IconData(
-    0xe803,
+    0xe0e5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bridge-at-night`
   static const IconifyIconData bridgeAtNight = IconifyIconData(IconData(
-    0xe804,
+    0xe0e6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `briefcase`
   static const IconifyIconData briefcase = IconifyIconData(IconData(
-    0xe805,
+    0xe0e7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bright-button`
   static const IconifyIconData brightButton = IconifyIconData(IconData(
-    0xe095,
+    0xe0e8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `broccoli`
   static const IconifyIconData broccoli = IconifyIconData(IconData(
-    0xe806,
+    0xe0e9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `broken-chain`
   static const IconifyIconData brokenChain = IconifyIconData(IconData(
-    0xe096,
+    0xe0ea,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `broken-heart`
   static const IconifyIconData brokenHeart = IconifyIconData(IconData(
-    0xe807,
+    0xe0eb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `broom`
   static const IconifyIconData broom = IconifyIconData(IconData(
-    0xe808,
+    0xe0ec,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `brown-circle`
   static const IconifyIconData brownCircle = IconifyIconData(IconData(
-    0xe809,
+    0xe0ed,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `brown-mushroom`
   static const IconifyIconData brownMushroom = IconifyIconData(IconData(
-    0xe80a,
+    0xe0ee,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bubble-tea`
   static const IconifyIconData bubbleTea = IconifyIconData(IconData(
-    0xe80b,
+    0xe0ef,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bubbles`
   static const IconifyIconData bubbles = IconifyIconData(IconData(
-    0xe80c,
+    0xe0f0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bucket`
   static const IconifyIconData bucket = IconifyIconData(IconData(
-    0xe80d,
+    0xe0f1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bug`
   static const IconifyIconData bug = IconifyIconData(IconData(
-    0xe80e,
+    0xe0f2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `building-construction`
   static const IconifyIconData buildingConstruction = IconifyIconData(IconData(
-    0xe80f,
+    0xe0f3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bullet-train`
   static const IconifyIconData bulletTrain = IconifyIconData(IconData(
-    0xe097,
+    0xe0f4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bullseye`
   static const IconifyIconData bullseye = IconifyIconData(IconData(
-    0xe098,
+    0xe0f5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `burrito`
   static const IconifyIconData burrito = IconifyIconData(IconData(
-    0xe099,
+    0xe0f6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bus`
   static const IconifyIconData bus = IconifyIconData(IconData(
-    0xe09a,
+    0xe0f7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bus-stop`
   static const IconifyIconData busStop = IconifyIconData(IconData(
-    0xe810,
+    0xe0f8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `bust-in-silhouette`
   static const IconifyIconData bustInSilhouette = IconifyIconData(IconData(
-    0xe09b,
+    0xe0f9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `busts-in-silhouette`
   static const IconifyIconData bustsInSilhouette = IconifyIconData(IconData(
-    0xe09c,
+    0xe0fa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `butter`
   static const IconifyIconData butter = IconifyIconData(IconData(
-    0xe09d,
+    0xe0fb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `butterfly`
   static const IconifyIconData butterfly = IconifyIconData(IconData(
-    0xe09e,
+    0xe0fc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `c`
   static const IconifyIconData c = IconifyIconData(IconData(
-    0xe811,
+    0xe0fd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cable`
   static const IconifyIconData cable = IconifyIconData(IconData(
-    0xe09f,
+    0xe0fe,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cactus`
   static const IconifyIconData cactus = IconifyIconData(IconData(
-    0xe0a0,
+    0xe0ff,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cafeteria`
   static const IconifyIconData cafeteria = IconifyIconData(IconData(
-    0xe812,
+    0xe100,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cake`
   static const IconifyIconData cake = IconifyIconData(IconData(
-    0xe813,
+    0xe101,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `calendar`
   static const IconifyIconData calendar = IconifyIconData(IconData(
-    0xe0a1,
+    0xe102,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `california-flag`
   static const IconifyIconData californiaFlag = IconifyIconData(IconData(
-    0xe814,
+    0xe103,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `call-me-hand`
   static const IconifyIconData callMeHand = IconifyIconData(IconData(
-    0xe0a2,
+    0xe104,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `call-me-hand-light-skin-tone`
   static const IconifyIconData callMeHandLightSkinTone = IconifyIconData(IconData(
-    0xe0a3,
+    0xe105,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `call-me-hand-medium-light-skin-tone`
   static const IconifyIconData callMeHandMediumLightSkinTone = IconifyIconData(IconData(
-    0xe0a4,
+    0xe106,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `call-me-hand-medium-skin-tone`
   static const IconifyIconData callMeHandMediumSkinTone = IconifyIconData(IconData(
-    0xe0a5,
+    0xe107,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `camel`
   static const IconifyIconData camel = IconifyIconData(IconData(
-    0xe815,
+    0xe108,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `camera`
   static const IconifyIconData camera = IconifyIconData(IconData(
-    0xe0a6,
+    0xe109,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `camera-with-flash`
   static const IconifyIconData cameraWithFlash = IconifyIconData(IconData(
-    0xe0a7,
+    0xe10a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `camping`
   static const IconifyIconData camping = IconifyIconData(IconData(
-    0xe816,
+    0xe10b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cancer`
   static const IconifyIconData cancer = IconifyIconData(IconData(
-    0xe817,
+    0xe10c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `candle`
   static const IconifyIconData candle = IconifyIconData(IconData(
-    0xe0a8,
+    0xe10d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `candy`
   static const IconifyIconData candy = IconifyIconData(IconData(
-    0xe818,
+    0xe10e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `canned-food`
   static const IconifyIconData cannedFood = IconifyIconData(IconData(
-    0xe819,
+    0xe10f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cantabria-flag`
   static const IconifyIconData cantabriaFlag = IconifyIconData(IconData(
-    0xe81a,
+    0xe110,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `capricorn`
   static const IconifyIconData capricorn = IconifyIconData(IconData(
-    0xe81b,
+    0xe111,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `card-file-box`
   static const IconifyIconData cardFileBox = IconifyIconData(IconData(
-    0xe0a9,
+    0xe112,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `card-index`
   static const IconifyIconData cardIndex = IconifyIconData(IconData(
-    0xe0aa,
+    0xe113,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `card-index-dividers`
   static const IconifyIconData cardIndexDividers = IconifyIconData(IconData(
-    0xe0ab,
+    0xe114,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `carousel-horse`
   static const IconifyIconData carouselHorse = IconifyIconData(IconData(
-    0xe0ac,
+    0xe115,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `carpentry-saw`
   static const IconifyIconData carpentrySaw = IconifyIconData(IconData(
-    0xe0ad,
+    0xe116,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `carrot`
   static const IconifyIconData carrot = IconifyIconData(IconData(
-    0xe81c,
+    0xe117,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `castile-and-leon-flag`
   static const IconifyIconData castileAndLeonFlag = IconifyIconData(IconData(
-    0xe81d,
+    0xe118,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `castile-la-mancha-flag`
   static const IconifyIconData castileLaManchaFlag = IconifyIconData(IconData(
-    0xe81e,
+    0xe119,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `castle`
   static const IconifyIconData castle = IconifyIconData(IconData(
-    0xe81f,
+    0xe11a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cat-face`
   static const IconifyIconData catFace = IconifyIconData(IconData(
-    0xe0ae,
+    0xe11b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cat-with-tears-of-joy`
   static const IconifyIconData catWithTearsOfJoy = IconifyIconData(IconData(
-    0xe820,
+    0xe11c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cat-with-wry-smile`
   static const IconifyIconData catWithWrySmile = IconifyIconData(IconData(
-    0xe821,
+    0xe11d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `catalonia-flag`
   static const IconifyIconData cataloniaFlag = IconifyIconData(IconData(
-    0xe0af,
+    0xe11e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ceuta-flag`
   static const IconifyIconData ceutaFlag = IconifyIconData(IconData(
-    0xe822,
+    0xe11f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `chains`
   static const IconifyIconData chains = IconifyIconData(IconData(
-    0xe0b0,
+    0xe120,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `champignon-brown`
   static const IconifyIconData champignonBrown = IconifyIconData(IconData(
-    0xe823,
+    0xe121,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `champignon-white`
   static const IconifyIconData champignonWhite = IconifyIconData(IconData(
-    0xe824,
+    0xe122,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `charge-plug`
   static const IconifyIconData chargePlug = IconifyIconData(IconData(
-    0xe0b1,
+    0xe123,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `chart-decreasing`
   static const IconifyIconData chartDecreasing = IconifyIconData(IconData(
-    0xe0b2,
+    0xe124,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `chart-increasing`
   static const IconifyIconData chartIncreasing = IconifyIconData(IconData(
-    0xe0b3,
+    0xe125,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `chart-increasing-with-yen`
   static const IconifyIconData chartIncreasingWithYen = IconifyIconData(IconData(
-    0xe0b4,
+    0xe126,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `chats`
   static const IconifyIconData chats = IconifyIconData(IconData(
-    0xe0b5,
+    0xe127,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `check-box-with-check`
   static const IconifyIconData checkBoxWithCheck = IconifyIconData(IconData(
-    0xe0b6,
+    0xe128,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `check-mark`
   static const IconifyIconData checkMark = IconifyIconData(IconData(
-    0xe0b7,
+    0xe129,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `check-mark-button`
   static const IconifyIconData checkMarkButton = IconifyIconData(IconData(
-    0xe0b8,
+    0xe12a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cheese-wedge`
   static const IconifyIconData cheeseWedge = IconifyIconData(IconData(
-    0xe0b9,
+    0xe12b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `chequered-flag`
   static const IconifyIconData chequeredFlag = IconifyIconData(IconData(
-    0xe0ba,
+    0xe12c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cherries`
   static const IconifyIconData cherries = IconifyIconData(IconData(
-    0xe0bb,
+    0xe12d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `chess-pawn`
   static const IconifyIconData chessPawn = IconifyIconData(IconData(
-    0xe0bc,
+    0xe12e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `chestnut`
   static const IconifyIconData chestnut = IconifyIconData(IconData(
-    0xe825,
+    0xe12f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `chicken`
   static const IconifyIconData chicken = IconifyIconData(IconData(
-    0xe0bd,
+    0xe130,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `child`
   static const IconifyIconData child = IconifyIconData(IconData(
-    0xe0be,
+    0xe131,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `child-dark-skin-tone`
   static const IconifyIconData childDarkSkinTone = IconifyIconData(IconData(
-    0xe826,
+    0xe132,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `child-light-skin-tone`
   static const IconifyIconData childLightSkinTone = IconifyIconData(IconData(
-    0xe827,
+    0xe133,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `child-medium-dark-skin-tone`
   static const IconifyIconData childMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe828,
+    0xe134,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `child-medium-light-skin-tone`
   static const IconifyIconData childMediumLightSkinTone = IconifyIconData(IconData(
-    0xe0bf,
+    0xe135,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `child-medium-skin-tone`
   static const IconifyIconData childMediumSkinTone = IconifyIconData(IconData(
-    0xe829,
+    0xe136,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `children-crossing`
   static const IconifyIconData childrenCrossing = IconifyIconData(IconData(
-    0xe0c0,
+    0xe137,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `chopsticks`
   static const IconifyIconData chopsticks = IconifyIconData(IconData(
-    0xe82a,
+    0xe138,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `chrome`
   static const IconifyIconData chrome = IconifyIconData(IconData(
-    0xe82b,
+    0xe139,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `chrome-canary`
   static const IconifyIconData chromeCanary = IconifyIconData(IconData(
-    0xe0c1,
+    0xe13a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `chromium`
   static const IconifyIconData chromium = IconifyIconData(IconData(
-    0xe82c,
+    0xe13b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `church`
   static const IconifyIconData church = IconifyIconData(IconData(
-    0xe82d,
+    0xe13c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cigarette`
   static const IconifyIconData cigarette = IconifyIconData(IconData(
-    0xe0c2,
+    0xe13d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cinema`
   static const IconifyIconData cinema = IconifyIconData(IconData(
-    0xe0c3,
+    0xe13e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `circle-with-left-half-black`
   static const IconifyIconData circleWithLeftHalfBlack = IconifyIconData(IconData(
-    0xe0c4,
+    0xe13f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `circle-with-right-half-black`
   static const IconifyIconData circleWithRightHalfBlack = IconifyIconData(IconData(
-    0xe0c5,
+    0xe140,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `circled-anticlockwise-arrow`
   static const IconifyIconData circledAnticlockwiseArrow = IconifyIconData(IconData(
-    0xe0c6,
+    0xe141,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `circled-c-with-overlaid-backslash`
   static const IconifyIconData circledCWithOverlaidBackslash = IconifyIconData(IconData(
-    0xe0c7,
+    0xe142,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `circled-cc`
   static const IconifyIconData circledCc = IconifyIconData(IconData(
-    0xe0c8,
+    0xe143,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `circled-dollar-sign-with-overlaid-backslash`
   static const IconifyIconData circledDollarSignWithOverlaidBackslash = IconifyIconData(IconData(
-    0xe0c9,
+    0xe144,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `circled-equals`
   static const IconifyIconData circledEquals = IconifyIconData(IconData(
-    0xe0ca,
+    0xe145,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `circled-human-figure`
   static const IconifyIconData circledHumanFigure = IconifyIconData(IconData(
-    0xe0cb,
+    0xe146,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `circled-m`
   static const IconifyIconData circledM = IconifyIconData(IconData(
-    0xe0cc,
+    0xe147,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `circled-zero-with-slash`
   static const IconifyIconData circledZeroWithSlash = IconifyIconData(IconData(
-    0xe0cd,
+    0xe148,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `circuit`
   static const IconifyIconData circuit = IconifyIconData(IconData(
-    0xe0ce,
+    0xe149,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `circus-tent`
   static const IconifyIconData circusTent = IconifyIconData(IconData(
-    0xe0cf,
+    0xe14a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cityscape`
   static const IconifyIconData cityscape = IconifyIconData(IconData(
-    0xe0d0,
+    0xe14b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cl-button`
   static const IconifyIconData clButton = IconifyIconData(IconData(
-    0xe0d1,
+    0xe14c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `clamp`
   static const IconifyIconData clamp = IconifyIconData(IconData(
-    0xe0d2,
+    0xe14d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `clapper-board`
   static const IconifyIconData clapperBoard = IconifyIconData(IconData(
-    0xe0d3,
+    0xe14e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `clapping-hands`
   static const IconifyIconData clappingHands = IconifyIconData(IconData(
-    0xe0d4,
+    0xe14f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `clapping-hands-dark-skin-tone`
   static const IconifyIconData clappingHandsDarkSkinTone = IconifyIconData(IconData(
-    0xe82e,
+    0xe150,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `clapping-hands-light-skin-tone`
   static const IconifyIconData clappingHandsLightSkinTone = IconifyIconData(IconData(
-    0xe0d5,
+    0xe151,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `clapping-hands-medium-dark-skin-tone`
   static const IconifyIconData clappingHandsMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe82f,
+    0xe152,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `clapping-hands-medium-light-skin-tone`
   static const IconifyIconData clappingHandsMediumLightSkinTone = IconifyIconData(IconData(
-    0xe0d6,
+    0xe153,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `clapping-hands-medium-skin-tone`
   static const IconifyIconData clappingHandsMediumSkinTone = IconifyIconData(IconData(
-    0xe0d7,
+    0xe154,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `classical-building`
   static const IconifyIconData classicalBuilding = IconifyIconData(IconData(
-    0xe0d8,
+    0xe155,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `clinical-thermometer`
   static const IconifyIconData clinicalThermometer = IconifyIconData(IconData(
-    0xe0d9,
+    0xe156,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `clinking-beer-mugs`
   static const IconifyIconData clinkingBeerMugs = IconifyIconData(IconData(
-    0xe0da,
+    0xe157,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `clinking-glasses`
   static const IconifyIconData clinkingGlasses = IconifyIconData(IconData(
-    0xe0db,
+    0xe158,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `clockwise-vertical-arrows`
   static const IconifyIconData clockwiseVerticalArrows = IconifyIconData(IconData(
-    0xe830,
+    0xe159,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `close`
   static const IconifyIconData close = IconifyIconData(IconData(
-    0xe0dc,
+    0xe15a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `closed-book`
   static const IconifyIconData closedBook = IconifyIconData(IconData(
-    0xe0dd,
+    0xe15b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `closed-mailbox-with-lowered-flag`
   static const IconifyIconData closedMailboxWithLoweredFlag = IconifyIconData(IconData(
-    0xe831,
+    0xe15c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `closed-mailbox-with-raised-flag`
   static const IconifyIconData closedMailboxWithRaisedFlag = IconifyIconData(IconData(
-    0xe832,
+    0xe15d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cloud`
   static const IconifyIconData cloud = IconifyIconData(IconData(
-    0xe0de,
+    0xe15e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cloud-with-lightning`
   static const IconifyIconData cloudWithLightning = IconifyIconData(IconData(
-    0xe0df,
+    0xe15f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cloud-with-lightning-and-rain`
   static const IconifyIconData cloudWithLightningAndRain = IconifyIconData(IconData(
-    0xe833,
+    0xe160,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cloud-with-rain`
   static const IconifyIconData cloudWithRain = IconifyIconData(IconData(
-    0xe834,
+    0xe161,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cloud-with-snow`
   static const IconifyIconData cloudWithSnow = IconifyIconData(IconData(
-    0xe0e0,
+    0xe162,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `clown-face`
   static const IconifyIconData clownFace = IconifyIconData(IconData(
-    0xe0e1,
+    0xe163,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `club-suit`
   static const IconifyIconData clubSuit = IconifyIconData(IconData(
-    0xe0e2,
+    0xe164,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cocktail-glass`
   static const IconifyIconData cocktailGlass = IconifyIconData(IconData(
-    0xe835,
+    0xe165,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `code-editor`
   static const IconifyIconData codeEditor = IconifyIconData(IconData(
-    0xe0e3,
+    0xe166,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `coffee-grinder`
   static const IconifyIconData coffeeGrinder = IconifyIconData(IconData(
-    0xe836,
+    0xe167,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `coin`
   static const IconifyIconData coin = IconifyIconData(IconData(
-    0xe0e4,
+    0xe168,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cold-face`
   static const IconifyIconData coldFace = IconifyIconData(IconData(
-    0xe0e5,
+    0xe169,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `collaboration`
   static const IconifyIconData collaboration = IconifyIconData(IconData(
-    0xe0e6,
+    0xe16a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `collision`
   static const IconifyIconData collision = IconifyIconData(IconData(
-    0xe0e7,
+    0xe16b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `colorado-flag`
   static const IconifyIconData coloradoFlag = IconifyIconData(IconData(
-    0xe837,
+    0xe16c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `colossus-of-rhodes`
   static const IconifyIconData colossusOfRhodes = IconifyIconData(IconData(
-    0xe838,
+    0xe16d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `combining-enclosing-keycap`
   static const IconifyIconData combiningEnclosingKeycap = IconifyIconData(IconData(
-    0xe0e8,
+    0xe16e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `comet`
   static const IconifyIconData comet = IconifyIconData(IconData(
-    0xe0e9,
+    0xe16f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `comment`
   static const IconifyIconData comment = IconifyIconData(IconData(
-    0xe839,
+    0xe170,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `compass`
   static const IconifyIconData compass = IconifyIconData(IconData(
-    0xe0ea,
+    0xe171,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `compose`
   static const IconifyIconData compose = IconifyIconData(IconData(
-    0xe0eb,
+    0xe172,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `computer-disk`
   static const IconifyIconData computerDisk = IconifyIconData(IconData(
-    0xe0ec,
+    0xe173,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `computer-keyboard`
   static const IconifyIconData computerKeyboard = IconifyIconData(IconData(
-    0xe0ed,
+    0xe174,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `computer-mouse`
   static const IconifyIconData computerMouse = IconifyIconData(IconData(
-    0xe0ee,
+    0xe175,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `computer-mouse2`
   static const IconifyIconData computerMouse2 = IconifyIconData(IconData(
-    0xe0ef,
+    0xe176,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `confetti-ball`
   static const IconifyIconData confettiBall = IconifyIconData(IconData(
-    0xe83a,
+    0xe177,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `confounded-face`
   static const IconifyIconData confoundedFace = IconifyIconData(IconData(
-    0xe0f0,
+    0xe178,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `confused-face`
   static const IconifyIconData confusedFace = IconifyIconData(IconData(
-    0xe0f1,
+    0xe179,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `construction`
   static const IconifyIconData construction = IconifyIconData(IconData(
-    0xe83b,
+    0xe17a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `construction-worker`
   static const IconifyIconData constructionWorker = IconifyIconData(IconData(
-    0xe83c,
+    0xe17b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `construction-worker-dark-skin-tone`
   static const IconifyIconData constructionWorkerDarkSkinTone = IconifyIconData(IconData(
-    0xe83d,
+    0xe17c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `construction-worker-light-skin-tone`
   static const IconifyIconData constructionWorkerLightSkinTone = IconifyIconData(IconData(
-    0xe83e,
+    0xe17d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `construction-worker-medium-dark-skin-tone`
   static const IconifyIconData constructionWorkerMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe83f,
+    0xe17e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `construction-worker-medium-light-skin-tone`
   static const IconifyIconData constructionWorkerMediumLightSkinTone = IconifyIconData(IconData(
-    0xe840,
+    0xe17f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `construction-worker-medium-skin-tone`
   static const IconifyIconData constructionWorkerMediumSkinTone = IconifyIconData(IconData(
-    0xe841,
+    0xe180,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `contacts`
   static const IconifyIconData contacts = IconifyIconData(IconData(
-    0xe0f2,
+    0xe181,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `control-knobs`
   static const IconifyIconData controlKnobs = IconifyIconData(IconData(
-    0xe0f3,
+    0xe182,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cook`
   static const IconifyIconData cook = IconifyIconData(IconData(
-    0xe842,
+    0xe183,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cook-dark-skin-tone`
   static const IconifyIconData cookDarkSkinTone = IconifyIconData(IconData(
-    0xe843,
+    0xe184,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cook-light-skin-tone`
   static const IconifyIconData cookLightSkinTone = IconifyIconData(IconData(
-    0xe844,
+    0xe185,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cook-medium-dark-skin-tone`
   static const IconifyIconData cookMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe845,
+    0xe186,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cook-medium-light-skin-tone`
   static const IconifyIconData cookMediumLightSkinTone = IconifyIconData(IconData(
-    0xe0f4,
+    0xe187,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cook-medium-skin-tone`
   static const IconifyIconData cookMediumSkinTone = IconifyIconData(IconData(
-    0xe846,
+    0xe188,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cooked-rice`
   static const IconifyIconData cookedRice = IconifyIconData(IconData(
-    0xe0f5,
+    0xe189,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cooking`
   static const IconifyIconData cooking = IconifyIconData(IconData(
-    0xe0f6,
+    0xe18a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cool-button`
   static const IconifyIconData coolButton = IconifyIconData(IconData(
-    0xe847,
+    0xe18b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `copy`
   static const IconifyIconData copy = IconifyIconData(IconData(
-    0xe0f7,
+    0xe18c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `copyleft-symbol`
   static const IconifyIconData copyleftSymbol = IconifyIconData(IconData(
-    0xe0f8,
+    0xe18d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `copyright`
   static const IconifyIconData copyright = IconifyIconData(IconData(
-    0xe0f9,
+    0xe18e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `coral`
   static const IconifyIconData coral = IconifyIconData(IconData(
-    0xe0fa,
+    0xe18f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `counterclockwise-arrows-button`
   static const IconifyIconData counterclockwiseArrowsButton = IconifyIconData(IconData(
-    0xe848,
+    0xe190,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart`
   static const IconifyIconData coupleWithHeart = IconifyIconData(IconData(
-    0xe849,
+    0xe191,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-dark-skin-tone`
   static const IconifyIconData coupleWithHeartDarkSkinTone = IconifyIconData(IconData(
-    0xe84a,
+    0xe192,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-light-skin-tone`
   static const IconifyIconData coupleWithHeartLightSkinTone = IconifyIconData(IconData(
-    0xe84b,
+    0xe193,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man`
   static const IconifyIconData coupleWithHeartManMan = IconifyIconData(IconData(
-    0xe84c,
+    0xe194,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-dark-skin-tone`
   static const IconifyIconData coupleWithHeartManManDarkSkinTone = IconifyIconData(IconData(
-    0xe84d,
+    0xe195,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-dark-skin-tone-light-skin-tone`
   static const IconifyIconData coupleWithHeartManManDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe84e,
+    0xe196,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-dark-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData coupleWithHeartManManDarkSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe84f,
+    0xe197,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData coupleWithHeartManManDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe850,
+    0xe198,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData coupleWithHeartManManDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe851,
+    0xe199,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-light-skin-tone`
   static const IconifyIconData coupleWithHeartManManLightSkinTone = IconifyIconData(IconData(
-    0xe852,
+    0xe19a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-light-skin-tone-dark-skin-tone`
   static const IconifyIconData coupleWithHeartManManLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe853,
+    0xe19b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData coupleWithHeartManManLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe854,
+    0xe19c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-light-skin-tone-medium-light-skin-tone`
   static const IconifyIconData coupleWithHeartManManLightSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe855,
+    0xe19d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-light-skin-tone-medium-skin-tone`
   static const IconifyIconData coupleWithHeartManManLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe856,
+    0xe19e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-medium-dark-skin-tone`
   static const IconifyIconData coupleWithHeartManManMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe857,
+    0xe19f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-medium-dark-skin-tone-dark-skin-tone`
   static const IconifyIconData coupleWithHeartManManMediumDarkSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe858,
+    0xe1a0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-medium-dark-skin-tone-light-skin-tone`
   static const IconifyIconData coupleWithHeartManManMediumDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe859,
+    0xe1a1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-medium-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData coupleWithHeartManManMediumDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe85a,
+    0xe1a2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-medium-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData coupleWithHeartManManMediumDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe85b,
+    0xe1a3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-medium-light-skin-tone`
   static const IconifyIconData coupleWithHeartManManMediumLightSkinTone = IconifyIconData(IconData(
-    0xe0fb,
+    0xe1a4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-medium-light-skin-tone-dark-skin-tone`
   static const IconifyIconData coupleWithHeartManManMediumLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe85c,
+    0xe1a5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-medium-light-skin-tone-light-skin-tone`
   static const IconifyIconData coupleWithHeartManManMediumLightSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe85d,
+    0xe1a6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-medium-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData coupleWithHeartManManMediumLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe85e,
+    0xe1a7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-medium-light-skin-tone-medium-skin-tone`
   static const IconifyIconData coupleWithHeartManManMediumLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe85f,
+    0xe1a8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-medium-skin-tone`
   static const IconifyIconData coupleWithHeartManManMediumSkinTone = IconifyIconData(IconData(
-    0xe860,
+    0xe1a9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-medium-skin-tone-dark-skin-tone`
   static const IconifyIconData coupleWithHeartManManMediumSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe861,
+    0xe1aa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-medium-skin-tone-light-skin-tone`
   static const IconifyIconData coupleWithHeartManManMediumSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe862,
+    0xe1ab,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-medium-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData coupleWithHeartManManMediumSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe863,
+    0xe1ac,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-man-man-medium-skin-tone-medium-light-skin-tone`
   static const IconifyIconData coupleWithHeartManManMediumSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe864,
+    0xe1ad,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-medium-dark-skin-tone`
   static const IconifyIconData coupleWithHeartMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe865,
+    0xe1ae,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-medium-light-skin-tone`
   static const IconifyIconData coupleWithHeartMediumLightSkinTone = IconifyIconData(IconData(
-    0xe0fc,
+    0xe1af,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-medium-skin-tone`
   static const IconifyIconData coupleWithHeartMediumSkinTone = IconifyIconData(IconData(
-    0xe866,
+    0xe1b0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-person-person-dark-skin-tone-light-skin-tone`
   static const IconifyIconData coupleWithHeartPersonPersonDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe867,
+    0xe1b1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-person-person-dark-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData coupleWithHeartPersonPersonDarkSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe868,
+    0xe1b2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-person-person-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData coupleWithHeartPersonPersonDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe869,
+    0xe1b3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-person-person-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData coupleWithHeartPersonPersonDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe86a,
+    0xe1b4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-person-person-light-skin-tone-dark-skin-tone`
   static const IconifyIconData coupleWithHeartPersonPersonLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe86b,
+    0xe1b5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-person-person-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData coupleWithHeartPersonPersonLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe86c,
+    0xe1b6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-person-person-light-skin-tone-medium-light-skin-tone`
   static const IconifyIconData coupleWithHeartPersonPersonLightSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe86d,
+    0xe1b7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-person-person-light-skin-tone-medium-skin-tone`
   static const IconifyIconData coupleWithHeartPersonPersonLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe86e,
+    0xe1b8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-person-person-medium-dark-skin-tone-dark-skin-tone`
   static const IconifyIconData coupleWithHeartPersonPersonMediumDarkSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe86f,
+    0xe1b9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-person-person-medium-dark-skin-tone-light-skin-tone`
   static const IconifyIconData coupleWithHeartPersonPersonMediumDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe870,
+    0xe1ba,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-person-person-medium-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData coupleWithHeartPersonPersonMediumDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe871,
+    0xe1bb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-person-person-medium-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData coupleWithHeartPersonPersonMediumDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe872,
+    0xe1bc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-person-person-medium-light-skin-tone-dark-skin-tone`
   static const IconifyIconData coupleWithHeartPersonPersonMediumLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe873,
+    0xe1bd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-person-person-medium-light-skin-tone-light-skin-tone`
   static const IconifyIconData coupleWithHeartPersonPersonMediumLightSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe874,
+    0xe1be,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-person-person-medium-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData coupleWithHeartPersonPersonMediumLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe875,
+    0xe1bf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-person-person-medium-light-skin-tone-medium-skin-tone`
   static const IconifyIconData coupleWithHeartPersonPersonMediumLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe876,
+    0xe1c0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-person-person-medium-skin-tone-dark-skin-tone`
   static const IconifyIconData coupleWithHeartPersonPersonMediumSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe877,
+    0xe1c1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-person-person-medium-skin-tone-light-skin-tone`
   static const IconifyIconData coupleWithHeartPersonPersonMediumSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe878,
+    0xe1c2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-person-person-medium-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData coupleWithHeartPersonPersonMediumSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe879,
+    0xe1c3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-person-person-medium-skin-tone-medium-light-skin-tone`
   static const IconifyIconData coupleWithHeartPersonPersonMediumSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe87a,
+    0xe1c4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man`
   static const IconifyIconData coupleWithHeartWomanMan = IconifyIconData(IconData(
-    0xe87b,
+    0xe1c5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-dark-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManDarkSkinTone = IconifyIconData(IconData(
-    0xe87c,
+    0xe1c6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-dark-skin-tone-light-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe87d,
+    0xe1c7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-dark-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManDarkSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe87e,
+    0xe1c8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe87f,
+    0xe1c9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe880,
+    0xe1ca,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-light-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManLightSkinTone = IconifyIconData(IconData(
-    0xe881,
+    0xe1cb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-light-skin-tone-dark-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe882,
+    0xe1cc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe883,
+    0xe1cd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-light-skin-tone-medium-light-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManLightSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe884,
+    0xe1ce,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-light-skin-tone-medium-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe885,
+    0xe1cf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-medium-dark-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe886,
+    0xe1d0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-medium-dark-skin-tone-dark-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManMediumDarkSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe887,
+    0xe1d1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-medium-dark-skin-tone-light-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManMediumDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe888,
+    0xe1d2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-medium-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManMediumDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe889,
+    0xe1d3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-medium-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManMediumDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe88a,
+    0xe1d4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-medium-light-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManMediumLightSkinTone = IconifyIconData(IconData(
-    0xe0fd,
+    0xe1d5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-medium-light-skin-tone-dark-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManMediumLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe88b,
+    0xe1d6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-medium-light-skin-tone-light-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManMediumLightSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe88c,
+    0xe1d7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-medium-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManMediumLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe88d,
+    0xe1d8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-medium-light-skin-tone-medium-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManMediumLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe88e,
+    0xe1d9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-medium-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManMediumSkinTone = IconifyIconData(IconData(
-    0xe88f,
+    0xe1da,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-medium-skin-tone-dark-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManMediumSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe890,
+    0xe1db,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-medium-skin-tone-light-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManMediumSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe891,
+    0xe1dc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-medium-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManMediumSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe892,
+    0xe1dd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-man-medium-skin-tone-medium-light-skin-tone`
   static const IconifyIconData coupleWithHeartWomanManMediumSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe893,
+    0xe1de,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman`
   static const IconifyIconData coupleWithHeartWomanWoman = IconifyIconData(IconData(
-    0xe894,
+    0xe1df,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-dark-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanDarkSkinTone = IconifyIconData(IconData(
-    0xe895,
+    0xe1e0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-dark-skin-tone-light-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe896,
+    0xe1e1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-dark-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanDarkSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe897,
+    0xe1e2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe898,
+    0xe1e3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe899,
+    0xe1e4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-light-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanLightSkinTone = IconifyIconData(IconData(
-    0xe89a,
+    0xe1e5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-light-skin-tone-dark-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe89b,
+    0xe1e6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe89c,
+    0xe1e7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-light-skin-tone-medium-light-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanLightSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe89d,
+    0xe1e8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-light-skin-tone-medium-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe89e,
+    0xe1e9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-medium-dark-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe89f,
+    0xe1ea,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-medium-dark-skin-tone-dark-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanMediumDarkSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe8a0,
+    0xe1eb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-medium-dark-skin-tone-light-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanMediumDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe8a1,
+    0xe1ec,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-medium-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanMediumDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe8a2,
+    0xe1ed,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-medium-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanMediumDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe8a3,
+    0xe1ee,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-medium-light-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanMediumLightSkinTone = IconifyIconData(IconData(
-    0xe0fe,
+    0xe1ef,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-medium-light-skin-tone-dark-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanMediumLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe8a4,
+    0xe1f0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-medium-light-skin-tone-light-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanMediumLightSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe8a5,
+    0xe1f1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-medium-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanMediumLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe8a6,
+    0xe1f2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-medium-light-skin-tone-medium-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanMediumLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe8a7,
+    0xe1f3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-medium-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanMediumSkinTone = IconifyIconData(IconData(
-    0xe8a8,
+    0xe1f4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-medium-skin-tone-dark-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanMediumSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe8a9,
+    0xe1f5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-medium-skin-tone-light-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanMediumSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe8aa,
+    0xe1f6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-medium-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanMediumSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe8ab,
+    0xe1f7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `couple-with-heart-woman-woman-medium-skin-tone-medium-light-skin-tone`
   static const IconifyIconData coupleWithHeartWomanWomanMediumSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe8ac,
+    0xe1f8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cow`
   static const IconifyIconData cow = IconifyIconData(IconData(
-    0xe8ad,
+    0xe1f9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cow-face`
   static const IconifyIconData cowFace = IconifyIconData(IconData(
-    0xe8ae,
+    0xe1fa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cplusplus`
   static const IconifyIconData cplusplus = IconifyIconData(IconData(
-    0xe8af,
+    0xe1fb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `crab`
   static const IconifyIconData crab = IconifyIconData(IconData(
-    0xe0ff,
+    0xe1fc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `crayon`
   static const IconifyIconData crayon = IconifyIconData(IconData(
-    0xe100,
+    0xe1fd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `credit-card`
   static const IconifyIconData creditCard = IconifyIconData(IconData(
-    0xe101,
+    0xe1fe,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `crescent-moon`
   static const IconifyIconData crescentMoon = IconifyIconData(IconData(
-    0xe102,
+    0xe1ff,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `croissant`
   static const IconifyIconData croissant = IconifyIconData(IconData(
-    0xe8b0,
+    0xe200,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cross-mark`
   static const IconifyIconData crossMark = IconifyIconData(IconData(
-    0xe103,
+    0xe201,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cross-mark-button`
   static const IconifyIconData crossMarkButton = IconifyIconData(IconData(
-    0xe104,
+    0xe202,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `crossed-fingers`
   static const IconifyIconData crossedFingers = IconifyIconData(IconData(
-    0xe8b1,
+    0xe203,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `crossed-fingers-dark-skin-tone`
   static const IconifyIconData crossedFingersDarkSkinTone = IconifyIconData(IconData(
-    0xe8b2,
+    0xe204,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `crossed-fingers-light-skin-tone`
   static const IconifyIconData crossedFingersLightSkinTone = IconifyIconData(IconData(
-    0xe105,
+    0xe205,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `crossed-fingers-medium-dark-skin-tone`
   static const IconifyIconData crossedFingersMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe8b3,
+    0xe206,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `crossed-fingers-medium-light-skin-tone`
   static const IconifyIconData crossedFingersMediumLightSkinTone = IconifyIconData(IconData(
-    0xe106,
+    0xe207,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `crossed-fingers-medium-skin-tone`
   static const IconifyIconData crossedFingersMediumSkinTone = IconifyIconData(IconData(
-    0xe107,
+    0xe208,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `crossed-flags`
   static const IconifyIconData crossedFlags = IconifyIconData(IconData(
-    0xe108,
+    0xe209,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `crossed-swords`
   static const IconifyIconData crossedSwords = IconifyIconData(IconData(
-    0xe109,
+    0xe20a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `crown`
   static const IconifyIconData crown = IconifyIconData(IconData(
-    0xe10a,
+    0xe20b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `crutch`
   static const IconifyIconData crutch = IconifyIconData(IconData(
-    0xe8b4,
+    0xe20c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `crutches`
   static const IconifyIconData crutches = IconifyIconData(IconData(
-    0xe10b,
+    0xe20d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `crying-cat`
   static const IconifyIconData cryingCat = IconifyIconData(IconData(
-    0xe8b5,
+    0xe20e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `crying-face`
   static const IconifyIconData cryingFace = IconifyIconData(IconData(
-    0xe10c,
+    0xe20f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `crystal-ball`
   static const IconifyIconData crystalBall = IconifyIconData(IconData(
-    0xe8b6,
+    0xe210,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `csharp`
   static const IconifyIconData csharp = IconifyIconData(IconData(
-    0xe8b7,
+    0xe211,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ct-scan`
   static const IconifyIconData ctScan = IconifyIconData(IconData(
-    0xe10d,
+    0xe212,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cucumber`
   static const IconifyIconData cucumber = IconifyIconData(IconData(
-    0xe8b8,
+    0xe213,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cup-with-straw`
   static const IconifyIconData cupWithStraw = IconifyIconData(IconData(
-    0xe10e,
+    0xe214,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cupcake`
   static const IconifyIconData cupcake = IconifyIconData(IconData(
-    0xe8b9,
+    0xe215,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `curling-stone`
   static const IconifyIconData curlingStone = IconifyIconData(IconData(
-    0xe10f,
+    0xe216,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `curly-hair`
   static const IconifyIconData curlyHair = IconifyIconData(IconData(
-    0xe110,
+    0xe217,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `curly-loop`
   static const IconifyIconData curlyLoop = IconifyIconData(IconData(
-    0xe111,
+    0xe218,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `currency-exchange`
   static const IconifyIconData currencyExchange = IconifyIconData(IconData(
-    0xe8ba,
+    0xe219,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `curry-rice`
   static const IconifyIconData curryRice = IconifyIconData(IconData(
-    0xe112,
+    0xe21a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cursor`
   static const IconifyIconData cursor = IconifyIconData(IconData(
-    0xe113,
+    0xe21b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `custard`
   static const IconifyIconData custard = IconifyIconData(IconData(
-    0xe8bb,
+    0xe21c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `customs`
   static const IconifyIconData customs = IconifyIconData(IconData(
-    0xe8bc,
+    0xe21d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cut-of-meat`
   static const IconifyIconData cutOfMeat = IconifyIconData(IconData(
-    0xe114,
+    0xe21e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `cyclone`
   static const IconifyIconData cyclone = IconifyIconData(IconData(
-    0xe115,
+    0xe21f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `dagger`
   static const IconifyIconData dagger = IconifyIconData(IconData(
-    0xe116,
+    0xe220,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `dango`
   static const IconifyIconData dango = IconifyIconData(IconData(
-    0xe8bd,
+    0xe221,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `deaf-man`
   static const IconifyIconData deafMan = IconifyIconData(IconData(
-    0xe117,
+    0xe222,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `deaf-man-dark-skin-tone`
   static const IconifyIconData deafManDarkSkinTone = IconifyIconData(IconData(
-    0xe8be,
+    0xe223,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `deaf-man-light-skin-tone`
   static const IconifyIconData deafManLightSkinTone = IconifyIconData(IconData(
-    0xe8bf,
+    0xe224,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `deaf-man-medium-dark-skin-tone`
   static const IconifyIconData deafManMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe8c0,
+    0xe225,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `deaf-man-medium-light-skin-tone`
   static const IconifyIconData deafManMediumLightSkinTone = IconifyIconData(IconData(
-    0xe118,
+    0xe226,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `deaf-man-medium-skin-tone`
   static const IconifyIconData deafManMediumSkinTone = IconifyIconData(IconData(
-    0xe8c1,
+    0xe227,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `deaf-person`
   static const IconifyIconData deafPerson = IconifyIconData(IconData(
-    0xe119,
+    0xe228,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `deaf-person-dark-skin-tone`
   static const IconifyIconData deafPersonDarkSkinTone = IconifyIconData(IconData(
-    0xe8c2,
+    0xe229,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `deaf-person-light-skin-tone`
   static const IconifyIconData deafPersonLightSkinTone = IconifyIconData(IconData(
-    0xe8c3,
+    0xe22a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `deaf-person-medium-dark-skin-tone`
   static const IconifyIconData deafPersonMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe8c4,
+    0xe22b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `deaf-person-medium-light-skin-tone`
   static const IconifyIconData deafPersonMediumLightSkinTone = IconifyIconData(IconData(
-    0xe11a,
+    0xe22c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `deaf-person-medium-skin-tone`
   static const IconifyIconData deafPersonMediumSkinTone = IconifyIconData(IconData(
-    0xe8c5,
+    0xe22d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `deaf-woman`
   static const IconifyIconData deafWoman = IconifyIconData(IconData(
-    0xe11b,
+    0xe22e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `deaf-woman-dark-skin-tone`
   static const IconifyIconData deafWomanDarkSkinTone = IconifyIconData(IconData(
-    0xe8c6,
+    0xe22f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `deaf-woman-light-skin-tone`
   static const IconifyIconData deafWomanLightSkinTone = IconifyIconData(IconData(
-    0xe8c7,
+    0xe230,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `deaf-woman-medium-dark-skin-tone`
   static const IconifyIconData deafWomanMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe8c8,
+    0xe231,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `deaf-woman-medium-light-skin-tone`
   static const IconifyIconData deafWomanMediumLightSkinTone = IconifyIconData(IconData(
-    0xe11c,
+    0xe232,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `deaf-woman-medium-skin-tone`
   static const IconifyIconData deafWomanMediumSkinTone = IconifyIconData(IconData(
-    0xe8c9,
+    0xe233,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `deciduous-tree`
   static const IconifyIconData deciduousTree = IconifyIconData(IconData(
-    0xe8ca,
+    0xe234,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `deep-red-flag`
   static const IconifyIconData deepRedFlag = IconifyIconData(IconData(
-    0xe11d,
+    0xe235,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `deep-yellow-flag`
   static const IconifyIconData deepYellowFlag = IconifyIconData(IconData(
-    0xe11e,
+    0xe236,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `deer`
   static const IconifyIconData deer = IconifyIconData(IconData(
-    0xe8cb,
+    0xe237,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `dejected-face`
   static const IconifyIconData dejectedFace = IconifyIconData(IconData(
-    0xe11f,
+    0xe238,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `delete`
   static const IconifyIconData delete = IconifyIconData(IconData(
-    0xe120,
+    0xe239,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `delivery-truck`
   static const IconifyIconData deliveryTruck = IconifyIconData(IconData(
-    0xe121,
+    0xe23a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `demiboy`
   static const IconifyIconData demiboy = IconifyIconData(IconData(
-    0xe122,
+    0xe23b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `demigender`
   static const IconifyIconData demigender = IconifyIconData(IconData(
-    0xe123,
+    0xe23c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `demigirl`
   static const IconifyIconData demigirl = IconifyIconData(IconData(
-    0xe124,
+    0xe23d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `demisexual`
   static const IconifyIconData demisexual = IconifyIconData(IconData(
-    0xe8cc,
+    0xe23e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `department-store`
   static const IconifyIconData departmentStore = IconifyIconData(IconData(
-    0xe125,
+    0xe23f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `derelict-house`
   static const IconifyIconData derelictHouse = IconifyIconData(IconData(
-    0xe8cd,
+    0xe240,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `desert`
   static const IconifyIconData desert = IconifyIconData(IconData(
-    0xe8ce,
+    0xe241,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `desert-island`
   static const IconifyIconData desertIsland = IconifyIconData(IconData(
-    0xe8cf,
+    0xe242,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `desktop-computer`
   static const IconifyIconData desktopComputer = IconifyIconData(IconData(
-    0xe126,
+    0xe243,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `details`
   static const IconifyIconData details = IconifyIconData(IconData(
-    0xe127,
+    0xe244,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `diamond-suit`
   static const IconifyIconData diamondSuit = IconifyIconData(IconData(
-    0xe128,
+    0xe245,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `diamond-with-a-dot`
   static const IconifyIconData diamondWithADot = IconifyIconData(IconData(
-    0xe8d0,
+    0xe246,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `dim-button`
   static const IconifyIconData dimButton = IconifyIconData(IconData(
-    0xe129,
+    0xe247,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `direct-hit`
   static const IconifyIconData directHit = IconifyIconData(IconData(
-    0xe12a,
+    0xe248,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `disappointed-face`
   static const IconifyIconData disappointedFace = IconifyIconData(IconData(
-    0xe12b,
+    0xe249,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `discord`
   static const IconifyIconData discord = IconifyIconData(IconData(
-    0xe8d1,
+    0xe24a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `disguised-face`
   static const IconifyIconData disguisedFace = IconifyIconData(IconData(
-    0xe8d2,
+    0xe24b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `disinfect-surface`
   static const IconifyIconData disinfectSurface = IconifyIconData(IconData(
-    0xe12c,
+    0xe24c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `distorted-face`
   static const IconifyIconData distortedFace = IconifyIconData(IconData(
-    0xe12d,
+    0xe24d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `divide`
   static const IconifyIconData divide = IconifyIconData(IconData(
-    0xe12e,
+    0xe24e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `diving-mask`
   static const IconifyIconData divingMask = IconifyIconData(IconData(
-    0xe8d3,
+    0xe24f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `division-sign`
   static const IconifyIconData divisionSign = IconifyIconData(IconData(
-    0xe12f,
+    0xe250,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `dizzy`
   static const IconifyIconData dizzy = IconifyIconData(IconData(
-    0xe130,
+    0xe251,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `dizzy-face`
   static const IconifyIconData dizzyFace = IconifyIconData(IconData(
-    0xe131,
+    0xe252,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `dj`
   static const IconifyIconData dj = IconifyIconData(IconData(
-    0xe132,
+    0xe253,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `dj-man`
   static const IconifyIconData djMan = IconifyIconData(IconData(
-    0xe133,
+    0xe254,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `dj-woman`
   static const IconifyIconData djWoman = IconifyIconData(IconData(
-    0xe134,
+    0xe255,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `dna`
   static const IconifyIconData dna = IconifyIconData(IconData(
-    0xe135,
+    0xe256,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `dodo`
   static const IconifyIconData dodo = IconifyIconData(IconData(
-    0xe136,
+    0xe257,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `dog`
   static const IconifyIconData dog = IconifyIconData(IconData(
-    0xe8d4,
+    0xe258,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `dog-face`
   static const IconifyIconData dogFace = IconifyIconData(IconData(
-    0xe137,
+    0xe259,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `dollar-banknote`
   static const IconifyIconData dollarBanknote = IconifyIconData(IconData(
-    0xe8d5,
+    0xe25a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `dolphin`
   static const IconifyIconData dolphin = IconifyIconData(IconData(
-    0xe138,
+    0xe25b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `donkey`
   static const IconifyIconData donkey = IconifyIconData(IconData(
-    0xe139,
+    0xe25c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `dotted-line-face`
   static const IconifyIconData dottedLineFace = IconifyIconData(IconData(
-    0xe13a,
+    0xe25d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `dotted-six-pointed-star`
   static const IconifyIconData dottedSixPointedStar = IconifyIconData(IconData(
-    0xe8d6,
+    0xe25e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `double-curly-loop`
   static const IconifyIconData doubleCurlyLoop = IconifyIconData(IconData(
-    0xe13b,
+    0xe25f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `double-exclamation-mark`
   static const IconifyIconData doubleExclamationMark = IconifyIconData(IconData(
-    0xe13c,
+    0xe260,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `double-tap`
   static const IconifyIconData doubleTap = IconifyIconData(IconData(
-    0xe13d,
+    0xe261,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `doughnut`
   static const IconifyIconData doughnut = IconifyIconData(IconData(
-    0xe13e,
+    0xe262,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `dove`
   static const IconifyIconData dove = IconifyIconData(IconData(
-    0xe13f,
+    0xe263,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `down-arrow`
   static const IconifyIconData downArrow = IconifyIconData(IconData(
-    0xe140,
+    0xe264,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `down-left-arrow`
   static const IconifyIconData downLeftArrow = IconifyIconData(IconData(
-    0xe141,
+    0xe265,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `down-right-arrow`
   static const IconifyIconData downRightArrow = IconifyIconData(IconData(
-    0xe142,
+    0xe266,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `downcast-face-with-sweat`
   static const IconifyIconData downcastFaceWithSweat = IconifyIconData(IconData(
-    0xe143,
+    0xe267,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `download`
   static const IconifyIconData download = IconifyIconData(IconData(
-    0xe144,
+    0xe268,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `downwards-button`
   static const IconifyIconData downwardsButton = IconifyIconData(IconData(
-    0xe145,
+    0xe269,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `dragon`
   static const IconifyIconData dragon = IconifyIconData(IconData(
-    0xe146,
+    0xe26a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `drip-coffee-maker`
   static const IconifyIconData dripCoffeeMaker = IconifyIconData(IconData(
-    0xe8d7,
+    0xe26b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `drone`
   static const IconifyIconData drone = IconifyIconData(IconData(
-    0xe147,
+    0xe26c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `drooling-face`
   static const IconifyIconData droolingFace = IconifyIconData(IconData(
-    0xe148,
+    0xe26d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `drop-cover-hold`
   static const IconifyIconData dropCoverHold = IconifyIconData(IconData(
-    0xe8d8,
+    0xe26e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `drop-of-blood`
   static const IconifyIconData dropOfBlood = IconifyIconData(IconData(
-    0xe149,
+    0xe26f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `droplet`
   static const IconifyIconData droplet = IconifyIconData(IconData(
-    0xe8d9,
+    0xe270,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `drum`
   static const IconifyIconData drum = IconifyIconData(IconData(
-    0xe8da,
+    0xe271,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `drunk-person`
   static const IconifyIconData drunkPerson = IconifyIconData(IconData(
-    0xe8db,
+    0xe272,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `dumpling`
   static const IconifyIconData dumpling = IconifyIconData(IconData(
-    0xe14a,
+    0xe273,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `duplicate`
   static const IconifyIconData duplicate = IconifyIconData(IconData(
-    0xe14b,
+    0xe274,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `dvd`
   static const IconifyIconData dvd = IconifyIconData(IconData(
-    0xe14c,
+    0xe275,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `e-mail`
   static const IconifyIconData eMail = IconifyIconData(IconData(
-    0xe14d,
+    0xe276,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ear`
   static const IconifyIconData ear = IconifyIconData(IconData(
-    0xe14e,
+    0xe277,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ear-light-skin-tone`
   static const IconifyIconData earLightSkinTone = IconifyIconData(IconData(
-    0xe14f,
+    0xe278,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ear-medium-light-skin-tone`
   static const IconifyIconData earMediumLightSkinTone = IconifyIconData(IconData(
-    0xe150,
+    0xe279,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ear-medium-skin-tone`
   static const IconifyIconData earMediumSkinTone = IconifyIconData(IconData(
-    0xe8dc,
+    0xe27a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ear-of-corn`
   static const IconifyIconData earOfCorn = IconifyIconData(IconData(
-    0xe8dd,
+    0xe27b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ear-with-hearing-aid`
   static const IconifyIconData earWithHearingAid = IconifyIconData(IconData(
-    0xe151,
+    0xe27c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ear-with-hearing-aid-dark-skin-tone`
   static const IconifyIconData earWithHearingAidDarkSkinTone = IconifyIconData(IconData(
-    0xe8de,
+    0xe27d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ear-with-hearing-aid-light-skin-tone`
   static const IconifyIconData earWithHearingAidLightSkinTone = IconifyIconData(IconData(
-    0xe152,
+    0xe27e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ear-with-hearing-aid-medium-dark-skin-tone`
   static const IconifyIconData earWithHearingAidMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe8df,
+    0xe27f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ear-with-hearing-aid-medium-light-skin-tone`
   static const IconifyIconData earWithHearingAidMediumLightSkinTone = IconifyIconData(IconData(
-    0xe153,
+    0xe280,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ear-with-hearing-aid-medium-skin-tone`
   static const IconifyIconData earWithHearingAidMediumSkinTone = IconifyIconData(IconData(
-    0xe8e0,
+    0xe281,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `earache`
   static const IconifyIconData earache = IconifyIconData(IconData(
-    0xe154,
+    0xe282,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `earthquake`
   static const IconifyIconData earthquake = IconifyIconData(IconData(
-    0xe155,
+    0xe283,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ecg-waves`
   static const IconifyIconData ecgWaves = IconifyIconData(IconData(
-    0xe156,
+    0xe284,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ecosia-browser`
   static const IconifyIconData ecosiaBrowser = IconifyIconData(IconData(
-    0xe8e1,
+    0xe285,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `edit`
   static const IconifyIconData edit = IconifyIconData(IconData(
-    0xe8e2,
+    0xe286,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `egg`
   static const IconifyIconData egg = IconifyIconData(IconData(
-    0xe157,
+    0xe287,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `eiffel-tower`
   static const IconifyIconData eiffelTower = IconifyIconData(IconData(
-    0xe8e3,
+    0xe288,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `eight-oclock`
   static const IconifyIconData eightOclock = IconifyIconData(IconData(
-    0xe8e4,
+    0xe289,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `eight-pointed-star`
   static const IconifyIconData eightPointedStar = IconifyIconData(IconData(
-    0xe158,
+    0xe28a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `eight-spoked-asterisk`
   static const IconifyIconData eightSpokedAsterisk = IconifyIconData(IconData(
-    0xe8e5,
+    0xe28b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `eight-thirty`
   static const IconifyIconData eightThirty = IconifyIconData(IconData(
-    0xe8e6,
+    0xe28c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `eject-button`
   static const IconifyIconData ejectButton = IconifyIconData(IconData(
-    0xe159,
+    0xe28d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `electric-coffee-percolator`
   static const IconifyIconData electricCoffeePercolator = IconifyIconData(IconData(
-    0xe15a,
+    0xe28e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `electric-plug`
   static const IconifyIconData electricPlug = IconifyIconData(IconData(
-    0xe15b,
+    0xe28f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `electric-plug-red`
   static const IconifyIconData electricPlugRed = IconifyIconData(IconData(
-    0xe8e7,
+    0xe290,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `element`
   static const IconifyIconData element = IconifyIconData(IconData(
-    0xe15c,
+    0xe291,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `elephant`
   static const IconifyIconData elephant = IconifyIconData(IconData(
-    0xe15d,
+    0xe292,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `elevator`
   static const IconifyIconData elevator = IconifyIconData(IconData(
-    0xe15e,
+    0xe293,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `elevator2`
   static const IconifyIconData elevator2 = IconifyIconData(IconData(
-    0xe15f,
+    0xe294,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `eleven-oclock`
   static const IconifyIconData elevenOclock = IconifyIconData(IconData(
-    0xe8e8,
+    0xe295,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `eleven-thirty`
   static const IconifyIconData elevenThirty = IconifyIconData(IconData(
-    0xe8e9,
+    0xe296,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `elf`
   static const IconifyIconData elf = IconifyIconData(IconData(
-    0xe8ea,
+    0xe297,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `elf-dark-skin-tone`
   static const IconifyIconData elfDarkSkinTone = IconifyIconData(IconData(
-    0xe8eb,
+    0xe298,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `elf-light-skin-tone`
   static const IconifyIconData elfLightSkinTone = IconifyIconData(IconData(
-    0xe8ec,
+    0xe299,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `elf-medium-dark-skin-tone`
   static const IconifyIconData elfMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe8ed,
+    0xe29a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `elf-medium-light-skin-tone`
   static const IconifyIconData elfMediumLightSkinTone = IconifyIconData(IconData(
-    0xe8ee,
+    0xe29b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `elf-medium-skin-tone`
   static const IconifyIconData elfMediumSkinTone = IconifyIconData(IconData(
-    0xe8ef,
+    0xe29c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `emergency-exit`
   static const IconifyIconData emergencyExit = IconifyIconData(IconData(
-    0xe160,
+    0xe29d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `emergency-exit-door`
   static const IconifyIconData emergencyExitDoor = IconifyIconData(IconData(
-    0xe161,
+    0xe29e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `end-arrow`
   static const IconifyIconData endArrow = IconifyIconData(IconData(
-    0xe162,
+    0xe29f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `envelope`
   static const IconifyIconData envelope = IconifyIconData(IconData(
-    0xe163,
+    0xe2a0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `envelope-with-arrow`
   static const IconifyIconData envelopeWithArrow = IconifyIconData(IconData(
-    0xe164,
+    0xe2a1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `espresso-machine`
   static const IconifyIconData espressoMachine = IconifyIconData(IconData(
-    0xe8f0,
+    0xe2a2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `euro-banknote`
   static const IconifyIconData euroBanknote = IconifyIconData(IconData(
-    0xe165,
+    0xe2a3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `european-name-badge`
   static const IconifyIconData europeanNameBadge = IconifyIconData(IconData(
-    0xe166,
+    0xe2a4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `evacuate`
   static const IconifyIconData evacuate = IconifyIconData(IconData(
-    0xe8f1,
+    0xe2a5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `evacuate-downstairs`
   static const IconifyIconData evacuateDownstairs = IconifyIconData(IconData(
-    0xe167,
+    0xe2a6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `evacuate-fire`
   static const IconifyIconData evacuateFire = IconifyIconData(IconData(
-    0xe168,
+    0xe2a7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `evacuate-to-shelter`
   static const IconifyIconData evacuateToShelter = IconifyIconData(IconData(
-    0xe169,
+    0xe2a8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `evacuate-vertical`
   static const IconifyIconData evacuateVertical = IconifyIconData(IconData(
-    0xe16a,
+    0xe2a9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ewe`
   static const IconifyIconData ewe = IconifyIconData(IconData(
-    0xe16b,
+    0xe2aa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `exclamation-mark`
   static const IconifyIconData exclamationMark = IconifyIconData(IconData(
-    0xe8f2,
+    0xe2ab,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `exclamation-question-mark`
   static const IconifyIconData exclamationQuestionMark = IconifyIconData(IconData(
-    0xe16c,
+    0xe2ac,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `exhaust-gases-car`
   static const IconifyIconData exhaustGasesCar = IconifyIconData(IconData(
-    0xe16d,
+    0xe2ad,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `exhaust-gases-factory`
   static const IconifyIconData exhaustGasesFactory = IconifyIconData(IconData(
-    0xe16e,
+    0xe2ae,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `exhausted-face`
   static const IconifyIconData exhaustedFace = IconifyIconData(IconData(
-    0xe16f,
+    0xe2af,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `exit`
   static const IconifyIconData exit = IconifyIconData(IconData(
-    0xe170,
+    0xe2b0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `exploding-head`
   static const IconifyIconData explodingHead = IconifyIconData(IconData(
-    0xe8f3,
+    0xe2b1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `expressionless-face`
   static const IconifyIconData expressionlessFace = IconifyIconData(IconData(
-    0xe171,
+    0xe2b2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `extremadura-flag`
   static const IconifyIconData extremaduraFlag = IconifyIconData(IconData(
-    0xe8f4,
+    0xe2b3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `eye`
   static const IconifyIconData eye = IconifyIconData(IconData(
-    0xe8f5,
+    0xe2b4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `eye-in-speech-bubble`
   static const IconifyIconData eyeInSpeechBubble = IconifyIconData(IconData(
-    0xe8f6,
+    0xe2b5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `eye-pain`
   static const IconifyIconData eyePain = IconifyIconData(IconData(
-    0xe8f7,
+    0xe2b6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `eyes`
   static const IconifyIconData eyes = IconifyIconData(IconData(
-    0xe8f8,
+    0xe2b7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-blowing-a-kiss`
   static const IconifyIconData faceBlowingAKiss = IconifyIconData(IconData(
-    0xe172,
+    0xe2b8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-exhaling`
   static const IconifyIconData faceExhaling = IconifyIconData(IconData(
-    0xe173,
+    0xe2b9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-holding-back-tears`
   static const IconifyIconData faceHoldingBackTears = IconifyIconData(IconData(
-    0xe8f9,
+    0xe2ba,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-in-clouds`
   static const IconifyIconData faceInClouds = IconifyIconData(IconData(
-    0xe174,
+    0xe2bb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-savoring-food`
   static const IconifyIconData faceSavoringFood = IconifyIconData(IconData(
-    0xe175,
+    0xe2bc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-screaming-in-fear`
   static const IconifyIconData faceScreamingInFear = IconifyIconData(IconData(
-    0xe176,
+    0xe2bd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-vomiting`
   static const IconifyIconData faceVomiting = IconifyIconData(IconData(
-    0xe177,
+    0xe2be,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-with-bags-under-eyes`
   static const IconifyIconData faceWithBagsUnderEyes = IconifyIconData(IconData(
-    0xe178,
+    0xe2bf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-with-crossed-out-eyes`
   static const IconifyIconData faceWithCrossedOutEyes = IconifyIconData(IconData(
-    0xe179,
+    0xe2c0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-with-diagonal-mouth`
   static const IconifyIconData faceWithDiagonalMouth = IconifyIconData(IconData(
-    0xe17a,
+    0xe2c1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-with-hand-over-mouth`
   static const IconifyIconData faceWithHandOverMouth = IconifyIconData(IconData(
-    0xe17b,
+    0xe2c2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-with-head-bandage`
   static const IconifyIconData faceWithHeadBandage = IconifyIconData(IconData(
-    0xe17c,
+    0xe2c3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-with-medical-mask`
   static const IconifyIconData faceWithMedicalMask = IconifyIconData(IconData(
-    0xe17d,
+    0xe2c4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-with-monocle`
   static const IconifyIconData faceWithMonocle = IconifyIconData(IconData(
-    0xe17e,
+    0xe2c5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-with-open-eyes-and-hand-over-mouth`
   static const IconifyIconData faceWithOpenEyesAndHandOverMouth = IconifyIconData(IconData(
-    0xe17f,
+    0xe2c6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-with-open-mouth`
   static const IconifyIconData faceWithOpenMouth = IconifyIconData(IconData(
-    0xe180,
+    0xe2c7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-with-peeking-eye`
   static const IconifyIconData faceWithPeekingEye = IconifyIconData(IconData(
-    0xe181,
+    0xe2c8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-with-raised-eyebrow`
   static const IconifyIconData faceWithRaisedEyebrow = IconifyIconData(IconData(
-    0xe182,
+    0xe2c9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-with-rolling-eyes`
   static const IconifyIconData faceWithRollingEyes = IconifyIconData(IconData(
-    0xe183,
+    0xe2ca,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-with-spiral-eyes`
   static const IconifyIconData faceWithSpiralEyes = IconifyIconData(IconData(
-    0xe184,
+    0xe2cb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-with-steam-from-nose`
   static const IconifyIconData faceWithSteamFromNose = IconifyIconData(IconData(
-    0xe185,
+    0xe2cc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-with-symbols-on-mouth`
   static const IconifyIconData faceWithSymbolsOnMouth = IconifyIconData(IconData(
-    0xe186,
+    0xe2cd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-with-tears-of-joy`
   static const IconifyIconData faceWithTearsOfJoy = IconifyIconData(IconData(
-    0xe187,
+    0xe2ce,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-with-thermometer`
   static const IconifyIconData faceWithThermometer = IconifyIconData(IconData(
-    0xe8fa,
+    0xe2cf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-with-tongue`
   static const IconifyIconData faceWithTongue = IconifyIconData(IconData(
-    0xe188,
+    0xe2d0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `face-without-mouth`
   static const IconifyIconData faceWithoutMouth = IconifyIconData(IconData(
-    0xe189,
+    0xe2d1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `facetime`
   static const IconifyIconData facetime = IconifyIconData(IconData(
-    0xe8fb,
+    0xe2d2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `factory`
   static const IconifyIconData factory_ = IconifyIconData(IconData(
-    0xe18a,
+    0xe2d3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `factory-worker`
   static const IconifyIconData factoryWorker = IconifyIconData(IconData(
-    0xe8fc,
+    0xe2d4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `factory-worker-dark-skin-tone`
   static const IconifyIconData factoryWorkerDarkSkinTone = IconifyIconData(IconData(
-    0xe8fd,
+    0xe2d5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `factory-worker-light-skin-tone`
   static const IconifyIconData factoryWorkerLightSkinTone = IconifyIconData(IconData(
-    0xe8fe,
+    0xe2d6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `factory-worker-medium-dark-skin-tone`
   static const IconifyIconData factoryWorkerMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe8ff,
+    0xe2d7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `factory-worker-medium-light-skin-tone`
   static const IconifyIconData factoryWorkerMediumLightSkinTone = IconifyIconData(IconData(
-    0xe900,
+    0xe2d8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `factory-worker-medium-skin-tone`
   static const IconifyIconData factoryWorkerMediumSkinTone = IconifyIconData(IconData(
-    0xe901,
+    0xe2d9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fairy`
   static const IconifyIconData fairy = IconifyIconData(IconData(
-    0xe902,
+    0xe2da,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fairy-dark-skin-tone`
   static const IconifyIconData fairyDarkSkinTone = IconifyIconData(IconData(
-    0xe903,
+    0xe2db,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fairy-medium-dark-skin-tone`
   static const IconifyIconData fairyMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe904,
+    0xe2dc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fairy-medium-light-skin-tone`
   static const IconifyIconData fairyMediumLightSkinTone = IconifyIconData(IconData(
-    0xe905,
+    0xe2dd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family`
   static const IconifyIconData family = IconifyIconData(IconData(
-    0xe906,
+    0xe2de,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-adult-adult-child`
   static const IconifyIconData familyAdultAdultChild = IconifyIconData(IconData(
-    0xe18b,
+    0xe2df,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-adult-adult-child-child`
   static const IconifyIconData familyAdultAdultChildChild = IconifyIconData(IconData(
-    0xe18c,
+    0xe2e0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-adult-child`
   static const IconifyIconData familyAdultChild = IconifyIconData(IconData(
-    0xe18d,
+    0xe2e1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-adult-child-child`
   static const IconifyIconData familyAdultChildChild = IconifyIconData(IconData(
-    0xe18e,
+    0xe2e2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-man-boy`
   static const IconifyIconData familyManBoy = IconifyIconData(IconData(
-    0xe907,
+    0xe2e3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-man-boy-boy`
   static const IconifyIconData familyManBoyBoy = IconifyIconData(IconData(
-    0xe908,
+    0xe2e4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-man-girl`
   static const IconifyIconData familyManGirl = IconifyIconData(IconData(
-    0xe909,
+    0xe2e5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-man-girl-boy`
   static const IconifyIconData familyManGirlBoy = IconifyIconData(IconData(
-    0xe90a,
+    0xe2e6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-man-girl-girl`
   static const IconifyIconData familyManGirlGirl = IconifyIconData(IconData(
-    0xe90b,
+    0xe2e7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-man-man-boy`
   static const IconifyIconData familyManManBoy = IconifyIconData(IconData(
-    0xe90c,
+    0xe2e8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-man-man-boy-boy`
   static const IconifyIconData familyManManBoyBoy = IconifyIconData(IconData(
-    0xe90d,
+    0xe2e9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-man-man-girl`
   static const IconifyIconData familyManManGirl = IconifyIconData(IconData(
-    0xe90e,
+    0xe2ea,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-man-man-girl-boy`
   static const IconifyIconData familyManManGirlBoy = IconifyIconData(IconData(
-    0xe90f,
+    0xe2eb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-man-man-girl-girl`
   static const IconifyIconData familyManManGirlGirl = IconifyIconData(IconData(
-    0xe910,
+    0xe2ec,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-man-woman-boy`
   static const IconifyIconData familyManWomanBoy = IconifyIconData(IconData(
-    0xe911,
+    0xe2ed,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-man-woman-boy-boy`
   static const IconifyIconData familyManWomanBoyBoy = IconifyIconData(IconData(
-    0xe912,
+    0xe2ee,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-man-woman-girl`
   static const IconifyIconData familyManWomanGirl = IconifyIconData(IconData(
-    0xe913,
+    0xe2ef,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-man-woman-girl-boy`
   static const IconifyIconData familyManWomanGirlBoy = IconifyIconData(IconData(
-    0xe914,
+    0xe2f0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-man-woman-girl-girl`
   static const IconifyIconData familyManWomanGirlGirl = IconifyIconData(IconData(
-    0xe915,
+    0xe2f1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-woman-boy`
   static const IconifyIconData familyWomanBoy = IconifyIconData(IconData(
-    0xe916,
+    0xe2f2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-woman-boy-boy`
   static const IconifyIconData familyWomanBoyBoy = IconifyIconData(IconData(
-    0xe917,
+    0xe2f3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-woman-girl`
   static const IconifyIconData familyWomanGirl = IconifyIconData(IconData(
-    0xe918,
+    0xe2f4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-woman-girl-boy`
   static const IconifyIconData familyWomanGirlBoy = IconifyIconData(IconData(
-    0xe919,
+    0xe2f5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-woman-girl-girl`
   static const IconifyIconData familyWomanGirlGirl = IconifyIconData(IconData(
-    0xe91a,
+    0xe2f6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-woman-woman-boy`
   static const IconifyIconData familyWomanWomanBoy = IconifyIconData(IconData(
-    0xe91b,
+    0xe2f7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-woman-woman-boy-boy`
   static const IconifyIconData familyWomanWomanBoyBoy = IconifyIconData(IconData(
-    0xe91c,
+    0xe2f8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-woman-woman-girl`
   static const IconifyIconData familyWomanWomanGirl = IconifyIconData(IconData(
-    0xe91d,
+    0xe2f9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-woman-woman-girl-boy`
   static const IconifyIconData familyWomanWomanGirlBoy = IconifyIconData(IconData(
-    0xe91e,
+    0xe2fa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `family-woman-woman-girl-girl`
   static const IconifyIconData familyWomanWomanGirlGirl = IconifyIconData(IconData(
-    0xe91f,
+    0xe2fb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `farmer`
   static const IconifyIconData farmer = IconifyIconData(IconData(
-    0xe920,
+    0xe2fc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `farmer-dark-skin-tone`
   static const IconifyIconData farmerDarkSkinTone = IconifyIconData(IconData(
-    0xe921,
+    0xe2fd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `farmer-light-skin-tone`
   static const IconifyIconData farmerLightSkinTone = IconifyIconData(IconData(
-    0xe922,
+    0xe2fe,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `farmer-medium-dark-skin-tone`
   static const IconifyIconData farmerMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe923,
+    0xe2ff,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `farmer-medium-light-skin-tone`
   static const IconifyIconData farmerMediumLightSkinTone = IconifyIconData(IconData(
-    0xe924,
+    0xe300,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `farmer-medium-skin-tone`
   static const IconifyIconData farmerMediumSkinTone = IconifyIconData(IconData(
-    0xe925,
+    0xe301,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fast-down-button`
   static const IconifyIconData fastDownButton = IconifyIconData(IconData(
-    0xe18f,
+    0xe302,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fast-forward-button`
   static const IconifyIconData fastForwardButton = IconifyIconData(IconData(
-    0xe190,
+    0xe303,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fast-reverse-button`
   static const IconifyIconData fastReverseButton = IconifyIconData(IconData(
-    0xe191,
+    0xe304,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fast-up-button`
   static const IconifyIconData fastUpButton = IconifyIconData(IconData(
-    0xe192,
+    0xe305,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fax-machine`
   static const IconifyIconData faxMachine = IconifyIconData(IconData(
-    0xe193,
+    0xe306,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fearful-face`
   static const IconifyIconData fearfulFace = IconifyIconData(IconData(
-    0xe926,
+    0xe307,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `female-doctor`
   static const IconifyIconData femaleDoctor = IconifyIconData(IconData(
-    0xe927,
+    0xe308,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `female-nurse`
   static const IconifyIconData femaleNurse = IconifyIconData(IconData(
-    0xe928,
+    0xe309,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `female-sign`
   static const IconifyIconData femaleSign = IconifyIconData(IconData(
-    0xe194,
+    0xe30a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ferry`
   static const IconifyIconData ferry = IconifyIconData(IconData(
-    0xe195,
+    0xe30b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fight-cloud`
   static const IconifyIconData fightCloud = IconifyIconData(IconData(
-    0xe196,
+    0xe30c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `file-cabinet`
   static const IconifyIconData fileCabinet = IconifyIconData(IconData(
-    0xe197,
+    0xe30d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `file-folder`
   static const IconifyIconData fileFolder = IconifyIconData(IconData(
-    0xe198,
+    0xe30e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `film-frames`
   static const IconifyIconData filmFrames = IconifyIconData(IconData(
-    0xe199,
+    0xe30f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `film-projector`
   static const IconifyIconData filmProjector = IconifyIconData(IconData(
-    0xe19a,
+    0xe310,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `filter`
   static const IconifyIconData filter = IconifyIconData(IconData(
-    0xe19b,
+    0xe311,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `finger-pushing-button`
   static const IconifyIconData fingerPushingButton = IconifyIconData(IconData(
-    0xe19c,
+    0xe312,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fingerprint`
   static const IconifyIconData fingerprint = IconifyIconData(IconData(
-    0xe19d,
+    0xe313,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fire`
   static const IconifyIconData fire = IconifyIconData(IconData(
-    0xe19e,
+    0xe314,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fire-engine`
   static const IconifyIconData fireEngine = IconifyIconData(IconData(
-    0xe19f,
+    0xe315,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fire-extinguisher`
   static const IconifyIconData fireExtinguisher = IconifyIconData(IconData(
-    0xe1a0,
+    0xe316,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `firecracker`
   static const IconifyIconData firecracker = IconifyIconData(IconData(
-    0xe929,
+    0xe317,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `firefox`
   static const IconifyIconData firefox = IconifyIconData(IconData(
-    0xe92a,
+    0xe318,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fireworks`
   static const IconifyIconData fireworks = IconifyIconData(IconData(
-    0xe92b,
+    0xe319,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `first-aid`
   static const IconifyIconData firstAid = IconifyIconData(IconData(
-    0xe1a1,
+    0xe31a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `first-aid-bag`
   static const IconifyIconData firstAidBag = IconifyIconData(IconData(
-    0xe1a2,
+    0xe31b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `first-aid-kit`
   static const IconifyIconData firstAidKit = IconifyIconData(IconData(
-    0xe1a3,
+    0xe31c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `first-quarter-moon`
   static const IconifyIconData firstQuarterMoon = IconifyIconData(IconData(
-    0xe1a4,
+    0xe31d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `first-quarter-moon-face`
   static const IconifyIconData firstQuarterMoonFace = IconifyIconData(IconData(
-    0xe1a5,
+    0xe31e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fish`
   static const IconifyIconData fish = IconifyIconData(IconData(
-    0xe92c,
+    0xe31f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fish-cake-with-swirl`
   static const IconifyIconData fishCakeWithSwirl = IconifyIconData(IconData(
-    0xe92d,
+    0xe320,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fisheye`
   static const IconifyIconData fisheye = IconifyIconData(IconData(
-    0xe92e,
+    0xe321,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fishing-pole`
   static const IconifyIconData fishingPole = IconifyIconData(IconData(
-    0xe92f,
+    0xe322,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `five-oclock`
   static const IconifyIconData fiveOclock = IconifyIconData(IconData(
-    0xe930,
+    0xe323,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `five-thirty`
   static const IconifyIconData fiveThirty = IconifyIconData(IconData(
-    0xe931,
+    0xe324,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-afghanistan`
   static const IconifyIconData flagAfghanistan = IconifyIconData(IconData(
-    0xe932,
+    0xe325,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-albania`
   static const IconifyIconData flagAlbania = IconifyIconData(IconData(
-    0xe1a6,
+    0xe326,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-american-samoa`
   static const IconifyIconData flagAmericanSamoa = IconifyIconData(IconData(
-    0xe933,
+    0xe327,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-andorra`
   static const IconifyIconData flagAndorra = IconifyIconData(IconData(
-    0xe934,
+    0xe328,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-angola`
   static const IconifyIconData flagAngola = IconifyIconData(IconData(
-    0xe1a7,
+    0xe329,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-antigua-and-barbuda`
   static const IconifyIconData flagAntiguaAndBarbuda = IconifyIconData(IconData(
-    0xe935,
+    0xe32a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-antigua-barbuda`
   static const IconifyIconData flagAntiguaBarbuda = IconifyIconData(IconData(
-    0xe936,
+    0xe32b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-armenia`
   static const IconifyIconData flagArmenia = IconifyIconData(IconData(
-    0xe937,
+    0xe32c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-ascension-island`
   static const IconifyIconData flagAscensionIsland = IconifyIconData(IconData(
-    0xe938,
+    0xe32d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-austria`
   static const IconifyIconData flagAustria = IconifyIconData(IconData(
-    0xe1a8,
+    0xe32e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-azerbaijan`
   static const IconifyIconData flagAzerbaijan = IconifyIconData(IconData(
-    0xe939,
+    0xe32f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-bahamas`
   static const IconifyIconData flagBahamas = IconifyIconData(IconData(
-    0xe93a,
+    0xe330,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-bahrain`
   static const IconifyIconData flagBahrain = IconifyIconData(IconData(
-    0xe1a9,
+    0xe331,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-barbados`
   static const IconifyIconData flagBarbados = IconifyIconData(IconData(
-    0xe93b,
+    0xe332,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-belarus`
   static const IconifyIconData flagBelarus = IconifyIconData(IconData(
-    0xe93c,
+    0xe333,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-belgium`
   static const IconifyIconData flagBelgium = IconifyIconData(IconData(
-    0xe1aa,
+    0xe334,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-benin`
   static const IconifyIconData flagBenin = IconifyIconData(IconData(
-    0xe93d,
+    0xe335,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-bermuda`
   static const IconifyIconData flagBermuda = IconifyIconData(IconData(
-    0xe93e,
+    0xe336,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-bhutan`
   static const IconifyIconData flagBhutan = IconifyIconData(IconData(
-    0xe1ab,
+    0xe337,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-bolivia`
   static const IconifyIconData flagBolivia = IconifyIconData(IconData(
-    0xe93f,
+    0xe338,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-bouvet-island`
   static const IconifyIconData flagBouvetIsland = IconifyIconData(IconData(
-    0xe940,
+    0xe339,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-british-indian-ocean-territory`
   static const IconifyIconData flagBritishIndianOceanTerritory = IconifyIconData(IconData(
-    0xe941,
+    0xe33a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-brunei`
   static const IconifyIconData flagBrunei = IconifyIconData(IconData(
-    0xe1ac,
+    0xe33b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-burundi`
   static const IconifyIconData flagBurundi = IconifyIconData(IconData(
-    0xe942,
+    0xe33c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-cambodia`
   static const IconifyIconData flagCambodia = IconifyIconData(IconData(
-    0xe943,
+    0xe33d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-cameroon`
   static const IconifyIconData flagCameroon = IconifyIconData(IconData(
-    0xe944,
+    0xe33e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-canada`
   static const IconifyIconData flagCanada = IconifyIconData(IconData(
-    0xe1ad,
+    0xe33f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-central-african-republic`
   static const IconifyIconData flagCentralAfricanRepublic = IconifyIconData(IconData(
-    0xe945,
+    0xe340,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-ceuta-and-melilla`
   static const IconifyIconData flagCeutaAndMelilla = IconifyIconData(IconData(
-    0xe946,
+    0xe341,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-ceuta-melilla`
   static const IconifyIconData flagCeutaMelilla = IconifyIconData(IconData(
-    0xe947,
+    0xe342,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-chad`
   static const IconifyIconData flagChad = IconifyIconData(IconData(
-    0xe948,
+    0xe343,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-chile`
   static const IconifyIconData flagChile = IconifyIconData(IconData(
-    0xe949,
+    0xe344,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-china`
   static const IconifyIconData flagChina = IconifyIconData(IconData(
-    0xe1ae,
+    0xe345,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-clipperton-island`
   static const IconifyIconData flagClippertonIsland = IconifyIconData(IconData(
-    0xe94a,
+    0xe346,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-colombia`
   static const IconifyIconData flagColombia = IconifyIconData(IconData(
-    0xe94b,
+    0xe347,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-congo-brazzaville`
   static const IconifyIconData flagCongoBrazzaville = IconifyIconData(IconData(
-    0xe94c,
+    0xe348,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-costa-rica`
   static const IconifyIconData flagCostaRica = IconifyIconData(IconData(
-    0xe94d,
+    0xe349,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-cote-divoire`
   static const IconifyIconData flagCoteDivoire = IconifyIconData(IconData(
-    0xe94e,
+    0xe34a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-cte-divoire`
   static const IconifyIconData flagCteDivoire = IconifyIconData(IconData(
-    0xe94f,
+    0xe34b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-cuba`
   static const IconifyIconData flagCuba = IconifyIconData(IconData(
-    0xe950,
+    0xe34c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-cyprus`
   static const IconifyIconData flagCyprus = IconifyIconData(IconData(
-    0xe951,
+    0xe34d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-czechia`
   static const IconifyIconData flagCzechia = IconifyIconData(IconData(
-    0xe952,
+    0xe34e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-denmark`
   static const IconifyIconData flagDenmark = IconifyIconData(IconData(
-    0xe1af,
+    0xe34f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-diego-garcia`
   static const IconifyIconData flagDiegoGarcia = IconifyIconData(IconData(
-    0xe953,
+    0xe350,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-ecuador`
   static const IconifyIconData flagEcuador = IconifyIconData(IconData(
-    0xe954,
+    0xe351,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-egypt`
   static const IconifyIconData flagEgypt = IconifyIconData(IconData(
-    0xe1b0,
+    0xe352,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-england`
   static const IconifyIconData flagEngland = IconifyIconData(IconData(
-    0xe1b1,
+    0xe353,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-equatorial-guinea`
   static const IconifyIconData flagEquatorialGuinea = IconifyIconData(IconData(
-    0xe955,
+    0xe354,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-estonia`
   static const IconifyIconData flagEstonia = IconifyIconData(IconData(
-    0xe956,
+    0xe355,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-eswatini`
   static const IconifyIconData flagEswatini = IconifyIconData(IconData(
-    0xe957,
+    0xe356,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-ethiopia`
   static const IconifyIconData flagEthiopia = IconifyIconData(IconData(
-    0xe958,
+    0xe357,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-faroe-islands`
   static const IconifyIconData flagFaroeIslands = IconifyIconData(IconData(
-    0xe959,
+    0xe358,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-finland`
   static const IconifyIconData flagFinland = IconifyIconData(IconData(
-    0xe95a,
+    0xe359,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-france`
   static const IconifyIconData flagFrance = IconifyIconData(IconData(
-    0xe95b,
+    0xe35a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-french-guiana`
   static const IconifyIconData flagFrenchGuiana = IconifyIconData(IconData(
-    0xe95c,
+    0xe35b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-french-polynesia`
   static const IconifyIconData flagFrenchPolynesia = IconifyIconData(IconData(
-    0xe1b2,
+    0xe35c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-georgia`
   static const IconifyIconData flagGeorgia = IconifyIconData(IconData(
-    0xe1b3,
+    0xe35d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-germany`
   static const IconifyIconData flagGermany = IconifyIconData(IconData(
-    0xe1b4,
+    0xe35e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-gibraltar`
   static const IconifyIconData flagGibraltar = IconifyIconData(IconData(
-    0xe1b5,
+    0xe35f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-greece`
   static const IconifyIconData flagGreece = IconifyIconData(IconData(
-    0xe95d,
+    0xe360,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-greenland`
   static const IconifyIconData flagGreenland = IconifyIconData(IconData(
-    0xe1b6,
+    0xe361,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-grenada`
   static const IconifyIconData flagGrenada = IconifyIconData(IconData(
-    0xe95e,
+    0xe362,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-guadeloupe`
   static const IconifyIconData flagGuadeloupe = IconifyIconData(IconData(
-    0xe95f,
+    0xe363,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-guatemala`
   static const IconifyIconData flagGuatemala = IconifyIconData(IconData(
-    0xe960,
+    0xe364,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-guernsey`
   static const IconifyIconData flagGuernsey = IconifyIconData(IconData(
-    0xe1b7,
+    0xe365,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-guinea`
   static const IconifyIconData flagGuinea = IconifyIconData(IconData(
-    0xe961,
+    0xe366,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-guinea-bissau`
   static const IconifyIconData flagGuineaBissau = IconifyIconData(IconData(
-    0xe962,
+    0xe367,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-honduras`
   static const IconifyIconData flagHonduras = IconifyIconData(IconData(
-    0xe963,
+    0xe368,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-hong-kong-sar-china`
   static const IconifyIconData flagHongKongSarChina = IconifyIconData(IconData(
-    0xe1b8,
+    0xe369,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-in-hole`
   static const IconifyIconData flagInHole = IconifyIconData(IconData(
-    0xe964,
+    0xe36a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-indonesia`
   static const IconifyIconData flagIndonesia = IconifyIconData(IconData(
-    0xe1b9,
+    0xe36b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-iran`
   static const IconifyIconData flagIran = IconifyIconData(IconData(
-    0xe965,
+    0xe36c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-iraq`
   static const IconifyIconData flagIraq = IconifyIconData(IconData(
-    0xe966,
+    0xe36d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-ireland`
   static const IconifyIconData flagIreland = IconifyIconData(IconData(
-    0xe967,
+    0xe36e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-isle-of-man`
   static const IconifyIconData flagIsleOfMan = IconifyIconData(IconData(
-    0xe1ba,
+    0xe36f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-israel`
   static const IconifyIconData flagIsrael = IconifyIconData(IconData(
-    0xe968,
+    0xe370,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-italy`
   static const IconifyIconData flagItaly = IconifyIconData(IconData(
-    0xe969,
+    0xe371,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-jamaica`
   static const IconifyIconData flagJamaica = IconifyIconData(IconData(
-    0xe96a,
+    0xe372,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-japan`
   static const IconifyIconData flagJapan = IconifyIconData(IconData(
-    0xe1bb,
+    0xe373,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-jersey`
   static const IconifyIconData flagJersey = IconifyIconData(IconData(
-    0xe1bc,
+    0xe374,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-kiribati`
   static const IconifyIconData flagKiribati = IconifyIconData(IconData(
-    0xe96b,
+    0xe375,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-kuwait`
   static const IconifyIconData flagKuwait = IconifyIconData(IconData(
-    0xe1bd,
+    0xe376,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-kyrgyzstan`
   static const IconifyIconData flagKyrgyzstan = IconifyIconData(IconData(
-    0xe1be,
+    0xe377,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-lebanon`
   static const IconifyIconData flagLebanon = IconifyIconData(IconData(
-    0xe96c,
+    0xe378,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-liberia`
   static const IconifyIconData flagLiberia = IconifyIconData(IconData(
-    0xe96d,
+    0xe379,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-lithuania`
   static const IconifyIconData flagLithuania = IconifyIconData(IconData(
-    0xe96e,
+    0xe37a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-madagascar`
   static const IconifyIconData flagMadagascar = IconifyIconData(IconData(
-    0xe96f,
+    0xe37b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-malaysia`
   static const IconifyIconData flagMalaysia = IconifyIconData(IconData(
-    0xe970,
+    0xe37c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-mali`
   static const IconifyIconData flagMali = IconifyIconData(IconData(
-    0xe971,
+    0xe37d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-malta`
   static const IconifyIconData flagMalta = IconifyIconData(IconData(
-    0xe1bf,
+    0xe37e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-mayotte`
   static const IconifyIconData flagMayotte = IconifyIconData(IconData(
-    0xe972,
+    0xe37f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-mexico`
   static const IconifyIconData flagMexico = IconifyIconData(IconData(
-    0xe973,
+    0xe380,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-micronesia`
   static const IconifyIconData flagMicronesia = IconifyIconData(IconData(
-    0xe1c0,
+    0xe381,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-moldova`
   static const IconifyIconData flagMoldova = IconifyIconData(IconData(
-    0xe974,
+    0xe382,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-monaco`
   static const IconifyIconData flagMonaco = IconifyIconData(IconData(
-    0xe1c1,
+    0xe383,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-montenegro`
   static const IconifyIconData flagMontenegro = IconifyIconData(IconData(
-    0xe975,
+    0xe384,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-morocco`
   static const IconifyIconData flagMorocco = IconifyIconData(IconData(
-    0xe976,
+    0xe385,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-mozambique`
   static const IconifyIconData flagMozambique = IconifyIconData(IconData(
-    0xe977,
+    0xe386,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-myanmar-burma`
   static const IconifyIconData flagMyanmarBurma = IconifyIconData(IconData(
-    0xe978,
+    0xe387,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-nepal`
   static const IconifyIconData flagNepal = IconifyIconData(IconData(
-    0xe979,
+    0xe388,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-niger`
   static const IconifyIconData flagNiger = IconifyIconData(IconData(
-    0xe97a,
+    0xe389,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-nigeria`
   static const IconifyIconData flagNigeria = IconifyIconData(IconData(
-    0xe97b,
+    0xe38a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-niue`
   static const IconifyIconData flagNiue = IconifyIconData(IconData(
-    0xe97c,
+    0xe38b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-norfolk-island`
   static const IconifyIconData flagNorfolkIsland = IconifyIconData(IconData(
-    0xe97d,
+    0xe38c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-north-korea`
   static const IconifyIconData flagNorthKorea = IconifyIconData(IconData(
-    0xe97e,
+    0xe38d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-north-macedonia`
   static const IconifyIconData flagNorthMacedonia = IconifyIconData(IconData(
-    0xe1c2,
+    0xe38e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-norway`
   static const IconifyIconData flagNorway = IconifyIconData(IconData(
-    0xe97f,
+    0xe38f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-oman`
   static const IconifyIconData flagOman = IconifyIconData(IconData(
-    0xe980,
+    0xe390,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-palestinian-territories`
   static const IconifyIconData flagPalestinianTerritories = IconifyIconData(IconData(
-    0xe981,
+    0xe391,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-panama`
   static const IconifyIconData flagPanama = IconifyIconData(IconData(
-    0xe982,
+    0xe392,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-papua-new-guinea`
   static const IconifyIconData flagPapuaNewGuinea = IconifyIconData(IconData(
-    0xe1c3,
+    0xe393,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-peru`
   static const IconifyIconData flagPeru = IconifyIconData(IconData(
-    0xe1c4,
+    0xe394,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-poland`
   static const IconifyIconData flagPoland = IconifyIconData(IconData(
-    0xe1c5,
+    0xe395,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-portugal`
   static const IconifyIconData flagPortugal = IconifyIconData(IconData(
-    0xe983,
+    0xe396,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-puerto-rico`
   static const IconifyIconData flagPuertoRico = IconifyIconData(IconData(
-    0xe984,
+    0xe397,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-romania`
   static const IconifyIconData flagRomania = IconifyIconData(IconData(
-    0xe985,
+    0xe398,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-russia`
   static const IconifyIconData flagRussia = IconifyIconData(IconData(
-    0xe986,
+    0xe399,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-samoa`
   static const IconifyIconData flagSamoa = IconifyIconData(IconData(
-    0xe987,
+    0xe39a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-sao-tome-and-principe`
   static const IconifyIconData flagSaoTomeAndPrincipe = IconifyIconData(IconData(
-    0xe1c6,
+    0xe39b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-sark`
   static const IconifyIconData flagSark = IconifyIconData(IconData(
-    0xe1c7,
+    0xe39c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-senegal`
   static const IconifyIconData flagSenegal = IconifyIconData(IconData(
-    0xe988,
+    0xe39d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-serbia`
   static const IconifyIconData flagSerbia = IconifyIconData(IconData(
-    0xe989,
+    0xe39e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-singapore`
   static const IconifyIconData flagSingapore = IconifyIconData(IconData(
-    0xe1c8,
+    0xe39f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-sint-maarten`
   static const IconifyIconData flagSintMaarten = IconifyIconData(IconData(
-    0xe98a,
+    0xe3a0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-slovakia`
   static const IconifyIconData flagSlovakia = IconifyIconData(IconData(
-    0xe98b,
+    0xe3a1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-slovenia`
   static const IconifyIconData flagSlovenia = IconifyIconData(IconData(
-    0xe98c,
+    0xe3a2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-so-tom-prncipe`
   static const IconifyIconData flagSoTomPrncipe = IconifyIconData(IconData(
-    0xe1c9,
+    0xe3a3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-south-africa`
   static const IconifyIconData flagSouthAfrica = IconifyIconData(IconData(
-    0xe98d,
+    0xe3a4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-south-korea`
   static const IconifyIconData flagSouthKorea = IconifyIconData(IconData(
-    0xe98e,
+    0xe3a5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-spain`
   static const IconifyIconData flagSpain = IconifyIconData(IconData(
-    0xe98f,
+    0xe3a6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-sri-lanka`
   static const IconifyIconData flagSriLanka = IconifyIconData(IconData(
-    0xe990,
+    0xe3a7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-st-barthelemy`
   static const IconifyIconData flagStBarthelemy = IconifyIconData(IconData(
-    0xe991,
+    0xe3a8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-st-barthlemy`
   static const IconifyIconData flagStBarthlemy = IconifyIconData(IconData(
-    0xe992,
+    0xe3a9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-st-kitts-and-nevis`
   static const IconifyIconData flagStKittsAndNevis = IconifyIconData(IconData(
-    0xe993,
+    0xe3aa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-st-kitts-nevis`
   static const IconifyIconData flagStKittsNevis = IconifyIconData(IconData(
-    0xe994,
+    0xe3ab,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-st-martin`
   static const IconifyIconData flagStMartin = IconifyIconData(IconData(
-    0xe995,
+    0xe3ac,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-st-pierre-and-miquelon`
   static const IconifyIconData flagStPierreAndMiquelon = IconifyIconData(IconData(
-    0xe996,
+    0xe3ad,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-st-pierre-miquelon`
   static const IconifyIconData flagStPierreMiquelon = IconifyIconData(IconData(
-    0xe997,
+    0xe3ae,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-st-vincent-and-grenadines`
   static const IconifyIconData flagStVincentAndGrenadines = IconifyIconData(IconData(
-    0xe998,
+    0xe3af,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-st-vincent-grenadines`
   static const IconifyIconData flagStVincentGrenadines = IconifyIconData(IconData(
-    0xe999,
+    0xe3b0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-sudan`
   static const IconifyIconData flagSudan = IconifyIconData(IconData(
-    0xe99a,
+    0xe3b1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-suriname`
   static const IconifyIconData flagSuriname = IconifyIconData(IconData(
-    0xe99b,
+    0xe3b2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-svalbard-and-jan-mayen`
   static const IconifyIconData flagSvalbardAndJanMayen = IconifyIconData(IconData(
-    0xe99c,
+    0xe3b3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-svalbard-jan-mayen`
   static const IconifyIconData flagSvalbardJanMayen = IconifyIconData(IconData(
-    0xe99d,
+    0xe3b4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-switzerland`
   static const IconifyIconData flagSwitzerland = IconifyIconData(IconData(
-    0xe1ca,
+    0xe3b5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-syria`
   static const IconifyIconData flagSyria = IconifyIconData(IconData(
-    0xe99e,
+    0xe3b6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-taiwan`
   static const IconifyIconData flagTaiwan = IconifyIconData(IconData(
-    0xe99f,
+    0xe3b7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-thailand`
   static const IconifyIconData flagThailand = IconifyIconData(IconData(
-    0xe9a0,
+    0xe3b8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-timor-leste`
   static const IconifyIconData flagTimorLeste = IconifyIconData(IconData(
-    0xe1cb,
+    0xe3b9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-togo`
   static const IconifyIconData flagTogo = IconifyIconData(IconData(
-    0xe9a1,
+    0xe3ba,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-tonga`
   static const IconifyIconData flagTonga = IconifyIconData(IconData(
-    0xe1cc,
+    0xe3bb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-trinidad-and-tobago`
   static const IconifyIconData flagTrinidadAndTobago = IconifyIconData(IconData(
-    0xe1cd,
+    0xe3bc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-trinidad-tobago`
   static const IconifyIconData flagTrinidadTobago = IconifyIconData(IconData(
-    0xe1ce,
+    0xe3bd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-tunisia`
   static const IconifyIconData flagTunisia = IconifyIconData(IconData(
-    0xe1cf,
+    0xe3be,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-turkey`
   static const IconifyIconData flagTurkey = IconifyIconData(IconData(
-    0xe1d0,
+    0xe3bf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-turkiye`
   static const IconifyIconData flagTurkiye = IconifyIconData(IconData(
-    0xe1d1,
+    0xe3c0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-tuvalu`
   static const IconifyIconData flagTuvalu = IconifyIconData(IconData(
-    0xe9a2,
+    0xe3c1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-uganda`
   static const IconifyIconData flagUganda = IconifyIconData(IconData(
-    0xe1d2,
+    0xe3c2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-united-arab-emirates`
   static const IconifyIconData flagUnitedArabEmirates = IconifyIconData(IconData(
-    0xe9a3,
+    0xe3c3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-united-states`
   static const IconifyIconData flagUnitedStates = IconifyIconData(IconData(
-    0xe9a4,
+    0xe3c4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-us-outlying-islands`
   static const IconifyIconData flagUsOutlyingIslands = IconifyIconData(IconData(
-    0xe9a5,
+    0xe3c5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-us-virgin-islands`
   static const IconifyIconData flagUsVirginIslands = IconifyIconData(IconData(
-    0xe9a6,
+    0xe3c6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-uzbekistan`
   static const IconifyIconData flagUzbekistan = IconifyIconData(IconData(
-    0xe9a7,
+    0xe3c7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-vanuatu`
   static const IconifyIconData flagVanuatu = IconifyIconData(IconData(
-    0xe9a8,
+    0xe3c8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-vatican-city`
   static const IconifyIconData flagVaticanCity = IconifyIconData(IconData(
-    0xe1d3,
+    0xe3c9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-venezuela`
   static const IconifyIconData flagVenezuela = IconifyIconData(IconData(
-    0xe9a9,
+    0xe3ca,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-vietnam`
   static const IconifyIconData flagVietnam = IconifyIconData(IconData(
-    0xe1d4,
+    0xe3cb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-wallis-and-futuna`
   static const IconifyIconData flagWallisAndFutuna = IconifyIconData(IconData(
-    0xe9aa,
+    0xe3cc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-wallis-futuna`
   static const IconifyIconData flagWallisFutuna = IconifyIconData(IconData(
-    0xe9ab,
+    0xe3cd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-yemen`
   static const IconifyIconData flagYemen = IconifyIconData(IconData(
-    0xe1d5,
+    0xe3ce,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flag-zimbabwe`
   static const IconifyIconData flagZimbabwe = IconifyIconData(IconData(
-    0xe9ac,
+    0xe3cf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flagged-building`
   static const IconifyIconData flaggedBuilding = IconifyIconData(IconData(
-    0xe9ad,
+    0xe3d0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flagged-point`
   static const IconifyIconData flaggedPoint = IconifyIconData(IconData(
-    0xe9ae,
+    0xe3d1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flamingo`
   static const IconifyIconData flamingo = IconifyIconData(IconData(
-    0xe1d6,
+    0xe3d2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flashlight`
   static const IconifyIconData flashlight = IconifyIconData(IconData(
-    0xe9af,
+    0xe3d3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flat-shoe`
   static const IconifyIconData flatShoe = IconifyIconData(IconData(
-    0xe1d7,
+    0xe3d4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flatbread`
   static const IconifyIconData flatbread = IconifyIconData(IconData(
-    0xe1d8,
+    0xe3d5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fleur-de-lis`
   static const IconifyIconData fleurDeLis = IconifyIconData(IconData(
-    0xe1d9,
+    0xe3d6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flexed-biceps`
   static const IconifyIconData flexedBiceps = IconifyIconData(IconData(
-    0xe9b0,
+    0xe3d7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flexed-biceps-dark-skin-tone`
   static const IconifyIconData flexedBicepsDarkSkinTone = IconifyIconData(IconData(
-    0xe9b1,
+    0xe3d8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flexed-biceps-light-skin-tone`
   static const IconifyIconData flexedBicepsLightSkinTone = IconifyIconData(IconData(
-    0xe9b2,
+    0xe3d9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flexed-biceps-medium-dark-skin-tone`
   static const IconifyIconData flexedBicepsMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe9b3,
+    0xe3da,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flexed-biceps-medium-light-skin-tone`
   static const IconifyIconData flexedBicepsMediumLightSkinTone = IconifyIconData(IconData(
-    0xe9b4,
+    0xe3db,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flexed-biceps-medium-skin-tone`
   static const IconifyIconData flexedBicepsMediumSkinTone = IconifyIconData(IconData(
-    0xe9b5,
+    0xe3dc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `floating-ice`
   static const IconifyIconData floatingIce = IconifyIconData(IconData(
-    0xe9b6,
+    0xe3dd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `floating-ice-broken`
   static const IconifyIconData floatingIceBroken = IconifyIconData(IconData(
-    0xe9b7,
+    0xe3de,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flood`
   static const IconifyIconData flood = IconifyIconData(IconData(
-    0xe9b8,
+    0xe3df,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `floppy-disk`
   static const IconifyIconData floppyDisk = IconifyIconData(IconData(
-    0xe9b9,
+    0xe3e0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flower-playing-cards`
   static const IconifyIconData flowerPlayingCards = IconifyIconData(IconData(
-    0xe1da,
+    0xe3e1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flushed-face`
   static const IconifyIconData flushedFace = IconifyIconData(IconData(
-    0xe1db,
+    0xe3e2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fly`
   static const IconifyIconData fly = IconifyIconData(IconData(
-    0xe1dc,
+    0xe3e3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `flying-saucer`
   static const IconifyIconData flyingSaucer = IconifyIconData(IconData(
-    0xe9ba,
+    0xe3e4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fog`
   static const IconifyIconData fog = IconifyIconData(IconData(
-    0xe1dd,
+    0xe3e5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `foggy`
   static const IconifyIconData foggy = IconifyIconData(IconData(
-    0xe1de,
+    0xe3e6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `foggy-mountain`
   static const IconifyIconData foggyMountain = IconifyIconData(IconData(
-    0xe1df,
+    0xe3e7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `folded-hands`
   static const IconifyIconData foldedHands = IconifyIconData(IconData(
-    0xe1e0,
+    0xe3e8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `folded-hands-dark-skin-tone`
   static const IconifyIconData foldedHandsDarkSkinTone = IconifyIconData(IconData(
-    0xe9bb,
+    0xe3e9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `folded-hands-light-skin-tone`
   static const IconifyIconData foldedHandsLightSkinTone = IconifyIconData(IconData(
-    0xe1e1,
+    0xe3ea,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `folded-hands-medium-dark-skin-tone`
   static const IconifyIconData foldedHandsMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe9bc,
+    0xe3eb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `folded-hands-medium-light-skin-tone`
   static const IconifyIconData foldedHandsMediumLightSkinTone = IconifyIconData(IconData(
-    0xe1e2,
+    0xe3ec,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `folded-hands-medium-skin-tone`
   static const IconifyIconData foldedHandsMediumSkinTone = IconifyIconData(IconData(
-    0xe1e3,
+    0xe3ed,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `folding-hand-fan`
   static const IconifyIconData foldingHandFan = IconifyIconData(IconData(
-    0xe1e4,
+    0xe3ee,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fondue`
   static const IconifyIconData fondue = IconifyIconData(IconData(
-    0xe9bd,
+    0xe3ef,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `foot`
   static const IconifyIconData foot = IconifyIconData(IconData(
-    0xe1e5,
+    0xe3f0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `foot-light-skin-tone`
   static const IconifyIconData footLightSkinTone = IconifyIconData(IconData(
-    0xe1e6,
+    0xe3f1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `foot-medium-light-skin-tone`
   static const IconifyIconData footMediumLightSkinTone = IconifyIconData(IconData(
-    0xe1e7,
+    0xe3f2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `foot-medium-skin-tone`
   static const IconifyIconData footMediumSkinTone = IconifyIconData(IconData(
-    0xe9be,
+    0xe3f3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `footprints`
   static const IconifyIconData footprints = IconifyIconData(IconData(
-    0xe1e8,
+    0xe3f4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `forceps`
   static const IconifyIconData forceps = IconifyIconData(IconData(
-    0xe1e9,
+    0xe3f5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fork-and-knife`
   static const IconifyIconData forkAndKnife = IconifyIconData(IconData(
-    0xe1ea,
+    0xe3f6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fork-and-knife-with-plate`
   static const IconifyIconData forkAndKnifeWithPlate = IconifyIconData(IconData(
-    0xe1eb,
+    0xe3f7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fortune-cookie`
   static const IconifyIconData fortuneCookie = IconifyIconData(IconData(
-    0xe1ec,
+    0xe3f8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `forward`
   static const IconifyIconData forward = IconifyIconData(IconData(
-    0xe1ed,
+    0xe3f9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fountain`
   static const IconifyIconData fountain = IconifyIconData(IconData(
-    0xe9bf,
+    0xe3fa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fountain-pen`
   static const IconifyIconData fountainPen = IconifyIconData(IconData(
-    0xe1ee,
+    0xe3fb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `four-leaf-clover`
   static const IconifyIconData fourLeafClover = IconifyIconData(IconData(
-    0xe1ef,
+    0xe3fc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `four-oclock`
   static const IconifyIconData fourOclock = IconifyIconData(IconData(
-    0xe9c0,
+    0xe3fd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `four-thirty`
   static const IconifyIconData fourThirty = IconifyIconData(IconData(
-    0xe9c1,
+    0xe3fe,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fracture-leg`
   static const IconifyIconData fractureLeg = IconifyIconData(IconData(
-    0xe1f0,
+    0xe3ff,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `framed-picture`
   static const IconifyIconData framedPicture = IconifyIconData(IconData(
-    0xe9c2,
+    0xe400,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `free-button`
   static const IconifyIconData freeButton = IconifyIconData(IconData(
-    0xe9c3,
+    0xe401,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `french-fries`
   static const IconifyIconData frenchFries = IconifyIconData(IconData(
-    0xe1f1,
+    0xe402,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `french-press`
   static const IconifyIconData frenchPress = IconifyIconData(IconData(
-    0xe9c4,
+    0xe403,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fried-shrimp`
   static const IconifyIconData friedShrimp = IconifyIconData(IconData(
-    0xe1f2,
+    0xe404,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `frog`
   static const IconifyIconData frog = IconifyIconData(IconData(
-    0xe1f3,
+    0xe405,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `front-facing-baby-chick`
   static const IconifyIconData frontFacingBabyChick = IconifyIconData(IconData(
-    0xe1f4,
+    0xe406,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `frowning-face`
   static const IconifyIconData frowningFace = IconifyIconData(IconData(
-    0xe1f5,
+    0xe407,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `frowning-face-with-open-mouth`
   static const IconifyIconData frowningFaceWithOpenMouth = IconifyIconData(IconData(
-    0xe1f6,
+    0xe408,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `fuel-pump`
   static const IconifyIconData fuelPump = IconifyIconData(IconData(
-    0xe1f7,
+    0xe409,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `full-moon`
   static const IconifyIconData fullMoon = IconifyIconData(IconData(
-    0xe1f8,
+    0xe40a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `full-moon-face`
   static const IconifyIconData fullMoonFace = IconifyIconData(IconData(
-    0xe1f9,
+    0xe40b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `funeral-urn`
   static const IconifyIconData funeralUrn = IconifyIconData(IconData(
-    0xe9c5,
+    0xe40c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `galicia-flag`
   static const IconifyIconData galiciaFlag = IconifyIconData(IconData(
-    0xe9c6,
+    0xe40d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `game-die`
   static const IconifyIconData gameDie = IconifyIconData(IconData(
-    0xe1fa,
+    0xe40e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `gardener-man`
   static const IconifyIconData gardenerMan = IconifyIconData(IconData(
-    0xe9c7,
+    0xe40f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `gardener-woman`
   static const IconifyIconData gardenerWoman = IconifyIconData(IconData(
-    0xe9c8,
+    0xe410,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `garlic`
   static const IconifyIconData garlic = IconifyIconData(IconData(
-    0xe1fb,
+    0xe411,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `gear`
   static const IconifyIconData gear = IconifyIconData(IconData(
-    0xe1fc,
+    0xe412,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `gem-stone`
   static const IconifyIconData gemStone = IconifyIconData(IconData(
-    0xe9c9,
+    0xe413,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `gemini`
   static const IconifyIconData gemini = IconifyIconData(IconData(
-    0xe9ca,
+    0xe414,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `genie`
   static const IconifyIconData genie = IconifyIconData(IconData(
-    0xe9cb,
+    0xe415,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ghost`
   static const IconifyIconData ghost = IconifyIconData(IconData(
-    0xe1fd,
+    0xe416,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `giraffe`
   static const IconifyIconData giraffe = IconifyIconData(IconData(
-    0xe1fe,
+    0xe417,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `girl`
   static const IconifyIconData girl = IconifyIconData(IconData(
-    0xe1ff,
+    0xe418,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `girl-dark-skin-tone`
   static const IconifyIconData girlDarkSkinTone = IconifyIconData(IconData(
-    0xe9cc,
+    0xe419,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `girl-light-skin-tone`
   static const IconifyIconData girlLightSkinTone = IconifyIconData(IconData(
-    0xe9cd,
+    0xe41a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `girl-medium-dark-skin-tone`
   static const IconifyIconData girlMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe9ce,
+    0xe41b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `girl-medium-light-skin-tone`
   static const IconifyIconData girlMediumLightSkinTone = IconifyIconData(IconData(
-    0xe200,
+    0xe41c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `girl-medium-skin-tone`
   static const IconifyIconData girlMediumSkinTone = IconifyIconData(IconData(
-    0xe9cf,
+    0xe41d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `github`
   static const IconifyIconData github = IconifyIconData(IconData(
-    0xe201,
+    0xe41e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `gitlab`
   static const IconifyIconData gitlab = IconifyIconData(IconData(
-    0xe9d0,
+    0xe41f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `glass-bottle`
   static const IconifyIconData glassBottle = IconifyIconData(IconData(
-    0xe9d1,
+    0xe420,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `glass-of-milk`
   static const IconifyIconData glassOfMilk = IconifyIconData(IconData(
-    0xe202,
+    0xe421,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `glasses`
   static const IconifyIconData glasses = IconifyIconData(IconData(
-    0xe203,
+    0xe422,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `globe-showing-americas`
   static const IconifyIconData globeShowingAmericas = IconifyIconData(IconData(
-    0xe204,
+    0xe423,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `globe-showing-asia-australia`
   static const IconifyIconData globeShowingAsiaAustralia = IconifyIconData(IconData(
-    0xe205,
+    0xe424,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `globe-showing-europe-africa`
   static const IconifyIconData globeShowingEuropeAfrica = IconifyIconData(IconData(
-    0xe206,
+    0xe425,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `globe-with-meridians`
   static const IconifyIconData globeWithMeridians = IconifyIconData(IconData(
-    0xe207,
+    0xe426,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `gloves`
   static const IconifyIconData gloves = IconifyIconData(IconData(
-    0xe208,
+    0xe427,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `glowing-star`
   static const IconifyIconData glowingStar = IconifyIconData(IconData(
-    0xe209,
+    0xe428,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `goal-net`
   static const IconifyIconData goalNet = IconifyIconData(IconData(
-    0xe20a,
+    0xe429,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `goblin`
   static const IconifyIconData goblin = IconifyIconData(IconData(
-    0xe20b,
+    0xe42a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `goggles`
   static const IconifyIconData goggles = IconifyIconData(IconData(
-    0xe20c,
+    0xe42b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `goldfish`
   static const IconifyIconData goldfish = IconifyIconData(IconData(
-    0xe9d2,
+    0xe42c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `goose`
   static const IconifyIconData goose = IconifyIconData(IconData(
-    0xe9d3,
+    0xe42d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `gorilla`
   static const IconifyIconData gorilla = IconifyIconData(IconData(
-    0xe20d,
+    0xe42e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `gps`
   static const IconifyIconData gps = IconifyIconData(IconData(
-    0xe20e,
+    0xe42f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `graduation-cap`
   static const IconifyIconData graduationCap = IconifyIconData(IconData(
-    0xe20f,
+    0xe430,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `great-pyramid-of-giza`
   static const IconifyIconData greatPyramidOfGiza = IconifyIconData(IconData(
-    0xe9d4,
+    0xe431,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `green-apple`
   static const IconifyIconData greenApple = IconifyIconData(IconData(
-    0xe9d5,
+    0xe432,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `green-book`
   static const IconifyIconData greenBook = IconifyIconData(IconData(
-    0xe9d6,
+    0xe433,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `green-circle`
   static const IconifyIconData greenCircle = IconifyIconData(IconData(
-    0xe210,
+    0xe434,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `green-flag`
   static const IconifyIconData greenFlag = IconifyIconData(IconData(
-    0xe211,
+    0xe435,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `green-heart`
   static const IconifyIconData greenHeart = IconifyIconData(IconData(
-    0xe212,
+    0xe436,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `green-hexagon`
   static const IconifyIconData greenHexagon = IconifyIconData(IconData(
-    0xe213,
+    0xe437,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `green-salad`
   static const IconifyIconData greenSalad = IconifyIconData(IconData(
-    0xe214,
+    0xe438,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `green-square`
   static const IconifyIconData greenSquare = IconifyIconData(IconData(
-    0xe215,
+    0xe439,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `greta-thunberg`
   static const IconifyIconData gretaThunberg = IconifyIconData(IconData(
-    0xe9d7,
+    0xe43a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `grey-heart`
   static const IconifyIconData greyHeart = IconifyIconData(IconData(
-    0xe216,
+    0xe43b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `grimacing-face`
   static const IconifyIconData grimacingFace = IconifyIconData(IconData(
-    0xe217,
+    0xe43c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `grinning-cat`
   static const IconifyIconData grinningCat = IconifyIconData(IconData(
-    0xe9d8,
+    0xe43d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `grinning-cat-with-smiling-eyes`
   static const IconifyIconData grinningCatWithSmilingEyes = IconifyIconData(IconData(
-    0xe9d9,
+    0xe43e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `grinning-face`
   static const IconifyIconData grinningFace = IconifyIconData(IconData(
-    0xe218,
+    0xe43f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `grinning-face-with-big-eyes`
   static const IconifyIconData grinningFaceWithBigEyes = IconifyIconData(IconData(
-    0xe219,
+    0xe440,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `grinning-face-with-smiling-eyes`
   static const IconifyIconData grinningFaceWithSmilingEyes = IconifyIconData(IconData(
-    0xe21a,
+    0xe441,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `grinning-face-with-sweat`
   static const IconifyIconData grinningFaceWithSweat = IconifyIconData(IconData(
-    0xe21b,
+    0xe442,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `grinning-squinting-face`
   static const IconifyIconData grinningSquintingFace = IconifyIconData(IconData(
-    0xe21c,
+    0xe443,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `growing-heart`
   static const IconifyIconData growingHeart = IconifyIconData(IconData(
-    0xe21d,
+    0xe444,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `guard`
   static const IconifyIconData guard = IconifyIconData(IconData(
-    0xe21e,
+    0xe445,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `guard-dark-skin-tone`
   static const IconifyIconData guardDarkSkinTone = IconifyIconData(IconData(
-    0xe9da,
+    0xe446,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `guard-light-skin-tone`
   static const IconifyIconData guardLightSkinTone = IconifyIconData(IconData(
-    0xe21f,
+    0xe447,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `guard-medium-dark-skin-tone`
   static const IconifyIconData guardMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe9db,
+    0xe448,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `guard-medium-light-skin-tone`
   static const IconifyIconData guardMediumLightSkinTone = IconifyIconData(IconData(
-    0xe220,
+    0xe449,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `guard-medium-skin-tone`
   static const IconifyIconData guardMediumSkinTone = IconifyIconData(IconData(
-    0xe221,
+    0xe44a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `guide-dog`
   static const IconifyIconData guideDog = IconifyIconData(IconData(
-    0xe9dc,
+    0xe44b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `guitar`
   static const IconifyIconData guitar = IconifyIconData(IconData(
-    0xe9dd,
+    0xe44c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `guy-fawkes-mask`
   static const IconifyIconData guyFawkesMask = IconifyIconData(IconData(
-    0xe222,
+    0xe44d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hacker-cat`
   static const IconifyIconData hackerCat = IconifyIconData(IconData(
-    0xe9de,
+    0xe44e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hair-pick`
   static const IconifyIconData hairPick = IconifyIconData(IconData(
-    0xe223,
+    0xe44f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hal-9000`
   static const IconifyIconData hal9000 = IconifyIconData(IconData(
-    0xe9df,
+    0xe450,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `half-orange-fruit`
   static const IconifyIconData halfOrangeFruit = IconifyIconData(IconData(
-    0xe9e0,
+    0xe451,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hamburger-menu`
   static const IconifyIconData hamburgerMenu = IconifyIconData(IconData(
-    0xe224,
+    0xe452,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hammer-and-pick`
   static const IconifyIconData hammerAndPick = IconifyIconData(IconData(
-    0xe9e1,
+    0xe453,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hammer-and-wrench`
   static const IconifyIconData hammerAndWrench = IconifyIconData(IconData(
-    0xe9e2,
+    0xe454,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hamsa`
   static const IconifyIconData hamsa = IconifyIconData(IconData(
-    0xe9e3,
+    0xe455,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hamster`
   static const IconifyIconData hamster = IconifyIconData(IconData(
-    0xe225,
+    0xe456,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hand-with-fingers-splayed`
   static const IconifyIconData handWithFingersSplayed = IconifyIconData(IconData(
-    0xe226,
+    0xe457,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hand-with-fingers-splayed-light-skin-tone`
   static const IconifyIconData handWithFingersSplayedLightSkinTone = IconifyIconData(IconData(
-    0xe227,
+    0xe458,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hand-with-fingers-splayed-medium-light-skin-tone`
   static const IconifyIconData handWithFingersSplayedMediumLightSkinTone = IconifyIconData(IconData(
-    0xe228,
+    0xe459,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hand-with-fingers-splayed-medium-skin-tone`
   static const IconifyIconData handWithFingersSplayedMediumSkinTone = IconifyIconData(IconData(
-    0xe229,
+    0xe45a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hand-with-index-finger-and-thumb-crossed`
   static const IconifyIconData handWithIndexFingerAndThumbCrossed = IconifyIconData(IconData(
-    0xe22a,
+    0xe45b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hand-with-index-finger-and-thumb-crossed-light-skin-tone`
   static const IconifyIconData handWithIndexFingerAndThumbCrossedLightSkinTone = IconifyIconData(IconData(
-    0xe22b,
+    0xe45c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hand-with-index-finger-and-thumb-crossed-medium-light-skin-tone`
   static const IconifyIconData handWithIndexFingerAndThumbCrossedMediumLightSkinTone = IconifyIconData(IconData(
-    0xe22c,
+    0xe45d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hand-with-index-finger-and-thumb-crossed-medium-skin-tone`
   static const IconifyIconData handWithIndexFingerAndThumbCrossedMediumSkinTone = IconifyIconData(IconData(
-    0xe22d,
+    0xe45e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handbag`
   static const IconifyIconData handbag = IconifyIconData(IconData(
-    0xe9e4,
+    0xe45f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake`
   static const IconifyIconData handshake = IconifyIconData(IconData(
-    0xe9e5,
+    0xe460,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-dark-skin-tone`
   static const IconifyIconData handshakeDarkSkinTone = IconifyIconData(IconData(
-    0xe9e6,
+    0xe461,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-dark-skin-tone-light-skin-tone`
   static const IconifyIconData handshakeDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe9e7,
+    0xe462,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-dark-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData handshakeDarkSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe9e8,
+    0xe463,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData handshakeDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe9e9,
+    0xe464,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData handshakeDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe9ea,
+    0xe465,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-light-skin-tone`
   static const IconifyIconData handshakeLightSkinTone = IconifyIconData(IconData(
-    0xe9eb,
+    0xe466,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-light-skin-tone-dark-skin-tone`
   static const IconifyIconData handshakeLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe9ec,
+    0xe467,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData handshakeLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe9ed,
+    0xe468,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-light-skin-tone-medium-light-skin-tone`
   static const IconifyIconData handshakeLightSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe9ee,
+    0xe469,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-light-skin-tone-medium-skin-tone`
   static const IconifyIconData handshakeLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe9ef,
+    0xe46a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-medium-dark-skin-tone`
   static const IconifyIconData handshakeMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe9f0,
+    0xe46b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-medium-dark-skin-tone-dark-skin-tone`
   static const IconifyIconData handshakeMediumDarkSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe9f1,
+    0xe46c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-medium-dark-skin-tone-light-skin-tone`
   static const IconifyIconData handshakeMediumDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe9f2,
+    0xe46d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-medium-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData handshakeMediumDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe9f3,
+    0xe46e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-medium-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData handshakeMediumDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe9f4,
+    0xe46f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-medium-light-skin-tone`
   static const IconifyIconData handshakeMediumLightSkinTone = IconifyIconData(IconData(
-    0xe9f5,
+    0xe470,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-medium-light-skin-tone-dark-skin-tone`
   static const IconifyIconData handshakeMediumLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe9f6,
+    0xe471,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-medium-light-skin-tone-light-skin-tone`
   static const IconifyIconData handshakeMediumLightSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe9f7,
+    0xe472,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-medium-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData handshakeMediumLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe9f8,
+    0xe473,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-medium-light-skin-tone-medium-skin-tone`
   static const IconifyIconData handshakeMediumLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe9f9,
+    0xe474,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-medium-skin-tone`
   static const IconifyIconData handshakeMediumSkinTone = IconifyIconData(IconData(
-    0xe9fa,
+    0xe475,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-medium-skin-tone-dark-skin-tone`
   static const IconifyIconData handshakeMediumSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe9fb,
+    0xe476,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-medium-skin-tone-light-skin-tone`
   static const IconifyIconData handshakeMediumSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe9fc,
+    0xe477,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-medium-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData handshakeMediumSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe9fd,
+    0xe478,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `handshake-medium-skin-tone-medium-light-skin-tone`
   static const IconifyIconData handshakeMediumSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe9fe,
+    0xe479,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hanging-gardens-of-babylon`
   static const IconifyIconData hangingGardensOfBabylon = IconifyIconData(IconData(
-    0xe22e,
+    0xe47a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `harp`
   static const IconifyIconData harp = IconifyIconData(IconData(
-    0xe22f,
+    0xe47b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hatching-chick`
   static const IconifyIconData hatchingChick = IconifyIconData(IconData(
-    0xe230,
+    0xe47c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `head-shaking-horizontally`
   static const IconifyIconData headShakingHorizontally = IconifyIconData(IconData(
-    0xe231,
+    0xe47d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `head-shaking-vertically`
   static const IconifyIconData headShakingVertically = IconifyIconData(IconData(
-    0xe232,
+    0xe47e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `headache`
   static const IconifyIconData headache = IconifyIconData(IconData(
-    0xe9ff,
+    0xe47f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `headphone`
   static const IconifyIconData headphone = IconifyIconData(IconData(
-    0xe233,
+    0xe480,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `headstone`
   static const IconifyIconData headstone = IconifyIconData(IconData(
-    0xea00,
+    0xe481,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `health-worker`
   static const IconifyIconData healthWorker = IconifyIconData(IconData(
-    0xea01,
+    0xe482,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `health-worker-dark-skin-tone`
   static const IconifyIconData healthWorkerDarkSkinTone = IconifyIconData(IconData(
-    0xea02,
+    0xe483,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `health-worker-light-skin-tone`
   static const IconifyIconData healthWorkerLightSkinTone = IconifyIconData(IconData(
-    0xea03,
+    0xe484,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `health-worker-medium-dark-skin-tone`
   static const IconifyIconData healthWorkerMediumDarkSkinTone = IconifyIconData(IconData(
-    0xea04,
+    0xe485,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `health-worker-medium-light-skin-tone`
   static const IconifyIconData healthWorkerMediumLightSkinTone = IconifyIconData(IconData(
-    0xe234,
+    0xe486,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `health-worker-medium-skin-tone`
   static const IconifyIconData healthWorkerMediumSkinTone = IconifyIconData(IconData(
-    0xea05,
+    0xe487,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hear-no-evil-monkey`
   static const IconifyIconData hearNoEvilMonkey = IconifyIconData(IconData(
-    0xea06,
+    0xe488,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `heart`
   static const IconifyIconData heart = IconifyIconData(IconData(
-    0xe235,
+    0xe489,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `heart-exclamation`
   static const IconifyIconData heartExclamation = IconifyIconData(IconData(
-    0xe236,
+    0xe48a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `heart-hands`
   static const IconifyIconData heartHands = IconifyIconData(IconData(
-    0xea07,
+    0xe48b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `heart-hands-dark-skin-tone`
   static const IconifyIconData heartHandsDarkSkinTone = IconifyIconData(IconData(
-    0xea08,
+    0xe48c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `heart-hands-light-skin-tone`
   static const IconifyIconData heartHandsLightSkinTone = IconifyIconData(IconData(
-    0xea09,
+    0xe48d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `heart-hands-medium-dark-skin-tone`
   static const IconifyIconData heartHandsMediumDarkSkinTone = IconifyIconData(IconData(
-    0xea0a,
+    0xe48e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `heart-hands-medium-light-skin-tone`
   static const IconifyIconData heartHandsMediumLightSkinTone = IconifyIconData(IconData(
-    0xea0b,
+    0xe48f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `heart-hands-medium-skin-tone`
   static const IconifyIconData heartHandsMediumSkinTone = IconifyIconData(IconData(
-    0xea0c,
+    0xe490,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `heart-on-fire`
   static const IconifyIconData heartOnFire = IconifyIconData(IconData(
-    0xe237,
+    0xe491,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `heart-suit`
   static const IconifyIconData heartSuit = IconifyIconData(IconData(
-    0xe238,
+    0xe492,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `heart-with-arrow`
   static const IconifyIconData heartWithArrow = IconifyIconData(IconData(
-    0xea0d,
+    0xe493,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `heart-with-ribbon`
   static const IconifyIconData heartWithRibbon = IconifyIconData(IconData(
-    0xe239,
+    0xe494,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `heavy-circle`
   static const IconifyIconData heavyCircle = IconifyIconData(IconData(
-    0xe23a,
+    0xe495,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `heavy-dollar-sign`
   static const IconifyIconData heavyDollarSign = IconifyIconData(IconData(
-    0xe23b,
+    0xe496,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `heavy-equals-sign`
   static const IconifyIconData heavyEqualsSign = IconifyIconData(IconData(
-    0xe23c,
+    0xe497,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hedgehog`
   static const IconifyIconData hedgehog = IconifyIconData(IconData(
-    0xea0e,
+    0xe498,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `helicopter`
   static const IconifyIconData helicopter = IconifyIconData(IconData(
-    0xe23d,
+    0xe499,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `help-others`
   static const IconifyIconData helpOthers = IconifyIconData(IconData(
-    0xe23e,
+    0xe49a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `herb`
   static const IconifyIconData herb = IconifyIconData(IconData(
-    0xea0f,
+    0xe49b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hibiscus`
   static const IconifyIconData hibiscus = IconifyIconData(IconData(
-    0xe23f,
+    0xe49c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `high-heeled-shoe`
   static const IconifyIconData highHeeledShoe = IconifyIconData(IconData(
-    0xea10,
+    0xe49d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `high-speed-train`
   static const IconifyIconData highSpeedTrain = IconifyIconData(IconData(
-    0xe240,
+    0xe49e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `high-voltage`
   static const IconifyIconData highVoltage = IconifyIconData(IconData(
-    0xe241,
+    0xe49f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hindu-temple`
   static const IconifyIconData hinduTemple = IconifyIconData(IconData(
-    0xea11,
+    0xe4a0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hippopotamus`
   static const IconifyIconData hippopotamus = IconifyIconData(IconData(
-    0xe242,
+    0xe4a1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hold`
   static const IconifyIconData hold = IconifyIconData(IconData(
-    0xe243,
+    0xe4a2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hole`
   static const IconifyIconData hole = IconifyIconData(IconData(
-    0xe244,
+    0xe4a3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hollow-red-circle`
   static const IconifyIconData hollowRedCircle = IconifyIconData(IconData(
-    0xe245,
+    0xe4a4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `home-button`
   static const IconifyIconData homeButton = IconifyIconData(IconData(
-    0xe246,
+    0xe4a5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `honey-pot`
   static const IconifyIconData honeyPot = IconifyIconData(IconData(
-    0xe247,
+    0xe4a6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `honeybee`
   static const IconifyIconData honeybee = IconifyIconData(IconData(
-    0xe248,
+    0xe4a7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hook`
   static const IconifyIconData hook = IconifyIconData(IconData(
-    0xe249,
+    0xe4a8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `horizontal-black-hexagon`
   static const IconifyIconData horizontalBlackHexagon = IconifyIconData(IconData(
-    0xe24a,
+    0xe4a9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `horizontal-black-octagon`
   static const IconifyIconData horizontalBlackOctagon = IconifyIconData(IconData(
-    0xe24b,
+    0xe4aa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `horizontal-traffic-light`
   static const IconifyIconData horizontalTrafficLight = IconifyIconData(IconData(
-    0xe24c,
+    0xe4ab,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `horse-jumping-hurdle`
   static const IconifyIconData horseJumpingHurdle = IconifyIconData(IconData(
-    0xe24d,
+    0xe4ac,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hospital`
   static const IconifyIconData hospital = IconifyIconData(IconData(
-    0xe24e,
+    0xe4ad,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hot-beverage`
   static const IconifyIconData hotBeverage = IconifyIconData(IconData(
-    0xe24f,
+    0xe4ae,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hot-dog`
   static const IconifyIconData hotDog = IconifyIconData(IconData(
-    0xe250,
+    0xe4af,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hot-face`
   static const IconifyIconData hotFace = IconifyIconData(IconData(
-    0xe251,
+    0xe4b0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hot-pepper`
   static const IconifyIconData hotPepper = IconifyIconData(IconData(
-    0xea12,
+    0xe4b1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hot-springs`
   static const IconifyIconData hotSprings = IconifyIconData(IconData(
-    0xe252,
+    0xe4b2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hot-water-bottle`
   static const IconifyIconData hotWaterBottle = IconifyIconData(IconData(
-    0xea13,
+    0xe4b3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hotel`
   static const IconifyIconData hotel = IconifyIconData(IconData(
-    0xe253,
+    0xe4b4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hourglass-done`
   static const IconifyIconData hourglassDone = IconifyIconData(IconData(
-    0xea14,
+    0xe4b5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hourglass-not-done`
   static const IconifyIconData hourglassNotDone = IconifyIconData(IconData(
-    0xea15,
+    0xe4b6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `house`
   static const IconifyIconData house = IconifyIconData(IconData(
-    0xea16,
+    0xe4b7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `house-with-garden`
   static const IconifyIconData houseWithGarden = IconifyIconData(IconData(
-    0xea17,
+    0xe4b8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `houses`
   static const IconifyIconData houses = IconifyIconData(IconData(
-    0xea18,
+    0xe4b9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hugging-face`
   static const IconifyIconData huggingFace = IconifyIconData(IconData(
-    0xe254,
+    0xe4ba,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hundred-points`
   static const IconifyIconData hundredPoints = IconifyIconData(IconData(
-    0xea19,
+    0xe4bb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hushed-face`
   static const IconifyIconData hushedFace = IconifyIconData(IconData(
-    0xe255,
+    0xe4bc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `hyphen-minus`
   static const IconifyIconData hyphenMinus = IconifyIconData(IconData(
-    0xe256,
+    0xe4bd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ibeacon`
   static const IconifyIconData ibeacon = IconifyIconData(IconData(
-    0xe257,
+    0xe4be,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ice`
   static const IconifyIconData ice = IconifyIconData(IconData(
-    0xea1a,
+    0xe4bf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ice-bear`
   static const IconifyIconData iceBear = IconifyIconData(IconData(
-    0xe258,
+    0xe4c0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ice-core-sample`
   static const IconifyIconData iceCoreSample = IconifyIconData(IconData(
-    0xe259,
+    0xe4c1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ice-cream`
   static const IconifyIconData iceCream = IconifyIconData(IconData(
-    0xe25a,
+    0xe4c2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ice-hockey`
   static const IconifyIconData iceHockey = IconifyIconData(IconData(
-    0xea1b,
+    0xe4c3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ice-shelf`
   static const IconifyIconData iceShelf = IconifyIconData(IconData(
-    0xe25b,
+    0xe4c4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ice-shelf-melting`
   static const IconifyIconData iceShelfMelting = IconifyIconData(IconData(
-    0xea1c,
+    0xe4c5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ice-skate`
   static const IconifyIconData iceSkate = IconifyIconData(IconData(
-    0xe25c,
+    0xe4c6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `id-button`
   static const IconifyIconData idButton = IconifyIconData(IconData(
-    0xe25d,
+    0xe4c7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `identification-card`
   static const IconifyIconData identificationCard = IconifyIconData(IconData(
-    0xea1d,
+    0xe4c8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `inaturalist`
   static const IconifyIconData inaturalist = IconifyIconData(IconData(
-    0xe25e,
+    0xe4c9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `inbox`
   static const IconifyIconData inbox = IconifyIconData(IconData(
-    0xe25f,
+    0xe4ca,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `inbox-tray`
   static const IconifyIconData inboxTray = IconifyIconData(IconData(
-    0xe260,
+    0xe4cb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `incoming-envelope`
   static const IconifyIconData incomingEnvelope = IconifyIconData(IconData(
-    0xe261,
+    0xe4cc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `incredulous-face`
   static const IconifyIconData incredulousFace = IconifyIconData(IconData(
-    0xe262,
+    0xe4cd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `index-pointing-at-the-viewer`
   static const IconifyIconData indexPointingAtTheViewer = IconifyIconData(IconData(
-    0xe263,
+    0xe4ce,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `index-pointing-at-the-viewer-light-skin-tone`
   static const IconifyIconData indexPointingAtTheViewerLightSkinTone = IconifyIconData(IconData(
-    0xe264,
+    0xe4cf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `index-pointing-at-the-viewer-medium-light-skin-tone`
   static const IconifyIconData indexPointingAtTheViewerMediumLightSkinTone = IconifyIconData(IconData(
-    0xe265,
+    0xe4d0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `index-pointing-at-the-viewer-medium-skin-tone`
   static const IconifyIconData indexPointingAtTheViewerMediumSkinTone = IconifyIconData(IconData(
-    0xe266,
+    0xe4d1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `index-pointing-up`
   static const IconifyIconData indexPointingUp = IconifyIconData(IconData(
-    0xe267,
+    0xe4d2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `index-pointing-up-dark-skin-tone`
   static const IconifyIconData indexPointingUpDarkSkinTone = IconifyIconData(IconData(
-    0xea1e,
+    0xe4d3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `index-pointing-up-light-skin-tone`
   static const IconifyIconData indexPointingUpLightSkinTone = IconifyIconData(IconData(
-    0xe268,
+    0xe4d4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `index-pointing-up-medium-dark-skin-tone`
   static const IconifyIconData indexPointingUpMediumDarkSkinTone = IconifyIconData(IconData(
-    0xea1f,
+    0xe4d5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `index-pointing-up-medium-light-skin-tone`
   static const IconifyIconData indexPointingUpMediumLightSkinTone = IconifyIconData(IconData(
-    0xe269,
+    0xe4d6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `index-pointing-up-medium-skin-tone`
   static const IconifyIconData indexPointingUpMediumSkinTone = IconifyIconData(IconData(
-    0xe26a,
+    0xe4d7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `infinity`
   static const IconifyIconData infinity = IconifyIconData(IconData(
-    0xe26b,
+    0xe4d8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `information`
   static const IconifyIconData information = IconifyIconData(IconData(
-    0xea20,
+    0xe4d9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `input-latin-letters`
   static const IconifyIconData inputLatinLetters = IconifyIconData(IconData(
-    0xe26c,
+    0xe4da,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `input-latin-lowercase`
   static const IconifyIconData inputLatinLowercase = IconifyIconData(IconData(
-    0xe26d,
+    0xe4db,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `input-latin-uppercase`
   static const IconifyIconData inputLatinUppercase = IconifyIconData(IconData(
-    0xe26e,
+    0xe4dc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `input-numbers`
   static const IconifyIconData inputNumbers = IconifyIconData(IconData(
-    0xe26f,
+    0xe4dd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `input-symbols`
   static const IconifyIconData inputSymbols = IconifyIconData(IconData(
-    0xe270,
+    0xe4de,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `instagram`
   static const IconifyIconData instagram = IconifyIconData(IconData(
-    0xe271,
+    0xe4df,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `internet-explorer`
   static const IconifyIconData internetExplorer = IconifyIconData(IconData(
-    0xea21,
+    0xe4e0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `intersex`
   static const IconifyIconData intersex = IconifyIconData(IconData(
-    0xea22,
+    0xe4e1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `interview`
   static const IconifyIconData interview = IconifyIconData(IconData(
-    0xe272,
+    0xe4e2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `intestine`
   static const IconifyIconData intestine = IconifyIconData(IconData(
-    0xea23,
+    0xe4e3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `intricate`
   static const IconifyIconData intricate = IconifyIconData(IconData(
-    0xe273,
+    0xe4e4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `japanese-acceptable-button`
   static const IconifyIconData japaneseAcceptableButton = IconifyIconData(IconData(
-    0xea24,
+    0xe4e5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `japanese-application-button`
   static const IconifyIconData japaneseApplicationButton = IconifyIconData(IconData(
-    0xea25,
+    0xe4e6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `japanese-bargain-button`
   static const IconifyIconData japaneseBargainButton = IconifyIconData(IconData(
-    0xea26,
+    0xe4e7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `japanese-castle`
   static const IconifyIconData japaneseCastle = IconifyIconData(IconData(
-    0xea27,
+    0xe4e8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `japanese-congratulations-button`
   static const IconifyIconData japaneseCongratulationsButton = IconifyIconData(IconData(
-    0xea28,
+    0xe4e9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `japanese-discount-button`
   static const IconifyIconData japaneseDiscountButton = IconifyIconData(IconData(
-    0xea29,
+    0xe4ea,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `japanese-dolls`
   static const IconifyIconData japaneseDolls = IconifyIconData(IconData(
-    0xea2a,
+    0xe4eb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `japanese-free-of-charge-button`
   static const IconifyIconData japaneseFreeOfChargeButton = IconifyIconData(IconData(
-    0xe274,
+    0xe4ec,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `japanese-here-button`
   static const IconifyIconData japaneseHereButton = IconifyIconData(IconData(
-    0xea2b,
+    0xe4ed,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `japanese-monthly-amount-button`
   static const IconifyIconData japaneseMonthlyAmountButton = IconifyIconData(IconData(
-    0xe275,
+    0xe4ee,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `japanese-no-vacancy-button`
   static const IconifyIconData japaneseNoVacancyButton = IconifyIconData(IconData(
-    0xe276,
+    0xe4ef,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `japanese-not-free-of-charge-button`
   static const IconifyIconData japaneseNotFreeOfChargeButton = IconifyIconData(IconData(
-    0xe277,
+    0xe4f0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `japanese-open-for-business-button`
   static const IconifyIconData japaneseOpenForBusinessButton = IconifyIconData(IconData(
-    0xea2c,
+    0xe4f1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `japanese-passing-grade-button`
   static const IconifyIconData japanesePassingGradeButton = IconifyIconData(IconData(
-    0xe278,
+    0xe4f2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `japanese-post-office`
   static const IconifyIconData japanesePostOffice = IconifyIconData(IconData(
-    0xe279,
+    0xe4f3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `japanese-prohibited-button`
   static const IconifyIconData japaneseProhibitedButton = IconifyIconData(IconData(
-    0xea2d,
+    0xe4f4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `japanese-reserved-button`
   static const IconifyIconData japaneseReservedButton = IconifyIconData(IconData(
-    0xea2e,
+    0xe4f5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `japanese-secret-button`
   static const IconifyIconData japaneseSecretButton = IconifyIconData(IconData(
-    0xea2f,
+    0xe4f6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `japanese-service-charge-button`
   static const IconifyIconData japaneseServiceChargeButton = IconifyIconData(IconData(
-    0xe27a,
+    0xe4f7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `japanese-symbol-for-beginner`
   static const IconifyIconData japaneseSymbolForBeginner = IconifyIconData(IconData(
-    0xea30,
+    0xe4f8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `japanese-vacancy-button`
   static const IconifyIconData japaneseVacancyButton = IconifyIconData(IconData(
-    0xea31,
+    0xe4f9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `jar`
   static const IconifyIconData jar = IconifyIconData(IconData(
-    0xe27b,
+    0xe4fa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `jar-with-blue-content`
   static const IconifyIconData jarWithBlueContent = IconifyIconData(IconData(
-    0xea32,
+    0xe4fb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `jar-with-brown-content`
   static const IconifyIconData jarWithBrownContent = IconifyIconData(IconData(
-    0xea33,
+    0xe4fc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `jar-with-green-content`
   static const IconifyIconData jarWithGreenContent = IconifyIconData(IconData(
-    0xea34,
+    0xe4fd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `jar-with-orange-content`
   static const IconifyIconData jarWithOrangeContent = IconifyIconData(IconData(
-    0xea35,
+    0xe4fe,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `jar-with-purple-content`
   static const IconifyIconData jarWithPurpleContent = IconifyIconData(IconData(
-    0xea36,
+    0xe4ff,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `jar-with-red-content`
   static const IconifyIconData jarWithRedContent = IconifyIconData(IconData(
-    0xe27c,
+    0xe500,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `jar-with-yellow-content`
   static const IconifyIconData jarWithYellowContent = IconifyIconData(IconData(
-    0xe27d,
+    0xe501,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `javascript`
   static const IconifyIconData javascript = IconifyIconData(IconData(
-    0xe27e,
+    0xe502,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `jellyfin`
   static const IconifyIconData jellyfin = IconifyIconData(IconData(
-    0xea37,
+    0xe503,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `joint-pain`
   static const IconifyIconData jointPain = IconifyIconData(IconData(
-    0xe27f,
+    0xe504,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `joker`
   static const IconifyIconData joker = IconifyIconData(IconData(
-    0xe280,
+    0xe505,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `joystick`
   static const IconifyIconData joystick = IconifyIconData(IconData(
-    0xe281,
+    0xe506,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `judge`
   static const IconifyIconData judge = IconifyIconData(IconData(
-    0xea38,
+    0xe507,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `judge-dark-skin-tone`
   static const IconifyIconData judgeDarkSkinTone = IconifyIconData(IconData(
-    0xea39,
+    0xe508,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `judge-light-skin-tone`
   static const IconifyIconData judgeLightSkinTone = IconifyIconData(IconData(
-    0xea3a,
+    0xe509,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `judge-medium-dark-skin-tone`
   static const IconifyIconData judgeMediumDarkSkinTone = IconifyIconData(IconData(
-    0xea3b,
+    0xe50a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `judge-medium-light-skin-tone`
   static const IconifyIconData judgeMediumLightSkinTone = IconifyIconData(IconData(
-    0xea3c,
+    0xe50b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `judge-medium-skin-tone`
   static const IconifyIconData judgeMediumSkinTone = IconifyIconData(IconData(
-    0xea3d,
+    0xe50c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kaaba`
   static const IconifyIconData kaaba = IconifyIconData(IconData(
-    0xe282,
+    0xe50d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kehrwoche`
   static const IconifyIconData kehrwoche = IconifyIconData(IconData(
-    0xea3e,
+    0xe50e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `key`
   static const IconifyIconData key = IconifyIconData(IconData(
-    0xea3f,
+    0xe50f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `keyboard`
   static const IconifyIconData keyboard = IconifyIconData(IconData(
-    0xea40,
+    0xe510,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `keycap-0`
   static const IconifyIconData keycap0 = IconifyIconData(IconData(
-    0xe283,
+    0xe511,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `keycap-1`
   static const IconifyIconData keycap1 = IconifyIconData(IconData(
-    0xe284,
+    0xe512,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `keycap-10`
   static const IconifyIconData keycap10 = IconifyIconData(IconData(
-    0xe285,
+    0xe513,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `keycap-2`
   static const IconifyIconData keycap2 = IconifyIconData(IconData(
-    0xe286,
+    0xe514,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `keycap-3`
   static const IconifyIconData keycap3 = IconifyIconData(IconData(
-    0xe287,
+    0xe515,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `keycap-4`
   static const IconifyIconData keycap4 = IconifyIconData(IconData(
-    0xe288,
+    0xe516,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `keycap-5`
   static const IconifyIconData keycap5 = IconifyIconData(IconData(
-    0xe289,
+    0xe517,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `keycap-6`
   static const IconifyIconData keycap6 = IconifyIconData(IconData(
-    0xe28a,
+    0xe518,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `keycap-7`
   static const IconifyIconData keycap7 = IconifyIconData(IconData(
-    0xe28b,
+    0xe519,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `keycap-8`
   static const IconifyIconData keycap8 = IconifyIconData(IconData(
-    0xe28c,
+    0xe51a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `keycap-9`
   static const IconifyIconData keycap9 = IconifyIconData(IconData(
-    0xe28d,
+    0xe51b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `keycap-asterisk`
   static const IconifyIconData keycapAsterisk = IconifyIconData(IconData(
-    0xe28e,
+    0xe51c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `keycap-hash`
   static const IconifyIconData keycapHash = IconifyIconData(IconData(
-    0xe28f,
+    0xe51d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `keycap-pound`
   static const IconifyIconData keycapPound = IconifyIconData(IconData(
-    0xe290,
+    0xe51e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `khanda`
   static const IconifyIconData khanda = IconifyIconData(IconData(
-    0xea41,
+    0xe51f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kick-scooter`
   static const IconifyIconData kickScooter = IconifyIconData(IconData(
-    0xe291,
+    0xe520,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kidney`
   static const IconifyIconData kidney = IconifyIconData(IconData(
-    0xea42,
+    0xe521,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kimono`
   static const IconifyIconData kimono = IconifyIconData(IconData(
-    0xea43,
+    0xe522,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss`
   static const IconifyIconData kiss = IconifyIconData(IconData(
-    0xea44,
+    0xe523,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-dark-skin-tone`
   static const IconifyIconData kissDarkSkinTone = IconifyIconData(IconData(
-    0xea45,
+    0xe524,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-light-skin-tone`
   static const IconifyIconData kissLightSkinTone = IconifyIconData(IconData(
-    0xea46,
+    0xe525,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man`
   static const IconifyIconData kissManMan = IconifyIconData(IconData(
-    0xea47,
+    0xe526,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-dark-skin-tone`
   static const IconifyIconData kissManManDarkSkinTone = IconifyIconData(IconData(
-    0xea48,
+    0xe527,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-dark-skin-tone-light-skin-tone`
   static const IconifyIconData kissManManDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xea49,
+    0xe528,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-dark-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData kissManManDarkSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xea4a,
+    0xe529,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData kissManManDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xea4b,
+    0xe52a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData kissManManDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xea4c,
+    0xe52b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-light-skin-tone`
   static const IconifyIconData kissManManLightSkinTone = IconifyIconData(IconData(
-    0xea4d,
+    0xe52c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-light-skin-tone-dark-skin-tone`
   static const IconifyIconData kissManManLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xea4e,
+    0xe52d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData kissManManLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xea4f,
+    0xe52e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-light-skin-tone-medium-light-skin-tone`
   static const IconifyIconData kissManManLightSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xea50,
+    0xe52f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-light-skin-tone-medium-skin-tone`
   static const IconifyIconData kissManManLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xea51,
+    0xe530,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-medium-dark-skin-tone`
   static const IconifyIconData kissManManMediumDarkSkinTone = IconifyIconData(IconData(
-    0xea52,
+    0xe531,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-medium-dark-skin-tone-dark-skin-tone`
   static const IconifyIconData kissManManMediumDarkSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xea53,
+    0xe532,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-medium-dark-skin-tone-light-skin-tone`
   static const IconifyIconData kissManManMediumDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xea54,
+    0xe533,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-medium-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData kissManManMediumDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xea55,
+    0xe534,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-medium-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData kissManManMediumDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xea56,
+    0xe535,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-medium-light-skin-tone`
   static const IconifyIconData kissManManMediumLightSkinTone = IconifyIconData(IconData(
-    0xe292,
+    0xe536,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-medium-light-skin-tone-dark-skin-tone`
   static const IconifyIconData kissManManMediumLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xea57,
+    0xe537,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-medium-light-skin-tone-light-skin-tone`
   static const IconifyIconData kissManManMediumLightSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xea58,
+    0xe538,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-medium-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData kissManManMediumLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xea59,
+    0xe539,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-medium-light-skin-tone-medium-skin-tone`
   static const IconifyIconData kissManManMediumLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xea5a,
+    0xe53a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-medium-skin-tone`
   static const IconifyIconData kissManManMediumSkinTone = IconifyIconData(IconData(
-    0xea5b,
+    0xe53b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-medium-skin-tone-dark-skin-tone`
   static const IconifyIconData kissManManMediumSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xea5c,
+    0xe53c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-medium-skin-tone-light-skin-tone`
   static const IconifyIconData kissManManMediumSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xea5d,
+    0xe53d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-medium-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData kissManManMediumSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xea5e,
+    0xe53e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-man-man-medium-skin-tone-medium-light-skin-tone`
   static const IconifyIconData kissManManMediumSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xea5f,
+    0xe53f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-mark`
   static const IconifyIconData kissMark = IconifyIconData(IconData(
-    0xe293,
+    0xe540,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-medium-dark-skin-tone`
   static const IconifyIconData kissMediumDarkSkinTone = IconifyIconData(IconData(
-    0xea60,
+    0xe541,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-medium-light-skin-tone`
   static const IconifyIconData kissMediumLightSkinTone = IconifyIconData(IconData(
-    0xe294,
+    0xe542,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-medium-skin-tone`
   static const IconifyIconData kissMediumSkinTone = IconifyIconData(IconData(
-    0xea61,
+    0xe543,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-person-person-dark-skin-tone-light-skin-tone`
   static const IconifyIconData kissPersonPersonDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xea62,
+    0xe544,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-person-person-dark-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData kissPersonPersonDarkSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xea63,
+    0xe545,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-person-person-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData kissPersonPersonDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xea64,
+    0xe546,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-person-person-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData kissPersonPersonDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xea65,
+    0xe547,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-person-person-light-skin-tone-dark-skin-tone`
   static const IconifyIconData kissPersonPersonLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xea66,
+    0xe548,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-person-person-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData kissPersonPersonLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xea67,
+    0xe549,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-person-person-light-skin-tone-medium-light-skin-tone`
   static const IconifyIconData kissPersonPersonLightSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xea68,
+    0xe54a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-person-person-light-skin-tone-medium-skin-tone`
   static const IconifyIconData kissPersonPersonLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xea69,
+    0xe54b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-person-person-medium-dark-skin-tone-dark-skin-tone`
   static const IconifyIconData kissPersonPersonMediumDarkSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xea6a,
+    0xe54c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-person-person-medium-dark-skin-tone-light-skin-tone`
   static const IconifyIconData kissPersonPersonMediumDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xea6b,
+    0xe54d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-person-person-medium-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData kissPersonPersonMediumDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xea6c,
+    0xe54e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-person-person-medium-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData kissPersonPersonMediumDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xea6d,
+    0xe54f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-person-person-medium-light-skin-tone-dark-skin-tone`
   static const IconifyIconData kissPersonPersonMediumLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xea6e,
+    0xe550,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-person-person-medium-light-skin-tone-light-skin-tone`
   static const IconifyIconData kissPersonPersonMediumLightSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xea6f,
+    0xe551,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-person-person-medium-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData kissPersonPersonMediumLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xea70,
+    0xe552,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-person-person-medium-light-skin-tone-medium-skin-tone`
   static const IconifyIconData kissPersonPersonMediumLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xea71,
+    0xe553,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-person-person-medium-skin-tone-dark-skin-tone`
   static const IconifyIconData kissPersonPersonMediumSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xea72,
+    0xe554,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-person-person-medium-skin-tone-light-skin-tone`
   static const IconifyIconData kissPersonPersonMediumSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xea73,
+    0xe555,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-person-person-medium-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData kissPersonPersonMediumSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xea74,
+    0xe556,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-person-person-medium-skin-tone-medium-light-skin-tone`
   static const IconifyIconData kissPersonPersonMediumSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xea75,
+    0xe557,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man`
   static const IconifyIconData kissWomanMan = IconifyIconData(IconData(
-    0xea76,
+    0xe558,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-dark-skin-tone`
   static const IconifyIconData kissWomanManDarkSkinTone = IconifyIconData(IconData(
-    0xea77,
+    0xe559,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-dark-skin-tone-light-skin-tone`
   static const IconifyIconData kissWomanManDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xea78,
+    0xe55a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-dark-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData kissWomanManDarkSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xea79,
+    0xe55b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData kissWomanManDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xea7a,
+    0xe55c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData kissWomanManDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xea7b,
+    0xe55d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-light-skin-tone`
   static const IconifyIconData kissWomanManLightSkinTone = IconifyIconData(IconData(
-    0xea7c,
+    0xe55e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-light-skin-tone-dark-skin-tone`
   static const IconifyIconData kissWomanManLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xea7d,
+    0xe55f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData kissWomanManLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xea7e,
+    0xe560,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-light-skin-tone-medium-light-skin-tone`
   static const IconifyIconData kissWomanManLightSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xea7f,
+    0xe561,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-light-skin-tone-medium-skin-tone`
   static const IconifyIconData kissWomanManLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xea80,
+    0xe562,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-medium-dark-skin-tone`
   static const IconifyIconData kissWomanManMediumDarkSkinTone = IconifyIconData(IconData(
-    0xea81,
+    0xe563,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-medium-dark-skin-tone-dark-skin-tone`
   static const IconifyIconData kissWomanManMediumDarkSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xea82,
+    0xe564,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-medium-dark-skin-tone-light-skin-tone`
   static const IconifyIconData kissWomanManMediumDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xea83,
+    0xe565,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-medium-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData kissWomanManMediumDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xea84,
+    0xe566,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-medium-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData kissWomanManMediumDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xea85,
+    0xe567,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-medium-light-skin-tone`
   static const IconifyIconData kissWomanManMediumLightSkinTone = IconifyIconData(IconData(
-    0xe295,
+    0xe568,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-medium-light-skin-tone-dark-skin-tone`
   static const IconifyIconData kissWomanManMediumLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xea86,
+    0xe569,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-medium-light-skin-tone-light-skin-tone`
   static const IconifyIconData kissWomanManMediumLightSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xea87,
+    0xe56a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-medium-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData kissWomanManMediumLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xea88,
+    0xe56b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-medium-light-skin-tone-medium-skin-tone`
   static const IconifyIconData kissWomanManMediumLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xea89,
+    0xe56c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-medium-skin-tone`
   static const IconifyIconData kissWomanManMediumSkinTone = IconifyIconData(IconData(
-    0xea8a,
+    0xe56d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-medium-skin-tone-dark-skin-tone`
   static const IconifyIconData kissWomanManMediumSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xea8b,
+    0xe56e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-medium-skin-tone-light-skin-tone`
   static const IconifyIconData kissWomanManMediumSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xea8c,
+    0xe56f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-medium-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData kissWomanManMediumSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xea8d,
+    0xe570,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-man-medium-skin-tone-medium-light-skin-tone`
   static const IconifyIconData kissWomanManMediumSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xea8e,
+    0xe571,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman`
   static const IconifyIconData kissWomanWoman = IconifyIconData(IconData(
-    0xea8f,
+    0xe572,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-dark-skin-tone`
   static const IconifyIconData kissWomanWomanDarkSkinTone = IconifyIconData(IconData(
-    0xea90,
+    0xe573,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-dark-skin-tone-light-skin-tone`
   static const IconifyIconData kissWomanWomanDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xea91,
+    0xe574,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-dark-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData kissWomanWomanDarkSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xea92,
+    0xe575,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData kissWomanWomanDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xea93,
+    0xe576,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData kissWomanWomanDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xea94,
+    0xe577,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-light-skin-tone`
   static const IconifyIconData kissWomanWomanLightSkinTone = IconifyIconData(IconData(
-    0xea95,
+    0xe578,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-light-skin-tone-dark-skin-tone`
   static const IconifyIconData kissWomanWomanLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xea96,
+    0xe579,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData kissWomanWomanLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xea97,
+    0xe57a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-light-skin-tone-medium-light-skin-tone`
   static const IconifyIconData kissWomanWomanLightSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xea98,
+    0xe57b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-light-skin-tone-medium-skin-tone`
   static const IconifyIconData kissWomanWomanLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xea99,
+    0xe57c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-medium-dark-skin-tone`
   static const IconifyIconData kissWomanWomanMediumDarkSkinTone = IconifyIconData(IconData(
-    0xea9a,
+    0xe57d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-medium-dark-skin-tone-dark-skin-tone`
   static const IconifyIconData kissWomanWomanMediumDarkSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xea9b,
+    0xe57e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-medium-dark-skin-tone-light-skin-tone`
   static const IconifyIconData kissWomanWomanMediumDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xea9c,
+    0xe57f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-medium-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData kissWomanWomanMediumDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xea9d,
+    0xe580,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-medium-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData kissWomanWomanMediumDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xea9e,
+    0xe581,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-medium-light-skin-tone`
   static const IconifyIconData kissWomanWomanMediumLightSkinTone = IconifyIconData(IconData(
-    0xe296,
+    0xe582,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-medium-light-skin-tone-dark-skin-tone`
   static const IconifyIconData kissWomanWomanMediumLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xea9f,
+    0xe583,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-medium-light-skin-tone-light-skin-tone`
   static const IconifyIconData kissWomanWomanMediumLightSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xeaa0,
+    0xe584,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-medium-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData kissWomanWomanMediumLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeaa1,
+    0xe585,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-medium-light-skin-tone-medium-skin-tone`
   static const IconifyIconData kissWomanWomanMediumLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xeaa2,
+    0xe586,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-medium-skin-tone`
   static const IconifyIconData kissWomanWomanMediumSkinTone = IconifyIconData(IconData(
-    0xeaa3,
+    0xe587,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-medium-skin-tone-dark-skin-tone`
   static const IconifyIconData kissWomanWomanMediumSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xeaa4,
+    0xe588,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-medium-skin-tone-light-skin-tone`
   static const IconifyIconData kissWomanWomanMediumSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xeaa5,
+    0xe589,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-medium-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData kissWomanWomanMediumSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeaa6,
+    0xe58a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiss-woman-woman-medium-skin-tone-medium-light-skin-tone`
   static const IconifyIconData kissWomanWomanMediumSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xeaa7,
+    0xe58b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kissing-cat`
   static const IconifyIconData kissingCat = IconifyIconData(IconData(
-    0xeaa8,
+    0xe58c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kissing-face`
   static const IconifyIconData kissingFace = IconifyIconData(IconData(
-    0xe297,
+    0xe58d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kissing-face-with-closed-eyes`
   static const IconifyIconData kissingFaceWithClosedEyes = IconifyIconData(IconData(
-    0xe298,
+    0xe58e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kissing-face-with-smiling-eyes`
   static const IconifyIconData kissingFaceWithSmilingEyes = IconifyIconData(IconData(
-    0xe299,
+    0xe58f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kitchen-knife`
   static const IconifyIconData kitchenKnife = IconifyIconData(IconData(
-    0xe29a,
+    0xe590,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kite`
   static const IconifyIconData kite = IconifyIconData(IconData(
-    0xe29b,
+    0xe591,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `kiwi-fruit`
   static const IconifyIconData kiwiFruit = IconifyIconData(IconData(
-    0xeaa9,
+    0xe592,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `knee-pain`
   static const IconifyIconData kneePain = IconifyIconData(IconData(
-    0xeaaa,
+    0xe593,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `knocked-out-face`
   static const IconifyIconData knockedOutFace = IconifyIconData(IconData(
-    0xe29c,
+    0xe594,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `knot`
   static const IconifyIconData knot = IconifyIconData(IconData(
-    0xeaab,
+    0xe595,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `koala`
   static const IconifyIconData koala = IconifyIconData(IconData(
-    0xe29d,
+    0xe596,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `la-rioja-flag`
   static const IconifyIconData laRiojaFlag = IconifyIconData(IconData(
-    0xeaac,
+    0xe597,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `lab-coat`
   static const IconifyIconData labCoat = IconifyIconData(IconData(
-    0xe29e,
+    0xe598,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `label`
   static const IconifyIconData label = IconifyIconData(IconData(
-    0xe29f,
+    0xe599,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `lacrosse`
   static const IconifyIconData lacrosse = IconifyIconData(IconData(
-    0xe2a0,
+    0xe59a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ladder`
   static const IconifyIconData ladder = IconifyIconData(IconData(
-    0xeaad,
+    0xe59b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `lady-beetle`
   static const IconifyIconData ladyBeetle = IconifyIconData(IconData(
-    0xe2a1,
+    0xe59c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `laptop`
   static const IconifyIconData laptop = IconifyIconData(IconData(
-    0xe2a2,
+    0xe59d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `large-blue-diamond`
   static const IconifyIconData largeBlueDiamond = IconifyIconData(IconData(
-    0xe2a3,
+    0xe59e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `large-intestine`
   static const IconifyIconData largeIntestine = IconifyIconData(IconData(
-    0xe2a4,
+    0xe59f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `last-quarter-moon`
   static const IconifyIconData lastQuarterMoon = IconifyIconData(IconData(
-    0xe2a5,
+    0xe5a0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `last-quarter-moon-face`
   static const IconifyIconData lastQuarterMoonFace = IconifyIconData(IconData(
-    0xe2a6,
+    0xe5a1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `last-track-button`
   static const IconifyIconData lastTrackButton = IconifyIconData(IconData(
-    0xe2a7,
+    0xe5a2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `latte-macchiato`
   static const IconifyIconData latteMacchiato = IconifyIconData(IconData(
-    0xeaae,
+    0xe5a3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `lawn-mower`
   static const IconifyIconData lawnMower = IconifyIconData(IconData(
-    0xeaaf,
+    0xe5a4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `leaf-fluttering-in-wind`
   static const IconifyIconData leafFlutteringInWind = IconifyIconData(IconData(
-    0xe2a8,
+    0xe5a5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `led`
   static const IconifyIconData led = IconifyIconData(IconData(
-    0xeab0,
+    0xe5a6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ledger`
   static const IconifyIconData ledger = IconifyIconData(IconData(
-    0xe2a9,
+    0xe5a7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `left-arrow`
   static const IconifyIconData leftArrow = IconifyIconData(IconData(
-    0xe2aa,
+    0xe5a8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `left-arrow-curving-right`
   static const IconifyIconData leftArrowCurvingRight = IconifyIconData(IconData(
-    0xe2ab,
+    0xe5a9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `left-facing-fist`
   static const IconifyIconData leftFacingFist = IconifyIconData(IconData(
-    0xeab1,
+    0xe5aa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `left-facing-fist-dark-skin-tone`
   static const IconifyIconData leftFacingFistDarkSkinTone = IconifyIconData(IconData(
-    0xeab2,
+    0xe5ab,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `left-facing-fist-light-skin-tone`
   static const IconifyIconData leftFacingFistLightSkinTone = IconifyIconData(IconData(
-    0xeab3,
+    0xe5ac,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `left-facing-fist-medium-dark-skin-tone`
   static const IconifyIconData leftFacingFistMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeab4,
+    0xe5ad,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `left-facing-fist-medium-light-skin-tone`
   static const IconifyIconData leftFacingFistMediumLightSkinTone = IconifyIconData(IconData(
-    0xeab5,
+    0xe5ae,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `left-facing-fist-medium-skin-tone`
   static const IconifyIconData leftFacingFistMediumSkinTone = IconifyIconData(IconData(
-    0xeab6,
+    0xe5af,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `left-luggage`
   static const IconifyIconData leftLuggage = IconifyIconData(IconData(
-    0xeab7,
+    0xe5b0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `left-right-arrow`
   static const IconifyIconData leftRightArrow = IconifyIconData(IconData(
-    0xe2ac,
+    0xe5b1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `left-right-black-arrow`
   static const IconifyIconData leftRightBlackArrow = IconifyIconData(IconData(
-    0xe2ad,
+    0xe5b2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `left-speech-bubble`
   static const IconifyIconData leftSpeechBubble = IconifyIconData(IconData(
-    0xe2ae,
+    0xe5b3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `leftwards-hand`
   static const IconifyIconData leftwardsHand = IconifyIconData(IconData(
-    0xe2af,
+    0xe5b4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `leftwards-hand-light-skin-tone`
   static const IconifyIconData leftwardsHandLightSkinTone = IconifyIconData(IconData(
-    0xe2b0,
+    0xe5b5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `leftwards-hand-medium-light-skin-tone`
   static const IconifyIconData leftwardsHandMediumLightSkinTone = IconifyIconData(IconData(
-    0xe2b1,
+    0xe5b6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `leftwards-hand-medium-skin-tone`
   static const IconifyIconData leftwardsHandMediumSkinTone = IconifyIconData(IconData(
-    0xe2b2,
+    0xe5b7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `leftwards-pushing-hand`
   static const IconifyIconData leftwardsPushingHand = IconifyIconData(IconData(
-    0xeab8,
+    0xe5b8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `leftwards-pushing-hand-dark-skin-tone`
   static const IconifyIconData leftwardsPushingHandDarkSkinTone = IconifyIconData(IconData(
-    0xeab9,
+    0xe5b9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `leftwards-pushing-hand-light-skin-tone`
   static const IconifyIconData leftwardsPushingHandLightSkinTone = IconifyIconData(IconData(
-    0xeaba,
+    0xe5ba,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `leftwards-pushing-hand-medium-dark-skin-tone`
   static const IconifyIconData leftwardsPushingHandMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeabb,
+    0xe5bb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `leftwards-pushing-hand-medium-light-skin-tone`
   static const IconifyIconData leftwardsPushingHandMediumLightSkinTone = IconifyIconData(IconData(
-    0xeabc,
+    0xe5bc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `leftwards-pushing-hand-medium-skin-tone`
   static const IconifyIconData leftwardsPushingHandMediumSkinTone = IconifyIconData(IconData(
-    0xeabd,
+    0xe5bd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `leg`
   static const IconifyIconData leg = IconifyIconData(IconData(
-    0xe2b3,
+    0xe5be,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `leg-dark-skin-tone`
   static const IconifyIconData legDarkSkinTone = IconifyIconData(IconData(
-    0xeabe,
+    0xe5bf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `leg-light-skin-tone`
   static const IconifyIconData legLightSkinTone = IconifyIconData(IconData(
-    0xe2b4,
+    0xe5c0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `leg-medium-dark-skin-tone`
   static const IconifyIconData legMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeabf,
+    0xe5c1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `leg-medium-light-skin-tone`
   static const IconifyIconData legMediumLightSkinTone = IconifyIconData(IconData(
-    0xe2b5,
+    0xe5c2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `leg-medium-skin-tone`
   static const IconifyIconData legMediumSkinTone = IconifyIconData(IconData(
-    0xe2b6,
+    0xe5c3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `lemon`
   static const IconifyIconData lemon = IconifyIconData(IconData(
-    0xeac0,
+    0xe5c4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `leo`
   static const IconifyIconData leo = IconifyIconData(IconData(
-    0xeac1,
+    0xe5c5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `leopard`
   static const IconifyIconData leopard = IconifyIconData(IconData(
-    0xe2b7,
+    0xe5c6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `lesbian`
   static const IconifyIconData lesbian = IconifyIconData(IconData(
-    0xe2b8,
+    0xe5c7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `level-slider`
   static const IconifyIconData levelSlider = IconifyIconData(IconData(
-    0xe2b9,
+    0xe5c8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `libra`
   static const IconifyIconData libra = IconifyIconData(IconData(
-    0xeac2,
+    0xe5c9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `light-blue-heart`
   static const IconifyIconData lightBlueHeart = IconifyIconData(IconData(
-    0xe2ba,
+    0xe5ca,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `light-bulb`
   static const IconifyIconData lightBulb = IconifyIconData(IconData(
-    0xe2bb,
+    0xe5cb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `light-rail`
   static const IconifyIconData lightRail = IconifyIconData(IconData(
-    0xe2bc,
+    0xe5cc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `light-skin-tone`
   static const IconifyIconData lightSkinTone = IconifyIconData(IconData(
-    0xe2bd,
+    0xe5cd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `lighter`
   static const IconifyIconData lighter = IconifyIconData(IconData(
-    0xe2be,
+    0xe5ce,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `lighthouse-of-alexandria`
   static const IconifyIconData lighthouseOfAlexandria = IconifyIconData(IconData(
-    0xe2bf,
+    0xe5cf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `lime`
   static const IconifyIconData lime = IconifyIconData(IconData(
-    0xeac3,
+    0xe5d0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `link`
   static const IconifyIconData link = IconifyIconData(IconData(
-    0xe2c0,
+    0xe5d1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `link2`
   static const IconifyIconData link2 = IconifyIconData(IconData(
-    0xe2c1,
+    0xe5d2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `linked-paperclips`
   static const IconifyIconData linkedPaperclips = IconifyIconData(IconData(
-    0xe2c2,
+    0xe5d3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `linkedin`
   static const IconifyIconData linkedin = IconifyIconData(IconData(
-    0xeac4,
+    0xe5d4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `lipstick`
   static const IconifyIconData lipstick = IconifyIconData(IconData(
-    0xe2c3,
+    0xe5d5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `litter-in-bin-sign`
   static const IconifyIconData litterInBinSign = IconifyIconData(IconData(
-    0xe2c4,
+    0xe5d6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `liver`
   static const IconifyIconData liver = IconifyIconData(IconData(
-    0xeac5,
+    0xe5d7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `lizard`
   static const IconifyIconData lizard = IconifyIconData(IconData(
-    0xe2c5,
+    0xe5d8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `lobster`
   static const IconifyIconData lobster = IconifyIconData(IconData(
-    0xe2c6,
+    0xe5d9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `location-indicator`
   static const IconifyIconData locationIndicator = IconifyIconData(IconData(
-    0xe2c7,
+    0xe5da,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `location-indicator-red`
   static const IconifyIconData locationIndicatorRed = IconifyIconData(IconData(
-    0xe2c8,
+    0xe5db,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `locked`
   static const IconifyIconData locked = IconifyIconData(IconData(
-    0xe2c9,
+    0xe5dc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `locked-with-key`
   static const IconifyIconData lockedWithKey = IconifyIconData(IconData(
-    0xeac6,
+    0xe5dd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `locked-with-pen`
   static const IconifyIconData lockedWithPen = IconifyIconData(IconData(
-    0xe2ca,
+    0xe5de,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `locomotive`
   static const IconifyIconData locomotive = IconifyIconData(IconData(
-    0xe2cb,
+    0xe5df,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `lollipop`
   static const IconifyIconData lollipop = IconifyIconData(IconData(
-    0xe2cc,
+    0xe5e0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `long-drum`
   static const IconifyIconData longDrum = IconifyIconData(IconData(
-    0xeac7,
+    0xe5e1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `lotus`
   static const IconifyIconData lotus = IconifyIconData(IconData(
-    0xeac8,
+    0xe5e2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `loudly-crying-face`
   static const IconifyIconData loudlyCryingFace = IconifyIconData(IconData(
-    0xe2cd,
+    0xe5e3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `loudspeaker`
   static const IconifyIconData loudspeaker = IconifyIconData(IconData(
-    0xe2ce,
+    0xe5e4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `love-hotel`
   static const IconifyIconData loveHotel = IconifyIconData(IconData(
-    0xe2cf,
+    0xe5e5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `love-letter`
   static const IconifyIconData loveLetter = IconifyIconData(IconData(
-    0xe2d0,
+    0xe5e6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `love-you-gesture`
   static const IconifyIconData loveYouGesture = IconifyIconData(IconData(
-    0xe2d1,
+    0xe5e7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `love-you-gesture-light-skin-tone`
   static const IconifyIconData loveYouGestureLightSkinTone = IconifyIconData(IconData(
-    0xe2d2,
+    0xe5e8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `love-you-gesture-medium-light-skin-tone`
   static const IconifyIconData loveYouGestureMediumLightSkinTone = IconifyIconData(IconData(
-    0xe2d3,
+    0xe5e9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `love-you-gesture-medium-skin-tone`
   static const IconifyIconData loveYouGestureMediumSkinTone = IconifyIconData(IconData(
-    0xe2d4,
+    0xe5ea,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `low-battery`
   static const IconifyIconData lowBattery = IconifyIconData(IconData(
-    0xe2d5,
+    0xe5eb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `luggage`
   static const IconifyIconData luggage = IconifyIconData(IconData(
-    0xeac9,
+    0xe5ec,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `lung`
   static const IconifyIconData lung = IconifyIconData(IconData(
-    0xeaca,
+    0xe5ed,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `lungs`
   static const IconifyIconData lungs = IconifyIconData(IconData(
-    0xeacb,
+    0xe5ee,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `lying-face`
   static const IconifyIconData lyingFace = IconifyIconData(IconData(
-    0xe2d6,
+    0xe5ef,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `macaw`
   static const IconifyIconData macaw = IconifyIconData(IconData(
-    0xe2d7,
+    0xe5f0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `madrid-autonomous-community-flag`
   static const IconifyIconData madridAutonomousCommunityFlag = IconifyIconData(IconData(
-    0xe2d8,
+    0xe5f1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mage`
   static const IconifyIconData mage = IconifyIconData(IconData(
-    0xeacc,
+    0xe5f2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mage-dark-skin-tone`
   static const IconifyIconData mageDarkSkinTone = IconifyIconData(IconData(
-    0xeacd,
+    0xe5f3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mage-light-skin-tone`
   static const IconifyIconData mageLightSkinTone = IconifyIconData(IconData(
-    0xeace,
+    0xe5f4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mage-medium-dark-skin-tone`
   static const IconifyIconData mageMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeacf,
+    0xe5f5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mage-medium-light-skin-tone`
   static const IconifyIconData mageMediumLightSkinTone = IconifyIconData(IconData(
-    0xead0,
+    0xe5f6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mage-medium-skin-tone`
   static const IconifyIconData mageMediumSkinTone = IconifyIconData(IconData(
-    0xead1,
+    0xe5f7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `magic-wand`
   static const IconifyIconData magicWand = IconifyIconData(IconData(
-    0xe2d9,
+    0xe5f8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `magnet`
   static const IconifyIconData magnet = IconifyIconData(IconData(
-    0xead2,
+    0xe5f9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `magnifying-glass-tilted-left`
   static const IconifyIconData magnifyingGlassTiltedLeft = IconifyIconData(IconData(
-    0xe2da,
+    0xe5fa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `magnifying-glass-tilted-right`
   static const IconifyIconData magnifyingGlassTiltedRight = IconifyIconData(IconData(
-    0xe2db,
+    0xe5fb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mahjong-red-dragon`
   static const IconifyIconData mahjongRedDragon = IconifyIconData(IconData(
-    0xe2dc,
+    0xe5fc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `male-doctor`
   static const IconifyIconData maleDoctor = IconifyIconData(IconData(
-    0xead3,
+    0xe5fd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `male-nurse`
   static const IconifyIconData maleNurse = IconifyIconData(IconData(
-    0xead4,
+    0xe5fe,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `male-sign`
   static const IconifyIconData maleSign = IconifyIconData(IconData(
-    0xe2dd,
+    0xe5ff,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man`
   static const IconifyIconData man = IconifyIconData(IconData(
-    0xead5,
+    0xe600,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-artist`
   static const IconifyIconData manArtist = IconifyIconData(IconData(
-    0xead6,
+    0xe601,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-artist-dark-skin-tone`
   static const IconifyIconData manArtistDarkSkinTone = IconifyIconData(IconData(
-    0xead7,
+    0xe602,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-artist-light-skin-tone`
   static const IconifyIconData manArtistLightSkinTone = IconifyIconData(IconData(
-    0xead8,
+    0xe603,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-artist-medium-dark-skin-tone`
   static const IconifyIconData manArtistMediumDarkSkinTone = IconifyIconData(IconData(
-    0xead9,
+    0xe604,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-artist-medium-light-skin-tone`
   static const IconifyIconData manArtistMediumLightSkinTone = IconifyIconData(IconData(
-    0xeada,
+    0xe605,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-artist-medium-skin-tone`
   static const IconifyIconData manArtistMediumSkinTone = IconifyIconData(IconData(
-    0xeadb,
+    0xe606,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-astronaut`
   static const IconifyIconData manAstronaut = IconifyIconData(IconData(
-    0xe2de,
+    0xe607,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-astronaut-dark-skin-tone`
   static const IconifyIconData manAstronautDarkSkinTone = IconifyIconData(IconData(
-    0xeadc,
+    0xe608,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-astronaut-light-skin-tone`
   static const IconifyIconData manAstronautLightSkinTone = IconifyIconData(IconData(
-    0xe2df,
+    0xe609,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-astronaut-medium-dark-skin-tone`
   static const IconifyIconData manAstronautMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeadd,
+    0xe60a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-astronaut-medium-light-skin-tone`
   static const IconifyIconData manAstronautMediumLightSkinTone = IconifyIconData(IconData(
-    0xe2e0,
+    0xe60b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-astronaut-medium-skin-tone`
   static const IconifyIconData manAstronautMediumSkinTone = IconifyIconData(IconData(
-    0xe2e1,
+    0xe60c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-bald`
   static const IconifyIconData manBald = IconifyIconData(IconData(
-    0xe2e2,
+    0xe60d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-barista`
   static const IconifyIconData manBarista = IconifyIconData(IconData(
-    0xeade,
+    0xe60e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-beard`
   static const IconifyIconData manBeard = IconifyIconData(IconData(
-    0xe2e3,
+    0xe60f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-biking`
   static const IconifyIconData manBiking = IconifyIconData(IconData(
-    0xe2e4,
+    0xe610,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-biking-dark-skin-tone`
   static const IconifyIconData manBikingDarkSkinTone = IconifyIconData(IconData(
-    0xeadf,
+    0xe611,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-biking-light-skin-tone`
   static const IconifyIconData manBikingLightSkinTone = IconifyIconData(IconData(
-    0xe2e5,
+    0xe612,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-biking-medium-dark-skin-tone`
   static const IconifyIconData manBikingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeae0,
+    0xe613,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-biking-medium-light-skin-tone`
   static const IconifyIconData manBikingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe2e6,
+    0xe614,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-biking-medium-skin-tone`
   static const IconifyIconData manBikingMediumSkinTone = IconifyIconData(IconData(
-    0xe2e7,
+    0xe615,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-blond-hair`
   static const IconifyIconData manBlondHair = IconifyIconData(IconData(
-    0xeae1,
+    0xe616,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-bouncing-ball`
   static const IconifyIconData manBouncingBall = IconifyIconData(IconData(
-    0xe2e8,
+    0xe617,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-bouncing-ball-dark-skin-tone`
   static const IconifyIconData manBouncingBallDarkSkinTone = IconifyIconData(IconData(
-    0xeae2,
+    0xe618,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-bouncing-ball-light-skin-tone`
   static const IconifyIconData manBouncingBallLightSkinTone = IconifyIconData(IconData(
-    0xe2e9,
+    0xe619,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-bouncing-ball-medium-dark-skin-tone`
   static const IconifyIconData manBouncingBallMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeae3,
+    0xe61a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-bouncing-ball-medium-light-skin-tone`
   static const IconifyIconData manBouncingBallMediumLightSkinTone = IconifyIconData(IconData(
-    0xe2ea,
+    0xe61b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-bouncing-ball-medium-skin-tone`
   static const IconifyIconData manBouncingBallMediumSkinTone = IconifyIconData(IconData(
-    0xe2eb,
+    0xe61c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-bowing`
   static const IconifyIconData manBowing = IconifyIconData(IconData(
-    0xe2ec,
+    0xe61d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-bowing-dark-skin-tone`
   static const IconifyIconData manBowingDarkSkinTone = IconifyIconData(IconData(
-    0xeae4,
+    0xe61e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-bowing-light-skin-tone`
   static const IconifyIconData manBowingLightSkinTone = IconifyIconData(IconData(
-    0xeae5,
+    0xe61f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-bowing-medium-dark-skin-tone`
   static const IconifyIconData manBowingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeae6,
+    0xe620,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-bowing-medium-light-skin-tone`
   static const IconifyIconData manBowingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe2ed,
+    0xe621,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-bowing-medium-skin-tone`
   static const IconifyIconData manBowingMediumSkinTone = IconifyIconData(IconData(
-    0xeae7,
+    0xe622,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-cartwheeling`
   static const IconifyIconData manCartwheeling = IconifyIconData(IconData(
-    0xe2ee,
+    0xe623,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-cartwheeling-dark-skin-tone`
   static const IconifyIconData manCartwheelingDarkSkinTone = IconifyIconData(IconData(
-    0xeae8,
+    0xe624,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-cartwheeling-light-skin-tone`
   static const IconifyIconData manCartwheelingLightSkinTone = IconifyIconData(IconData(
-    0xe2ef,
+    0xe625,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-cartwheeling-medium-dark-skin-tone`
   static const IconifyIconData manCartwheelingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeae9,
+    0xe626,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-cartwheeling-medium-light-skin-tone`
   static const IconifyIconData manCartwheelingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe2f0,
+    0xe627,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-cartwheeling-medium-skin-tone`
   static const IconifyIconData manCartwheelingMediumSkinTone = IconifyIconData(IconData(
-    0xe2f1,
+    0xe628,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-climbing`
   static const IconifyIconData manClimbing = IconifyIconData(IconData(
-    0xe2f2,
+    0xe629,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-climbing-dark-skin-tone`
   static const IconifyIconData manClimbingDarkSkinTone = IconifyIconData(IconData(
-    0xeaea,
+    0xe62a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-climbing-light-skin-tone`
   static const IconifyIconData manClimbingLightSkinTone = IconifyIconData(IconData(
-    0xe2f3,
+    0xe62b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-climbing-medium-dark-skin-tone`
   static const IconifyIconData manClimbingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeaeb,
+    0xe62c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-climbing-medium-light-skin-tone`
   static const IconifyIconData manClimbingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe2f4,
+    0xe62d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-climbing-medium-skin-tone`
   static const IconifyIconData manClimbingMediumSkinTone = IconifyIconData(IconData(
-    0xe2f5,
+    0xe62e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-construction-worker`
   static const IconifyIconData manConstructionWorker = IconifyIconData(IconData(
-    0xeaec,
+    0xe62f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-construction-worker-dark-skin-tone`
   static const IconifyIconData manConstructionWorkerDarkSkinTone = IconifyIconData(IconData(
-    0xeaed,
+    0xe630,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-construction-worker-light-skin-tone`
   static const IconifyIconData manConstructionWorkerLightSkinTone = IconifyIconData(IconData(
-    0xeaee,
+    0xe631,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-construction-worker-medium-dark-skin-tone`
   static const IconifyIconData manConstructionWorkerMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeaef,
+    0xe632,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-construction-worker-medium-light-skin-tone`
   static const IconifyIconData manConstructionWorkerMediumLightSkinTone = IconifyIconData(IconData(
-    0xeaf0,
+    0xe633,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-construction-worker-medium-skin-tone`
   static const IconifyIconData manConstructionWorkerMediumSkinTone = IconifyIconData(IconData(
-    0xeaf1,
+    0xe634,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-cook`
   static const IconifyIconData manCook = IconifyIconData(IconData(
-    0xeaf2,
+    0xe635,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-cook-dark-skin-tone`
   static const IconifyIconData manCookDarkSkinTone = IconifyIconData(IconData(
-    0xeaf3,
+    0xe636,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-cook-light-skin-tone`
   static const IconifyIconData manCookLightSkinTone = IconifyIconData(IconData(
-    0xeaf4,
+    0xe637,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-cook-medium-dark-skin-tone`
   static const IconifyIconData manCookMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeaf5,
+    0xe638,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-cook-medium-light-skin-tone`
   static const IconifyIconData manCookMediumLightSkinTone = IconifyIconData(IconData(
-    0xe2f6,
+    0xe639,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-cook-medium-skin-tone`
   static const IconifyIconData manCookMediumSkinTone = IconifyIconData(IconData(
-    0xeaf6,
+    0xe63a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-curly-hair`
   static const IconifyIconData manCurlyHair = IconifyIconData(IconData(
-    0xe2f7,
+    0xe63b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-dancing`
   static const IconifyIconData manDancing = IconifyIconData(IconData(
-    0xe2f8,
+    0xe63c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-dancing-dark-skin-tone`
   static const IconifyIconData manDancingDarkSkinTone = IconifyIconData(IconData(
-    0xeaf7,
+    0xe63d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-dancing-light-skin-tone`
   static const IconifyIconData manDancingLightSkinTone = IconifyIconData(IconData(
-    0xe2f9,
+    0xe63e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-dancing-medium-dark-skin-tone`
   static const IconifyIconData manDancingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeaf8,
+    0xe63f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-dancing-medium-light-skin-tone`
   static const IconifyIconData manDancingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe2fa,
+    0xe640,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-dancing-medium-skin-tone`
   static const IconifyIconData manDancingMediumSkinTone = IconifyIconData(IconData(
-    0xe2fb,
+    0xe641,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-dark-skin-tone`
   static const IconifyIconData manDarkSkinTone = IconifyIconData(IconData(
-    0xeaf9,
+    0xe642,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-dark-skin-tone-bald`
   static const IconifyIconData manDarkSkinToneBald = IconifyIconData(IconData(
-    0xeafa,
+    0xe643,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-dark-skin-tone-beard`
   static const IconifyIconData manDarkSkinToneBeard = IconifyIconData(IconData(
-    0xeafb,
+    0xe644,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-dark-skin-tone-blond-hair`
   static const IconifyIconData manDarkSkinToneBlondHair = IconifyIconData(IconData(
-    0xeafc,
+    0xe645,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-dark-skin-tone-curly-hair`
   static const IconifyIconData manDarkSkinToneCurlyHair = IconifyIconData(IconData(
-    0xeafd,
+    0xe646,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-dark-skin-tone-red-hair`
   static const IconifyIconData manDarkSkinToneRedHair = IconifyIconData(IconData(
-    0xeafe,
+    0xe647,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-dark-skin-tone-white-hair`
   static const IconifyIconData manDarkSkinToneWhiteHair = IconifyIconData(IconData(
-    0xeaff,
+    0xe648,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-elf`
   static const IconifyIconData manElf = IconifyIconData(IconData(
-    0xeb00,
+    0xe649,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-elf-dark-skin-tone`
   static const IconifyIconData manElfDarkSkinTone = IconifyIconData(IconData(
-    0xeb01,
+    0xe64a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-elf-light-skin-tone`
   static const IconifyIconData manElfLightSkinTone = IconifyIconData(IconData(
-    0xeb02,
+    0xe64b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-elf-medium-dark-skin-tone`
   static const IconifyIconData manElfMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb03,
+    0xe64c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-elf-medium-light-skin-tone`
   static const IconifyIconData manElfMediumLightSkinTone = IconifyIconData(IconData(
-    0xeb04,
+    0xe64d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-elf-medium-skin-tone`
   static const IconifyIconData manElfMediumSkinTone = IconifyIconData(IconData(
-    0xeb05,
+    0xe64e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-facepalming`
   static const IconifyIconData manFacepalming = IconifyIconData(IconData(
-    0xe2fc,
+    0xe64f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-facepalming-dark-skin-tone`
   static const IconifyIconData manFacepalmingDarkSkinTone = IconifyIconData(IconData(
-    0xeb06,
+    0xe650,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-facepalming-light-skin-tone`
   static const IconifyIconData manFacepalmingLightSkinTone = IconifyIconData(IconData(
-    0xeb07,
+    0xe651,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-facepalming-medium-dark-skin-tone`
   static const IconifyIconData manFacepalmingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb08,
+    0xe652,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-facepalming-medium-light-skin-tone`
   static const IconifyIconData manFacepalmingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe2fd,
+    0xe653,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-facepalming-medium-skin-tone`
   static const IconifyIconData manFacepalmingMediumSkinTone = IconifyIconData(IconData(
-    0xeb09,
+    0xe654,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-factory-worker`
   static const IconifyIconData manFactoryWorker = IconifyIconData(IconData(
-    0xeb0a,
+    0xe655,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-factory-worker-dark-skin-tone`
   static const IconifyIconData manFactoryWorkerDarkSkinTone = IconifyIconData(IconData(
-    0xeb0b,
+    0xe656,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-factory-worker-light-skin-tone`
   static const IconifyIconData manFactoryWorkerLightSkinTone = IconifyIconData(IconData(
-    0xeb0c,
+    0xe657,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-factory-worker-medium-dark-skin-tone`
   static const IconifyIconData manFactoryWorkerMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb0d,
+    0xe658,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-factory-worker-medium-light-skin-tone`
   static const IconifyIconData manFactoryWorkerMediumLightSkinTone = IconifyIconData(IconData(
-    0xeb0e,
+    0xe659,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-factory-worker-medium-skin-tone`
   static const IconifyIconData manFactoryWorkerMediumSkinTone = IconifyIconData(IconData(
-    0xeb0f,
+    0xe65a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-fairy`
   static const IconifyIconData manFairy = IconifyIconData(IconData(
-    0xeb10,
+    0xe65b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-fairy-dark-skin-tone`
   static const IconifyIconData manFairyDarkSkinTone = IconifyIconData(IconData(
-    0xeb11,
+    0xe65c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-fairy-medium-dark-skin-tone`
   static const IconifyIconData manFairyMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb12,
+    0xe65d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-fairy-medium-light-skin-tone`
   static const IconifyIconData manFairyMediumLightSkinTone = IconifyIconData(IconData(
-    0xeb13,
+    0xe65e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-farmer`
   static const IconifyIconData manFarmer = IconifyIconData(IconData(
-    0xeb14,
+    0xe65f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-farmer-dark-skin-tone`
   static const IconifyIconData manFarmerDarkSkinTone = IconifyIconData(IconData(
-    0xeb15,
+    0xe660,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-farmer-light-skin-tone`
   static const IconifyIconData manFarmerLightSkinTone = IconifyIconData(IconData(
-    0xeb16,
+    0xe661,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-farmer-medium-dark-skin-tone`
   static const IconifyIconData manFarmerMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb17,
+    0xe662,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-farmer-medium-light-skin-tone`
   static const IconifyIconData manFarmerMediumLightSkinTone = IconifyIconData(IconData(
-    0xeb18,
+    0xe663,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-farmer-medium-skin-tone`
   static const IconifyIconData manFarmerMediumSkinTone = IconifyIconData(IconData(
-    0xeb19,
+    0xe664,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-frowning`
   static const IconifyIconData manFrowning = IconifyIconData(IconData(
-    0xe2fe,
+    0xe665,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-frowning-dark-skin-tone`
   static const IconifyIconData manFrowningDarkSkinTone = IconifyIconData(IconData(
-    0xeb1a,
+    0xe666,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-frowning-light-skin-tone`
   static const IconifyIconData manFrowningLightSkinTone = IconifyIconData(IconData(
-    0xeb1b,
+    0xe667,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-frowning-medium-dark-skin-tone`
   static const IconifyIconData manFrowningMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb1c,
+    0xe668,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-frowning-medium-light-skin-tone`
   static const IconifyIconData manFrowningMediumLightSkinTone = IconifyIconData(IconData(
-    0xe2ff,
+    0xe669,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-frowning-medium-skin-tone`
   static const IconifyIconData manFrowningMediumSkinTone = IconifyIconData(IconData(
-    0xeb1d,
+    0xe66a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-genie`
   static const IconifyIconData manGenie = IconifyIconData(IconData(
-    0xeb1e,
+    0xe66b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-gesturing-no`
   static const IconifyIconData manGesturingNo = IconifyIconData(IconData(
-    0xe300,
+    0xe66c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-gesturing-no-dark-skin-tone`
   static const IconifyIconData manGesturingNoDarkSkinTone = IconifyIconData(IconData(
-    0xeb1f,
+    0xe66d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-gesturing-no-light-skin-tone`
   static const IconifyIconData manGesturingNoLightSkinTone = IconifyIconData(IconData(
-    0xeb20,
+    0xe66e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-gesturing-no-medium-dark-skin-tone`
   static const IconifyIconData manGesturingNoMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb21,
+    0xe66f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-gesturing-no-medium-light-skin-tone`
   static const IconifyIconData manGesturingNoMediumLightSkinTone = IconifyIconData(IconData(
-    0xe301,
+    0xe670,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-gesturing-no-medium-skin-tone`
   static const IconifyIconData manGesturingNoMediumSkinTone = IconifyIconData(IconData(
-    0xeb22,
+    0xe671,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-gesturing-ok`
   static const IconifyIconData manGesturingOk = IconifyIconData(IconData(
-    0xe302,
+    0xe672,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-gesturing-ok-dark-skin-tone`
   static const IconifyIconData manGesturingOkDarkSkinTone = IconifyIconData(IconData(
-    0xeb23,
+    0xe673,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-gesturing-ok-light-skin-tone`
   static const IconifyIconData manGesturingOkLightSkinTone = IconifyIconData(IconData(
-    0xeb24,
+    0xe674,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-gesturing-ok-medium-dark-skin-tone`
   static const IconifyIconData manGesturingOkMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb25,
+    0xe675,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-gesturing-ok-medium-light-skin-tone`
   static const IconifyIconData manGesturingOkMediumLightSkinTone = IconifyIconData(IconData(
-    0xe303,
+    0xe676,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-gesturing-ok-medium-skin-tone`
   static const IconifyIconData manGesturingOkMediumSkinTone = IconifyIconData(IconData(
-    0xeb26,
+    0xe677,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-getting-haircut`
   static const IconifyIconData manGettingHaircut = IconifyIconData(IconData(
-    0xe304,
+    0xe678,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-getting-haircut-dark-skin-tone`
   static const IconifyIconData manGettingHaircutDarkSkinTone = IconifyIconData(IconData(
-    0xeb27,
+    0xe679,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-getting-haircut-light-skin-tone`
   static const IconifyIconData manGettingHaircutLightSkinTone = IconifyIconData(IconData(
-    0xeb28,
+    0xe67a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-getting-haircut-medium-dark-skin-tone`
   static const IconifyIconData manGettingHaircutMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb29,
+    0xe67b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-getting-haircut-medium-light-skin-tone`
   static const IconifyIconData manGettingHaircutMediumLightSkinTone = IconifyIconData(IconData(
-    0xe305,
+    0xe67c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-getting-haircut-medium-skin-tone`
   static const IconifyIconData manGettingHaircutMediumSkinTone = IconifyIconData(IconData(
-    0xeb2a,
+    0xe67d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-getting-massage`
   static const IconifyIconData manGettingMassage = IconifyIconData(IconData(
-    0xeb2b,
+    0xe67e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-getting-massage-dark-skin-tone`
   static const IconifyIconData manGettingMassageDarkSkinTone = IconifyIconData(IconData(
-    0xeb2c,
+    0xe67f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-getting-massage-light-skin-tone`
   static const IconifyIconData manGettingMassageLightSkinTone = IconifyIconData(IconData(
-    0xeb2d,
+    0xe680,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-getting-massage-medium-dark-skin-tone`
   static const IconifyIconData manGettingMassageMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb2e,
+    0xe681,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-getting-massage-medium-light-skin-tone`
   static const IconifyIconData manGettingMassageMediumLightSkinTone = IconifyIconData(IconData(
-    0xeb2f,
+    0xe682,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-getting-massage-medium-skin-tone`
   static const IconifyIconData manGettingMassageMediumSkinTone = IconifyIconData(IconData(
-    0xeb30,
+    0xe683,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-golfing`
   static const IconifyIconData manGolfing = IconifyIconData(IconData(
-    0xe306,
+    0xe684,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-golfing-dark-skin-tone`
   static const IconifyIconData manGolfingDarkSkinTone = IconifyIconData(IconData(
-    0xeb31,
+    0xe685,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-golfing-light-skin-tone`
   static const IconifyIconData manGolfingLightSkinTone = IconifyIconData(IconData(
-    0xe307,
+    0xe686,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-golfing-medium-dark-skin-tone`
   static const IconifyIconData manGolfingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb32,
+    0xe687,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-golfing-medium-light-skin-tone`
   static const IconifyIconData manGolfingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe308,
+    0xe688,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-golfing-medium-skin-tone`
   static const IconifyIconData manGolfingMediumSkinTone = IconifyIconData(IconData(
-    0xe309,
+    0xe689,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-guard`
   static const IconifyIconData manGuard = IconifyIconData(IconData(
-    0xe30a,
+    0xe68a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-guard-dark-skin-tone`
   static const IconifyIconData manGuardDarkSkinTone = IconifyIconData(IconData(
-    0xeb33,
+    0xe68b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-guard-light-skin-tone`
   static const IconifyIconData manGuardLightSkinTone = IconifyIconData(IconData(
-    0xe30b,
+    0xe68c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-guard-medium-dark-skin-tone`
   static const IconifyIconData manGuardMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb34,
+    0xe68d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-guard-medium-light-skin-tone`
   static const IconifyIconData manGuardMediumLightSkinTone = IconifyIconData(IconData(
-    0xe30c,
+    0xe68e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-guard-medium-skin-tone`
   static const IconifyIconData manGuardMediumSkinTone = IconifyIconData(IconData(
-    0xe30d,
+    0xe68f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-health-worker`
   static const IconifyIconData manHealthWorker = IconifyIconData(IconData(
-    0xeb35,
+    0xe690,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-health-worker-dark-skin-tone`
   static const IconifyIconData manHealthWorkerDarkSkinTone = IconifyIconData(IconData(
-    0xeb36,
+    0xe691,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-health-worker-light-skin-tone`
   static const IconifyIconData manHealthWorkerLightSkinTone = IconifyIconData(IconData(
-    0xeb37,
+    0xe692,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-health-worker-medium-dark-skin-tone`
   static const IconifyIconData manHealthWorkerMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb38,
+    0xe693,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-health-worker-medium-light-skin-tone`
   static const IconifyIconData manHealthWorkerMediumLightSkinTone = IconifyIconData(IconData(
-    0xe30e,
+    0xe694,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-health-worker-medium-skin-tone`
   static const IconifyIconData manHealthWorkerMediumSkinTone = IconifyIconData(IconData(
-    0xeb39,
+    0xe695,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-lotus-position`
   static const IconifyIconData manInLotusPosition = IconifyIconData(IconData(
-    0xe30f,
+    0xe696,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-lotus-position-dark-skin-tone`
   static const IconifyIconData manInLotusPositionDarkSkinTone = IconifyIconData(IconData(
-    0xeb3a,
+    0xe697,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-lotus-position-light-skin-tone`
   static const IconifyIconData manInLotusPositionLightSkinTone = IconifyIconData(IconData(
-    0xe310,
+    0xe698,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-lotus-position-medium-dark-skin-tone`
   static const IconifyIconData manInLotusPositionMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb3b,
+    0xe699,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-lotus-position-medium-light-skin-tone`
   static const IconifyIconData manInLotusPositionMediumLightSkinTone = IconifyIconData(IconData(
-    0xe311,
+    0xe69a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-lotus-position-medium-skin-tone`
   static const IconifyIconData manInLotusPositionMediumSkinTone = IconifyIconData(IconData(
-    0xe312,
+    0xe69b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-manual-wheelchair`
   static const IconifyIconData manInManualWheelchair = IconifyIconData(IconData(
-    0xe313,
+    0xe69c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-manual-wheelchair-dark-skin-tone`
   static const IconifyIconData manInManualWheelchairDarkSkinTone = IconifyIconData(IconData(
-    0xeb3c,
+    0xe69d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-manual-wheelchair-dark-skin-tone-facing-right`
   static const IconifyIconData manInManualWheelchairDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xeb3d,
+    0xe69e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-manual-wheelchair-facing-right`
   static const IconifyIconData manInManualWheelchairFacingRight = IconifyIconData(IconData(
-    0xe314,
+    0xe69f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-manual-wheelchair-light-skin-tone`
   static const IconifyIconData manInManualWheelchairLightSkinTone = IconifyIconData(IconData(
-    0xe315,
+    0xe6a0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-manual-wheelchair-light-skin-tone-facing-right`
   static const IconifyIconData manInManualWheelchairLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe316,
+    0xe6a1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-manual-wheelchair-medium-dark-skin-tone`
   static const IconifyIconData manInManualWheelchairMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb3e,
+    0xe6a2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-manual-wheelchair-medium-dark-skin-tone-facing-right`
   static const IconifyIconData manInManualWheelchairMediumDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xeb3f,
+    0xe6a3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-manual-wheelchair-medium-light-skin-tone`
   static const IconifyIconData manInManualWheelchairMediumLightSkinTone = IconifyIconData(IconData(
-    0xe317,
+    0xe6a4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-manual-wheelchair-medium-light-skin-tone-facing-right`
   static const IconifyIconData manInManualWheelchairMediumLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe318,
+    0xe6a5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-manual-wheelchair-medium-skin-tone`
   static const IconifyIconData manInManualWheelchairMediumSkinTone = IconifyIconData(IconData(
-    0xe319,
+    0xe6a6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-manual-wheelchair-medium-skin-tone-facing-right`
   static const IconifyIconData manInManualWheelchairMediumSkinToneFacingRight = IconifyIconData(IconData(
-    0xe31a,
+    0xe6a7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-motorized-wheelchair`
   static const IconifyIconData manInMotorizedWheelchair = IconifyIconData(IconData(
-    0xeb40,
+    0xe6a8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-motorized-wheelchair-dark-skin-tone`
   static const IconifyIconData manInMotorizedWheelchairDarkSkinTone = IconifyIconData(IconData(
-    0xeb41,
+    0xe6a9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-motorized-wheelchair-dark-skin-tone-facing-right`
   static const IconifyIconData manInMotorizedWheelchairDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xeb42,
+    0xe6aa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-motorized-wheelchair-facing-right`
   static const IconifyIconData manInMotorizedWheelchairFacingRight = IconifyIconData(IconData(
-    0xeb43,
+    0xe6ab,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-motorized-wheelchair-light-skin-tone`
   static const IconifyIconData manInMotorizedWheelchairLightSkinTone = IconifyIconData(IconData(
-    0xeb44,
+    0xe6ac,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-motorized-wheelchair-light-skin-tone-facing-right`
   static const IconifyIconData manInMotorizedWheelchairLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xeb45,
+    0xe6ad,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-motorized-wheelchair-medium-dark-skin-tone`
   static const IconifyIconData manInMotorizedWheelchairMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb46,
+    0xe6ae,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-motorized-wheelchair-medium-dark-skin-tone-facing-right`
   static const IconifyIconData manInMotorizedWheelchairMediumDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xeb47,
+    0xe6af,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-motorized-wheelchair-medium-light-skin-tone`
   static const IconifyIconData manInMotorizedWheelchairMediumLightSkinTone = IconifyIconData(IconData(
-    0xeb48,
+    0xe6b0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-motorized-wheelchair-medium-light-skin-tone-facing-right`
   static const IconifyIconData manInMotorizedWheelchairMediumLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xeb49,
+    0xe6b1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-motorized-wheelchair-medium-skin-tone`
   static const IconifyIconData manInMotorizedWheelchairMediumSkinTone = IconifyIconData(IconData(
-    0xeb4a,
+    0xe6b2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-motorized-wheelchair-medium-skin-tone-facing-right`
   static const IconifyIconData manInMotorizedWheelchairMediumSkinToneFacingRight = IconifyIconData(IconData(
-    0xeb4b,
+    0xe6b3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-steamy-room`
   static const IconifyIconData manInSteamyRoom = IconifyIconData(IconData(
-    0xe31b,
+    0xe6b4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-steamy-room-dark-skin-tone`
   static const IconifyIconData manInSteamyRoomDarkSkinTone = IconifyIconData(IconData(
-    0xeb4c,
+    0xe6b5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-steamy-room-medium-dark-skin-tone`
   static const IconifyIconData manInSteamyRoomMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb4d,
+    0xe6b6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-steamy-room-medium-light-skin-tone`
   static const IconifyIconData manInSteamyRoomMediumLightSkinTone = IconifyIconData(IconData(
-    0xe31c,
+    0xe6b7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-suit-levitating`
   static const IconifyIconData manInSuitLevitating = IconifyIconData(IconData(
-    0xe31d,
+    0xe6b8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-suit-levitating-dark-skin-tone`
   static const IconifyIconData manInSuitLevitatingDarkSkinTone = IconifyIconData(IconData(
-    0xeb4e,
+    0xe6b9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-suit-levitating-light-skin-tone`
   static const IconifyIconData manInSuitLevitatingLightSkinTone = IconifyIconData(IconData(
-    0xe31e,
+    0xe6ba,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-suit-levitating-medium-dark-skin-tone`
   static const IconifyIconData manInSuitLevitatingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb4f,
+    0xe6bb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-suit-levitating-medium-light-skin-tone`
   static const IconifyIconData manInSuitLevitatingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe31f,
+    0xe6bc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-suit-levitating-medium-skin-tone`
   static const IconifyIconData manInSuitLevitatingMediumSkinTone = IconifyIconData(IconData(
-    0xe320,
+    0xe6bd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-tuxedo`
   static const IconifyIconData manInTuxedo = IconifyIconData(IconData(
-    0xe321,
+    0xe6be,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-tuxedo-dark-skin-tone`
   static const IconifyIconData manInTuxedoDarkSkinTone = IconifyIconData(IconData(
-    0xeb50,
+    0xe6bf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-tuxedo-medium-dark-skin-tone`
   static const IconifyIconData manInTuxedoMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb51,
+    0xe6c0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-in-tuxedo-medium-light-skin-tone`
   static const IconifyIconData manInTuxedoMediumLightSkinTone = IconifyIconData(IconData(
-    0xe322,
+    0xe6c1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-judge`
   static const IconifyIconData manJudge = IconifyIconData(IconData(
-    0xeb52,
+    0xe6c2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-judge-dark-skin-tone`
   static const IconifyIconData manJudgeDarkSkinTone = IconifyIconData(IconData(
-    0xeb53,
+    0xe6c3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-judge-light-skin-tone`
   static const IconifyIconData manJudgeLightSkinTone = IconifyIconData(IconData(
-    0xeb54,
+    0xe6c4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-judge-medium-dark-skin-tone`
   static const IconifyIconData manJudgeMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb55,
+    0xe6c5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-judge-medium-light-skin-tone`
   static const IconifyIconData manJudgeMediumLightSkinTone = IconifyIconData(IconData(
-    0xeb56,
+    0xe6c6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-judge-medium-skin-tone`
   static const IconifyIconData manJudgeMediumSkinTone = IconifyIconData(IconData(
-    0xeb57,
+    0xe6c7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-juggling`
   static const IconifyIconData manJuggling = IconifyIconData(IconData(
-    0xe323,
+    0xe6c8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-juggling-dark-skin-tone`
   static const IconifyIconData manJugglingDarkSkinTone = IconifyIconData(IconData(
-    0xeb58,
+    0xe6c9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-juggling-light-skin-tone`
   static const IconifyIconData manJugglingLightSkinTone = IconifyIconData(IconData(
-    0xe324,
+    0xe6ca,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-juggling-medium-dark-skin-tone`
   static const IconifyIconData manJugglingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb59,
+    0xe6cb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-juggling-medium-light-skin-tone`
   static const IconifyIconData manJugglingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe325,
+    0xe6cc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-juggling-medium-skin-tone`
   static const IconifyIconData manJugglingMediumSkinTone = IconifyIconData(IconData(
-    0xe326,
+    0xe6cd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-kneeling`
   static const IconifyIconData manKneeling = IconifyIconData(IconData(
-    0xe327,
+    0xe6ce,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-kneeling-dark-skin-tone`
   static const IconifyIconData manKneelingDarkSkinTone = IconifyIconData(IconData(
-    0xeb5a,
+    0xe6cf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-kneeling-dark-skin-tone-facing-right`
   static const IconifyIconData manKneelingDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xeb5b,
+    0xe6d0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-kneeling-facing-right`
   static const IconifyIconData manKneelingFacingRight = IconifyIconData(IconData(
-    0xe328,
+    0xe6d1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-kneeling-light-skin-tone`
   static const IconifyIconData manKneelingLightSkinTone = IconifyIconData(IconData(
-    0xe329,
+    0xe6d2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-kneeling-light-skin-tone-facing-right`
   static const IconifyIconData manKneelingLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe32a,
+    0xe6d3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-kneeling-medium-dark-skin-tone`
   static const IconifyIconData manKneelingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb5c,
+    0xe6d4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-kneeling-medium-dark-skin-tone-facing-right`
   static const IconifyIconData manKneelingMediumDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xeb5d,
+    0xe6d5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-kneeling-medium-light-skin-tone`
   static const IconifyIconData manKneelingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe32b,
+    0xe6d6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-kneeling-medium-light-skin-tone-facing-right`
   static const IconifyIconData manKneelingMediumLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe32c,
+    0xe6d7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-kneeling-medium-skin-tone`
   static const IconifyIconData manKneelingMediumSkinTone = IconifyIconData(IconData(
-    0xe32d,
+    0xe6d8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-kneeling-medium-skin-tone-facing-right`
   static const IconifyIconData manKneelingMediumSkinToneFacingRight = IconifyIconData(IconData(
-    0xe32e,
+    0xe6d9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-lifting-weights`
   static const IconifyIconData manLiftingWeights = IconifyIconData(IconData(
-    0xeb5e,
+    0xe6da,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-lifting-weights-dark-skin-tone`
   static const IconifyIconData manLiftingWeightsDarkSkinTone = IconifyIconData(IconData(
-    0xeb5f,
+    0xe6db,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-lifting-weights-light-skin-tone`
   static const IconifyIconData manLiftingWeightsLightSkinTone = IconifyIconData(IconData(
-    0xeb60,
+    0xe6dc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-lifting-weights-medium-dark-skin-tone`
   static const IconifyIconData manLiftingWeightsMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb61,
+    0xe6dd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-lifting-weights-medium-light-skin-tone`
   static const IconifyIconData manLiftingWeightsMediumLightSkinTone = IconifyIconData(IconData(
-    0xeb62,
+    0xe6de,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-lifting-weights-medium-skin-tone`
   static const IconifyIconData manLiftingWeightsMediumSkinTone = IconifyIconData(IconData(
-    0xeb63,
+    0xe6df,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-light-skin-tone`
   static const IconifyIconData manLightSkinTone = IconifyIconData(IconData(
-    0xeb64,
+    0xe6e0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-light-skin-tone-bald`
   static const IconifyIconData manLightSkinToneBald = IconifyIconData(IconData(
-    0xe32f,
+    0xe6e1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-light-skin-tone-beard`
   static const IconifyIconData manLightSkinToneBeard = IconifyIconData(IconData(
-    0xeb65,
+    0xe6e2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-light-skin-tone-blond-hair`
   static const IconifyIconData manLightSkinToneBlondHair = IconifyIconData(IconData(
-    0xeb66,
+    0xe6e3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-light-skin-tone-red-hair`
   static const IconifyIconData manLightSkinToneRedHair = IconifyIconData(IconData(
-    0xeb67,
+    0xe6e4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-light-skin-tone-white-hair`
   static const IconifyIconData manLightSkinToneWhiteHair = IconifyIconData(IconData(
-    0xeb68,
+    0xe6e5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-mage`
   static const IconifyIconData manMage = IconifyIconData(IconData(
-    0xeb69,
+    0xe6e6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-mage-dark-skin-tone`
   static const IconifyIconData manMageDarkSkinTone = IconifyIconData(IconData(
-    0xeb6a,
+    0xe6e7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-mage-light-skin-tone`
   static const IconifyIconData manMageLightSkinTone = IconifyIconData(IconData(
-    0xeb6b,
+    0xe6e8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-mage-medium-dark-skin-tone`
   static const IconifyIconData manMageMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb6c,
+    0xe6e9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-mage-medium-light-skin-tone`
   static const IconifyIconData manMageMediumLightSkinTone = IconifyIconData(IconData(
-    0xeb6d,
+    0xe6ea,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-mage-medium-skin-tone`
   static const IconifyIconData manMageMediumSkinTone = IconifyIconData(IconData(
-    0xeb6e,
+    0xe6eb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-mechanic`
   static const IconifyIconData manMechanic = IconifyIconData(IconData(
-    0xeb6f,
+    0xe6ec,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-mechanic-dark-skin-tone`
   static const IconifyIconData manMechanicDarkSkinTone = IconifyIconData(IconData(
-    0xeb70,
+    0xe6ed,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-mechanic-light-skin-tone`
   static const IconifyIconData manMechanicLightSkinTone = IconifyIconData(IconData(
-    0xeb71,
+    0xe6ee,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-mechanic-medium-dark-skin-tone`
   static const IconifyIconData manMechanicMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb72,
+    0xe6ef,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-mechanic-medium-light-skin-tone`
   static const IconifyIconData manMechanicMediumLightSkinTone = IconifyIconData(IconData(
-    0xeb73,
+    0xe6f0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-mechanic-medium-skin-tone`
   static const IconifyIconData manMechanicMediumSkinTone = IconifyIconData(IconData(
-    0xeb74,
+    0xe6f1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-medium-dark-skin-tone`
   static const IconifyIconData manMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb75,
+    0xe6f2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-medium-dark-skin-tone-bald`
   static const IconifyIconData manMediumDarkSkinToneBald = IconifyIconData(IconData(
-    0xeb76,
+    0xe6f3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-medium-dark-skin-tone-beard`
   static const IconifyIconData manMediumDarkSkinToneBeard = IconifyIconData(IconData(
-    0xeb77,
+    0xe6f4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-medium-dark-skin-tone-blond-hair`
   static const IconifyIconData manMediumDarkSkinToneBlondHair = IconifyIconData(IconData(
-    0xeb78,
+    0xe6f5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-medium-dark-skin-tone-curly-hair`
   static const IconifyIconData manMediumDarkSkinToneCurlyHair = IconifyIconData(IconData(
-    0xeb79,
+    0xe6f6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-medium-dark-skin-tone-red-hair`
   static const IconifyIconData manMediumDarkSkinToneRedHair = IconifyIconData(IconData(
-    0xeb7a,
+    0xe6f7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-medium-dark-skin-tone-white-hair`
   static const IconifyIconData manMediumDarkSkinToneWhiteHair = IconifyIconData(IconData(
-    0xeb7b,
+    0xe6f8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-medium-light-skin-tone`
   static const IconifyIconData manMediumLightSkinTone = IconifyIconData(IconData(
-    0xeb7c,
+    0xe6f9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-medium-light-skin-tone-bald`
   static const IconifyIconData manMediumLightSkinToneBald = IconifyIconData(IconData(
-    0xe330,
+    0xe6fa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-medium-light-skin-tone-beard`
   static const IconifyIconData manMediumLightSkinToneBeard = IconifyIconData(IconData(
-    0xe331,
+    0xe6fb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-medium-light-skin-tone-blond-hair`
   static const IconifyIconData manMediumLightSkinToneBlondHair = IconifyIconData(IconData(
-    0xeb7d,
+    0xe6fc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-medium-light-skin-tone-curly-hair`
   static const IconifyIconData manMediumLightSkinToneCurlyHair = IconifyIconData(IconData(
-    0xe332,
+    0xe6fd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-medium-light-skin-tone-red-hair`
   static const IconifyIconData manMediumLightSkinToneRedHair = IconifyIconData(IconData(
-    0xeb7e,
+    0xe6fe,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-medium-light-skin-tone-white-hair`
   static const IconifyIconData manMediumLightSkinToneWhiteHair = IconifyIconData(IconData(
-    0xeb7f,
+    0xe6ff,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-medium-skin-tone`
   static const IconifyIconData manMediumSkinTone = IconifyIconData(IconData(
-    0xeb80,
+    0xe700,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-medium-skin-tone-bald`
   static const IconifyIconData manMediumSkinToneBald = IconifyIconData(IconData(
-    0xe333,
+    0xe701,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-medium-skin-tone-beard`
   static const IconifyIconData manMediumSkinToneBeard = IconifyIconData(IconData(
-    0xeb81,
+    0xe702,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-medium-skin-tone-blond-hair`
   static const IconifyIconData manMediumSkinToneBlondHair = IconifyIconData(IconData(
-    0xeb82,
+    0xe703,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-medium-skin-tone-red-hair`
   static const IconifyIconData manMediumSkinToneRedHair = IconifyIconData(IconData(
-    0xeb83,
+    0xe704,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-medium-skin-tone-white-hair`
   static const IconifyIconData manMediumSkinToneWhiteHair = IconifyIconData(IconData(
-    0xeb84,
+    0xe705,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-mountain-biking`
   static const IconifyIconData manMountainBiking = IconifyIconData(IconData(
-    0xe334,
+    0xe706,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-mountain-biking-dark-skin-tone`
   static const IconifyIconData manMountainBikingDarkSkinTone = IconifyIconData(IconData(
-    0xeb85,
+    0xe707,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-mountain-biking-light-skin-tone`
   static const IconifyIconData manMountainBikingLightSkinTone = IconifyIconData(IconData(
-    0xe335,
+    0xe708,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-mountain-biking-medium-dark-skin-tone`
   static const IconifyIconData manMountainBikingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb86,
+    0xe709,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-mountain-biking-medium-light-skin-tone`
   static const IconifyIconData manMountainBikingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe336,
+    0xe70a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-mountain-biking-medium-skin-tone`
   static const IconifyIconData manMountainBikingMediumSkinTone = IconifyIconData(IconData(
-    0xe337,
+    0xe70b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-office-worker`
   static const IconifyIconData manOfficeWorker = IconifyIconData(IconData(
-    0xe338,
+    0xe70c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-office-worker-dark-skin-tone`
   static const IconifyIconData manOfficeWorkerDarkSkinTone = IconifyIconData(IconData(
-    0xeb87,
+    0xe70d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-office-worker-light-skin-tone`
   static const IconifyIconData manOfficeWorkerLightSkinTone = IconifyIconData(IconData(
-    0xeb88,
+    0xe70e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-office-worker-medium-dark-skin-tone`
   static const IconifyIconData manOfficeWorkerMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb89,
+    0xe70f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-office-worker-medium-light-skin-tone`
   static const IconifyIconData manOfficeWorkerMediumLightSkinTone = IconifyIconData(IconData(
-    0xe339,
+    0xe710,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-office-worker-medium-skin-tone`
   static const IconifyIconData manOfficeWorkerMediumSkinTone = IconifyIconData(IconData(
-    0xeb8a,
+    0xe711,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-pilot`
   static const IconifyIconData manPilot = IconifyIconData(IconData(
-    0xeb8b,
+    0xe712,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-pilot-dark-skin-tone`
   static const IconifyIconData manPilotDarkSkinTone = IconifyIconData(IconData(
-    0xeb8c,
+    0xe713,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-pilot-light-skin-tone`
   static const IconifyIconData manPilotLightSkinTone = IconifyIconData(IconData(
-    0xeb8d,
+    0xe714,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-pilot-medium-dark-skin-tone`
   static const IconifyIconData manPilotMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb8e,
+    0xe715,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-pilot-medium-light-skin-tone`
   static const IconifyIconData manPilotMediumLightSkinTone = IconifyIconData(IconData(
-    0xe33a,
+    0xe716,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-pilot-medium-skin-tone`
   static const IconifyIconData manPilotMediumSkinTone = IconifyIconData(IconData(
-    0xeb8f,
+    0xe717,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-playing-handball`
   static const IconifyIconData manPlayingHandball = IconifyIconData(IconData(
-    0xe33b,
+    0xe718,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-playing-handball-dark-skin-tone`
   static const IconifyIconData manPlayingHandballDarkSkinTone = IconifyIconData(IconData(
-    0xeb90,
+    0xe719,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-playing-handball-light-skin-tone`
   static const IconifyIconData manPlayingHandballLightSkinTone = IconifyIconData(IconData(
-    0xe33c,
+    0xe71a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-playing-handball-medium-dark-skin-tone`
   static const IconifyIconData manPlayingHandballMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb91,
+    0xe71b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-playing-handball-medium-light-skin-tone`
   static const IconifyIconData manPlayingHandballMediumLightSkinTone = IconifyIconData(IconData(
-    0xe33d,
+    0xe71c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-playing-handball-medium-skin-tone`
   static const IconifyIconData manPlayingHandballMediumSkinTone = IconifyIconData(IconData(
-    0xe33e,
+    0xe71d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-playing-water-polo`
   static const IconifyIconData manPlayingWaterPolo = IconifyIconData(IconData(
-    0xe33f,
+    0xe71e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-playing-water-polo-dark-skin-tone`
   static const IconifyIconData manPlayingWaterPoloDarkSkinTone = IconifyIconData(IconData(
-    0xeb92,
+    0xe71f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-playing-water-polo-light-skin-tone`
   static const IconifyIconData manPlayingWaterPoloLightSkinTone = IconifyIconData(IconData(
-    0xe340,
+    0xe720,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-playing-water-polo-medium-dark-skin-tone`
   static const IconifyIconData manPlayingWaterPoloMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb93,
+    0xe721,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-playing-water-polo-medium-light-skin-tone`
   static const IconifyIconData manPlayingWaterPoloMediumLightSkinTone = IconifyIconData(IconData(
-    0xe341,
+    0xe722,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-playing-water-polo-medium-skin-tone`
   static const IconifyIconData manPlayingWaterPoloMediumSkinTone = IconifyIconData(IconData(
-    0xe342,
+    0xe723,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-police-officer`
   static const IconifyIconData manPoliceOfficer = IconifyIconData(IconData(
-    0xeb94,
+    0xe724,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-police-officer-dark-skin-tone`
   static const IconifyIconData manPoliceOfficerDarkSkinTone = IconifyIconData(IconData(
-    0xeb95,
+    0xe725,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-police-officer-light-skin-tone`
   static const IconifyIconData manPoliceOfficerLightSkinTone = IconifyIconData(IconData(
-    0xeb96,
+    0xe726,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-police-officer-medium-dark-skin-tone`
   static const IconifyIconData manPoliceOfficerMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb97,
+    0xe727,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-police-officer-medium-light-skin-tone`
   static const IconifyIconData manPoliceOfficerMediumLightSkinTone = IconifyIconData(IconData(
-    0xeb98,
+    0xe728,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-police-officer-medium-skin-tone`
   static const IconifyIconData manPoliceOfficerMediumSkinTone = IconifyIconData(IconData(
-    0xeb99,
+    0xe729,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-pouting`
   static const IconifyIconData manPouting = IconifyIconData(IconData(
-    0xe343,
+    0xe72a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-pouting-dark-skin-tone`
   static const IconifyIconData manPoutingDarkSkinTone = IconifyIconData(IconData(
-    0xeb9a,
+    0xe72b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-pouting-light-skin-tone`
   static const IconifyIconData manPoutingLightSkinTone = IconifyIconData(IconData(
-    0xeb9b,
+    0xe72c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-pouting-medium-dark-skin-tone`
   static const IconifyIconData manPoutingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeb9c,
+    0xe72d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-pouting-medium-light-skin-tone`
   static const IconifyIconData manPoutingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe344,
+    0xe72e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-pouting-medium-skin-tone`
   static const IconifyIconData manPoutingMediumSkinTone = IconifyIconData(IconData(
-    0xeb9d,
+    0xe72f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-raising-hand`
   static const IconifyIconData manRaisingHand = IconifyIconData(IconData(
-    0xe345,
+    0xe730,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-raising-hand-dark-skin-tone`
   static const IconifyIconData manRaisingHandDarkSkinTone = IconifyIconData(IconData(
-    0xeb9e,
+    0xe731,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-raising-hand-light-skin-tone`
   static const IconifyIconData manRaisingHandLightSkinTone = IconifyIconData(IconData(
-    0xeb9f,
+    0xe732,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-raising-hand-medium-dark-skin-tone`
   static const IconifyIconData manRaisingHandMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeba0,
+    0xe733,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-raising-hand-medium-light-skin-tone`
   static const IconifyIconData manRaisingHandMediumLightSkinTone = IconifyIconData(IconData(
-    0xe346,
+    0xe734,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-raising-hand-medium-skin-tone`
   static const IconifyIconData manRaisingHandMediumSkinTone = IconifyIconData(IconData(
-    0xeba1,
+    0xe735,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-red-hair`
   static const IconifyIconData manRedHair = IconifyIconData(IconData(
-    0xeba2,
+    0xe736,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-rowing-boat`
   static const IconifyIconData manRowingBoat = IconifyIconData(IconData(
-    0xeba3,
+    0xe737,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-rowing-boat-dark-skin-tone`
   static const IconifyIconData manRowingBoatDarkSkinTone = IconifyIconData(IconData(
-    0xeba4,
+    0xe738,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-rowing-boat-light-skin-tone`
   static const IconifyIconData manRowingBoatLightSkinTone = IconifyIconData(IconData(
-    0xeba5,
+    0xe739,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-rowing-boat-medium-dark-skin-tone`
   static const IconifyIconData manRowingBoatMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeba6,
+    0xe73a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-rowing-boat-medium-light-skin-tone`
   static const IconifyIconData manRowingBoatMediumLightSkinTone = IconifyIconData(IconData(
-    0xeba7,
+    0xe73b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-rowing-boat-medium-skin-tone`
   static const IconifyIconData manRowingBoatMediumSkinTone = IconifyIconData(IconData(
-    0xeba8,
+    0xe73c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-running`
   static const IconifyIconData manRunning = IconifyIconData(IconData(
-    0xe347,
+    0xe73d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-running-dark-skin-tone`
   static const IconifyIconData manRunningDarkSkinTone = IconifyIconData(IconData(
-    0xeba9,
+    0xe73e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-running-dark-skin-tone-facing-right`
   static const IconifyIconData manRunningDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xebaa,
+    0xe73f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-running-facing-right`
   static const IconifyIconData manRunningFacingRight = IconifyIconData(IconData(
-    0xe348,
+    0xe740,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-running-light-skin-tone`
   static const IconifyIconData manRunningLightSkinTone = IconifyIconData(IconData(
-    0xe349,
+    0xe741,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-running-light-skin-tone-facing-right`
   static const IconifyIconData manRunningLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe34a,
+    0xe742,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-running-medium-dark-skin-tone`
   static const IconifyIconData manRunningMediumDarkSkinTone = IconifyIconData(IconData(
-    0xebab,
+    0xe743,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-running-medium-dark-skin-tone-facing-right`
   static const IconifyIconData manRunningMediumDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xebac,
+    0xe744,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-running-medium-light-skin-tone`
   static const IconifyIconData manRunningMediumLightSkinTone = IconifyIconData(IconData(
-    0xe34b,
+    0xe745,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-running-medium-light-skin-tone-facing-right`
   static const IconifyIconData manRunningMediumLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe34c,
+    0xe746,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-running-medium-skin-tone`
   static const IconifyIconData manRunningMediumSkinTone = IconifyIconData(IconData(
-    0xe34d,
+    0xe747,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-running-medium-skin-tone-facing-right`
   static const IconifyIconData manRunningMediumSkinToneFacingRight = IconifyIconData(IconData(
-    0xe34e,
+    0xe748,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-scientist`
   static const IconifyIconData manScientist = IconifyIconData(IconData(
-    0xebad,
+    0xe749,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-scientist-dark-skin-tone`
   static const IconifyIconData manScientistDarkSkinTone = IconifyIconData(IconData(
-    0xebae,
+    0xe74a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-scientist-light-skin-tone`
   static const IconifyIconData manScientistLightSkinTone = IconifyIconData(IconData(
-    0xebaf,
+    0xe74b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-scientist-medium-dark-skin-tone`
   static const IconifyIconData manScientistMediumDarkSkinTone = IconifyIconData(IconData(
-    0xebb0,
+    0xe74c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-scientist-medium-light-skin-tone`
   static const IconifyIconData manScientistMediumLightSkinTone = IconifyIconData(IconData(
-    0xe34f,
+    0xe74d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-scientist-medium-skin-tone`
   static const IconifyIconData manScientistMediumSkinTone = IconifyIconData(IconData(
-    0xebb1,
+    0xe74e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-shrugging`
   static const IconifyIconData manShrugging = IconifyIconData(IconData(
-    0xe350,
+    0xe74f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-shrugging-dark-skin-tone`
   static const IconifyIconData manShruggingDarkSkinTone = IconifyIconData(IconData(
-    0xebb2,
+    0xe750,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-shrugging-light-skin-tone`
   static const IconifyIconData manShruggingLightSkinTone = IconifyIconData(IconData(
-    0xebb3,
+    0xe751,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-shrugging-medium-dark-skin-tone`
   static const IconifyIconData manShruggingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xebb4,
+    0xe752,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-shrugging-medium-light-skin-tone`
   static const IconifyIconData manShruggingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe351,
+    0xe753,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-shrugging-medium-skin-tone`
   static const IconifyIconData manShruggingMediumSkinTone = IconifyIconData(IconData(
-    0xebb5,
+    0xe754,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-singer`
   static const IconifyIconData manSinger = IconifyIconData(IconData(
-    0xebb6,
+    0xe755,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-singer-dark-skin-tone`
   static const IconifyIconData manSingerDarkSkinTone = IconifyIconData(IconData(
-    0xebb7,
+    0xe756,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-singer-light-skin-tone`
   static const IconifyIconData manSingerLightSkinTone = IconifyIconData(IconData(
-    0xebb8,
+    0xe757,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-singer-medium-dark-skin-tone`
   static const IconifyIconData manSingerMediumDarkSkinTone = IconifyIconData(IconData(
-    0xebb9,
+    0xe758,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-singer-medium-light-skin-tone`
   static const IconifyIconData manSingerMediumLightSkinTone = IconifyIconData(IconData(
-    0xebba,
+    0xe759,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-singer-medium-skin-tone`
   static const IconifyIconData manSingerMediumSkinTone = IconifyIconData(IconData(
-    0xebbb,
+    0xe75a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-sneezing-into-elbow`
   static const IconifyIconData manSneezingIntoElbow = IconifyIconData(IconData(
-    0xe352,
+    0xe75b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-standing`
   static const IconifyIconData manStanding = IconifyIconData(IconData(
-    0xe353,
+    0xe75c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-standing-dark-skin-tone`
   static const IconifyIconData manStandingDarkSkinTone = IconifyIconData(IconData(
-    0xebbc,
+    0xe75d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-standing-light-skin-tone`
   static const IconifyIconData manStandingLightSkinTone = IconifyIconData(IconData(
-    0xe354,
+    0xe75e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-standing-medium-dark-skin-tone`
   static const IconifyIconData manStandingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xebbd,
+    0xe75f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-standing-medium-light-skin-tone`
   static const IconifyIconData manStandingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe355,
+    0xe760,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-standing-medium-skin-tone`
   static const IconifyIconData manStandingMediumSkinTone = IconifyIconData(IconData(
-    0xe356,
+    0xe761,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-student`
   static const IconifyIconData manStudent = IconifyIconData(IconData(
-    0xe357,
+    0xe762,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-student-dark-skin-tone`
   static const IconifyIconData manStudentDarkSkinTone = IconifyIconData(IconData(
-    0xebbe,
+    0xe763,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-student-light-skin-tone`
   static const IconifyIconData manStudentLightSkinTone = IconifyIconData(IconData(
-    0xebbf,
+    0xe764,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-student-medium-dark-skin-tone`
   static const IconifyIconData manStudentMediumDarkSkinTone = IconifyIconData(IconData(
-    0xebc0,
+    0xe765,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-student-medium-light-skin-tone`
   static const IconifyIconData manStudentMediumLightSkinTone = IconifyIconData(IconData(
-    0xe358,
+    0xe766,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-student-medium-skin-tone`
   static const IconifyIconData manStudentMediumSkinTone = IconifyIconData(IconData(
-    0xebc1,
+    0xe767,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-superhero`
   static const IconifyIconData manSuperhero = IconifyIconData(IconData(
-    0xebc2,
+    0xe768,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-superhero-dark-skin-tone`
   static const IconifyIconData manSuperheroDarkSkinTone = IconifyIconData(IconData(
-    0xebc3,
+    0xe769,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-superhero-light-skin-tone`
   static const IconifyIconData manSuperheroLightSkinTone = IconifyIconData(IconData(
-    0xebc4,
+    0xe76a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-superhero-medium-dark-skin-tone`
   static const IconifyIconData manSuperheroMediumDarkSkinTone = IconifyIconData(IconData(
-    0xebc5,
+    0xe76b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-superhero-medium-light-skin-tone`
   static const IconifyIconData manSuperheroMediumLightSkinTone = IconifyIconData(IconData(
-    0xebc6,
+    0xe76c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-superhero-medium-skin-tone`
   static const IconifyIconData manSuperheroMediumSkinTone = IconifyIconData(IconData(
-    0xebc7,
+    0xe76d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-supervillain`
   static const IconifyIconData manSupervillain = IconifyIconData(IconData(
-    0xebc8,
+    0xe76e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-supervillain-dark-skin-tone`
   static const IconifyIconData manSupervillainDarkSkinTone = IconifyIconData(IconData(
-    0xebc9,
+    0xe76f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-supervillain-medium-dark-skin-tone`
   static const IconifyIconData manSupervillainMediumDarkSkinTone = IconifyIconData(IconData(
-    0xebca,
+    0xe770,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-supervillain-medium-light-skin-tone`
   static const IconifyIconData manSupervillainMediumLightSkinTone = IconifyIconData(IconData(
-    0xebcb,
+    0xe771,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-surfing`
   static const IconifyIconData manSurfing = IconifyIconData(IconData(
-    0xe359,
+    0xe772,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-surfing-dark-skin-tone`
   static const IconifyIconData manSurfingDarkSkinTone = IconifyIconData(IconData(
-    0xebcc,
+    0xe773,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-surfing-light-skin-tone`
   static const IconifyIconData manSurfingLightSkinTone = IconifyIconData(IconData(
-    0xe35a,
+    0xe774,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-surfing-medium-dark-skin-tone`
   static const IconifyIconData manSurfingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xebcd,
+    0xe775,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-surfing-medium-light-skin-tone`
   static const IconifyIconData manSurfingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe35b,
+    0xe776,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-surfing-medium-skin-tone`
   static const IconifyIconData manSurfingMediumSkinTone = IconifyIconData(IconData(
-    0xe35c,
+    0xe777,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-swimming`
   static const IconifyIconData manSwimming = IconifyIconData(IconData(
-    0xe35d,
+    0xe778,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-swimming-dark-skin-tone`
   static const IconifyIconData manSwimmingDarkSkinTone = IconifyIconData(IconData(
-    0xebce,
+    0xe779,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-swimming-light-skin-tone`
   static const IconifyIconData manSwimmingLightSkinTone = IconifyIconData(IconData(
-    0xe35e,
+    0xe77a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-swimming-medium-dark-skin-tone`
   static const IconifyIconData manSwimmingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xebcf,
+    0xe77b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-swimming-medium-light-skin-tone`
   static const IconifyIconData manSwimmingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe35f,
+    0xe77c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-swimming-medium-skin-tone`
   static const IconifyIconData manSwimmingMediumSkinTone = IconifyIconData(IconData(
-    0xe360,
+    0xe77d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-technologist`
   static const IconifyIconData manTechnologist = IconifyIconData(IconData(
-    0xebd0,
+    0xe77e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-technologist-dark-skin-tone`
   static const IconifyIconData manTechnologistDarkSkinTone = IconifyIconData(IconData(
-    0xebd1,
+    0xe77f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-technologist-light-skin-tone`
   static const IconifyIconData manTechnologistLightSkinTone = IconifyIconData(IconData(
-    0xebd2,
+    0xe780,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-technologist-medium-dark-skin-tone`
   static const IconifyIconData manTechnologistMediumDarkSkinTone = IconifyIconData(IconData(
-    0xebd3,
+    0xe781,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-technologist-medium-light-skin-tone`
   static const IconifyIconData manTechnologistMediumLightSkinTone = IconifyIconData(IconData(
-    0xebd4,
+    0xe782,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-technologist-medium-skin-tone`
   static const IconifyIconData manTechnologistMediumSkinTone = IconifyIconData(IconData(
-    0xebd5,
+    0xe783,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-tipping-hand`
   static const IconifyIconData manTippingHand = IconifyIconData(IconData(
-    0xe361,
+    0xe784,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-tipping-hand-dark-skin-tone`
   static const IconifyIconData manTippingHandDarkSkinTone = IconifyIconData(IconData(
-    0xebd6,
+    0xe785,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-tipping-hand-light-skin-tone`
   static const IconifyIconData manTippingHandLightSkinTone = IconifyIconData(IconData(
-    0xebd7,
+    0xe786,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-tipping-hand-medium-dark-skin-tone`
   static const IconifyIconData manTippingHandMediumDarkSkinTone = IconifyIconData(IconData(
-    0xebd8,
+    0xe787,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-tipping-hand-medium-light-skin-tone`
   static const IconifyIconData manTippingHandMediumLightSkinTone = IconifyIconData(IconData(
-    0xe362,
+    0xe788,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-tipping-hand-medium-skin-tone`
   static const IconifyIconData manTippingHandMediumSkinTone = IconifyIconData(IconData(
-    0xebd9,
+    0xe789,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-vampire`
   static const IconifyIconData manVampire = IconifyIconData(IconData(
-    0xe363,
+    0xe78a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-vampire-dark-skin-tone`
   static const IconifyIconData manVampireDarkSkinTone = IconifyIconData(IconData(
-    0xebda,
+    0xe78b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-vampire-medium-dark-skin-tone`
   static const IconifyIconData manVampireMediumDarkSkinTone = IconifyIconData(IconData(
-    0xebdb,
+    0xe78c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-vampire-medium-light-skin-tone`
   static const IconifyIconData manVampireMediumLightSkinTone = IconifyIconData(IconData(
-    0xe364,
+    0xe78d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-walking`
   static const IconifyIconData manWalking = IconifyIconData(IconData(
-    0xe365,
+    0xe78e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-walking-dark-skin-tone`
   static const IconifyIconData manWalkingDarkSkinTone = IconifyIconData(IconData(
-    0xebdc,
+    0xe78f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-walking-dark-skin-tone-facing-right`
   static const IconifyIconData manWalkingDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xebdd,
+    0xe790,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-walking-facing-right`
   static const IconifyIconData manWalkingFacingRight = IconifyIconData(IconData(
-    0xe366,
+    0xe791,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-walking-light-skin-tone`
   static const IconifyIconData manWalkingLightSkinTone = IconifyIconData(IconData(
-    0xe367,
+    0xe792,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-walking-light-skin-tone-facing-right`
   static const IconifyIconData manWalkingLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe368,
+    0xe793,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-walking-medium-dark-skin-tone`
   static const IconifyIconData manWalkingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xebde,
+    0xe794,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-walking-medium-dark-skin-tone-facing-right`
   static const IconifyIconData manWalkingMediumDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xebdf,
+    0xe795,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-walking-medium-light-skin-tone`
   static const IconifyIconData manWalkingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe369,
+    0xe796,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-walking-medium-light-skin-tone-facing-right`
   static const IconifyIconData manWalkingMediumLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe36a,
+    0xe797,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-walking-medium-skin-tone`
   static const IconifyIconData manWalkingMediumSkinTone = IconifyIconData(IconData(
-    0xe36b,
+    0xe798,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-walking-medium-skin-tone-facing-right`
   static const IconifyIconData manWalkingMediumSkinToneFacingRight = IconifyIconData(IconData(
-    0xe36c,
+    0xe799,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-wearing-turban`
   static const IconifyIconData manWearingTurban = IconifyIconData(IconData(
-    0xebe0,
+    0xe79a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-wearing-turban-dark-skin-tone`
   static const IconifyIconData manWearingTurbanDarkSkinTone = IconifyIconData(IconData(
-    0xebe1,
+    0xe79b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-wearing-turban-light-skin-tone`
   static const IconifyIconData manWearingTurbanLightSkinTone = IconifyIconData(IconData(
-    0xebe2,
+    0xe79c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-wearing-turban-medium-dark-skin-tone`
   static const IconifyIconData manWearingTurbanMediumDarkSkinTone = IconifyIconData(IconData(
-    0xebe3,
+    0xe79d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-wearing-turban-medium-light-skin-tone`
   static const IconifyIconData manWearingTurbanMediumLightSkinTone = IconifyIconData(IconData(
-    0xebe4,
+    0xe79e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-wearing-turban-medium-skin-tone`
   static const IconifyIconData manWearingTurbanMediumSkinTone = IconifyIconData(IconData(
-    0xebe5,
+    0xe79f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-white-hair`
   static const IconifyIconData manWhiteHair = IconifyIconData(IconData(
-    0xebe6,
+    0xe7a0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-medical-mask`
   static const IconifyIconData manWithMedicalMask = IconifyIconData(IconData(
-    0xebe7,
+    0xe7a1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-probing-cane`
   static const IconifyIconData manWithProbingCane = IconifyIconData(IconData(
-    0xe36d,
+    0xe7a2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-probing-cane-dark-skin-tone`
   static const IconifyIconData manWithProbingCaneDarkSkinTone = IconifyIconData(IconData(
-    0xebe8,
+    0xe7a3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-probing-cane-light-skin-tone`
   static const IconifyIconData manWithProbingCaneLightSkinTone = IconifyIconData(IconData(
-    0xe36e,
+    0xe7a4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-probing-cane-medium-dark-skin-tone`
   static const IconifyIconData manWithProbingCaneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xebe9,
+    0xe7a5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-probing-cane-medium-light-skin-tone`
   static const IconifyIconData manWithProbingCaneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe36f,
+    0xe7a6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-probing-cane-medium-skin-tone`
   static const IconifyIconData manWithProbingCaneMediumSkinTone = IconifyIconData(IconData(
-    0xe370,
+    0xe7a7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-skullcap`
   static const IconifyIconData manWithSkullcap = IconifyIconData(IconData(
-    0xebea,
+    0xe7a8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-skullcap-dark-skin-tone`
   static const IconifyIconData manWithSkullcapDarkSkinTone = IconifyIconData(IconData(
-    0xebeb,
+    0xe7a9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-skullcap-light-skin-tone`
   static const IconifyIconData manWithSkullcapLightSkinTone = IconifyIconData(IconData(
-    0xebec,
+    0xe7aa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-skullcap-medium-dark-skin-tone`
   static const IconifyIconData manWithSkullcapMediumDarkSkinTone = IconifyIconData(IconData(
-    0xebed,
+    0xe7ab,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-skullcap-medium-light-skin-tone`
   static const IconifyIconData manWithSkullcapMediumLightSkinTone = IconifyIconData(IconData(
-    0xebee,
+    0xe7ac,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-skullcap-medium-skin-tone`
   static const IconifyIconData manWithSkullcapMediumSkinTone = IconifyIconData(IconData(
-    0xebef,
+    0xe7ad,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-veil`
   static const IconifyIconData manWithVeil = IconifyIconData(IconData(
-    0xe371,
+    0xe7ae,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-veil-dark-skin-tone`
   static const IconifyIconData manWithVeilDarkSkinTone = IconifyIconData(IconData(
-    0xebf0,
+    0xe7af,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-veil-light-skin-tone`
   static const IconifyIconData manWithVeilLightSkinTone = IconifyIconData(IconData(
-    0xebf1,
+    0xe7b0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-veil-medium-dark-skin-tone`
   static const IconifyIconData manWithVeilMediumDarkSkinTone = IconifyIconData(IconData(
-    0xebf2,
+    0xe7b1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-veil-medium-light-skin-tone`
   static const IconifyIconData manWithVeilMediumLightSkinTone = IconifyIconData(IconData(
-    0xe372,
+    0xe7b2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-veil-medium-skin-tone`
   static const IconifyIconData manWithVeilMediumSkinTone = IconifyIconData(IconData(
-    0xebf3,
+    0xe7b3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-white-cane`
   static const IconifyIconData manWithWhiteCane = IconifyIconData(IconData(
-    0xe373,
+    0xe7b4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-white-cane-dark-skin-tone`
   static const IconifyIconData manWithWhiteCaneDarkSkinTone = IconifyIconData(IconData(
-    0xebf4,
+    0xe7b5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-white-cane-dark-skin-tone-facing-right`
   static const IconifyIconData manWithWhiteCaneDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xebf5,
+    0xe7b6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-white-cane-facing-right`
   static const IconifyIconData manWithWhiteCaneFacingRight = IconifyIconData(IconData(
-    0xe374,
+    0xe7b7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-white-cane-light-skin-tone`
   static const IconifyIconData manWithWhiteCaneLightSkinTone = IconifyIconData(IconData(
-    0xe375,
+    0xe7b8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-white-cane-light-skin-tone-facing-right`
   static const IconifyIconData manWithWhiteCaneLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe376,
+    0xe7b9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-white-cane-medium-dark-skin-tone`
   static const IconifyIconData manWithWhiteCaneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xebf6,
+    0xe7ba,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-white-cane-medium-dark-skin-tone-facing-right`
   static const IconifyIconData manWithWhiteCaneMediumDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xebf7,
+    0xe7bb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-white-cane-medium-light-skin-tone`
   static const IconifyIconData manWithWhiteCaneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe377,
+    0xe7bc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-white-cane-medium-light-skin-tone-facing-right`
   static const IconifyIconData manWithWhiteCaneMediumLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe378,
+    0xe7bd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-white-cane-medium-skin-tone`
   static const IconifyIconData manWithWhiteCaneMediumSkinTone = IconifyIconData(IconData(
-    0xe379,
+    0xe7be,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-with-white-cane-medium-skin-tone-facing-right`
   static const IconifyIconData manWithWhiteCaneMediumSkinToneFacingRight = IconifyIconData(IconData(
-    0xe37a,
+    0xe7bf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `man-zombie`
   static const IconifyIconData manZombie = IconifyIconData(IconData(
-    0xebf8,
+    0xe7c0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mango`
   static const IconifyIconData mango = IconifyIconData(IconData(
-    0xe37b,
+    0xe7c1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `manual-wheelchair`
   static const IconifyIconData manualWheelchair = IconifyIconData(IconData(
-    0xe37c,
+    0xe7c2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `map-of-japan`
   static const IconifyIconData mapOfJapan = IconifyIconData(IconData(
-    0xe37d,
+    0xe7c3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `maple-leaf`
   static const IconifyIconData mapleLeaf = IconifyIconData(IconData(
-    0xe37e,
+    0xe7c4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `maracas`
   static const IconifyIconData maracas = IconifyIconData(IconData(
-    0xebf9,
+    0xe7c5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mark`
   static const IconifyIconData mark = IconifyIconData(IconData(
-    0xe37f,
+    0xe7c6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `markdown`
   static const IconifyIconData markdown = IconifyIconData(IconData(
-    0xe380,
+    0xe7c7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `martial-arts-uniform`
   static const IconifyIconData martialArtsUniform = IconifyIconData(IconData(
-    0xe381,
+    0xe7c8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mate`
   static const IconifyIconData mate = IconifyIconData(IconData(
-    0xebfa,
+    0xe7c9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `maultasche`
   static const IconifyIconData maultasche = IconifyIconData(IconData(
-    0xe382,
+    0xe7ca,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mausoleum-at-halicarnassus`
   static const IconifyIconData mausoleumAtHalicarnassus = IconifyIconData(IconData(
-    0xe383,
+    0xe7cb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `meat-consumption`
   static const IconifyIconData meatConsumption = IconifyIconData(IconData(
-    0xe384,
+    0xe7cc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `meat-on-bone`
   static const IconifyIconData meatOnBone = IconifyIconData(IconData(
-    0xe385,
+    0xe7cd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mechanic`
   static const IconifyIconData mechanic = IconifyIconData(IconData(
-    0xebfb,
+    0xe7ce,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mechanic-dark-skin-tone`
   static const IconifyIconData mechanicDarkSkinTone = IconifyIconData(IconData(
-    0xebfc,
+    0xe7cf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mechanic-light-skin-tone`
   static const IconifyIconData mechanicLightSkinTone = IconifyIconData(IconData(
-    0xebfd,
+    0xe7d0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mechanic-medium-dark-skin-tone`
   static const IconifyIconData mechanicMediumDarkSkinTone = IconifyIconData(IconData(
-    0xebfe,
+    0xe7d1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mechanic-medium-light-skin-tone`
   static const IconifyIconData mechanicMediumLightSkinTone = IconifyIconData(IconData(
-    0xebff,
+    0xe7d2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mechanic-medium-skin-tone`
   static const IconifyIconData mechanicMediumSkinTone = IconifyIconData(IconData(
-    0xec00,
+    0xe7d3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mechanical-arm`
   static const IconifyIconData mechanicalArm = IconifyIconData(IconData(
-    0xe386,
+    0xe7d4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mechanical-leg`
   static const IconifyIconData mechanicalLeg = IconifyIconData(IconData(
-    0xe387,
+    0xe7d5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `medical-gloves`
   static const IconifyIconData medicalGloves = IconifyIconData(IconData(
-    0xec01,
+    0xe7d6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `medical-symbol`
   static const IconifyIconData medicalSymbol = IconifyIconData(IconData(
-    0xec02,
+    0xe7d7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `medication`
   static const IconifyIconData medication = IconifyIconData(IconData(
-    0xe388,
+    0xe7d8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `medium-light-skin-tone`
   static const IconifyIconData mediumLightSkinTone = IconifyIconData(IconData(
-    0xe389,
+    0xe7d9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `medium-skin-tone`
   static const IconifyIconData mediumSkinTone = IconifyIconData(IconData(
-    0xe38a,
+    0xe7da,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `megaphone`
   static const IconifyIconData megaphone = IconifyIconData(IconData(
-    0xe38b,
+    0xe7db,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `melon`
   static const IconifyIconData melon = IconifyIconData(IconData(
-    0xec03,
+    0xe7dc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `melting-face`
   static const IconifyIconData meltingFace = IconifyIconData(IconData(
-    0xe38c,
+    0xe7dd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `memo`
   static const IconifyIconData memo = IconifyIconData(IconData(
-    0xec04,
+    0xe7de,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands`
   static const IconifyIconData menHoldingHands = IconifyIconData(IconData(
-    0xec05,
+    0xe7df,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-dark-skin-tone`
   static const IconifyIconData menHoldingHandsDarkSkinTone = IconifyIconData(IconData(
-    0xec06,
+    0xe7e0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-dark-skin-tone-light-skin-tone`
   static const IconifyIconData menHoldingHandsDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xec07,
+    0xe7e1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-dark-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData menHoldingHandsDarkSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec08,
+    0xe7e2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData menHoldingHandsDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xec09,
+    0xe7e3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData menHoldingHandsDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xec0a,
+    0xe7e4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-light-skin-tone`
   static const IconifyIconData menHoldingHandsLightSkinTone = IconifyIconData(IconData(
-    0xec0b,
+    0xe7e5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-light-skin-tone-dark-skin-tone`
   static const IconifyIconData menHoldingHandsLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xec0c,
+    0xe7e6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData menHoldingHandsLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec0d,
+    0xe7e7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-light-skin-tone-medium-light-skin-tone`
   static const IconifyIconData menHoldingHandsLightSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xec0e,
+    0xe7e8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-light-skin-tone-medium-skin-tone`
   static const IconifyIconData menHoldingHandsLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xec0f,
+    0xe7e9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-medium-dark-skin-tone`
   static const IconifyIconData menHoldingHandsMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec10,
+    0xe7ea,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-medium-dark-skin-tone-dark-skin-tone`
   static const IconifyIconData menHoldingHandsMediumDarkSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xec11,
+    0xe7eb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-medium-dark-skin-tone-light-skin-tone`
   static const IconifyIconData menHoldingHandsMediumDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xec12,
+    0xe7ec,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-medium-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData menHoldingHandsMediumDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xec13,
+    0xe7ed,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-medium-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData menHoldingHandsMediumDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xec14,
+    0xe7ee,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-medium-light-skin-tone`
   static const IconifyIconData menHoldingHandsMediumLightSkinTone = IconifyIconData(IconData(
-    0xec15,
+    0xe7ef,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-medium-light-skin-tone-dark-skin-tone`
   static const IconifyIconData menHoldingHandsMediumLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xec16,
+    0xe7f0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-medium-light-skin-tone-light-skin-tone`
   static const IconifyIconData menHoldingHandsMediumLightSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xec17,
+    0xe7f1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-medium-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData menHoldingHandsMediumLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec18,
+    0xe7f2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-medium-light-skin-tone-medium-skin-tone`
   static const IconifyIconData menHoldingHandsMediumLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xec19,
+    0xe7f3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-medium-skin-tone`
   static const IconifyIconData menHoldingHandsMediumSkinTone = IconifyIconData(IconData(
-    0xec1a,
+    0xe7f4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-medium-skin-tone-dark-skin-tone`
   static const IconifyIconData menHoldingHandsMediumSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xec1b,
+    0xe7f5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-medium-skin-tone-light-skin-tone`
   static const IconifyIconData menHoldingHandsMediumSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xec1c,
+    0xe7f6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-medium-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData menHoldingHandsMediumSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec1d,
+    0xe7f7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-holding-hands-medium-skin-tone-medium-light-skin-tone`
   static const IconifyIconData menHoldingHandsMediumSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xec1e,
+    0xe7f8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears`
   static const IconifyIconData menWithBunnyEars = IconifyIconData(IconData(
-    0xe38d,
+    0xe7f9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-dark-skin-tone`
   static const IconifyIconData menWithBunnyEarsDarkSkinTone = IconifyIconData(IconData(
-    0xec1f,
+    0xe7fa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-dark-skin-tone-light-skin-tone`
   static const IconifyIconData menWithBunnyEarsDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xec20,
+    0xe7fb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-dark-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData menWithBunnyEarsDarkSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec21,
+    0xe7fc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData menWithBunnyEarsDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xec22,
+    0xe7fd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData menWithBunnyEarsDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xec23,
+    0xe7fe,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-light-skin-tone`
   static const IconifyIconData menWithBunnyEarsLightSkinTone = IconifyIconData(IconData(
-    0xe38e,
+    0xe7ff,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-light-skin-tone-dark-skin-tone`
   static const IconifyIconData menWithBunnyEarsLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xec24,
+    0xe800,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData menWithBunnyEarsLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec25,
+    0xe801,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-light-skin-tone-medium-light-skin-tone`
   static const IconifyIconData menWithBunnyEarsLightSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe38f,
+    0xe802,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-light-skin-tone-medium-skin-tone`
   static const IconifyIconData menWithBunnyEarsLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe390,
+    0xe803,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-medium-dark-skin-tone`
   static const IconifyIconData menWithBunnyEarsMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec26,
+    0xe804,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-medium-dark-skin-tone-dark-skin-tone`
   static const IconifyIconData menWithBunnyEarsMediumDarkSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xec27,
+    0xe805,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-medium-dark-skin-tone-light-skin-tone`
   static const IconifyIconData menWithBunnyEarsMediumDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xec28,
+    0xe806,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-medium-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData menWithBunnyEarsMediumDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xec29,
+    0xe807,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-medium-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData menWithBunnyEarsMediumDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xec2a,
+    0xe808,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-medium-light-skin-tone`
   static const IconifyIconData menWithBunnyEarsMediumLightSkinTone = IconifyIconData(IconData(
-    0xe391,
+    0xe809,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-medium-light-skin-tone-dark-skin-tone`
   static const IconifyIconData menWithBunnyEarsMediumLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xec2b,
+    0xe80a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-medium-light-skin-tone-light-skin-tone`
   static const IconifyIconData menWithBunnyEarsMediumLightSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe392,
+    0xe80b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-medium-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData menWithBunnyEarsMediumLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec2c,
+    0xe80c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-medium-light-skin-tone-medium-skin-tone`
   static const IconifyIconData menWithBunnyEarsMediumLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe393,
+    0xe80d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-medium-skin-tone`
   static const IconifyIconData menWithBunnyEarsMediumSkinTone = IconifyIconData(IconData(
-    0xe394,
+    0xe80e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-medium-skin-tone-dark-skin-tone`
   static const IconifyIconData menWithBunnyEarsMediumSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xec2d,
+    0xe80f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-medium-skin-tone-light-skin-tone`
   static const IconifyIconData menWithBunnyEarsMediumSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe395,
+    0xe810,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-medium-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData menWithBunnyEarsMediumSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec2e,
+    0xe811,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-with-bunny-ears-medium-skin-tone-medium-light-skin-tone`
   static const IconifyIconData menWithBunnyEarsMediumSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe396,
+    0xe812,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling`
   static const IconifyIconData menWrestling = IconifyIconData(IconData(
-    0xe397,
+    0xe813,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-dark-skin-tone`
   static const IconifyIconData menWrestlingDarkSkinTone = IconifyIconData(IconData(
-    0xec2f,
+    0xe814,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-dark-skin-tone-light-skin-tone`
   static const IconifyIconData menWrestlingDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xec30,
+    0xe815,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-dark-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData menWrestlingDarkSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec31,
+    0xe816,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData menWrestlingDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xec32,
+    0xe817,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData menWrestlingDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xec33,
+    0xe818,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-light-skin-tone`
   static const IconifyIconData menWrestlingLightSkinTone = IconifyIconData(IconData(
-    0xe398,
+    0xe819,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-light-skin-tone-dark-skin-tone`
   static const IconifyIconData menWrestlingLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xec34,
+    0xe81a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData menWrestlingLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec35,
+    0xe81b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-light-skin-tone-medium-light-skin-tone`
   static const IconifyIconData menWrestlingLightSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe399,
+    0xe81c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-light-skin-tone-medium-skin-tone`
   static const IconifyIconData menWrestlingLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe39a,
+    0xe81d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-medium-dark-skin-tone`
   static const IconifyIconData menWrestlingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec36,
+    0xe81e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-medium-dark-skin-tone-dark-skin-tone`
   static const IconifyIconData menWrestlingMediumDarkSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xec37,
+    0xe81f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-medium-dark-skin-tone-light-skin-tone`
   static const IconifyIconData menWrestlingMediumDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xec38,
+    0xe820,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-medium-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData menWrestlingMediumDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xec39,
+    0xe821,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-medium-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData menWrestlingMediumDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xec3a,
+    0xe822,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-medium-light-skin-tone`
   static const IconifyIconData menWrestlingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe39b,
+    0xe823,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-medium-light-skin-tone-dark-skin-tone`
   static const IconifyIconData menWrestlingMediumLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xec3b,
+    0xe824,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-medium-light-skin-tone-light-skin-tone`
   static const IconifyIconData menWrestlingMediumLightSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe39c,
+    0xe825,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-medium-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData menWrestlingMediumLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec3c,
+    0xe826,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-medium-light-skin-tone-medium-skin-tone`
   static const IconifyIconData menWrestlingMediumLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe39d,
+    0xe827,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-medium-skin-tone`
   static const IconifyIconData menWrestlingMediumSkinTone = IconifyIconData(IconData(
-    0xe39e,
+    0xe828,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-medium-skin-tone-dark-skin-tone`
   static const IconifyIconData menWrestlingMediumSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xec3d,
+    0xe829,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-medium-skin-tone-light-skin-tone`
   static const IconifyIconData menWrestlingMediumSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe39f,
+    0xe82a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-medium-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData menWrestlingMediumSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec3e,
+    0xe82b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `men-wrestling-medium-skin-tone-medium-light-skin-tone`
   static const IconifyIconData menWrestlingMediumSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe3a0,
+    0xe82c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mending-heart`
   static const IconifyIconData mendingHeart = IconifyIconData(IconData(
-    0xe3a1,
+    0xe82d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `menorah`
   static const IconifyIconData menorah = IconifyIconData(IconData(
-    0xec3f,
+    0xe82e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mens-room`
   static const IconifyIconData mensRoom = IconifyIconData(IconData(
-    0xe3a2,
+    0xe82f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mermaid`
   static const IconifyIconData mermaid = IconifyIconData(IconData(
-    0xe3a3,
+    0xe830,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mermaid-dark-skin-tone`
   static const IconifyIconData mermaidDarkSkinTone = IconifyIconData(IconData(
-    0xec40,
+    0xe831,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mermaid-light-skin-tone`
   static const IconifyIconData mermaidLightSkinTone = IconifyIconData(IconData(
-    0xec41,
+    0xe832,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mermaid-medium-dark-skin-tone`
   static const IconifyIconData mermaidMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec42,
+    0xe833,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mermaid-medium-light-skin-tone`
   static const IconifyIconData mermaidMediumLightSkinTone = IconifyIconData(IconData(
-    0xe3a4,
+    0xe834,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mermaid-medium-skin-tone`
   static const IconifyIconData mermaidMediumSkinTone = IconifyIconData(IconData(
-    0xec43,
+    0xe835,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `metro`
   static const IconifyIconData metro = IconifyIconData(IconData(
-    0xe3a5,
+    0xe836,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `microbe`
   static const IconifyIconData microbe = IconifyIconData(IconData(
-    0xec44,
+    0xe837,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `microbe2`
   static const IconifyIconData microbe2 = IconifyIconData(IconData(
-    0xec45,
+    0xe838,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `microphone`
   static const IconifyIconData microphone = IconifyIconData(IconData(
-    0xe3a6,
+    0xe839,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `microscope`
   static const IconifyIconData microscope = IconifyIconData(IconData(
-    0xe3a7,
+    0xe83a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `middle-finger`
   static const IconifyIconData middleFinger = IconifyIconData(IconData(
-    0xe3a8,
+    0xe83b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `middle-finger-dark-skin-tone`
   static const IconifyIconData middleFingerDarkSkinTone = IconifyIconData(IconData(
-    0xec46,
+    0xe83c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `middle-finger-light-skin-tone`
   static const IconifyIconData middleFingerLightSkinTone = IconifyIconData(IconData(
-    0xe3a9,
+    0xe83d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `middle-finger-medium-dark-skin-tone`
   static const IconifyIconData middleFingerMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec47,
+    0xe83e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `middle-finger-medium-light-skin-tone`
   static const IconifyIconData middleFingerMediumLightSkinTone = IconifyIconData(IconData(
-    0xe3aa,
+    0xe83f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `middle-finger-medium-skin-tone`
   static const IconifyIconData middleFingerMediumSkinTone = IconifyIconData(IconData(
-    0xe3ab,
+    0xe840,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `military-helmet`
   static const IconifyIconData militaryHelmet = IconifyIconData(IconData(
-    0xec48,
+    0xe841,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `military-medal`
   static const IconifyIconData militaryMedal = IconifyIconData(IconData(
-    0xec49,
+    0xe842,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `milk-jug`
   static const IconifyIconData milkJug = IconifyIconData(IconData(
-    0xe3ac,
+    0xe843,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `milky-way`
   static const IconifyIconData milkyWay = IconifyIconData(IconData(
-    0xec4a,
+    0xe844,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `minibus`
   static const IconifyIconData minibus = IconifyIconData(IconData(
-    0xe3ad,
+    0xe845,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `minus`
   static const IconifyIconData minus = IconifyIconData(IconData(
-    0xe3ae,
+    0xe846,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `minus-sign`
   static const IconifyIconData minusSign = IconifyIconData(IconData(
-    0xe3af,
+    0xe847,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mirror`
   static const IconifyIconData mirror = IconifyIconData(IconData(
-    0xe3b0,
+    0xe848,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mirror-ball`
   static const IconifyIconData mirrorBall = IconifyIconData(IconData(
-    0xec4b,
+    0xe849,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `moai`
   static const IconifyIconData moai = IconifyIconData(IconData(
-    0xe3b1,
+    0xe84a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mobile-info`
   static const IconifyIconData mobileInfo = IconifyIconData(IconData(
-    0xe3b2,
+    0xe84b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mobile-message`
   static const IconifyIconData mobileMessage = IconifyIconData(IconData(
-    0xe3b3,
+    0xe84c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mobile-phone`
   static const IconifyIconData mobilePhone = IconifyIconData(IconData(
-    0xe3b4,
+    0xe84d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mobile-phone-off`
   static const IconifyIconData mobilePhoneOff = IconifyIconData(IconData(
-    0xe3b5,
+    0xe84e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mobile-phone-with-arrow`
   static const IconifyIconData mobilePhoneWithArrow = IconifyIconData(IconData(
-    0xe3b6,
+    0xe84f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `moka-pot`
   static const IconifyIconData mokaPot = IconifyIconData(IconData(
-    0xec4c,
+    0xe850,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `money-mouth-face`
   static const IconifyIconData moneyMouthFace = IconifyIconData(IconData(
-    0xe3b7,
+    0xe851,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `money-with-wings`
   static const IconifyIconData moneyWithWings = IconifyIconData(IconData(
-    0xec4d,
+    0xe852,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `monkey-face`
   static const IconifyIconData monkeyFace = IconifyIconData(IconData(
-    0xe3b8,
+    0xe853,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `monorail`
   static const IconifyIconData monorail = IconifyIconData(IconData(
-    0xec4e,
+    0xe854,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `moon-viewing-ceremony`
   static const IconifyIconData moonViewingCeremony = IconifyIconData(IconData(
-    0xec4f,
+    0xe855,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `more-information`
   static const IconifyIconData moreInformation = IconifyIconData(IconData(
-    0xe3b9,
+    0xe856,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mosque`
   static const IconifyIconData mosque = IconifyIconData(IconData(
-    0xe3ba,
+    0xe857,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mosquito`
   static const IconifyIconData mosquito = IconifyIconData(IconData(
-    0xe3bb,
+    0xe858,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `motor`
   static const IconifyIconData motor = IconifyIconData(IconData(
-    0xe3bc,
+    0xe859,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `motor-boat`
   static const IconifyIconData motorBoat = IconifyIconData(IconData(
-    0xe3bd,
+    0xe85a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `motor-scooter`
   static const IconifyIconData motorScooter = IconifyIconData(IconData(
-    0xec50,
+    0xe85b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `motorbike-helmet`
   static const IconifyIconData motorbikeHelmet = IconifyIconData(IconData(
-    0xec51,
+    0xe85c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `motorcycle`
   static const IconifyIconData motorcycle = IconifyIconData(IconData(
-    0xe3be,
+    0xe85d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `motorway`
   static const IconifyIconData motorway = IconifyIconData(IconData(
-    0xec52,
+    0xe85e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mount-fuji`
   static const IconifyIconData mountFuji = IconifyIconData(IconData(
-    0xe3bf,
+    0xe85f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mountain`
   static const IconifyIconData mountain = IconifyIconData(IconData(
-    0xe3c0,
+    0xe860,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mountain-cableway`
   static const IconifyIconData mountainCableway = IconifyIconData(IconData(
-    0xec53,
+    0xe861,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mountain-railway`
   static const IconifyIconData mountainRailway = IconifyIconData(IconData(
-    0xe3c1,
+    0xe862,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mouse`
   static const IconifyIconData mouse = IconifyIconData(IconData(
-    0xe3c2,
+    0xe863,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mouse-face`
   static const IconifyIconData mouseFace = IconifyIconData(IconData(
-    0xe3c3,
+    0xe864,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mouse-scroll`
   static const IconifyIconData mouseScroll = IconifyIconData(IconData(
-    0xe3c4,
+    0xe865,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mouse-trap`
   static const IconifyIconData mouseTrap = IconifyIconData(IconData(
-    0xec54,
+    0xe866,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mouth`
   static const IconifyIconData mouth = IconifyIconData(IconData(
-    0xec55,
+    0xe867,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `move`
   static const IconifyIconData move = IconifyIconData(IconData(
-    0xe3c5,
+    0xe868,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `movie-camera`
   static const IconifyIconData movieCamera = IconifyIconData(IconData(
-    0xe3c6,
+    0xe869,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mrs-claus`
   static const IconifyIconData mrsClaus = IconifyIconData(IconData(
-    0xe3c7,
+    0xe86a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mrs-claus-dark-skin-tone`
   static const IconifyIconData mrsClausDarkSkinTone = IconifyIconData(IconData(
-    0xec56,
+    0xe86b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mrs-claus-light-skin-tone`
   static const IconifyIconData mrsClausLightSkinTone = IconifyIconData(IconData(
-    0xe3c8,
+    0xe86c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mrs-claus-medium-dark-skin-tone`
   static const IconifyIconData mrsClausMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec57,
+    0xe86d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mrs-claus-medium-light-skin-tone`
   static const IconifyIconData mrsClausMediumLightSkinTone = IconifyIconData(IconData(
-    0xe3c9,
+    0xe86e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mrs-claus-medium-skin-tone`
   static const IconifyIconData mrsClausMediumSkinTone = IconifyIconData(IconData(
-    0xe3ca,
+    0xe86f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `multiplication-sign`
   static const IconifyIconData multiplicationSign = IconifyIconData(IconData(
-    0xe3cb,
+    0xe870,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `multiply`
   static const IconifyIconData multiply = IconifyIconData(IconData(
-    0xe3cc,
+    0xe871,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `murcia-flag`
   static const IconifyIconData murciaFlag = IconifyIconData(IconData(
-    0xec58,
+    0xe872,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mushroom`
   static const IconifyIconData mushroom = IconifyIconData(IconData(
-    0xe3cd,
+    0xe873,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `musical-keyboard`
   static const IconifyIconData musicalKeyboard = IconifyIconData(IconData(
-    0xe3ce,
+    0xe874,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `musical-note`
   static const IconifyIconData musicalNote = IconifyIconData(IconData(
-    0xe3cf,
+    0xe875,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `musical-notes`
   static const IconifyIconData musicalNotes = IconifyIconData(IconData(
-    0xe3d0,
+    0xe876,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `musical-score`
   static const IconifyIconData musicalScore = IconifyIconData(IconData(
-    0xe3d1,
+    0xe877,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `muted-speaker`
   static const IconifyIconData mutedSpeaker = IconifyIconData(IconData(
-    0xe3d2,
+    0xe878,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mx-claus`
   static const IconifyIconData mxClaus = IconifyIconData(IconData(
-    0xec59,
+    0xe879,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mx-claus-dark-skin-tone`
   static const IconifyIconData mxClausDarkSkinTone = IconifyIconData(IconData(
-    0xec5a,
+    0xe87a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mx-claus-light-skin-tone`
   static const IconifyIconData mxClausLightSkinTone = IconifyIconData(IconData(
-    0xec5b,
+    0xe87b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mx-claus-medium-dark-skin-tone`
   static const IconifyIconData mxClausMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec5c,
+    0xe87c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mx-claus-medium-light-skin-tone`
   static const IconifyIconData mxClausMediumLightSkinTone = IconifyIconData(IconData(
-    0xe3d3,
+    0xe87d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `mx-claus-medium-skin-tone`
   static const IconifyIconData mxClausMediumSkinTone = IconifyIconData(IconData(
-    0xec5d,
+    0xe87e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nail-and-gear-flag`
   static const IconifyIconData nailAndGearFlag = IconifyIconData(IconData(
-    0xe3d4,
+    0xe87f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nail-polish`
   static const IconifyIconData nailPolish = IconifyIconData(IconData(
-    0xec5e,
+    0xe880,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nail-polish-dark-skin-tone`
   static const IconifyIconData nailPolishDarkSkinTone = IconifyIconData(IconData(
-    0xec5f,
+    0xe881,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nail-polish-light-skin-tone`
   static const IconifyIconData nailPolishLightSkinTone = IconifyIconData(IconData(
-    0xec60,
+    0xe882,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nail-polish-medium-dark-skin-tone`
   static const IconifyIconData nailPolishMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec61,
+    0xe883,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nail-polish-medium-light-skin-tone`
   static const IconifyIconData nailPolishMediumLightSkinTone = IconifyIconData(IconData(
-    0xec62,
+    0xe884,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nail-polish-medium-skin-tone`
   static const IconifyIconData nailPolishMediumSkinTone = IconifyIconData(IconData(
-    0xec63,
+    0xe885,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `name-badge`
   static const IconifyIconData nameBadge = IconifyIconData(IconData(
-    0xe3d5,
+    0xe886,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `narwhal`
   static const IconifyIconData narwhal = IconifyIconData(IconData(
-    0xe3d6,
+    0xe887,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `national-park`
   static const IconifyIconData nationalPark = IconifyIconData(IconData(
-    0xe3d7,
+    0xe888,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nauseated-face`
   static const IconifyIconData nauseatedFace = IconifyIconData(IconData(
-    0xe3d8,
+    0xe889,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `navarra-chartered-community`
   static const IconifyIconData navarraCharteredCommunity = IconifyIconData(IconData(
-    0xec64,
+    0xe88a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nerd-face`
   static const IconifyIconData nerdFace = IconifyIconData(IconData(
-    0xe3d9,
+    0xe88b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nesting-dolls`
   static const IconifyIconData nestingDolls = IconifyIconData(IconData(
-    0xec65,
+    0xe88c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `neutral-face`
   static const IconifyIconData neutralFace = IconifyIconData(IconData(
-    0xe3da,
+    0xe88d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `new-button`
   static const IconifyIconData newButton = IconifyIconData(IconData(
-    0xe3db,
+    0xe88e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `new-moon`
   static const IconifyIconData newMoon = IconifyIconData(IconData(
-    0xe3dc,
+    0xe88f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `new-moon-face`
   static const IconifyIconData newMoonFace = IconifyIconData(IconData(
-    0xe3dd,
+    0xe890,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `newspaper`
   static const IconifyIconData newspaper = IconifyIconData(IconData(
-    0xe3de,
+    0xe891,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `next-track-button`
   static const IconifyIconData nextTrackButton = IconifyIconData(IconData(
-    0xe3df,
+    0xe892,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ng-button`
   static const IconifyIconData ngButton = IconifyIconData(IconData(
-    0xe3e0,
+    0xe893,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nine-oclock`
   static const IconifyIconData nineOclock = IconifyIconData(IconData(
-    0xec66,
+    0xe894,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nine-thirty`
   static const IconifyIconData nineThirty = IconifyIconData(IconData(
-    0xec67,
+    0xe895,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ninja`
   static const IconifyIconData ninja = IconifyIconData(IconData(
-    0xe3e1,
+    0xe896,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ninja-dark-skin-tone`
   static const IconifyIconData ninjaDarkSkinTone = IconifyIconData(IconData(
-    0xec68,
+    0xe897,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ninja-light-skin-tone`
   static const IconifyIconData ninjaLightSkinTone = IconifyIconData(IconData(
-    0xe3e2,
+    0xe898,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ninja-medium-dark-skin-tone`
   static const IconifyIconData ninjaMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec69,
+    0xe899,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ninja-medium-light-skin-tone`
   static const IconifyIconData ninjaMediumLightSkinTone = IconifyIconData(IconData(
-    0xe3e3,
+    0xe89a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ninja-medium-skin-tone`
   static const IconifyIconData ninjaMediumSkinTone = IconifyIconData(IconData(
-    0xe3e4,
+    0xe89b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `no-bicycles`
   static const IconifyIconData noBicycles = IconifyIconData(IconData(
-    0xe3e5,
+    0xe89c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `no-entry`
   static const IconifyIconData noEntry = IconifyIconData(IconData(
-    0xe3e6,
+    0xe89d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `no-handshaking`
   static const IconifyIconData noHandshaking = IconifyIconData(IconData(
-    0xe3e7,
+    0xe89e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `no-littering`
   static const IconifyIconData noLittering = IconifyIconData(IconData(
-    0xe3e8,
+    0xe89f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `no-mobile-phones`
   static const IconifyIconData noMobilePhones = IconifyIconData(IconData(
-    0xe3e9,
+    0xe8a0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `no-one-under-eighteen`
   static const IconifyIconData noOneUnderEighteen = IconifyIconData(IconData(
-    0xe3ea,
+    0xe8a1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `no-pedestrians`
   static const IconifyIconData noPedestrians = IconifyIconData(IconData(
-    0xe3eb,
+    0xe8a2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `no-smoking`
   static const IconifyIconData noSmoking = IconifyIconData(IconData(
-    0xe3ec,
+    0xe8a3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `no-stencil`
   static const IconifyIconData noStencil = IconifyIconData(IconData(
-    0xe3ed,
+    0xe8a4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `non-potable-water`
   static const IconifyIconData nonPotableWater = IconifyIconData(IconData(
-    0xe3ee,
+    0xe8a5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nonbinary`
   static const IconifyIconData nonbinary = IconifyIconData(IconData(
-    0xec6a,
+    0xe8a6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `north`
   static const IconifyIconData north = IconifyIconData(IconData(
-    0xe3ef,
+    0xe8a7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nose`
   static const IconifyIconData nose = IconifyIconData(IconData(
-    0xe3f0,
+    0xe8a8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nose-dark-skin-tone`
   static const IconifyIconData noseDarkSkinTone = IconifyIconData(IconData(
-    0xec6b,
+    0xe8a9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nose-light-skin-tone`
   static const IconifyIconData noseLightSkinTone = IconifyIconData(IconData(
-    0xe3f1,
+    0xe8aa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nose-medium-dark-skin-tone`
   static const IconifyIconData noseMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec6c,
+    0xe8ab,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nose-medium-light-skin-tone`
   static const IconifyIconData noseMediumLightSkinTone = IconifyIconData(IconData(
-    0xe3f2,
+    0xe8ac,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nose-medium-skin-tone`
   static const IconifyIconData noseMediumSkinTone = IconifyIconData(IconData(
-    0xe3f3,
+    0xe8ad,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `notebook`
   static const IconifyIconData notebook = IconifyIconData(IconData(
-    0xe3f4,
+    0xe8ae,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `notebook-with-decorative-cover`
   static const IconifyIconData notebookWithDecorativeCover = IconifyIconData(IconData(
-    0xe3f5,
+    0xe8af,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nuclear-power-plant`
   static const IconifyIconData nuclearPowerPlant = IconifyIconData(IconData(
-    0xe3f6,
+    0xe8b0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nuclear-power-plant-ruin`
   static const IconifyIconData nuclearPowerPlantRuin = IconifyIconData(IconData(
-    0xe3f7,
+    0xe8b1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nuclear-protection`
   static const IconifyIconData nuclearProtection = IconifyIconData(IconData(
-    0xe3f8,
+    0xe8b2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nuclear-worker-man`
   static const IconifyIconData nuclearWorkerMan = IconifyIconData(IconData(
-    0xe3f9,
+    0xe8b3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nuclear-worker-woman`
   static const IconifyIconData nuclearWorkerWoman = IconifyIconData(IconData(
-    0xe3fa,
+    0xe8b4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `nut-and-bolt`
   static const IconifyIconData nutAndBolt = IconifyIconData(IconData(
-    0xe3fb,
+    0xe8b5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `o-button-blood-type`
   static const IconifyIconData oButtonBloodType = IconifyIconData(IconData(
-    0xe3fc,
+    0xe8b6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `octopus`
   static const IconifyIconData octopus = IconifyIconData(IconData(
-    0xe3fd,
+    0xe8b7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `office-building`
   static const IconifyIconData officeBuilding = IconifyIconData(IconData(
-    0xe3fe,
+    0xe8b8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `office-worker`
   static const IconifyIconData officeWorker = IconifyIconData(IconData(
-    0xe3ff,
+    0xe8b9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `office-worker-dark-skin-tone`
   static const IconifyIconData officeWorkerDarkSkinTone = IconifyIconData(IconData(
-    0xec6d,
+    0xe8ba,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `office-worker-light-skin-tone`
   static const IconifyIconData officeWorkerLightSkinTone = IconifyIconData(IconData(
-    0xec6e,
+    0xe8bb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `office-worker-medium-dark-skin-tone`
   static const IconifyIconData officeWorkerMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec6f,
+    0xe8bc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `office-worker-medium-light-skin-tone`
   static const IconifyIconData officeWorkerMediumLightSkinTone = IconifyIconData(IconData(
-    0xe400,
+    0xe8bd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `office-worker-medium-skin-tone`
   static const IconifyIconData officeWorkerMediumSkinTone = IconifyIconData(IconData(
-    0xec70,
+    0xe8be,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ogre`
   static const IconifyIconData ogre = IconifyIconData(IconData(
-    0xec71,
+    0xe8bf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `oil-drum`
   static const IconifyIconData oilDrum = IconifyIconData(IconData(
-    0xe401,
+    0xe8c0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `oil-spill`
   static const IconifyIconData oilSpill = IconifyIconData(IconData(
-    0xe402,
+    0xe8c1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ok-button`
   static const IconifyIconData okButton = IconifyIconData(IconData(
-    0xec72,
+    0xe8c2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ok-hand`
   static const IconifyIconData okHand = IconifyIconData(IconData(
-    0xe403,
+    0xe8c3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ok-hand-light-skin-tone`
   static const IconifyIconData okHandLightSkinTone = IconifyIconData(IconData(
-    0xe404,
+    0xe8c4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ok-hand-medium-light-skin-tone`
   static const IconifyIconData okHandMediumLightSkinTone = IconifyIconData(IconData(
-    0xe405,
+    0xe8c5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ok-hand-medium-skin-tone`
   static const IconifyIconData okHandMediumSkinTone = IconifyIconData(IconData(
-    0xe406,
+    0xe8c6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ok-stencil`
   static const IconifyIconData okStencil = IconifyIconData(IconData(
-    0xe407,
+    0xe8c7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `old-key`
   static const IconifyIconData oldKey = IconifyIconData(IconData(
-    0xe408,
+    0xe8c8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `old-man`
   static const IconifyIconData oldMan = IconifyIconData(IconData(
-    0xe409,
+    0xe8c9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `old-man-dark-skin-tone`
   static const IconifyIconData oldManDarkSkinTone = IconifyIconData(IconData(
-    0xec73,
+    0xe8ca,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `old-man-light-skin-tone`
   static const IconifyIconData oldManLightSkinTone = IconifyIconData(IconData(
-    0xe40a,
+    0xe8cb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `old-man-medium-dark-skin-tone`
   static const IconifyIconData oldManMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec74,
+    0xe8cc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `old-man-medium-light-skin-tone`
   static const IconifyIconData oldManMediumLightSkinTone = IconifyIconData(IconData(
-    0xe40b,
+    0xe8cd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `old-man-medium-skin-tone`
   static const IconifyIconData oldManMediumSkinTone = IconifyIconData(IconData(
-    0xe40c,
+    0xe8ce,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `old-woman`
   static const IconifyIconData oldWoman = IconifyIconData(IconData(
-    0xe40d,
+    0xe8cf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `old-woman-dark-skin-tone`
   static const IconifyIconData oldWomanDarkSkinTone = IconifyIconData(IconData(
-    0xec75,
+    0xe8d0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `old-woman-light-skin-tone`
   static const IconifyIconData oldWomanLightSkinTone = IconifyIconData(IconData(
-    0xe40e,
+    0xe8d1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `old-woman-medium-dark-skin-tone`
   static const IconifyIconData oldWomanMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec76,
+    0xe8d2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `old-woman-medium-light-skin-tone`
   static const IconifyIconData oldWomanMediumLightSkinTone = IconifyIconData(IconData(
-    0xe40f,
+    0xe8d3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `old-woman-medium-skin-tone`
   static const IconifyIconData oldWomanMediumSkinTone = IconifyIconData(IconData(
-    0xe410,
+    0xe8d4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `older-person`
   static const IconifyIconData olderPerson = IconifyIconData(IconData(
-    0xe411,
+    0xe8d5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `older-person-dark-skin-tone`
   static const IconifyIconData olderPersonDarkSkinTone = IconifyIconData(IconData(
-    0xec77,
+    0xe8d6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `older-person-light-skin-tone`
   static const IconifyIconData olderPersonLightSkinTone = IconifyIconData(IconData(
-    0xe412,
+    0xe8d7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `older-person-medium-dark-skin-tone`
   static const IconifyIconData olderPersonMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec78,
+    0xe8d8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `older-person-medium-light-skin-tone`
   static const IconifyIconData olderPersonMediumLightSkinTone = IconifyIconData(IconData(
-    0xe413,
+    0xe8d9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `older-person-medium-skin-tone`
   static const IconifyIconData olderPersonMediumSkinTone = IconifyIconData(IconData(
-    0xe414,
+    0xe8da,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `om`
   static const IconifyIconData om = IconifyIconData(IconData(
-    0xec79,
+    0xe8db,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `on-arrow`
   static const IconifyIconData onArrow = IconifyIconData(IconData(
-    0xe415,
+    0xe8dc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `on-exclamation-arrow`
   static const IconifyIconData onExclamationArrow = IconifyIconData(IconData(
-    0xe416,
+    0xe8dd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `oncoming-automobile`
   static const IconifyIconData oncomingAutomobile = IconifyIconData(IconData(
-    0xe417,
+    0xe8de,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `oncoming-bus`
   static const IconifyIconData oncomingBus = IconifyIconData(IconData(
-    0xe418,
+    0xe8df,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `oncoming-fist`
   static const IconifyIconData oncomingFist = IconifyIconData(IconData(
-    0xe419,
+    0xe8e0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `oncoming-fist-dark-skin-tone`
   static const IconifyIconData oncomingFistDarkSkinTone = IconifyIconData(IconData(
-    0xec7a,
+    0xe8e1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `oncoming-fist-light-skin-tone`
   static const IconifyIconData oncomingFistLightSkinTone = IconifyIconData(IconData(
-    0xe41a,
+    0xe8e2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `oncoming-fist-medium-dark-skin-tone`
   static const IconifyIconData oncomingFistMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec7b,
+    0xe8e3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `oncoming-fist-medium-light-skin-tone`
   static const IconifyIconData oncomingFistMediumLightSkinTone = IconifyIconData(IconData(
-    0xe41b,
+    0xe8e4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `oncoming-fist-medium-skin-tone`
   static const IconifyIconData oncomingFistMediumSkinTone = IconifyIconData(IconData(
-    0xe41c,
+    0xe8e5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `oncoming-police-car`
   static const IconifyIconData oncomingPoliceCar = IconifyIconData(IconData(
-    0xec7c,
+    0xe8e6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `oncoming-taxi`
   static const IconifyIconData oncomingTaxi = IconifyIconData(IconData(
-    0xe41d,
+    0xe8e7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `one-oclock`
   static const IconifyIconData oneOclock = IconifyIconData(IconData(
-    0xec7d,
+    0xe8e8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `one-thirty`
   static const IconifyIconData oneThirty = IconifyIconData(IconData(
-    0xec7e,
+    0xe8e9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `onion`
   static const IconifyIconData onion = IconifyIconData(IconData(
-    0xec7f,
+    0xe8ea,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ontario-flag`
   static const IconifyIconData ontarioFlag = IconifyIconData(IconData(
-    0xec80,
+    0xe8eb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `open-book`
   static const IconifyIconData openBook = IconifyIconData(IconData(
-    0xe41e,
+    0xe8ec,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `open-file-folder`
   static const IconifyIconData openFileFolder = IconifyIconData(IconData(
-    0xe41f,
+    0xe8ed,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `open-hands`
   static const IconifyIconData openHands = IconifyIconData(IconData(
-    0xec81,
+    0xe8ee,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `open-hands-dark-skin-tone`
   static const IconifyIconData openHandsDarkSkinTone = IconifyIconData(IconData(
-    0xec82,
+    0xe8ef,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `open-hands-light-skin-tone`
   static const IconifyIconData openHandsLightSkinTone = IconifyIconData(IconData(
-    0xec83,
+    0xe8f0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `open-hands-medium-dark-skin-tone`
   static const IconifyIconData openHandsMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec84,
+    0xe8f1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `open-hands-medium-light-skin-tone`
   static const IconifyIconData openHandsMediumLightSkinTone = IconifyIconData(IconData(
-    0xec85,
+    0xe8f2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `open-hands-medium-skin-tone`
   static const IconifyIconData openHandsMediumSkinTone = IconifyIconData(IconData(
-    0xec86,
+    0xe8f3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `openfoodfact`
   static const IconifyIconData openfoodfact = IconifyIconData(IconData(
-    0xe420,
+    0xe8f4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `openstreetmap`
   static const IconifyIconData openstreetmap = IconifyIconData(IconData(
-    0xec87,
+    0xe8f5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `opera`
   static const IconifyIconData opera = IconifyIconData(IconData(
-    0xe421,
+    0xe8f6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ophiuchus`
   static const IconifyIconData ophiuchus = IconifyIconData(IconData(
-    0xec88,
+    0xe8f7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `optical-disk`
   static const IconifyIconData opticalDisk = IconifyIconData(IconData(
-    0xe422,
+    0xe8f8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `orange-book`
   static const IconifyIconData orangeBook = IconifyIconData(IconData(
-    0xec89,
+    0xe8f9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `orange-circle`
   static const IconifyIconData orangeCircle = IconifyIconData(IconData(
-    0xec8a,
+    0xe8fa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `orange-flag`
   static const IconifyIconData orangeFlag = IconifyIconData(IconData(
-    0xe423,
+    0xe8fb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `orange-hexagon`
   static const IconifyIconData orangeHexagon = IconifyIconData(IconData(
-    0xe424,
+    0xe8fc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `orangutan`
   static const IconifyIconData orangutan = IconifyIconData(IconData(
-    0xec8b,
+    0xe8fd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `orca`
   static const IconifyIconData orca = IconifyIconData(IconData(
-    0xe425,
+    0xe8fe,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `orthodox-cross`
   static const IconifyIconData orthodoxCross = IconifyIconData(IconData(
-    0xec8c,
+    0xe8ff,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `outbox-tray`
   static const IconifyIconData outboxTray = IconifyIconData(IconData(
-    0xe426,
+    0xe900,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `outlet`
   static const IconifyIconData outlet = IconifyIconData(IconData(
-    0xe427,
+    0xe901,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `overlapping-black-squares`
   static const IconifyIconData overlappingBlackSquares = IconifyIconData(IconData(
-    0xec8d,
+    0xe902,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `overlapping-white-and-black-squares`
   static const IconifyIconData overlappingWhiteAndBlackSquares = IconifyIconData(IconData(
-    0xec8e,
+    0xe903,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `overlapping-white-squares`
   static const IconifyIconData overlappingWhiteSquares = IconifyIconData(IconData(
-    0xec8f,
+    0xe904,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `overview`
   static const IconifyIconData overview = IconifyIconData(IconData(
-    0xe428,
+    0xe905,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `owl`
   static const IconifyIconData owl = IconifyIconData(IconData(
-    0xec90,
+    0xe906,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `oyster`
   static const IconifyIconData oyster = IconifyIconData(IconData(
-    0xec91,
+    0xe907,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `p-button`
   static const IconifyIconData pButton = IconifyIconData(IconData(
-    0xe429,
+    0xe908,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `package`
   static const IconifyIconData package = IconifyIconData(IconData(
-    0xe42a,
+    0xe909,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `page-facing-up`
   static const IconifyIconData pageFacingUp = IconifyIconData(IconData(
-    0xe42b,
+    0xe90a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `page-move`
   static const IconifyIconData pageMove = IconifyIconData(IconData(
-    0xe42c,
+    0xe90b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `page-with-curl`
   static const IconifyIconData pageWithCurl = IconifyIconData(IconData(
-    0xe42d,
+    0xe90c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pager`
   static const IconifyIconData pager = IconifyIconData(IconData(
-    0xec92,
+    0xe90d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `palm-down-hand`
   static const IconifyIconData palmDownHand = IconifyIconData(IconData(
-    0xe42e,
+    0xe90e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `palm-down-hand-light-skin-tone`
   static const IconifyIconData palmDownHandLightSkinTone = IconifyIconData(IconData(
-    0xe42f,
+    0xe90f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `palm-down-hand-medium-light-skin-tone`
   static const IconifyIconData palmDownHandMediumLightSkinTone = IconifyIconData(IconData(
-    0xe430,
+    0xe910,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `palm-down-hand-medium-skin-tone`
   static const IconifyIconData palmDownHandMediumSkinTone = IconifyIconData(IconData(
-    0xe431,
+    0xe911,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `palm-up-hand`
   static const IconifyIconData palmUpHand = IconifyIconData(IconData(
-    0xe432,
+    0xe912,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `palm-up-hand-light-skin-tone`
   static const IconifyIconData palmUpHandLightSkinTone = IconifyIconData(IconData(
-    0xe433,
+    0xe913,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `palm-up-hand-medium-light-skin-tone`
   static const IconifyIconData palmUpHandMediumLightSkinTone = IconifyIconData(IconData(
-    0xe434,
+    0xe914,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `palm-up-hand-medium-skin-tone`
   static const IconifyIconData palmUpHandMediumSkinTone = IconifyIconData(IconData(
-    0xe435,
+    0xe915,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `palms-up-together`
   static const IconifyIconData palmsUpTogether = IconifyIconData(IconData(
-    0xe436,
+    0xe916,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `palms-up-together-dark-skin-tone`
   static const IconifyIconData palmsUpTogetherDarkSkinTone = IconifyIconData(IconData(
-    0xec93,
+    0xe917,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `palms-up-together-light-skin-tone`
   static const IconifyIconData palmsUpTogetherLightSkinTone = IconifyIconData(IconData(
-    0xe437,
+    0xe918,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `palms-up-together-medium-dark-skin-tone`
   static const IconifyIconData palmsUpTogetherMediumDarkSkinTone = IconifyIconData(IconData(
-    0xec94,
+    0xe919,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `palms-up-together-medium-light-skin-tone`
   static const IconifyIconData palmsUpTogetherMediumLightSkinTone = IconifyIconData(IconData(
-    0xe438,
+    0xe91a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `palms-up-together-medium-skin-tone`
   static const IconifyIconData palmsUpTogetherMediumSkinTone = IconifyIconData(IconData(
-    0xe439,
+    0xe91b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pancakes`
   static const IconifyIconData pancakes = IconifyIconData(IconData(
-    0xe43a,
+    0xe91c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `panda`
   static const IconifyIconData panda = IconifyIconData(IconData(
-    0xe43b,
+    0xe91d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `paperclip`
   static const IconifyIconData paperclip = IconifyIconData(IconData(
-    0xe43c,
+    0xe91e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `parachute`
   static const IconifyIconData parachute = IconifyIconData(IconData(
-    0xec95,
+    0xe91f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `parrot`
   static const IconifyIconData parrot = IconifyIconData(IconData(
-    0xec96,
+    0xe920,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `part-alternation-mark`
   static const IconifyIconData partAlternationMark = IconifyIconData(IconData(
-    0xe43d,
+    0xe921,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `party-popper`
   static const IconifyIconData partyPopper = IconifyIconData(IconData(
-    0xec97,
+    0xe922,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `partying-face`
   static const IconifyIconData partyingFace = IconifyIconData(IconData(
-    0xec98,
+    0xe923,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `passenger-ship`
   static const IconifyIconData passengerShip = IconifyIconData(IconData(
-    0xe43e,
+    0xe924,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `passport-control`
   static const IconifyIconData passportControl = IconifyIconData(IconData(
-    0xec99,
+    0xe925,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `patient-file`
   static const IconifyIconData patientFile = IconifyIconData(IconData(
-    0xe43f,
+    0xe926,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pause-button`
   static const IconifyIconData pauseButton = IconifyIconData(IconData(
-    0xe440,
+    0xe927,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `paw-prints`
   static const IconifyIconData pawPrints = IconifyIconData(IconData(
-    0xe441,
+    0xe928,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pea-pod`
   static const IconifyIconData peaPod = IconifyIconData(IconData(
-    0xec9a,
+    0xe929,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `peace-symbol`
   static const IconifyIconData peaceSymbol = IconifyIconData(IconData(
-    0xe442,
+    0xe92a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `peach`
   static const IconifyIconData peach = IconifyIconData(IconData(
-    0xe443,
+    0xe92b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pear`
   static const IconifyIconData pear = IconifyIconData(IconData(
-    0xec9b,
+    0xe92c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `peertube`
   static const IconifyIconData peertube = IconifyIconData(IconData(
-    0xec9c,
+    0xe92d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pen`
   static const IconifyIconData pen = IconifyIconData(IconData(
-    0xe444,
+    0xe92e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pencil`
   static const IconifyIconData pencil = IconifyIconData(IconData(
-    0xec9d,
+    0xe92f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `penguin`
   static const IconifyIconData penguin = IconifyIconData(IconData(
-    0xe445,
+    0xe930,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pensive-face`
   static const IconifyIconData pensiveFace = IconifyIconData(IconData(
-    0xe446,
+    0xe931,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-dialogue`
   static const IconifyIconData peopleDialogue = IconifyIconData(IconData(
-    0xe447,
+    0xe932,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands`
   static const IconifyIconData peopleHoldingHands = IconifyIconData(IconData(
-    0xec9e,
+    0xe933,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-dark-skin-tone`
   static const IconifyIconData peopleHoldingHandsDarkSkinTone = IconifyIconData(IconData(
-    0xec9f,
+    0xe934,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-dark-skin-tone-light-skin-tone`
   static const IconifyIconData peopleHoldingHandsDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xeca0,
+    0xe935,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-dark-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData peopleHoldingHandsDarkSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeca1,
+    0xe936,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData peopleHoldingHandsDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xeca2,
+    0xe937,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData peopleHoldingHandsDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xeca3,
+    0xe938,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-light-skin-tone`
   static const IconifyIconData peopleHoldingHandsLightSkinTone = IconifyIconData(IconData(
-    0xeca4,
+    0xe939,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-light-skin-tone-dark-skin-tone`
   static const IconifyIconData peopleHoldingHandsLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xeca5,
+    0xe93a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData peopleHoldingHandsLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeca6,
+    0xe93b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-light-skin-tone-medium-light-skin-tone`
   static const IconifyIconData peopleHoldingHandsLightSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xeca7,
+    0xe93c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-light-skin-tone-medium-skin-tone`
   static const IconifyIconData peopleHoldingHandsLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xeca8,
+    0xe93d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-medium-dark-skin-tone`
   static const IconifyIconData peopleHoldingHandsMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeca9,
+    0xe93e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-medium-dark-skin-tone-dark-skin-tone`
   static const IconifyIconData peopleHoldingHandsMediumDarkSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xecaa,
+    0xe93f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-medium-dark-skin-tone-light-skin-tone`
   static const IconifyIconData peopleHoldingHandsMediumDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xecab,
+    0xe940,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-medium-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData peopleHoldingHandsMediumDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xecac,
+    0xe941,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-medium-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData peopleHoldingHandsMediumDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xecad,
+    0xe942,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-medium-light-skin-tone`
   static const IconifyIconData peopleHoldingHandsMediumLightSkinTone = IconifyIconData(IconData(
-    0xecae,
+    0xe943,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-medium-light-skin-tone-dark-skin-tone`
   static const IconifyIconData peopleHoldingHandsMediumLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xecaf,
+    0xe944,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-medium-light-skin-tone-light-skin-tone`
   static const IconifyIconData peopleHoldingHandsMediumLightSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xecb0,
+    0xe945,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-medium-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData peopleHoldingHandsMediumLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xecb1,
+    0xe946,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-medium-light-skin-tone-medium-skin-tone`
   static const IconifyIconData peopleHoldingHandsMediumLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xecb2,
+    0xe947,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-medium-skin-tone`
   static const IconifyIconData peopleHoldingHandsMediumSkinTone = IconifyIconData(IconData(
-    0xecb3,
+    0xe948,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-medium-skin-tone-dark-skin-tone`
   static const IconifyIconData peopleHoldingHandsMediumSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xecb4,
+    0xe949,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-medium-skin-tone-light-skin-tone`
   static const IconifyIconData peopleHoldingHandsMediumSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xecb5,
+    0xe94a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-medium-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData peopleHoldingHandsMediumSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xecb6,
+    0xe94b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-holding-hands-medium-skin-tone-medium-light-skin-tone`
   static const IconifyIconData peopleHoldingHandsMediumSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xecb7,
+    0xe94c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-hugging`
   static const IconifyIconData peopleHugging = IconifyIconData(IconData(
-    0xe448,
+    0xe94d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears`
   static const IconifyIconData peopleWithBunnyEars = IconifyIconData(IconData(
-    0xe449,
+    0xe94e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-dark-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsDarkSkinTone = IconifyIconData(IconData(
-    0xecb8,
+    0xe94f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-dark-skin-tone-light-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe44a,
+    0xe950,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-dark-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsDarkSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe44b,
+    0xe951,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe44c,
+    0xe952,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe44d,
+    0xe953,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-light-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsLightSkinTone = IconifyIconData(IconData(
-    0xe44e,
+    0xe954,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-light-skin-tone-dark-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe44f,
+    0xe955,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe450,
+    0xe956,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-light-skin-tone-medium-light-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsLightSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe451,
+    0xe957,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-light-skin-tone-medium-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe452,
+    0xe958,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-medium-dark-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsMediumDarkSkinTone = IconifyIconData(IconData(
-    0xecb9,
+    0xe959,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-medium-dark-skin-tone-dark-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsMediumDarkSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe453,
+    0xe95a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-medium-dark-skin-tone-light-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsMediumDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe454,
+    0xe95b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-medium-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsMediumDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe455,
+    0xe95c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-medium-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsMediumDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe456,
+    0xe95d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-medium-light-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsMediumLightSkinTone = IconifyIconData(IconData(
-    0xe457,
+    0xe95e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-medium-light-skin-tone-dark-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsMediumLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe458,
+    0xe95f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-medium-light-skin-tone-light-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsMediumLightSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe459,
+    0xe960,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-medium-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsMediumLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe45a,
+    0xe961,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-medium-light-skin-tone-medium-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsMediumLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe45b,
+    0xe962,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-medium-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsMediumSkinTone = IconifyIconData(IconData(
-    0xe45c,
+    0xe963,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-medium-skin-tone-dark-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsMediumSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe45d,
+    0xe964,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-medium-skin-tone-light-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsMediumSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe45e,
+    0xe965,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-medium-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsMediumSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe45f,
+    0xe966,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-with-bunny-ears-medium-skin-tone-medium-light-skin-tone`
   static const IconifyIconData peopleWithBunnyEarsMediumSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe460,
+    0xe967,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling`
   static const IconifyIconData peopleWrestling = IconifyIconData(IconData(
-    0xe461,
+    0xe968,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-dark-skin-tone`
   static const IconifyIconData peopleWrestlingDarkSkinTone = IconifyIconData(IconData(
-    0xecba,
+    0xe969,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-dark-skin-tone-light-skin-tone`
   static const IconifyIconData peopleWrestlingDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe462,
+    0xe96a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-dark-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData peopleWrestlingDarkSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe463,
+    0xe96b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData peopleWrestlingDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe464,
+    0xe96c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData peopleWrestlingDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe465,
+    0xe96d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-light-skin-tone`
   static const IconifyIconData peopleWrestlingLightSkinTone = IconifyIconData(IconData(
-    0xe466,
+    0xe96e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-light-skin-tone-dark-skin-tone`
   static const IconifyIconData peopleWrestlingLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe467,
+    0xe96f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData peopleWrestlingLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe468,
+    0xe970,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-light-skin-tone-medium-light-skin-tone`
   static const IconifyIconData peopleWrestlingLightSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe469,
+    0xe971,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-light-skin-tone-medium-skin-tone`
   static const IconifyIconData peopleWrestlingLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe46a,
+    0xe972,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-medium-dark-skin-tone`
   static const IconifyIconData peopleWrestlingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xecbb,
+    0xe973,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-medium-dark-skin-tone-dark-skin-tone`
   static const IconifyIconData peopleWrestlingMediumDarkSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe46b,
+    0xe974,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-medium-dark-skin-tone-light-skin-tone`
   static const IconifyIconData peopleWrestlingMediumDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe46c,
+    0xe975,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-medium-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData peopleWrestlingMediumDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe46d,
+    0xe976,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-medium-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData peopleWrestlingMediumDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe46e,
+    0xe977,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-medium-light-skin-tone`
   static const IconifyIconData peopleWrestlingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe46f,
+    0xe978,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-medium-light-skin-tone-dark-skin-tone`
   static const IconifyIconData peopleWrestlingMediumLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe470,
+    0xe979,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-medium-light-skin-tone-light-skin-tone`
   static const IconifyIconData peopleWrestlingMediumLightSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe471,
+    0xe97a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-medium-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData peopleWrestlingMediumLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe472,
+    0xe97b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-medium-light-skin-tone-medium-skin-tone`
   static const IconifyIconData peopleWrestlingMediumLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe473,
+    0xe97c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-medium-skin-tone`
   static const IconifyIconData peopleWrestlingMediumSkinTone = IconifyIconData(IconData(
-    0xe474,
+    0xe97d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-medium-skin-tone-dark-skin-tone`
   static const IconifyIconData peopleWrestlingMediumSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xe475,
+    0xe97e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-medium-skin-tone-light-skin-tone`
   static const IconifyIconData peopleWrestlingMediumSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe476,
+    0xe97f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-medium-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData peopleWrestlingMediumSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xe477,
+    0xe980,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `people-wrestling-medium-skin-tone-medium-light-skin-tone`
   static const IconifyIconData peopleWrestlingMediumSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe478,
+    0xe981,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `performing-arts`
   static const IconifyIconData performingArts = IconifyIconData(IconData(
-    0xe479,
+    0xe982,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `persevering-face`
   static const IconifyIconData perseveringFace = IconifyIconData(IconData(
-    0xe47a,
+    0xe983,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person`
   static const IconifyIconData person = IconifyIconData(IconData(
-    0xe47b,
+    0xe984,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-bald`
   static const IconifyIconData personBald = IconifyIconData(IconData(
-    0xe47c,
+    0xe985,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-beard`
   static const IconifyIconData personBeard = IconifyIconData(IconData(
-    0xe47d,
+    0xe986,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-biking`
   static const IconifyIconData personBiking = IconifyIconData(IconData(
-    0xe47e,
+    0xe987,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-biking-dark-skin-tone`
   static const IconifyIconData personBikingDarkSkinTone = IconifyIconData(IconData(
-    0xecbc,
+    0xe988,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-biking-light-skin-tone`
   static const IconifyIconData personBikingLightSkinTone = IconifyIconData(IconData(
-    0xe47f,
+    0xe989,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-biking-medium-dark-skin-tone`
   static const IconifyIconData personBikingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xecbd,
+    0xe98a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-biking-medium-light-skin-tone`
   static const IconifyIconData personBikingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe480,
+    0xe98b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-biking-medium-skin-tone`
   static const IconifyIconData personBikingMediumSkinTone = IconifyIconData(IconData(
-    0xe481,
+    0xe98c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-blond-hair`
   static const IconifyIconData personBlondHair = IconifyIconData(IconData(
-    0xe482,
+    0xe98d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-bouncing-ball`
   static const IconifyIconData personBouncingBall = IconifyIconData(IconData(
-    0xe483,
+    0xe98e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-bouncing-ball-dark-skin-tone`
   static const IconifyIconData personBouncingBallDarkSkinTone = IconifyIconData(IconData(
-    0xecbe,
+    0xe98f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-bouncing-ball-light-skin-tone`
   static const IconifyIconData personBouncingBallLightSkinTone = IconifyIconData(IconData(
-    0xe484,
+    0xe990,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-bouncing-ball-medium-dark-skin-tone`
   static const IconifyIconData personBouncingBallMediumDarkSkinTone = IconifyIconData(IconData(
-    0xecbf,
+    0xe991,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-bouncing-ball-medium-light-skin-tone`
   static const IconifyIconData personBouncingBallMediumLightSkinTone = IconifyIconData(IconData(
-    0xe485,
+    0xe992,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-bouncing-ball-medium-skin-tone`
   static const IconifyIconData personBouncingBallMediumSkinTone = IconifyIconData(IconData(
-    0xe486,
+    0xe993,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-bowing`
   static const IconifyIconData personBowing = IconifyIconData(IconData(
-    0xe487,
+    0xe994,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-bowing-dark-skin-tone`
   static const IconifyIconData personBowingDarkSkinTone = IconifyIconData(IconData(
-    0xecc0,
+    0xe995,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-bowing-light-skin-tone`
   static const IconifyIconData personBowingLightSkinTone = IconifyIconData(IconData(
-    0xecc1,
+    0xe996,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-bowing-medium-dark-skin-tone`
   static const IconifyIconData personBowingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xecc2,
+    0xe997,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-bowing-medium-light-skin-tone`
   static const IconifyIconData personBowingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe488,
+    0xe998,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-bowing-medium-skin-tone`
   static const IconifyIconData personBowingMediumSkinTone = IconifyIconData(IconData(
-    0xecc3,
+    0xe999,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-cartwheeling`
   static const IconifyIconData personCartwheeling = IconifyIconData(IconData(
-    0xe489,
+    0xe99a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-cartwheeling-dark-skin-tone`
   static const IconifyIconData personCartwheelingDarkSkinTone = IconifyIconData(IconData(
-    0xecc4,
+    0xe99b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-cartwheeling-light-skin-tone`
   static const IconifyIconData personCartwheelingLightSkinTone = IconifyIconData(IconData(
-    0xe48a,
+    0xe99c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-cartwheeling-medium-dark-skin-tone`
   static const IconifyIconData personCartwheelingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xecc5,
+    0xe99d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-cartwheeling-medium-light-skin-tone`
   static const IconifyIconData personCartwheelingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe48b,
+    0xe99e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-cartwheeling-medium-skin-tone`
   static const IconifyIconData personCartwheelingMediumSkinTone = IconifyIconData(IconData(
-    0xe48c,
+    0xe99f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-climbing`
   static const IconifyIconData personClimbing = IconifyIconData(IconData(
-    0xe48d,
+    0xe9a0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-climbing-dark-skin-tone`
   static const IconifyIconData personClimbingDarkSkinTone = IconifyIconData(IconData(
-    0xecc6,
+    0xe9a1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-climbing-light-skin-tone`
   static const IconifyIconData personClimbingLightSkinTone = IconifyIconData(IconData(
-    0xe48e,
+    0xe9a2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-climbing-medium-dark-skin-tone`
   static const IconifyIconData personClimbingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xecc7,
+    0xe9a3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-climbing-medium-light-skin-tone`
   static const IconifyIconData personClimbingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe48f,
+    0xe9a4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-climbing-medium-skin-tone`
   static const IconifyIconData personClimbingMediumSkinTone = IconifyIconData(IconData(
-    0xe490,
+    0xe9a5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-curly-hair`
   static const IconifyIconData personCurlyHair = IconifyIconData(IconData(
-    0xe491,
+    0xe9a6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-dark-skin-tone`
   static const IconifyIconData personDarkSkinTone = IconifyIconData(IconData(
-    0xecc8,
+    0xe9a7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-dark-skin-tone-bald`
   static const IconifyIconData personDarkSkinToneBald = IconifyIconData(IconData(
-    0xecc9,
+    0xe9a8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-dark-skin-tone-beard`
   static const IconifyIconData personDarkSkinToneBeard = IconifyIconData(IconData(
-    0xecca,
+    0xe9a9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-dark-skin-tone-blond-hair`
   static const IconifyIconData personDarkSkinToneBlondHair = IconifyIconData(IconData(
-    0xeccb,
+    0xe9aa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-dark-skin-tone-curly-hair`
   static const IconifyIconData personDarkSkinToneCurlyHair = IconifyIconData(IconData(
-    0xeccc,
+    0xe9ab,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-dark-skin-tone-red-hair`
   static const IconifyIconData personDarkSkinToneRedHair = IconifyIconData(IconData(
-    0xeccd,
+    0xe9ac,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-dark-skin-tone-white-hair`
   static const IconifyIconData personDarkSkinToneWhiteHair = IconifyIconData(IconData(
-    0xecce,
+    0xe9ad,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-facepalming`
   static const IconifyIconData personFacepalming = IconifyIconData(IconData(
-    0xe492,
+    0xe9ae,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-facepalming-dark-skin-tone`
   static const IconifyIconData personFacepalmingDarkSkinTone = IconifyIconData(IconData(
-    0xeccf,
+    0xe9af,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-facepalming-light-skin-tone`
   static const IconifyIconData personFacepalmingLightSkinTone = IconifyIconData(IconData(
-    0xecd0,
+    0xe9b0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-facepalming-medium-dark-skin-tone`
   static const IconifyIconData personFacepalmingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xecd1,
+    0xe9b1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-facepalming-medium-light-skin-tone`
   static const IconifyIconData personFacepalmingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe493,
+    0xe9b2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-facepalming-medium-skin-tone`
   static const IconifyIconData personFacepalmingMediumSkinTone = IconifyIconData(IconData(
-    0xecd2,
+    0xe9b3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-fencing`
   static const IconifyIconData personFencing = IconifyIconData(IconData(
-    0xe494,
+    0xe9b4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-frowning`
   static const IconifyIconData personFrowning = IconifyIconData(IconData(
-    0xe495,
+    0xe9b5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-frowning-dark-skin-tone`
   static const IconifyIconData personFrowningDarkSkinTone = IconifyIconData(IconData(
-    0xecd3,
+    0xe9b6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-frowning-light-skin-tone`
   static const IconifyIconData personFrowningLightSkinTone = IconifyIconData(IconData(
-    0xecd4,
+    0xe9b7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-frowning-medium-dark-skin-tone`
   static const IconifyIconData personFrowningMediumDarkSkinTone = IconifyIconData(IconData(
-    0xecd5,
+    0xe9b8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-frowning-medium-light-skin-tone`
   static const IconifyIconData personFrowningMediumLightSkinTone = IconifyIconData(IconData(
-    0xe496,
+    0xe9b9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-frowning-medium-skin-tone`
   static const IconifyIconData personFrowningMediumSkinTone = IconifyIconData(IconData(
-    0xecd6,
+    0xe9ba,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-gesturing-no`
   static const IconifyIconData personGesturingNo = IconifyIconData(IconData(
-    0xe497,
+    0xe9bb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-gesturing-no-dark-skin-tone`
   static const IconifyIconData personGesturingNoDarkSkinTone = IconifyIconData(IconData(
-    0xecd7,
+    0xe9bc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-gesturing-no-light-skin-tone`
   static const IconifyIconData personGesturingNoLightSkinTone = IconifyIconData(IconData(
-    0xecd8,
+    0xe9bd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-gesturing-no-medium-dark-skin-tone`
   static const IconifyIconData personGesturingNoMediumDarkSkinTone = IconifyIconData(IconData(
-    0xecd9,
+    0xe9be,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-gesturing-no-medium-light-skin-tone`
   static const IconifyIconData personGesturingNoMediumLightSkinTone = IconifyIconData(IconData(
-    0xe498,
+    0xe9bf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-gesturing-no-medium-skin-tone`
   static const IconifyIconData personGesturingNoMediumSkinTone = IconifyIconData(IconData(
-    0xecda,
+    0xe9c0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-gesturing-ok`
   static const IconifyIconData personGesturingOk = IconifyIconData(IconData(
-    0xe499,
+    0xe9c1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-gesturing-ok-dark-skin-tone`
   static const IconifyIconData personGesturingOkDarkSkinTone = IconifyIconData(IconData(
-    0xecdb,
+    0xe9c2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-gesturing-ok-light-skin-tone`
   static const IconifyIconData personGesturingOkLightSkinTone = IconifyIconData(IconData(
-    0xecdc,
+    0xe9c3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-gesturing-ok-medium-dark-skin-tone`
   static const IconifyIconData personGesturingOkMediumDarkSkinTone = IconifyIconData(IconData(
-    0xecdd,
+    0xe9c4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-gesturing-ok-medium-light-skin-tone`
   static const IconifyIconData personGesturingOkMediumLightSkinTone = IconifyIconData(IconData(
-    0xe49a,
+    0xe9c5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-gesturing-ok-medium-skin-tone`
   static const IconifyIconData personGesturingOkMediumSkinTone = IconifyIconData(IconData(
-    0xecde,
+    0xe9c6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-getting-haircut`
   static const IconifyIconData personGettingHaircut = IconifyIconData(IconData(
-    0xe49b,
+    0xe9c7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-getting-haircut-dark-skin-tone`
   static const IconifyIconData personGettingHaircutDarkSkinTone = IconifyIconData(IconData(
-    0xecdf,
+    0xe9c8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-getting-haircut-light-skin-tone`
   static const IconifyIconData personGettingHaircutLightSkinTone = IconifyIconData(IconData(
-    0xece0,
+    0xe9c9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-getting-haircut-medium-dark-skin-tone`
   static const IconifyIconData personGettingHaircutMediumDarkSkinTone = IconifyIconData(IconData(
-    0xece1,
+    0xe9ca,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-getting-haircut-medium-light-skin-tone`
   static const IconifyIconData personGettingHaircutMediumLightSkinTone = IconifyIconData(IconData(
-    0xe49c,
+    0xe9cb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-getting-haircut-medium-skin-tone`
   static const IconifyIconData personGettingHaircutMediumSkinTone = IconifyIconData(IconData(
-    0xece2,
+    0xe9cc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-getting-massage`
   static const IconifyIconData personGettingMassage = IconifyIconData(IconData(
-    0xece3,
+    0xe9cd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-getting-massage-dark-skin-tone`
   static const IconifyIconData personGettingMassageDarkSkinTone = IconifyIconData(IconData(
-    0xece4,
+    0xe9ce,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-getting-massage-light-skin-tone`
   static const IconifyIconData personGettingMassageLightSkinTone = IconifyIconData(IconData(
-    0xece5,
+    0xe9cf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-getting-massage-medium-dark-skin-tone`
   static const IconifyIconData personGettingMassageMediumDarkSkinTone = IconifyIconData(IconData(
-    0xece6,
+    0xe9d0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-getting-massage-medium-light-skin-tone`
   static const IconifyIconData personGettingMassageMediumLightSkinTone = IconifyIconData(IconData(
-    0xece7,
+    0xe9d1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-getting-massage-medium-skin-tone`
   static const IconifyIconData personGettingMassageMediumSkinTone = IconifyIconData(IconData(
-    0xece8,
+    0xe9d2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-golfing`
   static const IconifyIconData personGolfing = IconifyIconData(IconData(
-    0xe49d,
+    0xe9d3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-golfing-dark-skin-tone`
   static const IconifyIconData personGolfingDarkSkinTone = IconifyIconData(IconData(
-    0xece9,
+    0xe9d4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-golfing-light-skin-tone`
   static const IconifyIconData personGolfingLightSkinTone = IconifyIconData(IconData(
-    0xe49e,
+    0xe9d5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-golfing-medium-dark-skin-tone`
   static const IconifyIconData personGolfingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xecea,
+    0xe9d6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-golfing-medium-light-skin-tone`
   static const IconifyIconData personGolfingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe49f,
+    0xe9d7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-golfing-medium-skin-tone`
   static const IconifyIconData personGolfingMediumSkinTone = IconifyIconData(IconData(
-    0xe4a0,
+    0xe9d8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-lotus-position`
   static const IconifyIconData personInLotusPosition = IconifyIconData(IconData(
-    0xe4a1,
+    0xe9d9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-lotus-position-dark-skin-tone`
   static const IconifyIconData personInLotusPositionDarkSkinTone = IconifyIconData(IconData(
-    0xeceb,
+    0xe9da,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-lotus-position-light-skin-tone`
   static const IconifyIconData personInLotusPositionLightSkinTone = IconifyIconData(IconData(
-    0xe4a2,
+    0xe9db,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-lotus-position-medium-dark-skin-tone`
   static const IconifyIconData personInLotusPositionMediumDarkSkinTone = IconifyIconData(IconData(
-    0xecec,
+    0xe9dc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-lotus-position-medium-light-skin-tone`
   static const IconifyIconData personInLotusPositionMediumLightSkinTone = IconifyIconData(IconData(
-    0xe4a3,
+    0xe9dd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-lotus-position-medium-skin-tone`
   static const IconifyIconData personInLotusPositionMediumSkinTone = IconifyIconData(IconData(
-    0xe4a4,
+    0xe9de,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-manual-wheelchair`
   static const IconifyIconData personInManualWheelchair = IconifyIconData(IconData(
-    0xe4a5,
+    0xe9df,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-manual-wheelchair-dark-skin-tone`
   static const IconifyIconData personInManualWheelchairDarkSkinTone = IconifyIconData(IconData(
-    0xeced,
+    0xe9e0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-manual-wheelchair-dark-skin-tone-facing-right`
   static const IconifyIconData personInManualWheelchairDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xecee,
+    0xe9e1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-manual-wheelchair-facing-right`
   static const IconifyIconData personInManualWheelchairFacingRight = IconifyIconData(IconData(
-    0xe4a6,
+    0xe9e2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-manual-wheelchair-light-skin-tone`
   static const IconifyIconData personInManualWheelchairLightSkinTone = IconifyIconData(IconData(
-    0xe4a7,
+    0xe9e3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-manual-wheelchair-light-skin-tone-facing-right`
   static const IconifyIconData personInManualWheelchairLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe4a8,
+    0xe9e4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-manual-wheelchair-medium-dark-skin-tone`
   static const IconifyIconData personInManualWheelchairMediumDarkSkinTone = IconifyIconData(IconData(
-    0xecef,
+    0xe9e5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-manual-wheelchair-medium-dark-skin-tone-facing-right`
   static const IconifyIconData personInManualWheelchairMediumDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xecf0,
+    0xe9e6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-manual-wheelchair-medium-light-skin-tone`
   static const IconifyIconData personInManualWheelchairMediumLightSkinTone = IconifyIconData(IconData(
-    0xe4a9,
+    0xe9e7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-manual-wheelchair-medium-light-skin-tone-facing-right`
   static const IconifyIconData personInManualWheelchairMediumLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe4aa,
+    0xe9e8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-manual-wheelchair-medium-skin-tone`
   static const IconifyIconData personInManualWheelchairMediumSkinTone = IconifyIconData(IconData(
-    0xe4ab,
+    0xe9e9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-manual-wheelchair-medium-skin-tone-facing-right`
   static const IconifyIconData personInManualWheelchairMediumSkinToneFacingRight = IconifyIconData(IconData(
-    0xe4ac,
+    0xe9ea,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-motorized-wheelchair`
   static const IconifyIconData personInMotorizedWheelchair = IconifyIconData(IconData(
-    0xecf1,
+    0xe9eb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-motorized-wheelchair-dark-skin-tone`
   static const IconifyIconData personInMotorizedWheelchairDarkSkinTone = IconifyIconData(IconData(
-    0xecf2,
+    0xe9ec,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-motorized-wheelchair-dark-skin-tone-facing-right`
   static const IconifyIconData personInMotorizedWheelchairDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xecf3,
+    0xe9ed,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-motorized-wheelchair-facing-right`
   static const IconifyIconData personInMotorizedWheelchairFacingRight = IconifyIconData(IconData(
-    0xecf4,
+    0xe9ee,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-motorized-wheelchair-light-skin-tone`
   static const IconifyIconData personInMotorizedWheelchairLightSkinTone = IconifyIconData(IconData(
-    0xecf5,
+    0xe9ef,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-motorized-wheelchair-light-skin-tone-facing-right`
   static const IconifyIconData personInMotorizedWheelchairLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xecf6,
+    0xe9f0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-motorized-wheelchair-medium-dark-skin-tone`
   static const IconifyIconData personInMotorizedWheelchairMediumDarkSkinTone = IconifyIconData(IconData(
-    0xecf7,
+    0xe9f1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-motorized-wheelchair-medium-dark-skin-tone-facing-right`
   static const IconifyIconData personInMotorizedWheelchairMediumDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xecf8,
+    0xe9f2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-motorized-wheelchair-medium-light-skin-tone`
   static const IconifyIconData personInMotorizedWheelchairMediumLightSkinTone = IconifyIconData(IconData(
-    0xecf9,
+    0xe9f3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-motorized-wheelchair-medium-light-skin-tone-facing-right`
   static const IconifyIconData personInMotorizedWheelchairMediumLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xecfa,
+    0xe9f4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-motorized-wheelchair-medium-skin-tone`
   static const IconifyIconData personInMotorizedWheelchairMediumSkinTone = IconifyIconData(IconData(
-    0xecfb,
+    0xe9f5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-motorized-wheelchair-medium-skin-tone-facing-right`
   static const IconifyIconData personInMotorizedWheelchairMediumSkinToneFacingRight = IconifyIconData(IconData(
-    0xecfc,
+    0xe9f6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-steamy-room`
   static const IconifyIconData personInSteamyRoom = IconifyIconData(IconData(
-    0xe4ad,
+    0xe9f7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-steamy-room-dark-skin-tone`
   static const IconifyIconData personInSteamyRoomDarkSkinTone = IconifyIconData(IconData(
-    0xecfd,
+    0xe9f8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-steamy-room-light-skin-tone`
   static const IconifyIconData personInSteamyRoomLightSkinTone = IconifyIconData(IconData(
-    0xecfe,
+    0xe9f9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-steamy-room-medium-dark-skin-tone`
   static const IconifyIconData personInSteamyRoomMediumDarkSkinTone = IconifyIconData(IconData(
-    0xecff,
+    0xe9fa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-steamy-room-medium-light-skin-tone`
   static const IconifyIconData personInSteamyRoomMediumLightSkinTone = IconifyIconData(IconData(
-    0xe4ae,
+    0xe9fb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-steamy-room-medium-skin-tone`
   static const IconifyIconData personInSteamyRoomMediumSkinTone = IconifyIconData(IconData(
-    0xed00,
+    0xe9fc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-suit-levitating`
   static const IconifyIconData personInSuitLevitating = IconifyIconData(IconData(
-    0xe4af,
+    0xe9fd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-suit-levitating-dark-skin-tone`
   static const IconifyIconData personInSuitLevitatingDarkSkinTone = IconifyIconData(IconData(
-    0xed01,
+    0xe9fe,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-suit-levitating-light-skin-tone`
   static const IconifyIconData personInSuitLevitatingLightSkinTone = IconifyIconData(IconData(
-    0xe4b0,
+    0xe9ff,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-suit-levitating-medium-dark-skin-tone`
   static const IconifyIconData personInSuitLevitatingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed02,
+    0xea00,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-suit-levitating-medium-light-skin-tone`
   static const IconifyIconData personInSuitLevitatingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe4b1,
+    0xea01,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-suit-levitating-medium-skin-tone`
   static const IconifyIconData personInSuitLevitatingMediumSkinTone = IconifyIconData(IconData(
-    0xe4b2,
+    0xea02,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-tuxedo`
   static const IconifyIconData personInTuxedo = IconifyIconData(IconData(
-    0xed03,
+    0xea03,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-tuxedo-dark-skin-tone`
   static const IconifyIconData personInTuxedoDarkSkinTone = IconifyIconData(IconData(
-    0xed04,
+    0xea04,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-tuxedo-light-skin-tone`
   static const IconifyIconData personInTuxedoLightSkinTone = IconifyIconData(IconData(
-    0xed05,
+    0xea05,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-tuxedo-medium-dark-skin-tone`
   static const IconifyIconData personInTuxedoMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed06,
+    0xea06,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-tuxedo-medium-light-skin-tone`
   static const IconifyIconData personInTuxedoMediumLightSkinTone = IconifyIconData(IconData(
-    0xe4b3,
+    0xea07,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-in-tuxedo-medium-skin-tone`
   static const IconifyIconData personInTuxedoMediumSkinTone = IconifyIconData(IconData(
-    0xed07,
+    0xea08,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-juggling`
   static const IconifyIconData personJuggling = IconifyIconData(IconData(
-    0xe4b4,
+    0xea09,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-juggling-dark-skin-tone`
   static const IconifyIconData personJugglingDarkSkinTone = IconifyIconData(IconData(
-    0xed08,
+    0xea0a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-juggling-light-skin-tone`
   static const IconifyIconData personJugglingLightSkinTone = IconifyIconData(IconData(
-    0xe4b5,
+    0xea0b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-juggling-medium-dark-skin-tone`
   static const IconifyIconData personJugglingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed09,
+    0xea0c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-juggling-medium-light-skin-tone`
   static const IconifyIconData personJugglingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe4b6,
+    0xea0d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-juggling-medium-skin-tone`
   static const IconifyIconData personJugglingMediumSkinTone = IconifyIconData(IconData(
-    0xe4b7,
+    0xea0e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-kneeling`
   static const IconifyIconData personKneeling = IconifyIconData(IconData(
-    0xe4b8,
+    0xea0f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-kneeling-dark-skin-tone`
   static const IconifyIconData personKneelingDarkSkinTone = IconifyIconData(IconData(
-    0xed0a,
+    0xea10,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-kneeling-dark-skin-tone-facing-right`
   static const IconifyIconData personKneelingDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xed0b,
+    0xea11,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-kneeling-facing-right`
   static const IconifyIconData personKneelingFacingRight = IconifyIconData(IconData(
-    0xe4b9,
+    0xea12,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-kneeling-light-skin-tone`
   static const IconifyIconData personKneelingLightSkinTone = IconifyIconData(IconData(
-    0xe4ba,
+    0xea13,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-kneeling-light-skin-tone-facing-right`
   static const IconifyIconData personKneelingLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe4bb,
+    0xea14,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-kneeling-medium-dark-skin-tone`
   static const IconifyIconData personKneelingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed0c,
+    0xea15,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-kneeling-medium-dark-skin-tone-facing-right`
   static const IconifyIconData personKneelingMediumDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xed0d,
+    0xea16,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-kneeling-medium-light-skin-tone`
   static const IconifyIconData personKneelingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe4bc,
+    0xea17,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-kneeling-medium-light-skin-tone-facing-right`
   static const IconifyIconData personKneelingMediumLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe4bd,
+    0xea18,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-kneeling-medium-skin-tone`
   static const IconifyIconData personKneelingMediumSkinTone = IconifyIconData(IconData(
-    0xe4be,
+    0xea19,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-kneeling-medium-skin-tone-facing-right`
   static const IconifyIconData personKneelingMediumSkinToneFacingRight = IconifyIconData(IconData(
-    0xe4bf,
+    0xea1a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-lifting-weights`
   static const IconifyIconData personLiftingWeights = IconifyIconData(IconData(
-    0xe4c0,
+    0xea1b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-lifting-weights-dark-skin-tone`
   static const IconifyIconData personLiftingWeightsDarkSkinTone = IconifyIconData(IconData(
-    0xed0e,
+    0xea1c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-lifting-weights-light-skin-tone`
   static const IconifyIconData personLiftingWeightsLightSkinTone = IconifyIconData(IconData(
-    0xe4c1,
+    0xea1d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-lifting-weights-medium-dark-skin-tone`
   static const IconifyIconData personLiftingWeightsMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed0f,
+    0xea1e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-lifting-weights-medium-light-skin-tone`
   static const IconifyIconData personLiftingWeightsMediumLightSkinTone = IconifyIconData(IconData(
-    0xe4c2,
+    0xea1f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-lifting-weights-medium-skin-tone`
   static const IconifyIconData personLiftingWeightsMediumSkinTone = IconifyIconData(IconData(
-    0xe4c3,
+    0xea20,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-light-skin-tone`
   static const IconifyIconData personLightSkinTone = IconifyIconData(IconData(
-    0xed10,
+    0xea21,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-light-skin-tone-bald`
   static const IconifyIconData personLightSkinToneBald = IconifyIconData(IconData(
-    0xe4c4,
+    0xea22,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-light-skin-tone-beard`
   static const IconifyIconData personLightSkinToneBeard = IconifyIconData(IconData(
-    0xed11,
+    0xea23,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-light-skin-tone-blond-hair`
   static const IconifyIconData personLightSkinToneBlondHair = IconifyIconData(IconData(
-    0xe4c5,
+    0xea24,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-light-skin-tone-red-hair`
   static const IconifyIconData personLightSkinToneRedHair = IconifyIconData(IconData(
-    0xed12,
+    0xea25,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-light-skin-tone-white-hair`
   static const IconifyIconData personLightSkinToneWhiteHair = IconifyIconData(IconData(
-    0xe4c6,
+    0xea26,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-medium-dark-skin-tone`
   static const IconifyIconData personMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed13,
+    0xea27,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-medium-dark-skin-tone-bald`
   static const IconifyIconData personMediumDarkSkinToneBald = IconifyIconData(IconData(
-    0xed14,
+    0xea28,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-medium-dark-skin-tone-beard`
   static const IconifyIconData personMediumDarkSkinToneBeard = IconifyIconData(IconData(
-    0xed15,
+    0xea29,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-medium-dark-skin-tone-blond-hair`
   static const IconifyIconData personMediumDarkSkinToneBlondHair = IconifyIconData(IconData(
-    0xed16,
+    0xea2a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-medium-dark-skin-tone-curly-hair`
   static const IconifyIconData personMediumDarkSkinToneCurlyHair = IconifyIconData(IconData(
-    0xed17,
+    0xea2b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-medium-dark-skin-tone-red-hair`
   static const IconifyIconData personMediumDarkSkinToneRedHair = IconifyIconData(IconData(
-    0xed18,
+    0xea2c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-medium-dark-skin-tone-white-hair`
   static const IconifyIconData personMediumDarkSkinToneWhiteHair = IconifyIconData(IconData(
-    0xed19,
+    0xea2d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-medium-light-skin-tone`
   static const IconifyIconData personMediumLightSkinTone = IconifyIconData(IconData(
-    0xe4c7,
+    0xea2e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-medium-light-skin-tone-bald`
   static const IconifyIconData personMediumLightSkinToneBald = IconifyIconData(IconData(
-    0xe4c8,
+    0xea2f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-medium-light-skin-tone-beard`
   static const IconifyIconData personMediumLightSkinToneBeard = IconifyIconData(IconData(
-    0xe4c9,
+    0xea30,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-medium-light-skin-tone-blond-hair`
   static const IconifyIconData personMediumLightSkinToneBlondHair = IconifyIconData(IconData(
-    0xe4ca,
+    0xea31,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-medium-light-skin-tone-curly-hair`
   static const IconifyIconData personMediumLightSkinToneCurlyHair = IconifyIconData(IconData(
-    0xe4cb,
+    0xea32,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-medium-light-skin-tone-red-hair`
   static const IconifyIconData personMediumLightSkinToneRedHair = IconifyIconData(IconData(
-    0xed1a,
+    0xea33,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-medium-light-skin-tone-white-hair`
   static const IconifyIconData personMediumLightSkinToneWhiteHair = IconifyIconData(IconData(
-    0xe4cc,
+    0xea34,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-medium-skin-tone`
   static const IconifyIconData personMediumSkinTone = IconifyIconData(IconData(
-    0xed1b,
+    0xea35,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-medium-skin-tone-bald`
   static const IconifyIconData personMediumSkinToneBald = IconifyIconData(IconData(
-    0xe4cd,
+    0xea36,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-medium-skin-tone-beard`
   static const IconifyIconData personMediumSkinToneBeard = IconifyIconData(IconData(
-    0xed1c,
+    0xea37,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-medium-skin-tone-blond-hair`
   static const IconifyIconData personMediumSkinToneBlondHair = IconifyIconData(IconData(
-    0xe4ce,
+    0xea38,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-medium-skin-tone-red-hair`
   static const IconifyIconData personMediumSkinToneRedHair = IconifyIconData(IconData(
-    0xed1d,
+    0xea39,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-medium-skin-tone-white-hair`
   static const IconifyIconData personMediumSkinToneWhiteHair = IconifyIconData(IconData(
-    0xe4cf,
+    0xea3a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-mountain-biking`
   static const IconifyIconData personMountainBiking = IconifyIconData(IconData(
-    0xe4d0,
+    0xea3b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-mountain-biking-dark-skin-tone`
   static const IconifyIconData personMountainBikingDarkSkinTone = IconifyIconData(IconData(
-    0xed1e,
+    0xea3c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-mountain-biking-light-skin-tone`
   static const IconifyIconData personMountainBikingLightSkinTone = IconifyIconData(IconData(
-    0xe4d1,
+    0xea3d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-mountain-biking-medium-dark-skin-tone`
   static const IconifyIconData personMountainBikingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed1f,
+    0xea3e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-mountain-biking-medium-light-skin-tone`
   static const IconifyIconData personMountainBikingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe4d2,
+    0xea3f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-mountain-biking-medium-skin-tone`
   static const IconifyIconData personMountainBikingMediumSkinTone = IconifyIconData(IconData(
-    0xe4d3,
+    0xea40,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-playing-handball`
   static const IconifyIconData personPlayingHandball = IconifyIconData(IconData(
-    0xed20,
+    0xea41,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-playing-handball-dark-skin-tone`
   static const IconifyIconData personPlayingHandballDarkSkinTone = IconifyIconData(IconData(
-    0xed21,
+    0xea42,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-playing-handball-light-skin-tone`
   static const IconifyIconData personPlayingHandballLightSkinTone = IconifyIconData(IconData(
-    0xed22,
+    0xea43,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-playing-handball-medium-dark-skin-tone`
   static const IconifyIconData personPlayingHandballMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed23,
+    0xea44,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-playing-handball-medium-light-skin-tone`
   static const IconifyIconData personPlayingHandballMediumLightSkinTone = IconifyIconData(IconData(
-    0xed24,
+    0xea45,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-playing-handball-medium-skin-tone`
   static const IconifyIconData personPlayingHandballMediumSkinTone = IconifyIconData(IconData(
-    0xed25,
+    0xea46,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-playing-water-polo`
   static const IconifyIconData personPlayingWaterPolo = IconifyIconData(IconData(
-    0xe4d4,
+    0xea47,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-playing-water-polo-dark-skin-tone`
   static const IconifyIconData personPlayingWaterPoloDarkSkinTone = IconifyIconData(IconData(
-    0xed26,
+    0xea48,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-playing-water-polo-light-skin-tone`
   static const IconifyIconData personPlayingWaterPoloLightSkinTone = IconifyIconData(IconData(
-    0xe4d5,
+    0xea49,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-playing-water-polo-medium-dark-skin-tone`
   static const IconifyIconData personPlayingWaterPoloMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed27,
+    0xea4a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-playing-water-polo-medium-light-skin-tone`
   static const IconifyIconData personPlayingWaterPoloMediumLightSkinTone = IconifyIconData(IconData(
-    0xe4d6,
+    0xea4b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-playing-water-polo-medium-skin-tone`
   static const IconifyIconData personPlayingWaterPoloMediumSkinTone = IconifyIconData(IconData(
-    0xe4d7,
+    0xea4c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-pouting`
   static const IconifyIconData personPouting = IconifyIconData(IconData(
-    0xe4d8,
+    0xea4d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-pouting-dark-skin-tone`
   static const IconifyIconData personPoutingDarkSkinTone = IconifyIconData(IconData(
-    0xed28,
+    0xea4e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-pouting-light-skin-tone`
   static const IconifyIconData personPoutingLightSkinTone = IconifyIconData(IconData(
-    0xed29,
+    0xea4f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-pouting-medium-dark-skin-tone`
   static const IconifyIconData personPoutingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed2a,
+    0xea50,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-pouting-medium-light-skin-tone`
   static const IconifyIconData personPoutingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe4d9,
+    0xea51,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-pouting-medium-skin-tone`
   static const IconifyIconData personPoutingMediumSkinTone = IconifyIconData(IconData(
-    0xed2b,
+    0xea52,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-raising-hand`
   static const IconifyIconData personRaisingHand = IconifyIconData(IconData(
-    0xe4da,
+    0xea53,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-raising-hand-dark-skin-tone`
   static const IconifyIconData personRaisingHandDarkSkinTone = IconifyIconData(IconData(
-    0xed2c,
+    0xea54,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-raising-hand-light-skin-tone`
   static const IconifyIconData personRaisingHandLightSkinTone = IconifyIconData(IconData(
-    0xed2d,
+    0xea55,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-raising-hand-medium-dark-skin-tone`
   static const IconifyIconData personRaisingHandMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed2e,
+    0xea56,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-raising-hand-medium-light-skin-tone`
   static const IconifyIconData personRaisingHandMediumLightSkinTone = IconifyIconData(IconData(
-    0xe4db,
+    0xea57,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-raising-hand-medium-skin-tone`
   static const IconifyIconData personRaisingHandMediumSkinTone = IconifyIconData(IconData(
-    0xed2f,
+    0xea58,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-red-hair`
   static const IconifyIconData personRedHair = IconifyIconData(IconData(
-    0xed30,
+    0xea59,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-rowing-boat`
   static const IconifyIconData personRowingBoat = IconifyIconData(IconData(
-    0xed31,
+    0xea5a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-rowing-boat-dark-skin-tone`
   static const IconifyIconData personRowingBoatDarkSkinTone = IconifyIconData(IconData(
-    0xed32,
+    0xea5b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-rowing-boat-light-skin-tone`
   static const IconifyIconData personRowingBoatLightSkinTone = IconifyIconData(IconData(
-    0xed33,
+    0xea5c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-rowing-boat-medium-dark-skin-tone`
   static const IconifyIconData personRowingBoatMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed34,
+    0xea5d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-rowing-boat-medium-light-skin-tone`
   static const IconifyIconData personRowingBoatMediumLightSkinTone = IconifyIconData(IconData(
-    0xed35,
+    0xea5e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-rowing-boat-medium-skin-tone`
   static const IconifyIconData personRowingBoatMediumSkinTone = IconifyIconData(IconData(
-    0xed36,
+    0xea5f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-running`
   static const IconifyIconData personRunning = IconifyIconData(IconData(
-    0xe4dc,
+    0xea60,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-running-dark-skin-tone`
   static const IconifyIconData personRunningDarkSkinTone = IconifyIconData(IconData(
-    0xed37,
+    0xea61,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-running-dark-skin-tone-facing-right`
   static const IconifyIconData personRunningDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xed38,
+    0xea62,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-running-facing-right`
   static const IconifyIconData personRunningFacingRight = IconifyIconData(IconData(
-    0xe4dd,
+    0xea63,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-running-light-skin-tone`
   static const IconifyIconData personRunningLightSkinTone = IconifyIconData(IconData(
-    0xe4de,
+    0xea64,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-running-light-skin-tone-facing-right`
   static const IconifyIconData personRunningLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe4df,
+    0xea65,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-running-medium-dark-skin-tone`
   static const IconifyIconData personRunningMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed39,
+    0xea66,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-running-medium-dark-skin-tone-facing-right`
   static const IconifyIconData personRunningMediumDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xed3a,
+    0xea67,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-running-medium-light-skin-tone`
   static const IconifyIconData personRunningMediumLightSkinTone = IconifyIconData(IconData(
-    0xe4e0,
+    0xea68,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-running-medium-light-skin-tone-facing-right`
   static const IconifyIconData personRunningMediumLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe4e1,
+    0xea69,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-running-medium-skin-tone`
   static const IconifyIconData personRunningMediumSkinTone = IconifyIconData(IconData(
-    0xe4e2,
+    0xea6a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-running-medium-skin-tone-facing-right`
   static const IconifyIconData personRunningMediumSkinToneFacingRight = IconifyIconData(IconData(
-    0xe4e3,
+    0xea6b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-shrugging`
   static const IconifyIconData personShrugging = IconifyIconData(IconData(
-    0xe4e4,
+    0xea6c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-shrugging-dark-skin-tone`
   static const IconifyIconData personShruggingDarkSkinTone = IconifyIconData(IconData(
-    0xed3b,
+    0xea6d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-shrugging-light-skin-tone`
   static const IconifyIconData personShruggingLightSkinTone = IconifyIconData(IconData(
-    0xed3c,
+    0xea6e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-shrugging-medium-dark-skin-tone`
   static const IconifyIconData personShruggingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed3d,
+    0xea6f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-shrugging-medium-light-skin-tone`
   static const IconifyIconData personShruggingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe4e5,
+    0xea70,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-shrugging-medium-skin-tone`
   static const IconifyIconData personShruggingMediumSkinTone = IconifyIconData(IconData(
-    0xed3e,
+    0xea71,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-sneezing-into-elbow`
   static const IconifyIconData personSneezingIntoElbow = IconifyIconData(IconData(
-    0xe4e6,
+    0xea72,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-standing`
   static const IconifyIconData personStanding = IconifyIconData(IconData(
-    0xe4e7,
+    0xea73,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-standing-dark-skin-tone`
   static const IconifyIconData personStandingDarkSkinTone = IconifyIconData(IconData(
-    0xed3f,
+    0xea74,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-standing-light-skin-tone`
   static const IconifyIconData personStandingLightSkinTone = IconifyIconData(IconData(
-    0xe4e8,
+    0xea75,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-standing-medium-dark-skin-tone`
   static const IconifyIconData personStandingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed40,
+    0xea76,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-standing-medium-light-skin-tone`
   static const IconifyIconData personStandingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe4e9,
+    0xea77,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-standing-medium-skin-tone`
   static const IconifyIconData personStandingMediumSkinTone = IconifyIconData(IconData(
-    0xe4ea,
+    0xea78,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-surfing`
   static const IconifyIconData personSurfing = IconifyIconData(IconData(
-    0xe4eb,
+    0xea79,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-surfing-dark-skin-tone`
   static const IconifyIconData personSurfingDarkSkinTone = IconifyIconData(IconData(
-    0xed41,
+    0xea7a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-surfing-light-skin-tone`
   static const IconifyIconData personSurfingLightSkinTone = IconifyIconData(IconData(
-    0xe4ec,
+    0xea7b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-surfing-medium-dark-skin-tone`
   static const IconifyIconData personSurfingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed42,
+    0xea7c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-surfing-medium-light-skin-tone`
   static const IconifyIconData personSurfingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe4ed,
+    0xea7d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-surfing-medium-skin-tone`
   static const IconifyIconData personSurfingMediumSkinTone = IconifyIconData(IconData(
-    0xe4ee,
+    0xea7e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-swimming`
   static const IconifyIconData personSwimming = IconifyIconData(IconData(
-    0xe4ef,
+    0xea7f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-swimming-dark-skin-tone`
   static const IconifyIconData personSwimmingDarkSkinTone = IconifyIconData(IconData(
-    0xed43,
+    0xea80,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-swimming-light-skin-tone`
   static const IconifyIconData personSwimmingLightSkinTone = IconifyIconData(IconData(
-    0xe4f0,
+    0xea81,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-swimming-medium-dark-skin-tone`
   static const IconifyIconData personSwimmingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed44,
+    0xea82,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-swimming-medium-light-skin-tone`
   static const IconifyIconData personSwimmingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe4f1,
+    0xea83,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-swimming-medium-skin-tone`
   static const IconifyIconData personSwimmingMediumSkinTone = IconifyIconData(IconData(
-    0xe4f2,
+    0xea84,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-taking-bath`
   static const IconifyIconData personTakingBath = IconifyIconData(IconData(
-    0xed45,
+    0xea85,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-taking-bath-dark-skin-tone`
   static const IconifyIconData personTakingBathDarkSkinTone = IconifyIconData(IconData(
-    0xed46,
+    0xea86,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-taking-bath-light-skin-tone`
   static const IconifyIconData personTakingBathLightSkinTone = IconifyIconData(IconData(
-    0xed47,
+    0xea87,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-taking-bath-medium-dark-skin-tone`
   static const IconifyIconData personTakingBathMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed48,
+    0xea88,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-taking-bath-medium-light-skin-tone`
   static const IconifyIconData personTakingBathMediumLightSkinTone = IconifyIconData(IconData(
-    0xe4f3,
+    0xea89,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-taking-bath-medium-skin-tone`
   static const IconifyIconData personTakingBathMediumSkinTone = IconifyIconData(IconData(
-    0xed49,
+    0xea8a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-tipping-hand`
   static const IconifyIconData personTippingHand = IconifyIconData(IconData(
-    0xe4f4,
+    0xea8b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-tipping-hand-dark-skin-tone`
   static const IconifyIconData personTippingHandDarkSkinTone = IconifyIconData(IconData(
-    0xed4a,
+    0xea8c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-tipping-hand-light-skin-tone`
   static const IconifyIconData personTippingHandLightSkinTone = IconifyIconData(IconData(
-    0xed4b,
+    0xea8d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-tipping-hand-medium-dark-skin-tone`
   static const IconifyIconData personTippingHandMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed4c,
+    0xea8e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-tipping-hand-medium-light-skin-tone`
   static const IconifyIconData personTippingHandMediumLightSkinTone = IconifyIconData(IconData(
-    0xe4f5,
+    0xea8f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-tipping-hand-medium-skin-tone`
   static const IconifyIconData personTippingHandMediumSkinTone = IconifyIconData(IconData(
-    0xed4d,
+    0xea90,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-walking`
   static const IconifyIconData personWalking = IconifyIconData(IconData(
-    0xe4f6,
+    0xea91,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-walking-dark-skin-tone`
   static const IconifyIconData personWalkingDarkSkinTone = IconifyIconData(IconData(
-    0xed4e,
+    0xea92,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-walking-dark-skin-tone-facing-right`
   static const IconifyIconData personWalkingDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xed4f,
+    0xea93,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-walking-facing-right`
   static const IconifyIconData personWalkingFacingRight = IconifyIconData(IconData(
-    0xe4f7,
+    0xea94,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-walking-light-skin-tone`
   static const IconifyIconData personWalkingLightSkinTone = IconifyIconData(IconData(
-    0xe4f8,
+    0xea95,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-walking-light-skin-tone-facing-right`
   static const IconifyIconData personWalkingLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe4f9,
+    0xea96,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-walking-medium-dark-skin-tone`
   static const IconifyIconData personWalkingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed50,
+    0xea97,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-walking-medium-dark-skin-tone-facing-right`
   static const IconifyIconData personWalkingMediumDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xed51,
+    0xea98,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-walking-medium-light-skin-tone`
   static const IconifyIconData personWalkingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe4fa,
+    0xea99,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-walking-medium-light-skin-tone-facing-right`
   static const IconifyIconData personWalkingMediumLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe4fb,
+    0xea9a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-walking-medium-skin-tone`
   static const IconifyIconData personWalkingMediumSkinTone = IconifyIconData(IconData(
-    0xe4fc,
+    0xea9b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-walking-medium-skin-tone-facing-right`
   static const IconifyIconData personWalkingMediumSkinToneFacingRight = IconifyIconData(IconData(
-    0xe4fd,
+    0xea9c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-wearing-turban`
   static const IconifyIconData personWearingTurban = IconifyIconData(IconData(
-    0xed52,
+    0xea9d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-wearing-turban-dark-skin-tone`
   static const IconifyIconData personWearingTurbanDarkSkinTone = IconifyIconData(IconData(
-    0xed53,
+    0xea9e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-wearing-turban-light-skin-tone`
   static const IconifyIconData personWearingTurbanLightSkinTone = IconifyIconData(IconData(
-    0xed54,
+    0xea9f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-wearing-turban-medium-dark-skin-tone`
   static const IconifyIconData personWearingTurbanMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed55,
+    0xeaa0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-wearing-turban-medium-light-skin-tone`
   static const IconifyIconData personWearingTurbanMediumLightSkinTone = IconifyIconData(IconData(
-    0xed56,
+    0xeaa1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-wearing-turban-medium-skin-tone`
   static const IconifyIconData personWearingTurbanMediumSkinTone = IconifyIconData(IconData(
-    0xed57,
+    0xeaa2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-white-hair`
   static const IconifyIconData personWhiteHair = IconifyIconData(IconData(
-    0xe4fe,
+    0xeaa3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-crown`
   static const IconifyIconData personWithCrown = IconifyIconData(IconData(
-    0xe4ff,
+    0xeaa4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-crown-dark-skin-tone`
   static const IconifyIconData personWithCrownDarkSkinTone = IconifyIconData(IconData(
-    0xed58,
+    0xeaa5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-crown-light-skin-tone`
   static const IconifyIconData personWithCrownLightSkinTone = IconifyIconData(IconData(
-    0xed59,
+    0xeaa6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-crown-medium-dark-skin-tone`
   static const IconifyIconData personWithCrownMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed5a,
+    0xeaa7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-crown-medium-light-skin-tone`
   static const IconifyIconData personWithCrownMediumLightSkinTone = IconifyIconData(IconData(
-    0xe500,
+    0xeaa8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-crown-medium-skin-tone`
   static const IconifyIconData personWithCrownMediumSkinTone = IconifyIconData(IconData(
-    0xed5b,
+    0xeaa9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-dog`
   static const IconifyIconData personWithDog = IconifyIconData(IconData(
-    0xed5c,
+    0xeaaa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-medical-mask`
   static const IconifyIconData personWithMedicalMask = IconifyIconData(IconData(
-    0xed5d,
+    0xeaab,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-probing-cane`
   static const IconifyIconData personWithProbingCane = IconifyIconData(IconData(
-    0xe501,
+    0xeaac,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-probing-cane-dark-skin-tone`
   static const IconifyIconData personWithProbingCaneDarkSkinTone = IconifyIconData(IconData(
-    0xed5e,
+    0xeaad,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-probing-cane-light-skin-tone`
   static const IconifyIconData personWithProbingCaneLightSkinTone = IconifyIconData(IconData(
-    0xe502,
+    0xeaae,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-probing-cane-medium-dark-skin-tone`
   static const IconifyIconData personWithProbingCaneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed5f,
+    0xeaaf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-probing-cane-medium-light-skin-tone`
   static const IconifyIconData personWithProbingCaneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe503,
+    0xeab0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-probing-cane-medium-skin-tone`
   static const IconifyIconData personWithProbingCaneMediumSkinTone = IconifyIconData(IconData(
-    0xe504,
+    0xeab1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-skullcap`
   static const IconifyIconData personWithSkullcap = IconifyIconData(IconData(
-    0xed60,
+    0xeab2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-skullcap-dark-skin-tone`
   static const IconifyIconData personWithSkullcapDarkSkinTone = IconifyIconData(IconData(
-    0xed61,
+    0xeab3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-skullcap-light-skin-tone`
   static const IconifyIconData personWithSkullcapLightSkinTone = IconifyIconData(IconData(
-    0xed62,
+    0xeab4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-skullcap-medium-dark-skin-tone`
   static const IconifyIconData personWithSkullcapMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed63,
+    0xeab5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-skullcap-medium-light-skin-tone`
   static const IconifyIconData personWithSkullcapMediumLightSkinTone = IconifyIconData(IconData(
-    0xed64,
+    0xeab6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-skullcap-medium-skin-tone`
   static const IconifyIconData personWithSkullcapMediumSkinTone = IconifyIconData(IconData(
-    0xed65,
+    0xeab7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-veil`
   static const IconifyIconData personWithVeil = IconifyIconData(IconData(
-    0xed66,
+    0xeab8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-veil-dark-skin-tone`
   static const IconifyIconData personWithVeilDarkSkinTone = IconifyIconData(IconData(
-    0xed67,
+    0xeab9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-veil-light-skin-tone`
   static const IconifyIconData personWithVeilLightSkinTone = IconifyIconData(IconData(
-    0xed68,
+    0xeaba,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-veil-medium-dark-skin-tone`
   static const IconifyIconData personWithVeilMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed69,
+    0xeabb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-veil-medium-light-skin-tone`
   static const IconifyIconData personWithVeilMediumLightSkinTone = IconifyIconData(IconData(
-    0xe505,
+    0xeabc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-veil-medium-skin-tone`
   static const IconifyIconData personWithVeilMediumSkinTone = IconifyIconData(IconData(
-    0xed6a,
+    0xeabd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-white-cane`
   static const IconifyIconData personWithWhiteCane = IconifyIconData(IconData(
-    0xe506,
+    0xeabe,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-white-cane-dark-skin-tone`
   static const IconifyIconData personWithWhiteCaneDarkSkinTone = IconifyIconData(IconData(
-    0xed6b,
+    0xeabf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-white-cane-dark-skin-tone-facing-right`
   static const IconifyIconData personWithWhiteCaneDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xed6c,
+    0xeac0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-white-cane-facing-right`
   static const IconifyIconData personWithWhiteCaneFacingRight = IconifyIconData(IconData(
-    0xe507,
+    0xeac1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-white-cane-light-skin-tone`
   static const IconifyIconData personWithWhiteCaneLightSkinTone = IconifyIconData(IconData(
-    0xe508,
+    0xeac2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-white-cane-light-skin-tone-facing-right`
   static const IconifyIconData personWithWhiteCaneLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe509,
+    0xeac3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-white-cane-medium-dark-skin-tone`
   static const IconifyIconData personWithWhiteCaneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed6d,
+    0xeac4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-white-cane-medium-dark-skin-tone-facing-right`
   static const IconifyIconData personWithWhiteCaneMediumDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xed6e,
+    0xeac5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-white-cane-medium-light-skin-tone`
   static const IconifyIconData personWithWhiteCaneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe50a,
+    0xeac6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-white-cane-medium-light-skin-tone-facing-right`
   static const IconifyIconData personWithWhiteCaneMediumLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe50b,
+    0xeac7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-white-cane-medium-skin-tone`
   static const IconifyIconData personWithWhiteCaneMediumSkinTone = IconifyIconData(IconData(
-    0xe50c,
+    0xeac8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `person-with-white-cane-medium-skin-tone-facing-right`
   static const IconifyIconData personWithWhiteCaneMediumSkinToneFacingRight = IconifyIconData(IconData(
-    0xe50d,
+    0xeac9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `persons-hugging`
   static const IconifyIconData personsHugging = IconifyIconData(IconData(
-    0xe50e,
+    0xeaca,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `petri-dish`
   static const IconifyIconData petriDish = IconifyIconData(IconData(
-    0xe50f,
+    0xeacb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `piata`
   static const IconifyIconData piata = IconifyIconData(IconData(
-    0xed6f,
+    0xeacc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pickup-truck`
   static const IconifyIconData pickupTruck = IconifyIconData(IconData(
-    0xe510,
+    0xeacd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `picture`
   static const IconifyIconData picture = IconifyIconData(IconData(
-    0xed70,
+    0xeace,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pie`
   static const IconifyIconData pie = IconifyIconData(IconData(
-    0xe511,
+    0xeacf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pig`
   static const IconifyIconData pig = IconifyIconData(IconData(
-    0xe512,
+    0xead0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pig-face`
   static const IconifyIconData pigFace = IconifyIconData(IconData(
-    0xe513,
+    0xead1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pig-nose`
   static const IconifyIconData pigNose = IconifyIconData(IconData(
-    0xe514,
+    0xead2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pigeon`
   static const IconifyIconData pigeon = IconifyIconData(IconData(
-    0xe515,
+    0xead3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pill`
   static const IconifyIconData pill = IconifyIconData(IconData(
-    0xed71,
+    0xead4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pills`
   static const IconifyIconData pills = IconifyIconData(IconData(
-    0xe516,
+    0xead5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pilot`
   static const IconifyIconData pilot = IconifyIconData(IconData(
-    0xed72,
+    0xead6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pilot-dark-skin-tone`
   static const IconifyIconData pilotDarkSkinTone = IconifyIconData(IconData(
-    0xed73,
+    0xead7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pilot-light-skin-tone`
   static const IconifyIconData pilotLightSkinTone = IconifyIconData(IconData(
-    0xed74,
+    0xead8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pilot-medium-dark-skin-tone`
   static const IconifyIconData pilotMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed75,
+    0xead9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pilot-medium-light-skin-tone`
   static const IconifyIconData pilotMediumLightSkinTone = IconifyIconData(IconData(
-    0xe517,
+    0xeada,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pilot-medium-skin-tone`
   static const IconifyIconData pilotMediumSkinTone = IconifyIconData(IconData(
-    0xed76,
+    0xeadb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pinata`
   static const IconifyIconData pinata = IconifyIconData(IconData(
-    0xed77,
+    0xeadc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pinched-fingers`
   static const IconifyIconData pinchedFingers = IconifyIconData(IconData(
-    0xe518,
+    0xeadd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pinched-fingers-light-skin-tone`
   static const IconifyIconData pinchedFingersLightSkinTone = IconifyIconData(IconData(
-    0xe519,
+    0xeade,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pinched-fingers-medium-light-skin-tone`
   static const IconifyIconData pinchedFingersMediumLightSkinTone = IconifyIconData(IconData(
-    0xe51a,
+    0xeadf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pinched-fingers-medium-skin-tone`
   static const IconifyIconData pinchedFingersMediumSkinTone = IconifyIconData(IconData(
-    0xe51b,
+    0xeae0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pinching-hand`
   static const IconifyIconData pinchingHand = IconifyIconData(IconData(
-    0xe51c,
+    0xeae1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pinching-hand-light-skin-tone`
   static const IconifyIconData pinchingHandLightSkinTone = IconifyIconData(IconData(
-    0xe51d,
+    0xeae2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pinching-hand-medium-light-skin-tone`
   static const IconifyIconData pinchingHandMediumLightSkinTone = IconifyIconData(IconData(
-    0xe51e,
+    0xeae3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pinching-hand-medium-skin-tone`
   static const IconifyIconData pinchingHandMediumSkinTone = IconifyIconData(IconData(
-    0xe51f,
+    0xeae4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pine-decoration`
   static const IconifyIconData pineDecoration = IconifyIconData(IconData(
-    0xed78,
+    0xeae5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pink-heart`
   static const IconifyIconData pinkHeart = IconifyIconData(IconData(
-    0xe520,
+    0xeae6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pinterest`
   static const IconifyIconData pinterest = IconifyIconData(IconData(
-    0xe521,
+    0xeae7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pirate-flag`
   static const IconifyIconData pirateFlag = IconifyIconData(IconData(
-    0xe522,
+    0xeae8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pisces`
   static const IconifyIconData pisces = IconifyIconData(IconData(
-    0xed79,
+    0xeae9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pixelfed`
   static const IconifyIconData pixelfed = IconifyIconData(IconData(
-    0xed7a,
+    0xeaea,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pizza`
   static const IconifyIconData pizza = IconifyIconData(IconData(
-    0xe523,
+    0xeaeb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `placard`
   static const IconifyIconData placard = IconifyIconData(IconData(
-    0xed7b,
+    0xeaec,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `place-of-worship`
   static const IconifyIconData placeOfWorship = IconifyIconData(IconData(
-    0xe524,
+    0xeaed,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `plaster`
   static const IconifyIconData plaster = IconifyIconData(IconData(
-    0xe525,
+    0xeaee,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `plastic-bottle`
   static const IconifyIconData plasticBottle = IconifyIconData(IconData(
-    0xed7c,
+    0xeaef,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `play-button`
   static const IconifyIconData playButton = IconifyIconData(IconData(
-    0xe526,
+    0xeaf0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `play-or-pause-button`
   static const IconifyIconData playOrPauseButton = IconifyIconData(IconData(
-    0xe527,
+    0xeaf1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `playground-slide`
   static const IconifyIconData playgroundSlide = IconifyIconData(IconData(
-    0xe528,
+    0xeaf2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pleading-face`
   static const IconifyIconData pleadingFace = IconifyIconData(IconData(
-    0xe529,
+    0xeaf3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `plus`
   static const IconifyIconData plus = IconifyIconData(IconData(
-    0xe52a,
+    0xeaf4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `plus-sign`
   static const IconifyIconData plusSign = IconifyIconData(IconData(
-    0xe52b,
+    0xeaf5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `polar-bear`
   static const IconifyIconData polarBear = IconifyIconData(IconData(
-    0xe52c,
+    0xeaf6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `polar-explorer`
   static const IconifyIconData polarExplorer = IconifyIconData(IconData(
-    0xed7d,
+    0xeaf7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `polar-explorer-man`
   static const IconifyIconData polarExplorerMan = IconifyIconData(IconData(
-    0xed7e,
+    0xeaf8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `polar-explorer-woman`
   static const IconifyIconData polarExplorerWoman = IconifyIconData(IconData(
-    0xed7f,
+    0xeaf9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `polar-research-station`
   static const IconifyIconData polarResearchStation = IconifyIconData(IconData(
-    0xed80,
+    0xeafa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `police-car`
   static const IconifyIconData policeCar = IconifyIconData(IconData(
-    0xed81,
+    0xeafb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `police-car-light`
   static const IconifyIconData policeCarLight = IconifyIconData(IconData(
-    0xe52d,
+    0xeafc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `police-officer`
   static const IconifyIconData policeOfficer = IconifyIconData(IconData(
-    0xed82,
+    0xeafd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `police-officer-dark-skin-tone`
   static const IconifyIconData policeOfficerDarkSkinTone = IconifyIconData(IconData(
-    0xed83,
+    0xeafe,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `police-officer-light-skin-tone`
   static const IconifyIconData policeOfficerLightSkinTone = IconifyIconData(IconData(
-    0xed84,
+    0xeaff,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `police-officer-medium-dark-skin-tone`
   static const IconifyIconData policeOfficerMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed85,
+    0xeb00,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `police-officer-medium-light-skin-tone`
   static const IconifyIconData policeOfficerMediumLightSkinTone = IconifyIconData(IconData(
-    0xed86,
+    0xeb01,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `police-officer-medium-skin-tone`
   static const IconifyIconData policeOfficerMediumSkinTone = IconifyIconData(IconData(
-    0xed87,
+    0xeb02,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pomegranate`
   static const IconifyIconData pomegranate = IconifyIconData(IconData(
-    0xe52e,
+    0xeb03,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `poodle`
   static const IconifyIconData poodle = IconifyIconData(IconData(
-    0xe52f,
+    0xeb04,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pool-8-ball`
   static const IconifyIconData pool8Ball = IconifyIconData(IconData(
-    0xe530,
+    0xeb05,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `popcorn`
   static const IconifyIconData popcorn = IconifyIconData(IconData(
-    0xe531,
+    0xeb06,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `poppy`
   static const IconifyIconData poppy = IconifyIconData(IconData(
-    0xed88,
+    0xeb07,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `porpoise`
   static const IconifyIconData porpoise = IconifyIconData(IconData(
-    0xe532,
+    0xeb08,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `post-office`
   static const IconifyIconData postOffice = IconifyIconData(IconData(
-    0xe533,
+    0xeb09,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `postal-horn`
   static const IconifyIconData postalHorn = IconifyIconData(IconData(
-    0xed89,
+    0xeb0a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `postbox`
   static const IconifyIconData postbox = IconifyIconData(IconData(
-    0xed8a,
+    0xeb0b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pot-of-food`
   static const IconifyIconData potOfFood = IconifyIconData(IconData(
-    0xe534,
+    0xeb0c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `potable-water`
   static const IconifyIconData potableWater = IconifyIconData(IconData(
-    0xe535,
+    0xeb0d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `potato`
   static const IconifyIconData potato = IconifyIconData(IconData(
-    0xed8b,
+    0xeb0e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `potentiometer`
   static const IconifyIconData potentiometer = IconifyIconData(IconData(
-    0xed8c,
+    0xeb0f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `potted-plant`
   static const IconifyIconData pottedPlant = IconifyIconData(IconData(
-    0xed8d,
+    0xeb10,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `poultry-leg`
   static const IconifyIconData poultryLeg = IconifyIconData(IconData(
-    0xe536,
+    0xeb11,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pound-banknote`
   static const IconifyIconData poundBanknote = IconifyIconData(IconData(
-    0xed8e,
+    0xeb12,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pouring-liquid`
   static const IconifyIconData pouringLiquid = IconifyIconData(IconData(
-    0xed8f,
+    0xeb13,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pouting-cat`
   static const IconifyIconData poutingCat = IconifyIconData(IconData(
-    0xed90,
+    0xeb14,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `power-on-off-symbol`
   static const IconifyIconData powerOnOffSymbol = IconifyIconData(IconData(
-    0xe537,
+    0xeb15,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `power-on-symbol`
   static const IconifyIconData powerOnSymbol = IconifyIconData(IconData(
-    0xe538,
+    0xeb16,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `power-sleep-symbol`
   static const IconifyIconData powerSleepSymbol = IconifyIconData(IconData(
-    0xe539,
+    0xeb17,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `power-symbol`
   static const IconifyIconData powerSymbol = IconifyIconData(IconData(
-    0xe53a,
+    0xeb18,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `prayer-beads`
   static const IconifyIconData prayerBeads = IconifyIconData(IconData(
-    0xe53b,
+    0xeb19,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pregnant-man`
   static const IconifyIconData pregnantMan = IconifyIconData(IconData(
-    0xed91,
+    0xeb1a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pregnant-man-dark-skin-tone`
   static const IconifyIconData pregnantManDarkSkinTone = IconifyIconData(IconData(
-    0xed92,
+    0xeb1b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pregnant-man-light-skin-tone`
   static const IconifyIconData pregnantManLightSkinTone = IconifyIconData(IconData(
-    0xed93,
+    0xeb1c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pregnant-man-medium-dark-skin-tone`
   static const IconifyIconData pregnantManMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed94,
+    0xeb1d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pregnant-man-medium-light-skin-tone`
   static const IconifyIconData pregnantManMediumLightSkinTone = IconifyIconData(IconData(
-    0xed95,
+    0xeb1e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pregnant-man-medium-skin-tone`
   static const IconifyIconData pregnantManMediumSkinTone = IconifyIconData(IconData(
-    0xed96,
+    0xeb1f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pregnant-person`
   static const IconifyIconData pregnantPerson = IconifyIconData(IconData(
-    0xed97,
+    0xeb20,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pregnant-person-dark-skin-tone`
   static const IconifyIconData pregnantPersonDarkSkinTone = IconifyIconData(IconData(
-    0xed98,
+    0xeb21,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pregnant-person-light-skin-tone`
   static const IconifyIconData pregnantPersonLightSkinTone = IconifyIconData(IconData(
-    0xed99,
+    0xeb22,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pregnant-person-medium-dark-skin-tone`
   static const IconifyIconData pregnantPersonMediumDarkSkinTone = IconifyIconData(IconData(
-    0xed9a,
+    0xeb23,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pregnant-person-medium-light-skin-tone`
   static const IconifyIconData pregnantPersonMediumLightSkinTone = IconifyIconData(IconData(
-    0xed9b,
+    0xeb24,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pregnant-person-medium-skin-tone`
   static const IconifyIconData pregnantPersonMediumSkinTone = IconifyIconData(IconData(
-    0xed9c,
+    0xeb25,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pregnant-woman`
   static const IconifyIconData pregnantWoman = IconifyIconData(IconData(
-    0xed9d,
+    0xeb26,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pregnant-woman-dark-skin-tone`
   static const IconifyIconData pregnantWomanDarkSkinTone = IconifyIconData(IconData(
-    0xed9e,
+    0xeb27,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pregnant-woman-light-skin-tone`
   static const IconifyIconData pregnantWomanLightSkinTone = IconifyIconData(IconData(
-    0xed9f,
+    0xeb28,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pregnant-woman-medium-dark-skin-tone`
   static const IconifyIconData pregnantWomanMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeda0,
+    0xeb29,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pregnant-woman-medium-light-skin-tone`
   static const IconifyIconData pregnantWomanMediumLightSkinTone = IconifyIconData(IconData(
-    0xeda1,
+    0xeb2a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pregnant-woman-medium-skin-tone`
   static const IconifyIconData pregnantWomanMediumSkinTone = IconifyIconData(IconData(
-    0xeda2,
+    0xeb2b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `prince`
   static const IconifyIconData prince = IconifyIconData(IconData(
-    0xe53c,
+    0xeb2c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `prince-dark-skin-tone`
   static const IconifyIconData princeDarkSkinTone = IconifyIconData(IconData(
-    0xeda3,
+    0xeb2d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `prince-light-skin-tone`
   static const IconifyIconData princeLightSkinTone = IconifyIconData(IconData(
-    0xeda4,
+    0xeb2e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `prince-medium-dark-skin-tone`
   static const IconifyIconData princeMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeda5,
+    0xeb2f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `prince-medium-light-skin-tone`
   static const IconifyIconData princeMediumLightSkinTone = IconifyIconData(IconData(
-    0xe53d,
+    0xeb30,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `prince-medium-skin-tone`
   static const IconifyIconData princeMediumSkinTone = IconifyIconData(IconData(
-    0xeda6,
+    0xeb31,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `princess`
   static const IconifyIconData princess = IconifyIconData(IconData(
-    0xe53e,
+    0xeb32,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `princess-dark-skin-tone`
   static const IconifyIconData princessDarkSkinTone = IconifyIconData(IconData(
-    0xeda7,
+    0xeb33,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `princess-light-skin-tone`
   static const IconifyIconData princessLightSkinTone = IconifyIconData(IconData(
-    0xeda8,
+    0xeb34,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `princess-medium-dark-skin-tone`
   static const IconifyIconData princessMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeda9,
+    0xeb35,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `princess-medium-light-skin-tone`
   static const IconifyIconData princessMediumLightSkinTone = IconifyIconData(IconData(
-    0xe53f,
+    0xeb36,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `princess-medium-skin-tone`
   static const IconifyIconData princessMediumSkinTone = IconifyIconData(IconData(
-    0xedaa,
+    0xeb37,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `printer`
   static const IconifyIconData printer = IconifyIconData(IconData(
-    0xe540,
+    0xeb38,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `probing-cane`
   static const IconifyIconData probingCane = IconifyIconData(IconData(
-    0xe541,
+    0xeb39,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `prohibited`
   static const IconifyIconData prohibited = IconifyIconData(IconData(
-    0xe542,
+    0xeb3a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `purple-circle`
   static const IconifyIconData purpleCircle = IconifyIconData(IconData(
-    0xedab,
+    0xeb3b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `purse`
   static const IconifyIconData purse = IconifyIconData(IconData(
-    0xedac,
+    0xeb3c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `pushpin`
   static const IconifyIconData pushpin = IconifyIconData(IconData(
-    0xe543,
+    0xeb3d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `puzzle-piece`
   static const IconifyIconData puzzlePiece = IconifyIconData(IconData(
-    0xedad,
+    0xeb3e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `qr-code`
   static const IconifyIconData qrCode = IconifyIconData(IconData(
-    0xe544,
+    0xeb3f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `quebec-flag`
   static const IconifyIconData quebecFlag = IconifyIconData(IconData(
-    0xedae,
+    0xeb40,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `queretaro-flag`
   static const IconifyIconData queretaroFlag = IconifyIconData(IconData(
-    0xedaf,
+    0xeb41,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `question-mark`
   static const IconifyIconData questionMark = IconifyIconData(IconData(
-    0xe545,
+    0xeb42,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rabbit`
   static const IconifyIconData rabbit = IconifyIconData(IconData(
-    0xe546,
+    0xeb43,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rabbit-face`
   static const IconifyIconData rabbitFace = IconifyIconData(IconData(
-    0xe547,
+    0xeb44,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `raccoon`
   static const IconifyIconData raccoon = IconifyIconData(IconData(
-    0xe548,
+    0xeb45,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `racing-car`
   static const IconifyIconData racingCar = IconifyIconData(IconData(
-    0xe549,
+    0xeb46,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `radio`
   static const IconifyIconData radio = IconifyIconData(IconData(
-    0xe54a,
+    0xeb47,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `radio-button`
   static const IconifyIconData radioButton = IconifyIconData(IconData(
-    0xe54b,
+    0xeb48,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `radioactive`
   static const IconifyIconData radioactive = IconifyIconData(IconData(
-    0xe54c,
+    0xeb49,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `radioactive-waste`
   static const IconifyIconData radioactiveWaste = IconifyIconData(IconData(
-    0xe54d,
+    0xeb4a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `railway-car`
   static const IconifyIconData railwayCar = IconifyIconData(IconData(
-    0xe54e,
+    0xeb4b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `railway-track`
   static const IconifyIconData railwayTrack = IconifyIconData(IconData(
-    0xedb0,
+    0xeb4c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rainbow`
   static const IconifyIconData rainbow = IconifyIconData(IconData(
-    0xedb1,
+    0xeb4d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `raised-back-of-hand`
   static const IconifyIconData raisedBackOfHand = IconifyIconData(IconData(
-    0xe54f,
+    0xeb4e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `raised-back-of-hand-light-skin-tone`
   static const IconifyIconData raisedBackOfHandLightSkinTone = IconifyIconData(IconData(
-    0xe550,
+    0xeb4f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `raised-back-of-hand-medium-light-skin-tone`
   static const IconifyIconData raisedBackOfHandMediumLightSkinTone = IconifyIconData(IconData(
-    0xe551,
+    0xeb50,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `raised-back-of-hand-medium-skin-tone`
   static const IconifyIconData raisedBackOfHandMediumSkinTone = IconifyIconData(IconData(
-    0xe552,
+    0xeb51,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `raised-fist`
   static const IconifyIconData raisedFist = IconifyIconData(IconData(
-    0xe553,
+    0xeb52,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `raised-fist-dark-skin-tone`
   static const IconifyIconData raisedFistDarkSkinTone = IconifyIconData(IconData(
-    0xedb2,
+    0xeb53,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `raised-fist-light-skin-tone`
   static const IconifyIconData raisedFistLightSkinTone = IconifyIconData(IconData(
-    0xe554,
+    0xeb54,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `raised-fist-medium-dark-skin-tone`
   static const IconifyIconData raisedFistMediumDarkSkinTone = IconifyIconData(IconData(
-    0xedb3,
+    0xeb55,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `raised-fist-medium-light-skin-tone`
   static const IconifyIconData raisedFistMediumLightSkinTone = IconifyIconData(IconData(
-    0xe555,
+    0xeb56,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `raised-fist-medium-skin-tone`
   static const IconifyIconData raisedFistMediumSkinTone = IconifyIconData(IconData(
-    0xe556,
+    0xeb57,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `raised-hand`
   static const IconifyIconData raisedHand = IconifyIconData(IconData(
-    0xe557,
+    0xeb58,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `raised-hand-light-skin-tone`
   static const IconifyIconData raisedHandLightSkinTone = IconifyIconData(IconData(
-    0xe558,
+    0xeb59,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `raised-hand-medium-light-skin-tone`
   static const IconifyIconData raisedHandMediumLightSkinTone = IconifyIconData(IconData(
-    0xe559,
+    0xeb5a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `raised-hand-medium-skin-tone`
   static const IconifyIconData raisedHandMediumSkinTone = IconifyIconData(IconData(
-    0xe55a,
+    0xeb5b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `raising-hands`
   static const IconifyIconData raisingHands = IconifyIconData(IconData(
-    0xe55b,
+    0xeb5c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `raising-hands-dark-skin-tone`
   static const IconifyIconData raisingHandsDarkSkinTone = IconifyIconData(IconData(
-    0xedb4,
+    0xeb5d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `raising-hands-light-skin-tone`
   static const IconifyIconData raisingHandsLightSkinTone = IconifyIconData(IconData(
-    0xe55c,
+    0xeb5e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `raising-hands-medium-dark-skin-tone`
   static const IconifyIconData raisingHandsMediumDarkSkinTone = IconifyIconData(IconData(
-    0xedb5,
+    0xeb5f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `raising-hands-medium-light-skin-tone`
   static const IconifyIconData raisingHandsMediumLightSkinTone = IconifyIconData(IconData(
-    0xe55d,
+    0xeb60,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `raising-hands-medium-skin-tone`
   static const IconifyIconData raisingHandsMediumSkinTone = IconifyIconData(IconData(
-    0xe55e,
+    0xeb61,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ram`
   static const IconifyIconData ram = IconifyIconData(IconData(
-    0xedb6,
+    0xeb62,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `raspberry-pi`
   static const IconifyIconData raspberryPi = IconifyIconData(IconData(
-    0xe55f,
+    0xeb63,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rat`
   static const IconifyIconData rat = IconifyIconData(IconData(
-    0xe560,
+    0xeb64,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `razor`
   static const IconifyIconData razor = IconifyIconData(IconData(
-    0xe561,
+    0xeb65,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `receipt`
   static const IconifyIconData receipt = IconifyIconData(IconData(
-    0xe562,
+    0xeb66,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `record-button`
   static const IconifyIconData recordButton = IconifyIconData(IconData(
-    0xe563,
+    0xeb67,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `recycling-symbol`
   static const IconifyIconData recyclingSymbol = IconifyIconData(IconData(
-    0xedb7,
+    0xeb68,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `red-and-black-flag`
   static const IconifyIconData redAndBlackFlag = IconifyIconData(IconData(
-    0xe564,
+    0xeb69,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `red-apple`
   static const IconifyIconData redApple = IconifyIconData(IconData(
-    0xe565,
+    0xeb6a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `red-circle`
   static const IconifyIconData redCircle = IconifyIconData(IconData(
-    0xe566,
+    0xeb6b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `red-envelope`
   static const IconifyIconData redEnvelope = IconifyIconData(IconData(
-    0xe567,
+    0xeb6c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `red-exclamation-mark`
   static const IconifyIconData redExclamationMark = IconifyIconData(IconData(
-    0xedb8,
+    0xeb6d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `red-eye`
   static const IconifyIconData redEye = IconifyIconData(IconData(
-    0xe568,
+    0xeb6e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `red-flag`
   static const IconifyIconData redFlag = IconifyIconData(IconData(
-    0xe569,
+    0xeb6f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `red-heart`
   static const IconifyIconData redHeart = IconifyIconData(IconData(
-    0xe56a,
+    0xeb70,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `red-hexagon`
   static const IconifyIconData redHexagon = IconifyIconData(IconData(
-    0xe56b,
+    0xeb71,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `red-paper-lantern`
   static const IconifyIconData redPaperLantern = IconifyIconData(IconData(
-    0xe56c,
+    0xeb72,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `red-question-mark`
   static const IconifyIconData redQuestionMark = IconifyIconData(IconData(
-    0xe56d,
+    0xeb73,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `red-square`
   static const IconifyIconData redSquare = IconifyIconData(IconData(
-    0xe56e,
+    0xeb74,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `red-square-flag`
   static const IconifyIconData redSquareFlag = IconifyIconData(IconData(
-    0xe56f,
+    0xeb75,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `red-triangle-pointed-down`
   static const IconifyIconData redTrianglePointedDown = IconifyIconData(IconData(
-    0xe570,
+    0xeb76,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `red-triangle-pointed-up`
   static const IconifyIconData redTrianglePointedUp = IconifyIconData(IconData(
-    0xe571,
+    0xeb77,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `reddit`
   static const IconifyIconData reddit = IconifyIconData(IconData(
-    0xe572,
+    0xeb78,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-a`
   static const IconifyIconData regionalIndicatorA = IconifyIconData(IconData(
-    0xe573,
+    0xeb79,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-b`
   static const IconifyIconData regionalIndicatorB = IconifyIconData(IconData(
-    0xe574,
+    0xeb7a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-c`
   static const IconifyIconData regionalIndicatorC = IconifyIconData(IconData(
-    0xe575,
+    0xeb7b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-d`
   static const IconifyIconData regionalIndicatorD = IconifyIconData(IconData(
-    0xe576,
+    0xeb7c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-e`
   static const IconifyIconData regionalIndicatorE = IconifyIconData(IconData(
-    0xe577,
+    0xeb7d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-f`
   static const IconifyIconData regionalIndicatorF = IconifyIconData(IconData(
-    0xe578,
+    0xeb7e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-g`
   static const IconifyIconData regionalIndicatorG = IconifyIconData(IconData(
-    0xe579,
+    0xeb7f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-h`
   static const IconifyIconData regionalIndicatorH = IconifyIconData(IconData(
-    0xe57a,
+    0xeb80,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-i`
   static const IconifyIconData regionalIndicatorI = IconifyIconData(IconData(
-    0xe57b,
+    0xeb81,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-j`
   static const IconifyIconData regionalIndicatorJ = IconifyIconData(IconData(
-    0xedb9,
+    0xeb82,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-k`
   static const IconifyIconData regionalIndicatorK = IconifyIconData(IconData(
-    0xe57c,
+    0xeb83,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-l`
   static const IconifyIconData regionalIndicatorL = IconifyIconData(IconData(
-    0xe57d,
+    0xeb84,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-m`
   static const IconifyIconData regionalIndicatorM = IconifyIconData(IconData(
-    0xe57e,
+    0xeb85,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-n`
   static const IconifyIconData regionalIndicatorN = IconifyIconData(IconData(
-    0xe57f,
+    0xeb86,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-o`
   static const IconifyIconData regionalIndicatorO = IconifyIconData(IconData(
-    0xe580,
+    0xeb87,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-p`
   static const IconifyIconData regionalIndicatorP = IconifyIconData(IconData(
-    0xe581,
+    0xeb88,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-q`
   static const IconifyIconData regionalIndicatorQ = IconifyIconData(IconData(
-    0xe582,
+    0xeb89,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-r`
   static const IconifyIconData regionalIndicatorR = IconifyIconData(IconData(
-    0xe583,
+    0xeb8a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-s`
   static const IconifyIconData regionalIndicatorS = IconifyIconData(IconData(
-    0xedba,
+    0xeb8b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-t`
   static const IconifyIconData regionalIndicatorT = IconifyIconData(IconData(
-    0xe584,
+    0xeb8c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-u`
   static const IconifyIconData regionalIndicatorU = IconifyIconData(IconData(
-    0xe585,
+    0xeb8d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-v`
   static const IconifyIconData regionalIndicatorV = IconifyIconData(IconData(
-    0xe586,
+    0xeb8e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-w`
   static const IconifyIconData regionalIndicatorW = IconifyIconData(IconData(
-    0xe587,
+    0xeb8f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-x`
   static const IconifyIconData regionalIndicatorX = IconifyIconData(IconData(
-    0xe588,
+    0xeb90,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-y`
   static const IconifyIconData regionalIndicatorY = IconifyIconData(IconData(
-    0xe589,
+    0xeb91,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `regional-indicator-z`
   static const IconifyIconData regionalIndicatorZ = IconifyIconData(IconData(
-    0xe58a,
+    0xeb92,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `registered`
   static const IconifyIconData registered = IconifyIconData(IconData(
-    0xe58b,
+    0xeb93,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `relieved-face`
   static const IconifyIconData relievedFace = IconifyIconData(IconData(
-    0xe58c,
+    0xeb94,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `reminder-ribbon`
   static const IconifyIconData reminderRibbon = IconifyIconData(IconData(
-    0xe58d,
+    0xeb95,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `repeat-button`
   static const IconifyIconData repeatButton = IconifyIconData(IconData(
-    0xe58e,
+    0xeb96,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `repeat-single-button`
   static const IconifyIconData repeatSingleButton = IconifyIconData(IconData(
-    0xe58f,
+    0xeb97,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rescue-workers-helmet`
   static const IconifyIconData rescueWorkersHelmet = IconifyIconData(IconData(
-    0xe590,
+    0xeb98,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `restroom`
   static const IconifyIconData restroom = IconifyIconData(IconData(
-    0xe591,
+    0xeb99,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `return`
   static const IconifyIconData return_ = IconifyIconData(IconData(
-    0xe592,
+    0xeb9a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `return-back-button`
   static const IconifyIconData returnBackButton = IconifyIconData(IconData(
-    0xe593,
+    0xeb9b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `reusable-bag`
   static const IconifyIconData reusableBag = IconifyIconData(IconData(
-    0xedbb,
+    0xeb9c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `reverse-button`
   static const IconifyIconData reverseButton = IconifyIconData(IconData(
-    0xe594,
+    0xeb9d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `revolving-hearts`
   static const IconifyIconData revolvingHearts = IconifyIconData(IconData(
-    0xe595,
+    0xeb9e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rhinoceros`
   static const IconifyIconData rhinoceros = IconifyIconData(IconData(
-    0xe596,
+    0xeb9f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ribbon`
   static const IconifyIconData ribbon = IconifyIconData(IconData(
-    0xe597,
+    0xeba0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rice-ball`
   static const IconifyIconData riceBall = IconifyIconData(IconData(
-    0xe598,
+    0xeba1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rice-cracker`
   static const IconifyIconData riceCracker = IconifyIconData(IconData(
-    0xedbc,
+    0xeba2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `right-anger-bubble`
   static const IconifyIconData rightAngerBubble = IconifyIconData(IconData(
-    0xedbd,
+    0xeba3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `right-arrow`
   static const IconifyIconData rightArrow = IconifyIconData(IconData(
-    0xe599,
+    0xeba4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `right-arrow-curving-down`
   static const IconifyIconData rightArrowCurvingDown = IconifyIconData(IconData(
-    0xe59a,
+    0xeba5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `right-arrow-curving-left`
   static const IconifyIconData rightArrowCurvingLeft = IconifyIconData(IconData(
-    0xe59b,
+    0xeba6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `right-arrow-curving-up`
   static const IconifyIconData rightArrowCurvingUp = IconifyIconData(IconData(
-    0xe59c,
+    0xeba7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `right-facing-fist`
   static const IconifyIconData rightFacingFist = IconifyIconData(IconData(
-    0xedbe,
+    0xeba8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `right-facing-fist-dark-skin-tone`
   static const IconifyIconData rightFacingFistDarkSkinTone = IconifyIconData(IconData(
-    0xedbf,
+    0xeba9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `right-facing-fist-light-skin-tone`
   static const IconifyIconData rightFacingFistLightSkinTone = IconifyIconData(IconData(
-    0xedc0,
+    0xebaa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `right-facing-fist-medium-dark-skin-tone`
   static const IconifyIconData rightFacingFistMediumDarkSkinTone = IconifyIconData(IconData(
-    0xedc1,
+    0xebab,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `right-facing-fist-medium-light-skin-tone`
   static const IconifyIconData rightFacingFistMediumLightSkinTone = IconifyIconData(IconData(
-    0xedc2,
+    0xebac,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `right-facing-fist-medium-skin-tone`
   static const IconifyIconData rightFacingFistMediumSkinTone = IconifyIconData(IconData(
-    0xedc3,
+    0xebad,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rightwards-hand`
   static const IconifyIconData rightwardsHand = IconifyIconData(IconData(
-    0xe59d,
+    0xebae,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rightwards-hand-light-skin-tone`
   static const IconifyIconData rightwardsHandLightSkinTone = IconifyIconData(IconData(
-    0xe59e,
+    0xebaf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rightwards-hand-medium-light-skin-tone`
   static const IconifyIconData rightwardsHandMediumLightSkinTone = IconifyIconData(IconData(
-    0xe59f,
+    0xebb0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rightwards-hand-medium-skin-tone`
   static const IconifyIconData rightwardsHandMediumSkinTone = IconifyIconData(IconData(
-    0xe5a0,
+    0xebb1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rightwards-pushing-hand`
   static const IconifyIconData rightwardsPushingHand = IconifyIconData(IconData(
-    0xedc4,
+    0xebb2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rightwards-pushing-hand-dark-skin-tone`
   static const IconifyIconData rightwardsPushingHandDarkSkinTone = IconifyIconData(IconData(
-    0xedc5,
+    0xebb3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rightwards-pushing-hand-light-skin-tone`
   static const IconifyIconData rightwardsPushingHandLightSkinTone = IconifyIconData(IconData(
-    0xedc6,
+    0xebb4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rightwards-pushing-hand-medium-dark-skin-tone`
   static const IconifyIconData rightwardsPushingHandMediumDarkSkinTone = IconifyIconData(IconData(
-    0xedc7,
+    0xebb5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rightwards-pushing-hand-medium-light-skin-tone`
   static const IconifyIconData rightwardsPushingHandMediumLightSkinTone = IconifyIconData(IconData(
-    0xedc8,
+    0xebb6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rightwards-pushing-hand-medium-skin-tone`
   static const IconifyIconData rightwardsPushingHandMediumSkinTone = IconifyIconData(IconData(
-    0xedc9,
+    0xebb7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ring`
   static const IconifyIconData ring = IconifyIconData(IconData(
-    0xedca,
+    0xebb8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ring-buoy`
   static const IconifyIconData ringBuoy = IconifyIconData(IconData(
-    0xe5a1,
+    0xebb9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ringed-planet`
   static const IconifyIconData ringedPlanet = IconifyIconData(IconData(
-    0xe5a2,
+    0xebba,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `roasted-sweet-potato`
   static const IconifyIconData roastedSweetPotato = IconifyIconData(IconData(
-    0xedcb,
+    0xebbb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `robot`
   static const IconifyIconData robot = IconifyIconData(IconData(
-    0xe5a3,
+    0xebbc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rock`
   static const IconifyIconData rock = IconifyIconData(IconData(
-    0xe5a4,
+    0xebbd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rocket`
   static const IconifyIconData rocket = IconifyIconData(IconData(
-    0xedcc,
+    0xebbe,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `roll-of-paper`
   static const IconifyIconData rollOfPaper = IconifyIconData(IconData(
-    0xe5a5,
+    0xebbf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rolled-up-newspaper`
   static const IconifyIconData rolledUpNewspaper = IconifyIconData(IconData(
-    0xe5a6,
+    0xebc0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `roller-coaster`
   static const IconifyIconData rollerCoaster = IconifyIconData(IconData(
-    0xe5a7,
+    0xebc1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rolling-on-the-floor-laughing`
   static const IconifyIconData rollingOnTheFloorLaughing = IconifyIconData(IconData(
-    0xe5a8,
+    0xebc2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `root-vegetable`
   static const IconifyIconData rootVegetable = IconifyIconData(IconData(
-    0xe5a9,
+    0xebc3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rose`
   static const IconifyIconData rose = IconifyIconData(IconData(
-    0xe5aa,
+    0xebc4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rosette`
   static const IconifyIconData rosette = IconifyIconData(IconData(
-    0xe5ab,
+    0xebc5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `round-pushpin`
   static const IconifyIconData roundPushpin = IconifyIconData(IconData(
-    0xe5ac,
+    0xebc6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rounded-symbol-for-cai`
   static const IconifyIconData roundedSymbolForCai = IconifyIconData(IconData(
-    0xe5ad,
+    0xebc7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rounded-symbol-for-fu`
   static const IconifyIconData roundedSymbolForFu = IconifyIconData(IconData(
-    0xe5ae,
+    0xebc8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rounded-symbol-for-lu`
   static const IconifyIconData roundedSymbolForLu = IconifyIconData(IconData(
-    0xe5af,
+    0xebc9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rounded-symbol-for-shou`
   static const IconifyIconData roundedSymbolForShou = IconifyIconData(IconData(
-    0xe5b0,
+    0xebca,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rounded-symbol-for-shuangxi`
   static const IconifyIconData roundedSymbolForShuangxi = IconifyIconData(IconData(
-    0xe5b1,
+    0xebcb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rounded-symbol-for-xi`
   static const IconifyIconData roundedSymbolForXi = IconifyIconData(IconData(
-    0xe5b2,
+    0xebcc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ruby`
   static const IconifyIconData ruby = IconifyIconData(IconData(
-    0xedcd,
+    0xebcd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `rugby-football`
   static const IconifyIconData rugbyFootball = IconifyIconData(IconData(
-    0xedce,
+    0xebce,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `running-shirt`
   static const IconifyIconData runningShirt = IconifyIconData(IconData(
-    0xedcf,
+    0xebcf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `running-shoe`
   static const IconifyIconData runningShoe = IconifyIconData(IconData(
-    0xedd0,
+    0xebd0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sad-but-relieved-face`
   static const IconifyIconData sadButRelievedFace = IconifyIconData(IconData(
-    0xe5b3,
+    0xebd1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `safety`
   static const IconifyIconData safety = IconifyIconData(IconData(
-    0xedd1,
+    0xebd2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `safety-pin`
   static const IconifyIconData safetyPin = IconifyIconData(IconData(
-    0xe5b4,
+    0xebd3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sagittarius`
   static const IconifyIconData sagittarius = IconifyIconData(IconData(
-    0xedd2,
+    0xebd4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sailboat`
   static const IconifyIconData sailboat = IconifyIconData(IconData(
-    0xedd3,
+    0xebd5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sake`
   static const IconifyIconData sake = IconifyIconData(IconData(
-    0xedd4,
+    0xebd6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `saline-drip`
   static const IconifyIconData salineDrip = IconifyIconData(IconData(
-    0xe5b5,
+    0xebd7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `salt`
   static const IconifyIconData salt = IconifyIconData(IconData(
-    0xe5b6,
+    0xebd8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `saluting-face`
   static const IconifyIconData salutingFace = IconifyIconData(IconData(
-    0xe5b7,
+    0xebd9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sandwich`
   static const IconifyIconData sandwich = IconifyIconData(IconData(
-    0xe5b8,
+    0xebda,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sanitizer-spray`
   static const IconifyIconData sanitizerSpray = IconifyIconData(IconData(
-    0xedd5,
+    0xebdb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `santa-claus`
   static const IconifyIconData santaClaus = IconifyIconData(IconData(
-    0xedd6,
+    0xebdc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `santa-claus-dark-skin-tone`
   static const IconifyIconData santaClausDarkSkinTone = IconifyIconData(IconData(
-    0xedd7,
+    0xebdd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `santa-claus-light-skin-tone`
   static const IconifyIconData santaClausLightSkinTone = IconifyIconData(IconData(
-    0xedd8,
+    0xebde,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `santa-claus-medium-dark-skin-tone`
   static const IconifyIconData santaClausMediumDarkSkinTone = IconifyIconData(IconData(
-    0xedd9,
+    0xebdf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `santa-claus-medium-light-skin-tone`
   static const IconifyIconData santaClausMediumLightSkinTone = IconifyIconData(IconData(
-    0xedda,
+    0xebe0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `santa-claus-medium-skin-tone`
   static const IconifyIconData santaClausMediumSkinTone = IconifyIconData(IconData(
-    0xeddb,
+    0xebe1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `satellite`
   static const IconifyIconData satellite = IconifyIconData(IconData(
-    0xe5b9,
+    0xebe2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `satellite-antenna`
   static const IconifyIconData satelliteAntenna = IconifyIconData(IconData(
-    0xe5ba,
+    0xebe3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `save`
   static const IconifyIconData save = IconifyIconData(IconData(
-    0xe5bb,
+    0xebe4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `saw`
   static const IconifyIconData saw = IconifyIconData(IconData(
-    0xeddc,
+    0xebe5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `saxophone`
   static const IconifyIconData saxophone = IconifyIconData(IconData(
-    0xe5bc,
+    0xebe6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `scale`
   static const IconifyIconData scale = IconifyIconData(IconData(
-    0xe5bd,
+    0xebe7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `scales`
   static const IconifyIconData scales = IconifyIconData(IconData(
-    0xe5be,
+    0xebe8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `scarf`
   static const IconifyIconData scarf = IconifyIconData(IconData(
-    0xe5bf,
+    0xebe9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `school`
   static const IconifyIconData school = IconifyIconData(IconData(
-    0xeddd,
+    0xebea,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `schwabisch-gmund-forum-gold-und-silber`
   static const IconifyIconData schwabischGmundForumGoldUndSilber = IconifyIconData(IconData(
-    0xe5c0,
+    0xebeb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `schwabisch-gmund-funfknopfturm`
   static const IconifyIconData schwabischGmundFunfknopfturm = IconifyIconData(IconData(
-    0xe5c1,
+    0xebec,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `schwabisch-gmund-ratshaus`
   static const IconifyIconData schwabischGmundRatshaus = IconifyIconData(IconData(
-    0xedde,
+    0xebed,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `schwbisch-gmnd-fnfknopfturm`
   static const IconifyIconData schwbischGmndFnfknopfturm = IconifyIconData(IconData(
-    0xe5c2,
+    0xebee,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `schwbisch-gmnd-forum-gold-und-silber`
   static const IconifyIconData schwbischGmndForumGoldUndSilber = IconifyIconData(IconData(
-    0xe5c3,
+    0xebef,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `schwbisch-gmnd-ratshaus`
   static const IconifyIconData schwbischGmndRatshaus = IconifyIconData(IconData(
-    0xeddf,
+    0xebf0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `scientist`
   static const IconifyIconData scientist = IconifyIconData(IconData(
-    0xede0,
+    0xebf1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `scientist-dark-skin-tone`
   static const IconifyIconData scientistDarkSkinTone = IconifyIconData(IconData(
-    0xede1,
+    0xebf2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `scientist-light-skin-tone`
   static const IconifyIconData scientistLightSkinTone = IconifyIconData(IconData(
-    0xede2,
+    0xebf3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `scientist-medium-dark-skin-tone`
   static const IconifyIconData scientistMediumDarkSkinTone = IconifyIconData(IconData(
-    0xede3,
+    0xebf4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `scientist-medium-light-skin-tone`
   static const IconifyIconData scientistMediumLightSkinTone = IconifyIconData(IconData(
-    0xe5c4,
+    0xebf5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `scientist-medium-skin-tone`
   static const IconifyIconData scientistMediumSkinTone = IconifyIconData(IconData(
-    0xede4,
+    0xebf6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `scissors`
   static const IconifyIconData scissors = IconifyIconData(IconData(
-    0xe5c5,
+    0xebf7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `scorpio`
   static const IconifyIconData scorpio = IconifyIconData(IconData(
-    0xede5,
+    0xebf8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `scorpion`
   static const IconifyIconData scorpion = IconifyIconData(IconData(
-    0xe5c6,
+    0xebf9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `screwdriver`
   static const IconifyIconData screwdriver = IconifyIconData(IconData(
-    0xede6,
+    0xebfa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `scroll`
   static const IconifyIconData scroll = IconifyIconData(IconData(
-    0xe5c7,
+    0xebfb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `scroll-horizontal`
   static const IconifyIconData scrollHorizontal = IconifyIconData(IconData(
-    0xe5c8,
+    0xebfc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `seal`
   static const IconifyIconData seal = IconifyIconData(IconData(
-    0xe5c9,
+    0xebfd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `seat`
   static const IconifyIconData seat = IconifyIconData(IconData(
-    0xede7,
+    0xebfe,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `see-no-evil-monkey`
   static const IconifyIconData seeNoEvilMonkey = IconifyIconData(IconData(
-    0xede8,
+    0xebff,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `seedling`
   static const IconifyIconData seedling = IconifyIconData(IconData(
-    0xede9,
+    0xec00,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `service-mark`
   static const IconifyIconData serviceMark = IconifyIconData(IconData(
-    0xe5ca,
+    0xec01,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `seven-oclock`
   static const IconifyIconData sevenOclock = IconifyIconData(IconData(
-    0xedea,
+    0xec02,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `seven-thirty`
   static const IconifyIconData sevenThirty = IconifyIconData(IconData(
-    0xedeb,
+    0xec03,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sewing-needle`
   static const IconifyIconData sewingNeedle = IconifyIconData(IconData(
-    0xe5cb,
+    0xec04,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `shaking-face`
   static const IconifyIconData shakingFace = IconifyIconData(IconData(
-    0xe5cc,
+    0xec05,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `shallow-pan-of-food`
   static const IconifyIconData shallowPanOfFood = IconifyIconData(IconData(
-    0xedec,
+    0xec06,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `share`
   static const IconifyIconData share = IconifyIconData(IconData(
-    0xe5cd,
+    0xec07,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `shark`
   static const IconifyIconData shark = IconifyIconData(IconData(
-    0xe5ce,
+    0xec08,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `shaved-ice`
   static const IconifyIconData shavedIce = IconifyIconData(IconData(
-    0xe5cf,
+    0xec09,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sheaf-of-rice`
   static const IconifyIconData sheafOfRice = IconifyIconData(IconData(
-    0xe5d0,
+    0xec0a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `shelter`
   static const IconifyIconData shelter = IconifyIconData(IconData(
-    0xe5d1,
+    0xec0b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `shield`
   static const IconifyIconData shield = IconifyIconData(IconData(
-    0xe5d2,
+    0xec0c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `shinto-shrine`
   static const IconifyIconData shintoShrine = IconifyIconData(IconData(
-    0xe5d3,
+    0xec0d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ship`
   static const IconifyIconData ship = IconifyIconData(IconData(
-    0xe5d4,
+    0xec0e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `shooting-star`
   static const IconifyIconData shootingStar = IconifyIconData(IconData(
-    0xe5d5,
+    0xec0f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `shopping-bags`
   static const IconifyIconData shoppingBags = IconifyIconData(IconData(
-    0xe5d6,
+    0xec10,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `shopping-cart`
   static const IconifyIconData shoppingCart = IconifyIconData(IconData(
-    0xe5d7,
+    0xec11,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `shortcake`
   static const IconifyIconData shortcake = IconifyIconData(IconData(
-    0xe5d8,
+    0xec12,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `shorts`
   static const IconifyIconData shorts = IconifyIconData(IconData(
-    0xe5d9,
+    0xec13,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `shot`
   static const IconifyIconData shot = IconifyIconData(IconData(
-    0xe5da,
+    0xec14,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `shovel`
   static const IconifyIconData shovel = IconifyIconData(IconData(
-    0xeded,
+    0xec15,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `shower`
   static const IconifyIconData shower = IconifyIconData(IconData(
-    0xe5db,
+    0xec16,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `shrimp`
   static const IconifyIconData shrimp = IconifyIconData(IconData(
-    0xedee,
+    0xec17,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `shuffle-tracks-button`
   static const IconifyIconData shuffleTracksButton = IconifyIconData(IconData(
-    0xe5dc,
+    0xec18,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `shushing-face`
   static const IconifyIconData shushingFace = IconifyIconData(IconData(
-    0xe5dd,
+    0xec19,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sign-of-the-horns`
   static const IconifyIconData signOfTheHorns = IconifyIconData(IconData(
-    0xedef,
+    0xec1a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sign-of-the-horns-dark-skin-tone`
   static const IconifyIconData signOfTheHornsDarkSkinTone = IconifyIconData(IconData(
-    0xedf0,
+    0xec1b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sign-of-the-horns-light-skin-tone`
   static const IconifyIconData signOfTheHornsLightSkinTone = IconifyIconData(IconData(
-    0xedf1,
+    0xec1c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sign-of-the-horns-medium-dark-skin-tone`
   static const IconifyIconData signOfTheHornsMediumDarkSkinTone = IconifyIconData(IconData(
-    0xedf2,
+    0xec1d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sign-of-the-horns-medium-light-skin-tone`
   static const IconifyIconData signOfTheHornsMediumLightSkinTone = IconifyIconData(IconData(
-    0xedf3,
+    0xec1e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sign-of-the-horns-medium-skin-tone`
   static const IconifyIconData signOfTheHornsMediumSkinTone = IconifyIconData(IconData(
-    0xedf4,
+    0xec1f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `signal`
   static const IconifyIconData signal = IconifyIconData(IconData(
-    0xedf5,
+    0xec20,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `simple`
   static const IconifyIconData simple = IconifyIconData(IconData(
-    0xe5de,
+    0xec21,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `singer`
   static const IconifyIconData singer = IconifyIconData(IconData(
-    0xedf6,
+    0xec22,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `singer-dark-skin-tone`
   static const IconifyIconData singerDarkSkinTone = IconifyIconData(IconData(
-    0xedf7,
+    0xec23,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `singer-light-skin-tone`
   static const IconifyIconData singerLightSkinTone = IconifyIconData(IconData(
-    0xedf8,
+    0xec24,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `singer-medium-dark-skin-tone`
   static const IconifyIconData singerMediumDarkSkinTone = IconifyIconData(IconData(
-    0xedf9,
+    0xec25,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `singer-medium-light-skin-tone`
   static const IconifyIconData singerMediumLightSkinTone = IconifyIconData(IconData(
-    0xedfa,
+    0xec26,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `singer-medium-skin-tone`
   static const IconifyIconData singerMediumSkinTone = IconifyIconData(IconData(
-    0xedfb,
+    0xec27,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `six-oclock`
   static const IconifyIconData sixOclock = IconifyIconData(IconData(
-    0xedfc,
+    0xec28,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `six-thirty`
   static const IconifyIconData sixThirty = IconifyIconData(IconData(
-    0xedfd,
+    0xec29,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `skier`
   static const IconifyIconData skier = IconifyIconData(IconData(
-    0xedfe,
+    0xec2a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `skis`
   static const IconifyIconData skis = IconifyIconData(IconData(
-    0xedff,
+    0xec2b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `skull`
   static const IconifyIconData skull = IconifyIconData(IconData(
-    0xe5df,
+    0xec2c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `skull-and-crossbones`
   static const IconifyIconData skullAndCrossbones = IconifyIconData(IconData(
-    0xee00,
+    0xec2d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `skunk`
   static const IconifyIconData skunk = IconifyIconData(IconData(
-    0xe5e0,
+    0xec2e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sled`
   static const IconifyIconData sled = IconifyIconData(IconData(
-    0xee01,
+    0xec2f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sleeping-face`
   static const IconifyIconData sleepingFace = IconifyIconData(IconData(
-    0xee02,
+    0xec30,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sleepy-face`
   static const IconifyIconData sleepyFace = IconifyIconData(IconData(
-    0xe5e1,
+    0xec31,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `slightly-frowning-face`
   static const IconifyIconData slightlyFrowningFace = IconifyIconData(IconData(
-    0xe5e2,
+    0xec32,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `slightly-smiling-face`
   static const IconifyIconData slightlySmilingFace = IconifyIconData(IconData(
-    0xe5e3,
+    0xec33,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `slot-machine`
   static const IconifyIconData slotMachine = IconifyIconData(IconData(
-    0xe5e4,
+    0xec34,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `small-airplane`
   static const IconifyIconData smallAirplane = IconifyIconData(IconData(
-    0xee03,
+    0xec35,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `small-blue-diamond`
   static const IconifyIconData smallBlueDiamond = IconifyIconData(IconData(
-    0xe5e5,
+    0xec36,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `smartwatch`
   static const IconifyIconData smartwatch = IconifyIconData(IconData(
-    0xee04,
+    0xec37,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `smiling-cat-with-heart-eyes`
   static const IconifyIconData smilingCatWithHeartEyes = IconifyIconData(IconData(
-    0xee05,
+    0xec38,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `smiling-face`
   static const IconifyIconData smilingFace = IconifyIconData(IconData(
-    0xe5e6,
+    0xec39,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `smiling-face-with-halo`
   static const IconifyIconData smilingFaceWithHalo = IconifyIconData(IconData(
-    0xee06,
+    0xec3a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `smiling-face-with-heart-eyes`
   static const IconifyIconData smilingFaceWithHeartEyes = IconifyIconData(IconData(
-    0xe5e7,
+    0xec3b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `smiling-face-with-hearts`
   static const IconifyIconData smilingFaceWithHearts = IconifyIconData(IconData(
-    0xe5e8,
+    0xec3c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `smiling-face-with-horns`
   static const IconifyIconData smilingFaceWithHorns = IconifyIconData(IconData(
-    0xe5e9,
+    0xec3d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `smiling-face-with-open-hands`
   static const IconifyIconData smilingFaceWithOpenHands = IconifyIconData(IconData(
-    0xe5ea,
+    0xec3e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `smiling-face-with-smiling-eyes`
   static const IconifyIconData smilingFaceWithSmilingEyes = IconifyIconData(IconData(
-    0xe5eb,
+    0xec3f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `smiling-face-with-sunglasses`
   static const IconifyIconData smilingFaceWithSunglasses = IconifyIconData(IconData(
-    0xe5ec,
+    0xec40,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `smiling-face-with-tear`
   static const IconifyIconData smilingFaceWithTear = IconifyIconData(IconData(
-    0xe5ed,
+    0xec41,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `smirking-face`
   static const IconifyIconData smirkingFace = IconifyIconData(IconData(
-    0xe5ee,
+    0xec42,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sneezing-face`
   static const IconifyIconData sneezingFace = IconifyIconData(IconData(
-    0xe5ef,
+    0xec43,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `snow-capped-mountain`
   static const IconifyIconData snowCappedMountain = IconifyIconData(IconData(
-    0xe5f0,
+    0xec44,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `snowboarder`
   static const IconifyIconData snowboarder = IconifyIconData(IconData(
-    0xe5f1,
+    0xec45,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `snowboarder-dark-skin-tone`
   static const IconifyIconData snowboarderDarkSkinTone = IconifyIconData(IconData(
-    0xee07,
+    0xec46,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `snowboarder-light-skin-tone`
   static const IconifyIconData snowboarderLightSkinTone = IconifyIconData(IconData(
-    0xe5f2,
+    0xec47,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `snowboarder-medium-dark-skin-tone`
   static const IconifyIconData snowboarderMediumDarkSkinTone = IconifyIconData(IconData(
-    0xee08,
+    0xec48,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `snowboarder-medium-light-skin-tone`
   static const IconifyIconData snowboarderMediumLightSkinTone = IconifyIconData(IconData(
-    0xe5f3,
+    0xec49,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `snowboarder-medium-skin-tone`
   static const IconifyIconData snowboarderMediumSkinTone = IconifyIconData(IconData(
-    0xe5f4,
+    0xec4a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `snowflake`
   static const IconifyIconData snowflake = IconifyIconData(IconData(
-    0xe5f5,
+    0xec4b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `snowman`
   static const IconifyIconData snowman = IconifyIconData(IconData(
-    0xe5f6,
+    0xec4c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `snowman-without-snow`
   static const IconifyIconData snowmanWithoutSnow = IconifyIconData(IconData(
-    0xe5f7,
+    0xec4d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `soccer-ball`
   static const IconifyIconData soccerBall = IconifyIconData(IconData(
-    0xe5f8,
+    0xec4e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `social-distancing`
   static const IconifyIconData socialDistancing = IconifyIconData(IconData(
-    0xe5f9,
+    0xec4f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `socks`
   static const IconifyIconData socks = IconifyIconData(IconData(
-    0xee09,
+    0xec50,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `soft-ice-cream`
   static const IconifyIconData softIceCream = IconifyIconData(IconData(
-    0xe5fa,
+    0xec51,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `softball`
   static const IconifyIconData softball = IconifyIconData(IconData(
-    0xee0a,
+    0xec52,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `solar-cell`
   static const IconifyIconData solarCell = IconifyIconData(IconData(
-    0xee0b,
+    0xec53,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `solar-energy`
   static const IconifyIconData solarEnergy = IconifyIconData(IconData(
-    0xe5fb,
+    0xec54,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `soon-arrow`
   static const IconifyIconData soonArrow = IconifyIconData(IconData(
-    0xe5fc,
+    0xec55,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sort`
   static const IconifyIconData sort = IconifyIconData(IconData(
-    0xe5fd,
+    0xec56,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sos-button`
   static const IconifyIconData sosButton = IconifyIconData(IconData(
-    0xe5fe,
+    0xec57,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sos-stencil`
   static const IconifyIconData sosStencil = IconifyIconData(IconData(
-    0xe5ff,
+    0xec58,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sound-recording-copyright`
   static const IconifyIconData soundRecordingCopyright = IconifyIconData(IconData(
-    0xe600,
+    0xec59,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `space-shuttle`
   static const IconifyIconData spaceShuttle = IconifyIconData(IconData(
-    0xe601,
+    0xec5a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `spade-suit`
   static const IconifyIconData spadeSuit = IconifyIconData(IconData(
-    0xe602,
+    0xec5b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `spaghetti`
   static const IconifyIconData spaghetti = IconifyIconData(IconData(
-    0xe603,
+    0xec5c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sparkle`
   static const IconifyIconData sparkle = IconifyIconData(IconData(
-    0xee0c,
+    0xec5d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sparkler`
   static const IconifyIconData sparkler = IconifyIconData(IconData(
-    0xee0d,
+    0xec5e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sparkles`
   static const IconifyIconData sparkles = IconifyIconData(IconData(
-    0xe604,
+    0xec5f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sparkling-heart`
   static const IconifyIconData sparklingHeart = IconifyIconData(IconData(
-    0xe605,
+    0xec60,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `spatzlepresse`
   static const IconifyIconData spatzlepresse = IconifyIconData(IconData(
-    0xe606,
+    0xec61,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `speak-no-evil-monkey`
   static const IconifyIconData speakNoEvilMonkey = IconifyIconData(IconData(
-    0xee0e,
+    0xec62,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `speaker-high-volume`
   static const IconifyIconData speakerHighVolume = IconifyIconData(IconData(
-    0xe607,
+    0xec63,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `speaker-low-volume`
   static const IconifyIconData speakerLowVolume = IconifyIconData(IconData(
-    0xe608,
+    0xec64,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `speaker-medium-volume`
   static const IconifyIconData speakerMediumVolume = IconifyIconData(IconData(
-    0xe609,
+    0xec65,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `speaking-head`
   static const IconifyIconData speakingHead = IconifyIconData(IconData(
-    0xe60a,
+    0xec66,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `speech-balloon`
   static const IconifyIconData speechBalloon = IconifyIconData(IconData(
-    0xe60b,
+    0xec67,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `speedboat`
   static const IconifyIconData speedboat = IconifyIconData(IconData(
-    0xe60c,
+    0xec68,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `spider`
   static const IconifyIconData spider = IconifyIconData(IconData(
-    0xe60d,
+    0xec69,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `spider-web`
   static const IconifyIconData spiderWeb = IconifyIconData(IconData(
-    0xe60e,
+    0xec6a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `spiral-calendar`
   static const IconifyIconData spiralCalendar = IconifyIconData(IconData(
-    0xe60f,
+    0xec6b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `spiral-notepad`
   static const IconifyIconData spiralNotepad = IconifyIconData(IconData(
-    0xe610,
+    0xec6c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `spiral-shell`
   static const IconifyIconData spiralShell = IconifyIconData(IconData(
-    0xe611,
+    0xec6d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `spoon`
   static const IconifyIconData spoon = IconifyIconData(IconData(
-    0xe612,
+    0xec6e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sport-utility-vehicle`
   static const IconifyIconData sportUtilityVehicle = IconifyIconData(IconData(
-    0xe613,
+    0xec6f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sports-medal`
   static const IconifyIconData sportsMedal = IconifyIconData(IconData(
-    0xe614,
+    0xec70,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `spouting-orca`
   static const IconifyIconData spoutingOrca = IconifyIconData(IconData(
-    0xe615,
+    0xec71,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sptzlepresse`
   static const IconifyIconData sptzlepresse = IconifyIconData(IconData(
-    0xe616,
+    0xec72,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `square-with-left-half-black`
   static const IconifyIconData squareWithLeftHalfBlack = IconifyIconData(IconData(
-    0xe617,
+    0xec73,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `square-with-lower-right-diagonal-black`
   static const IconifyIconData squareWithLowerRightDiagonalBlack = IconifyIconData(IconData(
-    0xe618,
+    0xec74,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `square-with-right-half-black`
   static const IconifyIconData squareWithRightHalfBlack = IconifyIconData(IconData(
-    0xe619,
+    0xec75,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `square-with-upper-left-diagonal-black`
   static const IconifyIconData squareWithUpperLeftDiagonalBlack = IconifyIconData(IconData(
-    0xe61a,
+    0xec76,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `squid`
   static const IconifyIconData squid = IconifyIconData(IconData(
-    0xee0f,
+    0xec77,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `squinting-face-with-tongue`
   static const IconifyIconData squintingFaceWithTongue = IconifyIconData(IconData(
-    0xe61b,
+    0xec78,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `stadium`
   static const IconifyIconData stadium = IconifyIconData(IconData(
-    0xe61c,
+    0xec79,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `stairway`
   static const IconifyIconData stairway = IconifyIconData(IconData(
-    0xe61d,
+    0xec7a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `star`
   static const IconifyIconData star = IconifyIconData(IconData(
-    0xe61e,
+    0xec7b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `star-and-crescent`
   static const IconifyIconData starAndCrescent = IconifyIconData(IconData(
-    0xee10,
+    0xec7c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `star-of-david`
   static const IconifyIconData starOfDavid = IconifyIconData(IconData(
-    0xee11,
+    0xec7d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `star-struck`
   static const IconifyIconData starStruck = IconifyIconData(IconData(
-    0xe61f,
+    0xec7e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `star-with-left-half-black`
   static const IconifyIconData starWithLeftHalfBlack = IconifyIconData(IconData(
-    0xe620,
+    0xec7f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `star-with-right-half-black`
   static const IconifyIconData starWithRightHalfBlack = IconifyIconData(IconData(
-    0xe621,
+    0xec80,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `station`
   static const IconifyIconData station = IconifyIconData(IconData(
-    0xe622,
+    0xec81,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `statue-of-liberty`
   static const IconifyIconData statueOfLiberty = IconifyIconData(IconData(
-    0xee12,
+    0xec82,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `statue-of-zeus-at-olympia`
   static const IconifyIconData statueOfZeusAtOlympia = IconifyIconData(IconData(
-    0xe623,
+    0xec83,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `steaming-bowl`
   static const IconifyIconData steamingBowl = IconifyIconData(IconData(
-    0xee13,
+    0xec84,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `stethoscope`
   static const IconifyIconData stethoscope = IconifyIconData(IconData(
-    0xe624,
+    0xec85,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `stethoscope2`
   static const IconifyIconData stethoscope2 = IconifyIconData(IconData(
-    0xe625,
+    0xec86,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `stick-figure`
   static const IconifyIconData stickFigure = IconifyIconData(IconData(
-    0xe626,
+    0xec87,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `stick-figure-leaning-left`
   static const IconifyIconData stickFigureLeaningLeft = IconifyIconData(IconData(
-    0xe627,
+    0xec88,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `stick-figure-leaning-right`
   static const IconifyIconData stickFigureLeaningRight = IconifyIconData(IconData(
-    0xe628,
+    0xec89,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `stick-figure-with-arms-raised`
   static const IconifyIconData stickFigureWithArmsRaised = IconifyIconData(IconData(
-    0xe629,
+    0xec8a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `stick-figure-with-dress`
   static const IconifyIconData stickFigureWithDress = IconifyIconData(IconData(
-    0xe62a,
+    0xec8b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `stick-figure-with-dress-and-arms-raised`
   static const IconifyIconData stickFigureWithDressAndArmsRaised = IconifyIconData(IconData(
-    0xe62b,
+    0xec8c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `stick-figure-with-dress-leaning-left`
   static const IconifyIconData stickFigureWithDressLeaningLeft = IconifyIconData(IconData(
-    0xe62c,
+    0xec8d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `stick-figure-with-dress-leaning-right`
   static const IconifyIconData stickFigureWithDressLeaningRight = IconifyIconData(IconData(
-    0xe62d,
+    0xec8e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `stomach`
   static const IconifyIconData stomach = IconifyIconData(IconData(
-    0xe62e,
+    0xec8f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `stop-button`
   static const IconifyIconData stopButton = IconifyIconData(IconData(
-    0xe62f,
+    0xec90,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `stop-sign`
   static const IconifyIconData stopSign = IconifyIconData(IconData(
-    0xe630,
+    0xec91,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `stopwatch`
   static const IconifyIconData stopwatch = IconifyIconData(IconData(
-    0xe631,
+    0xec92,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `straight-ruler`
   static const IconifyIconData straightRuler = IconifyIconData(IconData(
-    0xe632,
+    0xec93,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `strawberry`
   static const IconifyIconData strawberry = IconifyIconData(IconData(
-    0xee14,
+    0xec94,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `stretcher`
   static const IconifyIconData stretcher = IconifyIconData(IconData(
-    0xe633,
+    0xec95,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `structural-fire`
   static const IconifyIconData structuralFire = IconifyIconData(IconData(
-    0xe634,
+    0xec96,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `student`
   static const IconifyIconData student = IconifyIconData(IconData(
-    0xe635,
+    0xec97,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `student-dark-skin-tone`
   static const IconifyIconData studentDarkSkinTone = IconifyIconData(IconData(
-    0xee15,
+    0xec98,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `student-light-skin-tone`
   static const IconifyIconData studentLightSkinTone = IconifyIconData(IconData(
-    0xee16,
+    0xec99,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `student-medium-dark-skin-tone`
   static const IconifyIconData studentMediumDarkSkinTone = IconifyIconData(IconData(
-    0xee17,
+    0xec9a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `student-medium-light-skin-tone`
   static const IconifyIconData studentMediumLightSkinTone = IconifyIconData(IconData(
-    0xe636,
+    0xec9b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `student-medium-skin-tone`
   static const IconifyIconData studentMediumSkinTone = IconifyIconData(IconData(
-    0xee18,
+    0xec9c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `studio-microphone`
   static const IconifyIconData studioMicrophone = IconifyIconData(IconData(
-    0xe637,
+    0xec9d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `stuffed-flatbread`
   static const IconifyIconData stuffedFlatbread = IconifyIconData(IconData(
-    0xee19,
+    0xec9e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `stuttgart-fernsehturm`
   static const IconifyIconData stuttgartFernsehturm = IconifyIconData(IconData(
-    0xee1a,
+    0xec9f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sun`
   static const IconifyIconData sun = IconifyIconData(IconData(
-    0xe638,
+    0xeca0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sun-behind-cloud`
   static const IconifyIconData sunBehindCloud = IconifyIconData(IconData(
-    0xe639,
+    0xeca1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sun-behind-large-cloud`
   static const IconifyIconData sunBehindLargeCloud = IconifyIconData(IconData(
-    0xe63a,
+    0xeca2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sun-behind-rain-cloud`
   static const IconifyIconData sunBehindRainCloud = IconifyIconData(IconData(
-    0xee1b,
+    0xeca3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sun-behind-small-cloud`
   static const IconifyIconData sunBehindSmallCloud = IconifyIconData(IconData(
-    0xe63b,
+    0xeca4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sun-with-face`
   static const IconifyIconData sunWithFace = IconifyIconData(IconData(
-    0xe63c,
+    0xeca5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sunflower`
   static const IconifyIconData sunflower = IconifyIconData(IconData(
-    0xee1c,
+    0xeca6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sunglasses`
   static const IconifyIconData sunglasses = IconifyIconData(IconData(
-    0xe63d,
+    0xeca7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `superhero`
   static const IconifyIconData superhero = IconifyIconData(IconData(
-    0xe63e,
+    0xeca8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `superhero-dark-skin-tone`
   static const IconifyIconData superheroDarkSkinTone = IconifyIconData(IconData(
-    0xee1d,
+    0xeca9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `superhero-medium-dark-skin-tone`
   static const IconifyIconData superheroMediumDarkSkinTone = IconifyIconData(IconData(
-    0xee1e,
+    0xecaa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `superhero-medium-light-skin-tone`
   static const IconifyIconData superheroMediumLightSkinTone = IconifyIconData(IconData(
-    0xe63f,
+    0xecab,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `supervillain`
   static const IconifyIconData supervillain = IconifyIconData(IconData(
-    0xee1f,
+    0xecac,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `supervillain-dark-skin-tone`
   static const IconifyIconData supervillainDarkSkinTone = IconifyIconData(IconData(
-    0xee20,
+    0xecad,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `supervillain-medium-dark-skin-tone`
   static const IconifyIconData supervillainMediumDarkSkinTone = IconifyIconData(IconData(
-    0xee21,
+    0xecae,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `supervillain-medium-light-skin-tone`
   static const IconifyIconData supervillainMediumLightSkinTone = IconifyIconData(IconData(
-    0xee22,
+    0xecaf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `surveilance`
   static const IconifyIconData surveilance = IconifyIconData(IconData(
-    0xee23,
+    0xecb0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `surveillance`
   static const IconifyIconData surveillance = IconifyIconData(IconData(
-    0xee24,
+    0xecb1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `sushi`
   static const IconifyIconData sushi = IconifyIconData(IconData(
-    0xe640,
+    0xecb2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `suspension-railway`
   static const IconifyIconData suspensionRailway = IconifyIconData(IconData(
-    0xee25,
+    0xecb3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `svg`
   static const IconifyIconData svg = IconifyIconData(IconData(
-    0xee26,
+    0xecb4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `swab-pliers`
   static const IconifyIconData swabPliers = IconifyIconData(IconData(
-    0xe641,
+    0xecb5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `swan`
   static const IconifyIconData swan = IconifyIconData(IconData(
-    0xe642,
+    0xecb6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `swipe`
   static const IconifyIconData swipe = IconifyIconData(IconData(
-    0xe643,
+    0xecb7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `swipe-down`
   static const IconifyIconData swipeDown = IconifyIconData(IconData(
-    0xe644,
+    0xecb8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `swipe-left`
   static const IconifyIconData swipeLeft = IconifyIconData(IconData(
-    0xe645,
+    0xecb9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `swipe-right`
   static const IconifyIconData swipeRight = IconifyIconData(IconData(
-    0xe646,
+    0xecba,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `swipe-up`
   static const IconifyIconData swipeUp = IconifyIconData(IconData(
-    0xe647,
+    0xecbb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `switch`
   static const IconifyIconData switch_ = IconifyIconData(IconData(
-    0xe648,
+    0xecbc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `synagogue`
   static const IconifyIconData synagogue = IconifyIconData(IconData(
-    0xee27,
+    0xecbd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `syringe`
   static const IconifyIconData syringe = IconifyIconData(IconData(
-    0xe649,
+    0xecbe,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `t-rex`
   static const IconifyIconData tRex = IconifyIconData(IconData(
-    0xee28,
+    0xecbf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `tablet`
   static const IconifyIconData tablet = IconifyIconData(IconData(
-    0xe64a,
+    0xecc0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `taco`
   static const IconifyIconData taco = IconifyIconData(IconData(
-    0xe64b,
+    0xecc1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `takeout-box`
   static const IconifyIconData takeoutBox = IconifyIconData(IconData(
-    0xe64c,
+    0xecc2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `tamale`
   static const IconifyIconData tamale = IconifyIconData(IconData(
-    0xe64d,
+    0xecc3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `tanabata-tree`
   static const IconifyIconData tanabataTree = IconifyIconData(IconData(
-    0xee29,
+    0xecc4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `tap`
   static const IconifyIconData tap = IconifyIconData(IconData(
-    0xe64e,
+    0xecc5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `tardis`
   static const IconifyIconData tardis = IconifyIconData(IconData(
-    0xee2a,
+    0xecc6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `taurus`
   static const IconifyIconData taurus = IconifyIconData(IconData(
-    0xee2b,
+    0xecc7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `taxi`
   static const IconifyIconData taxi = IconifyIconData(IconData(
-    0xe64f,
+    0xecc8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `teacup-without-handle`
   static const IconifyIconData teacupWithoutHandle = IconifyIconData(IconData(
-    0xee2c,
+    0xecc9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `teapot`
   static const IconifyIconData teapot = IconifyIconData(IconData(
-    0xe650,
+    0xecca,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `tear-off-calendar`
   static const IconifyIconData tearOffCalendar = IconifyIconData(IconData(
-    0xee2d,
+    0xeccb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `technologist`
   static const IconifyIconData technologist = IconifyIconData(IconData(
-    0xee2e,
+    0xeccc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `technologist-dark-skin-tone`
   static const IconifyIconData technologistDarkSkinTone = IconifyIconData(IconData(
-    0xee2f,
+    0xeccd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `technologist-light-skin-tone`
   static const IconifyIconData technologistLightSkinTone = IconifyIconData(IconData(
-    0xee30,
+    0xecce,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `technologist-medium-dark-skin-tone`
   static const IconifyIconData technologistMediumDarkSkinTone = IconifyIconData(IconData(
-    0xee31,
+    0xeccf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `technologist-medium-light-skin-tone`
   static const IconifyIconData technologistMediumLightSkinTone = IconifyIconData(IconData(
-    0xee32,
+    0xecd0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `technologist-medium-skin-tone`
   static const IconifyIconData technologistMediumSkinTone = IconifyIconData(IconData(
-    0xee33,
+    0xecd1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `telephone`
   static const IconifyIconData telephone = IconifyIconData(IconData(
-    0xe651,
+    0xecd2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `telephone-receiver`
   static const IconifyIconData telephoneReceiver = IconifyIconData(IconData(
-    0xee34,
+    0xecd3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `telescope`
   static const IconifyIconData telescope = IconifyIconData(IconData(
-    0xe652,
+    0xecd4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `television`
   static const IconifyIconData television = IconifyIconData(IconData(
-    0xe653,
+    0xecd5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `temperature-taking`
   static const IconifyIconData temperatureTaking = IconifyIconData(IconData(
-    0xe654,
+    0xecd6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `temple-of-artemis-at-ephesus`
   static const IconifyIconData templeOfArtemisAtEphesus = IconifyIconData(IconData(
-    0xe655,
+    0xecd7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ten-oclock`
   static const IconifyIconData tenOclock = IconifyIconData(IconData(
-    0xee35,
+    0xecd8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ten-thirty`
   static const IconifyIconData tenThirty = IconifyIconData(IconData(
-    0xee36,
+    0xecd9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `tennis`
   static const IconifyIconData tennis = IconifyIconData(IconData(
-    0xe656,
+    0xecda,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `tent`
   static const IconifyIconData tent = IconifyIconData(IconData(
-    0xee37,
+    0xecdb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `test-tube`
   static const IconifyIconData testTube = IconifyIconData(IconData(
-    0xee38,
+    0xecdc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `texas-flag`
   static const IconifyIconData texasFlag = IconifyIconData(IconData(
-    0xee39,
+    0xecdd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `thermometer`
   static const IconifyIconData thermometer = IconifyIconData(IconData(
-    0xe657,
+    0xecde,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `thinking-face`
   static const IconifyIconData thinkingFace = IconifyIconData(IconData(
-    0xe658,
+    0xecdf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `thong-sandal`
   static const IconifyIconData thongSandal = IconifyIconData(IconData(
-    0xe659,
+    0xece0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `thought-balloon`
   static const IconifyIconData thoughtBalloon = IconifyIconData(IconData(
-    0xe65a,
+    0xece1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `thread`
   static const IconifyIconData thread = IconifyIconData(IconData(
-    0xe65b,
+    0xece2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `three-finger-operation`
   static const IconifyIconData threeFingerOperation = IconifyIconData(IconData(
-    0xe65c,
+    0xece3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `three-oclock`
   static const IconifyIconData threeOclock = IconifyIconData(IconData(
-    0xee3a,
+    0xece4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `three-thirty`
   static const IconifyIconData threeThirty = IconifyIconData(IconData(
-    0xee3b,
+    0xece5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `thumbs-down`
   static const IconifyIconData thumbsDown = IconifyIconData(IconData(
-    0xe65d,
+    0xece6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `thumbs-down-light-skin-tone`
   static const IconifyIconData thumbsDownLightSkinTone = IconifyIconData(IconData(
-    0xe65e,
+    0xece7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `thumbs-down-medium-light-skin-tone`
   static const IconifyIconData thumbsDownMediumLightSkinTone = IconifyIconData(IconData(
-    0xe65f,
+    0xece8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `thumbs-down-medium-skin-tone`
   static const IconifyIconData thumbsDownMediumSkinTone = IconifyIconData(IconData(
-    0xe660,
+    0xece9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `thumbs-up`
   static const IconifyIconData thumbsUp = IconifyIconData(IconData(
-    0xe661,
+    0xecea,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `thumbs-up-light-skin-tone`
   static const IconifyIconData thumbsUpLightSkinTone = IconifyIconData(IconData(
-    0xe662,
+    0xeceb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `thumbs-up-medium-light-skin-tone`
   static const IconifyIconData thumbsUpMediumLightSkinTone = IconifyIconData(IconData(
-    0xe663,
+    0xecec,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `thumbs-up-medium-skin-tone`
   static const IconifyIconData thumbsUpMediumSkinTone = IconifyIconData(IconData(
-    0xe664,
+    0xeced,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ticket`
   static const IconifyIconData ticket = IconifyIconData(IconData(
-    0xe665,
+    0xecee,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `timer`
   static const IconifyIconData timer = IconifyIconData(IconData(
-    0xe666,
+    0xecef,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `timer-clock`
   static const IconifyIconData timerClock = IconifyIconData(IconData(
-    0xee3c,
+    0xecf0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `tired-face`
   static const IconifyIconData tiredFace = IconifyIconData(IconData(
-    0xe667,
+    0xecf1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `toggle-button`
   static const IconifyIconData toggleButton = IconifyIconData(IconData(
-    0xe668,
+    0xecf2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `toggle-button-state-b`
   static const IconifyIconData toggleButtonStateB = IconifyIconData(IconData(
-    0xee3d,
+    0xecf3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `toilet`
   static const IconifyIconData toilet = IconifyIconData(IconData(
-    0xe669,
+    0xecf4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `tokyo-tower`
   static const IconifyIconData tokyoTower = IconifyIconData(IconData(
-    0xee3e,
+    0xecf5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `tomato`
   static const IconifyIconData tomato = IconifyIconData(IconData(
-    0xe66a,
+    0xecf6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `tongue`
   static const IconifyIconData tongue = IconifyIconData(IconData(
-    0xee3f,
+    0xecf7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `toolbox`
   static const IconifyIconData toolbox = IconifyIconData(IconData(
-    0xee40,
+    0xecf8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `tooth`
   static const IconifyIconData tooth = IconifyIconData(IconData(
-    0xe66b,
+    0xecf9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `toothbrush`
   static const IconifyIconData toothbrush = IconifyIconData(IconData(
-    0xe66c,
+    0xecfa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `top-arrow`
   static const IconifyIconData topArrow = IconifyIconData(IconData(
-    0xe66d,
+    0xecfb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `top-hat`
   static const IconifyIconData topHat = IconifyIconData(IconData(
-    0xe66e,
+    0xecfc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `tornado`
   static const IconifyIconData tornado = IconifyIconData(IconData(
-    0xee41,
+    0xecfd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `town`
   static const IconifyIconData town = IconifyIconData(IconData(
-    0xe66f,
+    0xecfe,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `trackball`
   static const IconifyIconData trackball = IconifyIconData(IconData(
-    0xee42,
+    0xecff,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `tractor`
   static const IconifyIconData tractor = IconifyIconData(IconData(
-    0xe670,
+    0xed00,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `trade-mark`
   static const IconifyIconData tradeMark = IconifyIconData(IconData(
-    0xe671,
+    0xed01,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `train`
   static const IconifyIconData train = IconifyIconData(IconData(
-    0xe672,
+    0xed02,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `tram`
   static const IconifyIconData tram = IconifyIconData(IconData(
-    0xee43,
+    0xed03,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `tram-car`
   static const IconifyIconData tramCar = IconifyIconData(IconData(
-    0xe673,
+    0xed04,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `transgender-flag`
   static const IconifyIconData transgenderFlag = IconifyIconData(IconData(
-    0xe674,
+    0xed05,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `transgender-symbol`
   static const IconifyIconData transgenderSymbol = IconifyIconData(IconData(
-    0xe675,
+    0xed06,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `transmission`
   static const IconifyIconData transmission = IconifyIconData(IconData(
-    0xe676,
+    0xed07,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `triangular-flag`
   static const IconifyIconData triangularFlag = IconifyIconData(IconData(
-    0xe677,
+    0xed08,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `triangular-ruler`
   static const IconifyIconData triangularRuler = IconifyIconData(IconData(
-    0xe678,
+    0xed09,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `trident-emblem`
   static const IconifyIconData tridentEmblem = IconifyIconData(IconData(
-    0xe679,
+    0xed0a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `trolleybus`
   static const IconifyIconData trolleybus = IconifyIconData(IconData(
-    0xee44,
+    0xed0b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `trombone`
   static const IconifyIconData trombone = IconifyIconData(IconData(
-    0xe67a,
+    0xed0c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `trophy`
   static const IconifyIconData trophy = IconifyIconData(IconData(
-    0xe67b,
+    0xed0d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `tropical-drink`
   static const IconifyIconData tropicalDrink = IconifyIconData(IconData(
-    0xe67c,
+    0xed0e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `tropical-fish`
   static const IconifyIconData tropicalFish = IconifyIconData(IconData(
-    0xee45,
+    0xed0f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `trowel`
   static const IconifyIconData trowel = IconifyIconData(IconData(
-    0xee46,
+    0xed10,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `true-south-antarctica-flag`
   static const IconifyIconData trueSouthAntarcticaFlag = IconifyIconData(IconData(
-    0xee47,
+    0xed11,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `trump`
   static const IconifyIconData trump = IconifyIconData(IconData(
-    0xe67d,
+    0xed12,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `trumpet`
   static const IconifyIconData trumpet = IconifyIconData(IconData(
-    0xe67e,
+    0xed13,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `tsunami`
   static const IconifyIconData tsunami = IconifyIconData(IconData(
-    0xe67f,
+    0xed14,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `tumbler-glass`
   static const IconifyIconData tumblerGlass = IconifyIconData(IconData(
-    0xee48,
+    0xed15,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `turkey`
   static const IconifyIconData turkey = IconifyIconData(IconData(
-    0xee49,
+    0xed16,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `turtle`
   static const IconifyIconData turtle = IconifyIconData(IconData(
-    0xee4a,
+    0xed17,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `twelve-oclock`
   static const IconifyIconData twelveOclock = IconifyIconData(IconData(
-    0xee4b,
+    0xed18,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `twelve-thirty`
   static const IconifyIconData twelveThirty = IconifyIconData(IconData(
-    0xe680,
+    0xed19,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `two-hearts`
   static const IconifyIconData twoHearts = IconifyIconData(IconData(
-    0xe681,
+    0xed1a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `two-hump-camel`
   static const IconifyIconData twoHumpCamel = IconifyIconData(IconData(
-    0xee4c,
+    0xed1b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `two-oclock`
   static const IconifyIconData twoOclock = IconifyIconData(IconData(
-    0xee4d,
+    0xed1c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `two-thirty`
   static const IconifyIconData twoThirty = IconifyIconData(IconData(
-    0xee4e,
+    0xed1d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `typescript`
   static const IconifyIconData typescript = IconifyIconData(IconData(
-    0xe682,
+    0xed1e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `ubuntu`
   static const IconifyIconData ubuntu = IconifyIconData(IconData(
-    0xe683,
+    0xed1f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `umbrella-on-ground`
   static const IconifyIconData umbrellaOnGround = IconifyIconData(IconData(
-    0xe684,
+    0xed20,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `unamused-face`
   static const IconifyIconData unamusedFace = IconifyIconData(IconData(
-    0xe685,
+    0xed21,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `unicorn`
   static const IconifyIconData unicorn = IconifyIconData(IconData(
-    0xee4f,
+    0xed22,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `unlocked`
   static const IconifyIconData unlocked = IconifyIconData(IconData(
-    0xe686,
+    0xed23,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `up-arrow`
   static const IconifyIconData upArrow = IconifyIconData(IconData(
-    0xe687,
+    0xed24,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `up-button`
   static const IconifyIconData upButton = IconifyIconData(IconData(
-    0xe688,
+    0xed25,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `up-down-arrow`
   static const IconifyIconData upDownArrow = IconifyIconData(IconData(
-    0xe689,
+    0xed26,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `up-down-black-arrow`
   static const IconifyIconData upDownBlackArrow = IconifyIconData(IconData(
-    0xe68a,
+    0xed27,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `up-exclamation-button`
   static const IconifyIconData upExclamationButton = IconifyIconData(IconData(
-    0xee50,
+    0xed28,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `up-left-arrow`
   static const IconifyIconData upLeftArrow = IconifyIconData(IconData(
-    0xe68b,
+    0xed29,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `up-pointing-triangle-with-left-half-black`
   static const IconifyIconData upPointingTriangleWithLeftHalfBlack = IconifyIconData(IconData(
-    0xe68c,
+    0xed2a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `up-pointing-triangle-with-right-half-black`
   static const IconifyIconData upPointingTriangleWithRightHalfBlack = IconifyIconData(IconData(
-    0xe68d,
+    0xed2b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `up-right-arrow`
   static const IconifyIconData upRightArrow = IconifyIconData(IconData(
-    0xe68e,
+    0xed2c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `upload`
   static const IconifyIconData upload = IconifyIconData(IconData(
-    0xe68f,
+    0xed2d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `upside-down-face`
   static const IconifyIconData upsideDownFace = IconifyIconData(IconData(
-    0xe690,
+    0xed2e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `upwards-button`
   static const IconifyIconData upwardsButton = IconifyIconData(IconData(
-    0xe691,
+    0xed2f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `valencian-community-flag`
   static const IconifyIconData valencianCommunityFlag = IconifyIconData(IconData(
-    0xee51,
+    0xed30,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `vampire`
   static const IconifyIconData vampire = IconifyIconData(IconData(
-    0xe692,
+    0xed31,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `vampire-dark-skin-tone`
   static const IconifyIconData vampireDarkSkinTone = IconifyIconData(IconData(
-    0xee52,
+    0xed32,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `vampire-medium-dark-skin-tone`
   static const IconifyIconData vampireMediumDarkSkinTone = IconifyIconData(IconData(
-    0xee53,
+    0xed33,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `vampire-medium-light-skin-tone`
   static const IconifyIconData vampireMediumLightSkinTone = IconifyIconData(IconData(
-    0xe693,
+    0xed34,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `vertical-traffic-light`
   static const IconifyIconData verticalTrafficLight = IconifyIconData(IconData(
-    0xe694,
+    0xed35,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `vibration-mode`
   static const IconifyIconData vibrationMode = IconifyIconData(IconData(
-    0xe695,
+    0xed36,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `victory-hand`
   static const IconifyIconData victoryHand = IconifyIconData(IconData(
-    0xe696,
+    0xed37,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `victory-hand-light-skin-tone`
   static const IconifyIconData victoryHandLightSkinTone = IconifyIconData(IconData(
-    0xe697,
+    0xed38,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `victory-hand-medium-light-skin-tone`
   static const IconifyIconData victoryHandMediumLightSkinTone = IconifyIconData(IconData(
-    0xe698,
+    0xed39,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `victory-hand-medium-skin-tone`
   static const IconifyIconData victoryHandMediumSkinTone = IconifyIconData(IconData(
-    0xe699,
+    0xed3a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `video-camera`
   static const IconifyIconData videoCamera = IconifyIconData(IconData(
-    0xe69a,
+    0xed3b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `video-game`
   static const IconifyIconData videoGame = IconifyIconData(IconData(
-    0xe69b,
+    0xed3c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `videocassette`
   static const IconifyIconData videocassette = IconifyIconData(IconData(
-    0xe69c,
+    0xed3d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `viennese-coffee-house`
   static const IconifyIconData vienneseCoffeeHouse = IconifyIconData(IconData(
-    0xee54,
+    0xed3e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `virgo`
   static const IconifyIconData virgo = IconifyIconData(IconData(
-    0xee55,
+    0xed3f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `virtual-reality`
   static const IconifyIconData virtualReality = IconifyIconData(IconData(
-    0xe69d,
+    0xed40,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `volcano`
   static const IconifyIconData volcano = IconifyIconData(IconData(
-    0xe69e,
+    0xed41,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `volcano-ashes`
   static const IconifyIconData volcanoAshes = IconifyIconData(IconData(
-    0xe69f,
+    0xed42,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `volcano-eruption`
   static const IconifyIconData volcanoEruption = IconifyIconData(IconData(
-    0xe6a0,
+    0xed43,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `volleyball`
   static const IconifyIconData volleyball = IconifyIconData(IconData(
-    0xe6a1,
+    0xed44,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `vs-button`
   static const IconifyIconData vsButton = IconifyIconData(IconData(
-    0xee56,
+    0xed45,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `vulcan-salute`
   static const IconifyIconData vulcanSalute = IconifyIconData(IconData(
-    0xee57,
+    0xed46,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `vulcan-salute-dark-skin-tone`
   static const IconifyIconData vulcanSaluteDarkSkinTone = IconifyIconData(IconData(
-    0xee58,
+    0xed47,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `vulcan-salute-light-skin-tone`
   static const IconifyIconData vulcanSaluteLightSkinTone = IconifyIconData(IconData(
-    0xee59,
+    0xed48,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `vulcan-salute-medium-dark-skin-tone`
   static const IconifyIconData vulcanSaluteMediumDarkSkinTone = IconifyIconData(IconData(
-    0xee5a,
+    0xed49,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `vulcan-salute-medium-light-skin-tone`
   static const IconifyIconData vulcanSaluteMediumLightSkinTone = IconifyIconData(IconData(
-    0xee5b,
+    0xed4a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `vulcan-salute-medium-skin-tone`
   static const IconifyIconData vulcanSaluteMediumSkinTone = IconifyIconData(IconData(
-    0xee5c,
+    0xed4b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `waffle`
   static const IconifyIconData waffle = IconifyIconData(IconData(
-    0xee5d,
+    0xed4c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `waning-crescent-moon`
   static const IconifyIconData waningCrescentMoon = IconifyIconData(IconData(
-    0xe6a2,
+    0xed4d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `waning-gibbous-moon`
   static const IconifyIconData waningGibbousMoon = IconifyIconData(IconData(
-    0xee5e,
+    0xed4e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `warning`
   static const IconifyIconData warning = IconifyIconData(IconData(
-    0xe6a3,
+    0xed4f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `warning-fire`
   static const IconifyIconData warningFire = IconifyIconData(IconData(
-    0xe6a4,
+    0xed50,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `warning-strip`
   static const IconifyIconData warningStrip = IconifyIconData(IconData(
-    0xe6a5,
+    0xed51,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `warning-strip-right`
   static const IconifyIconData warningStripRight = IconifyIconData(IconData(
-    0xe6a6,
+    0xed52,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `warning-tsunami`
   static const IconifyIconData warningTsunami = IconifyIconData(IconData(
-    0xe6a7,
+    0xed53,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `warning-volcano`
   static const IconifyIconData warningVolcano = IconifyIconData(IconData(
-    0xe6a8,
+    0xed54,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `wash-hands`
   static const IconifyIconData washHands = IconifyIconData(IconData(
-    0xee5f,
+    0xed55,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `washing-machine`
   static const IconifyIconData washingMachine = IconifyIconData(IconData(
-    0xee60,
+    0xed56,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `washington-dc`
   static const IconifyIconData washingtonDc = IconifyIconData(IconData(
-    0xe6a9,
+    0xed57,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `washington-dc-flag`
   static const IconifyIconData washingtonDcFlag = IconifyIconData(IconData(
-    0xe6aa,
+    0xed58,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `wastebasket`
   static const IconifyIconData wastebasket = IconifyIconData(IconData(
-    0xe6ab,
+    0xed59,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `watch`
   static const IconifyIconData watch = IconifyIconData(IconData(
-    0xe6ac,
+    0xed5a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `water-buffalo`
   static const IconifyIconData waterBuffalo = IconifyIconData(IconData(
-    0xe6ad,
+    0xed5b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `water-closet`
   static const IconifyIconData waterCloset = IconifyIconData(IconData(
-    0xe6ae,
+    0xed5c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `water-wave`
   static const IconifyIconData waterWave = IconifyIconData(IconData(
-    0xee61,
+    0xed5d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `watermelon`
   static const IconifyIconData watermelon = IconifyIconData(IconData(
-    0xe6af,
+    0xed5e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `waving-hand`
   static const IconifyIconData wavingHand = IconifyIconData(IconData(
-    0xe6b0,
+    0xed5f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `waving-hand-light-skin-tone`
   static const IconifyIconData wavingHandLightSkinTone = IconifyIconData(IconData(
-    0xe6b1,
+    0xed60,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `waving-hand-medium-light-skin-tone`
   static const IconifyIconData wavingHandMediumLightSkinTone = IconifyIconData(IconData(
-    0xe6b2,
+    0xed61,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `waving-hand-medium-skin-tone`
   static const IconifyIconData wavingHandMediumSkinTone = IconifyIconData(IconData(
-    0xe6b3,
+    0xed62,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `wavy-dash`
   static const IconifyIconData wavyDash = IconifyIconData(IconData(
-    0xe6b4,
+    0xed63,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `waxing-crescent-moon`
   static const IconifyIconData waxingCrescentMoon = IconifyIconData(IconData(
-    0xe6b5,
+    0xed64,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `waxing-gibbous-moon`
   static const IconifyIconData waxingGibbousMoon = IconifyIconData(IconData(
-    0xee62,
+    0xed65,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `weary-cat`
   static const IconifyIconData wearyCat = IconifyIconData(IconData(
-    0xee63,
+    0xed66,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `weary-face`
   static const IconifyIconData wearyFace = IconifyIconData(IconData(
-    0xe6b6,
+    0xed67,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `web-syndication`
   static const IconifyIconData webSyndication = IconifyIconData(IconData(
-    0xe6b7,
+    0xed68,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `wedding`
   static const IconifyIconData wedding = IconifyIconData(IconData(
-    0xee64,
+    0xed69,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `wheel`
   static const IconifyIconData wheel = IconifyIconData(IconData(
-    0xe6b8,
+    0xed6a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `wheel-chair`
   static const IconifyIconData wheelChair = IconifyIconData(IconData(
-    0xe6b9,
+    0xed6b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `wheel-of-dharma`
   static const IconifyIconData wheelOfDharma = IconifyIconData(IconData(
-    0xee65,
+    0xed6c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `wheelchair-symbol`
   static const IconifyIconData wheelchairSymbol = IconifyIconData(IconData(
-    0xe6ba,
+    0xed6d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-cane`
   static const IconifyIconData whiteCane = IconifyIconData(IconData(
-    0xe6bb,
+    0xed6e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-chess-bishop`
   static const IconifyIconData whiteChessBishop = IconifyIconData(IconData(
-    0xe6bc,
+    0xed6f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-chess-king`
   static const IconifyIconData whiteChessKing = IconifyIconData(IconData(
-    0xe6bd,
+    0xed70,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-chess-knight`
   static const IconifyIconData whiteChessKnight = IconifyIconData(IconData(
-    0xe6be,
+    0xed71,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-chess-pawn`
   static const IconifyIconData whiteChessPawn = IconifyIconData(IconData(
-    0xe6bf,
+    0xed72,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-chess-queen`
   static const IconifyIconData whiteChessQueen = IconifyIconData(IconData(
-    0xe6c0,
+    0xed73,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-chess-rook`
   static const IconifyIconData whiteChessRook = IconifyIconData(IconData(
-    0xe6c1,
+    0xed74,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-circle`
   static const IconifyIconData whiteCircle = IconifyIconData(IconData(
-    0xe6c2,
+    0xed75,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-exclamation-mark`
   static const IconifyIconData whiteExclamationMark = IconifyIconData(IconData(
-    0xee66,
+    0xed76,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-flag`
   static const IconifyIconData whiteFlag = IconifyIconData(IconData(
-    0xee67,
+    0xed77,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-flower`
   static const IconifyIconData whiteFlower = IconifyIconData(IconData(
-    0xee68,
+    0xed78,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-hair`
   static const IconifyIconData whiteHair = IconifyIconData(IconData(
-    0xe6c3,
+    0xed79,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-heart`
   static const IconifyIconData whiteHeart = IconifyIconData(IconData(
-    0xe6c4,
+    0xed7a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-hexagon`
   static const IconifyIconData whiteHexagon = IconifyIconData(IconData(
-    0xe6c5,
+    0xed7b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-large-square`
   static const IconifyIconData whiteLargeSquare = IconifyIconData(IconData(
-    0xe6c6,
+    0xed7c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-medium-small-square`
   static const IconifyIconData whiteMediumSmallSquare = IconifyIconData(IconData(
-    0xe6c7,
+    0xed7d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-medium-square`
   static const IconifyIconData whiteMediumSquare = IconifyIconData(IconData(
-    0xe6c8,
+    0xed7e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-pentagon`
   static const IconifyIconData whitePentagon = IconifyIconData(IconData(
-    0xe6c9,
+    0xed7f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-question-mark`
   static const IconifyIconData whiteQuestionMark = IconifyIconData(IconData(
-    0xe6ca,
+    0xed80,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-rectangle`
   static const IconifyIconData whiteRectangle = IconifyIconData(IconData(
-    0xe6cb,
+    0xed81,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-small-square`
   static const IconifyIconData whiteSmallSquare = IconifyIconData(IconData(
-    0xe6cc,
+    0xed82,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-square`
   static const IconifyIconData whiteSquare = IconifyIconData(IconData(
-    0xe6cd,
+    0xed83,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-square-button`
   static const IconifyIconData whiteSquareButton = IconifyIconData(IconData(
-    0xe6ce,
+    0xed84,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-square-flag`
   static const IconifyIconData whiteSquareFlag = IconifyIconData(IconData(
-    0xe6cf,
+    0xed85,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `white-vertical-ellipse`
   static const IconifyIconData whiteVerticalEllipse = IconifyIconData(IconData(
-    0xe6d0,
+    0xed86,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `wifi`
   static const IconifyIconData wifi = IconifyIconData(IconData(
-    0xee69,
+    0xed87,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `wikidata`
   static const IconifyIconData wikidata = IconifyIconData(IconData(
-    0xee6a,
+    0xed88,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `wild-fire`
   static const IconifyIconData wildFire = IconifyIconData(IconData(
-    0xe6d1,
+    0xed89,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `wilted-flower`
   static const IconifyIconData wiltedFlower = IconifyIconData(IconData(
-    0xe6d2,
+    0xed8a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `wind-chime`
   static const IconifyIconData windChime = IconifyIconData(IconData(
-    0xe6d3,
+    0xed8b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `wind-energy`
   static const IconifyIconData windEnergy = IconifyIconData(IconData(
-    0xe6d4,
+    0xed8c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `wind-face`
   static const IconifyIconData windFace = IconifyIconData(IconData(
-    0xe6d5,
+    0xed8d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `window`
   static const IconifyIconData window = IconifyIconData(IconData(
-    0xee6b,
+    0xed8e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `windsurfing`
   static const IconifyIconData windsurfing = IconifyIconData(IconData(
-    0xe6d6,
+    0xed8f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `wine-glass`
   static const IconifyIconData wineGlass = IconifyIconData(IconData(
-    0xe6d7,
+    0xed90,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `wing`
   static const IconifyIconData wing = IconifyIconData(IconData(
-    0xe6d8,
+    0xed91,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `winking-face`
   static const IconifyIconData winkingFace = IconifyIconData(IconData(
-    0xe6d9,
+    0xed92,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `winking-face-with-tongue`
   static const IconifyIconData winkingFaceWithTongue = IconifyIconData(IconData(
-    0xe6da,
+    0xed93,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `winrar`
   static const IconifyIconData winrar = IconifyIconData(IconData(
-    0xee6c,
+    0xed94,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `wire`
   static const IconifyIconData wire = IconifyIconData(IconData(
-    0xee6d,
+    0xed95,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `wireframes`
   static const IconifyIconData wireframes = IconifyIconData(IconData(
-    0xe6db,
+    0xed96,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `wolf`
   static const IconifyIconData wolf = IconifyIconData(IconData(
-    0xe6dc,
+    0xed97,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman`
   static const IconifyIconData woman = IconifyIconData(IconData(
-    0xe6dd,
+    0xed98,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands`
   static const IconifyIconData womanAndManHoldingHands = IconifyIconData(IconData(
-    0xe6de,
+    0xed99,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-dark-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsDarkSkinTone = IconifyIconData(IconData(
-    0xee6e,
+    0xed9a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-dark-skin-tone-light-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xee6f,
+    0xed9b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-dark-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsDarkSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xee70,
+    0xed9c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xee71,
+    0xed9d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xee72,
+    0xed9e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-light-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsLightSkinTone = IconifyIconData(IconData(
-    0xe6df,
+    0xed9f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-light-skin-tone-dark-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xee73,
+    0xeda0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xee74,
+    0xeda1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-light-skin-tone-medium-light-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsLightSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe6e0,
+    0xeda2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-light-skin-tone-medium-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe6e1,
+    0xeda3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-medium-dark-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsMediumDarkSkinTone = IconifyIconData(IconData(
-    0xee75,
+    0xeda4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-medium-dark-skin-tone-dark-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsMediumDarkSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xee76,
+    0xeda5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-medium-dark-skin-tone-light-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsMediumDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xee77,
+    0xeda6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-medium-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsMediumDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xee78,
+    0xeda7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-medium-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsMediumDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xee79,
+    0xeda8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-medium-light-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsMediumLightSkinTone = IconifyIconData(IconData(
-    0xe6e2,
+    0xeda9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-medium-light-skin-tone-dark-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsMediumLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xee7a,
+    0xedaa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-medium-light-skin-tone-light-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsMediumLightSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe6e3,
+    0xedab,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-medium-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsMediumLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xee7b,
+    0xedac,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-medium-light-skin-tone-medium-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsMediumLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe6e4,
+    0xedad,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-medium-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsMediumSkinTone = IconifyIconData(IconData(
-    0xe6e5,
+    0xedae,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-medium-skin-tone-dark-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsMediumSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xee7c,
+    0xedaf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-medium-skin-tone-light-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsMediumSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe6e6,
+    0xedb0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-medium-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsMediumSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xee7d,
+    0xedb1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-and-man-holding-hands-medium-skin-tone-medium-light-skin-tone`
   static const IconifyIconData womanAndManHoldingHandsMediumSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe6e7,
+    0xedb2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-artist`
   static const IconifyIconData womanArtist = IconifyIconData(IconData(
-    0xee7e,
+    0xedb3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-artist-dark-skin-tone`
   static const IconifyIconData womanArtistDarkSkinTone = IconifyIconData(IconData(
-    0xee7f,
+    0xedb4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-artist-light-skin-tone`
   static const IconifyIconData womanArtistLightSkinTone = IconifyIconData(IconData(
-    0xee80,
+    0xedb5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-artist-medium-dark-skin-tone`
   static const IconifyIconData womanArtistMediumDarkSkinTone = IconifyIconData(IconData(
-    0xee81,
+    0xedb6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-artist-medium-light-skin-tone`
   static const IconifyIconData womanArtistMediumLightSkinTone = IconifyIconData(IconData(
-    0xee82,
+    0xedb7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-artist-medium-skin-tone`
   static const IconifyIconData womanArtistMediumSkinTone = IconifyIconData(IconData(
-    0xee83,
+    0xedb8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-astronaut`
   static const IconifyIconData womanAstronaut = IconifyIconData(IconData(
-    0xee84,
+    0xedb9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-astronaut-dark-skin-tone`
   static const IconifyIconData womanAstronautDarkSkinTone = IconifyIconData(IconData(
-    0xee85,
+    0xedba,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-astronaut-light-skin-tone`
   static const IconifyIconData womanAstronautLightSkinTone = IconifyIconData(IconData(
-    0xee86,
+    0xedbb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-astronaut-medium-dark-skin-tone`
   static const IconifyIconData womanAstronautMediumDarkSkinTone = IconifyIconData(IconData(
-    0xee87,
+    0xedbc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-astronaut-medium-light-skin-tone`
   static const IconifyIconData womanAstronautMediumLightSkinTone = IconifyIconData(IconData(
-    0xee88,
+    0xedbd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-astronaut-medium-skin-tone`
   static const IconifyIconData womanAstronautMediumSkinTone = IconifyIconData(IconData(
-    0xee89,
+    0xedbe,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-bald`
   static const IconifyIconData womanBald = IconifyIconData(IconData(
-    0xe6e8,
+    0xedbf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-barista`
   static const IconifyIconData womanBarista = IconifyIconData(IconData(
-    0xee8a,
+    0xedc0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-beard`
   static const IconifyIconData womanBeard = IconifyIconData(IconData(
-    0xe6e9,
+    0xedc1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-biking`
   static const IconifyIconData womanBiking = IconifyIconData(IconData(
-    0xe6ea,
+    0xedc2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-biking-dark-skin-tone`
   static const IconifyIconData womanBikingDarkSkinTone = IconifyIconData(IconData(
-    0xee8b,
+    0xedc3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-biking-light-skin-tone`
   static const IconifyIconData womanBikingLightSkinTone = IconifyIconData(IconData(
-    0xe6eb,
+    0xedc4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-biking-medium-dark-skin-tone`
   static const IconifyIconData womanBikingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xee8c,
+    0xedc5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-biking-medium-light-skin-tone`
   static const IconifyIconData womanBikingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe6ec,
+    0xedc6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-biking-medium-skin-tone`
   static const IconifyIconData womanBikingMediumSkinTone = IconifyIconData(IconData(
-    0xe6ed,
+    0xedc7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-blond-hair`
   static const IconifyIconData womanBlondHair = IconifyIconData(IconData(
-    0xe6ee,
+    0xedc8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-bouncing-ball`
   static const IconifyIconData womanBouncingBall = IconifyIconData(IconData(
-    0xe6ef,
+    0xedc9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-bouncing-ball-dark-skin-tone`
   static const IconifyIconData womanBouncingBallDarkSkinTone = IconifyIconData(IconData(
-    0xee8d,
+    0xedca,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-bouncing-ball-light-skin-tone`
   static const IconifyIconData womanBouncingBallLightSkinTone = IconifyIconData(IconData(
-    0xe6f0,
+    0xedcb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-bouncing-ball-medium-dark-skin-tone`
   static const IconifyIconData womanBouncingBallMediumDarkSkinTone = IconifyIconData(IconData(
-    0xee8e,
+    0xedcc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-bouncing-ball-medium-light-skin-tone`
   static const IconifyIconData womanBouncingBallMediumLightSkinTone = IconifyIconData(IconData(
-    0xe6f1,
+    0xedcd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-bouncing-ball-medium-skin-tone`
   static const IconifyIconData womanBouncingBallMediumSkinTone = IconifyIconData(IconData(
-    0xe6f2,
+    0xedce,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-bowing`
   static const IconifyIconData womanBowing = IconifyIconData(IconData(
-    0xe6f3,
+    0xedcf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-bowing-dark-skin-tone`
   static const IconifyIconData womanBowingDarkSkinTone = IconifyIconData(IconData(
-    0xee8f,
+    0xedd0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-bowing-light-skin-tone`
   static const IconifyIconData womanBowingLightSkinTone = IconifyIconData(IconData(
-    0xee90,
+    0xedd1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-bowing-medium-dark-skin-tone`
   static const IconifyIconData womanBowingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xee91,
+    0xedd2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-bowing-medium-light-skin-tone`
   static const IconifyIconData womanBowingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe6f4,
+    0xedd3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-bowing-medium-skin-tone`
   static const IconifyIconData womanBowingMediumSkinTone = IconifyIconData(IconData(
-    0xee92,
+    0xedd4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-cartwheeling`
   static const IconifyIconData womanCartwheeling = IconifyIconData(IconData(
-    0xe6f5,
+    0xedd5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-cartwheeling-dark-skin-tone`
   static const IconifyIconData womanCartwheelingDarkSkinTone = IconifyIconData(IconData(
-    0xee93,
+    0xedd6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-cartwheeling-light-skin-tone`
   static const IconifyIconData womanCartwheelingLightSkinTone = IconifyIconData(IconData(
-    0xe6f6,
+    0xedd7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-cartwheeling-medium-dark-skin-tone`
   static const IconifyIconData womanCartwheelingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xee94,
+    0xedd8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-cartwheeling-medium-light-skin-tone`
   static const IconifyIconData womanCartwheelingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe6f7,
+    0xedd9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-cartwheeling-medium-skin-tone`
   static const IconifyIconData womanCartwheelingMediumSkinTone = IconifyIconData(IconData(
-    0xe6f8,
+    0xedda,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-climbing`
   static const IconifyIconData womanClimbing = IconifyIconData(IconData(
-    0xe6f9,
+    0xeddb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-climbing-dark-skin-tone`
   static const IconifyIconData womanClimbingDarkSkinTone = IconifyIconData(IconData(
-    0xee95,
+    0xeddc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-climbing-light-skin-tone`
   static const IconifyIconData womanClimbingLightSkinTone = IconifyIconData(IconData(
-    0xe6fa,
+    0xeddd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-climbing-medium-dark-skin-tone`
   static const IconifyIconData womanClimbingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xee96,
+    0xedde,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-climbing-medium-light-skin-tone`
   static const IconifyIconData womanClimbingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe6fb,
+    0xeddf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-climbing-medium-skin-tone`
   static const IconifyIconData womanClimbingMediumSkinTone = IconifyIconData(IconData(
-    0xe6fc,
+    0xede0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-construction-worker`
   static const IconifyIconData womanConstructionWorker = IconifyIconData(IconData(
-    0xee97,
+    0xede1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-construction-worker-dark-skin-tone`
   static const IconifyIconData womanConstructionWorkerDarkSkinTone = IconifyIconData(IconData(
-    0xee98,
+    0xede2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-construction-worker-light-skin-tone`
   static const IconifyIconData womanConstructionWorkerLightSkinTone = IconifyIconData(IconData(
-    0xee99,
+    0xede3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-construction-worker-medium-dark-skin-tone`
   static const IconifyIconData womanConstructionWorkerMediumDarkSkinTone = IconifyIconData(IconData(
-    0xee9a,
+    0xede4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-construction-worker-medium-light-skin-tone`
   static const IconifyIconData womanConstructionWorkerMediumLightSkinTone = IconifyIconData(IconData(
-    0xee9b,
+    0xede5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-construction-worker-medium-skin-tone`
   static const IconifyIconData womanConstructionWorkerMediumSkinTone = IconifyIconData(IconData(
-    0xee9c,
+    0xede6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-cook`
   static const IconifyIconData womanCook = IconifyIconData(IconData(
-    0xee9d,
+    0xede7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-cook-dark-skin-tone`
   static const IconifyIconData womanCookDarkSkinTone = IconifyIconData(IconData(
-    0xee9e,
+    0xede8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-cook-light-skin-tone`
   static const IconifyIconData womanCookLightSkinTone = IconifyIconData(IconData(
-    0xee9f,
+    0xede9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-cook-medium-dark-skin-tone`
   static const IconifyIconData womanCookMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeea0,
+    0xedea,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-cook-medium-light-skin-tone`
   static const IconifyIconData womanCookMediumLightSkinTone = IconifyIconData(IconData(
-    0xe6fd,
+    0xedeb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-cook-medium-skin-tone`
   static const IconifyIconData womanCookMediumSkinTone = IconifyIconData(IconData(
-    0xeea1,
+    0xedec,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-curly-hair`
   static const IconifyIconData womanCurlyHair = IconifyIconData(IconData(
-    0xe6fe,
+    0xeded,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-dancing`
   static const IconifyIconData womanDancing = IconifyIconData(IconData(
-    0xe6ff,
+    0xedee,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-dancing-dark-skin-tone`
   static const IconifyIconData womanDancingDarkSkinTone = IconifyIconData(IconData(
-    0xeea2,
+    0xedef,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-dancing-light-skin-tone`
   static const IconifyIconData womanDancingLightSkinTone = IconifyIconData(IconData(
-    0xe700,
+    0xedf0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-dancing-medium-dark-skin-tone`
   static const IconifyIconData womanDancingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeea3,
+    0xedf1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-dancing-medium-light-skin-tone`
   static const IconifyIconData womanDancingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe701,
+    0xedf2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-dancing-medium-skin-tone`
   static const IconifyIconData womanDancingMediumSkinTone = IconifyIconData(IconData(
-    0xe702,
+    0xedf3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-dark-skin-tone`
   static const IconifyIconData womanDarkSkinTone = IconifyIconData(IconData(
-    0xeea4,
+    0xedf4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-dark-skin-tone-bald`
   static const IconifyIconData womanDarkSkinToneBald = IconifyIconData(IconData(
-    0xeea5,
+    0xedf5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-dark-skin-tone-beard`
   static const IconifyIconData womanDarkSkinToneBeard = IconifyIconData(IconData(
-    0xeea6,
+    0xedf6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-dark-skin-tone-blond-hair`
   static const IconifyIconData womanDarkSkinToneBlondHair = IconifyIconData(IconData(
-    0xeea7,
+    0xedf7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-dark-skin-tone-curly-hair`
   static const IconifyIconData womanDarkSkinToneCurlyHair = IconifyIconData(IconData(
-    0xeea8,
+    0xedf8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-dark-skin-tone-white-hair`
   static const IconifyIconData womanDarkSkinToneWhiteHair = IconifyIconData(IconData(
-    0xeea9,
+    0xedf9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-elf`
   static const IconifyIconData womanElf = IconifyIconData(IconData(
-    0xeeaa,
+    0xedfa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-elf-dark-skin-tone`
   static const IconifyIconData womanElfDarkSkinTone = IconifyIconData(IconData(
-    0xeeab,
+    0xedfb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-elf-light-skin-tone`
   static const IconifyIconData womanElfLightSkinTone = IconifyIconData(IconData(
-    0xeeac,
+    0xedfc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-elf-medium-dark-skin-tone`
   static const IconifyIconData womanElfMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeead,
+    0xedfd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-elf-medium-light-skin-tone`
   static const IconifyIconData womanElfMediumLightSkinTone = IconifyIconData(IconData(
-    0xeeae,
+    0xedfe,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-elf-medium-skin-tone`
   static const IconifyIconData womanElfMediumSkinTone = IconifyIconData(IconData(
-    0xeeaf,
+    0xedff,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-facepalming`
   static const IconifyIconData womanFacepalming = IconifyIconData(IconData(
-    0xe703,
+    0xee00,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-facepalming-dark-skin-tone`
   static const IconifyIconData womanFacepalmingDarkSkinTone = IconifyIconData(IconData(
-    0xeeb0,
+    0xee01,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-facepalming-light-skin-tone`
   static const IconifyIconData womanFacepalmingLightSkinTone = IconifyIconData(IconData(
-    0xeeb1,
+    0xee02,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-facepalming-medium-dark-skin-tone`
   static const IconifyIconData womanFacepalmingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeeb2,
+    0xee03,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-facepalming-medium-light-skin-tone`
   static const IconifyIconData womanFacepalmingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe704,
+    0xee04,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-facepalming-medium-skin-tone`
   static const IconifyIconData womanFacepalmingMediumSkinTone = IconifyIconData(IconData(
-    0xeeb3,
+    0xee05,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-factory-worker`
   static const IconifyIconData womanFactoryWorker = IconifyIconData(IconData(
-    0xeeb4,
+    0xee06,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-factory-worker-dark-skin-tone`
   static const IconifyIconData womanFactoryWorkerDarkSkinTone = IconifyIconData(IconData(
-    0xeeb5,
+    0xee07,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-factory-worker-light-skin-tone`
   static const IconifyIconData womanFactoryWorkerLightSkinTone = IconifyIconData(IconData(
-    0xeeb6,
+    0xee08,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-factory-worker-medium-dark-skin-tone`
   static const IconifyIconData womanFactoryWorkerMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeeb7,
+    0xee09,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-factory-worker-medium-light-skin-tone`
   static const IconifyIconData womanFactoryWorkerMediumLightSkinTone = IconifyIconData(IconData(
-    0xeeb8,
+    0xee0a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-factory-worker-medium-skin-tone`
   static const IconifyIconData womanFactoryWorkerMediumSkinTone = IconifyIconData(IconData(
-    0xeeb9,
+    0xee0b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-fairy`
   static const IconifyIconData womanFairy = IconifyIconData(IconData(
-    0xeeba,
+    0xee0c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-fairy-dark-skin-tone`
   static const IconifyIconData womanFairyDarkSkinTone = IconifyIconData(IconData(
-    0xeebb,
+    0xee0d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-fairy-medium-dark-skin-tone`
   static const IconifyIconData womanFairyMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeebc,
+    0xee0e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-fairy-medium-light-skin-tone`
   static const IconifyIconData womanFairyMediumLightSkinTone = IconifyIconData(IconData(
-    0xeebd,
+    0xee0f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-farmer`
   static const IconifyIconData womanFarmer = IconifyIconData(IconData(
-    0xeebe,
+    0xee10,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-farmer-dark-skin-tone`
   static const IconifyIconData womanFarmerDarkSkinTone = IconifyIconData(IconData(
-    0xeebf,
+    0xee11,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-farmer-light-skin-tone`
   static const IconifyIconData womanFarmerLightSkinTone = IconifyIconData(IconData(
-    0xeec0,
+    0xee12,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-farmer-medium-dark-skin-tone`
   static const IconifyIconData womanFarmerMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeec1,
+    0xee13,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-farmer-medium-light-skin-tone`
   static const IconifyIconData womanFarmerMediumLightSkinTone = IconifyIconData(IconData(
-    0xeec2,
+    0xee14,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-farmer-medium-skin-tone`
   static const IconifyIconData womanFarmerMediumSkinTone = IconifyIconData(IconData(
-    0xeec3,
+    0xee15,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-firefighter`
   static const IconifyIconData womanFirefighter = IconifyIconData(IconData(
-    0xeec4,
+    0xee16,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-firefighter-dark-skin-tone`
   static const IconifyIconData womanFirefighterDarkSkinTone = IconifyIconData(IconData(
-    0xeec5,
+    0xee17,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-firefighter-light-skin-tone`
   static const IconifyIconData womanFirefighterLightSkinTone = IconifyIconData(IconData(
-    0xeec6,
+    0xee18,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-firefighter-medium-dark-skin-tone`
   static const IconifyIconData womanFirefighterMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeec7,
+    0xee19,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-firefighter-medium-light-skin-tone`
   static const IconifyIconData womanFirefighterMediumLightSkinTone = IconifyIconData(IconData(
-    0xeec8,
+    0xee1a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-firefighter-medium-skin-tone`
   static const IconifyIconData womanFirefighterMediumSkinTone = IconifyIconData(IconData(
-    0xeec9,
+    0xee1b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-frowning`
   static const IconifyIconData womanFrowning = IconifyIconData(IconData(
-    0xe705,
+    0xee1c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-frowning-dark-skin-tone`
   static const IconifyIconData womanFrowningDarkSkinTone = IconifyIconData(IconData(
-    0xeeca,
+    0xee1d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-frowning-light-skin-tone`
   static const IconifyIconData womanFrowningLightSkinTone = IconifyIconData(IconData(
-    0xeecb,
+    0xee1e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-frowning-medium-dark-skin-tone`
   static const IconifyIconData womanFrowningMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeecc,
+    0xee1f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-frowning-medium-light-skin-tone`
   static const IconifyIconData womanFrowningMediumLightSkinTone = IconifyIconData(IconData(
-    0xe706,
+    0xee20,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-frowning-medium-skin-tone`
   static const IconifyIconData womanFrowningMediumSkinTone = IconifyIconData(IconData(
-    0xeecd,
+    0xee21,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-genie`
   static const IconifyIconData womanGenie = IconifyIconData(IconData(
-    0xe707,
+    0xee22,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-gesturing-no`
   static const IconifyIconData womanGesturingNo = IconifyIconData(IconData(
-    0xe708,
+    0xee23,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-gesturing-no-dark-skin-tone`
   static const IconifyIconData womanGesturingNoDarkSkinTone = IconifyIconData(IconData(
-    0xeece,
+    0xee24,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-gesturing-no-light-skin-tone`
   static const IconifyIconData womanGesturingNoLightSkinTone = IconifyIconData(IconData(
-    0xeecf,
+    0xee25,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-gesturing-no-medium-dark-skin-tone`
   static const IconifyIconData womanGesturingNoMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeed0,
+    0xee26,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-gesturing-no-medium-light-skin-tone`
   static const IconifyIconData womanGesturingNoMediumLightSkinTone = IconifyIconData(IconData(
-    0xe709,
+    0xee27,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-gesturing-no-medium-skin-tone`
   static const IconifyIconData womanGesturingNoMediumSkinTone = IconifyIconData(IconData(
-    0xeed1,
+    0xee28,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-gesturing-ok`
   static const IconifyIconData womanGesturingOk = IconifyIconData(IconData(
-    0xe70a,
+    0xee29,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-gesturing-ok-dark-skin-tone`
   static const IconifyIconData womanGesturingOkDarkSkinTone = IconifyIconData(IconData(
-    0xeed2,
+    0xee2a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-gesturing-ok-light-skin-tone`
   static const IconifyIconData womanGesturingOkLightSkinTone = IconifyIconData(IconData(
-    0xeed3,
+    0xee2b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-gesturing-ok-medium-dark-skin-tone`
   static const IconifyIconData womanGesturingOkMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeed4,
+    0xee2c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-gesturing-ok-medium-light-skin-tone`
   static const IconifyIconData womanGesturingOkMediumLightSkinTone = IconifyIconData(IconData(
-    0xe70b,
+    0xee2d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-gesturing-ok-medium-skin-tone`
   static const IconifyIconData womanGesturingOkMediumSkinTone = IconifyIconData(IconData(
-    0xeed5,
+    0xee2e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-getting-haircut`
   static const IconifyIconData womanGettingHaircut = IconifyIconData(IconData(
-    0xe70c,
+    0xee2f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-getting-haircut-dark-skin-tone`
   static const IconifyIconData womanGettingHaircutDarkSkinTone = IconifyIconData(IconData(
-    0xeed6,
+    0xee30,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-getting-haircut-light-skin-tone`
   static const IconifyIconData womanGettingHaircutLightSkinTone = IconifyIconData(IconData(
-    0xeed7,
+    0xee31,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-getting-haircut-medium-dark-skin-tone`
   static const IconifyIconData womanGettingHaircutMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeed8,
+    0xee32,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-getting-haircut-medium-light-skin-tone`
   static const IconifyIconData womanGettingHaircutMediumLightSkinTone = IconifyIconData(IconData(
-    0xe70d,
+    0xee33,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-getting-haircut-medium-skin-tone`
   static const IconifyIconData womanGettingHaircutMediumSkinTone = IconifyIconData(IconData(
-    0xeed9,
+    0xee34,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-getting-massage`
   static const IconifyIconData womanGettingMassage = IconifyIconData(IconData(
-    0xeeda,
+    0xee35,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-getting-massage-dark-skin-tone`
   static const IconifyIconData womanGettingMassageDarkSkinTone = IconifyIconData(IconData(
-    0xeedb,
+    0xee36,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-getting-massage-light-skin-tone`
   static const IconifyIconData womanGettingMassageLightSkinTone = IconifyIconData(IconData(
-    0xeedc,
+    0xee37,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-getting-massage-medium-dark-skin-tone`
   static const IconifyIconData womanGettingMassageMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeedd,
+    0xee38,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-getting-massage-medium-light-skin-tone`
   static const IconifyIconData womanGettingMassageMediumLightSkinTone = IconifyIconData(IconData(
-    0xeede,
+    0xee39,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-getting-massage-medium-skin-tone`
   static const IconifyIconData womanGettingMassageMediumSkinTone = IconifyIconData(IconData(
-    0xeedf,
+    0xee3a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-golfing`
   static const IconifyIconData womanGolfing = IconifyIconData(IconData(
-    0xe70e,
+    0xee3b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-golfing-dark-skin-tone`
   static const IconifyIconData womanGolfingDarkSkinTone = IconifyIconData(IconData(
-    0xeee0,
+    0xee3c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-golfing-light-skin-tone`
   static const IconifyIconData womanGolfingLightSkinTone = IconifyIconData(IconData(
-    0xe70f,
+    0xee3d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-golfing-medium-dark-skin-tone`
   static const IconifyIconData womanGolfingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeee1,
+    0xee3e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-golfing-medium-light-skin-tone`
   static const IconifyIconData womanGolfingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe710,
+    0xee3f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-golfing-medium-skin-tone`
   static const IconifyIconData womanGolfingMediumSkinTone = IconifyIconData(IconData(
-    0xe711,
+    0xee40,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-guard`
   static const IconifyIconData womanGuard = IconifyIconData(IconData(
-    0xe712,
+    0xee41,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-guard-dark-skin-tone`
   static const IconifyIconData womanGuardDarkSkinTone = IconifyIconData(IconData(
-    0xeee2,
+    0xee42,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-guard-light-skin-tone`
   static const IconifyIconData womanGuardLightSkinTone = IconifyIconData(IconData(
-    0xeee3,
+    0xee43,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-guard-medium-dark-skin-tone`
   static const IconifyIconData womanGuardMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeee4,
+    0xee44,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-guard-medium-light-skin-tone`
   static const IconifyIconData womanGuardMediumLightSkinTone = IconifyIconData(IconData(
-    0xe713,
+    0xee45,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-guard-medium-skin-tone`
   static const IconifyIconData womanGuardMediumSkinTone = IconifyIconData(IconData(
-    0xeee5,
+    0xee46,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-health-worker`
   static const IconifyIconData womanHealthWorker = IconifyIconData(IconData(
-    0xeee6,
+    0xee47,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-health-worker-dark-skin-tone`
   static const IconifyIconData womanHealthWorkerDarkSkinTone = IconifyIconData(IconData(
-    0xeee7,
+    0xee48,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-health-worker-light-skin-tone`
   static const IconifyIconData womanHealthWorkerLightSkinTone = IconifyIconData(IconData(
-    0xeee8,
+    0xee49,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-health-worker-medium-dark-skin-tone`
   static const IconifyIconData womanHealthWorkerMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeee9,
+    0xee4a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-health-worker-medium-light-skin-tone`
   static const IconifyIconData womanHealthWorkerMediumLightSkinTone = IconifyIconData(IconData(
-    0xe714,
+    0xee4b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-health-worker-medium-skin-tone`
   static const IconifyIconData womanHealthWorkerMediumSkinTone = IconifyIconData(IconData(
-    0xeeea,
+    0xee4c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-lotus-position`
   static const IconifyIconData womanInLotusPosition = IconifyIconData(IconData(
-    0xe715,
+    0xee4d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-lotus-position-dark-skin-tone`
   static const IconifyIconData womanInLotusPositionDarkSkinTone = IconifyIconData(IconData(
-    0xeeeb,
+    0xee4e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-lotus-position-light-skin-tone`
   static const IconifyIconData womanInLotusPositionLightSkinTone = IconifyIconData(IconData(
-    0xe716,
+    0xee4f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-lotus-position-medium-dark-skin-tone`
   static const IconifyIconData womanInLotusPositionMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeeec,
+    0xee50,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-lotus-position-medium-light-skin-tone`
   static const IconifyIconData womanInLotusPositionMediumLightSkinTone = IconifyIconData(IconData(
-    0xe717,
+    0xee51,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-lotus-position-medium-skin-tone`
   static const IconifyIconData womanInLotusPositionMediumSkinTone = IconifyIconData(IconData(
-    0xe718,
+    0xee52,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-manual-wheelchair`
   static const IconifyIconData womanInManualWheelchair = IconifyIconData(IconData(
-    0xe719,
+    0xee53,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-manual-wheelchair-dark-skin-tone`
   static const IconifyIconData womanInManualWheelchairDarkSkinTone = IconifyIconData(IconData(
-    0xeeed,
+    0xee54,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-manual-wheelchair-dark-skin-tone-facing-right`
   static const IconifyIconData womanInManualWheelchairDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xeeee,
+    0xee55,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-manual-wheelchair-facing-right`
   static const IconifyIconData womanInManualWheelchairFacingRight = IconifyIconData(IconData(
-    0xe71a,
+    0xee56,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-manual-wheelchair-light-skin-tone`
   static const IconifyIconData womanInManualWheelchairLightSkinTone = IconifyIconData(IconData(
-    0xe71b,
+    0xee57,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-manual-wheelchair-light-skin-tone-facing-right`
   static const IconifyIconData womanInManualWheelchairLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe71c,
+    0xee58,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-manual-wheelchair-medium-dark-skin-tone`
   static const IconifyIconData womanInManualWheelchairMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeeef,
+    0xee59,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-manual-wheelchair-medium-dark-skin-tone-facing-right`
   static const IconifyIconData womanInManualWheelchairMediumDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xeef0,
+    0xee5a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-manual-wheelchair-medium-light-skin-tone`
   static const IconifyIconData womanInManualWheelchairMediumLightSkinTone = IconifyIconData(IconData(
-    0xe71d,
+    0xee5b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-manual-wheelchair-medium-light-skin-tone-facing-right`
   static const IconifyIconData womanInManualWheelchairMediumLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe71e,
+    0xee5c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-manual-wheelchair-medium-skin-tone`
   static const IconifyIconData womanInManualWheelchairMediumSkinTone = IconifyIconData(IconData(
-    0xe71f,
+    0xee5d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-manual-wheelchair-medium-skin-tone-facing-right`
   static const IconifyIconData womanInManualWheelchairMediumSkinToneFacingRight = IconifyIconData(IconData(
-    0xe720,
+    0xee5e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-motorized-wheelchair`
   static const IconifyIconData womanInMotorizedWheelchair = IconifyIconData(IconData(
-    0xeef1,
+    0xee5f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-motorized-wheelchair-dark-skin-tone`
   static const IconifyIconData womanInMotorizedWheelchairDarkSkinTone = IconifyIconData(IconData(
-    0xeef2,
+    0xee60,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-motorized-wheelchair-dark-skin-tone-facing-right`
   static const IconifyIconData womanInMotorizedWheelchairDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xeef3,
+    0xee61,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-motorized-wheelchair-facing-right`
   static const IconifyIconData womanInMotorizedWheelchairFacingRight = IconifyIconData(IconData(
-    0xeef4,
+    0xee62,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-motorized-wheelchair-light-skin-tone`
   static const IconifyIconData womanInMotorizedWheelchairLightSkinTone = IconifyIconData(IconData(
-    0xeef5,
+    0xee63,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-motorized-wheelchair-light-skin-tone-facing-right`
   static const IconifyIconData womanInMotorizedWheelchairLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xeef6,
+    0xee64,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-motorized-wheelchair-medium-dark-skin-tone`
   static const IconifyIconData womanInMotorizedWheelchairMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeef7,
+    0xee65,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-motorized-wheelchair-medium-dark-skin-tone-facing-right`
   static const IconifyIconData womanInMotorizedWheelchairMediumDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xeef8,
+    0xee66,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-motorized-wheelchair-medium-light-skin-tone`
   static const IconifyIconData womanInMotorizedWheelchairMediumLightSkinTone = IconifyIconData(IconData(
-    0xeef9,
+    0xee67,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-motorized-wheelchair-medium-light-skin-tone-facing-right`
   static const IconifyIconData womanInMotorizedWheelchairMediumLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xeefa,
+    0xee68,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-motorized-wheelchair-medium-skin-tone`
   static const IconifyIconData womanInMotorizedWheelchairMediumSkinTone = IconifyIconData(IconData(
-    0xeefb,
+    0xee69,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-motorized-wheelchair-medium-skin-tone-facing-right`
   static const IconifyIconData womanInMotorizedWheelchairMediumSkinToneFacingRight = IconifyIconData(IconData(
-    0xeefc,
+    0xee6a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-steamy-room`
   static const IconifyIconData womanInSteamyRoom = IconifyIconData(IconData(
-    0xe721,
+    0xee6b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-steamy-room-dark-skin-tone`
   static const IconifyIconData womanInSteamyRoomDarkSkinTone = IconifyIconData(IconData(
-    0xeefd,
+    0xee6c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-steamy-room-medium-dark-skin-tone`
   static const IconifyIconData womanInSteamyRoomMediumDarkSkinTone = IconifyIconData(IconData(
-    0xeefe,
+    0xee6d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-steamy-room-medium-light-skin-tone`
   static const IconifyIconData womanInSteamyRoomMediumLightSkinTone = IconifyIconData(IconData(
-    0xe722,
+    0xee6e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-tuxedo`
   static const IconifyIconData womanInTuxedo = IconifyIconData(IconData(
-    0xe723,
+    0xee6f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-tuxedo-dark-skin-tone`
   static const IconifyIconData womanInTuxedoDarkSkinTone = IconifyIconData(IconData(
-    0xeeff,
+    0xee70,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-tuxedo-light-skin-tone`
   static const IconifyIconData womanInTuxedoLightSkinTone = IconifyIconData(IconData(
-    0xef00,
+    0xee71,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-tuxedo-medium-dark-skin-tone`
   static const IconifyIconData womanInTuxedoMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef01,
+    0xee72,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-tuxedo-medium-light-skin-tone`
   static const IconifyIconData womanInTuxedoMediumLightSkinTone = IconifyIconData(IconData(
-    0xe724,
+    0xee73,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-in-tuxedo-medium-skin-tone`
   static const IconifyIconData womanInTuxedoMediumSkinTone = IconifyIconData(IconData(
-    0xef02,
+    0xee74,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-judge`
   static const IconifyIconData womanJudge = IconifyIconData(IconData(
-    0xef03,
+    0xee75,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-judge-dark-skin-tone`
   static const IconifyIconData womanJudgeDarkSkinTone = IconifyIconData(IconData(
-    0xef04,
+    0xee76,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-judge-light-skin-tone`
   static const IconifyIconData womanJudgeLightSkinTone = IconifyIconData(IconData(
-    0xef05,
+    0xee77,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-judge-medium-dark-skin-tone`
   static const IconifyIconData womanJudgeMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef06,
+    0xee78,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-judge-medium-light-skin-tone`
   static const IconifyIconData womanJudgeMediumLightSkinTone = IconifyIconData(IconData(
-    0xef07,
+    0xee79,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-judge-medium-skin-tone`
   static const IconifyIconData womanJudgeMediumSkinTone = IconifyIconData(IconData(
-    0xef08,
+    0xee7a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-juggling`
   static const IconifyIconData womanJuggling = IconifyIconData(IconData(
-    0xe725,
+    0xee7b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-juggling-dark-skin-tone`
   static const IconifyIconData womanJugglingDarkSkinTone = IconifyIconData(IconData(
-    0xef09,
+    0xee7c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-juggling-light-skin-tone`
   static const IconifyIconData womanJugglingLightSkinTone = IconifyIconData(IconData(
-    0xe726,
+    0xee7d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-juggling-medium-dark-skin-tone`
   static const IconifyIconData womanJugglingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef0a,
+    0xee7e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-juggling-medium-light-skin-tone`
   static const IconifyIconData womanJugglingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe727,
+    0xee7f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-juggling-medium-skin-tone`
   static const IconifyIconData womanJugglingMediumSkinTone = IconifyIconData(IconData(
-    0xe728,
+    0xee80,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-kneeling`
   static const IconifyIconData womanKneeling = IconifyIconData(IconData(
-    0xe729,
+    0xee81,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-kneeling-dark-skin-tone`
   static const IconifyIconData womanKneelingDarkSkinTone = IconifyIconData(IconData(
-    0xef0b,
+    0xee82,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-kneeling-dark-skin-tone-facing-right`
   static const IconifyIconData womanKneelingDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xef0c,
+    0xee83,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-kneeling-facing-right`
   static const IconifyIconData womanKneelingFacingRight = IconifyIconData(IconData(
-    0xe72a,
+    0xee84,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-kneeling-light-skin-tone`
   static const IconifyIconData womanKneelingLightSkinTone = IconifyIconData(IconData(
-    0xe72b,
+    0xee85,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-kneeling-light-skin-tone-facing-right`
   static const IconifyIconData womanKneelingLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe72c,
+    0xee86,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-kneeling-medium-dark-skin-tone`
   static const IconifyIconData womanKneelingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef0d,
+    0xee87,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-kneeling-medium-dark-skin-tone-facing-right`
   static const IconifyIconData womanKneelingMediumDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xef0e,
+    0xee88,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-kneeling-medium-light-skin-tone`
   static const IconifyIconData womanKneelingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe72d,
+    0xee89,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-kneeling-medium-light-skin-tone-facing-right`
   static const IconifyIconData womanKneelingMediumLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe72e,
+    0xee8a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-kneeling-medium-skin-tone`
   static const IconifyIconData womanKneelingMediumSkinTone = IconifyIconData(IconData(
-    0xe72f,
+    0xee8b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-kneeling-medium-skin-tone-facing-right`
   static const IconifyIconData womanKneelingMediumSkinToneFacingRight = IconifyIconData(IconData(
-    0xe730,
+    0xee8c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-lifting-weights`
   static const IconifyIconData womanLiftingWeights = IconifyIconData(IconData(
-    0xef0f,
+    0xee8d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-lifting-weights-dark-skin-tone`
   static const IconifyIconData womanLiftingWeightsDarkSkinTone = IconifyIconData(IconData(
-    0xef10,
+    0xee8e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-lifting-weights-light-skin-tone`
   static const IconifyIconData womanLiftingWeightsLightSkinTone = IconifyIconData(IconData(
-    0xef11,
+    0xee8f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-lifting-weights-medium-dark-skin-tone`
   static const IconifyIconData womanLiftingWeightsMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef12,
+    0xee90,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-lifting-weights-medium-light-skin-tone`
   static const IconifyIconData womanLiftingWeightsMediumLightSkinTone = IconifyIconData(IconData(
-    0xef13,
+    0xee91,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-lifting-weights-medium-skin-tone`
   static const IconifyIconData womanLiftingWeightsMediumSkinTone = IconifyIconData(IconData(
-    0xef14,
+    0xee92,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-light-skin-tone`
   static const IconifyIconData womanLightSkinTone = IconifyIconData(IconData(
-    0xef15,
+    0xee93,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-light-skin-tone-bald`
   static const IconifyIconData womanLightSkinToneBald = IconifyIconData(IconData(
-    0xe731,
+    0xee94,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-light-skin-tone-beard`
   static const IconifyIconData womanLightSkinToneBeard = IconifyIconData(IconData(
-    0xef16,
+    0xee95,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-light-skin-tone-blond-hair`
   static const IconifyIconData womanLightSkinToneBlondHair = IconifyIconData(IconData(
-    0xe732,
+    0xee96,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-light-skin-tone-white-hair`
   static const IconifyIconData womanLightSkinToneWhiteHair = IconifyIconData(IconData(
-    0xe733,
+    0xee97,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-mage`
   static const IconifyIconData womanMage = IconifyIconData(IconData(
-    0xef17,
+    0xee98,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-mage-dark-skin-tone`
   static const IconifyIconData womanMageDarkSkinTone = IconifyIconData(IconData(
-    0xef18,
+    0xee99,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-mage-medium-dark-skin-tone`
   static const IconifyIconData womanMageMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef19,
+    0xee9a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-mage-medium-light-skin-tone`
   static const IconifyIconData womanMageMediumLightSkinTone = IconifyIconData(IconData(
-    0xef1a,
+    0xee9b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-mechanic`
   static const IconifyIconData womanMechanic = IconifyIconData(IconData(
-    0xef1b,
+    0xee9c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-mechanic-dark-skin-tone`
   static const IconifyIconData womanMechanicDarkSkinTone = IconifyIconData(IconData(
-    0xef1c,
+    0xee9d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-mechanic-light-skin-tone`
   static const IconifyIconData womanMechanicLightSkinTone = IconifyIconData(IconData(
-    0xef1d,
+    0xee9e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-mechanic-medium-dark-skin-tone`
   static const IconifyIconData womanMechanicMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef1e,
+    0xee9f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-mechanic-medium-light-skin-tone`
   static const IconifyIconData womanMechanicMediumLightSkinTone = IconifyIconData(IconData(
-    0xef1f,
+    0xeea0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-mechanic-medium-skin-tone`
   static const IconifyIconData womanMechanicMediumSkinTone = IconifyIconData(IconData(
-    0xef20,
+    0xeea1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-medium-dark-skin-tone`
   static const IconifyIconData womanMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef21,
+    0xeea2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-medium-dark-skin-tone-bald`
   static const IconifyIconData womanMediumDarkSkinToneBald = IconifyIconData(IconData(
-    0xef22,
+    0xeea3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-medium-dark-skin-tone-beard`
   static const IconifyIconData womanMediumDarkSkinToneBeard = IconifyIconData(IconData(
-    0xef23,
+    0xeea4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-medium-dark-skin-tone-blond-hair`
   static const IconifyIconData womanMediumDarkSkinToneBlondHair = IconifyIconData(IconData(
-    0xef24,
+    0xeea5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-medium-dark-skin-tone-curly-hair`
   static const IconifyIconData womanMediumDarkSkinToneCurlyHair = IconifyIconData(IconData(
-    0xef25,
+    0xeea6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-medium-dark-skin-tone-white-hair`
   static const IconifyIconData womanMediumDarkSkinToneWhiteHair = IconifyIconData(IconData(
-    0xef26,
+    0xeea7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-medium-light-skin-tone`
   static const IconifyIconData womanMediumLightSkinTone = IconifyIconData(IconData(
-    0xe734,
+    0xeea8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-medium-light-skin-tone-bald`
   static const IconifyIconData womanMediumLightSkinToneBald = IconifyIconData(IconData(
-    0xe735,
+    0xeea9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-medium-light-skin-tone-beard`
   static const IconifyIconData womanMediumLightSkinToneBeard = IconifyIconData(IconData(
-    0xe736,
+    0xeeaa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-medium-light-skin-tone-blond-hair`
   static const IconifyIconData womanMediumLightSkinToneBlondHair = IconifyIconData(IconData(
-    0xe737,
+    0xeeab,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-medium-light-skin-tone-curly-hair`
   static const IconifyIconData womanMediumLightSkinToneCurlyHair = IconifyIconData(IconData(
-    0xe738,
+    0xeeac,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-medium-light-skin-tone-white-hair`
   static const IconifyIconData womanMediumLightSkinToneWhiteHair = IconifyIconData(IconData(
-    0xe739,
+    0xeead,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-medium-skin-tone`
   static const IconifyIconData womanMediumSkinTone = IconifyIconData(IconData(
-    0xef27,
+    0xeeae,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-medium-skin-tone-bald`
   static const IconifyIconData womanMediumSkinToneBald = IconifyIconData(IconData(
-    0xe73a,
+    0xeeaf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-medium-skin-tone-beard`
   static const IconifyIconData womanMediumSkinToneBeard = IconifyIconData(IconData(
-    0xef28,
+    0xeeb0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-medium-skin-tone-blond-hair`
   static const IconifyIconData womanMediumSkinToneBlondHair = IconifyIconData(IconData(
-    0xe73b,
+    0xeeb1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-medium-skin-tone-white-hair`
   static const IconifyIconData womanMediumSkinToneWhiteHair = IconifyIconData(IconData(
-    0xe73c,
+    0xeeb2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-mountain-biking`
   static const IconifyIconData womanMountainBiking = IconifyIconData(IconData(
-    0xe73d,
+    0xeeb3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-mountain-biking-dark-skin-tone`
   static const IconifyIconData womanMountainBikingDarkSkinTone = IconifyIconData(IconData(
-    0xef29,
+    0xeeb4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-mountain-biking-light-skin-tone`
   static const IconifyIconData womanMountainBikingLightSkinTone = IconifyIconData(IconData(
-    0xe73e,
+    0xeeb5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-mountain-biking-medium-dark-skin-tone`
   static const IconifyIconData womanMountainBikingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef2a,
+    0xeeb6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-mountain-biking-medium-light-skin-tone`
   static const IconifyIconData womanMountainBikingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe73f,
+    0xeeb7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-mountain-biking-medium-skin-tone`
   static const IconifyIconData womanMountainBikingMediumSkinTone = IconifyIconData(IconData(
-    0xe740,
+    0xeeb8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-office-worker`
   static const IconifyIconData womanOfficeWorker = IconifyIconData(IconData(
-    0xe741,
+    0xeeb9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-office-worker-dark-skin-tone`
   static const IconifyIconData womanOfficeWorkerDarkSkinTone = IconifyIconData(IconData(
-    0xef2b,
+    0xeeba,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-office-worker-light-skin-tone`
   static const IconifyIconData womanOfficeWorkerLightSkinTone = IconifyIconData(IconData(
-    0xef2c,
+    0xeebb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-office-worker-medium-dark-skin-tone`
   static const IconifyIconData womanOfficeWorkerMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef2d,
+    0xeebc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-office-worker-medium-light-skin-tone`
   static const IconifyIconData womanOfficeWorkerMediumLightSkinTone = IconifyIconData(IconData(
-    0xe742,
+    0xeebd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-office-worker-medium-skin-tone`
   static const IconifyIconData womanOfficeWorkerMediumSkinTone = IconifyIconData(IconData(
-    0xef2e,
+    0xeebe,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-pilot`
   static const IconifyIconData womanPilot = IconifyIconData(IconData(
-    0xef2f,
+    0xeebf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-pilot-dark-skin-tone`
   static const IconifyIconData womanPilotDarkSkinTone = IconifyIconData(IconData(
-    0xef30,
+    0xeec0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-pilot-light-skin-tone`
   static const IconifyIconData womanPilotLightSkinTone = IconifyIconData(IconData(
-    0xef31,
+    0xeec1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-pilot-medium-dark-skin-tone`
   static const IconifyIconData womanPilotMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef32,
+    0xeec2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-pilot-medium-light-skin-tone`
   static const IconifyIconData womanPilotMediumLightSkinTone = IconifyIconData(IconData(
-    0xe743,
+    0xeec3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-pilot-medium-skin-tone`
   static const IconifyIconData womanPilotMediumSkinTone = IconifyIconData(IconData(
-    0xef33,
+    0xeec4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-playing-handball`
   static const IconifyIconData womanPlayingHandball = IconifyIconData(IconData(
-    0xe744,
+    0xeec5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-playing-handball-dark-skin-tone`
   static const IconifyIconData womanPlayingHandballDarkSkinTone = IconifyIconData(IconData(
-    0xef34,
+    0xeec6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-playing-handball-light-skin-tone`
   static const IconifyIconData womanPlayingHandballLightSkinTone = IconifyIconData(IconData(
-    0xe745,
+    0xeec7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-playing-handball-medium-dark-skin-tone`
   static const IconifyIconData womanPlayingHandballMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef35,
+    0xeec8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-playing-handball-medium-light-skin-tone`
   static const IconifyIconData womanPlayingHandballMediumLightSkinTone = IconifyIconData(IconData(
-    0xe746,
+    0xeec9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-playing-handball-medium-skin-tone`
   static const IconifyIconData womanPlayingHandballMediumSkinTone = IconifyIconData(IconData(
-    0xe747,
+    0xeeca,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-playing-water-polo`
   static const IconifyIconData womanPlayingWaterPolo = IconifyIconData(IconData(
-    0xe748,
+    0xeecb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-playing-water-polo-dark-skin-tone`
   static const IconifyIconData womanPlayingWaterPoloDarkSkinTone = IconifyIconData(IconData(
-    0xef36,
+    0xeecc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-playing-water-polo-light-skin-tone`
   static const IconifyIconData womanPlayingWaterPoloLightSkinTone = IconifyIconData(IconData(
-    0xe749,
+    0xeecd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-playing-water-polo-medium-dark-skin-tone`
   static const IconifyIconData womanPlayingWaterPoloMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef37,
+    0xeece,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-playing-water-polo-medium-light-skin-tone`
   static const IconifyIconData womanPlayingWaterPoloMediumLightSkinTone = IconifyIconData(IconData(
-    0xe74a,
+    0xeecf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-playing-water-polo-medium-skin-tone`
   static const IconifyIconData womanPlayingWaterPoloMediumSkinTone = IconifyIconData(IconData(
-    0xe74b,
+    0xeed0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-police-officer`
   static const IconifyIconData womanPoliceOfficer = IconifyIconData(IconData(
-    0xef38,
+    0xeed1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-police-officer-dark-skin-tone`
   static const IconifyIconData womanPoliceOfficerDarkSkinTone = IconifyIconData(IconData(
-    0xef39,
+    0xeed2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-police-officer-light-skin-tone`
   static const IconifyIconData womanPoliceOfficerLightSkinTone = IconifyIconData(IconData(
-    0xef3a,
+    0xeed3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-police-officer-medium-dark-skin-tone`
   static const IconifyIconData womanPoliceOfficerMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef3b,
+    0xeed4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-police-officer-medium-light-skin-tone`
   static const IconifyIconData womanPoliceOfficerMediumLightSkinTone = IconifyIconData(IconData(
-    0xef3c,
+    0xeed5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-police-officer-medium-skin-tone`
   static const IconifyIconData womanPoliceOfficerMediumSkinTone = IconifyIconData(IconData(
-    0xef3d,
+    0xeed6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-pouting`
   static const IconifyIconData womanPouting = IconifyIconData(IconData(
-    0xe74c,
+    0xeed7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-pouting-dark-skin-tone`
   static const IconifyIconData womanPoutingDarkSkinTone = IconifyIconData(IconData(
-    0xef3e,
+    0xeed8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-pouting-light-skin-tone`
   static const IconifyIconData womanPoutingLightSkinTone = IconifyIconData(IconData(
-    0xef3f,
+    0xeed9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-pouting-medium-dark-skin-tone`
   static const IconifyIconData womanPoutingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef40,
+    0xeeda,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-pouting-medium-light-skin-tone`
   static const IconifyIconData womanPoutingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe74d,
+    0xeedb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-pouting-medium-skin-tone`
   static const IconifyIconData womanPoutingMediumSkinTone = IconifyIconData(IconData(
-    0xef41,
+    0xeedc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-raising-hand`
   static const IconifyIconData womanRaisingHand = IconifyIconData(IconData(
-    0xe74e,
+    0xeedd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-raising-hand-dark-skin-tone`
   static const IconifyIconData womanRaisingHandDarkSkinTone = IconifyIconData(IconData(
-    0xef42,
+    0xeede,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-raising-hand-light-skin-tone`
   static const IconifyIconData womanRaisingHandLightSkinTone = IconifyIconData(IconData(
-    0xef43,
+    0xeedf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-raising-hand-medium-dark-skin-tone`
   static const IconifyIconData womanRaisingHandMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef44,
+    0xeee0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-raising-hand-medium-light-skin-tone`
   static const IconifyIconData womanRaisingHandMediumLightSkinTone = IconifyIconData(IconData(
-    0xe74f,
+    0xeee1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-raising-hand-medium-skin-tone`
   static const IconifyIconData womanRaisingHandMediumSkinTone = IconifyIconData(IconData(
-    0xef45,
+    0xeee2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-rowing-boat`
   static const IconifyIconData womanRowingBoat = IconifyIconData(IconData(
-    0xef46,
+    0xeee3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-rowing-boat-dark-skin-tone`
   static const IconifyIconData womanRowingBoatDarkSkinTone = IconifyIconData(IconData(
-    0xef47,
+    0xeee4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-rowing-boat-light-skin-tone`
   static const IconifyIconData womanRowingBoatLightSkinTone = IconifyIconData(IconData(
-    0xef48,
+    0xeee5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-rowing-boat-medium-dark-skin-tone`
   static const IconifyIconData womanRowingBoatMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef49,
+    0xeee6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-rowing-boat-medium-light-skin-tone`
   static const IconifyIconData womanRowingBoatMediumLightSkinTone = IconifyIconData(IconData(
-    0xef4a,
+    0xeee7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-rowing-boat-medium-skin-tone`
   static const IconifyIconData womanRowingBoatMediumSkinTone = IconifyIconData(IconData(
-    0xef4b,
+    0xeee8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-running`
   static const IconifyIconData womanRunning = IconifyIconData(IconData(
-    0xe750,
+    0xeee9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-running-dark-skin-tone`
   static const IconifyIconData womanRunningDarkSkinTone = IconifyIconData(IconData(
-    0xef4c,
+    0xeeea,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-running-dark-skin-tone-facing-right`
   static const IconifyIconData womanRunningDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xef4d,
+    0xeeeb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-running-facing-right`
   static const IconifyIconData womanRunningFacingRight = IconifyIconData(IconData(
-    0xe751,
+    0xeeec,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-running-light-skin-tone`
   static const IconifyIconData womanRunningLightSkinTone = IconifyIconData(IconData(
-    0xe752,
+    0xeeed,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-running-light-skin-tone-facing-right`
   static const IconifyIconData womanRunningLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe753,
+    0xeeee,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-running-medium-dark-skin-tone`
   static const IconifyIconData womanRunningMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef4e,
+    0xeeef,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-running-medium-dark-skin-tone-facing-right`
   static const IconifyIconData womanRunningMediumDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xef4f,
+    0xeef0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-running-medium-light-skin-tone`
   static const IconifyIconData womanRunningMediumLightSkinTone = IconifyIconData(IconData(
-    0xe754,
+    0xeef1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-running-medium-light-skin-tone-facing-right`
   static const IconifyIconData womanRunningMediumLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe755,
+    0xeef2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-running-medium-skin-tone`
   static const IconifyIconData womanRunningMediumSkinTone = IconifyIconData(IconData(
-    0xe756,
+    0xeef3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-running-medium-skin-tone-facing-right`
   static const IconifyIconData womanRunningMediumSkinToneFacingRight = IconifyIconData(IconData(
-    0xe757,
+    0xeef4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-scientist`
   static const IconifyIconData womanScientist = IconifyIconData(IconData(
-    0xef50,
+    0xeef5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-scientist-dark-skin-tone`
   static const IconifyIconData womanScientistDarkSkinTone = IconifyIconData(IconData(
-    0xef51,
+    0xeef6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-scientist-light-skin-tone`
   static const IconifyIconData womanScientistLightSkinTone = IconifyIconData(IconData(
-    0xef52,
+    0xeef7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-scientist-medium-dark-skin-tone`
   static const IconifyIconData womanScientistMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef53,
+    0xeef8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-scientist-medium-light-skin-tone`
   static const IconifyIconData womanScientistMediumLightSkinTone = IconifyIconData(IconData(
-    0xe758,
+    0xeef9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-scientist-medium-skin-tone`
   static const IconifyIconData womanScientistMediumSkinTone = IconifyIconData(IconData(
-    0xef54,
+    0xeefa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-shrugging`
   static const IconifyIconData womanShrugging = IconifyIconData(IconData(
-    0xe759,
+    0xeefb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-shrugging-dark-skin-tone`
   static const IconifyIconData womanShruggingDarkSkinTone = IconifyIconData(IconData(
-    0xef55,
+    0xeefc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-shrugging-light-skin-tone`
   static const IconifyIconData womanShruggingLightSkinTone = IconifyIconData(IconData(
-    0xef56,
+    0xeefd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-shrugging-medium-dark-skin-tone`
   static const IconifyIconData womanShruggingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef57,
+    0xeefe,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-shrugging-medium-light-skin-tone`
   static const IconifyIconData womanShruggingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe75a,
+    0xeeff,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-shrugging-medium-skin-tone`
   static const IconifyIconData womanShruggingMediumSkinTone = IconifyIconData(IconData(
-    0xef58,
+    0xef00,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-singer`
   static const IconifyIconData womanSinger = IconifyIconData(IconData(
-    0xef59,
+    0xef01,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-singer-dark-skin-tone`
   static const IconifyIconData womanSingerDarkSkinTone = IconifyIconData(IconData(
-    0xef5a,
+    0xef02,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-singer-light-skin-tone`
   static const IconifyIconData womanSingerLightSkinTone = IconifyIconData(IconData(
-    0xef5b,
+    0xef03,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-singer-medium-dark-skin-tone`
   static const IconifyIconData womanSingerMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef5c,
+    0xef04,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-singer-medium-light-skin-tone`
   static const IconifyIconData womanSingerMediumLightSkinTone = IconifyIconData(IconData(
-    0xe75b,
+    0xef05,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-singer-medium-skin-tone`
   static const IconifyIconData womanSingerMediumSkinTone = IconifyIconData(IconData(
-    0xef5d,
+    0xef06,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-sneezing-into-elbow`
   static const IconifyIconData womanSneezingIntoElbow = IconifyIconData(IconData(
-    0xe75c,
+    0xef07,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-standing`
   static const IconifyIconData womanStanding = IconifyIconData(IconData(
-    0xe75d,
+    0xef08,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-standing-dark-skin-tone`
   static const IconifyIconData womanStandingDarkSkinTone = IconifyIconData(IconData(
-    0xef5e,
+    0xef09,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-standing-light-skin-tone`
   static const IconifyIconData womanStandingLightSkinTone = IconifyIconData(IconData(
-    0xe75e,
+    0xef0a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-standing-medium-dark-skin-tone`
   static const IconifyIconData womanStandingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef5f,
+    0xef0b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-standing-medium-light-skin-tone`
   static const IconifyIconData womanStandingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe75f,
+    0xef0c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-standing-medium-skin-tone`
   static const IconifyIconData womanStandingMediumSkinTone = IconifyIconData(IconData(
-    0xe760,
+    0xef0d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-student`
   static const IconifyIconData womanStudent = IconifyIconData(IconData(
-    0xe761,
+    0xef0e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-student-dark-skin-tone`
   static const IconifyIconData womanStudentDarkSkinTone = IconifyIconData(IconData(
-    0xef60,
+    0xef0f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-student-light-skin-tone`
   static const IconifyIconData womanStudentLightSkinTone = IconifyIconData(IconData(
-    0xef61,
+    0xef10,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-student-medium-dark-skin-tone`
   static const IconifyIconData womanStudentMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef62,
+    0xef11,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-student-medium-light-skin-tone`
   static const IconifyIconData womanStudentMediumLightSkinTone = IconifyIconData(IconData(
-    0xe762,
+    0xef12,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-student-medium-skin-tone`
   static const IconifyIconData womanStudentMediumSkinTone = IconifyIconData(IconData(
-    0xef63,
+    0xef13,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-superhero`
   static const IconifyIconData womanSuperhero = IconifyIconData(IconData(
-    0xe763,
+    0xef14,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-superhero-dark-skin-tone`
   static const IconifyIconData womanSuperheroDarkSkinTone = IconifyIconData(IconData(
-    0xef64,
+    0xef15,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-superhero-medium-dark-skin-tone`
   static const IconifyIconData womanSuperheroMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef65,
+    0xef16,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-superhero-medium-light-skin-tone`
   static const IconifyIconData womanSuperheroMediumLightSkinTone = IconifyIconData(IconData(
-    0xe764,
+    0xef17,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-supervillain`
   static const IconifyIconData womanSupervillain = IconifyIconData(IconData(
-    0xef66,
+    0xef18,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-supervillain-dark-skin-tone`
   static const IconifyIconData womanSupervillainDarkSkinTone = IconifyIconData(IconData(
-    0xef67,
+    0xef19,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-supervillain-medium-dark-skin-tone`
   static const IconifyIconData womanSupervillainMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef68,
+    0xef1a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-supervillain-medium-light-skin-tone`
   static const IconifyIconData womanSupervillainMediumLightSkinTone = IconifyIconData(IconData(
-    0xef69,
+    0xef1b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-surfing`
   static const IconifyIconData womanSurfing = IconifyIconData(IconData(
-    0xe765,
+    0xef1c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-surfing-dark-skin-tone`
   static const IconifyIconData womanSurfingDarkSkinTone = IconifyIconData(IconData(
-    0xef6a,
+    0xef1d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-surfing-light-skin-tone`
   static const IconifyIconData womanSurfingLightSkinTone = IconifyIconData(IconData(
-    0xe766,
+    0xef1e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-surfing-medium-dark-skin-tone`
   static const IconifyIconData womanSurfingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef6b,
+    0xef1f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-surfing-medium-light-skin-tone`
   static const IconifyIconData womanSurfingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe767,
+    0xef20,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-surfing-medium-skin-tone`
   static const IconifyIconData womanSurfingMediumSkinTone = IconifyIconData(IconData(
-    0xe768,
+    0xef21,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-swimming`
   static const IconifyIconData womanSwimming = IconifyIconData(IconData(
-    0xe769,
+    0xef22,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-swimming-dark-skin-tone`
   static const IconifyIconData womanSwimmingDarkSkinTone = IconifyIconData(IconData(
-    0xef6c,
+    0xef23,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-swimming-light-skin-tone`
   static const IconifyIconData womanSwimmingLightSkinTone = IconifyIconData(IconData(
-    0xe76a,
+    0xef24,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-swimming-medium-dark-skin-tone`
   static const IconifyIconData womanSwimmingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef6d,
+    0xef25,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-swimming-medium-light-skin-tone`
   static const IconifyIconData womanSwimmingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe76b,
+    0xef26,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-swimming-medium-skin-tone`
   static const IconifyIconData womanSwimmingMediumSkinTone = IconifyIconData(IconData(
-    0xe76c,
+    0xef27,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-technologist`
   static const IconifyIconData womanTechnologist = IconifyIconData(IconData(
-    0xef6e,
+    0xef28,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-technologist-dark-skin-tone`
   static const IconifyIconData womanTechnologistDarkSkinTone = IconifyIconData(IconData(
-    0xef6f,
+    0xef29,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-technologist-light-skin-tone`
   static const IconifyIconData womanTechnologistLightSkinTone = IconifyIconData(IconData(
-    0xef70,
+    0xef2a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-technologist-medium-dark-skin-tone`
   static const IconifyIconData womanTechnologistMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef71,
+    0xef2b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-technologist-medium-light-skin-tone`
   static const IconifyIconData womanTechnologistMediumLightSkinTone = IconifyIconData(IconData(
-    0xef72,
+    0xef2c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-technologist-medium-skin-tone`
   static const IconifyIconData womanTechnologistMediumSkinTone = IconifyIconData(IconData(
-    0xef73,
+    0xef2d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-tipping-hand`
   static const IconifyIconData womanTippingHand = IconifyIconData(IconData(
-    0xe76d,
+    0xef2e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-tipping-hand-dark-skin-tone`
   static const IconifyIconData womanTippingHandDarkSkinTone = IconifyIconData(IconData(
-    0xef74,
+    0xef2f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-tipping-hand-light-skin-tone`
   static const IconifyIconData womanTippingHandLightSkinTone = IconifyIconData(IconData(
-    0xef75,
+    0xef30,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-tipping-hand-medium-dark-skin-tone`
   static const IconifyIconData womanTippingHandMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef76,
+    0xef31,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-tipping-hand-medium-light-skin-tone`
   static const IconifyIconData womanTippingHandMediumLightSkinTone = IconifyIconData(IconData(
-    0xe76e,
+    0xef32,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-tipping-hand-medium-skin-tone`
   static const IconifyIconData womanTippingHandMediumSkinTone = IconifyIconData(IconData(
-    0xef77,
+    0xef33,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-vampire`
   static const IconifyIconData womanVampire = IconifyIconData(IconData(
-    0xe76f,
+    0xef34,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-vampire-dark-skin-tone`
   static const IconifyIconData womanVampireDarkSkinTone = IconifyIconData(IconData(
-    0xef78,
+    0xef35,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-vampire-medium-dark-skin-tone`
   static const IconifyIconData womanVampireMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef79,
+    0xef36,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-vampire-medium-light-skin-tone`
   static const IconifyIconData womanVampireMediumLightSkinTone = IconifyIconData(IconData(
-    0xe770,
+    0xef37,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-walking`
   static const IconifyIconData womanWalking = IconifyIconData(IconData(
-    0xe771,
+    0xef38,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-walking-dark-skin-tone`
   static const IconifyIconData womanWalkingDarkSkinTone = IconifyIconData(IconData(
-    0xef7a,
+    0xef39,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-walking-dark-skin-tone-facing-right`
   static const IconifyIconData womanWalkingDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xef7b,
+    0xef3a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-walking-facing-right`
   static const IconifyIconData womanWalkingFacingRight = IconifyIconData(IconData(
-    0xe772,
+    0xef3b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-walking-light-skin-tone`
   static const IconifyIconData womanWalkingLightSkinTone = IconifyIconData(IconData(
-    0xe773,
+    0xef3c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-walking-light-skin-tone-facing-right`
   static const IconifyIconData womanWalkingLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe774,
+    0xef3d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-walking-medium-dark-skin-tone`
   static const IconifyIconData womanWalkingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef7c,
+    0xef3e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-walking-medium-dark-skin-tone-facing-right`
   static const IconifyIconData womanWalkingMediumDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xef7d,
+    0xef3f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-walking-medium-light-skin-tone`
   static const IconifyIconData womanWalkingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe775,
+    0xef40,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-walking-medium-light-skin-tone-facing-right`
   static const IconifyIconData womanWalkingMediumLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe776,
+    0xef41,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-walking-medium-skin-tone`
   static const IconifyIconData womanWalkingMediumSkinTone = IconifyIconData(IconData(
-    0xe777,
+    0xef42,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-walking-medium-skin-tone-facing-right`
   static const IconifyIconData womanWalkingMediumSkinToneFacingRight = IconifyIconData(IconData(
-    0xe778,
+    0xef43,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-wearing-turban`
   static const IconifyIconData womanWearingTurban = IconifyIconData(IconData(
-    0xef7e,
+    0xef44,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-wearing-turban-dark-skin-tone`
   static const IconifyIconData womanWearingTurbanDarkSkinTone = IconifyIconData(IconData(
-    0xef7f,
+    0xef45,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-wearing-turban-light-skin-tone`
   static const IconifyIconData womanWearingTurbanLightSkinTone = IconifyIconData(IconData(
-    0xef80,
+    0xef46,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-wearing-turban-medium-dark-skin-tone`
   static const IconifyIconData womanWearingTurbanMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef81,
+    0xef47,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-wearing-turban-medium-light-skin-tone`
   static const IconifyIconData womanWearingTurbanMediumLightSkinTone = IconifyIconData(IconData(
-    0xef82,
+    0xef48,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-wearing-turban-medium-skin-tone`
   static const IconifyIconData womanWearingTurbanMediumSkinTone = IconifyIconData(IconData(
-    0xef83,
+    0xef49,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-white-hair`
   static const IconifyIconData womanWhiteHair = IconifyIconData(IconData(
-    0xe779,
+    0xef4a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-medical-mask`
   static const IconifyIconData womanWithMedicalMask = IconifyIconData(IconData(
-    0xe77a,
+    0xef4b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-probing-cane`
   static const IconifyIconData womanWithProbingCane = IconifyIconData(IconData(
-    0xe77b,
+    0xef4c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-probing-cane-dark-skin-tone`
   static const IconifyIconData womanWithProbingCaneDarkSkinTone = IconifyIconData(IconData(
-    0xef84,
+    0xef4d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-probing-cane-light-skin-tone`
   static const IconifyIconData womanWithProbingCaneLightSkinTone = IconifyIconData(IconData(
-    0xe77c,
+    0xef4e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-probing-cane-medium-dark-skin-tone`
   static const IconifyIconData womanWithProbingCaneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef85,
+    0xef4f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-probing-cane-medium-light-skin-tone`
   static const IconifyIconData womanWithProbingCaneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe77d,
+    0xef50,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-probing-cane-medium-skin-tone`
   static const IconifyIconData womanWithProbingCaneMediumSkinTone = IconifyIconData(IconData(
-    0xe77e,
+    0xef51,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-veil`
   static const IconifyIconData womanWithVeil = IconifyIconData(IconData(
-    0xef86,
+    0xef52,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-veil-dark-skin-tone`
   static const IconifyIconData womanWithVeilDarkSkinTone = IconifyIconData(IconData(
-    0xef87,
+    0xef53,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-veil-light-skin-tone`
   static const IconifyIconData womanWithVeilLightSkinTone = IconifyIconData(IconData(
-    0xef88,
+    0xef54,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-veil-medium-dark-skin-tone`
   static const IconifyIconData womanWithVeilMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef89,
+    0xef55,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-veil-medium-light-skin-tone`
   static const IconifyIconData womanWithVeilMediumLightSkinTone = IconifyIconData(IconData(
-    0xe77f,
+    0xef56,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-veil-medium-skin-tone`
   static const IconifyIconData womanWithVeilMediumSkinTone = IconifyIconData(IconData(
-    0xef8a,
+    0xef57,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-white-cane`
   static const IconifyIconData womanWithWhiteCane = IconifyIconData(IconData(
-    0xe780,
+    0xef58,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-white-cane-dark-skin-tone`
   static const IconifyIconData womanWithWhiteCaneDarkSkinTone = IconifyIconData(IconData(
-    0xef8b,
+    0xef59,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-white-cane-dark-skin-tone-facing-right`
   static const IconifyIconData womanWithWhiteCaneDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xef8c,
+    0xef5a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-white-cane-facing-right`
   static const IconifyIconData womanWithWhiteCaneFacingRight = IconifyIconData(IconData(
-    0xe781,
+    0xef5b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-white-cane-light-skin-tone`
   static const IconifyIconData womanWithWhiteCaneLightSkinTone = IconifyIconData(IconData(
-    0xe782,
+    0xef5c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-white-cane-light-skin-tone-facing-right`
   static const IconifyIconData womanWithWhiteCaneLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe783,
+    0xef5d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-white-cane-medium-dark-skin-tone`
   static const IconifyIconData womanWithWhiteCaneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef8d,
+    0xef5e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-white-cane-medium-dark-skin-tone-facing-right`
   static const IconifyIconData womanWithWhiteCaneMediumDarkSkinToneFacingRight = IconifyIconData(IconData(
-    0xef8e,
+    0xef5f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-white-cane-medium-light-skin-tone`
   static const IconifyIconData womanWithWhiteCaneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe784,
+    0xef60,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-white-cane-medium-light-skin-tone-facing-right`
   static const IconifyIconData womanWithWhiteCaneMediumLightSkinToneFacingRight = IconifyIconData(IconData(
-    0xe785,
+    0xef61,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-white-cane-medium-skin-tone`
   static const IconifyIconData womanWithWhiteCaneMediumSkinTone = IconifyIconData(IconData(
-    0xe786,
+    0xef62,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-with-white-cane-medium-skin-tone-facing-right`
   static const IconifyIconData womanWithWhiteCaneMediumSkinToneFacingRight = IconifyIconData(IconData(
-    0xe787,
+    0xef63,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woman-zombie`
   static const IconifyIconData womanZombie = IconifyIconData(IconData(
-    0xef8f,
+    0xef64,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `womans-hat`
   static const IconifyIconData womansHat = IconifyIconData(IconData(
-    0xef90,
+    0xef65,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands`
   static const IconifyIconData womenHoldingHands = IconifyIconData(IconData(
-    0xef91,
+    0xef66,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-dark-skin-tone`
   static const IconifyIconData womenHoldingHandsDarkSkinTone = IconifyIconData(IconData(
-    0xef92,
+    0xef67,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-dark-skin-tone-light-skin-tone`
   static const IconifyIconData womenHoldingHandsDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xef93,
+    0xef68,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-dark-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData womenHoldingHandsDarkSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef94,
+    0xef69,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData womenHoldingHandsDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xef95,
+    0xef6a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData womenHoldingHandsDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xef96,
+    0xef6b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-light-skin-tone`
   static const IconifyIconData womenHoldingHandsLightSkinTone = IconifyIconData(IconData(
-    0xef97,
+    0xef6c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-light-skin-tone-dark-skin-tone`
   static const IconifyIconData womenHoldingHandsLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xef98,
+    0xef6d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData womenHoldingHandsLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef99,
+    0xef6e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-light-skin-tone-medium-light-skin-tone`
   static const IconifyIconData womenHoldingHandsLightSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xef9a,
+    0xef6f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-light-skin-tone-medium-skin-tone`
   static const IconifyIconData womenHoldingHandsLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xef9b,
+    0xef70,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-medium-dark-skin-tone`
   static const IconifyIconData womenHoldingHandsMediumDarkSkinTone = IconifyIconData(IconData(
-    0xef9c,
+    0xef71,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-medium-dark-skin-tone-dark-skin-tone`
   static const IconifyIconData womenHoldingHandsMediumDarkSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xef9d,
+    0xef72,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-medium-dark-skin-tone-light-skin-tone`
   static const IconifyIconData womenHoldingHandsMediumDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xef9e,
+    0xef73,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-medium-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData womenHoldingHandsMediumDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xef9f,
+    0xef74,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-medium-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData womenHoldingHandsMediumDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xefa0,
+    0xef75,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-medium-light-skin-tone`
   static const IconifyIconData womenHoldingHandsMediumLightSkinTone = IconifyIconData(IconData(
-    0xefa1,
+    0xef76,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-medium-light-skin-tone-dark-skin-tone`
   static const IconifyIconData womenHoldingHandsMediumLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xefa2,
+    0xef77,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-medium-light-skin-tone-light-skin-tone`
   static const IconifyIconData womenHoldingHandsMediumLightSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xefa3,
+    0xef78,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-medium-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData womenHoldingHandsMediumLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xefa4,
+    0xef79,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-medium-light-skin-tone-medium-skin-tone`
   static const IconifyIconData womenHoldingHandsMediumLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xefa5,
+    0xef7a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-medium-skin-tone`
   static const IconifyIconData womenHoldingHandsMediumSkinTone = IconifyIconData(IconData(
-    0xefa6,
+    0xef7b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-medium-skin-tone-dark-skin-tone`
   static const IconifyIconData womenHoldingHandsMediumSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xefa7,
+    0xef7c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-medium-skin-tone-light-skin-tone`
   static const IconifyIconData womenHoldingHandsMediumSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xefa8,
+    0xef7d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-medium-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData womenHoldingHandsMediumSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xefa9,
+    0xef7e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-holding-hands-medium-skin-tone-medium-light-skin-tone`
   static const IconifyIconData womenHoldingHandsMediumSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xefaa,
+    0xef7f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears`
   static const IconifyIconData womenWithBunnyEars = IconifyIconData(IconData(
-    0xe788,
+    0xef80,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-dark-skin-tone`
   static const IconifyIconData womenWithBunnyEarsDarkSkinTone = IconifyIconData(IconData(
-    0xefab,
+    0xef81,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-dark-skin-tone-light-skin-tone`
   static const IconifyIconData womenWithBunnyEarsDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xefac,
+    0xef82,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-dark-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData womenWithBunnyEarsDarkSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xefad,
+    0xef83,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData womenWithBunnyEarsDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xefae,
+    0xef84,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData womenWithBunnyEarsDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xefaf,
+    0xef85,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-light-skin-tone`
   static const IconifyIconData womenWithBunnyEarsLightSkinTone = IconifyIconData(IconData(
-    0xe789,
+    0xef86,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-light-skin-tone-dark-skin-tone`
   static const IconifyIconData womenWithBunnyEarsLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xefb0,
+    0xef87,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData womenWithBunnyEarsLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xefb1,
+    0xef88,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-light-skin-tone-medium-light-skin-tone`
   static const IconifyIconData womenWithBunnyEarsLightSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe78a,
+    0xef89,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-light-skin-tone-medium-skin-tone`
   static const IconifyIconData womenWithBunnyEarsLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe78b,
+    0xef8a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-medium-dark-skin-tone`
   static const IconifyIconData womenWithBunnyEarsMediumDarkSkinTone = IconifyIconData(IconData(
-    0xefb2,
+    0xef8b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-medium-dark-skin-tone-dark-skin-tone`
   static const IconifyIconData womenWithBunnyEarsMediumDarkSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xefb3,
+    0xef8c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-medium-dark-skin-tone-light-skin-tone`
   static const IconifyIconData womenWithBunnyEarsMediumDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xefb4,
+    0xef8d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-medium-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData womenWithBunnyEarsMediumDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xefb5,
+    0xef8e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-medium-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData womenWithBunnyEarsMediumDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xefb6,
+    0xef8f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-medium-light-skin-tone`
   static const IconifyIconData womenWithBunnyEarsMediumLightSkinTone = IconifyIconData(IconData(
-    0xe78c,
+    0xef90,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-medium-light-skin-tone-dark-skin-tone`
   static const IconifyIconData womenWithBunnyEarsMediumLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xefb7,
+    0xef91,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-medium-light-skin-tone-light-skin-tone`
   static const IconifyIconData womenWithBunnyEarsMediumLightSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe78d,
+    0xef92,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-medium-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData womenWithBunnyEarsMediumLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xefb8,
+    0xef93,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-medium-light-skin-tone-medium-skin-tone`
   static const IconifyIconData womenWithBunnyEarsMediumLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe78e,
+    0xef94,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-medium-skin-tone`
   static const IconifyIconData womenWithBunnyEarsMediumSkinTone = IconifyIconData(IconData(
-    0xe78f,
+    0xef95,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-medium-skin-tone-dark-skin-tone`
   static const IconifyIconData womenWithBunnyEarsMediumSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xefb9,
+    0xef96,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-medium-skin-tone-light-skin-tone`
   static const IconifyIconData womenWithBunnyEarsMediumSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe790,
+    0xef97,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-medium-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData womenWithBunnyEarsMediumSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xefba,
+    0xef98,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-with-bunny-ears-medium-skin-tone-medium-light-skin-tone`
   static const IconifyIconData womenWithBunnyEarsMediumSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe791,
+    0xef99,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling`
   static const IconifyIconData womenWrestling = IconifyIconData(IconData(
-    0xe792,
+    0xef9a,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-dark-skin-tone`
   static const IconifyIconData womenWrestlingDarkSkinTone = IconifyIconData(IconData(
-    0xefbb,
+    0xef9b,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-dark-skin-tone-light-skin-tone`
   static const IconifyIconData womenWrestlingDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xefbc,
+    0xef9c,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-dark-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData womenWrestlingDarkSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xefbd,
+    0xef9d,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData womenWrestlingDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xefbe,
+    0xef9e,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData womenWrestlingDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xefbf,
+    0xef9f,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-light-skin-tone`
   static const IconifyIconData womenWrestlingLightSkinTone = IconifyIconData(IconData(
-    0xe793,
+    0xefa0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-light-skin-tone-dark-skin-tone`
   static const IconifyIconData womenWrestlingLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xefc0,
+    0xefa1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData womenWrestlingLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xefc1,
+    0xefa2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-light-skin-tone-medium-light-skin-tone`
   static const IconifyIconData womenWrestlingLightSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe794,
+    0xefa3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-light-skin-tone-medium-skin-tone`
   static const IconifyIconData womenWrestlingLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe795,
+    0xefa4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-medium-dark-skin-tone`
   static const IconifyIconData womenWrestlingMediumDarkSkinTone = IconifyIconData(IconData(
-    0xefc2,
+    0xefa5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-medium-dark-skin-tone-dark-skin-tone`
   static const IconifyIconData womenWrestlingMediumDarkSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xefc3,
+    0xefa6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-medium-dark-skin-tone-light-skin-tone`
   static const IconifyIconData womenWrestlingMediumDarkSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xefc4,
+    0xefa7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-medium-dark-skin-tone-medium-light-skin-tone`
   static const IconifyIconData womenWrestlingMediumDarkSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xefc5,
+    0xefa8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-medium-dark-skin-tone-medium-skin-tone`
   static const IconifyIconData womenWrestlingMediumDarkSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xefc6,
+    0xefa9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-medium-light-skin-tone`
   static const IconifyIconData womenWrestlingMediumLightSkinTone = IconifyIconData(IconData(
-    0xe796,
+    0xefaa,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-medium-light-skin-tone-dark-skin-tone`
   static const IconifyIconData womenWrestlingMediumLightSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xefc7,
+    0xefab,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-medium-light-skin-tone-light-skin-tone`
   static const IconifyIconData womenWrestlingMediumLightSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe797,
+    0xefac,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-medium-light-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData womenWrestlingMediumLightSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xefc8,
+    0xefad,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-medium-light-skin-tone-medium-skin-tone`
   static const IconifyIconData womenWrestlingMediumLightSkinToneMediumSkinTone = IconifyIconData(IconData(
-    0xe798,
+    0xefae,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-medium-skin-tone`
   static const IconifyIconData womenWrestlingMediumSkinTone = IconifyIconData(IconData(
-    0xe799,
+    0xefaf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-medium-skin-tone-dark-skin-tone`
   static const IconifyIconData womenWrestlingMediumSkinToneDarkSkinTone = IconifyIconData(IconData(
-    0xefc9,
+    0xefb0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-medium-skin-tone-light-skin-tone`
   static const IconifyIconData womenWrestlingMediumSkinToneLightSkinTone = IconifyIconData(IconData(
-    0xe79a,
+    0xefb1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-medium-skin-tone-medium-dark-skin-tone`
   static const IconifyIconData womenWrestlingMediumSkinToneMediumDarkSkinTone = IconifyIconData(IconData(
-    0xefca,
+    0xefb2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `women-wrestling-medium-skin-tone-medium-light-skin-tone`
   static const IconifyIconData womenWrestlingMediumSkinToneMediumLightSkinTone = IconifyIconData(IconData(
-    0xe79b,
+    0xefb3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `womens-room`
   static const IconifyIconData womensRoom = IconifyIconData(IconData(
-    0xe79c,
+    0xefb4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `woozy-face`
   static const IconifyIconData woozyFace = IconifyIconData(IconData(
-    0xe79d,
+    0xefb5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `world-map`
   static const IconifyIconData worldMap = IconifyIconData(IconData(
-    0xe79e,
+    0xefb6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `worm`
   static const IconifyIconData worm = IconifyIconData(IconData(
-    0xe79f,
+    0xefb7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `worried-face`
   static const IconifyIconData worriedFace = IconifyIconData(IconData(
-    0xe7a0,
+    0xefb8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `wrapped-gift`
   static const IconifyIconData wrappedGift = IconifyIconData(IconData(
-    0xe7a1,
+    0xefb9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `wrench`
   static const IconifyIconData wrench = IconifyIconData(IconData(
-    0xe7a2,
+    0xefba,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `writing-hand`
   static const IconifyIconData writingHand = IconifyIconData(IconData(
-    0xe7a3,
+    0xefbb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `writing-hand-dark-skin-tone`
   static const IconifyIconData writingHandDarkSkinTone = IconifyIconData(IconData(
-    0xefcb,
+    0xefbc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `writing-hand-light-skin-tone`
   static const IconifyIconData writingHandLightSkinTone = IconifyIconData(IconData(
-    0xe7a4,
+    0xefbd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `writing-hand-medium-dark-skin-tone`
   static const IconifyIconData writingHandMediumDarkSkinTone = IconifyIconData(IconData(
-    0xefcc,
+    0xefbe,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `writing-hand-medium-light-skin-tone`
   static const IconifyIconData writingHandMediumLightSkinTone = IconifyIconData(IconData(
-    0xe7a5,
+    0xefbf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `writing-hand-medium-skin-tone`
   static const IconifyIconData writingHandMediumSkinTone = IconifyIconData(IconData(
-    0xe7a6,
+    0xefc0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `x-ray`
   static const IconifyIconData xRay = IconifyIconData(IconData(
-    0xefcd,
+    0xefc1,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `yawning-face`
   static const IconifyIconData yawningFace = IconifyIconData(IconData(
-    0xefce,
+    0xefc2,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `yellow-circle`
   static const IconifyIconData yellowCircle = IconifyIconData(IconData(
-    0xe7a7,
+    0xefc3,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `yellow-flag`
   static const IconifyIconData yellowFlag = IconifyIconData(IconData(
-    0xe7a8,
+    0xefc4,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `yellow-heart`
   static const IconifyIconData yellowHeart = IconifyIconData(IconData(
-    0xe7a9,
+    0xefc5,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `yellow-hexagon`
   static const IconifyIconData yellowHexagon = IconifyIconData(IconData(
-    0xe7aa,
+    0xefc6,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `yellow-square`
   static const IconifyIconData yellowSquare = IconifyIconData(IconData(
-    0xe7ab,
+    0xefc7,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `yen-banknote`
   static const IconifyIconData yenBanknote = IconifyIconData(IconData(
-    0xe7ac,
+    0xefc8,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `yin-yang`
   static const IconifyIconData yinYang = IconifyIconData(IconData(
-    0xe7ad,
+    0xefc9,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `youtube`
   static const IconifyIconData youtube = IconifyIconData(IconData(
-    0xe7ae,
+    0xefca,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `yucatan-flag`
   static const IconifyIconData yucatanFlag = IconifyIconData(IconData(
-    0xefcf,
+    0xefcb,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `zany-face`
   static const IconifyIconData zanyFace = IconifyIconData(IconData(
-    0xe7af,
+    0xefcc,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `zebra`
   static const IconifyIconData zebra = IconifyIconData(IconData(
-    0xe7b0,
+    0xefcd,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `zipper-mouth-face`
   static const IconifyIconData zipperMouthFace = IconifyIconData(IconData(
-    0xe7b1,
+    0xefce,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `zombie`
   static const IconifyIconData zombie = IconifyIconData(IconData(
-    0xefd0,
+    0xefcf,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));
 
   /// `zzz`
   static const IconifyIconData zzz = IconifyIconData(IconData(
-    0xe7b2,
+    0xefd0,
     fontFamily: 'Openmoji',
     fontPackage: 'iconifyx_openmoji',
   ));

@@ -72,1027 +72,1027 @@
       "identifier": "areaChart"
     },
     "arrow-down": {
-      "codepoint": 57554,
+      "codepoint": 57353,
       "fontFamily": "Uiw",
       "identifier": "arrowDown"
     },
     "arrow-left": {
-      "codepoint": 57353,
+      "codepoint": 57354,
       "fontFamily": "Uiw",
       "identifier": "arrowLeft"
     },
     "arrow-right": {
-      "codepoint": 57555,
+      "codepoint": 57355,
       "fontFamily": "Uiw",
       "identifier": "arrowRight"
     },
     "arrow-up": {
-      "codepoint": 57354,
+      "codepoint": 57356,
       "fontFamily": "Uiw",
       "identifier": "arrowUp"
     },
     "arrows-alt": {
-      "codepoint": 57355,
+      "codepoint": 57357,
       "fontFamily": "Uiw",
       "identifier": "arrowsAlt"
     },
     "asterisk": {
-      "codepoint": 57356,
+      "codepoint": 57358,
       "fontFamily": "Uiw",
       "identifier": "asterisk"
     },
     "backward": {
-      "codepoint": 57357,
+      "codepoint": 57359,
       "fontFamily": "Uiw",
       "identifier": "backward"
     },
     "baidu": {
-      "codepoint": 57358,
+      "codepoint": 57360,
       "fontFamily": "Uiw",
       "identifier": "baidu"
     },
     "bar-chart": {
-      "codepoint": 57359,
+      "codepoint": 57361,
       "fontFamily": "Uiw",
       "identifier": "barChart"
     },
     "barcode": {
-      "codepoint": 57360,
+      "codepoint": 57362,
       "fontFamily": "Uiw",
       "identifier": "barcode"
     },
     "bell": {
-      "codepoint": 57361,
+      "codepoint": 57363,
       "fontFamily": "Uiw",
       "identifier": "bell"
     },
     "camera-o": {
-      "codepoint": 57362,
+      "codepoint": 57364,
       "fontFamily": "Uiw",
       "identifier": "cameraO"
     },
     "caret-down": {
-      "codepoint": 57363,
+      "codepoint": 57365,
       "fontFamily": "Uiw",
       "identifier": "caretDown"
     },
     "caret-left": {
-      "codepoint": 57364,
+      "codepoint": 57366,
       "fontFamily": "Uiw",
       "identifier": "caretLeft"
     },
     "caret-right": {
-      "codepoint": 57365,
+      "codepoint": 57367,
       "fontFamily": "Uiw",
       "identifier": "caretRight"
     },
     "caret-up": {
-      "codepoint": 57366,
+      "codepoint": 57368,
       "fontFamily": "Uiw",
       "identifier": "caretUp"
     },
     "check": {
-      "codepoint": 57367,
+      "codepoint": 57369,
       "fontFamily": "Uiw",
       "identifier": "check"
     },
     "check-square": {
-      "codepoint": 57368,
+      "codepoint": 57370,
       "fontFamily": "Uiw",
       "identifier": "checkSquare"
     },
     "check-square-o": {
-      "codepoint": 57369,
+      "codepoint": 57371,
       "fontFamily": "Uiw",
       "identifier": "checkSquareO"
     },
     "chrome": {
-      "codepoint": 57370,
+      "codepoint": 57372,
       "fontFamily": "Uiw",
       "identifier": "chrome"
     },
     "circle-check": {
-      "codepoint": 57371,
+      "codepoint": 57373,
       "fontFamily": "Uiw",
       "identifier": "circleCheck"
     },
     "circle-check-o": {
-      "codepoint": 57372,
+      "codepoint": 57374,
       "fontFamily": "Uiw",
       "identifier": "circleCheckO"
     },
     "circle-close": {
-      "codepoint": 57373,
+      "codepoint": 57375,
       "fontFamily": "Uiw",
       "identifier": "circleClose"
     },
     "circle-close-o": {
-      "codepoint": 57374,
+      "codepoint": 57376,
       "fontFamily": "Uiw",
       "identifier": "circleCloseO"
     },
     "circle-o": {
-      "codepoint": 57375,
+      "codepoint": 57377,
       "fontFamily": "Uiw",
       "identifier": "circleO"
     },
     "close": {
-      "codepoint": 57376,
+      "codepoint": 57378,
       "fontFamily": "Uiw",
       "identifier": "close"
     },
     "close-square": {
-      "codepoint": 57377,
+      "codepoint": 57379,
       "fontFamily": "Uiw",
       "identifier": "closeSquare"
     },
     "close-square-o": {
-      "codepoint": 57378,
+      "codepoint": 57380,
       "fontFamily": "Uiw",
       "identifier": "closeSquareO"
     },
     "cloud-download": {
-      "codepoint": 57379,
+      "codepoint": 57381,
       "fontFamily": "Uiw",
       "identifier": "cloudDownload"
     },
     "cloud-download-o": {
-      "codepoint": 57380,
+      "codepoint": 57382,
       "fontFamily": "Uiw",
       "identifier": "cloudDownloadO"
     },
     "cloud-upload": {
-      "codepoint": 57381,
+      "codepoint": 57383,
       "fontFamily": "Uiw",
       "identifier": "cloudUpload"
     },
     "cloud-upload-o": {
-      "codepoint": 57382,
+      "codepoint": 57384,
       "fontFamily": "Uiw",
       "identifier": "cloudUploadO"
     },
     "coffee": {
-      "codepoint": 57383,
+      "codepoint": 57385,
       "fontFamily": "Uiw",
       "identifier": "coffee"
     },
     "component": {
-      "codepoint": 57384,
+      "codepoint": 57386,
       "fontFamily": "Uiw",
       "identifier": "component"
     },
     "copy": {
-      "codepoint": 57385,
+      "codepoint": 57387,
       "fontFamily": "Uiw",
       "identifier": "copy"
     },
     "copyright": {
-      "codepoint": 57386,
+      "codepoint": 57388,
       "fontFamily": "Uiw",
       "identifier": "copyright"
     },
     "css3": {
-      "codepoint": 57387,
+      "codepoint": 57389,
       "fontFamily": "Uiw",
       "identifier": "css3"
     },
     "cut": {
-      "codepoint": 57388,
+      "codepoint": 57390,
       "fontFamily": "Uiw",
       "identifier": "cut"
     },
     "d-arrow-left": {
-      "codepoint": 57389,
+      "codepoint": 57391,
       "fontFamily": "Uiw",
       "identifier": "dArrowLeft"
     },
     "d-arrow-right": {
-      "codepoint": 57390,
+      "codepoint": 57392,
       "fontFamily": "Uiw",
       "identifier": "dArrowRight"
     },
     "d-caret": {
-      "codepoint": 57391,
+      "codepoint": 57393,
       "fontFamily": "Uiw",
       "identifier": "dCaret"
     },
     "dashboard": {
-      "codepoint": 57392,
+      "codepoint": 57394,
       "fontFamily": "Uiw",
       "identifier": "dashboard"
     },
     "date": {
-      "codepoint": 57393,
+      "codepoint": 57395,
       "fontFamily": "Uiw",
       "identifier": "date"
     },
     "delete": {
-      "codepoint": 57394,
+      "codepoint": 57396,
       "fontFamily": "Uiw",
       "identifier": "delete"
     },
     "dingding": {
-      "codepoint": 57395,
+      "codepoint": 57397,
       "fontFamily": "Uiw",
       "identifier": "dingding"
     },
     "dislike-o": {
-      "codepoint": 57396,
+      "codepoint": 57398,
       "fontFamily": "Uiw",
       "identifier": "dislikeO"
     },
     "document": {
-      "codepoint": 57397,
+      "codepoint": 57399,
       "fontFamily": "Uiw",
       "identifier": "document"
     },
     "dot-chart": {
-      "codepoint": 57398,
+      "codepoint": 57400,
       "fontFamily": "Uiw",
       "identifier": "dotChart"
     },
     "down": {
-      "codepoint": 57399,
+      "codepoint": 57401,
       "fontFamily": "Uiw",
       "identifier": "down"
     },
     "down-circle": {
-      "codepoint": 57400,
+      "codepoint": 57402,
       "fontFamily": "Uiw",
       "identifier": "downCircle"
     },
     "down-circle-o": {
-      "codepoint": 57401,
+      "codepoint": 57403,
       "fontFamily": "Uiw",
       "identifier": "downCircleO"
     },
     "down-square": {
-      "codepoint": 57402,
+      "codepoint": 57404,
       "fontFamily": "Uiw",
       "identifier": "downSquare"
     },
     "down-square-o": {
-      "codepoint": 57403,
+      "codepoint": 57405,
       "fontFamily": "Uiw",
       "identifier": "downSquareO"
     },
     "download": {
-      "codepoint": 57404,
+      "codepoint": 57406,
       "fontFamily": "Uiw",
       "identifier": "download"
     },
     "edit": {
-      "codepoint": 57405,
+      "codepoint": 57407,
       "fontFamily": "Uiw",
       "identifier": "edit"
     },
     "enter": {
-      "codepoint": 57406,
+      "codepoint": 57408,
       "fontFamily": "Uiw",
       "identifier": "enter"
     },
     "environment": {
-      "codepoint": 57407,
+      "codepoint": 57409,
       "fontFamily": "Uiw",
       "identifier": "environment"
     },
     "environment-o": {
-      "codepoint": 57408,
+      "codepoint": 57410,
       "fontFamily": "Uiw",
       "identifier": "environmentO"
     },
     "eye": {
-      "codepoint": 57409,
+      "codepoint": 57411,
       "fontFamily": "Uiw",
       "identifier": "eye"
     },
     "eye-o": {
-      "codepoint": 57410,
+      "codepoint": 57412,
       "fontFamily": "Uiw",
       "identifier": "eyeO"
     },
     "facebook": {
-      "codepoint": 57411,
+      "codepoint": 57413,
       "fontFamily": "Uiw",
       "identifier": "facebook"
     },
     "file-add": {
-      "codepoint": 57412,
+      "codepoint": 57414,
       "fontFamily": "Uiw",
       "identifier": "fileAdd"
     },
     "file-excel": {
-      "codepoint": 57413,
+      "codepoint": 57415,
       "fontFamily": "Uiw",
       "identifier": "fileExcel"
     },
     "file-jpg": {
-      "codepoint": 57414,
+      "codepoint": 57416,
       "fontFamily": "Uiw",
       "identifier": "fileJpg"
     },
     "file-pdf": {
-      "codepoint": 57415,
+      "codepoint": 57417,
       "fontFamily": "Uiw",
       "identifier": "filePdf"
     },
     "file-text": {
-      "codepoint": 57416,
+      "codepoint": 57418,
       "fontFamily": "Uiw",
       "identifier": "fileText"
     },
     "file-unknown": {
-      "codepoint": 57417,
+      "codepoint": 57419,
       "fontFamily": "Uiw",
       "identifier": "fileUnknown"
     },
     "filter": {
-      "codepoint": 57418,
+      "codepoint": 57420,
       "fontFamily": "Uiw",
       "identifier": "filter"
     },
     "firefox": {
-      "codepoint": 57419,
+      "codepoint": 57421,
       "fontFamily": "Uiw",
       "identifier": "firefox"
     },
     "folder": {
-      "codepoint": 57420,
+      "codepoint": 57422,
       "fontFamily": "Uiw",
       "identifier": "folder"
     },
     "folder-add": {
-      "codepoint": 57421,
+      "codepoint": 57423,
       "fontFamily": "Uiw",
       "identifier": "folderAdd"
     },
     "folder-open": {
-      "codepoint": 57422,
+      "codepoint": 57424,
       "fontFamily": "Uiw",
       "identifier": "folderOpen"
     },
     "forward": {
-      "codepoint": 57423,
+      "codepoint": 57425,
       "fontFamily": "Uiw",
       "identifier": "forward"
     },
     "foursquare": {
-      "codepoint": 57424,
+      "codepoint": 57426,
       "fontFamily": "Uiw",
       "identifier": "foursquare"
     },
     "frown": {
-      "codepoint": 57425,
+      "codepoint": 57427,
       "fontFamily": "Uiw",
       "identifier": "frown"
     },
     "frown-o": {
-      "codepoint": 57426,
+      "codepoint": 57428,
       "fontFamily": "Uiw",
       "identifier": "frownO"
     },
     "github": {
-      "codepoint": 57427,
+      "codepoint": 57429,
       "fontFamily": "Uiw",
       "identifier": "github"
     },
     "github-o": {
-      "codepoint": 57428,
+      "codepoint": 57430,
       "fontFamily": "Uiw",
       "identifier": "githubO"
     },
     "global": {
-      "codepoint": 57429,
+      "codepoint": 57431,
       "fontFamily": "Uiw",
       "identifier": "global"
     },
     "heart-off": {
-      "codepoint": 57430,
+      "codepoint": 57432,
       "fontFamily": "Uiw",
       "identifier": "heartOff"
     },
     "heart-on": {
-      "codepoint": 57431,
+      "codepoint": 57433,
       "fontFamily": "Uiw",
       "identifier": "heartOn"
     },
     "home": {
-      "codepoint": 57432,
+      "codepoint": 57434,
       "fontFamily": "Uiw",
       "identifier": "home"
     },
     "html5": {
-      "codepoint": 57433,
+      "codepoint": 57435,
       "fontFamily": "Uiw",
       "identifier": "html5"
     },
     "ie": {
-      "codepoint": 57434,
+      "codepoint": 57436,
       "fontFamily": "Uiw",
       "identifier": "ie"
     },
     "inbox": {
-      "codepoint": 57435,
+      "codepoint": 57437,
       "fontFamily": "Uiw",
       "identifier": "inbox"
     },
     "information": {
-      "codepoint": 57436,
+      "codepoint": 57438,
       "fontFamily": "Uiw",
       "identifier": "information"
     },
     "information-o": {
-      "codepoint": 57437,
+      "codepoint": 57439,
       "fontFamily": "Uiw",
       "identifier": "informationO"
     },
     "laptop": {
-      "codepoint": 57438,
+      "codepoint": 57440,
       "fontFamily": "Uiw",
       "identifier": "laptop"
     },
     "left": {
-      "codepoint": 57556,
+      "codepoint": 57441,
       "fontFamily": "Uiw",
       "identifier": "left"
     },
     "left-circle": {
-      "codepoint": 57439,
+      "codepoint": 57442,
       "fontFamily": "Uiw",
       "identifier": "leftCircle"
     },
     "left-circle-o": {
-      "codepoint": 57440,
+      "codepoint": 57443,
       "fontFamily": "Uiw",
       "identifier": "leftCircleO"
     },
     "left-square": {
-      "codepoint": 57441,
+      "codepoint": 57444,
       "fontFamily": "Uiw",
       "identifier": "leftSquare"
     },
     "left-square-o": {
-      "codepoint": 57442,
+      "codepoint": 57445,
       "fontFamily": "Uiw",
       "identifier": "leftSquareO"
     },
     "like-o": {
-      "codepoint": 57443,
+      "codepoint": 57446,
       "fontFamily": "Uiw",
       "identifier": "likeO"
     },
     "link": {
-      "codepoint": 57444,
+      "codepoint": 57447,
       "fontFamily": "Uiw",
       "identifier": "link"
     },
     "linkedin": {
-      "codepoint": 57445,
+      "codepoint": 57448,
       "fontFamily": "Uiw",
       "identifier": "linkedin"
     },
     "linux": {
-      "codepoint": 57446,
+      "codepoint": 57449,
       "fontFamily": "Uiw",
       "identifier": "linux"
     },
     "loading": {
-      "codepoint": 57447,
+      "codepoint": 57450,
       "fontFamily": "Uiw",
       "identifier": "loading"
     },
     "lock": {
-      "codepoint": 57448,
+      "codepoint": 57451,
       "fontFamily": "Uiw",
       "identifier": "lock"
     },
     "login": {
-      "codepoint": 57449,
+      "codepoint": 57452,
       "fontFamily": "Uiw",
       "identifier": "login"
     },
     "logout": {
-      "codepoint": 57450,
+      "codepoint": 57453,
       "fontFamily": "Uiw",
       "identifier": "logout"
     },
     "mail": {
-      "codepoint": 57451,
+      "codepoint": 57454,
       "fontFamily": "Uiw",
       "identifier": "mail"
     },
     "mail-o": {
-      "codepoint": 57452,
+      "codepoint": 57455,
       "fontFamily": "Uiw",
       "identifier": "mailO"
     },
     "man": {
-      "codepoint": 57453,
+      "codepoint": 57456,
       "fontFamily": "Uiw",
       "identifier": "man"
     },
     "map": {
-      "codepoint": 57454,
+      "codepoint": 57457,
       "fontFamily": "Uiw",
       "identifier": "map"
     },
     "meh": {
-      "codepoint": 57455,
+      "codepoint": 57458,
       "fontFamily": "Uiw",
       "identifier": "meh"
     },
     "meh-o": {
-      "codepoint": 57456,
+      "codepoint": 57459,
       "fontFamily": "Uiw",
       "identifier": "mehO"
     },
     "menu": {
-      "codepoint": 57457,
+      "codepoint": 57460,
       "fontFamily": "Uiw",
       "identifier": "menu"
     },
     "menu-fold": {
-      "codepoint": 57458,
+      "codepoint": 57461,
       "fontFamily": "Uiw",
       "identifier": "menuFold"
     },
     "menu-unfold": {
-      "codepoint": 57459,
+      "codepoint": 57462,
       "fontFamily": "Uiw",
       "identifier": "menuUnfold"
     },
     "message": {
-      "codepoint": 57460,
+      "codepoint": 57463,
       "fontFamily": "Uiw",
       "identifier": "message"
     },
     "minus": {
-      "codepoint": 57461,
+      "codepoint": 57464,
       "fontFamily": "Uiw",
       "identifier": "minus"
     },
     "minus-circle": {
-      "codepoint": 57462,
+      "codepoint": 57465,
       "fontFamily": "Uiw",
       "identifier": "minusCircle"
     },
     "minus-circle-o": {
-      "codepoint": 57463,
+      "codepoint": 57466,
       "fontFamily": "Uiw",
       "identifier": "minusCircleO"
     },
     "minus-square": {
-      "codepoint": 57464,
+      "codepoint": 57467,
       "fontFamily": "Uiw",
       "identifier": "minusSquare"
     },
     "minus-square-o": {
-      "codepoint": 57465,
+      "codepoint": 57468,
       "fontFamily": "Uiw",
       "identifier": "minusSquareO"
     },
     "mobile": {
-      "codepoint": 57466,
+      "codepoint": 57469,
       "fontFamily": "Uiw",
       "identifier": "mobile"
     },
     "more": {
-      "codepoint": 57467,
+      "codepoint": 57470,
       "fontFamily": "Uiw",
       "identifier": "more"
     },
     "notification": {
-      "codepoint": 57468,
+      "codepoint": 57471,
       "fontFamily": "Uiw",
       "identifier": "notification"
     },
     "opera": {
-      "codepoint": 57469,
+      "codepoint": 57472,
       "fontFamily": "Uiw",
       "identifier": "opera"
     },
     "paper-clip": {
-      "codepoint": 57470,
+      "codepoint": 57473,
       "fontFamily": "Uiw",
       "identifier": "paperClip"
     },
     "pause": {
-      "codepoint": 57471,
+      "codepoint": 57474,
       "fontFamily": "Uiw",
       "identifier": "pause"
     },
     "pause-circle": {
-      "codepoint": 57472,
+      "codepoint": 57475,
       "fontFamily": "Uiw",
       "identifier": "pauseCircle"
     },
     "pause-circle-o": {
-      "codepoint": 57473,
+      "codepoint": 57476,
       "fontFamily": "Uiw",
       "identifier": "pauseCircleO"
     },
     "pay": {
-      "codepoint": 57474,
+      "codepoint": 57477,
       "fontFamily": "Uiw",
       "identifier": "pay"
     },
     "pay-circle-o": {
-      "codepoint": 57475,
+      "codepoint": 57478,
       "fontFamily": "Uiw",
       "identifier": "payCircleO"
     },
     "picasa": {
-      "codepoint": 57476,
+      "codepoint": 57479,
       "fontFamily": "Uiw",
       "identifier": "picasa"
     },
     "picture": {
-      "codepoint": 57477,
+      "codepoint": 57480,
       "fontFamily": "Uiw",
       "identifier": "picture"
     },
     "pie-chart": {
-      "codepoint": 57557,
+      "codepoint": 57481,
       "fontFamily": "Uiw",
       "identifier": "pieChart"
     },
     "pinterest": {
-      "codepoint": 57478,
+      "codepoint": 57482,
       "fontFamily": "Uiw",
       "identifier": "pinterest"
     },
     "play-circle": {
-      "codepoint": 57479,
+      "codepoint": 57483,
       "fontFamily": "Uiw",
       "identifier": "playCircle"
     },
     "play-circle-o": {
-      "codepoint": 57480,
+      "codepoint": 57484,
       "fontFamily": "Uiw",
       "identifier": "playCircleO"
     },
     "plus": {
-      "codepoint": 57481,
+      "codepoint": 57485,
       "fontFamily": "Uiw",
       "identifier": "plus"
     },
     "plus-circle": {
-      "codepoint": 57482,
+      "codepoint": 57486,
       "fontFamily": "Uiw",
       "identifier": "plusCircle"
     },
     "plus-circle-o": {
-      "codepoint": 57483,
+      "codepoint": 57487,
       "fontFamily": "Uiw",
       "identifier": "plusCircleO"
     },
     "plus-square": {
-      "codepoint": 57484,
+      "codepoint": 57488,
       "fontFamily": "Uiw",
       "identifier": "plusSquare"
     },
     "plus-square-o": {
-      "codepoint": 57485,
+      "codepoint": 57489,
       "fontFamily": "Uiw",
       "identifier": "plusSquareO"
     },
     "poweroff": {
-      "codepoint": 57486,
+      "codepoint": 57490,
       "fontFamily": "Uiw",
       "identifier": "poweroff"
     },
     "printer": {
-      "codepoint": 57487,
+      "codepoint": 57491,
       "fontFamily": "Uiw",
       "identifier": "printer"
     },
     "qq": {
-      "codepoint": 57488,
+      "codepoint": 57492,
       "fontFamily": "Uiw",
       "identifier": "qq"
     },
     "qrcode": {
-      "codepoint": 57489,
+      "codepoint": 57493,
       "fontFamily": "Uiw",
       "identifier": "qrcode"
     },
     "question-circle": {
-      "codepoint": 57490,
+      "codepoint": 57494,
       "fontFamily": "Uiw",
       "identifier": "questionCircle"
     },
     "question-circle-o": {
-      "codepoint": 57491,
+      "codepoint": 57495,
       "fontFamily": "Uiw",
       "identifier": "questionCircleO"
     },
     "reddit": {
-      "codepoint": 57492,
+      "codepoint": 57496,
       "fontFamily": "Uiw",
       "identifier": "reddit"
     },
     "reload": {
-      "codepoint": 57493,
+      "codepoint": 57497,
       "fontFamily": "Uiw",
       "identifier": "reload"
     },
     "right": {
-      "codepoint": 57494,
+      "codepoint": 57498,
       "fontFamily": "Uiw",
       "identifier": "right"
     },
     "right-circle": {
-      "codepoint": 57495,
+      "codepoint": 57499,
       "fontFamily": "Uiw",
       "identifier": "rightCircle"
     },
     "right-circle-o": {
-      "codepoint": 57496,
+      "codepoint": 57500,
       "fontFamily": "Uiw",
       "identifier": "rightCircleO"
     },
     "right-square": {
-      "codepoint": 57497,
+      "codepoint": 57501,
       "fontFamily": "Uiw",
       "identifier": "rightSquare"
     },
     "right-square-o": {
-      "codepoint": 57498,
+      "codepoint": 57502,
       "fontFamily": "Uiw",
       "identifier": "rightSquareO"
     },
     "rollback": {
-      "codepoint": 57499,
+      "codepoint": 57503,
       "fontFamily": "Uiw",
       "identifier": "rollback"
     },
     "safari": {
-      "codepoint": 57500,
+      "codepoint": 57504,
       "fontFamily": "Uiw",
       "identifier": "safari"
     },
     "safety": {
-      "codepoint": 57501,
+      "codepoint": 57505,
       "fontFamily": "Uiw",
       "identifier": "safety"
     },
     "save": {
-      "codepoint": 57502,
+      "codepoint": 57506,
       "fontFamily": "Uiw",
       "identifier": "save"
     },
     "search": {
-      "codepoint": 57503,
+      "codepoint": 57507,
       "fontFamily": "Uiw",
       "identifier": "search"
     },
     "setting": {
-      "codepoint": 57504,
+      "codepoint": 57508,
       "fontFamily": "Uiw",
       "identifier": "setting"
     },
     "setting-o": {
-      "codepoint": 57505,
+      "codepoint": 57509,
       "fontFamily": "Uiw",
       "identifier": "settingO"
     },
     "share": {
-      "codepoint": 57506,
+      "codepoint": 57510,
       "fontFamily": "Uiw",
       "identifier": "share"
     },
     "shopping-cart": {
-      "codepoint": 57507,
+      "codepoint": 57511,
       "fontFamily": "Uiw",
       "identifier": "shoppingCart"
     },
     "shrink": {
-      "codepoint": 57508,
+      "codepoint": 57512,
       "fontFamily": "Uiw",
       "identifier": "shrink"
     },
     "smile": {
-      "codepoint": 57509,
+      "codepoint": 57513,
       "fontFamily": "Uiw",
       "identifier": "smile"
     },
     "smile-o": {
-      "codepoint": 57510,
+      "codepoint": 57514,
       "fontFamily": "Uiw",
       "identifier": "smileO"
     },
     "square-o": {
-      "codepoint": 57511,
+      "codepoint": 57515,
       "fontFamily": "Uiw",
       "identifier": "squareO"
     },
     "star-off": {
-      "codepoint": 57512,
+      "codepoint": 57516,
       "fontFamily": "Uiw",
       "identifier": "starOff"
     },
     "star-on": {
-      "codepoint": 57513,
+      "codepoint": 57517,
       "fontFamily": "Uiw",
       "identifier": "starOn"
     },
     "stop": {
-      "codepoint": 57514,
+      "codepoint": 57518,
       "fontFamily": "Uiw",
       "identifier": "stop"
     },
     "stop-o": {
-      "codepoint": 57515,
+      "codepoint": 57519,
       "fontFamily": "Uiw",
       "identifier": "stopO"
     },
     "swap": {
-      "codepoint": 57516,
+      "codepoint": 57520,
       "fontFamily": "Uiw",
       "identifier": "swap"
     },
     "swap-left": {
-      "codepoint": 57517,
+      "codepoint": 57521,
       "fontFamily": "Uiw",
       "identifier": "swapLeft"
     },
     "swap-right": {
-      "codepoint": 57518,
+      "codepoint": 57522,
       "fontFamily": "Uiw",
       "identifier": "swapRight"
     },
     "table": {
-      "codepoint": 57519,
+      "codepoint": 57523,
       "fontFamily": "Uiw",
       "identifier": "table"
     },
     "tag": {
-      "codepoint": 57520,
+      "codepoint": 57524,
       "fontFamily": "Uiw",
       "identifier": "tag"
     },
     "tag-o": {
-      "codepoint": 57521,
+      "codepoint": 57525,
       "fontFamily": "Uiw",
       "identifier": "tagO"
     },
     "tags": {
-      "codepoint": 57522,
+      "codepoint": 57526,
       "fontFamily": "Uiw",
       "identifier": "tags"
     },
     "tags-o": {
-      "codepoint": 57523,
+      "codepoint": 57527,
       "fontFamily": "Uiw",
       "identifier": "tagsO"
     },
     "taobao": {
-      "codepoint": 57524,
+      "codepoint": 57528,
       "fontFamily": "Uiw",
       "identifier": "taobao"
     },
     "time": {
-      "codepoint": 57525,
+      "codepoint": 57529,
       "fontFamily": "Uiw",
       "identifier": "time"
     },
     "time-o": {
-      "codepoint": 57526,
+      "codepoint": 57530,
       "fontFamily": "Uiw",
       "identifier": "timeO"
     },
     "twitter": {
-      "codepoint": 57527,
+      "codepoint": 57531,
       "fontFamily": "Uiw",
       "identifier": "twitter"
     },
     "uiw": {
-      "codepoint": 57528,
+      "codepoint": 57532,
       "fontFamily": "Uiw",
       "identifier": "uiw"
     },
     "unlock": {
-      "codepoint": 57529,
+      "codepoint": 57533,
       "fontFamily": "Uiw",
       "identifier": "unlock"
     },
     "up": {
-      "codepoint": 57530,
+      "codepoint": 57534,
       "fontFamily": "Uiw",
       "identifier": "up"
     },
     "up-circle": {
-      "codepoint": 57531,
+      "codepoint": 57535,
       "fontFamily": "Uiw",
       "identifier": "upCircle"
     },
     "up-circle-o": {
-      "codepoint": 57532,
+      "codepoint": 57536,
       "fontFamily": "Uiw",
       "identifier": "upCircleO"
     },
     "up-square": {
-      "codepoint": 57533,
+      "codepoint": 57537,
       "fontFamily": "Uiw",
       "identifier": "upSquare"
     },
     "up-square-o": {
-      "codepoint": 57534,
+      "codepoint": 57538,
       "fontFamily": "Uiw",
       "identifier": "upSquareO"
     },
     "upload": {
-      "codepoint": 57535,
+      "codepoint": 57539,
       "fontFamily": "Uiw",
       "identifier": "upload"
     },
     "user": {
-      "codepoint": 57536,
+      "codepoint": 57540,
       "fontFamily": "Uiw",
       "identifier": "user"
     },
     "user-add": {
-      "codepoint": 57537,
+      "codepoint": 57541,
       "fontFamily": "Uiw",
       "identifier": "userAdd"
     },
     "user-delete": {
-      "codepoint": 57538,
+      "codepoint": 57542,
       "fontFamily": "Uiw",
       "identifier": "userDelete"
     },
     "usergroup-add": {
-      "codepoint": 57539,
+      "codepoint": 57543,
       "fontFamily": "Uiw",
       "identifier": "usergroupAdd"
     },
     "usergroup-delete": {
-      "codepoint": 57540,
+      "codepoint": 57544,
       "fontFamily": "Uiw",
       "identifier": "usergroupDelete"
     },
     "verification": {
-      "codepoint": 57541,
+      "codepoint": 57545,
       "fontFamily": "Uiw",
       "identifier": "verification"
     },
     "verticle-left": {
-      "codepoint": 57542,
+      "codepoint": 57546,
       "fontFamily": "Uiw",
       "identifier": "verticleLeft"
     },
     "verticle-right": {
-      "codepoint": 57543,
+      "codepoint": 57547,
       "fontFamily": "Uiw",
       "identifier": "verticleRight"
     },
     "video-camera": {
-      "codepoint": 57544,
+      "codepoint": 57548,
       "fontFamily": "Uiw",
       "identifier": "videoCamera"
     },
     "warning": {
-      "codepoint": 57545,
+      "codepoint": 57549,
       "fontFamily": "Uiw",
       "identifier": "warning"
     },
     "warning-o": {
-      "codepoint": 57546,
+      "codepoint": 57550,
       "fontFamily": "Uiw",
       "identifier": "warningO"
     },
     "weibo": {
-      "codepoint": 57547,
+      "codepoint": 57551,
       "fontFamily": "Uiw",
       "identifier": "weibo"
     },
     "weixin": {
-      "codepoint": 57548,
+      "codepoint": 57552,
       "fontFamily": "Uiw",
       "identifier": "weixin"
     },
     "wifi": {
-      "codepoint": 57549,
+      "codepoint": 57553,
       "fontFamily": "Uiw",
       "identifier": "wifi"
     },
     "windows": {
-      "codepoint": 57550,
+      "codepoint": 57554,
       "fontFamily": "Uiw",
       "identifier": "windows"
     },
     "woman": {
-      "codepoint": 57551,
+      "codepoint": 57555,
       "fontFamily": "Uiw",
       "identifier": "woman"
     },
     "zoom-in": {
-      "codepoint": 57552,
+      "codepoint": 57556,
       "fontFamily": "Uiw",
       "identifier": "zoomIn"
     },
     "zoom-out": {
-      "codepoint": 57553,
+      "codepoint": 57557,
       "fontFamily": "Uiw",
       "identifier": "zoomOut"
     }

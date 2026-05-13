@@ -1,13 +1,6 @@
-// Tree-shake verification harness.
-//
-// Uses 3 Lucide icons + 5 Phosphor icons and nothing else. Build with
-// `--tree-shake-icons` (default in release mode); after build, list the
-// bundled TTF files under `build/macos/.../flutter_assets/packages/iconifyx_*/`
-// and confirm each TTF is either:
-//   - subset to ~hundreds of bytes (only the referenced glyphs), or
-//   - missing entirely (no icon in that font's range is referenced).
-
 import 'package:flutter/material.dart';
+import 'package:iconifyx_core/iconifyx_core.dart';
+import 'package:iconifyx_ic/iconifyx_ic.dart';
 import 'package:iconifyx_lucide/iconifyx_lucide.dart';
 import 'package:iconifyx_ph/iconifyx_ph.dart';
 
@@ -47,6 +40,14 @@ class TwoIconApp extends StatelessWidget {
                   Icon(PhIcons.gear.data, size: 48),
                   Icon(PhIcons.shoppingCart.data, size: 48),
                 ],
+              ),
+              const SizedBox(height: 32),
+              const Text('Duotone position test (ic baseline-signal-wifi-1-bar-lock)'),
+              const SizedBox(height: 12),
+              IconifyDuotoneIcon(
+                IcIcons.baselineSignalWifi1BarLockPrimary,
+                IcIcons.baselineSignalWifi1BarLockSecondary,
+                size: 96,
               ),
             ],
           ),

@@ -442,362 +442,362 @@
       "identifier": "logoVst"
     },
     "logo-waveform": {
-      "codepoint": 57498,
+      "codepoint": 57427,
       "fontFamily": "Fad",
       "identifier": "logoWaveform"
     },
     "loop": {
-      "codepoint": 57427,
+      "codepoint": 57428,
       "fontFamily": "Fad",
       "identifier": "loop"
     },
     "metronome": {
-      "codepoint": 57428,
+      "codepoint": 57429,
       "fontFamily": "Fad",
       "identifier": "metronome"
     },
     "microphone": {
-      "codepoint": 57429,
+      "codepoint": 57430,
       "fontFamily": "Fad",
       "identifier": "microphone"
     },
     "midiplug": {
-      "codepoint": 57430,
+      "codepoint": 57431,
       "fontFamily": "Fad",
       "identifier": "midiplug"
     },
     "modrandom": {
-      "codepoint": 57431,
+      "codepoint": 57432,
       "fontFamily": "Fad",
       "identifier": "modrandom"
     },
     "modsawdown": {
-      "codepoint": 57432,
+      "codepoint": 57433,
       "fontFamily": "Fad",
       "identifier": "modsawdown"
     },
     "modsawup": {
-      "codepoint": 57433,
+      "codepoint": 57434,
       "fontFamily": "Fad",
       "identifier": "modsawup"
     },
     "modsh": {
-      "codepoint": 57434,
+      "codepoint": 57435,
       "fontFamily": "Fad",
       "identifier": "modsh"
     },
     "modsine": {
-      "codepoint": 57435,
+      "codepoint": 57436,
       "fontFamily": "Fad",
       "identifier": "modsine"
     },
     "modsquare": {
-      "codepoint": 57436,
+      "codepoint": 57437,
       "fontFamily": "Fad",
       "identifier": "modsquare"
     },
     "modtri": {
-      "codepoint": 57437,
+      "codepoint": 57438,
       "fontFamily": "Fad",
       "identifier": "modtri"
     },
     "modularplug": {
-      "codepoint": 57438,
+      "codepoint": 57439,
       "fontFamily": "Fad",
       "identifier": "modularplug"
     },
     "mono": {
-      "codepoint": 57439,
+      "codepoint": 57440,
       "fontFamily": "Fad",
       "identifier": "mono"
     },
     "mute": {
-      "codepoint": 57440,
+      "codepoint": 57441,
       "fontFamily": "Fad",
       "identifier": "mute"
     },
     "next": {
-      "codepoint": 57441,
+      "codepoint": 57442,
       "fontFamily": "Fad",
       "identifier": "next"
     },
     "open": {
-      "codepoint": 57442,
+      "codepoint": 57443,
       "fontFamily": "Fad",
       "identifier": "open"
     },
     "paste": {
-      "codepoint": 57443,
+      "codepoint": 57444,
       "fontFamily": "Fad",
       "identifier": "paste"
     },
     "pause": {
-      "codepoint": 57444,
+      "codepoint": 57445,
       "fontFamily": "Fad",
       "identifier": "pause"
     },
     "pen": {
-      "codepoint": 57445,
+      "codepoint": 57446,
       "fontFamily": "Fad",
       "identifier": "pen"
     },
     "phase": {
-      "codepoint": 57446,
+      "codepoint": 57447,
       "fontFamily": "Fad",
       "identifier": "phase"
     },
     "play": {
-      "codepoint": 57447,
+      "codepoint": 57448,
       "fontFamily": "Fad",
       "identifier": "play"
     },
     "pointer": {
-      "codepoint": 57448,
+      "codepoint": 57449,
       "fontFamily": "Fad",
       "identifier": "pointer"
     },
     "powerswitch": {
-      "codepoint": 57449,
+      "codepoint": 57450,
       "fontFamily": "Fad",
       "identifier": "powerswitch"
     },
     "preset-a": {
-      "codepoint": 57450,
+      "codepoint": 57451,
       "fontFamily": "Fad",
       "identifier": "presetA"
     },
     "preset-ab": {
-      "codepoint": 57451,
+      "codepoint": 57452,
       "fontFamily": "Fad",
       "identifier": "presetAb"
     },
     "preset-b": {
-      "codepoint": 57452,
+      "codepoint": 57453,
       "fontFamily": "Fad",
       "identifier": "presetB"
     },
     "preset-ba": {
-      "codepoint": 57453,
+      "codepoint": 57454,
       "fontFamily": "Fad",
       "identifier": "presetBa"
     },
     "prev": {
-      "codepoint": 57454,
+      "codepoint": 57455,
       "fontFamily": "Fad",
       "identifier": "prev"
     },
     "punch-in": {
-      "codepoint": 57455,
+      "codepoint": 57456,
       "fontFamily": "Fad",
       "identifier": "punchIn"
     },
     "punch-out": {
-      "codepoint": 57456,
+      "codepoint": 57457,
       "fontFamily": "Fad",
       "identifier": "punchOut"
     },
     "ram": {
-      "codepoint": 57457,
+      "codepoint": 57458,
       "fontFamily": "Fad",
       "identifier": "ram"
     },
     "random-1dice": {
-      "codepoint": 57458,
+      "codepoint": 57459,
       "fontFamily": "Fad",
       "identifier": "random1dice"
     },
     "random-2dice": {
-      "codepoint": 57459,
+      "codepoint": 57460,
       "fontFamily": "Fad",
       "identifier": "random2dice"
     },
     "record": {
-      "codepoint": 57460,
+      "codepoint": 57461,
       "fontFamily": "Fad",
       "identifier": "record"
     },
     "redo": {
-      "codepoint": 57461,
+      "codepoint": 57462,
       "fontFamily": "Fad",
       "identifier": "redo"
     },
     "repeat": {
-      "codepoint": 57462,
+      "codepoint": 57463,
       "fontFamily": "Fad",
       "identifier": "repeat"
     },
     "repeat-one": {
-      "codepoint": 57463,
+      "codepoint": 57464,
       "fontFamily": "Fad",
       "identifier": "repeatOne"
     },
     "rew": {
-      "codepoint": 57464,
+      "codepoint": 57465,
       "fontFamily": "Fad",
       "identifier": "rew"
     },
     "roundswitch-off": {
-      "codepoint": 57465,
+      "codepoint": 57466,
       "fontFamily": "Fad",
       "identifier": "roundswitchOff"
     },
     "roundswitch-on": {
-      "codepoint": 57466,
+      "codepoint": 57467,
       "fontFamily": "Fad",
       "identifier": "roundswitchOn"
     },
     "save": {
-      "codepoint": 57467,
+      "codepoint": 57468,
       "fontFamily": "Fad",
       "identifier": "save"
     },
     "saveas": {
-      "codepoint": 57468,
+      "codepoint": 57469,
       "fontFamily": "Fad",
       "identifier": "saveas"
     },
     "scissors": {
-      "codepoint": 57469,
+      "codepoint": 57470,
       "fontFamily": "Fad",
       "identifier": "scissors"
     },
     "shuffle": {
-      "codepoint": 57470,
+      "codepoint": 57471,
       "fontFamily": "Fad",
       "identifier": "shuffle"
     },
     "slider-round-1": {
-      "codepoint": 57471,
+      "codepoint": 57472,
       "fontFamily": "Fad",
       "identifier": "sliderRound1"
     },
     "slider-round-2": {
-      "codepoint": 57472,
+      "codepoint": 57473,
       "fontFamily": "Fad",
       "identifier": "sliderRound2"
     },
     "slider-round-3": {
-      "codepoint": 57473,
+      "codepoint": 57474,
       "fontFamily": "Fad",
       "identifier": "sliderRound3"
     },
     "sliderhandle-1": {
-      "codepoint": 57474,
+      "codepoint": 57475,
       "fontFamily": "Fad",
       "identifier": "sliderhandle1"
     },
     "sliderhandle-2": {
-      "codepoint": 57475,
+      "codepoint": 57476,
       "fontFamily": "Fad",
       "identifier": "sliderhandle2"
     },
     "softclip": {
-      "codepoint": 57476,
+      "codepoint": 57477,
       "fontFamily": "Fad",
       "identifier": "softclip"
     },
     "softclipcurve": {
-      "codepoint": 57477,
+      "codepoint": 57478,
       "fontFamily": "Fad",
       "identifier": "softclipcurve"
     },
     "solo": {
-      "codepoint": 57478,
+      "codepoint": 57479,
       "fontFamily": "Fad",
       "identifier": "solo"
     },
     "speaker": {
-      "codepoint": 57479,
+      "codepoint": 57480,
       "fontFamily": "Fad",
       "identifier": "speaker"
     },
     "squareswitch-off": {
-      "codepoint": 57480,
+      "codepoint": 57481,
       "fontFamily": "Fad",
       "identifier": "squareswitchOff"
     },
     "squareswitch-on": {
-      "codepoint": 57481,
+      "codepoint": 57482,
       "fontFamily": "Fad",
       "identifier": "squareswitchOn"
     },
     "stereo": {
-      "codepoint": 57482,
+      "codepoint": 57483,
       "fontFamily": "Fad",
       "identifier": "stereo"
     },
     "stop": {
-      "codepoint": 57483,
+      "codepoint": 57484,
       "fontFamily": "Fad",
       "identifier": "stop"
     },
     "thunderbolt": {
-      "codepoint": 57484,
+      "codepoint": 57485,
       "fontFamily": "Fad",
       "identifier": "thunderbolt"
     },
     "timeselect": {
-      "codepoint": 57485,
+      "codepoint": 57486,
       "fontFamily": "Fad",
       "identifier": "timeselect"
     },
     "undo": {
-      "codepoint": 57486,
+      "codepoint": 57487,
       "fontFamily": "Fad",
       "identifier": "undo"
     },
     "unlock": {
-      "codepoint": 57487,
+      "codepoint": 57488,
       "fontFamily": "Fad",
       "identifier": "unlock"
     },
     "usb": {
-      "codepoint": 57488,
+      "codepoint": 57489,
       "fontFamily": "Fad",
       "identifier": "usb"
     },
     "v-expand": {
-      "codepoint": 57489,
+      "codepoint": 57490,
       "fontFamily": "Fad",
       "identifier": "vExpand"
     },
     "vroundswitch-off": {
-      "codepoint": 57490,
+      "codepoint": 57491,
       "fontFamily": "Fad",
       "identifier": "vroundswitchOff"
     },
     "vroundswitch-on": {
-      "codepoint": 57491,
+      "codepoint": 57492,
       "fontFamily": "Fad",
       "identifier": "vroundswitchOn"
     },
     "vsquareswitch-off": {
-      "codepoint": 57492,
+      "codepoint": 57493,
       "fontFamily": "Fad",
       "identifier": "vsquareswitchOff"
     },
     "vsquareswitch-on": {
-      "codepoint": 57493,
+      "codepoint": 57494,
       "fontFamily": "Fad",
       "identifier": "vsquareswitchOn"
     },
     "waveform": {
-      "codepoint": 57494,
+      "codepoint": 57495,
       "fontFamily": "Fad",
       "identifier": "waveform"
     },
     "xlrplug": {
-      "codepoint": 57495,
+      "codepoint": 57496,
       "fontFamily": "Fad",
       "identifier": "xlrplug"
     },
     "zoomin": {
-      "codepoint": 57496,
+      "codepoint": 57497,
       "fontFamily": "Fad",
       "identifier": "zoomin"
     },
     "zoomout": {
-      "codepoint": 57497,
+      "codepoint": 57498,
       "fontFamily": "Fad",
       "identifier": "zoomout"
     }

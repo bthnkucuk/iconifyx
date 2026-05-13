@@ -1138,665 +1138,665 @@ class FeIcons {
 
   /// `notice-push`
   static const IconifyIconData noticePush = IconifyIconData(IconData(
-    0xe0fe,
+    0xe0a0,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `octpus`
   static const IconifyIconData octpus = IconifyIconData(IconData(
-    0xe0a0,
+    0xe0a1,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `open-mouth`
   static const IconifyIconData openMouth = IconifyIconData(IconData(
-    0xe0a1,
+    0xe0a2,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `palette`
   static const IconifyIconData palette = IconifyIconData(IconData(
-    0xe0a2,
+    0xe0a3,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `paper-plane`
   static const IconifyIconData paperPlane = IconifyIconData(IconData(
-    0xe0a3,
+    0xe0a4,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `pause`
   static const IconifyIconData pause = IconifyIconData(IconData(
-    0xe0a4,
+    0xe0a5,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `pencil`
   static const IconifyIconData pencil = IconifyIconData(IconData(
-    0xe0a5,
+    0xe0a6,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `phone`
   static const IconifyIconData phone = IconifyIconData(IconData(
-    0xe0a6,
+    0xe0a7,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `picture`
   static const IconifyIconData picture = IconifyIconData(IconData(
-    0xe0a7,
+    0xe0a8,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `picture-square`
   static const IconifyIconData pictureSquare = IconifyIconData(IconData(
-    0xe0a8,
+    0xe0a9,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `pie-chart`
   static const IconifyIconData pieChart = IconifyIconData(IconData(
-    0xe0a9,
+    0xe0aa,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `pinterest`
   static const IconifyIconData pinterest = IconifyIconData(IconData(
-    0xe0aa,
+    0xe0ab,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `pizza`
   static const IconifyIconData pizza = IconifyIconData(IconData(
-    0xe0ab,
+    0xe0ac,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `play`
   static const IconifyIconData play = IconifyIconData(IconData(
-    0xe0ac,
+    0xe0ad,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `plug`
   static const IconifyIconData plug = IconifyIconData(IconData(
-    0xe0ad,
+    0xe0ae,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `plus`
   static const IconifyIconData plus = IconifyIconData(IconData(
-    0xe0ae,
+    0xe0af,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `pocket`
   static const IconifyIconData pocket = IconifyIconData(IconData(
-    0xe0af,
+    0xe0b0,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `pot`
   static const IconifyIconData pot = IconifyIconData(IconData(
-    0xe0b0,
+    0xe0b1,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `print`
   static const IconifyIconData print = IconifyIconData(IconData(
-    0xe0b1,
+    0xe0b2,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `prototype`
   static const IconifyIconData prototype = IconifyIconData(IconData(
-    0xe0b2,
+    0xe0b3,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `question`
   static const IconifyIconData question = IconifyIconData(IconData(
-    0xe0b3,
+    0xe0b4,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `quote-left`
   static const IconifyIconData quoteLeft = IconifyIconData(IconData(
-    0xe0b4,
+    0xe0b5,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `quote-right`
   static const IconifyIconData quoteRight = IconifyIconData(IconData(
-    0xe0b5,
+    0xe0b6,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `rage`
   static const IconifyIconData rage = IconifyIconData(IconData(
-    0xe0b6,
+    0xe0b7,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `random`
   static const IconifyIconData random = IconifyIconData(IconData(
-    0xe0b7,
+    0xe0b8,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `remove-cart`
   static const IconifyIconData removeCart = IconifyIconData(IconData(
-    0xe0b8,
+    0xe0b9,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `rice-cracker`
   static const IconifyIconData riceCracker = IconifyIconData(IconData(
-    0xe0b9,
+    0xe0ba,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `rocket`
   static const IconifyIconData rocket = IconifyIconData(IconData(
-    0xe0ba,
+    0xe0bb,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `scale`
   static const IconifyIconData scale = IconifyIconData(IconData(
-    0xe0bb,
+    0xe0bc,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `search`
   static const IconifyIconData search = IconifyIconData(IconData(
-    0xe0bc,
+    0xe0bd,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `search-minus`
   static const IconifyIconData searchMinus = IconifyIconData(IconData(
-    0xe0bd,
+    0xe0be,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `search-plus`
   static const IconifyIconData searchPlus = IconifyIconData(IconData(
-    0xe0be,
+    0xe0bf,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `share`
   static const IconifyIconData share = IconifyIconData(IconData(
-    0xe0bf,
+    0xe0c0,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `shield`
   static const IconifyIconData shield = IconifyIconData(IconData(
-    0xe0c0,
+    0xe0c1,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `shopping-bag`
   static const IconifyIconData shoppingBag = IconifyIconData(IconData(
-    0xe0c1,
+    0xe0c2,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `sitemap`
   static const IconifyIconData sitemap = IconifyIconData(IconData(
-    0xe0c2,
+    0xe0c3,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `smile`
   static const IconifyIconData smile = IconifyIconData(IconData(
-    0xe0c3,
+    0xe0c4,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `smile-alt`
   static const IconifyIconData smileAlt = IconifyIconData(IconData(
-    0xe0c4,
+    0xe0c5,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `smile-heart`
   static const IconifyIconData smileHeart = IconifyIconData(IconData(
-    0xe0c5,
+    0xe0c6,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `smile-plus`
   static const IconifyIconData smilePlus = IconifyIconData(IconData(
-    0xe0c6,
+    0xe0c7,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `speaker`
   static const IconifyIconData speaker = IconifyIconData(IconData(
-    0xe0c7,
+    0xe0c8,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `squid`
   static const IconifyIconData squid = IconifyIconData(IconData(
-    0xe0c8,
+    0xe0c9,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `star`
   static const IconifyIconData star = IconifyIconData(IconData(
-    0xe0c9,
+    0xe0ca,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `star-o`
   static const IconifyIconData starO = IconifyIconData(IconData(
-    0xe0ca,
+    0xe0cb,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `step-backward`
   static const IconifyIconData stepBackward = IconifyIconData(IconData(
-    0xe0cb,
+    0xe0cc,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `step-forward`
   static const IconifyIconData stepForward = IconifyIconData(IconData(
-    0xe0cc,
+    0xe0cd,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `stop`
   static const IconifyIconData stop = IconifyIconData(IconData(
-    0xe0cd,
+    0xe0ce,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `subtract`
   static const IconifyIconData subtract = IconifyIconData(IconData(
-    0xe0ce,
+    0xe0cf,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `sunny-o`
   static const IconifyIconData sunnyO = IconifyIconData(IconData(
-    0xe0cf,
+    0xe0d0,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `sunrise`
   static const IconifyIconData sunrise = IconifyIconData(IconData(
-    0xe0d0,
+    0xe0d1,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `sync`
   static const IconifyIconData sync_ = IconifyIconData(IconData(
-    0xe0d1,
+    0xe0d2,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `table`
   static const IconifyIconData table = IconifyIconData(IconData(
-    0xe0d2,
+    0xe0d3,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `tablet`
   static const IconifyIconData tablet = IconifyIconData(IconData(
-    0xe0d3,
+    0xe0d4,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `tag`
   static const IconifyIconData tag = IconifyIconData(IconData(
-    0xe0d4,
+    0xe0d5,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `target`
   static const IconifyIconData target = IconifyIconData(IconData(
-    0xe0d5,
+    0xe0d6,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `taxi`
   static const IconifyIconData taxi = IconifyIconData(IconData(
-    0xe0d6,
+    0xe0d7,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `terminal`
   static const IconifyIconData terminal = IconifyIconData(IconData(
-    0xe0d7,
+    0xe0d8,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `text-align-center`
   static const IconifyIconData textAlignCenter = IconifyIconData(IconData(
-    0xe0d8,
+    0xe0d9,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `text-align-justify`
   static const IconifyIconData textAlignJustify = IconifyIconData(IconData(
-    0xe0d9,
+    0xe0da,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `text-align-left`
   static const IconifyIconData textAlignLeft = IconifyIconData(IconData(
-    0xe0da,
+    0xe0db,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `text-align-right`
   static const IconifyIconData textAlignRight = IconifyIconData(IconData(
-    0xe0db,
+    0xe0dc,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `text-size`
   static const IconifyIconData textSize = IconifyIconData(IconData(
-    0xe0dc,
+    0xe0dd,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `ticket`
   static const IconifyIconData ticket = IconifyIconData(IconData(
-    0xe0dd,
+    0xe0de,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `tiled`
   static const IconifyIconData tiled = IconifyIconData(IconData(
-    0xe0de,
+    0xe0df,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `timeline`
   static const IconifyIconData timeline = IconifyIconData(IconData(
-    0xe0df,
+    0xe0e0,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `tired`
   static const IconifyIconData tired = IconifyIconData(IconData(
-    0xe0e0,
+    0xe0e1,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `train`
   static const IconifyIconData train = IconifyIconData(IconData(
-    0xe0e1,
+    0xe0e2,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `trash`
   static const IconifyIconData trash = IconifyIconData(IconData(
-    0xe0e2,
+    0xe0e3,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `trophy`
   static const IconifyIconData trophy = IconifyIconData(IconData(
-    0xe0e3,
+    0xe0e4,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `truck`
   static const IconifyIconData truck = IconifyIconData(IconData(
-    0xe0e4,
+    0xe0e5,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `tumbler-glass`
   static const IconifyIconData tumblerGlass = IconifyIconData(IconData(
-    0xe0e5,
+    0xe0e6,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `twitter`
   static const IconifyIconData twitter = IconifyIconData(IconData(
-    0xe0e6,
+    0xe0e7,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `umbrella`
   static const IconifyIconData umbrella = IconifyIconData(IconData(
-    0xe0e7,
+    0xe0e8,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `underline`
   static const IconifyIconData underline = IconifyIconData(IconData(
-    0xe0e8,
+    0xe0e9,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `union`
   static const IconifyIconData union = IconifyIconData(IconData(
-    0xe0e9,
+    0xe0ea,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `unlock`
   static const IconifyIconData unlock = IconifyIconData(IconData(
-    0xe0ea,
+    0xe0eb,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `upload`
   static const IconifyIconData upload = IconifyIconData(IconData(
-    0xe0eb,
+    0xe0ec,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `usb`
   static const IconifyIconData usb = IconifyIconData(IconData(
-    0xe0ec,
+    0xe0ed,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `user`
   static const IconifyIconData user = IconifyIconData(IconData(
-    0xe0ed,
+    0xe0ee,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `user-minus`
   static const IconifyIconData userMinus = IconifyIconData(IconData(
-    0xe0ee,
+    0xe0ef,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `user-plus`
   static const IconifyIconData userPlus = IconifyIconData(IconData(
-    0xe0ef,
+    0xe0f0,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `users`
   static const IconifyIconData users = IconifyIconData(IconData(
-    0xe0f0,
+    0xe0f1,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `vector`
   static const IconifyIconData vector = IconifyIconData(IconData(
-    0xe0f1,
+    0xe0f2,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `video`
   static const IconifyIconData video = IconifyIconData(IconData(
-    0xe0f2,
+    0xe0f3,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `vr`
   static const IconifyIconData vr = IconifyIconData(IconData(
-    0xe0f3,
+    0xe0f4,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `wallet`
   static const IconifyIconData wallet = IconifyIconData(IconData(
-    0xe0f4,
+    0xe0f5,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `warning`
   static const IconifyIconData warning = IconifyIconData(IconData(
-    0xe0f5,
+    0xe0f6,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `watch`
   static const IconifyIconData watch = IconifyIconData(IconData(
-    0xe0f6,
+    0xe0f7,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `watch-alt`
   static const IconifyIconData watchAlt = IconifyIconData(IconData(
-    0xe0f7,
+    0xe0f8,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `wine-glass`
   static const IconifyIconData wineGlass = IconifyIconData(IconData(
-    0xe0f8,
+    0xe0f9,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `wordpress`
   static const IconifyIconData wordpress = IconifyIconData(IconData(
-    0xe0f9,
+    0xe0fa,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `wordpress-alt`
   static const IconifyIconData wordpressAlt = IconifyIconData(IconData(
-    0xe0fa,
+    0xe0fb,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `wrench`
   static const IconifyIconData wrench = IconifyIconData(IconData(
-    0xe0fb,
+    0xe0fc,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `yaki-dango`
   static const IconifyIconData yakiDango = IconifyIconData(IconData(
-    0xe0fc,
+    0xe0fd,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));
 
   /// `youtube`
   static const IconifyIconData youtube = IconifyIconData(IconData(
-    0xe0fd,
+    0xe0fe,
     fontFamily: 'Fe',
     fontPackage: 'iconifyx_fe',
   ));

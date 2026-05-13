@@ -18,882 +18,882 @@ class MeteoconsIcons {
 
   /// `barometer`
   static const IconifyIconData barometer = IconifyIconData(IconData(
-    0xe004,
+    0xe000,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `barometer-fill`
   static const IconifyIconData barometerFill = IconifyIconData(IconData(
-    0xe005,
+    0xe001,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `beanie`
   static const IconifyIconData beanie = IconifyIconData(IconData(
-    0xe006,
+    0xe002,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `beanie-fill`
   static const IconifyIconData beanieFill = IconifyIconData(IconData(
-    0xe007,
+    0xe003,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `clear-day`
   static const IconifyIconData clearDay = IconifyIconData(IconData(
-    0xe008,
+    0xe004,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `clear-day-fill`
   static const IconifyIconData clearDayFill = IconifyIconData(IconData(
-    0xe009,
+    0xe005,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `clear-night`
   static const IconifyIconData clearNight = IconifyIconData(IconData(
-    0xe00a,
+    0xe006,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `clear-night-fill`
   static const IconifyIconData clearNightFill = IconifyIconData(IconData(
-    0xe00b,
+    0xe007,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `cloud-down`
   static const IconifyIconData cloudDown = IconifyIconData(IconData(
-    0xe00c,
+    0xe008,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `cloud-down-fill`
   static const IconifyIconData cloudDownFill = IconifyIconData(IconData(
-    0xe00d,
+    0xe009,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `cloud-up`
   static const IconifyIconData cloudUp = IconifyIconData(IconData(
-    0xe00e,
+    0xe00a,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `cloud-up-fill`
   static const IconifyIconData cloudUpFill = IconifyIconData(IconData(
-    0xe00f,
+    0xe00b,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `cloudy`
   static const IconifyIconData cloudy = IconifyIconData(IconData(
-    0xe010,
+    0xe00c,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `cloudy-fill`
   static const IconifyIconData cloudyFill = IconifyIconData(IconData(
-    0xe011,
+    0xe00d,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `code-green`
   static const IconifyIconData codeGreen = IconifyIconData(IconData(
-    0xe000,
+    0xe00e,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `code-green-fill`
   static const IconifyIconData codeGreenFill = IconifyIconData(IconData(
-    0xe012,
+    0xe00f,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `code-orange`
   static const IconifyIconData codeOrange = IconifyIconData(IconData(
-    0xe001,
+    0xe010,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `code-orange-fill`
   static const IconifyIconData codeOrangeFill = IconifyIconData(IconData(
-    0xe013,
+    0xe011,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `code-red`
   static const IconifyIconData codeRed = IconifyIconData(IconData(
-    0xe014,
+    0xe012,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `code-red-fill`
   static const IconifyIconData codeRedFill = IconifyIconData(IconData(
-    0xe015,
+    0xe013,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `code-yellow`
   static const IconifyIconData codeYellow = IconifyIconData(IconData(
-    0xe002,
+    0xe014,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `code-yellow-fill`
   static const IconifyIconData codeYellowFill = IconifyIconData(IconData(
-    0xe016,
+    0xe015,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `compass-fill`
   static const IconifyIconData compassFill = IconifyIconData(IconData(
-    0xe017,
+    0xe016,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `drizzle`
   static const IconifyIconData drizzle = IconifyIconData(IconData(
-    0xe018,
+    0xe017,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `drizzle-fill`
   static const IconifyIconData drizzleFill = IconifyIconData(IconData(
-    0xe019,
+    0xe018,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `dust`
   static const IconifyIconData dust = IconifyIconData(IconData(
-    0xe01a,
+    0xe019,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `dust-day`
   static const IconifyIconData dustDay = IconifyIconData(IconData(
-    0xe01b,
+    0xe01a,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `dust-day-fill`
   static const IconifyIconData dustDayFill = IconifyIconData(IconData(
-    0xe01c,
+    0xe01b,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `dust-fill`
   static const IconifyIconData dustFill = IconifyIconData(IconData(
-    0xe01d,
+    0xe01c,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `dust-night`
   static const IconifyIconData dustNight = IconifyIconData(IconData(
-    0xe01e,
+    0xe01d,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `dust-night-fill`
   static const IconifyIconData dustNightFill = IconifyIconData(IconData(
-    0xe01f,
+    0xe01e,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `dust-wind`
   static const IconifyIconData dustWind = IconifyIconData(IconData(
-    0xe020,
+    0xe01f,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `dust-wind-fill`
   static const IconifyIconData dustWindFill = IconifyIconData(IconData(
-    0xe021,
+    0xe020,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme`
   static const IconifyIconData extreme = IconifyIconData(IconData(
-    0xe022,
+    0xe021,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-day`
   static const IconifyIconData extremeDay = IconifyIconData(IconData(
-    0xe023,
+    0xe022,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-day-drizzle`
   static const IconifyIconData extremeDayDrizzle = IconifyIconData(IconData(
-    0xe024,
+    0xe023,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-day-drizzle-fill`
   static const IconifyIconData extremeDayDrizzleFill = IconifyIconData(IconData(
-    0xe025,
+    0xe024,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-day-fill`
   static const IconifyIconData extremeDayFill = IconifyIconData(IconData(
-    0xe026,
+    0xe025,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-day-fog`
   static const IconifyIconData extremeDayFog = IconifyIconData(IconData(
-    0xe027,
+    0xe026,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-day-fog-fill`
   static const IconifyIconData extremeDayFogFill = IconifyIconData(IconData(
-    0xe028,
+    0xe027,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-day-hail`
   static const IconifyIconData extremeDayHail = IconifyIconData(IconData(
-    0xe029,
+    0xe028,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-day-hail-fill`
   static const IconifyIconData extremeDayHailFill = IconifyIconData(IconData(
-    0xe02a,
+    0xe029,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-day-haze`
   static const IconifyIconData extremeDayHaze = IconifyIconData(IconData(
-    0xe02b,
+    0xe02a,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-day-haze-fill`
   static const IconifyIconData extremeDayHazeFill = IconifyIconData(IconData(
-    0xe02c,
+    0xe02b,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-day-rain`
   static const IconifyIconData extremeDayRain = IconifyIconData(IconData(
-    0xe02d,
+    0xe02c,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-day-rain-fill`
   static const IconifyIconData extremeDayRainFill = IconifyIconData(IconData(
-    0xe02e,
+    0xe02d,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-day-sleet`
   static const IconifyIconData extremeDaySleet = IconifyIconData(IconData(
-    0xe02f,
+    0xe02e,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-day-sleet-fill`
   static const IconifyIconData extremeDaySleetFill = IconifyIconData(IconData(
-    0xe030,
+    0xe02f,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-day-smoke`
   static const IconifyIconData extremeDaySmoke = IconifyIconData(IconData(
-    0xe031,
+    0xe030,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-day-smoke-fill`
   static const IconifyIconData extremeDaySmokeFill = IconifyIconData(IconData(
-    0xe032,
+    0xe031,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-day-snow`
   static const IconifyIconData extremeDaySnow = IconifyIconData(IconData(
-    0xe033,
+    0xe032,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-day-snow-fill`
   static const IconifyIconData extremeDaySnowFill = IconifyIconData(IconData(
-    0xe034,
+    0xe033,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-drizzle`
   static const IconifyIconData extremeDrizzle = IconifyIconData(IconData(
-    0xe035,
+    0xe034,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-drizzle-fill`
   static const IconifyIconData extremeDrizzleFill = IconifyIconData(IconData(
-    0xe036,
+    0xe035,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-fill`
   static const IconifyIconData extremeFill = IconifyIconData(IconData(
-    0xe037,
+    0xe036,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-fog`
   static const IconifyIconData extremeFog = IconifyIconData(IconData(
-    0xe038,
+    0xe037,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-fog-fill`
   static const IconifyIconData extremeFogFill = IconifyIconData(IconData(
-    0xe039,
+    0xe038,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-hail`
   static const IconifyIconData extremeHail = IconifyIconData(IconData(
-    0xe03a,
+    0xe039,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-hail-fill`
   static const IconifyIconData extremeHailFill = IconifyIconData(IconData(
-    0xe03b,
+    0xe03a,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-haze`
   static const IconifyIconData extremeHaze = IconifyIconData(IconData(
-    0xe03c,
+    0xe03b,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-haze-fill`
   static const IconifyIconData extremeHazeFill = IconifyIconData(IconData(
-    0xe03d,
+    0xe03c,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-night`
   static const IconifyIconData extremeNight = IconifyIconData(IconData(
-    0xe03e,
+    0xe03d,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-night-drizzle`
   static const IconifyIconData extremeNightDrizzle = IconifyIconData(IconData(
-    0xe03f,
+    0xe03e,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-night-drizzle-fill`
   static const IconifyIconData extremeNightDrizzleFill = IconifyIconData(IconData(
-    0xe040,
+    0xe03f,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-night-fill`
   static const IconifyIconData extremeNightFill = IconifyIconData(IconData(
-    0xe041,
+    0xe040,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-night-fog`
   static const IconifyIconData extremeNightFog = IconifyIconData(IconData(
-    0xe042,
+    0xe041,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-night-fog-fill`
   static const IconifyIconData extremeNightFogFill = IconifyIconData(IconData(
-    0xe043,
+    0xe042,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-night-hail`
   static const IconifyIconData extremeNightHail = IconifyIconData(IconData(
-    0xe044,
+    0xe043,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-night-hail-fill`
   static const IconifyIconData extremeNightHailFill = IconifyIconData(IconData(
-    0xe045,
+    0xe044,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-night-haze`
   static const IconifyIconData extremeNightHaze = IconifyIconData(IconData(
-    0xe046,
+    0xe045,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-night-haze-fill`
   static const IconifyIconData extremeNightHazeFill = IconifyIconData(IconData(
-    0xe047,
+    0xe046,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-night-rain`
   static const IconifyIconData extremeNightRain = IconifyIconData(IconData(
-    0xe048,
+    0xe047,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-night-rain-fill`
   static const IconifyIconData extremeNightRainFill = IconifyIconData(IconData(
-    0xe049,
+    0xe048,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-night-sleet`
   static const IconifyIconData extremeNightSleet = IconifyIconData(IconData(
-    0xe04a,
+    0xe049,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-night-sleet-fill`
   static const IconifyIconData extremeNightSleetFill = IconifyIconData(IconData(
-    0xe04b,
+    0xe04a,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-night-smoke`
   static const IconifyIconData extremeNightSmoke = IconifyIconData(IconData(
-    0xe04c,
+    0xe04b,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-night-smoke-fill`
   static const IconifyIconData extremeNightSmokeFill = IconifyIconData(IconData(
-    0xe04d,
+    0xe04c,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-night-snow`
   static const IconifyIconData extremeNightSnow = IconifyIconData(IconData(
-    0xe04e,
+    0xe04d,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-night-snow-fill`
   static const IconifyIconData extremeNightSnowFill = IconifyIconData(IconData(
-    0xe04f,
+    0xe04e,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-rain`
   static const IconifyIconData extremeRain = IconifyIconData(IconData(
-    0xe050,
+    0xe04f,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-rain-fill`
   static const IconifyIconData extremeRainFill = IconifyIconData(IconData(
-    0xe051,
+    0xe050,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-sleet`
   static const IconifyIconData extremeSleet = IconifyIconData(IconData(
-    0xe052,
+    0xe051,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-sleet-fill`
   static const IconifyIconData extremeSleetFill = IconifyIconData(IconData(
-    0xe053,
+    0xe052,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-smoke`
   static const IconifyIconData extremeSmoke = IconifyIconData(IconData(
-    0xe054,
+    0xe053,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-smoke-fill`
   static const IconifyIconData extremeSmokeFill = IconifyIconData(IconData(
-    0xe055,
+    0xe054,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-snow`
   static const IconifyIconData extremeSnow = IconifyIconData(IconData(
-    0xe056,
+    0xe055,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `extreme-snow-fill`
   static const IconifyIconData extremeSnowFill = IconifyIconData(IconData(
-    0xe057,
+    0xe056,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `falling-stars`
   static const IconifyIconData fallingStars = IconifyIconData(IconData(
-    0xe058,
+    0xe057,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `falling-stars-fill`
   static const IconifyIconData fallingStarsFill = IconifyIconData(IconData(
-    0xe059,
+    0xe058,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `flag-gale-warning`
   static const IconifyIconData flagGaleWarning = IconifyIconData(IconData(
-    0xe05a,
+    0xe059,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `flag-gale-warning-fill`
   static const IconifyIconData flagGaleWarningFill = IconifyIconData(IconData(
-    0xe05b,
+    0xe05a,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `flag-hurricane-warning`
   static const IconifyIconData flagHurricaneWarning = IconifyIconData(IconData(
-    0xe05c,
+    0xe05b,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `flag-hurricane-warning-fill`
   static const IconifyIconData flagHurricaneWarningFill = IconifyIconData(IconData(
-    0xe05d,
+    0xe05c,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `flag-small-craft-advisory`
   static const IconifyIconData flagSmallCraftAdvisory = IconifyIconData(IconData(
-    0xe05e,
+    0xe05d,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `flag-small-craft-advisory-fill`
   static const IconifyIconData flagSmallCraftAdvisoryFill = IconifyIconData(IconData(
-    0xe05f,
+    0xe05e,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `flag-storm-warning`
   static const IconifyIconData flagStormWarning = IconifyIconData(IconData(
-    0xe060,
+    0xe05f,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `flag-storm-warning-fill`
   static const IconifyIconData flagStormWarningFill = IconifyIconData(IconData(
-    0xe061,
+    0xe060,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `fog`
   static const IconifyIconData fog = IconifyIconData(IconData(
-    0xe062,
+    0xe061,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `fog-day`
   static const IconifyIconData fogDay = IconifyIconData(IconData(
-    0xe063,
+    0xe062,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `fog-day-fill`
   static const IconifyIconData fogDayFill = IconifyIconData(IconData(
-    0xe064,
+    0xe063,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `fog-fill`
   static const IconifyIconData fogFill = IconifyIconData(IconData(
-    0xe065,
+    0xe064,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `fog-night`
   static const IconifyIconData fogNight = IconifyIconData(IconData(
-    0xe066,
+    0xe065,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `fog-night-fill`
   static const IconifyIconData fogNightFill = IconifyIconData(IconData(
-    0xe067,
+    0xe066,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `glove`
   static const IconifyIconData glove = IconifyIconData(IconData(
-    0xe068,
+    0xe067,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `glove-fill`
   static const IconifyIconData gloveFill = IconifyIconData(IconData(
-    0xe069,
+    0xe068,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `hail`
   static const IconifyIconData hail = IconifyIconData(IconData(
-    0xe06a,
+    0xe069,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `hail-fill`
   static const IconifyIconData hailFill = IconifyIconData(IconData(
-    0xe06b,
+    0xe06a,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `haze`
   static const IconifyIconData haze = IconifyIconData(IconData(
-    0xe06c,
+    0xe06b,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `haze-day`
   static const IconifyIconData hazeDay = IconifyIconData(IconData(
-    0xe06d,
+    0xe06c,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `haze-day-fill`
   static const IconifyIconData hazeDayFill = IconifyIconData(IconData(
-    0xe06e,
+    0xe06d,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `haze-fill`
   static const IconifyIconData hazeFill = IconifyIconData(IconData(
-    0xe06f,
+    0xe06e,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `haze-night`
   static const IconifyIconData hazeNight = IconifyIconData(IconData(
-    0xe070,
+    0xe06f,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `haze-night-fill`
   static const IconifyIconData hazeNightFill = IconifyIconData(IconData(
-    0xe071,
+    0xe070,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `horizon`
   static const IconifyIconData horizon = IconifyIconData(IconData(
-    0xe072,
+    0xe071,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `horizon-fill`
   static const IconifyIconData horizonFill = IconifyIconData(IconData(
-    0xe073,
+    0xe072,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `humidity`
   static const IconifyIconData humidity = IconifyIconData(IconData(
-    0xe074,
+    0xe073,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `humidity-fill`
   static const IconifyIconData humidityFill = IconifyIconData(IconData(
-    0xe075,
+    0xe074,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `hurricane`
   static const IconifyIconData hurricane = IconifyIconData(IconData(
-    0xe076,
+    0xe075,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `hurricane-fill`
   static const IconifyIconData hurricaneFill = IconifyIconData(IconData(
-    0xe077,
+    0xe076,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `lightning-bolt`
   static const IconifyIconData lightningBolt = IconifyIconData(IconData(
-    0xe078,
+    0xe077,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `lightning-bolt-fill`
   static const IconifyIconData lightningBoltFill = IconifyIconData(IconData(
-    0xe079,
+    0xe078,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `mist`
   static const IconifyIconData mist = IconifyIconData(IconData(
-    0xe07a,
+    0xe079,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `mist-fill`
   static const IconifyIconData mistFill = IconifyIconData(IconData(
-    0xe07b,
+    0xe07a,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `moon-first-quarter`
   static const IconifyIconData moonFirstQuarter = IconifyIconData(IconData(
-    0xe07c,
+    0xe07b,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `moon-first-quarter-fill`
   static const IconifyIconData moonFirstQuarterFill = IconifyIconData(IconData(
-    0xe07d,
+    0xe07c,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));
 
   /// `moon-full`
   static const IconifyIconData moonFull = IconifyIconData(IconData(
-    0xe003,
+    0xe07d,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));

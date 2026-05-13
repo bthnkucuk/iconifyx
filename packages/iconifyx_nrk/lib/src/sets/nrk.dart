@@ -585,1281 +585,1281 @@ class NrkIcons {
 
   /// `hardware-tv`
   static const IconifyIconData hardwareTv = IconifyIconData(IconData(
-    0xe0f0,
+    0xe04e,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `hardware-watch`
   static const IconifyIconData hardwareWatch = IconifyIconData(IconData(
-    0xe04e,
+    0xe04f,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `heart`
   static const IconifyIconData heart = IconifyIconData(IconData(
-    0xe04f,
+    0xe050,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `heart-active`
   static const IconifyIconData heartActive = IconifyIconData(IconData(
-    0xe050,
+    0xe051,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `help`
   static const IconifyIconData help = IconifyIconData(IconData(
-    0xe051,
+    0xe052,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `hide`
   static const IconifyIconData hide = IconifyIconData(IconData(
-    0xe052,
+    0xe053,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `home`
   static const IconifyIconData home = IconifyIconData(IconData(
-    0xe053,
+    0xe054,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `home-active`
   static const IconifyIconData homeActive = IconifyIconData(IconData(
-    0xe054,
+    0xe055,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `info`
   static const IconifyIconData info = IconifyIconData(IconData(
-    0xe055,
+    0xe056,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `latest-news`
   static const IconifyIconData latestNews = IconifyIconData(IconData(
-    0xe056,
+    0xe057,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `latest-news-active`
   static const IconifyIconData latestNewsActive = IconifyIconData(IconData(
-    0xe057,
+    0xe058,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `link`
   static const IconifyIconData link = IconifyIconData(IconData(
-    0xe058,
+    0xe059,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `list`
   static const IconifyIconData list = IconifyIconData(IconData(
-    0xe059,
+    0xe05a,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `list-active`
   static const IconifyIconData listActive = IconifyIconData(IconData(
-    0xe05a,
+    0xe05b,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `live-activity`
   static const IconifyIconData liveActivity = IconifyIconData(IconData(
-    0xe05b,
+    0xe05c,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `live-activity-active`
   static const IconifyIconData liveActivityActive = IconifyIconData(IconData(
-    0xe05c,
+    0xe05d,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `lock`
   static const IconifyIconData lock = IconifyIconData(IconData(
-    0xe05d,
+    0xe05e,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `lock-active`
   static const IconifyIconData lockActive = IconifyIconData(IconData(
-    0xe05e,
+    0xe05f,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `logout`
   static const IconifyIconData logout = IconifyIconData(IconData(
-    0xe05f,
+    0xe060,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `longread`
   static const IconifyIconData longread = IconifyIconData(IconData(
-    0xe060,
+    0xe061,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `longread-active`
   static const IconifyIconData longreadActive = IconifyIconData(IconData(
-    0xe061,
+    0xe062,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `lyn`
   static const IconifyIconData lyn = IconifyIconData(IconData(
-    0xe062,
+    0xe063,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `mat`
   static const IconifyIconData mat = IconifyIconData(IconData(
-    0xe063,
+    0xe064,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-404-notfound`
   static const IconifyIconData media404Notfound = IconifyIconData(IconData(
-    0xe064,
+    0xe065,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-agelimit-12`
   static const IconifyIconData mediaAgelimit12 = IconifyIconData(IconData(
-    0xe065,
+    0xe066,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-agelimit-15`
   static const IconifyIconData mediaAgelimit15 = IconifyIconData(IconData(
-    0xe066,
+    0xe067,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-agelimit-18`
   static const IconifyIconData mediaAgelimit18 = IconifyIconData(IconData(
-    0xe067,
+    0xe068,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-agelimit-6`
   static const IconifyIconData mediaAgelimit6 = IconifyIconData(IconData(
-    0xe068,
+    0xe069,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-agelimit-9`
   static const IconifyIconData mediaAgelimit9 = IconifyIconData(IconData(
-    0xe069,
+    0xe06a,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-agelimit-a`
   static const IconifyIconData mediaAgelimitA = IconifyIconData(IconData(
-    0xe06a,
+    0xe06b,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-airplay`
   static const IconifyIconData mediaAirplay = IconifyIconData(IconData(
-    0xe06b,
+    0xe06c,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-airplay-active`
   static const IconifyIconData mediaAirplayActive = IconifyIconData(IconData(
-    0xe06c,
+    0xe06d,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-beam-note`
   static const IconifyIconData mediaBeamNote = IconifyIconData(IconData(
-    0xe06d,
+    0xe06e,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-bluetooth`
   static const IconifyIconData mediaBluetooth = IconifyIconData(IconData(
-    0xe06e,
+    0xe06f,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-chromecast`
   static const IconifyIconData mediaChromecast = IconifyIconData(IconData(
-    0xe06f,
+    0xe070,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-chromecast-1` — primary layer (full opacity)
   static const IconifyIconData mediaChromecast1Primary = IconifyIconData(IconData(
-    0xe070,
+    0xe071,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-chromecast-1` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData mediaChromecast1Secondary = IconifyIconData(IconData(
-    0xe070,
+    0xe071,
     fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-chromecast-2` — primary layer (full opacity)
   static const IconifyIconData mediaChromecast2Primary = IconifyIconData(IconData(
-    0xe071,
+    0xe072,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-chromecast-2` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData mediaChromecast2Secondary = IconifyIconData(IconData(
-    0xe071,
+    0xe072,
     fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-chromecast-3` — primary layer (full opacity)
   static const IconifyIconData mediaChromecast3Primary = IconifyIconData(IconData(
-    0xe072,
+    0xe073,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-chromecast-3` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData mediaChromecast3Secondary = IconifyIconData(IconData(
-    0xe072,
+    0xe073,
     fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-chromecast-active`
   static const IconifyIconData mediaChromecastActive = IconifyIconData(IconData(
-    0xe073,
+    0xe074,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-completed`
   static const IconifyIconData mediaCompleted = IconifyIconData(IconData(
-    0xe074,
+    0xe075,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-direkte`
   static const IconifyIconData mediaDirekte = IconifyIconData(IconData(
-    0xe075,
+    0xe076,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-direkte-golive` — primary layer (full opacity)
   static const IconifyIconData mediaDirekteGolivePrimary = IconifyIconData(IconData(
-    0xe076,
+    0xe077,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-direkte-golive` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData mediaDirekteGoliveSecondary = IconifyIconData(IconData(
-    0xe076,
+    0xe077,
     fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-direkte-notlive` — primary layer (full opacity)
   static const IconifyIconData mediaDirekteNotlivePrimary = IconifyIconData(IconData(
-    0xe077,
+    0xe078,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-direkte-notlive` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData mediaDirekteNotliveSecondary = IconifyIconData(IconData(
-    0xe077,
+    0xe078,
     fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-direktetv`
   static const IconifyIconData mediaDirektetv = IconifyIconData(IconData(
-    0xe078,
+    0xe079,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-direktetv-active`
   static const IconifyIconData mediaDirektetvActive = IconifyIconData(IconData(
-    0xe079,
+    0xe07a,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-ffw`
   static const IconifyIconData mediaFfw = IconifyIconData(IconData(
-    0xe07a,
+    0xe07b,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-ffw-15sec`
   static const IconifyIconData mediaFfw15sec = IconifyIconData(IconData(
-    0xe07b,
+    0xe07c,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-ffw-30sec`
   static const IconifyIconData mediaFfw30sec = IconifyIconData(IconData(
-    0xe07c,
+    0xe07d,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-ffw-5sec`
   static const IconifyIconData mediaFfw5sec = IconifyIconData(IconData(
-    0xe07d,
+    0xe07e,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-index-quaver-tiny`
   static const IconifyIconData mediaIndexQuaverTiny = IconifyIconData(IconData(
-    0xe07e,
+    0xe07f,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-jumpto`
   static const IconifyIconData mediaJumpto = IconifyIconData(IconData(
-    0xe07f,
+    0xe080,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-media-complete`
   static const IconifyIconData mediaMediaComplete = IconifyIconData(IconData(
-    0xe080,
+    0xe081,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-media-incomplete` — primary layer (full opacity)
   static const IconifyIconData mediaMediaIncompletePrimary = IconifyIconData(IconData(
-    0xe081,
+    0xe082,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-media-incomplete` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData mediaMediaIncompleteSecondary = IconifyIconData(IconData(
-    0xe081,
+    0xe082,
     fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-next`
   static const IconifyIconData mediaNext = IconifyIconData(IconData(
-    0xe082,
+    0xe083,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-ny`
   static const IconifyIconData mediaNy = IconifyIconData(IconData(
-    0xe083,
+    0xe084,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-pause`
   static const IconifyIconData mediaPause = IconifyIconData(IconData(
-    0xe084,
+    0xe085,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-picture-in-picture` — primary layer (full opacity)
   static const IconifyIconData mediaPictureInPicturePrimary = IconifyIconData(IconData(
-    0xe085,
+    0xe086,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-picture-in-picture` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData mediaPictureInPictureSecondary = IconifyIconData(IconData(
-    0xe085,
+    0xe086,
     fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-picture-in-picture-active` — primary layer (full opacity)
   static const IconifyIconData mediaPictureInPictureActivePrimary = IconifyIconData(IconData(
-    0xe086,
+    0xe087,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-picture-in-picture-active` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData mediaPictureInPictureActiveSecondary = IconifyIconData(IconData(
-    0xe086,
+    0xe087,
     fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-play`
   static const IconifyIconData mediaPlay = IconifyIconData(IconData(
-    0xe087,
+    0xe088,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-play-fail` — primary layer (full opacity)
   static const IconifyIconData mediaPlayFailPrimary = IconifyIconData(IconData(
-    0xe088,
+    0xe089,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-play-fail` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData mediaPlayFailSecondary = IconifyIconData(IconData(
-    0xe088,
+    0xe089,
     fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-playlist` — primary layer (full opacity)
   static const IconifyIconData mediaPlaylistPrimary = IconifyIconData(IconData(
-    0xe089,
+    0xe08a,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-playlist` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData mediaPlaylistSecondary = IconifyIconData(IconData(
-    0xe089,
+    0xe08a,
     fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-playlist-add` — primary layer (full opacity)
   static const IconifyIconData mediaPlaylistAddPrimary = IconifyIconData(IconData(
-    0xe08a,
+    0xe08b,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-playlist-add` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData mediaPlaylistAddSecondary = IconifyIconData(IconData(
-    0xe08a,
+    0xe08b,
     fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-playlist-add-later` — primary layer (full opacity)
   static const IconifyIconData mediaPlaylistAddLaterPrimary = IconifyIconData(IconData(
-    0xe08b,
+    0xe08c,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-playlist-add-later` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData mediaPlaylistAddLaterSecondary = IconifyIconData(IconData(
-    0xe08b,
+    0xe08c,
     fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-playlist-add-next` — primary layer (full opacity)
   static const IconifyIconData mediaPlaylistAddNextPrimary = IconifyIconData(IconData(
-    0xe08c,
+    0xe08d,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-playlist-add-next` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData mediaPlaylistAddNextSecondary = IconifyIconData(IconData(
-    0xe08c,
+    0xe08d,
     fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-playlist-added` — primary layer (full opacity)
   static const IconifyIconData mediaPlaylistAddedPrimary = IconifyIconData(IconData(
-    0xe08d,
+    0xe08e,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-playlist-added` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData mediaPlaylistAddedSecondary = IconifyIconData(IconData(
-    0xe08d,
+    0xe08e,
     fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-playlist-remove` — primary layer (full opacity)
   static const IconifyIconData mediaPlaylistRemovePrimary = IconifyIconData(IconData(
-    0xe08e,
+    0xe08f,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-playlist-remove` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData mediaPlaylistRemoveSecondary = IconifyIconData(IconData(
-    0xe08e,
+    0xe08f,
     fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-previous`
   static const IconifyIconData mediaPrevious = IconifyIconData(IconData(
-    0xe08f,
+    0xe090,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-programguide`
   static const IconifyIconData mediaProgramguide = IconifyIconData(IconData(
-    0xe090,
+    0xe091,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-programguide-active`
   static const IconifyIconData mediaProgramguideActive = IconifyIconData(IconData(
-    0xe091,
+    0xe092,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-quaver`
   static const IconifyIconData mediaQuaver = IconifyIconData(IconData(
-    0xe092,
+    0xe093,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-quaver-active`
   static const IconifyIconData mediaQuaverActive = IconifyIconData(IconData(
-    0xe093,
+    0xe094,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-quaver-off`
   static const IconifyIconData mediaQuaverOff = IconifyIconData(IconData(
-    0xe094,
+    0xe095,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-rwd`
   static const IconifyIconData mediaRwd = IconifyIconData(IconData(
-    0xe095,
+    0xe096,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-rwd-15sec`
   static const IconifyIconData mediaRwd15sec = IconifyIconData(IconData(
-    0xe096,
+    0xe097,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-rwd-30sec`
   static const IconifyIconData mediaRwd30sec = IconifyIconData(IconData(
-    0xe097,
+    0xe098,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-rwd-5sec`
   static const IconifyIconData mediaRwd5sec = IconifyIconData(IconData(
-    0xe098,
+    0xe099,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-soundwave`
   static const IconifyIconData mediaSoundwave = IconifyIconData(IconData(
-    0xe099,
+    0xe09a,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-speed-0-8x`
   static const IconifyIconData mediaSpeed08x = IconifyIconData(IconData(
-    0xe09a,
+    0xe09b,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-speed-1-25x`
   static const IconifyIconData mediaSpeed125x = IconifyIconData(IconData(
-    0xe09b,
+    0xe09c,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-speed-1-5x`
   static const IconifyIconData mediaSpeed15x = IconifyIconData(IconData(
-    0xe09c,
+    0xe09d,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-speed-1x`
   static const IconifyIconData mediaSpeed1x = IconifyIconData(IconData(
-    0xe09d,
+    0xe09e,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-speed-2x`
   static const IconifyIconData mediaSpeed2x = IconifyIconData(IconData(
-    0xe09e,
+    0xe09f,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-stop`
   static const IconifyIconData mediaStop = IconifyIconData(IconData(
-    0xe09f,
+    0xe0a0,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-subtitles`
   static const IconifyIconData mediaSubtitles = IconifyIconData(IconData(
-    0xe0a0,
+    0xe0a1,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-subtitles-active`
   static const IconifyIconData mediaSubtitlesActive = IconifyIconData(IconData(
-    0xe0a1,
+    0xe0a2,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-subtitles-unavailable`
   static const IconifyIconData mediaSubtitlesUnavailable = IconifyIconData(IconData(
-    0xe0a2,
+    0xe0a3,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-theater` — primary layer (full opacity)
   static const IconifyIconData mediaTheaterPrimary = IconifyIconData(IconData(
-    0xe0a3,
+    0xe0a4,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-theater` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData mediaTheaterSecondary = IconifyIconData(IconData(
-    0xe0a3,
+    0xe0a4,
     fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-theater-active` — primary layer (full opacity)
   static const IconifyIconData mediaTheaterActivePrimary = IconifyIconData(IconData(
-    0xe0a4,
+    0xe0a5,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-theater-active` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData mediaTheaterActiveSecondary = IconifyIconData(IconData(
-    0xe0a4,
+    0xe0a5,
     fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-tilgjengelighet-geoblocked`
   static const IconifyIconData mediaTilgjengelighetGeoblocked = IconifyIconData(IconData(
-    0xe0a5,
+    0xe0a6,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-tilgjengelighet-ikkelengertilgjengelig`
   static const IconifyIconData mediaTilgjengelighetIkkelengertilgjengelig = IconifyIconData(IconData(
-    0xe0a6,
+    0xe0a7,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-tilgjengelighet-kommer`
   static const IconifyIconData mediaTilgjengelighetKommer = IconifyIconData(IconData(
-    0xe0a7,
+    0xe0a8,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-tilgjengelighet-snartutilgjengelig`
   static const IconifyIconData mediaTilgjengelighetSnartutilgjengelig = IconifyIconData(IconData(
-    0xe0a8,
+    0xe0a9,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-video`
   static const IconifyIconData mediaVideo = IconifyIconData(IconData(
-    0xe0a9,
+    0xe0aa,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-volume-1`
   static const IconifyIconData mediaVolume1 = IconifyIconData(IconData(
-    0xe0aa,
+    0xe0ab,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-volume-2`
   static const IconifyIconData mediaVolume2 = IconifyIconData(IconData(
-    0xe0ab,
+    0xe0ac,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-volume-3`
   static const IconifyIconData mediaVolume3 = IconifyIconData(IconData(
-    0xe0ac,
+    0xe0ad,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `media-volume-muted`
   static const IconifyIconData mediaVolumeMuted = IconifyIconData(IconData(
-    0xe0ad,
+    0xe0ae,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `mening`
   static const IconifyIconData mening = IconifyIconData(IconData(
-    0xe0ae,
+    0xe0af,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `minus`
   static const IconifyIconData minus = IconifyIconData(IconData(
-    0xe0af,
+    0xe0b0,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `more`
   static const IconifyIconData more = IconifyIconData(IconData(
-    0xe0b0,
+    0xe0b1,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `more-active`
   static const IconifyIconData moreActive = IconifyIconData(IconData(
-    0xe0b1,
+    0xe0b2,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `new-chat` — primary layer (full opacity)
   static const IconifyIconData newChatPrimary = IconifyIconData(IconData(
-    0xe0b2,
+    0xe0b3,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `new-chat` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData newChatSecondary = IconifyIconData(IconData(
-    0xe0b2,
+    0xe0b3,
     fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `note-1`
   static const IconifyIconData note1 = IconifyIconData(IconData(
-    0xe0b3,
+    0xe0b4,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `note-1-off`
   static const IconifyIconData note1Off = IconifyIconData(IconData(
-    0xe0b4,
+    0xe0b5,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `note-2`
   static const IconifyIconData note2 = IconifyIconData(IconData(
-    0xe0b5,
+    0xe0b6,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `offline`
   static const IconifyIconData offline = IconifyIconData(IconData(
-    0xe0b6,
+    0xe0b7,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `online`
   static const IconifyIconData online = IconifyIconData(IconData(
-    0xe0b7,
+    0xe0b8,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `open-in-new`
   static const IconifyIconData openInNew = IconifyIconData(IconData(
-    0xe0b8,
+    0xe0b9,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `person`
   static const IconifyIconData person = IconifyIconData(IconData(
-    0xe0b9,
+    0xe0ba,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `plus`
   static const IconifyIconData plus = IconifyIconData(IconData(
-    0xe0ba,
+    0xe0bb,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `poll`
   static const IconifyIconData poll = IconifyIconData(IconData(
-    0xe0bb,
+    0xe0bc,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `progress` — primary layer (full opacity)
   static const IconifyIconData progressPrimary = IconifyIconData(IconData(
-    0xe0bc,
+    0xe0bd,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `progress` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData progressSecondary = IconifyIconData(IconData(
-    0xe0bc,
+    0xe0bd,
     fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `quiz`
   static const IconifyIconData quiz = IconifyIconData(IconData(
-    0xe0bd,
+    0xe0be,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `radio-active`
   static const IconifyIconData radioActive = IconifyIconData(IconData(
-    0xe0be,
+    0xe0bf,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `refresh`
   static const IconifyIconData refresh = IconifyIconData(IconData(
-    0xe0bf,
+    0xe0c0,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `refresh-expressive`
   static const IconifyIconData refreshExpressive = IconifyIconData(IconData(
-    0xe0c0,
+    0xe0c1,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `reload`
   static const IconifyIconData reload = IconifyIconData(IconData(
-    0xe0c1,
+    0xe0c2,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `reload-expressive`
   static const IconifyIconData reloadExpressive = IconifyIconData(IconData(
-    0xe0c2,
+    0xe0c3,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `reorder`
   static const IconifyIconData reorder = IconifyIconData(IconData(
-    0xe0c3,
+    0xe0c4,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `rotate`
   static const IconifyIconData rotate = IconifyIconData(IconData(
-    0xe0c4,
+    0xe0c5,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `search`
   static const IconifyIconData search = IconifyIconData(IconData(
-    0xe0c5,
+    0xe0c6,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `search-active`
   static const IconifyIconData searchActive = IconifyIconData(IconData(
-    0xe0c6,
+    0xe0c7,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `settings`
   static const IconifyIconData settings = IconifyIconData(IconData(
-    0xe0c7,
+    0xe0c8,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `settings-active`
   static const IconifyIconData settingsActive = IconifyIconData(IconData(
-    0xe0c8,
+    0xe0c9,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `show`
   static const IconifyIconData show = IconifyIconData(IconData(
-    0xe0c9,
+    0xe0ca,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `sleep`
   static const IconifyIconData sleep = IconifyIconData(IconData(
-    0xe0ca,
+    0xe0cb,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `some-email`
   static const IconifyIconData someEmail = IconifyIconData(IconData(
-    0xe0cb,
+    0xe0cc,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `some-email-expressive`
   static const IconifyIconData someEmailExpressive = IconifyIconData(IconData(
-    0xe0cc,
+    0xe0cd,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `some-embed`
   static const IconifyIconData someEmbed = IconifyIconData(IconData(
-    0xe0cd,
+    0xe0ce,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `some-facebook`
   static const IconifyIconData someFacebook = IconifyIconData(IconData(
-    0xe0ce,
+    0xe0cf,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `some-google`
   static const IconifyIconData someGoogle = IconifyIconData(IconData(
-    0xe0cf,
+    0xe0d0,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `some-instagram`
   static const IconifyIconData someInstagram = IconifyIconData(IconData(
-    0xe0d0,
+    0xe0d1,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `some-pinterest`
   static const IconifyIconData somePinterest = IconifyIconData(IconData(
-    0xe0d1,
+    0xe0d2,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `some-share`
   static const IconifyIconData someShare = IconifyIconData(IconData(
-    0xe0d2,
+    0xe0d3,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `some-share-ios`
   static const IconifyIconData someShareIos = IconifyIconData(IconData(
-    0xe0d3,
+    0xe0d4,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `some-snapchat`
   static const IconifyIconData someSnapchat = IconifyIconData(IconData(
-    0xe0d4,
+    0xe0d5,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `some-tommelned`
   static const IconifyIconData someTommelned = IconifyIconData(IconData(
-    0xe0d5,
+    0xe0d6,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `some-tommelned-active`
   static const IconifyIconData someTommelnedActive = IconifyIconData(IconData(
-    0xe0d6,
+    0xe0d7,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `some-tommelopp`
   static const IconifyIconData someTommelopp = IconifyIconData(IconData(
-    0xe0d7,
+    0xe0d8,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `some-tommelopp-active`
   static const IconifyIconData someTommeloppActive = IconifyIconData(IconData(
-    0xe0d8,
+    0xe0d9,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `some-twitter`
   static const IconifyIconData someTwitter = IconifyIconData(IconData(
-    0xe0d9,
+    0xe0da,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `some-youtube` — primary layer (full opacity)
   static const IconifyIconData someYoutubePrimary = IconifyIconData(IconData(
-    0xe0da,
+    0xe0db,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `some-youtube` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData someYoutubeSecondary = IconifyIconData(IconData(
-    0xe0da,
+    0xe0db,
     fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `spinner`
   static const IconifyIconData spinner = IconifyIconData(IconData(
-    0xe0db,
+    0xe0dc,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `star`
   static const IconifyIconData star = IconifyIconData(IconData(
-    0xe0dc,
+    0xe0dd,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `star-active`
   static const IconifyIconData starActive = IconifyIconData(IconData(
-    0xe0dd,
+    0xe0de,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `super-emoji-poop-angry`
   static const IconifyIconData superEmojiPoopAngry = IconifyIconData(IconData(
-    0xe0de,
+    0xe0df,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `tilgjengelighet`
   static const IconifyIconData tilgjengelighet = IconifyIconData(IconData(
-    0xe0df,
+    0xe0e0,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `tilgjengelighet-horbarhet`
   static const IconifyIconData tilgjengelighetHorbarhet = IconifyIconData(IconData(
-    0xe0e0,
+    0xe0e1,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `tilgjengelighet-lydtekst`
   static const IconifyIconData tilgjengelighetLydtekst = IconifyIconData(IconData(
-    0xe0e1,
+    0xe0e2,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `tilgjengelighet-synstolking`
   static const IconifyIconData tilgjengelighetSynstolking = IconifyIconData(IconData(
-    0xe0e2,
+    0xe0e3,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `tilgjengelighet-tegnspraak`
   static const IconifyIconData tilgjengelighetTegnspraak = IconifyIconData(IconData(
-    0xe0e3,
+    0xe0e4,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `trash`
   static const IconifyIconData trash = IconifyIconData(IconData(
-    0xe0e4,
+    0xe0e5,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `trash-active`
   static const IconifyIconData trashActive = IconifyIconData(IconData(
-    0xe0e5,
+    0xe0e6,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `unlock`
   static const IconifyIconData unlock = IconifyIconData(IconData(
-    0xe0e6,
+    0xe0e7,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `unlock-active`
   static const IconifyIconData unlockActive = IconifyIconData(IconData(
-    0xe0e7,
+    0xe0e8,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `upload`
   static const IconifyIconData upload = IconifyIconData(IconData(
-    0xe0e8,
+    0xe0e9,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `user-avatar`
   static const IconifyIconData userAvatar = IconifyIconData(IconData(
-    0xe0e9,
+    0xe0ea,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `user-avatar-expressive`
   static const IconifyIconData userAvatarExpressive = IconifyIconData(IconData(
-    0xe0ea,
+    0xe0eb,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `user-loggedin`
   static const IconifyIconData userLoggedin = IconifyIconData(IconData(
-    0xe0eb,
+    0xe0ec,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `user-loggedin-active`
   static const IconifyIconData userLoggedinActive = IconifyIconData(IconData(
-    0xe0ec,
+    0xe0ed,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `user-notloggedin`
   static const IconifyIconData userNotloggedin = IconifyIconData(IconData(
-    0xe0ed,
+    0xe0ee,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `user-notloggedin-active`
   static const IconifyIconData userNotloggedinActive = IconifyIconData(IconData(
-    0xe0ee,
+    0xe0ef,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
   /// `warning`
   static const IconifyIconData warning = IconifyIconData(IconData(
-    0xe0ef,
+    0xe0f0,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));

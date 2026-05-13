@@ -827,477 +827,477 @@
       "identifier": "noticeOn"
     },
     "notice-push": {
-      "codepoint": 57598,
+      "codepoint": 57504,
       "fontFamily": "Fe",
       "identifier": "noticePush"
     },
     "octpus": {
-      "codepoint": 57504,
+      "codepoint": 57505,
       "fontFamily": "Fe",
       "identifier": "octpus"
     },
     "open-mouth": {
-      "codepoint": 57505,
+      "codepoint": 57506,
       "fontFamily": "Fe",
       "identifier": "openMouth"
     },
     "palette": {
-      "codepoint": 57506,
+      "codepoint": 57507,
       "fontFamily": "Fe",
       "identifier": "palette"
     },
     "paper-plane": {
-      "codepoint": 57507,
+      "codepoint": 57508,
       "fontFamily": "Fe",
       "identifier": "paperPlane"
     },
     "pause": {
-      "codepoint": 57508,
+      "codepoint": 57509,
       "fontFamily": "Fe",
       "identifier": "pause"
     },
     "pencil": {
-      "codepoint": 57509,
+      "codepoint": 57510,
       "fontFamily": "Fe",
       "identifier": "pencil"
     },
     "phone": {
-      "codepoint": 57510,
+      "codepoint": 57511,
       "fontFamily": "Fe",
       "identifier": "phone"
     },
     "picture": {
-      "codepoint": 57511,
+      "codepoint": 57512,
       "fontFamily": "Fe",
       "identifier": "picture"
     },
     "picture-square": {
-      "codepoint": 57512,
+      "codepoint": 57513,
       "fontFamily": "Fe",
       "identifier": "pictureSquare"
     },
     "pie-chart": {
-      "codepoint": 57513,
+      "codepoint": 57514,
       "fontFamily": "Fe",
       "identifier": "pieChart"
     },
     "pinterest": {
-      "codepoint": 57514,
+      "codepoint": 57515,
       "fontFamily": "Fe",
       "identifier": "pinterest"
     },
     "pizza": {
-      "codepoint": 57515,
+      "codepoint": 57516,
       "fontFamily": "Fe",
       "identifier": "pizza"
     },
     "play": {
-      "codepoint": 57516,
+      "codepoint": 57517,
       "fontFamily": "Fe",
       "identifier": "play"
     },
     "plug": {
-      "codepoint": 57517,
+      "codepoint": 57518,
       "fontFamily": "Fe",
       "identifier": "plug"
     },
     "plus": {
-      "codepoint": 57518,
+      "codepoint": 57519,
       "fontFamily": "Fe",
       "identifier": "plus"
     },
     "pocket": {
-      "codepoint": 57519,
+      "codepoint": 57520,
       "fontFamily": "Fe",
       "identifier": "pocket"
     },
     "pot": {
-      "codepoint": 57520,
+      "codepoint": 57521,
       "fontFamily": "Fe",
       "identifier": "pot"
     },
     "print": {
-      "codepoint": 57521,
+      "codepoint": 57522,
       "fontFamily": "Fe",
       "identifier": "print"
     },
     "prototype": {
-      "codepoint": 57522,
+      "codepoint": 57523,
       "fontFamily": "Fe",
       "identifier": "prototype"
     },
     "question": {
-      "codepoint": 57523,
+      "codepoint": 57524,
       "fontFamily": "Fe",
       "identifier": "question"
     },
     "quote-left": {
-      "codepoint": 57524,
+      "codepoint": 57525,
       "fontFamily": "Fe",
       "identifier": "quoteLeft"
     },
     "quote-right": {
-      "codepoint": 57525,
+      "codepoint": 57526,
       "fontFamily": "Fe",
       "identifier": "quoteRight"
     },
     "rage": {
-      "codepoint": 57526,
+      "codepoint": 57527,
       "fontFamily": "Fe",
       "identifier": "rage"
     },
     "random": {
-      "codepoint": 57527,
+      "codepoint": 57528,
       "fontFamily": "Fe",
       "identifier": "random"
     },
     "remove-cart": {
-      "codepoint": 57528,
+      "codepoint": 57529,
       "fontFamily": "Fe",
       "identifier": "removeCart"
     },
     "rice-cracker": {
-      "codepoint": 57529,
+      "codepoint": 57530,
       "fontFamily": "Fe",
       "identifier": "riceCracker"
     },
     "rocket": {
-      "codepoint": 57530,
+      "codepoint": 57531,
       "fontFamily": "Fe",
       "identifier": "rocket"
     },
     "scale": {
-      "codepoint": 57531,
+      "codepoint": 57532,
       "fontFamily": "Fe",
       "identifier": "scale"
     },
     "search": {
-      "codepoint": 57532,
+      "codepoint": 57533,
       "fontFamily": "Fe",
       "identifier": "search"
     },
     "search-minus": {
-      "codepoint": 57533,
+      "codepoint": 57534,
       "fontFamily": "Fe",
       "identifier": "searchMinus"
     },
     "search-plus": {
-      "codepoint": 57534,
+      "codepoint": 57535,
       "fontFamily": "Fe",
       "identifier": "searchPlus"
     },
     "share": {
-      "codepoint": 57535,
+      "codepoint": 57536,
       "fontFamily": "Fe",
       "identifier": "share"
     },
     "shield": {
-      "codepoint": 57536,
+      "codepoint": 57537,
       "fontFamily": "Fe",
       "identifier": "shield"
     },
     "shopping-bag": {
-      "codepoint": 57537,
+      "codepoint": 57538,
       "fontFamily": "Fe",
       "identifier": "shoppingBag"
     },
     "sitemap": {
-      "codepoint": 57538,
+      "codepoint": 57539,
       "fontFamily": "Fe",
       "identifier": "sitemap"
     },
     "smile": {
-      "codepoint": 57539,
+      "codepoint": 57540,
       "fontFamily": "Fe",
       "identifier": "smile"
     },
     "smile-alt": {
-      "codepoint": 57540,
+      "codepoint": 57541,
       "fontFamily": "Fe",
       "identifier": "smileAlt"
     },
     "smile-heart": {
-      "codepoint": 57541,
+      "codepoint": 57542,
       "fontFamily": "Fe",
       "identifier": "smileHeart"
     },
     "smile-plus": {
-      "codepoint": 57542,
+      "codepoint": 57543,
       "fontFamily": "Fe",
       "identifier": "smilePlus"
     },
     "speaker": {
-      "codepoint": 57543,
+      "codepoint": 57544,
       "fontFamily": "Fe",
       "identifier": "speaker"
     },
     "squid": {
-      "codepoint": 57544,
+      "codepoint": 57545,
       "fontFamily": "Fe",
       "identifier": "squid"
     },
     "star": {
-      "codepoint": 57545,
+      "codepoint": 57546,
       "fontFamily": "Fe",
       "identifier": "star"
     },
     "star-o": {
-      "codepoint": 57546,
+      "codepoint": 57547,
       "fontFamily": "Fe",
       "identifier": "starO"
     },
     "step-backward": {
-      "codepoint": 57547,
+      "codepoint": 57548,
       "fontFamily": "Fe",
       "identifier": "stepBackward"
     },
     "step-forward": {
-      "codepoint": 57548,
+      "codepoint": 57549,
       "fontFamily": "Fe",
       "identifier": "stepForward"
     },
     "stop": {
-      "codepoint": 57549,
+      "codepoint": 57550,
       "fontFamily": "Fe",
       "identifier": "stop"
     },
     "subtract": {
-      "codepoint": 57550,
+      "codepoint": 57551,
       "fontFamily": "Fe",
       "identifier": "subtract"
     },
     "sunny-o": {
-      "codepoint": 57551,
+      "codepoint": 57552,
       "fontFamily": "Fe",
       "identifier": "sunnyO"
     },
     "sunrise": {
-      "codepoint": 57552,
+      "codepoint": 57553,
       "fontFamily": "Fe",
       "identifier": "sunrise"
     },
     "sync": {
-      "codepoint": 57553,
+      "codepoint": 57554,
       "fontFamily": "Fe",
       "identifier": "sync_"
     },
     "table": {
-      "codepoint": 57554,
+      "codepoint": 57555,
       "fontFamily": "Fe",
       "identifier": "table"
     },
     "tablet": {
-      "codepoint": 57555,
+      "codepoint": 57556,
       "fontFamily": "Fe",
       "identifier": "tablet"
     },
     "tag": {
-      "codepoint": 57556,
+      "codepoint": 57557,
       "fontFamily": "Fe",
       "identifier": "tag"
     },
     "target": {
-      "codepoint": 57557,
+      "codepoint": 57558,
       "fontFamily": "Fe",
       "identifier": "target"
     },
     "taxi": {
-      "codepoint": 57558,
+      "codepoint": 57559,
       "fontFamily": "Fe",
       "identifier": "taxi"
     },
     "terminal": {
-      "codepoint": 57559,
+      "codepoint": 57560,
       "fontFamily": "Fe",
       "identifier": "terminal"
     },
     "text-align-center": {
-      "codepoint": 57560,
+      "codepoint": 57561,
       "fontFamily": "Fe",
       "identifier": "textAlignCenter"
     },
     "text-align-justify": {
-      "codepoint": 57561,
+      "codepoint": 57562,
       "fontFamily": "Fe",
       "identifier": "textAlignJustify"
     },
     "text-align-left": {
-      "codepoint": 57562,
+      "codepoint": 57563,
       "fontFamily": "Fe",
       "identifier": "textAlignLeft"
     },
     "text-align-right": {
-      "codepoint": 57563,
+      "codepoint": 57564,
       "fontFamily": "Fe",
       "identifier": "textAlignRight"
     },
     "text-size": {
-      "codepoint": 57564,
+      "codepoint": 57565,
       "fontFamily": "Fe",
       "identifier": "textSize"
     },
     "ticket": {
-      "codepoint": 57565,
+      "codepoint": 57566,
       "fontFamily": "Fe",
       "identifier": "ticket"
     },
     "tiled": {
-      "codepoint": 57566,
+      "codepoint": 57567,
       "fontFamily": "Fe",
       "identifier": "tiled"
     },
     "timeline": {
-      "codepoint": 57567,
+      "codepoint": 57568,
       "fontFamily": "Fe",
       "identifier": "timeline"
     },
     "tired": {
-      "codepoint": 57568,
+      "codepoint": 57569,
       "fontFamily": "Fe",
       "identifier": "tired"
     },
     "train": {
-      "codepoint": 57569,
+      "codepoint": 57570,
       "fontFamily": "Fe",
       "identifier": "train"
     },
     "trash": {
-      "codepoint": 57570,
+      "codepoint": 57571,
       "fontFamily": "Fe",
       "identifier": "trash"
     },
     "trophy": {
-      "codepoint": 57571,
+      "codepoint": 57572,
       "fontFamily": "Fe",
       "identifier": "trophy"
     },
     "truck": {
-      "codepoint": 57572,
+      "codepoint": 57573,
       "fontFamily": "Fe",
       "identifier": "truck"
     },
     "tumbler-glass": {
-      "codepoint": 57573,
+      "codepoint": 57574,
       "fontFamily": "Fe",
       "identifier": "tumblerGlass"
     },
     "twitter": {
-      "codepoint": 57574,
+      "codepoint": 57575,
       "fontFamily": "Fe",
       "identifier": "twitter"
     },
     "umbrella": {
-      "codepoint": 57575,
+      "codepoint": 57576,
       "fontFamily": "Fe",
       "identifier": "umbrella"
     },
     "underline": {
-      "codepoint": 57576,
+      "codepoint": 57577,
       "fontFamily": "Fe",
       "identifier": "underline"
     },
     "union": {
-      "codepoint": 57577,
+      "codepoint": 57578,
       "fontFamily": "Fe",
       "identifier": "union"
     },
     "unlock": {
-      "codepoint": 57578,
+      "codepoint": 57579,
       "fontFamily": "Fe",
       "identifier": "unlock"
     },
     "upload": {
-      "codepoint": 57579,
+      "codepoint": 57580,
       "fontFamily": "Fe",
       "identifier": "upload"
     },
     "usb": {
-      "codepoint": 57580,
+      "codepoint": 57581,
       "fontFamily": "Fe",
       "identifier": "usb"
     },
     "user": {
-      "codepoint": 57581,
+      "codepoint": 57582,
       "fontFamily": "Fe",
       "identifier": "user"
     },
     "user-minus": {
-      "codepoint": 57582,
+      "codepoint": 57583,
       "fontFamily": "Fe",
       "identifier": "userMinus"
     },
     "user-plus": {
-      "codepoint": 57583,
+      "codepoint": 57584,
       "fontFamily": "Fe",
       "identifier": "userPlus"
     },
     "users": {
-      "codepoint": 57584,
+      "codepoint": 57585,
       "fontFamily": "Fe",
       "identifier": "users"
     },
     "vector": {
-      "codepoint": 57585,
+      "codepoint": 57586,
       "fontFamily": "Fe",
       "identifier": "vector"
     },
     "video": {
-      "codepoint": 57586,
+      "codepoint": 57587,
       "fontFamily": "Fe",
       "identifier": "video"
     },
     "vr": {
-      "codepoint": 57587,
+      "codepoint": 57588,
       "fontFamily": "Fe",
       "identifier": "vr"
     },
     "wallet": {
-      "codepoint": 57588,
+      "codepoint": 57589,
       "fontFamily": "Fe",
       "identifier": "wallet"
     },
     "warning": {
-      "codepoint": 57589,
+      "codepoint": 57590,
       "fontFamily": "Fe",
       "identifier": "warning"
     },
     "watch": {
-      "codepoint": 57590,
+      "codepoint": 57591,
       "fontFamily": "Fe",
       "identifier": "watch"
     },
     "watch-alt": {
-      "codepoint": 57591,
+      "codepoint": 57592,
       "fontFamily": "Fe",
       "identifier": "watchAlt"
     },
     "wine-glass": {
-      "codepoint": 57592,
+      "codepoint": 57593,
       "fontFamily": "Fe",
       "identifier": "wineGlass"
     },
     "wordpress": {
-      "codepoint": 57593,
+      "codepoint": 57594,
       "fontFamily": "Fe",
       "identifier": "wordpress"
     },
     "wordpress-alt": {
-      "codepoint": 57594,
+      "codepoint": 57595,
       "fontFamily": "Fe",
       "identifier": "wordpressAlt"
     },
     "wrench": {
-      "codepoint": 57595,
+      "codepoint": 57596,
       "fontFamily": "Fe",
       "identifier": "wrench"
     },
     "yaki-dango": {
-      "codepoint": 57596,
+      "codepoint": 57597,
       "fontFamily": "Fe",
       "identifier": "yakiDango"
     },
     "youtube": {
-      "codepoint": 57597,
+      "codepoint": 57598,
       "fontFamily": "Fe",
       "identifier": "youtube"
     }

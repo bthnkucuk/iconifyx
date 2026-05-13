@@ -267,152 +267,152 @@
       "identifier": "listNumbered"
     },
     "loader": {
-      "codepoint": 57421,
+      "codepoint": 57392,
       "fontFamily": "Codex",
       "identifier": "loader"
     },
     "marker": {
-      "codepoint": 57392,
+      "codepoint": 57393,
       "fontFamily": "Codex",
       "identifier": "marker"
     },
     "menu": {
-      "codepoint": 57393,
+      "codepoint": 57394,
       "fontFamily": "Codex",
       "identifier": "menu"
     },
     "menu-small": {
-      "codepoint": 57394,
+      "codepoint": 57395,
       "fontFamily": "Codex",
       "identifier": "menuSmall"
     },
     "picture": {
-      "codepoint": 57395,
+      "codepoint": 57396,
       "fontFamily": "Codex",
       "identifier": "picture"
     },
     "play": {
-      "codepoint": 57396,
+      "codepoint": 57397,
       "fontFamily": "Codex",
       "identifier": "play"
     },
     "plus": {
-      "codepoint": 57397,
+      "codepoint": 57398,
       "fontFamily": "Codex",
       "identifier": "plus"
     },
     "question": {
-      "codepoint": 57398,
+      "codepoint": 57399,
       "fontFamily": "Codex",
       "identifier": "question"
     },
     "quote": {
-      "codepoint": 57399,
+      "codepoint": 57400,
       "fontFamily": "Codex",
       "identifier": "quote"
     },
     "redo": {
-      "codepoint": 57400,
+      "codepoint": 57401,
       "fontFamily": "Codex",
       "identifier": "redo"
     },
     "remove-background": {
-      "codepoint": 57401,
+      "codepoint": 57402,
       "fontFamily": "Codex",
       "identifier": "removeBackground"
     },
     "replace": {
-      "codepoint": 57402,
+      "codepoint": 57403,
       "fontFamily": "Codex",
       "identifier": "replace"
     },
     "save": {
-      "codepoint": 57403,
+      "codepoint": 57404,
       "fontFamily": "Codex",
       "identifier": "save"
     },
     "search": {
-      "codepoint": 57404,
+      "codepoint": 57405,
       "fontFamily": "Codex",
       "identifier": "search"
     },
     "star": {
-      "codepoint": 57405,
+      "codepoint": 57406,
       "fontFamily": "Codex",
       "identifier": "star"
     },
     "stretch": {
-      "codepoint": 57406,
+      "codepoint": 57407,
       "fontFamily": "Codex",
       "identifier": "stretch"
     },
     "strikethrough": {
-      "codepoint": 57407,
+      "codepoint": 57408,
       "fontFamily": "Codex",
       "identifier": "strikethrough"
     },
     "table": {
-      "codepoint": 57408,
+      "codepoint": 57409,
       "fontFamily": "Codex",
       "identifier": "table"
     },
     "table-with-headings": {
-      "codepoint": 57409,
+      "codepoint": 57410,
       "fontFamily": "Codex",
       "identifier": "tableWithHeadings"
     },
     "table-without-headings": {
-      "codepoint": 57410,
+      "codepoint": 57411,
       "fontFamily": "Codex",
       "identifier": "tableWithoutHeadings"
     },
     "text": {
-      "codepoint": 57411,
+      "codepoint": 57412,
       "fontFamily": "Codex",
       "identifier": "text"
     },
     "translate": {
-      "codepoint": 57412,
+      "codepoint": 57413,
       "fontFamily": "Codex",
       "identifier": "translate"
     },
     "trash": {
-      "codepoint": 57413,
+      "codepoint": 57414,
       "fontFamily": "Codex",
       "identifier": "trash"
     },
     "twitter": {
-      "codepoint": 57414,
+      "codepoint": 57415,
       "fontFamily": "Codex",
       "identifier": "twitter"
     },
     "underline": {
-      "codepoint": 57415,
+      "codepoint": 57416,
       "fontFamily": "Codex",
       "identifier": "underline"
     },
     "undo": {
-      "codepoint": 57416,
+      "codepoint": 57417,
       "fontFamily": "Codex",
       "identifier": "undo"
     },
     "unlink": {
-      "codepoint": 57417,
+      "codepoint": 57418,
       "fontFamily": "Codex",
       "identifier": "unlink"
     },
     "user": {
-      "codepoint": 57418,
+      "codepoint": 57419,
       "fontFamily": "Codex",
       "identifier": "user"
     },
     "users-group": {
-      "codepoint": 57419,
+      "codepoint": 57420,
       "fontFamily": "Codex",
       "identifier": "usersGroup"
     },
     "warning": {
-      "codepoint": 57420,
+      "codepoint": 57421,
       "fontFamily": "Codex",
       "identifier": "warning"
     }

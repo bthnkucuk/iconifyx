@@ -1012,1323 +1012,1323 @@ class BitcoinIconsIcons {
 
   /// `graph-outline`
   static const IconifyIconData graphOutline = IconifyIconData(IconData(
-    0xe149,
+    0xe08d,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `grid-filled`
   static const IconifyIconData gridFilled = IconifyIconData(IconData(
-    0xe08d,
+    0xe08e,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `grid-outline`
   static const IconifyIconData gridOutline = IconifyIconData(IconData(
-    0xe08e,
+    0xe08f,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `hashes-filled`
   static const IconifyIconData hashesFilled = IconifyIconData(IconData(
-    0xe08f,
+    0xe090,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `hashes-outline`
   static const IconifyIconData hashesOutline = IconifyIconData(IconData(
-    0xe090,
+    0xe091,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `hat-and-glasses-filled`
   static const IconifyIconData hatAndGlassesFilled = IconifyIconData(IconData(
-    0xe091,
+    0xe092,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `hat-and-glasses-outline`
   static const IconifyIconData hatAndGlassesOutline = IconifyIconData(IconData(
-    0xe092,
+    0xe093,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `hidden-filled`
   static const IconifyIconData hiddenFilled = IconifyIconData(IconData(
-    0xe093,
+    0xe094,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `hidden-outline`
   static const IconifyIconData hiddenOutline = IconifyIconData(IconData(
-    0xe094,
+    0xe095,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `home-filled`
   static const IconifyIconData homeFilled = IconifyIconData(IconData(
-    0xe095,
+    0xe096,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `home-outline`
   static const IconifyIconData homeOutline = IconifyIconData(IconData(
-    0xe096,
+    0xe097,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `info-circle-filled`
   static const IconifyIconData infoCircleFilled = IconifyIconData(IconData(
-    0xe097,
+    0xe098,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `info-circle-outline`
   static const IconifyIconData infoCircleOutline = IconifyIconData(IconData(
-    0xe098,
+    0xe099,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `info-filled`
   static const IconifyIconData infoFilled = IconifyIconData(IconData(
-    0xe099,
+    0xe09a,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `info-outline`
   static const IconifyIconData infoOutline = IconifyIconData(IconData(
-    0xe09a,
+    0xe09b,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `invoice-filled`
   static const IconifyIconData invoiceFilled = IconifyIconData(IconData(
-    0xe09b,
+    0xe09c,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `invoice-outline`
   static const IconifyIconData invoiceOutline = IconifyIconData(IconData(
-    0xe09c,
+    0xe09d,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `iou-filled`
   static const IconifyIconData iouFilled = IconifyIconData(IconData(
-    0xe09d,
+    0xe09e,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `iou-outline`
   static const IconifyIconData iouOutline = IconifyIconData(IconData(
-    0xe09e,
+    0xe09f,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `key-filled`
   static const IconifyIconData keyFilled = IconifyIconData(IconData(
-    0xe09f,
+    0xe0a0,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `key-outline`
   static const IconifyIconData keyOutline = IconifyIconData(IconData(
-    0xe0a0,
+    0xe0a1,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `keyboard-filled`
   static const IconifyIconData keyboardFilled = IconifyIconData(IconData(
-    0xe0a1,
+    0xe0a2,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `keyboard-outline`
   static const IconifyIconData keyboardOutline = IconifyIconData(IconData(
-    0xe0a2,
+    0xe0a3,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `lightning-circle-filled`
   static const IconifyIconData lightningCircleFilled = IconifyIconData(IconData(
-    0xe0a3,
+    0xe0a4,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `lightning-circle-outline`
   static const IconifyIconData lightningCircleOutline = IconifyIconData(IconData(
-    0xe0a4,
+    0xe0a5,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `lightning-filled`
   static const IconifyIconData lightningFilled = IconifyIconData(IconData(
-    0xe0a5,
+    0xe0a6,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `lightning-outline`
   static const IconifyIconData lightningOutline = IconifyIconData(IconData(
-    0xe0a6,
+    0xe0a7,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `link-filled`
   static const IconifyIconData linkFilled = IconifyIconData(IconData(
-    0xe0a7,
+    0xe0a8,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `link-outline`
   static const IconifyIconData linkOutline = IconifyIconData(IconData(
-    0xe0a8,
+    0xe0a9,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `linux-terminal-filled`
   static const IconifyIconData linuxTerminalFilled = IconifyIconData(IconData(
-    0xe0a9,
+    0xe0aa,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `linux-terminal-outline`
   static const IconifyIconData linuxTerminalOutline = IconifyIconData(IconData(
-    0xe0aa,
+    0xe0ab,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `lock-filled`
   static const IconifyIconData lockFilled = IconifyIconData(IconData(
-    0xe0ab,
+    0xe0ac,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `lock-outline`
   static const IconifyIconData lockOutline = IconifyIconData(IconData(
-    0xe0ac,
+    0xe0ad,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `magic-wand-filled`
   static const IconifyIconData magicWandFilled = IconifyIconData(IconData(
-    0xe0ad,
+    0xe0ae,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `magic-wand-outline`
   static const IconifyIconData magicWandOutline = IconifyIconData(IconData(
-    0xe0ae,
+    0xe0af,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `menu-filled`
   static const IconifyIconData menuFilled = IconifyIconData(IconData(
-    0xe0af,
+    0xe0b0,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `menu-outline`
   static const IconifyIconData menuOutline = IconifyIconData(IconData(
-    0xe0b0,
+    0xe0b1,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `message-filled`
   static const IconifyIconData messageFilled = IconifyIconData(IconData(
-    0xe0b1,
+    0xe0b2,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `message-outline`
   static const IconifyIconData messageOutline = IconifyIconData(IconData(
-    0xe0b2,
+    0xe0b3,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `milk-filled`
   static const IconifyIconData milkFilled = IconifyIconData(IconData(
-    0xe0b3,
+    0xe0b4,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `milk-outline`
   static const IconifyIconData milkOutline = IconifyIconData(IconData(
-    0xe0b4,
+    0xe0b5,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `miner-filled`
   static const IconifyIconData minerFilled = IconifyIconData(IconData(
-    0xe0b5,
+    0xe0b6,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `miner-outline`
   static const IconifyIconData minerOutline = IconifyIconData(IconData(
-    0xe0b6,
+    0xe0b7,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `mining-device-filled`
   static const IconifyIconData miningDeviceFilled = IconifyIconData(IconData(
-    0xe0b7,
+    0xe0b8,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `mining-device-outline`
   static const IconifyIconData miningDeviceOutline = IconifyIconData(IconData(
-    0xe0b8,
+    0xe0b9,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `mining-filled`
   static const IconifyIconData miningFilled = IconifyIconData(IconData(
-    0xe0b9,
+    0xe0ba,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `mining-outline`
   static const IconifyIconData miningOutline = IconifyIconData(IconData(
-    0xe0ba,
+    0xe0bb,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `mining-pool-filled`
   static const IconifyIconData miningPoolFilled = IconifyIconData(IconData(
-    0xe0bb,
+    0xe0bc,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `mining-pool-outline`
   static const IconifyIconData miningPoolOutline = IconifyIconData(IconData(
-    0xe0bc,
+    0xe0bd,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `minus-filled`
   static const IconifyIconData minusFilled = IconifyIconData(IconData(
-    0xe0bd,
+    0xe0be,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `minus-outline`
   static const IconifyIconData minusOutline = IconifyIconData(IconData(
-    0xe0be,
+    0xe0bf,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `mixed-filled`
   static const IconifyIconData mixedFilled = IconifyIconData(IconData(
-    0xe0bf,
+    0xe0c0,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `mixed-outline`
   static const IconifyIconData mixedOutline = IconifyIconData(IconData(
-    0xe0c0,
+    0xe0c1,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `mnemonic-filled`
   static const IconifyIconData mnemonicFilled = IconifyIconData(IconData(
-    0xe0c1,
+    0xe0c2,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `mnemonic-outline`
   static const IconifyIconData mnemonicOutline = IconifyIconData(IconData(
-    0xe0c2,
+    0xe0c3,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `moon-filled`
   static const IconifyIconData moonFilled = IconifyIconData(IconData(
-    0xe0c3,
+    0xe0c4,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `moon-outline`
   static const IconifyIconData moonOutline = IconifyIconData(IconData(
-    0xe0c4,
+    0xe0c5,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `nfc-filled`
   static const IconifyIconData nfcFilled = IconifyIconData(IconData(
-    0xe0c5,
+    0xe0c6,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `nfc-outline`
   static const IconifyIconData nfcOutline = IconifyIconData(IconData(
-    0xe0c6,
+    0xe0c7,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `no-dollars-filled`
   static const IconifyIconData noDollarsFilled = IconifyIconData(IconData(
-    0xe0c7,
+    0xe0c8,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `no-dollars-outline`
   static const IconifyIconData noDollarsOutline = IconifyIconData(IconData(
-    0xe0c8,
+    0xe0c9,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `node-0-connections-filled`
   static const IconifyIconData node0ConnectionsFilled = IconifyIconData(IconData(
-    0xe0c9,
+    0xe0ca,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `node-0-connections-outline`
   static const IconifyIconData node0ConnectionsOutline = IconifyIconData(IconData(
-    0xe0ca,
+    0xe0cb,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `node-1-connection-filled`
   static const IconifyIconData node1ConnectionFilled = IconifyIconData(IconData(
-    0xe0cb,
+    0xe0cc,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `node-1-connection-outline`
   static const IconifyIconData node1ConnectionOutline = IconifyIconData(IconData(
-    0xe0cc,
+    0xe0cd,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `node-2-connections-filled`
   static const IconifyIconData node2ConnectionsFilled = IconifyIconData(IconData(
-    0xe0cd,
+    0xe0ce,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `node-2-connections-outline`
   static const IconifyIconData node2ConnectionsOutline = IconifyIconData(IconData(
-    0xe0ce,
+    0xe0cf,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `node-3-connections-filled`
   static const IconifyIconData node3ConnectionsFilled = IconifyIconData(IconData(
-    0xe0cf,
+    0xe0d0,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `node-3-connections-outline`
   static const IconifyIconData node3ConnectionsOutline = IconifyIconData(IconData(
-    0xe0d0,
+    0xe0d1,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `node-filled`
   static const IconifyIconData nodeFilled = IconifyIconData(IconData(
-    0xe0d1,
+    0xe0d2,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `node-hardware-filled`
   static const IconifyIconData nodeHardwareFilled = IconifyIconData(IconData(
-    0xe0d2,
+    0xe0d3,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `node-hardware-outline`
   static const IconifyIconData nodeHardwareOutline = IconifyIconData(IconData(
-    0xe0d3,
+    0xe0d4,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `node-outline`
   static const IconifyIconData nodeOutline = IconifyIconData(IconData(
-    0xe0d4,
+    0xe0d5,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `pantheon-filled`
   static const IconifyIconData pantheonFilled = IconifyIconData(IconData(
-    0xe0d5,
+    0xe0d6,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `pantheon-outline`
   static const IconifyIconData pantheonOutline = IconifyIconData(IconData(
-    0xe0d6,
+    0xe0d7,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `paper-bitcoin-filled`
   static const IconifyIconData paperBitcoinFilled = IconifyIconData(IconData(
-    0xe0d7,
+    0xe0d8,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `paper-bitcoin-outline`
   static const IconifyIconData paperBitcoinOutline = IconifyIconData(IconData(
-    0xe0d8,
+    0xe0d9,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `password-filled`
   static const IconifyIconData passwordFilled = IconifyIconData(IconData(
-    0xe0d9,
+    0xe0da,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `password-outline`
   static const IconifyIconData passwordOutline = IconifyIconData(IconData(
-    0xe0da,
+    0xe0db,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `photo-filled`
   static const IconifyIconData photoFilled = IconifyIconData(IconData(
-    0xe0db,
+    0xe0dc,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `photo-outline`
   static const IconifyIconData photoOutline = IconifyIconData(IconData(
-    0xe0dc,
+    0xe0dd,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `pie-chart-filled`
   static const IconifyIconData pieChartFilled = IconifyIconData(IconData(
-    0xe0dd,
+    0xe0de,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `pie-chart-outline`
   static const IconifyIconData pieChartOutline = IconifyIconData(IconData(
-    0xe0de,
+    0xe0df,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `plus-filled`
   static const IconifyIconData plusFilled = IconifyIconData(IconData(
-    0xe0df,
+    0xe0e0,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `plus-outline`
   static const IconifyIconData plusOutline = IconifyIconData(IconData(
-    0xe0e0,
+    0xe0e1,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `podcast-filled`
   static const IconifyIconData podcastFilled = IconifyIconData(IconData(
-    0xe0e1,
+    0xe0e2,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `podcast-outline`
   static const IconifyIconData podcastOutline = IconifyIconData(IconData(
-    0xe0e2,
+    0xe0e3,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `point-of-sale-filled`
   static const IconifyIconData pointOfSaleFilled = IconifyIconData(IconData(
-    0xe0e3,
+    0xe0e4,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `point-of-sale-outline`
   static const IconifyIconData pointOfSaleOutline = IconifyIconData(IconData(
-    0xe0e4,
+    0xe0e5,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `power-filled`
   static const IconifyIconData powerFilled = IconifyIconData(IconData(
-    0xe0e5,
+    0xe0e6,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `power-outline`
   static const IconifyIconData powerOutline = IconifyIconData(IconData(
-    0xe0e6,
+    0xe0e7,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `printer-filled`
   static const IconifyIconData printerFilled = IconifyIconData(IconData(
-    0xe0e7,
+    0xe0e8,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `printer-outline`
   static const IconifyIconData printerOutline = IconifyIconData(IconData(
-    0xe0e8,
+    0xe0e9,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `proxy-filled`
   static const IconifyIconData proxyFilled = IconifyIconData(IconData(
-    0xe0e9,
+    0xe0ea,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `proxy-outline`
   static const IconifyIconData proxyOutline = IconifyIconData(IconData(
-    0xe0ea,
+    0xe0eb,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `qr-code-filled`
   static const IconifyIconData qrCodeFilled = IconifyIconData(IconData(
-    0xe0eb,
+    0xe0ec,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `qr-code-outline`
   static const IconifyIconData qrCodeOutline = IconifyIconData(IconData(
-    0xe0ec,
+    0xe0ed,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `question-circle-filled`
   static const IconifyIconData questionCircleFilled = IconifyIconData(IconData(
-    0xe0ed,
+    0xe0ee,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `question-circle-outline`
   static const IconifyIconData questionCircleOutline = IconifyIconData(IconData(
-    0xe0ee,
+    0xe0ef,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `question-filled`
   static const IconifyIconData questionFilled = IconifyIconData(IconData(
-    0xe0ef,
+    0xe0f0,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `question-outline`
   static const IconifyIconData questionOutline = IconifyIconData(IconData(
-    0xe0f0,
+    0xe0f1,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `receipt-filled`
   static const IconifyIconData receiptFilled = IconifyIconData(IconData(
-    0xe0f1,
+    0xe0f2,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `receipt-outline`
   static const IconifyIconData receiptOutline = IconifyIconData(IconData(
-    0xe0f2,
+    0xe0f3,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `receive-filled`
   static const IconifyIconData receiveFilled = IconifyIconData(IconData(
-    0xe0f3,
+    0xe0f4,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `receive-limit-filled`
   static const IconifyIconData receiveLimitFilled = IconifyIconData(IconData(
-    0xe0f4,
+    0xe0f5,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `receive-limit-outline`
   static const IconifyIconData receiveLimitOutline = IconifyIconData(IconData(
-    0xe0f5,
+    0xe0f6,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `receive-outline`
   static const IconifyIconData receiveOutline = IconifyIconData(IconData(
-    0xe0f6,
+    0xe0f7,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `refresh-filled`
   static const IconifyIconData refreshFilled = IconifyIconData(IconData(
-    0xe0f7,
+    0xe0f8,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `refresh-outline`
   static const IconifyIconData refreshOutline = IconifyIconData(IconData(
-    0xe0f8,
+    0xe0f9,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `relay-filled`
   static const IconifyIconData relayFilled = IconifyIconData(IconData(
-    0xe0f9,
+    0xe0fa,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `relay-outline`
   static const IconifyIconData relayOutline = IconifyIconData(IconData(
-    0xe0fa,
+    0xe0fb,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `rocket-filled`
   static const IconifyIconData rocketFilled = IconifyIconData(IconData(
-    0xe0fb,
+    0xe0fc,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `rocket-outline`
   static const IconifyIconData rocketOutline = IconifyIconData(IconData(
-    0xe0fc,
+    0xe0fd,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `safe-filled`
   static const IconifyIconData safeFilled = IconifyIconData(IconData(
-    0xe0fd,
+    0xe0fe,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `safe-outline`
   static const IconifyIconData safeOutline = IconifyIconData(IconData(
-    0xe0fe,
+    0xe0ff,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `satoshi-v1-filled`
   static const IconifyIconData satoshiV1Filled = IconifyIconData(IconData(
-    0xe0ff,
+    0xe100,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `satoshi-v1-outline`
   static const IconifyIconData satoshiV1Outline = IconifyIconData(IconData(
-    0xe100,
+    0xe101,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `satoshi-v2-filled`
   static const IconifyIconData satoshiV2Filled = IconifyIconData(IconData(
-    0xe101,
+    0xe102,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `satoshi-v2-outline`
   static const IconifyIconData satoshiV2Outline = IconifyIconData(IconData(
-    0xe102,
+    0xe103,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `satoshi-v3-filled`
   static const IconifyIconData satoshiV3Filled = IconifyIconData(IconData(
-    0xe103,
+    0xe104,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `satoshi-v3-outline`
   static const IconifyIconData satoshiV3Outline = IconifyIconData(IconData(
-    0xe104,
+    0xe105,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `scan-filled`
   static const IconifyIconData scanFilled = IconifyIconData(IconData(
-    0xe105,
+    0xe106,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `scan-outline`
   static const IconifyIconData scanOutline = IconifyIconData(IconData(
-    0xe106,
+    0xe107,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `sd-card-filled`
   static const IconifyIconData sdCardFilled = IconifyIconData(IconData(
-    0xe107,
+    0xe108,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `sd-card-outline`
   static const IconifyIconData sdCardOutline = IconifyIconData(IconData(
-    0xe108,
+    0xe109,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `search-filled`
   static const IconifyIconData searchFilled = IconifyIconData(IconData(
-    0xe109,
+    0xe10a,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `search-outline`
   static const IconifyIconData searchOutline = IconifyIconData(IconData(
-    0xe10a,
+    0xe10b,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `send-filled`
   static const IconifyIconData sendFilled = IconifyIconData(IconData(
-    0xe10b,
+    0xe10c,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `send-limit-filled`
   static const IconifyIconData sendLimitFilled = IconifyIconData(IconData(
-    0xe10c,
+    0xe10d,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `send-limit-outline`
   static const IconifyIconData sendLimitOutline = IconifyIconData(IconData(
-    0xe10d,
+    0xe10e,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `send-outline`
   static const IconifyIconData sendOutline = IconifyIconData(IconData(
-    0xe10e,
+    0xe10f,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `share-filled`
   static const IconifyIconData shareFilled = IconifyIconData(IconData(
-    0xe10f,
+    0xe110,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `share-outline`
   static const IconifyIconData shareOutline = IconifyIconData(IconData(
-    0xe110,
+    0xe111,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `shared-wallet-filled`
   static const IconifyIconData sharedWalletFilled = IconifyIconData(IconData(
-    0xe111,
+    0xe112,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `shared-wallet-outline`
   static const IconifyIconData sharedWalletOutline = IconifyIconData(IconData(
-    0xe112,
+    0xe113,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `shield-filled`
   static const IconifyIconData shieldFilled = IconifyIconData(IconData(
-    0xe113,
+    0xe114,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `shield-outline`
   static const IconifyIconData shieldOutline = IconifyIconData(IconData(
-    0xe114,
+    0xe115,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `sign-filled`
   static const IconifyIconData signFilled = IconifyIconData(IconData(
-    0xe115,
+    0xe116,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `sign-outline`
   static const IconifyIconData signOutline = IconifyIconData(IconData(
-    0xe116,
+    0xe117,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `siren-filled`
   static const IconifyIconData sirenFilled = IconifyIconData(IconData(
-    0xe117,
+    0xe118,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `siren-outline`
   static const IconifyIconData sirenOutline = IconifyIconData(IconData(
-    0xe118,
+    0xe119,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `smartcard-filled`
   static const IconifyIconData smartcardFilled = IconifyIconData(IconData(
-    0xe119,
+    0xe11a,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `smartcard-outline`
   static const IconifyIconData smartcardOutline = IconifyIconData(IconData(
-    0xe11a,
+    0xe11b,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `snowflake-filled`
   static const IconifyIconData snowflakeFilled = IconifyIconData(IconData(
-    0xe11b,
+    0xe11c,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `snowflake-outline`
   static const IconifyIconData snowflakeOutline = IconifyIconData(IconData(
-    0xe11c,
+    0xe11d,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `sofa-filled`
   static const IconifyIconData sofaFilled = IconifyIconData(IconData(
-    0xe11d,
+    0xe11e,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `sofa-outline`
   static const IconifyIconData sofaOutline = IconifyIconData(IconData(
-    0xe11e,
+    0xe11f,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `split-filled`
   static const IconifyIconData splitFilled = IconifyIconData(IconData(
-    0xe11f,
+    0xe120,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `split-outline`
   static const IconifyIconData splitOutline = IconifyIconData(IconData(
-    0xe120,
+    0xe121,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `star-filled`
   static const IconifyIconData starFilled = IconifyIconData(IconData(
-    0xe121,
+    0xe122,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `star-outline`
   static const IconifyIconData starOutline = IconifyIconData(IconData(
-    0xe122,
+    0xe123,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `sun-filled`
   static const IconifyIconData sunFilled = IconifyIconData(IconData(
-    0xe123,
+    0xe124,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `sun-outline`
   static const IconifyIconData sunOutline = IconifyIconData(IconData(
-    0xe124,
+    0xe125,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `tag-filled`
   static const IconifyIconData tagFilled = IconifyIconData(IconData(
-    0xe125,
+    0xe126,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `tag-outline`
   static const IconifyIconData tagOutline = IconifyIconData(IconData(
-    0xe126,
+    0xe127,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `tip-jar-filled`
   static const IconifyIconData tipJarFilled = IconifyIconData(IconData(
-    0xe127,
+    0xe128,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `tip-jar-outline`
   static const IconifyIconData tipJarOutline = IconifyIconData(IconData(
-    0xe128,
+    0xe129,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `transactions-filled`
   static const IconifyIconData transactionsFilled = IconifyIconData(IconData(
-    0xe129,
+    0xe12a,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `transactions-outline`
   static const IconifyIconData transactionsOutline = IconifyIconData(IconData(
-    0xe12a,
+    0xe12b,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `transfer-filled`
   static const IconifyIconData transferFilled = IconifyIconData(IconData(
-    0xe12b,
+    0xe12c,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `transfer-outline`
   static const IconifyIconData transferOutline = IconifyIconData(IconData(
-    0xe12c,
+    0xe12d,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `trash-filled`
   static const IconifyIconData trashFilled = IconifyIconData(IconData(
-    0xe12d,
+    0xe12e,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `trash-outline`
   static const IconifyIconData trashOutline = IconifyIconData(IconData(
-    0xe12e,
+    0xe12f,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `tree-structure-filled`
   static const IconifyIconData treeStructureFilled = IconifyIconData(IconData(
-    0xe12f,
+    0xe130,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `tree-structure-outline`
   static const IconifyIconData treeStructureOutline = IconifyIconData(IconData(
-    0xe130,
+    0xe131,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `two-keys-filled`
   static const IconifyIconData twoKeysFilled = IconifyIconData(IconData(
-    0xe131,
+    0xe132,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `two-keys-outline`
   static const IconifyIconData twoKeysOutline = IconifyIconData(IconData(
-    0xe132,
+    0xe133,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `unlock-filled`
   static const IconifyIconData unlockFilled = IconifyIconData(IconData(
-    0xe133,
+    0xe134,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `unlock-outline`
   static const IconifyIconData unlockOutline = IconifyIconData(IconData(
-    0xe134,
+    0xe135,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `unmixed-filled`
   static const IconifyIconData unmixedFilled = IconifyIconData(IconData(
-    0xe135,
+    0xe136,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `unmixed-outline`
   static const IconifyIconData unmixedOutline = IconifyIconData(IconData(
-    0xe136,
+    0xe137,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `usb-filled`
   static const IconifyIconData usbFilled = IconifyIconData(IconData(
-    0xe137,
+    0xe138,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `usb-outline`
   static const IconifyIconData usbOutline = IconifyIconData(IconData(
-    0xe138,
+    0xe139,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `verify-filled`
   static const IconifyIconData verifyFilled = IconifyIconData(IconData(
-    0xe139,
+    0xe13a,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `verify-outline`
   static const IconifyIconData verifyOutline = IconifyIconData(IconData(
-    0xe13a,
+    0xe13b,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `visible-filled`
   static const IconifyIconData visibleFilled = IconifyIconData(IconData(
-    0xe13b,
+    0xe13c,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `visible-outline`
   static const IconifyIconData visibleOutline = IconifyIconData(IconData(
-    0xe13c,
+    0xe13d,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `volume-1-filled`
   static const IconifyIconData volume1Filled = IconifyIconData(IconData(
-    0xe13d,
+    0xe13e,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `volume-1-outline`
   static const IconifyIconData volume1Outline = IconifyIconData(IconData(
-    0xe13e,
+    0xe13f,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `volume-2-filled`
   static const IconifyIconData volume2Filled = IconifyIconData(IconData(
-    0xe13f,
+    0xe140,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `volume-2-outline`
   static const IconifyIconData volume2Outline = IconifyIconData(IconData(
-    0xe140,
+    0xe141,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `volume-max-filled`
   static const IconifyIconData volumeMaxFilled = IconifyIconData(IconData(
-    0xe141,
+    0xe142,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `volume-max-outline`
   static const IconifyIconData volumeMaxOutline = IconifyIconData(IconData(
-    0xe142,
+    0xe143,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `volume-mute-filled`
   static const IconifyIconData volumeMuteFilled = IconifyIconData(IconData(
-    0xe143,
+    0xe144,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `volume-mute-outline`
   static const IconifyIconData volumeMuteOutline = IconifyIconData(IconData(
-    0xe144,
+    0xe145,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `wallet-filled`
   static const IconifyIconData walletFilled = IconifyIconData(IconData(
-    0xe145,
+    0xe146,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `wallet-outline`
   static const IconifyIconData walletOutline = IconifyIconData(IconData(
-    0xe146,
+    0xe147,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `water-bucket-filled`
   static const IconifyIconData waterBucketFilled = IconifyIconData(IconData(
-    0xe147,
+    0xe148,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));
 
   /// `water-bucket-outline`
   static const IconifyIconData waterBucketOutline = IconifyIconData(IconData(
-    0xe148,
+    0xe149,
     fontFamily: 'BitcoinIcons',
     fontPackage: 'iconifyx_bitcoin_icons',
   ));

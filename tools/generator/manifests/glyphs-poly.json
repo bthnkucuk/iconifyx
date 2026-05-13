@@ -32,3334 +32,3334 @@
   ],
   "icons": {
     "accessible": {
-      "codepoint": 57715,
+      "codepoint": 57344,
       "fontFamily": "GlyphsPoly",
       "identifier": "accessible"
     },
     "activity": {
-      "codepoint": 57716,
+      "codepoint": 57345,
       "fontFamily": "GlyphsPoly",
       "identifier": "activity"
     },
     "activity-1": {
-      "codepoint": 57717,
+      "codepoint": 57346,
       "fontFamily": "GlyphsPoly",
       "identifier": "activity1"
     },
     "adjust": {
-      "codepoint": 57344,
+      "codepoint": 57347,
       "fontFamily": "GlyphsPoly",
       "identifier": "adjust"
     },
     "adjust-1": {
-      "codepoint": 57345,
+      "codepoint": 57348,
       "fontFamily": "GlyphsPoly",
       "identifier": "adjust1"
     },
     "alarm-clock": {
-      "codepoint": 57718,
+      "codepoint": 57349,
       "fontFamily": "GlyphsPoly",
       "identifier": "alarmClock"
     },
     "alarm-exclamation": {
-      "codepoint": 57719,
+      "codepoint": 57350,
       "fontFamily": "GlyphsPoly",
       "identifier": "alarmExclamation"
     },
     "alarm-minus": {
-      "codepoint": 57720,
+      "codepoint": 57351,
       "fontFamily": "GlyphsPoly",
       "identifier": "alarmMinus"
     },
     "alarm-plus": {
-      "codepoint": 57346,
+      "codepoint": 57352,
       "fontFamily": "GlyphsPoly",
       "identifier": "alarmPlus"
     },
     "alarm-snooze": {
-      "codepoint": 57347,
+      "codepoint": 57353,
       "fontFamily": "GlyphsPoly",
       "identifier": "alarmSnooze"
     },
     "album-collection": {
-      "codepoint": 57721,
+      "codepoint": 57354,
       "fontFamily": "GlyphsPoly",
       "identifier": "albumCollection"
     },
     "align-center": {
-      "codepoint": 57348,
+      "codepoint": 57355,
       "fontFamily": "GlyphsPoly",
       "identifier": "alignCenter"
     },
     "align-items-center": {
-      "codepoint": 57722,
+      "codepoint": 57356,
       "fontFamily": "GlyphsPoly",
       "identifier": "alignItemsCenter"
     },
     "align-justify": {
-      "codepoint": 57349,
+      "codepoint": 57357,
       "fontFamily": "GlyphsPoly",
       "identifier": "alignJustify"
     },
     "align-side": {
-      "codepoint": 57350,
+      "codepoint": 57358,
       "fontFamily": "GlyphsPoly",
       "identifier": "alignSide"
     },
     "align-slash": {
-      "codepoint": 57351,
+      "codepoint": 57359,
       "fontFamily": "GlyphsPoly",
       "identifier": "alignSlash"
     },
     "ambulance": {
-      "codepoint": 57723,
+      "codepoint": 57360,
       "fontFamily": "GlyphsPoly",
       "identifier": "ambulance"
     },
     "ampersand-1": {
-      "codepoint": 57352,
+      "codepoint": 57361,
       "fontFamily": "GlyphsPoly",
       "identifier": "ampersand1"
     },
     "ampersand-2": {
-      "codepoint": 57724,
+      "codepoint": 57362,
       "fontFamily": "GlyphsPoly",
       "identifier": "ampersand2"
     },
     "anchor": {
-      "codepoint": 57353,
+      "codepoint": 57363,
       "fontFamily": "GlyphsPoly",
       "identifier": "anchor"
     },
     "angle": {
-      "codepoint": 57354,
+      "codepoint": 57364,
       "fontFamily": "GlyphsPoly",
       "identifier": "angle"
     },
     "angle-double": {
-      "codepoint": 57725,
+      "codepoint": 57365,
       "fontFamily": "GlyphsPoly",
       "identifier": "angleDouble"
     },
     "angry": {
-      "codepoint": 57355,
+      "codepoint": 57366,
       "fontFamily": "GlyphsPoly",
       "identifier": "angry"
     },
     "aperture": {
-      "codepoint": 57726,
+      "codepoint": 57367,
       "fontFamily": "GlyphsPoly",
       "identifier": "aperture"
     },
     "archive": {
-      "codepoint": 57727,
+      "codepoint": 57368,
       "fontFamily": "GlyphsPoly",
       "identifier": "archive"
     },
     "arrow": {
-      "codepoint": 57356,
+      "codepoint": 57369,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrow"
     },
     "arrow-circle": {
-      "codepoint": 57357,
+      "codepoint": 57370,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowCircle"
     },
     "arrow-external": {
-      "codepoint": 57358,
+      "codepoint": 57371,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowExternal"
     },
     "arrow-level": {
-      "codepoint": 57359,
+      "codepoint": 57372,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowLevel"
     },
     "arrow-line-end": {
-      "codepoint": 57360,
+      "codepoint": 57373,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowLineEnd"
     },
     "arrow-line-start": {
-      "codepoint": 57361,
+      "codepoint": 57374,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowLineStart"
     },
     "arrow-long": {
-      "codepoint": 57362,
+      "codepoint": 57375,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowLong"
     },
     "arrow-round": {
-      "codepoint": 57363,
+      "codepoint": 57376,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowRound"
     },
     "arrow-solid": {
-      "codepoint": 57364,
+      "codepoint": 57377,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowSolid"
     },
     "arrow-solid-bracket-end": {
-      "codepoint": 57365,
+      "codepoint": 57378,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowSolidBracketEnd"
     },
     "arrow-solid-bracket-start": {
-      "codepoint": 57366,
+      "codepoint": 57379,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowSolidBracketStart"
     },
     "arrow-solid-circle": {
-      "codepoint": 57367,
+      "codepoint": 57380,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowSolidCircle"
     },
     "arrow-solid-curve": {
-      "codepoint": 57368,
+      "codepoint": 57381,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowSolidCurve"
     },
     "arrow-solid-curve-double": {
-      "codepoint": 57369,
+      "codepoint": 57382,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowSolidCurveDouble"
     },
     "arrow-solid-line-end": {
-      "codepoint": 57370,
+      "codepoint": 57383,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowSolidLineEnd"
     },
     "arrow-solid-line-start": {
-      "codepoint": 57371,
+      "codepoint": 57384,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowSolidLineStart"
     },
     "arrow-turn": {
-      "codepoint": 57372,
+      "codepoint": 57385,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowTurn"
     },
     "arrow-u-turn": {
-      "codepoint": 57373,
+      "codepoint": 57386,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowUTurn"
     },
     "arrows-compress-duo": {
-      "codepoint": 57374,
+      "codepoint": 57387,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowsCompressDuo"
     },
     "arrows-compress-quad": {
-      "codepoint": 57375,
+      "codepoint": 57388,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowsCompressQuad"
     },
     "arrows-cross": {
-      "codepoint": 57376,
+      "codepoint": 57389,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowsCross"
     },
     "arrows-exchange": {
-      "codepoint": 57377,
+      "codepoint": 57390,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowsExchange"
     },
     "arrows-expand-duo": {
-      "codepoint": 57378,
+      "codepoint": 57391,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowsExpandDuo"
     },
     "arrows-expand-quad": {
-      "codepoint": 57379,
+      "codepoint": 57392,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowsExpandQuad"
     },
     "arrows-round": {
-      "codepoint": 57380,
+      "codepoint": 57393,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowsRound"
     },
     "arrows-route": {
-      "codepoint": 57381,
+      "codepoint": 57394,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowsRoute"
     },
     "arrows-split": {
-      "codepoint": 57382,
+      "codepoint": 57395,
       "fontFamily": "GlyphsPoly",
       "identifier": "arrowsSplit"
     },
     "asterisk": {
-      "codepoint": 57728,
+      "codepoint": 57396,
       "fontFamily": "GlyphsPoly",
       "identifier": "asterisk"
     },
     "b": {
-      "codepoint": 57383,
+      "codepoint": 57397,
       "fontFamily": "GlyphsPoly",
       "identifier": "b"
     },
     "baby": {
-      "codepoint": 57729,
+      "codepoint": 57398,
       "fontFamily": "GlyphsPoly",
       "identifier": "baby"
     },
     "bandage": {
-      "codepoint": 57730,
+      "codepoint": 57399,
       "fontFamily": "GlyphsPoly",
       "identifier": "bandage"
     },
     "bandage-1": {
-      "codepoint": 57731,
+      "codepoint": 57400,
       "fontFamily": "GlyphsPoly",
       "identifier": "bandage1"
     },
     "barcode": {
-      "codepoint": 57384,
+      "codepoint": 57401,
       "fontFamily": "GlyphsPoly",
       "identifier": "barcode"
     },
     "barcode-read": {
-      "codepoint": 57385,
+      "codepoint": 57402,
       "fontFamily": "GlyphsPoly",
       "identifier": "barcodeRead"
     },
     "barcode-scan": {
-      "codepoint": 57732,
+      "codepoint": 57403,
       "fontFamily": "GlyphsPoly",
       "identifier": "barcodeScan"
     },
     "bars": {
-      "codepoint": 57733,
+      "codepoint": 57404,
       "fontFamily": "GlyphsPoly",
       "identifier": "bars"
     },
     "bars-offset": {
-      "codepoint": 57734,
+      "codepoint": 57405,
       "fontFamily": "GlyphsPoly",
       "identifier": "barsOffset"
     },
     "bars-offset-1": {
-      "codepoint": 57735,
+      "codepoint": 57406,
       "fontFamily": "GlyphsPoly",
       "identifier": "barsOffset1"
     },
     "bars-offset-2": {
-      "codepoint": 57736,
+      "codepoint": 57407,
       "fontFamily": "GlyphsPoly",
       "identifier": "barsOffset2"
     },
     "baseball": {
-      "codepoint": 57737,
+      "codepoint": 57408,
       "fontFamily": "GlyphsPoly",
       "identifier": "baseball"
     },
     "baseball-1": {
-      "codepoint": 57738,
+      "codepoint": 57409,
       "fontFamily": "GlyphsPoly",
       "identifier": "baseball1"
     },
     "baseball-bat": {
-      "codepoint": 57739,
+      "codepoint": 57410,
       "fontFamily": "GlyphsPoly",
       "identifier": "baseballBat"
     },
     "basket": {
-      "codepoint": 57386,
+      "codepoint": 57411,
       "fontFamily": "GlyphsPoly",
       "identifier": "basket"
     },
     "battery": {
-      "codepoint": 57387,
+      "codepoint": 57412,
       "fontFamily": "GlyphsPoly",
       "identifier": "battery"
     },
     "battery-0": {
-      "codepoint": 57388,
+      "codepoint": 57413,
       "fontFamily": "GlyphsPoly",
       "identifier": "battery0"
     },
     "battery-1": {
-      "codepoint": 57389,
+      "codepoint": 57414,
       "fontFamily": "GlyphsPoly",
       "identifier": "battery1"
     },
     "battery-100": {
-      "codepoint": 57390,
+      "codepoint": 57415,
       "fontFamily": "GlyphsPoly",
       "identifier": "battery100"
     },
     "battery-2": {
-      "codepoint": 57391,
+      "codepoint": 57416,
       "fontFamily": "GlyphsPoly",
       "identifier": "battery2"
     },
     "battery-25": {
-      "codepoint": 57392,
+      "codepoint": 57417,
       "fontFamily": "GlyphsPoly",
       "identifier": "battery25"
     },
     "battery-3": {
-      "codepoint": 57393,
+      "codepoint": 57418,
       "fontFamily": "GlyphsPoly",
       "identifier": "battery3"
     },
     "battery-4": {
-      "codepoint": 57394,
+      "codepoint": 57419,
       "fontFamily": "GlyphsPoly",
       "identifier": "battery4"
     },
     "battery-50": {
-      "codepoint": 57395,
+      "codepoint": 57420,
       "fontFamily": "GlyphsPoly",
       "identifier": "battery50"
     },
     "battery-75": {
-      "codepoint": 57396,
+      "codepoint": 57421,
       "fontFamily": "GlyphsPoly",
       "identifier": "battery75"
     },
     "battery-bolt": {
-      "codepoint": 57397,
+      "codepoint": 57422,
       "fontFamily": "GlyphsPoly",
       "identifier": "batteryBolt"
     },
     "battery-car": {
-      "codepoint": 57740,
+      "codepoint": 57423,
       "fontFamily": "GlyphsPoly",
       "identifier": "batteryCar"
     },
     "battery-charge": {
-      "codepoint": 57398,
+      "codepoint": 57424,
       "fontFamily": "GlyphsPoly",
       "identifier": "batteryCharge"
     },
     "battery-warn": {
-      "codepoint": 57399,
+      "codepoint": 57425,
       "fontFamily": "GlyphsPoly",
       "identifier": "batteryWarn"
     },
     "bed": {
-      "codepoint": 57400,
+      "codepoint": 57426,
       "fontFamily": "GlyphsPoly",
       "identifier": "bed"
     },
     "bed-bunk": {
-      "codepoint": 57401,
+      "codepoint": 57427,
       "fontFamily": "GlyphsPoly",
       "identifier": "bedBunk"
     },
     "bed-empty": {
-      "codepoint": 57402,
+      "codepoint": 57428,
       "fontFamily": "GlyphsPoly",
       "identifier": "bedEmpty"
     },
     "bench": {
-      "codepoint": 57741,
+      "codepoint": 57429,
       "fontFamily": "GlyphsPoly",
       "identifier": "bench"
     },
     "bezier-curve": {
-      "codepoint": 57742,
+      "codepoint": 57430,
       "fontFamily": "GlyphsPoly",
       "identifier": "bezierCurve"
     },
     "bezier-diamond": {
-      "codepoint": 57743,
+      "codepoint": 57431,
       "fontFamily": "GlyphsPoly",
       "identifier": "bezierDiamond"
     },
     "bezier-hexagon": {
-      "codepoint": 57744,
+      "codepoint": 57432,
       "fontFamily": "GlyphsPoly",
       "identifier": "bezierHexagon"
     },
     "bezier-pentagon": {
-      "codepoint": 57745,
+      "codepoint": 57433,
       "fontFamily": "GlyphsPoly",
       "identifier": "bezierPentagon"
     },
     "bezier-square": {
-      "codepoint": 57746,
+      "codepoint": 57434,
       "fontFamily": "GlyphsPoly",
       "identifier": "bezierSquare"
     },
     "bezier-triangle": {
-      "codepoint": 57747,
+      "codepoint": 57435,
       "fontFamily": "GlyphsPoly",
       "identifier": "bezierTriangle"
     },
     "binoculars": {
-      "codepoint": 57748,
+      "codepoint": 57436,
       "fontFamily": "GlyphsPoly",
       "identifier": "binoculars"
     },
     "binoculars-1": {
-      "codepoint": 57749,
+      "codepoint": 57437,
       "fontFamily": "GlyphsPoly",
       "identifier": "binoculars1"
     },
     "bold": {
-      "codepoint": 57403,
+      "codepoint": 57438,
       "fontFamily": "GlyphsPoly",
       "identifier": "bold"
     },
     "bolt": {
-      "codepoint": 57404,
+      "codepoint": 57439,
       "fontFamily": "GlyphsPoly",
       "identifier": "bolt"
     },
     "bolt-1": {
-      "codepoint": 57405,
+      "codepoint": 57440,
       "fontFamily": "GlyphsPoly",
       "identifier": "bolt1"
     },
     "book-atlas": {
-      "codepoint": 57750,
+      "codepoint": 57441,
       "fontFamily": "GlyphsPoly",
       "identifier": "bookAtlas"
     },
     "book-side": {
-      "codepoint": 57751,
+      "codepoint": 57442,
       "fontFamily": "GlyphsPoly",
       "identifier": "bookSide"
     },
     "book-spine": {
-      "codepoint": 57406,
+      "codepoint": 57443,
       "fontFamily": "GlyphsPoly",
       "identifier": "bookSpine"
     },
     "books": {
-      "codepoint": 57752,
+      "codepoint": 57444,
       "fontFamily": "GlyphsPoly",
       "identifier": "books"
     },
     "border": {
-      "codepoint": 57407,
+      "codepoint": 57445,
       "fontFamily": "GlyphsPoly",
       "identifier": "border"
     },
     "border-all": {
-      "codepoint": 57408,
+      "codepoint": 57446,
       "fontFamily": "GlyphsPoly",
       "identifier": "borderAll"
     },
     "border-center": {
-      "codepoint": 57409,
+      "codepoint": 57447,
       "fontFamily": "GlyphsPoly",
       "identifier": "borderCenter"
     },
     "border-inner": {
-      "codepoint": 57410,
+      "codepoint": 57448,
       "fontFamily": "GlyphsPoly",
       "identifier": "borderInner"
     },
     "border-none": {
-      "codepoint": 57411,
+      "codepoint": 57449,
       "fontFamily": "GlyphsPoly",
       "identifier": "borderNone"
     },
     "border-outer": {
-      "codepoint": 57412,
+      "codepoint": 57450,
       "fontFamily": "GlyphsPoly",
       "identifier": "borderOuter"
     },
     "border-style": {
-      "codepoint": 57413,
+      "codepoint": 57451,
       "fontFamily": "GlyphsPoly",
       "identifier": "borderStyle"
     },
     "box-1": {
-      "codepoint": 57753,
+      "codepoint": 57452,
       "fontFamily": "GlyphsPoly",
       "identifier": "box1"
     },
     "box-layout": {
-      "codepoint": 57414,
+      "codepoint": 57453,
       "fontFamily": "GlyphsPoly",
       "identifier": "boxLayout"
     },
     "box-layout-2": {
-      "codepoint": 57415,
+      "codepoint": 57454,
       "fontFamily": "GlyphsPoly",
       "identifier": "boxLayout2"
     },
     "box-layout-3": {
-      "codepoint": 57416,
+      "codepoint": 57455,
       "fontFamily": "GlyphsPoly",
       "identifier": "boxLayout3"
     },
     "box-layout-4": {
-      "codepoint": 57417,
+      "codepoint": 57456,
       "fontFamily": "GlyphsPoly",
       "identifier": "boxLayout4"
     },
     "brain": {
-      "codepoint": 57754,
+      "codepoint": 57457,
       "fontFamily": "GlyphsPoly",
       "identifier": "brain"
     },
     "briefcase": {
-      "codepoint": 57755,
+      "codepoint": 57458,
       "fontFamily": "GlyphsPoly",
       "identifier": "briefcase"
     },
     "briefcase-1": {
-      "codepoint": 57756,
+      "codepoint": 57459,
       "fontFamily": "GlyphsPoly",
       "identifier": "briefcase1"
     },
     "briefcase-medical": {
-      "codepoint": 57757,
+      "codepoint": 57460,
       "fontFamily": "GlyphsPoly",
       "identifier": "briefcaseMedical"
     },
     "building": {
-      "codepoint": 57418,
+      "codepoint": 57461,
       "fontFamily": "GlyphsPoly",
       "identifier": "building"
     },
     "building-2": {
-      "codepoint": 57758,
+      "codepoint": 57462,
       "fontFamily": "GlyphsPoly",
       "identifier": "building2"
     },
     "building-3": {
-      "codepoint": 57759,
+      "codepoint": 57463,
       "fontFamily": "GlyphsPoly",
       "identifier": "building3"
     },
     "building-hospital": {
-      "codepoint": 57760,
+      "codepoint": 57464,
       "fontFamily": "GlyphsPoly",
       "identifier": "buildingHospital"
     },
     "calculator": {
-      "codepoint": 57761,
+      "codepoint": 57465,
       "fontFamily": "GlyphsPoly",
       "identifier": "calculator"
     },
     "calendar": {
-      "codepoint": 57762,
+      "codepoint": 57466,
       "fontFamily": "GlyphsPoly",
       "identifier": "calendar"
     },
     "camera": {
-      "codepoint": 57419,
+      "codepoint": 57467,
       "fontFamily": "GlyphsPoly",
       "identifier": "camera"
     },
     "camp": {
-      "codepoint": 57763,
+      "codepoint": 57468,
       "fontFamily": "GlyphsPoly",
       "identifier": "camp"
     },
     "canoe": {
-      "codepoint": 57764,
+      "codepoint": 57469,
       "fontFamily": "GlyphsPoly",
       "identifier": "canoe"
     },
     "canoe-1": {
-      "codepoint": 57765,
+      "codepoint": 57470,
       "fontFamily": "GlyphsPoly",
       "identifier": "canoe1"
     },
     "car": {
-      "codepoint": 57766,
+      "codepoint": 57471,
       "fontFamily": "GlyphsPoly",
       "identifier": "car"
     },
     "car-bump": {
-      "codepoint": 57767,
+      "codepoint": 57472,
       "fontFamily": "GlyphsPoly",
       "identifier": "carBump"
     },
     "car-crash": {
-      "codepoint": 57768,
+      "codepoint": 57473,
       "fontFamily": "GlyphsPoly",
       "identifier": "carCrash"
     },
     "car-side": {
-      "codepoint": 57769,
+      "codepoint": 57474,
       "fontFamily": "GlyphsPoly",
       "identifier": "carSide"
     },
     "car-tilt": {
-      "codepoint": 57770,
+      "codepoint": 57475,
       "fontFamily": "GlyphsPoly",
       "identifier": "carTilt"
     },
     "car-wash": {
-      "codepoint": 57771,
+      "codepoint": 57476,
       "fontFamily": "GlyphsPoly",
       "identifier": "carWash"
     },
     "caret": {
-      "codepoint": 57420,
+      "codepoint": 57477,
       "fontFamily": "GlyphsPoly",
       "identifier": "caret"
     },
     "caret-circle": {
-      "codepoint": 57421,
+      "codepoint": 57478,
       "fontFamily": "GlyphsPoly",
       "identifier": "caretCircle"
     },
     "celsius": {
-      "codepoint": 57772,
+      "codepoint": 57479,
       "fontFamily": "GlyphsPoly",
       "identifier": "celsius"
     },
     "center-focus-strong": {
-      "codepoint": 57422,
+      "codepoint": 57480,
       "fontFamily": "GlyphsPoly",
       "identifier": "centerFocusStrong"
     },
     "center-focus-weak": {
-      "codepoint": 57423,
+      "codepoint": 57481,
       "fontFamily": "GlyphsPoly",
       "identifier": "centerFocusWeak"
     },
     "certificate-scroll": {
-      "codepoint": 57773,
+      "codepoint": 57482,
       "fontFamily": "GlyphsPoly",
       "identifier": "certificateScroll"
     },
     "chart-bar-1": {
-      "codepoint": 57774,
+      "codepoint": 57483,
       "fontFamily": "GlyphsPoly",
       "identifier": "chartBar1"
     },
     "chart-donut": {
-      "codepoint": 57775,
+      "codepoint": 57484,
       "fontFamily": "GlyphsPoly",
       "identifier": "chartDonut"
     },
     "chart-line": {
-      "codepoint": 57776,
+      "codepoint": 57485,
       "fontFamily": "GlyphsPoly",
       "identifier": "chartLine"
     },
     "chart-pie": {
-      "codepoint": 57777,
+      "codepoint": 57486,
       "fontFamily": "GlyphsPoly",
       "identifier": "chartPie"
     },
     "chart-pie-slice": {
-      "codepoint": 57778,
+      "codepoint": 57487,
       "fontFamily": "GlyphsPoly",
       "identifier": "chartPieSlice"
     },
     "check": {
-      "codepoint": 57779,
+      "codepoint": 57488,
       "fontFamily": "GlyphsPoly",
       "identifier": "check"
     },
     "check-badge": {
-      "codepoint": 57780,
+      "codepoint": 57489,
       "fontFamily": "GlyphsPoly",
       "identifier": "checkBadge"
     },
     "check-circle": {
-      "codepoint": 57781,
+      "codepoint": 57490,
       "fontFamily": "GlyphsPoly",
       "identifier": "checkCircle"
     },
     "check-double": {
-      "codepoint": 57782,
+      "codepoint": 57491,
       "fontFamily": "GlyphsPoly",
       "identifier": "checkDouble"
     },
     "check-square": {
-      "codepoint": 57783,
+      "codepoint": 57492,
       "fontFamily": "GlyphsPoly",
       "identifier": "checkSquare"
     },
     "chevron": {
-      "codepoint": 57784,
+      "codepoint": 57493,
       "fontFamily": "GlyphsPoly",
       "identifier": "chevron"
     },
     "chevron-circle": {
-      "codepoint": 57424,
+      "codepoint": 57494,
       "fontFamily": "GlyphsPoly",
       "identifier": "chevronCircle"
     },
     "chevron-double": {
-      "codepoint": 57785,
+      "codepoint": 57495,
       "fontFamily": "GlyphsPoly",
       "identifier": "chevronDouble"
     },
     "chevron-square": {
-      "codepoint": 57786,
+      "codepoint": 57496,
       "fontFamily": "GlyphsPoly",
       "identifier": "chevronSquare"
     },
     "child": {
-      "codepoint": 57787,
+      "codepoint": 57497,
       "fontFamily": "GlyphsPoly",
       "identifier": "child"
     },
     "circle": {
-      "codepoint": 57425,
+      "codepoint": 57498,
       "fontFamily": "GlyphsPoly",
       "identifier": "circle"
     },
     "circle-half": {
-      "codepoint": 57426,
+      "codepoint": 57499,
       "fontFamily": "GlyphsPoly",
       "identifier": "circleHalf"
     },
     "circle-half-1": {
-      "codepoint": 57427,
+      "codepoint": 57500,
       "fontFamily": "GlyphsPoly",
       "identifier": "circleHalf1"
     },
     "circle-half-2": {
-      "codepoint": 57428,
+      "codepoint": 57501,
       "fontFamily": "GlyphsPoly",
       "identifier": "circleHalf2"
     },
     "cli": {
-      "codepoint": 57429,
+      "codepoint": 57502,
       "fontFamily": "GlyphsPoly",
       "identifier": "cli"
     },
     "clipboard": {
-      "codepoint": 57788,
+      "codepoint": 57503,
       "fontFamily": "GlyphsPoly",
       "identifier": "clipboard"
     },
     "clock": {
-      "codepoint": 57789,
+      "codepoint": 57504,
       "fontFamily": "GlyphsPoly",
       "identifier": "clock"
     },
     "clock-1": {
-      "codepoint": 57790,
+      "codepoint": 57505,
       "fontFamily": "GlyphsPoly",
       "identifier": "clock1"
     },
     "clock-fast": {
-      "codepoint": 57791,
+      "codepoint": 57506,
       "fontFamily": "GlyphsPoly",
       "identifier": "clockFast"
     },
     "cloud": {
-      "codepoint": 57430,
+      "codepoint": 57507,
       "fontFamily": "GlyphsPoly",
       "identifier": "cloud"
     },
     "cloud-1": {
-      "codepoint": 57431,
+      "codepoint": 57508,
       "fontFamily": "GlyphsPoly",
       "identifier": "cloud1"
     },
     "cloudy": {
-      "codepoint": 57432,
+      "codepoint": 57509,
       "fontFamily": "GlyphsPoly",
       "identifier": "cloudy"
     },
     "cloudy-mostly": {
-      "codepoint": 57433,
+      "codepoint": 57510,
       "fontFamily": "GlyphsPoly",
       "identifier": "cloudyMostly"
     },
     "cloudy-partly": {
-      "codepoint": 57434,
+      "codepoint": 57511,
       "fontFamily": "GlyphsPoly",
       "identifier": "cloudyPartly"
     },
     "club": {
-      "codepoint": 57435,
+      "codepoint": 57512,
       "fontFamily": "GlyphsPoly",
       "identifier": "club"
     },
     "code": {
-      "codepoint": 57436,
+      "codepoint": 57513,
       "fontFamily": "GlyphsPoly",
       "identifier": "code"
     },
     "code-1": {
-      "codepoint": 57437,
+      "codepoint": 57514,
       "fontFamily": "GlyphsPoly",
       "identifier": "code1"
     },
     "cog": {
-      "codepoint": 57438,
+      "codepoint": 57515,
       "fontFamily": "GlyphsPoly",
       "identifier": "cog"
     },
     "cog-1": {
-      "codepoint": 57439,
+      "codepoint": 57516,
       "fontFamily": "GlyphsPoly",
       "identifier": "cog1"
     },
     "cogs": {
-      "codepoint": 57440,
+      "codepoint": 57517,
       "fontFamily": "GlyphsPoly",
       "identifier": "cogs"
     },
     "cogwheel": {
-      "codepoint": 57441,
+      "codepoint": 57518,
       "fontFamily": "GlyphsPoly",
       "identifier": "cogwheel"
     },
     "columns-1": {
-      "codepoint": 57792,
+      "codepoint": 57519,
       "fontFamily": "GlyphsPoly",
       "identifier": "columns1"
     },
     "columns-2": {
-      "codepoint": 57793,
+      "codepoint": 57520,
       "fontFamily": "GlyphsPoly",
       "identifier": "columns2"
     },
     "columns-3": {
-      "codepoint": 57794,
+      "codepoint": 57521,
       "fontFamily": "GlyphsPoly",
       "identifier": "columns3"
     },
     "comment": {
-      "codepoint": 57442,
+      "codepoint": 57522,
       "fontFamily": "GlyphsPoly",
       "identifier": "comment"
     },
     "comment-1": {
-      "codepoint": 57443,
+      "codepoint": 57523,
       "fontFamily": "GlyphsPoly",
       "identifier": "comment1"
     },
     "comment-add": {
-      "codepoint": 57444,
+      "codepoint": 57524,
       "fontFamily": "GlyphsPoly",
       "identifier": "commentAdd"
     },
     "comment-info": {
-      "codepoint": 57445,
+      "codepoint": 57525,
       "fontFamily": "GlyphsPoly",
       "identifier": "commentInfo"
     },
     "comment-question": {
-      "codepoint": 57446,
+      "codepoint": 57526,
       "fontFamily": "GlyphsPoly",
       "identifier": "commentQuestion"
     },
     "compass": {
-      "codepoint": 57795,
+      "codepoint": 57527,
       "fontFamily": "GlyphsPoly",
       "identifier": "compass"
     },
     "compass-1": {
-      "codepoint": 57796,
+      "codepoint": 57528,
       "fontFamily": "GlyphsPoly",
       "identifier": "compass1"
     },
     "copy": {
-      "codepoint": 57797,
+      "codepoint": 57529,
       "fontFamily": "GlyphsPoly",
       "identifier": "copy"
     },
     "copy-1": {
-      "codepoint": 57798,
+      "codepoint": 57530,
       "fontFamily": "GlyphsPoly",
       "identifier": "copy1"
     },
     "copy-2": {
-      "codepoint": 57799,
+      "codepoint": 57531,
       "fontFamily": "GlyphsPoly",
       "identifier": "copy2"
     },
     "credit-card": {
-      "codepoint": 57447,
+      "codepoint": 57532,
       "fontFamily": "GlyphsPoly",
       "identifier": "creditCard"
     },
     "credit-card-front": {
-      "codepoint": 57448,
+      "codepoint": 57533,
       "fontFamily": "GlyphsPoly",
       "identifier": "creditCardFront"
     },
     "crop": {
-      "codepoint": 57449,
+      "codepoint": 57534,
       "fontFamily": "GlyphsPoly",
       "identifier": "crop"
     },
     "crop-1": {
-      "codepoint": 57450,
+      "codepoint": 57535,
       "fontFamily": "GlyphsPoly",
       "identifier": "crop1"
     },
     "cross-christian": {
-      "codepoint": 57800,
+      "codepoint": 57536,
       "fontFamily": "GlyphsPoly",
       "identifier": "crossChristian"
     },
     "crosshairs": {
-      "codepoint": 57801,
+      "codepoint": 57537,
       "fontFamily": "GlyphsPoly",
       "identifier": "crosshairs"
     },
     "crosshairs-1": {
-      "codepoint": 57802,
+      "codepoint": 57538,
       "fontFamily": "GlyphsPoly",
       "identifier": "crosshairs1"
     },
     "crown": {
-      "codepoint": 57803,
+      "codepoint": 57539,
       "fontFamily": "GlyphsPoly",
       "identifier": "crown"
     },
     "crown-1": {
-      "codepoint": 57804,
+      "codepoint": 57540,
       "fontFamily": "GlyphsPoly",
       "identifier": "crown1"
     },
     "crown-2": {
-      "codepoint": 57805,
+      "codepoint": 57541,
       "fontFamily": "GlyphsPoly",
       "identifier": "crown2"
     },
     "crown-3": {
-      "codepoint": 57806,
+      "codepoint": 57542,
       "fontFamily": "GlyphsPoly",
       "identifier": "crown3"
     },
     "cursor": {
-      "codepoint": 57451,
+      "codepoint": 57543,
       "fontFamily": "GlyphsPoly",
       "identifier": "cursor"
     },
     "d-pad": {
-      "codepoint": 57452,
+      "codepoint": 57544,
       "fontFamily": "GlyphsPoly",
       "identifier": "dPad"
     },
     "d-pad-1": {
-      "codepoint": 57453,
+      "codepoint": 57545,
       "fontFamily": "GlyphsPoly",
       "identifier": "dPad1"
     },
     "diamond-1": {
-      "codepoint": 57807,
+      "codepoint": 57546,
       "fontFamily": "GlyphsPoly",
       "identifier": "diamond1"
     },
     "dice": {
-      "codepoint": 57454,
+      "codepoint": 57547,
       "fontFamily": "GlyphsPoly",
       "identifier": "dice"
     },
     "die": {
-      "codepoint": 57808,
+      "codepoint": 57548,
       "fontFamily": "GlyphsPoly",
       "identifier": "die"
     },
     "die-1": {
-      "codepoint": 57809,
+      "codepoint": 57549,
       "fontFamily": "GlyphsPoly",
       "identifier": "die1"
     },
     "die-2": {
-      "codepoint": 57810,
+      "codepoint": 57550,
       "fontFamily": "GlyphsPoly",
       "identifier": "die2"
     },
     "die-3": {
-      "codepoint": 57811,
+      "codepoint": 57551,
       "fontFamily": "GlyphsPoly",
       "identifier": "die3"
     },
     "die-4": {
-      "codepoint": 57812,
+      "codepoint": 57552,
       "fontFamily": "GlyphsPoly",
       "identifier": "die4"
     },
     "die-5": {
-      "codepoint": 57813,
+      "codepoint": 57553,
       "fontFamily": "GlyphsPoly",
       "identifier": "die5"
     },
     "directions-sign": {
-      "codepoint": 57814,
+      "codepoint": 57554,
       "fontFamily": "GlyphsPoly",
       "identifier": "directionsSign"
     },
     "discount": {
-      "codepoint": 57455,
+      "codepoint": 57555,
       "fontFamily": "GlyphsPoly",
       "identifier": "discount"
     },
     "divide": {
-      "codepoint": 57815,
+      "codepoint": 57556,
       "fontFamily": "GlyphsPoly",
       "identifier": "divide"
     },
     "dizzy": {
-      "codepoint": 57456,
+      "codepoint": 57557,
       "fontFamily": "GlyphsPoly",
       "identifier": "dizzy"
     },
     "docs": {
-      "codepoint": 57457,
+      "codepoint": 57558,
       "fontFamily": "GlyphsPoly",
       "identifier": "docs"
     },
     "docs-1": {
-      "codepoint": 57458,
+      "codepoint": 57559,
       "fontFamily": "GlyphsPoly",
       "identifier": "docs1"
     },
     "dollar-bill": {
-      "codepoint": 57816,
+      "codepoint": 57560,
       "fontFamily": "GlyphsPoly",
       "identifier": "dollarBill"
     },
     "dollar-bill-wave": {
-      "codepoint": 57817,
+      "codepoint": 57561,
       "fontFamily": "GlyphsPoly",
       "identifier": "dollarBillWave"
     },
     "dollar-bills": {
-      "codepoint": 57818,
+      "codepoint": 57562,
       "fontFamily": "GlyphsPoly",
       "identifier": "dollarBills"
     },
     "door-open": {
-      "codepoint": 57819,
+      "codepoint": 57563,
       "fontFamily": "GlyphsPoly",
       "identifier": "doorOpen"
     },
     "door-open-1": {
-      "codepoint": 57820,
+      "codepoint": 57564,
       "fontFamily": "GlyphsPoly",
       "identifier": "doorOpen1"
     },
     "droplet": {
-      "codepoint": 57459,
+      "codepoint": 57565,
       "fontFamily": "GlyphsPoly",
       "identifier": "droplet"
     },
     "dslr": {
-      "codepoint": 57821,
+      "codepoint": 57566,
       "fontFamily": "GlyphsPoly",
       "identifier": "dslr"
     },
     "ear": {
-      "codepoint": 57822,
+      "codepoint": 57567,
       "fontFamily": "GlyphsPoly",
       "identifier": "ear"
     },
     "edit": {
-      "codepoint": 57460,
+      "codepoint": 57568,
       "fontFamily": "GlyphsPoly",
       "identifier": "edit"
     },
     "eject": {
-      "codepoint": 57461,
+      "codepoint": 57569,
       "fontFamily": "GlyphsPoly",
       "identifier": "eject"
     },
     "electric-scooter": {
-      "codepoint": 57823,
+      "codepoint": 57570,
       "fontFamily": "GlyphsPoly",
       "identifier": "electricScooter"
     },
     "ellipsis": {
-      "codepoint": 57824,
+      "codepoint": 57571,
       "fontFamily": "GlyphsPoly",
       "identifier": "ellipsis"
     },
     "ellipsis-circle": {
-      "codepoint": 57825,
+      "codepoint": 57572,
       "fontFamily": "GlyphsPoly",
       "identifier": "ellipsisCircle"
     },
     "ellipsis-square": {
-      "codepoint": 57826,
+      "codepoint": 57573,
       "fontFamily": "GlyphsPoly",
       "identifier": "ellipsisSquare"
     },
     "envelope": {
-      "codepoint": 57462,
+      "codepoint": 57574,
       "fontFamily": "GlyphsPoly",
       "identifier": "envelope"
     },
     "envelope-front": {
-      "codepoint": 57463,
+      "codepoint": 57575,
       "fontFamily": "GlyphsPoly",
       "identifier": "envelopeFront"
     },
     "envelope-open": {
-      "codepoint": 57464,
+      "codepoint": 57576,
       "fontFamily": "GlyphsPoly",
       "identifier": "envelopeOpen"
     },
     "envelope-open-note": {
-      "codepoint": 57465,
+      "codepoint": 57577,
       "fontFamily": "GlyphsPoly",
       "identifier": "envelopeOpenNote"
     },
     "equals": {
-      "codepoint": 57827,
+      "codepoint": 57578,
       "fontFamily": "GlyphsPoly",
       "identifier": "equals"
     },
     "exclamation": {
-      "codepoint": 57466,
+      "codepoint": 57579,
       "fontFamily": "GlyphsPoly",
       "identifier": "exclamation"
     },
     "exclude": {
-      "codepoint": 57467,
+      "codepoint": 57580,
       "fontFamily": "GlyphsPoly",
       "identifier": "exclude"
     },
     "exposure": {
-      "codepoint": 57468,
+      "codepoint": 57581,
       "fontFamily": "GlyphsPoly",
       "identifier": "exposure"
     },
     "eye": {
-      "codepoint": 57469,
+      "codepoint": 57582,
       "fontFamily": "GlyphsPoly",
       "identifier": "eye"
     },
     "eye-1": {
-      "codepoint": 57828,
+      "codepoint": 57583,
       "fontFamily": "GlyphsPoly",
       "identifier": "eye1"
     },
     "eye-1-slash": {
-      "codepoint": 57470,
+      "codepoint": 57584,
       "fontFamily": "GlyphsPoly",
       "identifier": "eye1Slash"
     },
     "eye-lashes": {
-      "codepoint": 57471,
+      "codepoint": 57585,
       "fontFamily": "GlyphsPoly",
       "identifier": "eyeLashes"
     },
     "eye-slash": {
-      "codepoint": 57829,
+      "codepoint": 57586,
       "fontFamily": "GlyphsPoly",
       "identifier": "eyeSlash"
     },
     "f": {
-      "codepoint": 57472,
+      "codepoint": 57587,
       "fontFamily": "GlyphsPoly",
       "identifier": "f"
     },
     "fahrenheit": {
-      "codepoint": 57830,
+      "codepoint": 57588,
       "fontFamily": "GlyphsPoly",
       "identifier": "fahrenheit"
     },
     "female": {
-      "codepoint": 57831,
+      "codepoint": 57589,
       "fontFamily": "GlyphsPoly",
       "identifier": "female"
     },
     "file": {
-      "codepoint": 57832,
+      "codepoint": 57590,
       "fontFamily": "GlyphsPoly",
       "identifier": "file"
     },
     "file-add": {
-      "codepoint": 57833,
+      "codepoint": 57591,
       "fontFamily": "GlyphsPoly",
       "identifier": "fileAdd"
     },
     "file-remove": {
-      "codepoint": 57834,
+      "codepoint": 57592,
       "fontFamily": "GlyphsPoly",
       "identifier": "fileRemove"
     },
     "file-remove-1": {
-      "codepoint": 57835,
+      "codepoint": 57593,
       "fontFamily": "GlyphsPoly",
       "identifier": "fileRemove1"
     },
     "filing-cabinet": {
-      "codepoint": 57836,
+      "codepoint": 57594,
       "fontFamily": "GlyphsPoly",
       "identifier": "filingCabinet"
     },
     "film": {
-      "codepoint": 57473,
+      "codepoint": 57595,
       "fontFamily": "GlyphsPoly",
       "identifier": "film"
     },
     "film-1": {
-      "codepoint": 57474,
+      "codepoint": 57596,
       "fontFamily": "GlyphsPoly",
       "identifier": "film1"
     },
     "filter": {
-      "codepoint": 57475,
+      "codepoint": 57597,
       "fontFamily": "GlyphsPoly",
       "identifier": "filter"
     },
     "flag": {
-      "codepoint": 57837,
+      "codepoint": 57598,
       "fontFamily": "GlyphsPoly",
       "identifier": "flag"
     },
     "flag-1": {
-      "codepoint": 57476,
+      "codepoint": 57599,
       "fontFamily": "GlyphsPoly",
       "identifier": "flag1"
     },
     "flip": {
-      "codepoint": 57838,
+      "codepoint": 57600,
       "fontFamily": "GlyphsPoly",
       "identifier": "flip"
     },
     "flip-1": {
-      "codepoint": 57839,
+      "codepoint": 57601,
       "fontFamily": "GlyphsPoly",
       "identifier": "flip1"
     },
     "flushed": {
-      "codepoint": 57477,
+      "codepoint": 57602,
       "fontFamily": "GlyphsPoly",
       "identifier": "flushed"
     },
     "fog": {
-      "codepoint": 57478,
+      "codepoint": 57603,
       "fontFamily": "GlyphsPoly",
       "identifier": "fog"
     },
     "fog-1": {
-      "codepoint": 57479,
+      "codepoint": 57604,
       "fontFamily": "GlyphsPoly",
       "identifier": "fog1"
     },
     "folder-open": {
-      "codepoint": 57840,
+      "codepoint": 57605,
       "fontFamily": "GlyphsPoly",
       "identifier": "folderOpen"
     },
     "folder-open-1": {
-      "codepoint": 57841,
+      "codepoint": 57606,
       "fontFamily": "GlyphsPoly",
       "identifier": "folderOpen1"
     },
     "foot-print": {
-      "codepoint": 57842,
+      "codepoint": 57607,
       "fontFamily": "GlyphsPoly",
       "identifier": "footPrint"
     },
     "frown": {
-      "codepoint": 57480,
+      "codepoint": 57608,
       "fontFamily": "GlyphsPoly",
       "identifier": "frown"
     },
     "frown-open": {
-      "codepoint": 57481,
+      "codepoint": 57609,
       "fontFamily": "GlyphsPoly",
       "identifier": "frownOpen"
     },
     "gamepad": {
-      "codepoint": 57482,
+      "codepoint": 57610,
       "fontFamily": "GlyphsPoly",
       "identifier": "gamepad"
     },
     "gift-1": {
-      "codepoint": 57843,
+      "codepoint": 57611,
       "fontFamily": "GlyphsPoly",
       "identifier": "gift1"
     },
     "gift-2": {
-      "codepoint": 57844,
+      "codepoint": 57612,
       "fontFamily": "GlyphsPoly",
       "identifier": "gift2"
     },
     "gift-card": {
-      "codepoint": 57845,
+      "codepoint": 57613,
       "fontFamily": "GlyphsPoly",
       "identifier": "giftCard"
     },
     "gifts": {
-      "codepoint": 57846,
+      "codepoint": 57614,
       "fontFamily": "GlyphsPoly",
       "identifier": "gifts"
     },
     "glasses": {
-      "codepoint": 57483,
+      "codepoint": 57615,
       "fontFamily": "GlyphsPoly",
       "identifier": "glasses"
     },
     "globe": {
-      "codepoint": 57484,
+      "codepoint": 57616,
       "fontFamily": "GlyphsPoly",
       "identifier": "globe"
     },
     "globe-africa": {
-      "codepoint": 57485,
+      "codepoint": 57617,
       "fontFamily": "GlyphsPoly",
       "identifier": "globeAfrica"
     },
     "globe-americas": {
-      "codepoint": 57486,
+      "codepoint": 57618,
       "fontFamily": "GlyphsPoly",
       "identifier": "globeAmericas"
     },
     "globe-asia": {
-      "codepoint": 57487,
+      "codepoint": 57619,
       "fontFamily": "GlyphsPoly",
       "identifier": "globeAsia"
     },
     "globe-earth": {
-      "codepoint": 57488,
+      "codepoint": 57620,
       "fontFamily": "GlyphsPoly",
       "identifier": "globeEarth"
     },
     "globe-east": {
-      "codepoint": 57489,
+      "codepoint": 57621,
       "fontFamily": "GlyphsPoly",
       "identifier": "globeEast"
     },
     "globe-europe": {
-      "codepoint": 57490,
+      "codepoint": 57622,
       "fontFamily": "GlyphsPoly",
       "identifier": "globeEurope"
     },
     "globe-middle": {
-      "codepoint": 57491,
+      "codepoint": 57623,
       "fontFamily": "GlyphsPoly",
       "identifier": "globeMiddle"
     },
     "globe-north-america": {
-      "codepoint": 57492,
+      "codepoint": 57624,
       "fontFamily": "GlyphsPoly",
       "identifier": "globeNorthAmerica"
     },
     "globe-oceania": {
-      "codepoint": 57493,
+      "codepoint": 57625,
       "fontFamily": "GlyphsPoly",
       "identifier": "globeOceania"
     },
     "globe-south-america": {
-      "codepoint": 57494,
+      "codepoint": 57626,
       "fontFamily": "GlyphsPoly",
       "identifier": "globeSouthAmerica"
     },
     "globe-west": {
-      "codepoint": 57495,
+      "codepoint": 57627,
       "fontFamily": "GlyphsPoly",
       "identifier": "globeWest"
     },
     "graduation-cap": {
-      "codepoint": 57496,
+      "codepoint": 57628,
       "fontFamily": "GlyphsPoly",
       "identifier": "graduationCap"
     },
     "grid": {
-      "codepoint": 57497,
+      "codepoint": 57629,
       "fontFamily": "GlyphsPoly",
       "identifier": "grid"
     },
     "grid-1": {
-      "codepoint": 57847,
+      "codepoint": 57630,
       "fontFamily": "GlyphsPoly",
       "identifier": "grid1"
     },
     "grid-add": {
-      "codepoint": 57498,
+      "codepoint": 57631,
       "fontFamily": "GlyphsPoly",
       "identifier": "gridAdd"
     },
     "grid-lg": {
-      "codepoint": 57499,
+      "codepoint": 57632,
       "fontFamily": "GlyphsPoly",
       "identifier": "gridLg"
     },
     "grid-list": {
-      "codepoint": 57500,
+      "codepoint": 57633,
       "fontFamily": "GlyphsPoly",
       "identifier": "gridList"
     },
     "grid-remove": {
-      "codepoint": 57501,
+      "codepoint": 57634,
       "fontFamily": "GlyphsPoly",
       "identifier": "gridRemove"
     },
     "grid-sm": {
-      "codepoint": 57502,
+      "codepoint": 57635,
       "fontFamily": "GlyphsPoly",
       "identifier": "gridSm"
     },
     "grin": {
-      "codepoint": 57503,
+      "codepoint": 57636,
       "fontFamily": "GlyphsPoly",
       "identifier": "grin"
     },
     "grin-beam": {
-      "codepoint": 57504,
+      "codepoint": 57637,
       "fontFamily": "GlyphsPoly",
       "identifier": "grinBeam"
     },
     "grin-beam-sweat": {
-      "codepoint": 57505,
+      "codepoint": 57638,
       "fontFamily": "GlyphsPoly",
       "identifier": "grinBeamSweat"
     },
     "grin-hearts": {
-      "codepoint": 57848,
+      "codepoint": 57639,
       "fontFamily": "GlyphsPoly",
       "identifier": "grinHearts"
     },
     "grin-squint": {
-      "codepoint": 57506,
+      "codepoint": 57640,
       "fontFamily": "GlyphsPoly",
       "identifier": "grinSquint"
     },
     "grin-squint-tears": {
-      "codepoint": 57507,
+      "codepoint": 57641,
       "fontFamily": "GlyphsPoly",
       "identifier": "grinSquintTears"
     },
     "grin-stars": {
-      "codepoint": 57508,
+      "codepoint": 57642,
       "fontFamily": "GlyphsPoly",
       "identifier": "grinStars"
     },
     "grin-tears": {
-      "codepoint": 57509,
+      "codepoint": 57643,
       "fontFamily": "GlyphsPoly",
       "identifier": "grinTears"
     },
     "grin-tongue": {
-      "codepoint": 57849,
+      "codepoint": 57644,
       "fontFamily": "GlyphsPoly",
       "identifier": "grinTongue"
     },
     "grin-tongue-silly": {
-      "codepoint": 57850,
+      "codepoint": 57645,
       "fontFamily": "GlyphsPoly",
       "identifier": "grinTongueSilly"
     },
     "grin-tongue-squint": {
-      "codepoint": 57851,
+      "codepoint": 57646,
       "fontFamily": "GlyphsPoly",
       "identifier": "grinTongueSquint"
     },
     "grin-tongue-wink": {
-      "codepoint": 57852,
+      "codepoint": 57647,
       "fontFamily": "GlyphsPoly",
       "identifier": "grinTongueWink"
     },
     "h-1": {
-      "codepoint": 57510,
+      "codepoint": 57648,
       "fontFamily": "GlyphsPoly",
       "identifier": "h1"
     },
     "h-2": {
-      "codepoint": 57511,
+      "codepoint": 57649,
       "fontFamily": "GlyphsPoly",
       "identifier": "h2"
     },
     "h-3": {
-      "codepoint": 57512,
+      "codepoint": 57650,
       "fontFamily": "GlyphsPoly",
       "identifier": "h3"
     },
     "h-4": {
-      "codepoint": 57513,
+      "codepoint": 57651,
       "fontFamily": "GlyphsPoly",
       "identifier": "h4"
     },
     "hammer": {
-      "codepoint": 57853,
+      "codepoint": 57652,
       "fontFamily": "GlyphsPoly",
       "identifier": "hammer"
     },
     "hand": {
-      "codepoint": 57514,
+      "codepoint": 57653,
       "fontFamily": "GlyphsPoly",
       "identifier": "hand"
     },
     "hand-call": {
-      "codepoint": 57515,
+      "codepoint": 57654,
       "fontFamily": "GlyphsPoly",
       "identifier": "handCall"
     },
     "hand-fist": {
-      "codepoint": 57516,
+      "codepoint": 57655,
       "fontFamily": "GlyphsPoly",
       "identifier": "handFist"
     },
     "hand-holding": {
-      "codepoint": 57517,
+      "codepoint": 57656,
       "fontFamily": "GlyphsPoly",
       "identifier": "handHolding"
     },
     "hand-holding-dollar": {
-      "codepoint": 57854,
+      "codepoint": 57657,
       "fontFamily": "GlyphsPoly",
       "identifier": "handHoldingDollar"
     },
     "hand-holding-heart": {
-      "codepoint": 57855,
+      "codepoint": 57658,
       "fontFamily": "GlyphsPoly",
       "identifier": "handHoldingHeart"
     },
     "hand-holding-seedling": {
-      "codepoint": 57856,
+      "codepoint": 57659,
       "fontFamily": "GlyphsPoly",
       "identifier": "handHoldingSeedling"
     },
     "hand-holding-water": {
-      "codepoint": 57518,
+      "codepoint": 57660,
       "fontFamily": "GlyphsPoly",
       "identifier": "handHoldingWater"
     },
     "hand-horns": {
-      "codepoint": 57519,
+      "codepoint": 57661,
       "fontFamily": "GlyphsPoly",
       "identifier": "handHorns"
     },
     "hand-index": {
-      "codepoint": 57520,
+      "codepoint": 57662,
       "fontFamily": "GlyphsPoly",
       "identifier": "handIndex"
     },
     "hand-middle": {
-      "codepoint": 57521,
+      "codepoint": 57663,
       "fontFamily": "GlyphsPoly",
       "identifier": "handMiddle"
     },
     "hand-peace": {
-      "codepoint": 57522,
+      "codepoint": 57664,
       "fontFamily": "GlyphsPoly",
       "identifier": "handPeace"
     },
     "hand-spread": {
-      "codepoint": 57523,
+      "codepoint": 57665,
       "fontFamily": "GlyphsPoly",
       "identifier": "handSpread"
     },
     "hard-drive": {
-      "codepoint": 57524,
+      "codepoint": 57666,
       "fontFamily": "GlyphsPoly",
       "identifier": "hardDrive"
     },
     "hash": {
-      "codepoint": 57525,
+      "codepoint": 57667,
       "fontFamily": "GlyphsPoly",
       "identifier": "hash"
     },
     "head-side": {
-      "codepoint": 57526,
+      "codepoint": 57668,
       "fontFamily": "GlyphsPoly",
       "identifier": "headSide"
     },
     "head-side-mask": {
-      "codepoint": 57527,
+      "codepoint": 57669,
       "fontFamily": "GlyphsPoly",
       "identifier": "headSideMask"
     },
     "heading": {
-      "codepoint": 57528,
+      "codepoint": 57670,
       "fontFamily": "GlyphsPoly",
       "identifier": "heading"
     },
     "headphones": {
-      "codepoint": 57857,
+      "codepoint": 57671,
       "fontFamily": "GlyphsPoly",
       "identifier": "headphones"
     },
     "heart-half-1": {
-      "codepoint": 57858,
+      "codepoint": 57672,
       "fontFamily": "GlyphsPoly",
       "identifier": "heartHalf1"
     },
     "heart-half-2": {
-      "codepoint": 57859,
+      "codepoint": 57673,
       "fontFamily": "GlyphsPoly",
       "identifier": "heartHalf2"
     },
     "helicopter": {
-      "codepoint": 57860,
+      "codepoint": 57674,
       "fontFamily": "GlyphsPoly",
       "identifier": "helicopter"
     },
     "hexagon": {
-      "codepoint": 57529,
+      "codepoint": 57675,
       "fontFamily": "GlyphsPoly",
       "identifier": "hexagon"
     },
     "history": {
-      "codepoint": 57861,
+      "codepoint": 57676,
       "fontFamily": "GlyphsPoly",
       "identifier": "history"
     },
     "hospital-sign": {
-      "codepoint": 57862,
+      "codepoint": 57677,
       "fontFamily": "GlyphsPoly",
       "identifier": "hospitalSign"
     },
     "hotel": {
-      "codepoint": 57530,
+      "codepoint": 57678,
       "fontFamily": "GlyphsPoly",
       "identifier": "hotel"
     },
     "hotel-1": {
-      "codepoint": 57531,
+      "codepoint": 57679,
       "fontFamily": "GlyphsPoly",
       "identifier": "hotel1"
     },
     "hourglass": {
-      "codepoint": 57532,
+      "codepoint": 57680,
       "fontFamily": "GlyphsPoly",
       "identifier": "hourglass"
     },
     "hourglass-0": {
-      "codepoint": 57533,
+      "codepoint": 57681,
       "fontFamily": "GlyphsPoly",
       "identifier": "hourglass0"
     },
     "hourglass-1": {
-      "codepoint": 57534,
+      "codepoint": 57682,
       "fontFamily": "GlyphsPoly",
       "identifier": "hourglass1"
     },
     "hourglass-100": {
-      "codepoint": 57535,
+      "codepoint": 57683,
       "fontFamily": "GlyphsPoly",
       "identifier": "hourglass100"
     },
     "hourglass-2": {
-      "codepoint": 57536,
+      "codepoint": 57684,
       "fontFamily": "GlyphsPoly",
       "identifier": "hourglass2"
     },
     "hourglass-50": {
-      "codepoint": 57537,
+      "codepoint": 57685,
       "fontFamily": "GlyphsPoly",
       "identifier": "hourglass50"
     },
     "house": {
-      "codepoint": 57863,
+      "codepoint": 57686,
       "fontFamily": "GlyphsPoly",
       "identifier": "house"
     },
     "house-damage": {
-      "codepoint": 57864,
+      "codepoint": 57687,
       "fontFamily": "GlyphsPoly",
       "identifier": "houseDamage"
     },
     "house-fire": {
-      "codepoint": 57865,
+      "codepoint": 57688,
       "fontFamily": "GlyphsPoly",
       "identifier": "houseFire"
     },
     "house-flood": {
-      "codepoint": 57866,
+      "codepoint": 57689,
       "fontFamily": "GlyphsPoly",
       "identifier": "houseFlood"
     },
     "house-water": {
-      "codepoint": 57867,
+      "codepoint": 57690,
       "fontFamily": "GlyphsPoly",
       "identifier": "houseWater"
     },
     "hurricane": {
-      "codepoint": 57538,
+      "codepoint": 57691,
       "fontFamily": "GlyphsPoly",
       "identifier": "hurricane"
     },
     "icons-1": {
-      "codepoint": 57868,
+      "codepoint": 57692,
       "fontFamily": "GlyphsPoly",
       "identifier": "icons1"
     },
     "image": {
-      "codepoint": 57539,
+      "codepoint": 57693,
       "fontFamily": "GlyphsPoly",
       "identifier": "image"
     },
     "image-1": {
-      "codepoint": 57540,
+      "codepoint": 57694,
       "fontFamily": "GlyphsPoly",
       "identifier": "image1"
     },
     "inbox": {
-      "codepoint": 57869,
+      "codepoint": 57695,
       "fontFamily": "GlyphsPoly",
       "identifier": "inbox"
     },
     "inbox-1": {
-      "codepoint": 57870,
+      "codepoint": 57696,
       "fontFamily": "GlyphsPoly",
       "identifier": "inbox1"
     },
     "info-circle": {
-      "codepoint": 57541,
+      "codepoint": 57697,
       "fontFamily": "GlyphsPoly",
       "identifier": "infoCircle"
     },
     "intersect": {
-      "codepoint": 57871,
+      "codepoint": 57698,
       "fontFamily": "GlyphsPoly",
       "identifier": "intersect"
     },
     "italic": {
-      "codepoint": 57872,
+      "codepoint": 57699,
       "fontFamily": "GlyphsPoly",
       "identifier": "italic"
     },
     "j": {
-      "codepoint": 57542,
+      "codepoint": 57700,
       "fontFamily": "GlyphsPoly",
       "identifier": "j"
     },
     "jack": {
-      "codepoint": 57543,
+      "codepoint": 57701,
       "fontFamily": "GlyphsPoly",
       "identifier": "jack"
     },
     "joker": {
-      "codepoint": 57873,
+      "codepoint": 57702,
       "fontFamily": "GlyphsPoly",
       "identifier": "joker"
     },
     "kick-scooter": {
-      "codepoint": 57874,
+      "codepoint": 57703,
       "fontFamily": "GlyphsPoly",
       "identifier": "kickScooter"
     },
     "king": {
-      "codepoint": 57875,
+      "codepoint": 57704,
       "fontFamily": "GlyphsPoly",
       "identifier": "king"
     },
     "kiss": {
-      "codepoint": 57544,
+      "codepoint": 57705,
       "fontFamily": "GlyphsPoly",
       "identifier": "kiss"
     },
     "kiss-beam": {
-      "codepoint": 57545,
+      "codepoint": 57706,
       "fontFamily": "GlyphsPoly",
       "identifier": "kissBeam"
     },
     "kiss-wink-heart": {
-      "codepoint": 57876,
+      "codepoint": 57707,
       "fontFamily": "GlyphsPoly",
       "identifier": "kissWinkHeart"
     },
     "landmark": {
-      "codepoint": 57877,
+      "codepoint": 57708,
       "fontFamily": "GlyphsPoly",
       "identifier": "landmark"
     },
     "landmark-1": {
-      "codepoint": 57878,
+      "codepoint": 57709,
       "fontFamily": "GlyphsPoly",
       "identifier": "landmark1"
     },
     "laptop": {
-      "codepoint": 57546,
+      "codepoint": 57710,
       "fontFamily": "GlyphsPoly",
       "identifier": "laptop"
     },
     "laptop-cli": {
-      "codepoint": 57547,
+      "codepoint": 57711,
       "fontFamily": "GlyphsPoly",
       "identifier": "laptopCli"
     },
     "laptop-code": {
-      "codepoint": 57548,
+      "codepoint": 57712,
       "fontFamily": "GlyphsPoly",
       "identifier": "laptopCode"
     },
     "laptop-cog": {
-      "codepoint": 57549,
+      "codepoint": 57713,
       "fontFamily": "GlyphsPoly",
       "identifier": "laptopCog"
     },
     "laugh": {
-      "codepoint": 57550,
+      "codepoint": 57714,
       "fontFamily": "GlyphsPoly",
       "identifier": "laugh"
     },
     "laugh-beam": {
-      "codepoint": 57551,
+      "codepoint": 57715,
       "fontFamily": "GlyphsPoly",
       "identifier": "laughBeam"
     },
     "laugh-squint": {
-      "codepoint": 57552,
+      "codepoint": 57716,
       "fontFamily": "GlyphsPoly",
       "identifier": "laughSquint"
     },
     "laugh-wink": {
-      "codepoint": 57553,
+      "codepoint": 57717,
       "fontFamily": "GlyphsPoly",
       "identifier": "laughWink"
     },
     "layer-back": {
-      "codepoint": 57554,
+      "codepoint": 57718,
       "fontFamily": "GlyphsPoly",
       "identifier": "layerBack"
     },
     "layer-backward": {
-      "codepoint": 57555,
+      "codepoint": 57719,
       "fontFamily": "GlyphsPoly",
       "identifier": "layerBackward"
     },
     "layer-foward": {
-      "codepoint": 57556,
+      "codepoint": 57720,
       "fontFamily": "GlyphsPoly",
       "identifier": "layerFoward"
     },
     "layer-front": {
-      "codepoint": 57557,
+      "codepoint": 57721,
       "fontFamily": "GlyphsPoly",
       "identifier": "layerFront"
     },
     "layer-group": {
-      "codepoint": 57558,
+      "codepoint": 57722,
       "fontFamily": "GlyphsPoly",
       "identifier": "layerGroup"
     },
     "layer-minus": {
-      "codepoint": 57559,
+      "codepoint": 57723,
       "fontFamily": "GlyphsPoly",
       "identifier": "layerMinus"
     },
     "layer-plus": {
-      "codepoint": 57560,
+      "codepoint": 57724,
       "fontFamily": "GlyphsPoly",
       "identifier": "layerPlus"
     },
     "layout-1": {
-      "codepoint": 57561,
+      "codepoint": 57725,
       "fontFamily": "GlyphsPoly",
       "identifier": "layout1"
     },
     "layout-2": {
-      "codepoint": 57562,
+      "codepoint": 57726,
       "fontFamily": "GlyphsPoly",
       "identifier": "layout2"
     },
     "life-ring": {
-      "codepoint": 57879,
+      "codepoint": 57727,
       "fontFamily": "GlyphsPoly",
       "identifier": "lifeRing"
     },
     "light-switch": {
-      "codepoint": 57563,
+      "codepoint": 57728,
       "fontFamily": "GlyphsPoly",
       "identifier": "lightSwitch"
     },
     "lightning": {
-      "codepoint": 57564,
+      "codepoint": 57729,
       "fontFamily": "GlyphsPoly",
       "identifier": "lightning"
     },
     "lightning-1": {
-      "codepoint": 57565,
+      "codepoint": 57730,
       "fontFamily": "GlyphsPoly",
       "identifier": "lightning1"
     },
     "line": {
-      "codepoint": 57566,
+      "codepoint": 57731,
       "fontFamily": "GlyphsPoly",
       "identifier": "line"
     },
     "link": {
-      "codepoint": 57567,
+      "codepoint": 57732,
       "fontFamily": "GlyphsPoly",
       "identifier": "link"
     },
     "link-1": {
-      "codepoint": 57568,
+      "codepoint": 57733,
       "fontFamily": "GlyphsPoly",
       "identifier": "link1"
     },
     "location-arrow": {
-      "codepoint": 57569,
+      "codepoint": 57734,
       "fontFamily": "GlyphsPoly",
       "identifier": "locationArrow"
     },
     "lock": {
-      "codepoint": 57880,
+      "codepoint": 57735,
       "fontFamily": "GlyphsPoly",
       "identifier": "lock"
     },
     "lock-open": {
-      "codepoint": 57881,
+      "codepoint": 57736,
       "fontFamily": "GlyphsPoly",
       "identifier": "lockOpen"
     },
     "lock-open-1": {
-      "codepoint": 57882,
+      "codepoint": 57737,
       "fontFamily": "GlyphsPoly",
       "identifier": "lockOpen1"
     },
     "loveseat": {
-      "codepoint": 57570,
+      "codepoint": 57738,
       "fontFamily": "GlyphsPoly",
       "identifier": "loveseat"
     },
     "mailbox": {
-      "codepoint": 57883,
+      "codepoint": 57739,
       "fontFamily": "GlyphsPoly",
       "identifier": "mailbox"
     },
     "male": {
-      "codepoint": 57884,
+      "codepoint": 57740,
       "fontFamily": "GlyphsPoly",
       "identifier": "male"
     },
     "map-marker": {
-      "codepoint": 57885,
+      "codepoint": 57741,
       "fontFamily": "GlyphsPoly",
       "identifier": "mapMarker"
     },
     "map-signs": {
-      "codepoint": 57886,
+      "codepoint": 57742,
       "fontFamily": "GlyphsPoly",
       "identifier": "mapSigns"
     },
     "math": {
-      "codepoint": 57887,
+      "codepoint": 57743,
       "fontFamily": "GlyphsPoly",
       "identifier": "math"
     },
     "meh": {
-      "codepoint": 57571,
+      "codepoint": 57744,
       "fontFamily": "GlyphsPoly",
       "identifier": "meh"
     },
     "meh-blank": {
-      "codepoint": 57572,
+      "codepoint": 57745,
       "fontFamily": "GlyphsPoly",
       "identifier": "mehBlank"
     },
     "microphone": {
-      "codepoint": 57573,
+      "codepoint": 57746,
       "fontFamily": "GlyphsPoly",
       "identifier": "microphone"
     },
     "microphone-1": {
-      "codepoint": 57574,
+      "codepoint": 57747,
       "fontFamily": "GlyphsPoly",
       "identifier": "microphone1"
     },
     "microphone-slash": {
-      "codepoint": 57575,
+      "codepoint": 57748,
       "fontFamily": "GlyphsPoly",
       "identifier": "microphoneSlash"
     },
     "minus": {
-      "codepoint": 57576,
+      "codepoint": 57749,
       "fontFamily": "GlyphsPoly",
       "identifier": "minus"
     },
     "mobile": {
-      "codepoint": 57577,
+      "codepoint": 57750,
       "fontFamily": "GlyphsPoly",
       "identifier": "mobile"
     },
     "mobile-1": {
-      "codepoint": 57578,
+      "codepoint": 57751,
       "fontFamily": "GlyphsPoly",
       "identifier": "mobile1"
     },
     "mobile-tablet": {
-      "codepoint": 57579,
+      "codepoint": 57752,
       "fontFamily": "GlyphsPoly",
       "identifier": "mobileTablet"
     },
     "modulo": {
-      "codepoint": 57888,
+      "codepoint": 57753,
       "fontFamily": "GlyphsPoly",
       "identifier": "modulo"
     },
     "mold": {
-      "codepoint": 57889,
+      "codepoint": 57754,
       "fontFamily": "GlyphsPoly",
       "identifier": "mold"
     },
     "monitor": {
-      "codepoint": 57580,
+      "codepoint": 57755,
       "fontFamily": "GlyphsPoly",
       "identifier": "monitor"
     },
     "moon": {
-      "codepoint": 57581,
+      "codepoint": 57756,
       "fontFamily": "GlyphsPoly",
       "identifier": "moon"
     },
     "mouse": {
-      "codepoint": 57582,
+      "codepoint": 57757,
       "fontFamily": "GlyphsPoly",
       "identifier": "mouse"
     },
     "mouse-1": {
-      "codepoint": 57583,
+      "codepoint": 57758,
       "fontFamily": "GlyphsPoly",
       "identifier": "mouse1"
     },
     "mouse-2": {
-      "codepoint": 57584,
+      "codepoint": 57759,
       "fontFamily": "GlyphsPoly",
       "identifier": "mouse2"
     },
     "mouse-pointer": {
-      "codepoint": 57585,
+      "codepoint": 57760,
       "fontFamily": "GlyphsPoly",
       "identifier": "mousePointer"
     },
     "music": {
-      "codepoint": 57586,
+      "codepoint": 57761,
       "fontFamily": "GlyphsPoly",
       "identifier": "music"
     },
     "music-list": {
-      "codepoint": 57890,
+      "codepoint": 57762,
       "fontFamily": "GlyphsPoly",
       "identifier": "musicList"
     },
     "music-note": {
-      "codepoint": 57891,
+      "codepoint": 57763,
       "fontFamily": "GlyphsPoly",
       "identifier": "musicNote"
     },
     "n": {
-      "codepoint": 57587,
+      "codepoint": 57764,
       "fontFamily": "GlyphsPoly",
       "identifier": "n"
     },
     "night": {
-      "codepoint": 57588,
+      "codepoint": 57765,
       "fontFamily": "GlyphsPoly",
       "identifier": "night"
     },
     "note": {
-      "codepoint": 57589,
+      "codepoint": 57766,
       "fontFamily": "GlyphsPoly",
       "identifier": "note"
     },
     "note-clipboard": {
-      "codepoint": 57892,
+      "codepoint": 57767,
       "fontFamily": "GlyphsPoly",
       "identifier": "noteClipboard"
     },
     "note-medical": {
-      "codepoint": 57893,
+      "codepoint": 57768,
       "fontFamily": "GlyphsPoly",
       "identifier": "noteMedical"
     },
     "note-pad": {
-      "codepoint": 57894,
+      "codepoint": 57769,
       "fontFamily": "GlyphsPoly",
       "identifier": "notePad"
     },
     "note-pad-1": {
-      "codepoint": 57895,
+      "codepoint": 57770,
       "fontFamily": "GlyphsPoly",
       "identifier": "notePad1"
     },
     "note-sticky": {
-      "codepoint": 57896,
+      "codepoint": 57771,
       "fontFamily": "GlyphsPoly",
       "identifier": "noteSticky"
     },
     "object-group": {
-      "codepoint": 57897,
+      "codepoint": 57772,
       "fontFamily": "GlyphsPoly",
       "identifier": "objectGroup"
     },
     "object-select": {
-      "codepoint": 57898,
+      "codepoint": 57773,
       "fontFamily": "GlyphsPoly",
       "identifier": "objectSelect"
     },
     "object-ungroup": {
-      "codepoint": 57899,
+      "codepoint": 57774,
       "fontFamily": "GlyphsPoly",
       "identifier": "objectUngroup"
     },
     "page-break": {
-      "codepoint": 57900,
+      "codepoint": 57775,
       "fontFamily": "GlyphsPoly",
       "identifier": "pageBreak"
     },
     "paint-brush": {
-      "codepoint": 57590,
+      "codepoint": 57776,
       "fontFamily": "GlyphsPoly",
       "identifier": "paintBrush"
     },
     "palette": {
-      "codepoint": 57901,
+      "codepoint": 57777,
       "fontFamily": "GlyphsPoly",
       "identifier": "palette"
     },
     "paperclip": {
-      "codepoint": 57591,
+      "codepoint": 57778,
       "fontFamily": "GlyphsPoly",
       "identifier": "paperclip"
     },
     "paste": {
-      "codepoint": 57902,
+      "codepoint": 57779,
       "fontFamily": "GlyphsPoly",
       "identifier": "paste"
     },
     "path": {
-      "codepoint": 57903,
+      "codepoint": 57780,
       "fontFamily": "GlyphsPoly",
       "identifier": "path"
     },
     "path-1": {
-      "codepoint": 57904,
+      "codepoint": 57781,
       "fontFamily": "GlyphsPoly",
       "identifier": "path1"
     },
     "pause": {
-      "codepoint": 57905,
+      "codepoint": 57782,
       "fontFamily": "GlyphsPoly",
       "identifier": "pause"
     },
     "pause-circle": {
-      "codepoint": 57592,
+      "codepoint": 57783,
       "fontFamily": "GlyphsPoly",
       "identifier": "pauseCircle"
     },
     "peace": {
-      "codepoint": 57906,
+      "codepoint": 57784,
       "fontFamily": "GlyphsPoly",
       "identifier": "peace"
     },
     "pen-1": {
-      "codepoint": 57593,
+      "codepoint": 57785,
       "fontFamily": "GlyphsPoly",
       "identifier": "pen1"
     },
     "pen-nib": {
-      "codepoint": 57594,
+      "codepoint": 57786,
       "fontFamily": "GlyphsPoly",
       "identifier": "penNib"
     },
     "pencil": {
-      "codepoint": 57907,
+      "codepoint": 57787,
       "fontFamily": "GlyphsPoly",
       "identifier": "pencil"
     },
     "pencil-1": {
-      "codepoint": 57908,
+      "codepoint": 57788,
       "fontFamily": "GlyphsPoly",
       "identifier": "pencil1"
     },
     "pencil-paintbrush": {
-      "codepoint": 57909,
+      "codepoint": 57789,
       "fontFamily": "GlyphsPoly",
       "identifier": "pencilPaintbrush"
     },
     "percent": {
-      "codepoint": 57910,
+      "codepoint": 57790,
       "fontFamily": "GlyphsPoly",
       "identifier": "percent"
     },
     "person": {
-      "codepoint": 57911,
+      "codepoint": 57791,
       "fontFamily": "GlyphsPoly",
       "identifier": "person"
     },
     "person-private": {
-      "codepoint": 57595,
+      "codepoint": 57792,
       "fontFamily": "GlyphsPoly",
       "identifier": "personPrivate"
     },
     "pharmacy": {
-      "codepoint": 57912,
+      "codepoint": 57793,
       "fontFamily": "GlyphsPoly",
       "identifier": "pharmacy"
     },
     "pharmacy-1": {
-      "codepoint": 57913,
+      "codepoint": 57794,
       "fontFamily": "GlyphsPoly",
       "identifier": "pharmacy1"
     },
     "phone": {
-      "codepoint": 57596,
+      "codepoint": 57795,
       "fontFamily": "GlyphsPoly",
       "identifier": "phone"
     },
     "pickup-truck": {
-      "codepoint": 57914,
+      "codepoint": 57796,
       "fontFamily": "GlyphsPoly",
       "identifier": "pickupTruck"
     },
     "picnic-table": {
-      "codepoint": 57597,
+      "codepoint": 57797,
       "fontFamily": "GlyphsPoly",
       "identifier": "picnicTable"
     },
     "pin": {
-      "codepoint": 57915,
+      "codepoint": 57798,
       "fontFamily": "GlyphsPoly",
       "identifier": "pin"
     },
     "pin-1": {
-      "codepoint": 57916,
+      "codepoint": 57799,
       "fontFamily": "GlyphsPoly",
       "identifier": "pin1"
     },
     "plane": {
-      "codepoint": 57598,
+      "codepoint": 57800,
       "fontFamily": "GlyphsPoly",
       "identifier": "plane"
     },
     "plane-arrival": {
-      "codepoint": 57599,
+      "codepoint": 57801,
       "fontFamily": "GlyphsPoly",
       "identifier": "planeArrival"
     },
     "plane-departure": {
-      "codepoint": 57600,
+      "codepoint": 57802,
       "fontFamily": "GlyphsPoly",
       "identifier": "planeDeparture"
     },
     "plane-side": {
-      "codepoint": 57601,
+      "codepoint": 57803,
       "fontFamily": "GlyphsPoly",
       "identifier": "planeSide"
     },
     "planet-moon": {
-      "codepoint": 57602,
+      "codepoint": 57804,
       "fontFamily": "GlyphsPoly",
       "identifier": "planetMoon"
     },
     "play-circle": {
-      "codepoint": 57917,
+      "codepoint": 57805,
       "fontFamily": "GlyphsPoly",
       "identifier": "playCircle"
     },
     "playback-speed": {
-      "codepoint": 57603,
+      "codepoint": 57806,
       "fontFamily": "GlyphsPoly",
       "identifier": "playbackSpeed"
     },
     "plug": {
-      "codepoint": 57604,
+      "codepoint": 57807,
       "fontFamily": "GlyphsPoly",
       "identifier": "plug"
     },
     "plug-1": {
-      "codepoint": 57605,
+      "codepoint": 57808,
       "fontFamily": "GlyphsPoly",
       "identifier": "plug1"
     },
     "plus": {
-      "codepoint": 57918,
+      "codepoint": 57809,
       "fontFamily": "GlyphsPoly",
       "identifier": "plus"
     },
     "polaroid": {
-      "codepoint": 57606,
+      "codepoint": 57810,
       "fontFamily": "GlyphsPoly",
       "identifier": "polaroid"
     },
     "power": {
-      "codepoint": 57607,
+      "codepoint": 57811,
       "fontFamily": "GlyphsPoly",
       "identifier": "power"
     },
     "printer": {
-      "codepoint": 57608,
+      "codepoint": 57812,
       "fontFamily": "GlyphsPoly",
       "identifier": "printer"
     },
     "puzzle-piece": {
-      "codepoint": 57609,
+      "codepoint": 57813,
       "fontFamily": "GlyphsPoly",
       "identifier": "puzzlePiece"
     },
     "qr": {
-      "codepoint": 57610,
+      "codepoint": 57814,
       "fontFamily": "GlyphsPoly",
       "identifier": "qr"
     },
     "queen": {
-      "codepoint": 57919,
+      "codepoint": 57815,
       "fontFamily": "GlyphsPoly",
       "identifier": "queen"
     },
     "question": {
-      "codepoint": 57920,
+      "codepoint": 57816,
       "fontFamily": "GlyphsPoly",
       "identifier": "question"
     },
     "question-circle": {
-      "codepoint": 57611,
+      "codepoint": 57817,
       "fontFamily": "GlyphsPoly",
       "identifier": "questionCircle"
     },
     "quote": {
-      "codepoint": 57612,
+      "codepoint": 57818,
       "fontFamily": "GlyphsPoly",
       "identifier": "quote"
     },
     "quote-single": {
-      "codepoint": 57613,
+      "codepoint": 57819,
       "fontFamily": "GlyphsPoly",
       "identifier": "quoteSingle"
     },
     "r": {
-      "codepoint": 57614,
+      "codepoint": 57820,
       "fontFamily": "GlyphsPoly",
       "identifier": "r"
     },
     "rain": {
-      "codepoint": 57615,
+      "codepoint": 57821,
       "fontFamily": "GlyphsPoly",
       "identifier": "rain"
     },
     "rain-1": {
-      "codepoint": 57616,
+      "codepoint": 57822,
       "fontFamily": "GlyphsPoly",
       "identifier": "rain1"
     },
     "receipt": {
-      "codepoint": 57617,
+      "codepoint": 57823,
       "fontFamily": "GlyphsPoly",
       "identifier": "receipt"
     },
     "rectangle": {
-      "codepoint": 57618,
+      "codepoint": 57824,
       "fontFamily": "GlyphsPoly",
       "identifier": "rectangle"
     },
     "recycle": {
-      "codepoint": 57921,
+      "codepoint": 57825,
       "fontFamily": "GlyphsPoly",
       "identifier": "recycle"
     },
     "relax": {
-      "codepoint": 57619,
+      "codepoint": 57826,
       "fontFamily": "GlyphsPoly",
       "identifier": "relax"
     },
     "repeat": {
-      "codepoint": 57620,
+      "codepoint": 57827,
       "fontFamily": "GlyphsPoly",
       "identifier": "repeat"
     },
     "repeat-once": {
-      "codepoint": 57621,
+      "codepoint": 57828,
       "fontFamily": "GlyphsPoly",
       "identifier": "repeatOnce"
     },
     "replay": {
-      "codepoint": 57622,
+      "codepoint": 57829,
       "fontFamily": "GlyphsPoly",
       "identifier": "replay"
     },
     "restroom": {
-      "codepoint": 57623,
+      "codepoint": 57830,
       "fontFamily": "GlyphsPoly",
       "identifier": "restroom"
     },
     "robot": {
-      "codepoint": 57922,
+      "codepoint": 57831,
       "fontFamily": "GlyphsPoly",
       "identifier": "robot"
     },
     "rocket": {
-      "codepoint": 57923,
+      "codepoint": 57832,
       "fontFamily": "GlyphsPoly",
       "identifier": "rocket"
     },
     "rolling-eyes": {
-      "codepoint": 57624,
+      "codepoint": 57833,
       "fontFamily": "GlyphsPoly",
       "identifier": "rollingEyes"
     },
     "route": {
-      "codepoint": 57924,
+      "codepoint": 57834,
       "fontFamily": "GlyphsPoly",
       "identifier": "route"
     },
     "ruler": {
-      "codepoint": 57925,
+      "codepoint": 57835,
       "fontFamily": "GlyphsPoly",
       "identifier": "ruler"
     },
     "ruler-combined": {
-      "codepoint": 57926,
+      "codepoint": 57836,
       "fontFamily": "GlyphsPoly",
       "identifier": "rulerCombined"
     },
     "ruler-trinangle": {
-      "codepoint": 57927,
+      "codepoint": 57837,
       "fontFamily": "GlyphsPoly",
       "identifier": "rulerTrinangle"
     },
     "running": {
-      "codepoint": 57928,
+      "codepoint": 57838,
       "fontFamily": "GlyphsPoly",
       "identifier": "running"
     },
     "rv": {
-      "codepoint": 57929,
+      "codepoint": 57839,
       "fontFamily": "GlyphsPoly",
       "identifier": "rv"
     },
     "sad-cry": {
-      "codepoint": 57625,
+      "codepoint": 57840,
       "fontFamily": "GlyphsPoly",
       "identifier": "sadCry"
     },
     "sad-tear": {
-      "codepoint": 57626,
+      "codepoint": 57841,
       "fontFamily": "GlyphsPoly",
       "identifier": "sadTear"
     },
     "satellite": {
-      "codepoint": 57930,
+      "codepoint": 57842,
       "fontFamily": "GlyphsPoly",
       "identifier": "satellite"
     },
     "satellite-dish": {
-      "codepoint": 57931,
+      "codepoint": 57843,
       "fontFamily": "GlyphsPoly",
       "identifier": "satelliteDish"
     },
     "save": {
-      "codepoint": 57627,
+      "codepoint": 57844,
       "fontFamily": "GlyphsPoly",
       "identifier": "save"
     },
     "save-1": {
-      "codepoint": 57628,
+      "codepoint": 57845,
       "fontFamily": "GlyphsPoly",
       "identifier": "save1"
     },
     "scissors": {
-      "codepoint": 57629,
+      "codepoint": 57846,
       "fontFamily": "GlyphsPoly",
       "identifier": "scissors"
     },
     "scissors-open": {
-      "codepoint": 57630,
+      "codepoint": 57847,
       "fontFamily": "GlyphsPoly",
       "identifier": "scissorsOpen"
     },
     "scissors-open-1": {
-      "codepoint": 57631,
+      "codepoint": 57848,
       "fontFamily": "GlyphsPoly",
       "identifier": "scissorsOpen1"
     },
     "scooter": {
-      "codepoint": 57932,
+      "codepoint": 57849,
       "fontFamily": "GlyphsPoly",
       "identifier": "scooter"
     },
     "scooter-side": {
-      "codepoint": 57933,
+      "codepoint": 57850,
       "fontFamily": "GlyphsPoly",
       "identifier": "scooterSide"
     },
     "screwdriver": {
-      "codepoint": 57632,
+      "codepoint": 57851,
       "fontFamily": "GlyphsPoly",
       "identifier": "screwdriver"
     },
     "scroll": {
-      "codepoint": 57934,
+      "codepoint": 57852,
       "fontFamily": "GlyphsPoly",
       "identifier": "scroll"
     },
     "scroll-old": {
-      "codepoint": 57935,
+      "codepoint": 57853,
       "fontFamily": "GlyphsPoly",
       "identifier": "scrollOld"
     },
     "search": {
-      "codepoint": 57633,
+      "codepoint": 57854,
       "fontFamily": "GlyphsPoly",
       "identifier": "search"
     },
     "search-tint": {
-      "codepoint": 57634,
+      "codepoint": 57855,
       "fontFamily": "GlyphsPoly",
       "identifier": "searchTint"
     },
     "seedling": {
-      "codepoint": 57936,
+      "codepoint": 57856,
       "fontFamily": "GlyphsPoly",
       "identifier": "seedling"
     },
     "seek-skip": {
-      "codepoint": 57635,
+      "codepoint": 57857,
       "fontFamily": "GlyphsPoly",
       "identifier": "seekSkip"
     },
     "seek-skip-1": {
-      "codepoint": 57636,
+      "codepoint": 57858,
       "fontFamily": "GlyphsPoly",
       "identifier": "seekSkip1"
     },
     "seek-step": {
-      "codepoint": 57637,
+      "codepoint": 57859,
       "fontFamily": "GlyphsPoly",
       "identifier": "seekStep"
     },
     "send": {
-      "codepoint": 57937,
+      "codepoint": 57860,
       "fontFamily": "GlyphsPoly",
       "identifier": "send"
     },
     "seven": {
-      "codepoint": 57638,
+      "codepoint": 57861,
       "fontFamily": "GlyphsPoly",
       "identifier": "seven"
     },
     "shapes": {
-      "codepoint": 57938,
+      "codepoint": 57862,
       "fontFamily": "GlyphsPoly",
       "identifier": "shapes"
     },
     "share": {
-      "codepoint": 57639,
+      "codepoint": 57863,
       "fontFamily": "GlyphsPoly",
       "identifier": "share"
     },
     "shield": {
-      "codepoint": 57640,
+      "codepoint": 57864,
       "fontFamily": "GlyphsPoly",
       "identifier": "shield"
     },
     "shield-exclamation": {
-      "codepoint": 57939,
+      "codepoint": 57865,
       "fontFamily": "GlyphsPoly",
       "identifier": "shieldExclamation"
     },
     "ship-water": {
-      "codepoint": 57940,
+      "codepoint": 57866,
       "fontFamily": "GlyphsPoly",
       "identifier": "shipWater"
     },
     "shopping-bag": {
-      "codepoint": 57941,
+      "codepoint": 57867,
       "fontFamily": "GlyphsPoly",
       "identifier": "shoppingBag"
     },
     "shopping-bags": {
-      "codepoint": 57942,
+      "codepoint": 57868,
       "fontFamily": "GlyphsPoly",
       "identifier": "shoppingBags"
     },
     "shopping-cart": {
-      "codepoint": 57641,
+      "codepoint": 57869,
       "fontFamily": "GlyphsPoly",
       "identifier": "shoppingCart"
     },
     "shopping-cart-1": {
-      "codepoint": 57642,
+      "codepoint": 57870,
       "fontFamily": "GlyphsPoly",
       "identifier": "shoppingCart1"
     },
     "shovel-snow": {
-      "codepoint": 57643,
+      "codepoint": 57871,
       "fontFamily": "GlyphsPoly",
       "identifier": "shovelSnow"
     },
     "signal": {
-      "codepoint": 57644,
+      "codepoint": 57872,
       "fontFamily": "GlyphsPoly",
       "identifier": "signal"
     },
     "signal-1": {
-      "codepoint": 57645,
+      "codepoint": 57873,
       "fontFamily": "GlyphsPoly",
       "identifier": "signal1"
     },
     "signal-100": {
-      "codepoint": 57646,
+      "codepoint": 57874,
       "fontFamily": "GlyphsPoly",
       "identifier": "signal100"
     },
     "signal-2": {
-      "codepoint": 57647,
+      "codepoint": 57875,
       "fontFamily": "GlyphsPoly",
       "identifier": "signal2"
     },
     "signal-25": {
-      "codepoint": 57648,
+      "codepoint": 57876,
       "fontFamily": "GlyphsPoly",
       "identifier": "signal25"
     },
     "signal-3": {
-      "codepoint": 57649,
+      "codepoint": 57877,
       "fontFamily": "GlyphsPoly",
       "identifier": "signal3"
     },
     "signal-4": {
-      "codepoint": 57650,
+      "codepoint": 57878,
       "fontFamily": "GlyphsPoly",
       "identifier": "signal4"
     },
     "signal-50": {
-      "codepoint": 57651,
+      "codepoint": 57879,
       "fontFamily": "GlyphsPoly",
       "identifier": "signal50"
     },
     "signal-75": {
-      "codepoint": 57652,
+      "codepoint": 57880,
       "fontFamily": "GlyphsPoly",
       "identifier": "signal75"
     },
     "signal-rod": {
-      "codepoint": 57653,
+      "codepoint": 57881,
       "fontFamily": "GlyphsPoly",
       "identifier": "signalRod"
     },
     "signal-tower": {
-      "codepoint": 57654,
+      "codepoint": 57882,
       "fontFamily": "GlyphsPoly",
       "identifier": "signalTower"
     },
     "signature": {
-      "codepoint": 57655,
+      "codepoint": 57883,
       "fontFamily": "GlyphsPoly",
       "identifier": "signature"
     },
     "skull": {
-      "codepoint": 57656,
+      "codepoint": 57884,
       "fontFamily": "GlyphsPoly",
       "identifier": "skull"
     },
     "skull-1": {
-      "codepoint": 57657,
+      "codepoint": 57885,
       "fontFamily": "GlyphsPoly",
       "identifier": "skull1"
     },
     "sleet": {
-      "codepoint": 57658,
+      "codepoint": 57886,
       "fontFamily": "GlyphsPoly",
       "identifier": "sleet"
     },
     "sleetlet": {
-      "codepoint": 57659,
+      "codepoint": 57887,
       "fontFamily": "GlyphsPoly",
       "identifier": "sleetlet"
     },
     "sliders": {
-      "codepoint": 57660,
+      "codepoint": 57888,
       "fontFamily": "GlyphsPoly",
       "identifier": "sliders"
     },
     "smile": {
-      "codepoint": 57661,
+      "codepoint": 57889,
       "fontFamily": "GlyphsPoly",
       "identifier": "smile"
     },
     "smile-beam": {
-      "codepoint": 57662,
+      "codepoint": 57890,
       "fontFamily": "GlyphsPoly",
       "identifier": "smileBeam"
     },
     "snooze": {
-      "codepoint": 57663,
+      "codepoint": 57891,
       "fontFamily": "GlyphsPoly",
       "identifier": "snooze"
     },
     "snow": {
-      "codepoint": 57664,
+      "codepoint": 57892,
       "fontFamily": "GlyphsPoly",
       "identifier": "snow"
     },
     "snowflake": {
-      "codepoint": 57665,
+      "codepoint": 57893,
       "fontFamily": "GlyphsPoly",
       "identifier": "snowflake"
     },
     "sort-alpha-down": {
-      "codepoint": 57943,
+      "codepoint": 57894,
       "fontFamily": "GlyphsPoly",
       "identifier": "sortAlphaDown"
     },
     "sort-alpha-up": {
-      "codepoint": 57944,
+      "codepoint": 57895,
       "fontFamily": "GlyphsPoly",
       "identifier": "sortAlphaUp"
     },
     "sort-amount-down": {
-      "codepoint": 57945,
+      "codepoint": 57896,
       "fontFamily": "GlyphsPoly",
       "identifier": "sortAmountDown"
     },
     "sort-amount-up": {
-      "codepoint": 57946,
+      "codepoint": 57897,
       "fontFamily": "GlyphsPoly",
       "identifier": "sortAmountUp"
     },
     "sort-numeric-down": {
-      "codepoint": 57666,
+      "codepoint": 57898,
       "fontFamily": "GlyphsPoly",
       "identifier": "sortNumericDown"
     },
     "sort-numeric-up": {
-      "codepoint": 57667,
+      "codepoint": 57899,
       "fontFamily": "GlyphsPoly",
       "identifier": "sortNumericUp"
     },
     "sort-size-up": {
-      "codepoint": 57668,
+      "codepoint": 57900,
       "fontFamily": "GlyphsPoly",
       "identifier": "sortSizeUp"
     },
     "sort-size-up-1": {
-      "codepoint": 57669,
+      "codepoint": 57901,
       "fontFamily": "GlyphsPoly",
       "identifier": "sortSizeUp1"
     },
     "spa": {
-      "codepoint": 57670,
+      "codepoint": 57902,
       "fontFamily": "GlyphsPoly",
       "identifier": "spa"
     },
     "spade": {
-      "codepoint": 57671,
+      "codepoint": 57903,
       "fontFamily": "GlyphsPoly",
       "identifier": "spade"
     },
     "sparkle": {
-      "codepoint": 57672,
+      "codepoint": 57904,
       "fontFamily": "GlyphsPoly",
       "identifier": "sparkle"
     },
     "sparkles": {
-      "codepoint": 57673,
+      "codepoint": 57905,
       "fontFamily": "GlyphsPoly",
       "identifier": "sparkles"
     },
     "sparkles-1": {
-      "codepoint": 57674,
+      "codepoint": 57906,
       "fontFamily": "GlyphsPoly",
       "identifier": "sparkles1"
     },
     "speaker": {
-      "codepoint": 57675,
+      "codepoint": 57907,
       "fontFamily": "GlyphsPoly",
       "identifier": "speaker"
     },
     "speedometer-3": {
-      "codepoint": 57947,
+      "codepoint": 57908,
       "fontFamily": "GlyphsPoly",
       "identifier": "speedometer3"
     },
     "spinner": {
-      "codepoint": 57676,
+      "codepoint": 57909,
       "fontFamily": "GlyphsPoly",
       "identifier": "spinner"
     },
     "spinner-2": {
-      "codepoint": 57677,
+      "codepoint": 57910,
       "fontFamily": "GlyphsPoly",
       "identifier": "spinner2"
     },
     "square": {
-      "codepoint": 57678,
+      "codepoint": 57911,
       "fontFamily": "GlyphsPoly",
       "identifier": "square"
     },
     "square-half": {
-      "codepoint": 57679,
+      "codepoint": 57912,
       "fontFamily": "GlyphsPoly",
       "identifier": "squareHalf"
     },
     "square-half-1": {
-      "codepoint": 57680,
+      "codepoint": 57913,
       "fontFamily": "GlyphsPoly",
       "identifier": "squareHalf1"
     },
     "square-half-2": {
-      "codepoint": 57681,
+      "codepoint": 57914,
       "fontFamily": "GlyphsPoly",
       "identifier": "squareHalf2"
     },
     "stamp": {
-      "codepoint": 57682,
+      "codepoint": 57915,
       "fontFamily": "GlyphsPoly",
       "identifier": "stamp"
     },
     "star-half-1": {
-      "codepoint": 57948,
+      "codepoint": 57916,
       "fontFamily": "GlyphsPoly",
       "identifier": "starHalf1"
     },
     "star-half-2": {
-      "codepoint": 57949,
+      "codepoint": 57917,
       "fontFamily": "GlyphsPoly",
       "identifier": "starHalf2"
     },
     "star-of-david": {
-      "codepoint": 57683,
+      "codepoint": 57918,
       "fontFamily": "GlyphsPoly",
       "identifier": "starOfDavid"
     },
     "stop": {
-      "codepoint": 57684,
+      "codepoint": 57919,
       "fontFamily": "GlyphsPoly",
       "identifier": "stop"
     },
     "stop-circle": {
-      "codepoint": 57950,
+      "codepoint": 57920,
       "fontFamily": "GlyphsPoly",
       "identifier": "stopCircle"
     },
     "store": {
-      "codepoint": 57951,
+      "codepoint": 57921,
       "fontFamily": "GlyphsPoly",
       "identifier": "store"
     },
     "store-break": {
-      "codepoint": 57952,
+      "codepoint": 57922,
       "fontFamily": "GlyphsPoly",
       "identifier": "storeBreak"
     },
     "stream": {
-      "codepoint": 57953,
+      "codepoint": 57923,
       "fontFamily": "GlyphsPoly",
       "identifier": "stream"
     },
     "street-view": {
-      "codepoint": 57954,
+      "codepoint": 57924,
       "fontFamily": "GlyphsPoly",
       "identifier": "streetView"
     },
     "subtract": {
-      "codepoint": 57685,
+      "codepoint": 57925,
       "fontFamily": "GlyphsPoly",
       "identifier": "subtract"
     },
     "sun": {
-      "codepoint": 57955,
+      "codepoint": 57926,
       "fontFamily": "GlyphsPoly",
       "identifier": "sun"
     },
     "sunny-mostly": {
-      "codepoint": 57686,
+      "codepoint": 57927,
       "fontFamily": "GlyphsPoly",
       "identifier": "sunnyMostly"
     },
     "sunrise": {
-      "codepoint": 57956,
+      "codepoint": 57928,
       "fontFamily": "GlyphsPoly",
       "identifier": "sunrise"
     },
     "sunset": {
-      "codepoint": 57957,
+      "codepoint": 57929,
       "fontFamily": "GlyphsPoly",
       "identifier": "sunset"
     },
     "surprise": {
-      "codepoint": 57687,
+      "codepoint": 57930,
       "fontFamily": "GlyphsPoly",
       "identifier": "surprise"
     },
     "tablet": {
-      "codepoint": 57958,
+      "codepoint": 57931,
       "fontFamily": "GlyphsPoly",
       "identifier": "tablet"
     },
     "tachometer": {
-      "codepoint": 57959,
+      "codepoint": 57932,
       "fontFamily": "GlyphsPoly",
       "identifier": "tachometer"
     },
     "tachometer-1": {
-      "codepoint": 57960,
+      "codepoint": 57933,
       "fontFamily": "GlyphsPoly",
       "identifier": "tachometer1"
     },
     "tachometer-2": {
-      "codepoint": 57961,
+      "codepoint": 57934,
       "fontFamily": "GlyphsPoly",
       "identifier": "tachometer2"
     },
     "tachometer-3": {
-      "codepoint": 57962,
+      "codepoint": 57935,
       "fontFamily": "GlyphsPoly",
       "identifier": "tachometer3"
     },
     "tachometer-4": {
-      "codepoint": 57963,
+      "codepoint": 57936,
       "fontFamily": "GlyphsPoly",
       "identifier": "tachometer4"
     },
     "tachometer-5": {
-      "codepoint": 57964,
+      "codepoint": 57937,
       "fontFamily": "GlyphsPoly",
       "identifier": "tachometer5"
     },
     "tachometer-6": {
-      "codepoint": 57965,
+      "codepoint": 57938,
       "fontFamily": "GlyphsPoly",
       "identifier": "tachometer6"
     },
     "tachometer-7": {
-      "codepoint": 57966,
+      "codepoint": 57939,
       "fontFamily": "GlyphsPoly",
       "identifier": "tachometer7"
     },
     "tachometer-8": {
-      "codepoint": 57967,
+      "codepoint": 57940,
       "fontFamily": "GlyphsPoly",
       "identifier": "tachometer8"
     },
     "tachometer-9": {
-      "codepoint": 57968,
+      "codepoint": 57941,
       "fontFamily": "GlyphsPoly",
       "identifier": "tachometer9"
     },
     "tag": {
-      "codepoint": 57969,
+      "codepoint": 57942,
       "fontFamily": "GlyphsPoly",
       "identifier": "tag"
     },
     "tags": {
-      "codepoint": 57970,
+      "codepoint": 57943,
       "fontFamily": "GlyphsPoly",
       "identifier": "tags"
     },
     "target": {
-      "codepoint": 57971,
+      "codepoint": 57944,
       "fontFamily": "GlyphsPoly",
       "identifier": "target"
     },
     "target-pointer": {
-      "codepoint": 57972,
+      "codepoint": 57945,
       "fontFamily": "GlyphsPoly",
       "identifier": "targetPointer"
     },
     "temperature": {
-      "codepoint": 57973,
+      "codepoint": 57946,
       "fontFamily": "GlyphsPoly",
       "identifier": "temperature"
     },
     "temperature-cold": {
-      "codepoint": 57688,
+      "codepoint": 57947,
       "fontFamily": "GlyphsPoly",
       "identifier": "temperatureCold"
     },
     "temperature-hot": {
-      "codepoint": 57974,
+      "codepoint": 57948,
       "fontFamily": "GlyphsPoly",
       "identifier": "temperatureHot"
     },
     "tent": {
-      "codepoint": 57975,
+      "codepoint": 57949,
       "fontFamily": "GlyphsPoly",
       "identifier": "tent"
     },
     "text": {
-      "codepoint": 57689,
+      "codepoint": 57950,
       "fontFamily": "GlyphsPoly",
       "identifier": "text"
     },
     "three": {
-      "codepoint": 57690,
+      "codepoint": 57951,
       "fontFamily": "GlyphsPoly",
       "identifier": "three"
     },
     "ticket": {
-      "codepoint": 57976,
+      "codepoint": 57952,
       "fontFamily": "GlyphsPoly",
       "identifier": "ticket"
     },
     "ticket-1": {
-      "codepoint": 57977,
+      "codepoint": 57953,
       "fontFamily": "GlyphsPoly",
       "identifier": "ticket1"
     },
     "tilde": {
-      "codepoint": 57978,
+      "codepoint": 57954,
       "fontFamily": "GlyphsPoly",
       "identifier": "tilde"
     },
     "timer": {
-      "codepoint": 57979,
+      "codepoint": 57955,
       "fontFamily": "GlyphsPoly",
       "identifier": "timer"
     },
     "timer-1": {
-      "codepoint": 57980,
+      "codepoint": 57956,
       "fontFamily": "GlyphsPoly",
       "identifier": "timer1"
     },
     "timer-2": {
-      "codepoint": 57981,
+      "codepoint": 57957,
       "fontFamily": "GlyphsPoly",
       "identifier": "timer2"
     },
     "timer-fast": {
-      "codepoint": 57982,
+      "codepoint": 57958,
       "fontFamily": "GlyphsPoly",
       "identifier": "timerFast",
       "duotone": true
     },
     "times": {
-      "codepoint": 57983,
+      "codepoint": 57959,
       "fontFamily": "GlyphsPoly",
       "identifier": "times"
     },
     "tired": {
-      "codepoint": 57691,
+      "codepoint": 57960,
       "fontFamily": "GlyphsPoly",
       "identifier": "tired"
     },
     "toggle": {
-      "codepoint": 57984,
+      "codepoint": 57961,
       "fontFamily": "GlyphsPoly",
       "identifier": "toggle"
     },
     "toggle-1": {
-      "codepoint": 57985,
+      "codepoint": 57962,
       "fontFamily": "GlyphsPoly",
       "identifier": "toggle1"
     },
     "toggle-2": {
-      "codepoint": 57986,
+      "codepoint": 57963,
       "fontFamily": "GlyphsPoly",
       "identifier": "toggle2"
     },
     "toolbox": {
-      "codepoint": 57987,
+      "codepoint": 57964,
       "fontFamily": "GlyphsPoly",
       "identifier": "toolbox"
     },
     "tornado": {
-      "codepoint": 57692,
+      "codepoint": 57965,
       "fontFamily": "GlyphsPoly",
       "identifier": "tornado"
     },
     "trash": {
-      "codepoint": 57988,
+      "codepoint": 57966,
       "fontFamily": "GlyphsPoly",
       "identifier": "trash"
     },
     "trash-1": {
-      "codepoint": 57693,
+      "codepoint": 57967,
       "fontFamily": "GlyphsPoly",
       "identifier": "trash1"
     },
     "tree-2": {
-      "codepoint": 57989,
+      "codepoint": 57968,
       "fontFamily": "GlyphsPoly",
       "identifier": "tree2"
     },
     "tree-5": {
-      "codepoint": 57990,
+      "codepoint": 57969,
       "fontFamily": "GlyphsPoly",
       "identifier": "tree5"
     },
     "triangle": {
-      "codepoint": 57694,
+      "codepoint": 57970,
       "fontFamily": "GlyphsPoly",
       "identifier": "triangle",
       "duotone": true
     },
     "truck": {
-      "codepoint": 57991,
+      "codepoint": 57971,
       "fontFamily": "GlyphsPoly",
       "identifier": "truck"
     },
     "turn-sign": {
-      "codepoint": 57695,
+      "codepoint": 57972,
       "fontFamily": "GlyphsPoly",
       "identifier": "turnSign"
     },
     "tv-retro": {
-      "codepoint": 57992,
+      "codepoint": 57973,
       "fontFamily": "GlyphsPoly",
       "identifier": "tvRetro"
     },
     "u-turn-sign": {
-      "codepoint": 57696,
+      "codepoint": 57974,
       "fontFamily": "GlyphsPoly",
       "identifier": "uTurnSign"
     },
     "union": {
-      "codepoint": 57697,
+      "codepoint": 57975,
       "fontFamily": "GlyphsPoly",
       "identifier": "union"
     },
     "unlink": {
-      "codepoint": 57993,
+      "codepoint": 57976,
       "fontFamily": "GlyphsPoly",
       "identifier": "unlink"
     },
     "user": {
-      "codepoint": 57994,
+      "codepoint": 57977,
       "fontFamily": "GlyphsPoly",
       "identifier": "user"
     },
     "user-circle": {
-      "codepoint": 57995,
+      "codepoint": 57978,
       "fontFamily": "GlyphsPoly",
       "identifier": "userCircle"
     },
     "users": {
-      "codepoint": 57996,
+      "codepoint": 57979,
       "fontFamily": "GlyphsPoly",
       "identifier": "users"
     },
     "users-1": {
-      "codepoint": 57997,
+      "codepoint": 57980,
       "fontFamily": "GlyphsPoly",
       "identifier": "users1"
     },
     "v": {
-      "codepoint": 57698,
+      "codepoint": 57981,
       "fontFamily": "GlyphsPoly",
       "identifier": "v"
     },
     "van": {
-      "codepoint": 57998,
+      "codepoint": 57982,
       "fontFamily": "GlyphsPoly",
       "identifier": "van"
     },
     "venn": {
-      "codepoint": 57999,
+      "codepoint": 57983,
       "fontFamily": "GlyphsPoly",
       "identifier": "venn"
     },
     "video": {
-      "codepoint": 58000,
+      "codepoint": 57984,
       "fontFamily": "GlyphsPoly",
       "identifier": "video"
     },
     "view-collapse": {
-      "codepoint": 57699,
+      "codepoint": 57985,
       "fontFamily": "GlyphsPoly",
       "identifier": "viewCollapse"
     },
     "view-expand": {
-      "codepoint": 57700,
+      "codepoint": 57986,
       "fontFamily": "GlyphsPoly",
       "identifier": "viewExpand"
     },
     "volleyball": {
-      "codepoint": 57701,
+      "codepoint": 57987,
       "fontFamily": "GlyphsPoly",
       "identifier": "volleyball"
     },
     "volume": {
-      "codepoint": 58001,
+      "codepoint": 57988,
       "fontFamily": "GlyphsPoly",
       "identifier": "volume"
     },
     "walking": {
-      "codepoint": 58002,
+      "codepoint": 57989,
       "fontFamily": "GlyphsPoly",
       "identifier": "walking"
     },
     "watch": {
-      "codepoint": 58003,
+      "codepoint": 57990,
       "fontFamily": "GlyphsPoly",
       "identifier": "watch"
     },
     "watch-1": {
-      "codepoint": 57702,
+      "codepoint": 57991,
       "fontFamily": "GlyphsPoly",
       "identifier": "watch1"
     },
     "watch-2": {
-      "codepoint": 57703,
+      "codepoint": 57992,
       "fontFamily": "GlyphsPoly",
       "identifier": "watch2"
     },
     "watch-fitness": {
-      "codepoint": 58004,
+      "codepoint": 57993,
       "fontFamily": "GlyphsPoly",
       "identifier": "watchFitness"
     },
     "waves": {
-      "codepoint": 57704,
+      "codepoint": 57994,
       "fontFamily": "GlyphsPoly",
       "identifier": "waves"
     },
     "waves-1": {
-      "codepoint": 57705,
+      "codepoint": 57995,
       "fontFamily": "GlyphsPoly",
       "identifier": "waves1"
     },
     "wifi": {
-      "codepoint": 57706,
+      "codepoint": 57996,
       "fontFamily": "GlyphsPoly",
       "identifier": "wifi"
     },
     "wifi-1": {
-      "codepoint": 57707,
+      "codepoint": 57997,
       "fontFamily": "GlyphsPoly",
       "identifier": "wifi1"
     },
     "wifi-100": {
-      "codepoint": 58005,
+      "codepoint": 57998,
       "fontFamily": "GlyphsPoly",
       "identifier": "wifi100"
     },
     "wifi-2": {
-      "codepoint": 57708,
+      "codepoint": 57999,
       "fontFamily": "GlyphsPoly",
       "identifier": "wifi2"
     },
     "wifi-25": {
-      "codepoint": 57709,
+      "codepoint": 58000,
       "fontFamily": "GlyphsPoly",
       "identifier": "wifi25"
     },
     "wifi-50": {
-      "codepoint": 57710,
+      "codepoint": 58001,
       "fontFamily": "GlyphsPoly",
       "identifier": "wifi50"
     },
     "wifi-75": {
-      "codepoint": 57711,
+      "codepoint": 58002,
       "fontFamily": "GlyphsPoly",
       "identifier": "wifi75"
     },
     "wind": {
-      "codepoint": 57712,
+      "codepoint": 58003,
       "fontFamily": "GlyphsPoly",
       "identifier": "wind"
     },
     "window": {
-      "codepoint": 58006,
+      "codepoint": 58004,
       "fontFamily": "GlyphsPoly",
       "identifier": "window"
     },
     "windsock": {
-      "codepoint": 58007,
+      "codepoint": 58005,
       "fontFamily": "GlyphsPoly",
       "identifier": "windsock"
     },
     "wink": {
-      "codepoint": 57713,
+      "codepoint": 58006,
       "fontFamily": "GlyphsPoly",
       "identifier": "wink"
     },
     "yield-sign": {
-      "codepoint": 58008,
+      "codepoint": 58007,
       "fontFamily": "GlyphsPoly",
       "identifier": "yieldSign"
     },
     "ying-yang": {
-      "codepoint": 58009,
+      "codepoint": 58008,
       "fontFamily": "GlyphsPoly",
       "identifier": "yingYang"
     },
     "z": {
-      "codepoint": 57714,
+      "codepoint": 58009,
       "fontFamily": "GlyphsPoly",
       "identifier": "z"
     }
