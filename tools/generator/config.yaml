@@ -50,6 +50,8 @@ strokeFillSets:
   - sidekickicons
   - tdesign
   - circum
+  - mynaui
+  - et
 
 # Synthesize multi-weight variants for stroke-only sets that don't already
 # ship weight families upstream. For each listed prefix, the generator

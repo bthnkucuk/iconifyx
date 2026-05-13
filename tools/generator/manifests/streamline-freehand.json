@@ -16,35 +16,4780 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 4
+    "total": 953
   },
   "fonts": [
     {
       "family": "StreamlineFreehand",
-      "nextCodepoint": 57348,
-      "iconCount": 4
+      "nextCodepoint": 58297,
+      "iconCount": 953
     }
   ],
   "icons": {
-    "cd-rom-burn": {
+    "accessories-remote-shutter": {
       "codepoint": 57344,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "accessoriesRemoteShutter"
+    },
+    "accessories-retro-film-1": {
+      "codepoint": 57345,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "accessoriesRetroFilm1"
+    },
+    "accounting-abacus": {
+      "codepoint": 57346,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "accountingAbacus"
+    },
+    "accounting-calculator": {
+      "codepoint": 57347,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "accountingCalculator"
+    },
+    "accounting-invoice-mail": {
+      "codepoint": 57348,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "accountingInvoiceMail"
+    },
+    "add-sign-bold": {
+      "codepoint": 57349,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "addSignBold"
+    },
+    "advertising-ad-browser": {
+      "codepoint": 57350,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "advertisingAdBrowser"
+    },
+    "advertising-money-idea": {
+      "codepoint": 57351,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "advertisingMoneyIdea"
+    },
+    "airplane-mode-rectangle": {
+      "codepoint": 57352,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "airplaneModeRectangle"
+    },
+    "alert-alarm-bell": {
+      "codepoint": 57353,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "alertAlarmBell"
+    },
+    "alert-alarm-clock": {
+      "codepoint": 57354,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "alertAlarmClock"
+    },
+    "alerts-radioactive-circle": {
+      "codepoint": 57355,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "alertsRadioactiveCircle"
+    },
+    "alerts-stop-sign": {
+      "codepoint": 57356,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "alertsStopSign"
+    },
+    "alerts-warning-triangle": {
+      "codepoint": 57357,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "alertsWarningTriangle"
+    },
+    "allowances-no-food-sign": {
+      "codepoint": 57358,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "allowancesNoFoodSign"
+    },
+    "allowances-silence": {
+      "codepoint": 57359,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "allowancesSilence"
+    },
+    "allowances-smoking": {
+      "codepoint": 57360,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "allowancesSmoking"
+    },
+    "amusement-park-castle": {
+      "codepoint": 57361,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "amusementParkCastle"
+    },
+    "amusement-park-ferris-wheel": {
+      "codepoint": 57362,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "amusementParkFerrisWheel"
+    },
+    "amusement-park-strength-meter": {
+      "codepoint": 57363,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "amusementParkStrengthMeter"
+    },
+    "analytics-board-graph-line": {
+      "codepoint": 57364,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "analyticsBoardGraphLine"
+    },
+    "analytics-graph-line-triple": {
+      "codepoint": 57365,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "analyticsGraphLineTriple"
+    },
+    "analytics-graph-pie": {
+      "codepoint": 57366,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "analyticsGraphPie"
+    },
+    "analytics-graph-stock": {
+      "codepoint": 57367,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "analyticsGraphStock"
+    },
+    "android-logo": {
+      "codepoint": 57368,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "androidLogo"
+    },
+    "android-settings": {
+      "codepoint": 57369,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "androidSettings"
+    },
+    "answer-machine-voice-mail": {
+      "codepoint": 57370,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "answerMachineVoiceMail"
+    },
+    "app-window-bookmark": {
+      "codepoint": 57371,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "appWindowBookmark"
+    },
+    "app-window-expand": {
+      "codepoint": 57372,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "appWindowExpand"
+    },
+    "app-window-graph": {
+      "codepoint": 57373,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "appWindowGraph"
+    },
+    "app-window-layout": {
+      "codepoint": 57374,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "appWindowLayout"
+    },
+    "app-window-link": {
+      "codepoint": 57375,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "appWindowLink"
+    },
+    "app-window-search-text": {
+      "codepoint": 57376,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "appWindowSearchText"
+    },
+    "app-window-source-code": {
+      "codepoint": 57377,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "appWindowSourceCode"
+    },
+    "app-window-two": {
+      "codepoint": 57378,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "appWindowTwo"
+    },
+    "app-window-user": {
+      "codepoint": 57379,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "appWindowUser"
+    },
+    "app-window-wireless-problem": {
+      "codepoint": 57380,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "appWindowWirelessProblem"
+    },
+    "apps-laptop-shield": {
+      "codepoint": 57381,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "appsLaptopShield"
+    },
+    "apps-monitor-graph-line": {
+      "codepoint": 57382,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "appsMonitorGraphLine"
+    },
+    "apps-monitor-user": {
+      "codepoint": 57383,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "appsMonitorUser"
+    },
+    "archive-box": {
+      "codepoint": 57384,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "archiveBox"
+    },
+    "archive-drawer-1": {
+      "codepoint": 57385,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "archiveDrawer1"
+    },
+    "archive-drawer-2": {
+      "codepoint": 57386,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "archiveDrawer2"
+    },
+    "arduino-plus-minus-1": {
+      "codepoint": 57387,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "arduinoPlusMinus1"
+    },
+    "barcode-view-price": {
+      "codepoint": 57388,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "barcodeViewPrice"
+    },
+    "begging-giving": {
+      "codepoint": 57389,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "beggingGiving"
+    },
+    "bluetooth-logo": {
+      "codepoint": 57390,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "bluetoothLogo"
+    },
+    "board-game-chess-figures": {
+      "codepoint": 57391,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "boardGameChessFigures"
+    },
+    "board-game-dice-pawn": {
+      "codepoint": 57392,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "boardGameDicePawn"
+    },
+    "book-bookmark": {
+      "codepoint": 57393,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "bookBookmark"
+    },
+    "book-flip-page": {
+      "codepoint": 57394,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "bookFlipPage"
+    },
+    "book-library-shelf-1": {
+      "codepoint": 57395,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "bookLibraryShelf1"
+    },
+    "book-sound-audio": {
+      "codepoint": 57396,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "bookSoundAudio"
+    },
+    "bookmarks-document": {
+      "codepoint": 57397,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "bookmarksDocument"
+    },
+    "broken-smartphone-1": {
+      "codepoint": 57398,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "brokenSmartphone1"
+    },
+    "bug-alert-message": {
+      "codepoint": 57399,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "bugAlertMessage"
+    },
+    "bug-browser-warning": {
+      "codepoint": 57400,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "bugBrowserWarning"
+    },
+    "bug-cloud-error": {
+      "codepoint": 57401,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "bugCloudError"
+    },
+    "bug-service-chat": {
+      "codepoint": 57402,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "bugServiceChat"
+    },
+    "business-cash-eye": {
+      "codepoint": 57403,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "businessCashEye"
+    },
+    "business-cash-idea": {
+      "codepoint": 57404,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "businessCashIdea"
+    },
+    "business-cash-scale-balance": {
+      "codepoint": 57405,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "businessCashScaleBalance"
+    },
+    "business-cash-search": {
+      "codepoint": 57406,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "businessCashSearch"
+    },
+    "business-coaching-bait-1": {
+      "codepoint": 57407,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "businessCoachingBait1"
+    },
+    "business-coaching-idea-jigsaw": {
+      "codepoint": 57408,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "businessCoachingIdeaJigsaw"
+    },
+    "business-coaching-strategy-1": {
+      "codepoint": 57409,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "businessCoachingStrategy1"
+    },
+    "business-coaching-whistle": {
+      "codepoint": 57410,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "businessCoachingWhistle"
+    },
+    "business-deal-handshake": {
+      "codepoint": 57411,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "businessDealHandshake"
+    },
+    "business-deal-men-cash-conversation": {
+      "codepoint": 57412,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "businessDealMenCashConversation"
+    },
+    "business-management-agreement": {
+      "codepoint": 57413,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "businessManagementAgreement"
+    },
+    "business-management-team-up": {
+      "codepoint": 57414,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "businessManagementTeamUp"
+    },
+    "business-management-teamwork-clap": {
+      "codepoint": 57415,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "businessManagementTeamworkClap"
+    },
+    "business-metaphor-boat-success": {
+      "codepoint": 57416,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "businessMetaphorBoatSuccess"
+    },
+    "business-metaphor-burn-money": {
+      "codepoint": 57417,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "businessMetaphorBurnMoney"
+    },
+    "business-metaphor-lucky-cat": {
+      "codepoint": 57418,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "businessMetaphorLuckyCat"
+    },
+    "business-metaphor-shark": {
+      "codepoint": 57419,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "businessMetaphorShark"
+    },
+    "business-product-supplier-1": {
+      "codepoint": 57420,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "businessProductSupplier1"
+    },
+    "business-product-supplier-2": {
+      "codepoint": 57421,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "businessProductSupplier2"
+    },
+    "business-workflow-compare": {
+      "codepoint": 57422,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "businessWorkflowCompare"
+    },
+    "business-workflow-merge-1": {
+      "codepoint": 57423,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "businessWorkflowMerge1"
+    },
+    "business-workflow-merge-2": {
+      "codepoint": 57424,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "businessWorkflowMerge2"
+    },
+    "business-workflow-project-management": {
+      "codepoint": 57425,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "businessWorkflowProjectManagement"
+    },
+    "cables-split": {
+      "codepoint": 57426,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cablesSplit"
+    },
+    "cables-usb-1": {
+      "codepoint": 57427,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cablesUsb1"
+    },
+    "cables-usb-type-c": {
+      "codepoint": 57428,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cablesUsbTypeC"
+    },
+    "calculator-calculator-app": {
+      "codepoint": 57429,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "calculatorCalculatorApp"
+    },
+    "calendar-date": {
+      "codepoint": 57430,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "calendarDate"
+    },
+    "calendar-grid": {
+      "codepoint": 57431,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "calendarGrid"
+    },
+    "camera": {
+      "codepoint": 57432,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "camera"
+    },
+    "camera-double": {
+      "codepoint": 57433,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cameraDouble"
+    },
+    "camera-mode-photo": {
+      "codepoint": 57434,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cameraModePhoto"
+    },
+    "camera-settings-flip": {
+      "codepoint": 57435,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cameraSettingsFlip"
+    },
+    "camera-settings-hand-motion": {
+      "codepoint": 57436,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cameraSettingsHandMotion"
+    },
+    "camera-settings-wifi": {
+      "codepoint": 57437,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cameraSettingsWifi"
+    },
+    "camera-stabilizer": {
+      "codepoint": 57438,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cameraStabilizer"
+    },
+    "camera-studio": {
+      "codepoint": 57439,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cameraStudio"
+    },
+    "camera-tripod": {
+      "codepoint": 57440,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cameraTripod"
+    },
+    "card-game-card-spade": {
+      "codepoint": 57441,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cardGameCardSpade"
+    },
+    "card-game-symbols": {
+      "codepoint": 57442,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cardGameSymbols"
+    },
+    "cash-payment-bag-1": {
+      "codepoint": 57443,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cashPaymentBag1"
+    },
+    "cash-payment-bill": {
+      "codepoint": 57444,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cashPaymentBill"
+    },
+    "cash-payment-coin-1": {
+      "codepoint": 57445,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cashPaymentCoin1"
+    },
+    "cash-payment-pen-signature": {
+      "codepoint": 57446,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cashPaymentPenSignature"
+    },
+    "cash-payment-sign-2": {
+      "codepoint": 57447,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cashPaymentSign2"
+    },
+    "casino-777-slot-machine": {
+      "codepoint": 57448,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "casino777SlotMachine"
+    },
+    "cd-disc": {
+      "codepoint": 57449,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cdDisc"
+    },
+    "cd-player-disc": {
+      "codepoint": 57450,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cdPlayerDisc"
+    },
+    "cd-rom-burn": {
+      "codepoint": 57451,
       "fontFamily": "StreamlineFreehand",
       "identifier": "cdRomBurn"
     },
+    "cd-rom-disc-1": {
+      "codepoint": 57452,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cdRomDisc1"
+    },
+    "cd-rom-disc-broken": {
+      "codepoint": 57453,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cdRomDiscBroken"
+    },
+    "cell-formating-border-horizontal-vertical": {
+      "codepoint": 57454,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cellFormatingBorderHorizontalVertical"
+    },
+    "cellular-network-lte": {
+      "codepoint": 57455,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cellularNetworkLte"
+    },
+    "cellular-network-wifi-3g": {
+      "codepoint": 57456,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cellularNetworkWifi3g"
+    },
+    "cellular-network-wifi-4g": {
+      "codepoint": 57457,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cellularNetworkWifi4g"
+    },
+    "cellular-network-wifi-5g": {
+      "codepoint": 57458,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cellularNetworkWifi5g"
+    },
+    "charging-battery-eco": {
+      "codepoint": 57459,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "chargingBatteryEco"
+    },
+    "charging-battery-empty": {
+      "codepoint": 57460,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "chargingBatteryEmpty"
+    },
+    "charging-battery-flash-connected": {
+      "codepoint": 57461,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "chargingBatteryFlashConnected"
+    },
+    "charging-battery-high-1": {
+      "codepoint": 57462,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "chargingBatteryHigh1"
+    },
+    "charging-battery-low-2": {
+      "codepoint": 57463,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "chargingBatteryLow2"
+    },
+    "charging-flash-wave": {
+      "codepoint": 57464,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "chargingFlashWave"
+    },
+    "charging-flash-wireless": {
+      "codepoint": 57465,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "chargingFlashWireless"
+    },
+    "check-payment-sign": {
+      "codepoint": 57466,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "checkPaymentSign"
+    },
+    "circus-clown-1": {
+      "codepoint": 57467,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "circusClown1"
+    },
+    "circus-tent": {
+      "codepoint": 57468,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "circusTent"
+    },
+    "cleaning-man": {
+      "codepoint": 57469,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cleaningMan"
+    },
+    "cleaning-robot-vacuum": {
+      "codepoint": 57470,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cleaningRobotVacuum"
+    },
+    "cloud-check": {
+      "codepoint": 57471,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cloudCheck"
+    },
+    "cloud-data-transfer": {
+      "codepoint": 57472,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cloudDataTransfer"
+    },
+    "cloud-disable": {
+      "codepoint": 57473,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cloudDisable"
+    },
+    "cloud-error-404": {
+      "codepoint": 57474,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cloudError404"
+    },
+    "cloud-gaming-service": {
+      "codepoint": 57475,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cloudGamingService"
+    },
+    "cloud-loading": {
+      "codepoint": 57476,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cloudLoading"
+    },
+    "cloud-lock-1": {
+      "codepoint": 57477,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cloudLock1"
+    },
+    "cloud-network-1": {
+      "codepoint": 57478,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cloudNetwork1"
+    },
+    "cloud-phone-exchange": {
+      "codepoint": 57479,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cloudPhoneExchange"
+    },
+    "cloud-storage-drive": {
+      "codepoint": 57480,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cloudStorageDrive"
+    },
+    "code-barcode-scan": {
+      "codepoint": 57481,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "codeBarcodeScan"
+    },
+    "code-qr": {
+      "codepoint": 57482,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "codeQr"
+    },
+    "coding-file-exe-tag": {
+      "codepoint": 57483,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "codingFileExeTag"
+    },
+    "coding-file-iso-tag": {
+      "codepoint": 57484,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "codingFileIsoTag"
+    },
+    "coding-files-network-folder": {
+      "codepoint": 57485,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "codingFilesNetworkFolder"
+    },
+    "collaboration-meeting-team-file": {
+      "codepoint": 57486,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "collaborationMeetingTeamFile"
+    },
+    "collaboration-team-chat": {
+      "codepoint": 57487,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "collaborationTeamChat"
+    },
+    "color-brush-1": {
+      "codepoint": 57488,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "colorBrush1"
+    },
+    "color-brush-2": {
+      "codepoint": 57489,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "colorBrush2"
+    },
+    "color-crayon": {
+      "codepoint": 57490,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "colorCrayon"
+    },
+    "color-drop-off": {
+      "codepoint": 57491,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "colorDropOff"
+    },
+    "color-gradient": {
+      "codepoint": 57492,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "colorGradient"
+    },
+    "color-palette": {
+      "codepoint": 57493,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "colorPalette"
+    },
+    "color-palette-sample-2": {
+      "codepoint": 57494,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "colorPaletteSample2"
+    },
+    "color-picker-drop": {
+      "codepoint": 57495,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "colorPickerDrop"
+    },
+    "color-spray": {
+      "codepoint": 57496,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "colorSpray"
+    },
+    "composition-16-to-9": {
+      "codepoint": 57497,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "composition16To9"
+    },
+    "composition-man": {
+      "codepoint": 57498,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "compositionMan"
+    },
+    "composition-paronama-horizontal": {
+      "codepoint": 57499,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "compositionParonamaHorizontal"
+    },
+    "computer-bug-1": {
+      "codepoint": 57500,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "computerBug1"
+    },
+    "concert-couple-duet": {
+      "codepoint": 57501,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "concertCoupleDuet"
+    },
+    "connect-device-cancel": {
+      "codepoint": 57502,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "connectDeviceCancel"
+    },
+    "connect-device-exchange": {
+      "codepoint": 57503,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "connectDeviceExchange"
+    },
+    "content-browser-edit": {
+      "codepoint": 57504,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "contentBrowserEdit"
+    },
+    "content-brush-pen": {
+      "codepoint": 57505,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "contentBrushPen"
+    },
+    "content-paper-edit": {
+      "codepoint": 57506,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "contentPaperEdit"
+    },
+    "content-typewriter": {
+      "codepoint": 57507,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "contentTypewriter"
+    },
+    "content-write": {
+      "codepoint": 57508,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "contentWrite"
+    },
+    "controls-slider-toggle-left": {
+      "codepoint": 57509,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "controlsSliderToggleLeft"
+    },
+    "controls-slider-toggle-right": {
+      "codepoint": 57510,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "controlsSliderToggleRight"
+    },
+    "controls-volume-knob": {
+      "codepoint": 57511,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "controlsVolumeKnob"
+    },
+    "conversation-chat": {
+      "codepoint": 57512,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "conversationChat"
+    },
+    "conversation-question-text-1": {
+      "codepoint": 57513,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "conversationQuestionText1"
+    },
+    "conversation-question-warning-3": {
+      "codepoint": 57514,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "conversationQuestionWarning3"
+    },
+    "copy-paste-clipboard": {
+      "codepoint": 57515,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "copyPasteClipboard"
+    },
+    "copy-paste-cut-scissors": {
+      "codepoint": 57516,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "copyPasteCutScissors"
+    },
+    "coupon-cut": {
+      "codepoint": 57517,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "couponCut"
+    },
+    "coupon-percent": {
+      "codepoint": 57518,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "couponPercent"
+    },
+    "creativity-idea-bulb": {
+      "codepoint": 57519,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "creativityIdeaBulb"
+    },
+    "creativity-idea-strategy": {
+      "codepoint": 57520,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "creativityIdeaStrategy"
+    },
+    "credit-card-amex": {
+      "codepoint": 57521,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "creditCardAmex"
+    },
+    "credit-card-dollar": {
+      "codepoint": 57522,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "creditCardDollar"
+    },
+    "credit-card-mastercard": {
+      "codepoint": 57523,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "creditCardMastercard"
+    },
+    "credit-card-payment": {
+      "codepoint": 57524,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "creditCardPayment"
+    },
+    "credit-card-phone-call": {
+      "codepoint": 57525,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "creditCardPhoneCall"
+    },
+    "credit-card-smartphone": {
+      "codepoint": 57526,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "creditCardSmartphone"
+    },
+    "credit-card-visa": {
+      "codepoint": 57527,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "creditCardVisa"
+    },
+    "crm-lead-distribution": {
+      "codepoint": 57528,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "crmLeadDistribution"
+    },
+    "crop-expand": {
+      "codepoint": 57529,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cropExpand"
+    },
+    "crop-image": {
+      "codepoint": 57530,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cropImage"
+    },
+    "crypto-close-up-group-chat-users-conversation": {
+      "codepoint": 57531,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cryptoCloseUpGroupChatUsersConversation"
+    },
+    "crypto-currency-bitcoin-chip": {
+      "codepoint": 57532,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cryptoCurrencyBitcoinChip"
+    },
+    "crypto-currency-bitcoin-code": {
+      "codepoint": 57533,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cryptoCurrencyBitcoinCode"
+    },
+    "crypto-currency-bitcoin-give": {
+      "codepoint": 57534,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cryptoCurrencyBitcoinGive"
+    },
+    "crypto-currency-bitcoin-graph-increase": {
+      "codepoint": 57535,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cryptoCurrencyBitcoinGraphIncrease"
+    },
+    "crypto-currency-bitcoin-monitor-shield": {
+      "codepoint": 57536,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cryptoCurrencyBitcoinMonitorShield"
+    },
+    "crypto-currency-bitcoin-network-globe": {
+      "codepoint": 57537,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cryptoCurrencyBitcoinNetworkGlobe"
+    },
+    "crypto-currency-litecoin": {
+      "codepoint": 57538,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cryptoCurrencyLitecoin"
+    },
+    "crypto-currency-namecoin": {
+      "codepoint": 57539,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cryptoCurrencyNamecoin"
+    },
+    "crypto-currency-tether": {
+      "codepoint": 57540,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cryptoCurrencyTether"
+    },
+    "crypto-currency-usd-coin": {
+      "codepoint": 57541,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cryptoCurrencyUsdCoin"
+    },
+    "crypto-mining": {
+      "codepoint": 57542,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cryptoMining"
+    },
+    "currency-bag-bath": {
+      "codepoint": 57543,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "currencyBagBath"
+    },
+    "currency-bath-increase": {
+      "codepoint": 57544,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "currencyBathIncrease"
+    },
+    "currency-dollar-bubble": {
+      "codepoint": 57545,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "currencyDollarBubble"
+    },
+    "currency-dollar-chip": {
+      "codepoint": 57546,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "currencyDollarChip"
+    },
+    "currency-dollar-decrease": {
+      "codepoint": 57547,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "currencyDollarDecrease"
+    },
+    "currency-dollar-euro-chat-bubble": {
+      "codepoint": 57548,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "currencyDollarEuroChatBubble"
+    },
+    "currency-euro-bubble": {
+      "codepoint": 57549,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "currencyEuroBubble"
+    },
+    "currency-euro-dollar-exchange": {
+      "codepoint": 57550,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "currencyEuroDollarExchange"
+    },
+    "currency-international-currency": {
+      "codepoint": 57551,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "currencyInternationalCurrency"
+    },
+    "currency-pound-bubble": {
+      "codepoint": 57552,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "currencyPoundBubble"
+    },
+    "currency-yen-bubble": {
+      "codepoint": 57553,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "currencyYenBubble"
+    },
+    "cursor-highlight-click-1": {
+      "codepoint": 57554,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "cursorHighlightClick1"
+    },
+    "customer-action-complaint": {
+      "codepoint": 57555,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "customerActionComplaint"
+    },
+    "customer-action-product-message": {
+      "codepoint": 57556,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "customerActionProductMessage"
+    },
+    "dashboard-browser-gauge": {
+      "codepoint": 57557,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "dashboardBrowserGauge"
+    },
+    "dashboard-layout": {
+      "codepoint": 57558,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "dashboardLayout"
+    },
+    "data-transfer-diagonal": {
+      "codepoint": 57559,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "dataTransferDiagonal"
+    },
+    "data-transfer-document-module": {
+      "codepoint": 57560,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "dataTransferDocumentModule"
+    },
+    "data-transfer-edi-reload": {
+      "codepoint": 57561,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "dataTransferEdiReload"
+    },
+    "data-transfer-ftp": {
+      "codepoint": 57562,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "dataTransferFtp"
+    },
+    "data-transfer-horizontal": {
+      "codepoint": 57563,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "dataTransferHorizontal"
+    },
+    "data-transfer-sync": {
+      "codepoint": 57564,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "dataTransferSync"
+    },
+    "data-transfer-vertical": {
+      "codepoint": 57565,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "dataTransferVertical"
+    },
+    "database": {
+      "codepoint": 57566,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "database"
+    },
+    "database-check": {
+      "codepoint": 57567,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "databaseCheck"
+    },
+    "database-connection": {
+      "codepoint": 57568,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "databaseConnection"
+    },
+    "database-hand": {
+      "codepoint": 57569,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "databaseHand"
+    },
+    "database-hierarchy": {
+      "codepoint": 57570,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "databaseHierarchy"
+    },
+    "database-network-1": {
+      "codepoint": 57571,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "databaseNetwork1"
+    },
+    "database-settings": {
+      "codepoint": 57572,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "databaseSettings"
+    },
+    "database-share": {
+      "codepoint": 57573,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "databaseShare"
+    },
+    "delete-bin-2": {
+      "codepoint": 57574,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "deleteBin2"
+    },
+    "delete-bin-5": {
+      "codepoint": 57575,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "deleteBin5"
+    },
+    "delete-disable-block-1": {
+      "codepoint": 57576,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "deleteDisableBlock1"
+    },
+    "delete-skull": {
+      "codepoint": 57577,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "deleteSkull"
+    },
+    "design-process-draw-pen": {
+      "codepoint": 57578,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "designProcessDrawPen"
+    },
+    "design-process-drawing-board": {
+      "codepoint": 57579,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "designProcessDrawingBoard"
+    },
+    "design-process-drawing-board-education": {
+      "codepoint": 57580,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "designProcessDrawingBoardEducation"
+    },
+    "design-process-fibonacci": {
+      "codepoint": 57581,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "designProcessFibonacci"
+    },
+    "design-process-mouse-pen": {
+      "codepoint": 57582,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "designProcessMousePen"
+    },
+    "design-process-pen-idea": {
+      "codepoint": 57583,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "designProcessPenIdea"
+    },
+    "design-tool-brush-ruler": {
+      "codepoint": 57584,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "designToolBrushRuler"
+    },
+    "design-tool-liquid-glue": {
+      "codepoint": 57585,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "designToolLiquidGlue"
+    },
+    "design-tool-magic-wand": {
+      "codepoint": 57586,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "designToolMagicWand"
+    },
+    "design-tool-pen-brush-cup": {
+      "codepoint": 57587,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "designToolPenBrushCup"
+    },
+    "design-tool-pen-pencil-brush": {
+      "codepoint": 57588,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "designToolPenPencilBrush"
+    },
+    "design-tool-quill": {
+      "codepoint": 57589,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "designToolQuill"
+    },
+    "design-tool-stamp": {
+      "codepoint": 57590,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "designToolStamp"
+    },
+    "desk-computer-base-work-standing-user-1": {
+      "codepoint": 57591,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "deskComputerBaseWorkStandingUser1"
+    },
+    "desktop-action-monitor-add": {
+      "codepoint": 57592,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "desktopActionMonitorAdd"
+    },
+    "desktop-action-monitor-edit": {
+      "codepoint": 57593,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "desktopActionMonitorEdit"
+    },
+    "desktop-action-monitor-question": {
+      "codepoint": 57594,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "desktopActionMonitorQuestion"
+    },
+    "desktop-action-monitor-remove": {
+      "codepoint": 57595,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "desktopActionMonitorRemove"
+    },
+    "desktop-action-monitor-screen-sleep-2": {
+      "codepoint": 57596,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "desktopActionMonitorScreenSleep2"
+    },
+    "desktop-computer-pc": {
+      "codepoint": 57597,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "desktopComputerPc"
+    },
+    "desktop-monitor": {
+      "codepoint": 57598,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "desktopMonitor"
+    },
+    "digital-player-phone-speaker-1": {
+      "codepoint": 57599,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "digitalPlayerPhoneSpeaker1"
+    },
+    "disability-ad": {
+      "codepoint": 57600,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "disabilityAd"
+    },
+    "disability-blind-read": {
+      "codepoint": 57601,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "disabilityBlindRead"
+    },
+    "disability-braille": {
+      "codepoint": 57602,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "disabilityBraille"
+    },
+    "disability-cane-1": {
+      "codepoint": 57603,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "disabilityCane1"
+    },
+    "disability-down-syndrome-ribbon": {
+      "codepoint": 57604,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "disabilityDownSyndromeRibbon"
+    },
+    "disability-hands-language": {
+      "codepoint": 57605,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "disabilityHandsLanguage"
+    },
+    "disability-hearing-t": {
+      "codepoint": 57606,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "disabilityHearingT"
+    },
+    "disability-qcc-line": {
+      "codepoint": 57607,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "disabilityQccLine"
+    },
+    "disability-service-dog": {
+      "codepoint": 57608,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "disabilityServiceDog"
+    },
+    "disability-sit-pregnancy": {
+      "codepoint": 57609,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "disabilitySitPregnancy"
+    },
+    "disability-walking-help-1": {
+      "codepoint": 57610,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "disabilityWalkingHelp1"
+    },
+    "disability-wheelchair-3": {
+      "codepoint": 57611,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "disabilityWheelchair3"
+    },
+    "disability-wheelchair-way": {
+      "codepoint": 57612,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "disabilityWheelchairWay"
+    },
+    "discount-50-percent": {
+      "codepoint": 57613,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "discount50Percent"
+    },
+    "discount-circle-dash": {
+      "codepoint": 57614,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "discountCircleDash"
+    },
+    "discount-percent-bubble": {
+      "codepoint": 57615,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "discountPercentBubble"
+    },
+    "discount-percent-thin": {
+      "codepoint": 57616,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "discountPercentThin"
+    },
+    "discount-point-coin": {
+      "codepoint": 57617,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "discountPointCoin"
+    },
+    "discount-sale-sign": {
+      "codepoint": 57618,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "discountSaleSign"
+    },
+    "donation-charity-donate-bag-2": {
+      "codepoint": 57619,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "donationCharityDonateBag2"
+    },
+    "donation-charity-donate-box": {
+      "codepoint": 57620,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "donationCharityDonateBox"
+    },
+    "donation-charity-donate-heart-flower": {
+      "codepoint": 57621,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "donationCharityDonateHeartFlower"
+    },
+    "download-brackets": {
+      "codepoint": 57622,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "downloadBrackets"
+    },
+    "download-harddrive-1": {
+      "codepoint": 57623,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "downloadHarddrive1"
+    },
+    "drawer-download": {
+      "codepoint": 57624,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "drawerDownload"
+    },
+    "drawer-envelope": {
+      "codepoint": 57625,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "drawerEnvelope"
+    },
+    "drawer-image": {
+      "codepoint": 57626,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "drawerImage"
+    },
+    "e-commerce-add-basket-cloud": {
+      "codepoint": 57627,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "eCommerceAddBasketCloud"
+    },
+    "e-commerce-basket-monitor": {
+      "codepoint": 57628,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "eCommerceBasketMonitor"
+    },
+    "e-commerce-cart-laptop": {
+      "codepoint": 57629,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "eCommerceCartLaptop"
+    },
+    "e-commerce-cart-vr": {
+      "codepoint": 57630,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "eCommerceCartVr"
+    },
+    "e-commerce-click-buy": {
+      "codepoint": 57631,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "eCommerceClickBuy"
+    },
+    "e-commerce-online-shop": {
+      "codepoint": 57632,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "eCommerceOnlineShop"
+    },
+    "e-commerce-target-shopping-bag": {
+      "codepoint": 57633,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "eCommerceTargetShoppingBag"
+    },
+    "earpods": {
+      "codepoint": 57634,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "earpods"
+    },
+    "earpods-attention": {
+      "codepoint": 57635,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "earpodsAttention"
+    },
+    "earpods-charge": {
+      "codepoint": 57636,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "earpodsCharge"
+    },
+    "earpods-true-wireless": {
+      "codepoint": 57637,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "earpodsTrueWireless"
+    },
+    "edit-pen-write-paper": {
+      "codepoint": 57638,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "editPenWritePaper"
+    },
+    "edit-pencil": {
+      "codepoint": 57639,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "editPencil"
+    },
+    "edit-quill-feather-1": {
+      "codepoint": 57640,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "editQuillFeather1"
+    },
+    "email-action-delete-junk-1": {
+      "codepoint": 57641,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "emailActionDeleteJunk1"
+    },
+    "email-action-download": {
+      "codepoint": 57642,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "emailActionDownload"
+    },
+    "email-action-image": {
+      "codepoint": 57643,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "emailActionImage"
+    },
+    "email-action-remove": {
+      "codepoint": 57644,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "emailActionRemove"
+    },
+    "email-action-reply-1": {
+      "codepoint": 57645,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "emailActionReply1"
+    },
+    "email-action-search": {
+      "codepoint": 57646,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "emailActionSearch"
+    },
+    "email-action-sync-1": {
+      "codepoint": 57647,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "emailActionSync1"
+    },
+    "email-action-warning": {
+      "codepoint": 57648,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "emailActionWarning"
+    },
+    "emoji-hand-cheers": {
+      "codepoint": 57649,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "emojiHandCheers"
+    },
+    "envelope-letter-front": {
+      "codepoint": 57650,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "envelopeLetterFront"
+    },
+    "envelope-paper-document": {
+      "codepoint": 57651,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "envelopePaperDocument"
+    },
+    "envelope-pigeon": {
+      "codepoint": 57652,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "envelopePigeon"
+    },
+    "equalizer-bar-graph": {
+      "codepoint": 57653,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "equalizerBarGraph"
+    },
+    "equalizer-phone-application-2": {
+      "codepoint": 57654,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "equalizerPhoneApplication2"
+    },
+    "equalizer-stereo-play": {
+      "codepoint": 57655,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "equalizerStereoPlay"
+    },
+    "equalizer-volume-graph": {
+      "codepoint": 57656,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "equalizerVolumeGraph"
+    },
+    "escalator-ascend-person": {
+      "codepoint": 57657,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "escalatorAscendPerson"
+    },
+    "expand-smartphone": {
+      "codepoint": 57658,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "expandSmartphone"
+    },
+    "face-id-male-1": {
+      "codepoint": 57659,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "faceIdMale1"
+    },
+    "face-id-square": {
+      "codepoint": 57660,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "faceIdSquare"
+    },
+    "face-id-user": {
+      "codepoint": 57661,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "faceIdUser"
+    },
+    "family-baby-change-diaper": {
+      "codepoint": 57662,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "familyBabyChangeDiaper"
+    },
+    "family-child-play-ball-sign": {
+      "codepoint": 57663,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "familyChildPlayBallSign"
+    },
+    "famous-character-pokemon": {
+      "codepoint": 57664,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "famousCharacterPokemon"
+    },
+    "famous-character-starwars-r2d2": {
+      "codepoint": 57665,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "famousCharacterStarwarsR2d2"
+    },
+    "fax-machine-paper-print": {
+      "codepoint": 57666,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "faxMachinePaperPrint"
+    },
+    "file-code": {
+      "codepoint": 57667,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "fileCode"
+    },
+    "file-code-2": {
+      "codepoint": 57668,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "fileCode2"
+    },
+    "file-code-apk": {
+      "codepoint": 57669,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "fileCodeApk"
+    },
+    "file-code-c-plus-plus": {
+      "codepoint": 57670,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "fileCodeCPlusPlus"
+    },
+    "file-code-css": {
+      "codepoint": 57671,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "fileCodeCss"
+    },
+    "file-code-html": {
+      "codepoint": 57672,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "fileCodeHtml"
+    },
+    "file-code-java": {
+      "codepoint": 57673,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "fileCodeJava"
+    },
+    "file-code-js-javascript": {
+      "codepoint": 57674,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "fileCodeJsJavascript"
+    },
+    "file-code-share-1": {
+      "codepoint": 57675,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "fileCodeShare1"
+    },
+    "file-code-warning-1": {
+      "codepoint": 57676,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "fileCodeWarning1"
+    },
+    "filter": {
+      "codepoint": 57677,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "filter"
+    },
+    "fireworks-2": {
+      "codepoint": 57678,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "fireworks2"
+    },
+    "flip-reflect-up": {
+      "codepoint": 57679,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "flipReflectUp"
+    },
+    "flip-right": {
+      "codepoint": 57680,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "flipRight"
+    },
+    "flip-up": {
+      "codepoint": 57681,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "flipUp"
+    },
+    "floppy-disk": {
+      "codepoint": 57682,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "floppyDisk"
+    },
+    "focus-camera-auto": {
+      "codepoint": 57683,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "focusCameraAuto"
+    },
+    "focus-cross": {
+      "codepoint": 57684,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "focusCross"
+    },
+    "focus-frame-target-1": {
+      "codepoint": 57685,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "focusFrameTarget1"
+    },
+    "focus-motion": {
+      "codepoint": 57686,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "focusMotion"
+    },
+    "form-edition-clipboard": {
+      "codepoint": 57687,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "formEditionClipboard"
+    },
+    "form-edition-clipboard-check": {
+      "codepoint": 57688,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "formEditionClipboardCheck"
+    },
+    "form-edition-clipboard-write": {
+      "codepoint": 57689,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "formEditionClipboardWrite"
+    },
+    "form-edition-file-attach": {
+      "codepoint": 57690,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "formEditionFileAttach"
+    },
+    "form-edition-image-attach": {
+      "codepoint": 57691,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "formEditionImageAttach"
+    },
+    "form-edition-number-1": {
+      "codepoint": 57692,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "formEditionNumber1"
+    },
+    "form-edition-text-2": {
+      "codepoint": 57693,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "formEditionText2"
+    },
+    "form-validation-check-double": {
+      "codepoint": 57694,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "formValidationCheckDouble"
+    },
+    "form-validation-check-square-1": {
+      "codepoint": 57695,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "formValidationCheckSquare1"
+    },
+    "form-validation-cursor-choose": {
+      "codepoint": 57696,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "formValidationCursorChoose"
+    },
+    "garbage-throw": {
+      "codepoint": 57697,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "garbageThrow"
+    },
+    "gesture-double-tap": {
+      "codepoint": 57698,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "gestureDoubleTap"
+    },
+    "gesture-swipe-two-fingers-horizontal": {
+      "codepoint": 57699,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "gestureSwipeTwoFingersHorizontal"
+    },
+    "gesture-zoom-in": {
+      "codepoint": 57700,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "gestureZoomIn"
+    },
+    "gps-location-rectangle": {
+      "codepoint": 57701,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "gpsLocationRectangle"
+    },
+    "graphic-tablet-draw-1": {
+      "codepoint": 57702,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "graphicTabletDraw1"
+    },
+    "graphic-tablet-intous-draw": {
+      "codepoint": 57703,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "graphicTabletIntousDraw"
+    },
+    "grid-corner-ruler": {
+      "codepoint": 57704,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "gridCornerRuler"
+    },
+    "grid-monitor": {
+      "codepoint": 57705,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "gridMonitor"
+    },
     "grid-ruler": {
-      "codepoint": 57345,
+      "codepoint": 57706,
       "fontFamily": "StreamlineFreehand",
       "identifier": "gridRuler"
     },
+    "grid-snap-magnet": {
+      "codepoint": 57707,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "gridSnapMagnet"
+    },
+    "hard-drive-exertnal-1": {
+      "codepoint": 57708,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "hardDriveExertnal1"
+    },
+    "hard-drive-warning": {
+      "codepoint": 57709,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "hardDriveWarning"
+    },
+    "headphones-1": {
+      "codepoint": 57710,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "headphones1"
+    },
+    "headphones-cable": {
+      "codepoint": 57711,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "headphonesCable"
+    },
+    "headphones-human": {
+      "codepoint": 57712,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "headphonesHuman"
+    },
+    "help-headphones-customer-support": {
+      "codepoint": 57713,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "helpHeadphonesCustomerSupport"
+    },
+    "help-headphones-customer-support-human": {
+      "codepoint": 57714,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "helpHeadphonesCustomerSupportHuman"
+    },
+    "help-question-circle": {
+      "codepoint": 57715,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "helpQuestionCircle"
+    },
+    "hierarchy": {
+      "codepoint": 57716,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "hierarchy"
+    },
+    "hierarchy-web": {
+      "codepoint": 57717,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "hierarchyWeb"
+    },
+    "home": {
+      "codepoint": 57718,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "home"
+    },
+    "home-chimney-2": {
+      "codepoint": 57719,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "homeChimney2"
+    },
+    "home-to-cloud-sync": {
+      "codepoint": 57720,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "homeToCloudSync"
+    },
+    "human-resources-businessman": {
+      "codepoint": 57721,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "humanResourcesBusinessman"
+    },
+    "human-resources-employee-crown-woman": {
+      "codepoint": 57722,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "humanResourcesEmployeeCrownWoman"
+    },
+    "human-resources-hierarchy": {
+      "codepoint": 57723,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "humanResourcesHierarchy"
+    },
+    "human-resources-rating-man": {
+      "codepoint": 57724,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "humanResourcesRatingMan"
+    },
+    "image-file-dollar": {
+      "codepoint": 57725,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "imageFileDollar"
+    },
+    "image-file-edit": {
+      "codepoint": 57726,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "imageFileEdit"
+    },
+    "image-file-favorite-heart": {
+      "codepoint": 57727,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "imageFileFavoriteHeart"
+    },
+    "image-file-search": {
+      "codepoint": 57728,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "imageFileSearch"
+    },
+    "information-desk": {
+      "codepoint": 57729,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "informationDesk"
+    },
+    "information-desk-question-help": {
+      "codepoint": 57730,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "informationDeskQuestionHelp"
+    },
+    "instrument-accordian": {
+      "codepoint": 57731,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "instrumentAccordian"
+    },
+    "instrument-electronic-keyboard": {
+      "codepoint": 57732,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "instrumentElectronicKeyboard"
+    },
+    "instrument-saxophone": {
+      "codepoint": 57733,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "instrumentSaxophone"
+    },
+    "ipod-player": {
+      "codepoint": 57734,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "ipodPlayer"
+    },
+    "ipod-player-2": {
+      "codepoint": 57735,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "ipodPlayer2"
+    },
+    "iris-scan-target": {
+      "codepoint": 57736,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "irisScanTarget"
+    },
+    "job-briefcase-document": {
+      "codepoint": 57737,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "jobBriefcaseDocument"
+    },
+    "job-candidate-target-1": {
+      "codepoint": 57738,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "jobCandidateTarget1"
+    },
+    "job-choose-candidate": {
+      "codepoint": 57739,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "jobChooseCandidate"
+    },
+    "job-profile-search": {
+      "codepoint": 57740,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "jobProfileSearch"
+    },
+    "job-seach-man": {
+      "codepoint": 57741,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "jobSeachMan"
+    },
+    "job-search-magnifier-briefcase": {
+      "codepoint": 57742,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "jobSearchMagnifierBriefcase"
+    },
+    "keyboard": {
+      "codepoint": 57743,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "keyboard"
+    },
+    "keyboard-arrow-return": {
+      "codepoint": 57744,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "keyboardArrowReturn"
+    },
+    "keyboard-asterisk-2": {
+      "codepoint": 57745,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "keyboardAsterisk2"
+    },
+    "keyboard-command": {
+      "codepoint": 57746,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "keyboardCommand"
+    },
+    "keyboard-delete-button": {
+      "codepoint": 57747,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "keyboardDeleteButton"
+    },
+    "keyboard-eject-button": {
+      "codepoint": 57748,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "keyboardEjectButton"
+    },
+    "keyboard-id-dial-finger": {
+      "codepoint": 57749,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "keyboardIdDialFinger"
+    },
+    "keyboard-keypad-pull-down": {
+      "codepoint": 57750,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "keyboardKeypadPullDown"
+    },
+    "keyboard-wireless": {
+      "codepoint": 57751,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "keyboardWireless"
+    },
+    "kindle-read-document-hold": {
+      "codepoint": 57752,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "kindleReadDocumentHold"
+    },
+    "laptop-action-flash": {
+      "codepoint": 57753,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "laptopActionFlash"
+    },
+    "laptop-action-lock": {
+      "codepoint": 57754,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "laptopActionLock"
+    },
+    "laptop-action-search": {
+      "codepoint": 57755,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "laptopActionSearch"
+    },
+    "laptop-action-warning": {
+      "codepoint": 57756,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "laptopActionWarning"
+    },
+    "laptop-computer-1": {
+      "codepoint": 57757,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "laptopComputer1"
+    },
+    "laptop-computer-smiley": {
+      "codepoint": 57758,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "laptopComputerSmiley"
+    },
+    "laundry-hand-wash": {
+      "codepoint": 57759,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "laundryHandWash"
+    },
+    "laundry-washing-machine": {
+      "codepoint": 57760,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "laundryWashingMachine"
+    },
+    "layers-bring-backward": {
+      "codepoint": 57761,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "layersBringBackward"
+    },
+    "layers-off": {
+      "codepoint": 57762,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "layersOff"
+    },
+    "layers-stacked-1": {
+      "codepoint": 57763,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "layersStacked1"
+    },
+    "layouts-array-1": {
+      "codepoint": 57764,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "layoutsArray1"
+    },
+    "layouts-content": {
+      "codepoint": 57765,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "layoutsContent"
+    },
+    "layouts-right": {
+      "codepoint": 57766,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "layoutsRight"
+    },
+    "layouts-top-three-columns": {
+      "codepoint": 57767,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "layoutsTopThreeColumns"
+    },
+    "learning-programming-book": {
+      "codepoint": 57768,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "learningProgrammingBook"
+    },
+    "learning-programming-flag": {
+      "codepoint": 57769,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "learningProgrammingFlag"
+    },
+    "lens-horizontal": {
+      "codepoint": 57770,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "lensHorizontal"
+    },
+    "lens-shutter-1": {
+      "codepoint": 57771,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "lensShutter1"
+    },
+    "lift-two-people-elevator": {
+      "codepoint": 57772,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "liftTwoPeopleElevator"
+    },
+    "light-mode-brightness-half": {
+      "codepoint": 57773,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "lightModeBrightnessHalf"
+    },
+    "light-mode-dark-light": {
+      "codepoint": 57774,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "lightModeDarkLight"
+    },
+    "light-mode-flash-auto": {
+      "codepoint": 57775,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "lightModeFlashAuto"
+    },
+    "light-mode-hdr": {
+      "codepoint": 57776,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "lightModeHdr"
+    },
+    "light-mode-night-architecture": {
+      "codepoint": 57777,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "lightModeNightArchitecture"
+    },
+    "light-spotlight-1": {
+      "codepoint": 57778,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "lightSpotlight1"
+    },
+    "light-umbrella-reflect": {
+      "codepoint": 57779,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "lightUmbrellaReflect"
+    },
+    "link-paperclip": {
+      "codepoint": 57780,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "linkPaperclip"
+    },
+    "lists-bullets": {
+      "codepoint": 57781,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "listsBullets"
+    },
+    "lists-numbers": {
+      "codepoint": 57782,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "listsNumbers"
+    },
+    "loading-browser-bar": {
+      "codepoint": 57783,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "loadingBrowserBar"
+    },
+    "loading-spinning-star": {
+      "codepoint": 57784,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "loadingSpinningStar"
+    },
+    "loading-star-1": {
+      "codepoint": 57785,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "loadingStar1"
+    },
+    "lock-circle": {
+      "codepoint": 57786,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "lockCircle"
+    },
+    "lock-key-1": {
+      "codepoint": 57787,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "lockKey1"
+    },
+    "lock-network": {
+      "codepoint": 57788,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "lockNetwork"
+    },
+    "locker-room-hanger-woman": {
+      "codepoint": 57789,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "lockerRoomHangerWoman"
+    },
+    "locker-room-suitcase-umbrella": {
+      "codepoint": 57790,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "lockerRoomSuitcaseUmbrella"
+    },
+    "locker-room-wash-hands": {
+      "codepoint": 57791,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "lockerRoomWashHands"
+    },
+    "login-logout-key": {
+      "codepoint": 57792,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "loginLogoutKey"
+    },
+    "login-rectangle": {
+      "codepoint": 57793,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "loginRectangle"
+    },
+    "mailbox-full-1": {
+      "codepoint": 57794,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "mailboxFull1"
+    },
+    "mailbox-post-1": {
+      "codepoint": 57795,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "mailboxPost1"
+    },
+    "mask-diamond": {
+      "codepoint": 57796,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "maskDiamond"
+    },
+    "media-protection-shield": {
+      "codepoint": 57797,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "mediaProtectionShield"
+    },
+    "meeting-co-working-2": {
+      "codepoint": 57798,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "meetingCoWorking2"
+    },
+    "meeting-presentation": {
+      "codepoint": 57799,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "meetingPresentation"
+    },
+    "meeting-user-man-stress": {
+      "codepoint": 57800,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "meetingUserManStress"
+    },
+    "memory-computer-ram": {
+      "codepoint": 57801,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "memoryComputerRam"
+    },
+    "memory-flash-drive": {
+      "codepoint": 57802,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "memoryFlashDrive"
+    },
+    "memory-sd-card": {
+      "codepoint": 57803,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "memorySdCard"
+    },
+    "memory-sd-card-check": {
+      "codepoint": 57804,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "memorySdCardCheck"
+    },
+    "memory-sd-card-search": {
+      "codepoint": 57805,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "memorySdCardSearch"
+    },
+    "memory-sd-card-settings": {
+      "codepoint": 57806,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "memorySdCardSettings"
+    },
+    "memory-sd-card-sync": {
+      "codepoint": 57807,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "memorySdCardSync"
+    },
+    "menu-navigation-2": {
+      "codepoint": 57808,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "menuNavigation2"
+    },
+    "menu-navigation-horizontal": {
+      "codepoint": 57809,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "menuNavigationHorizontal"
+    },
+    "messages-bubble-image": {
+      "codepoint": 57810,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "messagesBubbleImage"
+    },
+    "messages-bubble-menu": {
+      "codepoint": 57811,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "messagesBubbleMenu"
+    },
+    "messages-bubble-settings": {
+      "codepoint": 57812,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "messagesBubbleSettings"
+    },
+    "messages-bubble-smile": {
+      "codepoint": 57813,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "messagesBubbleSmile"
+    },
+    "messages-bubble-square-graph": {
+      "codepoint": 57814,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "messagesBubbleSquareGraph"
+    },
+    "messages-bubble-square-lock": {
+      "codepoint": 57815,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "messagesBubbleSquareLock"
+    },
+    "messages-bubble-square-search": {
+      "codepoint": 57816,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "messagesBubbleSquareSearch"
+    },
+    "messages-bubble-square-settings": {
+      "codepoint": 57817,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "messagesBubbleSquareSettings"
+    },
+    "messages-bubble-square-text": {
+      "codepoint": 57818,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "messagesBubbleSquareText"
+    },
+    "messages-people-person-bubble-square-2": {
+      "codepoint": 57819,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "messagesPeoplePersonBubbleSquare2"
+    },
+    "messages-people-user-bubble": {
+      "codepoint": 57820,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "messagesPeopleUserBubble"
+    },
+    "messages-people-woman-heart": {
+      "codepoint": 57821,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "messagesPeopleWomanHeart"
+    },
+    "microphone": {
+      "codepoint": 57822,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "microphone"
+    },
+    "microphone-karaoke-1": {
+      "codepoint": 57823,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "microphoneKaraoke1"
+    },
+    "microprocessor-computer-chip-32-bit": {
+      "codepoint": 57824,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "microprocessorComputerChip32Bit"
+    },
+    "microprocessor-computer-chip-64-bit": {
+      "codepoint": 57825,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "microprocessorComputerChip64Bit"
+    },
+    "microprocessor-computer-chip-flash": {
+      "codepoint": 57826,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "microprocessorComputerChipFlash"
+    },
+    "microprocessor-computer-chip-overheat": {
+      "codepoint": 57827,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "microprocessorComputerChipOverheat"
+    },
+    "microprocessor-computer-chip-processor": {
+      "codepoint": 57828,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "microprocessorComputerChipProcessor"
+    },
+    "microprocessor-computer-chip-search": {
+      "codepoint": 57829,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "microprocessorComputerChipSearch"
+    },
+    "mobile-phone-blackberry-2": {
+      "codepoint": 57830,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "mobilePhoneBlackberry2"
+    },
+    "mobile-phone-hand-hold": {
+      "codepoint": 57831,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "mobilePhoneHandHold"
+    },
+    "mobile-shopping-cart": {
+      "codepoint": 57832,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "mobileShoppingCart"
+    },
+    "mobile-shopping-shop-basket": {
+      "codepoint": 57833,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "mobileShoppingShopBasket"
+    },
+    "mobilephone-action-blutooth": {
+      "codepoint": 57834,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "mobilephoneActionBlutooth"
+    },
+    "mobilephone-action-camera": {
+      "codepoint": 57835,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "mobilephoneActionCamera"
+    },
+    "mobilephone-action-cash": {
+      "codepoint": 57836,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "mobilephoneActionCash"
+    },
+    "mobilephone-action-location-lock": {
+      "codepoint": 57837,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "mobilephoneActionLocationLock"
+    },
+    "mobilephone-action-lock": {
+      "codepoint": 57838,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "mobilephoneActionLock"
+    },
+    "mobilephone-action-navigation-map": {
+      "codepoint": 57839,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "mobilephoneActionNavigationMap"
+    },
+    "mobilephone-action-notification-allowed": {
+      "codepoint": 57840,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "mobilephoneActionNotificationAllowed"
+    },
+    "mobilephone-action-otp-message": {
+      "codepoint": 57841,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "mobilephoneActionOtpMessage"
+    },
+    "mobilephone-action-settings": {
+      "codepoint": 57842,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "mobilephoneActionSettings"
+    },
+    "mobilephone-action-voice-approved": {
+      "codepoint": 57843,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "mobilephoneActionVoiceApproved"
+    },
+    "modern-camera-go-pro": {
+      "codepoint": 57844,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "modernCameraGoPro"
+    },
+    "modern-music-bass-guitar": {
+      "codepoint": 57845,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "modernMusicBassGuitar"
+    },
+    "modern-music-dj": {
+      "codepoint": 57846,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "modernMusicDj"
+    },
+    "modern-music-drums": {
+      "codepoint": 57847,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "modernMusicDrums"
+    },
+    "modern-music-mix-touch": {
+      "codepoint": 57848,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "modernMusicMixTouch"
+    },
+    "modern-payment-desktop-transaction": {
+      "codepoint": 57849,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "modernPaymentDesktopTransaction"
+    },
+    "modern-payment-e-wallet": {
+      "codepoint": 57850,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "modernPaymentEWallet"
+    },
+    "modern-payment-qr-basket": {
+      "codepoint": 57851,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "modernPaymentQrBasket"
+    },
+    "modern-payment-self-checkout-touch": {
+      "codepoint": 57852,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "modernPaymentSelfCheckoutTouch"
+    },
+    "modern-payment-wireless-smartphone": {
+      "codepoint": 57853,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "modernPaymentWirelessSmartphone"
+    },
+    "module-building-blocks": {
+      "codepoint": 57854,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "moduleBuildingBlocks"
+    },
+    "module-three-boxes": {
+      "codepoint": 57855,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "moduleThreeBoxes"
+    },
+    "monetization-bill-magnet": {
+      "codepoint": 57856,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "monetizationBillMagnet"
+    },
+    "monetization-mouse": {
+      "codepoint": 57857,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "monetizationMouse"
+    },
+    "money-atm-withdraw": {
+      "codepoint": 57858,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "moneyAtmWithdraw"
+    },
+    "money-bag": {
+      "codepoint": 57859,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "moneyBag"
+    },
+    "money-bag-dollar": {
+      "codepoint": 57860,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "moneyBagDollar"
+    },
+    "money-bag-euro": {
+      "codepoint": 57861,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "moneyBagEuro"
+    },
+    "money-cash-bill": {
+      "codepoint": 57862,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "moneyCashBill"
+    },
+    "money-cash-bill-stack": {
+      "codepoint": 57863,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "moneyCashBillStack"
+    },
+    "money-coin-cash": {
+      "codepoint": 57864,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "moneyCoinCash"
+    },
+    "money-coin-purse": {
+      "codepoint": 57865,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "moneyCoinPurse"
+    },
+    "money-coin-stack": {
+      "codepoint": 57866,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "moneyCoinStack"
+    },
+    "money-wallet": {
+      "codepoint": 57867,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "moneyWallet"
+    },
+    "mouse": {
+      "codepoint": 57868,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "mouse"
+    },
+    "mouse-wireless-1": {
+      "codepoint": 57869,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "mouseWireless1"
+    },
+    "move-rectangle-left": {
+      "codepoint": 57870,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "moveRectangleLeft"
+    },
+    "move-scroll-omnidirection-button": {
+      "codepoint": 57871,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "moveScrollOmnidirectionButton"
+    },
+    "movies-clapboard": {
+      "codepoint": 57872,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "moviesClapboard"
+    },
+    "movies-hot-trending": {
+      "codepoint": 57873,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "moviesHotTrending"
+    },
+    "movies-reel-rating": {
+      "codepoint": 57874,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "moviesReelRating"
+    },
+    "moving-walkway-luggage-1": {
+      "codepoint": 57875,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "movingWalkwayLuggage1"
+    },
+    "multimedia-controls-button-next": {
+      "codepoint": 57876,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "multimediaControlsButtonNext"
+    },
+    "multimedia-controls-loop-arrow": {
+      "codepoint": 57877,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "multimediaControlsLoopArrow"
+    },
+    "multimedia-controls-loop-arrow-1": {
+      "codepoint": 57878,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "multimediaControlsLoopArrow1"
+    },
+    "music-basket": {
+      "codepoint": 57879,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "musicBasket"
+    },
+    "music-clef": {
+      "codepoint": 57880,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "musicClef"
+    },
+    "music-genre-romantic-cd": {
+      "codepoint": 57881,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "musicGenreRomanticCd"
+    },
+    "music-metronom": {
+      "codepoint": 57882,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "musicMetronom"
+    },
+    "music-note-1": {
+      "codepoint": 57883,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "musicNote1"
+    },
+    "navigation-page-right": {
+      "codepoint": 57884,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "navigationPageRight"
+    },
+    "network": {
+      "codepoint": 57885,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "network"
+    },
+    "network-connection-locked": {
+      "codepoint": 57886,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "networkConnectionLocked"
+    },
+    "network-connector": {
+      "codepoint": 57887,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "networkConnector"
+    },
+    "network-laptop-1": {
+      "codepoint": 57888,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "networkLaptop1"
+    },
+    "network-monitor-hierarchy": {
+      "codepoint": 57889,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "networkMonitorHierarchy"
+    },
+    "network-monitor-team-1": {
+      "codepoint": 57890,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "networkMonitorTeam1"
+    },
+    "network-monitor-transfer-arrow-1": {
+      "codepoint": 57891,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "networkMonitorTransferArrow1"
+    },
+    "network-router-signal-1": {
+      "codepoint": 57892,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "networkRouterSignal1"
+    },
+    "network-router-signal-double": {
+      "codepoint": 57893,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "networkRouterSignalDouble"
+    },
+    "newspaper-fold": {
+      "codepoint": 57894,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "newspaperFold"
+    },
+    "newspaper-read-man": {
+      "codepoint": 57895,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "newspaperReadMan"
+    },
+    "night-club-disco-ball-1": {
+      "codepoint": 57896,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "nightClubDiscoBall1"
+    },
+    "notes-add": {
+      "codepoint": 57897,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "notesAdd"
+    },
+    "notes-book": {
+      "codepoint": 57898,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "notesBook"
+    },
+    "notes-book-1": {
+      "codepoint": 57899,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "notesBook1"
+    },
+    "notes-hand": {
+      "codepoint": 57900,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "notesHand"
+    },
+    "notes-paper": {
+      "codepoint": 57901,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "notesPaper"
+    },
+    "notes-quill": {
+      "codepoint": 57902,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "notesQuill"
+    },
+    "office-building-outdoors": {
+      "codepoint": 57903,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "officeBuildingOutdoors"
+    },
+    "office-business-card": {
+      "codepoint": 57904,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "officeBusinessCard"
+    },
+    "office-desk-1": {
+      "codepoint": 57905,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "officeDesk1"
+    },
+    "office-desk-lamp": {
+      "codepoint": 57906,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "officeDeskLamp"
+    },
+    "office-file-sheet": {
+      "codepoint": 57907,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "officeFileSheet"
+    },
+    "office-file-text": {
+      "codepoint": 57908,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "officeFileText"
+    },
+    "office-file-text-graph": {
+      "codepoint": 57909,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "officeFileTextGraph"
+    },
+    "office-folder": {
+      "codepoint": 57910,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "officeFolder"
+    },
+    "office-paper-binder": {
+      "codepoint": 57911,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "officePaperBinder"
+    },
+    "office-photocopy-machine-2": {
+      "codepoint": 57912,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "officePhotocopyMachine2"
+    },
+    "office-shredder-1": {
+      "codepoint": 57913,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "officeShredder1"
+    },
+    "office-stamp-document": {
+      "codepoint": 57914,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "officeStampDocument"
+    },
+    "office-tape-2": {
+      "codepoint": 57915,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "officeTape2"
+    },
+    "office-water-dispenser": {
+      "codepoint": 57916,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "officeWaterDispenser"
+    },
+    "office-work-wireless": {
+      "codepoint": 57917,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "officeWorkWireless"
+    },
+    "optimization-configuration": {
+      "codepoint": 57918,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "optimizationConfiguration"
+    },
+    "optimization-graph-settings": {
+      "codepoint": 57919,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "optimizationGraphSettings"
+    },
+    "organization-files": {
+      "codepoint": 57920,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "organizationFiles"
+    },
+    "paginate-filter-mail": {
+      "codepoint": 57921,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "paginateFilterMail"
+    },
+    "paginate-filter-music": {
+      "codepoint": 57922,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "paginateFilterMusic"
+    },
+    "paragraphs-bullets": {
+      "codepoint": 57923,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "paragraphsBullets"
+    },
+    "paragraphs-image-right": {
+      "codepoint": 57924,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "paragraphsImageRight"
+    },
+    "paragraphs-indent": {
+      "codepoint": 57925,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "paragraphsIndent"
+    },
+    "paragraphs-indent-last-line": {
+      "codepoint": 57926,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "paragraphsIndentLastLine"
+    },
+    "paragraphs-indent-left": {
+      "codepoint": 57927,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "paragraphsIndentLeft"
+    },
+    "paragraphs-insert-image-top": {
+      "codepoint": 57928,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "paragraphsInsertImageTop"
+    },
+    "paragraphs-symbol": {
+      "codepoint": 57929,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "paragraphsSymbol"
+    },
+    "party-alchoholic-drink": {
+      "codepoint": 57930,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "partyAlchoholicDrink"
+    },
+    "party-balloon": {
+      "codepoint": 57931,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "partyBalloon"
+    },
+    "party-decoration-banner-1": {
+      "codepoint": 57932,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "partyDecorationBanner1"
+    },
+    "password-approved": {
+      "codepoint": 57933,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "passwordApproved"
+    },
+    "password-desktop-lock-approved": {
+      "codepoint": 57934,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "passwordDesktopLockApproved"
+    },
+    "pathfinder-merge": {
+      "codepoint": 57935,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "pathfinderMerge"
+    },
+    "performance-increase-clipboard": {
+      "codepoint": 57936,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "performanceIncreaseClipboard"
+    },
+    "performance-presentation-graph": {
+      "codepoint": 57937,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "performancePresentationGraph"
+    },
+    "phone-actions-24-hours-call": {
+      "codepoint": 57938,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "phoneActions24HoursCall"
+    },
+    "phone-actions-bluetooth": {
+      "codepoint": 57939,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "phoneActionsBluetooth"
+    },
+    "phone-actions-merge": {
+      "codepoint": 57940,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "phoneActionsMerge"
+    },
+    "phone-actions-ringing": {
+      "codepoint": 57941,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "phoneActionsRinging"
+    },
+    "phone-actions-wait-hold": {
+      "codepoint": 57942,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "phoneActionsWaitHold"
+    },
+    "phone-book": {
+      "codepoint": 57943,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "phoneBook"
+    },
+    "phone-booth": {
+      "codepoint": 57944,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "phoneBooth"
+    },
+    "phone-camera-rear-quardruple": {
+      "codepoint": 57945,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "phoneCameraRearQuardruple"
+    },
+    "phone-dial": {
+      "codepoint": 57946,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "phoneDial"
+    },
+    "phone-off": {
+      "codepoint": 57947,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "phoneOff"
+    },
+    "phone-retro-1": {
+      "codepoint": 57948,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "phoneRetro1"
+    },
+    "phone-ring": {
+      "codepoint": 57949,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "phoneRing"
+    },
+    "phone-selfie-front": {
+      "codepoint": 57950,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "phoneSelfieFront"
+    },
+    "photo-frame-hang": {
+      "codepoint": 57951,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "photoFrameHang"
+    },
+    "photo-frame-landscape": {
+      "codepoint": 57952,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "photoFrameLandscape"
+    },
+    "picture-double-landscape": {
+      "codepoint": 57953,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "pictureDoubleLandscape"
+    },
+    "picture-polaroid-four": {
+      "codepoint": 57954,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "picturePolaroidFour"
+    },
+    "picture-polaroid-hide": {
+      "codepoint": 57955,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "picturePolaroidHide"
+    },
+    "picture-stack-landscape": {
+      "codepoint": 57956,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "pictureStackLandscape"
+    },
+    "playlist-album-1": {
+      "codepoint": 57957,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "playlistAlbum1"
+    },
+    "playlist-cloud": {
+      "codepoint": 57958,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "playlistCloud"
+    },
+    "playlist-menu": {
+      "codepoint": 57959,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "playlistMenu"
+    },
+    "playlist-square-sync": {
+      "codepoint": 57960,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "playlistSquareSync"
+    },
+    "plugin-hands-puzzle": {
+      "codepoint": 57961,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "pluginHandsPuzzle"
+    },
+    "plugin-jigsaw-puzzle": {
+      "codepoint": 57962,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "pluginJigsawPuzzle"
+    },
+    "podcast-microphone-international-1": {
+      "codepoint": 57963,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "podcastMicrophoneInternational1"
+    },
+    "power-button": {
+      "codepoint": 57964,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "powerButton"
+    },
+    "power-supply-battery-charge": {
+      "codepoint": 57965,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "powerSupplyBatteryCharge"
+    },
+    "power-supply-plug": {
+      "codepoint": 57966,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "powerSupplyPlug"
+    },
+    "power-supply-wall-socket-1": {
+      "codepoint": 57967,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "powerSupplyWallSocket1"
+    },
+    "presentation-analytics": {
+      "codepoint": 57968,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "presentationAnalytics"
+    },
+    "presentation-audience": {
+      "codepoint": 57969,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "presentationAudience"
+    },
+    "presentation-board-graph": {
+      "codepoint": 57970,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "presentationBoardGraph"
+    },
+    "presentation-podium-notes": {
+      "codepoint": 57971,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "presentationPodiumNotes"
+    },
+    "presentation-projector": {
+      "codepoint": 57972,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "presentationProjector"
+    },
+    "presentation-projector-screen-bars": {
+      "codepoint": 57973,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "presentationProjectorScreenBars"
+    },
+    "presentation-projector-screen-budget-analytics": {
+      "codepoint": 57974,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "presentationProjectorScreenBudgetAnalytics"
+    },
+    "print-text": {
+      "codepoint": 57975,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "printText"
+    },
+    "product-launch-go-sign": {
+      "codepoint": 57976,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "productLaunchGoSign"
+    },
+    "product-launch-laptop": {
+      "codepoint": 57977,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "productLaunchLaptop"
+    },
+    "products-purse": {
+      "codepoint": 57978,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "productsPurse"
+    },
+    "products-purse-2": {
+      "codepoint": 57979,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "productsPurse2"
+    },
+    "products-shopping-bags": {
+      "codepoint": 57980,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "productsShoppingBags"
+    },
+    "programming-browser": {
+      "codepoint": 57981,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "programmingBrowser"
+    },
+    "programming-code-idea": {
+      "codepoint": 57982,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "programmingCodeIdea"
+    },
+    "programming-flowchart": {
+      "codepoint": 57983,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "programmingFlowchart"
+    },
+    "programming-hold-code": {
+      "codepoint": 57984,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "programmingHoldCode"
+    },
+    "programming-keyboard-type": {
+      "codepoint": 57985,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "programmingKeyboardType"
+    },
+    "programming-language-bookmark-javascript": {
+      "codepoint": 57986,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "programmingLanguageBookmarkJavascript"
+    },
+    "programming-language-browser-css": {
+      "codepoint": 57987,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "programmingLanguageBrowserCss"
+    },
+    "programming-language-browser-html": {
+      "codepoint": 57988,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "programmingLanguageBrowserHtml"
+    },
+    "programming-language-html-5": {
+      "codepoint": 57989,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "programmingLanguageHtml5"
+    },
+    "programming-language-script-lock": {
+      "codepoint": 57990,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "programmingLanguageScriptLock"
+    },
+    "programming-monitor": {
+      "codepoint": 57991,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "programmingMonitor"
+    },
+    "programming-search": {
+      "codepoint": 57992,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "programmingSearch"
+    },
+    "programming-team-chat": {
+      "codepoint": 57993,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "programmingTeamChat"
+    },
+    "programming-user-code": {
+      "codepoint": 57994,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "programmingUserCode"
+    },
+    "programming-user-head-matrix": {
+      "codepoint": 57995,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "programmingUserHeadMatrix"
+    },
+    "push-notification-2": {
+      "codepoint": 57996,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "pushNotification2"
+    },
+    "qr-code-scan-1": {
+      "codepoint": 57997,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "qrCodeScan1"
+    },
+    "radio-antenna-handle": {
+      "codepoint": 57998,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "radioAntennaHandle"
+    },
+    "radio-stereo": {
+      "codepoint": 57999,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "radioStereo"
+    },
+    "read-email-at-symbol": {
+      "codepoint": 58000,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "readEmailAtSymbol"
+    },
+    "read-email-target": {
+      "codepoint": 58001,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "readEmailTarget"
+    },
+    "receipt": {
+      "codepoint": 58002,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "receipt"
+    },
+    "receipt-cash-register-print": {
+      "codepoint": 58003,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "receiptCashRegisterPrint"
+    },
+    "receipt-view-pricing": {
+      "codepoint": 58004,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "receiptViewPricing"
+    },
+    "remove-delete-sign-bold": {
+      "codepoint": 58005,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "removeDeleteSignBold"
+    },
+    "remove-subtract-sign-bold": {
+      "codepoint": 58006,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "removeSubtractSignBold"
+    },
+    "reorder-up": {
+      "codepoint": 58007,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "reorderUp"
+    },
+    "resize-arrow-expand-vertical-1": {
+      "codepoint": 58008,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "resizeArrowExpandVertical1"
+    },
+    "resize-arrow-retract-horizontal": {
+      "codepoint": 58009,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "resizeArrowRetractHorizontal"
+    },
+    "resize-expand-arrow": {
+      "codepoint": 58010,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "resizeExpandArrow"
+    },
+    "resize-shrink-1": {
+      "codepoint": 58011,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "resizeShrink1"
+    },
+    "responsive-design-expand": {
+      "codepoint": 58012,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "responsiveDesignExpand"
+    },
+    "responsive-design-hand": {
+      "codepoint": 58013,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "responsiveDesignHand"
+    },
+    "responsive-design-monitor-phone": {
+      "codepoint": 58014,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "responsiveDesignMonitorPhone"
+    },
+    "retouch-contrast": {
+      "codepoint": 58015,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "retouchContrast"
+    },
+    "retouch-cut-edit": {
+      "codepoint": 58016,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "retouchCutEdit"
+    },
+    "retouch-face": {
+      "codepoint": 58017,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "retouchFace"
+    },
+    "retouch-magic-wand": {
+      "codepoint": 58018,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "retouchMagicWand"
+    },
+    "retouch-saturation": {
+      "codepoint": 58019,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "retouchSaturation"
+    },
+    "retouch-sticker": {
+      "codepoint": 58020,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "retouchSticker"
+    },
+    "retract-shrink-arrow": {
+      "codepoint": 58021,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "retractShrinkArrow"
+    },
+    "role-playing-games-icon-weapon-equipment-crate-chest": {
+      "codepoint": 58022,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "rolePlayingGamesIconWeaponEquipmentCrateChest"
+    },
+    "rotate-lock-smartphone": {
+      "codepoint": 58023,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "rotateLockSmartphone"
+    },
+    "rotate-smartphone": {
+      "codepoint": 58024,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "rotateSmartphone"
+    },
+    "ruler-t": {
+      "codepoint": 58025,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "rulerT"
+    },
+    "safety-911-call": {
+      "codepoint": 58026,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "safety911Call"
+    },
+    "safety-call-firefighters-1": {
+      "codepoint": 58027,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "safetyCallFirefighters1"
+    },
+    "safety-danger-mudslide": {
+      "codepoint": 58028,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "safetyDangerMudslide"
+    },
+    "safety-drown-hand": {
+      "codepoint": 58029,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "safetyDrownHand"
+    },
+    "safety-exit-door": {
+      "codepoint": 58030,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "safetyExitDoor"
+    },
+    "safety-exit-sign": {
+      "codepoint": 58031,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "safetyExitSign"
+    },
+    "safety-fire-exit": {
+      "codepoint": 58032,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "safetyFireExit"
+    },
+    "safety-fire-extinguisher": {
+      "codepoint": 58033,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "safetyFireExtinguisher"
+    },
+    "safety-sign-electricity": {
+      "codepoint": 58034,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "safetySignElectricity"
+    },
+    "safety-warning-radioactive": {
+      "codepoint": 58035,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "safetyWarningRadioactive"
+    },
+    "saving-bag-increase": {
+      "codepoint": 58036,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "savingBagIncrease"
+    },
+    "saving-bank": {
+      "codepoint": 58037,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "savingBank"
+    },
+    "saving-bank-cash": {
+      "codepoint": 58038,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "savingBankCash"
+    },
+    "saving-bank-international": {
+      "codepoint": 58039,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "savingBankInternational"
+    },
+    "saving-bear-market": {
+      "codepoint": 58040,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "savingBearMarket"
+    },
+    "saving-bear-market-graph-bars": {
+      "codepoint": 58041,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "savingBearMarketGraphBars"
+    },
+    "saving-bull-market": {
+      "codepoint": 58042,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "savingBullMarket"
+    },
+    "saving-bull-market-graph-bars": {
+      "codepoint": 58043,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "savingBullMarketGraphBars"
+    },
+    "saving-money-seedling": {
+      "codepoint": 58044,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "savingMoneySeedling"
+    },
+    "saving-piggy-bank": {
+      "codepoint": 58045,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "savingPiggyBank"
+    },
+    "saving-wallet-international": {
+      "codepoint": 58046,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "savingWalletInternational"
+    },
+    "scanner": {
+      "codepoint": 58047,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "scanner"
+    },
+    "screen-curved": {
+      "codepoint": 58048,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "screenCurved"
+    },
+    "scroll-vertical-smartphone": {
+      "codepoint": 58049,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "scrollVerticalSmartphone"
+    },
+    "search-magnifier": {
+      "codepoint": 58050,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "searchMagnifier"
+    },
+    "seat-vip": {
+      "codepoint": 58051,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "seatVip"
+    },
+    "security-computer-shield": {
+      "codepoint": 58052,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "securityComputerShield"
+    },
+    "security-gdpr-browser": {
+      "codepoint": 58053,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "securityGdprBrowser"
+    },
+    "security-it-service": {
+      "codepoint": 58054,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "securityItService"
+    },
+    "security-network-chain": {
+      "codepoint": 58055,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "securityNetworkChain"
+    },
+    "security-phone-protection-approved": {
+      "codepoint": 58056,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "securityPhoneProtectionApproved"
+    },
+    "security-shield-network": {
+      "codepoint": 58057,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "securityShieldNetwork"
+    },
+    "security-shield-settings": {
+      "codepoint": 58058,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "securityShieldSettings"
+    },
     "security-shield-wall": {
-      "codepoint": 57346,
+      "codepoint": 58059,
       "fontFamily": "StreamlineFreehand",
       "identifier": "securityShieldWall"
     },
+    "security-user-lock": {
+      "codepoint": 58060,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "securityUserLock"
+    },
+    "select-target-crosshair-1": {
+      "codepoint": 58061,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "selectTargetCrosshair1"
+    },
+    "send-email-fly": {
+      "codepoint": 58062,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "sendEmailFly"
+    },
+    "send-email-pop-up": {
+      "codepoint": 58063,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "sendEmailPopUp"
+    },
+    "seo-eye-network": {
+      "codepoint": 58064,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "seoEyeNetwork"
+    },
+    "seo-search-graph": {
+      "codepoint": 58065,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "seoSearchGraph"
+    },
+    "server-2": {
+      "codepoint": 58066,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "server2"
+    },
+    "server-api-cloud": {
+      "codepoint": 58067,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "serverApiCloud"
+    },
+    "server-error-404-not-found": {
+      "codepoint": 58068,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "serverError404NotFound"
+    },
+    "server-hand": {
+      "codepoint": 58069,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "serverHand"
+    },
+    "server-lock": {
+      "codepoint": 58070,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "serverLock"
+    },
+    "server-sftp-folder": {
+      "codepoint": 58071,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "serverSftpFolder"
+    },
+    "settings-cog": {
+      "codepoint": 58072,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "settingsCog"
+    },
+    "settings-cog-double-1": {
+      "codepoint": 58073,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "settingsCogDouble1"
+    },
+    "settings-screwdriver": {
+      "codepoint": 58074,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "settingsScrewdriver"
+    },
+    "shape-cube": {
+      "codepoint": 58075,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shapeCube"
+    },
+    "share-circles": {
+      "codepoint": 58076,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shareCircles"
+    },
+    "share-forward": {
+      "codepoint": 58077,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shareForward"
+    },
+    "share-megaphone": {
+      "codepoint": 58078,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shareMegaphone"
+    },
+    "share-radar": {
+      "codepoint": 58079,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shareRadar"
+    },
+    "share-user-signal-1": {
+      "codepoint": 58080,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shareUserSignal1"
+    },
+    "shop": {
+      "codepoint": 58081,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shop"
+    },
+    "shop-cart": {
+      "codepoint": 58082,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shopCart"
+    },
+    "shop-cashier": {
+      "codepoint": 58083,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shopCashier"
+    },
+    "shop-close": {
+      "codepoint": 58084,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shopClose"
+    },
+    "shop-like": {
+      "codepoint": 58085,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shopLike"
+    },
+    "shop-open": {
+      "codepoint": 58086,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shopOpen"
+    },
+    "shop-sign": {
+      "codepoint": 58087,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shopSign"
+    },
+    "shop-street-sign": {
+      "codepoint": 58088,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shopStreetSign"
+    },
+    "shopping-bag-barcode": {
+      "codepoint": 58089,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shoppingBagBarcode"
+    },
+    "shopping-bag-biodegradable-1": {
+      "codepoint": 58090,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shoppingBagBiodegradable1"
+    },
+    "shopping-bag-duty-free": {
+      "codepoint": 58091,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shoppingBagDutyFree"
+    },
+    "shopping-bag-no-plastic": {
+      "codepoint": 58092,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shoppingBagNoPlastic"
+    },
+    "shopping-bag-sad": {
+      "codepoint": 58093,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shoppingBagSad"
+    },
+    "shopping-bag-side": {
+      "codepoint": 58094,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shoppingBagSide"
+    },
+    "shopping-bag-target": {
+      "codepoint": 58095,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shoppingBagTarget"
+    },
+    "shopping-basket-1": {
+      "codepoint": 58096,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shoppingBasket1"
+    },
+    "shopping-basket-arrow-in": {
+      "codepoint": 58097,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shoppingBasketArrowIn"
+    },
+    "shopping-basket-arrow-out": {
+      "codepoint": 58098,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shoppingBasketArrowOut"
+    },
+    "shopping-basket-favorite-star": {
+      "codepoint": 58099,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shoppingBasketFavoriteStar"
+    },
+    "shopping-basket-like": {
+      "codepoint": 58100,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shoppingBasketLike"
+    },
+    "shopping-basket-rating": {
+      "codepoint": 58101,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shoppingBasketRating"
+    },
+    "shopping-basket-search": {
+      "codepoint": 58102,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shoppingBasketSearch"
+    },
+    "shopping-basket-smile-1": {
+      "codepoint": 58103,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shoppingBasketSmile1"
+    },
+    "shopping-cart-trolley": {
+      "codepoint": 58104,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shoppingCartTrolley"
+    },
+    "shopping-cart-trolley-check": {
+      "codepoint": 58105,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shoppingCartTrolleyCheck"
+    },
+    "shopping-cart-trolley-download": {
+      "codepoint": 58106,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shoppingCartTrolleyDownload"
+    },
+    "shopping-cart-trolley-full": {
+      "codepoint": 58107,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shoppingCartTrolleyFull"
+    },
+    "shopping-cart-trolley-upload": {
+      "codepoint": 58108,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "shoppingCartTrolleyUpload"
+    },
+    "show-hat-magician": {
+      "codepoint": 58109,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "showHatMagician"
+    },
+    "show-theater-drama": {
+      "codepoint": 58110,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "showTheaterDrama"
+    },
+    "signal-low": {
+      "codepoint": 58111,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "signalLow"
+    },
+    "sim-card": {
+      "codepoint": 58112,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "simCard"
+    },
+    "smart-watch-band-2": {
+      "codepoint": 58113,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smartWatchBand2"
+    },
+    "smart-watch-circle": {
+      "codepoint": 58114,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smartWatchCircle"
+    },
+    "smart-watch-circle-bluetooth": {
+      "codepoint": 58115,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smartWatchCircleBluetooth"
+    },
+    "smart-watch-circle-graph-line": {
+      "codepoint": 58116,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smartWatchCircleGraphLine"
+    },
+    "smart-watch-circle-location": {
+      "codepoint": 58117,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smartWatchCircleLocation"
+    },
+    "smart-watch-square": {
+      "codepoint": 58118,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smartWatchSquare"
+    },
+    "smart-watch-square-bell-alternate": {
+      "codepoint": 58119,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smartWatchSquareBellAlternate"
+    },
+    "smart-watch-square-graph-alternate": {
+      "codepoint": 58120,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smartWatchSquareGraphAlternate"
+    },
+    "smart-watch-square-microphone-alternate": {
+      "codepoint": 58121,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smartWatchSquareMicrophoneAlternate"
+    },
+    "smart-watch-square-navigation-alternate": {
+      "codepoint": 58122,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smartWatchSquareNavigationAlternate"
+    },
+    "smart-watch-wrist": {
+      "codepoint": 58123,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smartWatchWrist"
+    },
+    "smartphone-app-widget-add": {
+      "codepoint": 58124,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smartphoneAppWidgetAdd"
+    },
+    "smartphone-app-widget-remove": {
+      "codepoint": 58125,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smartphoneAppWidgetRemove"
+    },
+    "smartphone-app-widget-stock": {
+      "codepoint": 58126,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smartphoneAppWidgetStock"
+    },
+    "smartphone-app-widget-translator": {
+      "codepoint": 58127,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smartphoneAppWidgetTranslator"
+    },
+    "smiley-blessed": {
+      "codepoint": 58128,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smileyBlessed"
+    },
+    "smiley-blush": {
+      "codepoint": 58129,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smileyBlush"
+    },
+    "smiley-cheeky": {
+      "codepoint": 58130,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smileyCheeky"
+    },
+    "smiley-crazy": {
+      "codepoint": 58131,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smileyCrazy"
+    },
+    "smiley-crying-rainbow": {
+      "codepoint": 58132,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smileyCryingRainbow"
+    },
+    "smiley-dizzy": {
+      "codepoint": 58133,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smileyDizzy"
+    },
+    "smiley-eyes-only": {
+      "codepoint": 58134,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smileyEyesOnly"
+    },
+    "smiley-grumpy": {
+      "codepoint": 58135,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smileyGrumpy"
+    },
+    "smiley-happy": {
+      "codepoint": 58136,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smileyHappy"
+    },
+    "smiley-in-trouble": {
+      "codepoint": 58137,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smileyInTrouble"
+    },
+    "smiley-kiss-heart": {
+      "codepoint": 58138,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smileyKissHeart"
+    },
+    "smiley-lol": {
+      "codepoint": 58139,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smileyLol"
+    },
+    "smiley-petrified": {
+      "codepoint": 58140,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smileyPetrified"
+    },
+    "smiley-rich": {
+      "codepoint": 58141,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smileyRich"
+    },
+    "smiley-shine-big-eyes": {
+      "codepoint": 58142,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smileyShineBigEyes"
+    },
+    "smiley-sick-contageous": {
+      "codepoint": 58143,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smileySickContageous"
+    },
+    "smiley-smile-2": {
+      "codepoint": 58144,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smileySmile2"
+    },
+    "smiley-thrilled": {
+      "codepoint": 58145,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smileyThrilled"
+    },
+    "smiley-thumbs-up": {
+      "codepoint": 58146,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smileyThumbsUp"
+    },
+    "smiley-wink": {
+      "codepoint": 58147,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smileyWink"
+    },
+    "smiley-zipped": {
+      "codepoint": 58148,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "smileyZipped"
+    },
+    "speaker": {
+      "codepoint": 58149,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "speaker"
+    },
+    "speaker-stand": {
+      "codepoint": 58150,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "speakerStand"
+    },
+    "stairs-ascend": {
+      "codepoint": 58151,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "stairsAscend"
+    },
+    "stairs-descend": {
+      "codepoint": 58152,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "stairsDescend"
+    },
+    "stamps-portrait": {
+      "codepoint": 58153,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "stampsPortrait"
+    },
+    "stats-line-graph-circle": {
+      "codepoint": 58154,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "statsLineGraphCircle"
+    },
+    "strategy-business-success-peak": {
+      "codepoint": 58155,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "strategyBusinessSuccessPeak"
+    },
+    "strategy-target-center-phone": {
+      "codepoint": 58156,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "strategyTargetCenterPhone"
+    },
+    "swimming-pool-person": {
+      "codepoint": 58157,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "swimmingPoolPerson"
+    },
+    "synchronize-arrows": {
+      "codepoint": 58158,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "synchronizeArrows"
+    },
+    "synchronize-arrows-warning": {
+      "codepoint": 58159,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "synchronizeArrowsWarning"
+    },
+    "tablet-application": {
+      "codepoint": 58160,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "tabletApplication"
+    },
+    "tag-hot-price": {
+      "codepoint": 58161,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "tagHotPrice"
+    },
+    "tag-new-circle": {
+      "codepoint": 58162,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "tagNewCircle"
+    },
+    "tag-sale-price": {
+      "codepoint": 58163,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "tagSalePrice"
+    },
+    "tags-double": {
+      "codepoint": 58164,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "tagsDouble"
+    },
+    "taking-pictures-circle": {
+      "codepoint": 58165,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "takingPicturesCircle"
+    },
+    "taking-pictures-man": {
+      "codepoint": 58166,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "takingPicturesMan"
+    },
     "tape-cassette-1": {
-      "codepoint": 57347,
+      "codepoint": 58167,
       "fontFamily": "StreamlineFreehand",
       "identifier": "tapeCassette1"
+    },
+    "task-clipboard-check": {
+      "codepoint": 58168,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "taskClipboardCheck"
+    },
+    "task-list-clipboard-check": {
+      "codepoint": 58169,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "taskListClipboardCheck"
+    },
+    "task-list-clipboard-clock": {
+      "codepoint": 58170,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "taskListClipboardClock"
+    },
+    "task-list-clipboard-favorite-star": {
+      "codepoint": 58171,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "taskListClipboardFavoriteStar"
+    },
+    "task-list-clipboard-share": {
+      "codepoint": 58172,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "taskListClipboardShare"
+    },
+    "task-list-pen": {
+      "codepoint": 58173,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "taskListPen"
+    },
+    "task-list-pin-1": {
+      "codepoint": 58174,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "taskListPin1"
+    },
+    "terminal": {
+      "codepoint": 58175,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "terminal"
+    },
+    "text-formating-align-bottom": {
+      "codepoint": 58176,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "textFormatingAlignBottom"
+    },
+    "text-formating-arrange-spacing": {
+      "codepoint": 58177,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "textFormatingArrangeSpacing"
+    },
+    "text-formating-eraser-2": {
+      "codepoint": 58178,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "textFormatingEraser2"
+    },
+    "text-formating-font-size": {
+      "codepoint": 58179,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "textFormatingFontSize"
+    },
+    "text-formating-hash": {
+      "codepoint": 58180,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "textFormatingHash"
+    },
+    "text-formating-input": {
+      "codepoint": 58181,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "textFormatingInput"
+    },
+    "text-formating-open-quote": {
+      "codepoint": 58182,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "textFormatingOpenQuote"
+    },
+    "text-formating-rotate-angle": {
+      "codepoint": 58183,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "textFormatingRotateAngle"
+    },
+    "text-formating-rotate-vertical": {
+      "codepoint": 58184,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "textFormatingRotateVertical"
+    },
+    "text-formating-square": {
+      "codepoint": 58185,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "textFormatingSquare"
+    },
+    "time-clock-24-hrs-2": {
+      "codepoint": 58186,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "timeClock24Hrs2"
+    },
+    "time-clock-circle": {
+      "codepoint": 58187,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "timeClockCircle"
+    },
+    "time-clock-nine-twenty-five-1": {
+      "codepoint": 58188,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "timeClockNineTwentyFive1"
+    },
+    "time-clock-share-1": {
+      "codepoint": 58189,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "timeClockShare1"
+    },
+    "time-clock-square": {
+      "codepoint": 58190,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "timeClockSquare"
+    },
+    "time-hourglass-triangle": {
+      "codepoint": 58191,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "timeHourglassTriangle"
+    },
+    "time-stopwatch": {
+      "codepoint": 58192,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "timeStopwatch"
+    },
+    "time-wrist-watch-1": {
+      "codepoint": 58193,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "timeWristWatch1"
+    },
+    "timer-countdown-ten": {
+      "codepoint": 58194,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "timerCountdownTen"
+    },
+    "toilet-hand-dryer": {
+      "codepoint": 58195,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "toiletHandDryer"
+    },
+    "toilet-no-trash-throw": {
+      "codepoint": 58196,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "toiletNoTrashThrow"
+    },
+    "toilet-paper": {
+      "codepoint": 58197,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "toiletPaper"
+    },
+    "toilet-sign": {
+      "codepoint": 58198,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "toiletSign"
+    },
+    "touch-id-fingerprint-lock-1": {
+      "codepoint": 58199,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "touchIdFingerprintLock1"
+    },
+    "touch-id-fingerprint-square": {
+      "codepoint": 58200,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "touchIdFingerprintSquare"
+    },
+    "transfer-pictures-laptop-smartphone": {
+      "codepoint": 58201,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "transferPicturesLaptopSmartphone"
+    },
+    "transfer-pictures-sent": {
+      "codepoint": 58202,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "transferPicturesSent"
+    },
+    "transfer-pictures-smartphone": {
+      "codepoint": 58203,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "transferPicturesSmartphone"
+    },
+    "transform-right": {
+      "codepoint": 58204,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "transformRight"
+    },
+    "ui-browser-slider": {
+      "codepoint": 58205,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "uiBrowserSlider"
+    },
+    "ui-page-scroll": {
+      "codepoint": 58206,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "uiPageScroll"
+    },
+    "ui-phone-slider-vertical": {
+      "codepoint": 58207,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "uiPhoneSliderVertical"
+    },
+    "ui-step-indicator-2": {
+      "codepoint": 58208,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "uiStepIndicator2"
+    },
+    "ui-webpage-bullets": {
+      "codepoint": 58209,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "uiWebpageBullets"
+    },
+    "ui-webpage-slider-cursor": {
+      "codepoint": 58210,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "uiWebpageSliderCursor"
+    },
+    "unlink-broken-chain-1": {
+      "codepoint": 58211,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "unlinkBrokenChain1"
+    },
+    "unlock-circle": {
+      "codepoint": 58212,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "unlockCircle"
+    },
+    "upload-brackets": {
+      "codepoint": 58213,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "uploadBrackets"
+    },
+    "upload-menu": {
+      "codepoint": 58214,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "uploadMenu"
+    },
+    "vectors-add-anchor": {
+      "codepoint": 58215,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "vectorsAddAnchor"
+    },
+    "vectors-anchor-rectangle": {
+      "codepoint": 58216,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "vectorsAnchorRectangle"
+    },
+    "vectors-path-flat": {
+      "codepoint": 58217,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "vectorsPathFlat"
+    },
+    "vectors-pen-add-1": {
+      "codepoint": 58218,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "vectorsPenAdd1"
+    },
+    "vectors-pen-draw": {
+      "codepoint": 58219,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "vectorsPenDraw"
+    },
+    "vibrate-smartphone": {
+      "codepoint": 58220,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "vibrateSmartphone"
+    },
+    "vide-document-avi": {
+      "codepoint": 58221,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videDocumentAvi"
+    },
+    "vide-document-mov": {
+      "codepoint": 58222,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videDocumentMov"
+    },
+    "video-edit-effects": {
+      "codepoint": 58223,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videoEditEffects"
+    },
+    "video-edit-play": {
+      "codepoint": 58224,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videoEditPlay"
+    },
+    "video-edit-slow-motion": {
+      "codepoint": 58225,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videoEditSlowMotion"
+    },
+    "video-edit-split": {
+      "codepoint": 58226,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videoEditSplit"
+    },
+    "video-file-camera": {
+      "codepoint": 58227,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videoFileCamera"
+    },
+    "video-game-360-vr": {
+      "codepoint": 58228,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videoGame360Vr"
+    },
+    "video-game-breakout": {
+      "codepoint": 58229,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videoGameBreakout"
+    },
+    "video-game-control-gear": {
+      "codepoint": 58230,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videoGameControlGear"
+    },
+    "video-game-controller": {
+      "codepoint": 58231,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videoGameController"
+    },
+    "video-game-controller-team": {
+      "codepoint": 58232,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videoGameControllerTeam"
+    },
+    "video-game-controller-wifi": {
+      "codepoint": 58233,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videoGameControllerWifi"
+    },
+    "video-game-hatchi": {
+      "codepoint": 58234,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videoGameHatchi"
+    },
+    "video-game-mario-mushroom-1": {
+      "codepoint": 58235,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videoGameMarioMushroom1"
+    },
+    "video-game-nintendo": {
+      "codepoint": 58236,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videoGameNintendo"
+    },
+    "video-game-pacman": {
+      "codepoint": 58237,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videoGamePacman"
+    },
+    "video-game-tetris": {
+      "codepoint": 58238,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videoGameTetris"
+    },
+    "video-games-device-switch-joy-controller": {
+      "codepoint": 58239,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videoGamesDeviceSwitchJoyController"
+    },
+    "video-meeting-camera-browser": {
+      "codepoint": 58240,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videoMeetingCameraBrowser"
+    },
+    "video-meeting-monitor-webcam": {
+      "codepoint": 58241,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videoMeetingMonitorWebcam"
+    },
+    "video-meeting-team-monitor-man": {
+      "codepoint": 58242,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videoMeetingTeamMonitorMan"
+    },
+    "video-player-movie": {
+      "codepoint": 58243,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videoPlayerMovie"
+    },
+    "video-player-slider": {
+      "codepoint": 58244,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videoPlayerSlider"
+    },
+    "video-player-smartphone-horizontal": {
+      "codepoint": 58245,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "videoPlayerSmartphoneHorizontal"
+    },
+    "view-binocular": {
+      "codepoint": 58246,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "viewBinocular"
+    },
+    "view-eye-1": {
+      "codepoint": 58247,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "viewEye1"
+    },
+    "view-eye-off": {
+      "codepoint": 58248,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "viewEyeOff"
+    },
+    "vintage-camera-polaroid": {
+      "codepoint": 58249,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "vintageCameraPolaroid"
+    },
+    "vintage-tv-1": {
+      "codepoint": 58250,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "vintageTv1"
+    },
+    "vinyl-record-gramophone": {
+      "codepoint": 58251,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "vinylRecordGramophone"
+    },
+    "vinyl-record-player-2": {
+      "codepoint": 58252,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "vinylRecordPlayer2"
+    },
+    "voice-id-approved": {
+      "codepoint": 58253,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "voiceIdApproved"
+    },
+    "voice-id-user": {
+      "codepoint": 58254,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "voiceIdUser"
+    },
+    "volume-control-down-1": {
+      "codepoint": 58255,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "volumeControlDown1"
+    },
+    "volume-control-medium-1": {
+      "codepoint": 58256,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "volumeControlMedium1"
+    },
+    "volume-control-up-1": {
+      "codepoint": 58257,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "volumeControlUp1"
+    },
+    "waiting-room-clock": {
+      "codepoint": 58258,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "waitingRoomClock"
+    },
+    "walking-symbol": {
+      "codepoint": 58259,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "walkingSymbol"
+    },
+    "walkman-player": {
+      "codepoint": 58260,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "walkmanPlayer"
+    },
+    "water-fountain-drink": {
+      "codepoint": 58261,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "waterFountainDrink"
+    },
+    "water-fountain-sink": {
+      "codepoint": 58262,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "waterFountainSink"
+    },
+    "wealth-crystal-shine": {
+      "codepoint": 58263,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "wealthCrystalShine"
+    },
+    "wealth-gold-bars": {
+      "codepoint": 58264,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "wealthGoldBars"
+    },
+    "wealth-pearl-ring": {
+      "codepoint": 58265,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "wealthPearlRing"
+    },
+    "wealth-time-money": {
+      "codepoint": 58266,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "wealthTimeMoney"
+    },
+    "wealth-treasure-chest-open": {
+      "codepoint": 58267,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "wealthTreasureChestOpen"
+    },
+    "webcam": {
+      "codepoint": 58268,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "webcam"
+    },
+    "webcam-off-1": {
+      "codepoint": 58269,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "webcamOff1"
+    },
+    "website-development-browser-com-web": {
+      "codepoint": 58270,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "websiteDevelopmentBrowserComWeb"
+    },
+    "website-development-browser-hand": {
+      "codepoint": 58271,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "websiteDevelopmentBrowserHand"
+    },
+    "website-development-browser-page-layout": {
+      "codepoint": 58272,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "websiteDevelopmentBrowserPageLayout"
+    },
+    "website-development-browser-source-code": {
+      "codepoint": 58273,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "websiteDevelopmentBrowserSourceCode"
+    },
+    "website-development-code-flowchart-1": {
+      "codepoint": 58274,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "websiteDevelopmentCodeFlowchart1"
+    },
+    "website-development-monitor-www-web": {
+      "codepoint": 58275,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "websiteDevelopmentMonitorWwwWeb"
+    },
+    "wifi-laptop": {
+      "codepoint": 58276,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "wifiLaptop"
+    },
+    "wifi-monitor-1": {
+      "codepoint": 58277,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "wifiMonitor1"
+    },
+    "wifi-on": {
+      "codepoint": 58278,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "wifiOn"
+    },
+    "wireless-house-signal": {
+      "codepoint": 58279,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "wirelessHouseSignal"
+    },
+    "wireless-signal-rss-feed": {
+      "codepoint": 58280,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "wirelessSignalRssFeed"
+    },
+    "wireless-tower-building": {
+      "codepoint": 58281,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "wirelessTowerBuilding"
+    },
+    "wireless-wifi-signal-antenna": {
+      "codepoint": 58282,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "wirelessWifiSignalAntenna"
+    },
+    "wireless-wifi-signal-pole": {
+      "codepoint": 58283,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "wirelessWifiSignalPole"
+    },
+    "work-from-home-travel-office": {
+      "codepoint": 58284,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "workFromHomeTravelOffice"
+    },
+    "work-from-home-user-pet-cat": {
+      "codepoint": 58285,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "workFromHomeUserPetCat"
+    },
+    "worker-lay-off-fired-user-finger-1": {
+      "codepoint": 58286,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "workerLayOffFiredUserFinger1"
+    },
+    "workflow-collaborate": {
+      "codepoint": 58287,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "workflowCollaborate"
+    },
+    "worldwide-web-browser": {
+      "codepoint": 58288,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "worldwideWebBrowser"
+    },
+    "worldwide-web-disable": {
+      "codepoint": 58289,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "worldwideWebDisable"
+    },
+    "worldwide-web-location-pin": {
+      "codepoint": 58290,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "worldwideWebLocationPin"
+    },
+    "worldwide-web-network-www": {
+      "codepoint": 58291,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "worldwideWebNetworkWww"
+    },
+    "worldwide-web-phone": {
+      "codepoint": 58292,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "worldwideWebPhone"
+    },
+    "worldwide-web-sync": {
+      "codepoint": 58293,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "worldwideWebSync"
+    },
+    "worldwide-web-users": {
+      "codepoint": 58294,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "worldwideWebUsers"
+    },
+    "zoom-in-magnifier-1": {
+      "codepoint": 58295,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "zoomInMagnifier1"
+    },
+    "zoom-out-magnifier-1": {
+      "codepoint": 58296,
+      "fontFamily": "StreamlineFreehand",
+      "identifier": "zoomOutMagnifier1"
     }
   }
 }

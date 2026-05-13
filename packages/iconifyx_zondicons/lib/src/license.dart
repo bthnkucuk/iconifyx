@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/dukestreetstudio/zondicons/blob/master/LICENSE',
-  iconCount: 289,
+  iconCount: 301,
 );

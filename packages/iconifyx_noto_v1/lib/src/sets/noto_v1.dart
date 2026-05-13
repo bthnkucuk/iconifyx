@@ -9,4013 +9,3278 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Google Inc
 /// License: Apache 2.0 — https://github.com/googlefonts/noto-emoji/blob/main/svg/LICENSE
-/// Icons: 568 (split across 2 fonts)
+/// Icons: 463 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
 class NotoV1Icons {
   const NotoV1Icons._();
 
-  /// `2nd-place-medal`
-  static const IconifyIconData n2ndPlaceMedal = IconifyIconData(IconData(
-    0xe000,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
   /// `aerial-tramway`
   static const IconifyIconData aerialTramway = IconifyIconData(IconData(
-    0xe001,
+    0xe000,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `airplane`
   static const IconifyIconData airplane = IconifyIconData(IconData(
-    0xe002,
+    0xe001,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `alarm-clock`
   static const IconifyIconData alarmClock = IconifyIconData(IconData(
-    0xe003,
+    0xe002,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `alien`
   static const IconifyIconData alien = IconifyIconData(IconData(
-    0xe004,
+    0xe003,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `anchor`
   static const IconifyIconData anchor = IconifyIconData(IconData(
-    0xe005,
+    0xe004,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `anger-symbol`
   static const IconifyIconData angerSymbol = IconifyIconData(IconData(
-    0xe006,
+    0xe005,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `angry-face`
   static const IconifyIconData angryFace = IconifyIconData(IconData(
-    0xe007,
+    0xe006,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `anguished-face`
   static const IconifyIconData anguishedFace = IconifyIconData(IconData(
-    0xe008,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `ant`
-  static const IconifyIconData ant = IconifyIconData(IconData(
-    0xe009,
+    0xe007,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `antenna-bars`
   static const IconifyIconData antennaBars = IconifyIconData(IconData(
-    0xe00a,
+    0xe008,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `anticlockwise-arrows-button`
   static const IconifyIconData anticlockwiseArrowsButton = IconifyIconData(IconData(
-    0xe00b,
+    0xe009,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `aquarius`
   static const IconifyIconData aquarius = IconifyIconData(IconData(
-    0xe00c,
+    0xe00a,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `aries`
   static const IconifyIconData aries = IconifyIconData(IconData(
-    0xe00d,
+    0xe00b,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `asterisk`
   static const IconifyIconData asterisk = IconifyIconData(IconData(
-    0xe00e,
+    0xe00c,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `astonished-face`
   static const IconifyIconData astonishedFace = IconifyIconData(IconData(
-    0xe00f,
+    0xe00d,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `atm-sign`
   static const IconifyIconData atmSign = IconifyIconData(IconData(
-    0xe010,
+    0xe00e,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `automobile`
   static const IconifyIconData automobile = IconifyIconData(IconData(
-    0xe011,
+    0xe00f,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `back-arrow`
   static const IconifyIconData backArrow = IconifyIconData(IconData(
-    0xe012,
+    0xe010,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
-  /// `backhand-index-pointing-down`
-  static const IconifyIconData backhandIndexPointingDown = IconifyIconData(IconData(
-    0xe013,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `backhand-index-pointing-left`
-  static const IconifyIconData backhandIndexPointingLeft = IconifyIconData(IconData(
-    0xe014,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `backhand-index-pointing-right`
-  static const IconifyIconData backhandIndexPointingRight = IconifyIconData(IconData(
-    0xe015,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `backhand-index-pointing-up`
-  static const IconifyIconData backhandIndexPointingUp = IconifyIconData(IconData(
-    0xe016,
+  /// `backpack`
+  static const IconifyIconData backpack = IconifyIconData(IconData(
+    0xe011,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `baggage-claim`
   static const IconifyIconData baggageClaim = IconifyIconData(IconData(
-    0xe017,
+    0xe012,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `balloon`
   static const IconifyIconData balloon = IconifyIconData(IconData(
-    0xe018,
+    0xe013,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `ballot-box-with-check`
   static const IconifyIconData ballotBoxWithCheck = IconifyIconData(IconData(
-    0xe019,
+    0xe014,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `bank`
   static const IconifyIconData bank = IconifyIconData(IconData(
-    0xe01a,
+    0xe015,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
-  /// `bar-chart`
-  static const IconifyIconData barChart = IconifyIconData(IconData(
-    0xe01b,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `barber-pole`
-  static const IconifyIconData barberPole = IconifyIconData(IconData(
-    0xe01c,
+  /// `bat`
+  static const IconifyIconData bat = IconifyIconData(IconData(
+    0xe016,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `bathtub`
   static const IconifyIconData bathtub = IconifyIconData(IconData(
-    0xe01d,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `beaming-face-with-smiling-eyes`
-  static const IconifyIconData beamingFaceWithSmilingEyes = IconifyIconData(IconData(
-    0xe01e,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `bicycle`
-  static const IconifyIconData bicycle = IconifyIconData(IconData(
-    0xe01f,
+    0xe017,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `bikini`
   static const IconifyIconData bikini = IconifyIconData(IconData(
-    0xe020,
+    0xe018,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `biohazard`
   static const IconifyIconData biohazard = IconifyIconData(IconData(
-    0xe021,
+    0xe019,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `birthday-cake`
   static const IconifyIconData birthdayCake = IconifyIconData(IconData(
-    0xe022,
+    0xe01a,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `black-heart`
   static const IconifyIconData blackHeart = IconifyIconData(IconData(
-    0xe023,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `black-nib`
-  static const IconifyIconData blackNib = IconifyIconData(IconData(
-    0xe024,
+    0xe01b,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `blowfish`
   static const IconifyIconData blowfish = IconifyIconData(IconData(
-    0xe025,
+    0xe01c,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `blue-book`
   static const IconifyIconData blueBook = IconifyIconData(IconData(
-    0xe026,
+    0xe01d,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `blue-circle`
   static const IconifyIconData blueCircle = IconifyIconData(IconData(
-    0xe027,
+    0xe01e,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `blue-heart`
   static const IconifyIconData blueHeart = IconifyIconData(IconData(
-    0xe028,
+    0xe01f,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `bomb`
   static const IconifyIconData bomb = IconifyIconData(IconData(
-    0xe029,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `bookmark-tabs`
-  static const IconifyIconData bookmarkTabs = IconifyIconData(IconData(
-    0xe02a,
+    0xe020,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `books`
   static const IconifyIconData books = IconifyIconData(IconData(
-    0xe02b,
+    0xe021,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `bouquet`
   static const IconifyIconData bouquet = IconifyIconData(IconData(
-    0xe02c,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `bowling`
-  static const IconifyIconData bowling = IconifyIconData(IconData(
-    0xe02d,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `bridge-at-night`
-  static const IconifyIconData bridgeAtNight = IconifyIconData(IconData(
-    0xe02e,
+    0xe022,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `bright-button`
   static const IconifyIconData brightButton = IconifyIconData(IconData(
-    0xe02f,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `bus`
-  static const IconifyIconData bus = IconifyIconData(IconData(
-    0xe030,
+    0xe023,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `bust-in-silhouette`
   static const IconifyIconData bustInSilhouette = IconifyIconData(IconData(
-    0xe031,
+    0xe024,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `busts-in-silhouette`
   static const IconifyIconData bustsInSilhouette = IconifyIconData(IconData(
-    0xe032,
+    0xe025,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `call-me-hand`
   static const IconifyIconData callMeHand = IconifyIconData(IconData(
-    0xe033,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `camera`
-  static const IconifyIconData camera = IconifyIconData(IconData(
-    0xe034,
+    0xe026,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `camera-with-flash`
   static const IconifyIconData cameraWithFlash = IconifyIconData(IconData(
-    0xe035,
+    0xe027,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `cancer`
   static const IconifyIconData cancer = IconifyIconData(IconData(
-    0xe036,
+    0xe028,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `capricorn`
   static const IconifyIconData capricorn = IconifyIconData(IconData(
-    0xe037,
+    0xe029,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `card-index`
   static const IconifyIconData cardIndex = IconifyIconData(IconData(
-    0xe038,
+    0xe02a,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `carp-streamer`
   static const IconifyIconData carpStreamer = IconifyIconData(IconData(
-    0xe039,
+    0xe02b,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `carrot`
   static const IconifyIconData carrot = IconifyIconData(IconData(
-    0xe03a,
+    0xe02c,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `castle`
   static const IconifyIconData castle = IconifyIconData(IconData(
-    0xe03b,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `chart-decreasing`
-  static const IconifyIconData chartDecreasing = IconifyIconData(IconData(
-    0xe03c,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `chart-increasing`
-  static const IconifyIconData chartIncreasing = IconifyIconData(IconData(
-    0xe03d,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `chart-increasing-with-yen`
-  static const IconifyIconData chartIncreasingWithYen = IconifyIconData(IconData(
-    0xe03e,
+    0xe02d,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `check-box-with-check`
   static const IconifyIconData checkBoxWithCheck = IconifyIconData(IconData(
-    0xe03f,
+    0xe02e,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `check-mark`
   static const IconifyIconData checkMark = IconifyIconData(IconData(
-    0xe040,
+    0xe02f,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `chequered-flag`
   static const IconifyIconData chequeredFlag = IconifyIconData(IconData(
-    0xe041,
+    0xe030,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `chicken`
   static const IconifyIconData chicken = IconifyIconData(IconData(
-    0xe042,
+    0xe031,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `children-crossing`
   static const IconifyIconData childrenCrossing = IconifyIconData(IconData(
-    0xe043,
+    0xe032,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `cigarette`
   static const IconifyIconData cigarette = IconifyIconData(IconData(
-    0xe044,
+    0xe033,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `cinema`
   static const IconifyIconData cinema = IconifyIconData(IconData(
-    0xe045,
+    0xe034,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `circled-m`
   static const IconifyIconData circledM = IconifyIconData(IconData(
-    0xe046,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `circus-tent`
-  static const IconifyIconData circusTent = IconifyIconData(IconData(
-    0xe047,
+    0xe035,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `cityscape`
   static const IconifyIconData cityscape = IconifyIconData(IconData(
-    0xe048,
+    0xe036,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `clapping-hands`
   static const IconifyIconData clappingHands = IconifyIconData(IconData(
-    0xe049,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `clinking-glasses`
-  static const IconifyIconData clinkingGlasses = IconifyIconData(IconData(
-    0xe04a,
+    0xe037,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `clockwise-vertical-arrows`
   static const IconifyIconData clockwiseVerticalArrows = IconifyIconData(IconData(
-    0xe04b,
+    0xe038,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `closed-umbrella`
   static const IconifyIconData closedUmbrella = IconifyIconData(IconData(
-    0xe04c,
+    0xe039,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `cloud`
   static const IconifyIconData cloud = IconifyIconData(IconData(
-    0xe04d,
+    0xe03a,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `cloud-with-lightning`
   static const IconifyIconData cloudWithLightning = IconifyIconData(IconData(
-    0xe04e,
+    0xe03b,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `cloud-with-lightning-and-rain`
   static const IconifyIconData cloudWithLightningAndRain = IconifyIconData(IconData(
-    0xe04f,
+    0xe03c,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `cloud-with-rain`
   static const IconifyIconData cloudWithRain = IconifyIconData(IconData(
-    0xe050,
+    0xe03d,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `cloud-with-snow`
   static const IconifyIconData cloudWithSnow = IconifyIconData(IconData(
-    0xe051,
+    0xe03e,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `club-suit`
   static const IconifyIconData clubSuit = IconifyIconData(IconData(
-    0xe052,
+    0xe03f,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `collision`
   static const IconifyIconData collision = IconifyIconData(IconData(
-    0xe053,
+    0xe040,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `computer-disk`
   static const IconifyIconData computerDisk = IconifyIconData(IconData(
-    0xe054,
+    0xe041,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `computer-mouse`
   static const IconifyIconData computerMouse = IconifyIconData(IconData(
-    0xe055,
+    0xe042,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `confounded-face`
   static const IconifyIconData confoundedFace = IconifyIconData(IconData(
-    0xe056,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `confused-face`
-  static const IconifyIconData confusedFace = IconifyIconData(IconData(
-    0xe057,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `construction`
-  static const IconifyIconData construction = IconifyIconData(IconData(
-    0xe058,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `convenience-store`
-  static const IconifyIconData convenienceStore = IconifyIconData(IconData(
-    0xe059,
+    0xe043,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `cooking`
   static const IconifyIconData cooking = IconifyIconData(IconData(
-    0xe05a,
+    0xe044,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `cool-button`
   static const IconifyIconData coolButton = IconifyIconData(IconData(
-    0xe05b,
+    0xe045,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `copyright`
   static const IconifyIconData copyright = IconifyIconData(IconData(
-    0xe05c,
+    0xe046,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `counterclockwise-arrows-button`
   static const IconifyIconData counterclockwiseArrowsButton = IconifyIconData(IconData(
-    0xe05d,
+    0xe047,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `cow`
   static const IconifyIconData cow = IconifyIconData(IconData(
-    0xe05e,
+    0xe048,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `cow-face`
   static const IconifyIconData cowFace = IconifyIconData(IconData(
-    0xe05f,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `credit-card`
-  static const IconifyIconData creditCard = IconifyIconData(IconData(
-    0xe060,
+    0xe049,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `crescent-moon`
   static const IconifyIconData crescentMoon = IconifyIconData(IconData(
-    0xe061,
+    0xe04a,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `cross-mark`
   static const IconifyIconData crossMark = IconifyIconData(IconData(
-    0xe062,
+    0xe04b,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `cross-mark-button`
   static const IconifyIconData crossMarkButton = IconifyIconData(IconData(
-    0xe063,
+    0xe04c,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `crossed-fingers`
   static const IconifyIconData crossedFingers = IconifyIconData(IconData(
-    0xe064,
+    0xe04d,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `crying-face`
   static const IconifyIconData cryingFace = IconifyIconData(IconData(
-    0xe065,
+    0xe04e,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `curly-loop`
   static const IconifyIconData curlyLoop = IconifyIconData(IconData(
-    0xe066,
+    0xe04f,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `customs`
   static const IconifyIconData customs = IconifyIconData(IconData(
-    0xe067,
+    0xe050,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `cyclone`
   static const IconifyIconData cyclone = IconifyIconData(IconData(
-    0xe068,
+    0xe051,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `dashing-away`
   static const IconifyIconData dashingAway = IconifyIconData(IconData(
-    0xe069,
+    0xe052,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `department-store`
   static const IconifyIconData departmentStore = IconifyIconData(IconData(
-    0xe06a,
+    0xe053,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `digit-eight`
   static const IconifyIconData digitEight = IconifyIconData(IconData(
-    0xe06b,
+    0xe054,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `digit-five`
   static const IconifyIconData digitFive = IconifyIconData(IconData(
-    0xe06c,
+    0xe055,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `digit-four`
   static const IconifyIconData digitFour = IconifyIconData(IconData(
-    0xe06d,
+    0xe056,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `digit-nine`
   static const IconifyIconData digitNine = IconifyIconData(IconData(
-    0xe06e,
+    0xe057,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `digit-one`
   static const IconifyIconData digitOne = IconifyIconData(IconData(
-    0xe06f,
+    0xe058,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `digit-seven`
   static const IconifyIconData digitSeven = IconifyIconData(IconData(
-    0xe070,
+    0xe059,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `digit-six`
   static const IconifyIconData digitSix = IconifyIconData(IconData(
-    0xe071,
+    0xe05a,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `digit-three`
   static const IconifyIconData digitThree = IconifyIconData(IconData(
-    0xe072,
+    0xe05b,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `digit-two`
   static const IconifyIconData digitTwo = IconifyIconData(IconData(
-    0xe073,
+    0xe05c,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `digit-zero`
   static const IconifyIconData digitZero = IconifyIconData(IconData(
-    0xe074,
+    0xe05d,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `dim-button`
   static const IconifyIconData dimButton = IconifyIconData(IconData(
-    0xe075,
+    0xe05e,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `direct-hit`
   static const IconifyIconData directHit = IconifyIconData(IconData(
-    0xe076,
+    0xe05f,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `disappointed-but-relieved-face`
   static const IconifyIconData disappointedButRelievedFace = IconifyIconData(IconData(
-    0xe077,
+    0xe060,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `disappointed-face`
   static const IconifyIconData disappointedFace = IconifyIconData(IconData(
-    0xe078,
+    0xe061,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `dizzy-face`
   static const IconifyIconData dizzyFace = IconifyIconData(IconData(
-    0xe079,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `dolphin`
-  static const IconifyIconData dolphin = IconifyIconData(IconData(
-    0xe07a,
+    0xe062,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `double-curly-loop`
   static const IconifyIconData doubleCurlyLoop = IconifyIconData(IconData(
-    0xe07b,
+    0xe063,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `double-exclamation-mark`
   static const IconifyIconData doubleExclamationMark = IconifyIconData(IconData(
-    0xe07c,
+    0xe064,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `dove`
   static const IconifyIconData dove = IconifyIconData(IconData(
-    0xe07d,
+    0xe065,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `down-arrow`
   static const IconifyIconData downArrow = IconifyIconData(IconData(
-    0xe07e,
+    0xe066,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `down-left-arrow`
   static const IconifyIconData downLeftArrow = IconifyIconData(IconData(
-    0xe07f,
+    0xe067,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `down-right-arrow`
   static const IconifyIconData downRightArrow = IconifyIconData(IconData(
-    0xe080,
+    0xe068,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `downcast-face-with-sweat`
   static const IconifyIconData downcastFaceWithSweat = IconifyIconData(IconData(
-    0xe081,
+    0xe069,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `drooling-face`
   static const IconifyIconData droolingFace = IconifyIconData(IconData(
-    0xe082,
+    0xe06a,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `droplet`
   static const IconifyIconData droplet = IconifyIconData(IconData(
-    0xe083,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `dvd`
-  static const IconifyIconData dvd = IconifyIconData(IconData(
-    0xe084,
+    0xe06b,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `e-mail`
   static const IconifyIconData eMail = IconifyIconData(IconData(
-    0xe085,
+    0xe06c,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `ear`
   static const IconifyIconData ear = IconifyIconData(IconData(
-    0xe086,
+    0xe06d,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `egg`
   static const IconifyIconData egg = IconifyIconData(IconData(
-    0xe087,
+    0xe06e,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `eight-oclock`
   static const IconifyIconData eightOclock = IconifyIconData(IconData(
-    0xe088,
+    0xe06f,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `eight-pointed-star`
   static const IconifyIconData eightPointedStar = IconifyIconData(IconData(
-    0xe089,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `eight-thirty`
-  static const IconifyIconData eightThirty = IconifyIconData(IconData(
-    0xe08a,
+    0xe070,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `eject-button`
   static const IconifyIconData ejectButton = IconifyIconData(IconData(
-    0xe08b,
+    0xe071,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `eleven-oclock`
   static const IconifyIconData elevenOclock = IconifyIconData(IconData(
-    0xe08c,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `eleven-thirty`
-  static const IconifyIconData elevenThirty = IconifyIconData(IconData(
-    0xe08d,
+    0xe072,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `end-arrow`
   static const IconifyIconData endArrow = IconifyIconData(IconData(
-    0xe08e,
+    0xe073,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `envelope`
   static const IconifyIconData envelope = IconifyIconData(IconData(
-    0xe08f,
+    0xe074,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `envelope-with-arrow`
   static const IconifyIconData envelopeWithArrow = IconifyIconData(IconData(
-    0xe090,
+    0xe075,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `exclamation-mark`
   static const IconifyIconData exclamationMark = IconifyIconData(IconData(
-    0xe091,
+    0xe076,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `exclamation-question-mark`
   static const IconifyIconData exclamationQuestionMark = IconifyIconData(IconData(
-    0xe092,
+    0xe077,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `expressionless-face`
   static const IconifyIconData expressionlessFace = IconifyIconData(IconData(
-    0xe093,
+    0xe078,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `eye`
   static const IconifyIconData eye = IconifyIconData(IconData(
-    0xe094,
+    0xe079,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `eyes`
   static const IconifyIconData eyes = IconifyIconData(IconData(
-    0xe095,
+    0xe07a,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `face-with-cold-sweat`
   static const IconifyIconData faceWithColdSweat = IconifyIconData(IconData(
-    0xe096,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `face-with-medical-mask`
-  static const IconifyIconData faceWithMedicalMask = IconifyIconData(IconData(
-    0xe097,
+    0xe07b,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `face-with-open-mouth`
   static const IconifyIconData faceWithOpenMouth = IconifyIconData(IconData(
-    0xe098,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `face-with-rolling-eyes`
-  static const IconifyIconData faceWithRollingEyes = IconifyIconData(IconData(
-    0xe099,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `face-with-tears-of-joy`
-  static const IconifyIconData faceWithTearsOfJoy = IconifyIconData(IconData(
-    0xe09a,
+    0xe07c,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `face-without-mouth`
   static const IconifyIconData faceWithoutMouth = IconifyIconData(IconData(
-    0xe09b,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `factory`
-  static const IconifyIconData factory_ = IconifyIconData(IconData(
-    0xe09c,
+    0xe07d,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `fast-down-button`
   static const IconifyIconData fastDownButton = IconifyIconData(IconData(
-    0xe09d,
+    0xe07e,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `fast-forward-button`
   static const IconifyIconData fastForwardButton = IconifyIconData(IconData(
-    0xe09e,
+    0xe07f,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `fast-reverse-button`
   static const IconifyIconData fastReverseButton = IconifyIconData(IconData(
-    0xe09f,
+    0xe080,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `fast-up-button`
   static const IconifyIconData fastUpButton = IconifyIconData(IconData(
-    0xe0a0,
+    0xe081,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `fax-machine`
   static const IconifyIconData faxMachine = IconifyIconData(IconData(
-    0xe0a1,
+    0xe082,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `female-sign`
   static const IconifyIconData femaleSign = IconifyIconData(IconData(
-    0xe0a2,
+    0xe083,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `file-folder`
   static const IconifyIconData fileFolder = IconifyIconData(IconData(
-    0xe0a3,
+    0xe084,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `film-projector`
   static const IconifyIconData filmProjector = IconifyIconData(IconData(
-    0xe0a4,
+    0xe085,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `fire`
   static const IconifyIconData fire = IconifyIconData(IconData(
-    0xe0a5,
+    0xe086,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `fire-engine`
   static const IconifyIconData fireEngine = IconifyIconData(IconData(
-    0xe0a6,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `first-quarter-moon`
-  static const IconifyIconData firstQuarterMoon = IconifyIconData(IconData(
-    0xe0a7,
+    0xe087,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `first-quarter-moon-face`
   static const IconifyIconData firstQuarterMoonFace = IconifyIconData(IconData(
-    0xe0a8,
+    0xe088,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `first-quarter-moon-with-face`
   static const IconifyIconData firstQuarterMoonWithFace = IconifyIconData(IconData(
-    0xe0a9,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `fish`
-  static const IconifyIconData fish = IconifyIconData(IconData(
-    0xe0aa,
+    0xe089,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `five-oclock`
   static const IconifyIconData fiveOclock = IconifyIconData(IconData(
-    0xe0ab,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `five-thirty`
-  static const IconifyIconData fiveThirty = IconifyIconData(IconData(
-    0xe0ac,
+    0xe08a,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `flag-for-chequered-flag`
   static const IconifyIconData flagForChequeredFlag = IconifyIconData(IconData(
-    0xe0ad,
+    0xe08b,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `flag-for-china`
   static const IconifyIconData flagForChina = IconifyIconData(IconData(
-    0xe0ae,
+    0xe08c,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `flag-for-flag-china`
   static const IconifyIconData flagForFlagChina = IconifyIconData(IconData(
-    0xe0af,
+    0xe08d,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `flag-for-triangular-flag`
   static const IconifyIconData flagForTriangularFlag = IconifyIconData(IconData(
-    0xe0b0,
+    0xe08e,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `flag-for-white-flag`
   static const IconifyIconData flagForWhiteFlag = IconifyIconData(IconData(
-    0xe0b1,
+    0xe08f,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `flashlight`
   static const IconifyIconData flashlight = IconifyIconData(IconData(
-    0xe0b2,
+    0xe090,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `flexed-biceps`
   static const IconifyIconData flexedBiceps = IconifyIconData(IconData(
-    0xe0b3,
+    0xe091,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `floppy-disk`
   static const IconifyIconData floppyDisk = IconifyIconData(IconData(
-    0xe0b4,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `flower-playing-cards`
-  static const IconifyIconData flowerPlayingCards = IconifyIconData(IconData(
-    0xe0b5,
+    0xe092,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `fog`
   static const IconifyIconData fog = IconifyIconData(IconData(
-    0xe0b6,
+    0xe093,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `footprints`
   static const IconifyIconData footprints = IconifyIconData(IconData(
-    0xe0b7,
+    0xe094,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `fork-and-knife`
   static const IconifyIconData forkAndKnife = IconifyIconData(IconData(
-    0xe0b8,
+    0xe095,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `fork-and-knife-with-plate`
   static const IconifyIconData forkAndKnifeWithPlate = IconifyIconData(IconData(
-    0xe0b9,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `fountain`
-  static const IconifyIconData fountain = IconifyIconData(IconData(
-    0xe0ba,
+    0xe096,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `four-oclock`
   static const IconifyIconData fourOclock = IconifyIconData(IconData(
-    0xe0bb,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `four-thirty`
-  static const IconifyIconData fourThirty = IconifyIconData(IconData(
-    0xe0bc,
+    0xe097,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `free-button`
   static const IconifyIconData freeButton = IconifyIconData(IconData(
-    0xe0bd,
+    0xe098,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `fried-shrimp`
   static const IconifyIconData friedShrimp = IconifyIconData(IconData(
-    0xe0be,
+    0xe099,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `frog`
   static const IconifyIconData frog = IconifyIconData(IconData(
-    0xe0bf,
+    0xe09a,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `frog-face`
   static const IconifyIconData frogFace = IconifyIconData(IconData(
-    0xe0c0,
+    0xe09b,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `frowning-face`
   static const IconifyIconData frowningFace = IconifyIconData(IconData(
-    0xe0c1,
+    0xe09c,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `frowning-face-with-open-mouth`
   static const IconifyIconData frowningFaceWithOpenMouth = IconifyIconData(IconData(
-    0xe0c2,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `fuel-pump`
-  static const IconifyIconData fuelPump = IconifyIconData(IconData(
-    0xe0c3,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `full-moon`
-  static const IconifyIconData fullMoon = IconifyIconData(IconData(
-    0xe0c4,
+    0xe09d,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `full-moon-face`
   static const IconifyIconData fullMoonFace = IconifyIconData(IconData(
-    0xe0c5,
+    0xe09e,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `full-moon-with-face`
   static const IconifyIconData fullMoonWithFace = IconifyIconData(IconData(
-    0xe0c6,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `game-die`
-  static const IconifyIconData gameDie = IconifyIconData(IconData(
-    0xe0c7,
+    0xe09f,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `gemini`
   static const IconifyIconData gemini = IconifyIconData(IconData(
-    0xe0c8,
+    0xe0a0,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `ghost`
   static const IconifyIconData ghost = IconifyIconData(IconData(
-    0xe0c9,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `globe-showing-americas`
-  static const IconifyIconData globeShowingAmericas = IconifyIconData(IconData(
-    0xe0ca,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `globe-showing-asia-australia`
-  static const IconifyIconData globeShowingAsiaAustralia = IconifyIconData(IconData(
-    0xe0cb,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `globe-showing-europe-africa`
-  static const IconifyIconData globeShowingEuropeAfrica = IconifyIconData(IconData(
-    0xe0cc,
+    0xe0a1,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `globe-with-meridians`
   static const IconifyIconData globeWithMeridians = IconifyIconData(IconData(
-    0xe0cd,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `goal-net`
-  static const IconifyIconData goalNet = IconifyIconData(IconData(
-    0xe0ce,
+    0xe0a2,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `goat`
   static const IconifyIconData goat = IconifyIconData(IconData(
-    0xe0cf,
+    0xe0a3,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `goblin`
   static const IconifyIconData goblin = IconifyIconData(IconData(
-    0xe0d0,
+    0xe0a4,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `green-book`
   static const IconifyIconData greenBook = IconifyIconData(IconData(
-    0xe0d1,
+    0xe0a5,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `grimacing-face`
   static const IconifyIconData grimacingFace = IconifyIconData(IconData(
-    0xe0d2,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `grinning-face`
-  static const IconifyIconData grinningFace = IconifyIconData(IconData(
-    0xe0d3,
+    0xe0a6,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `grinning-face-with-big-eyes`
   static const IconifyIconData grinningFaceWithBigEyes = IconifyIconData(IconData(
-    0xe0d4,
+    0xe0a7,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `grinning-face-with-sweat`
   static const IconifyIconData grinningFaceWithSweat = IconifyIconData(IconData(
-    0xe0d5,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `guitar`
-  static const IconifyIconData guitar = IconifyIconData(IconData(
-    0xe0d6,
+    0xe0a8,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `hand-with-fingers-splayed`
   static const IconifyIconData handWithFingersSplayed = IconifyIconData(IconData(
-    0xe0d7,
+    0xe0a9,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `handbag`
   static const IconifyIconData handbag = IconifyIconData(IconData(
-    0xe0d8,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `handshake`
-  static const IconifyIconData handshake = IconifyIconData(IconData(
-    0xe0d9,
+    0xe0aa,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `hatching-chick`
   static const IconifyIconData hatchingChick = IconifyIconData(IconData(
-    0xe0da,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `headphone`
-  static const IconifyIconData headphone = IconifyIconData(IconData(
-    0xe0db,
+    0xe0ab,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `heavy-check-mark`
   static const IconifyIconData heavyCheckMark = IconifyIconData(IconData(
-    0xe0dc,
+    0xe0ac,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `heavy-dollar-sign`
   static const IconifyIconData heavyDollarSign = IconifyIconData(IconData(
-    0xe0dd,
+    0xe0ad,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `heavy-minus-sign`
   static const IconifyIconData heavyMinusSign = IconifyIconData(IconData(
-    0xe0de,
+    0xe0ae,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `heavy-plus-sign`
   static const IconifyIconData heavyPlusSign = IconifyIconData(IconData(
-    0xe0df,
+    0xe0af,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `helicopter`
   static const IconifyIconData helicopter = IconifyIconData(IconData(
-    0xe0e0,
+    0xe0b0,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `hibiscus`
   static const IconifyIconData hibiscus = IconifyIconData(IconData(
-    0xe0e1,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `high-speed-train`
-  static const IconifyIconData highSpeedTrain = IconifyIconData(IconData(
-    0xe0e2,
+    0xe0b1,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `high-voltage`
   static const IconifyIconData highVoltage = IconifyIconData(IconData(
-    0xe0e3,
+    0xe0b2,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `hospital`
   static const IconifyIconData hospital = IconifyIconData(IconData(
-    0xe0e4,
+    0xe0b3,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `hot-dog`
   static const IconifyIconData hotDog = IconifyIconData(IconData(
-    0xe0e5,
+    0xe0b4,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `hot-springs`
   static const IconifyIconData hotSprings = IconifyIconData(IconData(
-    0xe0e6,
+    0xe0b5,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `hundred-points`
   static const IconifyIconData hundredPoints = IconifyIconData(IconData(
-    0xe0e7,
+    0xe0b6,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `hushed-face`
   static const IconifyIconData hushedFace = IconifyIconData(IconData(
-    0xe0e8,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `incoming-envelope`
-  static const IconifyIconData incomingEnvelope = IconifyIconData(IconData(
-    0xe0e9,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `index-pointing-up`
-  static const IconifyIconData indexPointingUp = IconifyIconData(IconData(
-    0xe0ea,
+    0xe0b7,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `information`
   static const IconifyIconData information = IconifyIconData(IconData(
-    0xe0eb,
+    0xe0b8,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `input-latin-letters`
   static const IconifyIconData inputLatinLetters = IconifyIconData(IconData(
-    0xe0ec,
+    0xe0b9,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `input-latin-lowercase`
   static const IconifyIconData inputLatinLowercase = IconifyIconData(IconData(
-    0xe0ed,
+    0xe0ba,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `input-latin-uppercase`
   static const IconifyIconData inputLatinUppercase = IconifyIconData(IconData(
-    0xe0ee,
+    0xe0bb,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `input-numbers`
   static const IconifyIconData inputNumbers = IconifyIconData(IconData(
-    0xe0ef,
+    0xe0bc,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `input-symbols`
   static const IconifyIconData inputSymbols = IconifyIconData(IconData(
-    0xe0f0,
+    0xe0bd,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `japanese-acceptable-button`
   static const IconifyIconData japaneseAcceptableButton = IconifyIconData(IconData(
-    0xe0f1,
+    0xe0be,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `japanese-bargain-button`
   static const IconifyIconData japaneseBargainButton = IconifyIconData(IconData(
-    0xe0f2,
+    0xe0bf,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `japanese-discount-button`
   static const IconifyIconData japaneseDiscountButton = IconifyIconData(IconData(
-    0xe0f3,
+    0xe0c0,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `japanese-free-of-charge-button`
   static const IconifyIconData japaneseFreeOfChargeButton = IconifyIconData(IconData(
-    0xe0f4,
+    0xe0c1,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `japanese-here-button`
   static const IconifyIconData japaneseHereButton = IconifyIconData(IconData(
-    0xe0f5,
+    0xe0c2,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `japanese-monthly-amount-button`
   static const IconifyIconData japaneseMonthlyAmountButton = IconifyIconData(IconData(
-    0xe0f6,
+    0xe0c3,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `japanese-no-vacancy-button`
   static const IconifyIconData japaneseNoVacancyButton = IconifyIconData(IconData(
-    0xe0f7,
+    0xe0c4,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `japanese-not-free-of-charge-button`
   static const IconifyIconData japaneseNotFreeOfChargeButton = IconifyIconData(IconData(
-    0xe0f8,
+    0xe0c5,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `japanese-passing-grade-button`
   static const IconifyIconData japanesePassingGradeButton = IconifyIconData(IconData(
-    0xe0f9,
+    0xe0c6,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `japanese-post-office`
   static const IconifyIconData japanesePostOffice = IconifyIconData(IconData(
-    0xe0fa,
+    0xe0c7,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `japanese-prohibited-button`
   static const IconifyIconData japaneseProhibitedButton = IconifyIconData(IconData(
-    0xe0fb,
+    0xe0c8,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `japanese-reserved-button`
   static const IconifyIconData japaneseReservedButton = IconifyIconData(IconData(
-    0xe0fc,
+    0xe0c9,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `japanese-secret-button`
   static const IconifyIconData japaneseSecretButton = IconifyIconData(IconData(
-    0xe0fd,
+    0xe0ca,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `japanese-service-charge-button`
   static const IconifyIconData japaneseServiceChargeButton = IconifyIconData(IconData(
-    0xe0fe,
+    0xe0cb,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `japanese-vacancy-button`
   static const IconifyIconData japaneseVacancyButton = IconifyIconData(IconData(
-    0xe0ff,
+    0xe0cc,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `jeans`
   static const IconifyIconData jeans = IconifyIconData(IconData(
-    0xe100,
+    0xe0cd,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `joystick`
   static const IconifyIconData joystick = IconifyIconData(IconData(
-    0xe101,
+    0xe0ce,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `key`
   static const IconifyIconData key = IconifyIconData(IconData(
-    0xe102,
+    0xe0cf,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `kissing-face`
   static const IconifyIconData kissingFace = IconifyIconData(IconData(
-    0xe103,
+    0xe0d0,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `kissing-face-with-smiling-eyes`
   static const IconifyIconData kissingFaceWithSmilingEyes = IconifyIconData(IconData(
-    0xe104,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `laptop`
-  static const IconifyIconData laptop = IconifyIconData(IconData(
-    0xe105,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `laptop-computer`
-  static const IconifyIconData laptopComputer = IconifyIconData(IconData(
-    0xe106,
+    0xe0d1,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `large-blue-diamond`
   static const IconifyIconData largeBlueDiamond = IconifyIconData(IconData(
-    0xe107,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `last-quarter-moon`
-  static const IconifyIconData lastQuarterMoon = IconifyIconData(IconData(
-    0xe108,
+    0xe0d2,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `last-quarter-moon-face`
   static const IconifyIconData lastQuarterMoonFace = IconifyIconData(IconData(
-    0xe109,
+    0xe0d3,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `last-quarter-moon-with-face`
   static const IconifyIconData lastQuarterMoonWithFace = IconifyIconData(IconData(
-    0xe10a,
+    0xe0d4,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `last-track-button`
   static const IconifyIconData lastTrackButton = IconifyIconData(IconData(
-    0xe10b,
+    0xe0d5,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `left-arrow`
   static const IconifyIconData leftArrow = IconifyIconData(IconData(
-    0xe10c,
+    0xe0d6,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `left-arrow-curving-right`
   static const IconifyIconData leftArrowCurvingRight = IconifyIconData(IconData(
-    0xe10d,
+    0xe0d7,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `left-facing-fist`
   static const IconifyIconData leftFacingFist = IconifyIconData(IconData(
-    0xe10e,
+    0xe0d8,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `left-luggage`
   static const IconifyIconData leftLuggage = IconifyIconData(IconData(
-    0xe10f,
+    0xe0d9,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `left-right-arrow`
   static const IconifyIconData leftRightArrow = IconifyIconData(IconData(
-    0xe110,
+    0xe0da,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `left-speech-bubble`
   static const IconifyIconData leftSpeechBubble = IconifyIconData(IconData(
-    0xe111,
+    0xe0db,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `leo`
   static const IconifyIconData leo = IconifyIconData(IconData(
-    0xe112,
+    0xe0dc,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-a`
   static const IconifyIconData letterA = IconifyIconData(IconData(
-    0xe113,
+    0xe0dd,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-b`
   static const IconifyIconData letterB = IconifyIconData(IconData(
-    0xe114,
+    0xe0de,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-c`
   static const IconifyIconData letterC = IconifyIconData(IconData(
-    0xe115,
+    0xe0df,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-d`
   static const IconifyIconData letterD = IconifyIconData(IconData(
-    0xe116,
+    0xe0e0,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-e`
   static const IconifyIconData letterE = IconifyIconData(IconData(
-    0xe117,
+    0xe0e1,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-f`
   static const IconifyIconData letterF = IconifyIconData(IconData(
-    0xe118,
+    0xe0e2,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-g`
   static const IconifyIconData letterG = IconifyIconData(IconData(
-    0xe119,
+    0xe0e3,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-h`
   static const IconifyIconData letterH = IconifyIconData(IconData(
-    0xe11a,
+    0xe0e4,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-i`
   static const IconifyIconData letterI = IconifyIconData(IconData(
-    0xe11b,
+    0xe0e5,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-j`
   static const IconifyIconData letterJ = IconifyIconData(IconData(
-    0xe11c,
+    0xe0e6,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-k`
   static const IconifyIconData letterK = IconifyIconData(IconData(
-    0xe11d,
+    0xe0e7,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-l`
   static const IconifyIconData letterL = IconifyIconData(IconData(
-    0xe11e,
+    0xe0e8,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-m`
   static const IconifyIconData letterM = IconifyIconData(IconData(
-    0xe11f,
+    0xe0e9,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-n`
   static const IconifyIconData letterN = IconifyIconData(IconData(
-    0xe120,
+    0xe0ea,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-o`
   static const IconifyIconData letterO = IconifyIconData(IconData(
-    0xe121,
+    0xe0eb,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-p`
   static const IconifyIconData letterP = IconifyIconData(IconData(
-    0xe122,
+    0xe0ec,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-q`
   static const IconifyIconData letterQ = IconifyIconData(IconData(
-    0xe123,
+    0xe0ed,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-r`
   static const IconifyIconData letterR = IconifyIconData(IconData(
-    0xe124,
+    0xe0ee,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-s`
   static const IconifyIconData letterS = IconifyIconData(IconData(
-    0xe125,
+    0xe0ef,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-t`
   static const IconifyIconData letterT = IconifyIconData(IconData(
-    0xe126,
+    0xe0f0,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-u`
   static const IconifyIconData letterU = IconifyIconData(IconData(
-    0xe127,
+    0xe0f1,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-v`
   static const IconifyIconData letterV = IconifyIconData(IconData(
-    0xe128,
+    0xe0f2,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-w`
   static const IconifyIconData letterW = IconifyIconData(IconData(
-    0xe129,
+    0xe0f3,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-x`
   static const IconifyIconData letterX = IconifyIconData(IconData(
-    0xe12a,
+    0xe0f4,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-y`
   static const IconifyIconData letterY = IconifyIconData(IconData(
-    0xe12b,
+    0xe0f5,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `letter-z`
   static const IconifyIconData letterZ = IconifyIconData(IconData(
-    0xe12c,
+    0xe0f6,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `libra`
   static const IconifyIconData libra = IconifyIconData(IconData(
-    0xe12d,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `light-bulb`
-  static const IconifyIconData lightBulb = IconifyIconData(IconData(
-    0xe12e,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `light-rail`
-  static const IconifyIconData lightRail = IconifyIconData(IconData(
-    0xe12f,
+    0xe0f7,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `light-skin-tone`
   static const IconifyIconData lightSkinTone = IconifyIconData(IconData(
-    0xe130,
+    0xe0f8,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `link`
   static const IconifyIconData link = IconifyIconData(IconData(
-    0xe131,
+    0xe0f9,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `locked`
   static const IconifyIconData locked = IconifyIconData(IconData(
-    0xe132,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `locked-with-key`
-  static const IconifyIconData lockedWithKey = IconifyIconData(IconData(
-    0xe133,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `locked-with-pen`
-  static const IconifyIconData lockedWithPen = IconifyIconData(IconData(
-    0xe134,
+    0xe0fa,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `locomotive`
   static const IconifyIconData locomotive = IconifyIconData(IconData(
-    0xe135,
+    0xe0fb,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `loudly-crying-face`
   static const IconifyIconData loudlyCryingFace = IconifyIconData(IconData(
-    0xe136,
+    0xe0fc,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `loudspeaker`
   static const IconifyIconData loudspeaker = IconifyIconData(IconData(
-    0xe137,
+    0xe0fd,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
-  /// `lying-face`
-  static const IconifyIconData lyingFace = IconifyIconData(IconData(
-    0xe138,
+  /// `mahjong-red-dragon`
+  static const IconifyIconData mahjongRedDragon = IconifyIconData(IconData(
+    0xe0fe,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `male-sign`
   static const IconifyIconData maleSign = IconifyIconData(IconData(
-    0xe139,
+    0xe0ff,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `medium-light-skin-tone`
   static const IconifyIconData mediumLightSkinTone = IconifyIconData(IconData(
-    0xe13a,
+    0xe100,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `medium-skin-tone`
   static const IconifyIconData mediumSkinTone = IconifyIconData(IconData(
-    0xe13b,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `melon`
-  static const IconifyIconData melon = IconifyIconData(IconData(
-    0xe13c,
+    0xe101,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `mens-room`
   static const IconifyIconData mensRoom = IconifyIconData(IconData(
-    0xe13d,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `metro`
-  static const IconifyIconData metro = IconifyIconData(IconData(
-    0xe13e,
+    0xe102,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `middle-finger`
   static const IconifyIconData middleFinger = IconifyIconData(IconData(
-    0xe13f,
+    0xe103,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `milky-way`
   static const IconifyIconData milkyWay = IconifyIconData(IconData(
-    0xe140,
+    0xe104,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `minibus`
   static const IconifyIconData minibus = IconifyIconData(IconData(
-    0xe141,
+    0xe105,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `minus`
   static const IconifyIconData minus = IconifyIconData(IconData(
-    0xe142,
+    0xe106,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `minus-sign`
   static const IconifyIconData minusSign = IconifyIconData(IconData(
-    0xe143,
+    0xe107,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `moai`
   static const IconifyIconData moai = IconifyIconData(IconData(
-    0xe144,
+    0xe108,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `mobile-phone-off`
   static const IconifyIconData mobilePhoneOff = IconifyIconData(IconData(
-    0xe145,
+    0xe109,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `money-mouth-face`
   static const IconifyIconData moneyMouthFace = IconifyIconData(IconData(
-    0xe146,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `monorail`
-  static const IconifyIconData monorail = IconifyIconData(IconData(
-    0xe147,
+    0xe10a,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `motorcycle`
   static const IconifyIconData motorcycle = IconifyIconData(IconData(
-    0xe148,
+    0xe10b,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `mount-fuji`
   static const IconifyIconData mountFuji = IconifyIconData(IconData(
-    0xe149,
+    0xe10c,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `mountain`
   static const IconifyIconData mountain = IconifyIconData(IconData(
-    0xe14a,
+    0xe10d,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `mountain-cableway`
   static const IconifyIconData mountainCableway = IconifyIconData(IconData(
-    0xe14b,
+    0xe10e,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `mouse`
   static const IconifyIconData mouse = IconifyIconData(IconData(
-    0xe14c,
+    0xe10f,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `mouse-face`
   static const IconifyIconData mouseFace = IconifyIconData(IconData(
-    0xe14d,
+    0xe110,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `musical-note`
   static const IconifyIconData musicalNote = IconifyIconData(IconData(
-    0xe14e,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `musical-score`
-  static const IconifyIconData musicalScore = IconifyIconData(IconData(
-    0xe14f,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `name-badge`
-  static const IconifyIconData nameBadge = IconifyIconData(IconData(
-    0xe150,
+    0xe111,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `nauseated-face`
   static const IconifyIconData nauseatedFace = IconifyIconData(IconData(
-    0xe151,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `nerd-face`
-  static const IconifyIconData nerdFace = IconifyIconData(IconData(
-    0xe152,
+    0xe112,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `neutral-face`
   static const IconifyIconData neutralFace = IconifyIconData(IconData(
-    0xe153,
+    0xe113,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `new-button`
   static const IconifyIconData newButton = IconifyIconData(IconData(
-    0xe154,
+    0xe114,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `new-moon`
   static const IconifyIconData newMoon = IconifyIconData(IconData(
-    0xe155,
+    0xe115,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `new-moon-face`
   static const IconifyIconData newMoonFace = IconifyIconData(IconData(
-    0xe156,
+    0xe116,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `next-track-button`
   static const IconifyIconData nextTrackButton = IconifyIconData(IconData(
-    0xe157,
+    0xe117,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `ng-button`
   static const IconifyIconData ngButton = IconifyIconData(IconData(
-    0xe158,
+    0xe118,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `night-with-stars`
   static const IconifyIconData nightWithStars = IconifyIconData(IconData(
-    0xe159,
+    0xe119,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `nine-oclock`
   static const IconifyIconData nineOclock = IconifyIconData(IconData(
-    0xe15a,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `nine-thirty`
-  static const IconifyIconData nineThirty = IconifyIconData(IconData(
-    0xe15b,
+    0xe11a,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `no-entry`
   static const IconifyIconData noEntry = IconifyIconData(IconData(
-    0xe15c,
+    0xe11b,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `nose`
   static const IconifyIconData nose = IconifyIconData(IconData(
-    0xe15d,
+    0xe11c,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `notebook`
   static const IconifyIconData notebook = IconifyIconData(IconData(
-    0xe15e,
+    0xe11d,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `nut-and-bolt`
   static const IconifyIconData nutAndBolt = IconifyIconData(IconData(
-    0xe15f,
+    0xe11e,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `office-building`
   static const IconifyIconData officeBuilding = IconifyIconData(IconData(
-    0xe160,
+    0xe11f,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `ogre`
   static const IconifyIconData ogre = IconifyIconData(IconData(
-    0xe161,
+    0xe120,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `oil-drum`
   static const IconifyIconData oilDrum = IconifyIconData(IconData(
-    0xe162,
+    0xe121,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `ok-button`
   static const IconifyIconData okButton = IconifyIconData(IconData(
-    0xe163,
+    0xe122,
+    fontFamily: 'NotoV1',
+    fontPackage: 'iconifyx_noto_v1',
+  ));
+
+  /// `ok-hand`
+  static const IconifyIconData okHand = IconifyIconData(IconData(
+    0xe123,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `on-arrow`
   static const IconifyIconData onArrow = IconifyIconData(IconData(
-    0xe164,
+    0xe124,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `on-exclamation-arrow`
   static const IconifyIconData onExclamationArrow = IconifyIconData(IconData(
-    0xe165,
+    0xe125,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `oncoming-automobile`
   static const IconifyIconData oncomingAutomobile = IconifyIconData(IconData(
-    0xe166,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `oncoming-bus`
-  static const IconifyIconData oncomingBus = IconifyIconData(IconData(
-    0xe167,
+    0xe126,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `oncoming-fist`
   static const IconifyIconData oncomingFist = IconifyIconData(IconData(
-    0xe168,
+    0xe127,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `oncoming-police-car`
   static const IconifyIconData oncomingPoliceCar = IconifyIconData(IconData(
-    0xe169,
+    0xe128,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `oncoming-taxi`
   static const IconifyIconData oncomingTaxi = IconifyIconData(IconData(
-    0xe16a,
+    0xe129,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `one-oclock`
   static const IconifyIconData oneOclock = IconifyIconData(IconData(
-    0xe16b,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `one-thirty`
-  static const IconifyIconData oneThirty = IconifyIconData(IconData(
-    0xe16c,
+    0xe12a,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `open-book`
   static const IconifyIconData openBook = IconifyIconData(IconData(
-    0xe16d,
+    0xe12b,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `open-file-folder`
   static const IconifyIconData openFileFolder = IconifyIconData(IconData(
-    0xe16e,
+    0xe12c,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `open-hands`
   static const IconifyIconData openHands = IconifyIconData(IconData(
-    0xe16f,
+    0xe12d,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `ophiuchus`
   static const IconifyIconData ophiuchus = IconifyIconData(IconData(
-    0xe170,
+    0xe12e,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `optical-disk`
   static const IconifyIconData opticalDisk = IconifyIconData(IconData(
-    0xe171,
+    0xe12f,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `orange-book`
   static const IconifyIconData orangeBook = IconifyIconData(IconData(
-    0xe172,
+    0xe130,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `p-button`
   static const IconifyIconData pButton = IconifyIconData(IconData(
-    0xe173,
+    0xe131,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `pager`
   static const IconifyIconData pager = IconifyIconData(IconData(
-    0xe174,
+    0xe132,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `panda`
   static const IconifyIconData panda = IconifyIconData(IconData(
-    0xe175,
+    0xe133,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `panda-face`
   static const IconifyIconData pandaFace = IconifyIconData(IconData(
-    0xe176,
+    0xe134,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `paperclip`
   static const IconifyIconData paperclip = IconifyIconData(IconData(
-    0xe177,
+    0xe135,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `part-alternation-mark`
   static const IconifyIconData partAlternationMark = IconifyIconData(IconData(
-    0xe178,
+    0xe136,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `passenger-ship`
   static const IconifyIconData passengerShip = IconifyIconData(IconData(
-    0xe179,
+    0xe137,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `passport-control`
   static const IconifyIconData passportControl = IconifyIconData(IconData(
-    0xe17a,
+    0xe138,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `pause-button`
   static const IconifyIconData pauseButton = IconifyIconData(IconData(
-    0xe17b,
+    0xe139,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `paw-prints`
   static const IconifyIconData pawPrints = IconifyIconData(IconData(
-    0xe17c,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `penguin`
-  static const IconifyIconData penguin = IconifyIconData(IconData(
-    0xe17d,
+    0xe13a,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `pensive-face`
   static const IconifyIconData pensiveFace = IconifyIconData(IconData(
-    0xe17e,
+    0xe13b,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `person-taking-bath`
   static const IconifyIconData personTakingBath = IconifyIconData(IconData(
-    0xe17f,
+    0xe13c,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `person-taking-bath-light-skin-tone`
   static const IconifyIconData personTakingBathLightSkinTone = IconifyIconData(IconData(
-    0xe180,
+    0xe13d,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `person-taking-bath-medium-light-skin-tone`
   static const IconifyIconData personTakingBathMediumLightSkinTone = IconifyIconData(IconData(
-    0xe181,
+    0xe13e,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `pill`
   static const IconifyIconData pill = IconifyIconData(IconData(
-    0xe182,
+    0xe13f,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `pisces`
   static const IconifyIconData pisces = IconifyIconData(IconData(
-    0xe183,
+    0xe140,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `play-button`
   static const IconifyIconData playButton = IconifyIconData(IconData(
-    0xe184,
+    0xe141,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `play-or-pause-button`
   static const IconifyIconData playOrPauseButton = IconifyIconData(IconData(
-    0xe185,
+    0xe142,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `plus`
   static const IconifyIconData plus = IconifyIconData(IconData(
-    0xe186,
+    0xe143,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `plus-sign`
   static const IconifyIconData plusSign = IconifyIconData(IconData(
-    0xe187,
+    0xe144,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `police-car`
   static const IconifyIconData policeCar = IconifyIconData(IconData(
-    0xe188,
+    0xe145,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `postal-horn`
   static const IconifyIconData postalHorn = IconifyIconData(IconData(
-    0xe189,
+    0xe146,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `potable-water`
   static const IconifyIconData potableWater = IconifyIconData(IconData(
-    0xe18a,
+    0xe147,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `pound-symbol`
   static const IconifyIconData poundSymbol = IconifyIconData(IconData(
-    0xe18b,
+    0xe148,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
-  /// `pushpin`
-  static const IconifyIconData pushpin = IconifyIconData(IconData(
-    0xe18c,
+  /// `question-mark`
+  static const IconifyIconData questionMark = IconifyIconData(IconData(
+    0xe149,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `rabbit`
   static const IconifyIconData rabbit = IconifyIconData(IconData(
-    0xe18d,
+    0xe14a,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `rabbit-face`
   static const IconifyIconData rabbitFace = IconifyIconData(IconData(
-    0xe18e,
+    0xe14b,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `racing-car`
   static const IconifyIconData racingCar = IconifyIconData(IconData(
-    0xe18f,
+    0xe14c,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `radioactive`
   static const IconifyIconData radioactive = IconifyIconData(IconData(
-    0xe190,
+    0xe14d,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `raised-back-of-hand` — primary layer (full opacity)
   static const IconifyIconData raisedBackOfHandPrimary = IconifyIconData(IconData(
-    0xe191,
+    0xe14e,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `raised-back-of-hand` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData raisedBackOfHandSecondary = IconifyIconData(IconData(
-    0xe191,
+    0xe14e,
     fontFamily: 'NotoV1Secondary',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `raised-back-of-hand-light-skin-tone` — primary layer (full opacity)
   static const IconifyIconData raisedBackOfHandLightSkinTonePrimary = IconifyIconData(IconData(
-    0xe192,
+    0xe14f,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `raised-back-of-hand-light-skin-tone` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData raisedBackOfHandLightSkinToneSecondary = IconifyIconData(IconData(
-    0xe192,
+    0xe14f,
     fontFamily: 'NotoV1Secondary',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `raised-back-of-hand-medium-light-skin-tone` — primary layer (full opacity)
   static const IconifyIconData raisedBackOfHandMediumLightSkinTonePrimary = IconifyIconData(IconData(
-    0xe193,
+    0xe150,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `raised-back-of-hand-medium-light-skin-tone` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData raisedBackOfHandMediumLightSkinToneSecondary = IconifyIconData(IconData(
-    0xe193,
+    0xe150,
     fontFamily: 'NotoV1Secondary',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `raised-back-of-hand-medium-skin-tone` — primary layer (full opacity)
   static const IconifyIconData raisedBackOfHandMediumSkinTonePrimary = IconifyIconData(IconData(
-    0xe194,
+    0xe151,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `raised-back-of-hand-medium-skin-tone` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData raisedBackOfHandMediumSkinToneSecondary = IconifyIconData(IconData(
-    0xe194,
+    0xe151,
     fontFamily: 'NotoV1Secondary',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `raised-fist`
   static const IconifyIconData raisedFist = IconifyIconData(IconData(
-    0xe195,
+    0xe152,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `raised-hand`
   static const IconifyIconData raisedHand = IconifyIconData(IconData(
-    0xe196,
+    0xe153,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `raised-hand-with-fingers-splayed`
   static const IconifyIconData raisedHandWithFingersSplayed = IconifyIconData(IconData(
-    0xe197,
+    0xe154,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `rat`
   static const IconifyIconData rat = IconifyIconData(IconData(
-    0xe198,
+    0xe155,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `record-button`
   static const IconifyIconData recordButton = IconifyIconData(IconData(
-    0xe199,
+    0xe156,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `red-paper-lantern`
   static const IconifyIconData redPaperLantern = IconifyIconData(IconData(
-    0xe19a,
+    0xe157,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `registered`
   static const IconifyIconData registered = IconifyIconData(IconData(
-    0xe19b,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `relieved-face`
-  static const IconifyIconData relievedFace = IconifyIconData(IconData(
-    0xe19c,
+    0xe158,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `reminder-ribbon`
   static const IconifyIconData reminderRibbon = IconifyIconData(IconData(
-    0xe19d,
+    0xe159,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `repeat-button`
   static const IconifyIconData repeatButton = IconifyIconData(IconData(
-    0xe19e,
+    0xe15a,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `repeat-single-button`
   static const IconifyIconData repeatSingleButton = IconifyIconData(IconData(
-    0xe19f,
+    0xe15b,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `restroom`
   static const IconifyIconData restroom = IconifyIconData(IconData(
-    0xe1a0,
+    0xe15c,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `reverse-button`
   static const IconifyIconData reverseButton = IconifyIconData(IconData(
-    0xe1a1,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `ribbon`
-  static const IconifyIconData ribbon = IconifyIconData(IconData(
-    0xe1a2,
+    0xe15d,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `right-anger-bubble`
   static const IconifyIconData rightAngerBubble = IconifyIconData(IconData(
-    0xe1a3,
+    0xe15e,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `right-arrow`
   static const IconifyIconData rightArrow = IconifyIconData(IconData(
-    0xe1a4,
+    0xe15f,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `right-arrow-curving-down`
   static const IconifyIconData rightArrowCurvingDown = IconifyIconData(IconData(
-    0xe1a5,
+    0xe160,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `right-arrow-curving-left`
   static const IconifyIconData rightArrowCurvingLeft = IconifyIconData(IconData(
-    0xe1a6,
+    0xe161,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `right-arrow-curving-up`
   static const IconifyIconData rightArrowCurvingUp = IconifyIconData(IconData(
-    0xe1a7,
+    0xe162,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `right-facing-fist`
   static const IconifyIconData rightFacingFist = IconifyIconData(IconData(
-    0xe1a8,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `roller-coaster`
-  static const IconifyIconData rollerCoaster = IconifyIconData(IconData(
-    0xe1a9,
+    0xe163,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `rolling-on-the-floor-laughing`
   static const IconifyIconData rollingOnTheFloorLaughing = IconifyIconData(IconData(
-    0xe1aa,
+    0xe164,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `rooster`
   static const IconifyIconData rooster = IconifyIconData(IconData(
-    0xe1ab,
+    0xe165,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `rosette`
   static const IconifyIconData rosette = IconifyIconData(IconData(
-    0xe1ac,
+    0xe166,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `round-pushpin`
   static const IconifyIconData roundPushpin = IconifyIconData(IconData(
-    0xe1ad,
+    0xe167,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `sad-but-relieved-face`
   static const IconifyIconData sadButRelievedFace = IconifyIconData(IconData(
-    0xe1ae,
+    0xe168,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `sagittarius`
   static const IconifyIconData sagittarius = IconifyIconData(IconData(
-    0xe1af,
+    0xe169,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `sailboat`
   static const IconifyIconData sailboat = IconifyIconData(IconData(
-    0xe1b0,
+    0xe16a,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
-  /// `sake`
-  static const IconifyIconData sake = IconifyIconData(IconData(
-    0xe1b1,
+  /// `school-backpack`
+  static const IconifyIconData schoolBackpack = IconifyIconData(IconData(
+    0xe16b,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `scorpio`
   static const IconifyIconData scorpio = IconifyIconData(IconData(
-    0xe1b2,
+    0xe16c,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `scorpius`
   static const IconifyIconData scorpius = IconifyIconData(IconData(
-    0xe1b3,
+    0xe16d,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `seven-oclock`
   static const IconifyIconData sevenOclock = IconifyIconData(IconData(
-    0xe1b4,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `seven-thirty`
-  static const IconifyIconData sevenThirty = IconifyIconData(IconData(
-    0xe1b5,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `shield`
-  static const IconifyIconData shield = IconifyIconData(IconData(
-    0xe1b6,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `ship`
-  static const IconifyIconData ship = IconifyIconData(IconData(
-    0xe1b7,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `shortcake`
-  static const IconifyIconData shortcake = IconifyIconData(IconData(
-    0xe1b8,
+    0xe16e,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `shuffle-tracks-button`
   static const IconifyIconData shuffleTracksButton = IconifyIconData(IconData(
-    0xe1b9,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `sign-of-the-horns`
-  static const IconifyIconData signOfTheHorns = IconifyIconData(IconData(
-    0xe1ba,
+    0xe16f,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `six-oclock`
   static const IconifyIconData sixOclock = IconifyIconData(IconData(
-    0xe1bb,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `six-thirty`
-  static const IconifyIconData sixThirty = IconifyIconData(IconData(
-    0xe1bc,
+    0xe170,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `skull`
   static const IconifyIconData skull = IconifyIconData(IconData(
-    0xe1bd,
+    0xe171,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `sleepy-face`
   static const IconifyIconData sleepyFace = IconifyIconData(IconData(
-    0xe1be,
+    0xe172,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `slightly-frowning-face`
   static const IconifyIconData slightlyFrowningFace = IconifyIconData(IconData(
-    0xe1bf,
+    0xe173,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `slightly-smiling-face`
   static const IconifyIconData slightlySmilingFace = IconifyIconData(IconData(
-    0xe1c0,
+    0xe174,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `slot-machine`
   static const IconifyIconData slotMachine = IconifyIconData(IconData(
-    0xe1c1,
+    0xe175,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `small-blue-diamond`
   static const IconifyIconData smallBlueDiamond = IconifyIconData(IconData(
-    0xe1c2,
+    0xe176,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `smiling-face`
   static const IconifyIconData smilingFace = IconifyIconData(IconData(
-    0xe1c3,
+    0xe177,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `smiling-face-with-halo`
   static const IconifyIconData smilingFaceWithHalo = IconifyIconData(IconData(
-    0xe1c4,
+    0xe178,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `smiling-face-with-open-mouth`
   static const IconifyIconData smilingFaceWithOpenMouth = IconifyIconData(IconData(
-    0xe1c5,
+    0xe179,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `smiling-face-with-open-mouth-and-cold-sweat`
   static const IconifyIconData smilingFaceWithOpenMouthAndColdSweat = IconifyIconData(IconData(
-    0xe1c6,
+    0xe17a,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `smiling-face-with-sunglasses`
   static const IconifyIconData smilingFaceWithSunglasses = IconifyIconData(IconData(
-    0xe1c7,
+    0xe17b,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `smirking-face`
   static const IconifyIconData smirkingFace = IconifyIconData(IconData(
-    0xe1c8,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `snake`
-  static const IconifyIconData snake = IconifyIconData(IconData(
-    0xe1c9,
+    0xe17c,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `snowflake`
   static const IconifyIconData snowflake = IconifyIconData(IconData(
-    0xe1ca,
+    0xe17d,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `snowman`
   static const IconifyIconData snowman = IconifyIconData(IconData(
-    0xe1cb,
+    0xe17e,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `snowman-without-snow`
   static const IconifyIconData snowmanWithoutSnow = IconifyIconData(IconData(
-    0xe1cc,
+    0xe17f,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `soccer-ball`
   static const IconifyIconData soccerBall = IconifyIconData(IconData(
-    0xe1cd,
+    0xe180,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `soon-arrow`
   static const IconifyIconData soonArrow = IconifyIconData(IconData(
-    0xe1ce,
+    0xe181,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `spade-suit`
   static const IconifyIconData spadeSuit = IconifyIconData(IconData(
-    0xe1cf,
+    0xe182,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `speaker-high-volume`
   static const IconifyIconData speakerHighVolume = IconifyIconData(IconData(
-    0xe1d0,
+    0xe183,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `speaker-low-volume`
   static const IconifyIconData speakerLowVolume = IconifyIconData(IconData(
-    0xe1d1,
+    0xe184,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `speaker-medium-volume`
   static const IconifyIconData speakerMediumVolume = IconifyIconData(IconData(
-    0xe1d2,
+    0xe185,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `speech-balloon`
   static const IconifyIconData speechBalloon = IconifyIconData(IconData(
-    0xe1d3,
+    0xe186,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
-  /// `speedboat`
-  static const IconifyIconData speedboat = IconifyIconData(IconData(
-    0xe1d4,
+  /// `spider`
+  static const IconifyIconData spider = IconifyIconData(IconData(
+    0xe187,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `spider-web`
   static const IconifyIconData spiderWeb = IconifyIconData(IconData(
-    0xe1d5,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `spiral-shell`
-  static const IconifyIconData spiralShell = IconifyIconData(IconData(
-    0xe1d6,
+    0xe188,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `spoon`
   static const IconifyIconData spoon = IconifyIconData(IconData(
-    0xe1d7,
+    0xe189,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `spouting-whale`
   static const IconifyIconData spoutingWhale = IconifyIconData(IconData(
-    0xe1d8,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `squid`
-  static const IconifyIconData squid = IconifyIconData(IconData(
-    0xe1d9,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `station`
-  static const IconifyIconData station = IconifyIconData(IconData(
-    0xe1da,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `statue-of-liberty`
-  static const IconifyIconData statueOfLiberty = IconifyIconData(IconData(
-    0xe1db,
+    0xe18a,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `stop-button`
   static const IconifyIconData stopButton = IconifyIconData(IconData(
-    0xe1dc,
+    0xe18b,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `straight-ruler`
   static const IconifyIconData straightRuler = IconifyIconData(IconData(
-    0xe1dd,
+    0xe18c,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `sun`
   static const IconifyIconData sun = IconifyIconData(IconData(
-    0xe1de,
+    0xe18d,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `sun-behind-cloud`
   static const IconifyIconData sunBehindCloud = IconifyIconData(IconData(
-    0xe1df,
+    0xe18e,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `sun-behind-large-cloud`
   static const IconifyIconData sunBehindLargeCloud = IconifyIconData(IconData(
-    0xe1e0,
+    0xe18f,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `sun-behind-rain-cloud`
   static const IconifyIconData sunBehindRainCloud = IconifyIconData(IconData(
-    0xe1e1,
+    0xe190,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `sun-behind-small-cloud`
   static const IconifyIconData sunBehindSmallCloud = IconifyIconData(IconData(
-    0xe1e2,
+    0xe191,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `sun-with-face`
   static const IconifyIconData sunWithFace = IconifyIconData(IconData(
-    0xe1e3,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `sunrise`
-  static const IconifyIconData sunrise = IconifyIconData(IconData(
-    0xe1e4,
+    0xe192,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `sweat-droplets`
   static const IconifyIconData sweatDroplets = IconifyIconData(IconData(
-    0xe1e5,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `syringe`
-  static const IconifyIconData syringe = IconifyIconData(IconData(
-    0xe1e6,
+    0xe193,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `taurus`
   static const IconifyIconData taurus = IconifyIconData(IconData(
-    0xe1e7,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `telephone`
-  static const IconifyIconData telephone = IconifyIconData(IconData(
-    0xe1e8,
+    0xe194,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `telephone-receiver`
   static const IconifyIconData telephoneReceiver = IconifyIconData(IconData(
-    0xe1e9,
+    0xe195,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `telescope`
   static const IconifyIconData telescope = IconifyIconData(IconData(
-    0xe1ea,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `television`
-  static const IconifyIconData television = IconifyIconData(IconData(
-    0xe1eb,
+    0xe196,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `ten-oclock`
   static const IconifyIconData tenOclock = IconifyIconData(IconData(
-    0xe1ec,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `ten-thirty`
-  static const IconifyIconData tenThirty = IconifyIconData(IconData(
-    0xe1ed,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `tennis`
-  static const IconifyIconData tennis = IconifyIconData(IconData(
-    0xe1ee,
+    0xe197,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `thermometer`
   static const IconifyIconData thermometer = IconifyIconData(IconData(
-    0xe1ef,
+    0xe198,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `thinking-face`
   static const IconifyIconData thinkingFace = IconifyIconData(IconData(
-    0xe1f0,
+    0xe199,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `thought-balloon`
   static const IconifyIconData thoughtBalloon = IconifyIconData(IconData(
-    0xe1f1,
+    0xe19a,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `three-oclock`
   static const IconifyIconData threeOclock = IconifyIconData(IconData(
-    0xe1f2,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `three-thirty`
-  static const IconifyIconData threeThirty = IconifyIconData(IconData(
-    0xe1f3,
+    0xe19b,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `thumbs-down`
   static const IconifyIconData thumbsDown = IconifyIconData(IconData(
-    0xe1f4,
+    0xe19c,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `thumbs-up`
   static const IconifyIconData thumbsUp = IconifyIconData(IconData(
-    0xe1f5,
+    0xe19d,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `ticket`
   static const IconifyIconData ticket = IconifyIconData(IconData(
-    0xe1f6,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `tiger`
-  static const IconifyIconData tiger = IconifyIconData(IconData(
-    0xe1f7,
+    0xe19e,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `tiger-face`
   static const IconifyIconData tigerFace = IconifyIconData(IconData(
-    0xe1f8,
+    0xe19f,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `tired-face`
   static const IconifyIconData tiredFace = IconifyIconData(IconData(
-    0xe1f9,
+    0xe1a0,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
-  /// `toilet`
-  static const IconifyIconData toilet = IconifyIconData(IconData(
-    0xe1fa,
+  /// `tokyo-tower`
+  static const IconifyIconData tokyoTower = IconifyIconData(IconData(
+    0xe1a1,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `top-arrow`
   static const IconifyIconData topArrow = IconifyIconData(IconData(
-    0xe1fb,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `tornado`
-  static const IconifyIconData tornado = IconifyIconData(IconData(
-    0xe1fc,
+    0xe1a2,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `trackball`
   static const IconifyIconData trackball = IconifyIconData(IconData(
-    0xe1fd,
+    0xe1a3,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `tractor`
   static const IconifyIconData tractor = IconifyIconData(IconData(
-    0xe1fe,
+    0xe1a4,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `trade-mark`
   static const IconifyIconData tradeMark = IconifyIconData(IconData(
-    0xe1ff,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `train`
-  static const IconifyIconData train = IconifyIconData(IconData(
-    0xe200,
+    0xe1a5,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `triangular-flag`
   static const IconifyIconData triangularFlag = IconifyIconData(IconData(
-    0xe201,
+    0xe1a6,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `triangular-ruler`
   static const IconifyIconData triangularRuler = IconifyIconData(IconData(
-    0xe202,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `trolleybus`
-  static const IconifyIconData trolleybus = IconifyIconData(IconData(
-    0xe203,
+    0xe1a7,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `twelve-oclock`
   static const IconifyIconData twelveOclock = IconifyIconData(IconData(
-    0xe204,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `twelve-thirty`
-  static const IconifyIconData twelveThirty = IconifyIconData(IconData(
-    0xe205,
+    0xe1a8,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `two-oclock`
   static const IconifyIconData twoOclock = IconifyIconData(IconData(
-    0xe206,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `two-thirty`
-  static const IconifyIconData twoThirty = IconifyIconData(IconData(
-    0xe207,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `umbrella`
-  static const IconifyIconData umbrella = IconifyIconData(IconData(
-    0xe208,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `umbrella-with-rain-drops`
-  static const IconifyIconData umbrellaWithRainDrops = IconifyIconData(IconData(
-    0xe209,
+    0xe1a9,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `unamused-face`
   static const IconifyIconData unamusedFace = IconifyIconData(IconData(
-    0xe20a,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `unknown-flag`
-  static const IconifyIconData unknownFlag = IconifyIconData(IconData(
-    0xe20b,
+    0xe1aa,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `unlocked`
   static const IconifyIconData unlocked = IconifyIconData(IconData(
-    0xe20c,
+    0xe1ab,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `up-arrow`
   static const IconifyIconData upArrow = IconifyIconData(IconData(
-    0xe20d,
+    0xe1ac,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `up-down-arrow`
   static const IconifyIconData upDownArrow = IconifyIconData(IconData(
-    0xe20e,
+    0xe1ad,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `up-exclamation-button`
   static const IconifyIconData upExclamationButton = IconifyIconData(IconData(
-    0xe20f,
+    0xe1ae,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `up-left-arrow`
   static const IconifyIconData upLeftArrow = IconifyIconData(IconData(
-    0xe210,
+    0xe1af,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `up-right-arrow`
   static const IconifyIconData upRightArrow = IconifyIconData(IconData(
-    0xe211,
+    0xe1b0,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `up-text-button`
   static const IconifyIconData upTextButton = IconifyIconData(IconData(
-    0xe212,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `upside-down-face`
-  static const IconifyIconData upsideDownFace = IconifyIconData(IconData(
-    0xe213,
+    0xe1b1,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `video-camera`
   static const IconifyIconData videoCamera = IconifyIconData(IconData(
-    0xe214,
+    0xe1b2,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `videocassette`
   static const IconifyIconData videocassette = IconifyIconData(IconData(
-    0xe215,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `violin`
-  static const IconifyIconData violin = IconifyIconData(IconData(
-    0xe216,
+    0xe1b3,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `virgo`
   static const IconifyIconData virgo = IconifyIconData(IconData(
-    0xe217,
+    0xe1b4,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `volleyball`
   static const IconifyIconData volleyball = IconifyIconData(IconData(
-    0xe218,
+    0xe1b5,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `vs-button`
   static const IconifyIconData vsButton = IconifyIconData(IconData(
-    0xe219,
+    0xe1b6,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `vulcan-salute`
   static const IconifyIconData vulcanSalute = IconifyIconData(IconData(
-    0xe21a,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `waning-crescent-moon`
-  static const IconifyIconData waningCrescentMoon = IconifyIconData(IconData(
-    0xe21b,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `waning-gibbous-moon`
-  static const IconifyIconData waningGibbousMoon = IconifyIconData(IconData(
-    0xe21c,
+    0xe1b7,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `warning`
   static const IconifyIconData warning = IconifyIconData(IconData(
-    0xe21d,
+    0xe1b8,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `wastebasket`
   static const IconifyIconData wastebasket = IconifyIconData(IconData(
-    0xe21e,
+    0xe1b9,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `water-buffalo`
   static const IconifyIconData waterBuffalo = IconifyIconData(IconData(
-    0xe21f,
+    0xe1ba,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `water-closet`
   static const IconifyIconData waterCloset = IconifyIconData(IconData(
-    0xe220,
+    0xe1bb,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `water-wave`
   static const IconifyIconData waterWave = IconifyIconData(IconData(
-    0xe221,
+    0xe1bc,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `wavy-dash`
   static const IconifyIconData wavyDash = IconifyIconData(IconData(
-    0xe222,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `waxing-crescent-moon`
-  static const IconifyIconData waxingCrescentMoon = IconifyIconData(IconData(
-    0xe223,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `waxing-gibbous-moon`
-  static const IconifyIconData waxingGibbousMoon = IconifyIconData(IconData(
-    0xe224,
+    0xe1bd,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `weary-face`
   static const IconifyIconData wearyFace = IconifyIconData(IconData(
-    0xe225,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `whale`
-  static const IconifyIconData whale = IconifyIconData(IconData(
-    0xe226,
+    0xe1be,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `wheelchair-symbol`
   static const IconifyIconData wheelchairSymbol = IconifyIconData(IconData(
-    0xe227,
+    0xe1bf,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `white-circle`
   static const IconifyIconData whiteCircle = IconifyIconData(IconData(
-    0xe228,
+    0xe1c0,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `white-exclamation-mark`
   static const IconifyIconData whiteExclamationMark = IconifyIconData(IconData(
-    0xe229,
+    0xe1c1,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `white-flag`
   static const IconifyIconData whiteFlag = IconifyIconData(IconData(
-    0xe22a,
+    0xe1c2,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `white-large-square`
   static const IconifyIconData whiteLargeSquare = IconifyIconData(IconData(
-    0xe22b,
+    0xe1c3,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `white-medium-small-square`
   static const IconifyIconData whiteMediumSmallSquare = IconifyIconData(IconData(
-    0xe22c,
+    0xe1c4,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `white-medium-square`
   static const IconifyIconData whiteMediumSquare = IconifyIconData(IconData(
-    0xe22d,
+    0xe1c5,
+    fontFamily: 'NotoV1',
+    fontPackage: 'iconifyx_noto_v1',
+  ));
+
+  /// `white-question-mark`
+  static const IconifyIconData whiteQuestionMark = IconifyIconData(IconData(
+    0xe1c6,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `white-small-square`
   static const IconifyIconData whiteSmallSquare = IconifyIconData(IconData(
-    0xe22e,
+    0xe1c7,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `wind-face`
   static const IconifyIconData windFace = IconifyIconData(IconData(
-    0xe22f,
+    0xe1c8,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `winking-face`
   static const IconifyIconData winkingFace = IconifyIconData(IconData(
-    0xe230,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `wolf`
-  static const IconifyIconData wolf = IconifyIconData(IconData(
-    0xe231,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `wolf-face`
-  static const IconifyIconData wolfFace = IconifyIconData(IconData(
-    0xe232,
+    0xe1c9,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `womens-room`
   static const IconifyIconData womensRoom = IconifyIconData(IconData(
-    0xe233,
+    0xe1ca,
+    fontFamily: 'NotoV1',
+    fontPackage: 'iconifyx_noto_v1',
+  ));
+
+  /// `world-map`
+  static const IconifyIconData worldMap = IconifyIconData(IconData(
+    0xe1cb,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `worried-face`
   static const IconifyIconData worriedFace = IconifyIconData(IconData(
-    0xe234,
+    0xe1cc,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `wrench`
   static const IconifyIconData wrench = IconifyIconData(IconData(
-    0xe235,
-    fontFamily: 'NotoV1',
-    fontPackage: 'iconifyx_noto_v1',
-  ));
-
-  /// `writing-hand`
-  static const IconifyIconData writingHand = IconifyIconData(IconData(
-    0xe236,
+    0xe1cd,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));
 
   /// `zipper-mouth-face`
   static const IconifyIconData zipperMouthFace = IconifyIconData(IconData(
-    0xe237,
+    0xe1ce,
     fontFamily: 'NotoV1',
     fontPackage: 'iconifyx_noto_v1',
   ));

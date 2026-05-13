@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/samcome/webfont-medical-icons/blob/master/LICENSE',
-  iconCount: 7,
+  iconCount: 143,
 );

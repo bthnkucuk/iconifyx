@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/codex-team/icons/blob/master/LICENSE',
-  iconCount: 39,
+  iconCount: 77,
 );

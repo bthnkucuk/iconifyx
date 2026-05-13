@@ -16,17 +16,17 @@
       "spdx": "MIT",
       "url": "https://github.com/vmware/clarity-assets/blob/master/LICENSE"
     },
-    "total": 1063
+    "total": 1104
   },
   "fonts": [
     {
       "family": "Clarity",
-      "nextCodepoint": 58407,
-      "iconCount": 1063
+      "nextCodepoint": 58448,
+      "iconCount": 1104
     },
     {
       "family": "ClaritySecondary",
-      "nextCodepoint": 58407,
+      "nextCodepoint": 58448,
       "iconCount": 2
     }
   ],
@@ -171,5180 +171,5385 @@
       "fontFamily": "Clarity",
       "identifier": "alignTopLine"
     },
-    "analytics-outline-alerted": {
+    "analytics-line": {
       "codepoint": 57372,
+      "fontFamily": "Clarity",
+      "identifier": "analyticsLine"
+    },
+    "analytics-outline-alerted": {
+      "codepoint": 57373,
       "fontFamily": "Clarity",
       "identifier": "analyticsOutlineAlerted"
     },
+    "analytics-outline-badged": {
+      "codepoint": 57374,
+      "fontFamily": "Clarity",
+      "identifier": "analyticsOutlineBadged"
+    },
     "analytics-solid": {
-      "codepoint": 57373,
+      "codepoint": 57375,
       "fontFamily": "Clarity",
       "identifier": "analyticsSolid"
     },
+    "analytics-solid-alerted": {
+      "codepoint": 57376,
+      "fontFamily": "Clarity",
+      "identifier": "analyticsSolidAlerted"
+    },
     "analytics-solid-badged": {
-      "codepoint": 57374,
+      "codepoint": 57377,
       "fontFamily": "Clarity",
       "identifier": "analyticsSolidBadged"
     },
     "angle-double-line": {
-      "codepoint": 57375,
+      "codepoint": 57378,
       "fontFamily": "Clarity",
       "identifier": "angleDoubleLine"
     },
     "angle-line": {
-      "codepoint": 57376,
+      "codepoint": 57379,
       "fontFamily": "Clarity",
       "identifier": "angleLine"
     },
     "animation-line": {
-      "codepoint": 57377,
+      "codepoint": 57380,
       "fontFamily": "Clarity",
       "identifier": "animationLine"
     },
     "animation-solid": {
-      "codepoint": 57378,
+      "codepoint": 57381,
       "fontFamily": "Clarity",
       "identifier": "animationSolid"
     },
     "application-line": {
-      "codepoint": 57379,
+      "codepoint": 57382,
       "fontFamily": "Clarity",
       "identifier": "applicationLine"
     },
     "application-solid": {
-      "codepoint": 57380,
+      "codepoint": 57383,
       "fontFamily": "Clarity",
       "identifier": "applicationSolid"
     },
     "applications-line": {
-      "codepoint": 57381,
+      "codepoint": 57384,
       "fontFamily": "Clarity",
       "identifier": "applicationsLine"
     },
     "applications-outline-alerted": {
-      "codepoint": 57382,
+      "codepoint": 57385,
       "fontFamily": "Clarity",
       "identifier": "applicationsOutlineAlerted"
     },
     "applications-outline-badged": {
-      "codepoint": 57383,
+      "codepoint": 57386,
       "fontFamily": "Clarity",
       "identifier": "applicationsOutlineBadged"
     },
     "applications-solid": {
-      "codepoint": 57384,
+      "codepoint": 57387,
       "fontFamily": "Clarity",
       "identifier": "applicationsSolid"
     },
     "applications-solid-alerted": {
-      "codepoint": 57385,
+      "codepoint": 57388,
       "fontFamily": "Clarity",
       "identifier": "applicationsSolidAlerted"
     },
     "applications-solid-badged": {
-      "codepoint": 57386,
+      "codepoint": 57389,
       "fontFamily": "Clarity",
       "identifier": "applicationsSolidBadged"
     },
     "archive-line": {
-      "codepoint": 57387,
+      "codepoint": 57390,
       "fontFamily": "Clarity",
       "identifier": "archiveLine"
     },
     "archive-solid": {
-      "codepoint": 57388,
+      "codepoint": 57391,
       "fontFamily": "Clarity",
       "identifier": "archiveSolid"
     },
     "arrow-line": {
-      "codepoint": 57389,
+      "codepoint": 57392,
       "fontFamily": "Clarity",
       "identifier": "arrowLine"
     },
     "assign-user-line": {
-      "codepoint": 57390,
+      "codepoint": 57393,
       "fontFamily": "Clarity",
       "identifier": "assignUserLine"
     },
     "assign-user-solid": {
-      "codepoint": 57391,
+      "codepoint": 57394,
       "fontFamily": "Clarity",
       "identifier": "assignUserSolid"
     },
     "asterisk-line": {
-      "codepoint": 57392,
+      "codepoint": 57395,
       "fontFamily": "Clarity",
       "identifier": "asteriskLine"
     },
     "asterisk-solid": {
-      "codepoint": 57393,
+      "codepoint": 57396,
       "fontFamily": "Clarity",
       "identifier": "asteriskSolid"
     },
     "atom-line": {
-      "codepoint": 57394,
+      "codepoint": 57397,
       "fontFamily": "Clarity",
       "identifier": "atomLine"
     },
     "atom-solid": {
-      "codepoint": 57395,
+      "codepoint": 57398,
       "fontFamily": "Clarity",
       "identifier": "atomSolid"
     },
     "attachment-line": {
-      "codepoint": 57396,
+      "codepoint": 57399,
       "fontFamily": "Clarity",
       "identifier": "attachmentLine"
     },
     "auto-line": {
-      "codepoint": 57397,
+      "codepoint": 57400,
       "fontFamily": "Clarity",
       "identifier": "autoLine"
     },
     "auto-solid": {
-      "codepoint": 57398,
+      "codepoint": 57401,
       "fontFamily": "Clarity",
       "identifier": "autoSolid"
     },
     "avatar-line": {
-      "codepoint": 57399,
+      "codepoint": 57402,
       "fontFamily": "Clarity",
       "identifier": "avatarLine"
     },
     "avatar-outline-alerted": {
-      "codepoint": 57400,
+      "codepoint": 57403,
       "fontFamily": "Clarity",
       "identifier": "avatarOutlineAlerted"
     },
     "avatar-outline-badged": {
-      "codepoint": 57401,
+      "codepoint": 57404,
       "fontFamily": "Clarity",
       "identifier": "avatarOutlineBadged"
     },
     "avatar-solid": {
-      "codepoint": 57402,
+      "codepoint": 57405,
       "fontFamily": "Clarity",
       "identifier": "avatarSolid"
     },
     "avatar-solid-alerted": {
-      "codepoint": 57403,
+      "codepoint": 57406,
       "fontFamily": "Clarity",
       "identifier": "avatarSolidAlerted"
     },
     "avatar-solid-badged": {
-      "codepoint": 57404,
+      "codepoint": 57407,
       "fontFamily": "Clarity",
       "identifier": "avatarSolidBadged"
     },
     "axis-chart-line": {
-      "codepoint": 57405,
+      "codepoint": 57408,
       "fontFamily": "Clarity",
       "identifier": "axisChartLine"
     },
     "axis-chart-outline-alerted": {
-      "codepoint": 57406,
+      "codepoint": 57409,
       "fontFamily": "Clarity",
       "identifier": "axisChartOutlineAlerted"
     },
+    "axis-chart-outline-badged": {
+      "codepoint": 57410,
+      "fontFamily": "Clarity",
+      "identifier": "axisChartOutlineBadged"
+    },
     "axis-chart-solid": {
-      "codepoint": 57407,
+      "codepoint": 57411,
       "fontFamily": "Clarity",
       "identifier": "axisChartSolid"
     },
+    "axis-chart-solid-alerted": {
+      "codepoint": 57412,
+      "fontFamily": "Clarity",
+      "identifier": "axisChartSolidAlerted"
+    },
     "axis-chart-solid-badged": {
-      "codepoint": 57408,
+      "codepoint": 57413,
       "fontFamily": "Clarity",
       "identifier": "axisChartSolidBadged"
     },
     "backup-line": {
-      "codepoint": 57409,
+      "codepoint": 57414,
       "fontFamily": "Clarity",
       "identifier": "backupLine"
     },
     "backup-outline-alerted": {
-      "codepoint": 57410,
+      "codepoint": 57415,
       "fontFamily": "Clarity",
       "identifier": "backupOutlineAlerted"
     },
     "backup-outline-badged": {
-      "codepoint": 57411,
+      "codepoint": 57416,
       "fontFamily": "Clarity",
       "identifier": "backupOutlineBadged"
     },
     "backup-restore-line": {
-      "codepoint": 57412,
+      "codepoint": 57417,
       "fontFamily": "Clarity",
       "identifier": "backupRestoreLine"
     },
     "backup-restore-outline-alerted": {
-      "codepoint": 57413,
+      "codepoint": 57418,
       "fontFamily": "Clarity",
       "identifier": "backupRestoreOutlineAlerted"
     },
     "backup-restore-outline-badged": {
-      "codepoint": 57414,
+      "codepoint": 57419,
       "fontFamily": "Clarity",
       "identifier": "backupRestoreOutlineBadged"
     },
     "backup-restore-solid": {
-      "codepoint": 57415,
+      "codepoint": 57420,
       "fontFamily": "Clarity",
       "identifier": "backupRestoreSolid"
     },
     "backup-restore-solid-alerted": {
-      "codepoint": 57416,
+      "codepoint": 57421,
       "fontFamily": "Clarity",
       "identifier": "backupRestoreSolidAlerted"
     },
     "backup-restore-solid-badged": {
-      "codepoint": 57417,
+      "codepoint": 57422,
       "fontFamily": "Clarity",
       "identifier": "backupRestoreSolidBadged"
     },
     "backup-solid": {
-      "codepoint": 57418,
+      "codepoint": 57423,
       "fontFamily": "Clarity",
       "identifier": "backupSolid"
     },
     "backup-solid-alerted": {
-      "codepoint": 57419,
+      "codepoint": 57424,
       "fontFamily": "Clarity",
       "identifier": "backupSolidAlerted"
     },
     "backup-solid-badged": {
-      "codepoint": 57420,
+      "codepoint": 57425,
       "fontFamily": "Clarity",
       "identifier": "backupSolidBadged"
     },
     "balance-line": {
-      "codepoint": 57421,
+      "codepoint": 57426,
       "fontFamily": "Clarity",
       "identifier": "balanceLine"
     },
     "ban-line": {
-      "codepoint": 57422,
+      "codepoint": 57427,
       "fontFamily": "Clarity",
       "identifier": "banLine"
     },
     "bank-line": {
-      "codepoint": 57423,
+      "codepoint": 57428,
       "fontFamily": "Clarity",
       "identifier": "bankLine"
     },
     "bank-outline-alerted": {
-      "codepoint": 57424,
+      "codepoint": 57429,
       "fontFamily": "Clarity",
       "identifier": "bankOutlineAlerted"
     },
     "bank-outline-badged": {
-      "codepoint": 57425,
+      "codepoint": 57430,
       "fontFamily": "Clarity",
       "identifier": "bankOutlineBadged"
     },
     "bank-solid": {
-      "codepoint": 57426,
+      "codepoint": 57431,
       "fontFamily": "Clarity",
       "identifier": "bankSolid"
     },
     "bank-solid-alerted": {
-      "codepoint": 57427,
+      "codepoint": 57432,
       "fontFamily": "Clarity",
       "identifier": "bankSolidAlerted"
     },
     "bank-solid-badged": {
-      "codepoint": 57428,
+      "codepoint": 57433,
       "fontFamily": "Clarity",
       "identifier": "bankSolidBadged"
     },
     "bar-chart-line": {
-      "codepoint": 57429,
+      "codepoint": 57434,
       "fontFamily": "Clarity",
       "identifier": "barChartLine"
     },
     "bar-chart-outline-alerted": {
-      "codepoint": 57430,
+      "codepoint": 57435,
       "fontFamily": "Clarity",
       "identifier": "barChartOutlineAlerted"
     },
+    "bar-chart-outline-badged": {
+      "codepoint": 57436,
+      "fontFamily": "Clarity",
+      "identifier": "barChartOutlineBadged"
+    },
     "bar-chart-solid": {
-      "codepoint": 57431,
+      "codepoint": 57437,
       "fontFamily": "Clarity",
       "identifier": "barChartSolid"
     },
+    "bar-chart-solid-alerted": {
+      "codepoint": 57438,
+      "fontFamily": "Clarity",
+      "identifier": "barChartSolidAlerted"
+    },
     "bar-chart-solid-badged": {
-      "codepoint": 57432,
+      "codepoint": 57439,
       "fontFamily": "Clarity",
       "identifier": "barChartSolidBadged"
     },
     "bar-code-line": {
-      "codepoint": 57433,
+      "codepoint": 57440,
       "fontFamily": "Clarity",
       "identifier": "barCodeLine"
     },
     "bars-line": {
-      "codepoint": 57434,
+      "codepoint": 57441,
       "fontFamily": "Clarity",
       "identifier": "barsLine"
     },
     "battery-line": {
-      "codepoint": 57435,
+      "codepoint": 57442,
       "fontFamily": "Clarity",
       "identifier": "batteryLine"
     },
     "battery-outline-alerted": {
-      "codepoint": 57436,
+      "codepoint": 57443,
       "fontFamily": "Clarity",
       "identifier": "batteryOutlineAlerted"
     },
     "battery-outline-badged": {
-      "codepoint": 57437,
+      "codepoint": 57444,
       "fontFamily": "Clarity",
       "identifier": "batteryOutlineBadged"
     },
     "battery-solid": {
-      "codepoint": 57438,
+      "codepoint": 57445,
       "fontFamily": "Clarity",
       "identifier": "batterySolid"
     },
     "battery-solid-alerted": {
-      "codepoint": 57439,
+      "codepoint": 57446,
       "fontFamily": "Clarity",
       "identifier": "batterySolidAlerted"
     },
     "battery-solid-badged": {
-      "codepoint": 57440,
+      "codepoint": 57447,
       "fontFamily": "Clarity",
       "identifier": "batterySolidBadged"
     },
     "bell-curve-line": {
-      "codepoint": 57441,
+      "codepoint": 57448,
       "fontFamily": "Clarity",
       "identifier": "bellCurveLine"
     },
     "bell-line": {
-      "codepoint": 57442,
+      "codepoint": 57449,
       "fontFamily": "Clarity",
       "identifier": "bellLine"
     },
     "bell-outline-badged": {
-      "codepoint": 57443,
+      "codepoint": 57450,
       "fontFamily": "Clarity",
       "identifier": "bellOutlineBadged"
     },
     "bell-solid": {
-      "codepoint": 57444,
+      "codepoint": 57451,
       "fontFamily": "Clarity",
       "identifier": "bellSolid"
     },
     "bell-solid-badged": {
-      "codepoint": 57445,
+      "codepoint": 57452,
       "fontFamily": "Clarity",
       "identifier": "bellSolidBadged"
     },
     "beta-line": {
-      "codepoint": 57446,
+      "codepoint": 57453,
       "fontFamily": "Clarity",
       "identifier": "betaLine"
     },
     "beta-solid": {
-      "codepoint": 57447,
+      "codepoint": 57454,
       "fontFamily": "Clarity",
       "identifier": "betaSolid"
     },
     "bicycle-line": {
-      "codepoint": 57448,
+      "codepoint": 57455,
       "fontFamily": "Clarity",
       "identifier": "bicycleLine"
     },
     "bicycle-solid": {
-      "codepoint": 57449,
+      "codepoint": 57456,
       "fontFamily": "Clarity",
       "identifier": "bicycleSolid"
     },
     "bitcoin-line": {
-      "codepoint": 57450,
+      "codepoint": 57457,
       "fontFamily": "Clarity",
       "identifier": "bitcoinLine"
     },
     "bitcoin-solid": {
-      "codepoint": 57451,
+      "codepoint": 57458,
       "fontFamily": "Clarity",
       "identifier": "bitcoinSolid"
     },
     "block-line": {
-      "codepoint": 57452,
+      "codepoint": 57459,
       "fontFamily": "Clarity",
       "identifier": "blockLine"
     },
     "block-outline-alerted": {
-      "codepoint": 57453,
+      "codepoint": 57460,
       "fontFamily": "Clarity",
       "identifier": "blockOutlineAlerted"
     },
     "block-outline-badged": {
-      "codepoint": 57454,
+      "codepoint": 57461,
       "fontFamily": "Clarity",
       "identifier": "blockOutlineBadged"
     },
     "block-quote-line": {
-      "codepoint": 57455,
+      "codepoint": 57462,
       "fontFamily": "Clarity",
       "identifier": "blockQuoteLine"
     },
     "block-solid": {
-      "codepoint": 57456,
+      "codepoint": 57463,
       "fontFamily": "Clarity",
       "identifier": "blockSolid"
     },
     "block-solid-alerted": {
-      "codepoint": 57457,
+      "codepoint": 57464,
       "fontFamily": "Clarity",
       "identifier": "blockSolidAlerted"
     },
     "block-solid-badged": {
-      "codepoint": 57458,
+      "codepoint": 57465,
       "fontFamily": "Clarity",
       "identifier": "blockSolidBadged"
     },
     "blocks-group-line": {
-      "codepoint": 57459,
+      "codepoint": 57466,
       "fontFamily": "Clarity",
       "identifier": "blocksGroupLine"
     },
     "blocks-group-outline-alerted": {
-      "codepoint": 57460,
+      "codepoint": 57467,
       "fontFamily": "Clarity",
       "identifier": "blocksGroupOutlineAlerted"
     },
     "blocks-group-outline-badged": {
-      "codepoint": 57461,
+      "codepoint": 57468,
       "fontFamily": "Clarity",
       "identifier": "blocksGroupOutlineBadged"
     },
     "blocks-group-solid": {
-      "codepoint": 57462,
+      "codepoint": 57469,
       "fontFamily": "Clarity",
       "identifier": "blocksGroupSolid"
     },
     "blocks-group-solid-alerted": {
-      "codepoint": 57463,
+      "codepoint": 57470,
       "fontFamily": "Clarity",
       "identifier": "blocksGroupSolidAlerted"
     },
     "blocks-group-solid-badged": {
-      "codepoint": 57464,
+      "codepoint": 57471,
       "fontFamily": "Clarity",
       "identifier": "blocksGroupSolidBadged"
     },
     "bluetooth-line": {
-      "codepoint": 57465,
+      "codepoint": 57472,
       "fontFamily": "Clarity",
       "identifier": "bluetoothLine"
     },
     "bluetooth-off-line": {
-      "codepoint": 57466,
+      "codepoint": 57473,
       "fontFamily": "Clarity",
       "identifier": "bluetoothOffLine"
     },
     "bluetooth-off-solid": {
-      "codepoint": 57467,
+      "codepoint": 57474,
       "fontFamily": "Clarity",
       "identifier": "bluetoothOffSolid"
     },
     "bluetooth-solid": {
-      "codepoint": 57468,
+      "codepoint": 57475,
       "fontFamily": "Clarity",
       "identifier": "bluetoothSolid"
     },
     "boat-line": {
-      "codepoint": 57469,
+      "codepoint": 57476,
       "fontFamily": "Clarity",
       "identifier": "boatLine"
     },
     "boat-solid": {
-      "codepoint": 57470,
+      "codepoint": 57477,
       "fontFamily": "Clarity",
       "identifier": "boatSolid"
     },
     "bold-line": {
-      "codepoint": 57471,
+      "codepoint": 57478,
       "fontFamily": "Clarity",
       "identifier": "boldLine"
     },
     "bolt-line": {
-      "codepoint": 57472,
+      "codepoint": 57479,
       "fontFamily": "Clarity",
       "identifier": "boltLine"
     },
     "bolt-solid": {
-      "codepoint": 57473,
+      "codepoint": 57480,
       "fontFamily": "Clarity",
       "identifier": "boltSolid"
     },
     "book-line": {
-      "codepoint": 57474,
+      "codepoint": 57481,
       "fontFamily": "Clarity",
       "identifier": "bookLine"
     },
     "book-solid": {
-      "codepoint": 57475,
+      "codepoint": 57482,
       "fontFamily": "Clarity",
       "identifier": "bookSolid"
     },
     "bookmark-line": {
-      "codepoint": 57476,
+      "codepoint": 57483,
       "fontFamily": "Clarity",
       "identifier": "bookmarkLine"
     },
     "bookmark-solid": {
-      "codepoint": 57477,
+      "codepoint": 57484,
       "fontFamily": "Clarity",
       "identifier": "bookmarkSolid"
     },
     "box-plot-line": {
-      "codepoint": 57478,
+      "codepoint": 57485,
       "fontFamily": "Clarity",
       "identifier": "boxPlotLine"
     },
     "box-plot-outline-alerted": {
-      "codepoint": 57479,
+      "codepoint": 57486,
       "fontFamily": "Clarity",
       "identifier": "boxPlotOutlineAlerted"
     },
+    "box-plot-outline-badged": {
+      "codepoint": 57487,
+      "fontFamily": "Clarity",
+      "identifier": "boxPlotOutlineBadged"
+    },
     "box-plot-solid": {
-      "codepoint": 57480,
+      "codepoint": 57488,
       "fontFamily": "Clarity",
       "identifier": "boxPlotSolid"
     },
+    "box-plot-solid-alerted": {
+      "codepoint": 57489,
+      "fontFamily": "Clarity",
+      "identifier": "boxPlotSolidAlerted"
+    },
+    "box-plot-solid-badged": {
+      "codepoint": 57490,
+      "fontFamily": "Clarity",
+      "identifier": "boxPlotSolidBadged"
+    },
     "briefcase-line": {
-      "codepoint": 57481,
+      "codepoint": 57491,
       "fontFamily": "Clarity",
       "identifier": "briefcaseLine"
     },
     "briefcase-solid": {
-      "codepoint": 57482,
+      "codepoint": 57492,
       "fontFamily": "Clarity",
       "identifier": "briefcaseSolid"
     },
     "bubble-chart-line": {
-      "codepoint": 57483,
+      "codepoint": 57493,
       "fontFamily": "Clarity",
       "identifier": "bubbleChartLine"
     },
     "bubble-chart-outline-alerted": {
-      "codepoint": 57484,
+      "codepoint": 57494,
       "fontFamily": "Clarity",
       "identifier": "bubbleChartOutlineAlerted"
     },
+    "bubble-chart-outline-badged": {
+      "codepoint": 57495,
+      "fontFamily": "Clarity",
+      "identifier": "bubbleChartOutlineBadged"
+    },
     "bubble-chart-solid": {
-      "codepoint": 57485,
+      "codepoint": 57496,
       "fontFamily": "Clarity",
       "identifier": "bubbleChartSolid"
     },
+    "bubble-chart-solid-alerted": {
+      "codepoint": 57497,
+      "fontFamily": "Clarity",
+      "identifier": "bubbleChartSolidAlerted"
+    },
     "bubble-chart-solid-badged": {
-      "codepoint": 57486,
+      "codepoint": 57498,
       "fontFamily": "Clarity",
       "identifier": "bubbleChartSolidBadged"
     },
     "bubble-exclamation-line": {
-      "codepoint": 57487,
+      "codepoint": 57499,
       "fontFamily": "Clarity",
       "identifier": "bubbleExclamationLine"
     },
     "bubble-exclamation-solid": {
-      "codepoint": 57488,
+      "codepoint": 57500,
       "fontFamily": "Clarity",
       "identifier": "bubbleExclamationSolid"
     },
     "bug-line": {
-      "codepoint": 57489,
+      "codepoint": 57501,
       "fontFamily": "Clarity",
       "identifier": "bugLine"
     },
     "bug-solid": {
-      "codepoint": 57490,
+      "codepoint": 57502,
       "fontFamily": "Clarity",
       "identifier": "bugSolid"
     },
     "building-line": {
-      "codepoint": 57491,
+      "codepoint": 57503,
       "fontFamily": "Clarity",
       "identifier": "buildingLine"
     },
     "building-outline-alerted": {
-      "codepoint": 57492,
+      "codepoint": 57504,
       "fontFamily": "Clarity",
       "identifier": "buildingOutlineAlerted"
     },
     "building-outline-badged": {
-      "codepoint": 57493,
+      "codepoint": 57505,
       "fontFamily": "Clarity",
       "identifier": "buildingOutlineBadged"
     },
     "building-solid": {
-      "codepoint": 57494,
+      "codepoint": 57506,
       "fontFamily": "Clarity",
       "identifier": "buildingSolid"
     },
     "building-solid-alerted": {
-      "codepoint": 57495,
+      "codepoint": 57507,
       "fontFamily": "Clarity",
       "identifier": "buildingSolidAlerted"
     },
     "building-solid-badged": {
-      "codepoint": 57496,
+      "codepoint": 57508,
       "fontFamily": "Clarity",
       "identifier": "buildingSolidBadged"
     },
     "bullet-list-line": {
-      "codepoint": 57497,
+      "codepoint": 57509,
       "fontFamily": "Clarity",
       "identifier": "bulletListLine"
     },
     "bullseye-line": {
-      "codepoint": 57498,
+      "codepoint": 57510,
       "fontFamily": "Clarity",
       "identifier": "bullseyeLine"
     },
     "bullseye-solid": {
-      "codepoint": 57499,
+      "codepoint": 57511,
       "fontFamily": "Clarity",
       "identifier": "bullseyeSolid"
     },
     "bundle-line": {
-      "codepoint": 57500,
+      "codepoint": 57512,
       "fontFamily": "Clarity",
       "identifier": "bundleLine"
     },
     "bundle-solid": {
-      "codepoint": 57501,
+      "codepoint": 57513,
       "fontFamily": "Clarity",
       "identifier": "bundleSolid"
     },
     "calculator-line": {
-      "codepoint": 57502,
+      "codepoint": 57514,
       "fontFamily": "Clarity",
       "identifier": "calculatorLine"
     },
     "calculator-solid": {
-      "codepoint": 57503,
+      "codepoint": 57515,
       "fontFamily": "Clarity",
       "identifier": "calculatorSolid"
     },
     "calendar-line": {
-      "codepoint": 57504,
+      "codepoint": 57516,
       "fontFamily": "Clarity",
       "identifier": "calendarLine"
     },
     "calendar-outline-alerted": {
-      "codepoint": 57505,
+      "codepoint": 57517,
       "fontFamily": "Clarity",
       "identifier": "calendarOutlineAlerted"
     },
     "calendar-outline-badged": {
-      "codepoint": 57506,
+      "codepoint": 57518,
       "fontFamily": "Clarity",
       "identifier": "calendarOutlineBadged"
     },
     "calendar-solid": {
-      "codepoint": 57507,
+      "codepoint": 57519,
       "fontFamily": "Clarity",
       "identifier": "calendarSolid"
     },
     "calendar-solid-alerted": {
-      "codepoint": 57508,
+      "codepoint": 57520,
       "fontFamily": "Clarity",
       "identifier": "calendarSolidAlerted"
     },
     "calendar-solid-badged": {
-      "codepoint": 57509,
+      "codepoint": 57521,
       "fontFamily": "Clarity",
       "identifier": "calendarSolidBadged"
     },
     "camera-line": {
-      "codepoint": 57510,
+      "codepoint": 57522,
       "fontFamily": "Clarity",
       "identifier": "cameraLine"
     },
     "camera-solid": {
-      "codepoint": 57511,
+      "codepoint": 57523,
       "fontFamily": "Clarity",
       "identifier": "cameraSolid"
     },
     "campervan-line": {
-      "codepoint": 57512,
+      "codepoint": 57524,
       "fontFamily": "Clarity",
       "identifier": "campervanLine"
     },
     "campervan-solid": {
-      "codepoint": 57513,
+      "codepoint": 57525,
       "fontFamily": "Clarity",
       "identifier": "campervanSolid"
     },
     "cancel-line": {
-      "codepoint": 57514,
+      "codepoint": 57526,
       "fontFamily": "Clarity",
       "identifier": "cancelLine"
     },
     "capacitor-line": {
-      "codepoint": 57515,
+      "codepoint": 57527,
       "fontFamily": "Clarity",
       "identifier": "capacitorLine"
     },
     "car-line": {
-      "codepoint": 57516,
+      "codepoint": 57528,
       "fontFamily": "Clarity",
       "identifier": "carLine"
     },
     "car-solid": {
-      "codepoint": 57517,
+      "codepoint": 57529,
       "fontFamily": "Clarity",
       "identifier": "carSolid"
     },
     "caravan-line": {
-      "codepoint": 57518,
+      "codepoint": 57530,
       "fontFamily": "Clarity",
       "identifier": "caravanLine"
     },
     "caravan-solid": {
-      "codepoint": 57519,
+      "codepoint": 57531,
       "fontFamily": "Clarity",
       "identifier": "caravanSolid"
     },
     "caret-line": {
-      "codepoint": 57520,
+      "codepoint": 57532,
       "fontFamily": "Clarity",
       "identifier": "caretLine"
     },
     "cd-dvd-line": {
-      "codepoint": 57521,
+      "codepoint": 57533,
       "fontFamily": "Clarity",
       "identifier": "cdDvdLine"
     },
     "cd-dvd-solid": {
-      "codepoint": 57522,
+      "codepoint": 57534,
       "fontFamily": "Clarity",
       "identifier": "cdDvdSolid"
     },
     "center-text-line": {
-      "codepoint": 57523,
+      "codepoint": 57535,
       "fontFamily": "Clarity",
       "identifier": "centerTextLine"
     },
     "certificate-line": {
-      "codepoint": 57524,
+      "codepoint": 57536,
       "fontFamily": "Clarity",
       "identifier": "certificateLine"
     },
     "certificate-outline-alerted": {
-      "codepoint": 57525,
+      "codepoint": 57537,
       "fontFamily": "Clarity",
       "identifier": "certificateOutlineAlerted"
     },
     "certificate-outline-badged": {
-      "codepoint": 57526,
+      "codepoint": 57538,
       "fontFamily": "Clarity",
       "identifier": "certificateOutlineBadged"
     },
     "certificate-solid": {
-      "codepoint": 57527,
+      "codepoint": 57539,
       "fontFamily": "Clarity",
       "identifier": "certificateSolid"
     },
     "certificate-solid-alerted": {
-      "codepoint": 57528,
+      "codepoint": 57540,
       "fontFamily": "Clarity",
       "identifier": "certificateSolidAlerted"
     },
     "certificate-solid-badged": {
-      "codepoint": 57529,
+      "codepoint": 57541,
       "fontFamily": "Clarity",
       "identifier": "certificateSolidBadged"
     },
     "chat-bubble-line": {
-      "codepoint": 57530,
+      "codepoint": 57542,
       "fontFamily": "Clarity",
       "identifier": "chatBubbleLine"
     },
     "chat-bubble-outline-badged": {
-      "codepoint": 57531,
+      "codepoint": 57543,
       "fontFamily": "Clarity",
       "identifier": "chatBubbleOutlineBadged"
     },
     "chat-bubble-solid": {
-      "codepoint": 57532,
+      "codepoint": 57544,
       "fontFamily": "Clarity",
       "identifier": "chatBubbleSolid"
     },
     "chat-bubble-solid-badged": {
-      "codepoint": 57533,
+      "codepoint": 57545,
       "fontFamily": "Clarity",
       "identifier": "chatBubbleSolidBadged"
     },
     "check-circle-line": {
-      "codepoint": 57534,
+      "codepoint": 57546,
       "fontFamily": "Clarity",
       "identifier": "checkCircleLine"
     },
     "check-circle-solid": {
-      "codepoint": 57535,
+      "codepoint": 57547,
       "fontFamily": "Clarity",
       "identifier": "checkCircleSolid"
     },
     "check-line": {
-      "codepoint": 57536,
+      "codepoint": 57548,
       "fontFamily": "Clarity",
       "identifier": "checkLine"
     },
     "checkbox-list-line": {
-      "codepoint": 57537,
+      "codepoint": 57549,
       "fontFamily": "Clarity",
       "identifier": "checkboxListLine"
     },
     "child-arrow-line": {
-      "codepoint": 57538,
+      "codepoint": 57550,
       "fontFamily": "Clarity",
       "identifier": "childArrowLine"
     },
     "ci-cd-line": {
-      "codepoint": 57539,
+      "codepoint": 57551,
       "fontFamily": "Clarity",
       "identifier": "ciCdLine"
     },
     "circle-arrow-line": {
-      "codepoint": 57540,
+      "codepoint": 57552,
       "fontFamily": "Clarity",
       "identifier": "circleArrowLine"
     },
     "circle-arrow-solid": {
-      "codepoint": 57541,
+      "codepoint": 57553,
       "fontFamily": "Clarity",
       "identifier": "circleArrowSolid"
     },
     "circle-line": {
-      "codepoint": 57542,
+      "codepoint": 57554,
       "fontFamily": "Clarity",
       "identifier": "circleLine"
     },
     "circle-solid": {
-      "codepoint": 57543,
+      "codepoint": 57555,
       "fontFamily": "Clarity",
       "identifier": "circleSolid"
     },
     "clipboard-line": {
-      "codepoint": 57544,
+      "codepoint": 57556,
       "fontFamily": "Clarity",
       "identifier": "clipboardLine"
     },
     "clipboard-outline-badged": {
-      "codepoint": 57545,
+      "codepoint": 57557,
       "fontFamily": "Clarity",
       "identifier": "clipboardOutlineBadged"
     },
     "clipboard-solid": {
-      "codepoint": 57546,
+      "codepoint": 57558,
       "fontFamily": "Clarity",
       "identifier": "clipboardSolid"
     },
     "clipboard-solid-badged": {
-      "codepoint": 57547,
+      "codepoint": 57559,
       "fontFamily": "Clarity",
       "identifier": "clipboardSolidBadged"
     },
     "clock-line": {
-      "codepoint": 57548,
+      "codepoint": 57560,
       "fontFamily": "Clarity",
       "identifier": "clockLine"
     },
     "clock-outline-alerted": {
-      "codepoint": 57549,
+      "codepoint": 57561,
       "fontFamily": "Clarity",
       "identifier": "clockOutlineAlerted"
     },
     "clock-outline-badged": {
-      "codepoint": 57550,
+      "codepoint": 57562,
       "fontFamily": "Clarity",
       "identifier": "clockOutlineBadged"
     },
     "clock-solid": {
-      "codepoint": 57551,
+      "codepoint": 57563,
       "fontFamily": "Clarity",
       "identifier": "clockSolid"
     },
     "clock-solid-alerted": {
-      "codepoint": 57552,
+      "codepoint": 57564,
       "fontFamily": "Clarity",
       "identifier": "clockSolidAlerted"
     },
     "clock-solid-badged": {
-      "codepoint": 57553,
+      "codepoint": 57565,
       "fontFamily": "Clarity",
       "identifier": "clockSolidBadged"
     },
     "clone-line": {
-      "codepoint": 57554,
+      "codepoint": 57566,
       "fontFamily": "Clarity",
       "identifier": "cloneLine"
     },
     "clone-solid": {
-      "codepoint": 57555,
+      "codepoint": 57567,
       "fontFamily": "Clarity",
       "identifier": "cloneSolid"
     },
     "close-line": {
-      "codepoint": 57556,
+      "codepoint": 57568,
       "fontFamily": "Clarity",
       "identifier": "closeLine"
     },
+    "cloud-chart-line": {
+      "codepoint": 57569,
+      "fontFamily": "Clarity",
+      "identifier": "cloudChartLine"
+    },
+    "cloud-chart-outline-alerted": {
+      "codepoint": 57570,
+      "fontFamily": "Clarity",
+      "identifier": "cloudChartOutlineAlerted"
+    },
+    "cloud-chart-outline-badged": {
+      "codepoint": 57571,
+      "fontFamily": "Clarity",
+      "identifier": "cloudChartOutlineBadged"
+    },
     "cloud-chart-solid": {
-      "codepoint": 57557,
+      "codepoint": 57572,
       "fontFamily": "Clarity",
       "identifier": "cloudChartSolid"
     },
+    "cloud-chart-solid-alerted": {
+      "codepoint": 57573,
+      "fontFamily": "Clarity",
+      "identifier": "cloudChartSolidAlerted"
+    },
     "cloud-chart-solid-badged": {
-      "codepoint": 57558,
+      "codepoint": 57574,
       "fontFamily": "Clarity",
       "identifier": "cloudChartSolidBadged"
     },
     "cloud-line": {
-      "codepoint": 57559,
+      "codepoint": 57575,
       "fontFamily": "Clarity",
       "identifier": "cloudLine"
     },
     "cloud-network-line": {
-      "codepoint": 57560,
+      "codepoint": 57576,
       "fontFamily": "Clarity",
       "identifier": "cloudNetworkLine"
     },
     "cloud-outline-alerted": {
-      "codepoint": 57561,
+      "codepoint": 57577,
       "fontFamily": "Clarity",
       "identifier": "cloudOutlineAlerted"
     },
     "cloud-outline-badged": {
-      "codepoint": 57562,
+      "codepoint": 57578,
       "fontFamily": "Clarity",
       "identifier": "cloudOutlineBadged"
     },
     "cloud-scale-line": {
-      "codepoint": 57563,
+      "codepoint": 57579,
       "fontFamily": "Clarity",
       "identifier": "cloudScaleLine"
     },
     "cloud-solid": {
-      "codepoint": 57564,
+      "codepoint": 57580,
       "fontFamily": "Clarity",
       "identifier": "cloudSolid"
     },
     "cloud-solid-alerted": {
-      "codepoint": 57565,
+      "codepoint": 57581,
       "fontFamily": "Clarity",
       "identifier": "cloudSolidAlerted"
     },
     "cloud-solid-badged": {
-      "codepoint": 57566,
+      "codepoint": 57582,
       "fontFamily": "Clarity",
       "identifier": "cloudSolidBadged"
     },
     "cloud-traffic-line": {
-      "codepoint": 57567,
+      "codepoint": 57583,
       "fontFamily": "Clarity",
       "identifier": "cloudTrafficLine"
     },
     "cluster-line": {
-      "codepoint": 57568,
+      "codepoint": 57584,
       "fontFamily": "Clarity",
       "identifier": "clusterLine"
     },
     "cluster-outline-alerted": {
-      "codepoint": 57569,
+      "codepoint": 57585,
       "fontFamily": "Clarity",
       "identifier": "clusterOutlineAlerted"
     },
     "cluster-outline-badged": {
-      "codepoint": 57570,
+      "codepoint": 57586,
       "fontFamily": "Clarity",
       "identifier": "clusterOutlineBadged"
     },
     "cluster-solid": {
-      "codepoint": 57571,
+      "codepoint": 57587,
       "fontFamily": "Clarity",
       "identifier": "clusterSolid"
     },
     "cluster-solid-alerted": {
-      "codepoint": 57572,
+      "codepoint": 57588,
       "fontFamily": "Clarity",
       "identifier": "clusterSolidAlerted"
     },
     "cluster-solid-badged": {
-      "codepoint": 57573,
+      "codepoint": 57589,
       "fontFamily": "Clarity",
       "identifier": "clusterSolidBadged"
     },
     "code-line": {
-      "codepoint": 57574,
+      "codepoint": 57590,
       "fontFamily": "Clarity",
       "identifier": "codeLine"
     },
     "code-outline-alerted": {
-      "codepoint": 57575,
+      "codepoint": 57591,
       "fontFamily": "Clarity",
       "identifier": "codeOutlineAlerted"
     },
     "code-outline-badged": {
-      "codepoint": 57576,
+      "codepoint": 57592,
       "fontFamily": "Clarity",
       "identifier": "codeOutlineBadged"
     },
     "cog-line": {
-      "codepoint": 57577,
+      "codepoint": 57593,
       "fontFamily": "Clarity",
       "identifier": "cogLine"
     },
     "cog-outline-alerted": {
-      "codepoint": 57578,
+      "codepoint": 57594,
       "fontFamily": "Clarity",
       "identifier": "cogOutlineAlerted"
     },
     "cog-outline-badged": {
-      "codepoint": 57579,
+      "codepoint": 57595,
       "fontFamily": "Clarity",
       "identifier": "cogOutlineBadged"
     },
     "cog-solid": {
-      "codepoint": 57580,
+      "codepoint": 57596,
       "fontFamily": "Clarity",
       "identifier": "cogSolid"
     },
     "cog-solid-alerted": {
-      "codepoint": 57581,
+      "codepoint": 57597,
       "fontFamily": "Clarity",
       "identifier": "cogSolidAlerted"
     },
     "cog-solid-badged": {
-      "codepoint": 57582,
+      "codepoint": 57598,
       "fontFamily": "Clarity",
       "identifier": "cogSolidBadged"
     },
     "coin-bag-line": {
-      "codepoint": 57583,
+      "codepoint": 57599,
       "fontFamily": "Clarity",
       "identifier": "coinBagLine"
     },
     "coin-bag-solid": {
-      "codepoint": 57584,
+      "codepoint": 57600,
       "fontFamily": "Clarity",
       "identifier": "coinBagSolid"
     },
     "collapse-card-line": {
-      "codepoint": 57585,
+      "codepoint": 57601,
       "fontFamily": "Clarity",
       "identifier": "collapseCardLine"
     },
     "collapse-card-solid": {
-      "codepoint": 57586,
+      "codepoint": 57602,
       "fontFamily": "Clarity",
       "identifier": "collapseCardSolid"
     },
     "collapse-line": {
-      "codepoint": 57587,
+      "codepoint": 57603,
       "fontFamily": "Clarity",
       "identifier": "collapseLine"
     },
     "color-palette-line": {
-      "codepoint": 57588,
+      "codepoint": 57604,
       "fontFamily": "Clarity",
       "identifier": "colorPaletteLine"
     },
     "color-palette-solid": {
-      "codepoint": 57589,
+      "codepoint": 57605,
       "fontFamily": "Clarity",
       "identifier": "colorPaletteSolid"
     },
     "color-picker-line": {
-      "codepoint": 57590,
+      "codepoint": 57606,
       "fontFamily": "Clarity",
       "identifier": "colorPickerLine"
     },
     "color-picker-solid": {
-      "codepoint": 57591,
+      "codepoint": 57607,
       "fontFamily": "Clarity",
       "identifier": "colorPickerSolid"
     },
     "command-line": {
-      "codepoint": 57592,
+      "codepoint": 57608,
       "fontFamily": "Clarity",
       "identifier": "commandLine"
     },
     "command-outline-alerted": {
-      "codepoint": 57593,
+      "codepoint": 57609,
       "fontFamily": "Clarity",
       "identifier": "commandOutlineAlerted"
     },
     "command-outline-badged": {
-      "codepoint": 57594,
+      "codepoint": 57610,
       "fontFamily": "Clarity",
       "identifier": "commandOutlineBadged"
     },
     "command-solid": {
-      "codepoint": 57595,
+      "codepoint": 57611,
       "fontFamily": "Clarity",
       "identifier": "commandSolid"
     },
     "command-solid-alerted": {
-      "codepoint": 57596,
+      "codepoint": 57612,
       "fontFamily": "Clarity",
       "identifier": "commandSolidAlerted"
     },
     "command-solid-badged": {
-      "codepoint": 57597,
+      "codepoint": 57613,
       "fontFamily": "Clarity",
       "identifier": "commandSolidBadged"
     },
     "compass-line": {
-      "codepoint": 57598,
+      "codepoint": 57614,
       "fontFamily": "Clarity",
       "identifier": "compassLine"
     },
     "compass-solid": {
-      "codepoint": 57599,
+      "codepoint": 57615,
       "fontFamily": "Clarity",
       "identifier": "compassSolid"
     },
     "computer-line": {
-      "codepoint": 57600,
+      "codepoint": 57616,
       "fontFamily": "Clarity",
       "identifier": "computerLine"
     },
     "computer-outline-alerted": {
-      "codepoint": 57601,
+      "codepoint": 57617,
       "fontFamily": "Clarity",
       "identifier": "computerOutlineAlerted"
     },
     "computer-outline-badged": {
-      "codepoint": 57602,
+      "codepoint": 57618,
       "fontFamily": "Clarity",
       "identifier": "computerOutlineBadged"
     },
     "computer-solid": {
-      "codepoint": 57603,
+      "codepoint": 57619,
       "fontFamily": "Clarity",
       "identifier": "computerSolid"
     },
     "computer-solid-alerted": {
-      "codepoint": 57604,
+      "codepoint": 57620,
       "fontFamily": "Clarity",
       "identifier": "computerSolidAlerted"
     },
     "computer-solid-badged": {
-      "codepoint": 57605,
+      "codepoint": 57621,
       "fontFamily": "Clarity",
       "identifier": "computerSolidBadged"
     },
     "connect-line": {
-      "codepoint": 57606,
+      "codepoint": 57622,
       "fontFamily": "Clarity",
       "identifier": "connectLine"
     },
     "connect-solid": {
-      "codepoint": 57607,
+      "codepoint": 57623,
       "fontFamily": "Clarity",
       "identifier": "connectSolid"
     },
     "container-line": {
-      "codepoint": 57608,
+      "codepoint": 57624,
       "fontFamily": "Clarity",
       "identifier": "containerLine"
     },
     "container-solid": {
-      "codepoint": 57609,
+      "codepoint": 57625,
       "fontFamily": "Clarity",
       "identifier": "containerSolid"
     },
     "container-volume-line": {
-      "codepoint": 57610,
+      "codepoint": 57626,
       "fontFamily": "Clarity",
       "identifier": "containerVolumeLine"
     },
     "container-volume-solid": {
-      "codepoint": 57611,
+      "codepoint": 57627,
       "fontFamily": "Clarity",
       "identifier": "containerVolumeSolid"
     },
+    "contract-line": {
+      "codepoint": 57628,
+      "fontFamily": "Clarity",
+      "identifier": "contractLine"
+    },
+    "contract-solid": {
+      "codepoint": 57629,
+      "fontFamily": "Clarity",
+      "identifier": "contractSolid"
+    },
     "control-lun-line": {
-      "codepoint": 57612,
+      "codepoint": 57630,
       "fontFamily": "Clarity",
       "identifier": "controlLunLine"
     },
     "control-lun-outline-alerted": {
-      "codepoint": 57613,
+      "codepoint": 57631,
       "fontFamily": "Clarity",
       "identifier": "controlLunOutlineAlerted"
     },
     "control-lun-outline-badged": {
-      "codepoint": 57614,
+      "codepoint": 57632,
       "fontFamily": "Clarity",
       "identifier": "controlLunOutlineBadged"
     },
     "control-lun-solid": {
-      "codepoint": 57615,
+      "codepoint": 57633,
       "fontFamily": "Clarity",
       "identifier": "controlLunSolid"
     },
     "control-lun-solid-alerted": {
-      "codepoint": 57616,
+      "codepoint": 57634,
       "fontFamily": "Clarity",
       "identifier": "controlLunSolidAlerted"
     },
     "control-lun-solid-badged": {
-      "codepoint": 57617,
+      "codepoint": 57635,
       "fontFamily": "Clarity",
       "identifier": "controlLunSolidBadged"
     },
     "copy-line": {
-      "codepoint": 57618,
+      "codepoint": 57636,
       "fontFamily": "Clarity",
       "identifier": "copyLine"
     },
     "copy-solid": {
-      "codepoint": 57619,
+      "codepoint": 57637,
       "fontFamily": "Clarity",
       "identifier": "copySolid"
     },
     "copy-to-clipboard-line": {
-      "codepoint": 57620,
+      "codepoint": 57638,
       "fontFamily": "Clarity",
       "identifier": "copyToClipboardLine"
     },
     "cpu-line": {
-      "codepoint": 57621,
+      "codepoint": 57639,
       "fontFamily": "Clarity",
       "identifier": "cpuLine"
     },
     "cpu-outline-alerted": {
-      "codepoint": 57622,
+      "codepoint": 57640,
       "fontFamily": "Clarity",
       "identifier": "cpuOutlineAlerted"
     },
     "cpu-outline-badged": {
-      "codepoint": 57623,
+      "codepoint": 57641,
       "fontFamily": "Clarity",
       "identifier": "cpuOutlineBadged"
     },
     "cpu-solid": {
-      "codepoint": 57624,
+      "codepoint": 57642,
       "fontFamily": "Clarity",
       "identifier": "cpuSolid"
     },
     "cpu-solid-alerted": {
-      "codepoint": 57625,
+      "codepoint": 57643,
       "fontFamily": "Clarity",
       "identifier": "cpuSolidAlerted"
     },
     "cpu-solid-badged": {
-      "codepoint": 57626,
+      "codepoint": 57644,
       "fontFamily": "Clarity",
       "identifier": "cpuSolidBadged"
     },
     "credit-card-line": {
-      "codepoint": 57627,
+      "codepoint": 57645,
       "fontFamily": "Clarity",
       "identifier": "creditCardLine"
     },
     "credit-card-solid": {
-      "codepoint": 57628,
+      "codepoint": 57646,
       "fontFamily": "Clarity",
       "identifier": "creditCardSolid"
     },
     "crosshairs-line": {
-      "codepoint": 57629,
+      "codepoint": 57647,
       "fontFamily": "Clarity",
       "identifier": "crosshairsLine"
     },
     "crown-line": {
-      "codepoint": 57630,
+      "codepoint": 57648,
       "fontFamily": "Clarity",
       "identifier": "crownLine"
     },
     "crown-solid": {
-      "codepoint": 57631,
+      "codepoint": 57649,
       "fontFamily": "Clarity",
       "identifier": "crownSolid"
     },
     "cursor-arrow-line": {
-      "codepoint": 57632,
+      "codepoint": 57650,
       "fontFamily": "Clarity",
       "identifier": "cursorArrowLine"
     },
     "cursor-arrow-solid": {
-      "codepoint": 57633,
+      "codepoint": 57651,
       "fontFamily": "Clarity",
       "identifier": "cursorArrowSolid"
     },
     "cursor-hand-click-line": {
-      "codepoint": 57634,
+      "codepoint": 57652,
       "fontFamily": "Clarity",
       "identifier": "cursorHandClickLine"
     },
     "cursor-hand-grab-line": {
-      "codepoint": 57635,
+      "codepoint": 57653,
       "fontFamily": "Clarity",
       "identifier": "cursorHandGrabLine"
     },
     "cursor-hand-line": {
-      "codepoint": 57636,
+      "codepoint": 57654,
       "fontFamily": "Clarity",
       "identifier": "cursorHandLine"
     },
     "cursor-hand-open-line": {
-      "codepoint": 57637,
+      "codepoint": 57655,
       "fontFamily": "Clarity",
       "identifier": "cursorHandOpenLine"
     },
     "cursor-hand-solid": {
-      "codepoint": 57638,
+      "codepoint": 57656,
       "fontFamily": "Clarity",
       "identifier": "cursorHandSolid"
     },
     "cursor-move-line": {
-      "codepoint": 57639,
+      "codepoint": 57657,
       "fontFamily": "Clarity",
       "identifier": "cursorMoveLine"
     },
+    "curve-chart-line": {
+      "codepoint": 57658,
+      "fontFamily": "Clarity",
+      "identifier": "curveChartLine"
+    },
+    "curve-chart-outline-alerted": {
+      "codepoint": 57659,
+      "fontFamily": "Clarity",
+      "identifier": "curveChartOutlineAlerted"
+    },
+    "curve-chart-outline-badged": {
+      "codepoint": 57660,
+      "fontFamily": "Clarity",
+      "identifier": "curveChartOutlineBadged"
+    },
+    "curve-chart-solid": {
+      "codepoint": 57661,
+      "fontFamily": "Clarity",
+      "identifier": "curveChartSolid"
+    },
+    "curve-chart-solid-alerted": {
+      "codepoint": 57662,
+      "fontFamily": "Clarity",
+      "identifier": "curveChartSolidAlerted"
+    },
+    "curve-chart-solid-badged": {
+      "codepoint": 57663,
+      "fontFamily": "Clarity",
+      "identifier": "curveChartSolidBadged"
+    },
     "dashboard-line": {
-      "codepoint": 57640,
+      "codepoint": 57664,
       "fontFamily": "Clarity",
       "identifier": "dashboardLine"
     },
     "dashboard-outline-badged": {
-      "codepoint": 57641,
+      "codepoint": 57665,
       "fontFamily": "Clarity",
       "identifier": "dashboardOutlineBadged"
     },
     "dashboard-solid": {
-      "codepoint": 57642,
+      "codepoint": 57666,
       "fontFamily": "Clarity",
       "identifier": "dashboardSolid"
     },
     "dashboard-solid-badged": {
-      "codepoint": 57643,
+      "codepoint": 57667,
       "fontFamily": "Clarity",
       "identifier": "dashboardSolidBadged"
     },
     "data-cluster-line": {
-      "codepoint": 57644,
+      "codepoint": 57668,
       "fontFamily": "Clarity",
       "identifier": "dataClusterLine"
     },
     "data-cluster-outline-alerted": {
-      "codepoint": 57645,
+      "codepoint": 57669,
       "fontFamily": "Clarity",
       "identifier": "dataClusterOutlineAlerted"
     },
     "data-cluster-outline-badged": {
-      "codepoint": 57646,
+      "codepoint": 57670,
       "fontFamily": "Clarity",
       "identifier": "dataClusterOutlineBadged"
     },
     "data-cluster-solid": {
-      "codepoint": 57647,
+      "codepoint": 57671,
       "fontFamily": "Clarity",
       "identifier": "dataClusterSolid"
     },
     "data-cluster-solid-alerted": {
-      "codepoint": 57648,
+      "codepoint": 57672,
       "fontFamily": "Clarity",
       "identifier": "dataClusterSolidAlerted"
     },
     "data-cluster-solid-badged": {
-      "codepoint": 57649,
+      "codepoint": 57673,
       "fontFamily": "Clarity",
       "identifier": "dataClusterSolidBadged"
     },
     "date-line": {
-      "codepoint": 57650,
+      "codepoint": 57674,
       "fontFamily": "Clarity",
       "identifier": "dateLine"
     },
     "date-outline-alerted": {
-      "codepoint": 57651,
+      "codepoint": 57675,
       "fontFamily": "Clarity",
       "identifier": "dateOutlineAlerted"
     },
     "date-outline-badged": {
-      "codepoint": 57652,
+      "codepoint": 57676,
       "fontFamily": "Clarity",
       "identifier": "dateOutlineBadged"
     },
     "date-solid": {
-      "codepoint": 57653,
+      "codepoint": 57677,
       "fontFamily": "Clarity",
       "identifier": "dateSolid"
     },
     "date-solid-alerted": {
-      "codepoint": 57654,
+      "codepoint": 57678,
       "fontFamily": "Clarity",
       "identifier": "dateSolidAlerted"
     },
     "date-solid-badged": {
-      "codepoint": 57655,
+      "codepoint": 57679,
       "fontFamily": "Clarity",
       "identifier": "dateSolidBadged"
     },
     "deploy-line": {
-      "codepoint": 57656,
+      "codepoint": 57680,
       "fontFamily": "Clarity",
       "identifier": "deployLine"
     },
     "deploy-solid": {
-      "codepoint": 57657,
+      "codepoint": 57681,
       "fontFamily": "Clarity",
       "identifier": "deploySolid"
     },
     "design-line": {
-      "codepoint": 57658,
+      "codepoint": 57682,
       "fontFamily": "Clarity",
       "identifier": "designLine"
     },
     "design-solid": {
-      "codepoint": 57659,
+      "codepoint": 57683,
       "fontFamily": "Clarity",
       "identifier": "designSolid"
     },
     "details-line": {
-      "codepoint": 57660,
+      "codepoint": 57684,
       "fontFamily": "Clarity",
       "identifier": "detailsLine"
     },
     "details-solid": {
-      "codepoint": 57661,
+      "codepoint": 57685,
       "fontFamily": "Clarity",
       "identifier": "detailsSolid"
     },
     "devices-line": {
-      "codepoint": 57662,
+      "codepoint": 57686,
       "fontFamily": "Clarity",
       "identifier": "devicesLine"
     },
     "devices-solid": {
-      "codepoint": 57663,
+      "codepoint": 57687,
       "fontFamily": "Clarity",
       "identifier": "devicesSolid"
     },
     "digital-signature-line": {
-      "codepoint": 57664,
+      "codepoint": 57688,
       "fontFamily": "Clarity",
       "identifier": "digitalSignatureLine"
     },
     "directory-line": {
-      "codepoint": 57665,
+      "codepoint": 57689,
       "fontFamily": "Clarity",
       "identifier": "directoryLine"
     },
     "directory-outline-alerted": {
-      "codepoint": 57666,
+      "codepoint": 57690,
       "fontFamily": "Clarity",
       "identifier": "directoryOutlineAlerted"
     },
     "directory-outline-badged": {
-      "codepoint": 57667,
+      "codepoint": 57691,
       "fontFamily": "Clarity",
       "identifier": "directoryOutlineBadged"
     },
     "directory-solid": {
-      "codepoint": 57668,
+      "codepoint": 57692,
       "fontFamily": "Clarity",
       "identifier": "directorySolid"
     },
     "directory-solid-alerted": {
-      "codepoint": 57669,
+      "codepoint": 57693,
       "fontFamily": "Clarity",
       "identifier": "directorySolidAlerted"
     },
     "directory-solid-badged": {
-      "codepoint": 57670,
+      "codepoint": 57694,
       "fontFamily": "Clarity",
       "identifier": "directorySolidBadged"
     },
     "disconnect-line": {
-      "codepoint": 57671,
+      "codepoint": 57695,
       "fontFamily": "Clarity",
       "identifier": "disconnectLine"
     },
     "disconnect-solid": {
-      "codepoint": 57672,
+      "codepoint": 57696,
       "fontFamily": "Clarity",
       "identifier": "disconnectSolid"
     },
     "disconnected-line": {
-      "codepoint": 57673,
+      "codepoint": 57697,
       "fontFamily": "Clarity",
       "identifier": "disconnectedLine"
     },
     "disconnected-solid": {
-      "codepoint": 57674,
+      "codepoint": 57698,
       "fontFamily": "Clarity",
       "identifier": "disconnectedSolid"
     },
     "display-line": {
-      "codepoint": 57675,
+      "codepoint": 57699,
       "fontFamily": "Clarity",
       "identifier": "displayLine"
     },
     "display-outline-alerted": {
-      "codepoint": 57676,
+      "codepoint": 57700,
       "fontFamily": "Clarity",
       "identifier": "displayOutlineAlerted"
     },
     "display-outline-badged": {
-      "codepoint": 57677,
+      "codepoint": 57701,
       "fontFamily": "Clarity",
       "identifier": "displayOutlineBadged"
     },
     "display-solid": {
-      "codepoint": 57678,
+      "codepoint": 57702,
       "fontFamily": "Clarity",
       "identifier": "displaySolid"
     },
     "display-solid-alerted": {
-      "codepoint": 57679,
+      "codepoint": 57703,
       "fontFamily": "Clarity",
       "identifier": "displaySolidAlerted"
     },
     "display-solid-badged": {
-      "codepoint": 57680,
+      "codepoint": 57704,
       "fontFamily": "Clarity",
       "identifier": "displaySolidBadged"
     },
     "dna-line": {
-      "codepoint": 57681,
+      "codepoint": 57705,
       "fontFamily": "Clarity",
       "identifier": "dnaLine"
     },
     "dna-solid": {
-      "codepoint": 57682,
+      "codepoint": 57706,
       "fontFamily": "Clarity",
       "identifier": "dnaSolid"
     },
     "document-line": {
-      "codepoint": 57683,
+      "codepoint": 57707,
       "fontFamily": "Clarity",
       "identifier": "documentLine"
     },
     "document-outline-alerted": {
-      "codepoint": 57684,
+      "codepoint": 57708,
       "fontFamily": "Clarity",
       "identifier": "documentOutlineAlerted"
     },
     "document-outline-badged": {
-      "codepoint": 57685,
+      "codepoint": 57709,
       "fontFamily": "Clarity",
       "identifier": "documentOutlineBadged"
     },
     "document-solid": {
-      "codepoint": 57686,
+      "codepoint": 57710,
       "fontFamily": "Clarity",
       "identifier": "documentSolid"
     },
     "document-solid-alerted": {
-      "codepoint": 57687,
+      "codepoint": 57711,
       "fontFamily": "Clarity",
       "identifier": "documentSolidAlerted"
     },
     "document-solid-badged": {
-      "codepoint": 57688,
+      "codepoint": 57712,
       "fontFamily": "Clarity",
       "identifier": "documentSolidBadged"
     },
     "dollar-bill-line": {
-      "codepoint": 57689,
+      "codepoint": 57713,
       "fontFamily": "Clarity",
       "identifier": "dollarBillLine"
     },
     "dollar-bill-solid": {
-      "codepoint": 57690,
+      "codepoint": 57714,
       "fontFamily": "Clarity",
       "identifier": "dollarBillSolid"
     },
     "dollar-line": {
-      "codepoint": 57691,
+      "codepoint": 57715,
       "fontFamily": "Clarity",
       "identifier": "dollarLine"
     },
     "dollar-solid": {
-      "codepoint": 57692,
+      "codepoint": 57716,
       "fontFamily": "Clarity",
       "identifier": "dollarSolid"
     },
     "dot-circle-line": {
-      "codepoint": 57693,
+      "codepoint": 57717,
       "fontFamily": "Clarity",
       "identifier": "dotCircleLine"
     },
     "download-cloud-line": {
-      "codepoint": 57694,
+      "codepoint": 57718,
       "fontFamily": "Clarity",
       "identifier": "downloadCloudLine"
     },
     "download-cloud-outline-alerted": {
-      "codepoint": 57695,
+      "codepoint": 57719,
       "fontFamily": "Clarity",
       "identifier": "downloadCloudOutlineAlerted"
     },
     "download-cloud-outline-badged": {
-      "codepoint": 57696,
+      "codepoint": 57720,
       "fontFamily": "Clarity",
       "identifier": "downloadCloudOutlineBadged"
     },
     "download-line": {
-      "codepoint": 57697,
+      "codepoint": 57721,
       "fontFamily": "Clarity",
       "identifier": "downloadLine"
     },
     "download-outline-alerted": {
-      "codepoint": 57698,
+      "codepoint": 57722,
       "fontFamily": "Clarity",
       "identifier": "downloadOutlineAlerted"
     },
     "download-outline-badged": {
-      "codepoint": 57699,
+      "codepoint": 57723,
       "fontFamily": "Clarity",
       "identifier": "downloadOutlineBadged"
     },
     "drag-handle-corner-line": {
-      "codepoint": 57700,
+      "codepoint": 57724,
       "fontFamily": "Clarity",
       "identifier": "dragHandleCornerLine"
     },
     "drag-handle-line": {
-      "codepoint": 57701,
+      "codepoint": 57725,
       "fontFamily": "Clarity",
       "identifier": "dragHandleLine"
     },
     "e-check-line": {
-      "codepoint": 57702,
+      "codepoint": 57726,
       "fontFamily": "Clarity",
       "identifier": "eCheckLine"
     },
     "e-check-solid": {
-      "codepoint": 57703,
+      "codepoint": 57727,
       "fontFamily": "Clarity",
       "identifier": "eCheckSolid"
     },
     "edit-line": {
-      "codepoint": 57704,
+      "codepoint": 57728,
       "fontFamily": "Clarity",
       "identifier": "editLine"
     },
     "edit-solid": {
-      "codepoint": 57705,
+      "codepoint": 57729,
       "fontFamily": "Clarity",
       "identifier": "editSolid"
     },
     "ellipsis-horizontal-line": {
-      "codepoint": 57706,
+      "codepoint": 57730,
       "fontFamily": "Clarity",
       "identifier": "ellipsisHorizontalLine"
     },
     "ellipsis-horizontal-outline-badged": {
-      "codepoint": 57707,
+      "codepoint": 57731,
       "fontFamily": "Clarity",
       "identifier": "ellipsisHorizontalOutlineBadged"
     },
     "ellipsis-vertical-line": {
-      "codepoint": 57708,
+      "codepoint": 57732,
       "fontFamily": "Clarity",
       "identifier": "ellipsisVerticalLine"
     },
     "ellipsis-vertical-outline-badged": {
-      "codepoint": 57709,
+      "codepoint": 57733,
       "fontFamily": "Clarity",
       "identifier": "ellipsisVerticalOutlineBadged"
     },
     "email-line": {
-      "codepoint": 57710,
+      "codepoint": 57734,
       "fontFamily": "Clarity",
       "identifier": "emailLine"
     },
     "email-outline-alerted": {
-      "codepoint": 57711,
+      "codepoint": 57735,
       "fontFamily": "Clarity",
       "identifier": "emailOutlineAlerted"
     },
     "email-outline-badged": {
-      "codepoint": 57712,
+      "codepoint": 57736,
       "fontFamily": "Clarity",
       "identifier": "emailOutlineBadged"
     },
     "email-solid": {
-      "codepoint": 57713,
+      "codepoint": 57737,
       "fontFamily": "Clarity",
       "identifier": "emailSolid"
     },
     "email-solid-alerted": {
-      "codepoint": 57714,
+      "codepoint": 57738,
       "fontFamily": "Clarity",
       "identifier": "emailSolidAlerted"
     },
     "email-solid-badged": {
-      "codepoint": 57715,
+      "codepoint": 57739,
       "fontFamily": "Clarity",
       "identifier": "emailSolidBadged"
     },
     "employee-group-line": {
-      "codepoint": 57716,
+      "codepoint": 57740,
       "fontFamily": "Clarity",
       "identifier": "employeeGroupLine"
     },
     "employee-group-solid": {
-      "codepoint": 57717,
+      "codepoint": 57741,
       "fontFamily": "Clarity",
       "identifier": "employeeGroupSolid"
     },
     "employee-line": {
-      "codepoint": 57718,
+      "codepoint": 57742,
       "fontFamily": "Clarity",
       "identifier": "employeeLine"
     },
     "employee-solid": {
-      "codepoint": 57719,
+      "codepoint": 57743,
       "fontFamily": "Clarity",
       "identifier": "employeeSolid"
     },
     "envelope-line": {
-      "codepoint": 57720,
+      "codepoint": 57744,
       "fontFamily": "Clarity",
       "identifier": "envelopeLine"
     },
     "envelope-outline-alerted": {
-      "codepoint": 57721,
+      "codepoint": 57745,
       "fontFamily": "Clarity",
       "identifier": "envelopeOutlineAlerted"
     },
     "envelope-outline-badged": {
-      "codepoint": 57722,
+      "codepoint": 57746,
       "fontFamily": "Clarity",
       "identifier": "envelopeOutlineBadged"
     },
     "envelope-solid": {
-      "codepoint": 57723,
+      "codepoint": 57747,
       "fontFamily": "Clarity",
       "identifier": "envelopeSolid"
     },
     "envelope-solid-alerted": {
-      "codepoint": 57724,
+      "codepoint": 57748,
       "fontFamily": "Clarity",
       "identifier": "envelopeSolidAlerted"
     },
     "envelope-solid-badged": {
-      "codepoint": 57725,
+      "codepoint": 57749,
       "fontFamily": "Clarity",
       "identifier": "envelopeSolidBadged"
     },
     "eraser-line": {
-      "codepoint": 57726,
+      "codepoint": 57750,
       "fontFamily": "Clarity",
       "identifier": "eraserLine"
     },
     "eraser-solid": {
-      "codepoint": 57727,
+      "codepoint": 57751,
       "fontFamily": "Clarity",
       "identifier": "eraserSolid"
     },
     "error-line": {
-      "codepoint": 57728,
+      "codepoint": 57752,
       "fontFamily": "Clarity",
       "identifier": "errorLine"
     },
     "error-solid": {
-      "codepoint": 57729,
+      "codepoint": 57753,
       "fontFamily": "Clarity",
       "identifier": "errorSolid"
     },
     "error-standard-line": {
-      "codepoint": 57730,
+      "codepoint": 57754,
       "fontFamily": "Clarity",
       "identifier": "errorStandardLine"
     },
     "error-standard-solid": {
-      "codepoint": 57731,
+      "codepoint": 57755,
       "fontFamily": "Clarity",
       "identifier": "errorStandardSolid"
     },
     "euro-line": {
-      "codepoint": 57732,
+      "codepoint": 57756,
       "fontFamily": "Clarity",
       "identifier": "euroLine"
     },
     "euro-solid": {
-      "codepoint": 57733,
+      "codepoint": 57757,
       "fontFamily": "Clarity",
       "identifier": "euroSolid"
     },
     "event-line": {
-      "codepoint": 57734,
+      "codepoint": 57758,
       "fontFamily": "Clarity",
       "identifier": "eventLine"
     },
     "event-outline-alerted": {
-      "codepoint": 57735,
+      "codepoint": 57759,
       "fontFamily": "Clarity",
       "identifier": "eventOutlineAlerted"
     },
     "event-outline-badged": {
-      "codepoint": 57736,
+      "codepoint": 57760,
       "fontFamily": "Clarity",
       "identifier": "eventOutlineBadged"
     },
     "event-solid": {
-      "codepoint": 57737,
+      "codepoint": 57761,
       "fontFamily": "Clarity",
       "identifier": "eventSolid"
     },
     "event-solid-alerted": {
-      "codepoint": 57738,
+      "codepoint": 57762,
       "fontFamily": "Clarity",
       "identifier": "eventSolidAlerted"
     },
     "event-solid-badged": {
-      "codepoint": 57739,
+      "codepoint": 57763,
       "fontFamily": "Clarity",
       "identifier": "eventSolidBadged"
     },
     "exclamation-circle-line": {
-      "codepoint": 57740,
+      "codepoint": 57764,
       "fontFamily": "Clarity",
       "identifier": "exclamationCircleLine"
     },
     "exclamation-circle-solid": {
-      "codepoint": 57741,
+      "codepoint": 57765,
       "fontFamily": "Clarity",
       "identifier": "exclamationCircleSolid"
     },
     "exclamation-triangle-line": {
-      "codepoint": 57742,
+      "codepoint": 57766,
       "fontFamily": "Clarity",
       "identifier": "exclamationTriangleLine"
     },
     "exclamation-triangle-solid": {
-      "codepoint": 57743,
+      "codepoint": 57767,
       "fontFamily": "Clarity",
       "identifier": "exclamationTriangleSolid"
     },
     "expand-card-line": {
-      "codepoint": 57744,
+      "codepoint": 57768,
       "fontFamily": "Clarity",
       "identifier": "expandCardLine"
     },
     "expand-card-solid": {
-      "codepoint": 57745,
+      "codepoint": 57769,
       "fontFamily": "Clarity",
       "identifier": "expandCardSolid"
     },
     "export-line": {
-      "codepoint": 57746,
+      "codepoint": 57770,
       "fontFamily": "Clarity",
       "identifier": "exportLine"
     },
     "export-outline-alerted": {
-      "codepoint": 57747,
+      "codepoint": 57771,
       "fontFamily": "Clarity",
       "identifier": "exportOutlineAlerted"
     },
     "export-outline-badged": {
-      "codepoint": 57748,
+      "codepoint": 57772,
       "fontFamily": "Clarity",
       "identifier": "exportOutlineBadged"
     },
     "export-solid": {
-      "codepoint": 57749,
+      "codepoint": 57773,
       "fontFamily": "Clarity",
       "identifier": "exportSolid"
     },
     "export-solid-alerted": {
-      "codepoint": 57750,
+      "codepoint": 57774,
       "fontFamily": "Clarity",
       "identifier": "exportSolidAlerted"
     },
     "export-solid-badged": {
-      "codepoint": 57751,
+      "codepoint": 57775,
       "fontFamily": "Clarity",
       "identifier": "exportSolidBadged"
     },
     "eye-hide-line": {
-      "codepoint": 57752,
+      "codepoint": 57776,
       "fontFamily": "Clarity",
       "identifier": "eyeHideLine"
     },
     "eye-hide-solid": {
-      "codepoint": 57753,
+      "codepoint": 57777,
       "fontFamily": "Clarity",
       "identifier": "eyeHideSolid"
     },
     "eye-line": {
-      "codepoint": 57754,
+      "codepoint": 57778,
       "fontFamily": "Clarity",
       "identifier": "eyeLine"
     },
     "eye-show-line": {
-      "codepoint": 57755,
+      "codepoint": 57779,
       "fontFamily": "Clarity",
       "identifier": "eyeShowLine"
     },
     "eye-show-solid": {
-      "codepoint": 57756,
+      "codepoint": 57780,
       "fontFamily": "Clarity",
       "identifier": "eyeShowSolid"
     },
     "eye-solid": {
-      "codepoint": 57757,
+      "codepoint": 57781,
       "fontFamily": "Clarity",
       "identifier": "eyeSolid"
     },
     "factory-line": {
-      "codepoint": 57758,
+      "codepoint": 57782,
       "fontFamily": "Clarity",
       "identifier": "factoryLine"
     },
     "factory-solid": {
-      "codepoint": 57759,
+      "codepoint": 57783,
       "fontFamily": "Clarity",
       "identifier": "factorySolid"
     },
     "fast-forward-line": {
-      "codepoint": 57760,
+      "codepoint": 57784,
       "fontFamily": "Clarity",
       "identifier": "fastForwardLine"
     },
     "fast-forward-solid": {
-      "codepoint": 57761,
+      "codepoint": 57785,
       "fontFamily": "Clarity",
       "identifier": "fastForwardSolid"
     },
     "favorite-line": {
-      "codepoint": 57762,
+      "codepoint": 57786,
       "fontFamily": "Clarity",
       "identifier": "favoriteLine"
     },
     "favorite-solid": {
-      "codepoint": 57763,
+      "codepoint": 57787,
       "fontFamily": "Clarity",
       "identifier": "favoriteSolid"
     },
     "ferry-line": {
-      "codepoint": 57764,
+      "codepoint": 57788,
       "fontFamily": "Clarity",
       "identifier": "ferryLine"
     },
     "ferry-solid": {
-      "codepoint": 57765,
+      "codepoint": 57789,
       "fontFamily": "Clarity",
       "identifier": "ferrySolid"
     },
     "file-group-line": {
-      "codepoint": 57766,
+      "codepoint": 57790,
       "fontFamily": "Clarity",
       "identifier": "fileGroupLine"
     },
     "file-group-solid": {
-      "codepoint": 57767,
+      "codepoint": 57791,
       "fontFamily": "Clarity",
       "identifier": "fileGroupSolid"
     },
     "file-line": {
-      "codepoint": 57768,
+      "codepoint": 57792,
       "fontFamily": "Clarity",
       "identifier": "fileLine"
     },
     "file-outline-alerted": {
-      "codepoint": 57769,
+      "codepoint": 57793,
       "fontFamily": "Clarity",
       "identifier": "fileOutlineAlerted"
     },
     "file-outline-badged": {
-      "codepoint": 57770,
+      "codepoint": 57794,
       "fontFamily": "Clarity",
       "identifier": "fileOutlineBadged"
     },
     "file-settings-line": {
-      "codepoint": 57771,
+      "codepoint": 57795,
       "fontFamily": "Clarity",
       "identifier": "fileSettingsLine"
     },
     "file-settings-outline-alerted": {
-      "codepoint": 57772,
+      "codepoint": 57796,
       "fontFamily": "Clarity",
       "identifier": "fileSettingsOutlineAlerted"
     },
     "file-settings-outline-badged": {
-      "codepoint": 57773,
+      "codepoint": 57797,
       "fontFamily": "Clarity",
       "identifier": "fileSettingsOutlineBadged"
     },
     "file-settings-solid": {
-      "codepoint": 57774,
+      "codepoint": 57798,
       "fontFamily": "Clarity",
       "identifier": "fileSettingsSolid"
     },
     "file-settings-solid-alerted": {
-      "codepoint": 57775,
+      "codepoint": 57799,
       "fontFamily": "Clarity",
       "identifier": "fileSettingsSolidAlerted"
     },
     "file-settings-solid-badged": {
-      "codepoint": 57776,
+      "codepoint": 57800,
       "fontFamily": "Clarity",
       "identifier": "fileSettingsSolidBadged"
     },
     "file-share-2-line": {
-      "codepoint": 57777,
+      "codepoint": 57801,
       "fontFamily": "Clarity",
       "identifier": "fileShare2Line"
     },
     "file-share-2-solid": {
-      "codepoint": 57778,
+      "codepoint": 57802,
       "fontFamily": "Clarity",
       "identifier": "fileShare2Solid"
     },
     "file-share-line": {
-      "codepoint": 57779,
+      "codepoint": 57803,
       "fontFamily": "Clarity",
       "identifier": "fileShareLine"
     },
     "file-share-solid": {
-      "codepoint": 57780,
+      "codepoint": 57804,
       "fontFamily": "Clarity",
       "identifier": "fileShareSolid"
     },
     "file-solid": {
-      "codepoint": 57781,
+      "codepoint": 57805,
       "fontFamily": "Clarity",
       "identifier": "fileSolid"
     },
     "file-solid-alerted": {
-      "codepoint": 57782,
+      "codepoint": 57806,
       "fontFamily": "Clarity",
       "identifier": "fileSolidAlerted"
     },
     "file-solid-badged": {
-      "codepoint": 57783,
+      "codepoint": 57807,
       "fontFamily": "Clarity",
       "identifier": "fileSolidBadged"
     },
     "file-zip-line": {
-      "codepoint": 57784,
+      "codepoint": 57808,
       "fontFamily": "Clarity",
       "identifier": "fileZipLine"
     },
     "file-zip-solid": {
-      "codepoint": 57785,
+      "codepoint": 57809,
       "fontFamily": "Clarity",
       "identifier": "fileZipSolid"
     },
     "film-strip-line": {
-      "codepoint": 57786,
+      "codepoint": 57810,
       "fontFamily": "Clarity",
       "identifier": "filmStripLine"
     },
     "film-strip-solid": {
-      "codepoint": 57787,
+      "codepoint": 57811,
       "fontFamily": "Clarity",
       "identifier": "filmStripSolid"
     },
     "filter-2-line": {
-      "codepoint": 57788,
+      "codepoint": 57812,
       "fontFamily": "Clarity",
       "identifier": "filter2Line"
     },
     "filter-grid-circle-line": {
-      "codepoint": 57789,
+      "codepoint": 57813,
       "fontFamily": "Clarity",
       "identifier": "filterGridCircleLine"
     },
     "filter-grid-circle-solid": {
-      "codepoint": 57790,
+      "codepoint": 57814,
       "fontFamily": "Clarity",
       "identifier": "filterGridCircleSolid"
     },
     "filter-grid-line": {
-      "codepoint": 57791,
+      "codepoint": 57815,
       "fontFamily": "Clarity",
       "identifier": "filterGridLine"
     },
     "filter-grid-solid": {
-      "codepoint": 57792,
+      "codepoint": 57816,
       "fontFamily": "Clarity",
       "identifier": "filterGridSolid"
     },
     "filter-line": {
-      "codepoint": 57793,
+      "codepoint": 57817,
       "fontFamily": "Clarity",
       "identifier": "filterLine"
     },
     "filter-off-line": {
-      "codepoint": 57794,
+      "codepoint": 57818,
       "fontFamily": "Clarity",
       "identifier": "filterOffLine"
     },
     "filter-off-solid": {
-      "codepoint": 57795,
+      "codepoint": 57819,
       "fontFamily": "Clarity",
       "identifier": "filterOffSolid"
     },
     "filter-solid": {
-      "codepoint": 57796,
+      "codepoint": 57820,
       "fontFamily": "Clarity",
       "identifier": "filterSolid"
     },
     "firewall-line": {
-      "codepoint": 57797,
+      "codepoint": 57821,
       "fontFamily": "Clarity",
       "identifier": "firewallLine"
     },
     "firewall-outline-alerted": {
-      "codepoint": 57798,
+      "codepoint": 57822,
       "fontFamily": "Clarity",
       "identifier": "firewallOutlineAlerted"
     },
     "firewall-outline-badged": {
-      "codepoint": 57799,
+      "codepoint": 57823,
       "fontFamily": "Clarity",
       "identifier": "firewallOutlineBadged"
     },
     "firewall-solid": {
-      "codepoint": 57800,
+      "codepoint": 57824,
       "fontFamily": "Clarity",
       "identifier": "firewallSolid"
     },
     "firewall-solid-alerted": {
-      "codepoint": 57801,
+      "codepoint": 57825,
       "fontFamily": "Clarity",
       "identifier": "firewallSolidAlerted"
     },
     "firewall-solid-badged": {
-      "codepoint": 57802,
+      "codepoint": 57826,
       "fontFamily": "Clarity",
       "identifier": "firewallSolidBadged"
     },
     "first-aid-kit-line": {
-      "codepoint": 57803,
+      "codepoint": 57827,
       "fontFamily": "Clarity",
       "identifier": "firstAidKitLine"
     },
     "first-aid-kit-solid": {
-      "codepoint": 57804,
+      "codepoint": 57828,
       "fontFamily": "Clarity",
       "identifier": "firstAidKitSolid"
     },
     "fish-line": {
-      "codepoint": 57805,
+      "codepoint": 57829,
       "fontFamily": "Clarity",
       "identifier": "fishLine"
     },
     "flag-line": {
-      "codepoint": 57806,
+      "codepoint": 57830,
       "fontFamily": "Clarity",
       "identifier": "flagLine"
     },
     "flag-solid": {
-      "codepoint": 57807,
+      "codepoint": 57831,
       "fontFamily": "Clarity",
       "identifier": "flagSolid"
     },
     "flame-line": {
-      "codepoint": 57808,
+      "codepoint": 57832,
       "fontFamily": "Clarity",
       "identifier": "flameLine"
     },
     "flame-solid": {
-      "codepoint": 57809,
+      "codepoint": 57833,
       "fontFamily": "Clarity",
       "identifier": "flameSolid"
     },
     "flask-line": {
-      "codepoint": 57810,
+      "codepoint": 57834,
       "fontFamily": "Clarity",
       "identifier": "flaskLine"
     },
     "flask-solid": {
-      "codepoint": 57811,
+      "codepoint": 57835,
       "fontFamily": "Clarity",
       "identifier": "flaskSolid"
     },
     "floppy-line": {
-      "codepoint": 57812,
+      "codepoint": 57836,
       "fontFamily": "Clarity",
       "identifier": "floppyLine"
     },
     "floppy-outline-alerted": {
-      "codepoint": 57813,
+      "codepoint": 57837,
       "fontFamily": "Clarity",
       "identifier": "floppyOutlineAlerted"
     },
     "floppy-outline-badged": {
-      "codepoint": 57814,
+      "codepoint": 57838,
       "fontFamily": "Clarity",
       "identifier": "floppyOutlineBadged"
     },
     "floppy-solid": {
-      "codepoint": 57815,
+      "codepoint": 57839,
       "fontFamily": "Clarity",
       "identifier": "floppySolid"
     },
     "floppy-solid-alerted": {
-      "codepoint": 57816,
+      "codepoint": 57840,
       "fontFamily": "Clarity",
       "identifier": "floppySolidAlerted"
     },
     "floppy-solid-badged": {
-      "codepoint": 57817,
+      "codepoint": 57841,
       "fontFamily": "Clarity",
       "identifier": "floppySolidBadged"
     },
     "flow-chart-line": {
-      "codepoint": 57818,
+      "codepoint": 57842,
       "fontFamily": "Clarity",
       "identifier": "flowChartLine"
     },
     "flow-chart-solid": {
-      "codepoint": 57819,
+      "codepoint": 57843,
       "fontFamily": "Clarity",
       "identifier": "flowChartSolid"
     },
     "folder-line": {
-      "codepoint": 57820,
+      "codepoint": 57844,
       "fontFamily": "Clarity",
       "identifier": "folderLine"
     },
     "folder-open-line": {
-      "codepoint": 57821,
+      "codepoint": 57845,
       "fontFamily": "Clarity",
       "identifier": "folderOpenLine"
     },
     "folder-open-outline-alerted": {
-      "codepoint": 57822,
+      "codepoint": 57846,
       "fontFamily": "Clarity",
       "identifier": "folderOpenOutlineAlerted"
     },
     "folder-open-outline-badged": {
-      "codepoint": 57823,
+      "codepoint": 57847,
       "fontFamily": "Clarity",
       "identifier": "folderOpenOutlineBadged"
     },
     "folder-open-solid": {
-      "codepoint": 57824,
+      "codepoint": 57848,
       "fontFamily": "Clarity",
       "identifier": "folderOpenSolid"
     },
     "folder-open-solid-alerted": {
-      "codepoint": 57825,
+      "codepoint": 57849,
       "fontFamily": "Clarity",
       "identifier": "folderOpenSolidAlerted"
     },
     "folder-open-solid-badged": {
-      "codepoint": 57826,
+      "codepoint": 57850,
       "fontFamily": "Clarity",
       "identifier": "folderOpenSolidBadged"
     },
     "folder-outline-alerted": {
-      "codepoint": 57827,
+      "codepoint": 57851,
       "fontFamily": "Clarity",
       "identifier": "folderOutlineAlerted"
     },
     "folder-outline-badged": {
-      "codepoint": 57828,
+      "codepoint": 57852,
       "fontFamily": "Clarity",
       "identifier": "folderOutlineBadged"
     },
     "folder-solid": {
-      "codepoint": 57829,
+      "codepoint": 57853,
       "fontFamily": "Clarity",
       "identifier": "folderSolid"
     },
     "folder-solid-alerted": {
-      "codepoint": 57830,
+      "codepoint": 57854,
       "fontFamily": "Clarity",
       "identifier": "folderSolidAlerted"
     },
     "folder-solid-badged": {
-      "codepoint": 57831,
+      "codepoint": 57855,
       "fontFamily": "Clarity",
       "identifier": "folderSolidBadged"
     },
     "font-size-line": {
-      "codepoint": 57832,
+      "codepoint": 57856,
       "fontFamily": "Clarity",
       "identifier": "fontSizeLine"
     },
     "forking-line": {
-      "codepoint": 57833,
+      "codepoint": 57857,
       "fontFamily": "Clarity",
       "identifier": "forkingLine"
     },
     "form-line": {
-      "codepoint": 57834,
+      "codepoint": 57858,
       "fontFamily": "Clarity",
       "identifier": "formLine"
     },
     "fuel-line": {
-      "codepoint": 57835,
+      "codepoint": 57859,
       "fontFamily": "Clarity",
       "identifier": "fuelLine"
     },
     "gavel-line": {
-      "codepoint": 57836,
+      "codepoint": 57860,
       "fontFamily": "Clarity",
       "identifier": "gavelLine"
     },
     "gavel-solid": {
-      "codepoint": 57837,
+      "codepoint": 57861,
       "fontFamily": "Clarity",
       "identifier": "gavelSolid"
     },
     "grid-chart-line": {
-      "codepoint": 57838,
+      "codepoint": 57862,
       "fontFamily": "Clarity",
       "identifier": "gridChartLine"
     },
     "grid-chart-outline-alerted": {
-      "codepoint": 57839,
+      "codepoint": 57863,
       "fontFamily": "Clarity",
       "identifier": "gridChartOutlineAlerted"
     },
+    "grid-chart-outline-badged": {
+      "codepoint": 57864,
+      "fontFamily": "Clarity",
+      "identifier": "gridChartOutlineBadged"
+    },
     "grid-chart-solid": {
-      "codepoint": 57840,
+      "codepoint": 57865,
       "fontFamily": "Clarity",
       "identifier": "gridChartSolid"
     },
+    "grid-chart-solid-alerted": {
+      "codepoint": 57866,
+      "fontFamily": "Clarity",
+      "identifier": "gridChartSolidAlerted"
+    },
     "grid-chart-solid-badged": {
-      "codepoint": 57841,
+      "codepoint": 57867,
       "fontFamily": "Clarity",
       "identifier": "gridChartSolidBadged"
     },
     "grid-view-line": {
-      "codepoint": 57842,
+      "codepoint": 57868,
       "fontFamily": "Clarity",
       "identifier": "gridViewLine"
     },
     "grid-view-solid": {
-      "codepoint": 57843,
+      "codepoint": 57869,
       "fontFamily": "Clarity",
       "identifier": "gridViewSolid"
     },
     "group-line": {
-      "codepoint": 57844,
+      "codepoint": 57870,
       "fontFamily": "Clarity",
       "identifier": "groupLine"
     },
     "group-outline-alerted": {
-      "codepoint": 57845,
+      "codepoint": 57871,
       "fontFamily": "Clarity",
       "identifier": "groupOutlineAlerted"
     },
     "group-outline-badged": {
-      "codepoint": 57846,
+      "codepoint": 57872,
       "fontFamily": "Clarity",
       "identifier": "groupOutlineBadged"
     },
     "group-solid": {
-      "codepoint": 57847,
+      "codepoint": 57873,
       "fontFamily": "Clarity",
       "identifier": "groupSolid"
     },
     "group-solid-alerted": {
-      "codepoint": 57848,
+      "codepoint": 57874,
       "fontFamily": "Clarity",
       "identifier": "groupSolidAlerted"
     },
     "group-solid-badged": {
-      "codepoint": 57849,
+      "codepoint": 57875,
       "fontFamily": "Clarity",
       "identifier": "groupSolidBadged"
     },
     "half-star-line": {
-      "codepoint": 57850,
+      "codepoint": 57876,
       "fontFamily": "Clarity",
       "identifier": "halfStarLine"
     },
     "half-star-solid": {
-      "codepoint": 57851,
+      "codepoint": 57877,
       "fontFamily": "Clarity",
       "identifier": "halfStarSolid"
     },
     "happy-face-line": {
-      "codepoint": 57852,
+      "codepoint": 57878,
       "fontFamily": "Clarity",
       "identifier": "happyFaceLine"
     },
     "happy-face-solid": {
-      "codepoint": 57853,
+      "codepoint": 57879,
       "fontFamily": "Clarity",
       "identifier": "happyFaceSolid"
     },
     "hard-disk-line": {
-      "codepoint": 57854,
+      "codepoint": 57880,
       "fontFamily": "Clarity",
       "identifier": "hardDiskLine"
     },
     "hard-disk-outline-alerted": {
-      "codepoint": 57855,
+      "codepoint": 57881,
       "fontFamily": "Clarity",
       "identifier": "hardDiskOutlineAlerted"
     },
     "hard-disk-outline-badged": {
-      "codepoint": 57856,
+      "codepoint": 57882,
       "fontFamily": "Clarity",
       "identifier": "hardDiskOutlineBadged"
     },
     "hard-disk-solid": {
-      "codepoint": 57857,
+      "codepoint": 57883,
       "fontFamily": "Clarity",
       "identifier": "hardDiskSolid"
     },
     "hard-disk-solid-alerted": {
-      "codepoint": 57858,
+      "codepoint": 57884,
       "fontFamily": "Clarity",
       "identifier": "hardDiskSolidAlerted"
     },
     "hard-disk-solid-badged": {
-      "codepoint": 57859,
+      "codepoint": 57885,
       "fontFamily": "Clarity",
       "identifier": "hardDiskSolidBadged"
     },
     "hard-drive-disks-line": {
-      "codepoint": 57860,
+      "codepoint": 57886,
       "fontFamily": "Clarity",
       "identifier": "hardDriveDisksLine"
     },
     "hard-drive-disks-solid": {
-      "codepoint": 57861,
+      "codepoint": 57887,
       "fontFamily": "Clarity",
       "identifier": "hardDriveDisksSolid"
     },
     "hard-drive-line": {
-      "codepoint": 57862,
+      "codepoint": 57888,
       "fontFamily": "Clarity",
       "identifier": "hardDriveLine"
     },
     "hard-drive-solid": {
-      "codepoint": 57863,
+      "codepoint": 57889,
       "fontFamily": "Clarity",
       "identifier": "hardDriveSolid"
     },
     "hashtag-line": {
-      "codepoint": 57864,
+      "codepoint": 57890,
       "fontFamily": "Clarity",
       "identifier": "hashtagLine"
     },
     "hashtag-solid": {
-      "codepoint": 57865,
+      "codepoint": 57891,
       "fontFamily": "Clarity",
       "identifier": "hashtagSolid"
     },
     "headphones-line": {
-      "codepoint": 57866,
+      "codepoint": 57892,
       "fontFamily": "Clarity",
       "identifier": "headphonesLine"
     },
     "headphones-solid": {
-      "codepoint": 57867,
+      "codepoint": 57893,
       "fontFamily": "Clarity",
       "identifier": "headphonesSolid"
     },
     "heart-broken-line": {
-      "codepoint": 57868,
+      "codepoint": 57894,
       "fontFamily": "Clarity",
       "identifier": "heartBrokenLine"
     },
     "heart-broken-solid": {
-      "codepoint": 57869,
+      "codepoint": 57895,
       "fontFamily": "Clarity",
       "identifier": "heartBrokenSolid"
     },
     "heart-line": {
-      "codepoint": 57870,
+      "codepoint": 57896,
       "fontFamily": "Clarity",
       "identifier": "heartLine"
     },
     "heart-solid": {
-      "codepoint": 57871,
+      "codepoint": 57897,
       "fontFamily": "Clarity",
       "identifier": "heartSolid"
     },
     "heat-map-line": {
-      "codepoint": 57872,
+      "codepoint": 57898,
       "fontFamily": "Clarity",
       "identifier": "heatMapLine"
     },
+    "heat-map-outline-alerted": {
+      "codepoint": 57899,
+      "fontFamily": "Clarity",
+      "identifier": "heatMapOutlineAlerted"
+    },
+    "heat-map-outline-badged": {
+      "codepoint": 57900,
+      "fontFamily": "Clarity",
+      "identifier": "heatMapOutlineBadged"
+    },
     "heat-map-solid": {
-      "codepoint": 57873,
+      "codepoint": 57901,
       "fontFamily": "Clarity",
       "identifier": "heatMapSolid"
     },
+    "heat-map-solid-alerted": {
+      "codepoint": 57902,
+      "fontFamily": "Clarity",
+      "identifier": "heatMapSolidAlerted"
+    },
+    "heat-map-solid-badged": {
+      "codepoint": 57903,
+      "fontFamily": "Clarity",
+      "identifier": "heatMapSolidBadged"
+    },
     "helix-line": {
-      "codepoint": 57874,
+      "codepoint": 57904,
       "fontFamily": "Clarity",
       "identifier": "helixLine"
     },
     "helix-solid": {
-      "codepoint": 57875,
+      "codepoint": 57905,
       "fontFamily": "Clarity",
       "identifier": "helixSolid"
     },
     "help-info-line": {
-      "codepoint": 57876,
+      "codepoint": 57906,
       "fontFamily": "Clarity",
       "identifier": "helpInfoLine"
     },
     "help-info-solid": {
-      "codepoint": 57877,
+      "codepoint": 57907,
       "fontFamily": "Clarity",
       "identifier": "helpInfoSolid"
     },
     "help-line": {
-      "codepoint": 57878,
+      "codepoint": 57908,
       "fontFamily": "Clarity",
       "identifier": "helpLine"
     },
     "help-outline-badged": {
-      "codepoint": 57879,
+      "codepoint": 57909,
       "fontFamily": "Clarity",
       "identifier": "helpOutlineBadged"
     },
     "help-solid": {
-      "codepoint": 57880,
+      "codepoint": 57910,
       "fontFamily": "Clarity",
       "identifier": "helpSolid"
     },
     "help-solid-badged": {
-      "codepoint": 57881,
+      "codepoint": 57911,
       "fontFamily": "Clarity",
       "identifier": "helpSolidBadged"
     },
     "highlighter-line": {
-      "codepoint": 57882,
+      "codepoint": 57912,
       "fontFamily": "Clarity",
       "identifier": "highlighterLine"
     },
     "history-line": {
-      "codepoint": 57883,
+      "codepoint": 57913,
       "fontFamily": "Clarity",
       "identifier": "historyLine"
     },
     "home-line": {
-      "codepoint": 57884,
+      "codepoint": 57914,
       "fontFamily": "Clarity",
       "identifier": "homeLine"
     },
     "home-solid": {
-      "codepoint": 57885,
+      "codepoint": 57915,
       "fontFamily": "Clarity",
       "identifier": "homeSolid"
     },
     "host-group-line": {
-      "codepoint": 57886,
+      "codepoint": 57916,
       "fontFamily": "Clarity",
       "identifier": "hostGroupLine"
     },
+    "host-group-solid": {
+      "codepoint": 57917,
+      "fontFamily": "Clarity",
+      "identifier": "hostGroupSolid"
+    },
     "host-line": {
-      "codepoint": 57887,
+      "codepoint": 57918,
       "fontFamily": "Clarity",
       "identifier": "hostLine"
     },
     "host-outline-alerted": {
-      "codepoint": 57888,
+      "codepoint": 57919,
       "fontFamily": "Clarity",
       "identifier": "hostOutlineAlerted"
     },
     "host-outline-badged": {
-      "codepoint": 57889,
+      "codepoint": 57920,
       "fontFamily": "Clarity",
       "identifier": "hostOutlineBadged"
     },
     "host-solid": {
-      "codepoint": 57890,
+      "codepoint": 57921,
       "fontFamily": "Clarity",
       "identifier": "hostSolid"
     },
     "host-solid-alerted": {
-      "codepoint": 57891,
+      "codepoint": 57922,
       "fontFamily": "Clarity",
       "identifier": "hostSolidAlerted"
     },
     "host-solid-badged": {
-      "codepoint": 57892,
+      "codepoint": 57923,
       "fontFamily": "Clarity",
       "identifier": "hostSolidBadged"
     },
     "hourglass-line": {
-      "codepoint": 57893,
+      "codepoint": 57924,
       "fontFamily": "Clarity",
       "identifier": "hourglassLine"
     },
     "hourglass-outline-alerted": {
-      "codepoint": 57894,
+      "codepoint": 57925,
       "fontFamily": "Clarity",
       "identifier": "hourglassOutlineAlerted"
     },
     "hourglass-outline-badged": {
-      "codepoint": 57895,
+      "codepoint": 57926,
       "fontFamily": "Clarity",
       "identifier": "hourglassOutlineBadged"
     },
     "hourglass-solid": {
-      "codepoint": 57896,
+      "codepoint": 57927,
       "fontFamily": "Clarity",
       "identifier": "hourglassSolid"
     },
     "hourglass-solid-alerted": {
-      "codepoint": 57897,
+      "codepoint": 57928,
       "fontFamily": "Clarity",
       "identifier": "hourglassSolidAlerted"
     },
     "hourglass-solid-badged": {
-      "codepoint": 57898,
+      "codepoint": 57929,
       "fontFamily": "Clarity",
       "identifier": "hourglassSolidBadged"
     },
     "house-line": {
-      "codepoint": 57899,
+      "codepoint": 57930,
       "fontFamily": "Clarity",
       "identifier": "houseLine"
     },
     "house-solid": {
-      "codepoint": 57900,
+      "codepoint": 57931,
       "fontFamily": "Clarity",
       "identifier": "houseSolid"
     },
     "id-badge-line": {
-      "codepoint": 57901,
+      "codepoint": 57932,
       "fontFamily": "Clarity",
       "identifier": "idBadgeLine"
     },
     "id-badge-outline-alerted": {
-      "codepoint": 57902,
+      "codepoint": 57933,
       "fontFamily": "Clarity",
       "identifier": "idBadgeOutlineAlerted"
     },
     "id-badge-outline-badged": {
-      "codepoint": 57903,
+      "codepoint": 57934,
       "fontFamily": "Clarity",
       "identifier": "idBadgeOutlineBadged"
     },
     "id-badge-solid": {
-      "codepoint": 57904,
+      "codepoint": 57935,
       "fontFamily": "Clarity",
       "identifier": "idBadgeSolid"
     },
     "id-badge-solid-alerted": {
-      "codepoint": 57905,
+      "codepoint": 57936,
       "fontFamily": "Clarity",
       "identifier": "idBadgeSolidAlerted"
     },
     "id-badge-solid-badged": {
-      "codepoint": 57906,
+      "codepoint": 57937,
       "fontFamily": "Clarity",
       "identifier": "idBadgeSolidBadged"
     },
     "image-gallery-line": {
-      "codepoint": 57907,
+      "codepoint": 57938,
       "fontFamily": "Clarity",
       "identifier": "imageGalleryLine"
     },
     "image-gallery-solid": {
-      "codepoint": 57908,
+      "codepoint": 57939,
       "fontFamily": "Clarity",
       "identifier": "imageGallerySolid"
     },
     "image-line": {
-      "codepoint": 57909,
+      "codepoint": 57940,
       "fontFamily": "Clarity",
       "identifier": "imageLine"
     },
     "image-outline-badged": {
-      "codepoint": 57910,
+      "codepoint": 57941,
       "fontFamily": "Clarity",
       "identifier": "imageOutlineBadged"
     },
     "image-solid": {
-      "codepoint": 57911,
+      "codepoint": 57942,
       "fontFamily": "Clarity",
       "identifier": "imageSolid"
     },
     "image-solid-badged": {
-      "codepoint": 57912,
+      "codepoint": 57943,
       "fontFamily": "Clarity",
       "identifier": "imageSolidBadged"
     },
     "import-line": {
-      "codepoint": 57913,
+      "codepoint": 57944,
       "fontFamily": "Clarity",
       "identifier": "importLine"
     },
     "import-outline-alerted": {
-      "codepoint": 57914,
+      "codepoint": 57945,
       "fontFamily": "Clarity",
       "identifier": "importOutlineAlerted"
     },
     "import-outline-badged": {
-      "codepoint": 57915,
+      "codepoint": 57946,
       "fontFamily": "Clarity",
       "identifier": "importOutlineBadged"
     },
     "import-solid": {
-      "codepoint": 57916,
+      "codepoint": 57947,
       "fontFamily": "Clarity",
       "identifier": "importSolid"
     },
     "import-solid-alerted": {
-      "codepoint": 57917,
+      "codepoint": 57948,
       "fontFamily": "Clarity",
       "identifier": "importSolidAlerted"
     },
     "import-solid-badged": {
-      "codepoint": 57918,
+      "codepoint": 57949,
       "fontFamily": "Clarity",
       "identifier": "importSolidBadged"
     },
     "inbox-line": {
-      "codepoint": 57919,
+      "codepoint": 57950,
       "fontFamily": "Clarity",
       "identifier": "inboxLine"
     },
     "inbox-outline-badged": {
-      "codepoint": 57920,
+      "codepoint": 57951,
       "fontFamily": "Clarity",
       "identifier": "inboxOutlineBadged"
     },
     "indent-line": {
-      "codepoint": 57921,
+      "codepoint": 57952,
       "fontFamily": "Clarity",
       "identifier": "indentLine"
     },
     "inductor-line": {
-      "codepoint": 57922,
+      "codepoint": 57953,
       "fontFamily": "Clarity",
       "identifier": "inductorLine"
     },
     "info-circle-line": {
-      "codepoint": 57923,
+      "codepoint": 57954,
       "fontFamily": "Clarity",
       "identifier": "infoCircleLine"
     },
     "info-circle-solid": {
-      "codepoint": 57924,
+      "codepoint": 57955,
       "fontFamily": "Clarity",
       "identifier": "infoCircleSolid"
     },
     "info-line": {
-      "codepoint": 57925,
+      "codepoint": 57956,
       "fontFamily": "Clarity",
       "identifier": "infoLine"
     },
     "info-solid": {
-      "codepoint": 57926,
+      "codepoint": 57957,
       "fontFamily": "Clarity",
       "identifier": "infoSolid"
     },
     "info-standard-line": {
-      "codepoint": 57927,
+      "codepoint": 57958,
       "fontFamily": "Clarity",
       "identifier": "infoStandardLine"
     },
     "info-standard-solid": {
-      "codepoint": 57928,
+      "codepoint": 57959,
       "fontFamily": "Clarity",
       "identifier": "infoStandardSolid"
     },
     "install-line": {
-      "codepoint": 57929,
+      "codepoint": 57960,
       "fontFamily": "Clarity",
       "identifier": "installLine"
     },
     "install-outline-alerted": {
-      "codepoint": 57930,
+      "codepoint": 57961,
       "fontFamily": "Clarity",
       "identifier": "installOutlineAlerted"
     },
     "install-outline-badged": {
-      "codepoint": 57931,
+      "codepoint": 57962,
       "fontFamily": "Clarity",
       "identifier": "installOutlineBadged"
     },
     "internet-of-things-line": {
-      "codepoint": 57932,
+      "codepoint": 57963,
       "fontFamily": "Clarity",
       "identifier": "internetOfThingsLine"
     },
     "internet-of-things-solid": {
-      "codepoint": 57933,
+      "codepoint": 57964,
       "fontFamily": "Clarity",
       "identifier": "internetOfThingsSolid"
     },
     "italic-line": {
-      "codepoint": 57934,
+      "codepoint": 57965,
       "fontFamily": "Clarity",
       "identifier": "italicLine"
     },
     "justify-text-line": {
-      "codepoint": 57935,
+      "codepoint": 57966,
       "fontFamily": "Clarity",
       "identifier": "justifyTextLine"
     },
     "key-line": {
-      "codepoint": 57936,
+      "codepoint": 57967,
       "fontFamily": "Clarity",
       "identifier": "keyLine"
     },
     "key-outline-alerted": {
-      "codepoint": 57937,
+      "codepoint": 57968,
       "fontFamily": "Clarity",
       "identifier": "keyOutlineAlerted"
     },
     "key-outline-badged": {
-      "codepoint": 57938,
+      "codepoint": 57969,
       "fontFamily": "Clarity",
       "identifier": "keyOutlineBadged"
     },
     "key-solid": {
-      "codepoint": 57939,
+      "codepoint": 57970,
       "fontFamily": "Clarity",
       "identifier": "keySolid"
     },
     "key-solid-alerted": {
-      "codepoint": 57940,
+      "codepoint": 57971,
       "fontFamily": "Clarity",
       "identifier": "keySolidAlerted"
     },
     "key-solid-badged": {
-      "codepoint": 57941,
+      "codepoint": 57972,
       "fontFamily": "Clarity",
       "identifier": "keySolidBadged"
     },
     "keyboard-line": {
-      "codepoint": 57942,
+      "codepoint": 57973,
       "fontFamily": "Clarity",
       "identifier": "keyboardLine"
     },
     "keyboard-solid": {
-      "codepoint": 57943,
+      "codepoint": 57974,
       "fontFamily": "Clarity",
       "identifier": "keyboardSolid"
     },
     "landscape-line": {
-      "codepoint": 57944,
+      "codepoint": 57975,
       "fontFamily": "Clarity",
       "identifier": "landscapeLine"
     },
     "landscape-solid": {
-      "codepoint": 57945,
+      "codepoint": 57976,
       "fontFamily": "Clarity",
       "identifier": "landscapeSolid"
     },
     "language-line": {
-      "codepoint": 57946,
+      "codepoint": 57977,
       "fontFamily": "Clarity",
       "identifier": "languageLine"
     },
     "language-solid": {
-      "codepoint": 57947,
+      "codepoint": 57978,
       "fontFamily": "Clarity",
       "identifier": "languageSolid"
     },
     "launchpad-line": {
-      "codepoint": 57948,
+      "codepoint": 57979,
       "fontFamily": "Clarity",
       "identifier": "launchpadLine"
     },
     "launchpad-solid": {
-      "codepoint": 57949,
+      "codepoint": 57980,
       "fontFamily": "Clarity",
       "identifier": "launchpadSolid"
     },
     "layers-line": {
-      "codepoint": 57950,
+      "codepoint": 57981,
       "fontFamily": "Clarity",
       "identifier": "layersLine"
     },
     "layers-solid": {
-      "codepoint": 57951,
+      "codepoint": 57982,
       "fontFamily": "Clarity",
       "identifier": "layersSolid"
     },
     "library-line": {
-      "codepoint": 57952,
+      "codepoint": 57983,
       "fontFamily": "Clarity",
       "identifier": "libraryLine"
     },
     "library-solid": {
-      "codepoint": 57953,
+      "codepoint": 57984,
       "fontFamily": "Clarity",
       "identifier": "librarySolid"
     },
     "license-line": {
-      "codepoint": 57954,
+      "codepoint": 57985,
       "fontFamily": "Clarity",
       "identifier": "licenseLine"
     },
     "license-outline-alerted": {
-      "codepoint": 57955,
+      "codepoint": 57986,
       "fontFamily": "Clarity",
       "identifier": "licenseOutlineAlerted"
     },
     "license-outline-badged": {
-      "codepoint": 57956,
+      "codepoint": 57987,
       "fontFamily": "Clarity",
       "identifier": "licenseOutlineBadged"
     },
     "license-solid": {
-      "codepoint": 57957,
+      "codepoint": 57988,
       "fontFamily": "Clarity",
       "identifier": "licenseSolid"
     },
     "license-solid-alerted": {
-      "codepoint": 57958,
+      "codepoint": 57989,
       "fontFamily": "Clarity",
       "identifier": "licenseSolidAlerted"
     },
     "license-solid-badged": {
-      "codepoint": 57959,
+      "codepoint": 57990,
       "fontFamily": "Clarity",
       "identifier": "licenseSolidBadged"
     },
     "lightbulb-line": {
-      "codepoint": 57960,
+      "codepoint": 57991,
       "fontFamily": "Clarity",
       "identifier": "lightbulbLine"
     },
     "lightbulb-outline-badged": {
-      "codepoint": 57961,
+      "codepoint": 57992,
       "fontFamily": "Clarity",
       "identifier": "lightbulbOutlineBadged"
     },
     "lightbulb-solid": {
-      "codepoint": 57962,
+      "codepoint": 57993,
       "fontFamily": "Clarity",
       "identifier": "lightbulbSolid"
     },
     "lightbulb-solid-badged": {
-      "codepoint": 57963,
+      "codepoint": 57994,
       "fontFamily": "Clarity",
       "identifier": "lightbulbSolidBadged"
     },
     "lightning-line": {
-      "codepoint": 57964,
+      "codepoint": 57995,
       "fontFamily": "Clarity",
       "identifier": "lightningLine"
     },
     "lightning-solid": {
-      "codepoint": 57965,
+      "codepoint": 57996,
       "fontFamily": "Clarity",
       "identifier": "lightningSolid"
     },
+    "line-chart-line": {
+      "codepoint": 57997,
+      "fontFamily": "Clarity",
+      "identifier": "lineChartLine"
+    },
     "line-chart-outline-alerted": {
-      "codepoint": 57966,
+      "codepoint": 57998,
       "fontFamily": "Clarity",
       "identifier": "lineChartOutlineAlerted"
     },
+    "line-chart-outline-badged": {
+      "codepoint": 57999,
+      "fontFamily": "Clarity",
+      "identifier": "lineChartOutlineBadged"
+    },
     "line-chart-solid": {
-      "codepoint": 57967,
+      "codepoint": 58000,
       "fontFamily": "Clarity",
       "identifier": "lineChartSolid"
     },
+    "line-chart-solid-alerted": {
+      "codepoint": 58001,
+      "fontFamily": "Clarity",
+      "identifier": "lineChartSolidAlerted"
+    },
     "line-chart-solid-badged": {
-      "codepoint": 57968,
+      "codepoint": 58002,
       "fontFamily": "Clarity",
       "identifier": "lineChartSolidBadged"
     },
     "link-line": {
-      "codepoint": 57969,
+      "codepoint": 58003,
       "fontFamily": "Clarity",
       "identifier": "linkLine"
     },
     "list-line": {
-      "codepoint": 57970,
+      "codepoint": 58004,
       "fontFamily": "Clarity",
       "identifier": "listLine"
     },
     "list-outline-badged": {
-      "codepoint": 57971,
+      "codepoint": 58005,
       "fontFamily": "Clarity",
       "identifier": "listOutlineBadged"
     },
     "list-solid": {
-      "codepoint": 57972,
+      "codepoint": 58006,
       "fontFamily": "Clarity",
       "identifier": "listSolid"
     },
     "list-solid-badged": {
-      "codepoint": 57973,
+      "codepoint": 58007,
       "fontFamily": "Clarity",
       "identifier": "listSolidBadged"
     },
     "lock-line": {
-      "codepoint": 57974,
+      "codepoint": 58008,
       "fontFamily": "Clarity",
       "identifier": "lockLine"
     },
     "lock-solid": {
-      "codepoint": 57975,
+      "codepoint": 58009,
       "fontFamily": "Clarity",
       "identifier": "lockSolid"
     },
     "login-line": {
-      "codepoint": 57976,
+      "codepoint": 58010,
       "fontFamily": "Clarity",
       "identifier": "loginLine"
     },
     "login-solid": {
-      "codepoint": 57977,
+      "codepoint": 58011,
       "fontFamily": "Clarity",
       "identifier": "loginSolid"
     },
     "logout-line": {
-      "codepoint": 57978,
+      "codepoint": 58012,
       "fontFamily": "Clarity",
       "identifier": "logoutLine"
     },
     "logout-solid": {
-      "codepoint": 57979,
+      "codepoint": 58013,
       "fontFamily": "Clarity",
       "identifier": "logoutSolid"
     },
     "map-line": {
-      "codepoint": 57980,
+      "codepoint": 58014,
       "fontFamily": "Clarity",
       "identifier": "mapLine"
     },
     "map-marker-line": {
-      "codepoint": 57981,
+      "codepoint": 58015,
       "fontFamily": "Clarity",
       "identifier": "mapMarkerLine"
     },
     "map-marker-outline-badged": {
-      "codepoint": 57982,
+      "codepoint": 58016,
       "fontFamily": "Clarity",
       "identifier": "mapMarkerOutlineBadged"
     },
     "map-marker-solid": {
-      "codepoint": 57983,
+      "codepoint": 58017,
       "fontFamily": "Clarity",
       "identifier": "mapMarkerSolid"
     },
     "map-marker-solid-badged": {
-      "codepoint": 57984,
+      "codepoint": 58018,
       "fontFamily": "Clarity",
       "identifier": "mapMarkerSolidBadged"
     },
-    "map-outline-alerted": {
-      "codepoint": 57985,
-      "fontFamily": "Clarity",
-      "identifier": "mapOutlineAlerted"
-    },
     "map-outline-badged": {
-      "codepoint": 57986,
+      "codepoint": 58019,
       "fontFamily": "Clarity",
       "identifier": "mapOutlineBadged"
     },
     "map-solid": {
-      "codepoint": 57987,
+      "codepoint": 58020,
       "fontFamily": "Clarity",
       "identifier": "mapSolid"
     },
     "map-solid-alerted": {
-      "codepoint": 57988,
+      "codepoint": 58021,
       "fontFamily": "Clarity",
       "identifier": "mapSolidAlerted"
     },
     "map-solid-badged": {
-      "codepoint": 57989,
+      "codepoint": 58022,
       "fontFamily": "Clarity",
       "identifier": "mapSolidBadged"
     },
     "media-changer-line": {
-      "codepoint": 57990,
+      "codepoint": 58023,
       "fontFamily": "Clarity",
       "identifier": "mediaChangerLine"
     },
     "media-changer-outline-alerted": {
-      "codepoint": 57991,
+      "codepoint": 58024,
       "fontFamily": "Clarity",
       "identifier": "mediaChangerOutlineAlerted"
     },
     "media-changer-outline-badged": {
-      "codepoint": 57992,
+      "codepoint": 58025,
       "fontFamily": "Clarity",
       "identifier": "mediaChangerOutlineBadged"
     },
     "media-changer-solid": {
-      "codepoint": 57993,
+      "codepoint": 58026,
       "fontFamily": "Clarity",
       "identifier": "mediaChangerSolid"
     },
     "media-changer-solid-alerted": {
-      "codepoint": 57994,
+      "codepoint": 58027,
       "fontFamily": "Clarity",
       "identifier": "mediaChangerSolidAlerted"
     },
     "media-changer-solid-badged": {
-      "codepoint": 57995,
+      "codepoint": 58028,
       "fontFamily": "Clarity",
       "identifier": "mediaChangerSolidBadged"
     },
     "memory-line": {
-      "codepoint": 57996,
+      "codepoint": 58029,
       "fontFamily": "Clarity",
       "identifier": "memoryLine"
     },
     "memory-outline-alerted": {
-      "codepoint": 57997,
+      "codepoint": 58030,
       "fontFamily": "Clarity",
       "identifier": "memoryOutlineAlerted"
     },
     "memory-outline-badged": {
-      "codepoint": 57998,
+      "codepoint": 58031,
       "fontFamily": "Clarity",
       "identifier": "memoryOutlineBadged"
     },
     "memory-solid": {
-      "codepoint": 57999,
+      "codepoint": 58032,
       "fontFamily": "Clarity",
       "identifier": "memorySolid"
     },
     "memory-solid-alerted": {
-      "codepoint": 58000,
+      "codepoint": 58033,
       "fontFamily": "Clarity",
       "identifier": "memorySolidAlerted"
     },
     "memory-solid-badged": {
-      "codepoint": 58001,
+      "codepoint": 58034,
       "fontFamily": "Clarity",
       "identifier": "memorySolidBadged"
     },
     "menu-line": {
-      "codepoint": 58002,
+      "codepoint": 58035,
       "fontFamily": "Clarity",
       "identifier": "menuLine"
     },
     "microphone-line": {
-      "codepoint": 58003,
+      "codepoint": 58036,
       "fontFamily": "Clarity",
       "identifier": "microphoneLine"
     },
     "microphone-mute-line": {
-      "codepoint": 58004,
+      "codepoint": 58037,
       "fontFamily": "Clarity",
       "identifier": "microphoneMuteLine"
     },
     "microphone-mute-solid": {
-      "codepoint": 58005,
+      "codepoint": 58038,
       "fontFamily": "Clarity",
       "identifier": "microphoneMuteSolid"
     },
     "microphone-solid": {
-      "codepoint": 58006,
+      "codepoint": 58039,
       "fontFamily": "Clarity",
       "identifier": "microphoneSolid"
     },
     "minus-circle-line": {
-      "codepoint": 58007,
+      "codepoint": 58040,
       "fontFamily": "Clarity",
       "identifier": "minusCircleLine"
     },
     "minus-circle-solid": {
-      "codepoint": 58008,
+      "codepoint": 58041,
       "fontFamily": "Clarity",
       "identifier": "minusCircleSolid"
     },
     "minus-line": {
-      "codepoint": 58009,
+      "codepoint": 58042,
       "fontFamily": "Clarity",
       "identifier": "minusLine"
     },
     "mobile-line": {
-      "codepoint": 58010,
+      "codepoint": 58043,
       "fontFamily": "Clarity",
       "identifier": "mobileLine"
     },
     "mobile-phone-line": {
-      "codepoint": 58011,
+      "codepoint": 58044,
       "fontFamily": "Clarity",
       "identifier": "mobilePhoneLine"
     },
     "mobile-phone-solid": {
-      "codepoint": 58012,
+      "codepoint": 58045,
       "fontFamily": "Clarity",
       "identifier": "mobilePhoneSolid"
     },
     "mobile-solid": {
-      "codepoint": 58013,
+      "codepoint": 58046,
       "fontFamily": "Clarity",
       "identifier": "mobileSolid"
     },
     "moon-line": {
-      "codepoint": 58014,
+      "codepoint": 58047,
       "fontFamily": "Clarity",
       "identifier": "moonLine"
     },
     "moon-solid": {
-      "codepoint": 58015,
+      "codepoint": 58048,
       "fontFamily": "Clarity",
       "identifier": "moonSolid"
     },
     "mouse-line": {
-      "codepoint": 58016,
+      "codepoint": 58049,
       "fontFamily": "Clarity",
       "identifier": "mouseLine"
     },
     "mouse-solid": {
-      "codepoint": 58017,
+      "codepoint": 58050,
       "fontFamily": "Clarity",
       "identifier": "mouseSolid"
     },
     "music-note-line": {
-      "codepoint": 58018,
+      "codepoint": 58051,
       "fontFamily": "Clarity",
       "identifier": "musicNoteLine"
     },
     "music-note-solid": {
-      "codepoint": 58019,
+      "codepoint": 58052,
       "fontFamily": "Clarity",
       "identifier": "musicNoteSolid"
     },
     "namespace-line": {
-      "codepoint": 58020,
+      "codepoint": 58053,
       "fontFamily": "Clarity",
       "identifier": "namespaceLine"
     },
     "namespace-outline-alerted": {
-      "codepoint": 58021,
+      "codepoint": 58054,
       "fontFamily": "Clarity",
       "identifier": "namespaceOutlineAlerted"
     },
     "namespace-outline-badged": {
-      "codepoint": 58022,
+      "codepoint": 58055,
       "fontFamily": "Clarity",
       "identifier": "namespaceOutlineBadged"
     },
     "network-globe-line": {
-      "codepoint": 58023,
+      "codepoint": 58056,
       "fontFamily": "Clarity",
       "identifier": "networkGlobeLine"
     },
     "network-globe-outline-alerted": {
-      "codepoint": 58024,
+      "codepoint": 58057,
       "fontFamily": "Clarity",
       "identifier": "networkGlobeOutlineAlerted"
     },
     "network-globe-outline-badged": {
-      "codepoint": 58025,
+      "codepoint": 58058,
       "fontFamily": "Clarity",
       "identifier": "networkGlobeOutlineBadged"
     },
     "network-globe-solid": {
-      "codepoint": 58026,
+      "codepoint": 58059,
       "fontFamily": "Clarity",
       "identifier": "networkGlobeSolid"
     },
     "network-globe-solid-alerted": {
-      "codepoint": 58027,
+      "codepoint": 58060,
       "fontFamily": "Clarity",
       "identifier": "networkGlobeSolidAlerted"
     },
     "network-globe-solid-badged": {
-      "codepoint": 58028,
+      "codepoint": 58061,
       "fontFamily": "Clarity",
       "identifier": "networkGlobeSolidBadged"
     },
     "network-settings-line": {
-      "codepoint": 58029,
+      "codepoint": 58062,
       "fontFamily": "Clarity",
       "identifier": "networkSettingsLine"
     },
     "network-settings-solid": {
-      "codepoint": 58030,
+      "codepoint": 58063,
       "fontFamily": "Clarity",
       "identifier": "networkSettingsSolid"
     },
     "network-switch-line": {
-      "codepoint": 58031,
+      "codepoint": 58064,
       "fontFamily": "Clarity",
       "identifier": "networkSwitchLine"
     },
     "network-switch-outline-alerted": {
-      "codepoint": 58032,
+      "codepoint": 58065,
       "fontFamily": "Clarity",
       "identifier": "networkSwitchOutlineAlerted"
     },
     "network-switch-outline-badged": {
-      "codepoint": 58033,
+      "codepoint": 58066,
       "fontFamily": "Clarity",
       "identifier": "networkSwitchOutlineBadged"
     },
     "network-switch-solid": {
-      "codepoint": 58034,
+      "codepoint": 58067,
       "fontFamily": "Clarity",
       "identifier": "networkSwitchSolid"
     },
     "network-switch-solid-alerted": {
-      "codepoint": 58035,
+      "codepoint": 58068,
       "fontFamily": "Clarity",
       "identifier": "networkSwitchSolidAlerted"
     },
     "network-switch-solid-badged": {
-      "codepoint": 58036,
+      "codepoint": 58069,
       "fontFamily": "Clarity",
       "identifier": "networkSwitchSolidBadged"
     },
     "neutral-face-line": {
-      "codepoint": 58037,
+      "codepoint": 58070,
       "fontFamily": "Clarity",
       "identifier": "neutralFaceLine"
     },
     "neutral-face-solid": {
-      "codepoint": 58038,
+      "codepoint": 58071,
       "fontFamily": "Clarity",
       "identifier": "neutralFaceSolid"
     },
     "new-line": {
-      "codepoint": 58039,
+      "codepoint": 58072,
       "fontFamily": "Clarity",
       "identifier": "newLine"
     },
     "new-solid": {
-      "codepoint": 58040,
+      "codepoint": 58073,
       "fontFamily": "Clarity",
       "identifier": "newSolid"
     },
     "no-access-line": {
-      "codepoint": 58041,
+      "codepoint": 58074,
       "fontFamily": "Clarity",
       "identifier": "noAccessLine"
     },
     "no-access-solid": {
-      "codepoint": 58042,
+      "codepoint": 58075,
       "fontFamily": "Clarity",
       "identifier": "noAccessSolid"
     },
     "no-wifi-line": {
-      "codepoint": 58043,
+      "codepoint": 58076,
       "fontFamily": "Clarity",
       "identifier": "noWifiLine"
     },
     "no-wifi-solid": {
-      "codepoint": 58044,
+      "codepoint": 58077,
       "fontFamily": "Clarity",
       "identifier": "noWifiSolid"
     },
     "node-group-line": {
-      "codepoint": 58045,
+      "codepoint": 58078,
       "fontFamily": "Clarity",
       "identifier": "nodeGroupLine"
     },
     "node-line": {
-      "codepoint": 58046,
+      "codepoint": 58079,
       "fontFamily": "Clarity",
       "identifier": "nodeLine"
     },
     "nodes-line": {
-      "codepoint": 58047,
+      "codepoint": 58080,
       "fontFamily": "Clarity",
       "identifier": "nodesLine"
     },
     "note-edit-line": {
-      "codepoint": 58048,
+      "codepoint": 58081,
       "fontFamily": "Clarity",
       "identifier": "noteEditLine"
     },
     "note-edit-solid": {
-      "codepoint": 58049,
+      "codepoint": 58082,
       "fontFamily": "Clarity",
       "identifier": "noteEditSolid"
     },
     "note-line": {
-      "codepoint": 58050,
+      "codepoint": 58083,
       "fontFamily": "Clarity",
       "identifier": "noteLine"
     },
     "note-solid": {
-      "codepoint": 58051,
+      "codepoint": 58084,
       "fontFamily": "Clarity",
       "identifier": "noteSolid"
     },
     "notification-line": {
-      "codepoint": 58052,
+      "codepoint": 58085,
       "fontFamily": "Clarity",
       "identifier": "notificationLine"
     },
     "notification-outline-badged": {
-      "codepoint": 58053,
+      "codepoint": 58086,
       "fontFamily": "Clarity",
       "identifier": "notificationOutlineBadged"
     },
     "notification-solid": {
-      "codepoint": 58054,
+      "codepoint": 58087,
       "fontFamily": "Clarity",
       "identifier": "notificationSolid"
     },
     "notification-solid-badged": {
-      "codepoint": 58055,
+      "codepoint": 58088,
       "fontFamily": "Clarity",
       "identifier": "notificationSolidBadged"
     },
     "number-list-line": {
-      "codepoint": 58056,
+      "codepoint": 58089,
       "fontFamily": "Clarity",
       "identifier": "numberListLine"
     },
     "nvme-line": {
-      "codepoint": 58057,
+      "codepoint": 58090,
       "fontFamily": "Clarity",
       "identifier": "nvmeLine"
     },
     "objects-line": {
-      "codepoint": 58058,
+      "codepoint": 58091,
       "fontFamily": "Clarity",
       "identifier": "objectsLine"
     },
     "objects-solid": {
-      "codepoint": 58059,
+      "codepoint": 58092,
       "fontFamily": "Clarity",
       "identifier": "objectsSolid"
     },
     "on-holiday-line": {
-      "codepoint": 58060,
+      "codepoint": 58093,
       "fontFamily": "Clarity",
       "identifier": "onHolidayLine"
     },
     "on-holiday-solid": {
-      "codepoint": 58061,
+      "codepoint": 58094,
       "fontFamily": "Clarity",
       "identifier": "onHolidaySolid"
     },
     "organization-line": {
-      "codepoint": 58062,
+      "codepoint": 58095,
       "fontFamily": "Clarity",
       "identifier": "organizationLine"
     },
     "organization-solid": {
-      "codepoint": 58063,
+      "codepoint": 58096,
       "fontFamily": "Clarity",
       "identifier": "organizationSolid"
     },
     "outdent-line": {
-      "codepoint": 58064,
+      "codepoint": 58097,
       "fontFamily": "Clarity",
       "identifier": "outdentLine"
     },
     "paint-roller-line": {
-      "codepoint": 58065,
+      "codepoint": 58098,
       "fontFamily": "Clarity",
       "identifier": "paintRollerLine"
     },
     "paint-roller-solid": {
-      "codepoint": 58066,
+      "codepoint": 58099,
       "fontFamily": "Clarity",
       "identifier": "paintRollerSolid"
     },
     "paperclip-line": {
-      "codepoint": 58067,
+      "codepoint": 58100,
       "fontFamily": "Clarity",
       "identifier": "paperclipLine"
     },
     "paste-line": {
-      "codepoint": 58068,
+      "codepoint": 58101,
       "fontFamily": "Clarity",
       "identifier": "pasteLine"
     },
     "paste-solid": {
-      "codepoint": 58069,
+      "codepoint": 58102,
       "fontFamily": "Clarity",
       "identifier": "pasteSolid"
     },
     "pause-line": {
-      "codepoint": 58070,
+      "codepoint": 58103,
       "fontFamily": "Clarity",
       "identifier": "pauseLine"
     },
     "pause-solid": {
-      "codepoint": 58071,
+      "codepoint": 58104,
       "fontFamily": "Clarity",
       "identifier": "pauseSolid"
     },
     "pencil-line": {
-      "codepoint": 58072,
+      "codepoint": 58105,
       "fontFamily": "Clarity",
       "identifier": "pencilLine"
     },
     "pencil-solid": {
-      "codepoint": 58073,
+      "codepoint": 58106,
       "fontFamily": "Clarity",
       "identifier": "pencilSolid"
     },
     "peso-line": {
-      "codepoint": 58074,
+      "codepoint": 58107,
       "fontFamily": "Clarity",
       "identifier": "pesoLine"
     },
     "peso-solid": {
-      "codepoint": 58075,
+      "codepoint": 58108,
       "fontFamily": "Clarity",
       "identifier": "pesoSolid"
     },
     "phone-handset-line": {
-      "codepoint": 58076,
+      "codepoint": 58109,
       "fontFamily": "Clarity",
       "identifier": "phoneHandsetLine"
     },
     "phone-handset-solid": {
-      "codepoint": 58077,
+      "codepoint": 58110,
       "fontFamily": "Clarity",
       "identifier": "phoneHandsetSolid"
     },
     "picture-line": {
-      "codepoint": 58078,
+      "codepoint": 58111,
       "fontFamily": "Clarity",
       "identifier": "pictureLine"
     },
     "picture-outline-badged": {
-      "codepoint": 58079,
+      "codepoint": 58112,
       "fontFamily": "Clarity",
       "identifier": "pictureOutlineBadged"
     },
     "picture-solid": {
-      "codepoint": 58080,
+      "codepoint": 58113,
       "fontFamily": "Clarity",
       "identifier": "pictureSolid"
     },
     "picture-solid-badged": {
-      "codepoint": 58081,
+      "codepoint": 58114,
       "fontFamily": "Clarity",
       "identifier": "pictureSolidBadged"
     },
     "pie-chart-line": {
-      "codepoint": 58082,
+      "codepoint": 58115,
       "fontFamily": "Clarity",
       "identifier": "pieChartLine"
     },
+    "pie-chart-outline-alerted": {
+      "codepoint": 58116,
+      "fontFamily": "Clarity",
+      "identifier": "pieChartOutlineAlerted"
+    },
+    "pie-chart-outline-badged": {
+      "codepoint": 58117,
+      "fontFamily": "Clarity",
+      "identifier": "pieChartOutlineBadged"
+    },
+    "pie-chart-solid": {
+      "codepoint": 58118,
+      "fontFamily": "Clarity",
+      "identifier": "pieChartSolid"
+    },
+    "pie-chart-solid-alerted": {
+      "codepoint": 58119,
+      "fontFamily": "Clarity",
+      "identifier": "pieChartSolidAlerted"
+    },
     "pie-chart-solid-badged": {
-      "codepoint": 58083,
+      "codepoint": 58120,
       "fontFamily": "Clarity",
       "identifier": "pieChartSolidBadged"
     },
     "piggy-bank-line": {
-      "codepoint": 58084,
+      "codepoint": 58121,
       "fontFamily": "Clarity",
       "identifier": "piggyBankLine"
     },
     "piggy-bank-solid": {
-      "codepoint": 58085,
+      "codepoint": 58122,
       "fontFamily": "Clarity",
       "identifier": "piggyBankSolid"
     },
     "pin-line": {
-      "codepoint": 58086,
+      "codepoint": 58123,
       "fontFamily": "Clarity",
       "identifier": "pinLine"
     },
     "pin-solid": {
-      "codepoint": 58087,
+      "codepoint": 58124,
       "fontFamily": "Clarity",
       "identifier": "pinSolid"
     },
     "pinboard-line": {
-      "codepoint": 58088,
+      "codepoint": 58125,
       "fontFamily": "Clarity",
       "identifier": "pinboardLine"
     },
     "pinboard-solid": {
-      "codepoint": 58089,
+      "codepoint": 58126,
       "fontFamily": "Clarity",
       "identifier": "pinboardSolid"
     },
     "pinned-line": {
-      "codepoint": 58090,
+      "codepoint": 58127,
       "fontFamily": "Clarity",
       "identifier": "pinnedLine"
     },
     "pinned-solid": {
-      "codepoint": 58091,
+      "codepoint": 58128,
       "fontFamily": "Clarity",
       "identifier": "pinnedSolid"
     },
     "plane-line": {
-      "codepoint": 58092,
+      "codepoint": 58129,
       "fontFamily": "Clarity",
       "identifier": "planeLine"
     },
     "plane-solid": {
-      "codepoint": 58093,
+      "codepoint": 58130,
       "fontFamily": "Clarity",
       "identifier": "planeSolid"
     },
     "play-line": {
-      "codepoint": 58094,
+      "codepoint": 58131,
       "fontFamily": "Clarity",
       "identifier": "playLine"
     },
     "play-solid": {
-      "codepoint": 58095,
+      "codepoint": 58132,
       "fontFamily": "Clarity",
       "identifier": "playSolid"
     },
     "plugin-line": {
-      "codepoint": 58096,
+      "codepoint": 58133,
       "fontFamily": "Clarity",
       "identifier": "pluginLine"
     },
     "plugin-outline-alerted": {
-      "codepoint": 58097,
+      "codepoint": 58134,
       "fontFamily": "Clarity",
       "identifier": "pluginOutlineAlerted"
     },
     "plugin-outline-badged": {
-      "codepoint": 58098,
+      "codepoint": 58135,
       "fontFamily": "Clarity",
       "identifier": "pluginOutlineBadged"
     },
     "plugin-solid": {
-      "codepoint": 58099,
+      "codepoint": 58136,
       "fontFamily": "Clarity",
       "identifier": "pluginSolid"
     },
     "plugin-solid-alerted": {
-      "codepoint": 58100,
+      "codepoint": 58137,
       "fontFamily": "Clarity",
       "identifier": "pluginSolidAlerted"
     },
     "plugin-solid-badged": {
-      "codepoint": 58101,
+      "codepoint": 58138,
       "fontFamily": "Clarity",
       "identifier": "pluginSolidBadged"
     },
     "plus-circle-line": {
-      "codepoint": 58102,
+      "codepoint": 58139,
       "fontFamily": "Clarity",
       "identifier": "plusCircleLine"
     },
     "plus-circle-solid": {
-      "codepoint": 58103,
+      "codepoint": 58140,
       "fontFamily": "Clarity",
       "identifier": "plusCircleSolid"
     },
     "plus-line": {
-      "codepoint": 58104,
+      "codepoint": 58141,
       "fontFamily": "Clarity",
       "identifier": "plusLine"
     },
     "pod-line": {
-      "codepoint": 58105,
+      "codepoint": 58142,
       "fontFamily": "Clarity",
       "identifier": "podLine"
     },
     "pop-out-line": {
-      "codepoint": 58106,
+      "codepoint": 58143,
       "fontFamily": "Clarity",
       "identifier": "popOutLine"
     },
     "portrait-line": {
-      "codepoint": 58107,
+      "codepoint": 58144,
       "fontFamily": "Clarity",
       "identifier": "portraitLine"
     },
     "portrait-solid": {
-      "codepoint": 58108,
+      "codepoint": 58145,
       "fontFamily": "Clarity",
       "identifier": "portraitSolid"
     },
     "pound-line": {
-      "codepoint": 58109,
+      "codepoint": 58146,
       "fontFamily": "Clarity",
       "identifier": "poundLine"
     },
     "pound-solid": {
-      "codepoint": 58110,
+      "codepoint": 58147,
       "fontFamily": "Clarity",
       "identifier": "poundSolid"
     },
     "power-line": {
-      "codepoint": 58111,
+      "codepoint": 58148,
       "fontFamily": "Clarity",
       "identifier": "powerLine"
     },
     "power-outline-alerted": {
-      "codepoint": 58112,
+      "codepoint": 58149,
       "fontFamily": "Clarity",
       "identifier": "powerOutlineAlerted"
     },
     "power-outline-badged": {
-      "codepoint": 58113,
+      "codepoint": 58150,
       "fontFamily": "Clarity",
       "identifier": "powerOutlineBadged"
     },
     "power-solid": {
-      "codepoint": 58114,
+      "codepoint": 58151,
       "fontFamily": "Clarity",
       "identifier": "powerSolid"
     },
     "power-solid-alerted": {
-      "codepoint": 58115,
+      "codepoint": 58152,
       "fontFamily": "Clarity",
       "identifier": "powerSolidAlerted"
     },
     "power-solid-badged": {
-      "codepoint": 58116,
+      "codepoint": 58153,
       "fontFamily": "Clarity",
       "identifier": "powerSolidBadged"
     },
     "printer-line": {
-      "codepoint": 58117,
+      "codepoint": 58154,
       "fontFamily": "Clarity",
       "identifier": "printerLine"
     },
     "printer-outline-alerted": {
-      "codepoint": 58118,
+      "codepoint": 58155,
       "fontFamily": "Clarity",
       "identifier": "printerOutlineAlerted"
     },
     "printer-outline-badged": {
-      "codepoint": 58119,
+      "codepoint": 58156,
       "fontFamily": "Clarity",
       "identifier": "printerOutlineBadged"
     },
     "printer-solid": {
-      "codepoint": 58120,
+      "codepoint": 58157,
       "fontFamily": "Clarity",
       "identifier": "printerSolid"
     },
     "printer-solid-alerted": {
-      "codepoint": 58121,
+      "codepoint": 58158,
       "fontFamily": "Clarity",
       "identifier": "printerSolidAlerted"
     },
     "printer-solid-badged": {
-      "codepoint": 58122,
+      "codepoint": 58159,
       "fontFamily": "Clarity",
       "identifier": "printerSolidBadged"
     },
     "process-on-vm-line": {
-      "codepoint": 58123,
+      "codepoint": 58160,
       "fontFamily": "Clarity",
       "identifier": "processOnVmLine"
     },
     "qr-code-line": {
-      "codepoint": 58124,
+      "codepoint": 58161,
       "fontFamily": "Clarity",
       "identifier": "qrCodeLine"
     },
     "rack-server-line": {
-      "codepoint": 58125,
+      "codepoint": 58162,
       "fontFamily": "Clarity",
       "identifier": "rackServerLine"
     },
     "rack-server-outline-alerted": {
-      "codepoint": 58126,
+      "codepoint": 58163,
       "fontFamily": "Clarity",
       "identifier": "rackServerOutlineAlerted"
     },
     "rack-server-outline-badged": {
-      "codepoint": 58127,
+      "codepoint": 58164,
       "fontFamily": "Clarity",
       "identifier": "rackServerOutlineBadged"
     },
     "rack-server-solid": {
-      "codepoint": 58128,
+      "codepoint": 58165,
       "fontFamily": "Clarity",
       "identifier": "rackServerSolid"
     },
     "rack-server-solid-alerted": {
-      "codepoint": 58129,
+      "codepoint": 58166,
       "fontFamily": "Clarity",
       "identifier": "rackServerSolidAlerted"
     },
     "rack-server-solid-badged": {
-      "codepoint": 58130,
+      "codepoint": 58167,
       "fontFamily": "Clarity",
       "identifier": "rackServerSolidBadged"
     },
     "radar-line": {
-      "codepoint": 58131,
+      "codepoint": 58168,
       "fontFamily": "Clarity",
       "identifier": "radarLine"
     },
     "radar-solid": {
-      "codepoint": 58132,
+      "codepoint": 58169,
       "fontFamily": "Clarity",
       "identifier": "radarSolid"
     },
     "receiver-line": {
-      "codepoint": 58133,
+      "codepoint": 58170,
       "fontFamily": "Clarity",
       "identifier": "receiverLine"
     },
     "receiver-solid": {
-      "codepoint": 58134,
+      "codepoint": 58171,
       "fontFamily": "Clarity",
       "identifier": "receiverSolid"
     },
     "recycle-line": {
-      "codepoint": 58135,
+      "codepoint": 58172,
       "fontFamily": "Clarity",
       "identifier": "recycleLine"
     },
     "recycle-solid": {
-      "codepoint": 58136,
+      "codepoint": 58173,
       "fontFamily": "Clarity",
       "identifier": "recycleSolid"
     },
     "redo-line": {
-      "codepoint": 58137,
+      "codepoint": 58174,
       "fontFamily": "Clarity",
       "identifier": "redoLine"
     },
     "refresh-line": {
-      "codepoint": 58138,
+      "codepoint": 58175,
       "fontFamily": "Clarity",
       "identifier": "refreshLine"
     },
     "remove-line": {
-      "codepoint": 58139,
+      "codepoint": 58176,
       "fontFamily": "Clarity",
       "identifier": "removeLine"
     },
     "remove-solid": {
-      "codepoint": 58140,
+      "codepoint": 58177,
       "fontFamily": "Clarity",
       "identifier": "removeSolid"
     },
     "repeat-line": {
-      "codepoint": 58141,
+      "codepoint": 58178,
       "fontFamily": "Clarity",
       "identifier": "repeatLine"
     },
     "replay-all-line": {
-      "codepoint": 58142,
+      "codepoint": 58179,
       "fontFamily": "Clarity",
       "identifier": "replayAllLine"
     },
     "replay-one-line": {
-      "codepoint": 58143,
+      "codepoint": 58180,
       "fontFamily": "Clarity",
       "identifier": "replayOneLine"
     },
     "resistor-line": {
-      "codepoint": 58144,
+      "codepoint": 58181,
       "fontFamily": "Clarity",
       "identifier": "resistorLine"
     },
     "resize-down-line": {
-      "codepoint": 58145,
+      "codepoint": 58182,
       "fontFamily": "Clarity",
       "identifier": "resizeDownLine"
     },
     "resize-line": {
-      "codepoint": 58146,
+      "codepoint": 58183,
       "fontFamily": "Clarity",
       "identifier": "resizeLine"
     },
     "resize-up-line": {
-      "codepoint": 58147,
+      "codepoint": 58184,
       "fontFamily": "Clarity",
       "identifier": "resizeUpLine"
     },
     "resource-pool-line": {
-      "codepoint": 58148,
+      "codepoint": 58185,
       "fontFamily": "Clarity",
       "identifier": "resourcePoolLine"
     },
     "resource-pool-outline-alerted": {
-      "codepoint": 58149,
+      "codepoint": 58186,
       "fontFamily": "Clarity",
       "identifier": "resourcePoolOutlineAlerted"
     },
     "resource-pool-outline-badged": {
-      "codepoint": 58150,
+      "codepoint": 58187,
       "fontFamily": "Clarity",
       "identifier": "resourcePoolOutlineBadged"
     },
     "resource-pool-solid": {
-      "codepoint": 58151,
+      "codepoint": 58188,
       "fontFamily": "Clarity",
       "identifier": "resourcePoolSolid"
     },
     "resource-pool-solid-alerted": {
-      "codepoint": 58152,
+      "codepoint": 58189,
       "fontFamily": "Clarity",
       "identifier": "resourcePoolSolidAlerted"
     },
     "resource-pool-solid-badged": {
-      "codepoint": 58153,
+      "codepoint": 58190,
       "fontFamily": "Clarity",
       "identifier": "resourcePoolSolidBadged"
     },
     "rewind-line": {
-      "codepoint": 58154,
+      "codepoint": 58191,
       "fontFamily": "Clarity",
       "identifier": "rewindLine"
     },
     "rewind-solid": {
-      "codepoint": 58155,
+      "codepoint": 58192,
       "fontFamily": "Clarity",
       "identifier": "rewindSolid"
     },
     "router-line": {
-      "codepoint": 58156,
+      "codepoint": 58193,
       "fontFamily": "Clarity",
       "identifier": "routerLine"
     },
     "router-outline-alerted": {
-      "codepoint": 58157,
+      "codepoint": 58194,
       "fontFamily": "Clarity",
       "identifier": "routerOutlineAlerted"
     },
     "router-outline-badged": {
-      "codepoint": 58158,
+      "codepoint": 58195,
       "fontFamily": "Clarity",
       "identifier": "routerOutlineBadged"
     },
     "router-solid": {
-      "codepoint": 58159,
+      "codepoint": 58196,
       "fontFamily": "Clarity",
       "identifier": "routerSolid"
     },
     "router-solid-alerted": {
-      "codepoint": 58160,
+      "codepoint": 58197,
       "fontFamily": "Clarity",
       "identifier": "routerSolidAlerted"
     },
     "router-solid-badged": {
-      "codepoint": 58161,
+      "codepoint": 58198,
       "fontFamily": "Clarity",
       "identifier": "routerSolidBadged"
     },
     "ruble-line": {
-      "codepoint": 58162,
+      "codepoint": 58199,
       "fontFamily": "Clarity",
       "identifier": "rubleLine"
     },
     "ruble-solid": {
-      "codepoint": 58163,
+      "codepoint": 58200,
       "fontFamily": "Clarity",
       "identifier": "rubleSolid"
     },
     "ruler-pencil-line": {
-      "codepoint": 58164,
+      "codepoint": 58201,
       "fontFamily": "Clarity",
       "identifier": "rulerPencilLine"
     },
     "ruler-pencil-solid": {
-      "codepoint": 58165,
+      "codepoint": 58202,
       "fontFamily": "Clarity",
       "identifier": "rulerPencilSolid"
     },
     "rupee-line": {
-      "codepoint": 58166,
+      "codepoint": 58203,
       "fontFamily": "Clarity",
       "identifier": "rupeeLine"
     },
     "rupee-solid": {
-      "codepoint": 58167,
+      "codepoint": 58204,
       "fontFamily": "Clarity",
       "identifier": "rupeeSolid"
     },
     "sad-face-line": {
-      "codepoint": 58168,
+      "codepoint": 58205,
       "fontFamily": "Clarity",
       "identifier": "sadFaceLine"
     },
     "sad-face-solid": {
-      "codepoint": 58169,
+      "codepoint": 58206,
       "fontFamily": "Clarity",
       "identifier": "sadFaceSolid"
     },
     "savings-line": {
-      "codepoint": 58170,
+      "codepoint": 58207,
       "fontFamily": "Clarity",
       "identifier": "savingsLine"
     },
     "savings-solid": {
-      "codepoint": 58171,
+      "codepoint": 58208,
       "fontFamily": "Clarity",
       "identifier": "savingsSolid"
     },
     "scatter-plot-line": {
-      "codepoint": 58172,
+      "codepoint": 58209,
       "fontFamily": "Clarity",
       "identifier": "scatterPlotLine"
     },
     "scatter-plot-outline-alerted": {
-      "codepoint": 58173,
+      "codepoint": 58210,
       "fontFamily": "Clarity",
       "identifier": "scatterPlotOutlineAlerted"
     },
+    "scatter-plot-outline-badged": {
+      "codepoint": 58211,
+      "fontFamily": "Clarity",
+      "identifier": "scatterPlotOutlineBadged"
+    },
     "scatter-plot-solid": {
-      "codepoint": 58174,
+      "codepoint": 58212,
       "fontFamily": "Clarity",
       "identifier": "scatterPlotSolid"
     },
+    "scatter-plot-solid-alerted": {
+      "codepoint": 58213,
+      "fontFamily": "Clarity",
+      "identifier": "scatterPlotSolidAlerted"
+    },
     "scatter-plot-solid-badged": {
-      "codepoint": 58175,
+      "codepoint": 58214,
       "fontFamily": "Clarity",
       "identifier": "scatterPlotSolidBadged"
     },
     "scissors-line": {
-      "codepoint": 58176,
+      "codepoint": 58215,
       "fontFamily": "Clarity",
       "identifier": "scissorsLine"
     },
     "scissors-solid": {
-      "codepoint": 58177,
+      "codepoint": 58216,
       "fontFamily": "Clarity",
       "identifier": "scissorsSolid"
     },
     "scroll-line": {
-      "codepoint": 58178,
+      "codepoint": 58217,
       "fontFamily": "Clarity",
       "identifier": "scrollLine"
     },
     "scroll-outline-alerted": {
-      "codepoint": 58179,
+      "codepoint": 58218,
       "fontFamily": "Clarity",
       "identifier": "scrollOutlineAlerted"
     },
     "scroll-outline-badged": {
-      "codepoint": 58180,
+      "codepoint": 58219,
       "fontFamily": "Clarity",
       "identifier": "scrollOutlineBadged"
     },
     "scroll-solid": {
-      "codepoint": 58181,
+      "codepoint": 58220,
       "fontFamily": "Clarity",
       "identifier": "scrollSolid"
     },
     "scroll-solid-alerted": {
-      "codepoint": 58182,
+      "codepoint": 58221,
       "fontFamily": "Clarity",
       "identifier": "scrollSolidAlerted"
     },
     "scroll-solid-badged": {
-      "codepoint": 58183,
+      "codepoint": 58222,
       "fontFamily": "Clarity",
       "identifier": "scrollSolidBadged"
     },
     "search-line": {
-      "codepoint": 58184,
+      "codepoint": 58223,
       "fontFamily": "Clarity",
       "identifier": "searchLine"
     },
     "server-line": {
-      "codepoint": 58185,
+      "codepoint": 58224,
       "fontFamily": "Clarity",
       "identifier": "serverLine"
     },
     "server-outline-alerted": {
-      "codepoint": 58186,
+      "codepoint": 58225,
       "fontFamily": "Clarity",
       "identifier": "serverOutlineAlerted"
     },
     "server-outline-badged": {
-      "codepoint": 58187,
+      "codepoint": 58226,
       "fontFamily": "Clarity",
       "identifier": "serverOutlineBadged"
     },
     "server-solid": {
-      "codepoint": 58188,
+      "codepoint": 58227,
       "fontFamily": "Clarity",
       "identifier": "serverSolid"
     },
     "server-solid-alerted": {
-      "codepoint": 58189,
+      "codepoint": 58228,
       "fontFamily": "Clarity",
       "identifier": "serverSolidAlerted"
     },
     "server-solid-badged": {
-      "codepoint": 58190,
+      "codepoint": 58229,
       "fontFamily": "Clarity",
       "identifier": "serverSolidBadged"
     },
     "settings-line": {
-      "codepoint": 58191,
+      "codepoint": 58230,
       "fontFamily": "Clarity",
       "identifier": "settingsLine"
     },
     "settings-outline-alerted": {
-      "codepoint": 58192,
+      "codepoint": 58231,
       "fontFamily": "Clarity",
       "identifier": "settingsOutlineAlerted"
     },
     "settings-outline-badged": {
-      "codepoint": 58193,
+      "codepoint": 58232,
       "fontFamily": "Clarity",
       "identifier": "settingsOutlineBadged"
     },
     "settings-solid": {
-      "codepoint": 58194,
+      "codepoint": 58233,
       "fontFamily": "Clarity",
       "identifier": "settingsSolid"
     },
     "settings-solid-alerted": {
-      "codepoint": 58195,
+      "codepoint": 58234,
       "fontFamily": "Clarity",
       "identifier": "settingsSolidAlerted"
     },
     "settings-solid-badged": {
-      "codepoint": 58196,
+      "codepoint": 58235,
       "fontFamily": "Clarity",
       "identifier": "settingsSolidBadged"
     },
     "share-line": {
-      "codepoint": 58197,
+      "codepoint": 58236,
       "fontFamily": "Clarity",
       "identifier": "shareLine"
     },
     "share-solid": {
-      "codepoint": 58198,
+      "codepoint": 58237,
       "fontFamily": "Clarity",
       "identifier": "shareSolid"
     },
     "shield-check-line": {
-      "codepoint": 58199,
+      "codepoint": 58238,
       "fontFamily": "Clarity",
       "identifier": "shieldCheckLine"
     },
     "shield-check-solid": {
-      "codepoint": 58200,
+      "codepoint": 58239,
       "fontFamily": "Clarity",
       "identifier": "shieldCheckSolid"
     },
     "shield-line": {
-      "codepoint": 58201,
+      "codepoint": 58240,
       "fontFamily": "Clarity",
       "identifier": "shieldLine"
     },
     "shield-outline-alerted": {
-      "codepoint": 58202,
+      "codepoint": 58241,
       "fontFamily": "Clarity",
       "identifier": "shieldOutlineAlerted"
     },
     "shield-outline-badged": {
-      "codepoint": 58203,
+      "codepoint": 58242,
       "fontFamily": "Clarity",
       "identifier": "shieldOutlineBadged"
     },
     "shield-solid": {
-      "codepoint": 58204,
+      "codepoint": 58243,
       "fontFamily": "Clarity",
       "identifier": "shieldSolid"
     },
     "shield-solid-alerted": {
-      "codepoint": 58205,
+      "codepoint": 58244,
       "fontFamily": "Clarity",
       "identifier": "shieldSolidAlerted"
     },
     "shield-solid-badged": {
-      "codepoint": 58206,
+      "codepoint": 58245,
       "fontFamily": "Clarity",
       "identifier": "shieldSolidBadged"
     },
     "shield-x-line": {
-      "codepoint": 58207,
+      "codepoint": 58246,
       "fontFamily": "Clarity",
       "identifier": "shieldXLine"
     },
     "shield-x-solid": {
-      "codepoint": 58208,
+      "codepoint": 58247,
       "fontFamily": "Clarity",
       "identifier": "shieldXSolid"
     },
     "shopping-bag-line": {
-      "codepoint": 58209,
+      "codepoint": 58248,
       "fontFamily": "Clarity",
       "identifier": "shoppingBagLine"
     },
     "shopping-bag-solid": {
-      "codepoint": 58210,
+      "codepoint": 58249,
       "fontFamily": "Clarity",
       "identifier": "shoppingBagSolid"
     },
     "shopping-cart-line": {
-      "codepoint": 58211,
+      "codepoint": 58250,
       "fontFamily": "Clarity",
       "identifier": "shoppingCartLine"
     },
     "shopping-cart-outline-alerted": {
-      "codepoint": 58212,
+      "codepoint": 58251,
       "fontFamily": "Clarity",
       "identifier": "shoppingCartOutlineAlerted"
     },
     "shopping-cart-outline-badged": {
-      "codepoint": 58213,
+      "codepoint": 58252,
       "fontFamily": "Clarity",
       "identifier": "shoppingCartOutlineBadged"
     },
     "shopping-cart-solid": {
-      "codepoint": 58214,
+      "codepoint": 58253,
       "fontFamily": "Clarity",
       "identifier": "shoppingCartSolid"
     },
     "shopping-cart-solid-alerted": {
-      "codepoint": 58215,
+      "codepoint": 58254,
       "fontFamily": "Clarity",
       "identifier": "shoppingCartSolidAlerted"
     },
     "shopping-cart-solid-badged": {
-      "codepoint": 58216,
+      "codepoint": 58255,
       "fontFamily": "Clarity",
       "identifier": "shoppingCartSolidBadged"
     },
     "shrink-line": {
-      "codepoint": 58217,
+      "codepoint": 58256,
       "fontFamily": "Clarity",
       "identifier": "shrinkLine"
     },
     "shuffle-line": {
-      "codepoint": 58218,
+      "codepoint": 58257,
       "fontFamily": "Clarity",
       "identifier": "shuffleLine"
     },
     "sign-in-line": {
-      "codepoint": 58219,
+      "codepoint": 58258,
       "fontFamily": "Clarity",
       "identifier": "signInLine"
     },
     "sign-in-solid": {
-      "codepoint": 58220,
+      "codepoint": 58259,
       "fontFamily": "Clarity",
       "identifier": "signInSolid"
     },
     "sign-out-line": {
-      "codepoint": 58221,
+      "codepoint": 58260,
       "fontFamily": "Clarity",
       "identifier": "signOutLine"
     },
     "sign-out-solid": {
-      "codepoint": 58222,
+      "codepoint": 58261,
       "fontFamily": "Clarity",
       "identifier": "signOutSolid"
     },
     "slider-line": {
-      "codepoint": 58223,
+      "codepoint": 58262,
       "fontFamily": "Clarity",
       "identifier": "sliderLine"
     },
     "slider-solid": {
-      "codepoint": 58224,
+      "codepoint": 58263,
       "fontFamily": "Clarity",
       "identifier": "sliderSolid"
     },
     "snowflake-line": {
-      "codepoint": 58225,
+      "codepoint": 58264,
       "fontFamily": "Clarity",
       "identifier": "snowflakeLine"
     },
     "sort-by-line": {
-      "codepoint": 58226,
+      "codepoint": 58265,
       "fontFamily": "Clarity",
       "identifier": "sortByLine"
     },
     "squid-line": {
-      "codepoint": 58227,
+      "codepoint": 58266,
       "fontFamily": "Clarity",
       "identifier": "squidLine"
     },
     "ssd-line": {
-      "codepoint": 58228,
+      "codepoint": 58267,
       "fontFamily": "Clarity",
       "identifier": "ssdLine"
     },
     "ssd-solid": {
-      "codepoint": 58229,
+      "codepoint": 58268,
       "fontFamily": "Clarity",
       "identifier": "ssdSolid"
     },
     "star-line": {
-      "codepoint": 58230,
+      "codepoint": 58269,
       "fontFamily": "Clarity",
       "identifier": "starLine"
     },
     "star-solid": {
-      "codepoint": 58231,
+      "codepoint": 58270,
       "fontFamily": "Clarity",
       "identifier": "starSolid"
     },
     "step-forward-2-line": {
-      "codepoint": 58232,
+      "codepoint": 58271,
       "fontFamily": "Clarity",
       "identifier": "stepForward2Line"
     },
     "step-forward-line": {
-      "codepoint": 58233,
+      "codepoint": 58272,
       "fontFamily": "Clarity",
       "identifier": "stepForwardLine"
     },
     "step-forward-solid": {
-      "codepoint": 58234,
+      "codepoint": 58273,
       "fontFamily": "Clarity",
       "identifier": "stepForwardSolid"
     },
     "stop-line": {
-      "codepoint": 58235,
+      "codepoint": 58274,
       "fontFamily": "Clarity",
       "identifier": "stopLine"
     },
     "stop-solid": {
-      "codepoint": 58236,
+      "codepoint": 58275,
       "fontFamily": "Clarity",
       "identifier": "stopSolid"
     },
     "storage-adapter-line": {
-      "codepoint": 58237,
+      "codepoint": 58276,
       "fontFamily": "Clarity",
       "identifier": "storageAdapterLine"
     },
     "storage-line": {
-      "codepoint": 58238,
+      "codepoint": 58277,
       "fontFamily": "Clarity",
       "identifier": "storageLine"
     },
     "storage-outline-alerted": {
-      "codepoint": 58239,
+      "codepoint": 58278,
       "fontFamily": "Clarity",
       "identifier": "storageOutlineAlerted"
     },
     "storage-outline-badged": {
-      "codepoint": 58240,
+      "codepoint": 58279,
       "fontFamily": "Clarity",
       "identifier": "storageOutlineBadged"
     },
     "storage-solid": {
-      "codepoint": 58241,
+      "codepoint": 58280,
       "fontFamily": "Clarity",
       "identifier": "storageSolid"
     },
     "storage-solid-alerted": {
-      "codepoint": 58242,
+      "codepoint": 58281,
       "fontFamily": "Clarity",
       "identifier": "storageSolidAlerted"
     },
     "storage-solid-badged": {
-      "codepoint": 58243,
+      "codepoint": 58282,
       "fontFamily": "Clarity",
       "identifier": "storageSolidBadged"
     },
     "store-line": {
-      "codepoint": 58244,
+      "codepoint": 58283,
       "fontFamily": "Clarity",
       "identifier": "storeLine"
     },
     "store-solid": {
-      "codepoint": 58245,
+      "codepoint": 58284,
       "fontFamily": "Clarity",
       "identifier": "storeSolid"
     },
     "strikethrough-line": {
-      "codepoint": 58246,
+      "codepoint": 58285,
       "fontFamily": "Clarity",
       "identifier": "strikethroughLine"
     },
     "subscript-line": {
-      "codepoint": 58247,
+      "codepoint": 58286,
       "fontFamily": "Clarity",
       "identifier": "subscriptLine"
     },
     "success-line": {
-      "codepoint": 58248,
+      "codepoint": 58287,
       "fontFamily": "Clarity",
       "identifier": "successLine"
     },
     "success-standard-line": {
-      "codepoint": 58249,
+      "codepoint": 58288,
       "fontFamily": "Clarity",
       "identifier": "successStandardLine"
     },
     "success-standard-solid": {
-      "codepoint": 58250,
+      "codepoint": 58289,
       "fontFamily": "Clarity",
       "identifier": "successStandardSolid"
     },
     "sun-line": {
-      "codepoint": 58251,
+      "codepoint": 58290,
       "fontFamily": "Clarity",
       "identifier": "sunLine"
     },
     "sun-solid": {
-      "codepoint": 58252,
+      "codepoint": 58291,
       "fontFamily": "Clarity",
       "identifier": "sunSolid"
     },
     "superscript-line": {
-      "codepoint": 58253,
+      "codepoint": 58292,
       "fontFamily": "Clarity",
       "identifier": "superscriptLine"
     },
     "switch-line": {
-      "codepoint": 58254,
+      "codepoint": 58293,
       "fontFamily": "Clarity",
       "identifier": "switchLine"
     },
     "sync-line": {
-      "codepoint": 58255,
+      "codepoint": 58294,
       "fontFamily": "Clarity",
       "identifier": "syncLine"
     },
     "table-line": {
-      "codepoint": 58256,
+      "codepoint": 58295,
       "fontFamily": "Clarity",
       "identifier": "tableLine"
     },
     "tablet-line": {
-      "codepoint": 58257,
+      "codepoint": 58296,
       "fontFamily": "Clarity",
       "identifier": "tabletLine"
     },
     "tablet-solid": {
-      "codepoint": 58258,
+      "codepoint": 58297,
       "fontFamily": "Clarity",
       "identifier": "tabletSolid"
     },
     "tag-line": {
-      "codepoint": 58259,
+      "codepoint": 58298,
       "fontFamily": "Clarity",
       "identifier": "tagLine"
     },
     "tag-outline-alerted": {
-      "codepoint": 58260,
+      "codepoint": 58299,
       "fontFamily": "Clarity",
       "identifier": "tagOutlineAlerted"
     },
     "tag-outline-badged": {
-      "codepoint": 58261,
+      "codepoint": 58300,
       "fontFamily": "Clarity",
       "identifier": "tagOutlineBadged"
     },
     "tag-solid": {
-      "codepoint": 58262,
+      "codepoint": 58301,
       "fontFamily": "Clarity",
       "identifier": "tagSolid"
     },
     "tag-solid-alerted": {
-      "codepoint": 58263,
+      "codepoint": 58302,
       "fontFamily": "Clarity",
       "identifier": "tagSolidAlerted"
     },
     "tag-solid-badged": {
-      "codepoint": 58264,
+      "codepoint": 58303,
       "fontFamily": "Clarity",
       "identifier": "tagSolidBadged"
     },
     "tags-line": {
-      "codepoint": 58265,
+      "codepoint": 58304,
       "fontFamily": "Clarity",
       "identifier": "tagsLine"
     },
     "tags-outline-alerted": {
-      "codepoint": 58266,
+      "codepoint": 58305,
       "fontFamily": "Clarity",
       "identifier": "tagsOutlineAlerted"
     },
     "tags-outline-badged": {
-      "codepoint": 58267,
+      "codepoint": 58306,
       "fontFamily": "Clarity",
       "identifier": "tagsOutlineBadged"
     },
     "tags-solid": {
-      "codepoint": 58268,
+      "codepoint": 58307,
       "fontFamily": "Clarity",
       "identifier": "tagsSolid"
     },
     "tags-solid-alerted": {
-      "codepoint": 58269,
+      "codepoint": 58308,
       "fontFamily": "Clarity",
       "identifier": "tagsSolidAlerted"
     },
     "tags-solid-badged": {
-      "codepoint": 58270,
+      "codepoint": 58309,
       "fontFamily": "Clarity",
       "identifier": "tagsSolidBadged"
     },
     "talk-bubbles-line": {
-      "codepoint": 58271,
+      "codepoint": 58310,
       "fontFamily": "Clarity",
       "identifier": "talkBubblesLine"
     },
     "talk-bubbles-outline-badged": {
-      "codepoint": 58272,
+      "codepoint": 58311,
       "fontFamily": "Clarity",
       "identifier": "talkBubblesOutlineBadged"
     },
     "talk-bubbles-solid": {
-      "codepoint": 58273,
+      "codepoint": 58312,
       "fontFamily": "Clarity",
       "identifier": "talkBubblesSolid"
     },
     "talk-bubbles-solid-badged": {
-      "codepoint": 58274,
+      "codepoint": 58313,
       "fontFamily": "Clarity",
       "identifier": "talkBubblesSolidBadged"
     },
     "tape-drive-line": {
-      "codepoint": 58275,
+      "codepoint": 58314,
       "fontFamily": "Clarity",
       "identifier": "tapeDriveLine"
     },
     "tape-drive-outline-alerted": {
-      "codepoint": 58276,
+      "codepoint": 58315,
       "fontFamily": "Clarity",
       "identifier": "tapeDriveOutlineAlerted"
     },
     "tape-drive-outline-badged": {
-      "codepoint": 58277,
+      "codepoint": 58316,
       "fontFamily": "Clarity",
       "identifier": "tapeDriveOutlineBadged"
     },
     "tape-drive-solid": {
-      "codepoint": 58278,
+      "codepoint": 58317,
       "fontFamily": "Clarity",
       "identifier": "tapeDriveSolid"
     },
     "tape-drive-solid-alerted": {
-      "codepoint": 58279,
+      "codepoint": 58318,
       "fontFamily": "Clarity",
       "identifier": "tapeDriveSolidAlerted"
     },
     "tape-drive-solid-badged": {
-      "codepoint": 58280,
+      "codepoint": 58319,
       "fontFamily": "Clarity",
       "identifier": "tapeDriveSolidBadged"
     },
     "target-line": {
-      "codepoint": 58281,
+      "codepoint": 58320,
       "fontFamily": "Clarity",
       "identifier": "targetLine"
     },
     "target-solid": {
-      "codepoint": 58282,
+      "codepoint": 58321,
       "fontFamily": "Clarity",
       "identifier": "targetSolid"
     },
     "tasks-line": {
-      "codepoint": 58283,
+      "codepoint": 58322,
       "fontFamily": "Clarity",
       "identifier": "tasksLine"
     },
     "tasks-outline-alerted": {
-      "codepoint": 58284,
+      "codepoint": 58323,
       "fontFamily": "Clarity",
       "identifier": "tasksOutlineAlerted"
     },
     "tasks-outline-badged": {
-      "codepoint": 58285,
+      "codepoint": 58324,
       "fontFamily": "Clarity",
       "identifier": "tasksOutlineBadged"
     },
     "tasks-solid": {
-      "codepoint": 58286,
+      "codepoint": 58325,
       "fontFamily": "Clarity",
       "identifier": "tasksSolid"
     },
     "tasks-solid-alerted": {
-      "codepoint": 58287,
+      "codepoint": 58326,
       "fontFamily": "Clarity",
       "identifier": "tasksSolidAlerted"
     },
     "tasks-solid-badged": {
-      "codepoint": 58288,
+      "codepoint": 58327,
       "fontFamily": "Clarity",
       "identifier": "tasksSolidBadged"
     },
     "terminal-line": {
-      "codepoint": 58289,
+      "codepoint": 58328,
       "fontFamily": "Clarity",
       "identifier": "terminalLine"
     },
     "terminal-outline-alerted": {
-      "codepoint": 58290,
+      "codepoint": 58329,
       "fontFamily": "Clarity",
       "identifier": "terminalOutlineAlerted"
     },
     "terminal-outline-badged": {
-      "codepoint": 58291,
+      "codepoint": 58330,
       "fontFamily": "Clarity",
       "identifier": "terminalOutlineBadged"
     },
     "terminal-solid": {
-      "codepoint": 58292,
+      "codepoint": 58331,
       "fontFamily": "Clarity",
       "identifier": "terminalSolid"
     },
     "terminal-solid-alerted": {
-      "codepoint": 58293,
+      "codepoint": 58332,
       "fontFamily": "Clarity",
       "identifier": "terminalSolidAlerted"
     },
     "terminal-solid-badged": {
-      "codepoint": 58294,
+      "codepoint": 58333,
       "fontFamily": "Clarity",
       "identifier": "terminalSolidBadged"
     },
     "text-color-line": {
-      "codepoint": 58295,
+      "codepoint": 58334,
       "fontFamily": "Clarity",
       "identifier": "textColorLine"
     },
     "text-line": {
-      "codepoint": 58296,
+      "codepoint": 58335,
       "fontFamily": "Clarity",
       "identifier": "textLine"
     },
     "thermometer-line": {
-      "codepoint": 58297,
+      "codepoint": 58336,
       "fontFamily": "Clarity",
       "identifier": "thermometerLine"
     },
     "thin-client-line": {
-      "codepoint": 58298,
+      "codepoint": 58337,
       "fontFamily": "Clarity",
       "identifier": "thinClientLine"
     },
     "thin-client-solid": {
-      "codepoint": 58299,
+      "codepoint": 58338,
       "fontFamily": "Clarity",
       "identifier": "thinClientSolid"
     },
     "thumbs-down-line": {
-      "codepoint": 58300,
+      "codepoint": 58339,
       "fontFamily": "Clarity",
       "identifier": "thumbsDownLine"
     },
     "thumbs-down-solid": {
-      "codepoint": 58301,
+      "codepoint": 58340,
       "fontFamily": "Clarity",
       "identifier": "thumbsDownSolid"
     },
     "thumbs-up-line": {
-      "codepoint": 58302,
+      "codepoint": 58341,
       "fontFamily": "Clarity",
       "identifier": "thumbsUpLine"
     },
     "thumbs-up-solid": {
-      "codepoint": 58303,
+      "codepoint": 58342,
       "fontFamily": "Clarity",
       "identifier": "thumbsUpSolid"
     },
     "tick-chart-line": {
-      "codepoint": 58304,
+      "codepoint": 58343,
       "fontFamily": "Clarity",
       "identifier": "tickChartLine"
     },
     "tick-chart-outline-alerted": {
-      "codepoint": 58305,
+      "codepoint": 58344,
       "fontFamily": "Clarity",
       "identifier": "tickChartOutlineAlerted"
     },
+    "tick-chart-outline-badged": {
+      "codepoint": 58345,
+      "fontFamily": "Clarity",
+      "identifier": "tickChartOutlineBadged"
+    },
     "tick-chart-solid": {
-      "codepoint": 58306,
+      "codepoint": 58346,
       "fontFamily": "Clarity",
       "identifier": "tickChartSolid"
     },
+    "tick-chart-solid-alerted": {
+      "codepoint": 58347,
+      "fontFamily": "Clarity",
+      "identifier": "tickChartSolidAlerted"
+    },
     "tick-chart-solid-badged": {
-      "codepoint": 58307,
+      "codepoint": 58348,
       "fontFamily": "Clarity",
       "identifier": "tickChartSolidBadged"
     },
     "timeline-line": {
-      "codepoint": 58308,
+      "codepoint": 58349,
       "fontFamily": "Clarity",
       "identifier": "timelineLine"
     },
     "times-circle-line": {
-      "codepoint": 58309,
+      "codepoint": 58350,
       "fontFamily": "Clarity",
       "identifier": "timesCircleLine"
     },
     "times-circle-solid": {
-      "codepoint": 58310,
+      "codepoint": 58351,
       "fontFamily": "Clarity",
       "identifier": "timesCircleSolid"
     },
     "times-line": {
-      "codepoint": 58311,
+      "codepoint": 58352,
       "fontFamily": "Clarity",
       "identifier": "timesLine"
     },
     "tools-line": {
-      "codepoint": 58312,
+      "codepoint": 58353,
       "fontFamily": "Clarity",
       "identifier": "toolsLine"
     },
     "tools-solid": {
-      "codepoint": 58313,
+      "codepoint": 58354,
       "fontFamily": "Clarity",
       "identifier": "toolsSolid"
     },
     "trailer-line": {
-      "codepoint": 58314,
+      "codepoint": 58355,
       "fontFamily": "Clarity",
       "identifier": "trailerLine"
     },
     "trailer-solid": {
-      "codepoint": 58315,
+      "codepoint": 58356,
       "fontFamily": "Clarity",
       "identifier": "trailerSolid"
     },
     "trash-line": {
-      "codepoint": 58316,
+      "codepoint": 58357,
       "fontFamily": "Clarity",
       "identifier": "trashLine"
     },
     "trash-solid": {
-      "codepoint": 58317,
+      "codepoint": 58358,
       "fontFamily": "Clarity",
       "identifier": "trashSolid"
     },
     "tree-line": {
-      "codepoint": 58318,
+      "codepoint": 58359,
       "fontFamily": "Clarity",
       "identifier": "treeLine"
     },
     "tree-solid": {
-      "codepoint": 58319,
+      "codepoint": 58360,
       "fontFamily": "Clarity",
       "identifier": "treeSolid"
     },
     "tree-view-line": {
-      "codepoint": 58320,
+      "codepoint": 58361,
       "fontFamily": "Clarity",
       "identifier": "treeViewLine"
     },
     "tree-view-solid": {
-      "codepoint": 58321,
+      "codepoint": 58362,
       "fontFamily": "Clarity",
       "identifier": "treeViewSolid"
     },
     "truck-line": {
-      "codepoint": 58322,
+      "codepoint": 58363,
       "fontFamily": "Clarity",
       "identifier": "truckLine"
     },
     "truck-solid": {
-      "codepoint": 58323,
+      "codepoint": 58364,
       "fontFamily": "Clarity",
       "identifier": "truckSolid"
     },
     "two-way-arrows-line": {
-      "codepoint": 58324,
+      "codepoint": 58365,
       "fontFamily": "Clarity",
       "identifier": "twoWayArrowsLine"
     },
     "unarchive-line": {
-      "codepoint": 58325,
+      "codepoint": 58366,
       "fontFamily": "Clarity",
       "identifier": "unarchiveLine"
     },
     "unarchive-solid": {
-      "codepoint": 58326,
+      "codepoint": 58367,
       "fontFamily": "Clarity",
       "identifier": "unarchiveSolid"
     },
     "underline-line": {
-      "codepoint": 58327,
+      "codepoint": 58368,
       "fontFamily": "Clarity",
       "identifier": "underlineLine"
     },
     "undo-line": {
-      "codepoint": 58328,
+      "codepoint": 58369,
       "fontFamily": "Clarity",
       "identifier": "undoLine"
     },
     "uninstall-line": {
-      "codepoint": 58329,
+      "codepoint": 58370,
       "fontFamily": "Clarity",
       "identifier": "uninstallLine"
     },
     "uninstall-outline-alerted": {
-      "codepoint": 58330,
+      "codepoint": 58371,
       "fontFamily": "Clarity",
       "identifier": "uninstallOutlineAlerted"
     },
     "uninstall-outline-badged": {
-      "codepoint": 58331,
+      "codepoint": 58372,
       "fontFamily": "Clarity",
       "identifier": "uninstallOutlineBadged"
     },
     "unknown-status-line": {
-      "codepoint": 58332,
+      "codepoint": 58373,
       "fontFamily": "Clarity",
       "identifier": "unknownStatusLine"
     },
     "unlink-line": {
-      "codepoint": 58333,
+      "codepoint": 58374,
       "fontFamily": "Clarity",
       "identifier": "unlinkLine"
     },
     "unlock-line": {
-      "codepoint": 58334,
+      "codepoint": 58375,
       "fontFamily": "Clarity",
       "identifier": "unlockLine"
     },
     "unlock-solid": {
-      "codepoint": 58335,
+      "codepoint": 58376,
       "fontFamily": "Clarity",
       "identifier": "unlockSolid"
     },
     "update-line": {
-      "codepoint": 58336,
+      "codepoint": 58377,
       "fontFamily": "Clarity",
       "identifier": "updateLine"
     },
     "upload-cloud-line": {
-      "codepoint": 58337,
+      "codepoint": 58378,
       "fontFamily": "Clarity",
       "identifier": "uploadCloudLine"
     },
     "upload-cloud-outline-alerted": {
-      "codepoint": 58338,
+      "codepoint": 58379,
       "fontFamily": "Clarity",
       "identifier": "uploadCloudOutlineAlerted"
     },
     "upload-cloud-outline-badged": {
-      "codepoint": 58339,
+      "codepoint": 58380,
       "fontFamily": "Clarity",
       "identifier": "uploadCloudOutlineBadged"
     },
     "upload-line": {
-      "codepoint": 58340,
+      "codepoint": 58381,
       "fontFamily": "Clarity",
       "identifier": "uploadLine"
     },
     "upload-outline-alerted": {
-      "codepoint": 58341,
+      "codepoint": 58382,
       "fontFamily": "Clarity",
       "identifier": "uploadOutlineAlerted"
     },
     "upload-outline-badged": {
-      "codepoint": 58342,
+      "codepoint": 58383,
       "fontFamily": "Clarity",
       "identifier": "uploadOutlineBadged"
     },
     "usb-line": {
-      "codepoint": 58343,
+      "codepoint": 58384,
       "fontFamily": "Clarity",
       "identifier": "usbLine"
     },
     "usb-solid": {
-      "codepoint": 58344,
+      "codepoint": 58385,
       "fontFamily": "Clarity",
       "identifier": "usbSolid"
     },
     "user-line": {
-      "codepoint": 58345,
+      "codepoint": 58386,
       "fontFamily": "Clarity",
       "identifier": "userLine"
     },
     "user-outline-alerted": {
-      "codepoint": 58346,
+      "codepoint": 58387,
       "fontFamily": "Clarity",
       "identifier": "userOutlineAlerted"
     },
     "user-outline-badged": {
-      "codepoint": 58347,
+      "codepoint": 58388,
       "fontFamily": "Clarity",
       "identifier": "userOutlineBadged"
     },
     "user-solid": {
-      "codepoint": 58348,
+      "codepoint": 58389,
       "fontFamily": "Clarity",
       "identifier": "userSolid"
     },
     "user-solid-alerted": {
-      "codepoint": 58349,
+      "codepoint": 58390,
       "fontFamily": "Clarity",
       "identifier": "userSolidAlerted"
     },
     "user-solid-badged": {
-      "codepoint": 58350,
+      "codepoint": 58391,
       "fontFamily": "Clarity",
       "identifier": "userSolidBadged"
     },
     "users-line": {
-      "codepoint": 58351,
+      "codepoint": 58392,
       "fontFamily": "Clarity",
       "identifier": "usersLine"
     },
     "users-outline-alerted": {
-      "codepoint": 58352,
+      "codepoint": 58393,
       "fontFamily": "Clarity",
       "identifier": "usersOutlineAlerted"
     },
     "users-outline-badged": {
-      "codepoint": 58353,
+      "codepoint": 58394,
       "fontFamily": "Clarity",
       "identifier": "usersOutlineBadged"
     },
     "users-solid": {
-      "codepoint": 58354,
+      "codepoint": 58395,
       "fontFamily": "Clarity",
       "identifier": "usersSolid"
     },
     "users-solid-alerted": {
-      "codepoint": 58355,
+      "codepoint": 58396,
       "fontFamily": "Clarity",
       "identifier": "usersSolidAlerted"
     },
     "users-solid-badged": {
-      "codepoint": 58356,
+      "codepoint": 58397,
       "fontFamily": "Clarity",
       "identifier": "usersSolidBadged"
     },
     "video-camera-line": {
-      "codepoint": 58357,
+      "codepoint": 58398,
       "fontFamily": "Clarity",
       "identifier": "videoCameraLine"
     },
     "video-camera-solid": {
-      "codepoint": 58358,
+      "codepoint": 58399,
       "fontFamily": "Clarity",
       "identifier": "videoCameraSolid"
     },
     "video-gallery-line": {
-      "codepoint": 58359,
+      "codepoint": 58400,
       "fontFamily": "Clarity",
       "identifier": "videoGalleryLine"
     },
     "video-gallery-solid": {
-      "codepoint": 58360,
+      "codepoint": 58401,
       "fontFamily": "Clarity",
       "identifier": "videoGallerySolid"
     },
     "view-cards-line": {
-      "codepoint": 58361,
+      "codepoint": 58402,
       "fontFamily": "Clarity",
       "identifier": "viewCardsLine"
     },
     "view-columns-line": {
-      "codepoint": 58362,
+      "codepoint": 58403,
       "fontFamily": "Clarity",
       "identifier": "viewColumnsLine"
     },
     "view-list-line": {
-      "codepoint": 58363,
+      "codepoint": 58404,
       "fontFamily": "Clarity",
       "identifier": "viewListLine"
     },
     "vm-bug-inverse-line": {
-      "codepoint": 58364,
+      "codepoint": 58405,
       "fontFamily": "Clarity",
       "identifier": "vmBugInverseLine",
       "duotone": true
     },
     "vm-bug-line": {
-      "codepoint": 58365,
+      "codepoint": 58406,
       "fontFamily": "Clarity",
       "identifier": "vmBugLine",
       "duotone": true
     },
     "vm-line": {
-      "codepoint": 58366,
+      "codepoint": 58407,
       "fontFamily": "Clarity",
       "identifier": "vmLine"
     },
     "vm-outline-alerted": {
-      "codepoint": 58367,
+      "codepoint": 58408,
       "fontFamily": "Clarity",
       "identifier": "vmOutlineAlerted"
     },
     "vm-outline-badged": {
-      "codepoint": 58368,
+      "codepoint": 58409,
       "fontFamily": "Clarity",
       "identifier": "vmOutlineBadged"
     },
     "vm-solid": {
-      "codepoint": 58369,
+      "codepoint": 58410,
       "fontFamily": "Clarity",
       "identifier": "vmSolid"
     },
     "vm-solid-alerted": {
-      "codepoint": 58370,
+      "codepoint": 58411,
       "fontFamily": "Clarity",
       "identifier": "vmSolidAlerted"
     },
     "vm-solid-badged": {
-      "codepoint": 58371,
+      "codepoint": 58412,
       "fontFamily": "Clarity",
       "identifier": "vmSolidBadged"
     },
     "vmw-app-line": {
-      "codepoint": 58372,
+      "codepoint": 58413,
       "fontFamily": "Clarity",
       "identifier": "vmwAppLine"
     },
     "vmw-app-outline-alerted": {
-      "codepoint": 58373,
+      "codepoint": 58414,
       "fontFamily": "Clarity",
       "identifier": "vmwAppOutlineAlerted"
     },
     "vmw-app-outline-badged": {
-      "codepoint": 58374,
+      "codepoint": 58415,
       "fontFamily": "Clarity",
       "identifier": "vmwAppOutlineBadged"
     },
     "volume-down-line": {
-      "codepoint": 58375,
+      "codepoint": 58416,
       "fontFamily": "Clarity",
       "identifier": "volumeDownLine"
     },
     "volume-down-solid": {
-      "codepoint": 58376,
+      "codepoint": 58417,
       "fontFamily": "Clarity",
       "identifier": "volumeDownSolid"
     },
     "volume-line": {
-      "codepoint": 58377,
+      "codepoint": 58418,
       "fontFamily": "Clarity",
       "identifier": "volumeLine"
     },
     "volume-mute-line": {
-      "codepoint": 58378,
+      "codepoint": 58419,
       "fontFamily": "Clarity",
       "identifier": "volumeMuteLine"
     },
     "volume-mute-solid": {
-      "codepoint": 58379,
+      "codepoint": 58420,
       "fontFamily": "Clarity",
       "identifier": "volumeMuteSolid"
     },
     "volume-up-line": {
-      "codepoint": 58380,
+      "codepoint": 58421,
       "fontFamily": "Clarity",
       "identifier": "volumeUpLine"
     },
     "volume-up-solid": {
-      "codepoint": 58381,
+      "codepoint": 58422,
       "fontFamily": "Clarity",
       "identifier": "volumeUpSolid"
     },
     "wallet-line": {
-      "codepoint": 58382,
+      "codepoint": 58423,
       "fontFamily": "Clarity",
       "identifier": "walletLine"
     },
     "wallet-solid": {
-      "codepoint": 58383,
+      "codepoint": 58424,
       "fontFamily": "Clarity",
       "identifier": "walletSolid"
     },
     "wand-line": {
-      "codepoint": 58384,
+      "codepoint": 58425,
       "fontFamily": "Clarity",
       "identifier": "wandLine"
     },
     "warning-line": {
-      "codepoint": 58385,
+      "codepoint": 58426,
       "fontFamily": "Clarity",
       "identifier": "warningLine"
     },
     "warning-solid": {
-      "codepoint": 58386,
+      "codepoint": 58427,
       "fontFamily": "Clarity",
       "identifier": "warningSolid"
     },
     "warning-standard-line": {
-      "codepoint": 58387,
+      "codepoint": 58428,
       "fontFamily": "Clarity",
       "identifier": "warningStandardLine"
     },
     "warning-standard-solid": {
-      "codepoint": 58388,
+      "codepoint": 58429,
       "fontFamily": "Clarity",
       "identifier": "warningStandardSolid"
     },
     "wifi-line": {
-      "codepoint": 58389,
+      "codepoint": 58430,
       "fontFamily": "Clarity",
       "identifier": "wifiLine"
     },
     "wifi-solid": {
-      "codepoint": 58390,
+      "codepoint": 58431,
       "fontFamily": "Clarity",
       "identifier": "wifiSolid"
     },
     "window-close-line": {
-      "codepoint": 58391,
+      "codepoint": 58432,
       "fontFamily": "Clarity",
       "identifier": "windowCloseLine"
     },
     "window-max-line": {
-      "codepoint": 58392,
+      "codepoint": 58433,
       "fontFamily": "Clarity",
       "identifier": "windowMaxLine"
     },
     "window-min-line": {
-      "codepoint": 58393,
+      "codepoint": 58434,
       "fontFamily": "Clarity",
       "identifier": "windowMinLine"
     },
     "window-restore-line": {
-      "codepoint": 58394,
+      "codepoint": 58435,
       "fontFamily": "Clarity",
       "identifier": "windowRestoreLine"
     },
     "won-line": {
-      "codepoint": 58395,
+      "codepoint": 58436,
       "fontFamily": "Clarity",
       "identifier": "wonLine"
     },
     "won-solid": {
-      "codepoint": 58396,
+      "codepoint": 58437,
       "fontFamily": "Clarity",
       "identifier": "wonSolid"
     },
     "world-line": {
-      "codepoint": 58397,
+      "codepoint": 58438,
       "fontFamily": "Clarity",
       "identifier": "worldLine"
     },
     "world-outline-badged": {
-      "codepoint": 58398,
+      "codepoint": 58439,
       "fontFamily": "Clarity",
       "identifier": "worldOutlineBadged"
     },
     "world-solid": {
-      "codepoint": 58399,
+      "codepoint": 58440,
       "fontFamily": "Clarity",
       "identifier": "worldSolid"
     },
     "world-solid-badged": {
-      "codepoint": 58400,
+      "codepoint": 58441,
       "fontFamily": "Clarity",
       "identifier": "worldSolidBadged"
     },
     "wrench-line": {
-      "codepoint": 58401,
+      "codepoint": 58442,
       "fontFamily": "Clarity",
       "identifier": "wrenchLine"
     },
     "wrench-solid": {
-      "codepoint": 58402,
+      "codepoint": 58443,
       "fontFamily": "Clarity",
       "identifier": "wrenchSolid"
     },
     "yen-line": {
-      "codepoint": 58403,
+      "codepoint": 58444,
       "fontFamily": "Clarity",
       "identifier": "yenLine"
     },
     "yen-solid": {
-      "codepoint": 58404,
+      "codepoint": 58445,
       "fontFamily": "Clarity",
       "identifier": "yenSolid"
     },
     "zoom-in-line": {
-      "codepoint": 58405,
+      "codepoint": 58446,
       "fontFamily": "Clarity",
       "identifier": "zoomInLine"
     },
     "zoom-out-line": {
-      "codepoint": 58406,
+      "codepoint": 58447,
       "fontFamily": "Clarity",
       "identifier": "zoomOutLine"
     }

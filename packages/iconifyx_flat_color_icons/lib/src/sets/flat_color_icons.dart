@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Icons8
 /// License: MIT
-/// Icons: 81
+/// Icons: 83
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -499,86 +499,100 @@ class FlatColorIconsIcons {
     fontPackage: 'iconifyx_flat_color_icons',
   ));
 
+  /// `ruler`
+  static const IconifyIconData ruler = IconifyIconData(IconData(
+    0xe045,
+    fontFamily: 'FlatColorIcons',
+    fontPackage: 'iconifyx_flat_color_icons',
+  ));
+
   /// `sales-performance`
   static const IconifyIconData salesPerformance = IconifyIconData(IconData(
-    0xe045,
+    0xe046,
     fontFamily: 'FlatColorIcons',
     fontPackage: 'iconifyx_flat_color_icons',
   ));
 
   /// `scatter-plot`
   static const IconifyIconData scatterPlot = IconifyIconData(IconData(
-    0xe046,
+    0xe047,
     fontFamily: 'FlatColorIcons',
     fontPackage: 'iconifyx_flat_color_icons',
   ));
 
   /// `service-mark`
   static const IconifyIconData serviceMark = IconifyIconData(IconData(
-    0xe047,
+    0xe048,
     fontFamily: 'FlatColorIcons',
     fontPackage: 'iconifyx_flat_color_icons',
   ));
 
   /// `sound-recording-copyright`
   static const IconifyIconData soundRecordingCopyright = IconifyIconData(IconData(
-    0xe048,
+    0xe049,
+    fontFamily: 'FlatColorIcons',
+    fontPackage: 'iconifyx_flat_color_icons',
+  ));
+
+  /// `stumbleupon`
+  static const IconifyIconData stumbleupon = IconifyIconData(IconData(
+    0xe04a,
     fontFamily: 'FlatColorIcons',
     fontPackage: 'iconifyx_flat_color_icons',
   ));
 
   /// `synchronize`
   static const IconifyIconData synchronize = IconifyIconData(IconData(
-    0xe049,
+    0xe04b,
     fontFamily: 'FlatColorIcons',
     fontPackage: 'iconifyx_flat_color_icons',
   ));
 
   /// `todo-list`
   static const IconifyIconData todoList = IconifyIconData(IconData(
-    0xe04a,
+    0xe04c,
     fontFamily: 'FlatColorIcons',
     fontPackage: 'iconifyx_flat_color_icons',
   ));
 
   /// `trademark`
   static const IconifyIconData trademark = IconifyIconData(IconData(
-    0xe04b,
+    0xe04d,
     fontFamily: 'FlatColorIcons',
     fontPackage: 'iconifyx_flat_color_icons',
   ));
 
   /// `undo`
   static const IconifyIconData undo = IconifyIconData(IconData(
-    0xe04c,
+    0xe04e,
     fontFamily: 'FlatColorIcons',
     fontPackage: 'iconifyx_flat_color_icons',
   ));
 
   /// `up`
   static const IconifyIconData up = IconifyIconData(IconData(
-    0xe04d,
+    0xe04f,
     fontFamily: 'FlatColorIcons',
     fontPackage: 'iconifyx_flat_color_icons',
   ));
 
   /// `up-left`
   static const IconifyIconData upLeft = IconifyIconData(IconData(
-    0xe04e,
-    fontFamily: 'FlatColorIcons',
-    fontPackage: 'iconifyx_flat_color_icons',
-  ));
-
-  /// `up-right`
-  static const IconifyIconData upRight = IconifyIconData(IconData(
-    0xe04f,
+    0xe050,
     fontFamily: 'FlatColorIcons',
     fontPackage: 'iconifyx_flat_color_icons',
   ));
 
   /// `voicemail`
   static const IconifyIconData voicemail = IconifyIconData(IconData(
-    0xe050,
+    0xe051,
+    fontFamily: 'FlatColorIcons',
+    fontPackage: 'iconifyx_flat_color_icons',
+  ));
+
+  /// `wi-fi-logo`
+  static const IconifyIconData wiFiLogo = IconifyIconData(IconData(
+    0xe052,
     fontFamily: 'FlatColorIcons',
     fontPackage: 'iconifyx_flat_color_icons',
   ));

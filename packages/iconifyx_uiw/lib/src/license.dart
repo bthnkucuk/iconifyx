@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/uiwjs/icons/blob/master/LICENSE',
-  iconCount: 18,
+  iconCount: 210,
 );

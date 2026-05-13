@@ -16,17 +16,17 @@
       "spdx": "CC0-1.0",
       "url": "https://raw.githubusercontent.com/gilbarbara/logos/master/LICENSE.txt"
     },
-    "total": 831
+    "total": 827
   },
   "fonts": [
     {
       "family": "Logos",
-      "nextCodepoint": 58175,
-      "iconCount": 831
+      "nextCodepoint": 58171,
+      "iconCount": 827
     },
     {
       "family": "LogosSecondary",
-      "nextCodepoint": 58175,
+      "nextCodepoint": 58171,
       "iconCount": 9
     }
   ],
@@ -491,3707 +491,3687 @@
       "fontFamily": "Logos",
       "identifier": "buck"
     },
-    "buddy": {
-      "codepoint": 57436,
-      "fontFamily": "Logos",
-      "identifier": "buddy"
-    },
     "bugherd": {
-      "codepoint": 57437,
+      "codepoint": 57436,
       "fontFamily": "Logos",
       "identifier": "bugherd"
     },
     "bugherd-icon": {
-      "codepoint": 57438,
+      "codepoint": 57437,
       "fontFamily": "Logos",
       "identifier": "bugherdIcon"
     },
     "bugsnag-icon": {
-      "codepoint": 57439,
+      "codepoint": 57438,
       "fontFamily": "Logos",
       "identifier": "bugsnagIcon"
     },
     "builder-io": {
-      "codepoint": 57440,
+      "codepoint": 57439,
       "fontFamily": "Logos",
       "identifier": "builderIo"
     },
     "builder-io-icon": {
-      "codepoint": 57441,
+      "codepoint": 57440,
       "fontFamily": "Logos",
       "identifier": "builderIoIcon"
     },
     "buildkite": {
-      "codepoint": 57442,
+      "codepoint": 57441,
       "fontFamily": "Logos",
       "identifier": "buildkite"
     },
     "buildkite-icon": {
-      "codepoint": 57443,
+      "codepoint": 57442,
       "fontFamily": "Logos",
       "identifier": "buildkiteIcon"
     },
     "bulma": {
-      "codepoint": 57444,
+      "codepoint": 57443,
       "fontFamily": "Logos",
       "identifier": "bulma"
     },
     "cakephp": {
-      "codepoint": 57445,
+      "codepoint": 57444,
       "fontFamily": "Logos",
       "identifier": "cakephp"
     },
     "cakephp-icon": {
-      "codepoint": 57446,
+      "codepoint": 57445,
       "fontFamily": "Logos",
       "identifier": "cakephpIcon"
     },
     "capacitorjs": {
-      "codepoint": 57447,
+      "codepoint": 57446,
       "fontFamily": "Logos",
       "identifier": "capacitorjs"
     },
     "capacitorjs-icon": {
-      "codepoint": 57448,
+      "codepoint": 57447,
       "fontFamily": "Logos",
       "identifier": "capacitorjsIcon"
     },
     "capistrano": {
-      "codepoint": 57449,
+      "codepoint": 57448,
       "fontFamily": "Logos",
       "identifier": "capistrano"
     },
     "carbide": {
-      "codepoint": 57450,
+      "codepoint": 57449,
       "fontFamily": "Logos",
       "identifier": "carbide"
     },
     "cardano": {
-      "codepoint": 57451,
+      "codepoint": 57450,
       "fontFamily": "Logos",
       "identifier": "cardano"
     },
     "cardano-icon": {
-      "codepoint": 57452,
+      "codepoint": 57451,
       "fontFamily": "Logos",
       "identifier": "cardanoIcon"
     },
     "celluloid": {
-      "codepoint": 57453,
+      "codepoint": 57452,
       "fontFamily": "Logos",
       "identifier": "celluloid"
     },
     "centos": {
-      "codepoint": 57454,
+      "codepoint": 57453,
       "fontFamily": "Logos",
       "identifier": "centos"
     },
     "centos-icon": {
-      "codepoint": 57455,
+      "codepoint": 57454,
       "fontFamily": "Logos",
       "identifier": "centosIcon"
     },
     "certbot": {
-      "codepoint": 57456,
+      "codepoint": 57455,
       "fontFamily": "Logos",
       "identifier": "certbot"
     },
     "chalk": {
-      "codepoint": 57457,
+      "codepoint": 57456,
       "fontFamily": "Logos",
       "identifier": "chalk"
     },
     "chargebee": {
-      "codepoint": 57458,
+      "codepoint": 57457,
       "fontFamily": "Logos",
       "identifier": "chargebee"
     },
     "chargebee-icon": {
-      "codepoint": 57459,
+      "codepoint": 57458,
       "fontFamily": "Logos",
       "identifier": "chargebeeIcon"
     },
     "chevereto": {
-      "codepoint": 57460,
+      "codepoint": 57459,
       "fontFamily": "Logos",
       "identifier": "chevereto"
     },
     "chromatic": {
-      "codepoint": 57461,
+      "codepoint": 57460,
       "fontFamily": "Logos",
       "identifier": "chromatic"
     },
     "chromatic-icon": {
-      "codepoint": 57462,
+      "codepoint": 57461,
       "fontFamily": "Logos",
       "identifier": "chromaticIcon"
     },
     "cirrus-ci": {
-      "codepoint": 57463,
+      "codepoint": 57462,
       "fontFamily": "Logos",
       "identifier": "cirrusCi"
     },
     "clickdeploy": {
-      "codepoint": 57464,
+      "codepoint": 57463,
       "fontFamily": "Logos",
       "identifier": "clickdeploy"
     },
     "cljs": {
-      "codepoint": 57465,
+      "codepoint": 57464,
       "fontFamily": "Logos",
       "identifier": "cljs"
     },
     "cloudacademy": {
-      "codepoint": 57466,
+      "codepoint": 57465,
       "fontFamily": "Logos",
       "identifier": "cloudacademy"
     },
     "cloudacademy-icon": {
-      "codepoint": 57467,
+      "codepoint": 57466,
       "fontFamily": "Logos",
       "identifier": "cloudacademyIcon"
     },
     "cobalt": {
-      "codepoint": 57468,
+      "codepoint": 57467,
       "fontFamily": "Logos",
       "identifier": "cobalt"
     },
     "cockpit": {
-      "codepoint": 57469,
+      "codepoint": 57468,
       "fontFamily": "Logos",
       "identifier": "cockpit"
     },
     "cocoapods": {
-      "codepoint": 57470,
+      "codepoint": 57469,
       "fontFamily": "Logos",
       "identifier": "cocoapods"
     },
     "coda-icon": {
-      "codepoint": 57471,
+      "codepoint": 57470,
       "fontFamily": "Logos",
       "identifier": "codaIcon"
     },
     "codacy": {
-      "codepoint": 57472,
+      "codepoint": 57471,
       "fontFamily": "Logos",
       "identifier": "codacy"
     },
     "codebase": {
-      "codepoint": 57473,
+      "codepoint": 57472,
       "fontFamily": "Logos",
       "identifier": "codebase"
     },
     "codebeat": {
-      "codepoint": 57474,
+      "codepoint": 57473,
       "fontFamily": "Logos",
       "identifier": "codebeat"
     },
     "codeception": {
-      "codepoint": 57475,
+      "codepoint": 57474,
       "fontFamily": "Logos",
       "identifier": "codeception"
     },
     "codeclimate": {
-      "codepoint": 57476,
+      "codepoint": 57475,
       "fontFamily": "Logos",
       "identifier": "codeclimate"
     },
     "codeclimate-icon": {
-      "codepoint": 57477,
+      "codepoint": 57476,
       "fontFamily": "Logos",
       "identifier": "codeclimateIcon"
     },
     "codecov": {
-      "codepoint": 57478,
+      "codepoint": 57477,
       "fontFamily": "Logos",
       "identifier": "codecov"
     },
     "codecov-icon": {
-      "codepoint": 57479,
+      "codepoint": 57478,
       "fontFamily": "Logos",
       "identifier": "codecovIcon"
     },
     "codepen": {
-      "codepoint": 57480,
+      "codepoint": 57479,
       "fontFamily": "Logos",
       "identifier": "codepen"
     },
     "codepen-icon": {
-      "codepoint": 57481,
+      "codepoint": 57480,
       "fontFamily": "Logos",
       "identifier": "codepenIcon"
     },
     "codepush": {
-      "codepoint": 57482,
+      "codepoint": 57481,
       "fontFamily": "Logos",
       "identifier": "codepush"
     },
     "codesandbox": {
-      "codepoint": 57483,
+      "codepoint": 57482,
       "fontFamily": "Logos",
       "identifier": "codesandbox"
     },
     "codesandbox-icon": {
-      "codepoint": 57484,
+      "codepoint": 57483,
       "fontFamily": "Logos",
       "identifier": "codesandboxIcon"
     },
     "codeschool": {
-      "codepoint": 57485,
+      "codepoint": 57484,
       "fontFamily": "Logos",
       "identifier": "codeschool"
     },
     "codesee": {
-      "codepoint": 57486,
+      "codepoint": 57485,
       "fontFamily": "Logos",
       "identifier": "codesee"
     },
     "codesee-icon": {
-      "codepoint": 57487,
+      "codepoint": 57486,
       "fontFamily": "Logos",
       "identifier": "codeseeIcon"
     },
     "codrops": {
-      "codepoint": 57488,
+      "codepoint": 57487,
       "fontFamily": "Logos",
       "identifier": "codrops"
     },
     "componentkit": {
-      "codepoint": 57489,
+      "codepoint": 57488,
       "fontFamily": "Logos",
       "identifier": "componentkit"
     },
     "compose": {
-      "codepoint": 57490,
+      "codepoint": 57489,
       "fontFamily": "Logos",
       "identifier": "compose",
       "duotone": true
     },
     "concourse": {
-      "codepoint": 57491,
+      "codepoint": 57490,
       "fontFamily": "Logos",
       "identifier": "concourse"
     },
     "conda": {
-      "codepoint": 57492,
+      "codepoint": 57491,
       "fontFamily": "Logos",
       "identifier": "conda"
     },
     "containership": {
-      "codepoint": 57493,
+      "codepoint": 57492,
       "fontFamily": "Logos",
       "identifier": "containership"
     },
     "convox-icon": {
-      "codepoint": 57494,
+      "codepoint": 57493,
       "fontFamily": "Logos",
       "identifier": "convoxIcon"
     },
     "copyleft": {
-      "codepoint": 57495,
+      "codepoint": 57494,
       "fontFamily": "Logos",
       "identifier": "copyleft"
     },
     "copyleft-pirate": {
-      "codepoint": 57496,
+      "codepoint": 57495,
       "fontFamily": "Logos",
       "identifier": "copyleftPirate"
     },
     "corda": {
-      "codepoint": 57497,
+      "codepoint": 57496,
       "fontFamily": "Logos",
       "identifier": "corda"
     },
     "cordova": {
-      "codepoint": 57498,
+      "codepoint": 57497,
       "fontFamily": "Logos",
       "identifier": "cordova"
     },
     "coreos": {
-      "codepoint": 57499,
+      "codepoint": 57498,
       "fontFamily": "Logos",
       "identifier": "coreos"
     },
     "coursera": {
-      "codepoint": 57500,
+      "codepoint": 57499,
       "fontFamily": "Logos",
       "identifier": "coursera"
     },
     "coveralls": {
-      "codepoint": 57501,
+      "codepoint": 57500,
       "fontFamily": "Logos",
       "identifier": "coveralls"
     },
     "cpanel": {
-      "codepoint": 57502,
+      "codepoint": 57501,
       "fontFamily": "Logos",
       "identifier": "cpanel"
     },
     "crateio": {
-      "codepoint": 57503,
+      "codepoint": 57502,
       "fontFamily": "Logos",
       "identifier": "crateio"
     },
     "create-react-app": {
-      "codepoint": 57504,
+      "codepoint": 57503,
       "fontFamily": "Logos",
       "identifier": "createReactApp"
     },
     "crowdprocess": {
-      "codepoint": 57505,
+      "codepoint": 57504,
       "fontFamily": "Logos",
       "identifier": "crowdprocess"
     },
     "crystal": {
-      "codepoint": 57506,
+      "codepoint": 57505,
       "fontFamily": "Logos",
       "identifier": "crystal"
     },
     "css": {
-      "codepoint": 57507,
+      "codepoint": 57506,
       "fontFamily": "Logos",
       "identifier": "css"
     },
     "css-3-official": {
-      "codepoint": 57508,
+      "codepoint": 57507,
       "fontFamily": "Logos",
       "identifier": "css3Official"
     },
     "danfo": {
-      "codepoint": 57509,
+      "codepoint": 57508,
       "fontFamily": "Logos",
       "identifier": "danfo"
     },
     "dat": {
-      "codepoint": 57510,
+      "codepoint": 57509,
       "fontFamily": "Logos",
       "identifier": "dat"
     },
     "datadog": {
-      "codepoint": 57511,
+      "codepoint": 57510,
       "fontFamily": "Logos",
       "identifier": "datadog"
     },
     "datadog-icon": {
-      "codepoint": 57512,
+      "codepoint": 57511,
       "fontFamily": "Logos",
       "identifier": "datadogIcon"
     },
     "datasette": {
-      "codepoint": 57513,
+      "codepoint": 57512,
       "fontFamily": "Logos",
       "identifier": "datasette"
     },
     "datasette-icon": {
-      "codepoint": 57514,
+      "codepoint": 57513,
       "fontFamily": "Logos",
       "identifier": "datasetteIcon"
     },
     "dbt": {
-      "codepoint": 57515,
+      "codepoint": 57514,
       "fontFamily": "Logos",
       "identifier": "dbt"
     },
     "dbt-icon": {
-      "codepoint": 57516,
+      "codepoint": 57515,
       "fontFamily": "Logos",
       "identifier": "dbtIcon"
     },
     "deepseek": {
-      "codepoint": 57517,
+      "codepoint": 57516,
       "fontFamily": "Logos",
       "identifier": "deepseek"
     },
     "deepseek-icon": {
-      "codepoint": 57518,
+      "codepoint": 57517,
       "fontFamily": "Logos",
       "identifier": "deepseekIcon"
     },
     "delicious": {
-      "codepoint": 57519,
+      "codepoint": 57518,
       "fontFamily": "Logos",
       "identifier": "delicious"
     },
     "delighted-icon": {
-      "codepoint": 57520,
+      "codepoint": 57519,
       "fontFamily": "Logos",
       "identifier": "delightedIcon"
     },
     "deno": {
-      "codepoint": 57521,
+      "codepoint": 57520,
       "fontFamily": "Logos",
       "identifier": "deno"
     },
     "dependabot": {
-      "codepoint": 57522,
+      "codepoint": 57521,
       "fontFamily": "Logos",
       "identifier": "dependabot"
     },
     "dependencyci": {
-      "codepoint": 57523,
+      "codepoint": 57522,
       "fontFamily": "Logos",
       "identifier": "dependencyci"
     },
     "deployhq": {
-      "codepoint": 57524,
+      "codepoint": 57523,
       "fontFamily": "Logos",
       "identifier": "deployhq"
     },
     "deployhq-icon": {
-      "codepoint": 57525,
+      "codepoint": 57524,
       "fontFamily": "Logos",
       "identifier": "deployhqIcon"
     },
     "deppbot": {
-      "codepoint": 57526,
+      "codepoint": 57525,
       "fontFamily": "Logos",
       "identifier": "deppbot"
     },
     "derby": {
-      "codepoint": 57527,
+      "codepoint": 57526,
       "fontFamily": "Logos",
       "identifier": "derby"
     },
     "descript": {
-      "codepoint": 57528,
+      "codepoint": 57527,
       "fontFamily": "Logos",
       "identifier": "descript"
     },
     "descript-icon": {
-      "codepoint": 57529,
+      "codepoint": 57528,
       "fontFamily": "Logos",
       "identifier": "descriptIcon"
     },
-    "designernews": {
-      "codepoint": 57530,
-      "fontFamily": "Logos",
-      "identifier": "designernews"
-    },
     "desk": {
-      "codepoint": 57531,
+      "codepoint": 57529,
       "fontFamily": "Logos",
       "identifier": "desk"
     },
     "deviantart": {
-      "codepoint": 57532,
+      "codepoint": 57530,
       "fontFamily": "Logos",
       "identifier": "deviantart"
     },
     "deviantart-icon": {
-      "codepoint": 57533,
+      "codepoint": 57531,
       "fontFamily": "Logos",
       "identifier": "deviantartIcon"
     },
     "digital-ocean": {
-      "codepoint": 57534,
+      "codepoint": 57532,
       "fontFamily": "Logos",
       "identifier": "digitalOcean"
     },
     "digital-ocean-icon": {
-      "codepoint": 57535,
+      "codepoint": 57533,
       "fontFamily": "Logos",
       "identifier": "digitalOceanIcon"
     },
     "discourse": {
-      "codepoint": 57536,
+      "codepoint": 57534,
       "fontFamily": "Logos",
       "identifier": "discourse"
     },
     "discourse-icon": {
-      "codepoint": 57537,
+      "codepoint": 57535,
       "fontFamily": "Logos",
       "identifier": "discourseIcon"
     },
     "distelli": {
-      "codepoint": 57538,
+      "codepoint": 57536,
       "fontFamily": "Logos",
       "identifier": "distelli"
     },
     "docker": {
-      "codepoint": 57539,
+      "codepoint": 57537,
       "fontFamily": "Logos",
       "identifier": "docker"
     },
     "docusaurus": {
-      "codepoint": 57540,
+      "codepoint": 57538,
       "fontFamily": "Logos",
       "identifier": "docusaurus"
     },
     "dotcloud": {
-      "codepoint": 57541,
+      "codepoint": 57539,
       "fontFamily": "Logos",
       "identifier": "dotcloud"
     },
     "dotnet": {
-      "codepoint": 57542,
+      "codepoint": 57540,
       "fontFamily": "Logos",
       "identifier": "dotnet"
     },
     "dreamfactory": {
-      "codepoint": 57543,
+      "codepoint": 57541,
       "fontFamily": "Logos",
       "identifier": "dreamfactory"
     },
     "dribbble": {
-      "codepoint": 57544,
+      "codepoint": 57542,
       "fontFamily": "Logos",
       "identifier": "dribbble"
     },
     "drift": {
-      "codepoint": 57545,
+      "codepoint": 57543,
       "fontFamily": "Logos",
       "identifier": "drift"
     },
     "drip": {
-      "codepoint": 57546,
+      "codepoint": 57544,
       "fontFamily": "Logos",
       "identifier": "drip"
     },
     "drone": {
-      "codepoint": 57547,
+      "codepoint": 57545,
       "fontFamily": "Logos",
       "identifier": "drone"
     },
     "drone-icon": {
-      "codepoint": 57548,
+      "codepoint": 57546,
       "fontFamily": "Logos",
       "identifier": "droneIcon"
     },
     "dropbox": {
-      "codepoint": 57549,
+      "codepoint": 57547,
       "fontFamily": "Logos",
       "identifier": "dropbox"
     },
-    "dropmark": {
-      "codepoint": 57550,
-      "fontFamily": "Logos",
-      "identifier": "dropmark"
-    },
     "dropzone": {
-      "codepoint": 57551,
+      "codepoint": 57548,
       "fontFamily": "Logos",
       "identifier": "dropzone"
     },
     "drupal-icon": {
-      "codepoint": 57552,
+      "codepoint": 57549,
       "fontFamily": "Logos",
       "identifier": "drupalIcon"
     },
     "dynatrace": {
-      "codepoint": 57553,
+      "codepoint": 57550,
       "fontFamily": "Logos",
       "identifier": "dynatrace"
     },
     "ebanx": {
-      "codepoint": 57554,
+      "codepoint": 57551,
       "fontFamily": "Logos",
       "identifier": "ebanx"
     },
     "edgedb": {
-      "codepoint": 57555,
+      "codepoint": 57552,
       "fontFamily": "Logos",
       "identifier": "edgedb"
     },
     "edgio": {
-      "codepoint": 57556,
+      "codepoint": 57553,
       "fontFamily": "Logos",
       "identifier": "edgio"
     },
     "effect": {
-      "codepoint": 57557,
+      "codepoint": 57554,
       "fontFamily": "Logos",
       "identifier": "effect"
     },
     "effect-icon": {
-      "codepoint": 57558,
+      "codepoint": 57555,
       "fontFamily": "Logos",
       "identifier": "effectIcon"
     },
     "elasticpath": {
-      "codepoint": 57559,
+      "codepoint": 57556,
       "fontFamily": "Logos",
       "identifier": "elasticpath"
     },
     "elasticpath-icon": {
-      "codepoint": 57560,
+      "codepoint": 57557,
       "fontFamily": "Logos",
       "identifier": "elasticpathIcon"
     },
     "element": {
-      "codepoint": 57561,
+      "codepoint": 57558,
       "fontFamily": "Logos",
       "identifier": "element"
     },
     "elemental-ui": {
-      "codepoint": 57562,
+      "codepoint": 57559,
       "fontFamily": "Logos",
       "identifier": "elementalUi"
     },
     "elementary": {
-      "codepoint": 57563,
+      "codepoint": 57560,
       "fontFamily": "Logos",
       "identifier": "elementary"
     },
     "eleventy": {
-      "codepoint": 57564,
+      "codepoint": 57561,
       "fontFamily": "Logos",
       "identifier": "eleventy"
     },
     "ello": {
-      "codepoint": 57565,
+      "codepoint": 57562,
       "fontFamily": "Logos",
       "identifier": "ello"
     },
     "ember": {
-      "codepoint": 57566,
+      "codepoint": 57563,
       "fontFamily": "Logos",
       "identifier": "ember"
     },
     "emmet": {
-      "codepoint": 57567,
+      "codepoint": 57564,
       "fontFamily": "Logos",
       "identifier": "emmet"
     },
     "envato": {
-      "codepoint": 57568,
+      "codepoint": 57565,
       "fontFamily": "Logos",
       "identifier": "envato"
     },
     "envoy": {
-      "codepoint": 57569,
+      "codepoint": 57566,
       "fontFamily": "Logos",
       "identifier": "envoy"
     },
     "envoy-icon": {
-      "codepoint": 57570,
+      "codepoint": 57567,
       "fontFamily": "Logos",
       "identifier": "envoyIcon"
     },
     "eraser-icon": {
-      "codepoint": 57571,
+      "codepoint": 57568,
       "fontFamily": "Logos",
       "identifier": "eraserIcon"
     },
     "eta": {
-      "codepoint": 57572,
+      "codepoint": 57569,
       "fontFamily": "Logos",
       "identifier": "eta"
     },
     "eta-icon": {
-      "codepoint": 57573,
+      "codepoint": 57570,
       "fontFamily": "Logos",
       "identifier": "etaIcon"
     },
     "eta-lang": {
-      "codepoint": 57574,
+      "codepoint": 57571,
       "fontFamily": "Logos",
       "identifier": "etaLang"
     },
     "etcd": {
-      "codepoint": 57575,
+      "codepoint": 57572,
       "fontFamily": "Logos",
       "identifier": "etcd"
     },
     "evergreen-icon": {
-      "codepoint": 57576,
+      "codepoint": 57573,
       "fontFamily": "Logos",
       "identifier": "evergreenIcon"
     },
     "expo": {
-      "codepoint": 57577,
+      "codepoint": 57574,
       "fontFamily": "Logos",
       "identifier": "expo"
     },
     "expo-icon": {
-      "codepoint": 57578,
+      "codepoint": 57575,
       "fontFamily": "Logos",
       "identifier": "expoIcon"
     },
     "exponent": {
-      "codepoint": 57579,
+      "codepoint": 57576,
       "fontFamily": "Logos",
       "identifier": "exponent"
     },
     "express": {
-      "codepoint": 57580,
+      "codepoint": 57577,
       "fontFamily": "Logos",
       "identifier": "express"
     },
     "fabric": {
-      "codepoint": 57581,
+      "codepoint": 57578,
       "fontFamily": "Logos",
       "identifier": "fabric"
     },
     "famous": {
-      "codepoint": 57582,
+      "codepoint": 57579,
       "fontFamily": "Logos",
       "identifier": "famous"
     },
     "fastify": {
-      "codepoint": 57583,
+      "codepoint": 57580,
       "fontFamily": "Logos",
       "identifier": "fastify"
     },
     "fastify-icon": {
-      "codepoint": 57584,
+      "codepoint": 57581,
       "fontFamily": "Logos",
       "identifier": "fastifyIcon"
     },
     "fastly": {
-      "codepoint": 57585,
+      "codepoint": 57582,
       "fontFamily": "Logos",
       "identifier": "fastly"
     },
     "fauna": {
-      "codepoint": 57586,
+      "codepoint": 57583,
       "fontFamily": "Logos",
       "identifier": "fauna"
     },
     "fauna-icon": {
-      "codepoint": 57587,
+      "codepoint": 57584,
       "fontFamily": "Logos",
       "identifier": "faunaIcon"
     },
     "feathersjs": {
-      "codepoint": 57588,
+      "codepoint": 57585,
       "fontFamily": "Logos",
       "identifier": "feathersjs"
     },
     "fetch": {
-      "codepoint": 57589,
+      "codepoint": 57586,
       "fontFamily": "Logos",
       "identifier": "fetch"
     },
     "flannel": {
-      "codepoint": 57590,
+      "codepoint": 57587,
       "fontFamily": "Logos",
       "identifier": "flannel"
     },
     "flask": {
-      "codepoint": 57591,
+      "codepoint": 57588,
       "fontFamily": "Logos",
       "identifier": "flask"
     },
     "flattr-icon": {
-      "codepoint": 57592,
+      "codepoint": 57589,
       "fontFamily": "Logos",
       "identifier": "flattrIcon"
     },
     "flexible-gs": {
-      "codepoint": 57593,
+      "codepoint": 57590,
       "fontFamily": "Logos",
       "identifier": "flexibleGs"
     },
     "flickr": {
-      "codepoint": 57594,
+      "codepoint": 57591,
       "fontFamily": "Logos",
       "identifier": "flickr"
     },
     "flickr-icon": {
-      "codepoint": 57595,
+      "codepoint": 57592,
       "fontFamily": "Logos",
       "identifier": "flickrIcon"
     },
     "flight": {
-      "codepoint": 57596,
+      "codepoint": 57593,
       "fontFamily": "Logos",
       "identifier": "flight"
     },
     "flocker": {
-      "codepoint": 57597,
+      "codepoint": 57594,
       "fontFamily": "Logos",
       "identifier": "flocker"
     },
     "floodio": {
-      "codepoint": 57598,
+      "codepoint": 57595,
       "fontFamily": "Logos",
       "identifier": "floodio"
     },
     "flow": {
-      "codepoint": 57599,
+      "codepoint": 57596,
       "fontFamily": "Logos",
       "identifier": "flow"
     },
     "floydhub": {
-      "codepoint": 57600,
+      "codepoint": 57597,
       "fontFamily": "Logos",
       "identifier": "floydhub"
     },
     "flux": {
-      "codepoint": 57601,
+      "codepoint": 57598,
       "fontFamily": "Logos",
       "identifier": "flux"
     },
     "fluxxor": {
-      "codepoint": 57602,
+      "codepoint": 57599,
       "fontFamily": "Logos",
       "identifier": "fluxxor"
     },
     "fomo": {
-      "codepoint": 57603,
+      "codepoint": 57600,
       "fontFamily": "Logos",
       "identifier": "fomo"
     },
     "fomo-icon": {
-      "codepoint": 57604,
+      "codepoint": 57601,
       "fontFamily": "Logos",
       "identifier": "fomoIcon"
     },
     "forestadmin": {
-      "codepoint": 57605,
+      "codepoint": 57602,
       "fontFamily": "Logos",
       "identifier": "forestadmin"
     },
     "forestadmin-icon": {
-      "codepoint": 57606,
+      "codepoint": 57603,
       "fontFamily": "Logos",
       "identifier": "forestadminIcon"
     },
     "forever": {
-      "codepoint": 57607,
+      "codepoint": 57604,
       "fontFamily": "Logos",
       "identifier": "forever"
     },
     "formkeep": {
-      "codepoint": 57608,
+      "codepoint": 57605,
       "fontFamily": "Logos",
       "identifier": "formkeep"
     },
     "fortran": {
-      "codepoint": 57609,
+      "codepoint": 57606,
       "fontFamily": "Logos",
       "identifier": "fortran"
     },
     "foundationdb": {
-      "codepoint": 57610,
+      "codepoint": 57607,
       "fontFamily": "Logos",
       "identifier": "foundationdb"
     },
     "foundationdb-icon": {
-      "codepoint": 57611,
+      "codepoint": 57608,
       "fontFamily": "Logos",
       "identifier": "foundationdbIcon"
     },
     "framer": {
-      "codepoint": 57612,
+      "codepoint": 57609,
       "fontFamily": "Logos",
       "identifier": "framer"
     },
     "framework7": {
-      "codepoint": 57613,
+      "codepoint": 57610,
       "fontFamily": "Logos",
       "identifier": "framework7"
     },
     "framework7-icon": {
-      "codepoint": 57614,
+      "codepoint": 57611,
       "fontFamily": "Logos",
       "identifier": "framework7Icon"
     },
     "fresh": {
-      "codepoint": 57615,
+      "codepoint": 57612,
       "fontFamily": "Logos",
       "identifier": "fresh"
     },
     "fsharp": {
-      "codepoint": 57616,
+      "codepoint": 57613,
       "fontFamily": "Logos",
       "identifier": "fsharp"
     },
     "fuchsia": {
-      "codepoint": 57617,
+      "codepoint": 57614,
       "fontFamily": "Logos",
       "identifier": "fuchsia"
     },
     "game-analytics": {
-      "codepoint": 57618,
+      "codepoint": 57615,
       "fontFamily": "Logos",
       "identifier": "gameAnalytics"
     },
     "game-analytics-icon": {
-      "codepoint": 57619,
+      "codepoint": 57616,
       "fontFamily": "Logos",
       "identifier": "gameAnalyticsIcon"
     },
     "ganache": {
-      "codepoint": 57620,
+      "codepoint": 57617,
       "fontFamily": "Logos",
       "identifier": "ganache"
     },
     "ganache-icon": {
-      "codepoint": 57621,
+      "codepoint": 57618,
       "fontFamily": "Logos",
       "identifier": "ganacheIcon"
     },
     "gatsby": {
-      "codepoint": 57622,
+      "codepoint": 57619,
       "fontFamily": "Logos",
       "identifier": "gatsby"
     },
     "geekbot": {
-      "codepoint": 57623,
+      "codepoint": 57620,
       "fontFamily": "Logos",
       "identifier": "geekbot",
       "duotone": true
     },
     "geetest": {
-      "codepoint": 57624,
+      "codepoint": 57621,
       "fontFamily": "Logos",
       "identifier": "geetest"
     },
     "geetest-icon": {
-      "codepoint": 57625,
+      "codepoint": 57622,
       "fontFamily": "Logos",
       "identifier": "geetestIcon"
     },
     "getyourguide": {
-      "codepoint": 57626,
+      "codepoint": 57623,
       "fontFamily": "Logos",
       "identifier": "getyourguide"
     },
     "git-icon": {
-      "codepoint": 57627,
+      "codepoint": 57624,
       "fontFamily": "Logos",
       "identifier": "gitIcon"
     },
     "github-actions": {
-      "codepoint": 57628,
+      "codepoint": 57625,
       "fontFamily": "Logos",
       "identifier": "githubActions"
     },
     "github-copilot": {
-      "codepoint": 57629,
+      "codepoint": 57626,
       "fontFamily": "Logos",
       "identifier": "githubCopilot"
     },
     "gnome": {
-      "codepoint": 57630,
+      "codepoint": 57627,
       "fontFamily": "Logos",
       "identifier": "gnome"
     },
     "gnome-icon": {
-      "codepoint": 57631,
+      "codepoint": 57628,
       "fontFamily": "Logos",
       "identifier": "gnomeIcon"
     },
     "gnu": {
-      "codepoint": 57632,
+      "codepoint": 57629,
       "fontFamily": "Logos",
       "identifier": "gnu"
     },
     "gnupg": {
-      "codepoint": 57633,
+      "codepoint": 57630,
       "fontFamily": "Logos",
       "identifier": "gnupg"
     },
     "gnupg-icon": {
-      "codepoint": 57634,
+      "codepoint": 57631,
       "fontFamily": "Logos",
       "identifier": "gnupgIcon"
     },
     "go": {
-      "codepoint": 57635,
+      "codepoint": 57632,
       "fontFamily": "Logos",
       "identifier": "go"
     },
     "gocd": {
-      "codepoint": 57636,
+      "codepoint": 57633,
       "fontFamily": "Logos",
       "identifier": "gocd"
     },
     "google-play-console-icon": {
-      "codepoint": 57637,
+      "codepoint": 57634,
       "fontFamily": "Logos",
       "identifier": "googlePlayConsoleIcon"
     },
     "gopher": {
-      "codepoint": 57638,
+      "codepoint": 57635,
       "fontFamily": "Logos",
       "identifier": "gopher"
     },
     "gordon": {
-      "codepoint": 57639,
+      "codepoint": 57636,
       "fontFamily": "Logos",
       "identifier": "gordon"
     },
     "grails": {
-      "codepoint": 57640,
+      "codepoint": 57637,
       "fontFamily": "Logos",
       "identifier": "grails"
     },
     "grammarly": {
-      "codepoint": 57641,
+      "codepoint": 57638,
       "fontFamily": "Logos",
       "identifier": "grammarly"
     },
     "grammarly-icon": {
-      "codepoint": 57642,
+      "codepoint": 57639,
       "fontFamily": "Logos",
       "identifier": "grammarlyIcon"
     },
     "graphcool": {
-      "codepoint": 57643,
+      "codepoint": 57640,
       "fontFamily": "Logos",
       "identifier": "graphcool"
     },
     "graphql": {
-      "codepoint": 57644,
+      "codepoint": 57641,
       "fontFamily": "Logos",
       "identifier": "graphql"
     },
     "gratipay": {
-      "codepoint": 57645,
+      "codepoint": 57642,
       "fontFamily": "Logos",
       "identifier": "gratipay"
     },
     "graylog": {
-      "codepoint": 57646,
+      "codepoint": 57643,
       "fontFamily": "Logos",
       "identifier": "graylog"
     },
     "graylog-icon": {
-      "codepoint": 57647,
+      "codepoint": 57644,
       "fontFamily": "Logos",
       "identifier": "graylogIcon"
     },
     "greensock-icon": {
-      "codepoint": 57648,
+      "codepoint": 57645,
       "fontFamily": "Logos",
       "identifier": "greensockIcon"
     },
     "grok": {
-      "codepoint": 57649,
+      "codepoint": 57646,
       "fontFamily": "Logos",
       "identifier": "grok"
     },
     "grok-icon": {
-      "codepoint": 57650,
+      "codepoint": 57647,
       "fontFamily": "Logos",
       "identifier": "grokIcon"
     },
     "grommet": {
-      "codepoint": 57651,
+      "codepoint": 57648,
       "fontFamily": "Logos",
       "identifier": "grommet"
     },
     "groovehq": {
-      "codepoint": 57652,
+      "codepoint": 57649,
       "fontFamily": "Logos",
       "identifier": "groovehq"
     },
     "gulp": {
-      "codepoint": 57653,
+      "codepoint": 57650,
       "fontFamily": "Logos",
       "identifier": "gulp"
     },
     "gunjs": {
-      "codepoint": 57654,
+      "codepoint": 57651,
       "fontFamily": "Logos",
       "identifier": "gunjs"
     },
     "gusto": {
-      "codepoint": 57655,
+      "codepoint": 57652,
       "fontFamily": "Logos",
       "identifier": "gusto"
     },
     "hacker-one": {
-      "codepoint": 57656,
+      "codepoint": 57653,
       "fontFamily": "Logos",
       "identifier": "hackerOne"
     },
     "hadoop": {
-      "codepoint": 57657,
+      "codepoint": 57654,
       "fontFamily": "Logos",
       "identifier": "hadoop"
     },
     "harness-icon": {
-      "codepoint": 57658,
+      "codepoint": 57655,
       "fontFamily": "Logos",
       "identifier": "harnessIcon"
     },
     "hashicorp": {
-      "codepoint": 57659,
+      "codepoint": 57656,
       "fontFamily": "Logos",
       "identifier": "hashicorp"
     },
     "hashicorp-icon": {
-      "codepoint": 57660,
+      "codepoint": 57657,
       "fontFamily": "Logos",
       "identifier": "hashicorpIcon"
     },
     "hasura-icon": {
-      "codepoint": 57661,
+      "codepoint": 57658,
       "fontFamily": "Logos",
       "identifier": "hasuraIcon"
     },
     "hbase": {
-      "codepoint": 57662,
+      "codepoint": 57659,
       "fontFamily": "Logos",
       "identifier": "hbase"
     },
     "heap": {
-      "codepoint": 57663,
+      "codepoint": 57660,
       "fontFamily": "Logos",
       "identifier": "heap"
     },
     "heap-icon": {
-      "codepoint": 57664,
+      "codepoint": 57661,
       "fontFamily": "Logos",
       "identifier": "heapIcon"
     },
     "helpscout": {
-      "codepoint": 57665,
+      "codepoint": 57662,
       "fontFamily": "Logos",
       "identifier": "helpscout"
     },
     "helpscout-icon": {
-      "codepoint": 57666,
+      "codepoint": 57663,
       "fontFamily": "Logos",
       "identifier": "helpscoutIcon"
     },
     "hermes": {
-      "codepoint": 57667,
+      "codepoint": 57664,
       "fontFamily": "Logos",
       "identifier": "hermes"
     },
     "hexo": {
-      "codepoint": 57668,
+      "codepoint": 57665,
       "fontFamily": "Logos",
       "identifier": "hexo"
     },
     "hoa": {
-      "codepoint": 57669,
+      "codepoint": 57666,
       "fontFamily": "Logos",
       "identifier": "hoa"
     },
     "hoodie": {
-      "codepoint": 57670,
+      "codepoint": 57667,
       "fontFamily": "Logos",
       "identifier": "hoodie"
     },
     "hookstate": {
-      "codepoint": 57671,
+      "codepoint": 57668,
       "fontFamily": "Logos",
       "identifier": "hookstate"
     },
     "hootsuite": {
-      "codepoint": 57672,
+      "codepoint": 57669,
       "fontFamily": "Logos",
       "identifier": "hootsuite"
     },
     "hootsuite-icon": {
-      "codepoint": 57673,
+      "codepoint": 57670,
       "fontFamily": "Logos",
       "identifier": "hootsuiteIcon"
     },
     "hosted-graphite": {
-      "codepoint": 57674,
+      "codepoint": 57671,
       "fontFamily": "Logos",
       "identifier": "hostedGraphite"
     },
     "hotjar-icon": {
-      "codepoint": 57675,
+      "codepoint": 57672,
       "fontFamily": "Logos",
       "identifier": "hotjarIcon"
     },
     "houndci": {
-      "codepoint": 57676,
+      "codepoint": 57673,
       "fontFamily": "Logos",
       "identifier": "houndci"
     },
     "httpie": {
-      "codepoint": 57677,
+      "codepoint": 57674,
       "fontFamily": "Logos",
       "identifier": "httpie"
     },
     "httpie-icon": {
-      "codepoint": 57678,
+      "codepoint": 57675,
       "fontFamily": "Logos",
       "identifier": "httpieIcon"
     },
     "hyperapp": {
-      "codepoint": 57679,
+      "codepoint": 57676,
       "fontFamily": "Logos",
       "identifier": "hyperapp"
     },
     "ibm": {
-      "codepoint": 57680,
+      "codepoint": 57677,
       "fontFamily": "Logos",
       "identifier": "ibm"
     },
     "ieee": {
-      "codepoint": 57681,
+      "codepoint": 57678,
       "fontFamily": "Logos",
       "identifier": "ieee"
     },
     "ifttt": {
-      "codepoint": 57682,
+      "codepoint": 57679,
       "fontFamily": "Logos",
       "identifier": "ifttt"
     },
     "imba-icon": {
-      "codepoint": 57683,
+      "codepoint": 57680,
       "fontFamily": "Logos",
       "identifier": "imbaIcon"
     },
     "immer": {
-      "codepoint": 57684,
+      "codepoint": 57681,
       "fontFamily": "Logos",
       "identifier": "immer"
     },
     "immer-icon": {
-      "codepoint": 57685,
+      "codepoint": 57682,
       "fontFamily": "Logos",
       "identifier": "immerIcon"
     },
     "importio": {
-      "codepoint": 57686,
+      "codepoint": 57683,
       "fontFamily": "Logos",
       "identifier": "importio"
     },
     "importio-icon": {
-      "codepoint": 57687,
+      "codepoint": 57684,
       "fontFamily": "Logos",
       "identifier": "importioIcon"
     },
     "influxdb": {
-      "codepoint": 57688,
+      "codepoint": 57685,
       "fontFamily": "Logos",
       "identifier": "influxdb"
     },
     "influxdb-icon": {
-      "codepoint": 57689,
+      "codepoint": 57686,
       "fontFamily": "Logos",
       "identifier": "influxdbIcon"
     },
     "instagram-icon": {
-      "codepoint": 57690,
+      "codepoint": 57687,
       "fontFamily": "Logos",
       "identifier": "instagramIcon"
     },
     "intel": {
-      "codepoint": 57691,
+      "codepoint": 57688,
       "fontFamily": "Logos",
       "identifier": "intel"
     },
     "intercom": {
-      "codepoint": 57692,
+      "codepoint": 57689,
       "fontFamily": "Logos",
       "identifier": "intercom"
     },
     "intercom-icon": {
-      "codepoint": 57693,
+      "codepoint": 57690,
       "fontFamily": "Logos",
       "identifier": "intercomIcon"
     },
     "internetexplorer": {
-      "codepoint": 57694,
+      "codepoint": 57691,
       "fontFamily": "Logos",
       "identifier": "internetexplorer"
     },
     "invision": {
-      "codepoint": 57695,
+      "codepoint": 57692,
       "fontFamily": "Logos",
       "identifier": "invision"
     },
     "invision-icon": {
-      "codepoint": 57696,
+      "codepoint": 57693,
       "fontFamily": "Logos",
       "identifier": "invisionIcon"
     },
     "ios": {
-      "codepoint": 57697,
+      "codepoint": 57694,
       "fontFamily": "Logos",
       "identifier": "ios"
     },
     "jade": {
-      "codepoint": 57698,
+      "codepoint": 57695,
       "fontFamily": "Logos",
       "identifier": "jade"
     },
     "jamstack": {
-      "codepoint": 57699,
+      "codepoint": 57696,
       "fontFamily": "Logos",
       "identifier": "jamstack"
     },
     "jamstack-icon": {
-      "codepoint": 57700,
+      "codepoint": 57697,
       "fontFamily": "Logos",
       "identifier": "jamstackIcon"
     },
     "javascript": {
-      "codepoint": 57701,
+      "codepoint": 57698,
       "fontFamily": "Logos",
       "identifier": "javascript"
     },
     "jetbrains-icon": {
-      "codepoint": 57702,
+      "codepoint": 57699,
       "fontFamily": "Logos",
       "identifier": "jetbrainsIcon"
     },
     "jfrog": {
-      "codepoint": 57703,
+      "codepoint": 57700,
       "fontFamily": "Logos",
       "identifier": "jfrog"
     },
     "jotai": {
-      "codepoint": 57704,
+      "codepoint": 57701,
       "fontFamily": "Logos",
       "identifier": "jotai"
     },
     "jquery-mobile": {
-      "codepoint": 57705,
+      "codepoint": 57702,
       "fontFamily": "Logos",
       "identifier": "jqueryMobile"
     },
     "jruby": {
-      "codepoint": 57706,
+      "codepoint": 57703,
       "fontFamily": "Logos",
       "identifier": "jruby"
     },
     "jsfiddle": {
-      "codepoint": 57707,
+      "codepoint": 57704,
       "fontFamily": "Logos",
       "identifier": "jsfiddle"
     },
     "json-ld": {
-      "codepoint": 57708,
+      "codepoint": 57705,
       "fontFamily": "Logos",
       "identifier": "jsonLd"
     },
     "json-schema-icon": {
-      "codepoint": 57709,
+      "codepoint": 57706,
       "fontFamily": "Logos",
       "identifier": "jsonSchemaIcon"
     },
     "jspm": {
-      "codepoint": 57710,
+      "codepoint": 57707,
       "fontFamily": "Logos",
       "identifier": "jspm"
     },
     "jss": {
-      "codepoint": 57711,
+      "codepoint": 57708,
       "fontFamily": "Logos",
       "identifier": "jss"
     },
     "kafka": {
-      "codepoint": 57712,
+      "codepoint": 57709,
       "fontFamily": "Logos",
       "identifier": "kafka"
     },
     "kafka-icon": {
-      "codepoint": 57713,
+      "codepoint": 57710,
       "fontFamily": "Logos",
       "identifier": "kafkaIcon"
     },
     "kaios": {
-      "codepoint": 57714,
+      "codepoint": 57711,
       "fontFamily": "Logos",
       "identifier": "kaios"
     },
     "karma": {
-      "codepoint": 57715,
+      "codepoint": 57712,
       "fontFamily": "Logos",
       "identifier": "karma"
     },
     "katalon": {
-      "codepoint": 57716,
+      "codepoint": 57713,
       "fontFamily": "Logos",
       "identifier": "katalon"
     },
     "katalon-icon": {
-      "codepoint": 57717,
+      "codepoint": 57714,
       "fontFamily": "Logos",
       "identifier": "katalonIcon"
     },
     "kde": {
-      "codepoint": 57718,
+      "codepoint": 57715,
       "fontFamily": "Logos",
       "identifier": "kde"
     },
     "keycdn": {
-      "codepoint": 57719,
+      "codepoint": 57716,
       "fontFamily": "Logos",
       "identifier": "keycdn"
     },
     "keydb": {
-      "codepoint": 57720,
+      "codepoint": 57717,
       "fontFamily": "Logos",
       "identifier": "keydb",
       "duotone": true
     },
     "keydb-icon": {
-      "codepoint": 57721,
+      "codepoint": 57718,
       "fontFamily": "Logos",
       "identifier": "keydbIcon",
       "duotone": true
     },
     "khan-academy": {
-      "codepoint": 57722,
+      "codepoint": 57719,
       "fontFamily": "Logos",
       "identifier": "khanAcademy"
     },
     "khan-academy-icon": {
-      "codepoint": 57723,
+      "codepoint": 57720,
       "fontFamily": "Logos",
       "identifier": "khanAcademyIcon"
     },
     "kickstarter": {
-      "codepoint": 57724,
+      "codepoint": 57721,
       "fontFamily": "Logos",
       "identifier": "kickstarter"
     },
     "kickstarter-icon": {
-      "codepoint": 57725,
+      "codepoint": 57722,
       "fontFamily": "Logos",
       "identifier": "kickstarterIcon"
     },
     "kirby": {
-      "codepoint": 57726,
+      "codepoint": 57723,
       "fontFamily": "Logos",
       "identifier": "kirby"
     },
     "kirby-icon": {
-      "codepoint": 57727,
+      "codepoint": 57724,
       "fontFamily": "Logos",
       "identifier": "kirbyIcon"
     },
     "koa": {
-      "codepoint": 57728,
+      "codepoint": 57725,
       "fontFamily": "Logos",
       "identifier": "koa"
     },
     "kong-icon": {
-      "codepoint": 57729,
+      "codepoint": 57726,
       "fontFamily": "Logos",
       "identifier": "kongIcon"
     },
     "kontena": {
-      "codepoint": 57730,
+      "codepoint": 57727,
       "fontFamily": "Logos",
       "identifier": "kontena"
     },
     "krakenjs": {
-      "codepoint": 57731,
+      "codepoint": 57728,
       "fontFamily": "Logos",
       "identifier": "krakenjs"
     },
     "kubernetes": {
-      "codepoint": 57732,
+      "codepoint": 57729,
       "fontFamily": "Logos",
       "identifier": "kubernetes"
     },
     "kustomer": {
-      "codepoint": 57733,
+      "codepoint": 57730,
       "fontFamily": "Logos",
       "identifier": "kustomer"
     },
     "languagetool": {
-      "codepoint": 57734,
+      "codepoint": 57731,
       "fontFamily": "Logos",
       "identifier": "languagetool"
     },
     "laravel": {
-      "codepoint": 57735,
+      "codepoint": 57732,
       "fontFamily": "Logos",
       "identifier": "laravel"
     },
     "launchdarkly": {
-      "codepoint": 57736,
+      "codepoint": 57733,
       "fontFamily": "Logos",
       "identifier": "launchdarkly"
     },
     "launchdarkly-icon": {
-      "codepoint": 57737,
+      "codepoint": 57734,
       "fontFamily": "Logos",
       "identifier": "launchdarklyIcon"
     },
     "launchkit": {
-      "codepoint": 57738,
+      "codepoint": 57735,
       "fontFamily": "Logos",
       "identifier": "launchkit"
     },
     "launchrock": {
-      "codepoint": 57739,
+      "codepoint": 57736,
       "fontFamily": "Logos",
       "identifier": "launchrock"
     },
     "leankit-icon": {
-      "codepoint": 57740,
+      "codepoint": 57737,
       "fontFamily": "Logos",
       "identifier": "leankitIcon"
     },
     "lerna": {
-      "codepoint": 57741,
+      "codepoint": 57738,
       "fontFamily": "Logos",
       "identifier": "lerna"
     },
     "letsencrypt": {
-      "codepoint": 57742,
+      "codepoint": 57739,
       "fontFamily": "Logos",
       "identifier": "letsencrypt"
     },
     "leveldb": {
-      "codepoint": 57743,
+      "codepoint": 57740,
       "fontFamily": "Logos",
       "identifier": "leveldb",
       "duotone": true
     },
     "lexical": {
-      "codepoint": 57744,
+      "codepoint": 57741,
       "fontFamily": "Logos",
       "identifier": "lexical"
     },
     "lexical-icon": {
-      "codepoint": 57745,
+      "codepoint": 57742,
       "fontFamily": "Logos",
       "identifier": "lexicalIcon"
     },
     "librato": {
-      "codepoint": 57746,
+      "codepoint": 57743,
       "fontFamily": "Logos",
       "identifier": "librato"
     },
     "lightstep": {
-      "codepoint": 57747,
+      "codepoint": 57744,
       "fontFamily": "Logos",
       "identifier": "lightstep"
     },
     "lightstep-icon": {
-      "codepoint": 57748,
+      "codepoint": 57745,
       "fontFamily": "Logos",
       "identifier": "lightstepIcon"
     },
     "linkedin": {
-      "codepoint": 57749,
+      "codepoint": 57746,
       "fontFamily": "Logos",
       "identifier": "linkedin"
     },
     "linkedin-icon": {
-      "codepoint": 57750,
+      "codepoint": 57747,
       "fontFamily": "Logos",
       "identifier": "linkedinIcon"
     },
     "linux-mint": {
-      "codepoint": 57751,
+      "codepoint": 57748,
       "fontFamily": "Logos",
       "identifier": "linuxMint"
     },
     "loader": {
-      "codepoint": 57752,
+      "codepoint": 57749,
       "fontFamily": "Logos",
       "identifier": "loader"
     },
     "locent": {
-      "codepoint": 57753,
+      "codepoint": 57750,
       "fontFamily": "Logos",
       "identifier": "locent"
     },
     "loggly": {
-      "codepoint": 57754,
+      "codepoint": 57751,
       "fontFamily": "Logos",
       "identifier": "loggly"
     },
     "lookback": {
-      "codepoint": 57755,
+      "codepoint": 57752,
       "fontFamily": "Logos",
       "identifier": "lookback"
     },
     "loom": {
-      "codepoint": 57756,
+      "codepoint": 57753,
       "fontFamily": "Logos",
       "identifier": "loom"
     },
     "loom-icon": {
-      "codepoint": 57757,
+      "codepoint": 57754,
       "fontFamily": "Logos",
       "identifier": "loomIcon"
     },
     "loopback": {
-      "codepoint": 57758,
+      "codepoint": 57755,
       "fontFamily": "Logos",
       "identifier": "loopback"
     },
     "loopback-icon": {
-      "codepoint": 57759,
+      "codepoint": 57756,
       "fontFamily": "Logos",
       "identifier": "loopbackIcon"
     },
     "losant": {
-      "codepoint": 57760,
+      "codepoint": 57757,
       "fontFamily": "Logos",
       "identifier": "losant"
     },
     "lotus": {
-      "codepoint": 57761,
+      "codepoint": 57758,
       "fontFamily": "Logos",
       "identifier": "lotus"
     },
     "lucene": {
-      "codepoint": 57762,
+      "codepoint": 57759,
       "fontFamily": "Logos",
       "identifier": "lucene"
     },
     "lynda": {
-      "codepoint": 57763,
+      "codepoint": 57760,
       "fontFamily": "Logos",
       "identifier": "lynda"
     },
     "macos": {
-      "codepoint": 57764,
+      "codepoint": 57761,
       "fontFamily": "Logos",
       "identifier": "macos"
     },
     "mageia": {
-      "codepoint": 57765,
+      "codepoint": 57762,
       "fontFamily": "Logos",
       "identifier": "mageia"
     },
     "mailchimp": {
-      "codepoint": 57766,
+      "codepoint": 57763,
       "fontFamily": "Logos",
       "identifier": "mailchimp"
     },
     "mailgun": {
-      "codepoint": 57767,
+      "codepoint": 57764,
       "fontFamily": "Logos",
       "identifier": "mailgun"
     },
     "mailgun-icon": {
-      "codepoint": 57768,
+      "codepoint": 57765,
       "fontFamily": "Logos",
       "identifier": "mailgunIcon"
     },
     "malinajs": {
-      "codepoint": 57769,
+      "codepoint": 57766,
       "fontFamily": "Logos",
       "identifier": "malinajs"
     },
     "manjaro": {
-      "codepoint": 57770,
+      "codepoint": 57767,
       "fontFamily": "Logos",
       "identifier": "manjaro"
     },
     "mantine": {
-      "codepoint": 57771,
+      "codepoint": 57768,
       "fontFamily": "Logos",
       "identifier": "mantine"
     },
     "mantine-icon": {
-      "codepoint": 57772,
+      "codepoint": 57769,
       "fontFamily": "Logos",
       "identifier": "mantineIcon"
     },
     "maps-me": {
-      "codepoint": 57773,
+      "codepoint": 57770,
       "fontFamily": "Logos",
       "identifier": "mapsMe"
     },
     "mariadb-icon": {
-      "codepoint": 57774,
+      "codepoint": 57771,
       "fontFamily": "Logos",
       "identifier": "mariadbIcon"
     },
     "markdown": {
-      "codepoint": 57775,
+      "codepoint": 57772,
       "fontFamily": "Logos",
       "identifier": "markdown"
     },
     "marvel": {
-      "codepoint": 57776,
+      "codepoint": 57773,
       "fontFamily": "Logos",
       "identifier": "marvel"
     },
     "mastercard": {
-      "codepoint": 57777,
+      "codepoint": 57774,
       "fontFamily": "Logos",
       "identifier": "mastercard"
     },
     "material-ui": {
-      "codepoint": 57778,
+      "codepoint": 57775,
       "fontFamily": "Logos",
       "identifier": "materialUi"
     },
     "matter": {
-      "codepoint": 57779,
+      "codepoint": 57776,
       "fontFamily": "Logos",
       "identifier": "matter"
     },
     "matter-icon": {
-      "codepoint": 57780,
+      "codepoint": 57777,
       "fontFamily": "Logos",
       "identifier": "matterIcon"
     },
     "mattermost": {
-      "codepoint": 57781,
+      "codepoint": 57778,
       "fontFamily": "Logos",
       "identifier": "mattermost"
     },
     "mattermost-icon": {
-      "codepoint": 57782,
+      "codepoint": 57779,
       "fontFamily": "Logos",
       "identifier": "mattermostIcon"
     },
     "maxcdn": {
-      "codepoint": 57783,
+      "codepoint": 57780,
       "fontFamily": "Logos",
       "identifier": "maxcdn"
     },
     "mdn": {
-      "codepoint": 57784,
+      "codepoint": 57781,
       "fontFamily": "Logos",
       "identifier": "mdn"
     },
     "mdx": {
-      "codepoint": 57785,
+      "codepoint": 57782,
       "fontFamily": "Logos",
       "identifier": "mdx"
     },
     "meanio": {
-      "codepoint": 57786,
+      "codepoint": 57783,
       "fontFamily": "Logos",
       "identifier": "meanio",
       "duotone": true
     },
     "medium": {
-      "codepoint": 57787,
+      "codepoint": 57784,
       "fontFamily": "Logos",
       "identifier": "medium"
     },
     "medium-icon": {
-      "codepoint": 57788,
+      "codepoint": 57785,
       "fontFamily": "Logos",
       "identifier": "mediumIcon"
     },
     "mesos": {
-      "codepoint": 57789,
+      "codepoint": 57786,
       "fontFamily": "Logos",
       "identifier": "mesos"
     },
     "metabase": {
-      "codepoint": 57790,
+      "codepoint": 57787,
       "fontFamily": "Logos",
       "identifier": "metabase",
       "duotone": true
     },
     "meteor-icon": {
-      "codepoint": 57791,
+      "codepoint": 57788,
       "fontFamily": "Logos",
       "identifier": "meteorIcon"
     },
     "micro": {
-      "codepoint": 57792,
+      "codepoint": 57789,
       "fontFamily": "Logos",
       "identifier": "micro"
     },
     "micro-icon": {
-      "codepoint": 57793,
+      "codepoint": 57790,
       "fontFamily": "Logos",
       "identifier": "microIcon"
     },
     "micro-python": {
-      "codepoint": 57794,
+      "codepoint": 57791,
       "fontFamily": "Logos",
       "identifier": "microPython"
     },
     "micron": {
-      "codepoint": 57795,
+      "codepoint": 57792,
       "fontFamily": "Logos",
       "identifier": "micron"
     },
     "micron-icon": {
-      "codepoint": 57796,
+      "codepoint": 57793,
       "fontFamily": "Logos",
       "identifier": "micronIcon"
     },
     "microsoft": {
-      "codepoint": 57797,
+      "codepoint": 57794,
       "fontFamily": "Logos",
       "identifier": "microsoft"
     },
     "microsoft-windows": {
-      "codepoint": 57798,
+      "codepoint": 57795,
       "fontFamily": "Logos",
       "identifier": "microsoftWindows"
     },
     "microsoft-windows-icon": {
-      "codepoint": 57799,
+      "codepoint": 57796,
       "fontFamily": "Logos",
       "identifier": "microsoftWindowsIcon"
     },
     "mida": {
-      "codepoint": 57800,
+      "codepoint": 57797,
       "fontFamily": "Logos",
       "identifier": "mida"
     },
     "mida-icon": {
-      "codepoint": 57801,
+      "codepoint": 57798,
       "fontFamily": "Logos",
       "identifier": "midaIcon"
     },
     "middleman": {
-      "codepoint": 57802,
+      "codepoint": 57799,
       "fontFamily": "Logos",
       "identifier": "middleman"
     },
     "midjourney": {
-      "codepoint": 57803,
+      "codepoint": 57800,
       "fontFamily": "Logos",
       "identifier": "midjourney"
     },
     "milligram": {
-      "codepoint": 57804,
+      "codepoint": 57801,
       "fontFamily": "Logos",
       "identifier": "milligram"
     },
     "milvus": {
-      "codepoint": 57805,
+      "codepoint": 57802,
       "fontFamily": "Logos",
       "identifier": "milvus"
     },
     "milvus-icon": {
-      "codepoint": 57806,
+      "codepoint": 57803,
       "fontFamily": "Logos",
       "identifier": "milvusIcon"
     },
     "miro": {
-      "codepoint": 57807,
+      "codepoint": 57804,
       "fontFamily": "Logos",
       "identifier": "miro"
     },
     "miro-icon": {
-      "codepoint": 57808,
+      "codepoint": 57805,
       "fontFamily": "Logos",
       "identifier": "miroIcon"
     },
     "model-context-protocol": {
-      "codepoint": 57809,
+      "codepoint": 57806,
       "fontFamily": "Logos",
       "identifier": "modelContextProtocol"
     },
     "model-context-protocol-icon": {
-      "codepoint": 57810,
+      "codepoint": 57807,
       "fontFamily": "Logos",
       "identifier": "modelContextProtocolIcon"
     },
     "modernizr": {
-      "codepoint": 57811,
+      "codepoint": 57808,
       "fontFamily": "Logos",
       "identifier": "modernizr"
     },
     "monday": {
-      "codepoint": 57812,
+      "codepoint": 57809,
       "fontFamily": "Logos",
       "identifier": "monday"
     },
     "monday-icon": {
-      "codepoint": 57813,
+      "codepoint": 57810,
       "fontFamily": "Logos",
       "identifier": "mondayIcon"
     },
     "monero": {
-      "codepoint": 57814,
+      "codepoint": 57811,
       "fontFamily": "Logos",
       "identifier": "monero"
     },
     "mongodb": {
-      "codepoint": 57815,
+      "codepoint": 57812,
       "fontFamily": "Logos",
       "identifier": "mongodb"
     },
     "mongodb-icon": {
-      "codepoint": 57816,
+      "codepoint": 57813,
       "fontFamily": "Logos",
       "identifier": "mongodbIcon"
     },
     "moonshot-ai": {
-      "codepoint": 57817,
+      "codepoint": 57814,
       "fontFamily": "Logos",
       "identifier": "moonshotAi"
     },
     "moonshot-ai-icon": {
-      "codepoint": 57818,
+      "codepoint": 57815,
       "fontFamily": "Logos",
       "identifier": "moonshotAiIcon"
     },
     "mozilla": {
-      "codepoint": 57819,
+      "codepoint": 57816,
       "fontFamily": "Logos",
       "identifier": "mozilla"
     },
     "mparticle": {
-      "codepoint": 57820,
+      "codepoint": 57817,
       "fontFamily": "Logos",
       "identifier": "mparticle"
     },
     "mparticle-icon": {
-      "codepoint": 57821,
+      "codepoint": 57818,
       "fontFamily": "Logos",
       "identifier": "mparticleIcon"
     },
     "mysql-icon": {
-      "codepoint": 57822,
+      "codepoint": 57819,
       "fontFamily": "Logos",
       "identifier": "mysqlIcon"
     },
     "myth": {
-      "codepoint": 57823,
+      "codepoint": 57820,
       "fontFamily": "Logos",
       "identifier": "myth"
     },
     "nanonets": {
-      "codepoint": 57824,
+      "codepoint": 57821,
       "fontFamily": "Logos",
       "identifier": "nanonets"
     },
     "nasm": {
-      "codepoint": 57825,
+      "codepoint": 57822,
       "fontFamily": "Logos",
       "identifier": "nasm"
     },
     "nativescript": {
-      "codepoint": 57826,
+      "codepoint": 57823,
       "fontFamily": "Logos",
       "identifier": "nativescript"
     },
     "nats": {
-      "codepoint": 57827,
+      "codepoint": 57824,
       "fontFamily": "Logos",
       "identifier": "nats"
     },
     "nats-icon": {
-      "codepoint": 57828,
+      "codepoint": 57825,
       "fontFamily": "Logos",
       "identifier": "natsIcon"
     },
     "neo4j": {
-      "codepoint": 57829,
+      "codepoint": 57826,
       "fontFamily": "Logos",
       "identifier": "neo4j"
     },
     "nestjs": {
-      "codepoint": 57830,
+      "codepoint": 57827,
       "fontFamily": "Logos",
       "identifier": "nestjs"
     },
     "netflix": {
-      "codepoint": 57831,
+      "codepoint": 57828,
       "fontFamily": "Logos",
       "identifier": "netflix"
     },
     "netuitive": {
-      "codepoint": 57832,
+      "codepoint": 57829,
       "fontFamily": "Logos",
       "identifier": "netuitive"
     },
     "new-relic": {
-      "codepoint": 57833,
+      "codepoint": 57830,
       "fontFamily": "Logos",
       "identifier": "newRelic"
     },
     "new-relic-icon": {
-      "codepoint": 57834,
+      "codepoint": 57831,
       "fontFamily": "Logos",
       "identifier": "newRelicIcon"
     },
     "nextjs": {
-      "codepoint": 57835,
+      "codepoint": 57832,
       "fontFamily": "Logos",
       "identifier": "nextjs"
     },
     "ngrok": {
-      "codepoint": 57836,
+      "codepoint": 57833,
       "fontFamily": "Logos",
       "identifier": "ngrok"
     },
     "nhost-icon": {
-      "codepoint": 57837,
+      "codepoint": 57834,
       "fontFamily": "Logos",
       "identifier": "nhostIcon"
     },
     "nim-lang": {
-      "codepoint": 57838,
+      "codepoint": 57835,
       "fontFamily": "Logos",
       "identifier": "nimLang"
     },
     "nodal": {
-      "codepoint": 57839,
+      "codepoint": 57836,
       "fontFamily": "Logos",
       "identifier": "nodal"
     },
     "nodebots": {
-      "codepoint": 57840,
+      "codepoint": 57837,
       "fontFamily": "Logos",
       "identifier": "nodebots"
     },
     "nodejitsu": {
-      "codepoint": 57841,
+      "codepoint": 57838,
       "fontFamily": "Logos",
       "identifier": "nodejitsu"
     },
     "nodemon": {
-      "codepoint": 57842,
+      "codepoint": 57839,
       "fontFamily": "Logos",
       "identifier": "nodemon"
     },
     "nodeos": {
-      "codepoint": 57843,
+      "codepoint": 57840,
       "fontFamily": "Logos",
       "identifier": "nodeos"
     },
     "nodewebkit": {
-      "codepoint": 57844,
+      "codepoint": 57841,
       "fontFamily": "Logos",
       "identifier": "nodewebkit"
     },
     "nomad": {
-      "codepoint": 57845,
+      "codepoint": 57842,
       "fontFamily": "Logos",
       "identifier": "nomad"
     },
     "nomad-icon": {
-      "codepoint": 57846,
+      "codepoint": 57843,
       "fontFamily": "Logos",
       "identifier": "nomadIcon"
     },
     "notion": {
-      "codepoint": 57847,
+      "codepoint": 57844,
       "fontFamily": "Logos",
       "identifier": "notion"
     },
     "notion-icon": {
-      "codepoint": 57848,
+      "codepoint": 57845,
       "fontFamily": "Logos",
       "identifier": "notionIcon"
     },
     "now": {
-      "codepoint": 57849,
+      "codepoint": 57846,
       "fontFamily": "Logos",
       "identifier": "now"
     },
     "noysi": {
-      "codepoint": 57850,
+      "codepoint": 57847,
       "fontFamily": "Logos",
       "identifier": "noysi"
     },
     "nuclide": {
-      "codepoint": 57851,
+      "codepoint": 57848,
       "fontFamily": "Logos",
       "identifier": "nuclide"
     },
     "numpy": {
-      "codepoint": 57852,
+      "codepoint": 57849,
       "fontFamily": "Logos",
       "identifier": "numpy"
     },
     "nuodb": {
-      "codepoint": 57853,
+      "codepoint": 57850,
       "fontFamily": "Logos",
       "identifier": "nuodb"
     },
     "nuxt": {
-      "codepoint": 57854,
+      "codepoint": 57851,
       "fontFamily": "Logos",
       "identifier": "nuxt"
     },
     "nuxt-icon": {
-      "codepoint": 57855,
+      "codepoint": 57852,
       "fontFamily": "Logos",
       "identifier": "nuxtIcon"
     },
     "nvidia": {
-      "codepoint": 57856,
+      "codepoint": 57853,
       "fontFamily": "Logos",
       "identifier": "nvidia"
     },
     "oauth": {
-      "codepoint": 57857,
+      "codepoint": 57854,
       "fontFamily": "Logos",
       "identifier": "oauth"
     },
     "observablehq": {
-      "codepoint": 57858,
+      "codepoint": 57855,
       "fontFamily": "Logos",
       "identifier": "observablehq"
     },
     "octopus-deploy": {
-      "codepoint": 57859,
+      "codepoint": 57856,
       "fontFamily": "Logos",
       "identifier": "octopusDeploy"
     },
     "okta": {
-      "codepoint": 57860,
+      "codepoint": 57857,
       "fontFamily": "Logos",
       "identifier": "okta"
     },
     "okta-icon": {
-      "codepoint": 57861,
+      "codepoint": 57858,
       "fontFamily": "Logos",
       "identifier": "oktaIcon"
     },
     "olark": {
-      "codepoint": 57862,
+      "codepoint": 57859,
       "fontFamily": "Logos",
       "identifier": "olark"
     },
     "onesignal": {
-      "codepoint": 57863,
+      "codepoint": 57860,
       "fontFamily": "Logos",
       "identifier": "onesignal"
     },
     "openai": {
-      "codepoint": 57864,
+      "codepoint": 57861,
       "fontFamily": "Logos",
       "identifier": "openai"
     },
     "openai-icon": {
-      "codepoint": 57865,
+      "codepoint": 57862,
       "fontFamily": "Logos",
       "identifier": "openaiIcon"
     },
     "opencollective": {
-      "codepoint": 57866,
+      "codepoint": 57863,
       "fontFamily": "Logos",
       "identifier": "opencollective"
     },
     "openframeworks": {
-      "codepoint": 57867,
+      "codepoint": 57864,
       "fontFamily": "Logos",
       "identifier": "openframeworks"
     },
     "opensearch": {
-      "codepoint": 57868,
+      "codepoint": 57865,
       "fontFamily": "Logos",
       "identifier": "opensearch"
     },
     "opensearch-icon": {
-      "codepoint": 57869,
+      "codepoint": 57866,
       "fontFamily": "Logos",
       "identifier": "opensearchIcon"
     },
     "opensource": {
-      "codepoint": 57870,
+      "codepoint": 57867,
       "fontFamily": "Logos",
       "identifier": "opensource"
     },
     "openstack": {
-      "codepoint": 57871,
+      "codepoint": 57868,
       "fontFamily": "Logos",
       "identifier": "openstack"
     },
     "openstack-icon": {
-      "codepoint": 57872,
+      "codepoint": 57869,
       "fontFamily": "Logos",
       "identifier": "openstackIcon"
     },
     "opentelemetry": {
-      "codepoint": 57873,
+      "codepoint": 57870,
       "fontFamily": "Logos",
       "identifier": "opentelemetry"
     },
     "opentelemetry-icon": {
-      "codepoint": 57874,
+      "codepoint": 57871,
       "fontFamily": "Logos",
       "identifier": "opentelemetryIcon"
     },
     "oracle": {
-      "codepoint": 57875,
+      "codepoint": 57872,
       "fontFamily": "Logos",
       "identifier": "oracle"
     },
     "oshw": {
-      "codepoint": 57876,
+      "codepoint": 57873,
       "fontFamily": "Logos",
       "identifier": "oshw"
     },
     "osquery": {
-      "codepoint": 57877,
+      "codepoint": 57874,
       "fontFamily": "Logos",
       "identifier": "osquery"
     },
     "p5js": {
-      "codepoint": 57878,
+      "codepoint": 57875,
       "fontFamily": "Logos",
       "identifier": "p5js"
     },
     "packer": {
-      "codepoint": 57879,
+      "codepoint": 57876,
       "fontFamily": "Logos",
       "identifier": "packer"
     },
     "pagerduty": {
-      "codepoint": 57880,
+      "codepoint": 57877,
       "fontFamily": "Logos",
       "identifier": "pagerduty"
     },
     "pagerduty-icon": {
-      "codepoint": 57881,
+      "codepoint": 57878,
       "fontFamily": "Logos",
       "identifier": "pagerdutyIcon"
     },
     "panda": {
-      "codepoint": 57882,
+      "codepoint": 57879,
       "fontFamily": "Logos",
       "identifier": "panda"
     },
     "pandacss": {
-      "codepoint": 57883,
+      "codepoint": 57880,
       "fontFamily": "Logos",
       "identifier": "pandacss"
     },
     "pandacss-icon": {
-      "codepoint": 57884,
+      "codepoint": 57881,
       "fontFamily": "Logos",
       "identifier": "pandacssIcon"
     },
     "parse": {
-      "codepoint": 57885,
+      "codepoint": 57882,
       "fontFamily": "Logos",
       "identifier": "parse"
     },
     "patreon": {
-      "codepoint": 57886,
+      "codepoint": 57883,
       "fontFamily": "Logos",
       "identifier": "patreon"
     },
     "payload": {
-      "codepoint": 57887,
+      "codepoint": 57884,
       "fontFamily": "Logos",
       "identifier": "payload"
     },
     "percy": {
-      "codepoint": 57888,
+      "codepoint": 57885,
       "fontFamily": "Logos",
       "identifier": "percy"
     },
     "percy-icon": {
-      "codepoint": 57889,
+      "codepoint": 57886,
       "fontFamily": "Logos",
       "identifier": "percyIcon"
     },
     "perf-rocks": {
-      "codepoint": 57890,
+      "codepoint": 57887,
       "fontFamily": "Logos",
       "identifier": "perfRocks"
     },
     "phoenix": {
-      "codepoint": 57891,
+      "codepoint": 57888,
       "fontFamily": "Logos",
       "identifier": "phoenix"
     },
     "php-alt": {
-      "codepoint": 57892,
+      "codepoint": 57889,
       "fontFamily": "Logos",
       "identifier": "phpAlt"
     },
     "picasa": {
-      "codepoint": 57893,
+      "codepoint": 57890,
       "fontFamily": "Logos",
       "identifier": "picasa"
     },
     "pinecone": {
-      "codepoint": 57894,
+      "codepoint": 57891,
       "fontFamily": "Logos",
       "identifier": "pinecone"
     },
     "pinecone-icon": {
-      "codepoint": 57895,
+      "codepoint": 57892,
       "fontFamily": "Logos",
       "identifier": "pineconeIcon"
     },
     "pingdom": {
-      "codepoint": 57896,
+      "codepoint": 57893,
       "fontFamily": "Logos",
       "identifier": "pingdom"
     },
     "pingy": {
-      "codepoint": 57897,
+      "codepoint": 57894,
       "fontFamily": "Logos",
       "identifier": "pingy"
     },
     "pinterest": {
-      "codepoint": 57898,
+      "codepoint": 57895,
       "fontFamily": "Logos",
       "identifier": "pinterest"
     },
     "pipedream": {
-      "codepoint": 57899,
+      "codepoint": 57896,
       "fontFamily": "Logos",
       "identifier": "pipedream"
     },
     "pipefy": {
-      "codepoint": 57900,
+      "codepoint": 57897,
       "fontFamily": "Logos",
       "identifier": "pipefy"
     },
     "pixate": {
-      "codepoint": 57901,
+      "codepoint": 57898,
       "fontFamily": "Logos",
       "identifier": "pixate"
     },
     "pixelapse": {
-      "codepoint": 57902,
+      "codepoint": 57899,
       "fontFamily": "Logos",
       "identifier": "pixelapse"
     },
     "pkg": {
-      "codepoint": 57903,
+      "codepoint": 57900,
       "fontFamily": "Logos",
       "identifier": "pkg"
     },
     "planetscale": {
-      "codepoint": 57904,
+      "codepoint": 57901,
       "fontFamily": "Logos",
       "identifier": "planetscale"
     },
     "plasmic": {
-      "codepoint": 57905,
+      "codepoint": 57902,
       "fontFamily": "Logos",
       "identifier": "plasmic"
     },
     "posthog": {
-      "codepoint": 57906,
+      "codepoint": 57903,
       "fontFamily": "Logos",
       "identifier": "posthog"
     },
     "posthog-icon": {
-      "codepoint": 57907,
+      "codepoint": 57904,
       "fontFamily": "Logos",
       "identifier": "posthogIcon"
     },
     "postman": {
-      "codepoint": 57908,
+      "codepoint": 57905,
       "fontFamily": "Logos",
       "identifier": "postman"
     },
     "postman-icon": {
-      "codepoint": 57909,
+      "codepoint": 57906,
       "fontFamily": "Logos",
       "identifier": "postmanIcon"
     },
     "pouchdb": {
-      "codepoint": 57910,
+      "codepoint": 57907,
       "fontFamily": "Logos",
       "identifier": "pouchdb"
     },
     "preact": {
-      "codepoint": 57911,
+      "codepoint": 57908,
       "fontFamily": "Logos",
       "identifier": "preact"
     },
     "precursor": {
-      "codepoint": 57912,
+      "codepoint": 57909,
       "fontFamily": "Logos",
       "identifier": "precursor"
     },
     "prerender": {
-      "codepoint": 57913,
+      "codepoint": 57910,
       "fontFamily": "Logos",
       "identifier": "prerender"
     },
     "prerender-icon": {
-      "codepoint": 57914,
+      "codepoint": 57911,
       "fontFamily": "Logos",
       "identifier": "prerenderIcon"
     },
     "prestashop": {
-      "codepoint": 57915,
+      "codepoint": 57912,
       "fontFamily": "Logos",
       "identifier": "prestashop"
     },
     "prestashop-icon": {
-      "codepoint": 57916,
+      "codepoint": 57913,
       "fontFamily": "Logos",
       "identifier": "prestashopIcon"
     },
     "presto": {
-      "codepoint": 57917,
+      "codepoint": 57914,
       "fontFamily": "Logos",
       "identifier": "presto"
     },
     "presto-icon": {
-      "codepoint": 57918,
+      "codepoint": 57915,
       "fontFamily": "Logos",
       "identifier": "prestoIcon"
     },
     "prisma": {
-      "codepoint": 57919,
+      "codepoint": 57916,
       "fontFamily": "Logos",
       "identifier": "prisma"
     },
     "processing": {
-      "codepoint": 57920,
+      "codepoint": 57917,
       "fontFamily": "Logos",
       "identifier": "processing"
     },
     "processwire-icon": {
-      "codepoint": 57921,
+      "codepoint": 57918,
       "fontFamily": "Logos",
       "identifier": "processwireIcon"
     },
     "progress": {
-      "codepoint": 57922,
+      "codepoint": 57919,
       "fontFamily": "Logos",
       "identifier": "progress"
     },
     "proofy": {
-      "codepoint": 57923,
+      "codepoint": 57920,
       "fontFamily": "Logos",
       "identifier": "proofy"
     },
     "prospect": {
-      "codepoint": 57924,
+      "codepoint": 57921,
       "fontFamily": "Logos",
       "identifier": "prospect"
     },
     "protoio": {
-      "codepoint": 57925,
+      "codepoint": 57922,
       "fontFamily": "Logos",
       "identifier": "protoio"
     },
     "protonet": {
-      "codepoint": 57926,
+      "codepoint": 57923,
       "fontFamily": "Logos",
       "identifier": "protonet"
     },
     "pug": {
-      "codepoint": 57927,
+      "codepoint": 57924,
       "fontFamily": "Logos",
       "identifier": "pug"
     },
     "puppet": {
-      "codepoint": 57928,
+      "codepoint": 57925,
       "fontFamily": "Logos",
       "identifier": "puppet"
     },
     "puppet-icon": {
-      "codepoint": 57929,
+      "codepoint": 57926,
       "fontFamily": "Logos",
       "identifier": "puppetIcon"
     },
     "puppeteer": {
-      "codepoint": 57930,
+      "codepoint": 57927,
       "fontFamily": "Logos",
       "identifier": "puppeteer"
     },
     "purescript": {
-      "codepoint": 57931,
+      "codepoint": 57928,
       "fontFamily": "Logos",
       "identifier": "purescript"
     },
     "purescript-icon": {
-      "codepoint": 57932,
+      "codepoint": 57929,
       "fontFamily": "Logos",
       "identifier": "purescriptIcon"
     },
     "pusher": {
-      "codepoint": 57933,
+      "codepoint": 57930,
       "fontFamily": "Logos",
       "identifier": "pusher"
     },
     "pusher-icon": {
-      "codepoint": 57934,
+      "codepoint": 57931,
       "fontFamily": "Logos",
       "identifier": "pusherIcon"
     },
     "pwa": {
-      "codepoint": 57935,
+      "codepoint": 57932,
       "fontFamily": "Logos",
       "identifier": "pwa"
     },
     "pyscript": {
-      "codepoint": 57936,
+      "codepoint": 57933,
       "fontFamily": "Logos",
       "identifier": "pyscript"
     },
     "pytorch": {
-      "codepoint": 57937,
+      "codepoint": 57934,
       "fontFamily": "Logos",
       "identifier": "pytorch"
     },
     "pytorch-icon": {
-      "codepoint": 57938,
+      "codepoint": 57935,
       "fontFamily": "Logos",
       "identifier": "pytorchIcon"
     },
     "pyup": {
-      "codepoint": 57939,
+      "codepoint": 57936,
       "fontFamily": "Logos",
       "identifier": "pyup"
     },
     "qt": {
-      "codepoint": 57940,
+      "codepoint": 57937,
       "fontFamily": "Logos",
       "identifier": "qt"
     },
     "quora": {
-      "codepoint": 57941,
+      "codepoint": 57938,
       "fontFamily": "Logos",
       "identifier": "quora"
     },
     "qwen": {
-      "codepoint": 57942,
+      "codepoint": 57939,
       "fontFamily": "Logos",
       "identifier": "qwen"
     },
     "qwen-icon": {
-      "codepoint": 57943,
+      "codepoint": 57940,
       "fontFamily": "Logos",
       "identifier": "qwenIcon"
     },
     "qwik": {
-      "codepoint": 57944,
+      "codepoint": 57941,
       "fontFamily": "Logos",
       "identifier": "qwik"
     },
     "qwik-icon": {
-      "codepoint": 57945,
+      "codepoint": 57942,
       "fontFamily": "Logos",
       "identifier": "qwikIcon"
     },
     "rabbitmq": {
-      "codepoint": 57946,
+      "codepoint": 57943,
       "fontFamily": "Logos",
       "identifier": "rabbitmq"
     },
     "rabbitmq-icon": {
-      "codepoint": 57947,
+      "codepoint": 57944,
       "fontFamily": "Logos",
       "identifier": "rabbitmqIcon"
     },
     "rackspace": {
-      "codepoint": 57948,
+      "codepoint": 57945,
       "fontFamily": "Logos",
       "identifier": "rackspace"
     },
     "rackspace-icon": {
-      "codepoint": 57949,
+      "codepoint": 57946,
       "fontFamily": "Logos",
       "identifier": "rackspaceIcon"
     },
     "rails": {
-      "codepoint": 57950,
+      "codepoint": 57947,
       "fontFamily": "Logos",
       "identifier": "rails"
     },
     "raml": {
-      "codepoint": 57951,
+      "codepoint": 57948,
       "fontFamily": "Logos",
       "identifier": "raml"
     },
     "rancher": {
-      "codepoint": 57952,
+      "codepoint": 57949,
       "fontFamily": "Logos",
       "identifier": "rancher"
     },
     "raspberry-pi": {
-      "codepoint": 57953,
+      "codepoint": 57950,
       "fontFamily": "Logos",
       "identifier": "raspberryPi"
     },
     "react": {
-      "codepoint": 57954,
+      "codepoint": 57951,
       "fontFamily": "Logos",
       "identifier": "react"
     },
     "react-router": {
-      "codepoint": 57955,
+      "codepoint": 57952,
       "fontFamily": "Logos",
       "identifier": "reactRouter"
     },
     "reasonml": {
-      "codepoint": 57956,
+      "codepoint": 57953,
       "fontFamily": "Logos",
       "identifier": "reasonml"
     },
     "reasonml-icon": {
-      "codepoint": 57957,
+      "codepoint": 57954,
       "fontFamily": "Logos",
       "identifier": "reasonmlIcon"
     },
     "redhat": {
-      "codepoint": 57958,
+      "codepoint": 57955,
       "fontFamily": "Logos",
       "identifier": "redhat"
     },
     "redhat-icon": {
-      "codepoint": 57959,
+      "codepoint": 57956,
       "fontFamily": "Logos",
       "identifier": "redhatIcon"
     },
     "redspread": {
-      "codepoint": 57960,
+      "codepoint": 57957,
       "fontFamily": "Logos",
       "identifier": "redspread"
     },
     "redux": {
-      "codepoint": 57961,
+      "codepoint": 57958,
       "fontFamily": "Logos",
       "identifier": "redux"
     },
     "redux-saga": {
-      "codepoint": 57962,
+      "codepoint": 57959,
       "fontFamily": "Logos",
       "identifier": "reduxSaga"
     },
     "refactor": {
-      "codepoint": 57963,
+      "codepoint": 57960,
       "fontFamily": "Logos",
       "identifier": "refactor"
     },
     "reindex": {
-      "codepoint": 57964,
+      "codepoint": 57961,
       "fontFamily": "Logos",
       "identifier": "reindex"
     },
     "relay": {
-      "codepoint": 57965,
+      "codepoint": 57962,
       "fontFamily": "Logos",
       "identifier": "relay"
     },
     "release": {
-      "codepoint": 57966,
+      "codepoint": 57963,
       "fontFamily": "Logos",
       "identifier": "release"
     },
     "remergr": {
-      "codepoint": 57967,
+      "codepoint": 57964,
       "fontFamily": "Logos",
       "identifier": "remergr"
     },
     "renovatebot": {
-      "codepoint": 57968,
+      "codepoint": 57965,
       "fontFamily": "Logos",
       "identifier": "renovatebot"
     },
     "replay": {
-      "codepoint": 57969,
+      "codepoint": 57966,
       "fontFamily": "Logos",
       "identifier": "replay"
     },
     "replay-icon": {
-      "codepoint": 57970,
+      "codepoint": 57967,
       "fontFamily": "Logos",
       "identifier": "replayIcon"
     },
     "require": {
-      "codepoint": 57971,
+      "codepoint": 57968,
       "fontFamily": "Logos",
       "identifier": "require"
     },
     "rest-li": {
-      "codepoint": 57972,
+      "codepoint": 57969,
       "fontFamily": "Logos",
       "identifier": "restLi"
     },
     "risingwave": {
-      "codepoint": 57973,
+      "codepoint": 57970,
       "fontFamily": "Logos",
       "identifier": "risingwave"
     },
     "rocky-linux": {
-      "codepoint": 57974,
+      "codepoint": 57971,
       "fontFamily": "Logos",
       "identifier": "rockyLinux"
     },
     "rocky-linux-icon": {
-      "codepoint": 57975,
+      "codepoint": 57972,
       "fontFamily": "Logos",
       "identifier": "rockyLinuxIcon"
     },
     "rollbar": {
-      "codepoint": 57976,
+      "codepoint": 57973,
       "fontFamily": "Logos",
       "identifier": "rollbar"
     },
     "rollbar-icon": {
-      "codepoint": 57977,
+      "codepoint": 57974,
       "fontFamily": "Logos",
       "identifier": "rollbarIcon"
     },
     "runnable": {
-      "codepoint": 57978,
+      "codepoint": 57975,
       "fontFamily": "Logos",
       "identifier": "runnable"
     },
     "rush-icon": {
-      "codepoint": 57979,
+      "codepoint": 57976,
       "fontFamily": "Logos",
       "identifier": "rushIcon"
     },
     "rust": {
-      "codepoint": 57980,
+      "codepoint": 57977,
       "fontFamily": "Logos",
       "identifier": "rust"
     },
     "sagui": {
-      "codepoint": 57981,
+      "codepoint": 57978,
       "fontFamily": "Logos",
       "identifier": "sagui"
     },
     "sails": {
-      "codepoint": 57982,
+      "codepoint": 57979,
       "fontFamily": "Logos",
       "identifier": "sails"
     },
     "salesforce": {
-      "codepoint": 57983,
+      "codepoint": 57980,
       "fontFamily": "Logos",
       "identifier": "salesforce"
     },
     "saltstack": {
-      "codepoint": 57984,
+      "codepoint": 57981,
       "fontFamily": "Logos",
       "identifier": "saltstack"
     },
     "samsung": {
-      "codepoint": 57985,
+      "codepoint": 57982,
       "fontFamily": "Logos",
       "identifier": "samsung"
     },
     "scaphold": {
-      "codepoint": 57986,
+      "codepoint": 57983,
       "fontFamily": "Logos",
       "identifier": "scaphold"
     },
     "segment": {
-      "codepoint": 57987,
+      "codepoint": 57984,
       "fontFamily": "Logos",
       "identifier": "segment"
     },
     "segment-icon": {
-      "codepoint": 57988,
+      "codepoint": 57985,
       "fontFamily": "Logos",
       "identifier": "segmentIcon"
     },
     "selenium": {
-      "codepoint": 57989,
+      "codepoint": 57986,
       "fontFamily": "Logos",
       "identifier": "selenium"
     },
     "semantic-ui": {
-      "codepoint": 57990,
+      "codepoint": 57987,
       "fontFamily": "Logos",
       "identifier": "semanticUi"
     },
     "semantic-web": {
-      "codepoint": 57991,
+      "codepoint": 57988,
       "fontFamily": "Logos",
       "identifier": "semanticWeb"
     },
     "seneca": {
-      "codepoint": 57992,
+      "codepoint": 57989,
       "fontFamily": "Logos",
       "identifier": "seneca"
     },
     "sensu": {
-      "codepoint": 57993,
+      "codepoint": 57990,
       "fontFamily": "Logos",
       "identifier": "sensu"
     },
     "sensu-icon": {
-      "codepoint": 57994,
+      "codepoint": 57991,
       "fontFamily": "Logos",
       "identifier": "sensuIcon"
     },
     "sentry": {
-      "codepoint": 57995,
+      "codepoint": 57992,
       "fontFamily": "Logos",
       "identifier": "sentry"
     },
     "sentry-icon": {
-      "codepoint": 57996,
+      "codepoint": 57993,
       "fontFamily": "Logos",
       "identifier": "sentryIcon"
     },
     "serveless": {
-      "codepoint": 57997,
+      "codepoint": 57994,
       "fontFamily": "Logos",
       "identifier": "serveless"
     },
     "serverless": {
-      "codepoint": 57998,
+      "codepoint": 57995,
       "fontFamily": "Logos",
       "identifier": "serverless"
     },
     "shields": {
-      "codepoint": 57999,
+      "codepoint": 57996,
       "fontFamily": "Logos",
       "identifier": "shields"
     },
     "shogun": {
-      "codepoint": 58000,
+      "codepoint": 57997,
       "fontFamily": "Logos",
       "identifier": "shogun"
     },
     "sidekiq": {
-      "codepoint": 58001,
+      "codepoint": 57998,
       "fontFamily": "Logos",
       "identifier": "sidekiq"
     },
     "sidekiq-icon": {
-      "codepoint": 58002,
+      "codepoint": 57999,
       "fontFamily": "Logos",
       "identifier": "sidekiqIcon"
     },
     "signal": {
-      "codepoint": 58003,
+      "codepoint": 58000,
       "fontFamily": "Logos",
       "identifier": "signal"
     },
     "skaffolder": {
-      "codepoint": 58004,
+      "codepoint": 58001,
       "fontFamily": "Logos",
       "identifier": "skaffolder"
     },
     "sketch": {
-      "codepoint": 58005,
+      "codepoint": 58002,
       "fontFamily": "Logos",
       "identifier": "sketch"
     },
     "sketchapp": {
-      "codepoint": 58006,
+      "codepoint": 58003,
       "fontFamily": "Logos",
       "identifier": "sketchapp"
     },
     "smartling": {
-      "codepoint": 58007,
+      "codepoint": 58004,
       "fontFamily": "Logos",
       "identifier": "smartling"
     },
     "snowpack": {
-      "codepoint": 58008,
+      "codepoint": 58005,
       "fontFamily": "Logos",
       "identifier": "snowpack"
     },
     "snupps": {
-      "codepoint": 58009,
+      "codepoint": 58006,
       "fontFamily": "Logos",
       "identifier": "snupps"
     },
     "solarwinds": {
-      "codepoint": 58010,
+      "codepoint": 58007,
       "fontFamily": "Logos",
       "identifier": "solarwinds"
     },
     "solid": {
-      "codepoint": 58011,
+      "codepoint": 58008,
       "fontFamily": "Logos",
       "identifier": "solid",
       "duotone": true
     },
     "solidity": {
-      "codepoint": 58012,
+      "codepoint": 58009,
       "fontFamily": "Logos",
       "identifier": "solidity"
     },
     "sonarlint": {
-      "codepoint": 58013,
+      "codepoint": 58010,
       "fontFamily": "Logos",
       "identifier": "sonarlint"
     },
     "sourcetrail": {
-      "codepoint": 58014,
+      "codepoint": 58011,
       "fontFamily": "Logos",
       "identifier": "sourcetrail"
     },
     "spark": {
-      "codepoint": 58015,
+      "codepoint": 58012,
       "fontFamily": "Logos",
       "identifier": "spark"
     },
     "spidermonkey": {
-      "codepoint": 58016,
+      "codepoint": 58013,
       "fontFamily": "Logos",
       "identifier": "spidermonkey"
     },
     "spidermonkey-icon": {
-      "codepoint": 58017,
+      "codepoint": 58014,
       "fontFamily": "Logos",
       "identifier": "spidermonkeyIcon"
     },
     "splunk": {
-      "codepoint": 58018,
+      "codepoint": 58015,
       "fontFamily": "Logos",
       "identifier": "splunk"
     },
     "spotify": {
-      "codepoint": 58019,
+      "codepoint": 58016,
       "fontFamily": "Logos",
       "identifier": "spotify"
     },
     "spotify-icon": {
-      "codepoint": 58020,
+      "codepoint": 58017,
       "fontFamily": "Logos",
       "identifier": "spotifyIcon"
     },
     "spree": {
-      "codepoint": 58021,
+      "codepoint": 58018,
       "fontFamily": "Logos",
       "identifier": "spree"
     },
     "spring": {
-      "codepoint": 58022,
+      "codepoint": 58019,
       "fontFamily": "Logos",
       "identifier": "spring"
     },
     "spring-icon": {
-      "codepoint": 58023,
+      "codepoint": 58020,
       "fontFamily": "Logos",
       "identifier": "springIcon"
     },
     "sqldep": {
-      "codepoint": 58024,
+      "codepoint": 58021,
       "fontFamily": "Logos",
       "identifier": "sqldep"
     },
     "stackbit": {
-      "codepoint": 58025,
+      "codepoint": 58022,
       "fontFamily": "Logos",
       "identifier": "stackbit"
     },
     "stackbit-icon": {
-      "codepoint": 58026,
+      "codepoint": 58023,
       "fontFamily": "Logos",
       "identifier": "stackbitIcon"
     },
     "stackblitz": {
-      "codepoint": 58027,
+      "codepoint": 58024,
       "fontFamily": "Logos",
       "identifier": "stackblitz"
     },
     "stackblitz-icon": {
-      "codepoint": 58028,
+      "codepoint": 58025,
       "fontFamily": "Logos",
       "identifier": "stackblitzIcon"
     },
     "stackshare": {
-      "codepoint": 58029,
+      "codepoint": 58026,
       "fontFamily": "Logos",
       "identifier": "stackshare"
     },
     "stately": {
-      "codepoint": 58030,
+      "codepoint": 58027,
       "fontFamily": "Logos",
       "identifier": "stately"
     },
     "stately-icon": {
-      "codepoint": 58031,
+      "codepoint": 58028,
       "fontFamily": "Logos",
       "identifier": "statelyIcon"
     },
     "stenciljs": {
-      "codepoint": 58032,
+      "codepoint": 58029,
       "fontFamily": "Logos",
       "identifier": "stenciljs"
     },
     "stenciljs-icon": {
-      "codepoint": 58033,
+      "codepoint": 58030,
       "fontFamily": "Logos",
       "identifier": "stenciljsIcon"
     },
     "stetho": {
-      "codepoint": 58034,
+      "codepoint": 58031,
       "fontFamily": "Logos",
       "identifier": "stetho"
     },
     "stitch": {
-      "codepoint": 58035,
+      "codepoint": 58032,
       "fontFamily": "Logos",
       "identifier": "stitch"
     },
     "stormpath": {
-      "codepoint": 58036,
+      "codepoint": 58033,
       "fontFamily": "Logos",
       "identifier": "stormpath"
     },
     "storyblocks": {
-      "codepoint": 58037,
+      "codepoint": 58034,
       "fontFamily": "Logos",
       "identifier": "storyblocks"
     },
     "storyblocks-icon": {
-      "codepoint": 58038,
+      "codepoint": 58035,
       "fontFamily": "Logos",
       "identifier": "storyblocksIcon"
     },
     "storyblok": {
-      "codepoint": 58039,
+      "codepoint": 58036,
       "fontFamily": "Logos",
       "identifier": "storyblok"
     },
     "storyblok-icon": {
-      "codepoint": 58040,
+      "codepoint": 58037,
       "fontFamily": "Logos",
       "identifier": "storyblokIcon"
     },
     "strider": {
-      "codepoint": 58041,
+      "codepoint": 58038,
       "fontFamily": "Logos",
       "identifier": "strider"
     },
     "stripe": {
-      "codepoint": 58042,
+      "codepoint": 58039,
       "fontFamily": "Logos",
       "identifier": "stripe"
     },
     "stylefmt": {
-      "codepoint": 58043,
+      "codepoint": 58040,
       "fontFamily": "Logos",
       "identifier": "stylefmt"
     },
     "stylelint": {
-      "codepoint": 58044,
+      "codepoint": 58041,
       "fontFamily": "Logos",
       "identifier": "stylelint"
     },
     "stylus": {
-      "codepoint": 58045,
+      "codepoint": 58042,
       "fontFamily": "Logos",
       "identifier": "stylus"
     },
     "subversion": {
-      "codepoint": 58046,
+      "codepoint": 58043,
       "fontFamily": "Logos",
       "identifier": "subversion"
     },
     "survicate": {
-      "codepoint": 58047,
+      "codepoint": 58044,
       "fontFamily": "Logos",
       "identifier": "survicate"
     },
     "survicate-icon": {
-      "codepoint": 58048,
+      "codepoint": 58045,
       "fontFamily": "Logos",
       "identifier": "survicateIcon"
     },
     "suse": {
-      "codepoint": 58049,
+      "codepoint": 58046,
       "fontFamily": "Logos",
       "identifier": "suse"
     },
     "susy": {
-      "codepoint": 58050,
+      "codepoint": 58047,
       "fontFamily": "Logos",
       "identifier": "susy"
     },
     "svelte": {
-      "codepoint": 58051,
+      "codepoint": 58048,
       "fontFamily": "Logos",
       "identifier": "svelte"
     },
     "svelte-icon": {
-      "codepoint": 58052,
+      "codepoint": 58049,
       "fontFamily": "Logos",
       "identifier": "svelteIcon"
     },
     "svelte-kit": {
-      "codepoint": 58053,
+      "codepoint": 58050,
       "fontFamily": "Logos",
       "identifier": "svelteKit"
     },
     "svg": {
-      "codepoint": 58054,
+      "codepoint": 58051,
       "fontFamily": "Logos",
       "identifier": "svg"
     },
     "svgator": {
-      "codepoint": 58055,
+      "codepoint": 58052,
       "fontFamily": "Logos",
       "identifier": "svgator"
     },
     "swr": {
-      "codepoint": 58056,
+      "codepoint": 58053,
       "fontFamily": "Logos",
       "identifier": "swr"
     },
     "symfony": {
-      "codepoint": 58057,
+      "codepoint": 58054,
       "fontFamily": "Logos",
       "identifier": "symfony"
     },
     "tapcart": {
-      "codepoint": 58058,
+      "codepoint": 58055,
       "fontFamily": "Logos",
       "identifier": "tapcart"
     },
     "tapcart-icon": {
-      "codepoint": 58059,
+      "codepoint": 58056,
       "fontFamily": "Logos",
       "identifier": "tapcartIcon"
     },
     "taskade": {
-      "codepoint": 58060,
+      "codepoint": 58057,
       "fontFamily": "Logos",
       "identifier": "taskade"
     },
     "taskade-icon": {
-      "codepoint": 58061,
+      "codepoint": 58058,
       "fontFamily": "Logos",
       "identifier": "taskadeIcon"
     },
     "tauri": {
-      "codepoint": 58062,
+      "codepoint": 58059,
       "fontFamily": "Logos",
       "identifier": "tauri"
     },
     "tealium": {
-      "codepoint": 58063,
+      "codepoint": 58060,
       "fontFamily": "Logos",
       "identifier": "tealium"
     },
     "teamgrid": {
-      "codepoint": 58064,
+      "codepoint": 58061,
       "fontFamily": "Logos",
       "identifier": "teamgrid"
     },
     "teamwork": {
-      "codepoint": 58065,
+      "codepoint": 58062,
       "fontFamily": "Logos",
       "identifier": "teamwork"
     },
     "teamwork-icon": {
-      "codepoint": 58066,
+      "codepoint": 58063,
       "fontFamily": "Logos",
       "identifier": "teamworkIcon"
     },
     "tectonic": {
-      "codepoint": 58067,
+      "codepoint": 58064,
       "fontFamily": "Logos",
       "identifier": "tectonic"
     },
     "terminal": {
-      "codepoint": 58068,
+      "codepoint": 58065,
       "fontFamily": "Logos",
       "identifier": "terminal"
     },
     "testlodge": {
-      "codepoint": 58069,
+      "codepoint": 58066,
       "fontFamily": "Logos",
       "identifier": "testlodge"
     },
     "threads": {
-      "codepoint": 58070,
+      "codepoint": 58067,
       "fontFamily": "Logos",
       "identifier": "threads"
     },
     "threads-icon": {
-      "codepoint": 58071,
+      "codepoint": 58068,
       "fontFamily": "Logos",
       "identifier": "threadsIcon"
     },
     "threejs": {
-      "codepoint": 58072,
+      "codepoint": 58069,
       "fontFamily": "Logos",
       "identifier": "threejs"
     },
     "thymeleaf": {
-      "codepoint": 58073,
+      "codepoint": 58070,
       "fontFamily": "Logos",
       "identifier": "thymeleaf"
     },
     "thymeleaf-icon": {
-      "codepoint": 58074,
+      "codepoint": 58071,
       "fontFamily": "Logos",
       "identifier": "thymeleafIcon"
     },
     "tidal": {
-      "codepoint": 58075,
+      "codepoint": 58072,
       "fontFamily": "Logos",
       "identifier": "tidal"
     },
     "tidal-icon": {
-      "codepoint": 58076,
+      "codepoint": 58073,
       "fontFamily": "Logos",
       "identifier": "tidalIcon"
     },
     "tiktok": {
-      "codepoint": 58077,
+      "codepoint": 58074,
       "fontFamily": "Logos",
       "identifier": "tiktok"
     },
     "tiktok-icon": {
-      "codepoint": 58078,
+      "codepoint": 58075,
       "fontFamily": "Logos",
       "identifier": "tiktokIcon"
     },
     "tnw": {
-      "codepoint": 58079,
+      "codepoint": 58076,
       "fontFamily": "Logos",
       "identifier": "tnw"
     },
     "tomcat": {
-      "codepoint": 58080,
+      "codepoint": 58077,
       "fontFamily": "Logos",
       "identifier": "tomcat"
     },
     "trac": {
-      "codepoint": 58081,
+      "codepoint": 58078,
       "fontFamily": "Logos",
       "identifier": "trac"
     },
     "trace": {
-      "codepoint": 58082,
+      "codepoint": 58079,
       "fontFamily": "Logos",
       "identifier": "trace"
     },
     "treehouse": {
-      "codepoint": 58083,
+      "codepoint": 58080,
       "fontFamily": "Logos",
       "identifier": "treehouse"
     },
     "treehouse-icon": {
-      "codepoint": 58084,
+      "codepoint": 58081,
       "fontFamily": "Logos",
       "identifier": "treehouseIcon"
     },
     "trpc": {
-      "codepoint": 58085,
+      "codepoint": 58082,
       "fontFamily": "Logos",
       "identifier": "trpc"
     },
     "truffle": {
-      "codepoint": 58086,
+      "codepoint": 58083,
       "fontFamily": "Logos",
       "identifier": "truffle"
     },
     "truffle-icon": {
-      "codepoint": 58087,
+      "codepoint": 58084,
       "fontFamily": "Logos",
       "identifier": "truffleIcon"
     },
-    "tsnode": {
-      "codepoint": 58088,
-      "fontFamily": "Logos",
-      "identifier": "tsnode"
-    },
     "tsu": {
-      "codepoint": 58089,
+      "codepoint": 58085,
       "fontFamily": "Logos",
       "identifier": "tsu"
     },
     "tsuru": {
-      "codepoint": 58090,
+      "codepoint": 58086,
       "fontFamily": "Logos",
       "identifier": "tsuru"
     },
     "tumblr": {
-      "codepoint": 58091,
+      "codepoint": 58087,
       "fontFamily": "Logos",
       "identifier": "tumblr"
     },
     "tumblr-icon": {
-      "codepoint": 58092,
+      "codepoint": 58088,
       "fontFamily": "Logos",
       "identifier": "tumblrIcon"
     },
     "tunein": {
-      "codepoint": 58093,
+      "codepoint": 58089,
       "fontFamily": "Logos",
       "identifier": "tunein"
     },
     "turret": {
-      "codepoint": 58094,
+      "codepoint": 58090,
       "fontFamily": "Logos",
       "identifier": "turret"
     },
     "twitter": {
-      "codepoint": 58095,
+      "codepoint": 58091,
       "fontFamily": "Logos",
       "identifier": "twitter"
     },
     "typesense": {
-      "codepoint": 58096,
+      "codepoint": 58092,
       "fontFamily": "Logos",
       "identifier": "typesense"
     },
     "typesense-icon": {
-      "codepoint": 58097,
+      "codepoint": 58093,
       "fontFamily": "Logos",
       "identifier": "typesenseIcon"
     },
     "udacity": {
-      "codepoint": 58098,
+      "codepoint": 58094,
       "fontFamily": "Logos",
       "identifier": "udacity"
     },
     "udemy": {
-      "codepoint": 58099,
+      "codepoint": 58095,
       "fontFamily": "Logos",
       "identifier": "udemy"
     },
     "udemy-icon": {
-      "codepoint": 58100,
+      "codepoint": 58096,
       "fontFamily": "Logos",
       "identifier": "udemyIcon"
     },
     "umu": {
-      "codepoint": 58101,
+      "codepoint": 58097,
       "fontFamily": "Logos",
       "identifier": "umu"
     },
     "unito": {
-      "codepoint": 58102,
+      "codepoint": 58098,
       "fontFamily": "Logos",
       "identifier": "unito"
     },
     "unito-icon": {
-      "codepoint": 58103,
+      "codepoint": 58099,
       "fontFamily": "Logos",
       "identifier": "unitoIcon"
     },
     "unity": {
-      "codepoint": 58104,
+      "codepoint": 58100,
       "fontFamily": "Logos",
       "identifier": "unity"
     },
     "unrealengine": {
-      "codepoint": 58105,
+      "codepoint": 58101,
       "fontFamily": "Logos",
       "identifier": "unrealengine"
     },
     "unrealengine-icon": {
-      "codepoint": 58106,
+      "codepoint": 58102,
       "fontFamily": "Logos",
       "identifier": "unrealengineIcon"
     },
     "upstash-icon": {
-      "codepoint": 58107,
+      "codepoint": 58103,
       "fontFamily": "Logos",
       "identifier": "upstashIcon"
     },
     "upwork": {
-      "codepoint": 58108,
+      "codepoint": 58104,
       "fontFamily": "Logos",
       "identifier": "upwork"
     },
     "user-testing": {
-      "codepoint": 58109,
+      "codepoint": 58105,
       "fontFamily": "Logos",
       "identifier": "userTesting"
     },
     "user-testing-icon": {
-      "codepoint": 58110,
+      "codepoint": 58106,
       "fontFamily": "Logos",
       "identifier": "userTestingIcon"
     },
     "vaadin": {
-      "codepoint": 58111,
+      "codepoint": 58107,
       "fontFamily": "Logos",
       "identifier": "vaadin"
     },
     "vagrant": {
-      "codepoint": 58112,
+      "codepoint": 58108,
       "fontFamily": "Logos",
       "identifier": "vagrant"
     },
     "vagrant-icon": {
-      "codepoint": 58113,
+      "codepoint": 58109,
       "fontFamily": "Logos",
       "identifier": "vagrantIcon"
     },
     "vault": {
-      "codepoint": 58114,
+      "codepoint": 58110,
       "fontFamily": "Logos",
       "identifier": "vault"
     },
     "vault-icon": {
-      "codepoint": 58115,
+      "codepoint": 58111,
       "fontFamily": "Logos",
       "identifier": "vaultIcon"
     },
     "vercel": {
-      "codepoint": 58116,
+      "codepoint": 58112,
       "fontFamily": "Logos",
       "identifier": "vercel"
     },
     "vercel-icon": {
-      "codepoint": 58117,
+      "codepoint": 58113,
       "fontFamily": "Logos",
       "identifier": "vercelIcon"
     },
     "victorops": {
-      "codepoint": 58118,
+      "codepoint": 58114,
       "fontFamily": "Logos",
       "identifier": "victorops"
     },
     "vimeo": {
-      "codepoint": 58119,
+      "codepoint": 58115,
       "fontFamily": "Logos",
       "identifier": "vimeo"
     },
     "vine": {
-      "codepoint": 58120,
+      "codepoint": 58116,
       "fontFamily": "Logos",
       "identifier": "vine"
     },
     "visaelectron": {
-      "codepoint": 58121,
+      "codepoint": 58117,
       "fontFamily": "Logos",
       "identifier": "visaelectron"
     },
     "vitest": {
-      "codepoint": 58122,
+      "codepoint": 58118,
       "fontFamily": "Logos",
       "identifier": "vitest"
     },
     "vultr-icon": {
-      "codepoint": 58123,
+      "codepoint": 58119,
       "fontFamily": "Logos",
       "identifier": "vultrIcon"
     },
     "w3c": {
-      "codepoint": 58124,
+      "codepoint": 58120,
       "fontFamily": "Logos",
       "identifier": "w3c"
     },
     "waffle": {
-      "codepoint": 58125,
+      "codepoint": 58121,
       "fontFamily": "Logos",
       "identifier": "waffle"
     },
     "wagtail": {
-      "codepoint": 58126,
+      "codepoint": 58122,
       "fontFamily": "Logos",
       "identifier": "wagtail"
     },
     "wakatime": {
-      "codepoint": 58127,
+      "codepoint": 58123,
       "fontFamily": "Logos",
       "identifier": "wakatime"
     },
     "walkme": {
-      "codepoint": 58128,
+      "codepoint": 58124,
       "fontFamily": "Logos",
       "identifier": "walkme"
     },
     "waypoint": {
-      "codepoint": 58129,
+      "codepoint": 58125,
       "fontFamily": "Logos",
       "identifier": "waypoint"
     },
     "waypoint-icon": {
-      "codepoint": 58130,
+      "codepoint": 58126,
       "fontFamily": "Logos",
       "identifier": "waypointIcon"
     },
     "webassembly": {
-      "codepoint": 58131,
+      "codepoint": 58127,
       "fontFamily": "Logos",
       "identifier": "webassembly"
     },
     "webhooks": {
-      "codepoint": 58132,
+      "codepoint": 58128,
       "fontFamily": "Logos",
       "identifier": "webhooks"
     },
     "webpack": {
-      "codepoint": 58133,
+      "codepoint": 58129,
       "fontFamily": "Logos",
       "identifier": "webpack"
     },
     "websocket": {
-      "codepoint": 58134,
+      "codepoint": 58130,
       "fontFamily": "Logos",
       "identifier": "websocket"
     },
     "wercker": {
-      "codepoint": 58135,
+      "codepoint": 58131,
       "fontFamily": "Logos",
       "identifier": "wercker"
     },
     "whalar-icon": {
-      "codepoint": 58136,
+      "codepoint": 58132,
       "fontFamily": "Logos",
       "identifier": "whalarIcon"
     },
     "whatsapp-monochrome-icon": {
-      "codepoint": 58137,
+      "codepoint": 58133,
       "fontFamily": "Logos",
       "identifier": "whatsappMonochromeIcon"
     },
     "whatwg": {
-      "codepoint": 58138,
+      "codepoint": 58134,
       "fontFamily": "Logos",
       "identifier": "whatwg"
     },
     "wifi": {
-      "codepoint": 58139,
+      "codepoint": 58135,
       "fontFamily": "Logos",
       "identifier": "wifi"
     },
     "winglang": {
-      "codepoint": 58140,
+      "codepoint": 58136,
       "fontFamily": "Logos",
       "identifier": "winglang"
     },
     "winglang-icon": {
-      "codepoint": 58141,
+      "codepoint": 58137,
       "fontFamily": "Logos",
       "identifier": "winglangIcon"
     },
     "wire": {
-      "codepoint": 58142,
+      "codepoint": 58138,
       "fontFamily": "Logos",
       "identifier": "wire"
     },
     "wiredtree": {
-      "codepoint": 58143,
+      "codepoint": 58139,
       "fontFamily": "Logos",
       "identifier": "wiredtree"
     },
     "woocommerce": {
-      "codepoint": 58144,
+      "codepoint": 58140,
       "fontFamily": "Logos",
       "identifier": "woocommerce"
     },
     "woocommerce-icon": {
-      "codepoint": 58145,
+      "codepoint": 58141,
       "fontFamily": "Logos",
       "identifier": "woocommerceIcon"
     },
     "wordpress-icon-alt": {
-      "codepoint": 58146,
+      "codepoint": 58142,
       "fontFamily": "Logos",
       "identifier": "wordpressIconAlt"
     },
     "workboard": {
-      "codepoint": 58147,
+      "codepoint": 58143,
       "fontFamily": "Logos",
       "identifier": "workboard"
     },
     "wpengine": {
-      "codepoint": 58148,
+      "codepoint": 58144,
       "fontFamily": "Logos",
       "identifier": "wpengine"
     },
     "x": {
-      "codepoint": 58149,
+      "codepoint": 58145,
       "fontFamily": "Logos",
       "identifier": "x"
     },
     "x-ai": {
-      "codepoint": 58150,
+      "codepoint": 58146,
       "fontFamily": "Logos",
       "identifier": "xAi"
     },
     "x-ray-goggles": {
-      "codepoint": 58151,
+      "codepoint": 58147,
       "fontFamily": "Logos",
       "identifier": "xRayGoggles"
     },
     "xampp": {
-      "codepoint": 58152,
+      "codepoint": 58148,
       "fontFamily": "Logos",
       "identifier": "xampp"
     },
     "xata": {
-      "codepoint": 58153,
+      "codepoint": 58149,
       "fontFamily": "Logos",
       "identifier": "xata"
     },
     "xata-icon": {
-      "codepoint": 58154,
+      "codepoint": 58150,
       "fontFamily": "Logos",
       "identifier": "xataIcon"
     },
     "xero": {
-      "codepoint": 58155,
+      "codepoint": 58151,
       "fontFamily": "Logos",
       "identifier": "xero"
     },
     "xray-for-jira": {
-      "codepoint": 58156,
+      "codepoint": 58152,
       "fontFamily": "Logos",
       "identifier": "xrayForJira",
       "duotone": true
     },
     "xstate": {
-      "codepoint": 58157,
+      "codepoint": 58153,
       "fontFamily": "Logos",
       "identifier": "xstate"
     },
     "xtend": {
-      "codepoint": 58158,
+      "codepoint": 58154,
       "fontFamily": "Logos",
       "identifier": "xtend"
     },
     "yahoo": {
-      "codepoint": 58159,
+      "codepoint": 58155,
       "fontFamily": "Logos",
       "identifier": "yahoo"
     },
     "yaml": {
-      "codepoint": 58160,
+      "codepoint": 58156,
       "fontFamily": "Logos",
       "identifier": "yaml"
     },
     "yandex-ru": {
-      "codepoint": 58161,
+      "codepoint": 58157,
       "fontFamily": "Logos",
       "identifier": "yandexRu"
     },
     "yarn": {
-      "codepoint": 58162,
+      "codepoint": 58158,
       "fontFamily": "Logos",
       "identifier": "yarn"
     },
     "ycombinator": {
-      "codepoint": 58163,
+      "codepoint": 58159,
       "fontFamily": "Logos",
       "identifier": "ycombinator"
     },
     "youtube-icon": {
-      "codepoint": 58164,
+      "codepoint": 58160,
       "fontFamily": "Logos",
       "identifier": "youtubeIcon"
     },
     "yugabyte-icon": {
-      "codepoint": 58165,
+      "codepoint": 58161,
       "fontFamily": "Logos",
       "identifier": "yugabyteIcon"
     },
     "zapier-icon": {
-      "codepoint": 58166,
+      "codepoint": 58162,
       "fontFamily": "Logos",
       "identifier": "zapierIcon"
     },
     "zend-framework": {
-      "codepoint": 58167,
+      "codepoint": 58163,
       "fontFamily": "Logos",
       "identifier": "zendFramework"
     },
     "zest": {
-      "codepoint": 58168,
+      "codepoint": 58164,
       "fontFamily": "Logos",
       "identifier": "zest"
     },
     "zoom": {
-      "codepoint": 58169,
+      "codepoint": 58165,
       "fontFamily": "Logos",
       "identifier": "zoom"
     },
     "zorin-os": {
-      "codepoint": 58170,
+      "codepoint": 58166,
       "fontFamily": "Logos",
       "identifier": "zorinOs"
     },
     "zsh": {
-      "codepoint": 58171,
+      "codepoint": 58167,
       "fontFamily": "Logos",
       "identifier": "zsh"
     },
     "zube": {
-      "codepoint": 58172,
+      "codepoint": 58168,
       "fontFamily": "Logos",
       "identifier": "zube"
     },
     "zulip": {
-      "codepoint": 58173,
+      "codepoint": 58169,
       "fontFamily": "Logos",
       "identifier": "zulip"
     },
     "zwave": {
-      "codepoint": 58174,
+      "codepoint": 58170,
       "fontFamily": "Logos",
       "identifier": "zwave"
     }

@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'CC BY 4.0',
   licenseSpdx: 'CC-BY-4.0',
   licenseUrl: 'https://github.com/microsoft/vscode-codicons/blob/main/LICENSE',
-  iconCount: 83,
+  iconCount: 568,
 );

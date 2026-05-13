@@ -10,5 +10,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   authorUrl: 'https://github.com/carbon-design-system/carbon/tree/main/packages/icons',
   licenseTitle: 'Apache 2.0',
   licenseSpdx: 'Apache-2.0',
-  iconCount: 1707,
+  iconCount: 2678,
 );

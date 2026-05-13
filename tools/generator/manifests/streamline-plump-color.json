@@ -16,30 +16,270 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 3
+    "total": 51
   },
   "fonts": [
     {
       "family": "StreamlinePlumpColor",
-      "nextCodepoint": 57347,
-      "iconCount": 3
+      "nextCodepoint": 57395,
+      "iconCount": 51
     }
   ],
   "icons": {
-    "end-point-diamond-flat": {
+    "airplane-enabled-flat": {
       "codepoint": 57344,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "airplaneEnabledFlat"
+    },
+    "align-right-flat": {
+      "codepoint": 57345,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "alignRightFlat"
+    },
+    "ampersand-flat": {
+      "codepoint": 57346,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "ampersandFlat"
+    },
+    "arrow-cursor-1-flat": {
+      "codepoint": 57347,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowCursor1Flat"
+    },
+    "arrow-diagonal-2-flat": {
+      "codepoint": 57348,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowDiagonal2Flat"
+    },
+    "arrow-expand-flat": {
+      "codepoint": 57349,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "arrowExpandFlat"
+    },
+    "bookmark-flat": {
+      "codepoint": 57350,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "bookmarkFlat"
+    },
+    "cog-flat": {
+      "codepoint": 57351,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "cogFlat"
+    },
+    "dashboard-1-flat": {
+      "codepoint": 57352,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "dashboard1Flat"
+    },
+    "dropbox-flat": {
+      "codepoint": 57353,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "dropboxFlat"
+    },
+    "end-point-branches-flat": {
+      "codepoint": 57354,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "endPointBranchesFlat"
+    },
+    "end-point-diamond-flat": {
+      "codepoint": 57355,
       "fontFamily": "StreamlinePlumpColor",
       "identifier": "endPointDiamondFlat"
     },
+    "exit-full-screen-flat": {
+      "codepoint": 57356,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "exitFullScreenFlat"
+    },
+    "filter-1-flat": {
+      "codepoint": 57357,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "filter1Flat"
+    },
+    "flash-1-flat": {
+      "codepoint": 57358,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "flash1Flat"
+    },
+    "fork-knife-flat": {
+      "codepoint": 57359,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "forkKnifeFlat"
+    },
+    "gold-flat": {
+      "codepoint": 57360,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "goldFlat"
+    },
+    "half-star-2-flat": {
+      "codepoint": 57361,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "halfStar2Flat"
+    },
+    "intersex-symbol-flat": {
+      "codepoint": 57362,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "intersexSymbolFlat"
+    },
+    "invisible-2-flat": {
+      "codepoint": 57363,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "invisible2Flat"
+    },
+    "loading-circle-flat": {
+      "codepoint": 57364,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "loadingCircleFlat"
+    },
     "loading-horizontal-2-flat": {
-      "codepoint": 57345,
+      "codepoint": 57365,
       "fontFamily": "StreamlinePlumpColor",
       "identifier": "loadingHorizontal2Flat"
     },
+    "mail-send-email-message-flat": {
+      "codepoint": 57366,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mailSendEmailMessageFlat"
+    },
+    "mail-send-reply-all-flat": {
+      "codepoint": 57367,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "mailSendReplyAllFlat"
+    },
+    "man-arm-raises-2-alternate-flat": {
+      "codepoint": 57368,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "manArmRaises2AlternateFlat"
+    },
+    "moustache-flat": {
+      "codepoint": 57369,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "moustacheFlat"
+    },
+    "music-note-2-flat": {
+      "codepoint": 57370,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "musicNote2Flat"
+    },
+    "music-note-trebble-clef-flat": {
+      "codepoint": 57371,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "musicNoteTrebbleClefFlat"
+    },
+    "new-folder-flat": {
+      "codepoint": 57372,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "newFolderFlat"
+    },
+    "no-photo-taking-zone-flat": {
+      "codepoint": 57373,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "noPhotoTakingZoneFlat"
+    },
+    "octagram-shape-flat": {
+      "codepoint": 57374,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "octagramShapeFlat"
+    },
+    "ok-hand-flat": {
+      "codepoint": 57375,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "okHandFlat"
+    },
+    "pet-paw-flat": {
+      "codepoint": 57376,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "petPawFlat"
+    },
+    "phone-flat": {
+      "codepoint": 57377,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "phoneFlat"
+    },
+    "radioactive-1-flat": {
+      "codepoint": 57378,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "radioactive1Flat"
+    },
+    "recycle-1-flat": {
+      "codepoint": 57379,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "recycle1Flat"
+    },
+    "rotate-left-flat": {
+      "codepoint": 57380,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "rotateLeftFlat"
+    },
+    "scissors-flat": {
+      "codepoint": 57381,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "scissorsFlat"
+    },
+    "sign-at-flat": {
+      "codepoint": 57382,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "signAtFlat"
+    },
+    "signal-full-flat": {
+      "codepoint": 57383,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "signalFullFlat"
+    },
+    "spiral-shape-flat": {
+      "codepoint": 57384,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "spiralShapeFlat"
+    },
     "steps-1-flat": {
-      "codepoint": 57346,
+      "codepoint": 57385,
       "fontFamily": "StreamlinePlumpColor",
       "identifier": "steps1Flat"
+    },
+    "synchronize-flat": {
+      "codepoint": 57386,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "synchronizeFlat"
+    },
+    "tiktok-flat": {
+      "codepoint": 57387,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "tiktokFlat"
+    },
+    "toilet-man-flat": {
+      "codepoint": 57388,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "toiletManFlat"
+    },
+    "toilet-sign-man-flat": {
+      "codepoint": 57389,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "toiletSignManFlat"
+    },
+    "toilet-women-flat": {
+      "codepoint": 57390,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "toiletWomenFlat"
+    },
+    "usb-port-flat": {
+      "codepoint": 57391,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "usbPortFlat"
+    },
+    "warp-squeeze-flat": {
+      "codepoint": 57392,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "warpSqueezeFlat"
+    },
+    "webcam-video-flat": {
+      "codepoint": 57393,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "webcamVideoFlat"
+    },
+    "wifi-flat": {
+      "codepoint": 57394,
+      "fontFamily": "StreamlinePlumpColor",
+      "identifier": "wifiFlat"
     }
   }
 }

@@ -16,628 +16,2395 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 123
+    "total": 475
   },
   "fonts": [
     {
       "family": "Twemoji",
-      "nextCodepoint": 57467,
-      "iconCount": 123
+      "nextCodepoint": 57819,
+      "iconCount": 475
+    },
+    {
+      "family": "TwemojiSecondary",
+      "nextCodepoint": 57819,
+      "iconCount": 2
     }
   ],
   "icons": {
-    "antenna-bars": {
+    "1st-place-medal": {
       "codepoint": 57344,
+      "fontFamily": "Twemoji",
+      "identifier": "n1stPlaceMedal"
+    },
+    "antenna-bars": {
+      "codepoint": 57345,
       "fontFamily": "Twemoji",
       "identifier": "antennaBars"
     },
+    "anticlockwise-arrows-button": {
+      "codepoint": 57346,
+      "fontFamily": "Twemoji",
+      "identifier": "anticlockwiseArrowsButton"
+    },
+    "baby-bottle": {
+      "codepoint": 57347,
+      "fontFamily": "Twemoji",
+      "identifier": "babyBottle"
+    },
+    "backhand-index-pointing-down": {
+      "codepoint": 57348,
+      "fontFamily": "Twemoji",
+      "identifier": "backhandIndexPointingDown"
+    },
+    "backhand-index-pointing-down-light-skin-tone": {
+      "codepoint": 57349,
+      "fontFamily": "Twemoji",
+      "identifier": "backhandIndexPointingDownLightSkinTone"
+    },
+    "backhand-index-pointing-down-medium-light-skin-tone": {
+      "codepoint": 57350,
+      "fontFamily": "Twemoji",
+      "identifier": "backhandIndexPointingDownMediumLightSkinTone"
+    },
+    "backhand-index-pointing-down-medium-skin-tone": {
+      "codepoint": 57351,
+      "fontFamily": "Twemoji",
+      "identifier": "backhandIndexPointingDownMediumSkinTone"
+    },
+    "backhand-index-pointing-left": {
+      "codepoint": 57352,
+      "fontFamily": "Twemoji",
+      "identifier": "backhandIndexPointingLeft"
+    },
+    "backhand-index-pointing-left-light-skin-tone": {
+      "codepoint": 57353,
+      "fontFamily": "Twemoji",
+      "identifier": "backhandIndexPointingLeftLightSkinTone"
+    },
+    "backhand-index-pointing-left-medium-light-skin-tone": {
+      "codepoint": 57354,
+      "fontFamily": "Twemoji",
+      "identifier": "backhandIndexPointingLeftMediumLightSkinTone"
+    },
+    "backhand-index-pointing-left-medium-skin-tone": {
+      "codepoint": 57355,
+      "fontFamily": "Twemoji",
+      "identifier": "backhandIndexPointingLeftMediumSkinTone"
+    },
+    "backhand-index-pointing-right": {
+      "codepoint": 57356,
+      "fontFamily": "Twemoji",
+      "identifier": "backhandIndexPointingRight"
+    },
+    "backhand-index-pointing-right-light-skin-tone": {
+      "codepoint": 57357,
+      "fontFamily": "Twemoji",
+      "identifier": "backhandIndexPointingRightLightSkinTone"
+    },
+    "backhand-index-pointing-right-medium-light-skin-tone": {
+      "codepoint": 57358,
+      "fontFamily": "Twemoji",
+      "identifier": "backhandIndexPointingRightMediumLightSkinTone"
+    },
+    "backhand-index-pointing-right-medium-skin-tone": {
+      "codepoint": 57359,
+      "fontFamily": "Twemoji",
+      "identifier": "backhandIndexPointingRightMediumSkinTone"
+    },
+    "backhand-index-pointing-up": {
+      "codepoint": 57360,
+      "fontFamily": "Twemoji",
+      "identifier": "backhandIndexPointingUp"
+    },
+    "backhand-index-pointing-up-light-skin-tone": {
+      "codepoint": 57361,
+      "fontFamily": "Twemoji",
+      "identifier": "backhandIndexPointingUpLightSkinTone"
+    },
+    "backhand-index-pointing-up-medium-light-skin-tone": {
+      "codepoint": 57362,
+      "fontFamily": "Twemoji",
+      "identifier": "backhandIndexPointingUpMediumLightSkinTone"
+    },
+    "backhand-index-pointing-up-medium-skin-tone": {
+      "codepoint": 57363,
+      "fontFamily": "Twemoji",
+      "identifier": "backhandIndexPointingUpMediumSkinTone"
+    },
     "bald": {
-      "codepoint": 57345,
+      "codepoint": 57364,
       "fontFamily": "Twemoji",
       "identifier": "bald"
     },
+    "balloon": {
+      "codepoint": 57365,
+      "fontFamily": "Twemoji",
+      "identifier": "balloon"
+    },
+    "bathtub": {
+      "codepoint": 57366,
+      "fontFamily": "Twemoji",
+      "identifier": "bathtub"
+    },
     "bell": {
-      "codepoint": 57346,
+      "codepoint": 57367,
       "fontFamily": "Twemoji",
       "identifier": "bell"
     },
     "blue-circle": {
-      "codepoint": 57347,
+      "codepoint": 57368,
       "fontFamily": "Twemoji",
       "identifier": "blueCircle"
     },
+    "blue-heart": {
+      "codepoint": 57369,
+      "fontFamily": "Twemoji",
+      "identifier": "blueHeart"
+    },
     "blue-square": {
-      "codepoint": 57348,
+      "codepoint": 57370,
       "fontFamily": "Twemoji",
       "identifier": "blueSquare"
     },
     "bright-button": {
-      "codepoint": 57349,
+      "codepoint": 57371,
       "fontFamily": "Twemoji",
       "identifier": "brightButton"
     },
+    "call-me-hand-light-skin-tone": {
+      "codepoint": 57372,
+      "fontFamily": "Twemoji",
+      "identifier": "callMeHandLightSkinTone"
+    },
+    "call-me-hand-medium-light-skin-tone": {
+      "codepoint": 57373,
+      "fontFamily": "Twemoji",
+      "identifier": "callMeHandMediumLightSkinTone"
+    },
+    "call-me-hand-medium-skin-tone": {
+      "codepoint": 57374,
+      "fontFamily": "Twemoji",
+      "identifier": "callMeHandMediumSkinTone"
+    },
+    "children-crossing": {
+      "codepoint": 57375,
+      "fontFamily": "Twemoji",
+      "identifier": "childrenCrossing"
+    },
     "cinema": {
-      "codepoint": 57350,
+      "codepoint": 57376,
       "fontFamily": "Twemoji",
       "identifier": "cinema"
     },
+    "circled-m": {
+      "codepoint": 57377,
+      "fontFamily": "Twemoji",
+      "identifier": "circledM"
+    },
+    "clockwise-vertical-arrows": {
+      "codepoint": 57378,
+      "fontFamily": "Twemoji",
+      "identifier": "clockwiseVerticalArrows"
+    },
+    "collision": {
+      "codepoint": 57379,
+      "fontFamily": "Twemoji",
+      "identifier": "collision"
+    },
+    "comet": {
+      "codepoint": 57380,
+      "fontFamily": "Twemoji",
+      "identifier": "comet"
+    },
+    "cookie": {
+      "codepoint": 57381,
+      "fontFamily": "Twemoji",
+      "identifier": "cookie"
+    },
+    "cool-button": {
+      "codepoint": 57382,
+      "fontFamily": "Twemoji",
+      "identifier": "coolButton"
+    },
+    "counterclockwise-arrows-button": {
+      "codepoint": 57383,
+      "fontFamily": "Twemoji",
+      "identifier": "counterclockwiseArrowsButton"
+    },
+    "crossed-fingers-light-skin-tone": {
+      "codepoint": 57384,
+      "fontFamily": "Twemoji",
+      "identifier": "crossedFingersLightSkinTone"
+    },
+    "crossed-fingers-medium-light-skin-tone": {
+      "codepoint": 57385,
+      "fontFamily": "Twemoji",
+      "identifier": "crossedFingersMediumLightSkinTone"
+    },
+    "crossed-fingers-medium-skin-tone": {
+      "codepoint": 57386,
+      "fontFamily": "Twemoji",
+      "identifier": "crossedFingersMediumSkinTone"
+    },
+    "curly-haired": {
+      "codepoint": 57387,
+      "fontFamily": "Twemoji",
+      "identifier": "curlyHaired"
+    },
+    "cyclone": {
+      "codepoint": 57388,
+      "fontFamily": "Twemoji",
+      "identifier": "cyclone"
+    },
+    "dashing-away": {
+      "codepoint": 57389,
+      "fontFamily": "Twemoji",
+      "identifier": "dashingAway"
+    },
+    "diamond-with-a-dot": {
+      "codepoint": 57390,
+      "fontFamily": "Twemoji",
+      "identifier": "diamondWithADot"
+    },
     "dim-button": {
-      "codepoint": 57351,
+      "codepoint": 57391,
       "fontFamily": "Twemoji",
       "identifier": "dimButton"
     },
     "down-arrow": {
-      "codepoint": 57352,
+      "codepoint": 57392,
       "fontFamily": "Twemoji",
       "identifier": "downArrow"
     },
     "down-button": {
-      "codepoint": 57353,
+      "codepoint": 57393,
       "fontFamily": "Twemoji",
       "identifier": "downButton"
     },
     "down-left-arrow": {
-      "codepoint": 57354,
+      "codepoint": 57394,
       "fontFamily": "Twemoji",
       "identifier": "downLeftArrow"
     },
     "down-right-arrow": {
-      "codepoint": 57355,
+      "codepoint": 57395,
       "fontFamily": "Twemoji",
       "identifier": "downRightArrow"
     },
     "downwards-button": {
-      "codepoint": 57356,
+      "codepoint": 57396,
       "fontFamily": "Twemoji",
       "identifier": "downwardsButton"
     },
+    "dress": {
+      "codepoint": 57397,
+      "fontFamily": "Twemoji",
+      "identifier": "dress"
+    },
     "drop-of-blood": {
-      "codepoint": 57357,
+      "codepoint": 57398,
       "fontFamily": "Twemoji",
       "identifier": "dropOfBlood"
     },
     "droplet": {
-      "codepoint": 57358,
+      "codepoint": 57399,
       "fontFamily": "Twemoji",
       "identifier": "droplet"
     },
+    "ear-light-skin-tone": {
+      "codepoint": 57400,
+      "fontFamily": "Twemoji",
+      "identifier": "earLightSkinTone"
+    },
+    "ear-medium-light-skin-tone": {
+      "codepoint": 57401,
+      "fontFamily": "Twemoji",
+      "identifier": "earMediumLightSkinTone"
+    },
+    "ear-medium-skin-tone": {
+      "codepoint": 57402,
+      "fontFamily": "Twemoji",
+      "identifier": "earMediumSkinTone"
+    },
+    "egg": {
+      "codepoint": 57403,
+      "fontFamily": "Twemoji",
+      "identifier": "egg"
+    },
     "eject-button": {
-      "codepoint": 57359,
+      "codepoint": 57404,
       "fontFamily": "Twemoji",
       "identifier": "ejectButton"
     },
+    "family": {
+      "codepoint": 57405,
+      "fontFamily": "Twemoji",
+      "identifier": "family"
+    },
+    "family-adult-adult-child": {
+      "codepoint": 57406,
+      "fontFamily": "Twemoji",
+      "identifier": "familyAdultAdultChild"
+    },
+    "family-adult-adult-child-child": {
+      "codepoint": 57407,
+      "fontFamily": "Twemoji",
+      "identifier": "familyAdultAdultChildChild"
+    },
+    "family-adult-child": {
+      "codepoint": 57408,
+      "fontFamily": "Twemoji",
+      "identifier": "familyAdultChild"
+    },
+    "family-adult-child-child": {
+      "codepoint": 57409,
+      "fontFamily": "Twemoji",
+      "identifier": "familyAdultChildChild"
+    },
+    "family-man-boy": {
+      "codepoint": 57410,
+      "fontFamily": "Twemoji",
+      "identifier": "familyManBoy"
+    },
+    "family-man-boy-boy": {
+      "codepoint": 57411,
+      "fontFamily": "Twemoji",
+      "identifier": "familyManBoyBoy"
+    },
+    "family-man-girl": {
+      "codepoint": 57412,
+      "fontFamily": "Twemoji",
+      "identifier": "familyManGirl"
+    },
+    "family-man-girl-boy": {
+      "codepoint": 57413,
+      "fontFamily": "Twemoji",
+      "identifier": "familyManGirlBoy"
+    },
+    "family-man-girl-girl": {
+      "codepoint": 57414,
+      "fontFamily": "Twemoji",
+      "identifier": "familyManGirlGirl"
+    },
+    "family-man-man-boy": {
+      "codepoint": 57415,
+      "fontFamily": "Twemoji",
+      "identifier": "familyManManBoy"
+    },
+    "family-man-man-boy-boy": {
+      "codepoint": 57416,
+      "fontFamily": "Twemoji",
+      "identifier": "familyManManBoyBoy"
+    },
+    "family-man-man-girl": {
+      "codepoint": 57417,
+      "fontFamily": "Twemoji",
+      "identifier": "familyManManGirl"
+    },
+    "family-man-man-girl-boy": {
+      "codepoint": 57418,
+      "fontFamily": "Twemoji",
+      "identifier": "familyManManGirlBoy"
+    },
+    "family-man-man-girl-girl": {
+      "codepoint": 57419,
+      "fontFamily": "Twemoji",
+      "identifier": "familyManManGirlGirl"
+    },
+    "family-man-woman-boy": {
+      "codepoint": 57420,
+      "fontFamily": "Twemoji",
+      "identifier": "familyManWomanBoy"
+    },
+    "family-man-woman-boy-boy": {
+      "codepoint": 57421,
+      "fontFamily": "Twemoji",
+      "identifier": "familyManWomanBoyBoy"
+    },
+    "family-man-woman-girl": {
+      "codepoint": 57422,
+      "fontFamily": "Twemoji",
+      "identifier": "familyManWomanGirl"
+    },
+    "family-man-woman-girl-boy": {
+      "codepoint": 57423,
+      "fontFamily": "Twemoji",
+      "identifier": "familyManWomanGirlBoy"
+    },
+    "family-man-woman-girl-girl": {
+      "codepoint": 57424,
+      "fontFamily": "Twemoji",
+      "identifier": "familyManWomanGirlGirl"
+    },
+    "family-woman-boy": {
+      "codepoint": 57425,
+      "fontFamily": "Twemoji",
+      "identifier": "familyWomanBoy"
+    },
+    "family-woman-boy-boy": {
+      "codepoint": 57426,
+      "fontFamily": "Twemoji",
+      "identifier": "familyWomanBoyBoy"
+    },
+    "family-woman-girl": {
+      "codepoint": 57427,
+      "fontFamily": "Twemoji",
+      "identifier": "familyWomanGirl"
+    },
+    "family-woman-girl-boy": {
+      "codepoint": 57428,
+      "fontFamily": "Twemoji",
+      "identifier": "familyWomanGirlBoy"
+    },
+    "family-woman-girl-girl": {
+      "codepoint": 57429,
+      "fontFamily": "Twemoji",
+      "identifier": "familyWomanGirlGirl"
+    },
+    "family-woman-woman-boy": {
+      "codepoint": 57430,
+      "fontFamily": "Twemoji",
+      "identifier": "familyWomanWomanBoy"
+    },
+    "family-woman-woman-boy-boy": {
+      "codepoint": 57431,
+      "fontFamily": "Twemoji",
+      "identifier": "familyWomanWomanBoyBoy"
+    },
+    "family-woman-woman-girl": {
+      "codepoint": 57432,
+      "fontFamily": "Twemoji",
+      "identifier": "familyWomanWomanGirl"
+    },
+    "family-woman-woman-girl-boy": {
+      "codepoint": 57433,
+      "fontFamily": "Twemoji",
+      "identifier": "familyWomanWomanGirlBoy"
+    },
+    "family-woman-woman-girl-girl": {
+      "codepoint": 57434,
+      "fontFamily": "Twemoji",
+      "identifier": "familyWomanWomanGirlGirl"
+    },
     "fast-down-button": {
-      "codepoint": 57360,
+      "codepoint": 57435,
       "fontFamily": "Twemoji",
       "identifier": "fastDownButton"
     },
     "fast-forward-button": {
-      "codepoint": 57361,
+      "codepoint": 57436,
       "fontFamily": "Twemoji",
       "identifier": "fastForwardButton"
     },
     "fast-reverse-button": {
-      "codepoint": 57362,
+      "codepoint": 57437,
       "fontFamily": "Twemoji",
       "identifier": "fastReverseButton"
     },
     "fast-up-button": {
-      "codepoint": 57363,
+      "codepoint": 57438,
       "fontFamily": "Twemoji",
       "identifier": "fastUpButton"
     },
     "fingerprint": {
-      "codepoint": 57364,
+      "codepoint": 57439,
       "fontFamily": "Twemoji",
       "identifier": "fingerprint"
     },
+    "flag-azerbaijan": {
+      "codepoint": 57440,
+      "fontFamily": "Twemoji",
+      "identifier": "flagAzerbaijan"
+    },
     "flag-bangladesh": {
-      "codepoint": 57365,
+      "codepoint": 57441,
       "fontFamily": "Twemoji",
       "identifier": "flagBangladesh"
     },
+    "flag-canada": {
+      "codepoint": 57442,
+      "fontFamily": "Twemoji",
+      "identifier": "flagCanada"
+    },
+    "flag-caribbean-netherlands": {
+      "codepoint": 57443,
+      "fontFamily": "Twemoji",
+      "identifier": "flagCaribbeanNetherlands"
+    },
+    "flag-cuba": {
+      "codepoint": 57444,
+      "fontFamily": "Twemoji",
+      "identifier": "flagCuba"
+    },
+    "flag-curacao": {
+      "codepoint": 57445,
+      "fontFamily": "Twemoji",
+      "identifier": "flagCuracao"
+    },
     "flag-denmark": {
-      "codepoint": 57366,
+      "codepoint": 57446,
       "fontFamily": "Twemoji",
       "identifier": "flagDenmark"
     },
+    "flag-european-union": {
+      "codepoint": 57447,
+      "fontFamily": "Twemoji",
+      "identifier": "flagEuropeanUnion"
+    },
+    "flag-for-azerbaijan": {
+      "codepoint": 57448,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForAzerbaijan"
+    },
     "flag-for-bangladesh": {
-      "codepoint": 57367,
+      "codepoint": 57449,
       "fontFamily": "Twemoji",
       "identifier": "flagForBangladesh"
     },
+    "flag-for-canada": {
+      "codepoint": 57450,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForCanada"
+    },
+    "flag-for-caribbean-netherlands": {
+      "codepoint": 57451,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForCaribbeanNetherlands"
+    },
+    "flag-for-cuba": {
+      "codepoint": 57452,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForCuba"
+    },
+    "flag-for-curacao": {
+      "codepoint": 57453,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForCuracao"
+    },
     "flag-for-denmark": {
-      "codepoint": 57368,
+      "codepoint": 57454,
       "fontFamily": "Twemoji",
       "identifier": "flagForDenmark"
     },
+    "flag-for-european-union": {
+      "codepoint": 57455,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForEuropeanUnion"
+    },
+    "flag-for-flag-azerbaijan": {
+      "codepoint": 57456,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagAzerbaijan"
+    },
     "flag-for-flag-bangladesh": {
-      "codepoint": 57369,
+      "codepoint": 57457,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagBangladesh"
     },
+    "flag-for-flag-canada": {
+      "codepoint": 57458,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagCanada"
+    },
+    "flag-for-flag-caribbean-netherlands": {
+      "codepoint": 57459,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagCaribbeanNetherlands"
+    },
+    "flag-for-flag-cuba": {
+      "codepoint": 57460,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagCuba"
+    },
+    "flag-for-flag-curacao": {
+      "codepoint": 57461,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagCuracao"
+    },
     "flag-for-flag-denmark": {
-      "codepoint": 57370,
+      "codepoint": 57462,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagDenmark"
     },
+    "flag-for-flag-european-union": {
+      "codepoint": 57463,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagEuropeanUnion"
+    },
+    "flag-for-flag-gibraltar": {
+      "codepoint": 57464,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagGibraltar"
+    },
+    "flag-for-flag-greece": {
+      "codepoint": 57465,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagGreece"
+    },
     "flag-for-flag-greenland": {
-      "codepoint": 57371,
+      "codepoint": 57466,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagGreenland"
     },
     "flag-for-flag-indonesia": {
-      "codepoint": 57372,
+      "codepoint": 57467,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagIndonesia"
     },
+    "flag-for-flag-isle-of-man": {
+      "codepoint": 57468,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagIsleOfMan"
+    },
+    "flag-for-flag-israel": {
+      "codepoint": 57469,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagIsrael"
+    },
     "flag-for-flag-japan": {
-      "codepoint": 57373,
+      "codepoint": 57470,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagJapan"
     },
+    "flag-for-flag-kazakhstan": {
+      "codepoint": 57471,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagKazakhstan"
+    },
     "flag-for-flag-latvia": {
-      "codepoint": 57374,
+      "codepoint": 57472,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagLatvia"
     },
+    "flag-for-flag-lebanon": {
+      "codepoint": 57473,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagLebanon"
+    },
+    "flag-for-flag-malta": {
+      "codepoint": 57474,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagMalta"
+    },
+    "flag-for-flag-micronesia": {
+      "codepoint": 57475,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagMicronesia"
+    },
+    "flag-for-flag-nauru": {
+      "codepoint": 57476,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagNauru"
+    },
     "flag-for-flag-nigeria": {
-      "codepoint": 57375,
+      "codepoint": 57477,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagNigeria"
     },
     "flag-for-flag-north-korea": {
-      "codepoint": 57376,
+      "codepoint": 57478,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagNorthKorea"
     },
+    "flag-for-flag-oman": {
+      "codepoint": 57479,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagOman"
+    },
     "flag-for-flag-palau": {
-      "codepoint": 57377,
+      "codepoint": 57480,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagPalau"
     },
     "flag-for-flag-poland": {
-      "codepoint": 57378,
+      "codepoint": 57481,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagPoland"
     },
+    "flag-for-flag-puerto-rico": {
+      "codepoint": 57482,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagPuertoRico"
+    },
     "flag-for-flag-qatar": {
-      "codepoint": 57379,
+      "codepoint": 57483,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagQatar"
     },
+    "flag-for-flag-reunion": {
+      "codepoint": 57484,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagReunion"
+    },
+    "flag-for-flag-saudi-arabia": {
+      "codepoint": 57485,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagSaudiArabia"
+    },
     "flag-for-flag-sierra-leone": {
-      "codepoint": 57380,
+      "codepoint": 57486,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagSierraLeone"
     },
+    "flag-for-flag-slovenia": {
+      "codepoint": 57487,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagSlovenia"
+    },
     "flag-for-flag-st-lucia": {
-      "codepoint": 57381,
+      "codepoint": 57488,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagStLucia"
     },
     "flag-for-flag-sweden": {
-      "codepoint": 57382,
+      "codepoint": 57489,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagSweden"
     },
     "flag-for-flag-switzerland": {
-      "codepoint": 57383,
+      "codepoint": 57490,
       "fontFamily": "Twemoji",
       "identifier": "flagForFlagSwitzerland"
     },
+    "flag-for-flag-taiwan": {
+      "codepoint": 57491,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagTaiwan"
+    },
+    "flag-for-flag-tajikistan": {
+      "codepoint": 57492,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagTajikistan"
+    },
+    "flag-for-flag-united-nations": {
+      "codepoint": 57493,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagUnitedNations"
+    },
+    "flag-for-flag-vatican-city": {
+      "codepoint": 57494,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForFlagVaticanCity"
+    },
+    "flag-for-gibraltar": {
+      "codepoint": 57495,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForGibraltar"
+    },
+    "flag-for-greece": {
+      "codepoint": 57496,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForGreece"
+    },
     "flag-for-greenland": {
-      "codepoint": 57384,
+      "codepoint": 57497,
       "fontFamily": "Twemoji",
       "identifier": "flagForGreenland"
     },
     "flag-for-indonesia": {
-      "codepoint": 57385,
+      "codepoint": 57498,
       "fontFamily": "Twemoji",
       "identifier": "flagForIndonesia"
     },
+    "flag-for-isle-of-man": {
+      "codepoint": 57499,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForIsleOfMan"
+    },
+    "flag-for-israel": {
+      "codepoint": 57500,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForIsrael"
+    },
     "flag-for-japan": {
-      "codepoint": 57386,
+      "codepoint": 57501,
       "fontFamily": "Twemoji",
       "identifier": "flagForJapan"
     },
+    "flag-for-kazakhstan": {
+      "codepoint": 57502,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForKazakhstan"
+    },
     "flag-for-latvia": {
-      "codepoint": 57387,
+      "codepoint": 57503,
       "fontFamily": "Twemoji",
       "identifier": "flagForLatvia"
     },
+    "flag-for-lebanon": {
+      "codepoint": 57504,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForLebanon"
+    },
+    "flag-for-malta": {
+      "codepoint": 57505,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForMalta"
+    },
+    "flag-for-micronesia": {
+      "codepoint": 57506,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForMicronesia"
+    },
+    "flag-for-nauru": {
+      "codepoint": 57507,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForNauru"
+    },
     "flag-for-nigeria": {
-      "codepoint": 57388,
+      "codepoint": 57508,
       "fontFamily": "Twemoji",
       "identifier": "flagForNigeria"
     },
     "flag-for-north-korea": {
-      "codepoint": 57389,
+      "codepoint": 57509,
       "fontFamily": "Twemoji",
       "identifier": "flagForNorthKorea"
     },
+    "flag-for-oman": {
+      "codepoint": 57510,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForOman"
+    },
     "flag-for-palau": {
-      "codepoint": 57390,
+      "codepoint": 57511,
       "fontFamily": "Twemoji",
       "identifier": "flagForPalau"
     },
     "flag-for-poland": {
-      "codepoint": 57391,
+      "codepoint": 57512,
       "fontFamily": "Twemoji",
       "identifier": "flagForPoland"
     },
+    "flag-for-puerto-rico": {
+      "codepoint": 57513,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForPuertoRico"
+    },
     "flag-for-qatar": {
-      "codepoint": 57392,
+      "codepoint": 57514,
       "fontFamily": "Twemoji",
       "identifier": "flagForQatar"
     },
+    "flag-for-reunion": {
+      "codepoint": 57515,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForReunion"
+    },
+    "flag-for-saudi-arabia": {
+      "codepoint": 57516,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForSaudiArabia"
+    },
     "flag-for-scotland": {
-      "codepoint": 57393,
+      "codepoint": 57517,
       "fontFamily": "Twemoji",
       "identifier": "flagForScotland"
     },
     "flag-for-sierra-leone": {
-      "codepoint": 57394,
+      "codepoint": 57518,
       "fontFamily": "Twemoji",
       "identifier": "flagForSierraLeone"
     },
+    "flag-for-slovenia": {
+      "codepoint": 57519,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForSlovenia"
+    },
     "flag-for-st-lucia": {
-      "codepoint": 57395,
+      "codepoint": 57520,
       "fontFamily": "Twemoji",
       "identifier": "flagForStLucia"
     },
     "flag-for-sweden": {
-      "codepoint": 57396,
+      "codepoint": 57521,
       "fontFamily": "Twemoji",
       "identifier": "flagForSweden"
     },
     "flag-for-switzerland": {
-      "codepoint": 57397,
+      "codepoint": 57522,
       "fontFamily": "Twemoji",
       "identifier": "flagForSwitzerland"
     },
+    "flag-for-taiwan": {
+      "codepoint": 57523,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForTaiwan"
+    },
+    "flag-for-tajikistan": {
+      "codepoint": 57524,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForTajikistan"
+    },
+    "flag-for-united-nations": {
+      "codepoint": 57525,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForUnitedNations"
+    },
+    "flag-for-vatican-city": {
+      "codepoint": 57526,
+      "fontFamily": "Twemoji",
+      "identifier": "flagForVaticanCity"
+    },
+    "flag-gibraltar": {
+      "codepoint": 57527,
+      "fontFamily": "Twemoji",
+      "identifier": "flagGibraltar"
+    },
+    "flag-greece": {
+      "codepoint": 57528,
+      "fontFamily": "Twemoji",
+      "identifier": "flagGreece"
+    },
     "flag-greenland": {
-      "codepoint": 57398,
+      "codepoint": 57529,
       "fontFamily": "Twemoji",
       "identifier": "flagGreenland"
     },
     "flag-indonesia": {
-      "codepoint": 57399,
+      "codepoint": 57530,
       "fontFamily": "Twemoji",
       "identifier": "flagIndonesia"
     },
+    "flag-isle-of-man": {
+      "codepoint": 57531,
+      "fontFamily": "Twemoji",
+      "identifier": "flagIsleOfMan"
+    },
+    "flag-israel": {
+      "codepoint": 57532,
+      "fontFamily": "Twemoji",
+      "identifier": "flagIsrael"
+    },
     "flag-japan": {
-      "codepoint": 57400,
+      "codepoint": 57533,
       "fontFamily": "Twemoji",
       "identifier": "flagJapan"
     },
+    "flag-kazakhstan": {
+      "codepoint": 57534,
+      "fontFamily": "Twemoji",
+      "identifier": "flagKazakhstan"
+    },
     "flag-latvia": {
-      "codepoint": 57401,
+      "codepoint": 57535,
       "fontFamily": "Twemoji",
       "identifier": "flagLatvia"
     },
+    "flag-lebanon": {
+      "codepoint": 57536,
+      "fontFamily": "Twemoji",
+      "identifier": "flagLebanon"
+    },
+    "flag-malta": {
+      "codepoint": 57537,
+      "fontFamily": "Twemoji",
+      "identifier": "flagMalta"
+    },
+    "flag-micronesia": {
+      "codepoint": 57538,
+      "fontFamily": "Twemoji",
+      "identifier": "flagMicronesia"
+    },
+    "flag-nauru": {
+      "codepoint": 57539,
+      "fontFamily": "Twemoji",
+      "identifier": "flagNauru"
+    },
     "flag-nigeria": {
-      "codepoint": 57402,
+      "codepoint": 57540,
       "fontFamily": "Twemoji",
       "identifier": "flagNigeria"
     },
     "flag-north-korea": {
-      "codepoint": 57403,
+      "codepoint": 57541,
       "fontFamily": "Twemoji",
       "identifier": "flagNorthKorea"
     },
+    "flag-oman": {
+      "codepoint": 57542,
+      "fontFamily": "Twemoji",
+      "identifier": "flagOman"
+    },
     "flag-palau": {
-      "codepoint": 57404,
+      "codepoint": 57543,
       "fontFamily": "Twemoji",
       "identifier": "flagPalau"
     },
     "flag-poland": {
-      "codepoint": 57405,
+      "codepoint": 57544,
       "fontFamily": "Twemoji",
       "identifier": "flagPoland"
     },
+    "flag-puerto-rico": {
+      "codepoint": 57545,
+      "fontFamily": "Twemoji",
+      "identifier": "flagPuertoRico"
+    },
     "flag-qatar": {
-      "codepoint": 57406,
+      "codepoint": 57546,
       "fontFamily": "Twemoji",
       "identifier": "flagQatar"
     },
+    "flag-reunion": {
+      "codepoint": 57547,
+      "fontFamily": "Twemoji",
+      "identifier": "flagReunion"
+    },
+    "flag-saudi-arabia": {
+      "codepoint": 57548,
+      "fontFamily": "Twemoji",
+      "identifier": "flagSaudiArabia"
+    },
     "flag-scotland": {
-      "codepoint": 57407,
+      "codepoint": 57549,
       "fontFamily": "Twemoji",
       "identifier": "flagScotland"
     },
     "flag-sierra-leone": {
-      "codepoint": 57408,
+      "codepoint": 57550,
       "fontFamily": "Twemoji",
       "identifier": "flagSierraLeone"
     },
+    "flag-slovenia": {
+      "codepoint": 57551,
+      "fontFamily": "Twemoji",
+      "identifier": "flagSlovenia"
+    },
     "flag-st-lucia": {
-      "codepoint": 57409,
+      "codepoint": 57552,
       "fontFamily": "Twemoji",
       "identifier": "flagStLucia"
     },
     "flag-sweden": {
-      "codepoint": 57410,
+      "codepoint": 57553,
       "fontFamily": "Twemoji",
       "identifier": "flagSweden"
     },
     "flag-switzerland": {
-      "codepoint": 57411,
+      "codepoint": 57554,
       "fontFamily": "Twemoji",
       "identifier": "flagSwitzerland"
     },
+    "flag-taiwan": {
+      "codepoint": 57555,
+      "fontFamily": "Twemoji",
+      "identifier": "flagTaiwan"
+    },
+    "flag-tajikistan": {
+      "codepoint": 57556,
+      "fontFamily": "Twemoji",
+      "identifier": "flagTajikistan"
+    },
+    "flag-united-nations": {
+      "codepoint": 57557,
+      "fontFamily": "Twemoji",
+      "identifier": "flagUnitedNations"
+    },
+    "flag-vatican-city": {
+      "codepoint": 57558,
+      "fontFamily": "Twemoji",
+      "identifier": "flagVaticanCity"
+    },
+    "flexed-biceps-light-skin-tone": {
+      "codepoint": 57559,
+      "fontFamily": "Twemoji",
+      "identifier": "flexedBicepsLightSkinTone"
+    },
+    "flexed-biceps-medium-light-skin-tone": {
+      "codepoint": 57560,
+      "fontFamily": "Twemoji",
+      "identifier": "flexedBicepsMediumLightSkinTone"
+    },
+    "flexed-biceps-medium-skin-tone": {
+      "codepoint": 57561,
+      "fontFamily": "Twemoji",
+      "identifier": "flexedBicepsMediumSkinTone"
+    },
+    "foot-light-skin-tone": {
+      "codepoint": 57562,
+      "fontFamily": "Twemoji",
+      "identifier": "footLightSkinTone"
+    },
+    "foot-medium-light-skin-tone": {
+      "codepoint": 57563,
+      "fontFamily": "Twemoji",
+      "identifier": "footMediumLightSkinTone"
+    },
+    "foot-medium-skin-tone": {
+      "codepoint": 57564,
+      "fontFamily": "Twemoji",
+      "identifier": "footMediumSkinTone"
+    },
+    "fork-and-knife": {
+      "codepoint": 57565,
+      "fontFamily": "Twemoji",
+      "identifier": "forkAndKnife"
+    },
+    "free-button": {
+      "codepoint": 57566,
+      "fontFamily": "Twemoji",
+      "identifier": "freeButton"
+    },
+    "globe-with-meridians": {
+      "codepoint": 57567,
+      "fontFamily": "Twemoji",
+      "identifier": "globeWithMeridians"
+    },
     "green-circle": {
-      "codepoint": 57412,
+      "codepoint": 57568,
       "fontFamily": "Twemoji",
       "identifier": "greenCircle"
     },
+    "green-heart": {
+      "codepoint": 57569,
+      "fontFamily": "Twemoji",
+      "identifier": "greenHeart"
+    },
     "green-square": {
-      "codepoint": 57413,
+      "codepoint": 57570,
       "fontFamily": "Twemoji",
       "identifier": "greenSquare"
     },
+    "grey-heart": {
+      "codepoint": 57571,
+      "fontFamily": "Twemoji",
+      "identifier": "greyHeart"
+    },
+    "hamsa": {
+      "codepoint": 57572,
+      "fontFamily": "Twemoji",
+      "identifier": "hamsa"
+    },
+    "hand-with-fingers-splayed-light-skin-tone": {
+      "codepoint": 57573,
+      "fontFamily": "Twemoji",
+      "identifier": "handWithFingersSplayedLightSkinTone"
+    },
+    "hand-with-fingers-splayed-medium-light-skin-tone": {
+      "codepoint": 57574,
+      "fontFamily": "Twemoji",
+      "identifier": "handWithFingersSplayedMediumLightSkinTone"
+    },
+    "hand-with-fingers-splayed-medium-skin-tone": {
+      "codepoint": 57575,
+      "fontFamily": "Twemoji",
+      "identifier": "handWithFingersSplayedMediumSkinTone"
+    },
+    "hand-with-index-finger-and-thumb-crossed-light-skin-tone": {
+      "codepoint": 57576,
+      "fontFamily": "Twemoji",
+      "identifier": "handWithIndexFingerAndThumbCrossedLightSkinTone"
+    },
+    "hand-with-index-finger-and-thumb-crossed-medium-light-skin-tone": {
+      "codepoint": 57577,
+      "fontFamily": "Twemoji",
+      "identifier": "handWithIndexFingerAndThumbCrossedMediumLightSkinTone"
+    },
+    "hand-with-index-finger-and-thumb-crossed-medium-skin-tone": {
+      "codepoint": 57578,
+      "fontFamily": "Twemoji",
+      "identifier": "handWithIndexFingerAndThumbCrossedMediumSkinTone"
+    },
+    "handshake-light-skin-tone": {
+      "codepoint": 57579,
+      "fontFamily": "Twemoji",
+      "identifier": "handshakeLightSkinTone"
+    },
+    "handshake-light-skin-tone-medium-light-skin-tone": {
+      "codepoint": 57580,
+      "fontFamily": "Twemoji",
+      "identifier": "handshakeLightSkinToneMediumLightSkinTone"
+    },
+    "handshake-light-skin-tone-medium-skin-tone": {
+      "codepoint": 57581,
+      "fontFamily": "Twemoji",
+      "identifier": "handshakeLightSkinToneMediumSkinTone"
+    },
+    "handshake-medium-light-skin-tone-light-skin-tone": {
+      "codepoint": 57582,
+      "fontFamily": "Twemoji",
+      "identifier": "handshakeMediumLightSkinToneLightSkinTone"
+    },
+    "handshake-medium-light-skin-tone-medium-skin-tone": {
+      "codepoint": 57583,
+      "fontFamily": "Twemoji",
+      "identifier": "handshakeMediumLightSkinToneMediumSkinTone"
+    },
+    "handshake-medium-skin-tone": {
+      "codepoint": 57584,
+      "fontFamily": "Twemoji",
+      "identifier": "handshakeMediumSkinTone"
+    },
+    "handshake-medium-skin-tone-light-skin-tone": {
+      "codepoint": 57585,
+      "fontFamily": "Twemoji",
+      "identifier": "handshakeMediumSkinToneLightSkinTone"
+    },
+    "handshake-medium-skin-tone-medium-light-skin-tone": {
+      "codepoint": 57586,
+      "fontFamily": "Twemoji",
+      "identifier": "handshakeMediumSkinToneMediumLightSkinTone"
+    },
+    "heart-hands": {
+      "codepoint": 57587,
+      "fontFamily": "Twemoji",
+      "identifier": "heartHands"
+    },
+    "heart-hands-light-skin-tone": {
+      "codepoint": 57588,
+      "fontFamily": "Twemoji",
+      "identifier": "heartHandsLightSkinTone"
+    },
+    "heart-hands-medium-skin-tone": {
+      "codepoint": 57589,
+      "fontFamily": "Twemoji",
+      "identifier": "heartHandsMediumSkinTone"
+    },
+    "high-voltage": {
+      "codepoint": 57590,
+      "fontFamily": "Twemoji",
+      "identifier": "highVoltage"
+    },
+    "hourglass": {
+      "codepoint": 57591,
+      "fontFamily": "Twemoji",
+      "identifier": "hourglass"
+    },
+    "hourglass-done": {
+      "codepoint": 57592,
+      "fontFamily": "Twemoji",
+      "identifier": "hourglassDone"
+    },
     "hourglass-not-done": {
-      "codepoint": 57414,
+      "codepoint": 57593,
       "fontFamily": "Twemoji",
       "identifier": "hourglassNotDone"
     },
     "hourglass-with-flowing-sand": {
-      "codepoint": 57415,
+      "codepoint": 57594,
       "fontFamily": "Twemoji",
       "identifier": "hourglassWithFlowingSand"
     },
+    "hundred-points": {
+      "codepoint": 57595,
+      "fontFamily": "Twemoji",
+      "identifier": "hundredPoints"
+    },
+    "ice": {
+      "codepoint": 57596,
+      "fontFamily": "Twemoji",
+      "identifier": "ice",
+      "duotone": true
+    },
+    "ice-cream": {
+      "codepoint": 57597,
+      "fontFamily": "Twemoji",
+      "identifier": "iceCream"
+    },
+    "ice-cube": {
+      "codepoint": 57598,
+      "fontFamily": "Twemoji",
+      "identifier": "iceCube",
+      "duotone": true
+    },
+    "index-pointing-at-the-viewer-light-skin-tone": {
+      "codepoint": 57599,
+      "fontFamily": "Twemoji",
+      "identifier": "indexPointingAtTheViewerLightSkinTone"
+    },
+    "index-pointing-at-the-viewer-medium-light-skin-tone": {
+      "codepoint": 57600,
+      "fontFamily": "Twemoji",
+      "identifier": "indexPointingAtTheViewerMediumLightSkinTone"
+    },
+    "index-pointing-at-the-viewer-medium-skin-tone": {
+      "codepoint": 57601,
+      "fontFamily": "Twemoji",
+      "identifier": "indexPointingAtTheViewerMediumSkinTone"
+    },
+    "index-pointing-up-light-skin-tone": {
+      "codepoint": 57602,
+      "fontFamily": "Twemoji",
+      "identifier": "indexPointingUpLightSkinTone"
+    },
+    "index-pointing-up-medium-light-skin-tone": {
+      "codepoint": 57603,
+      "fontFamily": "Twemoji",
+      "identifier": "indexPointingUpMediumLightSkinTone"
+    },
+    "index-pointing-up-medium-skin-tone": {
+      "codepoint": 57604,
+      "fontFamily": "Twemoji",
+      "identifier": "indexPointingUpMediumSkinTone"
+    },
+    "infinity": {
+      "codepoint": 57605,
+      "fontFamily": "Twemoji",
+      "identifier": "infinity"
+    },
+    "information": {
+      "codepoint": 57606,
+      "fontFamily": "Twemoji",
+      "identifier": "information"
+    },
+    "input-latin-letters": {
+      "codepoint": 57607,
+      "fontFamily": "Twemoji",
+      "identifier": "inputLatinLetters"
+    },
+    "input-latin-lowercase": {
+      "codepoint": 57608,
+      "fontFamily": "Twemoji",
+      "identifier": "inputLatinLowercase"
+    },
+    "input-latin-uppercase": {
+      "codepoint": 57609,
+      "fontFamily": "Twemoji",
+      "identifier": "inputLatinUppercase"
+    },
+    "input-numbers": {
+      "codepoint": 57610,
+      "fontFamily": "Twemoji",
+      "identifier": "inputNumbers"
+    },
+    "input-symbols": {
+      "codepoint": 57611,
+      "fontFamily": "Twemoji",
+      "identifier": "inputSymbols"
+    },
+    "japanese-here-button": {
+      "codepoint": 57612,
+      "fontFamily": "Twemoji",
+      "identifier": "japaneseHereButton"
+    },
+    "jellyfish": {
+      "codepoint": 57613,
+      "fontFamily": "Twemoji",
+      "identifier": "jellyfish"
+    },
+    "jigsaw": {
+      "codepoint": 57614,
+      "fontFamily": "Twemoji",
+      "identifier": "jigsaw"
+    },
+    "keycap-0": {
+      "codepoint": 57615,
+      "fontFamily": "Twemoji",
+      "identifier": "keycap0"
+    },
+    "keycap-1": {
+      "codepoint": 57616,
+      "fontFamily": "Twemoji",
+      "identifier": "keycap1"
+    },
+    "keycap-10": {
+      "codepoint": 57617,
+      "fontFamily": "Twemoji",
+      "identifier": "keycap10"
+    },
+    "keycap-2": {
+      "codepoint": 57618,
+      "fontFamily": "Twemoji",
+      "identifier": "keycap2"
+    },
+    "keycap-3": {
+      "codepoint": 57619,
+      "fontFamily": "Twemoji",
+      "identifier": "keycap3"
+    },
+    "keycap-4": {
+      "codepoint": 57620,
+      "fontFamily": "Twemoji",
+      "identifier": "keycap4"
+    },
+    "keycap-5": {
+      "codepoint": 57621,
+      "fontFamily": "Twemoji",
+      "identifier": "keycap5"
+    },
+    "keycap-6": {
+      "codepoint": 57622,
+      "fontFamily": "Twemoji",
+      "identifier": "keycap6"
+    },
+    "keycap-7": {
+      "codepoint": 57623,
+      "fontFamily": "Twemoji",
+      "identifier": "keycap7"
+    },
+    "keycap-8": {
+      "codepoint": 57624,
+      "fontFamily": "Twemoji",
+      "identifier": "keycap8"
+    },
+    "keycap-9": {
+      "codepoint": 57625,
+      "fontFamily": "Twemoji",
+      "identifier": "keycap9"
+    },
+    "keycap-asterisk": {
+      "codepoint": 57626,
+      "fontFamily": "Twemoji",
+      "identifier": "keycapAsterisk"
+    },
+    "keycap-pound": {
+      "codepoint": 57627,
+      "fontFamily": "Twemoji",
+      "identifier": "keycapPound"
+    },
+    "laptop": {
+      "codepoint": 57628,
+      "fontFamily": "Twemoji",
+      "identifier": "laptop"
+    },
+    "laptop-computer": {
+      "codepoint": 57629,
+      "fontFamily": "Twemoji",
+      "identifier": "laptopComputer"
+    },
     "large-blue-diamond": {
-      "codepoint": 57416,
+      "codepoint": 57630,
       "fontFamily": "Twemoji",
       "identifier": "largeBlueDiamond"
     },
     "last-track-button": {
-      "codepoint": 57417,
+      "codepoint": 57631,
       "fontFamily": "Twemoji",
       "identifier": "lastTrackButton"
     },
     "leafless-tree": {
-      "codepoint": 57418,
+      "codepoint": 57632,
       "fontFamily": "Twemoji",
       "identifier": "leaflessTree"
     },
     "left-arrow": {
-      "codepoint": 57419,
+      "codepoint": 57633,
       "fontFamily": "Twemoji",
       "identifier": "leftArrow"
     },
     "left-arrow-curving-right": {
-      "codepoint": 57420,
+      "codepoint": 57634,
       "fontFamily": "Twemoji",
       "identifier": "leftArrowCurvingRight"
     },
+    "left-facing-fist-light-skin-tone": {
+      "codepoint": 57635,
+      "fontFamily": "Twemoji",
+      "identifier": "leftFacingFistLightSkinTone"
+    },
+    "left-facing-fist-medium-light-skin-tone": {
+      "codepoint": 57636,
+      "fontFamily": "Twemoji",
+      "identifier": "leftFacingFistMediumLightSkinTone"
+    },
+    "left-facing-fist-medium-skin-tone": {
+      "codepoint": 57637,
+      "fontFamily": "Twemoji",
+      "identifier": "leftFacingFistMediumSkinTone"
+    },
     "left-right-arrow": {
-      "codepoint": 57421,
+      "codepoint": 57638,
       "fontFamily": "Twemoji",
       "identifier": "leftRightArrow"
     },
     "left-speech-bubble": {
-      "codepoint": 57422,
+      "codepoint": 57639,
       "fontFamily": "Twemoji",
       "identifier": "leftSpeechBubble"
     },
+    "leftwards-hand-light-skin-tone": {
+      "codepoint": 57640,
+      "fontFamily": "Twemoji",
+      "identifier": "leftwardsHandLightSkinTone"
+    },
+    "leftwards-hand-medium-light-skin-tone": {
+      "codepoint": 57641,
+      "fontFamily": "Twemoji",
+      "identifier": "leftwardsHandMediumLightSkinTone"
+    },
+    "leftwards-hand-medium-skin-tone": {
+      "codepoint": 57642,
+      "fontFamily": "Twemoji",
+      "identifier": "leftwardsHandMediumSkinTone"
+    },
     "leftwards-pushing-hand-light-skin-tone": {
-      "codepoint": 57423,
+      "codepoint": 57643,
       "fontFamily": "Twemoji",
       "identifier": "leftwardsPushingHandLightSkinTone"
     },
     "leftwards-pushing-hand-medium-light-skin-tone": {
-      "codepoint": 57424,
+      "codepoint": 57644,
       "fontFamily": "Twemoji",
       "identifier": "leftwardsPushingHandMediumLightSkinTone"
     },
     "leftwards-pushing-hand-medium-skin-tone": {
-      "codepoint": 57425,
+      "codepoint": 57645,
       "fontFamily": "Twemoji",
       "identifier": "leftwardsPushingHandMediumSkinTone"
     },
+    "leg-light-skin-tone": {
+      "codepoint": 57646,
+      "fontFamily": "Twemoji",
+      "identifier": "legLightSkinTone"
+    },
+    "leg-medium-light-skin-tone": {
+      "codepoint": 57647,
+      "fontFamily": "Twemoji",
+      "identifier": "legMediumLightSkinTone"
+    },
+    "leg-medium-skin-tone": {
+      "codepoint": 57648,
+      "fontFamily": "Twemoji",
+      "identifier": "legMediumSkinTone"
+    },
+    "letter-a": {
+      "codepoint": 57649,
+      "fontFamily": "Twemoji",
+      "identifier": "letterA"
+    },
+    "letter-b": {
+      "codepoint": 57650,
+      "fontFamily": "Twemoji",
+      "identifier": "letterB"
+    },
+    "letter-c": {
+      "codepoint": 57651,
+      "fontFamily": "Twemoji",
+      "identifier": "letterC"
+    },
+    "letter-d": {
+      "codepoint": 57652,
+      "fontFamily": "Twemoji",
+      "identifier": "letterD"
+    },
+    "letter-e": {
+      "codepoint": 57653,
+      "fontFamily": "Twemoji",
+      "identifier": "letterE"
+    },
+    "letter-f": {
+      "codepoint": 57654,
+      "fontFamily": "Twemoji",
+      "identifier": "letterF"
+    },
+    "letter-g": {
+      "codepoint": 57655,
+      "fontFamily": "Twemoji",
+      "identifier": "letterG"
+    },
     "letter-h": {
-      "codepoint": 57426,
+      "codepoint": 57656,
       "fontFamily": "Twemoji",
       "identifier": "letterH"
     },
+    "letter-i": {
+      "codepoint": 57657,
+      "fontFamily": "Twemoji",
+      "identifier": "letterI"
+    },
+    "letter-j": {
+      "codepoint": 57658,
+      "fontFamily": "Twemoji",
+      "identifier": "letterJ"
+    },
+    "letter-k": {
+      "codepoint": 57659,
+      "fontFamily": "Twemoji",
+      "identifier": "letterK"
+    },
+    "letter-l": {
+      "codepoint": 57660,
+      "fontFamily": "Twemoji",
+      "identifier": "letterL"
+    },
+    "letter-m": {
+      "codepoint": 57661,
+      "fontFamily": "Twemoji",
+      "identifier": "letterM"
+    },
+    "letter-n": {
+      "codepoint": 57662,
+      "fontFamily": "Twemoji",
+      "identifier": "letterN"
+    },
     "letter-o": {
-      "codepoint": 57427,
+      "codepoint": 57663,
       "fontFamily": "Twemoji",
       "identifier": "letterO"
     },
+    "letter-p": {
+      "codepoint": 57664,
+      "fontFamily": "Twemoji",
+      "identifier": "letterP"
+    },
+    "letter-q": {
+      "codepoint": 57665,
+      "fontFamily": "Twemoji",
+      "identifier": "letterQ"
+    },
+    "letter-r": {
+      "codepoint": 57666,
+      "fontFamily": "Twemoji",
+      "identifier": "letterR"
+    },
+    "letter-s": {
+      "codepoint": 57667,
+      "fontFamily": "Twemoji",
+      "identifier": "letterS"
+    },
+    "letter-t": {
+      "codepoint": 57668,
+      "fontFamily": "Twemoji",
+      "identifier": "letterT"
+    },
+    "letter-u": {
+      "codepoint": 57669,
+      "fontFamily": "Twemoji",
+      "identifier": "letterU"
+    },
+    "letter-v": {
+      "codepoint": 57670,
+      "fontFamily": "Twemoji",
+      "identifier": "letterV"
+    },
+    "letter-w": {
+      "codepoint": 57671,
+      "fontFamily": "Twemoji",
+      "identifier": "letterW"
+    },
+    "letter-x": {
+      "codepoint": 57672,
+      "fontFamily": "Twemoji",
+      "identifier": "letterX"
+    },
+    "letter-y": {
+      "codepoint": 57673,
+      "fontFamily": "Twemoji",
+      "identifier": "letterY"
+    },
+    "letter-z": {
+      "codepoint": 57674,
+      "fontFamily": "Twemoji",
+      "identifier": "letterZ"
+    },
+    "light-blue-heart": {
+      "codepoint": 57675,
+      "fontFamily": "Twemoji",
+      "identifier": "lightBlueHeart"
+    },
     "light-skin-tone": {
-      "codepoint": 57428,
+      "codepoint": 57676,
       "fontFamily": "Twemoji",
       "identifier": "lightSkinTone"
     },
     "litter-in-bin-sign": {
-      "codepoint": 57429,
+      "codepoint": 57677,
       "fontFamily": "Twemoji",
       "identifier": "litterInBinSign"
     },
     "locked": {
-      "codepoint": 57430,
+      "codepoint": 57678,
       "fontFamily": "Twemoji",
       "identifier": "locked"
     },
+    "love-you-gesture-light-skin-tone": {
+      "codepoint": 57679,
+      "fontFamily": "Twemoji",
+      "identifier": "loveYouGestureLightSkinTone"
+    },
+    "love-you-gesture-medium-light-skin-tone": {
+      "codepoint": 57680,
+      "fontFamily": "Twemoji",
+      "identifier": "loveYouGestureMediumLightSkinTone"
+    },
+    "love-you-gesture-medium-skin-tone": {
+      "codepoint": 57681,
+      "fontFamily": "Twemoji",
+      "identifier": "loveYouGestureMediumSkinTone"
+    },
     "map-of-japan": {
-      "codepoint": 57431,
+      "codepoint": 57682,
       "fontFamily": "Twemoji",
       "identifier": "mapOfJapan"
     },
     "medium-light-skin-tone": {
-      "codepoint": 57432,
+      "codepoint": 57683,
       "fontFamily": "Twemoji",
       "identifier": "mediumLightSkinTone"
     },
     "medium-skin-tone": {
-      "codepoint": 57433,
+      "codepoint": 57684,
       "fontFamily": "Twemoji",
       "identifier": "mediumSkinTone"
     },
+    "middle-finger-medium-light-skin-tone": {
+      "codepoint": 57685,
+      "fontFamily": "Twemoji",
+      "identifier": "middleFingerMediumLightSkinTone"
+    },
+    "musical-note": {
+      "codepoint": 57686,
+      "fontFamily": "Twemoji",
+      "identifier": "musicalNote"
+    },
+    "musical-notes": {
+      "codepoint": 57687,
+      "fontFamily": "Twemoji",
+      "identifier": "musicalNotes"
+    },
+    "new-button": {
+      "codepoint": 57688,
+      "fontFamily": "Twemoji",
+      "identifier": "newButton"
+    },
     "newspaper": {
-      "codepoint": 57434,
+      "codepoint": 57689,
       "fontFamily": "Twemoji",
       "identifier": "newspaper"
     },
     "next-track-button": {
-      "codepoint": 57435,
+      "codepoint": 57690,
       "fontFamily": "Twemoji",
       "identifier": "nextTrackButton"
     },
+    "ng-button": {
+      "codepoint": 57691,
+      "fontFamily": "Twemoji",
+      "identifier": "ngButton"
+    },
+    "ok-button": {
+      "codepoint": 57692,
+      "fontFamily": "Twemoji",
+      "identifier": "okButton"
+    },
+    "ok-hand-light-skin-tone": {
+      "codepoint": 57693,
+      "fontFamily": "Twemoji",
+      "identifier": "okHandLightSkinTone"
+    },
+    "ok-hand-medium-light-skin-tone": {
+      "codepoint": 57694,
+      "fontFamily": "Twemoji",
+      "identifier": "okHandMediumLightSkinTone"
+    },
+    "ok-hand-medium-skin-tone": {
+      "codepoint": 57695,
+      "fontFamily": "Twemoji",
+      "identifier": "okHandMediumSkinTone"
+    },
+    "oncoming-fist-light-skin-tone": {
+      "codepoint": 57696,
+      "fontFamily": "Twemoji",
+      "identifier": "oncomingFistLightSkinTone"
+    },
+    "oncoming-fist-medium-light-skin-tone": {
+      "codepoint": 57697,
+      "fontFamily": "Twemoji",
+      "identifier": "oncomingFistMediumLightSkinTone"
+    },
+    "oncoming-fist-medium-skin-tone": {
+      "codepoint": 57698,
+      "fontFamily": "Twemoji",
+      "identifier": "oncomingFistMediumSkinTone"
+    },
+    "open-hands-light-skin-tone": {
+      "codepoint": 57699,
+      "fontFamily": "Twemoji",
+      "identifier": "openHandsLightSkinTone"
+    },
+    "open-hands-medium-light-skin-tone": {
+      "codepoint": 57700,
+      "fontFamily": "Twemoji",
+      "identifier": "openHandsMediumLightSkinTone"
+    },
+    "open-hands-medium-skin-tone": {
+      "codepoint": 57701,
+      "fontFamily": "Twemoji",
+      "identifier": "openHandsMediumSkinTone"
+    },
+    "palm-down-hand-light-skin-tone": {
+      "codepoint": 57702,
+      "fontFamily": "Twemoji",
+      "identifier": "palmDownHandLightSkinTone"
+    },
+    "palm-down-hand-medium-light-skin-tone": {
+      "codepoint": 57703,
+      "fontFamily": "Twemoji",
+      "identifier": "palmDownHandMediumLightSkinTone"
+    },
+    "palm-down-hand-medium-skin-tone": {
+      "codepoint": 57704,
+      "fontFamily": "Twemoji",
+      "identifier": "palmDownHandMediumSkinTone"
+    },
+    "palm-up-hand-light-skin-tone": {
+      "codepoint": 57705,
+      "fontFamily": "Twemoji",
+      "identifier": "palmUpHandLightSkinTone"
+    },
+    "palm-up-hand-medium-light-skin-tone": {
+      "codepoint": 57706,
+      "fontFamily": "Twemoji",
+      "identifier": "palmUpHandMediumLightSkinTone"
+    },
+    "palm-up-hand-medium-skin-tone": {
+      "codepoint": 57707,
+      "fontFamily": "Twemoji",
+      "identifier": "palmUpHandMediumSkinTone"
+    },
+    "palms-up-together-light-skin-tone": {
+      "codepoint": 57708,
+      "fontFamily": "Twemoji",
+      "identifier": "palmsUpTogetherLightSkinTone"
+    },
+    "palms-up-together-medium-light-skin-tone": {
+      "codepoint": 57709,
+      "fontFamily": "Twemoji",
+      "identifier": "palmsUpTogetherMediumLightSkinTone"
+    },
+    "palms-up-together-medium-skin-tone": {
+      "codepoint": 57710,
+      "fontFamily": "Twemoji",
+      "identifier": "palmsUpTogetherMediumSkinTone"
+    },
+    "paperclip": {
+      "codepoint": 57711,
+      "fontFamily": "Twemoji",
+      "identifier": "paperclip"
+    },
     "pause-button": {
-      "codepoint": 57436,
+      "codepoint": 57712,
       "fontFamily": "Twemoji",
       "identifier": "pauseButton"
     },
+    "person-taking-bath": {
+      "codepoint": 57713,
+      "fontFamily": "Twemoji",
+      "identifier": "personTakingBath"
+    },
+    "person-taking-bath-medium-light-skin-tone": {
+      "codepoint": 57714,
+      "fontFamily": "Twemoji",
+      "identifier": "personTakingBathMediumLightSkinTone"
+    },
+    "pill": {
+      "codepoint": 57715,
+      "fontFamily": "Twemoji",
+      "identifier": "pill"
+    },
+    "pinched-fingers-light-skin-tone": {
+      "codepoint": 57716,
+      "fontFamily": "Twemoji",
+      "identifier": "pinchedFingersLightSkinTone"
+    },
+    "pinched-fingers-medium-skin-tone": {
+      "codepoint": 57717,
+      "fontFamily": "Twemoji",
+      "identifier": "pinchedFingersMediumSkinTone"
+    },
+    "pinching-hand-light-skin-tone": {
+      "codepoint": 57718,
+      "fontFamily": "Twemoji",
+      "identifier": "pinchingHandLightSkinTone"
+    },
+    "pinching-hand-medium-light-skin-tone": {
+      "codepoint": 57719,
+      "fontFamily": "Twemoji",
+      "identifier": "pinchingHandMediumLightSkinTone"
+    },
+    "pinching-hand-medium-skin-tone": {
+      "codepoint": 57720,
+      "fontFamily": "Twemoji",
+      "identifier": "pinchingHandMediumSkinTone"
+    },
+    "pink-heart": {
+      "codepoint": 57721,
+      "fontFamily": "Twemoji",
+      "identifier": "pinkHeart"
+    },
     "play-button": {
-      "codepoint": 57437,
+      "codepoint": 57722,
       "fontFamily": "Twemoji",
       "identifier": "playButton"
     },
     "play-or-pause-button": {
-      "codepoint": 57438,
+      "codepoint": 57723,
       "fontFamily": "Twemoji",
       "identifier": "playOrPauseButton"
     },
     "purple-circle": {
-      "codepoint": 57439,
+      "codepoint": 57724,
       "fontFamily": "Twemoji",
       "identifier": "purpleCircle"
     },
+    "purple-heart": {
+      "codepoint": 57725,
+      "fontFamily": "Twemoji",
+      "identifier": "purpleHeart"
+    },
     "purple-square": {
-      "codepoint": 57440,
+      "codepoint": 57726,
       "fontFamily": "Twemoji",
       "identifier": "purpleSquare"
     },
+    "puzzle-piece": {
+      "codepoint": 57727,
+      "fontFamily": "Twemoji",
+      "identifier": "puzzlePiece"
+    },
+    "raised-back-of-hand-light-skin-tone": {
+      "codepoint": 57728,
+      "fontFamily": "Twemoji",
+      "identifier": "raisedBackOfHandLightSkinTone"
+    },
+    "raised-back-of-hand-medium-light-skin-tone": {
+      "codepoint": 57729,
+      "fontFamily": "Twemoji",
+      "identifier": "raisedBackOfHandMediumLightSkinTone"
+    },
+    "raised-back-of-hand-medium-skin-tone": {
+      "codepoint": 57730,
+      "fontFamily": "Twemoji",
+      "identifier": "raisedBackOfHandMediumSkinTone"
+    },
+    "raised-fist-light-skin-tone": {
+      "codepoint": 57731,
+      "fontFamily": "Twemoji",
+      "identifier": "raisedFistLightSkinTone"
+    },
+    "raised-fist-medium-light-skin-tone": {
+      "codepoint": 57732,
+      "fontFamily": "Twemoji",
+      "identifier": "raisedFistMediumLightSkinTone"
+    },
+    "raised-fist-medium-skin-tone": {
+      "codepoint": 57733,
+      "fontFamily": "Twemoji",
+      "identifier": "raisedFistMediumSkinTone"
+    },
+    "raised-hand-light-skin-tone": {
+      "codepoint": 57734,
+      "fontFamily": "Twemoji",
+      "identifier": "raisedHandLightSkinTone"
+    },
+    "raised-hand-medium-light-skin-tone": {
+      "codepoint": 57735,
+      "fontFamily": "Twemoji",
+      "identifier": "raisedHandMediumLightSkinTone"
+    },
+    "raised-hand-medium-skin-tone": {
+      "codepoint": 57736,
+      "fontFamily": "Twemoji",
+      "identifier": "raisedHandMediumSkinTone"
+    },
+    "raising-hands-light-skin-tone": {
+      "codepoint": 57737,
+      "fontFamily": "Twemoji",
+      "identifier": "raisingHandsLightSkinTone"
+    },
+    "raising-hands-medium-skin-tone": {
+      "codepoint": 57738,
+      "fontFamily": "Twemoji",
+      "identifier": "raisingHandsMediumSkinTone"
+    },
     "receipt": {
-      "codepoint": 57441,
+      "codepoint": 57739,
       "fontFamily": "Twemoji",
       "identifier": "receipt"
     },
     "record-button": {
-      "codepoint": 57442,
+      "codepoint": 57740,
       "fontFamily": "Twemoji",
       "identifier": "recordButton"
     },
+    "red-haired": {
+      "codepoint": 57741,
+      "fontFamily": "Twemoji",
+      "identifier": "redHaired"
+    },
+    "red-triangle-pointed-down": {
+      "codepoint": 57742,
+      "fontFamily": "Twemoji",
+      "identifier": "redTrianglePointedDown"
+    },
+    "red-triangle-pointed-up": {
+      "codepoint": 57743,
+      "fontFamily": "Twemoji",
+      "identifier": "redTrianglePointedUp"
+    },
+    "repeat-button": {
+      "codepoint": 57744,
+      "fontFamily": "Twemoji",
+      "identifier": "repeatButton"
+    },
+    "repeat-single-button": {
+      "codepoint": 57745,
+      "fontFamily": "Twemoji",
+      "identifier": "repeatSingleButton"
+    },
+    "restroom": {
+      "codepoint": 57746,
+      "fontFamily": "Twemoji",
+      "identifier": "restroom"
+    },
     "reverse-button": {
-      "codepoint": 57443,
+      "codepoint": 57747,
       "fontFamily": "Twemoji",
       "identifier": "reverseButton"
     },
     "right-arrow": {
-      "codepoint": 57444,
+      "codepoint": 57748,
       "fontFamily": "Twemoji",
       "identifier": "rightArrow"
     },
+    "right-arrow-curving-down": {
+      "codepoint": 57749,
+      "fontFamily": "Twemoji",
+      "identifier": "rightArrowCurvingDown"
+    },
     "right-arrow-curving-left": {
-      "codepoint": 57445,
+      "codepoint": 57750,
       "fontFamily": "Twemoji",
       "identifier": "rightArrowCurvingLeft"
     },
+    "right-arrow-curving-up": {
+      "codepoint": 57751,
+      "fontFamily": "Twemoji",
+      "identifier": "rightArrowCurvingUp"
+    },
+    "right-facing-fist-light-skin-tone": {
+      "codepoint": 57752,
+      "fontFamily": "Twemoji",
+      "identifier": "rightFacingFistLightSkinTone"
+    },
+    "right-facing-fist-medium-light-skin-tone": {
+      "codepoint": 57753,
+      "fontFamily": "Twemoji",
+      "identifier": "rightFacingFistMediumLightSkinTone"
+    },
+    "right-facing-fist-medium-skin-tone": {
+      "codepoint": 57754,
+      "fontFamily": "Twemoji",
+      "identifier": "rightFacingFistMediumSkinTone"
+    },
+    "rightwards-hand-light-skin-tone": {
+      "codepoint": 57755,
+      "fontFamily": "Twemoji",
+      "identifier": "rightwardsHandLightSkinTone"
+    },
+    "rightwards-hand-medium-light-skin-tone": {
+      "codepoint": 57756,
+      "fontFamily": "Twemoji",
+      "identifier": "rightwardsHandMediumLightSkinTone"
+    },
+    "rightwards-hand-medium-skin-tone": {
+      "codepoint": 57757,
+      "fontFamily": "Twemoji",
+      "identifier": "rightwardsHandMediumSkinTone"
+    },
     "rightwards-pushing-hand-light-skin-tone": {
-      "codepoint": 57446,
+      "codepoint": 57758,
       "fontFamily": "Twemoji",
       "identifier": "rightwardsPushingHandLightSkinTone"
     },
     "rightwards-pushing-hand-medium-light-skin-tone": {
-      "codepoint": 57447,
+      "codepoint": 57759,
       "fontFamily": "Twemoji",
       "identifier": "rightwardsPushingHandMediumLightSkinTone"
     },
     "rightwards-pushing-hand-medium-skin-tone": {
-      "codepoint": 57448,
+      "codepoint": 57760,
       "fontFamily": "Twemoji",
       "identifier": "rightwardsPushingHandMediumSkinTone"
     },
     "ring": {
-      "codepoint": 57449,
+      "codepoint": 57761,
       "fontFamily": "Twemoji",
       "identifier": "ring"
     },
+    "rocket": {
+      "codepoint": 57762,
+      "fontFamily": "Twemoji",
+      "identifier": "rocket"
+    },
+    "satellite": {
+      "codepoint": 57763,
+      "fontFamily": "Twemoji",
+      "identifier": "satellite"
+    },
+    "saxophone": {
+      "codepoint": 57764,
+      "fontFamily": "Twemoji",
+      "identifier": "saxophone"
+    },
     "scotland": {
-      "codepoint": 57450,
+      "codepoint": 57765,
       "fontFamily": "Twemoji",
       "identifier": "scotland"
     },
+    "shuffle-tracks-button": {
+      "codepoint": 57766,
+      "fontFamily": "Twemoji",
+      "identifier": "shuffleTracksButton"
+    },
+    "sign-of-the-horns-light-skin-tone": {
+      "codepoint": 57767,
+      "fontFamily": "Twemoji",
+      "identifier": "signOfTheHornsLightSkinTone"
+    },
+    "sign-of-the-horns-medium-light-skin-tone": {
+      "codepoint": 57768,
+      "fontFamily": "Twemoji",
+      "identifier": "signOfTheHornsMediumLightSkinTone"
+    },
+    "sign-of-the-horns-medium-skin-tone": {
+      "codepoint": 57769,
+      "fontFamily": "Twemoji",
+      "identifier": "signOfTheHornsMediumSkinTone"
+    },
     "small-blue-diamond": {
-      "codepoint": 57451,
+      "codepoint": 57770,
       "fontFamily": "Twemoji",
       "identifier": "smallBlueDiamond"
     },
+    "snowflake": {
+      "codepoint": 57771,
+      "fontFamily": "Twemoji",
+      "identifier": "snowflake"
+    },
+    "sparkles": {
+      "codepoint": 57772,
+      "fontFamily": "Twemoji",
+      "identifier": "sparkles"
+    },
     "spoon": {
-      "codepoint": 57452,
+      "codepoint": 57773,
       "fontFamily": "Twemoji",
       "identifier": "spoon"
     },
+    "star": {
+      "codepoint": 57774,
+      "fontFamily": "Twemoji",
+      "identifier": "star"
+    },
     "stop-button": {
-      "codepoint": 57453,
+      "codepoint": 57775,
       "fontFamily": "Twemoji",
       "identifier": "stopButton"
     },
+    "sun": {
+      "codepoint": 57776,
+      "fontFamily": "Twemoji",
+      "identifier": "sun"
+    },
+    "sweat-droplets": {
+      "codepoint": 57777,
+      "fontFamily": "Twemoji",
+      "identifier": "sweatDroplets"
+    },
+    "t-shirt": {
+      "codepoint": 57778,
+      "fontFamily": "Twemoji",
+      "identifier": "tShirt"
+    },
+    "thought-balloon": {
+      "codepoint": 57779,
+      "fontFamily": "Twemoji",
+      "identifier": "thoughtBalloon"
+    },
+    "thumbs-down-medium-light-skin-tone": {
+      "codepoint": 57780,
+      "fontFamily": "Twemoji",
+      "identifier": "thumbsDownMediumLightSkinTone"
+    },
+    "thumbs-down-medium-skin-tone": {
+      "codepoint": 57781,
+      "fontFamily": "Twemoji",
+      "identifier": "thumbsDownMediumSkinTone"
+    },
+    "thumbs-up-medium-light-skin-tone": {
+      "codepoint": 57782,
+      "fontFamily": "Twemoji",
+      "identifier": "thumbsUpMediumLightSkinTone"
+    },
+    "thumbs-up-medium-skin-tone": {
+      "codepoint": 57783,
+      "fontFamily": "Twemoji",
+      "identifier": "thumbsUpMediumSkinTone"
+    },
+    "ticket": {
+      "codepoint": 57784,
+      "fontFamily": "Twemoji",
+      "identifier": "ticket"
+    },
     "transgender-flag": {
-      "codepoint": 57454,
+      "codepoint": 57785,
       "fontFamily": "Twemoji",
       "identifier": "transgenderFlag"
     },
+    "triangular-ruler": {
+      "codepoint": 57786,
+      "fontFamily": "Twemoji",
+      "identifier": "triangularRuler"
+    },
+    "trident-emblem": {
+      "codepoint": 57787,
+      "fontFamily": "Twemoji",
+      "identifier": "tridentEmblem"
+    },
+    "trumpet": {
+      "codepoint": 57788,
+      "fontFamily": "Twemoji",
+      "identifier": "trumpet"
+    },
     "unlocked": {
-      "codepoint": 57455,
+      "codepoint": 57789,
       "fontFamily": "Twemoji",
       "identifier": "unlocked"
     },
     "up-arrow": {
-      "codepoint": 57456,
+      "codepoint": 57790,
       "fontFamily": "Twemoji",
       "identifier": "upArrow"
     },
     "up-button": {
-      "codepoint": 57457,
+      "codepoint": 57791,
       "fontFamily": "Twemoji",
       "identifier": "upButton"
     },
     "up-down-arrow": {
-      "codepoint": 57458,
+      "codepoint": 57792,
       "fontFamily": "Twemoji",
       "identifier": "upDownArrow"
     },
+    "up-exclamation-button": {
+      "codepoint": 57793,
+      "fontFamily": "Twemoji",
+      "identifier": "upExclamationButton"
+    },
     "up-left-arrow": {
-      "codepoint": 57459,
+      "codepoint": 57794,
       "fontFamily": "Twemoji",
       "identifier": "upLeftArrow"
     },
     "up-right-arrow": {
-      "codepoint": 57460,
+      "codepoint": 57795,
       "fontFamily": "Twemoji",
       "identifier": "upRightArrow"
     },
+    "up-text-button": {
+      "codepoint": 57796,
+      "fontFamily": "Twemoji",
+      "identifier": "upTextButton"
+    },
     "upwards-button": {
-      "codepoint": 57461,
+      "codepoint": 57797,
       "fontFamily": "Twemoji",
       "identifier": "upwardsButton"
     },
+    "victory-hand-light-skin-tone": {
+      "codepoint": 57798,
+      "fontFamily": "Twemoji",
+      "identifier": "victoryHandLightSkinTone"
+    },
+    "victory-hand-medium-light-skin-tone": {
+      "codepoint": 57799,
+      "fontFamily": "Twemoji",
+      "identifier": "victoryHandMediumLightSkinTone"
+    },
+    "victory-hand-medium-skin-tone": {
+      "codepoint": 57800,
+      "fontFamily": "Twemoji",
+      "identifier": "victoryHandMediumSkinTone"
+    },
+    "vulcan-salute-light-skin-tone": {
+      "codepoint": 57801,
+      "fontFamily": "Twemoji",
+      "identifier": "vulcanSaluteLightSkinTone"
+    },
+    "vulcan-salute-medium-light-skin-tone": {
+      "codepoint": 57802,
+      "fontFamily": "Twemoji",
+      "identifier": "vulcanSaluteMediumLightSkinTone"
+    },
+    "vulcan-salute-medium-skin-tone": {
+      "codepoint": 57803,
+      "fontFamily": "Twemoji",
+      "identifier": "vulcanSaluteMediumSkinTone"
+    },
+    "waving-hand-light-skin-tone": {
+      "codepoint": 57804,
+      "fontFamily": "Twemoji",
+      "identifier": "wavingHandLightSkinTone"
+    },
+    "waving-hand-medium-light-skin-tone": {
+      "codepoint": 57805,
+      "fontFamily": "Twemoji",
+      "identifier": "wavingHandMediumLightSkinTone"
+    },
+    "waving-hand-medium-skin-tone": {
+      "codepoint": 57806,
+      "fontFamily": "Twemoji",
+      "identifier": "wavingHandMediumSkinTone"
+    },
     "waving-transgender-flag": {
-      "codepoint": 57462,
+      "codepoint": 57807,
       "fontFamily": "Twemoji",
       "identifier": "wavingTransgenderFlag"
     },
     "white-exclamation-mark": {
-      "codepoint": 57463,
+      "codepoint": 57808,
       "fontFamily": "Twemoji",
       "identifier": "whiteExclamationMark"
     },
+    "white-medium-star": {
+      "codepoint": 57809,
+      "fontFamily": "Twemoji",
+      "identifier": "whiteMediumStar"
+    },
+    "white-question-mark": {
+      "codepoint": 57810,
+      "fontFamily": "Twemoji",
+      "identifier": "whiteQuestionMark"
+    },
+    "wind-face": {
+      "codepoint": 57811,
+      "fontFamily": "Twemoji",
+      "identifier": "windFace"
+    },
+    "wing": {
+      "codepoint": 57812,
+      "fontFamily": "Twemoji",
+      "identifier": "wing"
+    },
     "wireless": {
-      "codepoint": 57464,
+      "codepoint": 57813,
       "fontFamily": "Twemoji",
       "identifier": "wireless"
     },
+    "writing-hand-light-skin-tone": {
+      "codepoint": 57814,
+      "fontFamily": "Twemoji",
+      "identifier": "writingHandLightSkinTone"
+    },
+    "writing-hand-medium-skin-tone": {
+      "codepoint": 57815,
+      "fontFamily": "Twemoji",
+      "identifier": "writingHandMediumSkinTone"
+    },
     "yellow-circle": {
-      "codepoint": 57465,
+      "codepoint": 57816,
       "fontFamily": "Twemoji",
       "identifier": "yellowCircle"
     },
+    "yellow-heart": {
+      "codepoint": 57817,
+      "fontFamily": "Twemoji",
+      "identifier": "yellowHeart"
+    },
     "yellow-square": {
-      "codepoint": 57466,
+      "codepoint": 57818,
       "fontFamily": "Twemoji",
       "identifier": "yellowSquare"
     }

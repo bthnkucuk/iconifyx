@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: tandpfun
 /// License: MIT — https://github.com/tandpfun/skill-icons/blob/main/LICENSE
-/// Icons: 92 (split across 2 fonts)
+/// Icons: 90 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -275,394 +275,380 @@ class SkillIconsIcons {
     fontPackage: 'iconifyx_skill_icons',
   ));
 
-  /// `latex-light`
-  static const IconifyIconData latexLight = IconifyIconData(IconData(
-    0xe025,
-    fontFamily: 'SkillIcons',
-    fontPackage: 'iconifyx_skill_icons',
-  ));
-
   /// `linkedin`
   static const IconifyIconData linkedin = IconifyIconData(IconData(
-    0xe026,
+    0xe025,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `lua-light`
   static const IconifyIconData luaLight = IconifyIconData(IconData(
-    0xe027,
+    0xe026,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `markdown-light`
   static const IconifyIconData markdownLight = IconifyIconData(IconData(
-    0xe028,
+    0xe027,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `mastodon-light`
   static const IconifyIconData mastodonLight = IconifyIconData(IconData(
-    0xe029,
+    0xe028,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `materialui-light`
   static const IconifyIconData materialuiLight = IconifyIconData(IconData(
-    0xe02a,
+    0xe029,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `mint-light`
   static const IconifyIconData mintLight = IconifyIconData(IconData(
-    0xe02b,
+    0xe02a,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `misskey-light`
   static const IconifyIconData misskeyLight = IconifyIconData(IconData(
-    0xe02c,
+    0xe02b,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `mysql-light`
   static const IconifyIconData mysqlLight = IconifyIconData(IconData(
-    0xe02d,
+    0xe02c,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `nestjs-light`
   static const IconifyIconData nestjsLight = IconifyIconData(IconData(
-    0xe02e,
+    0xe02d,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `nim-light`
   static const IconifyIconData nimLight = IconifyIconData(IconData(
-    0xe02f,
+    0xe02e,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `nodejs-light`
   static const IconifyIconData nodejsLight = IconifyIconData(IconData(
-    0xe030,
+    0xe02f,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `notion-light`
   static const IconifyIconData notionLight = IconifyIconData(IconData(
-    0xe031,
+    0xe030,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `nuxtjs-light`
   static const IconifyIconData nuxtjsLight = IconifyIconData(IconData(
-    0xe032,
+    0xe031,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `opencv-light`
   static const IconifyIconData opencvLight = IconifyIconData(IconData(
-    0xe033,
+    0xe032,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `openshift`
   static const IconifyIconData openshift = IconifyIconData(IconData(
-    0xe034,
+    0xe033,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `p5js`
   static const IconifyIconData p5js = IconifyIconData(IconData(
-    0xe035,
+    0xe034,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `php-light`
   static const IconifyIconData phpLight = IconifyIconData(IconData(
-    0xe036,
+    0xe035,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `plan9-light`
   static const IconifyIconData plan9Light = IconifyIconData(IconData(
-    0xe037,
+    0xe036,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `planetscale-light`
   static const IconifyIconData planetscaleLight = IconifyIconData(IconData(
-    0xe038,
+    0xe037,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `postman`
   static const IconifyIconData postman = IconifyIconData(IconData(
-    0xe039,
+    0xe038,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `premiere`
   static const IconifyIconData premiere = IconifyIconData(IconData(
-    0xe03a,
+    0xe039,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `prisma`
   static const IconifyIconData prisma = IconifyIconData(IconData(
-    0xe03b,
+    0xe03a,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `processing-light`
   static const IconifyIconData processingLight = IconifyIconData(IconData(
-    0xe03c,
+    0xe03b,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `pytorch-light`
   static const IconifyIconData pytorchLight = IconifyIconData(IconData(
-    0xe03d,
+    0xe03c,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `qt-light`
   static const IconifyIconData qtLight = IconifyIconData(IconData(
-    0xe03e,
+    0xe03d,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `rabbitmq-light`
   static const IconifyIconData rabbitmqLight = IconifyIconData(IconData(
-    0xe03f,
+    0xe03e,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `react-light`
   static const IconifyIconData reactLight = IconifyIconData(IconData(
-    0xe040,
+    0xe03f,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `redhat-light`
   static const IconifyIconData redhatLight = IconifyIconData(IconData(
-    0xe041,
+    0xe040,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `redux`
   static const IconifyIconData redux = IconifyIconData(IconData(
-    0xe042,
+    0xe041,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `regex-light`
   static const IconifyIconData regexLight = IconifyIconData(IconData(
-    0xe043,
-    fontFamily: 'SkillIcons',
-    fontPackage: 'iconifyx_skill_icons',
-  ));
-
-  /// `remix-light`
-  static const IconifyIconData remixLight = IconifyIconData(IconData(
-    0xe044,
+    0xe042,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `robloxstudio`
   static const IconifyIconData robloxstudio = IconifyIconData(IconData(
-    0xe045,
+    0xe043,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `selenium`
   static const IconifyIconData selenium = IconifyIconData(IconData(
-    0xe046,
+    0xe044,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `solidity` — primary layer (full opacity)
   static const IconifyIconData solidityPrimary = IconifyIconData(IconData(
-    0xe047,
+    0xe045,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `solidity` — secondary layer (rendered translucent by IconifyDuotoneIcon)
   static const IconifyIconData soliditySecondary = IconifyIconData(IconData(
-    0xe047,
+    0xe045,
     fontFamily: 'SkillIconsSecondary',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `spotify-light`
   static const IconifyIconData spotifyLight = IconifyIconData(IconData(
-    0xe048,
+    0xe046,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `spring-light`
   static const IconifyIconData springLight = IconifyIconData(IconData(
-    0xe049,
+    0xe047,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `svelte`
   static const IconifyIconData svelte = IconifyIconData(IconData(
-    0xe04a,
+    0xe048,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `svg-light`
   static const IconifyIconData svgLight = IconifyIconData(IconData(
-    0xe04b,
+    0xe049,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `symfony-light`
   static const IconifyIconData symfonyLight = IconifyIconData(IconData(
-    0xe04c,
+    0xe04a,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `tauri-light`
   static const IconifyIconData tauriLight = IconifyIconData(IconData(
-    0xe04d,
+    0xe04b,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `tensorflow-light`
   static const IconifyIconData tensorflowLight = IconifyIconData(IconData(
-    0xe04e,
+    0xe04c,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `threejs-light`
   static const IconifyIconData threejsLight = IconifyIconData(IconData(
-    0xe04f,
+    0xe04d,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `twitter`
   static const IconifyIconData twitter = IconifyIconData(IconData(
-    0xe050,
+    0xe04e,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `typescript`
   static const IconifyIconData typescript = IconifyIconData(IconData(
-    0xe051,
+    0xe04f,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `unity-light`
   static const IconifyIconData unityLight = IconifyIconData(IconData(
-    0xe052,
+    0xe050,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `unrealengine`
   static const IconifyIconData unrealengine = IconifyIconData(IconData(
-    0xe053,
+    0xe051,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `vercel-light`
   static const IconifyIconData vercelLight = IconifyIconData(IconData(
-    0xe054,
+    0xe052,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `vitest-light`
   static const IconifyIconData vitestLight = IconifyIconData(IconData(
-    0xe055,
+    0xe053,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `webassembly`
   static const IconifyIconData webassembly = IconifyIconData(IconData(
-    0xe056,
+    0xe054,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `webpack-light`
   static const IconifyIconData webpackLight = IconifyIconData(IconData(
-    0xe057,
+    0xe055,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `windows-light`
   static const IconifyIconData windowsLight = IconifyIconData(IconData(
-    0xe058,
+    0xe056,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `wordpress`
   static const IconifyIconData wordpress = IconifyIconData(IconData(
-    0xe059,
+    0xe057,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `yew-light`
   static const IconifyIconData yewLight = IconifyIconData(IconData(
-    0xe05a,
+    0xe058,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));
 
   /// `zig-light`
   static const IconifyIconData zigLight = IconifyIconData(IconData(
-    0xe05b,
+    0xe059,
     fontFamily: 'SkillIcons',
     fontPackage: 'iconifyx_skill_icons',
   ));

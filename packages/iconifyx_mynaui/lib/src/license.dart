@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/praveenjuge/mynaui-icons/blob/main/LICENSE',
-  iconCount: 784,
+  iconCount: 2852,
 );

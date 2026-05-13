@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/planetabhi/sargam-icons/blob/main/LICENSE.txt',
-  iconCount: 866,
+  iconCount: 1305,
 );

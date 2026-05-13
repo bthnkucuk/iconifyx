@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/ionic-team/ionicons/blob/main/LICENSE',
-  iconCount: 2602,
+  iconCount: 2601,
 );

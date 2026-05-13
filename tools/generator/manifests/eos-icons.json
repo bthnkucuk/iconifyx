@@ -16,703 +16,1223 @@
       "spdx": "MIT",
       "url": "https://gitlab.com/SUSE-UIUX/eos-icons/-/blob/master/LICENSE"
     },
-    "total": 138
+    "total": 242
   },
   "fonts": [
     {
       "family": "EosIcons",
-      "nextCodepoint": 57482,
-      "iconCount": 138
+      "nextCodepoint": 57586,
+      "iconCount": 242
     }
   ],
   "icons": {
-    "abstract": {
+    "3d-print": {
       "codepoint": 57344,
+      "fontFamily": "EosIcons",
+      "identifier": "n3dPrint"
+    },
+    "abstract": {
+      "codepoint": 57345,
       "fontFamily": "EosIcons",
       "identifier": "abstract_"
     },
+    "abstract-incomplete": {
+      "codepoint": 57346,
+      "fontFamily": "EosIcons",
+      "identifier": "abstractIncomplete"
+    },
     "abstract-instance": {
-      "codepoint": 57345,
+      "codepoint": 57347,
       "fontFamily": "EosIcons",
       "identifier": "abstractInstance"
     },
     "abstract-instance-outlined": {
-      "codepoint": 57346,
+      "codepoint": 57348,
       "fontFamily": "EosIcons",
       "identifier": "abstractInstanceOutlined"
     },
     "abstract-outlined": {
-      "codepoint": 57347,
+      "codepoint": 57349,
       "fontFamily": "EosIcons",
       "identifier": "abstractOutlined"
     },
     "action-chains": {
-      "codepoint": 57348,
+      "codepoint": 57350,
       "fontFamily": "EosIcons",
       "identifier": "actionChains"
     },
     "action-chains-outlined": {
-      "codepoint": 57349,
+      "codepoint": 57351,
       "fontFamily": "EosIcons",
       "identifier": "actionChainsOutlined"
     },
     "activate-subscriptions": {
-      "codepoint": 57350,
+      "codepoint": 57352,
       "fontFamily": "EosIcons",
       "identifier": "activateSubscriptions"
     },
     "activate-subscriptions-outlined": {
-      "codepoint": 57351,
+      "codepoint": 57353,
       "fontFamily": "EosIcons",
       "identifier": "activateSubscriptionsOutlined"
     },
     "admin": {
-      "codepoint": 57352,
+      "codepoint": 57354,
       "fontFamily": "EosIcons",
       "identifier": "admin"
     },
     "admin-outlined": {
-      "codepoint": 57353,
+      "codepoint": 57355,
       "fontFamily": "EosIcons",
       "identifier": "adminOutlined"
     },
+    "ai": {
+      "codepoint": 57356,
+      "fontFamily": "EosIcons",
+      "identifier": "ai"
+    },
+    "ai-healing": {
+      "codepoint": 57357,
+      "fontFamily": "EosIcons",
+      "identifier": "aiHealing"
+    },
+    "ai-healing-outlined": {
+      "codepoint": 57358,
+      "fontFamily": "EosIcons",
+      "identifier": "aiHealingOutlined"
+    },
+    "ai-operator": {
+      "codepoint": 57359,
+      "fontFamily": "EosIcons",
+      "identifier": "aiOperator"
+    },
     "api": {
-      "codepoint": 57354,
+      "codepoint": 57360,
       "fontFamily": "EosIcons",
       "identifier": "api"
     },
+    "api-outlined": {
+      "codepoint": 57361,
+      "fontFamily": "EosIcons",
+      "identifier": "apiOutlined"
+    },
     "application": {
-      "codepoint": 57355,
+      "codepoint": 57362,
       "fontFamily": "EosIcons",
       "identifier": "application"
     },
     "application-incomplete": {
-      "codepoint": 57356,
+      "codepoint": 57363,
       "fontFamily": "EosIcons",
       "identifier": "applicationIncomplete"
     },
     "application-incomplete-outlined": {
-      "codepoint": 57357,
+      "codepoint": 57364,
       "fontFamily": "EosIcons",
       "identifier": "applicationIncompleteOutlined"
     },
+    "application-instance": {
+      "codepoint": 57365,
+      "fontFamily": "EosIcons",
+      "identifier": "applicationInstance"
+    },
+    "application-instance-outlined": {
+      "codepoint": 57366,
+      "fontFamily": "EosIcons",
+      "identifier": "applicationInstanceOutlined"
+    },
     "application-window": {
-      "codepoint": 57358,
+      "codepoint": 57367,
       "fontFamily": "EosIcons",
       "identifier": "applicationWindow"
     },
+    "application-window-outlined": {
+      "codepoint": 57368,
+      "fontFamily": "EosIcons",
+      "identifier": "applicationWindowOutlined"
+    },
+    "augmented-reality": {
+      "codepoint": 57369,
+      "fontFamily": "EosIcons",
+      "identifier": "augmentedReality"
+    },
     "autoinstallation": {
-      "codepoint": 57359,
+      "codepoint": 57370,
       "fontFamily": "EosIcons",
       "identifier": "autoinstallation"
     },
     "background-tasks": {
-      "codepoint": 57360,
+      "codepoint": 57371,
       "fontFamily": "EosIcons",
       "identifier": "backgroundTasks"
     },
+    "big-data": {
+      "codepoint": 57372,
+      "fontFamily": "EosIcons",
+      "identifier": "bigData"
+    },
+    "big-data-outlined": {
+      "codepoint": 57373,
+      "fontFamily": "EosIcons",
+      "identifier": "bigDataOutlined"
+    },
+    "blockchain": {
+      "codepoint": 57374,
+      "fontFamily": "EosIcons",
+      "identifier": "blockchain"
+    },
     "bootstrapping": {
-      "codepoint": 57361,
+      "codepoint": 57375,
       "fontFamily": "EosIcons",
       "identifier": "bootstrapping"
     },
+    "bootstrapping-outlined": {
+      "codepoint": 57376,
+      "fontFamily": "EosIcons",
+      "identifier": "bootstrappingOutlined"
+    },
     "branch": {
-      "codepoint": 57362,
+      "codepoint": 57377,
       "fontFamily": "EosIcons",
       "identifier": "branch"
     },
     "branch-outlined": {
-      "codepoint": 57363,
+      "codepoint": 57378,
       "fontFamily": "EosIcons",
       "identifier": "branchOutlined"
     },
+    "cleanup": {
+      "codepoint": 57379,
+      "fontFamily": "EosIcons",
+      "identifier": "cleanup"
+    },
     "cloud-computing": {
-      "codepoint": 57364,
+      "codepoint": 57380,
       "fontFamily": "EosIcons",
       "identifier": "cloudComputing"
     },
+    "cloud-computing-outlined": {
+      "codepoint": 57381,
+      "fontFamily": "EosIcons",
+      "identifier": "cloudComputingOutlined"
+    },
+    "cloud-controller-manager": {
+      "codepoint": 57382,
+      "fontFamily": "EosIcons",
+      "identifier": "cloudControllerManager"
+    },
     "cluster": {
-      "codepoint": 57365,
+      "codepoint": 57383,
       "fontFamily": "EosIcons",
       "identifier": "cluster"
     },
     "cluster-management": {
-      "codepoint": 57366,
+      "codepoint": 57384,
       "fontFamily": "EosIcons",
       "identifier": "clusterManagement"
     },
+    "cluster-management-outlined": {
+      "codepoint": 57385,
+      "fontFamily": "EosIcons",
+      "identifier": "clusterManagementOutlined"
+    },
     "cluster-outlined": {
-      "codepoint": 57367,
+      "codepoint": 57386,
       "fontFamily": "EosIcons",
       "identifier": "clusterOutlined"
     },
     "cluster-role": {
-      "codepoint": 57368,
+      "codepoint": 57387,
       "fontFamily": "EosIcons",
       "identifier": "clusterRole"
     },
     "cluster-role-binding": {
-      "codepoint": 57369,
+      "codepoint": 57388,
       "fontFamily": "EosIcons",
       "identifier": "clusterRoleBinding"
     },
     "code-deploy": {
-      "codepoint": 57370,
+      "codepoint": 57389,
       "fontFamily": "EosIcons",
       "identifier": "codeDeploy"
     },
+    "code-deploy-outlined": {
+      "codepoint": 57390,
+      "fontFamily": "EosIcons",
+      "identifier": "codeDeployOutlined"
+    },
     "collocation": {
-      "codepoint": 57371,
+      "codepoint": 57391,
       "fontFamily": "EosIcons",
       "identifier": "collocation"
     },
     "commit": {
-      "codepoint": 57372,
+      "codepoint": 57392,
       "fontFamily": "EosIcons",
       "identifier": "commit"
     },
     "commit-outlined": {
-      "codepoint": 57373,
+      "codepoint": 57393,
       "fontFamily": "EosIcons",
       "identifier": "commitOutlined"
     },
     "compare-states": {
-      "codepoint": 57374,
+      "codepoint": 57394,
       "fontFamily": "EosIcons",
       "identifier": "compareStates"
     },
     "compare-states-outlined": {
-      "codepoint": 57375,
+      "codepoint": 57395,
       "fontFamily": "EosIcons",
       "identifier": "compareStatesOutlined"
     },
+    "config-map": {
+      "codepoint": 57396,
+      "fontFamily": "EosIcons",
+      "identifier": "configMap"
+    },
+    "configuration-file": {
+      "codepoint": 57397,
+      "fontFamily": "EosIcons",
+      "identifier": "configurationFile"
+    },
+    "configuration-file-outlined": {
+      "codepoint": 57398,
+      "fontFamily": "EosIcons",
+      "identifier": "configurationFileOutlined"
+    },
     "constraint": {
-      "codepoint": 57376,
+      "codepoint": 57399,
       "fontFamily": "EosIcons",
       "identifier": "constraint"
     },
+    "container": {
+      "codepoint": 57400,
+      "fontFamily": "EosIcons",
+      "identifier": "container"
+    },
+    "container-outlined": {
+      "codepoint": 57401,
+      "fontFamily": "EosIcons",
+      "identifier": "containerOutlined"
+    },
+    "content-deleted": {
+      "codepoint": 57402,
+      "fontFamily": "EosIcons",
+      "identifier": "contentDeleted"
+    },
     "content-lifecycle-management": {
-      "codepoint": 57377,
+      "codepoint": 57403,
       "fontFamily": "EosIcons",
       "identifier": "contentLifecycleManagement"
     },
     "content-modified": {
-      "codepoint": 57378,
+      "codepoint": 57404,
       "fontFamily": "EosIcons",
       "identifier": "contentModified"
     },
     "content-new": {
-      "codepoint": 57379,
+      "codepoint": 57405,
       "fontFamily": "EosIcons",
       "identifier": "contentNew"
     },
     "counting": {
-      "codepoint": 57380,
+      "codepoint": 57406,
       "fontFamily": "EosIcons",
       "identifier": "counting"
     },
     "critical-bug": {
-      "codepoint": 57381,
+      "codepoint": 57407,
       "fontFamily": "EosIcons",
       "identifier": "criticalBug"
     },
     "critical-bug-outlined": {
-      "codepoint": 57382,
+      "codepoint": 57408,
       "fontFamily": "EosIcons",
       "identifier": "criticalBugOutlined"
     },
     "cronjob": {
-      "codepoint": 57383,
+      "codepoint": 57409,
       "fontFamily": "EosIcons",
       "identifier": "cronjob"
     },
+    "csv-file": {
+      "codepoint": 57410,
+      "fontFamily": "EosIcons",
+      "identifier": "csvFile"
+    },
+    "daemon": {
+      "codepoint": 57411,
+      "fontFamily": "EosIcons",
+      "identifier": "daemon"
+    },
+    "daemon-outlined": {
+      "codepoint": 57412,
+      "fontFamily": "EosIcons",
+      "identifier": "daemonOutlined"
+    },
+    "daemon-set": {
+      "codepoint": 57413,
+      "fontFamily": "EosIcons",
+      "identifier": "daemonSet"
+    },
+    "daemon-set-outlined": {
+      "codepoint": 57414,
+      "fontFamily": "EosIcons",
+      "identifier": "daemonSetOutlined"
+    },
+    "data-mining": {
+      "codepoint": 57415,
+      "fontFamily": "EosIcons",
+      "identifier": "dataMining"
+    },
+    "data-scientist": {
+      "codepoint": 57416,
+      "fontFamily": "EosIcons",
+      "identifier": "dataScientist"
+    },
+    "data-scientist-outlined": {
+      "codepoint": 57417,
+      "fontFamily": "EosIcons",
+      "identifier": "dataScientistOutlined"
+    },
     "database": {
-      "codepoint": 57384,
+      "codepoint": 57418,
       "fontFamily": "EosIcons",
       "identifier": "database"
     },
+    "database-migration": {
+      "codepoint": 57419,
+      "fontFamily": "EosIcons",
+      "identifier": "databaseMigration"
+    },
+    "database-migration-outlined": {
+      "codepoint": 57420,
+      "fontFamily": "EosIcons",
+      "identifier": "databaseMigrationOutlined"
+    },
+    "database-outlined": {
+      "codepoint": 57421,
+      "fontFamily": "EosIcons",
+      "identifier": "databaseOutlined"
+    },
+    "deploy": {
+      "codepoint": 57422,
+      "fontFamily": "EosIcons",
+      "identifier": "deploy"
+    },
     "diff-modified": {
-      "codepoint": 57385,
+      "codepoint": 57423,
       "fontFamily": "EosIcons",
       "identifier": "diffModified"
     },
     "diff-modified-outlined": {
-      "codepoint": 57386,
+      "codepoint": 57424,
       "fontFamily": "EosIcons",
       "identifier": "diffModifiedOutlined"
     },
     "dns": {
-      "codepoint": 57387,
+      "codepoint": 57425,
       "fontFamily": "EosIcons",
       "identifier": "dns"
     },
+    "drone": {
+      "codepoint": 57426,
+      "fontFamily": "EosIcons",
+      "identifier": "drone"
+    },
     "edge-computing": {
-      "codepoint": 57388,
+      "codepoint": 57427,
       "fontFamily": "EosIcons",
       "identifier": "edgeComputing"
     },
     "edge-computing-outlined": {
-      "codepoint": 57389,
+      "codepoint": 57428,
       "fontFamily": "EosIcons",
       "identifier": "edgeComputingOutlined"
     },
     "endpoints": {
-      "codepoint": 57390,
+      "codepoint": 57429,
       "fontFamily": "EosIcons",
       "identifier": "endpoints"
     },
     "endpoints-connected": {
-      "codepoint": 57391,
+      "codepoint": 57430,
       "fontFamily": "EosIcons",
       "identifier": "endpointsConnected"
     },
     "endpoints-disconnected": {
-      "codepoint": 57392,
+      "codepoint": 57431,
       "fontFamily": "EosIcons",
       "identifier": "endpointsDisconnected"
     },
     "enhancement": {
-      "codepoint": 57393,
+      "codepoint": 57432,
       "fontFamily": "EosIcons",
       "identifier": "enhancement"
     },
     "env": {
-      "codepoint": 57394,
+      "codepoint": 57433,
       "fontFamily": "EosIcons",
       "identifier": "env"
     },
     "file-system": {
-      "codepoint": 57395,
+      "codepoint": 57434,
       "fontFamily": "EosIcons",
       "identifier": "fileSystem"
     },
     "file-system-outlined": {
-      "codepoint": 57396,
+      "codepoint": 57435,
       "fontFamily": "EosIcons",
       "identifier": "fileSystemOutlined"
     },
+    "flask": {
+      "codepoint": 57436,
+      "fontFamily": "EosIcons",
+      "identifier": "flask"
+    },
     "fork": {
-      "codepoint": 57397,
+      "codepoint": 57437,
       "fontFamily": "EosIcons",
       "identifier": "fork"
     },
     "fork-outlined": {
-      "codepoint": 57398,
+      "codepoint": 57438,
       "fontFamily": "EosIcons",
       "identifier": "forkOutlined"
     },
+    "genomic": {
+      "codepoint": 57439,
+      "fontFamily": "EosIcons",
+      "identifier": "genomic"
+    },
     "hardware-circuit": {
-      "codepoint": 57399,
+      "codepoint": 57440,
       "fontFamily": "EosIcons",
       "identifier": "hardwareCircuit"
     },
     "inbound": {
-      "codepoint": 57400,
+      "codepoint": 57441,
       "fontFamily": "EosIcons",
       "identifier": "inbound"
     },
     "infinity": {
-      "codepoint": 57401,
+      "codepoint": 57442,
       "fontFamily": "EosIcons",
       "identifier": "infinity"
     },
+    "ingress": {
+      "codepoint": 57443,
+      "fontFamily": "EosIcons",
+      "identifier": "ingress"
+    },
+    "init-container": {
+      "codepoint": 57444,
+      "fontFamily": "EosIcons",
+      "identifier": "initContainer"
+    },
+    "init-container-outlined": {
+      "codepoint": 57445,
+      "fontFamily": "EosIcons",
+      "identifier": "initContainerOutlined"
+    },
     "iot": {
-      "codepoint": 57402,
+      "codepoint": 57446,
       "fontFamily": "EosIcons",
       "identifier": "iot"
     },
     "ip": {
-      "codepoint": 57403,
+      "codepoint": 57447,
       "fontFamily": "EosIcons",
       "identifier": "ip"
     },
     "ip-outlined": {
-      "codepoint": 57404,
+      "codepoint": 57448,
       "fontFamily": "EosIcons",
       "identifier": "ipOutlined"
     },
     "job": {
-      "codepoint": 57405,
+      "codepoint": 57449,
       "fontFamily": "EosIcons",
       "identifier": "job"
     },
+    "kubelet": {
+      "codepoint": 57450,
+      "fontFamily": "EosIcons",
+      "identifier": "kubelet"
+    },
+    "kubelet-outlined": {
+      "codepoint": 57451,
+      "fontFamily": "EosIcons",
+      "identifier": "kubeletOutlined"
+    },
+    "locked-env": {
+      "codepoint": 57452,
+      "fontFamily": "EosIcons",
+      "identifier": "lockedEnv"
+    },
+    "locked-env-outlined": {
+      "codepoint": 57453,
+      "fontFamily": "EosIcons",
+      "identifier": "lockedEnvOutlined"
+    },
     "machine-learning": {
-      "codepoint": 57406,
+      "codepoint": 57454,
       "fontFamily": "EosIcons",
       "identifier": "machineLearning"
     },
+    "machine-learning-outlined": {
+      "codepoint": 57455,
+      "fontFamily": "EosIcons",
+      "identifier": "machineLearningOutlined"
+    },
+    "master": {
+      "codepoint": 57456,
+      "fontFamily": "EosIcons",
+      "identifier": "master"
+    },
+    "master-outlined": {
+      "codepoint": 57457,
+      "fontFamily": "EosIcons",
+      "identifier": "masterOutlined"
+    },
+    "merge": {
+      "codepoint": 57458,
+      "fontFamily": "EosIcons",
+      "identifier": "merge"
+    },
+    "merge-outlined": {
+      "codepoint": 57459,
+      "fontFamily": "EosIcons",
+      "identifier": "mergeOutlined"
+    },
+    "miscellaneous": {
+      "codepoint": 57460,
+      "fontFamily": "EosIcons",
+      "identifier": "miscellaneous"
+    },
+    "miscellaneous-outlined": {
+      "codepoint": 57461,
+      "fontFamily": "EosIcons",
+      "identifier": "miscellaneousOutlined"
+    },
     "modified-date": {
-      "codepoint": 57407,
+      "codepoint": 57462,
       "fontFamily": "EosIcons",
       "identifier": "modifiedDate"
     },
+    "modified-date-outlined": {
+      "codepoint": 57463,
+      "fontFamily": "EosIcons",
+      "identifier": "modifiedDateOutlined"
+    },
+    "molecules": {
+      "codepoint": 57464,
+      "fontFamily": "EosIcons",
+      "identifier": "molecules"
+    },
+    "molecules-outlined": {
+      "codepoint": 57465,
+      "fontFamily": "EosIcons",
+      "identifier": "moleculesOutlined"
+    },
+    "monitoring": {
+      "codepoint": 57466,
+      "fontFamily": "EosIcons",
+      "identifier": "monitoring"
+    },
     "move": {
-      "codepoint": 57408,
+      "codepoint": 57467,
       "fontFamily": "EosIcons",
       "identifier": "move"
     },
     "multistate": {
-      "codepoint": 57409,
+      "codepoint": 57468,
       "fontFamily": "EosIcons",
       "identifier": "multistate"
     },
+    "namespace": {
+      "codepoint": 57469,
+      "fontFamily": "EosIcons",
+      "identifier": "namespace"
+    },
     "network": {
-      "codepoint": 57410,
+      "codepoint": 57470,
       "fontFamily": "EosIcons",
       "identifier": "network"
     },
     "network-file-system": {
-      "codepoint": 57411,
+      "codepoint": 57471,
       "fontFamily": "EosIcons",
       "identifier": "networkFileSystem"
     },
+    "network-file-system-outlined": {
+      "codepoint": 57472,
+      "fontFamily": "EosIcons",
+      "identifier": "networkFileSystemOutlined"
+    },
     "network-policy": {
-      "codepoint": 57412,
+      "codepoint": 57473,
       "fontFamily": "EosIcons",
       "identifier": "networkPolicy"
     },
+    "network-policy-outlined": {
+      "codepoint": 57474,
+      "fontFamily": "EosIcons",
+      "identifier": "networkPolicyOutlined"
+    },
+    "neural-network": {
+      "codepoint": 57475,
+      "fontFamily": "EosIcons",
+      "identifier": "neuralNetwork"
+    },
+    "node": {
+      "codepoint": 57476,
+      "fontFamily": "EosIcons",
+      "identifier": "node"
+    },
     "node-outlined": {
-      "codepoint": 57413,
+      "codepoint": 57477,
       "fontFamily": "EosIcons",
       "identifier": "nodeOutlined"
     },
+    "organisms": {
+      "codepoint": 57478,
+      "fontFamily": "EosIcons",
+      "identifier": "organisms"
+    },
+    "organisms-outlined": {
+      "codepoint": 57479,
+      "fontFamily": "EosIcons",
+      "identifier": "organismsOutlined"
+    },
     "organization": {
-      "codepoint": 57414,
+      "codepoint": 57480,
       "fontFamily": "EosIcons",
       "identifier": "organization"
     },
     "organization-outlined": {
-      "codepoint": 57415,
+      "codepoint": 57481,
       "fontFamily": "EosIcons",
       "identifier": "organizationOutlined"
     },
     "outbound": {
-      "codepoint": 57416,
+      "codepoint": 57482,
       "fontFamily": "EosIcons",
       "identifier": "outbound"
     },
     "package": {
-      "codepoint": 57417,
+      "codepoint": 57483,
       "fontFamily": "EosIcons",
       "identifier": "package"
     },
     "package-outlined": {
-      "codepoint": 57418,
+      "codepoint": 57484,
       "fontFamily": "EosIcons",
       "identifier": "packageOutlined"
     },
     "package-upgrade": {
-      "codepoint": 57419,
+      "codepoint": 57485,
       "fontFamily": "EosIcons",
       "identifier": "packageUpgrade"
     },
     "package-upgrade-outlined": {
-      "codepoint": 57420,
+      "codepoint": 57486,
       "fontFamily": "EosIcons",
       "identifier": "packageUpgradeOutlined"
     },
     "packages": {
-      "codepoint": 57421,
+      "codepoint": 57487,
       "fontFamily": "EosIcons",
       "identifier": "packages"
     },
     "packages-outlined": {
-      "codepoint": 57422,
+      "codepoint": 57488,
       "fontFamily": "EosIcons",
       "identifier": "packagesOutlined"
     },
     "patch-fixes": {
-      "codepoint": 57423,
+      "codepoint": 57489,
       "fontFamily": "EosIcons",
       "identifier": "patchFixes"
     },
+    "patch-fixes-outlined": {
+      "codepoint": 57490,
+      "fontFamily": "EosIcons",
+      "identifier": "patchFixesOutlined"
+    },
     "patterns": {
-      "codepoint": 57424,
+      "codepoint": 57491,
       "fontFamily": "EosIcons",
       "identifier": "patterns"
     },
+    "patterns-outlined": {
+      "codepoint": 57492,
+      "fontFamily": "EosIcons",
+      "identifier": "patternsOutlined"
+    },
+    "performance": {
+      "codepoint": 57493,
+      "fontFamily": "EosIcons",
+      "identifier": "performance"
+    },
+    "persistent-volume": {
+      "codepoint": 57494,
+      "fontFamily": "EosIcons",
+      "identifier": "persistentVolume"
+    },
     "pin": {
-      "codepoint": 57425,
+      "codepoint": 57495,
       "fontFamily": "EosIcons",
       "identifier": "pin"
     },
+    "pin-outlined": {
+      "codepoint": 57496,
+      "fontFamily": "EosIcons",
+      "identifier": "pinOutlined"
+    },
     "pipeline": {
-      "codepoint": 57426,
+      "codepoint": 57497,
       "fontFamily": "EosIcons",
       "identifier": "pipeline"
     },
     "pipeline-outlined": {
-      "codepoint": 57427,
+      "codepoint": 57498,
       "fontFamily": "EosIcons",
       "identifier": "pipelineOutlined"
     },
+    "pod": {
+      "codepoint": 57499,
+      "fontFamily": "EosIcons",
+      "identifier": "pod"
+    },
+    "pod-autoscaler": {
+      "codepoint": 57500,
+      "fontFamily": "EosIcons",
+      "identifier": "podAutoscaler"
+    },
     "pod-autoscaler-outlined": {
-      "codepoint": 57428,
+      "codepoint": 57501,
       "fontFamily": "EosIcons",
       "identifier": "podAutoscalerOutlined"
     },
     "pod-outlined": {
-      "codepoint": 57429,
+      "codepoint": 57502,
       "fontFamily": "EosIcons",
       "identifier": "podOutlined"
     },
+    "pod-security": {
+      "codepoint": 57503,
+      "fontFamily": "EosIcons",
+      "identifier": "podSecurity"
+    },
+    "pod-security-outlined": {
+      "codepoint": 57504,
+      "fontFamily": "EosIcons",
+      "identifier": "podSecurityOutlined"
+    },
+    "primitive": {
+      "codepoint": 57505,
+      "fontFamily": "EosIcons",
+      "identifier": "primitive"
+    },
     "product-classes": {
-      "codepoint": 57430,
+      "codepoint": 57506,
       "fontFamily": "EosIcons",
       "identifier": "productClasses"
     },
     "product-classes-outlined": {
-      "codepoint": 57431,
+      "codepoint": 57507,
       "fontFamily": "EosIcons",
       "identifier": "productClassesOutlined"
     },
+    "product-subscriptions": {
+      "codepoint": 57508,
+      "fontFamily": "EosIcons",
+      "identifier": "productSubscriptions"
+    },
+    "product-subscriptions-outlined": {
+      "codepoint": 57509,
+      "fontFamily": "EosIcons",
+      "identifier": "productSubscriptionsOutlined"
+    },
     "products": {
-      "codepoint": 57432,
+      "codepoint": 57510,
       "fontFamily": "EosIcons",
       "identifier": "products"
     },
     "products-outlined": {
-      "codepoint": 57433,
+      "codepoint": 57511,
       "fontFamily": "EosIcons",
       "identifier": "productsOutlined"
     },
     "project": {
-      "codepoint": 57434,
+      "codepoint": 57512,
       "fontFamily": "EosIcons",
       "identifier": "project"
     },
+    "project-outlined": {
+      "codepoint": 57513,
+      "fontFamily": "EosIcons",
+      "identifier": "projectOutlined"
+    },
+    "proxy": {
+      "codepoint": 57514,
+      "fontFamily": "EosIcons",
+      "identifier": "proxy"
+    },
+    "proxy-outlined": {
+      "codepoint": 57515,
+      "fontFamily": "EosIcons",
+      "identifier": "proxyOutlined"
+    },
     "pull-request": {
-      "codepoint": 57435,
+      "codepoint": 57516,
       "fontFamily": "EosIcons",
       "identifier": "pullRequest"
     },
     "pull-request-outlined": {
-      "codepoint": 57436,
+      "codepoint": 57517,
       "fontFamily": "EosIcons",
       "identifier": "pullRequestOutlined"
     },
     "push-pin": {
-      "codepoint": 57437,
+      "codepoint": 57518,
       "fontFamily": "EosIcons",
       "identifier": "pushPin"
     },
+    "push-pin-outlined": {
+      "codepoint": 57519,
+      "fontFamily": "EosIcons",
+      "identifier": "pushPinOutlined"
+    },
     "quota": {
-      "codepoint": 57438,
+      "codepoint": 57520,
       "fontFamily": "EosIcons",
       "identifier": "quota"
     },
     "quota-outlined": {
-      "codepoint": 57439,
+      "codepoint": 57521,
       "fontFamily": "EosIcons",
       "identifier": "quotaOutlined"
     },
     "replica": {
-      "codepoint": 57440,
+      "codepoint": 57522,
       "fontFamily": "EosIcons",
       "identifier": "replica"
     },
     "replica-set": {
-      "codepoint": 57441,
+      "codepoint": 57523,
       "fontFamily": "EosIcons",
       "identifier": "replicaSet"
     },
     "repositories": {
-      "codepoint": 57442,
+      "codepoint": 57524,
       "fontFamily": "EosIcons",
       "identifier": "repositories"
     },
+    "role-binding": {
+      "codepoint": 57525,
+      "fontFamily": "EosIcons",
+      "identifier": "roleBinding"
+    },
+    "role-binding-outlined": {
+      "codepoint": 57526,
+      "fontFamily": "EosIcons",
+      "identifier": "roleBindingOutlined"
+    },
+    "route": {
+      "codepoint": 57527,
+      "fontFamily": "EosIcons",
+      "identifier": "route"
+    },
     "sandbox": {
-      "codepoint": 57443,
+      "codepoint": 57528,
       "fontFamily": "EosIcons",
       "identifier": "sandbox"
     },
+    "sandbox-outlined": {
+      "codepoint": 57529,
+      "fontFamily": "EosIcons",
+      "identifier": "sandboxOutlined"
+    },
+    "satellite-alt": {
+      "codepoint": 57530,
+      "fontFamily": "EosIcons",
+      "identifier": "satelliteAlt"
+    },
+    "satellite-alt-outlined": {
+      "codepoint": 57531,
+      "fontFamily": "EosIcons",
+      "identifier": "satelliteAltOutlined"
+    },
     "science": {
-      "codepoint": 57444,
+      "codepoint": 57532,
       "fontFamily": "EosIcons",
       "identifier": "science"
     },
+    "science-outlined": {
+      "codepoint": 57533,
+      "fontFamily": "EosIcons",
+      "identifier": "scienceOutlined"
+    },
+    "scientist": {
+      "codepoint": 57534,
+      "fontFamily": "EosIcons",
+      "identifier": "scientist"
+    },
+    "scientist-outlined": {
+      "codepoint": 57535,
+      "fontFamily": "EosIcons",
+      "identifier": "scientistOutlined"
+    },
     "secret": {
-      "codepoint": 57445,
+      "codepoint": 57536,
       "fontFamily": "EosIcons",
       "identifier": "secret"
     },
     "secret-outlined": {
-      "codepoint": 57446,
+      "codepoint": 57537,
       "fontFamily": "EosIcons",
       "identifier": "secretOutlined"
     },
+    "secure-data": {
+      "codepoint": 57538,
+      "fontFamily": "EosIcons",
+      "identifier": "secureData"
+    },
+    "secure-data-outlined": {
+      "codepoint": 57539,
+      "fontFamily": "EosIcons",
+      "identifier": "secureDataOutlined"
+    },
+    "self-healing": {
+      "codepoint": 57540,
+      "fontFamily": "EosIcons",
+      "identifier": "selfHealing"
+    },
     "service": {
-      "codepoint": 57447,
+      "codepoint": 57541,
       "fontFamily": "EosIcons",
       "identifier": "service"
     },
     "service-instance": {
-      "codepoint": 57448,
+      "codepoint": 57542,
       "fontFamily": "EosIcons",
       "identifier": "serviceInstance"
     },
+    "service-instance-outlined": {
+      "codepoint": 57543,
+      "fontFamily": "EosIcons",
+      "identifier": "serviceInstanceOutlined"
+    },
+    "service-outlined": {
+      "codepoint": 57544,
+      "fontFamily": "EosIcons",
+      "identifier": "serviceOutlined"
+    },
     "service-plan": {
-      "codepoint": 57449,
+      "codepoint": 57545,
       "fontFamily": "EosIcons",
       "identifier": "servicePlan"
     },
     "service-plan-outlined": {
-      "codepoint": 57450,
+      "codepoint": 57546,
       "fontFamily": "EosIcons",
       "identifier": "servicePlanOutlined"
     },
     "snapshot-rollback": {
-      "codepoint": 57451,
+      "codepoint": 57547,
       "fontFamily": "EosIcons",
       "identifier": "snapshotRollback"
     },
     "software": {
-      "codepoint": 57452,
+      "codepoint": 57548,
       "fontFamily": "EosIcons",
       "identifier": "software"
     },
     "software-outlined": {
-      "codepoint": 57453,
+      "codepoint": 57549,
       "fontFamily": "EosIcons",
       "identifier": "softwareOutlined"
     },
     "spinner": {
-      "codepoint": 57454,
+      "codepoint": 57550,
       "fontFamily": "EosIcons",
       "identifier": "spinner"
     },
     "state": {
-      "codepoint": 57455,
+      "codepoint": 57551,
       "fontFamily": "EosIcons",
       "identifier": "state"
     },
+    "stateful-set": {
+      "codepoint": 57552,
+      "fontFamily": "EosIcons",
+      "identifier": "statefulSet"
+    },
+    "stateful-set-outlined": {
+      "codepoint": 57553,
+      "fontFamily": "EosIcons",
+      "identifier": "statefulSetOutlined"
+    },
+    "storage-class": {
+      "codepoint": 57554,
+      "fontFamily": "EosIcons",
+      "identifier": "storageClass"
+    },
     "storage-class-outlined": {
-      "codepoint": 57456,
+      "codepoint": 57555,
       "fontFamily": "EosIcons",
       "identifier": "storageClassOutlined"
     },
     "subscription-management": {
-      "codepoint": 57457,
+      "codepoint": 57556,
       "fontFamily": "EosIcons",
       "identifier": "subscriptionManagement"
     },
     "subscriptions-created": {
-      "codepoint": 57458,
+      "codepoint": 57557,
       "fontFamily": "EosIcons",
       "identifier": "subscriptionsCreated"
     },
     "subscriptions-created-outlined": {
-      "codepoint": 57459,
+      "codepoint": 57558,
       "fontFamily": "EosIcons",
       "identifier": "subscriptionsCreatedOutlined"
     },
     "symlink": {
-      "codepoint": 57460,
+      "codepoint": 57559,
       "fontFamily": "EosIcons",
       "identifier": "symlink"
     },
     "symlink-outlined": {
-      "codepoint": 57461,
+      "codepoint": 57560,
       "fontFamily": "EosIcons",
       "identifier": "symlinkOutlined"
     },
     "system-group": {
-      "codepoint": 57462,
+      "codepoint": 57561,
       "fontFamily": "EosIcons",
       "identifier": "systemGroup"
     },
     "system-image": {
-      "codepoint": 57463,
+      "codepoint": 57562,
       "fontFamily": "EosIcons",
       "identifier": "systemImage"
     },
     "system-image-outlined": {
-      "codepoint": 57464,
+      "codepoint": 57563,
       "fontFamily": "EosIcons",
       "identifier": "systemImageOutlined"
     },
     "system-ok": {
-      "codepoint": 57465,
+      "codepoint": 57564,
       "fontFamily": "EosIcons",
       "identifier": "systemOk"
     },
     "system-ok-outlined": {
-      "codepoint": 57466,
+      "codepoint": 57565,
       "fontFamily": "EosIcons",
       "identifier": "systemOkOutlined"
     },
     "system-re-registered": {
-      "codepoint": 57467,
+      "codepoint": 57566,
       "fontFamily": "EosIcons",
       "identifier": "systemReRegistered"
     },
     "system-warning": {
-      "codepoint": 57468,
+      "codepoint": 57567,
       "fontFamily": "EosIcons",
       "identifier": "systemWarning"
     },
     "templates": {
-      "codepoint": 57469,
+      "codepoint": 57568,
       "fontFamily": "EosIcons",
       "identifier": "templates"
     },
     "templates-outlined": {
-      "codepoint": 57470,
+      "codepoint": 57569,
       "fontFamily": "EosIcons",
       "identifier": "templatesOutlined"
     },
     "terminal": {
-      "codepoint": 57471,
+      "codepoint": 57570,
       "fontFamily": "EosIcons",
       "identifier": "terminal"
     },
     "terminal-outlined": {
-      "codepoint": 57472,
+      "codepoint": 57571,
       "fontFamily": "EosIcons",
       "identifier": "terminalOutlined"
     },
     "test-tube": {
-      "codepoint": 57473,
+      "codepoint": 57572,
       "fontFamily": "EosIcons",
       "identifier": "testTube"
     },
+    "timeout": {
+      "codepoint": 57573,
+      "fontFamily": "EosIcons",
+      "identifier": "timeout"
+    },
+    "troubleshooting": {
+      "codepoint": 57574,
+      "fontFamily": "EosIcons",
+      "identifier": "troubleshooting"
+    },
     "trusted-organization": {
-      "codepoint": 57474,
+      "codepoint": 57575,
       "fontFamily": "EosIcons",
       "identifier": "trustedOrganization"
     },
     "virtual-guest": {
-      "codepoint": 57475,
+      "codepoint": 57576,
       "fontFamily": "EosIcons",
       "identifier": "virtualGuest"
     },
+    "virtual-host-manager": {
+      "codepoint": 57577,
+      "fontFamily": "EosIcons",
+      "identifier": "virtualHostManager"
+    },
     "virtual-reality": {
-      "codepoint": 57476,
+      "codepoint": 57578,
       "fontFamily": "EosIcons",
       "identifier": "virtualReality"
     },
+    "virtual-reality-outlined": {
+      "codepoint": 57579,
+      "fontFamily": "EosIcons",
+      "identifier": "virtualRealityOutlined"
+    },
     "virtual-space": {
-      "codepoint": 57477,
+      "codepoint": 57580,
       "fontFamily": "EosIcons",
       "identifier": "virtualSpace"
     },
+    "volume": {
+      "codepoint": 57581,
+      "fontFamily": "EosIcons",
+      "identifier": "volume"
+    },
     "volume-binding": {
-      "codepoint": 57478,
+      "codepoint": 57582,
       "fontFamily": "EosIcons",
       "identifier": "volumeBinding"
     },
     "volume-binding-outlined": {
-      "codepoint": 57479,
+      "codepoint": 57583,
       "fontFamily": "EosIcons",
       "identifier": "volumeBindingOutlined"
     },
     "volume-outlined": {
-      "codepoint": 57480,
+      "codepoint": 57584,
       "fontFamily": "EosIcons",
       "identifier": "volumeOutlined"
     },
     "workload": {
-      "codepoint": 57481,
+      "codepoint": 57585,
       "fontFamily": "EosIcons",
       "identifier": "workload"
     }

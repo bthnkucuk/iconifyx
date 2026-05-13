@@ -1,6 +1,6 @@
 name: iconifyx_arcticons
 description: >-
-  Arcticons icons from Iconify, packaged for Flutter (7325 icons, CC BY-SA 4.0 license).
+  Arcticons icons from Iconify, packaged for Flutter (15004 icons, CC BY-SA 4.0 license).
 version: 0.1.0
 publish_to: 'none'
 
@@ -23,6 +23,12 @@ flutter:
     - family: Arcticons_2
       fonts:
         - asset: assets/fonts/Arcticons_2.ttf
+    - family: Arcticons_2Secondary
+      fonts:
+        - asset: assets/fonts/Arcticons_2Secondary.ttf
+    - family: Arcticons_3
+      fonts:
+        - asset: assets/fonts/Arcticons_3.ttf
     - family: ArcticonsSecondary
       fonts:
         - asset: assets/fonts/ArcticonsSecondary.ttf

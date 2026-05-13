@@ -16,17 +16,17 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 497
+    "total": 503
   },
   "fonts": [
     {
       "family": "Emojione",
-      "nextCodepoint": 57841,
-      "iconCount": 497
+      "nextCodepoint": 57847,
+      "iconCount": 503
     },
     {
       "family": "EmojioneSecondary",
-      "nextCodepoint": 57841,
+      "nextCodepoint": 57847,
       "iconCount": 3
     }
   ],
@@ -41,493 +41,493 @@
       "fontFamily": "Emojione",
       "identifier": "abButton"
     },
-    "anger-symbol": {
+    "airplane": {
       "codepoint": 57346,
+      "fontFamily": "Emojione",
+      "identifier": "airplane"
+    },
+    "anger-symbol": {
+      "codepoint": 57347,
       "fontFamily": "Emojione",
       "identifier": "angerSymbol"
     },
     "antenna-bars": {
-      "codepoint": 57347,
+      "codepoint": 57348,
       "fontFamily": "Emojione",
       "identifier": "antennaBars"
     },
     "anticlockwise-arrows-button": {
-      "codepoint": 57348,
+      "codepoint": 57349,
       "fontFamily": "Emojione",
       "identifier": "anticlockwiseArrowsButton"
     },
     "asterisk": {
-      "codepoint": 57349,
+      "codepoint": 57350,
       "fontFamily": "Emojione",
       "identifier": "asterisk"
     },
     "atom-symbol": {
-      "codepoint": 57350,
+      "codepoint": 57351,
       "fontFamily": "Emojione",
       "identifier": "atomSymbol"
     },
     "b-button": {
-      "codepoint": 57351,
+      "codepoint": 57352,
       "fontFamily": "Emojione",
       "identifier": "bButton"
     },
     "baggage-claim": {
-      "codepoint": 57352,
+      "codepoint": 57353,
       "fontFamily": "Emojione",
       "identifier": "baggageClaim"
     },
     "ballot-box-with-check": {
-      "codepoint": 57353,
+      "codepoint": 57354,
       "fontFamily": "Emojione",
       "identifier": "ballotBoxWithCheck"
     },
     "baseball": {
-      "codepoint": 57354,
+      "codepoint": 57355,
       "fontFamily": "Emojione",
       "identifier": "baseball"
     },
     "bathtub": {
-      "codepoint": 57355,
+      "codepoint": 57356,
       "fontFamily": "Emojione",
       "identifier": "bathtub",
       "duotone": true
     },
     "beating-heart": {
-      "codepoint": 57356,
+      "codepoint": 57357,
       "fontFamily": "Emojione",
       "identifier": "beatingHeart"
     },
     "beer-mug": {
-      "codepoint": 57357,
+      "codepoint": 57358,
       "fontFamily": "Emojione",
       "identifier": "beerMug"
     },
     "black-circle": {
-      "codepoint": 57358,
+      "codepoint": 57359,
       "fontFamily": "Emojione",
       "identifier": "blackCircle"
     },
     "black-heart": {
-      "codepoint": 57359,
+      "codepoint": 57360,
       "fontFamily": "Emojione",
       "identifier": "blackHeart"
     },
     "blue-circle": {
-      "codepoint": 57360,
+      "codepoint": 57361,
       "fontFamily": "Emojione",
       "identifier": "blueCircle"
     },
     "blue-heart": {
-      "codepoint": 57361,
+      "codepoint": 57362,
       "fontFamily": "Emojione",
       "identifier": "blueHeart"
     },
     "broken-heart": {
-      "codepoint": 57362,
+      "codepoint": 57363,
       "fontFamily": "Emojione",
       "identifier": "brokenHeart"
     },
     "bug": {
-      "codepoint": 57363,
+      "codepoint": 57364,
       "fontFamily": "Emojione",
       "identifier": "bug"
     },
     "building-construction": {
-      "codepoint": 57364,
+      "codepoint": 57365,
       "fontFamily": "Emojione",
       "identifier": "buildingConstruction"
     },
     "bust-in-silhouette": {
-      "codepoint": 57365,
+      "codepoint": 57366,
       "fontFamily": "Emojione",
       "identifier": "bustInSilhouette"
     },
     "busts-in-silhouette": {
-      "codepoint": 57366,
+      "codepoint": 57367,
       "fontFamily": "Emojione",
       "identifier": "bustsInSilhouette"
     },
     "cancer": {
-      "codepoint": 57367,
+      "codepoint": 57368,
       "fontFamily": "Emojione",
       "identifier": "cancer"
     },
     "chart-decreasing": {
-      "codepoint": 57368,
+      "codepoint": 57369,
       "fontFamily": "Emojione",
       "identifier": "chartDecreasing"
     },
     "chart-increasing": {
-      "codepoint": 57369,
+      "codepoint": 57370,
       "fontFamily": "Emojione",
       "identifier": "chartIncreasing"
     },
     "chart-increasing-with-yen": {
-      "codepoint": 57370,
+      "codepoint": 57371,
       "fontFamily": "Emojione",
       "identifier": "chartIncreasingWithYen"
     },
     "check-box-with-check": {
-      "codepoint": 57371,
+      "codepoint": 57372,
       "fontFamily": "Emojione",
       "identifier": "checkBoxWithCheck"
     },
     "check-mark-button": {
-      "codepoint": 57372,
+      "codepoint": 57373,
       "fontFamily": "Emojione",
       "identifier": "checkMarkButton"
     },
     "chicken": {
-      "codepoint": 57373,
+      "codepoint": 57374,
       "fontFamily": "Emojione",
       "identifier": "chicken"
     },
     "children-crossing": {
-      "codepoint": 57374,
+      "codepoint": 57375,
       "fontFamily": "Emojione",
       "identifier": "childrenCrossing"
     },
     "cinema": {
-      "codepoint": 57375,
+      "codepoint": 57376,
       "fontFamily": "Emojione",
       "identifier": "cinema"
     },
     "circled-m": {
-      "codepoint": 57376,
+      "codepoint": 57377,
       "fontFamily": "Emojione",
       "identifier": "circledM"
     },
     "cl-button": {
-      "codepoint": 57377,
+      "codepoint": 57378,
       "fontFamily": "Emojione",
       "identifier": "clButton"
     },
     "clinking-beer-mugs": {
-      "codepoint": 57378,
+      "codepoint": 57379,
       "fontFamily": "Emojione",
       "identifier": "clinkingBeerMugs"
     },
     "clinking-glasses": {
-      "codepoint": 57379,
+      "codepoint": 57380,
       "fontFamily": "Emojione",
       "identifier": "clinkingGlasses"
     },
     "cloud": {
-      "codepoint": 57380,
+      "codepoint": 57381,
       "fontFamily": "Emojione",
       "identifier": "cloud"
     },
     "cloud-with-lightning": {
-      "codepoint": 57381,
+      "codepoint": 57382,
       "fontFamily": "Emojione",
       "identifier": "cloudWithLightning"
     },
     "cloud-with-lightning-and-rain": {
-      "codepoint": 57382,
+      "codepoint": 57383,
       "fontFamily": "Emojione",
       "identifier": "cloudWithLightningAndRain"
     },
     "cloud-with-rain": {
-      "codepoint": 57383,
+      "codepoint": 57384,
       "fontFamily": "Emojione",
       "identifier": "cloudWithRain"
     },
     "cloud-with-snow": {
-      "codepoint": 57384,
+      "codepoint": 57385,
       "fontFamily": "Emojione",
       "identifier": "cloudWithSnow"
     },
     "cocktail-glass": {
-      "codepoint": 57385,
+      "codepoint": 57386,
       "fontFamily": "Emojione",
       "identifier": "cocktailGlass",
       "duotone": true
     },
     "computer-disk": {
-      "codepoint": 57386,
+      "codepoint": 57387,
       "fontFamily": "Emojione",
       "identifier": "computerDisk"
     },
     "cooking": {
-      "codepoint": 57387,
+      "codepoint": 57388,
       "fontFamily": "Emojione",
       "identifier": "cooking"
     },
     "cool-button": {
-      "codepoint": 57388,
+      "codepoint": 57389,
       "fontFamily": "Emojione",
       "identifier": "coolButton"
     },
     "counterclockwise-arrows-button": {
-      "codepoint": 57389,
+      "codepoint": 57390,
       "fontFamily": "Emojione",
       "identifier": "counterclockwiseArrowsButton"
     },
     "crayon": {
-      "codepoint": 57390,
+      "codepoint": 57391,
       "fontFamily": "Emojione",
       "identifier": "crayon"
     },
     "crescent-moon": {
-      "codepoint": 57391,
+      "codepoint": 57392,
       "fontFamily": "Emojione",
       "identifier": "crescentMoon"
     },
     "cross-mark": {
-      "codepoint": 57392,
+      "codepoint": 57393,
       "fontFamily": "Emojione",
       "identifier": "crossMark"
     },
     "cross-mark-button": {
-      "codepoint": 57393,
+      "codepoint": 57394,
       "fontFamily": "Emojione",
       "identifier": "crossMarkButton"
     },
     "customs": {
-      "codepoint": 57394,
+      "codepoint": 57395,
       "fontFamily": "Emojione",
       "identifier": "customs"
     },
     "cyclone": {
-      "codepoint": 57395,
+      "codepoint": 57396,
       "fontFamily": "Emojione",
       "identifier": "cyclone"
     },
     "dango": {
-      "codepoint": 57396,
+      "codepoint": 57397,
       "fontFamily": "Emojione",
       "identifier": "dango"
     },
     "dashing-away": {
-      "codepoint": 57397,
+      "codepoint": 57398,
       "fontFamily": "Emojione",
       "identifier": "dashingAway"
     },
     "diamond-suit": {
-      "codepoint": 57398,
+      "codepoint": 57399,
       "fontFamily": "Emojione",
       "identifier": "diamondSuit"
     },
     "digit-eight": {
-      "codepoint": 57399,
+      "codepoint": 57400,
       "fontFamily": "Emojione",
       "identifier": "digitEight"
     },
     "digit-five": {
-      "codepoint": 57400,
+      "codepoint": 57401,
       "fontFamily": "Emojione",
       "identifier": "digitFive"
     },
     "digit-four": {
-      "codepoint": 57401,
+      "codepoint": 57402,
       "fontFamily": "Emojione",
       "identifier": "digitFour"
     },
     "digit-nine": {
-      "codepoint": 57402,
+      "codepoint": 57403,
       "fontFamily": "Emojione",
       "identifier": "digitNine"
     },
     "digit-one": {
-      "codepoint": 57403,
+      "codepoint": 57404,
       "fontFamily": "Emojione",
       "identifier": "digitOne"
     },
     "digit-seven": {
-      "codepoint": 57404,
+      "codepoint": 57405,
       "fontFamily": "Emojione",
       "identifier": "digitSeven"
     },
     "digit-six": {
-      "codepoint": 57405,
+      "codepoint": 57406,
       "fontFamily": "Emojione",
       "identifier": "digitSix"
     },
     "digit-three": {
-      "codepoint": 57406,
+      "codepoint": 57407,
       "fontFamily": "Emojione",
       "identifier": "digitThree"
     },
     "digit-two": {
-      "codepoint": 57407,
+      "codepoint": 57408,
       "fontFamily": "Emojione",
       "identifier": "digitTwo"
     },
     "digit-zero": {
-      "codepoint": 57408,
+      "codepoint": 57409,
       "fontFamily": "Emojione",
       "identifier": "digitZero"
     },
     "dizzy": {
-      "codepoint": 57409,
+      "codepoint": 57410,
       "fontFamily": "Emojione",
       "identifier": "dizzy"
     },
     "dotted-six-pointed-star": {
-      "codepoint": 57410,
+      "codepoint": 57411,
       "fontFamily": "Emojione",
       "identifier": "dottedSixPointedStar"
     },
     "double-curly-loop": {
-      "codepoint": 57411,
+      "codepoint": 57412,
       "fontFamily": "Emojione",
       "identifier": "doubleCurlyLoop"
     },
     "double-exclamation-mark": {
-      "codepoint": 57412,
+      "codepoint": 57413,
       "fontFamily": "Emojione",
       "identifier": "doubleExclamationMark"
     },
     "down-arrow": {
-      "codepoint": 57413,
+      "codepoint": 57414,
       "fontFamily": "Emojione",
       "identifier": "downArrow"
     },
     "down-button": {
-      "codepoint": 57414,
+      "codepoint": 57415,
       "fontFamily": "Emojione",
       "identifier": "downButton"
     },
     "down-left-arrow": {
-      "codepoint": 57415,
+      "codepoint": 57416,
       "fontFamily": "Emojione",
       "identifier": "downLeftArrow"
     },
     "down-right-arrow": {
-      "codepoint": 57416,
+      "codepoint": 57417,
       "fontFamily": "Emojione",
       "identifier": "downRightArrow"
     },
     "downwards-button": {
-      "codepoint": 57417,
+      "codepoint": 57418,
       "fontFamily": "Emojione",
       "identifier": "downwardsButton"
     },
     "droplet": {
-      "codepoint": 57418,
+      "codepoint": 57419,
       "fontFamily": "Emojione",
       "identifier": "droplet"
     },
     "egg": {
-      "codepoint": 57419,
+      "codepoint": 57420,
       "fontFamily": "Emojione",
       "identifier": "egg",
       "duotone": true
     },
     "eight-spoked-asterisk": {
-      "codepoint": 57420,
+      "codepoint": 57421,
       "fontFamily": "Emojione",
       "identifier": "eightSpokedAsterisk"
     },
     "eject-button": {
-      "codepoint": 57421,
+      "codepoint": 57422,
       "fontFamily": "Emojione",
       "identifier": "ejectButton"
     },
     "electric-plug": {
-      "codepoint": 57422,
+      "codepoint": 57423,
       "fontFamily": "Emojione",
       "identifier": "electricPlug"
     },
     "envelope": {
-      "codepoint": 57423,
+      "codepoint": 57424,
       "fontFamily": "Emojione",
       "identifier": "envelope"
     },
     "envelope-with-arrow": {
-      "codepoint": 57424,
+      "codepoint": 57425,
       "fontFamily": "Emojione",
       "identifier": "envelopeWithArrow"
     },
     "ewe": {
-      "codepoint": 57425,
+      "codepoint": 57426,
       "fontFamily": "Emojione",
       "identifier": "ewe"
     },
     "exclamation-mark": {
-      "codepoint": 57426,
+      "codepoint": 57427,
       "fontFamily": "Emojione",
       "identifier": "exclamationMark"
     },
     "exclamation-question-mark": {
-      "codepoint": 57427,
+      "codepoint": 57428,
       "fontFamily": "Emojione",
       "identifier": "exclamationQuestionMark"
     },
     "eye": {
-      "codepoint": 57428,
+      "codepoint": 57429,
       "fontFamily": "Emojione",
       "identifier": "eye"
     },
     "eye-in-speech-bubble": {
-      "codepoint": 57429,
+      "codepoint": 57430,
       "fontFamily": "Emojione",
       "identifier": "eyeInSpeechBubble"
     },
     "fast-down-button": {
-      "codepoint": 57430,
+      "codepoint": 57431,
       "fontFamily": "Emojione",
       "identifier": "fastDownButton"
     },
     "fast-forward-button": {
-      "codepoint": 57431,
+      "codepoint": 57432,
       "fontFamily": "Emojione",
       "identifier": "fastForwardButton"
     },
     "fast-reverse-button": {
-      "codepoint": 57432,
+      "codepoint": 57433,
       "fontFamily": "Emojione",
       "identifier": "fastReverseButton"
     },
     "fast-up-button": {
-      "codepoint": 57433,
+      "codepoint": 57434,
       "fontFamily": "Emojione",
       "identifier": "fastUpButton"
     },
     "film-frames": {
-      "codepoint": 57434,
+      "codepoint": 57435,
       "fontFamily": "Emojione",
       "identifier": "filmFrames"
     },
     "fire": {
-      "codepoint": 57435,
+      "codepoint": 57436,
       "fontFamily": "Emojione",
       "identifier": "fire"
     },
     "fireworks": {
-      "codepoint": 57436,
+      "codepoint": 57437,
       "fontFamily": "Emojione",
       "identifier": "fireworks"
     },
     "fish-cake-with-swirl": {
-      "codepoint": 57437,
+      "codepoint": 57438,
       "fontFamily": "Emojione",
       "identifier": "fishCakeWithSwirl"
     },
     "flag-for-aland-islands": {
-      "codepoint": 57438,
+      "codepoint": 57439,
       "fontFamily": "Emojione",
       "identifier": "flagForAlandIslands"
     },
     "flag-for-albania": {
-      "codepoint": 57439,
+      "codepoint": 57440,
       "fontFamily": "Emojione",
       "identifier": "flagForAlbania"
     },
     "flag-for-angola": {
-      "codepoint": 57440,
+      "codepoint": 57441,
       "fontFamily": "Emojione",
       "identifier": "flagForAngola"
     },
     "flag-for-antarctica": {
-      "codepoint": 57441,
-      "fontFamily": "Emojione",
-      "identifier": "flagForAntarctica"
-    },
-    "flag-for-antigua-and-barbuda": {
       "codepoint": 57442,
       "fontFamily": "Emojione",
-      "identifier": "flagForAntiguaAndBarbuda"
+      "identifier": "flagForAntarctica"
     },
     "flag-for-armenia": {
       "codepoint": 57443,
@@ -709,195 +709,195 @@
       "fontFamily": "Emojione",
       "identifier": "flagForFlagAntarctica"
     },
-    "flag-for-flag-antigua-and-barbuda": {
-      "codepoint": 57479,
-      "fontFamily": "Emojione",
-      "identifier": "flagForFlagAntiguaAndBarbuda"
-    },
     "flag-for-flag-armenia": {
-      "codepoint": 57480,
+      "codepoint": 57479,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagArmenia"
     },
     "flag-for-flag-australia": {
-      "codepoint": 57481,
+      "codepoint": 57480,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagAustralia"
     },
     "flag-for-flag-austria": {
-      "codepoint": 57482,
+      "codepoint": 57481,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagAustria"
     },
     "flag-for-flag-bahamas": {
-      "codepoint": 57483,
+      "codepoint": 57482,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagBahamas"
     },
     "flag-for-flag-barbados": {
-      "codepoint": 57484,
+      "codepoint": 57483,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagBarbados"
     },
     "flag-for-flag-belgium": {
-      "codepoint": 57485,
+      "codepoint": 57484,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagBelgium"
     },
     "flag-for-flag-benin": {
-      "codepoint": 57486,
+      "codepoint": 57485,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagBenin"
     },
     "flag-for-flag-bhutan": {
-      "codepoint": 57487,
+      "codepoint": 57486,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagBhutan"
     },
     "flag-for-flag-bosnia-and-herzegovina": {
-      "codepoint": 57488,
+      "codepoint": 57487,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagBosniaAndHerzegovina"
     },
     "flag-for-flag-botswana": {
-      "codepoint": 57489,
+      "codepoint": 57488,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagBotswana"
     },
     "flag-for-flag-bouvet-island": {
-      "codepoint": 57490,
+      "codepoint": 57489,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagBouvetIsland"
     },
     "flag-for-flag-brunei": {
-      "codepoint": 57491,
+      "codepoint": 57490,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagBrunei"
     },
     "flag-for-flag-bulgaria": {
-      "codepoint": 57492,
+      "codepoint": 57491,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagBulgaria"
     },
     "flag-for-flag-burkina-faso": {
-      "codepoint": 57493,
+      "codepoint": 57492,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagBurkinaFaso"
     },
     "flag-for-flag-burundi": {
-      "codepoint": 57494,
+      "codepoint": 57493,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagBurundi"
     },
     "flag-for-flag-cambodia": {
-      "codepoint": 57495,
+      "codepoint": 57494,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagCambodia"
     },
     "flag-for-flag-canada": {
-      "codepoint": 57496,
+      "codepoint": 57495,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagCanada"
     },
     "flag-for-flag-canary-islands": {
-      "codepoint": 57497,
+      "codepoint": 57496,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagCanaryIslands"
     },
     "flag-for-flag-cape-verde": {
-      "codepoint": 57498,
+      "codepoint": 57497,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagCapeVerde"
     },
     "flag-for-flag-caribbean-netherlands": {
-      "codepoint": 57499,
+      "codepoint": 57498,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagCaribbeanNetherlands"
     },
     "flag-for-flag-cayman-islands": {
-      "codepoint": 57500,
+      "codepoint": 57499,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagCaymanIslands"
     },
     "flag-for-flag-chad": {
-      "codepoint": 57501,
+      "codepoint": 57500,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagChad"
     },
     "flag-for-flag-chile": {
-      "codepoint": 57502,
+      "codepoint": 57501,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagChile"
     },
     "flag-for-flag-china": {
-      "codepoint": 57503,
+      "codepoint": 57502,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagChina"
     },
     "flag-for-flag-colombia": {
-      "codepoint": 57504,
+      "codepoint": 57503,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagColombia"
     },
     "flag-for-flag-cook-islands": {
-      "codepoint": 57505,
+      "codepoint": 57504,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagCookIslands"
     },
     "flag-for-flag-cote-divoire": {
-      "codepoint": 57506,
+      "codepoint": 57505,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagCoteDivoire"
     },
     "flag-for-flag-curacao": {
-      "codepoint": 57507,
+      "codepoint": 57506,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagCuracao"
     },
     "flag-for-flag-denmark": {
-      "codepoint": 57508,
+      "codepoint": 57507,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagDenmark"
     },
     "flag-for-flag-eritrea": {
-      "codepoint": 57509,
+      "codepoint": 57508,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagEritrea"
     },
     "flag-for-flag-estonia": {
-      "codepoint": 57510,
+      "codepoint": 57509,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagEstonia"
     },
     "flag-for-flag-european-union": {
-      "codepoint": 57511,
+      "codepoint": 57510,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagEuropeanUnion"
     },
     "flag-for-flag-french-polynesia": {
-      "codepoint": 57512,
+      "codepoint": 57511,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagFrenchPolynesia"
     },
     "flag-for-flag-french-southern-territories": {
-      "codepoint": 57513,
+      "codepoint": 57512,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagFrenchSouthernTerritories"
     },
     "flag-for-flag-georgia": {
-      "codepoint": 57514,
+      "codepoint": 57513,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagGeorgia"
     },
     "flag-for-flag-germany": {
-      "codepoint": 57515,
+      "codepoint": 57514,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagGermany"
     },
     "flag-for-flag-gibraltar": {
-      "codepoint": 57516,
+      "codepoint": 57515,
       "fontFamily": "Emojione",
       "identifier": "flagForFlagGibraltar"
+    },
+    "flag-for-flag-guadeloupe": {
+      "codepoint": 57516,
+      "fontFamily": "Emojione",
+      "identifier": "flagForFlagGuadeloupe"
     },
     "flag-for-flag-guernsey": {
       "codepoint": 57517,
@@ -1204,1318 +1204,1348 @@
       "fontFamily": "Emojione",
       "identifier": "flagForGibraltar"
     },
-    "flag-for-guernsey": {
+    "flag-for-guadeloupe": {
       "codepoint": 57578,
+      "fontFamily": "Emojione",
+      "identifier": "flagForGuadeloupe"
+    },
+    "flag-for-guernsey": {
+      "codepoint": 57579,
       "fontFamily": "Emojione",
       "identifier": "flagForGuernsey"
     },
     "flag-for-heard-and-mcdonald-islands": {
-      "codepoint": 57579,
+      "codepoint": 57580,
       "fontFamily": "Emojione",
       "identifier": "flagForHeardAndMcdonaldIslands"
     },
     "flag-for-honduras": {
-      "codepoint": 57580,
+      "codepoint": 57581,
       "fontFamily": "Emojione",
       "identifier": "flagForHonduras"
     },
     "flag-for-hong-kong-sar-china": {
-      "codepoint": 57581,
+      "codepoint": 57582,
       "fontFamily": "Emojione",
       "identifier": "flagForHongKongSarChina"
     },
     "flag-for-hungary": {
-      "codepoint": 57582,
+      "codepoint": 57583,
       "fontFamily": "Emojione",
       "identifier": "flagForHungary"
     },
     "flag-for-iceland": {
-      "codepoint": 57583,
+      "codepoint": 57584,
       "fontFamily": "Emojione",
       "identifier": "flagForIceland"
     },
     "flag-for-indonesia": {
-      "codepoint": 57584,
+      "codepoint": 57585,
       "fontFamily": "Emojione",
       "identifier": "flagForIndonesia"
     },
     "flag-for-iran": {
-      "codepoint": 57585,
+      "codepoint": 57586,
       "fontFamily": "Emojione",
       "identifier": "flagForIran"
     },
     "flag-for-japan": {
-      "codepoint": 57586,
+      "codepoint": 57587,
       "fontFamily": "Emojione",
       "identifier": "flagForJapan"
     },
     "flag-for-jersey": {
-      "codepoint": 57587,
+      "codepoint": 57588,
       "fontFamily": "Emojione",
       "identifier": "flagForJersey"
     },
     "flag-for-kazakhstan": {
-      "codepoint": 57588,
+      "codepoint": 57589,
       "fontFamily": "Emojione",
       "identifier": "flagForKazakhstan"
     },
     "flag-for-kyrgyzstan": {
-      "codepoint": 57589,
+      "codepoint": 57590,
       "fontFamily": "Emojione",
       "identifier": "flagForKyrgyzstan"
     },
     "flag-for-laos": {
-      "codepoint": 57590,
+      "codepoint": 57591,
       "fontFamily": "Emojione",
       "identifier": "flagForLaos"
     },
     "flag-for-lebanon": {
-      "codepoint": 57591,
+      "codepoint": 57592,
       "fontFamily": "Emojione",
       "identifier": "flagForLebanon"
     },
     "flag-for-liberia": {
-      "codepoint": 57592,
+      "codepoint": 57593,
       "fontFamily": "Emojione",
       "identifier": "flagForLiberia"
     },
     "flag-for-liechtenstein": {
-      "codepoint": 57593,
+      "codepoint": 57594,
       "fontFamily": "Emojione",
       "identifier": "flagForLiechtenstein"
     },
     "flag-for-macau-sar-china": {
-      "codepoint": 57594,
+      "codepoint": 57595,
       "fontFamily": "Emojione",
       "identifier": "flagForMacauSarChina"
     },
     "flag-for-macedonia": {
-      "codepoint": 57595,
+      "codepoint": 57596,
       "fontFamily": "Emojione",
       "identifier": "flagForMacedonia"
     },
     "flag-for-malawi": {
-      "codepoint": 57596,
+      "codepoint": 57597,
       "fontFamily": "Emojione",
       "identifier": "flagForMalawi"
     },
     "flag-for-malaysia": {
-      "codepoint": 57597,
+      "codepoint": 57598,
       "fontFamily": "Emojione",
       "identifier": "flagForMalaysia"
     },
     "flag-for-martinique": {
-      "codepoint": 57598,
+      "codepoint": 57599,
       "fontFamily": "Emojione",
       "identifier": "flagForMartinique"
     },
     "flag-for-mayotte": {
-      "codepoint": 57599,
+      "codepoint": 57600,
       "fontFamily": "Emojione",
       "identifier": "flagForMayotte"
     },
     "flag-for-namibia": {
-      "codepoint": 57600,
+      "codepoint": 57601,
       "fontFamily": "Emojione",
       "identifier": "flagForNamibia"
     },
     "flag-for-nauru": {
-      "codepoint": 57601,
+      "codepoint": 57602,
       "fontFamily": "Emojione",
       "identifier": "flagForNauru"
     },
     "flag-for-new-caledonia": {
-      "codepoint": 57602,
+      "codepoint": 57603,
       "fontFamily": "Emojione",
       "identifier": "flagForNewCaledonia"
     },
     "flag-for-new-zealand": {
-      "codepoint": 57603,
+      "codepoint": 57604,
       "fontFamily": "Emojione",
       "identifier": "flagForNewZealand"
     },
     "flag-for-niger": {
-      "codepoint": 57604,
+      "codepoint": 57605,
       "fontFamily": "Emojione",
       "identifier": "flagForNiger"
     },
     "flag-for-nigeria": {
-      "codepoint": 57605,
+      "codepoint": 57606,
       "fontFamily": "Emojione",
       "identifier": "flagForNigeria"
     },
     "flag-for-north-korea": {
-      "codepoint": 57606,
+      "codepoint": 57607,
       "fontFamily": "Emojione",
       "identifier": "flagForNorthKorea"
     },
     "flag-for-palau": {
-      "codepoint": 57607,
+      "codepoint": 57608,
       "fontFamily": "Emojione",
       "identifier": "flagForPalau"
     },
     "flag-for-panama": {
-      "codepoint": 57608,
+      "codepoint": 57609,
       "fontFamily": "Emojione",
       "identifier": "flagForPanama"
     },
     "flag-for-peru": {
-      "codepoint": 57609,
+      "codepoint": 57610,
       "fontFamily": "Emojione",
       "identifier": "flagForPeru"
     },
     "flag-for-poland": {
-      "codepoint": 57610,
+      "codepoint": 57611,
       "fontFamily": "Emojione",
       "identifier": "flagForPoland"
     },
     "flag-for-samoa": {
-      "codepoint": 57611,
+      "codepoint": 57612,
       "fontFamily": "Emojione",
       "identifier": "flagForSamoa"
     },
     "flag-for-sao-tome-and-principe": {
-      "codepoint": 57612,
+      "codepoint": 57613,
       "fontFamily": "Emojione",
       "identifier": "flagForSaoTomeAndPrincipe"
     },
     "flag-for-singapore": {
-      "codepoint": 57613,
+      "codepoint": 57614,
       "fontFamily": "Emojione",
       "identifier": "flagForSingapore"
     },
     "flag-for-somalia": {
-      "codepoint": 57614,
+      "codepoint": 57615,
       "fontFamily": "Emojione",
       "identifier": "flagForSomalia"
     },
     "flag-for-st-barthelemy": {
-      "codepoint": 57615,
+      "codepoint": 57616,
       "fontFamily": "Emojione",
       "identifier": "flagForStBarthelemy"
     },
     "flag-for-st-lucia": {
-      "codepoint": 57616,
+      "codepoint": 57617,
       "fontFamily": "Emojione",
       "identifier": "flagForStLucia"
     },
     "flag-for-svalbard-and-jan-mayen": {
-      "codepoint": 57617,
+      "codepoint": 57618,
       "fontFamily": "Emojione",
       "identifier": "flagForSvalbardAndJanMayen"
     },
     "flag-for-switzerland": {
-      "codepoint": 57618,
+      "codepoint": 57619,
       "fontFamily": "Emojione",
       "identifier": "flagForSwitzerland"
     },
     "flag-for-thailand": {
-      "codepoint": 57619,
+      "codepoint": 57620,
       "fontFamily": "Emojione",
       "identifier": "flagForThailand"
     },
     "flag-for-timor-leste": {
-      "codepoint": 57620,
+      "codepoint": 57621,
       "fontFamily": "Emojione",
       "identifier": "flagForTimorLeste"
     },
     "flag-for-togo": {
-      "codepoint": 57621,
+      "codepoint": 57622,
       "fontFamily": "Emojione",
       "identifier": "flagForTogo"
     },
     "flag-for-tokelau": {
-      "codepoint": 57622,
+      "codepoint": 57623,
       "fontFamily": "Emojione",
       "identifier": "flagForTokelau"
     },
     "flag-for-trinidad-and-tobago": {
-      "codepoint": 57623,
+      "codepoint": 57624,
       "fontFamily": "Emojione",
       "identifier": "flagForTrinidadAndTobago"
     },
     "flag-for-tunisia": {
-      "codepoint": 57624,
+      "codepoint": 57625,
       "fontFamily": "Emojione",
       "identifier": "flagForTunisia"
     },
     "flag-for-turkey": {
-      "codepoint": 57625,
+      "codepoint": 57626,
       "fontFamily": "Emojione",
       "identifier": "flagForTurkey"
     },
     "flag-for-turkmenistan": {
-      "codepoint": 57626,
+      "codepoint": 57627,
       "fontFamily": "Emojione",
       "identifier": "flagForTurkmenistan"
     },
     "flag-for-tuvalu": {
-      "codepoint": 57627,
+      "codepoint": 57628,
       "fontFamily": "Emojione",
       "identifier": "flagForTuvalu"
     },
     "flag-for-united-kingdom": {
-      "codepoint": 57628,
+      "codepoint": 57629,
       "fontFamily": "Emojione",
       "identifier": "flagForUnitedKingdom"
     },
     "flag-for-vanuatu": {
-      "codepoint": 57629,
+      "codepoint": 57630,
       "fontFamily": "Emojione",
       "identifier": "flagForVanuatu"
     },
     "flag-for-venezuela": {
-      "codepoint": 57630,
+      "codepoint": 57631,
       "fontFamily": "Emojione",
       "identifier": "flagForVenezuela"
     },
     "flag-for-vietnam": {
-      "codepoint": 57631,
+      "codepoint": 57632,
       "fontFamily": "Emojione",
       "identifier": "flagForVietnam"
     },
     "flag-for-western-sahara": {
-      "codepoint": 57632,
+      "codepoint": 57633,
       "fontFamily": "Emojione",
       "identifier": "flagForWesternSahara"
     },
+    "flag-scotland": {
+      "codepoint": 57634,
+      "fontFamily": "Emojione",
+      "identifier": "flagScotland"
+    },
     "footprints": {
-      "codepoint": 57633,
+      "codepoint": 57635,
       "fontFamily": "Emojione",
       "identifier": "footprints"
     },
     "fork-and-knife-with-plate": {
-      "codepoint": 57634,
+      "codepoint": 57636,
       "fontFamily": "Emojione",
       "identifier": "forkAndKnifeWithPlate"
     },
     "free-button": {
-      "codepoint": 57635,
+      "codepoint": 57637,
       "fontFamily": "Emojione",
       "identifier": "freeButton"
     },
     "fried-shrimp": {
-      "codepoint": 57636,
+      "codepoint": 57638,
       "fontFamily": "Emojione",
       "identifier": "friedShrimp"
     },
     "full-moon": {
-      "codepoint": 57637,
+      "codepoint": 57639,
       "fontFamily": "Emojione",
       "identifier": "fullMoon"
     },
     "funeral-urn": {
-      "codepoint": 57638,
+      "codepoint": 57640,
       "fontFamily": "Emojione",
       "identifier": "funeralUrn"
     },
     "glasses": {
-      "codepoint": 57639,
+      "codepoint": 57641,
       "fontFamily": "Emojione",
       "identifier": "glasses"
     },
     "globe-with-meridians": {
-      "codepoint": 57640,
+      "codepoint": 57642,
       "fontFamily": "Emojione",
       "identifier": "globeWithMeridians"
     },
     "glowing-star": {
-      "codepoint": 57641,
+      "codepoint": 57643,
       "fontFamily": "Emojione",
       "identifier": "glowingStar"
     },
     "green-heart": {
-      "codepoint": 57642,
+      "codepoint": 57644,
       "fontFamily": "Emojione",
       "identifier": "greenHeart"
     },
     "growing-heart": {
-      "codepoint": 57643,
+      "codepoint": 57645,
       "fontFamily": "Emojione",
       "identifier": "growingHeart"
     },
     "heart-decoration": {
-      "codepoint": 57644,
+      "codepoint": 57646,
       "fontFamily": "Emojione",
       "identifier": "heartDecoration"
     },
     "heart-suit": {
-      "codepoint": 57645,
+      "codepoint": 57647,
       "fontFamily": "Emojione",
       "identifier": "heartSuit"
     },
     "heart-with-ribbon": {
-      "codepoint": 57646,
+      "codepoint": 57648,
       "fontFamily": "Emojione",
       "identifier": "heartWithRibbon"
     },
     "heavy-heart-exclamation": {
-      "codepoint": 57647,
+      "codepoint": 57649,
       "fontFamily": "Emojione",
       "identifier": "heavyHeartExclamation"
     },
     "heavy-large-circle": {
-      "codepoint": 57648,
+      "codepoint": 57650,
       "fontFamily": "Emojione",
       "identifier": "heavyLargeCircle"
     },
     "high-voltage": {
-      "codepoint": 57649,
+      "codepoint": 57651,
       "fontFamily": "Emojione",
       "identifier": "highVoltage"
     },
     "hollow-red-circle": {
-      "codepoint": 57650,
+      "codepoint": 57652,
       "fontFamily": "Emojione",
       "identifier": "hollowRedCircle"
     },
     "hot-springs": {
-      "codepoint": 57651,
+      "codepoint": 57653,
       "fontFamily": "Emojione",
       "identifier": "hotSprings"
     },
     "hundred-points": {
-      "codepoint": 57652,
+      "codepoint": 57654,
       "fontFamily": "Emojione",
       "identifier": "hundredPoints"
     },
     "id-button": {
-      "codepoint": 57653,
+      "codepoint": 57655,
       "fontFamily": "Emojione",
       "identifier": "idButton"
     },
     "incoming-envelope": {
-      "codepoint": 57654,
+      "codepoint": 57656,
       "fontFamily": "Emojione",
       "identifier": "incomingEnvelope"
     },
     "information": {
-      "codepoint": 57655,
+      "codepoint": 57657,
       "fontFamily": "Emojione",
       "identifier": "information"
     },
     "input-latin-letters": {
-      "codepoint": 57656,
+      "codepoint": 57658,
       "fontFamily": "Emojione",
       "identifier": "inputLatinLetters"
     },
     "input-latin-lowercase": {
-      "codepoint": 57657,
+      "codepoint": 57659,
       "fontFamily": "Emojione",
       "identifier": "inputLatinLowercase"
     },
     "input-latin-uppercase": {
-      "codepoint": 57658,
+      "codepoint": 57660,
       "fontFamily": "Emojione",
       "identifier": "inputLatinUppercase"
     },
     "input-numbers": {
-      "codepoint": 57659,
+      "codepoint": 57661,
       "fontFamily": "Emojione",
       "identifier": "inputNumbers"
     },
     "input-symbols": {
-      "codepoint": 57660,
+      "codepoint": 57662,
       "fontFamily": "Emojione",
       "identifier": "inputSymbols"
     },
     "japanese-bargain-button": {
-      "codepoint": 57661,
+      "codepoint": 57663,
       "fontFamily": "Emojione",
       "identifier": "japaneseBargainButton"
     },
     "japanese-congratulations-button": {
-      "codepoint": 57662,
+      "codepoint": 57664,
       "fontFamily": "Emojione",
       "identifier": "japaneseCongratulationsButton"
     },
     "japanese-discount-button": {
-      "codepoint": 57663,
+      "codepoint": 57665,
       "fontFamily": "Emojione",
       "identifier": "japaneseDiscountButton"
     },
     "japanese-here-button": {
-      "codepoint": 57664,
+      "codepoint": 57666,
       "fontFamily": "Emojione",
       "identifier": "japaneseHereButton"
     },
     "japanese-no-vacancy-button": {
-      "codepoint": 57665,
+      "codepoint": 57667,
       "fontFamily": "Emojione",
       "identifier": "japaneseNoVacancyButton"
     },
     "japanese-passing-grade-button": {
-      "codepoint": 57666,
+      "codepoint": 57668,
       "fontFamily": "Emojione",
       "identifier": "japanesePassingGradeButton"
     },
     "japanese-prohibited-button": {
-      "codepoint": 57667,
+      "codepoint": 57669,
       "fontFamily": "Emojione",
       "identifier": "japaneseProhibitedButton"
     },
     "japanese-reserved-button": {
-      "codepoint": 57668,
+      "codepoint": 57670,
       "fontFamily": "Emojione",
       "identifier": "japaneseReservedButton"
     },
     "japanese-secret-button": {
-      "codepoint": 57669,
+      "codepoint": 57671,
       "fontFamily": "Emojione",
       "identifier": "japaneseSecretButton"
     },
     "japanese-service-charge-button": {
-      "codepoint": 57670,
+      "codepoint": 57672,
       "fontFamily": "Emojione",
       "identifier": "japaneseServiceChargeButton"
     },
     "japanese-symbol-for-beginner": {
-      "codepoint": 57671,
+      "codepoint": 57673,
       "fontFamily": "Emojione",
       "identifier": "japaneseSymbolForBeginner"
     },
     "japanese-vacancy-button": {
-      "codepoint": 57672,
+      "codepoint": 57674,
       "fontFamily": "Emojione",
       "identifier": "japaneseVacancyButton"
     },
     "keycap-0": {
-      "codepoint": 57673,
+      "codepoint": 57675,
       "fontFamily": "Emojione",
       "identifier": "keycap0"
     },
     "keycap-1": {
-      "codepoint": 57674,
+      "codepoint": 57676,
       "fontFamily": "Emojione",
       "identifier": "keycap1"
     },
     "keycap-10": {
-      "codepoint": 57675,
+      "codepoint": 57677,
       "fontFamily": "Emojione",
       "identifier": "keycap10"
     },
     "keycap-2": {
-      "codepoint": 57676,
+      "codepoint": 57678,
       "fontFamily": "Emojione",
       "identifier": "keycap2"
     },
     "keycap-3": {
-      "codepoint": 57677,
+      "codepoint": 57679,
       "fontFamily": "Emojione",
       "identifier": "keycap3"
     },
     "keycap-4": {
-      "codepoint": 57678,
+      "codepoint": 57680,
       "fontFamily": "Emojione",
       "identifier": "keycap4"
     },
     "keycap-5": {
-      "codepoint": 57679,
+      "codepoint": 57681,
       "fontFamily": "Emojione",
       "identifier": "keycap5"
     },
     "keycap-6": {
-      "codepoint": 57680,
+      "codepoint": 57682,
       "fontFamily": "Emojione",
       "identifier": "keycap6"
     },
     "keycap-7": {
-      "codepoint": 57681,
+      "codepoint": 57683,
       "fontFamily": "Emojione",
       "identifier": "keycap7"
     },
     "keycap-8": {
-      "codepoint": 57682,
+      "codepoint": 57684,
       "fontFamily": "Emojione",
       "identifier": "keycap8"
     },
     "keycap-9": {
-      "codepoint": 57683,
+      "codepoint": 57685,
       "fontFamily": "Emojione",
       "identifier": "keycap9"
     },
     "keycap-asterisk": {
-      "codepoint": 57684,
+      "codepoint": 57686,
       "fontFamily": "Emojione",
       "identifier": "keycapAsterisk"
     },
     "keycap-pound": {
-      "codepoint": 57685,
+      "codepoint": 57687,
       "fontFamily": "Emojione",
       "identifier": "keycapPound"
     },
     "large-blue-diamond": {
-      "codepoint": 57686,
+      "codepoint": 57688,
       "fontFamily": "Emojione",
       "identifier": "largeBlueDiamond"
     },
     "large-orange-diamond": {
-      "codepoint": 57687,
+      "codepoint": 57689,
       "fontFamily": "Emojione",
       "identifier": "largeOrangeDiamond"
     },
     "last-track-button": {
-      "codepoint": 57688,
+      "codepoint": 57690,
       "fontFamily": "Emojione",
       "identifier": "lastTrackButton"
     },
     "latin-cross": {
-      "codepoint": 57689,
+      "codepoint": 57691,
       "fontFamily": "Emojione",
       "identifier": "latinCross"
     },
     "left-arrow": {
-      "codepoint": 57690,
+      "codepoint": 57692,
       "fontFamily": "Emojione",
       "identifier": "leftArrow"
     },
     "left-arrow-curving-right": {
-      "codepoint": 57691,
+      "codepoint": 57693,
       "fontFamily": "Emojione",
       "identifier": "leftArrowCurvingRight"
     },
     "left-luggage": {
-      "codepoint": 57692,
+      "codepoint": 57694,
       "fontFamily": "Emojione",
       "identifier": "leftLuggage"
     },
     "left-right-arrow": {
-      "codepoint": 57693,
+      "codepoint": 57695,
       "fontFamily": "Emojione",
       "identifier": "leftRightArrow"
     },
     "left-speech-bubble": {
-      "codepoint": 57694,
+      "codepoint": 57696,
       "fontFamily": "Emojione",
       "identifier": "leftSpeechBubble"
     },
     "leo": {
-      "codepoint": 57695,
+      "codepoint": 57697,
       "fontFamily": "Emojione",
       "identifier": "leo"
     },
     "letter-a": {
-      "codepoint": 57696,
+      "codepoint": 57698,
       "fontFamily": "Emojione",
       "identifier": "letterA"
     },
     "letter-b": {
-      "codepoint": 57697,
+      "codepoint": 57699,
       "fontFamily": "Emojione",
       "identifier": "letterB"
     },
     "letter-c": {
-      "codepoint": 57698,
+      "codepoint": 57700,
       "fontFamily": "Emojione",
       "identifier": "letterC"
     },
     "letter-d": {
-      "codepoint": 57699,
+      "codepoint": 57701,
       "fontFamily": "Emojione",
       "identifier": "letterD"
     },
     "letter-e": {
-      "codepoint": 57700,
+      "codepoint": 57702,
       "fontFamily": "Emojione",
       "identifier": "letterE"
     },
     "letter-f": {
-      "codepoint": 57701,
+      "codepoint": 57703,
       "fontFamily": "Emojione",
       "identifier": "letterF"
     },
     "letter-g": {
-      "codepoint": 57702,
+      "codepoint": 57704,
       "fontFamily": "Emojione",
       "identifier": "letterG"
     },
     "letter-h": {
-      "codepoint": 57703,
+      "codepoint": 57705,
       "fontFamily": "Emojione",
       "identifier": "letterH"
     },
     "letter-i": {
-      "codepoint": 57704,
+      "codepoint": 57706,
       "fontFamily": "Emojione",
       "identifier": "letterI"
     },
     "letter-j": {
-      "codepoint": 57705,
+      "codepoint": 57707,
       "fontFamily": "Emojione",
       "identifier": "letterJ"
     },
     "letter-k": {
-      "codepoint": 57706,
+      "codepoint": 57708,
       "fontFamily": "Emojione",
       "identifier": "letterK"
     },
     "letter-l": {
-      "codepoint": 57707,
+      "codepoint": 57709,
       "fontFamily": "Emojione",
       "identifier": "letterL"
     },
     "letter-m": {
-      "codepoint": 57708,
+      "codepoint": 57710,
       "fontFamily": "Emojione",
       "identifier": "letterM"
     },
     "letter-n": {
-      "codepoint": 57709,
+      "codepoint": 57711,
       "fontFamily": "Emojione",
       "identifier": "letterN"
     },
     "letter-o": {
-      "codepoint": 57710,
+      "codepoint": 57712,
       "fontFamily": "Emojione",
       "identifier": "letterO"
     },
     "letter-p": {
-      "codepoint": 57711,
+      "codepoint": 57713,
       "fontFamily": "Emojione",
       "identifier": "letterP"
     },
     "letter-q": {
-      "codepoint": 57712,
+      "codepoint": 57714,
       "fontFamily": "Emojione",
       "identifier": "letterQ"
     },
     "letter-r": {
-      "codepoint": 57713,
+      "codepoint": 57715,
       "fontFamily": "Emojione",
       "identifier": "letterR"
     },
     "letter-s": {
-      "codepoint": 57714,
+      "codepoint": 57716,
       "fontFamily": "Emojione",
       "identifier": "letterS"
     },
     "letter-t": {
-      "codepoint": 57715,
+      "codepoint": 57717,
       "fontFamily": "Emojione",
       "identifier": "letterT"
     },
     "letter-u": {
-      "codepoint": 57716,
+      "codepoint": 57718,
       "fontFamily": "Emojione",
       "identifier": "letterU"
     },
     "letter-v": {
-      "codepoint": 57717,
+      "codepoint": 57719,
       "fontFamily": "Emojione",
       "identifier": "letterV"
     },
     "letter-w": {
-      "codepoint": 57718,
+      "codepoint": 57720,
       "fontFamily": "Emojione",
       "identifier": "letterW"
     },
     "letter-x": {
-      "codepoint": 57719,
+      "codepoint": 57721,
       "fontFamily": "Emojione",
       "identifier": "letterX"
     },
     "letter-y": {
-      "codepoint": 57720,
+      "codepoint": 57722,
       "fontFamily": "Emojione",
       "identifier": "letterY"
     },
     "letter-z": {
-      "codepoint": 57721,
+      "codepoint": 57723,
       "fontFamily": "Emojione",
       "identifier": "letterZ"
     },
     "light-skin-tone": {
-      "codepoint": 57722,
+      "codepoint": 57724,
       "fontFamily": "Emojione",
       "identifier": "lightSkinTone"
     },
     "linked-paperclips": {
-      "codepoint": 57723,
+      "codepoint": 57725,
       "fontFamily": "Emojione",
       "identifier": "linkedPaperclips"
     },
     "litter-in-bin-sign": {
-      "codepoint": 57724,
+      "codepoint": 57726,
       "fontFamily": "Emojione",
       "identifier": "litterInBinSign"
     },
     "lollipop": {
-      "codepoint": 57725,
+      "codepoint": 57727,
       "fontFamily": "Emojione",
       "identifier": "lollipop"
     },
     "medium-dark-skin-tone": {
-      "codepoint": 57726,
+      "codepoint": 57728,
       "fontFamily": "Emojione",
       "identifier": "mediumDarkSkinTone"
     },
     "medium-light-skin-tone": {
-      "codepoint": 57727,
+      "codepoint": 57729,
       "fontFamily": "Emojione",
       "identifier": "mediumLightSkinTone"
     },
     "medium-skin-tone": {
-      "codepoint": 57728,
+      "codepoint": 57730,
       "fontFamily": "Emojione",
       "identifier": "mediumSkinTone"
     },
     "mens-room": {
-      "codepoint": 57729,
+      "codepoint": 57731,
       "fontFamily": "Emojione",
       "identifier": "mensRoom"
     },
+    "microphone": {
+      "codepoint": 57732,
+      "fontFamily": "Emojione",
+      "identifier": "microphone"
+    },
     "mouse": {
-      "codepoint": 57730,
+      "codepoint": 57733,
       "fontFamily": "Emojione",
       "identifier": "mouse"
     },
     "mouse-face": {
-      "codepoint": 57731,
+      "codepoint": 57734,
       "fontFamily": "Emojione",
       "identifier": "mouseFace"
     },
     "new-button": {
-      "codepoint": 57732,
+      "codepoint": 57735,
       "fontFamily": "Emojione",
       "identifier": "newButton"
     },
     "next-track-button": {
-      "codepoint": 57733,
+      "codepoint": 57736,
       "fontFamily": "Emojione",
       "identifier": "nextTrackButton"
     },
     "ng-button": {
-      "codepoint": 57734,
+      "codepoint": 57737,
       "fontFamily": "Emojione",
       "identifier": "ngButton"
     },
     "no-entry": {
-      "codepoint": 57735,
+      "codepoint": 57738,
       "fontFamily": "Emojione",
       "identifier": "noEntry"
     },
     "nose": {
-      "codepoint": 57736,
+      "codepoint": 57739,
       "fontFamily": "Emojione",
       "identifier": "nose"
     },
     "nose-light-skin-tone": {
-      "codepoint": 57737,
+      "codepoint": 57740,
       "fontFamily": "Emojione",
       "identifier": "noseLightSkinTone"
     },
     "nose-medium-light-skin-tone": {
-      "codepoint": 57738,
+      "codepoint": 57741,
       "fontFamily": "Emojione",
       "identifier": "noseMediumLightSkinTone"
     },
     "notebook": {
-      "codepoint": 57739,
+      "codepoint": 57742,
       "fontFamily": "Emojione",
       "identifier": "notebook"
     },
     "notebook-with-decorative-cover": {
-      "codepoint": 57740,
+      "codepoint": 57743,
       "fontFamily": "Emojione",
       "identifier": "notebookWithDecorativeCover"
     },
     "o-button": {
-      "codepoint": 57741,
+      "codepoint": 57744,
       "fontFamily": "Emojione",
       "identifier": "oButton"
     },
     "oil-drum": {
-      "codepoint": 57742,
+      "codepoint": 57745,
       "fontFamily": "Emojione",
       "identifier": "oilDrum"
     },
     "ok-button": {
-      "codepoint": 57743,
+      "codepoint": 57746,
       "fontFamily": "Emojione",
       "identifier": "okButton"
     },
     "om": {
-      "codepoint": 57744,
+      "codepoint": 57747,
       "fontFamily": "Emojione",
       "identifier": "om"
     },
     "ophiuchus": {
-      "codepoint": 57745,
+      "codepoint": 57748,
       "fontFamily": "Emojione",
       "identifier": "ophiuchus"
     },
     "orthodox-cross": {
-      "codepoint": 57746,
+      "codepoint": 57749,
       "fontFamily": "Emojione",
       "identifier": "orthodoxCross"
     },
     "p-button": {
-      "codepoint": 57747,
+      "codepoint": 57750,
       "fontFamily": "Emojione",
       "identifier": "pButton"
     },
     "passport-control": {
-      "codepoint": 57748,
+      "codepoint": 57751,
       "fontFamily": "Emojione",
       "identifier": "passportControl"
     },
     "pause-button": {
-      "codepoint": 57749,
+      "codepoint": 57752,
       "fontFamily": "Emojione",
       "identifier": "pauseButton"
     },
     "paw-prints": {
-      "codepoint": 57750,
+      "codepoint": 57753,
       "fontFamily": "Emojione",
       "identifier": "pawPrints"
     },
     "pen": {
-      "codepoint": 57751,
+      "codepoint": 57754,
       "fontFamily": "Emojione",
       "identifier": "pen"
     },
     "pill": {
-      "codepoint": 57752,
+      "codepoint": 57755,
       "fontFamily": "Emojione",
       "identifier": "pill"
     },
     "pisces": {
-      "codepoint": 57753,
+      "codepoint": 57756,
       "fontFamily": "Emojione",
       "identifier": "pisces"
     },
     "place-of-worship": {
-      "codepoint": 57754,
+      "codepoint": 57757,
       "fontFamily": "Emojione",
       "identifier": "placeOfWorship"
     },
     "play-button": {
-      "codepoint": 57755,
+      "codepoint": 57758,
       "fontFamily": "Emojione",
       "identifier": "playButton"
     },
     "play-or-pause-button": {
-      "codepoint": 57756,
+      "codepoint": 57759,
       "fontFamily": "Emojione",
       "identifier": "playOrPauseButton"
     },
     "potable-water": {
-      "codepoint": 57757,
+      "codepoint": 57760,
       "fontFamily": "Emojione",
       "identifier": "potableWater"
     },
     "pound-symbol": {
-      "codepoint": 57758,
+      "codepoint": 57761,
       "fontFamily": "Emojione",
       "identifier": "poundSymbol"
     },
     "prohibited": {
-      "codepoint": 57759,
+      "codepoint": 57762,
       "fontFamily": "Emojione",
       "identifier": "prohibited"
     },
     "purple-heart": {
-      "codepoint": 57760,
+      "codepoint": 57763,
       "fontFamily": "Emojione",
       "identifier": "purpleHeart"
     },
     "question-mark": {
-      "codepoint": 57761,
+      "codepoint": 57764,
       "fontFamily": "Emojione",
       "identifier": "questionMark"
     },
     "radioactive": {
-      "codepoint": 57762,
+      "codepoint": 57765,
       "fontFamily": "Emojione",
       "identifier": "radioactive"
     },
     "record-button": {
-      "codepoint": 57763,
+      "codepoint": 57766,
       "fontFamily": "Emojione",
       "identifier": "recordButton"
     },
     "red-circle": {
-      "codepoint": 57764,
+      "codepoint": 57767,
       "fontFamily": "Emojione",
       "identifier": "redCircle"
     },
     "red-heart": {
-      "codepoint": 57765,
+      "codepoint": 57768,
       "fontFamily": "Emojione",
       "identifier": "redHeart"
     },
     "red-triangle-pointed-down": {
-      "codepoint": 57766,
+      "codepoint": 57769,
       "fontFamily": "Emojione",
       "identifier": "redTrianglePointedDown"
     },
     "red-triangle-pointed-up": {
-      "codepoint": 57767,
+      "codepoint": 57770,
       "fontFamily": "Emojione",
       "identifier": "redTrianglePointedUp"
     },
     "repeat-button": {
-      "codepoint": 57768,
+      "codepoint": 57771,
       "fontFamily": "Emojione",
       "identifier": "repeatButton"
     },
     "repeat-single-button": {
-      "codepoint": 57769,
+      "codepoint": 57772,
       "fontFamily": "Emojione",
       "identifier": "repeatSingleButton"
     },
     "restroom": {
-      "codepoint": 57770,
+      "codepoint": 57773,
       "fontFamily": "Emojione",
       "identifier": "restroom"
     },
     "reverse-button": {
-      "codepoint": 57771,
+      "codepoint": 57774,
       "fontFamily": "Emojione",
       "identifier": "reverseButton"
     },
     "right-anger-bubble": {
-      "codepoint": 57772,
+      "codepoint": 57775,
       "fontFamily": "Emojione",
       "identifier": "rightAngerBubble"
     },
     "right-arrow": {
-      "codepoint": 57773,
+      "codepoint": 57776,
       "fontFamily": "Emojione",
       "identifier": "rightArrow"
     },
     "right-arrow-curving-down": {
-      "codepoint": 57774,
+      "codepoint": 57777,
       "fontFamily": "Emojione",
       "identifier": "rightArrowCurvingDown"
     },
     "right-arrow-curving-left": {
-      "codepoint": 57775,
+      "codepoint": 57778,
       "fontFamily": "Emojione",
       "identifier": "rightArrowCurvingLeft"
     },
     "right-arrow-curving-up": {
-      "codepoint": 57776,
+      "codepoint": 57779,
       "fontFamily": "Emojione",
       "identifier": "rightArrowCurvingUp"
     },
     "rosette": {
-      "codepoint": 57777,
+      "codepoint": 57780,
       "fontFamily": "Emojione",
       "identifier": "rosette"
     },
     "round-pushpin": {
-      "codepoint": 57778,
+      "codepoint": 57781,
       "fontFamily": "Emojione",
       "identifier": "roundPushpin"
     },
     "sake": {
-      "codepoint": 57779,
+      "codepoint": 57782,
       "fontFamily": "Emojione",
       "identifier": "sake"
     },
+    "scorpio": {
+      "codepoint": 57783,
+      "fontFamily": "Emojione",
+      "identifier": "scorpio"
+    },
+    "scorpius": {
+      "codepoint": 57784,
+      "fontFamily": "Emojione",
+      "identifier": "scorpius"
+    },
     "shaved-ice": {
-      "codepoint": 57780,
+      "codepoint": 57785,
       "fontFamily": "Emojione",
       "identifier": "shavedIce"
     },
-    "shooting-star": {
-      "codepoint": 57781,
-      "fontFamily": "Emojione",
-      "identifier": "shootingStar"
-    },
     "shuffle-tracks-button": {
-      "codepoint": 57782,
+      "codepoint": 57786,
       "fontFamily": "Emojione",
       "identifier": "shuffleTracksButton"
     },
     "skull": {
-      "codepoint": 57783,
+      "codepoint": 57787,
       "fontFamily": "Emojione",
       "identifier": "skull"
     },
     "small-blue-diamond": {
-      "codepoint": 57784,
+      "codepoint": 57788,
       "fontFamily": "Emojione",
       "identifier": "smallBlueDiamond"
     },
     "small-orange-diamond": {
-      "codepoint": 57785,
+      "codepoint": 57789,
       "fontFamily": "Emojione",
       "identifier": "smallOrangeDiamond"
     },
     "snowflake": {
-      "codepoint": 57786,
+      "codepoint": 57790,
       "fontFamily": "Emojione",
       "identifier": "snowflake"
     },
     "sos-button": {
-      "codepoint": 57787,
+      "codepoint": 57791,
       "fontFamily": "Emojione",
       "identifier": "sosButton"
     },
     "sparkle": {
-      "codepoint": 57788,
+      "codepoint": 57792,
       "fontFamily": "Emojione",
       "identifier": "sparkle"
     },
     "sparkler": {
-      "codepoint": 57789,
+      "codepoint": 57793,
       "fontFamily": "Emojione",
       "identifier": "sparkler"
     },
     "sparkles": {
-      "codepoint": 57790,
+      "codepoint": 57794,
       "fontFamily": "Emojione",
       "identifier": "sparkles"
     },
     "sparkling-heart": {
-      "codepoint": 57791,
+      "codepoint": 57795,
       "fontFamily": "Emojione",
       "identifier": "sparklingHeart"
     },
     "speaking-head": {
-      "codepoint": 57792,
+      "codepoint": 57796,
       "fontFamily": "Emojione",
       "identifier": "speakingHead"
     },
     "speech-balloon": {
-      "codepoint": 57793,
+      "codepoint": 57797,
       "fontFamily": "Emojione",
       "identifier": "speechBalloon"
     },
     "spouting-whale": {
-      "codepoint": 57794,
+      "codepoint": 57798,
       "fontFamily": "Emojione",
       "identifier": "spoutingWhale"
     },
     "star": {
-      "codepoint": 57795,
+      "codepoint": 57799,
       "fontFamily": "Emojione",
       "identifier": "star"
     },
     "star-and-crescent": {
-      "codepoint": 57796,
+      "codepoint": 57800,
       "fontFamily": "Emojione",
       "identifier": "starAndCrescent"
     },
     "star-of-david": {
-      "codepoint": 57797,
+      "codepoint": 57801,
       "fontFamily": "Emojione",
       "identifier": "starOfDavid"
     },
     "stop-button": {
-      "codepoint": 57798,
+      "codepoint": 57802,
       "fontFamily": "Emojione",
       "identifier": "stopButton"
     },
     "stop-sign": {
-      "codepoint": 57799,
+      "codepoint": 57803,
       "fontFamily": "Emojione",
       "identifier": "stopSign"
     },
     "sun": {
-      "codepoint": 57800,
+      "codepoint": 57804,
       "fontFamily": "Emojione",
       "identifier": "sun"
     },
     "sun-behind-cloud": {
-      "codepoint": 57801,
+      "codepoint": 57805,
       "fontFamily": "Emojione",
       "identifier": "sunBehindCloud"
     },
     "sun-behind-large-cloud": {
-      "codepoint": 57802,
+      "codepoint": 57806,
       "fontFamily": "Emojione",
       "identifier": "sunBehindLargeCloud"
     },
     "sun-behind-rain-cloud": {
-      "codepoint": 57803,
+      "codepoint": 57807,
       "fontFamily": "Emojione",
       "identifier": "sunBehindRainCloud"
     },
     "sun-behind-small-cloud": {
-      "codepoint": 57804,
+      "codepoint": 57808,
       "fontFamily": "Emojione",
       "identifier": "sunBehindSmallCloud"
     },
     "sun-with-face": {
-      "codepoint": 57805,
+      "codepoint": 57809,
       "fontFamily": "Emojione",
       "identifier": "sunWithFace"
     },
     "sunrise": {
-      "codepoint": 57806,
+      "codepoint": 57810,
       "fontFamily": "Emojione",
       "identifier": "sunrise"
     },
     "sweat-droplets": {
-      "codepoint": 57807,
+      "codepoint": 57811,
       "fontFamily": "Emojione",
       "identifier": "sweatDroplets"
     },
     "taurus": {
-      "codepoint": 57808,
+      "codepoint": 57812,
       "fontFamily": "Emojione",
       "identifier": "taurus"
     },
+    "television": {
+      "codepoint": 57813,
+      "fontFamily": "Emojione",
+      "identifier": "television"
+    },
     "thought-balloon": {
-      "codepoint": 57809,
+      "codepoint": 57814,
       "fontFamily": "Emojione",
       "identifier": "thoughtBalloon"
     },
     "tornado": {
-      "codepoint": 57810,
+      "codepoint": 57815,
       "fontFamily": "Emojione",
       "identifier": "tornado"
     },
     "two-hearts": {
-      "codepoint": 57811,
+      "codepoint": 57816,
       "fontFamily": "Emojione",
       "identifier": "twoHearts"
     },
     "up-arrow": {
-      "codepoint": 57812,
+      "codepoint": 57817,
       "fontFamily": "Emojione",
       "identifier": "upArrow"
     },
     "up-button": {
-      "codepoint": 57813,
+      "codepoint": 57818,
       "fontFamily": "Emojione",
       "identifier": "upButton"
     },
     "up-down-arrow": {
-      "codepoint": 57814,
+      "codepoint": 57819,
       "fontFamily": "Emojione",
       "identifier": "upDownArrow"
     },
     "up-left-arrow": {
-      "codepoint": 57815,
+      "codepoint": 57820,
       "fontFamily": "Emojione",
       "identifier": "upLeftArrow"
     },
     "up-right-arrow": {
-      "codepoint": 57816,
+      "codepoint": 57821,
       "fontFamily": "Emojione",
       "identifier": "upRightArrow"
     },
     "up-text-button": {
-      "codepoint": 57817,
+      "codepoint": 57822,
       "fontFamily": "Emojione",
       "identifier": "upTextButton"
     },
     "upwards-button": {
-      "codepoint": 57818,
+      "codepoint": 57823,
       "fontFamily": "Emojione",
       "identifier": "upwardsButton"
     },
+    "virgo": {
+      "codepoint": 57824,
+      "fontFamily": "Emojione",
+      "identifier": "virgo"
+    },
     "warning": {
-      "codepoint": 57819,
+      "codepoint": 57825,
       "fontFamily": "Emojione",
       "identifier": "warning"
     },
     "water-closet": {
-      "codepoint": 57820,
+      "codepoint": 57826,
       "fontFamily": "Emojione",
       "identifier": "waterCloset"
     },
     "water-wave": {
-      "codepoint": 57821,
+      "codepoint": 57827,
       "fontFamily": "Emojione",
       "identifier": "waterWave"
     },
     "wedding": {
-      "codepoint": 57822,
+      "codepoint": 57828,
       "fontFamily": "Emojione",
       "identifier": "wedding"
     },
     "whale": {
-      "codepoint": 57823,
+      "codepoint": 57829,
       "fontFamily": "Emojione",
       "identifier": "whale"
     },
     "wheel-of-dharma": {
-      "codepoint": 57824,
+      "codepoint": 57830,
       "fontFamily": "Emojione",
       "identifier": "wheelOfDharma"
     },
     "wheelchair-symbol": {
-      "codepoint": 57825,
+      "codepoint": 57831,
       "fontFamily": "Emojione",
       "identifier": "wheelchairSymbol"
     },
     "white-circle": {
-      "codepoint": 57826,
+      "codepoint": 57832,
       "fontFamily": "Emojione",
       "identifier": "whiteCircle"
     },
     "white-exclamation-mark": {
-      "codepoint": 57827,
+      "codepoint": 57833,
       "fontFamily": "Emojione",
       "identifier": "whiteExclamationMark"
     },
     "white-flower": {
-      "codepoint": 57828,
+      "codepoint": 57834,
       "fontFamily": "Emojione",
       "identifier": "whiteFlower"
     },
     "white-heavy-check-mark": {
-      "codepoint": 57829,
+      "codepoint": 57835,
       "fontFamily": "Emojione",
       "identifier": "whiteHeavyCheckMark"
     },
     "white-large-square": {
-      "codepoint": 57830,
+      "codepoint": 57836,
       "fontFamily": "Emojione",
       "identifier": "whiteLargeSquare"
     },
     "white-medium-small-square": {
-      "codepoint": 57831,
+      "codepoint": 57837,
       "fontFamily": "Emojione",
       "identifier": "whiteMediumSmallSquare"
     },
     "white-medium-square": {
-      "codepoint": 57832,
+      "codepoint": 57838,
       "fontFamily": "Emojione",
       "identifier": "whiteMediumSquare"
     },
     "white-medium-star": {
-      "codepoint": 57833,
+      "codepoint": 57839,
       "fontFamily": "Emojione",
       "identifier": "whiteMediumStar"
     },
     "white-question-mark": {
-      "codepoint": 57834,
+      "codepoint": 57840,
       "fontFamily": "Emojione",
       "identifier": "whiteQuestionMark"
     },
     "white-small-square": {
-      "codepoint": 57835,
+      "codepoint": 57841,
       "fontFamily": "Emojione",
       "identifier": "whiteSmallSquare"
     },
     "womans-clothes": {
-      "codepoint": 57836,
+      "codepoint": 57842,
       "fontFamily": "Emojione",
       "identifier": "womansClothes"
     },
     "womens-room": {
-      "codepoint": 57837,
+      "codepoint": 57843,
       "fontFamily": "Emojione",
       "identifier": "womensRoom"
     },
     "yellow-heart": {
-      "codepoint": 57838,
+      "codepoint": 57844,
       "fontFamily": "Emojione",
       "identifier": "yellowHeart"
     },
     "yin-yang": {
-      "codepoint": 57839,
+      "codepoint": 57845,
       "fontFamily": "Emojione",
       "identifier": "yinYang"
     },
     "zzz": {
-      "codepoint": 57840,
+      "codepoint": 57846,
       "fontFamily": "Emojione",
       "identifier": "zzz"
     }

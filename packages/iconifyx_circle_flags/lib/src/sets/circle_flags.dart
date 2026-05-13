@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: HatScripts
 /// License: MIT — https://github.com/HatScripts/circle-flags/blob/gh-pages/LICENSE
-/// Icons: 154
+/// Icons: 153
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -926,170 +926,163 @@ class CircleFlagsIcons {
     fontPackage: 'iconifyx_circle_flags',
   ));
 
-  /// `tk`
-  static const IconifyIconData tk = IconifyIconData(IconData(
-    0xe082,
-    fontFamily: 'CircleFlags',
-    fontPackage: 'iconifyx_circle_flags',
-  ));
-
   /// `torres-strait-islands`
   static const IconifyIconData torresStraitIslands = IconifyIconData(IconData(
-    0xe083,
+    0xe082,
     fontFamily: 'CircleFlags',
     fontPackage: 'iconifyx_circle_flags',
   ));
 
   /// `translingual`
   static const IconifyIconData translingual = IconifyIconData(IconData(
-    0xe084,
+    0xe083,
     fontFamily: 'CircleFlags',
     fontPackage: 'iconifyx_circle_flags',
   ));
 
   /// `transnistria`
   static const IconifyIconData transnistria = IconifyIconData(IconData(
-    0xe085,
+    0xe084,
     fontFamily: 'CircleFlags',
     fontPackage: 'iconifyx_circle_flags',
   ));
 
   /// `tz`
   static const IconifyIconData tz = IconifyIconData(IconData(
-    0xe086,
+    0xe085,
     fontFamily: 'CircleFlags',
     fontPackage: 'iconifyx_circle_flags',
   ));
 
   /// `tz-zanzibar`
   static const IconifyIconData tzZanzibar = IconifyIconData(IconData(
-    0xe087,
+    0xe086,
     fontFamily: 'CircleFlags',
     fontPackage: 'iconifyx_circle_flags',
   ));
 
   /// `ua`
   static const IconifyIconData ua = IconifyIconData(IconData(
-    0xe088,
+    0xe087,
     fontFamily: 'CircleFlags',
     fontPackage: 'iconifyx_circle_flags',
   ));
 
   /// `un`
   static const IconifyIconData un = IconifyIconData(IconData(
-    0xe089,
+    0xe088,
     fontFamily: 'CircleFlags',
     fontPackage: 'iconifyx_circle_flags',
   ));
 
   /// `united-nations`
   static const IconifyIconData unitedNations = IconifyIconData(IconData(
-    0xe08a,
+    0xe089,
     fontFamily: 'CircleFlags',
     fontPackage: 'iconifyx_circle_flags',
   ));
 
   /// `us-ak`
   static const IconifyIconData usAk = IconifyIconData(IconData(
-    0xe08b,
+    0xe08a,
     fontFamily: 'CircleFlags',
     fontPackage: 'iconifyx_circle_flags',
   ));
 
   /// `us-in`
   static const IconifyIconData usIn = IconifyIconData(IconData(
-    0xe08c,
+    0xe08b,
     fontFamily: 'CircleFlags',
     fontPackage: 'iconifyx_circle_flags',
   ));
 
   /// `us-mp`
   static const IconifyIconData usMp = IconifyIconData(IconData(
-    0xe08d,
+    0xe08c,
     fontFamily: 'CircleFlags',
     fontPackage: 'iconifyx_circle_flags',
   ));
 
   /// `us-or`
   static const IconifyIconData usOr = IconifyIconData(IconData(
-    0xe08e,
+    0xe08d,
     fontFamily: 'CircleFlags',
     fontPackage: 'iconifyx_circle_flags',
   ));
 
   /// `us-ri`
   static const IconifyIconData usRi = IconifyIconData(IconData(
-    0xe08f,
+    0xe08e,
     fontFamily: 'CircleFlags',
     fontPackage: 'iconifyx_circle_flags',
   ));
 
   /// `us-sc`
   static const IconifyIconData usSc = IconifyIconData(IconData(
-    0xe090,
+    0xe08f,
     fontFamily: 'CircleFlags',
     fontPackage: 'iconifyx_circle_flags',
   ));
 
   /// `us-wi`
   static const IconifyIconData usWi = IconifyIconData(IconData(
-    0xe091,
+    0xe090,
     fontFamily: 'CircleFlags',
     fontPackage: 'iconifyx_circle_flags',
   ));
 
   /// `uy`
   static const IconifyIconData uy = IconifyIconData(IconData(
-    0xe092,
+    0xe091,
     fontFamily: 'CircleFlags',
     fontPackage: 'iconifyx_circle_flags',
   ));
 
   /// `va`
   static const IconifyIconData va = IconifyIconData(IconData(
-    0xe093,
+    0xe092,
     fontFamily: 'CircleFlags',
     fontPackage: 'iconifyx_circle_flags',
   ));
 
   /// `vc`
   static const IconifyIconData vc = IconifyIconData(IconData(
-    0xe094,
+    0xe093,
     fontFamily: 'CircleFlags',
     fontPackage: 'iconifyx_circle_flags',
   ));
 
   /// `vo`
   static const IconifyIconData vo = IconifyIconData(IconData(
-    0xe095,
+    0xe094,
     fontFamily: 'CircleFlags',
     fontPackage: 'iconifyx_circle_flags',
   ));
 
   /// `xk`
   static const IconifyIconData xk = IconifyIconData(IconData(
-    0xe096,
+    0xe095,
     fontFamily: 'CircleFlags',
     fontPackage: 'iconifyx_circle_flags',
   ));
 
   /// `xx`
   static const IconifyIconData xx = IconifyIconData(IconData(
-    0xe097,
+    0xe096,
     fontFamily: 'CircleFlags',
     fontPackage: 'iconifyx_circle_flags',
   ));
 
   /// `yi`
   static const IconifyIconData yi = IconifyIconData(IconData(
-    0xe098,
+    0xe097,
     fontFamily: 'CircleFlags',
     fontPackage: 'iconifyx_circle_flags',
   ));
 
   /// `yiddish`
   static const IconifyIconData yiddish = IconifyIconData(IconData(
-    0xe099,
+    0xe098,
     fontFamily: 'CircleFlags',
     fontPackage: 'iconifyx_circle_flags',
   ));

@@ -16,80 +16,540 @@
       "spdx": "Apache-2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0"
     },
-    "total": 13
+    "total": 105
   },
   "fonts": [
     {
       "family": "Iwwa",
-      "nextCodepoint": 57357,
-      "iconCount": 13
+      "nextCodepoint": 57449,
+      "iconCount": 105
     }
   ],
   "icons": {
-    "arrow-down": {
+    "add": {
       "codepoint": 57344,
+      "fontFamily": "Iwwa",
+      "identifier": "add"
+    },
+    "add-15m": {
+      "codepoint": 57345,
+      "fontFamily": "Iwwa",
+      "identifier": "add15m"
+    },
+    "add-1d": {
+      "codepoint": 57346,
+      "fontFamily": "Iwwa",
+      "identifier": "add1d"
+    },
+    "add-1m": {
+      "codepoint": 57347,
+      "fontFamily": "Iwwa",
+      "identifier": "add1m"
+    },
+    "add-1w": {
+      "codepoint": 57348,
+      "fontFamily": "Iwwa",
+      "identifier": "add1w"
+    },
+    "add-1y": {
+      "codepoint": 57349,
+      "fontFamily": "Iwwa",
+      "identifier": "add1y"
+    },
+    "alarm": {
+      "codepoint": 57350,
+      "fontFamily": "Iwwa",
+      "identifier": "alarm"
+    },
+    "alarm-o": {
+      "codepoint": 57351,
+      "fontFamily": "Iwwa",
+      "identifier": "alarmO"
+    },
+    "alert": {
+      "codepoint": 57352,
+      "fontFamily": "Iwwa",
+      "identifier": "alert"
+    },
+    "angle-left": {
+      "codepoint": 57353,
+      "fontFamily": "Iwwa",
+      "identifier": "angleLeft"
+    },
+    "arrow-down": {
+      "codepoint": 57354,
       "fontFamily": "Iwwa",
       "identifier": "arrowDown"
     },
+    "arrow-left": {
+      "codepoint": 57355,
+      "fontFamily": "Iwwa",
+      "identifier": "arrowLeft"
+    },
+    "arrow-right": {
+      "codepoint": 57356,
+      "fontFamily": "Iwwa",
+      "identifier": "arrowRight"
+    },
     "arrow-up": {
-      "codepoint": 57345,
+      "codepoint": 57357,
       "fontFamily": "Iwwa",
       "identifier": "arrowUp"
     },
+    "assign": {
+      "codepoint": 57358,
+      "fontFamily": "Iwwa",
+      "identifier": "assign"
+    },
+    "bad": {
+      "codepoint": 57359,
+      "fontFamily": "Iwwa",
+      "identifier": "bad"
+    },
+    "bad-o": {
+      "codepoint": 57360,
+      "fontFamily": "Iwwa",
+      "identifier": "badO"
+    },
+    "box": {
+      "codepoint": 57361,
+      "fontFamily": "Iwwa",
+      "identifier": "box"
+    },
+    "calendar": {
+      "codepoint": 57362,
+      "fontFamily": "Iwwa",
+      "identifier": "calendar"
+    },
+    "chart": {
+      "codepoint": 57363,
+      "fontFamily": "Iwwa",
+      "identifier": "chart"
+    },
     "chart-style1": {
-      "codepoint": 57346,
+      "codepoint": 57364,
       "fontFamily": "Iwwa",
       "identifier": "chartStyle1"
     },
     "chart-style2": {
-      "codepoint": 57347,
+      "codepoint": 57365,
       "fontFamily": "Iwwa",
       "identifier": "chartStyle2"
     },
     "chart-style3": {
-      "codepoint": 57348,
+      "codepoint": 57366,
       "fontFamily": "Iwwa",
       "identifier": "chartStyle3"
     },
     "chart-style4": {
-      "codepoint": 57349,
+      "codepoint": 57367,
       "fontFamily": "Iwwa",
       "identifier": "chartStyle4"
     },
+    "circumflex": {
+      "codepoint": 57368,
+      "fontFamily": "Iwwa",
+      "identifier": "circumflex"
+    },
+    "clone": {
+      "codepoint": 57369,
+      "fontFamily": "Iwwa",
+      "identifier": "clone"
+    },
+    "close": {
+      "codepoint": 57370,
+      "fontFamily": "Iwwa",
+      "identifier": "close"
+    },
+    "close-braket": {
+      "codepoint": 57371,
+      "fontFamily": "Iwwa",
+      "identifier": "closeBraket"
+    },
+    "co2": {
+      "codepoint": 57372,
+      "fontFamily": "Iwwa",
+      "identifier": "co2"
+    },
+    "confront": {
+      "codepoint": 57373,
+      "fontFamily": "Iwwa",
+      "identifier": "confront"
+    },
+    "connection-o": {
+      "codepoint": 57374,
+      "fontFamily": "Iwwa",
+      "identifier": "connectionO"
+    },
+    "consumption-o": {
+      "codepoint": 57375,
+      "fontFamily": "Iwwa",
+      "identifier": "consumptionO"
+    },
+    "csv": {
+      "codepoint": 57376,
+      "fontFamily": "Iwwa",
+      "identifier": "csv"
+    },
+    "danger": {
+      "codepoint": 57377,
+      "fontFamily": "Iwwa",
+      "identifier": "danger"
+    },
+    "dashboard": {
+      "codepoint": 57378,
+      "fontFamily": "Iwwa",
+      "identifier": "dashboard"
+    },
+    "delete": {
+      "codepoint": 57379,
+      "fontFamily": "Iwwa",
+      "identifier": "delete"
+    },
+    "delta": {
+      "codepoint": 57380,
+      "fontFamily": "Iwwa",
+      "identifier": "delta"
+    },
+    "divide": {
+      "codepoint": 57381,
+      "fontFamily": "Iwwa",
+      "identifier": "divide"
+    },
+    "drag-drop": {
+      "codepoint": 57382,
+      "fontFamily": "Iwwa",
+      "identifier": "dragDrop"
+    },
+    "duplicate": {
+      "codepoint": 57383,
+      "fontFamily": "Iwwa",
+      "identifier": "duplicate"
+    },
+    "edit": {
+      "codepoint": 57384,
+      "fontFamily": "Iwwa",
+      "identifier": "edit"
+    },
+    "expand": {
+      "codepoint": 57385,
+      "fontFamily": "Iwwa",
+      "identifier": "expand"
+    },
+    "export": {
+      "codepoint": 57386,
+      "fontFamily": "Iwwa",
+      "identifier": "export_"
+    },
+    "file-csv": {
+      "codepoint": 57387,
+      "fontFamily": "Iwwa",
+      "identifier": "fileCsv"
+    },
+    "file-pdf": {
+      "codepoint": 57388,
+      "fontFamily": "Iwwa",
+      "identifier": "filePdf"
+    },
+    "file-png": {
+      "codepoint": 57389,
+      "fontFamily": "Iwwa",
+      "identifier": "filePng"
+    },
+    "file-xsl": {
+      "codepoint": 57390,
+      "fontFamily": "Iwwa",
+      "identifier": "fileXsl"
+    },
     "filter": {
-      "codepoint": 57350,
+      "codepoint": 57391,
       "fontFamily": "Iwwa",
       "identifier": "filter"
     },
+    "flag": {
+      "codepoint": 57392,
+      "fontFamily": "Iwwa",
+      "identifier": "flag"
+    },
+    "gauge": {
+      "codepoint": 57393,
+      "fontFamily": "Iwwa",
+      "identifier": "gauge"
+    },
+    "good": {
+      "codepoint": 57394,
+      "fontFamily": "Iwwa",
+      "identifier": "good"
+    },
+    "good-o": {
+      "codepoint": 57395,
+      "fontFamily": "Iwwa",
+      "identifier": "goodO"
+    },
+    "help": {
+      "codepoint": 57396,
+      "fontFamily": "Iwwa",
+      "identifier": "help"
+    },
+    "history": {
+      "codepoint": 57397,
+      "fontFamily": "Iwwa",
+      "identifier": "history"
+    },
+    "humidity": {
+      "codepoint": 57398,
+      "fontFamily": "Iwwa",
+      "identifier": "humidity"
+    },
+    "info": {
+      "codepoint": 57399,
+      "fontFamily": "Iwwa",
+      "identifier": "info"
+    },
+    "information": {
+      "codepoint": 57400,
+      "fontFamily": "Iwwa",
+      "identifier": "information"
+    },
+    "innowatio-logo": {
+      "codepoint": 57401,
+      "fontFamily": "Iwwa",
+      "identifier": "innowatioLogo"
+    },
+    "lightbulb": {
+      "codepoint": 57402,
+      "fontFamily": "Iwwa",
+      "identifier": "lightbulb"
+    },
+    "list-favourite": {
+      "codepoint": 57403,
+      "fontFamily": "Iwwa",
+      "identifier": "listFavourite"
+    },
+    "lock": {
+      "codepoint": 57404,
+      "fontFamily": "Iwwa",
+      "identifier": "lock"
+    },
+    "logout": {
+      "codepoint": 57405,
+      "fontFamily": "Iwwa",
+      "identifier": "logout"
+    },
+    "map": {
+      "codepoint": 57406,
+      "fontFamily": "Iwwa",
+      "identifier": "map"
+    },
     "menu": {
-      "codepoint": 57351,
+      "codepoint": 57407,
       "fontFamily": "Iwwa",
       "identifier": "menu"
     },
+    "merge": {
+      "codepoint": 57408,
+      "fontFamily": "Iwwa",
+      "identifier": "merge"
+    },
     "middle-o": {
-      "codepoint": 57352,
+      "codepoint": 57409,
       "fontFamily": "Iwwa",
       "identifier": "middleO"
     },
     "middling": {
-      "codepoint": 57353,
+      "codepoint": 57410,
       "fontFamily": "Iwwa",
       "identifier": "middling"
     },
+    "minus": {
+      "codepoint": 57411,
+      "fontFamily": "Iwwa",
+      "identifier": "minus"
+    },
+    "monitoring": {
+      "codepoint": 57412,
+      "fontFamily": "Iwwa",
+      "identifier": "monitoring"
+    },
+    "month": {
+      "codepoint": 57413,
+      "fontFamily": "Iwwa",
+      "identifier": "month"
+    },
+    "multiply": {
+      "codepoint": 57414,
+      "fontFamily": "Iwwa",
+      "identifier": "multiply"
+    },
+    "number-asc": {
+      "codepoint": 57415,
+      "fontFamily": "Iwwa",
+      "identifier": "numberAsc"
+    },
+    "number-desc": {
+      "codepoint": 57416,
+      "fontFamily": "Iwwa",
+      "identifier": "numberDesc"
+    },
+    "open-braket": {
+      "codepoint": 57417,
+      "fontFamily": "Iwwa",
+      "identifier": "openBraket"
+    },
     "option": {
-      "codepoint": 57354,
+      "codepoint": 57418,
       "fontFamily": "Iwwa",
       "identifier": "option"
     },
     "option-horizontal": {
-      "codepoint": 57355,
+      "codepoint": 57419,
       "fontFamily": "Iwwa",
       "identifier": "optionHorizontal"
     },
     "pause": {
-      "codepoint": 57356,
+      "codepoint": 57420,
       "fontFamily": "Iwwa",
       "identifier": "pause"
+    },
+    "percentage": {
+      "codepoint": 57421,
+      "fontFamily": "Iwwa",
+      "identifier": "percentage"
+    },
+    "pinch": {
+      "codepoint": 57422,
+      "fontFamily": "Iwwa",
+      "identifier": "pinch"
+    },
+    "png": {
+      "codepoint": 57423,
+      "fontFamily": "Iwwa",
+      "identifier": "png"
+    },
+    "power": {
+      "codepoint": 57424,
+      "fontFamily": "Iwwa",
+      "identifier": "power"
+    },
+    "remote-control-o": {
+      "codepoint": 57425,
+      "fontFamily": "Iwwa",
+      "identifier": "remoteControlO"
+    },
+    "remove-15m": {
+      "codepoint": 57426,
+      "fontFamily": "Iwwa",
+      "identifier": "remove15m"
+    },
+    "remove-1d": {
+      "codepoint": 57427,
+      "fontFamily": "Iwwa",
+      "identifier": "remove1d"
+    },
+    "remove-1m": {
+      "codepoint": 57428,
+      "fontFamily": "Iwwa",
+      "identifier": "remove1m"
+    },
+    "remove-1w": {
+      "codepoint": 57429,
+      "fontFamily": "Iwwa",
+      "identifier": "remove1w"
+    },
+    "remove-1y": {
+      "codepoint": 57430,
+      "fontFamily": "Iwwa",
+      "identifier": "remove1y"
+    },
+    "reset": {
+      "codepoint": 57431,
+      "fontFamily": "Iwwa",
+      "identifier": "reset"
+    },
+    "search": {
+      "codepoint": 57432,
+      "fontFamily": "Iwwa",
+      "identifier": "search"
+    },
+    "settings": {
+      "codepoint": 57433,
+      "fontFamily": "Iwwa",
+      "identifier": "settings"
+    },
+    "sort-by": {
+      "codepoint": 57434,
+      "fontFamily": "Iwwa",
+      "identifier": "sortBy"
+    },
+    "square-root": {
+      "codepoint": 57435,
+      "fontFamily": "Iwwa",
+      "identifier": "squareRoot"
+    },
+    "star": {
+      "codepoint": 57436,
+      "fontFamily": "Iwwa",
+      "identifier": "star"
+    },
+    "star-o": {
+      "codepoint": 57437,
+      "fontFamily": "Iwwa",
+      "identifier": "starO"
+    },
+    "swipe": {
+      "codepoint": 57438,
+      "fontFamily": "Iwwa",
+      "identifier": "swipe"
+    },
+    "tag": {
+      "codepoint": 57439,
+      "fontFamily": "Iwwa",
+      "identifier": "tag"
+    },
+    "text-asc": {
+      "codepoint": 57440,
+      "fontFamily": "Iwwa",
+      "identifier": "textAsc"
+    },
+    "text-desc": {
+      "codepoint": 57441,
+      "fontFamily": "Iwwa",
+      "identifier": "textDesc"
+    },
+    "thermometer": {
+      "codepoint": 57442,
+      "fontFamily": "Iwwa",
+      "identifier": "thermometer"
+    },
+    "trash": {
+      "codepoint": 57443,
+      "fontFamily": "Iwwa",
+      "identifier": "trash"
+    },
+    "upload": {
+      "codepoint": 57444,
+      "fontFamily": "Iwwa",
+      "identifier": "upload"
+    },
+    "user": {
+      "codepoint": 57445,
+      "fontFamily": "Iwwa",
+      "identifier": "user"
+    },
+    "user-functions": {
+      "codepoint": 57446,
+      "fontFamily": "Iwwa",
+      "identifier": "userFunctions"
+    },
+    "week": {
+      "codepoint": 57447,
+      "fontFamily": "Iwwa",
+      "identifier": "week"
+    },
+    "year": {
+      "codepoint": 57448,
+      "fontFamily": "Iwwa",
+      "identifier": "year"
     }
   }
 }

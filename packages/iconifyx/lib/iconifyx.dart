@@ -213,6 +213,7 @@ export 'package:iconifyx_uim/iconifyx_uim.dart';
 export 'package:iconifyx_uis/iconifyx_uis.dart';
 export 'package:iconifyx_uit/iconifyx_uit.dart';
 export 'package:iconifyx_uiw/iconifyx_uiw.dart';
+export 'package:iconifyx_unjs/iconifyx_unjs.dart';
 export 'package:iconifyx_vaadin/iconifyx_vaadin.dart';
 export 'package:iconifyx_vs/iconifyx_vs.dart';
 export 'package:iconifyx_vscode_icons/iconifyx_vscode_icons.dart';

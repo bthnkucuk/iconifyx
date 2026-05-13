@@ -16,13 +16,13 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/Iconscout/unicons/blob/master/LICENSE"
     },
-    "total": 1138
+    "total": 1242
   },
   "fonts": [
     {
       "family": "Uil",
-      "nextCodepoint": 58482,
-      "iconCount": 1138
+      "nextCodepoint": 58586,
+      "iconCount": 1242
     }
   ],
   "icons": {
@@ -116,5603 +116,6123 @@
       "fontFamily": "Uil",
       "identifier": "adobe"
     },
-    "airplay": {
+    "adobe-alt": {
       "codepoint": 57362,
+      "fontFamily": "Uil",
+      "identifier": "adobeAlt"
+    },
+    "airplay": {
+      "codepoint": 57363,
       "fontFamily": "Uil",
       "identifier": "airplay"
     },
     "align": {
-      "codepoint": 57363,
+      "codepoint": 57364,
       "fontFamily": "Uil",
       "identifier": "align"
     },
     "align-alt": {
-      "codepoint": 57364,
+      "codepoint": 57365,
       "fontFamily": "Uil",
       "identifier": "alignAlt"
     },
     "align-center": {
-      "codepoint": 57365,
+      "codepoint": 57366,
       "fontFamily": "Uil",
       "identifier": "alignCenter"
     },
     "align-center-alt": {
-      "codepoint": 57366,
+      "codepoint": 57367,
       "fontFamily": "Uil",
       "identifier": "alignCenterAlt"
     },
     "align-center-h": {
-      "codepoint": 57367,
+      "codepoint": 57368,
       "fontFamily": "Uil",
       "identifier": "alignCenterH"
     },
     "align-center-justify": {
-      "codepoint": 57368,
+      "codepoint": 57369,
       "fontFamily": "Uil",
       "identifier": "alignCenterJustify"
     },
     "align-center-v": {
-      "codepoint": 57369,
+      "codepoint": 57370,
       "fontFamily": "Uil",
       "identifier": "alignCenterV"
     },
     "align-justify": {
-      "codepoint": 57370,
+      "codepoint": 57371,
       "fontFamily": "Uil",
       "identifier": "alignJustify"
     },
     "align-left": {
-      "codepoint": 57371,
+      "codepoint": 57372,
       "fontFamily": "Uil",
       "identifier": "alignLeft"
     },
     "align-left-justify": {
-      "codepoint": 57372,
+      "codepoint": 57373,
       "fontFamily": "Uil",
       "identifier": "alignLeftJustify"
     },
     "align-letter-right": {
-      "codepoint": 57373,
+      "codepoint": 57374,
       "fontFamily": "Uil",
       "identifier": "alignLetterRight"
     },
     "align-right": {
-      "codepoint": 57374,
+      "codepoint": 57375,
       "fontFamily": "Uil",
       "identifier": "alignRight"
     },
     "align-right-justify": {
-      "codepoint": 57375,
+      "codepoint": 57376,
       "fontFamily": "Uil",
       "identifier": "alignRightJustify"
     },
+    "amazon": {
+      "codepoint": 57377,
+      "fontFamily": "Uil",
+      "identifier": "amazon"
+    },
     "ambulance": {
-      "codepoint": 57376,
+      "codepoint": 57378,
       "fontFamily": "Uil",
       "identifier": "ambulance"
     },
     "analysis": {
-      "codepoint": 57377,
+      "codepoint": 57379,
       "fontFamily": "Uil",
       "identifier": "analysis"
     },
     "analytics": {
-      "codepoint": 57378,
+      "codepoint": 57380,
       "fontFamily": "Uil",
       "identifier": "analytics"
     },
     "anchor": {
-      "codepoint": 57379,
+      "codepoint": 57381,
       "fontFamily": "Uil",
       "identifier": "anchor"
     },
+    "android": {
+      "codepoint": 57382,
+      "fontFamily": "Uil",
+      "identifier": "android"
+    },
+    "android-alt": {
+      "codepoint": 57383,
+      "fontFamily": "Uil",
+      "identifier": "androidAlt"
+    },
     "android-phone-slash": {
-      "codepoint": 57380,
+      "codepoint": 57384,
       "fontFamily": "Uil",
       "identifier": "androidPhoneSlash"
     },
     "angle-double-down": {
-      "codepoint": 57381,
+      "codepoint": 57385,
       "fontFamily": "Uil",
       "identifier": "angleDoubleDown"
     },
     "angle-double-left": {
-      "codepoint": 57382,
+      "codepoint": 57386,
       "fontFamily": "Uil",
       "identifier": "angleDoubleLeft"
     },
     "angle-double-right": {
-      "codepoint": 57383,
+      "codepoint": 57387,
       "fontFamily": "Uil",
       "identifier": "angleDoubleRight"
     },
     "angle-double-up": {
-      "codepoint": 57384,
+      "codepoint": 57388,
       "fontFamily": "Uil",
       "identifier": "angleDoubleUp"
     },
     "angle-down": {
-      "codepoint": 57385,
+      "codepoint": 57389,
       "fontFamily": "Uil",
       "identifier": "angleDown"
     },
     "angle-left": {
-      "codepoint": 57386,
+      "codepoint": 57390,
       "fontFamily": "Uil",
       "identifier": "angleLeft"
     },
     "angle-left-b": {
-      "codepoint": 57387,
+      "codepoint": 57391,
       "fontFamily": "Uil",
       "identifier": "angleLeftB"
     },
     "angle-right": {
-      "codepoint": 57388,
+      "codepoint": 57392,
       "fontFamily": "Uil",
       "identifier": "angleRight"
     },
     "angle-right-b": {
-      "codepoint": 57389,
+      "codepoint": 57393,
       "fontFamily": "Uil",
       "identifier": "angleRightB"
     },
     "angle-up": {
-      "codepoint": 57390,
+      "codepoint": 57394,
       "fontFamily": "Uil",
       "identifier": "angleUp"
     },
     "angry": {
-      "codepoint": 57391,
+      "codepoint": 57395,
       "fontFamily": "Uil",
       "identifier": "angry"
     },
     "ankh": {
-      "codepoint": 57392,
+      "codepoint": 57396,
       "fontFamily": "Uil",
       "identifier": "ankh"
     },
     "annoyed": {
-      "codepoint": 57393,
+      "codepoint": 57397,
       "fontFamily": "Uil",
       "identifier": "annoyed"
     },
     "annoyed-alt": {
-      "codepoint": 57394,
+      "codepoint": 57398,
       "fontFamily": "Uil",
       "identifier": "annoyedAlt"
     },
     "apple": {
-      "codepoint": 57395,
+      "codepoint": 57399,
       "fontFamily": "Uil",
       "identifier": "apple"
     },
+    "apple-alt": {
+      "codepoint": 57400,
+      "fontFamily": "Uil",
+      "identifier": "appleAlt"
+    },
     "apps": {
-      "codepoint": 57396,
+      "codepoint": 57401,
       "fontFamily": "Uil",
       "identifier": "apps"
     },
     "archive": {
-      "codepoint": 57397,
+      "codepoint": 57402,
       "fontFamily": "Uil",
       "identifier": "archive"
     },
     "archive-alt": {
-      "codepoint": 57398,
+      "codepoint": 57403,
       "fontFamily": "Uil",
       "identifier": "archiveAlt"
     },
     "archway": {
-      "codepoint": 57399,
+      "codepoint": 57404,
       "fontFamily": "Uil",
       "identifier": "archway"
     },
     "arrow": {
-      "codepoint": 57400,
+      "codepoint": 57405,
       "fontFamily": "Uil",
       "identifier": "arrow"
     },
     "arrow-break": {
-      "codepoint": 57401,
+      "codepoint": 57406,
       "fontFamily": "Uil",
       "identifier": "arrowBreak"
     },
     "arrow-circle-down": {
-      "codepoint": 57402,
+      "codepoint": 57407,
       "fontFamily": "Uil",
       "identifier": "arrowCircleDown"
     },
     "arrow-circle-left": {
-      "codepoint": 57403,
+      "codepoint": 57408,
       "fontFamily": "Uil",
       "identifier": "arrowCircleLeft"
     },
     "arrow-circle-right": {
-      "codepoint": 57404,
+      "codepoint": 57409,
       "fontFamily": "Uil",
       "identifier": "arrowCircleRight"
     },
     "arrow-circle-up": {
-      "codepoint": 57405,
+      "codepoint": 57410,
       "fontFamily": "Uil",
       "identifier": "arrowCircleUp"
     },
     "arrow-compress-h": {
-      "codepoint": 57406,
+      "codepoint": 57411,
       "fontFamily": "Uil",
       "identifier": "arrowCompressH"
     },
     "arrow-down": {
-      "codepoint": 57407,
+      "codepoint": 57412,
       "fontFamily": "Uil",
       "identifier": "arrowDown"
     },
     "arrow-down-left": {
-      "codepoint": 57408,
+      "codepoint": 57413,
       "fontFamily": "Uil",
       "identifier": "arrowDownLeft"
     },
     "arrow-down-right": {
-      "codepoint": 57409,
+      "codepoint": 57414,
       "fontFamily": "Uil",
       "identifier": "arrowDownRight"
     },
     "arrow-from-right": {
-      "codepoint": 57410,
+      "codepoint": 57415,
       "fontFamily": "Uil",
       "identifier": "arrowFromRight"
     },
     "arrow-from-top": {
-      "codepoint": 57411,
+      "codepoint": 57416,
       "fontFamily": "Uil",
       "identifier": "arrowFromTop"
     },
     "arrow-growth": {
-      "codepoint": 57412,
+      "codepoint": 57417,
       "fontFamily": "Uil",
       "identifier": "arrowGrowth"
     },
     "arrow-left": {
-      "codepoint": 57413,
+      "codepoint": 57418,
       "fontFamily": "Uil",
       "identifier": "arrowLeft"
     },
     "arrow-random": {
-      "codepoint": 57414,
+      "codepoint": 57419,
       "fontFamily": "Uil",
       "identifier": "arrowRandom"
     },
     "arrow-resize-diagonal": {
-      "codepoint": 57415,
+      "codepoint": 57420,
       "fontFamily": "Uil",
       "identifier": "arrowResizeDiagonal"
     },
     "arrow-right": {
-      "codepoint": 57416,
+      "codepoint": 57421,
       "fontFamily": "Uil",
       "identifier": "arrowRight"
     },
     "arrow-to-bottom": {
-      "codepoint": 57417,
+      "codepoint": 57422,
       "fontFamily": "Uil",
       "identifier": "arrowToBottom"
     },
     "arrow-to-right": {
-      "codepoint": 57418,
+      "codepoint": 57423,
       "fontFamily": "Uil",
       "identifier": "arrowToRight"
     },
     "arrow-up": {
-      "codepoint": 57419,
+      "codepoint": 57424,
       "fontFamily": "Uil",
       "identifier": "arrowUp"
     },
     "arrow-up-left": {
-      "codepoint": 57420,
+      "codepoint": 57425,
       "fontFamily": "Uil",
       "identifier": "arrowUpLeft"
     },
     "arrow-up-right": {
-      "codepoint": 57421,
+      "codepoint": 57426,
       "fontFamily": "Uil",
       "identifier": "arrowUpRight"
     },
     "arrows-h": {
-      "codepoint": 57422,
+      "codepoint": 57427,
       "fontFamily": "Uil",
       "identifier": "arrowsH"
     },
     "arrows-h-alt": {
-      "codepoint": 57423,
+      "codepoint": 57428,
       "fontFamily": "Uil",
       "identifier": "arrowsHAlt"
     },
     "arrows-left-down": {
-      "codepoint": 57424,
+      "codepoint": 57429,
       "fontFamily": "Uil",
       "identifier": "arrowsLeftDown"
     },
     "arrows-maximize": {
-      "codepoint": 57425,
+      "codepoint": 57430,
       "fontFamily": "Uil",
       "identifier": "arrowsMaximize"
     },
     "arrows-merge": {
-      "codepoint": 57426,
+      "codepoint": 57431,
       "fontFamily": "Uil",
       "identifier": "arrowsMerge"
     },
     "arrows-resize": {
-      "codepoint": 57427,
+      "codepoint": 57432,
       "fontFamily": "Uil",
       "identifier": "arrowsResize"
     },
     "arrows-resize-h": {
-      "codepoint": 57428,
+      "codepoint": 57433,
       "fontFamily": "Uil",
       "identifier": "arrowsResizeH"
     },
     "arrows-resize-v": {
-      "codepoint": 57429,
+      "codepoint": 57434,
       "fontFamily": "Uil",
       "identifier": "arrowsResizeV"
     },
     "arrows-right-down": {
-      "codepoint": 57430,
+      "codepoint": 57435,
       "fontFamily": "Uil",
       "identifier": "arrowsRightDown"
     },
     "arrows-shrink-h": {
-      "codepoint": 57431,
+      "codepoint": 57436,
       "fontFamily": "Uil",
       "identifier": "arrowsShrinkH"
     },
     "arrows-shrink-v": {
-      "codepoint": 57432,
+      "codepoint": 57437,
       "fontFamily": "Uil",
       "identifier": "arrowsShrinkV"
     },
     "arrows-up-right": {
-      "codepoint": 57433,
+      "codepoint": 57438,
       "fontFamily": "Uil",
       "identifier": "arrowsUpRight"
     },
     "arrows-v": {
-      "codepoint": 57434,
+      "codepoint": 57439,
       "fontFamily": "Uil",
       "identifier": "arrowsV"
     },
     "arrows-v-alt": {
-      "codepoint": 57435,
+      "codepoint": 57440,
       "fontFamily": "Uil",
       "identifier": "arrowsVAlt"
     },
     "assistive-listening-systems": {
-      "codepoint": 57436,
+      "codepoint": 57441,
       "fontFamily": "Uil",
       "identifier": "assistiveListeningSystems"
     },
     "asterisk": {
-      "codepoint": 57437,
+      "codepoint": 57442,
       "fontFamily": "Uil",
       "identifier": "asterisk"
     },
     "at": {
-      "codepoint": 57438,
+      "codepoint": 57443,
       "fontFamily": "Uil",
       "identifier": "at"
     },
     "atm-card": {
-      "codepoint": 57439,
+      "codepoint": 57444,
       "fontFamily": "Uil",
       "identifier": "atmCard"
     },
     "atom": {
-      "codepoint": 57440,
+      "codepoint": 57445,
       "fontFamily": "Uil",
       "identifier": "atom"
     },
     "auto-flash": {
-      "codepoint": 57441,
+      "codepoint": 57446,
       "fontFamily": "Uil",
       "identifier": "autoFlash"
     },
     "award": {
-      "codepoint": 57442,
+      "codepoint": 57447,
       "fontFamily": "Uil",
       "identifier": "award"
     },
     "award-alt": {
-      "codepoint": 57443,
+      "codepoint": 57448,
       "fontFamily": "Uil",
       "identifier": "awardAlt"
     },
     "baby-carriage": {
-      "codepoint": 57444,
+      "codepoint": 57449,
       "fontFamily": "Uil",
       "identifier": "babyCarriage"
     },
     "backpack": {
-      "codepoint": 57445,
+      "codepoint": 57450,
       "fontFamily": "Uil",
       "identifier": "backpack"
     },
     "backspace": {
-      "codepoint": 57446,
+      "codepoint": 57451,
       "fontFamily": "Uil",
       "identifier": "backspace"
     },
     "backward": {
-      "codepoint": 57447,
+      "codepoint": 57452,
       "fontFamily": "Uil",
       "identifier": "backward"
     },
     "bag": {
-      "codepoint": 57448,
+      "codepoint": 57453,
       "fontFamily": "Uil",
       "identifier": "bag"
     },
     "bag-alt": {
-      "codepoint": 57449,
+      "codepoint": 57454,
       "fontFamily": "Uil",
       "identifier": "bagAlt"
     },
     "bag-slash": {
-      "codepoint": 57450,
+      "codepoint": 57455,
       "fontFamily": "Uil",
       "identifier": "bagSlash"
     },
+    "balance-scale": {
+      "codepoint": 57456,
+      "fontFamily": "Uil",
+      "identifier": "balanceScale"
+    },
     "ball": {
-      "codepoint": 57451,
+      "codepoint": 57457,
       "fontFamily": "Uil",
       "identifier": "ball"
     },
     "ban": {
-      "codepoint": 57452,
+      "codepoint": 57458,
       "fontFamily": "Uil",
       "identifier": "ban"
     },
     "band-aid": {
-      "codepoint": 57453,
+      "codepoint": 57459,
       "fontFamily": "Uil",
       "identifier": "bandAid"
     },
     "bars": {
-      "codepoint": 57454,
+      "codepoint": 57460,
       "fontFamily": "Uil",
       "identifier": "bars"
     },
+    "baseball-ball": {
+      "codepoint": 57461,
+      "fontFamily": "Uil",
+      "identifier": "baseballBall"
+    },
     "basketball": {
-      "codepoint": 57455,
+      "codepoint": 57462,
       "fontFamily": "Uil",
       "identifier": "basketball"
     },
     "basketball-hoop": {
-      "codepoint": 57456,
+      "codepoint": 57463,
       "fontFamily": "Uil",
       "identifier": "basketballHoop"
     },
+    "bath": {
+      "codepoint": 57464,
+      "fontFamily": "Uil",
+      "identifier": "bath"
+    },
     "battery-bolt": {
-      "codepoint": 57457,
+      "codepoint": 57465,
       "fontFamily": "Uil",
       "identifier": "batteryBolt"
     },
     "battery-empty": {
-      "codepoint": 57458,
+      "codepoint": 57466,
       "fontFamily": "Uil",
       "identifier": "batteryEmpty"
     },
     "bed": {
-      "codepoint": 57459,
+      "codepoint": 57467,
       "fontFamily": "Uil",
       "identifier": "bed"
     },
     "bed-double": {
-      "codepoint": 57460,
+      "codepoint": 57468,
       "fontFamily": "Uil",
       "identifier": "bedDouble"
     },
     "behance": {
-      "codepoint": 57461,
+      "codepoint": 57469,
       "fontFamily": "Uil",
       "identifier": "behance"
     },
+    "behance-alt": {
+      "codepoint": 57470,
+      "fontFamily": "Uil",
+      "identifier": "behanceAlt"
+    },
     "bell": {
-      "codepoint": 57462,
+      "codepoint": 57471,
       "fontFamily": "Uil",
       "identifier": "bell"
     },
     "bell-school": {
-      "codepoint": 57463,
+      "codepoint": 57472,
       "fontFamily": "Uil",
       "identifier": "bellSchool"
     },
     "bell-slash": {
-      "codepoint": 57464,
+      "codepoint": 57473,
       "fontFamily": "Uil",
       "identifier": "bellSlash"
     },
     "bill": {
-      "codepoint": 57465,
+      "codepoint": 57474,
       "fontFamily": "Uil",
       "identifier": "bill"
     },
     "bing": {
-      "codepoint": 57466,
+      "codepoint": 57475,
       "fontFamily": "Uil",
       "identifier": "bing"
     },
+    "bitcoin": {
+      "codepoint": 57476,
+      "fontFamily": "Uil",
+      "identifier": "bitcoin"
+    },
     "bitcoin-alt": {
-      "codepoint": 57467,
+      "codepoint": 57477,
       "fontFamily": "Uil",
       "identifier": "bitcoinAlt"
     },
     "bitcoin-bold": {
-      "codepoint": 57468,
+      "codepoint": 57478,
       "fontFamily": "Uil",
       "identifier": "bitcoinBold"
     },
     "bitcoin-circle": {
-      "codepoint": 57469,
+      "codepoint": 57479,
       "fontFamily": "Uil",
       "identifier": "bitcoinCircle"
     },
     "bitcoin-sign": {
-      "codepoint": 57470,
+      "codepoint": 57480,
       "fontFamily": "Uil",
       "identifier": "bitcoinSign"
     },
     "black-berry": {
-      "codepoint": 57471,
+      "codepoint": 57481,
       "fontFamily": "Uil",
       "identifier": "blackBerry"
     },
+    "blogger": {
+      "codepoint": 57482,
+      "fontFamily": "Uil",
+      "identifier": "blogger"
+    },
     "blogger-alt": {
-      "codepoint": 57472,
+      "codepoint": 57483,
       "fontFamily": "Uil",
       "identifier": "bloggerAlt"
     },
     "bluetooth-b": {
-      "codepoint": 57473,
+      "codepoint": 57484,
       "fontFamily": "Uil",
       "identifier": "bluetoothB"
     },
     "bold": {
-      "codepoint": 57474,
+      "codepoint": 57485,
       "fontFamily": "Uil",
       "identifier": "bold"
     },
     "bolt": {
-      "codepoint": 57475,
+      "codepoint": 57486,
       "fontFamily": "Uil",
       "identifier": "bolt"
     },
     "bolt-alt": {
-      "codepoint": 57476,
+      "codepoint": 57487,
       "fontFamily": "Uil",
       "identifier": "boltAlt"
     },
     "bolt-slash": {
-      "codepoint": 57477,
+      "codepoint": 57488,
       "fontFamily": "Uil",
       "identifier": "boltSlash"
     },
     "book": {
-      "codepoint": 57478,
+      "codepoint": 57489,
       "fontFamily": "Uil",
       "identifier": "book"
     },
     "book-alt": {
-      "codepoint": 57479,
+      "codepoint": 57490,
       "fontFamily": "Uil",
       "identifier": "bookAlt"
     },
     "book-medical": {
-      "codepoint": 57480,
+      "codepoint": 57491,
       "fontFamily": "Uil",
       "identifier": "bookMedical"
     },
     "book-open": {
-      "codepoint": 57481,
+      "codepoint": 57492,
       "fontFamily": "Uil",
       "identifier": "bookOpen"
     },
     "book-reader": {
-      "codepoint": 57482,
+      "codepoint": 57493,
       "fontFamily": "Uil",
       "identifier": "bookReader"
     },
     "bookmark": {
-      "codepoint": 57483,
+      "codepoint": 57494,
       "fontFamily": "Uil",
       "identifier": "bookmark"
     },
     "bookmark-full": {
-      "codepoint": 57484,
+      "codepoint": 57495,
       "fontFamily": "Uil",
       "identifier": "bookmarkFull"
     },
     "books": {
-      "codepoint": 57485,
+      "codepoint": 57496,
       "fontFamily": "Uil",
       "identifier": "books"
     },
     "boombox": {
-      "codepoint": 57486,
+      "codepoint": 57497,
       "fontFamily": "Uil",
       "identifier": "boombox"
     },
     "border-alt": {
-      "codepoint": 57487,
+      "codepoint": 57498,
       "fontFamily": "Uil",
       "identifier": "borderAlt"
     },
     "border-bottom": {
-      "codepoint": 57488,
+      "codepoint": 57499,
       "fontFamily": "Uil",
       "identifier": "borderBottom"
     },
     "border-clear": {
-      "codepoint": 57489,
+      "codepoint": 57500,
       "fontFamily": "Uil",
       "identifier": "borderClear"
     },
     "border-horizontal": {
-      "codepoint": 57490,
+      "codepoint": 57501,
       "fontFamily": "Uil",
       "identifier": "borderHorizontal"
     },
     "border-inner": {
-      "codepoint": 57491,
+      "codepoint": 57502,
       "fontFamily": "Uil",
       "identifier": "borderInner"
     },
     "border-left": {
-      "codepoint": 57492,
+      "codepoint": 57503,
       "fontFamily": "Uil",
       "identifier": "borderLeft"
     },
     "border-out": {
-      "codepoint": 57493,
+      "codepoint": 57504,
       "fontFamily": "Uil",
       "identifier": "borderOut"
     },
     "border-right": {
-      "codepoint": 57494,
+      "codepoint": 57505,
       "fontFamily": "Uil",
       "identifier": "borderRight"
     },
     "border-top": {
-      "codepoint": 57495,
+      "codepoint": 57506,
       "fontFamily": "Uil",
       "identifier": "borderTop"
     },
     "border-vertical": {
-      "codepoint": 57496,
+      "codepoint": 57507,
       "fontFamily": "Uil",
       "identifier": "borderVertical"
     },
     "bowling-ball": {
-      "codepoint": 57497,
+      "codepoint": 57508,
       "fontFamily": "Uil",
       "identifier": "bowlingBall"
     },
     "box": {
-      "codepoint": 57498,
+      "codepoint": 57509,
       "fontFamily": "Uil",
       "identifier": "box"
     },
     "brackets-curly": {
-      "codepoint": 57499,
+      "codepoint": 57510,
       "fontFamily": "Uil",
       "identifier": "bracketsCurly"
     },
     "brain": {
-      "codepoint": 57500,
+      "codepoint": 57511,
       "fontFamily": "Uil",
       "identifier": "brain"
     },
     "briefcase": {
-      "codepoint": 57501,
+      "codepoint": 57512,
       "fontFamily": "Uil",
       "identifier": "briefcase"
     },
     "briefcase-alt": {
-      "codepoint": 57502,
+      "codepoint": 57513,
       "fontFamily": "Uil",
       "identifier": "briefcaseAlt"
     },
     "bright": {
-      "codepoint": 57503,
+      "codepoint": 57514,
       "fontFamily": "Uil",
       "identifier": "bright"
     },
     "brightness": {
-      "codepoint": 57504,
+      "codepoint": 57515,
       "fontFamily": "Uil",
       "identifier": "brightness"
     },
     "brightness-empty": {
-      "codepoint": 57505,
+      "codepoint": 57516,
       "fontFamily": "Uil",
       "identifier": "brightnessEmpty"
     },
     "brightness-half": {
-      "codepoint": 57506,
+      "codepoint": 57517,
       "fontFamily": "Uil",
       "identifier": "brightnessHalf"
     },
     "brightness-low": {
-      "codepoint": 57507,
+      "codepoint": 57518,
       "fontFamily": "Uil",
       "identifier": "brightnessLow"
     },
     "brightness-minus": {
-      "codepoint": 57508,
+      "codepoint": 57519,
       "fontFamily": "Uil",
       "identifier": "brightnessMinus"
     },
     "brightness-plus": {
-      "codepoint": 57509,
+      "codepoint": 57520,
       "fontFamily": "Uil",
       "identifier": "brightnessPlus"
     },
     "bring-bottom": {
-      "codepoint": 57510,
+      "codepoint": 57521,
       "fontFamily": "Uil",
       "identifier": "bringBottom"
     },
     "bring-front": {
-      "codepoint": 57511,
+      "codepoint": 57522,
       "fontFamily": "Uil",
       "identifier": "bringFront"
     },
     "browser": {
-      "codepoint": 57512,
+      "codepoint": 57523,
       "fontFamily": "Uil",
       "identifier": "browser"
     },
     "brush-alt": {
-      "codepoint": 57513,
+      "codepoint": 57524,
       "fontFamily": "Uil",
       "identifier": "brushAlt"
     },
     "bug": {
-      "codepoint": 57514,
+      "codepoint": 57525,
       "fontFamily": "Uil",
       "identifier": "bug"
     },
     "building": {
-      "codepoint": 57515,
+      "codepoint": 57526,
       "fontFamily": "Uil",
       "identifier": "building"
     },
     "bullseye": {
-      "codepoint": 57516,
+      "codepoint": 57527,
       "fontFamily": "Uil",
       "identifier": "bullseye"
     },
     "bus": {
-      "codepoint": 57517,
+      "codepoint": 57528,
       "fontFamily": "Uil",
       "identifier": "bus"
     },
     "bus-alt": {
-      "codepoint": 57518,
+      "codepoint": 57529,
       "fontFamily": "Uil",
       "identifier": "busAlt"
     },
     "bus-school": {
-      "codepoint": 57519,
+      "codepoint": 57530,
       "fontFamily": "Uil",
       "identifier": "busSchool"
     },
     "calcualtor": {
-      "codepoint": 57520,
+      "codepoint": 57531,
       "fontFamily": "Uil",
       "identifier": "calcualtor"
     },
     "calculator": {
-      "codepoint": 57521,
+      "codepoint": 57532,
       "fontFamily": "Uil",
       "identifier": "calculator"
     },
     "calculator-alt": {
-      "codepoint": 57522,
+      "codepoint": 57533,
       "fontFamily": "Uil",
       "identifier": "calculatorAlt"
     },
     "calendar": {
-      "codepoint": 57523,
+      "codepoint": 57534,
       "fontFamily": "Uil",
       "identifier": "calendar"
     },
     "calendar-alt": {
-      "codepoint": 57524,
+      "codepoint": 57535,
       "fontFamily": "Uil",
       "identifier": "calendarAlt"
     },
     "calendar-slash": {
-      "codepoint": 57525,
+      "codepoint": 57536,
       "fontFamily": "Uil",
       "identifier": "calendarSlash"
     },
     "calender": {
-      "codepoint": 57526,
+      "codepoint": 57537,
       "fontFamily": "Uil",
       "identifier": "calender"
     },
     "calling": {
-      "codepoint": 57527,
+      "codepoint": 57538,
       "fontFamily": "Uil",
       "identifier": "calling"
     },
     "camera": {
-      "codepoint": 57528,
+      "codepoint": 57539,
       "fontFamily": "Uil",
       "identifier": "camera"
     },
     "camera-change": {
-      "codepoint": 57529,
+      "codepoint": 57540,
       "fontFamily": "Uil",
       "identifier": "cameraChange"
     },
     "camera-plus": {
-      "codepoint": 57530,
+      "codepoint": 57541,
       "fontFamily": "Uil",
       "identifier": "cameraPlus"
     },
     "camera-slash": {
-      "codepoint": 57531,
+      "codepoint": 57542,
       "fontFamily": "Uil",
       "identifier": "cameraSlash"
     },
     "cancel": {
-      "codepoint": 57532,
+      "codepoint": 57543,
       "fontFamily": "Uil",
       "identifier": "cancel"
     },
     "capsule": {
-      "codepoint": 57533,
+      "codepoint": 57544,
       "fontFamily": "Uil",
       "identifier": "capsule"
     },
     "capture": {
-      "codepoint": 57534,
+      "codepoint": 57545,
       "fontFamily": "Uil",
       "identifier": "capture"
     },
     "car": {
-      "codepoint": 57535,
+      "codepoint": 57546,
       "fontFamily": "Uil",
       "identifier": "car"
     },
     "car-sideview": {
-      "codepoint": 57536,
+      "codepoint": 57547,
       "fontFamily": "Uil",
       "identifier": "carSideview"
     },
     "car-slash": {
-      "codepoint": 57537,
+      "codepoint": 57548,
       "fontFamily": "Uil",
       "identifier": "carSlash"
     },
     "car-wash": {
-      "codepoint": 57538,
+      "codepoint": 57549,
       "fontFamily": "Uil",
       "identifier": "carWash"
     },
     "card-atm": {
-      "codepoint": 57539,
+      "codepoint": 57550,
       "fontFamily": "Uil",
       "identifier": "cardAtm"
     },
     "caret-right": {
-      "codepoint": 57540,
+      "codepoint": 57551,
       "fontFamily": "Uil",
       "identifier": "caretRight"
     },
     "cart": {
-      "codepoint": 57541,
+      "codepoint": 57552,
       "fontFamily": "Uil",
       "identifier": "cart"
     },
     "cell": {
-      "codepoint": 57542,
+      "codepoint": 57553,
       "fontFamily": "Uil",
       "identifier": "cell"
     },
     "celsius": {
-      "codepoint": 57543,
+      "codepoint": 57554,
       "fontFamily": "Uil",
       "identifier": "celsius"
     },
     "channel": {
-      "codepoint": 57544,
+      "codepoint": 57555,
       "fontFamily": "Uil",
       "identifier": "channel"
     },
     "channel-add": {
-      "codepoint": 57545,
+      "codepoint": 57556,
       "fontFamily": "Uil",
       "identifier": "channelAdd"
     },
     "chart": {
-      "codepoint": 57546,
+      "codepoint": 57557,
       "fontFamily": "Uil",
       "identifier": "chart"
     },
     "chart-bar": {
-      "codepoint": 57547,
+      "codepoint": 57558,
       "fontFamily": "Uil",
       "identifier": "chartBar"
     },
     "chart-bar-alt": {
-      "codepoint": 57548,
+      "codepoint": 57559,
       "fontFamily": "Uil",
       "identifier": "chartBarAlt"
     },
     "chart-down": {
-      "codepoint": 57549,
+      "codepoint": 57560,
       "fontFamily": "Uil",
       "identifier": "chartDown"
     },
     "chart-growth": {
-      "codepoint": 57550,
+      "codepoint": 57561,
       "fontFamily": "Uil",
       "identifier": "chartGrowth"
     },
     "chart-growth-alt": {
-      "codepoint": 57551,
+      "codepoint": 57562,
       "fontFamily": "Uil",
       "identifier": "chartGrowthAlt"
     },
     "chart-line": {
-      "codepoint": 57552,
+      "codepoint": 57563,
       "fontFamily": "Uil",
       "identifier": "chartLine"
     },
     "chart-pie": {
-      "codepoint": 57553,
+      "codepoint": 57564,
       "fontFamily": "Uil",
       "identifier": "chartPie"
     },
     "chart-pie-alt": {
-      "codepoint": 57554,
+      "codepoint": 57565,
       "fontFamily": "Uil",
       "identifier": "chartPieAlt"
     },
     "chat": {
-      "codepoint": 57555,
+      "codepoint": 57566,
       "fontFamily": "Uil",
       "identifier": "chat"
     },
     "chat-bubble-user": {
-      "codepoint": 57556,
+      "codepoint": 57567,
       "fontFamily": "Uil",
       "identifier": "chatBubbleUser"
     },
     "chat-info": {
-      "codepoint": 57557,
+      "codepoint": 57568,
       "fontFamily": "Uil",
       "identifier": "chatInfo"
     },
     "check": {
-      "codepoint": 57558,
+      "codepoint": 57569,
       "fontFamily": "Uil",
       "identifier": "check"
     },
     "check-circle": {
-      "codepoint": 57559,
+      "codepoint": 57570,
       "fontFamily": "Uil",
       "identifier": "checkCircle"
     },
     "check-square": {
-      "codepoint": 57560,
+      "codepoint": 57571,
       "fontFamily": "Uil",
       "identifier": "checkSquare"
     },
     "circle": {
-      "codepoint": 57561,
+      "codepoint": 57572,
       "fontFamily": "Uil",
       "identifier": "circle"
     },
     "circle-layer": {
-      "codepoint": 57562,
+      "codepoint": 57573,
       "fontFamily": "Uil",
       "identifier": "circleLayer"
     },
     "circuit": {
-      "codepoint": 57563,
+      "codepoint": 57574,
       "fontFamily": "Uil",
       "identifier": "circuit"
     },
     "clapper-board": {
-      "codepoint": 57564,
+      "codepoint": 57575,
       "fontFamily": "Uil",
       "identifier": "clapperBoard"
     },
+    "clinic-medical": {
+      "codepoint": 57576,
+      "fontFamily": "Uil",
+      "identifier": "clinicMedical"
+    },
     "clipboard": {
-      "codepoint": 57565,
+      "codepoint": 57577,
       "fontFamily": "Uil",
       "identifier": "clipboard"
     },
     "clipboard-alt": {
-      "codepoint": 57566,
+      "codepoint": 57578,
       "fontFamily": "Uil",
       "identifier": "clipboardAlt"
     },
     "clipboard-blank": {
-      "codepoint": 57567,
+      "codepoint": 57579,
       "fontFamily": "Uil",
       "identifier": "clipboardBlank"
     },
     "clipboard-notes": {
-      "codepoint": 57568,
+      "codepoint": 57580,
       "fontFamily": "Uil",
       "identifier": "clipboardNotes"
     },
     "clock": {
-      "codepoint": 57569,
+      "codepoint": 57581,
       "fontFamily": "Uil",
       "identifier": "clock"
     },
+    "clock-eight": {
+      "codepoint": 57582,
+      "fontFamily": "Uil",
+      "identifier": "clockEight"
+    },
+    "clock-five": {
+      "codepoint": 57583,
+      "fontFamily": "Uil",
+      "identifier": "clockFive"
+    },
     "clock-nine": {
-      "codepoint": 57570,
+      "codepoint": 57584,
       "fontFamily": "Uil",
       "identifier": "clockNine"
     },
+    "clock-seven": {
+      "codepoint": 57585,
+      "fontFamily": "Uil",
+      "identifier": "clockSeven"
+    },
+    "clock-ten": {
+      "codepoint": 57586,
+      "fontFamily": "Uil",
+      "identifier": "clockTen"
+    },
     "clock-three": {
-      "codepoint": 57571,
+      "codepoint": 57587,
       "fontFamily": "Uil",
       "identifier": "clockThree"
     },
+    "clock-two": {
+      "codepoint": 57588,
+      "fontFamily": "Uil",
+      "identifier": "clockTwo"
+    },
     "closed-captioning": {
-      "codepoint": 57572,
+      "codepoint": 57589,
       "fontFamily": "Uil",
       "identifier": "closedCaptioning"
     },
     "closed-captioning-slash": {
-      "codepoint": 57573,
+      "codepoint": 57590,
       "fontFamily": "Uil",
       "identifier": "closedCaptioningSlash"
     },
     "cloud": {
-      "codepoint": 57574,
+      "codepoint": 57591,
       "fontFamily": "Uil",
       "identifier": "cloud"
     },
     "cloud-block": {
-      "codepoint": 57575,
+      "codepoint": 57592,
       "fontFamily": "Uil",
       "identifier": "cloudBlock"
     },
     "cloud-bookmark": {
-      "codepoint": 57576,
+      "codepoint": 57593,
       "fontFamily": "Uil",
       "identifier": "cloudBookmark"
     },
     "cloud-check": {
-      "codepoint": 57577,
+      "codepoint": 57594,
       "fontFamily": "Uil",
       "identifier": "cloudCheck"
     },
     "cloud-computing": {
-      "codepoint": 57578,
+      "codepoint": 57595,
       "fontFamily": "Uil",
       "identifier": "cloudComputing"
     },
     "cloud-data-connection": {
-      "codepoint": 57579,
+      "codepoint": 57596,
       "fontFamily": "Uil",
       "identifier": "cloudDataConnection"
     },
     "cloud-database-tree": {
-      "codepoint": 57580,
+      "codepoint": 57597,
       "fontFamily": "Uil",
       "identifier": "cloudDatabaseTree"
     },
     "cloud-download": {
-      "codepoint": 57581,
+      "codepoint": 57598,
       "fontFamily": "Uil",
       "identifier": "cloudDownload"
     },
     "cloud-drizzle": {
-      "codepoint": 57582,
+      "codepoint": 57599,
       "fontFamily": "Uil",
       "identifier": "cloudDrizzle"
     },
     "cloud-exclamation": {
-      "codepoint": 57583,
+      "codepoint": 57600,
       "fontFamily": "Uil",
       "identifier": "cloudExclamation"
     },
     "cloud-hail": {
-      "codepoint": 57584,
+      "codepoint": 57601,
       "fontFamily": "Uil",
       "identifier": "cloudHail"
     },
     "cloud-heart": {
-      "codepoint": 57585,
+      "codepoint": 57602,
       "fontFamily": "Uil",
       "identifier": "cloudHeart"
     },
     "cloud-info": {
-      "codepoint": 57586,
+      "codepoint": 57603,
       "fontFamily": "Uil",
       "identifier": "cloudInfo"
     },
     "cloud-lock": {
-      "codepoint": 57587,
+      "codepoint": 57604,
       "fontFamily": "Uil",
       "identifier": "cloudLock"
     },
     "cloud-meatball": {
-      "codepoint": 57588,
+      "codepoint": 57605,
       "fontFamily": "Uil",
       "identifier": "cloudMeatball"
     },
     "cloud-moon": {
-      "codepoint": 57589,
+      "codepoint": 57606,
       "fontFamily": "Uil",
       "identifier": "cloudMoon"
     },
     "cloud-moon-hail": {
-      "codepoint": 57590,
+      "codepoint": 57607,
       "fontFamily": "Uil",
       "identifier": "cloudMoonHail"
     },
     "cloud-moon-meatball": {
-      "codepoint": 57591,
+      "codepoint": 57608,
       "fontFamily": "Uil",
       "identifier": "cloudMoonMeatball"
     },
     "cloud-moon-rain": {
-      "codepoint": 57592,
+      "codepoint": 57609,
       "fontFamily": "Uil",
       "identifier": "cloudMoonRain"
     },
     "cloud-moon-showers": {
-      "codepoint": 57593,
+      "codepoint": 57610,
       "fontFamily": "Uil",
       "identifier": "cloudMoonShowers"
     },
     "cloud-moon-tear": {
-      "codepoint": 57594,
+      "codepoint": 57611,
       "fontFamily": "Uil",
       "identifier": "cloudMoonTear"
     },
     "cloud-question": {
-      "codepoint": 57595,
+      "codepoint": 57612,
       "fontFamily": "Uil",
       "identifier": "cloudQuestion"
     },
     "cloud-rain": {
-      "codepoint": 57596,
+      "codepoint": 57613,
       "fontFamily": "Uil",
       "identifier": "cloudRain"
     },
     "cloud-rain-sun": {
-      "codepoint": 57597,
+      "codepoint": 57614,
       "fontFamily": "Uil",
       "identifier": "cloudRainSun"
     },
     "cloud-redo": {
-      "codepoint": 57598,
+      "codepoint": 57615,
       "fontFamily": "Uil",
       "identifier": "cloudRedo"
     },
     "cloud-set": {
-      "codepoint": 57599,
+      "codepoint": 57616,
       "fontFamily": "Uil",
       "identifier": "cloudSet"
     },
     "cloud-share": {
-      "codepoint": 57600,
+      "codepoint": 57617,
       "fontFamily": "Uil",
       "identifier": "cloudShare"
     },
     "cloud-shield": {
-      "codepoint": 57601,
+      "codepoint": 57618,
       "fontFamily": "Uil",
       "identifier": "cloudShield"
     },
     "cloud-showers": {
-      "codepoint": 57602,
+      "codepoint": 57619,
       "fontFamily": "Uil",
       "identifier": "cloudShowers"
     },
     "cloud-showers-alt": {
-      "codepoint": 57603,
+      "codepoint": 57620,
       "fontFamily": "Uil",
       "identifier": "cloudShowersAlt"
     },
     "cloud-showers-heavy": {
-      "codepoint": 57604,
+      "codepoint": 57621,
       "fontFamily": "Uil",
       "identifier": "cloudShowersHeavy"
     },
     "cloud-slash": {
-      "codepoint": 57605,
+      "codepoint": 57622,
       "fontFamily": "Uil",
       "identifier": "cloudSlash"
     },
     "cloud-sun": {
-      "codepoint": 57606,
+      "codepoint": 57623,
       "fontFamily": "Uil",
       "identifier": "cloudSun"
     },
     "cloud-sun-hail": {
-      "codepoint": 57607,
+      "codepoint": 57624,
       "fontFamily": "Uil",
       "identifier": "cloudSunHail"
     },
     "cloud-sun-meatball": {
-      "codepoint": 57608,
+      "codepoint": 57625,
       "fontFamily": "Uil",
       "identifier": "cloudSunMeatball"
     },
     "cloud-sun-rain": {
-      "codepoint": 57609,
+      "codepoint": 57626,
       "fontFamily": "Uil",
       "identifier": "cloudSunRain"
     },
     "cloud-sun-rain-alt": {
-      "codepoint": 57610,
+      "codepoint": 57627,
       "fontFamily": "Uil",
       "identifier": "cloudSunRainAlt"
     },
     "cloud-sun-tear": {
-      "codepoint": 57611,
+      "codepoint": 57628,
       "fontFamily": "Uil",
       "identifier": "cloudSunTear"
     },
     "cloud-times": {
-      "codepoint": 57612,
+      "codepoint": 57629,
       "fontFamily": "Uil",
       "identifier": "cloudTimes"
     },
     "cloud-unlock": {
-      "codepoint": 57613,
+      "codepoint": 57630,
       "fontFamily": "Uil",
       "identifier": "cloudUnlock"
     },
     "cloud-upload": {
-      "codepoint": 57614,
+      "codepoint": 57631,
       "fontFamily": "Uil",
       "identifier": "cloudUpload"
     },
     "cloud-wifi": {
-      "codepoint": 57615,
+      "codepoint": 57632,
       "fontFamily": "Uil",
       "identifier": "cloudWifi"
     },
     "cloud-wind": {
-      "codepoint": 57616,
+      "codepoint": 57633,
       "fontFamily": "Uil",
       "identifier": "cloudWind"
     },
     "clouds": {
-      "codepoint": 57617,
+      "codepoint": 57634,
       "fontFamily": "Uil",
       "identifier": "clouds"
     },
     "club": {
-      "codepoint": 57618,
+      "codepoint": 57635,
       "fontFamily": "Uil",
       "identifier": "club"
     },
     "code": {
-      "codepoint": 57619,
+      "codepoint": 57636,
       "fontFamily": "Uil",
       "identifier": "code"
     },
     "code-branch": {
-      "codepoint": 57620,
+      "codepoint": 57637,
       "fontFamily": "Uil",
       "identifier": "codeBranch"
     },
     "coffee": {
-      "codepoint": 57621,
+      "codepoint": 57638,
       "fontFamily": "Uil",
       "identifier": "coffee"
     },
     "cog": {
-      "codepoint": 57622,
+      "codepoint": 57639,
       "fontFamily": "Uil",
       "identifier": "cog"
     },
     "coins": {
-      "codepoint": 57623,
+      "codepoint": 57640,
       "fontFamily": "Uil",
       "identifier": "coins"
     },
     "columns": {
-      "codepoint": 57624,
+      "codepoint": 57641,
       "fontFamily": "Uil",
       "identifier": "columns"
     },
     "comment": {
-      "codepoint": 57625,
+      "codepoint": 57642,
       "fontFamily": "Uil",
       "identifier": "comment"
     },
     "comment-add": {
-      "codepoint": 57626,
+      "codepoint": 57643,
       "fontFamily": "Uil",
       "identifier": "commentAdd"
     },
     "comment-alt": {
-      "codepoint": 57627,
+      "codepoint": 57644,
       "fontFamily": "Uil",
       "identifier": "commentAlt"
     },
     "comment-alt-block": {
-      "codepoint": 57628,
+      "codepoint": 57645,
       "fontFamily": "Uil",
       "identifier": "commentAltBlock"
     },
     "comment-alt-chart-lines": {
-      "codepoint": 57629,
+      "codepoint": 57646,
       "fontFamily": "Uil",
       "identifier": "commentAltChartLines"
     },
     "comment-alt-check": {
-      "codepoint": 57630,
+      "codepoint": 57647,
       "fontFamily": "Uil",
       "identifier": "commentAltCheck"
     },
     "comment-alt-dots": {
-      "codepoint": 57631,
+      "codepoint": 57648,
       "fontFamily": "Uil",
       "identifier": "commentAltDots"
     },
     "comment-alt-download": {
-      "codepoint": 57632,
+      "codepoint": 57649,
       "fontFamily": "Uil",
       "identifier": "commentAltDownload"
     },
     "comment-alt-edit": {
-      "codepoint": 57633,
+      "codepoint": 57650,
       "fontFamily": "Uil",
       "identifier": "commentAltEdit"
     },
     "comment-alt-exclamation": {
-      "codepoint": 57634,
+      "codepoint": 57651,
       "fontFamily": "Uil",
       "identifier": "commentAltExclamation"
     },
     "comment-alt-heart": {
-      "codepoint": 57635,
+      "codepoint": 57652,
       "fontFamily": "Uil",
       "identifier": "commentAltHeart"
     },
     "comment-alt-image": {
-      "codepoint": 57636,
+      "codepoint": 57653,
       "fontFamily": "Uil",
       "identifier": "commentAltImage"
     },
     "comment-alt-info": {
-      "codepoint": 57637,
+      "codepoint": 57654,
       "fontFamily": "Uil",
       "identifier": "commentAltInfo"
     },
     "comment-alt-lines": {
-      "codepoint": 57638,
+      "codepoint": 57655,
       "fontFamily": "Uil",
       "identifier": "commentAltLines"
     },
     "comment-alt-lock": {
-      "codepoint": 57639,
+      "codepoint": 57656,
       "fontFamily": "Uil",
       "identifier": "commentAltLock"
     },
     "comment-alt-medical": {
-      "codepoint": 57640,
+      "codepoint": 57657,
       "fontFamily": "Uil",
       "identifier": "commentAltMedical"
     },
     "comment-alt-message": {
-      "codepoint": 57641,
+      "codepoint": 57658,
       "fontFamily": "Uil",
       "identifier": "commentAltMessage"
     },
     "comment-alt-notes": {
-      "codepoint": 57642,
+      "codepoint": 57659,
       "fontFamily": "Uil",
       "identifier": "commentAltNotes"
     },
     "comment-alt-plus": {
-      "codepoint": 57643,
+      "codepoint": 57660,
       "fontFamily": "Uil",
       "identifier": "commentAltPlus"
     },
     "comment-alt-question": {
-      "codepoint": 57644,
+      "codepoint": 57661,
       "fontFamily": "Uil",
       "identifier": "commentAltQuestion"
     },
     "comment-alt-redo": {
-      "codepoint": 57645,
+      "codepoint": 57662,
       "fontFamily": "Uil",
       "identifier": "commentAltRedo"
     },
     "comment-alt-search": {
-      "codepoint": 57646,
+      "codepoint": 57663,
       "fontFamily": "Uil",
       "identifier": "commentAltSearch"
     },
     "comment-alt-share": {
-      "codepoint": 57647,
+      "codepoint": 57664,
       "fontFamily": "Uil",
       "identifier": "commentAltShare"
     },
     "comment-alt-shield": {
-      "codepoint": 57648,
+      "codepoint": 57665,
       "fontFamily": "Uil",
       "identifier": "commentAltShield"
     },
     "comment-alt-slash": {
-      "codepoint": 57649,
+      "codepoint": 57666,
       "fontFamily": "Uil",
       "identifier": "commentAltSlash"
     },
     "comment-alt-upload": {
-      "codepoint": 57650,
+      "codepoint": 57667,
       "fontFamily": "Uil",
       "identifier": "commentAltUpload"
     },
     "comment-alt-verify": {
-      "codepoint": 57651,
+      "codepoint": 57668,
       "fontFamily": "Uil",
       "identifier": "commentAltVerify"
     },
     "comment-block": {
-      "codepoint": 57652,
+      "codepoint": 57669,
       "fontFamily": "Uil",
       "identifier": "commentBlock"
     },
     "comment-chart-line": {
-      "codepoint": 57653,
+      "codepoint": 57670,
       "fontFamily": "Uil",
       "identifier": "commentChartLine"
     },
     "comment-check": {
-      "codepoint": 57654,
+      "codepoint": 57671,
       "fontFamily": "Uil",
       "identifier": "commentCheck"
     },
     "comment-dots": {
-      "codepoint": 57655,
+      "codepoint": 57672,
       "fontFamily": "Uil",
       "identifier": "commentDots"
     },
     "comment-download": {
-      "codepoint": 57656,
+      "codepoint": 57673,
       "fontFamily": "Uil",
       "identifier": "commentDownload"
     },
     "comment-edit": {
-      "codepoint": 57657,
+      "codepoint": 57674,
       "fontFamily": "Uil",
       "identifier": "commentEdit"
     },
     "comment-exclamation": {
-      "codepoint": 57658,
+      "codepoint": 57675,
       "fontFamily": "Uil",
       "identifier": "commentExclamation"
     },
     "comment-heart": {
-      "codepoint": 57659,
+      "codepoint": 57676,
       "fontFamily": "Uil",
       "identifier": "commentHeart"
     },
     "comment-image": {
-      "codepoint": 57660,
+      "codepoint": 57677,
       "fontFamily": "Uil",
       "identifier": "commentImage"
     },
     "comment-info": {
-      "codepoint": 57661,
+      "codepoint": 57678,
       "fontFamily": "Uil",
       "identifier": "commentInfo"
     },
     "comment-info-alt": {
-      "codepoint": 57662,
+      "codepoint": 57679,
       "fontFamily": "Uil",
       "identifier": "commentInfoAlt"
     },
     "comment-lines": {
-      "codepoint": 57663,
+      "codepoint": 57680,
       "fontFamily": "Uil",
       "identifier": "commentLines"
     },
     "comment-lock": {
-      "codepoint": 57664,
+      "codepoint": 57681,
       "fontFamily": "Uil",
       "identifier": "commentLock"
     },
     "comment-medical": {
-      "codepoint": 57665,
+      "codepoint": 57682,
       "fontFamily": "Uil",
       "identifier": "commentMedical"
     },
     "comment-message": {
-      "codepoint": 57666,
+      "codepoint": 57683,
       "fontFamily": "Uil",
       "identifier": "commentMessage"
     },
     "comment-notes": {
-      "codepoint": 57667,
+      "codepoint": 57684,
       "fontFamily": "Uil",
       "identifier": "commentNotes"
     },
     "comment-plus": {
-      "codepoint": 57668,
+      "codepoint": 57685,
       "fontFamily": "Uil",
       "identifier": "commentPlus"
     },
     "comment-question": {
-      "codepoint": 57669,
+      "codepoint": 57686,
       "fontFamily": "Uil",
       "identifier": "commentQuestion"
     },
     "comment-redo": {
-      "codepoint": 57670,
+      "codepoint": 57687,
       "fontFamily": "Uil",
       "identifier": "commentRedo"
     },
     "comment-search": {
-      "codepoint": 57671,
+      "codepoint": 57688,
       "fontFamily": "Uil",
       "identifier": "commentSearch"
     },
     "comment-share": {
-      "codepoint": 57672,
+      "codepoint": 57689,
       "fontFamily": "Uil",
       "identifier": "commentShare"
     },
     "comment-shield": {
-      "codepoint": 57673,
+      "codepoint": 57690,
       "fontFamily": "Uil",
       "identifier": "commentShield"
     },
     "comment-slash": {
-      "codepoint": 57674,
+      "codepoint": 57691,
       "fontFamily": "Uil",
       "identifier": "commentSlash"
     },
     "comment-upload": {
-      "codepoint": 57675,
+      "codepoint": 57692,
       "fontFamily": "Uil",
       "identifier": "commentUpload"
     },
     "comment-verify": {
-      "codepoint": 57676,
+      "codepoint": 57693,
       "fontFamily": "Uil",
       "identifier": "commentVerify"
     },
     "comments": {
-      "codepoint": 57677,
+      "codepoint": 57694,
       "fontFamily": "Uil",
       "identifier": "comments"
     },
     "comments-alt": {
-      "codepoint": 57678,
+      "codepoint": 57695,
       "fontFamily": "Uil",
       "identifier": "commentsAlt"
     },
     "commnet-alt-slash": {
-      "codepoint": 57679,
+      "codepoint": 57696,
       "fontFamily": "Uil",
       "identifier": "commnetAltSlash"
     },
     "compact-disc": {
-      "codepoint": 57680,
+      "codepoint": 57697,
       "fontFamily": "Uil",
       "identifier": "compactDisc"
     },
     "comparison": {
-      "codepoint": 57681,
+      "codepoint": 57698,
       "fontFamily": "Uil",
       "identifier": "comparison"
     },
     "compass": {
-      "codepoint": 57682,
+      "codepoint": 57699,
       "fontFamily": "Uil",
       "identifier": "compass"
     },
     "compress": {
-      "codepoint": 57683,
+      "codepoint": 57700,
       "fontFamily": "Uil",
       "identifier": "compress"
     },
     "compress-alt": {
-      "codepoint": 57684,
+      "codepoint": 57701,
       "fontFamily": "Uil",
       "identifier": "compressAlt"
     },
     "compress-alt-left": {
-      "codepoint": 57685,
+      "codepoint": 57702,
       "fontFamily": "Uil",
       "identifier": "compressAltLeft"
     },
     "compress-arrows": {
-      "codepoint": 57686,
+      "codepoint": 57703,
       "fontFamily": "Uil",
       "identifier": "compressArrows"
     },
     "compress-lines": {
-      "codepoint": 57687,
+      "codepoint": 57704,
       "fontFamily": "Uil",
       "identifier": "compressLines"
     },
     "compress-point": {
-      "codepoint": 57688,
+      "codepoint": 57705,
       "fontFamily": "Uil",
       "identifier": "compressPoint"
     },
     "compress-v": {
-      "codepoint": 57689,
+      "codepoint": 57706,
       "fontFamily": "Uil",
       "identifier": "compressV"
     },
     "computer-mouse": {
-      "codepoint": 57690,
+      "codepoint": 57707,
       "fontFamily": "Uil",
       "identifier": "computerMouse"
     },
     "confused": {
-      "codepoint": 57691,
+      "codepoint": 57708,
       "fontFamily": "Uil",
       "identifier": "confused"
     },
     "copy": {
-      "codepoint": 57692,
+      "codepoint": 57709,
       "fontFamily": "Uil",
       "identifier": "copy"
     },
     "copy-alt": {
-      "codepoint": 57693,
+      "codepoint": 57710,
       "fontFamily": "Uil",
       "identifier": "copyAlt"
     },
     "copy-landscape": {
-      "codepoint": 57694,
+      "codepoint": 57711,
       "fontFamily": "Uil",
       "identifier": "copyLandscape"
     },
     "copyright": {
-      "codepoint": 57695,
+      "codepoint": 57712,
       "fontFamily": "Uil",
       "identifier": "copyright"
     },
     "corner-down-left": {
-      "codepoint": 57696,
+      "codepoint": 57713,
       "fontFamily": "Uil",
       "identifier": "cornerDownLeft"
     },
     "corner-down-right": {
-      "codepoint": 57697,
+      "codepoint": 57714,
       "fontFamily": "Uil",
       "identifier": "cornerDownRight"
     },
     "corner-down-right-alt": {
-      "codepoint": 57698,
+      "codepoint": 57715,
       "fontFamily": "Uil",
       "identifier": "cornerDownRightAlt"
     },
     "corner-left-down": {
-      "codepoint": 57699,
+      "codepoint": 57716,
       "fontFamily": "Uil",
       "identifier": "cornerLeftDown"
     },
     "corner-right-down": {
-      "codepoint": 57700,
+      "codepoint": 57717,
       "fontFamily": "Uil",
       "identifier": "cornerRightDown"
     },
     "corner-up-left": {
-      "codepoint": 57701,
+      "codepoint": 57718,
       "fontFamily": "Uil",
       "identifier": "cornerUpLeft"
     },
     "corner-up-left-alt": {
-      "codepoint": 57702,
+      "codepoint": 57719,
       "fontFamily": "Uil",
       "identifier": "cornerUpLeftAlt"
     },
     "corner-up-right": {
-      "codepoint": 57703,
+      "codepoint": 57720,
       "fontFamily": "Uil",
       "identifier": "cornerUpRight"
     },
     "corner-up-right-alt": {
-      "codepoint": 57704,
+      "codepoint": 57721,
       "fontFamily": "Uil",
       "identifier": "cornerUpRightAlt"
     },
+    "coronavirus": {
+      "codepoint": 57722,
+      "fontFamily": "Uil",
+      "identifier": "coronavirus"
+    },
     "create-dashboard": {
-      "codepoint": 57705,
+      "codepoint": 57723,
       "fontFamily": "Uil",
       "identifier": "createDashboard"
     },
     "creative-commons-pd": {
-      "codepoint": 57706,
+      "codepoint": 57724,
       "fontFamily": "Uil",
       "identifier": "creativeCommonsPd"
     },
     "creative-commons-pd-alt": {
-      "codepoint": 57707,
+      "codepoint": 57725,
       "fontFamily": "Uil",
       "identifier": "creativeCommonsPdAlt"
     },
     "credit-card": {
-      "codepoint": 57708,
+      "codepoint": 57726,
       "fontFamily": "Uil",
       "identifier": "creditCard"
     },
     "credit-card-search": {
-      "codepoint": 57709,
+      "codepoint": 57727,
       "fontFamily": "Uil",
       "identifier": "creditCardSearch"
     },
     "crockery": {
-      "codepoint": 57710,
+      "codepoint": 57728,
       "fontFamily": "Uil",
       "identifier": "crockery"
     },
     "crop-alt": {
-      "codepoint": 57711,
+      "codepoint": 57729,
       "fontFamily": "Uil",
       "identifier": "cropAlt"
     },
     "crop-alt-rotate-left": {
-      "codepoint": 57712,
+      "codepoint": 57730,
       "fontFamily": "Uil",
       "identifier": "cropAltRotateLeft"
     },
     "crop-alt-rotate-right": {
-      "codepoint": 57713,
+      "codepoint": 57731,
       "fontFamily": "Uil",
       "identifier": "cropAltRotateRight"
     },
     "crosshair": {
-      "codepoint": 57714,
+      "codepoint": 57732,
       "fontFamily": "Uil",
       "identifier": "crosshair"
     },
     "crosshair-alt": {
-      "codepoint": 57715,
+      "codepoint": 57733,
       "fontFamily": "Uil",
       "identifier": "crosshairAlt"
     },
     "crosshairs": {
-      "codepoint": 57716,
+      "codepoint": 57734,
       "fontFamily": "Uil",
       "identifier": "crosshairs"
     },
+    "css3-simple": {
+      "codepoint": 57735,
+      "fontFamily": "Uil",
+      "identifier": "css3Simple"
+    },
     "cube": {
-      "codepoint": 57717,
+      "codepoint": 57736,
       "fontFamily": "Uil",
       "identifier": "cube"
     },
+    "dashboard": {
+      "codepoint": 57737,
+      "fontFamily": "Uil",
+      "identifier": "dashboard"
+    },
     "data-sharing": {
-      "codepoint": 57718,
+      "codepoint": 57738,
       "fontFamily": "Uil",
       "identifier": "dataSharing"
     },
     "database": {
-      "codepoint": 57719,
+      "codepoint": 57739,
       "fontFamily": "Uil",
       "identifier": "database"
     },
     "database-alt": {
-      "codepoint": 57720,
+      "codepoint": 57740,
       "fontFamily": "Uil",
       "identifier": "databaseAlt"
     },
     "desert": {
-      "codepoint": 57721,
+      "codepoint": 57741,
       "fontFamily": "Uil",
       "identifier": "desert"
     },
     "desktop": {
-      "codepoint": 57722,
+      "codepoint": 57742,
       "fontFamily": "Uil",
       "identifier": "desktop"
     },
     "desktop-alt": {
-      "codepoint": 57723,
+      "codepoint": 57743,
       "fontFamily": "Uil",
       "identifier": "desktopAlt"
     },
     "desktop-alt-slash": {
-      "codepoint": 57724,
+      "codepoint": 57744,
       "fontFamily": "Uil",
       "identifier": "desktopAltSlash"
     },
     "desktop-cloud-alt": {
-      "codepoint": 57725,
+      "codepoint": 57745,
       "fontFamily": "Uil",
       "identifier": "desktopCloudAlt"
     },
     "desktop-slash": {
-      "codepoint": 57726,
+      "codepoint": 57746,
       "fontFamily": "Uil",
       "identifier": "desktopSlash"
     },
     "dialpad": {
-      "codepoint": 57727,
+      "codepoint": 57747,
       "fontFamily": "Uil",
       "identifier": "dialpad"
     },
     "dialpad-alt": {
-      "codepoint": 57728,
+      "codepoint": 57748,
       "fontFamily": "Uil",
       "identifier": "dialpadAlt"
     },
     "diamond": {
-      "codepoint": 57729,
+      "codepoint": 57749,
       "fontFamily": "Uil",
       "identifier": "diamond"
     },
     "diary": {
-      "codepoint": 57730,
+      "codepoint": 57750,
       "fontFamily": "Uil",
       "identifier": "diary"
     },
     "diary-alt": {
-      "codepoint": 57731,
+      "codepoint": 57751,
       "fontFamily": "Uil",
       "identifier": "diaryAlt"
     },
     "dice-five": {
-      "codepoint": 57732,
+      "codepoint": 57752,
       "fontFamily": "Uil",
       "identifier": "diceFive"
     },
     "dice-four": {
-      "codepoint": 57733,
+      "codepoint": 57753,
       "fontFamily": "Uil",
       "identifier": "diceFour"
     },
     "dice-one": {
-      "codepoint": 57734,
+      "codepoint": 57754,
       "fontFamily": "Uil",
       "identifier": "diceOne"
     },
     "dice-six": {
-      "codepoint": 57735,
+      "codepoint": 57755,
       "fontFamily": "Uil",
       "identifier": "diceSix"
     },
     "dice-three": {
-      "codepoint": 57736,
+      "codepoint": 57756,
       "fontFamily": "Uil",
       "identifier": "diceThree"
     },
     "dice-two": {
-      "codepoint": 57737,
+      "codepoint": 57757,
       "fontFamily": "Uil",
       "identifier": "diceTwo"
     },
     "direction": {
-      "codepoint": 57738,
+      "codepoint": 57758,
       "fontFamily": "Uil",
       "identifier": "direction"
     },
     "directions": {
-      "codepoint": 57739,
+      "codepoint": 57759,
       "fontFamily": "Uil",
       "identifier": "directions"
     },
+    "discord": {
+      "codepoint": 57760,
+      "fontFamily": "Uil",
+      "identifier": "discord"
+    },
     "dizzy-meh": {
-      "codepoint": 57740,
+      "codepoint": 57761,
       "fontFamily": "Uil",
       "identifier": "dizzyMeh"
     },
     "dna": {
-      "codepoint": 57741,
+      "codepoint": 57762,
       "fontFamily": "Uil",
       "identifier": "dna"
     },
     "docker": {
-      "codepoint": 57742,
+      "codepoint": 57763,
       "fontFamily": "Uil",
       "identifier": "docker"
     },
     "document": {
-      "codepoint": 57743,
+      "codepoint": 57764,
       "fontFamily": "Uil",
       "identifier": "document"
     },
     "document-info": {
-      "codepoint": 57744,
+      "codepoint": 57765,
       "fontFamily": "Uil",
       "identifier": "documentInfo"
     },
     "document-layout-center": {
-      "codepoint": 57745,
+      "codepoint": 57766,
       "fontFamily": "Uil",
       "identifier": "documentLayoutCenter"
     },
     "document-layout-left": {
-      "codepoint": 57746,
+      "codepoint": 57767,
       "fontFamily": "Uil",
       "identifier": "documentLayoutLeft"
     },
     "document-layout-right": {
-      "codepoint": 57747,
+      "codepoint": 57768,
       "fontFamily": "Uil",
       "identifier": "documentLayoutRight"
     },
     "dollar-alt": {
-      "codepoint": 57748,
+      "codepoint": 57769,
       "fontFamily": "Uil",
       "identifier": "dollarAlt"
     },
     "dollar-sign": {
-      "codepoint": 57749,
+      "codepoint": 57770,
       "fontFamily": "Uil",
       "identifier": "dollarSign"
     },
     "dollar-sign-alt": {
-      "codepoint": 57750,
+      "codepoint": 57771,
       "fontFamily": "Uil",
       "identifier": "dollarSignAlt"
     },
     "down-arrow": {
-      "codepoint": 57751,
+      "codepoint": 57772,
       "fontFamily": "Uil",
       "identifier": "downArrow"
     },
     "download-alt": {
-      "codepoint": 57752,
+      "codepoint": 57773,
       "fontFamily": "Uil",
       "identifier": "downloadAlt"
     },
     "draggabledots": {
-      "codepoint": 57753,
+      "codepoint": 57774,
       "fontFamily": "Uil",
       "identifier": "draggabledots"
     },
     "dribbble": {
-      "codepoint": 57754,
+      "codepoint": 57775,
       "fontFamily": "Uil",
       "identifier": "dribbble"
     },
     "drill": {
-      "codepoint": 57755,
+      "codepoint": 57776,
       "fontFamily": "Uil",
       "identifier": "drill"
     },
     "dropbox": {
-      "codepoint": 57756,
+      "codepoint": 57777,
       "fontFamily": "Uil",
       "identifier": "dropbox"
     },
     "dumbbell": {
-      "codepoint": 57757,
+      "codepoint": 57778,
       "fontFamily": "Uil",
       "identifier": "dumbbell"
     },
+    "ear": {
+      "codepoint": 57779,
+      "fontFamily": "Uil",
+      "identifier": "ear"
+    },
     "edit": {
-      "codepoint": 57758,
+      "codepoint": 57780,
       "fontFamily": "Uil",
       "identifier": "edit"
     },
     "edit-alt": {
-      "codepoint": 57759,
+      "codepoint": 57781,
       "fontFamily": "Uil",
       "identifier": "editAlt"
     },
     "elipsis-double-v-alt": {
-      "codepoint": 57760,
+      "codepoint": 57782,
       "fontFamily": "Uil",
       "identifier": "elipsisDoubleVAlt"
     },
     "ellipsis-h": {
-      "codepoint": 57761,
+      "codepoint": 57783,
       "fontFamily": "Uil",
       "identifier": "ellipsisH"
     },
     "ellipsis-v": {
-      "codepoint": 57762,
+      "codepoint": 57784,
       "fontFamily": "Uil",
       "identifier": "ellipsisV"
     },
     "emoji": {
-      "codepoint": 57763,
+      "codepoint": 57785,
       "fontFamily": "Uil",
       "identifier": "emoji"
     },
+    "english-to-chinese": {
+      "codepoint": 57786,
+      "fontFamily": "Uil",
+      "identifier": "englishToChinese"
+    },
     "enter": {
-      "codepoint": 57764,
+      "codepoint": 57787,
       "fontFamily": "Uil",
       "identifier": "enter"
     },
     "entry": {
-      "codepoint": 57765,
+      "codepoint": 57788,
       "fontFamily": "Uil",
       "identifier": "entry"
     },
     "envelope": {
-      "codepoint": 57766,
+      "codepoint": 57789,
       "fontFamily": "Uil",
       "identifier": "envelope"
     },
     "envelope-add": {
-      "codepoint": 57767,
+      "codepoint": 57790,
       "fontFamily": "Uil",
       "identifier": "envelopeAdd"
     },
     "envelope-alt": {
-      "codepoint": 57768,
+      "codepoint": 57791,
       "fontFamily": "Uil",
       "identifier": "envelopeAlt"
     },
     "envelope-block": {
-      "codepoint": 57769,
+      "codepoint": 57792,
       "fontFamily": "Uil",
       "identifier": "envelopeBlock"
     },
     "envelope-bookmark": {
-      "codepoint": 57770,
+      "codepoint": 57793,
       "fontFamily": "Uil",
       "identifier": "envelopeBookmark"
     },
     "envelope-check": {
-      "codepoint": 57771,
+      "codepoint": 57794,
       "fontFamily": "Uil",
       "identifier": "envelopeCheck"
     },
     "envelope-download": {
-      "codepoint": 57772,
+      "codepoint": 57795,
       "fontFamily": "Uil",
       "identifier": "envelopeDownload"
     },
     "envelope-download-alt": {
-      "codepoint": 57773,
+      "codepoint": 57796,
       "fontFamily": "Uil",
       "identifier": "envelopeDownloadAlt"
     },
     "envelope-edit": {
-      "codepoint": 57774,
+      "codepoint": 57797,
       "fontFamily": "Uil",
       "identifier": "envelopeEdit"
     },
     "envelope-exclamation": {
-      "codepoint": 57775,
+      "codepoint": 57798,
       "fontFamily": "Uil",
       "identifier": "envelopeExclamation"
     },
     "envelope-heart": {
-      "codepoint": 57776,
+      "codepoint": 57799,
       "fontFamily": "Uil",
       "identifier": "envelopeHeart"
     },
     "envelope-info": {
-      "codepoint": 57777,
+      "codepoint": 57800,
       "fontFamily": "Uil",
       "identifier": "envelopeInfo"
     },
     "envelope-lock": {
-      "codepoint": 57778,
+      "codepoint": 57801,
       "fontFamily": "Uil",
       "identifier": "envelopeLock"
     },
     "envelope-minus": {
-      "codepoint": 57779,
+      "codepoint": 57802,
       "fontFamily": "Uil",
       "identifier": "envelopeMinus"
     },
     "envelope-open": {
-      "codepoint": 57780,
+      "codepoint": 57803,
       "fontFamily": "Uil",
       "identifier": "envelopeOpen"
     },
     "envelope-question": {
-      "codepoint": 57781,
+      "codepoint": 57804,
       "fontFamily": "Uil",
       "identifier": "envelopeQuestion"
     },
     "envelope-receive": {
-      "codepoint": 57782,
+      "codepoint": 57805,
       "fontFamily": "Uil",
       "identifier": "envelopeReceive"
     },
     "envelope-redo": {
-      "codepoint": 57783,
+      "codepoint": 57806,
       "fontFamily": "Uil",
       "identifier": "envelopeRedo"
     },
     "envelope-search": {
-      "codepoint": 57784,
+      "codepoint": 57807,
       "fontFamily": "Uil",
       "identifier": "envelopeSearch"
     },
     "envelope-send": {
-      "codepoint": 57785,
+      "codepoint": 57808,
       "fontFamily": "Uil",
       "identifier": "envelopeSend"
     },
     "envelope-share": {
-      "codepoint": 57786,
+      "codepoint": 57809,
       "fontFamily": "Uil",
       "identifier": "envelopeShare"
     },
     "envelope-shield": {
-      "codepoint": 57787,
+      "codepoint": 57810,
       "fontFamily": "Uil",
       "identifier": "envelopeShield"
     },
     "envelope-star": {
-      "codepoint": 57788,
+      "codepoint": 57811,
       "fontFamily": "Uil",
       "identifier": "envelopeStar"
     },
     "envelope-times": {
-      "codepoint": 57789,
+      "codepoint": 57812,
       "fontFamily": "Uil",
       "identifier": "envelopeTimes"
     },
     "envelope-upload": {
-      "codepoint": 57790,
+      "codepoint": 57813,
       "fontFamily": "Uil",
       "identifier": "envelopeUpload"
     },
     "envelope-upload-alt": {
-      "codepoint": 57791,
+      "codepoint": 57814,
       "fontFamily": "Uil",
       "identifier": "envelopeUploadAlt"
     },
     "envelopes": {
-      "codepoint": 57792,
+      "codepoint": 57815,
       "fontFamily": "Uil",
       "identifier": "envelopes"
     },
     "equal-circle": {
-      "codepoint": 57793,
+      "codepoint": 57816,
       "fontFamily": "Uil",
       "identifier": "equalCircle"
     },
     "estate": {
-      "codepoint": 57794,
+      "codepoint": 57817,
       "fontFamily": "Uil",
       "identifier": "estate"
     },
     "euro": {
-      "codepoint": 57795,
+      "codepoint": 57818,
       "fontFamily": "Uil",
       "identifier": "euro"
     },
     "euro-circle": {
-      "codepoint": 57796,
+      "codepoint": 57819,
       "fontFamily": "Uil",
       "identifier": "euroCircle"
     },
     "exchange": {
-      "codepoint": 57797,
+      "codepoint": 57820,
       "fontFamily": "Uil",
       "identifier": "exchange"
     },
     "exchange-alt": {
-      "codepoint": 57798,
+      "codepoint": 57821,
       "fontFamily": "Uil",
       "identifier": "exchangeAlt"
     },
     "exclamation": {
-      "codepoint": 57799,
+      "codepoint": 57822,
       "fontFamily": "Uil",
       "identifier": "exclamation"
     },
     "exclamation-circle": {
-      "codepoint": 57800,
+      "codepoint": 57823,
       "fontFamily": "Uil",
       "identifier": "exclamationCircle"
     },
     "exclamation-octagon": {
-      "codepoint": 57801,
+      "codepoint": 57824,
       "fontFamily": "Uil",
       "identifier": "exclamationOctagon"
     },
     "exclamation-triangle": {
-      "codepoint": 57802,
+      "codepoint": 57825,
       "fontFamily": "Uil",
       "identifier": "exclamationTriangle"
     },
     "exclude": {
-      "codepoint": 57803,
+      "codepoint": 57826,
       "fontFamily": "Uil",
       "identifier": "exclude"
     },
     "exit": {
-      "codepoint": 57804,
+      "codepoint": 57827,
       "fontFamily": "Uil",
       "identifier": "exit"
     },
     "expand-alt": {
-      "codepoint": 57805,
+      "codepoint": 57828,
       "fontFamily": "Uil",
       "identifier": "expandAlt"
     },
     "expand-arrows": {
-      "codepoint": 57806,
+      "codepoint": 57829,
       "fontFamily": "Uil",
       "identifier": "expandArrows"
     },
     "expand-arrows-alt": {
-      "codepoint": 57807,
+      "codepoint": 57830,
       "fontFamily": "Uil",
       "identifier": "expandArrowsAlt"
     },
     "expand-from-corner": {
-      "codepoint": 57808,
+      "codepoint": 57831,
       "fontFamily": "Uil",
       "identifier": "expandFromCorner"
     },
     "expand-left": {
-      "codepoint": 57809,
+      "codepoint": 57832,
       "fontFamily": "Uil",
       "identifier": "expandLeft"
     },
     "expand-right": {
-      "codepoint": 57810,
+      "codepoint": 57833,
       "fontFamily": "Uil",
       "identifier": "expandRight"
     },
     "export": {
-      "codepoint": 57811,
+      "codepoint": 57834,
       "fontFamily": "Uil",
       "identifier": "export_"
     },
     "exposure-alt": {
-      "codepoint": 57812,
+      "codepoint": 57835,
       "fontFamily": "Uil",
       "identifier": "exposureAlt"
     },
     "exposure-increase": {
-      "codepoint": 57813,
+      "codepoint": 57836,
       "fontFamily": "Uil",
       "identifier": "exposureIncrease"
     },
     "external-link-alt": {
-      "codepoint": 57814,
+      "codepoint": 57837,
       "fontFamily": "Uil",
       "identifier": "externalLinkAlt"
     },
     "eye": {
-      "codepoint": 57815,
+      "codepoint": 57838,
       "fontFamily": "Uil",
       "identifier": "eye"
     },
     "eye-slash": {
-      "codepoint": 57816,
+      "codepoint": 57839,
       "fontFamily": "Uil",
       "identifier": "eyeSlash"
     },
     "facebook": {
-      "codepoint": 57817,
+      "codepoint": 57840,
       "fontFamily": "Uil",
       "identifier": "facebook"
     },
     "facebook-f": {
-      "codepoint": 57818,
+      "codepoint": 57841,
       "fontFamily": "Uil",
       "identifier": "facebookF"
     },
     "facebook-messenger": {
-      "codepoint": 57819,
+      "codepoint": 57842,
       "fontFamily": "Uil",
       "identifier": "facebookMessenger"
     },
+    "facebook-messenger-alt": {
+      "codepoint": 57843,
+      "fontFamily": "Uil",
+      "identifier": "facebookMessengerAlt"
+    },
     "fahrenheit": {
-      "codepoint": 57820,
+      "codepoint": 57844,
       "fontFamily": "Uil",
       "identifier": "fahrenheit"
     },
     "fast-mail": {
-      "codepoint": 57821,
+      "codepoint": 57845,
       "fontFamily": "Uil",
       "identifier": "fastMail"
     },
     "fast-mail-alt": {
-      "codepoint": 57822,
+      "codepoint": 57846,
       "fontFamily": "Uil",
       "identifier": "fastMailAlt"
     },
     "favorite": {
-      "codepoint": 57823,
+      "codepoint": 57847,
       "fontFamily": "Uil",
       "identifier": "favorite"
     },
     "feedback": {
-      "codepoint": 57824,
+      "codepoint": 57848,
       "fontFamily": "Uil",
       "identifier": "feedback"
     },
+    "fidget-spinner": {
+      "codepoint": 57849,
+      "fontFamily": "Uil",
+      "identifier": "fidgetSpinner"
+    },
     "file": {
-      "codepoint": 57825,
+      "codepoint": 57850,
       "fontFamily": "Uil",
       "identifier": "file"
     },
     "file-alt": {
-      "codepoint": 57826,
+      "codepoint": 57851,
       "fontFamily": "Uil",
       "identifier": "fileAlt"
     },
     "file-blank": {
-      "codepoint": 57827,
+      "codepoint": 57852,
       "fontFamily": "Uil",
       "identifier": "fileBlank"
     },
     "file-block-alt": {
-      "codepoint": 57828,
+      "codepoint": 57853,
       "fontFamily": "Uil",
       "identifier": "fileBlockAlt"
     },
     "file-bookmark-alt": {
-      "codepoint": 57829,
+      "codepoint": 57854,
       "fontFamily": "Uil",
       "identifier": "fileBookmarkAlt"
     },
     "file-check": {
-      "codepoint": 57830,
+      "codepoint": 57855,
       "fontFamily": "Uil",
       "identifier": "fileCheck"
     },
     "file-check-alt": {
-      "codepoint": 57831,
+      "codepoint": 57856,
       "fontFamily": "Uil",
       "identifier": "fileCheckAlt"
     },
     "file-contract": {
-      "codepoint": 57832,
+      "codepoint": 57857,
       "fontFamily": "Uil",
       "identifier": "fileContract"
     },
     "file-contract-dollar": {
-      "codepoint": 57833,
+      "codepoint": 57858,
       "fontFamily": "Uil",
       "identifier": "fileContractDollar"
     },
     "file-copy-alt": {
-      "codepoint": 57834,
+      "codepoint": 57859,
       "fontFamily": "Uil",
       "identifier": "fileCopyAlt"
     },
     "file-download": {
-      "codepoint": 57835,
+      "codepoint": 57860,
       "fontFamily": "Uil",
       "identifier": "fileDownload"
     },
     "file-download-alt": {
-      "codepoint": 57836,
+      "codepoint": 57861,
       "fontFamily": "Uil",
       "identifier": "fileDownloadAlt"
     },
     "file-edit-alt": {
-      "codepoint": 57837,
+      "codepoint": 57862,
       "fontFamily": "Uil",
       "identifier": "fileEditAlt"
     },
     "file-exclamation": {
-      "codepoint": 57838,
+      "codepoint": 57863,
       "fontFamily": "Uil",
       "identifier": "fileExclamation"
     },
     "file-exclamation-alt": {
-      "codepoint": 57839,
+      "codepoint": 57864,
       "fontFamily": "Uil",
       "identifier": "fileExclamationAlt"
     },
     "file-export": {
-      "codepoint": 57840,
+      "codepoint": 57865,
       "fontFamily": "Uil",
       "identifier": "fileExport"
     },
+    "file-graph": {
+      "codepoint": 57866,
+      "fontFamily": "Uil",
+      "identifier": "fileGraph"
+    },
     "file-heart": {
-      "codepoint": 57841,
+      "codepoint": 57867,
       "fontFamily": "Uil",
       "identifier": "fileHeart"
     },
     "file-import": {
-      "codepoint": 57842,
+      "codepoint": 57868,
       "fontFamily": "Uil",
       "identifier": "fileImport"
     },
     "file-info-alt": {
-      "codepoint": 57843,
+      "codepoint": 57869,
       "fontFamily": "Uil",
       "identifier": "fileInfoAlt"
     },
     "file-landscape": {
-      "codepoint": 57844,
+      "codepoint": 57870,
       "fontFamily": "Uil",
       "identifier": "fileLandscape"
     },
     "file-landscape-alt": {
-      "codepoint": 57845,
+      "codepoint": 57871,
       "fontFamily": "Uil",
       "identifier": "fileLandscapeAlt"
     },
     "file-lanscape-slash": {
-      "codepoint": 57846,
+      "codepoint": 57872,
       "fontFamily": "Uil",
       "identifier": "fileLanscapeSlash"
     },
     "file-lock-alt": {
-      "codepoint": 57847,
+      "codepoint": 57873,
       "fontFamily": "Uil",
       "identifier": "fileLockAlt"
     },
     "file-medical": {
-      "codepoint": 57848,
+      "codepoint": 57874,
       "fontFamily": "Uil",
       "identifier": "fileMedical"
     },
     "file-medical-alt": {
-      "codepoint": 57849,
+      "codepoint": 57875,
       "fontFamily": "Uil",
       "identifier": "fileMedicalAlt"
     },
     "file-minus": {
-      "codepoint": 57850,
+      "codepoint": 57876,
       "fontFamily": "Uil",
       "identifier": "fileMinus"
     },
     "file-minus-alt": {
-      "codepoint": 57851,
+      "codepoint": 57877,
       "fontFamily": "Uil",
       "identifier": "fileMinusAlt"
     },
     "file-network": {
-      "codepoint": 57852,
+      "codepoint": 57878,
       "fontFamily": "Uil",
       "identifier": "fileNetwork"
     },
     "file-plus": {
-      "codepoint": 57853,
+      "codepoint": 57879,
       "fontFamily": "Uil",
       "identifier": "filePlus"
     },
     "file-plus-alt": {
-      "codepoint": 57854,
+      "codepoint": 57880,
       "fontFamily": "Uil",
       "identifier": "filePlusAlt"
     },
     "file-question": {
-      "codepoint": 57855,
+      "codepoint": 57881,
       "fontFamily": "Uil",
       "identifier": "fileQuestion"
     },
     "file-question-alt": {
-      "codepoint": 57856,
+      "codepoint": 57882,
       "fontFamily": "Uil",
       "identifier": "fileQuestionAlt"
     },
     "file-redo-alt": {
-      "codepoint": 57857,
+      "codepoint": 57883,
       "fontFamily": "Uil",
       "identifier": "fileRedoAlt"
     },
     "file-search-alt": {
-      "codepoint": 57858,
+      "codepoint": 57884,
       "fontFamily": "Uil",
       "identifier": "fileSearchAlt"
     },
     "file-share-alt": {
-      "codepoint": 57859,
+      "codepoint": 57885,
       "fontFamily": "Uil",
       "identifier": "fileShareAlt"
     },
     "file-shield-alt": {
-      "codepoint": 57860,
+      "codepoint": 57886,
       "fontFamily": "Uil",
       "identifier": "fileShieldAlt"
     },
     "file-slash": {
-      "codepoint": 57861,
+      "codepoint": 57887,
       "fontFamily": "Uil",
       "identifier": "fileSlash"
     },
     "file-times": {
-      "codepoint": 57862,
+      "codepoint": 57888,
       "fontFamily": "Uil",
       "identifier": "fileTimes"
     },
     "file-times-alt": {
-      "codepoint": 57863,
+      "codepoint": 57889,
       "fontFamily": "Uil",
       "identifier": "fileTimesAlt"
     },
     "file-upload": {
-      "codepoint": 57864,
+      "codepoint": 57890,
       "fontFamily": "Uil",
       "identifier": "fileUpload"
     },
     "file-upload-alt": {
-      "codepoint": 57865,
+      "codepoint": 57891,
       "fontFamily": "Uil",
       "identifier": "fileUploadAlt"
     },
     "files-landscapes": {
-      "codepoint": 57866,
+      "codepoint": 57892,
       "fontFamily": "Uil",
       "identifier": "filesLandscapes"
     },
     "files-landscapes-alt": {
-      "codepoint": 57867,
+      "codepoint": 57893,
       "fontFamily": "Uil",
       "identifier": "filesLandscapesAlt"
     },
     "film": {
-      "codepoint": 57868,
+      "codepoint": 57894,
       "fontFamily": "Uil",
       "identifier": "film"
     },
     "filter": {
-      "codepoint": 57869,
+      "codepoint": 57895,
       "fontFamily": "Uil",
       "identifier": "filter"
     },
     "filter-slash": {
-      "codepoint": 57870,
+      "codepoint": 57896,
       "fontFamily": "Uil",
       "identifier": "filterSlash"
     },
+    "fire": {
+      "codepoint": 57897,
+      "fontFamily": "Uil",
+      "identifier": "fire"
+    },
     "flask": {
-      "codepoint": 57871,
+      "codepoint": 57898,
       "fontFamily": "Uil",
       "identifier": "flask"
     },
     "flask-potion": {
-      "codepoint": 57872,
+      "codepoint": 57899,
       "fontFamily": "Uil",
       "identifier": "flaskPotion"
     },
     "flip-h": {
-      "codepoint": 57873,
+      "codepoint": 57900,
       "fontFamily": "Uil",
       "identifier": "flipH"
     },
     "flip-h-alt": {
-      "codepoint": 57874,
+      "codepoint": 57901,
       "fontFamily": "Uil",
       "identifier": "flipHAlt"
     },
     "flip-v": {
-      "codepoint": 57875,
+      "codepoint": 57902,
       "fontFamily": "Uil",
       "identifier": "flipV"
     },
     "flip-v-alt": {
-      "codepoint": 57876,
+      "codepoint": 57903,
       "fontFamily": "Uil",
       "identifier": "flipVAlt"
     },
     "flower": {
-      "codepoint": 57877,
+      "codepoint": 57904,
       "fontFamily": "Uil",
       "identifier": "flower"
     },
     "focus": {
-      "codepoint": 57878,
+      "codepoint": 57905,
       "fontFamily": "Uil",
       "identifier": "focus"
     },
     "focus-add": {
-      "codepoint": 57879,
+      "codepoint": 57906,
       "fontFamily": "Uil",
       "identifier": "focusAdd"
     },
     "focus-target": {
-      "codepoint": 57880,
+      "codepoint": 57907,
       "fontFamily": "Uil",
       "identifier": "focusTarget"
     },
     "folder": {
-      "codepoint": 57881,
+      "codepoint": 57908,
       "fontFamily": "Uil",
       "identifier": "folder"
     },
     "folder-check": {
-      "codepoint": 57882,
+      "codepoint": 57909,
       "fontFamily": "Uil",
       "identifier": "folderCheck"
     },
     "folder-download": {
-      "codepoint": 57883,
+      "codepoint": 57910,
       "fontFamily": "Uil",
       "identifier": "folderDownload"
     },
     "folder-exclamation": {
-      "codepoint": 57884,
+      "codepoint": 57911,
       "fontFamily": "Uil",
       "identifier": "folderExclamation"
     },
     "folder-heart": {
-      "codepoint": 57885,
+      "codepoint": 57912,
       "fontFamily": "Uil",
       "identifier": "folderHeart"
     },
     "folder-info": {
-      "codepoint": 57886,
+      "codepoint": 57913,
       "fontFamily": "Uil",
       "identifier": "folderInfo"
     },
     "folder-lock": {
-      "codepoint": 57887,
+      "codepoint": 57914,
       "fontFamily": "Uil",
       "identifier": "folderLock"
     },
     "folder-medical": {
-      "codepoint": 57888,
+      "codepoint": 57915,
       "fontFamily": "Uil",
       "identifier": "folderMedical"
     },
     "folder-minus": {
-      "codepoint": 57889,
+      "codepoint": 57916,
       "fontFamily": "Uil",
       "identifier": "folderMinus"
     },
     "folder-network": {
-      "codepoint": 57890,
+      "codepoint": 57917,
       "fontFamily": "Uil",
       "identifier": "folderNetwork"
     },
     "folder-open": {
-      "codepoint": 57891,
+      "codepoint": 57918,
       "fontFamily": "Uil",
       "identifier": "folderOpen"
     },
     "folder-plus": {
-      "codepoint": 57892,
+      "codepoint": 57919,
       "fontFamily": "Uil",
       "identifier": "folderPlus"
     },
     "folder-question": {
-      "codepoint": 57893,
+      "codepoint": 57920,
       "fontFamily": "Uil",
       "identifier": "folderQuestion"
     },
     "folder-slash": {
-      "codepoint": 57894,
+      "codepoint": 57921,
       "fontFamily": "Uil",
       "identifier": "folderSlash"
     },
     "folder-times": {
-      "codepoint": 57895,
+      "codepoint": 57922,
       "fontFamily": "Uil",
       "identifier": "folderTimes"
     },
     "folder-upload": {
-      "codepoint": 57896,
+      "codepoint": 57923,
       "fontFamily": "Uil",
       "identifier": "folderUpload"
     },
     "font": {
-      "codepoint": 57897,
+      "codepoint": 57924,
       "fontFamily": "Uil",
       "identifier": "font"
     },
     "food": {
-      "codepoint": 57898,
+      "codepoint": 57925,
       "fontFamily": "Uil",
       "identifier": "food"
     },
     "football": {
-      "codepoint": 57899,
+      "codepoint": 57926,
       "fontFamily": "Uil",
       "identifier": "football"
     },
     "football-american": {
-      "codepoint": 57900,
+      "codepoint": 57927,
       "fontFamily": "Uil",
       "identifier": "footballAmerican"
     },
     "football-ball": {
-      "codepoint": 57901,
+      "codepoint": 57928,
       "fontFamily": "Uil",
       "identifier": "footballBall"
     },
     "forecastcloud-moon-tear": {
-      "codepoint": 57902,
+      "codepoint": 57929,
       "fontFamily": "Uil",
       "identifier": "forecastcloudMoonTear"
     },
     "forwaded-call": {
-      "codepoint": 57903,
+      "codepoint": 57930,
       "fontFamily": "Uil",
       "identifier": "forwadedCall"
     },
     "forward": {
-      "codepoint": 57904,
+      "codepoint": 57931,
       "fontFamily": "Uil",
       "identifier": "forward"
     },
     "frown": {
-      "codepoint": 57905,
+      "codepoint": 57932,
       "fontFamily": "Uil",
       "identifier": "frown"
     },
     "game": {
-      "codepoint": 57906,
+      "codepoint": 57933,
       "fontFamily": "Uil",
       "identifier": "game"
     },
     "game-structure": {
-      "codepoint": 57907,
+      "codepoint": 57934,
       "fontFamily": "Uil",
       "identifier": "gameStructure"
     },
     "gift": {
-      "codepoint": 57908,
+      "codepoint": 57935,
       "fontFamily": "Uil",
       "identifier": "gift"
     },
+    "github": {
+      "codepoint": 57936,
+      "fontFamily": "Uil",
+      "identifier": "github"
+    },
+    "github-alt": {
+      "codepoint": 57937,
+      "fontFamily": "Uil",
+      "identifier": "githubAlt"
+    },
+    "gitlab": {
+      "codepoint": 57938,
+      "fontFamily": "Uil",
+      "identifier": "gitlab"
+    },
     "glass": {
-      "codepoint": 57909,
+      "codepoint": 57939,
       "fontFamily": "Uil",
       "identifier": "glass"
     },
     "glass-martini": {
-      "codepoint": 57910,
+      "codepoint": 57940,
       "fontFamily": "Uil",
       "identifier": "glassMartini"
     },
     "glass-martini-alt": {
-      "codepoint": 57911,
+      "codepoint": 57941,
       "fontFamily": "Uil",
       "identifier": "glassMartiniAlt"
     },
     "glass-martini-alt-slash": {
-      "codepoint": 57912,
+      "codepoint": 57942,
       "fontFamily": "Uil",
       "identifier": "glassMartiniAltSlash"
     },
     "glass-tea": {
-      "codepoint": 57913,
+      "codepoint": 57943,
       "fontFamily": "Uil",
       "identifier": "glassTea"
     },
     "globe": {
-      "codepoint": 57914,
+      "codepoint": 57944,
       "fontFamily": "Uil",
       "identifier": "globe"
     },
     "gold": {
-      "codepoint": 57915,
+      "codepoint": 57945,
       "fontFamily": "Uil",
       "identifier": "gold"
     },
     "golf-ball": {
-      "codepoint": 57916,
+      "codepoint": 57946,
       "fontFamily": "Uil",
       "identifier": "golfBall"
     },
+    "google": {
+      "codepoint": 57947,
+      "fontFamily": "Uil",
+      "identifier": "google"
+    },
     "google-drive": {
-      "codepoint": 57917,
+      "codepoint": 57948,
       "fontFamily": "Uil",
       "identifier": "googleDrive"
     },
     "google-drive-alt": {
-      "codepoint": 57918,
+      "codepoint": 57949,
       "fontFamily": "Uil",
       "identifier": "googleDriveAlt"
     },
+    "google-hangouts": {
+      "codepoint": 57950,
+      "fontFamily": "Uil",
+      "identifier": "googleHangouts"
+    },
+    "google-hangouts-alt": {
+      "codepoint": 57951,
+      "fontFamily": "Uil",
+      "identifier": "googleHangoutsAlt"
+    },
     "graduation-cap": {
-      "codepoint": 57919,
+      "codepoint": 57952,
       "fontFamily": "Uil",
       "identifier": "graduationCap"
     },
     "graduation-hat": {
-      "codepoint": 57920,
+      "codepoint": 57953,
       "fontFamily": "Uil",
       "identifier": "graduationHat"
     },
     "graph-bar": {
-      "codepoint": 57921,
+      "codepoint": 57954,
       "fontFamily": "Uil",
       "identifier": "graphBar"
     },
     "grid": {
-      "codepoint": 57922,
+      "codepoint": 57955,
       "fontFamily": "Uil",
       "identifier": "grid"
     },
     "grids": {
-      "codepoint": 57923,
+      "codepoint": 57956,
       "fontFamily": "Uil",
       "identifier": "grids"
     },
     "grin": {
-      "codepoint": 57924,
+      "codepoint": 57957,
       "fontFamily": "Uil",
       "identifier": "grin"
     },
     "grin-tongue-wink": {
-      "codepoint": 57925,
+      "codepoint": 57958,
       "fontFamily": "Uil",
       "identifier": "grinTongueWink"
     },
     "grin-tongue-wink-alt": {
-      "codepoint": 57926,
+      "codepoint": 57959,
       "fontFamily": "Uil",
       "identifier": "grinTongueWinkAlt"
     },
     "grip-horizontal-line": {
-      "codepoint": 57927,
+      "codepoint": 57960,
       "fontFamily": "Uil",
       "identifier": "gripHorizontalLine"
     },
     "hard-hat": {
-      "codepoint": 57928,
+      "codepoint": 57961,
       "fontFamily": "Uil",
       "identifier": "hardHat"
     },
     "hdd": {
-      "codepoint": 57929,
+      "codepoint": 57962,
       "fontFamily": "Uil",
       "identifier": "hdd"
     },
+    "head-side": {
+      "codepoint": 57963,
+      "fontFamily": "Uil",
+      "identifier": "headSide"
+    },
+    "head-side-cough": {
+      "codepoint": 57964,
+      "fontFamily": "Uil",
+      "identifier": "headSideCough"
+    },
+    "head-side-mask": {
+      "codepoint": 57965,
+      "fontFamily": "Uil",
+      "identifier": "headSideMask"
+    },
+    "headphone-slash": {
+      "codepoint": 57966,
+      "fontFamily": "Uil",
+      "identifier": "headphoneSlash"
+    },
     "headphones": {
-      "codepoint": 57930,
+      "codepoint": 57967,
       "fontFamily": "Uil",
       "identifier": "headphones"
     },
     "headphones-alt": {
-      "codepoint": 57931,
+      "codepoint": 57968,
       "fontFamily": "Uil",
       "identifier": "headphonesAlt"
     },
     "heart": {
-      "codepoint": 57932,
+      "codepoint": 57969,
       "fontFamily": "Uil",
       "identifier": "heart"
     },
     "heart-alt": {
-      "codepoint": 57933,
+      "codepoint": 57970,
       "fontFamily": "Uil",
       "identifier": "heartAlt"
     },
     "heart-break": {
-      "codepoint": 57934,
+      "codepoint": 57971,
       "fontFamily": "Uil",
       "identifier": "heartBreak"
     },
     "heart-medical": {
-      "codepoint": 57935,
+      "codepoint": 57972,
       "fontFamily": "Uil",
       "identifier": "heartMedical"
     },
     "heart-rate": {
-      "codepoint": 57936,
+      "codepoint": 57973,
       "fontFamily": "Uil",
       "identifier": "heartRate"
     },
     "heart-sign": {
-      "codepoint": 57937,
+      "codepoint": 57974,
       "fontFamily": "Uil",
       "identifier": "heartSign"
     },
     "heartbeat": {
-      "codepoint": 57938,
+      "codepoint": 57975,
       "fontFamily": "Uil",
       "identifier": "heartbeat"
     },
+    "hindi-to-chinese": {
+      "codepoint": 57976,
+      "fontFamily": "Uil",
+      "identifier": "hindiToChinese"
+    },
     "hipchat": {
-      "codepoint": 57939,
+      "codepoint": 57977,
       "fontFamily": "Uil",
       "identifier": "hipchat"
     },
     "history": {
-      "codepoint": 57940,
+      "codepoint": 57978,
       "fontFamily": "Uil",
       "identifier": "history"
     },
     "history-alt": {
-      "codepoint": 57941,
+      "codepoint": 57979,
       "fontFamily": "Uil",
       "identifier": "historyAlt"
     },
     "home": {
-      "codepoint": 57942,
+      "codepoint": 57980,
       "fontFamily": "Uil",
       "identifier": "home"
     },
     "home-alt": {
-      "codepoint": 57943,
+      "codepoint": 57981,
       "fontFamily": "Uil",
       "identifier": "homeAlt"
     },
     "horizontal-align-center": {
-      "codepoint": 57944,
+      "codepoint": 57982,
       "fontFamily": "Uil",
       "identifier": "horizontalAlignCenter"
     },
     "horizontal-align-left": {
-      "codepoint": 57945,
+      "codepoint": 57983,
       "fontFamily": "Uil",
       "identifier": "horizontalAlignLeft"
     },
     "horizontal-align-right": {
-      "codepoint": 57946,
+      "codepoint": 57984,
       "fontFamily": "Uil",
       "identifier": "horizontalAlignRight"
     },
     "horizontal-distribution-center": {
-      "codepoint": 57947,
+      "codepoint": 57985,
       "fontFamily": "Uil",
       "identifier": "horizontalDistributionCenter"
     },
     "horizontal-distribution-left": {
-      "codepoint": 57948,
+      "codepoint": 57986,
       "fontFamily": "Uil",
       "identifier": "horizontalDistributionLeft"
     },
     "horizontal-distribution-right": {
-      "codepoint": 57949,
+      "codepoint": 57987,
       "fontFamily": "Uil",
       "identifier": "horizontalDistributionRight"
     },
     "hospital": {
-      "codepoint": 57950,
+      "codepoint": 57988,
       "fontFamily": "Uil",
       "identifier": "hospital"
     },
     "hospital-square-sign": {
-      "codepoint": 57951,
+      "codepoint": 57989,
       "fontFamily": "Uil",
       "identifier": "hospitalSquareSign"
     },
     "hospital-symbol": {
-      "codepoint": 57952,
+      "codepoint": 57990,
       "fontFamily": "Uil",
       "identifier": "hospitalSymbol"
     },
+    "hourglass": {
+      "codepoint": 57991,
+      "fontFamily": "Uil",
+      "identifier": "hourglass"
+    },
+    "house-user": {
+      "codepoint": 57992,
+      "fontFamily": "Uil",
+      "identifier": "houseUser"
+    },
+    "html3": {
+      "codepoint": 57993,
+      "fontFamily": "Uil",
+      "identifier": "html3"
+    },
+    "html3-alt": {
+      "codepoint": 57994,
+      "fontFamily": "Uil",
+      "identifier": "html3Alt"
+    },
+    "html5": {
+      "codepoint": 57995,
+      "fontFamily": "Uil",
+      "identifier": "html5"
+    },
+    "html5-alt": {
+      "codepoint": 57996,
+      "fontFamily": "Uil",
+      "identifier": "html5Alt"
+    },
     "hunting": {
-      "codepoint": 57953,
+      "codepoint": 57997,
       "fontFamily": "Uil",
       "identifier": "hunting"
     },
     "icons": {
-      "codepoint": 57954,
+      "codepoint": 57998,
       "fontFamily": "Uil",
       "identifier": "icons"
     },
     "illustration": {
-      "codepoint": 57955,
+      "codepoint": 57999,
       "fontFamily": "Uil",
       "identifier": "illustration"
     },
     "image": {
-      "codepoint": 57956,
+      "codepoint": 58000,
       "fontFamily": "Uil",
       "identifier": "image"
     },
     "image-alt-slash": {
-      "codepoint": 57957,
+      "codepoint": 58001,
       "fontFamily": "Uil",
       "identifier": "imageAltSlash"
     },
     "image-block": {
-      "codepoint": 57958,
+      "codepoint": 58002,
       "fontFamily": "Uil",
       "identifier": "imageBlock"
     },
     "image-broken": {
-      "codepoint": 57959,
+      "codepoint": 58003,
       "fontFamily": "Uil",
       "identifier": "imageBroken"
     },
     "image-check": {
-      "codepoint": 57960,
+      "codepoint": 58004,
       "fontFamily": "Uil",
       "identifier": "imageCheck"
     },
     "image-download": {
-      "codepoint": 57961,
+      "codepoint": 58005,
       "fontFamily": "Uil",
       "identifier": "imageDownload"
     },
+    "image-edit": {
+      "codepoint": 58006,
+      "fontFamily": "Uil",
+      "identifier": "imageEdit"
+    },
     "image-lock": {
-      "codepoint": 57962,
+      "codepoint": 58007,
       "fontFamily": "Uil",
       "identifier": "imageLock"
     },
+    "image-minus": {
+      "codepoint": 58008,
+      "fontFamily": "Uil",
+      "identifier": "imageMinus"
+    },
     "image-plus": {
-      "codepoint": 57963,
+      "codepoint": 58009,
       "fontFamily": "Uil",
       "identifier": "imagePlus"
     },
     "image-question": {
-      "codepoint": 57964,
+      "codepoint": 58010,
       "fontFamily": "Uil",
       "identifier": "imageQuestion"
     },
     "image-redo": {
-      "codepoint": 57965,
+      "codepoint": 58011,
       "fontFamily": "Uil",
       "identifier": "imageRedo"
     },
     "image-resize-landscape": {
-      "codepoint": 57966,
+      "codepoint": 58012,
       "fontFamily": "Uil",
       "identifier": "imageResizeLandscape"
     },
     "image-resize-square": {
-      "codepoint": 57967,
+      "codepoint": 58013,
       "fontFamily": "Uil",
       "identifier": "imageResizeSquare"
     },
     "image-search": {
-      "codepoint": 57968,
+      "codepoint": 58014,
       "fontFamily": "Uil",
       "identifier": "imageSearch"
     },
     "image-share": {
-      "codepoint": 57969,
+      "codepoint": 58015,
       "fontFamily": "Uil",
       "identifier": "imageShare"
     },
     "image-shield": {
-      "codepoint": 57970,
+      "codepoint": 58016,
       "fontFamily": "Uil",
       "identifier": "imageShield"
     },
     "image-slash": {
-      "codepoint": 57971,
+      "codepoint": 58017,
       "fontFamily": "Uil",
       "identifier": "imageSlash"
     },
     "image-times": {
-      "codepoint": 57972,
+      "codepoint": 58018,
       "fontFamily": "Uil",
       "identifier": "imageTimes"
     },
     "image-upload": {
-      "codepoint": 57973,
+      "codepoint": 58019,
       "fontFamily": "Uil",
       "identifier": "imageUpload"
     },
     "image-v": {
-      "codepoint": 57974,
+      "codepoint": 58020,
       "fontFamily": "Uil",
       "identifier": "imageV"
     },
     "images": {
-      "codepoint": 57975,
+      "codepoint": 58021,
       "fontFamily": "Uil",
       "identifier": "images"
     },
     "import": {
-      "codepoint": 57976,
+      "codepoint": 58022,
       "fontFamily": "Uil",
       "identifier": "import_"
     },
     "inbox": {
-      "codepoint": 57977,
+      "codepoint": 58023,
       "fontFamily": "Uil",
       "identifier": "inbox"
     },
     "incoming-call": {
-      "codepoint": 57978,
+      "codepoint": 58024,
       "fontFamily": "Uil",
       "identifier": "incomingCall"
     },
     "info": {
-      "codepoint": 57979,
+      "codepoint": 58025,
       "fontFamily": "Uil",
       "identifier": "info"
     },
     "info-circle": {
-      "codepoint": 57980,
+      "codepoint": 58026,
       "fontFamily": "Uil",
       "identifier": "infoCircle"
     },
     "instagram": {
-      "codepoint": 57981,
+      "codepoint": 58027,
       "fontFamily": "Uil",
       "identifier": "instagram"
     },
     "instagram-alt": {
-      "codepoint": 57982,
+      "codepoint": 58028,
       "fontFamily": "Uil",
       "identifier": "instagramAlt"
     },
     "intercom": {
-      "codepoint": 57983,
+      "codepoint": 58029,
       "fontFamily": "Uil",
       "identifier": "intercom"
     },
     "intercom-alt": {
-      "codepoint": 57984,
+      "codepoint": 58030,
       "fontFamily": "Uil",
       "identifier": "intercomAlt"
     },
     "invoice": {
-      "codepoint": 57985,
+      "codepoint": 58031,
       "fontFamily": "Uil",
       "identifier": "invoice"
     },
     "italic": {
-      "codepoint": 57986,
+      "codepoint": 58032,
       "fontFamily": "Uil",
       "identifier": "italic"
     },
     "jackhammer": {
-      "codepoint": 57987,
+      "codepoint": 58033,
       "fontFamily": "Uil",
       "identifier": "jackhammer"
     },
+    "java-script": {
+      "codepoint": 58034,
+      "fontFamily": "Uil",
+      "identifier": "javaScript"
+    },
     "kayak": {
-      "codepoint": 57988,
+      "codepoint": 58035,
       "fontFamily": "Uil",
       "identifier": "kayak"
     },
     "key-skeleton": {
-      "codepoint": 57989,
+      "codepoint": 58036,
       "fontFamily": "Uil",
       "identifier": "keySkeleton"
     },
     "key-skeleton-alt": {
-      "codepoint": 57990,
+      "codepoint": 58037,
       "fontFamily": "Uil",
       "identifier": "keySkeletonAlt"
     },
     "keyboard": {
-      "codepoint": 57991,
+      "codepoint": 58038,
       "fontFamily": "Uil",
       "identifier": "keyboard"
     },
     "keyboard-alt": {
-      "codepoint": 57992,
+      "codepoint": 58039,
       "fontFamily": "Uil",
       "identifier": "keyboardAlt"
     },
     "keyboard-hide": {
-      "codepoint": 57993,
+      "codepoint": 58040,
       "fontFamily": "Uil",
       "identifier": "keyboardHide"
     },
     "keyboard-show": {
-      "codepoint": 57994,
+      "codepoint": 58041,
       "fontFamily": "Uil",
       "identifier": "keyboardShow"
     },
     "keyhole-circle": {
-      "codepoint": 57995,
+      "codepoint": 58042,
       "fontFamily": "Uil",
       "identifier": "keyholeCircle"
     },
     "keyhole-square": {
-      "codepoint": 57996,
+      "codepoint": 58043,
       "fontFamily": "Uil",
       "identifier": "keyholeSquare"
     },
     "keyhole-square-full": {
-      "codepoint": 57997,
+      "codepoint": 58044,
       "fontFamily": "Uil",
       "identifier": "keyholeSquareFull"
     },
     "kid": {
-      "codepoint": 57998,
+      "codepoint": 58045,
       "fontFamily": "Uil",
       "identifier": "kid"
     },
     "label": {
-      "codepoint": 57999,
+      "codepoint": 58046,
       "fontFamily": "Uil",
       "identifier": "label"
     },
     "label-alt": {
-      "codepoint": 58000,
+      "codepoint": 58047,
       "fontFamily": "Uil",
       "identifier": "labelAlt"
     },
     "lamp": {
-      "codepoint": 58001,
+      "codepoint": 58048,
       "fontFamily": "Uil",
       "identifier": "lamp"
     },
+    "language": {
+      "codepoint": 58049,
+      "fontFamily": "Uil",
+      "identifier": "language"
+    },
     "laptop": {
-      "codepoint": 58002,
+      "codepoint": 58050,
       "fontFamily": "Uil",
       "identifier": "laptop"
     },
     "laptop-cloud": {
-      "codepoint": 58003,
+      "codepoint": 58051,
       "fontFamily": "Uil",
       "identifier": "laptopCloud"
     },
     "laptop-connection": {
-      "codepoint": 58004,
+      "codepoint": 58052,
       "fontFamily": "Uil",
       "identifier": "laptopConnection"
     },
     "laughing": {
-      "codepoint": 58005,
+      "codepoint": 58053,
       "fontFamily": "Uil",
       "identifier": "laughing"
     },
     "layer-group": {
-      "codepoint": 58006,
+      "codepoint": 58054,
       "fontFamily": "Uil",
       "identifier": "layerGroup"
     },
     "layer-group-slash": {
-      "codepoint": 58007,
+      "codepoint": 58055,
       "fontFamily": "Uil",
       "identifier": "layerGroupSlash"
     },
     "layers": {
-      "codepoint": 58008,
+      "codepoint": 58056,
       "fontFamily": "Uil",
       "identifier": "layers"
     },
     "layers-alt": {
-      "codepoint": 58009,
+      "codepoint": 58057,
       "fontFamily": "Uil",
       "identifier": "layersAlt"
     },
     "layers-slash": {
-      "codepoint": 58010,
+      "codepoint": 58058,
       "fontFamily": "Uil",
       "identifier": "layersSlash"
     },
     "left": {
-      "codepoint": 58011,
+      "codepoint": 58059,
       "fontFamily": "Uil",
       "identifier": "left"
     },
     "left-arrow-from-left": {
-      "codepoint": 58012,
+      "codepoint": 58060,
       "fontFamily": "Uil",
       "identifier": "leftArrowFromLeft"
     },
     "left-arrow-to-left": {
-      "codepoint": 58013,
+      "codepoint": 58061,
       "fontFamily": "Uil",
       "identifier": "leftArrowToLeft"
     },
     "left-indent": {
-      "codepoint": 58014,
+      "codepoint": 58062,
       "fontFamily": "Uil",
       "identifier": "leftIndent"
     },
     "left-indent-alt": {
-      "codepoint": 58015,
+      "codepoint": 58063,
       "fontFamily": "Uil",
       "identifier": "leftIndentAlt"
     },
     "left-to-right-text-direction": {
-      "codepoint": 58016,
+      "codepoint": 58064,
       "fontFamily": "Uil",
       "identifier": "leftToRightTextDirection"
     },
+    "letter-chinese-a": {
+      "codepoint": 58065,
+      "fontFamily": "Uil",
+      "identifier": "letterChineseA"
+    },
+    "letter-english-a": {
+      "codepoint": 58066,
+      "fontFamily": "Uil",
+      "identifier": "letterEnglishA"
+    },
     "letter-hindi-a": {
-      "codepoint": 58017,
+      "codepoint": 58067,
       "fontFamily": "Uil",
       "identifier": "letterHindiA"
     },
+    "letter-japanese-a": {
+      "codepoint": 58068,
+      "fontFamily": "Uil",
+      "identifier": "letterJapaneseA"
+    },
     "life-ring": {
-      "codepoint": 58018,
+      "codepoint": 58069,
       "fontFamily": "Uil",
       "identifier": "lifeRing"
     },
     "lightbulb": {
-      "codepoint": 58019,
+      "codepoint": 58070,
       "fontFamily": "Uil",
       "identifier": "lightbulb"
     },
     "lightbulb-alt": {
-      "codepoint": 58020,
+      "codepoint": 58071,
       "fontFamily": "Uil",
       "identifier": "lightbulbAlt"
     },
     "line": {
-      "codepoint": 58021,
+      "codepoint": 58072,
       "fontFamily": "Uil",
       "identifier": "line"
     },
     "line-alt": {
-      "codepoint": 58022,
+      "codepoint": 58073,
       "fontFamily": "Uil",
       "identifier": "lineAlt"
     },
     "line-spacing": {
-      "codepoint": 58023,
+      "codepoint": 58074,
       "fontFamily": "Uil",
       "identifier": "lineSpacing"
     },
     "link": {
-      "codepoint": 58024,
+      "codepoint": 58075,
       "fontFamily": "Uil",
       "identifier": "link"
     },
     "link-add": {
-      "codepoint": 58025,
+      "codepoint": 58076,
       "fontFamily": "Uil",
       "identifier": "linkAdd"
     },
     "link-alt": {
-      "codepoint": 58026,
+      "codepoint": 58077,
       "fontFamily": "Uil",
       "identifier": "linkAlt"
     },
     "link-broken": {
-      "codepoint": 58027,
+      "codepoint": 58078,
       "fontFamily": "Uil",
       "identifier": "linkBroken"
     },
     "link-h": {
-      "codepoint": 58028,
+      "codepoint": 58079,
       "fontFamily": "Uil",
       "identifier": "linkH"
     },
     "linkedin": {
-      "codepoint": 58029,
+      "codepoint": 58080,
       "fontFamily": "Uil",
       "identifier": "linkedin"
     },
+    "linkedin-alt": {
+      "codepoint": 58081,
+      "fontFamily": "Uil",
+      "identifier": "linkedinAlt"
+    },
     "linux": {
-      "codepoint": 58030,
+      "codepoint": 58082,
       "fontFamily": "Uil",
       "identifier": "linux"
     },
+    "lira-sign": {
+      "codepoint": 58083,
+      "fontFamily": "Uil",
+      "identifier": "liraSign"
+    },
     "list-ol": {
-      "codepoint": 58031,
+      "codepoint": 58084,
       "fontFamily": "Uil",
       "identifier": "listOl"
     },
     "list-ol-alt": {
-      "codepoint": 58032,
+      "codepoint": 58085,
       "fontFamily": "Uil",
       "identifier": "listOlAlt"
     },
     "list-ui-alt": {
-      "codepoint": 58033,
+      "codepoint": 58086,
       "fontFamily": "Uil",
       "identifier": "listUiAlt"
     },
     "list-ul": {
-      "codepoint": 58034,
+      "codepoint": 58087,
       "fontFamily": "Uil",
       "identifier": "listUl"
     },
     "location": {
-      "codepoint": 58035,
+      "codepoint": 58088,
       "fontFamily": "Uil",
       "identifier": "location"
     },
     "location-arrow": {
-      "codepoint": 58036,
+      "codepoint": 58089,
       "fontFamily": "Uil",
       "identifier": "locationArrow"
     },
     "location-arrow-alt": {
-      "codepoint": 58037,
+      "codepoint": 58090,
       "fontFamily": "Uil",
       "identifier": "locationArrowAlt"
     },
     "location-pin-alt": {
-      "codepoint": 58038,
+      "codepoint": 58091,
       "fontFamily": "Uil",
       "identifier": "locationPinAlt"
     },
     "location-point": {
-      "codepoint": 58039,
+      "codepoint": 58092,
       "fontFamily": "Uil",
       "identifier": "locationPoint"
     },
     "lock": {
-      "codepoint": 58040,
+      "codepoint": 58093,
       "fontFamily": "Uil",
       "identifier": "lock"
     },
     "lock-access": {
-      "codepoint": 58041,
+      "codepoint": 58094,
       "fontFamily": "Uil",
       "identifier": "lockAccess"
     },
     "lock-alt": {
-      "codepoint": 58042,
+      "codepoint": 58095,
       "fontFamily": "Uil",
       "identifier": "lockAlt"
     },
     "lock-open-alt": {
-      "codepoint": 58043,
+      "codepoint": 58096,
       "fontFamily": "Uil",
       "identifier": "lockOpenAlt"
     },
     "lock-slash": {
-      "codepoint": 58044,
+      "codepoint": 58097,
       "fontFamily": "Uil",
       "identifier": "lockSlash"
     },
     "lottiefiles": {
-      "codepoint": 58045,
+      "codepoint": 58098,
       "fontFamily": "Uil",
       "identifier": "lottiefiles"
     },
     "lottiefiles-alt": {
-      "codepoint": 58046,
+      "codepoint": 58099,
       "fontFamily": "Uil",
       "identifier": "lottiefilesAlt"
     },
     "luggage-cart": {
-      "codepoint": 58047,
+      "codepoint": 58100,
       "fontFamily": "Uil",
       "identifier": "luggageCart"
     },
     "mailbox": {
-      "codepoint": 58048,
+      "codepoint": 58101,
       "fontFamily": "Uil",
       "identifier": "mailbox"
     },
     "mailbox-alt": {
-      "codepoint": 58049,
+      "codepoint": 58102,
       "fontFamily": "Uil",
       "identifier": "mailboxAlt"
     },
     "map": {
-      "codepoint": 58050,
+      "codepoint": 58103,
       "fontFamily": "Uil",
       "identifier": "map"
     },
     "map-marker": {
-      "codepoint": 58051,
+      "codepoint": 58104,
       "fontFamily": "Uil",
       "identifier": "mapMarker"
     },
     "map-marker-alt": {
-      "codepoint": 58052,
+      "codepoint": 58105,
       "fontFamily": "Uil",
       "identifier": "mapMarkerAlt"
     },
     "map-marker-edit": {
-      "codepoint": 58053,
+      "codepoint": 58106,
       "fontFamily": "Uil",
       "identifier": "mapMarkerEdit"
     },
     "map-marker-info": {
-      "codepoint": 58054,
+      "codepoint": 58107,
       "fontFamily": "Uil",
       "identifier": "mapMarkerInfo"
     },
     "map-marker-minus": {
-      "codepoint": 58055,
+      "codepoint": 58108,
       "fontFamily": "Uil",
       "identifier": "mapMarkerMinus"
     },
     "map-marker-plus": {
-      "codepoint": 58056,
+      "codepoint": 58109,
       "fontFamily": "Uil",
       "identifier": "mapMarkerPlus"
     },
     "map-marker-question": {
-      "codepoint": 58057,
+      "codepoint": 58110,
       "fontFamily": "Uil",
       "identifier": "mapMarkerQuestion"
     },
     "map-marker-shield": {
-      "codepoint": 58058,
+      "codepoint": 58111,
       "fontFamily": "Uil",
       "identifier": "mapMarkerShield"
     },
     "map-marker-slash": {
-      "codepoint": 58059,
+      "codepoint": 58112,
       "fontFamily": "Uil",
       "identifier": "mapMarkerSlash"
     },
     "map-pin": {
-      "codepoint": 58060,
+      "codepoint": 58113,
       "fontFamily": "Uil",
       "identifier": "mapPin"
     },
     "map-pin-alt": {
-      "codepoint": 58061,
+      "codepoint": 58114,
       "fontFamily": "Uil",
       "identifier": "mapPinAlt"
     },
     "mars": {
-      "codepoint": 58062,
+      "codepoint": 58115,
       "fontFamily": "Uil",
       "identifier": "mars"
     },
+    "master-card": {
+      "codepoint": 58116,
+      "fontFamily": "Uil",
+      "identifier": "masterCard"
+    },
     "maximize-left": {
-      "codepoint": 58063,
+      "codepoint": 58117,
       "fontFamily": "Uil",
       "identifier": "maximizeLeft"
     },
     "medal": {
-      "codepoint": 58064,
+      "codepoint": 58118,
       "fontFamily": "Uil",
       "identifier": "medal"
     },
     "medical": {
-      "codepoint": 58065,
+      "codepoint": 58119,
       "fontFamily": "Uil",
       "identifier": "medical"
     },
     "medical-drip": {
-      "codepoint": 58066,
+      "codepoint": 58120,
       "fontFamily": "Uil",
       "identifier": "medicalDrip"
     },
     "medical-square": {
-      "codepoint": 58067,
+      "codepoint": 58121,
       "fontFamily": "Uil",
       "identifier": "medicalSquare"
     },
     "medical-square-full": {
-      "codepoint": 58068,
+      "codepoint": 58122,
       "fontFamily": "Uil",
       "identifier": "medicalSquareFull"
     },
+    "medium-m": {
+      "codepoint": 58123,
+      "fontFamily": "Uil",
+      "identifier": "mediumM"
+    },
     "medkit": {
-      "codepoint": 58069,
+      "codepoint": 58124,
       "fontFamily": "Uil",
       "identifier": "medkit"
     },
     "meeting-board": {
-      "codepoint": 58070,
+      "codepoint": 58125,
       "fontFamily": "Uil",
       "identifier": "meetingBoard"
     },
+    "megaphone": {
+      "codepoint": 58126,
+      "fontFamily": "Uil",
+      "identifier": "megaphone"
+    },
     "meh": {
-      "codepoint": 58071,
+      "codepoint": 58127,
       "fontFamily": "Uil",
       "identifier": "meh"
     },
     "meh-alt": {
-      "codepoint": 58072,
+      "codepoint": 58128,
       "fontFamily": "Uil",
       "identifier": "mehAlt"
     },
     "meh-closed-eye": {
-      "codepoint": 58073,
+      "codepoint": 58129,
       "fontFamily": "Uil",
       "identifier": "mehClosedEye"
     },
     "message": {
-      "codepoint": 58074,
+      "codepoint": 58130,
       "fontFamily": "Uil",
       "identifier": "message"
     },
+    "metro": {
+      "codepoint": 58131,
+      "fontFamily": "Uil",
+      "identifier": "metro"
+    },
     "microphone": {
-      "codepoint": 58075,
+      "codepoint": 58132,
       "fontFamily": "Uil",
       "identifier": "microphone"
     },
     "microphone-slash": {
-      "codepoint": 58076,
+      "codepoint": 58133,
       "fontFamily": "Uil",
       "identifier": "microphoneSlash"
     },
+    "microscope": {
+      "codepoint": 58134,
+      "fontFamily": "Uil",
+      "identifier": "microscope"
+    },
     "microsoft": {
-      "codepoint": 58077,
+      "codepoint": 58135,
       "fontFamily": "Uil",
       "identifier": "microsoft"
     },
     "minus": {
-      "codepoint": 58078,
+      "codepoint": 58136,
       "fontFamily": "Uil",
       "identifier": "minus"
     },
     "minus-circle": {
-      "codepoint": 58079,
+      "codepoint": 58137,
       "fontFamily": "Uil",
       "identifier": "minusCircle"
     },
     "minus-path": {
-      "codepoint": 58080,
+      "codepoint": 58138,
       "fontFamily": "Uil",
       "identifier": "minusPath"
     },
     "minus-square": {
-      "codepoint": 58081,
+      "codepoint": 58139,
       "fontFamily": "Uil",
       "identifier": "minusSquare"
     },
     "minus-square-full": {
-      "codepoint": 58082,
+      "codepoint": 58140,
       "fontFamily": "Uil",
       "identifier": "minusSquareFull"
     },
     "missed-call": {
-      "codepoint": 58083,
+      "codepoint": 58141,
       "fontFamily": "Uil",
       "identifier": "missedCall"
     },
     "mobey-bill-slash": {
-      "codepoint": 58084,
+      "codepoint": 58142,
       "fontFamily": "Uil",
       "identifier": "mobeyBillSlash"
     },
     "mobile-android": {
-      "codepoint": 58085,
+      "codepoint": 58143,
       "fontFamily": "Uil",
       "identifier": "mobileAndroid"
     },
     "mobile-android-alt": {
-      "codepoint": 58086,
+      "codepoint": 58144,
       "fontFamily": "Uil",
       "identifier": "mobileAndroidAlt"
     },
     "mobile-vibrate": {
-      "codepoint": 58087,
+      "codepoint": 58145,
       "fontFamily": "Uil",
       "identifier": "mobileVibrate"
     },
     "modem": {
-      "codepoint": 58088,
+      "codepoint": 58146,
       "fontFamily": "Uil",
       "identifier": "modem"
     },
     "money-bill": {
-      "codepoint": 58089,
+      "codepoint": 58147,
       "fontFamily": "Uil",
       "identifier": "moneyBill"
     },
     "money-bill-slash": {
-      "codepoint": 58090,
+      "codepoint": 58148,
       "fontFamily": "Uil",
       "identifier": "moneyBillSlash"
     },
     "money-bill-stack": {
-      "codepoint": 58091,
+      "codepoint": 58149,
       "fontFamily": "Uil",
       "identifier": "moneyBillStack"
     },
     "money-insert": {
-      "codepoint": 58092,
+      "codepoint": 58150,
       "fontFamily": "Uil",
       "identifier": "moneyInsert"
     },
     "money-stack": {
-      "codepoint": 58093,
+      "codepoint": 58151,
       "fontFamily": "Uil",
       "identifier": "moneyStack"
     },
     "money-withdraw": {
-      "codepoint": 58094,
+      "codepoint": 58152,
       "fontFamily": "Uil",
       "identifier": "moneyWithdraw"
     },
     "money-withdrawal": {
-      "codepoint": 58095,
+      "codepoint": 58153,
       "fontFamily": "Uil",
       "identifier": "moneyWithdrawal"
     },
     "moneybag": {
-      "codepoint": 58096,
+      "codepoint": 58154,
       "fontFamily": "Uil",
       "identifier": "moneybag"
     },
     "moneybag-alt": {
-      "codepoint": 58097,
+      "codepoint": 58155,
       "fontFamily": "Uil",
       "identifier": "moneybagAlt"
     },
     "monitor": {
-      "codepoint": 58098,
+      "codepoint": 58156,
       "fontFamily": "Uil",
       "identifier": "monitor"
     },
     "monitor-heart-rate": {
-      "codepoint": 58099,
+      "codepoint": 58157,
       "fontFamily": "Uil",
       "identifier": "monitorHeartRate"
     },
     "moon": {
-      "codepoint": 58100,
+      "codepoint": 58158,
       "fontFamily": "Uil",
       "identifier": "moon"
     },
     "moon-eclipse": {
-      "codepoint": 58101,
+      "codepoint": 58159,
       "fontFamily": "Uil",
       "identifier": "moonEclipse"
     },
     "moonset": {
-      "codepoint": 58102,
+      "codepoint": 58160,
       "fontFamily": "Uil",
       "identifier": "moonset"
     },
     "mountains": {
-      "codepoint": 58103,
+      "codepoint": 58161,
       "fontFamily": "Uil",
       "identifier": "mountains"
     },
     "mountains-sun": {
-      "codepoint": 58104,
+      "codepoint": 58162,
       "fontFamily": "Uil",
       "identifier": "mountainsSun"
     },
     "mouse": {
-      "codepoint": 58105,
+      "codepoint": 58163,
       "fontFamily": "Uil",
       "identifier": "mouse"
     },
     "mouse-alt": {
-      "codepoint": 58106,
+      "codepoint": 58164,
       "fontFamily": "Uil",
       "identifier": "mouseAlt"
     },
     "mouse-alt-2": {
-      "codepoint": 58107,
+      "codepoint": 58165,
       "fontFamily": "Uil",
       "identifier": "mouseAlt2"
     },
     "multiply": {
-      "codepoint": 58108,
+      "codepoint": 58166,
       "fontFamily": "Uil",
       "identifier": "multiply"
     },
     "music": {
-      "codepoint": 58109,
+      "codepoint": 58167,
       "fontFamily": "Uil",
       "identifier": "music"
     },
     "music-note": {
-      "codepoint": 58110,
+      "codepoint": 58168,
       "fontFamily": "Uil",
       "identifier": "musicNote"
     },
     "music-tune-slash": {
-      "codepoint": 58111,
+      "codepoint": 58169,
       "fontFamily": "Uil",
       "identifier": "musicTuneSlash"
     },
     "n-a": {
-      "codepoint": 58112,
+      "codepoint": 58170,
       "fontFamily": "Uil",
       "identifier": "nA"
     },
     "navigator": {
-      "codepoint": 58113,
+      "codepoint": 58171,
       "fontFamily": "Uil",
       "identifier": "navigator"
     },
     "nerd": {
-      "codepoint": 58114,
+      "codepoint": 58172,
       "fontFamily": "Uil",
       "identifier": "nerd"
     },
     "newspaper": {
-      "codepoint": 58115,
+      "codepoint": 58173,
       "fontFamily": "Uil",
       "identifier": "newspaper"
     },
     "ninja": {
-      "codepoint": 58116,
+      "codepoint": 58174,
       "fontFamily": "Uil",
       "identifier": "ninja"
     },
     "no-entry": {
-      "codepoint": 58117,
+      "codepoint": 58175,
       "fontFamily": "Uil",
       "identifier": "noEntry"
     },
     "notebooks": {
-      "codepoint": 58118,
+      "codepoint": 58176,
       "fontFamily": "Uil",
       "identifier": "notebooks"
     },
     "notes": {
-      "codepoint": 58119,
+      "codepoint": 58177,
       "fontFamily": "Uil",
       "identifier": "notes"
     },
     "object-group": {
-      "codepoint": 58120,
+      "codepoint": 58178,
       "fontFamily": "Uil",
       "identifier": "objectGroup"
     },
     "object-ungroup": {
-      "codepoint": 58121,
+      "codepoint": 58179,
       "fontFamily": "Uil",
       "identifier": "objectUngroup"
     },
     "octagon": {
-      "codepoint": 58122,
+      "codepoint": 58180,
       "fontFamily": "Uil",
       "identifier": "octagon"
     },
     "okta": {
-      "codepoint": 58123,
+      "codepoint": 58181,
       "fontFamily": "Uil",
       "identifier": "okta"
     },
+    "opera": {
+      "codepoint": 58182,
+      "fontFamily": "Uil",
+      "identifier": "opera"
+    },
+    "opera-alt": {
+      "codepoint": 58183,
+      "fontFamily": "Uil",
+      "identifier": "operaAlt"
+    },
     "outgoing-call": {
-      "codepoint": 58124,
+      "codepoint": 58184,
       "fontFamily": "Uil",
       "identifier": "outgoingCall"
     },
     "outline": {
-      "codepoint": 58125,
+      "codepoint": 58185,
       "fontFamily": "Uil",
       "identifier": "outline"
     },
     "package": {
-      "codepoint": 58126,
+      "codepoint": 58186,
       "fontFamily": "Uil",
       "identifier": "package"
     },
     "padlock": {
-      "codepoint": 58127,
+      "codepoint": 58187,
       "fontFamily": "Uil",
       "identifier": "padlock"
     },
+    "pagelines": {
+      "codepoint": 58188,
+      "fontFamily": "Uil",
+      "identifier": "pagelines"
+    },
     "pagerduty": {
-      "codepoint": 58128,
+      "codepoint": 58189,
       "fontFamily": "Uil",
       "identifier": "pagerduty"
     },
     "paint-tool": {
-      "codepoint": 58129,
+      "codepoint": 58190,
       "fontFamily": "Uil",
       "identifier": "paintTool"
     },
     "palette": {
-      "codepoint": 58130,
+      "codepoint": 58191,
       "fontFamily": "Uil",
       "identifier": "palette"
     },
     "panel-add": {
-      "codepoint": 58131,
+      "codepoint": 58192,
       "fontFamily": "Uil",
       "identifier": "panelAdd"
     },
     "panorama-h": {
-      "codepoint": 58132,
+      "codepoint": 58193,
       "fontFamily": "Uil",
       "identifier": "panoramaH"
     },
     "panorama-h-alt": {
-      "codepoint": 58133,
+      "codepoint": 58194,
       "fontFamily": "Uil",
       "identifier": "panoramaHAlt"
     },
     "panorama-v": {
-      "codepoint": 58134,
+      "codepoint": 58195,
       "fontFamily": "Uil",
       "identifier": "panoramaV"
     },
     "paperclip": {
-      "codepoint": 58135,
+      "codepoint": 58196,
       "fontFamily": "Uil",
       "identifier": "paperclip"
     },
     "paragraph": {
-      "codepoint": 58136,
+      "codepoint": 58197,
       "fontFamily": "Uil",
       "identifier": "paragraph"
     },
     "parcel": {
-      "codepoint": 58137,
+      "codepoint": 58198,
       "fontFamily": "Uil",
       "identifier": "parcel"
     },
     "parking-circle": {
-      "codepoint": 58138,
+      "codepoint": 58199,
       "fontFamily": "Uil",
       "identifier": "parkingCircle"
     },
     "parking-square": {
-      "codepoint": 58139,
+      "codepoint": 58200,
       "fontFamily": "Uil",
       "identifier": "parkingSquare"
     },
     "pathfinder": {
-      "codepoint": 58140,
+      "codepoint": 58201,
       "fontFamily": "Uil",
       "identifier": "pathfinder"
     },
     "pathfinder-unite": {
-      "codepoint": 58141,
+      "codepoint": 58202,
       "fontFamily": "Uil",
       "identifier": "pathfinderUnite"
     },
     "pause": {
-      "codepoint": 58142,
+      "codepoint": 58203,
       "fontFamily": "Uil",
       "identifier": "pause"
     },
     "pause-circle": {
-      "codepoint": 58143,
+      "codepoint": 58204,
       "fontFamily": "Uil",
       "identifier": "pauseCircle"
     },
+    "paypal": {
+      "codepoint": 58205,
+      "fontFamily": "Uil",
+      "identifier": "paypal"
+    },
     "pen": {
-      "codepoint": 58144,
+      "codepoint": 58206,
       "fontFamily": "Uil",
       "identifier": "pen"
     },
     "pentagon": {
-      "codepoint": 58145,
+      "codepoint": 58207,
       "fontFamily": "Uil",
       "identifier": "pentagon"
     },
     "percentage": {
-      "codepoint": 58146,
+      "codepoint": 58208,
       "fontFamily": "Uil",
       "identifier": "percentage"
     },
     "phone": {
-      "codepoint": 58147,
+      "codepoint": 58209,
       "fontFamily": "Uil",
       "identifier": "phone"
     },
     "phone-alt": {
-      "codepoint": 58148,
+      "codepoint": 58210,
       "fontFamily": "Uil",
       "identifier": "phoneAlt"
     },
     "phone-pause": {
-      "codepoint": 58149,
+      "codepoint": 58211,
       "fontFamily": "Uil",
       "identifier": "phonePause"
     },
     "phone-slash": {
-      "codepoint": 58150,
+      "codepoint": 58212,
       "fontFamily": "Uil",
       "identifier": "phoneSlash"
     },
     "phone-times": {
-      "codepoint": 58151,
+      "codepoint": 58213,
       "fontFamily": "Uil",
       "identifier": "phoneTimes"
     },
     "phone-volume": {
-      "codepoint": 58152,
+      "codepoint": 58214,
       "fontFamily": "Uil",
       "identifier": "phoneVolume"
     },
     "picture": {
-      "codepoint": 58153,
+      "codepoint": 58215,
       "fontFamily": "Uil",
       "identifier": "picture"
     },
     "pizza-slice": {
-      "codepoint": 58154,
+      "codepoint": 58216,
       "fontFamily": "Uil",
       "identifier": "pizzaSlice"
     },
     "plane": {
-      "codepoint": 58155,
+      "codepoint": 58217,
       "fontFamily": "Uil",
       "identifier": "plane"
     },
     "plane-arrival": {
-      "codepoint": 58156,
+      "codepoint": 58218,
       "fontFamily": "Uil",
       "identifier": "planeArrival"
     },
     "plane-departure": {
-      "codepoint": 58157,
+      "codepoint": 58219,
       "fontFamily": "Uil",
       "identifier": "planeDeparture"
     },
     "plane-fly": {
-      "codepoint": 58158,
+      "codepoint": 58220,
       "fontFamily": "Uil",
       "identifier": "planeFly"
     },
     "play": {
-      "codepoint": 58159,
+      "codepoint": 58221,
       "fontFamily": "Uil",
       "identifier": "play"
     },
     "play-circle": {
-      "codepoint": 58160,
+      "codepoint": 58222,
       "fontFamily": "Uil",
       "identifier": "playCircle"
     },
     "plug": {
-      "codepoint": 58161,
+      "codepoint": 58223,
       "fontFamily": "Uil",
       "identifier": "plug"
     },
     "plus": {
-      "codepoint": 58162,
+      "codepoint": 58224,
       "fontFamily": "Uil",
       "identifier": "plus"
     },
     "plus-circle": {
-      "codepoint": 58163,
+      "codepoint": 58225,
       "fontFamily": "Uil",
       "identifier": "plusCircle"
     },
     "plus-square": {
-      "codepoint": 58164,
+      "codepoint": 58226,
       "fontFamily": "Uil",
       "identifier": "plusSquare"
     },
     "podium": {
-      "codepoint": 58165,
+      "codepoint": 58227,
       "fontFamily": "Uil",
       "identifier": "podium"
     },
     "polygon": {
-      "codepoint": 58166,
+      "codepoint": 58228,
       "fontFamily": "Uil",
       "identifier": "polygon"
     },
     "post-stamp": {
-      "codepoint": 58167,
+      "codepoint": 58229,
       "fontFamily": "Uil",
       "identifier": "postStamp"
     },
     "postcard": {
-      "codepoint": 58168,
+      "codepoint": 58230,
       "fontFamily": "Uil",
       "identifier": "postcard"
     },
     "pound": {
-      "codepoint": 58169,
+      "codepoint": 58231,
       "fontFamily": "Uil",
       "identifier": "pound"
     },
     "pound-circle": {
-      "codepoint": 58170,
+      "codepoint": 58232,
       "fontFamily": "Uil",
       "identifier": "poundCircle"
     },
     "power": {
-      "codepoint": 58171,
+      "codepoint": 58233,
       "fontFamily": "Uil",
       "identifier": "power"
     },
     "prescription-bottle": {
-      "codepoint": 58172,
+      "codepoint": 58234,
       "fontFamily": "Uil",
       "identifier": "prescriptionBottle"
     },
     "presentation": {
-      "codepoint": 58173,
+      "codepoint": 58235,
       "fontFamily": "Uil",
       "identifier": "presentation"
     },
     "presentation-check": {
-      "codepoint": 58174,
+      "codepoint": 58236,
       "fontFamily": "Uil",
       "identifier": "presentationCheck"
     },
     "presentation-edit": {
-      "codepoint": 58175,
+      "codepoint": 58237,
       "fontFamily": "Uil",
       "identifier": "presentationEdit"
     },
     "presentation-line": {
-      "codepoint": 58176,
+      "codepoint": 58238,
       "fontFamily": "Uil",
       "identifier": "presentationLine"
     },
     "presentation-lines-alt": {
-      "codepoint": 58177,
+      "codepoint": 58239,
       "fontFamily": "Uil",
       "identifier": "presentationLinesAlt"
     },
     "presentation-minus": {
-      "codepoint": 58178,
+      "codepoint": 58240,
       "fontFamily": "Uil",
       "identifier": "presentationMinus"
     },
     "presentation-play": {
-      "codepoint": 58179,
+      "codepoint": 58241,
       "fontFamily": "Uil",
       "identifier": "presentationPlay"
     },
     "presentation-plus": {
-      "codepoint": 58180,
+      "codepoint": 58242,
       "fontFamily": "Uil",
       "identifier": "presentationPlus"
     },
     "presentation-times": {
-      "codepoint": 58181,
+      "codepoint": 58243,
       "fontFamily": "Uil",
       "identifier": "presentationTimes"
     },
     "previous": {
-      "codepoint": 58182,
+      "codepoint": 58244,
       "fontFamily": "Uil",
       "identifier": "previous"
     },
     "pricetag-alt": {
-      "codepoint": 58183,
+      "codepoint": 58245,
       "fontFamily": "Uil",
       "identifier": "pricetagAlt"
     },
     "print": {
-      "codepoint": 58184,
+      "codepoint": 58246,
       "fontFamily": "Uil",
       "identifier": "print"
     },
     "print-slash": {
-      "codepoint": 58185,
+      "codepoint": 58247,
       "fontFamily": "Uil",
       "identifier": "printSlash"
     },
+    "process": {
+      "codepoint": 58248,
+      "fontFamily": "Uil",
+      "identifier": "process"
+    },
     "processor": {
-      "codepoint": 58186,
+      "codepoint": 58249,
       "fontFamily": "Uil",
       "identifier": "processor"
     },
     "programming-language": {
-      "codepoint": 58187,
+      "codepoint": 58250,
       "fontFamily": "Uil",
       "identifier": "programmingLanguage"
     },
     "pump": {
-      "codepoint": 58188,
+      "codepoint": 58251,
       "fontFamily": "Uil",
       "identifier": "pump"
     },
     "puzzle-piece": {
-      "codepoint": 58189,
+      "codepoint": 58252,
       "fontFamily": "Uil",
       "identifier": "puzzlePiece"
     },
     "qrcode-scan": {
-      "codepoint": 58190,
+      "codepoint": 58253,
       "fontFamily": "Uil",
       "identifier": "qrcodeScan"
     },
+    "question": {
+      "codepoint": 58254,
+      "fontFamily": "Uil",
+      "identifier": "question"
+    },
     "question-circle": {
-      "codepoint": 58191,
+      "codepoint": 58255,
       "fontFamily": "Uil",
       "identifier": "questionCircle"
     },
+    "raddit-alien-alt": {
+      "codepoint": 58256,
+      "fontFamily": "Uil",
+      "identifier": "radditAlienAlt"
+    },
     "rainbow": {
-      "codepoint": 58192,
+      "codepoint": 58257,
       "fontFamily": "Uil",
       "identifier": "rainbow"
     },
     "raindrops": {
-      "codepoint": 58193,
+      "codepoint": 58258,
       "fontFamily": "Uil",
       "identifier": "raindrops"
     },
     "raindrops-alt": {
-      "codepoint": 58194,
+      "codepoint": 58259,
       "fontFamily": "Uil",
       "identifier": "raindropsAlt"
     },
+    "react": {
+      "codepoint": 58260,
+      "fontFamily": "Uil",
+      "identifier": "react"
+    },
     "receipt": {
-      "codepoint": 58195,
+      "codepoint": 58261,
       "fontFamily": "Uil",
       "identifier": "receipt"
     },
     "receipt-alt": {
-      "codepoint": 58196,
+      "codepoint": 58262,
       "fontFamily": "Uil",
       "identifier": "receiptAlt"
     },
     "record-audio": {
-      "codepoint": 58197,
+      "codepoint": 58263,
       "fontFamily": "Uil",
       "identifier": "recordAudio"
     },
+    "reddit-alien-alt": {
+      "codepoint": 58264,
+      "fontFamily": "Uil",
+      "identifier": "redditAlienAlt"
+    },
     "redo": {
-      "codepoint": 58198,
+      "codepoint": 58265,
       "fontFamily": "Uil",
       "identifier": "redo"
     },
     "refresh": {
-      "codepoint": 58199,
+      "codepoint": 58266,
       "fontFamily": "Uil",
       "identifier": "refresh"
     },
     "registered": {
-      "codepoint": 58200,
+      "codepoint": 58267,
       "fontFamily": "Uil",
       "identifier": "registered"
     },
     "repeat": {
-      "codepoint": 58201,
+      "codepoint": 58268,
       "fontFamily": "Uil",
       "identifier": "repeat"
     },
     "restaurant": {
-      "codepoint": 58202,
+      "codepoint": 58269,
       "fontFamily": "Uil",
       "identifier": "restaurant"
     },
     "right-indent-alt": {
-      "codepoint": 58203,
+      "codepoint": 58270,
       "fontFamily": "Uil",
       "identifier": "rightIndentAlt"
     },
     "right-to-left-text-direction": {
-      "codepoint": 58204,
+      "codepoint": 58271,
       "fontFamily": "Uil",
       "identifier": "rightToLeftTextDirection"
     },
     "robot": {
-      "codepoint": 58205,
+      "codepoint": 58272,
       "fontFamily": "Uil",
       "identifier": "robot"
     },
+    "rocket": {
+      "codepoint": 58273,
+      "fontFamily": "Uil",
+      "identifier": "rocket"
+    },
     "rope-way": {
-      "codepoint": 58206,
+      "codepoint": 58274,
       "fontFamily": "Uil",
       "identifier": "ropeWay"
     },
     "rotate-360": {
-      "codepoint": 58207,
+      "codepoint": 58275,
       "fontFamily": "Uil",
       "identifier": "rotate360"
     },
     "rss": {
-      "codepoint": 58208,
+      "codepoint": 58276,
       "fontFamily": "Uil",
       "identifier": "rss"
     },
     "rss-alt": {
-      "codepoint": 58209,
+      "codepoint": 58277,
       "fontFamily": "Uil",
       "identifier": "rssAlt"
     },
     "rss-interface": {
-      "codepoint": 58210,
+      "codepoint": 58278,
       "fontFamily": "Uil",
       "identifier": "rssInterface"
     },
     "ruler": {
-      "codepoint": 58211,
+      "codepoint": 58279,
       "fontFamily": "Uil",
       "identifier": "ruler"
     },
     "ruler-combined": {
-      "codepoint": 58212,
+      "codepoint": 58280,
       "fontFamily": "Uil",
       "identifier": "rulerCombined"
     },
     "rupee-sign": {
-      "codepoint": 58213,
+      "codepoint": 58281,
       "fontFamily": "Uil",
       "identifier": "rupeeSign"
     },
     "sad": {
-      "codepoint": 58214,
+      "codepoint": 58282,
       "fontFamily": "Uil",
       "identifier": "sad"
     },
     "sad-cry": {
-      "codepoint": 58215,
+      "codepoint": 58283,
       "fontFamily": "Uil",
       "identifier": "sadCry"
     },
     "sad-crying": {
-      "codepoint": 58216,
+      "codepoint": 58284,
       "fontFamily": "Uil",
       "identifier": "sadCrying"
     },
     "sad-dizzy": {
-      "codepoint": 58217,
+      "codepoint": 58285,
       "fontFamily": "Uil",
       "identifier": "sadDizzy"
     },
     "sad-squint": {
-      "codepoint": 58218,
+      "codepoint": 58286,
       "fontFamily": "Uil",
       "identifier": "sadSquint"
     },
+    "sanitizer": {
+      "codepoint": 58287,
+      "fontFamily": "Uil",
+      "identifier": "sanitizer"
+    },
+    "sanitizer-alt": {
+      "codepoint": 58288,
+      "fontFamily": "Uil",
+      "identifier": "sanitizerAlt"
+    },
     "save": {
-      "codepoint": 58219,
+      "codepoint": 58289,
       "fontFamily": "Uil",
       "identifier": "save"
     },
     "scaling-left": {
-      "codepoint": 58220,
+      "codepoint": 58290,
       "fontFamily": "Uil",
       "identifier": "scalingLeft"
     },
     "scaling-right": {
-      "codepoint": 58221,
+      "codepoint": 58291,
       "fontFamily": "Uil",
       "identifier": "scalingRight"
     },
     "scenery": {
-      "codepoint": 58222,
+      "codepoint": 58292,
       "fontFamily": "Uil",
       "identifier": "scenery"
     },
     "schedule": {
-      "codepoint": 58223,
+      "codepoint": 58293,
       "fontFamily": "Uil",
       "identifier": "schedule"
     },
     "science": {
-      "codepoint": 58224,
+      "codepoint": 58294,
       "fontFamily": "Uil",
       "identifier": "science"
     },
     "screw": {
-      "codepoint": 58225,
+      "codepoint": 58295,
       "fontFamily": "Uil",
       "identifier": "screw"
     },
     "scroll": {
-      "codepoint": 58226,
+      "codepoint": 58296,
       "fontFamily": "Uil",
       "identifier": "scroll"
     },
     "scroll-h": {
-      "codepoint": 58227,
+      "codepoint": 58297,
       "fontFamily": "Uil",
       "identifier": "scrollH"
     },
     "search": {
-      "codepoint": 58228,
+      "codepoint": 58298,
       "fontFamily": "Uil",
       "identifier": "search"
     },
     "search-alt": {
-      "codepoint": 58229,
+      "codepoint": 58299,
       "fontFamily": "Uil",
       "identifier": "searchAlt"
     },
     "search-minus": {
-      "codepoint": 58230,
+      "codepoint": 58300,
       "fontFamily": "Uil",
       "identifier": "searchMinus"
     },
     "search-plus": {
-      "codepoint": 58231,
+      "codepoint": 58301,
       "fontFamily": "Uil",
       "identifier": "searchPlus"
     },
     "selfie": {
-      "codepoint": 58232,
+      "codepoint": 58302,
       "fontFamily": "Uil",
       "identifier": "selfie"
     },
     "server": {
-      "codepoint": 58233,
+      "codepoint": 58303,
       "fontFamily": "Uil",
       "identifier": "server"
     },
     "server-alt": {
-      "codepoint": 58234,
+      "codepoint": 58304,
       "fontFamily": "Uil",
       "identifier": "serverAlt"
     },
     "server-connection": {
-      "codepoint": 58235,
+      "codepoint": 58305,
       "fontFamily": "Uil",
       "identifier": "serverConnection"
     },
     "server-network": {
-      "codepoint": 58236,
+      "codepoint": 58306,
       "fontFamily": "Uil",
       "identifier": "serverNetwork"
     },
     "server-network-alt": {
-      "codepoint": 58237,
+      "codepoint": 58307,
       "fontFamily": "Uil",
       "identifier": "serverNetworkAlt"
     },
     "servers": {
-      "codepoint": 58238,
+      "codepoint": 58308,
       "fontFamily": "Uil",
       "identifier": "servers"
     },
     "servicemark": {
-      "codepoint": 58239,
+      "codepoint": 58309,
       "fontFamily": "Uil",
       "identifier": "servicemark"
     },
     "setting": {
-      "codepoint": 58240,
+      "codepoint": 58310,
       "fontFamily": "Uil",
       "identifier": "setting"
     },
+    "share": {
+      "codepoint": 58311,
+      "fontFamily": "Uil",
+      "identifier": "share"
+    },
     "share-alt": {
-      "codepoint": 58241,
+      "codepoint": 58312,
       "fontFamily": "Uil",
       "identifier": "shareAlt"
     },
     "shield": {
-      "codepoint": 58242,
+      "codepoint": 58313,
       "fontFamily": "Uil",
       "identifier": "shield"
     },
     "shield-check": {
-      "codepoint": 58243,
+      "codepoint": 58314,
       "fontFamily": "Uil",
       "identifier": "shieldCheck"
     },
     "shield-exclamation": {
-      "codepoint": 58244,
+      "codepoint": 58315,
       "fontFamily": "Uil",
       "identifier": "shieldExclamation"
     },
+    "shield-plus": {
+      "codepoint": 58316,
+      "fontFamily": "Uil",
+      "identifier": "shieldPlus"
+    },
     "shield-question": {
-      "codepoint": 58245,
+      "codepoint": 58317,
       "fontFamily": "Uil",
       "identifier": "shieldQuestion"
     },
     "shield-slash": {
-      "codepoint": 58246,
+      "codepoint": 58318,
       "fontFamily": "Uil",
       "identifier": "shieldSlash"
     },
     "ship": {
-      "codepoint": 58247,
+      "codepoint": 58319,
       "fontFamily": "Uil",
       "identifier": "ship"
     },
     "shop": {
-      "codepoint": 58248,
+      "codepoint": 58320,
       "fontFamily": "Uil",
       "identifier": "shop"
     },
     "shopping-bag": {
-      "codepoint": 58249,
+      "codepoint": 58321,
       "fontFamily": "Uil",
       "identifier": "shoppingBag"
     },
     "shopping-basket": {
-      "codepoint": 58250,
+      "codepoint": 58322,
       "fontFamily": "Uil",
       "identifier": "shoppingBasket"
     },
+    "shopping-cart": {
+      "codepoint": 58323,
+      "fontFamily": "Uil",
+      "identifier": "shoppingCart"
+    },
     "shopping-cart-alt": {
-      "codepoint": 58251,
+      "codepoint": 58324,
       "fontFamily": "Uil",
       "identifier": "shoppingCartAlt"
     },
+    "shopping-trolley": {
+      "codepoint": 58325,
+      "fontFamily": "Uil",
+      "identifier": "shoppingTrolley"
+    },
     "shovel": {
-      "codepoint": 58252,
+      "codepoint": 58326,
       "fontFamily": "Uil",
       "identifier": "shovel"
     },
     "shrink": {
-      "codepoint": 58253,
+      "codepoint": 58327,
       "fontFamily": "Uil",
       "identifier": "shrink"
     },
     "shuffle": {
-      "codepoint": 58254,
+      "codepoint": 58328,
       "fontFamily": "Uil",
       "identifier": "shuffle"
     },
     "shutter": {
-      "codepoint": 58255,
+      "codepoint": 58329,
       "fontFamily": "Uil",
       "identifier": "shutter"
     },
     "shutter-alt": {
-      "codepoint": 58256,
+      "codepoint": 58330,
       "fontFamily": "Uil",
       "identifier": "shutterAlt"
     },
     "sick": {
-      "codepoint": 58257,
+      "codepoint": 58331,
       "fontFamily": "Uil",
       "identifier": "sick"
     },
     "sigma": {
-      "codepoint": 58258,
+      "codepoint": 58332,
       "fontFamily": "Uil",
       "identifier": "sigma"
     },
     "sign-alt": {
-      "codepoint": 58259,
+      "codepoint": 58333,
       "fontFamily": "Uil",
       "identifier": "signAlt"
     },
     "sign-in-alt": {
-      "codepoint": 58260,
+      "codepoint": 58334,
       "fontFamily": "Uil",
       "identifier": "signInAlt"
     },
     "sign-left": {
-      "codepoint": 58261,
+      "codepoint": 58335,
       "fontFamily": "Uil",
       "identifier": "signLeft"
     },
     "sign-out-alt": {
-      "codepoint": 58262,
+      "codepoint": 58336,
       "fontFamily": "Uil",
       "identifier": "signOutAlt"
     },
     "sign-right": {
-      "codepoint": 58263,
+      "codepoint": 58337,
       "fontFamily": "Uil",
       "identifier": "signRight"
     },
     "signal": {
-      "codepoint": 58264,
+      "codepoint": 58338,
       "fontFamily": "Uil",
       "identifier": "signal"
     },
     "signal-alt": {
-      "codepoint": 58265,
+      "codepoint": 58339,
       "fontFamily": "Uil",
       "identifier": "signalAlt"
     },
     "signal-alt-3": {
-      "codepoint": 58266,
+      "codepoint": 58340,
       "fontFamily": "Uil",
       "identifier": "signalAlt3"
     },
     "signin": {
-      "codepoint": 58267,
+      "codepoint": 58341,
       "fontFamily": "Uil",
       "identifier": "signin"
     },
     "signout": {
-      "codepoint": 58268,
+      "codepoint": 58342,
       "fontFamily": "Uil",
       "identifier": "signout"
     },
     "silence": {
-      "codepoint": 58269,
+      "codepoint": 58343,
       "fontFamily": "Uil",
       "identifier": "silence"
     },
     "silent-squint": {
-      "codepoint": 58270,
+      "codepoint": 58344,
       "fontFamily": "Uil",
       "identifier": "silentSquint"
     },
     "sim-card": {
-      "codepoint": 58271,
+      "codepoint": 58345,
       "fontFamily": "Uil",
       "identifier": "simCard"
     },
     "sitemap": {
-      "codepoint": 58272,
+      "codepoint": 58346,
       "fontFamily": "Uil",
       "identifier": "sitemap"
     },
     "skip-forward": {
-      "codepoint": 58273,
+      "codepoint": 58347,
       "fontFamily": "Uil",
       "identifier": "skipForward"
     },
     "skip-forward-alt": {
-      "codepoint": 58274,
+      "codepoint": 58348,
       "fontFamily": "Uil",
       "identifier": "skipForwardAlt"
     },
     "skip-forward-circle": {
-      "codepoint": 58275,
+      "codepoint": 58349,
       "fontFamily": "Uil",
       "identifier": "skipForwardCircle"
     },
+    "skype": {
+      "codepoint": 58350,
+      "fontFamily": "Uil",
+      "identifier": "skype"
+    },
+    "skype-alt": {
+      "codepoint": 58351,
+      "fontFamily": "Uil",
+      "identifier": "skypeAlt"
+    },
     "slack": {
-      "codepoint": 58276,
+      "codepoint": 58352,
       "fontFamily": "Uil",
       "identifier": "slack"
     },
+    "slack-alt": {
+      "codepoint": 58353,
+      "fontFamily": "Uil",
+      "identifier": "slackAlt"
+    },
     "sleep": {
-      "codepoint": 58277,
+      "codepoint": 58354,
       "fontFamily": "Uil",
       "identifier": "sleep"
     },
     "slider-h": {
-      "codepoint": 58278,
+      "codepoint": 58355,
       "fontFamily": "Uil",
       "identifier": "sliderH"
     },
     "slider-h-range": {
-      "codepoint": 58279,
+      "codepoint": 58356,
       "fontFamily": "Uil",
       "identifier": "sliderHRange"
     },
     "sliders-v": {
-      "codepoint": 58280,
+      "codepoint": 58357,
       "fontFamily": "Uil",
       "identifier": "slidersV"
     },
     "sliders-v-alt": {
-      "codepoint": 58281,
+      "codepoint": 58358,
       "fontFamily": "Uil",
       "identifier": "slidersVAlt"
     },
     "smile": {
-      "codepoint": 58282,
+      "codepoint": 58359,
       "fontFamily": "Uil",
       "identifier": "smile"
     },
     "smile-beam": {
-      "codepoint": 58283,
+      "codepoint": 58360,
       "fontFamily": "Uil",
       "identifier": "smileBeam"
     },
     "smile-dizzy": {
-      "codepoint": 58284,
+      "codepoint": 58361,
       "fontFamily": "Uil",
       "identifier": "smileDizzy"
     },
     "smile-squint-wink": {
-      "codepoint": 58285,
+      "codepoint": 58362,
       "fontFamily": "Uil",
       "identifier": "smileSquintWink"
     },
     "smile-squint-wink-alt": {
-      "codepoint": 58286,
+      "codepoint": 58363,
       "fontFamily": "Uil",
       "identifier": "smileSquintWinkAlt"
     },
     "smile-wink": {
-      "codepoint": 58287,
+      "codepoint": 58364,
       "fontFamily": "Uil",
       "identifier": "smileWink"
     },
     "smile-wink-alt": {
-      "codepoint": 58288,
+      "codepoint": 58365,
       "fontFamily": "Uil",
       "identifier": "smileWinkAlt"
     },
+    "snapchat-alt": {
+      "codepoint": 58366,
+      "fontFamily": "Uil",
+      "identifier": "snapchatAlt"
+    },
+    "snapchat-ghost": {
+      "codepoint": 58367,
+      "fontFamily": "Uil",
+      "identifier": "snapchatGhost"
+    },
+    "snapchat-square": {
+      "codepoint": 58368,
+      "fontFamily": "Uil",
+      "identifier": "snapchatSquare"
+    },
     "snow-flake": {
-      "codepoint": 58289,
+      "codepoint": 58369,
       "fontFamily": "Uil",
       "identifier": "snowFlake"
     },
     "snowflake": {
-      "codepoint": 58290,
+      "codepoint": 58370,
       "fontFamily": "Uil",
       "identifier": "snowflake"
     },
     "snowflake-alt": {
-      "codepoint": 58291,
+      "codepoint": 58371,
       "fontFamily": "Uil",
       "identifier": "snowflakeAlt"
     },
+    "social-distancing": {
+      "codepoint": 58372,
+      "fontFamily": "Uil",
+      "identifier": "socialDistancing"
+    },
     "solid": {
-      "codepoint": 58292,
+      "codepoint": 58373,
       "fontFamily": "Uil",
       "identifier": "solid"
     },
     "sort": {
-      "codepoint": 58293,
+      "codepoint": 58374,
       "fontFamily": "Uil",
       "identifier": "sort"
     },
     "sort-amount-down": {
-      "codepoint": 58294,
+      "codepoint": 58375,
       "fontFamily": "Uil",
       "identifier": "sortAmountDown"
     },
     "sort-amount-up": {
-      "codepoint": 58295,
+      "codepoint": 58376,
       "fontFamily": "Uil",
       "identifier": "sortAmountUp"
     },
     "sorting": {
-      "codepoint": 58296,
+      "codepoint": 58377,
       "fontFamily": "Uil",
       "identifier": "sorting"
     },
     "space-key": {
-      "codepoint": 58297,
+      "codepoint": 58378,
       "fontFamily": "Uil",
       "identifier": "spaceKey"
     },
     "spade": {
-      "codepoint": 58298,
+      "codepoint": 58379,
       "fontFamily": "Uil",
       "identifier": "spade"
     },
     "sperms": {
-      "codepoint": 58299,
+      "codepoint": 58380,
       "fontFamily": "Uil",
       "identifier": "sperms"
     },
     "spin": {
-      "codepoint": 58300,
+      "codepoint": 58381,
       "fontFamily": "Uil",
       "identifier": "spin"
     },
     "spinner": {
-      "codepoint": 58301,
+      "codepoint": 58382,
       "fontFamily": "Uil",
       "identifier": "spinner"
     },
+    "spinner-alt": {
+      "codepoint": 58383,
+      "fontFamily": "Uil",
+      "identifier": "spinnerAlt"
+    },
     "sport": {
-      "codepoint": 58302,
+      "codepoint": 58384,
       "fontFamily": "Uil",
       "identifier": "sport"
     },
     "square": {
-      "codepoint": 58303,
+      "codepoint": 58385,
       "fontFamily": "Uil",
       "identifier": "square"
     },
     "square-full": {
-      "codepoint": 58304,
+      "codepoint": 58386,
       "fontFamily": "Uil",
       "identifier": "squareFull"
     },
     "square-shape": {
-      "codepoint": 58305,
+      "codepoint": 58387,
       "fontFamily": "Uil",
       "identifier": "squareShape"
     },
     "squint": {
-      "codepoint": 58306,
+      "codepoint": 58388,
       "fontFamily": "Uil",
       "identifier": "squint"
     },
     "star": {
-      "codepoint": 58307,
+      "codepoint": 58389,
       "fontFamily": "Uil",
       "identifier": "star"
     },
     "star-half-alt": {
-      "codepoint": 58308,
+      "codepoint": 58390,
       "fontFamily": "Uil",
       "identifier": "starHalfAlt"
     },
     "statistics": {
-      "codepoint": 58309,
+      "codepoint": 58391,
       "fontFamily": "Uil",
       "identifier": "statistics"
     },
     "step-backward": {
-      "codepoint": 58310,
+      "codepoint": 58392,
       "fontFamily": "Uil",
       "identifier": "stepBackward"
     },
     "step-backward-alt": {
-      "codepoint": 58311,
+      "codepoint": 58393,
       "fontFamily": "Uil",
       "identifier": "stepBackwardAlt"
     },
     "step-backward-circle": {
-      "codepoint": 58312,
+      "codepoint": 58394,
       "fontFamily": "Uil",
       "identifier": "stepBackwardCircle"
     },
     "step-forward": {
-      "codepoint": 58313,
+      "codepoint": 58395,
       "fontFamily": "Uil",
       "identifier": "stepForward"
     },
     "stethoscope": {
-      "codepoint": 58314,
+      "codepoint": 58396,
       "fontFamily": "Uil",
       "identifier": "stethoscope"
     },
     "stethoscope-alt": {
-      "codepoint": 58315,
+      "codepoint": 58397,
       "fontFamily": "Uil",
       "identifier": "stethoscopeAlt"
     },
     "stop-circle": {
-      "codepoint": 58316,
+      "codepoint": 58398,
       "fontFamily": "Uil",
       "identifier": "stopCircle"
     },
     "stopwatch": {
-      "codepoint": 58317,
+      "codepoint": 58399,
       "fontFamily": "Uil",
       "identifier": "stopwatch"
     },
     "stopwatch-slash": {
-      "codepoint": 58318,
+      "codepoint": 58400,
       "fontFamily": "Uil",
       "identifier": "stopwatchSlash"
     },
     "store": {
-      "codepoint": 58319,
+      "codepoint": 58401,
       "fontFamily": "Uil",
       "identifier": "store"
     },
     "store-alt": {
-      "codepoint": 58320,
+      "codepoint": 58402,
       "fontFamily": "Uil",
       "identifier": "storeAlt"
     },
+    "store-slash": {
+      "codepoint": 58403,
+      "fontFamily": "Uil",
+      "identifier": "storeSlash"
+    },
     "streering": {
-      "codepoint": 58321,
+      "codepoint": 58404,
       "fontFamily": "Uil",
       "identifier": "streering"
     },
     "stretcher": {
-      "codepoint": 58322,
+      "codepoint": 58405,
       "fontFamily": "Uil",
       "identifier": "stretcher"
     },
     "stroller": {
-      "codepoint": 58323,
+      "codepoint": 58406,
       "fontFamily": "Uil",
       "identifier": "stroller"
     },
     "subject": {
-      "codepoint": 58324,
+      "codepoint": 58407,
       "fontFamily": "Uil",
       "identifier": "subject"
     },
     "subway": {
-      "codepoint": 58325,
+      "codepoint": 58408,
       "fontFamily": "Uil",
       "identifier": "subway"
     },
     "subway-alt": {
-      "codepoint": 58326,
+      "codepoint": 58409,
       "fontFamily": "Uil",
       "identifier": "subwayAlt"
     },
     "suitcase": {
-      "codepoint": 58327,
+      "codepoint": 58410,
       "fontFamily": "Uil",
       "identifier": "suitcase"
     },
     "suitcase-alt": {
-      "codepoint": 58328,
+      "codepoint": 58411,
       "fontFamily": "Uil",
       "identifier": "suitcaseAlt"
     },
     "sun": {
-      "codepoint": 58329,
+      "codepoint": 58412,
       "fontFamily": "Uil",
       "identifier": "sun"
     },
     "sunset": {
-      "codepoint": 58330,
+      "codepoint": 58413,
       "fontFamily": "Uil",
       "identifier": "sunset"
     },
     "surprise": {
-      "codepoint": 58331,
+      "codepoint": 58414,
       "fontFamily": "Uil",
       "identifier": "surprise"
     },
     "swatchbook": {
-      "codepoint": 58332,
+      "codepoint": 58415,
       "fontFamily": "Uil",
       "identifier": "swatchbook"
     },
+    "swiggy": {
+      "codepoint": 58416,
+      "fontFamily": "Uil",
+      "identifier": "swiggy"
+    },
     "swimmer": {
-      "codepoint": 58333,
+      "codepoint": 58417,
       "fontFamily": "Uil",
       "identifier": "swimmer"
     },
     "symbol": {
-      "codepoint": 58334,
+      "codepoint": 58418,
       "fontFamily": "Uil",
       "identifier": "symbol"
     },
     "sync": {
-      "codepoint": 58335,
+      "codepoint": 58419,
       "fontFamily": "Uil",
       "identifier": "sync_"
     },
     "sync-exclamation": {
-      "codepoint": 58336,
+      "codepoint": 58420,
       "fontFamily": "Uil",
       "identifier": "syncExclamation"
     },
     "sync-slash": {
-      "codepoint": 58337,
+      "codepoint": 58421,
       "fontFamily": "Uil",
       "identifier": "syncSlash"
     },
     "syringe": {
-      "codepoint": 58338,
+      "codepoint": 58422,
       "fontFamily": "Uil",
       "identifier": "syringe"
     },
     "table": {
-      "codepoint": 58339,
+      "codepoint": 58423,
       "fontFamily": "Uil",
       "identifier": "table"
     },
     "table-tennis": {
-      "codepoint": 58340,
+      "codepoint": 58424,
       "fontFamily": "Uil",
       "identifier": "tableTennis"
     },
     "tablet": {
-      "codepoint": 58341,
+      "codepoint": 58425,
       "fontFamily": "Uil",
       "identifier": "tablet"
     },
     "tablets": {
-      "codepoint": 58342,
+      "codepoint": 58426,
       "fontFamily": "Uil",
       "identifier": "tablets"
     },
     "tachometer-fast": {
-      "codepoint": 58343,
+      "codepoint": 58427,
       "fontFamily": "Uil",
       "identifier": "tachometerFast"
     },
     "tachometer-fast-alt": {
-      "codepoint": 58344,
+      "codepoint": 58428,
       "fontFamily": "Uil",
       "identifier": "tachometerFastAlt"
     },
     "tag": {
-      "codepoint": 58345,
+      "codepoint": 58429,
       "fontFamily": "Uil",
       "identifier": "tag"
     },
     "tag-alt": {
-      "codepoint": 58346,
+      "codepoint": 58430,
       "fontFamily": "Uil",
       "identifier": "tagAlt"
     },
     "tape": {
-      "codepoint": 58347,
+      "codepoint": 58431,
       "fontFamily": "Uil",
       "identifier": "tape"
     },
     "taxi": {
-      "codepoint": 58348,
+      "codepoint": 58432,
       "fontFamily": "Uil",
       "identifier": "taxi"
     },
     "tear": {
-      "codepoint": 58349,
+      "codepoint": 58433,
       "fontFamily": "Uil",
       "identifier": "tear"
     },
     "technology": {
-      "codepoint": 58350,
+      "codepoint": 58434,
       "fontFamily": "Uil",
       "identifier": "technology"
     },
+    "telegram": {
+      "codepoint": 58435,
+      "fontFamily": "Uil",
+      "identifier": "telegram"
+    },
+    "telegram-alt": {
+      "codepoint": 58436,
+      "fontFamily": "Uil",
+      "identifier": "telegramAlt"
+    },
     "telescope": {
-      "codepoint": 58351,
+      "codepoint": 58437,
       "fontFamily": "Uil",
       "identifier": "telescope"
     },
     "temperature": {
-      "codepoint": 58352,
+      "codepoint": 58438,
       "fontFamily": "Uil",
       "identifier": "temperature"
     },
     "temperature-empty": {
-      "codepoint": 58353,
+      "codepoint": 58439,
       "fontFamily": "Uil",
       "identifier": "temperatureEmpty"
     },
     "temperature-half": {
-      "codepoint": 58354,
+      "codepoint": 58440,
       "fontFamily": "Uil",
       "identifier": "temperatureHalf"
     },
     "temperature-minus": {
-      "codepoint": 58355,
+      "codepoint": 58441,
       "fontFamily": "Uil",
       "identifier": "temperatureMinus"
     },
     "temperature-plus": {
-      "codepoint": 58356,
+      "codepoint": 58442,
       "fontFamily": "Uil",
       "identifier": "temperaturePlus"
     },
     "temperature-quarter": {
-      "codepoint": 58357,
+      "codepoint": 58443,
       "fontFamily": "Uil",
       "identifier": "temperatureQuarter"
     },
     "temperature-three-quarter": {
-      "codepoint": 58358,
+      "codepoint": 58444,
       "fontFamily": "Uil",
       "identifier": "temperatureThreeQuarter"
     },
     "tennis-ball": {
-      "codepoint": 58359,
+      "codepoint": 58445,
       "fontFamily": "Uil",
       "identifier": "tennisBall"
     },
     "text": {
-      "codepoint": 58360,
+      "codepoint": 58446,
       "fontFamily": "Uil",
       "identifier": "text"
     },
     "text-fields": {
-      "codepoint": 58361,
+      "codepoint": 58447,
       "fontFamily": "Uil",
       "identifier": "textFields"
     },
     "text-size": {
-      "codepoint": 58362,
+      "codepoint": 58448,
       "fontFamily": "Uil",
       "identifier": "textSize"
     },
     "text-strike-through": {
-      "codepoint": 58363,
+      "codepoint": 58449,
       "fontFamily": "Uil",
       "identifier": "textStrikeThrough"
     },
     "th": {
-      "codepoint": 58364,
+      "codepoint": 58450,
       "fontFamily": "Uil",
       "identifier": "th"
     },
     "th-large": {
-      "codepoint": 58365,
+      "codepoint": 58451,
       "fontFamily": "Uil",
       "identifier": "thLarge"
     },
     "th-slash": {
-      "codepoint": 58366,
+      "codepoint": 58452,
       "fontFamily": "Uil",
       "identifier": "thSlash"
     },
     "thermometer": {
-      "codepoint": 58367,
+      "codepoint": 58453,
       "fontFamily": "Uil",
       "identifier": "thermometer"
     },
     "thumbs-down": {
-      "codepoint": 58368,
+      "codepoint": 58454,
       "fontFamily": "Uil",
       "identifier": "thumbsDown"
     },
     "thumbs-up": {
-      "codepoint": 58369,
+      "codepoint": 58455,
       "fontFamily": "Uil",
       "identifier": "thumbsUp"
     },
     "thunderstorm": {
-      "codepoint": 58370,
+      "codepoint": 58456,
       "fontFamily": "Uil",
       "identifier": "thunderstorm"
     },
     "thunderstorm-moon": {
-      "codepoint": 58371,
+      "codepoint": 58457,
       "fontFamily": "Uil",
       "identifier": "thunderstormMoon"
     },
     "thunderstorm-sun": {
-      "codepoint": 58372,
+      "codepoint": 58458,
       "fontFamily": "Uil",
       "identifier": "thunderstormSun"
     },
     "ticket": {
-      "codepoint": 58373,
+      "codepoint": 58459,
       "fontFamily": "Uil",
       "identifier": "ticket"
     },
     "times": {
-      "codepoint": 58374,
+      "codepoint": 58460,
       "fontFamily": "Uil",
       "identifier": "times"
     },
     "times-circle": {
-      "codepoint": 58375,
+      "codepoint": 58461,
       "fontFamily": "Uil",
       "identifier": "timesCircle"
     },
     "times-square": {
-      "codepoint": 58376,
+      "codepoint": 58462,
       "fontFamily": "Uil",
       "identifier": "timesSquare"
     },
     "toggle-off": {
-      "codepoint": 58377,
+      "codepoint": 58463,
       "fontFamily": "Uil",
       "identifier": "toggleOff"
     },
     "toggle-on": {
-      "codepoint": 58378,
+      "codepoint": 58464,
       "fontFamily": "Uil",
       "identifier": "toggleOn"
     },
+    "toilet-paper": {
+      "codepoint": 58465,
+      "fontFamily": "Uil",
+      "identifier": "toiletPaper"
+    },
     "top-arrow-from-top": {
-      "codepoint": 58379,
+      "codepoint": 58466,
       "fontFamily": "Uil",
       "identifier": "topArrowFromTop"
     },
     "top-arrow-to-top": {
-      "codepoint": 58380,
+      "codepoint": 58467,
       "fontFamily": "Uil",
       "identifier": "topArrowToTop"
     },
     "tornado": {
-      "codepoint": 58381,
+      "codepoint": 58468,
       "fontFamily": "Uil",
       "identifier": "tornado"
     },
     "trademark": {
-      "codepoint": 58382,
+      "codepoint": 58469,
       "fontFamily": "Uil",
       "identifier": "trademark"
     },
     "trademark-circle": {
-      "codepoint": 58383,
+      "codepoint": 58470,
       "fontFamily": "Uil",
       "identifier": "trademarkCircle"
     },
     "traffic-barrier": {
-      "codepoint": 58384,
+      "codepoint": 58471,
       "fontFamily": "Uil",
       "identifier": "trafficBarrier"
     },
     "traffic-light": {
-      "codepoint": 58385,
+      "codepoint": 58472,
       "fontFamily": "Uil",
       "identifier": "trafficLight"
     },
     "transaction": {
-      "codepoint": 58386,
+      "codepoint": 58473,
       "fontFamily": "Uil",
       "identifier": "transaction"
     },
     "trash": {
-      "codepoint": 58387,
+      "codepoint": 58474,
       "fontFamily": "Uil",
       "identifier": "trash"
     },
     "trash-alt": {
-      "codepoint": 58388,
+      "codepoint": 58475,
       "fontFamily": "Uil",
       "identifier": "trashAlt"
     },
     "trees": {
-      "codepoint": 58389,
+      "codepoint": 58476,
       "fontFamily": "Uil",
       "identifier": "trees"
     },
     "triangle": {
-      "codepoint": 58390,
+      "codepoint": 58477,
       "fontFamily": "Uil",
       "identifier": "triangle"
     },
     "trophy": {
-      "codepoint": 58391,
+      "codepoint": 58478,
       "fontFamily": "Uil",
       "identifier": "trophy"
     },
     "trowel": {
-      "codepoint": 58392,
+      "codepoint": 58479,
       "fontFamily": "Uil",
       "identifier": "trowel"
     },
     "truck": {
-      "codepoint": 58393,
+      "codepoint": 58480,
       "fontFamily": "Uil",
       "identifier": "truck"
     },
     "truck-case": {
-      "codepoint": 58394,
+      "codepoint": 58481,
       "fontFamily": "Uil",
       "identifier": "truckCase"
     },
     "truck-loading": {
-      "codepoint": 58395,
+      "codepoint": 58482,
       "fontFamily": "Uil",
       "identifier": "truckLoading"
     },
     "tumblr": {
-      "codepoint": 58396,
+      "codepoint": 58483,
       "fontFamily": "Uil",
       "identifier": "tumblr"
     },
+    "tumblr-alt": {
+      "codepoint": 58484,
+      "fontFamily": "Uil",
+      "identifier": "tumblrAlt"
+    },
     "tumblr-square": {
-      "codepoint": 58397,
+      "codepoint": 58485,
       "fontFamily": "Uil",
       "identifier": "tumblrSquare"
     },
     "tv-retro": {
-      "codepoint": 58398,
+      "codepoint": 58486,
       "fontFamily": "Uil",
       "identifier": "tvRetro"
     },
     "tv-retro-slash": {
-      "codepoint": 58399,
+      "codepoint": 58487,
       "fontFamily": "Uil",
       "identifier": "tvRetroSlash"
     },
     "twitter": {
-      "codepoint": 58400,
+      "codepoint": 58488,
       "fontFamily": "Uil",
       "identifier": "twitter"
     },
+    "twitter-alt": {
+      "codepoint": 58489,
+      "fontFamily": "Uil",
+      "identifier": "twitterAlt"
+    },
     "umbrella": {
-      "codepoint": 58401,
+      "codepoint": 58490,
       "fontFamily": "Uil",
       "identifier": "umbrella"
     },
     "unamused": {
-      "codepoint": 58402,
+      "codepoint": 58491,
       "fontFamily": "Uil",
       "identifier": "unamused"
     },
     "underline": {
-      "codepoint": 58403,
+      "codepoint": 58492,
       "fontFamily": "Uil",
       "identifier": "underline"
     },
+    "university": {
+      "codepoint": 58493,
+      "fontFamily": "Uil",
+      "identifier": "university"
+    },
     "unlock": {
-      "codepoint": 58404,
+      "codepoint": 58494,
       "fontFamily": "Uil",
       "identifier": "unlock"
     },
     "unlock-alt": {
-      "codepoint": 58405,
+      "codepoint": 58495,
       "fontFamily": "Uil",
       "identifier": "unlockAlt"
     },
     "upload": {
-      "codepoint": 58406,
+      "codepoint": 58496,
       "fontFamily": "Uil",
       "identifier": "upload"
     },
     "upload-alt": {
-      "codepoint": 58407,
+      "codepoint": 58497,
       "fontFamily": "Uil",
       "identifier": "uploadAlt"
     },
     "usd-circle": {
-      "codepoint": 58408,
+      "codepoint": 58498,
       "fontFamily": "Uil",
       "identifier": "usdCircle"
     },
     "usd-square": {
-      "codepoint": 58409,
+      "codepoint": 58499,
       "fontFamily": "Uil",
       "identifier": "usdSquare"
     },
     "user": {
-      "codepoint": 58410,
+      "codepoint": 58500,
       "fontFamily": "Uil",
       "identifier": "user"
     },
+    "user-arrows": {
+      "codepoint": 58501,
+      "fontFamily": "Uil",
+      "identifier": "userArrows"
+    },
     "user-check": {
-      "codepoint": 58411,
+      "codepoint": 58502,
       "fontFamily": "Uil",
       "identifier": "userCheck"
     },
     "user-circle": {
-      "codepoint": 58412,
+      "codepoint": 58503,
       "fontFamily": "Uil",
       "identifier": "userCircle"
     },
     "user-exclamation": {
-      "codepoint": 58413,
+      "codepoint": 58504,
       "fontFamily": "Uil",
       "identifier": "userExclamation"
     },
     "user-hard-hat": {
-      "codepoint": 58414,
+      "codepoint": 58505,
       "fontFamily": "Uil",
       "identifier": "userHardHat"
     },
     "user-location": {
-      "codepoint": 58415,
+      "codepoint": 58506,
       "fontFamily": "Uil",
       "identifier": "userLocation"
     },
+    "user-md": {
+      "codepoint": 58507,
+      "fontFamily": "Uil",
+      "identifier": "userMd"
+    },
     "user-minus": {
-      "codepoint": 58416,
+      "codepoint": 58508,
       "fontFamily": "Uil",
       "identifier": "userMinus"
     },
+    "user-nurse": {
+      "codepoint": 58509,
+      "fontFamily": "Uil",
+      "identifier": "userNurse"
+    },
     "user-plus": {
-      "codepoint": 58417,
+      "codepoint": 58510,
       "fontFamily": "Uil",
       "identifier": "userPlus"
     },
     "user-square": {
-      "codepoint": 58418,
+      "codepoint": 58511,
       "fontFamily": "Uil",
       "identifier": "userSquare"
     },
     "user-times": {
-      "codepoint": 58419,
+      "codepoint": 58512,
       "fontFamily": "Uil",
       "identifier": "userTimes"
     },
     "users-alt": {
-      "codepoint": 58420,
+      "codepoint": 58513,
       "fontFamily": "Uil",
       "identifier": "usersAlt"
     },
     "utensils": {
-      "codepoint": 58421,
+      "codepoint": 58514,
       "fontFamily": "Uil",
       "identifier": "utensils"
     },
     "utensils-alt": {
-      "codepoint": 58422,
+      "codepoint": 58515,
       "fontFamily": "Uil",
       "identifier": "utensilsAlt"
     },
     "vector-square": {
-      "codepoint": 58423,
+      "codepoint": 58516,
       "fontFamily": "Uil",
       "identifier": "vectorSquare"
     },
     "vector-square-alt": {
-      "codepoint": 58424,
+      "codepoint": 58517,
       "fontFamily": "Uil",
       "identifier": "vectorSquareAlt"
     },
     "venus": {
-      "codepoint": 58425,
+      "codepoint": 58518,
       "fontFamily": "Uil",
       "identifier": "venus"
     },
     "vertical-align-bottom": {
-      "codepoint": 58426,
+      "codepoint": 58519,
       "fontFamily": "Uil",
       "identifier": "verticalAlignBottom"
     },
     "vertical-align-center": {
-      "codepoint": 58427,
+      "codepoint": 58520,
       "fontFamily": "Uil",
       "identifier": "verticalAlignCenter"
     },
     "vertical-align-top": {
-      "codepoint": 58428,
+      "codepoint": 58521,
       "fontFamily": "Uil",
       "identifier": "verticalAlignTop"
     },
     "vertical-distribute-bottom": {
-      "codepoint": 58429,
+      "codepoint": 58522,
       "fontFamily": "Uil",
       "identifier": "verticalDistributeBottom"
     },
     "vertical-distribution-center": {
-      "codepoint": 58430,
+      "codepoint": 58523,
       "fontFamily": "Uil",
       "identifier": "verticalDistributionCenter"
     },
     "vertical-distribution-top": {
-      "codepoint": 58431,
+      "codepoint": 58524,
       "fontFamily": "Uil",
       "identifier": "verticalDistributionTop"
     },
     "video": {
-      "codepoint": 58432,
+      "codepoint": 58525,
       "fontFamily": "Uil",
       "identifier": "video"
     },
+    "video-question": {
+      "codepoint": 58526,
+      "fontFamily": "Uil",
+      "identifier": "videoQuestion"
+    },
     "video-slash": {
-      "codepoint": 58433,
+      "codepoint": 58527,
       "fontFamily": "Uil",
       "identifier": "videoSlash"
     },
+    "virus-slash": {
+      "codepoint": 58528,
+      "fontFamily": "Uil",
+      "identifier": "virusSlash"
+    },
     "visual-studio": {
-      "codepoint": 58434,
+      "codepoint": 58529,
       "fontFamily": "Uil",
       "identifier": "visualStudio"
     },
+    "vk": {
+      "codepoint": 58530,
+      "fontFamily": "Uil",
+      "identifier": "vk"
+    },
+    "vk-alt": {
+      "codepoint": 58531,
+      "fontFamily": "Uil",
+      "identifier": "vkAlt"
+    },
     "voicemail": {
-      "codepoint": 58435,
+      "codepoint": 58532,
       "fontFamily": "Uil",
       "identifier": "voicemail"
     },
     "voicemail-rectangle": {
-      "codepoint": 58436,
+      "codepoint": 58533,
       "fontFamily": "Uil",
       "identifier": "voicemailRectangle"
     },
     "volleyball": {
-      "codepoint": 58437,
+      "codepoint": 58534,
       "fontFamily": "Uil",
       "identifier": "volleyball"
     },
     "volume": {
-      "codepoint": 58438,
+      "codepoint": 58535,
       "fontFamily": "Uil",
       "identifier": "volume"
     },
     "volume-down": {
-      "codepoint": 58439,
+      "codepoint": 58536,
       "fontFamily": "Uil",
       "identifier": "volumeDown"
     },
     "volume-mute": {
-      "codepoint": 58440,
+      "codepoint": 58537,
       "fontFamily": "Uil",
       "identifier": "volumeMute"
     },
     "volume-off": {
-      "codepoint": 58441,
+      "codepoint": 58538,
       "fontFamily": "Uil",
       "identifier": "volumeOff"
     },
     "volume-up": {
-      "codepoint": 58442,
+      "codepoint": 58539,
       "fontFamily": "Uil",
       "identifier": "volumeUp"
     },
+    "vuejs": {
+      "codepoint": 58540,
+      "fontFamily": "Uil",
+      "identifier": "vuejs"
+    },
+    "vuejs-alt": {
+      "codepoint": 58541,
+      "fontFamily": "Uil",
+      "identifier": "vuejsAlt"
+    },
     "wall": {
-      "codepoint": 58443,
+      "codepoint": 58542,
       "fontFamily": "Uil",
       "identifier": "wall"
     },
     "wallet": {
-      "codepoint": 58444,
+      "codepoint": 58543,
       "fontFamily": "Uil",
       "identifier": "wallet"
     },
     "watch": {
-      "codepoint": 58445,
+      "codepoint": 58544,
       "fontFamily": "Uil",
       "identifier": "watch"
     },
     "watch-alt": {
-      "codepoint": 58446,
+      "codepoint": 58545,
       "fontFamily": "Uil",
       "identifier": "watchAlt"
     },
     "water": {
-      "codepoint": 58447,
+      "codepoint": 58546,
       "fontFamily": "Uil",
       "identifier": "water"
     },
     "water-drop-slash": {
-      "codepoint": 58448,
+      "codepoint": 58547,
       "fontFamily": "Uil",
       "identifier": "waterDropSlash"
     },
     "water-glass": {
-      "codepoint": 58449,
+      "codepoint": 58548,
       "fontFamily": "Uil",
       "identifier": "waterGlass"
     },
     "web-grid": {
-      "codepoint": 58450,
+      "codepoint": 58549,
       "fontFamily": "Uil",
       "identifier": "webGrid"
     },
     "web-grid-alt": {
-      "codepoint": 58451,
+      "codepoint": 58550,
       "fontFamily": "Uil",
       "identifier": "webGridAlt"
     },
     "web-section": {
-      "codepoint": 58452,
+      "codepoint": 58551,
       "fontFamily": "Uil",
       "identifier": "webSection"
     },
     "web-section-alt": {
-      "codepoint": 58453,
+      "codepoint": 58552,
       "fontFamily": "Uil",
       "identifier": "webSectionAlt"
     },
     "webcam": {
-      "codepoint": 58454,
+      "codepoint": 58553,
       "fontFamily": "Uil",
       "identifier": "webcam"
     },
     "weight": {
-      "codepoint": 58455,
+      "codepoint": 58554,
       "fontFamily": "Uil",
       "identifier": "weight"
     },
     "whatsapp": {
-      "codepoint": 58456,
+      "codepoint": 58555,
       "fontFamily": "Uil",
       "identifier": "whatsapp"
     },
     "whatsapp-alt": {
-      "codepoint": 58457,
+      "codepoint": 58556,
       "fontFamily": "Uil",
       "identifier": "whatsappAlt"
     },
     "wheel-barrow": {
-      "codepoint": 58458,
+      "codepoint": 58557,
       "fontFamily": "Uil",
       "identifier": "wheelBarrow"
     },
     "wheelchair": {
-      "codepoint": 58459,
+      "codepoint": 58558,
       "fontFamily": "Uil",
       "identifier": "wheelchair"
     },
     "wheelchair-alt": {
-      "codepoint": 58460,
+      "codepoint": 58559,
       "fontFamily": "Uil",
       "identifier": "wheelchairAlt"
     },
     "wifi": {
-      "codepoint": 58461,
+      "codepoint": 58560,
       "fontFamily": "Uil",
       "identifier": "wifi"
     },
     "wifi-router": {
-      "codepoint": 58462,
+      "codepoint": 58561,
       "fontFamily": "Uil",
       "identifier": "wifiRouter"
     },
     "wifi-slash": {
-      "codepoint": 58463,
+      "codepoint": 58562,
       "fontFamily": "Uil",
       "identifier": "wifiSlash"
     },
     "wind": {
-      "codepoint": 58464,
+      "codepoint": 58563,
       "fontFamily": "Uil",
       "identifier": "wind"
     },
+    "wind-moon": {
+      "codepoint": 58564,
+      "fontFamily": "Uil",
+      "identifier": "windMoon"
+    },
+    "wind-sun": {
+      "codepoint": 58565,
+      "fontFamily": "Uil",
+      "identifier": "windSun"
+    },
     "window": {
-      "codepoint": 58465,
+      "codepoint": 58566,
       "fontFamily": "Uil",
       "identifier": "window"
     },
     "window-grid": {
-      "codepoint": 58466,
+      "codepoint": 58567,
       "fontFamily": "Uil",
       "identifier": "windowGrid"
     },
     "window-maximize": {
-      "codepoint": 58467,
+      "codepoint": 58568,
       "fontFamily": "Uil",
       "identifier": "windowMaximize"
     },
     "window-restore": {
-      "codepoint": 58468,
+      "codepoint": 58569,
       "fontFamily": "Uil",
       "identifier": "windowRestore"
     },
     "window-section": {
-      "codepoint": 58469,
+      "codepoint": 58570,
       "fontFamily": "Uil",
       "identifier": "windowSection"
     },
     "windows": {
-      "codepoint": 58470,
+      "codepoint": 58571,
       "fontFamily": "Uil",
       "identifier": "windows"
     },
     "windsock": {
-      "codepoint": 58471,
+      "codepoint": 58572,
       "fontFamily": "Uil",
       "identifier": "windsock"
     },
     "windy": {
-      "codepoint": 58472,
+      "codepoint": 58573,
       "fontFamily": "Uil",
       "identifier": "windy"
     },
+    "wordpress": {
+      "codepoint": 58574,
+      "fontFamily": "Uil",
+      "identifier": "wordpress"
+    },
+    "wordpress-simple": {
+      "codepoint": 58575,
+      "fontFamily": "Uil",
+      "identifier": "wordpressSimple"
+    },
     "wrap-text": {
-      "codepoint": 58473,
+      "codepoint": 58576,
       "fontFamily": "Uil",
       "identifier": "wrapText"
     },
     "wrench": {
-      "codepoint": 58474,
+      "codepoint": 58577,
       "fontFamily": "Uil",
       "identifier": "wrench"
     },
     "x": {
-      "codepoint": 58475,
+      "codepoint": 58578,
       "fontFamily": "Uil",
       "identifier": "x"
     },
     "x-add": {
-      "codepoint": 58476,
+      "codepoint": 58579,
       "fontFamily": "Uil",
       "identifier": "xAdd"
     },
     "yellow": {
-      "codepoint": 58477,
+      "codepoint": 58580,
       "fontFamily": "Uil",
       "identifier": "yellow"
     },
     "yen": {
-      "codepoint": 58478,
+      "codepoint": 58581,
       "fontFamily": "Uil",
       "identifier": "yen"
     },
     "yen-circle": {
-      "codepoint": 58479,
+      "codepoint": 58582,
       "fontFamily": "Uil",
       "identifier": "yenCircle"
     },
+    "yin-yang": {
+      "codepoint": 58583,
+      "fontFamily": "Uil",
+      "identifier": "yinYang"
+    },
     "youtube": {
-      "codepoint": 58480,
+      "codepoint": 58584,
       "fontFamily": "Uil",
       "identifier": "youtube"
     },
     "youtube-alt": {
-      "codepoint": 58481,
+      "codepoint": 58585,
       "fontFamily": "Uil",
       "identifier": "youtubeAlt"
     }

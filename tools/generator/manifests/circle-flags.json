@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/HatScripts/circle-flags/blob/gh-pages/LICENSE"
     },
-    "total": 154
+    "total": 153
   },
   "fonts": [
     {
       "family": "CircleFlags",
-      "nextCodepoint": 57498,
-      "iconCount": 154
+      "nextCodepoint": 57497,
+      "iconCount": 153
     }
   ],
   "icons": {
@@ -676,123 +676,118 @@
       "fontFamily": "CircleFlags",
       "identifier": "sz"
     },
-    "tk": {
-      "codepoint": 57474,
-      "fontFamily": "CircleFlags",
-      "identifier": "tk"
-    },
     "torres-strait-islands": {
-      "codepoint": 57475,
+      "codepoint": 57474,
       "fontFamily": "CircleFlags",
       "identifier": "torresStraitIslands"
     },
     "translingual": {
-      "codepoint": 57476,
+      "codepoint": 57475,
       "fontFamily": "CircleFlags",
       "identifier": "translingual"
     },
     "transnistria": {
-      "codepoint": 57477,
+      "codepoint": 57476,
       "fontFamily": "CircleFlags",
       "identifier": "transnistria"
     },
     "tz": {
-      "codepoint": 57478,
+      "codepoint": 57477,
       "fontFamily": "CircleFlags",
       "identifier": "tz"
     },
     "tz-zanzibar": {
-      "codepoint": 57479,
+      "codepoint": 57478,
       "fontFamily": "CircleFlags",
       "identifier": "tzZanzibar"
     },
     "ua": {
-      "codepoint": 57480,
+      "codepoint": 57479,
       "fontFamily": "CircleFlags",
       "identifier": "ua"
     },
     "un": {
-      "codepoint": 57481,
+      "codepoint": 57480,
       "fontFamily": "CircleFlags",
       "identifier": "un"
     },
     "united-nations": {
-      "codepoint": 57482,
+      "codepoint": 57481,
       "fontFamily": "CircleFlags",
       "identifier": "unitedNations"
     },
     "us-ak": {
-      "codepoint": 57483,
+      "codepoint": 57482,
       "fontFamily": "CircleFlags",
       "identifier": "usAk"
     },
     "us-in": {
-      "codepoint": 57484,
+      "codepoint": 57483,
       "fontFamily": "CircleFlags",
       "identifier": "usIn"
     },
     "us-mp": {
-      "codepoint": 57485,
+      "codepoint": 57484,
       "fontFamily": "CircleFlags",
       "identifier": "usMp"
     },
     "us-or": {
-      "codepoint": 57486,
+      "codepoint": 57485,
       "fontFamily": "CircleFlags",
       "identifier": "usOr"
     },
     "us-ri": {
-      "codepoint": 57487,
+      "codepoint": 57486,
       "fontFamily": "CircleFlags",
       "identifier": "usRi"
     },
     "us-sc": {
-      "codepoint": 57488,
+      "codepoint": 57487,
       "fontFamily": "CircleFlags",
       "identifier": "usSc"
     },
     "us-wi": {
-      "codepoint": 57489,
+      "codepoint": 57488,
       "fontFamily": "CircleFlags",
       "identifier": "usWi"
     },
     "uy": {
-      "codepoint": 57490,
+      "codepoint": 57489,
       "fontFamily": "CircleFlags",
       "identifier": "uy"
     },
     "va": {
-      "codepoint": 57491,
+      "codepoint": 57490,
       "fontFamily": "CircleFlags",
       "identifier": "va"
     },
     "vc": {
-      "codepoint": 57492,
+      "codepoint": 57491,
       "fontFamily": "CircleFlags",
       "identifier": "vc"
     },
     "vo": {
-      "codepoint": 57493,
+      "codepoint": 57492,
       "fontFamily": "CircleFlags",
       "identifier": "vo"
     },
     "xk": {
-      "codepoint": 57494,
+      "codepoint": 57493,
       "fontFamily": "CircleFlags",
       "identifier": "xk"
     },
     "xx": {
-      "codepoint": 57495,
+      "codepoint": 57494,
       "fontFamily": "CircleFlags",
       "identifier": "xx"
     },
     "yi": {
-      "codepoint": 57496,
+      "codepoint": 57495,
       "fontFamily": "CircleFlags",
       "identifier": "yi"
     },
     "yiddish": {
-      "codepoint": 57497,
+      "codepoint": 57496,
       "fontFamily": "CircleFlags",
       "identifier": "yiddish"
     }

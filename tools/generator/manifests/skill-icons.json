@@ -16,17 +16,17 @@
       "spdx": "MIT",
       "url": "https://github.com/tandpfun/skill-icons/blob/main/LICENSE"
     },
-    "total": 92
+    "total": 90
   },
   "fonts": [
     {
       "family": "SkillIcons",
-      "nextCodepoint": 57436,
-      "iconCount": 92
+      "nextCodepoint": 57434,
+      "iconCount": 90
     },
     {
       "family": "SkillIconsSecondary",
-      "nextCodepoint": 57436,
+      "nextCodepoint": 57434,
       "iconCount": 1
     }
   ],
@@ -216,279 +216,269 @@
       "fontFamily": "SkillIcons",
       "identifier": "laravelLight"
     },
-    "latex-light": {
-      "codepoint": 57381,
-      "fontFamily": "SkillIcons",
-      "identifier": "latexLight"
-    },
     "linkedin": {
-      "codepoint": 57382,
+      "codepoint": 57381,
       "fontFamily": "SkillIcons",
       "identifier": "linkedin"
     },
     "lua-light": {
-      "codepoint": 57383,
+      "codepoint": 57382,
       "fontFamily": "SkillIcons",
       "identifier": "luaLight"
     },
     "markdown-light": {
-      "codepoint": 57384,
+      "codepoint": 57383,
       "fontFamily": "SkillIcons",
       "identifier": "markdownLight"
     },
     "mastodon-light": {
-      "codepoint": 57385,
+      "codepoint": 57384,
       "fontFamily": "SkillIcons",
       "identifier": "mastodonLight"
     },
     "materialui-light": {
-      "codepoint": 57386,
+      "codepoint": 57385,
       "fontFamily": "SkillIcons",
       "identifier": "materialuiLight"
     },
     "mint-light": {
-      "codepoint": 57387,
+      "codepoint": 57386,
       "fontFamily": "SkillIcons",
       "identifier": "mintLight"
     },
     "misskey-light": {
-      "codepoint": 57388,
+      "codepoint": 57387,
       "fontFamily": "SkillIcons",
       "identifier": "misskeyLight"
     },
     "mysql-light": {
-      "codepoint": 57389,
+      "codepoint": 57388,
       "fontFamily": "SkillIcons",
       "identifier": "mysqlLight"
     },
     "nestjs-light": {
-      "codepoint": 57390,
+      "codepoint": 57389,
       "fontFamily": "SkillIcons",
       "identifier": "nestjsLight"
     },
     "nim-light": {
-      "codepoint": 57391,
+      "codepoint": 57390,
       "fontFamily": "SkillIcons",
       "identifier": "nimLight"
     },
     "nodejs-light": {
-      "codepoint": 57392,
+      "codepoint": 57391,
       "fontFamily": "SkillIcons",
       "identifier": "nodejsLight"
     },
     "notion-light": {
-      "codepoint": 57393,
+      "codepoint": 57392,
       "fontFamily": "SkillIcons",
       "identifier": "notionLight"
     },
     "nuxtjs-light": {
-      "codepoint": 57394,
+      "codepoint": 57393,
       "fontFamily": "SkillIcons",
       "identifier": "nuxtjsLight"
     },
     "opencv-light": {
-      "codepoint": 57395,
+      "codepoint": 57394,
       "fontFamily": "SkillIcons",
       "identifier": "opencvLight"
     },
     "openshift": {
-      "codepoint": 57396,
+      "codepoint": 57395,
       "fontFamily": "SkillIcons",
       "identifier": "openshift"
     },
     "p5js": {
-      "codepoint": 57397,
+      "codepoint": 57396,
       "fontFamily": "SkillIcons",
       "identifier": "p5js"
     },
     "php-light": {
-      "codepoint": 57398,
+      "codepoint": 57397,
       "fontFamily": "SkillIcons",
       "identifier": "phpLight"
     },
     "plan9-light": {
-      "codepoint": 57399,
+      "codepoint": 57398,
       "fontFamily": "SkillIcons",
       "identifier": "plan9Light"
     },
     "planetscale-light": {
-      "codepoint": 57400,
+      "codepoint": 57399,
       "fontFamily": "SkillIcons",
       "identifier": "planetscaleLight"
     },
     "postman": {
-      "codepoint": 57401,
+      "codepoint": 57400,
       "fontFamily": "SkillIcons",
       "identifier": "postman"
     },
     "premiere": {
-      "codepoint": 57402,
+      "codepoint": 57401,
       "fontFamily": "SkillIcons",
       "identifier": "premiere"
     },
     "prisma": {
-      "codepoint": 57403,
+      "codepoint": 57402,
       "fontFamily": "SkillIcons",
       "identifier": "prisma"
     },
     "processing-light": {
-      "codepoint": 57404,
+      "codepoint": 57403,
       "fontFamily": "SkillIcons",
       "identifier": "processingLight"
     },
     "pytorch-light": {
-      "codepoint": 57405,
+      "codepoint": 57404,
       "fontFamily": "SkillIcons",
       "identifier": "pytorchLight"
     },
     "qt-light": {
-      "codepoint": 57406,
+      "codepoint": 57405,
       "fontFamily": "SkillIcons",
       "identifier": "qtLight"
     },
     "rabbitmq-light": {
-      "codepoint": 57407,
+      "codepoint": 57406,
       "fontFamily": "SkillIcons",
       "identifier": "rabbitmqLight"
     },
     "react-light": {
-      "codepoint": 57408,
+      "codepoint": 57407,
       "fontFamily": "SkillIcons",
       "identifier": "reactLight"
     },
     "redhat-light": {
-      "codepoint": 57409,
+      "codepoint": 57408,
       "fontFamily": "SkillIcons",
       "identifier": "redhatLight"
     },
     "redux": {
-      "codepoint": 57410,
+      "codepoint": 57409,
       "fontFamily": "SkillIcons",
       "identifier": "redux"
     },
     "regex-light": {
-      "codepoint": 57411,
+      "codepoint": 57410,
       "fontFamily": "SkillIcons",
       "identifier": "regexLight"
     },
-    "remix-light": {
-      "codepoint": 57412,
-      "fontFamily": "SkillIcons",
-      "identifier": "remixLight"
-    },
     "robloxstudio": {
-      "codepoint": 57413,
+      "codepoint": 57411,
       "fontFamily": "SkillIcons",
       "identifier": "robloxstudio"
     },
     "selenium": {
-      "codepoint": 57414,
+      "codepoint": 57412,
       "fontFamily": "SkillIcons",
       "identifier": "selenium"
     },
     "solidity": {
-      "codepoint": 57415,
+      "codepoint": 57413,
       "fontFamily": "SkillIcons",
       "identifier": "solidity",
       "duotone": true
     },
     "spotify-light": {
-      "codepoint": 57416,
+      "codepoint": 57414,
       "fontFamily": "SkillIcons",
       "identifier": "spotifyLight"
     },
     "spring-light": {
-      "codepoint": 57417,
+      "codepoint": 57415,
       "fontFamily": "SkillIcons",
       "identifier": "springLight"
     },
     "svelte": {
-      "codepoint": 57418,
+      "codepoint": 57416,
       "fontFamily": "SkillIcons",
       "identifier": "svelte"
     },
     "svg-light": {
-      "codepoint": 57419,
+      "codepoint": 57417,
       "fontFamily": "SkillIcons",
       "identifier": "svgLight"
     },
     "symfony-light": {
-      "codepoint": 57420,
+      "codepoint": 57418,
       "fontFamily": "SkillIcons",
       "identifier": "symfonyLight"
     },
     "tauri-light": {
-      "codepoint": 57421,
+      "codepoint": 57419,
       "fontFamily": "SkillIcons",
       "identifier": "tauriLight"
     },
     "tensorflow-light": {
-      "codepoint": 57422,
+      "codepoint": 57420,
       "fontFamily": "SkillIcons",
       "identifier": "tensorflowLight"
     },
     "threejs-light": {
-      "codepoint": 57423,
+      "codepoint": 57421,
       "fontFamily": "SkillIcons",
       "identifier": "threejsLight"
     },
     "twitter": {
-      "codepoint": 57424,
+      "codepoint": 57422,
       "fontFamily": "SkillIcons",
       "identifier": "twitter"
     },
     "typescript": {
-      "codepoint": 57425,
+      "codepoint": 57423,
       "fontFamily": "SkillIcons",
       "identifier": "typescript"
     },
     "unity-light": {
-      "codepoint": 57426,
+      "codepoint": 57424,
       "fontFamily": "SkillIcons",
       "identifier": "unityLight"
     },
     "unrealengine": {
-      "codepoint": 57427,
+      "codepoint": 57425,
       "fontFamily": "SkillIcons",
       "identifier": "unrealengine"
     },
     "vercel-light": {
-      "codepoint": 57428,
+      "codepoint": 57426,
       "fontFamily": "SkillIcons",
       "identifier": "vercelLight"
     },
     "vitest-light": {
-      "codepoint": 57429,
+      "codepoint": 57427,
       "fontFamily": "SkillIcons",
       "identifier": "vitestLight"
     },
     "webassembly": {
-      "codepoint": 57430,
+      "codepoint": 57428,
       "fontFamily": "SkillIcons",
       "identifier": "webassembly"
     },
     "webpack-light": {
-      "codepoint": 57431,
+      "codepoint": 57429,
       "fontFamily": "SkillIcons",
       "identifier": "webpackLight"
     },
     "windows-light": {
-      "codepoint": 57432,
+      "codepoint": 57430,
       "fontFamily": "SkillIcons",
       "identifier": "windowsLight"
     },
     "wordpress": {
-      "codepoint": 57433,
+      "codepoint": 57431,
       "fontFamily": "SkillIcons",
       "identifier": "wordpress"
     },
     "yew-light": {
-      "codepoint": 57434,
+      "codepoint": 57432,
       "fontFamily": "SkillIcons",
       "identifier": "yewLight"
     },
     "zig-light": {
-      "codepoint": 57435,
+      "codepoint": 57433,
       "fontFamily": "SkillIcons",
       "identifier": "zigLight"
     }

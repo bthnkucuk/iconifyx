@@ -15,105 +15,1430 @@
       "title": "MIT",
       "spdx": "MIT"
     },
-    "total": 18
+    "total": 283
   },
   "fonts": [
     {
       "family": "Wpf",
-      "nextCodepoint": 57362,
-      "iconCount": 18
+      "nextCodepoint": 57627,
+      "iconCount": 283
     }
   ],
   "icons": {
-    "align-justify": {
+    "2f-swipe-down": {
       "codepoint": 57344,
+      "fontFamily": "Wpf",
+      "identifier": "n2fSwipeDown"
+    },
+    "2f-swipe-right": {
+      "codepoint": 57345,
+      "fontFamily": "Wpf",
+      "identifier": "n2fSwipeRight"
+    },
+    "2fswipedown": {
+      "codepoint": 57346,
+      "fontFamily": "Wpf",
+      "identifier": "n2fswipedown"
+    },
+    "2fswiperight": {
+      "codepoint": 57347,
+      "fontFamily": "Wpf",
+      "identifier": "n2fswiperight"
+    },
+    "add-image": {
+      "codepoint": 57348,
+      "fontFamily": "Wpf",
+      "identifier": "addImage"
+    },
+    "add-user": {
+      "codepoint": 57349,
+      "fontFamily": "Wpf",
+      "identifier": "addUser"
+    },
+    "addimage": {
+      "codepoint": 57350,
+      "fontFamily": "Wpf",
+      "identifier": "addimage"
+    },
+    "adduser": {
+      "codepoint": 57351,
+      "fontFamily": "Wpf",
+      "identifier": "adduser"
+    },
+    "administrator": {
+      "codepoint": 57352,
+      "fontFamily": "Wpf",
+      "identifier": "administrator"
+    },
+    "alarm-clock": {
+      "codepoint": 57353,
+      "fontFamily": "Wpf",
+      "identifier": "alarmClock"
+    },
+    "alarmclock": {
+      "codepoint": 57354,
+      "fontFamily": "Wpf",
+      "identifier": "alarmclock"
+    },
+    "align-justify": {
+      "codepoint": 57355,
       "fontFamily": "Wpf",
       "identifier": "alignJustify"
     },
     "alignjustify": {
-      "codepoint": 57345,
+      "codepoint": 57356,
       "fontFamily": "Wpf",
       "identifier": "alignjustify"
     },
+    "android": {
+      "codepoint": 57357,
+      "fontFamily": "Wpf",
+      "identifier": "android"
+    },
+    "android-os": {
+      "codepoint": 57358,
+      "fontFamily": "Wpf",
+      "identifier": "androidOs"
+    },
+    "androidos": {
+      "codepoint": 57359,
+      "fontFamily": "Wpf",
+      "identifier": "androidos"
+    },
+    "app-shield": {
+      "codepoint": 57360,
+      "fontFamily": "Wpf",
+      "identifier": "appShield"
+    },
+    "approval": {
+      "codepoint": 57361,
+      "fontFamily": "Wpf",
+      "identifier": "approval"
+    },
+    "appshield": {
+      "codepoint": 57362,
+      "fontFamily": "Wpf",
+      "identifier": "appshield"
+    },
+    "archive2": {
+      "codepoint": 57363,
+      "fontFamily": "Wpf",
+      "identifier": "archive2"
+    },
+    "ask-question": {
+      "codepoint": 57364,
+      "fontFamily": "Wpf",
+      "identifier": "askQuestion"
+    },
+    "askquestion": {
+      "codepoint": 57365,
+      "fontFamily": "Wpf",
+      "identifier": "askquestion"
+    },
+    "assistant": {
+      "codepoint": 57366,
+      "fontFamily": "Wpf",
+      "identifier": "assistant"
+    },
+    "attach": {
+      "codepoint": 57367,
+      "fontFamily": "Wpf",
+      "identifier": "attach"
+    },
+    "audio-wave": {
+      "codepoint": 57368,
+      "fontFamily": "Wpf",
+      "identifier": "audioWave"
+    },
+    "audiowave": {
+      "codepoint": 57369,
+      "fontFamily": "Wpf",
+      "identifier": "audiowave"
+    },
     "autopilot": {
-      "codepoint": 57346,
+      "codepoint": 57370,
       "fontFamily": "Wpf",
       "identifier": "autopilot"
     },
+    "ball-point-pen": {
+      "codepoint": 57371,
+      "fontFamily": "Wpf",
+      "identifier": "ballPointPen"
+    },
+    "ballpointpen": {
+      "codepoint": 57372,
+      "fontFamily": "Wpf",
+      "identifier": "ballpointpen"
+    },
+    "bank-cards": {
+      "codepoint": 57373,
+      "fontFamily": "Wpf",
+      "identifier": "bankCards"
+    },
+    "bankcards": {
+      "codepoint": 57374,
+      "fontFamily": "Wpf",
+      "identifier": "bankcards"
+    },
+    "banknotes": {
+      "codepoint": 57375,
+      "fontFamily": "Wpf",
+      "identifier": "banknotes"
+    },
+    "bed": {
+      "codepoint": 57376,
+      "fontFamily": "Wpf",
+      "identifier": "bed"
+    },
     "behance": {
-      "codepoint": 57347,
+      "codepoint": 57377,
       "fontFamily": "Wpf",
       "identifier": "behance"
     },
+    "birthday": {
+      "codepoint": 57378,
+      "fontFamily": "Wpf",
+      "identifier": "birthday"
+    },
+    "blackberry": {
+      "codepoint": 57379,
+      "fontFamily": "Wpf",
+      "identifier": "blackberry"
+    },
+    "bold": {
+      "codepoint": 57380,
+      "fontFamily": "Wpf",
+      "identifier": "bold"
+    },
+    "books": {
+      "codepoint": 57381,
+      "fontFamily": "Wpf",
+      "identifier": "books"
+    },
+    "briefcase": {
+      "codepoint": 57382,
+      "fontFamily": "Wpf",
+      "identifier": "briefcase"
+    },
+    "bright-moon": {
+      "codepoint": 57383,
+      "fontFamily": "Wpf",
+      "identifier": "brightMoon"
+    },
+    "brightmoon": {
+      "codepoint": 57384,
+      "fontFamily": "Wpf",
+      "identifier": "brightmoon"
+    },
+    "bug": {
+      "codepoint": 57385,
+      "fontFamily": "Wpf",
+      "identifier": "bug"
+    },
+    "building": {
+      "codepoint": 57386,
+      "fontFamily": "Wpf",
+      "identifier": "building"
+    },
+    "business-contact": {
+      "codepoint": 57387,
+      "fontFamily": "Wpf",
+      "identifier": "businessContact"
+    },
+    "businesscontact": {
+      "codepoint": 57388,
+      "fontFamily": "Wpf",
+      "identifier": "businesscontact"
+    },
+    "calendar": {
+      "codepoint": 57389,
+      "fontFamily": "Wpf",
+      "identifier": "calendar"
+    },
+    "call-transfer": {
+      "codepoint": 57390,
+      "fontFamily": "Wpf",
+      "identifier": "callTransfer"
+    },
+    "calltransfer": {
+      "codepoint": 57391,
+      "fontFamily": "Wpf",
+      "identifier": "calltransfer"
+    },
+    "camera": {
+      "codepoint": 57392,
+      "fontFamily": "Wpf",
+      "identifier": "camera"
+    },
+    "car-rental": {
+      "codepoint": 57393,
+      "fontFamily": "Wpf",
+      "identifier": "carRental"
+    },
+    "carrental": {
+      "codepoint": 57394,
+      "fontFamily": "Wpf",
+      "identifier": "carrental"
+    },
     "charge-battery": {
-      "codepoint": 57348,
+      "codepoint": 57395,
       "fontFamily": "Wpf",
       "identifier": "chargeBattery"
     },
     "chargebattery": {
-      "codepoint": 57349,
+      "codepoint": 57396,
       "fontFamily": "Wpf",
       "identifier": "chargebattery"
     },
+    "chat": {
+      "codepoint": 57397,
+      "fontFamily": "Wpf",
+      "identifier": "chat"
+    },
+    "check-book": {
+      "codepoint": 57398,
+      "fontFamily": "Wpf",
+      "identifier": "checkBook"
+    },
+    "check-file": {
+      "codepoint": 57399,
+      "fontFamily": "Wpf",
+      "identifier": "checkFile"
+    },
+    "checkbook": {
+      "codepoint": 57400,
+      "fontFamily": "Wpf",
+      "identifier": "checkbook"
+    },
+    "checkfile": {
+      "codepoint": 57401,
+      "fontFamily": "Wpf",
+      "identifier": "checkfile"
+    },
+    "checkmark": {
+      "codepoint": 57402,
+      "fontFamily": "Wpf",
+      "identifier": "checkmark"
+    },
     "clapperboard": {
-      "codepoint": 57350,
+      "codepoint": 57403,
       "fontFamily": "Wpf",
       "identifier": "clapperboard"
     },
+    "clipboard": {
+      "codepoint": 57404,
+      "fontFamily": "Wpf",
+      "identifier": "clipboard"
+    },
+    "cloakroom": {
+      "codepoint": 57405,
+      "fontFamily": "Wpf",
+      "identifier": "cloakroom"
+    },
+    "close-up-mode": {
+      "codepoint": 57406,
+      "fontFamily": "Wpf",
+      "identifier": "closeUpMode"
+    },
+    "closeupmode": {
+      "codepoint": 57407,
+      "fontFamily": "Wpf",
+      "identifier": "closeupmode"
+    },
+    "cloud": {
+      "codepoint": 57408,
+      "fontFamily": "Wpf",
+      "identifier": "cloud"
+    },
+    "coins": {
+      "codepoint": 57409,
+      "fontFamily": "Wpf",
+      "identifier": "coins"
+    },
+    "collaborator": {
+      "codepoint": 57410,
+      "fontFamily": "Wpf",
+      "identifier": "collaborator"
+    },
+    "color-dropper": {
+      "codepoint": 57411,
+      "fontFamily": "Wpf",
+      "identifier": "colorDropper"
+    },
+    "colordropper": {
+      "codepoint": 57412,
+      "fontFamily": "Wpf",
+      "identifier": "colordropper"
+    },
+    "connected": {
+      "codepoint": 57413,
+      "fontFamily": "Wpf",
+      "identifier": "connected"
+    },
+    "controller": {
+      "codepoint": 57414,
+      "fontFamily": "Wpf",
+      "identifier": "controller"
+    },
+    "cornet": {
+      "codepoint": 57415,
+      "fontFamily": "Wpf",
+      "identifier": "cornet"
+    },
+    "create-new": {
+      "codepoint": 57416,
+      "fontFamily": "Wpf",
+      "identifier": "createNew"
+    },
+    "createnew": {
+      "codepoint": 57417,
+      "fontFamily": "Wpf",
+      "identifier": "createnew"
+    },
+    "cursor": {
+      "codepoint": 57418,
+      "fontFamily": "Wpf",
+      "identifier": "cursor"
+    },
+    "cut": {
+      "codepoint": 57419,
+      "fontFamily": "Wpf",
+      "identifier": "cut"
+    },
+    "cut-paper": {
+      "codepoint": 57420,
+      "fontFamily": "Wpf",
+      "identifier": "cutPaper"
+    },
+    "cutpaper": {
+      "codepoint": 57421,
+      "fontFamily": "Wpf",
+      "identifier": "cutpaper"
+    },
+    "define-location": {
+      "codepoint": 57422,
+      "fontFamily": "Wpf",
+      "identifier": "defineLocation"
+    },
+    "definelocation": {
+      "codepoint": 57423,
+      "fontFamily": "Wpf",
+      "identifier": "definelocation"
+    },
+    "delete": {
+      "codepoint": 57424,
+      "fontFamily": "Wpf",
+      "identifier": "delete"
+    },
+    "delete-shield": {
+      "codepoint": 57425,
+      "fontFamily": "Wpf",
+      "identifier": "deleteShield"
+    },
+    "deleteshield": {
+      "codepoint": 57426,
+      "fontFamily": "Wpf",
+      "identifier": "deleteshield"
+    },
+    "desk-lamp": {
+      "codepoint": 57427,
+      "fontFamily": "Wpf",
+      "identifier": "deskLamp"
+    },
+    "desklamp": {
+      "codepoint": 57428,
+      "fontFamily": "Wpf",
+      "identifier": "desklamp"
+    },
+    "details": {
+      "codepoint": 57429,
+      "fontFamily": "Wpf",
+      "identifier": "details"
+    },
+    "dining-room": {
+      "codepoint": 57430,
+      "fontFamily": "Wpf",
+      "identifier": "diningRoom"
+    },
+    "diningroom": {
+      "codepoint": 57431,
+      "fontFamily": "Wpf",
+      "identifier": "diningroom"
+    },
+    "diploma-1": {
+      "codepoint": 57432,
+      "fontFamily": "Wpf",
+      "identifier": "diploma1"
+    },
+    "diploma1": {
+      "codepoint": 57433,
+      "fontFamily": "Wpf",
+      "identifier": "diploma1_2"
+    },
+    "disconnected": {
+      "codepoint": 57434,
+      "fontFamily": "Wpf",
+      "identifier": "disconnected"
+    },
+    "doctors-bag": {
+      "codepoint": 57435,
+      "fontFamily": "Wpf",
+      "identifier": "doctorsBag"
+    },
+    "doctorsbag": {
+      "codepoint": 57436,
+      "fontFamily": "Wpf",
+      "identifier": "doctorsbag"
+    },
+    "edit": {
+      "codepoint": 57437,
+      "fontFamily": "Wpf",
+      "identifier": "edit"
+    },
+    "edit-file": {
+      "codepoint": 57438,
+      "fontFamily": "Wpf",
+      "identifier": "editFile"
+    },
+    "edit-image": {
+      "codepoint": 57439,
+      "fontFamily": "Wpf",
+      "identifier": "editImage"
+    },
+    "editfile": {
+      "codepoint": 57440,
+      "fontFamily": "Wpf",
+      "identifier": "editfile"
+    },
+    "editimage": {
+      "codepoint": 57441,
+      "fontFamily": "Wpf",
+      "identifier": "editimage"
+    },
+    "eject": {
+      "codepoint": 57442,
+      "fontFamily": "Wpf",
+      "identifier": "eject"
+    },
+    "empty-battery": {
+      "codepoint": 57443,
+      "fontFamily": "Wpf",
+      "identifier": "emptyBattery"
+    },
+    "empty-flag": {
+      "codepoint": 57444,
+      "fontFamily": "Wpf",
+      "identifier": "emptyFlag"
+    },
+    "emptybattery": {
+      "codepoint": 57445,
+      "fontFamily": "Wpf",
+      "identifier": "emptybattery"
+    },
+    "emptyflag": {
+      "codepoint": 57446,
+      "fontFamily": "Wpf",
+      "identifier": "emptyflag"
+    },
+    "end": {
+      "codepoint": 57447,
+      "fontFamily": "Wpf",
+      "identifier": "end"
+    },
+    "facial-recognition-scan": {
+      "codepoint": 57448,
+      "fontFamily": "Wpf",
+      "identifier": "facialRecognitionScan"
+    },
+    "facialrecognitionscan": {
+      "codepoint": 57449,
+      "fontFamily": "Wpf",
+      "identifier": "facialrecognitionscan"
+    },
+    "factory": {
+      "codepoint": 57450,
+      "fontFamily": "Wpf",
+      "identifier": "factory_"
+    },
+    "fan": {
+      "codepoint": 57451,
+      "fontFamily": "Wpf",
+      "identifier": "fan"
+    },
+    "faq": {
+      "codepoint": 57452,
+      "fontFamily": "Wpf",
+      "identifier": "faq"
+    },
+    "fast-forward": {
+      "codepoint": 57453,
+      "fontFamily": "Wpf",
+      "identifier": "fastForward"
+    },
+    "fastforward": {
+      "codepoint": 57454,
+      "fontFamily": "Wpf",
+      "identifier": "fastforward"
+    },
+    "filled-flag": {
+      "codepoint": 57455,
+      "fontFamily": "Wpf",
+      "identifier": "filledFlag"
+    },
+    "filledflag": {
+      "codepoint": 57456,
+      "fontFamily": "Wpf",
+      "identifier": "filledflag"
+    },
+    "fingerprint-scan": {
+      "codepoint": 57457,
+      "fontFamily": "Wpf",
+      "identifier": "fingerprintScan"
+    },
+    "fingerprintscan": {
+      "codepoint": 57458,
+      "fontFamily": "Wpf",
+      "identifier": "fingerprintscan"
+    },
+    "first": {
+      "codepoint": 57459,
+      "fontFamily": "Wpf",
+      "identifier": "first"
+    },
     "full-battery": {
-      "codepoint": 57351,
+      "codepoint": 57460,
       "fontFamily": "Wpf",
       "identifier": "fullBattery"
     },
+    "full-trash": {
+      "codepoint": 57461,
+      "fontFamily": "Wpf",
+      "identifier": "fullTrash"
+    },
     "fullbattery": {
-      "codepoint": 57352,
+      "codepoint": 57462,
       "fontFamily": "Wpf",
       "identifier": "fullbattery"
     },
+    "fulltrash": {
+      "codepoint": 57463,
+      "fontFamily": "Wpf",
+      "identifier": "fulltrash"
+    },
+    "future": {
+      "codepoint": 57464,
+      "fontFamily": "Wpf",
+      "identifier": "future"
+    },
+    "geo-fence": {
+      "codepoint": 57465,
+      "fontFamily": "Wpf",
+      "identifier": "geoFence"
+    },
+    "geofence": {
+      "codepoint": 57466,
+      "fontFamily": "Wpf",
+      "identifier": "geofence"
+    },
+    "ghost": {
+      "codepoint": 57467,
+      "fontFamily": "Wpf",
+      "identifier": "ghost"
+    },
+    "globe-earth": {
+      "codepoint": 57468,
+      "fontFamily": "Wpf",
+      "identifier": "globeEarth"
+    },
+    "globeearth": {
+      "codepoint": 57469,
+      "fontFamily": "Wpf",
+      "identifier": "globeearth"
+    },
+    "gps-receiving": {
+      "codepoint": 57470,
+      "fontFamily": "Wpf",
+      "identifier": "gpsReceiving"
+    },
+    "gpsreceiving": {
+      "codepoint": 57471,
+      "fontFamily": "Wpf",
+      "identifier": "gpsreceiving"
+    },
+    "group": {
+      "codepoint": 57472,
+      "fontFamily": "Wpf",
+      "identifier": "group"
+    },
+    "guitar": {
+      "codepoint": 57473,
+      "fontFamily": "Wpf",
+      "identifier": "guitar"
+    },
+    "happy": {
+      "codepoint": 57474,
+      "fontFamily": "Wpf",
+      "identifier": "happy"
+    },
+    "headset": {
+      "codepoint": 57475,
+      "fontFamily": "Wpf",
+      "identifier": "headset"
+    },
+    "herald-trumpet": {
+      "codepoint": 57476,
+      "fontFamily": "Wpf",
+      "identifier": "heraldTrumpet"
+    },
+    "heraldtrumpet": {
+      "codepoint": 57477,
+      "fontFamily": "Wpf",
+      "identifier": "heraldtrumpet"
+    },
+    "hexagon": {
+      "codepoint": 57478,
+      "fontFamily": "Wpf",
+      "identifier": "hexagon"
+    },
     "high-battery": {
-      "codepoint": 57353,
+      "codepoint": 57479,
       "fontFamily": "Wpf",
       "identifier": "highBattery"
     },
     "highbattery": {
-      "codepoint": 57354,
+      "codepoint": 57480,
       "fontFamily": "Wpf",
       "identifier": "highbattery"
     },
+    "image-file": {
+      "codepoint": 57481,
+      "fontFamily": "Wpf",
+      "identifier": "imageFile"
+    },
+    "imagefile": {
+      "codepoint": 57482,
+      "fontFamily": "Wpf",
+      "identifier": "imagefile"
+    },
+    "in-transit": {
+      "codepoint": 57483,
+      "fontFamily": "Wpf",
+      "identifier": "inTransit"
+    },
+    "inbox": {
+      "codepoint": 57484,
+      "fontFamily": "Wpf",
+      "identifier": "inbox"
+    },
+    "inspection": {
+      "codepoint": 57485,
+      "fontFamily": "Wpf",
+      "identifier": "inspection"
+    },
+    "integrated-circuit": {
+      "codepoint": 57486,
+      "fontFamily": "Wpf",
+      "identifier": "integratedCircuit"
+    },
+    "integratedcircuit": {
+      "codepoint": 57487,
+      "fontFamily": "Wpf",
+      "identifier": "integratedcircuit"
+    },
+    "intransit": {
+      "codepoint": 57488,
+      "fontFamily": "Wpf",
+      "identifier": "intransit"
+    },
+    "invisible": {
+      "codepoint": 57489,
+      "fontFamily": "Wpf",
+      "identifier": "invisible"
+    },
+    "iphone": {
+      "codepoint": 57490,
+      "fontFamily": "Wpf",
+      "identifier": "iphone"
+    },
+    "keep-dry": {
+      "codepoint": 57491,
+      "fontFamily": "Wpf",
+      "identifier": "keepDry"
+    },
+    "keepdry": {
+      "codepoint": 57492,
+      "fontFamily": "Wpf",
+      "identifier": "keepdry"
+    },
+    "key-security": {
+      "codepoint": 57493,
+      "fontFamily": "Wpf",
+      "identifier": "keySecurity"
+    },
     "keyboard": {
-      "codepoint": 57355,
+      "codepoint": 57494,
       "fontFamily": "Wpf",
       "identifier": "keyboard"
     },
+    "keysecurity": {
+      "codepoint": 57495,
+      "fontFamily": "Wpf",
+      "identifier": "keysecurity"
+    },
+    "last": {
+      "codepoint": 57496,
+      "fontFamily": "Wpf",
+      "identifier": "last"
+    },
+    "like": {
+      "codepoint": 57497,
+      "fontFamily": "Wpf",
+      "identifier": "like"
+    },
+    "lol": {
+      "codepoint": 57498,
+      "fontFamily": "Wpf",
+      "identifier": "lol"
+    },
+    "luggage-trolley": {
+      "codepoint": 57499,
+      "fontFamily": "Wpf",
+      "identifier": "luggageTrolley"
+    },
+    "luggagetrolley": {
+      "codepoint": 57500,
+      "fontFamily": "Wpf",
+      "identifier": "luggagetrolley"
+    },
+    "mac-os": {
+      "codepoint": 57501,
+      "fontFamily": "Wpf",
+      "identifier": "macOs"
+    },
+    "macos": {
+      "codepoint": 57502,
+      "fontFamily": "Wpf",
+      "identifier": "macos"
+    },
+    "maestro": {
+      "codepoint": 57503,
+      "fontFamily": "Wpf",
+      "identifier": "maestro"
+    },
+    "maintenance": {
+      "codepoint": 57504,
+      "fontFamily": "Wpf",
+      "identifier": "maintenance"
+    },
+    "medical-doctor": {
+      "codepoint": 57505,
+      "fontFamily": "Wpf",
+      "identifier": "medicalDoctor"
+    },
+    "medicaldoctor": {
+      "codepoint": 57506,
+      "fontFamily": "Wpf",
+      "identifier": "medicaldoctor"
+    },
     "message": {
-      "codepoint": 57356,
+      "codepoint": 57507,
       "fontFamily": "Wpf",
       "identifier": "message"
     },
+    "message-outline": {
+      "codepoint": 57508,
+      "fontFamily": "Wpf",
+      "identifier": "messageOutline"
+    },
+    "messageoutline": {
+      "codepoint": 57509,
+      "fontFamily": "Wpf",
+      "identifier": "messageoutline"
+    },
+    "microphone": {
+      "codepoint": 57510,
+      "fontFamily": "Wpf",
+      "identifier": "microphone"
+    },
+    "mouse": {
+      "codepoint": 57511,
+      "fontFamily": "Wpf",
+      "identifier": "mouse"
+    },
+    "musical-notes": {
+      "codepoint": 57512,
+      "fontFamily": "Wpf",
+      "identifier": "musicalNotes"
+    },
+    "musicalnotes": {
+      "codepoint": 57513,
+      "fontFamily": "Wpf",
+      "identifier": "musicalnotes"
+    },
+    "mute": {
+      "codepoint": 57514,
+      "fontFamily": "Wpf",
+      "identifier": "mute"
+    },
+    "my-topic": {
+      "codepoint": 57515,
+      "fontFamily": "Wpf",
+      "identifier": "myTopic"
+    },
+    "mytopic": {
+      "codepoint": 57516,
+      "fontFamily": "Wpf",
+      "identifier": "mytopic"
+    },
+    "name": {
+      "codepoint": 57517,
+      "fontFamily": "Wpf",
+      "identifier": "name"
+    },
+    "news": {
+      "codepoint": 57518,
+      "fontFamily": "Wpf",
+      "identifier": "news"
+    },
+    "next": {
+      "codepoint": 57519,
+      "fontFamily": "Wpf",
+      "identifier": "next"
+    },
+    "nfc-checkpoint": {
+      "codepoint": 57520,
+      "fontFamily": "Wpf",
+      "identifier": "nfcCheckpoint"
+    },
+    "nfccheckpoint": {
+      "codepoint": 57521,
+      "fontFamily": "Wpf",
+      "identifier": "nfccheckpoint"
+    },
+    "note": {
+      "codepoint": 57522,
+      "fontFamily": "Wpf",
+      "identifier": "note"
+    },
+    "online": {
+      "codepoint": 57523,
+      "fontFamily": "Wpf",
+      "identifier": "online"
+    },
+    "packaging": {
+      "codepoint": 57524,
+      "fontFamily": "Wpf",
+      "identifier": "packaging"
+    },
+    "paid": {
+      "codepoint": 57525,
+      "fontFamily": "Wpf",
+      "identifier": "paid"
+    },
+    "panorama": {
+      "codepoint": 57526,
+      "fontFamily": "Wpf",
+      "identifier": "panorama"
+    },
+    "paper-clamp": {
+      "codepoint": 57527,
+      "fontFamily": "Wpf",
+      "identifier": "paperClamp"
+    },
+    "paper-plane": {
+      "codepoint": 57528,
+      "fontFamily": "Wpf",
+      "identifier": "paperPlane"
+    },
+    "paperclamp": {
+      "codepoint": 57529,
+      "fontFamily": "Wpf",
+      "identifier": "paperclamp"
+    },
+    "paperplane": {
+      "codepoint": 57530,
+      "fontFamily": "Wpf",
+      "identifier": "paperplane"
+    },
+    "partly-cloudy-day": {
+      "codepoint": 57531,
+      "fontFamily": "Wpf",
+      "identifier": "partlyCloudyDay"
+    },
+    "partly-cloudy-night": {
+      "codepoint": 57532,
+      "fontFamily": "Wpf",
+      "identifier": "partlyCloudyNight"
+    },
+    "partlycloudyday": {
+      "codepoint": 57533,
+      "fontFamily": "Wpf",
+      "identifier": "partlycloudyday"
+    },
+    "partlycloudynight": {
+      "codepoint": 57534,
+      "fontFamily": "Wpf",
+      "identifier": "partlycloudynight"
+    },
+    "password1": {
+      "codepoint": 57535,
+      "fontFamily": "Wpf",
+      "identifier": "password1"
+    },
+    "past": {
+      "codepoint": 57536,
+      "fontFamily": "Wpf",
+      "identifier": "past"
+    },
+    "pause": {
+      "codepoint": 57537,
+      "fontFamily": "Wpf",
+      "identifier": "pause"
+    },
+    "phone": {
+      "codepoint": 57538,
+      "fontFamily": "Wpf",
+      "identifier": "phone"
+    },
+    "phone-office": {
+      "codepoint": 57539,
+      "fontFamily": "Wpf",
+      "identifier": "phoneOffice"
+    },
+    "phoneoffice": {
+      "codepoint": 57540,
+      "fontFamily": "Wpf",
+      "identifier": "phoneoffice"
+    },
+    "play": {
+      "codepoint": 57541,
+      "fontFamily": "Wpf",
+      "identifier": "play"
+    },
+    "polyline": {
+      "codepoint": 57542,
+      "fontFamily": "Wpf",
+      "identifier": "polyline"
+    },
+    "previous": {
+      "codepoint": 57543,
+      "fontFamily": "Wpf",
+      "identifier": "previous"
+    },
+    "privacy": {
+      "codepoint": 57544,
+      "fontFamily": "Wpf",
+      "identifier": "privacy"
+    },
     "qr-code": {
-      "codepoint": 57357,
+      "codepoint": 57545,
       "fontFamily": "Wpf",
       "identifier": "qrCode"
     },
     "qrcode": {
-      "codepoint": 57358,
+      "codepoint": 57546,
       "fontFamily": "Wpf",
       "identifier": "qrcode"
     },
+    "radio": {
+      "codepoint": 57547,
+      "fontFamily": "Wpf",
+      "identifier": "radio"
+    },
+    "rain": {
+      "codepoint": 57548,
+      "fontFamily": "Wpf",
+      "identifier": "rain"
+    },
     "record": {
-      "codepoint": 57359,
+      "codepoint": 57549,
       "fontFamily": "Wpf",
       "identifier": "record"
     },
+    "recurring-appointment": {
+      "codepoint": 57550,
+      "fontFamily": "Wpf",
+      "identifier": "recurringAppointment"
+    },
+    "recurringappointment": {
+      "codepoint": 57551,
+      "fontFamily": "Wpf",
+      "identifier": "recurringappointment"
+    },
+    "refresh-shield": {
+      "codepoint": 57552,
+      "fontFamily": "Wpf",
+      "identifier": "refreshShield"
+    },
+    "refreshshield": {
+      "codepoint": 57553,
+      "fontFamily": "Wpf",
+      "identifier": "refreshshield"
+    },
+    "remove-image": {
+      "codepoint": 57554,
+      "fontFamily": "Wpf",
+      "identifier": "removeImage"
+    },
+    "removeimage": {
+      "codepoint": 57555,
+      "fontFamily": "Wpf",
+      "identifier": "removeimage"
+    },
+    "rename": {
+      "codepoint": 57556,
+      "fontFamily": "Wpf",
+      "identifier": "rename"
+    },
+    "renew-subscription": {
+      "codepoint": 57557,
+      "fontFamily": "Wpf",
+      "identifier": "renewSubscription"
+    },
+    "renewsubscription": {
+      "codepoint": 57558,
+      "fontFamily": "Wpf",
+      "identifier": "renewsubscription"
+    },
+    "repeat": {
+      "codepoint": 57559,
+      "fontFamily": "Wpf",
+      "identifier": "repeat"
+    },
+    "restriction-shield": {
+      "codepoint": 57560,
+      "fontFamily": "Wpf",
+      "identifier": "restrictionShield"
+    },
+    "restrictionshield": {
+      "codepoint": 57561,
+      "fontFamily": "Wpf",
+      "identifier": "restrictionshield"
+    },
+    "retro-tv": {
+      "codepoint": 57562,
+      "fontFamily": "Wpf",
+      "identifier": "retroTv"
+    },
+    "retrotv": {
+      "codepoint": 57563,
+      "fontFamily": "Wpf",
+      "identifier": "retrotv"
+    },
+    "rewind": {
+      "codepoint": 57564,
+      "fontFamily": "Wpf",
+      "identifier": "rewind"
+    },
+    "rfid-tag": {
+      "codepoint": 57565,
+      "fontFamily": "Wpf",
+      "identifier": "rfidTag"
+    },
+    "rfidtag": {
+      "codepoint": 57566,
+      "fontFamily": "Wpf",
+      "identifier": "rfidtag"
+    },
+    "ruler": {
+      "codepoint": 57567,
+      "fontFamily": "Wpf",
+      "identifier": "ruler"
+    },
+    "search": {
+      "codepoint": 57568,
+      "fontFamily": "Wpf",
+      "identifier": "search"
+    },
+    "security-checked": {
+      "codepoint": 57569,
+      "fontFamily": "Wpf",
+      "identifier": "securityChecked"
+    },
+    "securitychecked": {
+      "codepoint": 57570,
+      "fontFamily": "Wpf",
+      "identifier": "securitychecked"
+    },
     "sent": {
-      "codepoint": 57360,
+      "codepoint": 57571,
       "fontFamily": "Wpf",
       "identifier": "sent"
     },
+    "settings": {
+      "codepoint": 57572,
+      "fontFamily": "Wpf",
+      "identifier": "settings"
+    },
+    "shopping-bag": {
+      "codepoint": 57573,
+      "fontFamily": "Wpf",
+      "identifier": "shoppingBag"
+    },
+    "shopping-basket": {
+      "codepoint": 57574,
+      "fontFamily": "Wpf",
+      "identifier": "shoppingBasket"
+    },
+    "shopping-cart": {
+      "codepoint": 57575,
+      "fontFamily": "Wpf",
+      "identifier": "shoppingCart"
+    },
+    "shoppingbag": {
+      "codepoint": 57576,
+      "fontFamily": "Wpf",
+      "identifier": "shoppingbag"
+    },
+    "shoppingbasket": {
+      "codepoint": 57577,
+      "fontFamily": "Wpf",
+      "identifier": "shoppingbasket"
+    },
+    "shoppingcart": {
+      "codepoint": 57578,
+      "fontFamily": "Wpf",
+      "identifier": "shoppingcart"
+    },
+    "shuffle": {
+      "codepoint": 57579,
+      "fontFamily": "Wpf",
+      "identifier": "shuffle"
+    },
+    "shutdown": {
+      "codepoint": 57580,
+      "fontFamily": "Wpf",
+      "identifier": "shutdown"
+    },
+    "signature": {
+      "codepoint": 57581,
+      "fontFamily": "Wpf",
+      "identifier": "signature"
+    },
+    "sim-card-chip": {
+      "codepoint": 57582,
+      "fontFamily": "Wpf",
+      "identifier": "simCardChip"
+    },
+    "simcardchip": {
+      "codepoint": 57583,
+      "fontFamily": "Wpf",
+      "identifier": "simcardchip"
+    },
+    "skip-to-start": {
+      "codepoint": 57584,
+      "fontFamily": "Wpf",
+      "identifier": "skipToStart"
+    },
+    "skiptostart": {
+      "codepoint": 57585,
+      "fontFamily": "Wpf",
+      "identifier": "skiptostart"
+    },
+    "snow": {
+      "codepoint": 57586,
+      "fontFamily": "Wpf",
+      "identifier": "snow"
+    },
+    "speaker": {
+      "codepoint": 57587,
+      "fontFamily": "Wpf",
+      "identifier": "speaker"
+    },
+    "speech-bubble": {
+      "codepoint": 57588,
+      "fontFamily": "Wpf",
+      "identifier": "speechBubble"
+    },
+    "speechbubble": {
+      "codepoint": 57589,
+      "fontFamily": "Wpf",
+      "identifier": "speechbubble"
+    },
+    "stack": {
+      "codepoint": 57590,
+      "fontFamily": "Wpf",
+      "identifier": "stack"
+    },
+    "stack-of-photos": {
+      "codepoint": 57591,
+      "fontFamily": "Wpf",
+      "identifier": "stackOfPhotos"
+    },
+    "stackofphotos": {
+      "codepoint": 57592,
+      "fontFamily": "Wpf",
+      "identifier": "stackofphotos"
+    },
+    "stanley-knife": {
+      "codepoint": 57593,
+      "fontFamily": "Wpf",
+      "identifier": "stanleyKnife"
+    },
+    "stanleyknife": {
+      "codepoint": 57594,
+      "fontFamily": "Wpf",
+      "identifier": "stanleyknife"
+    },
+    "star": {
+      "codepoint": 57595,
+      "fontFamily": "Wpf",
+      "identifier": "star"
+    },
+    "statistics": {
+      "codepoint": 57596,
+      "fontFamily": "Wpf",
+      "identifier": "statistics"
+    },
+    "stop": {
+      "codepoint": 57597,
+      "fontFamily": "Wpf",
+      "identifier": "stop"
+    },
+    "sun": {
+      "codepoint": 57598,
+      "fontFamily": "Wpf",
+      "identifier": "sun"
+    },
+    "survey": {
+      "codepoint": 57599,
+      "fontFamily": "Wpf",
+      "identifier": "survey"
+    },
+    "swiss-army-knife": {
+      "codepoint": 57600,
+      "fontFamily": "Wpf",
+      "identifier": "swissArmyKnife"
+    },
+    "swissarmyknife": {
+      "codepoint": 57601,
+      "fontFamily": "Wpf",
+      "identifier": "swissarmyknife"
+    },
+    "switch-camera": {
+      "codepoint": 57602,
+      "fontFamily": "Wpf",
+      "identifier": "switchCamera"
+    },
+    "switchcamera": {
+      "codepoint": 57603,
+      "fontFamily": "Wpf",
+      "identifier": "switchcamera"
+    },
+    "timer": {
+      "codepoint": 57604,
+      "fontFamily": "Wpf",
+      "identifier": "timer"
+    },
+    "todo-list": {
+      "codepoint": 57605,
+      "fontFamily": "Wpf",
+      "identifier": "todoList"
+    },
+    "todolist": {
+      "codepoint": 57606,
+      "fontFamily": "Wpf",
+      "identifier": "todolist"
+    },
+    "unlock": {
+      "codepoint": 57607,
+      "fontFamily": "Wpf",
+      "identifier": "unlock"
+    },
+    "unlock-2": {
+      "codepoint": 57608,
+      "fontFamily": "Wpf",
+      "identifier": "unlock2"
+    },
+    "unlock2": {
+      "codepoint": 57609,
+      "fontFamily": "Wpf",
+      "identifier": "unlock2_2"
+    },
+    "user-shield": {
+      "codepoint": 57610,
+      "fontFamily": "Wpf",
+      "identifier": "userShield"
+    },
+    "usershield": {
+      "codepoint": 57611,
+      "fontFamily": "Wpf",
+      "identifier": "usershield"
+    },
+    "video-call": {
+      "codepoint": 57612,
+      "fontFamily": "Wpf",
+      "identifier": "videoCall"
+    },
+    "videocall": {
+      "codepoint": 57613,
+      "fontFamily": "Wpf",
+      "identifier": "videocall"
+    },
+    "view-file": {
+      "codepoint": 57614,
+      "fontFamily": "Wpf",
+      "identifier": "viewFile"
+    },
+    "viewfile": {
+      "codepoint": 57615,
+      "fontFamily": "Wpf",
+      "identifier": "viewfile"
+    },
     "voicemail": {
-      "codepoint": 57361,
+      "codepoint": 57616,
       "fontFamily": "Wpf",
       "identifier": "voicemail"
+    },
+    "volume-down": {
+      "codepoint": 57617,
+      "fontFamily": "Wpf",
+      "identifier": "volumeDown"
+    },
+    "volume-up": {
+      "codepoint": 57618,
+      "fontFamily": "Wpf",
+      "identifier": "volumeUp"
+    },
+    "volumedown": {
+      "codepoint": 57619,
+      "fontFamily": "Wpf",
+      "identifier": "volumedown"
+    },
+    "volumeup": {
+      "codepoint": 57620,
+      "fontFamily": "Wpf",
+      "identifier": "volumeup"
+    },
+    "wedding-cake": {
+      "codepoint": 57621,
+      "fontFamily": "Wpf",
+      "identifier": "weddingCake"
+    },
+    "weddingcake": {
+      "codepoint": 57622,
+      "fontFamily": "Wpf",
+      "identifier": "weddingcake"
+    },
+    "wind-rose": {
+      "codepoint": 57623,
+      "fontFamily": "Wpf",
+      "identifier": "windRose"
+    },
+    "windrose": {
+      "codepoint": 57624,
+      "fontFamily": "Wpf",
+      "identifier": "windrose"
+    },
+    "worldwide-location": {
+      "codepoint": 57625,
+      "fontFamily": "Wpf",
+      "identifier": "worldwideLocation"
+    },
+    "worldwidelocation": {
+      "codepoint": 57626,
+      "fontFamily": "Wpf",
+      "identifier": "worldwidelocation"
     }
   }
 }

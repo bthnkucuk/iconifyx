@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/teenyicons/teenyicons/blob/master/LICENSE',
-  iconCount: 600,
+  iconCount: 1200,
 );

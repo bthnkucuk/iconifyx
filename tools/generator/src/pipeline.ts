@@ -394,6 +394,13 @@ async function processOneSet(
     }
   }
 
+  // Drop fonts whose iconCount went to 0 — buildFonts didn't emit a TTF
+  // for them, and leaving them in manifest.fonts makes pubspec_codegen
+  // reference missing assets.
+  for (let i = manifest.fonts.length - 1; i >= 0; i--) {
+    if (manifest.fonts[i]!.iconCount === 0) manifest.fonts.splice(i, 1);
+  }
+
   const dartSource = emitSetDart({
     manifest,
     fontPackage: setPackageName(prefix),

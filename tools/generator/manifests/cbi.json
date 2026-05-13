@@ -16,355 +16,8025 @@
       "spdx": "CC-BY-NC-SA-4.0",
       "url": "https://github.com/elax46/custom-brand-icons/blob/main/LICENSE"
     },
-    "total": 68
+    "total": 1602
   },
   "fonts": [
     {
       "family": "Cbi",
-      "nextCodepoint": 57412,
-      "iconCount": 68
+      "nextCodepoint": 58946,
+      "iconCount": 1602
     }
   ],
   "icons": {
-    "17-track": {
+    "02tv": {
       "codepoint": 57344,
+      "fontFamily": "Cbi",
+      "identifier": "n02tv"
+    },
+    "10-play": {
+      "codepoint": 57345,
+      "fontFamily": "Cbi",
+      "identifier": "n10Play"
+    },
+    "17-track": {
+      "codepoint": 57346,
       "fontFamily": "Cbi",
       "identifier": "n17Track"
     },
+    "2-way-uplighter": {
+      "codepoint": 57347,
+      "fontFamily": "Cbi",
+      "identifier": "n2WayUplighter"
+    },
+    "2n": {
+      "codepoint": 57348,
+      "fontFamily": "Cbi",
+      "identifier": "n2n"
+    },
+    "3d-filament": {
+      "codepoint": 57349,
+      "fontFamily": "Cbi",
+      "identifier": "n3dFilament"
+    },
+    "3dprinter-printing": {
+      "codepoint": 57350,
+      "fontFamily": "Cbi",
+      "identifier": "n3dprinterPrinting"
+    },
+    "3dprinter-standby": {
+      "codepoint": 57351,
+      "fontFamily": "Cbi",
+      "identifier": "n3dprinterStandby"
+    },
+    "3sat": {
+      "codepoint": 57352,
+      "fontFamily": "Cbi",
+      "identifier": "n3sat"
+    },
     "7plus-tv": {
-      "codepoint": 57345,
+      "codepoint": 57353,
       "fontFamily": "Cbi",
       "identifier": "n7plusTv"
     },
+    "9-now": {
+      "codepoint": 57354,
+      "fontFamily": "Cbi",
+      "identifier": "n9Now"
+    },
+    "a1-mini": {
+      "codepoint": 57355,
+      "fontFamily": "Cbi",
+      "identifier": "a1Mini"
+    },
+    "abarth": {
+      "codepoint": 57356,
+      "fontFamily": "Cbi",
+      "identifier": "abarth"
+    },
+    "abb-radio": {
+      "codepoint": 57357,
+      "fontFamily": "Cbi",
+      "identifier": "abbRadio"
+    },
+    "abc": {
+      "codepoint": 57358,
+      "fontFamily": "Cbi",
+      "identifier": "abc"
+    },
+    "abc-iview": {
+      "codepoint": 57359,
+      "fontFamily": "Cbi",
+      "identifier": "abcIview"
+    },
     "abletonlive": {
-      "codepoint": 57346,
+      "codepoint": 57360,
       "fontFamily": "Cbi",
       "identifier": "abletonlive"
     },
+    "acura": {
+      "codepoint": 57361,
+      "fontFamily": "Cbi",
+      "identifier": "acura"
+    },
+    "adore": {
+      "codepoint": 57362,
+      "fontFamily": "Cbi",
+      "identifier": "adore"
+    },
+    "adore-alt": {
+      "codepoint": 57363,
+      "fontFamily": "Cbi",
+      "identifier": "adoreAlt"
+    },
     "adore-mirror": {
-      "codepoint": 57347,
+      "codepoint": 57364,
       "fontFamily": "Cbi",
       "identifier": "adoreMirror"
     },
+    "ai": {
+      "codepoint": 57365,
+      "fontFamily": "Cbi",
+      "identifier": "ai"
+    },
+    "air-conditioner": {
+      "codepoint": 57366,
+      "fontFamily": "Cbi",
+      "identifier": "airConditioner"
+    },
+    "air-filter": {
+      "codepoint": 57367,
+      "fontFamily": "Cbi",
+      "identifier": "airFilter"
+    },
+    "air-presure": {
+      "codepoint": 57368,
+      "fontFamily": "Cbi",
+      "identifier": "airPresure"
+    },
+    "air-source-heating": {
+      "codepoint": 57369,
+      "fontFamily": "Cbi",
+      "identifier": "airSourceHeating"
+    },
+    "aircon-window": {
+      "codepoint": 57370,
+      "fontFamily": "Cbi",
+      "identifier": "airconWindow"
+    },
+    "airfryer": {
+      "codepoint": 57371,
+      "fontFamily": "Cbi",
+      "identifier": "airfryer"
+    },
+    "airgradient": {
+      "codepoint": 57372,
+      "fontFamily": "Cbi",
+      "identifier": "airgradient"
+    },
+    "airgradient-alt": {
+      "codepoint": 57373,
+      "fontFamily": "Cbi",
+      "identifier": "airgradientAlt"
+    },
+    "airgradient-one": {
+      "codepoint": 57374,
+      "fontFamily": "Cbi",
+      "identifier": "airgradientOne"
+    },
+    "airgradient-open-air": {
+      "codepoint": 57375,
+      "fontFamily": "Cbi",
+      "identifier": "airgradientOpenAir"
+    },
+    "alarm-dot-com": {
+      "codepoint": 57376,
+      "fontFamily": "Cbi",
+      "identifier": "alarmDotCom"
+    },
+    "alexa-logo": {
+      "codepoint": 57377,
+      "fontFamily": "Cbi",
+      "identifier": "alexaLogo"
+    },
+    "alfa-romeo": {
+      "codepoint": 57378,
+      "fontFamily": "Cbi",
+      "identifier": "alfaRomeo"
+    },
+    "alfa-sinapsi": {
+      "codepoint": 57379,
+      "fontFamily": "Cbi",
+      "identifier": "alfaSinapsi"
+    },
+    "alpine": {
+      "codepoint": 57380,
+      "fontFamily": "Cbi",
+      "identifier": "alpine"
+    },
+    "amarant": {
+      "codepoint": 57381,
+      "fontFamily": "Cbi",
+      "identifier": "amarant"
+    },
+    "amaze": {
+      "codepoint": 57382,
+      "fontFamily": "Cbi",
+      "identifier": "amaze"
+    },
+    "amaze-alt": {
+      "codepoint": 57383,
+      "fontFamily": "Cbi",
+      "identifier": "amazeAlt"
+    },
+    "amazon-logo": {
+      "codepoint": 57384,
+      "fontFamily": "Cbi",
+      "identifier": "amazonLogo"
+    },
+    "amc": {
+      "codepoint": 57385,
+      "fontFamily": "Cbi",
+      "identifier": "amc"
+    },
+    "amina-s": {
+      "codepoint": 57386,
+      "fontFamily": "Cbi",
+      "identifier": "aminaS"
+    },
+    "amp-measure": {
+      "codepoint": 57387,
+      "fontFamily": "Cbi",
+      "identifier": "ampMeasure"
+    },
+    "analogue": {
+      "codepoint": 57388,
+      "fontFamily": "Cbi",
+      "identifier": "analogue"
+    },
+    "analogue-3d": {
+      "codepoint": 57389,
+      "fontFamily": "Cbi",
+      "identifier": "analogue3d"
+    },
+    "androidtv": {
+      "codepoint": 57390,
+      "fontFamily": "Cbi",
+      "identifier": "androidtv"
+    },
+    "apc-ups-basic": {
+      "codepoint": 57391,
+      "fontFamily": "Cbi",
+      "identifier": "apcUpsBasic"
+    },
+    "apc-ups-upright": {
+      "codepoint": 57392,
+      "fontFamily": "Cbi",
+      "identifier": "apcUpsUpright"
+    },
+    "apple-airpods": {
+      "codepoint": 57393,
+      "fontFamily": "Cbi",
+      "identifier": "appleAirpods"
+    },
+    "apple-airpods-max": {
+      "codepoint": 57394,
+      "fontFamily": "Cbi",
+      "identifier": "appleAirpodsMax"
+    },
+    "apple-airpods-pro": {
+      "codepoint": 57395,
+      "fontFamily": "Cbi",
+      "identifier": "appleAirpodsPro"
+    },
+    "apple-ipad-pro": {
+      "codepoint": 57396,
+      "fontFamily": "Cbi",
+      "identifier": "appleIpadPro"
+    },
+    "apple-iphone": {
+      "codepoint": 57397,
+      "fontFamily": "Cbi",
+      "identifier": "appleIphone"
+    },
+    "apple-tv": {
+      "codepoint": 57398,
+      "fontFamily": "Cbi",
+      "identifier": "appleTv"
+    },
+    "apple-tv-box": {
+      "codepoint": 57399,
+      "fontFamily": "Cbi",
+      "identifier": "appleTvBox"
+    },
+    "apple-watch": {
+      "codepoint": 57400,
+      "fontFamily": "Cbi",
+      "identifier": "appleWatch"
+    },
+    "apple-watch-alt": {
+      "codepoint": 57401,
+      "fontFamily": "Cbi",
+      "identifier": "appleWatchAlt"
+    },
+    "apple-watch-pro": {
+      "codepoint": 57402,
+      "fontFamily": "Cbi",
+      "identifier": "appleWatchPro"
+    },
+    "appletv-gen2-remote": {
+      "codepoint": 57403,
+      "fontFamily": "Cbi",
+      "identifier": "appletvGen2Remote"
+    },
+    "appletv-sim": {
+      "codepoint": 57404,
+      "fontFamily": "Cbi",
+      "identifier": "appletvSim"
+    },
+    "aqara-a100": {
+      "codepoint": 57405,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraA100"
+    },
+    "aqara-air-quality": {
+      "codepoint": 57406,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraAirQuality"
+    },
+    "aqara-bodyfat-scale": {
+      "codepoint": 57407,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraBodyfatScale"
+    },
+    "aqara-camera-g5": {
+      "codepoint": 57408,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraCameraG5"
+    },
+    "aqara-contact": {
+      "codepoint": 57409,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraContact"
+    },
+    "aqara-cube": {
+      "codepoint": 57410,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraCube"
+    },
+    "aqara-curtain": {
+      "codepoint": 57411,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraCurtain"
+    },
+    "aqara-dw-p2": {
+      "codepoint": 57412,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraDwP2"
+    },
+    "aqara-e1": {
+      "codepoint": 57413,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraE1"
+    },
+    "aqara-e1-rsd-m1": {
+      "codepoint": 57414,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraE1RsdM1"
+    },
+    "aqara-fp1": {
+      "codepoint": 57415,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraFp1"
+    },
+    "aqara-fp2": {
+      "codepoint": 57416,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraFp2"
+    },
+    "aqara-g2-pro": {
+      "codepoint": 57417,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraG2Pro"
+    },
+    "aqara-g3": {
+      "codepoint": 57418,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraG3"
+    },
+    "aqara-g4": {
+      "codepoint": 57419,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraG4"
+    },
+    "aqara-gas-detector": {
+      "codepoint": 57420,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraGasDetector"
+    },
+    "aqara-h1-1": {
+      "codepoint": 57421,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraH11"
+    },
+    "aqara-h1-2": {
+      "codepoint": 57422,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraH12"
+    },
+    "aqara-h1-3": {
+      "codepoint": 57423,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraH13"
+    },
+    "aqara-h1-dimmer": {
+      "codepoint": 57424,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraH1Dimmer"
+    },
+    "aqara-h1-switch": {
+      "codepoint": 57425,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraH1Switch"
+    },
+    "aqara-h2-dimmer-switch": {
+      "codepoint": 57426,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraH2DimmerSwitch"
+    },
+    "aqara-h2-switch": {
+      "codepoint": 57427,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraH2Switch"
+    },
+    "aqara-hi-precision-motion": {
+      "codepoint": 57428,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraHiPrecisionMotion"
+    },
+    "aqara-hub-n15-g2": {
+      "codepoint": 57429,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraHubN15G2"
+    },
+    "aqara-inwall": {
+      "codepoint": 57430,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraInwall"
+    },
+    "aqara-m3": {
+      "codepoint": 57431,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraM3"
+    },
+    "aqara-motion": {
+      "codepoint": 57432,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraMotion"
+    },
+    "aqara-n100": {
+      "codepoint": 57433,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraN100"
+    },
+    "aqara-opple": {
+      "codepoint": 57434,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraOpple"
+    },
+    "aqara-panel-s1-plus": {
+      "codepoint": 57435,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraPanelS1Plus"
+    },
+    "aqara-pet-feeder-c1": {
+      "codepoint": 57436,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraPetFeederC1"
+    },
+    "aqara-smoke-detector": {
+      "codepoint": 57437,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraSmokeDetector"
+    },
+    "aqara-symphony-t1": {
+      "codepoint": 57438,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraSymphonyT1"
+    },
+    "aqara-t1": {
+      "codepoint": 57439,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraT1"
+    },
+    "aqara-temperature": {
+      "codepoint": 57440,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraTemperature"
+    },
+    "aqara-thermo-e1": {
+      "codepoint": 57441,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraThermoE1"
+    },
+    "aqara-u100": {
+      "codepoint": 57442,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraU100"
+    },
+    "aqara-u200": {
+      "codepoint": 57443,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraU200"
+    },
+    "aqara-u300": {
+      "codepoint": 57444,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraU300"
+    },
+    "aqara-vibration": {
+      "codepoint": 57445,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraVibration"
+    },
+    "aqara-waterleak": {
+      "codepoint": 57446,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraWaterleak"
+    },
+    "aqara-wirelessbutton": {
+      "codepoint": 57447,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraWirelessbutton"
+    },
+    "aqara-z1-pro-1": {
+      "codepoint": 57448,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraZ1Pro1"
+    },
+    "aqara-z1-pro-2": {
+      "codepoint": 57449,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraZ1Pro2"
+    },
+    "aqara-z1-pro-3": {
+      "codepoint": 57450,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraZ1Pro3"
+    },
+    "aqara-z1-pro-4": {
+      "codepoint": 57451,
+      "fontFamily": "Cbi",
+      "identifier": "aqaraZ1Pro4"
+    },
+    "arcam": {
+      "codepoint": 57452,
+      "fontFamily": "Cbi",
+      "identifier": "arcam"
+    },
+    "ard-alpha": {
+      "codepoint": 57453,
+      "fontFamily": "Cbi",
+      "identifier": "ardAlpha"
+    },
+    "arlo-audio-doorbell": {
+      "codepoint": 57454,
+      "fontFamily": "Cbi",
+      "identifier": "arloAudioDoorbell"
+    },
     "arlo-baby": {
-      "codepoint": 57348,
+      "codepoint": 57455,
       "fontFamily": "Cbi",
       "identifier": "arloBaby"
     },
+    "arlo-base-station": {
+      "codepoint": 57456,
+      "fontFamily": "Cbi",
+      "identifier": "arloBaseStation"
+    },
     "arlo-cam": {
-      "codepoint": 57349,
+      "codepoint": 57457,
       "fontFamily": "Cbi",
       "identifier": "arloCam"
     },
+    "arlo-essential-indoor": {
+      "codepoint": 57458,
+      "fontFamily": "Cbi",
+      "identifier": "arloEssentialIndoor"
+    },
+    "arlo-floodlight": {
+      "codepoint": 57459,
+      "fontFamily": "Cbi",
+      "identifier": "arloFloodlight"
+    },
+    "arlo-pro-3": {
+      "codepoint": 57460,
+      "fontFamily": "Cbi",
+      "identifier": "arloPro3"
+    },
+    "arlo-q": {
+      "codepoint": 57461,
+      "fontFamily": "Cbi",
+      "identifier": "arloQ"
+    },
     "arlo-security-light": {
-      "codepoint": 57350,
+      "codepoint": 57462,
       "fontFamily": "Cbi",
       "identifier": "arloSecurityLight"
     },
+    "arlo-ultra-2": {
+      "codepoint": 57463,
+      "fontFamily": "Cbi",
+      "identifier": "arloUltra2"
+    },
     "arlo-video-doorbell": {
-      "codepoint": 57351,
+      "codepoint": 57464,
       "fontFamily": "Cbi",
       "identifier": "arloVideoDoorbell"
     },
+    "arte": {
+      "codepoint": 57465,
+      "fontFamily": "Cbi",
+      "identifier": "arte"
+    },
     "artemide-nessino": {
-      "codepoint": 57352,
+      "codepoint": 57466,
       "fontFamily": "Cbi",
       "identifier": "artemideNessino"
     },
+    "ascaso-steel-duo": {
+      "codepoint": 57467,
+      "fontFamily": "Cbi",
+      "identifier": "ascasoSteelDuo"
+    },
+    "aston-martin": {
+      "codepoint": 57468,
+      "fontFamily": "Cbi",
+      "identifier": "astonMartin"
+    },
+    "asus-new": {
+      "codepoint": 57469,
+      "fontFamily": "Cbi",
+      "identifier": "asusNew"
+    },
+    "asus-rp-68u": {
+      "codepoint": 57470,
+      "fontFamily": "Cbi",
+      "identifier": "asusRp68u"
+    },
+    "atari-console": {
+      "codepoint": 57471,
+      "fontFamily": "Cbi",
+      "identifier": "atariConsole"
+    },
+    "atres-player": {
+      "codepoint": 57472,
+      "fontFamily": "Cbi",
+      "identifier": "atresPlayer"
+    },
+    "audi": {
+      "codepoint": 57473,
+      "fontFamily": "Cbi",
+      "identifier": "audi"
+    },
+    "aura": {
+      "codepoint": 57474,
+      "fontFamily": "Cbi",
+      "identifier": "aura"
+    },
+    "aura-group": {
+      "codepoint": 57475,
+      "fontFamily": "Cbi",
+      "identifier": "auraGroup"
+    },
+    "authentik": {
+      "codepoint": 57476,
+      "fontFamily": "Cbi",
+      "identifier": "authentik"
+    },
+    "avito": {
+      "codepoint": 57477,
+      "fontFamily": "Cbi",
+      "identifier": "avito"
+    },
+    "bambu-lab": {
+      "codepoint": 57478,
+      "fontFamily": "Cbi",
+      "identifier": "bambuLab"
+    },
+    "bambu-lab-alt": {
+      "codepoint": 57479,
+      "fontFamily": "Cbi",
+      "identifier": "bambuLabAlt"
+    },
+    "bathroom": {
+      "codepoint": 57480,
+      "fontFamily": "Cbi",
+      "identifier": "bathroom"
+    },
+    "batman": {
+      "codepoint": 57481,
+      "fontFamily": "Cbi",
+      "identifier": "batman"
+    },
+    "battery-backup": {
+      "codepoint": 57482,
+      "fontFamily": "Cbi",
+      "identifier": "batteryBackup"
+    },
+    "battery-charged": {
+      "codepoint": 57483,
+      "fontFamily": "Cbi",
+      "identifier": "batteryCharged"
+    },
+    "battery-critical": {
+      "codepoint": 57484,
+      "fontFamily": "Cbi",
+      "identifier": "batteryCritical"
+    },
+    "battery-full": {
+      "codepoint": 57485,
+      "fontFamily": "Cbi",
+      "identifier": "batteryFull"
+    },
+    "battery-good": {
+      "codepoint": 57486,
+      "fontFamily": "Cbi",
+      "identifier": "batteryGood"
+    },
+    "battery-half": {
+      "codepoint": 57487,
+      "fontFamily": "Cbi",
+      "identifier": "batteryHalf"
+    },
+    "battery-low": {
+      "codepoint": 57488,
+      "fontFamily": "Cbi",
+      "identifier": "batteryLow"
+    },
+    "battery-temp": {
+      "codepoint": 57489,
+      "fontFamily": "Cbi",
+      "identifier": "batteryTemp"
+    },
+    "bazarr": {
+      "codepoint": 57490,
+      "fontFamily": "Cbi",
+      "identifier": "bazarr"
+    },
+    "bbc": {
+      "codepoint": 57491,
+      "fontFamily": "Cbi",
+      "identifier": "bbc"
+    },
+    "bbcradio2": {
+      "codepoint": 57492,
+      "fontFamily": "Cbi",
+      "identifier": "bbcradio2"
+    },
+    "bedroom": {
+      "codepoint": 57493,
+      "fontFamily": "Cbi",
+      "identifier": "bedroom"
+    },
+    "bedroom-alt-numbered": {
+      "codepoint": 57494,
+      "fontFamily": "Cbi",
+      "identifier": "bedroomAltNumbered"
+    },
+    "bentley": {
+      "codepoint": 57495,
+      "fontFamily": "Cbi",
+      "identifier": "bentley"
+    },
+    "bento-pdf": {
+      "codepoint": 57496,
+      "fontFamily": "Cbi",
+      "identifier": "bentoPdf"
+    },
+    "beyond": {
+      "codepoint": 57497,
+      "fontFamily": "Cbi",
+      "identifier": "beyond"
+    },
+    "beyond-down": {
+      "codepoint": 57498,
+      "fontFamily": "Cbi",
+      "identifier": "beyondDown"
+    },
+    "beyond-solid": {
+      "codepoint": 57499,
+      "fontFamily": "Cbi",
+      "identifier": "beyondSolid"
+    },
+    "beyond-up": {
+      "codepoint": 57500,
+      "fontFamily": "Cbi",
+      "identifier": "beyondUp"
+    },
+    "bigbrother": {
+      "codepoint": 57501,
+      "fontFamily": "Cbi",
+      "identifier": "bigbrother"
+    },
+    "binge": {
+      "codepoint": 57502,
+      "fontFamily": "Cbi",
+      "identifier": "binge"
+    },
+    "bitfocus": {
+      "codepoint": 57503,
+      "fontFamily": "Cbi",
+      "identifier": "bitfocus"
+    },
+    "bitwarden": {
+      "codepoint": 57504,
+      "fontFamily": "Cbi",
+      "identifier": "bitwarden"
+    },
+    "ble-mesh": {
+      "codepoint": 57505,
+      "fontFamily": "Cbi",
+      "identifier": "bleMesh"
+    },
+    "blind-tilt-closed": {
+      "codepoint": 57506,
+      "fontFamily": "Cbi",
+      "identifier": "blindTiltClosed"
+    },
+    "blind-tilt-open": {
+      "codepoint": 57507,
+      "fontFamily": "Cbi",
+      "identifier": "blindTiltOpen"
+    },
     "blocknet": {
-      "codepoint": 57353,
+      "codepoint": 57508,
       "fontFamily": "Cbi",
       "identifier": "blocknet"
     },
+    "bloom": {
+      "codepoint": 57509,
+      "fontFamily": "Cbi",
+      "identifier": "bloom"
+    },
+    "blu-os": {
+      "codepoint": 57510,
+      "fontFamily": "Cbi",
+      "identifier": "bluOs"
+    },
+    "blueos": {
+      "codepoint": 57511,
+      "fontFamily": "Cbi",
+      "identifier": "blueos"
+    },
+    "bluetti": {
+      "codepoint": 57512,
+      "fontFamily": "Cbi",
+      "identifier": "bluetti"
+    },
+    "bluetti-alt": {
+      "codepoint": 57513,
+      "fontFamily": "Cbi",
+      "identifier": "bluettiAlt"
+    },
+    "bluray": {
+      "codepoint": 57514,
+      "fontFamily": "Cbi",
+      "identifier": "bluray"
+    },
+    "blusound-node": {
+      "codepoint": 57515,
+      "fontFamily": "Cbi",
+      "identifier": "blusoundNode"
+    },
+    "bmw": {
+      "codepoint": 57516,
+      "fontFamily": "Cbi",
+      "identifier": "bmw"
+    },
+    "bmw-alt": {
+      "codepoint": 57517,
+      "fontFamily": "Cbi",
+      "identifier": "bmwAlt"
+    },
+    "bmw-i": {
+      "codepoint": 57518,
+      "fontFamily": "Cbi",
+      "identifier": "bmwI"
+    },
+    "boca-juniors": {
+      "codepoint": 57519,
+      "fontFamily": "Cbi",
+      "identifier": "bocaJuniors"
+    },
+    "bol": {
+      "codepoint": 57520,
+      "fontFamily": "Cbi",
+      "identifier": "bol"
+    },
+    "bollard": {
+      "codepoint": 57521,
+      "fontFamily": "Cbi",
+      "identifier": "bollard"
+    },
+    "bosch-thermostat": {
+      "codepoint": 57522,
+      "fontFamily": "Cbi",
+      "identifier": "boschThermostat"
+    },
+    "bose-soundtouch": {
+      "codepoint": 57523,
+      "fontFamily": "Cbi",
+      "identifier": "boseSoundtouch"
+    },
+    "bravia": {
+      "codepoint": 57524,
+      "fontFamily": "Cbi",
+      "identifier": "bravia"
+    },
+    "bridge": {
+      "codepoint": 57525,
+      "fontFamily": "Cbi",
+      "identifier": "bridge"
+    },
+    "bridges-v1": {
+      "codepoint": 57526,
+      "fontFamily": "Cbi",
+      "identifier": "bridgesV1"
+    },
+    "bridges-v2": {
+      "codepoint": 57527,
+      "fontFamily": "Cbi",
+      "identifier": "bridgesV2"
+    },
+    "bridgesv1": {
+      "codepoint": 57528,
+      "fontFamily": "Cbi",
+      "identifier": "bridgesv1"
+    },
+    "bridgesv2": {
+      "codepoint": 57529,
+      "fontFamily": "Cbi",
+      "identifier": "bridgesv2"
+    },
+    "british-telecom": {
+      "codepoint": 57530,
+      "fontFamily": "Cbi",
+      "identifier": "britishTelecom"
+    },
+    "btg": {
+      "codepoint": 57531,
+      "fontFamily": "Cbi",
+      "identifier": "btg"
+    },
+    "bugatti": {
+      "codepoint": 57532,
+      "fontFamily": "Cbi",
+      "identifier": "bugatti"
+    },
+    "bulb-candle": {
+      "codepoint": 57533,
+      "fontFamily": "Cbi",
+      "identifier": "bulbCandle"
+    },
+    "bulb-candle-hung": {
+      "codepoint": 57534,
+      "fontFamily": "Cbi",
+      "identifier": "bulbCandleHung"
+    },
+    "bulb-classic-off": {
+      "codepoint": 57535,
+      "fontFamily": "Cbi",
+      "identifier": "bulbClassicOff"
+    },
+    "bulb-filament-alt": {
+      "codepoint": 57536,
+      "fontFamily": "Cbi",
+      "identifier": "bulbFilamentAlt"
+    },
+    "bulb-filament-candle": {
+      "codepoint": 57537,
+      "fontFamily": "Cbi",
+      "identifier": "bulbFilamentCandle"
+    },
+    "bulb-flood": {
+      "codepoint": 57538,
+      "fontFamily": "Cbi",
+      "identifier": "bulbFlood"
+    },
+    "bulb-foh": {
+      "codepoint": 57539,
+      "fontFamily": "Cbi",
+      "identifier": "bulbFoh"
+    },
+    "bulb-general-group": {
+      "codepoint": 57540,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGeneralGroup"
+    },
+    "bulb-golfball-e14": {
+      "codepoint": 57541,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGolfballE14"
+    },
+    "bulb-group": {
+      "codepoint": 57542,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroup"
+    },
+    "bulb-group-bollard-3-off": {
+      "codepoint": 57543,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupBollard3Off"
+    },
+    "bulb-group-bollard-wall-appear": {
+      "codepoint": 57544,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupBollardWallAppear"
+    },
+    "bulb-group-ceiling-flush-circular": {
+      "codepoint": 57545,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupCeilingFlushCircular"
+    },
+    "bulb-group-ceiling-round": {
+      "codepoint": 57546,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupCeilingRound"
+    },
+    "bulb-group-ceiling-square": {
+      "codepoint": 57547,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupCeilingSquare"
+    },
+    "bulb-group-centura": {
+      "codepoint": 57548,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupCentura"
+    },
+    "bulb-group-centura-round": {
+      "codepoint": 57549,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupCenturaRound"
+    },
+    "bulb-group-classic-3": {
+      "codepoint": 57550,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupClassic3"
+    },
+    "bulb-group-classic-3-alt": {
+      "codepoint": 57551,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupClassic3Alt"
+    },
+    "bulb-group-classic-4": {
+      "codepoint": 57552,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupClassic4"
+    },
+    "bulb-group-classic-4-alt": {
+      "codepoint": 57553,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupClassic4Alt"
+    },
+    "bulb-group-classic-hung-3": {
+      "codepoint": 57554,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupClassicHung3"
+    },
+    "bulb-group-classic-hung-3-alt": {
+      "codepoint": 57555,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupClassicHung3Alt"
+    },
+    "bulb-group-classic-hung-4": {
+      "codepoint": 57556,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupClassicHung4"
+    },
+    "bulb-group-classic-hung-4-alt": {
+      "codepoint": 57557,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupClassicHung4Alt"
+    },
+    "bulb-group-filament-alt": {
+      "codepoint": 57558,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupFilamentAlt"
+    },
+    "bulb-group-filament-candle": {
+      "codepoint": 57559,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupFilamentCandle"
+    },
+    "bulb-group-filament-spot": {
+      "codepoint": 57560,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupFilamentSpot"
+    },
+    "bulb-group-filament-sultan": {
+      "codepoint": 57561,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupFilamentSultan"
+    },
+    "bulb-group-golfball-e14": {
+      "codepoint": 57562,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupGolfballE14"
+    },
+    "bulb-group-lightstrip": {
+      "codepoint": 57563,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupLightstrip"
+    },
+    "bulb-group-lightstrip-v": {
+      "codepoint": 57564,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupLightstripV"
+    },
+    "bulb-group-par-38": {
+      "codepoint": 57565,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupPar38"
+    },
+    "bulb-group-pillar-turaco-short-tall": {
+      "codepoint": 57566,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupPillarTuracoShortTall"
+    },
+    "bulb-group-sultan-lightstrip": {
+      "codepoint": 57567,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupSultanLightstrip"
+    },
+    "bulb-group-sultan-lightstrip-off": {
+      "codepoint": 57568,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupSultanLightstripOff"
+    },
+    "bulb-group-sultan-spot": {
+      "codepoint": 57569,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupSultanSpot"
+    },
+    "bulb-group-sultan-spot-off": {
+      "codepoint": 57570,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupSultanSpotOff"
+    },
+    "bulb-group-wall-nyro-flood": {
+      "codepoint": 57571,
+      "fontFamily": "Cbi",
+      "identifier": "bulbGroupWallNyroFlood"
+    },
+    "bulb-lightguide-flask": {
+      "codepoint": 57572,
+      "fontFamily": "Cbi",
+      "identifier": "bulbLightguideFlask"
+    },
+    "bulb-lightguide-oval": {
+      "codepoint": 57573,
+      "fontFamily": "Cbi",
+      "identifier": "bulbLightguideOval"
+    },
+    "bulb-lightguide-round": {
+      "codepoint": 57574,
+      "fontFamily": "Cbi",
+      "identifier": "bulbLightguideRound"
+    },
+    "bulb-par-38": {
+      "codepoint": 57575,
+      "fontFamily": "Cbi",
+      "identifier": "bulbPar38"
+    },
+    "bulb-refresh": {
+      "codepoint": 57576,
+      "fontFamily": "Cbi",
+      "identifier": "bulbRefresh"
+    },
+    "bulb-spot-off": {
+      "codepoint": 57577,
+      "fontFamily": "Cbi",
+      "identifier": "bulbSpotOff"
+    },
+    "bulb-sultan-group-v2": {
+      "codepoint": 57578,
+      "fontFamily": "Cbi",
+      "identifier": "bulbSultanGroupV2"
+    },
+    "bulb-sultan-off": {
+      "codepoint": 57579,
+      "fontFamily": "Cbi",
+      "identifier": "bulbSultanOff"
+    },
+    "bulb-sultan-v2": {
+      "codepoint": 57580,
+      "fontFamily": "Cbi",
+      "identifier": "bulbSultanV2"
+    },
+    "bulbcandle": {
+      "codepoint": 57581,
+      "fontFamily": "Cbi",
+      "identifier": "bulbcandle"
+    },
+    "bulbflood": {
+      "codepoint": 57582,
+      "fontFamily": "Cbi",
+      "identifier": "bulbflood"
+    },
+    "bulbfoh": {
+      "codepoint": 57583,
+      "fontFamily": "Cbi",
+      "identifier": "bulbfoh"
+    },
+    "bulbgeneralgroup": {
+      "codepoint": 57584,
+      "fontFamily": "Cbi",
+      "identifier": "bulbgeneralgroup"
+    },
+    "bulbgroup": {
+      "codepoint": 57585,
+      "fontFamily": "Cbi",
+      "identifier": "bulbgroup"
+    },
+    "bulbs-classic": {
+      "codepoint": 57586,
+      "fontFamily": "Cbi",
+      "identifier": "bulbsClassic"
+    },
+    "bulbs-filament": {
+      "codepoint": 57587,
+      "fontFamily": "Cbi",
+      "identifier": "bulbsFilament"
+    },
+    "bulbs-spot": {
+      "codepoint": 57588,
+      "fontFamily": "Cbi",
+      "identifier": "bulbsSpot"
+    },
+    "bulbs-sultan": {
+      "codepoint": 57589,
+      "fontFamily": "Cbi",
+      "identifier": "bulbsSultan"
+    },
+    "bulbsclassic": {
+      "codepoint": 57590,
+      "fontFamily": "Cbi",
+      "identifier": "bulbsclassic"
+    },
+    "bulbsfilament": {
+      "codepoint": 57591,
+      "fontFamily": "Cbi",
+      "identifier": "bulbsfilament"
+    },
+    "bulbsspot": {
+      "codepoint": 57592,
+      "fontFamily": "Cbi",
+      "identifier": "bulbsspot"
+    },
+    "bulbssultan": {
+      "codepoint": 57593,
+      "fontFamily": "Cbi",
+      "identifier": "bulbssultan"
+    },
     "button": {
-      "codepoint": 57354,
+      "codepoint": 57594,
       "fontFamily": "Cbi",
       "identifier": "button"
     },
+    "byd": {
+      "codepoint": 57595,
+      "fontFamily": "Cbi",
+      "identifier": "byd"
+    },
+    "caiway": {
+      "codepoint": 57596,
+      "fontFamily": "Cbi",
+      "identifier": "caiway"
+    },
+    "camera-car": {
+      "codepoint": 57597,
+      "fontFamily": "Cbi",
+      "identifier": "cameraCar"
+    },
+    "camera-nomotion": {
+      "codepoint": 57598,
+      "fontFamily": "Cbi",
+      "identifier": "cameraNomotion"
+    },
+    "camera-person": {
+      "codepoint": 57599,
+      "fontFamily": "Cbi",
+      "identifier": "cameraPerson"
+    },
+    "camera-pet": {
+      "codepoint": 57600,
+      "fontFamily": "Cbi",
+      "identifier": "cameraPet"
+    },
+    "car-fob": {
+      "codepoint": 57601,
+      "fontFamily": "Cbi",
+      "identifier": "carFob"
+    },
+    "carrier": {
+      "codepoint": 57602,
+      "fontFamily": "Cbi",
+      "identifier": "carrier"
+    },
+    "carrier-home": {
+      "codepoint": 57603,
+      "fontFamily": "Cbi",
+      "identifier": "carrierHome"
+    },
+    "casaos": {
+      "codepoint": 57604,
+      "fontFamily": "Cbi",
+      "identifier": "casaos"
+    },
+    "cbc-gem": {
+      "codepoint": 57605,
+      "fontFamily": "Cbi",
+      "identifier": "cbcGem"
+    },
+    "cbs": {
+      "codepoint": 57606,
+      "fontFamily": "Cbi",
+      "identifier": "cbs"
+    },
+    "ceiling-adore": {
+      "codepoint": 57607,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingAdore"
+    },
+    "ceiling-adore-alt": {
+      "codepoint": 57608,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingAdoreAlt"
+    },
     "ceiling-adore-alt-flush": {
-      "codepoint": 57355,
+      "codepoint": 57609,
       "fontFamily": "Cbi",
       "identifier": "ceilingAdoreAltFlush"
     },
+    "ceiling-adore-flush": {
+      "codepoint": 57610,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingAdoreFlush"
+    },
+    "ceiling-aurelle": {
+      "codepoint": 57611,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingAurelle"
+    },
+    "ceiling-aurelle-circle": {
+      "codepoint": 57612,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingAurelleCircle"
+    },
+    "ceiling-being": {
+      "codepoint": 57613,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingBeing"
+    },
+    "ceiling-buckram": {
+      "codepoint": 57614,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingBuckram"
+    },
+    "ceiling-buckram-three": {
+      "codepoint": 57615,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingBuckramThree"
+    },
+    "ceiling-buckram-two": {
+      "codepoint": 57616,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingBuckramTwo"
+    },
+    "ceiling-buratto": {
+      "codepoint": 57617,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingBuratto"
+    },
+    "ceiling-buratto-four": {
+      "codepoint": 57618,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingBurattoFour"
+    },
+    "ceiling-buratto-three": {
+      "codepoint": 57619,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingBurattoThree"
+    },
+    "ceiling-buratto-two": {
+      "codepoint": 57620,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingBurattoTwo"
+    },
+    "ceiling-buratto-two-off": {
+      "codepoint": 57621,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingBurattoTwoOff"
+    },
+    "ceiling-cher-semiflush": {
+      "codepoint": 57622,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingCherSemiflush"
+    },
     "ceiling-devere": {
-      "codepoint": 57356,
+      "codepoint": 57623,
       "fontFamily": "Cbi",
       "identifier": "ceilingDevere"
     },
+    "ceiling-explore": {
+      "codepoint": 57624,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingExplore"
+    },
+    "ceiling-fair-semiflush": {
+      "codepoint": 57625,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingFairSemiflush"
+    },
+    "ceiling-fan": {
+      "codepoint": 57626,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingFan"
+    },
+    "ceiling-fan-alt": {
+      "codepoint": 57627,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingFanAlt"
+    },
+    "ceiling-fan-light": {
+      "codepoint": 57628,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingFanLight"
+    },
+    "ceiling-flourish": {
+      "codepoint": 57629,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingFlourish"
+    },
+    "ceiling-flush-circular": {
+      "codepoint": 57630,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingFlushCircular"
+    },
+    "ceiling-fugato-four": {
+      "codepoint": 57631,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingFugatoFour"
+    },
+    "ceiling-fugato-four-alt": {
+      "codepoint": 57632,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingFugatoFourAlt"
+    },
+    "ceiling-fugato-three": {
+      "codepoint": 57633,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingFugatoThree"
+    },
+    "ceiling-fugato-three-alt": {
+      "codepoint": 57634,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingFugatoThreeAlt"
+    },
+    "ceiling-fugato-two": {
+      "codepoint": 57635,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingFugatoTwo"
+    },
+    "ceiling-fugato-two-alt": {
+      "codepoint": 57636,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingFugatoTwoAlt"
+    },
+    "ceiling-infuse": {
+      "codepoint": 57637,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingInfuse"
+    },
+    "ceiling-lamp": {
+      "codepoint": 57638,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingLamp"
+    },
+    "ceiling-lamp-plafond": {
+      "codepoint": 57639,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingLampPlafond"
+    },
     "ceiling-lamp-round": {
-      "codepoint": 57357,
+      "codepoint": 57640,
       "fontFamily": "Cbi",
       "identifier": "ceilingLampRound"
     },
+    "ceiling-muscari": {
+      "codepoint": 57641,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingMuscari"
+    },
+    "ceiling-round": {
+      "codepoint": 57642,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingRound"
+    },
+    "ceiling-runner": {
+      "codepoint": 57643,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingRunner"
+    },
+    "ceiling-runner-three": {
+      "codepoint": 57644,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingRunnerThree"
+    },
+    "ceiling-runner-two": {
+      "codepoint": 57645,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingRunnerTwo"
+    },
+    "ceiling-spot-lamp": {
+      "codepoint": 57646,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingSpotLamp"
+    },
+    "ceiling-square": {
+      "codepoint": 57647,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingSquare"
+    },
+    "ceiling-still": {
+      "codepoint": 57648,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingStill"
+    },
+    "ceiling-surimu": {
+      "codepoint": 57649,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingSurimu"
+    },
+    "ceiling-xamento": {
+      "codepoint": 57650,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingXamento"
+    },
+    "ceilinground": {
+      "codepoint": 57651,
+      "fontFamily": "Cbi",
+      "identifier": "ceilinground"
+    },
+    "ceilingsquare": {
+      "codepoint": 57652,
+      "fontFamily": "Cbi",
+      "identifier": "ceilingsquare"
+    },
+    "centris": {
+      "codepoint": 57653,
+      "fontFamily": "Cbi",
+      "identifier": "centris"
+    },
+    "centris-four": {
+      "codepoint": 57654,
+      "fontFamily": "Cbi",
+      "identifier": "centrisFour"
+    },
+    "centris-three": {
+      "codepoint": 57655,
+      "fontFamily": "Cbi",
+      "identifier": "centrisThree"
+    },
+    "centris-two": {
+      "codepoint": 57656,
+      "fontFamily": "Cbi",
+      "identifier": "centrisTwo"
+    },
+    "centura": {
+      "codepoint": 57657,
+      "fontFamily": "Cbi",
+      "identifier": "centura"
+    },
+    "centura-round": {
+      "codepoint": 57658,
+      "fontFamily": "Cbi",
+      "identifier": "centuraRound"
+    },
+    "centura-two": {
+      "codepoint": 57659,
+      "fontFamily": "Cbi",
+      "identifier": "centuraTwo"
+    },
+    "chandelier": {
+      "codepoint": 57660,
+      "fontFamily": "Cbi",
+      "identifier": "chandelier"
+    },
+    "channel-4-uk": {
+      "codepoint": 57661,
+      "fontFamily": "Cbi",
+      "identifier": "channel4Uk"
+    },
+    "charging-station": {
+      "codepoint": 57662,
+      "fontFamily": "Cbi",
+      "identifier": "chargingStation"
+    },
+    "chevrolet": {
+      "codepoint": 57663,
+      "fontFamily": "Cbi",
+      "identifier": "chevrolet"
+    },
+    "chicken": {
+      "codepoint": 57664,
+      "fontFamily": "Cbi",
+      "identifier": "chicken"
+    },
+    "chicken-coup": {
+      "codepoint": 57665,
+      "fontFamily": "Cbi",
+      "identifier": "chickenCoup"
+    },
+    "chicken-coup-door-shut": {
+      "codepoint": 57666,
+      "fontFamily": "Cbi",
+      "identifier": "chickenCoupDoorShut"
+    },
+    "christmas-lights": {
+      "codepoint": 57667,
+      "fontFamily": "Cbi",
+      "identifier": "christmasLights"
+    },
+    "christmas-tree": {
+      "codepoint": 57668,
+      "fontFamily": "Cbi",
+      "identifier": "christmasTree"
+    },
+    "christmas-tree-v2": {
+      "codepoint": 57669,
+      "fontFamily": "Cbi",
+      "identifier": "christmasTreeV2"
+    },
+    "christmas-wreath": {
+      "codepoint": 57670,
+      "fontFamily": "Cbi",
+      "identifier": "christmasWreath"
+    },
+    "chromecast": {
+      "codepoint": 57671,
+      "fontFamily": "Cbi",
+      "identifier": "chromecast"
+    },
+    "chromecast-alt": {
+      "codepoint": 57672,
+      "fontFamily": "Cbi",
+      "identifier": "chromecastAlt"
+    },
+    "chrysler": {
+      "codepoint": 57673,
+      "fontFamily": "Cbi",
+      "identifier": "chrysler"
+    },
+    "citroen": {
+      "codepoint": 57674,
+      "fontFamily": "Cbi",
+      "identifier": "citroen"
+    },
     "claude-clawd": {
-      "codepoint": 57358,
+      "codepoint": 57675,
       "fontFamily": "Cbi",
       "identifier": "claudeClawd"
     },
+    "cloakroom": {
+      "codepoint": 57676,
+      "fontFamily": "Cbi",
+      "identifier": "cloakroom"
+    },
+    "clock-euro": {
+      "codepoint": 57677,
+      "fontFamily": "Cbi",
+      "identifier": "clockEuro"
+    },
+    "cloudflare": {
+      "codepoint": 57678,
+      "fontFamily": "Cbi",
+      "identifier": "cloudflare"
+    },
+    "co2": {
+      "codepoint": 57679,
+      "fontFamily": "Cbi",
+      "identifier": "co2"
+    },
+    "colombia-fcf": {
+      "codepoint": 57680,
+      "fontFamily": "Cbi",
+      "identifier": "colombiaFcf"
+    },
+    "compressor": {
+      "codepoint": 57681,
+      "fontFamily": "Cbi",
+      "identifier": "compressor"
+    },
+    "cooker-extract-off": {
+      "codepoint": 57682,
+      "fontFamily": "Cbi",
+      "identifier": "cookerExtractOff"
+    },
+    "cooker-extract-on": {
+      "codepoint": 57683,
+      "fontFamily": "Cbi",
+      "identifier": "cookerExtractOn"
+    },
+    "costco": {
+      "codepoint": 57684,
+      "fontFamily": "Cbi",
+      "identifier": "costco"
+    },
+    "cowboy-ebike": {
+      "codepoint": 57685,
+      "fontFamily": "Cbi",
+      "identifier": "cowboyEbike"
+    },
+    "cowboy-ebike-alt": {
+      "codepoint": 57686,
+      "fontFamily": "Cbi",
+      "identifier": "cowboyEbikeAlt"
+    },
+    "creality-cfs": {
+      "codepoint": 57687,
+      "fontFamily": "Cbi",
+      "identifier": "crealityCfs"
+    },
+    "creality-complete": {
+      "codepoint": 57688,
+      "fontFamily": "Cbi",
+      "identifier": "crealityComplete"
+    },
+    "creality-hi": {
+      "codepoint": 57689,
+      "fontFamily": "Cbi",
+      "identifier": "crealityHi"
+    },
+    "creston-swirl": {
+      "codepoint": 57690,
+      "fontFamily": "Cbi",
+      "identifier": "crestonSwirl"
+    },
+    "crestron-swirl": {
+      "codepoint": 57691,
+      "fontFamily": "Cbi",
+      "identifier": "crestronSwirl"
+    },
+    "crunchyrol": {
+      "codepoint": 57692,
+      "fontFamily": "Cbi",
+      "identifier": "crunchyrol"
+    },
+    "cupra": {
+      "codepoint": 57693,
+      "fontFamily": "Cbi",
+      "identifier": "cupra"
+    },
+    "cync": {
+      "codepoint": 57694,
+      "fontFamily": "Cbi",
+      "identifier": "cync"
+    },
+    "dacia": {
+      "codepoint": 57695,
+      "fontFamily": "Cbi",
+      "identifier": "dacia"
+    },
+    "daikin": {
+      "codepoint": 57696,
+      "fontFamily": "Cbi",
+      "identifier": "daikin"
+    },
+    "dartboard": {
+      "codepoint": 57697,
+      "fontFamily": "Cbi",
+      "identifier": "dartboard"
+    },
     "daserste": {
-      "codepoint": 57359,
+      "codepoint": 57698,
       "fontFamily": "Cbi",
       "identifier": "daserste"
     },
+    "daylo-wall": {
+      "codepoint": 57699,
+      "fontFamily": "Cbi",
+      "identifier": "dayloWall"
+    },
+    "dazn": {
+      "codepoint": 57700,
+      "fontFamily": "Cbi",
+      "identifier": "dazn"
+    },
+    "deezer-logo": {
+      "codepoint": 57701,
+      "fontFamily": "Cbi",
+      "identifier": "deezerLogo"
+    },
+    "delta": {
+      "codepoint": 57702,
+      "fontFamily": "Cbi",
+      "identifier": "delta"
+    },
+    "denon": {
+      "codepoint": 57703,
+      "fontFamily": "Cbi",
+      "identifier": "denon"
+    },
     "desjardins-group": {
-      "codepoint": 57360,
+      "codepoint": 57704,
       "fontFamily": "Cbi",
       "identifier": "desjardinsGroup"
     },
+    "desk-lamp": {
+      "codepoint": 57705,
+      "fontFamily": "Cbi",
+      "identifier": "deskLamp"
+    },
+    "desk-sit": {
+      "codepoint": 57706,
+      "fontFamily": "Cbi",
+      "identifier": "deskSit"
+    },
+    "desk-sit-alt": {
+      "codepoint": 57707,
+      "fontFamily": "Cbi",
+      "identifier": "deskSitAlt"
+    },
+    "desk-stand": {
+      "codepoint": 57708,
+      "fontFamily": "Cbi",
+      "identifier": "deskStand"
+    },
+    "desk-stand-alt": {
+      "codepoint": 57709,
+      "fontFamily": "Cbi",
+      "identifier": "deskStandAlt"
+    },
+    "desklamp": {
+      "codepoint": 57710,
+      "fontFamily": "Cbi",
+      "identifier": "desklamp"
+    },
+    "desktop-computer": {
+      "codepoint": 57711,
+      "fontFamily": "Cbi",
+      "identifier": "desktopComputer"
+    },
     "deutschlandfunk": {
-      "codepoint": 57361,
+      "codepoint": 57712,
       "fontFamily": "Cbi",
       "identifier": "deutschlandfunk"
     },
+    "devicesplug": {
+      "codepoint": 57713,
+      "fontFamily": "Cbi",
+      "identifier": "devicesplug"
+    },
     "devicestap": {
-      "codepoint": 57362,
+      "codepoint": 57714,
       "fontFamily": "Cbi",
       "identifier": "devicestap"
     },
+    "dhl": {
+      "codepoint": 57715,
+      "fontFamily": "Cbi",
+      "identifier": "dhl"
+    },
+    "dimmer-switch": {
+      "codepoint": 57716,
+      "fontFamily": "Cbi",
+      "identifier": "dimmerSwitch"
+    },
+    "dimmerswitch": {
+      "codepoint": 57717,
+      "fontFamily": "Cbi",
+      "identifier": "dimmerswitch"
+    },
+    "directtv": {
+      "codepoint": 57718,
+      "fontFamily": "Cbi",
+      "identifier": "directtv"
+    },
+    "directv-go": {
+      "codepoint": 57719,
+      "fontFamily": "Cbi",
+      "identifier": "directvGo"
+    },
+    "directv-go-alt": {
+      "codepoint": 57720,
+      "fontFamily": "Cbi",
+      "identifier": "directvGoAlt"
+    },
+    "discord": {
+      "codepoint": 57721,
+      "fontFamily": "Cbi",
+      "identifier": "discord"
+    },
+    "discovery-plus": {
+      "codepoint": 57722,
+      "fontFamily": "Cbi",
+      "identifier": "discoveryPlus"
+    },
+    "dish-network": {
+      "codepoint": 57723,
+      "fontFamily": "Cbi",
+      "identifier": "dishNetwork"
+    },
+    "dish-network-alt": {
+      "codepoint": 57724,
+      "fontFamily": "Cbi",
+      "identifier": "dishNetworkAlt"
+    },
+    "disney-plus": {
+      "codepoint": 57725,
+      "fontFamily": "Cbi",
+      "identifier": "disneyPlus"
+    },
+    "disney-plus-alt": {
+      "codepoint": 57726,
+      "fontFamily": "Cbi",
+      "identifier": "disneyPlusAlt"
+    },
+    "dodge": {
+      "codepoint": 57727,
+      "fontFamily": "Cbi",
+      "identifier": "dodge"
+    },
+    "dolby-atmos": {
+      "codepoint": 57728,
+      "fontFamily": "Cbi",
+      "identifier": "dolbyAtmos"
+    },
     "dome-light": {
-      "codepoint": 57363,
+      "codepoint": 57729,
       "fontFamily": "Cbi",
       "identifier": "domeLight"
     },
+    "doube-window-b-open": {
+      "codepoint": 57730,
+      "fontFamily": "Cbi",
+      "identifier": "doubeWindowBOpen"
+    },
+    "doube-window-closed": {
+      "codepoint": 57731,
+      "fontFamily": "Cbi",
+      "identifier": "doubeWindowClosed"
+    },
+    "doube-window-l-open": {
+      "codepoint": 57732,
+      "fontFamily": "Cbi",
+      "identifier": "doubeWindowLOpen"
+    },
+    "doube-window-r-open": {
+      "codepoint": 57733,
+      "fontFamily": "Cbi",
+      "identifier": "doubeWindowROpen"
+    },
+    "double-smart-plug": {
+      "codepoint": 57734,
+      "fontFamily": "Cbi",
+      "identifier": "doubleSmartPlug"
+    },
+    "double-spot": {
+      "codepoint": 57735,
+      "fontFamily": "Cbi",
+      "identifier": "doubleSpot"
+    },
+    "double-wall-switch": {
+      "codepoint": 57736,
+      "fontFamily": "Cbi",
+      "identifier": "doubleWallSwitch"
+    },
+    "double-window-closed": {
+      "codepoint": 57737,
+      "fontFamily": "Cbi",
+      "identifier": "doubleWindowClosed"
+    },
+    "double-window-open": {
+      "codepoint": 57738,
+      "fontFamily": "Cbi",
+      "identifier": "doubleWindowOpen"
+    },
+    "doublespot": {
+      "codepoint": 57739,
+      "fontFamily": "Cbi",
+      "identifier": "doublespot"
+    },
+    "downstairs": {
+      "codepoint": 57740,
+      "fontFamily": "Cbi",
+      "identifier": "downstairs"
+    },
+    "downstairs-basement": {
+      "codepoint": 57741,
+      "fontFamily": "Cbi",
+      "identifier": "downstairsBasement"
+    },
+    "downstairs-ground": {
+      "codepoint": 57742,
+      "fontFamily": "Cbi",
+      "identifier": "downstairsGround"
+    },
+    "dreamcast": {
+      "codepoint": 57743,
+      "fontFamily": "Cbi",
+      "identifier": "dreamcast"
+    },
+    "dreame": {
+      "codepoint": 57744,
+      "fontFamily": "Cbi",
+      "identifier": "dreame"
+    },
+    "driveway": {
+      "codepoint": 57745,
+      "fontFamily": "Cbi",
+      "identifier": "driveway"
+    },
+    "drtv": {
+      "codepoint": 57746,
+      "fontFamily": "Cbi",
+      "identifier": "drtv"
+    },
+    "dstv": {
+      "codepoint": 57747,
+      "fontFamily": "Cbi",
+      "identifier": "dstv"
+    },
+    "dts": {
+      "codepoint": 57748,
+      "fontFamily": "Cbi",
+      "identifier": "dts"
+    },
+    "dts-x": {
+      "codepoint": 57749,
+      "fontFamily": "Cbi",
+      "identifier": "dtsX"
+    },
+    "duckdns": {
+      "codepoint": 57750,
+      "fontFamily": "Cbi",
+      "identifier": "duckdns"
+    },
+    "duco-1": {
+      "codepoint": 57751,
+      "fontFamily": "Cbi",
+      "identifier": "duco1"
+    },
+    "duco-2": {
+      "codepoint": 57752,
+      "fontFamily": "Cbi",
+      "identifier": "duco2"
+    },
+    "duco-3": {
+      "codepoint": 57753,
+      "fontFamily": "Cbi",
+      "identifier": "duco3"
+    },
+    "duco-auto": {
+      "codepoint": 57754,
+      "fontFamily": "Cbi",
+      "identifier": "ducoAuto"
+    },
+    "duco-logo": {
+      "codepoint": 57755,
+      "fontFamily": "Cbi",
+      "identifier": "ducoLogo"
+    },
+    "dune-hd": {
+      "codepoint": 57756,
+      "fontFamily": "Cbi",
+      "identifier": "duneHd"
+    },
     "duplicati": {
-      "codepoint": 57364,
+      "codepoint": 57757,
       "fontFamily": "Cbi",
       "identifier": "duplicati"
     },
+    "duux-360": {
+      "codepoint": 57758,
+      "fontFamily": "Cbi",
+      "identifier": "duux360"
+    },
+    "dvd": {
+      "codepoint": 57759,
+      "fontFamily": "Cbi",
+      "identifier": "dvd"
+    },
+    "dyson-desk": {
+      "codepoint": 57760,
+      "fontFamily": "Cbi",
+      "identifier": "dysonDesk"
+    },
+    "dyson-floor": {
+      "codepoint": 57761,
+      "fontFamily": "Cbi",
+      "identifier": "dysonFloor"
+    },
+    "echo-dot-4-group": {
+      "codepoint": 57762,
+      "fontFamily": "Cbi",
+      "identifier": "echoDot4Group"
+    },
+    "echo-dot-gen-3": {
+      "codepoint": 57763,
+      "fontFamily": "Cbi",
+      "identifier": "echoDotGen3"
+    },
+    "echo-dot-gen-4": {
+      "codepoint": 57764,
+      "fontFamily": "Cbi",
+      "identifier": "echoDotGen4"
+    },
+    "echo-dot-gen-4-clock": {
+      "codepoint": 57765,
+      "fontFamily": "Cbi",
+      "identifier": "echoDotGen4Clock"
+    },
+    "echo-flex": {
+      "codepoint": 57766,
+      "fontFamily": "Cbi",
+      "identifier": "echoFlex"
+    },
+    "echo-gen-2": {
+      "codepoint": 57767,
+      "fontFamily": "Cbi",
+      "identifier": "echoGen2"
+    },
+    "echo-plus": {
+      "codepoint": 57768,
+      "fontFamily": "Cbi",
+      "identifier": "echoPlus"
+    },
+    "echo-pop": {
+      "codepoint": 57769,
+      "fontFamily": "Cbi",
+      "identifier": "echoPop"
+    },
+    "echo-show-10": {
+      "codepoint": 57770,
+      "fontFamily": "Cbi",
+      "identifier": "echoShow10"
+    },
+    "echo-show-15": {
+      "codepoint": 57771,
+      "fontFamily": "Cbi",
+      "identifier": "echoShow15"
+    },
+    "echo-show-5-group": {
+      "codepoint": 57772,
+      "fontFamily": "Cbi",
+      "identifier": "echoShow5Group"
+    },
+    "echo-show-8-gen-2": {
+      "codepoint": 57773,
+      "fontFamily": "Cbi",
+      "identifier": "echoShow8Gen2"
+    },
+    "echo-show-8-group": {
+      "codepoint": 57774,
+      "fontFamily": "Cbi",
+      "identifier": "echoShow8Group"
+    },
+    "echo-spot": {
+      "codepoint": 57775,
+      "fontFamily": "Cbi",
+      "identifier": "echoSpot"
+    },
+    "echo-studio-2nd": {
+      "codepoint": 57776,
+      "fontFamily": "Cbi",
+      "identifier": "echoStudio2nd"
+    },
+    "ecovacs": {
+      "codepoint": 57777,
+      "fontFamily": "Cbi",
+      "identifier": "ecovacs"
+    },
+    "ecowitt": {
+      "codepoint": 57778,
+      "fontFamily": "Cbi",
+      "identifier": "ecowitt"
+    },
+    "eero": {
+      "codepoint": 57779,
+      "fontFamily": "Cbi",
+      "identifier": "eero"
+    },
+    "eggs": {
+      "codepoint": 57780,
+      "fontFamily": "Cbi",
+      "identifier": "eggs"
+    },
+    "elec-blanket": {
+      "codepoint": 57781,
+      "fontFamily": "Cbi",
+      "identifier": "elecBlanket"
+    },
+    "elgato-key-light": {
+      "codepoint": 57782,
+      "fontFamily": "Cbi",
+      "identifier": "elgatoKeyLight"
+    },
+    "elgato-key-light-air": {
+      "codepoint": 57783,
+      "fontFamily": "Cbi",
+      "identifier": "elgatoKeyLightAir"
+    },
     "elgato-ring-light": {
-      "codepoint": 57365,
+      "codepoint": 57784,
       "fontFamily": "Cbi",
       "identifier": "elgatoRingLight"
     },
+    "ellevio": {
+      "codepoint": 57785,
+      "fontFamily": "Cbi",
+      "identifier": "ellevio"
+    },
     "emby": {
-      "codepoint": 57366,
+      "codepoint": 57786,
       "fontFamily": "Cbi",
       "identifier": "emby"
     },
+    "ensis": {
+      "codepoint": 57787,
+      "fontFamily": "Cbi",
+      "identifier": "ensis"
+    },
+    "ensis-up": {
+      "codepoint": 57788,
+      "fontFamily": "Cbi",
+      "identifier": "ensisUp"
+    },
+    "epson": {
+      "codepoint": 57789,
+      "fontFamily": "Cbi",
+      "identifier": "epson"
+    },
+    "esphome": {
+      "codepoint": 57790,
+      "fontFamily": "Cbi",
+      "identifier": "esphome"
+    },
+    "esphome-new": {
+      "codepoint": 57791,
+      "fontFamily": "Cbi",
+      "identifier": "esphomeNew"
+    },
+    "espn": {
+      "codepoint": 57792,
+      "fontFamily": "Cbi",
+      "identifier": "espn"
+    },
+    "essential-oil-diffuser": {
+      "codepoint": 57793,
+      "fontFamily": "Cbi",
+      "identifier": "essentialOilDiffuser"
+    },
+    "essential-oil-diffuser-alt": {
+      "codepoint": 57794,
+      "fontFamily": "Cbi",
+      "identifier": "essentialOilDiffuserAlt"
+    },
     "etc": {
-      "codepoint": 57367,
+      "codepoint": 57795,
       "fontFamily": "Cbi",
       "identifier": "etc"
     },
+    "ev-charging": {
+      "codepoint": 57796,
+      "fontFamily": "Cbi",
+      "identifier": "evCharging"
+    },
+    "ev-notcharging": {
+      "codepoint": 57797,
+      "fontFamily": "Cbi",
+      "identifier": "evNotcharging"
+    },
+    "ewelink": {
+      "codepoint": 57798,
+      "fontFamily": "Cbi",
+      "identifier": "ewelink"
+    },
+    "extension-eu": {
+      "codepoint": 57799,
+      "fontFamily": "Cbi",
+      "identifier": "extensionEu"
+    },
+    "extension-uk": {
+      "codepoint": 57800,
+      "fontFamily": "Cbi",
+      "identifier": "extensionUk"
+    },
+    "extension-us": {
+      "codepoint": 57801,
+      "fontFamily": "Cbi",
+      "identifier": "extensionUs"
+    },
+    "extractor-fan": {
+      "codepoint": 57802,
+      "fontFamily": "Cbi",
+      "identifier": "extractorFan"
+    },
+    "ezviz": {
+      "codepoint": 57803,
+      "fontFamily": "Cbi",
+      "identifier": "ezviz"
+    },
+    "f1": {
+      "codepoint": 57804,
+      "fontFamily": "Cbi",
+      "identifier": "f1"
+    },
+    "f1-alt": {
+      "codepoint": 57805,
+      "fontFamily": "Cbi",
+      "identifier": "f1Alt"
+    },
+    "fan-blade": {
+      "codepoint": 57806,
+      "fontFamily": "Cbi",
+      "identifier": "fanBlade"
+    },
+    "fanduel": {
+      "codepoint": 57807,
+      "fontFamily": "Cbi",
+      "identifier": "fanduel"
+    },
+    "fastgate": {
+      "codepoint": 57808,
+      "fontFamily": "Cbi",
+      "identifier": "fastgate"
+    },
+    "fedex": {
+      "codepoint": 57809,
+      "fontFamily": "Cbi",
+      "identifier": "fedex"
+    },
+    "festavia": {
+      "codepoint": 57810,
+      "fontFamily": "Cbi",
+      "identifier": "festavia"
+    },
+    "fiat": {
+      "codepoint": 57811,
+      "fontFamily": "Cbi",
+      "identifier": "fiat"
+    },
+    "fingerbot": {
+      "codepoint": 57812,
+      "fontFamily": "Cbi",
+      "identifier": "fingerbot"
+    },
+    "firefox": {
+      "codepoint": 57813,
+      "fontFamily": "Cbi",
+      "identifier": "firefox"
+    },
+    "firetv": {
+      "codepoint": 57814,
+      "fontFamily": "Cbi",
+      "identifier": "firetv"
+    },
+    "firetv-cube": {
+      "codepoint": 57815,
+      "fontFamily": "Cbi",
+      "identifier": "firetvCube"
+    },
+    "fisker": {
+      "codepoint": 57816,
+      "fontFamily": "Cbi",
+      "identifier": "fisker"
+    },
+    "flaresolverr": {
+      "codepoint": 57817,
+      "fontFamily": "Cbi",
+      "identifier": "flaresolverr"
+    },
     "floor-lamp": {
-      "codepoint": 57368,
+      "codepoint": 57818,
       "fontFamily": "Cbi",
       "identifier": "floorLamp"
     },
+    "floor-lamp-dual": {
+      "codepoint": 57819,
+      "fontFamily": "Cbi",
+      "identifier": "floorLampDual"
+    },
+    "floor-lantern": {
+      "codepoint": 57820,
+      "fontFamily": "Cbi",
+      "identifier": "floorLantern"
+    },
+    "floor-lantern-group": {
+      "codepoint": 57821,
+      "fontFamily": "Cbi",
+      "identifier": "floorLanternGroup"
+    },
+    "floor-lantern-off": {
+      "codepoint": 57822,
+      "fontFamily": "Cbi",
+      "identifier": "floorLanternOff"
+    },
+    "floor-shade": {
+      "codepoint": 57823,
+      "fontFamily": "Cbi",
+      "identifier": "floorShade"
+    },
+    "floor-shades-combo": {
+      "codepoint": 57824,
+      "fontFamily": "Cbi",
+      "identifier": "floorShadesCombo"
+    },
+    "floor-spot": {
+      "codepoint": 57825,
+      "fontFamily": "Cbi",
+      "identifier": "floorSpot"
+    },
+    "floorlantern": {
+      "codepoint": 57826,
+      "fontFamily": "Cbi",
+      "identifier": "floorlantern"
+    },
+    "floorshade": {
+      "codepoint": 57827,
+      "fontFamily": "Cbi",
+      "identifier": "floorshade"
+    },
+    "floorspot": {
+      "codepoint": 57828,
+      "fontFamily": "Cbi",
+      "identifier": "floorspot"
+    },
+    "flourish": {
+      "codepoint": 57829,
+      "fontFamily": "Cbi",
+      "identifier": "flourish"
+    },
+    "flourish-alt": {
+      "codepoint": 57830,
+      "fontFamily": "Cbi",
+      "identifier": "flourishAlt"
+    },
+    "flow": {
+      "codepoint": 57831,
+      "fontFamily": "Cbi",
+      "identifier": "flow"
+    },
+    "ford": {
+      "codepoint": 57832,
+      "fontFamily": "Cbi",
+      "identifier": "ford"
+    },
+    "fortaleza": {
+      "codepoint": 57833,
+      "fontFamily": "Cbi",
+      "identifier": "fortaleza"
+    },
+    "fortinet": {
+      "codepoint": 57834,
+      "fontFamily": "Cbi",
+      "identifier": "fortinet"
+    },
+    "fox": {
+      "codepoint": 57835,
+      "fontFamily": "Cbi",
+      "identifier": "fox"
+    },
+    "fox-news": {
+      "codepoint": 57836,
+      "fontFamily": "Cbi",
+      "identifier": "foxNews"
+    },
+    "foxx-ess": {
+      "codepoint": 57837,
+      "fontFamily": "Cbi",
+      "identifier": "foxxEss"
+    },
+    "france4": {
+      "codepoint": 57838,
+      "fontFamily": "Cbi",
+      "identifier": "france4"
+    },
     "franceinfo": {
-      "codepoint": 57369,
+      "codepoint": 57839,
       "fontFamily": "Cbi",
       "identifier": "franceinfo"
     },
+    "freeradius": {
+      "codepoint": 57840,
+      "fontFamily": "Cbi",
+      "identifier": "freeradius"
+    },
+    "friends-of-hue": {
+      "codepoint": 57841,
+      "fontFamily": "Cbi",
+      "identifier": "friendsOfHue"
+    },
     "friends-of-hue-arke": {
-      "codepoint": 57370,
+      "codepoint": 57842,
       "fontFamily": "Cbi",
       "identifier": "friendsOfHueArke"
     },
     "friends-of-hue-arke-round": {
-      "codepoint": 57371,
+      "codepoint": 57843,
       "fontFamily": "Cbi",
       "identifier": "friendsOfHueArkeRound"
     },
+    "friends-of-hue-aurora-dimmer-switch": {
+      "codepoint": 57844,
+      "fontFamily": "Cbi",
+      "identifier": "friendsOfHueAuroraDimmerSwitch"
+    },
+    "friends-of-hue-aurora-dimmer-switch-alt": {
+      "codepoint": 57845,
+      "fontFamily": "Cbi",
+      "identifier": "friendsOfHueAuroraDimmerSwitchAlt"
+    },
     "friends-of-hue-eikon": {
-      "codepoint": 57372,
+      "codepoint": 57846,
       "fontFamily": "Cbi",
       "identifier": "friendsOfHueEikon"
     },
+    "friends-of-hue-flat-p": {
+      "codepoint": 57847,
+      "fontFamily": "Cbi",
+      "identifier": "friendsOfHueFlatP"
+    },
+    "friends-of-hue-flat-p-alt": {
+      "codepoint": 57848,
+      "fontFamily": "Cbi",
+      "identifier": "friendsOfHueFlatPAlt"
+    },
+    "friends-of-hue-iq-flush": {
+      "codepoint": 57849,
+      "fontFamily": "Cbi",
+      "identifier": "friendsOfHueIqFlush"
+    },
+    "friends-of-hue-iq-pendant": {
+      "codepoint": 57850,
+      "fontFamily": "Cbi",
+      "identifier": "friendsOfHueIqPendant"
+    },
+    "friends-of-hue-marbul-suspended": {
+      "codepoint": 57851,
+      "fontFamily": "Cbi",
+      "identifier": "friendsOfHueMarbulSuspended"
+    },
+    "friends-of-hue-retrotouch-black-chrome": {
+      "codepoint": 57852,
+      "fontFamily": "Cbi",
+      "identifier": "friendsOfHueRetrotouchBlackChrome"
+    },
+    "friends-of-hue-retrotouch-black-plain": {
+      "codepoint": 57853,
+      "fontFamily": "Cbi",
+      "identifier": "friendsOfHueRetrotouchBlackPlain"
+    },
+    "friends-of-hue-retrotouch-white-chrome": {
+      "codepoint": 57854,
+      "fontFamily": "Cbi",
+      "identifier": "friendsOfHueRetrotouchWhiteChrome"
+    },
+    "friends-of-hue-retrotouch-white-plain": {
+      "codepoint": 57855,
+      "fontFamily": "Cbi",
+      "identifier": "friendsOfHueRetrotouchWhitePlain"
+    },
+    "friends-of-hue-rigel": {
+      "codepoint": 57856,
+      "fontFamily": "Cbi",
+      "identifier": "friendsOfHueRigel"
+    },
+    "friends-of-hue-senic": {
+      "codepoint": 57857,
+      "fontFamily": "Cbi",
+      "identifier": "friendsOfHueSenic"
+    },
+    "friendsofhue": {
+      "codepoint": 57858,
+      "fontFamily": "Cbi",
+      "identifier": "friendsofhue"
+    },
+    "frigate": {
+      "codepoint": 57859,
+      "fontFamily": "Cbi",
+      "identifier": "frigate"
+    },
+    "fritzbox-7530": {
+      "codepoint": 57860,
+      "fontFamily": "Cbi",
+      "identifier": "fritzbox7530"
+    },
+    "fronius-inverter-gen24": {
+      "codepoint": 57861,
+      "fontFamily": "Cbi",
+      "identifier": "froniusInverterGen24"
+    },
+    "gamecube": {
+      "codepoint": 57862,
+      "fontFamily": "Cbi",
+      "identifier": "gamecube"
+    },
+    "garage-3-prong": {
+      "codepoint": 57863,
+      "fontFamily": "Cbi",
+      "identifier": "garage3Prong"
+    },
+    "garage-4-prong": {
+      "codepoint": 57864,
+      "fontFamily": "Cbi",
+      "identifier": "garage4Prong"
+    },
+    "garage-5-prong": {
+      "codepoint": 57865,
+      "fontFamily": "Cbi",
+      "identifier": "garage5Prong"
+    },
+    "garage-alt-open": {
+      "codepoint": 57866,
+      "fontFamily": "Cbi",
+      "identifier": "garageAltOpen"
+    },
+    "garage-alt-shut": {
+      "codepoint": 57867,
+      "fontFamily": "Cbi",
+      "identifier": "garageAltShut"
+    },
+    "garbage-organic": {
+      "codepoint": 57868,
+      "fontFamily": "Cbi",
+      "identifier": "garbageOrganic"
+    },
+    "garbage-plastic": {
+      "codepoint": 57869,
+      "fontFamily": "Cbi",
+      "identifier": "garbagePlastic"
+    },
+    "garbage-residual": {
+      "codepoint": 57870,
+      "fontFamily": "Cbi",
+      "identifier": "garbageResidual"
+    },
+    "garden": {
+      "codepoint": 57871,
+      "fontFamily": "Cbi",
+      "identifier": "garden"
+    },
+    "garden-irrigation": {
+      "codepoint": 57872,
+      "fontFamily": "Cbi",
+      "identifier": "gardenIrrigation"
+    },
+    "gcm": {
+      "codepoint": 57873,
+      "fontFamily": "Cbi",
+      "identifier": "gcm"
+    },
+    "geely": {
+      "codepoint": 57874,
+      "fontFamily": "Cbi",
+      "identifier": "geely"
+    },
+    "geko": {
+      "codepoint": 57875,
+      "fontFamily": "Cbi",
+      "identifier": "geko"
+    },
+    "gemini": {
+      "codepoint": 57876,
+      "fontFamily": "Cbi",
+      "identifier": "gemini"
+    },
+    "generic-car-charger": {
+      "codepoint": 57877,
+      "fontFamily": "Cbi",
+      "identifier": "genericCarCharger"
+    },
+    "genesis-vgs": {
+      "codepoint": 57878,
+      "fontFamily": "Cbi",
+      "identifier": "genesisVgs"
+    },
+    "glances": {
+      "codepoint": 57879,
+      "fontFamily": "Cbi",
+      "identifier": "glances"
+    },
+    "glances-alt": {
+      "codepoint": 57880,
+      "fontFamily": "Cbi",
+      "identifier": "glancesAlt"
+    },
+    "glasspanel-door-closed": {
+      "codepoint": 57881,
+      "fontFamily": "Cbi",
+      "identifier": "glasspanelDoorClosed"
+    },
+    "glasspanel-door-open": {
+      "codepoint": 57882,
+      "fontFamily": "Cbi",
+      "identifier": "glasspanelDoorOpen"
+    },
+    "globoplay": {
+      "codepoint": 57883,
+      "fontFamily": "Cbi",
+      "identifier": "globoplay"
+    },
+    "go": {
+      "codepoint": 57884,
+      "fontFamily": "Cbi",
+      "identifier": "go"
+    },
+    "go-group": {
+      "codepoint": 57885,
+      "fontFamily": "Cbi",
+      "identifier": "goGroup"
+    },
+    "go-group-off": {
+      "codepoint": 57886,
+      "fontFamily": "Cbi",
+      "identifier": "goGroupOff"
+    },
+    "go-off": {
+      "codepoint": 57887,
+      "fontFamily": "Cbi",
+      "identifier": "goOff"
+    },
+    "go-portable-table": {
+      "codepoint": 57888,
+      "fontFamily": "Cbi",
+      "identifier": "goPortableTable"
+    },
+    "go3": {
+      "codepoint": 57889,
+      "fontFamily": "Cbi",
+      "identifier": "go3"
+    },
     "goaccess": {
-      "codepoint": 57373,
+      "codepoint": 57890,
       "fontFamily": "Cbi",
       "identifier": "goaccess"
     },
+    "google-home": {
+      "codepoint": 57891,
+      "fontFamily": "Cbi",
+      "identifier": "googleHome"
+    },
+    "google-home-icon": {
+      "codepoint": 57892,
+      "fontFamily": "Cbi",
+      "identifier": "googleHomeIcon"
+    },
+    "google-logo-circle": {
+      "codepoint": 57893,
+      "fontFamily": "Cbi",
+      "identifier": "googleLogoCircle"
+    },
+    "google-pixel": {
+      "codepoint": 57894,
+      "fontFamily": "Cbi",
+      "identifier": "googlePixel"
+    },
+    "google-wifi-router": {
+      "codepoint": 57895,
+      "fontFamily": "Cbi",
+      "identifier": "googleWifiRouter"
+    },
+    "goplay": {
+      "codepoint": 57896,
+      "fontFamily": "Cbi",
+      "identifier": "goplay"
+    },
+    "goplay-alt": {
+      "codepoint": 57897,
+      "fontFamily": "Cbi",
+      "identifier": "goplayAlt"
+    },
+    "govee-h6046": {
+      "codepoint": 57898,
+      "fontFamily": "Cbi",
+      "identifier": "goveeH6046"
+    },
+    "govee-h6076": {
+      "codepoint": 57899,
+      "fontFamily": "Cbi",
+      "identifier": "goveeH6076"
+    },
+    "gradient-tube-long": {
+      "codepoint": 57900,
+      "fontFamily": "Cbi",
+      "identifier": "gradientTubeLong"
+    },
+    "gradient-tube-short": {
+      "codepoint": 57901,
+      "fontFamily": "Cbi",
+      "identifier": "gradientTubeShort"
+    },
+    "grafana": {
+      "codepoint": 57902,
+      "fontFamily": "Cbi",
+      "identifier": "grafana"
+    },
+    "great-wall": {
+      "codepoint": 57903,
+      "fontFamily": "Cbi",
+      "identifier": "greatWall"
+    },
+    "grill-ceramic": {
+      "codepoint": 57904,
+      "fontFamily": "Cbi",
+      "identifier": "grillCeramic"
+    },
+    "grill-charcoal": {
+      "codepoint": 57905,
+      "fontFamily": "Cbi",
+      "identifier": "grillCharcoal"
+    },
+    "grill-gas": {
+      "codepoint": 57906,
+      "fontFamily": "Cbi",
+      "identifier": "grillGas"
+    },
+    "grogu": {
+      "codepoint": 57907,
+      "fontFamily": "Cbi",
+      "identifier": "grogu"
+    },
+    "guacamole": {
+      "codepoint": 57908,
+      "fontFamily": "Cbi",
+      "identifier": "guacamole"
+    },
+    "ha-blue": {
+      "codepoint": 57909,
+      "fontFamily": "Cbi",
+      "identifier": "haBlue"
+    },
+    "ha-voice-pe": {
+      "codepoint": 57910,
+      "fontFamily": "Cbi",
+      "identifier": "haVoicePe"
+    },
+    "habbitat-martinelli": {
+      "codepoint": 57911,
+      "fontFamily": "Cbi",
+      "identifier": "habbitatMartinelli"
+    },
+    "habbitat-ribbon": {
+      "codepoint": 57912,
+      "fontFamily": "Cbi",
+      "identifier": "habbitatRibbon"
+    },
+    "hbo": {
+      "codepoint": 57913,
+      "fontFamily": "Cbi",
+      "identifier": "hbo"
+    },
+    "hbo-max": {
+      "codepoint": 57914,
+      "fontFamily": "Cbi",
+      "identifier": "hboMax"
+    },
+    "heated-maiden": {
+      "codepoint": 57915,
+      "fontFamily": "Cbi",
+      "identifier": "heatedMaiden"
+    },
+    "heb": {
+      "codepoint": 57916,
+      "fontFamily": "Cbi",
+      "identifier": "heb"
+    },
+    "helium": {
+      "codepoint": 57917,
+      "fontFamily": "Cbi",
+      "identifier": "helium"
+    },
+    "helium-tot": {
+      "codepoint": 57918,
+      "fontFamily": "Cbi",
+      "identifier": "heliumTot"
+    },
+    "helldivers": {
+      "codepoint": 57919,
+      "fontFamily": "Cbi",
+      "identifier": "helldivers"
+    },
+    "heos": {
+      "codepoint": 57920,
+      "fontFamily": "Cbi",
+      "identifier": "heos"
+    },
+    "herman-miller-aeron": {
+      "codepoint": 57921,
+      "fontFamily": "Cbi",
+      "identifier": "hermanMillerAeron"
+    },
+    "hfml-felix": {
+      "codepoint": 57922,
+      "fontFamily": "Cbi",
+      "identifier": "hfmlFelix"
+    },
+    "hilo": {
+      "codepoint": 57923,
+      "fontFamily": "Cbi",
+      "identifier": "hilo"
+    },
+    "hino": {
+      "codepoint": 57924,
+      "fontFamily": "Cbi",
+      "identifier": "hino"
+    },
+    "hive": {
+      "codepoint": 57925,
+      "fontFamily": "Cbi",
+      "identifier": "hive"
+    },
+    "hobby": {
+      "codepoint": 57926,
+      "fontFamily": "Cbi",
+      "identifier": "hobby"
+    },
+    "holden": {
+      "codepoint": 57927,
+      "fontFamily": "Cbi",
+      "identifier": "holden"
+    },
+    "homarr": {
+      "codepoint": 57928,
+      "fontFamily": "Cbi",
+      "identifier": "homarr"
+    },
     "home-mini": {
-      "codepoint": 57374,
+      "codepoint": 57929,
       "fontFamily": "Cbi",
       "identifier": "homeMini"
     },
+    "homekit": {
+      "codepoint": 57930,
+      "fontFamily": "Cbi",
+      "identifier": "homekit"
+    },
+    "homemati-ip": {
+      "codepoint": 57931,
+      "fontFamily": "Cbi",
+      "identifier": "homematiIp"
+    },
+    "homepod": {
+      "codepoint": 57932,
+      "fontFamily": "Cbi",
+      "identifier": "homepod"
+    },
+    "homepod-mini": {
+      "codepoint": 57933,
+      "fontFamily": "Cbi",
+      "identifier": "homepodMini"
+    },
+    "homey": {
+      "codepoint": 57934,
+      "fontFamily": "Cbi",
+      "identifier": "homey"
+    },
+    "honda": {
+      "codepoint": 57935,
+      "fontFamily": "Cbi",
+      "identifier": "honda"
+    },
+    "honeywell": {
+      "codepoint": 57936,
+      "fontFamily": "Cbi",
+      "identifier": "honeywell"
+    },
+    "hood-extraction": {
+      "codepoint": 57937,
+      "fontFamily": "Cbi",
+      "identifier": "hoodExtraction"
+    },
+    "hot-net": {
+      "codepoint": 57938,
+      "fontFamily": "Cbi",
+      "identifier": "hotNet"
+    },
+    "hoymiles-inverter": {
+      "codepoint": 57939,
+      "fontFamily": "Cbi",
+      "identifier": "hoymilesInverter"
+    },
+    "hr1": {
+      "codepoint": 57940,
+      "fontFamily": "Cbi",
+      "identifier": "hr1"
+    },
+    "huawei": {
+      "codepoint": 57941,
+      "fontFamily": "Cbi",
+      "identifier": "huawei"
+    },
+    "huawei-solar-inverter": {
+      "codepoint": 57942,
+      "fontFamily": "Cbi",
+      "identifier": "huaweiSolarInverter"
+    },
+    "hubitat": {
+      "codepoint": 57943,
+      "fontFamily": "Cbi",
+      "identifier": "hubitat"
+    },
+    "hue-only": {
+      "codepoint": 57944,
+      "fontFamily": "Cbi",
+      "identifier": "hueOnly"
+    },
+    "hue-spot-group-v2": {
+      "codepoint": 57945,
+      "fontFamily": "Cbi",
+      "identifier": "hueSpotGroupV2"
+    },
+    "hue-sync-strip": {
+      "codepoint": 57946,
+      "fontFamily": "Cbi",
+      "identifier": "hueSyncStrip"
+    },
+    "hulu": {
+      "codepoint": 57947,
+      "fontFamily": "Cbi",
+      "identifier": "hulu"
+    },
+    "humidity": {
+      "codepoint": 57948,
+      "fontFamily": "Cbi",
+      "identifier": "humidity"
+    },
+    "hydro-qubec": {
+      "codepoint": 57949,
+      "fontFamily": "Cbi",
+      "identifier": "hydroQubec"
+    },
+    "hyundai": {
+      "codepoint": 57950,
+      "fontFamily": "Cbi",
+      "identifier": "hyundai"
+    },
+    "hyundai-alt": {
+      "codepoint": 57951,
+      "fontFamily": "Cbi",
+      "identifier": "hyundaiAlt"
+    },
+    "hyundai-ioniq": {
+      "codepoint": 57952,
+      "fontFamily": "Cbi",
+      "identifier": "hyundaiIoniq"
+    },
+    "ikea-5-spot": {
+      "codepoint": 57953,
+      "fontFamily": "Cbi",
+      "identifier": "ikea5Spot"
+    },
+    "ikea-blind-closed": {
+      "codepoint": 57954,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaBlindClosed"
+    },
+    "ikea-blind-half": {
+      "codepoint": 57955,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaBlindHalf"
+    },
+    "ikea-blind-open": {
+      "codepoint": 57956,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaBlindOpen"
+    },
+    "ikea-blind-remote": {
+      "codepoint": 57957,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaBlindRemote"
+    },
+    "ikea-dejsa": {
+      "codepoint": 57958,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaDejsa"
+    },
+    "ikea-dimmer": {
+      "codepoint": 57959,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaDimmer"
+    },
+    "ikea-fado": {
+      "codepoint": 57960,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaFado"
+    },
+    "ikea-felsisk": {
+      "codepoint": 57961,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaFelsisk"
+    },
+    "ikea-floalt-panel": {
+      "codepoint": 57962,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaFloaltPanel"
+    },
+    "ikea-fornuftig": {
+      "codepoint": 57963,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaFornuftig"
+    },
+    "ikea-gunnarp-panel": {
+      "codepoint": 57964,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaGunnarpPanel"
+    },
+    "ikea-gunnarp-round": {
+      "codepoint": 57965,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaGunnarpRound"
+    },
+    "ikea-haddebo": {
+      "codepoint": 57966,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaHaddebo"
+    },
+    "ikea-hektar3": {
+      "codepoint": 57967,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaHektar3"
+    },
+    "ikea-hogvind": {
+      "codepoint": 57968,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaHogvind"
+    },
+    "ikea-jakobsbyn": {
+      "codepoint": 57969,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaJakobsbyn"
+    },
+    "ikea-kallax1": {
+      "codepoint": 57970,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaKallax1"
+    },
+    "ikea-kallax16": {
+      "codepoint": 57971,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaKallax16"
+    },
+    "ikea-kallax2": {
+      "codepoint": 57972,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaKallax2"
+    },
+    "ikea-kallax2-upright": {
+      "codepoint": 57973,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaKallax2Upright"
+    },
+    "ikea-kallax4": {
+      "codepoint": 57974,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaKallax4"
+    },
+    "ikea-kallax8": {
+      "codepoint": 57975,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaKallax8"
+    },
+    "ikea-musik-horizontal": {
+      "codepoint": 57976,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaMusikHorizontal"
+    },
+    "ikea-musik-vertical": {
+      "codepoint": 57977,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaMusikVertical"
+    },
+    "ikea-paparlamp": {
+      "codepoint": 57978,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaPaparlamp"
+    },
+    "ikea-pilskott": {
+      "codepoint": 57979,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaPilskott"
+    },
+    "ikea-piskott": {
+      "codepoint": 57980,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaPiskott"
+    },
+    "ikea-ps-2014": {
+      "codepoint": 57981,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaPs2014"
+    },
+    "ikea-ps-2014-open": {
+      "codepoint": 57982,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaPs2014Open"
+    },
+    "ikea-remote": {
+      "codepoint": 57983,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaRemote"
+    },
+    "ikea-remtang": {
+      "codepoint": 57984,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaRemtang"
+    },
+    "ikea-remtang2": {
+      "codepoint": 57985,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaRemtang2"
+    },
+    "ikea-risbyn": {
+      "codepoint": 57986,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaRisbyn"
+    },
+    "ikea-sinnerlig": {
+      "codepoint": 57987,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaSinnerlig"
+    },
+    "ikea-solvinden": {
+      "codepoint": 57988,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaSolvinden"
+    },
+    "ikea-starkvind": {
+      "codepoint": 57989,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaStarkvind"
+    },
+    "ikea-tokabo": {
+      "codepoint": 57990,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaTokabo"
+    },
+    "ikea-uppatvind": {
+      "codepoint": 57991,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaUppatvind"
+    },
+    "ikea-varmblixt": {
+      "codepoint": 57992,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaVarmblixt"
+    },
+    "ikea-vidja": {
+      "codepoint": 57993,
+      "fontFamily": "Cbi",
+      "identifier": "ikeaVidja"
+    },
+    "imac": {
+      "codepoint": 57994,
+      "fontFamily": "Cbi",
+      "identifier": "imac"
+    },
+    "immich": {
+      "codepoint": 57995,
+      "fontFamily": "Cbi",
+      "identifier": "immich"
+    },
+    "infiniti": {
+      "codepoint": 57996,
+      "fontFamily": "Cbi",
+      "identifier": "infiniti"
+    },
+    "influxdata": {
+      "codepoint": 57997,
+      "fontFamily": "Cbi",
+      "identifier": "influxdata"
+    },
+    "infuse-pro": {
+      "codepoint": 57998,
+      "fontFamily": "Cbi",
+      "identifier": "infusePro"
+    },
+    "insteon": {
+      "codepoint": 57999,
+      "fontFamily": "Cbi",
+      "identifier": "insteon"
+    },
+    "intel-cpu": {
+      "codepoint": 58000,
+      "fontFamily": "Cbi",
+      "identifier": "intelCpu"
+    },
+    "intel-nuc": {
+      "codepoint": 58001,
+      "fontFamily": "Cbi",
+      "identifier": "intelNuc"
+    },
+    "intex-pool-light": {
+      "codepoint": 58002,
+      "fontFamily": "Cbi",
+      "identifier": "intexPoolLight"
+    },
+    "iosfacetime": {
+      "codepoint": 58003,
+      "fontFamily": "Cbi",
+      "identifier": "iosfacetime"
+    },
+    "iosphotos": {
+      "codepoint": 58004,
+      "fontFamily": "Cbi",
+      "identifier": "iosphotos"
+    },
+    "iossettings": {
+      "codepoint": 58005,
+      "fontFamily": "Cbi",
+      "identifier": "iossettings"
+    },
+    "ipmi2mqtt": {
+      "codepoint": 58006,
+      "fontFamily": "Cbi",
+      "identifier": "ipmi2mqtt"
+    },
+    "iptvx": {
+      "codepoint": 58007,
+      "fontFamily": "Cbi",
+      "identifier": "iptvx"
+    },
+    "iris": {
+      "codepoint": 58008,
+      "fontFamily": "Cbi",
+      "identifier": "iris"
+    },
+    "iris-group": {
+      "codepoint": 58009,
+      "fontFamily": "Cbi",
+      "identifier": "irisGroup"
+    },
+    "irobot": {
+      "codepoint": 58010,
+      "fontFamily": "Cbi",
+      "identifier": "irobot"
+    },
+    "itvx": {
+      "codepoint": 58011,
+      "fontFamily": "Cbi",
+      "identifier": "itvx"
+    },
+    "ivi-tv": {
+      "codepoint": 58012,
+      "fontFamily": "Cbi",
+      "identifier": "iviTv"
+    },
+    "jaguar": {
+      "codepoint": 58013,
+      "fontFamily": "Cbi",
+      "identifier": "jaguar"
+    },
+    "jdownloader": {
+      "codepoint": 58014,
+      "fontFamily": "Cbi",
+      "identifier": "jdownloader"
+    },
+    "jeep": {
+      "codepoint": 58015,
+      "fontFamily": "Cbi",
+      "identifier": "jeep"
+    },
+    "jellyfin": {
+      "codepoint": 58016,
+      "fontFamily": "Cbi",
+      "identifier": "jellyfin"
+    },
+    "jellyseerr": {
+      "codepoint": 58017,
+      "fontFamily": "Cbi",
+      "identifier": "jellyseerr"
+    },
+    "jenkins-logo": {
+      "codepoint": 58018,
+      "fontFamily": "Cbi",
+      "identifier": "jenkinsLogo"
+    },
+    "jiocinema": {
+      "codepoint": 58019,
+      "fontFamily": "Cbi",
+      "identifier": "jiocinema"
+    },
+    "justwatch": {
+      "codepoint": 58020,
+      "fontFamily": "Cbi",
+      "identifier": "justwatch"
+    },
+    "kayo": {
+      "codepoint": 58021,
+      "fontFamily": "Cbi",
+      "identifier": "kayo"
+    },
+    "keenetic": {
+      "codepoint": 58022,
+      "fontFamily": "Cbi",
+      "identifier": "keenetic"
+    },
+    "kia": {
+      "codepoint": 58023,
+      "fontFamily": "Cbi",
+      "identifier": "kia"
+    },
+    "kids-room": {
+      "codepoint": 58024,
+      "fontFamily": "Cbi",
+      "identifier": "kidsRoom"
+    },
+    "kijk": {
+      "codepoint": 58025,
+      "fontFamily": "Cbi",
+      "identifier": "kijk"
+    },
+    "kika": {
+      "codepoint": 58026,
+      "fontFamily": "Cbi",
+      "identifier": "kika"
+    },
+    "kika-alt": {
+      "codepoint": 58027,
+      "fontFamily": "Cbi",
+      "identifier": "kikaAlt"
+    },
+    "kinopoisk": {
+      "codepoint": 58028,
+      "fontFamily": "Cbi",
+      "identifier": "kinopoisk"
+    },
+    "kinopub": {
+      "codepoint": 58029,
+      "fontFamily": "Cbi",
+      "identifier": "kinopub"
+    },
+    "kion-tv": {
+      "codepoint": 58030,
+      "fontFamily": "Cbi",
+      "identifier": "kionTv"
+    },
+    "kitchen": {
+      "codepoint": 58031,
+      "fontFamily": "Cbi",
+      "identifier": "kitchen"
+    },
+    "kitchen-alt": {
+      "codepoint": 58032,
+      "fontFamily": "Cbi",
+      "identifier": "kitchenAlt"
+    },
+    "kitchen-group": {
+      "codepoint": 58033,
+      "fontFamily": "Cbi",
+      "identifier": "kitchenGroup"
+    },
+    "klara": {
+      "codepoint": 58034,
+      "fontFamily": "Cbi",
+      "identifier": "klara"
+    },
+    "knx": {
+      "codepoint": 58035,
+      "fontFamily": "Cbi",
+      "identifier": "knx"
+    },
+    "kodi": {
+      "codepoint": 58036,
+      "fontFamily": "Cbi",
+      "identifier": "kodi"
+    },
+    "koenigsegg": {
+      "codepoint": 58037,
+      "fontFamily": "Cbi",
+      "identifier": "koenigsegg"
+    },
+    "kpn": {
+      "codepoint": 58038,
+      "fontFamily": "Cbi",
+      "identifier": "kpn"
+    },
+    "kuma": {
+      "codepoint": 58039,
+      "fontFamily": "Cbi",
+      "identifier": "kuma"
+    },
+    "lamborghini": {
+      "codepoint": 58040,
+      "fontFamily": "Cbi",
+      "identifier": "lamborghini"
+    },
+    "lamp-bedside-table": {
+      "codepoint": 58041,
+      "fontFamily": "Cbi",
+      "identifier": "lampBedsideTable"
+    },
+    "lamp-bedside-table-2": {
+      "codepoint": 58042,
+      "fontFamily": "Cbi",
+      "identifier": "lampBedsideTable2"
+    },
+    "lampada-parete": {
+      "codepoint": 58043,
+      "fontFamily": "Cbi",
+      "identifier": "lampadaParete"
+    },
+    "lancia": {
+      "codepoint": 58044,
+      "fontFamily": "Cbi",
+      "identifier": "lancia"
+    },
+    "landrover": {
+      "codepoint": 58045,
+      "fontFamily": "Cbi",
+      "identifier": "landrover"
+    },
+    "lapremiere": {
+      "codepoint": 58046,
+      "fontFamily": "Cbi",
+      "identifier": "lapremiere"
+    },
+    "laptop": {
+      "codepoint": 58047,
+      "fontFamily": "Cbi",
+      "identifier": "laptop"
+    },
+    "laptop-windows-alt": {
+      "codepoint": 58048,
+      "fontFamily": "Cbi",
+      "identifier": "laptopWindowsAlt"
+    },
+    "lci": {
+      "codepoint": 58049,
+      "fontFamily": "Cbi",
+      "identifier": "lci"
+    },
+    "lego": {
+      "codepoint": 58050,
+      "fontFamily": "Cbi",
+      "identifier": "lego"
+    },
+    "letsencrypt": {
+      "codepoint": 58051,
+      "fontFamily": "Cbi",
+      "identifier": "letsencrypt"
+    },
+    "lg": {
+      "codepoint": 58052,
+      "fontFamily": "Cbi",
+      "identifier": "lg"
+    },
+    "lg-air-purifier": {
+      "codepoint": 58053,
+      "fontFamily": "Cbi",
+      "identifier": "lgAirPurifier"
+    },
+    "lg-aircon": {
+      "codepoint": 58054,
+      "fontFamily": "Cbi",
+      "identifier": "lgAircon"
+    },
+    "lg-cooker": {
+      "codepoint": 58055,
+      "fontFamily": "Cbi",
+      "identifier": "lgCooker"
+    },
+    "lg-fridge": {
+      "codepoint": 58056,
+      "fontFamily": "Cbi",
+      "identifier": "lgFridge"
+    },
+    "lg-oled55": {
+      "codepoint": 58057,
+      "fontFamily": "Cbi",
+      "identifier": "lgOled55"
+    },
+    "lg-signiture": {
+      "codepoint": 58058,
+      "fontFamily": "Cbi",
+      "identifier": "lgSigniture"
+    },
+    "liane": {
+      "codepoint": 58059,
+      "fontFamily": "Cbi",
+      "identifier": "liane"
+    },
+    "lidl-curved-lamp": {
+      "codepoint": 58060,
+      "fontFamily": "Cbi",
+      "identifier": "lidlCurvedLamp"
+    },
+    "lift-in-window-closed": {
+      "codepoint": 58061,
+      "fontFamily": "Cbi",
+      "identifier": "liftInWindowClosed"
+    },
+    "lift-in-window-open1": {
+      "codepoint": 58062,
+      "fontFamily": "Cbi",
+      "identifier": "liftInWindowOpen1"
+    },
+    "lift-in-window-open2": {
+      "codepoint": 58063,
+      "fontFamily": "Cbi",
+      "identifier": "liftInWindowOpen2"
+    },
+    "lift-out-window-close": {
+      "codepoint": 58064,
+      "fontFamily": "Cbi",
+      "identifier": "liftOutWindowClose"
+    },
+    "lift-out-window-open": {
+      "codepoint": 58065,
+      "fontFamily": "Cbi",
+      "identifier": "liftOutWindowOpen"
+    },
+    "light-string": {
+      "codepoint": 58066,
+      "fontFamily": "Cbi",
+      "identifier": "lightString"
+    },
+    "light-strip": {
+      "codepoint": 58067,
+      "fontFamily": "Cbi",
+      "identifier": "lightStrip"
+    },
+    "lightstrip": {
+      "codepoint": 58068,
+      "fontFamily": "Cbi",
+      "identifier": "lightstrip"
+    },
+    "lightstrip-off": {
+      "codepoint": 58069,
+      "fontFamily": "Cbi",
+      "identifier": "lightstripOff"
+    },
+    "lightstrip-tv": {
+      "codepoint": 58070,
+      "fontFamily": "Cbi",
+      "identifier": "lightstripTv"
+    },
+    "lightstrip-tv-alt": {
+      "codepoint": 58071,
+      "fontFamily": "Cbi",
+      "identifier": "lightstripTvAlt"
+    },
+    "lightstrip-tv-off": {
+      "codepoint": 58072,
+      "fontFamily": "Cbi",
+      "identifier": "lightstripTvOff"
+    },
+    "lightstrip-wrap": {
+      "codepoint": 58073,
+      "fontFamily": "Cbi",
+      "identifier": "lightstripWrap"
+    },
+    "lily": {
+      "codepoint": 58074,
+      "fontFamily": "Cbi",
+      "identifier": "lily"
+    },
+    "lily-alt": {
+      "codepoint": 58075,
+      "fontFamily": "Cbi",
+      "identifier": "lilyAlt"
+    },
+    "lily-two": {
+      "codepoint": 58076,
+      "fontFamily": "Cbi",
+      "identifier": "lilyTwo"
+    },
+    "lily-xl": {
+      "codepoint": 58077,
+      "fontFamily": "Cbi",
+      "identifier": "lilyXl"
+    },
+    "lily-xl-alt": {
+      "codepoint": 58078,
+      "fontFamily": "Cbi",
+      "identifier": "lilyXlAlt"
+    },
     "linksys": {
-      "codepoint": 57375,
+      "codepoint": 58079,
       "fontFamily": "Cbi",
       "identifier": "linksys"
     },
+    "linktap": {
+      "codepoint": 58080,
+      "fontFamily": "Cbi",
+      "identifier": "linktap"
+    },
+    "lit-house-number": {
+      "codepoint": 58081,
+      "fontFamily": "Cbi",
+      "identifier": "litHouseNumber"
+    },
+    "litter-robot": {
+      "codepoint": 58082,
+      "fontFamily": "Cbi",
+      "identifier": "litterRobot"
+    },
+    "litter-robot-empty": {
+      "codepoint": 58083,
+      "fontFamily": "Cbi",
+      "identifier": "litterRobotEmpty"
+    },
+    "living-room": {
+      "codepoint": 58084,
+      "fontFamily": "Cbi",
+      "identifier": "livingRoom"
+    },
+    "livingroom-group": {
+      "codepoint": 58085,
+      "fontFamily": "Cbi",
+      "identifier": "livingroomGroup"
+    },
+    "lotus": {
+      "codepoint": 58086,
+      "fontFamily": "Cbi",
+      "identifier": "lotus"
+    },
+    "lr-defender": {
+      "codepoint": 58087,
+      "fontFamily": "Cbi",
+      "identifier": "lrDefender"
+    },
+    "ls-spot-iris-group-v2": {
+      "codepoint": 58088,
+      "fontFamily": "Cbi",
+      "identifier": "lsSpotIrisGroupV2"
+    },
+    "ls-sultan-iris-group-v2": {
+      "codepoint": 58089,
+      "fontFamily": "Cbi",
+      "identifier": "lsSultanIrisGroupV2"
+    },
+    "lucid": {
+      "codepoint": 58090,
+      "fontFamily": "Cbi",
+      "identifier": "lucid"
+    },
+    "luna": {
+      "codepoint": 58091,
+      "fontFamily": "Cbi",
+      "identifier": "luna"
+    },
+    "luna-alt": {
+      "codepoint": 58092,
+      "fontFamily": "Cbi",
+      "identifier": "lunaAlt"
+    },
+    "lyrion": {
+      "codepoint": 58093,
+      "fontFamily": "Cbi",
+      "identifier": "lyrion"
+    },
+    "ma-lighting": {
+      "codepoint": 58094,
+      "fontFamily": "Cbi",
+      "identifier": "maLighting"
+    },
+    "ma-lighting-3": {
+      "codepoint": 58095,
+      "fontFamily": "Cbi",
+      "identifier": "maLighting3"
+    },
+    "magentatv": {
+      "codepoint": 58096,
+      "fontFamily": "Cbi",
+      "identifier": "magentatv"
+    },
+    "magentatv-alt": {
+      "codepoint": 58097,
+      "fontFamily": "Cbi",
+      "identifier": "magentatvAlt"
+    },
     "mainsail": {
-      "codepoint": 57376,
+      "codepoint": 58098,
       "fontFamily": "Cbi",
       "identifier": "mainsail"
     },
+    "mammotion": {
+      "codepoint": 58099,
+      "fontFamily": "Cbi",
+      "identifier": "mammotion"
+    },
+    "marks-sparks": {
+      "codepoint": 58100,
+      "fontFamily": "Cbi",
+      "identifier": "marksSparks"
+    },
+    "marquee-shutter": {
+      "codepoint": 58101,
+      "fontFamily": "Cbi",
+      "identifier": "marqueeShutter"
+    },
+    "marvel": {
+      "codepoint": 58102,
+      "fontFamily": "Cbi",
+      "identifier": "marvel"
+    },
+    "maserati": {
+      "codepoint": 58103,
+      "fontFamily": "Cbi",
+      "identifier": "maserati"
+    },
+    "matter": {
+      "codepoint": 58104,
+      "fontFamily": "Cbi",
+      "identifier": "matter"
+    },
+    "max": {
+      "codepoint": 58105,
+      "fontFamily": "Cbi",
+      "identifier": "max"
+    },
+    "maxdome": {
+      "codepoint": 58106,
+      "fontFamily": "Cbi",
+      "identifier": "maxdome"
+    },
+    "mazda": {
+      "codepoint": 58107,
+      "fontFamily": "Cbi",
+      "identifier": "mazda"
+    },
+    "mclaren": {
+      "codepoint": 58108,
+      "fontFamily": "Cbi",
+      "identifier": "mclaren"
+    },
+    "mdr1": {
+      "codepoint": 58109,
+      "fontFamily": "Cbi",
+      "identifier": "mdr1"
+    },
+    "mediaset-infinity": {
+      "codepoint": 58110,
+      "fontFamily": "Cbi",
+      "identifier": "mediasetInfinity"
+    },
+    "mercadona": {
+      "codepoint": 58111,
+      "fontFamily": "Cbi",
+      "identifier": "mercadona"
+    },
+    "mercedes": {
+      "codepoint": 58112,
+      "fontFamily": "Cbi",
+      "identifier": "mercedes"
+    },
     "merx-ipc-horizon-bullet": {
-      "codepoint": 57377,
+      "codepoint": 58113,
       "fontFamily": "Cbi",
       "identifier": "merxIpcHorizonBullet"
     },
+    "merx-ipc-horizon-dome": {
+      "codepoint": 58114,
+      "fontFamily": "Cbi",
+      "identifier": "merxIpcHorizonDome"
+    },
+    "merx-ipc-horizon-dome-alt": {
+      "codepoint": 58115,
+      "fontFamily": "Cbi",
+      "identifier": "merxIpcHorizonDomeAlt"
+    },
+    "metube": {
+      "codepoint": 58116,
+      "fontFamily": "Cbi",
+      "identifier": "metube"
+    },
+    "metv": {
+      "codepoint": 58117,
+      "fontFamily": "Cbi",
+      "identifier": "metv"
+    },
+    "mg": {
+      "codepoint": 58118,
+      "fontFamily": "Cbi",
+      "identifier": "mg"
+    },
+    "mi-bedside-lamp2": {
+      "codepoint": 58119,
+      "fontFamily": "Cbi",
+      "identifier": "miBedsideLamp2"
+    },
+    "miele-scout": {
+      "codepoint": 58120,
+      "fontFamily": "Cbi",
+      "identifier": "mieleScout"
+    },
+    "mikrotik": {
+      "codepoint": 58121,
+      "fontFamily": "Cbi",
+      "identifier": "mikrotik"
+    },
+    "mini": {
+      "codepoint": 58122,
+      "fontFamily": "Cbi",
+      "identifier": "mini"
+    },
+    "mini-bmw": {
+      "codepoint": 58123,
+      "fontFamily": "Cbi",
+      "identifier": "miniBmw"
+    },
+    "mini-camera": {
+      "codepoint": 58124,
+      "fontFamily": "Cbi",
+      "identifier": "miniCamera"
+    },
     "mitsubishi": {
-      "codepoint": 57378,
+      "codepoint": 58125,
       "fontFamily": "Cbi",
       "identifier": "mitsubishi"
     },
+    "modbus": {
+      "codepoint": 58126,
+      "fontFamily": "Cbi",
+      "identifier": "modbus"
+    },
+    "model-s": {
+      "codepoint": 58127,
+      "fontFamily": "Cbi",
+      "identifier": "modelS"
+    },
+    "model-s-charge": {
+      "codepoint": 58128,
+      "fontFamily": "Cbi",
+      "identifier": "modelSCharge"
+    },
+    "model-s-charge-side": {
+      "codepoint": 58129,
+      "fontFamily": "Cbi",
+      "identifier": "modelSChargeSide"
+    },
+    "model-s-side": {
+      "codepoint": 58130,
+      "fontFamily": "Cbi",
+      "identifier": "modelSSide"
+    },
+    "model-x-charge": {
+      "codepoint": 58131,
+      "fontFamily": "Cbi",
+      "identifier": "modelXCharge"
+    },
+    "model-x-open": {
+      "codepoint": 58132,
+      "fontFamily": "Cbi",
+      "identifier": "modelXOpen"
+    },
+    "moes-4way": {
+      "codepoint": 58133,
+      "fontFamily": "Cbi",
+      "identifier": "moes4way"
+    },
+    "moes-switch-dual": {
+      "codepoint": 58134,
+      "fontFamily": "Cbi",
+      "identifier": "moesSwitchDual"
+    },
+    "moes-switch-single": {
+      "codepoint": 58135,
+      "fontFamily": "Cbi",
+      "identifier": "moesSwitchSingle"
+    },
+    "moes-switch-triple": {
+      "codepoint": 58136,
+      "fontFamily": "Cbi",
+      "identifier": "moesSwitchTriple"
+    },
+    "moisture": {
+      "codepoint": 58137,
+      "fontFamily": "Cbi",
+      "identifier": "moisture"
+    },
+    "molotovtv": {
+      "codepoint": 58138,
+      "fontFamily": "Cbi",
+      "identifier": "molotovtv"
+    },
+    "monit": {
+      "codepoint": 58139,
+      "fontFamily": "Cbi",
+      "identifier": "monit"
+    },
+    "monzo": {
+      "codepoint": 58140,
+      "fontFamily": "Cbi",
+      "identifier": "monzo"
+    },
+    "moonlight": {
+      "codepoint": 58141,
+      "fontFamily": "Cbi",
+      "identifier": "moonlight"
+    },
+    "more-tv": {
+      "codepoint": 58142,
+      "fontFamily": "Cbi",
+      "identifier": "moreTv"
+    },
+    "mosquitto": {
+      "codepoint": 58143,
+      "fontFamily": "Cbi",
+      "identifier": "mosquitto"
+    },
+    "motion-sensor": {
+      "codepoint": 58144,
+      "fontFamily": "Cbi",
+      "identifier": "motionSensor"
+    },
+    "motion-sensor-luminance": {
+      "codepoint": 58145,
+      "fontFamily": "Cbi",
+      "identifier": "motionSensorLuminance"
+    },
+    "motion-sensor-luminance-alt": {
+      "codepoint": 58146,
+      "fontFamily": "Cbi",
+      "identifier": "motionSensorLuminanceAlt"
+    },
+    "motion-sensor-temperature": {
+      "codepoint": 58147,
+      "fontFamily": "Cbi",
+      "identifier": "motionSensorTemperature"
+    },
+    "motionsensor": {
+      "codepoint": 58148,
+      "fontFamily": "Cbi",
+      "identifier": "motionsensor"
+    },
+    "motogp": {
+      "codepoint": 58149,
+      "fontFamily": "Cbi",
+      "identifier": "motogp"
+    },
+    "movies-anywhere": {
+      "codepoint": 58150,
+      "fontFamily": "Cbi",
+      "identifier": "moviesAnywhere"
+    },
+    "movies-anywhere-text": {
+      "codepoint": 58151,
+      "fontFamily": "Cbi",
+      "identifier": "moviesAnywhereText"
+    },
+    "movies-anywhere-text-vertical": {
+      "codepoint": 58152,
+      "fontFamily": "Cbi",
+      "identifier": "moviesAnywhereTextVertical"
+    },
+    "movistar-plus": {
+      "codepoint": 58153,
+      "fontFamily": "Cbi",
+      "identifier": "movistarPlus"
+    },
+    "mqtt": {
+      "codepoint": 58154,
+      "fontFamily": "Cbi",
+      "identifier": "mqtt"
+    },
     "mqttx": {
-      "codepoint": 57379,
+      "codepoint": 58155,
       "fontFamily": "Cbi",
       "identifier": "mqttx"
     },
+    "mustang": {
+      "codepoint": 58156,
+      "fontFamily": "Cbi",
+      "identifier": "mustang"
+    },
+    "my-canal": {
+      "codepoint": 58157,
+      "fontFamily": "Cbi",
+      "identifier": "myCanal"
+    },
+    "myenergi": {
+      "codepoint": 58158,
+      "fontFamily": "Cbi",
+      "identifier": "myenergi"
+    },
+    "mysa-thermostat": {
+      "codepoint": 58159,
+      "fontFamily": "Cbi",
+      "identifier": "mysaThermostat"
+    },
+    "n64": {
+      "codepoint": 58160,
+      "fontFamily": "Cbi",
+      "identifier": "n64"
+    },
+    "nanoleaf": {
+      "codepoint": 58161,
+      "fontFamily": "Cbi",
+      "identifier": "nanoleaf"
+    },
+    "nanoleaf-black-hexagons": {
+      "codepoint": 58162,
+      "fontFamily": "Cbi",
+      "identifier": "nanoleafBlackHexagons"
+    },
+    "nanoleaf-blocks": {
+      "codepoint": 58163,
+      "fontFamily": "Cbi",
+      "identifier": "nanoleafBlocks"
+    },
+    "nanoleaf-bulb": {
+      "codepoint": 58164,
+      "fontFamily": "Cbi",
+      "identifier": "nanoleafBulb"
+    },
+    "nanoleaf-cup": {
+      "codepoint": 58165,
+      "fontFamily": "Cbi",
+      "identifier": "nanoleafCup"
+    },
+    "nanoleaf-expo-display": {
+      "codepoint": 58166,
+      "fontFamily": "Cbi",
+      "identifier": "nanoleafExpoDisplay"
+    },
+    "nanoleaf-floorlamp": {
+      "codepoint": 58167,
+      "fontFamily": "Cbi",
+      "identifier": "nanoleafFloorlamp"
+    },
+    "nanoleaf-holiday-string": {
+      "codepoint": 58168,
+      "fontFamily": "Cbi",
+      "identifier": "nanoleafHolidayString"
+    },
+    "nanoleaf-lines": {
+      "codepoint": 58169,
+      "fontFamily": "Cbi",
+      "identifier": "nanoleafLines"
+    },
+    "nanoleaf-multcolor-strip": {
+      "codepoint": 58170,
+      "fontFamily": "Cbi",
+      "identifier": "nanoleafMultcolorStrip"
+    },
+    "nanoleaf-outdoor-string": {
+      "codepoint": 58171,
+      "fontFamily": "Cbi",
+      "identifier": "nanoleafOutdoorString"
+    },
+    "nanoleaf-pegboard": {
+      "codepoint": 58172,
+      "fontFamily": "Cbi",
+      "identifier": "nanoleafPegboard"
+    },
+    "nanoleaf-permanent-outdoor-light": {
+      "codepoint": 58173,
+      "fontFamily": "Cbi",
+      "identifier": "nanoleafPermanentOutdoorLight"
+    },
+    "nanoleaf-recessed": {
+      "codepoint": 58174,
+      "fontFamily": "Cbi",
+      "identifier": "nanoleafRecessed"
+    },
+    "nanoleaf-ropelight": {
+      "codepoint": 58175,
+      "fontFamily": "Cbi",
+      "identifier": "nanoleafRopelight"
+    },
+    "nanoleaf-screen-lights": {
+      "codepoint": 58176,
+      "fontFamily": "Cbi",
+      "identifier": "nanoleafScreenLights"
+    },
+    "nanoleaf-secretlabs": {
+      "codepoint": 58177,
+      "fontFamily": "Cbi",
+      "identifier": "nanoleafSecretlabs"
+    },
+    "nanoleaf-sense-plus": {
+      "codepoint": 58178,
+      "fontFamily": "Cbi",
+      "identifier": "nanoleafSensePlus"
+    },
+    "nanoleaf-shapes": {
+      "codepoint": 58179,
+      "fontFamily": "Cbi",
+      "identifier": "nanoleafShapes"
+    },
+    "nanoleaf-umbra-cono": {
+      "codepoint": 58180,
+      "fontFamily": "Cbi",
+      "identifier": "nanoleafUmbraCono"
+    },
+    "nas": {
+      "codepoint": 58181,
+      "fontFamily": "Cbi",
+      "identifier": "nas"
+    },
+    "nas-v2": {
+      "codepoint": 58182,
+      "fontFamily": "Cbi",
+      "identifier": "nasV2"
+    },
+    "nautical-lamp": {
+      "codepoint": 58183,
+      "fontFamily": "Cbi",
+      "identifier": "nauticalLamp"
+    },
+    "navidrome": {
+      "codepoint": 58184,
+      "fontFamily": "Cbi",
+      "identifier": "navidrome"
+    },
+    "nbc": {
+      "codepoint": 58185,
+      "fontFamily": "Cbi",
+      "identifier": "nbc"
+    },
+    "ndr1": {
+      "codepoint": 58186,
+      "fontFamily": "Cbi",
+      "identifier": "ndr1"
+    },
+    "neon": {
+      "codepoint": 58187,
+      "fontFamily": "Cbi",
+      "identifier": "neon"
+    },
+    "neon-closed": {
+      "codepoint": 58188,
+      "fontFamily": "Cbi",
+      "identifier": "neonClosed"
+    },
+    "neon-open": {
+      "codepoint": 58189,
+      "fontFamily": "Cbi",
+      "identifier": "neonOpen"
+    },
+    "nes-console": {
+      "codepoint": 58190,
+      "fontFamily": "Cbi",
+      "identifier": "nesConsole"
+    },
+    "nest-audio": {
+      "codepoint": 58191,
+      "fontFamily": "Cbi",
+      "identifier": "nestAudio"
+    },
+    "nest-hub": {
+      "codepoint": 58192,
+      "fontFamily": "Cbi",
+      "identifier": "nestHub"
+    },
+    "nest-mini": {
+      "codepoint": 58193,
+      "fontFamily": "Cbi",
+      "identifier": "nestMini"
+    },
+    "nest-mini-alt": {
+      "codepoint": 58194,
+      "fontFamily": "Cbi",
+      "identifier": "nestMiniAlt"
+    },
+    "nest-wifi-repeater": {
+      "codepoint": 58195,
+      "fontFamily": "Cbi",
+      "identifier": "nestWifiRepeater"
+    },
+    "nest-wifi-router": {
+      "codepoint": 58196,
+      "fontFamily": "Cbi",
+      "identifier": "nestWifiRouter"
+    },
     "netapp": {
-      "codepoint": 57380,
+      "codepoint": 58197,
       "fontFamily": "Cbi",
       "identifier": "netapp"
     },
+    "netflix": {
+      "codepoint": 58198,
+      "fontFamily": "Cbi",
+      "identifier": "netflix"
+    },
+    "netflix-alt": {
+      "codepoint": 58199,
+      "fontFamily": "Cbi",
+      "identifier": "netflixAlt"
+    },
+    "netgear-switch": {
+      "codepoint": 58200,
+      "fontFamily": "Cbi",
+      "identifier": "netgearSwitch"
+    },
+    "next-hub-max": {
+      "codepoint": 58201,
+      "fontFamily": "Cbi",
+      "identifier": "nextHubMax"
+    },
     "nextcloud": {
-      "codepoint": 57381,
+      "codepoint": 58202,
       "fontFamily": "Cbi",
       "identifier": "nextcloud"
     },
+    "nexxt": {
+      "codepoint": 58203,
+      "fontFamily": "Cbi",
+      "identifier": "nexxt"
+    },
+    "nginx-proxy-manager": {
+      "codepoint": 58204,
+      "fontFamily": "Cbi",
+      "identifier": "nginxProxyManager"
+    },
+    "nighthawk": {
+      "codepoint": 58205,
+      "fontFamily": "Cbi",
+      "identifier": "nighthawk"
+    },
+    "nintendo-switch-logo": {
+      "codepoint": 58206,
+      "fontFamily": "Cbi",
+      "identifier": "nintendoSwitchLogo"
+    },
+    "nio": {
+      "codepoint": 58207,
+      "fontFamily": "Cbi",
+      "identifier": "nio"
+    },
+    "nissan": {
+      "codepoint": 58208,
+      "fontFamily": "Cbi",
+      "identifier": "nissan"
+    },
+    "nlziet": {
+      "codepoint": 58209,
+      "fontFamily": "Cbi",
+      "identifier": "nlziet"
+    },
+    "no2": {
+      "codepoint": 58210,
+      "fontFamily": "Cbi",
+      "identifier": "no2"
+    },
+    "nodered": {
+      "codepoint": 58211,
+      "fontFamily": "Cbi",
+      "identifier": "nodered"
+    },
+    "noip": {
+      "codepoint": 58212,
+      "fontFamily": "Cbi",
+      "identifier": "noip"
+    },
+    "nowtv": {
+      "codepoint": 58213,
+      "fontFamily": "Cbi",
+      "identifier": "nowtv"
+    },
+    "nox": {
+      "codepoint": 58214,
+      "fontFamily": "Cbi",
+      "identifier": "nox"
+    },
+    "npo": {
+      "codepoint": 58215,
+      "fontFamily": "Cbi",
+      "identifier": "npo"
+    },
+    "nrk": {
+      "codepoint": 58216,
+      "fontFamily": "Cbi",
+      "identifier": "nrk"
+    },
+    "nrkradio": {
+      "codepoint": 58217,
+      "fontFamily": "Cbi",
+      "identifier": "nrkradio"
+    },
+    "nspro-panel": {
+      "codepoint": 58218,
+      "fontFamily": "Cbi",
+      "identifier": "nsproPanel"
+    },
+    "nuki": {
+      "codepoint": 58219,
+      "fontFamily": "Cbi",
+      "identifier": "nuki"
+    },
+    "nut": {
+      "codepoint": 58220,
+      "fontFamily": "Cbi",
+      "identifier": "nut"
+    },
+    "nvidia-geforce": {
+      "codepoint": 58221,
+      "fontFamily": "Cbi",
+      "identifier": "nvidiaGeforce"
+    },
+    "nvidia-shield": {
+      "codepoint": 58222,
+      "fontFamily": "Cbi",
+      "identifier": "nvidiaShield"
+    },
+    "oauth": {
+      "codepoint": 58223,
+      "fontFamily": "Cbi",
+      "identifier": "oauth"
+    },
+    "octoprint": {
+      "codepoint": 58224,
+      "fontFamily": "Cbi",
+      "identifier": "octoprint"
+    },
+    "octopusenergy": {
+      "codepoint": 58225,
+      "fontFamily": "Cbi",
+      "identifier": "octopusenergy"
+    },
     "odido": {
-      "codepoint": 57382,
+      "codepoint": 58226,
       "fontFamily": "Cbi",
       "identifier": "odido"
     },
+    "odometer": {
+      "codepoint": 58227,
+      "fontFamily": "Cbi",
+      "identifier": "odometer"
+    },
+    "office": {
+      "codepoint": 58228,
+      "fontFamily": "Cbi",
+      "identifier": "office"
+    },
+    "oi-tv": {
+      "codepoint": 58229,
+      "fontFamily": "Cbi",
+      "identifier": "oiTv"
+    },
+    "okko-tv": {
+      "codepoint": 58230,
+      "fontFamily": "Cbi",
+      "identifier": "okkoTv"
+    },
+    "okoo": {
+      "codepoint": 58231,
+      "fontFamily": "Cbi",
+      "identifier": "okoo"
+    },
+    "ollama": {
+      "codepoint": 58232,
+      "fontFamily": "Cbi",
+      "identifier": "ollama"
+    },
+    "olympic-rings": {
+      "codepoint": 58233,
+      "fontFamily": "Cbi",
+      "identifier": "olympicRings"
+    },
+    "omada": {
+      "codepoint": 58234,
+      "fontFamily": "Cbi",
+      "identifier": "omada"
+    },
+    "ondemand-aus": {
+      "codepoint": 58235,
+      "fontFamily": "Cbi",
+      "identifier": "ondemandAus"
+    },
+    "one": {
+      "codepoint": 58236,
+      "fontFamily": "Cbi",
+      "identifier": "one"
+    },
+    "onkyo": {
+      "codepoint": 58237,
+      "fontFamily": "Cbi",
+      "identifier": "onkyo"
+    },
+    "opel": {
+      "codepoint": 58238,
+      "fontFamily": "Cbi",
+      "identifier": "opel"
+    },
+    "openhasp": {
+      "codepoint": 58239,
+      "fontFamily": "Cbi",
+      "identifier": "openhasp"
+    },
+    "openmediavault": {
+      "codepoint": 58240,
+      "fontFamily": "Cbi",
+      "identifier": "openmediavault"
+    },
+    "openwrt-logo": {
+      "codepoint": 58241,
+      "fontFamily": "Cbi",
+      "identifier": "openwrtLogo"
+    },
+    "opnsense": {
+      "codepoint": 58242,
+      "fontFamily": "Cbi",
+      "identifier": "opnsense"
+    },
+    "oqee": {
+      "codepoint": 58243,
+      "fontFamily": "Cbi",
+      "identifier": "oqee"
+    },
+    "orangetv": {
+      "codepoint": 58244,
+      "fontFamily": "Cbi",
+      "identifier": "orangetv"
+    },
+    "orbi": {
+      "codepoint": 58245,
+      "fontFamily": "Cbi",
+      "identifier": "orbi"
+    },
+    "other-reading": {
+      "codepoint": 58246,
+      "fontFamily": "Cbi",
+      "identifier": "otherReading"
+    },
+    "other-watching-movie": {
+      "codepoint": 58247,
+      "fontFamily": "Cbi",
+      "identifier": "otherWatchingMovie"
+    },
     "oura-o": {
-      "codepoint": 57383,
+      "codepoint": 58248,
       "fontFamily": "Cbi",
       "identifier": "ouraO"
     },
+    "outdoor-motion": {
+      "codepoint": 58249,
+      "fontFamily": "Cbi",
+      "identifier": "outdoorMotion"
+    },
+    "outdoor-motion-sensor-temperature": {
+      "codepoint": 58250,
+      "fontFamily": "Cbi",
+      "identifier": "outdoorMotionSensorTemperature"
+    },
+    "outside": {
+      "codepoint": 58251,
+      "fontFamily": "Cbi",
+      "identifier": "outside"
+    },
+    "outside-temp": {
+      "codepoint": 58252,
+      "fontFamily": "Cbi",
+      "identifier": "outsideTemp"
+    },
+    "overseerr": {
+      "codepoint": 58253,
+      "fontFamily": "Cbi",
+      "identifier": "overseerr"
+    },
+    "ovhcloud": {
+      "codepoint": 58254,
+      "fontFamily": "Cbi",
+      "identifier": "ovhcloud"
+    },
+    "ovo": {
+      "codepoint": 58255,
+      "fontFamily": "Cbi",
+      "identifier": "ovo"
+    },
+    "p1s": {
+      "codepoint": 58256,
+      "fontFamily": "Cbi",
+      "identifier": "p1s"
+    },
+    "pagani": {
+      "codepoint": 58257,
+      "fontFamily": "Cbi",
+      "identifier": "pagani"
+    },
+    "panasonic": {
+      "codepoint": 58258,
+      "fontFamily": "Cbi",
+      "identifier": "panasonic"
+    },
+    "pandatag": {
+      "codepoint": 58259,
+      "fontFamily": "Cbi",
+      "identifier": "pandatag"
+    },
+    "panel-door-close": {
+      "codepoint": 58260,
+      "fontFamily": "Cbi",
+      "identifier": "panelDoorClose"
+    },
+    "panel-door-locked": {
+      "codepoint": 58261,
+      "fontFamily": "Cbi",
+      "identifier": "panelDoorLocked"
+    },
+    "panel-door-open": {
+      "codepoint": 58262,
+      "fontFamily": "Cbi",
+      "identifier": "panelDoorOpen"
+    },
+    "panel-front-door-locked": {
+      "codepoint": 58263,
+      "fontFamily": "Cbi",
+      "identifier": "panelFrontDoorLocked"
+    },
+    "panel-frontdoor-close": {
+      "codepoint": 58264,
+      "fontFamily": "Cbi",
+      "identifier": "panelFrontdoorClose"
+    },
+    "panel-frontdoor-open": {
+      "codepoint": 58265,
+      "fontFamily": "Cbi",
+      "identifier": "panelFrontdoorOpen"
+    },
+    "panel-glass-door-2-locked": {
+      "codepoint": 58266,
+      "fontFamily": "Cbi",
+      "identifier": "panelGlassDoor2Locked"
+    },
+    "panel-glass-door-3-locked": {
+      "codepoint": 58267,
+      "fontFamily": "Cbi",
+      "identifier": "panelGlassDoor3Locked"
+    },
+    "panel-glass-door-4-locked": {
+      "codepoint": 58268,
+      "fontFamily": "Cbi",
+      "identifier": "panelGlassDoor4Locked"
+    },
+    "panel-glass-door-close": {
+      "codepoint": 58269,
+      "fontFamily": "Cbi",
+      "identifier": "panelGlassDoorClose"
+    },
+    "panel-glass-door-locked": {
+      "codepoint": 58270,
+      "fontFamily": "Cbi",
+      "identifier": "panelGlassDoorLocked"
+    },
+    "panel-glass-door-open": {
+      "codepoint": 58271,
+      "fontFamily": "Cbi",
+      "identifier": "panelGlassDoorOpen"
+    },
+    "panel-glass-door2-close": {
+      "codepoint": 58272,
+      "fontFamily": "Cbi",
+      "identifier": "panelGlassDoor2Close"
+    },
+    "panel-glass-door2-open": {
+      "codepoint": 58273,
+      "fontFamily": "Cbi",
+      "identifier": "panelGlassDoor2Open"
+    },
+    "panel-glass-door3-close": {
+      "codepoint": 58274,
+      "fontFamily": "Cbi",
+      "identifier": "panelGlassDoor3Close"
+    },
+    "panel-glass-door3-open": {
+      "codepoint": 58275,
+      "fontFamily": "Cbi",
+      "identifier": "panelGlassDoor3Open"
+    },
+    "panel-glass-side-door-locked": {
+      "codepoint": 58276,
+      "fontFamily": "Cbi",
+      "identifier": "panelGlassSideDoorLocked"
+    },
+    "panel-glassdoor-close": {
+      "codepoint": 58277,
+      "fontFamily": "Cbi",
+      "identifier": "panelGlassdoorClose"
+    },
+    "panel-glassdoor-open": {
+      "codepoint": 58278,
+      "fontFamily": "Cbi",
+      "identifier": "panelGlassdoorOpen"
+    },
+    "panel-oven": {
+      "codepoint": 58279,
+      "fontFamily": "Cbi",
+      "identifier": "panelOven"
+    },
+    "paramount": {
+      "codepoint": 58280,
+      "fontFamily": "Cbi",
+      "identifier": "paramount"
+    },
+    "pathe": {
+      "codepoint": 58281,
+      "fontFamily": "Cbi",
+      "identifier": "pathe"
+    },
+    "patio-doors-closed": {
+      "codepoint": 58282,
+      "fontFamily": "Cbi",
+      "identifier": "patioDoorsClosed"
+    },
+    "patio-doors-open": {
+      "codepoint": 58283,
+      "fontFamily": "Cbi",
+      "identifier": "patioDoorsOpen"
+    },
+    "pbs": {
+      "codepoint": 58284,
+      "fontFamily": "Cbi",
+      "identifier": "pbs"
+    },
+    "peacock": {
+      "codepoint": 58285,
+      "fontFamily": "Cbi",
+      "identifier": "peacock"
+    },
+    "peas": {
+      "codepoint": 58286,
+      "fontFamily": "Cbi",
+      "identifier": "peas"
+    },
+    "pedastal-fan": {
+      "codepoint": 58287,
+      "fontFamily": "Cbi",
+      "identifier": "pedastalFan"
+    },
+    "pedastal-fan-hollow": {
+      "codepoint": 58288,
+      "fontFamily": "Cbi",
+      "identifier": "pedastalFanHollow"
+    },
+    "pedestal": {
+      "codepoint": 58289,
+      "fontFamily": "Cbi",
+      "identifier": "pedestal"
+    },
+    "peloton": {
+      "codepoint": 58290,
+      "fontFamily": "Cbi",
+      "identifier": "peloton"
+    },
+    "pendant-being": {
+      "codepoint": 58291,
+      "fontFamily": "Cbi",
+      "identifier": "pendantBeing"
+    },
+    "pendant-cher": {
+      "codepoint": 58292,
+      "fontFamily": "Cbi",
+      "identifier": "pendantCher"
+    },
+    "pendant-devote-solid": {
+      "codepoint": 58293,
+      "fontFamily": "Cbi",
+      "identifier": "pendantDevoteSolid"
+    },
+    "pendant-devote-three-solid": {
+      "codepoint": 58294,
+      "fontFamily": "Cbi",
+      "identifier": "pendantDevoteThreeSolid"
+    },
+    "pendant-devote-two-solid": {
+      "codepoint": 58295,
+      "fontFamily": "Cbi",
+      "identifier": "pendantDevoteTwoSolid"
+    },
+    "pendant-long": {
+      "codepoint": 58296,
+      "fontFamily": "Cbi",
+      "identifier": "pendantLong"
+    },
+    "pendant-long-up": {
+      "codepoint": 58297,
+      "fontFamily": "Cbi",
+      "identifier": "pendantLongUp"
+    },
+    "pendant-muscari": {
+      "codepoint": 58298,
+      "fontFamily": "Cbi",
+      "identifier": "pendantMuscari"
+    },
+    "pendant-round": {
+      "codepoint": 58299,
+      "fontFamily": "Cbi",
+      "identifier": "pendantRound"
+    },
+    "pendantlong": {
+      "codepoint": 58300,
+      "fontFamily": "Cbi",
+      "identifier": "pendantlong"
+    },
+    "pendantround": {
+      "codepoint": 58301,
+      "fontFamily": "Cbi",
+      "identifier": "pendantround"
+    },
+    "peppers": {
+      "codepoint": 58302,
+      "fontFamily": "Cbi",
+      "identifier": "peppers"
+    },
+    "perfect-draft": {
+      "codepoint": 58303,
+      "fontFamily": "Cbi",
+      "identifier": "perfectDraft"
+    },
+    "perifo-spot": {
+      "codepoint": 58304,
+      "fontFamily": "Cbi",
+      "identifier": "perifoSpot"
+    },
+    "petflap-closed": {
+      "codepoint": 58305,
+      "fontFamily": "Cbi",
+      "identifier": "petflapClosed"
+    },
+    "petflap-open": {
+      "codepoint": 58306,
+      "fontFamily": "Cbi",
+      "identifier": "petflapOpen"
+    },
+    "peugeot": {
+      "codepoint": 58307,
+      "fontFamily": "Cbi",
+      "identifier": "peugeot"
+    },
+    "peugeot-alt": {
+      "codepoint": 58308,
+      "fontFamily": "Cbi",
+      "identifier": "peugeotAlt"
+    },
+    "pfsense-logo": {
+      "codepoint": 58309,
+      "fontFamily": "Cbi",
+      "identifier": "pfsenseLogo"
+    },
+    "phantom": {
+      "codepoint": 58310,
+      "fontFamily": "Cbi",
+      "identifier": "phantom"
+    },
+    "phantom-pair": {
+      "codepoint": 58311,
+      "fontFamily": "Cbi",
+      "identifier": "phantomPair"
+    },
+    "phoenix": {
+      "codepoint": 58312,
+      "fontFamily": "Cbi",
+      "identifier": "phoenix"
+    },
+    "phoenix-pendant": {
+      "codepoint": 58313,
+      "fontFamily": "Cbi",
+      "identifier": "phoenixPendant"
+    },
+    "phoenix-plafond": {
+      "codepoint": 58314,
+      "fontFamily": "Cbi",
+      "identifier": "phoenixPlafond"
+    },
+    "phoenix-semiflush": {
+      "codepoint": 58315,
+      "fontFamily": "Cbi",
+      "identifier": "phoenixSemiflush"
+    },
+    "phoenix-table": {
+      "codepoint": 58316,
+      "fontFamily": "Cbi",
+      "identifier": "phoenixTable"
+    },
+    "phoscon": {
+      "codepoint": 58317,
+      "fontFamily": "Cbi",
+      "identifier": "phoscon"
+    },
+    "piano": {
+      "codepoint": 58318,
+      "fontFamily": "Cbi",
+      "identifier": "piano"
+    },
+    "pillar-impress": {
+      "codepoint": 58319,
+      "fontFamily": "Cbi",
+      "identifier": "pillarImpress"
+    },
+    "pillar-impress-short": {
+      "codepoint": 58320,
+      "fontFamily": "Cbi",
+      "identifier": "pillarImpressShort"
+    },
     "pillar-nyro": {
-      "codepoint": 57384,
+      "codepoint": 58321,
       "fontFamily": "Cbi",
       "identifier": "pillarNyro"
     },
+    "pillar-spot": {
+      "codepoint": 58322,
+      "fontFamily": "Cbi",
+      "identifier": "pillarSpot"
+    },
+    "pillar-spot-2": {
+      "codepoint": 58323,
+      "fontFamily": "Cbi",
+      "identifier": "pillarSpot2"
+    },
+    "pillar-spot-3": {
+      "codepoint": 58324,
+      "fontFamily": "Cbi",
+      "identifier": "pillarSpot3"
+    },
+    "pillar-spot-double": {
+      "codepoint": 58325,
+      "fontFamily": "Cbi",
+      "identifier": "pillarSpotDouble"
+    },
+    "pillar-tuar": {
+      "codepoint": 58326,
+      "fontFamily": "Cbi",
+      "identifier": "pillarTuar"
+    },
+    "pillar-turaco-short": {
+      "codepoint": 58327,
+      "fontFamily": "Cbi",
+      "identifier": "pillarTuracoShort"
+    },
+    "pillar-turaco-tall": {
+      "codepoint": 58328,
+      "fontFamily": "Cbi",
+      "identifier": "pillarTuracoTall"
+    },
+    "pinball": {
+      "codepoint": 58329,
+      "fontFamily": "Cbi",
+      "identifier": "pinball"
+    },
+    "piv-unit": {
+      "codepoint": 58330,
+      "fontFamily": "Cbi",
+      "identifier": "pivUnit"
+    },
+    "pixelwatch": {
+      "codepoint": 58331,
+      "fontFamily": "Cbi",
+      "identifier": "pixelwatch"
+    },
+    "play": {
+      "codepoint": 58332,
+      "fontFamily": "Cbi",
+      "identifier": "play"
+    },
+    "play-bar-one": {
+      "codepoint": 58333,
+      "fontFamily": "Cbi",
+      "identifier": "playBarOne"
+    },
+    "play-bar-three": {
+      "codepoint": 58334,
+      "fontFamily": "Cbi",
+      "identifier": "playBarThree"
+    },
+    "play-bar-two": {
+      "codepoint": 58335,
+      "fontFamily": "Cbi",
+      "identifier": "playBarTwo"
+    },
+    "play-bar-v": {
+      "codepoint": 58336,
+      "fontFamily": "Cbi",
+      "identifier": "playBarV"
+    },
+    "play-bar-v-alt": {
+      "codepoint": 58337,
+      "fontFamily": "Cbi",
+      "identifier": "playBarVAlt"
+    },
+    "play-bar-v-two": {
+      "codepoint": 58338,
+      "fontFamily": "Cbi",
+      "identifier": "playBarVTwo"
+    },
+    "play-bar-v-two-in": {
+      "codepoint": 58339,
+      "fontFamily": "Cbi",
+      "identifier": "playBarVTwoIn"
+    },
+    "play-bar-v-two-out": {
+      "codepoint": 58340,
+      "fontFamily": "Cbi",
+      "identifier": "playBarVTwoOut"
+    },
     "playback-button": {
-      "codepoint": 57385,
+      "codepoint": 58341,
       "fontFamily": "Cbi",
       "identifier": "playbackButton"
     },
+    "playstation": {
+      "codepoint": 58342,
+      "fontFamily": "Cbi",
+      "identifier": "playstation"
+    },
+    "playstation-3": {
+      "codepoint": 58343,
+      "fontFamily": "Cbi",
+      "identifier": "playstation3"
+    },
+    "playstation-4": {
+      "codepoint": 58344,
+      "fontFamily": "Cbi",
+      "identifier": "playstation4"
+    },
+    "playstation-5": {
+      "codepoint": 58345,
+      "fontFamily": "Cbi",
+      "identifier": "playstation5"
+    },
+    "plex": {
+      "codepoint": 58346,
+      "fontFamily": "Cbi",
+      "identifier": "plex"
+    },
     "plex-alt": {
-      "codepoint": 57386,
+      "codepoint": 58347,
       "fontFamily": "Cbi",
       "identifier": "plexAlt"
     },
+    "plexamp": {
+      "codepoint": 58348,
+      "fontFamily": "Cbi",
+      "identifier": "plexamp"
+    },
+    "plug-eu": {
+      "codepoint": 58349,
+      "fontFamily": "Cbi",
+      "identifier": "plugEu"
+    },
+    "plug-uk": {
+      "codepoint": 58350,
+      "fontFamily": "Cbi",
+      "identifier": "plugUk"
+    },
+    "plutotv": {
+      "codepoint": 58351,
+      "fontFamily": "Cbi",
+      "identifier": "plutotv"
+    },
+    "pm": {
+      "codepoint": 58352,
+      "fontFamily": "Cbi",
+      "identifier": "pm"
+    },
+    "pm2-5": {
+      "codepoint": 58353,
+      "fontFamily": "Cbi",
+      "identifier": "pm25"
+    },
     "pocketcasts": {
-      "codepoint": 57387,
+      "codepoint": 58354,
       "fontFamily": "Cbi",
       "identifier": "pocketcasts"
     },
+    "polestar": {
+      "codepoint": 58355,
+      "fontFamily": "Cbi",
+      "identifier": "polestar"
+    },
+    "pool-clorine": {
+      "codepoint": 58356,
+      "fontFamily": "Cbi",
+      "identifier": "poolClorine"
+    },
+    "pool-depth": {
+      "codepoint": 58357,
+      "fontFamily": "Cbi",
+      "identifier": "poolDepth"
+    },
+    "pool-disolved": {
+      "codepoint": 58358,
+      "fontFamily": "Cbi",
+      "identifier": "poolDisolved"
+    },
+    "pool-electric-lvl": {
+      "codepoint": 58359,
+      "fontFamily": "Cbi",
+      "identifier": "poolElectricLvl"
+    },
+    "pool-filter": {
+      "codepoint": 58360,
+      "fontFamily": "Cbi",
+      "identifier": "poolFilter"
+    },
+    "pool-salinty": {
+      "codepoint": 58361,
+      "fontFamily": "Cbi",
+      "identifier": "poolSalinty"
+    },
+    "porsche": {
+      "codepoint": 58362,
+      "fontFamily": "Cbi",
+      "identifier": "porsche"
+    },
+    "portainer": {
+      "codepoint": 58363,
+      "fontFamily": "Cbi",
+      "identifier": "portainer"
+    },
+    "postnl": {
+      "codepoint": 58364,
+      "fontFamily": "Cbi",
+      "identifier": "postnl"
+    },
     "power-panel-logo": {
-      "codepoint": 57388,
+      "codepoint": 58365,
       "fontFamily": "Cbi",
       "identifier": "powerPanelLogo"
     },
+    "prime-video": {
+      "codepoint": 58366,
+      "fontFamily": "Cbi",
+      "identifier": "primeVideo"
+    },
+    "prime-video-alt": {
+      "codepoint": 58367,
+      "fontFamily": "Cbi",
+      "identifier": "primeVideoAlt"
+    },
+    "princess-auto": {
+      "codepoint": 58368,
+      "fontFamily": "Cbi",
+      "identifier": "princessAuto"
+    },
+    "prometheusio": {
+      "codepoint": 58369,
+      "fontFamily": "Cbi",
+      "identifier": "prometheusio"
+    },
     "prosieben": {
-      "codepoint": 57389,
+      "codepoint": 58370,
       "fontFamily": "Cbi",
       "identifier": "prosieben"
     },
+    "prowlarr": {
+      "codepoint": 58371,
+      "fontFamily": "Cbi",
+      "identifier": "prowlarr"
+    },
+    "proxmox": {
+      "codepoint": 58372,
+      "fontFamily": "Cbi",
+      "identifier": "proxmox"
+    },
+    "prusa-core": {
+      "codepoint": 58373,
+      "fontFamily": "Cbi",
+      "identifier": "prusaCore"
+    },
+    "prusa-mini": {
+      "codepoint": 58374,
+      "fontFamily": "Cbi",
+      "identifier": "prusaMini"
+    },
+    "prusa-mk3s": {
+      "codepoint": 58375,
+      "fontFamily": "Cbi",
+      "identifier": "prusaMk3s"
+    },
+    "prusa-mk4": {
+      "codepoint": 58376,
+      "fontFamily": "Cbi",
+      "identifier": "prusaMk4"
+    },
+    "prusa-xl": {
+      "codepoint": 58377,
+      "fontFamily": "Cbi",
+      "identifier": "prusaXl"
+    },
     "pulse": {
-      "codepoint": 57390,
+      "codepoint": 58378,
       "fontFamily": "Cbi",
       "identifier": "pulse"
     },
+    "qbittorrent": {
+      "codepoint": 58379,
+      "fontFamily": "Cbi",
+      "identifier": "qbittorrent"
+    },
+    "qmusic-radio": {
+      "codepoint": 58380,
+      "fontFamily": "Cbi",
+      "identifier": "qmusicRadio"
+    },
+    "qnap-logo": {
+      "codepoint": 58381,
+      "fontFamily": "Cbi",
+      "identifier": "qnapLogo"
+    },
     "qnap-rtorrent-pro": {
-      "codepoint": 57391,
+      "codepoint": 58382,
       "fontFamily": "Cbi",
       "identifier": "qnapRtorrentPro"
     },
+    "qnap-short-logo": {
+      "codepoint": 58383,
+      "fontFamily": "Cbi",
+      "identifier": "qnapShortLogo"
+    },
+    "quatt": {
+      "codepoint": 58384,
+      "fontFamily": "Cbi",
+      "identifier": "quatt"
+    },
+    "radarr": {
+      "codepoint": 58385,
+      "fontFamily": "Cbi",
+      "identifier": "radarr"
+    },
+    "radio-538": {
+      "codepoint": 58386,
+      "fontFamily": "Cbi",
+      "identifier": "radio538"
+    },
+    "radio1": {
+      "codepoint": 58387,
+      "fontFamily": "Cbi",
+      "identifier": "radio1"
+    },
+    "radon": {
+      "codepoint": 58388,
+      "fontFamily": "Cbi",
+      "identifier": "radon"
+    },
+    "rai-play": {
+      "codepoint": 58389,
+      "fontFamily": "Cbi",
+      "identifier": "raiPlay"
+    },
+    "rain-barrel": {
+      "codepoint": 58390,
+      "fontFamily": "Cbi",
+      "identifier": "rainBarrel"
+    },
+    "raiplay": {
+      "codepoint": 58391,
+      "fontFamily": "Cbi",
+      "identifier": "raiplay"
+    },
+    "ram": {
+      "codepoint": 58392,
+      "fontFamily": "Cbi",
+      "identifier": "ram"
+    },
+    "ram-memory": {
+      "codepoint": 58393,
+      "fontFamily": "Cbi",
+      "identifier": "ramMemory"
+    },
+    "raspberry-pi": {
+      "codepoint": 58394,
+      "fontFamily": "Cbi",
+      "identifier": "raspberryPi"
+    },
+    "rbb1": {
+      "codepoint": 58395,
+      "fontFamily": "Cbi",
+      "identifier": "rbb1"
+    },
+    "recessed-ceiling": {
+      "codepoint": 58396,
+      "fontFamily": "Cbi",
+      "identifier": "recessedCeiling"
+    },
+    "recessed-floor": {
+      "codepoint": 58397,
+      "fontFamily": "Cbi",
+      "identifier": "recessedFloor"
+    },
+    "recessedfloor": {
+      "codepoint": 58398,
+      "fontFamily": "Cbi",
+      "identifier": "recessedfloor"
+    },
+    "redbull-tv": {
+      "codepoint": 58399,
+      "fontFamily": "Cbi",
+      "identifier": "redbullTv"
+    },
+    "rede-bandeirantes": {
+      "codepoint": 58400,
+      "fontFamily": "Cbi",
+      "identifier": "redeBandeirantes"
+    },
+    "rede-globo": {
+      "codepoint": 58401,
+      "fontFamily": "Cbi",
+      "identifier": "redeGlobo"
+    },
+    "regolit-arc-lamp": {
+      "codepoint": 58402,
+      "fontFamily": "Cbi",
+      "identifier": "regolitArcLamp"
+    },
+    "renault": {
+      "codepoint": 58403,
+      "fontFamily": "Cbi",
+      "identifier": "renault"
+    },
+    "reolink-510": {
+      "codepoint": 58404,
+      "fontFamily": "Cbi",
+      "identifier": "reolink510"
+    },
+    "reolink-811": {
+      "codepoint": 58405,
+      "fontFamily": "Cbi",
+      "identifier": "reolink811"
+    },
+    "reolink-820": {
+      "codepoint": 58406,
+      "fontFamily": "Cbi",
+      "identifier": "reolink820"
+    },
+    "reolink-842": {
+      "codepoint": 58407,
+      "fontFamily": "Cbi",
+      "identifier": "reolink842"
+    },
+    "reolink-argus": {
+      "codepoint": 58408,
+      "fontFamily": "Cbi",
+      "identifier": "reolinkArgus"
+    },
+    "reolink-doorbell": {
+      "codepoint": 58409,
+      "fontFamily": "Cbi",
+      "identifier": "reolinkDoorbell"
+    },
+    "reolink-e1": {
+      "codepoint": 58410,
+      "fontFamily": "Cbi",
+      "identifier": "reolinkE1"
+    },
+    "reolink-go": {
+      "codepoint": 58411,
+      "fontFamily": "Cbi",
+      "identifier": "reolinkGo"
+    },
+    "resmed": {
+      "codepoint": 58412,
+      "fontFamily": "Cbi",
+      "identifier": "resmed"
+    },
+    "retro-arena": {
+      "codepoint": 58413,
+      "fontFamily": "Cbi",
+      "identifier": "retroArena"
+    },
+    "ring": {
+      "codepoint": 58414,
+      "fontFamily": "Cbi",
+      "identifier": "ring"
+    },
+    "ring-alarm": {
+      "codepoint": 58415,
+      "fontFamily": "Cbi",
+      "identifier": "ringAlarm"
+    },
+    "ring-alarm-panel": {
+      "codepoint": 58416,
+      "fontFamily": "Cbi",
+      "identifier": "ringAlarmPanel"
+    },
+    "ring-doorbell": {
+      "codepoint": 58417,
+      "fontFamily": "Cbi",
+      "identifier": "ringDoorbell"
+    },
+    "ring-doorbell-pro": {
+      "codepoint": 58418,
+      "fontFamily": "Cbi",
+      "identifier": "ringDoorbellPro"
+    },
+    "ring-floodlight": {
+      "codepoint": 58419,
+      "fontFamily": "Cbi",
+      "identifier": "ringFloodlight"
+    },
+    "ring-smart-lighting": {
+      "codepoint": 58420,
+      "fontFamily": "Cbi",
+      "identifier": "ringSmartLighting"
+    },
+    "ring-spotlight-cam": {
+      "codepoint": 58421,
+      "fontFamily": "Cbi",
+      "identifier": "ringSpotlightCam"
+    },
+    "ring-stick-up-cam": {
+      "codepoint": 58422,
+      "fontFamily": "Cbi",
+      "identifier": "ringStickUpCam"
+    },
+    "rituals": {
+      "codepoint": 58423,
+      "fontFamily": "Cbi",
+      "identifier": "rituals"
+    },
+    "rivian": {
+      "codepoint": 58424,
+      "fontFamily": "Cbi",
+      "identifier": "rivian"
+    },
+    "robinhood": {
+      "codepoint": 58425,
+      "fontFamily": "Cbi",
+      "identifier": "robinhood"
+    },
+    "roborock": {
+      "codepoint": 58426,
+      "fontFamily": "Cbi",
+      "identifier": "roborock"
+    },
+    "roborock-logo": {
+      "codepoint": 58427,
+      "fontFamily": "Cbi",
+      "identifier": "roborockLogo"
+    },
+    "rocketleague": {
+      "codepoint": 58428,
+      "fontFamily": "Cbi",
+      "identifier": "rocketleague"
+    },
+    "roku-ultra": {
+      "codepoint": 58429,
+      "fontFamily": "Cbi",
+      "identifier": "rokuUltra"
+    },
+    "roller-shutter-switch": {
+      "codepoint": 58430,
+      "fontFamily": "Cbi",
+      "identifier": "rollerShutterSwitch"
+    },
+    "rollsroyce": {
+      "codepoint": 58431,
+      "fontFamily": "Cbi",
+      "identifier": "rollsroyce"
+    },
+    "romain-letttace": {
+      "codepoint": 58432,
+      "fontFamily": "Cbi",
+      "identifier": "romainLetttace"
+    },
+    "romaine-lettuce": {
+      "codepoint": 58433,
+      "fontFamily": "Cbi",
+      "identifier": "romaineLettuce"
+    },
+    "rooms-attic": {
+      "codepoint": 58434,
+      "fontFamily": "Cbi",
+      "identifier": "roomsAttic"
+    },
+    "rooms-balcony": {
+      "codepoint": 58435,
+      "fontFamily": "Cbi",
+      "identifier": "roomsBalcony"
+    },
+    "rooms-bathroom": {
+      "codepoint": 58436,
+      "fontFamily": "Cbi",
+      "identifier": "roomsBathroom"
+    },
+    "rooms-bedroom": {
+      "codepoint": 58437,
+      "fontFamily": "Cbi",
+      "identifier": "roomsBedroom"
+    },
+    "rooms-carport": {
+      "codepoint": 58438,
+      "fontFamily": "Cbi",
+      "identifier": "roomsCarport"
+    },
+    "rooms-closet": {
+      "codepoint": 58439,
+      "fontFamily": "Cbi",
+      "identifier": "roomsCloset"
+    },
+    "rooms-computer": {
+      "codepoint": 58440,
+      "fontFamily": "Cbi",
+      "identifier": "roomsComputer"
+    },
+    "rooms-dining": {
+      "codepoint": 58441,
+      "fontFamily": "Cbi",
+      "identifier": "roomsDining"
+    },
+    "rooms-driveway": {
+      "codepoint": 58442,
+      "fontFamily": "Cbi",
+      "identifier": "roomsDriveway"
+    },
+    "rooms-front-door": {
+      "codepoint": 58443,
+      "fontFamily": "Cbi",
+      "identifier": "roomsFrontDoor"
+    },
+    "rooms-garage": {
+      "codepoint": 58444,
+      "fontFamily": "Cbi",
+      "identifier": "roomsGarage"
+    },
+    "rooms-guest-room": {
+      "codepoint": 58445,
+      "fontFamily": "Cbi",
+      "identifier": "roomsGuestRoom"
+    },
+    "rooms-gym": {
+      "codepoint": 58446,
+      "fontFamily": "Cbi",
+      "identifier": "roomsGym"
+    },
+    "rooms-hallway": {
+      "codepoint": 58447,
+      "fontFamily": "Cbi",
+      "identifier": "roomsHallway"
+    },
+    "rooms-kids-bedroom": {
+      "codepoint": 58448,
+      "fontFamily": "Cbi",
+      "identifier": "roomsKidsBedroom"
+    },
+    "rooms-kitchen": {
+      "codepoint": 58449,
+      "fontFamily": "Cbi",
+      "identifier": "roomsKitchen"
+    },
+    "rooms-laundry-room": {
+      "codepoint": 58450,
+      "fontFamily": "Cbi",
+      "identifier": "roomsLaundryRoom"
+    },
+    "rooms-living": {
+      "codepoint": 58451,
+      "fontFamily": "Cbi",
+      "identifier": "roomsLiving"
+    },
+    "rooms-lounge": {
+      "codepoint": 58452,
+      "fontFamily": "Cbi",
+      "identifier": "roomsLounge"
+    },
+    "rooms-mancave": {
+      "codepoint": 58453,
+      "fontFamily": "Cbi",
+      "identifier": "roomsMancave"
+    },
+    "rooms-nursery": {
+      "codepoint": 58454,
+      "fontFamily": "Cbi",
+      "identifier": "roomsNursery"
+    },
+    "rooms-office": {
+      "codepoint": 58455,
+      "fontFamily": "Cbi",
+      "identifier": "roomsOffice"
+    },
+    "rooms-other": {
+      "codepoint": 58456,
+      "fontFamily": "Cbi",
+      "identifier": "roomsOther"
+    },
+    "rooms-outdoor": {
+      "codepoint": 58457,
+      "fontFamily": "Cbi",
+      "identifier": "roomsOutdoor"
+    },
+    "rooms-outdoor-social-time": {
+      "codepoint": 58458,
+      "fontFamily": "Cbi",
+      "identifier": "roomsOutdoorSocialTime"
+    },
+    "rooms-pool": {
+      "codepoint": 58459,
+      "fontFamily": "Cbi",
+      "identifier": "roomsPool"
+    },
+    "rooms-recreation": {
+      "codepoint": 58460,
+      "fontFamily": "Cbi",
+      "identifier": "roomsRecreation"
+    },
+    "rooms-staircase": {
+      "codepoint": 58461,
+      "fontFamily": "Cbi",
+      "identifier": "roomsStaircase"
+    },
+    "rooms-storage": {
+      "codepoint": 58462,
+      "fontFamily": "Cbi",
+      "identifier": "roomsStorage"
+    },
+    "rooms-studio": {
+      "codepoint": 58463,
+      "fontFamily": "Cbi",
+      "identifier": "roomsStudio"
+    },
+    "rooms-terrace": {
+      "codepoint": 58464,
+      "fontFamily": "Cbi",
+      "identifier": "roomsTerrace"
+    },
+    "rooms-toilet": {
+      "codepoint": 58465,
+      "fontFamily": "Cbi",
+      "identifier": "roomsToilet"
+    },
+    "roomsattic": {
+      "codepoint": 58466,
+      "fontFamily": "Cbi",
+      "identifier": "roomsattic"
+    },
+    "roomsbalcony": {
+      "codepoint": 58467,
+      "fontFamily": "Cbi",
+      "identifier": "roomsbalcony"
+    },
+    "roomsbathroom": {
+      "codepoint": 58468,
+      "fontFamily": "Cbi",
+      "identifier": "roomsbathroom"
+    },
+    "roomsbedroom": {
+      "codepoint": 58469,
+      "fontFamily": "Cbi",
+      "identifier": "roomsbedroom"
+    },
+    "roomscarport": {
+      "codepoint": 58470,
+      "fontFamily": "Cbi",
+      "identifier": "roomscarport"
+    },
+    "roomscloset": {
+      "codepoint": 58471,
+      "fontFamily": "Cbi",
+      "identifier": "roomscloset"
+    },
+    "roomscomputer": {
+      "codepoint": 58472,
+      "fontFamily": "Cbi",
+      "identifier": "roomscomputer"
+    },
+    "roomsdining": {
+      "codepoint": 58473,
+      "fontFamily": "Cbi",
+      "identifier": "roomsdining"
+    },
+    "roomsdriveway": {
+      "codepoint": 58474,
+      "fontFamily": "Cbi",
+      "identifier": "roomsdriveway"
+    },
+    "roomsfrontdoor": {
+      "codepoint": 58475,
+      "fontFamily": "Cbi",
+      "identifier": "roomsfrontdoor"
+    },
+    "roomsgarage": {
+      "codepoint": 58476,
+      "fontFamily": "Cbi",
+      "identifier": "roomsgarage"
+    },
+    "roomsguestroom": {
+      "codepoint": 58477,
+      "fontFamily": "Cbi",
+      "identifier": "roomsguestroom"
+    },
+    "roomsgym": {
+      "codepoint": 58478,
+      "fontFamily": "Cbi",
+      "identifier": "roomsgym"
+    },
+    "roomshallway": {
+      "codepoint": 58479,
+      "fontFamily": "Cbi",
+      "identifier": "roomshallway"
+    },
+    "roomskidsbedroom": {
+      "codepoint": 58480,
+      "fontFamily": "Cbi",
+      "identifier": "roomskidsbedroom"
+    },
+    "roomskitchen": {
+      "codepoint": 58481,
+      "fontFamily": "Cbi",
+      "identifier": "roomskitchen"
+    },
+    "roomslaundryroom": {
+      "codepoint": 58482,
+      "fontFamily": "Cbi",
+      "identifier": "roomslaundryroom"
+    },
+    "roomsliving": {
+      "codepoint": 58483,
+      "fontFamily": "Cbi",
+      "identifier": "roomsliving"
+    },
+    "roomslounge": {
+      "codepoint": 58484,
+      "fontFamily": "Cbi",
+      "identifier": "roomslounge"
+    },
+    "roomsmancave": {
+      "codepoint": 58485,
+      "fontFamily": "Cbi",
+      "identifier": "roomsmancave"
+    },
+    "roomsnursery": {
+      "codepoint": 58486,
+      "fontFamily": "Cbi",
+      "identifier": "roomsnursery"
+    },
+    "roomsoffice": {
+      "codepoint": 58487,
+      "fontFamily": "Cbi",
+      "identifier": "roomsoffice"
+    },
+    "roomsother": {
+      "codepoint": 58488,
+      "fontFamily": "Cbi",
+      "identifier": "roomsother"
+    },
+    "roomsoutdoor": {
+      "codepoint": 58489,
+      "fontFamily": "Cbi",
+      "identifier": "roomsoutdoor"
+    },
+    "roomsoutdoorsocialtime": {
+      "codepoint": 58490,
+      "fontFamily": "Cbi",
+      "identifier": "roomsoutdoorsocialtime"
+    },
+    "roomspool": {
+      "codepoint": 58491,
+      "fontFamily": "Cbi",
+      "identifier": "roomspool"
+    },
+    "roomsrecreation": {
+      "codepoint": 58492,
+      "fontFamily": "Cbi",
+      "identifier": "roomsrecreation"
+    },
+    "roomsstaircase": {
+      "codepoint": 58493,
+      "fontFamily": "Cbi",
+      "identifier": "roomsstaircase"
+    },
+    "roomsstorage": {
+      "codepoint": 58494,
+      "fontFamily": "Cbi",
+      "identifier": "roomsstorage"
+    },
+    "roomsstudio": {
+      "codepoint": 58495,
+      "fontFamily": "Cbi",
+      "identifier": "roomsstudio"
+    },
+    "roomsterrace": {
+      "codepoint": 58496,
+      "fontFamily": "Cbi",
+      "identifier": "roomsterrace"
+    },
+    "roomstoilet": {
+      "codepoint": 58497,
+      "fontFamily": "Cbi",
+      "identifier": "roomstoilet"
+    },
+    "roon": {
+      "codepoint": 58498,
+      "fontFamily": "Cbi",
+      "identifier": "roon"
+    },
+    "rotary-mop": {
+      "codepoint": 58499,
+      "fontFamily": "Cbi",
+      "identifier": "rotaryMop"
+    },
+    "royalmail": {
+      "codepoint": 58500,
+      "fontFamily": "Cbi",
+      "identifier": "royalmail"
+    },
+    "rtl": {
+      "codepoint": 58501,
+      "fontFamily": "Cbi",
+      "identifier": "rtl"
+    },
+    "rtlzwei": {
+      "codepoint": 58502,
+      "fontFamily": "Cbi",
+      "identifier": "rtlzwei"
+    },
+    "rvn": {
+      "codepoint": 58503,
+      "fontFamily": "Cbi",
+      "identifier": "rvn"
+    },
+    "sabnzbd": {
+      "codepoint": 58504,
+      "fontFamily": "Cbi",
+      "identifier": "sabnzbd"
+    },
+    "sainsburys": {
+      "codepoint": 58505,
+      "fontFamily": "Cbi",
+      "identifier": "sainsburys"
+    },
+    "salt": {
+      "codepoint": 58506,
+      "fontFamily": "Cbi",
+      "identifier": "salt"
+    },
+    "salt-lamp": {
+      "codepoint": 58507,
+      "fontFamily": "Cbi",
+      "identifier": "saltLamp"
+    },
+    "samba": {
+      "codepoint": 58508,
+      "fontFamily": "Cbi",
+      "identifier": "samba"
+    },
+    "samsung": {
+      "codepoint": 58509,
+      "fontFamily": "Cbi",
+      "identifier": "samsung"
+    },
+    "samsung-serif": {
+      "codepoint": 58510,
+      "fontFamily": "Cbi",
+      "identifier": "samsungSerif"
+    },
+    "samsung-serif-stand": {
+      "codepoint": 58511,
+      "fontFamily": "Cbi",
+      "identifier": "samsungSerifStand"
+    },
+    "sana": {
+      "codepoint": 58512,
+      "fontFamily": "Cbi",
+      "identifier": "sana"
+    },
+    "sana-alt": {
+      "codepoint": 58513,
+      "fontFamily": "Cbi",
+      "identifier": "sanaAlt"
+    },
+    "sat1": {
+      "codepoint": 58514,
+      "fontFamily": "Cbi",
+      "identifier": "sat1"
+    },
+    "sauna-bucket": {
+      "codepoint": 58515,
+      "fontFamily": "Cbi",
+      "identifier": "saunaBucket"
+    },
+    "scart": {
+      "codepoint": 58516,
+      "fontFamily": "Cbi",
+      "identifier": "scart"
+    },
+    "scene-bright": {
+      "codepoint": 58517,
+      "fontFamily": "Cbi",
+      "identifier": "sceneBright"
+    },
     "scene-concentrate": {
-      "codepoint": 57392,
+      "codepoint": 58518,
       "fontFamily": "Cbi",
       "identifier": "sceneConcentrate"
     },
+    "scene-dimmed": {
+      "codepoint": 58519,
+      "fontFamily": "Cbi",
+      "identifier": "sceneDimmed"
+    },
+    "scene-dynamic": {
+      "codepoint": 58520,
+      "fontFamily": "Cbi",
+      "identifier": "sceneDynamic"
+    },
+    "scene-energize": {
+      "codepoint": 58521,
+      "fontFamily": "Cbi",
+      "identifier": "sceneEnergize"
+    },
+    "scene-nightlight": {
+      "codepoint": 58522,
+      "fontFamily": "Cbi",
+      "identifier": "sceneNightlight"
+    },
+    "scene-read": {
+      "codepoint": 58523,
+      "fontFamily": "Cbi",
+      "identifier": "sceneRead"
+    },
+    "scene-relax": {
+      "codepoint": 58524,
+      "fontFamily": "Cbi",
+      "identifier": "sceneRelax"
+    },
+    "schneider": {
+      "codepoint": 58525,
+      "fontFamily": "Cbi",
+      "identifier": "schneider"
+    },
+    "scion": {
+      "codepoint": 58526,
+      "fontFamily": "Cbi",
+      "identifier": "scion"
+    },
+    "seagate-ssd": {
+      "codepoint": 58527,
+      "fontFamily": "Cbi",
+      "identifier": "seagateSsd"
+    },
+    "seagate-ssd-m2": {
+      "codepoint": 58528,
+      "fontFamily": "Cbi",
+      "identifier": "seagateSsdM2"
+    },
+    "seat": {
+      "codepoint": 58529,
+      "fontFamily": "Cbi",
+      "identifier": "seat"
+    },
+    "sega": {
+      "codepoint": 58530,
+      "fontFamily": "Cbi",
+      "identifier": "sega"
+    },
+    "serie-a": {
+      "codepoint": 58531,
+      "fontFamily": "Cbi",
+      "identifier": "serieA"
+    },
+    "shade-rchiileea-v1": {
+      "codepoint": 58532,
+      "fontFamily": "Cbi",
+      "identifier": "shadeRchiileeaV1"
+    },
+    "shed-closed": {
+      "codepoint": 58533,
+      "fontFamily": "Cbi",
+      "identifier": "shedClosed"
+    },
+    "shed-open": {
+      "codepoint": 58534,
+      "fontFamily": "Cbi",
+      "identifier": "shedOpen"
+    },
+    "shell-recharge": {
+      "codepoint": 58535,
+      "fontFamily": "Cbi",
+      "identifier": "shellRecharge"
+    },
+    "shelly-logo": {
+      "codepoint": 58536,
+      "fontFamily": "Cbi",
+      "identifier": "shellyLogo"
+    },
+    "shudder": {
+      "codepoint": 58537,
+      "fontFamily": "Cbi",
+      "identifier": "shudder"
+    },
+    "shutter-0": {
+      "codepoint": 58538,
+      "fontFamily": "Cbi",
+      "identifier": "shutter0"
+    },
+    "shutter-10": {
+      "codepoint": 58539,
+      "fontFamily": "Cbi",
+      "identifier": "shutter10"
+    },
+    "shutter-100": {
+      "codepoint": 58540,
+      "fontFamily": "Cbi",
+      "identifier": "shutter100"
+    },
+    "shutter-20": {
+      "codepoint": 58541,
+      "fontFamily": "Cbi",
+      "identifier": "shutter20"
+    },
+    "shutter-30": {
+      "codepoint": 58542,
+      "fontFamily": "Cbi",
+      "identifier": "shutter30"
+    },
+    "shutter-40": {
+      "codepoint": 58543,
+      "fontFamily": "Cbi",
+      "identifier": "shutter40"
+    },
+    "shutter-50": {
+      "codepoint": 58544,
+      "fontFamily": "Cbi",
+      "identifier": "shutter50"
+    },
+    "shutter-60": {
+      "codepoint": 58545,
+      "fontFamily": "Cbi",
+      "identifier": "shutter60"
+    },
+    "shutter-70": {
+      "codepoint": 58546,
+      "fontFamily": "Cbi",
+      "identifier": "shutter70"
+    },
+    "shutter-80": {
+      "codepoint": 58547,
+      "fontFamily": "Cbi",
+      "identifier": "shutter80"
+    },
+    "shutter-90": {
+      "codepoint": 58548,
+      "fontFamily": "Cbi",
+      "identifier": "shutter90"
+    },
+    "side-glassdoor-close": {
+      "codepoint": 58549,
+      "fontFamily": "Cbi",
+      "identifier": "sideGlassdoorClose"
+    },
+    "side-glassdoor-open": {
+      "codepoint": 58550,
+      "fontFamily": "Cbi",
+      "identifier": "sideGlassdoorOpen"
+    },
+    "signal": {
+      "codepoint": 58551,
+      "fontFamily": "Cbi",
+      "identifier": "signal"
+    },
+    "signe": {
+      "codepoint": 58552,
+      "fontFamily": "Cbi",
+      "identifier": "signe"
+    },
+    "signe-gradient-floor": {
+      "codepoint": 58553,
+      "fontFamily": "Cbi",
+      "identifier": "signeGradientFloor"
+    },
+    "signe-gradient-table": {
+      "codepoint": 58554,
+      "fontFamily": "Cbi",
+      "identifier": "signeGradientTable"
+    },
+    "single-spot": {
+      "codepoint": 58555,
+      "fontFamily": "Cbi",
+      "identifier": "singleSpot"
+    },
+    "single-wall-switch": {
+      "codepoint": 58556,
+      "fontFamily": "Cbi",
+      "identifier": "singleWallSwitch"
+    },
+    "singlespot": {
+      "codepoint": 58557,
+      "fontFamily": "Cbi",
+      "identifier": "singlespot"
+    },
+    "skoda": {
+      "codepoint": 58558,
+      "fontFamily": "Cbi",
+      "identifier": "skoda"
+    },
+    "sky-alt": {
+      "codepoint": 58559,
+      "fontFamily": "Cbi",
+      "identifier": "skyAlt"
+    },
+    "sky-q-logo": {
+      "codepoint": 58560,
+      "fontFamily": "Cbi",
+      "identifier": "skyQLogo"
+    },
+    "sky-showtime": {
+      "codepoint": 58561,
+      "fontFamily": "Cbi",
+      "identifier": "skyShowtime"
+    },
+    "skyone": {
+      "codepoint": 58562,
+      "fontFamily": "Cbi",
+      "identifier": "skyone"
+    },
+    "skysports-f1": {
+      "codepoint": 58563,
+      "fontFamily": "Cbi",
+      "identifier": "skysportsF1"
+    },
+    "skysports-football": {
+      "codepoint": 58564,
+      "fontFamily": "Cbi",
+      "identifier": "skysportsFootball"
+    },
+    "skysports-mainevent": {
+      "codepoint": 58565,
+      "fontFamily": "Cbi",
+      "identifier": "skysportsMainevent"
+    },
+    "skysports-news": {
+      "codepoint": 58566,
+      "fontFamily": "Cbi",
+      "identifier": "skysportsNews"
+    },
+    "skysports-premierleague": {
+      "codepoint": 58567,
+      "fontFamily": "Cbi",
+      "identifier": "skysportsPremierleague"
+    },
+    "slam": {
+      "codepoint": 58568,
+      "fontFamily": "Cbi",
+      "identifier": "slam"
+    },
+    "sleep-timer": {
+      "codepoint": 58569,
+      "fontFamily": "Cbi",
+      "identifier": "sleepTimer"
+    },
+    "sliding-barndoor-closed": {
+      "codepoint": 58570,
+      "fontFamily": "Cbi",
+      "identifier": "slidingBarndoorClosed"
+    },
+    "sliding-barndoor-open": {
+      "codepoint": 58571,
+      "fontFamily": "Cbi",
+      "identifier": "slidingBarndoorOpen"
+    },
+    "sliding-window-door-close": {
+      "codepoint": 58572,
+      "fontFamily": "Cbi",
+      "identifier": "slidingWindowDoorClose"
+    },
+    "sliding-window-door-open": {
+      "codepoint": 58573,
+      "fontFamily": "Cbi",
+      "identifier": "slidingWindowDoorOpen"
+    },
+    "slling": {
+      "codepoint": 58574,
+      "fontFamily": "Cbi",
+      "identifier": "slling"
+    },
+    "slling-tv": {
+      "codepoint": 58575,
+      "fontFamily": "Cbi",
+      "identifier": "sllingTv"
+    },
+    "small-fan": {
+      "codepoint": 58576,
+      "fontFamily": "Cbi",
+      "identifier": "smallFan"
+    },
+    "smart": {
+      "codepoint": 58577,
+      "fontFamily": "Cbi",
+      "identifier": "smart"
+    },
+    "smart-camera": {
+      "codepoint": 58578,
+      "fontFamily": "Cbi",
+      "identifier": "smartCamera"
+    },
+    "smart-desk-lamp": {
+      "codepoint": 58579,
+      "fontFamily": "Cbi",
+      "identifier": "smartDeskLamp"
+    },
+    "smart-plug-it": {
+      "codepoint": 58580,
+      "fontFamily": "Cbi",
+      "identifier": "smartPlugIt"
+    },
+    "smart-plug-schuko": {
+      "codepoint": 58581,
+      "fontFamily": "Cbi",
+      "identifier": "smartPlugSchuko"
+    },
+    "smart-plug-sonoff": {
+      "codepoint": 58582,
+      "fontFamily": "Cbi",
+      "identifier": "smartPlugSonoff"
+    },
+    "smart-power-strip": {
+      "codepoint": 58583,
+      "fontFamily": "Cbi",
+      "identifier": "smartPowerStrip"
+    },
+    "smart-switch": {
+      "codepoint": 58584,
+      "fontFamily": "Cbi",
+      "identifier": "smartSwitch"
+    },
+    "smlight": {
+      "codepoint": 58585,
+      "fontFamily": "Cbi",
+      "identifier": "smlight"
+    },
+    "smoke-detector": {
+      "codepoint": 58586,
+      "fontFamily": "Cbi",
+      "identifier": "smokeDetector"
+    },
+    "snapcast": {
+      "codepoint": 58587,
+      "fontFamily": "Cbi",
+      "identifier": "snapcast"
+    },
+    "snes": {
+      "codepoint": 58588,
+      "fontFamily": "Cbi",
+      "identifier": "snes"
+    },
+    "sobeys": {
+      "codepoint": 58589,
+      "fontFamily": "Cbi",
+      "identifier": "sobeys"
+    },
+    "socket-eu": {
+      "codepoint": 58590,
+      "fontFamily": "Cbi",
+      "identifier": "socketEu"
+    },
+    "socket-uk": {
+      "codepoint": 58591,
+      "fontFamily": "Cbi",
+      "identifier": "socketUk"
+    },
+    "socket-us": {
+      "codepoint": 58592,
+      "fontFamily": "Cbi",
+      "identifier": "socketUs"
+    },
+    "soil-moisture": {
+      "codepoint": 58593,
+      "fontFamily": "Cbi",
+      "identifier": "soilMoisture"
+    },
+    "soil-reading": {
+      "codepoint": 58594,
+      "fontFamily": "Cbi",
+      "identifier": "soilReading"
+    },
+    "solana-sol": {
+      "codepoint": 58595,
+      "fontFamily": "Cbi",
+      "identifier": "solanaSol"
+    },
+    "solar-battery": {
+      "codepoint": 58596,
+      "fontFamily": "Cbi",
+      "identifier": "solarBattery"
+    },
+    "solar-battery-10": {
+      "codepoint": 58597,
+      "fontFamily": "Cbi",
+      "identifier": "solarBattery10"
+    },
+    "solar-battery-15": {
+      "codepoint": 58598,
+      "fontFamily": "Cbi",
+      "identifier": "solarBattery15"
+    },
+    "solar-battery-5": {
+      "codepoint": 58599,
+      "fontFamily": "Cbi",
+      "identifier": "solarBattery5"
+    },
+    "sonnen": {
+      "codepoint": 58600,
+      "fontFamily": "Cbi",
+      "identifier": "sonnen"
+    },
+    "sonoff": {
+      "codepoint": 58601,
+      "fontFamily": "Cbi",
+      "identifier": "sonoff"
+    },
+    "sonoff-0p1": {
+      "codepoint": 58602,
+      "fontFamily": "Cbi",
+      "identifier": "sonoff0p1"
+    },
+    "sonos": {
+      "codepoint": 58603,
+      "fontFamily": "Cbi",
+      "identifier": "sonos"
+    },
+    "sonos-beam": {
+      "codepoint": 58604,
+      "fontFamily": "Cbi",
+      "identifier": "sonosBeam"
+    },
+    "sonos-bookshelf-horizontal": {
+      "codepoint": 58605,
+      "fontFamily": "Cbi",
+      "identifier": "sonosBookshelfHorizontal"
+    },
+    "sonos-bookshelf-vertical": {
+      "codepoint": 58606,
+      "fontFamily": "Cbi",
+      "identifier": "sonosBookshelfVertical"
+    },
+    "sonos-era-100": {
+      "codepoint": 58607,
+      "fontFamily": "Cbi",
+      "identifier": "sonosEra100"
+    },
+    "sonos-era-300": {
+      "codepoint": 58608,
+      "fontFamily": "Cbi",
+      "identifier": "sonosEra300"
+    },
+    "sonos-five": {
+      "codepoint": 58609,
+      "fontFamily": "Cbi",
+      "identifier": "sonosFive"
+    },
+    "sonos-move": {
+      "codepoint": 58610,
+      "fontFamily": "Cbi",
+      "identifier": "sonosMove"
+    },
+    "sonos-one": {
+      "codepoint": 58611,
+      "fontFamily": "Cbi",
+      "identifier": "sonosOne"
+    },
+    "sonos-play-3": {
+      "codepoint": 58612,
+      "fontFamily": "Cbi",
+      "identifier": "sonosPlay3"
+    },
+    "sonos-playbar": {
+      "codepoint": 58613,
+      "fontFamily": "Cbi",
+      "identifier": "sonosPlaybar"
+    },
+    "sonos-playbase": {
+      "codepoint": 58614,
+      "fontFamily": "Cbi",
+      "identifier": "sonosPlaybase"
+    },
+    "sonos-ray": {
+      "codepoint": 58615,
+      "fontFamily": "Cbi",
+      "identifier": "sonosRay"
+    },
+    "sonos-roam": {
+      "codepoint": 58616,
+      "fontFamily": "Cbi",
+      "identifier": "sonosRoam"
+    },
+    "sonos-sub": {
+      "codepoint": 58617,
+      "fontFamily": "Cbi",
+      "identifier": "sonosSub"
+    },
+    "sonos-sub-mini": {
+      "codepoint": 58618,
+      "fontFamily": "Cbi",
+      "identifier": "sonosSubMini"
+    },
+    "sony": {
+      "codepoint": 58619,
+      "fontFamily": "Cbi",
+      "identifier": "sony"
+    },
+    "sony-bravia": {
+      "codepoint": 58620,
+      "fontFamily": "Cbi",
+      "identifier": "sonyBravia"
+    },
+    "sony-pictures-core": {
+      "codepoint": 58621,
+      "fontFamily": "Cbi",
+      "identifier": "sonyPicturesCore"
+    },
+    "sotool": {
+      "codepoint": 58622,
+      "fontFamily": "Cbi",
+      "identifier": "sotool"
+    },
     "speedtest": {
-      "codepoint": 57393,
+      "codepoint": 58623,
       "fontFamily": "Cbi",
       "identifier": "speedtest"
     },
+    "spicebottle": {
+      "codepoint": 58624,
+      "fontFamily": "Cbi",
+      "identifier": "spicebottle"
+    },
+    "splitdoor-open": {
+      "codepoint": 58625,
+      "fontFamily": "Cbi",
+      "identifier": "splitdoorOpen"
+    },
+    "spot-bulb-top": {
+      "codepoint": 58626,
+      "fontFamily": "Cbi",
+      "identifier": "spotBulbTop"
+    },
+    "spotbear-bal-v2": {
+      "codepoint": 58627,
+      "fontFamily": "Cbi",
+      "identifier": "spotbearBalV2"
+    },
+    "spotbear-ball-v1": {
+      "codepoint": 58628,
+      "fontFamily": "Cbi",
+      "identifier": "spotbearBallV1"
+    },
+    "spotbear-cube": {
+      "codepoint": 58629,
+      "fontFamily": "Cbi",
+      "identifier": "spotbearCube"
+    },
+    "spotbear-custom-speaker": {
+      "codepoint": 58630,
+      "fontFamily": "Cbi",
+      "identifier": "spotbearCustomSpeaker"
+    },
+    "spotbear-round-n16r8": {
+      "codepoint": 58631,
+      "fontFamily": "Cbi",
+      "identifier": "spotbearRoundN16r8"
+    },
+    "spotbear-round-speaker-n16r8": {
+      "codepoint": 58632,
+      "fontFamily": "Cbi",
+      "identifier": "spotbearRoundSpeakerN16r8"
+    },
+    "spotify": {
+      "codepoint": 58633,
+      "fontFamily": "Cbi",
+      "identifier": "spotify"
+    },
+    "spotpear-bal-v2": {
+      "codepoint": 58634,
+      "fontFamily": "Cbi",
+      "identifier": "spotpearBalV2"
+    },
+    "spotpear-ball-v1": {
+      "codepoint": 58635,
+      "fontFamily": "Cbi",
+      "identifier": "spotpearBallV1"
+    },
+    "spotpear-cube": {
+      "codepoint": 58636,
+      "fontFamily": "Cbi",
+      "identifier": "spotpearCube"
+    },
+    "spotpear-custom-speaker": {
+      "codepoint": 58637,
+      "fontFamily": "Cbi",
+      "identifier": "spotpearCustomSpeaker"
+    },
+    "spotpear-round-n16r8": {
+      "codepoint": 58638,
+      "fontFamily": "Cbi",
+      "identifier": "spotpearRoundN16r8"
+    },
+    "spotpear-round-speaker-n16r8": {
+      "codepoint": 58639,
+      "fontFamily": "Cbi",
+      "identifier": "spotpearRoundSpeakerN16r8"
+    },
+    "sprinkler": {
+      "codepoint": 58640,
+      "fontFamily": "Cbi",
+      "identifier": "sprinkler"
+    },
+    "sr-radio": {
+      "codepoint": 58641,
+      "fontFamily": "Cbi",
+      "identifier": "srRadio"
+    },
+    "stage-backlight": {
+      "codepoint": 58642,
+      "fontFamily": "Cbi",
+      "identifier": "stageBacklight"
+    },
+    "stage-light": {
+      "codepoint": 58643,
+      "fontFamily": "Cbi",
+      "identifier": "stageLight"
+    },
+    "stage-light-group": {
+      "codepoint": 58644,
+      "fontFamily": "Cbi",
+      "identifier": "stageLightGroup"
+    },
+    "stage-spot-light": {
+      "codepoint": 58645,
+      "fontFamily": "Cbi",
+      "identifier": "stageSpotLight"
+    },
+    "stage-uplight": {
+      "codepoint": 58646,
+      "fontFamily": "Cbi",
+      "identifier": "stageUplight"
+    },
+    "stagel-light-2": {
+      "codepoint": 58647,
+      "fontFamily": "Cbi",
+      "identifier": "stagelLight2"
+    },
+    "stagel-light-2-group": {
+      "codepoint": 58648,
+      "fontFamily": "Cbi",
+      "identifier": "stagelLight2Group"
+    },
+    "stan": {
+      "codepoint": 58649,
+      "fontFamily": "Cbi",
+      "identifier": "stan"
+    },
+    "stan-sport": {
+      "codepoint": 58650,
+      "fontFamily": "Cbi",
+      "identifier": "stanSport"
+    },
+    "star-plus": {
+      "codepoint": 58651,
+      "fontFamily": "Cbi",
+      "identifier": "starPlus"
+    },
+    "star-plus-alt": {
+      "codepoint": 58652,
+      "fontFamily": "Cbi",
+      "identifier": "starPlusAlt"
+    },
+    "starbucks": {
+      "codepoint": 58653,
+      "fontFamily": "Cbi",
+      "identifier": "starbucks"
+    },
+    "starlink": {
+      "codepoint": 58654,
+      "fontFamily": "Cbi",
+      "identifier": "starlink"
+    },
+    "start-tv": {
+      "codepoint": 58655,
+      "fontFamily": "Cbi",
+      "identifier": "startTv"
+    },
+    "std-floodlight": {
+      "codepoint": 58656,
+      "fontFamily": "Cbi",
+      "identifier": "stdFloodlight"
+    },
+    "steam": {
+      "codepoint": 58657,
+      "fontFamily": "Cbi",
+      "identifier": "steam"
+    },
+    "steam-deck": {
+      "codepoint": 58658,
+      "fontFamily": "Cbi",
+      "identifier": "steamDeck"
+    },
+    "stereo-alt": {
+      "codepoint": 58659,
+      "fontFamily": "Cbi",
+      "identifier": "stereoAlt"
+    },
+    "stitch": {
+      "codepoint": 58660,
+      "fontFamily": "Cbi",
+      "identifier": "stitch"
+    },
     "strava": {
-      "codepoint": 57394,
+      "codepoint": 58661,
       "fontFamily": "Cbi",
       "identifier": "strava"
     },
+    "streamz": {
+      "codepoint": 58662,
+      "fontFamily": "Cbi",
+      "identifier": "streamz"
+    },
+    "stremio": {
+      "codepoint": 58663,
+      "fontFamily": "Cbi",
+      "identifier": "stremio"
+    },
+    "stromer": {
+      "codepoint": 58664,
+      "fontFamily": "Cbi",
+      "identifier": "stromer"
+    },
+    "studio-brussel": {
+      "codepoint": 58665,
+      "fontFamily": "Cbi",
+      "identifier": "studioBrussel"
+    },
+    "subaru": {
+      "codepoint": 58666,
+      "fontFamily": "Cbi",
+      "identifier": "subaru"
+    },
+    "sultan-group": {
+      "codepoint": 58667,
+      "fontFamily": "Cbi",
+      "identifier": "sultanGroup"
+    },
+    "sultan-group-hung": {
+      "codepoint": 58668,
+      "fontFamily": "Cbi",
+      "identifier": "sultanGroupHung"
+    },
+    "sunsynk": {
+      "codepoint": 58669,
+      "fontFamily": "Cbi",
+      "identifier": "sunsynk"
+    },
+    "suzuki": {
+      "codepoint": 58670,
+      "fontFamily": "Cbi",
+      "identifier": "suzuki"
+    },
+    "svt-tv": {
+      "codepoint": 58671,
+      "fontFamily": "Cbi",
+      "identifier": "svtTv"
+    },
+    "swr": {
+      "codepoint": 58672,
+      "fontFamily": "Cbi",
+      "identifier": "swr"
+    },
+    "sxm": {
+      "codepoint": 58673,
+      "fontFamily": "Cbi",
+      "identifier": "sxm"
+    },
+    "sydney-bus": {
+      "codepoint": 58674,
+      "fontFamily": "Cbi",
+      "identifier": "sydneyBus"
+    },
+    "sydney-metro": {
+      "codepoint": 58675,
+      "fontFamily": "Cbi",
+      "identifier": "sydneyMetro"
+    },
+    "symfonisk-lampe": {
+      "codepoint": 58676,
+      "fontFamily": "Cbi",
+      "identifier": "symfoniskLampe"
+    },
+    "sync-box": {
+      "codepoint": 58677,
+      "fontFamily": "Cbi",
+      "identifier": "syncBox"
+    },
+    "sync-box-alt": {
+      "codepoint": 58678,
+      "fontFamily": "Cbi",
+      "identifier": "syncBoxAlt"
+    },
+    "sync-module": {
+      "codepoint": 58679,
+      "fontFamily": "Cbi",
+      "identifier": "syncModule"
+    },
+    "synology-dsm": {
+      "codepoint": 58680,
+      "fontFamily": "Cbi",
+      "identifier": "synologyDsm"
+    },
+    "systenair": {
+      "codepoint": 58681,
+      "fontFamily": "Cbi",
+      "identifier": "systenair"
+    },
+    "tabbar-home": {
+      "codepoint": 58682,
+      "fontFamily": "Cbi",
+      "identifier": "tabbarHome"
+    },
+    "table-cylinder-lamp": {
+      "codepoint": 58683,
+      "fontFamily": "Cbi",
+      "identifier": "tableCylinderLamp"
+    },
+    "table-lighting": {
+      "codepoint": 58684,
+      "fontFamily": "Cbi",
+      "identifier": "tableLighting"
+    },
+    "table-lighting-alt": {
+      "codepoint": 58685,
+      "fontFamily": "Cbi",
+      "identifier": "tableLightingAlt"
+    },
+    "table-shade": {
+      "codepoint": 58686,
+      "fontFamily": "Cbi",
+      "identifier": "tableShade"
+    },
+    "table-wash": {
+      "codepoint": 58687,
+      "fontFamily": "Cbi",
+      "identifier": "tableWash"
+    },
+    "tableshade": {
+      "codepoint": 58688,
+      "fontFamily": "Cbi",
+      "identifier": "tableshade"
+    },
+    "tablet": {
+      "codepoint": 58689,
+      "fontFamily": "Cbi",
+      "identifier": "tablet"
+    },
+    "tablewash": {
+      "codepoint": 58690,
+      "fontFamily": "Cbi",
+      "identifier": "tablewash"
+    },
+    "tado": {
+      "codepoint": 58691,
+      "fontFamily": "Cbi",
+      "identifier": "tado"
+    },
+    "tado-thermostat": {
+      "codepoint": 58692,
+      "fontFamily": "Cbi",
+      "identifier": "tadoThermostat"
+    },
+    "tagesschau24": {
+      "codepoint": 58693,
+      "fontFamily": "Cbi",
+      "identifier": "tagesschau24"
+    },
     "tailscale": {
-      "codepoint": 57395,
+      "codepoint": 58694,
       "fontFamily": "Cbi",
       "identifier": "tailscale"
     },
+    "tap-dial": {
+      "codepoint": 58695,
+      "fontFamily": "Cbi",
+      "identifier": "tapDial"
+    },
+    "target": {
+      "codepoint": 58696,
+      "fontFamily": "Cbi",
+      "identifier": "target"
+    },
+    "tasmota": {
+      "codepoint": 58697,
+      "fontFamily": "Cbi",
+      "identifier": "tasmota"
+    },
+    "technische-alternative": {
+      "codepoint": 58698,
+      "fontFamily": "Cbi",
+      "identifier": "technischeAlternative"
+    },
+    "technitium-dns": {
+      "codepoint": 58699,
+      "fontFamily": "Cbi",
+      "identifier": "technitiumDns"
+    },
+    "telegram": {
+      "codepoint": 58700,
+      "fontFamily": "Cbi",
+      "identifier": "telegram"
+    },
+    "telenet": {
+      "codepoint": 58701,
+      "fontFamily": "Cbi",
+      "identifier": "telenet"
+    },
+    "telenet-box": {
+      "codepoint": 58702,
+      "fontFamily": "Cbi",
+      "identifier": "telenetBox"
+    },
+    "telnet": {
+      "codepoint": 58703,
+      "fontFamily": "Cbi",
+      "identifier": "telnet"
+    },
+    "telnet-box": {
+      "codepoint": 58704,
+      "fontFamily": "Cbi",
+      "identifier": "telnetBox"
+    },
+    "temp-sensor": {
+      "codepoint": 58705,
+      "fontFamily": "Cbi",
+      "identifier": "tempSensor"
+    },
     "tempest-weatherflow": {
-      "codepoint": 57396,
+      "codepoint": 58706,
       "fontFamily": "Cbi",
       "identifier": "tempestWeatherflow"
     },
+    "tesla-car": {
+      "codepoint": 58707,
+      "fontFamily": "Cbi",
+      "identifier": "teslaCar"
+    },
+    "tesla-defrost": {
+      "codepoint": 58708,
+      "fontFamily": "Cbi",
+      "identifier": "teslaDefrost"
+    },
+    "tesla-door": {
+      "codepoint": 58709,
+      "fontFamily": "Cbi",
+      "identifier": "teslaDoor"
+    },
+    "tesla-fan": {
+      "codepoint": 58710,
+      "fontFamily": "Cbi",
+      "identifier": "teslaFan"
+    },
+    "tesla-fart": {
+      "codepoint": 58711,
+      "fontFamily": "Cbi",
+      "identifier": "teslaFart"
+    },
+    "tesla-flash": {
+      "codepoint": 58712,
+      "fontFamily": "Cbi",
+      "identifier": "teslaFlash"
+    },
+    "tesla-hood": {
+      "codepoint": 58713,
+      "fontFamily": "Cbi",
+      "identifier": "teslaHood"
+    },
+    "tesla-horn": {
+      "codepoint": 58714,
+      "fontFamily": "Cbi",
+      "identifier": "teslaHorn"
+    },
+    "tesla-icon": {
+      "codepoint": 58715,
+      "fontFamily": "Cbi",
+      "identifier": "teslaIcon"
+    },
+    "tesla-lock": {
+      "codepoint": 58716,
+      "fontFamily": "Cbi",
+      "identifier": "teslaLock"
+    },
+    "tesla-open": {
+      "codepoint": 58717,
+      "fontFamily": "Cbi",
+      "identifier": "teslaOpen"
+    },
     "tesla-sentry": {
-      "codepoint": 57397,
+      "codepoint": 58718,
       "fontFamily": "Cbi",
       "identifier": "teslaSentry"
     },
+    "tesla-start": {
+      "codepoint": 58719,
+      "fontFamily": "Cbi",
+      "identifier": "teslaStart"
+    },
+    "tesla-trunk": {
+      "codepoint": 58720,
+      "fontFamily": "Cbi",
+      "identifier": "teslaTrunk"
+    },
+    "tesla-vent": {
+      "codepoint": 58721,
+      "fontFamily": "Cbi",
+      "identifier": "teslaVent"
+    },
+    "tet": {
+      "codepoint": 58722,
+      "fontFamily": "Cbi",
+      "identifier": "tet"
+    },
+    "tet-plus": {
+      "codepoint": 58723,
+      "fontFamily": "Cbi",
+      "identifier": "tetPlus"
+    },
+    "tf1": {
+      "codepoint": 58724,
+      "fontFamily": "Cbi",
+      "identifier": "tf1"
+    },
+    "tf1-series-films": {
+      "codepoint": 58725,
+      "fontFamily": "Cbi",
+      "identifier": "tf1SeriesFilms"
+    },
+    "thermostat": {
+      "codepoint": 58726,
+      "fontFamily": "Cbi",
+      "identifier": "thermostat"
+    },
     "thermostat-v2": {
-      "codepoint": 57398,
+      "codepoint": 58727,
       "fontFamily": "Cbi",
       "identifier": "thermostatV2"
     },
+    "thirdreality": {
+      "codepoint": 58728,
+      "fontFamily": "Cbi",
+      "identifier": "thirdreality"
+    },
     "thread-net": {
-      "codepoint": 57399,
+      "codepoint": 58729,
       "fontFamily": "Cbi",
       "identifier": "threadNet"
     },
+    "tibber": {
+      "codepoint": 58730,
+      "fontFamily": "Cbi",
+      "identifier": "tibber"
+    },
     "tidal-logo": {
-      "codepoint": 57400,
+      "codepoint": 58731,
       "fontFamily": "Cbi",
       "identifier": "tidalLogo"
     },
+    "tilt-window-closed": {
+      "codepoint": 58732,
+      "fontFamily": "Cbi",
+      "identifier": "tiltWindowClosed"
+    },
+    "tilt-window-opened": {
+      "codepoint": 58733,
+      "fontFamily": "Cbi",
+      "identifier": "tiltWindowOpened"
+    },
     "tim-logo": {
-      "codepoint": 57401,
+      "codepoint": 58734,
       "fontFamily": "Cbi",
       "identifier": "timLogo"
     },
+    "tim-logo-alt": {
+      "codepoint": 58735,
+      "fontFamily": "Cbi",
+      "identifier": "timLogoAlt"
+    },
+    "tivo": {
+      "codepoint": 58736,
+      "fontFamily": "Cbi",
+      "identifier": "tivo"
+    },
+    "tmc": {
+      "codepoint": 58737,
+      "fontFamily": "Cbi",
+      "identifier": "tmc"
+    },
+    "tomato": {
+      "codepoint": 58738,
+      "fontFamily": "Cbi",
+      "identifier": "tomato"
+    },
+    "tomato-energy": {
+      "codepoint": 58739,
+      "fontFamily": "Cbi",
+      "identifier": "tomatoEnergy"
+    },
+    "tomorrowland": {
+      "codepoint": 58740,
+      "fontFamily": "Cbi",
+      "identifier": "tomorrowland"
+    },
+    "top-radio": {
+      "codepoint": 58741,
+      "fontFamily": "Cbi",
+      "identifier": "topRadio"
+    },
+    "top-techno": {
+      "codepoint": 58742,
+      "fontFamily": "Cbi",
+      "identifier": "topTechno"
+    },
+    "top-window-closed": {
+      "codepoint": 58743,
+      "fontFamily": "Cbi",
+      "identifier": "topWindowClosed"
+    },
+    "top-window-open": {
+      "codepoint": 58744,
+      "fontFamily": "Cbi",
+      "identifier": "topWindowOpen"
+    },
+    "tower-fan": {
+      "codepoint": 58745,
+      "fontFamily": "Cbi",
+      "identifier": "towerFan"
+    },
+    "toyota": {
+      "codepoint": 58746,
+      "fontFamily": "Cbi",
+      "identifier": "toyota"
+    },
+    "tp-link-tapo": {
+      "codepoint": 58747,
+      "fontFamily": "Cbi",
+      "identifier": "tpLinkTapo"
+    },
+    "tplink-re450": {
+      "codepoint": 58748,
+      "fontFamily": "Cbi",
+      "identifier": "tplinkRe450"
+    },
+    "tplink-router": {
+      "codepoint": 58749,
+      "fontFamily": "Cbi",
+      "identifier": "tplinkRouter"
+    },
+    "traccar": {
+      "codepoint": 58750,
+      "fontFamily": "Cbi",
+      "identifier": "traccar"
+    },
+    "trader-joes": {
+      "codepoint": 58751,
+      "fontFamily": "Cbi",
+      "identifier": "traderJoes"
+    },
+    "trakt": {
+      "codepoint": 58752,
+      "fontFamily": "Cbi",
+      "identifier": "trakt"
+    },
+    "transmission-bt": {
+      "codepoint": 58753,
+      "fontFamily": "Cbi",
+      "identifier": "transmissionBt"
+    },
+    "treadmill": {
+      "codepoint": 58754,
+      "fontFamily": "Cbi",
+      "identifier": "treadmill"
+    },
     "trezor": {
-      "codepoint": 57402,
+      "codepoint": 58755,
       "fontFamily": "Cbi",
       "identifier": "trezor"
     },
+    "triple-wall-switch": {
+      "codepoint": 58756,
+      "fontFamily": "Cbi",
+      "identifier": "tripleWallSwitch"
+    },
+    "tripod-lamp-norm": {
+      "codepoint": 58757,
+      "fontFamily": "Cbi",
+      "identifier": "tripodLampNorm"
+    },
+    "tronity": {
+      "codepoint": 58758,
+      "fontFamily": "Cbi",
+      "identifier": "tronity"
+    },
+    "truenas-logo": {
+      "codepoint": 58759,
+      "fontFamily": "Cbi",
+      "identifier": "truenasLogo"
+    },
+    "trx": {
+      "codepoint": 58760,
+      "fontFamily": "Cbi",
+      "identifier": "trx"
+    },
+    "tube-lights": {
+      "codepoint": 58761,
+      "fontFamily": "Cbi",
+      "identifier": "tubeLights"
+    },
+    "tuenaero": {
+      "codepoint": 58762,
+      "fontFamily": "Cbi",
+      "identifier": "tuenaero"
+    },
+    "tuya": {
+      "codepoint": 58763,
+      "fontFamily": "Cbi",
+      "identifier": "tuya"
+    },
+    "tv2tv": {
+      "codepoint": 58764,
+      "fontFamily": "Cbi",
+      "identifier": "tv2tv"
+    },
+    "tvimate": {
+      "codepoint": 58765,
+      "fontFamily": "Cbi",
+      "identifier": "tvimate"
+    },
+    "twinkly": {
+      "codepoint": 58766,
+      "fontFamily": "Cbi",
+      "identifier": "twinkly"
+    },
+    "twinkly-c9": {
+      "codepoint": 58767,
+      "fontFamily": "Cbi",
+      "identifier": "twinklyC9"
+    },
+    "twinkly-candies-candles": {
+      "codepoint": 58768,
+      "fontFamily": "Cbi",
+      "identifier": "twinklyCandiesCandles"
+    },
+    "twinkly-candies-hearts": {
+      "codepoint": 58769,
+      "fontFamily": "Cbi",
+      "identifier": "twinklyCandiesHearts"
+    },
+    "twinkly-candies-pearl": {
+      "codepoint": 58770,
+      "fontFamily": "Cbi",
+      "identifier": "twinklyCandiesPearl"
+    },
+    "twinkly-candies-stars": {
+      "codepoint": 58771,
+      "fontFamily": "Cbi",
+      "identifier": "twinklyCandiesStars"
+    },
+    "twinkly-cluster": {
+      "codepoint": 58772,
+      "fontFamily": "Cbi",
+      "identifier": "twinklyCluster"
+    },
+    "twinkly-curtain": {
+      "codepoint": 58773,
+      "fontFamily": "Cbi",
+      "identifier": "twinklyCurtain"
+    },
+    "twinkly-curtian": {
+      "codepoint": 58774,
+      "fontFamily": "Cbi",
+      "identifier": "twinklyCurtian"
+    },
+    "twinkly-dots": {
+      "codepoint": 58775,
+      "fontFamily": "Cbi",
+      "identifier": "twinklyDots"
+    },
+    "twinkly-festoon": {
+      "codepoint": 58776,
+      "fontFamily": "Cbi",
+      "identifier": "twinklyFestoon"
+    },
+    "twinkly-icicle": {
+      "codepoint": 58777,
+      "fontFamily": "Cbi",
+      "identifier": "twinklyIcicle"
+    },
+    "twinkly-matrix": {
+      "codepoint": 58778,
+      "fontFamily": "Cbi",
+      "identifier": "twinklyMatrix"
+    },
+    "twinkly-spritzer": {
+      "codepoint": 58779,
+      "fontFamily": "Cbi",
+      "identifier": "twinklySpritzer"
+    },
+    "twinkly-squares": {
+      "codepoint": 58780,
+      "fontFamily": "Cbi",
+      "identifier": "twinklySquares"
+    },
+    "twinly": {
+      "codepoint": 58781,
+      "fontFamily": "Cbi",
+      "identifier": "twinly"
+    },
+    "twinly-c9": {
+      "codepoint": 58782,
+      "fontFamily": "Cbi",
+      "identifier": "twinlyC9"
+    },
+    "twinly-candies-candles": {
+      "codepoint": 58783,
+      "fontFamily": "Cbi",
+      "identifier": "twinlyCandiesCandles"
+    },
+    "twinly-candies-hearts": {
+      "codepoint": 58784,
+      "fontFamily": "Cbi",
+      "identifier": "twinlyCandiesHearts"
+    },
+    "twinly-curtian": {
+      "codepoint": 58785,
+      "fontFamily": "Cbi",
+      "identifier": "twinlyCurtian"
+    },
+    "twist-thermostat": {
+      "codepoint": 58786,
+      "fontFamily": "Cbi",
+      "identifier": "twistThermostat"
+    },
     "twitch": {
-      "codepoint": 57403,
+      "codepoint": 58787,
       "fontFamily": "Cbi",
       "identifier": "twitch"
     },
     "twitch-alt": {
-      "codepoint": 57404,
+      "codepoint": 58788,
       "fontFamily": "Cbi",
       "identifier": "twitchAlt"
     },
+    "ubiquiti": {
+      "codepoint": 58789,
+      "fontFamily": "Cbi",
+      "identifier": "ubiquiti"
+    },
+    "ubiquiti-ap": {
+      "codepoint": 58790,
+      "fontFamily": "Cbi",
+      "identifier": "ubiquitiAp"
+    },
+    "ubiquiti-cam-flex": {
+      "codepoint": 58791,
+      "fontFamily": "Cbi",
+      "identifier": "ubiquitiCamFlex"
+    },
+    "ubiquiti-cam-instant": {
+      "codepoint": 58792,
+      "fontFamily": "Cbi",
+      "identifier": "ubiquitiCamInstant"
+    },
+    "ubiquiti-logo": {
+      "codepoint": 58793,
+      "fontFamily": "Cbi",
+      "identifier": "ubiquitiLogo"
+    },
+    "ubiquiti-udm-pro": {
+      "codepoint": 58794,
+      "fontFamily": "Cbi",
+      "identifier": "ubiquitiUdmPro"
+    },
+    "ubiquiti-ux": {
+      "codepoint": 58795,
+      "fontFamily": "Cbi",
+      "identifier": "ubiquitiUx"
+    },
+    "ubiquiti-wifi-accesspoint": {
+      "codepoint": 58796,
+      "fontFamily": "Cbi",
+      "identifier": "ubiquitiWifiAccesspoint"
+    },
+    "uk-scouts": {
+      "codepoint": 58797,
+      "fontFamily": "Cbi",
+      "identifier": "ukScouts"
+    },
+    "ulanzi-tc001": {
+      "codepoint": 58798,
+      "fontFamily": "Cbi",
+      "identifier": "ulanziTc001"
+    },
+    "umage": {
+      "codepoint": 58799,
+      "fontFamily": "Cbi",
+      "identifier": "umage"
+    },
+    "umage-acorn": {
+      "codepoint": 58800,
+      "fontFamily": "Cbi",
+      "identifier": "umageAcorn"
+    },
+    "underfloor-heating": {
+      "codepoint": 58801,
+      "fontFamily": "Cbi",
+      "identifier": "underfloorHeating"
+    },
+    "unifi": {
+      "codepoint": 58802,
+      "fontFamily": "Cbi",
+      "identifier": "unifi"
+    },
+    "unifi-protect": {
+      "codepoint": 58803,
+      "fontFamily": "Cbi",
+      "identifier": "unifiProtect"
+    },
+    "unraid": {
+      "codepoint": 58804,
+      "fontFamily": "Cbi",
+      "identifier": "unraid"
+    },
+    "uplighter": {
+      "codepoint": 58805,
+      "fontFamily": "Cbi",
+      "identifier": "uplighter"
+    },
+    "ups-dlv": {
+      "codepoint": 58806,
+      "fontFamily": "Cbi",
+      "identifier": "upsDlv"
+    },
+    "upstairs": {
+      "codepoint": 58807,
+      "fontFamily": "Cbi",
+      "identifier": "upstairs"
+    },
+    "upstairs-1": {
+      "codepoint": 58808,
+      "fontFamily": "Cbi",
+      "identifier": "upstairs1"
+    },
+    "upstairs-2": {
+      "codepoint": 58809,
+      "fontFamily": "Cbi",
+      "identifier": "upstairs2"
+    },
+    "upstairs-3": {
+      "codepoint": 58810,
+      "fontFamily": "Cbi",
+      "identifier": "upstairs3"
+    },
+    "upstairs-4": {
+      "codepoint": 58811,
+      "fontFamily": "Cbi",
+      "identifier": "upstairs4"
+    },
+    "usb-smart-adaptor": {
+      "codepoint": 58812,
+      "fontFamily": "Cbi",
+      "identifier": "usbSmartAdaptor"
+    },
+    "usps": {
+      "codepoint": 58813,
+      "fontFamily": "Cbi",
+      "identifier": "usps"
+    },
+    "vac-filter": {
+      "codepoint": 58814,
+      "fontFamily": "Cbi",
+      "identifier": "vacFilter"
+    },
+    "vac-mbrush": {
+      "codepoint": 58815,
+      "fontFamily": "Cbi",
+      "identifier": "vacMbrush"
+    },
+    "vac-mop": {
+      "codepoint": 58816,
+      "fontFamily": "Cbi",
+      "identifier": "vacMop"
+    },
+    "vac-sbrush": {
+      "codepoint": 58817,
+      "fontFamily": "Cbi",
+      "identifier": "vacSbrush"
+    },
+    "vaillant": {
+      "codepoint": 58818,
+      "fontFamily": "Cbi",
+      "identifier": "vaillant"
+    },
+    "valetudo": {
+      "codepoint": 58819,
+      "fontFamily": "Cbi",
+      "identifier": "valetudo"
+    },
+    "vanguard": {
+      "codepoint": 58820,
+      "fontFamily": "Cbi",
+      "identifier": "vanguard"
+    },
+    "vaultwarden": {
+      "codepoint": 58821,
+      "fontFamily": "Cbi",
+      "identifier": "vaultwarden"
+    },
+    "vauxhall": {
+      "codepoint": 58822,
+      "fontFamily": "Cbi",
+      "identifier": "vauxhall"
+    },
+    "versuz-radio": {
+      "codepoint": 58823,
+      "fontFamily": "Cbi",
+      "identifier": "versuzRadio"
+    },
+    "vert-blind-close": {
+      "codepoint": 58824,
+      "fontFamily": "Cbi",
+      "identifier": "vertBlindClose"
+    },
+    "vert-blind-open": {
+      "codepoint": 58825,
+      "fontFamily": "Cbi",
+      "identifier": "vertBlindOpen"
+    },
+    "viaplay": {
+      "codepoint": 58826,
+      "fontFamily": "Cbi",
+      "identifier": "viaplay"
+    },
+    "victoria-m": {
+      "codepoint": 58827,
+      "fontFamily": "Cbi",
+      "identifier": "victoriaM"
+    },
+    "victron-energy": {
+      "codepoint": 58828,
+      "fontFamily": "Cbi",
+      "identifier": "victronEnergy"
+    },
+    "virgin": {
+      "codepoint": 58829,
+      "fontFamily": "Cbi",
+      "identifier": "virgin"
+    },
+    "virginmedia": {
+      "codepoint": 58830,
+      "fontFamily": "Cbi",
+      "identifier": "virginmedia"
+    },
+    "voc": {
+      "codepoint": 58831,
+      "fontFamily": "Cbi",
+      "identifier": "voc"
+    },
+    "volkswagen": {
+      "codepoint": 58832,
+      "fontFamily": "Cbi",
+      "identifier": "volkswagen"
+    },
+    "volvo": {
+      "codepoint": 58833,
+      "fontFamily": "Cbi",
+      "identifier": "volvo"
+    },
+    "volvo-alt": {
+      "codepoint": 58834,
+      "fontFamily": "Cbi",
+      "identifier": "volvoAlt"
+    },
     "voron": {
-      "codepoint": 57405,
+      "codepoint": 58835,
       "fontFamily": "Cbi",
       "identifier": "voron"
     },
+    "vox": {
+      "codepoint": 58836,
+      "fontFamily": "Cbi",
+      "identifier": "vox"
+    },
+    "vrt-klara": {
+      "codepoint": 58837,
+      "fontFamily": "Cbi",
+      "identifier": "vrtKlara"
+    },
+    "vrt-logo": {
+      "codepoint": 58838,
+      "fontFamily": "Cbi",
+      "identifier": "vrtLogo"
+    },
+    "vrt-max": {
+      "codepoint": 58839,
+      "fontFamily": "Cbi",
+      "identifier": "vrtMax"
+    },
+    "vrt-radio1": {
+      "codepoint": 58840,
+      "fontFamily": "Cbi",
+      "identifier": "vrtRadio1"
+    },
+    "vrt-stubru": {
+      "codepoint": 58841,
+      "fontFamily": "Cbi",
+      "identifier": "vrtStubru"
+    },
+    "vsc": {
+      "codepoint": 58842,
+      "fontFamily": "Cbi",
+      "identifier": "vsc"
+    },
+    "vtm": {
+      "codepoint": 58843,
+      "fontFamily": "Cbi",
+      "identifier": "vtm"
+    },
+    "vtm-alt": {
+      "codepoint": 58844,
+      "fontFamily": "Cbi",
+      "identifier": "vtmAlt"
+    },
+    "vtmgo": {
+      "codepoint": 58845,
+      "fontFamily": "Cbi",
+      "identifier": "vtmgo"
+    },
+    "vudu": {
+      "codepoint": 58846,
+      "fontFamily": "Cbi",
+      "identifier": "vudu"
+    },
+    "waiputv": {
+      "codepoint": 58847,
+      "fontFamily": "Cbi",
+      "identifier": "waiputv"
+    },
+    "waka-kotahi": {
+      "codepoint": 58848,
+      "fontFamily": "Cbi",
+      "identifier": "wakaKotahi"
+    },
+    "wakapi": {
+      "codepoint": 58849,
+      "fontFamily": "Cbi",
+      "identifier": "wakapi"
+    },
+    "wall-appear": {
+      "codepoint": 58850,
+      "fontFamily": "Cbi",
+      "identifier": "wallAppear"
+    },
+    "wall-appear-group": {
+      "codepoint": 58851,
+      "fontFamily": "Cbi",
+      "identifier": "wallAppearGroup"
+    },
+    "wall-econic": {
+      "codepoint": 58852,
+      "fontFamily": "Cbi",
+      "identifier": "wallEconic"
+    },
+    "wall-econic-lantern": {
+      "codepoint": 58853,
+      "fontFamily": "Cbi",
+      "identifier": "wallEconicLantern"
+    },
+    "wall-econic-lantern-base": {
+      "codepoint": 58854,
+      "fontFamily": "Cbi",
+      "identifier": "wallEconicLanternBase"
+    },
+    "wall-econic-lantern-top": {
+      "codepoint": 58855,
+      "fontFamily": "Cbi",
+      "identifier": "wallEconicLanternTop"
+    },
+    "wall-flood": {
+      "codepoint": 58856,
+      "fontFamily": "Cbi",
+      "identifier": "wallFlood"
+    },
     "wall-fuzo": {
-      "codepoint": 57406,
+      "codepoint": 58857,
       "fontFamily": "Cbi",
       "identifier": "wallFuzo"
     },
+    "wall-fuzo-h": {
+      "codepoint": 58858,
+      "fontFamily": "Cbi",
+      "identifier": "wallFuzoH"
+    },
+    "wall-impress": {
+      "codepoint": 58859,
+      "fontFamily": "Cbi",
+      "identifier": "wallImpress"
+    },
+    "wall-impress-narrow": {
+      "codepoint": 58860,
+      "fontFamily": "Cbi",
+      "identifier": "wallImpressNarrow"
+    },
+    "wall-impress-narrow-three": {
+      "codepoint": 58861,
+      "fontFamily": "Cbi",
+      "identifier": "wallImpressNarrowThree"
+    },
+    "wall-impress-narrow-two": {
+      "codepoint": 58862,
+      "fontFamily": "Cbi",
+      "identifier": "wallImpressNarrowTwo"
+    },
+    "wall-inara": {
+      "codepoint": 58863,
+      "fontFamily": "Cbi",
+      "identifier": "wallInara"
+    },
+    "wall-inara-alt": {
+      "codepoint": 58864,
+      "fontFamily": "Cbi",
+      "identifier": "wallInaraAlt"
+    },
+    "wall-lantern": {
+      "codepoint": 58865,
+      "fontFamily": "Cbi",
+      "identifier": "wallLantern"
+    },
+    "wall-lucca": {
+      "codepoint": 58866,
+      "fontFamily": "Cbi",
+      "identifier": "wallLucca"
+    },
+    "wall-lucca-alt": {
+      "codepoint": 58867,
+      "fontFamily": "Cbi",
+      "identifier": "wallLuccaAlt"
+    },
+    "wall-lucca-alt-below": {
+      "codepoint": 58868,
+      "fontFamily": "Cbi",
+      "identifier": "wallLuccaAltBelow"
+    },
+    "wall-mounted-tablet": {
+      "codepoint": 58869,
+      "fontFamily": "Cbi",
+      "identifier": "wallMountedTablet"
+    },
     "wall-nyro": {
-      "codepoint": 57407,
+      "codepoint": 58870,
       "fontFamily": "Cbi",
       "identifier": "wallNyro"
     },
+    "wall-resonate": {
+      "codepoint": 58871,
+      "fontFamily": "Cbi",
+      "identifier": "wallResonate"
+    },
+    "wall-runner": {
+      "codepoint": 58872,
+      "fontFamily": "Cbi",
+      "identifier": "wallRunner"
+    },
+    "wall-shade": {
+      "codepoint": 58873,
+      "fontFamily": "Cbi",
+      "identifier": "wallShade"
+    },
+    "wall-spot": {
+      "codepoint": 58874,
+      "fontFamily": "Cbi",
+      "identifier": "wallSpot"
+    },
+    "wall-switch": {
+      "codepoint": 58875,
+      "fontFamily": "Cbi",
+      "identifier": "wallSwitch"
+    },
+    "wall-switch-module": {
+      "codepoint": 58876,
+      "fontFamily": "Cbi",
+      "identifier": "wallSwitchModule"
+    },
+    "wall-tuar": {
+      "codepoint": 58877,
+      "fontFamily": "Cbi",
+      "identifier": "wallTuar"
+    },
+    "wall-turaco": {
+      "codepoint": 58878,
+      "fontFamily": "Cbi",
+      "identifier": "wallTuraco"
+    },
+    "walllantern": {
+      "codepoint": 58879,
+      "fontFamily": "Cbi",
+      "identifier": "walllantern"
+    },
+    "wallshade": {
+      "codepoint": 58880,
+      "fontFamily": "Cbi",
+      "identifier": "wallshade"
+    },
+    "wallspot": {
+      "codepoint": 58881,
+      "fontFamily": "Cbi",
+      "identifier": "wallspot"
+    },
+    "walmart": {
+      "codepoint": 58882,
+      "fontFamily": "Cbi",
+      "identifier": "walmart"
+    },
+    "water-reservoir": {
+      "codepoint": 58883,
+      "fontFamily": "Cbi",
+      "identifier": "waterReservoir"
+    },
+    "water-softener": {
+      "codepoint": 58884,
+      "fontFamily": "Cbi",
+      "identifier": "waterSoftener"
+    },
+    "wdr1": {
+      "codepoint": 58885,
+      "fontFamily": "Cbi",
+      "identifier": "wdr1"
+    },
+    "weather-page-alt": {
+      "codepoint": 58886,
+      "fontFamily": "Cbi",
+      "identifier": "weatherPageAlt"
+    },
+    "webmin": {
+      "codepoint": 58887,
+      "fontFamily": "Cbi",
+      "identifier": "webmin"
+    },
+    "wellner": {
+      "codepoint": 58888,
+      "fontFamily": "Cbi",
+      "identifier": "wellner"
+    },
+    "wellner-solid": {
+      "codepoint": 58889,
+      "fontFamily": "Cbi",
+      "identifier": "wellnerSolid"
+    },
+    "wellness": {
+      "codepoint": 58890,
+      "fontFamily": "Cbi",
+      "identifier": "wellness"
+    },
+    "wheel-loader": {
+      "codepoint": 58891,
+      "fontFamily": "Cbi",
+      "identifier": "wheelLoader"
+    },
+    "wifi-dongle": {
+      "codepoint": 58892,
+      "fontFamily": "Cbi",
+      "identifier": "wifiDongle"
+    },
+    "wifi-extender": {
+      "codepoint": 58893,
+      "fontFamily": "Cbi",
+      "identifier": "wifiExtender"
+    },
+    "window-sensor": {
+      "codepoint": 58894,
+      "fontFamily": "Cbi",
+      "identifier": "windowSensor"
+    },
+    "windows": {
+      "codepoint": 58895,
+      "fontFamily": "Cbi",
+      "identifier": "windows"
+    },
+    "wink-tv": {
+      "codepoint": 58896,
+      "fontFamily": "Cbi",
+      "identifier": "winkTv"
+    },
+    "wireguard": {
+      "codepoint": 58897,
+      "fontFamily": "Cbi",
+      "identifier": "wireguard"
+    },
+    "wireguard-alt": {
+      "codepoint": 58898,
+      "fontFamily": "Cbi",
+      "identifier": "wireguardAlt"
+    },
+    "wiser-heating-ctl-off": {
+      "codepoint": 58899,
+      "fontFamily": "Cbi",
+      "identifier": "wiserHeatingCtlOff"
+    },
+    "wiser-heating-ctl-on": {
+      "codepoint": 58900,
+      "fontFamily": "Cbi",
+      "identifier": "wiserHeatingCtlOn"
+    },
+    "wiser-thermostat-off": {
+      "codepoint": 58901,
+      "fontFamily": "Cbi",
+      "identifier": "wiserThermostatOff"
+    },
+    "wiser-thermostat-on": {
+      "codepoint": 58902,
+      "fontFamily": "Cbi",
+      "identifier": "wiserThermostatOn"
+    },
     "wled": {
-      "codepoint": 57408,
+      "codepoint": 58903,
       "fontFamily": "Cbi",
       "identifier": "wled"
     },
+    "world-scout": {
+      "codepoint": 58904,
+      "fontFamily": "Cbi",
+      "identifier": "worldScout"
+    },
+    "world-scout-alt": {
+      "codepoint": 58905,
+      "fontFamily": "Cbi",
+      "identifier": "worldScoutAlt"
+    },
+    "wow": {
+      "codepoint": 58906,
+      "fontFamily": "Cbi",
+      "identifier": "wow"
+    },
+    "wps-wifi": {
+      "codepoint": 58907,
+      "fontFamily": "Cbi",
+      "identifier": "wpsWifi"
+    },
+    "wyzecam": {
+      "codepoint": 58908,
+      "fontFamily": "Cbi",
+      "identifier": "wyzecam"
+    },
+    "xbox": {
+      "codepoint": 58909,
+      "fontFamily": "Cbi",
+      "identifier": "xbox"
+    },
+    "xbox-alt": {
+      "codepoint": 58910,
+      "fontFamily": "Cbi",
+      "identifier": "xboxAlt"
+    },
+    "xiaomi-air-purifier": {
+      "codepoint": 58911,
+      "fontFamily": "Cbi",
+      "identifier": "xiaomiAirPurifier"
+    },
+    "xiaomi-air-purifier-pro": {
+      "codepoint": 58912,
+      "fontFamily": "Cbi",
+      "identifier": "xiaomiAirPurifierPro"
+    },
+    "xiaomi-logo": {
+      "codepoint": 58913,
+      "fontFamily": "Cbi",
+      "identifier": "xiaomiLogo"
+    },
     "xt2-camera": {
-      "codepoint": 57409,
+      "codepoint": 58914,
       "fontFamily": "Cbi",
       "identifier": "xt2Camera"
     },
+    "yamaha-rx-v773": {
+      "codepoint": 58915,
+      "fontFamily": "Cbi",
+      "identifier": "yamahaRxV773"
+    },
+    "yeelight-beside-lamp": {
+      "codepoint": 58916,
+      "fontFamily": "Cbi",
+      "identifier": "yeelightBesideLamp"
+    },
+    "yeelight-bulb": {
+      "codepoint": 58917,
+      "fontFamily": "Cbi",
+      "identifier": "yeelightBulb"
+    },
+    "yeelight-bulb-group": {
+      "codepoint": 58918,
+      "fontFamily": "Cbi",
+      "identifier": "yeelightBulbGroup"
+    },
+    "yeelight-ceiling": {
+      "codepoint": 58919,
+      "fontFamily": "Cbi",
+      "identifier": "yeelightCeiling"
+    },
+    "yeelight-cube": {
+      "codepoint": 58920,
+      "fontFamily": "Cbi",
+      "identifier": "yeelightCube"
+    },
+    "yeelight-cube2": {
+      "codepoint": 58921,
+      "fontFamily": "Cbi",
+      "identifier": "yeelightCube2"
+    },
+    "yeelight-desklamp": {
+      "codepoint": 58922,
+      "fontFamily": "Cbi",
+      "identifier": "yeelightDesklamp"
+    },
+    "yeelight-meteorite": {
+      "codepoint": 58923,
+      "fontFamily": "Cbi",
+      "identifier": "yeelightMeteorite"
+    },
+    "yeelight-strip": {
+      "codepoint": 58924,
+      "fontFamily": "Cbi",
+      "identifier": "yeelightStrip"
+    },
     "your-spotify": {
-      "codepoint": 57410,
+      "codepoint": 58925,
       "fontFamily": "Cbi",
       "identifier": "yourSpotify"
     },
+    "youtube": {
+      "codepoint": 58926,
+      "fontFamily": "Cbi",
+      "identifier": "youtube"
+    },
+    "youtube-alt": {
+      "codepoint": 58927,
+      "fontFamily": "Cbi",
+      "identifier": "youtubeAlt"
+    },
+    "youtube-kids": {
+      "codepoint": 58928,
+      "fontFamily": "Cbi",
+      "identifier": "youtubeKids"
+    },
+    "youtube-music": {
+      "codepoint": 58929,
+      "fontFamily": "Cbi",
+      "identifier": "youtubeMusic"
+    },
     "youtube-tv": {
-      "codepoint": 57411,
+      "codepoint": 58930,
       "fontFamily": "Cbi",
       "identifier": "youtubeTv"
+    },
+    "zattoo": {
+      "codepoint": 58931,
+      "fontFamily": "Cbi",
+      "identifier": "zattoo"
+    },
+    "zdf": {
+      "codepoint": 58932,
+      "fontFamily": "Cbi",
+      "identifier": "zdf"
+    },
+    "zdfheute": {
+      "codepoint": 58933,
+      "fontFamily": "Cbi",
+      "identifier": "zdfheute"
+    },
+    "zdfinfo": {
+      "codepoint": 58934,
+      "fontFamily": "Cbi",
+      "identifier": "zdfinfo"
+    },
+    "zen": {
+      "codepoint": 58935,
+      "fontFamily": "Cbi",
+      "identifier": "zen"
+    },
+    "zero-motorcycles": {
+      "codepoint": 58936,
+      "fontFamily": "Cbi",
+      "identifier": "zeroMotorcycles"
+    },
+    "zigbee-dongle": {
+      "codepoint": 58937,
+      "fontFamily": "Cbi",
+      "identifier": "zigbeeDongle"
+    },
+    "zigbee2mqtt": {
+      "codepoint": 58938,
+      "fontFamily": "Cbi",
+      "identifier": "zigbee2mqtt"
+    },
+    "ziggo": {
+      "codepoint": 58939,
+      "fontFamily": "Cbi",
+      "identifier": "ziggo"
+    },
+    "zones-areas-first-floor": {
+      "codepoint": 58940,
+      "fontFamily": "Cbi",
+      "identifier": "zonesAreasFirstFloor"
+    },
+    "zones-areas-ground-floor": {
+      "codepoint": 58941,
+      "fontFamily": "Cbi",
+      "identifier": "zonesAreasGroundFloor"
+    },
+    "zones-areas-second-floor": {
+      "codepoint": 58942,
+      "fontFamily": "Cbi",
+      "identifier": "zonesAreasSecondFloor"
+    },
+    "zonneplan": {
+      "codepoint": 58943,
+      "fontFamily": "Cbi",
+      "identifier": "zonneplan"
+    },
+    "zwave-dongle": {
+      "codepoint": 58944,
+      "fontFamily": "Cbi",
+      "identifier": "zwaveDongle"
+    },
+    "zwavejs": {
+      "codepoint": 58945,
+      "fontFamily": "Cbi",
+      "identifier": "zwavejs"
     }
   }
 }

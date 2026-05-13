@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/basmilius/weather-icons/blob/dev/LICENSE"
     },
-    "total": 5
+    "total": 4
   },
   "fonts": [
     {
       "family": "Meteocons",
-      "nextCodepoint": 57349,
-      "iconCount": 5
+      "nextCodepoint": 57348,
+      "iconCount": 4
     }
   ],
   "icons": {
@@ -45,11 +45,6 @@
       "codepoint": 57347,
       "fontFamily": "Meteocons",
       "identifier": "moonFull"
-    },
-    "thermometer-glass": {
-      "codepoint": 57348,
-      "fontFamily": "Meteocons",
-      "identifier": "thermometerGlass"
     }
   }
 }

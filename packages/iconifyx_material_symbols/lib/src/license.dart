@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'Apache 2.0',
   licenseSpdx: 'Apache-2.0',
   licenseUrl: 'https://github.com/google/material-design-icons/blob/master/LICENSE',
-  iconCount: 3218,
+  iconCount: 18575,
 );

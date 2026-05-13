@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/0xa3k5/web3icons/blob/main/LICENCE',
-  iconCount: 134,
+  iconCount: 660,
 );

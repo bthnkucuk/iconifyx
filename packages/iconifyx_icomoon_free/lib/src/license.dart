@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'GPL',
   licenseSpdx: 'GPL-3.0-or-later',
   licenseUrl: 'https://www.gnu.org/licenses/gpl.html',
-  iconCount: 170,
+  iconCount: 491,
 );

@@ -10,5 +10,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   authorUrl: 'https://github.com/icons8/WPF-UI-Framework',
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
-  iconCount: 18,
+  iconCount: 283,
 );

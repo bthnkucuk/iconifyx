@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/basmilius/weather-icons/blob/dev/LICENSE',
-  iconCount: 5,
+  iconCount: 4,
 );

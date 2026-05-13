@@ -10,5 +10,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   authorUrl: 'https://github.com/weui/weui-icon',
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
-  iconCount: 64,
+  iconCount: 159,
 );

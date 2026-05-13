@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/themesberg/flowbite-icons/blob/main/LICENSE',
-  iconCount: 424,
+  iconCount: 832,
 );

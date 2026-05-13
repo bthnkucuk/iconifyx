@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Akveo
 /// License: MIT — https://github.com/akveo/eva-icons/blob/master/LICENSE.txt
-/// Icons: 488
+/// Icons: 487
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -884,2550 +884,2543 @@ class EvaIcons {
     fontPackage: 'iconifyx_eva',
   ));
 
-  /// `cloud-download-fill`
-  static const IconifyIconData cloudDownloadFill = IconifyIconData(IconData(
-    0xe07c,
-    fontFamily: 'Eva',
-    fontPackage: 'iconifyx_eva',
-  ));
-
   /// `cloud-download-outline`
   static const IconifyIconData cloudDownloadOutline = IconifyIconData(IconData(
-    0xe07d,
+    0xe07c,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `cloud-upload-fill`
   static const IconifyIconData cloudUploadFill = IconifyIconData(IconData(
-    0xe07e,
+    0xe07d,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `cloud-upload-outline`
   static const IconifyIconData cloudUploadOutline = IconifyIconData(IconData(
-    0xe07f,
+    0xe07e,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `code-download-fill`
   static const IconifyIconData codeDownloadFill = IconifyIconData(IconData(
-    0xe080,
+    0xe07f,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `code-download-outline`
   static const IconifyIconData codeDownloadOutline = IconifyIconData(IconData(
-    0xe081,
+    0xe080,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `code-fill`
   static const IconifyIconData codeFill = IconifyIconData(IconData(
-    0xe082,
+    0xe081,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `code-outline`
   static const IconifyIconData codeOutline = IconifyIconData(IconData(
-    0xe083,
+    0xe082,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `collapse-fill`
   static const IconifyIconData collapseFill = IconifyIconData(IconData(
-    0xe084,
+    0xe083,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `collapse-outline`
   static const IconifyIconData collapseOutline = IconifyIconData(IconData(
-    0xe085,
+    0xe084,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `color-palette-fill`
   static const IconifyIconData colorPaletteFill = IconifyIconData(IconData(
-    0xe086,
+    0xe085,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `color-palette-outline`
   static const IconifyIconData colorPaletteOutline = IconifyIconData(IconData(
-    0xe087,
+    0xe086,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `color-picker-fill`
   static const IconifyIconData colorPickerFill = IconifyIconData(IconData(
-    0xe088,
+    0xe087,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `color-picker-outline`
   static const IconifyIconData colorPickerOutline = IconifyIconData(IconData(
-    0xe089,
+    0xe088,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `compass-fill`
   static const IconifyIconData compassFill = IconifyIconData(IconData(
-    0xe08a,
+    0xe089,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `compass-outline`
   static const IconifyIconData compassOutline = IconifyIconData(IconData(
-    0xe08b,
+    0xe08a,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `copy-fill`
   static const IconifyIconData copyFill = IconifyIconData(IconData(
-    0xe08c,
+    0xe08b,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `copy-outline`
   static const IconifyIconData copyOutline = IconifyIconData(IconData(
-    0xe08d,
+    0xe08c,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `corner-down-left-fill`
   static const IconifyIconData cornerDownLeftFill = IconifyIconData(IconData(
-    0xe08e,
+    0xe08d,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `corner-down-left-outline`
   static const IconifyIconData cornerDownLeftOutline = IconifyIconData(IconData(
-    0xe08f,
+    0xe08e,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `corner-down-right-fill`
   static const IconifyIconData cornerDownRightFill = IconifyIconData(IconData(
-    0xe090,
+    0xe08f,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `corner-down-right-outline`
   static const IconifyIconData cornerDownRightOutline = IconifyIconData(IconData(
-    0xe091,
+    0xe090,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `corner-left-down-fill`
   static const IconifyIconData cornerLeftDownFill = IconifyIconData(IconData(
-    0xe092,
+    0xe091,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `corner-left-down-outline`
   static const IconifyIconData cornerLeftDownOutline = IconifyIconData(IconData(
-    0xe093,
+    0xe092,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `corner-left-up-fill`
   static const IconifyIconData cornerLeftUpFill = IconifyIconData(IconData(
-    0xe094,
+    0xe093,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `corner-left-up-outline`
   static const IconifyIconData cornerLeftUpOutline = IconifyIconData(IconData(
-    0xe095,
+    0xe094,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `corner-right-down-fill`
   static const IconifyIconData cornerRightDownFill = IconifyIconData(IconData(
-    0xe096,
+    0xe095,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `corner-right-down-outline`
   static const IconifyIconData cornerRightDownOutline = IconifyIconData(IconData(
-    0xe097,
+    0xe096,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `corner-right-up-fill`
   static const IconifyIconData cornerRightUpFill = IconifyIconData(IconData(
-    0xe098,
+    0xe097,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `corner-right-up-outline`
   static const IconifyIconData cornerRightUpOutline = IconifyIconData(IconData(
-    0xe099,
+    0xe098,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `corner-up-left-fill`
   static const IconifyIconData cornerUpLeftFill = IconifyIconData(IconData(
-    0xe09a,
+    0xe099,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `corner-up-left-outline`
   static const IconifyIconData cornerUpLeftOutline = IconifyIconData(IconData(
-    0xe09b,
+    0xe09a,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `corner-up-right-fill`
   static const IconifyIconData cornerUpRightFill = IconifyIconData(IconData(
-    0xe09c,
+    0xe09b,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `corner-up-right-outline`
   static const IconifyIconData cornerUpRightOutline = IconifyIconData(IconData(
-    0xe09d,
+    0xe09c,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `credit-card-fill`
   static const IconifyIconData creditCardFill = IconifyIconData(IconData(
-    0xe09e,
+    0xe09d,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `credit-card-outline`
   static const IconifyIconData creditCardOutline = IconifyIconData(IconData(
-    0xe09f,
+    0xe09e,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `crop-fill`
   static const IconifyIconData cropFill = IconifyIconData(IconData(
-    0xe0a0,
+    0xe09f,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `crop-outline`
   static const IconifyIconData cropOutline = IconifyIconData(IconData(
-    0xe0a1,
+    0xe0a0,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `cube-fill`
   static const IconifyIconData cubeFill = IconifyIconData(IconData(
-    0xe0a2,
+    0xe0a1,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `cube-outline`
   static const IconifyIconData cubeOutline = IconifyIconData(IconData(
-    0xe0a3,
+    0xe0a2,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `diagonal-arrow-left-down-fill`
   static const IconifyIconData diagonalArrowLeftDownFill = IconifyIconData(IconData(
-    0xe0a4,
+    0xe0a3,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `diagonal-arrow-left-down-outline`
   static const IconifyIconData diagonalArrowLeftDownOutline = IconifyIconData(IconData(
-    0xe0a5,
+    0xe0a4,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `diagonal-arrow-left-up-fill`
   static const IconifyIconData diagonalArrowLeftUpFill = IconifyIconData(IconData(
-    0xe0a6,
+    0xe0a5,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `diagonal-arrow-left-up-outline`
   static const IconifyIconData diagonalArrowLeftUpOutline = IconifyIconData(IconData(
-    0xe0a7,
+    0xe0a6,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `diagonal-arrow-right-down-fill`
   static const IconifyIconData diagonalArrowRightDownFill = IconifyIconData(IconData(
-    0xe0a8,
+    0xe0a7,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `diagonal-arrow-right-down-outline`
   static const IconifyIconData diagonalArrowRightDownOutline = IconifyIconData(IconData(
-    0xe0a9,
+    0xe0a8,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `diagonal-arrow-right-up-fill`
   static const IconifyIconData diagonalArrowRightUpFill = IconifyIconData(IconData(
-    0xe0aa,
+    0xe0a9,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `diagonal-arrow-right-up-outline`
   static const IconifyIconData diagonalArrowRightUpOutline = IconifyIconData(IconData(
-    0xe0ab,
+    0xe0aa,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `done-all-fill`
   static const IconifyIconData doneAllFill = IconifyIconData(IconData(
-    0xe0ac,
+    0xe0ab,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `done-all-outline`
   static const IconifyIconData doneAllOutline = IconifyIconData(IconData(
-    0xe0ad,
+    0xe0ac,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `download-fill`
   static const IconifyIconData downloadFill = IconifyIconData(IconData(
-    0xe0ae,
+    0xe0ad,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `download-outline`
   static const IconifyIconData downloadOutline = IconifyIconData(IconData(
-    0xe0af,
+    0xe0ae,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `droplet-fill`
   static const IconifyIconData dropletFill = IconifyIconData(IconData(
-    0xe0b0,
+    0xe0af,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `droplet-off-fill`
   static const IconifyIconData dropletOffFill = IconifyIconData(IconData(
-    0xe0b1,
+    0xe0b0,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `droplet-off-outline`
   static const IconifyIconData dropletOffOutline = IconifyIconData(IconData(
-    0xe0b2,
+    0xe0b1,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `droplet-outline`
   static const IconifyIconData dropletOutline = IconifyIconData(IconData(
-    0xe0b3,
+    0xe0b2,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `edit-2-fill`
   static const IconifyIconData edit2Fill = IconifyIconData(IconData(
-    0xe0b4,
+    0xe0b3,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `edit-2-outline`
   static const IconifyIconData edit2Outline = IconifyIconData(IconData(
-    0xe0b5,
+    0xe0b4,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `edit-fill`
   static const IconifyIconData editFill = IconifyIconData(IconData(
-    0xe0b6,
+    0xe0b5,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `edit-outline`
   static const IconifyIconData editOutline = IconifyIconData(IconData(
-    0xe0b7,
+    0xe0b6,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `email-fill`
   static const IconifyIconData emailFill = IconifyIconData(IconData(
-    0xe0b8,
+    0xe0b7,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `email-outline`
   static const IconifyIconData emailOutline = IconifyIconData(IconData(
-    0xe0b9,
+    0xe0b8,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `expand-fill`
   static const IconifyIconData expandFill = IconifyIconData(IconData(
-    0xe0ba,
+    0xe0b9,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `expand-outline`
   static const IconifyIconData expandOutline = IconifyIconData(IconData(
-    0xe0bb,
+    0xe0ba,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `external-link-fill`
   static const IconifyIconData externalLinkFill = IconifyIconData(IconData(
-    0xe0bc,
+    0xe0bb,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `external-link-outline`
   static const IconifyIconData externalLinkOutline = IconifyIconData(IconData(
-    0xe0bd,
+    0xe0bc,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `eye-fill`
   static const IconifyIconData eyeFill = IconifyIconData(IconData(
-    0xe0be,
+    0xe0bd,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `eye-off-2-fill`
   static const IconifyIconData eyeOff2Fill = IconifyIconData(IconData(
-    0xe0bf,
+    0xe0be,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `eye-off-2-outline`
   static const IconifyIconData eyeOff2Outline = IconifyIconData(IconData(
-    0xe0c0,
+    0xe0bf,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `eye-off-fill`
   static const IconifyIconData eyeOffFill = IconifyIconData(IconData(
-    0xe0c1,
+    0xe0c0,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `eye-off-outline`
   static const IconifyIconData eyeOffOutline = IconifyIconData(IconData(
-    0xe0c2,
+    0xe0c1,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `eye-outline`
   static const IconifyIconData eyeOutline = IconifyIconData(IconData(
-    0xe0c3,
+    0xe0c2,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `facebook-fill`
   static const IconifyIconData facebookFill = IconifyIconData(IconData(
-    0xe0c4,
+    0xe0c3,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `facebook-outline`
   static const IconifyIconData facebookOutline = IconifyIconData(IconData(
-    0xe0c5,
+    0xe0c4,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `file-add-fill`
   static const IconifyIconData fileAddFill = IconifyIconData(IconData(
-    0xe0c6,
+    0xe0c5,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `file-add-outline`
   static const IconifyIconData fileAddOutline = IconifyIconData(IconData(
-    0xe0c7,
+    0xe0c6,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `file-fill`
   static const IconifyIconData fileFill = IconifyIconData(IconData(
-    0xe0c8,
+    0xe0c7,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `file-outline`
   static const IconifyIconData fileOutline = IconifyIconData(IconData(
-    0xe0c9,
+    0xe0c8,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `file-remove-fill`
   static const IconifyIconData fileRemoveFill = IconifyIconData(IconData(
-    0xe0ca,
+    0xe0c9,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `file-remove-outline`
   static const IconifyIconData fileRemoveOutline = IconifyIconData(IconData(
-    0xe0cb,
+    0xe0ca,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `file-text-fill`
   static const IconifyIconData fileTextFill = IconifyIconData(IconData(
-    0xe0cc,
+    0xe0cb,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `file-text-outline`
   static const IconifyIconData fileTextOutline = IconifyIconData(IconData(
-    0xe0cd,
+    0xe0cc,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `film-fill`
   static const IconifyIconData filmFill = IconifyIconData(IconData(
-    0xe0ce,
+    0xe0cd,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `film-outline`
   static const IconifyIconData filmOutline = IconifyIconData(IconData(
-    0xe0cf,
+    0xe0ce,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `flag-fill`
   static const IconifyIconData flagFill = IconifyIconData(IconData(
-    0xe0d0,
+    0xe0cf,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `flag-outline`
   static const IconifyIconData flagOutline = IconifyIconData(IconData(
-    0xe0d1,
+    0xe0d0,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `flash-fill`
   static const IconifyIconData flashFill = IconifyIconData(IconData(
-    0xe0d2,
+    0xe0d1,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `flash-off-fill`
   static const IconifyIconData flashOffFill = IconifyIconData(IconData(
-    0xe0d3,
+    0xe0d2,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `flash-off-outline`
   static const IconifyIconData flashOffOutline = IconifyIconData(IconData(
-    0xe0d4,
+    0xe0d3,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `flash-outline`
   static const IconifyIconData flashOutline = IconifyIconData(IconData(
-    0xe0d5,
+    0xe0d4,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `flip-2-fill`
   static const IconifyIconData flip2Fill = IconifyIconData(IconData(
-    0xe0d6,
+    0xe0d5,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `flip-2-outline`
   static const IconifyIconData flip2Outline = IconifyIconData(IconData(
-    0xe0d7,
+    0xe0d6,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `flip-fill`
   static const IconifyIconData flipFill = IconifyIconData(IconData(
-    0xe0d8,
+    0xe0d7,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `flip-outline`
   static const IconifyIconData flipOutline = IconifyIconData(IconData(
-    0xe0d9,
+    0xe0d8,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `folder-add-fill`
   static const IconifyIconData folderAddFill = IconifyIconData(IconData(
-    0xe0da,
+    0xe0d9,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `folder-add-outline`
   static const IconifyIconData folderAddOutline = IconifyIconData(IconData(
-    0xe0db,
+    0xe0da,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `folder-fill`
   static const IconifyIconData folderFill = IconifyIconData(IconData(
-    0xe0dc,
+    0xe0db,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `folder-outline`
   static const IconifyIconData folderOutline = IconifyIconData(IconData(
-    0xe0dd,
+    0xe0dc,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `folder-remove-fill`
   static const IconifyIconData folderRemoveFill = IconifyIconData(IconData(
-    0xe0de,
+    0xe0dd,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `folder-remove-outline`
   static const IconifyIconData folderRemoveOutline = IconifyIconData(IconData(
-    0xe0df,
+    0xe0de,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `funnel-fill`
   static const IconifyIconData funnelFill = IconifyIconData(IconData(
-    0xe0e0,
+    0xe0df,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `funnel-outline`
   static const IconifyIconData funnelOutline = IconifyIconData(IconData(
-    0xe0e1,
+    0xe0e0,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `gift-fill`
   static const IconifyIconData giftFill = IconifyIconData(IconData(
-    0xe0e2,
+    0xe0e1,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `gift-outline`
   static const IconifyIconData giftOutline = IconifyIconData(IconData(
-    0xe0e3,
+    0xe0e2,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `github-fill`
   static const IconifyIconData githubFill = IconifyIconData(IconData(
-    0xe0e4,
+    0xe0e3,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `github-outline`
   static const IconifyIconData githubOutline = IconifyIconData(IconData(
-    0xe0e5,
+    0xe0e4,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `globe-2-fill`
   static const IconifyIconData globe2Fill = IconifyIconData(IconData(
-    0xe0e6,
+    0xe0e5,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `globe-2-outline`
   static const IconifyIconData globe2Outline = IconifyIconData(IconData(
-    0xe0e7,
+    0xe0e6,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `globe-3-fill`
   static const IconifyIconData globe3Fill = IconifyIconData(IconData(
-    0xe0e8,
+    0xe0e7,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `globe-fill`
   static const IconifyIconData globeFill = IconifyIconData(IconData(
-    0xe0e9,
+    0xe0e8,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `globe-outline`
   static const IconifyIconData globeOutline = IconifyIconData(IconData(
-    0xe0ea,
+    0xe0e9,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `google-fill`
   static const IconifyIconData googleFill = IconifyIconData(IconData(
-    0xe0eb,
+    0xe0ea,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `google-outline`
   static const IconifyIconData googleOutline = IconifyIconData(IconData(
-    0xe0ec,
+    0xe0eb,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `grid-fill`
   static const IconifyIconData gridFill = IconifyIconData(IconData(
-    0xe0ed,
+    0xe0ec,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `grid-outline`
   static const IconifyIconData gridOutline = IconifyIconData(IconData(
-    0xe0ee,
+    0xe0ed,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `hard-drive-fill`
   static const IconifyIconData hardDriveFill = IconifyIconData(IconData(
-    0xe0ef,
+    0xe0ee,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `hard-drive-outline`
   static const IconifyIconData hardDriveOutline = IconifyIconData(IconData(
-    0xe0f0,
+    0xe0ef,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `hash-fill`
   static const IconifyIconData hashFill = IconifyIconData(IconData(
-    0xe0f1,
+    0xe0f0,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `hash-outline`
   static const IconifyIconData hashOutline = IconifyIconData(IconData(
-    0xe0f2,
+    0xe0f1,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `headphones-fill`
   static const IconifyIconData headphonesFill = IconifyIconData(IconData(
-    0xe0f3,
+    0xe0f2,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `headphones-outline`
   static const IconifyIconData headphonesOutline = IconifyIconData(IconData(
-    0xe0f4,
+    0xe0f3,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `heart-fill`
   static const IconifyIconData heartFill = IconifyIconData(IconData(
-    0xe0f5,
+    0xe0f4,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `heart-outline`
   static const IconifyIconData heartOutline = IconifyIconData(IconData(
-    0xe0f6,
+    0xe0f5,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `home-fill`
   static const IconifyIconData homeFill = IconifyIconData(IconData(
-    0xe0f7,
+    0xe0f6,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `home-outline`
   static const IconifyIconData homeOutline = IconifyIconData(IconData(
-    0xe0f8,
+    0xe0f7,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `image-2-fill`
   static const IconifyIconData image2Fill = IconifyIconData(IconData(
-    0xe0f9,
+    0xe0f8,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `image-fill`
   static const IconifyIconData imageFill = IconifyIconData(IconData(
-    0xe0fa,
+    0xe0f9,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `image-outline`
   static const IconifyIconData imageOutline = IconifyIconData(IconData(
-    0xe0fb,
+    0xe0fa,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `inbox-fill`
   static const IconifyIconData inboxFill = IconifyIconData(IconData(
-    0xe0fc,
+    0xe0fb,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `inbox-outline`
   static const IconifyIconData inboxOutline = IconifyIconData(IconData(
-    0xe0fd,
+    0xe0fc,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `info-fill`
   static const IconifyIconData infoFill = IconifyIconData(IconData(
-    0xe0fe,
+    0xe0fd,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `info-outline`
   static const IconifyIconData infoOutline = IconifyIconData(IconData(
-    0xe0ff,
+    0xe0fe,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `keypad-fill`
   static const IconifyIconData keypadFill = IconifyIconData(IconData(
-    0xe100,
+    0xe0ff,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `keypad-outline`
   static const IconifyIconData keypadOutline = IconifyIconData(IconData(
-    0xe101,
+    0xe100,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `layers-fill`
   static const IconifyIconData layersFill = IconifyIconData(IconData(
-    0xe102,
+    0xe101,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `layers-outline`
   static const IconifyIconData layersOutline = IconifyIconData(IconData(
-    0xe103,
+    0xe102,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `layout-fill`
   static const IconifyIconData layoutFill = IconifyIconData(IconData(
-    0xe104,
+    0xe103,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `layout-outline`
   static const IconifyIconData layoutOutline = IconifyIconData(IconData(
-    0xe105,
+    0xe104,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `link-2-fill`
   static const IconifyIconData link2Fill = IconifyIconData(IconData(
-    0xe106,
+    0xe105,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `link-2-outline`
   static const IconifyIconData link2Outline = IconifyIconData(IconData(
-    0xe107,
+    0xe106,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `link-fill`
   static const IconifyIconData linkFill = IconifyIconData(IconData(
-    0xe108,
+    0xe107,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `link-outline`
   static const IconifyIconData linkOutline = IconifyIconData(IconData(
-    0xe109,
+    0xe108,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `linkedin-fill`
   static const IconifyIconData linkedinFill = IconifyIconData(IconData(
-    0xe10a,
+    0xe109,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `linkedin-outline`
   static const IconifyIconData linkedinOutline = IconifyIconData(IconData(
-    0xe10b,
+    0xe10a,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `list-fill`
   static const IconifyIconData listFill = IconifyIconData(IconData(
-    0xe10c,
+    0xe10b,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `list-outline`
   static const IconifyIconData listOutline = IconifyIconData(IconData(
-    0xe10d,
+    0xe10c,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `loader-outline`
   static const IconifyIconData loaderOutline = IconifyIconData(IconData(
-    0xe10e,
+    0xe10d,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `lock-fill`
   static const IconifyIconData lockFill = IconifyIconData(IconData(
-    0xe10f,
+    0xe10e,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `lock-outline`
   static const IconifyIconData lockOutline = IconifyIconData(IconData(
-    0xe110,
+    0xe10f,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `log-in-fill`
   static const IconifyIconData logInFill = IconifyIconData(IconData(
-    0xe111,
+    0xe110,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `log-in-outline`
   static const IconifyIconData logInOutline = IconifyIconData(IconData(
-    0xe112,
+    0xe111,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `log-out-fill`
   static const IconifyIconData logOutFill = IconifyIconData(IconData(
-    0xe113,
+    0xe112,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `log-out-outline`
   static const IconifyIconData logOutOutline = IconifyIconData(IconData(
-    0xe114,
+    0xe113,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `map-fill`
   static const IconifyIconData mapFill = IconifyIconData(IconData(
-    0xe115,
+    0xe114,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `map-outline`
   static const IconifyIconData mapOutline = IconifyIconData(IconData(
-    0xe116,
+    0xe115,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `maximize-fill`
   static const IconifyIconData maximizeFill = IconifyIconData(IconData(
-    0xe117,
+    0xe116,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `maximize-outline`
   static const IconifyIconData maximizeOutline = IconifyIconData(IconData(
-    0xe118,
+    0xe117,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `menu-2-fill`
   static const IconifyIconData menu2Fill = IconifyIconData(IconData(
-    0xe119,
+    0xe118,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `menu-2-outline`
   static const IconifyIconData menu2Outline = IconifyIconData(IconData(
-    0xe11a,
+    0xe119,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `menu-arrow-fill`
   static const IconifyIconData menuArrowFill = IconifyIconData(IconData(
-    0xe11b,
+    0xe11a,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `menu-arrow-outline`
   static const IconifyIconData menuArrowOutline = IconifyIconData(IconData(
-    0xe11c,
+    0xe11b,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `menu-fill`
   static const IconifyIconData menuFill = IconifyIconData(IconData(
-    0xe11d,
+    0xe11c,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `menu-outline`
   static const IconifyIconData menuOutline = IconifyIconData(IconData(
-    0xe11e,
+    0xe11d,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `message-circle-fill`
   static const IconifyIconData messageCircleFill = IconifyIconData(IconData(
-    0xe11f,
+    0xe11e,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `message-circle-outline`
   static const IconifyIconData messageCircleOutline = IconifyIconData(IconData(
-    0xe120,
+    0xe11f,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `message-square-fill`
   static const IconifyIconData messageSquareFill = IconifyIconData(IconData(
-    0xe121,
+    0xe120,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `message-square-outline`
   static const IconifyIconData messageSquareOutline = IconifyIconData(IconData(
-    0xe122,
+    0xe121,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `mic-fill`
   static const IconifyIconData micFill = IconifyIconData(IconData(
-    0xe123,
+    0xe122,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `mic-off-fill`
   static const IconifyIconData micOffFill = IconifyIconData(IconData(
-    0xe124,
+    0xe123,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `mic-off-outline`
   static const IconifyIconData micOffOutline = IconifyIconData(IconData(
-    0xe125,
+    0xe124,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `mic-outline`
   static const IconifyIconData micOutline = IconifyIconData(IconData(
-    0xe126,
+    0xe125,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `minimize-fill`
   static const IconifyIconData minimizeFill = IconifyIconData(IconData(
-    0xe127,
+    0xe126,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `minimize-outline`
   static const IconifyIconData minimizeOutline = IconifyIconData(IconData(
-    0xe128,
+    0xe127,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `minus-circle-fill`
   static const IconifyIconData minusCircleFill = IconifyIconData(IconData(
-    0xe129,
+    0xe128,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `minus-circle-outline`
   static const IconifyIconData minusCircleOutline = IconifyIconData(IconData(
-    0xe12a,
+    0xe129,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `minus-fill`
   static const IconifyIconData minusFill = IconifyIconData(IconData(
-    0xe12b,
+    0xe12a,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `minus-outline`
   static const IconifyIconData minusOutline = IconifyIconData(IconData(
-    0xe12c,
+    0xe12b,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `minus-square-fill`
   static const IconifyIconData minusSquareFill = IconifyIconData(IconData(
-    0xe12d,
+    0xe12c,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `minus-square-outline`
   static const IconifyIconData minusSquareOutline = IconifyIconData(IconData(
-    0xe12e,
+    0xe12d,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `monitor-fill`
   static const IconifyIconData monitorFill = IconifyIconData(IconData(
-    0xe12f,
+    0xe12e,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `monitor-outline`
   static const IconifyIconData monitorOutline = IconifyIconData(IconData(
-    0xe130,
+    0xe12f,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `moon-fill`
   static const IconifyIconData moonFill = IconifyIconData(IconData(
-    0xe131,
+    0xe130,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `moon-outline`
   static const IconifyIconData moonOutline = IconifyIconData(IconData(
-    0xe132,
+    0xe131,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `more-horizontal-fill`
   static const IconifyIconData moreHorizontalFill = IconifyIconData(IconData(
-    0xe133,
+    0xe132,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `more-horizontal-outline`
   static const IconifyIconData moreHorizontalOutline = IconifyIconData(IconData(
-    0xe134,
+    0xe133,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `more-vertical-fill`
   static const IconifyIconData moreVerticalFill = IconifyIconData(IconData(
-    0xe135,
+    0xe134,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `more-vertical-outline`
   static const IconifyIconData moreVerticalOutline = IconifyIconData(IconData(
-    0xe136,
+    0xe135,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `move-fill`
   static const IconifyIconData moveFill = IconifyIconData(IconData(
-    0xe137,
+    0xe136,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `move-outline`
   static const IconifyIconData moveOutline = IconifyIconData(IconData(
-    0xe138,
+    0xe137,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `music-fill`
   static const IconifyIconData musicFill = IconifyIconData(IconData(
-    0xe139,
+    0xe138,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `music-outline`
   static const IconifyIconData musicOutline = IconifyIconData(IconData(
-    0xe13a,
+    0xe139,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `navigation-2-fill`
   static const IconifyIconData navigation2Fill = IconifyIconData(IconData(
-    0xe13b,
+    0xe13a,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `navigation-2-outline`
   static const IconifyIconData navigation2Outline = IconifyIconData(IconData(
-    0xe13c,
+    0xe13b,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `navigation-fill`
   static const IconifyIconData navigationFill = IconifyIconData(IconData(
-    0xe13d,
+    0xe13c,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `navigation-outline`
   static const IconifyIconData navigationOutline = IconifyIconData(IconData(
-    0xe13e,
+    0xe13d,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `npm-fill`
   static const IconifyIconData npmFill = IconifyIconData(IconData(
-    0xe13f,
+    0xe13e,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `npm-outline`
   static const IconifyIconData npmOutline = IconifyIconData(IconData(
-    0xe140,
+    0xe13f,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `options-2-fill`
   static const IconifyIconData options2Fill = IconifyIconData(IconData(
-    0xe141,
+    0xe140,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `options-2-outline`
   static const IconifyIconData options2Outline = IconifyIconData(IconData(
-    0xe142,
+    0xe141,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `options-fill`
   static const IconifyIconData optionsFill = IconifyIconData(IconData(
-    0xe143,
+    0xe142,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `options-outline`
   static const IconifyIconData optionsOutline = IconifyIconData(IconData(
-    0xe144,
+    0xe143,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `pantone-fill`
   static const IconifyIconData pantoneFill = IconifyIconData(IconData(
-    0xe145,
+    0xe144,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `pantone-outline`
   static const IconifyIconData pantoneOutline = IconifyIconData(IconData(
-    0xe146,
+    0xe145,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `paper-plane-fill`
   static const IconifyIconData paperPlaneFill = IconifyIconData(IconData(
-    0xe147,
+    0xe146,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `paper-plane-outline`
   static const IconifyIconData paperPlaneOutline = IconifyIconData(IconData(
-    0xe148,
+    0xe147,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `pause-circle-fill`
   static const IconifyIconData pauseCircleFill = IconifyIconData(IconData(
-    0xe149,
+    0xe148,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `pause-circle-outline`
   static const IconifyIconData pauseCircleOutline = IconifyIconData(IconData(
-    0xe14a,
+    0xe149,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `people-fill`
   static const IconifyIconData peopleFill = IconifyIconData(IconData(
-    0xe14b,
+    0xe14a,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `people-outline`
   static const IconifyIconData peopleOutline = IconifyIconData(IconData(
-    0xe14c,
+    0xe14b,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `percent-fill`
   static const IconifyIconData percentFill = IconifyIconData(IconData(
-    0xe14d,
+    0xe14c,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `percent-outline`
   static const IconifyIconData percentOutline = IconifyIconData(IconData(
-    0xe14e,
+    0xe14d,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `person-add-fill`
   static const IconifyIconData personAddFill = IconifyIconData(IconData(
-    0xe14f,
+    0xe14e,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `person-add-outline`
   static const IconifyIconData personAddOutline = IconifyIconData(IconData(
-    0xe150,
+    0xe14f,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `person-delete-fill`
   static const IconifyIconData personDeleteFill = IconifyIconData(IconData(
-    0xe151,
+    0xe150,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `person-delete-outline`
   static const IconifyIconData personDeleteOutline = IconifyIconData(IconData(
-    0xe152,
+    0xe151,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `person-done-fill`
   static const IconifyIconData personDoneFill = IconifyIconData(IconData(
-    0xe153,
+    0xe152,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `person-done-outline`
   static const IconifyIconData personDoneOutline = IconifyIconData(IconData(
-    0xe154,
+    0xe153,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `person-fill`
   static const IconifyIconData personFill = IconifyIconData(IconData(
-    0xe155,
+    0xe154,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `person-outline`
   static const IconifyIconData personOutline = IconifyIconData(IconData(
-    0xe156,
+    0xe155,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `person-remove-fill`
   static const IconifyIconData personRemoveFill = IconifyIconData(IconData(
-    0xe157,
+    0xe156,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `person-remove-outline`
   static const IconifyIconData personRemoveOutline = IconifyIconData(IconData(
-    0xe158,
+    0xe157,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `phone-call-fill`
   static const IconifyIconData phoneCallFill = IconifyIconData(IconData(
-    0xe159,
+    0xe158,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `phone-call-outline`
   static const IconifyIconData phoneCallOutline = IconifyIconData(IconData(
-    0xe15a,
+    0xe159,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `phone-fill`
   static const IconifyIconData phoneFill = IconifyIconData(IconData(
-    0xe15b,
+    0xe15a,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `phone-missed-fill`
   static const IconifyIconData phoneMissedFill = IconifyIconData(IconData(
-    0xe15c,
+    0xe15b,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `phone-missed-outline`
   static const IconifyIconData phoneMissedOutline = IconifyIconData(IconData(
-    0xe15d,
+    0xe15c,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `phone-off-fill`
   static const IconifyIconData phoneOffFill = IconifyIconData(IconData(
-    0xe15e,
+    0xe15d,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `phone-off-outline`
   static const IconifyIconData phoneOffOutline = IconifyIconData(IconData(
-    0xe15f,
+    0xe15e,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `phone-outline`
   static const IconifyIconData phoneOutline = IconifyIconData(IconData(
-    0xe160,
+    0xe15f,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `pie-chart-2-fill`
   static const IconifyIconData pieChart2Fill = IconifyIconData(IconData(
-    0xe161,
+    0xe160,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `pie-chart-fill`
   static const IconifyIconData pieChartFill = IconifyIconData(IconData(
-    0xe162,
+    0xe161,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `pie-chart-outline`
   static const IconifyIconData pieChartOutline = IconifyIconData(IconData(
-    0xe163,
+    0xe162,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `pin-fill`
   static const IconifyIconData pinFill = IconifyIconData(IconData(
-    0xe164,
+    0xe163,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `pin-outline`
   static const IconifyIconData pinOutline = IconifyIconData(IconData(
-    0xe165,
+    0xe164,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `play-circle-fill`
   static const IconifyIconData playCircleFill = IconifyIconData(IconData(
-    0xe166,
+    0xe165,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `play-circle-outline`
   static const IconifyIconData playCircleOutline = IconifyIconData(IconData(
-    0xe167,
+    0xe166,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `plus-circle-fill`
   static const IconifyIconData plusCircleFill = IconifyIconData(IconData(
-    0xe168,
+    0xe167,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `plus-circle-outline`
   static const IconifyIconData plusCircleOutline = IconifyIconData(IconData(
-    0xe169,
+    0xe168,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `plus-fill`
   static const IconifyIconData plusFill = IconifyIconData(IconData(
-    0xe16a,
+    0xe169,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `plus-outline`
   static const IconifyIconData plusOutline = IconifyIconData(IconData(
-    0xe16b,
+    0xe16a,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `plus-square-fill`
   static const IconifyIconData plusSquareFill = IconifyIconData(IconData(
-    0xe16c,
+    0xe16b,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `plus-square-outline`
   static const IconifyIconData plusSquareOutline = IconifyIconData(IconData(
-    0xe16d,
+    0xe16c,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `power-fill`
   static const IconifyIconData powerFill = IconifyIconData(IconData(
-    0xe16e,
+    0xe16d,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `power-outline`
   static const IconifyIconData powerOutline = IconifyIconData(IconData(
-    0xe16f,
+    0xe16e,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `pricetags-fill`
   static const IconifyIconData pricetagsFill = IconifyIconData(IconData(
-    0xe170,
+    0xe16f,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `pricetags-outline`
   static const IconifyIconData pricetagsOutline = IconifyIconData(IconData(
-    0xe171,
+    0xe170,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `printer-fill`
   static const IconifyIconData printerFill = IconifyIconData(IconData(
-    0xe172,
+    0xe171,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `printer-outline`
   static const IconifyIconData printerOutline = IconifyIconData(IconData(
-    0xe173,
+    0xe172,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `question-mark-circle-fill`
   static const IconifyIconData questionMarkCircleFill = IconifyIconData(IconData(
-    0xe174,
+    0xe173,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `question-mark-circle-outline`
   static const IconifyIconData questionMarkCircleOutline = IconifyIconData(IconData(
-    0xe175,
+    0xe174,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `question-mark-fill`
   static const IconifyIconData questionMarkFill = IconifyIconData(IconData(
-    0xe176,
+    0xe175,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `question-mark-outline`
   static const IconifyIconData questionMarkOutline = IconifyIconData(IconData(
-    0xe177,
+    0xe176,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `radio-button-off-fill`
   static const IconifyIconData radioButtonOffFill = IconifyIconData(IconData(
-    0xe178,
+    0xe177,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `radio-button-off-outline`
   static const IconifyIconData radioButtonOffOutline = IconifyIconData(IconData(
-    0xe179,
+    0xe178,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `radio-button-on-fill`
   static const IconifyIconData radioButtonOnFill = IconifyIconData(IconData(
-    0xe17a,
+    0xe179,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `radio-button-on-outline`
   static const IconifyIconData radioButtonOnOutline = IconifyIconData(IconData(
-    0xe17b,
+    0xe17a,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `radio-fill`
   static const IconifyIconData radioFill = IconifyIconData(IconData(
-    0xe17c,
+    0xe17b,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `radio-outline`
   static const IconifyIconData radioOutline = IconifyIconData(IconData(
-    0xe17d,
+    0xe17c,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `recording-fill`
   static const IconifyIconData recordingFill = IconifyIconData(IconData(
-    0xe17e,
+    0xe17d,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `recording-outline`
   static const IconifyIconData recordingOutline = IconifyIconData(IconData(
-    0xe17f,
+    0xe17e,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `refresh-fill`
   static const IconifyIconData refreshFill = IconifyIconData(IconData(
-    0xe180,
+    0xe17f,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `refresh-outline`
   static const IconifyIconData refreshOutline = IconifyIconData(IconData(
-    0xe181,
+    0xe180,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `repeat-fill`
   static const IconifyIconData repeatFill = IconifyIconData(IconData(
-    0xe182,
+    0xe181,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `repeat-outline`
   static const IconifyIconData repeatOutline = IconifyIconData(IconData(
-    0xe183,
+    0xe182,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `rewind-left-fill`
   static const IconifyIconData rewindLeftFill = IconifyIconData(IconData(
-    0xe184,
+    0xe183,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `rewind-left-outline`
   static const IconifyIconData rewindLeftOutline = IconifyIconData(IconData(
-    0xe185,
+    0xe184,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `rewind-right-fill`
   static const IconifyIconData rewindRightFill = IconifyIconData(IconData(
-    0xe186,
+    0xe185,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `rewind-right-outline`
   static const IconifyIconData rewindRightOutline = IconifyIconData(IconData(
-    0xe187,
+    0xe186,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `save-fill`
   static const IconifyIconData saveFill = IconifyIconData(IconData(
-    0xe188,
+    0xe187,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `save-outline`
   static const IconifyIconData saveOutline = IconifyIconData(IconData(
-    0xe189,
+    0xe188,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `scissors-fill`
   static const IconifyIconData scissorsFill = IconifyIconData(IconData(
-    0xe18a,
+    0xe189,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `scissors-outline`
   static const IconifyIconData scissorsOutline = IconifyIconData(IconData(
-    0xe18b,
+    0xe18a,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `search-fill`
   static const IconifyIconData searchFill = IconifyIconData(IconData(
-    0xe18c,
+    0xe18b,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `search-outline`
   static const IconifyIconData searchOutline = IconifyIconData(IconData(
-    0xe18d,
+    0xe18c,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `settings-2-fill`
   static const IconifyIconData settings2Fill = IconifyIconData(IconData(
-    0xe18e,
+    0xe18d,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `settings-2-outline`
   static const IconifyIconData settings2Outline = IconifyIconData(IconData(
-    0xe18f,
+    0xe18e,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `settings-fill`
   static const IconifyIconData settingsFill = IconifyIconData(IconData(
-    0xe190,
+    0xe18f,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `settings-outline`
   static const IconifyIconData settingsOutline = IconifyIconData(IconData(
-    0xe191,
+    0xe190,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `shake-fill`
   static const IconifyIconData shakeFill = IconifyIconData(IconData(
-    0xe192,
+    0xe191,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `shake-outline`
   static const IconifyIconData shakeOutline = IconifyIconData(IconData(
-    0xe193,
+    0xe192,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `share-fill`
   static const IconifyIconData shareFill = IconifyIconData(IconData(
-    0xe194,
+    0xe193,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `share-outline`
   static const IconifyIconData shareOutline = IconifyIconData(IconData(
-    0xe195,
+    0xe194,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `shield-fill`
   static const IconifyIconData shieldFill = IconifyIconData(IconData(
-    0xe196,
+    0xe195,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `shield-off-fill`
   static const IconifyIconData shieldOffFill = IconifyIconData(IconData(
-    0xe197,
+    0xe196,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `shield-off-outline`
   static const IconifyIconData shieldOffOutline = IconifyIconData(IconData(
-    0xe198,
+    0xe197,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `shield-outline`
   static const IconifyIconData shieldOutline = IconifyIconData(IconData(
-    0xe199,
+    0xe198,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `shopping-bag-fill`
   static const IconifyIconData shoppingBagFill = IconifyIconData(IconData(
-    0xe19a,
+    0xe199,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `shopping-bag-outline`
   static const IconifyIconData shoppingBagOutline = IconifyIconData(IconData(
-    0xe19b,
+    0xe19a,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `shopping-cart-fill`
   static const IconifyIconData shoppingCartFill = IconifyIconData(IconData(
-    0xe19c,
+    0xe19b,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `shopping-cart-outline`
   static const IconifyIconData shoppingCartOutline = IconifyIconData(IconData(
-    0xe19d,
+    0xe19c,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `shuffle-2-fill`
   static const IconifyIconData shuffle2Fill = IconifyIconData(IconData(
-    0xe19e,
+    0xe19d,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `shuffle-2-outline`
   static const IconifyIconData shuffle2Outline = IconifyIconData(IconData(
-    0xe19f,
+    0xe19e,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `shuffle-fill`
   static const IconifyIconData shuffleFill = IconifyIconData(IconData(
-    0xe1a0,
+    0xe19f,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `shuffle-outline`
   static const IconifyIconData shuffleOutline = IconifyIconData(IconData(
-    0xe1a1,
+    0xe1a0,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `skip-back-fill`
   static const IconifyIconData skipBackFill = IconifyIconData(IconData(
-    0xe1a2,
+    0xe1a1,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `skip-back-outline`
   static const IconifyIconData skipBackOutline = IconifyIconData(IconData(
-    0xe1a3,
+    0xe1a2,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `skip-forward-fill`
   static const IconifyIconData skipForwardFill = IconifyIconData(IconData(
-    0xe1a4,
+    0xe1a3,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `skip-forward-outline`
   static const IconifyIconData skipForwardOutline = IconifyIconData(IconData(
-    0xe1a5,
+    0xe1a4,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `slash-fill`
   static const IconifyIconData slashFill = IconifyIconData(IconData(
-    0xe1a6,
+    0xe1a5,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `slash-outline`
   static const IconifyIconData slashOutline = IconifyIconData(IconData(
-    0xe1a7,
+    0xe1a6,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `smartphone-fill`
   static const IconifyIconData smartphoneFill = IconifyIconData(IconData(
-    0xe1a8,
+    0xe1a7,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `smartphone-outline`
   static const IconifyIconData smartphoneOutline = IconifyIconData(IconData(
-    0xe1a9,
+    0xe1a8,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `smiling-face-fill`
   static const IconifyIconData smilingFaceFill = IconifyIconData(IconData(
-    0xe1aa,
+    0xe1a9,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `smiling-face-outline`
   static const IconifyIconData smilingFaceOutline = IconifyIconData(IconData(
-    0xe1ab,
+    0xe1aa,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `speaker-fill`
   static const IconifyIconData speakerFill = IconifyIconData(IconData(
-    0xe1ac,
+    0xe1ab,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `speaker-outline`
   static const IconifyIconData speakerOutline = IconifyIconData(IconData(
-    0xe1ad,
+    0xe1ac,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `square-fill`
   static const IconifyIconData squareFill = IconifyIconData(IconData(
-    0xe1ae,
+    0xe1ad,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `square-outline`
   static const IconifyIconData squareOutline = IconifyIconData(IconData(
-    0xe1af,
+    0xe1ae,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `star-fill`
   static const IconifyIconData starFill = IconifyIconData(IconData(
-    0xe1b0,
+    0xe1af,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `star-outline`
   static const IconifyIconData starOutline = IconifyIconData(IconData(
-    0xe1b1,
+    0xe1b0,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `stop-circle-fill`
   static const IconifyIconData stopCircleFill = IconifyIconData(IconData(
-    0xe1b2,
+    0xe1b1,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `stop-circle-outline`
   static const IconifyIconData stopCircleOutline = IconifyIconData(IconData(
-    0xe1b3,
+    0xe1b2,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `sun-fill`
   static const IconifyIconData sunFill = IconifyIconData(IconData(
-    0xe1b4,
+    0xe1b3,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `sun-outline`
   static const IconifyIconData sunOutline = IconifyIconData(IconData(
-    0xe1b5,
+    0xe1b4,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `swap-fill`
   static const IconifyIconData swapFill = IconifyIconData(IconData(
-    0xe1b6,
+    0xe1b5,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `swap-outline`
   static const IconifyIconData swapOutline = IconifyIconData(IconData(
-    0xe1b7,
+    0xe1b6,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `sync-fill`
   static const IconifyIconData syncFill = IconifyIconData(IconData(
-    0xe1b8,
+    0xe1b7,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `sync-outline`
   static const IconifyIconData syncOutline = IconifyIconData(IconData(
-    0xe1b9,
+    0xe1b8,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `text-fill`
   static const IconifyIconData textFill = IconifyIconData(IconData(
-    0xe1ba,
+    0xe1b9,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `text-outline`
   static const IconifyIconData textOutline = IconifyIconData(IconData(
-    0xe1bb,
+    0xe1ba,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `thermometer-fill`
   static const IconifyIconData thermometerFill = IconifyIconData(IconData(
-    0xe1bc,
+    0xe1bb,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `thermometer-minus-fill`
   static const IconifyIconData thermometerMinusFill = IconifyIconData(IconData(
-    0xe1bd,
+    0xe1bc,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `thermometer-minus-outline`
   static const IconifyIconData thermometerMinusOutline = IconifyIconData(IconData(
-    0xe1be,
+    0xe1bd,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `thermometer-outline`
   static const IconifyIconData thermometerOutline = IconifyIconData(IconData(
-    0xe1bf,
+    0xe1be,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `thermometer-plus-fill`
   static const IconifyIconData thermometerPlusFill = IconifyIconData(IconData(
-    0xe1c0,
+    0xe1bf,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `thermometer-plus-outline`
   static const IconifyIconData thermometerPlusOutline = IconifyIconData(IconData(
-    0xe1c1,
+    0xe1c0,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `toggle-left-fill`
   static const IconifyIconData toggleLeftFill = IconifyIconData(IconData(
-    0xe1c2,
+    0xe1c1,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `toggle-left-outline`
   static const IconifyIconData toggleLeftOutline = IconifyIconData(IconData(
-    0xe1c3,
+    0xe1c2,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `toggle-right-fill`
   static const IconifyIconData toggleRightFill = IconifyIconData(IconData(
-    0xe1c4,
+    0xe1c3,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `toggle-right-outline`
   static const IconifyIconData toggleRightOutline = IconifyIconData(IconData(
-    0xe1c5,
+    0xe1c4,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `trash-2-fill`
   static const IconifyIconData trash2Fill = IconifyIconData(IconData(
-    0xe1c6,
+    0xe1c5,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `trash-2-outline`
   static const IconifyIconData trash2Outline = IconifyIconData(IconData(
-    0xe1c7,
+    0xe1c6,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `trash-fill`
   static const IconifyIconData trashFill = IconifyIconData(IconData(
-    0xe1c8,
+    0xe1c7,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `trash-outline`
   static const IconifyIconData trashOutline = IconifyIconData(IconData(
-    0xe1c9,
+    0xe1c8,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `trending-down-fill`
   static const IconifyIconData trendingDownFill = IconifyIconData(IconData(
-    0xe1ca,
+    0xe1c9,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `trending-down-outline`
   static const IconifyIconData trendingDownOutline = IconifyIconData(IconData(
-    0xe1cb,
+    0xe1ca,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `trending-up-fill`
   static const IconifyIconData trendingUpFill = IconifyIconData(IconData(
-    0xe1cc,
+    0xe1cb,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `trending-up-outline`
   static const IconifyIconData trendingUpOutline = IconifyIconData(IconData(
-    0xe1cd,
+    0xe1cc,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `tv-fill`
   static const IconifyIconData tvFill = IconifyIconData(IconData(
-    0xe1ce,
+    0xe1cd,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `tv-outline`
   static const IconifyIconData tvOutline = IconifyIconData(IconData(
-    0xe1cf,
+    0xe1ce,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `twitter-fill`
   static const IconifyIconData twitterFill = IconifyIconData(IconData(
-    0xe1d0,
+    0xe1cf,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `twitter-outline`
   static const IconifyIconData twitterOutline = IconifyIconData(IconData(
-    0xe1d1,
+    0xe1d0,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `umbrella-fill`
   static const IconifyIconData umbrellaFill = IconifyIconData(IconData(
-    0xe1d2,
+    0xe1d1,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `umbrella-outline`
   static const IconifyIconData umbrellaOutline = IconifyIconData(IconData(
-    0xe1d3,
+    0xe1d2,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `undo-fill`
   static const IconifyIconData undoFill = IconifyIconData(IconData(
-    0xe1d4,
+    0xe1d3,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `undo-outline`
   static const IconifyIconData undoOutline = IconifyIconData(IconData(
-    0xe1d5,
+    0xe1d4,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `unlock-fill`
   static const IconifyIconData unlockFill = IconifyIconData(IconData(
-    0xe1d6,
+    0xe1d5,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `unlock-outline`
   static const IconifyIconData unlockOutline = IconifyIconData(IconData(
-    0xe1d7,
+    0xe1d6,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `video-fill`
   static const IconifyIconData videoFill = IconifyIconData(IconData(
-    0xe1d8,
+    0xe1d7,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `video-off-fill`
   static const IconifyIconData videoOffFill = IconifyIconData(IconData(
-    0xe1d9,
+    0xe1d8,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `video-off-outline`
   static const IconifyIconData videoOffOutline = IconifyIconData(IconData(
-    0xe1da,
+    0xe1d9,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `video-outline`
   static const IconifyIconData videoOutline = IconifyIconData(IconData(
-    0xe1db,
+    0xe1da,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `volume-down-fill`
   static const IconifyIconData volumeDownFill = IconifyIconData(IconData(
-    0xe1dc,
+    0xe1db,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `volume-down-outline`
   static const IconifyIconData volumeDownOutline = IconifyIconData(IconData(
-    0xe1dd,
+    0xe1dc,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `volume-mute-fill`
   static const IconifyIconData volumeMuteFill = IconifyIconData(IconData(
-    0xe1de,
+    0xe1dd,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `volume-mute-outline`
   static const IconifyIconData volumeMuteOutline = IconifyIconData(IconData(
-    0xe1df,
+    0xe1de,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `volume-off-fill`
   static const IconifyIconData volumeOffFill = IconifyIconData(IconData(
-    0xe1e0,
+    0xe1df,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `volume-off-outline`
   static const IconifyIconData volumeOffOutline = IconifyIconData(IconData(
-    0xe1e1,
+    0xe1e0,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `volume-up-fill`
   static const IconifyIconData volumeUpFill = IconifyIconData(IconData(
-    0xe1e2,
+    0xe1e1,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `volume-up-outline`
   static const IconifyIconData volumeUpOutline = IconifyIconData(IconData(
-    0xe1e3,
+    0xe1e2,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `wifi-fill`
   static const IconifyIconData wifiFill = IconifyIconData(IconData(
-    0xe1e4,
+    0xe1e3,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `wifi-off-fill`
   static const IconifyIconData wifiOffFill = IconifyIconData(IconData(
-    0xe1e5,
+    0xe1e4,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `wifi-off-outline`
   static const IconifyIconData wifiOffOutline = IconifyIconData(IconData(
-    0xe1e6,
+    0xe1e5,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `wifi-outline`
   static const IconifyIconData wifiOutline = IconifyIconData(IconData(
-    0xe1e7,
+    0xe1e6,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));

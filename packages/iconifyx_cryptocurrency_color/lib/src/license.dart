@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'CC0 1.0',
   licenseSpdx: 'CC0-1.0',
   licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/',
-  iconCount: 49,
+  iconCount: 241,
 );

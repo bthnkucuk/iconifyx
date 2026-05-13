@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'CC BY-NC-SA 4.0',
   licenseSpdx: 'CC-BY-NC-SA-4.0',
   licenseUrl: 'https://github.com/elax46/custom-brand-icons/blob/main/LICENSE',
-  iconCount: 68,
+  iconCount: 1602,
 );

@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE',
-  iconCount: 183,
+  iconCount: 416,
 );

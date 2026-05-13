@@ -10,5 +10,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   authorUrl: 'https://github.com/vaadin/web-components',
   licenseTitle: 'Apache 2.0',
   licenseSpdx: 'Apache-2.0',
-  iconCount: 572,
+  iconCount: 636,
 );

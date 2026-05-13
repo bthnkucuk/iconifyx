@@ -16,1428 +16,2858 @@
       "spdx": "MIT",
       "url": "https://github.com/ProCode-Software/proicons/blob/main/LICENSE"
     },
-    "total": 283
+    "total": 569
   },
   "fonts": [
     {
       "family": "Proicons",
-      "nextCodepoint": 57627,
-      "iconCount": 283
+      "nextCodepoint": 57913,
+      "iconCount": 569
     }
   ],
   "icons": {
-    "add": {
+    "accessibility": {
       "codepoint": 57344,
+      "fontFamily": "Proicons",
+      "identifier": "accessibility"
+    },
+    "add": {
+      "codepoint": 57345,
       "fontFamily": "Proicons",
       "identifier": "add"
     },
     "add-circle": {
-      "codepoint": 57345,
+      "codepoint": 57346,
       "fontFamily": "Proicons",
       "identifier": "addCircle"
     },
     "add-circular": {
-      "codepoint": 57346,
+      "codepoint": 57347,
       "fontFamily": "Proicons",
       "identifier": "addCircular"
     },
     "add-rhombus": {
-      "codepoint": 57347,
+      "codepoint": 57348,
       "fontFamily": "Proicons",
       "identifier": "addRhombus"
     },
     "add-square": {
-      "codepoint": 57348,
+      "codepoint": 57349,
       "fontFamily": "Proicons",
       "identifier": "addSquare"
     },
     "add-square-multiple": {
-      "codepoint": 57349,
+      "codepoint": 57350,
       "fontFamily": "Proicons",
       "identifier": "addSquareMultiple"
     },
     "add-square-multiple-var": {
-      "codepoint": 57350,
+      "codepoint": 57351,
       "fontFamily": "Proicons",
       "identifier": "addSquareMultipleVar"
     },
+    "airplane": {
+      "codepoint": 57352,
+      "fontFamily": "Proicons",
+      "identifier": "airplane"
+    },
+    "airplane-landing": {
+      "codepoint": 57353,
+      "fontFamily": "Proicons",
+      "identifier": "airplaneLanding"
+    },
+    "airplane-takeoff": {
+      "codepoint": 57354,
+      "fontFamily": "Proicons",
+      "identifier": "airplaneTakeoff"
+    },
     "alarm-clock": {
-      "codepoint": 57351,
+      "codepoint": 57355,
       "fontFamily": "Proicons",
       "identifier": "alarmClock"
     },
+    "album": {
+      "codepoint": 57356,
+      "fontFamily": "Proicons",
+      "identifier": "album"
+    },
     "alert-circle": {
-      "codepoint": 57352,
+      "codepoint": 57357,
       "fontFamily": "Proicons",
       "identifier": "alertCircle"
     },
     "alert-rhombus": {
-      "codepoint": 57353,
+      "codepoint": 57358,
       "fontFamily": "Proicons",
       "identifier": "alertRhombus"
     },
+    "alert-triangle": {
+      "codepoint": 57359,
+      "fontFamily": "Proicons",
+      "identifier": "alertTriangle"
+    },
     "align-bottom": {
-      "codepoint": 57354,
+      "codepoint": 57360,
       "fontFamily": "Proicons",
       "identifier": "alignBottom"
     },
     "align-horizontal-centers": {
-      "codepoint": 57355,
+      "codepoint": 57361,
       "fontFamily": "Proicons",
       "identifier": "alignHorizontalCenters"
     },
     "align-left": {
-      "codepoint": 57356,
+      "codepoint": 57362,
       "fontFamily": "Proicons",
       "identifier": "alignLeft"
     },
     "align-right": {
-      "codepoint": 57357,
+      "codepoint": 57363,
       "fontFamily": "Proicons",
       "identifier": "alignRight"
     },
     "align-vertical-centers": {
-      "codepoint": 57358,
+      "codepoint": 57364,
       "fontFamily": "Proicons",
       "identifier": "alignVerticalCenters"
     },
+    "amazon": {
+      "codepoint": 57365,
+      "fontFamily": "Proicons",
+      "identifier": "amazon"
+    },
+    "american-football": {
+      "codepoint": 57366,
+      "fontFamily": "Proicons",
+      "identifier": "americanFootball"
+    },
     "anchor": {
-      "codepoint": 57359,
+      "codepoint": 57367,
       "fontFamily": "Proicons",
       "identifier": "anchor"
     },
+    "android": {
+      "codepoint": 57368,
+      "fontFamily": "Proicons",
+      "identifier": "android"
+    },
+    "angle": {
+      "codepoint": 57369,
+      "fontFamily": "Proicons",
+      "identifier": "angle"
+    },
     "app-remove": {
-      "codepoint": 57360,
+      "codepoint": 57370,
       "fontFamily": "Proicons",
       "identifier": "appRemove"
     },
+    "app-store": {
+      "codepoint": 57371,
+      "fontFamily": "Proicons",
+      "identifier": "appStore"
+    },
+    "apple": {
+      "codepoint": 57372,
+      "fontFamily": "Proicons",
+      "identifier": "apple"
+    },
     "apps": {
-      "codepoint": 57361,
+      "codepoint": 57373,
       "fontFamily": "Proicons",
       "identifier": "apps"
     },
     "apps-add": {
-      "codepoint": 57362,
+      "codepoint": 57374,
       "fontFamily": "Proicons",
       "identifier": "appsAdd"
     },
     "apps-list": {
-      "codepoint": 57363,
+      "codepoint": 57375,
       "fontFamily": "Proicons",
       "identifier": "appsList"
     },
     "arc": {
-      "codepoint": 57364,
+      "codepoint": 57376,
       "fontFamily": "Proicons",
       "identifier": "arc"
     },
     "archive": {
-      "codepoint": 57365,
+      "codepoint": 57377,
       "fontFamily": "Proicons",
       "identifier": "archive"
     },
     "archive-add-2": {
-      "codepoint": 57366,
+      "codepoint": 57378,
       "fontFamily": "Proicons",
       "identifier": "archiveAdd2"
     },
+    "arrow-clockwise": {
+      "codepoint": 57379,
+      "fontFamily": "Proicons",
+      "identifier": "arrowClockwise"
+    },
+    "arrow-counterclockwise": {
+      "codepoint": 57380,
+      "fontFamily": "Proicons",
+      "identifier": "arrowCounterclockwise"
+    },
+    "arrow-down": {
+      "codepoint": 57381,
+      "fontFamily": "Proicons",
+      "identifier": "arrowDown"
+    },
+    "arrow-download": {
+      "codepoint": 57382,
+      "fontFamily": "Proicons",
+      "identifier": "arrowDownload"
+    },
+    "arrow-enter": {
+      "codepoint": 57383,
+      "fontFamily": "Proicons",
+      "identifier": "arrowEnter"
+    },
+    "arrow-export": {
+      "codepoint": 57384,
+      "fontFamily": "Proicons",
+      "identifier": "arrowExport"
+    },
+    "arrow-forward": {
+      "codepoint": 57385,
+      "fontFamily": "Proicons",
+      "identifier": "arrowForward"
+    },
+    "arrow-foward": {
+      "codepoint": 57386,
+      "fontFamily": "Proicons",
+      "identifier": "arrowFoward"
+    },
+    "arrow-import": {
+      "codepoint": 57387,
+      "fontFamily": "Proicons",
+      "identifier": "arrowImport"
+    },
     "arrow-left": {
-      "codepoint": 57367,
+      "codepoint": 57388,
       "fontFamily": "Proicons",
       "identifier": "arrowLeft"
     },
+    "arrow-left-right": {
+      "codepoint": 57389,
+      "fontFamily": "Proicons",
+      "identifier": "arrowLeftRight"
+    },
+    "arrow-maximize": {
+      "codepoint": 57390,
+      "fontFamily": "Proicons",
+      "identifier": "arrowMaximize"
+    },
+    "arrow-minimize": {
+      "codepoint": 57391,
+      "fontFamily": "Proicons",
+      "identifier": "arrowMinimize"
+    },
+    "arrow-move": {
+      "codepoint": 57392,
+      "fontFamily": "Proicons",
+      "identifier": "arrowMove"
+    },
+    "arrow-redo": {
+      "codepoint": 57393,
+      "fontFamily": "Proicons",
+      "identifier": "arrowRedo"
+    },
+    "arrow-redo-2": {
+      "codepoint": 57394,
+      "fontFamily": "Proicons",
+      "identifier": "arrowRedo2"
+    },
+    "arrow-reply": {
+      "codepoint": 57395,
+      "fontFamily": "Proicons",
+      "identifier": "arrowReply"
+    },
+    "arrow-right": {
+      "codepoint": 57396,
+      "fontFamily": "Proicons",
+      "identifier": "arrowRight"
+    },
+    "arrow-rotate-clockwise": {
+      "codepoint": 57397,
+      "fontFamily": "Proicons",
+      "identifier": "arrowRotateClockwise"
+    },
+    "arrow-rotate-counterclockwise": {
+      "codepoint": 57398,
+      "fontFamily": "Proicons",
+      "identifier": "arrowRotateCounterclockwise"
+    },
+    "arrow-sort": {
+      "codepoint": 57399,
+      "fontFamily": "Proicons",
+      "identifier": "arrowSort"
+    },
+    "arrow-swap": {
+      "codepoint": 57400,
+      "fontFamily": "Proicons",
+      "identifier": "arrowSwap"
+    },
+    "arrow-sync": {
+      "codepoint": 57401,
+      "fontFamily": "Proicons",
+      "identifier": "arrowSync"
+    },
+    "arrow-sync-2": {
+      "codepoint": 57402,
+      "fontFamily": "Proicons",
+      "identifier": "arrowSync2"
+    },
+    "arrow-trending": {
+      "codepoint": 57403,
+      "fontFamily": "Proicons",
+      "identifier": "arrowTrending"
+    },
+    "arrow-undo": {
+      "codepoint": 57404,
+      "fontFamily": "Proicons",
+      "identifier": "arrowUndo"
+    },
     "arrow-undo-2": {
-      "codepoint": 57368,
+      "codepoint": 57405,
       "fontFamily": "Proicons",
       "identifier": "arrowUndo2"
     },
     "arrow-up": {
-      "codepoint": 57369,
+      "codepoint": 57406,
       "fontFamily": "Proicons",
       "identifier": "arrowUp"
     },
+    "arrow-up-down": {
+      "codepoint": 57407,
+      "fontFamily": "Proicons",
+      "identifier": "arrowUpDown"
+    },
+    "arrow-up-down-1": {
+      "codepoint": 57408,
+      "fontFamily": "Proicons",
+      "identifier": "arrowUpDown1"
+    },
+    "arrow-upload": {
+      "codepoint": 57409,
+      "fontFamily": "Proicons",
+      "identifier": "arrowUpload"
+    },
     "asterisk": {
-      "codepoint": 57370,
+      "codepoint": 57410,
       "fontFamily": "Proicons",
       "identifier": "asterisk"
     },
     "attach": {
-      "codepoint": 57371,
+      "codepoint": 57411,
       "fontFamily": "Proicons",
       "identifier": "attach"
     },
     "attatch": {
-      "codepoint": 57372,
+      "codepoint": 57412,
       "fontFamily": "Proicons",
       "identifier": "attatch"
     },
+    "background-color": {
+      "codepoint": 57413,
+      "fontFamily": "Proicons",
+      "identifier": "backgroundColor"
+    },
+    "background-color-accent": {
+      "codepoint": 57414,
+      "fontFamily": "Proicons",
+      "identifier": "backgroundColorAccent"
+    },
     "backspace": {
-      "codepoint": 57373,
+      "codepoint": 57415,
       "fontFamily": "Proicons",
       "identifier": "backspace"
     },
     "badge": {
-      "codepoint": 57374,
+      "codepoint": 57416,
       "fontFamily": "Proicons",
       "identifier": "badge"
     },
+    "bank": {
+      "codepoint": 57417,
+      "fontFamily": "Proicons",
+      "identifier": "bank"
+    },
     "bar-chart": {
-      "codepoint": 57375,
+      "codepoint": 57418,
       "fontFamily": "Proicons",
       "identifier": "barChart"
     },
+    "bar-chart-sparkle": {
+      "codepoint": 57419,
+      "fontFamily": "Proicons",
+      "identifier": "barChartSparkle"
+    },
     "bar-graph": {
-      "codepoint": 57376,
+      "codepoint": 57420,
       "fontFamily": "Proicons",
       "identifier": "barGraph"
     },
+    "basketball": {
+      "codepoint": 57421,
+      "fontFamily": "Proicons",
+      "identifier": "basketball"
+    },
     "battery": {
-      "codepoint": 57377,
+      "codepoint": 57422,
       "fontFamily": "Proicons",
       "identifier": "battery"
     },
     "battery-full": {
-      "codepoint": 57378,
+      "codepoint": 57423,
       "fontFamily": "Proicons",
       "identifier": "batteryFull"
     },
+    "beach": {
+      "codepoint": 57424,
+      "fontFamily": "Proicons",
+      "identifier": "beach"
+    },
+    "beaker": {
+      "codepoint": 57425,
+      "fontFamily": "Proicons",
+      "identifier": "beaker"
+    },
+    "bell": {
+      "codepoint": 57426,
+      "fontFamily": "Proicons",
+      "identifier": "bell"
+    },
+    "bell-dot": {
+      "codepoint": 57427,
+      "fontFamily": "Proicons",
+      "identifier": "bellDot"
+    },
+    "bell-off": {
+      "codepoint": 57428,
+      "fontFamily": "Proicons",
+      "identifier": "bellOff"
+    },
+    "bluesky": {
+      "codepoint": 57429,
+      "fontFamily": "Proicons",
+      "identifier": "bluesky"
+    },
+    "bluetooth": {
+      "codepoint": 57430,
+      "fontFamily": "Proicons",
+      "identifier": "bluetooth"
+    },
+    "board": {
+      "codepoint": 57431,
+      "fontFamily": "Proicons",
+      "identifier": "board"
+    },
+    "bolt": {
+      "codepoint": 57432,
+      "fontFamily": "Proicons",
+      "identifier": "bolt"
+    },
     "book": {
-      "codepoint": 57379,
+      "codepoint": 57433,
       "fontFamily": "Proicons",
       "identifier": "book"
     },
     "book-2": {
-      "codepoint": 57380,
+      "codepoint": 57434,
       "fontFamily": "Proicons",
       "identifier": "book2"
     },
     "book-add": {
-      "codepoint": 57381,
+      "codepoint": 57435,
       "fontFamily": "Proicons",
       "identifier": "bookAdd"
     },
+    "book-add-2": {
+      "codepoint": 57436,
+      "fontFamily": "Proicons",
+      "identifier": "bookAdd2"
+    },
     "book-info": {
-      "codepoint": 57382,
+      "codepoint": 57437,
       "fontFamily": "Proicons",
       "identifier": "bookInfo"
     },
     "book-info-2": {
-      "codepoint": 57383,
+      "codepoint": 57438,
       "fontFamily": "Proicons",
       "identifier": "bookInfo2"
     },
+    "book-letter": {
+      "codepoint": 57439,
+      "fontFamily": "Proicons",
+      "identifier": "bookLetter"
+    },
+    "book-marked": {
+      "codepoint": 57440,
+      "fontFamily": "Proicons",
+      "identifier": "bookMarked"
+    },
+    "book-open": {
+      "codepoint": 57441,
+      "fontFamily": "Proicons",
+      "identifier": "bookOpen"
+    },
+    "bookmark": {
+      "codepoint": 57442,
+      "fontFamily": "Proicons",
+      "identifier": "bookmark"
+    },
+    "bookmark-add": {
+      "codepoint": 57443,
+      "fontFamily": "Proicons",
+      "identifier": "bookmarkAdd"
+    },
+    "bookmark-multiple": {
+      "codepoint": 57444,
+      "fontFamily": "Proicons",
+      "identifier": "bookmarkMultiple"
+    },
+    "bookmark-multiple-var": {
+      "codepoint": 57445,
+      "fontFamily": "Proicons",
+      "identifier": "bookmarkMultipleVar"
+    },
     "border-all": {
-      "codepoint": 57384,
+      "codepoint": 57446,
       "fontFamily": "Proicons",
       "identifier": "borderAll"
     },
+    "box": {
+      "codepoint": 57447,
+      "fontFamily": "Proicons",
+      "identifier": "box"
+    },
+    "box-add": {
+      "codepoint": 57448,
+      "fontFamily": "Proicons",
+      "identifier": "boxAdd"
+    },
+    "box-drag": {
+      "codepoint": 57449,
+      "fontFamily": "Proicons",
+      "identifier": "boxDrag"
+    },
     "box-margins": {
-      "codepoint": 57385,
+      "codepoint": 57450,
       "fontFamily": "Proicons",
       "identifier": "boxMargins"
     },
     "braces": {
-      "codepoint": 57386,
+      "codepoint": 57451,
       "fontFamily": "Proicons",
       "identifier": "braces"
     },
     "braces-variable": {
-      "codepoint": 57387,
+      "codepoint": 57452,
       "fontFamily": "Proicons",
       "identifier": "bracesVariable"
     },
     "brackets": {
-      "codepoint": 57388,
+      "codepoint": 57453,
       "fontFamily": "Proicons",
       "identifier": "brackets"
     },
+    "brain": {
+      "codepoint": 57454,
+      "fontFamily": "Proicons",
+      "identifier": "brain"
+    },
     "branch": {
-      "codepoint": 57389,
+      "codepoint": 57455,
       "fontFamily": "Proicons",
       "identifier": "branch"
     },
+    "branch-compare": {
+      "codepoint": 57456,
+      "fontFamily": "Proicons",
+      "identifier": "branchCompare"
+    },
     "branch-fork": {
-      "codepoint": 57390,
+      "codepoint": 57457,
       "fontFamily": "Proicons",
       "identifier": "branchFork"
     },
     "branch-fork-2": {
-      "codepoint": 57391,
+      "codepoint": 57458,
       "fontFamily": "Proicons",
       "identifier": "branchFork2"
     },
+    "branch-pull-request": {
+      "codepoint": 57459,
+      "fontFamily": "Proicons",
+      "identifier": "branchPullRequest"
+    },
+    "briefcase": {
+      "codepoint": 57460,
+      "fontFamily": "Proicons",
+      "identifier": "briefcase"
+    },
     "briefcase-2": {
-      "codepoint": 57392,
+      "codepoint": 57461,
       "fontFamily": "Proicons",
       "identifier": "briefcase2"
     },
     "brightness": {
-      "codepoint": 57393,
+      "codepoint": 57462,
       "fontFamily": "Proicons",
       "identifier": "brightness"
     },
+    "broom": {
+      "codepoint": 57463,
+      "fontFamily": "Proicons",
+      "identifier": "broom"
+    },
     "bug": {
-      "codepoint": 57394,
+      "codepoint": 57464,
       "fontFamily": "Proicons",
       "identifier": "bug"
     },
+    "bug-add": {
+      "codepoint": 57465,
+      "fontFamily": "Proicons",
+      "identifier": "bugAdd"
+    },
     "bug-play": {
-      "codepoint": 57395,
+      "codepoint": 57466,
       "fontFamily": "Proicons",
       "identifier": "bugPlay"
     },
     "building-multiple": {
-      "codepoint": 57396,
+      "codepoint": 57467,
       "fontFamily": "Proicons",
       "identifier": "buildingMultiple"
     },
     "bullet-list": {
-      "codepoint": 57397,
+      "codepoint": 57468,
       "fontFamily": "Proicons",
       "identifier": "bulletList"
     },
     "bullet-list-square": {
-      "codepoint": 57398,
+      "codepoint": 57469,
       "fontFamily": "Proicons",
       "identifier": "bulletListSquare"
     },
     "bullet-list-square-add": {
-      "codepoint": 57399,
+      "codepoint": 57470,
       "fontFamily": "Proicons",
       "identifier": "bulletListSquareAdd"
     },
     "bullet-list-tree": {
-      "codepoint": 57400,
+      "codepoint": 57471,
       "fontFamily": "Proicons",
       "identifier": "bulletListTree"
     },
     "button": {
-      "codepoint": 57401,
+      "codepoint": 57472,
       "fontFamily": "Proicons",
       "identifier": "button"
     },
+    "cake": {
+      "codepoint": 57473,
+      "fontFamily": "Proicons",
+      "identifier": "cake"
+    },
     "calculator": {
-      "codepoint": 57402,
+      "codepoint": 57474,
       "fontFamily": "Proicons",
       "identifier": "calculator"
     },
     "calendar": {
-      "codepoint": 57403,
+      "codepoint": 57475,
       "fontFamily": "Proicons",
       "identifier": "calendar"
     },
+    "call": {
+      "codepoint": 57476,
+      "fontFamily": "Proicons",
+      "identifier": "call"
+    },
+    "call-end": {
+      "codepoint": 57477,
+      "fontFamily": "Proicons",
+      "identifier": "callEnd"
+    },
+    "calligraphy-pen": {
+      "codepoint": 57478,
+      "fontFamily": "Proicons",
+      "identifier": "calligraphyPen"
+    },
+    "camera": {
+      "codepoint": 57479,
+      "fontFamily": "Proicons",
+      "identifier": "camera"
+    },
     "cancel": {
-      "codepoint": 57404,
+      "codepoint": 57480,
       "fontFamily": "Proicons",
       "identifier": "cancel"
     },
     "cancel-circle": {
-      "codepoint": 57405,
+      "codepoint": 57481,
       "fontFamily": "Proicons",
       "identifier": "cancelCircle"
     },
+    "cancel-octagon": {
+      "codepoint": 57482,
+      "fontFamily": "Proicons",
+      "identifier": "cancelOctagon"
+    },
     "cancel-square": {
-      "codepoint": 57406,
+      "codepoint": 57483,
       "fontFamily": "Proicons",
       "identifier": "cancelSquare"
     },
+    "candy": {
+      "codepoint": 57484,
+      "fontFamily": "Proicons",
+      "identifier": "candy"
+    },
+    "cart": {
+      "codepoint": 57485,
+      "fontFamily": "Proicons",
+      "identifier": "cart"
+    },
     "cent": {
-      "codepoint": 57407,
+      "codepoint": 57486,
       "fontFamily": "Proicons",
       "identifier": "cent"
     },
     "center-horizontal": {
-      "codepoint": 57408,
+      "codepoint": 57487,
       "fontFamily": "Proicons",
       "identifier": "centerHorizontal"
     },
     "center-vertical": {
-      "codepoint": 57409,
+      "codepoint": 57488,
       "fontFamily": "Proicons",
       "identifier": "centerVertical"
     },
+    "chat": {
+      "codepoint": 57489,
+      "fontFamily": "Proicons",
+      "identifier": "chat"
+    },
+    "chat-question": {
+      "codepoint": 57490,
+      "fontFamily": "Proicons",
+      "identifier": "chatQuestion"
+    },
     "checkbox-checked": {
-      "codepoint": 57410,
+      "codepoint": 57491,
       "fontFamily": "Proicons",
       "identifier": "checkboxChecked"
     },
     "checkbox-indeterminate": {
-      "codepoint": 57411,
+      "codepoint": 57492,
       "fontFamily": "Proicons",
       "identifier": "checkboxIndeterminate"
     },
+    "checkbox-indeterminate-2": {
+      "codepoint": 57493,
+      "fontFamily": "Proicons",
+      "identifier": "checkboxIndeterminate2"
+    },
+    "checkbox-intermediate-2": {
+      "codepoint": 57494,
+      "fontFamily": "Proicons",
+      "identifier": "checkboxIntermediate2"
+    },
     "checkbox-list": {
-      "codepoint": 57412,
+      "codepoint": 57495,
       "fontFamily": "Proicons",
       "identifier": "checkboxList"
     },
     "checkbox-unchecked": {
-      "codepoint": 57413,
+      "codepoint": 57496,
       "fontFamily": "Proicons",
       "identifier": "checkboxUnchecked"
     },
     "checkmark": {
-      "codepoint": 57414,
+      "codepoint": 57497,
       "fontFamily": "Proicons",
       "identifier": "checkmark"
     },
     "checkmark-checked": {
-      "codepoint": 57415,
+      "codepoint": 57498,
       "fontFamily": "Proicons",
       "identifier": "checkmarkChecked"
     },
     "checkmark-circle": {
-      "codepoint": 57416,
+      "codepoint": 57499,
       "fontFamily": "Proicons",
       "identifier": "checkmarkCircle"
     },
     "checkmark-intermediate": {
-      "codepoint": 57417,
+      "codepoint": 57500,
       "fontFamily": "Proicons",
       "identifier": "checkmarkIntermediate"
     },
+    "checkmark-starburst": {
+      "codepoint": 57501,
+      "fontFamily": "Proicons",
+      "identifier": "checkmarkStarburst"
+    },
+    "cheese": {
+      "codepoint": 57502,
+      "fontFamily": "Proicons",
+      "identifier": "cheese"
+    },
     "chevron-down": {
-      "codepoint": 57418,
+      "codepoint": 57503,
       "fontFamily": "Proicons",
       "identifier": "chevronDown"
     },
     "chevron-left": {
-      "codepoint": 57419,
+      "codepoint": 57504,
       "fontFamily": "Proicons",
       "identifier": "chevronLeft"
     },
     "chevron-right": {
-      "codepoint": 57420,
+      "codepoint": 57505,
       "fontFamily": "Proicons",
       "identifier": "chevronRight"
     },
     "chevron-up": {
-      "codepoint": 57421,
+      "codepoint": 57506,
       "fontFamily": "Proicons",
       "identifier": "chevronUp"
     },
     "chrome-restore": {
-      "codepoint": 57422,
+      "codepoint": 57507,
       "fontFamily": "Proicons",
       "identifier": "chromeRestore"
     },
     "chrome-restore-var": {
-      "codepoint": 57423,
+      "codepoint": 57508,
       "fontFamily": "Proicons",
       "identifier": "chromeRestoreVar"
     },
     "circle": {
-      "codepoint": 57424,
+      "codepoint": 57509,
       "fontFamily": "Proicons",
       "identifier": "circle"
     },
     "circle-small": {
-      "codepoint": 57425,
+      "codepoint": 57510,
       "fontFamily": "Proicons",
       "identifier": "circleSmall"
     },
     "clipboard": {
-      "codepoint": 57426,
+      "codepoint": 57511,
       "fontFamily": "Proicons",
       "identifier": "clipboard"
     },
     "clipboard-paste": {
-      "codepoint": 57427,
+      "codepoint": 57512,
       "fontFamily": "Proicons",
       "identifier": "clipboardPaste"
     },
     "clipboard-search": {
-      "codepoint": 57428,
+      "codepoint": 57513,
       "fontFamily": "Proicons",
       "identifier": "clipboardSearch"
     },
     "clock": {
-      "codepoint": 57429,
+      "codepoint": 57514,
       "fontFamily": "Proicons",
       "identifier": "clock"
     },
     "closed-captions": {
-      "codepoint": 57430,
+      "codepoint": 57515,
       "fontFamily": "Proicons",
       "identifier": "closedCaptions"
     },
+    "cloud": {
+      "codepoint": 57516,
+      "fontFamily": "Proicons",
+      "identifier": "cloud"
+    },
+    "cloud-add": {
+      "codepoint": 57517,
+      "fontFamily": "Proicons",
+      "identifier": "cloudAdd"
+    },
+    "cloud-arrow-down": {
+      "codepoint": 57518,
+      "fontFamily": "Proicons",
+      "identifier": "cloudArrowDown"
+    },
+    "cloud-arrow-up": {
+      "codepoint": 57519,
+      "fontFamily": "Proicons",
+      "identifier": "cloudArrowUp"
+    },
+    "cloud-off": {
+      "codepoint": 57520,
+      "fontFamily": "Proicons",
+      "identifier": "cloudOff"
+    },
     "code": {
-      "codepoint": 57431,
+      "codepoint": 57521,
       "fontFamily": "Proicons",
       "identifier": "code"
     },
     "code-square": {
-      "codepoint": 57432,
+      "codepoint": 57522,
       "fontFamily": "Proicons",
       "identifier": "codeSquare"
     },
+    "coffee-hot": {
+      "codepoint": 57523,
+      "fontFamily": "Proicons",
+      "identifier": "coffeeHot"
+    },
+    "color-palette": {
+      "codepoint": 57524,
+      "fontFamily": "Proicons",
+      "identifier": "colorPalette"
+    },
+    "comment": {
+      "codepoint": 57525,
+      "fontFamily": "Proicons",
+      "identifier": "comment"
+    },
+    "comment-add": {
+      "codepoint": 57526,
+      "fontFamily": "Proicons",
+      "identifier": "commentAdd"
+    },
+    "comment-add-2": {
+      "codepoint": 57527,
+      "fontFamily": "Proicons",
+      "identifier": "commentAdd2"
+    },
+    "comment-exclamation": {
+      "codepoint": 57528,
+      "fontFamily": "Proicons",
+      "identifier": "commentExclamation"
+    },
+    "comment-multiple": {
+      "codepoint": 57529,
+      "fontFamily": "Proicons",
+      "identifier": "commentMultiple"
+    },
+    "comment-multiple-var": {
+      "codepoint": 57530,
+      "fontFamily": "Proicons",
+      "identifier": "commentMultipleVar"
+    },
     "compare-size": {
-      "codepoint": 57433,
+      "codepoint": 57531,
       "fontFamily": "Proicons",
       "identifier": "compareSize"
     },
+    "compass": {
+      "codepoint": 57532,
+      "fontFamily": "Proicons",
+      "identifier": "compass"
+    },
     "component": {
-      "codepoint": 57434,
+      "codepoint": 57533,
       "fontFamily": "Proicons",
       "identifier": "component"
     },
+    "compose": {
+      "codepoint": 57534,
+      "fontFamily": "Proicons",
+      "identifier": "compose"
+    },
     "computer": {
-      "codepoint": 57435,
+      "codepoint": 57535,
       "fontFamily": "Proicons",
       "identifier": "computer"
     },
     "computer-mac": {
-      "codepoint": 57436,
+      "codepoint": 57536,
       "fontFamily": "Proicons",
       "identifier": "computerMac"
     },
+    "cone": {
+      "codepoint": 57537,
+      "fontFamily": "Proicons",
+      "identifier": "cone"
+    },
+    "container": {
+      "codepoint": 57538,
+      "fontFamily": "Proicons",
+      "identifier": "container"
+    },
+    "contract-down": {
+      "codepoint": 57539,
+      "fontFamily": "Proicons",
+      "identifier": "contractDown"
+    },
+    "cookies": {
+      "codepoint": 57540,
+      "fontFamily": "Proicons",
+      "identifier": "cookies"
+    },
     "copy": {
-      "codepoint": 57437,
+      "codepoint": 57541,
       "fontFamily": "Proicons",
       "identifier": "copy"
     },
     "copy-var": {
-      "codepoint": 57438,
+      "codepoint": 57542,
       "fontFamily": "Proicons",
       "identifier": "copyVar"
     },
     "copyleft": {
-      "codepoint": 57439,
+      "codepoint": 57543,
       "fontFamily": "Proicons",
       "identifier": "copyleft"
     },
     "copyright": {
-      "codepoint": 57440,
+      "codepoint": 57544,
       "fontFamily": "Proicons",
       "identifier": "copyright"
     },
     "corner-radius": {
-      "codepoint": 57441,
+      "codepoint": 57545,
       "fontFamily": "Proicons",
       "identifier": "cornerRadius"
     },
     "credit-card": {
-      "codepoint": 57442,
+      "codepoint": 57546,
       "fontFamily": "Proicons",
       "identifier": "creditCard"
     },
     "crop": {
-      "codepoint": 57443,
+      "codepoint": 57547,
       "fontFamily": "Proicons",
       "identifier": "crop"
     },
+    "css": {
+      "codepoint": 57548,
+      "fontFamily": "Proicons",
+      "identifier": "css"
+    },
     "css-2": {
-      "codepoint": 57444,
+      "codepoint": 57549,
       "fontFamily": "Proicons",
       "identifier": "css2"
     },
+    "cube": {
+      "codepoint": 57550,
+      "fontFamily": "Proicons",
+      "identifier": "cube"
+    },
+    "cursor": {
+      "codepoint": 57551,
+      "fontFamily": "Proicons",
+      "identifier": "cursor"
+    },
+    "cursor-click": {
+      "codepoint": 57552,
+      "fontFamily": "Proicons",
+      "identifier": "cursorClick"
+    },
+    "cursor-drag": {
+      "codepoint": 57553,
+      "fontFamily": "Proicons",
+      "identifier": "cursorDrag"
+    },
     "cut": {
-      "codepoint": 57445,
+      "codepoint": 57554,
       "fontFamily": "Proicons",
       "identifier": "cut"
     },
     "cylinder": {
-      "codepoint": 57446,
+      "codepoint": 57555,
       "fontFamily": "Proicons",
       "identifier": "cylinder"
     },
     "dark-theme": {
-      "codepoint": 57447,
+      "codepoint": 57556,
       "fontFamily": "Proicons",
       "identifier": "darkTheme"
     },
     "database": {
-      "codepoint": 57448,
+      "codepoint": 57557,
       "fontFamily": "Proicons",
       "identifier": "database"
     },
     "database-add": {
-      "codepoint": 57449,
+      "codepoint": 57558,
       "fontFamily": "Proicons",
       "identifier": "databaseAdd"
     },
     "delete": {
-      "codepoint": 57450,
+      "codepoint": 57559,
       "fontFamily": "Proicons",
       "identifier": "delete"
     },
+    "diamond": {
+      "codepoint": 57560,
+      "fontFamily": "Proicons",
+      "identifier": "diamond"
+    },
     "diff": {
-      "codepoint": 57451,
+      "codepoint": 57561,
       "fontFamily": "Proicons",
       "identifier": "diff"
     },
+    "directions": {
+      "codepoint": 57562,
+      "fontFamily": "Proicons",
+      "identifier": "directions"
+    },
     "do-not-disturb": {
-      "codepoint": 57452,
+      "codepoint": 57563,
       "fontFamily": "Proicons",
       "identifier": "doNotDisturb"
     },
     "document": {
-      "codepoint": 57453,
+      "codepoint": 57564,
       "fontFamily": "Proicons",
       "identifier": "document"
     },
+    "dollar": {
+      "codepoint": 57565,
+      "fontFamily": "Proicons",
+      "identifier": "dollar"
+    },
+    "dollar-circle": {
+      "codepoint": 57566,
+      "fontFamily": "Proicons",
+      "identifier": "dollarCircle"
+    },
     "door": {
-      "codepoint": 57454,
+      "codepoint": 57567,
       "fontFamily": "Proicons",
       "identifier": "door"
     },
+    "door-open": {
+      "codepoint": 57568,
+      "fontFamily": "Proicons",
+      "identifier": "doorOpen"
+    },
     "dot-circle": {
-      "codepoint": 57455,
+      "codepoint": 57569,
       "fontFamily": "Proicons",
       "identifier": "dotCircle"
     },
     "dot-square": {
-      "codepoint": 57456,
+      "codepoint": 57570,
       "fontFamily": "Proicons",
       "identifier": "dotSquare"
     },
+    "draw-text": {
+      "codepoint": 57571,
+      "fontFamily": "Proicons",
+      "identifier": "drawText"
+    },
+    "drop": {
+      "codepoint": 57572,
+      "fontFamily": "Proicons",
+      "identifier": "drop"
+    },
+    "egg-fried": {
+      "codepoint": 57573,
+      "fontFamily": "Proicons",
+      "identifier": "eggFried"
+    },
     "emoji": {
-      "codepoint": 57457,
+      "codepoint": 57574,
       "fontFamily": "Proicons",
       "identifier": "emoji"
     },
     "emoji-frown": {
-      "codepoint": 57458,
+      "codepoint": 57575,
       "fontFamily": "Proicons",
       "identifier": "emojiFrown"
     },
+    "emoji-grin": {
+      "codepoint": 57576,
+      "fontFamily": "Proicons",
+      "identifier": "emojiGrin"
+    },
+    "emoji-laughter": {
+      "codepoint": 57577,
+      "fontFamily": "Proicons",
+      "identifier": "emojiLaughter"
+    },
+    "eraser": {
+      "codepoint": 57578,
+      "fontFamily": "Proicons",
+      "identifier": "eraser"
+    },
+    "eraser-sparkle": {
+      "codepoint": 57579,
+      "fontFamily": "Proicons",
+      "identifier": "eraserSparkle"
+    },
     "exclamation-mark": {
-      "codepoint": 57459,
+      "codepoint": 57580,
       "fontFamily": "Proicons",
       "identifier": "exclamationMark"
     },
+    "expand": {
+      "codepoint": 57581,
+      "fontFamily": "Proicons",
+      "identifier": "expand"
+    },
+    "extension": {
+      "codepoint": 57582,
+      "fontFamily": "Proicons",
+      "identifier": "extension_"
+    },
     "eye": {
-      "codepoint": 57460,
+      "codepoint": 57583,
       "fontFamily": "Proicons",
       "identifier": "eye"
     },
+    "eye-off": {
+      "codepoint": 57584,
+      "fontFamily": "Proicons",
+      "identifier": "eyeOff"
+    },
+    "eyedropper": {
+      "codepoint": 57585,
+      "fontFamily": "Proicons",
+      "identifier": "eyedropper"
+    },
+    "eyedropper-color": {
+      "codepoint": 57586,
+      "fontFamily": "Proicons",
+      "identifier": "eyedropperColor"
+    },
+    "eyedropper-color-accent": {
+      "codepoint": 57587,
+      "fontFamily": "Proicons",
+      "identifier": "eyedropperColorAccent"
+    },
+    "facebook": {
+      "codepoint": 57588,
+      "fontFamily": "Proicons",
+      "identifier": "facebook"
+    },
+    "fast-forward": {
+      "codepoint": 57589,
+      "fontFamily": "Proicons",
+      "identifier": "fastForward"
+    },
+    "fast-foward": {
+      "codepoint": 57590,
+      "fontFamily": "Proicons",
+      "identifier": "fastFoward"
+    },
     "figma": {
-      "codepoint": 57461,
+      "codepoint": 57591,
       "fontFamily": "Proicons",
       "identifier": "figma"
     },
+    "file": {
+      "codepoint": 57592,
+      "fontFamily": "Proicons",
+      "identifier": "file"
+    },
+    "file-add": {
+      "codepoint": 57593,
+      "fontFamily": "Proicons",
+      "identifier": "fileAdd"
+    },
+    "file-multiple": {
+      "codepoint": 57594,
+      "fontFamily": "Proicons",
+      "identifier": "fileMultiple"
+    },
+    "file-sync": {
+      "codepoint": 57595,
+      "fontFamily": "Proicons",
+      "identifier": "fileSync"
+    },
+    "file-text": {
+      "codepoint": 57596,
+      "fontFamily": "Proicons",
+      "identifier": "fileText"
+    },
     "filter": {
-      "codepoint": 57462,
+      "codepoint": 57597,
       "fontFamily": "Proicons",
       "identifier": "filter"
     },
+    "filter-2": {
+      "codepoint": 57598,
+      "fontFamily": "Proicons",
+      "identifier": "filter2"
+    },
+    "filter-cancel": {
+      "codepoint": 57599,
+      "fontFamily": "Proicons",
+      "identifier": "filterCancel"
+    },
+    "filter-cancel-2": {
+      "codepoint": 57600,
+      "fontFamily": "Proicons",
+      "identifier": "filterCancel2"
+    },
+    "flag": {
+      "codepoint": 57601,
+      "fontFamily": "Proicons",
+      "identifier": "flag"
+    },
+    "flag-2": {
+      "codepoint": 57602,
+      "fontFamily": "Proicons",
+      "identifier": "flag2"
+    },
+    "flashlight": {
+      "codepoint": 57603,
+      "fontFamily": "Proicons",
+      "identifier": "flashlight"
+    },
     "foldable-horizontal": {
-      "codepoint": 57463,
+      "codepoint": 57604,
       "fontFamily": "Proicons",
       "identifier": "foldableHorizontal"
     },
     "foldable-horizontal-half": {
-      "codepoint": 57464,
+      "codepoint": 57605,
       "fontFamily": "Proicons",
       "identifier": "foldableHorizontalHalf"
     },
     "foldable-vertical": {
-      "codepoint": 57465,
+      "codepoint": 57606,
       "fontFamily": "Proicons",
       "identifier": "foldableVertical"
     },
     "foldable-vertical-half": {
-      "codepoint": 57466,
+      "codepoint": 57607,
       "fontFamily": "Proicons",
       "identifier": "foldableVerticalHalf"
     },
+    "folder": {
+      "codepoint": 57608,
+      "fontFamily": "Proicons",
+      "identifier": "folder"
+    },
+    "folder-add": {
+      "codepoint": 57609,
+      "fontFamily": "Proicons",
+      "identifier": "folderAdd"
+    },
+    "folder-multiple": {
+      "codepoint": 57610,
+      "fontFamily": "Proicons",
+      "identifier": "folderMultiple"
+    },
+    "folder-open": {
+      "codepoint": 57611,
+      "fontFamily": "Proicons",
+      "identifier": "folderOpen"
+    },
+    "food": {
+      "codepoint": 57612,
+      "fontFamily": "Proicons",
+      "identifier": "food"
+    },
     "full-screen-maximize": {
-      "codepoint": 57467,
+      "codepoint": 57613,
       "fontFamily": "Proicons",
       "identifier": "fullScreenMaximize"
     },
     "full-screen-minimize": {
-      "codepoint": 57468,
+      "codepoint": 57614,
       "fontFamily": "Proicons",
       "identifier": "fullScreenMinimize"
     },
+    "game": {
+      "codepoint": 57615,
+      "fontFamily": "Proicons",
+      "identifier": "game"
+    },
     "gift": {
-      "codepoint": 57469,
+      "codepoint": 57616,
       "fontFamily": "Proicons",
       "identifier": "gift"
     },
     "git-commit": {
-      "codepoint": 57470,
+      "codepoint": 57617,
       "fontFamily": "Proicons",
       "identifier": "gitCommit"
     },
+    "github": {
+      "codepoint": 57618,
+      "fontFamily": "Proicons",
+      "identifier": "github"
+    },
+    "gitlab": {
+      "codepoint": 57619,
+      "fontFamily": "Proicons",
+      "identifier": "gitlab"
+    },
+    "glasses": {
+      "codepoint": 57620,
+      "fontFamily": "Proicons",
+      "identifier": "glasses"
+    },
     "globe": {
-      "codepoint": 57471,
+      "codepoint": 57621,
       "fontFamily": "Proicons",
       "identifier": "globe"
     },
+    "google": {
+      "codepoint": 57622,
+      "fontFamily": "Proicons",
+      "identifier": "google"
+    },
+    "google-2": {
+      "codepoint": 57623,
+      "fontFamily": "Proicons",
+      "identifier": "google2"
+    },
+    "google-chrome": {
+      "codepoint": 57624,
+      "fontFamily": "Proicons",
+      "identifier": "googleChrome"
+    },
+    "google-play": {
+      "codepoint": 57625,
+      "fontFamily": "Proicons",
+      "identifier": "googlePlay"
+    },
     "graph": {
-      "codepoint": 57472,
+      "codepoint": 57626,
       "fontFamily": "Proicons",
       "identifier": "graph"
     },
     "grid": {
-      "codepoint": 57473,
+      "codepoint": 57627,
       "fontFamily": "Proicons",
       "identifier": "grid"
     },
     "grid-dots": {
-      "codepoint": 57474,
+      "codepoint": 57628,
       "fontFamily": "Proicons",
       "identifier": "gridDots"
     },
+    "hamburger": {
+      "codepoint": 57629,
+      "fontFamily": "Proicons",
+      "identifier": "hamburger"
+    },
+    "hand": {
+      "codepoint": 57630,
+      "fontFamily": "Proicons",
+      "identifier": "hand"
+    },
+    "hard-drive": {
+      "codepoint": 57631,
+      "fontFamily": "Proicons",
+      "identifier": "hardDrive"
+    },
     "hash": {
-      "codepoint": 57475,
+      "codepoint": 57632,
       "fontFamily": "Proicons",
       "identifier": "hash"
     },
+    "hat-graduation": {
+      "codepoint": 57633,
+      "fontFamily": "Proicons",
+      "identifier": "hatGraduation"
+    },
     "headphones": {
-      "codepoint": 57476,
+      "codepoint": 57634,
       "fontFamily": "Proicons",
       "identifier": "headphones"
     },
+    "headphones-off": {
+      "codepoint": 57635,
+      "fontFamily": "Proicons",
+      "identifier": "headphonesOff"
+    },
     "heart": {
-      "codepoint": 57477,
+      "codepoint": 57636,
       "fontFamily": "Proicons",
       "identifier": "heart"
     },
     "heart-stylistic": {
-      "codepoint": 57478,
+      "codepoint": 57637,
       "fontFamily": "Proicons",
       "identifier": "heartStylistic"
     },
+    "hexagon": {
+      "codepoint": 57638,
+      "fontFamily": "Proicons",
+      "identifier": "hexagon"
+    },
     "highlighter": {
-      "codepoint": 57479,
+      "codepoint": 57639,
       "fontFamily": "Proicons",
       "identifier": "highlighter"
     },
     "highlighter-accent": {
-      "codepoint": 57480,
+      "codepoint": 57640,
       "fontFamily": "Proicons",
       "identifier": "highlighterAccent"
     },
+    "history": {
+      "codepoint": 57641,
+      "fontFamily": "Proicons",
+      "identifier": "history"
+    },
+    "home": {
+      "codepoint": 57642,
+      "fontFamily": "Proicons",
+      "identifier": "home"
+    },
     "home-2": {
-      "codepoint": 57481,
+      "codepoint": 57643,
       "fontFamily": "Proicons",
       "identifier": "home2"
     },
     "hourglass": {
-      "codepoint": 57482,
+      "codepoint": 57644,
       "fontFamily": "Proicons",
       "identifier": "hourglass"
     },
+    "html": {
+      "codepoint": 57645,
+      "fontFamily": "Proicons",
+      "identifier": "html"
+    },
     "infinity": {
-      "codepoint": 57483,
+      "codepoint": 57646,
       "fontFamily": "Proicons",
       "identifier": "infinity"
     },
     "info": {
-      "codepoint": 57484,
+      "codepoint": 57647,
       "fontFamily": "Proicons",
       "identifier": "info"
     },
     "info-square": {
-      "codepoint": 57485,
+      "codepoint": 57648,
       "fontFamily": "Proicons",
       "identifier": "infoSquare"
     },
     "instagram": {
-      "codepoint": 57486,
+      "codepoint": 57649,
       "fontFamily": "Proicons",
       "identifier": "instagram"
     },
     "javascript": {
-      "codepoint": 57487,
+      "codepoint": 57650,
       "fontFamily": "Proicons",
       "identifier": "javascript"
     },
+    "key": {
+      "codepoint": 57651,
+      "fontFamily": "Proicons",
+      "identifier": "key"
+    },
     "keyboard": {
-      "codepoint": 57488,
+      "codepoint": 57652,
       "fontFamily": "Proicons",
       "identifier": "keyboard"
     },
     "keyboard-command": {
-      "codepoint": 57489,
+      "codepoint": 57653,
       "fontFamily": "Proicons",
       "identifier": "keyboardCommand"
     },
+    "keyboard-shift": {
+      "codepoint": 57654,
+      "fontFamily": "Proicons",
+      "identifier": "keyboardShift"
+    },
+    "kotlin": {
+      "codepoint": 57655,
+      "fontFamily": "Proicons",
+      "identifier": "kotlin"
+    },
     "laptop": {
-      "codepoint": 57490,
+      "codepoint": 57656,
       "fontFamily": "Proicons",
       "identifier": "laptop"
     },
     "layers": {
-      "codepoint": 57491,
+      "codepoint": 57657,
       "fontFamily": "Proicons",
       "identifier": "layers"
     },
     "layout": {
-      "codepoint": 57492,
+      "codepoint": 57658,
       "fontFamily": "Proicons",
       "identifier": "layout"
     },
     "leaf": {
-      "codepoint": 57493,
+      "codepoint": 57659,
       "fontFamily": "Proicons",
       "identifier": "leaf"
     },
+    "leaf-three": {
+      "codepoint": 57660,
+      "fontFamily": "Proicons",
+      "identifier": "leafThree"
+    },
+    "leaf-two": {
+      "codepoint": 57661,
+      "fontFamily": "Proicons",
+      "identifier": "leafTwo"
+    },
+    "library": {
+      "codepoint": 57662,
+      "fontFamily": "Proicons",
+      "identifier": "library_"
+    },
+    "lightbulb": {
+      "codepoint": 57663,
+      "fontFamily": "Proicons",
+      "identifier": "lightbulb"
+    },
     "line-diagonal": {
-      "codepoint": 57494,
+      "codepoint": 57664,
       "fontFamily": "Proicons",
       "identifier": "lineDiagonal"
     },
     "link": {
-      "codepoint": 57495,
+      "codepoint": 57665,
       "fontFamily": "Proicons",
       "identifier": "link"
     },
+    "linux": {
+      "codepoint": 57666,
+      "fontFamily": "Proicons",
+      "identifier": "linux"
+    },
     "location": {
-      "codepoint": 57496,
+      "codepoint": 57667,
       "fontFamily": "Proicons",
       "identifier": "location"
     },
     "lock": {
-      "codepoint": 57497,
+      "codepoint": 57668,
       "fontFamily": "Proicons",
       "identifier": "lock"
     },
     "lock-open": {
-      "codepoint": 57498,
+      "codepoint": 57669,
       "fontFamily": "Proicons",
       "identifier": "lockOpen"
     },
     "magnet": {
-      "codepoint": 57499,
+      "codepoint": 57670,
       "fontFamily": "Proicons",
       "identifier": "magnet"
     },
     "mail": {
-      "codepoint": 57500,
+      "codepoint": 57671,
       "fontFamily": "Proicons",
       "identifier": "mail"
     },
     "mail-open": {
-      "codepoint": 57501,
+      "codepoint": 57672,
       "fontFamily": "Proicons",
       "identifier": "mailOpen"
     },
+    "map": {
+      "codepoint": 57673,
+      "fontFamily": "Proicons",
+      "identifier": "map"
+    },
     "mask": {
-      "codepoint": 57502,
+      "codepoint": 57674,
       "fontFamily": "Proicons",
       "identifier": "mask"
     },
     "math": {
-      "codepoint": 57503,
+      "codepoint": 57675,
       "fontFamily": "Proicons",
       "identifier": "math"
     },
+    "megaphone": {
+      "codepoint": 57676,
+      "fontFamily": "Proicons",
+      "identifier": "megaphone"
+    },
+    "megaphone-loud": {
+      "codepoint": 57677,
+      "fontFamily": "Proicons",
+      "identifier": "megaphoneLoud"
+    },
     "mention": {
-      "codepoint": 57504,
+      "codepoint": 57678,
       "fontFamily": "Proicons",
       "identifier": "mention"
     },
     "menu": {
-      "codepoint": 57505,
+      "codepoint": 57679,
       "fontFamily": "Proicons",
       "identifier": "menu"
     },
     "microphone": {
-      "codepoint": 57506,
+      "codepoint": 57680,
       "fontFamily": "Proicons",
       "identifier": "microphone"
     },
+    "microphone-off": {
+      "codepoint": 57681,
+      "fontFamily": "Proicons",
+      "identifier": "microphoneOff"
+    },
     "microsoft": {
-      "codepoint": 57507,
+      "codepoint": 57682,
       "fontFamily": "Proicons",
       "identifier": "microsoft"
     },
+    "microsoft-edge": {
+      "codepoint": 57683,
+      "fontFamily": "Proicons",
+      "identifier": "microsoftEdge"
+    },
+    "moon": {
+      "codepoint": 57684,
+      "fontFamily": "Proicons",
+      "identifier": "moon"
+    },
     "more": {
-      "codepoint": 57508,
+      "codepoint": 57685,
       "fontFamily": "Proicons",
       "identifier": "more"
     },
     "more-vertical": {
-      "codepoint": 57509,
+      "codepoint": 57686,
       "fontFamily": "Proicons",
       "identifier": "moreVertical"
     },
     "motherboard": {
-      "codepoint": 57510,
+      "codepoint": 57687,
       "fontFamily": "Proicons",
       "identifier": "motherboard"
     },
     "movie": {
-      "codepoint": 57511,
+      "codepoint": 57688,
       "fontFamily": "Proicons",
       "identifier": "movie"
     },
+    "museum": {
+      "codepoint": 57689,
+      "fontFamily": "Proicons",
+      "identifier": "museum"
+    },
     "music-note": {
-      "codepoint": 57512,
+      "codepoint": 57690,
       "fontFamily": "Proicons",
       "identifier": "musicNote"
     },
+    "music-note-2": {
+      "codepoint": 57691,
+      "fontFamily": "Proicons",
+      "identifier": "musicNote2"
+    },
+    "narrator": {
+      "codepoint": 57692,
+      "fontFamily": "Proicons",
+      "identifier": "narrator"
+    },
+    "nodejs": {
+      "codepoint": 57693,
+      "fontFamily": "Proicons",
+      "identifier": "nodejs"
+    },
     "note": {
-      "codepoint": 57513,
+      "codepoint": 57694,
       "fontFamily": "Proicons",
       "identifier": "note"
     },
+    "note-add": {
+      "codepoint": 57695,
+      "fontFamily": "Proicons",
+      "identifier": "noteAdd"
+    },
     "npm": {
-      "codepoint": 57514,
+      "codepoint": 57696,
       "fontFamily": "Proicons",
       "identifier": "npm"
     },
+    "octagon": {
+      "codepoint": 57697,
+      "fontFamily": "Proicons",
+      "identifier": "octagon"
+    },
+    "open": {
+      "codepoint": 57698,
+      "fontFamily": "Proicons",
+      "identifier": "open"
+    },
+    "open-source": {
+      "codepoint": 57699,
+      "fontFamily": "Proicons",
+      "identifier": "openSource"
+    },
+    "openai": {
+      "codepoint": 57700,
+      "fontFamily": "Proicons",
+      "identifier": "openai"
+    },
     "page-margins": {
-      "codepoint": 57515,
+      "codepoint": 57701,
       "fontFamily": "Proicons",
       "identifier": "pageMargins"
     },
+    "paint-bucket": {
+      "codepoint": 57702,
+      "fontFamily": "Proicons",
+      "identifier": "paintBucket"
+    },
+    "paint-bucket-accent": {
+      "codepoint": 57703,
+      "fontFamily": "Proicons",
+      "identifier": "paintBucketAccent"
+    },
     "paintbrush": {
-      "codepoint": 57516,
+      "codepoint": 57704,
       "fontFamily": "Proicons",
       "identifier": "paintbrush"
     },
+    "paintbrush-2": {
+      "codepoint": 57705,
+      "fontFamily": "Proicons",
+      "identifier": "paintbrush2"
+    },
+    "paintbrush-2-sparkle": {
+      "codepoint": 57706,
+      "fontFamily": "Proicons",
+      "identifier": "paintbrush2Sparkle"
+    },
     "panel-bottom": {
-      "codepoint": 57517,
+      "codepoint": 57707,
       "fontFamily": "Proicons",
       "identifier": "panelBottom"
     },
     "panel-bottom-open": {
-      "codepoint": 57518,
+      "codepoint": 57708,
       "fontFamily": "Proicons",
       "identifier": "panelBottomOpen"
     },
     "panel-left": {
-      "codepoint": 57519,
+      "codepoint": 57709,
       "fontFamily": "Proicons",
       "identifier": "panelLeft"
     },
     "panel-left-contract": {
-      "codepoint": 57520,
+      "codepoint": 57710,
       "fontFamily": "Proicons",
       "identifier": "panelLeftContract"
     },
     "panel-left-expand": {
-      "codepoint": 57521,
+      "codepoint": 57711,
       "fontFamily": "Proicons",
       "identifier": "panelLeftExpand"
     },
     "panel-left-open": {
-      "codepoint": 57522,
+      "codepoint": 57712,
       "fontFamily": "Proicons",
       "identifier": "panelLeftOpen"
     },
     "panel-left-open-1": {
-      "codepoint": 57523,
+      "codepoint": 57713,
       "fontFamily": "Proicons",
       "identifier": "panelLeftOpen1"
     },
     "panel-right": {
-      "codepoint": 57524,
+      "codepoint": 57714,
       "fontFamily": "Proicons",
       "identifier": "panelRight"
     },
     "panel-right-contract": {
-      "codepoint": 57525,
+      "codepoint": 57715,
       "fontFamily": "Proicons",
       "identifier": "panelRightContract"
     },
     "panel-right-expand": {
-      "codepoint": 57526,
+      "codepoint": 57716,
       "fontFamily": "Proicons",
       "identifier": "panelRightExpand"
     },
     "panel-right-open": {
-      "codepoint": 57527,
+      "codepoint": 57717,
       "fontFamily": "Proicons",
       "identifier": "panelRightOpen"
     },
     "parentheses": {
-      "codepoint": 57528,
+      "codepoint": 57718,
       "fontFamily": "Proicons",
       "identifier": "parentheses"
     },
     "pause": {
-      "codepoint": 57529,
+      "codepoint": 57719,
       "fontFamily": "Proicons",
       "identifier": "pause"
     },
+    "pdf": {
+      "codepoint": 57720,
+      "fontFamily": "Proicons",
+      "identifier": "pdf"
+    },
     "pdf-2": {
-      "codepoint": 57530,
+      "codepoint": 57721,
       "fontFamily": "Proicons",
       "identifier": "pdf2"
     },
+    "pencil": {
+      "codepoint": 57722,
+      "fontFamily": "Proicons",
+      "identifier": "pencil"
+    },
+    "pencil-sparkle": {
+      "codepoint": 57723,
+      "fontFamily": "Proicons",
+      "identifier": "pencilSparkle"
+    },
     "pentagon": {
-      "codepoint": 57531,
+      "codepoint": 57724,
       "fontFamily": "Proicons",
       "identifier": "pentagon"
     },
     "person": {
-      "codepoint": 57532,
+      "codepoint": 57725,
       "fontFamily": "Proicons",
       "identifier": "person"
     },
     "person-2": {
-      "codepoint": 57533,
+      "codepoint": 57726,
       "fontFamily": "Proicons",
       "identifier": "person2"
     },
+    "person-add": {
+      "codepoint": 57727,
+      "fontFamily": "Proicons",
+      "identifier": "personAdd"
+    },
     "person-add-2": {
-      "codepoint": 57534,
+      "codepoint": 57728,
       "fontFamily": "Proicons",
       "identifier": "personAdd2"
     },
     "person-circle": {
-      "codepoint": 57535,
+      "codepoint": 57729,
       "fontFamily": "Proicons",
       "identifier": "personCircle"
     },
+    "person-multiple": {
+      "codepoint": 57730,
+      "fontFamily": "Proicons",
+      "identifier": "personMultiple"
+    },
     "phone": {
-      "codepoint": 57536,
+      "codepoint": 57731,
       "fontFamily": "Proicons",
       "identifier": "phone"
     },
+    "phone-accept": {
+      "codepoint": 57732,
+      "fontFamily": "Proicons",
+      "identifier": "phoneAccept"
+    },
+    "phone-hang-up": {
+      "codepoint": 57733,
+      "fontFamily": "Proicons",
+      "identifier": "phoneHangUp"
+    },
+    "photo": {
+      "codepoint": 57734,
+      "fontFamily": "Proicons",
+      "identifier": "photo"
+    },
+    "photo-add": {
+      "codepoint": 57735,
+      "fontFamily": "Proicons",
+      "identifier": "photoAdd"
+    },
     "photo-filter": {
-      "codepoint": 57537,
+      "codepoint": 57736,
       "fontFamily": "Proicons",
       "identifier": "photoFilter"
     },
     "photo-filter-2": {
-      "codepoint": 57538,
+      "codepoint": 57737,
       "fontFamily": "Proicons",
       "identifier": "photoFilter2"
     },
+    "photo-multiple": {
+      "codepoint": 57738,
+      "fontFamily": "Proicons",
+      "identifier": "photoMultiple"
+    },
+    "photo-sparkle": {
+      "codepoint": 57739,
+      "fontFamily": "Proicons",
+      "identifier": "photoSparkle"
+    },
     "picture-in-picture": {
-      "codepoint": 57539,
+      "codepoint": 57740,
       "fontFamily": "Proicons",
       "identifier": "pictureInPicture"
     },
     "picture-in-picture-2": {
-      "codepoint": 57540,
+      "codepoint": 57741,
       "fontFamily": "Proicons",
       "identifier": "pictureInPicture2"
     },
+    "picture-in-picture-enter": {
+      "codepoint": 57742,
+      "fontFamily": "Proicons",
+      "identifier": "pictureInPictureEnter"
+    },
     "pie-chart": {
-      "codepoint": 57541,
+      "codepoint": 57743,
       "fontFamily": "Proicons",
       "identifier": "pieChart"
     },
+    "pin": {
+      "codepoint": 57744,
+      "fontFamily": "Proicons",
+      "identifier": "pin"
+    },
+    "pin-off": {
+      "codepoint": 57745,
+      "fontFamily": "Proicons",
+      "identifier": "pinOff"
+    },
+    "pizza": {
+      "codepoint": 57746,
+      "fontFamily": "Proicons",
+      "identifier": "pizza"
+    },
+    "play": {
+      "codepoint": 57747,
+      "fontFamily": "Proicons",
+      "identifier": "play"
+    },
+    "play-circle": {
+      "codepoint": 57748,
+      "fontFamily": "Proicons",
+      "identifier": "playCircle"
+    },
+    "play-circular": {
+      "codepoint": 57749,
+      "fontFamily": "Proicons",
+      "identifier": "playCircular"
+    },
     "power": {
-      "codepoint": 57542,
+      "codepoint": 57750,
       "fontFamily": "Proicons",
       "identifier": "power"
     },
+    "printer": {
+      "codepoint": 57751,
+      "fontFamily": "Proicons",
+      "identifier": "printer"
+    },
     "prohibited": {
-      "codepoint": 57543,
+      "codepoint": 57752,
       "fontFamily": "Proicons",
       "identifier": "prohibited"
     },
     "pulse": {
-      "codepoint": 57544,
+      "codepoint": 57753,
       "fontFamily": "Proicons",
       "identifier": "pulse"
     },
+    "python": {
+      "codepoint": 57754,
+      "fontFamily": "Proicons",
+      "identifier": "python"
+    },
     "qr-code": {
-      "codepoint": 57545,
+      "codepoint": 57755,
       "fontFamily": "Proicons",
       "identifier": "qrCode"
     },
+    "question": {
+      "codepoint": 57756,
+      "fontFamily": "Proicons",
+      "identifier": "question"
+    },
+    "question-circle": {
+      "codepoint": 57757,
+      "fontFamily": "Proicons",
+      "identifier": "questionCircle"
+    },
     "quote": {
-      "codepoint": 57546,
+      "codepoint": 57758,
       "fontFamily": "Proicons",
       "identifier": "quote"
     },
     "reactjs": {
-      "codepoint": 57547,
+      "codepoint": 57759,
       "fontFamily": "Proicons",
       "identifier": "reactjs"
     },
     "record": {
-      "codepoint": 57548,
+      "codepoint": 57760,
       "fontFamily": "Proicons",
       "identifier": "record"
     },
     "record-stop": {
-      "codepoint": 57549,
+      "codepoint": 57761,
       "fontFamily": "Proicons",
       "identifier": "recordStop"
     },
     "rectangle-wide": {
-      "codepoint": 57550,
+      "codepoint": 57762,
       "fontFamily": "Proicons",
       "identifier": "rectangleWide"
     },
     "regular-expression": {
-      "codepoint": 57551,
+      "codepoint": 57763,
       "fontFamily": "Proicons",
       "identifier": "regularExpression"
     },
+    "reverse": {
+      "codepoint": 57764,
+      "fontFamily": "Proicons",
+      "identifier": "reverse"
+    },
     "rhombus": {
-      "codepoint": 57552,
+      "codepoint": 57765,
       "fontFamily": "Proicons",
       "identifier": "rhombus"
     },
     "ribbon": {
-      "codepoint": 57553,
+      "codepoint": 57766,
       "fontFamily": "Proicons",
       "identifier": "ribbon"
     },
+    "ribbon-star": {
+      "codepoint": 57767,
+      "fontFamily": "Proicons",
+      "identifier": "ribbonStar"
+    },
     "road-barrier": {
-      "codepoint": 57554,
+      "codepoint": 57768,
       "fontFamily": "Proicons",
       "identifier": "roadBarrier"
     },
+    "road-cone": {
+      "codepoint": 57769,
+      "fontFamily": "Proicons",
+      "identifier": "roadCone"
+    },
     "roblox": {
-      "codepoint": 57555,
+      "codepoint": 57770,
       "fontFamily": "Proicons",
       "identifier": "roblox"
     },
+    "rocket": {
+      "codepoint": 57771,
+      "fontFamily": "Proicons",
+      "identifier": "rocket"
+    },
+    "rose": {
+      "codepoint": 57772,
+      "fontFamily": "Proicons",
+      "identifier": "rose"
+    },
     "ruler": {
-      "codepoint": 57556,
+      "codepoint": 57773,
       "fontFamily": "Proicons",
       "identifier": "ruler"
     },
     "ruler-diagonal": {
-      "codepoint": 57557,
+      "codepoint": 57774,
       "fontFamily": "Proicons",
       "identifier": "rulerDiagonal"
     },
     "sapling": {
-      "codepoint": 57558,
+      "codepoint": 57775,
       "fontFamily": "Proicons",
       "identifier": "sapling"
     },
+    "save": {
+      "codepoint": 57776,
+      "fontFamily": "Proicons",
+      "identifier": "save"
+    },
+    "save-as": {
+      "codepoint": 57777,
+      "fontFamily": "Proicons",
+      "identifier": "saveAs"
+    },
+    "save-multiple": {
+      "codepoint": 57778,
+      "fontFamily": "Proicons",
+      "identifier": "saveMultiple"
+    },
+    "save-pencil": {
+      "codepoint": 57779,
+      "fontFamily": "Proicons",
+      "identifier": "savePencil"
+    },
     "screen-size": {
-      "codepoint": 57559,
+      "codepoint": 57780,
       "fontFamily": "Proicons",
       "identifier": "screenSize"
     },
     "script": {
-      "codepoint": 57560,
+      "codepoint": 57781,
       "fontFamily": "Proicons",
       "identifier": "script"
     },
     "script-2": {
-      "codepoint": 57561,
+      "codepoint": 57782,
       "fontFamily": "Proicons",
       "identifier": "script2"
     },
     "search": {
-      "codepoint": 57562,
+      "codepoint": 57783,
       "fontFamily": "Proicons",
       "identifier": "search"
     },
     "search-cancel": {
-      "codepoint": 57563,
+      "codepoint": 57784,
       "fontFamily": "Proicons",
       "identifier": "searchCancel"
     },
     "section-break": {
-      "codepoint": 57564,
+      "codepoint": 57785,
       "fontFamily": "Proicons",
       "identifier": "sectionBreak"
     },
+    "send": {
+      "codepoint": 57786,
+      "fontFamily": "Proicons",
+      "identifier": "send"
+    },
     "server": {
-      "codepoint": 57565,
+      "codepoint": 57787,
       "fontFamily": "Proicons",
       "identifier": "server"
     },
+    "settings": {
+      "codepoint": 57788,
+      "fontFamily": "Proicons",
+      "identifier": "settings"
+    },
     "shape-difference": {
-      "codepoint": 57566,
+      "codepoint": 57789,
       "fontFamily": "Proicons",
       "identifier": "shapeDifference"
     },
     "shape-intersect": {
-      "codepoint": 57567,
+      "codepoint": 57790,
       "fontFamily": "Proicons",
       "identifier": "shapeIntersect"
     },
     "shape-subtract": {
-      "codepoint": 57568,
+      "codepoint": 57791,
       "fontFamily": "Proicons",
       "identifier": "shapeSubtract"
     },
     "shape-union": {
-      "codepoint": 57569,
+      "codepoint": 57792,
       "fontFamily": "Proicons",
       "identifier": "shapeUnion"
     },
+    "shield": {
+      "codepoint": 57793,
+      "fontFamily": "Proicons",
+      "identifier": "shield"
+    },
+    "shield-cancel": {
+      "codepoint": 57794,
+      "fontFamily": "Proicons",
+      "identifier": "shieldCancel"
+    },
+    "shield-checkmark": {
+      "codepoint": 57795,
+      "fontFamily": "Proicons",
+      "identifier": "shieldCheckmark"
+    },
+    "shield-keyhole": {
+      "codepoint": 57796,
+      "fontFamily": "Proicons",
+      "identifier": "shieldKeyhole"
+    },
+    "skull": {
+      "codepoint": 57797,
+      "fontFamily": "Proicons",
+      "identifier": "skull"
+    },
     "slash-box": {
-      "codepoint": 57570,
+      "codepoint": 57798,
       "fontFamily": "Proicons",
       "identifier": "slashBox"
     },
     "slash-square": {
-      "codepoint": 57571,
+      "codepoint": 57799,
       "fontFamily": "Proicons",
       "identifier": "slashSquare"
     },
+    "soccer": {
+      "codepoint": 57800,
+      "fontFamily": "Proicons",
+      "identifier": "soccer"
+    },
     "soundwave": {
-      "codepoint": 57572,
+      "codepoint": 57801,
       "fontFamily": "Proicons",
       "identifier": "soundwave"
     },
     "spacebar": {
-      "codepoint": 57573,
+      "codepoint": 57802,
       "fontFamily": "Proicons",
       "identifier": "spacebar"
     },
+    "sparkle": {
+      "codepoint": 57803,
+      "fontFamily": "Proicons",
+      "identifier": "sparkle"
+    },
+    "sparkle-2": {
+      "codepoint": 57804,
+      "fontFamily": "Proicons",
+      "identifier": "sparkle2"
+    },
     "spinner": {
-      "codepoint": 57574,
+      "codepoint": 57805,
       "fontFamily": "Proicons",
       "identifier": "spinner"
     },
     "split-horizontal": {
-      "codepoint": 57575,
+      "codepoint": 57806,
       "fontFamily": "Proicons",
       "identifier": "splitHorizontal"
     },
     "split-vertical": {
-      "codepoint": 57576,
+      "codepoint": 57807,
       "fontFamily": "Proicons",
       "identifier": "splitVertical"
     },
     "square": {
-      "codepoint": 57577,
+      "codepoint": 57808,
       "fontFamily": "Proicons",
       "identifier": "square"
     },
+    "square-drag": {
+      "codepoint": 57809,
+      "fontFamily": "Proicons",
+      "identifier": "squareDrag"
+    },
     "square-margins": {
-      "codepoint": 57578,
+      "codepoint": 57810,
       "fontFamily": "Proicons",
       "identifier": "squareMargins"
     },
+    "star": {
+      "codepoint": 57811,
+      "fontFamily": "Proicons",
+      "identifier": "star"
+    },
     "stroke-thickness": {
-      "codepoint": 57579,
+      "codepoint": 57812,
       "fontFamily": "Proicons",
       "identifier": "strokeThickness"
     },
     "subtract": {
-      "codepoint": 57580,
+      "codepoint": 57813,
       "fontFamily": "Proicons",
       "identifier": "subtract"
     },
     "subtract-square": {
-      "codepoint": 57581,
+      "codepoint": 57814,
       "fontFamily": "Proicons",
       "identifier": "subtractSquare"
     },
     "subtract-square-multiple": {
-      "codepoint": 57582,
+      "codepoint": 57815,
       "fontFamily": "Proicons",
       "identifier": "subtractSquareMultiple"
     },
+    "svelte": {
+      "codepoint": 57816,
+      "fontFamily": "Proicons",
+      "identifier": "svelte"
+    },
+    "symbols": {
+      "codepoint": 57817,
+      "fontFamily": "Proicons",
+      "identifier": "symbols"
+    },
     "table": {
-      "codepoint": 57583,
+      "codepoint": 57818,
       "fontFamily": "Proicons",
       "identifier": "table"
     },
     "table-simple": {
-      "codepoint": 57584,
+      "codepoint": 57819,
       "fontFamily": "Proicons",
       "identifier": "tableSimple"
     },
     "tablet": {
-      "codepoint": 57585,
+      "codepoint": 57820,
       "fontFamily": "Proicons",
       "identifier": "tablet"
     },
+    "tag": {
+      "codepoint": 57821,
+      "fontFamily": "Proicons",
+      "identifier": "tag"
+    },
+    "tag-accent": {
+      "codepoint": 57822,
+      "fontFamily": "Proicons",
+      "identifier": "tagAccent"
+    },
+    "tag-add": {
+      "codepoint": 57823,
+      "fontFamily": "Proicons",
+      "identifier": "tagAdd"
+    },
+    "tag-multiple": {
+      "codepoint": 57824,
+      "fontFamily": "Proicons",
+      "identifier": "tagMultiple"
+    },
+    "tag-multiple-var": {
+      "codepoint": 57825,
+      "fontFamily": "Proicons",
+      "identifier": "tagMultipleVar"
+    },
+    "tag-remove": {
+      "codepoint": 57826,
+      "fontFamily": "Proicons",
+      "identifier": "tagRemove"
+    },
     "target": {
-      "codepoint": 57586,
+      "codepoint": 57827,
       "fontFamily": "Proicons",
       "identifier": "target"
     },
     "task-list": {
-      "codepoint": 57587,
+      "codepoint": 57828,
       "fontFamily": "Proicons",
       "identifier": "taskList"
     },
     "terminal": {
-      "codepoint": 57588,
+      "codepoint": 57829,
       "fontFamily": "Proicons",
       "identifier": "terminal"
     },
     "text": {
-      "codepoint": 57589,
+      "codepoint": 57830,
       "fontFamily": "Proicons",
       "identifier": "text"
     },
     "text-add": {
-      "codepoint": 57590,
+      "codepoint": 57831,
       "fontFamily": "Proicons",
       "identifier": "textAdd"
     },
     "text-align-center": {
-      "codepoint": 57591,
+      "codepoint": 57832,
       "fontFamily": "Proicons",
       "identifier": "textAlignCenter"
     },
     "text-align-justify": {
-      "codepoint": 57592,
+      "codepoint": 57833,
       "fontFamily": "Proicons",
       "identifier": "textAlignJustify"
     },
     "text-align-left": {
-      "codepoint": 57593,
+      "codepoint": 57834,
       "fontFamily": "Proicons",
       "identifier": "textAlignLeft"
     },
     "text-align-right": {
-      "codepoint": 57594,
+      "codepoint": 57835,
       "fontFamily": "Proicons",
       "identifier": "textAlignRight"
     },
+    "text-bold": {
+      "codepoint": 57836,
+      "fontFamily": "Proicons",
+      "identifier": "textBold"
+    },
     "text-bullet-list": {
-      "codepoint": 57595,
+      "codepoint": 57837,
       "fontFamily": "Proicons",
       "identifier": "textBulletList"
     },
     "text-bullet-list-square": {
-      "codepoint": 57596,
+      "codepoint": 57838,
       "fontFamily": "Proicons",
       "identifier": "textBulletListSquare"
     },
     "text-bullet-list-square-add": {
-      "codepoint": 57597,
+      "codepoint": 57839,
       "fontFamily": "Proicons",
       "identifier": "textBulletListSquareAdd"
     },
     "text-bullet-list-tree": {
-      "codepoint": 57598,
+      "codepoint": 57840,
       "fontFamily": "Proicons",
       "identifier": "textBulletListTree"
     },
+    "text-case-lowercase": {
+      "codepoint": 57841,
+      "fontFamily": "Proicons",
+      "identifier": "textCaseLowercase"
+    },
+    "text-case-title": {
+      "codepoint": 57842,
+      "fontFamily": "Proicons",
+      "identifier": "textCaseTitle"
+    },
+    "text-case-uppercase": {
+      "codepoint": 57843,
+      "fontFamily": "Proicons",
+      "identifier": "textCaseUppercase"
+    },
+    "text-clear-formatting": {
+      "codepoint": 57844,
+      "fontFamily": "Proicons",
+      "identifier": "textClearFormatting"
+    },
     "text-collapse": {
-      "codepoint": 57599,
+      "codepoint": 57845,
       "fontFamily": "Proicons",
       "identifier": "textCollapse"
     },
+    "text-color": {
+      "codepoint": 57846,
+      "fontFamily": "Proicons",
+      "identifier": "textColor"
+    },
     "text-color-accent": {
-      "codepoint": 57600,
+      "codepoint": 57847,
       "fontFamily": "Proicons",
       "identifier": "textColorAccent"
     },
     "text-description": {
-      "codepoint": 57601,
+      "codepoint": 57848,
       "fontFamily": "Proicons",
       "identifier": "textDescription"
     },
+    "text-edit-style": {
+      "codepoint": 57849,
+      "fontFamily": "Proicons",
+      "identifier": "textEditStyle"
+    },
     "text-effects": {
-      "codepoint": 57602,
+      "codepoint": 57850,
       "fontFamily": "Proicons",
       "identifier": "textEffects"
     },
     "text-expand": {
-      "codepoint": 57603,
+      "codepoint": 57851,
       "fontFamily": "Proicons",
       "identifier": "textExpand"
     },
+    "text-font": {
+      "codepoint": 57852,
+      "fontFamily": "Proicons",
+      "identifier": "textFont"
+    },
+    "text-font-size": {
+      "codepoint": 57853,
+      "fontFamily": "Proicons",
+      "identifier": "textFontSize"
+    },
+    "text-footnote": {
+      "codepoint": 57854,
+      "fontFamily": "Proicons",
+      "identifier": "textFootnote"
+    },
+    "text-highlight-color": {
+      "codepoint": 57855,
+      "fontFamily": "Proicons",
+      "identifier": "textHighlightColor"
+    },
+    "text-highlight-color-accent": {
+      "codepoint": 57856,
+      "fontFamily": "Proicons",
+      "identifier": "textHighlightColorAccent"
+    },
     "text-indent-decrease": {
-      "codepoint": 57604,
+      "codepoint": 57857,
       "fontFamily": "Proicons",
       "identifier": "textIndentDecrease"
     },
     "text-indent-increase": {
-      "codepoint": 57605,
+      "codepoint": 57858,
       "fontFamily": "Proicons",
       "identifier": "textIndentIncrease"
     },
     "text-italic": {
-      "codepoint": 57606,
+      "codepoint": 57859,
       "fontFamily": "Proicons",
       "identifier": "textItalic"
     },
+    "text-large": {
+      "codepoint": 57860,
+      "fontFamily": "Proicons",
+      "identifier": "textLarge"
+    },
+    "text-letter-spacing": {
+      "codepoint": 57861,
+      "fontFamily": "Proicons",
+      "identifier": "textLetterSpacing"
+    },
+    "text-line-height": {
+      "codepoint": 57862,
+      "fontFamily": "Proicons",
+      "identifier": "textLineHeight"
+    },
+    "text-line-spacing": {
+      "codepoint": 57863,
+      "fontFamily": "Proicons",
+      "identifier": "textLineSpacing"
+    },
+    "text-number-list": {
+      "codepoint": 57864,
+      "fontFamily": "Proicons",
+      "identifier": "textNumberList"
+    },
+    "text-position-bottom": {
+      "codepoint": 57865,
+      "fontFamily": "Proicons",
+      "identifier": "textPositionBottom"
+    },
+    "text-position-middle": {
+      "codepoint": 57866,
+      "fontFamily": "Proicons",
+      "identifier": "textPositionMiddle"
+    },
+    "text-position-top": {
+      "codepoint": 57867,
+      "fontFamily": "Proicons",
+      "identifier": "textPositionTop"
+    },
+    "text-small": {
+      "codepoint": 57868,
+      "fontFamily": "Proicons",
+      "identifier": "textSmall"
+    },
+    "text-strikethrough": {
+      "codepoint": 57869,
+      "fontFamily": "Proicons",
+      "identifier": "textStrikethrough"
+    },
     "text-subscript": {
-      "codepoint": 57607,
+      "codepoint": 57870,
       "fontFamily": "Proicons",
       "identifier": "textSubscript"
     },
     "text-superscript": {
-      "codepoint": 57608,
+      "codepoint": 57871,
       "fontFamily": "Proicons",
       "identifier": "textSuperscript"
     },
+    "text-typography": {
+      "codepoint": 57872,
+      "fontFamily": "Proicons",
+      "identifier": "textTypography"
+    },
     "text-underline": {
-      "codepoint": 57609,
+      "codepoint": 57873,
       "fontFamily": "Proicons",
       "identifier": "textUnderline"
     },
     "thumbs-up": {
-      "codepoint": 57610,
+      "codepoint": 57874,
       "fontFamily": "Proicons",
       "identifier": "thumbsUp"
     },
+    "tiktok": {
+      "codepoint": 57875,
+      "fontFamily": "Proicons",
+      "identifier": "tiktok"
+    },
     "timer": {
-      "codepoint": 57611,
+      "codepoint": 57876,
       "fontFamily": "Proicons",
       "identifier": "timer"
     },
     "timer-off": {
-      "codepoint": 57612,
+      "codepoint": 57877,
       "fontFamily": "Proicons",
       "identifier": "timerOff"
     },
+    "toast": {
+      "codepoint": 57878,
+      "fontFamily": "Proicons",
+      "identifier": "toast"
+    },
     "toolbox": {
-      "codepoint": 57613,
+      "codepoint": 57879,
       "fontFamily": "Proicons",
       "identifier": "toolbox"
     },
     "toy-brick": {
-      "codepoint": 57614,
+      "codepoint": 57880,
       "fontFamily": "Proicons",
       "identifier": "toyBrick"
     },
     "treasure-chest": {
-      "codepoint": 57615,
+      "codepoint": 57881,
       "fontFamily": "Proicons",
       "identifier": "treasureChest"
     },
+    "triangle": {
+      "codepoint": 57882,
+      "fontFamily": "Proicons",
+      "identifier": "triangle"
+    },
+    "trophy": {
+      "codepoint": 57883,
+      "fontFamily": "Proicons",
+      "identifier": "trophy"
+    },
     "tune": {
-      "codepoint": 57616,
+      "codepoint": 57884,
       "fontFamily": "Proicons",
       "identifier": "tune"
     },
     "tv": {
-      "codepoint": 57617,
+      "codepoint": 57885,
       "fontFamily": "Proicons",
       "identifier": "tv"
     },
     "typescript": {
-      "codepoint": 57618,
+      "codepoint": 57886,
       "fontFamily": "Proicons",
       "identifier": "typescript"
     },
     "ubuntu": {
-      "codepoint": 57619,
+      "codepoint": 57887,
       "fontFamily": "Proicons",
       "identifier": "ubuntu"
     },
+    "vehicle-car": {
+      "codepoint": 57888,
+      "fontFamily": "Proicons",
+      "identifier": "vehicleCar"
+    },
+    "video": {
+      "codepoint": 57889,
+      "fontFamily": "Proicons",
+      "identifier": "video"
+    },
+    "video-clip": {
+      "codepoint": 57890,
+      "fontFamily": "Proicons",
+      "identifier": "videoClip"
+    },
+    "visual-studio-code": {
+      "codepoint": 57891,
+      "fontFamily": "Proicons",
+      "identifier": "visualStudioCode"
+    },
+    "volume": {
+      "codepoint": 57892,
+      "fontFamily": "Proicons",
+      "identifier": "volume"
+    },
+    "volume-0": {
+      "codepoint": 57893,
+      "fontFamily": "Proicons",
+      "identifier": "volume0"
+    },
+    "volume-1": {
+      "codepoint": 57894,
+      "fontFamily": "Proicons",
+      "identifier": "volume1"
+    },
+    "volume-low": {
+      "codepoint": 57895,
+      "fontFamily": "Proicons",
+      "identifier": "volumeLow"
+    },
+    "volume-medium": {
+      "codepoint": 57896,
+      "fontFamily": "Proicons",
+      "identifier": "volumeMedium"
+    },
+    "volume-mute": {
+      "codepoint": 57897,
+      "fontFamily": "Proicons",
+      "identifier": "volumeMute"
+    },
+    "vuejs": {
+      "codepoint": 57898,
+      "fontFamily": "Proicons",
+      "identifier": "vuejs"
+    },
+    "watch": {
+      "codepoint": 57899,
+      "fontFamily": "Proicons",
+      "identifier": "watch"
+    },
+    "weather-cloudy": {
+      "codepoint": 57900,
+      "fontFamily": "Proicons",
+      "identifier": "weatherCloudy"
+    },
+    "webpack": {
+      "codepoint": 57901,
+      "fontFamily": "Proicons",
+      "identifier": "webpack"
+    },
     "wi-fi": {
-      "codepoint": 57620,
+      "codepoint": 57902,
       "fontFamily": "Proicons",
       "identifier": "wiFi"
     },
     "window": {
-      "codepoint": 57621,
+      "codepoint": 57903,
       "fontFamily": "Proicons",
       "identifier": "window"
     },
     "window-add": {
-      "codepoint": 57622,
+      "codepoint": 57904,
       "fontFamily": "Proicons",
       "identifier": "windowAdd"
     },
     "window-multiple": {
-      "codepoint": 57623,
+      "codepoint": 57905,
       "fontFamily": "Proicons",
       "identifier": "windowMultiple"
     },
     "window-multiple-var": {
-      "codepoint": 57624,
+      "codepoint": 57906,
       "fontFamily": "Proicons",
       "identifier": "windowMultipleVar"
     },
+    "wrench": {
+      "codepoint": 57907,
+      "fontFamily": "Proicons",
+      "identifier": "wrench"
+    },
+    "x-twitter": {
+      "codepoint": 57908,
+      "fontFamily": "Proicons",
+      "identifier": "xTwitter"
+    },
+    "youtube": {
+      "codepoint": 57909,
+      "fontFamily": "Proicons",
+      "identifier": "youtube"
+    },
+    "youtube-shorts": {
+      "codepoint": 57910,
+      "fontFamily": "Proicons",
+      "identifier": "youtubeShorts"
+    },
     "zoom-in": {
-      "codepoint": 57625,
+      "codepoint": 57911,
       "fontFamily": "Proicons",
       "identifier": "zoomIn"
     },
     "zoom-out": {
-      "codepoint": 57626,
+      "codepoint": 57912,
       "fontFamily": "Proicons",
       "identifier": "zoomOut"
     }

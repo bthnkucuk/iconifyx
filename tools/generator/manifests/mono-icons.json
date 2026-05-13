@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/mono-company/mono-icons/blob/master/LICENSE.md"
     },
-    "total": 105
+    "total": 180
   },
   "fonts": [
     {
       "family": "MonoIcons",
-      "nextCodepoint": 57449,
-      "iconCount": 105
+      "nextCodepoint": 57524,
+      "iconCount": 180
     }
   ],
   "icons": {
@@ -31,523 +31,898 @@
       "fontFamily": "MonoIcons",
       "identifier": "add"
     },
-    "arrow-down": {
+    "archive": {
       "codepoint": 57345,
+      "fontFamily": "MonoIcons",
+      "identifier": "archive"
+    },
+    "arrow-down": {
+      "codepoint": 57346,
       "fontFamily": "MonoIcons",
       "identifier": "arrowDown"
     },
     "arrow-left": {
-      "codepoint": 57346,
+      "codepoint": 57347,
       "fontFamily": "MonoIcons",
       "identifier": "arrowLeft"
     },
     "arrow-left-down": {
-      "codepoint": 57347,
+      "codepoint": 57348,
       "fontFamily": "MonoIcons",
       "identifier": "arrowLeftDown"
     },
     "arrow-left-up": {
-      "codepoint": 57348,
+      "codepoint": 57349,
       "fontFamily": "MonoIcons",
       "identifier": "arrowLeftUp"
     },
     "arrow-right": {
-      "codepoint": 57349,
+      "codepoint": 57350,
       "fontFamily": "MonoIcons",
       "identifier": "arrowRight"
     },
     "arrow-right-down": {
-      "codepoint": 57350,
+      "codepoint": 57351,
       "fontFamily": "MonoIcons",
       "identifier": "arrowRightDown"
     },
     "arrow-right-up": {
-      "codepoint": 57351,
+      "codepoint": 57352,
       "fontFamily": "MonoIcons",
       "identifier": "arrowRightUp"
     },
+    "arrow-up": {
+      "codepoint": 57353,
+      "fontFamily": "MonoIcons",
+      "identifier": "arrowUp"
+    },
+    "attachment": {
+      "codepoint": 57354,
+      "fontFamily": "MonoIcons",
+      "identifier": "attachment"
+    },
+    "backspace": {
+      "codepoint": 57355,
+      "fontFamily": "MonoIcons",
+      "identifier": "backspace"
+    },
     "ban": {
-      "codepoint": 57352,
+      "codepoint": 57356,
       "fontFamily": "MonoIcons",
       "identifier": "ban"
     },
     "bar-chart": {
-      "codepoint": 57353,
+      "codepoint": 57357,
       "fontFamily": "MonoIcons",
       "identifier": "barChart"
     },
     "bar-chart-alt": {
-      "codepoint": 57354,
+      "codepoint": 57358,
       "fontFamily": "MonoIcons",
       "identifier": "barChartAlt"
     },
     "board": {
-      "codepoint": 57355,
+      "codepoint": 57359,
       "fontFamily": "MonoIcons",
       "identifier": "board"
     },
     "bold": {
-      "codepoint": 57356,
+      "codepoint": 57360,
       "fontFamily": "MonoIcons",
       "identifier": "bold"
     },
+    "book": {
+      "codepoint": 57361,
+      "fontFamily": "MonoIcons",
+      "identifier": "book"
+    },
+    "bookmark": {
+      "codepoint": 57362,
+      "fontFamily": "MonoIcons",
+      "identifier": "bookmark"
+    },
     "calendar": {
-      "codepoint": 57357,
+      "codepoint": 57363,
       "fontFamily": "MonoIcons",
       "identifier": "calendar"
     },
+    "call": {
+      "codepoint": 57364,
+      "fontFamily": "MonoIcons",
+      "identifier": "call"
+    },
+    "camera": {
+      "codepoint": 57365,
+      "fontFamily": "MonoIcons",
+      "identifier": "camera"
+    },
     "caret-down": {
-      "codepoint": 57358,
+      "codepoint": 57366,
       "fontFamily": "MonoIcons",
       "identifier": "caretDown"
     },
     "caret-left": {
-      "codepoint": 57359,
+      "codepoint": 57367,
       "fontFamily": "MonoIcons",
       "identifier": "caretLeft"
     },
     "caret-right": {
-      "codepoint": 57360,
+      "codepoint": 57368,
       "fontFamily": "MonoIcons",
       "identifier": "caretRight"
     },
     "caret-up": {
-      "codepoint": 57361,
+      "codepoint": 57369,
       "fontFamily": "MonoIcons",
       "identifier": "caretUp"
     },
     "check": {
-      "codepoint": 57362,
+      "codepoint": 57370,
       "fontFamily": "MonoIcons",
       "identifier": "check"
     },
     "chevron-double-down": {
-      "codepoint": 57363,
+      "codepoint": 57371,
       "fontFamily": "MonoIcons",
       "identifier": "chevronDoubleDown"
     },
     "chevron-double-left": {
-      "codepoint": 57364,
+      "codepoint": 57372,
       "fontFamily": "MonoIcons",
       "identifier": "chevronDoubleLeft"
     },
     "chevron-double-right": {
-      "codepoint": 57365,
+      "codepoint": 57373,
       "fontFamily": "MonoIcons",
       "identifier": "chevronDoubleRight"
     },
     "chevron-double-up": {
-      "codepoint": 57366,
+      "codepoint": 57374,
       "fontFamily": "MonoIcons",
       "identifier": "chevronDoubleUp"
     },
     "chevron-down": {
-      "codepoint": 57367,
+      "codepoint": 57375,
       "fontFamily": "MonoIcons",
       "identifier": "chevronDown"
     },
     "chevron-left": {
-      "codepoint": 57368,
+      "codepoint": 57376,
       "fontFamily": "MonoIcons",
       "identifier": "chevronLeft"
     },
     "chevron-right": {
-      "codepoint": 57369,
+      "codepoint": 57377,
       "fontFamily": "MonoIcons",
       "identifier": "chevronRight"
     },
     "chevron-up": {
-      "codepoint": 57370,
+      "codepoint": 57378,
       "fontFamily": "MonoIcons",
       "identifier": "chevronUp"
     },
     "circle": {
-      "codepoint": 57371,
+      "codepoint": 57379,
       "fontFamily": "MonoIcons",
       "identifier": "circle"
     },
     "circle-add": {
-      "codepoint": 57372,
+      "codepoint": 57380,
       "fontFamily": "MonoIcons",
       "identifier": "circleAdd"
     },
     "circle-arrow-down": {
-      "codepoint": 57373,
+      "codepoint": 57381,
       "fontFamily": "MonoIcons",
       "identifier": "circleArrowDown"
     },
     "circle-arrow-left": {
-      "codepoint": 57374,
+      "codepoint": 57382,
       "fontFamily": "MonoIcons",
       "identifier": "circleArrowLeft"
     },
     "circle-arrow-right": {
-      "codepoint": 57375,
+      "codepoint": 57383,
       "fontFamily": "MonoIcons",
       "identifier": "circleArrowRight"
     },
     "circle-arrow-up": {
-      "codepoint": 57376,
+      "codepoint": 57384,
       "fontFamily": "MonoIcons",
       "identifier": "circleArrowUp"
     },
     "circle-check": {
-      "codepoint": 57377,
+      "codepoint": 57385,
       "fontFamily": "MonoIcons",
       "identifier": "circleCheck"
     },
     "circle-error": {
-      "codepoint": 57378,
+      "codepoint": 57386,
       "fontFamily": "MonoIcons",
       "identifier": "circleError"
     },
+    "circle-help": {
+      "codepoint": 57387,
+      "fontFamily": "MonoIcons",
+      "identifier": "circleHelp"
+    },
     "circle-information": {
-      "codepoint": 57379,
+      "codepoint": 57388,
       "fontFamily": "MonoIcons",
       "identifier": "circleInformation"
     },
     "circle-remove": {
-      "codepoint": 57380,
+      "codepoint": 57389,
       "fontFamily": "MonoIcons",
       "identifier": "circleRemove"
     },
     "circle-warning": {
-      "codepoint": 57381,
+      "codepoint": 57390,
       "fontFamily": "MonoIcons",
       "identifier": "circleWarning"
     },
     "clipboard": {
-      "codepoint": 57382,
+      "codepoint": 57391,
       "fontFamily": "MonoIcons",
       "identifier": "clipboard"
     },
     "clipboard-check": {
-      "codepoint": 57383,
+      "codepoint": 57392,
       "fontFamily": "MonoIcons",
       "identifier": "clipboardCheck"
     },
     "clipboard-list": {
-      "codepoint": 57384,
+      "codepoint": 57393,
       "fontFamily": "MonoIcons",
       "identifier": "clipboardList"
     },
     "clock": {
-      "codepoint": 57385,
+      "codepoint": 57394,
       "fontFamily": "MonoIcons",
       "identifier": "clock"
     },
     "close": {
-      "codepoint": 57386,
+      "codepoint": 57395,
       "fontFamily": "MonoIcons",
       "identifier": "close"
     },
+    "cloud": {
+      "codepoint": 57396,
+      "fontFamily": "MonoIcons",
+      "identifier": "cloud"
+    },
+    "cloud-download": {
+      "codepoint": 57397,
+      "fontFamily": "MonoIcons",
+      "identifier": "cloudDownload"
+    },
+    "cloud-upload": {
+      "codepoint": 57398,
+      "fontFamily": "MonoIcons",
+      "identifier": "cloudUpload"
+    },
+    "cloudy": {
+      "codepoint": 57399,
+      "fontFamily": "MonoIcons",
+      "identifier": "cloudy"
+    },
     "comment": {
-      "codepoint": 57387,
+      "codepoint": 57400,
       "fontFamily": "MonoIcons",
       "identifier": "comment"
     },
     "compass": {
-      "codepoint": 57388,
+      "codepoint": 57401,
       "fontFamily": "MonoIcons",
       "identifier": "compass"
     },
     "computer": {
-      "codepoint": 57389,
+      "codepoint": 57402,
       "fontFamily": "MonoIcons",
       "identifier": "computer"
     },
     "copy": {
-      "codepoint": 57390,
+      "codepoint": 57403,
       "fontFamily": "MonoIcons",
       "identifier": "copy"
     },
     "credit-card": {
-      "codepoint": 57391,
+      "codepoint": 57404,
       "fontFamily": "MonoIcons",
       "identifier": "creditCard"
     },
+    "database": {
+      "codepoint": 57405,
+      "fontFamily": "MonoIcons",
+      "identifier": "database"
+    },
+    "delete": {
+      "codepoint": 57406,
+      "fontFamily": "MonoIcons",
+      "identifier": "delete"
+    },
+    "delete-alt": {
+      "codepoint": 57407,
+      "fontFamily": "MonoIcons",
+      "identifier": "deleteAlt"
+    },
+    "document": {
+      "codepoint": 57408,
+      "fontFamily": "MonoIcons",
+      "identifier": "document"
+    },
+    "document-add": {
+      "codepoint": 57409,
+      "fontFamily": "MonoIcons",
+      "identifier": "documentAdd"
+    },
+    "document-check": {
+      "codepoint": 57410,
+      "fontFamily": "MonoIcons",
+      "identifier": "documentCheck"
+    },
+    "document-download": {
+      "codepoint": 57411,
+      "fontFamily": "MonoIcons",
+      "identifier": "documentDownload"
+    },
+    "document-empty": {
+      "codepoint": 57412,
+      "fontFamily": "MonoIcons",
+      "identifier": "documentEmpty"
+    },
+    "document-remove": {
+      "codepoint": 57413,
+      "fontFamily": "MonoIcons",
+      "identifier": "documentRemove"
+    },
     "download": {
-      "codepoint": 57392,
+      "codepoint": 57414,
       "fontFamily": "MonoIcons",
       "identifier": "download"
     },
     "drag": {
-      "codepoint": 57393,
+      "codepoint": 57415,
       "fontFamily": "MonoIcons",
       "identifier": "drag"
     },
+    "drop": {
+      "codepoint": 57416,
+      "fontFamily": "MonoIcons",
+      "identifier": "drop"
+    },
+    "edit": {
+      "codepoint": 57417,
+      "fontFamily": "MonoIcons",
+      "identifier": "edit"
+    },
+    "edit-alt": {
+      "codepoint": 57418,
+      "fontFamily": "MonoIcons",
+      "identifier": "editAlt"
+    },
     "email": {
-      "codepoint": 57394,
+      "codepoint": 57419,
       "fontFamily": "MonoIcons",
       "identifier": "email"
     },
     "enter": {
-      "codepoint": 57395,
+      "codepoint": 57420,
       "fontFamily": "MonoIcons",
       "identifier": "enter"
     },
     "expand": {
-      "codepoint": 57396,
+      "codepoint": 57421,
       "fontFamily": "MonoIcons",
       "identifier": "expand"
     },
     "export": {
-      "codepoint": 57397,
+      "codepoint": 57422,
       "fontFamily": "MonoIcons",
       "identifier": "export_"
     },
     "external-link": {
-      "codepoint": 57398,
+      "codepoint": 57423,
       "fontFamily": "MonoIcons",
       "identifier": "externalLink"
     },
+    "eye": {
+      "codepoint": 57424,
+      "fontFamily": "MonoIcons",
+      "identifier": "eye"
+    },
+    "eye-off": {
+      "codepoint": 57425,
+      "fontFamily": "MonoIcons",
+      "identifier": "eyeOff"
+    },
+    "favorite": {
+      "codepoint": 57426,
+      "fontFamily": "MonoIcons",
+      "identifier": "favorite"
+    },
     "filter": {
-      "codepoint": 57399,
+      "codepoint": 57427,
       "fontFamily": "MonoIcons",
       "identifier": "filter"
     },
     "filter-1": {
-      "codepoint": 57400,
+      "codepoint": 57428,
       "fontFamily": "MonoIcons",
       "identifier": "filter1"
     },
     "filter-alt": {
-      "codepoint": 57401,
+      "codepoint": 57429,
       "fontFamily": "MonoIcons",
       "identifier": "filterAlt"
     },
+    "flag": {
+      "codepoint": 57430,
+      "fontFamily": "MonoIcons",
+      "identifier": "flag"
+    },
     "fog": {
-      "codepoint": 57402,
+      "codepoint": 57431,
       "fontFamily": "MonoIcons",
       "identifier": "fog"
     },
+    "folder": {
+      "codepoint": 57432,
+      "fontFamily": "MonoIcons",
+      "identifier": "folder"
+    },
+    "folder-add": {
+      "codepoint": 57433,
+      "fontFamily": "MonoIcons",
+      "identifier": "folderAdd"
+    },
+    "folder-check": {
+      "codepoint": 57434,
+      "fontFamily": "MonoIcons",
+      "identifier": "folderCheck"
+    },
+    "folder-download": {
+      "codepoint": 57435,
+      "fontFamily": "MonoIcons",
+      "identifier": "folderDownload"
+    },
+    "folder-remove": {
+      "codepoint": 57436,
+      "fontFamily": "MonoIcons",
+      "identifier": "folderRemove"
+    },
     "grid": {
-      "codepoint": 57403,
+      "codepoint": 57437,
       "fontFamily": "MonoIcons",
       "identifier": "grid"
     },
+    "heart": {
+      "codepoint": 57438,
+      "fontFamily": "MonoIcons",
+      "identifier": "heart"
+    },
+    "home": {
+      "codepoint": 57439,
+      "fontFamily": "MonoIcons",
+      "identifier": "home"
+    },
     "image": {
-      "codepoint": 57404,
+      "codepoint": 57440,
       "fontFamily": "MonoIcons",
       "identifier": "image"
     },
+    "inbox": {
+      "codepoint": 57441,
+      "fontFamily": "MonoIcons",
+      "identifier": "inbox"
+    },
     "italic": {
-      "codepoint": 57405,
+      "codepoint": 57442,
       "fontFamily": "MonoIcons",
       "identifier": "italic"
     },
     "laptop": {
-      "codepoint": 57406,
+      "codepoint": 57443,
       "fontFamily": "MonoIcons",
       "identifier": "laptop"
     },
+    "layers": {
+      "codepoint": 57444,
+      "fontFamily": "MonoIcons",
+      "identifier": "layers"
+    },
     "layout": {
-      "codepoint": 57407,
+      "codepoint": 57445,
       "fontFamily": "MonoIcons",
       "identifier": "layout"
     },
     "link": {
-      "codepoint": 57408,
+      "codepoint": 57446,
       "fontFamily": "MonoIcons",
       "identifier": "link"
     },
+    "link-alt": {
+      "codepoint": 57447,
+      "fontFamily": "MonoIcons",
+      "identifier": "linkAlt"
+    },
     "list": {
-      "codepoint": 57409,
+      "codepoint": 57448,
       "fontFamily": "MonoIcons",
       "identifier": "list"
     },
     "location": {
-      "codepoint": 57410,
+      "codepoint": 57449,
       "fontFamily": "MonoIcons",
       "identifier": "location"
     },
     "lock": {
-      "codepoint": 57411,
+      "codepoint": 57450,
       "fontFamily": "MonoIcons",
       "identifier": "lock"
     },
+    "log-in": {
+      "codepoint": 57451,
+      "fontFamily": "MonoIcons",
+      "identifier": "logIn"
+    },
+    "log-out": {
+      "codepoint": 57452,
+      "fontFamily": "MonoIcons",
+      "identifier": "logOut"
+    },
+    "map": {
+      "codepoint": 57453,
+      "fontFamily": "MonoIcons",
+      "identifier": "map"
+    },
+    "megaphone": {
+      "codepoint": 57454,
+      "fontFamily": "MonoIcons",
+      "identifier": "megaphone"
+    },
     "menu": {
-      "codepoint": 57412,
+      "codepoint": 57455,
       "fontFamily": "MonoIcons",
       "identifier": "menu"
     },
+    "message": {
+      "codepoint": 57456,
+      "fontFamily": "MonoIcons",
+      "identifier": "message"
+    },
+    "message-alt": {
+      "codepoint": 57457,
+      "fontFamily": "MonoIcons",
+      "identifier": "messageAlt"
+    },
     "minimize": {
-      "codepoint": 57413,
+      "codepoint": 57458,
       "fontFamily": "MonoIcons",
       "identifier": "minimize"
     },
     "mobile": {
-      "codepoint": 57414,
+      "codepoint": 57459,
       "fontFamily": "MonoIcons",
       "identifier": "mobile"
     },
+    "moon": {
+      "codepoint": 57460,
+      "fontFamily": "MonoIcons",
+      "identifier": "moon"
+    },
+    "next": {
+      "codepoint": 57461,
+      "fontFamily": "MonoIcons",
+      "identifier": "next"
+    },
+    "notification": {
+      "codepoint": 57462,
+      "fontFamily": "MonoIcons",
+      "identifier": "notification"
+    },
+    "notification-off": {
+      "codepoint": 57463,
+      "fontFamily": "MonoIcons",
+      "identifier": "notificationOff"
+    },
     "options-horizontal": {
-      "codepoint": 57415,
+      "codepoint": 57464,
       "fontFamily": "MonoIcons",
       "identifier": "optionsHorizontal"
     },
     "options-vertical": {
-      "codepoint": 57416,
+      "codepoint": 57465,
       "fontFamily": "MonoIcons",
       "identifier": "optionsVertical"
     },
     "pause": {
-      "codepoint": 57417,
+      "codepoint": 57466,
       "fontFamily": "MonoIcons",
       "identifier": "pause"
     },
+    "pen": {
+      "codepoint": 57467,
+      "fontFamily": "MonoIcons",
+      "identifier": "pen"
+    },
     "percentage": {
-      "codepoint": 57418,
+      "codepoint": 57468,
       "fontFamily": "MonoIcons",
       "identifier": "percentage"
     },
+    "pin": {
+      "codepoint": 57469,
+      "fontFamily": "MonoIcons",
+      "identifier": "pin"
+    },
+    "play": {
+      "codepoint": 57470,
+      "fontFamily": "MonoIcons",
+      "identifier": "play"
+    },
+    "previous": {
+      "codepoint": 57471,
+      "fontFamily": "MonoIcons",
+      "identifier": "previous"
+    },
     "print": {
-      "codepoint": 57419,
+      "codepoint": 57472,
       "fontFamily": "MonoIcons",
       "identifier": "print"
     },
+    "rain": {
+      "codepoint": 57473,
+      "fontFamily": "MonoIcons",
+      "identifier": "rain"
+    },
     "refresh": {
-      "codepoint": 57420,
+      "codepoint": 57474,
       "fontFamily": "MonoIcons",
       "identifier": "refresh"
     },
     "remove": {
-      "codepoint": 57421,
+      "codepoint": 57475,
       "fontFamily": "MonoIcons",
       "identifier": "remove"
     },
     "reorder": {
-      "codepoint": 57422,
+      "codepoint": 57476,
       "fontFamily": "MonoIcons",
       "identifier": "reorder"
     },
     "reorder-alt": {
-      "codepoint": 57423,
+      "codepoint": 57477,
       "fontFamily": "MonoIcons",
       "identifier": "reorderAlt"
     },
+    "repeat": {
+      "codepoint": 57478,
+      "fontFamily": "MonoIcons",
+      "identifier": "repeat"
+    },
     "save": {
-      "codepoint": 57424,
+      "codepoint": 57479,
       "fontFamily": "MonoIcons",
       "identifier": "save"
     },
     "search": {
-      "codepoint": 57425,
+      "codepoint": 57480,
       "fontFamily": "MonoIcons",
       "identifier": "search"
     },
+    "select": {
+      "codepoint": 57481,
+      "fontFamily": "MonoIcons",
+      "identifier": "select"
+    },
+    "send": {
+      "codepoint": 57482,
+      "fontFamily": "MonoIcons",
+      "identifier": "send"
+    },
+    "settings": {
+      "codepoint": 57483,
+      "fontFamily": "MonoIcons",
+      "identifier": "settings"
+    },
     "share": {
-      "codepoint": 57426,
+      "codepoint": 57484,
       "fontFamily": "MonoIcons",
       "identifier": "share"
     },
+    "shopping-cart": {
+      "codepoint": 57485,
+      "fontFamily": "MonoIcons",
+      "identifier": "shoppingCart"
+    },
+    "shopping-cart-add": {
+      "codepoint": 57486,
+      "fontFamily": "MonoIcons",
+      "identifier": "shoppingCartAdd"
+    },
+    "shuffle": {
+      "codepoint": 57487,
+      "fontFamily": "MonoIcons",
+      "identifier": "shuffle"
+    },
+    "snow": {
+      "codepoint": 57488,
+      "fontFamily": "MonoIcons",
+      "identifier": "snow"
+    },
     "snowflake": {
-      "codepoint": 57427,
+      "codepoint": 57489,
       "fontFamily": "MonoIcons",
       "identifier": "snowflake"
     },
     "sort": {
-      "codepoint": 57428,
+      "codepoint": 57490,
       "fontFamily": "MonoIcons",
       "identifier": "sort"
     },
     "speakers": {
-      "codepoint": 57429,
+      "codepoint": 57491,
       "fontFamily": "MonoIcons",
       "identifier": "speakers"
     },
     "stop": {
-      "codepoint": 57430,
+      "codepoint": 57492,
       "fontFamily": "MonoIcons",
       "identifier": "stop"
     },
+    "storm": {
+      "codepoint": 57493,
+      "fontFamily": "MonoIcons",
+      "identifier": "storm"
+    },
+    "strikethrough": {
+      "codepoint": 57494,
+      "fontFamily": "MonoIcons",
+      "identifier": "strikethrough"
+    },
+    "sun": {
+      "codepoint": 57495,
+      "fontFamily": "MonoIcons",
+      "identifier": "sun"
+    },
+    "sunrise": {
+      "codepoint": 57496,
+      "fontFamily": "MonoIcons",
+      "identifier": "sunrise"
+    },
+    "sunrise-alt": {
+      "codepoint": 57497,
+      "fontFamily": "MonoIcons",
+      "identifier": "sunriseAlt"
+    },
+    "sunset": {
+      "codepoint": 57498,
+      "fontFamily": "MonoIcons",
+      "identifier": "sunset"
+    },
     "switch": {
-      "codepoint": 57431,
+      "codepoint": 57499,
       "fontFamily": "MonoIcons",
       "identifier": "switch_"
     },
     "table": {
-      "codepoint": 57432,
+      "codepoint": 57500,
       "fontFamily": "MonoIcons",
       "identifier": "table"
     },
     "tablet": {
-      "codepoint": 57433,
+      "codepoint": 57501,
       "fontFamily": "MonoIcons",
       "identifier": "tablet"
     },
+    "tag": {
+      "codepoint": 57502,
+      "fontFamily": "MonoIcons",
+      "identifier": "tag"
+    },
+    "temperature": {
+      "codepoint": 57503,
+      "fontFamily": "MonoIcons",
+      "identifier": "temperature"
+    },
     "text": {
-      "codepoint": 57434,
+      "codepoint": 57504,
       "fontFamily": "MonoIcons",
       "identifier": "text"
     },
     "three-rows": {
-      "codepoint": 57435,
+      "codepoint": 57505,
       "fontFamily": "MonoIcons",
       "identifier": "threeRows"
     },
     "two-columns": {
-      "codepoint": 57436,
+      "codepoint": 57506,
       "fontFamily": "MonoIcons",
       "identifier": "twoColumns"
     },
     "two-rows": {
-      "codepoint": 57437,
+      "codepoint": 57507,
       "fontFamily": "MonoIcons",
       "identifier": "twoRows"
     },
     "underline": {
-      "codepoint": 57438,
+      "codepoint": 57508,
       "fontFamily": "MonoIcons",
       "identifier": "underline"
     },
     "undo": {
-      "codepoint": 57439,
+      "codepoint": 57509,
       "fontFamily": "MonoIcons",
       "identifier": "undo"
     },
     "unlock": {
-      "codepoint": 57440,
+      "codepoint": 57510,
       "fontFamily": "MonoIcons",
       "identifier": "unlock"
     },
     "user": {
-      "codepoint": 57441,
+      "codepoint": 57511,
       "fontFamily": "MonoIcons",
       "identifier": "user"
     },
     "user-add": {
-      "codepoint": 57442,
+      "codepoint": 57512,
       "fontFamily": "MonoIcons",
       "identifier": "userAdd"
     },
+    "user-check": {
+      "codepoint": 57513,
+      "fontFamily": "MonoIcons",
+      "identifier": "userCheck"
+    },
     "user-remove": {
-      "codepoint": 57443,
+      "codepoint": 57514,
       "fontFamily": "MonoIcons",
       "identifier": "userRemove"
     },
+    "users": {
+      "codepoint": 57515,
+      "fontFamily": "MonoIcons",
+      "identifier": "users"
+    },
+    "volume-off": {
+      "codepoint": 57516,
+      "fontFamily": "MonoIcons",
+      "identifier": "volumeOff"
+    },
+    "volume-up": {
+      "codepoint": 57517,
+      "fontFamily": "MonoIcons",
+      "identifier": "volumeUp"
+    },
     "warning": {
-      "codepoint": 57444,
+      "codepoint": 57518,
       "fontFamily": "MonoIcons",
       "identifier": "warning"
     },
     "webcam": {
-      "codepoint": 57445,
+      "codepoint": 57519,
       "fontFamily": "MonoIcons",
       "identifier": "webcam"
     },
+    "wind": {
+      "codepoint": 57520,
+      "fontFamily": "MonoIcons",
+      "identifier": "wind"
+    },
     "window": {
-      "codepoint": 57446,
+      "codepoint": 57521,
       "fontFamily": "MonoIcons",
       "identifier": "window"
     },
     "zoom-in": {
-      "codepoint": 57447,
+      "codepoint": 57522,
       "fontFamily": "MonoIcons",
       "identifier": "zoomIn"
     },
     "zoom-out": {
-      "codepoint": 57448,
+      "codepoint": 57523,
       "fontFamily": "MonoIcons",
       "identifier": "zoomOut"
     }

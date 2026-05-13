@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/wikimedia/oojs-ui/blob/master/LICENSE-MIT"
     },
-    "total": 329
+    "total": 365
   },
   "fonts": [
     {
       "family": "Ooui",
-      "nextCodepoint": 57673,
-      "iconCount": 329
+      "nextCodepoint": 57709,
+      "iconCount": 365
     }
   ],
   "icons": {
@@ -201,1473 +201,1653 @@
       "fontFamily": "Ooui",
       "identifier": "boldArabDad"
     },
-    "bold-armn-to": {
+    "bold-arab-jeem": {
       "codepoint": 57379,
+      "fontFamily": "Ooui",
+      "identifier": "boldArabJeem"
+    },
+    "bold-armn-to": {
+      "codepoint": 57380,
       "fontFamily": "Ooui",
       "identifier": "boldArmnTo"
     },
     "bold-b": {
-      "codepoint": 57380,
+      "codepoint": 57381,
       "fontFamily": "Ooui",
       "identifier": "boldB"
     },
     "bold-cyrl-be": {
-      "codepoint": 57381,
+      "codepoint": 57382,
       "fontFamily": "Ooui",
       "identifier": "boldCyrlBe"
     },
     "bold-cyrl-palochka": {
-      "codepoint": 57382,
+      "codepoint": 57383,
       "fontFamily": "Ooui",
       "identifier": "boldCyrlPalochka"
     },
     "bold-cyrl-te": {
-      "codepoint": 57383,
+      "codepoint": 57384,
       "fontFamily": "Ooui",
       "identifier": "boldCyrlTe"
     },
     "bold-cyrl-zhe": {
-      "codepoint": 57384,
+      "codepoint": 57385,
       "fontFamily": "Ooui",
       "identifier": "boldCyrlZhe"
     },
     "bold-f": {
-      "codepoint": 57385,
+      "codepoint": 57386,
       "fontFamily": "Ooui",
       "identifier": "boldF"
     },
     "bold-g": {
-      "codepoint": 57386,
+      "codepoint": 57387,
       "fontFamily": "Ooui",
       "identifier": "boldG"
     },
     "bold-geor-man": {
-      "codepoint": 57387,
+      "codepoint": 57388,
       "fontFamily": "Ooui",
       "identifier": "boldGeorMan"
     },
     "bold-l": {
-      "codepoint": 57388,
+      "codepoint": 57389,
       "fontFamily": "Ooui",
       "identifier": "boldL"
     },
     "bold-n": {
-      "codepoint": 57389,
+      "codepoint": 57390,
       "fontFamily": "Ooui",
       "identifier": "boldN"
     },
     "bold-q": {
-      "codepoint": 57390,
+      "codepoint": 57391,
       "fontFamily": "Ooui",
       "identifier": "boldQ"
     },
     "bold-v": {
-      "codepoint": 57391,
+      "codepoint": 57392,
       "fontFamily": "Ooui",
       "identifier": "boldV"
     },
     "book-ltr": {
-      "codepoint": 57392,
+      "codepoint": 57393,
       "fontFamily": "Ooui",
       "identifier": "bookLtr"
     },
     "book-rtl": {
-      "codepoint": 57393,
+      "codepoint": 57394,
       "fontFamily": "Ooui",
       "identifier": "bookRtl"
     },
     "bookmark": {
-      "codepoint": 57394,
+      "codepoint": 57395,
       "fontFamily": "Ooui",
       "identifier": "bookmark"
     },
     "bookmark-list-ltr": {
-      "codepoint": 57395,
+      "codepoint": 57396,
       "fontFamily": "Ooui",
       "identifier": "bookmarkListLtr"
     },
     "bookmark-list-rtl": {
-      "codepoint": 57396,
+      "codepoint": 57397,
       "fontFamily": "Ooui",
       "identifier": "bookmarkListRtl"
     },
     "bookmark-outline": {
-      "codepoint": 57397,
+      "codepoint": 57398,
       "fontFamily": "Ooui",
       "identifier": "bookmarkOutline"
     },
     "bright": {
-      "codepoint": 57398,
+      "codepoint": 57399,
       "fontFamily": "Ooui",
       "identifier": "bright"
     },
     "browser-ltr": {
-      "codepoint": 57399,
+      "codepoint": 57400,
       "fontFamily": "Ooui",
       "identifier": "browserLtr"
     },
     "browser-rtl": {
-      "codepoint": 57400,
+      "codepoint": 57401,
       "fontFamily": "Ooui",
       "identifier": "browserRtl"
     },
     "calendar": {
-      "codepoint": 57401,
+      "codepoint": 57402,
       "fontFamily": "Ooui",
       "identifier": "calendar"
     },
+    "camera": {
+      "codepoint": 57403,
+      "fontFamily": "Ooui",
+      "identifier": "camera"
+    },
     "cancel": {
-      "codepoint": 57402,
+      "codepoint": 57404,
       "fontFamily": "Ooui",
       "identifier": "cancel"
     },
     "chart": {
-      "codepoint": 57403,
+      "codepoint": 57405,
       "fontFamily": "Ooui",
       "identifier": "chart"
     },
     "check": {
-      "codepoint": 57404,
+      "codepoint": 57406,
       "fontFamily": "Ooui",
       "identifier": "check"
     },
     "check-all": {
-      "codepoint": 57405,
+      "codepoint": 57407,
       "fontFamily": "Ooui",
       "identifier": "checkAll"
     },
     "clear": {
-      "codepoint": 57406,
+      "codepoint": 57408,
       "fontFamily": "Ooui",
       "identifier": "clear"
     },
     "clock": {
-      "codepoint": 57407,
+      "codepoint": 57409,
       "fontFamily": "Ooui",
       "identifier": "clock"
     },
     "close": {
-      "codepoint": 57408,
+      "codepoint": 57410,
       "fontFamily": "Ooui",
       "identifier": "close"
     },
-    "code": {
-      "codepoint": 57409,
-      "fontFamily": "Ooui",
-      "identifier": "code"
-    },
     "collapse": {
-      "codepoint": 57410,
+      "codepoint": 57411,
       "fontFamily": "Ooui",
       "identifier": "collapse"
     },
+    "copy-ltr": {
+      "codepoint": 57412,
+      "fontFamily": "Ooui",
+      "identifier": "copyLtr"
+    },
+    "copy-rtl": {
+      "codepoint": 57413,
+      "fontFamily": "Ooui",
+      "identifier": "copyRtl"
+    },
+    "cut-ltr": {
+      "codepoint": 57414,
+      "fontFamily": "Ooui",
+      "identifier": "cutLtr"
+    },
+    "cut-rtl": {
+      "codepoint": 57415,
+      "fontFamily": "Ooui",
+      "identifier": "cutRtl"
+    },
     "database": {
-      "codepoint": 57411,
+      "codepoint": 57416,
       "fontFamily": "Ooui",
       "identifier": "database"
     },
     "die": {
-      "codepoint": 57412,
+      "codepoint": 57417,
       "fontFamily": "Ooui",
       "identifier": "die"
     },
     "double-chevron-end-ltr": {
-      "codepoint": 57413,
+      "codepoint": 57418,
       "fontFamily": "Ooui",
       "identifier": "doubleChevronEndLtr"
     },
     "double-chevron-end-rtl": {
-      "codepoint": 57414,
+      "codepoint": 57419,
       "fontFamily": "Ooui",
       "identifier": "doubleChevronEndRtl"
     },
     "double-chevron-start-ltr": {
-      "codepoint": 57415,
+      "codepoint": 57420,
       "fontFamily": "Ooui",
       "identifier": "doubleChevronStartLtr"
     },
     "double-chevron-start-rtl": {
-      "codepoint": 57416,
+      "codepoint": 57421,
       "fontFamily": "Ooui",
       "identifier": "doubleChevronStartRtl"
     },
     "down-triangle": {
-      "codepoint": 57417,
+      "codepoint": 57422,
       "fontFamily": "Ooui",
       "identifier": "downTriangle"
     },
     "download": {
-      "codepoint": 57418,
+      "codepoint": 57423,
       "fontFamily": "Ooui",
       "identifier": "download"
     },
     "draggable": {
-      "codepoint": 57419,
+      "codepoint": 57424,
       "fontFamily": "Ooui",
       "identifier": "draggable"
     },
     "edit": {
-      "codepoint": 57420,
+      "codepoint": 57425,
       "fontFamily": "Ooui",
       "identifier": "edit"
     },
     "edit-lock": {
-      "codepoint": 57421,
+      "codepoint": 57426,
       "fontFamily": "Ooui",
       "identifier": "editLock"
     },
     "edit-undo-ltr": {
-      "codepoint": 57422,
+      "codepoint": 57427,
       "fontFamily": "Ooui",
       "identifier": "editUndoLtr"
     },
     "edit-undo-rtl": {
-      "codepoint": 57423,
+      "codepoint": 57428,
       "fontFamily": "Ooui",
       "identifier": "editUndoRtl"
     },
     "ellipsis": {
-      "codepoint": 57424,
+      "codepoint": 57429,
       "fontFamily": "Ooui",
       "identifier": "ellipsis"
     },
     "error": {
-      "codepoint": 57425,
+      "codepoint": 57430,
       "fontFamily": "Ooui",
       "identifier": "error"
     },
     "exit-fullscreen": {
-      "codepoint": 57426,
+      "codepoint": 57431,
       "fontFamily": "Ooui",
       "identifier": "exitFullscreen"
     },
     "expand": {
-      "codepoint": 57427,
+      "codepoint": 57432,
       "fontFamily": "Ooui",
       "identifier": "expand"
     },
     "eye": {
-      "codepoint": 57428,
+      "codepoint": 57433,
       "fontFamily": "Ooui",
       "identifier": "eye"
     },
     "eye-closed": {
-      "codepoint": 57429,
+      "codepoint": 57434,
       "fontFamily": "Ooui",
       "identifier": "eyeClosed"
     },
     "feedback-ltr": {
-      "codepoint": 57430,
+      "codepoint": 57435,
       "fontFamily": "Ooui",
       "identifier": "feedbackLtr"
     },
     "feedback-rtl": {
-      "codepoint": 57431,
+      "codepoint": 57436,
       "fontFamily": "Ooui",
       "identifier": "feedbackRtl"
     },
     "flag-ltr": {
-      "codepoint": 57432,
+      "codepoint": 57437,
       "fontFamily": "Ooui",
       "identifier": "flagLtr"
     },
     "flag-rtl": {
-      "codepoint": 57433,
+      "codepoint": 57438,
       "fontFamily": "Ooui",
       "identifier": "flagRtl"
     },
     "folder-placeholder-ltr": {
-      "codepoint": 57434,
+      "codepoint": 57439,
       "fontFamily": "Ooui",
       "identifier": "folderPlaceholderLtr"
     },
     "folder-placeholder-rtl": {
-      "codepoint": 57435,
+      "codepoint": 57440,
       "fontFamily": "Ooui",
       "identifier": "folderPlaceholderRtl"
     },
     "full-screen": {
-      "codepoint": 57436,
+      "codepoint": 57441,
       "fontFamily": "Ooui",
       "identifier": "fullScreen"
     },
+    "function": {
+      "codepoint": 57442,
+      "fontFamily": "Ooui",
+      "identifier": "function"
+    },
+    "function-argument-ltr": {
+      "codepoint": 57443,
+      "fontFamily": "Ooui",
+      "identifier": "functionArgumentLtr"
+    },
     "function-argument-rtl": {
-      "codepoint": 57437,
+      "codepoint": 57444,
       "fontFamily": "Ooui",
       "identifier": "functionArgumentRtl"
     },
     "funnel-ltr": {
-      "codepoint": 57438,
+      "codepoint": 57445,
       "fontFamily": "Ooui",
       "identifier": "funnelLtr"
     },
     "funnel-rtl": {
-      "codepoint": 57439,
+      "codepoint": 57446,
       "fontFamily": "Ooui",
       "identifier": "funnelRtl"
     },
     "globe": {
-      "codepoint": 57440,
+      "codepoint": 57447,
       "fontFamily": "Ooui",
       "identifier": "globe"
     },
     "half-bright-ltr": {
-      "codepoint": 57441,
+      "codepoint": 57448,
       "fontFamily": "Ooui",
       "identifier": "halfBrightLtr"
     },
     "half-bright-rtl": {
-      "codepoint": 57442,
+      "codepoint": 57449,
       "fontFamily": "Ooui",
       "identifier": "halfBrightRtl"
     },
     "half-star-ltr": {
-      "codepoint": 57443,
+      "codepoint": 57450,
       "fontFamily": "Ooui",
       "identifier": "halfStarLtr"
     },
     "half-star-rtl": {
-      "codepoint": 57444,
+      "codepoint": 57451,
       "fontFamily": "Ooui",
       "identifier": "halfStarRtl"
     },
     "hand": {
-      "codepoint": 57445,
+      "codepoint": 57452,
       "fontFamily": "Ooui",
       "identifier": "hand"
     },
     "heart": {
-      "codepoint": 57446,
+      "codepoint": 57453,
       "fontFamily": "Ooui",
       "identifier": "heart"
     },
     "help-ltr": {
-      "codepoint": 57447,
+      "codepoint": 57454,
       "fontFamily": "Ooui",
       "identifier": "helpLtr"
     },
     "help-notice-ltr": {
-      "codepoint": 57448,
+      "codepoint": 57455,
       "fontFamily": "Ooui",
       "identifier": "helpNoticeLtr"
     },
     "help-notice-rtl": {
-      "codepoint": 57449,
+      "codepoint": 57456,
       "fontFamily": "Ooui",
       "identifier": "helpNoticeRtl"
     },
     "help-rtl": {
-      "codepoint": 57450,
+      "codepoint": 57457,
       "fontFamily": "Ooui",
       "identifier": "helpRtl"
     },
     "hieroglyph": {
-      "codepoint": 57451,
+      "codepoint": 57458,
       "fontFamily": "Ooui",
       "identifier": "hieroglyph"
     },
     "highlight": {
-      "codepoint": 57452,
+      "codepoint": 57459,
       "fontFamily": "Ooui",
       "identifier": "highlight"
     },
     "history": {
-      "codepoint": 57453,
+      "codepoint": 57460,
       "fontFamily": "Ooui",
       "identifier": "history"
     },
     "home": {
-      "codepoint": 57454,
+      "codepoint": 57461,
       "fontFamily": "Ooui",
       "identifier": "home"
     },
     "image": {
-      "codepoint": 57455,
+      "codepoint": 57462,
       "fontFamily": "Ooui",
       "identifier": "image"
     },
     "image-add-ltr": {
-      "codepoint": 57456,
+      "codepoint": 57463,
       "fontFamily": "Ooui",
       "identifier": "imageAddLtr"
     },
     "image-add-rtl": {
-      "codepoint": 57457,
+      "codepoint": 57464,
       "fontFamily": "Ooui",
       "identifier": "imageAddRtl"
     },
     "image-broken": {
-      "codepoint": 57458,
+      "codepoint": 57465,
       "fontFamily": "Ooui",
       "identifier": "imageBroken"
     },
     "image-gallery": {
-      "codepoint": 57459,
+      "codepoint": 57466,
       "fontFamily": "Ooui",
       "identifier": "imageGallery"
     },
     "image-layout-basic": {
-      "codepoint": 57460,
+      "codepoint": 57467,
       "fontFamily": "Ooui",
       "identifier": "imageLayoutBasic"
     },
     "image-layout-frame": {
-      "codepoint": 57461,
+      "codepoint": 57468,
       "fontFamily": "Ooui",
       "identifier": "imageLayoutFrame"
     },
     "image-layout-frameless": {
-      "codepoint": 57462,
+      "codepoint": 57469,
       "fontFamily": "Ooui",
       "identifier": "imageLayoutFrameless"
     },
     "image-layout-thumbnail": {
-      "codepoint": 57463,
+      "codepoint": 57470,
       "fontFamily": "Ooui",
       "identifier": "imageLayoutThumbnail"
     },
     "image-lock-ltr": {
-      "codepoint": 57464,
+      "codepoint": 57471,
       "fontFamily": "Ooui",
       "identifier": "imageLockLtr"
     },
     "image-lock-rtl": {
-      "codepoint": 57465,
+      "codepoint": 57472,
       "fontFamily": "Ooui",
       "identifier": "imageLockRtl"
     },
     "indent-ltr": {
-      "codepoint": 57466,
+      "codepoint": 57473,
       "fontFamily": "Ooui",
       "identifier": "indentLtr"
     },
     "indent-rtl": {
-      "codepoint": 57467,
+      "codepoint": 57474,
       "fontFamily": "Ooui",
       "identifier": "indentRtl"
     },
     "info": {
-      "codepoint": 57468,
+      "codepoint": 57475,
       "fontFamily": "Ooui",
       "identifier": "info"
     },
     "info-filled": {
-      "codepoint": 57469,
+      "codepoint": 57476,
       "fontFamily": "Ooui",
       "identifier": "infoFilled"
     },
+    "instance-ltr": {
+      "codepoint": 57477,
+      "fontFamily": "Ooui",
+      "identifier": "instanceLtr"
+    },
+    "instance-rtl": {
+      "codepoint": 57478,
+      "fontFamily": "Ooui",
+      "identifier": "instanceRtl"
+    },
+    "italic-a": {
+      "codepoint": 57479,
+      "fontFamily": "Ooui",
+      "identifier": "italicA"
+    },
     "italic-arab-meem": {
-      "codepoint": 57470,
+      "codepoint": 57480,
       "fontFamily": "Ooui",
       "identifier": "italicArabMeem"
     },
+    "italic-arab-teh": {
+      "codepoint": 57481,
+      "fontFamily": "Ooui",
+      "identifier": "italicArabTeh"
+    },
+    "italic-armn-sha": {
+      "codepoint": 57482,
+      "fontFamily": "Ooui",
+      "identifier": "italicArmnSha"
+    },
     "italic-c": {
-      "codepoint": 57471,
+      "codepoint": 57483,
       "fontFamily": "Ooui",
       "identifier": "italicC"
     },
     "italic-d": {
-      "codepoint": 57472,
+      "codepoint": 57484,
       "fontFamily": "Ooui",
       "identifier": "italicD"
     },
     "italic-e": {
-      "codepoint": 57473,
+      "codepoint": 57485,
       "fontFamily": "Ooui",
       "identifier": "italicE"
     },
     "italic-geor-kan": {
-      "codepoint": 57474,
+      "codepoint": 57486,
       "fontFamily": "Ooui",
       "identifier": "italicGeorKan"
     },
     "italic-i": {
-      "codepoint": 57475,
+      "codepoint": 57487,
       "fontFamily": "Ooui",
       "identifier": "italicI"
     },
     "italic-k": {
-      "codepoint": 57476,
+      "codepoint": 57488,
       "fontFamily": "Ooui",
       "identifier": "italicK"
     },
+    "italic-s": {
+      "codepoint": 57489,
+      "fontFamily": "Ooui",
+      "identifier": "italicS"
+    },
     "journal-ltr": {
-      "codepoint": 57477,
+      "codepoint": 57490,
       "fontFamily": "Ooui",
       "identifier": "journalLtr"
     },
     "journal-rtl": {
-      "codepoint": 57478,
+      "codepoint": 57491,
       "fontFamily": "Ooui",
       "identifier": "journalRtl"
     },
     "key": {
-      "codepoint": 57479,
+      "codepoint": 57492,
       "fontFamily": "Ooui",
       "identifier": "key"
     },
     "keyboard": {
-      "codepoint": 57480,
+      "codepoint": 57493,
       "fontFamily": "Ooui",
       "identifier": "keyboard"
     },
     "lab-flask": {
-      "codepoint": 57481,
+      "codepoint": 57494,
       "fontFamily": "Ooui",
       "identifier": "labFlask"
     },
     "language": {
-      "codepoint": 57482,
+      "codepoint": 57495,
       "fontFamily": "Ooui",
       "identifier": "language"
     },
     "larger-text": {
-      "codepoint": 57483,
+      "codepoint": 57496,
       "fontFamily": "Ooui",
       "identifier": "largerText"
     },
     "layout-ltr": {
-      "codepoint": 57484,
+      "codepoint": 57497,
       "fontFamily": "Ooui",
       "identifier": "layoutLtr"
     },
     "layout-rtl": {
-      "codepoint": 57485,
+      "codepoint": 57498,
       "fontFamily": "Ooui",
       "identifier": "layoutRtl"
     },
     "lightbulb": {
-      "codepoint": 57486,
+      "codepoint": 57499,
       "fontFamily": "Ooui",
       "identifier": "lightbulb"
     },
     "link": {
-      "codepoint": 57487,
+      "codepoint": 57500,
       "fontFamily": "Ooui",
       "identifier": "link"
     },
     "link-external-ltr": {
-      "codepoint": 57488,
+      "codepoint": 57501,
       "fontFamily": "Ooui",
       "identifier": "linkExternalLtr"
     },
     "link-external-rtl": {
-      "codepoint": 57489,
+      "codepoint": 57502,
       "fontFamily": "Ooui",
       "identifier": "linkExternalRtl"
     },
     "link-secure": {
-      "codepoint": 57490,
+      "codepoint": 57503,
       "fontFamily": "Ooui",
       "identifier": "linkSecure"
     },
     "list-bullet-ltr": {
-      "codepoint": 57491,
+      "codepoint": 57504,
       "fontFamily": "Ooui",
       "identifier": "listBulletLtr"
     },
     "list-bullet-rtl": {
-      "codepoint": 57492,
+      "codepoint": 57505,
       "fontFamily": "Ooui",
       "identifier": "listBulletRtl"
     },
     "list-numbered-ltr": {
-      "codepoint": 57493,
+      "codepoint": 57506,
       "fontFamily": "Ooui",
       "identifier": "listNumberedLtr"
     },
     "list-numbered-rtl": {
-      "codepoint": 57494,
+      "codepoint": 57507,
       "fontFamily": "Ooui",
       "identifier": "listNumberedRtl"
     },
+    "literal-ltr": {
+      "codepoint": 57508,
+      "fontFamily": "Ooui",
+      "identifier": "literalLtr"
+    },
+    "literal-rtl": {
+      "codepoint": 57509,
+      "fontFamily": "Ooui",
+      "identifier": "literalRtl"
+    },
     "lock": {
-      "codepoint": 57495,
+      "codepoint": 57510,
       "fontFamily": "Ooui",
       "identifier": "lock"
     },
     "log-in-ltr": {
-      "codepoint": 57496,
+      "codepoint": 57511,
       "fontFamily": "Ooui",
       "identifier": "logInLtr"
     },
     "log-in-rtl": {
-      "codepoint": 57497,
+      "codepoint": 57512,
       "fontFamily": "Ooui",
       "identifier": "logInRtl"
     },
     "log-out-ltr": {
-      "codepoint": 57498,
+      "codepoint": 57513,
       "fontFamily": "Ooui",
       "identifier": "logOutLtr"
     },
     "log-out-rtl": {
-      "codepoint": 57499,
+      "codepoint": 57514,
       "fontFamily": "Ooui",
       "identifier": "logOutRtl"
     },
     "logo-cc": {
-      "codepoint": 57500,
+      "codepoint": 57515,
       "fontFamily": "Ooui",
       "identifier": "logoCc"
     },
+    "logo-codex": {
+      "codepoint": 57516,
+      "fontFamily": "Ooui",
+      "identifier": "logoCodex"
+    },
+    "logo-meta-wiki": {
+      "codepoint": 57517,
+      "fontFamily": "Ooui",
+      "identifier": "logoMetaWiki"
+    },
+    "logo-wikidata": {
+      "codepoint": 57518,
+      "fontFamily": "Ooui",
+      "identifier": "logoWikidata"
+    },
+    "logo-wikifunctions": {
+      "codepoint": 57519,
+      "fontFamily": "Ooui",
+      "identifier": "logoWikifunctions"
+    },
+    "logo-wikimedia": {
+      "codepoint": 57520,
+      "fontFamily": "Ooui",
+      "identifier": "logoWikimedia"
+    },
     "logo-wikimedia-commons": {
-      "codepoint": 57501,
+      "codepoint": 57521,
       "fontFamily": "Ooui",
       "identifier": "logoWikimediaCommons"
     },
     "logo-wikimedia-discovery": {
-      "codepoint": 57502,
+      "codepoint": 57522,
       "fontFamily": "Ooui",
       "identifier": "logoWikimediaDiscovery"
     },
     "logo-wikinews": {
-      "codepoint": 57503,
+      "codepoint": 57523,
       "fontFamily": "Ooui",
       "identifier": "logoWikinews"
     },
     "logo-wikipedia": {
-      "codepoint": 57504,
+      "codepoint": 57524,
       "fontFamily": "Ooui",
       "identifier": "logoWikipedia"
     },
+    "logo-wikiquote": {
+      "codepoint": 57525,
+      "fontFamily": "Ooui",
+      "identifier": "logoWikiquote"
+    },
     "logo-wikisource": {
-      "codepoint": 57505,
+      "codepoint": 57526,
       "fontFamily": "Ooui",
       "identifier": "logoWikisource"
     },
+    "logo-wikispecies": {
+      "codepoint": 57527,
+      "fontFamily": "Ooui",
+      "identifier": "logoWikispecies"
+    },
+    "logo-wikiversity": {
+      "codepoint": 57528,
+      "fontFamily": "Ooui",
+      "identifier": "logoWikiversity"
+    },
+    "logo-wikivoyage": {
+      "codepoint": 57529,
+      "fontFamily": "Ooui",
+      "identifier": "logoWikivoyage"
+    },
     "logo-wiktionary": {
-      "codepoint": 57506,
+      "codepoint": 57530,
       "fontFamily": "Ooui",
       "identifier": "logoWiktionary"
     },
     "map-ltr": {
-      "codepoint": 57507,
+      "codepoint": 57531,
       "fontFamily": "Ooui",
       "identifier": "mapLtr"
     },
     "map-pin": {
-      "codepoint": 57508,
+      "codepoint": 57532,
       "fontFamily": "Ooui",
       "identifier": "mapPin"
     },
     "map-pin-add": {
-      "codepoint": 57509,
+      "codepoint": 57533,
       "fontFamily": "Ooui",
       "identifier": "mapPinAdd"
     },
     "map-rtl": {
-      "codepoint": 57510,
+      "codepoint": 57534,
       "fontFamily": "Ooui",
       "identifier": "mapRtl"
     },
     "map-trail": {
-      "codepoint": 57511,
+      "codepoint": 57535,
       "fontFamily": "Ooui",
       "identifier": "mapTrail"
     },
     "markup": {
-      "codepoint": 57512,
+      "codepoint": 57536,
       "fontFamily": "Ooui",
       "identifier": "markup"
     },
     "mathematics": {
-      "codepoint": 57513,
+      "codepoint": 57537,
       "fontFamily": "Ooui",
       "identifier": "mathematics"
     },
     "mathematics-display-block": {
-      "codepoint": 57514,
+      "codepoint": 57538,
       "fontFamily": "Ooui",
       "identifier": "mathematicsDisplayBlock"
     },
     "mathematics-display-default": {
-      "codepoint": 57515,
+      "codepoint": 57539,
       "fontFamily": "Ooui",
       "identifier": "mathematicsDisplayDefault"
     },
     "mathematics-display-inline": {
-      "codepoint": 57516,
+      "codepoint": 57540,
       "fontFamily": "Ooui",
       "identifier": "mathematicsDisplayInline"
     },
     "menu": {
-      "codepoint": 57517,
+      "codepoint": 57541,
       "fontFamily": "Ooui",
       "identifier": "menu"
     },
     "merge-ltr": {
-      "codepoint": 57518,
+      "codepoint": 57542,
       "fontFamily": "Ooui",
       "identifier": "mergeLtr"
     },
     "merge-rtl": {
-      "codepoint": 57519,
+      "codepoint": 57543,
       "fontFamily": "Ooui",
       "identifier": "mergeRtl"
     },
     "message": {
-      "codepoint": 57520,
+      "codepoint": 57544,
       "fontFamily": "Ooui",
       "identifier": "message"
     },
     "moon": {
-      "codepoint": 57521,
+      "codepoint": 57545,
       "fontFamily": "Ooui",
       "identifier": "moon"
     },
     "move": {
-      "codepoint": 57522,
+      "codepoint": 57546,
       "fontFamily": "Ooui",
       "identifier": "move"
     },
     "move-first-ltr": {
-      "codepoint": 57523,
+      "codepoint": 57547,
       "fontFamily": "Ooui",
       "identifier": "moveFirstLtr"
     },
     "move-first-rtl": {
-      "codepoint": 57524,
+      "codepoint": 57548,
       "fontFamily": "Ooui",
       "identifier": "moveFirstRtl"
     },
     "move-last-ltr": {
-      "codepoint": 57525,
+      "codepoint": 57549,
       "fontFamily": "Ooui",
       "identifier": "moveLastLtr"
     },
     "move-last-rtl": {
-      "codepoint": 57526,
+      "codepoint": 57550,
       "fontFamily": "Ooui",
       "identifier": "moveLastRtl"
     },
     "musical-score": {
-      "codepoint": 57527,
+      "codepoint": 57551,
       "fontFamily": "Ooui",
       "identifier": "musicalScore"
     },
     "network": {
-      "codepoint": 57528,
+      "codepoint": 57552,
       "fontFamily": "Ooui",
       "identifier": "network"
     },
     "network-off": {
-      "codepoint": 57529,
+      "codepoint": 57553,
       "fontFamily": "Ooui",
       "identifier": "networkOff"
     },
     "new-window-ltr": {
-      "codepoint": 57530,
+      "codepoint": 57554,
       "fontFamily": "Ooui",
       "identifier": "newWindowLtr"
     },
     "new-window-rtl": {
-      "codepoint": 57531,
+      "codepoint": 57555,
       "fontFamily": "Ooui",
       "identifier": "newWindowRtl"
     },
     "newline-ltr": {
-      "codepoint": 57532,
+      "codepoint": 57556,
       "fontFamily": "Ooui",
       "identifier": "newlineLtr"
     },
     "newline-rtl": {
-      "codepoint": 57533,
+      "codepoint": 57557,
       "fontFamily": "Ooui",
       "identifier": "newlineRtl"
     },
     "newspaper-ltr": {
-      "codepoint": 57534,
+      "codepoint": 57558,
       "fontFamily": "Ooui",
       "identifier": "newspaperLtr"
     },
     "newspaper-rtl": {
-      "codepoint": 57535,
+      "codepoint": 57559,
       "fontFamily": "Ooui",
       "identifier": "newspaperRtl"
     },
     "next-ltr": {
-      "codepoint": 57536,
+      "codepoint": 57560,
       "fontFamily": "Ooui",
       "identifier": "nextLtr"
     },
     "next-rtl": {
-      "codepoint": 57537,
+      "codepoint": 57561,
       "fontFamily": "Ooui",
       "identifier": "nextRtl"
     },
     "no-wiki-text": {
-      "codepoint": 57538,
+      "codepoint": 57562,
       "fontFamily": "Ooui",
       "identifier": "noWikiText"
     },
     "not-bright": {
-      "codepoint": 57539,
+      "codepoint": 57563,
       "fontFamily": "Ooui",
       "identifier": "notBright"
     },
     "notice": {
-      "codepoint": 57540,
+      "codepoint": 57564,
       "fontFamily": "Ooui",
       "identifier": "notice"
     },
     "ocr": {
-      "codepoint": 57541,
+      "codepoint": 57565,
       "fontFamily": "Ooui",
       "identifier": "ocr"
     },
     "ongoing-conversation-ltr": {
-      "codepoint": 57542,
+      "codepoint": 57566,
       "fontFamily": "Ooui",
       "identifier": "ongoingConversationLtr"
     },
     "ongoing-conversation-rtl": {
-      "codepoint": 57543,
+      "codepoint": 57567,
       "fontFamily": "Ooui",
       "identifier": "ongoingConversationRtl"
     },
     "outdent-ltr": {
-      "codepoint": 57544,
+      "codepoint": 57568,
       "fontFamily": "Ooui",
       "identifier": "outdentLtr"
     },
     "outdent-rtl": {
-      "codepoint": 57545,
+      "codepoint": 57569,
       "fontFamily": "Ooui",
       "identifier": "outdentRtl"
     },
     "outline-ltr": {
-      "codepoint": 57546,
+      "codepoint": 57570,
       "fontFamily": "Ooui",
       "identifier": "outlineLtr"
     },
     "outline-rtl": {
-      "codepoint": 57547,
+      "codepoint": 57571,
       "fontFamily": "Ooui",
       "identifier": "outlineRtl"
     },
     "page-settings": {
-      "codepoint": 57548,
+      "codepoint": 57572,
       "fontFamily": "Ooui",
       "identifier": "pageSettings"
     },
     "palette-ltr": {
-      "codepoint": 57549,
+      "codepoint": 57573,
       "fontFamily": "Ooui",
       "identifier": "paletteLtr"
     },
     "palette-rtl": {
-      "codepoint": 57550,
+      "codepoint": 57574,
       "fontFamily": "Ooui",
       "identifier": "paletteRtl"
     },
+    "paste-ltr": {
+      "codepoint": 57575,
+      "fontFamily": "Ooui",
+      "identifier": "pasteLtr"
+    },
+    "paste-rtl": {
+      "codepoint": 57576,
+      "fontFamily": "Ooui",
+      "identifier": "pasteRtl"
+    },
     "pause": {
-      "codepoint": 57551,
+      "codepoint": 57577,
       "fontFamily": "Ooui",
       "identifier": "pause"
     },
     "play": {
-      "codepoint": 57552,
+      "codepoint": 57578,
       "fontFamily": "Ooui",
       "identifier": "play"
     },
     "power": {
-      "codepoint": 57553,
+      "codepoint": 57579,
       "fontFamily": "Ooui",
       "identifier": "power"
     },
     "previous-ltr": {
-      "codepoint": 57554,
+      "codepoint": 57580,
       "fontFamily": "Ooui",
       "identifier": "previousLtr"
     },
     "previous-rtl": {
-      "codepoint": 57555,
+      "codepoint": 57581,
       "fontFamily": "Ooui",
       "identifier": "previousRtl"
     },
     "printer": {
-      "codepoint": 57556,
+      "codepoint": 57582,
       "fontFamily": "Ooui",
       "identifier": "printer"
     },
     "push-pin": {
-      "codepoint": 57557,
+      "codepoint": 57583,
       "fontFamily": "Ooui",
       "identifier": "pushPin"
     },
     "puzzle-ltr": {
-      "codepoint": 57558,
+      "codepoint": 57584,
       "fontFamily": "Ooui",
       "identifier": "puzzleLtr"
     },
     "puzzle-rtl": {
-      "codepoint": 57559,
+      "codepoint": 57585,
       "fontFamily": "Ooui",
       "identifier": "puzzleRtl"
     },
     "qr-code": {
-      "codepoint": 57560,
+      "codepoint": 57586,
       "fontFamily": "Ooui",
       "identifier": "qrCode"
     },
     "quotes-ltr": {
-      "codepoint": 57561,
+      "codepoint": 57587,
       "fontFamily": "Ooui",
       "identifier": "quotesLtr"
     },
     "quotes-rtl": {
-      "codepoint": 57562,
+      "codepoint": 57588,
       "fontFamily": "Ooui",
       "identifier": "quotesRtl"
     },
     "recent-changes-ltr": {
-      "codepoint": 57563,
+      "codepoint": 57589,
       "fontFamily": "Ooui",
       "identifier": "recentChangesLtr"
     },
     "recent-changes-rtl": {
-      "codepoint": 57564,
+      "codepoint": 57590,
       "fontFamily": "Ooui",
       "identifier": "recentChangesRtl"
     },
     "redo-ltr": {
-      "codepoint": 57565,
+      "codepoint": 57591,
       "fontFamily": "Ooui",
       "identifier": "redoLtr"
     },
     "redo-rtl": {
-      "codepoint": 57566,
+      "codepoint": 57592,
       "fontFamily": "Ooui",
       "identifier": "redoRtl"
     },
     "reference": {
-      "codepoint": 57567,
+      "codepoint": 57593,
       "fontFamily": "Ooui",
       "identifier": "reference"
     },
     "reference-existing-ltr": {
-      "codepoint": 57568,
+      "codepoint": 57594,
       "fontFamily": "Ooui",
       "identifier": "referenceExistingLtr"
     },
     "reference-existing-rtl": {
-      "codepoint": 57569,
+      "codepoint": 57595,
       "fontFamily": "Ooui",
       "identifier": "referenceExistingRtl"
     },
     "references-ltr": {
-      "codepoint": 57570,
+      "codepoint": 57596,
       "fontFamily": "Ooui",
       "identifier": "referencesLtr"
     },
     "references-rtl": {
-      "codepoint": 57571,
+      "codepoint": 57597,
       "fontFamily": "Ooui",
       "identifier": "referencesRtl"
     },
     "reload": {
-      "codepoint": 57572,
+      "codepoint": 57598,
       "fontFamily": "Ooui",
       "identifier": "reload"
     },
     "restore": {
-      "codepoint": 57573,
+      "codepoint": 57599,
       "fontFamily": "Ooui",
       "identifier": "restore"
     },
+    "robot": {
+      "codepoint": 57600,
+      "fontFamily": "Ooui",
+      "identifier": "robot"
+    },
     "sandbox": {
-      "codepoint": 57574,
+      "codepoint": 57601,
       "fontFamily": "Ooui",
       "identifier": "sandbox"
     },
     "search": {
-      "codepoint": 57575,
+      "codepoint": 57602,
       "fontFamily": "Ooui",
       "identifier": "search"
     },
     "search-case-sensitive": {
-      "codepoint": 57576,
+      "codepoint": 57603,
       "fontFamily": "Ooui",
       "identifier": "searchCaseSensitive"
     },
     "search-diacritics": {
-      "codepoint": 57577,
+      "codepoint": 57604,
       "fontFamily": "Ooui",
       "identifier": "searchDiacritics"
     },
     "search-regular-expression": {
-      "codepoint": 57578,
+      "codepoint": 57605,
       "fontFamily": "Ooui",
       "identifier": "searchRegularExpression"
     },
     "share": {
-      "codepoint": 57579,
+      "codepoint": 57606,
       "fontFamily": "Ooui",
       "identifier": "share"
     },
     "signature-ltr": {
-      "codepoint": 57580,
+      "codepoint": 57607,
       "fontFamily": "Ooui",
       "identifier": "signatureLtr"
     },
     "signature-rtl": {
-      "codepoint": 57581,
+      "codepoint": 57608,
       "fontFamily": "Ooui",
       "identifier": "signatureRtl"
     },
     "smaller": {
-      "codepoint": 57582,
+      "codepoint": 57609,
       "fontFamily": "Ooui",
       "identifier": "smaller"
     },
     "smaller-text": {
-      "codepoint": 57583,
+      "codepoint": 57610,
       "fontFamily": "Ooui",
       "identifier": "smallerText"
     },
     "sort-vertical": {
-      "codepoint": 57584,
+      "codepoint": 57611,
       "fontFamily": "Ooui",
       "identifier": "sortVertical"
     },
     "special-character": {
-      "codepoint": 57585,
+      "codepoint": 57612,
       "fontFamily": "Ooui",
       "identifier": "specialCharacter"
     },
+    "special-pages-ltr": {
+      "codepoint": 57613,
+      "fontFamily": "Ooui",
+      "identifier": "specialPagesLtr"
+    },
+    "special-pages-rtl": {
+      "codepoint": 57614,
+      "fontFamily": "Ooui",
+      "identifier": "specialPagesRtl"
+    },
     "speech-bubble-add-ltr": {
-      "codepoint": 57586,
+      "codepoint": 57615,
       "fontFamily": "Ooui",
       "identifier": "speechBubbleAddLtr"
     },
     "speech-bubble-add-rtl": {
-      "codepoint": 57587,
+      "codepoint": 57616,
       "fontFamily": "Ooui",
       "identifier": "speechBubbleAddRtl"
     },
     "speech-bubble-ltr": {
-      "codepoint": 57588,
+      "codepoint": 57617,
       "fontFamily": "Ooui",
       "identifier": "speechBubbleLtr"
     },
     "speech-bubble-rtl": {
-      "codepoint": 57589,
+      "codepoint": 57618,
       "fontFamily": "Ooui",
       "identifier": "speechBubbleRtl"
     },
     "speech-bubbles-ltr": {
-      "codepoint": 57590,
+      "codepoint": 57619,
       "fontFamily": "Ooui",
       "identifier": "speechBubblesLtr"
     },
     "speech-bubbles-rtl": {
-      "codepoint": 57591,
+      "codepoint": 57620,
       "fontFamily": "Ooui",
       "identifier": "speechBubblesRtl"
     },
     "star": {
-      "codepoint": 57592,
+      "codepoint": 57621,
       "fontFamily": "Ooui",
       "identifier": "star"
     },
     "stop": {
-      "codepoint": 57593,
+      "codepoint": 57622,
       "fontFamily": "Ooui",
       "identifier": "stop"
     },
     "strikethrough-a": {
-      "codepoint": 57594,
+      "codepoint": 57623,
       "fontFamily": "Ooui",
       "identifier": "strikethroughA"
     },
     "strikethrough-s": {
-      "codepoint": 57595,
+      "codepoint": 57624,
       "fontFamily": "Ooui",
       "identifier": "strikethroughS"
     },
     "strikethrough-y": {
-      "codepoint": 57596,
+      "codepoint": 57625,
       "fontFamily": "Ooui",
       "identifier": "strikethroughY"
     },
     "subscript-ltr": {
-      "codepoint": 57597,
+      "codepoint": 57626,
       "fontFamily": "Ooui",
       "identifier": "subscriptLtr"
     },
     "subscript-rtl": {
-      "codepoint": 57598,
+      "codepoint": 57627,
       "fontFamily": "Ooui",
       "identifier": "subscriptRtl"
     },
     "subtract": {
-      "codepoint": 57599,
+      "codepoint": 57628,
       "fontFamily": "Ooui",
       "identifier": "subtract"
     },
     "success": {
-      "codepoint": 57600,
+      "codepoint": 57629,
       "fontFamily": "Ooui",
       "identifier": "success"
     },
     "superscript-ltr": {
-      "codepoint": 57601,
+      "codepoint": 57630,
       "fontFamily": "Ooui",
       "identifier": "superscriptLtr"
     },
     "superscript-rtl": {
-      "codepoint": 57602,
+      "codepoint": 57631,
       "fontFamily": "Ooui",
       "identifier": "superscriptRtl"
     },
     "table": {
-      "codepoint": 57603,
+      "codepoint": 57632,
       "fontFamily": "Ooui",
       "identifier": "table"
     },
     "table-add-column-after-ltr": {
-      "codepoint": 57604,
+      "codepoint": 57633,
       "fontFamily": "Ooui",
       "identifier": "tableAddColumnAfterLtr"
     },
     "table-add-column-after-rtl": {
-      "codepoint": 57605,
+      "codepoint": 57634,
       "fontFamily": "Ooui",
       "identifier": "tableAddColumnAfterRtl"
     },
     "table-add-column-before-ltr": {
-      "codepoint": 57606,
+      "codepoint": 57635,
       "fontFamily": "Ooui",
       "identifier": "tableAddColumnBeforeLtr"
     },
     "table-add-column-before-rtl": {
-      "codepoint": 57607,
+      "codepoint": 57636,
       "fontFamily": "Ooui",
       "identifier": "tableAddColumnBeforeRtl"
     },
     "table-add-row-after": {
-      "codepoint": 57608,
+      "codepoint": 57637,
       "fontFamily": "Ooui",
       "identifier": "tableAddRowAfter"
     },
     "table-add-row-before": {
-      "codepoint": 57609,
+      "codepoint": 57638,
       "fontFamily": "Ooui",
       "identifier": "tableAddRowBefore"
     },
     "table-caption": {
-      "codepoint": 57610,
+      "codepoint": 57639,
       "fontFamily": "Ooui",
       "identifier": "tableCaption"
     },
-    "table-merge-cells": {
-      "codepoint": 57611,
-      "fontFamily": "Ooui",
-      "identifier": "tableMergeCells"
-    },
     "table-move-column-after-ltr": {
-      "codepoint": 57612,
+      "codepoint": 57640,
       "fontFamily": "Ooui",
       "identifier": "tableMoveColumnAfterLtr"
     },
     "table-move-column-after-rtl": {
-      "codepoint": 57613,
+      "codepoint": 57641,
       "fontFamily": "Ooui",
       "identifier": "tableMoveColumnAfterRtl"
     },
     "table-move-column-before-ltr": {
-      "codepoint": 57614,
+      "codepoint": 57642,
       "fontFamily": "Ooui",
       "identifier": "tableMoveColumnBeforeLtr"
     },
     "table-move-column-before-rtl": {
-      "codepoint": 57615,
+      "codepoint": 57643,
       "fontFamily": "Ooui",
       "identifier": "tableMoveColumnBeforeRtl"
     },
     "table-move-row-after": {
-      "codepoint": 57616,
+      "codepoint": 57644,
       "fontFamily": "Ooui",
       "identifier": "tableMoveRowAfter"
     },
     "table-move-row-before": {
-      "codepoint": 57617,
+      "codepoint": 57645,
       "fontFamily": "Ooui",
       "identifier": "tableMoveRowBefore"
     },
     "tag-ltr": {
-      "codepoint": 57618,
+      "codepoint": 57646,
       "fontFamily": "Ooui",
       "identifier": "tagLtr"
     },
     "tag-rtl": {
-      "codepoint": 57619,
+      "codepoint": 57647,
       "fontFamily": "Ooui",
       "identifier": "tagRtl"
     },
     "template-add-ltr": {
-      "codepoint": 57620,
+      "codepoint": 57648,
       "fontFamily": "Ooui",
       "identifier": "templateAddLtr"
     },
     "template-add-rtl": {
-      "codepoint": 57621,
+      "codepoint": 57649,
       "fontFamily": "Ooui",
       "identifier": "templateAddRtl"
     },
     "text-dir-ltr": {
-      "codepoint": 57622,
+      "codepoint": 57650,
       "fontFamily": "Ooui",
       "identifier": "textDirLtr"
     },
     "text-dir-rtl": {
-      "codepoint": 57623,
+      "codepoint": 57651,
       "fontFamily": "Ooui",
       "identifier": "textDirRtl"
     },
     "text-flow-ltr": {
-      "codepoint": 57624,
+      "codepoint": 57652,
       "fontFamily": "Ooui",
       "identifier": "textFlowLtr"
     },
     "text-flow-rtl": {
-      "codepoint": 57625,
+      "codepoint": 57653,
       "fontFamily": "Ooui",
       "identifier": "textFlowRtl"
     },
     "text-style": {
-      "codepoint": 57626,
+      "codepoint": 57654,
       "fontFamily": "Ooui",
       "identifier": "textStyle"
     },
     "text-summary-ltr": {
-      "codepoint": 57627,
+      "codepoint": 57655,
       "fontFamily": "Ooui",
       "identifier": "textSummaryLtr"
     },
     "text-summary-rtl": {
-      "codepoint": 57628,
+      "codepoint": 57656,
       "fontFamily": "Ooui",
       "identifier": "textSummaryRtl"
     },
     "trash": {
-      "codepoint": 57629,
+      "codepoint": 57657,
       "fontFamily": "Ooui",
       "identifier": "trash"
     },
     "tray": {
-      "codepoint": 57630,
+      "codepoint": 57658,
       "fontFamily": "Ooui",
       "identifier": "tray"
     },
     "un-block": {
-      "codepoint": 57631,
+      "codepoint": 57659,
       "fontFamily": "Ooui",
       "identifier": "unBlock"
     },
     "un-flag-ltr": {
-      "codepoint": 57632,
+      "codepoint": 57660,
       "fontFamily": "Ooui",
       "identifier": "unFlagLtr"
     },
     "un-flag-rtl": {
-      "codepoint": 57633,
+      "codepoint": 57661,
       "fontFamily": "Ooui",
       "identifier": "unFlagRtl"
     },
+    "un-link": {
+      "codepoint": 57662,
+      "fontFamily": "Ooui",
+      "identifier": "unLink"
+    },
     "un-lock": {
-      "codepoint": 57634,
+      "codepoint": 57663,
       "fontFamily": "Ooui",
       "identifier": "unLock"
     },
     "un-star": {
-      "codepoint": 57635,
+      "codepoint": 57664,
       "fontFamily": "Ooui",
       "identifier": "unStar"
     },
     "underline-a": {
-      "codepoint": 57636,
+      "codepoint": 57665,
       "fontFamily": "Ooui",
       "identifier": "underlineA"
     },
     "underline-u": {
-      "codepoint": 57637,
+      "codepoint": 57666,
       "fontFamily": "Ooui",
       "identifier": "underlineU"
     },
     "undo-ltr": {
-      "codepoint": 57638,
+      "codepoint": 57667,
       "fontFamily": "Ooui",
       "identifier": "undoLtr"
     },
     "undo-rtl": {
-      "codepoint": 57639,
+      "codepoint": 57668,
       "fontFamily": "Ooui",
       "identifier": "undoRtl"
     },
     "up-triangle": {
-      "codepoint": 57640,
+      "codepoint": 57669,
       "fontFamily": "Ooui",
       "identifier": "upTriangle"
     },
     "update-ltr": {
-      "codepoint": 57641,
+      "codepoint": 57670,
       "fontFamily": "Ooui",
       "identifier": "updateLtr"
     },
     "update-rtl": {
-      "codepoint": 57642,
+      "codepoint": 57671,
       "fontFamily": "Ooui",
       "identifier": "updateRtl"
     },
     "upload": {
-      "codepoint": 57643,
+      "codepoint": 57672,
       "fontFamily": "Ooui",
       "identifier": "upload"
     },
     "user-active": {
-      "codepoint": 57644,
+      "codepoint": 57673,
       "fontFamily": "Ooui",
       "identifier": "userActive"
     },
     "user-add-ltr": {
-      "codepoint": 57645,
+      "codepoint": 57674,
       "fontFamily": "Ooui",
       "identifier": "userAddLtr"
     },
     "user-add-rtl": {
-      "codepoint": 57646,
+      "codepoint": 57675,
       "fontFamily": "Ooui",
       "identifier": "userAddRtl"
     },
     "user-anonymous": {
-      "codepoint": 57647,
+      "codepoint": 57676,
       "fontFamily": "Ooui",
       "identifier": "userAnonymous"
     },
     "user-avatar": {
-      "codepoint": 57648,
+      "codepoint": 57677,
       "fontFamily": "Ooui",
       "identifier": "userAvatar"
     },
     "user-avatar-outline": {
-      "codepoint": 57649,
+      "codepoint": 57678,
       "fontFamily": "Ooui",
       "identifier": "userAvatarOutline"
     },
+    "user-blocked": {
+      "codepoint": 57679,
+      "fontFamily": "Ooui",
+      "identifier": "userBlocked"
+    },
     "user-contributions-ltr": {
-      "codepoint": 57650,
+      "codepoint": 57680,
       "fontFamily": "Ooui",
       "identifier": "userContributionsLtr"
     },
     "user-contributions-rtl": {
-      "codepoint": 57651,
+      "codepoint": 57681,
       "fontFamily": "Ooui",
       "identifier": "userContributionsRtl"
     },
     "user-group-ltr": {
-      "codepoint": 57652,
+      "codepoint": 57682,
       "fontFamily": "Ooui",
       "identifier": "userGroupLtr"
     },
     "user-group-rtl": {
-      "codepoint": 57653,
+      "codepoint": 57683,
       "fontFamily": "Ooui",
       "identifier": "userGroupRtl"
     },
+    "user-rights-ltr": {
+      "codepoint": 57684,
+      "fontFamily": "Ooui",
+      "identifier": "userRightsLtr"
+    },
+    "user-rights-rtl": {
+      "codepoint": 57685,
+      "fontFamily": "Ooui",
+      "identifier": "userRightsRtl"
+    },
     "user-talk-ltr": {
-      "codepoint": 57654,
+      "codepoint": 57686,
       "fontFamily": "Ooui",
       "identifier": "userTalkLtr"
     },
     "user-talk-rtl": {
-      "codepoint": 57655,
+      "codepoint": 57687,
       "fontFamily": "Ooui",
       "identifier": "userTalkRtl"
     },
+    "user-temporary-location-ltr": {
+      "codepoint": 57688,
+      "fontFamily": "Ooui",
+      "identifier": "userTemporaryLocationLtr"
+    },
+    "user-temporary-location-rtl": {
+      "codepoint": 57689,
+      "fontFamily": "Ooui",
+      "identifier": "userTemporaryLocationRtl"
+    },
+    "user-temporary-ltr": {
+      "codepoint": 57690,
+      "fontFamily": "Ooui",
+      "identifier": "userTemporaryLtr"
+    },
+    "user-temporary-rtl": {
+      "codepoint": 57691,
+      "fontFamily": "Ooui",
+      "identifier": "userTemporaryRtl"
+    },
     "vertical-ellipsis": {
-      "codepoint": 57656,
+      "codepoint": 57692,
       "fontFamily": "Ooui",
       "identifier": "verticalEllipsis"
     },
     "view-compact": {
-      "codepoint": 57657,
+      "codepoint": 57693,
       "fontFamily": "Ooui",
       "identifier": "viewCompact"
     },
     "view-details-ltr": {
-      "codepoint": 57658,
+      "codepoint": 57694,
       "fontFamily": "Ooui",
       "identifier": "viewDetailsLtr"
     },
     "view-details-rtl": {
-      "codepoint": 57659,
+      "codepoint": 57695,
       "fontFamily": "Ooui",
       "identifier": "viewDetailsRtl"
     },
     "vision-simulator": {
-      "codepoint": 57660,
+      "codepoint": 57696,
       "fontFamily": "Ooui",
       "identifier": "visionSimulator"
     },
     "volume-down-ltr": {
-      "codepoint": 57661,
+      "codepoint": 57697,
       "fontFamily": "Ooui",
       "identifier": "volumeDownLtr"
     },
     "volume-down-rtl": {
-      "codepoint": 57662,
+      "codepoint": 57698,
       "fontFamily": "Ooui",
       "identifier": "volumeDownRtl"
     },
     "volume-off-ltr": {
-      "codepoint": 57663,
+      "codepoint": 57699,
       "fontFamily": "Ooui",
       "identifier": "volumeOffLtr"
     },
     "volume-off-rtl": {
-      "codepoint": 57664,
+      "codepoint": 57700,
       "fontFamily": "Ooui",
       "identifier": "volumeOffRtl"
     },
     "volume-up-ltr": {
-      "codepoint": 57665,
+      "codepoint": 57701,
       "fontFamily": "Ooui",
       "identifier": "volumeUpLtr"
     },
     "volume-up-rtl": {
-      "codepoint": 57666,
+      "codepoint": 57702,
       "fontFamily": "Ooui",
       "identifier": "volumeUpRtl"
     },
     "watchlist-ltr": {
-      "codepoint": 57667,
+      "codepoint": 57703,
       "fontFamily": "Ooui",
       "identifier": "watchlistLtr"
     },
     "watchlist-rtl": {
-      "codepoint": 57668,
+      "codepoint": 57704,
       "fontFamily": "Ooui",
       "identifier": "watchlistRtl"
     },
     "wiki-text": {
-      "codepoint": 57669,
+      "codepoint": 57705,
       "fontFamily": "Ooui",
       "identifier": "wikiText"
     },
     "window": {
-      "codepoint": 57670,
+      "codepoint": 57706,
       "fontFamily": "Ooui",
       "identifier": "window"
     },
     "zoom-in": {
-      "codepoint": 57671,
+      "codepoint": 57707,
       "fontFamily": "Ooui",
       "identifier": "zoomIn"
     },
     "zoom-out": {
-      "codepoint": 57672,
+      "codepoint": 57708,
       "fontFamily": "Ooui",
       "identifier": "zoomOut"
     }

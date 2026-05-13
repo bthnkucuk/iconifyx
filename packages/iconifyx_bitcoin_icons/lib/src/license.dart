@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/BitcoinDesign/Bitcoin-Icons/blob/main/LICENSE-MIT',
-  iconCount: 172,
+  iconCount: 329,
 );

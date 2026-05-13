@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/akveo/eva-icons/blob/master/LICENSE.txt',
-  iconCount: 488,
+  iconCount: 487,
 );

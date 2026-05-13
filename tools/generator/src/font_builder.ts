@@ -86,34 +86,37 @@ async function buildOneFontWithRetry(
   onGlyphDropped: ((iconName: string, reason: string) => void) | undefined
 ): Promise<Buffer | null> {
   let members = [...initialMembers];
-  const MAX_RETRIES = Math.min(initialMembers.length, 50);
 
-  for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
-    if (members.length === 0) return null;
+  // No fixed retry cap: keep dropping bad glyphs until the font either
+  // builds or runs out of members. Some sets (flag, certain emoji families)
+  // have hundreds of svgicons2svgfont-incompatible glyphs and we'd rather
+  // ship a TTF with the working subset than nothing at all.
+  while (members.length > 0) {
     try {
       return await buildOneFont(fontEntry, members, resolvedByName);
     } catch (err) {
       const fullMsg = err instanceof Error ? err.message : String(err);
       const firstLine = fullMsg.split('\n')[0]!;
-      // svgicons2svgfont's error format includes 'parsing the glyph "X"'.
       const nameMatch = firstLine.match(/parsing the glyph "([^"]+)"/);
       if (!nameMatch) {
-        // Unknown error shape — give up on this font.
-        throw err;
+        // Unknown error shape — flag every remaining glyph as dropped so
+        // the manifest stays consistent, then bail.
+        for (const m of members) {
+          onGlyphDropped?.(m.name, firstLine.slice(0, 160));
+        }
+        log.warn(
+          `font ${fontEntry.family} gave up with unknown error: ${firstLine.slice(0, 160)}`
+        );
+        return null;
       }
       const badName = nameMatch[1]!;
       const reason = firstLine.slice(0, 160);
-      log.warn(
-        `  dropping "${badName}" from font ${fontEntry.family}: ${reason}`
-      );
       onGlyphDropped?.(badName, reason);
       members = members.filter((m) => m.name !== badName);
     }
   }
 
-  log.warn(
-    `gave up on font ${fontEntry.family} after ${MAX_RETRIES + 1} attempts; emitting empty font`
-  );
+  log.warn(`font ${fontEntry.family} exhausted all members; emitting nothing`);
   return null;
 }
 

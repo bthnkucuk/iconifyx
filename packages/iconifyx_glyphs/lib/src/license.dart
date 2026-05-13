@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/gorango/glyphs/blob/main/license',
-  iconCount: 1668,
+  iconCount: 3449,
 );

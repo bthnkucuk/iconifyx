@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'Unlicense',
   licenseSpdx: 'Unlicense',
   licenseUrl: 'https://github.com/CoreyGinnivan/system-uicons/blob/master/LICENSE',
-  iconCount: 332,
+  iconCount: 430,
 );

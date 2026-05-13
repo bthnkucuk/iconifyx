@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/cyberalien/nimbus-icons/blob/main/LICENSE',
-  iconCount: 56,
+  iconCount: 140,
 );

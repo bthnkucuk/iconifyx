@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'Apache 2.0',
   licenseSpdx: 'Apache-2.0',
   licenseUrl: 'https://github.com/opensearch-project/oui/blob/main/LICENSE.txt',
-  iconCount: 130,
+  iconCount: 443,
 );

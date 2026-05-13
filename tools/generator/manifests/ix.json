@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/siemens/ix-icons/blob/main/LICENSE.md"
     },
-    "total": 1357
+    "total": 1419
   },
   "fonts": [
     {
       "family": "Ix",
-      "nextCodepoint": 58701,
-      "iconCount": 1357
+      "nextCodepoint": 58763,
+      "iconCount": 1419
     }
   ],
   "icons": {
@@ -1611,5203 +1611,5513 @@
       "fontFamily": "Ix",
       "identifier": "configuration"
     },
-    "configure": {
+    "configuration-safety": {
       "codepoint": 57661,
+      "fontFamily": "Ix",
+      "identifier": "configurationSafety"
+    },
+    "configure": {
+      "codepoint": 57662,
       "fontFamily": "Ix",
       "identifier": "configure"
     },
     "configure-filled": {
-      "codepoint": 57662,
+      "codepoint": 57663,
       "fontFamily": "Ix",
       "identifier": "configureFilled"
     },
     "connected": {
-      "codepoint": 57663,
+      "codepoint": 57664,
       "fontFamily": "Ix",
       "identifier": "connected"
     },
+    "connected-circle": {
+      "codepoint": 57665,
+      "fontFamily": "Ix",
+      "identifier": "connectedCircle"
+    },
+    "connected-circle-filled": {
+      "codepoint": 57666,
+      "fontFamily": "Ix",
+      "identifier": "connectedCircleFilled"
+    },
     "connection-bulb": {
-      "codepoint": 57664,
+      "codepoint": 57667,
       "fontFamily": "Ix",
       "identifier": "connectionBulb"
     },
     "connection-fail": {
-      "codepoint": 57665,
+      "codepoint": 57668,
       "fontFamily": "Ix",
       "identifier": "connectionFail"
     },
     "connection-local": {
-      "codepoint": 57666,
+      "codepoint": 57669,
       "fontFamily": "Ix",
       "identifier": "connectionLocal"
     },
     "connection-signal": {
-      "codepoint": 57667,
+      "codepoint": 57670,
       "fontFamily": "Ix",
       "identifier": "connectionSignal"
     },
     "connection-success": {
-      "codepoint": 57668,
+      "codepoint": 57671,
       "fontFamily": "Ix",
       "identifier": "connectionSuccess"
     },
     "connections": {
-      "codepoint": 57669,
+      "codepoint": 57672,
       "fontFamily": "Ix",
       "identifier": "connections"
     },
     "connections-settings": {
-      "codepoint": 57670,
+      "codepoint": 57673,
       "fontFamily": "Ix",
       "identifier": "connectionsSettings"
     },
     "connectivity": {
-      "codepoint": 57671,
+      "codepoint": 57674,
       "fontFamily": "Ix",
       "identifier": "connectivity"
     },
     "connector": {
-      "codepoint": 57672,
+      "codepoint": 57675,
       "fontFamily": "Ix",
       "identifier": "connector"
     },
     "connector-chart": {
-      "codepoint": 57673,
+      "codepoint": 57676,
       "fontFamily": "Ix",
       "identifier": "connectorChart"
     },
     "connector-chart-filled": {
-      "codepoint": 57674,
+      "codepoint": 57677,
       "fontFamily": "Ix",
       "identifier": "connectorChartFilled"
     },
     "connector-filled": {
-      "codepoint": 57675,
+      "codepoint": 57678,
       "fontFamily": "Ix",
       "identifier": "connectorFilled"
     },
     "connector-hex": {
-      "codepoint": 57676,
+      "codepoint": 57679,
       "fontFamily": "Ix",
       "identifier": "connectorHex"
     },
     "connector-hex-filled": {
-      "codepoint": 57677,
+      "codepoint": 57680,
       "fontFamily": "Ix",
       "identifier": "connectorHexFilled"
     },
     "connector-rect": {
-      "codepoint": 57678,
+      "codepoint": 57681,
       "fontFamily": "Ix",
       "identifier": "connectorRect"
     },
     "connector-rect-filled": {
-      "codepoint": 57679,
+      "codepoint": 57682,
       "fontFamily": "Ix",
       "identifier": "connectorRectFilled"
     },
     "connector-rhomb": {
-      "codepoint": 57680,
+      "codepoint": 57683,
       "fontFamily": "Ix",
       "identifier": "connectorRhomb"
     },
     "connector-rhomb-filled": {
-      "codepoint": 57681,
+      "codepoint": 57684,
       "fontFamily": "Ix",
       "identifier": "connectorRhombFilled"
     },
     "consistency-check": {
-      "codepoint": 57682,
+      "codepoint": 57685,
       "fontFamily": "Ix",
       "identifier": "consistencyCheck"
     },
     "contact-details": {
-      "codepoint": 57683,
+      "codepoint": 57686,
       "fontFamily": "Ix",
       "identifier": "contactDetails"
     },
     "contact-details-filled": {
-      "codepoint": 57684,
+      "codepoint": 57687,
       "fontFamily": "Ix",
       "identifier": "contactDetailsFilled"
     },
     "context-menu": {
-      "codepoint": 57685,
+      "codepoint": 57688,
       "fontFamily": "Ix",
       "identifier": "contextMenu"
     },
     "control-button": {
-      "codepoint": 57686,
+      "codepoint": 57689,
       "fontFamily": "Ix",
       "identifier": "controlButton"
     },
     "control-checkbox": {
-      "codepoint": 57687,
+      "codepoint": 57690,
       "fontFamily": "Ix",
       "identifier": "controlCheckbox"
     },
     "control-io-field": {
-      "codepoint": 57688,
+      "codepoint": 57691,
       "fontFamily": "Ix",
       "identifier": "controlIoField"
     },
     "control-label": {
-      "codepoint": 57689,
+      "codepoint": 57692,
       "fontFamily": "Ix",
       "identifier": "controlLabel"
     },
     "control-list-box": {
-      "codepoint": 57690,
+      "codepoint": 57693,
       "fontFamily": "Ix",
       "identifier": "controlListBox"
     },
     "control-radiobutton": {
-      "codepoint": 57691,
+      "codepoint": 57694,
       "fontFamily": "Ix",
       "identifier": "controlRadiobutton"
     },
     "control-select": {
-      "codepoint": 57692,
+      "codepoint": 57695,
       "fontFamily": "Ix",
       "identifier": "controlSelect"
     },
     "control-slider": {
-      "codepoint": 57693,
+      "codepoint": 57696,
       "fontFamily": "Ix",
       "identifier": "controlSlider"
     },
     "control-spinner": {
-      "codepoint": 57694,
+      "codepoint": 57697,
       "fontFamily": "Ix",
       "identifier": "controlSpinner"
     },
     "control-switch": {
-      "codepoint": 57695,
+      "codepoint": 57698,
       "fontFamily": "Ix",
       "identifier": "controlSwitch"
     },
     "control-text-button": {
-      "codepoint": 57696,
+      "codepoint": 57699,
       "fontFamily": "Ix",
       "identifier": "controlTextButton"
     },
     "control-textbox": {
-      "codepoint": 57697,
+      "codepoint": 57700,
       "fontFamily": "Ix",
       "identifier": "controlTextbox"
     },
     "control-touch-area": {
-      "codepoint": 57698,
+      "codepoint": 57701,
       "fontFamily": "Ix",
       "identifier": "controlTouchArea"
     },
     "control-value-bar": {
-      "codepoint": 57699,
+      "codepoint": 57702,
       "fontFamily": "Ix",
       "identifier": "controlValueBar"
     },
     "controlled-device": {
-      "codepoint": 57700,
+      "codepoint": 57703,
       "fontFamily": "Ix",
       "identifier": "controlledDevice"
     },
     "controller-device": {
-      "codepoint": 57701,
+      "codepoint": 57704,
       "fontFamily": "Ix",
       "identifier": "controllerDevice"
     },
+    "controller-device-safety": {
+      "codepoint": 57705,
+      "fontFamily": "Ix",
+      "identifier": "controllerDeviceSafety"
+    },
     "conversation": {
-      "codepoint": 57702,
+      "codepoint": 57706,
       "fontFamily": "Ix",
       "identifier": "conversation"
     },
     "conversation-filled": {
-      "codepoint": 57703,
+      "codepoint": 57707,
       "fontFamily": "Ix",
       "identifier": "conversationFilled"
     },
     "copy": {
-      "codepoint": 57704,
+      "codepoint": 57708,
       "fontFamily": "Ix",
       "identifier": "copy"
     },
     "copy-filled": {
-      "codepoint": 57705,
+      "codepoint": 57709,
       "fontFamily": "Ix",
       "identifier": "copyFilled"
     },
     "corner-arrow-up-left": {
-      "codepoint": 57706,
+      "codepoint": 57710,
       "fontFamily": "Ix",
       "identifier": "cornerArrowUpLeft"
     },
     "couch": {
-      "codepoint": 57707,
+      "codepoint": 57711,
       "fontFamily": "Ix",
       "identifier": "couch"
     },
     "couch-filled": {
-      "codepoint": 57708,
+      "codepoint": 57712,
       "fontFamily": "Ix",
       "identifier": "couchFilled"
     },
     "counter": {
-      "codepoint": 57709,
+      "codepoint": 57713,
       "fontFamily": "Ix",
       "identifier": "counter"
     },
     "create-plant": {
-      "codepoint": 57710,
+      "codepoint": 57714,
       "fontFamily": "Ix",
       "identifier": "createPlant"
     },
     "create-plant-filled": {
-      "codepoint": 57711,
+      "codepoint": 57715,
       "fontFamily": "Ix",
       "identifier": "createPlantFilled"
     },
     "crosshairs": {
-      "codepoint": 57712,
+      "codepoint": 57716,
       "fontFamily": "Ix",
       "identifier": "crosshairs"
     },
     "crosshairs-filled": {
-      "codepoint": 57713,
+      "codepoint": 57717,
       "fontFamily": "Ix",
       "identifier": "crosshairsFilled"
     },
     "customer": {
-      "codepoint": 57714,
+      "codepoint": 57718,
       "fontFamily": "Ix",
       "identifier": "customer"
     },
     "customer-filled": {
-      "codepoint": 57715,
+      "codepoint": 57719,
       "fontFamily": "Ix",
       "identifier": "customerFilled"
     },
     "cut": {
-      "codepoint": 57716,
+      "codepoint": 57720,
       "fontFamily": "Ix",
       "identifier": "cut"
     },
     "cut-filled": {
-      "codepoint": 57717,
+      "codepoint": 57721,
       "fontFamily": "Ix",
       "identifier": "cutFilled"
     },
     "cycle": {
-      "codepoint": 57718,
+      "codepoint": 57722,
       "fontFamily": "Ix",
       "identifier": "cycle"
     },
     "cycle-alt": {
-      "codepoint": 57719,
+      "codepoint": 57723,
       "fontFamily": "Ix",
       "identifier": "cycleAlt"
     },
     "dashboard": {
-      "codepoint": 57720,
+      "codepoint": 57724,
       "fontFamily": "Ix",
       "identifier": "dashboard"
     },
     "dashboard-filled": {
-      "codepoint": 57721,
+      "codepoint": 57725,
       "fontFamily": "Ix",
       "identifier": "dashboardFilled"
     },
     "dashboard-pen": {
-      "codepoint": 57722,
+      "codepoint": 57726,
       "fontFamily": "Ix",
       "identifier": "dashboardPen"
     },
     "dashboard-pen-filled": {
-      "codepoint": 57723,
+      "codepoint": 57727,
       "fontFamily": "Ix",
       "identifier": "dashboardPenFilled"
     },
     "data-egress": {
-      "codepoint": 57724,
+      "codepoint": 57728,
       "fontFamily": "Ix",
       "identifier": "dataEgress"
     },
     "data-ingress": {
-      "codepoint": 57725,
+      "codepoint": 57729,
       "fontFamily": "Ix",
       "identifier": "dataIngress"
     },
     "data-ingress-egress": {
-      "codepoint": 57726,
+      "codepoint": 57730,
       "fontFamily": "Ix",
       "identifier": "dataIngressEgress"
     },
     "data-management": {
-      "codepoint": 57727,
+      "codepoint": 57731,
       "fontFamily": "Ix",
       "identifier": "dataManagement"
     },
     "data-management-filled": {
-      "codepoint": 57728,
+      "codepoint": 57732,
       "fontFamily": "Ix",
       "identifier": "dataManagementFilled"
     },
     "data-type-boolean": {
-      "codepoint": 57729,
+      "codepoint": 57733,
       "fontFamily": "Ix",
       "identifier": "dataTypeBoolean"
     },
     "data-type-double": {
-      "codepoint": 57730,
+      "codepoint": 57734,
       "fontFamily": "Ix",
       "identifier": "dataTypeDouble"
     },
     "data-type-enum": {
-      "codepoint": 57731,
+      "codepoint": 57735,
       "fontFamily": "Ix",
       "identifier": "dataTypeEnum"
     },
     "data-type-integer": {
-      "codepoint": 57732,
+      "codepoint": 57736,
       "fontFamily": "Ix",
       "identifier": "dataTypeInteger"
     },
     "data-type-string": {
-      "codepoint": 57733,
+      "codepoint": 57737,
       "fontFamily": "Ix",
       "identifier": "dataTypeString"
     },
     "data-type-string-list": {
-      "codepoint": 57734,
+      "codepoint": 57738,
       "fontFamily": "Ix",
       "identifier": "dataTypeStringList"
     },
     "database": {
-      "codepoint": 57735,
+      "codepoint": 57739,
       "fontFamily": "Ix",
       "identifier": "database"
     },
     "database-arrow-left": {
-      "codepoint": 57736,
+      "codepoint": 57740,
       "fontFamily": "Ix",
       "identifier": "databaseArrowLeft"
     },
     "database-filled": {
-      "codepoint": 57737,
+      "codepoint": 57741,
       "fontFamily": "Ix",
       "identifier": "databaseFilled"
     },
+    "database-safety": {
+      "codepoint": 57742,
+      "fontFamily": "Ix",
+      "identifier": "databaseSafety"
+    },
     "details": {
-      "codepoint": 57738,
+      "codepoint": 57743,
       "fontFamily": "Ix",
       "identifier": "details"
     },
     "device-driver": {
-      "codepoint": 57739,
+      "codepoint": 57744,
       "fontFamily": "Ix",
       "identifier": "deviceDriver"
     },
     "device-fan": {
-      "codepoint": 57740,
+      "codepoint": 57745,
       "fontFamily": "Ix",
       "identifier": "deviceFan"
     },
     "device-manager": {
-      "codepoint": 57741,
+      "codepoint": 57746,
       "fontFamily": "Ix",
       "identifier": "deviceManager"
     },
     "device-play": {
-      "codepoint": 57742,
+      "codepoint": 57747,
       "fontFamily": "Ix",
       "identifier": "devicePlay"
     },
     "device-play-filled": {
-      "codepoint": 57743,
+      "codepoint": 57748,
       "fontFamily": "Ix",
       "identifier": "devicePlayFilled"
     },
     "device-view-flat": {
-      "codepoint": 57744,
+      "codepoint": 57749,
       "fontFamily": "Ix",
       "identifier": "deviceViewFlat"
     },
     "device-view-hierarchical": {
-      "codepoint": 57745,
+      "codepoint": 57750,
       "fontFamily": "Ix",
       "identifier": "deviceViewHierarchical"
     },
     "diagram-module": {
-      "codepoint": 57746,
+      "codepoint": 57751,
       "fontFamily": "Ix",
       "identifier": "diagramModule"
     },
     "diagram-module-library": {
-      "codepoint": 57747,
+      "codepoint": 57752,
       "fontFamily": "Ix",
       "identifier": "diagramModuleLibrary"
     },
     "diagram-module-new": {
-      "codepoint": 57748,
+      "codepoint": 57753,
       "fontFamily": "Ix",
       "identifier": "diagramModuleNew"
     },
     "diamond": {
-      "codepoint": 57749,
+      "codepoint": 57754,
       "fontFamily": "Ix",
       "identifier": "diamond"
     },
     "disconnected": {
-      "codepoint": 57750,
+      "codepoint": 57755,
       "fontFamily": "Ix",
       "identifier": "disconnected"
     },
+    "disconnected-circle": {
+      "codepoint": 57756,
+      "fontFamily": "Ix",
+      "identifier": "disconnectedCircle"
+    },
+    "disconnected-circle-filled": {
+      "codepoint": 57757,
+      "fontFamily": "Ix",
+      "identifier": "disconnectedCircleFilled"
+    },
     "disk": {
-      "codepoint": 57751,
+      "codepoint": 57758,
       "fontFamily": "Ix",
       "identifier": "disk"
     },
     "disk-filled": {
-      "codepoint": 57752,
+      "codepoint": 57759,
       "fontFamily": "Ix",
       "identifier": "diskFilled"
     },
     "disk-pen": {
-      "codepoint": 57753,
+      "codepoint": 57760,
       "fontFamily": "Ix",
       "identifier": "diskPen"
     },
     "distribute-objects-horizontally": {
-      "codepoint": 57754,
+      "codepoint": 57761,
       "fontFamily": "Ix",
       "identifier": "distributeObjectsHorizontally"
     },
     "distribute-objects-vertically": {
-      "codepoint": 57755,
+      "codepoint": 57762,
       "fontFamily": "Ix",
       "identifier": "distributeObjectsVertically"
     },
     "distribution": {
-      "codepoint": 57756,
+      "codepoint": 57763,
       "fontFamily": "Ix",
       "identifier": "distribution"
     },
     "doc-document": {
-      "codepoint": 57757,
+      "codepoint": 57764,
       "fontFamily": "Ix",
       "identifier": "docDocument"
     },
     "document": {
-      "codepoint": 57758,
+      "codepoint": 57765,
       "fontFamily": "Ix",
       "identifier": "document"
     },
     "document-bulk": {
-      "codepoint": 57759,
+      "codepoint": 57766,
       "fontFamily": "Ix",
       "identifier": "documentBulk"
     },
     "document-code": {
-      "codepoint": 57760,
+      "codepoint": 57767,
       "fontFamily": "Ix",
       "identifier": "documentCode"
     },
     "document-code-filled": {
-      "codepoint": 57761,
+      "codepoint": 57768,
       "fontFamily": "Ix",
       "identifier": "documentCodeFilled"
     },
     "document-fail": {
-      "codepoint": 57762,
+      "codepoint": 57769,
       "fontFamily": "Ix",
       "identifier": "documentFail"
     },
     "document-filled": {
-      "codepoint": 57763,
+      "codepoint": 57770,
       "fontFamily": "Ix",
       "identifier": "documentFilled"
     },
     "document-info": {
-      "codepoint": 57764,
+      "codepoint": 57771,
       "fontFamily": "Ix",
       "identifier": "documentInfo"
     },
     "document-link": {
-      "codepoint": 57765,
+      "codepoint": 57772,
       "fontFamily": "Ix",
       "identifier": "documentLink"
     },
     "document-management": {
-      "codepoint": 57766,
+      "codepoint": 57773,
       "fontFamily": "Ix",
       "identifier": "documentManagement"
     },
     "document-mapping": {
-      "codepoint": 57767,
+      "codepoint": 57774,
       "fontFamily": "Ix",
       "identifier": "documentMapping"
     },
     "document-mapping-filled": {
-      "codepoint": 57768,
+      "codepoint": 57775,
       "fontFamily": "Ix",
       "identifier": "documentMappingFilled"
     },
     "document-plus-minus": {
-      "codepoint": 57769,
+      "codepoint": 57776,
       "fontFamily": "Ix",
       "identifier": "documentPlusMinus"
     },
     "document-plus-minus-filled": {
-      "codepoint": 57770,
+      "codepoint": 57777,
       "fontFamily": "Ix",
       "identifier": "documentPlusMinusFilled"
     },
     "document-program": {
-      "codepoint": 57771,
+      "codepoint": 57778,
       "fontFamily": "Ix",
       "identifier": "documentProgram"
     },
     "document-program-filled": {
-      "codepoint": 57772,
+      "codepoint": 57779,
       "fontFamily": "Ix",
       "identifier": "documentProgramFilled"
     },
     "document-reference": {
-      "codepoint": 57773,
+      "codepoint": 57780,
       "fontFamily": "Ix",
       "identifier": "documentReference"
     },
     "document-settings": {
-      "codepoint": 57774,
+      "codepoint": 57781,
       "fontFamily": "Ix",
       "identifier": "documentSettings"
     },
     "document-success": {
-      "codepoint": 57775,
+      "codepoint": 57782,
       "fontFamily": "Ix",
       "identifier": "documentSuccess"
     },
     "double-check": {
-      "codepoint": 57776,
+      "codepoint": 57783,
       "fontFamily": "Ix",
       "identifier": "doubleCheck"
     },
     "double-chevron-down": {
-      "codepoint": 57777,
+      "codepoint": 57784,
       "fontFamily": "Ix",
       "identifier": "doubleChevronDown"
     },
     "double-chevron-left": {
-      "codepoint": 57778,
+      "codepoint": 57785,
       "fontFamily": "Ix",
       "identifier": "doubleChevronLeft"
     },
     "double-chevron-right": {
-      "codepoint": 57779,
+      "codepoint": 57786,
       "fontFamily": "Ix",
       "identifier": "doubleChevronRight"
     },
     "double-chevron-up": {
-      "codepoint": 57780,
+      "codepoint": 57787,
       "fontFamily": "Ix",
       "identifier": "doubleChevronUp"
     },
     "doublet": {
-      "codepoint": 57781,
+      "codepoint": 57788,
       "fontFamily": "Ix",
       "identifier": "doublet"
     },
     "doublet-filled": {
-      "codepoint": 57782,
+      "codepoint": 57789,
       "fontFamily": "Ix",
       "identifier": "doubletFilled"
     },
     "doughnutchart": {
-      "codepoint": 57783,
+      "codepoint": 57790,
       "fontFamily": "Ix",
       "identifier": "doughnutchart"
     },
     "doughnutchart-filled": {
-      "codepoint": 57784,
+      "codepoint": 57791,
       "fontFamily": "Ix",
       "identifier": "doughnutchartFilled"
     },
     "download": {
-      "codepoint": 57785,
+      "codepoint": 57792,
       "fontFamily": "Ix",
       "identifier": "download"
     },
     "download-add": {
-      "codepoint": 57786,
+      "codepoint": 57793,
       "fontFamily": "Ix",
       "identifier": "downloadAdd"
     },
     "download-delta": {
-      "codepoint": 57787,
+      "codepoint": 57794,
       "fontFamily": "Ix",
       "identifier": "downloadDelta"
     },
     "download-full": {
-      "codepoint": 57788,
+      "codepoint": 57795,
       "fontFamily": "Ix",
       "identifier": "downloadFull"
     },
     "download-list": {
-      "codepoint": 57789,
+      "codepoint": 57796,
       "fontFamily": "Ix",
       "identifier": "downloadList"
     },
     "downtime": {
-      "codepoint": 57790,
+      "codepoint": 57797,
       "fontFamily": "Ix",
       "identifier": "downtime"
     },
     "drag-and-drop": {
-      "codepoint": 57791,
+      "codepoint": 57798,
       "fontFamily": "Ix",
       "identifier": "dragAndDrop"
     },
     "drag-gripper": {
-      "codepoint": 57792,
+      "codepoint": 57799,
       "fontFamily": "Ix",
       "identifier": "dragGripper"
     },
     "draw-circle": {
-      "codepoint": 57793,
+      "codepoint": 57800,
       "fontFamily": "Ix",
       "identifier": "drawCircle"
     },
     "draw-circle-arc": {
-      "codepoint": 57794,
+      "codepoint": 57801,
       "fontFamily": "Ix",
       "identifier": "drawCircleArc"
     },
     "draw-circle-segment": {
-      "codepoint": 57795,
+      "codepoint": 57802,
       "fontFamily": "Ix",
       "identifier": "drawCircleSegment"
     },
     "draw-ellipse-segment": {
-      "codepoint": 57796,
+      "codepoint": 57803,
       "fontFamily": "Ix",
       "identifier": "drawEllipseSegment"
     },
     "drawer-documents": {
-      "codepoint": 57797,
+      "codepoint": 57804,
       "fontFamily": "Ix",
       "identifier": "drawerDocuments"
     },
     "drawing-document": {
-      "codepoint": 57798,
+      "codepoint": 57805,
       "fontFamily": "Ix",
       "identifier": "drawingDocument"
     },
     "drawing-document-filled": {
-      "codepoint": 57799,
+      "codepoint": 57806,
       "fontFamily": "Ix",
       "identifier": "drawingDocumentFilled"
     },
     "drive": {
-      "codepoint": 57800,
+      "codepoint": 57807,
       "fontFamily": "Ix",
       "identifier": "drive"
     },
+    "drive-safety": {
+      "codepoint": 57808,
+      "fontFamily": "Ix",
+      "identifier": "driveSafety"
+    },
     "drop": {
-      "codepoint": 57801,
+      "codepoint": 57809,
       "fontFamily": "Ix",
       "identifier": "drop"
     },
     "drop-zone": {
-      "codepoint": 57802,
+      "codepoint": 57810,
       "fontFamily": "Ix",
       "identifier": "dropZone"
     },
     "duplicate": {
-      "codepoint": 57803,
+      "codepoint": 57811,
       "fontFamily": "Ix",
       "identifier": "duplicate"
     },
     "duplicate-document": {
-      "codepoint": 57804,
+      "codepoint": 57812,
       "fontFamily": "Ix",
       "identifier": "duplicateDocument"
     },
     "duplicate-filled": {
-      "codepoint": 57805,
+      "codepoint": 57813,
       "fontFamily": "Ix",
       "identifier": "duplicateFilled"
     },
     "e-mail": {
-      "codepoint": 57806,
+      "codepoint": 57814,
       "fontFamily": "Ix",
       "identifier": "eMail"
     },
     "e-mail-filled": {
-      "codepoint": 57807,
+      "codepoint": 57815,
       "fontFamily": "Ix",
       "identifier": "eMailFilled"
     },
     "earth": {
-      "codepoint": 57808,
+      "codepoint": 57816,
       "fontFamily": "Ix",
       "identifier": "earth"
     },
     "earth-filled": {
-      "codepoint": 57809,
+      "codepoint": 57817,
       "fontFamily": "Ix",
       "identifier": "earthFilled"
     },
     "edit-document": {
-      "codepoint": 57810,
+      "codepoint": 57818,
       "fontFamily": "Ix",
       "identifier": "editDocument"
     },
     "edit-document-filled": {
-      "codepoint": 57811,
+      "codepoint": 57819,
       "fontFamily": "Ix",
       "identifier": "editDocumentFilled"
     },
     "edit-plant": {
-      "codepoint": 57812,
+      "codepoint": 57820,
       "fontFamily": "Ix",
       "identifier": "editPlant"
     },
     "edit-plant-filled": {
-      "codepoint": 57813,
+      "codepoint": 57821,
       "fontFamily": "Ix",
       "identifier": "editPlantFilled"
     },
     "editor-grid": {
-      "codepoint": 57814,
+      "codepoint": 57822,
       "fontFamily": "Ix",
       "identifier": "editorGrid"
     },
     "editor-grid-dots": {
-      "codepoint": 57815,
+      "codepoint": 57823,
       "fontFamily": "Ix",
       "identifier": "editorGridDots"
     },
     "editor-grid-lines": {
-      "codepoint": 57816,
+      "codepoint": 57824,
       "fontFamily": "Ix",
       "identifier": "editorGridLines"
     },
     "editor-grid-magnet": {
-      "codepoint": 57817,
+      "codepoint": 57825,
       "fontFamily": "Ix",
       "identifier": "editorGridMagnet"
     },
     "editor-grid-none": {
-      "codepoint": 57818,
+      "codepoint": 57826,
       "fontFamily": "Ix",
       "identifier": "editorGridNone"
     },
     "editor-guide-lines-magnet": {
-      "codepoint": 57819,
+      "codepoint": 57827,
       "fontFamily": "Ix",
       "identifier": "editorGuideLinesMagnet"
     },
     "editor-guides": {
-      "codepoint": 57820,
+      "codepoint": 57828,
       "fontFamily": "Ix",
       "identifier": "editorGuides"
     },
     "editor-resources": {
-      "codepoint": 57821,
+      "codepoint": 57829,
       "fontFamily": "Ix",
       "identifier": "editorResources"
     },
     "electrical-energy": {
-      "codepoint": 57822,
+      "codepoint": 57830,
       "fontFamily": "Ix",
       "identifier": "electricalEnergy"
     },
     "electrical-energy-filled": {
-      "codepoint": 57823,
+      "codepoint": 57831,
       "fontFamily": "Ix",
       "identifier": "electricalEnergyFilled"
     },
     "element": {
-      "codepoint": 57824,
+      "codepoint": 57832,
       "fontFamily": "Ix",
       "identifier": "element"
     },
     "element-filled": {
-      "codepoint": 57825,
+      "codepoint": 57833,
       "fontFamily": "Ix",
       "identifier": "elementFilled"
     },
     "ellipse": {
-      "codepoint": 57826,
+      "codepoint": 57834,
       "fontFamily": "Ix",
       "identifier": "ellipse"
     },
     "ellipse-arc": {
-      "codepoint": 57827,
+      "codepoint": 57835,
       "fontFamily": "Ix",
       "identifier": "ellipseArc"
     },
     "ellipse-filled": {
-      "codepoint": 57828,
+      "codepoint": 57836,
       "fontFamily": "Ix",
       "identifier": "ellipseFilled"
     },
     "email-document": {
-      "codepoint": 57829,
+      "codepoint": 57837,
       "fontFamily": "Ix",
       "identifier": "emailDocument"
     },
     "email-document-filled": {
-      "codepoint": 57830,
+      "codepoint": 57838,
       "fontFamily": "Ix",
       "identifier": "emailDocumentFilled"
     },
     "emergency-stop": {
-      "codepoint": 57831,
+      "codepoint": 57839,
       "fontFamily": "Ix",
       "identifier": "emergencyStop"
     },
+    "emergency-stop-filled": {
+      "codepoint": 57840,
+      "fontFamily": "Ix",
+      "identifier": "emergencyStopFilled"
+    },
     "emote-happy": {
-      "codepoint": 57832,
+      "codepoint": 57841,
       "fontFamily": "Ix",
       "identifier": "emoteHappy"
     },
     "emote-happy-filled": {
-      "codepoint": 57833,
+      "codepoint": 57842,
       "fontFamily": "Ix",
       "identifier": "emoteHappyFilled"
     },
     "emote-neutral": {
-      "codepoint": 57834,
+      "codepoint": 57843,
       "fontFamily": "Ix",
       "identifier": "emoteNeutral"
     },
     "emote-neutral-filled": {
-      "codepoint": 57835,
+      "codepoint": 57844,
       "fontFamily": "Ix",
       "identifier": "emoteNeutralFilled"
     },
     "emote-sad": {
-      "codepoint": 57836,
+      "codepoint": 57845,
       "fontFamily": "Ix",
       "identifier": "emoteSad"
     },
     "emote-sad-filled": {
-      "codepoint": 57837,
+      "codepoint": 57846,
       "fontFamily": "Ix",
       "identifier": "emoteSadFilled"
     },
     "error": {
-      "codepoint": 57838,
+      "codepoint": 57847,
       "fontFamily": "Ix",
       "identifier": "error"
     },
     "error-filled": {
-      "codepoint": 57839,
+      "codepoint": 57848,
       "fontFamily": "Ix",
       "identifier": "errorFilled"
     },
     "error-multiple": {
-      "codepoint": 57840,
+      "codepoint": 57849,
       "fontFamily": "Ix",
       "identifier": "errorMultiple"
     },
     "error-multiple-filled": {
-      "codepoint": 57841,
+      "codepoint": 57850,
       "fontFamily": "Ix",
       "identifier": "errorMultipleFilled"
     },
     "exclamation-mark": {
-      "codepoint": 57842,
+      "codepoint": 57851,
       "fontFamily": "Ix",
       "identifier": "exclamationMark"
     },
     "expand-all": {
-      "codepoint": 57843,
+      "codepoint": 57852,
       "fontFamily": "Ix",
       "identifier": "expandAll"
     },
     "explore": {
-      "codepoint": 57844,
+      "codepoint": 57853,
       "fontFamily": "Ix",
       "identifier": "explore"
     },
     "explore-filled": {
-      "codepoint": 57845,
+      "codepoint": 57854,
       "fontFamily": "Ix",
       "identifier": "exploreFilled"
     },
     "export": {
-      "codepoint": 57846,
+      "codepoint": 57855,
       "fontFamily": "Ix",
       "identifier": "export_"
     },
     "export-check": {
-      "codepoint": 57847,
+      "codepoint": 57856,
       "fontFamily": "Ix",
       "identifier": "exportCheck"
     },
     "export-failed": {
-      "codepoint": 57848,
+      "codepoint": 57857,
       "fontFamily": "Ix",
       "identifier": "exportFailed"
     },
     "export-progress": {
-      "codepoint": 57849,
+      "codepoint": 57858,
       "fontFamily": "Ix",
       "identifier": "exportProgress"
     },
     "extension": {
-      "codepoint": 57850,
+      "codepoint": 57859,
       "fontFamily": "Ix",
       "identifier": "extension_"
     },
     "external-encoder": {
-      "codepoint": 57851,
+      "codepoint": 57860,
       "fontFamily": "Ix",
       "identifier": "externalEncoder"
     },
     "eye": {
-      "codepoint": 57852,
+      "codepoint": 57861,
       "fontFamily": "Ix",
       "identifier": "eye"
     },
     "eye-cancelled": {
-      "codepoint": 57853,
+      "codepoint": 57862,
       "fontFamily": "Ix",
       "identifier": "eyeCancelled"
     },
     "eye-cancelled-filled": {
-      "codepoint": 57854,
+      "codepoint": 57863,
       "fontFamily": "Ix",
       "identifier": "eyeCancelledFilled"
     },
     "eye-dropper": {
-      "codepoint": 57855,
+      "codepoint": 57864,
       "fontFamily": "Ix",
       "identifier": "eyeDropper"
     },
     "eye-filled": {
-      "codepoint": 57856,
+      "codepoint": 57865,
       "fontFamily": "Ix",
       "identifier": "eyeFilled"
     },
     "eye-focus": {
-      "codepoint": 57857,
+      "codepoint": 57866,
       "fontFamily": "Ix",
       "identifier": "eyeFocus"
     },
     "eye-magnifying-glass": {
-      "codepoint": 57858,
+      "codepoint": 57867,
       "fontFamily": "Ix",
       "identifier": "eyeMagnifyingGlass"
     },
     "facebook-logo": {
-      "codepoint": 57859,
+      "codepoint": 57868,
       "fontFamily": "Ix",
       "identifier": "facebookLogo"
     },
     "faceplate-container": {
-      "codepoint": 57860,
+      "codepoint": 57869,
       "fontFamily": "Ix",
       "identifier": "faceplateContainer"
     },
     "factory-reset": {
-      "codepoint": 57861,
+      "codepoint": 57870,
       "fontFamily": "Ix",
       "identifier": "factoryReset"
     },
     "factory-reset-filled": {
-      "codepoint": 57862,
+      "codepoint": 57871,
       "fontFamily": "Ix",
       "identifier": "factoryResetFilled"
     },
     "fast-forward": {
-      "codepoint": 57863,
+      "codepoint": 57872,
       "fontFamily": "Ix",
       "identifier": "fastForward"
     },
     "fast-forward-filled": {
-      "codepoint": 57864,
+      "codepoint": 57873,
       "fontFamily": "Ix",
       "identifier": "fastForwardFilled"
     },
     "filter": {
-      "codepoint": 57865,
+      "codepoint": 57874,
       "fontFamily": "Ix",
       "identifier": "filter"
     },
     "filter-filled": {
-      "codepoint": 57866,
+      "codepoint": 57875,
       "fontFamily": "Ix",
       "identifier": "filterFilled"
     },
     "filter-outline": {
-      "codepoint": 57867,
+      "codepoint": 57876,
       "fontFamily": "Ix",
       "identifier": "filterOutline"
     },
     "filter-update": {
-      "codepoint": 57868,
+      "codepoint": 57877,
       "fontFamily": "Ix",
       "identifier": "filterUpdate"
     },
     "firmware": {
-      "codepoint": 57869,
+      "codepoint": 57878,
       "fontFamily": "Ix",
       "identifier": "firmware"
     },
     "fit-to-screen": {
-      "codepoint": 57870,
+      "codepoint": 57879,
       "fontFamily": "Ix",
       "identifier": "fitToScreen"
     },
     "flag": {
-      "codepoint": 57871,
+      "codepoint": 57880,
       "fontFamily": "Ix",
       "identifier": "flag"
     },
     "flag-alt": {
-      "codepoint": 57872,
+      "codepoint": 57881,
       "fontFamily": "Ix",
       "identifier": "flagAlt"
     },
     "flag-alt-filled": {
-      "codepoint": 57873,
+      "codepoint": 57882,
       "fontFamily": "Ix",
       "identifier": "flagAltFilled"
     },
     "flag-filled": {
-      "codepoint": 57874,
+      "codepoint": 57883,
       "fontFamily": "Ix",
       "identifier": "flagFilled"
     },
     "flare": {
-      "codepoint": 57875,
+      "codepoint": 57884,
       "fontFamily": "Ix",
       "identifier": "flare"
     },
     "flashing": {
-      "codepoint": 57876,
+      "codepoint": 57885,
       "fontFamily": "Ix",
       "identifier": "flashing"
     },
     "flow-physically": {
-      "codepoint": 57877,
+      "codepoint": 57886,
       "fontFamily": "Ix",
       "identifier": "flowPhysically"
     },
     "folder": {
-      "codepoint": 57878,
+      "codepoint": 57887,
       "fontFamily": "Ix",
       "identifier": "folder"
     },
     "folder-application-screen": {
-      "codepoint": 57879,
+      "codepoint": 57888,
       "fontFamily": "Ix",
       "identifier": "folderApplicationScreen"
     },
     "folder-collapse-all": {
-      "codepoint": 57880,
+      "codepoint": 57889,
       "fontFamily": "Ix",
       "identifier": "folderCollapseAll"
     },
     "folder-down": {
-      "codepoint": 57881,
+      "codepoint": 57890,
       "fontFamily": "Ix",
       "identifier": "folderDown"
     },
     "folder-down-filled": {
-      "codepoint": 57882,
+      "codepoint": 57891,
       "fontFamily": "Ix",
       "identifier": "folderDownFilled"
     },
     "folder-expand-all": {
-      "codepoint": 57883,
+      "codepoint": 57892,
       "fontFamily": "Ix",
       "identifier": "folderExpandAll"
     },
     "folder-filled": {
-      "codepoint": 57884,
+      "codepoint": 57893,
       "fontFamily": "Ix",
       "identifier": "folderFilled"
     },
     "folder-new": {
-      "codepoint": 57885,
+      "codepoint": 57894,
       "fontFamily": "Ix",
       "identifier": "folderNew"
     },
     "folder-new-filled": {
-      "codepoint": 57886,
+      "codepoint": 57895,
       "fontFamily": "Ix",
       "identifier": "folderNewFilled"
     },
     "folder-new-outline": {
-      "codepoint": 57887,
+      "codepoint": 57896,
       "fontFamily": "Ix",
       "identifier": "folderNewOutline"
     },
     "folder-open": {
-      "codepoint": 57888,
+      "codepoint": 57897,
       "fontFamily": "Ix",
       "identifier": "folderOpen"
     },
     "folder-open-filled": {
-      "codepoint": 57889,
+      "codepoint": 57898,
       "fontFamily": "Ix",
       "identifier": "folderOpenFilled"
     },
     "folder-open-outline": {
-      "codepoint": 57890,
+      "codepoint": 57899,
       "fontFamily": "Ix",
       "identifier": "folderOpenOutline"
     },
     "folder-outline": {
-      "codepoint": 57891,
+      "codepoint": 57900,
       "fontFamily": "Ix",
       "identifier": "folderOutline"
     },
     "folder-tag": {
-      "codepoint": 57892,
+      "codepoint": 57901,
       "fontFamily": "Ix",
       "identifier": "folderTag"
     },
     "folder-up": {
-      "codepoint": 57893,
+      "codepoint": 57902,
       "fontFamily": "Ix",
       "identifier": "folderUp"
     },
     "folder-up-filled": {
-      "codepoint": 57894,
+      "codepoint": 57903,
       "fontFamily": "Ix",
       "identifier": "folderUpFilled"
     },
     "frames": {
-      "codepoint": 57895,
+      "codepoint": 57904,
       "fontFamily": "Ix",
       "identifier": "frames"
     },
     "frames-filled": {
-      "codepoint": 57896,
+      "codepoint": 57905,
       "fontFamily": "Ix",
       "identifier": "framesFilled"
     },
     "full-screeen": {
-      "codepoint": 57897,
+      "codepoint": 57906,
       "fontFamily": "Ix",
       "identifier": "fullScreeen"
     },
     "full-screeen-exit": {
-      "codepoint": 57898,
+      "codepoint": 57907,
       "fontFamily": "Ix",
       "identifier": "fullScreeenExit"
     },
     "full-screen": {
-      "codepoint": 57899,
+      "codepoint": 57908,
       "fontFamily": "Ix",
       "identifier": "fullScreen"
     },
     "full-screen-exit": {
-      "codepoint": 57900,
+      "codepoint": 57909,
       "fontFamily": "Ix",
       "identifier": "fullScreenExit"
     },
     "function-block": {
-      "codepoint": 57901,
+      "codepoint": 57910,
       "fontFamily": "Ix",
       "identifier": "functionBlock"
     },
     "function-block-library": {
-      "codepoint": 57902,
+      "codepoint": 57911,
       "fontFamily": "Ix",
       "identifier": "functionBlockLibrary"
     },
     "function-block-new": {
-      "codepoint": 57903,
+      "codepoint": 57912,
       "fontFamily": "Ix",
       "identifier": "functionBlockNew"
     },
+    "function-block-safety": {
+      "codepoint": 57913,
+      "fontFamily": "Ix",
+      "identifier": "functionBlockSafety"
+    },
     "function-diagram": {
-      "codepoint": 57904,
+      "codepoint": 57914,
       "fontFamily": "Ix",
       "identifier": "functionDiagram"
     },
     "function-diagram-new": {
-      "codepoint": 57905,
+      "codepoint": 57915,
       "fontFamily": "Ix",
       "identifier": "functionDiagramNew"
     },
     "ganttchart": {
-      "codepoint": 57906,
+      "codepoint": 57916,
       "fontFamily": "Ix",
       "identifier": "ganttchart"
     },
     "gauge": {
-      "codepoint": 57907,
+      "codepoint": 57917,
       "fontFamily": "Ix",
       "identifier": "gauge"
     },
     "gauge-filled": {
-      "codepoint": 57908,
+      "codepoint": 57918,
       "fontFamily": "Ix",
       "identifier": "gaugeFilled"
     },
     "gaugechart": {
-      "codepoint": 57909,
+      "codepoint": 57919,
       "fontFamily": "Ix",
       "identifier": "gaugechart"
     },
     "generic-device": {
-      "codepoint": 57910,
+      "codepoint": 57920,
       "fontFamily": "Ix",
       "identifier": "genericDevice"
     },
+    "generic-device-alarm": {
+      "codepoint": 57921,
+      "fontFamily": "Ix",
+      "identifier": "genericDeviceAlarm"
+    },
     "generic-device-brackets": {
-      "codepoint": 57911,
+      "codepoint": 57922,
       "fontFamily": "Ix",
       "identifier": "genericDeviceBrackets"
     },
+    "generic-device-cancelled": {
+      "codepoint": 57923,
+      "fontFamily": "Ix",
+      "identifier": "genericDeviceCancelled"
+    },
+    "generic-device-connected": {
+      "codepoint": 57924,
+      "fontFamily": "Ix",
+      "identifier": "genericDeviceConnected"
+    },
     "generic-device-dashed": {
-      "codepoint": 57912,
+      "codepoint": 57925,
       "fontFamily": "Ix",
       "identifier": "genericDeviceDashed"
     },
+    "generic-device-disconnected": {
+      "codepoint": 57926,
+      "fontFamily": "Ix",
+      "identifier": "genericDeviceDisconnected"
+    },
+    "generic-device-error": {
+      "codepoint": 57927,
+      "fontFamily": "Ix",
+      "identifier": "genericDeviceError"
+    },
+    "generic-device-flare": {
+      "codepoint": 57928,
+      "fontFamily": "Ix",
+      "identifier": "genericDeviceFlare"
+    },
+    "generic-device-forced-mode": {
+      "codepoint": 57929,
+      "fontFamily": "Ix",
+      "identifier": "genericDeviceForcedMode"
+    },
     "generic-device-incompatible": {
-      "codepoint": 57913,
+      "codepoint": 57930,
       "fontFamily": "Ix",
       "identifier": "genericDeviceIncompatible"
     },
+    "generic-device-io-unavailable": {
+      "codepoint": 57931,
+      "fontFamily": "Ix",
+      "identifier": "genericDeviceIoUnavailable"
+    },
+    "generic-device-lock": {
+      "codepoint": 57932,
+      "fontFamily": "Ix",
+      "identifier": "genericDeviceLock"
+    },
+    "generic-device-maintenance": {
+      "codepoint": 57933,
+      "fontFamily": "Ix",
+      "identifier": "genericDeviceMaintenance"
+    },
+    "generic-device-pause": {
+      "codepoint": 57934,
+      "fontFamily": "Ix",
+      "identifier": "genericDevicePause"
+    },
+    "generic-device-play": {
+      "codepoint": 57935,
+      "fontFamily": "Ix",
+      "identifier": "genericDevicePlay"
+    },
+    "generic-device-power-saving": {
+      "codepoint": 57936,
+      "fontFamily": "Ix",
+      "identifier": "genericDevicePowerSaving"
+    },
+    "generic-device-published": {
+      "codepoint": 57937,
+      "fontFamily": "Ix",
+      "identifier": "genericDevicePublished"
+    },
+    "generic-device-question": {
+      "codepoint": 57938,
+      "fontFamily": "Ix",
+      "identifier": "genericDeviceQuestion"
+    },
     "generic-device-refresh": {
-      "codepoint": 57914,
+      "codepoint": 57939,
       "fontFamily": "Ix",
       "identifier": "genericDeviceRefresh"
     },
+    "generic-device-reset": {
+      "codepoint": 57940,
+      "fontFamily": "Ix",
+      "identifier": "genericDeviceReset"
+    },
+    "generic-device-restart": {
+      "codepoint": 57941,
+      "fontFamily": "Ix",
+      "identifier": "genericDeviceRestart"
+    },
+    "generic-device-rocket": {
+      "codepoint": 57942,
+      "fontFamily": "Ix",
+      "identifier": "genericDeviceRocket"
+    },
+    "generic-device-safety": {
+      "codepoint": 57943,
+      "fontFamily": "Ix",
+      "identifier": "genericDeviceSafety"
+    },
+    "generic-device-shield": {
+      "codepoint": 57944,
+      "fontFamily": "Ix",
+      "identifier": "genericDeviceShield"
+    },
+    "generic-device-shutdown": {
+      "codepoint": 57945,
+      "fontFamily": "Ix",
+      "identifier": "genericDeviceShutdown"
+    },
+    "generic-device-slash": {
+      "codepoint": 57946,
+      "fontFamily": "Ix",
+      "identifier": "genericDeviceSlash"
+    },
+    "generic-device-software-alarm": {
+      "codepoint": 57947,
+      "fontFamily": "Ix",
+      "identifier": "genericDeviceSoftwareAlarm"
+    },
+    "generic-device-standby": {
+      "codepoint": 57948,
+      "fontFamily": "Ix",
+      "identifier": "genericDeviceStandby"
+    },
+    "generic-device-stop": {
+      "codepoint": 57949,
+      "fontFamily": "Ix",
+      "identifier": "genericDeviceStop"
+    },
+    "generic-device-stop-userprogram": {
+      "codepoint": 57950,
+      "fontFamily": "Ix",
+      "identifier": "genericDeviceStopUserprogram"
+    },
+    "generic-device-success": {
+      "codepoint": 57951,
+      "fontFamily": "Ix",
+      "identifier": "genericDeviceSuccess"
+    },
     "generic-device-synchronized": {
-      "codepoint": 57915,
+      "codepoint": 57952,
       "fontFamily": "Ix",
       "identifier": "genericDeviceSynchronized"
     },
+    "generic-device-traffic": {
+      "codepoint": 57953,
+      "fontFamily": "Ix",
+      "identifier": "genericDeviceTraffic"
+    },
     "github-logo": {
-      "codepoint": 57916,
+      "codepoint": 57954,
       "fontFamily": "Ix",
       "identifier": "githubLogo"
     },
     "glasses-play": {
-      "codepoint": 57917,
+      "codepoint": 57955,
       "fontFamily": "Ix",
       "identifier": "glassesPlay"
     },
     "global-plant": {
-      "codepoint": 57918,
+      "codepoint": 57956,
       "fontFamily": "Ix",
       "identifier": "globalPlant"
     },
     "global-plant-filled": {
-      "codepoint": 57919,
+      "codepoint": 57957,
       "fontFamily": "Ix",
       "identifier": "globalPlantFilled"
     },
     "globe": {
-      "codepoint": 57920,
+      "codepoint": 57958,
       "fontFamily": "Ix",
       "identifier": "globe"
     },
     "globe-filled": {
-      "codepoint": 57921,
+      "codepoint": 57959,
       "fontFamily": "Ix",
       "identifier": "globeFilled"
     },
     "globe-tag": {
-      "codepoint": 57922,
+      "codepoint": 57960,
       "fontFamily": "Ix",
       "identifier": "globeTag"
     },
     "goto": {
-      "codepoint": 57923,
+      "codepoint": 57961,
       "fontFamily": "Ix",
       "identifier": "goto"
     },
     "graph": {
-      "codepoint": 57924,
+      "codepoint": 57962,
       "fontFamily": "Ix",
       "identifier": "graph"
     },
     "graph-filled": {
-      "codepoint": 57925,
+      "codepoint": 57963,
       "fontFamily": "Ix",
       "identifier": "graphFilled"
     },
     "grid-pen": {
-      "codepoint": 57926,
+      "codepoint": 57964,
       "fontFamily": "Ix",
       "identifier": "gridPen"
     },
     "group": {
-      "codepoint": 57927,
+      "codepoint": 57965,
       "fontFamily": "Ix",
       "identifier": "group"
     },
     "group-objects": {
-      "codepoint": 57928,
+      "codepoint": 57966,
       "fontFamily": "Ix",
       "identifier": "groupObjects"
     },
     "hand": {
-      "codepoint": 57929,
+      "codepoint": 57967,
       "fontFamily": "Ix",
       "identifier": "hand"
     },
     "hand-filled": {
-      "codepoint": 57930,
+      "codepoint": 57968,
       "fontFamily": "Ix",
       "identifier": "handFilled"
     },
     "handshake": {
-      "codepoint": 57931,
+      "codepoint": 57969,
       "fontFamily": "Ix",
       "identifier": "handshake"
     },
     "hard-disk-drive": {
-      "codepoint": 57932,
+      "codepoint": 57970,
       "fontFamily": "Ix",
       "identifier": "hardDiskDrive"
     },
     "hard-reset": {
-      "codepoint": 57933,
+      "codepoint": 57971,
       "fontFamily": "Ix",
       "identifier": "hardReset"
     },
     "hardware-cabinet": {
-      "codepoint": 57934,
+      "codepoint": 57972,
       "fontFamily": "Ix",
       "identifier": "hardwareCabinet"
     },
     "hat-man": {
-      "codepoint": 57935,
+      "codepoint": 57973,
       "fontFamily": "Ix",
       "identifier": "hatMan"
     },
     "hat-man-filled": {
-      "codepoint": 57936,
+      "codepoint": 57974,
       "fontFamily": "Ix",
       "identifier": "hatManFilled"
     },
     "heading": {
-      "codepoint": 57937,
+      "codepoint": 57975,
       "fontFamily": "Ix",
       "identifier": "heading"
     },
     "health": {
-      "codepoint": 57938,
+      "codepoint": 57976,
       "fontFamily": "Ix",
       "identifier": "health"
     },
     "health-filled": {
-      "codepoint": 57939,
+      "codepoint": 57977,
       "fontFamily": "Ix",
       "identifier": "healthFilled"
     },
     "heart": {
-      "codepoint": 57940,
+      "codepoint": 57978,
       "fontFamily": "Ix",
       "identifier": "heart"
     },
     "heart-filled": {
-      "codepoint": 57941,
+      "codepoint": 57979,
       "fontFamily": "Ix",
       "identifier": "heartFilled"
     },
     "heat-map-chart": {
-      "codepoint": 57942,
+      "codepoint": 57980,
       "fontFamily": "Ix",
       "identifier": "heatMapChart"
     },
     "heat-map-chart-filled": {
-      "codepoint": 57943,
+      "codepoint": 57981,
       "fontFamily": "Ix",
       "identifier": "heatMapChartFilled"
     },
     "height": {
-      "codepoint": 57944,
+      "codepoint": 57982,
       "fontFamily": "Ix",
       "identifier": "height"
     },
     "helmet-safety": {
-      "codepoint": 57945,
+      "codepoint": 57983,
       "fontFamily": "Ix",
       "identifier": "helmetSafety"
     },
     "helmet-safety-filled": {
-      "codepoint": 57946,
+      "codepoint": 57984,
       "fontFamily": "Ix",
       "identifier": "helmetSafetyFilled"
     },
     "hexagon-vertical-bars": {
-      "codepoint": 57947,
+      "codepoint": 57985,
       "fontFamily": "Ix",
       "identifier": "hexagonVerticalBars"
     },
     "hexagon-vertical-bars-database": {
-      "codepoint": 57948,
+      "codepoint": 57986,
       "fontFamily": "Ix",
       "identifier": "hexagonVerticalBarsDatabase"
     },
     "hexagon-vertical-bars-database-filled": {
-      "codepoint": 57949,
+      "codepoint": 57987,
       "fontFamily": "Ix",
       "identifier": "hexagonVerticalBarsDatabaseFilled"
     },
     "hexagon-vertical-bars-filled": {
-      "codepoint": 57950,
+      "codepoint": 57988,
       "fontFamily": "Ix",
       "identifier": "hexagonVerticalBarsFilled"
     },
     "hierarchy": {
-      "codepoint": 57951,
+      "codepoint": 57989,
       "fontFamily": "Ix",
       "identifier": "hierarchy"
     },
     "highlight": {
-      "codepoint": 57952,
+      "codepoint": 57990,
       "fontFamily": "Ix",
       "identifier": "highlight"
     },
     "highlight-filled": {
-      "codepoint": 57953,
+      "codepoint": 57991,
       "fontFamily": "Ix",
       "identifier": "highlightFilled"
     },
     "history": {
-      "codepoint": 57954,
+      "codepoint": 57992,
       "fontFamily": "Ix",
       "identifier": "history"
     },
     "history-list": {
-      "codepoint": 57955,
+      "codepoint": 57993,
       "fontFamily": "Ix",
       "identifier": "historyList"
     },
     "home": {
-      "codepoint": 57956,
+      "codepoint": 57994,
       "fontFamily": "Ix",
       "identifier": "home"
     },
     "home-filled": {
-      "codepoint": 57957,
+      "codepoint": 57995,
       "fontFamily": "Ix",
       "identifier": "homeFilled"
     },
     "hourglass": {
-      "codepoint": 57958,
+      "codepoint": 57996,
       "fontFamily": "Ix",
       "identifier": "hourglass"
     },
     "hourglass-empty": {
-      "codepoint": 57959,
+      "codepoint": 57997,
       "fontFamily": "Ix",
       "identifier": "hourglassEmpty"
     },
     "hourglass-end": {
-      "codepoint": 57960,
+      "codepoint": 57998,
       "fontFamily": "Ix",
       "identifier": "hourglassEnd"
     },
     "hourglass-filled": {
-      "codepoint": 57961,
+      "codepoint": 57999,
       "fontFamily": "Ix",
       "identifier": "hourglassFilled"
     },
     "hourglass-start": {
-      "codepoint": 57962,
+      "codepoint": 58000,
       "fontFamily": "Ix",
       "identifier": "hourglassStart"
     },
     "id": {
-      "codepoint": 57963,
+      "codepoint": 58001,
       "fontFamily": "Ix",
       "identifier": "id"
     },
     "id-filled": {
-      "codepoint": 57964,
+      "codepoint": 58002,
       "fontFamily": "Ix",
       "identifier": "idFilled"
     },
     "image": {
-      "codepoint": 57965,
+      "codepoint": 58003,
       "fontFamily": "Ix",
       "identifier": "image"
     },
     "image-filled": {
-      "codepoint": 57966,
+      "codepoint": 58004,
       "fontFamily": "Ix",
       "identifier": "imageFilled"
     },
     "import": {
-      "codepoint": 57967,
+      "codepoint": 58005,
       "fontFamily": "Ix",
       "identifier": "import_"
     },
     "import-check": {
-      "codepoint": 57968,
+      "codepoint": 58006,
       "fontFamily": "Ix",
       "identifier": "importCheck"
     },
     "import-failed": {
-      "codepoint": 57969,
+      "codepoint": 58007,
       "fontFamily": "Ix",
       "identifier": "importFailed"
     },
     "import-progress": {
-      "codepoint": 57970,
+      "codepoint": 58008,
       "fontFamily": "Ix",
       "identifier": "importProgress"
     },
     "incompatible": {
-      "codepoint": 57971,
+      "codepoint": 58009,
       "fontFamily": "Ix",
       "identifier": "incompatible"
     },
     "indicator": {
-      "codepoint": 57972,
+      "codepoint": 58010,
       "fontFamily": "Ix",
       "identifier": "indicator"
     },
     "indicator-filled": {
-      "codepoint": 57973,
+      "codepoint": 58011,
       "fontFamily": "Ix",
       "identifier": "indicatorFilled"
     },
     "info": {
-      "codepoint": 57974,
+      "codepoint": 58012,
       "fontFamily": "Ix",
       "identifier": "info"
     },
     "info-feed": {
-      "codepoint": 57975,
+      "codepoint": 58013,
       "fontFamily": "Ix",
       "identifier": "infoFeed"
     },
     "info-filled": {
-      "codepoint": 57976,
+      "codepoint": 58014,
       "fontFamily": "Ix",
       "identifier": "infoFilled"
     },
     "info-multiple": {
-      "codepoint": 57977,
+      "codepoint": 58015,
       "fontFamily": "Ix",
       "identifier": "infoMultiple"
     },
     "info-multiple-filled": {
-      "codepoint": 57978,
+      "codepoint": 58016,
       "fontFamily": "Ix",
       "identifier": "infoMultipleFilled"
     },
     "ingestion": {
-      "codepoint": 57979,
+      "codepoint": 58017,
       "fontFamily": "Ix",
       "identifier": "ingestion"
     },
     "ingestion-report": {
-      "codepoint": 57980,
+      "codepoint": 58018,
       "fontFamily": "Ix",
       "identifier": "ingestionReport"
     },
     "ink-pen": {
-      "codepoint": 57981,
+      "codepoint": 58019,
       "fontFamily": "Ix",
       "identifier": "inkPen"
     },
     "ink-pen-add": {
-      "codepoint": 57982,
+      "codepoint": 58020,
       "fontFamily": "Ix",
       "identifier": "inkPenAdd"
     },
     "ink-pen-filled": {
-      "codepoint": 57983,
+      "codepoint": 58021,
       "fontFamily": "Ix",
       "identifier": "inkPenFilled"
     },
     "inquiry": {
-      "codepoint": 57984,
+      "codepoint": 58022,
       "fontFamily": "Ix",
       "identifier": "inquiry"
     },
     "inquiry-filled": {
-      "codepoint": 57985,
+      "codepoint": 58023,
       "fontFamily": "Ix",
       "identifier": "inquiryFilled"
     },
     "inquiry-mail": {
-      "codepoint": 57986,
+      "codepoint": 58024,
       "fontFamily": "Ix",
       "identifier": "inquiryMail"
     },
     "instagram-logo": {
-      "codepoint": 57987,
+      "codepoint": 58025,
       "fontFamily": "Ix",
       "identifier": "instagramLogo"
     },
     "interpreter": {
-      "codepoint": 57988,
+      "codepoint": 58026,
       "fontFamily": "Ix",
       "identifier": "interpreter"
     },
     "interpreter-filled": {
-      "codepoint": 57989,
+      "codepoint": 58027,
       "fontFamily": "Ix",
       "identifier": "interpreterFilled"
     },
     "ipcs": {
-      "codepoint": 57990,
+      "codepoint": 58028,
       "fontFamily": "Ix",
       "identifier": "ipcs"
     },
     "item-details": {
-      "codepoint": 57991,
+      "codepoint": 58029,
       "fontFamily": "Ix",
       "identifier": "itemDetails"
     },
     "item-details-filled": {
-      "codepoint": 57992,
+      "codepoint": 58030,
       "fontFamily": "Ix",
       "identifier": "itemDetailsFilled"
     },
     "java-script": {
-      "codepoint": 57993,
+      "codepoint": 58031,
       "fontFamily": "Ix",
       "identifier": "javaScript"
     },
     "java-script-connection": {
-      "codepoint": 57994,
+      "codepoint": 58032,
       "fontFamily": "Ix",
       "identifier": "javaScriptConnection"
     },
     "jigsaw": {
-      "codepoint": 57995,
+      "codepoint": 58033,
       "fontFamily": "Ix",
       "identifier": "jigsaw"
     },
     "jigsaw-details": {
-      "codepoint": 57996,
+      "codepoint": 58034,
       "fontFamily": "Ix",
       "identifier": "jigsawDetails"
     },
     "jigsaw-details-filled": {
-      "codepoint": 57997,
+      "codepoint": 58035,
       "fontFamily": "Ix",
       "identifier": "jigsawDetailsFilled"
     },
     "jigsaw-filled": {
-      "codepoint": 57998,
+      "codepoint": 58036,
       "fontFamily": "Ix",
       "identifier": "jigsawFilled"
     },
     "join": {
-      "codepoint": 57999,
+      "codepoint": 58037,
       "fontFamily": "Ix",
       "identifier": "join"
     },
     "json-document": {
-      "codepoint": 58000,
+      "codepoint": 58038,
       "fontFamily": "Ix",
       "identifier": "jsonDocument"
     },
     "json-document-filled": {
-      "codepoint": 58001,
+      "codepoint": 58039,
       "fontFamily": "Ix",
       "identifier": "jsonDocumentFilled"
     },
     "key": {
-      "codepoint": 58002,
+      "codepoint": 58040,
       "fontFamily": "Ix",
       "identifier": "key"
     },
     "keyboard": {
-      "codepoint": 58003,
+      "codepoint": 58041,
       "fontFamily": "Ix",
       "identifier": "keyboard"
     },
     "keyboard-docked-bottom": {
-      "codepoint": 58004,
+      "codepoint": 58042,
       "fontFamily": "Ix",
       "identifier": "keyboardDockedBottom"
     },
     "keyboard-floating": {
-      "codepoint": 58005,
+      "codepoint": 58043,
       "fontFamily": "Ix",
       "identifier": "keyboardFloating"
     },
     "keyboard-framed": {
-      "codepoint": 58006,
+      "codepoint": 58044,
       "fontFamily": "Ix",
       "identifier": "keyboardFramed"
     },
     "kinematics": {
-      "codepoint": 58007,
+      "codepoint": 58045,
       "fontFamily": "Ix",
       "identifier": "kinematics"
     },
     "kpi": {
-      "codepoint": 58008,
+      "codepoint": 58046,
       "fontFamily": "Ix",
       "identifier": "kpi"
     },
     "kpi-filled": {
-      "codepoint": 58009,
+      "codepoint": 58047,
       "fontFamily": "Ix",
       "identifier": "kpiFilled"
     },
     "label": {
-      "codepoint": 58010,
+      "codepoint": 58048,
       "fontFamily": "Ix",
       "identifier": "label"
     },
     "label-filled": {
-      "codepoint": 58011,
+      "codepoint": 58049,
       "fontFamily": "Ix",
       "identifier": "labelFilled"
     },
     "landing-page-logo": {
-      "codepoint": 58012,
+      "codepoint": 58050,
       "fontFamily": "Ix",
       "identifier": "landingPageLogo"
     },
     "language": {
-      "codepoint": 58013,
+      "codepoint": 58051,
       "fontFamily": "Ix",
       "identifier": "language"
     },
     "language-filled": {
-      "codepoint": 58014,
+      "codepoint": 58052,
       "fontFamily": "Ix",
       "identifier": "languageFilled"
     },
     "layers": {
-      "codepoint": 58015,
+      "codepoint": 58053,
       "fontFamily": "Ix",
       "identifier": "layers"
     },
     "layers-filled": {
-      "codepoint": 58016,
+      "codepoint": 58054,
       "fontFamily": "Ix",
       "identifier": "layersFilled"
     },
     "leading-axis-proxy": {
-      "codepoint": 58017,
+      "codepoint": 58055,
       "fontFamily": "Ix",
       "identifier": "leadingAxisProxy"
     },
     "leaf": {
-      "codepoint": 58018,
+      "codepoint": 58056,
       "fontFamily": "Ix",
       "identifier": "leaf"
     },
     "legal-circle": {
-      "codepoint": 58019,
+      "codepoint": 58057,
       "fontFamily": "Ix",
       "identifier": "legalCircle"
     },
     "legal-circle-filled": {
-      "codepoint": 58020,
+      "codepoint": 58058,
       "fontFamily": "Ix",
       "identifier": "legalCircleFilled"
     },
     "library": {
-      "codepoint": 58021,
+      "codepoint": 58059,
       "fontFamily": "Ix",
       "identifier": "library_"
     },
     "library-new": {
-      "codepoint": 58022,
+      "codepoint": 58060,
       "fontFamily": "Ix",
       "identifier": "libraryNew"
     },
     "license": {
-      "codepoint": 58023,
+      "codepoint": 58061,
       "fontFamily": "Ix",
       "identifier": "license"
     },
     "light-dark": {
-      "codepoint": 58024,
+      "codepoint": 58062,
       "fontFamily": "Ix",
       "identifier": "lightDark"
     },
     "limits-cancelled": {
-      "codepoint": 58025,
+      "codepoint": 58063,
       "fontFamily": "Ix",
       "identifier": "limitsCancelled"
     },
     "limits-check": {
-      "codepoint": 58026,
+      "codepoint": 58064,
       "fontFamily": "Ix",
       "identifier": "limitsCheck"
     },
     "line-cap-flat": {
-      "codepoint": 58027,
+      "codepoint": 58065,
       "fontFamily": "Ix",
       "identifier": "lineCapFlat"
     },
     "line-cap-round": {
-      "codepoint": 58028,
+      "codepoint": 58066,
       "fontFamily": "Ix",
       "identifier": "lineCapRound"
     },
     "line-cap-square": {
-      "codepoint": 58029,
+      "codepoint": 58067,
       "fontFamily": "Ix",
       "identifier": "lineCapSquare"
     },
     "line-dash": {
-      "codepoint": 58030,
+      "codepoint": 58068,
       "fontFamily": "Ix",
       "identifier": "lineDash"
     },
     "line-dash-dot": {
-      "codepoint": 58031,
+      "codepoint": 58069,
       "fontFamily": "Ix",
       "identifier": "lineDashDot"
     },
     "line-dash-dot-dot": {
-      "codepoint": 58032,
+      "codepoint": 58070,
       "fontFamily": "Ix",
       "identifier": "lineDashDotDot"
     },
     "line-diagonal": {
-      "codepoint": 58033,
+      "codepoint": 58071,
       "fontFamily": "Ix",
       "identifier": "lineDiagonal"
     },
     "line-dot": {
-      "codepoint": 58034,
+      "codepoint": 58072,
       "fontFamily": "Ix",
       "identifier": "lineDot"
     },
     "line-solid": {
-      "codepoint": 58035,
+      "codepoint": 58073,
       "fontFamily": "Ix",
       "identifier": "lineSolid"
     },
     "linechart": {
-      "codepoint": 58036,
+      "codepoint": 58074,
       "fontFamily": "Ix",
       "identifier": "linechart"
     },
     "link": {
-      "codepoint": 58037,
+      "codepoint": 58075,
       "fontFamily": "Ix",
       "identifier": "link"
     },
     "link-break": {
-      "codepoint": 58038,
+      "codepoint": 58076,
       "fontFamily": "Ix",
       "identifier": "linkBreak"
     },
     "link-diagonal": {
-      "codepoint": 58039,
+      "codepoint": 58077,
       "fontFamily": "Ix",
       "identifier": "linkDiagonal"
     },
     "linkedin-logo": {
-      "codepoint": 58040,
+      "codepoint": 58078,
       "fontFamily": "Ix",
       "identifier": "linkedinLogo"
     },
     "list": {
-      "codepoint": 58041,
+      "codepoint": 58079,
       "fontFamily": "Ix",
       "identifier": "list"
     },
     "list-add": {
-      "codepoint": 58042,
+      "codepoint": 58080,
       "fontFamily": "Ix",
       "identifier": "listAdd"
     },
     "list-graphics": {
-      "codepoint": 58043,
+      "codepoint": 58081,
       "fontFamily": "Ix",
       "identifier": "listGraphics"
     },
     "list-graphics-text": {
-      "codepoint": 58044,
+      "codepoint": 58082,
       "fontFamily": "Ix",
       "identifier": "listGraphicsText"
     },
     "list-percentage": {
-      "codepoint": 58045,
+      "codepoint": 58083,
       "fontFamily": "Ix",
       "identifier": "listPercentage"
     },
     "list-remove": {
-      "codepoint": 58046,
+      "codepoint": 58084,
       "fontFamily": "Ix",
       "identifier": "listRemove"
     },
     "list-sorted": {
-      "codepoint": 58047,
+      "codepoint": 58085,
       "fontFamily": "Ix",
       "identifier": "listSorted"
     },
     "list-sorted-alt": {
-      "codepoint": 58048,
+      "codepoint": 58086,
       "fontFamily": "Ix",
       "identifier": "listSortedAlt"
     },
     "list-text": {
-      "codepoint": 58049,
+      "codepoint": 58087,
       "fontFamily": "Ix",
       "identifier": "listText"
     },
     "live-feed": {
-      "codepoint": 58050,
+      "codepoint": 58088,
       "fontFamily": "Ix",
       "identifier": "liveFeed"
     },
     "live-schedule": {
-      "codepoint": 58051,
+      "codepoint": 58089,
       "fontFamily": "Ix",
       "identifier": "liveSchedule"
     },
     "location": {
-      "codepoint": 58052,
+      "codepoint": 58090,
       "fontFamily": "Ix",
       "identifier": "location"
     },
     "location-filled": {
-      "codepoint": 58053,
+      "codepoint": 58091,
       "fontFamily": "Ix",
       "identifier": "locationFilled"
     },
     "location-outline": {
-      "codepoint": 58054,
+      "codepoint": 58092,
       "fontFamily": "Ix",
       "identifier": "locationOutline"
     },
     "lock": {
-      "codepoint": 58055,
+      "codepoint": 58093,
       "fontFamily": "Ix",
       "identifier": "lock"
     },
     "lock-check": {
-      "codepoint": 58056,
+      "codepoint": 58094,
       "fontFamily": "Ix",
       "identifier": "lockCheck"
     },
     "lock-filled": {
-      "codepoint": 58057,
+      "codepoint": 58095,
       "fontFamily": "Ix",
       "identifier": "lockFilled"
     },
     "lock-key": {
-      "codepoint": 58058,
+      "codepoint": 58096,
       "fontFamily": "Ix",
       "identifier": "lockKey"
     },
     "lock-key-filled": {
-      "codepoint": 58059,
+      "codepoint": 58097,
       "fontFamily": "Ix",
       "identifier": "lockKeyFilled"
     },
     "log": {
-      "codepoint": 58060,
+      "codepoint": 58098,
       "fontFamily": "Ix",
       "identifier": "log"
     },
     "log-in": {
-      "codepoint": 58061,
+      "codepoint": 58099,
       "fontFamily": "Ix",
       "identifier": "logIn"
     },
     "log-out": {
-      "codepoint": 58062,
+      "codepoint": 58100,
       "fontFamily": "Ix",
       "identifier": "logOut"
     },
     "logic-diagram": {
-      "codepoint": 58063,
+      "codepoint": 58101,
       "fontFamily": "Ix",
       "identifier": "logicDiagram"
     },
     "longer": {
-      "codepoint": 58064,
+      "codepoint": 58102,
       "fontFamily": "Ix",
       "identifier": "longer"
     },
     "lower-limit": {
-      "codepoint": 58065,
+      "codepoint": 58103,
       "fontFamily": "Ix",
       "identifier": "lowerLimit"
     },
     "machine-a": {
-      "codepoint": 58066,
+      "codepoint": 58104,
       "fontFamily": "Ix",
       "identifier": "machineA"
     },
     "machine-a-filled": {
-      "codepoint": 58067,
+      "codepoint": 58105,
       "fontFamily": "Ix",
       "identifier": "machineAFilled"
     },
     "machine-b": {
-      "codepoint": 58068,
+      "codepoint": 58106,
       "fontFamily": "Ix",
       "identifier": "machineB"
     },
     "machine-b-filled": {
-      "codepoint": 58069,
+      "codepoint": 58107,
       "fontFamily": "Ix",
       "identifier": "machineBFilled"
     },
     "machine-c": {
-      "codepoint": 58070,
+      "codepoint": 58108,
       "fontFamily": "Ix",
       "identifier": "machineC"
     },
     "machine-c-filled": {
-      "codepoint": 58071,
+      "codepoint": 58109,
       "fontFamily": "Ix",
       "identifier": "machineCFilled"
     },
     "magnet": {
-      "codepoint": 58072,
+      "codepoint": 58110,
       "fontFamily": "Ix",
       "identifier": "magnet"
     },
     "magnet-cancelled": {
-      "codepoint": 58073,
+      "codepoint": 58111,
       "fontFamily": "Ix",
       "identifier": "magnetCancelled"
     },
     "mail": {
-      "codepoint": 58074,
+      "codepoint": 58112,
       "fontFamily": "Ix",
       "identifier": "mail"
     },
     "mail-alarm-analog": {
-      "codepoint": 58075,
+      "codepoint": 58113,
       "fontFamily": "Ix",
       "identifier": "mailAlarmAnalog"
     },
     "mail-alarm-classes": {
-      "codepoint": 58076,
+      "codepoint": 58114,
       "fontFamily": "Ix",
       "identifier": "mailAlarmClasses"
     },
     "mail-alarm-discrete": {
-      "codepoint": 58077,
+      "codepoint": 58115,
       "fontFamily": "Ix",
       "identifier": "mailAlarmDiscrete"
     },
     "mail-filled": {
-      "codepoint": 58078,
+      "codepoint": 58116,
       "fontFamily": "Ix",
       "identifier": "mailFilled"
     },
+    "maintenance": {
+      "codepoint": 58117,
+      "fontFamily": "Ix",
+      "identifier": "maintenance"
+    },
     "maintenance-documents": {
-      "codepoint": 58079,
+      "codepoint": 58118,
       "fontFamily": "Ix",
       "identifier": "maintenanceDocuments"
     },
+    "maintenance-filled": {
+      "codepoint": 58119,
+      "fontFamily": "Ix",
+      "identifier": "maintenanceFilled"
+    },
+    "maintenance-info": {
+      "codepoint": 58120,
+      "fontFamily": "Ix",
+      "identifier": "maintenanceInfo"
+    },
+    "maintenance-info-filled": {
+      "codepoint": 58121,
+      "fontFamily": "Ix",
+      "identifier": "maintenanceInfoFilled"
+    },
+    "maintenance-octagon": {
+      "codepoint": 58122,
+      "fontFamily": "Ix",
+      "identifier": "maintenanceOctagon"
+    },
+    "maintenance-octagon-filled": {
+      "codepoint": 58123,
+      "fontFamily": "Ix",
+      "identifier": "maintenanceOctagonFilled"
+    },
+    "maintenance-rhomb": {
+      "codepoint": 58124,
+      "fontFamily": "Ix",
+      "identifier": "maintenanceRhomb"
+    },
+    "maintenance-rhomb-filled": {
+      "codepoint": 58125,
+      "fontFamily": "Ix",
+      "identifier": "maintenanceRhombFilled"
+    },
+    "maintenance-square": {
+      "codepoint": 58126,
+      "fontFamily": "Ix",
+      "identifier": "maintenanceSquare"
+    },
+    "maintenance-square-filled": {
+      "codepoint": 58127,
+      "fontFamily": "Ix",
+      "identifier": "maintenanceSquareFilled"
+    },
+    "maintenance-triangle": {
+      "codepoint": 58128,
+      "fontFamily": "Ix",
+      "identifier": "maintenanceTriangle"
+    },
+    "maintenance-triangle-filled": {
+      "codepoint": 58129,
+      "fontFamily": "Ix",
+      "identifier": "maintenanceTriangleFilled"
+    },
     "maintenance-warning": {
-      "codepoint": 58080,
+      "codepoint": 58130,
       "fontFamily": "Ix",
       "identifier": "maintenanceWarning"
     },
     "maintenance-warning-filled": {
-      "codepoint": 58081,
+      "codepoint": 58131,
       "fontFamily": "Ix",
       "identifier": "maintenanceWarningFilled"
     },
     "mandatory": {
-      "codepoint": 58082,
+      "codepoint": 58132,
       "fontFamily": "Ix",
       "identifier": "mandatory"
     },
     "mandatory-done": {
-      "codepoint": 58083,
+      "codepoint": 58133,
       "fontFamily": "Ix",
       "identifier": "mandatoryDone"
     },
     "map": {
-      "codepoint": 58084,
+      "codepoint": 58134,
       "fontFamily": "Ix",
       "identifier": "map"
     },
     "map-alt-1-filled": {
-      "codepoint": 58085,
+      "codepoint": 58135,
       "fontFamily": "Ix",
       "identifier": "mapAlt1Filled"
     },
     "map-alt-2": {
-      "codepoint": 58086,
+      "codepoint": 58136,
       "fontFamily": "Ix",
       "identifier": "mapAlt2"
     },
     "map-alt-2-filled": {
-      "codepoint": 58087,
+      "codepoint": 58137,
       "fontFamily": "Ix",
       "identifier": "mapAlt2Filled"
     },
     "map-alt-3": {
-      "codepoint": 58088,
+      "codepoint": 58138,
       "fontFamily": "Ix",
       "identifier": "mapAlt3"
     },
     "map-alt-3-filled": {
-      "codepoint": 58089,
+      "codepoint": 58139,
       "fontFamily": "Ix",
       "identifier": "mapAlt3Filled"
     },
     "mastodon-logo": {
-      "codepoint": 58090,
+      "codepoint": 58140,
       "fontFamily": "Ix",
       "identifier": "mastodonLogo"
     },
     "maximize": {
-      "codepoint": 58091,
+      "codepoint": 58141,
       "fontFamily": "Ix",
       "identifier": "maximize"
     },
     "measuring-input": {
-      "codepoint": 58092,
+      "codepoint": 58142,
       "fontFamily": "Ix",
       "identifier": "measuringInput"
     },
     "media-player": {
-      "codepoint": 58093,
+      "codepoint": 58143,
       "fontFamily": "Ix",
       "identifier": "mediaPlayer"
     },
     "microphone": {
-      "codepoint": 58094,
+      "codepoint": 58144,
       "fontFamily": "Ix",
       "identifier": "microphone"
     },
     "microphone-filled": {
-      "codepoint": 58095,
+      "codepoint": 58145,
       "fontFamily": "Ix",
       "identifier": "microphoneFilled"
     },
     "minimize": {
-      "codepoint": 58096,
+      "codepoint": 58146,
       "fontFamily": "Ix",
       "identifier": "minimize"
     },
     "minus": {
-      "codepoint": 58097,
+      "codepoint": 58147,
       "fontFamily": "Ix",
       "identifier": "minus"
     },
     "missing-symbol": {
-      "codepoint": 58098,
+      "codepoint": 58148,
       "fontFamily": "Ix",
       "identifier": "missingSymbol"
     },
     "mix": {
-      "codepoint": 58099,
+      "codepoint": 58149,
       "fontFamily": "Ix",
       "identifier": "mix"
     },
     "mobile-phone": {
-      "codepoint": 58100,
+      "codepoint": 58150,
       "fontFamily": "Ix",
       "identifier": "mobilePhone"
     },
     "mobile-phone-filled": {
-      "codepoint": 58101,
+      "codepoint": 58151,
       "fontFamily": "Ix",
       "identifier": "mobilePhoneFilled"
     },
     "monitor": {
-      "codepoint": 58102,
+      "codepoint": 58152,
       "fontFamily": "Ix",
       "identifier": "monitor"
     },
     "monitor-filled": {
-      "codepoint": 58103,
+      "codepoint": 58153,
       "fontFamily": "Ix",
       "identifier": "monitorFilled"
     },
     "monitor-trend": {
-      "codepoint": 58104,
+      "codepoint": 58154,
       "fontFamily": "Ix",
       "identifier": "monitorTrend"
     },
     "monitoring": {
-      "codepoint": 58105,
+      "codepoint": 58155,
       "fontFamily": "Ix",
       "identifier": "monitoring"
     },
     "monitoring-add": {
-      "codepoint": 58106,
+      "codepoint": 58156,
       "fontFamily": "Ix",
       "identifier": "monitoringAdd"
     },
     "monitorings": {
-      "codepoint": 58107,
+      "codepoint": 58157,
       "fontFamily": "Ix",
       "identifier": "monitorings"
     },
     "moon": {
-      "codepoint": 58108,
+      "codepoint": 58158,
       "fontFamily": "Ix",
       "identifier": "moon"
     },
     "moon-filled": {
-      "codepoint": 58109,
+      "codepoint": 58159,
       "fontFamily": "Ix",
       "identifier": "moonFilled"
     },
     "more-menu": {
-      "codepoint": 58110,
+      "codepoint": 58160,
       "fontFamily": "Ix",
       "identifier": "moreMenu"
     },
     "mouse-click": {
-      "codepoint": 58111,
+      "codepoint": 58161,
       "fontFamily": "Ix",
       "identifier": "mouseClick"
     },
     "mouse-click-filled": {
-      "codepoint": 58112,
+      "codepoint": 58162,
       "fontFamily": "Ix",
       "identifier": "mouseClickFilled"
     },
     "mouse-select": {
-      "codepoint": 58113,
+      "codepoint": 58163,
       "fontFamily": "Ix",
       "identifier": "mouseSelect"
     },
     "mouse-select-filled": {
-      "codepoint": 58114,
+      "codepoint": 58164,
       "fontFamily": "Ix",
       "identifier": "mouseSelectFilled"
     },
     "move": {
-      "codepoint": 58115,
+      "codepoint": 58165,
       "fontFamily": "Ix",
       "identifier": "move"
     },
     "move-horizontally": {
-      "codepoint": 58116,
+      "codepoint": 58166,
       "fontFamily": "Ix",
       "identifier": "moveHorizontally"
     },
     "move-layer-down": {
-      "codepoint": 58117,
+      "codepoint": 58167,
       "fontFamily": "Ix",
       "identifier": "moveLayerDown"
     },
     "move-layer-up": {
-      "codepoint": 58118,
+      "codepoint": 58168,
       "fontFamily": "Ix",
       "identifier": "moveLayerUp"
     },
     "move-vertically": {
-      "codepoint": 58119,
+      "codepoint": 58169,
       "fontFamily": "Ix",
       "identifier": "moveVertically"
     },
     "movie": {
-      "codepoint": 58120,
+      "codepoint": 58170,
       "fontFamily": "Ix",
       "identifier": "movie"
     },
     "movie-filled": {
-      "codepoint": 58121,
+      "codepoint": 58171,
       "fontFamily": "Ix",
       "identifier": "movieFilled"
     },
     "mp4-document": {
-      "codepoint": 58122,
+      "codepoint": 58172,
       "fontFamily": "Ix",
       "identifier": "mp4Document"
     },
     "mqtt": {
-      "codepoint": 58123,
+      "codepoint": 58173,
       "fontFamily": "Ix",
       "identifier": "mqtt"
     },
     "mqtt-filled": {
-      "codepoint": 58124,
+      "codepoint": 58174,
       "fontFamily": "Ix",
       "identifier": "mqttFilled"
     },
     "music-note": {
-      "codepoint": 58125,
+      "codepoint": 58175,
       "fontFamily": "Ix",
       "identifier": "musicNote"
     },
     "namur-check-function": {
-      "codepoint": 58126,
+      "codepoint": 58176,
       "fontFamily": "Ix",
       "identifier": "namurCheckFunction"
     },
     "namur-check-function-filled": {
-      "codepoint": 58127,
+      "codepoint": 58177,
       "fontFamily": "Ix",
       "identifier": "namurCheckFunctionFilled"
     },
     "namur-diagnostics-passive": {
-      "codepoint": 58128,
+      "codepoint": 58178,
       "fontFamily": "Ix",
       "identifier": "namurDiagnosticsPassive"
     },
     "namur-diagnostics-passive-filled": {
-      "codepoint": 58129,
+      "codepoint": 58179,
       "fontFamily": "Ix",
       "identifier": "namurDiagnosticsPassiveFilled"
     },
     "namur-failure": {
-      "codepoint": 58130,
+      "codepoint": 58180,
       "fontFamily": "Ix",
       "identifier": "namurFailure"
     },
     "namur-failure-filled": {
-      "codepoint": 58131,
+      "codepoint": 58181,
       "fontFamily": "Ix",
       "identifier": "namurFailureFilled"
     },
     "namur-maintenance-required": {
-      "codepoint": 58132,
+      "codepoint": 58182,
       "fontFamily": "Ix",
       "identifier": "namurMaintenanceRequired"
     },
     "namur-maintenance-required-filled": {
-      "codepoint": 58133,
+      "codepoint": 58183,
       "fontFamily": "Ix",
       "identifier": "namurMaintenanceRequiredFilled"
     },
     "namur-ok": {
-      "codepoint": 58134,
+      "codepoint": 58184,
       "fontFamily": "Ix",
       "identifier": "namurOk"
     },
     "namur-ok-filled": {
-      "codepoint": 58135,
+      "codepoint": 58185,
       "fontFamily": "Ix",
       "identifier": "namurOkFilled"
     },
     "namur-out-of-spec": {
-      "codepoint": 58136,
+      "codepoint": 58186,
       "fontFamily": "Ix",
       "identifier": "namurOutOfSpec"
     },
     "namur-out-of-spec-filled": {
-      "codepoint": 58137,
+      "codepoint": 58187,
       "fontFamily": "Ix",
       "identifier": "namurOutOfSpecFilled"
     },
     "navigation": {
-      "codepoint": 58138,
+      "codepoint": 58188,
       "fontFamily": "Ix",
       "identifier": "navigation"
     },
     "navigation-filled": {
-      "codepoint": 58139,
+      "codepoint": 58189,
       "fontFamily": "Ix",
       "identifier": "navigationFilled"
     },
     "navigation-left": {
-      "codepoint": 58140,
+      "codepoint": 58190,
       "fontFamily": "Ix",
       "identifier": "navigationLeft"
     },
     "navigation-left-hide": {
-      "codepoint": 58141,
+      "codepoint": 58191,
       "fontFamily": "Ix",
       "identifier": "navigationLeftHide"
     },
     "navigation-right": {
-      "codepoint": 58142,
+      "codepoint": 58192,
       "fontFamily": "Ix",
       "identifier": "navigationRight"
     },
     "navigation-right-hide": {
-      "codepoint": 58143,
+      "codepoint": 58193,
       "fontFamily": "Ix",
       "identifier": "navigationRightHide"
     },
     "network-device": {
-      "codepoint": 58144,
+      "codepoint": 58194,
       "fontFamily": "Ix",
       "identifier": "networkDevice"
     },
     "network-device-filled": {
-      "codepoint": 58145,
+      "codepoint": 58195,
       "fontFamily": "Ix",
       "identifier": "networkDeviceFilled"
     },
     "network-device-play": {
-      "codepoint": 58146,
+      "codepoint": 58196,
       "fontFamily": "Ix",
       "identifier": "networkDevicePlay"
     },
     "network-device-play-filled": {
-      "codepoint": 58147,
+      "codepoint": 58197,
       "fontFamily": "Ix",
       "identifier": "networkDevicePlayFilled"
     },
     "network-wired": {
-      "codepoint": 58148,
+      "codepoint": 58198,
       "fontFamily": "Ix",
       "identifier": "networkWired"
     },
     "network-wired-wireless": {
-      "codepoint": 58149,
+      "codepoint": 58199,
       "fontFamily": "Ix",
       "identifier": "networkWiredWireless"
     },
     "new-indicator": {
-      "codepoint": 58150,
+      "codepoint": 58200,
       "fontFamily": "Ix",
       "identifier": "newIndicator"
     },
     "new-indicator-filled": {
-      "codepoint": 58151,
+      "codepoint": 58201,
       "fontFamily": "Ix",
       "identifier": "newIndicatorFilled"
     },
     "no-filter": {
-      "codepoint": 58152,
+      "codepoint": 58202,
       "fontFamily": "Ix",
       "identifier": "noFilter"
     },
     "no-filter-filled": {
-      "codepoint": 58153,
+      "codepoint": 58203,
       "fontFamily": "Ix",
       "identifier": "noFilterFilled"
     },
     "no-image": {
-      "codepoint": 58154,
+      "codepoint": 58204,
       "fontFamily": "Ix",
       "identifier": "noImage"
     },
     "note": {
-      "codepoint": 58155,
+      "codepoint": 58205,
       "fontFamily": "Ix",
       "identifier": "note"
     },
     "note-filled": {
-      "codepoint": 58156,
+      "codepoint": 58206,
       "fontFamily": "Ix",
       "identifier": "noteFilled"
     },
     "notebook": {
-      "codepoint": 58157,
+      "codepoint": 58207,
       "fontFamily": "Ix",
       "identifier": "notebook"
     },
     "notebook-filled": {
-      "codepoint": 58158,
+      "codepoint": 58208,
       "fontFamily": "Ix",
       "identifier": "notebookFilled"
     },
     "notification": {
-      "codepoint": 58159,
+      "codepoint": 58209,
       "fontFamily": "Ix",
       "identifier": "notification"
     },
     "notification-filled": {
-      "codepoint": 58160,
+      "codepoint": 58210,
       "fontFamily": "Ix",
       "identifier": "notificationFilled"
     },
     "notifications": {
-      "codepoint": 58161,
+      "codepoint": 58211,
       "fontFamily": "Ix",
       "identifier": "notifications"
     },
     "notifications-filled": {
-      "codepoint": 58162,
+      "codepoint": 58212,
       "fontFamily": "Ix",
       "identifier": "notificationsFilled"
     },
     "objects": {
-      "codepoint": 58163,
+      "codepoint": 58213,
       "fontFamily": "Ix",
       "identifier": "objects"
     },
     "objects-tree": {
-      "codepoint": 58164,
+      "codepoint": 58214,
       "fontFamily": "Ix",
       "identifier": "objectsTree"
     },
     "ontology": {
-      "codepoint": 58165,
+      "codepoint": 58215,
       "fontFamily": "Ix",
       "identifier": "ontology"
     },
     "ontology-filled": {
-      "codepoint": 58166,
+      "codepoint": 58216,
       "fontFamily": "Ix",
       "identifier": "ontologyFilled"
     },
     "open-external": {
-      "codepoint": 58167,
+      "codepoint": 58217,
       "fontFamily": "Ix",
       "identifier": "openExternal"
     },
     "open-file": {
-      "codepoint": 58168,
+      "codepoint": 58218,
       "fontFamily": "Ix",
       "identifier": "openFile"
     },
     "open-file-filled": {
-      "codepoint": 58169,
+      "codepoint": 58219,
       "fontFamily": "Ix",
       "identifier": "openFileFilled"
     },
     "operate-plant": {
-      "codepoint": 58170,
+      "codepoint": 58220,
       "fontFamily": "Ix",
       "identifier": "operatePlant"
     },
     "operate-plant-filled": {
-      "codepoint": 58171,
+      "codepoint": 58221,
       "fontFamily": "Ix",
       "identifier": "operatePlantFilled"
     },
     "operating-system": {
-      "codepoint": 58172,
+      "codepoint": 58222,
       "fontFamily": "Ix",
       "identifier": "operatingSystem"
     },
     "operating-system-add": {
-      "codepoint": 58173,
+      "codepoint": 58223,
       "fontFamily": "Ix",
       "identifier": "operatingSystemAdd"
     },
     "operating-system-settings": {
-      "codepoint": 58174,
+      "codepoint": 58224,
       "fontFamily": "Ix",
       "identifier": "operatingSystemSettings"
     },
     "optimize": {
-      "codepoint": 58175,
+      "codepoint": 58225,
       "fontFamily": "Ix",
       "identifier": "optimize"
     },
     "output-cam": {
-      "codepoint": 58176,
+      "codepoint": 58226,
       "fontFamily": "Ix",
       "identifier": "outputCam"
     },
     "p-and-i-symbols": {
-      "codepoint": 58177,
+      "codepoint": 58227,
       "fontFamily": "Ix",
       "identifier": "pAndISymbols"
     },
     "p-i-diagram": {
-      "codepoint": 58178,
+      "codepoint": 58228,
       "fontFamily": "Ix",
       "identifier": "pIDiagram"
     },
     "package": {
-      "codepoint": 58179,
+      "codepoint": 58229,
       "fontFamily": "Ix",
       "identifier": "package"
     },
     "package-filled": {
-      "codepoint": 58180,
+      "codepoint": 58230,
       "fontFamily": "Ix",
       "identifier": "packageFilled"
     },
     "palette": {
-      "codepoint": 58181,
+      "codepoint": 58231,
       "fontFamily": "Ix",
       "identifier": "palette"
     },
     "palette-filled": {
-      "codepoint": 58182,
+      "codepoint": 58232,
       "fontFamily": "Ix",
       "identifier": "paletteFilled"
     },
     "pan": {
-      "codepoint": 58183,
+      "codepoint": 58233,
       "fontFamily": "Ix",
       "identifier": "pan"
     },
     "panel-ipc": {
-      "codepoint": 58184,
+      "codepoint": 58234,
       "fontFamily": "Ix",
       "identifier": "panelIpc"
     },
     "panel-ipc-fail": {
-      "codepoint": 58185,
+      "codepoint": 58235,
       "fontFamily": "Ix",
       "identifier": "panelIpcFail"
     },
     "panel-ipc-question": {
-      "codepoint": 58186,
+      "codepoint": 58236,
       "fontFamily": "Ix",
       "identifier": "panelIpcQuestion"
     },
     "panel-ipc-success": {
-      "codepoint": 58187,
+      "codepoint": 58237,
       "fontFamily": "Ix",
       "identifier": "panelIpcSuccess"
     },
     "parameter": {
-      "codepoint": 58188,
+      "codepoint": 58238,
       "fontFamily": "Ix",
       "identifier": "parameter"
     },
     "paste": {
-      "codepoint": 58189,
+      "codepoint": 58239,
       "fontFamily": "Ix",
       "identifier": "paste"
     },
     "paste-filled": {
-      "codepoint": 58190,
+      "codepoint": 58240,
       "fontFamily": "Ix",
       "identifier": "pasteFilled"
     },
     "pause": {
-      "codepoint": 58191,
+      "codepoint": 58241,
       "fontFamily": "Ix",
       "identifier": "pause"
     },
     "pc-tower": {
-      "codepoint": 58192,
+      "codepoint": 58242,
       "fontFamily": "Ix",
       "identifier": "pcTower"
     },
     "pc-tower-filled": {
-      "codepoint": 58193,
+      "codepoint": 58243,
       "fontFamily": "Ix",
       "identifier": "pcTowerFilled"
     },
     "pc-tower-settings": {
-      "codepoint": 58194,
+      "codepoint": 58244,
       "fontFamily": "Ix",
       "identifier": "pcTowerSettings"
     },
     "pc-tower-settings-filled": {
-      "codepoint": 58195,
+      "codepoint": 58245,
       "fontFamily": "Ix",
       "identifier": "pcTowerSettingsFilled"
     },
     "pdf-document": {
-      "codepoint": 58196,
+      "codepoint": 58246,
       "fontFamily": "Ix",
       "identifier": "pdfDocument"
     },
     "pdf-document-filled": {
-      "codepoint": 58197,
+      "codepoint": 58247,
       "fontFamily": "Ix",
       "identifier": "pdfDocumentFilled"
     },
     "pen": {
-      "codepoint": 58198,
+      "codepoint": 58248,
       "fontFamily": "Ix",
       "identifier": "pen"
     },
     "pen-cancelled": {
-      "codepoint": 58199,
+      "codepoint": 58249,
       "fontFamily": "Ix",
       "identifier": "penCancelled"
     },
     "pen-cancelled-filled": {
-      "codepoint": 58200,
+      "codepoint": 58250,
       "fontFamily": "Ix",
       "identifier": "penCancelledFilled"
     },
-    "pen-filled": {
-      "codepoint": 58201,
-      "fontFamily": "Ix",
-      "identifier": "penFilled"
-    },
     "phone": {
-      "codepoint": 58202,
+      "codepoint": 58251,
       "fontFamily": "Ix",
       "identifier": "phone"
     },
     "phone-filled": {
-      "codepoint": 58203,
+      "codepoint": 58252,
       "fontFamily": "Ix",
       "identifier": "phoneFilled"
     },
     "photo-camera": {
-      "codepoint": 58204,
+      "codepoint": 58253,
       "fontFamily": "Ix",
       "identifier": "photoCamera"
     },
     "photo-camera-add": {
-      "codepoint": 58205,
+      "codepoint": 58254,
       "fontFamily": "Ix",
       "identifier": "photoCameraAdd"
     },
     "photo-camera-filled": {
-      "codepoint": 58206,
+      "codepoint": 58255,
       "fontFamily": "Ix",
       "identifier": "photoCameraFilled"
     },
     "photo-cameras": {
-      "codepoint": 58207,
+      "codepoint": 58256,
       "fontFamily": "Ix",
       "identifier": "photoCameras"
     },
     "piechart": {
-      "codepoint": 58208,
+      "codepoint": 58257,
       "fontFamily": "Ix",
       "identifier": "piechart"
     },
     "piechart-filled": {
-      "codepoint": 58209,
+      "codepoint": 58258,
       "fontFamily": "Ix",
       "identifier": "piechartFilled"
     },
     "pin": {
-      "codepoint": 58210,
+      "codepoint": 58259,
       "fontFamily": "Ix",
       "identifier": "pin"
     },
     "pin-cancelled": {
-      "codepoint": 58211,
+      "codepoint": 58260,
       "fontFamily": "Ix",
       "identifier": "pinCancelled"
     },
     "pin-cancelled-filled": {
-      "codepoint": 58212,
+      "codepoint": 58261,
       "fontFamily": "Ix",
       "identifier": "pinCancelledFilled"
     },
     "pin-filled": {
-      "codepoint": 58213,
+      "codepoint": 58262,
       "fontFamily": "Ix",
       "identifier": "pinFilled"
     },
     "plant": {
-      "codepoint": 58214,
+      "codepoint": 58263,
       "fontFamily": "Ix",
       "identifier": "plant"
     },
     "plant-details": {
-      "codepoint": 58215,
+      "codepoint": 58264,
       "fontFamily": "Ix",
       "identifier": "plantDetails"
     },
     "plant-details-filled": {
-      "codepoint": 58216,
+      "codepoint": 58265,
       "fontFamily": "Ix",
       "identifier": "plantDetailsFilled"
     },
     "plant-filled": {
-      "codepoint": 58217,
+      "codepoint": 58266,
       "fontFamily": "Ix",
       "identifier": "plantFilled"
     },
     "plant-handbook": {
-      "codepoint": 58218,
+      "codepoint": 58267,
       "fontFamily": "Ix",
       "identifier": "plantHandbook"
     },
     "plant-handbook-filled": {
-      "codepoint": 58219,
+      "codepoint": 58268,
       "fontFamily": "Ix",
       "identifier": "plantHandbookFilled"
     },
     "plant-outline": {
-      "codepoint": 58220,
+      "codepoint": 58269,
       "fontFamily": "Ix",
       "identifier": "plantOutline"
     },
     "plant-search": {
-      "codepoint": 58221,
+      "codepoint": 58270,
       "fontFamily": "Ix",
       "identifier": "plantSearch"
     },
     "plant-search-filled": {
-      "codepoint": 58222,
+      "codepoint": 58271,
       "fontFamily": "Ix",
       "identifier": "plantSearchFilled"
     },
     "plant-security": {
-      "codepoint": 58223,
+      "codepoint": 58272,
       "fontFamily": "Ix",
       "identifier": "plantSecurity"
     },
     "plant-security-filled": {
-      "codepoint": 58224,
+      "codepoint": 58273,
       "fontFamily": "Ix",
       "identifier": "plantSecurityFilled"
     },
     "plant-settings": {
-      "codepoint": 58225,
+      "codepoint": 58274,
       "fontFamily": "Ix",
       "identifier": "plantSettings"
     },
     "plant-settings-filled": {
-      "codepoint": 58226,
+      "codepoint": 58275,
       "fontFamily": "Ix",
       "identifier": "plantSettingsFilled"
     },
     "plant-user": {
-      "codepoint": 58227,
+      "codepoint": 58276,
       "fontFamily": "Ix",
       "identifier": "plantUser"
     },
     "plant-user-filled": {
-      "codepoint": 58228,
+      "codepoint": 58277,
       "fontFamily": "Ix",
       "identifier": "plantUserFilled"
     },
     "plants": {
-      "codepoint": 58229,
+      "codepoint": 58278,
       "fontFamily": "Ix",
       "identifier": "plants"
     },
     "plants-filled": {
-      "codepoint": 58230,
+      "codepoint": 58279,
       "fontFamily": "Ix",
       "identifier": "plantsFilled"
     },
     "play": {
-      "codepoint": 58231,
+      "codepoint": 58280,
       "fontFamily": "Ix",
       "identifier": "play"
     },
     "play-filled": {
-      "codepoint": 58232,
+      "codepoint": 58281,
       "fontFamily": "Ix",
       "identifier": "playFilled"
     },
     "play-pause": {
-      "codepoint": 58233,
+      "codepoint": 58282,
       "fontFamily": "Ix",
       "identifier": "playPause"
     },
     "play-pause-filled": {
-      "codepoint": 58234,
+      "codepoint": 58283,
       "fontFamily": "Ix",
       "identifier": "playPauseFilled"
     },
     "play-stepwise": {
-      "codepoint": 58235,
+      "codepoint": 58284,
       "fontFamily": "Ix",
       "identifier": "playStepwise"
     },
     "play-stepwise-filled": {
-      "codepoint": 58236,
+      "codepoint": 58285,
       "fontFamily": "Ix",
       "identifier": "playStepwiseFilled"
     },
     "plc": {
-      "codepoint": 58237,
+      "codepoint": 58286,
       "fontFamily": "Ix",
       "identifier": "plc"
     },
     "plc-device": {
-      "codepoint": 58238,
+      "codepoint": 58287,
       "fontFamily": "Ix",
       "identifier": "plcDevice"
     },
     "plc-device-tag": {
-      "codepoint": 58239,
+      "codepoint": 58288,
       "fontFamily": "Ix",
       "identifier": "plcDeviceTag"
     },
     "plc-device-user-data-type": {
-      "codepoint": 58240,
+      "codepoint": 58289,
       "fontFamily": "Ix",
       "identifier": "plcDeviceUserDataType"
     },
     "plc-tag": {
-      "codepoint": 58241,
+      "codepoint": 58290,
       "fontFamily": "Ix",
       "identifier": "plcTag"
     },
     "plc-user-data-type": {
-      "codepoint": 58242,
+      "codepoint": 58291,
       "fontFamily": "Ix",
       "identifier": "plcUserDataType"
     },
     "plus": {
-      "codepoint": 58243,
+      "codepoint": 58292,
       "fontFamily": "Ix",
       "identifier": "plus"
     },
     "plus-minus-times-divide": {
-      "codepoint": 58244,
+      "codepoint": 58293,
       "fontFamily": "Ix",
       "identifier": "plusMinusTimesDivide"
     },
     "point-up": {
-      "codepoint": 58245,
+      "codepoint": 58294,
       "fontFamily": "Ix",
       "identifier": "pointUp"
     },
     "point-up-filled": {
-      "codepoint": 58246,
+      "codepoint": 58295,
       "fontFamily": "Ix",
       "identifier": "pointUpFilled"
     },
     "polar-plot": {
-      "codepoint": 58247,
+      "codepoint": 58296,
       "fontFamily": "Ix",
       "identifier": "polarPlot"
     },
     "polarchart-filled": {
-      "codepoint": 58248,
+      "codepoint": 58297,
       "fontFamily": "Ix",
       "identifier": "polarchartFilled"
     },
     "polygon": {
-      "codepoint": 58249,
+      "codepoint": 58298,
       "fontFamily": "Ix",
       "identifier": "polygon"
     },
     "polygon-filled": {
-      "codepoint": 58250,
+      "codepoint": 58299,
       "fontFamily": "Ix",
       "identifier": "polygonFilled"
     },
     "polygon-line": {
-      "codepoint": 58251,
+      "codepoint": 58300,
       "fontFamily": "Ix",
       "identifier": "polygonLine"
     },
     "power-supply": {
-      "codepoint": 58252,
+      "codepoint": 58301,
       "fontFamily": "Ix",
       "identifier": "powerSupply"
     },
     "ppt-document": {
-      "codepoint": 58253,
+      "codepoint": 58302,
       "fontFamily": "Ix",
       "identifier": "pptDocument"
     },
     "print": {
-      "codepoint": 58254,
+      "codepoint": 58303,
       "fontFamily": "Ix",
       "identifier": "print"
     },
     "print-filled": {
-      "codepoint": 58255,
+      "codepoint": 58304,
       "fontFamily": "Ix",
       "identifier": "printFilled"
     },
     "prio-high": {
-      "codepoint": 58256,
+      "codepoint": 58305,
       "fontFamily": "Ix",
       "identifier": "prioHigh"
     },
     "prio-low": {
-      "codepoint": 58257,
+      "codepoint": 58306,
       "fontFamily": "Ix",
       "identifier": "prioLow"
     },
     "prio-middle": {
-      "codepoint": 58258,
+      "codepoint": 58307,
       "fontFamily": "Ix",
       "identifier": "prioMiddle"
     },
     "process-control": {
-      "codepoint": 58259,
+      "codepoint": 58308,
       "fontFamily": "Ix",
       "identifier": "processControl"
     },
     "product": {
-      "codepoint": 58260,
+      "codepoint": 58309,
       "fontFamily": "Ix",
       "identifier": "product"
     },
     "product-catalog": {
-      "codepoint": 58261,
+      "codepoint": 58310,
       "fontFamily": "Ix",
       "identifier": "productCatalog"
     },
     "product-management": {
-      "codepoint": 58262,
+      "codepoint": 58311,
       "fontFamily": "Ix",
       "identifier": "productManagement"
     },
+    "profisafe-logo": {
+      "codepoint": 58312,
+      "fontFamily": "Ix",
+      "identifier": "profisafeLogo"
+    },
     "project": {
-      "codepoint": 58263,
+      "codepoint": 58313,
       "fontFamily": "Ix",
       "identifier": "project"
     },
     "project-arrow-diagonal-top-right": {
-      "codepoint": 58264,
+      "codepoint": 58314,
       "fontFamily": "Ix",
       "identifier": "projectArrowDiagonalTopRight"
     },
     "project-arrow-left": {
-      "codepoint": 58265,
+      "codepoint": 58315,
       "fontFamily": "Ix",
       "identifier": "projectArrowLeft"
     },
     "project-arrow-right": {
-      "codepoint": 58266,
+      "codepoint": 58316,
       "fontFamily": "Ix",
       "identifier": "projectArrowRight"
     },
     "project-close": {
-      "codepoint": 58267,
+      "codepoint": 58317,
       "fontFamily": "Ix",
       "identifier": "projectClose"
     },
     "project-configuration": {
-      "codepoint": 58268,
+      "codepoint": 58318,
       "fontFamily": "Ix",
       "identifier": "projectConfiguration"
     },
     "project-duplicate": {
-      "codepoint": 58269,
+      "codepoint": 58319,
       "fontFamily": "Ix",
       "identifier": "projectDuplicate"
     },
     "project-history": {
-      "codepoint": 58270,
+      "codepoint": 58320,
       "fontFamily": "Ix",
       "identifier": "projectHistory"
     },
     "project-new": {
-      "codepoint": 58271,
+      "codepoint": 58321,
       "fontFamily": "Ix",
       "identifier": "projectNew"
     },
     "project-scenarios": {
-      "codepoint": 58272,
+      "codepoint": 58322,
       "fontFamily": "Ix",
       "identifier": "projectScenarios"
     },
     "project-server": {
-      "codepoint": 58273,
+      "codepoint": 58323,
       "fontFamily": "Ix",
       "identifier": "projectServer"
     },
     "project-server-filled": {
-      "codepoint": 58274,
+      "codepoint": 58324,
       "fontFamily": "Ix",
       "identifier": "projectServerFilled"
     },
     "project-settings": {
-      "codepoint": 58275,
+      "codepoint": 58325,
       "fontFamily": "Ix",
       "identifier": "projectSettings"
     },
     "project-simulation": {
-      "codepoint": 58276,
+      "codepoint": 58326,
       "fontFamily": "Ix",
       "identifier": "projectSimulation"
     },
     "projects": {
-      "codepoint": 58277,
+      "codepoint": 58327,
       "fontFamily": "Ix",
       "identifier": "projects"
     },
     "projects-close": {
-      "codepoint": 58278,
+      "codepoint": 58328,
       "fontFamily": "Ix",
       "identifier": "projectsClose"
     },
     "protocol": {
-      "codepoint": 58279,
+      "codepoint": 58329,
       "fontFamily": "Ix",
       "identifier": "protocol"
     },
     "publish": {
-      "codepoint": 58280,
+      "codepoint": 58330,
       "fontFamily": "Ix",
       "identifier": "publish"
     },
     "publish-document": {
-      "codepoint": 58281,
+      "codepoint": 58331,
       "fontFamily": "Ix",
       "identifier": "publishDocument"
     },
     "qr-code": {
-      "codepoint": 58282,
+      "codepoint": 58332,
       "fontFamily": "Ix",
       "identifier": "qrCode"
     },
     "quality-report": {
-      "codepoint": 58283,
+      "codepoint": 58333,
       "fontFamily": "Ix",
       "identifier": "qualityReport"
     },
     "question": {
-      "codepoint": 58284,
+      "codepoint": 58334,
       "fontFamily": "Ix",
       "identifier": "question"
     },
     "question-filled": {
-      "codepoint": 58285,
+      "codepoint": 58335,
       "fontFamily": "Ix",
       "identifier": "questionFilled"
     },
     "question-mark": {
-      "codepoint": 58286,
+      "codepoint": 58336,
       "fontFamily": "Ix",
       "identifier": "questionMark"
     },
     "quote": {
-      "codepoint": 58287,
+      "codepoint": 58337,
       "fontFamily": "Ix",
       "identifier": "quote"
     },
     "rack-ipc": {
-      "codepoint": 58288,
+      "codepoint": 58338,
       "fontFamily": "Ix",
       "identifier": "rackIpc"
     },
     "rack-ipc-fail": {
-      "codepoint": 58289,
+      "codepoint": 58339,
       "fontFamily": "Ix",
       "identifier": "rackIpcFail"
     },
     "rack-ipc-question": {
-      "codepoint": 58290,
+      "codepoint": 58340,
       "fontFamily": "Ix",
       "identifier": "rackIpcQuestion"
     },
     "rack-ipc-success": {
-      "codepoint": 58291,
+      "codepoint": 58341,
       "fontFamily": "Ix",
       "identifier": "rackIpcSuccess"
     },
     "radarchart": {
-      "codepoint": 58292,
+      "codepoint": 58342,
       "fontFamily": "Ix",
       "identifier": "radarchart"
     },
     "radio-waves": {
-      "codepoint": 58293,
+      "codepoint": 58343,
       "fontFamily": "Ix",
       "identifier": "radioWaves"
     },
     "radio-waves-off": {
-      "codepoint": 58294,
+      "codepoint": 58344,
       "fontFamily": "Ix",
       "identifier": "radioWavesOff"
     },
     "radio-waves-warning": {
-      "codepoint": 58295,
+      "codepoint": 58345,
       "fontFamily": "Ix",
       "identifier": "radioWavesWarning"
     },
     "random": {
-      "codepoint": 58296,
+      "codepoint": 58346,
       "fontFamily": "Ix",
       "identifier": "random"
     },
     "random-filled": {
-      "codepoint": 58297,
+      "codepoint": 58347,
       "fontFamily": "Ix",
       "identifier": "randomFilled"
     },
     "reboot": {
-      "codepoint": 58298,
+      "codepoint": 58348,
       "fontFamily": "Ix",
       "identifier": "reboot"
     },
     "record": {
-      "codepoint": 58299,
+      "codepoint": 58349,
       "fontFamily": "Ix",
       "identifier": "record"
     },
     "record-filled": {
-      "codepoint": 58300,
+      "codepoint": 58350,
       "fontFamily": "Ix",
       "identifier": "recordFilled"
     },
     "rectangle": {
-      "codepoint": 58301,
+      "codepoint": 58351,
       "fontFamily": "Ix",
       "identifier": "rectangle"
     },
     "rectangle-filled": {
-      "codepoint": 58302,
+      "codepoint": 58352,
       "fontFamily": "Ix",
       "identifier": "rectangleFilled"
     },
     "reddit-logo": {
-      "codepoint": 58303,
+      "codepoint": 58353,
       "fontFamily": "Ix",
       "identifier": "redditLogo"
     },
     "redo": {
-      "codepoint": 58304,
+      "codepoint": 58354,
       "fontFamily": "Ix",
       "identifier": "redo"
     },
     "reference": {
-      "codepoint": 58305,
+      "codepoint": 58355,
       "fontFamily": "Ix",
       "identifier": "reference"
     },
     "reference-point-bottom-left": {
-      "codepoint": 58306,
+      "codepoint": 58356,
       "fontFamily": "Ix",
       "identifier": "referencePointBottomLeft"
     },
     "reference-point-bottom-right": {
-      "codepoint": 58307,
+      "codepoint": 58357,
       "fontFamily": "Ix",
       "identifier": "referencePointBottomRight"
     },
     "reference-point-centered": {
-      "codepoint": 58308,
+      "codepoint": 58358,
       "fontFamily": "Ix",
       "identifier": "referencePointCentered"
     },
     "reference-point-top-left": {
-      "codepoint": 58309,
+      "codepoint": 58359,
       "fontFamily": "Ix",
       "identifier": "referencePointTopLeft"
     },
     "reference-point-top-right": {
-      "codepoint": 58310,
+      "codepoint": 58360,
       "fontFamily": "Ix",
       "identifier": "referencePointTopRight"
     },
     "refresh": {
-      "codepoint": 58311,
+      "codepoint": 58361,
       "fontFamily": "Ix",
       "identifier": "refresh"
     },
     "refresh-arrow-down": {
-      "codepoint": 58312,
+      "codepoint": 58362,
       "fontFamily": "Ix",
       "identifier": "refreshArrowDown"
     },
     "refresh-cancelled": {
-      "codepoint": 58313,
+      "codepoint": 58363,
       "fontFamily": "Ix",
       "identifier": "refreshCancelled"
     },
     "refresh-exclamation": {
-      "codepoint": 58314,
+      "codepoint": 58364,
       "fontFamily": "Ix",
       "identifier": "refreshExclamation"
     },
     "refresh-settings": {
-      "codepoint": 58315,
+      "codepoint": 58365,
       "fontFamily": "Ix",
       "identifier": "refreshSettings"
     },
     "reload": {
-      "codepoint": 58316,
+      "codepoint": 58366,
       "fontFamily": "Ix",
       "identifier": "reload"
     },
     "remote-access": {
-      "codepoint": 58317,
+      "codepoint": 58367,
       "fontFamily": "Ix",
       "identifier": "remoteAccess"
     },
     "remove-application": {
-      "codepoint": 58318,
+      "codepoint": 58368,
       "fontFamily": "Ix",
       "identifier": "removeApplication"
     },
     "remove-circle": {
-      "codepoint": 58319,
+      "codepoint": 58369,
       "fontFamily": "Ix",
       "identifier": "removeCircle"
     },
     "remove-circle-filled": {
-      "codepoint": 58320,
+      "codepoint": 58370,
       "fontFamily": "Ix",
       "identifier": "removeCircleFilled"
     },
     "remove-eye": {
-      "codepoint": 58321,
+      "codepoint": 58371,
       "fontFamily": "Ix",
       "identifier": "removeEye"
     },
     "remove-eye-filled": {
-      "codepoint": 58322,
+      "codepoint": 58372,
       "fontFamily": "Ix",
       "identifier": "removeEyeFilled"
     },
     "rename": {
-      "codepoint": 58323,
+      "codepoint": 58373,
       "fontFamily": "Ix",
       "identifier": "rename"
     },
     "reorder": {
-      "codepoint": 58324,
+      "codepoint": 58374,
       "fontFamily": "Ix",
       "identifier": "reorder"
     },
     "report-barchart": {
-      "codepoint": 58325,
+      "codepoint": 58375,
       "fontFamily": "Ix",
       "identifier": "reportBarchart"
     },
     "report-general": {
-      "codepoint": 58326,
+      "codepoint": 58376,
       "fontFamily": "Ix",
       "identifier": "reportGeneral"
     },
     "report-linechart": {
-      "codepoint": 58327,
+      "codepoint": 58377,
       "fontFamily": "Ix",
       "identifier": "reportLinechart"
     },
     "report-text": {
-      "codepoint": 58328,
+      "codepoint": 58378,
       "fontFamily": "Ix",
       "identifier": "reportText"
     },
     "reset": {
-      "codepoint": 58329,
+      "codepoint": 58379,
       "fontFamily": "Ix",
       "identifier": "reset"
     },
     "restart": {
-      "codepoint": 58330,
+      "codepoint": 58380,
       "fontFamily": "Ix",
       "identifier": "restart"
     },
     "restore": {
-      "codepoint": 58331,
+      "codepoint": 58381,
       "fontFamily": "Ix",
       "identifier": "restore"
     },
     "restore-backup": {
-      "codepoint": 58332,
+      "codepoint": 58382,
       "fontFamily": "Ix",
       "identifier": "restoreBackup"
     },
     "restore-backup-filled": {
-      "codepoint": 58333,
+      "codepoint": 58383,
       "fontFamily": "Ix",
       "identifier": "restoreBackupFilled"
     },
     "restore-backup-pc": {
-      "codepoint": 58334,
+      "codepoint": 58384,
       "fontFamily": "Ix",
       "identifier": "restoreBackupPc"
     },
     "rewind": {
-      "codepoint": 58335,
+      "codepoint": 58385,
       "fontFamily": "Ix",
       "identifier": "rewind"
     },
     "rewind-filled": {
-      "codepoint": 58336,
+      "codepoint": 58386,
       "fontFamily": "Ix",
       "identifier": "rewindFilled"
     },
     "rhomb": {
-      "codepoint": 58337,
+      "codepoint": 58387,
       "fontFamily": "Ix",
       "identifier": "rhomb"
     },
     "rhomb-filled": {
-      "codepoint": 58338,
+      "codepoint": 58388,
       "fontFamily": "Ix",
       "identifier": "rhombFilled"
     },
     "road": {
-      "codepoint": 58339,
+      "codepoint": 58389,
       "fontFamily": "Ix",
       "identifier": "road"
     },
     "road-filled": {
-      "codepoint": 58340,
+      "codepoint": 58390,
       "fontFamily": "Ix",
       "identifier": "roadFilled"
     },
     "robotic-arm": {
-      "codepoint": 58341,
+      "codepoint": 58391,
       "fontFamily": "Ix",
       "identifier": "roboticArm"
     },
     "robotic-gripper": {
-      "codepoint": 58342,
+      "codepoint": 58392,
       "fontFamily": "Ix",
       "identifier": "roboticGripper"
     },
     "rocket": {
-      "codepoint": 58343,
+      "codepoint": 58393,
       "fontFamily": "Ix",
       "identifier": "rocket"
     },
+    "rocket-circle": {
+      "codepoint": 58394,
+      "fontFamily": "Ix",
+      "identifier": "rocketCircle"
+    },
+    "rocket-circle-filled": {
+      "codepoint": 58395,
+      "fontFamily": "Ix",
+      "identifier": "rocketCircleFilled"
+    },
     "rocket-filled": {
-      "codepoint": 58344,
+      "codepoint": 58396,
       "fontFamily": "Ix",
       "identifier": "rocketFilled"
     },
     "roles": {
-      "codepoint": 58345,
+      "codepoint": 58397,
       "fontFamily": "Ix",
       "identifier": "roles"
     },
     "roles-filled": {
-      "codepoint": 58346,
+      "codepoint": 58398,
       "fontFamily": "Ix",
       "identifier": "rolesFilled"
     },
     "rotate": {
-      "codepoint": 58347,
+      "codepoint": 58399,
       "fontFamily": "Ix",
       "identifier": "rotate"
     },
     "rotate-180": {
-      "codepoint": 58348,
+      "codepoint": 58400,
       "fontFamily": "Ix",
       "identifier": "rotate180"
     },
     "rotate-90-left": {
-      "codepoint": 58349,
+      "codepoint": 58401,
       "fontFamily": "Ix",
       "identifier": "rotate90Left"
     },
     "rotate-90-right": {
-      "codepoint": 58350,
+      "codepoint": 58402,
       "fontFamily": "Ix",
       "identifier": "rotate90Right"
     },
     "route": {
-      "codepoint": 58351,
+      "codepoint": 58403,
       "fontFamily": "Ix",
       "identifier": "route"
     },
     "route-target": {
-      "codepoint": 58352,
+      "codepoint": 58404,
       "fontFamily": "Ix",
       "identifier": "routeTarget"
     },
     "ruler-diagonal": {
-      "codepoint": 58353,
+      "codepoint": 58405,
       "fontFamily": "Ix",
       "identifier": "rulerDiagonal"
     },
     "ruler-horizontal": {
-      "codepoint": 58354,
+      "codepoint": 58406,
       "fontFamily": "Ix",
       "identifier": "rulerHorizontal"
     },
     "ruler-vertical": {
-      "codepoint": 58355,
+      "codepoint": 58407,
       "fontFamily": "Ix",
       "identifier": "rulerVertical"
     },
     "rules": {
-      "codepoint": 58356,
+      "codepoint": 58408,
       "fontFamily": "Ix",
       "identifier": "rules"
     },
     "rules-filled": {
-      "codepoint": 58357,
+      "codepoint": 58409,
       "fontFamily": "Ix",
       "identifier": "rulesFilled"
     },
     "runtime-play": {
-      "codepoint": 58358,
+      "codepoint": 58410,
       "fontFamily": "Ix",
       "identifier": "runtimePlay"
     },
     "runtime-settings": {
-      "codepoint": 58359,
+      "codepoint": 58411,
       "fontFamily": "Ix",
       "identifier": "runtimeSettings"
     },
     "runtime-stop": {
-      "codepoint": 58360,
+      "codepoint": 58412,
       "fontFamily": "Ix",
       "identifier": "runtimeStop"
     },
+    "safety-settings": {
+      "codepoint": 58413,
+      "fontFamily": "Ix",
+      "identifier": "safetySettings"
+    },
     "sankeychart": {
-      "codepoint": 58361,
+      "codepoint": 58414,
       "fontFamily": "Ix",
       "identifier": "sankeychart"
     },
     "save-all": {
-      "codepoint": 58362,
+      "codepoint": 58415,
       "fontFamily": "Ix",
       "identifier": "saveAll"
     },
     "scale": {
-      "codepoint": 58363,
+      "codepoint": 58416,
       "fontFamily": "Ix",
       "identifier": "scale"
     },
     "scatterplot": {
-      "codepoint": 58364,
+      "codepoint": 58417,
       "fontFamily": "Ix",
       "identifier": "scatterplot"
     },
     "scheduler": {
-      "codepoint": 58365,
+      "codepoint": 58418,
       "fontFamily": "Ix",
       "identifier": "scheduler"
     },
     "scheduler-filled": {
-      "codepoint": 58366,
+      "codepoint": 58419,
       "fontFamily": "Ix",
       "identifier": "schedulerFilled"
     },
     "screen": {
-      "codepoint": 58367,
+      "codepoint": 58420,
       "fontFamily": "Ix",
       "identifier": "screen"
     },
     "screen-duplicate": {
-      "codepoint": 58368,
+      "codepoint": 58421,
       "fontFamily": "Ix",
       "identifier": "screenDuplicate"
     },
     "screen-duplicate-filled": {
-      "codepoint": 58369,
+      "codepoint": 58422,
       "fontFamily": "Ix",
       "identifier": "screenDuplicateFilled"
     },
     "screen-filled": {
-      "codepoint": 58370,
+      "codepoint": 58423,
       "fontFamily": "Ix",
       "identifier": "screenFilled"
     },
     "screen-pc-tower": {
-      "codepoint": 58371,
+      "codepoint": 58424,
       "fontFamily": "Ix",
       "identifier": "screenPcTower"
     },
     "screen-pc-tower-filled": {
-      "codepoint": 58372,
+      "codepoint": 58425,
       "fontFamily": "Ix",
       "identifier": "screenPcTowerFilled"
     },
     "screen-pc-tower-settings": {
-      "codepoint": 58373,
+      "codepoint": 58426,
       "fontFamily": "Ix",
       "identifier": "screenPcTowerSettings"
     },
     "screen-pc-tower-settings-filled": {
-      "codepoint": 58374,
+      "codepoint": 58427,
       "fontFamily": "Ix",
       "identifier": "screenPcTowerSettingsFilled"
     },
     "screen-settings": {
-      "codepoint": 58375,
+      "codepoint": 58428,
       "fontFamily": "Ix",
       "identifier": "screenSettings"
     },
     "screen-settings-filled": {
-      "codepoint": 58376,
+      "codepoint": 58429,
       "fontFamily": "Ix",
       "identifier": "screenSettingsFilled"
     },
     "screens": {
-      "codepoint": 58377,
+      "codepoint": 58430,
       "fontFamily": "Ix",
       "identifier": "screens"
     },
     "screens-filled": {
-      "codepoint": 58378,
+      "codepoint": 58431,
       "fontFamily": "Ix",
       "identifier": "screensFilled"
     },
     "screenshot": {
-      "codepoint": 58379,
+      "codepoint": 58432,
       "fontFamily": "Ix",
       "identifier": "screenshot"
     },
     "screenshot-filled": {
-      "codepoint": 58380,
+      "codepoint": 58433,
       "fontFamily": "Ix",
       "identifier": "screenshotFilled"
     },
     "script": {
-      "codepoint": 58381,
+      "codepoint": 58434,
       "fontFamily": "Ix",
       "identifier": "script"
     },
     "script-add": {
-      "codepoint": 58382,
+      "codepoint": 58435,
       "fontFamily": "Ix",
       "identifier": "scriptAdd"
     },
     "scripts": {
-      "codepoint": 58383,
+      "codepoint": 58436,
       "fontFamily": "Ix",
       "identifier": "scripts"
     },
     "sd-card": {
-      "codepoint": 58384,
+      "codepoint": 58437,
       "fontFamily": "Ix",
       "identifier": "sdCard"
     },
     "sd-card-filled": {
-      "codepoint": 58385,
+      "codepoint": 58438,
       "fontFamily": "Ix",
       "identifier": "sdCardFilled"
     },
     "sd-card-micro": {
-      "codepoint": 58386,
+      "codepoint": 58439,
       "fontFamily": "Ix",
       "identifier": "sdCardMicro"
     },
     "sd-card-micro-filled": {
-      "codepoint": 58387,
+      "codepoint": 58440,
       "fontFamily": "Ix",
       "identifier": "sdCardMicroFilled"
     },
     "search": {
-      "codepoint": 58388,
+      "codepoint": 58441,
       "fontFamily": "Ix",
       "identifier": "search"
     },
     "select-alt": {
-      "codepoint": 58389,
+      "codepoint": 58442,
       "fontFamily": "Ix",
       "identifier": "selectAlt"
     },
     "select-alt-filled": {
-      "codepoint": 58390,
+      "codepoint": 58443,
       "fontFamily": "Ix",
       "identifier": "selectAltFilled"
     },
     "send-backward": {
-      "codepoint": 58391,
+      "codepoint": 58444,
       "fontFamily": "Ix",
       "identifier": "sendBackward"
     },
     "send-right": {
-      "codepoint": 58392,
+      "codepoint": 58445,
       "fontFamily": "Ix",
       "identifier": "sendRight"
     },
     "send-right-filled": {
-      "codepoint": 58393,
+      "codepoint": 58446,
       "fontFamily": "Ix",
       "identifier": "sendRightFilled"
     },
     "send-to-back": {
-      "codepoint": 58394,
+      "codepoint": 58447,
       "fontFamily": "Ix",
       "identifier": "sendToBack"
     },
     "send-top-right": {
-      "codepoint": 58395,
+      "codepoint": 58448,
       "fontFamily": "Ix",
       "identifier": "sendTopRight"
     },
     "send-top-right-filled": {
-      "codepoint": 58396,
+      "codepoint": 58449,
       "fontFamily": "Ix",
       "identifier": "sendTopRightFilled"
     },
     "sensor": {
-      "codepoint": 58397,
+      "codepoint": 58450,
       "fontFamily": "Ix",
       "identifier": "sensor"
     },
     "separator-line": {
-      "codepoint": 58398,
+      "codepoint": 58451,
       "fontFamily": "Ix",
       "identifier": "separatorLine"
     },
     "server-interface": {
-      "codepoint": 58399,
+      "codepoint": 58452,
       "fontFamily": "Ix",
       "identifier": "serverInterface"
     },
     "shapes": {
-      "codepoint": 58400,
+      "codepoint": 58453,
       "fontFamily": "Ix",
       "identifier": "shapes"
     },
     "shapes-filled": {
-      "codepoint": 58401,
+      "codepoint": 58454,
       "fontFamily": "Ix",
       "identifier": "shapesFilled"
     },
     "share": {
-      "codepoint": 58402,
+      "codepoint": 58455,
       "fontFamily": "Ix",
       "identifier": "share"
     },
     "share-alt": {
-      "codepoint": 58403,
+      "codepoint": 58456,
       "fontFamily": "Ix",
       "identifier": "shareAlt"
     },
     "share-alt-filled": {
-      "codepoint": 58404,
+      "codepoint": 58457,
       "fontFamily": "Ix",
       "identifier": "shareAltFilled"
     },
     "share-filled": {
-      "codepoint": 58405,
+      "codepoint": 58458,
       "fontFamily": "Ix",
       "identifier": "shareFilled"
     },
     "shield": {
-      "codepoint": 58406,
+      "codepoint": 58459,
       "fontFamily": "Ix",
       "identifier": "shield"
     },
     "shield-broken": {
-      "codepoint": 58407,
+      "codepoint": 58460,
       "fontFamily": "Ix",
       "identifier": "shieldBroken"
     },
     "shield-broken-filled": {
-      "codepoint": 58408,
+      "codepoint": 58461,
       "fontFamily": "Ix",
       "identifier": "shieldBrokenFilled"
     },
     "shield-check": {
-      "codepoint": 58409,
+      "codepoint": 58462,
       "fontFamily": "Ix",
       "identifier": "shieldCheck"
     },
     "shield-check-filled": {
-      "codepoint": 58410,
+      "codepoint": 58463,
       "fontFamily": "Ix",
       "identifier": "shieldCheckFilled"
     },
     "shield-filled": {
-      "codepoint": 58411,
+      "codepoint": 58464,
       "fontFamily": "Ix",
       "identifier": "shieldFilled"
     },
     "shield-half": {
-      "codepoint": 58412,
+      "codepoint": 58465,
       "fontFamily": "Ix",
       "identifier": "shieldHalf"
     },
     "shift": {
-      "codepoint": 58413,
+      "codepoint": 58466,
       "fontFamily": "Ix",
       "identifier": "shift"
     },
     "shift-filled": {
-      "codepoint": 58414,
+      "codepoint": 58467,
       "fontFamily": "Ix",
       "identifier": "shiftFilled"
     },
     "shopping-cart": {
-      "codepoint": 58415,
+      "codepoint": 58468,
       "fontFamily": "Ix",
       "identifier": "shoppingCart"
     },
     "shopping-cart-filled": {
-      "codepoint": 58416,
+      "codepoint": 58469,
       "fontFamily": "Ix",
       "identifier": "shoppingCartFilled"
     },
     "shorter": {
-      "codepoint": 58417,
+      "codepoint": 58470,
       "fontFamily": "Ix",
       "identifier": "shorter"
     },
     "shout": {
-      "codepoint": 58418,
+      "codepoint": 58471,
       "fontFamily": "Ix",
       "identifier": "shout"
     },
     "shout-filled": {
-      "codepoint": 58419,
+      "codepoint": 58472,
       "fontFamily": "Ix",
       "identifier": "shoutFilled"
     },
     "shutdown": {
-      "codepoint": 58420,
+      "codepoint": 58473,
       "fontFamily": "Ix",
       "identifier": "shutdown"
     },
     "sign-language": {
-      "codepoint": 58421,
+      "codepoint": 58474,
       "fontFamily": "Ix",
       "identifier": "signLanguage"
     },
     "signal-strength-0": {
-      "codepoint": 58422,
+      "codepoint": 58475,
       "fontFamily": "Ix",
       "identifier": "signalStrength0"
     },
     "signal-strength-1": {
-      "codepoint": 58423,
+      "codepoint": 58476,
       "fontFamily": "Ix",
       "identifier": "signalStrength1"
     },
     "signal-strength-2": {
-      "codepoint": 58424,
+      "codepoint": 58477,
       "fontFamily": "Ix",
       "identifier": "signalStrength2"
     },
     "signal-strength-3": {
-      "codepoint": 58425,
+      "codepoint": 58478,
       "fontFamily": "Ix",
       "identifier": "signalStrength3"
     },
     "signal-strength-4": {
-      "codepoint": 58426,
+      "codepoint": 58479,
       "fontFamily": "Ix",
       "identifier": "signalStrength4"
     },
     "signal-strength-5": {
-      "codepoint": 58427,
+      "codepoint": 58480,
       "fontFamily": "Ix",
       "identifier": "signalStrength5"
     },
     "signal-strength-6": {
-      "codepoint": 58428,
+      "codepoint": 58481,
       "fontFamily": "Ix",
       "identifier": "signalStrength6"
     },
     "signal-strength-7": {
-      "codepoint": 58429,
+      "codepoint": 58482,
       "fontFamily": "Ix",
       "identifier": "signalStrength7"
     },
     "signal-strength-8": {
-      "codepoint": 58430,
+      "codepoint": 58483,
       "fontFamily": "Ix",
       "identifier": "signalStrength8"
     },
     "simit-component": {
-      "codepoint": 58431,
+      "codepoint": 58484,
       "fontFamily": "Ix",
       "identifier": "simitComponent"
     },
     "simit-macro": {
-      "codepoint": 58432,
+      "codepoint": 58485,
       "fontFamily": "Ix",
       "identifier": "simitMacro"
     },
     "simit-macro-component-editor": {
-      "codepoint": 58433,
+      "codepoint": 58486,
       "fontFamily": "Ix",
       "identifier": "simitMacroComponentEditor"
     },
     "simulation-table": {
-      "codepoint": 58434,
+      "codepoint": 58487,
       "fontFamily": "Ix",
       "identifier": "simulationTable"
     },
     "single-check": {
-      "codepoint": 58435,
+      "codepoint": 58488,
       "fontFamily": "Ix",
       "identifier": "singleCheck"
     },
     "skip": {
-      "codepoint": 58436,
+      "codepoint": 58489,
       "fontFamily": "Ix",
       "identifier": "skip"
     },
     "skip-back": {
-      "codepoint": 58437,
+      "codepoint": 58490,
       "fontFamily": "Ix",
       "identifier": "skipBack"
     },
     "skip-back-filled": {
-      "codepoint": 58438,
+      "codepoint": 58491,
       "fontFamily": "Ix",
       "identifier": "skipBackFilled"
     },
     "skip-filled": {
-      "codepoint": 58439,
+      "codepoint": 58492,
       "fontFamily": "Ix",
       "identifier": "skipFilled"
     },
     "sms": {
-      "codepoint": 58440,
+      "codepoint": 58493,
       "fontFamily": "Ix",
       "identifier": "sms"
     },
     "snowflake": {
-      "codepoint": 58441,
+      "codepoint": 58494,
       "fontFamily": "Ix",
       "identifier": "snowflake"
     },
     "solid-state-drive": {
-      "codepoint": 58442,
+      "codepoint": 58495,
       "fontFamily": "Ix",
       "identifier": "solidStateDrive"
     },
     "sort": {
-      "codepoint": 58443,
+      "codepoint": 58496,
       "fontFamily": "Ix",
       "identifier": "sort"
     },
     "sort-alt": {
-      "codepoint": 58444,
+      "codepoint": 58497,
       "fontFamily": "Ix",
       "identifier": "sortAlt"
     },
     "sort-ascending": {
-      "codepoint": 58445,
+      "codepoint": 58498,
       "fontFamily": "Ix",
       "identifier": "sortAscending"
     },
     "sort-descending": {
-      "codepoint": 58446,
+      "codepoint": 58499,
       "fontFamily": "Ix",
       "identifier": "sortDescending"
     },
     "sound-loud": {
-      "codepoint": 58447,
+      "codepoint": 58500,
       "fontFamily": "Ix",
       "identifier": "soundLoud"
     },
     "sound-loud-filled": {
-      "codepoint": 58448,
+      "codepoint": 58501,
       "fontFamily": "Ix",
       "identifier": "soundLoudFilled"
     },
     "sound-mute": {
-      "codepoint": 58449,
+      "codepoint": 58502,
       "fontFamily": "Ix",
       "identifier": "soundMute"
     },
     "sound-mute-filled": {
-      "codepoint": 58450,
+      "codepoint": 58503,
       "fontFamily": "Ix",
       "identifier": "soundMuteFilled"
     },
     "sound-off": {
-      "codepoint": 58451,
+      "codepoint": 58504,
       "fontFamily": "Ix",
       "identifier": "soundOff"
     },
     "sound-off-filled": {
-      "codepoint": 58452,
+      "codepoint": 58505,
       "fontFamily": "Ix",
       "identifier": "soundOffFilled"
     },
     "sound-quiet": {
-      "codepoint": 58453,
+      "codepoint": 58506,
       "fontFamily": "Ix",
       "identifier": "soundQuiet"
     },
     "sound-quiet-filled": {
-      "codepoint": 58454,
+      "codepoint": 58507,
       "fontFamily": "Ix",
       "identifier": "soundQuietFilled"
     },
     "spatial": {
-      "codepoint": 58455,
+      "codepoint": 58508,
       "fontFamily": "Ix",
       "identifier": "spatial"
     },
     "spiderchart": {
-      "codepoint": 58456,
+      "codepoint": 58509,
       "fontFamily": "Ix",
       "identifier": "spiderchart"
     },
     "spiderchart-filled": {
-      "codepoint": 58457,
+      "codepoint": 58510,
       "fontFamily": "Ix",
       "identifier": "spiderchartFilled"
     },
     "split": {
-      "codepoint": 58458,
+      "codepoint": 58511,
       "fontFamily": "Ix",
       "identifier": "split"
     },
     "split-horizontally": {
-      "codepoint": 58459,
+      "codepoint": 58512,
       "fontFamily": "Ix",
       "identifier": "splitHorizontally"
     },
     "split-vertically": {
-      "codepoint": 58460,
+      "codepoint": 58513,
       "fontFamily": "Ix",
       "identifier": "splitVertically"
     },
     "stacked-barchart": {
-      "codepoint": 58461,
+      "codepoint": 58514,
       "fontFamily": "Ix",
       "identifier": "stackedBarchart"
     },
     "stamp": {
-      "codepoint": 58462,
+      "codepoint": 58515,
       "fontFamily": "Ix",
       "identifier": "stamp"
     },
     "stamp-filled": {
-      "codepoint": 58463,
+      "codepoint": 58516,
       "fontFamily": "Ix",
       "identifier": "stampFilled"
     },
     "standby": {
-      "codepoint": 58464,
+      "codepoint": 58517,
       "fontFamily": "Ix",
       "identifier": "standby"
     },
     "star": {
-      "codepoint": 58465,
+      "codepoint": 58518,
       "fontFamily": "Ix",
       "identifier": "star"
     },
     "star-add": {
-      "codepoint": 58466,
+      "codepoint": 58519,
       "fontFamily": "Ix",
       "identifier": "starAdd"
     },
     "star-add-filled": {
-      "codepoint": 58467,
+      "codepoint": 58520,
       "fontFamily": "Ix",
       "identifier": "starAddFilled"
     },
     "star-cancelled": {
-      "codepoint": 58468,
+      "codepoint": 58521,
       "fontFamily": "Ix",
       "identifier": "starCancelled"
     },
     "star-cancelled-filled": {
-      "codepoint": 58469,
+      "codepoint": 58522,
       "fontFamily": "Ix",
       "identifier": "starCancelledFilled"
     },
     "star-filled": {
-      "codepoint": 58470,
+      "codepoint": 58523,
       "fontFamily": "Ix",
       "identifier": "starFilled"
     },
     "star-half-filled": {
-      "codepoint": 58471,
+      "codepoint": 58524,
       "fontFamily": "Ix",
       "identifier": "starHalfFilled"
     },
     "star-list": {
-      "codepoint": 58472,
+      "codepoint": 58525,
       "fontFamily": "Ix",
       "identifier": "starList"
     },
     "star-list-filled": {
-      "codepoint": 58473,
+      "codepoint": 58526,
       "fontFamily": "Ix",
       "identifier": "starListFilled"
     },
     "start-data-analysis": {
-      "codepoint": 58474,
+      "codepoint": 58527,
       "fontFamily": "Ix",
       "identifier": "startDataAnalysis"
     },
     "steering": {
-      "codepoint": 58475,
+      "codepoint": 58528,
       "fontFamily": "Ix",
       "identifier": "steering"
     },
     "steering-user": {
-      "codepoint": 58476,
+      "codepoint": 58529,
       "fontFamily": "Ix",
       "identifier": "steeringUser"
     },
     "steering-user-filled": {
-      "codepoint": 58477,
+      "codepoint": 58530,
       "fontFamily": "Ix",
       "identifier": "steeringUserFilled"
     },
     "stethoscope": {
-      "codepoint": 58478,
+      "codepoint": 58531,
       "fontFamily": "Ix",
       "identifier": "stethoscope"
     },
     "stop": {
-      "codepoint": 58479,
+      "codepoint": 58532,
       "fontFamily": "Ix",
       "identifier": "stop"
     },
     "stop-filled": {
-      "codepoint": 58480,
+      "codepoint": 58533,
       "fontFamily": "Ix",
       "identifier": "stopFilled"
     },
     "stopwatch": {
-      "codepoint": 58481,
+      "codepoint": 58534,
       "fontFamily": "Ix",
       "identifier": "stopwatch"
     },
     "stopwatch-filled": {
-      "codepoint": 58482,
+      "codepoint": 58535,
       "fontFamily": "Ix",
       "identifier": "stopwatchFilled"
     },
     "storage": {
-      "codepoint": 58483,
+      "codepoint": 58536,
       "fontFamily": "Ix",
       "identifier": "storage"
     },
     "storage-filled": {
-      "codepoint": 58484,
+      "codepoint": 58537,
       "fontFamily": "Ix",
       "identifier": "storageFilled"
     },
     "subtitle": {
-      "codepoint": 58485,
+      "codepoint": 58538,
       "fontFamily": "Ix",
       "identifier": "subtitle"
     },
     "subtitle-filled": {
-      "codepoint": 58486,
+      "codepoint": 58539,
       "fontFamily": "Ix",
       "identifier": "subtitleFilled"
     },
     "success": {
-      "codepoint": 58487,
+      "codepoint": 58540,
       "fontFamily": "Ix",
       "identifier": "success"
     },
     "success-filled": {
-      "codepoint": 58488,
+      "codepoint": 58541,
       "fontFamily": "Ix",
       "identifier": "successFilled"
     },
     "success-multiple": {
-      "codepoint": 58489,
+      "codepoint": 58542,
       "fontFamily": "Ix",
       "identifier": "successMultiple"
     },
     "success-multiple-filled": {
-      "codepoint": 58490,
+      "codepoint": 58543,
       "fontFamily": "Ix",
       "identifier": "successMultipleFilled"
     },
     "sun": {
-      "codepoint": 58491,
+      "codepoint": 58544,
       "fontFamily": "Ix",
       "identifier": "sun"
     },
     "sun-cloud": {
-      "codepoint": 58492,
+      "codepoint": 58545,
       "fontFamily": "Ix",
       "identifier": "sunCloud"
     },
     "sun-cloud-filled": {
-      "codepoint": 58493,
+      "codepoint": 58546,
       "fontFamily": "Ix",
       "identifier": "sunCloudFilled"
     },
     "sun-filled": {
-      "codepoint": 58494,
+      "codepoint": 58547,
       "fontFamily": "Ix",
       "identifier": "sunFilled"
     },
     "sunrise": {
-      "codepoint": 58495,
+      "codepoint": 58548,
       "fontFamily": "Ix",
       "identifier": "sunrise"
     },
     "sunrise-filled": {
-      "codepoint": 58496,
+      "codepoint": 58549,
       "fontFamily": "Ix",
       "identifier": "sunriseFilled"
     },
     "sunset": {
-      "codepoint": 58497,
+      "codepoint": 58550,
       "fontFamily": "Ix",
       "identifier": "sunset"
     },
     "sunset-filled": {
-      "codepoint": 58498,
+      "codepoint": 58551,
       "fontFamily": "Ix",
       "identifier": "sunsetFilled"
     },
     "support": {
-      "codepoint": 58499,
+      "codepoint": 58552,
       "fontFamily": "Ix",
       "identifier": "support"
     },
     "surveillance": {
-      "codepoint": 58500,
+      "codepoint": 58553,
       "fontFamily": "Ix",
       "identifier": "surveillance"
     },
     "surveillance-filled": {
-      "codepoint": 58501,
+      "codepoint": 58554,
       "fontFamily": "Ix",
       "identifier": "surveillanceFilled"
     },
     "svg-document": {
-      "codepoint": 58502,
+      "codepoint": 58555,
       "fontFamily": "Ix",
       "identifier": "svgDocument"
     },
     "swap-left-right": {
-      "codepoint": 58503,
+      "codepoint": 58556,
       "fontFamily": "Ix",
       "identifier": "swapLeftRight"
     },
     "switch-slider": {
-      "codepoint": 58504,
+      "codepoint": 58557,
       "fontFamily": "Ix",
       "identifier": "switchSlider"
     },
     "sword-swing": {
-      "codepoint": 58505,
+      "codepoint": 58558,
       "fontFamily": "Ix",
       "identifier": "swordSwing"
     },
     "table": {
-      "codepoint": 58506,
+      "codepoint": 58559,
       "fontFamily": "Ix",
       "identifier": "table"
     },
     "table-add-column-right": {
-      "codepoint": 58507,
+      "codepoint": 58560,
       "fontFamily": "Ix",
       "identifier": "tableAddColumnRight"
     },
     "table-add-row-below": {
-      "codepoint": 58508,
+      "codepoint": 58561,
       "fontFamily": "Ix",
       "identifier": "tableAddRowBelow"
     },
     "table-columns": {
-      "codepoint": 58509,
+      "codepoint": 58562,
       "fontFamily": "Ix",
       "identifier": "tableColumns"
     },
     "table-insert-column-left": {
-      "codepoint": 58510,
+      "codepoint": 58563,
       "fontFamily": "Ix",
       "identifier": "tableInsertColumnLeft"
     },
     "table-insert-column-right": {
-      "codepoint": 58511,
+      "codepoint": 58564,
       "fontFamily": "Ix",
       "identifier": "tableInsertColumnRight"
     },
     "table-insert-row-above": {
-      "codepoint": 58512,
+      "codepoint": 58565,
       "fontFamily": "Ix",
       "identifier": "tableInsertRowAbove"
     },
     "table-insert-row-below": {
-      "codepoint": 58513,
+      "codepoint": 58566,
       "fontFamily": "Ix",
       "identifier": "tableInsertRowBelow"
     },
     "table-rows": {
-      "codepoint": 58514,
+      "codepoint": 58567,
       "fontFamily": "Ix",
       "identifier": "tableRows"
     },
     "table-settings": {
-      "codepoint": 58515,
+      "codepoint": 58568,
       "fontFamily": "Ix",
       "identifier": "tableSettings"
     },
     "table-tag": {
-      "codepoint": 58516,
+      "codepoint": 58569,
       "fontFamily": "Ix",
       "identifier": "tableTag"
     },
     "tag": {
-      "codepoint": 58517,
+      "codepoint": 58570,
       "fontFamily": "Ix",
       "identifier": "tag"
     },
     "tag-arrow-left": {
-      "codepoint": 58518,
+      "codepoint": 58571,
       "fontFamily": "Ix",
       "identifier": "tagArrowLeft"
     },
     "tag-arrow-left-filled": {
-      "codepoint": 58519,
+      "codepoint": 58572,
       "fontFamily": "Ix",
       "identifier": "tagArrowLeftFilled"
     },
     "tag-arrow-right": {
-      "codepoint": 58520,
+      "codepoint": 58573,
       "fontFamily": "Ix",
       "identifier": "tagArrowRight"
     },
     "tag-arrow-right-filled": {
-      "codepoint": 58521,
+      "codepoint": 58574,
       "fontFamily": "Ix",
       "identifier": "tagArrowRightFilled"
     },
     "tag-circle-arrow-down": {
-      "codepoint": 58522,
+      "codepoint": 58575,
       "fontFamily": "Ix",
       "identifier": "tagCircleArrowDown"
     },
     "tag-circle-arrow-down-filled": {
-      "codepoint": 58523,
+      "codepoint": 58576,
       "fontFamily": "Ix",
       "identifier": "tagCircleArrowDownFilled"
     },
     "tag-connection": {
-      "codepoint": 58524,
+      "codepoint": 58577,
       "fontFamily": "Ix",
       "identifier": "tagConnection"
     },
     "tag-connection-filled": {
-      "codepoint": 58525,
+      "codepoint": 58578,
       "fontFamily": "Ix",
       "identifier": "tagConnectionFilled"
     },
     "tag-connection-view": {
-      "codepoint": 58526,
+      "codepoint": 58579,
       "fontFamily": "Ix",
       "identifier": "tagConnectionView"
     },
     "tag-eye": {
-      "codepoint": 58527,
+      "codepoint": 58580,
       "fontFamily": "Ix",
       "identifier": "tagEye"
     },
     "tag-eye-filled": {
-      "codepoint": 58528,
+      "codepoint": 58581,
       "fontFamily": "Ix",
       "identifier": "tagEyeFilled"
     },
     "tag-filled": {
-      "codepoint": 58529,
+      "codepoint": 58582,
       "fontFamily": "Ix",
       "identifier": "tagFilled"
     },
     "tag-logging": {
-      "codepoint": 58530,
+      "codepoint": 58583,
       "fontFamily": "Ix",
       "identifier": "tagLogging"
     },
     "tag-logging-filled": {
-      "codepoint": 58531,
+      "codepoint": 58584,
       "fontFamily": "Ix",
       "identifier": "tagLoggingFilled"
     },
     "tag-plus": {
-      "codepoint": 58532,
+      "codepoint": 58585,
       "fontFamily": "Ix",
       "identifier": "tagPlus"
     },
     "tag-plus-filled": {
-      "codepoint": 58533,
+      "codepoint": 58586,
       "fontFamily": "Ix",
       "identifier": "tagPlusFilled"
     },
+    "tag-safety": {
+      "codepoint": 58587,
+      "fontFamily": "Ix",
+      "identifier": "tagSafety"
+    },
+    "tag-safety-filled": {
+      "codepoint": 58588,
+      "fontFamily": "Ix",
+      "identifier": "tagSafetyFilled"
+    },
     "tasks-all": {
-      "codepoint": 58534,
+      "codepoint": 58589,
       "fontFamily": "Ix",
       "identifier": "tasksAll"
     },
     "tasks-done": {
-      "codepoint": 58535,
+      "codepoint": 58590,
       "fontFamily": "Ix",
       "identifier": "tasksDone"
     },
     "tasks-open": {
-      "codepoint": 58536,
+      "codepoint": 58591,
       "fontFamily": "Ix",
       "identifier": "tasksOpen"
     },
     "text": {
-      "codepoint": 58537,
+      "codepoint": 58592,
       "fontFamily": "Ix",
       "identifier": "text"
     },
     "text-alginment-center": {
-      "codepoint": 58538,
+      "codepoint": 58593,
       "fontFamily": "Ix",
       "identifier": "textAlginmentCenter"
     },
     "text-alginment-justified": {
-      "codepoint": 58539,
+      "codepoint": 58594,
       "fontFamily": "Ix",
       "identifier": "textAlginmentJustified"
     },
     "text-alginment-left": {
-      "codepoint": 58540,
+      "codepoint": 58595,
       "fontFamily": "Ix",
       "identifier": "textAlginmentLeft"
     },
     "text-alginment-right": {
-      "codepoint": 58541,
+      "codepoint": 58596,
       "fontFamily": "Ix",
       "identifier": "textAlginmentRight"
     },
     "text-bold": {
-      "codepoint": 58542,
+      "codepoint": 58597,
       "fontFamily": "Ix",
       "identifier": "textBold"
     },
     "text-circle-rectangle": {
-      "codepoint": 58543,
+      "codepoint": 58598,
       "fontFamily": "Ix",
       "identifier": "textCircleRectangle"
     },
     "text-circle-rectangle-filled": {
-      "codepoint": 58544,
+      "codepoint": 58599,
       "fontFamily": "Ix",
       "identifier": "textCircleRectangleFilled"
     },
     "text-document": {
-      "codepoint": 58545,
+      "codepoint": 58600,
       "fontFamily": "Ix",
       "identifier": "textDocument"
     },
     "text-italic": {
-      "codepoint": 58546,
+      "codepoint": 58601,
       "fontFamily": "Ix",
       "identifier": "textItalic"
     },
     "text-strike-through": {
-      "codepoint": 58547,
+      "codepoint": 58602,
       "fontFamily": "Ix",
       "identifier": "textStrikeThrough"
     },
     "text-underline": {
-      "codepoint": 58548,
+      "codepoint": 58603,
       "fontFamily": "Ix",
       "identifier": "textUnderline"
     },
     "theme": {
-      "codepoint": 58549,
+      "codepoint": 58604,
       "fontFamily": "Ix",
       "identifier": "theme"
     },
     "theme-filled": {
-      "codepoint": 58550,
+      "codepoint": 58605,
       "fontFamily": "Ix",
       "identifier": "themeFilled"
     },
     "thermometer": {
-      "codepoint": 58551,
+      "codepoint": 58606,
       "fontFamily": "Ix",
       "identifier": "thermometer"
     },
     "thermometer-filled": {
-      "codepoint": 58552,
+      "codepoint": 58607,
       "fontFamily": "Ix",
       "identifier": "thermometerFilled"
     },
     "threads-logo": {
-      "codepoint": 58553,
+      "codepoint": 58608,
       "fontFamily": "Ix",
       "identifier": "threadsLogo"
     },
     "threshold-cancelled": {
-      "codepoint": 58554,
+      "codepoint": 58609,
       "fontFamily": "Ix",
       "identifier": "thresholdCancelled"
     },
     "threshold-off": {
-      "codepoint": 58555,
+      "codepoint": 58610,
       "fontFamily": "Ix",
       "identifier": "thresholdOff"
     },
     "threshold-on": {
-      "codepoint": 58556,
+      "codepoint": 58611,
       "fontFamily": "Ix",
       "identifier": "thresholdOn"
     },
     "thumb-down-filled": {
-      "codepoint": 58557,
+      "codepoint": 58612,
       "fontFamily": "Ix",
       "identifier": "thumbDownFilled"
     },
     "thumb-up": {
-      "codepoint": 58558,
+      "codepoint": 58613,
       "fontFamily": "Ix",
       "identifier": "thumbUp"
     },
     "thumb-up-filled": {
-      "codepoint": 58559,
+      "codepoint": 58614,
       "fontFamily": "Ix",
       "identifier": "thumbUpFilled"
     },
     "ticket": {
-      "codepoint": 58560,
+      "codepoint": 58615,
       "fontFamily": "Ix",
       "identifier": "ticket"
     },
     "ticket-filled": {
-      "codepoint": 58561,
+      "codepoint": 58616,
       "fontFamily": "Ix",
       "identifier": "ticketFilled"
     },
     "tiktok-logo": {
-      "codepoint": 58562,
+      "codepoint": 58617,
       "fontFamily": "Ix",
       "identifier": "tiktokLogo"
     },
     "tiles": {
-      "codepoint": 58563,
+      "codepoint": 58618,
       "fontFamily": "Ix",
       "identifier": "tiles"
     },
     "tiles-filled": {
-      "codepoint": 58564,
+      "codepoint": 58619,
       "fontFamily": "Ix",
       "identifier": "tilesFilled"
     },
     "time-zone": {
-      "codepoint": 58565,
+      "codepoint": 58620,
       "fontFamily": "Ix",
       "identifier": "timeZone"
     },
     "time-zone-filled": {
-      "codepoint": 58566,
+      "codepoint": 58621,
       "fontFamily": "Ix",
       "identifier": "timeZoneFilled"
     },
     "to-be-published": {
-      "codepoint": 58567,
+      "codepoint": 58622,
       "fontFamily": "Ix",
       "identifier": "toBePublished"
     },
     "to-search": {
-      "codepoint": 58568,
+      "codepoint": 58623,
       "fontFamily": "Ix",
       "identifier": "toSearch"
     },
     "topic": {
-      "codepoint": 58569,
+      "codepoint": 58624,
       "fontFamily": "Ix",
       "identifier": "topic"
     },
     "topic-filled": {
-      "codepoint": 58570,
+      "codepoint": 58625,
       "fontFamily": "Ix",
       "identifier": "topicFilled"
     },
     "touch": {
-      "codepoint": 58571,
+      "codepoint": 58626,
       "fontFamily": "Ix",
       "identifier": "touch"
     },
     "touch-filled": {
-      "codepoint": 58572,
+      "codepoint": 58627,
       "fontFamily": "Ix",
       "identifier": "touchFilled"
     },
     "trace-eye": {
-      "codepoint": 58573,
+      "codepoint": 58628,
       "fontFamily": "Ix",
       "identifier": "traceEye"
     },
     "traffic-left-right": {
-      "codepoint": 58574,
+      "codepoint": 58629,
       "fontFamily": "Ix",
       "identifier": "trafficLeftRight"
     },
     "train": {
-      "codepoint": 58575,
+      "codepoint": 58630,
       "fontFamily": "Ix",
       "identifier": "train"
     },
     "train-filled": {
-      "codepoint": 58576,
+      "codepoint": 58631,
       "fontFamily": "Ix",
       "identifier": "trainFilled"
     },
     "trashcan": {
-      "codepoint": 58577,
+      "codepoint": 58632,
       "fontFamily": "Ix",
       "identifier": "trashcan"
     },
     "trashcan-filled": {
-      "codepoint": 58578,
+      "codepoint": 58633,
       "fontFamily": "Ix",
       "identifier": "trashcanFilled"
     },
     "tree": {
-      "codepoint": 58579,
+      "codepoint": 58634,
       "fontFamily": "Ix",
       "identifier": "tree"
     },
     "tree-two-level": {
-      "codepoint": 58580,
+      "codepoint": 58635,
       "fontFamily": "Ix",
       "identifier": "treeTwoLevel"
     },
     "trend": {
-      "codepoint": 58581,
+      "codepoint": 58636,
       "fontFamily": "Ix",
       "identifier": "trend"
     },
     "trend-companion": {
-      "codepoint": 58582,
+      "codepoint": 58637,
       "fontFamily": "Ix",
       "identifier": "trendCompanion"
     },
     "trend-downward": {
-      "codepoint": 58583,
+      "codepoint": 58638,
       "fontFamily": "Ix",
       "identifier": "trendDownward"
     },
     "trend-downward-circle": {
-      "codepoint": 58584,
+      "codepoint": 58639,
       "fontFamily": "Ix",
       "identifier": "trendDownwardCircle"
     },
     "trend-downward-filled": {
-      "codepoint": 58585,
+      "codepoint": 58640,
       "fontFamily": "Ix",
       "identifier": "trendDownwardFilled"
     },
     "trend-flat-curve": {
-      "codepoint": 58586,
+      "codepoint": 58641,
       "fontFamily": "Ix",
       "identifier": "trendFlatCurve"
     },
     "trend-sideways": {
-      "codepoint": 58587,
+      "codepoint": 58642,
       "fontFamily": "Ix",
       "identifier": "trendSideways"
     },
     "trend-sideways-circle": {
-      "codepoint": 58588,
+      "codepoint": 58643,
       "fontFamily": "Ix",
       "identifier": "trendSidewaysCircle"
     },
     "trend-sideways-filled": {
-      "codepoint": 58589,
+      "codepoint": 58644,
       "fontFamily": "Ix",
       "identifier": "trendSidewaysFilled"
     },
     "trend-upward": {
-      "codepoint": 58590,
+      "codepoint": 58645,
       "fontFamily": "Ix",
       "identifier": "trendUpward"
     },
     "trend-upward-circle": {
-      "codepoint": 58591,
+      "codepoint": 58646,
       "fontFamily": "Ix",
       "identifier": "trendUpwardCircle"
     },
     "trend-upward-filled": {
-      "codepoint": 58592,
+      "codepoint": 58647,
       "fontFamily": "Ix",
       "identifier": "trendUpwardFilled"
     },
     "triangle": {
-      "codepoint": 58593,
+      "codepoint": 58648,
       "fontFamily": "Ix",
       "identifier": "triangle"
     },
     "triangle-filled": {
-      "codepoint": 58594,
+      "codepoint": 58649,
       "fontFamily": "Ix",
       "identifier": "triangleFilled"
     },
     "trophy": {
-      "codepoint": 58595,
+      "codepoint": 58650,
       "fontFamily": "Ix",
       "identifier": "trophy"
     },
     "trophy-filled": {
-      "codepoint": 58596,
+      "codepoint": 58651,
       "fontFamily": "Ix",
       "identifier": "trophyFilled"
     },
     "truck": {
-      "codepoint": 58597,
+      "codepoint": 58652,
       "fontFamily": "Ix",
       "identifier": "truck"
     },
     "truck-filled": {
-      "codepoint": 58598,
+      "codepoint": 58653,
       "fontFamily": "Ix",
       "identifier": "truckFilled"
     },
     "tulip": {
-      "codepoint": 58599,
+      "codepoint": 58654,
       "fontFamily": "Ix",
       "identifier": "tulip"
     },
     "tulip-filled": {
-      "codepoint": 58600,
+      "codepoint": 58655,
       "fontFamily": "Ix",
       "identifier": "tulipFilled"
     },
     "txt-document": {
-      "codepoint": 58601,
+      "codepoint": 58656,
       "fontFamily": "Ix",
       "identifier": "txtDocument"
     },
     "txt-document-filled": {
-      "codepoint": 58602,
+      "codepoint": 58657,
       "fontFamily": "Ix",
       "identifier": "txtDocumentFilled"
     },
     "undo": {
-      "codepoint": 58603,
+      "codepoint": 58658,
       "fontFamily": "Ix",
       "identifier": "undo"
     },
     "ungroup": {
-      "codepoint": 58604,
+      "codepoint": 58659,
       "fontFamily": "Ix",
       "identifier": "ungroup"
     },
     "ungroup-objects": {
-      "codepoint": 58605,
+      "codepoint": 58660,
       "fontFamily": "Ix",
       "identifier": "ungroupObjects"
     },
     "unlock": {
-      "codepoint": 58606,
+      "codepoint": 58661,
       "fontFamily": "Ix",
       "identifier": "unlock"
     },
     "unlock-filled": {
-      "codepoint": 58607,
+      "codepoint": 58662,
       "fontFamily": "Ix",
       "identifier": "unlockFilled"
     },
     "unlock-plant": {
-      "codepoint": 58608,
+      "codepoint": 58663,
       "fontFamily": "Ix",
       "identifier": "unlockPlant"
     },
     "unlock-plant-filled": {
-      "codepoint": 58609,
+      "codepoint": 58664,
       "fontFamily": "Ix",
       "identifier": "unlockPlantFilled"
     },
+    "update-application": {
+      "codepoint": 58665,
+      "fontFamily": "Ix",
+      "identifier": "updateApplication"
+    },
     "upload": {
-      "codepoint": 58610,
+      "codepoint": 58666,
       "fontFamily": "Ix",
       "identifier": "upload"
     },
     "upload-document-note": {
-      "codepoint": 58611,
+      "codepoint": 58667,
       "fontFamily": "Ix",
       "identifier": "uploadDocumentNote"
     },
     "upload-fail": {
-      "codepoint": 58612,
+      "codepoint": 58668,
       "fontFamily": "Ix",
       "identifier": "uploadFail"
     },
     "upload-success": {
-      "codepoint": 58613,
+      "codepoint": 58669,
       "fontFamily": "Ix",
       "identifier": "uploadSuccess"
     },
     "upper-limit": {
-      "codepoint": 58614,
+      "codepoint": 58670,
       "fontFamily": "Ix",
       "identifier": "upperLimit"
     },
     "usb-drive": {
-      "codepoint": 58615,
+      "codepoint": 58671,
       "fontFamily": "Ix",
       "identifier": "usbDrive"
     },
     "user": {
-      "codepoint": 58616,
+      "codepoint": 58672,
       "fontFamily": "Ix",
       "identifier": "user"
     },
     "user-check": {
-      "codepoint": 58617,
+      "codepoint": 58673,
       "fontFamily": "Ix",
       "identifier": "userCheck"
     },
     "user-check-filled": {
-      "codepoint": 58618,
+      "codepoint": 58674,
       "fontFamily": "Ix",
       "identifier": "userCheckFilled"
     },
     "user-data-types": {
-      "codepoint": 58619,
+      "codepoint": 58675,
       "fontFamily": "Ix",
       "identifier": "userDataTypes"
     },
     "user-fail": {
-      "codepoint": 58620,
+      "codepoint": 58676,
       "fontFamily": "Ix",
       "identifier": "userFail"
     },
     "user-fail-filled": {
-      "codepoint": 58621,
+      "codepoint": 58677,
       "fontFamily": "Ix",
       "identifier": "userFailFilled"
     },
     "user-filled": {
-      "codepoint": 58622,
+      "codepoint": 58678,
       "fontFamily": "Ix",
       "identifier": "userFilled"
     },
     "user-group": {
-      "codepoint": 58623,
+      "codepoint": 58679,
       "fontFamily": "Ix",
       "identifier": "userGroup"
     },
     "user-key": {
-      "codepoint": 58624,
+      "codepoint": 58680,
       "fontFamily": "Ix",
       "identifier": "userKey"
     },
     "user-lock": {
-      "codepoint": 58625,
+      "codepoint": 58681,
       "fontFamily": "Ix",
       "identifier": "userLock"
     },
     "user-lock-filled": {
-      "codepoint": 58626,
+      "codepoint": 58682,
       "fontFamily": "Ix",
       "identifier": "userLockFilled"
     },
     "user-management": {
-      "codepoint": 58627,
+      "codepoint": 58683,
       "fontFamily": "Ix",
       "identifier": "userManagement"
     },
     "user-management-filled": {
-      "codepoint": 58628,
+      "codepoint": 58684,
       "fontFamily": "Ix",
       "identifier": "userManagementFilled"
     },
     "user-management-settings": {
-      "codepoint": 58629,
+      "codepoint": 58685,
       "fontFamily": "Ix",
       "identifier": "userManagementSettings"
     },
     "user-management-settings-filled": {
-      "codepoint": 58630,
+      "codepoint": 58686,
       "fontFamily": "Ix",
       "identifier": "userManagementSettingsFilled"
     },
     "user-manual": {
-      "codepoint": 58631,
+      "codepoint": 58687,
       "fontFamily": "Ix",
       "identifier": "userManual"
     },
     "user-manual-filled": {
-      "codepoint": 58632,
+      "codepoint": 58688,
       "fontFamily": "Ix",
       "identifier": "userManualFilled"
     },
     "user-pen": {
-      "codepoint": 58633,
+      "codepoint": 58689,
       "fontFamily": "Ix",
       "identifier": "userPen"
     },
     "user-profile": {
-      "codepoint": 58634,
+      "codepoint": 58690,
       "fontFamily": "Ix",
       "identifier": "userProfile"
     },
     "user-profile-filled": {
-      "codepoint": 58635,
+      "codepoint": 58691,
       "fontFamily": "Ix",
       "identifier": "userProfileFilled"
     },
     "user-reading": {
-      "codepoint": 58636,
+      "codepoint": 58692,
       "fontFamily": "Ix",
       "identifier": "userReading"
     },
     "user-reading-filled": {
-      "codepoint": 58637,
+      "codepoint": 58693,
       "fontFamily": "Ix",
       "identifier": "userReadingFilled"
     },
     "user-reading-reading": {
-      "codepoint": 58638,
+      "codepoint": 58694,
       "fontFamily": "Ix",
       "identifier": "userReadingReading"
     },
     "user-settings": {
-      "codepoint": 58639,
+      "codepoint": 58695,
       "fontFamily": "Ix",
       "identifier": "userSettings"
     },
     "user-settings-filled": {
-      "codepoint": 58640,
+      "codepoint": 58696,
       "fontFamily": "Ix",
       "identifier": "userSettingsFilled"
     },
     "user-success": {
-      "codepoint": 58641,
+      "codepoint": 58697,
       "fontFamily": "Ix",
       "identifier": "userSuccess"
     },
     "user-success-filled": {
-      "codepoint": 58642,
+      "codepoint": 58698,
       "fontFamily": "Ix",
       "identifier": "userSuccessFilled"
     },
     "validate": {
-      "codepoint": 58643,
+      "codepoint": 58699,
       "fontFamily": "Ix",
       "identifier": "validate"
     },
     "variable": {
-      "codepoint": 58644,
+      "codepoint": 58700,
       "fontFamily": "Ix",
       "identifier": "variable"
     },
     "vdi-folder": {
-      "codepoint": 58645,
+      "codepoint": 58701,
       "fontFamily": "Ix",
       "identifier": "vdiFolder"
     },
     "version-history": {
-      "codepoint": 58646,
+      "codepoint": 58702,
       "fontFamily": "Ix",
       "identifier": "versionHistory"
     },
     "video-camera": {
-      "codepoint": 58647,
+      "codepoint": 58703,
       "fontFamily": "Ix",
       "identifier": "videoCamera"
     },
     "video-camera-filled": {
-      "codepoint": 58648,
+      "codepoint": 58704,
       "fontFamily": "Ix",
       "identifier": "videoCameraFilled"
     },
     "video-camera-record": {
-      "codepoint": 58649,
+      "codepoint": 58705,
       "fontFamily": "Ix",
       "identifier": "videoCameraRecord"
     },
     "video-camera-record-filled": {
-      "codepoint": 58650,
+      "codepoint": 58706,
       "fontFamily": "Ix",
       "identifier": "videoCameraRecordFilled"
     },
     "video-file": {
-      "codepoint": 58651,
+      "codepoint": 58707,
       "fontFamily": "Ix",
       "identifier": "videoFile"
     },
     "video-file-filled": {
-      "codepoint": 58652,
+      "codepoint": 58708,
       "fontFamily": "Ix",
       "identifier": "videoFileFilled"
     },
     "viva-engage-logo": {
-      "codepoint": 58653,
+      "codepoint": 58709,
       "fontFamily": "Ix",
       "identifier": "vivaEngageLogo"
     },
     "voltage": {
-      "codepoint": 58654,
+      "codepoint": 58710,
       "fontFamily": "Ix",
       "identifier": "voltage"
     },
     "voltage-filled": {
-      "codepoint": 58655,
+      "codepoint": 58711,
       "fontFamily": "Ix",
       "identifier": "voltageFilled"
     },
     "warning": {
-      "codepoint": 58656,
+      "codepoint": 58712,
       "fontFamily": "Ix",
       "identifier": "warning"
     },
     "warning-filled": {
-      "codepoint": 58657,
+      "codepoint": 58713,
       "fontFamily": "Ix",
       "identifier": "warningFilled"
     },
+    "warning-hexagon": {
+      "codepoint": 58714,
+      "fontFamily": "Ix",
+      "identifier": "warningHexagon"
+    },
+    "warning-hexagon-filled": {
+      "codepoint": 58715,
+      "fontFamily": "Ix",
+      "identifier": "warningHexagonFilled"
+    },
     "warning-multiple": {
-      "codepoint": 58658,
+      "codepoint": 58716,
       "fontFamily": "Ix",
       "identifier": "warningMultiple"
     },
     "warning-multiple-filled": {
-      "codepoint": 58659,
+      "codepoint": 58717,
       "fontFamily": "Ix",
       "identifier": "warningMultipleFilled"
     },
+    "warning-octagon": {
+      "codepoint": 58718,
+      "fontFamily": "Ix",
+      "identifier": "warningOctagon"
+    },
+    "warning-octagon-filled": {
+      "codepoint": 58719,
+      "fontFamily": "Ix",
+      "identifier": "warningOctagonFilled"
+    },
     "warning-rhomb": {
-      "codepoint": 58660,
+      "codepoint": 58720,
       "fontFamily": "Ix",
       "identifier": "warningRhomb"
     },
     "warning-rhomb-filled": {
-      "codepoint": 58661,
+      "codepoint": 58721,
       "fontFamily": "Ix",
       "identifier": "warningRhombFilled"
     },
     "warning-rhomb-multiple": {
-      "codepoint": 58662,
+      "codepoint": 58722,
       "fontFamily": "Ix",
       "identifier": "warningRhombMultiple"
     },
     "warning-rhomb-multiple-filled": {
-      "codepoint": 58663,
+      "codepoint": 58723,
       "fontFamily": "Ix",
       "identifier": "warningRhombMultipleFilled"
     },
+    "warning-square": {
+      "codepoint": 58724,
+      "fontFamily": "Ix",
+      "identifier": "warningSquare"
+    },
+    "warning-square-filled": {
+      "codepoint": 58725,
+      "fontFamily": "Ix",
+      "identifier": "warningSquareFilled"
+    },
     "watch-table": {
-      "codepoint": 58664,
+      "codepoint": 58726,
       "fontFamily": "Ix",
       "identifier": "watchTable"
     },
     "water-bathing": {
-      "codepoint": 58665,
+      "codepoint": 58727,
       "fontFamily": "Ix",
       "identifier": "waterBathing"
     },
     "water-fish": {
-      "codepoint": 58666,
+      "codepoint": 58728,
       "fontFamily": "Ix",
       "identifier": "waterFish"
     },
     "water-plant": {
-      "codepoint": 58667,
+      "codepoint": 58729,
       "fontFamily": "Ix",
       "identifier": "waterPlant"
     },
     "water-sunbathing": {
-      "codepoint": 58668,
+      "codepoint": 58730,
       "fontFamily": "Ix",
       "identifier": "waterSunbathing"
     },
     "waveform": {
-      "codepoint": 58669,
+      "codepoint": 58731,
       "fontFamily": "Ix",
       "identifier": "waveform"
     },
     "web-browser-screen": {
-      "codepoint": 58670,
+      "codepoint": 58732,
       "fontFamily": "Ix",
       "identifier": "webBrowserScreen"
     },
     "webcam": {
-      "codepoint": 58671,
+      "codepoint": 58733,
       "fontFamily": "Ix",
       "identifier": "webcam"
     },
     "webcam-filled": {
-      "codepoint": 58672,
+      "codepoint": 58734,
       "fontFamily": "Ix",
       "identifier": "webcamFilled"
     },
     "wechat-logo": {
-      "codepoint": 58673,
+      "codepoint": 58735,
       "fontFamily": "Ix",
       "identifier": "wechatLogo"
     },
     "weibo-logo": {
-      "codepoint": 58674,
+      "codepoint": 58736,
       "fontFamily": "Ix",
       "identifier": "weiboLogo"
     },
     "width": {
-      "codepoint": 58675,
+      "codepoint": 58737,
       "fontFamily": "Ix",
       "identifier": "width"
     },
     "wlan-off": {
-      "codepoint": 58676,
+      "codepoint": 58738,
       "fontFamily": "Ix",
       "identifier": "wlanOff"
     },
     "wlan-strength-0": {
-      "codepoint": 58677,
+      "codepoint": 58739,
       "fontFamily": "Ix",
       "identifier": "wlanStrength0"
     },
     "wlan-strength-1": {
-      "codepoint": 58678,
+      "codepoint": 58740,
       "fontFamily": "Ix",
       "identifier": "wlanStrength1"
     },
     "wlan-strength-1-lock": {
-      "codepoint": 58679,
+      "codepoint": 58741,
       "fontFamily": "Ix",
       "identifier": "wlanStrength1Lock"
     },
     "wlan-strength-2": {
-      "codepoint": 58680,
+      "codepoint": 58742,
       "fontFamily": "Ix",
       "identifier": "wlanStrength2"
     },
     "wlan-strength-2-lock": {
-      "codepoint": 58681,
+      "codepoint": 58743,
       "fontFamily": "Ix",
       "identifier": "wlanStrength2Lock"
     },
     "wlan-strength-3": {
-      "codepoint": 58682,
+      "codepoint": 58744,
       "fontFamily": "Ix",
       "identifier": "wlanStrength3"
     },
     "wlan-strength-3-lock": {
-      "codepoint": 58683,
+      "codepoint": 58745,
       "fontFamily": "Ix",
       "identifier": "wlanStrength3Lock"
     },
     "wlan-warning": {
-      "codepoint": 58684,
+      "codepoint": 58746,
       "fontFamily": "Ix",
       "identifier": "wlanWarning"
     },
     "work-case": {
-      "codepoint": 58685,
+      "codepoint": 58747,
       "fontFamily": "Ix",
       "identifier": "workCase"
     },
     "work-case-filled": {
-      "codepoint": 58686,
+      "codepoint": 58748,
       "fontFamily": "Ix",
       "identifier": "workCaseFilled"
     },
     "workspace": {
-      "codepoint": 58687,
+      "codepoint": 58749,
       "fontFamily": "Ix",
       "identifier": "workspace"
     },
     "workspaces": {
-      "codepoint": 58688,
+      "codepoint": 58750,
       "fontFamily": "Ix",
       "identifier": "workspaces"
     },
     "x-axis-settings": {
-      "codepoint": 58689,
+      "codepoint": 58751,
       "fontFamily": "Ix",
       "identifier": "xAxisSettings"
     },
     "x-logo": {
-      "codepoint": 58690,
+      "codepoint": 58752,
       "fontFamily": "Ix",
       "identifier": "xLogo"
     },
     "xls-document": {
-      "codepoint": 58691,
+      "codepoint": 58753,
       "fontFamily": "Ix",
       "identifier": "xlsDocument"
     },
     "xls-document-filled": {
-      "codepoint": 58692,
+      "codepoint": 58754,
       "fontFamily": "Ix",
       "identifier": "xlsDocumentFilled"
     },
     "xml-document": {
-      "codepoint": 58693,
+      "codepoint": 58755,
       "fontFamily": "Ix",
       "identifier": "xmlDocument"
     },
     "y-axis-settings": {
-      "codepoint": 58694,
+      "codepoint": 58756,
       "fontFamily": "Ix",
       "identifier": "yAxisSettings"
     },
     "youtube": {
-      "codepoint": 58695,
+      "codepoint": 58757,
       "fontFamily": "Ix",
       "identifier": "youtube"
     },
     "youtube-filled": {
-      "codepoint": 58696,
+      "codepoint": 58758,
       "fontFamily": "Ix",
       "identifier": "youtubeFilled"
     },
     "zone": {
-      "codepoint": 58697,
+      "codepoint": 58759,
       "fontFamily": "Ix",
       "identifier": "zone"
     },
     "zoom-in": {
-      "codepoint": 58698,
+      "codepoint": 58760,
       "fontFamily": "Ix",
       "identifier": "zoomIn"
     },
     "zoom-out": {
-      "codepoint": 58699,
+      "codepoint": 58761,
       "fontFamily": "Ix",
       "identifier": "zoomOut"
     },
     "zoom-selection": {
-      "codepoint": 58700,
+      "codepoint": 58762,
       "fontFamily": "Ix",
       "identifier": "zoomSelection"
     }

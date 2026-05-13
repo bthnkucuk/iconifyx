@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/evil-icons/evil-icons/blob/master/LICENSE.txt',
-  iconCount: 68,
+  iconCount: 70,
 );

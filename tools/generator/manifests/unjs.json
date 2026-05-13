@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "prefix": "unjs",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Programming",
+  "subPackage": "iconifyx_unjs",
+  "info": {
+    "name": "UnJS Logos",
+    "author": {
+      "name": "UnJS",
+      "url": "https://github.com/unjs"
+    },
+    "license": {
+      "title": "Apache 2.0",
+      "spdx": "Apache-2.0"
+    },
+    "total": 5
+  },
+  "fonts": [
+    {
+      "family": "Unjs",
+      "nextCodepoint": 57349,
+      "iconCount": 5
+    }
+  ],
+  "icons": {
+    "mkdist": {
+      "codepoint": 57344,
+      "fontFamily": "Unjs",
+      "identifier": "mkdist"
+    },
+    "scule": {
+      "codepoint": 57345,
+      "fontFamily": "Unjs",
+      "identifier": "scule"
+    },
+    "unctx": {
+      "codepoint": 57346,
+      "fontFamily": "Unjs",
+      "identifier": "unctx"
+    },
+    "unpdf": {
+      "codepoint": 57347,
+      "fontFamily": "Unjs",
+      "identifier": "unpdf"
+    },
+    "unwasm": {
+      "codepoint": 57348,
+      "fontFamily": "Unjs",
+      "identifier": "unwasm"
+    }
+  }
+}

@@ -422,6 +422,8 @@ dependencies:
     path: ../../iconifyx_uit
   iconifyx_uiw:
     path: ../../iconifyx_uiw
+  iconifyx_unjs:
+    path: ../../iconifyx_unjs
   iconifyx_vaadin:
     path: ../../iconifyx_vaadin
   iconifyx_vs:

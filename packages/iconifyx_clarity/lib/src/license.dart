@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/vmware/clarity-assets/blob/master/LICENSE',
-  iconCount: 1063,
+  iconCount: 1104,
 );

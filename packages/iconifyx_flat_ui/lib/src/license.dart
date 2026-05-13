@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/designmodo/Flat-UI/blob/master/LICENSE',
-  iconCount: 8,
+  iconCount: 19,
 );

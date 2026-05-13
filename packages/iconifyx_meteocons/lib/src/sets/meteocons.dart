@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Bas Milius
 /// License: MIT — https://github.com/basmilius/weather-icons/blob/dev/LICENSE
-/// Icons: 5
+/// Icons: 4
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -40,13 +40,6 @@ class MeteoconsIcons {
   /// `moon-full`
   static const IconifyIconData moonFull = IconifyIconData(IconData(
     0xe003,
-    fontFamily: 'Meteocons',
-    fontPackage: 'iconifyx_meteocons',
-  ));
-
-  /// `thermometer-glass`
-  static const IconifyIconData thermometerGlass = IconifyIconData(IconData(
-    0xe004,
     fontFamily: 'Meteocons',
     fontPackage: 'iconifyx_meteocons',
   ));

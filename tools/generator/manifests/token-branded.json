@@ -16,685 +16,3321 @@
       "spdx": "MIT",
       "url": "https://github.com/0xa3k5/web3icons/blob/main/LICENCE"
     },
-    "total": 134
+    "total": 660
   },
   "fonts": [
     {
       "family": "TokenBranded",
-      "nextCodepoint": 57478,
-      "iconCount": 134
+      "nextCodepoint": 58004,
+      "iconCount": 660
+    },
+    {
+      "family": "TokenBrandedSecondary",
+      "nextCodepoint": 58004,
+      "iconCount": 1
     }
   ],
   "icons": {
-    "acria": {
+    "0x0": {
       "codepoint": 57344,
+      "fontFamily": "TokenBranded",
+      "identifier": "n0x0"
+    },
+    "10set": {
+      "codepoint": 57345,
+      "fontFamily": "TokenBranded",
+      "identifier": "n10set"
+    },
+    "aa": {
+      "codepoint": 57346,
+      "fontFamily": "TokenBranded",
+      "identifier": "aa"
+    },
+    "aag": {
+      "codepoint": 57347,
+      "fontFamily": "TokenBranded",
+      "identifier": "aag"
+    },
+    "abl": {
+      "codepoint": 57348,
+      "fontFamily": "TokenBranded",
+      "identifier": "abl"
+    },
+    "abr": {
+      "codepoint": 57349,
+      "fontFamily": "TokenBranded",
+      "identifier": "abr"
+    },
+    "acria": {
+      "codepoint": 57350,
       "fontFamily": "TokenBranded",
       "identifier": "acria"
     },
+    "acs": {
+      "codepoint": 57351,
+      "fontFamily": "TokenBranded",
+      "identifier": "acs"
+    },
     "acx": {
-      "codepoint": 57345,
+      "codepoint": 57352,
       "fontFamily": "TokenBranded",
       "identifier": "acx"
     },
+    "adco": {
+      "codepoint": 57353,
+      "fontFamily": "TokenBranded",
+      "identifier": "adco"
+    },
+    "ads": {
+      "codepoint": 57354,
+      "fontFamily": "TokenBranded",
+      "identifier": "ads"
+    },
+    "adx": {
+      "codepoint": 57355,
+      "fontFamily": "TokenBranded",
+      "identifier": "adx"
+    },
+    "ae": {
+      "codepoint": 57356,
+      "fontFamily": "TokenBranded",
+      "identifier": "ae"
+    },
+    "aevo": {
+      "codepoint": 57357,
+      "fontFamily": "TokenBranded",
+      "identifier": "aevo"
+    },
+    "agla": {
+      "codepoint": 57358,
+      "fontFamily": "TokenBranded",
+      "identifier": "agla"
+    },
+    "agld": {
+      "codepoint": 57359,
+      "fontFamily": "TokenBranded",
+      "identifier": "agld"
+    },
+    "aht": {
+      "codepoint": 57360,
+      "fontFamily": "TokenBranded",
+      "identifier": "aht"
+    },
+    "aioz": {
+      "codepoint": 57361,
+      "fontFamily": "TokenBranded",
+      "identifier": "aioz"
+    },
     "airi": {
-      "codepoint": 57346,
+      "codepoint": 57362,
       "fontFamily": "TokenBranded",
       "identifier": "airi"
     },
+    "aleph": {
+      "codepoint": 57363,
+      "fontFamily": "TokenBranded",
+      "identifier": "aleph"
+    },
     "algo": {
-      "codepoint": 57347,
+      "codepoint": 57364,
       "fontFamily": "TokenBranded",
       "identifier": "algo"
     },
     "algorand": {
-      "codepoint": 57348,
+      "codepoint": 57365,
       "fontFamily": "TokenBranded",
       "identifier": "algorand"
     },
+    "ali": {
+      "codepoint": 57366,
+      "fontFamily": "TokenBranded",
+      "identifier": "ali"
+    },
+    "alpaca": {
+      "codepoint": 57367,
+      "fontFamily": "TokenBranded",
+      "identifier": "alpaca"
+    },
+    "amp": {
+      "codepoint": 57368,
+      "fontFamily": "TokenBranded",
+      "identifier": "amp"
+    },
+    "apechain": {
+      "codepoint": 57369,
+      "fontFamily": "TokenBranded",
+      "identifier": "apechain"
+    },
+    "apollo": {
+      "codepoint": 57370,
+      "fontFamily": "TokenBranded",
+      "identifier": "apollo"
+    },
+    "aptos": {
+      "codepoint": 57371,
+      "fontFamily": "TokenBranded",
+      "identifier": "aptos"
+    },
+    "apw": {
+      "codepoint": 57372,
+      "fontFamily": "TokenBranded",
+      "identifier": "apw"
+    },
+    "arb": {
+      "codepoint": 57373,
+      "fontFamily": "TokenBranded",
+      "identifier": "arb"
+    },
     "ardr": {
-      "codepoint": 57349,
+      "codepoint": 57374,
       "fontFamily": "TokenBranded",
       "identifier": "ardr"
     },
+    "asd": {
+      "codepoint": 57375,
+      "fontFamily": "TokenBranded",
+      "identifier": "asd"
+    },
+    "ast": {
+      "codepoint": 57376,
+      "fontFamily": "TokenBranded",
+      "identifier": "ast"
+    },
+    "atlas": {
+      "codepoint": 57377,
+      "fontFamily": "TokenBranded",
+      "identifier": "atlas"
+    },
+    "atpay": {
+      "codepoint": 57378,
+      "fontFamily": "TokenBranded",
+      "identifier": "atpay"
+    },
     "atr": {
-      "codepoint": 57350,
+      "codepoint": 57379,
       "fontFamily": "TokenBranded",
       "identifier": "atr"
     },
+    "auction": {
+      "codepoint": 57380,
+      "fontFamily": "TokenBranded",
+      "identifier": "auction"
+    },
+    "aurabal": {
+      "codepoint": 57381,
+      "fontFamily": "TokenBranded",
+      "identifier": "aurabal"
+    },
+    "autonomys": {
+      "codepoint": 57382,
+      "fontFamily": "TokenBranded",
+      "identifier": "autonomys"
+    },
     "avinoc": {
-      "codepoint": 57351,
+      "codepoint": 57383,
       "fontFamily": "TokenBranded",
       "identifier": "avinoc"
     },
+    "axl": {
+      "codepoint": 57384,
+      "fontFamily": "TokenBranded",
+      "identifier": "axl"
+    },
+    "badger": {
+      "codepoint": 57385,
+      "fontFamily": "TokenBranded",
+      "identifier": "badger"
+    },
+    "balancer": {
+      "codepoint": 57386,
+      "fontFamily": "TokenBranded",
+      "identifier": "balancer"
+    },
+    "ban": {
+      "codepoint": 57387,
+      "fontFamily": "TokenBranded",
+      "identifier": "ban"
+    },
+    "banano": {
+      "codepoint": 57388,
+      "fontFamily": "TokenBranded",
+      "identifier": "banano"
+    },
     "bancor": {
-      "codepoint": 57352,
+      "codepoint": 57389,
       "fontFamily": "TokenBranded",
       "identifier": "bancor"
     },
+    "base": {
+      "codepoint": 57390,
+      "fontFamily": "TokenBranded",
+      "identifier": "base"
+    },
+    "bbl": {
+      "codepoint": 57391,
+      "fontFamily": "TokenBranded",
+      "identifier": "bbl"
+    },
+    "bch": {
+      "codepoint": 57392,
+      "fontFamily": "TokenBranded",
+      "identifier": "bch"
+    },
+    "bct": {
+      "codepoint": 57393,
+      "fontFamily": "TokenBranded",
+      "identifier": "bct"
+    },
+    "bean": {
+      "codepoint": 57394,
+      "fontFamily": "TokenBranded",
+      "identifier": "bean"
+    },
+    "beets": {
+      "codepoint": 57395,
+      "fontFamily": "TokenBranded",
+      "identifier": "beets"
+    },
+    "bel": {
+      "codepoint": 57396,
+      "fontFamily": "TokenBranded",
+      "identifier": "bel"
+    },
+    "bfic": {
+      "codepoint": 57397,
+      "fontFamily": "TokenBranded",
+      "identifier": "bfic"
+    },
+    "bft": {
+      "codepoint": 57398,
+      "fontFamily": "TokenBranded",
+      "identifier": "bft"
+    },
     "binance": {
-      "codepoint": 57353,
+      "codepoint": 57399,
       "fontFamily": "TokenBranded",
       "identifier": "binance"
     },
     "binance-smart-chain": {
-      "codepoint": 57354,
+      "codepoint": 57400,
       "fontFamily": "TokenBranded",
       "identifier": "binanceSmartChain"
     },
+    "bit": {
+      "codepoint": 57401,
+      "fontFamily": "TokenBranded",
+      "identifier": "bit"
+    },
     "bitbox": {
-      "codepoint": 57355,
+      "codepoint": 57402,
       "fontFamily": "TokenBranded",
       "identifier": "bitbox"
     },
+    "bitget": {
+      "codepoint": 57403,
+      "fontFamily": "TokenBranded",
+      "identifier": "bitget"
+    },
     "bld": {
-      "codepoint": 57356,
+      "codepoint": 57404,
       "fontFamily": "TokenBranded",
       "identifier": "bld"
     },
+    "blx": {
+      "codepoint": 57405,
+      "fontFamily": "TokenBranded",
+      "identifier": "blx"
+    },
+    "bmx": {
+      "codepoint": 57406,
+      "fontFamily": "TokenBranded",
+      "identifier": "bmx"
+    },
     "bnb": {
-      "codepoint": 57357,
+      "codepoint": 57407,
       "fontFamily": "TokenBranded",
       "identifier": "bnb"
     },
+    "bnt": {
+      "codepoint": 57408,
+      "fontFamily": "TokenBranded",
+      "identifier": "bnt"
+    },
+    "boa": {
+      "codepoint": 57409,
+      "fontFamily": "TokenBranded",
+      "identifier": "boa"
+    },
+    "bob": {
+      "codepoint": 57410,
+      "fontFamily": "TokenBranded",
+      "identifier": "bob"
+    },
+    "boba": {
+      "codepoint": 57411,
+      "fontFamily": "TokenBranded",
+      "identifier": "boba"
+    },
+    "botanix": {
+      "codepoint": 57412,
+      "fontFamily": "TokenBranded",
+      "identifier": "botanix"
+    },
+    "botto": {
+      "codepoint": 57413,
+      "fontFamily": "TokenBranded",
+      "identifier": "botto"
+    },
+    "bouncebit": {
+      "codepoint": 57414,
+      "fontFamily": "TokenBranded",
+      "identifier": "bouncebit"
+    },
+    "bpt": {
+      "codepoint": 57415,
+      "fontFamily": "TokenBranded",
+      "identifier": "bpt"
+    },
     "bridge": {
-      "codepoint": 57358,
+      "codepoint": 57416,
       "fontFamily": "TokenBranded",
       "identifier": "bridge"
     },
+    "bsgg": {
+      "codepoint": 57417,
+      "fontFamily": "TokenBranded",
+      "identifier": "bsgg"
+    },
+    "bsx": {
+      "codepoint": 57418,
+      "fontFamily": "TokenBranded",
+      "identifier": "bsx"
+    },
+    "btcmt": {
+      "codepoint": 57419,
+      "fontFamily": "TokenBranded",
+      "identifier": "btcmt"
+    },
+    "btcst": {
+      "codepoint": 57420,
+      "fontFamily": "TokenBranded",
+      "identifier": "btcst"
+    },
+    "btcturk": {
+      "codepoint": 57421,
+      "fontFamily": "TokenBranded",
+      "identifier": "btcturk"
+    },
+    "btm": {
+      "codepoint": 57422,
+      "fontFamily": "TokenBranded",
+      "identifier": "btm"
+    },
+    "btrfly": {
+      "codepoint": 57423,
+      "fontFamily": "TokenBranded",
+      "identifier": "btrfly"
+    },
+    "bts": {
+      "codepoint": 57424,
+      "fontFamily": "TokenBranded",
+      "identifier": "bts"
+    },
     "bull": {
-      "codepoint": 57359,
+      "codepoint": 57425,
       "fontFamily": "TokenBranded",
       "identifier": "bull"
     },
+    "busd": {
+      "codepoint": 57426,
+      "fontFamily": "TokenBranded",
+      "identifier": "busd"
+    },
+    "bzr": {
+      "codepoint": 57427,
+      "fontFamily": "TokenBranded",
+      "identifier": "bzr"
+    },
+    "c98": {
+      "codepoint": 57428,
+      "fontFamily": "TokenBranded",
+      "identifier": "c98"
+    },
     "canto": {
-      "codepoint": 57360,
+      "codepoint": 57429,
       "fontFamily": "TokenBranded",
       "identifier": "canto"
     },
+    "caps": {
+      "codepoint": 57430,
+      "fontFamily": "TokenBranded",
+      "identifier": "caps"
+    },
+    "carbon": {
+      "codepoint": 57431,
+      "fontFamily": "TokenBranded",
+      "identifier": "carbon"
+    },
+    "card": {
+      "codepoint": 57432,
+      "fontFamily": "TokenBranded",
+      "identifier": "card"
+    },
     "cbeth": {
-      "codepoint": 57361,
+      "codepoint": 57433,
       "fontFamily": "TokenBranded",
       "identifier": "cbeth"
     },
+    "cbx": {
+      "codepoint": 57434,
+      "fontFamily": "TokenBranded",
+      "identifier": "cbx"
+    },
+    "ccd": {
+      "codepoint": 57435,
+      "fontFamily": "TokenBranded",
+      "identifier": "ccd"
+    },
+    "ccv2": {
+      "codepoint": 57436,
+      "fontFamily": "TokenBranded",
+      "identifier": "ccv2"
+    },
     "celo": {
-      "codepoint": 57362,
+      "codepoint": 57437,
       "fontFamily": "TokenBranded",
       "identifier": "celo"
     },
+    "celr": {
+      "codepoint": 57438,
+      "fontFamily": "TokenBranded",
+      "identifier": "celr"
+    },
+    "cetus": {
+      "codepoint": 57439,
+      "fontFamily": "TokenBranded",
+      "identifier": "cetus"
+    },
+    "ceur": {
+      "codepoint": 57440,
+      "fontFamily": "TokenBranded",
+      "identifier": "ceur"
+    },
+    "cfg": {
+      "codepoint": 57441,
+      "fontFamily": "TokenBranded",
+      "identifier": "cfg"
+    },
     "cho": {
-      "codepoint": 57363,
+      "codepoint": 57442,
       "fontFamily": "TokenBranded",
       "identifier": "cho"
     },
+    "chr": {
+      "codepoint": 57443,
+      "fontFamily": "TokenBranded",
+      "identifier": "chr"
+    },
+    "citrea": {
+      "codepoint": 57444,
+      "fontFamily": "TokenBranded",
+      "identifier": "citrea"
+    },
     "ckb": {
-      "codepoint": 57364,
+      "codepoint": 57445,
       "fontFamily": "TokenBranded",
       "identifier": "ckb"
     },
+    "ckp": {
+      "codepoint": 57446,
+      "fontFamily": "TokenBranded",
+      "identifier": "ckp"
+    },
+    "cls": {
+      "codepoint": 57447,
+      "fontFamily": "TokenBranded",
+      "identifier": "cls"
+    },
     "clv": {
-      "codepoint": 57365,
+      "codepoint": 57448,
       "fontFamily": "TokenBranded",
       "identifier": "clv"
     },
+    "clxy": {
+      "codepoint": 57449,
+      "fontFamily": "TokenBranded",
+      "identifier": "clxy"
+    },
     "cnd": {
-      "codepoint": 57366,
+      "codepoint": 57450,
       "fontFamily": "TokenBranded",
       "identifier": "cnd"
     },
+    "cng": {
+      "codepoint": 57451,
+      "fontFamily": "TokenBranded",
+      "identifier": "cng"
+    },
+    "cnht": {
+      "codepoint": 57452,
+      "fontFamily": "TokenBranded",
+      "identifier": "cnht"
+    },
+    "coinbase": {
+      "codepoint": 57453,
+      "fontFamily": "TokenBranded",
+      "identifier": "coinbase"
+    },
+    "combo": {
+      "codepoint": 57454,
+      "fontFamily": "TokenBranded",
+      "identifier": "combo"
+    },
     "conflux": {
-      "codepoint": 57367,
+      "codepoint": 57455,
       "fontFamily": "TokenBranded",
       "identifier": "conflux"
     },
+    "core": {
+      "codepoint": 57456,
+      "fontFamily": "TokenBranded",
+      "identifier": "core"
+    },
+    "cosmos": {
+      "codepoint": 57457,
+      "fontFamily": "TokenBranded",
+      "identifier": "cosmos"
+    },
+    "cosmos-hub": {
+      "codepoint": 57458,
+      "fontFamily": "TokenBranded",
+      "identifier": "cosmosHub"
+    },
+    "cov": {
+      "codepoint": 57459,
+      "fontFamily": "TokenBranded",
+      "identifier": "cov"
+    },
+    "crab": {
+      "codepoint": 57460,
+      "fontFamily": "TokenBranded",
+      "identifier": "crab"
+    },
+    "creo": {
+      "codepoint": 57461,
+      "fontFamily": "TokenBranded",
+      "identifier": "creo"
+    },
+    "cru": {
+      "codepoint": 57462,
+      "fontFamily": "TokenBranded",
+      "identifier": "cru"
+    },
+    "cspr": {
+      "codepoint": 57463,
+      "fontFamily": "TokenBranded",
+      "identifier": "cspr"
+    },
+    "ctc": {
+      "codepoint": 57464,
+      "fontFamily": "TokenBranded",
+      "identifier": "ctc"
+    },
+    "ctg": {
+      "codepoint": 57465,
+      "fontFamily": "TokenBranded",
+      "identifier": "ctg"
+    },
+    "cti": {
+      "codepoint": 57466,
+      "fontFamily": "TokenBranded",
+      "identifier": "cti"
+    },
+    "ctk": {
+      "codepoint": 57467,
+      "fontFamily": "TokenBranded",
+      "identifier": "ctk"
+    },
+    "cusd": {
+      "codepoint": 57468,
+      "fontFamily": "TokenBranded",
+      "identifier": "cusd"
+    },
+    "cvc": {
+      "codepoint": 57469,
+      "fontFamily": "TokenBranded",
+      "identifier": "cvc"
+    },
+    "cweb": {
+      "codepoint": 57470,
+      "fontFamily": "TokenBranded",
+      "identifier": "cweb"
+    },
+    "cws": {
+      "codepoint": 57471,
+      "fontFamily": "TokenBranded",
+      "identifier": "cws"
+    },
     "cxo": {
-      "codepoint": 57368,
+      "codepoint": 57472,
       "fontFamily": "TokenBranded",
       "identifier": "cxo"
     },
+    "darwinia": {
+      "codepoint": 57473,
+      "fontFamily": "TokenBranded",
+      "identifier": "darwinia"
+    },
+    "dash": {
+      "codepoint": 57474,
+      "fontFamily": "TokenBranded",
+      "identifier": "dash"
+    },
+    "dbc": {
+      "codepoint": 57475,
+      "fontFamily": "TokenBranded",
+      "identifier": "dbc"
+    },
     "dc": {
-      "codepoint": 57369,
+      "codepoint": 57476,
       "fontFamily": "TokenBranded",
       "identifier": "dc"
     },
     "defi": {
-      "codepoint": 57370,
+      "codepoint": 57477,
       "fontFamily": "TokenBranded",
       "identifier": "defi"
     },
+    "defit": {
+      "codepoint": 57478,
+      "fontFamily": "TokenBranded",
+      "identifier": "defit"
+    },
+    "dent": {
+      "codepoint": 57479,
+      "fontFamily": "TokenBranded",
+      "identifier": "dent"
+    },
+    "dep": {
+      "codepoint": 57480,
+      "fontFamily": "TokenBranded",
+      "identifier": "dep"
+    },
+    "derc": {
+      "codepoint": 57481,
+      "fontFamily": "TokenBranded",
+      "identifier": "derc"
+    },
+    "dexe": {
+      "codepoint": 57482,
+      "fontFamily": "TokenBranded",
+      "identifier": "dexe"
+    },
+    "dfi": {
+      "codepoint": 57483,
+      "fontFamily": "TokenBranded",
+      "identifier": "dfi"
+    },
+    "dgb": {
+      "codepoint": 57484,
+      "fontFamily": "TokenBranded",
+      "identifier": "dgb"
+    },
     "dht": {
-      "codepoint": 57371,
+      "codepoint": 57485,
       "fontFamily": "TokenBranded",
       "identifier": "dht"
     },
+    "dimo": {
+      "codepoint": 57486,
+      "fontFamily": "TokenBranded",
+      "identifier": "dimo"
+    },
+    "diode": {
+      "codepoint": 57487,
+      "fontFamily": "TokenBranded",
+      "identifier": "diode"
+    },
+    "dka": {
+      "codepoint": 57488,
+      "fontFamily": "TokenBranded",
+      "identifier": "dka"
+    },
+    "dnt": {
+      "codepoint": 57489,
+      "fontFamily": "TokenBranded",
+      "identifier": "dnt"
+    },
+    "dodo": {
+      "codepoint": 57490,
+      "fontFamily": "TokenBranded",
+      "identifier": "dodo"
+    },
     "dola": {
-      "codepoint": 57372,
+      "codepoint": 57491,
       "fontFamily": "TokenBranded",
       "identifier": "dola"
     },
+    "drep": {
+      "codepoint": 57492,
+      "fontFamily": "TokenBranded",
+      "identifier": "drep"
+    },
     "dust": {
-      "codepoint": 57373,
+      "codepoint": 57493,
       "fontFamily": "TokenBranded",
       "identifier": "dust"
     },
+    "dvi": {
+      "codepoint": 57494,
+      "fontFamily": "TokenBranded",
+      "identifier": "dvi"
+    },
+    "dweb": {
+      "codepoint": 57495,
+      "fontFamily": "TokenBranded",
+      "identifier": "dweb"
+    },
+    "dxp": {
+      "codepoint": 57496,
+      "fontFamily": "TokenBranded",
+      "identifier": "dxp"
+    },
+    "dyp": {
+      "codepoint": 57497,
+      "fontFamily": "TokenBranded",
+      "identifier": "dyp"
+    },
+    "eco": {
+      "codepoint": 57498,
+      "fontFamily": "TokenBranded",
+      "identifier": "eco"
+    },
+    "edg": {
+      "codepoint": 57499,
+      "fontFamily": "TokenBranded",
+      "identifier": "edg"
+    },
+    "edge": {
+      "codepoint": 57500,
+      "fontFamily": "TokenBranded",
+      "identifier": "edge"
+    },
+    "edgeless": {
+      "codepoint": 57501,
+      "fontFamily": "TokenBranded",
+      "identifier": "edgeless"
+    },
+    "egld": {
+      "codepoint": 57502,
+      "fontFamily": "TokenBranded",
+      "identifier": "egld"
+    },
+    "ego": {
+      "codepoint": 57503,
+      "fontFamily": "TokenBranded",
+      "identifier": "ego"
+    },
+    "eland": {
+      "codepoint": 57504,
+      "fontFamily": "TokenBranded",
+      "identifier": "eland"
+    },
+    "elf": {
+      "codepoint": 57505,
+      "fontFamily": "TokenBranded",
+      "identifier": "elf"
+    },
+    "elk": {
+      "codepoint": 57506,
+      "fontFamily": "TokenBranded",
+      "identifier": "elk"
+    },
+    "enkrypt": {
+      "codepoint": 57507,
+      "fontFamily": "TokenBranded",
+      "identifier": "enkrypt"
+    },
+    "enuls": {
+      "codepoint": 57508,
+      "fontFamily": "TokenBranded",
+      "identifier": "enuls"
+    },
+    "eos": {
+      "codepoint": 57509,
+      "fontFamily": "TokenBranded",
+      "identifier": "eos"
+    },
+    "eosdt": {
+      "codepoint": 57510,
+      "fontFamily": "TokenBranded",
+      "identifier": "eosdt"
+    },
     "eqb": {
-      "codepoint": 57374,
+      "codepoint": 57511,
       "fontFamily": "TokenBranded",
       "identifier": "eqb"
     },
     "erg": {
-      "codepoint": 57375,
+      "codepoint": 57512,
       "fontFamily": "TokenBranded",
       "identifier": "erg"
     },
+    "ertha": {
+      "codepoint": 57513,
+      "fontFamily": "TokenBranded",
+      "identifier": "ertha"
+    },
+    "ethix": {
+      "codepoint": 57514,
+      "fontFamily": "TokenBranded",
+      "identifier": "ethix"
+    },
+    "etn": {
+      "codepoint": 57515,
+      "fontFamily": "TokenBranded",
+      "identifier": "etn"
+    },
+    "eurc": {
+      "codepoint": 57516,
+      "fontFamily": "TokenBranded",
+      "identifier": "eurc"
+    },
     "euroe": {
-      "codepoint": 57376,
+      "codepoint": 57517,
       "fontFamily": "TokenBranded",
       "identifier": "euroe"
     },
     "eurt": {
-      "codepoint": 57377,
+      "codepoint": 57518,
       "fontFamily": "TokenBranded",
       "identifier": "eurt"
     },
+    "eusd": {
+      "codepoint": 57519,
+      "fontFamily": "TokenBranded",
+      "identifier": "eusd"
+    },
+    "eveai": {
+      "codepoint": 57520,
+      "fontFamily": "TokenBranded",
+      "identifier": "eveai"
+    },
+    "evmos": {
+      "codepoint": 57521,
+      "fontFamily": "TokenBranded",
+      "identifier": "evmos"
+    },
+    "ewt": {
+      "codepoint": 57522,
+      "fontFamily": "TokenBranded",
+      "identifier": "ewt"
+    },
+    "exrd": {
+      "codepoint": 57523,
+      "fontFamily": "TokenBranded",
+      "identifier": "exrd"
+    },
+    "factr": {
+      "codepoint": 57524,
+      "fontFamily": "TokenBranded",
+      "identifier": "factr"
+    },
+    "fakeai": {
+      "codepoint": 57525,
+      "fontFamily": "TokenBranded",
+      "identifier": "fakeai"
+    },
     "fantom": {
-      "codepoint": 57378,
+      "codepoint": 57526,
       "fontFamily": "TokenBranded",
       "identifier": "fantom"
     },
     "fdusd": {
-      "codepoint": 57379,
+      "codepoint": 57527,
       "fontFamily": "TokenBranded",
       "identifier": "fdusd"
     },
+    "fear": {
+      "codepoint": 57528,
+      "fontFamily": "TokenBranded",
+      "identifier": "fear"
+    },
+    "fil": {
+      "codepoint": 57529,
+      "fontFamily": "TokenBranded",
+      "identifier": "fil"
+    },
+    "filecoin": {
+      "codepoint": 57530,
+      "fontFamily": "TokenBranded",
+      "identifier": "filecoin"
+    },
+    "firo": {
+      "codepoint": 57531,
+      "fontFamily": "TokenBranded",
+      "identifier": "firo"
+    },
+    "fis": {
+      "codepoint": 57532,
+      "fontFamily": "TokenBranded",
+      "identifier": "fis"
+    },
+    "flame": {
+      "codepoint": 57533,
+      "fontFamily": "TokenBranded",
+      "identifier": "flame"
+    },
     "floor": {
-      "codepoint": 57380,
+      "codepoint": 57534,
       "fontFamily": "TokenBranded",
       "identifier": "floor"
     },
+    "flow": {
+      "codepoint": 57535,
+      "fontFamily": "TokenBranded",
+      "identifier": "flow"
+    },
     "fluence": {
-      "codepoint": 57381,
+      "codepoint": 57536,
       "fontFamily": "TokenBranded",
       "identifier": "fluence"
     },
+    "flux": {
+      "codepoint": 57537,
+      "fontFamily": "TokenBranded",
+      "identifier": "flux"
+    },
+    "fnsa": {
+      "codepoint": 57538,
+      "fontFamily": "TokenBranded",
+      "identifier": "fnsa"
+    },
+    "fold": {
+      "codepoint": 57539,
+      "fontFamily": "TokenBranded",
+      "identifier": "fold"
+    },
+    "foom": {
+      "codepoint": 57540,
+      "fontFamily": "TokenBranded",
+      "identifier": "foom"
+    },
+    "for": {
+      "codepoint": 57541,
+      "fontFamily": "TokenBranded",
+      "identifier": "for_"
+    },
     "fore": {
-      "codepoint": 57382,
+      "codepoint": 57542,
       "fontFamily": "TokenBranded",
       "identifier": "fore"
     },
+    "fra": {
+      "codepoint": 57543,
+      "fontFamily": "TokenBranded",
+      "identifier": "fra"
+    },
+    "frax": {
+      "codepoint": 57544,
+      "fontFamily": "TokenBranded",
+      "identifier": "frax"
+    },
+    "frin": {
+      "codepoint": 57545,
+      "fontFamily": "TokenBranded",
+      "identifier": "frin"
+    },
+    "front": {
+      "codepoint": 57546,
+      "fontFamily": "TokenBranded",
+      "identifier": "front"
+    },
+    "ftc": {
+      "codepoint": 57547,
+      "fontFamily": "TokenBranded",
+      "identifier": "ftc"
+    },
     "ftm": {
-      "codepoint": 57383,
+      "codepoint": 57548,
       "fontFamily": "TokenBranded",
       "identifier": "ftm"
     },
+    "ftn": {
+      "codepoint": 57549,
+      "fontFamily": "TokenBranded",
+      "identifier": "ftn"
+    },
+    "fuel": {
+      "codepoint": 57550,
+      "fontFamily": "TokenBranded",
+      "identifier": "fuel"
+    },
+    "fuse": {
+      "codepoint": 57551,
+      "fontFamily": "TokenBranded",
+      "identifier": "fuse"
+    },
+    "fwb": {
+      "codepoint": 57552,
+      "fontFamily": "TokenBranded",
+      "identifier": "fwb"
+    },
+    "fxs": {
+      "codepoint": 57553,
+      "fontFamily": "TokenBranded",
+      "identifier": "fxs"
+    },
+    "g": {
+      "codepoint": 57554,
+      "fontFamily": "TokenBranded",
+      "identifier": "g"
+    },
+    "gafi": {
+      "codepoint": 57555,
+      "fontFamily": "TokenBranded",
+      "identifier": "gafi"
+    },
     "gal": {
-      "codepoint": 57384,
+      "codepoint": 57556,
       "fontFamily": "TokenBranded",
       "identifier": "gal"
     },
+    "gala": {
+      "codepoint": 57557,
+      "fontFamily": "TokenBranded",
+      "identifier": "gala"
+    },
     "galeon": {
-      "codepoint": 57385,
+      "codepoint": 57558,
       "fontFamily": "TokenBranded",
       "identifier": "galeon"
     },
     "gamefi": {
-      "codepoint": 57386,
+      "codepoint": 57559,
       "fontFamily": "TokenBranded",
       "identifier": "gamefi"
     },
     "gami": {
-      "codepoint": 57387,
+      "codepoint": 57560,
       "fontFamily": "TokenBranded",
       "identifier": "gami"
     },
+    "gamma": {
+      "codepoint": 57561,
+      "fontFamily": "TokenBranded",
+      "identifier": "gamma"
+    },
+    "gbex": {
+      "codepoint": 57562,
+      "fontFamily": "TokenBranded",
+      "identifier": "gbex"
+    },
     "gbyte": {
-      "codepoint": 57388,
+      "codepoint": 57563,
       "fontFamily": "TokenBranded",
       "identifier": "gbyte"
     },
     "gcoin": {
-      "codepoint": 57389,
+      "codepoint": 57564,
       "fontFamily": "TokenBranded",
       "identifier": "gcoin"
     },
+    "gemini": {
+      "codepoint": 57565,
+      "fontFamily": "TokenBranded",
+      "identifier": "gemini"
+    },
     "genesis-l1": {
-      "codepoint": 57390,
+      "codepoint": 57566,
       "fontFamily": "TokenBranded",
       "identifier": "genesisL1"
     },
+    "geod": {
+      "codepoint": 57567,
+      "fontFamily": "TokenBranded",
+      "identifier": "geod"
+    },
     "gfal": {
-      "codepoint": 57391,
+      "codepoint": 57568,
       "fontFamily": "TokenBranded",
       "identifier": "gfal"
     },
+    "ghny": {
+      "codepoint": 57569,
+      "fontFamily": "TokenBranded",
+      "identifier": "ghny"
+    },
+    "gho": {
+      "codepoint": 57570,
+      "fontFamily": "TokenBranded",
+      "identifier": "gho"
+    },
+    "ghx": {
+      "codepoint": 57571,
+      "fontFamily": "TokenBranded",
+      "identifier": "ghx"
+    },
+    "glc": {
+      "codepoint": 57572,
+      "fontFamily": "TokenBranded",
+      "identifier": "glc"
+    },
+    "glmr": {
+      "codepoint": 57573,
+      "fontFamily": "TokenBranded",
+      "identifier": "glmr"
+    },
+    "gno": {
+      "codepoint": 57574,
+      "fontFamily": "TokenBranded",
+      "identifier": "gno"
+    },
+    "gnosis": {
+      "codepoint": 57575,
+      "fontFamily": "TokenBranded",
+      "identifier": "gnosis"
+    },
+    "gny": {
+      "codepoint": 57576,
+      "fontFamily": "TokenBranded",
+      "identifier": "gny"
+    },
+    "go": {
+      "codepoint": 57577,
+      "fontFamily": "TokenBranded",
+      "identifier": "go"
+    },
+    "grai": {
+      "codepoint": 57578,
+      "fontFamily": "TokenBranded",
+      "identifier": "grai"
+    },
+    "grail": {
+      "codepoint": 57579,
+      "fontFamily": "TokenBranded",
+      "identifier": "grail"
+    },
+    "grain": {
+      "codepoint": 57580,
+      "fontFamily": "TokenBranded",
+      "identifier": "grain"
+    },
+    "grav": {
+      "codepoint": 57581,
+      "fontFamily": "TokenBranded",
+      "identifier": "grav"
+    },
+    "gravity": {
+      "codepoint": 57582,
+      "fontFamily": "TokenBranded",
+      "identifier": "gravity"
+    },
+    "grin": {
+      "codepoint": 57583,
+      "fontFamily": "TokenBranded",
+      "identifier": "grin"
+    },
+    "grt": {
+      "codepoint": 57584,
+      "fontFamily": "TokenBranded",
+      "identifier": "grt"
+    },
     "gse": {
-      "codepoint": 57392,
+      "codepoint": 57585,
       "fontFamily": "TokenBranded",
       "identifier": "gse"
     },
+    "gusd": {
+      "codepoint": 57586,
+      "fontFamily": "TokenBranded",
+      "identifier": "gusd"
+    },
+    "gyen": {
+      "codepoint": 57587,
+      "fontFamily": "TokenBranded",
+      "identifier": "gyen"
+    },
+    "gymnet": {
+      "codepoint": 57588,
+      "fontFamily": "TokenBranded",
+      "identifier": "gymnet"
+    },
+    "gzone": {
+      "codepoint": 57589,
+      "fontFamily": "TokenBranded",
+      "identifier": "gzone"
+    },
+    "hair": {
+      "codepoint": 57590,
+      "fontFamily": "TokenBranded",
+      "identifier": "hair"
+    },
+    "handy": {
+      "codepoint": 57591,
+      "fontFamily": "TokenBranded",
+      "identifier": "handy"
+    },
     "hbar": {
-      "codepoint": 57393,
+      "codepoint": 57592,
       "fontFamily": "TokenBranded",
       "identifier": "hbar"
     },
     "hedera": {
-      "codepoint": 57394,
+      "codepoint": 57593,
       "fontFamily": "TokenBranded",
       "identifier": "hedera"
     },
     "hedera-hashgraph": {
-      "codepoint": 57395,
+      "codepoint": 57594,
       "fontFamily": "TokenBranded",
       "identifier": "hederaHashgraph"
     },
+    "hegic": {
+      "codepoint": 57595,
+      "fontFamily": "TokenBranded",
+      "identifier": "hegic"
+    },
+    "hello": {
+      "codepoint": 57596,
+      "fontFamily": "TokenBranded",
+      "identifier": "hello"
+    },
+    "hemi": {
+      "codepoint": 57597,
+      "fontFamily": "TokenBranded",
+      "identifier": "hemi"
+    },
+    "hermes": {
+      "codepoint": 57598,
+      "fontFamily": "TokenBranded",
+      "identifier": "hermes"
+    },
+    "hero": {
+      "codepoint": 57599,
+      "fontFamily": "TokenBranded",
+      "identifier": "hero"
+    },
+    "hez": {
+      "codepoint": 57600,
+      "fontFamily": "TokenBranded",
+      "identifier": "hez"
+    },
     "hft": {
-      "codepoint": 57396,
+      "codepoint": 57601,
       "fontFamily": "TokenBranded",
       "identifier": "hft"
     },
+    "hns": {
+      "codepoint": 57602,
+      "fontFamily": "TokenBranded",
+      "identifier": "hns"
+    },
+    "hopr": {
+      "codepoint": 57603,
+      "fontFamily": "TokenBranded",
+      "identifier": "hopr"
+    },
+    "hot": {
+      "codepoint": 57604,
+      "fontFamily": "TokenBranded",
+      "identifier": "hot"
+    },
     "hpo": {
-      "codepoint": 57397,
+      "codepoint": 57605,
       "fontFamily": "TokenBranded",
       "identifier": "hpo"
     },
+    "ht": {
+      "codepoint": 57606,
+      "fontFamily": "TokenBranded",
+      "identifier": "ht"
+    },
     "htr": {
-      "codepoint": 57398,
+      "codepoint": 57607,
       "fontFamily": "TokenBranded",
       "identifier": "htr"
     },
+    "hubble-exchange": {
+      "codepoint": 57608,
+      "fontFamily": "TokenBranded",
+      "identifier": "hubbleExchange"
+    },
     "hunt": {
-      "codepoint": 57399,
+      "codepoint": 57609,
       "fontFamily": "TokenBranded",
       "identifier": "hunt"
     },
+    "husd": {
+      "codepoint": 57610,
+      "fontFamily": "TokenBranded",
+      "identifier": "husd"
+    },
+    "hush": {
+      "codepoint": 57611,
+      "fontFamily": "TokenBranded",
+      "identifier": "hush"
+    },
     "hxd": {
-      "codepoint": 57400,
+      "codepoint": 57612,
       "fontFamily": "TokenBranded",
       "identifier": "hxd"
     },
+    "hxro": {
+      "codepoint": 57613,
+      "fontFamily": "TokenBranded",
+      "identifier": "hxro"
+    },
+    "hyper-evm": {
+      "codepoint": 57614,
+      "fontFamily": "TokenBranded",
+      "identifier": "hyperEvm"
+    },
     "hzn": {
-      "codepoint": 57401,
+      "codepoint": 57615,
       "fontFamily": "TokenBranded",
       "identifier": "hzn"
     },
+    "icx": {
+      "codepoint": 57616,
+      "fontFamily": "TokenBranded",
+      "identifier": "icx"
+    },
+    "id": {
+      "codepoint": 57617,
+      "fontFamily": "TokenBranded",
+      "identifier": "id"
+    },
+    "idia": {
+      "codepoint": 57618,
+      "fontFamily": "TokenBranded",
+      "identifier": "idia"
+    },
     "idle": {
-      "codepoint": 57402,
+      "codepoint": 57619,
       "fontFamily": "TokenBranded",
       "identifier": "idle"
     },
     "imo": {
-      "codepoint": 57403,
+      "codepoint": 57620,
       "fontFamily": "TokenBranded",
       "identifier": "imo"
     },
+    "injective": {
+      "codepoint": 57621,
+      "fontFamily": "TokenBranded",
+      "identifier": "injective"
+    },
+    "inst": {
+      "codepoint": 57622,
+      "fontFamily": "TokenBranded",
+      "identifier": "inst"
+    },
+    "insur": {
+      "codepoint": 57623,
+      "fontFamily": "TokenBranded",
+      "identifier": "insur"
+    },
+    "int": {
+      "codepoint": 57624,
+      "fontFamily": "TokenBranded",
+      "identifier": "int_"
+    },
+    "intr": {
+      "codepoint": 57625,
+      "fontFamily": "TokenBranded",
+      "identifier": "intr"
+    },
+    "iota": {
+      "codepoint": 57626,
+      "fontFamily": "TokenBranded",
+      "identifier": "iota"
+    },
+    "iota-evm": {
+      "codepoint": 57627,
+      "fontFamily": "TokenBranded",
+      "identifier": "iotaEvm"
+    },
+    "iron": {
+      "codepoint": 57628,
+      "fontFamily": "TokenBranded",
+      "identifier": "iron"
+    },
+    "ixo": {
+      "codepoint": 57629,
+      "fontFamily": "TokenBranded",
+      "identifier": "ixo"
+    },
+    "jones": {
+      "codepoint": 57630,
+      "fontFamily": "TokenBranded",
+      "identifier": "jones"
+    },
+    "k21": {
+      "codepoint": 57631,
+      "fontFamily": "TokenBranded",
+      "identifier": "k21"
+    },
+    "kaia": {
+      "codepoint": 57632,
+      "fontFamily": "TokenBranded",
+      "identifier": "kaia"
+    },
+    "kan": {
+      "codepoint": 57633,
+      "fontFamily": "TokenBranded",
+      "identifier": "kan"
+    },
+    "kas": {
+      "codepoint": 57634,
+      "fontFamily": "TokenBranded",
+      "identifier": "kas"
+    },
+    "kat": {
+      "codepoint": 57635,
+      "fontFamily": "TokenBranded",
+      "identifier": "kat"
+    },
     "katana": {
-      "codepoint": 57404,
+      "codepoint": 57636,
       "fontFamily": "TokenBranded",
       "identifier": "katana"
     },
+    "kcs": {
+      "codepoint": 57637,
+      "fontFamily": "TokenBranded",
+      "identifier": "kcs"
+    },
+    "keep": {
+      "codepoint": 57638,
+      "fontFamily": "TokenBranded",
+      "identifier": "keep"
+    },
+    "keplr": {
+      "codepoint": 57639,
+      "fontFamily": "TokenBranded",
+      "identifier": "keplr"
+    },
+    "kick": {
+      "codepoint": 57640,
+      "fontFamily": "TokenBranded",
+      "identifier": "kick"
+    },
     "kine": {
-      "codepoint": 57405,
+      "codepoint": 57641,
       "fontFamily": "TokenBranded",
       "identifier": "kine"
     },
+    "kleva": {
+      "codepoint": 57642,
+      "fontFamily": "TokenBranded",
+      "identifier": "kleva"
+    },
     "klima": {
-      "codepoint": 57406,
+      "codepoint": 57643,
       "fontFamily": "TokenBranded",
       "identifier": "klima"
     },
+    "knc": {
+      "codepoint": 57644,
+      "fontFamily": "TokenBranded",
+      "identifier": "knc"
+    },
+    "koin": {
+      "codepoint": 57645,
+      "fontFamily": "TokenBranded",
+      "identifier": "koin"
+    },
+    "krl": {
+      "codepoint": 57646,
+      "fontFamily": "TokenBranded",
+      "identifier": "krl"
+    },
     "kroma": {
-      "codepoint": 57407,
+      "codepoint": 57647,
       "fontFamily": "TokenBranded",
       "identifier": "kroma"
     },
+    "ksm": {
+      "codepoint": 57648,
+      "fontFamily": "TokenBranded",
+      "identifier": "ksm"
+    },
+    "kub": {
+      "codepoint": 57649,
+      "fontFamily": "TokenBranded",
+      "identifier": "kub"
+    },
+    "kucoin": {
+      "codepoint": 57650,
+      "fontFamily": "TokenBranded",
+      "identifier": "kucoin"
+    },
+    "l3x": {
+      "codepoint": 57651,
+      "fontFamily": "TokenBranded",
+      "identifier": "l3x"
+    },
     "lake": {
-      "codepoint": 57408,
+      "codepoint": 57652,
       "fontFamily": "TokenBranded",
       "identifier": "lake"
     },
     "layer": {
-      "codepoint": 57409,
+      "codepoint": 57653,
       "fontFamily": "TokenBranded",
       "identifier": "layer"
     },
+    "lbt": {
+      "codepoint": 57654,
+      "fontFamily": "TokenBranded",
+      "identifier": "lbt"
+    },
+    "ledger": {
+      "codepoint": 57655,
+      "fontFamily": "TokenBranded",
+      "identifier": "ledger"
+    },
+    "lens": {
+      "codepoint": 57656,
+      "fontFamily": "TokenBranded",
+      "identifier": "lens"
+    },
+    "leox": {
+      "codepoint": 57657,
+      "fontFamily": "TokenBranded",
+      "identifier": "leox"
+    },
+    "let": {
+      "codepoint": 57658,
+      "fontFamily": "TokenBranded",
+      "identifier": "let"
+    },
+    "lgcy": {
+      "codepoint": 57659,
+      "fontFamily": "TokenBranded",
+      "identifier": "lgcy"
+    },
     "linea": {
-      "codepoint": 57410,
+      "codepoint": 57660,
       "fontFamily": "TokenBranded",
       "identifier": "linea"
     },
+    "looks": {
+      "codepoint": 57661,
+      "fontFamily": "TokenBranded",
+      "identifier": "looks"
+    },
+    "loom": {
+      "codepoint": 57662,
+      "fontFamily": "TokenBranded",
+      "identifier": "loom"
+    },
     "loopring": {
-      "codepoint": 57411,
+      "codepoint": 57663,
       "fontFamily": "TokenBranded",
       "identifier": "loopring"
     },
     "lpt": {
-      "codepoint": 57412,
+      "codepoint": 57664,
       "fontFamily": "TokenBranded",
       "identifier": "lpt"
     },
+    "lqdr": {
+      "codepoint": 57665,
+      "fontFamily": "TokenBranded",
+      "identifier": "lqdr"
+    },
     "lrc": {
-      "codepoint": 57413,
+      "codepoint": 57666,
       "fontFamily": "TokenBranded",
       "identifier": "lrc"
     },
     "ltx": {
-      "codepoint": 57414,
+      "codepoint": 57667,
       "fontFamily": "TokenBranded",
       "identifier": "ltx"
     },
+    "lua": {
+      "codepoint": 57668,
+      "fontFamily": "TokenBranded",
+      "identifier": "lua"
+    },
+    "luca": {
+      "codepoint": 57669,
+      "fontFamily": "TokenBranded",
+      "identifier": "luca"
+    },
+    "lukso": {
+      "codepoint": 57670,
+      "fontFamily": "TokenBranded",
+      "identifier": "lukso"
+    },
+    "lumia": {
+      "codepoint": 57671,
+      "fontFamily": "TokenBranded",
+      "identifier": "lumia"
+    },
+    "lym": {
+      "codepoint": 57672,
+      "fontFamily": "TokenBranded",
+      "identifier": "lym"
+    },
+    "lyx": {
+      "codepoint": 57673,
+      "fontFamily": "TokenBranded",
+      "identifier": "lyx"
+    },
     "lzm": {
-      "codepoint": 57415,
+      "codepoint": 57674,
       "fontFamily": "TokenBranded",
       "identifier": "lzm"
     },
+    "mantle": {
+      "codepoint": 57675,
+      "fontFamily": "TokenBranded",
+      "identifier": "mantle"
+    },
+    "map": {
+      "codepoint": 57676,
+      "fontFamily": "TokenBranded",
+      "identifier": "map"
+    },
+    "mask": {
+      "codepoint": 57677,
+      "fontFamily": "TokenBranded",
+      "identifier": "mask"
+    },
+    "math": {
+      "codepoint": 57678,
+      "fontFamily": "TokenBranded",
+      "identifier": "math"
+    },
+    "mcade": {
+      "codepoint": 57679,
+      "fontFamily": "TokenBranded",
+      "identifier": "mcade"
+    },
+    "mdao": {
+      "codepoint": 57680,
+      "fontFamily": "TokenBranded",
+      "identifier": "mdao"
+    },
     "meed": {
-      "codepoint": 57416,
+      "codepoint": 57681,
       "fontFamily": "TokenBranded",
       "identifier": "meed"
     },
+    "meta": {
+      "codepoint": 57682,
+      "fontFamily": "TokenBranded",
+      "identifier": "meta"
+    },
+    "metf": {
+      "codepoint": 57683,
+      "fontFamily": "TokenBranded",
+      "identifier": "metf"
+    },
+    "metfi": {
+      "codepoint": 57684,
+      "fontFamily": "TokenBranded",
+      "identifier": "metfi"
+    },
+    "metis": {
+      "codepoint": 57685,
+      "fontFamily": "TokenBranded",
+      "identifier": "metis"
+    },
+    "metis-andromeda": {
+      "codepoint": 57686,
+      "fontFamily": "TokenBranded",
+      "identifier": "metisAndromeda"
+    },
+    "mimatic": {
+      "codepoint": 57687,
+      "fontFamily": "TokenBranded",
+      "identifier": "mimatic"
+    },
+    "minima": {
+      "codepoint": 57688,
+      "fontFamily": "TokenBranded",
+      "identifier": "minima"
+    },
     "mint": {
-      "codepoint": 57417,
+      "codepoint": 57689,
       "fontFamily": "TokenBranded",
       "identifier": "mint"
     },
+    "mir": {
+      "codepoint": 57690,
+      "fontFamily": "TokenBranded",
+      "identifier": "mir"
+    },
+    "mlk": {
+      "codepoint": 57691,
+      "fontFamily": "TokenBranded",
+      "identifier": "mlk"
+    },
     "mm": {
-      "codepoint": 57418,
+      "codepoint": 57692,
       "fontFamily": "TokenBranded",
       "identifier": "mm"
     },
+    "mmpro": {
+      "codepoint": 57693,
+      "fontFamily": "TokenBranded",
+      "identifier": "mmpro"
+    },
+    "mmy": {
+      "codepoint": 57694,
+      "fontFamily": "TokenBranded",
+      "identifier": "mmy"
+    },
+    "mnt": {
+      "codepoint": 57695,
+      "fontFamily": "TokenBranded",
+      "identifier": "mnt"
+    },
+    "mntl": {
+      "codepoint": 57696,
+      "fontFamily": "TokenBranded",
+      "identifier": "mntl"
+    },
+    "mobile": {
+      "codepoint": 57697,
+      "fontFamily": "TokenBranded",
+      "identifier": "mobile"
+    },
+    "mode": {
+      "codepoint": 57698,
+      "fontFamily": "TokenBranded",
+      "identifier": "mode"
+    },
+    "mona": {
+      "codepoint": 57699,
+      "fontFamily": "TokenBranded",
+      "identifier": "mona"
+    },
+    "moonbase": {
+      "codepoint": 57700,
+      "fontFamily": "TokenBranded",
+      "identifier": "moonbase"
+    },
+    "moonbase-alpha": {
+      "codepoint": 57701,
+      "fontFamily": "TokenBranded",
+      "identifier": "moonbaseAlpha"
+    },
+    "moonbeam": {
+      "codepoint": 57702,
+      "fontFamily": "TokenBranded",
+      "identifier": "moonbeam"
+    },
     "move": {
-      "codepoint": 57419,
+      "codepoint": 57703,
       "fontFamily": "TokenBranded",
       "identifier": "move"
     },
+    "movement": {
+      "codepoint": 57704,
+      "fontFamily": "TokenBranded",
+      "identifier": "movement"
+    },
+    "mplx": {
+      "codepoint": 57705,
+      "fontFamily": "TokenBranded",
+      "identifier": "mplx"
+    },
     "mps": {
-      "codepoint": 57420,
+      "codepoint": 57706,
       "fontFamily": "TokenBranded",
       "identifier": "mps"
     },
+    "mth": {
+      "codepoint": 57707,
+      "fontFamily": "TokenBranded",
+      "identifier": "mth"
+    },
     "mtl": {
-      "codepoint": 57421,
+      "codepoint": 57708,
       "fontFamily": "TokenBranded",
       "identifier": "mtl"
     },
+    "mtrg": {
+      "codepoint": 57709,
+      "fontFamily": "TokenBranded",
+      "identifier": "mtrg"
+    },
+    "mtv": {
+      "codepoint": 57710,
+      "fontFamily": "TokenBranded",
+      "identifier": "mtv"
+    },
+    "multiversx": {
+      "codepoint": 57711,
+      "fontFamily": "TokenBranded",
+      "identifier": "multiversx"
+    },
+    "musd": {
+      "codepoint": 57712,
+      "fontFamily": "TokenBranded",
+      "identifier": "musd"
+    },
+    "muse": {
+      "codepoint": 57713,
+      "fontFamily": "TokenBranded",
+      "identifier": "muse"
+    },
+    "music": {
+      "codepoint": 57714,
+      "fontFamily": "TokenBranded",
+      "identifier": "music"
+    },
+    "myria": {
+      "codepoint": 57715,
+      "fontFamily": "TokenBranded",
+      "identifier": "myria"
+    },
+    "mzr": {
+      "codepoint": 57716,
+      "fontFamily": "TokenBranded",
+      "identifier": "mzr"
+    },
     "nabox": {
-      "codepoint": 57422,
+      "codepoint": 57717,
       "fontFamily": "TokenBranded",
       "identifier": "nabox"
     },
+    "nals": {
+      "codepoint": 57718,
+      "fontFamily": "TokenBranded",
+      "identifier": "nals"
+    },
+    "nblu": {
+      "codepoint": 57719,
+      "fontFamily": "TokenBranded",
+      "identifier": "nblu"
+    },
+    "ncdt": {
+      "codepoint": 57720,
+      "fontFamily": "TokenBranded",
+      "identifier": "ncdt"
+    },
+    "near": {
+      "codepoint": 57721,
+      "fontFamily": "TokenBranded",
+      "identifier": "near"
+    },
+    "near-protocol": {
+      "codepoint": 57722,
+      "fontFamily": "TokenBranded",
+      "identifier": "nearProtocol"
+    },
     "neo": {
-      "codepoint": 57423,
+      "codepoint": 57723,
       "fontFamily": "TokenBranded",
       "identifier": "neo"
     },
+    "neo-x": {
+      "codepoint": 57724,
+      "fontFamily": "TokenBranded",
+      "identifier": "neoX"
+    },
     "neon-evm": {
-      "codepoint": 57424,
+      "codepoint": 57725,
       "fontFamily": "TokenBranded",
       "identifier": "neonEvm"
     },
+    "nest": {
+      "codepoint": 57726,
+      "fontFamily": "TokenBranded",
+      "identifier": "nest"
+    },
+    "nexis": {
+      "codepoint": 57727,
+      "fontFamily": "TokenBranded",
+      "identifier": "nexis"
+    },
+    "nfai": {
+      "codepoint": 57728,
+      "fontFamily": "TokenBranded",
+      "identifier": "nfai"
+    },
+    "ngc": {
+      "codepoint": 57729,
+      "fontFamily": "TokenBranded",
+      "identifier": "ngc"
+    },
+    "ngm": {
+      "codepoint": 57730,
+      "fontFamily": "TokenBranded",
+      "identifier": "ngm"
+    },
+    "nmx": {
+      "codepoint": 57731,
+      "fontFamily": "TokenBranded",
+      "identifier": "nmx"
+    },
+    "nodl": {
+      "codepoint": 57732,
+      "fontFamily": "TokenBranded",
+      "identifier": "nodl"
+    },
     "noia": {
-      "codepoint": 57425,
+      "codepoint": 57733,
       "fontFamily": "TokenBranded",
       "identifier": "noia"
     },
+    "nom": {
+      "codepoint": 57734,
+      "fontFamily": "TokenBranded",
+      "identifier": "nom"
+    },
+    "nos": {
+      "codepoint": 57735,
+      "fontFamily": "TokenBranded",
+      "identifier": "nos"
+    },
+    "npc": {
+      "codepoint": 57736,
+      "fontFamily": "TokenBranded",
+      "identifier": "npc"
+    },
+    "npm": {
+      "codepoint": 57737,
+      "fontFamily": "TokenBranded",
+      "identifier": "npm"
+    },
+    "nrch": {
+      "codepoint": 57738,
+      "fontFamily": "TokenBranded",
+      "identifier": "nrch"
+    },
     "nrg": {
-      "codepoint": 57426,
+      "codepoint": 57739,
       "fontFamily": "TokenBranded",
       "identifier": "nrg"
     },
+    "nuls": {
+      "codepoint": 57740,
+      "fontFamily": "TokenBranded",
+      "identifier": "nuls"
+    },
     "num": {
-      "codepoint": 57427,
+      "codepoint": 57741,
       "fontFamily": "TokenBranded",
       "identifier": "num_"
     },
+    "nvir": {
+      "codepoint": 57742,
+      "fontFamily": "TokenBranded",
+      "identifier": "nvir"
+    },
+    "nxt": {
+      "codepoint": 57743,
+      "fontFamily": "TokenBranded",
+      "identifier": "nxt"
+    },
+    "oasys": {
+      "codepoint": 57744,
+      "fontFamily": "TokenBranded",
+      "identifier": "oasys"
+    },
+    "oath": {
+      "codepoint": 57745,
+      "fontFamily": "TokenBranded",
+      "identifier": "oath"
+    },
     "obot": {
-      "codepoint": 57428,
+      "codepoint": 57746,
       "fontFamily": "TokenBranded",
       "identifier": "obot"
     },
+    "obsr": {
+      "codepoint": 57747,
+      "fontFamily": "TokenBranded",
+      "identifier": "obsr"
+    },
+    "ocean": {
+      "codepoint": 57748,
+      "fontFamily": "TokenBranded",
+      "identifier": "ocean"
+    },
+    "odin": {
+      "codepoint": 57749,
+      "fontFamily": "TokenBranded",
+      "identifier": "odin"
+    },
+    "ogn": {
+      "codepoint": 57750,
+      "fontFamily": "TokenBranded",
+      "identifier": "ogn"
+    },
     "okex": {
-      "codepoint": 57429,
+      "codepoint": 57751,
       "fontFamily": "TokenBranded",
       "identifier": "okex"
     },
     "okt": {
-      "codepoint": 57430,
+      "codepoint": 57752,
       "fontFamily": "TokenBranded",
       "identifier": "okt"
     },
     "okx": {
-      "codepoint": 57431,
+      "codepoint": 57753,
       "fontFamily": "TokenBranded",
       "identifier": "okx"
     },
     "olt": {
-      "codepoint": 57432,
+      "codepoint": 57754,
       "fontFamily": "TokenBranded",
       "identifier": "olt"
     },
+    "omni": {
+      "codepoint": 57755,
+      "fontFamily": "TokenBranded",
+      "identifier": "omni"
+    },
+    "oni": {
+      "codepoint": 57756,
+      "fontFamily": "TokenBranded",
+      "identifier": "oni"
+    },
+    "onion": {
+      "codepoint": 57757,
+      "fontFamily": "TokenBranded",
+      "identifier": "onion"
+    },
+    "ont": {
+      "codepoint": 57758,
+      "fontFamily": "TokenBranded",
+      "identifier": "ont"
+    },
+    "ontology": {
+      "codepoint": 57759,
+      "fontFamily": "TokenBranded",
+      "identifier": "ontology"
+    },
+    "ooe": {
+      "codepoint": 57760,
+      "fontFamily": "TokenBranded",
+      "identifier": "ooe"
+    },
+    "ooki": {
+      "codepoint": 57761,
+      "fontFamily": "TokenBranded",
+      "identifier": "ooki",
+      "duotone": true
+    },
+    "optopia": {
+      "codepoint": 57762,
+      "fontFamily": "TokenBranded",
+      "identifier": "optopia"
+    },
+    "orare": {
+      "codepoint": 57763,
+      "fontFamily": "TokenBranded",
+      "identifier": "orare"
+    },
+    "orderly": {
+      "codepoint": 57764,
+      "fontFamily": "TokenBranded",
+      "identifier": "orderly"
+    },
     "ordi": {
-      "codepoint": 57433,
+      "codepoint": 57765,
       "fontFamily": "TokenBranded",
       "identifier": "ordi"
     },
+    "ox": {
+      "codepoint": 57766,
+      "fontFamily": "TokenBranded",
+      "identifier": "ox"
+    },
     "oxen": {
-      "codepoint": 57434,
+      "codepoint": 57767,
       "fontFamily": "TokenBranded",
       "identifier": "oxen"
     },
+    "oxt": {
+      "codepoint": 57768,
+      "fontFamily": "TokenBranded",
+      "identifier": "oxt"
+    },
+    "ozean": {
+      "codepoint": 57769,
+      "fontFamily": "TokenBranded",
+      "identifier": "ozean"
+    },
     "pai": {
-      "codepoint": 57435,
+      "codepoint": 57770,
       "fontFamily": "TokenBranded",
       "identifier": "pai"
     },
+    "paper": {
+      "codepoint": 57771,
+      "fontFamily": "TokenBranded",
+      "identifier": "paper"
+    },
+    "paradex": {
+      "codepoint": 57772,
+      "fontFamily": "TokenBranded",
+      "identifier": "paradex"
+    },
+    "pasg": {
+      "codepoint": 57773,
+      "fontFamily": "TokenBranded",
+      "identifier": "pasg"
+    },
+    "pbr": {
+      "codepoint": 57774,
+      "fontFamily": "TokenBranded",
+      "identifier": "pbr"
+    },
+    "pdt": {
+      "codepoint": 57775,
+      "fontFamily": "TokenBranded",
+      "identifier": "pdt"
+    },
+    "perc": {
+      "codepoint": 57776,
+      "fontFamily": "TokenBranded",
+      "identifier": "perc"
+    },
     "pha": {
-      "codepoint": 57436,
+      "codepoint": 57777,
       "fontFamily": "TokenBranded",
       "identifier": "pha"
     },
+    "phantom": {
+      "codepoint": 57778,
+      "fontFamily": "TokenBranded",
+      "identifier": "phantom"
+    },
+    "pika": {
+      "codepoint": 57779,
+      "fontFamily": "TokenBranded",
+      "identifier": "pika"
+    },
+    "pip": {
+      "codepoint": 57780,
+      "fontFamily": "TokenBranded",
+      "identifier": "pip"
+    },
     "pivx": {
-      "codepoint": 57437,
+      "codepoint": 57781,
       "fontFamily": "TokenBranded",
       "identifier": "pivx"
     },
+    "pla": {
+      "codepoint": 57782,
+      "fontFamily": "TokenBranded",
+      "identifier": "pla"
+    },
+    "plasma": {
+      "codepoint": 57783,
+      "fontFamily": "TokenBranded",
+      "identifier": "plasma"
+    },
     "plr": {
-      "codepoint": 57438,
+      "codepoint": 57784,
       "fontFamily": "TokenBranded",
       "identifier": "plr"
     },
+    "plu": {
+      "codepoint": 57785,
+      "fontFamily": "TokenBranded",
+      "identifier": "plu"
+    },
+    "plume": {
+      "codepoint": 57786,
+      "fontFamily": "TokenBranded",
+      "identifier": "plume"
+    },
+    "pola": {
+      "codepoint": 57787,
+      "fontFamily": "TokenBranded",
+      "identifier": "pola"
+    },
+    "poly": {
+      "codepoint": 57788,
+      "fontFamily": "TokenBranded",
+      "identifier": "poly"
+    },
+    "powr": {
+      "codepoint": 57789,
+      "fontFamily": "TokenBranded",
+      "identifier": "powr"
+    },
+    "ppc": {
+      "codepoint": 57790,
+      "fontFamily": "TokenBranded",
+      "identifier": "ppc"
+    },
+    "ppt": {
+      "codepoint": 57791,
+      "fontFamily": "TokenBranded",
+      "identifier": "ppt"
+    },
+    "pre": {
+      "codepoint": 57792,
+      "fontFamily": "TokenBranded",
+      "identifier": "pre"
+    },
+    "primal": {
+      "codepoint": 57793,
+      "fontFamily": "TokenBranded",
+      "identifier": "primal"
+    },
+    "prism": {
+      "codepoint": 57794,
+      "fontFamily": "TokenBranded",
+      "identifier": "prism"
+    },
+    "pro": {
+      "codepoint": 57795,
+      "fontFamily": "TokenBranded",
+      "identifier": "pro"
+    },
     "propc": {
-      "codepoint": 57439,
+      "codepoint": 57796,
       "fontFamily": "TokenBranded",
       "identifier": "propc"
     },
+    "props": {
+      "codepoint": 57797,
+      "fontFamily": "TokenBranded",
+      "identifier": "props"
+    },
+    "prq": {
+      "codepoint": 57798,
+      "fontFamily": "TokenBranded",
+      "identifier": "prq"
+    },
+    "prtc": {
+      "codepoint": 57799,
+      "fontFamily": "TokenBranded",
+      "identifier": "prtc"
+    },
+    "pry": {
+      "codepoint": 57800,
+      "fontFamily": "TokenBranded",
+      "identifier": "pry"
+    },
+    "psl": {
+      "codepoint": 57801,
+      "fontFamily": "TokenBranded",
+      "identifier": "psl"
+    },
+    "pswap": {
+      "codepoint": 57802,
+      "fontFamily": "TokenBranded",
+      "identifier": "pswap"
+    },
+    "pumlx": {
+      "codepoint": 57803,
+      "fontFamily": "TokenBranded",
+      "identifier": "pumlx"
+    },
     "pundix": {
-      "codepoint": 57440,
+      "codepoint": 57804,
       "fontFamily": "TokenBranded",
       "identifier": "pundix"
     },
+    "pyth": {
+      "codepoint": 57805,
+      "fontFamily": "TokenBranded",
+      "identifier": "pyth"
+    },
+    "pyusd": {
+      "codepoint": 57806,
+      "fontFamily": "TokenBranded",
+      "identifier": "pyusd"
+    },
+    "qanx": {
+      "codepoint": 57807,
+      "fontFamily": "TokenBranded",
+      "identifier": "qanx"
+    },
+    "qlc": {
+      "codepoint": 57808,
+      "fontFamily": "TokenBranded",
+      "identifier": "qlc"
+    },
+    "qnt": {
+      "codepoint": 57809,
+      "fontFamily": "TokenBranded",
+      "identifier": "qnt"
+    },
+    "qrl": {
+      "codepoint": 57810,
+      "fontFamily": "TokenBranded",
+      "identifier": "qrl"
+    },
+    "qtcon": {
+      "codepoint": 57811,
+      "fontFamily": "TokenBranded",
+      "identifier": "qtcon"
+    },
     "quad": {
-      "codepoint": 57441,
+      "codepoint": 57812,
       "fontFamily": "TokenBranded",
       "identifier": "quad"
     },
+    "quartz": {
+      "codepoint": 57813,
+      "fontFamily": "TokenBranded",
+      "identifier": "quartz"
+    },
     "qube": {
-      "codepoint": 57442,
+      "codepoint": 57814,
       "fontFamily": "TokenBranded",
       "identifier": "qube"
     },
     "quidd": {
-      "codepoint": 57443,
+      "codepoint": 57815,
       "fontFamily": "TokenBranded",
       "identifier": "quidd"
     },
+    "rad": {
+      "codepoint": 57816,
+      "fontFamily": "TokenBranded",
+      "identifier": "rad"
+    },
+    "radio": {
+      "codepoint": 57817,
+      "fontFamily": "TokenBranded",
+      "identifier": "radio"
+    },
     "ram": {
-      "codepoint": 57444,
+      "codepoint": 57818,
       "fontFamily": "TokenBranded",
       "identifier": "ram"
     },
+    "rbif": {
+      "codepoint": 57819,
+      "fontFamily": "TokenBranded",
+      "identifier": "rbif"
+    },
     "rdn": {
-      "codepoint": 57445,
+      "codepoint": 57820,
       "fontFamily": "TokenBranded",
       "identifier": "rdn"
     },
     "ref": {
-      "codepoint": 57446,
+      "codepoint": 57821,
       "fontFamily": "TokenBranded",
       "identifier": "ref"
     },
+    "rep": {
+      "codepoint": 57822,
+      "fontFamily": "TokenBranded",
+      "identifier": "rep"
+    },
     "reya": {
-      "codepoint": 57447,
+      "codepoint": 57823,
       "fontFamily": "TokenBranded",
       "identifier": "reya"
     },
+    "rin": {
+      "codepoint": 57824,
+      "fontFamily": "TokenBranded",
+      "identifier": "rin"
+    },
+    "rjv": {
+      "codepoint": 57825,
+      "fontFamily": "TokenBranded",
+      "identifier": "rjv"
+    },
+    "rlb": {
+      "codepoint": 57826,
+      "fontFamily": "TokenBranded",
+      "identifier": "rlb"
+    },
+    "rlc": {
+      "codepoint": 57827,
+      "fontFamily": "TokenBranded",
+      "identifier": "rlc"
+    },
+    "rollux": {
+      "codepoint": 57828,
+      "fontFamily": "TokenBranded",
+      "identifier": "rollux"
+    },
+    "rome": {
+      "codepoint": 57829,
+      "fontFamily": "TokenBranded",
+      "identifier": "rome"
+    },
+    "rsc": {
+      "codepoint": 57830,
+      "fontFamily": "TokenBranded",
+      "identifier": "rsc"
+    },
+    "rss3": {
+      "codepoint": 57831,
+      "fontFamily": "TokenBranded",
+      "identifier": "rss3"
+    },
+    "rvst": {
+      "codepoint": 57832,
+      "fontFamily": "TokenBranded",
+      "identifier": "rvst"
+    },
+    "rwn": {
+      "codepoint": 57833,
+      "fontFamily": "TokenBranded",
+      "identifier": "rwn"
+    },
+    "s": {
+      "codepoint": 57834,
+      "fontFamily": "TokenBranded",
+      "identifier": "s"
+    },
+    "safe": {
+      "codepoint": 57835,
+      "fontFamily": "TokenBranded",
+      "identifier": "safe"
+    },
+    "saito": {
+      "codepoint": 57836,
+      "fontFamily": "TokenBranded",
+      "identifier": "saito"
+    },
+    "san": {
+      "codepoint": 57837,
+      "fontFamily": "TokenBranded",
+      "identifier": "san"
+    },
     "sand": {
-      "codepoint": 57448,
+      "codepoint": 57838,
       "fontFamily": "TokenBranded",
       "identifier": "sand"
     },
+    "sc": {
+      "codepoint": 57839,
+      "fontFamily": "TokenBranded",
+      "identifier": "sc"
+    },
+    "scb": {
+      "codepoint": 57840,
+      "fontFamily": "TokenBranded",
+      "identifier": "scb"
+    },
+    "scnsol": {
+      "codepoint": 57841,
+      "fontFamily": "TokenBranded",
+      "identifier": "scnsol"
+    },
+    "scrt": {
+      "codepoint": 57842,
+      "fontFamily": "TokenBranded",
+      "identifier": "scrt"
+    },
+    "sdt": {
+      "codepoint": 57843,
+      "fontFamily": "TokenBranded",
+      "identifier": "sdt"
+    },
     "seilor": {
-      "codepoint": 57449,
+      "codepoint": 57844,
       "fontFamily": "TokenBranded",
       "identifier": "seilor"
     },
+    "senate": {
+      "codepoint": 57845,
+      "fontFamily": "TokenBranded",
+      "identifier": "senate"
+    },
+    "sfp": {
+      "codepoint": 57846,
+      "fontFamily": "TokenBranded",
+      "identifier": "sfp"
+    },
+    "sfrxeth": {
+      "codepoint": 57847,
+      "fontFamily": "TokenBranded",
+      "identifier": "sfrxeth"
+    },
+    "sftmx": {
+      "codepoint": 57848,
+      "fontFamily": "TokenBranded",
+      "identifier": "sftmx"
+    },
+    "shi": {
+      "codepoint": 57849,
+      "fontFamily": "TokenBranded",
+      "identifier": "shi"
+    },
+    "shimmer-evm": {
+      "codepoint": 57850,
+      "fontFamily": "TokenBranded",
+      "identifier": "shimmerEvm"
+    },
+    "shopx": {
+      "codepoint": 57851,
+      "fontFamily": "TokenBranded",
+      "identifier": "shopx"
+    },
+    "signa": {
+      "codepoint": 57852,
+      "fontFamily": "TokenBranded",
+      "identifier": "signa"
+    },
     "silicon": {
-      "codepoint": 57450,
+      "codepoint": 57853,
       "fontFamily": "TokenBranded",
       "identifier": "silicon"
     },
+    "silk": {
+      "codepoint": 57854,
+      "fontFamily": "TokenBranded",
+      "identifier": "silk"
+    },
+    "sis": {
+      "codepoint": 57855,
+      "fontFamily": "TokenBranded",
+      "identifier": "sis"
+    },
+    "skl": {
+      "codepoint": 57856,
+      "fontFamily": "TokenBranded",
+      "identifier": "skl"
+    },
+    "slam": {
+      "codepoint": 57857,
+      "fontFamily": "TokenBranded",
+      "identifier": "slam"
+    },
+    "slcl": {
+      "codepoint": 57858,
+      "fontFamily": "TokenBranded",
+      "identifier": "slcl"
+    },
+    "smbr": {
+      "codepoint": 57859,
+      "fontFamily": "TokenBranded",
+      "identifier": "smbr"
+    },
+    "smt": {
+      "codepoint": 57860,
+      "fontFamily": "TokenBranded",
+      "identifier": "smt"
+    },
+    "sns": {
+      "codepoint": 57861,
+      "fontFamily": "TokenBranded",
+      "identifier": "sns"
+    },
+    "snt": {
+      "codepoint": 57862,
+      "fontFamily": "TokenBranded",
+      "identifier": "snt"
+    },
+    "solflare": {
+      "codepoint": 57863,
+      "fontFamily": "TokenBranded",
+      "identifier": "solflare"
+    },
+    "solo": {
+      "codepoint": 57864,
+      "fontFamily": "TokenBranded",
+      "identifier": "solo"
+    },
+    "soneium": {
+      "codepoint": 57865,
+      "fontFamily": "TokenBranded",
+      "identifier": "soneium"
+    },
+    "sonic": {
+      "codepoint": 57866,
+      "fontFamily": "TokenBranded",
+      "identifier": "sonic"
+    },
+    "spa": {
+      "codepoint": 57867,
+      "fontFamily": "TokenBranded",
+      "identifier": "spa"
+    },
+    "spank": {
+      "codepoint": 57868,
+      "fontFamily": "TokenBranded",
+      "identifier": "spank"
+    },
+    "spc": {
+      "codepoint": 57869,
+      "fontFamily": "TokenBranded",
+      "identifier": "spc"
+    },
+    "squads": {
+      "codepoint": 57870,
+      "fontFamily": "TokenBranded",
+      "identifier": "squads"
+    },
+    "srm": {
+      "codepoint": 57871,
+      "fontFamily": "TokenBranded",
+      "identifier": "srm"
+    },
+    "sswp": {
+      "codepoint": 57872,
+      "fontFamily": "TokenBranded",
+      "identifier": "sswp"
+    },
+    "ssx": {
+      "codepoint": 57873,
+      "fontFamily": "TokenBranded",
+      "identifier": "ssx"
+    },
+    "stable": {
+      "codepoint": 57874,
+      "fontFamily": "TokenBranded",
+      "identifier": "stable"
+    },
+    "stellar": {
+      "codepoint": 57875,
+      "fontFamily": "TokenBranded",
+      "identifier": "stellar"
+    },
     "stfx": {
-      "codepoint": 57451,
+      "codepoint": 57876,
       "fontFamily": "TokenBranded",
       "identifier": "stfx"
     },
+    "stmx": {
+      "codepoint": 57877,
+      "fontFamily": "TokenBranded",
+      "identifier": "stmx"
+    },
     "stpt": {
-      "codepoint": 57452,
+      "codepoint": 57878,
       "fontFamily": "TokenBranded",
       "identifier": "stpt"
     },
+    "sudo": {
+      "codepoint": 57879,
+      "fontFamily": "TokenBranded",
+      "identifier": "sudo"
+    },
+    "sui": {
+      "codepoint": 57880,
+      "fontFamily": "TokenBranded",
+      "identifier": "sui"
+    },
+    "suip": {
+      "codepoint": 57881,
+      "fontFamily": "TokenBranded",
+      "identifier": "suip"
+    },
+    "super-seed": {
+      "codepoint": 57882,
+      "fontFamily": "TokenBranded",
+      "identifier": "superSeed"
+    },
+    "superseed": {
+      "codepoint": 57883,
+      "fontFamily": "TokenBranded",
+      "identifier": "superseed"
+    },
+    "susd": {
+      "codepoint": 57884,
+      "fontFamily": "TokenBranded",
+      "identifier": "susd"
+    },
+    "swash": {
+      "codepoint": 57885,
+      "fontFamily": "TokenBranded",
+      "identifier": "swash"
+    },
     "sweat": {
-      "codepoint": 57453,
+      "codepoint": 57886,
       "fontFamily": "TokenBranded",
       "identifier": "sweat"
     },
+    "swissborg": {
+      "codepoint": 57887,
+      "fontFamily": "TokenBranded",
+      "identifier": "swissborg"
+    },
+    "symbiosis": {
+      "codepoint": 57888,
+      "fontFamily": "TokenBranded",
+      "identifier": "symbiosis"
+    },
     "t": {
-      "codepoint": 57454,
+      "codepoint": 57889,
       "fontFamily": "TokenBranded",
       "identifier": "t"
     },
+    "tara": {
+      "codepoint": 57890,
+      "fontFamily": "TokenBranded",
+      "identifier": "tara"
+    },
+    "tel": {
+      "codepoint": 57891,
+      "fontFamily": "TokenBranded",
+      "identifier": "tel"
+    },
+    "tempo": {
+      "codepoint": 57892,
+      "fontFamily": "TokenBranded",
+      "identifier": "tempo"
+    },
+    "thales": {
+      "codepoint": 57893,
+      "fontFamily": "TokenBranded",
+      "identifier": "thales"
+    },
     "the": {
-      "codepoint": 57455,
+      "codepoint": 57894,
       "fontFamily": "TokenBranded",
       "identifier": "the"
     },
+    "theo": {
+      "codepoint": 57895,
+      "fontFamily": "TokenBranded",
+      "identifier": "theo"
+    },
+    "tht": {
+      "codepoint": 57896,
+      "fontFamily": "TokenBranded",
+      "identifier": "tht"
+    },
+    "tia": {
+      "codepoint": 57897,
+      "fontFamily": "TokenBranded",
+      "identifier": "tia"
+    },
+    "tidal": {
+      "codepoint": 57898,
+      "fontFamily": "TokenBranded",
+      "identifier": "tidal"
+    },
     "tifi": {
-      "codepoint": 57456,
+      "codepoint": 57899,
       "fontFamily": "TokenBranded",
       "identifier": "tifi"
     },
+    "tips": {
+      "codepoint": 57900,
+      "fontFamily": "TokenBranded",
+      "identifier": "tips"
+    },
+    "tkn": {
+      "codepoint": 57901,
+      "fontFamily": "TokenBranded",
+      "identifier": "tkn"
+    },
+    "tko": {
+      "codepoint": 57902,
+      "fontFamily": "TokenBranded",
+      "identifier": "tko"
+    },
+    "tkp": {
+      "codepoint": 57903,
+      "fontFamily": "TokenBranded",
+      "identifier": "tkp"
+    },
+    "tlm": {
+      "codepoint": 57904,
+      "fontFamily": "TokenBranded",
+      "identifier": "tlm"
+    },
+    "tomi": {
+      "codepoint": 57905,
+      "fontFamily": "TokenBranded",
+      "identifier": "tomi"
+    },
+    "ton": {
+      "codepoint": 57906,
+      "fontFamily": "TokenBranded",
+      "identifier": "ton"
+    },
+    "top": {
+      "codepoint": 57907,
+      "fontFamily": "TokenBranded",
+      "identifier": "top"
+    },
+    "tor": {
+      "codepoint": 57908,
+      "fontFamily": "TokenBranded",
+      "identifier": "tor"
+    },
+    "torn": {
+      "codepoint": 57909,
+      "fontFamily": "TokenBranded",
+      "identifier": "torn"
+    },
+    "tower": {
+      "codepoint": 57910,
+      "fontFamily": "TokenBranded",
+      "identifier": "tower"
+    },
+    "trade": {
+      "codepoint": 57911,
+      "fontFamily": "TokenBranded",
+      "identifier": "trade"
+    },
     "traxx": {
-      "codepoint": 57457,
+      "codepoint": 57912,
       "fontFamily": "TokenBranded",
       "identifier": "traxx"
     },
+    "trb": {
+      "codepoint": 57913,
+      "fontFamily": "TokenBranded",
+      "identifier": "trb"
+    },
+    "trezor": {
+      "codepoint": 57914,
+      "fontFamily": "TokenBranded",
+      "identifier": "trezor"
+    },
+    "tronpad": {
+      "codepoint": 57915,
+      "fontFamily": "TokenBranded",
+      "identifier": "tronpad"
+    },
     "tru": {
-      "codepoint": 57458,
+      "codepoint": 57916,
       "fontFamily": "TokenBranded",
       "identifier": "tru"
     },
     "tusd": {
-      "codepoint": 57459,
+      "codepoint": 57917,
       "fontFamily": "TokenBranded",
       "identifier": "tusd"
     },
+    "tvk": {
+      "codepoint": 57918,
+      "fontFamily": "TokenBranded",
+      "identifier": "tvk"
+    },
+    "txau": {
+      "codepoint": 57919,
+      "fontFamily": "TokenBranded",
+      "identifier": "txau"
+    },
+    "uft": {
+      "codepoint": 57920,
+      "fontFamily": "TokenBranded",
+      "identifier": "uft"
+    },
     "ultra": {
-      "codepoint": 57460,
+      "codepoint": 57921,
       "fontFamily": "TokenBranded",
       "identifier": "ultra"
     },
+    "uma": {
+      "codepoint": 57922,
+      "fontFamily": "TokenBranded",
+      "identifier": "uma"
+    },
+    "umami": {
+      "codepoint": 57923,
+      "fontFamily": "TokenBranded",
+      "identifier": "umami"
+    },
+    "umb": {
+      "codepoint": 57924,
+      "fontFamily": "TokenBranded",
+      "identifier": "umb"
+    },
+    "uni": {
+      "codepoint": 57925,
+      "fontFamily": "TokenBranded",
+      "identifier": "uni"
+    },
+    "unichain": {
+      "codepoint": 57926,
+      "fontFamily": "TokenBranded",
+      "identifier": "unichain"
+    },
+    "unipass": {
+      "codepoint": 57927,
+      "fontFamily": "TokenBranded",
+      "identifier": "unipass"
+    },
+    "uos": {
+      "codepoint": 57928,
+      "fontFamily": "TokenBranded",
+      "identifier": "uos"
+    },
+    "upp": {
+      "codepoint": 57929,
+      "fontFamily": "TokenBranded",
+      "identifier": "upp"
+    },
+    "usdc": {
+      "codepoint": 57930,
+      "fontFamily": "TokenBranded",
+      "identifier": "usdc"
+    },
+    "usn": {
+      "codepoint": 57931,
+      "fontFamily": "TokenBranded",
+      "identifier": "usn"
+    },
+    "utk": {
+      "codepoint": 57932,
+      "fontFamily": "TokenBranded",
+      "identifier": "utk"
+    },
+    "vana": {
+      "codepoint": 57933,
+      "fontFamily": "TokenBranded",
+      "identifier": "vana"
+    },
     "vanar": {
-      "codepoint": 57461,
+      "codepoint": 57934,
       "fontFamily": "TokenBranded",
       "identifier": "vanar"
     },
+    "vara": {
+      "codepoint": 57935,
+      "fontFamily": "TokenBranded",
+      "identifier": "vara"
+    },
+    "vc": {
+      "codepoint": 57936,
+      "fontFamily": "TokenBranded",
+      "identifier": "vc"
+    },
     "vega": {
-      "codepoint": 57462,
+      "codepoint": 57937,
       "fontFamily": "TokenBranded",
       "identifier": "vega"
     },
+    "vemp": {
+      "codepoint": 57938,
+      "fontFamily": "TokenBranded",
+      "identifier": "vemp"
+    },
     "verse": {
-      "codepoint": 57463,
+      "codepoint": 57939,
       "fontFamily": "TokenBranded",
       "identifier": "verse"
     },
     "viction": {
-      "codepoint": 57464,
+      "codepoint": 57940,
       "fontFamily": "TokenBranded",
       "identifier": "viction"
     },
+    "vidt": {
+      "codepoint": 57941,
+      "fontFamily": "TokenBranded",
+      "identifier": "vidt"
+    },
+    "vita": {
+      "codepoint": 57942,
+      "fontFamily": "TokenBranded",
+      "identifier": "vita"
+    },
+    "vite": {
+      "codepoint": 57943,
+      "fontFamily": "TokenBranded",
+      "identifier": "vite"
+    },
+    "vix": {
+      "codepoint": 57944,
+      "fontFamily": "TokenBranded",
+      "identifier": "vix"
+    },
     "vlx": {
-      "codepoint": 57465,
+      "codepoint": 57945,
       "fontFamily": "TokenBranded",
       "identifier": "vlx"
     },
     "vpad": {
-      "codepoint": 57466,
+      "codepoint": 57946,
       "fontFamily": "TokenBranded",
       "identifier": "vpad"
     },
+    "wacme": {
+      "codepoint": 57947,
+      "fontFamily": "TokenBranded",
+      "identifier": "wacme"
+    },
+    "wait": {
+      "codepoint": 57948,
+      "fontFamily": "TokenBranded",
+      "identifier": "wait"
+    },
+    "wallet-connect": {
+      "codepoint": 57949,
+      "fontFamily": "TokenBranded",
+      "identifier": "walletConnect"
+    },
+    "wampl": {
+      "codepoint": 57950,
+      "fontFamily": "TokenBranded",
+      "identifier": "wampl"
+    },
+    "wbtc": {
+      "codepoint": 57951,
+      "fontFamily": "TokenBranded",
+      "identifier": "wbtc"
+    },
+    "wcfg": {
+      "codepoint": 57952,
+      "fontFamily": "TokenBranded",
+      "identifier": "wcfg"
+    },
+    "wefi": {
+      "codepoint": 57953,
+      "fontFamily": "TokenBranded",
+      "identifier": "wefi"
+    },
+    "wemix": {
+      "codepoint": 57954,
+      "fontFamily": "TokenBranded",
+      "identifier": "wemix"
+    },
+    "whale": {
+      "codepoint": 57955,
+      "fontFamily": "TokenBranded",
+      "identifier": "whale"
+    },
+    "white": {
+      "codepoint": 57956,
+      "fontFamily": "TokenBranded",
+      "identifier": "white"
+    },
+    "wigo": {
+      "codepoint": 57957,
+      "fontFamily": "TokenBranded",
+      "identifier": "wigo"
+    },
+    "win": {
+      "codepoint": 57958,
+      "fontFamily": "TokenBranded",
+      "identifier": "win"
+    },
+    "wing": {
+      "codepoint": 57959,
+      "fontFamily": "TokenBranded",
+      "identifier": "wing"
+    },
+    "wise": {
+      "codepoint": 57960,
+      "fontFamily": "TokenBranded",
+      "identifier": "wise"
+    },
+    "wnxm": {
+      "codepoint": 57961,
+      "fontFamily": "TokenBranded",
+      "identifier": "wnxm"
+    },
+    "wombat": {
+      "codepoint": 57962,
+      "fontFamily": "TokenBranded",
+      "identifier": "wombat"
+    },
+    "world": {
+      "codepoint": 57963,
+      "fontFamily": "TokenBranded",
+      "identifier": "world"
+    },
+    "wow": {
+      "codepoint": 57964,
+      "fontFamily": "TokenBranded",
+      "identifier": "wow"
+    },
     "wozx": {
-      "codepoint": 57467,
+      "codepoint": 57965,
       "fontFamily": "TokenBranded",
       "identifier": "wozx"
     },
     "wrld": {
-      "codepoint": 57468,
+      "codepoint": 57966,
       "fontFamily": "TokenBranded",
       "identifier": "wrld"
     },
+    "wwy": {
+      "codepoint": 57967,
+      "fontFamily": "TokenBranded",
+      "identifier": "wwy"
+    },
+    "wxt": {
+      "codepoint": 57968,
+      "fontFamily": "TokenBranded",
+      "identifier": "wxt"
+    },
+    "x-layer": {
+      "codepoint": 57969,
+      "fontFamily": "TokenBranded",
+      "identifier": "xLayer"
+    },
+    "xaut": {
+      "codepoint": 57970,
+      "fontFamily": "TokenBranded",
+      "identifier": "xaut"
+    },
+    "xch": {
+      "codepoint": 57971,
+      "fontFamily": "TokenBranded",
+      "identifier": "xch"
+    },
+    "xchf": {
+      "codepoint": 57972,
+      "fontFamily": "TokenBranded",
+      "identifier": "xchf"
+    },
+    "xcur": {
+      "codepoint": 57973,
+      "fontFamily": "TokenBranded",
+      "identifier": "xcur"
+    },
     "xdg": {
-      "codepoint": 57469,
+      "codepoint": 57974,
       "fontFamily": "TokenBranded",
       "identifier": "xdg"
     },
+    "xem": {
+      "codepoint": 57975,
+      "fontFamily": "TokenBranded",
+      "identifier": "xem"
+    },
+    "xeta": {
+      "codepoint": 57976,
+      "fontFamily": "TokenBranded",
+      "identifier": "xeta"
+    },
+    "xhv": {
+      "codepoint": 57977,
+      "fontFamily": "TokenBranded",
+      "identifier": "xhv"
+    },
+    "xi": {
+      "codepoint": 57978,
+      "fontFamily": "TokenBranded",
+      "identifier": "xi"
+    },
+    "xido": {
+      "codepoint": 57979,
+      "fontFamily": "TokenBranded",
+      "identifier": "xido"
+    },
     "xki": {
-      "codepoint": 57470,
+      "codepoint": 57980,
       "fontFamily": "TokenBranded",
       "identifier": "xki"
     },
+    "xlm": {
+      "codepoint": 57981,
+      "fontFamily": "TokenBranded",
+      "identifier": "xlm"
+    },
     "xmr": {
-      "codepoint": 57471,
+      "codepoint": 57982,
       "fontFamily": "TokenBranded",
       "identifier": "xmr"
     },
     "xpla": {
-      "codepoint": 57472,
+      "codepoint": 57983,
       "fontFamily": "TokenBranded",
       "identifier": "xpla"
     },
+    "xrd": {
+      "codepoint": 57984,
+      "fontFamily": "TokenBranded",
+      "identifier": "xrd"
+    },
     "xrp": {
-      "codepoint": 57473,
+      "codepoint": 57985,
       "fontFamily": "TokenBranded",
       "identifier": "xrp"
     },
     "xrune": {
-      "codepoint": 57474,
+      "codepoint": 57986,
       "fontFamily": "TokenBranded",
       "identifier": "xrune"
     },
     "xvg": {
-      "codepoint": 57475,
+      "codepoint": 57987,
       "fontFamily": "TokenBranded",
       "identifier": "xvg"
     },
+    "yfi": {
+      "codepoint": 57988,
+      "fontFamily": "TokenBranded",
+      "identifier": "yfi"
+    },
+    "yoshi": {
+      "codepoint": 57989,
+      "fontFamily": "TokenBranded",
+      "identifier": "yoshi"
+    },
+    "zat": {
+      "codepoint": 57990,
+      "fontFamily": "TokenBranded",
+      "identifier": "zat"
+    },
+    "zcx": {
+      "codepoint": 57991,
+      "fontFamily": "TokenBranded",
+      "identifier": "zcx"
+    },
+    "zengo": {
+      "codepoint": 57992,
+      "fontFamily": "TokenBranded",
+      "identifier": "zengo"
+    },
+    "zero": {
+      "codepoint": 57993,
+      "fontFamily": "TokenBranded",
+      "identifier": "zero"
+    },
+    "zkb": {
+      "codepoint": 57994,
+      "fontFamily": "TokenBranded",
+      "identifier": "zkb"
+    },
+    "zkid": {
+      "codepoint": 57995,
+      "fontFamily": "TokenBranded",
+      "identifier": "zkid"
+    },
+    "zkp": {
+      "codepoint": 57996,
+      "fontFamily": "TokenBranded",
+      "identifier": "zkp"
+    },
     "zksync": {
-      "codepoint": 57476,
+      "codepoint": 57997,
       "fontFamily": "TokenBranded",
       "identifier": "zksync"
     },
+    "zlk": {
+      "codepoint": 57998,
+      "fontFamily": "TokenBranded",
+      "identifier": "zlk"
+    },
     "znn": {
-      "codepoint": 57477,
+      "codepoint": 57999,
       "fontFamily": "TokenBranded",
       "identifier": "znn"
+    },
+    "zpay": {
+      "codepoint": 58000,
+      "fontFamily": "TokenBranded",
+      "identifier": "zpay"
+    },
+    "zrx": {
+      "codepoint": 58001,
+      "fontFamily": "TokenBranded",
+      "identifier": "zrx"
+    },
+    "ztg": {
+      "codepoint": 58002,
+      "fontFamily": "TokenBranded",
+      "identifier": "ztg"
+    },
+    "zyn": {
+      "codepoint": 58003,
+      "fontFamily": "TokenBranded",
+      "identifier": "zyn"
     }
   }
 }

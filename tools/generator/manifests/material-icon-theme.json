@@ -16,17 +16,17 @@
       "spdx": "MIT",
       "url": "https://github.com/material-extensions/vscode-material-icon-theme/blob/main/LICENSE"
     },
-    "total": 169
+    "total": 389
   },
   "fonts": [
     {
       "family": "MaterialIconTheme",
-      "nextCodepoint": 57513,
-      "iconCount": 169
+      "nextCodepoint": 57735,
+      "iconCount": 389
     },
     {
       "family": "MaterialIconThemeSecondary",
-      "nextCodepoint": 57513,
+      "nextCodepoint": 57735,
       "iconCount": 2
     }
   ],
@@ -41,840 +41,1954 @@
       "fontFamily": "MaterialIconTheme",
       "identifier": "adonis"
     },
-    "apiblueprint": {
+    "android": {
       "codepoint": 57346,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "android"
+    },
+    "apiblueprint": {
+      "codepoint": 57347,
       "fontFamily": "MaterialIconTheme",
       "identifier": "apiblueprint"
     },
     "appveyor": {
-      "codepoint": 57347,
+      "codepoint": 57348,
       "fontFamily": "MaterialIconTheme",
       "identifier": "appveyor"
     },
+    "architecture": {
+      "codepoint": 57349,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "architecture"
+    },
     "arduino": {
-      "codepoint": 57348,
+      "codepoint": 57350,
       "fontFamily": "MaterialIconTheme",
       "identifier": "arduino"
     },
     "asciidoc": {
-      "codepoint": 57349,
+      "codepoint": 57351,
       "fontFamily": "MaterialIconTheme",
       "identifier": "asciidoc"
     },
+    "astro": {
+      "codepoint": 57352,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "astro"
+    },
+    "autohotkey": {
+      "codepoint": 57353,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "autohotkey"
+    },
     "ballerina": {
-      "codepoint": 57350,
+      "codepoint": 57354,
       "fontFamily": "MaterialIconTheme",
       "identifier": "ballerina"
     },
+    "beancount": {
+      "codepoint": 57355,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "beancount"
+    },
+    "bench-js": {
+      "codepoint": 57356,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "benchJs"
+    },
+    "bench-jsx": {
+      "codepoint": 57357,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "benchJsx"
+    },
+    "bicep": {
+      "codepoint": 57358,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "bicep"
+    },
+    "biome": {
+      "codepoint": 57359,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "biome"
+    },
     "blink": {
-      "codepoint": 57351,
+      "codepoint": 57360,
       "fontFamily": "MaterialIconTheme",
       "identifier": "blink"
     },
+    "blitz": {
+      "codepoint": 57361,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "blitz"
+    },
+    "browserlist": {
+      "codepoint": 57362,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "browserlist"
+    },
     "bucklescript": {
-      "codepoint": 57352,
+      "codepoint": 57363,
       "fontFamily": "MaterialIconTheme",
       "identifier": "bucklescript"
     },
+    "cabal": {
+      "codepoint": 57364,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "cabal"
+    },
+    "caddy": {
+      "codepoint": 57365,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "caddy"
+    },
     "cadence": {
-      "codepoint": 57353,
+      "codepoint": 57366,
       "fontFamily": "MaterialIconTheme",
       "identifier": "cadence"
     },
     "capacitor": {
-      "codepoint": 57354,
+      "codepoint": 57367,
       "fontFamily": "MaterialIconTheme",
       "identifier": "capacitor"
     },
     "cbx": {
-      "codepoint": 57355,
+      "codepoint": 57368,
       "fontFamily": "MaterialIconTheme",
       "identifier": "cbx"
     },
     "changelog": {
-      "codepoint": 57356,
+      "codepoint": 57369,
       "fontFamily": "MaterialIconTheme",
       "identifier": "changelog"
     },
     "chess": {
-      "codepoint": 57357,
+      "codepoint": 57370,
       "fontFamily": "MaterialIconTheme",
       "identifier": "chess"
     },
     "chrome": {
-      "codepoint": 57358,
+      "codepoint": 57371,
       "fontFamily": "MaterialIconTheme",
       "identifier": "chrome"
     },
+    "circleci": {
+      "codepoint": 57372,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "circleci"
+    },
+    "cline": {
+      "codepoint": 57373,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "cline"
+    },
     "code-climate": {
-      "codepoint": 57359,
+      "codepoint": 57374,
       "fontFamily": "MaterialIconTheme",
       "identifier": "codeClimate"
     },
     "code-climate-light": {
-      "codepoint": 57360,
+      "codepoint": 57375,
       "fontFamily": "MaterialIconTheme",
       "identifier": "codeClimateLight"
     },
     "codeowners": {
-      "codepoint": 57361,
+      "codepoint": 57376,
       "fontFamily": "MaterialIconTheme",
       "identifier": "codeowners"
     },
     "coffee": {
-      "codepoint": 57362,
+      "codepoint": 57377,
       "fontFamily": "MaterialIconTheme",
       "identifier": "coffee"
     },
     "command": {
-      "codepoint": 57363,
+      "codepoint": 57378,
       "fontFamily": "MaterialIconTheme",
       "identifier": "command"
     },
     "commitizen": {
-      "codepoint": 57364,
+      "codepoint": 57379,
       "fontFamily": "MaterialIconTheme",
       "identifier": "commitizen"
     },
     "conduct": {
-      "codepoint": 57365,
+      "codepoint": 57380,
       "fontFamily": "MaterialIconTheme",
       "identifier": "conduct"
     },
     "contributing": {
-      "codepoint": 57366,
+      "codepoint": 57381,
       "fontFamily": "MaterialIconTheme",
       "identifier": "contributing"
     },
+    "copilot": {
+      "codepoint": 57382,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "copilot"
+    },
+    "craco": {
+      "codepoint": 57383,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "craco"
+    },
     "credits": {
-      "codepoint": 57367,
+      "codepoint": 57384,
       "fontFamily": "MaterialIconTheme",
       "identifier": "credits"
     },
     "crystal": {
-      "codepoint": 57368,
+      "codepoint": 57385,
       "fontFamily": "MaterialIconTheme",
       "identifier": "crystal"
     },
+    "cucumber": {
+      "codepoint": 57386,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "cucumber"
+    },
     "cursor": {
-      "codepoint": 57369,
+      "codepoint": 57387,
       "fontFamily": "MaterialIconTheme",
       "identifier": "cursor"
     },
+    "cypress": {
+      "codepoint": 57388,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "cypress"
+    },
     "database": {
-      "codepoint": 57370,
+      "codepoint": 57389,
       "fontFamily": "MaterialIconTheme",
       "identifier": "database"
     },
+    "denizenscript": {
+      "codepoint": 57390,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "denizenscript"
+    },
+    "deno": {
+      "codepoint": 57391,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "deno"
+    },
+    "dependencies-update": {
+      "codepoint": 57392,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "dependenciesUpdate"
+    },
     "diff": {
-      "codepoint": 57371,
+      "codepoint": 57393,
       "fontFamily": "MaterialIconTheme",
       "identifier": "diff"
     },
     "dinophp": {
-      "codepoint": 57372,
+      "codepoint": 57394,
       "fontFamily": "MaterialIconTheme",
       "identifier": "dinophp"
     },
     "disc": {
-      "codepoint": 57373,
+      "codepoint": 57395,
       "fontFamily": "MaterialIconTheme",
       "identifier": "disc"
     },
+    "django": {
+      "codepoint": 57396,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "django"
+    },
+    "dll": {
+      "codepoint": 57397,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "dll"
+    },
+    "doctex-installer": {
+      "codepoint": 57398,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "doctexInstaller"
+    },
     "document": {
-      "codepoint": 57374,
+      "codepoint": 57399,
       "fontFamily": "MaterialIconTheme",
       "identifier": "document"
     },
     "drawio": {
-      "codepoint": 57375,
+      "codepoint": 57400,
       "fontFamily": "MaterialIconTheme",
       "identifier": "drawio"
     },
     "drizzle": {
-      "codepoint": 57376,
+      "codepoint": 57401,
       "fontFamily": "MaterialIconTheme",
       "identifier": "drizzle"
     },
     "drone": {
-      "codepoint": 57377,
+      "codepoint": 57402,
       "fontFamily": "MaterialIconTheme",
       "identifier": "drone"
     },
     "dune": {
-      "codepoint": 57378,
+      "codepoint": 57403,
       "fontFamily": "MaterialIconTheme",
       "identifier": "dune"
     },
     "edge": {
-      "codepoint": 57379,
+      "codepoint": 57404,
       "fontFamily": "MaterialIconTheme",
       "identifier": "edge"
     },
     "editorconfig": {
-      "codepoint": 57380,
+      "codepoint": 57405,
       "fontFamily": "MaterialIconTheme",
       "identifier": "editorconfig"
     },
+    "ejs": {
+      "codepoint": 57406,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "ejs"
+    },
     "elm": {
-      "codepoint": 57381,
+      "codepoint": 57407,
       "fontFamily": "MaterialIconTheme",
       "identifier": "elm"
     },
     "email": {
-      "codepoint": 57382,
+      "codepoint": 57408,
       "fontFamily": "MaterialIconTheme",
       "identifier": "email"
     },
+    "epub": {
+      "codepoint": 57409,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "epub"
+    },
     "esbuild": {
-      "codepoint": 57383,
+      "codepoint": 57410,
       "fontFamily": "MaterialIconTheme",
       "identifier": "esbuild"
     },
     "excalidraw": {
-      "codepoint": 57384,
+      "codepoint": 57411,
       "fontFamily": "MaterialIconTheme",
       "identifier": "excalidraw"
     },
     "exe": {
-      "codepoint": 57385,
+      "codepoint": 57412,
       "fontFamily": "MaterialIconTheme",
       "identifier": "exe"
     },
+    "expo": {
+      "codepoint": 57413,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "expo"
+    },
     "favicon": {
-      "codepoint": 57386,
+      "codepoint": 57414,
       "fontFamily": "MaterialIconTheme",
       "identifier": "favicon"
     },
     "flow": {
-      "codepoint": 57387,
+      "codepoint": 57415,
       "fontFamily": "MaterialIconTheme",
       "identifier": "flow"
     },
+    "folder-android": {
+      "codepoint": 57416,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAndroid"
+    },
+    "folder-android-open": {
+      "codepoint": 57417,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAndroidOpen"
+    },
+    "folder-api": {
+      "codepoint": 57418,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderApi"
+    },
+    "folder-api-open": {
+      "codepoint": 57419,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderApiOpen"
+    },
     "folder-archive": {
-      "codepoint": 57388,
+      "codepoint": 57420,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderArchive"
     },
     "folder-archive-open": {
-      "codepoint": 57389,
+      "codepoint": 57421,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderArchiveOpen"
     },
     "folder-attachment": {
-      "codepoint": 57390,
+      "codepoint": 57422,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAttachment"
     },
     "folder-attachment-open": {
-      "codepoint": 57391,
+      "codepoint": 57423,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderAttachmentOpen"
     },
+    "folder-bicep": {
+      "codepoint": 57424,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderBicep"
+    },
+    "folder-bicep-open": {
+      "codepoint": 57425,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderBicepOpen"
+    },
     "folder-bloc": {
-      "codepoint": 57392,
+      "codepoint": 57426,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderBloc"
     },
     "folder-bloc-open": {
-      "codepoint": 57393,
+      "codepoint": 57427,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderBlocOpen"
     },
+    "folder-cline": {
+      "codepoint": 57428,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCline"
+    },
+    "folder-cline-open": {
+      "codepoint": 57429,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderClineOpen"
+    },
+    "folder-cloudflare": {
+      "codepoint": 57430,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCloudflare"
+    },
+    "folder-cloudflare-open": {
+      "codepoint": 57431,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCloudflareOpen"
+    },
+    "folder-cluster": {
+      "codepoint": 57432,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCluster"
+    },
+    "folder-cluster-open": {
+      "codepoint": 57433,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderClusterOpen"
+    },
+    "folder-components": {
+      "codepoint": 57434,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderComponents"
+    },
+    "folder-components-open": {
+      "codepoint": 57435,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderComponentsOpen"
+    },
+    "folder-config": {
+      "codepoint": 57436,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderConfig"
+    },
+    "folder-config-open": {
+      "codepoint": 57437,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderConfigOpen"
+    },
+    "folder-connection": {
+      "codepoint": 57438,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderConnection"
+    },
+    "folder-connection-open": {
+      "codepoint": 57439,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderConnectionOpen"
+    },
+    "folder-console": {
+      "codepoint": 57440,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderConsole"
+    },
+    "folder-console-open": {
+      "codepoint": 57441,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderConsoleOpen"
+    },
+    "folder-content": {
+      "codepoint": 57442,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderContent"
+    },
+    "folder-content-open": {
+      "codepoint": 57443,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderContentOpen"
+    },
+    "folder-controller": {
+      "codepoint": 57444,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderController"
+    },
+    "folder-controller-open": {
+      "codepoint": 57445,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderControllerOpen"
+    },
+    "folder-coverage": {
+      "codepoint": 57446,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCoverage"
+    },
+    "folder-coverage-open": {
+      "codepoint": 57447,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderCoverageOpen"
+    },
+    "folder-database": {
+      "codepoint": 57448,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderDatabase"
+    },
+    "folder-database-open": {
+      "codepoint": 57449,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderDatabaseOpen"
+    },
+    "folder-decorators": {
+      "codepoint": 57450,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderDecorators"
+    },
+    "folder-decorators-open": {
+      "codepoint": 57451,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderDecoratorsOpen"
+    },
     "folder-element": {
-      "codepoint": 57394,
+      "codepoint": 57452,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderElement"
     },
     "folder-element-open": {
-      "codepoint": 57395,
+      "codepoint": 57453,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderElementOpen"
     },
+    "folder-enum": {
+      "codepoint": 57454,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderEnum"
+    },
+    "folder-enum-open": {
+      "codepoint": 57455,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderEnumOpen"
+    },
+    "folder-eslint": {
+      "codepoint": 57456,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderEslint"
+    },
+    "folder-eslint-open": {
+      "codepoint": 57457,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderEslintOpen"
+    },
+    "folder-event": {
+      "codepoint": 57458,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderEvent"
+    },
+    "folder-event-open": {
+      "codepoint": 57459,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderEventOpen"
+    },
+    "folder-export": {
+      "codepoint": 57460,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderExport"
+    },
+    "folder-export-open": {
+      "codepoint": 57461,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderExportOpen"
+    },
+    "folder-favicon": {
+      "codepoint": 57462,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderFavicon"
+    },
+    "folder-favicon-open": {
+      "codepoint": 57463,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderFaviconOpen"
+    },
+    "folder-form": {
+      "codepoint": 57464,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderForm"
+    },
+    "folder-form-open": {
+      "codepoint": 57465,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderFormOpen"
+    },
+    "folder-gamemaker": {
+      "codepoint": 57466,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGamemaker"
+    },
+    "folder-gamemaker-open": {
+      "codepoint": 57467,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGamemakerOpen"
+    },
     "folder-gemini-ai": {
-      "codepoint": 57396,
+      "codepoint": 57468,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGeminiAi"
     },
     "folder-gemini-ai-open": {
-      "codepoint": 57397,
+      "codepoint": 57469,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderGeminiAiOpen"
     },
+    "folder-global": {
+      "codepoint": 57470,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGlobal"
+    },
+    "folder-global-open": {
+      "codepoint": 57471,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGlobalOpen"
+    },
+    "folder-go": {
+      "codepoint": 57472,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGo"
+    },
+    "folder-go-open": {
+      "codepoint": 57473,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGoOpen"
+    },
+    "folder-godot": {
+      "codepoint": 57474,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGodot"
+    },
+    "folder-godot-open": {
+      "codepoint": 57475,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGodotOpen"
+    },
+    "folder-gradle": {
+      "codepoint": 57476,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGradle"
+    },
+    "folder-gradle-open": {
+      "codepoint": 57477,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGradleOpen"
+    },
+    "folder-helm": {
+      "codepoint": 57478,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderHelm"
+    },
+    "folder-helm-open": {
+      "codepoint": 57479,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderHelmOpen"
+    },
+    "folder-helper": {
+      "codepoint": 57480,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderHelper"
+    },
+    "folder-helper-open": {
+      "codepoint": 57481,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderHelperOpen"
+    },
+    "folder-i18n": {
+      "codepoint": 57482,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderI18n"
+    },
+    "folder-i18n-open": {
+      "codepoint": 57483,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderI18nOpen"
+    },
+    "folder-import": {
+      "codepoint": 57484,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderImport"
+    },
+    "folder-import-open": {
+      "codepoint": 57485,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderImportOpen"
+    },
+    "folder-input": {
+      "codepoint": 57486,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderInput"
+    },
+    "folder-input-open": {
+      "codepoint": 57487,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderInputOpen"
+    },
+    "folder-javascript": {
+      "codepoint": 57488,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderJavascript"
+    },
+    "folder-javascript-open": {
+      "codepoint": 57489,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderJavascriptOpen"
+    },
+    "folder-job": {
+      "codepoint": 57490,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderJob"
+    },
+    "folder-job-open": {
+      "codepoint": 57491,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderJobOpen"
+    },
+    "folder-keys": {
+      "codepoint": 57492,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderKeys"
+    },
+    "folder-keys-open": {
+      "codepoint": 57493,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderKeysOpen"
+    },
+    "folder-kotlin": {
+      "codepoint": 57494,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderKotlin"
+    },
+    "folder-kotlin-open": {
+      "codepoint": 57495,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderKotlinOpen"
+    },
+    "folder-lib": {
+      "codepoint": 57496,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderLib"
+    },
+    "folder-lib-open": {
+      "codepoint": 57497,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderLibOpen"
+    },
+    "folder-log": {
+      "codepoint": 57498,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderLog"
+    },
+    "folder-log-open": {
+      "codepoint": 57499,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderLogOpen"
+    },
+    "folder-lottie": {
+      "codepoint": 57500,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderLottie"
+    },
+    "folder-lottie-open": {
+      "codepoint": 57501,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderLottieOpen"
+    },
+    "folder-mappings": {
+      "codepoint": 57502,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMappings"
+    },
+    "folder-mappings-open": {
+      "codepoint": 57503,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMappingsOpen"
+    },
+    "folder-middleware": {
+      "codepoint": 57504,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMiddleware"
+    },
+    "folder-middleware-open": {
+      "codepoint": 57505,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderMiddlewareOpen"
+    },
+    "folder-netlify": {
+      "codepoint": 57506,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderNetlify"
+    },
+    "folder-netlify-open": {
+      "codepoint": 57507,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderNetlifyOpen"
+    },
+    "folder-ngrx-store": {
+      "codepoint": 57508,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderNgrxStore"
+    },
+    "folder-ngrx-store-open": {
+      "codepoint": 57509,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderNgrxStoreOpen"
+    },
+    "folder-node": {
+      "codepoint": 57510,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderNode"
+    },
+    "folder-node-open": {
+      "codepoint": 57511,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderNodeOpen"
+    },
+    "folder-prisma": {
+      "codepoint": 57512,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPrisma"
+    },
+    "folder-prisma-open": {
+      "codepoint": 57513,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPrismaOpen"
+    },
+    "folder-prompts": {
+      "codepoint": 57514,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPrompts"
+    },
+    "folder-prompts-open": {
+      "codepoint": 57515,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderPromptsOpen"
+    },
+    "folder-react-components": {
+      "codepoint": 57516,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderReactComponents"
+    },
+    "folder-react-components-open": {
+      "codepoint": 57517,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderReactComponentsOpen"
+    },
+    "folder-resource": {
+      "codepoint": 57518,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderResource"
+    },
+    "folder-resource-open": {
+      "codepoint": 57519,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderResourceOpen"
+    },
     "folder-seeders": {
-      "codepoint": 57398,
+      "codepoint": 57520,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSeeders",
       "duotone": true
     },
     "folder-seeders-open": {
-      "codepoint": 57399,
+      "codepoint": 57521,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderSeedersOpen",
       "duotone": true
     },
+    "folder-server": {
+      "codepoint": 57522,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderServer"
+    },
+    "folder-server-open": {
+      "codepoint": 57523,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderServerOpen"
+    },
+    "folder-shader": {
+      "codepoint": 57524,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderShader"
+    },
+    "folder-shader-open": {
+      "codepoint": 57525,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderShaderOpen"
+    },
+    "folder-shared": {
+      "codepoint": 57526,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderShared"
+    },
+    "folder-shared-open": {
+      "codepoint": 57527,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSharedOpen"
+    },
+    "folder-simulations": {
+      "codepoint": 57528,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSimulations"
+    },
+    "folder-simulations-open": {
+      "codepoint": 57529,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSimulationsOpen"
+    },
+    "folder-skills": {
+      "codepoint": 57530,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSkills"
+    },
+    "folder-skills-open": {
+      "codepoint": 57531,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSkillsOpen"
+    },
+    "folder-snapcraft": {
+      "codepoint": 57532,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSnapcraft"
+    },
+    "folder-snapcraft-open": {
+      "codepoint": 57533,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSnapcraftOpen"
+    },
+    "folder-stylus": {
+      "codepoint": 57534,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderStylus"
+    },
+    "folder-stylus-open": {
+      "codepoint": 57535,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderStylusOpen"
+    },
+    "folder-taskfile": {
+      "codepoint": 57536,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTaskfile"
+    },
+    "folder-taskfile-open": {
+      "codepoint": 57537,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTaskfileOpen"
+    },
+    "folder-tasks": {
+      "codepoint": 57538,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTasks"
+    },
+    "folder-tasks-open": {
+      "codepoint": 57539,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTasksOpen"
+    },
+    "folder-television": {
+      "codepoint": 57540,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTelevision"
+    },
+    "folder-television-open": {
+      "codepoint": 57541,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTelevisionOpen"
+    },
+    "folder-temp": {
+      "codepoint": 57542,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTemp"
+    },
+    "folder-temp-open": {
+      "codepoint": 57543,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTempOpen"
+    },
+    "folder-terraform": {
+      "codepoint": 57544,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTerraform"
+    },
+    "folder-terraform-open": {
+      "codepoint": 57545,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTerraformOpen"
+    },
+    "folder-test": {
+      "codepoint": 57546,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTest"
+    },
+    "folder-test-open": {
+      "codepoint": 57547,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTestOpen"
+    },
     "folder-trigger": {
-      "codepoint": 57400,
+      "codepoint": 57548,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTrigger"
     },
     "folder-trigger-open": {
-      "codepoint": 57401,
+      "codepoint": 57549,
       "fontFamily": "MaterialIconTheme",
       "identifier": "folderTriggerOpen"
     },
+    "folder-ui": {
+      "codepoint": 57550,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderUi"
+    },
+    "folder-ui-open": {
+      "codepoint": 57551,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderUiOpen"
+    },
+    "folder-vscode": {
+      "codepoint": 57552,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderVscode"
+    },
+    "folder-vscode-open": {
+      "codepoint": 57553,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderVscodeOpen"
+    },
     "fsharp": {
-      "codepoint": 57402,
+      "codepoint": 57554,
       "fontFamily": "MaterialIconTheme",
       "identifier": "fsharp"
     },
+    "gamemaker": {
+      "codepoint": 57555,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "gamemaker"
+    },
+    "gatsby": {
+      "codepoint": 57556,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "gatsby"
+    },
+    "git": {
+      "codepoint": 57557,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "git"
+    },
+    "gleam": {
+      "codepoint": 57558,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "gleam"
+    },
+    "go": {
+      "codepoint": 57559,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "go"
+    },
+    "godot": {
+      "codepoint": 57560,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "godot"
+    },
+    "godot-assets": {
+      "codepoint": 57561,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "godotAssets"
+    },
     "gradle": {
-      "codepoint": 57403,
+      "codepoint": 57562,
       "fontFamily": "MaterialIconTheme",
       "identifier": "gradle"
     },
+    "grafana-alloy": {
+      "codepoint": 57563,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "grafanaAlloy"
+    },
     "graphcool": {
-      "codepoint": 57404,
+      "codepoint": 57564,
       "fontFamily": "MaterialIconTheme",
       "identifier": "graphcool"
     },
     "gridsome": {
-      "codepoint": 57405,
+      "codepoint": 57565,
       "fontFamily": "MaterialIconTheme",
       "identifier": "gridsome"
     },
+    "groovy": {
+      "codepoint": 57566,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "groovy"
+    },
+    "happo": {
+      "codepoint": 57567,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "happo"
+    },
     "haxe": {
-      "codepoint": 57406,
+      "codepoint": 57568,
       "fontFamily": "MaterialIconTheme",
       "identifier": "haxe"
     },
     "hcl": {
-      "codepoint": 57407,
+      "codepoint": 57569,
       "fontFamily": "MaterialIconTheme",
       "identifier": "hcl"
     },
     "helm": {
-      "codepoint": 57408,
+      "codepoint": 57570,
       "fontFamily": "MaterialIconTheme",
       "identifier": "helm"
     },
     "hex": {
-      "codepoint": 57409,
+      "codepoint": 57571,
       "fontFamily": "MaterialIconTheme",
       "identifier": "hex"
     },
+    "histoire": {
+      "codepoint": 57572,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "histoire"
+    },
+    "horusec": {
+      "codepoint": 57573,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "horusec"
+    },
     "hosts": {
-      "codepoint": 57410,
+      "codepoint": 57574,
       "fontFamily": "MaterialIconTheme",
       "identifier": "hosts"
     },
+    "huff": {
+      "codepoint": 57575,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "huff"
+    },
+    "husky": {
+      "codepoint": 57576,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "husky"
+    },
     "ifanr-cloud": {
-      "codepoint": 57411,
+      "codepoint": 57577,
       "fontFamily": "MaterialIconTheme",
       "identifier": "ifanrCloud"
     },
+    "image": {
+      "codepoint": 57578,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "image"
+    },
     "imba": {
-      "codepoint": 57412,
+      "codepoint": 57579,
       "fontFamily": "MaterialIconTheme",
       "identifier": "imba"
     },
     "ionic": {
-      "codepoint": 57413,
+      "codepoint": 57580,
       "fontFamily": "MaterialIconTheme",
       "identifier": "ionic"
     },
     "javascript": {
-      "codepoint": 57414,
+      "codepoint": 57581,
       "fontFamily": "MaterialIconTheme",
       "identifier": "javascript"
     },
     "javascript-map": {
-      "codepoint": 57415,
+      "codepoint": 57582,
       "fontFamily": "MaterialIconTheme",
       "identifier": "javascriptMap"
     },
+    "jinja": {
+      "codepoint": 57583,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "jinja"
+    },
     "json": {
-      "codepoint": 57416,
+      "codepoint": 57584,
       "fontFamily": "MaterialIconTheme",
       "identifier": "json"
     },
     "json-schema": {
-      "codepoint": 57417,
+      "codepoint": 57585,
       "fontFamily": "MaterialIconTheme",
       "identifier": "jsonSchema"
     },
     "key": {
-      "codepoint": 57418,
+      "codepoint": 57586,
       "fontFamily": "MaterialIconTheme",
       "identifier": "key"
     },
+    "kivy": {
+      "codepoint": 57587,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "kivy"
+    },
+    "knip": {
+      "codepoint": 57588,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "knip"
+    },
     "latexmk": {
-      "codepoint": 57419,
+      "codepoint": 57589,
       "fontFamily": "MaterialIconTheme",
       "identifier": "latexmk"
     },
     "lib": {
-      "codepoint": 57420,
+      "codepoint": 57590,
       "fontFamily": "MaterialIconTheme",
       "identifier": "lib"
     },
     "lilypond": {
-      "codepoint": 57421,
+      "codepoint": 57591,
       "fontFamily": "MaterialIconTheme",
       "identifier": "lilypond"
     },
     "liquid": {
-      "codepoint": 57422,
+      "codepoint": 57592,
       "fontFamily": "MaterialIconTheme",
       "identifier": "liquid"
     },
     "lock": {
-      "codepoint": 57423,
+      "codepoint": 57593,
       "fontFamily": "MaterialIconTheme",
       "identifier": "lock"
     },
     "log": {
-      "codepoint": 57424,
+      "codepoint": 57594,
       "fontFamily": "MaterialIconTheme",
       "identifier": "log"
     },
+    "lottie": {
+      "codepoint": 57595,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "lottie"
+    },
     "lua": {
-      "codepoint": 57425,
+      "codepoint": 57596,
       "fontFamily": "MaterialIconTheme",
       "identifier": "lua"
     },
+    "luau": {
+      "codepoint": 57597,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "luau"
+    },
+    "lynx": {
+      "codepoint": 57598,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "lynx"
+    },
     "lyric": {
-      "codepoint": 57426,
+      "codepoint": 57599,
       "fontFamily": "MaterialIconTheme",
       "identifier": "lyric"
     },
     "macaulay2": {
-      "codepoint": 57427,
+      "codepoint": 57600,
       "fontFamily": "MaterialIconTheme",
       "identifier": "macaulay2"
     },
     "markdown": {
-      "codepoint": 57428,
+      "codepoint": 57601,
       "fontFamily": "MaterialIconTheme",
       "identifier": "markdown"
     },
     "markdownlint": {
-      "codepoint": 57429,
+      "codepoint": 57602,
       "fontFamily": "MaterialIconTheme",
       "identifier": "markdownlint"
     },
     "matlab": {
-      "codepoint": 57430,
+      "codepoint": 57603,
       "fontFamily": "MaterialIconTheme",
       "identifier": "matlab"
     },
     "mdx": {
-      "codepoint": 57431,
+      "codepoint": 57604,
       "fontFamily": "MaterialIconTheme",
       "identifier": "mdx"
     },
     "merlin": {
-      "codepoint": 57432,
+      "codepoint": 57605,
       "fontFamily": "MaterialIconTheme",
       "identifier": "merlin"
     },
+    "meson": {
+      "codepoint": 57606,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "meson"
+    },
     "minecraft": {
-      "codepoint": 57433,
+      "codepoint": 57607,
       "fontFamily": "MaterialIconTheme",
       "identifier": "minecraft"
     },
     "mint": {
-      "codepoint": 57434,
+      "codepoint": 57608,
       "fontFamily": "MaterialIconTheme",
       "identifier": "mint"
     },
     "moonscript": {
-      "codepoint": 57435,
+      "codepoint": 57609,
       "fontFamily": "MaterialIconTheme",
       "identifier": "moonscript"
     },
     "mrpack": {
-      "codepoint": 57436,
+      "codepoint": 57610,
       "fontFamily": "MaterialIconTheme",
       "identifier": "mrpack"
     },
+    "nano-staged": {
+      "codepoint": 57611,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "nanoStaged"
+    },
     "ndst": {
-      "codepoint": 57437,
+      "codepoint": 57612,
       "fontFamily": "MaterialIconTheme",
       "identifier": "ndst"
     },
+    "netlify": {
+      "codepoint": 57613,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "netlify"
+    },
+    "next": {
+      "codepoint": 57614,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "next"
+    },
+    "nginx": {
+      "codepoint": 57615,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "nginx"
+    },
     "ngrx-actions": {
-      "codepoint": 57438,
+      "codepoint": 57616,
       "fontFamily": "MaterialIconTheme",
       "identifier": "ngrxActions"
     },
     "ngrx-effects": {
-      "codepoint": 57439,
+      "codepoint": 57617,
       "fontFamily": "MaterialIconTheme",
       "identifier": "ngrxEffects"
     },
     "ngrx-entity": {
-      "codepoint": 57440,
+      "codepoint": 57618,
       "fontFamily": "MaterialIconTheme",
       "identifier": "ngrxEntity"
     },
     "ngrx-state": {
-      "codepoint": 57441,
+      "codepoint": 57619,
       "fontFamily": "MaterialIconTheme",
       "identifier": "ngrxState"
     },
     "nim": {
-      "codepoint": 57442,
+      "codepoint": 57620,
       "fontFamily": "MaterialIconTheme",
       "identifier": "nim"
     },
     "nix": {
-      "codepoint": 57443,
+      "codepoint": 57621,
       "fontFamily": "MaterialIconTheme",
       "identifier": "nix"
     },
     "nodejs": {
-      "codepoint": 57444,
+      "codepoint": 57622,
       "fontFamily": "MaterialIconTheme",
       "identifier": "nodejs"
     },
+    "nodemon": {
+      "codepoint": 57623,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "nodemon"
+    },
     "nuxt": {
-      "codepoint": 57445,
+      "codepoint": 57624,
       "fontFamily": "MaterialIconTheme",
       "identifier": "nuxt"
     },
+    "nx": {
+      "codepoint": 57625,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "nx"
+    },
     "objective-c": {
-      "codepoint": 57446,
+      "codepoint": 57626,
       "fontFamily": "MaterialIconTheme",
       "identifier": "objectiveC"
     },
     "objective-cpp": {
-      "codepoint": 57447,
+      "codepoint": 57627,
       "fontFamily": "MaterialIconTheme",
       "identifier": "objectiveCpp"
     },
     "odin": {
-      "codepoint": 57448,
+      "codepoint": 57628,
       "fontFamily": "MaterialIconTheme",
       "identifier": "odin"
     },
+    "onnx": {
+      "codepoint": 57629,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "onnx"
+    },
     "otne": {
-      "codepoint": 57449,
+      "codepoint": 57630,
       "fontFamily": "MaterialIconTheme",
       "identifier": "otne"
     },
+    "oxc": {
+      "codepoint": 57631,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "oxc"
+    },
+    "oxlint": {
+      "codepoint": 57632,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "oxlint"
+    },
+    "palette": {
+      "codepoint": 57633,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "palette"
+    },
+    "parcel": {
+      "codepoint": 57634,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "parcel"
+    },
     "pawn": {
-      "codepoint": 57450,
+      "codepoint": 57635,
       "fontFamily": "MaterialIconTheme",
       "identifier": "pawn"
     },
+    "payload": {
+      "codepoint": 57636,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "payload"
+    },
+    "percy": {
+      "codepoint": 57637,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "percy"
+    },
+    "perl": {
+      "codepoint": 57638,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "perl"
+    },
+    "phpunit": {
+      "codepoint": 57639,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "phpunit"
+    },
+    "pipeline": {
+      "codepoint": 57640,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "pipeline"
+    },
+    "posthtml": {
+      "codepoint": 57641,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "posthtml"
+    },
     "powerpoint": {
-      "codepoint": 57451,
+      "codepoint": 57642,
       "fontFamily": "MaterialIconTheme",
       "identifier": "powerpoint"
     },
+    "powershell": {
+      "codepoint": 57643,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "powershell"
+    },
+    "prisma": {
+      "codepoint": 57644,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "prisma"
+    },
     "puppet": {
-      "codepoint": 57452,
+      "codepoint": 57645,
       "fontFamily": "MaterialIconTheme",
       "identifier": "puppet"
     },
+    "puppeteer": {
+      "codepoint": 57646,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "puppeteer"
+    },
     "purescript": {
-      "codepoint": 57453,
+      "codepoint": 57647,
       "fontFamily": "MaterialIconTheme",
       "identifier": "purescript"
     },
+    "qsharp": {
+      "codepoint": 57648,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "qsharp"
+    },
     "quokka": {
-      "codepoint": 57454,
+      "codepoint": 57649,
       "fontFamily": "MaterialIconTheme",
       "identifier": "quokka"
     },
     "raml": {
-      "codepoint": 57455,
+      "codepoint": 57650,
       "fontFamily": "MaterialIconTheme",
       "identifier": "raml"
     },
     "razor": {
-      "codepoint": 57456,
+      "codepoint": 57651,
       "fontFamily": "MaterialIconTheme",
       "identifier": "razor"
     },
+    "react": {
+      "codepoint": 57652,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "react"
+    },
     "readme": {
-      "codepoint": 57457,
+      "codepoint": 57653,
       "fontFamily": "MaterialIconTheme",
       "identifier": "readme"
     },
+    "redux-action": {
+      "codepoint": 57654,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "reduxAction"
+    },
+    "redux-store": {
+      "codepoint": 57655,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "reduxStore"
+    },
+    "regedit": {
+      "codepoint": 57656,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "regedit"
+    },
     "remix": {
-      "codepoint": 57458,
+      "codepoint": 57657,
       "fontFamily": "MaterialIconTheme",
       "identifier": "remix"
     },
     "replit": {
-      "codepoint": 57459,
+      "codepoint": 57658,
       "fontFamily": "MaterialIconTheme",
       "identifier": "replit"
     },
     "roadmap": {
-      "codepoint": 57460,
+      "codepoint": 57659,
       "fontFamily": "MaterialIconTheme",
       "identifier": "roadmap"
     },
     "roblox": {
-      "codepoint": 57461,
+      "codepoint": 57660,
       "fontFamily": "MaterialIconTheme",
       "identifier": "roblox"
     },
+    "robot": {
+      "codepoint": 57661,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "robot"
+    },
     "routing": {
-      "codepoint": 57462,
+      "codepoint": 57662,
       "fontFamily": "MaterialIconTheme",
       "identifier": "routing"
     },
+    "rstack": {
+      "codepoint": 57663,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "rstack"
+    },
     "ruff": {
-      "codepoint": 57463,
+      "codepoint": 57664,
       "fontFamily": "MaterialIconTheme",
       "identifier": "ruff"
     },
+    "salesforce": {
+      "codepoint": 57665,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "salesforce"
+    },
     "salt": {
-      "codepoint": 57464,
+      "codepoint": 57666,
       "fontFamily": "MaterialIconTheme",
       "identifier": "salt"
     },
     "sbt": {
-      "codepoint": 57465,
+      "codepoint": 57667,
       "fontFamily": "MaterialIconTheme",
       "identifier": "sbt"
     },
     "search": {
-      "codepoint": 57466,
+      "codepoint": 57668,
       "fontFamily": "MaterialIconTheme",
       "identifier": "search"
     },
     "semantic-release": {
-      "codepoint": 57467,
+      "codepoint": 57669,
       "fontFamily": "MaterialIconTheme",
       "identifier": "semanticRelease"
     },
     "semantic-release-light": {
-      "codepoint": 57468,
+      "codepoint": 57670,
       "fontFamily": "MaterialIconTheme",
       "identifier": "semanticReleaseLight"
     },
+    "semgrep": {
+      "codepoint": 57671,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "semgrep"
+    },
     "settings": {
-      "codepoint": 57469,
+      "codepoint": 57672,
       "fontFamily": "MaterialIconTheme",
       "identifier": "settings"
     },
     "shader": {
-      "codepoint": 57470,
+      "codepoint": 57673,
       "fontFamily": "MaterialIconTheme",
       "identifier": "shader"
     },
+    "sketch": {
+      "codepoint": 57674,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "sketch"
+    },
     "skill": {
-      "codepoint": 57471,
+      "codepoint": 57675,
       "fontFamily": "MaterialIconTheme",
       "identifier": "skill"
     },
     "slim": {
-      "codepoint": 57472,
+      "codepoint": 57676,
       "fontFamily": "MaterialIconTheme",
       "identifier": "slim"
     },
     "smarty": {
-      "codepoint": 57473,
+      "codepoint": 57677,
       "fontFamily": "MaterialIconTheme",
       "identifier": "smarty"
     },
     "snowpack": {
-      "codepoint": 57474,
+      "codepoint": 57678,
       "fontFamily": "MaterialIconTheme",
       "identifier": "snowpack"
     },
     "snowpack-light": {
-      "codepoint": 57475,
+      "codepoint": 57679,
       "fontFamily": "MaterialIconTheme",
       "identifier": "snowpackLight"
     },
+    "sonarcloud": {
+      "codepoint": 57680,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "sonarcloud"
+    },
+    "spwn": {
+      "codepoint": 57681,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "spwn",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
+    },
+    "stitches": {
+      "codepoint": 57682,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "stitches"
+    },
+    "stylelint": {
+      "codepoint": 57683,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "stylelint",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
+    },
     "stylus": {
-      "codepoint": 57476,
+      "codepoint": 57684,
       "fontFamily": "MaterialIconTheme",
       "identifier": "stylus"
     },
+    "sublime": {
+      "codepoint": 57685,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "sublime"
+    },
+    "supabase": {
+      "codepoint": 57686,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "supabase"
+    },
+    "svgo": {
+      "codepoint": 57687,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "svgo"
+    },
     "swagger": {
-      "codepoint": 57477,
+      "codepoint": 57688,
       "fontFamily": "MaterialIconTheme",
       "identifier": "swagger"
     },
     "systemd": {
-      "codepoint": 57478,
+      "codepoint": 57689,
       "fontFamily": "MaterialIconTheme",
       "identifier": "systemd"
     },
     "table": {
-      "codepoint": 57479,
+      "codepoint": 57690,
       "fontFamily": "MaterialIconTheme",
       "identifier": "table"
     },
     "tailwindcss": {
-      "codepoint": 57480,
+      "codepoint": 57691,
       "fontFamily": "MaterialIconTheme",
       "identifier": "tailwindcss"
     },
     "taskfile": {
-      "codepoint": 57481,
+      "codepoint": 57692,
       "fontFamily": "MaterialIconTheme",
       "identifier": "taskfile"
     },
     "tauri": {
-      "codepoint": 57482,
+      "codepoint": 57693,
       "fontFamily": "MaterialIconTheme",
       "identifier": "tauri"
     },
     "teal": {
-      "codepoint": 57483,
+      "codepoint": 57694,
       "fontFamily": "MaterialIconTheme",
       "identifier": "teal"
     },
     "templ": {
-      "codepoint": 57484,
+      "codepoint": 57695,
       "fontFamily": "MaterialIconTheme",
       "identifier": "templ"
     },
     "template": {
-      "codepoint": 57485,
+      "codepoint": 57696,
       "fontFamily": "MaterialIconTheme",
       "identifier": "template"
     },
     "terraform": {
-      "codepoint": 57486,
+      "codepoint": 57697,
       "fontFamily": "MaterialIconTheme",
       "identifier": "terraform"
     },
+    "test-js": {
+      "codepoint": 57698,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "testJs"
+    },
+    "test-jsx": {
+      "codepoint": 57699,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "testJsx"
+    },
     "tex": {
-      "codepoint": 57487,
+      "codepoint": 57700,
       "fontFamily": "MaterialIconTheme",
       "identifier": "tex"
     },
+    "tilt": {
+      "codepoint": 57701,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "tilt"
+    },
+    "tldraw": {
+      "codepoint": 57702,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "tldraw"
+    },
     "trigger": {
-      "codepoint": 57488,
+      "codepoint": 57703,
       "fontFamily": "MaterialIconTheme",
       "identifier": "trigger"
     },
+    "tsdoc": {
+      "codepoint": 57704,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "tsdoc"
+    },
     "tune": {
-      "codepoint": 57489,
+      "codepoint": 57705,
       "fontFamily": "MaterialIconTheme",
       "identifier": "tune"
     },
+    "twig": {
+      "codepoint": 57706,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "twig"
+    },
     "typst": {
-      "codepoint": 57490,
+      "codepoint": 57707,
       "fontFamily": "MaterialIconTheme",
       "identifier": "typst"
     },
     "uiua": {
-      "codepoint": 57491,
+      "codepoint": 57708,
       "fontFamily": "MaterialIconTheme",
       "identifier": "uiua"
     },
     "unity": {
-      "codepoint": 57492,
+      "codepoint": 57709,
       "fontFamily": "MaterialIconTheme",
       "identifier": "unity"
     },
+    "url": {
+      "codepoint": 57710,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "url"
+    },
     "uv": {
-      "codepoint": 57493,
+      "codepoint": 57711,
       "fontFamily": "MaterialIconTheme",
       "identifier": "uv"
     },
+    "velite": {
+      "codepoint": 57712,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "velite"
+    },
     "velocity": {
-      "codepoint": 57494,
+      "codepoint": 57713,
       "fontFamily": "MaterialIconTheme",
       "identifier": "velocity"
     },
     "vercel": {
-      "codepoint": 57495,
+      "codepoint": 57714,
       "fontFamily": "MaterialIconTheme",
       "identifier": "vercel"
     },
     "verified": {
-      "codepoint": 57496,
+      "codepoint": 57715,
       "fontFamily": "MaterialIconTheme",
       "identifier": "verified"
     },
     "verse": {
-      "codepoint": 57497,
+      "codepoint": 57716,
       "fontFamily": "MaterialIconTheme",
       "identifier": "verse"
     },
     "vim": {
-      "codepoint": 57498,
+      "codepoint": 57717,
       "fontFamily": "MaterialIconTheme",
       "identifier": "vim"
     },
     "virtual": {
-      "codepoint": 57499,
+      "codepoint": 57718,
       "fontFamily": "MaterialIconTheme",
       "identifier": "virtual"
     },
     "visualstudio": {
-      "codepoint": 57500,
+      "codepoint": 57719,
       "fontFamily": "MaterialIconTheme",
       "identifier": "visualstudio"
     },
+    "vite": {
+      "codepoint": 57720,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "vite"
+    },
+    "vitest": {
+      "codepoint": 57721,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "vitest"
+    },
     "wakatime": {
-      "codepoint": 57501,
+      "codepoint": 57722,
       "fontFamily": "MaterialIconTheme",
       "identifier": "wakatime"
     },
     "wakatime-light": {
-      "codepoint": 57502,
+      "codepoint": 57723,
       "fontFamily": "MaterialIconTheme",
       "identifier": "wakatimeLight"
     },
     "wallaby": {
-      "codepoint": 57503,
+      "codepoint": 57724,
       "fontFamily": "MaterialIconTheme",
       "identifier": "wallaby"
     },
+    "warp": {
+      "codepoint": 57725,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "warp"
+    },
     "watchman": {
-      "codepoint": 57504,
+      "codepoint": 57726,
       "fontFamily": "MaterialIconTheme",
       "identifier": "watchman"
     },
     "webassembly": {
-      "codepoint": 57505,
+      "codepoint": 57727,
       "fontFamily": "MaterialIconTheme",
       "identifier": "webassembly"
     },
     "wepy": {
-      "codepoint": 57506,
+      "codepoint": 57728,
       "fontFamily": "MaterialIconTheme",
       "identifier": "wepy"
     },
     "windicss": {
-      "codepoint": 57507,
+      "codepoint": 57729,
       "fontFamily": "MaterialIconTheme",
       "identifier": "windicss"
     },
     "wrangler": {
-      "codepoint": 57508,
+      "codepoint": 57730,
       "fontFamily": "MaterialIconTheme",
       "identifier": "wrangler"
     },
     "xaml": {
-      "codepoint": 57509,
+      "codepoint": 57731,
       "fontFamily": "MaterialIconTheme",
       "identifier": "xaml"
     },
     "xml": {
-      "codepoint": 57510,
+      "codepoint": 57732,
       "fontFamily": "MaterialIconTheme",
       "identifier": "xml"
     },
     "yang": {
-      "codepoint": 57511,
+      "codepoint": 57733,
       "fontFamily": "MaterialIconTheme",
       "identifier": "yang"
     },
     "zip": {
-      "codepoint": 57512,
+      "codepoint": 57734,
       "fontFamily": "MaterialIconTheme",
       "identifier": "zip"
     }

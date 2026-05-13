@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/familyjs/famicons/blob/main/LICENSE',
-  iconCount: 1342,
+  iconCount: 1339,
 );

@@ -16,13 +16,13 @@
       "spdx": "CC0-1.0",
       "url": "https://creativecommons.org/publicdomain/zero/1.0/"
     },
-    "total": 274
+    "total": 555
   },
   "fonts": [
     {
       "family": "Temaki",
-      "nextCodepoint": 57618,
-      "iconCount": 274
+      "nextCodepoint": 57899,
+      "iconCount": 555
     }
   ],
   "icons": {
@@ -31,1368 +31,2773 @@
       "fontFamily": "Temaki",
       "identifier": "abseiling"
     },
-    "accounting": {
+    "accessible-space": {
       "codepoint": 57345,
+      "fontFamily": "Temaki",
+      "identifier": "accessibleSpace"
+    },
+    "accounting": {
+      "codepoint": 57346,
       "fontFamily": "Temaki",
       "identifier": "accounting"
     },
+    "activity-panel": {
+      "codepoint": 57347,
+      "fontFamily": "Temaki",
+      "identifier": "activityPanel"
+    },
+    "adit-profile": {
+      "codepoint": 57348,
+      "fontFamily": "Temaki",
+      "identifier": "aditProfile"
+    },
     "aerialway-pole": {
-      "codepoint": 57346,
+      "codepoint": 57349,
       "fontFamily": "Temaki",
       "identifier": "aerialwayPole"
     },
+    "airport": {
+      "codepoint": 57350,
+      "fontFamily": "Temaki",
+      "identifier": "airport"
+    },
     "amusement-park": {
-      "codepoint": 57347,
+      "codepoint": 57351,
       "fontFamily": "Temaki",
       "identifier": "amusementPark"
     },
+    "anchor-medal": {
+      "codepoint": 57352,
+      "fontFamily": "Temaki",
+      "identifier": "anchorMedal"
+    },
+    "antenna": {
+      "codepoint": 57353,
+      "fontFamily": "Temaki",
+      "identifier": "antenna"
+    },
     "anvil": {
-      "codepoint": 57348,
+      "codepoint": 57354,
       "fontFamily": "Temaki",
       "identifier": "anvil"
     },
     "anvil-and-hammer": {
-      "codepoint": 57349,
+      "codepoint": 57355,
       "fontFamily": "Temaki",
       "identifier": "anvilAndHammer"
     },
     "app-terminal": {
-      "codepoint": 57350,
+      "codepoint": 57356,
       "fontFamily": "Temaki",
       "identifier": "appTerminal"
     },
     "archery": {
-      "codepoint": 57351,
+      "codepoint": 57357,
       "fontFamily": "Temaki",
       "identifier": "archery"
     },
+    "army-tent": {
+      "codepoint": 57358,
+      "fontFamily": "Temaki",
+      "identifier": "armyTent"
+    },
     "asterisk": {
-      "codepoint": 57352,
+      "codepoint": 57359,
       "fontFamily": "Temaki",
       "identifier": "asterisk"
     },
+    "atm": {
+      "codepoint": 57360,
+      "fontFamily": "Temaki",
+      "identifier": "atm"
+    },
     "atm2": {
-      "codepoint": 57353,
+      "codepoint": 57361,
       "fontFamily": "Temaki",
       "identifier": "atm2"
     },
+    "balance-beam": {
+      "codepoint": 57362,
+      "fontFamily": "Temaki",
+      "identifier": "balanceBeam"
+    },
     "balloon": {
-      "codepoint": 57354,
+      "codepoint": 57363,
       "fontFamily": "Temaki",
       "identifier": "balloon"
     },
     "barn": {
-      "codepoint": 57355,
+      "codepoint": 57364,
       "fontFamily": "Temaki",
       "identifier": "barn"
     },
+    "basketswing": {
+      "codepoint": 57365,
+      "fontFamily": "Temaki",
+      "identifier": "basketswing"
+    },
     "beach": {
-      "codepoint": 57356,
+      "codepoint": 57366,
       "fontFamily": "Temaki",
       "identifier": "beach"
     },
+    "beauty-salon": {
+      "codepoint": 57367,
+      "fontFamily": "Temaki",
+      "identifier": "beautySalon"
+    },
     "bench": {
-      "codepoint": 57357,
+      "codepoint": 57368,
       "fontFamily": "Temaki",
       "identifier": "bench"
     },
+    "benchmark-disk": {
+      "codepoint": 57369,
+      "fontFamily": "Temaki",
+      "identifier": "benchmarkDisk"
+    },
+    "bicycle-box": {
+      "codepoint": 57370,
+      "fontFamily": "Temaki",
+      "identifier": "bicycleBox"
+    },
+    "bicycle-locker": {
+      "codepoint": 57371,
+      "fontFamily": "Temaki",
+      "identifier": "bicycleLocker"
+    },
+    "bicycle-parked": {
+      "codepoint": 57372,
+      "fontFamily": "Temaki",
+      "identifier": "bicycleParked"
+    },
+    "bicycle-rental": {
+      "codepoint": 57373,
+      "fontFamily": "Temaki",
+      "identifier": "bicycleRental"
+    },
+    "bicycle-repair": {
+      "codepoint": 57374,
+      "fontFamily": "Temaki",
+      "identifier": "bicycleRepair"
+    },
+    "bicycle-shed": {
+      "codepoint": 57375,
+      "fontFamily": "Temaki",
+      "identifier": "bicycleShed"
+    },
     "bicycle-structure": {
-      "codepoint": 57358,
+      "codepoint": 57376,
       "fontFamily": "Temaki",
       "identifier": "bicycleStructure"
     },
+    "bicycle-wash": {
+      "codepoint": 57377,
+      "fontFamily": "Temaki",
+      "identifier": "bicycleWash"
+    },
+    "bikini": {
+      "codepoint": 57378,
+      "fontFamily": "Temaki",
+      "identifier": "bikini"
+    },
     "billboard": {
-      "codepoint": 57359,
+      "codepoint": 57379,
       "fontFamily": "Temaki",
       "identifier": "billboard"
     },
     "binoculars": {
-      "codepoint": 57360,
+      "codepoint": 57380,
       "fontFamily": "Temaki",
       "identifier": "binoculars"
     },
+    "bleachers": {
+      "codepoint": 57381,
+      "fontFamily": "Temaki",
+      "identifier": "bleachers"
+    },
     "blind": {
-      "codepoint": 57361,
+      "codepoint": 57382,
       "fontFamily": "Temaki",
       "identifier": "blind"
     },
+    "board-bus": {
+      "codepoint": 57383,
+      "fontFamily": "Temaki",
+      "identifier": "boardBus"
+    },
+    "board-ferry": {
+      "codepoint": 57384,
+      "fontFamily": "Temaki",
+      "identifier": "boardFerry"
+    },
+    "board-gondola-lift": {
+      "codepoint": 57385,
+      "fontFamily": "Temaki",
+      "identifier": "boardGondolaLift"
+    },
+    "board-hanging-rail": {
+      "codepoint": 57386,
+      "fontFamily": "Temaki",
+      "identifier": "boardHangingRail"
+    },
+    "board-heavy-rail": {
+      "codepoint": 57387,
+      "fontFamily": "Temaki",
+      "identifier": "boardHeavyRail"
+    },
+    "board-light-rail": {
+      "codepoint": 57388,
+      "fontFamily": "Temaki",
+      "identifier": "boardLightRail"
+    },
+    "board-monorail": {
+      "codepoint": 57389,
+      "fontFamily": "Temaki",
+      "identifier": "boardMonorail"
+    },
+    "board-school-bus": {
+      "codepoint": 57390,
+      "fontFamily": "Temaki",
+      "identifier": "boardSchoolBus"
+    },
+    "board-subway": {
+      "codepoint": 57391,
+      "fontFamily": "Temaki",
+      "identifier": "boardSubway"
+    },
+    "board-train": {
+      "codepoint": 57392,
+      "fontFamily": "Temaki",
+      "identifier": "boardTrain"
+    },
+    "board-train-bullet": {
+      "codepoint": 57393,
+      "fontFamily": "Temaki",
+      "identifier": "boardTrainBullet"
+    },
+    "board-train-diesel": {
+      "codepoint": 57394,
+      "fontFamily": "Temaki",
+      "identifier": "boardTrainDiesel"
+    },
+    "board-train-kids": {
+      "codepoint": 57395,
+      "fontFamily": "Temaki",
+      "identifier": "boardTrainKids"
+    },
+    "board-train-steam": {
+      "codepoint": 57396,
+      "fontFamily": "Temaki",
+      "identifier": "boardTrainSteam"
+    },
+    "board-tram": {
+      "codepoint": 57397,
+      "fontFamily": "Temaki",
+      "identifier": "boardTram"
+    },
+    "board-transit": {
+      "codepoint": 57398,
+      "fontFamily": "Temaki",
+      "identifier": "boardTransit"
+    },
+    "board-trolleybus": {
+      "codepoint": 57399,
+      "fontFamily": "Temaki",
+      "identifier": "boardTrolleybus"
+    },
     "boat": {
-      "codepoint": 57362,
+      "codepoint": 57400,
       "fontFamily": "Temaki",
       "identifier": "boat"
     },
     "boat-dry-dock": {
-      "codepoint": 57363,
+      "codepoint": 57401,
       "fontFamily": "Temaki",
       "identifier": "boatDryDock"
     },
+    "boat-floating": {
+      "codepoint": 57402,
+      "fontFamily": "Temaki",
+      "identifier": "boatFloating"
+    },
     "boat-ramp": {
-      "codepoint": 57364,
+      "codepoint": 57403,
       "fontFamily": "Temaki",
       "identifier": "boatRamp"
     },
+    "boat-rental": {
+      "codepoint": 57404,
+      "fontFamily": "Temaki",
+      "identifier": "boatRental"
+    },
+    "boat-repair": {
+      "codepoint": 57405,
+      "fontFamily": "Temaki",
+      "identifier": "boatRepair"
+    },
     "boat-tour": {
-      "codepoint": 57365,
+      "codepoint": 57406,
       "fontFamily": "Temaki",
       "identifier": "boatTour"
     },
     "boating": {
-      "codepoint": 57366,
+      "codepoint": 57407,
       "fontFamily": "Temaki",
       "identifier": "boating"
     },
     "bollard": {
-      "codepoint": 57367,
+      "codepoint": 57408,
       "fontFamily": "Temaki",
       "identifier": "bollard"
     },
     "bollard-row": {
-      "codepoint": 57368,
+      "codepoint": 57409,
       "fontFamily": "Temaki",
       "identifier": "bollardRow"
     },
     "book-store": {
-      "codepoint": 57369,
+      "codepoint": 57410,
       "fontFamily": "Temaki",
       "identifier": "bookStore"
     },
+    "bottles": {
+      "codepoint": 57411,
+      "fontFamily": "Temaki",
+      "identifier": "bottles"
+    },
     "boulder1": {
-      "codepoint": 57370,
+      "codepoint": 57412,
       "fontFamily": "Temaki",
       "identifier": "boulder1"
     },
+    "boulder2": {
+      "codepoint": 57413,
+      "fontFamily": "Temaki",
+      "identifier": "boulder2"
+    },
+    "boulder3": {
+      "codepoint": 57414,
+      "fontFamily": "Temaki",
+      "identifier": "boulder3"
+    },
+    "bow-and-arrow": {
+      "codepoint": 57415,
+      "fontFamily": "Temaki",
+      "identifier": "bowAndArrow"
+    },
+    "bowling": {
+      "codepoint": 57416,
+      "fontFamily": "Temaki",
+      "identifier": "bowling"
+    },
     "bowling-alt1": {
-      "codepoint": 57371,
+      "codepoint": 57417,
       "fontFamily": "Temaki",
       "identifier": "bowlingAlt1"
     },
     "bread": {
-      "codepoint": 57372,
+      "codepoint": 57418,
       "fontFamily": "Temaki",
       "identifier": "bread"
     },
+    "brick-trowel": {
+      "codepoint": 57419,
+      "fontFamily": "Temaki",
+      "identifier": "brickTrowel"
+    },
     "bridge": {
-      "codepoint": 57373,
+      "codepoint": 57420,
       "fontFamily": "Temaki",
       "identifier": "bridge"
     },
     "briefcase": {
-      "codepoint": 57374,
+      "codepoint": 57421,
       "fontFamily": "Temaki",
       "identifier": "briefcase"
     },
     "briefcase-asterisk": {
-      "codepoint": 57375,
+      "codepoint": 57422,
       "fontFamily": "Temaki",
       "identifier": "briefcaseAsterisk"
     },
     "briefcase-bolt": {
-      "codepoint": 57376,
+      "codepoint": 57423,
       "fontFamily": "Temaki",
       "identifier": "briefcaseBolt"
     },
     "briefcase-cross": {
-      "codepoint": 57377,
+      "codepoint": 57424,
       "fontFamily": "Temaki",
       "identifier": "briefcaseCross"
     },
     "briefcase-info": {
-      "codepoint": 57378,
+      "codepoint": 57425,
       "fontFamily": "Temaki",
       "identifier": "briefcaseInfo"
     },
+    "briefcase-shield": {
+      "codepoint": 57426,
+      "fontFamily": "Temaki",
+      "identifier": "briefcaseShield"
+    },
+    "bubble-tea": {
+      "codepoint": 57427,
+      "fontFamily": "Temaki",
+      "identifier": "bubbleTea"
+    },
+    "buffer-stop": {
+      "codepoint": 57428,
+      "fontFamily": "Temaki",
+      "identifier": "bufferStop"
+    },
+    "bulb": {
+      "codepoint": 57429,
+      "fontFamily": "Temaki",
+      "identifier": "bulb"
+    },
+    "bulb2": {
+      "codepoint": 57430,
+      "fontFamily": "Temaki",
+      "identifier": "bulb2"
+    },
+    "bulb3": {
+      "codepoint": 57431,
+      "fontFamily": "Temaki",
+      "identifier": "bulb3"
+    },
     "bulldozer": {
-      "codepoint": 57379,
+      "codepoint": 57432,
       "fontFamily": "Temaki",
       "identifier": "bulldozer"
     },
+    "bulletin-board": {
+      "codepoint": 57433,
+      "fontFamily": "Temaki",
+      "identifier": "bulletinBoard"
+    },
+    "bunk-beds": {
+      "codepoint": 57434,
+      "fontFamily": "Temaki",
+      "identifier": "bunkBeds"
+    },
     "bunker": {
-      "codepoint": 57380,
+      "codepoint": 57435,
       "fontFamily": "Temaki",
       "identifier": "bunker"
     },
     "bunker-silo": {
-      "codepoint": 57381,
+      "codepoint": 57436,
       "fontFamily": "Temaki",
       "identifier": "bunkerSilo"
     },
+    "buoy": {
+      "codepoint": 57437,
+      "fontFamily": "Temaki",
+      "identifier": "buoy"
+    },
     "bus": {
-      "codepoint": 57382,
+      "codepoint": 57438,
       "fontFamily": "Temaki",
       "identifier": "bus"
     },
     "bus-guided": {
-      "codepoint": 57383,
+      "codepoint": 57439,
       "fontFamily": "Temaki",
       "identifier": "busGuided"
     },
+    "cabin": {
+      "codepoint": 57440,
+      "fontFamily": "Temaki",
+      "identifier": "cabin"
+    },
+    "cable": {
+      "codepoint": 57441,
+      "fontFamily": "Temaki",
+      "identifier": "cable"
+    },
+    "cable-device": {
+      "codepoint": 57442,
+      "fontFamily": "Temaki",
+      "identifier": "cableDevice"
+    },
+    "cable-manhole": {
+      "codepoint": 57443,
+      "fontFamily": "Temaki",
+      "identifier": "cableManhole"
+    },
+    "cable-meter": {
+      "codepoint": 57444,
+      "fontFamily": "Temaki",
+      "identifier": "cableMeter"
+    },
+    "cable-shutoff": {
+      "codepoint": 57445,
+      "fontFamily": "Temaki",
+      "identifier": "cableShutoff"
+    },
+    "cairn": {
+      "codepoint": 57446,
+      "fontFamily": "Temaki",
+      "identifier": "cairn"
+    },
+    "camper-trailer": {
+      "codepoint": 57447,
+      "fontFamily": "Temaki",
+      "identifier": "camperTrailer"
+    },
+    "camper-trailer-dump": {
+      "codepoint": 57448,
+      "fontFamily": "Temaki",
+      "identifier": "camperTrailerDump"
+    },
+    "campfire": {
+      "codepoint": 57449,
+      "fontFamily": "Temaki",
+      "identifier": "campfire"
+    },
     "can": {
-      "codepoint": 57384,
+      "codepoint": 57450,
       "fontFamily": "Temaki",
       "identifier": "can"
     },
     "canoe": {
-      "codepoint": 57385,
+      "codepoint": 57451,
       "fontFamily": "Temaki",
       "identifier": "canoe"
     },
+    "cape-landform": {
+      "codepoint": 57452,
+      "fontFamily": "Temaki",
+      "identifier": "capeLandform"
+    },
     "capitol": {
-      "codepoint": 57386,
+      "codepoint": 57453,
       "fontFamily": "Temaki",
       "identifier": "capitol"
     },
     "car-dealer": {
-      "codepoint": 57387,
+      "codepoint": 57454,
       "fontFamily": "Temaki",
       "identifier": "carDealer"
     },
+    "car-parked": {
+      "codepoint": 57455,
+      "fontFamily": "Temaki",
+      "identifier": "carParked"
+    },
     "car-pool": {
-      "codepoint": 57388,
+      "codepoint": 57456,
       "fontFamily": "Temaki",
       "identifier": "carPool"
     },
+    "car-structure": {
+      "codepoint": 57457,
+      "fontFamily": "Temaki",
+      "identifier": "carStructure"
+    },
     "car-wash": {
-      "codepoint": 57389,
+      "codepoint": 57458,
       "fontFamily": "Temaki",
       "identifier": "carWash"
     },
+    "carport": {
+      "codepoint": 57459,
+      "fontFamily": "Temaki",
+      "identifier": "carport"
+    },
+    "casino": {
+      "codepoint": 57460,
+      "fontFamily": "Temaki",
+      "identifier": "casino"
+    },
+    "catering": {
+      "codepoint": 57461,
+      "fontFamily": "Temaki",
+      "identifier": "catering"
+    },
+    "cattle-grid": {
+      "codepoint": 57462,
+      "fontFamily": "Temaki",
+      "identifier": "cattleGrid"
+    },
     "chairlift": {
-      "codepoint": 57390,
+      "codepoint": 57463,
       "fontFamily": "Temaki",
       "identifier": "chairlift"
     },
     "checkpoint": {
-      "codepoint": 57391,
+      "codepoint": 57464,
       "fontFamily": "Temaki",
       "identifier": "checkpoint"
     },
+    "chefs-knife": {
+      "codepoint": 57465,
+      "fontFamily": "Temaki",
+      "identifier": "chefsKnife"
+    },
     "chicane-arrow": {
-      "codepoint": 57392,
+      "codepoint": 57466,
       "fontFamily": "Temaki",
       "identifier": "chicaneArrow"
     },
     "chimney": {
-      "codepoint": 57393,
+      "codepoint": 57467,
       "fontFamily": "Temaki",
       "identifier": "chimney"
     },
     "chocolate": {
-      "codepoint": 57394,
+      "codepoint": 57468,
       "fontFamily": "Temaki",
       "identifier": "chocolate"
     },
+    "cleaver": {
+      "codepoint": 57469,
+      "fontFamily": "Temaki",
+      "identifier": "cleaver"
+    },
+    "cliff-falling-rocks": {
+      "codepoint": 57470,
+      "fontFamily": "Temaki",
+      "identifier": "cliffFallingRocks"
+    },
     "climbing": {
-      "codepoint": 57395,
+      "codepoint": 57471,
       "fontFamily": "Temaki",
       "identifier": "climbing"
     },
+    "climbing-frame": {
+      "codepoint": 57472,
+      "fontFamily": "Temaki",
+      "identifier": "climbingFrame"
+    },
+    "climbing-wall": {
+      "codepoint": 57473,
+      "fontFamily": "Temaki",
+      "identifier": "climbingWall"
+    },
+    "clock": {
+      "codepoint": 57474,
+      "fontFamily": "Temaki",
+      "identifier": "clock"
+    },
     "cloth": {
-      "codepoint": 57396,
+      "codepoint": 57475,
       "fontFamily": "Temaki",
       "identifier": "cloth"
     },
+    "clothes-hanger": {
+      "codepoint": 57476,
+      "fontFamily": "Temaki",
+      "identifier": "clothesHanger"
+    },
     "coffee": {
-      "codepoint": 57397,
+      "codepoint": 57477,
       "fontFamily": "Temaki",
       "identifier": "coffee"
     },
     "compass": {
-      "codepoint": 57398,
+      "codepoint": 57478,
       "fontFamily": "Temaki",
       "identifier": "compass"
     },
+    "conveyor": {
+      "codepoint": 57479,
+      "fontFamily": "Temaki",
+      "identifier": "conveyor"
+    },
     "cooling-tower": {
-      "codepoint": 57399,
+      "codepoint": 57480,
       "fontFamily": "Temaki",
       "identifier": "coolingTower"
     },
+    "cooling-tower-radiation": {
+      "codepoint": 57481,
+      "fontFamily": "Temaki",
+      "identifier": "coolingTowerRadiation"
+    },
+    "coral-reef": {
+      "codepoint": 57482,
+      "fontFamily": "Temaki",
+      "identifier": "coralReef"
+    },
+    "courthouse": {
+      "codepoint": 57483,
+      "fontFamily": "Temaki",
+      "identifier": "courthouse"
+    },
     "crane": {
-      "codepoint": 57400,
+      "codepoint": 57484,
       "fontFamily": "Temaki",
       "identifier": "crane"
     },
     "cross-country-skiing": {
-      "codepoint": 57401,
+      "codepoint": 57485,
       "fontFamily": "Temaki",
       "identifier": "crossCountrySkiing"
     },
     "crossing-markings-dashes": {
-      "codepoint": 57402,
+      "codepoint": 57486,
       "fontFamily": "Temaki",
       "identifier": "crossingMarkingsDashes"
     },
     "crossing-markings-dots": {
-      "codepoint": 57403,
+      "codepoint": 57487,
       "fontFamily": "Temaki",
       "identifier": "crossingMarkingsDots"
     },
     "crossing-markings-ladder": {
-      "codepoint": 57404,
+      "codepoint": 57488,
       "fontFamily": "Temaki",
       "identifier": "crossingMarkingsLadder"
     },
     "crossing-markings-ladder-paired": {
-      "codepoint": 57405,
+      "codepoint": 57489,
       "fontFamily": "Temaki",
       "identifier": "crossingMarkingsLadderPaired"
     },
     "crossing-markings-ladder-skewed": {
-      "codepoint": 57406,
+      "codepoint": 57490,
       "fontFamily": "Temaki",
       "identifier": "crossingMarkingsLadderSkewed"
     },
     "crossing-markings-lines": {
-      "codepoint": 57407,
+      "codepoint": 57491,
       "fontFamily": "Temaki",
       "identifier": "crossingMarkingsLines"
     },
     "crossing-markings-lines-paired": {
-      "codepoint": 57408,
+      "codepoint": 57492,
       "fontFamily": "Temaki",
       "identifier": "crossingMarkingsLinesPaired"
     },
     "crossing-markings-surface": {
-      "codepoint": 57409,
+      "codepoint": 57493,
       "fontFamily": "Temaki",
       "identifier": "crossingMarkingsSurface"
     },
     "crossing-markings-zebra": {
-      "codepoint": 57410,
+      "codepoint": 57494,
       "fontFamily": "Temaki",
       "identifier": "crossingMarkingsZebra"
     },
     "crossing-markings-zebra-bicolour": {
-      "codepoint": 57411,
+      "codepoint": 57495,
       "fontFamily": "Temaki",
       "identifier": "crossingMarkingsZebraBicolour"
     },
     "crossing-markings-zebra-double": {
-      "codepoint": 57412,
+      "codepoint": 57496,
       "fontFamily": "Temaki",
       "identifier": "crossingMarkingsZebraDouble"
     },
     "crossing-markings-zebra-paired": {
-      "codepoint": 57413,
+      "codepoint": 57497,
       "fontFamily": "Temaki",
       "identifier": "crossingMarkingsZebraPaired"
     },
     "crossing-rail-rail": {
-      "codepoint": 57414,
+      "codepoint": 57498,
       "fontFamily": "Temaki",
       "identifier": "crossingRailRail"
     },
     "crossing-rail-road": {
-      "codepoint": 57415,
+      "codepoint": 57499,
       "fontFamily": "Temaki",
       "identifier": "crossingRailRoad"
     },
     "crossing-rail-solid": {
-      "codepoint": 57416,
+      "codepoint": 57500,
       "fontFamily": "Temaki",
       "identifier": "crossingRailSolid"
     },
+    "crossing-rail-striped": {
+      "codepoint": 57501,
+      "fontFamily": "Temaki",
+      "identifier": "crossingRailStriped"
+    },
     "crossing-tram-road": {
-      "codepoint": 57417,
+      "codepoint": 57502,
       "fontFamily": "Temaki",
       "identifier": "crossingTramRoad"
     },
     "crossing-tram-solid": {
-      "codepoint": 57418,
+      "codepoint": 57503,
       "fontFamily": "Temaki",
       "identifier": "crossingTramSolid"
     },
     "crossing-tram-striped": {
-      "codepoint": 57419,
+      "codepoint": 57504,
       "fontFamily": "Temaki",
       "identifier": "crossingTramStriped"
     },
+    "curtains": {
+      "codepoint": 57505,
+      "fontFamily": "Temaki",
+      "identifier": "curtains"
+    },
+    "cushion": {
+      "codepoint": 57506,
+      "fontFamily": "Temaki",
+      "identifier": "cushion"
+    },
     "cycle-barrier": {
-      "codepoint": 57420,
+      "codepoint": 57507,
       "fontFamily": "Temaki",
       "identifier": "cycleBarrier"
     },
+    "cyclist-crosswalk": {
+      "codepoint": 57508,
+      "fontFamily": "Temaki",
+      "identifier": "cyclistCrosswalk"
+    },
+    "dagger": {
+      "codepoint": 57509,
+      "fontFamily": "Temaki",
+      "identifier": "dagger"
+    },
     "desk-lamp": {
-      "codepoint": 57421,
+      "codepoint": 57510,
       "fontFamily": "Temaki",
       "identifier": "deskLamp"
     },
     "detergent-bottle": {
-      "codepoint": 57422,
+      "codepoint": 57511,
       "fontFamily": "Temaki",
       "identifier": "detergentBottle"
     },
     "diamond": {
-      "codepoint": 57423,
+      "codepoint": 57512,
       "fontFamily": "Temaki",
       "identifier": "diamond"
     },
+    "dice": {
+      "codepoint": 57513,
+      "fontFamily": "Temaki",
+      "identifier": "dice"
+    },
     "disc-golf-basket": {
-      "codepoint": 57424,
+      "codepoint": 57514,
       "fontFamily": "Temaki",
       "identifier": "discGolfBasket"
     },
     "diving": {
-      "codepoint": 57425,
+      "codepoint": 57515,
       "fontFamily": "Temaki",
       "identifier": "diving"
     },
+    "dog-shelter": {
+      "codepoint": 57516,
+      "fontFamily": "Temaki",
+      "identifier": "dogShelter"
+    },
+    "domed-tower": {
+      "codepoint": 57517,
+      "fontFamily": "Temaki",
+      "identifier": "domedTower"
+    },
+    "donut": {
+      "codepoint": 57518,
+      "fontFamily": "Temaki",
+      "identifier": "donut"
+    },
+    "drag-lift": {
+      "codepoint": 57519,
+      "fontFamily": "Temaki",
+      "identifier": "dragLift"
+    },
+    "dress": {
+      "codepoint": 57520,
+      "fontFamily": "Temaki",
+      "identifier": "dress"
+    },
     "drink-cup": {
-      "codepoint": 57426,
+      "codepoint": 57521,
       "fontFamily": "Temaki",
       "identifier": "drinkCup"
     },
     "ear": {
-      "codepoint": 57427,
+      "codepoint": 57522,
       "fontFamily": "Temaki",
       "identifier": "ear"
     },
     "egg": {
-      "codepoint": 57428,
+      "codepoint": 57523,
       "fontFamily": "Temaki",
       "identifier": "egg"
     },
     "electronic": {
-      "codepoint": 57429,
+      "codepoint": 57524,
       "fontFamily": "Temaki",
       "identifier": "electronic"
     },
     "elevator": {
-      "codepoint": 57430,
+      "codepoint": 57525,
       "fontFamily": "Temaki",
       "identifier": "elevator"
     },
     "embassy": {
-      "codepoint": 57431,
+      "codepoint": 57526,
       "fontFamily": "Temaki",
       "identifier": "embassy"
     },
+    "fashion-accessories": {
+      "codepoint": 57527,
+      "fontFamily": "Temaki",
+      "identifier": "fashionAccessories"
+    },
+    "ferry": {
+      "codepoint": 57528,
+      "fontFamily": "Temaki",
+      "identifier": "ferry"
+    },
     "field-hockey": {
-      "codepoint": 57432,
+      "codepoint": 57529,
       "fontFamily": "Temaki",
       "identifier": "fieldHockey"
     },
     "fighter-jet": {
-      "codepoint": 57433,
+      "codepoint": 57530,
       "fontFamily": "Temaki",
       "identifier": "fighterJet"
     },
+    "fire-hydrant": {
+      "codepoint": 57531,
+      "fontFamily": "Temaki",
+      "identifier": "fireHydrant"
+    },
+    "fire-hydrant-underground": {
+      "codepoint": 57532,
+      "fontFamily": "Temaki",
+      "identifier": "fireHydrantUnderground"
+    },
+    "fireplace": {
+      "codepoint": 57533,
+      "fontFamily": "Temaki",
+      "identifier": "fireplace"
+    },
     "fish-cleaning": {
-      "codepoint": 57434,
+      "codepoint": 57534,
       "fontFamily": "Temaki",
       "identifier": "fishCleaning"
     },
+    "fish-ladder": {
+      "codepoint": 57535,
+      "fontFamily": "Temaki",
+      "identifier": "fishLadder"
+    },
     "fishing-pier": {
-      "codepoint": 57435,
+      "codepoint": 57536,
       "fontFamily": "Temaki",
       "identifier": "fishingPier"
     },
     "florist": {
-      "codepoint": 57436,
+      "codepoint": 57537,
       "fontFamily": "Temaki",
       "identifier": "florist"
     },
     "food": {
-      "codepoint": 57437,
+      "codepoint": 57538,
       "fontFamily": "Temaki",
       "identifier": "food"
     },
+    "fountain": {
+      "codepoint": 57539,
+      "fontFamily": "Temaki",
+      "identifier": "fountain"
+    },
+    "freight-car": {
+      "codepoint": 57540,
+      "fontFamily": "Temaki",
+      "identifier": "freightCar"
+    },
     "furniture": {
-      "codepoint": 57438,
+      "codepoint": 57541,
       "fontFamily": "Temaki",
       "identifier": "furniture"
     },
     "garden-bed": {
-      "codepoint": 57439,
+      "codepoint": 57542,
       "fontFamily": "Temaki",
       "identifier": "gardenBed"
     },
     "gas": {
-      "codepoint": 57440,
+      "codepoint": 57543,
       "fontFamily": "Temaki",
       "identifier": "gas"
     },
     "gas-device": {
-      "codepoint": 57441,
+      "codepoint": 57544,
       "fontFamily": "Temaki",
       "identifier": "gasDevice"
     },
+    "gas-manhole": {
+      "codepoint": 57545,
+      "fontFamily": "Temaki",
+      "identifier": "gasManhole"
+    },
     "gas-meter": {
-      "codepoint": 57442,
+      "codepoint": 57546,
       "fontFamily": "Temaki",
       "identifier": "gasMeter"
     },
+    "gas-shutoff": {
+      "codepoint": 57547,
+      "fontFamily": "Temaki",
+      "identifier": "gasShutoff"
+    },
     "gate": {
-      "codepoint": 57443,
+      "codepoint": 57548,
       "fontFamily": "Temaki",
       "identifier": "gate"
     },
+    "geyser-from-ground": {
+      "codepoint": 57549,
+      "fontFamily": "Temaki",
+      "identifier": "geyserFromGround"
+    },
+    "golf-cart": {
+      "codepoint": 57550,
+      "fontFamily": "Temaki",
+      "identifier": "golfCart"
+    },
+    "golf-green": {
+      "codepoint": 57551,
+      "fontFamily": "Temaki",
+      "identifier": "golfGreen"
+    },
+    "gondola-lift": {
+      "codepoint": 57552,
+      "fontFamily": "Temaki",
+      "identifier": "gondolaLift"
+    },
+    "goods-lift": {
+      "codepoint": 57553,
+      "fontFamily": "Temaki",
+      "identifier": "goodsLift"
+    },
     "gown": {
-      "codepoint": 57444,
+      "codepoint": 57554,
       "fontFamily": "Temaki",
       "identifier": "gown"
     },
+    "grapes": {
+      "codepoint": 57555,
+      "fontFamily": "Temaki",
+      "identifier": "grapes"
+    },
+    "grass": {
+      "codepoint": 57556,
+      "fontFamily": "Temaki",
+      "identifier": "grass"
+    },
+    "guard-rail": {
+      "codepoint": 57557,
+      "fontFamily": "Temaki",
+      "identifier": "guardRail"
+    },
+    "gym": {
+      "codepoint": 57558,
+      "fontFamily": "Temaki",
+      "identifier": "gym"
+    },
     "hair-care": {
-      "codepoint": 57445,
+      "codepoint": 57559,
       "fontFamily": "Temaki",
       "identifier": "hairCare"
     },
+    "hammer-shoe": {
+      "codepoint": 57560,
+      "fontFamily": "Temaki",
+      "identifier": "hammerShoe"
+    },
     "hand": {
-      "codepoint": 57446,
+      "codepoint": 57561,
       "fontFamily": "Temaki",
       "identifier": "hand"
     },
+    "handbag": {
+      "codepoint": 57562,
+      "fontFamily": "Temaki",
+      "identifier": "handbag"
+    },
     "hang-gliding": {
-      "codepoint": 57447,
+      "codepoint": 57563,
       "fontFamily": "Temaki",
       "identifier": "hangGliding"
     },
     "hangar": {
-      "codepoint": 57448,
+      "codepoint": 57564,
       "fontFamily": "Temaki",
       "identifier": "hangar"
     },
+    "hanging-rail": {
+      "codepoint": 57565,
+      "fontFamily": "Temaki",
+      "identifier": "hangingRail"
+    },
     "hearing-aid": {
-      "codepoint": 57449,
+      "codepoint": 57566,
       "fontFamily": "Temaki",
       "identifier": "hearingAid"
     },
     "heart": {
-      "codepoint": 57450,
+      "codepoint": 57567,
       "fontFamily": "Temaki",
       "identifier": "heart"
     },
     "heavy-rail": {
-      "codepoint": 57451,
+      "codepoint": 57568,
       "fontFamily": "Temaki",
       "identifier": "heavyRail"
     },
+    "hedge": {
+      "codepoint": 57569,
+      "fontFamily": "Temaki",
+      "identifier": "hedge"
+    },
+    "height-restrictor": {
+      "codepoint": 57570,
+      "fontFamily": "Temaki",
+      "identifier": "heightRestrictor"
+    },
+    "hinduism": {
+      "codepoint": 57571,
+      "fontFamily": "Temaki",
+      "identifier": "hinduism"
+    },
+    "horizontal-bar": {
+      "codepoint": 57572,
+      "fontFamily": "Temaki",
+      "identifier": "horizontalBar"
+    },
+    "horn-cleat": {
+      "codepoint": 57573,
+      "fontFamily": "Temaki",
+      "identifier": "hornCleat"
+    },
+    "horse-shelter": {
+      "codepoint": 57574,
+      "fontFamily": "Temaki",
+      "identifier": "horseShelter"
+    },
+    "horseshoe": {
+      "codepoint": 57575,
+      "fontFamily": "Temaki",
+      "identifier": "horseshoe"
+    },
+    "horseshoes": {
+      "codepoint": 57576,
+      "fontFamily": "Temaki",
+      "identifier": "horseshoes"
+    },
     "hot-drink-cup": {
-      "codepoint": 57452,
+      "codepoint": 57577,
       "fontFamily": "Temaki",
       "identifier": "hotDrinkCup"
     },
     "hotpot": {
-      "codepoint": 57453,
+      "codepoint": 57578,
       "fontFamily": "Temaki",
       "identifier": "hotpot"
     },
+    "houseboat": {
+      "codepoint": 57579,
+      "fontFamily": "Temaki",
+      "identifier": "houseboat"
+    },
+    "hunting-blind": {
+      "codepoint": 57580,
+      "fontFamily": "Temaki",
+      "identifier": "huntingBlind"
+    },
     "hut": {
-      "codepoint": 57454,
+      "codepoint": 57581,
       "fontFamily": "Temaki",
       "identifier": "hut"
     },
     "ice-fishing": {
-      "codepoint": 57455,
+      "codepoint": 57582,
       "fontFamily": "Temaki",
       "identifier": "iceFishing"
     },
     "ice-skating": {
-      "codepoint": 57456,
+      "codepoint": 57583,
       "fontFamily": "Temaki",
       "identifier": "iceSkating"
     },
+    "info-board": {
+      "codepoint": 57584,
+      "fontFamily": "Temaki",
+      "identifier": "infoBoard"
+    },
     "inline-skating": {
-      "codepoint": 57457,
+      "codepoint": 57585,
       "fontFamily": "Temaki",
       "identifier": "inlineSkating"
     },
+    "island-trees-building": {
+      "codepoint": 57586,
+      "fontFamily": "Temaki",
+      "identifier": "islandTreesBuilding"
+    },
+    "islet-tree": {
+      "codepoint": 57587,
+      "fontFamily": "Temaki",
+      "identifier": "isletTree"
+    },
+    "j-bar-lift": {
+      "codepoint": 57588,
+      "fontFamily": "Temaki",
+      "identifier": "jBarLift"
+    },
     "jet-skiing": {
-      "codepoint": 57458,
+      "codepoint": 57589,
       "fontFamily": "Temaki",
       "identifier": "jetSkiing"
     },
+    "jetplane-front": {
+      "codepoint": 57590,
+      "fontFamily": "Temaki",
+      "identifier": "jetplaneFront"
+    },
     "jewelry-store": {
-      "codepoint": 57459,
+      "codepoint": 57591,
       "fontFamily": "Temaki",
       "identifier": "jewelryStore"
     },
+    "junction": {
+      "codepoint": 57592,
+      "fontFamily": "Temaki",
+      "identifier": "junction"
+    },
+    "junk-car": {
+      "codepoint": 57593,
+      "fontFamily": "Temaki",
+      "identifier": "junkCar"
+    },
     "kayaking": {
-      "codepoint": 57460,
+      "codepoint": 57594,
       "fontFamily": "Temaki",
       "identifier": "kayaking"
     },
     "kerb-flush": {
-      "codepoint": 57461,
+      "codepoint": 57595,
       "fontFamily": "Temaki",
       "identifier": "kerbFlush"
     },
+    "kerb-lowered": {
+      "codepoint": 57596,
+      "fontFamily": "Temaki",
+      "identifier": "kerbLowered"
+    },
     "kerb-raised": {
-      "codepoint": 57462,
+      "codepoint": 57597,
       "fontFamily": "Temaki",
       "identifier": "kerbRaised"
     },
+    "kerb-rolled": {
+      "codepoint": 57598,
+      "fontFamily": "Temaki",
+      "identifier": "kerbRolled"
+    },
+    "kerb-unspecified": {
+      "codepoint": 57599,
+      "fontFamily": "Temaki",
+      "identifier": "kerbUnspecified"
+    },
     "kitchen-sink": {
-      "codepoint": 57463,
+      "codepoint": 57600,
       "fontFamily": "Temaki",
       "identifier": "kitchenSink"
     },
     "latrine": {
-      "codepoint": 57464,
+      "codepoint": 57601,
       "fontFamily": "Temaki",
       "identifier": "latrine"
     },
     "laundry": {
-      "codepoint": 57465,
+      "codepoint": 57602,
       "fontFamily": "Temaki",
       "identifier": "laundry"
     },
     "lawn": {
-      "codepoint": 57466,
+      "codepoint": 57603,
       "fontFamily": "Temaki",
       "identifier": "lawn"
     },
     "lawyer": {
-      "codepoint": 57467,
+      "codepoint": 57604,
       "fontFamily": "Temaki",
       "identifier": "lawyer"
     },
     "letter-box": {
-      "codepoint": 57468,
+      "codepoint": 57605,
       "fontFamily": "Temaki",
       "identifier": "letterBox"
     },
     "library": {
-      "codepoint": 57469,
+      "codepoint": 57606,
       "fontFamily": "Temaki",
       "identifier": "library_"
     },
+    "lift-gate": {
+      "codepoint": 57607,
+      "fontFamily": "Temaki",
+      "identifier": "liftGate"
+    },
+    "light-rail": {
+      "codepoint": 57608,
+      "fontFamily": "Temaki",
+      "identifier": "lightRail"
+    },
     "lipstick": {
-      "codepoint": 57470,
+      "codepoint": 57609,
       "fontFamily": "Temaki",
       "identifier": "lipstick"
     },
     "lock": {
-      "codepoint": 57471,
+      "codepoint": 57610,
       "fontFamily": "Temaki",
       "identifier": "lock"
     },
+    "lounger": {
+      "codepoint": 57611,
+      "fontFamily": "Temaki",
+      "identifier": "lounger"
+    },
+    "lounging": {
+      "codepoint": 57612,
+      "fontFamily": "Temaki",
+      "identifier": "lounging"
+    },
+    "manhole": {
+      "codepoint": 57613,
+      "fontFamily": "Temaki",
+      "identifier": "manhole"
+    },
     "manufactured-home": {
-      "codepoint": 57472,
+      "codepoint": 57614,
       "fontFamily": "Temaki",
       "identifier": "manufacturedHome"
     },
+    "mast": {
+      "codepoint": 57615,
+      "fontFamily": "Temaki",
+      "identifier": "mast"
+    },
+    "mast-communication": {
+      "codepoint": 57616,
+      "fontFamily": "Temaki",
+      "identifier": "mastCommunication"
+    },
+    "mast-lighting": {
+      "codepoint": 57617,
+      "fontFamily": "Temaki",
+      "identifier": "mastLighting"
+    },
     "maze": {
-      "codepoint": 57473,
+      "codepoint": 57618,
       "fontFamily": "Temaki",
       "identifier": "maze"
     },
+    "meat": {
+      "codepoint": 57619,
+      "fontFamily": "Temaki",
+      "identifier": "meat"
+    },
     "milestone": {
-      "codepoint": 57474,
+      "codepoint": 57620,
       "fontFamily": "Temaki",
       "identifier": "milestone"
     },
     "military": {
-      "codepoint": 57475,
+      "codepoint": 57621,
       "fontFamily": "Temaki",
       "identifier": "military"
     },
+    "military-checkpoint": {
+      "codepoint": 57622,
+      "fontFamily": "Temaki",
+      "identifier": "militaryCheckpoint"
+    },
     "milk-jug": {
-      "codepoint": 57476,
+      "codepoint": 57623,
       "fontFamily": "Temaki",
       "identifier": "milkJug"
     },
     "mineshaft-cage": {
-      "codepoint": 57477,
+      "codepoint": 57624,
       "fontFamily": "Temaki",
       "identifier": "mineshaftCage"
     },
+    "mineshaft-profile": {
+      "codepoint": 57625,
+      "fontFamily": "Temaki",
+      "identifier": "mineshaftProfile"
+    },
+    "money-hand": {
+      "codepoint": 57626,
+      "fontFamily": "Temaki",
+      "identifier": "moneyHand"
+    },
+    "monorail": {
+      "codepoint": 57627,
+      "fontFamily": "Temaki",
+      "identifier": "monorail"
+    },
+    "motorcycle": {
+      "codepoint": 57628,
+      "fontFamily": "Temaki",
+      "identifier": "motorcycle"
+    },
+    "motorcycle-parked": {
+      "codepoint": 57629,
+      "fontFamily": "Temaki",
+      "identifier": "motorcycleParked"
+    },
+    "motorcycle-rental": {
+      "codepoint": 57630,
+      "fontFamily": "Temaki",
+      "identifier": "motorcycleRental"
+    },
+    "motorcycle-repair": {
+      "codepoint": 57631,
+      "fontFamily": "Temaki",
+      "identifier": "motorcycleRepair"
+    },
     "mountain-asterisk": {
-      "codepoint": 57478,
+      "codepoint": 57632,
       "fontFamily": "Temaki",
       "identifier": "mountainAsterisk"
     },
     "mountain-cross": {
-      "codepoint": 57479,
+      "codepoint": 57633,
       "fontFamily": "Temaki",
       "identifier": "mountainCross"
     },
+    "mountain-range": {
+      "codepoint": 57634,
+      "fontFamily": "Temaki",
+      "identifier": "mountainRange"
+    },
     "movie-rental": {
-      "codepoint": 57480,
+      "codepoint": 57635,
       "fontFamily": "Temaki",
       "identifier": "movieRental"
     },
+    "museum": {
+      "codepoint": 57636,
+      "fontFamily": "Temaki",
+      "identifier": "museum"
+    },
     "natural-arch": {
-      "codepoint": 57481,
+      "codepoint": 57637,
       "fontFamily": "Temaki",
       "identifier": "naturalArch"
     },
+    "needle-and-spool": {
+      "codepoint": 57638,
+      "fontFamily": "Temaki",
+      "identifier": "needleAndSpool"
+    },
     "obelisk": {
-      "codepoint": 57482,
+      "codepoint": 57639,
       "fontFamily": "Temaki",
       "identifier": "obelisk"
     },
+    "oil-well": {
+      "codepoint": 57640,
+      "fontFamily": "Temaki",
+      "identifier": "oilWell"
+    },
     "os-benchmark": {
-      "codepoint": 57483,
+      "codepoint": 57641,
       "fontFamily": "Temaki",
       "identifier": "osBenchmark"
     },
     "paifang": {
-      "codepoint": 57484,
+      "codepoint": 57642,
       "fontFamily": "Temaki",
       "identifier": "paifang"
     },
     "parking-space": {
-      "codepoint": 57485,
+      "codepoint": 57643,
       "fontFamily": "Temaki",
       "identifier": "parkingSpace"
     },
     "passport-checkpoint": {
-      "codepoint": 57486,
+      "codepoint": 57644,
       "fontFamily": "Temaki",
       "identifier": "passportCheckpoint"
     },
+    "ped-cyclist-crosswalk": {
+      "codepoint": 57645,
+      "fontFamily": "Temaki",
+      "identifier": "pedCyclistCrosswalk"
+    },
+    "pedestrian": {
+      "codepoint": 57646,
+      "fontFamily": "Temaki",
+      "identifier": "pedestrian"
+    },
+    "pedestrian-and-cyclist": {
+      "codepoint": 57647,
+      "fontFamily": "Temaki",
+      "identifier": "pedestrianAndCyclist"
+    },
+    "pedestrian-crosswalk": {
+      "codepoint": 57648,
+      "fontFamily": "Temaki",
+      "identifier": "pedestrianCrosswalk"
+    },
+    "pedestrian-walled": {
+      "codepoint": 57649,
+      "fontFamily": "Temaki",
+      "identifier": "pedestrianWalled"
+    },
+    "perfume": {
+      "codepoint": 57650,
+      "fontFamily": "Temaki",
+      "identifier": "perfume"
+    },
+    "pet-grooming": {
+      "codepoint": 57651,
+      "fontFamily": "Temaki",
+      "identifier": "petGrooming"
+    },
     "pet-store": {
-      "codepoint": 57487,
+      "codepoint": 57652,
       "fontFamily": "Temaki",
       "identifier": "petStore"
     },
     "pharmacy": {
-      "codepoint": 57488,
+      "codepoint": 57653,
       "fontFamily": "Temaki",
       "identifier": "pharmacy"
     },
     "physiotherapist": {
-      "codepoint": 57489,
+      "codepoint": 57654,
       "fontFamily": "Temaki",
       "identifier": "physiotherapist"
     },
+    "pick-hammer": {
+      "codepoint": 57655,
+      "fontFamily": "Temaki",
+      "identifier": "pickHammer"
+    },
+    "pickleball": {
+      "codepoint": 57656,
+      "fontFamily": "Temaki",
+      "identifier": "pickleball"
+    },
+    "picnic-shelter": {
+      "codepoint": 57657,
+      "fontFamily": "Temaki",
+      "identifier": "picnicShelter"
+    },
+    "pier-fixed": {
+      "codepoint": 57658,
+      "fontFamily": "Temaki",
+      "identifier": "pierFixed"
+    },
+    "pier-floating": {
+      "codepoint": 57659,
+      "fontFamily": "Temaki",
+      "identifier": "pierFloating"
+    },
     "pin": {
-      "codepoint": 57490,
+      "codepoint": 57660,
       "fontFamily": "Temaki",
       "identifier": "pin"
     },
     "pipe": {
-      "codepoint": 57491,
+      "codepoint": 57661,
       "fontFamily": "Temaki",
       "identifier": "pipe"
     },
+    "plane-taxiing": {
+      "codepoint": 57662,
+      "fontFamily": "Temaki",
+      "identifier": "planeTaxiing"
+    },
     "planes": {
-      "codepoint": 57492,
+      "codepoint": 57663,
       "fontFamily": "Temaki",
       "identifier": "planes"
     },
+    "planes-bidirectional": {
+      "codepoint": 57664,
+      "fontFamily": "Temaki",
+      "identifier": "planesBidirectional"
+    },
+    "plant": {
+      "codepoint": 57665,
+      "fontFamily": "Temaki",
+      "identifier": "plant"
+    },
+    "plaque": {
+      "codepoint": 57666,
+      "fontFamily": "Temaki",
+      "identifier": "plaque"
+    },
+    "platter-lift": {
+      "codepoint": 57667,
+      "fontFamily": "Temaki",
+      "identifier": "platterLift"
+    },
+    "play-structure": {
+      "codepoint": 57668,
+      "fontFamily": "Temaki",
+      "identifier": "playStructure"
+    },
+    "playhouse": {
+      "codepoint": 57669,
+      "fontFamily": "Temaki",
+      "identifier": "playhouse"
+    },
     "plumber": {
-      "codepoint": 57493,
+      "codepoint": 57670,
       "fontFamily": "Temaki",
       "identifier": "plumber"
     },
+    "police-checkpoint": {
+      "codepoint": 57671,
+      "fontFamily": "Temaki",
+      "identifier": "policeCheckpoint"
+    },
+    "police-officer": {
+      "codepoint": 57672,
+      "fontFamily": "Temaki",
+      "identifier": "policeOfficer"
+    },
     "polished-nail": {
-      "codepoint": 57494,
+      "codepoint": 57673,
       "fontFamily": "Temaki",
       "identifier": "polishedNail"
     },
+    "portrait": {
+      "codepoint": 57674,
+      "fontFamily": "Temaki",
+      "identifier": "portrait"
+    },
+    "portrait-framed": {
+      "codepoint": 57675,
+      "fontFamily": "Temaki",
+      "identifier": "portraitFramed"
+    },
     "post-box": {
-      "codepoint": 57495,
+      "codepoint": 57676,
       "fontFamily": "Temaki",
       "identifier": "postBox"
     },
     "poster-box": {
-      "codepoint": 57496,
+      "codepoint": 57677,
       "fontFamily": "Temaki",
       "identifier": "posterBox"
     },
     "power": {
-      "codepoint": 57497,
+      "codepoint": 57678,
       "fontFamily": "Temaki",
       "identifier": "power"
     },
     "power-cb": {
-      "codepoint": 57498,
+      "codepoint": 57679,
       "fontFamily": "Temaki",
       "identifier": "powerCb"
     },
     "power-cb2": {
-      "codepoint": 57499,
+      "codepoint": 57680,
       "fontFamily": "Temaki",
       "identifier": "powerCb2"
     },
+    "power-circuit": {
+      "codepoint": 57681,
+      "fontFamily": "Temaki",
+      "identifier": "powerCircuit"
+    },
     "power-ct": {
-      "codepoint": 57500,
+      "codepoint": 57682,
       "fontFamily": "Temaki",
       "identifier": "powerCt"
     },
     "power-device": {
-      "codepoint": 57501,
+      "codepoint": 57683,
       "fontFamily": "Temaki",
       "identifier": "powerDevice"
     },
     "power-isolator": {
-      "codepoint": 57502,
+      "codepoint": 57684,
       "fontFamily": "Temaki",
       "identifier": "powerIsolator"
     },
+    "power-la": {
+      "codepoint": 57685,
+      "fontFamily": "Temaki",
+      "identifier": "powerLa"
+    },
+    "power-manhole": {
+      "codepoint": 57686,
+      "fontFamily": "Temaki",
+      "identifier": "powerManhole"
+    },
     "power-meter": {
-      "codepoint": 57503,
+      "codepoint": 57687,
       "fontFamily": "Temaki",
       "identifier": "powerMeter"
     },
     "power-pole": {
-      "codepoint": 57504,
+      "codepoint": 57688,
       "fontFamily": "Temaki",
       "identifier": "powerPole"
     },
     "power-shutoff": {
-      "codepoint": 57505,
+      "codepoint": 57689,
       "fontFamily": "Temaki",
       "identifier": "powerShutoff"
     },
+    "power-switch": {
+      "codepoint": 57690,
+      "fontFamily": "Temaki",
+      "identifier": "powerSwitch"
+    },
     "power-tower": {
-      "codepoint": 57506,
+      "codepoint": 57691,
       "fontFamily": "Temaki",
       "identifier": "powerTower"
     },
     "power-transformer": {
-      "codepoint": 57507,
+      "codepoint": 57692,
       "fontFamily": "Temaki",
       "identifier": "powerTransformer"
     },
+    "powered-pump": {
+      "codepoint": 57693,
+      "fontFamily": "Temaki",
+      "identifier": "poweredPump"
+    },
     "propane-tank": {
-      "codepoint": 57508,
+      "codepoint": 57694,
       "fontFamily": "Temaki",
       "identifier": "propaneTank"
     },
+    "psychic": {
+      "codepoint": 57695,
+      "fontFamily": "Temaki",
+      "identifier": "psychic"
+    },
     "quakerism": {
-      "codepoint": 57509,
+      "codepoint": 57696,
       "fontFamily": "Temaki",
       "identifier": "quakerism"
     },
     "quay": {
-      "codepoint": 57510,
+      "codepoint": 57697,
       "fontFamily": "Temaki",
       "identifier": "quay"
     },
+    "racetrack-oval": {
+      "codepoint": 57698,
+      "fontFamily": "Temaki",
+      "identifier": "racetrackOval"
+    },
+    "radiation": {
+      "codepoint": 57699,
+      "fontFamily": "Temaki",
+      "identifier": "radiation"
+    },
     "radio": {
-      "codepoint": 57511,
+      "codepoint": 57700,
       "fontFamily": "Temaki",
       "identifier": "radio"
     },
     "rafting": {
-      "codepoint": 57512,
+      "codepoint": 57701,
       "fontFamily": "Temaki",
       "identifier": "rafting"
     },
+    "rail-flag": {
+      "codepoint": 57702,
+      "fontFamily": "Temaki",
+      "identifier": "railFlag"
+    },
+    "rail-profile": {
+      "codepoint": 57703,
+      "fontFamily": "Temaki",
+      "identifier": "railProfile"
+    },
     "railing": {
-      "codepoint": 57513,
+      "codepoint": 57704,
       "fontFamily": "Temaki",
       "identifier": "railing"
     },
     "railway-cable-track": {
-      "codepoint": 57514,
+      "codepoint": 57705,
       "fontFamily": "Temaki",
       "identifier": "railwayCableTrack"
     },
     "railway-signals": {
-      "codepoint": 57515,
+      "codepoint": 57706,
       "fontFamily": "Temaki",
       "identifier": "railwaySignals"
     },
     "railway-track": {
-      "codepoint": 57516,
+      "codepoint": 57707,
       "fontFamily": "Temaki",
       "identifier": "railwayTrack"
     },
+    "railway-track-askew": {
+      "codepoint": 57708,
+      "fontFamily": "Temaki",
+      "identifier": "railwayTrackAskew"
+    },
     "railway-track-mini": {
-      "codepoint": 57517,
+      "codepoint": 57709,
       "fontFamily": "Temaki",
       "identifier": "railwayTrackMini"
     },
     "railway-track-narrow": {
-      "codepoint": 57518,
+      "codepoint": 57710,
       "fontFamily": "Temaki",
       "identifier": "railwayTrackNarrow"
     },
     "railway-track-partial": {
-      "codepoint": 57519,
+      "codepoint": 57711,
       "fontFamily": "Temaki",
       "identifier": "railwayTrackPartial"
     },
     "real-estate-agency": {
-      "codepoint": 57520,
+      "codepoint": 57712,
       "fontFamily": "Temaki",
       "identifier": "realEstateAgency"
     },
+    "rigging": {
+      "codepoint": 57713,
+      "fontFamily": "Temaki",
+      "identifier": "rigging"
+    },
     "rocket-firework": {
-      "codepoint": 57521,
+      "codepoint": 57714,
       "fontFamily": "Temaki",
       "identifier": "rocketFirework"
     },
     "roller-coaster": {
-      "codepoint": 57522,
+      "codepoint": 57715,
       "fontFamily": "Temaki",
       "identifier": "rollerCoaster"
     },
+    "room": {
+      "codepoint": 57716,
+      "fontFamily": "Temaki",
+      "identifier": "room"
+    },
+    "rope-fence": {
+      "codepoint": 57717,
+      "fontFamily": "Temaki",
+      "identifier": "ropeFence"
+    },
     "row-houses": {
-      "codepoint": 57523,
+      "codepoint": 57718,
       "fontFamily": "Temaki",
       "identifier": "rowHouses"
     },
     "ruins": {
-      "codepoint": 57524,
+      "codepoint": 57719,
       "fontFamily": "Temaki",
       "identifier": "ruins"
     },
     "rumble-strip": {
-      "codepoint": 57525,
+      "codepoint": 57720,
       "fontFamily": "Temaki",
       "identifier": "rumbleStrip"
     },
+    "saddle": {
+      "codepoint": 57721,
+      "fontFamily": "Temaki",
+      "identifier": "saddle"
+    },
     "sailboat": {
-      "codepoint": 57526,
+      "codepoint": 57722,
       "fontFamily": "Temaki",
       "identifier": "sailboat"
     },
     "sailing": {
-      "codepoint": 57527,
+      "codepoint": 57723,
       "fontFamily": "Temaki",
       "identifier": "sailing"
     },
+    "sandbox": {
+      "codepoint": 57724,
+      "fontFamily": "Temaki",
+      "identifier": "sandbox"
+    },
+    "sandwich": {
+      "codepoint": 57725,
+      "fontFamily": "Temaki",
+      "identifier": "sandwich"
+    },
+    "scaffold": {
+      "codepoint": 57726,
+      "fontFamily": "Temaki",
+      "identifier": "scaffold"
+    },
     "school": {
-      "codepoint": 57528,
+      "codepoint": 57727,
       "fontFamily": "Temaki",
       "identifier": "school"
     },
+    "school-bus": {
+      "codepoint": 57728,
+      "fontFamily": "Temaki",
+      "identifier": "schoolBus"
+    },
     "scuba-diving": {
-      "codepoint": 57529,
+      "codepoint": 57729,
       "fontFamily": "Temaki",
       "identifier": "scubaDiving"
     },
     "sculpture": {
-      "codepoint": 57530,
+      "codepoint": 57730,
       "fontFamily": "Temaki",
       "identifier": "sculpture"
     },
+    "security-camera": {
+      "codepoint": 57731,
+      "fontFamily": "Temaki",
+      "identifier": "securityCamera"
+    },
+    "seesaw": {
+      "codepoint": 57732,
+      "fontFamily": "Temaki",
+      "identifier": "seesaw"
+    },
+    "shield": {
+      "codepoint": 57733,
+      "fontFamily": "Temaki",
+      "identifier": "shield"
+    },
+    "shinto": {
+      "codepoint": 57734,
+      "fontFamily": "Temaki",
+      "identifier": "shinto"
+    },
     "shopping-mall": {
-      "codepoint": 57531,
+      "codepoint": 57735,
       "fontFamily": "Temaki",
       "identifier": "shoppingMall"
     },
+    "shower": {
+      "codepoint": 57736,
+      "fontFamily": "Temaki",
+      "identifier": "shower"
+    },
+    "shrub": {
+      "codepoint": 57737,
+      "fontFamily": "Temaki",
+      "identifier": "shrub"
+    },
+    "shrub-low": {
+      "codepoint": 57738,
+      "fontFamily": "Temaki",
+      "identifier": "shrubLow"
+    },
+    "shuffleboard": {
+      "codepoint": 57739,
+      "fontFamily": "Temaki",
+      "identifier": "shuffleboard"
+    },
     "sign-and-bench": {
-      "codepoint": 57532,
+      "codepoint": 57740,
       "fontFamily": "Temaki",
       "identifier": "signAndBench"
     },
+    "sign-and-car": {
+      "codepoint": 57741,
+      "fontFamily": "Temaki",
+      "identifier": "signAndCar"
+    },
+    "sign-and-pedestrian": {
+      "codepoint": 57742,
+      "fontFamily": "Temaki",
+      "identifier": "signAndPedestrian"
+    },
+    "sikhism": {
+      "codepoint": 57743,
+      "fontFamily": "Temaki",
+      "identifier": "sikhism"
+    },
     "silo": {
-      "codepoint": 57533,
+      "codepoint": 57744,
       "fontFamily": "Temaki",
       "identifier": "silo"
     },
     "skateboarding": {
-      "codepoint": 57534,
+      "codepoint": 57745,
       "fontFamily": "Temaki",
       "identifier": "skateboarding"
     },
     "ski-jumping": {
-      "codepoint": 57535,
+      "codepoint": 57746,
       "fontFamily": "Temaki",
       "identifier": "skiJumping"
     },
     "skiing": {
-      "codepoint": 57536,
+      "codepoint": 57747,
       "fontFamily": "Temaki",
       "identifier": "skiing"
     },
     "sledding": {
-      "codepoint": 57537,
+      "codepoint": 57748,
       "fontFamily": "Temaki",
       "identifier": "sledding"
     },
+    "sleep-shelter": {
+      "codepoint": 57749,
+      "fontFamily": "Temaki",
+      "identifier": "sleepShelter"
+    },
+    "slide": {
+      "codepoint": 57750,
+      "fontFamily": "Temaki",
+      "identifier": "slide"
+    },
+    "slide2": {
+      "codepoint": 57751,
+      "fontFamily": "Temaki",
+      "identifier": "slide2"
+    },
     "snow": {
-      "codepoint": 57538,
+      "codepoint": 57752,
       "fontFamily": "Temaki",
       "identifier": "snow"
     },
     "snow-shoeing": {
-      "codepoint": 57539,
+      "codepoint": 57753,
       "fontFamily": "Temaki",
       "identifier": "snowShoeing"
     },
     "snowboarding": {
-      "codepoint": 57540,
+      "codepoint": 57754,
       "fontFamily": "Temaki",
       "identifier": "snowboarding"
     },
     "snowmobile": {
-      "codepoint": 57541,
+      "codepoint": 57755,
       "fontFamily": "Temaki",
       "identifier": "snowmobile"
     },
     "social-facility": {
-      "codepoint": 57542,
+      "codepoint": 57756,
       "fontFamily": "Temaki",
       "identifier": "socialFacility"
     },
     "spa": {
-      "codepoint": 57543,
+      "codepoint": 57757,
       "fontFamily": "Temaki",
       "identifier": "spa"
     },
+    "speaker": {
+      "codepoint": 57758,
+      "fontFamily": "Temaki",
+      "identifier": "speaker"
+    },
     "speed-bump": {
-      "codepoint": 57544,
+      "codepoint": 57759,
       "fontFamily": "Temaki",
       "identifier": "speedBump"
     },
     "speed-dip": {
-      "codepoint": 57545,
+      "codepoint": 57760,
       "fontFamily": "Temaki",
       "identifier": "speedDip"
     },
+    "speed-dip-double": {
+      "codepoint": 57761,
+      "fontFamily": "Temaki",
+      "identifier": "speedDipDouble"
+    },
     "speed-hump": {
-      "codepoint": 57546,
+      "codepoint": 57762,
       "fontFamily": "Temaki",
       "identifier": "speedHump"
     },
     "speed-table": {
-      "codepoint": 57547,
+      "codepoint": 57763,
       "fontFamily": "Temaki",
       "identifier": "speedTable"
     },
+    "speedway-8": {
+      "codepoint": 57764,
+      "fontFamily": "Temaki",
+      "identifier": "speedway8"
+    },
+    "speedway-oval": {
+      "codepoint": 57765,
+      "fontFamily": "Temaki",
+      "identifier": "speedwayOval"
+    },
+    "spice-bottle": {
+      "codepoint": 57766,
+      "fontFamily": "Temaki",
+      "identifier": "spiceBottle"
+    },
     "spike-strip": {
-      "codepoint": 57548,
+      "codepoint": 57767,
       "fontFamily": "Temaki",
       "identifier": "spikeStrip"
     },
+    "splash-pad": {
+      "codepoint": 57768,
+      "fontFamily": "Temaki",
+      "identifier": "splashPad"
+    },
+    "spotting-scope": {
+      "codepoint": 57769,
+      "fontFamily": "Temaki",
+      "identifier": "spottingScope"
+    },
+    "spring-rider": {
+      "codepoint": 57770,
+      "fontFamily": "Temaki",
+      "identifier": "springRider"
+    },
     "stamp": {
-      "codepoint": 57549,
+      "codepoint": 57771,
       "fontFamily": "Temaki",
       "identifier": "stamp"
     },
+    "statue": {
+      "codepoint": 57772,
+      "fontFamily": "Temaki",
+      "identifier": "statue"
+    },
+    "stile-squeezer": {
+      "codepoint": 57773,
+      "fontFamily": "Temaki",
+      "identifier": "stileSqueezer"
+    },
     "stop": {
-      "codepoint": 57550,
+      "codepoint": 57774,
       "fontFamily": "Temaki",
       "identifier": "stop"
     },
     "storage": {
-      "codepoint": 57551,
+      "codepoint": 57775,
       "fontFamily": "Temaki",
       "identifier": "storage"
     },
     "storage-drum": {
-      "codepoint": 57552,
+      "codepoint": 57776,
       "fontFamily": "Temaki",
       "identifier": "storageDrum"
     },
     "storage-fermenter": {
-      "codepoint": 57553,
+      "codepoint": 57777,
       "fontFamily": "Temaki",
       "identifier": "storageFermenter"
     },
+    "storage-rental": {
+      "codepoint": 57778,
+      "fontFamily": "Temaki",
+      "identifier": "storageRental"
+    },
     "storage-tank": {
-      "codepoint": 57554,
+      "codepoint": 57779,
       "fontFamily": "Temaki",
       "identifier": "storageTank"
     },
     "street-lamp-arm": {
-      "codepoint": 57555,
+      "codepoint": 57780,
       "fontFamily": "Temaki",
       "identifier": "streetLampArm"
     },
     "striped-way": {
-      "codepoint": 57556,
+      "codepoint": 57781,
       "fontFamily": "Temaki",
       "identifier": "stripedWay"
     },
     "striped-zone": {
-      "codepoint": 57557,
+      "codepoint": 57782,
       "fontFamily": "Temaki",
       "identifier": "stripedZone"
     },
     "subway": {
-      "codepoint": 57558,
+      "codepoint": 57783,
       "fontFamily": "Temaki",
       "identifier": "subway"
     },
     "suitcase": {
-      "codepoint": 57559,
+      "codepoint": 57784,
       "fontFamily": "Temaki",
       "identifier": "suitcase"
     },
     "suitcase-key": {
-      "codepoint": 57560,
+      "codepoint": 57785,
       "fontFamily": "Temaki",
       "identifier": "suitcaseKey"
     },
     "suitcase-xray": {
-      "codepoint": 57561,
+      "codepoint": 57786,
       "fontFamily": "Temaki",
       "identifier": "suitcaseXray"
     },
+    "surfing": {
+      "codepoint": 57787,
+      "fontFamily": "Temaki",
+      "identifier": "surfing"
+    },
+    "swamp": {
+      "codepoint": 57788,
+      "fontFamily": "Temaki",
+      "identifier": "swamp"
+    },
+    "swing": {
+      "codepoint": 57789,
+      "fontFamily": "Temaki",
+      "identifier": "swing"
+    },
+    "t-bar-lift": {
+      "codepoint": 57790,
+      "fontFamily": "Temaki",
+      "identifier": "tBarLift"
+    },
+    "table-soccer": {
+      "codepoint": 57791,
+      "fontFamily": "Temaki",
+      "identifier": "tableSoccer"
+    },
+    "tall-gate": {
+      "codepoint": 57792,
+      "fontFamily": "Temaki",
+      "identifier": "tallGate"
+    },
+    "tanning": {
+      "codepoint": 57793,
+      "fontFamily": "Temaki",
+      "identifier": "tanning"
+    },
+    "tanning2": {
+      "codepoint": 57794,
+      "fontFamily": "Temaki",
+      "identifier": "tanning2"
+    },
     "taoism": {
-      "codepoint": 57562,
+      "codepoint": 57795,
       "fontFamily": "Temaki",
       "identifier": "taoism"
     },
+    "tattoo-machine": {
+      "codepoint": 57796,
+      "fontFamily": "Temaki",
+      "identifier": "tattooMachine"
+    },
     "taxi-stand": {
-      "codepoint": 57563,
+      "codepoint": 57797,
       "fontFamily": "Temaki",
       "identifier": "taxiStand"
     },
     "telephone": {
-      "codepoint": 57564,
+      "codepoint": 57798,
       "fontFamily": "Temaki",
       "identifier": "telephone"
     },
+    "telescope": {
+      "codepoint": 57799,
+      "fontFamily": "Temaki",
+      "identifier": "telescope"
+    },
     "temaki": {
-      "codepoint": 57565,
+      "codepoint": 57800,
       "fontFamily": "Temaki",
       "identifier": "temaki"
     },
     "tennis": {
-      "codepoint": 57566,
+      "codepoint": 57801,
       "fontFamily": "Temaki",
       "identifier": "tennis"
     },
     "tents": {
-      "codepoint": 57567,
+      "codepoint": 57802,
       "fontFamily": "Temaki",
       "identifier": "tents"
     },
     "ticket": {
-      "codepoint": 57568,
+      "codepoint": 57803,
       "fontFamily": "Temaki",
       "identifier": "ticket"
     },
     "tiling": {
-      "codepoint": 57569,
+      "codepoint": 57804,
       "fontFamily": "Temaki",
       "identifier": "tiling"
     },
     "tire": {
-      "codepoint": 57570,
+      "codepoint": 57805,
       "fontFamily": "Temaki",
       "identifier": "tire"
     },
     "tire-course": {
-      "codepoint": 57571,
+      "codepoint": 57806,
       "fontFamily": "Temaki",
       "identifier": "tireCourse"
     },
     "toll-gantry": {
-      "codepoint": 57572,
+      "codepoint": 57807,
       "fontFamily": "Temaki",
       "identifier": "tollGantry"
     },
     "toolbox": {
-      "codepoint": 57573,
+      "codepoint": 57808,
       "fontFamily": "Temaki",
       "identifier": "toolbox"
     },
+    "tools": {
+      "codepoint": 57809,
+      "fontFamily": "Temaki",
+      "identifier": "tools"
+    },
     "tower": {
-      "codepoint": 57574,
+      "codepoint": 57810,
       "fontFamily": "Temaki",
       "identifier": "tower"
     },
     "tower-communication": {
-      "codepoint": 57575,
+      "codepoint": 57811,
       "fontFamily": "Temaki",
       "identifier": "towerCommunication"
     },
     "town-hall": {
-      "codepoint": 57576,
+      "codepoint": 57812,
       "fontFamily": "Temaki",
       "identifier": "townHall"
     },
+    "traffic-signals": {
+      "codepoint": 57813,
+      "fontFamily": "Temaki",
+      "identifier": "trafficSignals"
+    },
     "train": {
-      "codepoint": 57577,
+      "codepoint": 57814,
       "fontFamily": "Temaki",
       "identifier": "train"
     },
+    "train-bullet": {
+      "codepoint": 57815,
+      "fontFamily": "Temaki",
+      "identifier": "trainBullet"
+    },
+    "train-diesel": {
+      "codepoint": 57816,
+      "fontFamily": "Temaki",
+      "identifier": "trainDiesel"
+    },
+    "train-kids": {
+      "codepoint": 57817,
+      "fontFamily": "Temaki",
+      "identifier": "trainKids"
+    },
+    "train-steam": {
+      "codepoint": 57818,
+      "fontFamily": "Temaki",
+      "identifier": "trainSteam"
+    },
+    "train-wash": {
+      "codepoint": 57819,
+      "fontFamily": "Temaki",
+      "identifier": "trainWash"
+    },
+    "tram": {
+      "codepoint": 57820,
+      "fontFamily": "Temaki",
+      "identifier": "tram"
+    },
+    "tram-side": {
+      "codepoint": 57821,
+      "fontFamily": "Temaki",
+      "identifier": "tramSide"
+    },
+    "trampoline": {
+      "codepoint": 57822,
+      "fontFamily": "Temaki",
+      "identifier": "trampoline"
+    },
     "transit": {
-      "codepoint": 57578,
+      "codepoint": 57823,
       "fontFamily": "Temaki",
       "identifier": "transit"
     },
     "transit-shelter": {
-      "codepoint": 57579,
+      "codepoint": 57824,
       "fontFamily": "Temaki",
       "identifier": "transitShelter"
     },
+    "tree-and-bench": {
+      "codepoint": 57825,
+      "fontFamily": "Temaki",
+      "identifier": "treeAndBench"
+    },
+    "tree-broadleaved": {
+      "codepoint": 57826,
+      "fontFamily": "Temaki",
+      "identifier": "treeBroadleaved"
+    },
     "tree-cactus": {
-      "codepoint": 57580,
+      "codepoint": 57827,
       "fontFamily": "Temaki",
       "identifier": "treeCactus"
     },
+    "tree-leafless": {
+      "codepoint": 57828,
+      "fontFamily": "Temaki",
+      "identifier": "treeLeafless"
+    },
     "tree-needleleaved": {
-      "codepoint": 57581,
+      "codepoint": 57829,
       "fontFamily": "Temaki",
       "identifier": "treeNeedleleaved"
     },
     "tree-palm": {
-      "codepoint": 57582,
+      "codepoint": 57830,
       "fontFamily": "Temaki",
       "identifier": "treePalm"
     },
+    "tree-row": {
+      "codepoint": 57831,
+      "fontFamily": "Temaki",
+      "identifier": "treeRow"
+    },
+    "tree-stump": {
+      "codepoint": 57832,
+      "fontFamily": "Temaki",
+      "identifier": "treeStump"
+    },
     "trench": {
-      "codepoint": 57583,
+      "codepoint": 57833,
       "fontFamily": "Temaki",
       "identifier": "trench"
     },
+    "trolleybus": {
+      "codepoint": 57834,
+      "fontFamily": "Temaki",
+      "identifier": "trolleybus"
+    },
     "truck": {
-      "codepoint": 57584,
+      "codepoint": 57835,
       "fontFamily": "Temaki",
       "identifier": "truck"
     },
     "tunnel": {
-      "codepoint": 57585,
+      "codepoint": 57836,
       "fontFamily": "Temaki",
       "identifier": "tunnel"
     },
+    "turnstile": {
+      "codepoint": 57837,
+      "fontFamily": "Temaki",
+      "identifier": "turnstile"
+    },
     "utility-pole": {
-      "codepoint": 57586,
+      "codepoint": 57838,
       "fontFamily": "Temaki",
       "identifier": "utilityPole"
     },
+    "vacuum": {
+      "codepoint": 57839,
+      "fontFamily": "Temaki",
+      "identifier": "vacuum"
+    },
     "vacuum-station": {
-      "codepoint": 57587,
+      "codepoint": 57840,
       "fontFamily": "Temaki",
       "identifier": "vacuumStation"
     },
+    "valley": {
+      "codepoint": 57841,
+      "fontFamily": "Temaki",
+      "identifier": "valley"
+    },
+    "vase": {
+      "codepoint": 57842,
+      "fontFamily": "Temaki",
+      "identifier": "vase"
+    },
     "vending-bread": {
-      "codepoint": 57588,
+      "codepoint": 57843,
       "fontFamily": "Temaki",
       "identifier": "vendingBread"
     },
+    "vending-cigarettes": {
+      "codepoint": 57844,
+      "fontFamily": "Temaki",
+      "identifier": "vendingCigarettes"
+    },
     "vending-cold-drink": {
-      "codepoint": 57589,
+      "codepoint": 57845,
       "fontFamily": "Temaki",
       "identifier": "vendingColdDrink"
     },
+    "vending-cold-drink2": {
+      "codepoint": 57846,
+      "fontFamily": "Temaki",
+      "identifier": "vendingColdDrink2"
+    },
     "vending-eggs": {
-      "codepoint": 57590,
+      "codepoint": 57847,
       "fontFamily": "Temaki",
       "identifier": "vendingEggs"
     },
+    "vending-flat-coin": {
+      "codepoint": 57848,
+      "fontFamily": "Temaki",
+      "identifier": "vendingFlatCoin"
+    },
+    "vending-hot-drink": {
+      "codepoint": 57849,
+      "fontFamily": "Temaki",
+      "identifier": "vendingHotDrink"
+    },
+    "vending-hot-drink2": {
+      "codepoint": 57850,
+      "fontFamily": "Temaki",
+      "identifier": "vendingHotDrink2"
+    },
+    "vending-ice": {
+      "codepoint": 57851,
+      "fontFamily": "Temaki",
+      "identifier": "vendingIce"
+    },
     "vending-ice-cream": {
-      "codepoint": 57591,
+      "codepoint": 57852,
       "fontFamily": "Temaki",
       "identifier": "vendingIceCream"
     },
+    "vending-ice-cream2": {
+      "codepoint": 57853,
+      "fontFamily": "Temaki",
+      "identifier": "vendingIceCream2"
+    },
     "vending-lockers": {
-      "codepoint": 57592,
+      "codepoint": 57854,
       "fontFamily": "Temaki",
       "identifier": "vendingLockers"
     },
     "vending-love": {
-      "codepoint": 57593,
+      "codepoint": 57855,
       "fontFamily": "Temaki",
       "identifier": "vendingLove"
     },
     "vending-machine": {
-      "codepoint": 57594,
+      "codepoint": 57856,
       "fontFamily": "Temaki",
       "identifier": "vendingMachine"
     },
     "vending-medicine": {
-      "codepoint": 57595,
+      "codepoint": 57857,
       "fontFamily": "Temaki",
       "identifier": "vendingMedicine"
     },
     "vending-newspaper": {
-      "codepoint": 57596,
+      "codepoint": 57858,
       "fontFamily": "Temaki",
       "identifier": "vendingNewspaper"
     },
+    "vending-pet-waste": {
+      "codepoint": 57859,
+      "fontFamily": "Temaki",
+      "identifier": "vendingPetWaste"
+    },
+    "vending-stamps": {
+      "codepoint": 57860,
+      "fontFamily": "Temaki",
+      "identifier": "vendingStamps"
+    },
     "vending-tickets": {
-      "codepoint": 57597,
+      "codepoint": 57861,
       "fontFamily": "Temaki",
       "identifier": "vendingTickets"
     },
     "vending-venus": {
-      "codepoint": 57598,
+      "codepoint": 57862,
       "fontFamily": "Temaki",
       "identifier": "vendingVenus"
     },
     "vertex": {
-      "codepoint": 57599,
+      "codepoint": 57863,
       "fontFamily": "Temaki",
       "identifier": "vertex"
     },
+    "vertical-rotisserie": {
+      "codepoint": 57864,
+      "fontFamily": "Temaki",
+      "identifier": "verticalRotisserie"
+    },
     "veterinary-care": {
-      "codepoint": 57600,
+      "codepoint": 57865,
       "fontFamily": "Temaki",
       "identifier": "veterinaryCare"
     },
+    "viewpoint": {
+      "codepoint": 57866,
+      "fontFamily": "Temaki",
+      "identifier": "viewpoint"
+    },
     "wall": {
-      "codepoint": 57601,
+      "codepoint": 57867,
       "fontFamily": "Temaki",
       "identifier": "wall"
     },
+    "waste": {
+      "codepoint": 57868,
+      "fontFamily": "Temaki",
+      "identifier": "waste"
+    },
+    "waste-device": {
+      "codepoint": 57869,
+      "fontFamily": "Temaki",
+      "identifier": "wasteDevice"
+    },
+    "waste-manhole": {
+      "codepoint": 57870,
+      "fontFamily": "Temaki",
+      "identifier": "wasteManhole"
+    },
+    "waste-meter": {
+      "codepoint": 57871,
+      "fontFamily": "Temaki",
+      "identifier": "wasteMeter"
+    },
+    "waste-shutoff": {
+      "codepoint": 57872,
+      "fontFamily": "Temaki",
+      "identifier": "wasteShutoff"
+    },
     "water": {
-      "codepoint": 57602,
+      "codepoint": 57873,
       "fontFamily": "Temaki",
       "identifier": "water"
     },
     "water-bottle": {
-      "codepoint": 57603,
+      "codepoint": 57874,
       "fontFamily": "Temaki",
       "identifier": "waterBottle"
     },
     "water-device": {
-      "codepoint": 57604,
+      "codepoint": 57875,
       "fontFamily": "Temaki",
       "identifier": "waterDevice"
     },
+    "water-manhole": {
+      "codepoint": 57876,
+      "fontFamily": "Temaki",
+      "identifier": "waterManhole"
+    },
     "water-meter": {
-      "codepoint": 57605,
+      "codepoint": 57877,
       "fontFamily": "Temaki",
       "identifier": "waterMeter"
     },
+    "water-shutoff": {
+      "codepoint": 57878,
+      "fontFamily": "Temaki",
+      "identifier": "waterShutoff"
+    },
     "water-tap": {
-      "codepoint": 57606,
+      "codepoint": 57879,
       "fontFamily": "Temaki",
       "identifier": "waterTap"
     },
+    "water-tap-drinkable": {
+      "codepoint": 57880,
+      "fontFamily": "Temaki",
+      "identifier": "waterTapDrinkable"
+    },
+    "water-tower": {
+      "codepoint": 57881,
+      "fontFamily": "Temaki",
+      "identifier": "waterTower"
+    },
     "waterskiing": {
-      "codepoint": 57607,
+      "codepoint": 57882,
       "fontFamily": "Temaki",
       "identifier": "waterskiing"
     },
     "well-pump-manual": {
-      "codepoint": 57608,
+      "codepoint": 57883,
       "fontFamily": "Temaki",
       "identifier": "wellPumpManual"
     },
     "well-pump-powered": {
-      "codepoint": 57609,
+      "codepoint": 57884,
       "fontFamily": "Temaki",
       "identifier": "wellPumpPowered"
     },
     "whale-watching": {
-      "codepoint": 57610,
+      "codepoint": 57885,
       "fontFamily": "Temaki",
       "identifier": "whaleWatching"
     },
+    "wheel": {
+      "codepoint": 57886,
+      "fontFamily": "Temaki",
+      "identifier": "wheel"
+    },
     "wheelchair": {
-      "codepoint": 57611,
+      "codepoint": 57887,
       "fontFamily": "Temaki",
       "identifier": "wheelchair"
     },
+    "wheelchair-active": {
+      "codepoint": 57888,
+      "fontFamily": "Temaki",
+      "identifier": "wheelchairActive"
+    },
     "wind-surfing": {
-      "codepoint": 57612,
+      "codepoint": 57889,
       "fontFamily": "Temaki",
       "identifier": "windSurfing"
     },
     "wind-turbine": {
-      "codepoint": 57613,
+      "codepoint": 57890,
       "fontFamily": "Temaki",
       "identifier": "windTurbine"
     },
     "windmill": {
-      "codepoint": 57614,
+      "codepoint": 57891,
       "fontFamily": "Temaki",
       "identifier": "windmill"
     },
     "window": {
-      "codepoint": 57615,
+      "codepoint": 57892,
       "fontFamily": "Temaki",
       "identifier": "window"
     },
+    "windpump": {
+      "codepoint": 57893,
+      "fontFamily": "Temaki",
+      "identifier": "windpump"
+    },
+    "windsock": {
+      "codepoint": 57894,
+      "fontFamily": "Temaki",
+      "identifier": "windsock"
+    },
+    "x-oblique": {
+      "codepoint": 57895,
+      "fontFamily": "Temaki",
+      "identifier": "xOblique"
+    },
     "yield": {
-      "codepoint": 57616,
+      "codepoint": 57896,
       "fontFamily": "Temaki",
       "identifier": "yield_"
     },
+    "zip-wire": {
+      "codepoint": 57897,
+      "fontFamily": "Temaki",
+      "identifier": "zipWire"
+    },
     "zoo": {
-      "codepoint": 57617,
+      "codepoint": 57898,
       "fontFamily": "Temaki",
       "identifier": "zoo"
     }

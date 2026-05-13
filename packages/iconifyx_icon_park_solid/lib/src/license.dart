@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'Apache 2.0',
   licenseSpdx: 'Apache-2.0',
   licenseUrl: 'https://github.com/bytedance/IconPark/blob/master/LICENSE',
-  iconCount: 1560,
+  iconCount: 1949,
 );

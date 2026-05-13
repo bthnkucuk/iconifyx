@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'CC BY 4.0',
   licenseSpdx: 'CC-BY-4.0',
   licenseUrl: 'https://creativecommons.org/licenses/by/4.0/',
-  iconCount: 14,
+  iconCount: 1386,
 );

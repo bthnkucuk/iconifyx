@@ -10,5 +10,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   authorUrl: 'https://github.com/dmitrybaranovskiy/raphael',
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
-  iconCount: 60,
+  iconCount: 265,
 );

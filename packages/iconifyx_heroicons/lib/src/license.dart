@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/tailwindlabs/heroicons/blob/master/LICENSE',
-  iconCount: 529,
+  iconCount: 1297,
 );

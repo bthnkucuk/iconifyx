@@ -16,975 +16,1682 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/Iconscout/unicons/blob/master/LICENSE"
     },
-    "total": 167
+    "total": 295
   },
   "fonts": [
     {
       "family": "Uim",
-      "nextCodepoint": 57511,
-      "iconCount": 167
+      "nextCodepoint": 57639,
+      "iconCount": 295
     },
     {
       "family": "UimSecondary",
-      "nextCodepoint": 57511,
-      "iconCount": 121
+      "nextCodepoint": 57639,
+      "iconCount": 188
     }
   ],
   "icons": {
-    "adobe-alt": {
+    "500px": {
       "codepoint": 57344,
+      "fontFamily": "Uim",
+      "identifier": "n500px"
+    },
+    "adobe": {
+      "codepoint": 57345,
+      "fontFamily": "Uim",
+      "identifier": "adobe"
+    },
+    "adobe-alt": {
+      "codepoint": 57346,
       "fontFamily": "Uim",
       "identifier": "adobeAlt"
     },
+    "airplay": {
+      "codepoint": 57347,
+      "fontFamily": "Uim",
+      "identifier": "airplay",
+      "duotone": true
+    },
+    "align": {
+      "codepoint": 57348,
+      "fontFamily": "Uim",
+      "identifier": "align",
+      "duotone": true
+    },
     "align-alt": {
-      "codepoint": 57345,
+      "codepoint": 57349,
       "fontFamily": "Uim",
       "identifier": "alignAlt"
     },
     "align-center": {
-      "codepoint": 57346,
+      "codepoint": 57350,
       "fontFamily": "Uim",
       "identifier": "alignCenter"
     },
     "align-center-justify": {
-      "codepoint": 57347,
+      "codepoint": 57351,
       "fontFamily": "Uim",
       "identifier": "alignCenterJustify"
     },
     "align-justify": {
-      "codepoint": 57348,
+      "codepoint": 57352,
       "fontFamily": "Uim",
       "identifier": "alignJustify"
     },
     "align-left": {
-      "codepoint": 57349,
+      "codepoint": 57353,
       "fontFamily": "Uim",
       "identifier": "alignLeft"
     },
     "align-left-justify": {
-      "codepoint": 57350,
+      "codepoint": 57354,
       "fontFamily": "Uim",
       "identifier": "alignLeftJustify"
     },
     "align-letter-right": {
-      "codepoint": 57351,
+      "codepoint": 57355,
       "fontFamily": "Uim",
       "identifier": "alignLetterRight"
     },
     "align-right": {
-      "codepoint": 57352,
+      "codepoint": 57356,
       "fontFamily": "Uim",
       "identifier": "alignRight"
     },
     "align-right-justify": {
-      "codepoint": 57353,
+      "codepoint": 57357,
       "fontFamily": "Uim",
       "identifier": "alignRightJustify"
     },
+    "amazon": {
+      "codepoint": 57358,
+      "fontFamily": "Uim",
+      "identifier": "amazon"
+    },
+    "analysis": {
+      "codepoint": 57359,
+      "fontFamily": "Uim",
+      "identifier": "analysis"
+    },
     "analytics": {
-      "codepoint": 57354,
+      "codepoint": 57360,
       "fontFamily": "Uim",
       "identifier": "analytics"
     },
     "anchor": {
-      "codepoint": 57355,
+      "codepoint": 57361,
       "fontFamily": "Uim",
       "identifier": "anchor"
     },
+    "android": {
+      "codepoint": 57362,
+      "fontFamily": "Uim",
+      "identifier": "android",
+      "duotone": true
+    },
     "android-alt": {
-      "codepoint": 57356,
+      "codepoint": 57363,
       "fontFamily": "Uim",
       "identifier": "androidAlt",
       "duotone": true
     },
+    "angle-double-down": {
+      "codepoint": 57364,
+      "fontFamily": "Uim",
+      "identifier": "angleDoubleDown"
+    },
+    "angle-double-left": {
+      "codepoint": 57365,
+      "fontFamily": "Uim",
+      "identifier": "angleDoubleLeft"
+    },
+    "angle-double-right": {
+      "codepoint": 57366,
+      "fontFamily": "Uim",
+      "identifier": "angleDoubleRight"
+    },
+    "angle-double-up": {
+      "codepoint": 57367,
+      "fontFamily": "Uim",
+      "identifier": "angleDoubleUp"
+    },
+    "angle-down": {
+      "codepoint": 57368,
+      "fontFamily": "Uim",
+      "identifier": "angleDown"
+    },
+    "angle-left": {
+      "codepoint": 57369,
+      "fontFamily": "Uim",
+      "identifier": "angleLeft"
+    },
+    "angle-right": {
+      "codepoint": 57370,
+      "fontFamily": "Uim",
+      "identifier": "angleRight"
+    },
+    "angle-right-b": {
+      "codepoint": 57371,
+      "fontFamily": "Uim",
+      "identifier": "angleRightB"
+    },
+    "angle-up": {
+      "codepoint": 57372,
+      "fontFamily": "Uim",
+      "identifier": "angleUp"
+    },
+    "apple": {
+      "codepoint": 57373,
+      "fontFamily": "Uim",
+      "identifier": "apple"
+    },
+    "apple-alt": {
+      "codepoint": 57374,
+      "fontFamily": "Uim",
+      "identifier": "appleAlt"
+    },
     "apps": {
-      "codepoint": 57357,
+      "codepoint": 57375,
       "fontFamily": "Uim",
       "identifier": "apps",
       "duotone": true
     },
     "arrow-circle-down": {
-      "codepoint": 57358,
+      "codepoint": 57376,
       "fontFamily": "Uim",
       "identifier": "arrowCircleDown",
       "duotone": true
     },
     "arrow-circle-left": {
-      "codepoint": 57359,
+      "codepoint": 57377,
       "fontFamily": "Uim",
       "identifier": "arrowCircleLeft",
       "duotone": true
     },
     "arrow-circle-right": {
-      "codepoint": 57360,
+      "codepoint": 57378,
       "fontFamily": "Uim",
       "identifier": "arrowCircleRight",
       "duotone": true
     },
     "arrow-circle-up": {
-      "codepoint": 57361,
+      "codepoint": 57379,
       "fontFamily": "Uim",
       "identifier": "arrowCircleUp",
       "duotone": true
     },
+    "arrow-down-left": {
+      "codepoint": 57380,
+      "fontFamily": "Uim",
+      "identifier": "arrowDownLeft"
+    },
+    "arrow-down-right": {
+      "codepoint": 57381,
+      "fontFamily": "Uim",
+      "identifier": "arrowDownRight"
+    },
+    "arrow-up-left": {
+      "codepoint": 57382,
+      "fontFamily": "Uim",
+      "identifier": "arrowUpLeft"
+    },
+    "arrow-up-right": {
+      "codepoint": 57383,
+      "fontFamily": "Uim",
+      "identifier": "arrowUpRight"
+    },
     "at": {
-      "codepoint": 57362,
+      "codepoint": 57384,
       "fontFamily": "Uim",
       "identifier": "at"
     },
     "bag": {
-      "codepoint": 57363,
+      "codepoint": 57385,
       "fontFamily": "Uim",
       "identifier": "bag",
       "duotone": true
     },
     "bars": {
-      "codepoint": 57364,
+      "codepoint": 57386,
       "fontFamily": "Uim",
       "identifier": "bars"
     },
+    "battery-bolt": {
+      "codepoint": 57387,
+      "fontFamily": "Uim",
+      "identifier": "batteryBolt",
+      "duotone": true
+    },
     "battery-empty": {
-      "codepoint": 57365,
+      "codepoint": 57388,
       "fontFamily": "Uim",
       "identifier": "batteryEmpty"
     },
+    "behance": {
+      "codepoint": 57389,
+      "fontFamily": "Uim",
+      "identifier": "behance"
+    },
+    "behance-alt": {
+      "codepoint": 57390,
+      "fontFamily": "Uim",
+      "identifier": "behanceAlt"
+    },
     "bing": {
-      "codepoint": 57366,
+      "codepoint": 57391,
       "fontFamily": "Uim",
       "identifier": "bing",
       "duotone": true
     },
+    "bitcoin": {
+      "codepoint": 57392,
+      "fontFamily": "Uim",
+      "identifier": "bitcoin",
+      "duotone": true
+    },
     "bitcoin-alt": {
-      "codepoint": 57367,
+      "codepoint": 57393,
       "fontFamily": "Uim",
       "identifier": "bitcoinAlt"
     },
+    "blackberry": {
+      "codepoint": 57394,
+      "fontFamily": "Uim",
+      "identifier": "blackberry",
+      "duotone": true
+    },
+    "blogger": {
+      "codepoint": 57395,
+      "fontFamily": "Uim",
+      "identifier": "blogger",
+      "duotone": true
+    },
     "blogger-alt": {
-      "codepoint": 57368,
+      "codepoint": 57396,
       "fontFamily": "Uim",
       "identifier": "bloggerAlt",
       "duotone": true
     },
+    "bookmark": {
+      "codepoint": 57397,
+      "fontFamily": "Uim",
+      "identifier": "bookmark"
+    },
     "border-alt": {
-      "codepoint": 57369,
+      "codepoint": 57398,
       "fontFamily": "Uim",
       "identifier": "borderAlt",
       "duotone": true
     },
     "border-bottom": {
-      "codepoint": 57370,
+      "codepoint": 57399,
       "fontFamily": "Uim",
       "identifier": "borderBottom",
       "duotone": true
     },
     "border-clear": {
-      "codepoint": 57371,
+      "codepoint": 57400,
       "fontFamily": "Uim",
       "identifier": "borderClear"
     },
     "border-horizontal": {
-      "codepoint": 57372,
+      "codepoint": 57401,
       "fontFamily": "Uim",
       "identifier": "borderHorizontal",
       "duotone": true
     },
     "border-inner": {
-      "codepoint": 57373,
+      "codepoint": 57402,
       "fontFamily": "Uim",
       "identifier": "borderInner",
       "duotone": true
     },
     "border-left": {
-      "codepoint": 57374,
+      "codepoint": 57403,
       "fontFamily": "Uim",
       "identifier": "borderLeft",
       "duotone": true
     },
     "border-out": {
-      "codepoint": 57375,
+      "codepoint": 57404,
       "fontFamily": "Uim",
       "identifier": "borderOut",
       "duotone": true
     },
     "border-right": {
-      "codepoint": 57376,
+      "codepoint": 57405,
       "fontFamily": "Uim",
       "identifier": "borderRight",
       "duotone": true
     },
     "border-top": {
-      "codepoint": 57377,
+      "codepoint": 57406,
       "fontFamily": "Uim",
       "identifier": "borderTop",
       "duotone": true
     },
     "border-vertical": {
-      "codepoint": 57378,
+      "codepoint": 57407,
       "fontFamily": "Uim",
       "identifier": "borderVertical",
       "duotone": true
     },
+    "box": {
+      "codepoint": 57408,
+      "fontFamily": "Uim",
+      "identifier": "box",
+      "duotone": true
+    },
     "briefcase": {
-      "codepoint": 57379,
+      "codepoint": 57409,
       "fontFamily": "Uim",
       "identifier": "briefcase",
       "duotone": true
     },
     "calendar": {
-      "codepoint": 57380,
+      "codepoint": 57410,
       "fontFamily": "Uim",
       "identifier": "calendar",
       "duotone": true
     },
     "calender": {
-      "codepoint": 57381,
+      "codepoint": 57411,
       "fontFamily": "Uim",
       "identifier": "calender",
       "duotone": true
     },
     "chart": {
-      "codepoint": 57382,
+      "codepoint": 57412,
       "fontFamily": "Uim",
       "identifier": "chart",
       "duotone": true
     },
     "chart-pie": {
-      "codepoint": 57383,
+      "codepoint": 57413,
       "fontFamily": "Uim",
       "identifier": "chartPie",
       "duotone": true
     },
+    "check": {
+      "codepoint": 57414,
+      "fontFamily": "Uim",
+      "identifier": "check"
+    },
+    "check-circle": {
+      "codepoint": 57415,
+      "fontFamily": "Uim",
+      "identifier": "checkCircle"
+    },
+    "check-square": {
+      "codepoint": 57416,
+      "fontFamily": "Uim",
+      "identifier": "checkSquare",
+      "duotone": true
+    },
     "circle": {
-      "codepoint": 57384,
+      "codepoint": 57417,
       "fontFamily": "Uim",
       "identifier": "circle"
     },
     "circle-layer": {
-      "codepoint": 57385,
+      "codepoint": 57418,
       "fontFamily": "Uim",
       "identifier": "circleLayer",
       "duotone": true
     },
     "clinic-medical": {
-      "codepoint": 57386,
+      "codepoint": 57419,
       "fontFamily": "Uim",
       "identifier": "clinicMedical",
       "duotone": true
     },
     "clock": {
-      "codepoint": 57387,
+      "codepoint": 57420,
       "fontFamily": "Uim",
       "identifier": "clock",
       "duotone": true
     },
     "clock-eight": {
-      "codepoint": 57388,
+      "codepoint": 57421,
       "fontFamily": "Uim",
       "identifier": "clockEight",
       "duotone": true
     },
     "clock-five": {
-      "codepoint": 57389,
+      "codepoint": 57422,
       "fontFamily": "Uim",
       "identifier": "clockFive",
       "duotone": true
     },
     "clock-nine": {
-      "codepoint": 57390,
+      "codepoint": 57423,
       "fontFamily": "Uim",
       "identifier": "clockNine",
       "duotone": true
     },
     "clock-seven": {
-      "codepoint": 57391,
+      "codepoint": 57424,
       "fontFamily": "Uim",
       "identifier": "clockSeven",
       "duotone": true
     },
+    "clock-ten": {
+      "codepoint": 57425,
+      "fontFamily": "Uim",
+      "identifier": "clockTen",
+      "duotone": true
+    },
     "clock-three": {
-      "codepoint": 57392,
+      "codepoint": 57426,
       "fontFamily": "Uim",
       "identifier": "clockThree",
       "duotone": true
     },
+    "clock-two": {
+      "codepoint": 57427,
+      "fontFamily": "Uim",
+      "identifier": "clockTwo",
+      "duotone": true
+    },
     "columns": {
-      "codepoint": 57393,
+      "codepoint": 57428,
       "fontFamily": "Uim",
       "identifier": "columns",
       "duotone": true
     },
+    "comment": {
+      "codepoint": 57429,
+      "fontFamily": "Uim",
+      "identifier": "comment"
+    },
+    "comment-alt": {
+      "codepoint": 57430,
+      "fontFamily": "Uim",
+      "identifier": "commentAlt"
+    },
     "comment-alt-dots": {
-      "codepoint": 57394,
+      "codepoint": 57431,
       "fontFamily": "Uim",
       "identifier": "commentAltDots",
       "duotone": true
     },
     "comment-alt-message": {
-      "codepoint": 57395,
+      "codepoint": 57432,
       "fontFamily": "Uim",
       "identifier": "commentAltMessage",
       "duotone": true
     },
     "comment-alt-plus": {
-      "codepoint": 57396,
+      "codepoint": 57433,
       "fontFamily": "Uim",
       "identifier": "commentAltPlus",
       "duotone": true
     },
     "comment-dots": {
-      "codepoint": 57397,
+      "codepoint": 57434,
       "fontFamily": "Uim",
       "identifier": "commentDots",
       "duotone": true
     },
     "comment-message": {
-      "codepoint": 57398,
+      "codepoint": 57435,
       "fontFamily": "Uim",
       "identifier": "commentMessage",
       "duotone": true
     },
     "comment-plus": {
-      "codepoint": 57399,
+      "codepoint": 57436,
       "fontFamily": "Uim",
       "identifier": "commentPlus",
       "duotone": true
     },
     "compress": {
-      "codepoint": 57400,
+      "codepoint": 57437,
       "fontFamily": "Uim",
       "identifier": "compress"
     },
+    "corner-down-left": {
+      "codepoint": 57438,
+      "fontFamily": "Uim",
+      "identifier": "cornerDownLeft"
+    },
+    "corner-down-right": {
+      "codepoint": 57439,
+      "fontFamily": "Uim",
+      "identifier": "cornerDownRight"
+    },
     "corner-left-down": {
-      "codepoint": 57401,
+      "codepoint": 57440,
       "fontFamily": "Uim",
       "identifier": "cornerLeftDown"
     },
     "corner-right-down": {
-      "codepoint": 57402,
+      "codepoint": 57441,
       "fontFamily": "Uim",
       "identifier": "cornerRightDown"
     },
     "corner-up-left": {
-      "codepoint": 57403,
+      "codepoint": 57442,
       "fontFamily": "Uim",
       "identifier": "cornerUpLeft"
     },
+    "corner-up-right": {
+      "codepoint": 57443,
+      "fontFamily": "Uim",
+      "identifier": "cornerUpRight"
+    },
+    "coronavirus": {
+      "codepoint": 57444,
+      "fontFamily": "Uim",
+      "identifier": "coronavirus",
+      "duotone": true
+    },
+    "css3": {
+      "codepoint": 57445,
+      "fontFamily": "Uim",
+      "identifier": "css3"
+    },
+    "css3-simple": {
+      "codepoint": 57446,
+      "fontFamily": "Uim",
+      "identifier": "css3Simple"
+    },
     "cube": {
-      "codepoint": 57404,
+      "codepoint": 57447,
       "fontFamily": "Uim",
       "identifier": "cube",
       "duotone": true
     },
     "dialpad": {
-      "codepoint": 57405,
+      "codepoint": 57448,
       "fontFamily": "Uim",
       "identifier": "dialpad"
     },
+    "dialpad-alt": {
+      "codepoint": 57449,
+      "fontFamily": "Uim",
+      "identifier": "dialpadAlt"
+    },
+    "direction": {
+      "codepoint": 57450,
+      "fontFamily": "Uim",
+      "identifier": "direction"
+    },
+    "discord": {
+      "codepoint": 57451,
+      "fontFamily": "Uim",
+      "identifier": "discord",
+      "duotone": true
+    },
+    "docker": {
+      "codepoint": 57452,
+      "fontFamily": "Uim",
+      "identifier": "docker",
+      "duotone": true
+    },
     "document-layout-center": {
-      "codepoint": 57406,
+      "codepoint": 57453,
       "fontFamily": "Uim",
       "identifier": "documentLayoutCenter",
       "duotone": true
     },
     "document-layout-left": {
-      "codepoint": 57407,
+      "codepoint": 57454,
       "fontFamily": "Uim",
       "identifier": "documentLayoutLeft",
       "duotone": true
     },
     "document-layout-right": {
-      "codepoint": 57408,
+      "codepoint": 57455,
       "fontFamily": "Uim",
       "identifier": "documentLayoutRight",
       "duotone": true
     },
     "download-alt": {
-      "codepoint": 57409,
+      "codepoint": 57456,
       "fontFamily": "Uim",
       "identifier": "downloadAlt",
       "duotone": true
     },
+    "dribbble": {
+      "codepoint": 57457,
+      "fontFamily": "Uim",
+      "identifier": "dribbble",
+      "duotone": true
+    },
     "dropbox": {
-      "codepoint": 57410,
+      "codepoint": 57458,
       "fontFamily": "Uim",
       "identifier": "dropbox",
       "duotone": true
     },
     "ellipsis-h": {
-      "codepoint": 57411,
+      "codepoint": 57459,
       "fontFamily": "Uim",
       "identifier": "ellipsisH"
     },
     "ellipsis-v": {
-      "codepoint": 57412,
+      "codepoint": 57460,
       "fontFamily": "Uim",
       "identifier": "ellipsisV"
     },
     "entry": {
-      "codepoint": 57413,
+      "codepoint": 57461,
       "fontFamily": "Uim",
       "identifier": "entry",
       "duotone": true
     },
     "exclamation-circle": {
-      "codepoint": 57414,
+      "codepoint": 57462,
       "fontFamily": "Uim",
       "identifier": "exclamationCircle",
       "duotone": true
     },
     "exclamation-octagon": {
-      "codepoint": 57415,
+      "codepoint": 57463,
       "fontFamily": "Uim",
       "identifier": "exclamationOctagon",
       "duotone": true
     },
     "exclamation-triangle": {
-      "codepoint": 57416,
+      "codepoint": 57464,
       "fontFamily": "Uim",
       "identifier": "exclamationTriangle",
       "duotone": true
     },
     "exit": {
-      "codepoint": 57417,
+      "codepoint": 57465,
       "fontFamily": "Uim",
       "identifier": "exit",
       "duotone": true
     },
+    "facebook": {
+      "codepoint": 57466,
+      "fontFamily": "Uim",
+      "identifier": "facebook",
+      "duotone": true
+    },
+    "facebook-f": {
+      "codepoint": 57467,
+      "fontFamily": "Uim",
+      "identifier": "facebookF"
+    },
+    "facebook-messenger": {
+      "codepoint": 57468,
+      "fontFamily": "Uim",
+      "identifier": "facebookMessenger",
+      "duotone": true
+    },
+    "facebook-messenger-alt": {
+      "codepoint": 57469,
+      "fontFamily": "Uim",
+      "identifier": "facebookMessengerAlt",
+      "duotone": true
+    },
+    "favorite": {
+      "codepoint": 57470,
+      "fontFamily": "Uim",
+      "identifier": "favorite"
+    },
+    "flip-h": {
+      "codepoint": 57471,
+      "fontFamily": "Uim",
+      "identifier": "flipH",
+      "duotone": true
+    },
+    "flip-h-alt": {
+      "codepoint": 57472,
+      "fontFamily": "Uim",
+      "identifier": "flipHAlt",
+      "duotone": true
+    },
+    "flip-v": {
+      "codepoint": 57473,
+      "fontFamily": "Uim",
+      "identifier": "flipV",
+      "duotone": true
+    },
     "flip-v-alt": {
-      "codepoint": 57418,
+      "codepoint": 57474,
       "fontFamily": "Uim",
       "identifier": "flipVAlt",
       "duotone": true
     },
+    "github": {
+      "codepoint": 57475,
+      "fontFamily": "Uim",
+      "identifier": "github",
+      "duotone": true
+    },
+    "github-alt": {
+      "codepoint": 57476,
+      "fontFamily": "Uim",
+      "identifier": "githubAlt"
+    },
+    "gitlab": {
+      "codepoint": 57477,
+      "fontFamily": "Uim",
+      "identifier": "gitlab"
+    },
+    "gitlab-alt": {
+      "codepoint": 57478,
+      "fontFamily": "Uim",
+      "identifier": "gitlabAlt",
+      "duotone": true
+    },
     "google": {
-      "codepoint": 57419,
+      "codepoint": 57479,
       "fontFamily": "Uim",
       "identifier": "google",
       "duotone": true
     },
     "google-drive": {
-      "codepoint": 57420,
+      "codepoint": 57480,
       "fontFamily": "Uim",
       "identifier": "googleDrive",
       "duotone": true
     },
     "google-drive-alt": {
-      "codepoint": 57421,
+      "codepoint": 57481,
       "fontFamily": "Uim",
       "identifier": "googleDriveAlt",
       "duotone": true
     },
     "google-hangouts-alt": {
-      "codepoint": 57422,
+      "codepoint": 57482,
       "fontFamily": "Uim",
       "identifier": "googleHangoutsAlt",
       "duotone": true
     },
+    "google-play": {
+      "codepoint": 57483,
+      "fontFamily": "Uim",
+      "identifier": "googlePlay",
+      "duotone": true
+    },
     "graph-bar": {
-      "codepoint": 57423,
+      "codepoint": 57484,
       "fontFamily": "Uim",
       "identifier": "graphBar",
       "duotone": true
     },
     "grid": {
-      "codepoint": 57424,
+      "codepoint": 57485,
       "fontFamily": "Uim",
       "identifier": "grid",
       "duotone": true
     },
     "grids": {
-      "codepoint": 57425,
+      "codepoint": 57486,
       "fontFamily": "Uim",
       "identifier": "grids",
       "duotone": true
     },
     "grip-horizontal-line": {
-      "codepoint": 57426,
+      "codepoint": 57487,
       "fontFamily": "Uim",
       "identifier": "gripHorizontalLine"
     },
+    "head-side": {
+      "codepoint": 57488,
+      "fontFamily": "Uim",
+      "identifier": "headSide"
+    },
     "head-side-cough": {
-      "codepoint": 57427,
+      "codepoint": 57489,
       "fontFamily": "Uim",
       "identifier": "headSideCough",
       "duotone": true
     },
+    "head-side-mask": {
+      "codepoint": 57490,
+      "fontFamily": "Uim",
+      "identifier": "headSideMask",
+      "duotone": true
+    },
+    "hipchat": {
+      "codepoint": 57491,
+      "fontFamily": "Uim",
+      "identifier": "hipchat",
+      "duotone": true
+    },
     "history": {
-      "codepoint": 57428,
+      "codepoint": 57492,
       "fontFamily": "Uim",
       "identifier": "history",
       "duotone": true
     },
     "history-alt": {
-      "codepoint": 57429,
+      "codepoint": 57493,
       "fontFamily": "Uim",
       "identifier": "historyAlt",
       "duotone": true
     },
     "horizontal-align-left": {
-      "codepoint": 57430,
+      "codepoint": 57494,
       "fontFamily": "Uim",
       "identifier": "horizontalAlignLeft",
       "duotone": true
     },
     "hospital": {
-      "codepoint": 57431,
+      "codepoint": 57495,
       "fontFamily": "Uim",
       "identifier": "hospital",
       "duotone": true
     },
     "hospital-square-sign": {
-      "codepoint": 57432,
+      "codepoint": 57496,
       "fontFamily": "Uim",
       "identifier": "hospitalSquareSign",
       "duotone": true
     },
     "hospital-symbol": {
-      "codepoint": 57433,
+      "codepoint": 57497,
       "fontFamily": "Uim",
       "identifier": "hospitalSymbol",
       "duotone": true
     },
     "house-user": {
-      "codepoint": 57434,
+      "codepoint": 57498,
       "fontFamily": "Uim",
       "identifier": "houseUser",
       "duotone": true
     },
+    "html3": {
+      "codepoint": 57499,
+      "fontFamily": "Uim",
+      "identifier": "html3",
+      "duotone": true
+    },
+    "html3-alt": {
+      "codepoint": 57500,
+      "fontFamily": "Uim",
+      "identifier": "html3Alt",
+      "duotone": true
+    },
+    "html5": {
+      "codepoint": 57501,
+      "fontFamily": "Uim",
+      "identifier": "html5",
+      "duotone": true
+    },
+    "html5-alt": {
+      "codepoint": 57502,
+      "fontFamily": "Uim",
+      "identifier": "html5Alt",
+      "duotone": true
+    },
     "image-v": {
-      "codepoint": 57435,
+      "codepoint": 57503,
       "fontFamily": "Uim",
       "identifier": "imageV",
       "duotone": true
     },
+    "instagram": {
+      "codepoint": 57504,
+      "fontFamily": "Uim",
+      "identifier": "instagram"
+    },
+    "instagram-alt": {
+      "codepoint": 57505,
+      "fontFamily": "Uim",
+      "identifier": "instagramAlt",
+      "duotone": true
+    },
+    "intercom": {
+      "codepoint": 57506,
+      "fontFamily": "Uim",
+      "identifier": "intercom",
+      "duotone": true
+    },
     "intercom-alt": {
-      "codepoint": 57436,
+      "codepoint": 57507,
       "fontFamily": "Uim",
       "identifier": "intercomAlt",
       "duotone": true
     },
+    "java-script": {
+      "codepoint": 57508,
+      "fontFamily": "Uim",
+      "identifier": "javaScript"
+    },
+    "key-skeleton": {
+      "codepoint": 57509,
+      "fontFamily": "Uim",
+      "identifier": "keySkeleton",
+      "duotone": true
+    },
     "key-skeleton-alt": {
-      "codepoint": 57437,
+      "codepoint": 57510,
       "fontFamily": "Uim",
       "identifier": "keySkeletonAlt",
       "duotone": true
     },
     "keyhole-circle": {
-      "codepoint": 57438,
+      "codepoint": 57511,
       "fontFamily": "Uim",
       "identifier": "keyholeCircle",
       "duotone": true
     },
     "keyhole-square": {
-      "codepoint": 57439,
+      "codepoint": 57512,
       "fontFamily": "Uim",
       "identifier": "keyholeSquare",
       "duotone": true
     },
     "keyhole-square-full": {
-      "codepoint": 57440,
+      "codepoint": 57513,
       "fontFamily": "Uim",
       "identifier": "keyholeSquareFull",
       "duotone": true
     },
     "layer-group": {
-      "codepoint": 57441,
+      "codepoint": 57514,
       "fontFamily": "Uim",
       "identifier": "layerGroup",
       "duotone": true
     },
     "layers-alt": {
-      "codepoint": 57442,
+      "codepoint": 57515,
       "fontFamily": "Uim",
       "identifier": "layersAlt",
       "duotone": true
     },
+    "left-indent": {
+      "codepoint": 57516,
+      "fontFamily": "Uim",
+      "identifier": "leftIndent",
+      "duotone": true
+    },
+    "left-indent-alt": {
+      "codepoint": 57517,
+      "fontFamily": "Uim",
+      "identifier": "leftIndentAlt",
+      "duotone": true
+    },
+    "line": {
+      "codepoint": 57518,
+      "fontFamily": "Uim",
+      "identifier": "line",
+      "duotone": true
+    },
+    "line-spacing": {
+      "codepoint": 57519,
+      "fontFamily": "Uim",
+      "identifier": "lineSpacing",
+      "duotone": true
+    },
     "link-h": {
-      "codepoint": 57443,
+      "codepoint": 57520,
       "fontFamily": "Uim",
       "identifier": "linkH",
       "duotone": true
     },
+    "linkedin": {
+      "codepoint": 57521,
+      "fontFamily": "Uim",
+      "identifier": "linkedin",
+      "duotone": true
+    },
     "linkedin-alt": {
-      "codepoint": 57444,
+      "codepoint": 57522,
       "fontFamily": "Uim",
       "identifier": "linkedinAlt"
     },
     "linux": {
-      "codepoint": 57445,
+      "codepoint": 57523,
       "fontFamily": "Uim",
       "identifier": "linux",
       "duotone": true
     },
     "list-ui-alt": {
-      "codepoint": 57446,
+      "codepoint": 57524,
       "fontFamily": "Uim",
       "identifier": "listUiAlt"
     },
     "list-ul": {
-      "codepoint": 57447,
+      "codepoint": 57525,
       "fontFamily": "Uim",
       "identifier": "listUl"
     },
     "lock": {
-      "codepoint": 57448,
+      "codepoint": 57526,
       "fontFamily": "Uim",
       "identifier": "lock",
       "duotone": true
     },
     "lock-access": {
-      "codepoint": 57449,
+      "codepoint": 57527,
       "fontFamily": "Uim",
       "identifier": "lockAccess",
       "duotone": true
     },
     "lock-alt": {
-      "codepoint": 57450,
+      "codepoint": 57528,
       "fontFamily": "Uim",
       "identifier": "lockAlt",
       "duotone": true
     },
+    "lock-open-alt": {
+      "codepoint": 57529,
+      "fontFamily": "Uim",
+      "identifier": "lockOpenAlt",
+      "duotone": true
+    },
     "lottiefiles": {
-      "codepoint": 57451,
+      "codepoint": 57530,
       "fontFamily": "Uim",
       "identifier": "lottiefiles",
       "duotone": true
     },
     "master-card": {
-      "codepoint": 57452,
+      "codepoint": 57531,
       "fontFamily": "Uim",
       "identifier": "masterCard",
       "duotone": true
     },
+    "medium-m": {
+      "codepoint": 57532,
+      "fontFamily": "Uim",
+      "identifier": "mediumM"
+    },
     "microscope": {
-      "codepoint": 57453,
+      "codepoint": 57533,
       "fontFamily": "Uim",
       "identifier": "microscope",
       "duotone": true
     },
     "microsoft": {
-      "codepoint": 57454,
+      "codepoint": 57534,
       "fontFamily": "Uim",
       "identifier": "microsoft"
     },
     "minus-square-full": {
-      "codepoint": 57455,
+      "codepoint": 57535,
       "fontFamily": "Uim",
       "identifier": "minusSquareFull",
       "duotone": true
     },
+    "multiply": {
+      "codepoint": 57536,
+      "fontFamily": "Uim",
+      "identifier": "multiply"
+    },
     "object-group": {
-      "codepoint": 57456,
+      "codepoint": 57537,
       "fontFamily": "Uim",
       "identifier": "objectGroup",
       "duotone": true
     },
     "object-ungroup": {
-      "codepoint": 57457,
+      "codepoint": 57538,
       "fontFamily": "Uim",
       "identifier": "objectUngroup",
       "duotone": true
     },
     "okta": {
-      "codepoint": 57458,
+      "codepoint": 57539,
       "fontFamily": "Uim",
       "identifier": "okta"
     },
+    "opera": {
+      "codepoint": 57540,
+      "fontFamily": "Uim",
+      "identifier": "opera"
+    },
+    "opera-alt": {
+      "codepoint": 57541,
+      "fontFamily": "Uim",
+      "identifier": "operaAlt"
+    },
     "padlock": {
-      "codepoint": 57459,
+      "codepoint": 57542,
       "fontFamily": "Uim",
       "identifier": "padlock",
       "duotone": true
     },
+    "pagelines": {
+      "codepoint": 57543,
+      "fontFamily": "Uim",
+      "identifier": "pagelines"
+    },
     "pagerduty": {
-      "codepoint": 57460,
+      "codepoint": 57544,
       "fontFamily": "Uim",
       "identifier": "pagerduty"
     },
     "paperclip": {
-      "codepoint": 57461,
+      "codepoint": 57545,
       "fontFamily": "Uim",
       "identifier": "paperclip"
     },
     "paragraph": {
-      "codepoint": 57462,
+      "codepoint": 57546,
       "fontFamily": "Uim",
       "identifier": "paragraph"
     },
+    "paypal": {
+      "codepoint": 57547,
+      "fontFamily": "Uim",
+      "identifier": "paypal",
+      "duotone": true
+    },
+    "pentagon": {
+      "codepoint": 57548,
+      "fontFamily": "Uim",
+      "identifier": "pentagon"
+    },
     "plus-square": {
-      "codepoint": 57463,
+      "codepoint": 57549,
       "fontFamily": "Uim",
       "identifier": "plusSquare",
       "duotone": true
     },
+    "polygon": {
+      "codepoint": 57550,
+      "fontFamily": "Uim",
+      "identifier": "polygon"
+    },
+    "previous": {
+      "codepoint": 57551,
+      "fontFamily": "Uim",
+      "identifier": "previous"
+    },
     "process": {
-      "codepoint": 57464,
+      "codepoint": 57552,
       "fontFamily": "Uim",
       "identifier": "process"
     },
+    "react": {
+      "codepoint": 57553,
+      "fontFamily": "Uim",
+      "identifier": "react"
+    },
     "record-audio": {
-      "codepoint": 57465,
+      "codepoint": 57554,
       "fontFamily": "Uim",
       "identifier": "recordAudio",
       "duotone": true
     },
+    "reddit-alien-alt": {
+      "codepoint": 57555,
+      "fontFamily": "Uim",
+      "identifier": "redditAlienAlt",
+      "duotone": true
+    },
     "redo": {
-      "codepoint": 57466,
+      "codepoint": 57556,
       "fontFamily": "Uim",
       "identifier": "redo"
     },
     "refresh": {
-      "codepoint": 57467,
+      "codepoint": 57557,
       "fontFamily": "Uim",
       "identifier": "refresh",
       "duotone": true
     },
+    "repeat": {
+      "codepoint": 57558,
+      "fontFamily": "Uim",
+      "identifier": "repeat",
+      "duotone": true
+    },
+    "right-indent-alt": {
+      "codepoint": 57559,
+      "fontFamily": "Uim",
+      "identifier": "rightIndentAlt",
+      "duotone": true
+    },
+    "rocket": {
+      "codepoint": 57560,
+      "fontFamily": "Uim",
+      "identifier": "rocket",
+      "duotone": true
+    },
     "ruler": {
-      "codepoint": 57468,
+      "codepoint": 57561,
       "fontFamily": "Uim",
       "identifier": "ruler",
       "duotone": true
     },
     "ruler-combined": {
-      "codepoint": 57469,
+      "codepoint": 57562,
       "fontFamily": "Uim",
       "identifier": "rulerCombined",
       "duotone": true
     },
+    "sanitizer": {
+      "codepoint": 57563,
+      "fontFamily": "Uim",
+      "identifier": "sanitizer",
+      "duotone": true
+    },
     "sanitizer-alt": {
-      "codepoint": 57470,
+      "codepoint": 57564,
       "fontFamily": "Uim",
       "identifier": "sanitizerAlt",
       "duotone": true
     },
     "scenery": {
-      "codepoint": 57471,
+      "codepoint": 57565,
       "fontFamily": "Uim",
       "identifier": "scenery",
       "duotone": true
     },
     "schedule": {
-      "codepoint": 57472,
+      "codepoint": 57566,
       "fontFamily": "Uim",
       "identifier": "schedule",
       "duotone": true
     },
     "shield-plus": {
-      "codepoint": 57473,
+      "codepoint": 57567,
       "fontFamily": "Uim",
       "identifier": "shieldPlus",
       "duotone": true
     },
     "sign-in": {
-      "codepoint": 57474,
+      "codepoint": 57568,
       "fontFamily": "Uim",
       "identifier": "signIn",
       "duotone": true
     },
+    "sign-in-alt": {
+      "codepoint": 57569,
+      "fontFamily": "Uim",
+      "identifier": "signInAlt",
+      "duotone": true
+    },
     "sign-out": {
-      "codepoint": 57475,
+      "codepoint": 57570,
       "fontFamily": "Uim",
       "identifier": "signOut",
       "duotone": true
     },
     "sign-out-alt": {
-      "codepoint": 57476,
+      "codepoint": 57571,
       "fontFamily": "Uim",
       "identifier": "signOutAlt",
       "duotone": true
     },
     "signal-alt": {
-      "codepoint": 57477,
+      "codepoint": 57572,
       "fontFamily": "Uim",
       "identifier": "signalAlt"
     },
     "signal-alt-3": {
-      "codepoint": 57478,
+      "codepoint": 57573,
       "fontFamily": "Uim",
       "identifier": "signalAlt3",
       "duotone": true
     },
     "signin": {
-      "codepoint": 57479,
+      "codepoint": 57574,
       "fontFamily": "Uim",
       "identifier": "signin",
       "duotone": true
     },
     "signout": {
-      "codepoint": 57480,
+      "codepoint": 57575,
       "fontFamily": "Uim",
       "identifier": "signout",
       "duotone": true
     },
+    "skype": {
+      "codepoint": 57576,
+      "fontFamily": "Uim",
+      "identifier": "skype",
+      "duotone": true
+    },
+    "skype-alt": {
+      "codepoint": 57577,
+      "fontFamily": "Uim",
+      "identifier": "skypeAlt",
+      "duotone": true
+    },
     "slack": {
-      "codepoint": 57481,
+      "codepoint": 57578,
       "fontFamily": "Uim",
       "identifier": "slack",
       "duotone": true
     },
     "slack-alt": {
-      "codepoint": 57482,
+      "codepoint": 57579,
       "fontFamily": "Uim",
       "identifier": "slackAlt",
       "duotone": true
     },
+    "snapchat-alt": {
+      "codepoint": 57580,
+      "fontFamily": "Uim",
+      "identifier": "snapchatAlt"
+    },
+    "snapchat-ghost": {
+      "codepoint": 57581,
+      "fontFamily": "Uim",
+      "identifier": "snapchatGhost"
+    },
+    "snapchat-square": {
+      "codepoint": 57582,
+      "fontFamily": "Uim",
+      "identifier": "snapchatSquare",
+      "duotone": true
+    },
+    "social-distancing": {
+      "codepoint": 57583,
+      "fontFamily": "Uim",
+      "identifier": "socialDistancing",
+      "duotone": true
+    },
+    "sorting": {
+      "codepoint": 57584,
+      "fontFamily": "Uim",
+      "identifier": "sorting"
+    },
     "space-key": {
-      "codepoint": 57483,
+      "codepoint": 57585,
       "fontFamily": "Uim",
       "identifier": "spaceKey"
     },
     "square": {
-      "codepoint": 57484,
+      "codepoint": 57586,
       "fontFamily": "Uim",
       "identifier": "square"
     },
     "square-full": {
-      "codepoint": 57485,
+      "codepoint": 57587,
       "fontFamily": "Uim",
       "identifier": "squareFull"
     },
     "square-shape": {
-      "codepoint": 57486,
+      "codepoint": 57588,
       "fontFamily": "Uim",
       "identifier": "squareShape"
     },
     "squre-shape": {
-      "codepoint": 57487,
+      "codepoint": 57589,
       "fontFamily": "Uim",
       "identifier": "squreShape"
     },
+    "star": {
+      "codepoint": 57590,
+      "fontFamily": "Uim",
+      "identifier": "star"
+    },
+    "star-half-alt": {
+      "codepoint": 57591,
+      "fontFamily": "Uim",
+      "identifier": "starHalfAlt",
+      "duotone": true
+    },
+    "step-forward": {
+      "codepoint": 57592,
+      "fontFamily": "Uim",
+      "identifier": "stepForward"
+    },
+    "stethoscope": {
+      "codepoint": 57593,
+      "fontFamily": "Uim",
+      "identifier": "stethoscope",
+      "duotone": true
+    },
+    "stethoscope-alt": {
+      "codepoint": 57594,
+      "fontFamily": "Uim",
+      "identifier": "stethoscopeAlt",
+      "duotone": true
+    },
+    "store-slash": {
+      "codepoint": 57595,
+      "fontFamily": "Uim",
+      "identifier": "storeSlash",
+      "duotone": true
+    },
     "subject": {
-      "codepoint": 57488,
+      "codepoint": 57596,
       "fontFamily": "Uim",
       "identifier": "subject"
     },
     "sync-exclamation": {
-      "codepoint": 57489,
+      "codepoint": 57597,
       "fontFamily": "Uim",
       "identifier": "syncExclamation",
       "duotone": true
     },
     "sync-slash": {
-      "codepoint": 57490,
+      "codepoint": 57598,
       "fontFamily": "Uim",
       "identifier": "syncSlash",
       "duotone": true
     },
     "table": {
-      "codepoint": 57491,
+      "codepoint": 57599,
       "fontFamily": "Uim",
       "identifier": "table"
     },
+    "telegram": {
+      "codepoint": 57600,
+      "fontFamily": "Uim",
+      "identifier": "telegram",
+      "duotone": true
+    },
+    "telegram-alt": {
+      "codepoint": 57601,
+      "fontFamily": "Uim",
+      "identifier": "telegramAlt",
+      "duotone": true
+    },
     "th-large": {
-      "codepoint": 57492,
+      "codepoint": 57602,
       "fontFamily": "Uim",
       "identifier": "thLarge"
     },
     "times-circle": {
-      "codepoint": 57493,
+      "codepoint": 57603,
       "fontFamily": "Uim",
       "identifier": "timesCircle",
       "duotone": true
     },
     "toggle-off": {
-      "codepoint": 57494,
+      "codepoint": 57604,
       "fontFamily": "Uim",
       "identifier": "toggleOff",
       "duotone": true
     },
     "toggle-on": {
-      "codepoint": 57495,
+      "codepoint": 57605,
       "fontFamily": "Uim",
       "identifier": "toggleOn",
       "duotone": true
     },
     "toilet-paper": {
-      "codepoint": 57496,
+      "codepoint": 57606,
       "fontFamily": "Uim",
       "identifier": "toiletPaper",
       "duotone": true
     },
+    "triangle": {
+      "codepoint": 57607,
+      "fontFamily": "Uim",
+      "identifier": "triangle"
+    },
+    "tumblr": {
+      "codepoint": 57608,
+      "fontFamily": "Uim",
+      "identifier": "tumblr"
+    },
+    "tumblr-alt": {
+      "codepoint": 57609,
+      "fontFamily": "Uim",
+      "identifier": "tumblrAlt"
+    },
+    "tumblr-square": {
+      "codepoint": 57610,
+      "fontFamily": "Uim",
+      "identifier": "tumblrSquare",
+      "duotone": true
+    },
+    "twitter": {
+      "codepoint": 57611,
+      "fontFamily": "Uim",
+      "identifier": "twitter"
+    },
+    "twitter-alt": {
+      "codepoint": 57612,
+      "fontFamily": "Uim",
+      "identifier": "twitterAlt"
+    },
     "unlock": {
-      "codepoint": 57497,
+      "codepoint": 57613,
       "fontFamily": "Uim",
       "identifier": "unlock",
       "duotone": true
     },
     "unlock-alt": {
-      "codepoint": 57498,
+      "codepoint": 57614,
       "fontFamily": "Uim",
       "identifier": "unlockAlt",
       "duotone": true
     },
     "upload-alt": {
-      "codepoint": 57499,
+      "codepoint": 57615,
       "fontFamily": "Uim",
       "identifier": "uploadAlt",
       "duotone": true
     },
+    "user-arrows": {
+      "codepoint": 57616,
+      "fontFamily": "Uim",
+      "identifier": "userArrows",
+      "duotone": true
+    },
+    "user-md": {
+      "codepoint": 57617,
+      "fontFamily": "Uim",
+      "identifier": "userMd",
+      "duotone": true
+    },
     "user-nurse": {
-      "codepoint": 57500,
+      "codepoint": 57618,
       "fontFamily": "Uim",
       "identifier": "userNurse",
       "duotone": true
     },
     "vector-square": {
-      "codepoint": 57501,
+      "codepoint": 57619,
       "fontFamily": "Uim",
       "identifier": "vectorSquare",
       "duotone": true
     },
     "vector-square-alt": {
-      "codepoint": 57502,
+      "codepoint": 57620,
       "fontFamily": "Uim",
       "identifier": "vectorSquareAlt",
       "duotone": true
     },
+    "virus-slash": {
+      "codepoint": 57621,
+      "fontFamily": "Uim",
+      "identifier": "virusSlash",
+      "duotone": true
+    },
     "visual-studio": {
-      "codepoint": 57503,
+      "codepoint": 57622,
       "fontFamily": "Uim",
       "identifier": "visualStudio"
     },
+    "vk": {
+      "codepoint": 57623,
+      "fontFamily": "Uim",
+      "identifier": "vk",
+      "duotone": true
+    },
+    "vk-alt": {
+      "codepoint": 57624,
+      "fontFamily": "Uim",
+      "identifier": "vkAlt",
+      "duotone": true
+    },
+    "vuejs": {
+      "codepoint": 57625,
+      "fontFamily": "Uim",
+      "identifier": "vuejs",
+      "duotone": true
+    },
+    "vuejs-alt": {
+      "codepoint": 57626,
+      "fontFamily": "Uim",
+      "identifier": "vuejsAlt",
+      "duotone": true
+    },
     "web-grid": {
-      "codepoint": 57504,
+      "codepoint": 57627,
       "fontFamily": "Uim",
       "identifier": "webGrid",
       "duotone": true
     },
     "web-grid-alt": {
-      "codepoint": 57505,
+      "codepoint": 57628,
       "fontFamily": "Uim",
       "identifier": "webGridAlt",
       "duotone": true
     },
     "web-section": {
-      "codepoint": 57506,
+      "codepoint": 57629,
       "fontFamily": "Uim",
       "identifier": "webSection",
       "duotone": true
     },
     "web-section-alt": {
-      "codepoint": 57507,
+      "codepoint": 57630,
       "fontFamily": "Uim",
       "identifier": "webSectionAlt",
       "duotone": true
     },
+    "whatsapp": {
+      "codepoint": 57631,
+      "fontFamily": "Uim",
+      "identifier": "whatsapp"
+    },
     "window-grid": {
-      "codepoint": 57508,
+      "codepoint": 57632,
       "fontFamily": "Uim",
       "identifier": "windowGrid",
       "duotone": true
     },
     "window-maximize": {
-      "codepoint": 57509,
+      "codepoint": 57633,
       "fontFamily": "Uim",
       "identifier": "windowMaximize",
       "duotone": true
     },
     "window-section": {
-      "codepoint": 57510,
+      "codepoint": 57634,
       "fontFamily": "Uim",
       "identifier": "windowSection",
+      "duotone": true
+    },
+    "windows": {
+      "codepoint": 57635,
+      "fontFamily": "Uim",
+      "identifier": "windows"
+    },
+    "wordpress": {
+      "codepoint": 57636,
+      "fontFamily": "Uim",
+      "identifier": "wordpress",
+      "duotone": true
+    },
+    "wordpress-simple": {
+      "codepoint": 57637,
+      "fontFamily": "Uim",
+      "identifier": "wordpressSimple",
+      "duotone": true
+    },
+    "wrap-text": {
+      "codepoint": 57638,
+      "fontFamily": "Uim",
+      "identifier": "wrapText",
       "duotone": true
     }
   }

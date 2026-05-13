@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'GPL 2.0',
   licenseSpdx: 'GPL-2.0-only',
   licenseUrl: 'https://github.com/Automattic/gridicons/blob/trunk/LICENSE.md',
-  iconCount: 153,
+  iconCount: 207,
 );

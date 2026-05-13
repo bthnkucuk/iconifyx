@@ -16,13 +16,13 @@
       "spdx": "CC0-1.0",
       "url": "https://creativecommons.org/publicdomain/zero/1.0/"
     },
-    "total": 82
+    "total": 72
   },
   "fonts": [
     {
       "family": "Cif",
-      "nextCodepoint": 57426,
-      "iconCount": 82
+      "nextCodepoint": 57416,
+      "iconCount": 72
     }
   ],
   "icons": {
@@ -46,393 +46,343 @@
       "fontFamily": "Cif",
       "identifier": "ao"
     },
-    "au": {
-      "codepoint": 57348,
-      "fontFamily": "Cif",
-      "identifier": "au"
-    },
     "az": {
-      "codepoint": 57349,
+      "codepoint": 57348,
       "fontFamily": "Cif",
       "identifier": "az"
     },
     "bb": {
-      "codepoint": 57350,
+      "codepoint": 57349,
       "fontFamily": "Cif",
       "identifier": "bb"
     },
     "bd": {
-      "codepoint": 57351,
+      "codepoint": 57350,
       "fontFamily": "Cif",
       "identifier": "bd"
     },
     "bh": {
-      "codepoint": 57352,
+      "codepoint": 57351,
       "fontFamily": "Cif",
       "identifier": "bh"
     },
-    "bi": {
-      "codepoint": 57353,
-      "fontFamily": "Cif",
-      "identifier": "bi"
-    },
     "bs": {
-      "codepoint": 57354,
+      "codepoint": 57352,
       "fontFamily": "Cif",
       "identifier": "bs"
     },
     "bt": {
-      "codepoint": 57355,
+      "codepoint": 57353,
       "fontFamily": "Cif",
       "identifier": "bt"
     },
     "bw": {
-      "codepoint": 57356,
+      "codepoint": 57354,
       "fontFamily": "Cif",
       "identifier": "bw"
     },
     "ca": {
-      "codepoint": 57357,
+      "codepoint": 57355,
       "fontFamily": "Cif",
       "identifier": "ca"
     },
     "cd": {
-      "codepoint": 57358,
+      "codepoint": 57356,
       "fontFamily": "Cif",
       "identifier": "cd"
     },
     "ch": {
-      "codepoint": 57359,
+      "codepoint": 57357,
       "fontFamily": "Cif",
       "identifier": "ch"
     },
     "cl": {
-      "codepoint": 57360,
+      "codepoint": 57358,
       "fontFamily": "Cif",
       "identifier": "cl"
     },
     "cm": {
-      "codepoint": 57361,
+      "codepoint": 57359,
       "fontFamily": "Cif",
       "identifier": "cm"
     },
     "cr": {
-      "codepoint": 57362,
+      "codepoint": 57360,
       "fontFamily": "Cif",
       "identifier": "cr"
     },
     "cu": {
-      "codepoint": 57363,
+      "codepoint": 57361,
       "fontFamily": "Cif",
       "identifier": "cu"
     },
     "de": {
-      "codepoint": 57364,
+      "codepoint": 57362,
       "fontFamily": "Cif",
       "identifier": "de"
     },
     "dk": {
-      "codepoint": 57365,
+      "codepoint": 57363,
       "fontFamily": "Cif",
       "identifier": "dk"
     },
     "fm": {
-      "codepoint": 57366,
+      "codepoint": 57364,
       "fontFamily": "Cif",
       "identifier": "fm"
     },
     "gb": {
-      "codepoint": 57367,
+      "codepoint": 57365,
       "fontFamily": "Cif",
       "identifier": "gb"
     },
     "gd": {
-      "codepoint": 57368,
+      "codepoint": 57366,
       "fontFamily": "Cif",
       "identifier": "gd"
     },
     "ge": {
-      "codepoint": 57369,
+      "codepoint": 57367,
       "fontFamily": "Cif",
       "identifier": "ge"
     },
     "gh": {
-      "codepoint": 57370,
+      "codepoint": 57368,
       "fontFamily": "Cif",
       "identifier": "gh"
     },
     "gr": {
-      "codepoint": 57371,
+      "codepoint": 57369,
       "fontFamily": "Cif",
       "identifier": "gr"
     },
     "hk": {
-      "codepoint": 57372,
+      "codepoint": 57370,
       "fontFamily": "Cif",
       "identifier": "hk"
     },
     "hn": {
-      "codepoint": 57373,
+      "codepoint": 57371,
       "fontFamily": "Cif",
       "identifier": "hn"
     },
     "id": {
-      "codepoint": 57374,
+      "codepoint": 57372,
       "fontFamily": "Cif",
       "identifier": "id"
     },
     "il": {
-      "codepoint": 57375,
+      "codepoint": 57373,
       "fontFamily": "Cif",
       "identifier": "il"
     },
     "iq": {
-      "codepoint": 57376,
+      "codepoint": 57374,
       "fontFamily": "Cif",
       "identifier": "iq"
     },
     "ir": {
-      "codepoint": 57377,
+      "codepoint": 57375,
       "fontFamily": "Cif",
       "identifier": "ir"
     },
-    "jm": {
-      "codepoint": 57378,
-      "fontFamily": "Cif",
-      "identifier": "jm"
-    },
     "jo": {
-      "codepoint": 57379,
+      "codepoint": 57376,
       "fontFamily": "Cif",
       "identifier": "jo"
     },
     "jp": {
-      "codepoint": 57380,
+      "codepoint": 57377,
       "fontFamily": "Cif",
       "identifier": "jp"
     },
     "ke": {
-      "codepoint": 57381,
+      "codepoint": 57378,
       "fontFamily": "Cif",
       "identifier": "ke"
     },
-    "kh": {
-      "codepoint": 57382,
-      "fontFamily": "Cif",
-      "identifier": "kh"
-    },
     "ki": {
-      "codepoint": 57383,
+      "codepoint": 57379,
       "fontFamily": "Cif",
       "identifier": "ki"
     },
     "kp": {
-      "codepoint": 57384,
+      "codepoint": 57380,
       "fontFamily": "Cif",
       "identifier": "kp"
     },
     "kw": {
-      "codepoint": 57385,
+      "codepoint": 57381,
       "fontFamily": "Cif",
       "identifier": "kw"
     },
     "lb": {
-      "codepoint": 57386,
+      "codepoint": 57382,
       "fontFamily": "Cif",
       "identifier": "lb"
     },
     "lc": {
-      "codepoint": 57387,
+      "codepoint": 57383,
       "fontFamily": "Cif",
       "identifier": "lc"
     },
     "li": {
-      "codepoint": 57388,
+      "codepoint": 57384,
       "fontFamily": "Cif",
       "identifier": "li"
     },
     "lt": {
-      "codepoint": 57389,
+      "codepoint": 57385,
       "fontFamily": "Cif",
       "identifier": "lt"
     },
     "lv": {
-      "codepoint": 57390,
+      "codepoint": 57386,
       "fontFamily": "Cif",
       "identifier": "lv"
     },
     "mc": {
-      "codepoint": 57391,
+      "codepoint": 57387,
       "fontFamily": "Cif",
       "identifier": "mc"
     },
     "ml": {
-      "codepoint": 57392,
+      "codepoint": 57388,
       "fontFamily": "Cif",
       "identifier": "ml"
     },
     "nr": {
-      "codepoint": 57393,
+      "codepoint": 57389,
       "fontFamily": "Cif",
       "identifier": "nr"
     },
     "nu": {
-      "codepoint": 57394,
+      "codepoint": 57390,
       "fontFamily": "Cif",
       "identifier": "nu"
     },
-    "nz": {
-      "codepoint": 57395,
-      "fontFamily": "Cif",
-      "identifier": "nz"
-    },
     "om": {
-      "codepoint": 57396,
+      "codepoint": 57391,
       "fontFamily": "Cif",
       "identifier": "om"
     },
     "pg": {
-      "codepoint": 57397,
+      "codepoint": 57392,
       "fontFamily": "Cif",
       "identifier": "pg"
     },
     "ph": {
-      "codepoint": 57398,
+      "codepoint": 57393,
       "fontFamily": "Cif",
       "identifier": "ph"
     },
     "pk": {
-      "codepoint": 57399,
+      "codepoint": 57394,
       "fontFamily": "Cif",
       "identifier": "pk"
     },
     "pl": {
-      "codepoint": 57400,
+      "codepoint": 57395,
       "fontFamily": "Cif",
       "identifier": "pl"
     },
-    "pt": {
-      "codepoint": 57401,
-      "fontFamily": "Cif",
-      "identifier": "pt"
-    },
     "pw": {
-      "codepoint": 57402,
+      "codepoint": 57396,
       "fontFamily": "Cif",
       "identifier": "pw"
     },
     "py": {
-      "codepoint": 57403,
+      "codepoint": 57397,
       "fontFamily": "Cif",
       "identifier": "py"
     },
     "qa": {
-      "codepoint": 57404,
+      "codepoint": 57398,
       "fontFamily": "Cif",
       "identifier": "qa"
     },
     "ro": {
-      "codepoint": 57405,
+      "codepoint": 57399,
       "fontFamily": "Cif",
       "identifier": "ro"
     },
     "ru": {
-      "codepoint": 57406,
+      "codepoint": 57400,
       "fontFamily": "Cif",
       "identifier": "ru"
     },
     "sa": {
-      "codepoint": 57407,
+      "codepoint": 57401,
       "fontFamily": "Cif",
       "identifier": "sa"
     },
-    "sb": {
-      "codepoint": 57408,
-      "fontFamily": "Cif",
-      "identifier": "sb"
-    },
-    "sk": {
-      "codepoint": 57409,
-      "fontFamily": "Cif",
-      "identifier": "sk"
-    },
     "sl": {
-      "codepoint": 57410,
+      "codepoint": 57402,
       "fontFamily": "Cif",
       "identifier": "sl"
     },
     "sn": {
-      "codepoint": 57411,
+      "codepoint": 57403,
       "fontFamily": "Cif",
       "identifier": "sn"
     },
     "sy": {
-      "codepoint": 57412,
+      "codepoint": 57404,
       "fontFamily": "Cif",
       "identifier": "sy"
     },
     "th": {
-      "codepoint": 57413,
+      "codepoint": 57405,
       "fontFamily": "Cif",
       "identifier": "th"
     },
     "tj": {
-      "codepoint": 57414,
+      "codepoint": 57406,
       "fontFamily": "Cif",
       "identifier": "tj"
     },
     "tr": {
-      "codepoint": 57415,
+      "codepoint": 57407,
       "fontFamily": "Cif",
       "identifier": "tr"
     },
     "tt": {
-      "codepoint": 57416,
+      "codepoint": 57408,
       "fontFamily": "Cif",
       "identifier": "tt"
     },
-    "tv": {
-      "codepoint": 57417,
-      "fontFamily": "Cif",
-      "identifier": "tv"
-    },
-    "tz": {
-      "codepoint": 57418,
-      "fontFamily": "Cif",
-      "identifier": "tz"
-    },
     "ua": {
-      "codepoint": 57419,
+      "codepoint": 57409,
       "fontFamily": "Cif",
       "identifier": "ua"
     },
     "uy": {
-      "codepoint": 57420,
+      "codepoint": 57410,
       "fontFamily": "Cif",
       "identifier": "uy"
     },
     "uz": {
-      "codepoint": 57421,
+      "codepoint": 57411,
       "fontFamily": "Cif",
       "identifier": "uz"
     },
     "ve": {
-      "codepoint": 57422,
+      "codepoint": 57412,
       "fontFamily": "Cif",
       "identifier": "ve"
     },
     "vn": {
-      "codepoint": 57423,
+      "codepoint": 57413,
       "fontFamily": "Cif",
       "identifier": "vn"
     },
     "ws": {
-      "codepoint": 57424,
+      "codepoint": 57414,
       "fontFamily": "Cif",
       "identifier": "ws"
     },
     "ye": {
-      "codepoint": 57425,
+      "codepoint": 57415,
       "fontFamily": "Cif",
       "identifier": "ye"
     }

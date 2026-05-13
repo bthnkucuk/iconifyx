@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/cugos/geoglyphs/blob/main/LICENSE.md',
-  iconCount: 9,
+  iconCount: 30,
 );

@@ -578,6 +578,10 @@ class _IconGridArea extends StatelessWidget {
                     builder: (context, c) {
                       final cols = (c.maxWidth / tile).floor().clamp(2, 16);
                       return GridView.builder(
+                        // Resetting on set change forces a fresh render
+                        // (and clears any stale tile from the previous
+                        // set's font lookup).
+                        key: ValueKey('grid-${s.prefix}'),
                         padding: const EdgeInsets.fromLTRB(16, 8, 16, 24),
                         gridDelegate:
                             SliverGridDelegateWithFixedCrossAxisCount(
@@ -588,6 +592,13 @@ class _IconGridArea extends StatelessWidget {
                         itemBuilder: (context, i) {
                           final e = icons[i];
                           return _IconTile(
+                            // Keying by icon identity (not list position)
+                            // prevents Flutter from recycling a tile whose
+                            // glyph rendering hasn't caught up after a
+                            // fling, which was showing a lower-row icon in
+                            // an upper slot.
+                            key: ValueKey(
+                                '${s.prefix}/${e.name}/${e.data.codePoint}'),
                             entry: e,
                             iconSize: iconSize,
                             primary: primaryColor,
@@ -647,6 +658,7 @@ class _IconTile extends StatelessWidget {
   final String packageName;
 
   const _IconTile({
+    super.key,
     required this.entry,
     required this.iconSize,
     required this.primary,

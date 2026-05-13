@@ -16,63 +16,122 @@
       "spdx": "MIT",
       "url": "https://github.com/designmodo/Flat-UI/blob/master/LICENSE"
     },
-    "total": 8
+    "total": 19
   },
   "fonts": [
     {
       "family": "FlatUi",
-      "nextCodepoint": 57352,
-      "iconCount": 8
+      "nextCodepoint": 57363,
+      "iconCount": 19
     },
     {
       "family": "FlatUiSecondary",
-      "nextCodepoint": 57352,
-      "iconCount": 3
+      "nextCodepoint": 57363,
+      "iconCount": 7
     }
   ],
   "icons": {
-    "arrow": {
+    "app-store": {
       "codepoint": 57344,
+      "fontFamily": "FlatUi",
+      "identifier": "appStore"
+    },
+    "arrow": {
+      "codepoint": 57345,
       "fontFamily": "FlatUi",
       "identifier": "arrow"
     },
     "box": {
-      "codepoint": 57345,
+      "codepoint": 57346,
       "fontFamily": "FlatUi",
       "identifier": "box",
       "duotone": true
     },
+    "chat": {
+      "codepoint": 57347,
+      "fontFamily": "FlatUi",
+      "identifier": "chat"
+    },
+    "clipboard": {
+      "codepoint": 57348,
+      "fontFamily": "FlatUi",
+      "identifier": "clipboard",
+      "duotone": true
+    },
     "egg": {
-      "codepoint": 57346,
+      "codepoint": 57349,
       "fontFamily": "FlatUi",
       "identifier": "egg"
     },
     "file": {
-      "codepoint": 57347,
+      "codepoint": 57350,
       "fontFamily": "FlatUi",
       "identifier": "file"
     },
+    "games": {
+      "codepoint": 57351,
+      "fontFamily": "FlatUi",
+      "identifier": "games"
+    },
+    "gift-box": {
+      "codepoint": 57352,
+      "fontFamily": "FlatUi",
+      "identifier": "giftBox",
+      "duotone": true
+    },
+    "lettersymbol": {
+      "codepoint": 57353,
+      "fontFamily": "FlatUi",
+      "identifier": "lettersymbol"
+    },
+    "lock": {
+      "codepoint": 57354,
+      "fontFamily": "FlatUi",
+      "identifier": "lock"
+    },
     "loop": {
-      "codepoint": 57348,
+      "codepoint": 57355,
       "fontFamily": "FlatUi",
       "identifier": "loop",
       "duotone": true
     },
     "magicmouse": {
-      "codepoint": 57349,
+      "codepoint": 57356,
       "fontFamily": "FlatUi",
       "identifier": "magicmouse"
     },
+    "money": {
+      "codepoint": 57357,
+      "fontFamily": "FlatUi",
+      "identifier": "money",
+      "duotone": true
+    },
+    "mountain": {
+      "codepoint": 57358,
+      "fontFamily": "FlatUi",
+      "identifier": "mountain"
+    },
     "paper-bag": {
-      "codepoint": 57350,
+      "codepoint": 57359,
       "fontFamily": "FlatUi",
       "identifier": "paperBag",
       "duotone": true
     },
+    "shield": {
+      "codepoint": 57360,
+      "fontFamily": "FlatUi",
+      "identifier": "shield",
+      "duotone": true
+    },
     "user-interface": {
-      "codepoint": 57351,
+      "codepoint": 57361,
       "fontFamily": "FlatUi",
       "identifier": "userInterface"
+    },
+    "wine": {
+      "codepoint": 57362,
+      "fontFamily": "FlatUi",
+      "identifier": "wine"
     }
   }
 }

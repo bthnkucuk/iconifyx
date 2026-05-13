@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Family
 /// License: MIT — https://github.com/familyjs/famicons/blob/main/LICENSE
-/// Icons: 1342
+/// Icons: 1339
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -6659,2753 +6659,2732 @@ class FamiconsIcons {
     fontPackage: 'iconifyx_famicons',
   ));
 
-  /// `phone-landscape`
-  static const IconifyIconData phoneLandscape = IconifyIconData(IconData(
-    0xe3b5,
-    fontFamily: 'Famicons',
-    fontPackage: 'iconifyx_famicons',
-  ));
-
   /// `phone-landscape-outline`
   static const IconifyIconData phoneLandscapeOutline = IconifyIconData(IconData(
-    0xe3b6,
+    0xe3b5,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `phone-landscape-sharp`
   static const IconifyIconData phoneLandscapeSharp = IconifyIconData(IconData(
-    0xe3b7,
-    fontFamily: 'Famicons',
-    fontPackage: 'iconifyx_famicons',
-  ));
-
-  /// `phone-portrait`
-  static const IconifyIconData phonePortrait = IconifyIconData(IconData(
-    0xe3b8,
+    0xe3b6,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `phone-portrait-outline`
   static const IconifyIconData phonePortraitOutline = IconifyIconData(IconData(
-    0xe3b9,
+    0xe3b7,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `phone-portrait-sharp`
   static const IconifyIconData phonePortraitSharp = IconifyIconData(IconData(
-    0xe3ba,
+    0xe3b8,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `pie-chart`
   static const IconifyIconData pieChart = IconifyIconData(IconData(
-    0xe3bb,
+    0xe3b9,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `pie-chart-outline`
   static const IconifyIconData pieChartOutline = IconifyIconData(IconData(
-    0xe3bc,
+    0xe3ba,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `pie-chart-sharp`
   static const IconifyIconData pieChartSharp = IconifyIconData(IconData(
-    0xe3bd,
+    0xe3bb,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `pin`
   static const IconifyIconData pin = IconifyIconData(IconData(
-    0xe3be,
+    0xe3bc,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `pin-outline`
   static const IconifyIconData pinOutline = IconifyIconData(IconData(
-    0xe3bf,
+    0xe3bd,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `pin-sharp`
   static const IconifyIconData pinSharp = IconifyIconData(IconData(
-    0xe3c0,
+    0xe3be,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `pint`
   static const IconifyIconData pint = IconifyIconData(IconData(
-    0xe3c1,
+    0xe3bf,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `pint-outline`
   static const IconifyIconData pintOutline = IconifyIconData(IconData(
-    0xe3c2,
+    0xe3c0,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `pint-sharp`
   static const IconifyIconData pintSharp = IconifyIconData(IconData(
-    0xe3c3,
+    0xe3c1,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `pizza`
   static const IconifyIconData pizza = IconifyIconData(IconData(
-    0xe3c4,
+    0xe3c2,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `pizza-outline`
   static const IconifyIconData pizzaOutline = IconifyIconData(IconData(
-    0xe3c5,
+    0xe3c3,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `pizza-sharp`
   static const IconifyIconData pizzaSharp = IconifyIconData(IconData(
-    0xe3c6,
+    0xe3c4,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `planet`
   static const IconifyIconData planet = IconifyIconData(IconData(
-    0xe3c7,
+    0xe3c5,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `planet-outline`
   static const IconifyIconData planetOutline = IconifyIconData(IconData(
-    0xe3c8,
+    0xe3c6,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `planet-sharp`
   static const IconifyIconData planetSharp = IconifyIconData(IconData(
-    0xe3c9,
+    0xe3c7,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play`
   static const IconifyIconData play = IconifyIconData(IconData(
-    0xe3ca,
+    0xe3c8,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-back`
   static const IconifyIconData playBack = IconifyIconData(IconData(
-    0xe3cb,
+    0xe3c9,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-back-circle`
   static const IconifyIconData playBackCircle = IconifyIconData(IconData(
-    0xe3cc,
+    0xe3ca,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-back-circle-outline`
   static const IconifyIconData playBackCircleOutline = IconifyIconData(IconData(
-    0xe3cd,
+    0xe3cb,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-back-circle-sharp`
   static const IconifyIconData playBackCircleSharp = IconifyIconData(IconData(
-    0xe3ce,
+    0xe3cc,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-back-outline`
   static const IconifyIconData playBackOutline = IconifyIconData(IconData(
-    0xe3cf,
+    0xe3cd,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-back-sharp`
   static const IconifyIconData playBackSharp = IconifyIconData(IconData(
-    0xe3d0,
+    0xe3ce,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-circle`
   static const IconifyIconData playCircle = IconifyIconData(IconData(
-    0xe3d1,
+    0xe3cf,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-circle-outline`
   static const IconifyIconData playCircleOutline = IconifyIconData(IconData(
-    0xe3d2,
+    0xe3d0,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-circle-sharp`
   static const IconifyIconData playCircleSharp = IconifyIconData(IconData(
-    0xe3d3,
+    0xe3d1,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-forward`
   static const IconifyIconData playForward = IconifyIconData(IconData(
-    0xe3d4,
+    0xe3d2,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-forward-circle`
   static const IconifyIconData playForwardCircle = IconifyIconData(IconData(
-    0xe3d5,
+    0xe3d3,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-forward-circle-outline`
   static const IconifyIconData playForwardCircleOutline = IconifyIconData(IconData(
-    0xe3d6,
+    0xe3d4,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-forward-circle-sharp`
   static const IconifyIconData playForwardCircleSharp = IconifyIconData(IconData(
-    0xe3d7,
+    0xe3d5,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-forward-outline`
   static const IconifyIconData playForwardOutline = IconifyIconData(IconData(
-    0xe3d8,
+    0xe3d6,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-forward-sharp`
   static const IconifyIconData playForwardSharp = IconifyIconData(IconData(
-    0xe3d9,
+    0xe3d7,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-outline`
   static const IconifyIconData playOutline = IconifyIconData(IconData(
-    0xe3da,
+    0xe3d8,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-sharp`
   static const IconifyIconData playSharp = IconifyIconData(IconData(
-    0xe3db,
+    0xe3d9,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-skip-back`
   static const IconifyIconData playSkipBack = IconifyIconData(IconData(
-    0xe3dc,
+    0xe3da,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-skip-back-circle`
   static const IconifyIconData playSkipBackCircle = IconifyIconData(IconData(
-    0xe3dd,
+    0xe3db,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-skip-back-circle-outline`
   static const IconifyIconData playSkipBackCircleOutline = IconifyIconData(IconData(
-    0xe3de,
+    0xe3dc,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-skip-back-circle-sharp`
   static const IconifyIconData playSkipBackCircleSharp = IconifyIconData(IconData(
-    0xe3df,
+    0xe3dd,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-skip-back-outline`
   static const IconifyIconData playSkipBackOutline = IconifyIconData(IconData(
-    0xe3e0,
+    0xe3de,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-skip-back-sharp`
   static const IconifyIconData playSkipBackSharp = IconifyIconData(IconData(
-    0xe3e1,
+    0xe3df,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-skip-forward`
   static const IconifyIconData playSkipForward = IconifyIconData(IconData(
-    0xe3e2,
+    0xe3e0,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-skip-forward-circle`
   static const IconifyIconData playSkipForwardCircle = IconifyIconData(IconData(
-    0xe3e3,
+    0xe3e1,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-skip-forward-circle-outline`
   static const IconifyIconData playSkipForwardCircleOutline = IconifyIconData(IconData(
-    0xe3e4,
+    0xe3e2,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-skip-forward-circle-sharp`
   static const IconifyIconData playSkipForwardCircleSharp = IconifyIconData(IconData(
-    0xe3e5,
+    0xe3e3,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-skip-forward-outline`
   static const IconifyIconData playSkipForwardOutline = IconifyIconData(IconData(
-    0xe3e6,
+    0xe3e4,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `play-skip-forward-sharp`
   static const IconifyIconData playSkipForwardSharp = IconifyIconData(IconData(
-    0xe3e7,
+    0xe3e5,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `podium`
   static const IconifyIconData podium = IconifyIconData(IconData(
-    0xe3e8,
+    0xe3e6,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `podium-outline`
   static const IconifyIconData podiumOutline = IconifyIconData(IconData(
-    0xe3e9,
+    0xe3e7,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `podium-sharp`
   static const IconifyIconData podiumSharp = IconifyIconData(IconData(
-    0xe3ea,
+    0xe3e8,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `power`
   static const IconifyIconData power = IconifyIconData(IconData(
-    0xe3eb,
+    0xe3e9,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `power-outline`
   static const IconifyIconData powerOutline = IconifyIconData(IconData(
-    0xe3ec,
+    0xe3ea,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `power-sharp`
   static const IconifyIconData powerSharp = IconifyIconData(IconData(
-    0xe3ed,
+    0xe3eb,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `pricetag`
   static const IconifyIconData pricetag = IconifyIconData(IconData(
-    0xe3ee,
+    0xe3ec,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `pricetag-outline`
   static const IconifyIconData pricetagOutline = IconifyIconData(IconData(
-    0xe3ef,
+    0xe3ed,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `pricetag-sharp`
   static const IconifyIconData pricetagSharp = IconifyIconData(IconData(
-    0xe3f0,
+    0xe3ee,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `pricetags`
   static const IconifyIconData pricetags = IconifyIconData(IconData(
-    0xe3f1,
+    0xe3ef,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `pricetags-outline`
   static const IconifyIconData pricetagsOutline = IconifyIconData(IconData(
-    0xe3f2,
+    0xe3f0,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `pricetags-sharp`
   static const IconifyIconData pricetagsSharp = IconifyIconData(IconData(
-    0xe3f3,
+    0xe3f1,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `print`
   static const IconifyIconData print = IconifyIconData(IconData(
-    0xe3f4,
+    0xe3f2,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `print-outline`
   static const IconifyIconData printOutline = IconifyIconData(IconData(
-    0xe3f5,
+    0xe3f3,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `print-sharp`
   static const IconifyIconData printSharp = IconifyIconData(IconData(
-    0xe3f6,
+    0xe3f4,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `prism`
   static const IconifyIconData prism = IconifyIconData(IconData(
-    0xe3f7,
+    0xe3f5,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `prism-outline`
   static const IconifyIconData prismOutline = IconifyIconData(IconData(
-    0xe3f8,
+    0xe3f6,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `prism-sharp`
   static const IconifyIconData prismSharp = IconifyIconData(IconData(
-    0xe3f9,
+    0xe3f7,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `pulse`
   static const IconifyIconData pulse = IconifyIconData(IconData(
-    0xe3fa,
+    0xe3f8,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `pulse-outline`
   static const IconifyIconData pulseOutline = IconifyIconData(IconData(
-    0xe3fb,
+    0xe3f9,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `pulse-sharp`
   static const IconifyIconData pulseSharp = IconifyIconData(IconData(
-    0xe3fc,
+    0xe3fa,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `push`
   static const IconifyIconData push = IconifyIconData(IconData(
-    0xe3fd,
+    0xe3fb,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `push-outline`
   static const IconifyIconData pushOutline = IconifyIconData(IconData(
-    0xe3fe,
+    0xe3fc,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `push-sharp`
   static const IconifyIconData pushSharp = IconifyIconData(IconData(
-    0xe3ff,
+    0xe3fd,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `qr-code`
   static const IconifyIconData qrCode = IconifyIconData(IconData(
-    0xe400,
+    0xe3fe,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `qr-code-outline`
   static const IconifyIconData qrCodeOutline = IconifyIconData(IconData(
-    0xe401,
+    0xe3ff,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `qr-code-sharp`
   static const IconifyIconData qrCodeSharp = IconifyIconData(IconData(
-    0xe402,
+    0xe400,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `radio`
   static const IconifyIconData radio = IconifyIconData(IconData(
-    0xe403,
+    0xe401,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `radio-button-off`
   static const IconifyIconData radioButtonOff = IconifyIconData(IconData(
-    0xe404,
+    0xe402,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `radio-button-off-outline`
   static const IconifyIconData radioButtonOffOutline = IconifyIconData(IconData(
-    0xe405,
+    0xe403,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `radio-button-off-sharp`
   static const IconifyIconData radioButtonOffSharp = IconifyIconData(IconData(
-    0xe406,
+    0xe404,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `radio-button-on`
   static const IconifyIconData radioButtonOn = IconifyIconData(IconData(
-    0xe407,
+    0xe405,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `radio-button-on-outline`
   static const IconifyIconData radioButtonOnOutline = IconifyIconData(IconData(
-    0xe408,
+    0xe406,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `radio-button-on-sharp`
   static const IconifyIconData radioButtonOnSharp = IconifyIconData(IconData(
-    0xe409,
+    0xe407,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `radio-outline`
   static const IconifyIconData radioOutline = IconifyIconData(IconData(
-    0xe40a,
+    0xe408,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `radio-sharp`
   static const IconifyIconData radioSharp = IconifyIconData(IconData(
-    0xe40b,
+    0xe409,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `rainy`
   static const IconifyIconData rainy = IconifyIconData(IconData(
-    0xe40c,
+    0xe40a,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `rainy-outline`
   static const IconifyIconData rainyOutline = IconifyIconData(IconData(
-    0xe40d,
+    0xe40b,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `rainy-sharp`
   static const IconifyIconData rainySharp = IconifyIconData(IconData(
-    0xe40e,
+    0xe40c,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `reader`
   static const IconifyIconData reader = IconifyIconData(IconData(
-    0xe40f,
+    0xe40d,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `reader-outline`
   static const IconifyIconData readerOutline = IconifyIconData(IconData(
-    0xe410,
+    0xe40e,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `reader-sharp`
   static const IconifyIconData readerSharp = IconifyIconData(IconData(
-    0xe411,
+    0xe40f,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `receipt`
   static const IconifyIconData receipt = IconifyIconData(IconData(
-    0xe412,
+    0xe410,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `receipt-outline`
   static const IconifyIconData receiptOutline = IconifyIconData(IconData(
-    0xe413,
+    0xe411,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `receipt-sharp`
   static const IconifyIconData receiptSharp = IconifyIconData(IconData(
-    0xe414,
+    0xe412,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `recording`
   static const IconifyIconData recording = IconifyIconData(IconData(
-    0xe415,
+    0xe413,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `recording-outline`
   static const IconifyIconData recordingOutline = IconifyIconData(IconData(
-    0xe416,
+    0xe414,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `recording-sharp`
   static const IconifyIconData recordingSharp = IconifyIconData(IconData(
-    0xe417,
+    0xe415,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `refresh`
   static const IconifyIconData refresh = IconifyIconData(IconData(
-    0xe418,
+    0xe416,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `refresh-circle`
   static const IconifyIconData refreshCircle = IconifyIconData(IconData(
-    0xe419,
+    0xe417,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `refresh-circle-outline`
   static const IconifyIconData refreshCircleOutline = IconifyIconData(IconData(
-    0xe41a,
+    0xe418,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `refresh-circle-sharp`
   static const IconifyIconData refreshCircleSharp = IconifyIconData(IconData(
-    0xe41b,
+    0xe419,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `refresh-outline`
   static const IconifyIconData refreshOutline = IconifyIconData(IconData(
-    0xe41c,
+    0xe41a,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `refresh-sharp`
   static const IconifyIconData refreshSharp = IconifyIconData(IconData(
-    0xe41d,
+    0xe41b,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `reload`
   static const IconifyIconData reload = IconifyIconData(IconData(
-    0xe41e,
+    0xe41c,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `reload-circle`
   static const IconifyIconData reloadCircle = IconifyIconData(IconData(
-    0xe41f,
+    0xe41d,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `reload-circle-outline`
   static const IconifyIconData reloadCircleOutline = IconifyIconData(IconData(
-    0xe420,
+    0xe41e,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `reload-circle-sharp`
   static const IconifyIconData reloadCircleSharp = IconifyIconData(IconData(
-    0xe421,
+    0xe41f,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `reload-outline`
   static const IconifyIconData reloadOutline = IconifyIconData(IconData(
-    0xe422,
+    0xe420,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `reload-sharp`
   static const IconifyIconData reloadSharp = IconifyIconData(IconData(
-    0xe423,
+    0xe421,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `remove`
   static const IconifyIconData remove = IconifyIconData(IconData(
-    0xe424,
+    0xe422,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `remove-circle`
   static const IconifyIconData removeCircle = IconifyIconData(IconData(
-    0xe425,
+    0xe423,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `remove-circle-outline`
   static const IconifyIconData removeCircleOutline = IconifyIconData(IconData(
-    0xe426,
+    0xe424,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `remove-circle-sharp`
   static const IconifyIconData removeCircleSharp = IconifyIconData(IconData(
-    0xe427,
+    0xe425,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `remove-outline`
   static const IconifyIconData removeOutline = IconifyIconData(IconData(
-    0xe428,
+    0xe426,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `remove-sharp`
   static const IconifyIconData removeSharp = IconifyIconData(IconData(
-    0xe429,
+    0xe427,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `reorder-four`
   static const IconifyIconData reorderFour = IconifyIconData(IconData(
-    0xe42a,
+    0xe428,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `reorder-four-outline`
   static const IconifyIconData reorderFourOutline = IconifyIconData(IconData(
-    0xe42b,
+    0xe429,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `reorder-four-sharp`
   static const IconifyIconData reorderFourSharp = IconifyIconData(IconData(
-    0xe42c,
+    0xe42a,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `reorder-three`
   static const IconifyIconData reorderThree = IconifyIconData(IconData(
-    0xe42d,
+    0xe42b,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `reorder-three-outline`
   static const IconifyIconData reorderThreeOutline = IconifyIconData(IconData(
-    0xe42e,
+    0xe42c,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `reorder-three-sharp`
   static const IconifyIconData reorderThreeSharp = IconifyIconData(IconData(
-    0xe42f,
+    0xe42d,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `reorder-two`
   static const IconifyIconData reorderTwo = IconifyIconData(IconData(
-    0xe430,
+    0xe42e,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `reorder-two-outline`
   static const IconifyIconData reorderTwoOutline = IconifyIconData(IconData(
-    0xe431,
+    0xe42f,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `reorder-two-sharp`
   static const IconifyIconData reorderTwoSharp = IconifyIconData(IconData(
-    0xe432,
+    0xe430,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `repeat`
   static const IconifyIconData repeat = IconifyIconData(IconData(
-    0xe433,
+    0xe431,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `repeat-outline`
   static const IconifyIconData repeatOutline = IconifyIconData(IconData(
-    0xe434,
+    0xe432,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `repeat-sharp`
   static const IconifyIconData repeatSharp = IconifyIconData(IconData(
-    0xe435,
+    0xe433,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `resize`
   static const IconifyIconData resize = IconifyIconData(IconData(
-    0xe436,
+    0xe434,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `resize-outline`
   static const IconifyIconData resizeOutline = IconifyIconData(IconData(
-    0xe437,
+    0xe435,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `resize-sharp`
   static const IconifyIconData resizeSharp = IconifyIconData(IconData(
-    0xe438,
+    0xe436,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `restaurant`
   static const IconifyIconData restaurant = IconifyIconData(IconData(
-    0xe439,
+    0xe437,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `restaurant-outline`
   static const IconifyIconData restaurantOutline = IconifyIconData(IconData(
-    0xe43a,
+    0xe438,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `restaurant-sharp`
   static const IconifyIconData restaurantSharp = IconifyIconData(IconData(
-    0xe43b,
+    0xe439,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `return-down-back`
   static const IconifyIconData returnDownBack = IconifyIconData(IconData(
-    0xe43c,
+    0xe43a,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `return-down-back-outline`
   static const IconifyIconData returnDownBackOutline = IconifyIconData(IconData(
-    0xe43d,
+    0xe43b,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `return-down-back-sharp`
   static const IconifyIconData returnDownBackSharp = IconifyIconData(IconData(
-    0xe43e,
+    0xe43c,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `return-down-forward`
   static const IconifyIconData returnDownForward = IconifyIconData(IconData(
-    0xe43f,
+    0xe43d,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `return-down-forward-outline`
   static const IconifyIconData returnDownForwardOutline = IconifyIconData(IconData(
-    0xe440,
+    0xe43e,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `return-down-forward-sharp`
   static const IconifyIconData returnDownForwardSharp = IconifyIconData(IconData(
-    0xe441,
+    0xe43f,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `return-up-back`
   static const IconifyIconData returnUpBack = IconifyIconData(IconData(
-    0xe442,
+    0xe440,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `return-up-back-outline`
   static const IconifyIconData returnUpBackOutline = IconifyIconData(IconData(
-    0xe443,
+    0xe441,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `return-up-back-sharp`
   static const IconifyIconData returnUpBackSharp = IconifyIconData(IconData(
-    0xe444,
+    0xe442,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `return-up-forward`
   static const IconifyIconData returnUpForward = IconifyIconData(IconData(
-    0xe445,
+    0xe443,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `return-up-forward-outline`
   static const IconifyIconData returnUpForwardOutline = IconifyIconData(IconData(
-    0xe446,
+    0xe444,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `return-up-forward-sharp`
   static const IconifyIconData returnUpForwardSharp = IconifyIconData(IconData(
-    0xe447,
+    0xe445,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `ribbon`
   static const IconifyIconData ribbon = IconifyIconData(IconData(
-    0xe448,
+    0xe446,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `ribbon-outline`
   static const IconifyIconData ribbonOutline = IconifyIconData(IconData(
-    0xe449,
+    0xe447,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `ribbon-sharp`
   static const IconifyIconData ribbonSharp = IconifyIconData(IconData(
-    0xe44a,
+    0xe448,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `rocket`
   static const IconifyIconData rocket = IconifyIconData(IconData(
-    0xe44b,
+    0xe449,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `rocket-outline`
   static const IconifyIconData rocketOutline = IconifyIconData(IconData(
-    0xe44c,
+    0xe44a,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `rocket-sharp`
   static const IconifyIconData rocketSharp = IconifyIconData(IconData(
-    0xe44d,
+    0xe44b,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `rose`
   static const IconifyIconData rose = IconifyIconData(IconData(
-    0xe44e,
+    0xe44c,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `rose-outline`
   static const IconifyIconData roseOutline = IconifyIconData(IconData(
-    0xe44f,
+    0xe44d,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `rose-sharp`
   static const IconifyIconData roseSharp = IconifyIconData(IconData(
-    0xe450,
+    0xe44e,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `sad`
   static const IconifyIconData sad = IconifyIconData(IconData(
-    0xe451,
+    0xe44f,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `sad-outline`
   static const IconifyIconData sadOutline = IconifyIconData(IconData(
-    0xe452,
+    0xe450,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `sad-sharp`
   static const IconifyIconData sadSharp = IconifyIconData(IconData(
-    0xe453,
+    0xe451,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `save`
   static const IconifyIconData save = IconifyIconData(IconData(
-    0xe454,
+    0xe452,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `save-outline`
   static const IconifyIconData saveOutline = IconifyIconData(IconData(
-    0xe455,
+    0xe453,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `save-sharp`
   static const IconifyIconData saveSharp = IconifyIconData(IconData(
-    0xe456,
+    0xe454,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `scale`
   static const IconifyIconData scale = IconifyIconData(IconData(
-    0xe457,
+    0xe455,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `scale-outline`
   static const IconifyIconData scaleOutline = IconifyIconData(IconData(
-    0xe458,
+    0xe456,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `scale-sharp`
   static const IconifyIconData scaleSharp = IconifyIconData(IconData(
-    0xe459,
+    0xe457,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `scan`
   static const IconifyIconData scan = IconifyIconData(IconData(
-    0xe45a,
+    0xe458,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `scan-circle`
   static const IconifyIconData scanCircle = IconifyIconData(IconData(
-    0xe45b,
+    0xe459,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `scan-circle-outline`
   static const IconifyIconData scanCircleOutline = IconifyIconData(IconData(
-    0xe45c,
+    0xe45a,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `scan-circle-sharp`
   static const IconifyIconData scanCircleSharp = IconifyIconData(IconData(
-    0xe45d,
+    0xe45b,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `scan-outline`
   static const IconifyIconData scanOutline = IconifyIconData(IconData(
-    0xe45e,
+    0xe45c,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `scan-sharp`
   static const IconifyIconData scanSharp = IconifyIconData(IconData(
-    0xe45f,
+    0xe45d,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `school`
   static const IconifyIconData school = IconifyIconData(IconData(
-    0xe460,
+    0xe45e,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `school-outline`
   static const IconifyIconData schoolOutline = IconifyIconData(IconData(
-    0xe461,
+    0xe45f,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `school-sharp`
   static const IconifyIconData schoolSharp = IconifyIconData(IconData(
-    0xe462,
+    0xe460,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `search`
   static const IconifyIconData search = IconifyIconData(IconData(
-    0xe463,
+    0xe461,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `search-circle`
   static const IconifyIconData searchCircle = IconifyIconData(IconData(
-    0xe464,
+    0xe462,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `search-circle-outline`
   static const IconifyIconData searchCircleOutline = IconifyIconData(IconData(
-    0xe465,
+    0xe463,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `search-circle-sharp`
   static const IconifyIconData searchCircleSharp = IconifyIconData(IconData(
-    0xe466,
+    0xe464,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `search-outline`
   static const IconifyIconData searchOutline = IconifyIconData(IconData(
-    0xe467,
+    0xe465,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `search-sharp`
   static const IconifyIconData searchSharp = IconifyIconData(IconData(
-    0xe468,
+    0xe466,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `send`
   static const IconifyIconData send = IconifyIconData(IconData(
-    0xe469,
+    0xe467,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `send-outline`
   static const IconifyIconData sendOutline = IconifyIconData(IconData(
-    0xe46a,
+    0xe468,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `send-sharp`
   static const IconifyIconData sendSharp = IconifyIconData(IconData(
-    0xe46b,
+    0xe469,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `server`
   static const IconifyIconData server = IconifyIconData(IconData(
-    0xe46c,
+    0xe46a,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `server-outline`
   static const IconifyIconData serverOutline = IconifyIconData(IconData(
-    0xe46d,
+    0xe46b,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `server-sharp`
   static const IconifyIconData serverSharp = IconifyIconData(IconData(
-    0xe46e,
+    0xe46c,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `settings`
   static const IconifyIconData settings = IconifyIconData(IconData(
-    0xe46f,
+    0xe46d,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `settings-outline`
   static const IconifyIconData settingsOutline = IconifyIconData(IconData(
-    0xe470,
+    0xe46e,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `settings-sharp`
   static const IconifyIconData settingsSharp = IconifyIconData(IconData(
-    0xe471,
+    0xe46f,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `shapes`
   static const IconifyIconData shapes = IconifyIconData(IconData(
-    0xe472,
+    0xe470,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `shapes-outline`
   static const IconifyIconData shapesOutline = IconifyIconData(IconData(
-    0xe473,
+    0xe471,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `shapes-sharp`
   static const IconifyIconData shapesSharp = IconifyIconData(IconData(
-    0xe474,
+    0xe472,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `share`
   static const IconifyIconData share = IconifyIconData(IconData(
-    0xe475,
+    0xe473,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `share-outline`
   static const IconifyIconData shareOutline = IconifyIconData(IconData(
-    0xe476,
+    0xe474,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `share-sharp`
   static const IconifyIconData shareSharp = IconifyIconData(IconData(
-    0xe477,
+    0xe475,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `share-social`
   static const IconifyIconData shareSocial = IconifyIconData(IconData(
-    0xe478,
+    0xe476,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `share-social-outline`
   static const IconifyIconData shareSocialOutline = IconifyIconData(IconData(
-    0xe479,
+    0xe477,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `share-social-sharp`
   static const IconifyIconData shareSocialSharp = IconifyIconData(IconData(
-    0xe47a,
+    0xe478,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `shield`
   static const IconifyIconData shield = IconifyIconData(IconData(
-    0xe47b,
+    0xe479,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `shield-checkmark`
   static const IconifyIconData shieldCheckmark = IconifyIconData(IconData(
-    0xe47c,
+    0xe47a,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `shield-checkmark-outline`
   static const IconifyIconData shieldCheckmarkOutline = IconifyIconData(IconData(
-    0xe47d,
+    0xe47b,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `shield-checkmark-sharp`
   static const IconifyIconData shieldCheckmarkSharp = IconifyIconData(IconData(
-    0xe47e,
+    0xe47c,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `shield-half`
   static const IconifyIconData shieldHalf = IconifyIconData(IconData(
-    0xe47f,
+    0xe47d,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `shield-half-outline`
   static const IconifyIconData shieldHalfOutline = IconifyIconData(IconData(
-    0xe480,
+    0xe47e,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `shield-half-sharp`
   static const IconifyIconData shieldHalfSharp = IconifyIconData(IconData(
-    0xe481,
+    0xe47f,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `shield-outline`
   static const IconifyIconData shieldOutline = IconifyIconData(IconData(
-    0xe482,
+    0xe480,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `shield-sharp`
   static const IconifyIconData shieldSharp = IconifyIconData(IconData(
-    0xe483,
+    0xe481,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `shirt`
   static const IconifyIconData shirt = IconifyIconData(IconData(
-    0xe484,
+    0xe482,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `shirt-outline`
   static const IconifyIconData shirtOutline = IconifyIconData(IconData(
-    0xe485,
+    0xe483,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `shirt-sharp`
   static const IconifyIconData shirtSharp = IconifyIconData(IconData(
-    0xe486,
+    0xe484,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `shuffle`
   static const IconifyIconData shuffle = IconifyIconData(IconData(
-    0xe487,
+    0xe485,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `shuffle-outline`
   static const IconifyIconData shuffleOutline = IconifyIconData(IconData(
-    0xe488,
+    0xe486,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `shuffle-sharp`
   static const IconifyIconData shuffleSharp = IconifyIconData(IconData(
-    0xe489,
+    0xe487,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `skull`
   static const IconifyIconData skull = IconifyIconData(IconData(
-    0xe48a,
+    0xe488,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `skull-outline`
   static const IconifyIconData skullOutline = IconifyIconData(IconData(
-    0xe48b,
+    0xe489,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `skull-sharp`
   static const IconifyIconData skullSharp = IconifyIconData(IconData(
-    0xe48c,
+    0xe48a,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `snow`
   static const IconifyIconData snow = IconifyIconData(IconData(
-    0xe48d,
+    0xe48b,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `snow-outline`
   static const IconifyIconData snowOutline = IconifyIconData(IconData(
-    0xe48e,
+    0xe48c,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `snow-sharp`
   static const IconifyIconData snowSharp = IconifyIconData(IconData(
-    0xe48f,
+    0xe48d,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `sparkles`
   static const IconifyIconData sparkles = IconifyIconData(IconData(
-    0xe490,
+    0xe48e,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `sparkles-outline`
   static const IconifyIconData sparklesOutline = IconifyIconData(IconData(
-    0xe491,
+    0xe48f,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `sparkles-sharp`
   static const IconifyIconData sparklesSharp = IconifyIconData(IconData(
-    0xe492,
+    0xe490,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `speedometer`
   static const IconifyIconData speedometer = IconifyIconData(IconData(
-    0xe493,
+    0xe491,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `speedometer-outline`
   static const IconifyIconData speedometerOutline = IconifyIconData(IconData(
-    0xe494,
+    0xe492,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `speedometer-sharp`
   static const IconifyIconData speedometerSharp = IconifyIconData(IconData(
-    0xe495,
+    0xe493,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `square`
   static const IconifyIconData square = IconifyIconData(IconData(
-    0xe496,
+    0xe494,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `square-outline`
   static const IconifyIconData squareOutline = IconifyIconData(IconData(
-    0xe497,
+    0xe495,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `square-sharp`
   static const IconifyIconData squareSharp = IconifyIconData(IconData(
-    0xe498,
+    0xe496,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `star`
   static const IconifyIconData star = IconifyIconData(IconData(
-    0xe499,
+    0xe497,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `star-half`
   static const IconifyIconData starHalf = IconifyIconData(IconData(
-    0xe49a,
+    0xe498,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `star-half-outline`
   static const IconifyIconData starHalfOutline = IconifyIconData(IconData(
-    0xe49b,
+    0xe499,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `star-half-sharp`
   static const IconifyIconData starHalfSharp = IconifyIconData(IconData(
-    0xe49c,
+    0xe49a,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `star-outline`
   static const IconifyIconData starOutline = IconifyIconData(IconData(
-    0xe49d,
+    0xe49b,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `star-sharp`
   static const IconifyIconData starSharp = IconifyIconData(IconData(
-    0xe49e,
+    0xe49c,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `stats-chart`
   static const IconifyIconData statsChart = IconifyIconData(IconData(
-    0xe49f,
+    0xe49d,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `stats-chart-outline`
   static const IconifyIconData statsChartOutline = IconifyIconData(IconData(
-    0xe4a0,
+    0xe49e,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `stats-chart-sharp`
   static const IconifyIconData statsChartSharp = IconifyIconData(IconData(
-    0xe4a1,
+    0xe49f,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `stop`
   static const IconifyIconData stop = IconifyIconData(IconData(
-    0xe4a2,
+    0xe4a0,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `stop-circle`
   static const IconifyIconData stopCircle = IconifyIconData(IconData(
-    0xe4a3,
+    0xe4a1,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `stop-circle-outline`
   static const IconifyIconData stopCircleOutline = IconifyIconData(IconData(
-    0xe4a4,
+    0xe4a2,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `stop-circle-sharp`
   static const IconifyIconData stopCircleSharp = IconifyIconData(IconData(
-    0xe4a5,
+    0xe4a3,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `stop-outline`
   static const IconifyIconData stopOutline = IconifyIconData(IconData(
-    0xe4a6,
+    0xe4a4,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `stop-sharp`
   static const IconifyIconData stopSharp = IconifyIconData(IconData(
-    0xe4a7,
+    0xe4a5,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `stopwatch`
   static const IconifyIconData stopwatch = IconifyIconData(IconData(
-    0xe4a8,
+    0xe4a6,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `stopwatch-outline`
   static const IconifyIconData stopwatchOutline = IconifyIconData(IconData(
-    0xe4a9,
+    0xe4a7,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `stopwatch-sharp`
   static const IconifyIconData stopwatchSharp = IconifyIconData(IconData(
-    0xe4aa,
+    0xe4a8,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `storefront`
   static const IconifyIconData storefront = IconifyIconData(IconData(
-    0xe4ab,
+    0xe4a9,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `storefront-outline`
   static const IconifyIconData storefrontOutline = IconifyIconData(IconData(
-    0xe4ac,
+    0xe4aa,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `storefront-sharp`
   static const IconifyIconData storefrontSharp = IconifyIconData(IconData(
-    0xe4ad,
+    0xe4ab,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `subway`
   static const IconifyIconData subway = IconifyIconData(IconData(
-    0xe4ae,
+    0xe4ac,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `subway-outline`
   static const IconifyIconData subwayOutline = IconifyIconData(IconData(
-    0xe4af,
+    0xe4ad,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `subway-sharp`
   static const IconifyIconData subwaySharp = IconifyIconData(IconData(
-    0xe4b0,
+    0xe4ae,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `sunny`
   static const IconifyIconData sunny = IconifyIconData(IconData(
-    0xe4b1,
+    0xe4af,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `sunny-outline`
   static const IconifyIconData sunnyOutline = IconifyIconData(IconData(
-    0xe4b2,
+    0xe4b0,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `sunny-sharp`
   static const IconifyIconData sunnySharp = IconifyIconData(IconData(
-    0xe4b3,
+    0xe4b1,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `swap-horizontal`
   static const IconifyIconData swapHorizontal = IconifyIconData(IconData(
-    0xe4b4,
+    0xe4b2,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `swap-horizontal-outline`
   static const IconifyIconData swapHorizontalOutline = IconifyIconData(IconData(
-    0xe4b5,
+    0xe4b3,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `swap-horizontal-sharp`
   static const IconifyIconData swapHorizontalSharp = IconifyIconData(IconData(
-    0xe4b6,
+    0xe4b4,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `swap-vertical`
   static const IconifyIconData swapVertical = IconifyIconData(IconData(
-    0xe4b7,
+    0xe4b5,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `swap-vertical-outline`
   static const IconifyIconData swapVerticalOutline = IconifyIconData(IconData(
-    0xe4b8,
+    0xe4b6,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `swap-vertical-sharp`
   static const IconifyIconData swapVerticalSharp = IconifyIconData(IconData(
-    0xe4b9,
+    0xe4b7,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `sync`
   static const IconifyIconData sync_ = IconifyIconData(IconData(
-    0xe4ba,
+    0xe4b8,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `sync-circle`
   static const IconifyIconData syncCircle = IconifyIconData(IconData(
-    0xe4bb,
+    0xe4b9,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `sync-circle-outline`
   static const IconifyIconData syncCircleOutline = IconifyIconData(IconData(
-    0xe4bc,
+    0xe4ba,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `sync-circle-sharp`
   static const IconifyIconData syncCircleSharp = IconifyIconData(IconData(
-    0xe4bd,
+    0xe4bb,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `sync-outline`
   static const IconifyIconData syncOutline = IconifyIconData(IconData(
-    0xe4be,
+    0xe4bc,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `sync-sharp`
   static const IconifyIconData syncSharp = IconifyIconData(IconData(
-    0xe4bf,
+    0xe4bd,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `tablet-landscape`
   static const IconifyIconData tabletLandscape = IconifyIconData(IconData(
-    0xe4c0,
+    0xe4be,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `tablet-landscape-outline`
   static const IconifyIconData tabletLandscapeOutline = IconifyIconData(IconData(
-    0xe4c1,
+    0xe4bf,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `tablet-landscape-sharp`
   static const IconifyIconData tabletLandscapeSharp = IconifyIconData(IconData(
-    0xe4c2,
+    0xe4c0,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `tablet-portrait`
   static const IconifyIconData tabletPortrait = IconifyIconData(IconData(
-    0xe4c3,
+    0xe4c1,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `tablet-portrait-outline`
   static const IconifyIconData tabletPortraitOutline = IconifyIconData(IconData(
-    0xe4c4,
+    0xe4c2,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `tablet-portrait-sharp`
   static const IconifyIconData tabletPortraitSharp = IconifyIconData(IconData(
-    0xe4c5,
+    0xe4c3,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `telescope`
   static const IconifyIconData telescope = IconifyIconData(IconData(
-    0xe4c6,
+    0xe4c4,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `telescope-outline`
   static const IconifyIconData telescopeOutline = IconifyIconData(IconData(
-    0xe4c7,
+    0xe4c5,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `telescope-sharp`
   static const IconifyIconData telescopeSharp = IconifyIconData(IconData(
-    0xe4c8,
+    0xe4c6,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `tennisball`
   static const IconifyIconData tennisball = IconifyIconData(IconData(
-    0xe4c9,
+    0xe4c7,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `tennisball-outline`
   static const IconifyIconData tennisballOutline = IconifyIconData(IconData(
-    0xe4ca,
+    0xe4c8,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `tennisball-sharp`
   static const IconifyIconData tennisballSharp = IconifyIconData(IconData(
-    0xe4cb,
+    0xe4c9,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `terminal`
   static const IconifyIconData terminal = IconifyIconData(IconData(
-    0xe4cc,
+    0xe4ca,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `terminal-outline`
   static const IconifyIconData terminalOutline = IconifyIconData(IconData(
-    0xe4cd,
+    0xe4cb,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `terminal-sharp`
   static const IconifyIconData terminalSharp = IconifyIconData(IconData(
-    0xe4ce,
+    0xe4cc,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `text`
   static const IconifyIconData text = IconifyIconData(IconData(
-    0xe4cf,
+    0xe4cd,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `text-outline`
   static const IconifyIconData textOutline = IconifyIconData(IconData(
-    0xe4d0,
+    0xe4ce,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `text-sharp`
   static const IconifyIconData textSharp = IconifyIconData(IconData(
-    0xe4d1,
+    0xe4cf,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `thermometer`
   static const IconifyIconData thermometer = IconifyIconData(IconData(
-    0xe4d2,
+    0xe4d0,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `thermometer-outline`
   static const IconifyIconData thermometerOutline = IconifyIconData(IconData(
-    0xe4d3,
+    0xe4d1,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `thermometer-sharp`
   static const IconifyIconData thermometerSharp = IconifyIconData(IconData(
-    0xe4d4,
+    0xe4d2,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `thumbs-down`
   static const IconifyIconData thumbsDown = IconifyIconData(IconData(
-    0xe4d5,
+    0xe4d3,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `thumbs-down-outline`
   static const IconifyIconData thumbsDownOutline = IconifyIconData(IconData(
-    0xe4d6,
+    0xe4d4,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `thumbs-down-sharp`
   static const IconifyIconData thumbsDownSharp = IconifyIconData(IconData(
-    0xe4d7,
+    0xe4d5,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `thumbs-up`
   static const IconifyIconData thumbsUp = IconifyIconData(IconData(
-    0xe4d8,
+    0xe4d6,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `thumbs-up-outline`
   static const IconifyIconData thumbsUpOutline = IconifyIconData(IconData(
-    0xe4d9,
+    0xe4d7,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `thumbs-up-sharp`
   static const IconifyIconData thumbsUpSharp = IconifyIconData(IconData(
-    0xe4da,
+    0xe4d8,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `thunderstorm`
   static const IconifyIconData thunderstorm = IconifyIconData(IconData(
-    0xe4db,
+    0xe4d9,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `thunderstorm-outline`
   static const IconifyIconData thunderstormOutline = IconifyIconData(IconData(
-    0xe4dc,
+    0xe4da,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `thunderstorm-sharp`
   static const IconifyIconData thunderstormSharp = IconifyIconData(IconData(
-    0xe4dd,
+    0xe4db,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `ticket`
   static const IconifyIconData ticket = IconifyIconData(IconData(
-    0xe4de,
+    0xe4dc,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `ticket-outline`
   static const IconifyIconData ticketOutline = IconifyIconData(IconData(
-    0xe4df,
+    0xe4dd,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `ticket-sharp`
   static const IconifyIconData ticketSharp = IconifyIconData(IconData(
-    0xe4e0,
+    0xe4de,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `time`
   static const IconifyIconData time = IconifyIconData(IconData(
-    0xe4e1,
+    0xe4df,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `time-outline`
   static const IconifyIconData timeOutline = IconifyIconData(IconData(
-    0xe4e2,
+    0xe4e0,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `time-sharp`
   static const IconifyIconData timeSharp = IconifyIconData(IconData(
-    0xe4e3,
+    0xe4e1,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `timer`
   static const IconifyIconData timer = IconifyIconData(IconData(
-    0xe4e4,
+    0xe4e2,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `timer-outline`
   static const IconifyIconData timerOutline = IconifyIconData(IconData(
-    0xe4e5,
+    0xe4e3,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `timer-sharp`
   static const IconifyIconData timerSharp = IconifyIconData(IconData(
-    0xe4e6,
+    0xe4e4,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `today`
   static const IconifyIconData today = IconifyIconData(IconData(
-    0xe4e7,
+    0xe4e5,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `today-outline`
   static const IconifyIconData todayOutline = IconifyIconData(IconData(
-    0xe4e8,
+    0xe4e6,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `today-sharp`
   static const IconifyIconData todaySharp = IconifyIconData(IconData(
-    0xe4e9,
+    0xe4e7,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `toggle`
   static const IconifyIconData toggle = IconifyIconData(IconData(
-    0xe4ea,
+    0xe4e8,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `toggle-outline`
   static const IconifyIconData toggleOutline = IconifyIconData(IconData(
-    0xe4eb,
+    0xe4e9,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `toggle-sharp`
   static const IconifyIconData toggleSharp = IconifyIconData(IconData(
-    0xe4ec,
+    0xe4ea,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `trail-sign`
   static const IconifyIconData trailSign = IconifyIconData(IconData(
-    0xe4ed,
+    0xe4eb,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `trail-sign-outline`
   static const IconifyIconData trailSignOutline = IconifyIconData(IconData(
-    0xe4ee,
+    0xe4ec,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `trail-sign-sharp`
   static const IconifyIconData trailSignSharp = IconifyIconData(IconData(
-    0xe4ef,
+    0xe4ed,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `train`
   static const IconifyIconData train = IconifyIconData(IconData(
-    0xe4f0,
+    0xe4ee,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `train-outline`
   static const IconifyIconData trainOutline = IconifyIconData(IconData(
-    0xe4f1,
+    0xe4ef,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `train-sharp`
   static const IconifyIconData trainSharp = IconifyIconData(IconData(
-    0xe4f2,
+    0xe4f0,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `transgender`
   static const IconifyIconData transgender = IconifyIconData(IconData(
-    0xe4f3,
+    0xe4f1,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `transgender-outline`
   static const IconifyIconData transgenderOutline = IconifyIconData(IconData(
-    0xe4f4,
+    0xe4f2,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `transgender-sharp`
   static const IconifyIconData transgenderSharp = IconifyIconData(IconData(
-    0xe4f5,
+    0xe4f3,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `trash`
   static const IconifyIconData trash = IconifyIconData(IconData(
-    0xe4f6,
+    0xe4f4,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `trash-bin`
   static const IconifyIconData trashBin = IconifyIconData(IconData(
-    0xe4f7,
+    0xe4f5,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `trash-bin-outline`
   static const IconifyIconData trashBinOutline = IconifyIconData(IconData(
-    0xe4f8,
-    fontFamily: 'Famicons',
-    fontPackage: 'iconifyx_famicons',
-  ));
-
-  /// `trash-bin-sharp`
-  static const IconifyIconData trashBinSharp = IconifyIconData(IconData(
-    0xe4f9,
+    0xe4f6,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `trash-outline`
   static const IconifyIconData trashOutline = IconifyIconData(IconData(
-    0xe4fa,
+    0xe4f7,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `trash-sharp`
   static const IconifyIconData trashSharp = IconifyIconData(IconData(
-    0xe4fb,
+    0xe4f8,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `trending-down`
   static const IconifyIconData trendingDown = IconifyIconData(IconData(
-    0xe4fc,
+    0xe4f9,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `trending-down-outline`
   static const IconifyIconData trendingDownOutline = IconifyIconData(IconData(
-    0xe4fd,
+    0xe4fa,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `trending-down-sharp`
   static const IconifyIconData trendingDownSharp = IconifyIconData(IconData(
-    0xe4fe,
+    0xe4fb,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `trending-up`
   static const IconifyIconData trendingUp = IconifyIconData(IconData(
-    0xe4ff,
+    0xe4fc,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `trending-up-outline`
   static const IconifyIconData trendingUpOutline = IconifyIconData(IconData(
-    0xe500,
+    0xe4fd,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `trending-up-sharp`
   static const IconifyIconData trendingUpSharp = IconifyIconData(IconData(
-    0xe501,
+    0xe4fe,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `triangle`
   static const IconifyIconData triangle = IconifyIconData(IconData(
-    0xe502,
+    0xe4ff,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `triangle-outline`
   static const IconifyIconData triangleOutline = IconifyIconData(IconData(
-    0xe503,
+    0xe500,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `triangle-sharp`
   static const IconifyIconData triangleSharp = IconifyIconData(IconData(
-    0xe504,
+    0xe501,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `trophy`
   static const IconifyIconData trophy = IconifyIconData(IconData(
-    0xe505,
+    0xe502,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `trophy-outline`
   static const IconifyIconData trophyOutline = IconifyIconData(IconData(
-    0xe506,
+    0xe503,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `trophy-sharp`
   static const IconifyIconData trophySharp = IconifyIconData(IconData(
-    0xe507,
+    0xe504,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `tv`
   static const IconifyIconData tv = IconifyIconData(IconData(
-    0xe508,
+    0xe505,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `tv-outline`
   static const IconifyIconData tvOutline = IconifyIconData(IconData(
-    0xe509,
+    0xe506,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `tv-sharp`
   static const IconifyIconData tvSharp = IconifyIconData(IconData(
-    0xe50a,
+    0xe507,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `umbrella`
   static const IconifyIconData umbrella = IconifyIconData(IconData(
-    0xe50b,
+    0xe508,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `umbrella-outline`
   static const IconifyIconData umbrellaOutline = IconifyIconData(IconData(
-    0xe50c,
+    0xe509,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `umbrella-sharp`
   static const IconifyIconData umbrellaSharp = IconifyIconData(IconData(
-    0xe50d,
+    0xe50a,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `unlink`
   static const IconifyIconData unlink = IconifyIconData(IconData(
-    0xe50e,
+    0xe50b,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `unlink-outline`
   static const IconifyIconData unlinkOutline = IconifyIconData(IconData(
-    0xe50f,
+    0xe50c,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `unlink-sharp`
   static const IconifyIconData unlinkSharp = IconifyIconData(IconData(
-    0xe510,
+    0xe50d,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `videocam`
   static const IconifyIconData videocam = IconifyIconData(IconData(
-    0xe511,
+    0xe50e,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `videocam-off`
   static const IconifyIconData videocamOff = IconifyIconData(IconData(
-    0xe512,
+    0xe50f,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `videocam-off-outline`
   static const IconifyIconData videocamOffOutline = IconifyIconData(IconData(
-    0xe513,
+    0xe510,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `videocam-off-sharp`
   static const IconifyIconData videocamOffSharp = IconifyIconData(IconData(
-    0xe514,
+    0xe511,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `videocam-outline`
   static const IconifyIconData videocamOutline = IconifyIconData(IconData(
-    0xe515,
+    0xe512,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `videocam-sharp`
   static const IconifyIconData videocamSharp = IconifyIconData(IconData(
-    0xe516,
+    0xe513,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `volume-high`
   static const IconifyIconData volumeHigh = IconifyIconData(IconData(
-    0xe517,
+    0xe514,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `volume-high-outline`
   static const IconifyIconData volumeHighOutline = IconifyIconData(IconData(
-    0xe518,
+    0xe515,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `volume-high-sharp`
   static const IconifyIconData volumeHighSharp = IconifyIconData(IconData(
-    0xe519,
+    0xe516,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `volume-low`
   static const IconifyIconData volumeLow = IconifyIconData(IconData(
-    0xe51a,
+    0xe517,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `volume-low-outline`
   static const IconifyIconData volumeLowOutline = IconifyIconData(IconData(
-    0xe51b,
+    0xe518,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `volume-low-sharp`
   static const IconifyIconData volumeLowSharp = IconifyIconData(IconData(
-    0xe51c,
+    0xe519,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `volume-medium`
   static const IconifyIconData volumeMedium = IconifyIconData(IconData(
-    0xe51d,
+    0xe51a,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `volume-medium-outline`
   static const IconifyIconData volumeMediumOutline = IconifyIconData(IconData(
-    0xe51e,
+    0xe51b,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `volume-medium-sharp`
   static const IconifyIconData volumeMediumSharp = IconifyIconData(IconData(
-    0xe51f,
+    0xe51c,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `volume-mute`
   static const IconifyIconData volumeMute = IconifyIconData(IconData(
-    0xe520,
+    0xe51d,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `volume-mute-outline`
   static const IconifyIconData volumeMuteOutline = IconifyIconData(IconData(
-    0xe521,
+    0xe51e,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `volume-mute-sharp`
   static const IconifyIconData volumeMuteSharp = IconifyIconData(IconData(
-    0xe522,
+    0xe51f,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `volume-off`
   static const IconifyIconData volumeOff = IconifyIconData(IconData(
-    0xe523,
+    0xe520,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `volume-off-outline`
   static const IconifyIconData volumeOffOutline = IconifyIconData(IconData(
-    0xe524,
+    0xe521,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `volume-off-sharp`
   static const IconifyIconData volumeOffSharp = IconifyIconData(IconData(
-    0xe525,
+    0xe522,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `walk`
   static const IconifyIconData walk = IconifyIconData(IconData(
-    0xe526,
+    0xe523,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `walk-outline`
   static const IconifyIconData walkOutline = IconifyIconData(IconData(
-    0xe527,
+    0xe524,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `walk-sharp`
   static const IconifyIconData walkSharp = IconifyIconData(IconData(
-    0xe528,
+    0xe525,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `wallet`
   static const IconifyIconData wallet = IconifyIconData(IconData(
-    0xe529,
+    0xe526,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `wallet-outline`
   static const IconifyIconData walletOutline = IconifyIconData(IconData(
-    0xe52a,
+    0xe527,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `wallet-sharp`
   static const IconifyIconData walletSharp = IconifyIconData(IconData(
-    0xe52b,
+    0xe528,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `warning`
   static const IconifyIconData warning = IconifyIconData(IconData(
-    0xe52c,
+    0xe529,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `warning-outline`
   static const IconifyIconData warningOutline = IconifyIconData(IconData(
-    0xe52d,
+    0xe52a,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `warning-sharp`
   static const IconifyIconData warningSharp = IconifyIconData(IconData(
-    0xe52e,
+    0xe52b,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `watch`
   static const IconifyIconData watch = IconifyIconData(IconData(
-    0xe52f,
+    0xe52c,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `watch-outline`
   static const IconifyIconData watchOutline = IconifyIconData(IconData(
-    0xe530,
+    0xe52d,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `watch-sharp`
   static const IconifyIconData watchSharp = IconifyIconData(IconData(
-    0xe531,
+    0xe52e,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `water`
   static const IconifyIconData water = IconifyIconData(IconData(
-    0xe532,
+    0xe52f,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `water-outline`
   static const IconifyIconData waterOutline = IconifyIconData(IconData(
-    0xe533,
+    0xe530,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `water-sharp`
   static const IconifyIconData waterSharp = IconifyIconData(IconData(
-    0xe534,
+    0xe531,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `wifi`
   static const IconifyIconData wifi = IconifyIconData(IconData(
-    0xe535,
+    0xe532,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `wifi-outline`
   static const IconifyIconData wifiOutline = IconifyIconData(IconData(
-    0xe536,
+    0xe533,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `wifi-sharp`
   static const IconifyIconData wifiSharp = IconifyIconData(IconData(
-    0xe537,
+    0xe534,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `wine`
   static const IconifyIconData wine = IconifyIconData(IconData(
-    0xe538,
+    0xe535,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `wine-outline`
   static const IconifyIconData wineOutline = IconifyIconData(IconData(
-    0xe539,
+    0xe536,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `wine-sharp`
   static const IconifyIconData wineSharp = IconifyIconData(IconData(
-    0xe53a,
+    0xe537,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `woman`
   static const IconifyIconData woman = IconifyIconData(IconData(
-    0xe53b,
+    0xe538,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `woman-outline`
   static const IconifyIconData womanOutline = IconifyIconData(IconData(
-    0xe53c,
+    0xe539,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));
 
   /// `woman-sharp`
   static const IconifyIconData womanSharp = IconifyIconData(IconData(
-    0xe53d,
+    0xe53a,
     fontFamily: 'Famicons',
     fontPackage: 'iconifyx_famicons',
   ));

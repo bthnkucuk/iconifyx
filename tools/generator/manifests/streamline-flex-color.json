@@ -16,18 +16,313 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 1
+    "total": 60
   },
   "fonts": [
     {
       "family": "StreamlineFlexColor",
-      "nextCodepoint": 57345,
-      "iconCount": 1
+      "nextCodepoint": 57404,
+      "iconCount": 60
     }
   ],
   "icons": {
-    "wrap-arc-upper-flat": {
+    "airport-plane-flat": {
       "codepoint": 57344,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "airportPlaneFlat"
+    },
+    "anchor-flat": {
+      "codepoint": 57345,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "anchorFlat"
+    },
+    "arrow-cursor-2-flat": {
+      "codepoint": 57346,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "arrowCursor2Flat"
+    },
+    "arrow-expand-flat": {
+      "codepoint": 57347,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "arrowExpandFlat"
+    },
+    "arrow-move-flat": {
+      "codepoint": 57348,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "arrowMoveFlat"
+    },
+    "bag-flat": {
+      "codepoint": 57349,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "bagFlat"
+    },
+    "block-2-flat": {
+      "codepoint": 57350,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "block2Flat"
+    },
+    "cocktail-flat": {
+      "codepoint": 57351,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "cocktailFlat"
+    },
+    "cog-flat": {
+      "codepoint": 57352,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "cogFlat"
+    },
+    "compsition-horizontal-flat": {
+      "codepoint": 57353,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "compsitionHorizontalFlat"
+    },
+    "crown-flat": {
+      "codepoint": 57354,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "crownFlat"
+    },
+    "discussion-converstion-reply-flat": {
+      "codepoint": 57355,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "discussionConverstionReplyFlat"
+    },
+    "earpods-flat": {
+      "codepoint": 57356,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "earpodsFlat"
+    },
+    "end-point-diamond-flat": {
+      "codepoint": 57357,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "endPointDiamondFlat"
+    },
+    "facebook-1-flat": {
+      "codepoint": 57358,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "facebook1Flat"
+    },
+    "filter-2-flat": {
+      "codepoint": 57359,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "filter2Flat"
+    },
+    "fingerprint-1-flat": {
+      "codepoint": 57360,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "fingerprint1Flat"
+    },
+    "flash-3-flat": {
+      "codepoint": 57361,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "flash3Flat"
+    },
+    "fork-knife-flat": {
+      "codepoint": 57362,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "forkKnifeFlat"
+    },
+    "galaxy-2-flat": {
+      "codepoint": 57363,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "galaxy2Flat"
+    },
+    "heart-flat": {
+      "codepoint": 57364,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "heartFlat"
+    },
+    "hierarchy-line-3-flat": {
+      "codepoint": 57365,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "hierarchyLine3Flat"
+    },
+    "intersex-symbol-flat": {
+      "codepoint": 57366,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "intersexSymbolFlat"
+    },
+    "japanese-alphabet-flat": {
+      "codepoint": 57367,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "japaneseAlphabetFlat"
+    },
+    "link-chain-flat": {
+      "codepoint": 57368,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "linkChainFlat"
+    },
+    "location-target-2-flat": {
+      "codepoint": 57369,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "locationTarget2Flat"
+    },
+    "merge-vertical-flat": {
+      "codepoint": 57370,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "mergeVerticalFlat"
+    },
+    "module-puzzle-2-flat": {
+      "codepoint": 57371,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "modulePuzzle2Flat"
+    },
+    "moustache-flat": {
+      "codepoint": 57372,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "moustacheFlat"
+    },
+    "music-equalizer-flat": {
+      "codepoint": 57373,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "musicEqualizerFlat"
+    },
+    "navigation-arrow-north-flat": {
+      "codepoint": 57374,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "navigationArrowNorthFlat"
+    },
+    "new-badge-highlight-flat": {
+      "codepoint": 57375,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "newBadgeHighlightFlat"
+    },
+    "new-folder-flat": {
+      "codepoint": 57376,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "newFolderFlat"
+    },
+    "paperclip-1-flat": {
+      "codepoint": 57377,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "paperclip1Flat"
+    },
+    "pet-paw-flat": {
+      "codepoint": 57378,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "petPawFlat"
+    },
+    "phone-flat": {
+      "codepoint": 57379,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "phoneFlat"
+    },
+    "polygonal-lasso-tool-flat": {
+      "codepoint": 57380,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "polygonalLassoToolFlat"
+    },
+    "recycle-1-flat": {
+      "codepoint": 57381,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "recycle1Flat"
+    },
+    "recycle-bin-3-flat": {
+      "codepoint": 57382,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "recycleBin3Flat"
+    },
+    "rotate-left-flat": {
+      "codepoint": 57383,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "rotateLeftFlat"
+    },
+    "scissors-flat": {
+      "codepoint": 57384,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "scissorsFlat"
+    },
+    "shield-1-flat": {
+      "codepoint": 57385,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "shield1Flat"
+    },
+    "shield-2-flat": {
+      "codepoint": 57386,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "shield2Flat"
+    },
+    "shirt-flat": {
+      "codepoint": 57387,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "shirtFlat"
+    },
+    "sigma-flat": {
+      "codepoint": 57388,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "sigmaFlat"
+    },
+    "sign-at-flat": {
+      "codepoint": 57389,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "signAtFlat"
+    },
+    "signal-full-flat": {
+      "codepoint": 57390,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "signalFullFlat"
+    },
+    "sos-help-emergency-sign-flat": {
+      "codepoint": 57391,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "sosHelpEmergencySignFlat"
+    },
+    "spiral-shape-flat": {
+      "codepoint": 57392,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "spiralShapeFlat"
+    },
+    "text-style-flat": {
+      "codepoint": 57393,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "textStyleFlat"
+    },
+    "tickets-flat": {
+      "codepoint": 57394,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "ticketsFlat"
+    },
+    "timer-zero-flat": {
+      "codepoint": 57395,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "timerZeroFlat"
+    },
+    "tinder-flat": {
+      "codepoint": 57396,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "tinderFlat"
+    },
+    "toilet-man-flat": {
+      "codepoint": 57397,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "toiletManFlat"
+    },
+    "toilet-man-woman-1-flat": {
+      "codepoint": 57398,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "toiletManWoman1Flat"
+    },
+    "toilet-sign-man-flat": {
+      "codepoint": 57399,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "toiletSignManFlat"
+    },
+    "trending-content-flat": {
+      "codepoint": 57400,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "trendingContentFlat"
+    },
+    "usb-port-flat": {
+      "codepoint": 57401,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "usbPortFlat"
+    },
+    "user-full-body-flat": {
+      "codepoint": 57402,
+      "fontFamily": "StreamlineFlexColor",
+      "identifier": "userFullBodyFlat"
+    },
+    "wrap-arc-upper-flat": {
+      "codepoint": 57403,
       "fontFamily": "StreamlineFlexColor",
       "identifier": "wrapArcUpperFlat"
     }

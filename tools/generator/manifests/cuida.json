@@ -16,13 +16,13 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/Sysvale/cuida-icons/blob/main/LICENSE"
     },
-    "total": 72
+    "total": 182
   },
   "fonts": [
     {
       "family": "Cuida",
-      "nextCodepoint": 57416,
-      "iconCount": 72
+      "nextCodepoint": 57526,
+      "iconCount": 182
     }
   ],
   "icons": {
@@ -31,358 +31,908 @@
       "fontFamily": "Cuida",
       "identifier": "alertOutline"
     },
-    "arrow-down-circle-outline": {
+    "ambulance-outline": {
       "codepoint": 57345,
+      "fontFamily": "Cuida",
+      "identifier": "ambulanceOutline"
+    },
+    "arrow-down-circle-outline": {
+      "codepoint": 57346,
       "fontFamily": "Cuida",
       "identifier": "arrowDownCircleOutline"
     },
+    "arrow-down-outline": {
+      "codepoint": 57347,
+      "fontFamily": "Cuida",
+      "identifier": "arrowDownOutline"
+    },
     "arrow-left-circle-outline": {
-      "codepoint": 57346,
+      "codepoint": 57348,
       "fontFamily": "Cuida",
       "identifier": "arrowLeftCircleOutline"
     },
+    "arrow-left-outline": {
+      "codepoint": 57349,
+      "fontFamily": "Cuida",
+      "identifier": "arrowLeftOutline"
+    },
     "arrow-right-circle-outline": {
-      "codepoint": 57347,
+      "codepoint": 57350,
       "fontFamily": "Cuida",
       "identifier": "arrowRightCircleOutline"
     },
+    "arrow-right-outline": {
+      "codepoint": 57351,
+      "fontFamily": "Cuida",
+      "identifier": "arrowRightOutline"
+    },
     "arrow-up-circle-outline": {
-      "codepoint": 57348,
+      "codepoint": 57352,
       "fontFamily": "Cuida",
       "identifier": "arrowUpCircleOutline"
     },
+    "arrow-up-outline": {
+      "codepoint": 57353,
+      "fontFamily": "Cuida",
+      "identifier": "arrowUpOutline"
+    },
+    "at-outline": {
+      "codepoint": 57354,
+      "fontFamily": "Cuida",
+      "identifier": "atOutline"
+    },
+    "attachment-clip-outline": {
+      "codepoint": 57355,
+      "fontFamily": "Cuida",
+      "identifier": "attachmentClipOutline"
+    },
     "bed-outiline": {
-      "codepoint": 57349,
+      "codepoint": 57356,
       "fontFamily": "Cuida",
       "identifier": "bedOutiline"
     },
     "block-outline": {
-      "codepoint": 57350,
+      "codepoint": 57357,
       "fontFamily": "Cuida",
       "identifier": "blockOutline"
     },
+    "bolt-outline": {
+      "codepoint": 57358,
+      "fontFamily": "Cuida",
+      "identifier": "boltOutline"
+    },
+    "bookmark-outline": {
+      "codepoint": 57359,
+      "fontFamily": "Cuida",
+      "identifier": "bookmarkOutline"
+    },
+    "box-outline": {
+      "codepoint": 57360,
+      "fontFamily": "Cuida",
+      "identifier": "boxOutline"
+    },
     "briefcase-outline": {
-      "codepoint": 57351,
+      "codepoint": 57361,
       "fontFamily": "Cuida",
       "identifier": "briefcaseOutline"
     },
     "building-outline": {
-      "codepoint": 57352,
+      "codepoint": 57362,
       "fontFamily": "Cuida",
       "identifier": "buildingOutline"
     },
+    "bullet-list-outline": {
+      "codepoint": 57363,
+      "fontFamily": "Cuida",
+      "identifier": "bulletListOutline"
+    },
+    "bullseye-outline": {
+      "codepoint": 57364,
+      "fontFamily": "Cuida",
+      "identifier": "bullseyeOutline"
+    },
     "calendar-clear-outline": {
-      "codepoint": 57353,
+      "codepoint": 57365,
       "fontFamily": "Cuida",
       "identifier": "calendarClearOutline"
     },
     "calendar-outline": {
-      "codepoint": 57354,
+      "codepoint": 57366,
       "fontFamily": "Cuida",
       "identifier": "calendarOutline"
     },
     "caret-down-outline": {
-      "codepoint": 57355,
+      "codepoint": 57367,
       "fontFamily": "Cuida",
       "identifier": "caretDownOutline"
     },
     "caret-left-outline": {
-      "codepoint": 57356,
+      "codepoint": 57368,
       "fontFamily": "Cuida",
       "identifier": "caretLeftOutline"
     },
     "caret-right-outline": {
-      "codepoint": 57357,
+      "codepoint": 57369,
       "fontFamily": "Cuida",
       "identifier": "caretRightOutline"
     },
     "caret-up-outline": {
-      "codepoint": 57358,
+      "codepoint": 57370,
       "fontFamily": "Cuida",
       "identifier": "caretUpOutline"
     },
     "chart-column-outline": {
-      "codepoint": 57359,
+      "codepoint": 57371,
       "fontFamily": "Cuida",
       "identifier": "chartColumnOutline"
     },
+    "chatbubble-outline": {
+      "codepoint": 57372,
+      "fontFamily": "Cuida",
+      "identifier": "chatbubbleOutline"
+    },
+    "chatbubbles-outline": {
+      "codepoint": 57373,
+      "fontFamily": "Cuida",
+      "identifier": "chatbubblesOutline"
+    },
     "check-circle-outline": {
-      "codepoint": 57360,
+      "codepoint": 57374,
       "fontFamily": "Cuida",
       "identifier": "checkCircleOutline"
     },
     "check-outline": {
-      "codepoint": 57361,
+      "codepoint": 57375,
       "fontFamily": "Cuida",
       "identifier": "checkOutline"
     },
     "checkbox-checked-outlined": {
-      "codepoint": 57362,
+      "codepoint": 57376,
       "fontFamily": "Cuida",
       "identifier": "checkboxCheckedOutlined"
     },
     "checkbox-unchecked-outlined": {
-      "codepoint": 57363,
+      "codepoint": 57377,
       "fontFamily": "Cuida",
       "identifier": "checkboxUncheckedOutlined"
     },
+    "clipboard-outline": {
+      "codepoint": 57378,
+      "fontFamily": "Cuida",
+      "identifier": "clipboardOutline"
+    },
+    "clipboard-text-outline": {
+      "codepoint": 57379,
+      "fontFamily": "Cuida",
+      "identifier": "clipboardTextOutline"
+    },
+    "clock-outline": {
+      "codepoint": 57380,
+      "fontFamily": "Cuida",
+      "identifier": "clockOutline"
+    },
     "copy-outline": {
-      "codepoint": 57364,
+      "codepoint": 57381,
       "fontFamily": "Cuida",
       "identifier": "copyOutline"
     },
+    "dashboard-outline": {
+      "codepoint": 57382,
+      "fontFamily": "Cuida",
+      "identifier": "dashboardOutline"
+    },
     "divider-outline": {
-      "codepoint": 57365,
+      "codepoint": 57383,
       "fontFamily": "Cuida",
       "identifier": "dividerOutline"
     },
+    "document-outline": {
+      "codepoint": 57384,
+      "fontFamily": "Cuida",
+      "identifier": "documentOutline"
+    },
+    "document-text-outline": {
+      "codepoint": 57385,
+      "fontFamily": "Cuida",
+      "identifier": "documentTextOutline"
+    },
+    "document-texts-outline": {
+      "codepoint": 57386,
+      "fontFamily": "Cuida",
+      "identifier": "documentTextsOutline"
+    },
+    "download-cloud-outline": {
+      "codepoint": 57387,
+      "fontFamily": "Cuida",
+      "identifier": "downloadCloudOutline"
+    },
     "download-outline": {
-      "codepoint": 57366,
+      "codepoint": 57388,
       "fontFamily": "Cuida",
       "identifier": "downloadOutline"
     },
     "dropdown-outline": {
-      "codepoint": 57367,
+      "codepoint": 57389,
       "fontFamily": "Cuida",
       "identifier": "dropdownOutline"
     },
+    "edit-outline": {
+      "codepoint": 57390,
+      "fontFamily": "Cuida",
+      "identifier": "editOutline"
+    },
+    "expand-outline": {
+      "codepoint": 57391,
+      "fontFamily": "Cuida",
+      "identifier": "expandOutline"
+    },
     "figma-logo-outline": {
-      "codepoint": 57368,
+      "codepoint": 57392,
       "fontFamily": "Cuida",
       "identifier": "figmaLogoOutline"
     },
     "filter-outline": {
-      "codepoint": 57369,
+      "codepoint": 57393,
       "fontFamily": "Cuida",
       "identifier": "filterOutline"
     },
+    "fire-outline": {
+      "codepoint": 57394,
+      "fontFamily": "Cuida",
+      "identifier": "fireOutline"
+    },
+    "flag-outline": {
+      "codepoint": 57395,
+      "fontFamily": "Cuida",
+      "identifier": "flagOutline"
+    },
+    "folder-open-outline": {
+      "codepoint": 57396,
+      "fontFamily": "Cuida",
+      "identifier": "folderOpenOutline"
+    },
+    "folder-outline": {
+      "codepoint": 57397,
+      "fontFamily": "Cuida",
+      "identifier": "folderOutline"
+    },
+    "framer-logo-outline": {
+      "codepoint": 57398,
+      "fontFamily": "Cuida",
+      "identifier": "framerLogoOutline"
+    },
+    "funnel-outline": {
+      "codepoint": 57399,
+      "fontFamily": "Cuida",
+      "identifier": "funnelOutline"
+    },
+    "github-logo-outline": {
+      "codepoint": 57400,
+      "fontFamily": "Cuida",
+      "identifier": "githubLogoOutline"
+    },
+    "gitlab-logo-outline": {
+      "codepoint": 57401,
+      "fontFamily": "Cuida",
+      "identifier": "gitlabLogoOutline"
+    },
     "grid-outline": {
-      "codepoint": 57370,
+      "codepoint": 57402,
       "fontFamily": "Cuida",
       "identifier": "gridOutline"
     },
+    "hashtag-outline": {
+      "codepoint": 57403,
+      "fontFamily": "Cuida",
+      "identifier": "hashtagOutline"
+    },
+    "heading1-outline": {
+      "codepoint": 57404,
+      "fontFamily": "Cuida",
+      "identifier": "heading1Outline"
+    },
+    "heading2-outline": {
+      "codepoint": 57405,
+      "fontFamily": "Cuida",
+      "identifier": "heading2Outline"
+    },
+    "heading3-outline": {
+      "codepoint": 57406,
+      "fontFamily": "Cuida",
+      "identifier": "heading3Outline"
+    },
+    "headphone-outline": {
+      "codepoint": 57407,
+      "fontFamily": "Cuida",
+      "identifier": "headphoneOutline"
+    },
+    "headset-outline": {
+      "codepoint": 57408,
+      "fontFamily": "Cuida",
+      "identifier": "headsetOutline"
+    },
+    "heart-rate-outline": {
+      "codepoint": 57409,
+      "fontFamily": "Cuida",
+      "identifier": "heartRateOutline"
+    },
+    "help-outline": {
+      "codepoint": 57410,
+      "fontFamily": "Cuida",
+      "identifier": "helpOutline"
+    },
+    "history-outline": {
+      "codepoint": 57411,
+      "fontFamily": "Cuida",
+      "identifier": "historyOutline"
+    },
+    "home-outline": {
+      "codepoint": 57412,
+      "fontFamily": "Cuida",
+      "identifier": "homeOutline"
+    },
+    "image-outline": {
+      "codepoint": 57413,
+      "fontFamily": "Cuida",
+      "identifier": "imageOutline"
+    },
     "info-outline": {
-      "codepoint": 57371,
+      "codepoint": 57414,
       "fontFamily": "Cuida",
       "identifier": "infoOutline"
     },
+    "key-outline": {
+      "codepoint": 57415,
+      "fontFamily": "Cuida",
+      "identifier": "keyOutline"
+    },
+    "lamp-on-outline": {
+      "codepoint": 57416,
+      "fontFamily": "Cuida",
+      "identifier": "lampOnOutline"
+    },
+    "lamp-outline": {
+      "codepoint": 57417,
+      "fontFamily": "Cuida",
+      "identifier": "lampOutline"
+    },
+    "layers-outline": {
+      "codepoint": 57418,
+      "fontFamily": "Cuida",
+      "identifier": "layersOutline"
+    },
     "lifebuoy-outline": {
-      "codepoint": 57372,
+      "codepoint": 57419,
       "fontFamily": "Cuida",
       "identifier": "lifebuoyOutline"
     },
     "link-outline": {
-      "codepoint": 57373,
+      "codepoint": 57420,
       "fontFamily": "Cuida",
       "identifier": "linkOutline"
     },
     "list-outline": {
-      "codepoint": 57374,
+      "codepoint": 57421,
       "fontFamily": "Cuida",
       "identifier": "listOutline"
     },
+    "loading-left-outline": {
+      "codepoint": 57422,
+      "fontFamily": "Cuida",
+      "identifier": "loadingLeftOutline"
+    },
+    "loading-right-outline": {
+      "codepoint": 57423,
+      "fontFamily": "Cuida",
+      "identifier": "loadingRightOutline"
+    },
+    "lock-outline": {
+      "codepoint": 57424,
+      "fontFamily": "Cuida",
+      "identifier": "lockOutline"
+    },
     "login-outline": {
-      "codepoint": 57375,
+      "codepoint": 57425,
       "fontFamily": "Cuida",
       "identifier": "loginOutline"
     },
     "logout-outline": {
-      "codepoint": 57376,
+      "codepoint": 57426,
       "fontFamily": "Cuida",
       "identifier": "logoutOutline"
     },
     "long-text-outline": {
-      "codepoint": 57377,
+      "codepoint": 57427,
       "fontFamily": "Cuida",
       "identifier": "longTextOutline"
     },
+    "loop-outline": {
+      "codepoint": 57428,
+      "fontFamily": "Cuida",
+      "identifier": "loopOutline"
+    },
+    "mail-outline": {
+      "codepoint": 57429,
+      "fontFamily": "Cuida",
+      "identifier": "mailOutline"
+    },
     "map-outline": {
-      "codepoint": 57378,
+      "codepoint": 57430,
       "fontFamily": "Cuida",
       "identifier": "mapOutline"
     },
+    "map-pin-outline": {
+      "codepoint": 57431,
+      "fontFamily": "Cuida",
+      "identifier": "mapPinOutline"
+    },
     "maximize-outline": {
-      "codepoint": 57379,
+      "codepoint": 57432,
       "fontFamily": "Cuida",
       "identifier": "maximizeOutline"
     },
     "medicine-outline": {
-      "codepoint": 57380,
+      "codepoint": 57433,
       "fontFamily": "Cuida",
       "identifier": "medicineOutline"
     },
     "menu-outline": {
-      "codepoint": 57381,
+      "codepoint": 57434,
       "fontFamily": "Cuida",
       "identifier": "menuOutline"
     },
+    "minimize-outline": {
+      "codepoint": 57435,
+      "fontFamily": "Cuida",
+      "identifier": "minimizeOutline"
+    },
     "minus-circle-outline": {
-      "codepoint": 57382,
+      "codepoint": 57436,
       "fontFamily": "Cuida",
       "identifier": "minusCircleOutline"
     },
     "minus-outline": {
-      "codepoint": 57383,
+      "codepoint": 57437,
       "fontFamily": "Cuida",
       "identifier": "minusOutline"
     },
+    "monitor-outline": {
+      "codepoint": 57438,
+      "fontFamily": "Cuida",
+      "identifier": "monitorOutline"
+    },
+    "moon-outline": {
+      "codepoint": 57439,
+      "fontFamily": "Cuida",
+      "identifier": "moonOutline"
+    },
     "more-horizontal-outline": {
-      "codepoint": 57384,
+      "codepoint": 57440,
       "fontFamily": "Cuida",
       "identifier": "moreHorizontalOutline"
     },
     "more-vertical-outline": {
-      "codepoint": 57385,
+      "codepoint": 57441,
       "fontFamily": "Cuida",
       "identifier": "moreVerticalOutline"
     },
+    "mouse-outline": {
+      "codepoint": 57442,
+      "fontFamily": "Cuida",
+      "identifier": "mouseOutline"
+    },
     "move-outline": {
-      "codepoint": 57386,
+      "codepoint": 57443,
       "fontFamily": "Cuida",
       "identifier": "moveOutline"
     },
+    "notification-bell-outline": {
+      "codepoint": 57444,
+      "fontFamily": "Cuida",
+      "identifier": "notificationBellOutline"
+    },
+    "notification-bell-timer-outline": {
+      "codepoint": 57445,
+      "fontFamily": "Cuida",
+      "identifier": "notificationBellTimerOutline"
+    },
+    "number-outline": {
+      "codepoint": 57446,
+      "fontFamily": "Cuida",
+      "identifier": "numberOutline"
+    },
+    "open-book-outline": {
+      "codepoint": 57447,
+      "fontFamily": "Cuida",
+      "identifier": "openBookOutline"
+    },
+    "open-in-new-tab-outline": {
+      "codepoint": 57448,
+      "fontFamily": "Cuida",
+      "identifier": "openInNewTabOutline"
+    },
+    "package-outline": {
+      "codepoint": 57449,
+      "fontFamily": "Cuida",
+      "identifier": "packageOutline"
+    },
+    "paragraph-outline": {
+      "codepoint": 57450,
+      "fontFamily": "Cuida",
+      "identifier": "paragraphOutline"
+    },
     "pause-circle-outline": {
-      "codepoint": 57387,
+      "codepoint": 57451,
       "fontFamily": "Cuida",
       "identifier": "pauseCircleOutline"
     },
     "pause-outline": {
-      "codepoint": 57388,
+      "codepoint": 57452,
       "fontFamily": "Cuida",
       "identifier": "pauseOutline"
     },
+    "phone-outline": {
+      "codepoint": 57453,
+      "fontFamily": "Cuida",
+      "identifier": "phoneOutline"
+    },
+    "pie-chart-outline": {
+      "codepoint": 57454,
+      "fontFamily": "Cuida",
+      "identifier": "pieChartOutline"
+    },
+    "pin-fill": {
+      "codepoint": 57455,
+      "fontFamily": "Cuida",
+      "identifier": "pinFill"
+    },
+    "pin-outline": {
+      "codepoint": 57456,
+      "fontFamily": "Cuida",
+      "identifier": "pinOutline"
+    },
+    "play-circle-outline": {
+      "codepoint": 57457,
+      "fontFamily": "Cuida",
+      "identifier": "playCircleOutline"
+    },
+    "play-outline": {
+      "codepoint": 57458,
+      "fontFamily": "Cuida",
+      "identifier": "playOutline"
+    },
     "plus-circle-outline": {
-      "codepoint": 57389,
+      "codepoint": 57459,
       "fontFamily": "Cuida",
       "identifier": "plusCircleOutline"
     },
     "plus-outline": {
-      "codepoint": 57390,
+      "codepoint": 57460,
       "fontFamily": "Cuida",
       "identifier": "plusOutline"
     },
     "power-outline": {
-      "codepoint": 57391,
+      "codepoint": 57461,
       "fontFamily": "Cuida",
       "identifier": "powerOutline"
     },
+    "printer-outline": {
+      "codepoint": 57462,
+      "fontFamily": "Cuida",
+      "identifier": "printerOutline"
+    },
+    "radar-outline": {
+      "codepoint": 57463,
+      "fontFamily": "Cuida",
+      "identifier": "radarOutline"
+    },
+    "refresh-outline": {
+      "codepoint": 57464,
+      "fontFamily": "Cuida",
+      "identifier": "refreshOutline"
+    },
     "rendo-outline": {
-      "codepoint": 57392,
+      "codepoint": 57465,
       "fontFamily": "Cuida",
       "identifier": "rendoOutline"
     },
     "reorder-outline": {
-      "codepoint": 57393,
+      "codepoint": 57466,
       "fontFamily": "Cuida",
       "identifier": "reorderOutline"
     },
+    "rotate-left-outline": {
+      "codepoint": 57467,
+      "fontFamily": "Cuida",
+      "identifier": "rotateLeftOutline"
+    },
+    "rotate-right-outline": {
+      "codepoint": 57468,
+      "fontFamily": "Cuida",
+      "identifier": "rotateRightOutline"
+    },
+    "sample-container-outline": {
+      "codepoint": 57469,
+      "fontFamily": "Cuida",
+      "identifier": "sampleContainerOutline"
+    },
     "scope-outline": {
-      "codepoint": 57394,
+      "codepoint": 57470,
       "fontFamily": "Cuida",
       "identifier": "scopeOutline"
     },
     "search-outline": {
-      "codepoint": 57395,
+      "codepoint": 57471,
       "fontFamily": "Cuida",
       "identifier": "searchOutline"
     },
+    "settings-outline": {
+      "codepoint": 57472,
+      "fontFamily": "Cuida",
+      "identifier": "settingsOutline"
+    },
+    "share-outline": {
+      "codepoint": 57473,
+      "fontFamily": "Cuida",
+      "identifier": "shareOutline"
+    },
+    "shield-alert-outline": {
+      "codepoint": 57474,
+      "fontFamily": "Cuida",
+      "identifier": "shieldAlertOutline"
+    },
+    "shield-outline": {
+      "codepoint": 57475,
+      "fontFamily": "Cuida",
+      "identifier": "shieldOutline"
+    },
+    "shield-tick-outline": {
+      "codepoint": 57476,
+      "fontFamily": "Cuida",
+      "identifier": "shieldTickOutline"
+    },
     "short-text-outline": {
-      "codepoint": 57396,
+      "codepoint": 57477,
       "fontFamily": "Cuida",
       "identifier": "shortTextOutline"
     },
     "shrink-outline": {
-      "codepoint": 57397,
+      "codepoint": 57478,
       "fontFamily": "Cuida",
       "identifier": "shrinkOutline"
     },
+    "shuffle-outline": {
+      "codepoint": 57479,
+      "fontFamily": "Cuida",
+      "identifier": "shuffleOutline"
+    },
     "sidebar-collapse-outline": {
-      "codepoint": 57398,
+      "codepoint": 57480,
       "fontFamily": "Cuida",
       "identifier": "sidebarCollapseOutline"
     },
     "sidebar-expand-outline": {
-      "codepoint": 57399,
+      "codepoint": 57481,
       "fontFamily": "Cuida",
       "identifier": "sidebarExpandOutline"
     },
     "single-select-outline": {
-      "codepoint": 57400,
+      "codepoint": 57482,
       "fontFamily": "Cuida",
       "identifier": "singleSelectOutline"
     },
     "sliders-outline": {
-      "codepoint": 57401,
+      "codepoint": 57483,
       "fontFamily": "Cuida",
       "identifier": "slidersOutline"
     },
     "sort-ascending-duotone": {
-      "codepoint": 57402,
+      "codepoint": 57484,
       "fontFamily": "Cuida",
       "identifier": "sortAscendingDuotone"
     },
     "sort-descending-duotone": {
-      "codepoint": 57403,
+      "codepoint": 57485,
       "fontFamily": "Cuida",
       "identifier": "sortDescendingDuotone"
     },
+    "sparks-outline": {
+      "codepoint": 57486,
+      "fontFamily": "Cuida",
+      "identifier": "sparksOutline"
+    },
+    "star-outline": {
+      "codepoint": 57487,
+      "fontFamily": "Cuida",
+      "identifier": "starOutline"
+    },
+    "stethoscope-outline": {
+      "codepoint": 57488,
+      "fontFamily": "Cuida",
+      "identifier": "stethoscopeOutline"
+    },
     "stop-circle-outline": {
-      "codepoint": 57404,
+      "codepoint": 57489,
       "fontFamily": "Cuida",
       "identifier": "stopCircleOutline"
     },
+    "subtask-outline": {
+      "codepoint": 57490,
+      "fontFamily": "Cuida",
+      "identifier": "subtaskOutline"
+    },
     "sun-outline": {
-      "codepoint": 57405,
+      "codepoint": 57491,
       "fontFamily": "Cuida",
       "identifier": "sunOutline"
     },
     "swap-horizontal-arrows-outline": {
-      "codepoint": 57406,
+      "codepoint": 57492,
       "fontFamily": "Cuida",
       "identifier": "swapHorizontalArrowsOutline"
     },
     "swap-vertical-arrows-outline": {
-      "codepoint": 57407,
+      "codepoint": 57493,
       "fontFamily": "Cuida",
       "identifier": "swapVerticalArrowsOutline"
     },
+    "syringe-outline": {
+      "codepoint": 57494,
+      "fontFamily": "Cuida",
+      "identifier": "syringeOutline"
+    },
+    "tag-outline": {
+      "codepoint": 57495,
+      "fontFamily": "Cuida",
+      "identifier": "tagOutline"
+    },
+    "test-tube-outline": {
+      "codepoint": 57496,
+      "fontFamily": "Cuida",
+      "identifier": "testTubeOutline"
+    },
+    "text-outline": {
+      "codepoint": 57497,
+      "fontFamily": "Cuida",
+      "identifier": "textOutline"
+    },
     "ticket-outline": {
-      "codepoint": 57408,
+      "codepoint": 57498,
       "fontFamily": "Cuida",
       "identifier": "ticketOutline"
     },
+    "totem-outline": {
+      "codepoint": 57499,
+      "fontFamily": "Cuida",
+      "identifier": "totemOutline"
+    },
+    "translate-outline": {
+      "codepoint": 57500,
+      "fontFamily": "Cuida",
+      "identifier": "translateOutline"
+    },
+    "trash-outline": {
+      "codepoint": 57501,
+      "fontFamily": "Cuida",
+      "identifier": "trashOutline"
+    },
+    "trending-down-outline": {
+      "codepoint": 57502,
+      "fontFamily": "Cuida",
+      "identifier": "trendingDownOutline"
+    },
+    "trending-up-outline": {
+      "codepoint": 57503,
+      "fontFamily": "Cuida",
+      "identifier": "trendingUpOutline"
+    },
+    "trophy-outline": {
+      "codepoint": 57504,
+      "fontFamily": "Cuida",
+      "identifier": "trophyOutline"
+    },
     "tube-outline": {
-      "codepoint": 57409,
+      "codepoint": 57505,
       "fontFamily": "Cuida",
       "identifier": "tubeOutline"
     },
+    "tv-outline": {
+      "codepoint": 57506,
+      "fontFamily": "Cuida",
+      "identifier": "tvOutline"
+    },
     "undo-outline": {
-      "codepoint": 57410,
+      "codepoint": 57507,
       "fontFamily": "Cuida",
       "identifier": "undoOutline"
     },
     "unfold-horizontal-outline": {
-      "codepoint": 57411,
+      "codepoint": 57508,
       "fontFamily": "Cuida",
       "identifier": "unfoldHorizontalOutline"
     },
     "unfold-vertical-outline": {
-      "codepoint": 57412,
+      "codepoint": 57509,
       "fontFamily": "Cuida",
       "identifier": "unfoldVerticalOutline"
     },
+    "unlock-outline": {
+      "codepoint": 57510,
+      "fontFamily": "Cuida",
+      "identifier": "unlockOutline"
+    },
+    "upload-cloud-outline": {
+      "codepoint": 57511,
+      "fontFamily": "Cuida",
+      "identifier": "uploadCloudOutline"
+    },
     "upload-outline": {
-      "codepoint": 57413,
+      "codepoint": 57512,
       "fontFamily": "Cuida",
       "identifier": "uploadOutline"
     },
+    "user-add-outline": {
+      "codepoint": 57513,
+      "fontFamily": "Cuida",
+      "identifier": "userAddOutline"
+    },
+    "user-outline": {
+      "codepoint": 57514,
+      "fontFamily": "Cuida",
+      "identifier": "userOutline"
+    },
+    "user-remove-outline": {
+      "codepoint": 57515,
+      "fontFamily": "Cuida",
+      "identifier": "userRemoveOutline"
+    },
+    "users-outline": {
+      "codepoint": 57516,
+      "fontFamily": "Cuida",
+      "identifier": "usersOutline"
+    },
+    "videocam-outline": {
+      "codepoint": 57517,
+      "fontFamily": "Cuida",
+      "identifier": "videocamOutline"
+    },
+    "visibility-off-outline": {
+      "codepoint": 57518,
+      "fontFamily": "Cuida",
+      "identifier": "visibilityOffOutline"
+    },
+    "visibility-on-outline": {
+      "codepoint": 57519,
+      "fontFamily": "Cuida",
+      "identifier": "visibilityOnOutline"
+    },
+    "volume-1-outline": {
+      "codepoint": 57520,
+      "fontFamily": "Cuida",
+      "identifier": "volume1Outline"
+    },
+    "volume-2-outline": {
+      "codepoint": 57521,
+      "fontFamily": "Cuida",
+      "identifier": "volume2Outline"
+    },
+    "warning-outline": {
+      "codepoint": 57522,
+      "fontFamily": "Cuida",
+      "identifier": "warningOutline"
+    },
+    "weight-outline": {
+      "codepoint": 57523,
+      "fontFamily": "Cuida",
+      "identifier": "weightOutline"
+    },
     "x-circle-outline": {
-      "codepoint": 57414,
+      "codepoint": 57524,
       "fontFamily": "Cuida",
       "identifier": "xCircleOutline"
     },
     "x-outline": {
-      "codepoint": 57415,
+      "codepoint": 57525,
       "fontFamily": "Cuida",
       "identifier": "xOutline"
     }

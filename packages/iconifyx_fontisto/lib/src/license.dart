@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/kenangundogan/fontisto/blob/master/LICENSE',
-  iconCount: 124,
+  iconCount: 615,
 );

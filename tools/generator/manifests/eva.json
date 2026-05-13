@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/akveo/eva-icons/blob/master/LICENSE.txt"
     },
-    "total": 488
+    "total": 487
   },
   "fonts": [
     {
       "family": "Eva",
-      "nextCodepoint": 57832,
-      "iconCount": 488
+      "nextCodepoint": 57831,
+      "iconCount": 487
     }
   ],
   "icons": {
@@ -646,1823 +646,1818 @@
       "fontFamily": "Eva",
       "identifier": "closeSquareOutline"
     },
-    "cloud-download-fill": {
-      "codepoint": 57468,
-      "fontFamily": "Eva",
-      "identifier": "cloudDownloadFill"
-    },
     "cloud-download-outline": {
-      "codepoint": 57469,
+      "codepoint": 57468,
       "fontFamily": "Eva",
       "identifier": "cloudDownloadOutline"
     },
     "cloud-upload-fill": {
-      "codepoint": 57470,
+      "codepoint": 57469,
       "fontFamily": "Eva",
       "identifier": "cloudUploadFill"
     },
     "cloud-upload-outline": {
-      "codepoint": 57471,
+      "codepoint": 57470,
       "fontFamily": "Eva",
       "identifier": "cloudUploadOutline"
     },
     "code-download-fill": {
-      "codepoint": 57472,
+      "codepoint": 57471,
       "fontFamily": "Eva",
       "identifier": "codeDownloadFill"
     },
     "code-download-outline": {
-      "codepoint": 57473,
+      "codepoint": 57472,
       "fontFamily": "Eva",
       "identifier": "codeDownloadOutline"
     },
     "code-fill": {
-      "codepoint": 57474,
+      "codepoint": 57473,
       "fontFamily": "Eva",
       "identifier": "codeFill"
     },
     "code-outline": {
-      "codepoint": 57475,
+      "codepoint": 57474,
       "fontFamily": "Eva",
       "identifier": "codeOutline"
     },
     "collapse-fill": {
-      "codepoint": 57476,
+      "codepoint": 57475,
       "fontFamily": "Eva",
       "identifier": "collapseFill"
     },
     "collapse-outline": {
-      "codepoint": 57477,
+      "codepoint": 57476,
       "fontFamily": "Eva",
       "identifier": "collapseOutline"
     },
     "color-palette-fill": {
-      "codepoint": 57478,
+      "codepoint": 57477,
       "fontFamily": "Eva",
       "identifier": "colorPaletteFill"
     },
     "color-palette-outline": {
-      "codepoint": 57479,
+      "codepoint": 57478,
       "fontFamily": "Eva",
       "identifier": "colorPaletteOutline"
     },
     "color-picker-fill": {
-      "codepoint": 57480,
+      "codepoint": 57479,
       "fontFamily": "Eva",
       "identifier": "colorPickerFill"
     },
     "color-picker-outline": {
-      "codepoint": 57481,
+      "codepoint": 57480,
       "fontFamily": "Eva",
       "identifier": "colorPickerOutline"
     },
     "compass-fill": {
-      "codepoint": 57482,
+      "codepoint": 57481,
       "fontFamily": "Eva",
       "identifier": "compassFill"
     },
     "compass-outline": {
-      "codepoint": 57483,
+      "codepoint": 57482,
       "fontFamily": "Eva",
       "identifier": "compassOutline"
     },
     "copy-fill": {
-      "codepoint": 57484,
+      "codepoint": 57483,
       "fontFamily": "Eva",
       "identifier": "copyFill"
     },
     "copy-outline": {
-      "codepoint": 57485,
+      "codepoint": 57484,
       "fontFamily": "Eva",
       "identifier": "copyOutline"
     },
     "corner-down-left-fill": {
-      "codepoint": 57486,
+      "codepoint": 57485,
       "fontFamily": "Eva",
       "identifier": "cornerDownLeftFill"
     },
     "corner-down-left-outline": {
-      "codepoint": 57487,
+      "codepoint": 57486,
       "fontFamily": "Eva",
       "identifier": "cornerDownLeftOutline"
     },
     "corner-down-right-fill": {
-      "codepoint": 57488,
+      "codepoint": 57487,
       "fontFamily": "Eva",
       "identifier": "cornerDownRightFill"
     },
     "corner-down-right-outline": {
-      "codepoint": 57489,
+      "codepoint": 57488,
       "fontFamily": "Eva",
       "identifier": "cornerDownRightOutline"
     },
     "corner-left-down-fill": {
-      "codepoint": 57490,
+      "codepoint": 57489,
       "fontFamily": "Eva",
       "identifier": "cornerLeftDownFill"
     },
     "corner-left-down-outline": {
-      "codepoint": 57491,
+      "codepoint": 57490,
       "fontFamily": "Eva",
       "identifier": "cornerLeftDownOutline"
     },
     "corner-left-up-fill": {
-      "codepoint": 57492,
+      "codepoint": 57491,
       "fontFamily": "Eva",
       "identifier": "cornerLeftUpFill"
     },
     "corner-left-up-outline": {
-      "codepoint": 57493,
+      "codepoint": 57492,
       "fontFamily": "Eva",
       "identifier": "cornerLeftUpOutline"
     },
     "corner-right-down-fill": {
-      "codepoint": 57494,
+      "codepoint": 57493,
       "fontFamily": "Eva",
       "identifier": "cornerRightDownFill"
     },
     "corner-right-down-outline": {
-      "codepoint": 57495,
+      "codepoint": 57494,
       "fontFamily": "Eva",
       "identifier": "cornerRightDownOutline"
     },
     "corner-right-up-fill": {
-      "codepoint": 57496,
+      "codepoint": 57495,
       "fontFamily": "Eva",
       "identifier": "cornerRightUpFill"
     },
     "corner-right-up-outline": {
-      "codepoint": 57497,
+      "codepoint": 57496,
       "fontFamily": "Eva",
       "identifier": "cornerRightUpOutline"
     },
     "corner-up-left-fill": {
-      "codepoint": 57498,
+      "codepoint": 57497,
       "fontFamily": "Eva",
       "identifier": "cornerUpLeftFill"
     },
     "corner-up-left-outline": {
-      "codepoint": 57499,
+      "codepoint": 57498,
       "fontFamily": "Eva",
       "identifier": "cornerUpLeftOutline"
     },
     "corner-up-right-fill": {
-      "codepoint": 57500,
+      "codepoint": 57499,
       "fontFamily": "Eva",
       "identifier": "cornerUpRightFill"
     },
     "corner-up-right-outline": {
-      "codepoint": 57501,
+      "codepoint": 57500,
       "fontFamily": "Eva",
       "identifier": "cornerUpRightOutline"
     },
     "credit-card-fill": {
-      "codepoint": 57502,
+      "codepoint": 57501,
       "fontFamily": "Eva",
       "identifier": "creditCardFill"
     },
     "credit-card-outline": {
-      "codepoint": 57503,
+      "codepoint": 57502,
       "fontFamily": "Eva",
       "identifier": "creditCardOutline"
     },
     "crop-fill": {
-      "codepoint": 57504,
+      "codepoint": 57503,
       "fontFamily": "Eva",
       "identifier": "cropFill"
     },
     "crop-outline": {
-      "codepoint": 57505,
+      "codepoint": 57504,
       "fontFamily": "Eva",
       "identifier": "cropOutline"
     },
     "cube-fill": {
-      "codepoint": 57506,
+      "codepoint": 57505,
       "fontFamily": "Eva",
       "identifier": "cubeFill"
     },
     "cube-outline": {
-      "codepoint": 57507,
+      "codepoint": 57506,
       "fontFamily": "Eva",
       "identifier": "cubeOutline"
     },
     "diagonal-arrow-left-down-fill": {
-      "codepoint": 57508,
+      "codepoint": 57507,
       "fontFamily": "Eva",
       "identifier": "diagonalArrowLeftDownFill"
     },
     "diagonal-arrow-left-down-outline": {
-      "codepoint": 57509,
+      "codepoint": 57508,
       "fontFamily": "Eva",
       "identifier": "diagonalArrowLeftDownOutline"
     },
     "diagonal-arrow-left-up-fill": {
-      "codepoint": 57510,
+      "codepoint": 57509,
       "fontFamily": "Eva",
       "identifier": "diagonalArrowLeftUpFill"
     },
     "diagonal-arrow-left-up-outline": {
-      "codepoint": 57511,
+      "codepoint": 57510,
       "fontFamily": "Eva",
       "identifier": "diagonalArrowLeftUpOutline"
     },
     "diagonal-arrow-right-down-fill": {
-      "codepoint": 57512,
+      "codepoint": 57511,
       "fontFamily": "Eva",
       "identifier": "diagonalArrowRightDownFill"
     },
     "diagonal-arrow-right-down-outline": {
-      "codepoint": 57513,
+      "codepoint": 57512,
       "fontFamily": "Eva",
       "identifier": "diagonalArrowRightDownOutline"
     },
     "diagonal-arrow-right-up-fill": {
-      "codepoint": 57514,
+      "codepoint": 57513,
       "fontFamily": "Eva",
       "identifier": "diagonalArrowRightUpFill"
     },
     "diagonal-arrow-right-up-outline": {
-      "codepoint": 57515,
+      "codepoint": 57514,
       "fontFamily": "Eva",
       "identifier": "diagonalArrowRightUpOutline"
     },
     "done-all-fill": {
-      "codepoint": 57516,
+      "codepoint": 57515,
       "fontFamily": "Eva",
       "identifier": "doneAllFill"
     },
     "done-all-outline": {
-      "codepoint": 57517,
+      "codepoint": 57516,
       "fontFamily": "Eva",
       "identifier": "doneAllOutline"
     },
     "download-fill": {
-      "codepoint": 57518,
+      "codepoint": 57517,
       "fontFamily": "Eva",
       "identifier": "downloadFill"
     },
     "download-outline": {
-      "codepoint": 57519,
+      "codepoint": 57518,
       "fontFamily": "Eva",
       "identifier": "downloadOutline"
     },
     "droplet-fill": {
-      "codepoint": 57520,
+      "codepoint": 57519,
       "fontFamily": "Eva",
       "identifier": "dropletFill"
     },
     "droplet-off-fill": {
-      "codepoint": 57521,
+      "codepoint": 57520,
       "fontFamily": "Eva",
       "identifier": "dropletOffFill"
     },
     "droplet-off-outline": {
-      "codepoint": 57522,
+      "codepoint": 57521,
       "fontFamily": "Eva",
       "identifier": "dropletOffOutline"
     },
     "droplet-outline": {
-      "codepoint": 57523,
+      "codepoint": 57522,
       "fontFamily": "Eva",
       "identifier": "dropletOutline"
     },
     "edit-2-fill": {
-      "codepoint": 57524,
+      "codepoint": 57523,
       "fontFamily": "Eva",
       "identifier": "edit2Fill"
     },
     "edit-2-outline": {
-      "codepoint": 57525,
+      "codepoint": 57524,
       "fontFamily": "Eva",
       "identifier": "edit2Outline"
     },
     "edit-fill": {
-      "codepoint": 57526,
+      "codepoint": 57525,
       "fontFamily": "Eva",
       "identifier": "editFill"
     },
     "edit-outline": {
-      "codepoint": 57527,
+      "codepoint": 57526,
       "fontFamily": "Eva",
       "identifier": "editOutline"
     },
     "email-fill": {
-      "codepoint": 57528,
+      "codepoint": 57527,
       "fontFamily": "Eva",
       "identifier": "emailFill"
     },
     "email-outline": {
-      "codepoint": 57529,
+      "codepoint": 57528,
       "fontFamily": "Eva",
       "identifier": "emailOutline"
     },
     "expand-fill": {
-      "codepoint": 57530,
+      "codepoint": 57529,
       "fontFamily": "Eva",
       "identifier": "expandFill"
     },
     "expand-outline": {
-      "codepoint": 57531,
+      "codepoint": 57530,
       "fontFamily": "Eva",
       "identifier": "expandOutline"
     },
     "external-link-fill": {
-      "codepoint": 57532,
+      "codepoint": 57531,
       "fontFamily": "Eva",
       "identifier": "externalLinkFill"
     },
     "external-link-outline": {
-      "codepoint": 57533,
+      "codepoint": 57532,
       "fontFamily": "Eva",
       "identifier": "externalLinkOutline"
     },
     "eye-fill": {
-      "codepoint": 57534,
+      "codepoint": 57533,
       "fontFamily": "Eva",
       "identifier": "eyeFill"
     },
     "eye-off-2-fill": {
-      "codepoint": 57535,
+      "codepoint": 57534,
       "fontFamily": "Eva",
       "identifier": "eyeOff2Fill"
     },
     "eye-off-2-outline": {
-      "codepoint": 57536,
+      "codepoint": 57535,
       "fontFamily": "Eva",
       "identifier": "eyeOff2Outline"
     },
     "eye-off-fill": {
-      "codepoint": 57537,
+      "codepoint": 57536,
       "fontFamily": "Eva",
       "identifier": "eyeOffFill"
     },
     "eye-off-outline": {
-      "codepoint": 57538,
+      "codepoint": 57537,
       "fontFamily": "Eva",
       "identifier": "eyeOffOutline"
     },
     "eye-outline": {
-      "codepoint": 57539,
+      "codepoint": 57538,
       "fontFamily": "Eva",
       "identifier": "eyeOutline"
     },
     "facebook-fill": {
-      "codepoint": 57540,
+      "codepoint": 57539,
       "fontFamily": "Eva",
       "identifier": "facebookFill"
     },
     "facebook-outline": {
-      "codepoint": 57541,
+      "codepoint": 57540,
       "fontFamily": "Eva",
       "identifier": "facebookOutline"
     },
     "file-add-fill": {
-      "codepoint": 57542,
+      "codepoint": 57541,
       "fontFamily": "Eva",
       "identifier": "fileAddFill"
     },
     "file-add-outline": {
-      "codepoint": 57543,
+      "codepoint": 57542,
       "fontFamily": "Eva",
       "identifier": "fileAddOutline"
     },
     "file-fill": {
-      "codepoint": 57544,
+      "codepoint": 57543,
       "fontFamily": "Eva",
       "identifier": "fileFill"
     },
     "file-outline": {
-      "codepoint": 57545,
+      "codepoint": 57544,
       "fontFamily": "Eva",
       "identifier": "fileOutline"
     },
     "file-remove-fill": {
-      "codepoint": 57546,
+      "codepoint": 57545,
       "fontFamily": "Eva",
       "identifier": "fileRemoveFill"
     },
     "file-remove-outline": {
-      "codepoint": 57547,
+      "codepoint": 57546,
       "fontFamily": "Eva",
       "identifier": "fileRemoveOutline"
     },
     "file-text-fill": {
-      "codepoint": 57548,
+      "codepoint": 57547,
       "fontFamily": "Eva",
       "identifier": "fileTextFill"
     },
     "file-text-outline": {
-      "codepoint": 57549,
+      "codepoint": 57548,
       "fontFamily": "Eva",
       "identifier": "fileTextOutline"
     },
     "film-fill": {
-      "codepoint": 57550,
+      "codepoint": 57549,
       "fontFamily": "Eva",
       "identifier": "filmFill"
     },
     "film-outline": {
-      "codepoint": 57551,
+      "codepoint": 57550,
       "fontFamily": "Eva",
       "identifier": "filmOutline"
     },
     "flag-fill": {
-      "codepoint": 57552,
+      "codepoint": 57551,
       "fontFamily": "Eva",
       "identifier": "flagFill"
     },
     "flag-outline": {
-      "codepoint": 57553,
+      "codepoint": 57552,
       "fontFamily": "Eva",
       "identifier": "flagOutline"
     },
     "flash-fill": {
-      "codepoint": 57554,
+      "codepoint": 57553,
       "fontFamily": "Eva",
       "identifier": "flashFill"
     },
     "flash-off-fill": {
-      "codepoint": 57555,
+      "codepoint": 57554,
       "fontFamily": "Eva",
       "identifier": "flashOffFill"
     },
     "flash-off-outline": {
-      "codepoint": 57556,
+      "codepoint": 57555,
       "fontFamily": "Eva",
       "identifier": "flashOffOutline"
     },
     "flash-outline": {
-      "codepoint": 57557,
+      "codepoint": 57556,
       "fontFamily": "Eva",
       "identifier": "flashOutline"
     },
     "flip-2-fill": {
-      "codepoint": 57558,
+      "codepoint": 57557,
       "fontFamily": "Eva",
       "identifier": "flip2Fill"
     },
     "flip-2-outline": {
-      "codepoint": 57559,
+      "codepoint": 57558,
       "fontFamily": "Eva",
       "identifier": "flip2Outline"
     },
     "flip-fill": {
-      "codepoint": 57560,
+      "codepoint": 57559,
       "fontFamily": "Eva",
       "identifier": "flipFill"
     },
     "flip-outline": {
-      "codepoint": 57561,
+      "codepoint": 57560,
       "fontFamily": "Eva",
       "identifier": "flipOutline"
     },
     "folder-add-fill": {
-      "codepoint": 57562,
+      "codepoint": 57561,
       "fontFamily": "Eva",
       "identifier": "folderAddFill"
     },
     "folder-add-outline": {
-      "codepoint": 57563,
+      "codepoint": 57562,
       "fontFamily": "Eva",
       "identifier": "folderAddOutline"
     },
     "folder-fill": {
-      "codepoint": 57564,
+      "codepoint": 57563,
       "fontFamily": "Eva",
       "identifier": "folderFill"
     },
     "folder-outline": {
-      "codepoint": 57565,
+      "codepoint": 57564,
       "fontFamily": "Eva",
       "identifier": "folderOutline"
     },
     "folder-remove-fill": {
-      "codepoint": 57566,
+      "codepoint": 57565,
       "fontFamily": "Eva",
       "identifier": "folderRemoveFill"
     },
     "folder-remove-outline": {
-      "codepoint": 57567,
+      "codepoint": 57566,
       "fontFamily": "Eva",
       "identifier": "folderRemoveOutline"
     },
     "funnel-fill": {
-      "codepoint": 57568,
+      "codepoint": 57567,
       "fontFamily": "Eva",
       "identifier": "funnelFill"
     },
     "funnel-outline": {
-      "codepoint": 57569,
+      "codepoint": 57568,
       "fontFamily": "Eva",
       "identifier": "funnelOutline"
     },
     "gift-fill": {
-      "codepoint": 57570,
+      "codepoint": 57569,
       "fontFamily": "Eva",
       "identifier": "giftFill"
     },
     "gift-outline": {
-      "codepoint": 57571,
+      "codepoint": 57570,
       "fontFamily": "Eva",
       "identifier": "giftOutline"
     },
     "github-fill": {
-      "codepoint": 57572,
+      "codepoint": 57571,
       "fontFamily": "Eva",
       "identifier": "githubFill"
     },
     "github-outline": {
-      "codepoint": 57573,
+      "codepoint": 57572,
       "fontFamily": "Eva",
       "identifier": "githubOutline"
     },
     "globe-2-fill": {
-      "codepoint": 57574,
+      "codepoint": 57573,
       "fontFamily": "Eva",
       "identifier": "globe2Fill"
     },
     "globe-2-outline": {
-      "codepoint": 57575,
+      "codepoint": 57574,
       "fontFamily": "Eva",
       "identifier": "globe2Outline"
     },
     "globe-3-fill": {
-      "codepoint": 57576,
+      "codepoint": 57575,
       "fontFamily": "Eva",
       "identifier": "globe3Fill"
     },
     "globe-fill": {
-      "codepoint": 57577,
+      "codepoint": 57576,
       "fontFamily": "Eva",
       "identifier": "globeFill"
     },
     "globe-outline": {
-      "codepoint": 57578,
+      "codepoint": 57577,
       "fontFamily": "Eva",
       "identifier": "globeOutline"
     },
     "google-fill": {
-      "codepoint": 57579,
+      "codepoint": 57578,
       "fontFamily": "Eva",
       "identifier": "googleFill"
     },
     "google-outline": {
-      "codepoint": 57580,
+      "codepoint": 57579,
       "fontFamily": "Eva",
       "identifier": "googleOutline"
     },
     "grid-fill": {
-      "codepoint": 57581,
+      "codepoint": 57580,
       "fontFamily": "Eva",
       "identifier": "gridFill"
     },
     "grid-outline": {
-      "codepoint": 57582,
+      "codepoint": 57581,
       "fontFamily": "Eva",
       "identifier": "gridOutline"
     },
     "hard-drive-fill": {
-      "codepoint": 57583,
+      "codepoint": 57582,
       "fontFamily": "Eva",
       "identifier": "hardDriveFill"
     },
     "hard-drive-outline": {
-      "codepoint": 57584,
+      "codepoint": 57583,
       "fontFamily": "Eva",
       "identifier": "hardDriveOutline"
     },
     "hash-fill": {
-      "codepoint": 57585,
+      "codepoint": 57584,
       "fontFamily": "Eva",
       "identifier": "hashFill"
     },
     "hash-outline": {
-      "codepoint": 57586,
+      "codepoint": 57585,
       "fontFamily": "Eva",
       "identifier": "hashOutline"
     },
     "headphones-fill": {
-      "codepoint": 57587,
+      "codepoint": 57586,
       "fontFamily": "Eva",
       "identifier": "headphonesFill"
     },
     "headphones-outline": {
-      "codepoint": 57588,
+      "codepoint": 57587,
       "fontFamily": "Eva",
       "identifier": "headphonesOutline"
     },
     "heart-fill": {
-      "codepoint": 57589,
+      "codepoint": 57588,
       "fontFamily": "Eva",
       "identifier": "heartFill"
     },
     "heart-outline": {
-      "codepoint": 57590,
+      "codepoint": 57589,
       "fontFamily": "Eva",
       "identifier": "heartOutline"
     },
     "home-fill": {
-      "codepoint": 57591,
+      "codepoint": 57590,
       "fontFamily": "Eva",
       "identifier": "homeFill"
     },
     "home-outline": {
-      "codepoint": 57592,
+      "codepoint": 57591,
       "fontFamily": "Eva",
       "identifier": "homeOutline"
     },
     "image-2-fill": {
-      "codepoint": 57593,
+      "codepoint": 57592,
       "fontFamily": "Eva",
       "identifier": "image2Fill"
     },
     "image-fill": {
-      "codepoint": 57594,
+      "codepoint": 57593,
       "fontFamily": "Eva",
       "identifier": "imageFill"
     },
     "image-outline": {
-      "codepoint": 57595,
+      "codepoint": 57594,
       "fontFamily": "Eva",
       "identifier": "imageOutline"
     },
     "inbox-fill": {
-      "codepoint": 57596,
+      "codepoint": 57595,
       "fontFamily": "Eva",
       "identifier": "inboxFill"
     },
     "inbox-outline": {
-      "codepoint": 57597,
+      "codepoint": 57596,
       "fontFamily": "Eva",
       "identifier": "inboxOutline"
     },
     "info-fill": {
-      "codepoint": 57598,
+      "codepoint": 57597,
       "fontFamily": "Eva",
       "identifier": "infoFill"
     },
     "info-outline": {
-      "codepoint": 57599,
+      "codepoint": 57598,
       "fontFamily": "Eva",
       "identifier": "infoOutline"
     },
     "keypad-fill": {
-      "codepoint": 57600,
+      "codepoint": 57599,
       "fontFamily": "Eva",
       "identifier": "keypadFill"
     },
     "keypad-outline": {
-      "codepoint": 57601,
+      "codepoint": 57600,
       "fontFamily": "Eva",
       "identifier": "keypadOutline"
     },
     "layers-fill": {
-      "codepoint": 57602,
+      "codepoint": 57601,
       "fontFamily": "Eva",
       "identifier": "layersFill"
     },
     "layers-outline": {
-      "codepoint": 57603,
+      "codepoint": 57602,
       "fontFamily": "Eva",
       "identifier": "layersOutline"
     },
     "layout-fill": {
-      "codepoint": 57604,
+      "codepoint": 57603,
       "fontFamily": "Eva",
       "identifier": "layoutFill"
     },
     "layout-outline": {
-      "codepoint": 57605,
+      "codepoint": 57604,
       "fontFamily": "Eva",
       "identifier": "layoutOutline"
     },
     "link-2-fill": {
-      "codepoint": 57606,
+      "codepoint": 57605,
       "fontFamily": "Eva",
       "identifier": "link2Fill"
     },
     "link-2-outline": {
-      "codepoint": 57607,
+      "codepoint": 57606,
       "fontFamily": "Eva",
       "identifier": "link2Outline"
     },
     "link-fill": {
-      "codepoint": 57608,
+      "codepoint": 57607,
       "fontFamily": "Eva",
       "identifier": "linkFill"
     },
     "link-outline": {
-      "codepoint": 57609,
+      "codepoint": 57608,
       "fontFamily": "Eva",
       "identifier": "linkOutline"
     },
     "linkedin-fill": {
-      "codepoint": 57610,
+      "codepoint": 57609,
       "fontFamily": "Eva",
       "identifier": "linkedinFill"
     },
     "linkedin-outline": {
-      "codepoint": 57611,
+      "codepoint": 57610,
       "fontFamily": "Eva",
       "identifier": "linkedinOutline"
     },
     "list-fill": {
-      "codepoint": 57612,
+      "codepoint": 57611,
       "fontFamily": "Eva",
       "identifier": "listFill"
     },
     "list-outline": {
-      "codepoint": 57613,
+      "codepoint": 57612,
       "fontFamily": "Eva",
       "identifier": "listOutline"
     },
     "loader-outline": {
-      "codepoint": 57614,
+      "codepoint": 57613,
       "fontFamily": "Eva",
       "identifier": "loaderOutline"
     },
     "lock-fill": {
-      "codepoint": 57615,
+      "codepoint": 57614,
       "fontFamily": "Eva",
       "identifier": "lockFill"
     },
     "lock-outline": {
-      "codepoint": 57616,
+      "codepoint": 57615,
       "fontFamily": "Eva",
       "identifier": "lockOutline"
     },
     "log-in-fill": {
-      "codepoint": 57617,
+      "codepoint": 57616,
       "fontFamily": "Eva",
       "identifier": "logInFill"
     },
     "log-in-outline": {
-      "codepoint": 57618,
+      "codepoint": 57617,
       "fontFamily": "Eva",
       "identifier": "logInOutline"
     },
     "log-out-fill": {
-      "codepoint": 57619,
+      "codepoint": 57618,
       "fontFamily": "Eva",
       "identifier": "logOutFill"
     },
     "log-out-outline": {
-      "codepoint": 57620,
+      "codepoint": 57619,
       "fontFamily": "Eva",
       "identifier": "logOutOutline"
     },
     "map-fill": {
-      "codepoint": 57621,
+      "codepoint": 57620,
       "fontFamily": "Eva",
       "identifier": "mapFill"
     },
     "map-outline": {
-      "codepoint": 57622,
+      "codepoint": 57621,
       "fontFamily": "Eva",
       "identifier": "mapOutline"
     },
     "maximize-fill": {
-      "codepoint": 57623,
+      "codepoint": 57622,
       "fontFamily": "Eva",
       "identifier": "maximizeFill"
     },
     "maximize-outline": {
-      "codepoint": 57624,
+      "codepoint": 57623,
       "fontFamily": "Eva",
       "identifier": "maximizeOutline"
     },
     "menu-2-fill": {
-      "codepoint": 57625,
+      "codepoint": 57624,
       "fontFamily": "Eva",
       "identifier": "menu2Fill"
     },
     "menu-2-outline": {
-      "codepoint": 57626,
+      "codepoint": 57625,
       "fontFamily": "Eva",
       "identifier": "menu2Outline"
     },
     "menu-arrow-fill": {
-      "codepoint": 57627,
+      "codepoint": 57626,
       "fontFamily": "Eva",
       "identifier": "menuArrowFill"
     },
     "menu-arrow-outline": {
-      "codepoint": 57628,
+      "codepoint": 57627,
       "fontFamily": "Eva",
       "identifier": "menuArrowOutline"
     },
     "menu-fill": {
-      "codepoint": 57629,
+      "codepoint": 57628,
       "fontFamily": "Eva",
       "identifier": "menuFill"
     },
     "menu-outline": {
-      "codepoint": 57630,
+      "codepoint": 57629,
       "fontFamily": "Eva",
       "identifier": "menuOutline"
     },
     "message-circle-fill": {
-      "codepoint": 57631,
+      "codepoint": 57630,
       "fontFamily": "Eva",
       "identifier": "messageCircleFill"
     },
     "message-circle-outline": {
-      "codepoint": 57632,
+      "codepoint": 57631,
       "fontFamily": "Eva",
       "identifier": "messageCircleOutline"
     },
     "message-square-fill": {
-      "codepoint": 57633,
+      "codepoint": 57632,
       "fontFamily": "Eva",
       "identifier": "messageSquareFill"
     },
     "message-square-outline": {
-      "codepoint": 57634,
+      "codepoint": 57633,
       "fontFamily": "Eva",
       "identifier": "messageSquareOutline"
     },
     "mic-fill": {
-      "codepoint": 57635,
+      "codepoint": 57634,
       "fontFamily": "Eva",
       "identifier": "micFill"
     },
     "mic-off-fill": {
-      "codepoint": 57636,
+      "codepoint": 57635,
       "fontFamily": "Eva",
       "identifier": "micOffFill"
     },
     "mic-off-outline": {
-      "codepoint": 57637,
+      "codepoint": 57636,
       "fontFamily": "Eva",
       "identifier": "micOffOutline"
     },
     "mic-outline": {
-      "codepoint": 57638,
+      "codepoint": 57637,
       "fontFamily": "Eva",
       "identifier": "micOutline"
     },
     "minimize-fill": {
-      "codepoint": 57639,
+      "codepoint": 57638,
       "fontFamily": "Eva",
       "identifier": "minimizeFill"
     },
     "minimize-outline": {
-      "codepoint": 57640,
+      "codepoint": 57639,
       "fontFamily": "Eva",
       "identifier": "minimizeOutline"
     },
     "minus-circle-fill": {
-      "codepoint": 57641,
+      "codepoint": 57640,
       "fontFamily": "Eva",
       "identifier": "minusCircleFill"
     },
     "minus-circle-outline": {
-      "codepoint": 57642,
+      "codepoint": 57641,
       "fontFamily": "Eva",
       "identifier": "minusCircleOutline"
     },
     "minus-fill": {
-      "codepoint": 57643,
+      "codepoint": 57642,
       "fontFamily": "Eva",
       "identifier": "minusFill"
     },
     "minus-outline": {
-      "codepoint": 57644,
+      "codepoint": 57643,
       "fontFamily": "Eva",
       "identifier": "minusOutline"
     },
     "minus-square-fill": {
-      "codepoint": 57645,
+      "codepoint": 57644,
       "fontFamily": "Eva",
       "identifier": "minusSquareFill"
     },
     "minus-square-outline": {
-      "codepoint": 57646,
+      "codepoint": 57645,
       "fontFamily": "Eva",
       "identifier": "minusSquareOutline"
     },
     "monitor-fill": {
-      "codepoint": 57647,
+      "codepoint": 57646,
       "fontFamily": "Eva",
       "identifier": "monitorFill"
     },
     "monitor-outline": {
-      "codepoint": 57648,
+      "codepoint": 57647,
       "fontFamily": "Eva",
       "identifier": "monitorOutline"
     },
     "moon-fill": {
-      "codepoint": 57649,
+      "codepoint": 57648,
       "fontFamily": "Eva",
       "identifier": "moonFill"
     },
     "moon-outline": {
-      "codepoint": 57650,
+      "codepoint": 57649,
       "fontFamily": "Eva",
       "identifier": "moonOutline"
     },
     "more-horizontal-fill": {
-      "codepoint": 57651,
+      "codepoint": 57650,
       "fontFamily": "Eva",
       "identifier": "moreHorizontalFill"
     },
     "more-horizontal-outline": {
-      "codepoint": 57652,
+      "codepoint": 57651,
       "fontFamily": "Eva",
       "identifier": "moreHorizontalOutline"
     },
     "more-vertical-fill": {
-      "codepoint": 57653,
+      "codepoint": 57652,
       "fontFamily": "Eva",
       "identifier": "moreVerticalFill"
     },
     "more-vertical-outline": {
-      "codepoint": 57654,
+      "codepoint": 57653,
       "fontFamily": "Eva",
       "identifier": "moreVerticalOutline"
     },
     "move-fill": {
-      "codepoint": 57655,
+      "codepoint": 57654,
       "fontFamily": "Eva",
       "identifier": "moveFill"
     },
     "move-outline": {
-      "codepoint": 57656,
+      "codepoint": 57655,
       "fontFamily": "Eva",
       "identifier": "moveOutline"
     },
     "music-fill": {
-      "codepoint": 57657,
+      "codepoint": 57656,
       "fontFamily": "Eva",
       "identifier": "musicFill"
     },
     "music-outline": {
-      "codepoint": 57658,
+      "codepoint": 57657,
       "fontFamily": "Eva",
       "identifier": "musicOutline"
     },
     "navigation-2-fill": {
-      "codepoint": 57659,
+      "codepoint": 57658,
       "fontFamily": "Eva",
       "identifier": "navigation2Fill"
     },
     "navigation-2-outline": {
-      "codepoint": 57660,
+      "codepoint": 57659,
       "fontFamily": "Eva",
       "identifier": "navigation2Outline"
     },
     "navigation-fill": {
-      "codepoint": 57661,
+      "codepoint": 57660,
       "fontFamily": "Eva",
       "identifier": "navigationFill"
     },
     "navigation-outline": {
-      "codepoint": 57662,
+      "codepoint": 57661,
       "fontFamily": "Eva",
       "identifier": "navigationOutline"
     },
     "npm-fill": {
-      "codepoint": 57663,
+      "codepoint": 57662,
       "fontFamily": "Eva",
       "identifier": "npmFill"
     },
     "npm-outline": {
-      "codepoint": 57664,
+      "codepoint": 57663,
       "fontFamily": "Eva",
       "identifier": "npmOutline"
     },
     "options-2-fill": {
-      "codepoint": 57665,
+      "codepoint": 57664,
       "fontFamily": "Eva",
       "identifier": "options2Fill"
     },
     "options-2-outline": {
-      "codepoint": 57666,
+      "codepoint": 57665,
       "fontFamily": "Eva",
       "identifier": "options2Outline"
     },
     "options-fill": {
-      "codepoint": 57667,
+      "codepoint": 57666,
       "fontFamily": "Eva",
       "identifier": "optionsFill"
     },
     "options-outline": {
-      "codepoint": 57668,
+      "codepoint": 57667,
       "fontFamily": "Eva",
       "identifier": "optionsOutline"
     },
     "pantone-fill": {
-      "codepoint": 57669,
+      "codepoint": 57668,
       "fontFamily": "Eva",
       "identifier": "pantoneFill"
     },
     "pantone-outline": {
-      "codepoint": 57670,
+      "codepoint": 57669,
       "fontFamily": "Eva",
       "identifier": "pantoneOutline"
     },
     "paper-plane-fill": {
-      "codepoint": 57671,
+      "codepoint": 57670,
       "fontFamily": "Eva",
       "identifier": "paperPlaneFill"
     },
     "paper-plane-outline": {
-      "codepoint": 57672,
+      "codepoint": 57671,
       "fontFamily": "Eva",
       "identifier": "paperPlaneOutline"
     },
     "pause-circle-fill": {
-      "codepoint": 57673,
+      "codepoint": 57672,
       "fontFamily": "Eva",
       "identifier": "pauseCircleFill"
     },
     "pause-circle-outline": {
-      "codepoint": 57674,
+      "codepoint": 57673,
       "fontFamily": "Eva",
       "identifier": "pauseCircleOutline"
     },
     "people-fill": {
-      "codepoint": 57675,
+      "codepoint": 57674,
       "fontFamily": "Eva",
       "identifier": "peopleFill"
     },
     "people-outline": {
-      "codepoint": 57676,
+      "codepoint": 57675,
       "fontFamily": "Eva",
       "identifier": "peopleOutline"
     },
     "percent-fill": {
-      "codepoint": 57677,
+      "codepoint": 57676,
       "fontFamily": "Eva",
       "identifier": "percentFill"
     },
     "percent-outline": {
-      "codepoint": 57678,
+      "codepoint": 57677,
       "fontFamily": "Eva",
       "identifier": "percentOutline"
     },
     "person-add-fill": {
-      "codepoint": 57679,
+      "codepoint": 57678,
       "fontFamily": "Eva",
       "identifier": "personAddFill"
     },
     "person-add-outline": {
-      "codepoint": 57680,
+      "codepoint": 57679,
       "fontFamily": "Eva",
       "identifier": "personAddOutline"
     },
     "person-delete-fill": {
-      "codepoint": 57681,
+      "codepoint": 57680,
       "fontFamily": "Eva",
       "identifier": "personDeleteFill"
     },
     "person-delete-outline": {
-      "codepoint": 57682,
+      "codepoint": 57681,
       "fontFamily": "Eva",
       "identifier": "personDeleteOutline"
     },
     "person-done-fill": {
-      "codepoint": 57683,
+      "codepoint": 57682,
       "fontFamily": "Eva",
       "identifier": "personDoneFill"
     },
     "person-done-outline": {
-      "codepoint": 57684,
+      "codepoint": 57683,
       "fontFamily": "Eva",
       "identifier": "personDoneOutline"
     },
     "person-fill": {
-      "codepoint": 57685,
+      "codepoint": 57684,
       "fontFamily": "Eva",
       "identifier": "personFill"
     },
     "person-outline": {
-      "codepoint": 57686,
+      "codepoint": 57685,
       "fontFamily": "Eva",
       "identifier": "personOutline"
     },
     "person-remove-fill": {
-      "codepoint": 57687,
+      "codepoint": 57686,
       "fontFamily": "Eva",
       "identifier": "personRemoveFill"
     },
     "person-remove-outline": {
-      "codepoint": 57688,
+      "codepoint": 57687,
       "fontFamily": "Eva",
       "identifier": "personRemoveOutline"
     },
     "phone-call-fill": {
-      "codepoint": 57689,
+      "codepoint": 57688,
       "fontFamily": "Eva",
       "identifier": "phoneCallFill"
     },
     "phone-call-outline": {
-      "codepoint": 57690,
+      "codepoint": 57689,
       "fontFamily": "Eva",
       "identifier": "phoneCallOutline"
     },
     "phone-fill": {
-      "codepoint": 57691,
+      "codepoint": 57690,
       "fontFamily": "Eva",
       "identifier": "phoneFill"
     },
     "phone-missed-fill": {
-      "codepoint": 57692,
+      "codepoint": 57691,
       "fontFamily": "Eva",
       "identifier": "phoneMissedFill"
     },
     "phone-missed-outline": {
-      "codepoint": 57693,
+      "codepoint": 57692,
       "fontFamily": "Eva",
       "identifier": "phoneMissedOutline"
     },
     "phone-off-fill": {
-      "codepoint": 57694,
+      "codepoint": 57693,
       "fontFamily": "Eva",
       "identifier": "phoneOffFill"
     },
     "phone-off-outline": {
-      "codepoint": 57695,
+      "codepoint": 57694,
       "fontFamily": "Eva",
       "identifier": "phoneOffOutline"
     },
     "phone-outline": {
-      "codepoint": 57696,
+      "codepoint": 57695,
       "fontFamily": "Eva",
       "identifier": "phoneOutline"
     },
     "pie-chart-2-fill": {
-      "codepoint": 57697,
+      "codepoint": 57696,
       "fontFamily": "Eva",
       "identifier": "pieChart2Fill"
     },
     "pie-chart-fill": {
-      "codepoint": 57698,
+      "codepoint": 57697,
       "fontFamily": "Eva",
       "identifier": "pieChartFill"
     },
     "pie-chart-outline": {
-      "codepoint": 57699,
+      "codepoint": 57698,
       "fontFamily": "Eva",
       "identifier": "pieChartOutline"
     },
     "pin-fill": {
-      "codepoint": 57700,
+      "codepoint": 57699,
       "fontFamily": "Eva",
       "identifier": "pinFill"
     },
     "pin-outline": {
-      "codepoint": 57701,
+      "codepoint": 57700,
       "fontFamily": "Eva",
       "identifier": "pinOutline"
     },
     "play-circle-fill": {
-      "codepoint": 57702,
+      "codepoint": 57701,
       "fontFamily": "Eva",
       "identifier": "playCircleFill"
     },
     "play-circle-outline": {
-      "codepoint": 57703,
+      "codepoint": 57702,
       "fontFamily": "Eva",
       "identifier": "playCircleOutline"
     },
     "plus-circle-fill": {
-      "codepoint": 57704,
+      "codepoint": 57703,
       "fontFamily": "Eva",
       "identifier": "plusCircleFill"
     },
     "plus-circle-outline": {
-      "codepoint": 57705,
+      "codepoint": 57704,
       "fontFamily": "Eva",
       "identifier": "plusCircleOutline"
     },
     "plus-fill": {
-      "codepoint": 57706,
+      "codepoint": 57705,
       "fontFamily": "Eva",
       "identifier": "plusFill"
     },
     "plus-outline": {
-      "codepoint": 57707,
+      "codepoint": 57706,
       "fontFamily": "Eva",
       "identifier": "plusOutline"
     },
     "plus-square-fill": {
-      "codepoint": 57708,
+      "codepoint": 57707,
       "fontFamily": "Eva",
       "identifier": "plusSquareFill"
     },
     "plus-square-outline": {
-      "codepoint": 57709,
+      "codepoint": 57708,
       "fontFamily": "Eva",
       "identifier": "plusSquareOutline"
     },
     "power-fill": {
-      "codepoint": 57710,
+      "codepoint": 57709,
       "fontFamily": "Eva",
       "identifier": "powerFill"
     },
     "power-outline": {
-      "codepoint": 57711,
+      "codepoint": 57710,
       "fontFamily": "Eva",
       "identifier": "powerOutline"
     },
     "pricetags-fill": {
-      "codepoint": 57712,
+      "codepoint": 57711,
       "fontFamily": "Eva",
       "identifier": "pricetagsFill"
     },
     "pricetags-outline": {
-      "codepoint": 57713,
+      "codepoint": 57712,
       "fontFamily": "Eva",
       "identifier": "pricetagsOutline"
     },
     "printer-fill": {
-      "codepoint": 57714,
+      "codepoint": 57713,
       "fontFamily": "Eva",
       "identifier": "printerFill"
     },
     "printer-outline": {
-      "codepoint": 57715,
+      "codepoint": 57714,
       "fontFamily": "Eva",
       "identifier": "printerOutline"
     },
     "question-mark-circle-fill": {
-      "codepoint": 57716,
+      "codepoint": 57715,
       "fontFamily": "Eva",
       "identifier": "questionMarkCircleFill"
     },
     "question-mark-circle-outline": {
-      "codepoint": 57717,
+      "codepoint": 57716,
       "fontFamily": "Eva",
       "identifier": "questionMarkCircleOutline"
     },
     "question-mark-fill": {
-      "codepoint": 57718,
+      "codepoint": 57717,
       "fontFamily": "Eva",
       "identifier": "questionMarkFill"
     },
     "question-mark-outline": {
-      "codepoint": 57719,
+      "codepoint": 57718,
       "fontFamily": "Eva",
       "identifier": "questionMarkOutline"
     },
     "radio-button-off-fill": {
-      "codepoint": 57720,
+      "codepoint": 57719,
       "fontFamily": "Eva",
       "identifier": "radioButtonOffFill"
     },
     "radio-button-off-outline": {
-      "codepoint": 57721,
+      "codepoint": 57720,
       "fontFamily": "Eva",
       "identifier": "radioButtonOffOutline"
     },
     "radio-button-on-fill": {
-      "codepoint": 57722,
+      "codepoint": 57721,
       "fontFamily": "Eva",
       "identifier": "radioButtonOnFill"
     },
     "radio-button-on-outline": {
-      "codepoint": 57723,
+      "codepoint": 57722,
       "fontFamily": "Eva",
       "identifier": "radioButtonOnOutline"
     },
     "radio-fill": {
-      "codepoint": 57724,
+      "codepoint": 57723,
       "fontFamily": "Eva",
       "identifier": "radioFill"
     },
     "radio-outline": {
-      "codepoint": 57725,
+      "codepoint": 57724,
       "fontFamily": "Eva",
       "identifier": "radioOutline"
     },
     "recording-fill": {
-      "codepoint": 57726,
+      "codepoint": 57725,
       "fontFamily": "Eva",
       "identifier": "recordingFill"
     },
     "recording-outline": {
-      "codepoint": 57727,
+      "codepoint": 57726,
       "fontFamily": "Eva",
       "identifier": "recordingOutline"
     },
     "refresh-fill": {
-      "codepoint": 57728,
+      "codepoint": 57727,
       "fontFamily": "Eva",
       "identifier": "refreshFill"
     },
     "refresh-outline": {
-      "codepoint": 57729,
+      "codepoint": 57728,
       "fontFamily": "Eva",
       "identifier": "refreshOutline"
     },
     "repeat-fill": {
-      "codepoint": 57730,
+      "codepoint": 57729,
       "fontFamily": "Eva",
       "identifier": "repeatFill"
     },
     "repeat-outline": {
-      "codepoint": 57731,
+      "codepoint": 57730,
       "fontFamily": "Eva",
       "identifier": "repeatOutline"
     },
     "rewind-left-fill": {
-      "codepoint": 57732,
+      "codepoint": 57731,
       "fontFamily": "Eva",
       "identifier": "rewindLeftFill"
     },
     "rewind-left-outline": {
-      "codepoint": 57733,
+      "codepoint": 57732,
       "fontFamily": "Eva",
       "identifier": "rewindLeftOutline"
     },
     "rewind-right-fill": {
-      "codepoint": 57734,
+      "codepoint": 57733,
       "fontFamily": "Eva",
       "identifier": "rewindRightFill"
     },
     "rewind-right-outline": {
-      "codepoint": 57735,
+      "codepoint": 57734,
       "fontFamily": "Eva",
       "identifier": "rewindRightOutline"
     },
     "save-fill": {
-      "codepoint": 57736,
+      "codepoint": 57735,
       "fontFamily": "Eva",
       "identifier": "saveFill"
     },
     "save-outline": {
-      "codepoint": 57737,
+      "codepoint": 57736,
       "fontFamily": "Eva",
       "identifier": "saveOutline"
     },
     "scissors-fill": {
-      "codepoint": 57738,
+      "codepoint": 57737,
       "fontFamily": "Eva",
       "identifier": "scissorsFill"
     },
     "scissors-outline": {
-      "codepoint": 57739,
+      "codepoint": 57738,
       "fontFamily": "Eva",
       "identifier": "scissorsOutline"
     },
     "search-fill": {
-      "codepoint": 57740,
+      "codepoint": 57739,
       "fontFamily": "Eva",
       "identifier": "searchFill"
     },
     "search-outline": {
-      "codepoint": 57741,
+      "codepoint": 57740,
       "fontFamily": "Eva",
       "identifier": "searchOutline"
     },
     "settings-2-fill": {
-      "codepoint": 57742,
+      "codepoint": 57741,
       "fontFamily": "Eva",
       "identifier": "settings2Fill"
     },
     "settings-2-outline": {
-      "codepoint": 57743,
+      "codepoint": 57742,
       "fontFamily": "Eva",
       "identifier": "settings2Outline"
     },
     "settings-fill": {
-      "codepoint": 57744,
+      "codepoint": 57743,
       "fontFamily": "Eva",
       "identifier": "settingsFill"
     },
     "settings-outline": {
-      "codepoint": 57745,
+      "codepoint": 57744,
       "fontFamily": "Eva",
       "identifier": "settingsOutline"
     },
     "shake-fill": {
-      "codepoint": 57746,
+      "codepoint": 57745,
       "fontFamily": "Eva",
       "identifier": "shakeFill"
     },
     "shake-outline": {
-      "codepoint": 57747,
+      "codepoint": 57746,
       "fontFamily": "Eva",
       "identifier": "shakeOutline"
     },
     "share-fill": {
-      "codepoint": 57748,
+      "codepoint": 57747,
       "fontFamily": "Eva",
       "identifier": "shareFill"
     },
     "share-outline": {
-      "codepoint": 57749,
+      "codepoint": 57748,
       "fontFamily": "Eva",
       "identifier": "shareOutline"
     },
     "shield-fill": {
-      "codepoint": 57750,
+      "codepoint": 57749,
       "fontFamily": "Eva",
       "identifier": "shieldFill"
     },
     "shield-off-fill": {
-      "codepoint": 57751,
+      "codepoint": 57750,
       "fontFamily": "Eva",
       "identifier": "shieldOffFill"
     },
     "shield-off-outline": {
-      "codepoint": 57752,
+      "codepoint": 57751,
       "fontFamily": "Eva",
       "identifier": "shieldOffOutline"
     },
     "shield-outline": {
-      "codepoint": 57753,
+      "codepoint": 57752,
       "fontFamily": "Eva",
       "identifier": "shieldOutline"
     },
     "shopping-bag-fill": {
-      "codepoint": 57754,
+      "codepoint": 57753,
       "fontFamily": "Eva",
       "identifier": "shoppingBagFill"
     },
     "shopping-bag-outline": {
-      "codepoint": 57755,
+      "codepoint": 57754,
       "fontFamily": "Eva",
       "identifier": "shoppingBagOutline"
     },
     "shopping-cart-fill": {
-      "codepoint": 57756,
+      "codepoint": 57755,
       "fontFamily": "Eva",
       "identifier": "shoppingCartFill"
     },
     "shopping-cart-outline": {
-      "codepoint": 57757,
+      "codepoint": 57756,
       "fontFamily": "Eva",
       "identifier": "shoppingCartOutline"
     },
     "shuffle-2-fill": {
-      "codepoint": 57758,
+      "codepoint": 57757,
       "fontFamily": "Eva",
       "identifier": "shuffle2Fill"
     },
     "shuffle-2-outline": {
-      "codepoint": 57759,
+      "codepoint": 57758,
       "fontFamily": "Eva",
       "identifier": "shuffle2Outline"
     },
     "shuffle-fill": {
-      "codepoint": 57760,
+      "codepoint": 57759,
       "fontFamily": "Eva",
       "identifier": "shuffleFill"
     },
     "shuffle-outline": {
-      "codepoint": 57761,
+      "codepoint": 57760,
       "fontFamily": "Eva",
       "identifier": "shuffleOutline"
     },
     "skip-back-fill": {
-      "codepoint": 57762,
+      "codepoint": 57761,
       "fontFamily": "Eva",
       "identifier": "skipBackFill"
     },
     "skip-back-outline": {
-      "codepoint": 57763,
+      "codepoint": 57762,
       "fontFamily": "Eva",
       "identifier": "skipBackOutline"
     },
     "skip-forward-fill": {
-      "codepoint": 57764,
+      "codepoint": 57763,
       "fontFamily": "Eva",
       "identifier": "skipForwardFill"
     },
     "skip-forward-outline": {
-      "codepoint": 57765,
+      "codepoint": 57764,
       "fontFamily": "Eva",
       "identifier": "skipForwardOutline"
     },
     "slash-fill": {
-      "codepoint": 57766,
+      "codepoint": 57765,
       "fontFamily": "Eva",
       "identifier": "slashFill"
     },
     "slash-outline": {
-      "codepoint": 57767,
+      "codepoint": 57766,
       "fontFamily": "Eva",
       "identifier": "slashOutline"
     },
     "smartphone-fill": {
-      "codepoint": 57768,
+      "codepoint": 57767,
       "fontFamily": "Eva",
       "identifier": "smartphoneFill"
     },
     "smartphone-outline": {
-      "codepoint": 57769,
+      "codepoint": 57768,
       "fontFamily": "Eva",
       "identifier": "smartphoneOutline"
     },
     "smiling-face-fill": {
-      "codepoint": 57770,
+      "codepoint": 57769,
       "fontFamily": "Eva",
       "identifier": "smilingFaceFill"
     },
     "smiling-face-outline": {
-      "codepoint": 57771,
+      "codepoint": 57770,
       "fontFamily": "Eva",
       "identifier": "smilingFaceOutline"
     },
     "speaker-fill": {
-      "codepoint": 57772,
+      "codepoint": 57771,
       "fontFamily": "Eva",
       "identifier": "speakerFill"
     },
     "speaker-outline": {
-      "codepoint": 57773,
+      "codepoint": 57772,
       "fontFamily": "Eva",
       "identifier": "speakerOutline"
     },
     "square-fill": {
-      "codepoint": 57774,
+      "codepoint": 57773,
       "fontFamily": "Eva",
       "identifier": "squareFill"
     },
     "square-outline": {
-      "codepoint": 57775,
+      "codepoint": 57774,
       "fontFamily": "Eva",
       "identifier": "squareOutline"
     },
     "star-fill": {
-      "codepoint": 57776,
+      "codepoint": 57775,
       "fontFamily": "Eva",
       "identifier": "starFill"
     },
     "star-outline": {
-      "codepoint": 57777,
+      "codepoint": 57776,
       "fontFamily": "Eva",
       "identifier": "starOutline"
     },
     "stop-circle-fill": {
-      "codepoint": 57778,
+      "codepoint": 57777,
       "fontFamily": "Eva",
       "identifier": "stopCircleFill"
     },
     "stop-circle-outline": {
-      "codepoint": 57779,
+      "codepoint": 57778,
       "fontFamily": "Eva",
       "identifier": "stopCircleOutline"
     },
     "sun-fill": {
-      "codepoint": 57780,
+      "codepoint": 57779,
       "fontFamily": "Eva",
       "identifier": "sunFill"
     },
     "sun-outline": {
-      "codepoint": 57781,
+      "codepoint": 57780,
       "fontFamily": "Eva",
       "identifier": "sunOutline"
     },
     "swap-fill": {
-      "codepoint": 57782,
+      "codepoint": 57781,
       "fontFamily": "Eva",
       "identifier": "swapFill"
     },
     "swap-outline": {
-      "codepoint": 57783,
+      "codepoint": 57782,
       "fontFamily": "Eva",
       "identifier": "swapOutline"
     },
     "sync-fill": {
-      "codepoint": 57784,
+      "codepoint": 57783,
       "fontFamily": "Eva",
       "identifier": "syncFill"
     },
     "sync-outline": {
-      "codepoint": 57785,
+      "codepoint": 57784,
       "fontFamily": "Eva",
       "identifier": "syncOutline"
     },
     "text-fill": {
-      "codepoint": 57786,
+      "codepoint": 57785,
       "fontFamily": "Eva",
       "identifier": "textFill"
     },
     "text-outline": {
-      "codepoint": 57787,
+      "codepoint": 57786,
       "fontFamily": "Eva",
       "identifier": "textOutline"
     },
     "thermometer-fill": {
-      "codepoint": 57788,
+      "codepoint": 57787,
       "fontFamily": "Eva",
       "identifier": "thermometerFill"
     },
     "thermometer-minus-fill": {
-      "codepoint": 57789,
+      "codepoint": 57788,
       "fontFamily": "Eva",
       "identifier": "thermometerMinusFill"
     },
     "thermometer-minus-outline": {
-      "codepoint": 57790,
+      "codepoint": 57789,
       "fontFamily": "Eva",
       "identifier": "thermometerMinusOutline"
     },
     "thermometer-outline": {
-      "codepoint": 57791,
+      "codepoint": 57790,
       "fontFamily": "Eva",
       "identifier": "thermometerOutline"
     },
     "thermometer-plus-fill": {
-      "codepoint": 57792,
+      "codepoint": 57791,
       "fontFamily": "Eva",
       "identifier": "thermometerPlusFill"
     },
     "thermometer-plus-outline": {
-      "codepoint": 57793,
+      "codepoint": 57792,
       "fontFamily": "Eva",
       "identifier": "thermometerPlusOutline"
     },
     "toggle-left-fill": {
-      "codepoint": 57794,
+      "codepoint": 57793,
       "fontFamily": "Eva",
       "identifier": "toggleLeftFill"
     },
     "toggle-left-outline": {
-      "codepoint": 57795,
+      "codepoint": 57794,
       "fontFamily": "Eva",
       "identifier": "toggleLeftOutline"
     },
     "toggle-right-fill": {
-      "codepoint": 57796,
+      "codepoint": 57795,
       "fontFamily": "Eva",
       "identifier": "toggleRightFill"
     },
     "toggle-right-outline": {
-      "codepoint": 57797,
+      "codepoint": 57796,
       "fontFamily": "Eva",
       "identifier": "toggleRightOutline"
     },
     "trash-2-fill": {
-      "codepoint": 57798,
+      "codepoint": 57797,
       "fontFamily": "Eva",
       "identifier": "trash2Fill"
     },
     "trash-2-outline": {
-      "codepoint": 57799,
+      "codepoint": 57798,
       "fontFamily": "Eva",
       "identifier": "trash2Outline"
     },
     "trash-fill": {
-      "codepoint": 57800,
+      "codepoint": 57799,
       "fontFamily": "Eva",
       "identifier": "trashFill"
     },
     "trash-outline": {
-      "codepoint": 57801,
+      "codepoint": 57800,
       "fontFamily": "Eva",
       "identifier": "trashOutline"
     },
     "trending-down-fill": {
-      "codepoint": 57802,
+      "codepoint": 57801,
       "fontFamily": "Eva",
       "identifier": "trendingDownFill"
     },
     "trending-down-outline": {
-      "codepoint": 57803,
+      "codepoint": 57802,
       "fontFamily": "Eva",
       "identifier": "trendingDownOutline"
     },
     "trending-up-fill": {
-      "codepoint": 57804,
+      "codepoint": 57803,
       "fontFamily": "Eva",
       "identifier": "trendingUpFill"
     },
     "trending-up-outline": {
-      "codepoint": 57805,
+      "codepoint": 57804,
       "fontFamily": "Eva",
       "identifier": "trendingUpOutline"
     },
     "tv-fill": {
-      "codepoint": 57806,
+      "codepoint": 57805,
       "fontFamily": "Eva",
       "identifier": "tvFill"
     },
     "tv-outline": {
-      "codepoint": 57807,
+      "codepoint": 57806,
       "fontFamily": "Eva",
       "identifier": "tvOutline"
     },
     "twitter-fill": {
-      "codepoint": 57808,
+      "codepoint": 57807,
       "fontFamily": "Eva",
       "identifier": "twitterFill"
     },
     "twitter-outline": {
-      "codepoint": 57809,
+      "codepoint": 57808,
       "fontFamily": "Eva",
       "identifier": "twitterOutline"
     },
     "umbrella-fill": {
-      "codepoint": 57810,
+      "codepoint": 57809,
       "fontFamily": "Eva",
       "identifier": "umbrellaFill"
     },
     "umbrella-outline": {
-      "codepoint": 57811,
+      "codepoint": 57810,
       "fontFamily": "Eva",
       "identifier": "umbrellaOutline"
     },
     "undo-fill": {
-      "codepoint": 57812,
+      "codepoint": 57811,
       "fontFamily": "Eva",
       "identifier": "undoFill"
     },
     "undo-outline": {
-      "codepoint": 57813,
+      "codepoint": 57812,
       "fontFamily": "Eva",
       "identifier": "undoOutline"
     },
     "unlock-fill": {
-      "codepoint": 57814,
+      "codepoint": 57813,
       "fontFamily": "Eva",
       "identifier": "unlockFill"
     },
     "unlock-outline": {
-      "codepoint": 57815,
+      "codepoint": 57814,
       "fontFamily": "Eva",
       "identifier": "unlockOutline"
     },
     "video-fill": {
-      "codepoint": 57816,
+      "codepoint": 57815,
       "fontFamily": "Eva",
       "identifier": "videoFill"
     },
     "video-off-fill": {
-      "codepoint": 57817,
+      "codepoint": 57816,
       "fontFamily": "Eva",
       "identifier": "videoOffFill"
     },
     "video-off-outline": {
-      "codepoint": 57818,
+      "codepoint": 57817,
       "fontFamily": "Eva",
       "identifier": "videoOffOutline"
     },
     "video-outline": {
-      "codepoint": 57819,
+      "codepoint": 57818,
       "fontFamily": "Eva",
       "identifier": "videoOutline"
     },
     "volume-down-fill": {
-      "codepoint": 57820,
+      "codepoint": 57819,
       "fontFamily": "Eva",
       "identifier": "volumeDownFill"
     },
     "volume-down-outline": {
-      "codepoint": 57821,
+      "codepoint": 57820,
       "fontFamily": "Eva",
       "identifier": "volumeDownOutline"
     },
     "volume-mute-fill": {
-      "codepoint": 57822,
+      "codepoint": 57821,
       "fontFamily": "Eva",
       "identifier": "volumeMuteFill"
     },
     "volume-mute-outline": {
-      "codepoint": 57823,
+      "codepoint": 57822,
       "fontFamily": "Eva",
       "identifier": "volumeMuteOutline"
     },
     "volume-off-fill": {
-      "codepoint": 57824,
+      "codepoint": 57823,
       "fontFamily": "Eva",
       "identifier": "volumeOffFill"
     },
     "volume-off-outline": {
-      "codepoint": 57825,
+      "codepoint": 57824,
       "fontFamily": "Eva",
       "identifier": "volumeOffOutline"
     },
     "volume-up-fill": {
-      "codepoint": 57826,
+      "codepoint": 57825,
       "fontFamily": "Eva",
       "identifier": "volumeUpFill"
     },
     "volume-up-outline": {
-      "codepoint": 57827,
+      "codepoint": 57826,
       "fontFamily": "Eva",
       "identifier": "volumeUpOutline"
     },
     "wifi-fill": {
-      "codepoint": 57828,
+      "codepoint": 57827,
       "fontFamily": "Eva",
       "identifier": "wifiFill"
     },
     "wifi-off-fill": {
-      "codepoint": 57829,
+      "codepoint": 57828,
       "fontFamily": "Eva",
       "identifier": "wifiOffFill"
     },
     "wifi-off-outline": {
-      "codepoint": 57830,
+      "codepoint": 57829,
       "fontFamily": "Eva",
       "identifier": "wifiOffOutline"
     },
     "wifi-outline": {
-      "codepoint": 57831,
+      "codepoint": 57830,
       "fontFamily": "Eva",
       "identifier": "wifiOutline"
     }

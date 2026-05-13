@@ -16,18 +16,18 @@
       "spdx": "MIT",
       "url": "https://github.com/astrit/css.gg/blob/master/LICENSE"
     },
-    "total": 570
+    "total": 705
   },
   "fonts": [
     {
       "family": "Gg",
-      "nextCodepoint": 57914,
-      "iconCount": 570
+      "nextCodepoint": 58049,
+      "iconCount": 705
     },
     {
       "family": "GgSecondary",
-      "nextCodepoint": 57914,
-      "iconCount": 10
+      "nextCodepoint": 58049,
+      "iconCount": 11
     }
   ],
   "icons": {
@@ -51,2845 +51,3521 @@
       "fontFamily": "Gg",
       "identifier": "adidas"
     },
-    "alarm": {
+    "airplane": {
       "codepoint": 57348,
+      "fontFamily": "Gg",
+      "identifier": "airplane"
+    },
+    "alarm": {
+      "codepoint": 57349,
       "fontFamily": "Gg",
       "identifier": "alarm"
     },
     "album": {
-      "codepoint": 57349,
+      "codepoint": 57350,
       "fontFamily": "Gg",
       "identifier": "album"
     },
     "align-bottom": {
-      "codepoint": 57350,
+      "codepoint": 57351,
       "fontFamily": "Gg",
       "identifier": "alignBottom"
     },
     "align-center": {
-      "codepoint": 57351,
+      "codepoint": 57352,
       "fontFamily": "Gg",
       "identifier": "alignCenter"
     },
     "align-left": {
-      "codepoint": 57352,
+      "codepoint": 57353,
       "fontFamily": "Gg",
       "identifier": "alignLeft"
     },
     "align-middle": {
-      "codepoint": 57353,
+      "codepoint": 57354,
       "fontFamily": "Gg",
       "identifier": "alignMiddle"
     },
     "align-right": {
-      "codepoint": 57354,
+      "codepoint": 57355,
       "fontFamily": "Gg",
       "identifier": "alignRight"
     },
     "align-top": {
-      "codepoint": 57355,
+      "codepoint": 57356,
       "fontFamily": "Gg",
       "identifier": "alignTop"
     },
+    "anchor": {
+      "codepoint": 57357,
+      "fontFamily": "Gg",
+      "identifier": "anchor"
+    },
+    "apple-watch": {
+      "codepoint": 57358,
+      "fontFamily": "Gg",
+      "identifier": "appleWatch"
+    },
     "arrange-back": {
-      "codepoint": 57356,
+      "codepoint": 57359,
       "fontFamily": "Gg",
       "identifier": "arrangeBack"
     },
     "arrange-front": {
-      "codepoint": 57357,
+      "codepoint": 57360,
       "fontFamily": "Gg",
       "identifier": "arrangeFront"
     },
+    "arrow-align-h": {
+      "codepoint": 57361,
+      "fontFamily": "Gg",
+      "identifier": "arrowAlignH"
+    },
+    "arrow-align-v": {
+      "codepoint": 57362,
+      "fontFamily": "Gg",
+      "identifier": "arrowAlignV"
+    },
     "arrow-bottom-left": {
-      "codepoint": 57358,
+      "codepoint": 57363,
       "fontFamily": "Gg",
       "identifier": "arrowBottomLeft"
     },
     "arrow-bottom-left-o": {
-      "codepoint": 57359,
+      "codepoint": 57364,
       "fontFamily": "Gg",
       "identifier": "arrowBottomLeftO"
     },
     "arrow-bottom-left-r": {
-      "codepoint": 57360,
+      "codepoint": 57365,
       "fontFamily": "Gg",
       "identifier": "arrowBottomLeftR"
     },
     "arrow-bottom-right": {
-      "codepoint": 57361,
+      "codepoint": 57366,
       "fontFamily": "Gg",
       "identifier": "arrowBottomRight"
     },
     "arrow-bottom-right-o": {
-      "codepoint": 57362,
+      "codepoint": 57367,
       "fontFamily": "Gg",
       "identifier": "arrowBottomRightO"
     },
     "arrow-bottom-right-r": {
-      "codepoint": 57363,
+      "codepoint": 57368,
       "fontFamily": "Gg",
       "identifier": "arrowBottomRightR"
     },
     "arrow-down": {
-      "codepoint": 57364,
+      "codepoint": 57369,
       "fontFamily": "Gg",
       "identifier": "arrowDown"
     },
     "arrow-down-o": {
-      "codepoint": 57365,
+      "codepoint": 57370,
       "fontFamily": "Gg",
       "identifier": "arrowDownO"
     },
     "arrow-down-r": {
-      "codepoint": 57366,
+      "codepoint": 57371,
       "fontFamily": "Gg",
       "identifier": "arrowDownR"
     },
     "arrow-left": {
-      "codepoint": 57367,
+      "codepoint": 57372,
       "fontFamily": "Gg",
       "identifier": "arrowLeft"
     },
     "arrow-left-o": {
-      "codepoint": 57368,
+      "codepoint": 57373,
       "fontFamily": "Gg",
       "identifier": "arrowLeftO"
     },
     "arrow-left-r": {
-      "codepoint": 57369,
+      "codepoint": 57374,
       "fontFamily": "Gg",
       "identifier": "arrowLeftR"
     },
+    "arrow-long-down": {
+      "codepoint": 57375,
+      "fontFamily": "Gg",
+      "identifier": "arrowLongDown"
+    },
+    "arrow-long-down-c": {
+      "codepoint": 57376,
+      "fontFamily": "Gg",
+      "identifier": "arrowLongDownC"
+    },
     "arrow-long-down-e": {
-      "codepoint": 57370,
+      "codepoint": 57377,
       "fontFamily": "Gg",
       "identifier": "arrowLongDownE"
     },
+    "arrow-long-down-l": {
+      "codepoint": 57378,
+      "fontFamily": "Gg",
+      "identifier": "arrowLongDownL"
+    },
     "arrow-long-down-r": {
-      "codepoint": 57371,
+      "codepoint": 57379,
       "fontFamily": "Gg",
       "identifier": "arrowLongDownR"
     },
     "arrow-long-left": {
-      "codepoint": 57372,
+      "codepoint": 57380,
       "fontFamily": "Gg",
       "identifier": "arrowLongLeft"
     },
+    "arrow-long-left-c": {
+      "codepoint": 57381,
+      "fontFamily": "Gg",
+      "identifier": "arrowLongLeftC"
+    },
     "arrow-long-left-e": {
-      "codepoint": 57373,
+      "codepoint": 57382,
       "fontFamily": "Gg",
       "identifier": "arrowLongLeftE"
     },
     "arrow-long-left-l": {
-      "codepoint": 57374,
+      "codepoint": 57383,
       "fontFamily": "Gg",
       "identifier": "arrowLongLeftL"
     },
     "arrow-long-left-r": {
-      "codepoint": 57375,
+      "codepoint": 57384,
       "fontFamily": "Gg",
       "identifier": "arrowLongLeftR"
     },
+    "arrow-long-right": {
+      "codepoint": 57385,
+      "fontFamily": "Gg",
+      "identifier": "arrowLongRight"
+    },
     "arrow-long-right-c": {
-      "codepoint": 57376,
+      "codepoint": 57386,
       "fontFamily": "Gg",
       "identifier": "arrowLongRightC"
     },
+    "arrow-long-right-e": {
+      "codepoint": 57387,
+      "fontFamily": "Gg",
+      "identifier": "arrowLongRightE"
+    },
     "arrow-long-right-l": {
-      "codepoint": 57377,
+      "codepoint": 57388,
       "fontFamily": "Gg",
       "identifier": "arrowLongRightL"
     },
     "arrow-long-right-r": {
-      "codepoint": 57378,
+      "codepoint": 57389,
       "fontFamily": "Gg",
       "identifier": "arrowLongRightR"
     },
     "arrow-long-up": {
-      "codepoint": 57379,
+      "codepoint": 57390,
       "fontFamily": "Gg",
       "identifier": "arrowLongUp"
     },
+    "arrow-long-up-c": {
+      "codepoint": 57391,
+      "fontFamily": "Gg",
+      "identifier": "arrowLongUpC"
+    },
     "arrow-long-up-e": {
-      "codepoint": 57380,
+      "codepoint": 57392,
       "fontFamily": "Gg",
       "identifier": "arrowLongUpE"
     },
     "arrow-long-up-l": {
-      "codepoint": 57381,
+      "codepoint": 57393,
       "fontFamily": "Gg",
       "identifier": "arrowLongUpL"
     },
+    "arrow-long-up-r": {
+      "codepoint": 57394,
+      "fontFamily": "Gg",
+      "identifier": "arrowLongUpR"
+    },
     "arrow-right": {
-      "codepoint": 57382,
+      "codepoint": 57395,
       "fontFamily": "Gg",
       "identifier": "arrowRight"
     },
     "arrow-right-o": {
-      "codepoint": 57383,
+      "codepoint": 57396,
       "fontFamily": "Gg",
       "identifier": "arrowRightO"
     },
     "arrow-right-r": {
-      "codepoint": 57384,
+      "codepoint": 57397,
       "fontFamily": "Gg",
       "identifier": "arrowRightR"
     },
     "arrow-top-left": {
-      "codepoint": 57385,
+      "codepoint": 57398,
       "fontFamily": "Gg",
       "identifier": "arrowTopLeft"
     },
     "arrow-top-left-o": {
-      "codepoint": 57386,
+      "codepoint": 57399,
       "fontFamily": "Gg",
       "identifier": "arrowTopLeftO"
     },
     "arrow-top-left-r": {
-      "codepoint": 57387,
+      "codepoint": 57400,
       "fontFamily": "Gg",
       "identifier": "arrowTopLeftR"
     },
     "arrow-top-right": {
-      "codepoint": 57388,
+      "codepoint": 57401,
       "fontFamily": "Gg",
       "identifier": "arrowTopRight"
     },
     "arrow-top-right-o": {
-      "codepoint": 57389,
+      "codepoint": 57402,
       "fontFamily": "Gg",
       "identifier": "arrowTopRightO"
     },
     "arrow-top-right-r": {
-      "codepoint": 57390,
+      "codepoint": 57403,
       "fontFamily": "Gg",
       "identifier": "arrowTopRightR"
     },
     "arrow-up": {
-      "codepoint": 57391,
+      "codepoint": 57404,
       "fontFamily": "Gg",
       "identifier": "arrowUp"
     },
     "arrow-up-o": {
-      "codepoint": 57392,
+      "codepoint": 57405,
       "fontFamily": "Gg",
       "identifier": "arrowUpO"
     },
     "arrow-up-r": {
-      "codepoint": 57393,
+      "codepoint": 57406,
       "fontFamily": "Gg",
       "identifier": "arrowUpR"
     },
     "arrows-breake-h": {
-      "codepoint": 57394,
+      "codepoint": 57407,
       "fontFamily": "Gg",
       "identifier": "arrowsBreakeH"
     },
     "arrows-breake-v": {
-      "codepoint": 57395,
+      "codepoint": 57408,
       "fontFamily": "Gg",
       "identifier": "arrowsBreakeV"
     },
+    "arrows-exchange": {
+      "codepoint": 57409,
+      "fontFamily": "Gg",
+      "identifier": "arrowsExchange"
+    },
+    "arrows-exchange-alt": {
+      "codepoint": 57410,
+      "fontFamily": "Gg",
+      "identifier": "arrowsExchangeAlt"
+    },
+    "arrows-exchange-alt-v": {
+      "codepoint": 57411,
+      "fontFamily": "Gg",
+      "identifier": "arrowsExchangeAltV"
+    },
     "arrows-exchange-v": {
-      "codepoint": 57396,
+      "codepoint": 57412,
       "fontFamily": "Gg",
       "identifier": "arrowsExchangeV"
     },
     "arrows-expand-down-left": {
-      "codepoint": 57397,
+      "codepoint": 57413,
       "fontFamily": "Gg",
       "identifier": "arrowsExpandDownLeft"
     },
     "arrows-expand-down-right": {
-      "codepoint": 57398,
+      "codepoint": 57414,
       "fontFamily": "Gg",
       "identifier": "arrowsExpandDownRight"
     },
     "arrows-expand-left": {
-      "codepoint": 57399,
+      "codepoint": 57415,
       "fontFamily": "Gg",
       "identifier": "arrowsExpandLeft"
     },
     "arrows-expand-left-alt": {
-      "codepoint": 57400,
+      "codepoint": 57416,
       "fontFamily": "Gg",
       "identifier": "arrowsExpandLeftAlt"
     },
     "arrows-expand-right": {
-      "codepoint": 57401,
+      "codepoint": 57417,
       "fontFamily": "Gg",
       "identifier": "arrowsExpandRight"
     },
     "arrows-expand-right-alt": {
-      "codepoint": 57402,
+      "codepoint": 57418,
       "fontFamily": "Gg",
       "identifier": "arrowsExpandRightAlt"
     },
     "arrows-expand-up-left": {
-      "codepoint": 57403,
+      "codepoint": 57419,
       "fontFamily": "Gg",
       "identifier": "arrowsExpandUpLeft"
     },
     "arrows-expand-up-right": {
-      "codepoint": 57404,
+      "codepoint": 57420,
       "fontFamily": "Gg",
       "identifier": "arrowsExpandUpRight"
     },
     "arrows-h": {
-      "codepoint": 57405,
+      "codepoint": 57421,
       "fontFamily": "Gg",
       "identifier": "arrowsH"
     },
     "arrows-h-alt": {
-      "codepoint": 57406,
+      "codepoint": 57422,
       "fontFamily": "Gg",
       "identifier": "arrowsHAlt"
     },
     "arrows-merge-alt-h": {
-      "codepoint": 57407,
+      "codepoint": 57423,
       "fontFamily": "Gg",
       "identifier": "arrowsMergeAltH"
     },
     "arrows-merge-alt-v": {
-      "codepoint": 57408,
+      "codepoint": 57424,
       "fontFamily": "Gg",
       "identifier": "arrowsMergeAltV"
     },
     "arrows-scroll-h": {
-      "codepoint": 57409,
+      "codepoint": 57425,
       "fontFamily": "Gg",
       "identifier": "arrowsScrollH"
     },
     "arrows-scroll-v": {
-      "codepoint": 57410,
+      "codepoint": 57426,
       "fontFamily": "Gg",
       "identifier": "arrowsScrollV"
     },
+    "arrows-shrink-h": {
+      "codepoint": 57427,
+      "fontFamily": "Gg",
+      "identifier": "arrowsShrinkH"
+    },
+    "arrows-shrink-v": {
+      "codepoint": 57428,
+      "fontFamily": "Gg",
+      "identifier": "arrowsShrinkV"
+    },
+    "arrows-v": {
+      "codepoint": 57429,
+      "fontFamily": "Gg",
+      "identifier": "arrowsV"
+    },
+    "arrows-v-alt": {
+      "codepoint": 57430,
+      "fontFamily": "Gg",
+      "identifier": "arrowsVAlt"
+    },
     "assign": {
-      "codepoint": 57411,
+      "codepoint": 57431,
       "fontFamily": "Gg",
       "identifier": "assign"
     },
     "asterisk": {
-      "codepoint": 57412,
+      "codepoint": 57432,
       "fontFamily": "Gg",
       "identifier": "asterisk"
     },
+    "atlasian": {
+      "codepoint": 57433,
+      "fontFamily": "Gg",
+      "identifier": "atlasian",
+      "duotone": true
+    },
     "attachment": {
-      "codepoint": 57413,
+      "codepoint": 57434,
       "fontFamily": "Gg",
       "identifier": "attachment"
     },
     "attribution": {
-      "codepoint": 57414,
+      "codepoint": 57435,
       "fontFamily": "Gg",
       "identifier": "attribution"
     },
     "awards": {
-      "codepoint": 57415,
+      "codepoint": 57436,
       "fontFamily": "Gg",
       "identifier": "awards"
     },
+    "backspace": {
+      "codepoint": 57437,
+      "fontFamily": "Gg",
+      "identifier": "backspace"
+    },
+    "band-aid": {
+      "codepoint": 57438,
+      "fontFamily": "Gg",
+      "identifier": "bandAid"
+    },
     "battery": {
-      "codepoint": 57416,
+      "codepoint": 57439,
       "fontFamily": "Gg",
       "identifier": "battery"
     },
     "battery-empty": {
-      "codepoint": 57417,
+      "codepoint": 57440,
       "fontFamily": "Gg",
       "identifier": "batteryEmpty"
     },
     "battery-full": {
-      "codepoint": 57418,
+      "codepoint": 57441,
       "fontFamily": "Gg",
       "identifier": "batteryFull"
     },
+    "bee": {
+      "codepoint": 57442,
+      "fontFamily": "Gg",
+      "identifier": "bee"
+    },
     "bell": {
-      "codepoint": 57419,
+      "codepoint": 57443,
       "fontFamily": "Gg",
       "identifier": "bell"
     },
+    "bitbucket": {
+      "codepoint": 57444,
+      "fontFamily": "Gg",
+      "identifier": "bitbucket"
+    },
     "block": {
-      "codepoint": 57420,
+      "codepoint": 57445,
       "fontFamily": "Gg",
       "identifier": "block"
     },
     "bmw": {
-      "codepoint": 57421,
+      "codepoint": 57446,
       "fontFamily": "Gg",
       "identifier": "bmw"
     },
     "board": {
-      "codepoint": 57422,
+      "codepoint": 57447,
       "fontFamily": "Gg",
       "identifier": "board"
     },
     "bolt": {
-      "codepoint": 57423,
+      "codepoint": 57448,
       "fontFamily": "Gg",
       "identifier": "bolt"
     },
     "bookmark": {
-      "codepoint": 57424,
+      "codepoint": 57449,
       "fontFamily": "Gg",
       "identifier": "bookmark"
     },
     "border-all": {
-      "codepoint": 57425,
+      "codepoint": 57450,
       "fontFamily": "Gg",
       "identifier": "borderAll"
     },
     "border-bottom": {
-      "codepoint": 57426,
+      "codepoint": 57451,
       "fontFamily": "Gg",
       "identifier": "borderBottom"
     },
     "border-left": {
-      "codepoint": 57427,
+      "codepoint": 57452,
       "fontFamily": "Gg",
       "identifier": "borderLeft"
     },
     "border-right": {
-      "codepoint": 57428,
+      "codepoint": 57453,
       "fontFamily": "Gg",
       "identifier": "borderRight"
     },
     "border-style-dashed": {
-      "codepoint": 57429,
+      "codepoint": 57454,
       "fontFamily": "Gg",
       "identifier": "borderStyleDashed"
     },
     "border-style-dotted": {
-      "codepoint": 57430,
+      "codepoint": 57455,
       "fontFamily": "Gg",
       "identifier": "borderStyleDotted"
     },
     "border-style-solid": {
-      "codepoint": 57431,
+      "codepoint": 57456,
       "fontFamily": "Gg",
       "identifier": "borderStyleSolid"
     },
     "border-top": {
-      "codepoint": 57432,
+      "codepoint": 57457,
       "fontFamily": "Gg",
       "identifier": "borderTop"
     },
+    "bot": {
+      "codepoint": 57458,
+      "fontFamily": "Gg",
+      "identifier": "bot"
+    },
+    "bowl": {
+      "codepoint": 57459,
+      "fontFamily": "Gg",
+      "identifier": "bowl"
+    },
     "box": {
-      "codepoint": 57433,
+      "codepoint": 57460,
       "fontFamily": "Gg",
       "identifier": "box"
     },
+    "boy": {
+      "codepoint": 57461,
+      "fontFamily": "Gg",
+      "identifier": "boy"
+    },
     "brackets": {
-      "codepoint": 57434,
+      "codepoint": 57462,
       "fontFamily": "Gg",
       "identifier": "brackets"
     },
     "briefcase": {
-      "codepoint": 57435,
+      "codepoint": 57463,
       "fontFamily": "Gg",
       "identifier": "briefcase"
     },
+    "browse": {
+      "codepoint": 57464,
+      "fontFamily": "Gg",
+      "identifier": "browse"
+    },
     "browser": {
-      "codepoint": 57436,
+      "codepoint": 57465,
       "fontFamily": "Gg",
       "identifier": "browser"
     },
     "brush": {
-      "codepoint": 57437,
+      "codepoint": 57466,
       "fontFamily": "Gg",
       "identifier": "brush"
     },
+    "bulb": {
+      "codepoint": 57467,
+      "fontFamily": "Gg",
+      "identifier": "bulb"
+    },
     "c-plus-plus": {
-      "codepoint": 57438,
+      "codepoint": 57468,
       "fontFamily": "Gg",
       "identifier": "cPlusPlus"
     },
     "calculator": {
-      "codepoint": 57439,
+      "codepoint": 57469,
       "fontFamily": "Gg",
       "identifier": "calculator"
     },
     "calendar": {
-      "codepoint": 57440,
+      "codepoint": 57470,
       "fontFamily": "Gg",
       "identifier": "calendar"
     },
     "calendar-dates": {
-      "codepoint": 57441,
+      "codepoint": 57471,
       "fontFamily": "Gg",
       "identifier": "calendarDates"
     },
     "calendar-due": {
-      "codepoint": 57442,
+      "codepoint": 57472,
       "fontFamily": "Gg",
       "identifier": "calendarDue"
     },
     "calendar-next": {
-      "codepoint": 57443,
+      "codepoint": 57473,
       "fontFamily": "Gg",
       "identifier": "calendarNext"
     },
     "calendar-today": {
-      "codepoint": 57444,
+      "codepoint": 57474,
       "fontFamily": "Gg",
       "identifier": "calendarToday"
     },
     "calendar-two": {
-      "codepoint": 57445,
+      "codepoint": 57475,
       "fontFamily": "Gg",
       "identifier": "calendarTwo"
     },
+    "calibrate": {
+      "codepoint": 57476,
+      "fontFamily": "Gg",
+      "identifier": "calibrate"
+    },
+    "camera": {
+      "codepoint": 57477,
+      "fontFamily": "Gg",
+      "identifier": "camera"
+    },
+    "cap": {
+      "codepoint": 57478,
+      "fontFamily": "Gg",
+      "identifier": "cap"
+    },
     "captions": {
-      "codepoint": 57446,
+      "codepoint": 57479,
       "fontFamily": "Gg",
       "identifier": "captions"
     },
     "card-clubs": {
-      "codepoint": 57447,
+      "codepoint": 57480,
       "fontFamily": "Gg",
       "identifier": "cardClubs"
     },
     "card-diamonds": {
-      "codepoint": 57448,
+      "codepoint": 57481,
       "fontFamily": "Gg",
       "identifier": "cardDiamonds"
     },
     "card-hearts": {
-      "codepoint": 57449,
+      "codepoint": 57482,
       "fontFamily": "Gg",
       "identifier": "cardHearts"
     },
     "card-spades": {
-      "codepoint": 57450,
+      "codepoint": 57483,
       "fontFamily": "Gg",
       "identifier": "cardSpades"
     },
     "carousel": {
-      "codepoint": 57451,
+      "codepoint": 57484,
       "fontFamily": "Gg",
       "identifier": "carousel"
     },
     "cast": {
-      "codepoint": 57452,
+      "codepoint": 57485,
       "fontFamily": "Gg",
       "identifier": "cast"
     },
+    "chanel": {
+      "codepoint": 57486,
+      "fontFamily": "Gg",
+      "identifier": "chanel"
+    },
     "chart": {
-      "codepoint": 57453,
+      "codepoint": 57487,
       "fontFamily": "Gg",
       "identifier": "chart"
     },
     "check": {
-      "codepoint": 57454,
+      "codepoint": 57488,
       "fontFamily": "Gg",
       "identifier": "check"
     },
     "check-o": {
-      "codepoint": 57455,
+      "codepoint": 57489,
       "fontFamily": "Gg",
       "identifier": "checkO"
     },
     "check-r": {
-      "codepoint": 57456,
+      "codepoint": 57490,
       "fontFamily": "Gg",
       "identifier": "checkR"
     },
     "chevron-double-down": {
-      "codepoint": 57457,
+      "codepoint": 57491,
       "fontFamily": "Gg",
       "identifier": "chevronDoubleDown"
     },
     "chevron-double-down-o": {
-      "codepoint": 57458,
+      "codepoint": 57492,
       "fontFamily": "Gg",
       "identifier": "chevronDoubleDownO"
     },
     "chevron-double-down-r": {
-      "codepoint": 57459,
+      "codepoint": 57493,
       "fontFamily": "Gg",
       "identifier": "chevronDoubleDownR"
     },
     "chevron-double-left": {
-      "codepoint": 57460,
+      "codepoint": 57494,
       "fontFamily": "Gg",
       "identifier": "chevronDoubleLeft"
     },
     "chevron-double-left-o": {
-      "codepoint": 57461,
+      "codepoint": 57495,
       "fontFamily": "Gg",
       "identifier": "chevronDoubleLeftO"
     },
     "chevron-double-left-r": {
-      "codepoint": 57462,
+      "codepoint": 57496,
       "fontFamily": "Gg",
       "identifier": "chevronDoubleLeftR"
     },
     "chevron-double-right": {
-      "codepoint": 57463,
+      "codepoint": 57497,
       "fontFamily": "Gg",
       "identifier": "chevronDoubleRight"
     },
     "chevron-double-right-o": {
-      "codepoint": 57464,
+      "codepoint": 57498,
       "fontFamily": "Gg",
       "identifier": "chevronDoubleRightO"
     },
     "chevron-double-right-r": {
-      "codepoint": 57465,
+      "codepoint": 57499,
       "fontFamily": "Gg",
       "identifier": "chevronDoubleRightR"
     },
     "chevron-double-up": {
-      "codepoint": 57466,
+      "codepoint": 57500,
       "fontFamily": "Gg",
       "identifier": "chevronDoubleUp"
     },
     "chevron-double-up-o": {
-      "codepoint": 57467,
+      "codepoint": 57501,
       "fontFamily": "Gg",
       "identifier": "chevronDoubleUpO"
     },
     "chevron-double-up-r": {
-      "codepoint": 57468,
+      "codepoint": 57502,
       "fontFamily": "Gg",
       "identifier": "chevronDoubleUpR"
     },
     "chevron-down": {
-      "codepoint": 57469,
+      "codepoint": 57503,
       "fontFamily": "Gg",
       "identifier": "chevronDown"
     },
     "chevron-down-o": {
-      "codepoint": 57470,
+      "codepoint": 57504,
       "fontFamily": "Gg",
       "identifier": "chevronDownO"
     },
     "chevron-down-r": {
-      "codepoint": 57471,
+      "codepoint": 57505,
       "fontFamily": "Gg",
       "identifier": "chevronDownR"
     },
     "chevron-left": {
-      "codepoint": 57472,
+      "codepoint": 57506,
       "fontFamily": "Gg",
       "identifier": "chevronLeft"
     },
     "chevron-left-o": {
-      "codepoint": 57473,
+      "codepoint": 57507,
       "fontFamily": "Gg",
       "identifier": "chevronLeftO"
     },
     "chevron-left-r": {
-      "codepoint": 57474,
+      "codepoint": 57508,
       "fontFamily": "Gg",
       "identifier": "chevronLeftR"
     },
     "chevron-right": {
-      "codepoint": 57475,
+      "codepoint": 57509,
       "fontFamily": "Gg",
       "identifier": "chevronRight"
     },
     "chevron-right-o": {
-      "codepoint": 57476,
+      "codepoint": 57510,
       "fontFamily": "Gg",
       "identifier": "chevronRightO"
     },
     "chevron-right-r": {
-      "codepoint": 57477,
+      "codepoint": 57511,
       "fontFamily": "Gg",
       "identifier": "chevronRightR"
     },
     "chevron-up": {
-      "codepoint": 57478,
+      "codepoint": 57512,
       "fontFamily": "Gg",
       "identifier": "chevronUp"
     },
     "chevron-up-o": {
-      "codepoint": 57479,
+      "codepoint": 57513,
       "fontFamily": "Gg",
       "identifier": "chevronUpO"
     },
     "chevron-up-r": {
-      "codepoint": 57480,
+      "codepoint": 57514,
       "fontFamily": "Gg",
       "identifier": "chevronUpR"
     },
     "circleci": {
-      "codepoint": 57481,
+      "codepoint": 57515,
       "fontFamily": "Gg",
       "identifier": "circleci"
     },
     "clapper-board": {
-      "codepoint": 57482,
+      "codepoint": 57516,
       "fontFamily": "Gg",
       "identifier": "clapperBoard"
     },
     "clipboard": {
-      "codepoint": 57483,
+      "codepoint": 57517,
       "fontFamily": "Gg",
       "identifier": "clipboard"
     },
     "close": {
-      "codepoint": 57484,
+      "codepoint": 57518,
       "fontFamily": "Gg",
       "identifier": "close"
     },
     "close-o": {
-      "codepoint": 57485,
+      "codepoint": 57519,
       "fontFamily": "Gg",
       "identifier": "closeO"
     },
     "close-r": {
-      "codepoint": 57486,
+      "codepoint": 57520,
       "fontFamily": "Gg",
       "identifier": "closeR"
     },
+    "cloud": {
+      "codepoint": 57521,
+      "fontFamily": "Gg",
+      "identifier": "cloud"
+    },
     "code": {
-      "codepoint": 57487,
+      "codepoint": 57522,
       "fontFamily": "Gg",
       "identifier": "code"
     },
+    "code-climate": {
+      "codepoint": 57523,
+      "fontFamily": "Gg",
+      "identifier": "codeClimate"
+    },
+    "code-slash": {
+      "codepoint": 57524,
+      "fontFamily": "Gg",
+      "identifier": "codeSlash"
+    },
     "coffee": {
-      "codepoint": 57488,
+      "codepoint": 57525,
       "fontFamily": "Gg",
       "identifier": "coffee"
     },
     "collage": {
-      "codepoint": 57489,
+      "codepoint": 57526,
       "fontFamily": "Gg",
       "identifier": "collage"
     },
+    "color-bucket": {
+      "codepoint": 57527,
+      "fontFamily": "Gg",
+      "identifier": "colorBucket"
+    },
+    "color-picker": {
+      "codepoint": 57528,
+      "fontFamily": "Gg",
+      "identifier": "colorPicker"
+    },
+    "comedy-central": {
+      "codepoint": 57529,
+      "fontFamily": "Gg",
+      "identifier": "comedyCentral"
+    },
     "comment": {
-      "codepoint": 57490,
+      "codepoint": 57530,
       "fontFamily": "Gg",
       "identifier": "comment"
     },
+    "community": {
+      "codepoint": 57531,
+      "fontFamily": "Gg",
+      "identifier": "community"
+    },
     "components": {
-      "codepoint": 57491,
+      "codepoint": 57532,
       "fontFamily": "Gg",
       "identifier": "components"
     },
     "compress": {
-      "codepoint": 57492,
+      "codepoint": 57533,
       "fontFamily": "Gg",
       "identifier": "compress"
     },
     "compress-left": {
-      "codepoint": 57493,
+      "codepoint": 57534,
       "fontFamily": "Gg",
       "identifier": "compressLeft"
     },
     "compress-right": {
-      "codepoint": 57494,
+      "codepoint": 57535,
       "fontFamily": "Gg",
       "identifier": "compressRight"
     },
     "compress-v": {
-      "codepoint": 57495,
+      "codepoint": 57536,
       "fontFamily": "Gg",
       "identifier": "compressV"
     },
+    "controller": {
+      "codepoint": 57537,
+      "fontFamily": "Gg",
+      "identifier": "controller"
+    },
     "copy": {
-      "codepoint": 57496,
+      "codepoint": 57538,
       "fontFamily": "Gg",
       "identifier": "copy"
     },
+    "copyright": {
+      "codepoint": 57539,
+      "fontFamily": "Gg",
+      "identifier": "copyright"
+    },
+    "corner-double-down-left": {
+      "codepoint": 57540,
+      "fontFamily": "Gg",
+      "identifier": "cornerDoubleDownLeft"
+    },
     "corner-double-down-right": {
-      "codepoint": 57497,
+      "codepoint": 57541,
       "fontFamily": "Gg",
       "identifier": "cornerDoubleDownRight"
     },
     "corner-double-left-down": {
-      "codepoint": 57498,
+      "codepoint": 57542,
       "fontFamily": "Gg",
       "identifier": "cornerDoubleLeftDown"
     },
     "corner-double-left-up": {
-      "codepoint": 57499,
+      "codepoint": 57543,
       "fontFamily": "Gg",
       "identifier": "cornerDoubleLeftUp"
     },
+    "corner-double-right-down": {
+      "codepoint": 57544,
+      "fontFamily": "Gg",
+      "identifier": "cornerDoubleRightDown"
+    },
     "corner-double-right-up": {
-      "codepoint": 57500,
+      "codepoint": 57545,
       "fontFamily": "Gg",
       "identifier": "cornerDoubleRightUp"
     },
     "corner-double-up-left": {
-      "codepoint": 57501,
+      "codepoint": 57546,
       "fontFamily": "Gg",
       "identifier": "cornerDoubleUpLeft"
     },
     "corner-double-up-right": {
-      "codepoint": 57502,
+      "codepoint": 57547,
       "fontFamily": "Gg",
       "identifier": "cornerDoubleUpRight"
     },
     "corner-down-left": {
-      "codepoint": 57503,
+      "codepoint": 57548,
       "fontFamily": "Gg",
       "identifier": "cornerDownLeft"
     },
     "corner-down-right": {
-      "codepoint": 57504,
+      "codepoint": 57549,
       "fontFamily": "Gg",
       "identifier": "cornerDownRight"
     },
     "corner-left-down": {
-      "codepoint": 57505,
+      "codepoint": 57550,
       "fontFamily": "Gg",
       "identifier": "cornerLeftDown"
     },
     "corner-left-up": {
-      "codepoint": 57506,
+      "codepoint": 57551,
       "fontFamily": "Gg",
       "identifier": "cornerLeftUp"
     },
     "corner-right-down": {
-      "codepoint": 57507,
+      "codepoint": 57552,
       "fontFamily": "Gg",
       "identifier": "cornerRightDown"
     },
     "corner-right-up": {
-      "codepoint": 57508,
+      "codepoint": 57553,
       "fontFamily": "Gg",
       "identifier": "cornerRightUp"
     },
     "corner-up-left": {
-      "codepoint": 57509,
+      "codepoint": 57554,
       "fontFamily": "Gg",
       "identifier": "cornerUpLeft"
     },
     "corner-up-right": {
-      "codepoint": 57510,
+      "codepoint": 57555,
       "fontFamily": "Gg",
       "identifier": "cornerUpRight"
     },
     "credit-card": {
-      "codepoint": 57511,
+      "codepoint": 57556,
       "fontFamily": "Gg",
       "identifier": "creditCard"
     },
     "crop": {
-      "codepoint": 57512,
+      "codepoint": 57557,
       "fontFamily": "Gg",
       "identifier": "crop"
     },
     "cross": {
-      "codepoint": 57513,
+      "codepoint": 57558,
       "fontFamily": "Gg",
       "identifier": "cross"
     },
     "crowdfire": {
-      "codepoint": 57514,
+      "codepoint": 57559,
       "fontFamily": "Gg",
       "identifier": "crowdfire"
     },
     "crown": {
-      "codepoint": 57515,
+      "codepoint": 57560,
       "fontFamily": "Gg",
       "identifier": "crown"
     },
     "danger": {
-      "codepoint": 57516,
+      "codepoint": 57561,
       "fontFamily": "Gg",
       "identifier": "danger"
     },
     "dark-mode": {
-      "codepoint": 57517,
+      "codepoint": 57562,
       "fontFamily": "Gg",
       "identifier": "darkMode"
     },
+    "data": {
+      "codepoint": 57563,
+      "fontFamily": "Gg",
+      "identifier": "data"
+    },
     "database": {
-      "codepoint": 57518,
+      "codepoint": 57564,
       "fontFamily": "Gg",
       "identifier": "database"
     },
     "debug": {
-      "codepoint": 57519,
+      "codepoint": 57565,
       "fontFamily": "Gg",
       "identifier": "debug"
     },
     "designmodo": {
-      "codepoint": 57520,
+      "codepoint": 57566,
       "fontFamily": "Gg",
       "identifier": "designmodo"
     },
     "desktop": {
-      "codepoint": 57521,
+      "codepoint": 57567,
       "fontFamily": "Gg",
       "identifier": "desktop"
     },
     "details-less": {
-      "codepoint": 57522,
+      "codepoint": 57568,
       "fontFamily": "Gg",
       "identifier": "detailsLess"
     },
     "details-more": {
-      "codepoint": 57523,
+      "codepoint": 57569,
       "fontFamily": "Gg",
       "identifier": "detailsMore"
     },
     "dialpad": {
-      "codepoint": 57524,
+      "codepoint": 57570,
       "fontFamily": "Gg",
       "identifier": "dialpad"
     },
     "dice-1": {
-      "codepoint": 57525,
+      "codepoint": 57571,
       "fontFamily": "Gg",
       "identifier": "dice1"
     },
     "dice-2": {
-      "codepoint": 57526,
+      "codepoint": 57572,
       "fontFamily": "Gg",
       "identifier": "dice2"
     },
     "dice-3": {
-      "codepoint": 57527,
+      "codepoint": 57573,
       "fontFamily": "Gg",
       "identifier": "dice3"
     },
     "dice-4": {
-      "codepoint": 57528,
+      "codepoint": 57574,
       "fontFamily": "Gg",
       "identifier": "dice4"
     },
     "dice-5": {
-      "codepoint": 57529,
+      "codepoint": 57575,
       "fontFamily": "Gg",
       "identifier": "dice5"
     },
     "dice-6": {
-      "codepoint": 57530,
+      "codepoint": 57576,
       "fontFamily": "Gg",
       "identifier": "dice6"
     },
     "digitalocean": {
-      "codepoint": 57531,
+      "codepoint": 57577,
       "fontFamily": "Gg",
       "identifier": "digitalocean"
     },
     "disc": {
-      "codepoint": 57532,
+      "codepoint": 57578,
       "fontFamily": "Gg",
       "identifier": "disc"
     },
     "display-flex": {
-      "codepoint": 57533,
+      "codepoint": 57579,
       "fontFamily": "Gg",
       "identifier": "displayFlex"
     },
     "display-fullwidth": {
-      "codepoint": 57534,
+      "codepoint": 57580,
       "fontFamily": "Gg",
       "identifier": "displayFullwidth"
     },
     "display-grid": {
-      "codepoint": 57535,
+      "codepoint": 57581,
       "fontFamily": "Gg",
       "identifier": "displayGrid"
     },
     "display-spacing": {
-      "codepoint": 57536,
+      "codepoint": 57582,
       "fontFamily": "Gg",
       "identifier": "displaySpacing"
     },
     "distribute-horizontal": {
-      "codepoint": 57537,
+      "codepoint": 57583,
       "fontFamily": "Gg",
       "identifier": "distributeHorizontal"
     },
     "distribute-vertical": {
-      "codepoint": 57538,
+      "codepoint": 57584,
       "fontFamily": "Gg",
       "identifier": "distributeVertical"
     },
     "dock-bottom": {
-      "codepoint": 57539,
+      "codepoint": 57585,
       "fontFamily": "Gg",
       "identifier": "dockBottom"
     },
     "dock-left": {
-      "codepoint": 57540,
+      "codepoint": 57586,
       "fontFamily": "Gg",
       "identifier": "dockLeft"
     },
     "dock-right": {
-      "codepoint": 57541,
+      "codepoint": 57587,
       "fontFamily": "Gg",
       "identifier": "dockRight"
     },
     "dock-window": {
-      "codepoint": 57542,
+      "codepoint": 57588,
       "fontFamily": "Gg",
       "identifier": "dockWindow"
     },
     "dolby": {
-      "codepoint": 57543,
+      "codepoint": 57589,
       "fontFamily": "Gg",
       "identifier": "dolby"
     },
     "dollar": {
-      "codepoint": 57544,
+      "codepoint": 57590,
       "fontFamily": "Gg",
       "identifier": "dollar"
     },
+    "dribbble": {
+      "codepoint": 57591,
+      "fontFamily": "Gg",
+      "identifier": "dribbble"
+    },
     "drive": {
-      "codepoint": 57545,
+      "codepoint": 57592,
       "fontFamily": "Gg",
       "identifier": "drive"
     },
     "drop": {
-      "codepoint": 57546,
+      "codepoint": 57593,
       "fontFamily": "Gg",
       "identifier": "drop"
     },
     "drop-invert": {
-      "codepoint": 57547,
+      "codepoint": 57594,
       "fontFamily": "Gg",
       "identifier": "dropInvert"
     },
     "drop-opacity": {
-      "codepoint": 57548,
+      "codepoint": 57595,
       "fontFamily": "Gg",
       "identifier": "dropOpacity"
     },
     "duplicate": {
-      "codepoint": 57549,
+      "codepoint": 57596,
       "fontFamily": "Gg",
       "identifier": "duplicate"
     },
     "edit-black-point": {
-      "codepoint": 57550,
+      "codepoint": 57597,
       "fontFamily": "Gg",
       "identifier": "editBlackPoint"
     },
+    "edit-contrast": {
+      "codepoint": 57598,
+      "fontFamily": "Gg",
+      "identifier": "editContrast"
+    },
     "edit-exposure": {
-      "codepoint": 57551,
+      "codepoint": 57599,
       "fontFamily": "Gg",
       "identifier": "editExposure"
     },
+    "edit-fade": {
+      "codepoint": 57600,
+      "fontFamily": "Gg",
+      "identifier": "editFade"
+    },
     "edit-flip-h": {
-      "codepoint": 57552,
+      "codepoint": 57601,
       "fontFamily": "Gg",
       "identifier": "editFlipH"
     },
     "edit-flip-v": {
-      "codepoint": 57553,
+      "codepoint": 57602,
       "fontFamily": "Gg",
       "identifier": "editFlipV"
     },
+    "edit-highlight": {
+      "codepoint": 57603,
+      "fontFamily": "Gg",
+      "identifier": "editHighlight"
+    },
+    "edit-markup": {
+      "codepoint": 57604,
+      "fontFamily": "Gg",
+      "identifier": "editMarkup"
+    },
     "edit-mask": {
-      "codepoint": 57554,
+      "codepoint": 57605,
       "fontFamily": "Gg",
       "identifier": "editMask"
     },
+    "edit-noise": {
+      "codepoint": 57606,
+      "fontFamily": "Gg",
+      "identifier": "editNoise"
+    },
     "edit-shadows": {
-      "codepoint": 57555,
+      "codepoint": 57607,
       "fontFamily": "Gg",
       "identifier": "editShadows"
     },
     "edit-straight": {
-      "codepoint": 57556,
+      "codepoint": 57608,
       "fontFamily": "Gg",
       "identifier": "editStraight"
     },
     "edit-unmask": {
-      "codepoint": 57557,
+      "codepoint": 57609,
       "fontFamily": "Gg",
       "identifier": "editUnmask"
     },
     "eject": {
-      "codepoint": 57558,
+      "codepoint": 57610,
       "fontFamily": "Gg",
       "identifier": "eject"
     },
     "enter": {
-      "codepoint": 57559,
+      "codepoint": 57611,
       "fontFamily": "Gg",
       "identifier": "enter"
     },
     "erase": {
-      "codepoint": 57560,
+      "codepoint": 57612,
       "fontFamily": "Gg",
       "identifier": "erase"
     },
     "ereader": {
-      "codepoint": 57561,
+      "codepoint": 57613,
       "fontFamily": "Gg",
       "identifier": "ereader"
     },
+    "ericsson": {
+      "codepoint": 57614,
+      "fontFamily": "Gg",
+      "identifier": "ericsson"
+    },
     "ethernet": {
-      "codepoint": 57562,
+      "codepoint": 57615,
       "fontFamily": "Gg",
       "identifier": "ethernet"
     },
+    "euro": {
+      "codepoint": 57616,
+      "fontFamily": "Gg",
+      "identifier": "euro"
+    },
+    "eventbrite": {
+      "codepoint": 57617,
+      "fontFamily": "Gg",
+      "identifier": "eventbrite"
+    },
+    "expand": {
+      "codepoint": 57618,
+      "fontFamily": "Gg",
+      "identifier": "expand"
+    },
     "export": {
-      "codepoint": 57563,
+      "codepoint": 57619,
       "fontFamily": "Gg",
       "identifier": "export_"
     },
     "extension": {
-      "codepoint": 57564,
+      "codepoint": 57620,
       "fontFamily": "Gg",
       "identifier": "extension_"
     },
     "extension-add": {
-      "codepoint": 57565,
+      "codepoint": 57621,
       "fontFamily": "Gg",
       "identifier": "extensionAdd"
     },
     "extension-alt": {
-      "codepoint": 57566,
+      "codepoint": 57622,
       "fontFamily": "Gg",
       "identifier": "extensionAlt"
     },
     "extension-remove": {
-      "codepoint": 57567,
+      "codepoint": 57623,
       "fontFamily": "Gg",
       "identifier": "extensionRemove"
     },
     "external": {
-      "codepoint": 57568,
+      "codepoint": 57624,
       "fontFamily": "Gg",
       "identifier": "external_"
     },
+    "eye": {
+      "codepoint": 57625,
+      "fontFamily": "Gg",
+      "identifier": "eye"
+    },
+    "eye-alt": {
+      "codepoint": 57626,
+      "fontFamily": "Gg",
+      "identifier": "eyeAlt"
+    },
+    "facebook": {
+      "codepoint": 57627,
+      "fontFamily": "Gg",
+      "identifier": "facebook"
+    },
     "feed": {
-      "codepoint": 57569,
+      "codepoint": 57628,
       "fontFamily": "Gg",
       "identifier": "feed"
     },
     "figma": {
-      "codepoint": 57570,
+      "codepoint": 57629,
       "fontFamily": "Gg",
       "identifier": "figma"
     },
     "file": {
-      "codepoint": 57571,
+      "codepoint": 57630,
       "fontFamily": "Gg",
       "identifier": "file"
     },
     "file-add": {
-      "codepoint": 57572,
+      "codepoint": 57631,
       "fontFamily": "Gg",
       "identifier": "fileAdd"
     },
     "file-document": {
-      "codepoint": 57573,
+      "codepoint": 57632,
       "fontFamily": "Gg",
       "identifier": "fileDocument"
     },
     "file-remove": {
-      "codepoint": 57574,
+      "codepoint": 57633,
       "fontFamily": "Gg",
       "identifier": "fileRemove"
     },
     "film": {
-      "codepoint": 57575,
+      "codepoint": 57634,
       "fontFamily": "Gg",
       "identifier": "film"
     },
+    "filters": {
+      "codepoint": 57635,
+      "fontFamily": "Gg",
+      "identifier": "filters"
+    },
     "flag": {
-      "codepoint": 57576,
+      "codepoint": 57636,
       "fontFamily": "Gg",
       "identifier": "flag"
     },
     "flag-alt": {
-      "codepoint": 57577,
+      "codepoint": 57637,
       "fontFamily": "Gg",
       "identifier": "flagAlt"
     },
+    "folder": {
+      "codepoint": 57638,
+      "fontFamily": "Gg",
+      "identifier": "folder"
+    },
+    "folder-add": {
+      "codepoint": 57639,
+      "fontFamily": "Gg",
+      "identifier": "folderAdd"
+    },
+    "folder-remove": {
+      "codepoint": 57640,
+      "fontFamily": "Gg",
+      "identifier": "folderRemove"
+    },
+    "font-height": {
+      "codepoint": 57641,
+      "fontFamily": "Gg",
+      "identifier": "fontHeight"
+    },
+    "font-spacing": {
+      "codepoint": 57642,
+      "fontFamily": "Gg",
+      "identifier": "fontSpacing"
+    },
+    "format-bold": {
+      "codepoint": 57643,
+      "fontFamily": "Gg",
+      "identifier": "formatBold"
+    },
     "format-center": {
-      "codepoint": 57578,
+      "codepoint": 57644,
       "fontFamily": "Gg",
       "identifier": "formatCenter"
     },
+    "format-color": {
+      "codepoint": 57645,
+      "fontFamily": "Gg",
+      "identifier": "formatColor"
+    },
     "format-heading": {
-      "codepoint": 57579,
+      "codepoint": 57646,
       "fontFamily": "Gg",
       "identifier": "formatHeading"
     },
     "format-indent-decrease": {
-      "codepoint": 57580,
+      "codepoint": 57647,
       "fontFamily": "Gg",
       "identifier": "formatIndentDecrease"
     },
     "format-indent-increase": {
-      "codepoint": 57581,
+      "codepoint": 57648,
       "fontFamily": "Gg",
       "identifier": "formatIndentIncrease"
     },
+    "format-italic": {
+      "codepoint": 57649,
+      "fontFamily": "Gg",
+      "identifier": "formatItalic"
+    },
     "format-justify": {
-      "codepoint": 57582,
+      "codepoint": 57650,
       "fontFamily": "Gg",
       "identifier": "formatJustify"
     },
     "format-left": {
-      "codepoint": 57583,
+      "codepoint": 57651,
       "fontFamily": "Gg",
       "identifier": "formatLeft"
     },
     "format-line-height": {
-      "codepoint": 57584,
+      "codepoint": 57652,
       "fontFamily": "Gg",
       "identifier": "formatLineHeight"
     },
     "format-right": {
-      "codepoint": 57585,
+      "codepoint": 57653,
       "fontFamily": "Gg",
       "identifier": "formatRight"
     },
     "format-separator": {
-      "codepoint": 57586,
+      "codepoint": 57654,
       "fontFamily": "Gg",
       "identifier": "formatSeparator",
       "duotone": true
     },
+    "format-slash": {
+      "codepoint": 57655,
+      "fontFamily": "Gg",
+      "identifier": "formatSlash"
+    },
     "format-strike": {
-      "codepoint": 57587,
+      "codepoint": 57656,
       "fontFamily": "Gg",
       "identifier": "formatStrike"
     },
     "format-text": {
-      "codepoint": 57588,
+      "codepoint": 57657,
       "fontFamily": "Gg",
       "identifier": "formatText"
     },
     "format-underline": {
-      "codepoint": 57589,
+      "codepoint": 57658,
       "fontFamily": "Gg",
       "identifier": "formatUnderline"
     },
     "format-uppercase": {
-      "codepoint": 57590,
+      "codepoint": 57659,
       "fontFamily": "Gg",
       "identifier": "formatUppercase"
     },
     "framer": {
-      "codepoint": 57591,
+      "codepoint": 57660,
       "fontFamily": "Gg",
       "identifier": "framer"
     },
+    "games": {
+      "codepoint": 57661,
+      "fontFamily": "Gg",
+      "identifier": "games"
+    },
     "gender-female": {
-      "codepoint": 57592,
+      "codepoint": 57662,
       "fontFamily": "Gg",
       "identifier": "genderFemale"
     },
     "gender-male": {
-      "codepoint": 57593,
+      "codepoint": 57663,
       "fontFamily": "Gg",
       "identifier": "genderMale"
     },
     "ghost": {
-      "codepoint": 57594,
+      "codepoint": 57664,
       "fontFamily": "Gg",
       "identifier": "ghost"
     },
     "ghost-character": {
-      "codepoint": 57595,
+      "codepoint": 57665,
       "fontFamily": "Gg",
       "identifier": "ghostCharacter"
     },
+    "gift": {
+      "codepoint": 57666,
+      "fontFamily": "Gg",
+      "identifier": "gift"
+    },
     "girl": {
-      "codepoint": 57596,
+      "codepoint": 57667,
       "fontFamily": "Gg",
       "identifier": "girl"
     },
+    "git-branch": {
+      "codepoint": 57668,
+      "fontFamily": "Gg",
+      "identifier": "gitBranch"
+    },
     "git-commit": {
-      "codepoint": 57597,
+      "codepoint": 57669,
       "fontFamily": "Gg",
       "identifier": "gitCommit"
     },
     "git-fork": {
-      "codepoint": 57598,
+      "codepoint": 57670,
       "fontFamily": "Gg",
       "identifier": "gitFork"
     },
+    "git-pull": {
+      "codepoint": 57671,
+      "fontFamily": "Gg",
+      "identifier": "gitPull"
+    },
     "gitter": {
-      "codepoint": 57599,
+      "codepoint": 57672,
       "fontFamily": "Gg",
       "identifier": "gitter"
     },
     "glass": {
-      "codepoint": 57600,
+      "codepoint": 57673,
       "fontFamily": "Gg",
       "identifier": "glass"
     },
     "glass-alt": {
-      "codepoint": 57601,
+      "codepoint": 57674,
       "fontFamily": "Gg",
       "identifier": "glassAlt"
     },
     "globe": {
-      "codepoint": 57602,
+      "codepoint": 57675,
       "fontFamily": "Gg",
       "identifier": "globe"
     },
+    "globe-alt": {
+      "codepoint": 57676,
+      "fontFamily": "Gg",
+      "identifier": "globeAlt"
+    },
+    "google": {
+      "codepoint": 57677,
+      "fontFamily": "Gg",
+      "identifier": "google"
+    },
     "google-tasks": {
-      "codepoint": 57603,
+      "codepoint": 57678,
       "fontFamily": "Gg",
       "identifier": "googleTasks"
     },
+    "gym": {
+      "codepoint": 57679,
+      "fontFamily": "Gg",
+      "identifier": "gym"
+    },
     "hashtag": {
-      "codepoint": 57604,
+      "codepoint": 57680,
       "fontFamily": "Gg",
       "identifier": "hashtag"
     },
     "headset": {
-      "codepoint": 57605,
+      "codepoint": 57681,
       "fontFamily": "Gg",
       "identifier": "headset"
     },
     "heart": {
-      "codepoint": 57606,
+      "codepoint": 57682,
       "fontFamily": "Gg",
       "identifier": "heart"
     },
     "hello": {
-      "codepoint": 57607,
+      "codepoint": 57683,
       "fontFamily": "Gg",
       "identifier": "hello"
     },
     "home": {
-      "codepoint": 57608,
+      "codepoint": 57684,
       "fontFamily": "Gg",
       "identifier": "home"
     },
+    "home-alt": {
+      "codepoint": 57685,
+      "fontFamily": "Gg",
+      "identifier": "homeAlt"
+    },
     "home-screen": {
-      "codepoint": 57609,
+      "codepoint": 57686,
       "fontFamily": "Gg",
       "identifier": "homeScreen"
     },
     "icecream": {
-      "codepoint": 57610,
+      "codepoint": 57687,
       "fontFamily": "Gg",
       "identifier": "icecream"
     },
     "if-design": {
-      "codepoint": 57611,
+      "codepoint": 57688,
       "fontFamily": "Gg",
       "identifier": "ifDesign"
     },
     "image": {
-      "codepoint": 57612,
+      "codepoint": 57689,
       "fontFamily": "Gg",
       "identifier": "image"
     },
     "import": {
-      "codepoint": 57613,
+      "codepoint": 57690,
       "fontFamily": "Gg",
       "identifier": "import_"
     },
+    "inbox": {
+      "codepoint": 57691,
+      "fontFamily": "Gg",
+      "identifier": "inbox"
+    },
     "indie-hackers": {
-      "codepoint": 57614,
+      "codepoint": 57692,
       "fontFamily": "Gg",
       "identifier": "indieHackers"
     },
+    "infinity": {
+      "codepoint": 57693,
+      "fontFamily": "Gg",
+      "identifier": "infinity"
+    },
     "info": {
-      "codepoint": 57615,
+      "codepoint": 57694,
       "fontFamily": "Gg",
       "identifier": "info"
     },
     "inpicture": {
-      "codepoint": 57616,
+      "codepoint": 57695,
       "fontFamily": "Gg",
       "identifier": "inpicture"
     },
     "insert-after": {
-      "codepoint": 57617,
+      "codepoint": 57696,
       "fontFamily": "Gg",
       "identifier": "insertAfter"
     },
     "insert-after-o": {
-      "codepoint": 57618,
+      "codepoint": 57697,
       "fontFamily": "Gg",
       "identifier": "insertAfterO"
     },
     "insert-after-r": {
-      "codepoint": 57619,
+      "codepoint": 57698,
       "fontFamily": "Gg",
       "identifier": "insertAfterR"
     },
     "insert-before": {
-      "codepoint": 57620,
+      "codepoint": 57699,
       "fontFamily": "Gg",
       "identifier": "insertBefore"
     },
     "insert-before-o": {
-      "codepoint": 57621,
+      "codepoint": 57700,
       "fontFamily": "Gg",
       "identifier": "insertBeforeO"
     },
     "insert-before-r": {
-      "codepoint": 57622,
+      "codepoint": 57701,
       "fontFamily": "Gg",
       "identifier": "insertBeforeR"
     },
     "insights": {
-      "codepoint": 57623,
+      "codepoint": 57702,
       "fontFamily": "Gg",
       "identifier": "insights"
     },
     "instagram": {
-      "codepoint": 57624,
+      "codepoint": 57703,
       "fontFamily": "Gg",
       "identifier": "instagram"
     },
     "internal": {
-      "codepoint": 57625,
+      "codepoint": 57704,
       "fontFamily": "Gg",
       "identifier": "internal"
     },
     "key": {
-      "codepoint": 57626,
+      "codepoint": 57705,
       "fontFamily": "Gg",
       "identifier": "key"
     },
     "keyboard": {
-      "codepoint": 57627,
+      "codepoint": 57706,
       "fontFamily": "Gg",
       "identifier": "keyboard"
     },
     "keyhole": {
-      "codepoint": 57628,
+      "codepoint": 57707,
       "fontFamily": "Gg",
       "identifier": "keyhole"
     },
     "laptop": {
-      "codepoint": 57629,
+      "codepoint": 57708,
       "fontFamily": "Gg",
       "identifier": "laptop"
     },
     "lastpass": {
-      "codepoint": 57630,
+      "codepoint": 57709,
       "fontFamily": "Gg",
       "identifier": "lastpass"
     },
     "layout-grid": {
-      "codepoint": 57631,
+      "codepoint": 57710,
       "fontFamily": "Gg",
       "identifier": "layoutGrid"
     },
     "layout-grid-small": {
-      "codepoint": 57632,
+      "codepoint": 57711,
       "fontFamily": "Gg",
       "identifier": "layoutGridSmall"
     },
     "layout-list": {
-      "codepoint": 57633,
+      "codepoint": 57712,
       "fontFamily": "Gg",
       "identifier": "layoutList"
     },
     "layout-pin": {
-      "codepoint": 57634,
+      "codepoint": 57713,
       "fontFamily": "Gg",
       "identifier": "layoutPin"
     },
+    "linear": {
+      "codepoint": 57714,
+      "fontFamily": "Gg",
+      "identifier": "linear"
+    },
     "link": {
-      "codepoint": 57635,
+      "codepoint": 57715,
       "fontFamily": "Gg",
       "identifier": "link"
     },
     "list": {
-      "codepoint": 57636,
+      "codepoint": 57716,
       "fontFamily": "Gg",
       "identifier": "list"
     },
     "list-tree": {
-      "codepoint": 57637,
+      "codepoint": 57717,
       "fontFamily": "Gg",
       "identifier": "listTree"
     },
+    "live-photo": {
+      "codepoint": 57718,
+      "fontFamily": "Gg",
+      "identifier": "livePhoto"
+    },
     "loadbar": {
-      "codepoint": 57638,
+      "codepoint": 57719,
       "fontFamily": "Gg",
       "identifier": "loadbar"
     },
     "loadbar-alt": {
-      "codepoint": 57639,
+      "codepoint": 57720,
       "fontFamily": "Gg",
       "identifier": "loadbarAlt",
       "duotone": true
     },
     "loadbar-doc": {
-      "codepoint": 57640,
+      "codepoint": 57721,
       "fontFamily": "Gg",
       "identifier": "loadbarDoc"
     },
     "loadbar-sound": {
-      "codepoint": 57641,
+      "codepoint": 57722,
       "fontFamily": "Gg",
       "identifier": "loadbarSound"
     },
     "lock": {
-      "codepoint": 57642,
+      "codepoint": 57723,
       "fontFamily": "Gg",
       "identifier": "lock"
     },
     "lock-unlock": {
-      "codepoint": 57643,
+      "codepoint": 57724,
       "fontFamily": "Gg",
       "identifier": "lockUnlock"
     },
     "log-in": {
-      "codepoint": 57644,
+      "codepoint": 57725,
       "fontFamily": "Gg",
       "identifier": "logIn"
     },
+    "log-off": {
+      "codepoint": 57726,
+      "fontFamily": "Gg",
+      "identifier": "logOff"
+    },
     "log-out": {
-      "codepoint": 57645,
+      "codepoint": 57727,
       "fontFamily": "Gg",
       "identifier": "logOut"
     },
     "loupe": {
-      "codepoint": 57646,
+      "codepoint": 57728,
       "fontFamily": "Gg",
       "identifier": "loupe"
     },
     "magnet": {
-      "codepoint": 57647,
+      "codepoint": 57729,
       "fontFamily": "Gg",
       "identifier": "magnet"
     },
     "mail": {
-      "codepoint": 57648,
+      "codepoint": 57730,
       "fontFamily": "Gg",
       "identifier": "mail"
     },
     "mail-forward": {
-      "codepoint": 57649,
+      "codepoint": 57731,
       "fontFamily": "Gg",
       "identifier": "mailForward"
     },
+    "mail-open": {
+      "codepoint": 57732,
+      "fontFamily": "Gg",
+      "identifier": "mailOpen"
+    },
     "mail-reply": {
-      "codepoint": 57650,
+      "codepoint": 57733,
       "fontFamily": "Gg",
       "identifier": "mailReply"
     },
     "math-divide": {
-      "codepoint": 57651,
+      "codepoint": 57734,
       "fontFamily": "Gg",
       "identifier": "mathDivide"
     },
     "math-equal": {
-      "codepoint": 57652,
+      "codepoint": 57735,
       "fontFamily": "Gg",
       "identifier": "mathEqual"
     },
     "math-minus": {
-      "codepoint": 57653,
+      "codepoint": 57736,
       "fontFamily": "Gg",
       "identifier": "mathMinus"
     },
     "math-percent": {
-      "codepoint": 57654,
+      "codepoint": 57737,
       "fontFamily": "Gg",
       "identifier": "mathPercent"
     },
     "math-plus": {
-      "codepoint": 57655,
+      "codepoint": 57738,
       "fontFamily": "Gg",
       "identifier": "mathPlus"
     },
     "maximize": {
-      "codepoint": 57656,
+      "codepoint": 57739,
       "fontFamily": "Gg",
       "identifier": "maximize"
     },
     "maximize-alt": {
-      "codepoint": 57657,
+      "codepoint": 57740,
       "fontFamily": "Gg",
       "identifier": "maximizeAlt"
     },
     "maze": {
-      "codepoint": 57658,
+      "codepoint": 57741,
       "fontFamily": "Gg",
       "identifier": "maze"
     },
     "media-live": {
-      "codepoint": 57659,
+      "codepoint": 57742,
       "fontFamily": "Gg",
       "identifier": "mediaLive"
     },
     "media-podcast": {
-      "codepoint": 57660,
+      "codepoint": 57743,
       "fontFamily": "Gg",
       "identifier": "mediaPodcast"
     },
     "menu": {
-      "codepoint": 57661,
+      "codepoint": 57744,
       "fontFamily": "Gg",
       "identifier": "menu"
     },
+    "menu-boxed": {
+      "codepoint": 57745,
+      "fontFamily": "Gg",
+      "identifier": "menuBoxed"
+    },
     "menu-cake": {
-      "codepoint": 57662,
+      "codepoint": 57746,
       "fontFamily": "Gg",
       "identifier": "menuCake"
     },
     "menu-cheese": {
-      "codepoint": 57663,
+      "codepoint": 57747,
       "fontFamily": "Gg",
       "identifier": "menuCheese"
     },
     "menu-grid-o": {
-      "codepoint": 57664,
+      "codepoint": 57748,
       "fontFamily": "Gg",
       "identifier": "menuGridO"
     },
     "menu-grid-r": {
-      "codepoint": 57665,
+      "codepoint": 57749,
       "fontFamily": "Gg",
       "identifier": "menuGridR"
     },
     "menu-hotdog": {
-      "codepoint": 57666,
+      "codepoint": 57750,
       "fontFamily": "Gg",
       "identifier": "menuHotdog"
     },
+    "menu-left": {
+      "codepoint": 57751,
+      "fontFamily": "Gg",
+      "identifier": "menuLeft"
+    },
     "menu-left-alt": {
-      "codepoint": 57667,
+      "codepoint": 57752,
       "fontFamily": "Gg",
       "identifier": "menuLeftAlt"
     },
     "menu-motion": {
-      "codepoint": 57668,
+      "codepoint": 57753,
       "fontFamily": "Gg",
       "identifier": "menuMotion"
     },
     "menu-oreos": {
-      "codepoint": 57669,
+      "codepoint": 57754,
       "fontFamily": "Gg",
       "identifier": "menuOreos"
     },
+    "menu-right": {
+      "codepoint": 57755,
+      "fontFamily": "Gg",
+      "identifier": "menuRight"
+    },
     "menu-right-alt": {
-      "codepoint": 57670,
+      "codepoint": 57756,
       "fontFamily": "Gg",
       "identifier": "menuRightAlt"
     },
     "menu-round": {
-      "codepoint": 57671,
+      "codepoint": 57757,
       "fontFamily": "Gg",
       "identifier": "menuRound"
     },
     "merge-horizontal": {
-      "codepoint": 57672,
+      "codepoint": 57758,
       "fontFamily": "Gg",
       "identifier": "mergeHorizontal"
     },
     "merge-vertical": {
-      "codepoint": 57673,
+      "codepoint": 57759,
       "fontFamily": "Gg",
       "identifier": "mergeVertical"
     },
     "mic": {
-      "codepoint": 57674,
+      "codepoint": 57760,
       "fontFamily": "Gg",
       "identifier": "mic"
     },
     "microbit": {
-      "codepoint": 57675,
+      "codepoint": 57761,
       "fontFamily": "Gg",
       "identifier": "microbit"
     },
     "microsoft": {
-      "codepoint": 57676,
+      "codepoint": 57762,
       "fontFamily": "Gg",
       "identifier": "microsoft"
     },
+    "mini-player": {
+      "codepoint": 57763,
+      "fontFamily": "Gg",
+      "identifier": "miniPlayer"
+    },
     "minimize": {
-      "codepoint": 57677,
+      "codepoint": 57764,
       "fontFamily": "Gg",
       "identifier": "minimize"
     },
     "minimize-alt": {
-      "codepoint": 57678,
+      "codepoint": 57765,
       "fontFamily": "Gg",
       "identifier": "minimizeAlt"
     },
     "modem": {
-      "codepoint": 57679,
+      "codepoint": 57766,
       "fontFamily": "Gg",
       "identifier": "modem"
     },
     "monday": {
-      "codepoint": 57680,
+      "codepoint": 57767,
       "fontFamily": "Gg",
       "identifier": "monday"
     },
+    "moon": {
+      "codepoint": 57768,
+      "fontFamily": "Gg",
+      "identifier": "moon"
+    },
     "more": {
-      "codepoint": 57681,
+      "codepoint": 57769,
       "fontFamily": "Gg",
       "identifier": "more"
     },
     "more-alt": {
-      "codepoint": 57682,
+      "codepoint": 57770,
       "fontFamily": "Gg",
       "identifier": "moreAlt"
     },
     "more-o": {
-      "codepoint": 57683,
+      "codepoint": 57771,
       "fontFamily": "Gg",
       "identifier": "moreO"
     },
     "more-r": {
-      "codepoint": 57684,
+      "codepoint": 57772,
       "fontFamily": "Gg",
       "identifier": "moreR"
     },
     "more-vertical": {
-      "codepoint": 57685,
+      "codepoint": 57773,
       "fontFamily": "Gg",
       "identifier": "moreVertical"
     },
     "more-vertical-alt": {
-      "codepoint": 57686,
+      "codepoint": 57774,
       "fontFamily": "Gg",
       "identifier": "moreVerticalAlt"
     },
     "more-vertical-o": {
-      "codepoint": 57687,
+      "codepoint": 57775,
       "fontFamily": "Gg",
       "identifier": "moreVerticalO"
     },
     "more-vertical-r": {
-      "codepoint": 57688,
+      "codepoint": 57776,
       "fontFamily": "Gg",
       "identifier": "moreVerticalR"
     },
     "mouse": {
-      "codepoint": 57689,
+      "codepoint": 57777,
       "fontFamily": "Gg",
       "identifier": "mouse"
     },
     "move-down": {
-      "codepoint": 57690,
+      "codepoint": 57778,
       "fontFamily": "Gg",
       "identifier": "moveDown"
     },
     "move-left": {
-      "codepoint": 57691,
+      "codepoint": 57779,
       "fontFamily": "Gg",
       "identifier": "moveLeft"
     },
     "move-right": {
-      "codepoint": 57692,
+      "codepoint": 57780,
       "fontFamily": "Gg",
       "identifier": "moveRight"
     },
     "move-task": {
-      "codepoint": 57693,
+      "codepoint": 57781,
       "fontFamily": "Gg",
       "identifier": "moveTask"
     },
     "move-up": {
-      "codepoint": 57694,
+      "codepoint": 57782,
       "fontFamily": "Gg",
       "identifier": "moveUp"
     },
     "music": {
-      "codepoint": 57695,
+      "codepoint": 57783,
       "fontFamily": "Gg",
       "identifier": "music"
     },
+    "music-note": {
+      "codepoint": 57784,
+      "fontFamily": "Gg",
+      "identifier": "musicNote"
+    },
     "music-speaker": {
-      "codepoint": 57696,
+      "codepoint": 57785,
       "fontFamily": "Gg",
       "identifier": "musicSpeaker"
     },
     "nametag": {
-      "codepoint": 57697,
+      "codepoint": 57786,
       "fontFamily": "Gg",
       "identifier": "nametag"
     },
     "notes": {
-      "codepoint": 57698,
+      "codepoint": 57787,
       "fontFamily": "Gg",
       "identifier": "notes"
     },
     "notifications": {
-      "codepoint": 57699,
+      "codepoint": 57788,
       "fontFamily": "Gg",
       "identifier": "notifications"
     },
     "npm": {
-      "codepoint": 57700,
+      "codepoint": 57789,
       "fontFamily": "Gg",
       "identifier": "npm"
     },
     "oculus": {
-      "codepoint": 57701,
+      "codepoint": 57790,
       "fontFamily": "Gg",
       "identifier": "oculus"
     },
+    "open-collective": {
+      "codepoint": 57791,
+      "fontFamily": "Gg",
+      "identifier": "openCollective"
+    },
     "options": {
-      "codepoint": 57702,
+      "codepoint": 57792,
       "fontFamily": "Gg",
       "identifier": "options"
     },
     "organisation": {
-      "codepoint": 57703,
+      "codepoint": 57793,
       "fontFamily": "Gg",
       "identifier": "organisation"
     },
     "overflow": {
-      "codepoint": 57704,
+      "codepoint": 57794,
       "fontFamily": "Gg",
       "identifier": "overflow",
       "duotone": true
     },
+    "pacman": {
+      "codepoint": 57795,
+      "fontFamily": "Gg",
+      "identifier": "pacman"
+    },
     "password": {
-      "codepoint": 57705,
+      "codepoint": 57796,
       "fontFamily": "Gg",
       "identifier": "password"
     },
     "path-back": {
-      "codepoint": 57706,
+      "codepoint": 57797,
       "fontFamily": "Gg",
       "identifier": "pathBack"
     },
     "path-crop": {
-      "codepoint": 57707,
+      "codepoint": 57798,
       "fontFamily": "Gg",
       "identifier": "pathCrop",
       "duotone": true
     },
     "path-divide": {
-      "codepoint": 57708,
+      "codepoint": 57799,
       "fontFamily": "Gg",
       "identifier": "pathDivide"
     },
     "path-exclude": {
-      "codepoint": 57709,
+      "codepoint": 57800,
       "fontFamily": "Gg",
       "identifier": "pathExclude"
     },
     "path-front": {
-      "codepoint": 57710,
+      "codepoint": 57801,
       "fontFamily": "Gg",
       "identifier": "pathFront"
     },
     "path-intersect": {
-      "codepoint": 57711,
+      "codepoint": 57802,
       "fontFamily": "Gg",
       "identifier": "pathIntersect"
     },
     "path-outline": {
-      "codepoint": 57712,
+      "codepoint": 57803,
       "fontFamily": "Gg",
       "identifier": "pathOutline"
     },
     "path-trim": {
-      "codepoint": 57713,
+      "codepoint": 57804,
       "fontFamily": "Gg",
       "identifier": "pathTrim"
     },
     "path-unite": {
-      "codepoint": 57714,
+      "codepoint": 57805,
       "fontFamily": "Gg",
       "identifier": "pathUnite"
     },
     "patreon": {
-      "codepoint": 57715,
+      "codepoint": 57806,
       "fontFamily": "Gg",
       "identifier": "patreon",
       "duotone": true
     },
+    "paypal": {
+      "codepoint": 57807,
+      "fontFamily": "Gg",
+      "identifier": "paypal"
+    },
+    "pen": {
+      "codepoint": 57808,
+      "fontFamily": "Gg",
+      "identifier": "pen"
+    },
+    "pentagon-bottom-left": {
+      "codepoint": 57809,
+      "fontFamily": "Gg",
+      "identifier": "pentagonBottomLeft"
+    },
+    "pentagon-bottom-right": {
+      "codepoint": 57810,
+      "fontFamily": "Gg",
+      "identifier": "pentagonBottomRight"
+    },
+    "pentagon-down": {
+      "codepoint": 57811,
+      "fontFamily": "Gg",
+      "identifier": "pentagonDown"
+    },
+    "pentagon-left": {
+      "codepoint": 57812,
+      "fontFamily": "Gg",
+      "identifier": "pentagonLeft"
+    },
+    "pentagon-right": {
+      "codepoint": 57813,
+      "fontFamily": "Gg",
+      "identifier": "pentagonRight"
+    },
+    "pentagon-top-left": {
+      "codepoint": 57814,
+      "fontFamily": "Gg",
+      "identifier": "pentagonTopLeft"
+    },
+    "pentagon-top-right": {
+      "codepoint": 57815,
+      "fontFamily": "Gg",
+      "identifier": "pentagonTopRight"
+    },
+    "pentagon-up": {
+      "codepoint": 57816,
+      "fontFamily": "Gg",
+      "identifier": "pentagonUp"
+    },
     "performance": {
-      "codepoint": 57716,
+      "codepoint": 57817,
       "fontFamily": "Gg",
       "identifier": "performance"
     },
+    "pexels": {
+      "codepoint": 57818,
+      "fontFamily": "Gg",
+      "identifier": "pexels"
+    },
     "phone": {
-      "codepoint": 57717,
+      "codepoint": 57819,
       "fontFamily": "Gg",
       "identifier": "phone"
     },
     "photoscan": {
-      "codepoint": 57718,
+      "codepoint": 57820,
       "fontFamily": "Gg",
       "identifier": "photoscan"
     },
     "piano": {
-      "codepoint": 57719,
+      "codepoint": 57821,
       "fontFamily": "Gg",
       "identifier": "piano"
     },
     "pill": {
-      "codepoint": 57720,
+      "codepoint": 57822,
       "fontFamily": "Gg",
       "identifier": "pill"
     },
+    "pin": {
+      "codepoint": 57823,
+      "fontFamily": "Gg",
+      "identifier": "pin"
+    },
     "pin-alt": {
-      "codepoint": 57721,
+      "codepoint": 57824,
       "fontFamily": "Gg",
       "identifier": "pinAlt"
     },
     "pin-bottom": {
-      "codepoint": 57722,
+      "codepoint": 57825,
       "fontFamily": "Gg",
       "identifier": "pinBottom"
     },
     "pin-top": {
-      "codepoint": 57723,
+      "codepoint": 57826,
       "fontFamily": "Gg",
       "identifier": "pinTop"
     },
     "play-backwards": {
-      "codepoint": 57724,
+      "codepoint": 57827,
       "fontFamily": "Gg",
       "identifier": "playBackwards"
     },
     "play-button": {
-      "codepoint": 57725,
+      "codepoint": 57828,
       "fontFamily": "Gg",
       "identifier": "playButton"
     },
     "play-button-o": {
-      "codepoint": 57726,
+      "codepoint": 57829,
       "fontFamily": "Gg",
       "identifier": "playButtonO"
     },
     "play-button-r": {
-      "codepoint": 57727,
+      "codepoint": 57830,
       "fontFamily": "Gg",
       "identifier": "playButtonR"
     },
     "play-forwards": {
-      "codepoint": 57728,
+      "codepoint": 57831,
       "fontFamily": "Gg",
       "identifier": "playForwards"
     },
     "play-list": {
-      "codepoint": 57729,
+      "codepoint": 57832,
       "fontFamily": "Gg",
       "identifier": "playList"
     },
     "play-list-add": {
-      "codepoint": 57730,
+      "codepoint": 57833,
       "fontFamily": "Gg",
       "identifier": "playListAdd"
     },
     "play-list-check": {
-      "codepoint": 57731,
+      "codepoint": 57834,
       "fontFamily": "Gg",
       "identifier": "playListCheck"
     },
     "play-list-remove": {
-      "codepoint": 57732,
+      "codepoint": 57835,
       "fontFamily": "Gg",
       "identifier": "playListRemove"
     },
     "play-list-search": {
-      "codepoint": 57733,
+      "codepoint": 57836,
       "fontFamily": "Gg",
       "identifier": "playListSearch"
     },
     "play-pause": {
-      "codepoint": 57734,
+      "codepoint": 57837,
       "fontFamily": "Gg",
       "identifier": "playPause"
     },
     "play-pause-o": {
-      "codepoint": 57735,
+      "codepoint": 57838,
       "fontFamily": "Gg",
       "identifier": "playPauseO"
     },
     "play-pause-r": {
-      "codepoint": 57736,
+      "codepoint": 57839,
       "fontFamily": "Gg",
       "identifier": "playPauseR"
     },
     "play-stop": {
-      "codepoint": 57737,
+      "codepoint": 57840,
       "fontFamily": "Gg",
       "identifier": "playStop"
     },
     "play-stop-o": {
-      "codepoint": 57738,
+      "codepoint": 57841,
       "fontFamily": "Gg",
       "identifier": "playStopO"
     },
     "play-stop-r": {
-      "codepoint": 57739,
+      "codepoint": 57842,
       "fontFamily": "Gg",
       "identifier": "playStopR"
     },
     "play-track-next": {
-      "codepoint": 57740,
+      "codepoint": 57843,
       "fontFamily": "Gg",
       "identifier": "playTrackNext"
     },
     "play-track-next-o": {
-      "codepoint": 57741,
+      "codepoint": 57844,
       "fontFamily": "Gg",
       "identifier": "playTrackNextO"
     },
     "play-track-next-r": {
-      "codepoint": 57742,
+      "codepoint": 57845,
       "fontFamily": "Gg",
       "identifier": "playTrackNextR"
     },
     "play-track-prev": {
-      "codepoint": 57743,
+      "codepoint": 57846,
       "fontFamily": "Gg",
       "identifier": "playTrackPrev"
     },
     "play-track-prev-o": {
-      "codepoint": 57744,
+      "codepoint": 57847,
       "fontFamily": "Gg",
       "identifier": "playTrackPrevO"
     },
     "play-track-prev-r": {
-      "codepoint": 57745,
+      "codepoint": 57848,
       "fontFamily": "Gg",
       "identifier": "playTrackPrevR"
     },
     "plug": {
-      "codepoint": 57746,
+      "codepoint": 57849,
       "fontFamily": "Gg",
       "identifier": "plug"
     },
     "pocket": {
-      "codepoint": 57747,
+      "codepoint": 57850,
       "fontFamily": "Gg",
       "identifier": "pocket"
     },
     "pokemon": {
-      "codepoint": 57748,
+      "codepoint": 57851,
       "fontFamily": "Gg",
       "identifier": "pokemon"
     },
     "polaroid": {
-      "codepoint": 57749,
+      "codepoint": 57852,
       "fontFamily": "Gg",
       "identifier": "polaroid"
     },
     "poll": {
-      "codepoint": 57750,
+      "codepoint": 57853,
       "fontFamily": "Gg",
       "identifier": "poll"
     },
     "presentation": {
-      "codepoint": 57751,
+      "codepoint": 57854,
       "fontFamily": "Gg",
       "identifier": "presentation"
     },
     "printer": {
-      "codepoint": 57752,
+      "codepoint": 57855,
       "fontFamily": "Gg",
       "identifier": "printer"
     },
     "product-hunt": {
-      "codepoint": 57753,
+      "codepoint": 57856,
       "fontFamily": "Gg",
       "identifier": "productHunt"
     },
+    "profile": {
+      "codepoint": 57857,
+      "fontFamily": "Gg",
+      "identifier": "profile"
+    },
     "pull-clear": {
-      "codepoint": 57754,
+      "codepoint": 57858,
       "fontFamily": "Gg",
       "identifier": "pullClear"
     },
     "push-chevron-down": {
-      "codepoint": 57755,
+      "codepoint": 57859,
       "fontFamily": "Gg",
       "identifier": "pushChevronDown"
     },
     "push-chevron-down-o": {
-      "codepoint": 57756,
+      "codepoint": 57860,
       "fontFamily": "Gg",
       "identifier": "pushChevronDownO"
     },
     "push-chevron-down-r": {
-      "codepoint": 57757,
+      "codepoint": 57861,
       "fontFamily": "Gg",
       "identifier": "pushChevronDownR"
     },
     "push-chevron-left": {
-      "codepoint": 57758,
+      "codepoint": 57862,
       "fontFamily": "Gg",
       "identifier": "pushChevronLeft"
     },
     "push-chevron-left-o": {
-      "codepoint": 57759,
+      "codepoint": 57863,
       "fontFamily": "Gg",
       "identifier": "pushChevronLeftO"
     },
     "push-chevron-left-r": {
-      "codepoint": 57760,
+      "codepoint": 57864,
       "fontFamily": "Gg",
       "identifier": "pushChevronLeftR"
     },
     "push-chevron-right": {
-      "codepoint": 57761,
+      "codepoint": 57865,
       "fontFamily": "Gg",
       "identifier": "pushChevronRight"
     },
     "push-chevron-right-o": {
-      "codepoint": 57762,
+      "codepoint": 57866,
       "fontFamily": "Gg",
       "identifier": "pushChevronRightO"
     },
     "push-chevron-right-r": {
-      "codepoint": 57763,
+      "codepoint": 57867,
       "fontFamily": "Gg",
       "identifier": "pushChevronRightR"
     },
     "push-chevron-up": {
-      "codepoint": 57764,
+      "codepoint": 57868,
       "fontFamily": "Gg",
       "identifier": "pushChevronUp"
     },
     "push-chevron-up-o": {
-      "codepoint": 57765,
+      "codepoint": 57869,
       "fontFamily": "Gg",
       "identifier": "pushChevronUpO"
     },
     "push-chevron-up-r": {
-      "codepoint": 57766,
+      "codepoint": 57870,
       "fontFamily": "Gg",
       "identifier": "pushChevronUpR"
     },
     "push-down": {
-      "codepoint": 57767,
+      "codepoint": 57871,
       "fontFamily": "Gg",
       "identifier": "pushDown"
     },
     "push-left": {
-      "codepoint": 57768,
+      "codepoint": 57872,
       "fontFamily": "Gg",
       "identifier": "pushLeft"
     },
     "push-right": {
-      "codepoint": 57769,
+      "codepoint": 57873,
       "fontFamily": "Gg",
       "identifier": "pushRight"
     },
     "push-up": {
-      "codepoint": 57770,
+      "codepoint": 57874,
       "fontFamily": "Gg",
       "identifier": "pushUp"
     },
     "qr": {
-      "codepoint": 57771,
+      "codepoint": 57875,
       "fontFamily": "Gg",
       "identifier": "qr"
     },
     "quote": {
-      "codepoint": 57772,
+      "codepoint": 57876,
       "fontFamily": "Gg",
       "identifier": "quote"
     },
     "quote-o": {
-      "codepoint": 57773,
+      "codepoint": 57877,
       "fontFamily": "Gg",
       "identifier": "quoteO"
     },
     "radio-check": {
-      "codepoint": 57774,
+      "codepoint": 57878,
       "fontFamily": "Gg",
       "identifier": "radioCheck"
     },
     "radio-checked": {
-      "codepoint": 57775,
+      "codepoint": 57879,
       "fontFamily": "Gg",
       "identifier": "radioChecked"
     },
     "ratio": {
-      "codepoint": 57776,
+      "codepoint": 57880,
       "fontFamily": "Gg",
       "identifier": "ratio"
     },
     "read": {
-      "codepoint": 57777,
+      "codepoint": 57881,
       "fontFamily": "Gg",
       "identifier": "read"
     },
+    "readme": {
+      "codepoint": 57882,
+      "fontFamily": "Gg",
+      "identifier": "readme"
+    },
     "record": {
-      "codepoint": 57778,
+      "codepoint": 57883,
       "fontFamily": "Gg",
       "identifier": "record"
     },
+    "redo": {
+      "codepoint": 57884,
+      "fontFamily": "Gg",
+      "identifier": "redo"
+    },
     "remote": {
-      "codepoint": 57779,
+      "codepoint": 57885,
       "fontFamily": "Gg",
       "identifier": "remote"
     },
     "remove": {
-      "codepoint": 57780,
+      "codepoint": 57886,
       "fontFamily": "Gg",
       "identifier": "remove"
     },
     "remove-r": {
-      "codepoint": 57781,
+      "codepoint": 57887,
       "fontFamily": "Gg",
       "identifier": "removeR"
     },
     "rename": {
-      "codepoint": 57782,
+      "codepoint": 57888,
       "fontFamily": "Gg",
       "identifier": "rename"
     },
     "reorder": {
-      "codepoint": 57783,
+      "codepoint": 57889,
       "fontFamily": "Gg",
       "identifier": "reorder"
     },
     "repeat": {
-      "codepoint": 57784,
+      "codepoint": 57890,
       "fontFamily": "Gg",
       "identifier": "repeat"
     },
     "ring": {
-      "codepoint": 57785,
+      "codepoint": 57891,
       "fontFamily": "Gg",
       "identifier": "ring"
     },
     "row-first": {
-      "codepoint": 57786,
+      "codepoint": 57892,
       "fontFamily": "Gg",
       "identifier": "rowFirst",
       "duotone": true
     },
     "row-last": {
-      "codepoint": 57787,
+      "codepoint": 57893,
       "fontFamily": "Gg",
       "identifier": "rowLast",
       "duotone": true
     },
     "ruler": {
-      "codepoint": 57788,
+      "codepoint": 57894,
       "fontFamily": "Gg",
       "identifier": "ruler"
     },
     "sand-clock": {
-      "codepoint": 57789,
+      "codepoint": 57895,
       "fontFamily": "Gg",
       "identifier": "sandClock"
     },
     "scan": {
-      "codepoint": 57790,
+      "codepoint": 57896,
       "fontFamily": "Gg",
       "identifier": "scan"
     },
     "screen": {
-      "codepoint": 57791,
+      "codepoint": 57897,
       "fontFamily": "Gg",
       "identifier": "screen"
     },
     "screen-mirror": {
-      "codepoint": 57792,
+      "codepoint": 57898,
       "fontFamily": "Gg",
       "identifier": "screenMirror"
     },
     "screen-shot": {
-      "codepoint": 57793,
+      "codepoint": 57899,
       "fontFamily": "Gg",
       "identifier": "screenShot"
     },
     "screen-wide": {
-      "codepoint": 57794,
+      "codepoint": 57900,
       "fontFamily": "Gg",
       "identifier": "screenWide"
     },
     "scroll-h": {
-      "codepoint": 57795,
+      "codepoint": 57901,
       "fontFamily": "Gg",
       "identifier": "scrollH"
     },
     "scroll-v": {
-      "codepoint": 57796,
+      "codepoint": 57902,
       "fontFamily": "Gg",
       "identifier": "scrollV"
     },
     "search": {
-      "codepoint": 57797,
+      "codepoint": 57903,
       "fontFamily": "Gg",
       "identifier": "search"
     },
+    "search-found": {
+      "codepoint": 57904,
+      "fontFamily": "Gg",
+      "identifier": "searchFound"
+    },
+    "search-loading": {
+      "codepoint": 57905,
+      "fontFamily": "Gg",
+      "identifier": "searchLoading"
+    },
     "select": {
-      "codepoint": 57798,
+      "codepoint": 57906,
       "fontFamily": "Gg",
       "identifier": "select"
     },
+    "select-o": {
+      "codepoint": 57907,
+      "fontFamily": "Gg",
+      "identifier": "selectO"
+    },
+    "select-r": {
+      "codepoint": 57908,
+      "fontFamily": "Gg",
+      "identifier": "selectR"
+    },
     "server": {
-      "codepoint": 57799,
+      "codepoint": 57909,
       "fontFamily": "Gg",
       "identifier": "server"
     },
     "serverless": {
-      "codepoint": 57800,
+      "codepoint": 57910,
       "fontFamily": "Gg",
       "identifier": "serverless"
     },
     "shape-circle": {
-      "codepoint": 57801,
+      "codepoint": 57911,
       "fontFamily": "Gg",
       "identifier": "shapeCircle"
     },
     "shape-half-circle": {
-      "codepoint": 57802,
+      "codepoint": 57912,
       "fontFamily": "Gg",
       "identifier": "shapeHalfCircle"
     },
     "shape-hexagon": {
-      "codepoint": 57803,
+      "codepoint": 57913,
       "fontFamily": "Gg",
       "identifier": "shapeHexagon"
     },
     "shape-rhombus": {
-      "codepoint": 57804,
+      "codepoint": 57914,
       "fontFamily": "Gg",
       "identifier": "shapeRhombus"
     },
     "shape-square": {
-      "codepoint": 57805,
+      "codepoint": 57915,
       "fontFamily": "Gg",
       "identifier": "shapeSquare"
     },
     "shape-triangle": {
-      "codepoint": 57806,
+      "codepoint": 57916,
       "fontFamily": "Gg",
       "identifier": "shapeTriangle"
     },
+    "shape-zigzag": {
+      "codepoint": 57917,
+      "fontFamily": "Gg",
+      "identifier": "shapeZigzag"
+    },
+    "share": {
+      "codepoint": 57918,
+      "fontFamily": "Gg",
+      "identifier": "share"
+    },
     "shield": {
-      "codepoint": 57807,
+      "codepoint": 57919,
       "fontFamily": "Gg",
       "identifier": "shield"
     },
     "shopping-bag": {
-      "codepoint": 57808,
+      "codepoint": 57920,
       "fontFamily": "Gg",
       "identifier": "shoppingBag"
     },
+    "shopping-cart": {
+      "codepoint": 57921,
+      "fontFamily": "Gg",
+      "identifier": "shoppingCart"
+    },
     "shortcut": {
-      "codepoint": 57809,
+      "codepoint": 57922,
       "fontFamily": "Gg",
       "identifier": "shortcut"
     },
     "shutterstock": {
-      "codepoint": 57810,
+      "codepoint": 57923,
       "fontFamily": "Gg",
       "identifier": "shutterstock"
     },
     "sidebar": {
-      "codepoint": 57811,
+      "codepoint": 57924,
       "fontFamily": "Gg",
       "identifier": "sidebar"
     },
     "sidebar-open": {
-      "codepoint": 57812,
+      "codepoint": 57925,
       "fontFamily": "Gg",
       "identifier": "sidebarOpen"
     },
     "sidebar-right": {
-      "codepoint": 57813,
+      "codepoint": 57926,
       "fontFamily": "Gg",
       "identifier": "sidebarRight"
     },
     "signal": {
-      "codepoint": 57814,
+      "codepoint": 57927,
       "fontFamily": "Gg",
       "identifier": "signal"
     },
     "size": {
-      "codepoint": 57815,
+      "codepoint": 57928,
       "fontFamily": "Gg",
       "identifier": "size"
     },
+    "sketch": {
+      "codepoint": 57929,
+      "fontFamily": "Gg",
+      "identifier": "sketch"
+    },
     "slack": {
-      "codepoint": 57816,
+      "codepoint": 57930,
       "fontFamily": "Gg",
       "identifier": "slack"
     },
     "sleep": {
-      "codepoint": 57817,
+      "codepoint": 57931,
       "fontFamily": "Gg",
       "identifier": "sleep"
     },
+    "smart-home-boiler": {
+      "codepoint": 57932,
+      "fontFamily": "Gg",
+      "identifier": "smartHomeBoiler"
+    },
     "smart-home-cooker": {
-      "codepoint": 57818,
+      "codepoint": 57933,
       "fontFamily": "Gg",
       "identifier": "smartHomeCooker"
     },
     "smart-home-heat": {
-      "codepoint": 57819,
+      "codepoint": 57934,
       "fontFamily": "Gg",
       "identifier": "smartHomeHeat"
     },
+    "smart-home-light": {
+      "codepoint": 57935,
+      "fontFamily": "Gg",
+      "identifier": "smartHomeLight"
+    },
     "smart-home-refrigerator": {
-      "codepoint": 57820,
+      "codepoint": 57936,
       "fontFamily": "Gg",
       "identifier": "smartHomeRefrigerator"
     },
     "smart-home-wash-machine": {
-      "codepoint": 57821,
+      "codepoint": 57937,
       "fontFamily": "Gg",
       "identifier": "smartHomeWashMachine"
     },
     "smartphone": {
-      "codepoint": 57822,
+      "codepoint": 57938,
       "fontFamily": "Gg",
       "identifier": "smartphone"
     },
     "smartphone-chip": {
-      "codepoint": 57823,
+      "codepoint": 57939,
       "fontFamily": "Gg",
       "identifier": "smartphoneChip"
     },
     "smartphone-ram": {
-      "codepoint": 57824,
+      "codepoint": 57940,
       "fontFamily": "Gg",
       "identifier": "smartphoneRam"
     },
     "smartphone-shake": {
-      "codepoint": 57825,
+      "codepoint": 57941,
       "fontFamily": "Gg",
       "identifier": "smartphoneShake"
     },
     "smile": {
-      "codepoint": 57826,
+      "codepoint": 57942,
       "fontFamily": "Gg",
       "identifier": "smile"
     },
     "smile-mouth-open": {
-      "codepoint": 57827,
+      "codepoint": 57943,
       "fontFamily": "Gg",
       "identifier": "smileMouthOpen"
     },
     "smile-neutral": {
-      "codepoint": 57828,
+      "codepoint": 57944,
       "fontFamily": "Gg",
       "identifier": "smileNeutral"
     },
     "smile-no-mouth": {
-      "codepoint": 57829,
+      "codepoint": 57945,
       "fontFamily": "Gg",
       "identifier": "smileNoMouth"
     },
     "smile-none": {
-      "codepoint": 57830,
+      "codepoint": 57946,
       "fontFamily": "Gg",
       "identifier": "smileNone"
     },
     "smile-sad": {
-      "codepoint": 57831,
+      "codepoint": 57947,
       "fontFamily": "Gg",
       "identifier": "smileSad"
     },
     "smile-upside": {
-      "codepoint": 57832,
+      "codepoint": 57948,
       "fontFamily": "Gg",
       "identifier": "smileUpside"
     },
     "software-download": {
-      "codepoint": 57833,
+      "codepoint": 57949,
       "fontFamily": "Gg",
       "identifier": "softwareDownload"
     },
     "software-upload": {
-      "codepoint": 57834,
+      "codepoint": 57950,
       "fontFamily": "Gg",
       "identifier": "softwareUpload"
     },
     "sort-az": {
-      "codepoint": 57835,
+      "codepoint": 57951,
       "fontFamily": "Gg",
       "identifier": "sortAz"
     },
     "sort-za": {
-      "codepoint": 57836,
+      "codepoint": 57952,
       "fontFamily": "Gg",
       "identifier": "sortZa"
     },
     "space-between": {
-      "codepoint": 57837,
+      "codepoint": 57953,
       "fontFamily": "Gg",
       "identifier": "spaceBetween"
     },
     "space-between-v": {
-      "codepoint": 57838,
+      "codepoint": 57954,
       "fontFamily": "Gg",
       "identifier": "spaceBetweenV"
     },
     "spectrum": {
-      "codepoint": 57839,
+      "codepoint": 57955,
       "fontFamily": "Gg",
       "identifier": "spectrum"
     },
     "spinner": {
-      "codepoint": 57840,
+      "codepoint": 57956,
       "fontFamily": "Gg",
       "identifier": "spinner",
       "duotone": true
     },
     "spinner-alt": {
-      "codepoint": 57841,
+      "codepoint": 57957,
       "fontFamily": "Gg",
       "identifier": "spinnerAlt"
     },
     "spinner-two": {
-      "codepoint": 57842,
+      "codepoint": 57958,
       "fontFamily": "Gg",
       "identifier": "spinnerTwo",
       "duotone": true
     },
     "spinner-two-alt": {
-      "codepoint": 57843,
+      "codepoint": 57959,
       "fontFamily": "Gg",
       "identifier": "spinnerTwoAlt"
     },
     "square": {
-      "codepoint": 57844,
+      "codepoint": 57960,
       "fontFamily": "Gg",
       "identifier": "square"
     },
     "stack": {
-      "codepoint": 57845,
+      "codepoint": 57961,
       "fontFamily": "Gg",
       "identifier": "stack"
     },
+    "stark": {
+      "codepoint": 57962,
+      "fontFamily": "Gg",
+      "identifier": "stark"
+    },
     "stopwatch": {
-      "codepoint": 57846,
+      "codepoint": 57963,
       "fontFamily": "Gg",
       "identifier": "stopwatch"
     },
     "stories": {
-      "codepoint": 57847,
+      "codepoint": 57964,
       "fontFamily": "Gg",
       "identifier": "stories"
     },
     "studio": {
-      "codepoint": 57848,
+      "codepoint": 57965,
       "fontFamily": "Gg",
       "identifier": "studio"
     },
     "style": {
-      "codepoint": 57849,
+      "codepoint": 57966,
       "fontFamily": "Gg",
       "identifier": "style"
     },
+    "sun": {
+      "codepoint": 57967,
+      "fontFamily": "Gg",
+      "identifier": "sun"
+    },
+    "support": {
+      "codepoint": 57968,
+      "fontFamily": "Gg",
+      "identifier": "support"
+    },
     "swap": {
-      "codepoint": 57850,
+      "codepoint": 57969,
       "fontFamily": "Gg",
       "identifier": "swap"
     },
     "swap-vertical": {
-      "codepoint": 57851,
+      "codepoint": 57970,
       "fontFamily": "Gg",
       "identifier": "swapVertical"
     },
     "sweden": {
-      "codepoint": 57852,
+      "codepoint": 57971,
       "fontFamily": "Gg",
       "identifier": "sweden"
     },
     "swiss": {
-      "codepoint": 57853,
+      "codepoint": 57972,
       "fontFamily": "Gg",
       "identifier": "swiss"
     },
     "sync": {
-      "codepoint": 57854,
+      "codepoint": 57973,
       "fontFamily": "Gg",
       "identifier": "sync_"
     },
+    "tab": {
+      "codepoint": 57974,
+      "fontFamily": "Gg",
+      "identifier": "tab"
+    },
     "tag": {
-      "codepoint": 57855,
+      "codepoint": 57975,
       "fontFamily": "Gg",
       "identifier": "tag"
     },
+    "tally": {
+      "codepoint": 57976,
+      "fontFamily": "Gg",
+      "identifier": "tally"
+    },
+    "tap-double": {
+      "codepoint": 57977,
+      "fontFamily": "Gg",
+      "identifier": "tapDouble"
+    },
+    "tap-single": {
+      "codepoint": 57978,
+      "fontFamily": "Gg",
+      "identifier": "tapSingle"
+    },
     "template": {
-      "codepoint": 57856,
+      "codepoint": 57979,
       "fontFamily": "Gg",
       "identifier": "template"
     },
+    "tennis": {
+      "codepoint": 57980,
+      "fontFamily": "Gg",
+      "identifier": "tennis"
+    },
     "terminal": {
-      "codepoint": 57857,
+      "codepoint": 57981,
       "fontFamily": "Gg",
       "identifier": "terminal"
     },
+    "terrain": {
+      "codepoint": 57982,
+      "fontFamily": "Gg",
+      "identifier": "terrain"
+    },
+    "thermometer": {
+      "codepoint": 57983,
+      "fontFamily": "Gg",
+      "identifier": "thermometer"
+    },
     "thermostat": {
-      "codepoint": 57858,
+      "codepoint": 57984,
       "fontFamily": "Gg",
       "identifier": "thermostat"
     },
     "tikcode": {
-      "codepoint": 57859,
+      "codepoint": 57985,
       "fontFamily": "Gg",
       "identifier": "tikcode"
     },
     "time": {
-      "codepoint": 57860,
+      "codepoint": 57986,
       "fontFamily": "Gg",
       "identifier": "time"
     },
     "timelapse": {
-      "codepoint": 57861,
+      "codepoint": 57987,
       "fontFamily": "Gg",
       "identifier": "timelapse"
     },
     "timer": {
-      "codepoint": 57862,
+      "codepoint": 57988,
       "fontFamily": "Gg",
       "identifier": "timer"
     },
     "today": {
-      "codepoint": 57863,
+      "codepoint": 57989,
       "fontFamily": "Gg",
       "identifier": "today",
       "duotone": true
     },
     "toggle-off": {
-      "codepoint": 57864,
+      "codepoint": 57990,
       "fontFamily": "Gg",
       "identifier": "toggleOff"
     },
     "toggle-on": {
-      "codepoint": 57865,
+      "codepoint": 57991,
       "fontFamily": "Gg",
       "identifier": "toggleOn"
     },
     "toggle-square": {
-      "codepoint": 57866,
+      "codepoint": 57992,
       "fontFamily": "Gg",
       "identifier": "toggleSquare"
     },
     "toggle-square-off": {
-      "codepoint": 57867,
+      "codepoint": 57993,
       "fontFamily": "Gg",
       "identifier": "toggleSquareOff"
     },
     "toolbar-bottom": {
-      "codepoint": 57868,
+      "codepoint": 57994,
       "fontFamily": "Gg",
       "identifier": "toolbarBottom"
     },
     "toolbar-left": {
-      "codepoint": 57869,
+      "codepoint": 57995,
       "fontFamily": "Gg",
       "identifier": "toolbarLeft"
     },
     "toolbar-right": {
-      "codepoint": 57870,
+      "codepoint": 57996,
       "fontFamily": "Gg",
       "identifier": "toolbarRight"
     },
     "toolbar-top": {
-      "codepoint": 57871,
+      "codepoint": 57997,
       "fontFamily": "Gg",
       "identifier": "toolbarTop"
     },
     "toolbox": {
-      "codepoint": 57872,
+      "codepoint": 57998,
       "fontFamily": "Gg",
       "identifier": "toolbox"
     },
     "touchpad": {
-      "codepoint": 57873,
+      "codepoint": 57999,
       "fontFamily": "Gg",
       "identifier": "touchpad"
     },
     "track": {
-      "codepoint": 57874,
+      "codepoint": 58000,
       "fontFamily": "Gg",
       "identifier": "track"
     },
     "transcript": {
-      "codepoint": 57875,
+      "codepoint": 58001,
       "fontFamily": "Gg",
       "identifier": "transcript"
     },
     "trash": {
-      "codepoint": 57876,
+      "codepoint": 58002,
       "fontFamily": "Gg",
       "identifier": "trash"
     },
     "trash-empty": {
-      "codepoint": 57877,
+      "codepoint": 58003,
       "fontFamily": "Gg",
       "identifier": "trashEmpty"
     },
     "tree": {
-      "codepoint": 57878,
+      "codepoint": 58004,
       "fontFamily": "Gg",
       "identifier": "tree"
     },
+    "trees": {
+      "codepoint": 58005,
+      "fontFamily": "Gg",
+      "identifier": "trees"
+    },
     "trello": {
-      "codepoint": 57879,
+      "codepoint": 58006,
       "fontFamily": "Gg",
       "identifier": "trello"
     },
     "trending": {
-      "codepoint": 57880,
+      "codepoint": 58007,
       "fontFamily": "Gg",
       "identifier": "trending"
     },
+    "trending-down": {
+      "codepoint": 58008,
+      "fontFamily": "Gg",
+      "identifier": "trendingDown"
+    },
     "trophy": {
-      "codepoint": 57881,
+      "codepoint": 58009,
       "fontFamily": "Gg",
       "identifier": "trophy"
     },
     "tv": {
-      "codepoint": 57882,
+      "codepoint": 58010,
       "fontFamily": "Gg",
       "identifier": "tv"
     },
     "twilio": {
-      "codepoint": 57883,
+      "codepoint": 58011,
       "fontFamily": "Gg",
       "identifier": "twilio"
     },
     "twitter": {
-      "codepoint": 57884,
+      "codepoint": 58012,
       "fontFamily": "Gg",
       "identifier": "twitter"
     },
+    "ui-kit": {
+      "codepoint": 58013,
+      "fontFamily": "Gg",
+      "identifier": "uiKit"
+    },
     "umbrella": {
-      "codepoint": 57885,
+      "codepoint": 58014,
       "fontFamily": "Gg",
       "identifier": "umbrella"
     },
+    "unavailable": {
+      "codepoint": 58015,
+      "fontFamily": "Gg",
+      "identifier": "unavailable"
+    },
+    "unblock": {
+      "codepoint": 58016,
+      "fontFamily": "Gg",
+      "identifier": "unblock"
+    },
+    "undo": {
+      "codepoint": 58017,
+      "fontFamily": "Gg",
+      "identifier": "undo"
+    },
     "unfold": {
-      "codepoint": 57886,
+      "codepoint": 58018,
       "fontFamily": "Gg",
       "identifier": "unfold"
     },
     "unsplash": {
-      "codepoint": 57887,
+      "codepoint": 58019,
       "fontFamily": "Gg",
       "identifier": "unsplash"
     },
     "usb": {
-      "codepoint": 57888,
+      "codepoint": 58020,
       "fontFamily": "Gg",
       "identifier": "usb"
     },
     "usb-c": {
-      "codepoint": 57889,
+      "codepoint": 58021,
       "fontFamily": "Gg",
       "identifier": "usbC"
     },
     "user": {
-      "codepoint": 57890,
+      "codepoint": 58022,
       "fontFamily": "Gg",
       "identifier": "user"
     },
     "user-add": {
-      "codepoint": 57891,
+      "codepoint": 58023,
       "fontFamily": "Gg",
       "identifier": "userAdd"
     },
     "user-list": {
-      "codepoint": 57892,
+      "codepoint": 58024,
       "fontFamily": "Gg",
       "identifier": "userList"
     },
     "user-remove": {
-      "codepoint": 57893,
+      "codepoint": 58025,
       "fontFamily": "Gg",
       "identifier": "userRemove"
     },
     "userlane": {
-      "codepoint": 57894,
+      "codepoint": 58026,
       "fontFamily": "Gg",
       "identifier": "userlane"
     },
     "vercel": {
-      "codepoint": 57895,
+      "codepoint": 58027,
       "fontFamily": "Gg",
       "identifier": "vercel"
     },
     "view-cols": {
-      "codepoint": 57896,
+      "codepoint": 58028,
       "fontFamily": "Gg",
       "identifier": "viewCols"
     },
     "view-comfortable": {
-      "codepoint": 57897,
+      "codepoint": 58029,
       "fontFamily": "Gg",
       "identifier": "viewComfortable"
     },
     "view-day": {
-      "codepoint": 57898,
+      "codepoint": 58030,
       "fontFamily": "Gg",
       "identifier": "viewDay"
     },
     "view-grid": {
-      "codepoint": 57899,
+      "codepoint": 58031,
       "fontFamily": "Gg",
       "identifier": "viewGrid"
     },
     "view-list": {
-      "codepoint": 57900,
+      "codepoint": 58032,
       "fontFamily": "Gg",
       "identifier": "viewList"
     },
     "view-month": {
-      "codepoint": 57901,
+      "codepoint": 58033,
       "fontFamily": "Gg",
       "identifier": "viewMonth"
     },
     "view-split": {
-      "codepoint": 57902,
+      "codepoint": 58034,
       "fontFamily": "Gg",
       "identifier": "viewSplit"
     },
     "vinyl": {
-      "codepoint": 57903,
+      "codepoint": 58035,
       "fontFamily": "Gg",
       "identifier": "vinyl"
     },
     "voicemail": {
-      "codepoint": 57904,
+      "codepoint": 58036,
       "fontFamily": "Gg",
       "identifier": "voicemail"
     },
     "voicemail-o": {
-      "codepoint": 57905,
+      "codepoint": 58037,
       "fontFamily": "Gg",
       "identifier": "voicemailO"
     },
     "voicemail-r": {
-      "codepoint": 57906,
+      "codepoint": 58038,
       "fontFamily": "Gg",
       "identifier": "voicemailR"
     },
     "volume": {
-      "codepoint": 57907,
+      "codepoint": 58039,
       "fontFamily": "Gg",
       "identifier": "volume"
     },
     "webcam": {
-      "codepoint": 57908,
+      "codepoint": 58040,
       "fontFamily": "Gg",
       "identifier": "webcam"
     },
     "website": {
-      "codepoint": 57909,
+      "codepoint": 58041,
       "fontFamily": "Gg",
       "identifier": "website"
     },
+    "windows": {
+      "codepoint": 58042,
+      "fontFamily": "Gg",
+      "identifier": "windows"
+    },
     "work-alt": {
-      "codepoint": 57910,
+      "codepoint": 58043,
       "fontFamily": "Gg",
       "identifier": "workAlt"
     },
     "yinyang": {
-      "codepoint": 57911,
+      "codepoint": 58044,
       "fontFamily": "Gg",
       "identifier": "yinyang"
     },
     "youtube": {
-      "codepoint": 57912,
+      "codepoint": 58045,
       "fontFamily": "Gg",
       "identifier": "youtube"
     },
     "zeit": {
-      "codepoint": 57913,
+      "codepoint": 58046,
       "fontFamily": "Gg",
       "identifier": "zeit"
+    },
+    "zoom-in": {
+      "codepoint": 58047,
+      "fontFamily": "Gg",
+      "identifier": "zoomIn"
+    },
+    "zoom-out": {
+      "codepoint": 58048,
+      "fontFamily": "Gg",
+      "identifier": "zoomOut"
     }
   }
 }

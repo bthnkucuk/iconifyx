@@ -5,4 +5,4 @@ This package bundles the Iconify icon set "material-symbols-light" (Material Sym
 - Author: Google (https://github.com/google/material-design-icons)
 - License: Apache 2.0 (SPDX: Apache-2.0)
 - License URL: https://github.com/google/material-design-icons/blob/master/LICENSE
-- Icon count: 1399
+- Icon count: 15997

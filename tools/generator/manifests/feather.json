@@ -32,5702 +32,5702 @@
       "identifier": "activity"
     },
     "activity-bold": {
-      "codepoint": 57630,
+      "codepoint": 57345,
       "fontFamily": "Feather",
       "identifier": "activityBold"
     },
     "activity-light": {
-      "codepoint": 57631,
+      "codepoint": 57346,
       "fontFamily": "Feather",
       "identifier": "activityLight"
     },
     "activity-thin": {
-      "codepoint": 57632,
+      "codepoint": 57347,
       "fontFamily": "Feather",
       "identifier": "activityThin"
     },
     "airplay": {
-      "codepoint": 57345,
+      "codepoint": 57348,
       "fontFamily": "Feather",
       "identifier": "airplay"
     },
     "airplay-bold": {
-      "codepoint": 57633,
+      "codepoint": 57349,
       "fontFamily": "Feather",
       "identifier": "airplayBold"
     },
     "airplay-light": {
-      "codepoint": 57634,
+      "codepoint": 57350,
       "fontFamily": "Feather",
       "identifier": "airplayLight"
     },
     "airplay-thin": {
-      "codepoint": 57635,
+      "codepoint": 57351,
       "fontFamily": "Feather",
       "identifier": "airplayThin"
     },
     "alert-circle": {
-      "codepoint": 57346,
+      "codepoint": 57352,
       "fontFamily": "Feather",
       "identifier": "alertCircle"
     },
     "alert-circle-bold": {
-      "codepoint": 57636,
+      "codepoint": 57353,
       "fontFamily": "Feather",
       "identifier": "alertCircleBold"
     },
     "alert-circle-light": {
-      "codepoint": 57637,
+      "codepoint": 57354,
       "fontFamily": "Feather",
       "identifier": "alertCircleLight"
     },
     "alert-circle-thin": {
-      "codepoint": 57638,
+      "codepoint": 57355,
       "fontFamily": "Feather",
       "identifier": "alertCircleThin"
     },
     "alert-octagon": {
-      "codepoint": 57347,
+      "codepoint": 57356,
       "fontFamily": "Feather",
       "identifier": "alertOctagon"
     },
     "alert-octagon-bold": {
-      "codepoint": 57639,
+      "codepoint": 57357,
       "fontFamily": "Feather",
       "identifier": "alertOctagonBold"
     },
     "alert-octagon-light": {
-      "codepoint": 57640,
+      "codepoint": 57358,
       "fontFamily": "Feather",
       "identifier": "alertOctagonLight"
     },
     "alert-octagon-thin": {
-      "codepoint": 57641,
+      "codepoint": 57359,
       "fontFamily": "Feather",
       "identifier": "alertOctagonThin"
     },
     "alert-triangle": {
-      "codepoint": 57348,
+      "codepoint": 57360,
       "fontFamily": "Feather",
       "identifier": "alertTriangle"
     },
     "alert-triangle-bold": {
-      "codepoint": 57642,
+      "codepoint": 57361,
       "fontFamily": "Feather",
       "identifier": "alertTriangleBold"
     },
     "alert-triangle-light": {
-      "codepoint": 57643,
+      "codepoint": 57362,
       "fontFamily": "Feather",
       "identifier": "alertTriangleLight"
     },
     "alert-triangle-thin": {
-      "codepoint": 57644,
+      "codepoint": 57363,
       "fontFamily": "Feather",
       "identifier": "alertTriangleThin"
     },
     "align-center": {
-      "codepoint": 57349,
+      "codepoint": 57364,
       "fontFamily": "Feather",
       "identifier": "alignCenter"
     },
     "align-center-bold": {
-      "codepoint": 57645,
+      "codepoint": 57365,
       "fontFamily": "Feather",
       "identifier": "alignCenterBold"
     },
     "align-center-light": {
-      "codepoint": 57646,
+      "codepoint": 57366,
       "fontFamily": "Feather",
       "identifier": "alignCenterLight"
     },
     "align-center-thin": {
-      "codepoint": 57647,
+      "codepoint": 57367,
       "fontFamily": "Feather",
       "identifier": "alignCenterThin"
     },
     "align-justify": {
-      "codepoint": 57350,
+      "codepoint": 57368,
       "fontFamily": "Feather",
       "identifier": "alignJustify"
     },
     "align-justify-bold": {
-      "codepoint": 57648,
+      "codepoint": 57369,
       "fontFamily": "Feather",
       "identifier": "alignJustifyBold"
     },
     "align-justify-light": {
-      "codepoint": 57649,
+      "codepoint": 57370,
       "fontFamily": "Feather",
       "identifier": "alignJustifyLight"
     },
     "align-justify-thin": {
-      "codepoint": 57650,
+      "codepoint": 57371,
       "fontFamily": "Feather",
       "identifier": "alignJustifyThin"
     },
     "align-left": {
-      "codepoint": 57351,
+      "codepoint": 57372,
       "fontFamily": "Feather",
       "identifier": "alignLeft"
     },
     "align-left-bold": {
-      "codepoint": 57651,
+      "codepoint": 57373,
       "fontFamily": "Feather",
       "identifier": "alignLeftBold"
     },
     "align-left-light": {
-      "codepoint": 57652,
+      "codepoint": 57374,
       "fontFamily": "Feather",
       "identifier": "alignLeftLight"
     },
     "align-left-thin": {
-      "codepoint": 57653,
+      "codepoint": 57375,
       "fontFamily": "Feather",
       "identifier": "alignLeftThin"
     },
     "align-right": {
-      "codepoint": 57352,
+      "codepoint": 57376,
       "fontFamily": "Feather",
       "identifier": "alignRight"
     },
     "align-right-bold": {
-      "codepoint": 57654,
+      "codepoint": 57377,
       "fontFamily": "Feather",
       "identifier": "alignRightBold"
     },
     "align-right-light": {
-      "codepoint": 57655,
+      "codepoint": 57378,
       "fontFamily": "Feather",
       "identifier": "alignRightLight"
     },
     "align-right-thin": {
-      "codepoint": 57656,
+      "codepoint": 57379,
       "fontFamily": "Feather",
       "identifier": "alignRightThin"
     },
     "anchor": {
-      "codepoint": 57353,
+      "codepoint": 57380,
       "fontFamily": "Feather",
       "identifier": "anchor"
     },
     "anchor-bold": {
-      "codepoint": 57657,
+      "codepoint": 57381,
       "fontFamily": "Feather",
       "identifier": "anchorBold"
     },
     "anchor-light": {
-      "codepoint": 57658,
+      "codepoint": 57382,
       "fontFamily": "Feather",
       "identifier": "anchorLight"
     },
     "anchor-thin": {
-      "codepoint": 57659,
+      "codepoint": 57383,
       "fontFamily": "Feather",
       "identifier": "anchorThin"
     },
     "aperture": {
-      "codepoint": 57354,
+      "codepoint": 57384,
       "fontFamily": "Feather",
       "identifier": "aperture"
     },
     "aperture-bold": {
-      "codepoint": 57660,
+      "codepoint": 57385,
       "fontFamily": "Feather",
       "identifier": "apertureBold"
     },
     "aperture-light": {
-      "codepoint": 57661,
+      "codepoint": 57386,
       "fontFamily": "Feather",
       "identifier": "apertureLight"
     },
     "aperture-thin": {
-      "codepoint": 57662,
+      "codepoint": 57387,
       "fontFamily": "Feather",
       "identifier": "apertureThin"
     },
     "archive": {
-      "codepoint": 57355,
+      "codepoint": 57388,
       "fontFamily": "Feather",
       "identifier": "archive"
     },
     "archive-bold": {
-      "codepoint": 57663,
+      "codepoint": 57389,
       "fontFamily": "Feather",
       "identifier": "archiveBold"
     },
     "archive-light": {
-      "codepoint": 57664,
+      "codepoint": 57390,
       "fontFamily": "Feather",
       "identifier": "archiveLight"
     },
     "archive-thin": {
-      "codepoint": 57665,
+      "codepoint": 57391,
       "fontFamily": "Feather",
       "identifier": "archiveThin"
     },
     "arrow-down": {
-      "codepoint": 57356,
+      "codepoint": 57392,
       "fontFamily": "Feather",
       "identifier": "arrowDown"
     },
     "arrow-down-bold": {
-      "codepoint": 57666,
+      "codepoint": 57393,
       "fontFamily": "Feather",
       "identifier": "arrowDownBold"
     },
     "arrow-down-circle": {
-      "codepoint": 57357,
+      "codepoint": 57394,
       "fontFamily": "Feather",
       "identifier": "arrowDownCircle"
     },
     "arrow-down-circle-bold": {
-      "codepoint": 57667,
+      "codepoint": 57395,
       "fontFamily": "Feather",
       "identifier": "arrowDownCircleBold"
     },
     "arrow-down-circle-light": {
-      "codepoint": 57668,
+      "codepoint": 57396,
       "fontFamily": "Feather",
       "identifier": "arrowDownCircleLight"
     },
     "arrow-down-circle-thin": {
-      "codepoint": 57669,
+      "codepoint": 57397,
       "fontFamily": "Feather",
       "identifier": "arrowDownCircleThin"
     },
     "arrow-down-left": {
-      "codepoint": 57358,
+      "codepoint": 57398,
       "fontFamily": "Feather",
       "identifier": "arrowDownLeft"
     },
     "arrow-down-left-bold": {
-      "codepoint": 57670,
+      "codepoint": 57399,
       "fontFamily": "Feather",
       "identifier": "arrowDownLeftBold"
     },
     "arrow-down-left-light": {
-      "codepoint": 57671,
+      "codepoint": 57400,
       "fontFamily": "Feather",
       "identifier": "arrowDownLeftLight"
     },
     "arrow-down-left-thin": {
-      "codepoint": 57672,
+      "codepoint": 57401,
       "fontFamily": "Feather",
       "identifier": "arrowDownLeftThin"
     },
     "arrow-down-light": {
-      "codepoint": 57673,
+      "codepoint": 57402,
       "fontFamily": "Feather",
       "identifier": "arrowDownLight"
     },
     "arrow-down-right": {
-      "codepoint": 57359,
+      "codepoint": 57403,
       "fontFamily": "Feather",
       "identifier": "arrowDownRight"
     },
     "arrow-down-right-bold": {
-      "codepoint": 57674,
+      "codepoint": 57404,
       "fontFamily": "Feather",
       "identifier": "arrowDownRightBold"
     },
     "arrow-down-right-light": {
-      "codepoint": 57675,
+      "codepoint": 57405,
       "fontFamily": "Feather",
       "identifier": "arrowDownRightLight"
     },
     "arrow-down-right-thin": {
-      "codepoint": 57676,
+      "codepoint": 57406,
       "fontFamily": "Feather",
       "identifier": "arrowDownRightThin"
     },
     "arrow-down-thin": {
-      "codepoint": 57677,
+      "codepoint": 57407,
       "fontFamily": "Feather",
       "identifier": "arrowDownThin"
     },
     "arrow-left": {
-      "codepoint": 57360,
+      "codepoint": 57408,
       "fontFamily": "Feather",
       "identifier": "arrowLeft"
     },
     "arrow-left-bold": {
-      "codepoint": 57678,
+      "codepoint": 57409,
       "fontFamily": "Feather",
       "identifier": "arrowLeftBold"
     },
     "arrow-left-circle": {
-      "codepoint": 57361,
+      "codepoint": 57410,
       "fontFamily": "Feather",
       "identifier": "arrowLeftCircle"
     },
     "arrow-left-circle-bold": {
-      "codepoint": 57679,
+      "codepoint": 57411,
       "fontFamily": "Feather",
       "identifier": "arrowLeftCircleBold"
     },
     "arrow-left-circle-light": {
-      "codepoint": 57680,
+      "codepoint": 57412,
       "fontFamily": "Feather",
       "identifier": "arrowLeftCircleLight"
     },
     "arrow-left-circle-thin": {
-      "codepoint": 57681,
+      "codepoint": 57413,
       "fontFamily": "Feather",
       "identifier": "arrowLeftCircleThin"
     },
     "arrow-left-light": {
-      "codepoint": 57682,
+      "codepoint": 57414,
       "fontFamily": "Feather",
       "identifier": "arrowLeftLight"
     },
     "arrow-left-thin": {
-      "codepoint": 57683,
+      "codepoint": 57415,
       "fontFamily": "Feather",
       "identifier": "arrowLeftThin"
     },
     "arrow-right": {
-      "codepoint": 57362,
+      "codepoint": 57416,
       "fontFamily": "Feather",
       "identifier": "arrowRight"
     },
     "arrow-right-bold": {
-      "codepoint": 57684,
+      "codepoint": 57417,
       "fontFamily": "Feather",
       "identifier": "arrowRightBold"
     },
     "arrow-right-circle": {
-      "codepoint": 57363,
+      "codepoint": 57418,
       "fontFamily": "Feather",
       "identifier": "arrowRightCircle"
     },
     "arrow-right-circle-bold": {
-      "codepoint": 57685,
+      "codepoint": 57419,
       "fontFamily": "Feather",
       "identifier": "arrowRightCircleBold"
     },
     "arrow-right-circle-light": {
-      "codepoint": 57686,
+      "codepoint": 57420,
       "fontFamily": "Feather",
       "identifier": "arrowRightCircleLight"
     },
     "arrow-right-circle-thin": {
-      "codepoint": 57687,
+      "codepoint": 57421,
       "fontFamily": "Feather",
       "identifier": "arrowRightCircleThin"
     },
     "arrow-right-light": {
-      "codepoint": 57688,
+      "codepoint": 57422,
       "fontFamily": "Feather",
       "identifier": "arrowRightLight"
     },
     "arrow-right-thin": {
-      "codepoint": 57689,
+      "codepoint": 57423,
       "fontFamily": "Feather",
       "identifier": "arrowRightThin"
     },
     "arrow-up": {
-      "codepoint": 57364,
+      "codepoint": 57424,
       "fontFamily": "Feather",
       "identifier": "arrowUp"
     },
     "arrow-up-bold": {
-      "codepoint": 57690,
+      "codepoint": 57425,
       "fontFamily": "Feather",
       "identifier": "arrowUpBold"
     },
     "arrow-up-circle": {
-      "codepoint": 57365,
+      "codepoint": 57426,
       "fontFamily": "Feather",
       "identifier": "arrowUpCircle"
     },
     "arrow-up-circle-bold": {
-      "codepoint": 57691,
+      "codepoint": 57427,
       "fontFamily": "Feather",
       "identifier": "arrowUpCircleBold"
     },
     "arrow-up-circle-light": {
-      "codepoint": 57692,
+      "codepoint": 57428,
       "fontFamily": "Feather",
       "identifier": "arrowUpCircleLight"
     },
     "arrow-up-circle-thin": {
-      "codepoint": 57693,
+      "codepoint": 57429,
       "fontFamily": "Feather",
       "identifier": "arrowUpCircleThin"
     },
     "arrow-up-left": {
-      "codepoint": 57366,
+      "codepoint": 57430,
       "fontFamily": "Feather",
       "identifier": "arrowUpLeft"
     },
     "arrow-up-left-bold": {
-      "codepoint": 57694,
+      "codepoint": 57431,
       "fontFamily": "Feather",
       "identifier": "arrowUpLeftBold"
     },
     "arrow-up-left-light": {
-      "codepoint": 57695,
+      "codepoint": 57432,
       "fontFamily": "Feather",
       "identifier": "arrowUpLeftLight"
     },
     "arrow-up-left-thin": {
-      "codepoint": 57696,
+      "codepoint": 57433,
       "fontFamily": "Feather",
       "identifier": "arrowUpLeftThin"
     },
     "arrow-up-light": {
-      "codepoint": 57697,
+      "codepoint": 57434,
       "fontFamily": "Feather",
       "identifier": "arrowUpLight"
     },
     "arrow-up-right": {
-      "codepoint": 57367,
+      "codepoint": 57435,
       "fontFamily": "Feather",
       "identifier": "arrowUpRight"
     },
     "arrow-up-right-bold": {
-      "codepoint": 57698,
+      "codepoint": 57436,
       "fontFamily": "Feather",
       "identifier": "arrowUpRightBold"
     },
     "arrow-up-right-light": {
-      "codepoint": 57699,
+      "codepoint": 57437,
       "fontFamily": "Feather",
       "identifier": "arrowUpRightLight"
     },
     "arrow-up-right-thin": {
-      "codepoint": 57700,
+      "codepoint": 57438,
       "fontFamily": "Feather",
       "identifier": "arrowUpRightThin"
     },
     "arrow-up-thin": {
-      "codepoint": 57701,
+      "codepoint": 57439,
       "fontFamily": "Feather",
       "identifier": "arrowUpThin"
     },
     "at-sign": {
-      "codepoint": 57368,
+      "codepoint": 57440,
       "fontFamily": "Feather",
       "identifier": "atSign"
     },
     "at-sign-bold": {
-      "codepoint": 57702,
+      "codepoint": 57441,
       "fontFamily": "Feather",
       "identifier": "atSignBold"
     },
     "at-sign-light": {
-      "codepoint": 57703,
+      "codepoint": 57442,
       "fontFamily": "Feather",
       "identifier": "atSignLight"
     },
     "at-sign-thin": {
-      "codepoint": 57704,
+      "codepoint": 57443,
       "fontFamily": "Feather",
       "identifier": "atSignThin"
     },
     "award": {
-      "codepoint": 57369,
+      "codepoint": 57444,
       "fontFamily": "Feather",
       "identifier": "award"
     },
     "award-bold": {
-      "codepoint": 57705,
+      "codepoint": 57445,
       "fontFamily": "Feather",
       "identifier": "awardBold"
     },
     "award-light": {
-      "codepoint": 57706,
+      "codepoint": 57446,
       "fontFamily": "Feather",
       "identifier": "awardLight"
     },
     "award-thin": {
-      "codepoint": 57707,
+      "codepoint": 57447,
       "fontFamily": "Feather",
       "identifier": "awardThin"
     },
     "bar-chart": {
-      "codepoint": 57370,
+      "codepoint": 57448,
       "fontFamily": "Feather",
       "identifier": "barChart"
     },
     "bar-chart-2": {
-      "codepoint": 57371,
+      "codepoint": 57449,
       "fontFamily": "Feather",
       "identifier": "barChart2"
     },
     "bar-chart-2-bold": {
-      "codepoint": 57708,
+      "codepoint": 57450,
       "fontFamily": "Feather",
       "identifier": "barChart2Bold"
     },
     "bar-chart-2-light": {
-      "codepoint": 57709,
+      "codepoint": 57451,
       "fontFamily": "Feather",
       "identifier": "barChart2Light"
     },
     "bar-chart-2-thin": {
-      "codepoint": 57710,
+      "codepoint": 57452,
       "fontFamily": "Feather",
       "identifier": "barChart2Thin"
     },
     "bar-chart-bold": {
-      "codepoint": 57711,
+      "codepoint": 57453,
       "fontFamily": "Feather",
       "identifier": "barChartBold"
     },
     "bar-chart-light": {
-      "codepoint": 57712,
+      "codepoint": 57454,
       "fontFamily": "Feather",
       "identifier": "barChartLight"
     },
     "bar-chart-thin": {
-      "codepoint": 57713,
+      "codepoint": 57455,
       "fontFamily": "Feather",
       "identifier": "barChartThin"
     },
     "battery": {
-      "codepoint": 57372,
+      "codepoint": 57456,
       "fontFamily": "Feather",
       "identifier": "battery"
     },
     "battery-bold": {
-      "codepoint": 57714,
+      "codepoint": 57457,
       "fontFamily": "Feather",
       "identifier": "batteryBold"
     },
     "battery-charging": {
-      "codepoint": 57373,
+      "codepoint": 57458,
       "fontFamily": "Feather",
       "identifier": "batteryCharging"
     },
     "battery-charging-bold": {
-      "codepoint": 57715,
+      "codepoint": 57459,
       "fontFamily": "Feather",
       "identifier": "batteryChargingBold"
     },
     "battery-charging-light": {
-      "codepoint": 57716,
+      "codepoint": 57460,
       "fontFamily": "Feather",
       "identifier": "batteryChargingLight"
     },
     "battery-charging-thin": {
-      "codepoint": 57717,
+      "codepoint": 57461,
       "fontFamily": "Feather",
       "identifier": "batteryChargingThin"
     },
     "battery-light": {
-      "codepoint": 57718,
+      "codepoint": 57462,
       "fontFamily": "Feather",
       "identifier": "batteryLight"
     },
     "battery-thin": {
-      "codepoint": 57719,
+      "codepoint": 57463,
       "fontFamily": "Feather",
       "identifier": "batteryThin"
     },
     "bell": {
-      "codepoint": 57374,
+      "codepoint": 57464,
       "fontFamily": "Feather",
       "identifier": "bell"
     },
     "bell-bold": {
-      "codepoint": 57720,
+      "codepoint": 57465,
       "fontFamily": "Feather",
       "identifier": "bellBold"
     },
     "bell-light": {
-      "codepoint": 57721,
+      "codepoint": 57466,
       "fontFamily": "Feather",
       "identifier": "bellLight"
     },
     "bell-off": {
-      "codepoint": 57375,
+      "codepoint": 57467,
       "fontFamily": "Feather",
       "identifier": "bellOff"
     },
     "bell-off-bold": {
-      "codepoint": 57722,
+      "codepoint": 57468,
       "fontFamily": "Feather",
       "identifier": "bellOffBold"
     },
     "bell-off-light": {
-      "codepoint": 57723,
+      "codepoint": 57469,
       "fontFamily": "Feather",
       "identifier": "bellOffLight"
     },
     "bell-off-thin": {
-      "codepoint": 57724,
+      "codepoint": 57470,
       "fontFamily": "Feather",
       "identifier": "bellOffThin"
     },
     "bell-thin": {
-      "codepoint": 57725,
+      "codepoint": 57471,
       "fontFamily": "Feather",
       "identifier": "bellThin"
     },
     "bluetooth": {
-      "codepoint": 57376,
+      "codepoint": 57472,
       "fontFamily": "Feather",
       "identifier": "bluetooth"
     },
     "bluetooth-bold": {
-      "codepoint": 57726,
+      "codepoint": 57473,
       "fontFamily": "Feather",
       "identifier": "bluetoothBold"
     },
     "bluetooth-light": {
-      "codepoint": 57727,
+      "codepoint": 57474,
       "fontFamily": "Feather",
       "identifier": "bluetoothLight"
     },
     "bluetooth-thin": {
-      "codepoint": 57728,
+      "codepoint": 57475,
       "fontFamily": "Feather",
       "identifier": "bluetoothThin"
     },
     "bold": {
-      "codepoint": 57377,
+      "codepoint": 57476,
       "fontFamily": "Feather",
       "identifier": "bold"
     },
     "bold-bold": {
-      "codepoint": 57729,
+      "codepoint": 57477,
       "fontFamily": "Feather",
       "identifier": "boldBold"
     },
     "bold-light": {
-      "codepoint": 57730,
+      "codepoint": 57478,
       "fontFamily": "Feather",
       "identifier": "boldLight"
     },
     "bold-thin": {
-      "codepoint": 57731,
+      "codepoint": 57479,
       "fontFamily": "Feather",
       "identifier": "boldThin"
     },
     "book": {
-      "codepoint": 57378,
+      "codepoint": 57480,
       "fontFamily": "Feather",
       "identifier": "book"
     },
     "book-bold": {
-      "codepoint": 57732,
+      "codepoint": 57481,
       "fontFamily": "Feather",
       "identifier": "bookBold"
     },
     "book-light": {
-      "codepoint": 57733,
+      "codepoint": 57482,
       "fontFamily": "Feather",
       "identifier": "bookLight"
     },
     "book-open": {
-      "codepoint": 57379,
+      "codepoint": 57483,
       "fontFamily": "Feather",
       "identifier": "bookOpen"
     },
     "book-open-bold": {
-      "codepoint": 57734,
+      "codepoint": 57484,
       "fontFamily": "Feather",
       "identifier": "bookOpenBold"
     },
     "book-open-light": {
-      "codepoint": 57735,
+      "codepoint": 57485,
       "fontFamily": "Feather",
       "identifier": "bookOpenLight"
     },
     "book-open-thin": {
-      "codepoint": 57736,
+      "codepoint": 57486,
       "fontFamily": "Feather",
       "identifier": "bookOpenThin"
     },
     "book-thin": {
-      "codepoint": 57737,
+      "codepoint": 57487,
       "fontFamily": "Feather",
       "identifier": "bookThin"
     },
     "bookmark": {
-      "codepoint": 57380,
+      "codepoint": 57488,
       "fontFamily": "Feather",
       "identifier": "bookmark"
     },
     "bookmark-bold": {
-      "codepoint": 57738,
+      "codepoint": 57489,
       "fontFamily": "Feather",
       "identifier": "bookmarkBold"
     },
     "bookmark-light": {
-      "codepoint": 57739,
+      "codepoint": 57490,
       "fontFamily": "Feather",
       "identifier": "bookmarkLight"
     },
     "bookmark-thin": {
-      "codepoint": 57740,
+      "codepoint": 57491,
       "fontFamily": "Feather",
       "identifier": "bookmarkThin"
     },
     "box": {
-      "codepoint": 57381,
+      "codepoint": 57492,
       "fontFamily": "Feather",
       "identifier": "box"
     },
     "box-bold": {
-      "codepoint": 57741,
+      "codepoint": 57493,
       "fontFamily": "Feather",
       "identifier": "boxBold"
     },
     "box-light": {
-      "codepoint": 57742,
+      "codepoint": 57494,
       "fontFamily": "Feather",
       "identifier": "boxLight"
     },
     "box-thin": {
-      "codepoint": 57743,
+      "codepoint": 57495,
       "fontFamily": "Feather",
       "identifier": "boxThin"
     },
     "briefcase": {
-      "codepoint": 57382,
+      "codepoint": 57496,
       "fontFamily": "Feather",
       "identifier": "briefcase"
     },
     "briefcase-bold": {
-      "codepoint": 57744,
+      "codepoint": 57497,
       "fontFamily": "Feather",
       "identifier": "briefcaseBold"
     },
     "briefcase-light": {
-      "codepoint": 57745,
+      "codepoint": 57498,
       "fontFamily": "Feather",
       "identifier": "briefcaseLight"
     },
     "briefcase-thin": {
-      "codepoint": 57746,
+      "codepoint": 57499,
       "fontFamily": "Feather",
       "identifier": "briefcaseThin"
     },
     "calendar": {
-      "codepoint": 57383,
+      "codepoint": 57500,
       "fontFamily": "Feather",
       "identifier": "calendar"
     },
     "calendar-bold": {
-      "codepoint": 57747,
+      "codepoint": 57501,
       "fontFamily": "Feather",
       "identifier": "calendarBold"
     },
     "calendar-light": {
-      "codepoint": 57748,
+      "codepoint": 57502,
       "fontFamily": "Feather",
       "identifier": "calendarLight"
     },
     "calendar-thin": {
-      "codepoint": 57749,
+      "codepoint": 57503,
       "fontFamily": "Feather",
       "identifier": "calendarThin"
     },
     "camera": {
-      "codepoint": 57384,
+      "codepoint": 57504,
       "fontFamily": "Feather",
       "identifier": "camera"
     },
     "camera-bold": {
-      "codepoint": 57750,
+      "codepoint": 57505,
       "fontFamily": "Feather",
       "identifier": "cameraBold"
     },
     "camera-light": {
-      "codepoint": 57751,
+      "codepoint": 57506,
       "fontFamily": "Feather",
       "identifier": "cameraLight"
     },
     "camera-off": {
-      "codepoint": 57385,
+      "codepoint": 57507,
       "fontFamily": "Feather",
       "identifier": "cameraOff"
     },
     "camera-off-bold": {
-      "codepoint": 57752,
+      "codepoint": 57508,
       "fontFamily": "Feather",
       "identifier": "cameraOffBold"
     },
     "camera-off-light": {
-      "codepoint": 57753,
+      "codepoint": 57509,
       "fontFamily": "Feather",
       "identifier": "cameraOffLight"
     },
     "camera-off-thin": {
-      "codepoint": 57754,
+      "codepoint": 57510,
       "fontFamily": "Feather",
       "identifier": "cameraOffThin"
     },
     "camera-thin": {
-      "codepoint": 57755,
+      "codepoint": 57511,
       "fontFamily": "Feather",
       "identifier": "cameraThin"
     },
     "cast": {
-      "codepoint": 57386,
+      "codepoint": 57512,
       "fontFamily": "Feather",
       "identifier": "cast"
     },
     "cast-bold": {
-      "codepoint": 57756,
+      "codepoint": 57513,
       "fontFamily": "Feather",
       "identifier": "castBold"
     },
     "cast-light": {
-      "codepoint": 57757,
+      "codepoint": 57514,
       "fontFamily": "Feather",
       "identifier": "castLight"
     },
     "cast-thin": {
-      "codepoint": 57758,
+      "codepoint": 57515,
       "fontFamily": "Feather",
       "identifier": "castThin"
     },
     "check": {
-      "codepoint": 57387,
+      "codepoint": 57516,
       "fontFamily": "Feather",
       "identifier": "check"
     },
     "check-bold": {
-      "codepoint": 57759,
+      "codepoint": 57517,
       "fontFamily": "Feather",
       "identifier": "checkBold"
     },
     "check-circle": {
-      "codepoint": 57388,
+      "codepoint": 57518,
       "fontFamily": "Feather",
       "identifier": "checkCircle"
     },
     "check-circle-bold": {
-      "codepoint": 57760,
+      "codepoint": 57519,
       "fontFamily": "Feather",
       "identifier": "checkCircleBold"
     },
     "check-circle-light": {
-      "codepoint": 57761,
+      "codepoint": 57520,
       "fontFamily": "Feather",
       "identifier": "checkCircleLight"
     },
     "check-circle-thin": {
-      "codepoint": 57762,
+      "codepoint": 57521,
       "fontFamily": "Feather",
       "identifier": "checkCircleThin"
     },
     "check-light": {
-      "codepoint": 57763,
+      "codepoint": 57522,
       "fontFamily": "Feather",
       "identifier": "checkLight"
     },
     "check-square": {
-      "codepoint": 57389,
+      "codepoint": 57523,
       "fontFamily": "Feather",
       "identifier": "checkSquare"
     },
     "check-square-bold": {
-      "codepoint": 57764,
+      "codepoint": 57524,
       "fontFamily": "Feather",
       "identifier": "checkSquareBold"
     },
     "check-square-light": {
-      "codepoint": 57765,
+      "codepoint": 57525,
       "fontFamily": "Feather",
       "identifier": "checkSquareLight"
     },
     "check-square-thin": {
-      "codepoint": 57766,
+      "codepoint": 57526,
       "fontFamily": "Feather",
       "identifier": "checkSquareThin"
     },
     "check-thin": {
-      "codepoint": 57767,
+      "codepoint": 57527,
       "fontFamily": "Feather",
       "identifier": "checkThin"
     },
     "chevron-down": {
-      "codepoint": 57390,
+      "codepoint": 57528,
       "fontFamily": "Feather",
       "identifier": "chevronDown"
     },
     "chevron-down-bold": {
-      "codepoint": 57768,
+      "codepoint": 57529,
       "fontFamily": "Feather",
       "identifier": "chevronDownBold"
     },
     "chevron-down-light": {
-      "codepoint": 57769,
+      "codepoint": 57530,
       "fontFamily": "Feather",
       "identifier": "chevronDownLight"
     },
     "chevron-down-thin": {
-      "codepoint": 57770,
+      "codepoint": 57531,
       "fontFamily": "Feather",
       "identifier": "chevronDownThin"
     },
     "chevron-left": {
-      "codepoint": 57391,
+      "codepoint": 57532,
       "fontFamily": "Feather",
       "identifier": "chevronLeft"
     },
     "chevron-left-bold": {
-      "codepoint": 57771,
+      "codepoint": 57533,
       "fontFamily": "Feather",
       "identifier": "chevronLeftBold"
     },
     "chevron-left-light": {
-      "codepoint": 57772,
+      "codepoint": 57534,
       "fontFamily": "Feather",
       "identifier": "chevronLeftLight"
     },
     "chevron-left-thin": {
-      "codepoint": 57773,
+      "codepoint": 57535,
       "fontFamily": "Feather",
       "identifier": "chevronLeftThin"
     },
     "chevron-right": {
-      "codepoint": 57392,
+      "codepoint": 57536,
       "fontFamily": "Feather",
       "identifier": "chevronRight"
     },
     "chevron-right-bold": {
-      "codepoint": 57774,
+      "codepoint": 57537,
       "fontFamily": "Feather",
       "identifier": "chevronRightBold"
     },
     "chevron-right-light": {
-      "codepoint": 57775,
+      "codepoint": 57538,
       "fontFamily": "Feather",
       "identifier": "chevronRightLight"
     },
     "chevron-right-thin": {
-      "codepoint": 57776,
+      "codepoint": 57539,
       "fontFamily": "Feather",
       "identifier": "chevronRightThin"
     },
     "chevron-up": {
-      "codepoint": 57393,
+      "codepoint": 57540,
       "fontFamily": "Feather",
       "identifier": "chevronUp"
     },
     "chevron-up-bold": {
-      "codepoint": 57777,
+      "codepoint": 57541,
       "fontFamily": "Feather",
       "identifier": "chevronUpBold"
     },
     "chevron-up-light": {
-      "codepoint": 57778,
+      "codepoint": 57542,
       "fontFamily": "Feather",
       "identifier": "chevronUpLight"
     },
     "chevron-up-thin": {
-      "codepoint": 57779,
+      "codepoint": 57543,
       "fontFamily": "Feather",
       "identifier": "chevronUpThin"
     },
     "chevrons-down": {
-      "codepoint": 57394,
+      "codepoint": 57544,
       "fontFamily": "Feather",
       "identifier": "chevronsDown"
     },
     "chevrons-down-bold": {
-      "codepoint": 57780,
+      "codepoint": 57545,
       "fontFamily": "Feather",
       "identifier": "chevronsDownBold"
     },
     "chevrons-down-light": {
-      "codepoint": 57781,
+      "codepoint": 57546,
       "fontFamily": "Feather",
       "identifier": "chevronsDownLight"
     },
     "chevrons-down-thin": {
-      "codepoint": 57782,
+      "codepoint": 57547,
       "fontFamily": "Feather",
       "identifier": "chevronsDownThin"
     },
     "chevrons-left": {
-      "codepoint": 57395,
+      "codepoint": 57548,
       "fontFamily": "Feather",
       "identifier": "chevronsLeft"
     },
     "chevrons-left-bold": {
-      "codepoint": 57783,
+      "codepoint": 57549,
       "fontFamily": "Feather",
       "identifier": "chevronsLeftBold"
     },
     "chevrons-left-light": {
-      "codepoint": 57784,
+      "codepoint": 57550,
       "fontFamily": "Feather",
       "identifier": "chevronsLeftLight"
     },
     "chevrons-left-thin": {
-      "codepoint": 57785,
+      "codepoint": 57551,
       "fontFamily": "Feather",
       "identifier": "chevronsLeftThin"
     },
     "chevrons-right": {
-      "codepoint": 57396,
+      "codepoint": 57552,
       "fontFamily": "Feather",
       "identifier": "chevronsRight"
     },
     "chevrons-right-bold": {
-      "codepoint": 57786,
+      "codepoint": 57553,
       "fontFamily": "Feather",
       "identifier": "chevronsRightBold"
     },
     "chevrons-right-light": {
-      "codepoint": 57787,
+      "codepoint": 57554,
       "fontFamily": "Feather",
       "identifier": "chevronsRightLight"
     },
     "chevrons-right-thin": {
-      "codepoint": 57788,
+      "codepoint": 57555,
       "fontFamily": "Feather",
       "identifier": "chevronsRightThin"
     },
     "chevrons-up": {
-      "codepoint": 57397,
+      "codepoint": 57556,
       "fontFamily": "Feather",
       "identifier": "chevronsUp"
     },
     "chevrons-up-bold": {
-      "codepoint": 57789,
+      "codepoint": 57557,
       "fontFamily": "Feather",
       "identifier": "chevronsUpBold"
     },
     "chevrons-up-light": {
-      "codepoint": 57790,
+      "codepoint": 57558,
       "fontFamily": "Feather",
       "identifier": "chevronsUpLight"
     },
     "chevrons-up-thin": {
-      "codepoint": 57791,
+      "codepoint": 57559,
       "fontFamily": "Feather",
       "identifier": "chevronsUpThin"
     },
     "chrome": {
-      "codepoint": 57398,
+      "codepoint": 57560,
       "fontFamily": "Feather",
       "identifier": "chrome"
     },
     "chrome-bold": {
-      "codepoint": 57792,
+      "codepoint": 57561,
       "fontFamily": "Feather",
       "identifier": "chromeBold"
     },
     "chrome-light": {
-      "codepoint": 57793,
+      "codepoint": 57562,
       "fontFamily": "Feather",
       "identifier": "chromeLight"
     },
     "chrome-thin": {
-      "codepoint": 57794,
+      "codepoint": 57563,
       "fontFamily": "Feather",
       "identifier": "chromeThin"
     },
     "circle": {
-      "codepoint": 57399,
+      "codepoint": 57564,
       "fontFamily": "Feather",
       "identifier": "circle"
     },
     "circle-bold": {
-      "codepoint": 57795,
+      "codepoint": 57565,
       "fontFamily": "Feather",
       "identifier": "circleBold"
     },
     "circle-light": {
-      "codepoint": 57796,
+      "codepoint": 57566,
       "fontFamily": "Feather",
       "identifier": "circleLight"
     },
     "circle-thin": {
-      "codepoint": 57797,
+      "codepoint": 57567,
       "fontFamily": "Feather",
       "identifier": "circleThin"
     },
     "clipboard": {
-      "codepoint": 57400,
+      "codepoint": 57568,
       "fontFamily": "Feather",
       "identifier": "clipboard"
     },
     "clipboard-bold": {
-      "codepoint": 57798,
+      "codepoint": 57569,
       "fontFamily": "Feather",
       "identifier": "clipboardBold"
     },
     "clipboard-light": {
-      "codepoint": 57799,
+      "codepoint": 57570,
       "fontFamily": "Feather",
       "identifier": "clipboardLight"
     },
     "clipboard-thin": {
-      "codepoint": 57800,
+      "codepoint": 57571,
       "fontFamily": "Feather",
       "identifier": "clipboardThin"
     },
     "clock": {
-      "codepoint": 57401,
+      "codepoint": 57572,
       "fontFamily": "Feather",
       "identifier": "clock"
     },
     "clock-bold": {
-      "codepoint": 57801,
+      "codepoint": 57573,
       "fontFamily": "Feather",
       "identifier": "clockBold"
     },
     "clock-light": {
-      "codepoint": 57802,
+      "codepoint": 57574,
       "fontFamily": "Feather",
       "identifier": "clockLight"
     },
     "clock-thin": {
-      "codepoint": 57803,
+      "codepoint": 57575,
       "fontFamily": "Feather",
       "identifier": "clockThin"
     },
     "cloud": {
-      "codepoint": 57402,
+      "codepoint": 57576,
       "fontFamily": "Feather",
       "identifier": "cloud"
     },
     "cloud-bold": {
-      "codepoint": 57804,
+      "codepoint": 57577,
       "fontFamily": "Feather",
       "identifier": "cloudBold"
     },
     "cloud-drizzle": {
-      "codepoint": 57403,
+      "codepoint": 57578,
       "fontFamily": "Feather",
       "identifier": "cloudDrizzle"
     },
     "cloud-drizzle-bold": {
-      "codepoint": 57805,
+      "codepoint": 57579,
       "fontFamily": "Feather",
       "identifier": "cloudDrizzleBold"
     },
     "cloud-drizzle-light": {
-      "codepoint": 57806,
+      "codepoint": 57580,
       "fontFamily": "Feather",
       "identifier": "cloudDrizzleLight"
     },
     "cloud-drizzle-thin": {
-      "codepoint": 57807,
+      "codepoint": 57581,
       "fontFamily": "Feather",
       "identifier": "cloudDrizzleThin"
     },
     "cloud-light": {
-      "codepoint": 57808,
+      "codepoint": 57582,
       "fontFamily": "Feather",
       "identifier": "cloudLight"
     },
     "cloud-lightning": {
-      "codepoint": 57404,
+      "codepoint": 57583,
       "fontFamily": "Feather",
       "identifier": "cloudLightning"
     },
     "cloud-lightning-bold": {
-      "codepoint": 57809,
+      "codepoint": 57584,
       "fontFamily": "Feather",
       "identifier": "cloudLightningBold"
     },
     "cloud-lightning-light": {
-      "codepoint": 57810,
+      "codepoint": 57585,
       "fontFamily": "Feather",
       "identifier": "cloudLightningLight"
     },
     "cloud-lightning-thin": {
-      "codepoint": 57811,
+      "codepoint": 57586,
       "fontFamily": "Feather",
       "identifier": "cloudLightningThin"
     },
     "cloud-off": {
-      "codepoint": 57405,
+      "codepoint": 57587,
       "fontFamily": "Feather",
       "identifier": "cloudOff"
     },
     "cloud-off-bold": {
-      "codepoint": 57812,
+      "codepoint": 57588,
       "fontFamily": "Feather",
       "identifier": "cloudOffBold"
     },
     "cloud-off-light": {
-      "codepoint": 57813,
+      "codepoint": 57589,
       "fontFamily": "Feather",
       "identifier": "cloudOffLight"
     },
     "cloud-off-thin": {
-      "codepoint": 57814,
+      "codepoint": 57590,
       "fontFamily": "Feather",
       "identifier": "cloudOffThin"
     },
     "cloud-rain": {
-      "codepoint": 57406,
+      "codepoint": 57591,
       "fontFamily": "Feather",
       "identifier": "cloudRain"
     },
     "cloud-rain-bold": {
-      "codepoint": 57815,
+      "codepoint": 57592,
       "fontFamily": "Feather",
       "identifier": "cloudRainBold"
     },
     "cloud-rain-light": {
-      "codepoint": 57816,
+      "codepoint": 57593,
       "fontFamily": "Feather",
       "identifier": "cloudRainLight"
     },
     "cloud-rain-thin": {
-      "codepoint": 57817,
+      "codepoint": 57594,
       "fontFamily": "Feather",
       "identifier": "cloudRainThin"
     },
     "cloud-snow": {
-      "codepoint": 57407,
+      "codepoint": 57595,
       "fontFamily": "Feather",
       "identifier": "cloudSnow"
     },
     "cloud-snow-bold": {
-      "codepoint": 57818,
+      "codepoint": 57596,
       "fontFamily": "Feather",
       "identifier": "cloudSnowBold"
     },
     "cloud-snow-light": {
-      "codepoint": 57819,
+      "codepoint": 57597,
       "fontFamily": "Feather",
       "identifier": "cloudSnowLight"
     },
     "cloud-snow-thin": {
-      "codepoint": 57820,
+      "codepoint": 57598,
       "fontFamily": "Feather",
       "identifier": "cloudSnowThin"
     },
     "cloud-thin": {
-      "codepoint": 57821,
+      "codepoint": 57599,
       "fontFamily": "Feather",
       "identifier": "cloudThin"
     },
     "code": {
-      "codepoint": 57408,
+      "codepoint": 57600,
       "fontFamily": "Feather",
       "identifier": "code"
     },
     "code-bold": {
-      "codepoint": 57822,
+      "codepoint": 57601,
       "fontFamily": "Feather",
       "identifier": "codeBold"
     },
     "code-light": {
-      "codepoint": 57823,
+      "codepoint": 57602,
       "fontFamily": "Feather",
       "identifier": "codeLight"
     },
     "code-thin": {
-      "codepoint": 57824,
+      "codepoint": 57603,
       "fontFamily": "Feather",
       "identifier": "codeThin"
     },
     "codepen": {
-      "codepoint": 57409,
+      "codepoint": 57604,
       "fontFamily": "Feather",
       "identifier": "codepen"
     },
     "codepen-bold": {
-      "codepoint": 57825,
+      "codepoint": 57605,
       "fontFamily": "Feather",
       "identifier": "codepenBold"
     },
     "codepen-light": {
-      "codepoint": 57826,
+      "codepoint": 57606,
       "fontFamily": "Feather",
       "identifier": "codepenLight"
     },
     "codepen-thin": {
-      "codepoint": 57827,
+      "codepoint": 57607,
       "fontFamily": "Feather",
       "identifier": "codepenThin"
     },
     "codesandbox": {
-      "codepoint": 57410,
+      "codepoint": 57608,
       "fontFamily": "Feather",
       "identifier": "codesandbox"
     },
     "codesandbox-bold": {
-      "codepoint": 57828,
+      "codepoint": 57609,
       "fontFamily": "Feather",
       "identifier": "codesandboxBold"
     },
     "codesandbox-light": {
-      "codepoint": 57829,
+      "codepoint": 57610,
       "fontFamily": "Feather",
       "identifier": "codesandboxLight"
     },
     "codesandbox-thin": {
-      "codepoint": 57830,
+      "codepoint": 57611,
       "fontFamily": "Feather",
       "identifier": "codesandboxThin"
     },
     "coffee": {
-      "codepoint": 57411,
+      "codepoint": 57612,
       "fontFamily": "Feather",
       "identifier": "coffee"
     },
     "coffee-bold": {
-      "codepoint": 57831,
+      "codepoint": 57613,
       "fontFamily": "Feather",
       "identifier": "coffeeBold"
     },
     "coffee-light": {
-      "codepoint": 57832,
+      "codepoint": 57614,
       "fontFamily": "Feather",
       "identifier": "coffeeLight"
     },
     "coffee-thin": {
-      "codepoint": 57833,
+      "codepoint": 57615,
       "fontFamily": "Feather",
       "identifier": "coffeeThin"
     },
     "columns": {
-      "codepoint": 57412,
+      "codepoint": 57616,
       "fontFamily": "Feather",
       "identifier": "columns"
     },
     "columns-bold": {
-      "codepoint": 57834,
+      "codepoint": 57617,
       "fontFamily": "Feather",
       "identifier": "columnsBold"
     },
     "columns-light": {
-      "codepoint": 57835,
+      "codepoint": 57618,
       "fontFamily": "Feather",
       "identifier": "columnsLight"
     },
     "columns-thin": {
-      "codepoint": 57836,
+      "codepoint": 57619,
       "fontFamily": "Feather",
       "identifier": "columnsThin"
     },
     "command": {
-      "codepoint": 57413,
+      "codepoint": 57620,
       "fontFamily": "Feather",
       "identifier": "command"
     },
     "command-bold": {
-      "codepoint": 57837,
+      "codepoint": 57621,
       "fontFamily": "Feather",
       "identifier": "commandBold"
     },
     "command-light": {
-      "codepoint": 57838,
+      "codepoint": 57622,
       "fontFamily": "Feather",
       "identifier": "commandLight"
     },
     "command-thin": {
-      "codepoint": 57839,
+      "codepoint": 57623,
       "fontFamily": "Feather",
       "identifier": "commandThin"
     },
     "compass": {
-      "codepoint": 57414,
+      "codepoint": 57624,
       "fontFamily": "Feather",
       "identifier": "compass"
     },
     "compass-bold": {
-      "codepoint": 57840,
+      "codepoint": 57625,
       "fontFamily": "Feather",
       "identifier": "compassBold"
     },
     "compass-light": {
-      "codepoint": 57841,
+      "codepoint": 57626,
       "fontFamily": "Feather",
       "identifier": "compassLight"
     },
     "compass-thin": {
-      "codepoint": 57842,
+      "codepoint": 57627,
       "fontFamily": "Feather",
       "identifier": "compassThin"
     },
     "copy": {
-      "codepoint": 57415,
+      "codepoint": 57628,
       "fontFamily": "Feather",
       "identifier": "copy"
     },
     "copy-bold": {
-      "codepoint": 57843,
+      "codepoint": 57629,
       "fontFamily": "Feather",
       "identifier": "copyBold"
     },
     "copy-light": {
-      "codepoint": 57844,
+      "codepoint": 57630,
       "fontFamily": "Feather",
       "identifier": "copyLight"
     },
     "copy-thin": {
-      "codepoint": 57845,
+      "codepoint": 57631,
       "fontFamily": "Feather",
       "identifier": "copyThin"
     },
     "corner-down-left": {
-      "codepoint": 57416,
+      "codepoint": 57632,
       "fontFamily": "Feather",
       "identifier": "cornerDownLeft"
     },
     "corner-down-left-bold": {
-      "codepoint": 57846,
+      "codepoint": 57633,
       "fontFamily": "Feather",
       "identifier": "cornerDownLeftBold"
     },
     "corner-down-left-light": {
-      "codepoint": 57847,
+      "codepoint": 57634,
       "fontFamily": "Feather",
       "identifier": "cornerDownLeftLight"
     },
     "corner-down-left-thin": {
-      "codepoint": 57848,
+      "codepoint": 57635,
       "fontFamily": "Feather",
       "identifier": "cornerDownLeftThin"
     },
     "corner-down-right": {
-      "codepoint": 57417,
+      "codepoint": 57636,
       "fontFamily": "Feather",
       "identifier": "cornerDownRight"
     },
     "corner-down-right-bold": {
-      "codepoint": 57849,
+      "codepoint": 57637,
       "fontFamily": "Feather",
       "identifier": "cornerDownRightBold"
     },
     "corner-down-right-light": {
-      "codepoint": 57850,
+      "codepoint": 57638,
       "fontFamily": "Feather",
       "identifier": "cornerDownRightLight"
     },
     "corner-down-right-thin": {
-      "codepoint": 57851,
+      "codepoint": 57639,
       "fontFamily": "Feather",
       "identifier": "cornerDownRightThin"
     },
     "corner-left-down": {
-      "codepoint": 57418,
+      "codepoint": 57640,
       "fontFamily": "Feather",
       "identifier": "cornerLeftDown"
     },
     "corner-left-down-bold": {
-      "codepoint": 57852,
+      "codepoint": 57641,
       "fontFamily": "Feather",
       "identifier": "cornerLeftDownBold"
     },
     "corner-left-down-light": {
-      "codepoint": 57853,
+      "codepoint": 57642,
       "fontFamily": "Feather",
       "identifier": "cornerLeftDownLight"
     },
     "corner-left-down-thin": {
-      "codepoint": 57854,
+      "codepoint": 57643,
       "fontFamily": "Feather",
       "identifier": "cornerLeftDownThin"
     },
     "corner-left-up": {
-      "codepoint": 57419,
+      "codepoint": 57644,
       "fontFamily": "Feather",
       "identifier": "cornerLeftUp"
     },
     "corner-left-up-bold": {
-      "codepoint": 57855,
+      "codepoint": 57645,
       "fontFamily": "Feather",
       "identifier": "cornerLeftUpBold"
     },
     "corner-left-up-light": {
-      "codepoint": 57856,
+      "codepoint": 57646,
       "fontFamily": "Feather",
       "identifier": "cornerLeftUpLight"
     },
     "corner-left-up-thin": {
-      "codepoint": 57857,
+      "codepoint": 57647,
       "fontFamily": "Feather",
       "identifier": "cornerLeftUpThin"
     },
     "corner-right-down": {
-      "codepoint": 57420,
+      "codepoint": 57648,
       "fontFamily": "Feather",
       "identifier": "cornerRightDown"
     },
     "corner-right-down-bold": {
-      "codepoint": 57858,
+      "codepoint": 57649,
       "fontFamily": "Feather",
       "identifier": "cornerRightDownBold"
     },
     "corner-right-down-light": {
-      "codepoint": 57859,
+      "codepoint": 57650,
       "fontFamily": "Feather",
       "identifier": "cornerRightDownLight"
     },
     "corner-right-down-thin": {
-      "codepoint": 57860,
+      "codepoint": 57651,
       "fontFamily": "Feather",
       "identifier": "cornerRightDownThin"
     },
     "corner-right-up": {
-      "codepoint": 57421,
+      "codepoint": 57652,
       "fontFamily": "Feather",
       "identifier": "cornerRightUp"
     },
     "corner-right-up-bold": {
-      "codepoint": 57861,
+      "codepoint": 57653,
       "fontFamily": "Feather",
       "identifier": "cornerRightUpBold"
     },
     "corner-right-up-light": {
-      "codepoint": 57862,
+      "codepoint": 57654,
       "fontFamily": "Feather",
       "identifier": "cornerRightUpLight"
     },
     "corner-right-up-thin": {
-      "codepoint": 57863,
+      "codepoint": 57655,
       "fontFamily": "Feather",
       "identifier": "cornerRightUpThin"
     },
     "corner-up-left": {
-      "codepoint": 57422,
+      "codepoint": 57656,
       "fontFamily": "Feather",
       "identifier": "cornerUpLeft"
     },
     "corner-up-left-bold": {
-      "codepoint": 57864,
+      "codepoint": 57657,
       "fontFamily": "Feather",
       "identifier": "cornerUpLeftBold"
     },
     "corner-up-left-light": {
-      "codepoint": 57865,
+      "codepoint": 57658,
       "fontFamily": "Feather",
       "identifier": "cornerUpLeftLight"
     },
     "corner-up-left-thin": {
-      "codepoint": 57866,
+      "codepoint": 57659,
       "fontFamily": "Feather",
       "identifier": "cornerUpLeftThin"
     },
     "corner-up-right": {
-      "codepoint": 57423,
+      "codepoint": 57660,
       "fontFamily": "Feather",
       "identifier": "cornerUpRight"
     },
     "corner-up-right-bold": {
-      "codepoint": 57867,
+      "codepoint": 57661,
       "fontFamily": "Feather",
       "identifier": "cornerUpRightBold"
     },
     "corner-up-right-light": {
-      "codepoint": 57868,
+      "codepoint": 57662,
       "fontFamily": "Feather",
       "identifier": "cornerUpRightLight"
     },
     "corner-up-right-thin": {
-      "codepoint": 57869,
+      "codepoint": 57663,
       "fontFamily": "Feather",
       "identifier": "cornerUpRightThin"
     },
     "cpu": {
-      "codepoint": 57424,
+      "codepoint": 57664,
       "fontFamily": "Feather",
       "identifier": "cpu"
     },
     "cpu-bold": {
-      "codepoint": 57870,
+      "codepoint": 57665,
       "fontFamily": "Feather",
       "identifier": "cpuBold"
     },
     "cpu-light": {
-      "codepoint": 57871,
+      "codepoint": 57666,
       "fontFamily": "Feather",
       "identifier": "cpuLight"
     },
     "cpu-thin": {
-      "codepoint": 57872,
+      "codepoint": 57667,
       "fontFamily": "Feather",
       "identifier": "cpuThin"
     },
     "credit-card": {
-      "codepoint": 57425,
+      "codepoint": 57668,
       "fontFamily": "Feather",
       "identifier": "creditCard"
     },
     "credit-card-bold": {
-      "codepoint": 57873,
+      "codepoint": 57669,
       "fontFamily": "Feather",
       "identifier": "creditCardBold"
     },
     "credit-card-light": {
-      "codepoint": 57874,
+      "codepoint": 57670,
       "fontFamily": "Feather",
       "identifier": "creditCardLight"
     },
     "credit-card-thin": {
-      "codepoint": 57875,
+      "codepoint": 57671,
       "fontFamily": "Feather",
       "identifier": "creditCardThin"
     },
     "crop": {
-      "codepoint": 57426,
+      "codepoint": 57672,
       "fontFamily": "Feather",
       "identifier": "crop"
     },
     "crop-bold": {
-      "codepoint": 57876,
+      "codepoint": 57673,
       "fontFamily": "Feather",
       "identifier": "cropBold"
     },
     "crop-light": {
-      "codepoint": 57877,
+      "codepoint": 57674,
       "fontFamily": "Feather",
       "identifier": "cropLight"
     },
     "crop-thin": {
-      "codepoint": 57878,
+      "codepoint": 57675,
       "fontFamily": "Feather",
       "identifier": "cropThin"
     },
     "crosshair": {
-      "codepoint": 57427,
+      "codepoint": 57676,
       "fontFamily": "Feather",
       "identifier": "crosshair"
     },
     "crosshair-bold": {
-      "codepoint": 57879,
+      "codepoint": 57677,
       "fontFamily": "Feather",
       "identifier": "crosshairBold"
     },
     "crosshair-light": {
-      "codepoint": 57880,
+      "codepoint": 57678,
       "fontFamily": "Feather",
       "identifier": "crosshairLight"
     },
     "crosshair-thin": {
-      "codepoint": 57881,
+      "codepoint": 57679,
       "fontFamily": "Feather",
       "identifier": "crosshairThin"
     },
     "database": {
-      "codepoint": 57428,
+      "codepoint": 57680,
       "fontFamily": "Feather",
       "identifier": "database"
     },
     "database-bold": {
-      "codepoint": 57882,
+      "codepoint": 57681,
       "fontFamily": "Feather",
       "identifier": "databaseBold"
     },
     "database-light": {
-      "codepoint": 57883,
+      "codepoint": 57682,
       "fontFamily": "Feather",
       "identifier": "databaseLight"
     },
     "database-thin": {
-      "codepoint": 57884,
+      "codepoint": 57683,
       "fontFamily": "Feather",
       "identifier": "databaseThin"
     },
     "delete": {
-      "codepoint": 57429,
+      "codepoint": 57684,
       "fontFamily": "Feather",
       "identifier": "delete"
     },
     "delete-bold": {
-      "codepoint": 57885,
+      "codepoint": 57685,
       "fontFamily": "Feather",
       "identifier": "deleteBold"
     },
     "delete-light": {
-      "codepoint": 57886,
+      "codepoint": 57686,
       "fontFamily": "Feather",
       "identifier": "deleteLight"
     },
     "delete-thin": {
-      "codepoint": 57887,
+      "codepoint": 57687,
       "fontFamily": "Feather",
       "identifier": "deleteThin"
     },
     "disc": {
-      "codepoint": 57430,
+      "codepoint": 57688,
       "fontFamily": "Feather",
       "identifier": "disc"
     },
     "disc-bold": {
-      "codepoint": 57888,
+      "codepoint": 57689,
       "fontFamily": "Feather",
       "identifier": "discBold"
     },
     "disc-light": {
-      "codepoint": 57889,
+      "codepoint": 57690,
       "fontFamily": "Feather",
       "identifier": "discLight"
     },
     "disc-thin": {
-      "codepoint": 57890,
+      "codepoint": 57691,
       "fontFamily": "Feather",
       "identifier": "discThin"
     },
     "divide": {
-      "codepoint": 57431,
+      "codepoint": 57692,
       "fontFamily": "Feather",
       "identifier": "divide"
     },
     "divide-bold": {
-      "codepoint": 57891,
+      "codepoint": 57693,
       "fontFamily": "Feather",
       "identifier": "divideBold"
     },
     "divide-circle": {
-      "codepoint": 57432,
+      "codepoint": 57694,
       "fontFamily": "Feather",
       "identifier": "divideCircle"
     },
     "divide-circle-bold": {
-      "codepoint": 57892,
+      "codepoint": 57695,
       "fontFamily": "Feather",
       "identifier": "divideCircleBold"
     },
     "divide-circle-light": {
-      "codepoint": 57893,
+      "codepoint": 57696,
       "fontFamily": "Feather",
       "identifier": "divideCircleLight"
     },
     "divide-circle-thin": {
-      "codepoint": 57894,
+      "codepoint": 57697,
       "fontFamily": "Feather",
       "identifier": "divideCircleThin"
     },
     "divide-light": {
-      "codepoint": 57895,
+      "codepoint": 57698,
       "fontFamily": "Feather",
       "identifier": "divideLight"
     },
     "divide-square": {
-      "codepoint": 57433,
+      "codepoint": 57699,
       "fontFamily": "Feather",
       "identifier": "divideSquare"
     },
     "divide-square-bold": {
-      "codepoint": 57896,
+      "codepoint": 57700,
       "fontFamily": "Feather",
       "identifier": "divideSquareBold"
     },
     "divide-square-light": {
-      "codepoint": 57897,
+      "codepoint": 57701,
       "fontFamily": "Feather",
       "identifier": "divideSquareLight"
     },
     "divide-square-thin": {
-      "codepoint": 57898,
+      "codepoint": 57702,
       "fontFamily": "Feather",
       "identifier": "divideSquareThin"
     },
     "divide-thin": {
-      "codepoint": 57899,
+      "codepoint": 57703,
       "fontFamily": "Feather",
       "identifier": "divideThin"
     },
     "dollar-sign": {
-      "codepoint": 57434,
+      "codepoint": 57704,
       "fontFamily": "Feather",
       "identifier": "dollarSign"
     },
     "dollar-sign-bold": {
-      "codepoint": 57900,
+      "codepoint": 57705,
       "fontFamily": "Feather",
       "identifier": "dollarSignBold"
     },
     "dollar-sign-light": {
-      "codepoint": 57901,
+      "codepoint": 57706,
       "fontFamily": "Feather",
       "identifier": "dollarSignLight"
     },
     "dollar-sign-thin": {
-      "codepoint": 57902,
+      "codepoint": 57707,
       "fontFamily": "Feather",
       "identifier": "dollarSignThin"
     },
     "download": {
-      "codepoint": 57435,
+      "codepoint": 57708,
       "fontFamily": "Feather",
       "identifier": "download"
     },
     "download-bold": {
-      "codepoint": 57903,
+      "codepoint": 57709,
       "fontFamily": "Feather",
       "identifier": "downloadBold"
     },
     "download-cloud": {
-      "codepoint": 57436,
+      "codepoint": 57710,
       "fontFamily": "Feather",
       "identifier": "downloadCloud"
     },
     "download-cloud-bold": {
-      "codepoint": 57904,
+      "codepoint": 57711,
       "fontFamily": "Feather",
       "identifier": "downloadCloudBold"
     },
     "download-cloud-light": {
-      "codepoint": 57905,
+      "codepoint": 57712,
       "fontFamily": "Feather",
       "identifier": "downloadCloudLight"
     },
     "download-cloud-thin": {
-      "codepoint": 57906,
+      "codepoint": 57713,
       "fontFamily": "Feather",
       "identifier": "downloadCloudThin"
     },
     "download-light": {
-      "codepoint": 57907,
+      "codepoint": 57714,
       "fontFamily": "Feather",
       "identifier": "downloadLight"
     },
     "download-thin": {
-      "codepoint": 57908,
+      "codepoint": 57715,
       "fontFamily": "Feather",
       "identifier": "downloadThin"
     },
     "dribbble": {
-      "codepoint": 57437,
+      "codepoint": 57716,
       "fontFamily": "Feather",
       "identifier": "dribbble"
     },
     "dribbble-bold": {
-      "codepoint": 57909,
+      "codepoint": 57717,
       "fontFamily": "Feather",
       "identifier": "dribbbleBold"
     },
     "dribbble-light": {
-      "codepoint": 57910,
+      "codepoint": 57718,
       "fontFamily": "Feather",
       "identifier": "dribbbleLight"
     },
     "dribbble-thin": {
-      "codepoint": 57911,
+      "codepoint": 57719,
       "fontFamily": "Feather",
       "identifier": "dribbbleThin"
     },
     "droplet": {
-      "codepoint": 57438,
+      "codepoint": 57720,
       "fontFamily": "Feather",
       "identifier": "droplet"
     },
     "droplet-bold": {
-      "codepoint": 57912,
+      "codepoint": 57721,
       "fontFamily": "Feather",
       "identifier": "dropletBold"
     },
     "droplet-light": {
-      "codepoint": 57913,
+      "codepoint": 57722,
       "fontFamily": "Feather",
       "identifier": "dropletLight"
     },
     "droplet-thin": {
-      "codepoint": 57914,
+      "codepoint": 57723,
       "fontFamily": "Feather",
       "identifier": "dropletThin"
     },
     "edit": {
-      "codepoint": 57439,
+      "codepoint": 57724,
       "fontFamily": "Feather",
       "identifier": "edit"
     },
     "edit-2": {
-      "codepoint": 57440,
+      "codepoint": 57725,
       "fontFamily": "Feather",
       "identifier": "edit2"
     },
     "edit-2-bold": {
-      "codepoint": 57915,
+      "codepoint": 57726,
       "fontFamily": "Feather",
       "identifier": "edit2Bold"
     },
     "edit-2-light": {
-      "codepoint": 57916,
+      "codepoint": 57727,
       "fontFamily": "Feather",
       "identifier": "edit2Light"
     },
     "edit-2-thin": {
-      "codepoint": 57917,
+      "codepoint": 57728,
       "fontFamily": "Feather",
       "identifier": "edit2Thin"
     },
     "edit-3": {
-      "codepoint": 57441,
+      "codepoint": 57729,
       "fontFamily": "Feather",
       "identifier": "edit3"
     },
     "edit-3-bold": {
-      "codepoint": 57918,
+      "codepoint": 57730,
       "fontFamily": "Feather",
       "identifier": "edit3Bold"
     },
     "edit-3-light": {
-      "codepoint": 57919,
+      "codepoint": 57731,
       "fontFamily": "Feather",
       "identifier": "edit3Light"
     },
     "edit-3-thin": {
-      "codepoint": 57920,
+      "codepoint": 57732,
       "fontFamily": "Feather",
       "identifier": "edit3Thin"
     },
     "edit-bold": {
-      "codepoint": 57921,
+      "codepoint": 57733,
       "fontFamily": "Feather",
       "identifier": "editBold"
     },
     "edit-light": {
-      "codepoint": 57922,
+      "codepoint": 57734,
       "fontFamily": "Feather",
       "identifier": "editLight"
     },
     "edit-thin": {
-      "codepoint": 57923,
+      "codepoint": 57735,
       "fontFamily": "Feather",
       "identifier": "editThin"
     },
     "external-link": {
-      "codepoint": 57442,
+      "codepoint": 57736,
       "fontFamily": "Feather",
       "identifier": "externalLink"
     },
     "external-link-bold": {
-      "codepoint": 57924,
+      "codepoint": 57737,
       "fontFamily": "Feather",
       "identifier": "externalLinkBold"
     },
     "external-link-light": {
-      "codepoint": 57925,
+      "codepoint": 57738,
       "fontFamily": "Feather",
       "identifier": "externalLinkLight"
     },
     "external-link-thin": {
-      "codepoint": 57926,
+      "codepoint": 57739,
       "fontFamily": "Feather",
       "identifier": "externalLinkThin"
     },
     "eye": {
-      "codepoint": 57443,
+      "codepoint": 57740,
       "fontFamily": "Feather",
       "identifier": "eye"
     },
     "eye-bold": {
-      "codepoint": 57927,
+      "codepoint": 57741,
       "fontFamily": "Feather",
       "identifier": "eyeBold"
     },
     "eye-light": {
-      "codepoint": 57928,
+      "codepoint": 57742,
       "fontFamily": "Feather",
       "identifier": "eyeLight"
     },
     "eye-off": {
-      "codepoint": 57444,
+      "codepoint": 57743,
       "fontFamily": "Feather",
       "identifier": "eyeOff"
     },
     "eye-off-bold": {
-      "codepoint": 57929,
+      "codepoint": 57744,
       "fontFamily": "Feather",
       "identifier": "eyeOffBold"
     },
     "eye-off-light": {
-      "codepoint": 57930,
+      "codepoint": 57745,
       "fontFamily": "Feather",
       "identifier": "eyeOffLight"
     },
     "eye-off-thin": {
-      "codepoint": 57931,
+      "codepoint": 57746,
       "fontFamily": "Feather",
       "identifier": "eyeOffThin"
     },
     "eye-thin": {
-      "codepoint": 57932,
+      "codepoint": 57747,
       "fontFamily": "Feather",
       "identifier": "eyeThin"
     },
     "facebook": {
-      "codepoint": 57445,
+      "codepoint": 57748,
       "fontFamily": "Feather",
       "identifier": "facebook"
     },
     "facebook-bold": {
-      "codepoint": 57933,
+      "codepoint": 57749,
       "fontFamily": "Feather",
       "identifier": "facebookBold"
     },
     "facebook-light": {
-      "codepoint": 57934,
+      "codepoint": 57750,
       "fontFamily": "Feather",
       "identifier": "facebookLight"
     },
     "facebook-thin": {
-      "codepoint": 57935,
+      "codepoint": 57751,
       "fontFamily": "Feather",
       "identifier": "facebookThin"
     },
     "fast-forward": {
-      "codepoint": 57446,
+      "codepoint": 57752,
       "fontFamily": "Feather",
       "identifier": "fastForward"
     },
     "fast-forward-bold": {
-      "codepoint": 57936,
+      "codepoint": 57753,
       "fontFamily": "Feather",
       "identifier": "fastForwardBold"
     },
     "fast-forward-light": {
-      "codepoint": 57937,
+      "codepoint": 57754,
       "fontFamily": "Feather",
       "identifier": "fastForwardLight"
     },
     "fast-forward-thin": {
-      "codepoint": 57938,
+      "codepoint": 57755,
       "fontFamily": "Feather",
       "identifier": "fastForwardThin"
     },
     "feather": {
-      "codepoint": 57447,
+      "codepoint": 57756,
       "fontFamily": "Feather",
       "identifier": "feather"
     },
     "feather-bold": {
-      "codepoint": 57939,
+      "codepoint": 57757,
       "fontFamily": "Feather",
       "identifier": "featherBold"
     },
     "feather-light": {
-      "codepoint": 57940,
+      "codepoint": 57758,
       "fontFamily": "Feather",
       "identifier": "featherLight"
     },
     "feather-thin": {
-      "codepoint": 57941,
+      "codepoint": 57759,
       "fontFamily": "Feather",
       "identifier": "featherThin"
     },
     "figma": {
-      "codepoint": 57448,
+      "codepoint": 57760,
       "fontFamily": "Feather",
       "identifier": "figma"
     },
     "figma-bold": {
-      "codepoint": 57942,
+      "codepoint": 57761,
       "fontFamily": "Feather",
       "identifier": "figmaBold"
     },
     "figma-light": {
-      "codepoint": 57943,
+      "codepoint": 57762,
       "fontFamily": "Feather",
       "identifier": "figmaLight"
     },
     "figma-thin": {
-      "codepoint": 57944,
+      "codepoint": 57763,
       "fontFamily": "Feather",
       "identifier": "figmaThin"
     },
     "file": {
-      "codepoint": 57449,
+      "codepoint": 57764,
       "fontFamily": "Feather",
       "identifier": "file"
     },
     "file-bold": {
-      "codepoint": 57945,
+      "codepoint": 57765,
       "fontFamily": "Feather",
       "identifier": "fileBold"
     },
     "file-light": {
-      "codepoint": 57946,
+      "codepoint": 57766,
       "fontFamily": "Feather",
       "identifier": "fileLight"
     },
     "file-minus": {
-      "codepoint": 57450,
+      "codepoint": 57767,
       "fontFamily": "Feather",
       "identifier": "fileMinus"
     },
     "file-minus-bold": {
-      "codepoint": 57947,
+      "codepoint": 57768,
       "fontFamily": "Feather",
       "identifier": "fileMinusBold"
     },
     "file-minus-light": {
-      "codepoint": 57948,
+      "codepoint": 57769,
       "fontFamily": "Feather",
       "identifier": "fileMinusLight"
     },
     "file-minus-thin": {
-      "codepoint": 57949,
+      "codepoint": 57770,
       "fontFamily": "Feather",
       "identifier": "fileMinusThin"
     },
     "file-plus": {
-      "codepoint": 57451,
+      "codepoint": 57771,
       "fontFamily": "Feather",
       "identifier": "filePlus"
     },
     "file-plus-bold": {
-      "codepoint": 57950,
+      "codepoint": 57772,
       "fontFamily": "Feather",
       "identifier": "filePlusBold"
     },
     "file-plus-light": {
-      "codepoint": 57951,
+      "codepoint": 57773,
       "fontFamily": "Feather",
       "identifier": "filePlusLight"
     },
     "file-plus-thin": {
-      "codepoint": 57952,
+      "codepoint": 57774,
       "fontFamily": "Feather",
       "identifier": "filePlusThin"
     },
     "file-text": {
-      "codepoint": 57452,
+      "codepoint": 57775,
       "fontFamily": "Feather",
       "identifier": "fileText"
     },
     "file-text-bold": {
-      "codepoint": 57953,
+      "codepoint": 57776,
       "fontFamily": "Feather",
       "identifier": "fileTextBold"
     },
     "file-text-light": {
-      "codepoint": 57954,
+      "codepoint": 57777,
       "fontFamily": "Feather",
       "identifier": "fileTextLight"
     },
     "file-text-thin": {
-      "codepoint": 57955,
+      "codepoint": 57778,
       "fontFamily": "Feather",
       "identifier": "fileTextThin"
     },
     "file-thin": {
-      "codepoint": 57956,
+      "codepoint": 57779,
       "fontFamily": "Feather",
       "identifier": "fileThin"
     },
     "film": {
-      "codepoint": 57453,
+      "codepoint": 57780,
       "fontFamily": "Feather",
       "identifier": "film"
     },
     "film-bold": {
-      "codepoint": 57957,
+      "codepoint": 57781,
       "fontFamily": "Feather",
       "identifier": "filmBold"
     },
     "film-light": {
-      "codepoint": 57958,
+      "codepoint": 57782,
       "fontFamily": "Feather",
       "identifier": "filmLight"
     },
     "film-thin": {
-      "codepoint": 57959,
+      "codepoint": 57783,
       "fontFamily": "Feather",
       "identifier": "filmThin"
     },
     "filter": {
-      "codepoint": 57454,
+      "codepoint": 57784,
       "fontFamily": "Feather",
       "identifier": "filter"
     },
     "filter-bold": {
-      "codepoint": 57960,
+      "codepoint": 57785,
       "fontFamily": "Feather",
       "identifier": "filterBold"
     },
     "filter-light": {
-      "codepoint": 57961,
+      "codepoint": 57786,
       "fontFamily": "Feather",
       "identifier": "filterLight"
     },
     "filter-thin": {
-      "codepoint": 57962,
+      "codepoint": 57787,
       "fontFamily": "Feather",
       "identifier": "filterThin"
     },
     "flag": {
-      "codepoint": 57455,
+      "codepoint": 57788,
       "fontFamily": "Feather",
       "identifier": "flag"
     },
     "flag-bold": {
-      "codepoint": 57963,
+      "codepoint": 57789,
       "fontFamily": "Feather",
       "identifier": "flagBold"
     },
     "flag-light": {
-      "codepoint": 57964,
+      "codepoint": 57790,
       "fontFamily": "Feather",
       "identifier": "flagLight"
     },
     "flag-thin": {
-      "codepoint": 57965,
+      "codepoint": 57791,
       "fontFamily": "Feather",
       "identifier": "flagThin"
     },
     "folder": {
-      "codepoint": 57456,
+      "codepoint": 57792,
       "fontFamily": "Feather",
       "identifier": "folder"
     },
     "folder-bold": {
-      "codepoint": 57966,
+      "codepoint": 57793,
       "fontFamily": "Feather",
       "identifier": "folderBold"
     },
     "folder-light": {
-      "codepoint": 57967,
+      "codepoint": 57794,
       "fontFamily": "Feather",
       "identifier": "folderLight"
     },
     "folder-minus": {
-      "codepoint": 57457,
+      "codepoint": 57795,
       "fontFamily": "Feather",
       "identifier": "folderMinus"
     },
     "folder-minus-bold": {
-      "codepoint": 57968,
+      "codepoint": 57796,
       "fontFamily": "Feather",
       "identifier": "folderMinusBold"
     },
     "folder-minus-light": {
-      "codepoint": 57969,
+      "codepoint": 57797,
       "fontFamily": "Feather",
       "identifier": "folderMinusLight"
     },
     "folder-minus-thin": {
-      "codepoint": 57970,
+      "codepoint": 57798,
       "fontFamily": "Feather",
       "identifier": "folderMinusThin"
     },
     "folder-plus": {
-      "codepoint": 57458,
+      "codepoint": 57799,
       "fontFamily": "Feather",
       "identifier": "folderPlus"
     },
     "folder-plus-bold": {
-      "codepoint": 57971,
+      "codepoint": 57800,
       "fontFamily": "Feather",
       "identifier": "folderPlusBold"
     },
     "folder-plus-light": {
-      "codepoint": 57972,
+      "codepoint": 57801,
       "fontFamily": "Feather",
       "identifier": "folderPlusLight"
     },
     "folder-plus-thin": {
-      "codepoint": 57973,
+      "codepoint": 57802,
       "fontFamily": "Feather",
       "identifier": "folderPlusThin"
     },
     "folder-thin": {
-      "codepoint": 57974,
+      "codepoint": 57803,
       "fontFamily": "Feather",
       "identifier": "folderThin"
     },
     "framer": {
-      "codepoint": 57459,
+      "codepoint": 57804,
       "fontFamily": "Feather",
       "identifier": "framer"
     },
     "framer-bold": {
-      "codepoint": 57975,
+      "codepoint": 57805,
       "fontFamily": "Feather",
       "identifier": "framerBold"
     },
     "framer-light": {
-      "codepoint": 57976,
+      "codepoint": 57806,
       "fontFamily": "Feather",
       "identifier": "framerLight"
     },
     "framer-thin": {
-      "codepoint": 57977,
+      "codepoint": 57807,
       "fontFamily": "Feather",
       "identifier": "framerThin"
     },
     "frown": {
-      "codepoint": 57460,
+      "codepoint": 57808,
       "fontFamily": "Feather",
       "identifier": "frown"
     },
     "frown-bold": {
-      "codepoint": 57978,
+      "codepoint": 57809,
       "fontFamily": "Feather",
       "identifier": "frownBold"
     },
     "frown-light": {
-      "codepoint": 57979,
+      "codepoint": 57810,
       "fontFamily": "Feather",
       "identifier": "frownLight"
     },
     "frown-thin": {
-      "codepoint": 57980,
+      "codepoint": 57811,
       "fontFamily": "Feather",
       "identifier": "frownThin"
     },
     "gift": {
-      "codepoint": 57461,
+      "codepoint": 57812,
       "fontFamily": "Feather",
       "identifier": "gift"
     },
     "gift-bold": {
-      "codepoint": 57981,
+      "codepoint": 57813,
       "fontFamily": "Feather",
       "identifier": "giftBold"
     },
     "gift-light": {
-      "codepoint": 57982,
+      "codepoint": 57814,
       "fontFamily": "Feather",
       "identifier": "giftLight"
     },
     "gift-thin": {
-      "codepoint": 57983,
+      "codepoint": 57815,
       "fontFamily": "Feather",
       "identifier": "giftThin"
     },
     "git-branch": {
-      "codepoint": 57462,
+      "codepoint": 57816,
       "fontFamily": "Feather",
       "identifier": "gitBranch"
     },
     "git-branch-bold": {
-      "codepoint": 57984,
+      "codepoint": 57817,
       "fontFamily": "Feather",
       "identifier": "gitBranchBold"
     },
     "git-branch-light": {
-      "codepoint": 57985,
+      "codepoint": 57818,
       "fontFamily": "Feather",
       "identifier": "gitBranchLight"
     },
     "git-branch-thin": {
-      "codepoint": 57986,
+      "codepoint": 57819,
       "fontFamily": "Feather",
       "identifier": "gitBranchThin"
     },
     "git-commit": {
-      "codepoint": 57463,
+      "codepoint": 57820,
       "fontFamily": "Feather",
       "identifier": "gitCommit"
     },
     "git-commit-bold": {
-      "codepoint": 57987,
+      "codepoint": 57821,
       "fontFamily": "Feather",
       "identifier": "gitCommitBold"
     },
     "git-commit-light": {
-      "codepoint": 57988,
+      "codepoint": 57822,
       "fontFamily": "Feather",
       "identifier": "gitCommitLight"
     },
     "git-commit-thin": {
-      "codepoint": 57989,
+      "codepoint": 57823,
       "fontFamily": "Feather",
       "identifier": "gitCommitThin"
     },
     "git-merge": {
-      "codepoint": 57464,
+      "codepoint": 57824,
       "fontFamily": "Feather",
       "identifier": "gitMerge"
     },
     "git-merge-bold": {
-      "codepoint": 57990,
+      "codepoint": 57825,
       "fontFamily": "Feather",
       "identifier": "gitMergeBold"
     },
     "git-merge-light": {
-      "codepoint": 57991,
+      "codepoint": 57826,
       "fontFamily": "Feather",
       "identifier": "gitMergeLight"
     },
     "git-merge-thin": {
-      "codepoint": 57992,
+      "codepoint": 57827,
       "fontFamily": "Feather",
       "identifier": "gitMergeThin"
     },
     "git-pull-request": {
-      "codepoint": 57465,
+      "codepoint": 57828,
       "fontFamily": "Feather",
       "identifier": "gitPullRequest"
     },
     "git-pull-request-bold": {
-      "codepoint": 57993,
+      "codepoint": 57829,
       "fontFamily": "Feather",
       "identifier": "gitPullRequestBold"
     },
     "git-pull-request-light": {
-      "codepoint": 57994,
+      "codepoint": 57830,
       "fontFamily": "Feather",
       "identifier": "gitPullRequestLight"
     },
     "git-pull-request-thin": {
-      "codepoint": 57995,
+      "codepoint": 57831,
       "fontFamily": "Feather",
       "identifier": "gitPullRequestThin"
     },
     "github": {
-      "codepoint": 57466,
+      "codepoint": 57832,
       "fontFamily": "Feather",
       "identifier": "github"
     },
     "github-bold": {
-      "codepoint": 57996,
+      "codepoint": 57833,
       "fontFamily": "Feather",
       "identifier": "githubBold"
     },
     "github-light": {
-      "codepoint": 57997,
+      "codepoint": 57834,
       "fontFamily": "Feather",
       "identifier": "githubLight"
     },
     "github-thin": {
-      "codepoint": 57998,
+      "codepoint": 57835,
       "fontFamily": "Feather",
       "identifier": "githubThin"
     },
     "gitlab": {
-      "codepoint": 57467,
+      "codepoint": 57836,
       "fontFamily": "Feather",
       "identifier": "gitlab"
     },
     "gitlab-bold": {
-      "codepoint": 57999,
+      "codepoint": 57837,
       "fontFamily": "Feather",
       "identifier": "gitlabBold"
     },
     "gitlab-light": {
-      "codepoint": 58000,
+      "codepoint": 57838,
       "fontFamily": "Feather",
       "identifier": "gitlabLight"
     },
     "gitlab-thin": {
-      "codepoint": 58001,
+      "codepoint": 57839,
       "fontFamily": "Feather",
       "identifier": "gitlabThin"
     },
     "globe": {
-      "codepoint": 57468,
+      "codepoint": 57840,
       "fontFamily": "Feather",
       "identifier": "globe"
     },
     "globe-bold": {
-      "codepoint": 58002,
+      "codepoint": 57841,
       "fontFamily": "Feather",
       "identifier": "globeBold"
     },
     "globe-light": {
-      "codepoint": 58003,
+      "codepoint": 57842,
       "fontFamily": "Feather",
       "identifier": "globeLight"
     },
     "globe-thin": {
-      "codepoint": 58004,
+      "codepoint": 57843,
       "fontFamily": "Feather",
       "identifier": "globeThin"
     },
     "grid": {
-      "codepoint": 57469,
+      "codepoint": 57844,
       "fontFamily": "Feather",
       "identifier": "grid"
     },
     "grid-bold": {
-      "codepoint": 58005,
+      "codepoint": 57845,
       "fontFamily": "Feather",
       "identifier": "gridBold"
     },
     "grid-light": {
-      "codepoint": 58006,
+      "codepoint": 57846,
       "fontFamily": "Feather",
       "identifier": "gridLight"
     },
     "grid-thin": {
-      "codepoint": 58007,
+      "codepoint": 57847,
       "fontFamily": "Feather",
       "identifier": "gridThin"
     },
     "hard-drive": {
-      "codepoint": 57470,
+      "codepoint": 57848,
       "fontFamily": "Feather",
       "identifier": "hardDrive"
     },
     "hard-drive-bold": {
-      "codepoint": 58008,
+      "codepoint": 57849,
       "fontFamily": "Feather",
       "identifier": "hardDriveBold"
     },
     "hard-drive-light": {
-      "codepoint": 58009,
+      "codepoint": 57850,
       "fontFamily": "Feather",
       "identifier": "hardDriveLight"
     },
     "hard-drive-thin": {
-      "codepoint": 58010,
+      "codepoint": 57851,
       "fontFamily": "Feather",
       "identifier": "hardDriveThin"
     },
     "hash": {
-      "codepoint": 57471,
+      "codepoint": 57852,
       "fontFamily": "Feather",
       "identifier": "hash"
     },
     "hash-bold": {
-      "codepoint": 58011,
+      "codepoint": 57853,
       "fontFamily": "Feather",
       "identifier": "hashBold"
     },
     "hash-light": {
-      "codepoint": 58012,
+      "codepoint": 57854,
       "fontFamily": "Feather",
       "identifier": "hashLight"
     },
     "hash-thin": {
-      "codepoint": 58013,
+      "codepoint": 57855,
       "fontFamily": "Feather",
       "identifier": "hashThin"
     },
     "headphones": {
-      "codepoint": 57472,
+      "codepoint": 57856,
       "fontFamily": "Feather",
       "identifier": "headphones"
     },
     "headphones-bold": {
-      "codepoint": 58014,
+      "codepoint": 57857,
       "fontFamily": "Feather",
       "identifier": "headphonesBold"
     },
     "headphones-light": {
-      "codepoint": 58015,
+      "codepoint": 57858,
       "fontFamily": "Feather",
       "identifier": "headphonesLight"
     },
     "headphones-thin": {
-      "codepoint": 58016,
+      "codepoint": 57859,
       "fontFamily": "Feather",
       "identifier": "headphonesThin"
     },
     "heart": {
-      "codepoint": 57473,
+      "codepoint": 57860,
       "fontFamily": "Feather",
       "identifier": "heart"
     },
     "heart-bold": {
-      "codepoint": 58017,
+      "codepoint": 57861,
       "fontFamily": "Feather",
       "identifier": "heartBold"
     },
     "heart-light": {
-      "codepoint": 58018,
+      "codepoint": 57862,
       "fontFamily": "Feather",
       "identifier": "heartLight"
     },
     "heart-thin": {
-      "codepoint": 58019,
+      "codepoint": 57863,
       "fontFamily": "Feather",
       "identifier": "heartThin"
     },
     "help-circle": {
-      "codepoint": 57474,
+      "codepoint": 57864,
       "fontFamily": "Feather",
       "identifier": "helpCircle"
     },
     "help-circle-bold": {
-      "codepoint": 58020,
+      "codepoint": 57865,
       "fontFamily": "Feather",
       "identifier": "helpCircleBold"
     },
     "help-circle-light": {
-      "codepoint": 58021,
+      "codepoint": 57866,
       "fontFamily": "Feather",
       "identifier": "helpCircleLight"
     },
     "help-circle-thin": {
-      "codepoint": 58022,
+      "codepoint": 57867,
       "fontFamily": "Feather",
       "identifier": "helpCircleThin"
     },
     "hexagon": {
-      "codepoint": 57475,
+      "codepoint": 57868,
       "fontFamily": "Feather",
       "identifier": "hexagon"
     },
     "hexagon-bold": {
-      "codepoint": 58023,
+      "codepoint": 57869,
       "fontFamily": "Feather",
       "identifier": "hexagonBold"
     },
     "hexagon-light": {
-      "codepoint": 58024,
+      "codepoint": 57870,
       "fontFamily": "Feather",
       "identifier": "hexagonLight"
     },
     "hexagon-thin": {
-      "codepoint": 58025,
+      "codepoint": 57871,
       "fontFamily": "Feather",
       "identifier": "hexagonThin"
     },
     "home": {
-      "codepoint": 57476,
+      "codepoint": 57872,
       "fontFamily": "Feather",
       "identifier": "home"
     },
     "home-bold": {
-      "codepoint": 58026,
+      "codepoint": 57873,
       "fontFamily": "Feather",
       "identifier": "homeBold"
     },
     "home-light": {
-      "codepoint": 58027,
+      "codepoint": 57874,
       "fontFamily": "Feather",
       "identifier": "homeLight"
     },
     "home-thin": {
-      "codepoint": 58028,
+      "codepoint": 57875,
       "fontFamily": "Feather",
       "identifier": "homeThin"
     },
     "image": {
-      "codepoint": 57477,
+      "codepoint": 57876,
       "fontFamily": "Feather",
       "identifier": "image"
     },
     "image-bold": {
-      "codepoint": 58029,
+      "codepoint": 57877,
       "fontFamily": "Feather",
       "identifier": "imageBold"
     },
     "image-light": {
-      "codepoint": 58030,
+      "codepoint": 57878,
       "fontFamily": "Feather",
       "identifier": "imageLight"
     },
     "image-thin": {
-      "codepoint": 58031,
+      "codepoint": 57879,
       "fontFamily": "Feather",
       "identifier": "imageThin"
     },
     "inbox": {
-      "codepoint": 57478,
+      "codepoint": 57880,
       "fontFamily": "Feather",
       "identifier": "inbox"
     },
     "inbox-bold": {
-      "codepoint": 58032,
+      "codepoint": 57881,
       "fontFamily": "Feather",
       "identifier": "inboxBold"
     },
     "inbox-light": {
-      "codepoint": 58033,
+      "codepoint": 57882,
       "fontFamily": "Feather",
       "identifier": "inboxLight"
     },
     "inbox-thin": {
-      "codepoint": 58034,
+      "codepoint": 57883,
       "fontFamily": "Feather",
       "identifier": "inboxThin"
     },
     "info": {
-      "codepoint": 57479,
+      "codepoint": 57884,
       "fontFamily": "Feather",
       "identifier": "info"
     },
     "info-bold": {
-      "codepoint": 58035,
+      "codepoint": 57885,
       "fontFamily": "Feather",
       "identifier": "infoBold"
     },
     "info-light": {
-      "codepoint": 58036,
+      "codepoint": 57886,
       "fontFamily": "Feather",
       "identifier": "infoLight"
     },
     "info-thin": {
-      "codepoint": 58037,
+      "codepoint": 57887,
       "fontFamily": "Feather",
       "identifier": "infoThin"
     },
     "instagram": {
-      "codepoint": 57480,
+      "codepoint": 57888,
       "fontFamily": "Feather",
       "identifier": "instagram"
     },
     "instagram-bold": {
-      "codepoint": 58038,
+      "codepoint": 57889,
       "fontFamily": "Feather",
       "identifier": "instagramBold"
     },
     "instagram-light": {
-      "codepoint": 58039,
+      "codepoint": 57890,
       "fontFamily": "Feather",
       "identifier": "instagramLight"
     },
     "instagram-thin": {
-      "codepoint": 58040,
+      "codepoint": 57891,
       "fontFamily": "Feather",
       "identifier": "instagramThin"
     },
     "italic": {
-      "codepoint": 57481,
+      "codepoint": 57892,
       "fontFamily": "Feather",
       "identifier": "italic"
     },
     "italic-bold": {
-      "codepoint": 58041,
+      "codepoint": 57893,
       "fontFamily": "Feather",
       "identifier": "italicBold"
     },
     "italic-light": {
-      "codepoint": 58042,
+      "codepoint": 57894,
       "fontFamily": "Feather",
       "identifier": "italicLight"
     },
     "italic-thin": {
-      "codepoint": 58043,
+      "codepoint": 57895,
       "fontFamily": "Feather",
       "identifier": "italicThin"
     },
     "key": {
-      "codepoint": 57482,
+      "codepoint": 57896,
       "fontFamily": "Feather",
       "identifier": "key"
     },
     "key-bold": {
-      "codepoint": 58044,
+      "codepoint": 57897,
       "fontFamily": "Feather",
       "identifier": "keyBold"
     },
     "key-light": {
-      "codepoint": 58045,
+      "codepoint": 57898,
       "fontFamily": "Feather",
       "identifier": "keyLight"
     },
     "key-thin": {
-      "codepoint": 58046,
+      "codepoint": 57899,
       "fontFamily": "Feather",
       "identifier": "keyThin"
     },
     "layers": {
-      "codepoint": 57483,
+      "codepoint": 57900,
       "fontFamily": "Feather",
       "identifier": "layers"
     },
     "layers-bold": {
-      "codepoint": 58047,
+      "codepoint": 57901,
       "fontFamily": "Feather",
       "identifier": "layersBold"
     },
     "layers-light": {
-      "codepoint": 58048,
+      "codepoint": 57902,
       "fontFamily": "Feather",
       "identifier": "layersLight"
     },
     "layers-thin": {
-      "codepoint": 58049,
+      "codepoint": 57903,
       "fontFamily": "Feather",
       "identifier": "layersThin"
     },
     "layout": {
-      "codepoint": 57484,
+      "codepoint": 57904,
       "fontFamily": "Feather",
       "identifier": "layout"
     },
     "layout-bold": {
-      "codepoint": 58050,
+      "codepoint": 57905,
       "fontFamily": "Feather",
       "identifier": "layoutBold"
     },
     "layout-light": {
-      "codepoint": 58051,
+      "codepoint": 57906,
       "fontFamily": "Feather",
       "identifier": "layoutLight"
     },
     "layout-thin": {
-      "codepoint": 58052,
+      "codepoint": 57907,
       "fontFamily": "Feather",
       "identifier": "layoutThin"
     },
     "life-buoy": {
-      "codepoint": 57485,
+      "codepoint": 57908,
       "fontFamily": "Feather",
       "identifier": "lifeBuoy"
     },
     "life-buoy-bold": {
-      "codepoint": 58053,
+      "codepoint": 57909,
       "fontFamily": "Feather",
       "identifier": "lifeBuoyBold"
     },
     "life-buoy-light": {
-      "codepoint": 58054,
+      "codepoint": 57910,
       "fontFamily": "Feather",
       "identifier": "lifeBuoyLight"
     },
     "life-buoy-thin": {
-      "codepoint": 58055,
+      "codepoint": 57911,
       "fontFamily": "Feather",
       "identifier": "lifeBuoyThin"
     },
     "link": {
-      "codepoint": 57486,
+      "codepoint": 57912,
       "fontFamily": "Feather",
       "identifier": "link"
     },
     "link-2": {
-      "codepoint": 57487,
+      "codepoint": 57913,
       "fontFamily": "Feather",
       "identifier": "link2"
     },
     "link-2-bold": {
-      "codepoint": 58056,
+      "codepoint": 57914,
       "fontFamily": "Feather",
       "identifier": "link2Bold"
     },
     "link-2-light": {
-      "codepoint": 58057,
+      "codepoint": 57915,
       "fontFamily": "Feather",
       "identifier": "link2Light"
     },
     "link-2-thin": {
-      "codepoint": 58058,
+      "codepoint": 57916,
       "fontFamily": "Feather",
       "identifier": "link2Thin"
     },
     "link-bold": {
-      "codepoint": 58059,
+      "codepoint": 57917,
       "fontFamily": "Feather",
       "identifier": "linkBold"
     },
     "link-light": {
-      "codepoint": 58060,
+      "codepoint": 57918,
       "fontFamily": "Feather",
       "identifier": "linkLight"
     },
     "link-thin": {
-      "codepoint": 58061,
+      "codepoint": 57919,
       "fontFamily": "Feather",
       "identifier": "linkThin"
     },
     "linkedin": {
-      "codepoint": 57488,
+      "codepoint": 57920,
       "fontFamily": "Feather",
       "identifier": "linkedin"
     },
     "linkedin-bold": {
-      "codepoint": 58062,
+      "codepoint": 57921,
       "fontFamily": "Feather",
       "identifier": "linkedinBold"
     },
     "linkedin-light": {
-      "codepoint": 58063,
+      "codepoint": 57922,
       "fontFamily": "Feather",
       "identifier": "linkedinLight"
     },
     "linkedin-thin": {
-      "codepoint": 58064,
+      "codepoint": 57923,
       "fontFamily": "Feather",
       "identifier": "linkedinThin"
     },
     "list": {
-      "codepoint": 57489,
+      "codepoint": 57924,
       "fontFamily": "Feather",
       "identifier": "list"
     },
     "list-bold": {
-      "codepoint": 58065,
+      "codepoint": 57925,
       "fontFamily": "Feather",
       "identifier": "listBold"
     },
     "list-light": {
-      "codepoint": 58066,
+      "codepoint": 57926,
       "fontFamily": "Feather",
       "identifier": "listLight"
     },
     "list-thin": {
-      "codepoint": 58067,
+      "codepoint": 57927,
       "fontFamily": "Feather",
       "identifier": "listThin"
     },
     "loader": {
-      "codepoint": 57490,
+      "codepoint": 57928,
       "fontFamily": "Feather",
       "identifier": "loader"
     },
     "loader-bold": {
-      "codepoint": 58068,
+      "codepoint": 57929,
       "fontFamily": "Feather",
       "identifier": "loaderBold"
     },
     "loader-light": {
-      "codepoint": 58069,
+      "codepoint": 57930,
       "fontFamily": "Feather",
       "identifier": "loaderLight"
     },
     "loader-thin": {
-      "codepoint": 58070,
+      "codepoint": 57931,
       "fontFamily": "Feather",
       "identifier": "loaderThin"
     },
     "lock": {
-      "codepoint": 57491,
+      "codepoint": 57932,
       "fontFamily": "Feather",
       "identifier": "lock"
     },
     "lock-bold": {
-      "codepoint": 58071,
+      "codepoint": 57933,
       "fontFamily": "Feather",
       "identifier": "lockBold"
     },
     "lock-light": {
-      "codepoint": 58072,
+      "codepoint": 57934,
       "fontFamily": "Feather",
       "identifier": "lockLight"
     },
     "lock-thin": {
-      "codepoint": 58073,
+      "codepoint": 57935,
       "fontFamily": "Feather",
       "identifier": "lockThin"
     },
     "log-in": {
-      "codepoint": 57492,
+      "codepoint": 57936,
       "fontFamily": "Feather",
       "identifier": "logIn"
     },
     "log-in-bold": {
-      "codepoint": 58074,
+      "codepoint": 57937,
       "fontFamily": "Feather",
       "identifier": "logInBold"
     },
     "log-in-light": {
-      "codepoint": 58075,
+      "codepoint": 57938,
       "fontFamily": "Feather",
       "identifier": "logInLight"
     },
     "log-in-thin": {
-      "codepoint": 58076,
+      "codepoint": 57939,
       "fontFamily": "Feather",
       "identifier": "logInThin"
     },
     "log-out": {
-      "codepoint": 57493,
+      "codepoint": 57940,
       "fontFamily": "Feather",
       "identifier": "logOut"
     },
     "log-out-bold": {
-      "codepoint": 58077,
+      "codepoint": 57941,
       "fontFamily": "Feather",
       "identifier": "logOutBold"
     },
     "log-out-light": {
-      "codepoint": 58078,
+      "codepoint": 57942,
       "fontFamily": "Feather",
       "identifier": "logOutLight"
     },
     "log-out-thin": {
-      "codepoint": 58079,
+      "codepoint": 57943,
       "fontFamily": "Feather",
       "identifier": "logOutThin"
     },
     "mail": {
-      "codepoint": 57494,
+      "codepoint": 57944,
       "fontFamily": "Feather",
       "identifier": "mail"
     },
     "mail-bold": {
-      "codepoint": 58080,
+      "codepoint": 57945,
       "fontFamily": "Feather",
       "identifier": "mailBold"
     },
     "mail-light": {
-      "codepoint": 58081,
+      "codepoint": 57946,
       "fontFamily": "Feather",
       "identifier": "mailLight"
     },
     "mail-thin": {
-      "codepoint": 58082,
+      "codepoint": 57947,
       "fontFamily": "Feather",
       "identifier": "mailThin"
     },
     "map": {
-      "codepoint": 57495,
+      "codepoint": 57948,
       "fontFamily": "Feather",
       "identifier": "map"
     },
     "map-bold": {
-      "codepoint": 58083,
+      "codepoint": 57949,
       "fontFamily": "Feather",
       "identifier": "mapBold"
     },
     "map-light": {
-      "codepoint": 58084,
+      "codepoint": 57950,
       "fontFamily": "Feather",
       "identifier": "mapLight"
     },
     "map-pin": {
-      "codepoint": 57496,
+      "codepoint": 57951,
       "fontFamily": "Feather",
       "identifier": "mapPin"
     },
     "map-pin-bold": {
-      "codepoint": 58085,
+      "codepoint": 57952,
       "fontFamily": "Feather",
       "identifier": "mapPinBold"
     },
     "map-pin-light": {
-      "codepoint": 58086,
+      "codepoint": 57953,
       "fontFamily": "Feather",
       "identifier": "mapPinLight"
     },
     "map-pin-thin": {
-      "codepoint": 58087,
+      "codepoint": 57954,
       "fontFamily": "Feather",
       "identifier": "mapPinThin"
     },
     "map-thin": {
-      "codepoint": 58088,
+      "codepoint": 57955,
       "fontFamily": "Feather",
       "identifier": "mapThin"
     },
     "maximize": {
-      "codepoint": 57497,
+      "codepoint": 57956,
       "fontFamily": "Feather",
       "identifier": "maximize"
     },
     "maximize-2": {
-      "codepoint": 57498,
+      "codepoint": 57957,
       "fontFamily": "Feather",
       "identifier": "maximize2"
     },
     "maximize-2-bold": {
-      "codepoint": 58089,
+      "codepoint": 57958,
       "fontFamily": "Feather",
       "identifier": "maximize2Bold"
     },
     "maximize-2-light": {
-      "codepoint": 58090,
+      "codepoint": 57959,
       "fontFamily": "Feather",
       "identifier": "maximize2Light"
     },
     "maximize-2-thin": {
-      "codepoint": 58091,
+      "codepoint": 57960,
       "fontFamily": "Feather",
       "identifier": "maximize2Thin"
     },
     "maximize-bold": {
-      "codepoint": 58092,
+      "codepoint": 57961,
       "fontFamily": "Feather",
       "identifier": "maximizeBold"
     },
     "maximize-light": {
-      "codepoint": 58093,
+      "codepoint": 57962,
       "fontFamily": "Feather",
       "identifier": "maximizeLight"
     },
     "maximize-thin": {
-      "codepoint": 58094,
+      "codepoint": 57963,
       "fontFamily": "Feather",
       "identifier": "maximizeThin"
     },
     "meh": {
-      "codepoint": 57499,
+      "codepoint": 57964,
       "fontFamily": "Feather",
       "identifier": "meh"
     },
     "meh-bold": {
-      "codepoint": 58095,
+      "codepoint": 57965,
       "fontFamily": "Feather",
       "identifier": "mehBold"
     },
     "meh-light": {
-      "codepoint": 58096,
+      "codepoint": 57966,
       "fontFamily": "Feather",
       "identifier": "mehLight"
     },
     "meh-thin": {
-      "codepoint": 58097,
+      "codepoint": 57967,
       "fontFamily": "Feather",
       "identifier": "mehThin"
     },
     "menu": {
-      "codepoint": 57500,
+      "codepoint": 57968,
       "fontFamily": "Feather",
       "identifier": "menu"
     },
     "menu-bold": {
-      "codepoint": 58098,
+      "codepoint": 57969,
       "fontFamily": "Feather",
       "identifier": "menuBold"
     },
     "menu-light": {
-      "codepoint": 58099,
+      "codepoint": 57970,
       "fontFamily": "Feather",
       "identifier": "menuLight"
     },
     "menu-thin": {
-      "codepoint": 58100,
+      "codepoint": 57971,
       "fontFamily": "Feather",
       "identifier": "menuThin"
     },
     "message-circle": {
-      "codepoint": 57501,
+      "codepoint": 57972,
       "fontFamily": "Feather",
       "identifier": "messageCircle"
     },
     "message-circle-bold": {
-      "codepoint": 58101,
+      "codepoint": 57973,
       "fontFamily": "Feather",
       "identifier": "messageCircleBold"
     },
     "message-circle-light": {
-      "codepoint": 58102,
+      "codepoint": 57974,
       "fontFamily": "Feather",
       "identifier": "messageCircleLight"
     },
     "message-circle-thin": {
-      "codepoint": 58103,
+      "codepoint": 57975,
       "fontFamily": "Feather",
       "identifier": "messageCircleThin"
     },
     "message-square": {
-      "codepoint": 57502,
+      "codepoint": 57976,
       "fontFamily": "Feather",
       "identifier": "messageSquare"
     },
     "message-square-bold": {
-      "codepoint": 58104,
+      "codepoint": 57977,
       "fontFamily": "Feather",
       "identifier": "messageSquareBold"
     },
     "message-square-light": {
-      "codepoint": 58105,
+      "codepoint": 57978,
       "fontFamily": "Feather",
       "identifier": "messageSquareLight"
     },
     "message-square-thin": {
-      "codepoint": 58106,
+      "codepoint": 57979,
       "fontFamily": "Feather",
       "identifier": "messageSquareThin"
     },
     "mic": {
-      "codepoint": 57503,
+      "codepoint": 57980,
       "fontFamily": "Feather",
       "identifier": "mic"
     },
     "mic-bold": {
-      "codepoint": 58107,
+      "codepoint": 57981,
       "fontFamily": "Feather",
       "identifier": "micBold"
     },
     "mic-light": {
-      "codepoint": 58108,
+      "codepoint": 57982,
       "fontFamily": "Feather",
       "identifier": "micLight"
     },
     "mic-off": {
-      "codepoint": 57504,
+      "codepoint": 57983,
       "fontFamily": "Feather",
       "identifier": "micOff"
     },
     "mic-off-bold": {
-      "codepoint": 58109,
+      "codepoint": 57984,
       "fontFamily": "Feather",
       "identifier": "micOffBold"
     },
     "mic-off-light": {
-      "codepoint": 58110,
+      "codepoint": 57985,
       "fontFamily": "Feather",
       "identifier": "micOffLight"
     },
     "mic-off-thin": {
-      "codepoint": 58111,
+      "codepoint": 57986,
       "fontFamily": "Feather",
       "identifier": "micOffThin"
     },
     "mic-thin": {
-      "codepoint": 58112,
+      "codepoint": 57987,
       "fontFamily": "Feather",
       "identifier": "micThin"
     },
     "minimize": {
-      "codepoint": 57505,
+      "codepoint": 57988,
       "fontFamily": "Feather",
       "identifier": "minimize"
     },
     "minimize-2": {
-      "codepoint": 57506,
+      "codepoint": 57989,
       "fontFamily": "Feather",
       "identifier": "minimize2"
     },
     "minimize-2-bold": {
-      "codepoint": 58113,
+      "codepoint": 57990,
       "fontFamily": "Feather",
       "identifier": "minimize2Bold"
     },
     "minimize-2-light": {
-      "codepoint": 58114,
+      "codepoint": 57991,
       "fontFamily": "Feather",
       "identifier": "minimize2Light"
     },
     "minimize-2-thin": {
-      "codepoint": 58115,
+      "codepoint": 57992,
       "fontFamily": "Feather",
       "identifier": "minimize2Thin"
     },
     "minimize-bold": {
-      "codepoint": 58116,
+      "codepoint": 57993,
       "fontFamily": "Feather",
       "identifier": "minimizeBold"
     },
     "minimize-light": {
-      "codepoint": 58117,
+      "codepoint": 57994,
       "fontFamily": "Feather",
       "identifier": "minimizeLight"
     },
     "minimize-thin": {
-      "codepoint": 58118,
+      "codepoint": 57995,
       "fontFamily": "Feather",
       "identifier": "minimizeThin"
     },
     "minus": {
-      "codepoint": 57507,
+      "codepoint": 57996,
       "fontFamily": "Feather",
       "identifier": "minus"
     },
     "minus-bold": {
-      "codepoint": 58119,
+      "codepoint": 57997,
       "fontFamily": "Feather",
       "identifier": "minusBold"
     },
     "minus-circle": {
-      "codepoint": 57508,
+      "codepoint": 57998,
       "fontFamily": "Feather",
       "identifier": "minusCircle"
     },
     "minus-circle-bold": {
-      "codepoint": 58120,
+      "codepoint": 57999,
       "fontFamily": "Feather",
       "identifier": "minusCircleBold"
     },
     "minus-circle-light": {
-      "codepoint": 58121,
+      "codepoint": 58000,
       "fontFamily": "Feather",
       "identifier": "minusCircleLight"
     },
     "minus-circle-thin": {
-      "codepoint": 58122,
+      "codepoint": 58001,
       "fontFamily": "Feather",
       "identifier": "minusCircleThin"
     },
     "minus-light": {
-      "codepoint": 58123,
+      "codepoint": 58002,
       "fontFamily": "Feather",
       "identifier": "minusLight"
     },
     "minus-square": {
-      "codepoint": 57509,
+      "codepoint": 58003,
       "fontFamily": "Feather",
       "identifier": "minusSquare"
     },
     "minus-square-bold": {
-      "codepoint": 58124,
+      "codepoint": 58004,
       "fontFamily": "Feather",
       "identifier": "minusSquareBold"
     },
     "minus-square-light": {
-      "codepoint": 58125,
+      "codepoint": 58005,
       "fontFamily": "Feather",
       "identifier": "minusSquareLight"
     },
     "minus-square-thin": {
-      "codepoint": 58126,
+      "codepoint": 58006,
       "fontFamily": "Feather",
       "identifier": "minusSquareThin"
     },
     "minus-thin": {
-      "codepoint": 58127,
+      "codepoint": 58007,
       "fontFamily": "Feather",
       "identifier": "minusThin"
     },
     "monitor": {
-      "codepoint": 57510,
+      "codepoint": 58008,
       "fontFamily": "Feather",
       "identifier": "monitor"
     },
     "monitor-bold": {
-      "codepoint": 58128,
+      "codepoint": 58009,
       "fontFamily": "Feather",
       "identifier": "monitorBold"
     },
     "monitor-light": {
-      "codepoint": 58129,
+      "codepoint": 58010,
       "fontFamily": "Feather",
       "identifier": "monitorLight"
     },
     "monitor-thin": {
-      "codepoint": 58130,
+      "codepoint": 58011,
       "fontFamily": "Feather",
       "identifier": "monitorThin"
     },
     "moon": {
-      "codepoint": 57511,
+      "codepoint": 58012,
       "fontFamily": "Feather",
       "identifier": "moon"
     },
     "moon-bold": {
-      "codepoint": 58131,
+      "codepoint": 58013,
       "fontFamily": "Feather",
       "identifier": "moonBold"
     },
     "moon-light": {
-      "codepoint": 58132,
+      "codepoint": 58014,
       "fontFamily": "Feather",
       "identifier": "moonLight"
     },
     "moon-thin": {
-      "codepoint": 58133,
+      "codepoint": 58015,
       "fontFamily": "Feather",
       "identifier": "moonThin"
     },
     "more-horizontal": {
-      "codepoint": 57512,
+      "codepoint": 58016,
       "fontFamily": "Feather",
       "identifier": "moreHorizontal"
     },
     "more-horizontal-bold": {
-      "codepoint": 58134,
+      "codepoint": 58017,
       "fontFamily": "Feather",
       "identifier": "moreHorizontalBold"
     },
     "more-horizontal-light": {
-      "codepoint": 58135,
+      "codepoint": 58018,
       "fontFamily": "Feather",
       "identifier": "moreHorizontalLight"
     },
     "more-horizontal-thin": {
-      "codepoint": 58136,
+      "codepoint": 58019,
       "fontFamily": "Feather",
       "identifier": "moreHorizontalThin"
     },
     "more-vertical": {
-      "codepoint": 57513,
+      "codepoint": 58020,
       "fontFamily": "Feather",
       "identifier": "moreVertical"
     },
     "more-vertical-bold": {
-      "codepoint": 58137,
+      "codepoint": 58021,
       "fontFamily": "Feather",
       "identifier": "moreVerticalBold"
     },
     "more-vertical-light": {
-      "codepoint": 58138,
+      "codepoint": 58022,
       "fontFamily": "Feather",
       "identifier": "moreVerticalLight"
     },
     "more-vertical-thin": {
-      "codepoint": 58139,
+      "codepoint": 58023,
       "fontFamily": "Feather",
       "identifier": "moreVerticalThin"
     },
     "mouse-pointer": {
-      "codepoint": 57514,
+      "codepoint": 58024,
       "fontFamily": "Feather",
       "identifier": "mousePointer"
     },
     "mouse-pointer-bold": {
-      "codepoint": 58140,
+      "codepoint": 58025,
       "fontFamily": "Feather",
       "identifier": "mousePointerBold"
     },
     "mouse-pointer-light": {
-      "codepoint": 58141,
+      "codepoint": 58026,
       "fontFamily": "Feather",
       "identifier": "mousePointerLight"
     },
     "mouse-pointer-thin": {
-      "codepoint": 58142,
+      "codepoint": 58027,
       "fontFamily": "Feather",
       "identifier": "mousePointerThin"
     },
     "move": {
-      "codepoint": 57515,
+      "codepoint": 58028,
       "fontFamily": "Feather",
       "identifier": "move"
     },
     "move-bold": {
-      "codepoint": 58143,
+      "codepoint": 58029,
       "fontFamily": "Feather",
       "identifier": "moveBold"
     },
     "move-light": {
-      "codepoint": 58144,
+      "codepoint": 58030,
       "fontFamily": "Feather",
       "identifier": "moveLight"
     },
     "move-thin": {
-      "codepoint": 58145,
+      "codepoint": 58031,
       "fontFamily": "Feather",
       "identifier": "moveThin"
     },
     "music": {
-      "codepoint": 57516,
+      "codepoint": 58032,
       "fontFamily": "Feather",
       "identifier": "music"
     },
     "music-bold": {
-      "codepoint": 58146,
+      "codepoint": 58033,
       "fontFamily": "Feather",
       "identifier": "musicBold"
     },
     "music-light": {
-      "codepoint": 58147,
+      "codepoint": 58034,
       "fontFamily": "Feather",
       "identifier": "musicLight"
     },
     "music-thin": {
-      "codepoint": 58148,
+      "codepoint": 58035,
       "fontFamily": "Feather",
       "identifier": "musicThin"
     },
     "navigation": {
-      "codepoint": 57517,
+      "codepoint": 58036,
       "fontFamily": "Feather",
       "identifier": "navigation"
     },
     "navigation-2": {
-      "codepoint": 57518,
+      "codepoint": 58037,
       "fontFamily": "Feather",
       "identifier": "navigation2"
     },
     "navigation-2-bold": {
-      "codepoint": 58149,
+      "codepoint": 58038,
       "fontFamily": "Feather",
       "identifier": "navigation2Bold"
     },
     "navigation-2-light": {
-      "codepoint": 58150,
+      "codepoint": 58039,
       "fontFamily": "Feather",
       "identifier": "navigation2Light"
     },
     "navigation-2-thin": {
-      "codepoint": 58151,
+      "codepoint": 58040,
       "fontFamily": "Feather",
       "identifier": "navigation2Thin"
     },
     "navigation-bold": {
-      "codepoint": 58152,
+      "codepoint": 58041,
       "fontFamily": "Feather",
       "identifier": "navigationBold"
     },
     "navigation-light": {
-      "codepoint": 58153,
+      "codepoint": 58042,
       "fontFamily": "Feather",
       "identifier": "navigationLight"
     },
     "navigation-thin": {
-      "codepoint": 58154,
+      "codepoint": 58043,
       "fontFamily": "Feather",
       "identifier": "navigationThin"
     },
     "octagon": {
-      "codepoint": 57519,
+      "codepoint": 58044,
       "fontFamily": "Feather",
       "identifier": "octagon"
     },
     "octagon-bold": {
-      "codepoint": 58155,
+      "codepoint": 58045,
       "fontFamily": "Feather",
       "identifier": "octagonBold"
     },
     "octagon-light": {
-      "codepoint": 58156,
+      "codepoint": 58046,
       "fontFamily": "Feather",
       "identifier": "octagonLight"
     },
     "octagon-thin": {
-      "codepoint": 58157,
+      "codepoint": 58047,
       "fontFamily": "Feather",
       "identifier": "octagonThin"
     },
     "package": {
-      "codepoint": 57520,
+      "codepoint": 58048,
       "fontFamily": "Feather",
       "identifier": "package"
     },
     "package-bold": {
-      "codepoint": 58158,
+      "codepoint": 58049,
       "fontFamily": "Feather",
       "identifier": "packageBold"
     },
     "package-light": {
-      "codepoint": 58159,
+      "codepoint": 58050,
       "fontFamily": "Feather",
       "identifier": "packageLight"
     },
     "package-thin": {
-      "codepoint": 58160,
+      "codepoint": 58051,
       "fontFamily": "Feather",
       "identifier": "packageThin"
     },
     "paperclip": {
-      "codepoint": 57521,
+      "codepoint": 58052,
       "fontFamily": "Feather",
       "identifier": "paperclip"
     },
     "paperclip-bold": {
-      "codepoint": 58161,
+      "codepoint": 58053,
       "fontFamily": "Feather",
       "identifier": "paperclipBold"
     },
     "paperclip-light": {
-      "codepoint": 58162,
+      "codepoint": 58054,
       "fontFamily": "Feather",
       "identifier": "paperclipLight"
     },
     "paperclip-thin": {
-      "codepoint": 58163,
+      "codepoint": 58055,
       "fontFamily": "Feather",
       "identifier": "paperclipThin"
     },
     "pause": {
-      "codepoint": 57522,
+      "codepoint": 58056,
       "fontFamily": "Feather",
       "identifier": "pause"
     },
     "pause-bold": {
-      "codepoint": 58164,
+      "codepoint": 58057,
       "fontFamily": "Feather",
       "identifier": "pauseBold"
     },
     "pause-circle": {
-      "codepoint": 57523,
+      "codepoint": 58058,
       "fontFamily": "Feather",
       "identifier": "pauseCircle"
     },
     "pause-circle-bold": {
-      "codepoint": 58165,
+      "codepoint": 58059,
       "fontFamily": "Feather",
       "identifier": "pauseCircleBold"
     },
     "pause-circle-light": {
-      "codepoint": 58166,
+      "codepoint": 58060,
       "fontFamily": "Feather",
       "identifier": "pauseCircleLight"
     },
     "pause-circle-thin": {
-      "codepoint": 58167,
+      "codepoint": 58061,
       "fontFamily": "Feather",
       "identifier": "pauseCircleThin"
     },
     "pause-light": {
-      "codepoint": 58168,
+      "codepoint": 58062,
       "fontFamily": "Feather",
       "identifier": "pauseLight"
     },
     "pause-thin": {
-      "codepoint": 58169,
+      "codepoint": 58063,
       "fontFamily": "Feather",
       "identifier": "pauseThin"
     },
     "pen-tool": {
-      "codepoint": 57524,
+      "codepoint": 58064,
       "fontFamily": "Feather",
       "identifier": "penTool"
     },
     "pen-tool-bold": {
-      "codepoint": 58170,
+      "codepoint": 58065,
       "fontFamily": "Feather",
       "identifier": "penToolBold"
     },
     "pen-tool-light": {
-      "codepoint": 58171,
+      "codepoint": 58066,
       "fontFamily": "Feather",
       "identifier": "penToolLight"
     },
     "pen-tool-thin": {
-      "codepoint": 58172,
+      "codepoint": 58067,
       "fontFamily": "Feather",
       "identifier": "penToolThin"
     },
     "percent": {
-      "codepoint": 57525,
+      "codepoint": 58068,
       "fontFamily": "Feather",
       "identifier": "percent"
     },
     "percent-bold": {
-      "codepoint": 58173,
+      "codepoint": 58069,
       "fontFamily": "Feather",
       "identifier": "percentBold"
     },
     "percent-light": {
-      "codepoint": 58174,
+      "codepoint": 58070,
       "fontFamily": "Feather",
       "identifier": "percentLight"
     },
     "percent-thin": {
-      "codepoint": 58175,
+      "codepoint": 58071,
       "fontFamily": "Feather",
       "identifier": "percentThin"
     },
     "phone": {
-      "codepoint": 57526,
+      "codepoint": 58072,
       "fontFamily": "Feather",
       "identifier": "phone"
     },
     "phone-bold": {
-      "codepoint": 58176,
+      "codepoint": 58073,
       "fontFamily": "Feather",
       "identifier": "phoneBold"
     },
     "phone-call": {
-      "codepoint": 57527,
+      "codepoint": 58074,
       "fontFamily": "Feather",
       "identifier": "phoneCall"
     },
     "phone-call-bold": {
-      "codepoint": 58177,
+      "codepoint": 58075,
       "fontFamily": "Feather",
       "identifier": "phoneCallBold"
     },
     "phone-call-light": {
-      "codepoint": 58178,
+      "codepoint": 58076,
       "fontFamily": "Feather",
       "identifier": "phoneCallLight"
     },
     "phone-call-thin": {
-      "codepoint": 58179,
+      "codepoint": 58077,
       "fontFamily": "Feather",
       "identifier": "phoneCallThin"
     },
     "phone-forwarded": {
-      "codepoint": 57528,
+      "codepoint": 58078,
       "fontFamily": "Feather",
       "identifier": "phoneForwarded"
     },
     "phone-forwarded-bold": {
-      "codepoint": 58180,
+      "codepoint": 58079,
       "fontFamily": "Feather",
       "identifier": "phoneForwardedBold"
     },
     "phone-forwarded-light": {
-      "codepoint": 58181,
+      "codepoint": 58080,
       "fontFamily": "Feather",
       "identifier": "phoneForwardedLight"
     },
     "phone-forwarded-thin": {
-      "codepoint": 58182,
+      "codepoint": 58081,
       "fontFamily": "Feather",
       "identifier": "phoneForwardedThin"
     },
     "phone-incoming": {
-      "codepoint": 57529,
+      "codepoint": 58082,
       "fontFamily": "Feather",
       "identifier": "phoneIncoming"
     },
     "phone-incoming-bold": {
-      "codepoint": 58183,
+      "codepoint": 58083,
       "fontFamily": "Feather",
       "identifier": "phoneIncomingBold"
     },
     "phone-incoming-light": {
-      "codepoint": 58184,
+      "codepoint": 58084,
       "fontFamily": "Feather",
       "identifier": "phoneIncomingLight"
     },
     "phone-incoming-thin": {
-      "codepoint": 58185,
+      "codepoint": 58085,
       "fontFamily": "Feather",
       "identifier": "phoneIncomingThin"
     },
     "phone-light": {
-      "codepoint": 58186,
+      "codepoint": 58086,
       "fontFamily": "Feather",
       "identifier": "phoneLight"
     },
     "phone-missed": {
-      "codepoint": 57530,
+      "codepoint": 58087,
       "fontFamily": "Feather",
       "identifier": "phoneMissed"
     },
     "phone-missed-bold": {
-      "codepoint": 58187,
+      "codepoint": 58088,
       "fontFamily": "Feather",
       "identifier": "phoneMissedBold"
     },
     "phone-missed-light": {
-      "codepoint": 58188,
+      "codepoint": 58089,
       "fontFamily": "Feather",
       "identifier": "phoneMissedLight"
     },
     "phone-missed-thin": {
-      "codepoint": 58189,
+      "codepoint": 58090,
       "fontFamily": "Feather",
       "identifier": "phoneMissedThin"
     },
     "phone-off": {
-      "codepoint": 57531,
+      "codepoint": 58091,
       "fontFamily": "Feather",
       "identifier": "phoneOff"
     },
     "phone-off-bold": {
-      "codepoint": 58190,
+      "codepoint": 58092,
       "fontFamily": "Feather",
       "identifier": "phoneOffBold"
     },
     "phone-off-light": {
-      "codepoint": 58191,
+      "codepoint": 58093,
       "fontFamily": "Feather",
       "identifier": "phoneOffLight"
     },
     "phone-off-thin": {
-      "codepoint": 58192,
+      "codepoint": 58094,
       "fontFamily": "Feather",
       "identifier": "phoneOffThin"
     },
     "phone-outgoing": {
-      "codepoint": 57532,
+      "codepoint": 58095,
       "fontFamily": "Feather",
       "identifier": "phoneOutgoing"
     },
     "phone-outgoing-bold": {
-      "codepoint": 58193,
+      "codepoint": 58096,
       "fontFamily": "Feather",
       "identifier": "phoneOutgoingBold"
     },
     "phone-outgoing-light": {
-      "codepoint": 58194,
+      "codepoint": 58097,
       "fontFamily": "Feather",
       "identifier": "phoneOutgoingLight"
     },
     "phone-outgoing-thin": {
-      "codepoint": 58195,
+      "codepoint": 58098,
       "fontFamily": "Feather",
       "identifier": "phoneOutgoingThin"
     },
     "phone-thin": {
-      "codepoint": 58196,
+      "codepoint": 58099,
       "fontFamily": "Feather",
       "identifier": "phoneThin"
     },
     "pie-chart": {
-      "codepoint": 57533,
+      "codepoint": 58100,
       "fontFamily": "Feather",
       "identifier": "pieChart"
     },
     "pie-chart-bold": {
-      "codepoint": 58197,
+      "codepoint": 58101,
       "fontFamily": "Feather",
       "identifier": "pieChartBold"
     },
     "pie-chart-light": {
-      "codepoint": 58198,
+      "codepoint": 58102,
       "fontFamily": "Feather",
       "identifier": "pieChartLight"
     },
     "pie-chart-thin": {
-      "codepoint": 58199,
+      "codepoint": 58103,
       "fontFamily": "Feather",
       "identifier": "pieChartThin"
     },
     "play": {
-      "codepoint": 57534,
+      "codepoint": 58104,
       "fontFamily": "Feather",
       "identifier": "play"
     },
     "play-bold": {
-      "codepoint": 58200,
+      "codepoint": 58105,
       "fontFamily": "Feather",
       "identifier": "playBold"
     },
     "play-circle": {
-      "codepoint": 57535,
+      "codepoint": 58106,
       "fontFamily": "Feather",
       "identifier": "playCircle"
     },
     "play-circle-bold": {
-      "codepoint": 58201,
+      "codepoint": 58107,
       "fontFamily": "Feather",
       "identifier": "playCircleBold"
     },
     "play-circle-light": {
-      "codepoint": 58202,
+      "codepoint": 58108,
       "fontFamily": "Feather",
       "identifier": "playCircleLight"
     },
     "play-circle-thin": {
-      "codepoint": 58203,
+      "codepoint": 58109,
       "fontFamily": "Feather",
       "identifier": "playCircleThin"
     },
     "play-light": {
-      "codepoint": 58204,
+      "codepoint": 58110,
       "fontFamily": "Feather",
       "identifier": "playLight"
     },
     "play-thin": {
-      "codepoint": 58205,
+      "codepoint": 58111,
       "fontFamily": "Feather",
       "identifier": "playThin"
     },
     "plus": {
-      "codepoint": 57536,
+      "codepoint": 58112,
       "fontFamily": "Feather",
       "identifier": "plus"
     },
     "plus-bold": {
-      "codepoint": 58206,
+      "codepoint": 58113,
       "fontFamily": "Feather",
       "identifier": "plusBold"
     },
     "plus-circle": {
-      "codepoint": 57537,
+      "codepoint": 58114,
       "fontFamily": "Feather",
       "identifier": "plusCircle"
     },
     "plus-circle-bold": {
-      "codepoint": 58207,
+      "codepoint": 58115,
       "fontFamily": "Feather",
       "identifier": "plusCircleBold"
     },
     "plus-circle-light": {
-      "codepoint": 58208,
+      "codepoint": 58116,
       "fontFamily": "Feather",
       "identifier": "plusCircleLight"
     },
     "plus-circle-thin": {
-      "codepoint": 58209,
+      "codepoint": 58117,
       "fontFamily": "Feather",
       "identifier": "plusCircleThin"
     },
     "plus-light": {
-      "codepoint": 58210,
+      "codepoint": 58118,
       "fontFamily": "Feather",
       "identifier": "plusLight"
     },
     "plus-square": {
-      "codepoint": 57538,
+      "codepoint": 58119,
       "fontFamily": "Feather",
       "identifier": "plusSquare"
     },
     "plus-square-bold": {
-      "codepoint": 58211,
+      "codepoint": 58120,
       "fontFamily": "Feather",
       "identifier": "plusSquareBold"
     },
     "plus-square-light": {
-      "codepoint": 58212,
+      "codepoint": 58121,
       "fontFamily": "Feather",
       "identifier": "plusSquareLight"
     },
     "plus-square-thin": {
-      "codepoint": 58213,
+      "codepoint": 58122,
       "fontFamily": "Feather",
       "identifier": "plusSquareThin"
     },
     "plus-thin": {
-      "codepoint": 58214,
+      "codepoint": 58123,
       "fontFamily": "Feather",
       "identifier": "plusThin"
     },
     "pocket": {
-      "codepoint": 57539,
+      "codepoint": 58124,
       "fontFamily": "Feather",
       "identifier": "pocket"
     },
     "pocket-bold": {
-      "codepoint": 58215,
+      "codepoint": 58125,
       "fontFamily": "Feather",
       "identifier": "pocketBold"
     },
     "pocket-light": {
-      "codepoint": 58216,
+      "codepoint": 58126,
       "fontFamily": "Feather",
       "identifier": "pocketLight"
     },
     "pocket-thin": {
-      "codepoint": 58217,
+      "codepoint": 58127,
       "fontFamily": "Feather",
       "identifier": "pocketThin"
     },
     "power": {
-      "codepoint": 57540,
+      "codepoint": 58128,
       "fontFamily": "Feather",
       "identifier": "power"
     },
     "power-bold": {
-      "codepoint": 58218,
+      "codepoint": 58129,
       "fontFamily": "Feather",
       "identifier": "powerBold"
     },
     "power-light": {
-      "codepoint": 58219,
+      "codepoint": 58130,
       "fontFamily": "Feather",
       "identifier": "powerLight"
     },
     "power-thin": {
-      "codepoint": 58220,
+      "codepoint": 58131,
       "fontFamily": "Feather",
       "identifier": "powerThin"
     },
     "printer": {
-      "codepoint": 57541,
+      "codepoint": 58132,
       "fontFamily": "Feather",
       "identifier": "printer"
     },
     "printer-bold": {
-      "codepoint": 58221,
+      "codepoint": 58133,
       "fontFamily": "Feather",
       "identifier": "printerBold"
     },
     "printer-light": {
-      "codepoint": 58222,
+      "codepoint": 58134,
       "fontFamily": "Feather",
       "identifier": "printerLight"
     },
     "printer-thin": {
-      "codepoint": 58223,
+      "codepoint": 58135,
       "fontFamily": "Feather",
       "identifier": "printerThin"
     },
     "radio": {
-      "codepoint": 57542,
+      "codepoint": 58136,
       "fontFamily": "Feather",
       "identifier": "radio"
     },
     "radio-bold": {
-      "codepoint": 58224,
+      "codepoint": 58137,
       "fontFamily": "Feather",
       "identifier": "radioBold"
     },
     "radio-light": {
-      "codepoint": 58225,
+      "codepoint": 58138,
       "fontFamily": "Feather",
       "identifier": "radioLight"
     },
     "radio-thin": {
-      "codepoint": 58226,
+      "codepoint": 58139,
       "fontFamily": "Feather",
       "identifier": "radioThin"
     },
     "refresh-ccw": {
-      "codepoint": 57543,
+      "codepoint": 58140,
       "fontFamily": "Feather",
       "identifier": "refreshCcw"
     },
     "refresh-ccw-bold": {
-      "codepoint": 58227,
+      "codepoint": 58141,
       "fontFamily": "Feather",
       "identifier": "refreshCcwBold"
     },
     "refresh-ccw-light": {
-      "codepoint": 58228,
+      "codepoint": 58142,
       "fontFamily": "Feather",
       "identifier": "refreshCcwLight"
     },
     "refresh-ccw-thin": {
-      "codepoint": 58229,
+      "codepoint": 58143,
       "fontFamily": "Feather",
       "identifier": "refreshCcwThin"
     },
     "refresh-cw": {
-      "codepoint": 57544,
+      "codepoint": 58144,
       "fontFamily": "Feather",
       "identifier": "refreshCw"
     },
     "refresh-cw-bold": {
-      "codepoint": 58230,
+      "codepoint": 58145,
       "fontFamily": "Feather",
       "identifier": "refreshCwBold"
     },
     "refresh-cw-light": {
-      "codepoint": 58231,
+      "codepoint": 58146,
       "fontFamily": "Feather",
       "identifier": "refreshCwLight"
     },
     "refresh-cw-thin": {
-      "codepoint": 58232,
+      "codepoint": 58147,
       "fontFamily": "Feather",
       "identifier": "refreshCwThin"
     },
     "repeat": {
-      "codepoint": 57545,
+      "codepoint": 58148,
       "fontFamily": "Feather",
       "identifier": "repeat"
     },
     "repeat-bold": {
-      "codepoint": 58233,
+      "codepoint": 58149,
       "fontFamily": "Feather",
       "identifier": "repeatBold"
     },
     "repeat-light": {
-      "codepoint": 58234,
+      "codepoint": 58150,
       "fontFamily": "Feather",
       "identifier": "repeatLight"
     },
     "repeat-thin": {
-      "codepoint": 58235,
+      "codepoint": 58151,
       "fontFamily": "Feather",
       "identifier": "repeatThin"
     },
     "rewind": {
-      "codepoint": 57546,
+      "codepoint": 58152,
       "fontFamily": "Feather",
       "identifier": "rewind"
     },
     "rewind-bold": {
-      "codepoint": 58236,
+      "codepoint": 58153,
       "fontFamily": "Feather",
       "identifier": "rewindBold"
     },
     "rewind-light": {
-      "codepoint": 58237,
+      "codepoint": 58154,
       "fontFamily": "Feather",
       "identifier": "rewindLight"
     },
     "rewind-thin": {
-      "codepoint": 58238,
+      "codepoint": 58155,
       "fontFamily": "Feather",
       "identifier": "rewindThin"
     },
     "rotate-ccw": {
-      "codepoint": 57547,
+      "codepoint": 58156,
       "fontFamily": "Feather",
       "identifier": "rotateCcw"
     },
     "rotate-ccw-bold": {
-      "codepoint": 58239,
+      "codepoint": 58157,
       "fontFamily": "Feather",
       "identifier": "rotateCcwBold"
     },
     "rotate-ccw-light": {
-      "codepoint": 58240,
+      "codepoint": 58158,
       "fontFamily": "Feather",
       "identifier": "rotateCcwLight"
     },
     "rotate-ccw-thin": {
-      "codepoint": 58241,
+      "codepoint": 58159,
       "fontFamily": "Feather",
       "identifier": "rotateCcwThin"
     },
     "rotate-cw": {
-      "codepoint": 57548,
+      "codepoint": 58160,
       "fontFamily": "Feather",
       "identifier": "rotateCw"
     },
     "rotate-cw-bold": {
-      "codepoint": 58242,
+      "codepoint": 58161,
       "fontFamily": "Feather",
       "identifier": "rotateCwBold"
     },
     "rotate-cw-light": {
-      "codepoint": 58243,
+      "codepoint": 58162,
       "fontFamily": "Feather",
       "identifier": "rotateCwLight"
     },
     "rotate-cw-thin": {
-      "codepoint": 58244,
+      "codepoint": 58163,
       "fontFamily": "Feather",
       "identifier": "rotateCwThin"
     },
     "rss": {
-      "codepoint": 57549,
+      "codepoint": 58164,
       "fontFamily": "Feather",
       "identifier": "rss"
     },
     "rss-bold": {
-      "codepoint": 58245,
+      "codepoint": 58165,
       "fontFamily": "Feather",
       "identifier": "rssBold"
     },
     "rss-light": {
-      "codepoint": 58246,
+      "codepoint": 58166,
       "fontFamily": "Feather",
       "identifier": "rssLight"
     },
     "rss-thin": {
-      "codepoint": 58247,
+      "codepoint": 58167,
       "fontFamily": "Feather",
       "identifier": "rssThin"
     },
     "save": {
-      "codepoint": 57550,
+      "codepoint": 58168,
       "fontFamily": "Feather",
       "identifier": "save"
     },
     "save-bold": {
-      "codepoint": 58248,
+      "codepoint": 58169,
       "fontFamily": "Feather",
       "identifier": "saveBold"
     },
     "save-light": {
-      "codepoint": 58249,
+      "codepoint": 58170,
       "fontFamily": "Feather",
       "identifier": "saveLight"
     },
     "save-thin": {
-      "codepoint": 58250,
+      "codepoint": 58171,
       "fontFamily": "Feather",
       "identifier": "saveThin"
     },
     "scissors": {
-      "codepoint": 57551,
+      "codepoint": 58172,
       "fontFamily": "Feather",
       "identifier": "scissors"
     },
     "scissors-bold": {
-      "codepoint": 58251,
+      "codepoint": 58173,
       "fontFamily": "Feather",
       "identifier": "scissorsBold"
     },
     "scissors-light": {
-      "codepoint": 58252,
+      "codepoint": 58174,
       "fontFamily": "Feather",
       "identifier": "scissorsLight"
     },
     "scissors-thin": {
-      "codepoint": 58253,
+      "codepoint": 58175,
       "fontFamily": "Feather",
       "identifier": "scissorsThin"
     },
     "search": {
-      "codepoint": 57552,
+      "codepoint": 58176,
       "fontFamily": "Feather",
       "identifier": "search"
     },
     "search-bold": {
-      "codepoint": 58254,
+      "codepoint": 58177,
       "fontFamily": "Feather",
       "identifier": "searchBold"
     },
     "search-light": {
-      "codepoint": 58255,
+      "codepoint": 58178,
       "fontFamily": "Feather",
       "identifier": "searchLight"
     },
     "search-thin": {
-      "codepoint": 58256,
+      "codepoint": 58179,
       "fontFamily": "Feather",
       "identifier": "searchThin"
     },
     "send": {
-      "codepoint": 57553,
+      "codepoint": 58180,
       "fontFamily": "Feather",
       "identifier": "send"
     },
     "send-bold": {
-      "codepoint": 58257,
+      "codepoint": 58181,
       "fontFamily": "Feather",
       "identifier": "sendBold"
     },
     "send-light": {
-      "codepoint": 58258,
+      "codepoint": 58182,
       "fontFamily": "Feather",
       "identifier": "sendLight"
     },
     "send-thin": {
-      "codepoint": 58259,
+      "codepoint": 58183,
       "fontFamily": "Feather",
       "identifier": "sendThin"
     },
     "server": {
-      "codepoint": 57554,
+      "codepoint": 58184,
       "fontFamily": "Feather",
       "identifier": "server"
     },
     "server-bold": {
-      "codepoint": 58260,
+      "codepoint": 58185,
       "fontFamily": "Feather",
       "identifier": "serverBold"
     },
     "server-light": {
-      "codepoint": 58261,
+      "codepoint": 58186,
       "fontFamily": "Feather",
       "identifier": "serverLight"
     },
     "server-thin": {
-      "codepoint": 58262,
+      "codepoint": 58187,
       "fontFamily": "Feather",
       "identifier": "serverThin"
     },
     "settings": {
-      "codepoint": 57555,
+      "codepoint": 58188,
       "fontFamily": "Feather",
       "identifier": "settings"
     },
     "settings-bold": {
-      "codepoint": 58263,
+      "codepoint": 58189,
       "fontFamily": "Feather",
       "identifier": "settingsBold"
     },
     "settings-light": {
-      "codepoint": 58264,
+      "codepoint": 58190,
       "fontFamily": "Feather",
       "identifier": "settingsLight"
     },
     "settings-thin": {
-      "codepoint": 58265,
+      "codepoint": 58191,
       "fontFamily": "Feather",
       "identifier": "settingsThin"
     },
     "share": {
-      "codepoint": 57556,
+      "codepoint": 58192,
       "fontFamily": "Feather",
       "identifier": "share"
     },
     "share-2": {
-      "codepoint": 57557,
+      "codepoint": 58193,
       "fontFamily": "Feather",
       "identifier": "share2"
     },
     "share-2-bold": {
-      "codepoint": 58266,
+      "codepoint": 58194,
       "fontFamily": "Feather",
       "identifier": "share2Bold"
     },
     "share-2-light": {
-      "codepoint": 58267,
+      "codepoint": 58195,
       "fontFamily": "Feather",
       "identifier": "share2Light"
     },
     "share-2-thin": {
-      "codepoint": 58268,
+      "codepoint": 58196,
       "fontFamily": "Feather",
       "identifier": "share2Thin"
     },
     "share-bold": {
-      "codepoint": 58269,
+      "codepoint": 58197,
       "fontFamily": "Feather",
       "identifier": "shareBold"
     },
     "share-light": {
-      "codepoint": 58270,
+      "codepoint": 58198,
       "fontFamily": "Feather",
       "identifier": "shareLight"
     },
     "share-thin": {
-      "codepoint": 58271,
+      "codepoint": 58199,
       "fontFamily": "Feather",
       "identifier": "shareThin"
     },
     "shield": {
-      "codepoint": 57558,
+      "codepoint": 58200,
       "fontFamily": "Feather",
       "identifier": "shield"
     },
     "shield-bold": {
-      "codepoint": 58272,
+      "codepoint": 58201,
       "fontFamily": "Feather",
       "identifier": "shieldBold"
     },
     "shield-light": {
-      "codepoint": 58273,
+      "codepoint": 58202,
       "fontFamily": "Feather",
       "identifier": "shieldLight"
     },
     "shield-off": {
-      "codepoint": 57559,
+      "codepoint": 58203,
       "fontFamily": "Feather",
       "identifier": "shieldOff"
     },
     "shield-off-bold": {
-      "codepoint": 58274,
+      "codepoint": 58204,
       "fontFamily": "Feather",
       "identifier": "shieldOffBold"
     },
     "shield-off-light": {
-      "codepoint": 58275,
+      "codepoint": 58205,
       "fontFamily": "Feather",
       "identifier": "shieldOffLight"
     },
     "shield-off-thin": {
-      "codepoint": 58276,
+      "codepoint": 58206,
       "fontFamily": "Feather",
       "identifier": "shieldOffThin"
     },
     "shield-thin": {
-      "codepoint": 58277,
+      "codepoint": 58207,
       "fontFamily": "Feather",
       "identifier": "shieldThin"
     },
     "shopping-bag": {
-      "codepoint": 57560,
+      "codepoint": 58208,
       "fontFamily": "Feather",
       "identifier": "shoppingBag"
     },
     "shopping-bag-bold": {
-      "codepoint": 58278,
+      "codepoint": 58209,
       "fontFamily": "Feather",
       "identifier": "shoppingBagBold"
     },
     "shopping-bag-light": {
-      "codepoint": 58279,
+      "codepoint": 58210,
       "fontFamily": "Feather",
       "identifier": "shoppingBagLight"
     },
     "shopping-bag-thin": {
-      "codepoint": 58280,
+      "codepoint": 58211,
       "fontFamily": "Feather",
       "identifier": "shoppingBagThin"
     },
     "shopping-cart": {
-      "codepoint": 57561,
+      "codepoint": 58212,
       "fontFamily": "Feather",
       "identifier": "shoppingCart"
     },
     "shopping-cart-bold": {
-      "codepoint": 58281,
+      "codepoint": 58213,
       "fontFamily": "Feather",
       "identifier": "shoppingCartBold"
     },
     "shopping-cart-light": {
-      "codepoint": 58282,
+      "codepoint": 58214,
       "fontFamily": "Feather",
       "identifier": "shoppingCartLight"
     },
     "shopping-cart-thin": {
-      "codepoint": 58283,
+      "codepoint": 58215,
       "fontFamily": "Feather",
       "identifier": "shoppingCartThin"
     },
     "shuffle": {
-      "codepoint": 57562,
+      "codepoint": 58216,
       "fontFamily": "Feather",
       "identifier": "shuffle"
     },
     "shuffle-bold": {
-      "codepoint": 58284,
+      "codepoint": 58217,
       "fontFamily": "Feather",
       "identifier": "shuffleBold"
     },
     "shuffle-light": {
-      "codepoint": 58285,
+      "codepoint": 58218,
       "fontFamily": "Feather",
       "identifier": "shuffleLight"
     },
     "shuffle-thin": {
-      "codepoint": 58286,
+      "codepoint": 58219,
       "fontFamily": "Feather",
       "identifier": "shuffleThin"
     },
     "sidebar": {
-      "codepoint": 57563,
+      "codepoint": 58220,
       "fontFamily": "Feather",
       "identifier": "sidebar"
     },
     "sidebar-bold": {
-      "codepoint": 58287,
+      "codepoint": 58221,
       "fontFamily": "Feather",
       "identifier": "sidebarBold"
     },
     "sidebar-light": {
-      "codepoint": 58288,
+      "codepoint": 58222,
       "fontFamily": "Feather",
       "identifier": "sidebarLight"
     },
     "sidebar-thin": {
-      "codepoint": 58289,
+      "codepoint": 58223,
       "fontFamily": "Feather",
       "identifier": "sidebarThin"
     },
     "skip-back": {
-      "codepoint": 57564,
+      "codepoint": 58224,
       "fontFamily": "Feather",
       "identifier": "skipBack"
     },
     "skip-back-bold": {
-      "codepoint": 58290,
+      "codepoint": 58225,
       "fontFamily": "Feather",
       "identifier": "skipBackBold"
     },
     "skip-back-light": {
-      "codepoint": 58291,
+      "codepoint": 58226,
       "fontFamily": "Feather",
       "identifier": "skipBackLight"
     },
     "skip-back-thin": {
-      "codepoint": 58292,
+      "codepoint": 58227,
       "fontFamily": "Feather",
       "identifier": "skipBackThin"
     },
     "skip-forward": {
-      "codepoint": 57565,
+      "codepoint": 58228,
       "fontFamily": "Feather",
       "identifier": "skipForward"
     },
     "skip-forward-bold": {
-      "codepoint": 58293,
+      "codepoint": 58229,
       "fontFamily": "Feather",
       "identifier": "skipForwardBold"
     },
     "skip-forward-light": {
-      "codepoint": 58294,
+      "codepoint": 58230,
       "fontFamily": "Feather",
       "identifier": "skipForwardLight"
     },
     "skip-forward-thin": {
-      "codepoint": 58295,
+      "codepoint": 58231,
       "fontFamily": "Feather",
       "identifier": "skipForwardThin"
     },
     "slack": {
-      "codepoint": 57566,
+      "codepoint": 58232,
       "fontFamily": "Feather",
       "identifier": "slack"
     },
     "slack-bold": {
-      "codepoint": 58296,
+      "codepoint": 58233,
       "fontFamily": "Feather",
       "identifier": "slackBold"
     },
     "slack-light": {
-      "codepoint": 58297,
+      "codepoint": 58234,
       "fontFamily": "Feather",
       "identifier": "slackLight"
     },
     "slack-thin": {
-      "codepoint": 58298,
+      "codepoint": 58235,
       "fontFamily": "Feather",
       "identifier": "slackThin"
     },
     "slash": {
-      "codepoint": 57567,
+      "codepoint": 58236,
       "fontFamily": "Feather",
       "identifier": "slash"
     },
     "slash-bold": {
-      "codepoint": 58299,
+      "codepoint": 58237,
       "fontFamily": "Feather",
       "identifier": "slashBold"
     },
     "slash-light": {
-      "codepoint": 58300,
+      "codepoint": 58238,
       "fontFamily": "Feather",
       "identifier": "slashLight"
     },
     "slash-thin": {
-      "codepoint": 58301,
+      "codepoint": 58239,
       "fontFamily": "Feather",
       "identifier": "slashThin"
     },
     "sliders": {
-      "codepoint": 57568,
+      "codepoint": 58240,
       "fontFamily": "Feather",
       "identifier": "sliders"
     },
     "sliders-bold": {
-      "codepoint": 58302,
+      "codepoint": 58241,
       "fontFamily": "Feather",
       "identifier": "slidersBold"
     },
     "sliders-light": {
-      "codepoint": 58303,
+      "codepoint": 58242,
       "fontFamily": "Feather",
       "identifier": "slidersLight"
     },
     "sliders-thin": {
-      "codepoint": 58304,
+      "codepoint": 58243,
       "fontFamily": "Feather",
       "identifier": "slidersThin"
     },
     "smartphone": {
-      "codepoint": 57569,
+      "codepoint": 58244,
       "fontFamily": "Feather",
       "identifier": "smartphone"
     },
     "smartphone-bold": {
-      "codepoint": 58305,
+      "codepoint": 58245,
       "fontFamily": "Feather",
       "identifier": "smartphoneBold"
     },
     "smartphone-light": {
-      "codepoint": 58306,
+      "codepoint": 58246,
       "fontFamily": "Feather",
       "identifier": "smartphoneLight"
     },
     "smartphone-thin": {
-      "codepoint": 58307,
+      "codepoint": 58247,
       "fontFamily": "Feather",
       "identifier": "smartphoneThin"
     },
     "smile": {
-      "codepoint": 57570,
+      "codepoint": 58248,
       "fontFamily": "Feather",
       "identifier": "smile"
     },
     "smile-bold": {
-      "codepoint": 58308,
+      "codepoint": 58249,
       "fontFamily": "Feather",
       "identifier": "smileBold"
     },
     "smile-light": {
-      "codepoint": 58309,
+      "codepoint": 58250,
       "fontFamily": "Feather",
       "identifier": "smileLight"
     },
     "smile-thin": {
-      "codepoint": 58310,
+      "codepoint": 58251,
       "fontFamily": "Feather",
       "identifier": "smileThin"
     },
     "speaker": {
-      "codepoint": 57571,
+      "codepoint": 58252,
       "fontFamily": "Feather",
       "identifier": "speaker"
     },
     "speaker-bold": {
-      "codepoint": 58311,
+      "codepoint": 58253,
       "fontFamily": "Feather",
       "identifier": "speakerBold"
     },
     "speaker-light": {
-      "codepoint": 58312,
+      "codepoint": 58254,
       "fontFamily": "Feather",
       "identifier": "speakerLight"
     },
     "speaker-thin": {
-      "codepoint": 58313,
+      "codepoint": 58255,
       "fontFamily": "Feather",
       "identifier": "speakerThin"
     },
     "square": {
-      "codepoint": 57572,
+      "codepoint": 58256,
       "fontFamily": "Feather",
       "identifier": "square"
     },
     "square-bold": {
-      "codepoint": 58314,
+      "codepoint": 58257,
       "fontFamily": "Feather",
       "identifier": "squareBold"
     },
     "square-light": {
-      "codepoint": 58315,
+      "codepoint": 58258,
       "fontFamily": "Feather",
       "identifier": "squareLight"
     },
     "square-thin": {
-      "codepoint": 58316,
+      "codepoint": 58259,
       "fontFamily": "Feather",
       "identifier": "squareThin"
     },
     "star": {
-      "codepoint": 57573,
+      "codepoint": 58260,
       "fontFamily": "Feather",
       "identifier": "star"
     },
     "star-bold": {
-      "codepoint": 58317,
+      "codepoint": 58261,
       "fontFamily": "Feather",
       "identifier": "starBold"
     },
     "star-light": {
-      "codepoint": 58318,
+      "codepoint": 58262,
       "fontFamily": "Feather",
       "identifier": "starLight"
     },
     "star-thin": {
-      "codepoint": 58319,
+      "codepoint": 58263,
       "fontFamily": "Feather",
       "identifier": "starThin"
     },
     "stop-circle": {
-      "codepoint": 57574,
+      "codepoint": 58264,
       "fontFamily": "Feather",
       "identifier": "stopCircle"
     },
     "stop-circle-bold": {
-      "codepoint": 58320,
+      "codepoint": 58265,
       "fontFamily": "Feather",
       "identifier": "stopCircleBold"
     },
     "stop-circle-light": {
-      "codepoint": 58321,
+      "codepoint": 58266,
       "fontFamily": "Feather",
       "identifier": "stopCircleLight"
     },
     "stop-circle-thin": {
-      "codepoint": 58322,
+      "codepoint": 58267,
       "fontFamily": "Feather",
       "identifier": "stopCircleThin"
     },
     "sun": {
-      "codepoint": 57575,
+      "codepoint": 58268,
       "fontFamily": "Feather",
       "identifier": "sun"
     },
     "sun-bold": {
-      "codepoint": 58323,
+      "codepoint": 58269,
       "fontFamily": "Feather",
       "identifier": "sunBold"
     },
     "sun-light": {
-      "codepoint": 58324,
+      "codepoint": 58270,
       "fontFamily": "Feather",
       "identifier": "sunLight"
     },
     "sun-thin": {
-      "codepoint": 58325,
+      "codepoint": 58271,
       "fontFamily": "Feather",
       "identifier": "sunThin"
     },
     "sunrise": {
-      "codepoint": 57576,
+      "codepoint": 58272,
       "fontFamily": "Feather",
       "identifier": "sunrise"
     },
     "sunrise-bold": {
-      "codepoint": 58326,
+      "codepoint": 58273,
       "fontFamily": "Feather",
       "identifier": "sunriseBold"
     },
     "sunrise-light": {
-      "codepoint": 58327,
+      "codepoint": 58274,
       "fontFamily": "Feather",
       "identifier": "sunriseLight"
     },
     "sunrise-thin": {
-      "codepoint": 58328,
+      "codepoint": 58275,
       "fontFamily": "Feather",
       "identifier": "sunriseThin"
     },
     "sunset": {
-      "codepoint": 57577,
+      "codepoint": 58276,
       "fontFamily": "Feather",
       "identifier": "sunset"
     },
     "sunset-bold": {
-      "codepoint": 58329,
+      "codepoint": 58277,
       "fontFamily": "Feather",
       "identifier": "sunsetBold"
     },
     "sunset-light": {
-      "codepoint": 58330,
+      "codepoint": 58278,
       "fontFamily": "Feather",
       "identifier": "sunsetLight"
     },
     "sunset-thin": {
-      "codepoint": 58331,
+      "codepoint": 58279,
       "fontFamily": "Feather",
       "identifier": "sunsetThin"
     },
     "tablet": {
-      "codepoint": 57578,
+      "codepoint": 58280,
       "fontFamily": "Feather",
       "identifier": "tablet"
     },
     "tablet-bold": {
-      "codepoint": 58332,
+      "codepoint": 58281,
       "fontFamily": "Feather",
       "identifier": "tabletBold"
     },
     "tablet-light": {
-      "codepoint": 58333,
+      "codepoint": 58282,
       "fontFamily": "Feather",
       "identifier": "tabletLight"
     },
     "tablet-thin": {
-      "codepoint": 58334,
+      "codepoint": 58283,
       "fontFamily": "Feather",
       "identifier": "tabletThin"
     },
     "tag": {
-      "codepoint": 57579,
+      "codepoint": 58284,
       "fontFamily": "Feather",
       "identifier": "tag"
     },
     "tag-bold": {
-      "codepoint": 58335,
+      "codepoint": 58285,
       "fontFamily": "Feather",
       "identifier": "tagBold"
     },
     "tag-light": {
-      "codepoint": 58336,
+      "codepoint": 58286,
       "fontFamily": "Feather",
       "identifier": "tagLight"
     },
     "tag-thin": {
-      "codepoint": 58337,
+      "codepoint": 58287,
       "fontFamily": "Feather",
       "identifier": "tagThin"
     },
     "target": {
-      "codepoint": 57580,
+      "codepoint": 58288,
       "fontFamily": "Feather",
       "identifier": "target"
     },
     "target-bold": {
-      "codepoint": 58338,
+      "codepoint": 58289,
       "fontFamily": "Feather",
       "identifier": "targetBold"
     },
     "target-light": {
-      "codepoint": 58339,
+      "codepoint": 58290,
       "fontFamily": "Feather",
       "identifier": "targetLight"
     },
     "target-thin": {
-      "codepoint": 58340,
+      "codepoint": 58291,
       "fontFamily": "Feather",
       "identifier": "targetThin"
     },
     "terminal": {
-      "codepoint": 57581,
+      "codepoint": 58292,
       "fontFamily": "Feather",
       "identifier": "terminal"
     },
     "terminal-bold": {
-      "codepoint": 58341,
+      "codepoint": 58293,
       "fontFamily": "Feather",
       "identifier": "terminalBold"
     },
     "terminal-light": {
-      "codepoint": 58342,
+      "codepoint": 58294,
       "fontFamily": "Feather",
       "identifier": "terminalLight"
     },
     "terminal-thin": {
-      "codepoint": 58343,
+      "codepoint": 58295,
       "fontFamily": "Feather",
       "identifier": "terminalThin"
     },
     "thermometer": {
-      "codepoint": 57582,
+      "codepoint": 58296,
       "fontFamily": "Feather",
       "identifier": "thermometer"
     },
     "thermometer-bold": {
-      "codepoint": 58344,
+      "codepoint": 58297,
       "fontFamily": "Feather",
       "identifier": "thermometerBold"
     },
     "thermometer-light": {
-      "codepoint": 58345,
+      "codepoint": 58298,
       "fontFamily": "Feather",
       "identifier": "thermometerLight"
     },
     "thermometer-thin": {
-      "codepoint": 58346,
+      "codepoint": 58299,
       "fontFamily": "Feather",
       "identifier": "thermometerThin"
     },
     "thumbs-down": {
-      "codepoint": 57583,
+      "codepoint": 58300,
       "fontFamily": "Feather",
       "identifier": "thumbsDown"
     },
     "thumbs-down-bold": {
-      "codepoint": 58347,
+      "codepoint": 58301,
       "fontFamily": "Feather",
       "identifier": "thumbsDownBold"
     },
     "thumbs-down-light": {
-      "codepoint": 58348,
+      "codepoint": 58302,
       "fontFamily": "Feather",
       "identifier": "thumbsDownLight"
     },
     "thumbs-down-thin": {
-      "codepoint": 58349,
+      "codepoint": 58303,
       "fontFamily": "Feather",
       "identifier": "thumbsDownThin"
     },
     "thumbs-up": {
-      "codepoint": 57584,
+      "codepoint": 58304,
       "fontFamily": "Feather",
       "identifier": "thumbsUp"
     },
     "thumbs-up-bold": {
-      "codepoint": 58350,
+      "codepoint": 58305,
       "fontFamily": "Feather",
       "identifier": "thumbsUpBold"
     },
     "thumbs-up-light": {
-      "codepoint": 58351,
+      "codepoint": 58306,
       "fontFamily": "Feather",
       "identifier": "thumbsUpLight"
     },
     "thumbs-up-thin": {
-      "codepoint": 58352,
+      "codepoint": 58307,
       "fontFamily": "Feather",
       "identifier": "thumbsUpThin"
     },
     "toggle-left": {
-      "codepoint": 57585,
+      "codepoint": 58308,
       "fontFamily": "Feather",
       "identifier": "toggleLeft"
     },
     "toggle-left-bold": {
-      "codepoint": 58353,
+      "codepoint": 58309,
       "fontFamily": "Feather",
       "identifier": "toggleLeftBold"
     },
     "toggle-left-light": {
-      "codepoint": 58354,
+      "codepoint": 58310,
       "fontFamily": "Feather",
       "identifier": "toggleLeftLight"
     },
     "toggle-left-thin": {
-      "codepoint": 58355,
+      "codepoint": 58311,
       "fontFamily": "Feather",
       "identifier": "toggleLeftThin"
     },
     "toggle-right": {
-      "codepoint": 57586,
+      "codepoint": 58312,
       "fontFamily": "Feather",
       "identifier": "toggleRight"
     },
     "toggle-right-bold": {
-      "codepoint": 58356,
+      "codepoint": 58313,
       "fontFamily": "Feather",
       "identifier": "toggleRightBold"
     },
     "toggle-right-light": {
-      "codepoint": 58357,
+      "codepoint": 58314,
       "fontFamily": "Feather",
       "identifier": "toggleRightLight"
     },
     "toggle-right-thin": {
-      "codepoint": 58358,
+      "codepoint": 58315,
       "fontFamily": "Feather",
       "identifier": "toggleRightThin"
     },
     "tool": {
-      "codepoint": 57587,
+      "codepoint": 58316,
       "fontFamily": "Feather",
       "identifier": "tool"
     },
     "tool-bold": {
-      "codepoint": 58359,
+      "codepoint": 58317,
       "fontFamily": "Feather",
       "identifier": "toolBold"
     },
     "tool-light": {
-      "codepoint": 58360,
+      "codepoint": 58318,
       "fontFamily": "Feather",
       "identifier": "toolLight"
     },
     "tool-thin": {
-      "codepoint": 58361,
+      "codepoint": 58319,
       "fontFamily": "Feather",
       "identifier": "toolThin"
     },
     "trash": {
-      "codepoint": 57588,
+      "codepoint": 58320,
       "fontFamily": "Feather",
       "identifier": "trash"
     },
     "trash-2": {
-      "codepoint": 57589,
+      "codepoint": 58321,
       "fontFamily": "Feather",
       "identifier": "trash2"
     },
     "trash-2-bold": {
-      "codepoint": 58362,
+      "codepoint": 58322,
       "fontFamily": "Feather",
       "identifier": "trash2Bold"
     },
     "trash-2-light": {
-      "codepoint": 58363,
+      "codepoint": 58323,
       "fontFamily": "Feather",
       "identifier": "trash2Light"
     },
     "trash-2-thin": {
-      "codepoint": 58364,
+      "codepoint": 58324,
       "fontFamily": "Feather",
       "identifier": "trash2Thin"
     },
     "trash-bold": {
-      "codepoint": 58365,
+      "codepoint": 58325,
       "fontFamily": "Feather",
       "identifier": "trashBold"
     },
     "trash-light": {
-      "codepoint": 58366,
+      "codepoint": 58326,
       "fontFamily": "Feather",
       "identifier": "trashLight"
     },
     "trash-thin": {
-      "codepoint": 58367,
+      "codepoint": 58327,
       "fontFamily": "Feather",
       "identifier": "trashThin"
     },
     "trello": {
-      "codepoint": 57590,
+      "codepoint": 58328,
       "fontFamily": "Feather",
       "identifier": "trello"
     },
     "trello-bold": {
-      "codepoint": 58368,
+      "codepoint": 58329,
       "fontFamily": "Feather",
       "identifier": "trelloBold"
     },
     "trello-light": {
-      "codepoint": 58369,
+      "codepoint": 58330,
       "fontFamily": "Feather",
       "identifier": "trelloLight"
     },
     "trello-thin": {
-      "codepoint": 58370,
+      "codepoint": 58331,
       "fontFamily": "Feather",
       "identifier": "trelloThin"
     },
     "trending-down": {
-      "codepoint": 57591,
+      "codepoint": 58332,
       "fontFamily": "Feather",
       "identifier": "trendingDown"
     },
     "trending-down-bold": {
-      "codepoint": 58371,
+      "codepoint": 58333,
       "fontFamily": "Feather",
       "identifier": "trendingDownBold"
     },
     "trending-down-light": {
-      "codepoint": 58372,
+      "codepoint": 58334,
       "fontFamily": "Feather",
       "identifier": "trendingDownLight"
     },
     "trending-down-thin": {
-      "codepoint": 58373,
+      "codepoint": 58335,
       "fontFamily": "Feather",
       "identifier": "trendingDownThin"
     },
     "trending-up": {
-      "codepoint": 57592,
+      "codepoint": 58336,
       "fontFamily": "Feather",
       "identifier": "trendingUp"
     },
     "trending-up-bold": {
-      "codepoint": 58374,
+      "codepoint": 58337,
       "fontFamily": "Feather",
       "identifier": "trendingUpBold"
     },
     "trending-up-light": {
-      "codepoint": 58375,
+      "codepoint": 58338,
       "fontFamily": "Feather",
       "identifier": "trendingUpLight"
     },
     "trending-up-thin": {
-      "codepoint": 58376,
+      "codepoint": 58339,
       "fontFamily": "Feather",
       "identifier": "trendingUpThin"
     },
     "triangle": {
-      "codepoint": 57593,
+      "codepoint": 58340,
       "fontFamily": "Feather",
       "identifier": "triangle"
     },
     "triangle-bold": {
-      "codepoint": 58377,
+      "codepoint": 58341,
       "fontFamily": "Feather",
       "identifier": "triangleBold"
     },
     "triangle-light": {
-      "codepoint": 58378,
+      "codepoint": 58342,
       "fontFamily": "Feather",
       "identifier": "triangleLight"
     },
     "triangle-thin": {
-      "codepoint": 58379,
+      "codepoint": 58343,
       "fontFamily": "Feather",
       "identifier": "triangleThin"
     },
     "truck": {
-      "codepoint": 57594,
+      "codepoint": 58344,
       "fontFamily": "Feather",
       "identifier": "truck"
     },
     "truck-bold": {
-      "codepoint": 58380,
+      "codepoint": 58345,
       "fontFamily": "Feather",
       "identifier": "truckBold"
     },
     "truck-light": {
-      "codepoint": 58381,
+      "codepoint": 58346,
       "fontFamily": "Feather",
       "identifier": "truckLight"
     },
     "truck-thin": {
-      "codepoint": 58382,
+      "codepoint": 58347,
       "fontFamily": "Feather",
       "identifier": "truckThin"
     },
     "tv": {
-      "codepoint": 57595,
+      "codepoint": 58348,
       "fontFamily": "Feather",
       "identifier": "tv"
     },
     "tv-bold": {
-      "codepoint": 58383,
+      "codepoint": 58349,
       "fontFamily": "Feather",
       "identifier": "tvBold"
     },
     "tv-light": {
-      "codepoint": 58384,
+      "codepoint": 58350,
       "fontFamily": "Feather",
       "identifier": "tvLight"
     },
     "tv-thin": {
-      "codepoint": 58385,
+      "codepoint": 58351,
       "fontFamily": "Feather",
       "identifier": "tvThin"
     },
     "twitch": {
-      "codepoint": 57596,
+      "codepoint": 58352,
       "fontFamily": "Feather",
       "identifier": "twitch"
     },
     "twitch-bold": {
-      "codepoint": 58386,
+      "codepoint": 58353,
       "fontFamily": "Feather",
       "identifier": "twitchBold"
     },
     "twitch-light": {
-      "codepoint": 58387,
+      "codepoint": 58354,
       "fontFamily": "Feather",
       "identifier": "twitchLight"
     },
     "twitch-thin": {
-      "codepoint": 58388,
+      "codepoint": 58355,
       "fontFamily": "Feather",
       "identifier": "twitchThin"
     },
     "twitter": {
-      "codepoint": 57597,
+      "codepoint": 58356,
       "fontFamily": "Feather",
       "identifier": "twitter"
     },
     "twitter-bold": {
-      "codepoint": 58389,
+      "codepoint": 58357,
       "fontFamily": "Feather",
       "identifier": "twitterBold"
     },
     "twitter-light": {
-      "codepoint": 58390,
+      "codepoint": 58358,
       "fontFamily": "Feather",
       "identifier": "twitterLight"
     },
     "twitter-thin": {
-      "codepoint": 58391,
+      "codepoint": 58359,
       "fontFamily": "Feather",
       "identifier": "twitterThin"
     },
     "type": {
-      "codepoint": 57598,
+      "codepoint": 58360,
       "fontFamily": "Feather",
       "identifier": "type"
     },
     "type-bold": {
-      "codepoint": 58392,
+      "codepoint": 58361,
       "fontFamily": "Feather",
       "identifier": "typeBold"
     },
     "type-light": {
-      "codepoint": 58393,
+      "codepoint": 58362,
       "fontFamily": "Feather",
       "identifier": "typeLight"
     },
     "type-thin": {
-      "codepoint": 58394,
+      "codepoint": 58363,
       "fontFamily": "Feather",
       "identifier": "typeThin"
     },
     "umbrella": {
-      "codepoint": 57599,
+      "codepoint": 58364,
       "fontFamily": "Feather",
       "identifier": "umbrella"
     },
     "umbrella-bold": {
-      "codepoint": 58395,
+      "codepoint": 58365,
       "fontFamily": "Feather",
       "identifier": "umbrellaBold"
     },
     "umbrella-light": {
-      "codepoint": 58396,
+      "codepoint": 58366,
       "fontFamily": "Feather",
       "identifier": "umbrellaLight"
     },
     "umbrella-thin": {
-      "codepoint": 58397,
+      "codepoint": 58367,
       "fontFamily": "Feather",
       "identifier": "umbrellaThin"
     },
     "underline": {
-      "codepoint": 57600,
+      "codepoint": 58368,
       "fontFamily": "Feather",
       "identifier": "underline"
     },
     "underline-bold": {
-      "codepoint": 58398,
+      "codepoint": 58369,
       "fontFamily": "Feather",
       "identifier": "underlineBold"
     },
     "underline-light": {
-      "codepoint": 58399,
+      "codepoint": 58370,
       "fontFamily": "Feather",
       "identifier": "underlineLight"
     },
     "underline-thin": {
-      "codepoint": 58400,
+      "codepoint": 58371,
       "fontFamily": "Feather",
       "identifier": "underlineThin"
     },
     "unlock": {
-      "codepoint": 57601,
+      "codepoint": 58372,
       "fontFamily": "Feather",
       "identifier": "unlock"
     },
     "unlock-bold": {
-      "codepoint": 58401,
+      "codepoint": 58373,
       "fontFamily": "Feather",
       "identifier": "unlockBold"
     },
     "unlock-light": {
-      "codepoint": 58402,
+      "codepoint": 58374,
       "fontFamily": "Feather",
       "identifier": "unlockLight"
     },
     "unlock-thin": {
-      "codepoint": 58403,
+      "codepoint": 58375,
       "fontFamily": "Feather",
       "identifier": "unlockThin"
     },
     "upload": {
-      "codepoint": 57602,
+      "codepoint": 58376,
       "fontFamily": "Feather",
       "identifier": "upload"
     },
     "upload-bold": {
-      "codepoint": 58404,
+      "codepoint": 58377,
       "fontFamily": "Feather",
       "identifier": "uploadBold"
     },
     "upload-cloud": {
-      "codepoint": 57603,
+      "codepoint": 58378,
       "fontFamily": "Feather",
       "identifier": "uploadCloud"
     },
     "upload-cloud-bold": {
-      "codepoint": 58405,
+      "codepoint": 58379,
       "fontFamily": "Feather",
       "identifier": "uploadCloudBold"
     },
     "upload-cloud-light": {
-      "codepoint": 58406,
+      "codepoint": 58380,
       "fontFamily": "Feather",
       "identifier": "uploadCloudLight"
     },
     "upload-cloud-thin": {
-      "codepoint": 58407,
+      "codepoint": 58381,
       "fontFamily": "Feather",
       "identifier": "uploadCloudThin"
     },
     "upload-light": {
-      "codepoint": 58408,
+      "codepoint": 58382,
       "fontFamily": "Feather",
       "identifier": "uploadLight"
     },
     "upload-thin": {
-      "codepoint": 58409,
+      "codepoint": 58383,
       "fontFamily": "Feather",
       "identifier": "uploadThin"
     },
     "user": {
-      "codepoint": 57604,
+      "codepoint": 58384,
       "fontFamily": "Feather",
       "identifier": "user"
     },
     "user-bold": {
-      "codepoint": 58410,
+      "codepoint": 58385,
       "fontFamily": "Feather",
       "identifier": "userBold"
     },
     "user-check": {
-      "codepoint": 57605,
+      "codepoint": 58386,
       "fontFamily": "Feather",
       "identifier": "userCheck"
     },
     "user-check-bold": {
-      "codepoint": 58411,
+      "codepoint": 58387,
       "fontFamily": "Feather",
       "identifier": "userCheckBold"
     },
     "user-check-light": {
-      "codepoint": 58412,
+      "codepoint": 58388,
       "fontFamily": "Feather",
       "identifier": "userCheckLight"
     },
     "user-check-thin": {
-      "codepoint": 58413,
+      "codepoint": 58389,
       "fontFamily": "Feather",
       "identifier": "userCheckThin"
     },
     "user-light": {
-      "codepoint": 58414,
+      "codepoint": 58390,
       "fontFamily": "Feather",
       "identifier": "userLight"
     },
     "user-minus": {
-      "codepoint": 57606,
+      "codepoint": 58391,
       "fontFamily": "Feather",
       "identifier": "userMinus"
     },
     "user-minus-bold": {
-      "codepoint": 58415,
+      "codepoint": 58392,
       "fontFamily": "Feather",
       "identifier": "userMinusBold"
     },
     "user-minus-light": {
-      "codepoint": 58416,
+      "codepoint": 58393,
       "fontFamily": "Feather",
       "identifier": "userMinusLight"
     },
     "user-minus-thin": {
-      "codepoint": 58417,
+      "codepoint": 58394,
       "fontFamily": "Feather",
       "identifier": "userMinusThin"
     },
     "user-plus": {
-      "codepoint": 57607,
+      "codepoint": 58395,
       "fontFamily": "Feather",
       "identifier": "userPlus"
     },
     "user-plus-bold": {
-      "codepoint": 58418,
+      "codepoint": 58396,
       "fontFamily": "Feather",
       "identifier": "userPlusBold"
     },
     "user-plus-light": {
-      "codepoint": 58419,
+      "codepoint": 58397,
       "fontFamily": "Feather",
       "identifier": "userPlusLight"
     },
     "user-plus-thin": {
-      "codepoint": 58420,
+      "codepoint": 58398,
       "fontFamily": "Feather",
       "identifier": "userPlusThin"
     },
     "user-thin": {
-      "codepoint": 58421,
+      "codepoint": 58399,
       "fontFamily": "Feather",
       "identifier": "userThin"
     },
     "user-x": {
-      "codepoint": 57608,
+      "codepoint": 58400,
       "fontFamily": "Feather",
       "identifier": "userX"
     },
     "user-x-bold": {
-      "codepoint": 58422,
+      "codepoint": 58401,
       "fontFamily": "Feather",
       "identifier": "userXBold"
     },
     "user-x-light": {
-      "codepoint": 58423,
+      "codepoint": 58402,
       "fontFamily": "Feather",
       "identifier": "userXLight"
     },
     "user-x-thin": {
-      "codepoint": 58424,
+      "codepoint": 58403,
       "fontFamily": "Feather",
       "identifier": "userXThin"
     },
     "users": {
-      "codepoint": 57609,
+      "codepoint": 58404,
       "fontFamily": "Feather",
       "identifier": "users"
     },
     "users-bold": {
-      "codepoint": 58425,
+      "codepoint": 58405,
       "fontFamily": "Feather",
       "identifier": "usersBold"
     },
     "users-light": {
-      "codepoint": 58426,
+      "codepoint": 58406,
       "fontFamily": "Feather",
       "identifier": "usersLight"
     },
     "users-thin": {
-      "codepoint": 58427,
+      "codepoint": 58407,
       "fontFamily": "Feather",
       "identifier": "usersThin"
     },
     "video": {
-      "codepoint": 57610,
+      "codepoint": 58408,
       "fontFamily": "Feather",
       "identifier": "video"
     },
     "video-bold": {
-      "codepoint": 58428,
+      "codepoint": 58409,
       "fontFamily": "Feather",
       "identifier": "videoBold"
     },
     "video-light": {
-      "codepoint": 58429,
+      "codepoint": 58410,
       "fontFamily": "Feather",
       "identifier": "videoLight"
     },
     "video-off": {
-      "codepoint": 57611,
+      "codepoint": 58411,
       "fontFamily": "Feather",
       "identifier": "videoOff"
     },
     "video-off-bold": {
-      "codepoint": 58430,
+      "codepoint": 58412,
       "fontFamily": "Feather",
       "identifier": "videoOffBold"
     },
     "video-off-light": {
-      "codepoint": 58431,
+      "codepoint": 58413,
       "fontFamily": "Feather",
       "identifier": "videoOffLight"
     },
     "video-off-thin": {
-      "codepoint": 58432,
+      "codepoint": 58414,
       "fontFamily": "Feather",
       "identifier": "videoOffThin"
     },
     "video-thin": {
-      "codepoint": 58433,
+      "codepoint": 58415,
       "fontFamily": "Feather",
       "identifier": "videoThin"
     },
     "voicemail": {
-      "codepoint": 57612,
+      "codepoint": 58416,
       "fontFamily": "Feather",
       "identifier": "voicemail"
     },
     "voicemail-bold": {
-      "codepoint": 58434,
+      "codepoint": 58417,
       "fontFamily": "Feather",
       "identifier": "voicemailBold"
     },
     "voicemail-light": {
-      "codepoint": 58435,
+      "codepoint": 58418,
       "fontFamily": "Feather",
       "identifier": "voicemailLight"
     },
     "voicemail-thin": {
-      "codepoint": 58436,
+      "codepoint": 58419,
       "fontFamily": "Feather",
       "identifier": "voicemailThin"
     },
     "volume": {
-      "codepoint": 57613,
+      "codepoint": 58420,
       "fontFamily": "Feather",
       "identifier": "volume"
     },
     "volume-1": {
-      "codepoint": 57614,
+      "codepoint": 58421,
       "fontFamily": "Feather",
       "identifier": "volume1"
     },
     "volume-1-bold": {
-      "codepoint": 58437,
+      "codepoint": 58422,
       "fontFamily": "Feather",
       "identifier": "volume1Bold"
     },
     "volume-1-light": {
-      "codepoint": 58438,
+      "codepoint": 58423,
       "fontFamily": "Feather",
       "identifier": "volume1Light"
     },
     "volume-1-thin": {
-      "codepoint": 58439,
+      "codepoint": 58424,
       "fontFamily": "Feather",
       "identifier": "volume1Thin"
     },
     "volume-2": {
-      "codepoint": 57615,
+      "codepoint": 58425,
       "fontFamily": "Feather",
       "identifier": "volume2"
     },
     "volume-2-bold": {
-      "codepoint": 58440,
+      "codepoint": 58426,
       "fontFamily": "Feather",
       "identifier": "volume2Bold"
     },
     "volume-2-light": {
-      "codepoint": 58441,
+      "codepoint": 58427,
       "fontFamily": "Feather",
       "identifier": "volume2Light"
     },
     "volume-2-thin": {
-      "codepoint": 58442,
+      "codepoint": 58428,
       "fontFamily": "Feather",
       "identifier": "volume2Thin"
     },
     "volume-bold": {
-      "codepoint": 58443,
+      "codepoint": 58429,
       "fontFamily": "Feather",
       "identifier": "volumeBold"
     },
     "volume-light": {
-      "codepoint": 58444,
+      "codepoint": 58430,
       "fontFamily": "Feather",
       "identifier": "volumeLight"
     },
     "volume-thin": {
-      "codepoint": 58445,
+      "codepoint": 58431,
       "fontFamily": "Feather",
       "identifier": "volumeThin"
     },
     "volume-x": {
-      "codepoint": 57616,
+      "codepoint": 58432,
       "fontFamily": "Feather",
       "identifier": "volumeX"
     },
     "volume-x-bold": {
-      "codepoint": 58446,
+      "codepoint": 58433,
       "fontFamily": "Feather",
       "identifier": "volumeXBold"
     },
     "volume-x-light": {
-      "codepoint": 58447,
+      "codepoint": 58434,
       "fontFamily": "Feather",
       "identifier": "volumeXLight"
     },
     "volume-x-thin": {
-      "codepoint": 58448,
+      "codepoint": 58435,
       "fontFamily": "Feather",
       "identifier": "volumeXThin"
     },
     "watch": {
-      "codepoint": 57617,
+      "codepoint": 58436,
       "fontFamily": "Feather",
       "identifier": "watch"
     },
     "watch-bold": {
-      "codepoint": 58449,
+      "codepoint": 58437,
       "fontFamily": "Feather",
       "identifier": "watchBold"
     },
     "watch-light": {
-      "codepoint": 58450,
+      "codepoint": 58438,
       "fontFamily": "Feather",
       "identifier": "watchLight"
     },
     "watch-thin": {
-      "codepoint": 58451,
+      "codepoint": 58439,
       "fontFamily": "Feather",
       "identifier": "watchThin"
     },
     "wifi": {
-      "codepoint": 57618,
+      "codepoint": 58440,
       "fontFamily": "Feather",
       "identifier": "wifi"
     },
     "wifi-bold": {
-      "codepoint": 58452,
+      "codepoint": 58441,
       "fontFamily": "Feather",
       "identifier": "wifiBold"
     },
     "wifi-light": {
-      "codepoint": 58453,
+      "codepoint": 58442,
       "fontFamily": "Feather",
       "identifier": "wifiLight"
     },
     "wifi-off": {
-      "codepoint": 57619,
+      "codepoint": 58443,
       "fontFamily": "Feather",
       "identifier": "wifiOff"
     },
     "wifi-off-bold": {
-      "codepoint": 58454,
+      "codepoint": 58444,
       "fontFamily": "Feather",
       "identifier": "wifiOffBold"
     },
     "wifi-off-light": {
-      "codepoint": 58455,
+      "codepoint": 58445,
       "fontFamily": "Feather",
       "identifier": "wifiOffLight"
     },
     "wifi-off-thin": {
-      "codepoint": 58456,
+      "codepoint": 58446,
       "fontFamily": "Feather",
       "identifier": "wifiOffThin"
     },
     "wifi-thin": {
-      "codepoint": 58457,
+      "codepoint": 58447,
       "fontFamily": "Feather",
       "identifier": "wifiThin"
     },
     "wind": {
-      "codepoint": 57620,
+      "codepoint": 58448,
       "fontFamily": "Feather",
       "identifier": "wind"
     },
     "wind-bold": {
-      "codepoint": 58458,
+      "codepoint": 58449,
       "fontFamily": "Feather",
       "identifier": "windBold"
     },
     "wind-light": {
-      "codepoint": 58459,
+      "codepoint": 58450,
       "fontFamily": "Feather",
       "identifier": "windLight"
     },
     "wind-thin": {
-      "codepoint": 58460,
+      "codepoint": 58451,
       "fontFamily": "Feather",
       "identifier": "windThin"
     },
     "x": {
-      "codepoint": 57621,
+      "codepoint": 58452,
       "fontFamily": "Feather",
       "identifier": "x"
     },
     "x-bold": {
-      "codepoint": 58461,
+      "codepoint": 58453,
       "fontFamily": "Feather",
       "identifier": "xBold"
     },
     "x-circle": {
-      "codepoint": 57622,
+      "codepoint": 58454,
       "fontFamily": "Feather",
       "identifier": "xCircle"
     },
     "x-circle-bold": {
-      "codepoint": 58462,
+      "codepoint": 58455,
       "fontFamily": "Feather",
       "identifier": "xCircleBold"
     },
     "x-circle-light": {
-      "codepoint": 58463,
+      "codepoint": 58456,
       "fontFamily": "Feather",
       "identifier": "xCircleLight"
     },
     "x-circle-thin": {
-      "codepoint": 58464,
+      "codepoint": 58457,
       "fontFamily": "Feather",
       "identifier": "xCircleThin"
     },
     "x-light": {
-      "codepoint": 58465,
+      "codepoint": 58458,
       "fontFamily": "Feather",
       "identifier": "xLight"
     },
     "x-octagon": {
-      "codepoint": 57623,
+      "codepoint": 58459,
       "fontFamily": "Feather",
       "identifier": "xOctagon"
     },
     "x-octagon-bold": {
-      "codepoint": 58466,
+      "codepoint": 58460,
       "fontFamily": "Feather",
       "identifier": "xOctagonBold"
     },
     "x-octagon-light": {
-      "codepoint": 58467,
+      "codepoint": 58461,
       "fontFamily": "Feather",
       "identifier": "xOctagonLight"
     },
     "x-octagon-thin": {
-      "codepoint": 58468,
+      "codepoint": 58462,
       "fontFamily": "Feather",
       "identifier": "xOctagonThin"
     },
     "x-square": {
-      "codepoint": 57624,
+      "codepoint": 58463,
       "fontFamily": "Feather",
       "identifier": "xSquare"
     },
     "x-square-bold": {
-      "codepoint": 58469,
+      "codepoint": 58464,
       "fontFamily": "Feather",
       "identifier": "xSquareBold"
     },
     "x-square-light": {
-      "codepoint": 58470,
+      "codepoint": 58465,
       "fontFamily": "Feather",
       "identifier": "xSquareLight"
     },
     "x-square-thin": {
-      "codepoint": 58471,
+      "codepoint": 58466,
       "fontFamily": "Feather",
       "identifier": "xSquareThin"
     },
     "x-thin": {
-      "codepoint": 58472,
+      "codepoint": 58467,
       "fontFamily": "Feather",
       "identifier": "xThin"
     },
     "youtube": {
-      "codepoint": 57625,
+      "codepoint": 58468,
       "fontFamily": "Feather",
       "identifier": "youtube"
     },
     "youtube-bold": {
-      "codepoint": 58473,
+      "codepoint": 58469,
       "fontFamily": "Feather",
       "identifier": "youtubeBold"
     },
     "youtube-light": {
-      "codepoint": 58474,
+      "codepoint": 58470,
       "fontFamily": "Feather",
       "identifier": "youtubeLight"
     },
     "youtube-thin": {
-      "codepoint": 58475,
+      "codepoint": 58471,
       "fontFamily": "Feather",
       "identifier": "youtubeThin"
     },
     "zap": {
-      "codepoint": 57626,
+      "codepoint": 58472,
       "fontFamily": "Feather",
       "identifier": "zap"
     },
     "zap-bold": {
-      "codepoint": 58476,
+      "codepoint": 58473,
       "fontFamily": "Feather",
       "identifier": "zapBold"
     },
     "zap-light": {
-      "codepoint": 58477,
+      "codepoint": 58474,
       "fontFamily": "Feather",
       "identifier": "zapLight"
     },
     "zap-off": {
-      "codepoint": 57627,
+      "codepoint": 58475,
       "fontFamily": "Feather",
       "identifier": "zapOff"
     },
     "zap-off-bold": {
-      "codepoint": 58478,
+      "codepoint": 58476,
       "fontFamily": "Feather",
       "identifier": "zapOffBold"
     },
     "zap-off-light": {
-      "codepoint": 58479,
+      "codepoint": 58477,
       "fontFamily": "Feather",
       "identifier": "zapOffLight"
     },
     "zap-off-thin": {
-      "codepoint": 58480,
+      "codepoint": 58478,
       "fontFamily": "Feather",
       "identifier": "zapOffThin"
     },
     "zap-thin": {
-      "codepoint": 58481,
+      "codepoint": 58479,
       "fontFamily": "Feather",
       "identifier": "zapThin"
     },
     "zoom-in": {
-      "codepoint": 57628,
+      "codepoint": 58480,
       "fontFamily": "Feather",
       "identifier": "zoomIn"
     },
     "zoom-in-bold": {
-      "codepoint": 58482,
+      "codepoint": 58481,
       "fontFamily": "Feather",
       "identifier": "zoomInBold"
     },
     "zoom-in-light": {
-      "codepoint": 58483,
+      "codepoint": 58482,
       "fontFamily": "Feather",
       "identifier": "zoomInLight"
     },
     "zoom-in-thin": {
-      "codepoint": 58484,
+      "codepoint": 58483,
       "fontFamily": "Feather",
       "identifier": "zoomInThin"
     },
     "zoom-out": {
-      "codepoint": 57629,
+      "codepoint": 58484,
       "fontFamily": "Feather",
       "identifier": "zoomOut"
     },

@@ -27,7 +27,14 @@ import type { ResolvedIcon } from './load_iconify.ts';
  */
 const COORD_BOUND_MULT = 5;
 
-const NUM_RE = /-?\d+\.?\d*(?:[eE][+-]?\d+)?/g;
+// Match a numeric literal as it appears in SVG path data:
+//   - optional sign
+//   - integer-or-decimal mantissa, OR a pure ".<digits>" fraction
+//   - optional exponent
+// The path data `.778` means 0.778, NOT integer 778 — without the second
+// alternation we'd tokenise the `778` part separately and trip the coord
+// bound on perfectly valid fractional coordinates.
+const NUM_RE = /-?(?:\d+\.?\d*|\.\d+)(?:[eE][+-]?\d+)?/g;
 
 export interface ValidationOk {
   ok: true;
@@ -63,6 +70,10 @@ const UNSUPPORTED_ELEMENTS = [
   'pattern',
   'image',
   'foreignObject',
+  // <use> references a <defs> element that svgicons2svgfont can't resolve;
+  // shows up in `flag` set (rotated/scaled glyph copies). Without the def,
+  // the resulting glyph would render with holes.
+  'use',
 ];
 
 export function validateIconBody(icon: ResolvedIcon): ValidationResult {

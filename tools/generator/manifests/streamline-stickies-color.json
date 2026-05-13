@@ -16,20 +16,500 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 1
+    "total": 97
   },
   "fonts": [
     {
       "family": "StreamlineStickiesColor",
-      "nextCodepoint": 57345,
-      "iconCount": 1
+      "nextCodepoint": 57441,
+      "iconCount": 97
     }
   ],
   "icons": {
-    "time-duo": {
+    "3d-duo": {
       "codepoint": 57344,
       "fontFamily": "StreamlineStickiesColor",
+      "identifier": "n3dDuo"
+    },
+    "airport-railroad-duo": {
+      "codepoint": 57345,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "airportRailroadDuo"
+    },
+    "android-setting-duo": {
+      "codepoint": 57346,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "androidSettingDuo"
+    },
+    "app-window-duo": {
+      "codepoint": 57347,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "appWindowDuo"
+    },
+    "astrology-study-duo": {
+      "codepoint": 57348,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "astrologyStudyDuo"
+    },
+    "baby-cart-quality-duo": {
+      "codepoint": 57349,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "babyCartQualityDuo"
+    },
+    "baby-duo": {
+      "codepoint": 57350,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "babyDuo"
+    },
+    "backpack-duo": {
+      "codepoint": 57351,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "backpackDuo"
+    },
+    "balloon-tour-duo": {
+      "codepoint": 57352,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "balloonTourDuo"
+    },
+    "bluetooth-duo": {
+      "codepoint": 57353,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "bluetoothDuo"
+    },
+    "boarding-pass-duo": {
+      "codepoint": 57354,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "boardingPassDuo"
+    },
+    "book-library-duo": {
+      "codepoint": 57355,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "bookLibraryDuo"
+    },
+    "bug-duo": {
+      "codepoint": 57356,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "bugDuo"
+    },
+    "bus-route-info-duo": {
+      "codepoint": 57357,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "busRouteInfoDuo"
+    },
+    "cancel-2-duo": {
+      "codepoint": 57358,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "cancel2Duo"
+    },
+    "candy-cane-duo": {
+      "codepoint": 57359,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "candyCaneDuo"
+    },
+    "checking-order-duo": {
+      "codepoint": 57360,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "checkingOrderDuo"
+    },
+    "cloud-data-transfer-duo": {
+      "codepoint": 57361,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "cloudDataTransferDuo"
+    },
+    "coding-duo": {
+      "codepoint": 57362,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "codingDuo"
+    },
+    "compass-1-duo": {
+      "codepoint": 57363,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "compass1Duo"
+    },
+    "construction-area-duo": {
+      "codepoint": 57364,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "constructionAreaDuo"
+    },
+    "control-duo": {
+      "codepoint": 57365,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "controlDuo"
+    },
+    "cursor-duo": {
+      "codepoint": 57366,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "cursorDuo"
+    },
+    "dangerous-chemical-lab-duo": {
+      "codepoint": 57367,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "dangerousChemicalLabDuo"
+    },
+    "date-time-setting-duo": {
+      "codepoint": 57368,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "dateTimeSettingDuo"
+    },
+    "drawer-inbox-duo": {
+      "codepoint": 57369,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "drawerInboxDuo"
+    },
+    "drone-duo": {
+      "codepoint": 57370,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "droneDuo"
+    },
+    "earpod-connected-duo": {
+      "codepoint": 57371,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "earpodConnectedDuo"
+    },
+    "easter-egg-duo": {
+      "codepoint": 57372,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "easterEggDuo"
+    },
+    "education-degree-duo": {
+      "codepoint": 57373,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "educationDegreeDuo"
+    },
+    "eiffel-tower-duo": {
+      "codepoint": 57374,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "eiffelTowerDuo"
+    },
+    "elevator-lift-duo": {
+      "codepoint": 57375,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "elevatorLiftDuo"
+    },
+    "face-id-1-duo": {
+      "codepoint": 57376,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "faceId1Duo"
+    },
+    "filming-movie-duo": {
+      "codepoint": 57377,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "filmingMovieDuo"
+    },
+    "ghost-duo": {
+      "codepoint": 57378,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "ghostDuo"
+    },
+    "gift-reciept-duo": {
+      "codepoint": 57379,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "giftRecieptDuo"
+    },
+    "globe-1-duo": {
+      "codepoint": 57380,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "globe1Duo"
+    },
+    "graph-bar-duo": {
+      "codepoint": 57381,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "graphBarDuo"
+    },
+    "graph-pie-duo": {
+      "codepoint": 57382,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "graphPieDuo"
+    },
+    "guitar-amplifier-duo": {
+      "codepoint": 57383,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "guitarAmplifierDuo"
+    },
+    "help-duo": {
+      "codepoint": 57384,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "helpDuo"
+    },
+    "information-toilet-location-duo": {
+      "codepoint": 57385,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "informationToiletLocationDuo"
+    },
+    "instruments-piano-duo": {
+      "codepoint": 57386,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "instrumentsPianoDuo"
+    },
+    "key-duo": {
+      "codepoint": 57387,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "keyDuo"
+    },
+    "keyboard-direction-duo": {
+      "codepoint": 57388,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "keyboardDirectionDuo"
+    },
+    "lab-tools-duo": {
+      "codepoint": 57389,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "labToolsDuo"
+    },
+    "labtop-duo": {
+      "codepoint": 57390,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "labtopDuo"
+    },
+    "library-research-duo": {
+      "codepoint": 57391,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "libraryResearchDuo"
+    },
+    "love-duo": {
+      "codepoint": 57392,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "loveDuo"
+    },
+    "mail-duo": {
+      "codepoint": 57393,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "mailDuo"
+    },
+    "mailbox-2-duo": {
+      "codepoint": 57394,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "mailbox2Duo"
+    },
+    "medal-duo": {
+      "codepoint": 57395,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "medalDuo"
+    },
+    "mobile-phone-duo": {
+      "codepoint": 57396,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "mobilePhoneDuo"
+    },
+    "money-briefcase-duo": {
+      "codepoint": 57397,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "moneyBriefcaseDuo"
+    },
+    "money-coin-2-duo": {
+      "codepoint": 57398,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "moneyCoin2Duo"
+    },
+    "muslim-duo": {
+      "codepoint": 57399,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "muslimDuo"
+    },
+    "nuclear-2-duo": {
+      "codepoint": 57400,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "nuclear2Duo"
+    },
+    "on-off-1-duo": {
+      "codepoint": 57401,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "onOff1Duo"
+    },
+    "online-information-duo": {
+      "codepoint": 57402,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "onlineInformationDuo"
+    },
+    "passport-duo": {
+      "codepoint": 57403,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "passportDuo"
+    },
+    "pen-duo": {
+      "codepoint": 57404,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "penDuo"
+    },
+    "photography-duo": {
+      "codepoint": 57405,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "photographyDuo"
+    },
+    "picture-duo": {
+      "codepoint": 57406,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "pictureDuo"
+    },
+    "pile-of-money-duo": {
+      "codepoint": 57407,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "pileOfMoneyDuo"
+    },
+    "plant-1-duo": {
+      "codepoint": 57408,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "plant1Duo"
+    },
+    "product-cloth-duo": {
+      "codepoint": 57409,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "productClothDuo"
+    },
+    "programming-duo": {
+      "codepoint": 57410,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "programmingDuo"
+    },
+    "qr-code-duo": {
+      "codepoint": 57411,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "qrCodeDuo"
+    },
+    "reciept-1-duo": {
+      "codepoint": 57412,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "reciept1Duo"
+    },
+    "recycle-duo": {
+      "codepoint": 57413,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "recycleDuo"
+    },
+    "refund-product-reciept-duo": {
+      "codepoint": 57414,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "refundProductRecieptDuo"
+    },
+    "reward-duo": {
+      "codepoint": 57415,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "rewardDuo"
+    },
+    "rocket-launch-chart-duo": {
+      "codepoint": 57416,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "rocketLaunchChartDuo"
+    },
+    "sad-song-duo": {
+      "codepoint": 57417,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "sadSongDuo"
+    },
+    "safety-duo": {
+      "codepoint": 57418,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "safetyDuo"
+    },
+    "school-duo": {
+      "codepoint": 57419,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "schoolDuo"
+    },
+    "science-lab-duo": {
+      "codepoint": 57420,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "scienceLabDuo"
+    },
+    "search-duo": {
+      "codepoint": 57421,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "searchDuo"
+    },
+    "sent-from-computer-duo": {
+      "codepoint": 57422,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "sentFromComputerDuo"
+    },
+    "server-network-duo": {
+      "codepoint": 57423,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "serverNetworkDuo"
+    },
+    "shop-store-duo": {
+      "codepoint": 57424,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "shopStoreDuo"
+    },
+    "slate-duo": {
+      "codepoint": 57425,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "slateDuo"
+    },
+    "smart-tv-duo": {
+      "codepoint": 57426,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "smartTvDuo"
+    },
+    "snowman-duo": {
+      "codepoint": 57427,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "snowmanDuo"
+    },
+    "solar-power-battery-duo": {
+      "codepoint": 57428,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "solarPowerBatteryDuo"
+    },
+    "star-duo": {
+      "codepoint": 57429,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "starDuo"
+    },
+    "sun-clound-weather-duo": {
+      "codepoint": 57430,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "sunCloundWeatherDuo"
+    },
+    "sun-duo": {
+      "codepoint": 57431,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "sunDuo"
+    },
+    "taxi-duo": {
+      "codepoint": 57432,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "taxiDuo"
+    },
+    "telescope-duo": {
+      "codepoint": 57433,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "telescopeDuo"
+    },
+    "time-duo": {
+      "codepoint": 57434,
+      "fontFamily": "StreamlineStickiesColor",
       "identifier": "timeDuo"
+    },
+    "view-mail-duo": {
+      "codepoint": 57435,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "viewMailDuo"
+    },
+    "vr-goggle-duo": {
+      "codepoint": 57436,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "vrGoggleDuo"
+    },
+    "wand-duo": {
+      "codepoint": 57437,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "wandDuo"
+    },
+    "winter-day-activities-duo": {
+      "codepoint": 57438,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "winterDayActivitiesDuo"
+    },
+    "world-nature-duo": {
+      "codepoint": 57439,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "worldNatureDuo"
+    },
+    "wrench-duo": {
+      "codepoint": 57440,
+      "fontFamily": "StreamlineStickiesColor",
+      "identifier": "wrenchDuo"
     }
   }
 }
