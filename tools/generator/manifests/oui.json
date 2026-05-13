@@ -16,2235 +16,665 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/opensearch-project/oui/blob/main/LICENSE.txt"
     },
-    "total": 444
+    "total": 130
   },
   "fonts": [
     {
       "family": "Oui",
-      "nextCodepoint": 57788,
-      "iconCount": 444
+      "nextCodepoint": 57474,
+      "iconCount": 130
     }
   ],
   "icons": {
-    "accessibility": {
-      "codepoint": 57344,
-      "fontFamily": "Oui",
-      "identifier": "accessibility"
-    },
-    "add-bookmark": {
-      "codepoint": 57345,
-      "fontFamily": "Oui",
-      "identifier": "addBookmark"
-    },
-    "aggregate": {
-      "codepoint": 57346,
-      "fontFamily": "Oui",
-      "identifier": "aggregate"
-    },
-    "alert": {
-      "codepoint": 57347,
-      "fontFamily": "Oui",
-      "identifier": "alert"
-    },
-    "analyze-event": {
-      "codepoint": 57348,
-      "fontFamily": "Oui",
-      "identifier": "analyzeEvent"
-    },
     "annotation": {
-      "codepoint": 57349,
+      "codepoint": 57344,
       "fontFamily": "Oui",
       "identifier": "annotation"
     },
-    "anomaly-detection": {
-      "codepoint": 57350,
-      "fontFamily": "Oui",
-      "identifier": "anomalyDetection"
-    },
     "apm-trace": {
-      "codepoint": 57351,
+      "codepoint": 57345,
       "fontFamily": "Oui",
       "identifier": "apmTrace"
     },
     "app-add-data": {
-      "codepoint": 57352,
+      "codepoint": 57346,
       "fontFamily": "Oui",
       "identifier": "appAddData"
     },
     "app-advanced-settings": {
-      "codepoint": 57353,
+      "codepoint": 57347,
       "fontFamily": "Oui",
       "identifier": "appAdvancedSettings"
     },
     "app-apm": {
-      "codepoint": 57354,
+      "codepoint": 57348,
       "fontFamily": "Oui",
       "identifier": "appApm"
     },
-    "app-app-search": {
-      "codepoint": 57355,
-      "fontFamily": "Oui",
-      "identifier": "appAppSearch"
-    },
     "app-auditbeat": {
-      "codepoint": 57356,
+      "codepoint": 57349,
       "fontFamily": "Oui",
       "identifier": "appAuditbeat"
     },
-    "app-canvas": {
-      "codepoint": 57357,
-      "fontFamily": "Oui",
-      "identifier": "appCanvas"
-    },
-    "app-code": {
-      "codepoint": 57358,
-      "fontFamily": "Oui",
-      "identifier": "appCode"
-    },
     "app-console": {
-      "codepoint": 57359,
+      "codepoint": 57350,
       "fontFamily": "Oui",
       "identifier": "appConsole"
     },
     "app-cross-cluster-replication": {
-      "codepoint": 57360,
+      "codepoint": 57351,
       "fontFamily": "Oui",
       "identifier": "appCrossClusterReplication"
     },
     "app-dashboard": {
-      "codepoint": 57361,
+      "codepoint": 57352,
       "fontFamily": "Oui",
       "identifier": "appDashboard"
     },
     "app-devtools": {
-      "codepoint": 57362,
+      "codepoint": 57353,
       "fontFamily": "Oui",
       "identifier": "appDevtools"
     },
     "app-discover": {
-      "codepoint": 57363,
+      "codepoint": 57354,
       "fontFamily": "Oui",
       "identifier": "appDiscover"
     },
-    "app-ems": {
-      "codepoint": 57364,
-      "fontFamily": "Oui",
-      "identifier": "appEms"
-    },
     "app-filebeat": {
-      "codepoint": 57365,
+      "codepoint": 57355,
       "fontFamily": "Oui",
       "identifier": "appFilebeat"
     },
-    "app-gis": {
-      "codepoint": 57366,
-      "fontFamily": "Oui",
-      "identifier": "appGis"
-    },
     "app-graph": {
-      "codepoint": 57367,
+      "codepoint": 57356,
       "fontFamily": "Oui",
       "identifier": "appGraph"
     },
-    "app-grok": {
-      "codepoint": 57368,
-      "fontFamily": "Oui",
-      "identifier": "appGrok"
-    },
-    "app-heartbeat": {
-      "codepoint": 57369,
-      "fontFamily": "Oui",
-      "identifier": "appHeartbeat"
-    },
     "app-index-management": {
-      "codepoint": 57370,
+      "codepoint": 57357,
       "fontFamily": "Oui",
       "identifier": "appIndexManagement"
     },
     "app-index-pattern": {
-      "codepoint": 57371,
+      "codepoint": 57358,
       "fontFamily": "Oui",
       "identifier": "appIndexPattern"
     },
     "app-index-rollup": {
-      "codepoint": 57372,
+      "codepoint": 57359,
       "fontFamily": "Oui",
       "identifier": "appIndexRollup"
     },
-    "app-lens": {
-      "codepoint": 57373,
-      "fontFamily": "Oui",
-      "identifier": "appLens"
-    },
-    "app-logs": {
-      "codepoint": 57374,
-      "fontFamily": "Oui",
-      "identifier": "appLogs"
-    },
     "app-management": {
-      "codepoint": 57375,
+      "codepoint": 57360,
       "fontFamily": "Oui",
       "identifier": "appManagement"
     },
     "app-metricbeat": {
-      "codepoint": 57376,
+      "codepoint": 57361,
       "fontFamily": "Oui",
       "identifier": "appMetricbeat"
     },
-    "app-metrics": {
-      "codepoint": 57377,
-      "fontFamily": "Oui",
-      "identifier": "appMetrics"
-    },
     "app-ml": {
-      "codepoint": 57378,
+      "codepoint": 57362,
       "fontFamily": "Oui",
       "identifier": "appMl"
     },
     "app-monitoring": {
-      "codepoint": 57379,
+      "codepoint": 57363,
       "fontFamily": "Oui",
       "identifier": "appMonitoring"
     },
     "app-notebook": {
-      "codepoint": 57380,
+      "codepoint": 57364,
       "fontFamily": "Oui",
       "identifier": "appNotebook"
     },
     "app-packetbeat": {
-      "codepoint": 57381,
+      "codepoint": 57365,
       "fontFamily": "Oui",
       "identifier": "appPacketbeat"
     },
     "app-pipeline": {
-      "codepoint": 57382,
+      "codepoint": 57366,
       "fontFamily": "Oui",
       "identifier": "appPipeline"
     },
     "app-recently-viewed": {
-      "codepoint": 57383,
+      "codepoint": 57367,
       "fontFamily": "Oui",
       "identifier": "appRecentlyViewed"
     },
     "app-reporting": {
-      "codepoint": 57384,
+      "codepoint": 57368,
       "fontFamily": "Oui",
       "identifier": "appReporting"
     },
-    "app-saved-objects": {
-      "codepoint": 57385,
-      "fontFamily": "Oui",
-      "identifier": "appSavedObjects"
-    },
     "app-search-profiler": {
-      "codepoint": 57386,
+      "codepoint": 57369,
       "fontFamily": "Oui",
       "identifier": "appSearchProfiler"
     },
     "app-security": {
-      "codepoint": 57387,
+      "codepoint": 57370,
       "fontFamily": "Oui",
       "identifier": "appSecurity"
     },
-    "app-security-analytics": {
-      "codepoint": 57388,
-      "fontFamily": "Oui",
-      "identifier": "appSecurityAnalytics"
-    },
     "app-spaces": {
-      "codepoint": 57389,
+      "codepoint": 57371,
       "fontFamily": "Oui",
       "identifier": "appSpaces"
     },
     "app-sql": {
-      "codepoint": 57390,
+      "codepoint": 57372,
       "fontFamily": "Oui",
       "identifier": "appSql"
     },
     "app-timelion": {
-      "codepoint": 57391,
+      "codepoint": 57373,
       "fontFamily": "Oui",
       "identifier": "appTimelion"
     },
     "app-upgrade-assistant": {
-      "codepoint": 57392,
+      "codepoint": 57374,
       "fontFamily": "Oui",
       "identifier": "appUpgradeAssistant"
     },
-    "app-uptime": {
-      "codepoint": 57393,
-      "fontFamily": "Oui",
-      "identifier": "appUptime"
-    },
-    "app-users-roles": {
-      "codepoint": 57394,
-      "fontFamily": "Oui",
-      "identifier": "appUsersRoles"
-    },
     "app-visualize": {
-      "codepoint": 57395,
+      "codepoint": 57375,
       "fontFamily": "Oui",
       "identifier": "appVisualize"
     },
-    "app-watches": {
-      "codepoint": 57396,
-      "fontFamily": "Oui",
-      "identifier": "appWatches"
-    },
-    "app-workplace-search": {
-      "codepoint": 57397,
-      "fontFamily": "Oui",
-      "identifier": "appWorkplaceSearch"
-    },
     "apps": {
-      "codepoint": 57398,
+      "codepoint": 57376,
       "fontFamily": "Oui",
       "identifier": "apps"
     },
-    "arrow-down": {
-      "codepoint": 57399,
-      "fontFamily": "Oui",
-      "identifier": "arrowDown"
-    },
-    "arrow-left": {
-      "codepoint": 57400,
-      "fontFamily": "Oui",
-      "identifier": "arrowLeft"
-    },
-    "arrow-right": {
-      "codepoint": 57401,
-      "fontFamily": "Oui",
-      "identifier": "arrowRight"
-    },
-    "arrow-up": {
-      "codepoint": 57402,
-      "fontFamily": "Oui",
-      "identifier": "arrowUp"
-    },
-    "asterisk": {
-      "codepoint": 57403,
-      "fontFamily": "Oui",
-      "identifier": "asterisk"
-    },
-    "beaker": {
-      "codepoint": 57404,
-      "fontFamily": "Oui",
-      "identifier": "beaker"
-    },
-    "bell": {
-      "codepoint": 57405,
-      "fontFamily": "Oui",
-      "identifier": "bell"
-    },
-    "bell-slash": {
-      "codepoint": 57406,
-      "fontFamily": "Oui",
-      "identifier": "bellSlash"
-    },
-    "bolt": {
-      "codepoint": 57407,
-      "fontFamily": "Oui",
-      "identifier": "bolt"
-    },
-    "book-open": {
-      "codepoint": 57408,
-      "fontFamily": "Oui",
-      "identifier": "bookOpen"
-    },
     "boxes-horizontal": {
-      "codepoint": 57409,
+      "codepoint": 57377,
       "fontFamily": "Oui",
       "identifier": "boxesHorizontal"
     },
     "boxes-vertical": {
-      "codepoint": 57410,
+      "codepoint": 57378,
       "fontFamily": "Oui",
       "identifier": "boxesVertical"
     },
     "branch": {
-      "codepoint": 57411,
+      "codepoint": 57379,
       "fontFamily": "Oui",
       "identifier": "branch"
     },
-    "broom": {
-      "codepoint": 57412,
-      "fontFamily": "Oui",
-      "identifier": "broom"
-    },
-    "brush": {
-      "codepoint": 57413,
-      "fontFamily": "Oui",
-      "identifier": "brush"
-    },
-    "bug": {
-      "codepoint": 57414,
-      "fontFamily": "Oui",
-      "identifier": "bug"
-    },
     "bullseye": {
-      "codepoint": 57415,
+      "codepoint": 57380,
       "fontFamily": "Oui",
       "identifier": "bullseye"
     },
-    "calendar": {
-      "codepoint": 57416,
-      "fontFamily": "Oui",
-      "identifier": "calendar"
-    },
-    "chat-left": {
-      "codepoint": 57417,
-      "fontFamily": "Oui",
-      "identifier": "chatLeft"
-    },
-    "chat-right": {
-      "codepoint": 57418,
-      "fontFamily": "Oui",
-      "identifier": "chatRight"
-    },
-    "check": {
-      "codepoint": 57419,
-      "fontFamily": "Oui",
-      "identifier": "check"
-    },
-    "check-in-circle-empty": {
-      "codepoint": 57420,
-      "fontFamily": "Oui",
-      "identifier": "checkInCircleEmpty"
-    },
-    "check-in-circle-filled": {
-      "codepoint": 57421,
-      "fontFamily": "Oui",
-      "identifier": "checkInCircleFilled"
-    },
-    "cheer": {
-      "codepoint": 57422,
-      "fontFamily": "Oui",
-      "identifier": "cheer"
-    },
     "clock": {
-      "codepoint": 57423,
+      "codepoint": 57381,
       "fontFamily": "Oui",
       "identifier": "clock"
     },
-    "cloud-drizzle": {
-      "codepoint": 57424,
-      "fontFamily": "Oui",
-      "identifier": "cloudDrizzle"
-    },
-    "cloud-stormy": {
-      "codepoint": 57425,
-      "fontFamily": "Oui",
-      "identifier": "cloudStormy"
-    },
-    "cloud-sunny": {
-      "codepoint": 57426,
-      "fontFamily": "Oui",
-      "identifier": "cloudSunny"
-    },
-    "color": {
-      "codepoint": 57427,
-      "fontFamily": "Oui",
-      "identifier": "color"
-    },
-    "compass": {
-      "codepoint": 57428,
-      "fontFamily": "Oui",
-      "identifier": "compass"
-    },
     "compute": {
-      "codepoint": 57429,
+      "codepoint": 57382,
       "fontFamily": "Oui",
       "identifier": "compute"
     },
-    "console": {
-      "codepoint": 57430,
-      "fontFamily": "Oui",
-      "identifier": "console"
-    },
-    "continuity-above": {
-      "codepoint": 57431,
-      "fontFamily": "Oui",
-      "identifier": "continuityAbove"
-    },
-    "continuity-above-below": {
-      "codepoint": 57432,
-      "fontFamily": "Oui",
-      "identifier": "continuityAboveBelow"
-    },
-    "continuity-below": {
-      "codepoint": 57433,
-      "fontFamily": "Oui",
-      "identifier": "continuityBelow"
-    },
-    "continuity-within": {
-      "codepoint": 57434,
-      "fontFamily": "Oui",
-      "identifier": "continuityWithin"
-    },
     "controls-horizontal": {
-      "codepoint": 57435,
+      "codepoint": 57383,
       "fontFamily": "Oui",
       "identifier": "controlsHorizontal"
     },
     "controls-vertical": {
-      "codepoint": 57436,
+      "codepoint": 57384,
       "fontFamily": "Oui",
       "identifier": "controlsVertical"
     },
-    "copy": {
-      "codepoint": 57437,
-      "fontFamily": "Oui",
-      "identifier": "copy"
-    },
     "copy-clipboard": {
-      "codepoint": 57438,
+      "codepoint": 57385,
       "fontFamily": "Oui",
       "identifier": "copyClipboard"
     },
-    "cross": {
-      "codepoint": 57439,
-      "fontFamily": "Oui",
-      "identifier": "cross"
-    },
-    "cross-in-circle-empty": {
-      "codepoint": 57440,
-      "fontFamily": "Oui",
-      "identifier": "crossInCircleEmpty"
-    },
-    "cross-in-circle-filled": {
-      "codepoint": 57441,
-      "fontFamily": "Oui",
-      "identifier": "crossInCircleFilled"
-    },
-    "crosshairs": {
-      "codepoint": 57442,
-      "fontFamily": "Oui",
-      "identifier": "crosshairs"
-    },
-    "currency": {
-      "codepoint": 57443,
-      "fontFamily": "Oui",
-      "identifier": "currency"
-    },
-    "cut": {
-      "codepoint": 57444,
-      "fontFamily": "Oui",
-      "identifier": "cut"
-    },
-    "dashboard": {
-      "codepoint": 57445,
-      "fontFamily": "Oui",
-      "identifier": "dashboard"
-    },
-    "database": {
-      "codepoint": 57446,
-      "fontFamily": "Oui",
-      "identifier": "database"
-    },
     "docked-bottom": {
-      "codepoint": 57447,
+      "codepoint": 57386,
       "fontFamily": "Oui",
       "identifier": "dockedBottom"
     },
     "docked-detached": {
-      "codepoint": 57448,
+      "codepoint": 57387,
       "fontFamily": "Oui",
       "identifier": "dockedDetached"
     },
     "docked-left": {
-      "codepoint": 57449,
+      "codepoint": 57388,
       "fontFamily": "Oui",
       "identifier": "dockedLeft"
     },
     "docked-right": {
-      "codepoint": 57450,
+      "codepoint": 57389,
       "fontFamily": "Oui",
       "identifier": "dockedRight"
     },
     "docked-takeover": {
-      "codepoint": 57451,
+      "codepoint": 57390,
       "fontFamily": "Oui",
       "identifier": "dockedTakeover"
     },
     "docked-top": {
-      "codepoint": 57452,
+      "codepoint": 57391,
       "fontFamily": "Oui",
       "identifier": "dockedTop"
     },
-    "document": {
-      "codepoint": 57453,
-      "fontFamily": "Oui",
-      "identifier": "document"
-    },
-    "document-edit": {
-      "codepoint": 57454,
-      "fontFamily": "Oui",
-      "identifier": "documentEdit"
-    },
-    "documentation": {
-      "codepoint": 57455,
-      "fontFamily": "Oui",
-      "identifier": "documentation"
-    },
-    "documents": {
-      "codepoint": 57456,
-      "fontFamily": "Oui",
-      "identifier": "documents"
-    },
     "dot": {
-      "codepoint": 57457,
+      "codepoint": 57392,
       "fontFamily": "Oui",
       "identifier": "dot"
     },
-    "download": {
-      "codepoint": 57458,
-      "fontFamily": "Oui",
-      "identifier": "download"
-    },
     "editor-align-center": {
-      "codepoint": 57459,
+      "codepoint": 57393,
       "fontFamily": "Oui",
       "identifier": "editorAlignCenter"
     },
     "editor-align-left": {
-      "codepoint": 57460,
+      "codepoint": 57394,
       "fontFamily": "Oui",
       "identifier": "editorAlignLeft"
     },
     "editor-align-right": {
-      "codepoint": 57461,
+      "codepoint": 57395,
       "fontFamily": "Oui",
       "identifier": "editorAlignRight"
     },
-    "editor-bold": {
-      "codepoint": 57462,
-      "fontFamily": "Oui",
-      "identifier": "editorBold"
-    },
-    "editor-code-block": {
-      "codepoint": 57463,
-      "fontFamily": "Oui",
-      "identifier": "editorCodeBlock"
-    },
     "editor-comment": {
-      "codepoint": 57464,
+      "codepoint": 57396,
       "fontFamily": "Oui",
       "identifier": "editorComment"
     },
     "editor-distribute-horizontal": {
-      "codepoint": 57465,
+      "codepoint": 57397,
       "fontFamily": "Oui",
       "identifier": "editorDistributeHorizontal"
     },
     "editor-distribute-vertical": {
-      "codepoint": 57466,
+      "codepoint": 57398,
       "fontFamily": "Oui",
       "identifier": "editorDistributeVertical"
     },
     "editor-heading": {
-      "codepoint": 57467,
+      "codepoint": 57399,
       "fontFamily": "Oui",
       "identifier": "editorHeading"
     },
     "editor-italic": {
-      "codepoint": 57468,
+      "codepoint": 57400,
       "fontFamily": "Oui",
       "identifier": "editorItalic"
     },
     "editor-item-align-bottom": {
-      "codepoint": 57469,
+      "codepoint": 57401,
       "fontFamily": "Oui",
       "identifier": "editorItemAlignBottom"
     },
     "editor-item-align-center": {
-      "codepoint": 57470,
+      "codepoint": 57402,
       "fontFamily": "Oui",
       "identifier": "editorItemAlignCenter"
     },
     "editor-item-align-left": {
-      "codepoint": 57471,
+      "codepoint": 57403,
       "fontFamily": "Oui",
       "identifier": "editorItemAlignLeft"
     },
     "editor-item-align-middle": {
-      "codepoint": 57472,
+      "codepoint": 57404,
       "fontFamily": "Oui",
       "identifier": "editorItemAlignMiddle"
     },
     "editor-item-align-right": {
-      "codepoint": 57473,
+      "codepoint": 57405,
       "fontFamily": "Oui",
       "identifier": "editorItemAlignRight"
     },
     "editor-item-align-top": {
-      "codepoint": 57474,
+      "codepoint": 57406,
       "fontFamily": "Oui",
       "identifier": "editorItemAlignTop"
     },
-    "editor-link": {
-      "codepoint": 57475,
-      "fontFamily": "Oui",
-      "identifier": "editorLink"
-    },
     "editor-ordered-list": {
-      "codepoint": 57476,
+      "codepoint": 57407,
       "fontFamily": "Oui",
       "identifier": "editorOrderedList"
     },
     "editor-position-bottom-left": {
-      "codepoint": 57477,
+      "codepoint": 57408,
       "fontFamily": "Oui",
       "identifier": "editorPositionBottomLeft"
     },
     "editor-position-bottom-right": {
-      "codepoint": 57478,
+      "codepoint": 57409,
       "fontFamily": "Oui",
       "identifier": "editorPositionBottomRight"
     },
     "editor-position-top-left": {
-      "codepoint": 57479,
+      "codepoint": 57410,
       "fontFamily": "Oui",
       "identifier": "editorPositionTopLeft"
     },
     "editor-position-top-right": {
-      "codepoint": 57480,
+      "codepoint": 57411,
       "fontFamily": "Oui",
       "identifier": "editorPositionTopRight"
     },
     "editor-redo": {
-      "codepoint": 57481,
+      "codepoint": 57412,
       "fontFamily": "Oui",
       "identifier": "editorRedo"
     },
-    "editor-strike": {
-      "codepoint": 57482,
-      "fontFamily": "Oui",
-      "identifier": "editorStrike"
-    },
-    "editor-table": {
-      "codepoint": 57483,
-      "fontFamily": "Oui",
-      "identifier": "editorTable"
-    },
-    "editor-underline": {
-      "codepoint": 57484,
-      "fontFamily": "Oui",
-      "identifier": "editorUnderline"
-    },
     "editor-undo": {
-      "codepoint": 57485,
+      "codepoint": 57413,
       "fontFamily": "Oui",
       "identifier": "editorUndo"
     },
     "editor-unordered-list": {
-      "codepoint": 57486,
+      "codepoint": 57414,
       "fontFamily": "Oui",
       "identifier": "editorUnorderedList"
     },
-    "email": {
-      "codepoint": 57487,
-      "fontFamily": "Oui",
-      "identifier": "email"
-    },
     "empty": {
-      "codepoint": 57488,
+      "codepoint": 57415,
       "fontFamily": "Oui",
       "identifier": "empty"
     },
-    "eql": {
-      "codepoint": 57489,
-      "fontFamily": "Oui",
-      "identifier": "eql"
-    },
-    "eraser": {
-      "codepoint": 57490,
-      "fontFamily": "Oui",
-      "identifier": "eraser"
-    },
-    "exit": {
-      "codepoint": 57491,
-      "fontFamily": "Oui",
-      "identifier": "exit"
-    },
-    "expand": {
-      "codepoint": 57492,
-      "fontFamily": "Oui",
-      "identifier": "expand"
-    },
-    "expand-mini": {
-      "codepoint": 57493,
-      "fontFamily": "Oui",
-      "identifier": "expandMini"
-    },
-    "export": {
-      "codepoint": 57494,
-      "fontFamily": "Oui",
-      "identifier": "export_"
-    },
-    "eye": {
-      "codepoint": 57495,
-      "fontFamily": "Oui",
-      "identifier": "eye"
-    },
-    "eye-closed": {
-      "codepoint": 57496,
-      "fontFamily": "Oui",
-      "identifier": "eyeClosed"
-    },
-    "face-happy": {
-      "codepoint": 57497,
-      "fontFamily": "Oui",
-      "identifier": "faceHappy"
-    },
     "face-neutral": {
-      "codepoint": 57498,
+      "codepoint": 57416,
       "fontFamily": "Oui",
       "identifier": "faceNeutral"
     },
-    "face-sad": {
-      "codepoint": 57499,
-      "fontFamily": "Oui",
-      "identifier": "faceSad"
-    },
-    "filter": {
-      "codepoint": 57500,
-      "fontFamily": "Oui",
-      "identifier": "filter"
-    },
-    "flag": {
-      "codepoint": 57501,
-      "fontFamily": "Oui",
-      "identifier": "flag"
-    },
-    "fold": {
-      "codepoint": 57502,
-      "fontFamily": "Oui",
-      "identifier": "fold"
-    },
-    "folder-check": {
-      "codepoint": 57503,
-      "fontFamily": "Oui",
-      "identifier": "folderCheck"
-    },
-    "folder-closed": {
-      "codepoint": 57504,
-      "fontFamily": "Oui",
-      "identifier": "folderClosed"
-    },
-    "folder-exclamation": {
-      "codepoint": 57505,
-      "fontFamily": "Oui",
-      "identifier": "folderExclamation"
-    },
-    "folder-open": {
-      "codepoint": 57506,
-      "fontFamily": "Oui",
-      "identifier": "folderOpen"
-    },
-    "full-screen": {
-      "codepoint": 57507,
-      "fontFamily": "Oui",
-      "identifier": "fullScreen"
-    },
-    "full-screen-exit": {
-      "codepoint": 57508,
-      "fontFamily": "Oui",
-      "identifier": "fullScreenExit"
-    },
-    "function": {
-      "codepoint": 57509,
-      "fontFamily": "Oui",
-      "identifier": "function"
-    },
-    "function-add": {
-      "codepoint": 57510,
-      "fontFamily": "Oui",
-      "identifier": "functionAdd"
-    },
-    "gear": {
-      "codepoint": 57511,
-      "fontFamily": "Oui",
-      "identifier": "gear"
-    },
-    "generate": {
-      "codepoint": 57512,
-      "fontFamily": "Oui",
-      "identifier": "generate"
-    },
-    "generate-content": {
-      "codepoint": 57513,
-      "fontFamily": "Oui",
-      "identifier": "generateContent"
-    },
-    "glasses": {
-      "codepoint": 57514,
-      "fontFamily": "Oui",
-      "identifier": "glasses"
-    },
-    "globe": {
-      "codepoint": 57515,
-      "fontFamily": "Oui",
-      "identifier": "globe"
-    },
-    "grab": {
-      "codepoint": 57516,
-      "fontFamily": "Oui",
-      "identifier": "grab"
-    },
-    "grab-horizontal": {
-      "codepoint": 57517,
-      "fontFamily": "Oui",
-      "identifier": "grabHorizontal"
-    },
     "grid": {
-      "codepoint": 57518,
+      "codepoint": 57417,
       "fontFamily": "Oui",
       "identifier": "grid"
     },
     "heart": {
-      "codepoint": 57519,
+      "codepoint": 57418,
       "fontFamily": "Oui",
       "identifier": "heart"
     },
     "heatmap": {
-      "codepoint": 57520,
+      "codepoint": 57419,
       "fontFamily": "Oui",
       "identifier": "heatmap"
     },
-    "help": {
-      "codepoint": 57521,
-      "fontFamily": "Oui",
-      "identifier": "help"
-    },
-    "history": {
-      "codepoint": 57522,
-      "fontFamily": "Oui",
-      "identifier": "history"
-    },
-    "home": {
-      "codepoint": 57523,
-      "fontFamily": "Oui",
-      "identifier": "home"
-    },
-    "i-in-circle": {
-      "codepoint": 57524,
-      "fontFamily": "Oui",
-      "identifier": "iInCircle"
-    },
-    "image": {
-      "codepoint": 57525,
-      "fontFamily": "Oui",
-      "identifier": "image"
-    },
-    "import": {
-      "codepoint": 57526,
-      "fontFamily": "Oui",
-      "identifier": "import_"
-    },
-    "index-close": {
-      "codepoint": 57527,
-      "fontFamily": "Oui",
-      "identifier": "indexClose"
-    },
     "index-edit": {
-      "codepoint": 57528,
+      "codepoint": 57420,
       "fontFamily": "Oui",
       "identifier": "indexEdit"
     },
-    "index-flush": {
-      "codepoint": 57529,
-      "fontFamily": "Oui",
-      "identifier": "indexFlush"
-    },
     "index-mapping": {
-      "codepoint": 57530,
+      "codepoint": 57421,
       "fontFamily": "Oui",
       "identifier": "indexMapping"
     },
     "index-open": {
-      "codepoint": 57531,
+      "codepoint": 57422,
       "fontFamily": "Oui",
       "identifier": "indexOpen"
     },
-    "index-runtime": {
-      "codepoint": 57532,
-      "fontFamily": "Oui",
-      "identifier": "indexRuntime"
-    },
-    "index-settings": {
-      "codepoint": 57533,
-      "fontFamily": "Oui",
-      "identifier": "indexSettings"
-    },
     "input-output": {
-      "codepoint": 57534,
+      "codepoint": 57423,
       "fontFamily": "Oui",
       "identifier": "inputOutput"
     },
-    "inspect": {
-      "codepoint": 57535,
-      "fontFamily": "Oui",
-      "identifier": "inspect"
-    },
-    "integration-general": {
-      "codepoint": 57536,
-      "fontFamily": "Oui",
-      "identifier": "integrationGeneral"
-    },
-    "integration-observability": {
-      "codepoint": 57537,
-      "fontFamily": "Oui",
-      "identifier": "integrationObservability"
-    },
-    "integration-search": {
-      "codepoint": 57538,
-      "fontFamily": "Oui",
-      "identifier": "integrationSearch"
-    },
-    "integration-security": {
-      "codepoint": 57539,
-      "fontFamily": "Oui",
-      "identifier": "integrationSecurity"
-    },
     "invert": {
-      "codepoint": 57540,
+      "codepoint": 57424,
       "fontFamily": "Oui",
       "identifier": "invert"
     },
-    "ip": {
-      "codepoint": 57541,
-      "fontFamily": "Oui",
-      "identifier": "ip"
-    },
-    "keyboard-shortcut": {
-      "codepoint": 57542,
-      "fontFamily": "Oui",
-      "identifier": "keyboardShortcut"
-    },
-    "kql-field": {
-      "codepoint": 57543,
-      "fontFamily": "Oui",
-      "identifier": "kqlField"
-    },
-    "kql-function": {
-      "codepoint": 57544,
-      "fontFamily": "Oui",
-      "identifier": "kqlFunction"
-    },
-    "kql-operand": {
-      "codepoint": 57545,
-      "fontFamily": "Oui",
-      "identifier": "kqlOperand"
-    },
     "kql-selector": {
-      "codepoint": 57546,
+      "codepoint": 57425,
       "fontFamily": "Oui",
       "identifier": "kqlSelector"
     },
-    "kql-value": {
-      "codepoint": 57547,
-      "fontFamily": "Oui",
-      "identifier": "kqlValue"
-    },
-    "layers": {
-      "codepoint": 57548,
-      "fontFamily": "Oui",
-      "identifier": "layers"
-    },
-    "line-chart": {
-      "codepoint": 57549,
-      "fontFamily": "Oui",
-      "identifier": "lineChart"
-    },
-    "link": {
-      "codepoint": 57550,
-      "fontFamily": "Oui",
-      "identifier": "link"
-    },
     "list": {
-      "codepoint": 57551,
+      "codepoint": 57426,
       "fontFamily": "Oui",
       "identifier": "list"
     },
-    "list-add": {
-      "codepoint": 57552,
-      "fontFamily": "Oui",
-      "identifier": "listAdd"
-    },
-    "lock": {
-      "codepoint": 57553,
-      "fontFamily": "Oui",
-      "identifier": "lock"
-    },
-    "lock-open": {
-      "codepoint": 57554,
-      "fontFamily": "Oui",
-      "identifier": "lockOpen"
-    },
-    "logstash-filter": {
-      "codepoint": 57555,
-      "fontFamily": "Oui",
-      "identifier": "logstashFilter"
-    },
-    "logstash-if": {
-      "codepoint": 57556,
-      "fontFamily": "Oui",
-      "identifier": "logstashIf"
-    },
-    "logstash-input": {
-      "codepoint": 57557,
-      "fontFamily": "Oui",
-      "identifier": "logstashInput"
-    },
-    "logstash-output": {
-      "codepoint": 57558,
-      "fontFamily": "Oui",
-      "identifier": "logstashOutput"
-    },
-    "logstash-queue": {
-      "codepoint": 57559,
-      "fontFamily": "Oui",
-      "identifier": "logstashQueue"
-    },
-    "magnet": {
-      "codepoint": 57560,
-      "fontFamily": "Oui",
-      "identifier": "magnet"
-    },
-    "magnify-with-minus": {
-      "codepoint": 57561,
-      "fontFamily": "Oui",
-      "identifier": "magnifyWithMinus"
-    },
-    "magnify-with-plus": {
-      "codepoint": 57562,
-      "fontFamily": "Oui",
-      "identifier": "magnifyWithPlus"
-    },
-    "map-marker": {
-      "codepoint": 57563,
-      "fontFamily": "Oui",
-      "identifier": "mapMarker"
-    },
     "memory": {
-      "codepoint": 57564,
+      "codepoint": 57427,
       "fontFamily": "Oui",
       "identifier": "memory"
     },
     "menu": {
-      "codepoint": 57565,
+      "codepoint": 57428,
       "fontFamily": "Oui",
       "identifier": "menu"
     },
-    "menu-down": {
-      "codepoint": 57566,
-      "fontFamily": "Oui",
-      "identifier": "menuDown"
-    },
-    "menu-left": {
-      "codepoint": 57567,
-      "fontFamily": "Oui",
-      "identifier": "menuLeft"
-    },
-    "menu-right": {
-      "codepoint": 57568,
-      "fontFamily": "Oui",
-      "identifier": "menuRight"
-    },
-    "menu-up": {
-      "codepoint": 57569,
-      "fontFamily": "Oui",
-      "identifier": "menuUp"
-    },
-    "merge": {
-      "codepoint": 57570,
-      "fontFamily": "Oui",
-      "identifier": "merge"
-    },
-    "minimize": {
-      "codepoint": 57571,
-      "fontFamily": "Oui",
-      "identifier": "minimize"
-    },
     "minus": {
-      "codepoint": 57572,
+      "codepoint": 57429,
       "fontFamily": "Oui",
       "identifier": "minus"
     },
-    "minus-in-circle": {
-      "codepoint": 57573,
-      "fontFamily": "Oui",
-      "identifier": "minusInCircle"
-    },
     "minus-in-circle-filled": {
-      "codepoint": 57574,
+      "codepoint": 57430,
       "fontFamily": "Oui",
       "identifier": "minusInCircleFilled"
     },
     "ml-classification-job": {
-      "codepoint": 57575,
+      "codepoint": 57431,
       "fontFamily": "Oui",
       "identifier": "mlClassificationJob"
     },
     "ml-create-advanced-job": {
-      "codepoint": 57576,
+      "codepoint": 57432,
       "fontFamily": "Oui",
       "identifier": "mlCreateAdvancedJob"
     },
-    "ml-create-multi-metric-job": {
-      "codepoint": 57577,
-      "fontFamily": "Oui",
-      "identifier": "mlCreateMultiMetricJob"
-    },
-    "ml-create-population-job": {
-      "codepoint": 57578,
-      "fontFamily": "Oui",
-      "identifier": "mlCreatePopulationJob"
-    },
     "ml-create-single-metric-job": {
-      "codepoint": 57579,
+      "codepoint": 57433,
       "fontFamily": "Oui",
       "identifier": "mlCreateSingleMetricJob"
     },
-    "ml-data-visualizer": {
-      "codepoint": 57580,
-      "fontFamily": "Oui",
-      "identifier": "mlDataVisualizer"
-    },
     "ml-outlier-detection-job": {
-      "codepoint": 57581,
+      "codepoint": 57434,
       "fontFamily": "Oui",
       "identifier": "mlOutlierDetectionJob"
     },
     "ml-regression-job": {
-      "codepoint": 57582,
+      "codepoint": 57435,
       "fontFamily": "Oui",
       "identifier": "mlRegressionJob"
     },
     "mobile": {
-      "codepoint": 57583,
+      "codepoint": 57436,
       "fontFamily": "Oui",
       "identifier": "mobile"
     },
-    "moon": {
-      "codepoint": 57584,
-      "fontFamily": "Oui",
-      "identifier": "moon"
-    },
-    "nav-administration": {
-      "codepoint": 57585,
-      "fontFamily": "Oui",
-      "identifier": "navAdministration"
-    },
-    "nav-ai-flow": {
-      "codepoint": 57586,
-      "fontFamily": "Oui",
-      "identifier": "navAiFlow"
-    },
-    "nav-alerting": {
-      "codepoint": 57587,
-      "fontFamily": "Oui",
-      "identifier": "navAlerting"
-    },
-    "nav-anomaly-detection": {
-      "codepoint": 57588,
-      "fontFamily": "Oui",
-      "identifier": "navAnomalyDetection"
-    },
-    "nav-dashboards": {
-      "codepoint": 57589,
-      "fontFamily": "Oui",
-      "identifier": "navDashboards"
-    },
-    "nav-data": {
-      "codepoint": 57590,
-      "fontFamily": "Oui",
-      "identifier": "navData"
-    },
-    "nav-detection-rules": {
-      "codepoint": 57591,
-      "fontFamily": "Oui",
-      "identifier": "navDetectionRules"
-    },
-    "nav-devtools": {
-      "codepoint": 57592,
-      "fontFamily": "Oui",
-      "identifier": "navDevtools"
-    },
-    "nav-discover": {
-      "codepoint": 57593,
-      "fontFamily": "Oui",
-      "identifier": "navDiscover"
-    },
-    "nav-experiments": {
-      "codepoint": 57594,
-      "fontFamily": "Oui",
-      "identifier": "navExperiments"
-    },
-    "nav-get-started": {
-      "codepoint": 57595,
-      "fontFamily": "Oui",
-      "identifier": "navGetStarted"
-    },
-    "nav-info": {
-      "codepoint": 57596,
-      "fontFamily": "Oui",
-      "identifier": "navInfo"
-    },
-    "nav-infra": {
-      "codepoint": 57597,
-      "fontFamily": "Oui",
-      "identifier": "navInfra"
-    },
-    "nav-integrations": {
-      "codepoint": 57598,
-      "fontFamily": "Oui",
-      "identifier": "navIntegrations"
-    },
-    "nav-judgements": {
-      "codepoint": 57599,
-      "fontFamily": "Oui",
-      "identifier": "navJudgements"
-    },
-    "nav-manage": {
-      "codepoint": 57600,
-      "fontFamily": "Oui",
-      "identifier": "navManage"
-    },
-    "nav-maps": {
-      "codepoint": 57601,
-      "fontFamily": "Oui",
-      "identifier": "navMaps"
-    },
-    "nav-models": {
-      "codepoint": 57602,
-      "fontFamily": "Oui",
-      "identifier": "navModels"
-    },
-    "nav-notebooks": {
-      "codepoint": 57603,
-      "fontFamily": "Oui",
-      "identifier": "navNotebooks"
-    },
-    "nav-notifications": {
-      "codepoint": 57604,
-      "fontFamily": "Oui",
-      "identifier": "navNotifications"
-    },
-    "nav-overview": {
-      "codepoint": 57605,
-      "fontFamily": "Oui",
-      "identifier": "navOverview"
-    },
-    "nav-query-sets": {
-      "codepoint": 57606,
-      "fontFamily": "Oui",
-      "identifier": "navQuerySets"
-    },
-    "nav-reports": {
-      "codepoint": 57607,
-      "fontFamily": "Oui",
-      "identifier": "navReports"
-    },
-    "nav-search-configurationsln": {
-      "codepoint": 57608,
-      "fontFamily": "Oui",
-      "identifier": "navSearchConfigurationsln"
-    },
-    "nav-security-cases": {
-      "codepoint": 57609,
-      "fontFamily": "Oui",
-      "identifier": "navSecurityCases"
-    },
-    "nav-security-findings": {
-      "codepoint": 57610,
-      "fontFamily": "Oui",
-      "identifier": "navSecurityFindings"
-    },
-    "nav-service-map": {
-      "codepoint": 57611,
-      "fontFamily": "Oui",
-      "identifier": "navServiceMap"
-    },
-    "nav-services": {
-      "codepoint": 57612,
-      "fontFamily": "Oui",
-      "identifier": "navServices"
-    },
-    "nav-slos": {
-      "codepoint": 57613,
-      "fontFamily": "Oui",
-      "identifier": "navSlos"
-    },
-    "nav-threat-intel": {
-      "codepoint": 57614,
-      "fontFamily": "Oui",
-      "identifier": "navThreatIntel"
-    },
-    "nav-ticketing": {
-      "codepoint": 57615,
-      "fontFamily": "Oui",
-      "identifier": "navTicketing"
-    },
-    "nav-ui": {
-      "codepoint": 57616,
-      "fontFamily": "Oui",
-      "identifier": "navUi"
-    },
-    "nested": {
-      "codepoint": 57617,
-      "fontFamily": "Oui",
-      "identifier": "nested"
-    },
-    "node": {
-      "codepoint": 57618,
-      "fontFamily": "Oui",
-      "identifier": "node"
-    },
-    "number": {
-      "codepoint": 57619,
-      "fontFamily": "Oui",
-      "identifier": "number"
-    },
-    "offline": {
-      "codepoint": 57620,
-      "fontFamily": "Oui",
-      "identifier": "offline"
-    },
-    "online": {
-      "codepoint": 57621,
-      "fontFamily": "Oui",
-      "identifier": "online"
-    },
-    "package": {
-      "codepoint": 57622,
-      "fontFamily": "Oui",
-      "identifier": "package"
-    },
-    "page-select": {
-      "codepoint": 57623,
-      "fontFamily": "Oui",
-      "identifier": "pageSelect"
-    },
-    "pages-select": {
-      "codepoint": 57624,
-      "fontFamily": "Oui",
-      "identifier": "pagesSelect"
-    },
-    "paint": {
-      "codepoint": 57625,
-      "fontFamily": "Oui",
-      "identifier": "paint"
-    },
-    "paper-clip": {
-      "codepoint": 57626,
-      "fontFamily": "Oui",
-      "identifier": "paperClip"
-    },
-    "partial": {
-      "codepoint": 57627,
-      "fontFamily": "Oui",
-      "identifier": "partial"
-    },
-    "pause": {
-      "codepoint": 57628,
-      "fontFamily": "Oui",
-      "identifier": "pause"
-    },
-    "pencil": {
-      "codepoint": 57629,
-      "fontFamily": "Oui",
-      "identifier": "pencil"
-    },
-    "percent": {
-      "codepoint": 57630,
-      "fontFamily": "Oui",
-      "identifier": "percent"
-    },
-    "pin": {
-      "codepoint": 57631,
-      "fontFamily": "Oui",
-      "identifier": "pin"
-    },
-    "pin-filled": {
-      "codepoint": 57632,
-      "fontFamily": "Oui",
-      "identifier": "pinFilled"
-    },
-    "play": {
-      "codepoint": 57633,
-      "fontFamily": "Oui",
-      "identifier": "play"
-    },
     "play-filled": {
-      "codepoint": 57634,
+      "codepoint": 57437,
       "fontFamily": "Oui",
       "identifier": "playFilled"
     },
     "plus": {
-      "codepoint": 57635,
+      "codepoint": 57438,
       "fontFamily": "Oui",
       "identifier": "plus"
     },
-    "plus-in-circle": {
-      "codepoint": 57636,
-      "fontFamily": "Oui",
-      "identifier": "plusInCircle"
-    },
     "plus-in-circle-filled": {
-      "codepoint": 57637,
+      "codepoint": 57439,
       "fontFamily": "Oui",
       "identifier": "plusInCircleFilled"
     },
     "polygon": {
-      "codepoint": 57638,
+      "codepoint": 57440,
       "fontFamily": "Oui",
       "identifier": "polygon"
     },
-    "popout": {
-      "codepoint": 57639,
-      "fontFamily": "Oui",
-      "identifier": "popout"
-    },
-    "power": {
-      "codepoint": 57640,
-      "fontFamily": "Oui",
-      "identifier": "power"
-    },
-    "pulse": {
-      "codepoint": 57641,
-      "fontFamily": "Oui",
-      "identifier": "pulse"
-    },
-    "push": {
-      "codepoint": 57642,
-      "fontFamily": "Oui",
-      "identifier": "push"
-    },
-    "question-in-circle": {
-      "codepoint": 57643,
-      "fontFamily": "Oui",
-      "identifier": "questionInCircle"
-    },
-    "quote": {
-      "codepoint": 57644,
-      "fontFamily": "Oui",
-      "identifier": "quote"
-    },
-    "radar": {
-      "codepoint": 57645,
-      "fontFamily": "Oui",
-      "identifier": "radar"
-    },
-    "radius": {
-      "codepoint": 57646,
-      "fontFamily": "Oui",
-      "identifier": "radius"
-    },
-    "redeploy": {
-      "codepoint": 57647,
-      "fontFamily": "Oui",
-      "identifier": "redeploy"
-    },
-    "refresh": {
-      "codepoint": 57648,
-      "fontFamily": "Oui",
-      "identifier": "refresh"
-    },
-    "reporter": {
-      "codepoint": 57649,
-      "fontFamily": "Oui",
-      "identifier": "reporter"
-    },
-    "return-key": {
-      "codepoint": 57650,
-      "fontFamily": "Oui",
-      "identifier": "returnKey"
-    },
-    "rocket": {
-      "codepoint": 57651,
-      "fontFamily": "Oui",
-      "identifier": "rocket"
-    },
-    "save": {
-      "codepoint": 57652,
-      "fontFamily": "Oui",
-      "identifier": "save"
-    },
     "scale": {
-      "codepoint": 57653,
+      "codepoint": 57441,
       "fontFamily": "Oui",
       "identifier": "scale"
     },
-    "search": {
-      "codepoint": 57654,
-      "fontFamily": "Oui",
-      "identifier": "search"
-    },
-    "security-signal": {
-      "codepoint": 57655,
-      "fontFamily": "Oui",
-      "identifier": "securitySignal"
-    },
-    "security-signal-detected": {
-      "codepoint": 57656,
-      "fontFamily": "Oui",
-      "identifier": "securitySignalDetected"
-    },
-    "security-signal-resolved": {
-      "codepoint": 57657,
-      "fontFamily": "Oui",
-      "identifier": "securitySignalResolved"
-    },
     "shard": {
-      "codepoint": 57658,
+      "codepoint": 57442,
       "fontFamily": "Oui",
       "identifier": "shard"
     },
-    "share": {
-      "codepoint": 57659,
-      "fontFamily": "Oui",
-      "identifier": "share"
-    },
-    "snowflake": {
-      "codepoint": 57660,
-      "fontFamily": "Oui",
-      "identifier": "snowflake"
-    },
-    "sort-down": {
-      "codepoint": 57661,
-      "fontFamily": "Oui",
-      "identifier": "sortDown"
-    },
-    "sort-left": {
-      "codepoint": 57662,
-      "fontFamily": "Oui",
-      "identifier": "sortLeft"
-    },
-    "sort-right": {
-      "codepoint": 57663,
-      "fontFamily": "Oui",
-      "identifier": "sortRight"
-    },
-    "sort-up": {
-      "codepoint": 57664,
-      "fontFamily": "Oui",
-      "identifier": "sortUp"
-    },
-    "sortable": {
-      "codepoint": 57665,
-      "fontFamily": "Oui",
-      "identifier": "sortable"
-    },
-    "sparkle-filled": {
-      "codepoint": 57666,
-      "fontFamily": "Oui",
-      "identifier": "sparkleFilled"
-    },
-    "star-empty": {
-      "codepoint": 57667,
-      "fontFamily": "Oui",
-      "identifier": "starEmpty"
-    },
-    "star-empty-space": {
-      "codepoint": 57668,
-      "fontFamily": "Oui",
-      "identifier": "starEmptySpace"
-    },
-    "star-filled": {
-      "codepoint": 57669,
-      "fontFamily": "Oui",
-      "identifier": "starFilled"
-    },
-    "star-filled-space": {
-      "codepoint": 57670,
-      "fontFamily": "Oui",
-      "identifier": "starFilledSpace"
-    },
-    "star-minus-empty": {
-      "codepoint": 57671,
-      "fontFamily": "Oui",
-      "identifier": "starMinusEmpty"
-    },
-    "star-minus-filled": {
-      "codepoint": 57672,
-      "fontFamily": "Oui",
-      "identifier": "starMinusFilled"
-    },
-    "star-plus-empty": {
-      "codepoint": 57673,
-      "fontFamily": "Oui",
-      "identifier": "starPlusEmpty"
-    },
-    "star-plus-filled": {
-      "codepoint": 57674,
-      "fontFamily": "Oui",
-      "identifier": "starPlusFilled"
-    },
-    "stats": {
-      "codepoint": 57675,
-      "fontFamily": "Oui",
-      "identifier": "stats"
-    },
     "stop": {
-      "codepoint": 57676,
+      "codepoint": 57443,
       "fontFamily": "Oui",
       "identifier": "stop"
     },
     "stop-filled": {
-      "codepoint": 57677,
+      "codepoint": 57444,
       "fontFamily": "Oui",
       "identifier": "stopFilled"
     },
-    "stop-slash": {
-      "codepoint": 57678,
-      "fontFamily": "Oui",
-      "identifier": "stopSlash"
-    },
-    "storage": {
-      "codepoint": 57679,
-      "fontFamily": "Oui",
-      "identifier": "storage"
-    },
-    "string": {
-      "codepoint": 57680,
-      "fontFamily": "Oui",
-      "identifier": "string"
-    },
-    "submodule": {
-      "codepoint": 57681,
-      "fontFamily": "Oui",
-      "identifier": "submodule"
-    },
     "swatch-input": {
-      "codepoint": 57682,
+      "codepoint": 57445,
       "fontFamily": "Oui",
       "identifier": "swatchInput"
     },
-    "symlink": {
-      "codepoint": 57683,
-      "fontFamily": "Oui",
-      "identifier": "symlink"
-    },
-    "table-density-compact": {
-      "codepoint": 57684,
-      "fontFamily": "Oui",
-      "identifier": "tableDensityCompact"
-    },
     "table-density-expanded": {
-      "codepoint": 57685,
+      "codepoint": 57446,
       "fontFamily": "Oui",
       "identifier": "tableDensityExpanded"
     },
-    "table-density-normal": {
-      "codepoint": 57686,
-      "fontFamily": "Oui",
-      "identifier": "tableDensityNormal"
-    },
     "table-of-contents": {
-      "codepoint": 57687,
+      "codepoint": 57447,
       "fontFamily": "Oui",
       "identifier": "tableOfContents"
     },
-    "tag": {
-      "codepoint": 57688,
-      "fontFamily": "Oui",
-      "identifier": "tag"
-    },
-    "tear": {
-      "codepoint": 57689,
-      "fontFamily": "Oui",
-      "identifier": "tear"
-    },
     "temperature": {
-      "codepoint": 57690,
+      "codepoint": 57448,
       "fontFamily": "Oui",
       "identifier": "temperature"
     },
-    "thumbs-down": {
-      "codepoint": 57691,
-      "fontFamily": "Oui",
-      "identifier": "thumbsDown"
-    },
-    "thumbs-up": {
-      "codepoint": 57692,
-      "fontFamily": "Oui",
-      "identifier": "thumbsUp"
-    },
-    "timeline": {
-      "codepoint": 57693,
-      "fontFamily": "Oui",
-      "identifier": "timeline"
-    },
-    "timeslider": {
-      "codepoint": 57694,
-      "fontFamily": "Oui",
-      "identifier": "timeslider"
-    },
-    "token-alias": {
-      "codepoint": 57695,
-      "fontFamily": "Oui",
-      "identifier": "tokenAlias"
-    },
-    "token-annotation": {
-      "codepoint": 57696,
-      "fontFamily": "Oui",
-      "identifier": "tokenAnnotation"
-    },
     "token-array": {
-      "codepoint": 57697,
+      "codepoint": 57449,
       "fontFamily": "Oui",
       "identifier": "tokenArray"
     },
     "token-binary": {
-      "codepoint": 57698,
+      "codepoint": 57450,
       "fontFamily": "Oui",
       "identifier": "tokenBinary"
     },
     "token-boolean": {
-      "codepoint": 57699,
+      "codepoint": 57451,
       "fontFamily": "Oui",
       "identifier": "tokenBoolean"
     },
-    "token-class": {
-      "codepoint": 57700,
-      "fontFamily": "Oui",
-      "identifier": "tokenClass"
-    },
     "token-completion-suggester": {
-      "codepoint": 57701,
+      "codepoint": 57452,
       "fontFamily": "Oui",
       "identifier": "tokenCompletionSuggester"
     },
-    "token-constant": {
-      "codepoint": 57702,
-      "fontFamily": "Oui",
-      "identifier": "tokenConstant"
-    },
-    "token-date": {
-      "codepoint": 57703,
-      "fontFamily": "Oui",
-      "identifier": "tokenDate"
-    },
     "token-dense-vector": {
-      "codepoint": 57704,
+      "codepoint": 57453,
       "fontFamily": "Oui",
       "identifier": "tokenDenseVector"
     },
-    "token-element": {
-      "codepoint": 57705,
-      "fontFamily": "Oui",
-      "identifier": "tokenElement"
-    },
     "token-enum": {
-      "codepoint": 57706,
+      "codepoint": 57454,
       "fontFamily": "Oui",
       "identifier": "tokenEnum"
     },
-    "token-enum-member": {
-      "codepoint": 57707,
-      "fontFamily": "Oui",
-      "identifier": "tokenEnumMember"
-    },
-    "token-event": {
-      "codepoint": 57708,
-      "fontFamily": "Oui",
-      "identifier": "tokenEvent"
-    },
     "token-exception": {
-      "codepoint": 57709,
+      "codepoint": 57455,
       "fontFamily": "Oui",
       "identifier": "tokenException"
     },
     "token-field": {
-      "codepoint": 57710,
+      "codepoint": 57456,
       "fontFamily": "Oui",
       "identifier": "tokenField"
     },
-    "token-file": {
-      "codepoint": 57711,
-      "fontFamily": "Oui",
-      "identifier": "tokenFile"
-    },
-    "token-flattened": {
-      "codepoint": 57712,
-      "fontFamily": "Oui",
-      "identifier": "tokenFlattened"
-    },
-    "token-function": {
-      "codepoint": 57713,
-      "fontFamily": "Oui",
-      "identifier": "tokenFunction"
-    },
-    "token-geo": {
-      "codepoint": 57714,
-      "fontFamily": "Oui",
-      "identifier": "tokenGeo"
-    },
     "token-histogram": {
-      "codepoint": 57715,
+      "codepoint": 57457,
       "fontFamily": "Oui",
       "identifier": "tokenHistogram"
     },
     "token-interface": {
-      "codepoint": 57716,
+      "codepoint": 57458,
       "fontFamily": "Oui",
       "identifier": "tokenInterface"
     },
-    "token-ip": {
-      "codepoint": 57717,
-      "fontFamily": "Oui",
-      "identifier": "tokenIp"
-    },
-    "token-join": {
-      "codepoint": 57718,
-      "fontFamily": "Oui",
-      "identifier": "tokenJoin"
-    },
-    "token-key": {
-      "codepoint": 57719,
-      "fontFamily": "Oui",
-      "identifier": "tokenKey"
-    },
-    "token-keyword": {
-      "codepoint": 57720,
-      "fontFamily": "Oui",
-      "identifier": "tokenKeyword"
-    },
-    "token-method": {
-      "codepoint": 57721,
-      "fontFamily": "Oui",
-      "identifier": "tokenMethod"
-    },
-    "token-module": {
-      "codepoint": 57722,
-      "fontFamily": "Oui",
-      "identifier": "tokenModule"
-    },
-    "token-namespace": {
-      "codepoint": 57723,
-      "fontFamily": "Oui",
-      "identifier": "tokenNamespace"
-    },
-    "token-nested": {
-      "codepoint": 57724,
-      "fontFamily": "Oui",
-      "identifier": "tokenNested"
-    },
-    "token-null": {
-      "codepoint": 57725,
-      "fontFamily": "Oui",
-      "identifier": "tokenNull"
-    },
-    "token-number": {
-      "codepoint": 57726,
-      "fontFamily": "Oui",
-      "identifier": "tokenNumber"
-    },
-    "token-object": {
-      "codepoint": 57727,
-      "fontFamily": "Oui",
-      "identifier": "tokenObject"
-    },
-    "token-operator": {
-      "codepoint": 57728,
-      "fontFamily": "Oui",
-      "identifier": "tokenOperator"
-    },
-    "token-package": {
-      "codepoint": 57729,
-      "fontFamily": "Oui",
-      "identifier": "tokenPackage"
-    },
-    "token-parameter": {
-      "codepoint": 57730,
-      "fontFamily": "Oui",
-      "identifier": "tokenParameter"
-    },
     "token-percolator": {
-      "codepoint": 57731,
+      "codepoint": 57459,
       "fontFamily": "Oui",
       "identifier": "tokenPercolator"
     },
-    "token-property": {
-      "codepoint": 57732,
-      "fontFamily": "Oui",
-      "identifier": "tokenProperty"
-    },
-    "token-range": {
-      "codepoint": 57733,
-      "fontFamily": "Oui",
-      "identifier": "tokenRange"
-    },
     "token-rank-feature": {
-      "codepoint": 57734,
+      "codepoint": 57460,
       "fontFamily": "Oui",
       "identifier": "tokenRankFeature"
     },
     "token-rank-features": {
-      "codepoint": 57735,
+      "codepoint": 57461,
       "fontFamily": "Oui",
       "identifier": "tokenRankFeatures"
     },
-    "token-repo": {
-      "codepoint": 57736,
-      "fontFamily": "Oui",
-      "identifier": "tokenRepo"
-    },
-    "token-search-type": {
-      "codepoint": 57737,
-      "fontFamily": "Oui",
-      "identifier": "tokenSearchType"
-    },
     "token-shape": {
-      "codepoint": 57738,
+      "codepoint": 57462,
       "fontFamily": "Oui",
       "identifier": "tokenShape"
     },
-    "token-string": {
-      "codepoint": 57739,
-      "fontFamily": "Oui",
-      "identifier": "tokenString"
-    },
-    "token-struct": {
-      "codepoint": 57740,
-      "fontFamily": "Oui",
-      "identifier": "tokenStruct"
-    },
-    "token-symbol": {
-      "codepoint": 57741,
-      "fontFamily": "Oui",
-      "identifier": "tokenSymbol"
-    },
-    "token-text": {
-      "codepoint": 57742,
-      "fontFamily": "Oui",
-      "identifier": "tokenText"
-    },
     "token-token-count": {
-      "codepoint": 57743,
+      "codepoint": 57463,
       "fontFamily": "Oui",
       "identifier": "tokenTokenCount"
     },
     "token-variable": {
-      "codepoint": 57744,
+      "codepoint": 57464,
       "fontFamily": "Oui",
       "identifier": "tokenVariable"
     },
-    "training": {
-      "codepoint": 57745,
-      "fontFamily": "Oui",
-      "identifier": "training"
-    },
-    "trash": {
-      "codepoint": 57746,
-      "fontFamily": "Oui",
-      "identifier": "trash"
-    },
-    "undeploy": {
-      "codepoint": 57747,
-      "fontFamily": "Oui",
-      "identifier": "undeploy"
-    },
-    "unfold": {
-      "codepoint": 57748,
-      "fontFamily": "Oui",
-      "identifier": "unfold"
-    },
-    "unlink": {
-      "codepoint": 57749,
-      "fontFamily": "Oui",
-      "identifier": "unlink"
-    },
-    "user": {
-      "codepoint": 57750,
-      "fontFamily": "Oui",
-      "identifier": "user"
-    },
-    "users": {
-      "codepoint": 57751,
-      "fontFamily": "Oui",
-      "identifier": "users"
-    },
     "vector": {
-      "codepoint": 57752,
+      "codepoint": 57465,
       "fontFamily": "Oui",
       "identifier": "vector"
     },
-    "video-player": {
-      "codepoint": 57753,
-      "fontFamily": "Oui",
-      "identifier": "videoPlayer"
-    },
-    "vis-area": {
-      "codepoint": 57754,
-      "fontFamily": "Oui",
-      "identifier": "visArea"
-    },
-    "vis-area-stacked": {
-      "codepoint": 57755,
-      "fontFamily": "Oui",
-      "identifier": "visAreaStacked"
-    },
     "vis-bar-horizontal": {
-      "codepoint": 57756,
+      "codepoint": 57466,
       "fontFamily": "Oui",
       "identifier": "visBarHorizontal"
     },
     "vis-bar-horizontal-stacked": {
-      "codepoint": 57757,
+      "codepoint": 57467,
       "fontFamily": "Oui",
       "identifier": "visBarHorizontalStacked"
     },
     "vis-bar-vertical": {
-      "codepoint": 57758,
+      "codepoint": 57468,
       "fontFamily": "Oui",
       "identifier": "visBarVertical"
     },
-    "vis-bar-vertical-stacked": {
-      "codepoint": 57759,
-      "fontFamily": "Oui",
-      "identifier": "visBarVerticalStacked"
-    },
-    "vis-builder": {
-      "codepoint": 57760,
-      "fontFamily": "Oui",
-      "identifier": "visBuilder"
-    },
-    "vis-builder-saved-object": {
-      "codepoint": 57761,
-      "fontFamily": "Oui",
-      "identifier": "visBuilderSavedObject"
-    },
-    "vis-gauge": {
-      "codepoint": 57762,
-      "fontFamily": "Oui",
-      "identifier": "visGauge"
-    },
-    "vis-goal": {
-      "codepoint": 57763,
-      "fontFamily": "Oui",
-      "identifier": "visGoal"
-    },
-    "vis-line": {
-      "codepoint": 57764,
-      "fontFamily": "Oui",
-      "identifier": "visLine"
-    },
-    "vis-map-coordinate": {
-      "codepoint": 57765,
-      "fontFamily": "Oui",
-      "identifier": "visMapCoordinate"
-    },
-    "vis-map-region": {
-      "codepoint": 57766,
-      "fontFamily": "Oui",
-      "identifier": "visMapRegion"
-    },
     "vis-metric": {
-      "codepoint": 57767,
+      "codepoint": 57469,
       "fontFamily": "Oui",
       "identifier": "visMetric"
     },
-    "vis-pie": {
-      "codepoint": 57768,
-      "fontFamily": "Oui",
-      "identifier": "visPie"
-    },
-    "vis-query-dql": {
-      "codepoint": 57769,
-      "fontFamily": "Oui",
-      "identifier": "visQueryDql"
-    },
-    "vis-query-ppl": {
-      "codepoint": 57770,
-      "fontFamily": "Oui",
-      "identifier": "visQueryPpl"
-    },
-    "vis-query-promql": {
-      "codepoint": 57771,
-      "fontFamily": "Oui",
-      "identifier": "visQueryPromql"
-    },
-    "vis-query-sql": {
-      "codepoint": 57772,
-      "fontFamily": "Oui",
-      "identifier": "visQuerySql"
-    },
     "vis-table": {
-      "codepoint": 57773,
+      "codepoint": 57470,
       "fontFamily": "Oui",
       "identifier": "visTable"
     },
     "vis-tag-cloud": {
-      "codepoint": 57774,
+      "codepoint": 57471,
       "fontFamily": "Oui",
       "identifier": "visTagCloud"
     },
     "vis-text": {
-      "codepoint": 57775,
+      "codepoint": 57472,
       "fontFamily": "Oui",
       "identifier": "visText"
     },
-    "vis-timelion": {
-      "codepoint": 57776,
-      "fontFamily": "Oui",
-      "identifier": "visTimelion"
-    },
-    "vis-vega": {
-      "codepoint": 57777,
-      "fontFamily": "Oui",
-      "identifier": "visVega"
-    },
-    "vis-visual-builder": {
-      "codepoint": 57778,
-      "fontFamily": "Oui",
-      "identifier": "visVisualBuilder"
-    },
-    "word-wrap": {
-      "codepoint": 57779,
-      "fontFamily": "Oui",
-      "identifier": "wordWrap"
-    },
     "word-wrap-disabled": {
-      "codepoint": 57780,
+      "codepoint": 57473,
       "fontFamily": "Oui",
       "identifier": "wordWrapDisabled"
-    },
-    "wrench": {
-      "codepoint": 57781,
-      "fontFamily": "Oui",
-      "identifier": "wrench"
-    },
-    "ws-analytics": {
-      "codepoint": 57782,
-      "fontFamily": "Oui",
-      "identifier": "wsAnalytics"
-    },
-    "ws-essentials": {
-      "codepoint": 57783,
-      "fontFamily": "Oui",
-      "identifier": "wsEssentials"
-    },
-    "ws-observability": {
-      "codepoint": 57784,
-      "fontFamily": "Oui",
-      "identifier": "wsObservability"
-    },
-    "ws-search": {
-      "codepoint": 57785,
-      "fontFamily": "Oui",
-      "identifier": "wsSearch"
-    },
-    "ws-security-analytics": {
-      "codepoint": 57786,
-      "fontFamily": "Oui",
-      "identifier": "wsSecurityAnalytics"
-    },
-    "ws-selector": {
-      "codepoint": 57787,
-      "fontFamily": "Oui",
-      "identifier": "wsSelector"
     }
   }
 }

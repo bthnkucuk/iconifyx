@@ -36,3 +36,11 @@ pubspec.lock
 # Generator output that is NOT committed:
 tools/generator/.cache/
 tools/generator/tmp/
+
+# Local pub-get-all log dir
+.iconifyx-pub-get-*
+
+# Local test app build artifacts
+test_apps/*/build/
+test_apps/*/.dart_tool/
+test_apps/*/pubspec.lock

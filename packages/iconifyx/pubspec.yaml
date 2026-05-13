@@ -31,6 +31,8 @@ dependencies:
     path: ../iconifyx_bitcoin_icons
   iconifyx_boxicons:
     path: ../iconifyx_boxicons
+  iconifyx_bpmn:
+    path: ../iconifyx_bpmn
   iconifyx_brandico:
     path: ../iconifyx_brandico
   iconifyx_bx:
@@ -77,6 +79,10 @@ dependencies:
     path: ../iconifyx_cuida
   iconifyx_dashicons:
     path: ../iconifyx_dashicons
+  iconifyx_devicon:
+    path: ../iconifyx_devicon
+  iconifyx_devicon_plain:
+    path: ../iconifyx_devicon_plain
   iconifyx_dinkie_icons:
     path: ../iconifyx_dinkie_icons
   iconifyx_duo_icons:
@@ -89,6 +95,8 @@ dependencies:
     path: ../iconifyx_emojione
   iconifyx_emojione_monotone:
     path: ../iconifyx_emojione_monotone
+  iconifyx_emojione_v1:
+    path: ../iconifyx_emojione_v1
   iconifyx_entypo:
     path: ../iconifyx_entypo
   iconifyx_entypo_social:
@@ -133,6 +141,8 @@ dependencies:
     path: ../iconifyx_feather
   iconifyx_file_icons:
     path: ../iconifyx_file_icons
+  iconifyx_flag:
+    path: ../iconifyx_flag
   iconifyx_flagpack:
     path: ../iconifyx_flagpack
   iconifyx_flat_color_icons:
@@ -143,8 +153,6 @@ dependencies:
     path: ../iconifyx_flowbite
   iconifyx_fluent:
     path: ../iconifyx_fluent
-  iconifyx_fluent_color:
-    path: ../iconifyx_fluent_color
   iconifyx_fluent_emoji_flat:
     path: ../iconifyx_fluent_emoji_flat
   iconifyx_fluent_emoji_high_contrast:
@@ -161,12 +169,12 @@ dependencies:
     path: ../iconifyx_foundation
   iconifyx_fxemoji:
     path: ../iconifyx_fxemoji
+  iconifyx_gala:
+    path: ../iconifyx_gala
   iconifyx_game_icons:
     path: ../iconifyx_game_icons
   iconifyx_garden:
     path: ../iconifyx_garden
-  iconifyx_gcp:
-    path: ../iconifyx_gcp
   iconifyx_geo:
     path: ../iconifyx_geo
   iconifyx_gg:
@@ -175,6 +183,8 @@ dependencies:
     path: ../iconifyx_gis
   iconifyx_glyphs:
     path: ../iconifyx_glyphs
+  iconifyx_glyphs_poly:
+    path: ../iconifyx_glyphs_poly
   iconifyx_gravity_ui:
     path: ../iconifyx_gravity_ui
   iconifyx_gridicons:
@@ -199,6 +209,12 @@ dependencies:
     path: ../iconifyx_ic
   iconifyx_icomoon_free:
     path: ../iconifyx_icomoon_free
+  iconifyx_icon_park:
+    path: ../iconifyx_icon_park
+  iconifyx_icon_park_outline:
+    path: ../iconifyx_icon_park_outline
+  iconifyx_icon_park_solid:
+    path: ../iconifyx_icon_park_solid
   iconifyx_iconamoon:
     path: ../iconifyx_iconamoon
   iconifyx_iconoir:
@@ -219,8 +235,12 @@ dependencies:
     path: ../iconifyx_la
   iconifyx_lets_icons:
     path: ../iconifyx_lets_icons
+  iconifyx_line_md:
+    path: ../iconifyx_line_md
   iconifyx_lineicons:
     path: ../iconifyx_lineicons
+  iconifyx_logos:
+    path: ../iconifyx_logos
   iconifyx_ls:
     path: ../iconifyx_ls
   iconifyx_lsicon:
@@ -237,8 +257,8 @@ dependencies:
     path: ../iconifyx_maki
   iconifyx_map:
     path: ../iconifyx_map
-  iconifyx_marketeq:
-    path: ../iconifyx_marketeq
+  iconifyx_material_icon_theme:
+    path: ../iconifyx_material_icon_theme
   iconifyx_material_symbols:
     path: ../iconifyx_material_symbols
   iconifyx_material_symbols_light:
@@ -251,6 +271,8 @@ dependencies:
     path: ../iconifyx_medical_icon
   iconifyx_memory:
     path: ../iconifyx_memory
+  iconifyx_meteocons:
+    path: ../iconifyx_meteocons
   iconifyx_meteor_icons:
     path: ../iconifyx_meteor_icons
   iconifyx_mi:
@@ -277,6 +299,8 @@ dependencies:
     path: ../iconifyx_oi
   iconifyx_ooui:
     path: ../iconifyx_ooui
+  iconifyx_openmoji:
+    path: ../iconifyx_openmoji
   iconifyx_oui:
     path: ../iconifyx_oui
   iconifyx_pajamas:
@@ -343,16 +367,12 @@ dependencies:
     path: ../iconifyx_streamline_cyber
   iconifyx_streamline_cyber_color:
     path: ../iconifyx_streamline_cyber_color
-  iconifyx_streamline_emojis:
-    path: ../iconifyx_streamline_emojis
   iconifyx_streamline_flex:
     path: ../iconifyx_streamline_flex
   iconifyx_streamline_flex_color:
     path: ../iconifyx_streamline_flex_color
   iconifyx_streamline_freehand:
     path: ../iconifyx_streamline_freehand
-  iconifyx_streamline_freehand_color:
-    path: ../iconifyx_streamline_freehand_color
   iconifyx_streamline_kameleon_color:
     path: ../iconifyx_streamline_kameleon_color
   iconifyx_streamline_logos:
@@ -371,12 +391,8 @@ dependencies:
     path: ../iconifyx_streamline_stickies_color
   iconifyx_streamline_ultimate:
     path: ../iconifyx_streamline_ultimate
-  iconifyx_streamline_ultimate_color:
-    path: ../iconifyx_streamline_ultimate_color
   iconifyx_subway:
     path: ../iconifyx_subway
-  iconifyx_svg_spinners:
-    path: ../iconifyx_svg_spinners
   iconifyx_system_uicons:
     path: ../iconifyx_system_uicons
   iconifyx_tabler:
@@ -407,12 +423,12 @@ dependencies:
     path: ../iconifyx_uit
   iconifyx_uiw:
     path: ../iconifyx_uiw
-  iconifyx_unjs:
-    path: ../iconifyx_unjs
   iconifyx_vaadin:
     path: ../iconifyx_vaadin
   iconifyx_vs:
     path: ../iconifyx_vs
+  iconifyx_vscode_icons:
+    path: ../iconifyx_vscode_icons
   iconifyx_websymbol:
     path: ../iconifyx_websymbol
   iconifyx_weui:
@@ -423,6 +439,8 @@ dependencies:
     path: ../iconifyx_wi
   iconifyx_wordpress:
     path: ../iconifyx_wordpress
+  iconifyx_wpf:
+    path: ../iconifyx_wpf
   iconifyx_zmdi:
     path: ../iconifyx_zmdi
   iconifyx_zondicons:

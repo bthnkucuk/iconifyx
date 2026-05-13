@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/jaynewey/charm-icons/blob/main/LICENSE',
-  iconCount: 263,
+  iconCount: 256,
 );

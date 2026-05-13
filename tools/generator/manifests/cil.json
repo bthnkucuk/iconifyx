@@ -16,13 +16,13 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 562
+    "total": 560
   },
   "fonts": [
     {
       "family": "Cil",
-      "nextCodepoint": 57906,
-      "iconCount": 562
+      "nextCodepoint": 57904,
+      "iconCount": 560
     }
   ],
   "icons": {
@@ -1051,1788 +1051,1778 @@
       "fontFamily": "Cil",
       "identifier": "drop"
     },
-    "drop1": {
-      "codepoint": 57549,
-      "fontFamily": "Cil",
-      "identifier": "drop1"
-    },
     "eco": {
-      "codepoint": 57550,
+      "codepoint": 57549,
       "fontFamily": "Cil",
       "identifier": "eco"
     },
     "education": {
-      "codepoint": 57551,
+      "codepoint": 57550,
       "fontFamily": "Cil",
       "identifier": "education"
     },
     "elevator": {
-      "codepoint": 57552,
+      "codepoint": 57551,
       "fontFamily": "Cil",
       "identifier": "elevator"
     },
     "envelope-closed": {
-      "codepoint": 57553,
+      "codepoint": 57552,
       "fontFamily": "Cil",
       "identifier": "envelopeClosed"
     },
     "envelope-letter": {
-      "codepoint": 57554,
+      "codepoint": 57553,
       "fontFamily": "Cil",
       "identifier": "envelopeLetter"
     },
     "envelope-open": {
-      "codepoint": 57555,
+      "codepoint": 57554,
       "fontFamily": "Cil",
       "identifier": "envelopeOpen"
     },
     "equalizer": {
-      "codepoint": 57556,
+      "codepoint": 57555,
       "fontFamily": "Cil",
       "identifier": "equalizer"
     },
     "ethernet": {
-      "codepoint": 57557,
+      "codepoint": 57556,
       "fontFamily": "Cil",
       "identifier": "ethernet"
     },
     "euro": {
-      "codepoint": 57558,
+      "codepoint": 57557,
       "fontFamily": "Cil",
       "identifier": "euro"
     },
     "excerpt": {
-      "codepoint": 57559,
+      "codepoint": 57558,
       "fontFamily": "Cil",
       "identifier": "excerpt"
     },
     "exit-to-app": {
-      "codepoint": 57560,
+      "codepoint": 57559,
       "fontFamily": "Cil",
       "identifier": "exitToApp"
     },
     "expand-down": {
-      "codepoint": 57561,
+      "codepoint": 57560,
       "fontFamily": "Cil",
       "identifier": "expandDown"
     },
     "expand-left": {
-      "codepoint": 57562,
+      "codepoint": 57561,
       "fontFamily": "Cil",
       "identifier": "expandLeft"
     },
     "expand-right": {
-      "codepoint": 57563,
+      "codepoint": 57562,
       "fontFamily": "Cil",
       "identifier": "expandRight"
     },
     "expand-up": {
-      "codepoint": 57564,
+      "codepoint": 57563,
       "fontFamily": "Cil",
       "identifier": "expandUp"
     },
     "exposure": {
-      "codepoint": 57565,
+      "codepoint": 57564,
       "fontFamily": "Cil",
       "identifier": "exposure"
     },
     "external-link": {
-      "codepoint": 57566,
+      "codepoint": 57565,
       "fontFamily": "Cil",
       "identifier": "externalLink"
     },
     "eyedropper": {
-      "codepoint": 57567,
+      "codepoint": 57566,
       "fontFamily": "Cil",
       "identifier": "eyedropper"
     },
     "face": {
-      "codepoint": 57568,
+      "codepoint": 57567,
       "fontFamily": "Cil",
       "identifier": "face"
     },
     "face-dead": {
-      "codepoint": 57569,
+      "codepoint": 57568,
       "fontFamily": "Cil",
       "identifier": "faceDead"
     },
     "factory": {
-      "codepoint": 57570,
+      "codepoint": 57569,
       "fontFamily": "Cil",
       "identifier": "factory_"
     },
     "factory-slash": {
-      "codepoint": 57571,
+      "codepoint": 57570,
       "fontFamily": "Cil",
       "identifier": "factorySlash"
     },
     "fastfood": {
-      "codepoint": 57572,
+      "codepoint": 57571,
       "fontFamily": "Cil",
       "identifier": "fastfood"
     },
     "fax": {
-      "codepoint": 57573,
+      "codepoint": 57572,
       "fontFamily": "Cil",
       "identifier": "fax"
     },
     "featured-playlist": {
-      "codepoint": 57574,
+      "codepoint": 57573,
       "fontFamily": "Cil",
       "identifier": "featuredPlaylist"
     },
     "file": {
-      "codepoint": 57575,
+      "codepoint": 57574,
       "fontFamily": "Cil",
       "identifier": "file"
     },
     "filter": {
-      "codepoint": 57576,
+      "codepoint": 57575,
       "fontFamily": "Cil",
       "identifier": "filter"
     },
     "filter-frames": {
-      "codepoint": 57577,
+      "codepoint": 57576,
       "fontFamily": "Cil",
       "identifier": "filterFrames"
     },
     "filter-photo": {
-      "codepoint": 57578,
+      "codepoint": 57577,
       "fontFamily": "Cil",
       "identifier": "filterPhoto"
     },
     "filter-square": {
-      "codepoint": 57579,
+      "codepoint": 57578,
       "fontFamily": "Cil",
       "identifier": "filterSquare"
     },
     "filter-x": {
-      "codepoint": 57580,
+      "codepoint": 57579,
       "fontFamily": "Cil",
       "identifier": "filterX"
     },
     "find-in-page": {
-      "codepoint": 57581,
+      "codepoint": 57580,
       "fontFamily": "Cil",
       "identifier": "findInPage"
     },
     "fingerprint": {
-      "codepoint": 57582,
+      "codepoint": 57581,
       "fontFamily": "Cil",
       "identifier": "fingerprint"
     },
     "fire": {
-      "codepoint": 57583,
+      "codepoint": 57582,
       "fontFamily": "Cil",
       "identifier": "fire"
     },
     "flag-alt": {
-      "codepoint": 57584,
+      "codepoint": 57583,
       "fontFamily": "Cil",
       "identifier": "flagAlt"
     },
     "flight-takeoff": {
-      "codepoint": 57585,
+      "codepoint": 57584,
       "fontFamily": "Cil",
       "identifier": "flightTakeoff"
     },
     "flip": {
-      "codepoint": 57586,
+      "codepoint": 57585,
       "fontFamily": "Cil",
       "identifier": "flip"
     },
     "flip-to-back": {
-      "codepoint": 57587,
+      "codepoint": 57586,
       "fontFamily": "Cil",
       "identifier": "flipToBack"
     },
     "flip-to-front": {
-      "codepoint": 57588,
+      "codepoint": 57587,
       "fontFamily": "Cil",
       "identifier": "flipToFront"
     },
     "flower": {
-      "codepoint": 57589,
+      "codepoint": 57588,
       "fontFamily": "Cil",
       "identifier": "flower"
     },
     "folder": {
-      "codepoint": 57590,
+      "codepoint": 57589,
       "fontFamily": "Cil",
       "identifier": "folder"
     },
     "folder-open": {
-      "codepoint": 57591,
+      "codepoint": 57590,
       "fontFamily": "Cil",
       "identifier": "folderOpen"
     },
     "font": {
-      "codepoint": 57592,
+      "codepoint": 57591,
       "fontFamily": "Cil",
       "identifier": "font"
     },
     "football": {
-      "codepoint": 57593,
+      "codepoint": 57592,
       "fontFamily": "Cil",
       "identifier": "football"
     },
     "fork": {
-      "codepoint": 57594,
+      "codepoint": 57593,
       "fontFamily": "Cil",
       "identifier": "fork"
     },
     "fridge": {
-      "codepoint": 57595,
+      "codepoint": 57594,
       "fontFamily": "Cil",
       "identifier": "fridge"
     },
     "frown": {
-      "codepoint": 57596,
+      "codepoint": 57595,
       "fontFamily": "Cil",
       "identifier": "frown"
     },
     "fullscreen": {
-      "codepoint": 57597,
+      "codepoint": 57596,
       "fontFamily": "Cil",
       "identifier": "fullscreen"
     },
     "fullscreen-exit": {
-      "codepoint": 57598,
+      "codepoint": 57597,
       "fontFamily": "Cil",
       "identifier": "fullscreenExit"
     },
     "functions": {
-      "codepoint": 57599,
+      "codepoint": 57598,
       "fontFamily": "Cil",
       "identifier": "functions"
     },
     "functions-alt": {
-      "codepoint": 57600,
+      "codepoint": 57599,
       "fontFamily": "Cil",
       "identifier": "functionsAlt"
     },
     "gamepad": {
-      "codepoint": 57601,
+      "codepoint": 57600,
       "fontFamily": "Cil",
       "identifier": "gamepad"
     },
     "garage": {
-      "codepoint": 57602,
+      "codepoint": 57601,
       "fontFamily": "Cil",
       "identifier": "garage"
     },
     "gauge": {
-      "codepoint": 57603,
+      "codepoint": 57602,
       "fontFamily": "Cil",
       "identifier": "gauge"
     },
     "gem": {
-      "codepoint": 57604,
+      "codepoint": 57603,
       "fontFamily": "Cil",
       "identifier": "gem"
     },
     "gif": {
-      "codepoint": 57605,
+      "codepoint": 57604,
       "fontFamily": "Cil",
       "identifier": "gif"
     },
     "gift": {
-      "codepoint": 57606,
+      "codepoint": 57605,
       "fontFamily": "Cil",
       "identifier": "gift"
     },
     "globe-alt": {
-      "codepoint": 57607,
+      "codepoint": 57606,
       "fontFamily": "Cil",
       "identifier": "globeAlt"
     },
     "golf": {
-      "codepoint": 57608,
+      "codepoint": 57607,
       "fontFamily": "Cil",
       "identifier": "golf"
     },
     "golf-alt": {
-      "codepoint": 57609,
+      "codepoint": 57608,
       "fontFamily": "Cil",
       "identifier": "golfAlt"
     },
     "gradient": {
-      "codepoint": 57610,
+      "codepoint": 57609,
       "fontFamily": "Cil",
       "identifier": "gradient"
     },
     "grain": {
-      "codepoint": 57611,
+      "codepoint": 57610,
       "fontFamily": "Cil",
       "identifier": "grain"
     },
     "graph": {
-      "codepoint": 57612,
+      "codepoint": 57611,
       "fontFamily": "Cil",
       "identifier": "graph"
     },
     "grid": {
-      "codepoint": 57613,
+      "codepoint": 57612,
       "fontFamily": "Cil",
       "identifier": "grid"
     },
     "grid-slash": {
-      "codepoint": 57614,
+      "codepoint": 57613,
       "fontFamily": "Cil",
       "identifier": "gridSlash"
     },
     "group": {
-      "codepoint": 57615,
+      "codepoint": 57614,
       "fontFamily": "Cil",
       "identifier": "group"
     },
     "hamburger-menu": {
-      "codepoint": 57616,
+      "codepoint": 57615,
       "fontFamily": "Cil",
       "identifier": "hamburgerMenu"
     },
     "hand-point-down": {
-      "codepoint": 57617,
+      "codepoint": 57616,
       "fontFamily": "Cil",
       "identifier": "handPointDown"
     },
     "hand-point-left": {
-      "codepoint": 57618,
+      "codepoint": 57617,
       "fontFamily": "Cil",
       "identifier": "handPointLeft"
     },
     "hand-point-right": {
-      "codepoint": 57619,
+      "codepoint": 57618,
       "fontFamily": "Cil",
       "identifier": "handPointRight"
     },
     "hand-point-up": {
-      "codepoint": 57620,
+      "codepoint": 57619,
       "fontFamily": "Cil",
       "identifier": "handPointUp"
     },
     "happy": {
-      "codepoint": 57621,
+      "codepoint": 57620,
       "fontFamily": "Cil",
       "identifier": "happy"
     },
     "hd": {
-      "codepoint": 57622,
+      "codepoint": 57621,
       "fontFamily": "Cil",
       "identifier": "hd"
     },
     "hdr": {
-      "codepoint": 57623,
+      "codepoint": 57622,
       "fontFamily": "Cil",
       "identifier": "hdr"
     },
     "header": {
-      "codepoint": 57624,
+      "codepoint": 57623,
       "fontFamily": "Cil",
       "identifier": "header"
     },
     "headphones": {
-      "codepoint": 57625,
+      "codepoint": 57624,
       "fontFamily": "Cil",
       "identifier": "headphones"
     },
     "healing": {
-      "codepoint": 57626,
+      "codepoint": 57625,
       "fontFamily": "Cil",
       "identifier": "healing"
     },
     "heart": {
-      "codepoint": 57627,
+      "codepoint": 57626,
       "fontFamily": "Cil",
       "identifier": "heart"
     },
     "highlighter": {
-      "codepoint": 57628,
+      "codepoint": 57627,
       "fontFamily": "Cil",
       "identifier": "highlighter"
     },
     "highligt": {
-      "codepoint": 57629,
+      "codepoint": 57628,
       "fontFamily": "Cil",
       "identifier": "highligt"
     },
     "history": {
-      "codepoint": 57630,
+      "codepoint": 57629,
       "fontFamily": "Cil",
       "identifier": "history"
     },
     "home": {
-      "codepoint": 57631,
+      "codepoint": 57630,
       "fontFamily": "Cil",
       "identifier": "home"
     },
     "hospital": {
-      "codepoint": 57632,
+      "codepoint": 57631,
       "fontFamily": "Cil",
       "identifier": "hospital"
     },
     "hot-tub": {
-      "codepoint": 57633,
+      "codepoint": 57632,
       "fontFamily": "Cil",
       "identifier": "hotTub"
     },
     "house": {
-      "codepoint": 57634,
+      "codepoint": 57633,
       "fontFamily": "Cil",
       "identifier": "house"
     },
     "https": {
-      "codepoint": 57635,
+      "codepoint": 57634,
       "fontFamily": "Cil",
       "identifier": "https"
     },
     "image": {
-      "codepoint": 57636,
+      "codepoint": 57635,
       "fontFamily": "Cil",
       "identifier": "image"
     },
     "image-broken": {
-      "codepoint": 57637,
+      "codepoint": 57636,
       "fontFamily": "Cil",
       "identifier": "imageBroken"
     },
     "image-plus": {
-      "codepoint": 57638,
+      "codepoint": 57637,
       "fontFamily": "Cil",
       "identifier": "imagePlus"
     },
     "image1": {
-      "codepoint": 57639,
+      "codepoint": 57638,
       "fontFamily": "Cil",
       "identifier": "image1"
     },
     "inbox": {
-      "codepoint": 57640,
+      "codepoint": 57639,
       "fontFamily": "Cil",
       "identifier": "inbox"
     },
     "indent-decrease": {
-      "codepoint": 57641,
+      "codepoint": 57640,
       "fontFamily": "Cil",
       "identifier": "indentDecrease"
     },
     "indent-increase": {
-      "codepoint": 57642,
+      "codepoint": 57641,
       "fontFamily": "Cil",
       "identifier": "indentIncrease"
     },
     "industry": {
-      "codepoint": 57643,
+      "codepoint": 57642,
       "fontFamily": "Cil",
       "identifier": "industry"
     },
     "industry-slash": {
-      "codepoint": 57644,
+      "codepoint": 57643,
       "fontFamily": "Cil",
       "identifier": "industrySlash"
     },
     "infinity": {
-      "codepoint": 57645,
+      "codepoint": 57644,
       "fontFamily": "Cil",
       "identifier": "infinity"
     },
     "info": {
-      "codepoint": 57646,
+      "codepoint": 57645,
       "fontFamily": "Cil",
       "identifier": "info"
     },
     "input": {
-      "codepoint": 57647,
+      "codepoint": 57646,
       "fontFamily": "Cil",
       "identifier": "input"
     },
     "input-hdmi": {
-      "codepoint": 57648,
+      "codepoint": 57647,
       "fontFamily": "Cil",
       "identifier": "inputHdmi"
     },
     "input-power": {
-      "codepoint": 57649,
+      "codepoint": 57648,
       "fontFamily": "Cil",
       "identifier": "inputPower"
     },
     "institution": {
-      "codepoint": 57650,
+      "codepoint": 57649,
       "fontFamily": "Cil",
       "identifier": "institution"
     },
     "italic": {
-      "codepoint": 57651,
+      "codepoint": 57650,
       "fontFamily": "Cil",
       "identifier": "italic"
     },
     "justify-center": {
-      "codepoint": 57652,
+      "codepoint": 57651,
       "fontFamily": "Cil",
       "identifier": "justifyCenter"
     },
     "justify-left": {
-      "codepoint": 57653,
+      "codepoint": 57652,
       "fontFamily": "Cil",
       "identifier": "justifyLeft"
     },
     "justify-right": {
-      "codepoint": 57654,
+      "codepoint": 57653,
       "fontFamily": "Cil",
       "identifier": "justifyRight"
     },
     "keyboard": {
-      "codepoint": 57655,
+      "codepoint": 57654,
       "fontFamily": "Cil",
       "identifier": "keyboard"
     },
     "lan": {
-      "codepoint": 57656,
+      "codepoint": 57655,
       "fontFamily": "Cil",
       "identifier": "lan"
     },
     "language": {
-      "codepoint": 57657,
+      "codepoint": 57656,
       "fontFamily": "Cil",
       "identifier": "language"
     },
     "laptop": {
-      "codepoint": 57658,
+      "codepoint": 57657,
       "fontFamily": "Cil",
       "identifier": "laptop"
     },
     "layers": {
-      "codepoint": 57659,
+      "codepoint": 57658,
       "fontFamily": "Cil",
       "identifier": "layers"
     },
     "leaf": {
-      "codepoint": 57660,
+      "codepoint": 57659,
       "fontFamily": "Cil",
       "identifier": "leaf"
     },
     "lemon": {
-      "codepoint": 57661,
+      "codepoint": 57660,
       "fontFamily": "Cil",
       "identifier": "lemon"
     },
     "level-down": {
-      "codepoint": 57662,
+      "codepoint": 57661,
       "fontFamily": "Cil",
       "identifier": "levelDown"
     },
     "level-up": {
-      "codepoint": 57663,
+      "codepoint": 57662,
       "fontFamily": "Cil",
       "identifier": "levelUp"
     },
     "library": {
-      "codepoint": 57664,
+      "codepoint": 57663,
       "fontFamily": "Cil",
       "identifier": "library_"
     },
     "library-add": {
-      "codepoint": 57665,
+      "codepoint": 57664,
       "fontFamily": "Cil",
       "identifier": "libraryAdd"
     },
     "library-building": {
-      "codepoint": 57666,
+      "codepoint": 57665,
       "fontFamily": "Cil",
       "identifier": "libraryBuilding"
     },
     "life-ring": {
-      "codepoint": 57667,
+      "codepoint": 57666,
       "fontFamily": "Cil",
       "identifier": "lifeRing"
     },
     "lightbulb": {
-      "codepoint": 57668,
+      "codepoint": 57667,
       "fontFamily": "Cil",
       "identifier": "lightbulb"
     },
     "line-spacing": {
-      "codepoint": 57669,
+      "codepoint": 57668,
       "fontFamily": "Cil",
       "identifier": "lineSpacing"
     },
     "line-style": {
-      "codepoint": 57670,
+      "codepoint": 57669,
       "fontFamily": "Cil",
       "identifier": "lineStyle"
     },
     "line-weight": {
-      "codepoint": 57671,
+      "codepoint": 57670,
       "fontFamily": "Cil",
       "identifier": "lineWeight"
     },
     "link": {
-      "codepoint": 57672,
+      "codepoint": 57671,
       "fontFamily": "Cil",
       "identifier": "link"
     },
     "link-alt": {
-      "codepoint": 57673,
+      "codepoint": 57672,
       "fontFamily": "Cil",
       "identifier": "linkAlt"
     },
     "link-broken": {
-      "codepoint": 57674,
+      "codepoint": 57673,
       "fontFamily": "Cil",
       "identifier": "linkBroken"
     },
     "list": {
-      "codepoint": 57675,
+      "codepoint": 57674,
       "fontFamily": "Cil",
       "identifier": "list"
     },
     "list-filter": {
-      "codepoint": 57676,
+      "codepoint": 57675,
       "fontFamily": "Cil",
       "identifier": "listFilter"
     },
     "list-high-priority": {
-      "codepoint": 57677,
+      "codepoint": 57676,
       "fontFamily": "Cil",
       "identifier": "listHighPriority"
     },
     "list-low-priority": {
-      "codepoint": 57678,
+      "codepoint": 57677,
       "fontFamily": "Cil",
       "identifier": "listLowPriority"
     },
     "list-numbered": {
-      "codepoint": 57679,
+      "codepoint": 57678,
       "fontFamily": "Cil",
       "identifier": "listNumbered"
     },
     "list-numbered-rtl": {
-      "codepoint": 57680,
+      "codepoint": 57679,
       "fontFamily": "Cil",
       "identifier": "listNumberedRtl"
     },
     "list-rich": {
-      "codepoint": 57681,
+      "codepoint": 57680,
       "fontFamily": "Cil",
       "identifier": "listRich"
     },
     "location-pin": {
-      "codepoint": 57682,
+      "codepoint": 57681,
       "fontFamily": "Cil",
       "identifier": "locationPin"
     },
     "lock-locked": {
-      "codepoint": 57683,
+      "codepoint": 57682,
       "fontFamily": "Cil",
       "identifier": "lockLocked"
     },
     "lock-unlocked": {
-      "codepoint": 57684,
+      "codepoint": 57683,
       "fontFamily": "Cil",
       "identifier": "lockUnlocked"
     },
     "locomotive": {
-      "codepoint": 57685,
+      "codepoint": 57684,
       "fontFamily": "Cil",
       "identifier": "locomotive"
     },
     "loop": {
-      "codepoint": 57686,
+      "codepoint": 57685,
       "fontFamily": "Cil",
       "identifier": "loop"
     },
     "loop-1": {
-      "codepoint": 57687,
+      "codepoint": 57686,
       "fontFamily": "Cil",
       "identifier": "loop1"
     },
     "loop-circular": {
-      "codepoint": 57688,
+      "codepoint": 57687,
       "fontFamily": "Cil",
       "identifier": "loopCircular"
     },
     "low-vision": {
-      "codepoint": 57689,
+      "codepoint": 57688,
       "fontFamily": "Cil",
       "identifier": "lowVision"
     },
     "magnifying-glass": {
-      "codepoint": 57690,
+      "codepoint": 57689,
       "fontFamily": "Cil",
       "identifier": "magnifyingGlass"
     },
     "map": {
-      "codepoint": 57691,
+      "codepoint": 57690,
       "fontFamily": "Cil",
       "identifier": "map"
     },
     "media-eject": {
-      "codepoint": 57692,
+      "codepoint": 57691,
       "fontFamily": "Cil",
       "identifier": "mediaEject"
     },
     "media-pause": {
-      "codepoint": 57693,
+      "codepoint": 57692,
       "fontFamily": "Cil",
       "identifier": "mediaPause"
     },
     "media-play": {
-      "codepoint": 57694,
+      "codepoint": 57693,
       "fontFamily": "Cil",
       "identifier": "mediaPlay"
     },
     "media-record": {
-      "codepoint": 57695,
+      "codepoint": 57694,
       "fontFamily": "Cil",
       "identifier": "mediaRecord"
     },
     "media-skip-backward": {
-      "codepoint": 57696,
+      "codepoint": 57695,
       "fontFamily": "Cil",
       "identifier": "mediaSkipBackward"
     },
     "media-skip-forward": {
-      "codepoint": 57697,
+      "codepoint": 57696,
       "fontFamily": "Cil",
       "identifier": "mediaSkipForward"
     },
     "media-step-backward": {
-      "codepoint": 57698,
+      "codepoint": 57697,
       "fontFamily": "Cil",
       "identifier": "mediaStepBackward"
     },
     "media-step-forward": {
-      "codepoint": 57699,
+      "codepoint": 57698,
       "fontFamily": "Cil",
       "identifier": "mediaStepForward"
     },
     "media-stop": {
-      "codepoint": 57700,
+      "codepoint": 57699,
       "fontFamily": "Cil",
       "identifier": "mediaStop"
     },
     "medical-cross": {
-      "codepoint": 57701,
+      "codepoint": 57700,
       "fontFamily": "Cil",
       "identifier": "medicalCross"
     },
     "meh": {
-      "codepoint": 57702,
+      "codepoint": 57701,
       "fontFamily": "Cil",
       "identifier": "meh"
     },
     "memory": {
-      "codepoint": 57703,
+      "codepoint": 57702,
       "fontFamily": "Cil",
       "identifier": "memory"
     },
     "menu": {
-      "codepoint": 57704,
+      "codepoint": 57703,
       "fontFamily": "Cil",
       "identifier": "menu"
     },
     "mic": {
-      "codepoint": 57705,
+      "codepoint": 57704,
       "fontFamily": "Cil",
       "identifier": "mic"
     },
     "microphone": {
-      "codepoint": 57706,
+      "codepoint": 57705,
       "fontFamily": "Cil",
       "identifier": "microphone"
     },
     "minus": {
-      "codepoint": 57707,
+      "codepoint": 57706,
       "fontFamily": "Cil",
       "identifier": "minus"
     },
     "mobile": {
-      "codepoint": 57708,
+      "codepoint": 57707,
       "fontFamily": "Cil",
       "identifier": "mobile"
     },
     "mobile-landscape": {
-      "codepoint": 57709,
+      "codepoint": 57708,
       "fontFamily": "Cil",
       "identifier": "mobileLandscape"
     },
     "money": {
-      "codepoint": 57710,
+      "codepoint": 57709,
       "fontFamily": "Cil",
       "identifier": "money"
     },
     "monitor": {
-      "codepoint": 57711,
+      "codepoint": 57710,
       "fontFamily": "Cil",
       "identifier": "monitor"
     },
     "mood-bad": {
-      "codepoint": 57712,
+      "codepoint": 57711,
       "fontFamily": "Cil",
       "identifier": "moodBad"
     },
     "mood-good": {
-      "codepoint": 57713,
+      "codepoint": 57712,
       "fontFamily": "Cil",
       "identifier": "moodGood"
     },
     "mood-very-bad": {
-      "codepoint": 57714,
+      "codepoint": 57713,
       "fontFamily": "Cil",
       "identifier": "moodVeryBad"
     },
     "mood-very-good": {
-      "codepoint": 57715,
+      "codepoint": 57714,
       "fontFamily": "Cil",
       "identifier": "moodVeryGood"
     },
     "moon": {
-      "codepoint": 57716,
+      "codepoint": 57715,
       "fontFamily": "Cil",
       "identifier": "moon"
     },
     "mouse": {
-      "codepoint": 57717,
+      "codepoint": 57716,
       "fontFamily": "Cil",
       "identifier": "mouse"
     },
     "mouth-slash": {
-      "codepoint": 57718,
+      "codepoint": 57717,
       "fontFamily": "Cil",
       "identifier": "mouthSlash"
     },
     "move": {
-      "codepoint": 57719,
+      "codepoint": 57718,
       "fontFamily": "Cil",
       "identifier": "move"
     },
     "movie": {
-      "codepoint": 57720,
+      "codepoint": 57719,
       "fontFamily": "Cil",
       "identifier": "movie"
     },
     "mug": {
-      "codepoint": 57721,
+      "codepoint": 57720,
       "fontFamily": "Cil",
       "identifier": "mug"
     },
     "mug-tea": {
-      "codepoint": 57722,
+      "codepoint": 57721,
       "fontFamily": "Cil",
       "identifier": "mugTea"
     },
     "music-note": {
-      "codepoint": 57723,
+      "codepoint": 57722,
       "fontFamily": "Cil",
       "identifier": "musicNote"
     },
     "newspaper": {
-      "codepoint": 57724,
+      "codepoint": 57723,
       "fontFamily": "Cil",
       "identifier": "newspaper"
     },
     "note-add": {
-      "codepoint": 57725,
+      "codepoint": 57724,
       "fontFamily": "Cil",
       "identifier": "noteAdd"
     },
     "notes": {
-      "codepoint": 57726,
+      "codepoint": 57725,
       "fontFamily": "Cil",
       "identifier": "notes"
     },
     "object-group": {
-      "codepoint": 57727,
+      "codepoint": 57726,
       "fontFamily": "Cil",
       "identifier": "objectGroup"
     },
     "object-ungroup": {
-      "codepoint": 57728,
+      "codepoint": 57727,
       "fontFamily": "Cil",
       "identifier": "objectUngroup"
     },
     "opacity": {
-      "codepoint": 57729,
+      "codepoint": 57728,
       "fontFamily": "Cil",
       "identifier": "opacity"
     },
     "opentype": {
-      "codepoint": 57730,
+      "codepoint": 57729,
       "fontFamily": "Cil",
       "identifier": "opentype"
     },
     "options": {
-      "codepoint": 57731,
+      "codepoint": 57730,
       "fontFamily": "Cil",
       "identifier": "options"
     },
     "options-horizontal": {
-      "codepoint": 57732,
+      "codepoint": 57731,
       "fontFamily": "Cil",
       "identifier": "optionsHorizontal"
     },
     "paint": {
-      "codepoint": 57733,
+      "codepoint": 57732,
       "fontFamily": "Cil",
       "identifier": "paint"
     },
     "paint-bucket": {
-      "codepoint": 57734,
+      "codepoint": 57733,
       "fontFamily": "Cil",
       "identifier": "paintBucket"
     },
     "paper-plane": {
-      "codepoint": 57735,
+      "codepoint": 57734,
       "fontFamily": "Cil",
       "identifier": "paperPlane"
     },
     "paperclip": {
-      "codepoint": 57736,
+      "codepoint": 57735,
       "fontFamily": "Cil",
       "identifier": "paperclip"
     },
     "paragraph": {
-      "codepoint": 57737,
+      "codepoint": 57736,
       "fontFamily": "Cil",
       "identifier": "paragraph"
     },
     "paw": {
-      "codepoint": 57738,
+      "codepoint": 57737,
       "fontFamily": "Cil",
       "identifier": "paw"
     },
     "pen": {
-      "codepoint": 57739,
+      "codepoint": 57738,
       "fontFamily": "Cil",
       "identifier": "pen"
     },
     "pen-alt": {
-      "codepoint": 57740,
+      "codepoint": 57739,
       "fontFamily": "Cil",
       "identifier": "penAlt"
     },
     "pen-nib": {
-      "codepoint": 57741,
+      "codepoint": 57740,
       "fontFamily": "Cil",
       "identifier": "penNib"
     },
     "pencil": {
-      "codepoint": 57742,
+      "codepoint": 57741,
       "fontFamily": "Cil",
       "identifier": "pencil"
     },
     "people": {
-      "codepoint": 57743,
+      "codepoint": 57742,
       "fontFamily": "Cil",
       "identifier": "people"
     },
     "phone": {
-      "codepoint": 57744,
+      "codepoint": 57743,
       "fontFamily": "Cil",
       "identifier": "phone"
     },
     "pin": {
-      "codepoint": 57745,
+      "codepoint": 57744,
       "fontFamily": "Cil",
       "identifier": "pin"
     },
     "pizza": {
-      "codepoint": 57746,
+      "codepoint": 57745,
       "fontFamily": "Cil",
       "identifier": "pizza"
     },
     "plant": {
-      "codepoint": 57747,
+      "codepoint": 57746,
       "fontFamily": "Cil",
       "identifier": "plant"
     },
     "playlist-add": {
-      "codepoint": 57748,
+      "codepoint": 57747,
       "fontFamily": "Cil",
       "identifier": "playlistAdd"
     },
     "plus": {
-      "codepoint": 57749,
+      "codepoint": 57748,
       "fontFamily": "Cil",
       "identifier": "plus"
     },
     "pool": {
-      "codepoint": 57750,
+      "codepoint": 57749,
       "fontFamily": "Cil",
       "identifier": "pool"
     },
     "power-standby": {
-      "codepoint": 57751,
+      "codepoint": 57750,
       "fontFamily": "Cil",
       "identifier": "powerStandby"
     },
     "pregnant": {
-      "codepoint": 57752,
+      "codepoint": 57751,
       "fontFamily": "Cil",
       "identifier": "pregnant"
     },
     "print": {
-      "codepoint": 57753,
+      "codepoint": 57752,
       "fontFamily": "Cil",
       "identifier": "print"
     },
     "pushchair": {
-      "codepoint": 57754,
+      "codepoint": 57753,
       "fontFamily": "Cil",
       "identifier": "pushchair"
     },
     "puzzle": {
-      "codepoint": 57755,
+      "codepoint": 57754,
       "fontFamily": "Cil",
       "identifier": "puzzle"
     },
     "qr-code": {
-      "codepoint": 57756,
+      "codepoint": 57755,
       "fontFamily": "Cil",
       "identifier": "qrCode"
     },
     "rain": {
-      "codepoint": 57757,
+      "codepoint": 57756,
       "fontFamily": "Cil",
       "identifier": "rain"
     },
     "rectangle": {
-      "codepoint": 57758,
+      "codepoint": 57757,
       "fontFamily": "Cil",
       "identifier": "rectangle"
     },
     "recycle": {
-      "codepoint": 57759,
+      "codepoint": 57758,
       "fontFamily": "Cil",
       "identifier": "recycle"
     },
     "reload": {
-      "codepoint": 57760,
+      "codepoint": 57759,
       "fontFamily": "Cil",
       "identifier": "reload"
     },
-    "remove": {
-      "codepoint": 57761,
-      "fontFamily": "Cil",
-      "identifier": "remove"
-    },
     "report-slash": {
-      "codepoint": 57762,
+      "codepoint": 57760,
       "fontFamily": "Cil",
       "identifier": "reportSlash"
     },
     "resize-both": {
-      "codepoint": 57763,
+      "codepoint": 57761,
       "fontFamily": "Cil",
       "identifier": "resizeBoth"
     },
     "resize-height": {
-      "codepoint": 57764,
+      "codepoint": 57762,
       "fontFamily": "Cil",
       "identifier": "resizeHeight"
     },
     "resize-width": {
-      "codepoint": 57765,
+      "codepoint": 57763,
       "fontFamily": "Cil",
       "identifier": "resizeWidth"
     },
     "restaurant": {
-      "codepoint": 57766,
+      "codepoint": 57764,
       "fontFamily": "Cil",
       "identifier": "restaurant"
     },
     "room": {
-      "codepoint": 57767,
+      "codepoint": 57765,
       "fontFamily": "Cil",
       "identifier": "room"
     },
     "router": {
-      "codepoint": 57768,
+      "codepoint": 57766,
       "fontFamily": "Cil",
       "identifier": "router"
     },
     "rowing": {
-      "codepoint": 57769,
+      "codepoint": 57767,
       "fontFamily": "Cil",
       "identifier": "rowing"
     },
     "rss": {
-      "codepoint": 57770,
+      "codepoint": 57768,
       "fontFamily": "Cil",
       "identifier": "rss"
     },
     "ruble": {
-      "codepoint": 57771,
+      "codepoint": 57769,
       "fontFamily": "Cil",
       "identifier": "ruble"
     },
     "running": {
-      "codepoint": 57772,
+      "codepoint": 57770,
       "fontFamily": "Cil",
       "identifier": "running"
     },
     "sad": {
-      "codepoint": 57773,
+      "codepoint": 57771,
       "fontFamily": "Cil",
       "identifier": "sad"
     },
     "satelite": {
-      "codepoint": 57774,
+      "codepoint": 57772,
       "fontFamily": "Cil",
       "identifier": "satelite"
     },
     "save": {
-      "codepoint": 57775,
+      "codepoint": 57773,
       "fontFamily": "Cil",
       "identifier": "save"
     },
     "school": {
-      "codepoint": 57776,
+      "codepoint": 57774,
       "fontFamily": "Cil",
       "identifier": "school"
     },
     "screen-desktop": {
-      "codepoint": 57777,
+      "codepoint": 57775,
       "fontFamily": "Cil",
       "identifier": "screenDesktop"
     },
     "screen-smartphone": {
-      "codepoint": 57778,
+      "codepoint": 57776,
       "fontFamily": "Cil",
       "identifier": "screenSmartphone"
     },
     "scrubber": {
-      "codepoint": 57779,
+      "codepoint": 57777,
       "fontFamily": "Cil",
       "identifier": "scrubber"
     },
     "search": {
-      "codepoint": 57780,
+      "codepoint": 57778,
       "fontFamily": "Cil",
       "identifier": "search"
     },
     "send": {
-      "codepoint": 57781,
+      "codepoint": 57779,
       "fontFamily": "Cil",
       "identifier": "send"
     },
     "settings": {
-      "codepoint": 57782,
+      "codepoint": 57780,
       "fontFamily": "Cil",
       "identifier": "settings"
     },
     "share": {
-      "codepoint": 57783,
+      "codepoint": 57781,
       "fontFamily": "Cil",
       "identifier": "share"
     },
     "share-all": {
-      "codepoint": 57784,
+      "codepoint": 57782,
       "fontFamily": "Cil",
       "identifier": "shareAll"
     },
     "share-alt": {
-      "codepoint": 57785,
+      "codepoint": 57783,
       "fontFamily": "Cil",
       "identifier": "shareAlt"
     },
     "share-boxed": {
-      "codepoint": 57786,
+      "codepoint": 57784,
       "fontFamily": "Cil",
       "identifier": "shareBoxed"
     },
     "shield-alt": {
-      "codepoint": 57787,
+      "codepoint": 57785,
       "fontFamily": "Cil",
       "identifier": "shieldAlt"
     },
     "short-text": {
-      "codepoint": 57788,
+      "codepoint": 57786,
       "fontFamily": "Cil",
       "identifier": "shortText"
     },
     "shower": {
-      "codepoint": 57789,
+      "codepoint": 57787,
       "fontFamily": "Cil",
       "identifier": "shower"
     },
     "sign-language": {
-      "codepoint": 57790,
+      "codepoint": 57788,
       "fontFamily": "Cil",
       "identifier": "signLanguage"
     },
     "signal-cellular-0": {
-      "codepoint": 57791,
+      "codepoint": 57789,
       "fontFamily": "Cil",
       "identifier": "signalCellular0"
     },
     "signal-cellular-3": {
-      "codepoint": 57792,
+      "codepoint": 57790,
       "fontFamily": "Cil",
       "identifier": "signalCellular3"
     },
     "signal-cellular-4": {
-      "codepoint": 57793,
+      "codepoint": 57791,
       "fontFamily": "Cil",
       "identifier": "signalCellular4"
     },
     "sim": {
-      "codepoint": 57794,
+      "codepoint": 57792,
       "fontFamily": "Cil",
       "identifier": "sim"
     },
     "sitemap": {
-      "codepoint": 57795,
+      "codepoint": 57793,
       "fontFamily": "Cil",
       "identifier": "sitemap"
     },
     "smile": {
-      "codepoint": 57796,
+      "codepoint": 57794,
       "fontFamily": "Cil",
       "identifier": "smile"
     },
     "smile-plus": {
-      "codepoint": 57797,
+      "codepoint": 57795,
       "fontFamily": "Cil",
       "identifier": "smilePlus"
     },
     "smoke": {
-      "codepoint": 57798,
+      "codepoint": 57796,
       "fontFamily": "Cil",
       "identifier": "smoke"
     },
     "smoke-free": {
-      "codepoint": 57799,
+      "codepoint": 57797,
       "fontFamily": "Cil",
       "identifier": "smokeFree"
     },
     "smoke-slash": {
-      "codepoint": 57800,
+      "codepoint": 57798,
       "fontFamily": "Cil",
       "identifier": "smokeSlash"
     },
     "smoking-room": {
-      "codepoint": 57801,
+      "codepoint": 57799,
       "fontFamily": "Cil",
       "identifier": "smokingRoom"
     },
     "snowflake": {
-      "codepoint": 57802,
+      "codepoint": 57800,
       "fontFamily": "Cil",
       "identifier": "snowflake"
     },
     "soccer": {
-      "codepoint": 57803,
+      "codepoint": 57801,
       "fontFamily": "Cil",
       "identifier": "soccer"
     },
     "sofa": {
-      "codepoint": 57804,
+      "codepoint": 57802,
       "fontFamily": "Cil",
       "identifier": "sofa"
     },
     "sort-alpha-down": {
-      "codepoint": 57805,
+      "codepoint": 57803,
       "fontFamily": "Cil",
       "identifier": "sortAlphaDown"
     },
     "sort-alpha-up": {
-      "codepoint": 57806,
+      "codepoint": 57804,
       "fontFamily": "Cil",
       "identifier": "sortAlphaUp"
     },
     "sort-ascending": {
-      "codepoint": 57807,
+      "codepoint": 57805,
       "fontFamily": "Cil",
       "identifier": "sortAscending"
     },
     "sort-descending": {
-      "codepoint": 57808,
+      "codepoint": 57806,
       "fontFamily": "Cil",
       "identifier": "sortDescending"
     },
     "sort-numeric-down": {
-      "codepoint": 57809,
+      "codepoint": 57807,
       "fontFamily": "Cil",
       "identifier": "sortNumericDown"
     },
     "sort-numeric-up": {
-      "codepoint": 57810,
+      "codepoint": 57808,
       "fontFamily": "Cil",
       "identifier": "sortNumericUp"
     },
     "spa": {
-      "codepoint": 57811,
+      "codepoint": 57809,
       "fontFamily": "Cil",
       "identifier": "spa"
     },
     "space-bar": {
-      "codepoint": 57812,
+      "codepoint": 57810,
       "fontFamily": "Cil",
       "identifier": "spaceBar"
     },
     "speak": {
-      "codepoint": 57813,
+      "codepoint": 57811,
       "fontFamily": "Cil",
       "identifier": "speak"
     },
     "speaker": {
-      "codepoint": 57814,
+      "codepoint": 57812,
       "fontFamily": "Cil",
       "identifier": "speaker"
     },
     "speech": {
-      "codepoint": 57815,
+      "codepoint": 57813,
       "fontFamily": "Cil",
       "identifier": "speech"
     },
     "speedometer": {
-      "codepoint": 57816,
+      "codepoint": 57814,
       "fontFamily": "Cil",
       "identifier": "speedometer"
     },
     "spreadsheet": {
-      "codepoint": 57817,
+      "codepoint": 57815,
       "fontFamily": "Cil",
       "identifier": "spreadsheet"
     },
     "square": {
-      "codepoint": 57818,
+      "codepoint": 57816,
       "fontFamily": "Cil",
       "identifier": "square"
     },
     "star": {
-      "codepoint": 57819,
+      "codepoint": 57817,
       "fontFamily": "Cil",
       "identifier": "star"
     },
     "star-half": {
-      "codepoint": 57820,
+      "codepoint": 57818,
       "fontFamily": "Cil",
       "identifier": "starHalf"
     },
     "storage": {
-      "codepoint": 57821,
+      "codepoint": 57819,
       "fontFamily": "Cil",
       "identifier": "storage"
     },
     "stream": {
-      "codepoint": 57822,
+      "codepoint": 57820,
       "fontFamily": "Cil",
       "identifier": "stream"
     },
     "strikethrough": {
-      "codepoint": 57823,
+      "codepoint": 57821,
       "fontFamily": "Cil",
       "identifier": "strikethrough"
     },
     "sun": {
-      "codepoint": 57824,
+      "codepoint": 57822,
       "fontFamily": "Cil",
       "identifier": "sun"
     },
     "swap-horizontal": {
-      "codepoint": 57825,
+      "codepoint": 57823,
       "fontFamily": "Cil",
       "identifier": "swapHorizontal"
     },
     "swap-vertical": {
-      "codepoint": 57826,
+      "codepoint": 57824,
       "fontFamily": "Cil",
       "identifier": "swapVertical"
     },
     "swimming": {
-      "codepoint": 57827,
+      "codepoint": 57825,
       "fontFamily": "Cil",
       "identifier": "swimming"
     },
     "sync": {
-      "codepoint": 57828,
+      "codepoint": 57826,
       "fontFamily": "Cil",
       "identifier": "sync_"
     },
     "tablet": {
-      "codepoint": 57829,
+      "codepoint": 57827,
       "fontFamily": "Cil",
       "identifier": "tablet"
     },
     "tag": {
-      "codepoint": 57830,
+      "codepoint": 57828,
       "fontFamily": "Cil",
       "identifier": "tag"
     },
     "tags": {
-      "codepoint": 57831,
+      "codepoint": 57829,
       "fontFamily": "Cil",
       "identifier": "tags"
     },
     "task": {
-      "codepoint": 57832,
+      "codepoint": 57830,
       "fontFamily": "Cil",
       "identifier": "task"
     },
     "taxi": {
-      "codepoint": 57833,
+      "codepoint": 57831,
       "fontFamily": "Cil",
       "identifier": "taxi"
     },
     "tennis": {
-      "codepoint": 57834,
+      "codepoint": 57832,
       "fontFamily": "Cil",
       "identifier": "tennis"
     },
     "tennis-ball": {
-      "codepoint": 57835,
+      "codepoint": 57833,
       "fontFamily": "Cil",
       "identifier": "tennisBall"
     },
     "terminal": {
-      "codepoint": 57836,
+      "codepoint": 57834,
       "fontFamily": "Cil",
       "identifier": "terminal"
     },
     "terrain": {
-      "codepoint": 57837,
+      "codepoint": 57835,
       "fontFamily": "Cil",
       "identifier": "terrain"
     },
     "text": {
-      "codepoint": 57838,
+      "codepoint": 57836,
       "fontFamily": "Cil",
       "identifier": "text"
     },
     "text-shapes": {
-      "codepoint": 57839,
+      "codepoint": 57837,
       "fontFamily": "Cil",
       "identifier": "textShapes"
     },
     "text-size": {
-      "codepoint": 57840,
+      "codepoint": 57838,
       "fontFamily": "Cil",
       "identifier": "textSize"
     },
     "text-square": {
-      "codepoint": 57841,
+      "codepoint": 57839,
       "fontFamily": "Cil",
       "identifier": "textSquare"
     },
     "text-strike": {
-      "codepoint": 57842,
+      "codepoint": 57840,
       "fontFamily": "Cil",
       "identifier": "textStrike"
     },
     "thumb-down": {
-      "codepoint": 57843,
+      "codepoint": 57841,
       "fontFamily": "Cil",
       "identifier": "thumbDown"
     },
     "thumb-up": {
-      "codepoint": 57844,
+      "codepoint": 57842,
       "fontFamily": "Cil",
       "identifier": "thumbUp"
     },
     "toggle-off": {
-      "codepoint": 57845,
+      "codepoint": 57843,
       "fontFamily": "Cil",
       "identifier": "toggleOff"
     },
     "toggle-on": {
-      "codepoint": 57846,
+      "codepoint": 57844,
       "fontFamily": "Cil",
       "identifier": "toggleOn"
     },
     "toilet": {
-      "codepoint": 57847,
+      "codepoint": 57845,
       "fontFamily": "Cil",
       "identifier": "toilet"
     },
     "touch-app": {
-      "codepoint": 57848,
+      "codepoint": 57846,
       "fontFamily": "Cil",
       "identifier": "touchApp"
     },
     "transfer": {
-      "codepoint": 57849,
+      "codepoint": 57847,
       "fontFamily": "Cil",
       "identifier": "transfer"
     },
     "translate": {
-      "codepoint": 57850,
+      "codepoint": 57848,
       "fontFamily": "Cil",
       "identifier": "translate"
     },
     "trash": {
-      "codepoint": 57851,
+      "codepoint": 57849,
       "fontFamily": "Cil",
       "identifier": "trash"
     },
     "triangle": {
-      "codepoint": 57852,
+      "codepoint": 57850,
       "fontFamily": "Cil",
       "identifier": "triangle"
     },
     "truck": {
-      "codepoint": 57853,
+      "codepoint": 57851,
       "fontFamily": "Cil",
       "identifier": "truck"
     },
     "tv": {
-      "codepoint": 57854,
+      "codepoint": 57852,
       "fontFamily": "Cil",
       "identifier": "tv"
     },
     "underline": {
-      "codepoint": 57855,
+      "codepoint": 57853,
       "fontFamily": "Cil",
       "identifier": "underline"
     },
     "usb": {
-      "codepoint": 57856,
+      "codepoint": 57854,
       "fontFamily": "Cil",
       "identifier": "usb"
     },
     "user": {
-      "codepoint": 57857,
+      "codepoint": 57855,
       "fontFamily": "Cil",
       "identifier": "user"
     },
     "user-female": {
-      "codepoint": 57858,
+      "codepoint": 57856,
       "fontFamily": "Cil",
       "identifier": "userFemale"
     },
     "user-follow": {
-      "codepoint": 57859,
+      "codepoint": 57857,
       "fontFamily": "Cil",
       "identifier": "userFollow"
     },
     "user-plus": {
-      "codepoint": 57860,
+      "codepoint": 57858,
       "fontFamily": "Cil",
       "identifier": "userPlus"
     },
     "user-unfollow": {
-      "codepoint": 57861,
+      "codepoint": 57859,
       "fontFamily": "Cil",
       "identifier": "userUnfollow"
     },
     "user-x": {
-      "codepoint": 57862,
+      "codepoint": 57860,
       "fontFamily": "Cil",
       "identifier": "userX"
     },
     "vector": {
-      "codepoint": 57863,
+      "codepoint": 57861,
       "fontFamily": "Cil",
       "identifier": "vector"
     },
     "vertical-align-bottom": {
-      "codepoint": 57864,
+      "codepoint": 57862,
       "fontFamily": "Cil",
       "identifier": "verticalAlignBottom"
     },
     "vertical-align-bottom1": {
-      "codepoint": 57865,
+      "codepoint": 57863,
       "fontFamily": "Cil",
       "identifier": "verticalAlignBottom1"
     },
     "vertical-align-center": {
-      "codepoint": 57866,
+      "codepoint": 57864,
       "fontFamily": "Cil",
       "identifier": "verticalAlignCenter"
     },
     "vertical-align-center1": {
-      "codepoint": 57867,
+      "codepoint": 57865,
       "fontFamily": "Cil",
       "identifier": "verticalAlignCenter1"
     },
     "vertical-align-top": {
-      "codepoint": 57868,
+      "codepoint": 57866,
       "fontFamily": "Cil",
       "identifier": "verticalAlignTop"
     },
     "vertical-align-top1": {
-      "codepoint": 57869,
+      "codepoint": 57867,
       "fontFamily": "Cil",
       "identifier": "verticalAlignTop1"
     },
     "video": {
-      "codepoint": 57870,
+      "codepoint": 57868,
       "fontFamily": "Cil",
       "identifier": "video"
     },
     "videogame": {
-      "codepoint": 57871,
+      "codepoint": 57869,
       "fontFamily": "Cil",
       "identifier": "videogame"
     },
     "view-column": {
-      "codepoint": 57872,
+      "codepoint": 57870,
       "fontFamily": "Cil",
       "identifier": "viewColumn"
     },
     "view-module": {
-      "codepoint": 57873,
+      "codepoint": 57871,
       "fontFamily": "Cil",
       "identifier": "viewModule"
     },
     "view-quilt": {
-      "codepoint": 57874,
+      "codepoint": 57872,
       "fontFamily": "Cil",
       "identifier": "viewQuilt"
     },
     "view-stream": {
-      "codepoint": 57875,
+      "codepoint": 57873,
       "fontFamily": "Cil",
       "identifier": "viewStream"
     },
     "voice": {
-      "codepoint": 57876,
+      "codepoint": 57874,
       "fontFamily": "Cil",
       "identifier": "voice"
     },
     "voice-over-record": {
-      "codepoint": 57877,
+      "codepoint": 57875,
       "fontFamily": "Cil",
       "identifier": "voiceOverRecord"
     },
     "volume-high": {
-      "codepoint": 57878,
+      "codepoint": 57876,
       "fontFamily": "Cil",
       "identifier": "volumeHigh"
     },
     "volume-low": {
-      "codepoint": 57879,
+      "codepoint": 57877,
       "fontFamily": "Cil",
       "identifier": "volumeLow"
     },
     "volume-off": {
-      "codepoint": 57880,
+      "codepoint": 57878,
       "fontFamily": "Cil",
       "identifier": "volumeOff"
     },
     "walk": {
-      "codepoint": 57881,
+      "codepoint": 57879,
       "fontFamily": "Cil",
       "identifier": "walk"
     },
     "wallet": {
-      "codepoint": 57882,
+      "codepoint": 57880,
       "fontFamily": "Cil",
       "identifier": "wallet"
     },
     "wallpaper": {
-      "codepoint": 57883,
+      "codepoint": 57881,
       "fontFamily": "Cil",
       "identifier": "wallpaper"
     },
     "warning": {
-      "codepoint": 57884,
+      "codepoint": 57882,
       "fontFamily": "Cil",
       "identifier": "warning"
     },
     "watch": {
-      "codepoint": 57885,
+      "codepoint": 57883,
       "fontFamily": "Cil",
       "identifier": "watch"
     },
     "wc": {
-      "codepoint": 57886,
+      "codepoint": 57884,
       "fontFamily": "Cil",
       "identifier": "wc"
     },
     "weightlifitng": {
-      "codepoint": 57887,
+      "codepoint": 57885,
       "fontFamily": "Cil",
       "identifier": "weightlifitng"
     },
     "wheelchair": {
-      "codepoint": 57888,
+      "codepoint": 57886,
       "fontFamily": "Cil",
       "identifier": "wheelchair"
     },
     "wifi-signal-0": {
-      "codepoint": 57889,
+      "codepoint": 57887,
       "fontFamily": "Cil",
       "identifier": "wifiSignal0"
     },
     "wifi-signal-1": {
-      "codepoint": 57890,
+      "codepoint": 57888,
       "fontFamily": "Cil",
       "identifier": "wifiSignal1"
     },
     "wifi-signal-2": {
-      "codepoint": 57891,
+      "codepoint": 57889,
       "fontFamily": "Cil",
       "identifier": "wifiSignal2"
     },
     "wifi-signal-3": {
-      "codepoint": 57892,
+      "codepoint": 57890,
       "fontFamily": "Cil",
       "identifier": "wifiSignal3"
     },
     "wifi-signal-4": {
-      "codepoint": 57893,
+      "codepoint": 57891,
       "fontFamily": "Cil",
       "identifier": "wifiSignal4"
     },
     "wifi-signal-off": {
-      "codepoint": 57894,
+      "codepoint": 57892,
       "fontFamily": "Cil",
       "identifier": "wifiSignalOff"
     },
     "window": {
-      "codepoint": 57895,
+      "codepoint": 57893,
       "fontFamily": "Cil",
       "identifier": "window"
     },
     "window-maximize": {
-      "codepoint": 57896,
+      "codepoint": 57894,
       "fontFamily": "Cil",
       "identifier": "windowMaximize"
     },
     "window-minimize": {
-      "codepoint": 57897,
+      "codepoint": 57895,
       "fontFamily": "Cil",
       "identifier": "windowMinimize"
     },
     "window-restore": {
-      "codepoint": 57898,
+      "codepoint": 57896,
       "fontFamily": "Cil",
       "identifier": "windowRestore"
     },
     "wrap-text": {
-      "codepoint": 57899,
+      "codepoint": 57897,
       "fontFamily": "Cil",
       "identifier": "wrapText"
     },
     "x": {
-      "codepoint": 57900,
+      "codepoint": 57898,
       "fontFamily": "Cil",
       "identifier": "x"
     },
     "x-circle": {
-      "codepoint": 57901,
+      "codepoint": 57899,
       "fontFamily": "Cil",
       "identifier": "xCircle"
     },
     "yen": {
-      "codepoint": 57902,
+      "codepoint": 57900,
       "fontFamily": "Cil",
       "identifier": "yen"
     },
     "zoom": {
-      "codepoint": 57903,
+      "codepoint": 57901,
       "fontFamily": "Cil",
       "identifier": "zoom"
     },
     "zoom-in": {
-      "codepoint": 57904,
+      "codepoint": 57902,
       "fontFamily": "Cil",
       "identifier": "zoomIn"
     },
     "zoom-out": {
-      "codepoint": 57905,
+      "codepoint": 57903,
       "fontFamily": "Cil",
       "identifier": "zoomOut"
     }

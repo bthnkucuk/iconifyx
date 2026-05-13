@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'Apache 2.0',
   licenseSpdx: 'Apache-2.0',
   licenseUrl: 'https://github.com/zendeskgarden/svg-icons/blob/main/LICENSE.md',
-  iconCount: 1027,
+  iconCount: 490,
 );

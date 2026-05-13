@@ -10,5 +10,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   authorUrl: 'https://github.com/zurb/foundation-icon-fonts',
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
-  iconCount: 283,
+  iconCount: 67,
 );

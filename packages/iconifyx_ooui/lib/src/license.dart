@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/wikimedia/oojs-ui/blob/master/LICENSE-MIT',
-  iconCount: 371,
+  iconCount: 329,
 );

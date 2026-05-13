@@ -10,5 +10,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   authorUrl: 'https://github.com/icons8/windows-10-icons',
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
-  iconCount: 234,
+  iconCount: 86,
 );

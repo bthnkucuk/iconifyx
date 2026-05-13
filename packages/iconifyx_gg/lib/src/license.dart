@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/astrit/css.gg/blob/master/LICENSE',
-  iconCount: 705,
+  iconCount: 570,
 );

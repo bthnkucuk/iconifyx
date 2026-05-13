@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Akveo
 /// License: MIT — https://github.com/akveo/eva-icons/blob/master/LICENSE.txt
-/// Icons: 490
+/// Icons: 488
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -3320,128 +3320,114 @@ class EvaIcons {
     fontPackage: 'iconifyx_eva',
   ));
 
-  /// `upload-fill`
-  static const IconifyIconData uploadFill = IconifyIconData(IconData(
-    0xe1d8,
-    fontFamily: 'Eva',
-    fontPackage: 'iconifyx_eva',
-  ));
-
-  /// `upload-outline`
-  static const IconifyIconData uploadOutline = IconifyIconData(IconData(
-    0xe1d9,
-    fontFamily: 'Eva',
-    fontPackage: 'iconifyx_eva',
-  ));
-
   /// `video-fill`
   static const IconifyIconData videoFill = IconifyIconData(IconData(
-    0xe1da,
+    0xe1d8,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `video-off-fill`
   static const IconifyIconData videoOffFill = IconifyIconData(IconData(
-    0xe1db,
+    0xe1d9,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `video-off-outline`
   static const IconifyIconData videoOffOutline = IconifyIconData(IconData(
-    0xe1dc,
+    0xe1da,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `video-outline`
   static const IconifyIconData videoOutline = IconifyIconData(IconData(
-    0xe1dd,
+    0xe1db,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `volume-down-fill`
   static const IconifyIconData volumeDownFill = IconifyIconData(IconData(
-    0xe1de,
+    0xe1dc,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `volume-down-outline`
   static const IconifyIconData volumeDownOutline = IconifyIconData(IconData(
-    0xe1df,
+    0xe1dd,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `volume-mute-fill`
   static const IconifyIconData volumeMuteFill = IconifyIconData(IconData(
-    0xe1e0,
+    0xe1de,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `volume-mute-outline`
   static const IconifyIconData volumeMuteOutline = IconifyIconData(IconData(
-    0xe1e1,
+    0xe1df,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `volume-off-fill`
   static const IconifyIconData volumeOffFill = IconifyIconData(IconData(
-    0xe1e2,
+    0xe1e0,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `volume-off-outline`
   static const IconifyIconData volumeOffOutline = IconifyIconData(IconData(
-    0xe1e3,
+    0xe1e1,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `volume-up-fill`
   static const IconifyIconData volumeUpFill = IconifyIconData(IconData(
-    0xe1e4,
+    0xe1e2,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `volume-up-outline`
   static const IconifyIconData volumeUpOutline = IconifyIconData(IconData(
-    0xe1e5,
+    0xe1e3,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `wifi-fill`
   static const IconifyIconData wifiFill = IconifyIconData(IconData(
-    0xe1e6,
+    0xe1e4,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `wifi-off-fill`
   static const IconifyIconData wifiOffFill = IconifyIconData(IconData(
-    0xe1e7,
+    0xe1e5,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `wifi-off-outline`
   static const IconifyIconData wifiOffOutline = IconifyIconData(IconData(
-    0xe1e8,
+    0xe1e6,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));
 
   /// `wifi-outline`
   static const IconifyIconData wifiOutline = IconifyIconData(IconData(
-    0xe1e9,
+    0xe1e7,
     fontFamily: 'Eva',
     fontPackage: 'iconifyx_eva',
   ));

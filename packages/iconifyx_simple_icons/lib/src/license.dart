@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'CC0 1.0',
   licenseSpdx: 'CC0-1.0',
   licenseUrl: 'https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md',
-  iconCount: 3717,
+  iconCount: 506,
 );

@@ -16,1850 +16,365 @@
       "spdx": "CC-BY-4.0",
       "url": "https://github.com/Viglino/font-gis/blob/main/LICENSE-CC-BY.md"
     },
-    "total": 367
+    "total": 70
   },
   "fonts": [
     {
       "family": "Gis",
-      "nextCodepoint": 57711,
-      "iconCount": 367
+      "nextCodepoint": 57414,
+      "iconCount": 70
     }
   ],
   "icons": {
-    "360": {
-      "codepoint": 57344,
-      "fontFamily": "Gis",
-      "identifier": "n360"
-    },
-    "3dtiles-file": {
-      "codepoint": 57345,
-      "fontFamily": "Gis",
-      "identifier": "n3dtilesFile"
-    },
-    "3dtiles-web": {
-      "codepoint": 57346,
-      "fontFamily": "Gis",
-      "identifier": "n3dtilesWeb"
-    },
-    "arrow": {
-      "codepoint": 57347,
-      "fontFamily": "Gis",
-      "identifier": "arrow"
-    },
     "arrow-o": {
-      "codepoint": 57348,
+      "codepoint": 57344,
       "fontFamily": "Gis",
       "identifier": "arrowO"
     },
-    "azimuth": {
-      "codepoint": 57349,
-      "fontFamily": "Gis",
-      "identifier": "azimuth"
-    },
     "bbox": {
-      "codepoint": 57350,
+      "codepoint": 57345,
       "fontFamily": "Gis",
       "identifier": "bbox"
     },
     "bbox-alt": {
-      "codepoint": 57351,
+      "codepoint": 57346,
       "fontFamily": "Gis",
       "identifier": "bboxAlt"
     },
-    "bicycle": {
-      "codepoint": 57352,
-      "fontFamily": "Gis",
-      "identifier": "bicycle"
-    },
-    "bookmark-poi": {
-      "codepoint": 57353,
-      "fontFamily": "Gis",
-      "identifier": "bookmarkPoi"
-    },
-    "bookmark-poi-b": {
-      "codepoint": 57354,
-      "fontFamily": "Gis",
-      "identifier": "bookmarkPoiB"
-    },
-    "buffer": {
-      "codepoint": 57355,
-      "fontFamily": "Gis",
-      "identifier": "buffer"
-    },
-    "bus-map": {
-      "codepoint": 57356,
-      "fontFamily": "Gis",
-      "identifier": "busMap"
-    },
-    "cadastre-map": {
-      "codepoint": 57357,
-      "fontFamily": "Gis",
-      "identifier": "cadastreMap"
-    },
-    "car": {
-      "codepoint": 57358,
-      "fontFamily": "Gis",
-      "identifier": "car"
-    },
     "circle": {
-      "codepoint": 57359,
+      "codepoint": 57347,
       "fontFamily": "Gis",
       "identifier": "circle"
     },
     "circle-o": {
-      "codepoint": 57360,
+      "codepoint": 57348,
       "fontFamily": "Gis",
       "identifier": "circleO"
     },
     "color": {
-      "codepoint": 57361,
+      "codepoint": 57349,
       "fontFamily": "Gis",
       "identifier": "color"
     },
-    "compare-map": {
-      "codepoint": 57362,
-      "fontFamily": "Gis",
-      "identifier": "compareMap"
-    },
     "compass": {
-      "codepoint": 57363,
+      "codepoint": 57350,
       "fontFamily": "Gis",
       "identifier": "compass"
     },
-    "compass-alt": {
-      "codepoint": 57364,
-      "fontFamily": "Gis",
-      "identifier": "compassAlt"
-    },
-    "compass-alt-o": {
-      "codepoint": 57365,
-      "fontFamily": "Gis",
-      "identifier": "compassAltO"
-    },
-    "compass-needle": {
-      "codepoint": 57366,
-      "fontFamily": "Gis",
-      "identifier": "compassNeedle"
-    },
-    "compass-rose": {
-      "codepoint": 57367,
-      "fontFamily": "Gis",
-      "identifier": "compassRose"
-    },
-    "compass-rose-n": {
-      "codepoint": 57368,
-      "fontFamily": "Gis",
-      "identifier": "compassRoseN"
-    },
-    "contour-map": {
-      "codepoint": 57369,
-      "fontFamily": "Gis",
-      "identifier": "contourMap"
-    },
-    "convex-hull": {
-      "codepoint": 57370,
-      "fontFamily": "Gis",
-      "identifier": "convexHull"
-    },
-    "coord-grid": {
-      "codepoint": 57371,
-      "fontFamily": "Gis",
-      "identifier": "coordGrid"
-    },
-    "coord-system": {
-      "codepoint": 57372,
-      "fontFamily": "Gis",
-      "identifier": "coordSystem"
-    },
-    "coord-system-3d": {
-      "codepoint": 57373,
-      "fontFamily": "Gis",
-      "identifier": "coordSystem3d"
-    },
     "coord-system-3d-alt": {
-      "codepoint": 57374,
+      "codepoint": 57351,
       "fontFamily": "Gis",
       "identifier": "coordSystem3dAlt"
     },
     "coord-system-alt": {
-      "codepoint": 57375,
+      "codepoint": 57352,
       "fontFamily": "Gis",
       "identifier": "coordSystemAlt"
     },
-    "copy-line": {
-      "codepoint": 57376,
-      "fontFamily": "Gis",
-      "identifier": "copyLine"
-    },
-    "copy-point": {
-      "codepoint": 57377,
-      "fontFamily": "Gis",
-      "identifier": "copyPoint"
-    },
-    "copy-poly": {
-      "codepoint": 57378,
-      "fontFamily": "Gis",
-      "identifier": "copyPoly"
-    },
-    "csw": {
-      "codepoint": 57379,
-      "fontFamily": "Gis",
-      "identifier": "csw"
-    },
-    "cube-3d": {
-      "codepoint": 57380,
-      "fontFamily": "Gis",
-      "identifier": "cube3d"
-    },
-    "difference": {
-      "codepoint": 57381,
-      "fontFamily": "Gis",
-      "identifier": "difference"
-    },
-    "dilatation": {
-      "codepoint": 57382,
-      "fontFamily": "Gis",
-      "identifier": "dilatation"
-    },
-    "direct": {
-      "codepoint": 57383,
-      "fontFamily": "Gis",
-      "identifier": "direct"
-    },
     "direction": {
-      "codepoint": 57384,
+      "codepoint": 57353,
       "fontFamily": "Gis",
       "identifier": "direction"
     },
-    "directions": {
-      "codepoint": 57385,
-      "fontFamily": "Gis",
-      "identifier": "directions"
-    },
-    "drone": {
-      "codepoint": 57386,
-      "fontFamily": "Gis",
-      "identifier": "drone"
-    },
-    "earth": {
-      "codepoint": 57387,
-      "fontFamily": "Gis",
-      "identifier": "earth"
-    },
-    "earth-america": {
-      "codepoint": 57388,
-      "fontFamily": "Gis",
-      "identifier": "earthAmerica"
-    },
-    "earth-america-o": {
-      "codepoint": 57389,
-      "fontFamily": "Gis",
-      "identifier": "earthAmericaO"
-    },
-    "earth-asia": {
-      "codepoint": 57390,
-      "fontFamily": "Gis",
-      "identifier": "earthAsia"
-    },
-    "earth-asia-o": {
-      "codepoint": 57391,
-      "fontFamily": "Gis",
-      "identifier": "earthAsiaO"
-    },
-    "earth-atlantic": {
-      "codepoint": 57392,
-      "fontFamily": "Gis",
-      "identifier": "earthAtlantic"
-    },
-    "earth-atlantic-o": {
-      "codepoint": 57393,
-      "fontFamily": "Gis",
-      "identifier": "earthAtlanticO"
-    },
-    "earth-australia": {
-      "codepoint": 57394,
-      "fontFamily": "Gis",
-      "identifier": "earthAustralia"
-    },
-    "earth-australia-o": {
-      "codepoint": 57395,
-      "fontFamily": "Gis",
-      "identifier": "earthAustraliaO"
-    },
-    "earth-euro-africa": {
-      "codepoint": 57396,
-      "fontFamily": "Gis",
-      "identifier": "earthEuroAfrica"
-    },
-    "earth-euro-africa-o": {
-      "codepoint": 57397,
-      "fontFamily": "Gis",
-      "identifier": "earthEuroAfricaO"
-    },
-    "earth-gear": {
-      "codepoint": 57398,
-      "fontFamily": "Gis",
-      "identifier": "earthGear"
-    },
-    "earth-net": {
-      "codepoint": 57399,
-      "fontFamily": "Gis",
-      "identifier": "earthNet"
-    },
-    "earth-net-o": {
-      "codepoint": 57400,
-      "fontFamily": "Gis",
-      "identifier": "earthNetO"
-    },
-    "earth-network": {
-      "codepoint": 57401,
-      "fontFamily": "Gis",
-      "identifier": "earthNetwork"
-    },
-    "earth-network-o": {
-      "codepoint": 57402,
-      "fontFamily": "Gis",
-      "identifier": "earthNetworkO"
-    },
-    "earth-north": {
-      "codepoint": 57403,
-      "fontFamily": "Gis",
-      "identifier": "earthNorth"
-    },
-    "earth-north-o": {
-      "codepoint": 57404,
-      "fontFamily": "Gis",
-      "identifier": "earthNorthO"
-    },
-    "earth-o": {
-      "codepoint": 57405,
-      "fontFamily": "Gis",
-      "identifier": "earthO"
-    },
-    "earth-pacific": {
-      "codepoint": 57406,
-      "fontFamily": "Gis",
-      "identifier": "earthPacific"
-    },
-    "earth-pacific-o": {
-      "codepoint": 57407,
-      "fontFamily": "Gis",
-      "identifier": "earthPacificO"
-    },
-    "earth-south": {
-      "codepoint": 57408,
-      "fontFamily": "Gis",
-      "identifier": "earthSouth"
-    },
-    "earth-south-o": {
-      "codepoint": 57409,
-      "fontFamily": "Gis",
-      "identifier": "earthSouthO"
-    },
-    "erosion": {
-      "codepoint": 57410,
-      "fontFamily": "Gis",
-      "identifier": "erosion"
-    },
-    "esri-json-file": {
-      "codepoint": 57411,
-      "fontFamily": "Gis",
-      "identifier": "esriJsonFile"
-    },
     "extent": {
-      "codepoint": 57412,
+      "codepoint": 57354,
       "fontFamily": "Gis",
       "identifier": "extent"
     },
-    "extent-alt": {
-      "codepoint": 57413,
-      "fontFamily": "Gis",
-      "identifier": "extentAlt"
-    },
     "finish": {
-      "codepoint": 57414,
+      "codepoint": 57355,
       "fontFamily": "Gis",
       "identifier": "finish"
     },
     "flab-b-o": {
-      "codepoint": 57415,
+      "codepoint": 57356,
       "fontFamily": "Gis",
       "identifier": "flabBO"
     },
     "flag": {
-      "codepoint": 57416,
+      "codepoint": 57357,
       "fontFamily": "Gis",
       "identifier": "flag"
     },
     "flag-b": {
-      "codepoint": 57417,
+      "codepoint": 57358,
       "fontFamily": "Gis",
       "identifier": "flagB"
     },
     "flag-finish": {
-      "codepoint": 57418,
+      "codepoint": 57359,
       "fontFamily": "Gis",
       "identifier": "flagFinish"
     },
     "flag-finish-b-o": {
-      "codepoint": 57419,
+      "codepoint": 57360,
       "fontFamily": "Gis",
       "identifier": "flagFinishBO"
     },
     "flag-o": {
-      "codepoint": 57420,
+      "codepoint": 57361,
       "fontFamily": "Gis",
       "identifier": "flagO"
     },
     "flag-start": {
-      "codepoint": 57421,
+      "codepoint": 57362,
       "fontFamily": "Gis",
       "identifier": "flagStart"
     },
     "flag-start-b": {
-      "codepoint": 57422,
+      "codepoint": 57363,
       "fontFamily": "Gis",
       "identifier": "flagStartB"
     },
     "flag-start-b-o": {
-      "codepoint": 57423,
+      "codepoint": 57364,
       "fontFamily": "Gis",
       "identifier": "flagStartBO"
     },
     "flag-start-o": {
-      "codepoint": 57424,
+      "codepoint": 57365,
       "fontFamily": "Gis",
       "identifier": "flagStartO"
     },
     "flip-h": {
-      "codepoint": 57425,
+      "codepoint": 57366,
       "fontFamily": "Gis",
       "identifier": "flipH"
     },
     "flip-v": {
-      "codepoint": 57426,
+      "codepoint": 57367,
       "fontFamily": "Gis",
       "identifier": "flipV"
     },
-    "flow-map": {
-      "codepoint": 57427,
-      "fontFamily": "Gis",
-      "identifier": "flowMap"
-    },
-    "folder-globe": {
-      "codepoint": 57428,
-      "fontFamily": "Gis",
-      "identifier": "folderGlobe"
-    },
-    "folder-globe-o": {
-      "codepoint": 57429,
-      "fontFamily": "Gis",
-      "identifier": "folderGlobeO"
-    },
-    "folder-map": {
-      "codepoint": 57430,
-      "fontFamily": "Gis",
-      "identifier": "folderMap"
-    },
-    "folder-maps": {
-      "codepoint": 57431,
-      "fontFamily": "Gis",
-      "identifier": "folderMaps"
-    },
-    "folder-poi": {
-      "codepoint": 57432,
-      "fontFamily": "Gis",
-      "identifier": "folderPoi"
-    },
-    "folder-poi-o": {
-      "codepoint": 57433,
-      "fontFamily": "Gis",
-      "identifier": "folderPoiO"
-    },
-    "folder-pois": {
-      "codepoint": 57434,
-      "fontFamily": "Gis",
-      "identifier": "folderPois"
-    },
-    "full-screen": {
-      "codepoint": 57435,
-      "fontFamily": "Gis",
-      "identifier": "fullScreen"
-    },
-    "geojson-file": {
-      "codepoint": 57436,
-      "fontFamily": "Gis",
-      "identifier": "geojsonFile"
-    },
-    "globe": {
-      "codepoint": 57437,
-      "fontFamily": "Gis",
-      "identifier": "globe"
-    },
-    "globe-alt": {
-      "codepoint": 57438,
-      "fontFamily": "Gis",
-      "identifier": "globeAlt"
-    },
-    "globe-alt-o": {
-      "codepoint": 57439,
-      "fontFamily": "Gis",
-      "identifier": "globeAltO"
-    },
-    "globe-earth": {
-      "codepoint": 57440,
-      "fontFamily": "Gis",
-      "identifier": "globeEarth"
-    },
-    "globe-earth-alt": {
-      "codepoint": 57441,
-      "fontFamily": "Gis",
-      "identifier": "globeEarthAlt"
-    },
-    "globe-favorite": {
-      "codepoint": 57442,
-      "fontFamily": "Gis",
-      "identifier": "globeFavorite"
-    },
-    "globe-gear": {
-      "codepoint": 57443,
-      "fontFamily": "Gis",
-      "identifier": "globeGear"
-    },
-    "globe-o": {
-      "codepoint": 57444,
-      "fontFamily": "Gis",
-      "identifier": "globeO"
-    },
-    "globe-options": {
-      "codepoint": 57445,
-      "fontFamily": "Gis",
-      "identifier": "globeOptions"
-    },
-    "globe-poi": {
-      "codepoint": 57446,
-      "fontFamily": "Gis",
-      "identifier": "globePoi"
-    },
-    "globe-share": {
-      "codepoint": 57447,
-      "fontFamily": "Gis",
-      "identifier": "globeShare"
-    },
-    "globe-shield": {
-      "codepoint": 57448,
-      "fontFamily": "Gis",
-      "identifier": "globeShield"
-    },
-    "globe-smiley": {
-      "codepoint": 57449,
-      "fontFamily": "Gis",
-      "identifier": "globeSmiley"
-    },
-    "globe-star": {
-      "codepoint": 57450,
-      "fontFamily": "Gis",
-      "identifier": "globeStar"
-    },
-    "globe-user": {
-      "codepoint": 57451,
-      "fontFamily": "Gis",
-      "identifier": "globeUser"
-    },
-    "globe-users": {
-      "codepoint": 57452,
-      "fontFamily": "Gis",
-      "identifier": "globeUsers"
-    },
     "gnss": {
-      "codepoint": 57453,
+      "codepoint": 57368,
       "fontFamily": "Gis",
       "identifier": "gnss"
     },
-    "gnss-antenna": {
-      "codepoint": 57454,
-      "fontFamily": "Gis",
-      "identifier": "gnssAntenna"
-    },
-    "gpx-file": {
-      "codepoint": 57455,
-      "fontFamily": "Gis",
-      "identifier": "gpxFile"
-    },
     "grid": {
-      "codepoint": 57456,
+      "codepoint": 57369,
       "fontFamily": "Gis",
       "identifier": "grid"
     },
-    "height-map": {
-      "codepoint": 57457,
-      "fontFamily": "Gis",
-      "identifier": "heightMap"
-    },
-    "help-larrow": {
-      "codepoint": 57458,
-      "fontFamily": "Gis",
-      "identifier": "helpLarrow"
-    },
-    "help-rarrow": {
-      "codepoint": 57459,
-      "fontFamily": "Gis",
-      "identifier": "helpRarrow"
-    },
     "hex-map": {
-      "codepoint": 57460,
+      "codepoint": 57370,
       "fontFamily": "Gis",
       "identifier": "hexMap"
     },
-    "hiker": {
-      "codepoint": 57461,
-      "fontFamily": "Gis",
-      "identifier": "hiker"
-    },
-    "home": {
-      "codepoint": 57462,
-      "fontFamily": "Gis",
-      "identifier": "home"
-    },
-    "hydro-map": {
-      "codepoint": 57463,
-      "fontFamily": "Gis",
-      "identifier": "hydroMap"
-    },
-    "i3s-file": {
-      "codepoint": 57464,
-      "fontFamily": "Gis",
-      "identifier": "i3sFile"
-    },
-    "i3s-web": {
-      "codepoint": 57465,
-      "fontFamily": "Gis",
-      "identifier": "i3sWeb"
-    },
-    "intersection": {
-      "codepoint": 57466,
-      "fontFamily": "Gis",
-      "identifier": "intersection"
-    },
-    "kml-file": {
-      "codepoint": 57467,
-      "fontFamily": "Gis",
-      "identifier": "kmlFile"
-    },
-    "landcover-map": {
-      "codepoint": 57468,
-      "fontFamily": "Gis",
-      "identifier": "landcoverMap"
-    },
-    "layer": {
-      "codepoint": 57469,
-      "fontFamily": "Gis",
-      "identifier": "layer"
-    },
-    "layer-2-add-o": {
-      "codepoint": 57470,
-      "fontFamily": "Gis",
-      "identifier": "layer2AddO"
-    },
-    "layer-2-rm-o": {
-      "codepoint": 57471,
-      "fontFamily": "Gis",
-      "identifier": "layer2RmO"
-    },
-    "layer-add": {
-      "codepoint": 57472,
-      "fontFamily": "Gis",
-      "identifier": "layerAdd"
-    },
-    "layer-add-o": {
-      "codepoint": 57473,
-      "fontFamily": "Gis",
-      "identifier": "layerAddO"
-    },
     "layer-alt": {
-      "codepoint": 57474,
+      "codepoint": 57371,
       "fontFamily": "Gis",
       "identifier": "layerAlt"
     },
     "layer-alt-add-o": {
-      "codepoint": 57475,
+      "codepoint": 57372,
       "fontFamily": "Gis",
       "identifier": "layerAltAddO"
     },
-    "layer-alt-edit": {
-      "codepoint": 57476,
-      "fontFamily": "Gis",
-      "identifier": "layerAltEdit"
-    },
     "layer-alt-o": {
-      "codepoint": 57477,
+      "codepoint": 57373,
       "fontFamily": "Gis",
       "identifier": "layerAltO"
     },
-    "layer-alt-poi": {
-      "codepoint": 57478,
-      "fontFamily": "Gis",
-      "identifier": "layerAltPoi"
-    },
     "layer-alt-rm-o": {
-      "codepoint": 57479,
+      "codepoint": 57374,
       "fontFamily": "Gis",
       "identifier": "layerAltRmO"
     },
     "layer-alt-x-o": {
-      "codepoint": 57480,
+      "codepoint": 57375,
       "fontFamily": "Gis",
       "identifier": "layerAltXO"
     },
-    "layer-contour": {
-      "codepoint": 57481,
-      "fontFamily": "Gis",
-      "identifier": "layerContour"
-    },
-    "layer-down": {
-      "codepoint": 57482,
-      "fontFamily": "Gis",
-      "identifier": "layerDown"
-    },
-    "layer-download": {
-      "codepoint": 57483,
-      "fontFamily": "Gis",
-      "identifier": "layerDownload"
-    },
-    "layer-edit": {
-      "codepoint": 57484,
-      "fontFamily": "Gis",
-      "identifier": "layerEdit"
-    },
-    "layer-height": {
-      "codepoint": 57485,
-      "fontFamily": "Gis",
-      "identifier": "layerHeight"
-    },
-    "layer-hydro": {
-      "codepoint": 57486,
-      "fontFamily": "Gis",
-      "identifier": "layerHydro"
-    },
-    "layer-landcover": {
-      "codepoint": 57487,
-      "fontFamily": "Gis",
-      "identifier": "layerLandcover"
-    },
-    "layer-o": {
-      "codepoint": 57488,
-      "fontFamily": "Gis",
-      "identifier": "layerO"
-    },
-    "layer-poi": {
-      "codepoint": 57489,
-      "fontFamily": "Gis",
-      "identifier": "layerPoi"
-    },
-    "layer-rm": {
-      "codepoint": 57490,
-      "fontFamily": "Gis",
-      "identifier": "layerRm"
-    },
-    "layer-rm-o": {
-      "codepoint": 57491,
-      "fontFamily": "Gis",
-      "identifier": "layerRmO"
-    },
     "layer-road": {
-      "codepoint": 57492,
+      "codepoint": 57376,
       "fontFamily": "Gis",
       "identifier": "layerRoad"
     },
     "layer-stack": {
-      "codepoint": 57493,
+      "codepoint": 57377,
       "fontFamily": "Gis",
       "identifier": "layerStack"
     },
     "layer-stack-o": {
-      "codepoint": 57494,
+      "codepoint": 57378,
       "fontFamily": "Gis",
       "identifier": "layerStackO"
     },
-    "layer-stat": {
-      "codepoint": 57495,
-      "fontFamily": "Gis",
-      "identifier": "layerStat"
-    },
     "layer-stat-alt": {
-      "codepoint": 57496,
+      "codepoint": 57379,
       "fontFamily": "Gis",
       "identifier": "layerStatAlt"
     },
-    "layer-up": {
-      "codepoint": 57497,
-      "fontFamily": "Gis",
-      "identifier": "layerUp"
-    },
-    "layer-upload": {
-      "codepoint": 57498,
-      "fontFamily": "Gis",
-      "identifier": "layerUpload"
-    },
-    "layers": {
-      "codepoint": 57499,
-      "fontFamily": "Gis",
-      "identifier": "layers"
-    },
-    "layers-o": {
-      "codepoint": 57500,
-      "fontFamily": "Gis",
-      "identifier": "layersO"
-    },
-    "layers-poi": {
-      "codepoint": 57501,
-      "fontFamily": "Gis",
-      "identifier": "layersPoi"
-    },
     "location": {
-      "codepoint": 57502,
+      "codepoint": 57380,
       "fontFamily": "Gis",
       "identifier": "location"
     },
-    "location-arrow": {
-      "codepoint": 57503,
-      "fontFamily": "Gis",
-      "identifier": "locationArrow"
-    },
-    "location-arrow-o": {
-      "codepoint": 57504,
-      "fontFamily": "Gis",
-      "identifier": "locationArrowO"
-    },
-    "location-man": {
-      "codepoint": 57505,
-      "fontFamily": "Gis",
-      "identifier": "locationMan"
-    },
-    "location-man-alt": {
-      "codepoint": 57506,
-      "fontFamily": "Gis",
-      "identifier": "locationManAlt"
-    },
     "location-on": {
-      "codepoint": 57507,
+      "codepoint": 57381,
       "fontFamily": "Gis",
       "identifier": "locationOn"
     },
-    "location-poi": {
-      "codepoint": 57508,
-      "fontFamily": "Gis",
-      "identifier": "locationPoi"
-    },
-    "location-poi-o": {
-      "codepoint": 57509,
-      "fontFamily": "Gis",
-      "identifier": "locationPoiO"
-    },
-    "magnify-map": {
-      "codepoint": 57510,
-      "fontFamily": "Gis",
-      "identifier": "magnifyMap"
-    },
-    "map": {
-      "codepoint": 57511,
-      "fontFamily": "Gis",
-      "identifier": "map"
-    },
-    "map-add": {
-      "codepoint": 57512,
-      "fontFamily": "Gis",
-      "identifier": "mapAdd"
-    },
-    "map-book": {
-      "codepoint": 57513,
-      "fontFamily": "Gis",
-      "identifier": "mapBook"
-    },
     "map-bookmark": {
-      "codepoint": 57514,
+      "codepoint": 57382,
       "fontFamily": "Gis",
       "identifier": "mapBookmark"
     },
     "map-control": {
-      "codepoint": 57515,
+      "codepoint": 57383,
       "fontFamily": "Gis",
       "identifier": "mapControl"
     },
-    "map-edit": {
-      "codepoint": 57516,
-      "fontFamily": "Gis",
-      "identifier": "mapEdit"
-    },
-    "map-extent": {
-      "codepoint": 57517,
-      "fontFamily": "Gis",
-      "identifier": "mapExtent"
-    },
-    "map-favorite": {
-      "codepoint": 57518,
-      "fontFamily": "Gis",
-      "identifier": "mapFavorite"
-    },
     "map-legend": {
-      "codepoint": 57519,
+      "codepoint": 57384,
       "fontFamily": "Gis",
       "identifier": "mapLegend"
     },
     "map-legend-o": {
-      "codepoint": 57520,
+      "codepoint": 57385,
       "fontFamily": "Gis",
       "identifier": "mapLegendO"
     },
-    "map-lock": {
-      "codepoint": 57521,
-      "fontFamily": "Gis",
-      "identifier": "mapLock"
-    },
     "map-o": {
-      "codepoint": 57522,
+      "codepoint": 57386,
       "fontFamily": "Gis",
       "identifier": "mapO"
     },
-    "map-options": {
-      "codepoint": 57523,
-      "fontFamily": "Gis",
-      "identifier": "mapOptions"
-    },
-    "map-options-alt": {
-      "codepoint": 57524,
-      "fontFamily": "Gis",
-      "identifier": "mapOptionsAlt"
-    },
     "map-play": {
-      "codepoint": 57525,
+      "codepoint": 57387,
       "fontFamily": "Gis",
       "identifier": "mapPlay"
     },
-    "map-poi": {
-      "codepoint": 57526,
-      "fontFamily": "Gis",
-      "identifier": "mapPoi"
-    },
-    "map-print": {
-      "codepoint": 57527,
-      "fontFamily": "Gis",
-      "identifier": "mapPrint"
-    },
-    "map-rm": {
-      "codepoint": 57528,
-      "fontFamily": "Gis",
-      "identifier": "mapRm"
-    },
-    "map-route": {
-      "codepoint": 57529,
-      "fontFamily": "Gis",
-      "identifier": "mapRoute"
-    },
-    "map-search": {
-      "codepoint": 57530,
-      "fontFamily": "Gis",
-      "identifier": "mapSearch"
-    },
-    "map-send": {
-      "codepoint": 57531,
-      "fontFamily": "Gis",
-      "identifier": "mapSend"
-    },
-    "map-share": {
-      "codepoint": 57532,
-      "fontFamily": "Gis",
-      "identifier": "mapShare"
-    },
-    "map-share-alt": {
-      "codepoint": 57533,
-      "fontFamily": "Gis",
-      "identifier": "mapShareAlt"
-    },
-    "map-smiley": {
-      "codepoint": 57534,
-      "fontFamily": "Gis",
-      "identifier": "mapSmiley"
-    },
-    "map-star": {
-      "codepoint": 57535,
-      "fontFamily": "Gis",
-      "identifier": "mapStar"
-    },
     "map-stat": {
-      "codepoint": 57536,
+      "codepoint": 57388,
       "fontFamily": "Gis",
       "identifier": "mapStat"
     },
     "map-tag": {
-      "codepoint": 57537,
+      "codepoint": 57389,
       "fontFamily": "Gis",
       "identifier": "mapTag"
     },
-    "map-tags": {
-      "codepoint": 57538,
-      "fontFamily": "Gis",
-      "identifier": "mapTags"
-    },
     "map-time": {
-      "codepoint": 57539,
+      "codepoint": 57390,
       "fontFamily": "Gis",
       "identifier": "mapTime"
     },
-    "map-unlock": {
-      "codepoint": 57540,
-      "fontFamily": "Gis",
-      "identifier": "mapUnlock"
-    },
-    "map-user": {
-      "codepoint": 57541,
-      "fontFamily": "Gis",
-      "identifier": "mapUser"
-    },
-    "map-users": {
-      "codepoint": 57542,
-      "fontFamily": "Gis",
-      "identifier": "mapUsers"
-    },
     "measure": {
-      "codepoint": 57543,
+      "codepoint": 57391,
       "fontFamily": "Gis",
       "identifier": "measure"
     },
-    "measure-area": {
-      "codepoint": 57544,
-      "fontFamily": "Gis",
-      "identifier": "measureArea"
-    },
-    "measure-area-alt": {
-      "codepoint": 57545,
-      "fontFamily": "Gis",
-      "identifier": "measureAreaAlt"
-    },
-    "measure-line": {
-      "codepoint": 57546,
-      "fontFamily": "Gis",
-      "identifier": "measureLine"
-    },
-    "modify-line": {
-      "codepoint": 57547,
-      "fontFamily": "Gis",
-      "identifier": "modifyLine"
-    },
-    "modify-poly": {
-      "codepoint": 57548,
-      "fontFamily": "Gis",
-      "identifier": "modifyPoly"
-    },
-    "modify-poly-o": {
-      "codepoint": 57549,
-      "fontFamily": "Gis",
-      "identifier": "modifyPolyO"
-    },
-    "mosaic": {
-      "codepoint": 57550,
-      "fontFamily": "Gis",
-      "identifier": "mosaic"
-    },
-    "move": {
-      "codepoint": 57551,
-      "fontFamily": "Gis",
-      "identifier": "move"
-    },
-    "move-alt": {
-      "codepoint": 57552,
-      "fontFamily": "Gis",
-      "identifier": "moveAlt"
-    },
-    "multipoint": {
-      "codepoint": 57553,
-      "fontFamily": "Gis",
-      "identifier": "multipoint"
-    },
-    "mvt": {
-      "codepoint": 57554,
-      "fontFamily": "Gis",
-      "identifier": "mvt"
-    },
-    "network": {
-      "codepoint": 57555,
-      "fontFamily": "Gis",
-      "identifier": "network"
-    },
-    "network-o": {
-      "codepoint": 57556,
-      "fontFamily": "Gis",
-      "identifier": "networkO"
-    },
-    "north-arrow": {
-      "codepoint": 57557,
-      "fontFamily": "Gis",
-      "identifier": "northArrow"
-    },
-    "north-arrow-n": {
-      "codepoint": 57558,
-      "fontFamily": "Gis",
-      "identifier": "northArrowN"
-    },
-    "offset": {
-      "codepoint": 57559,
-      "fontFamily": "Gis",
-      "identifier": "offset"
-    },
-    "openls": {
-      "codepoint": 57560,
-      "fontFamily": "Gis",
-      "identifier": "openls"
-    },
-    "pedestrian": {
-      "codepoint": 57561,
-      "fontFamily": "Gis",
-      "identifier": "pedestrian"
-    },
-    "phone-map": {
-      "codepoint": 57562,
-      "fontFamily": "Gis",
-      "identifier": "phoneMap"
-    },
-    "phone-route": {
-      "codepoint": 57563,
-      "fontFamily": "Gis",
-      "identifier": "phoneRoute"
-    },
-    "phone-route-alt": {
-      "codepoint": 57564,
-      "fontFamily": "Gis",
-      "identifier": "phoneRouteAlt"
-    },
-    "phone-route-alt-r": {
-      "codepoint": 57565,
-      "fontFamily": "Gis",
-      "identifier": "phoneRouteAltR"
-    },
-    "photogrammetry": {
-      "codepoint": 57566,
-      "fontFamily": "Gis",
-      "identifier": "photogrammetry"
-    },
     "pin": {
-      "codepoint": 57567,
+      "codepoint": 57392,
       "fontFamily": "Gis",
       "identifier": "pin"
     },
-    "pin-earth": {
-      "codepoint": 57568,
-      "fontFamily": "Gis",
-      "identifier": "pinEarth"
-    },
-    "pirate-map": {
-      "codepoint": 57569,
-      "fontFamily": "Gis",
-      "identifier": "pirateMap"
-    },
-    "pirate-poi": {
-      "codepoint": 57570,
-      "fontFamily": "Gis",
-      "identifier": "piratePoi"
-    },
-    "poi": {
-      "codepoint": 57571,
-      "fontFamily": "Gis",
-      "identifier": "poi"
-    },
-    "poi-alt": {
-      "codepoint": 57572,
-      "fontFamily": "Gis",
-      "identifier": "poiAlt"
-    },
-    "poi-alt-o": {
-      "codepoint": 57573,
-      "fontFamily": "Gis",
-      "identifier": "poiAltO"
-    },
-    "poi-earth": {
-      "codepoint": 57574,
-      "fontFamily": "Gis",
-      "identifier": "poiEarth"
-    },
     "poi-favorite": {
-      "codepoint": 57575,
+      "codepoint": 57393,
       "fontFamily": "Gis",
       "identifier": "poiFavorite"
     },
-    "poi-favorite-o": {
-      "codepoint": 57576,
-      "fontFamily": "Gis",
-      "identifier": "poiFavoriteO"
-    },
-    "poi-home": {
-      "codepoint": 57577,
-      "fontFamily": "Gis",
-      "identifier": "poiHome"
-    },
-    "poi-home-o": {
-      "codepoint": 57578,
-      "fontFamily": "Gis",
-      "identifier": "poiHomeO"
-    },
-    "poi-info": {
-      "codepoint": 57579,
-      "fontFamily": "Gis",
-      "identifier": "poiInfo"
-    },
-    "poi-info-o": {
-      "codepoint": 57580,
-      "fontFamily": "Gis",
-      "identifier": "poiInfoO"
-    },
-    "poi-map": {
-      "codepoint": 57581,
-      "fontFamily": "Gis",
-      "identifier": "poiMap"
-    },
-    "poi-map-o": {
-      "codepoint": 57582,
-      "fontFamily": "Gis",
-      "identifier": "poiMapO"
-    },
-    "poi-o": {
-      "codepoint": 57583,
-      "fontFamily": "Gis",
-      "identifier": "poiO"
-    },
-    "poi-slash": {
-      "codepoint": 57584,
-      "fontFamily": "Gis",
-      "identifier": "poiSlash"
-    },
-    "poi-slash-o": {
-      "codepoint": 57585,
-      "fontFamily": "Gis",
-      "identifier": "poiSlashO"
-    },
-    "point": {
-      "codepoint": 57586,
-      "fontFamily": "Gis",
-      "identifier": "point"
-    },
-    "pois": {
-      "codepoint": 57587,
-      "fontFamily": "Gis",
-      "identifier": "pois"
-    },
-    "pois-o": {
-      "codepoint": 57588,
-      "fontFamily": "Gis",
-      "identifier": "poisO"
-    },
-    "polygon": {
-      "codepoint": 57589,
-      "fontFamily": "Gis",
-      "identifier": "polygon"
-    },
-    "polygon-hole": {
-      "codepoint": 57590,
-      "fontFamily": "Gis",
-      "identifier": "polygonHole"
-    },
-    "polygon-hole-o": {
-      "codepoint": 57591,
-      "fontFamily": "Gis",
-      "identifier": "polygonHoleO"
-    },
-    "polygon-hole-pt": {
-      "codepoint": 57592,
-      "fontFamily": "Gis",
-      "identifier": "polygonHolePt"
-    },
-    "polygon-o": {
-      "codepoint": 57593,
-      "fontFamily": "Gis",
-      "identifier": "polygonO"
-    },
-    "polygon-o-dash": {
-      "codepoint": 57594,
-      "fontFamily": "Gis",
-      "identifier": "polygonODash"
-    },
-    "polygon-pt": {
-      "codepoint": 57595,
-      "fontFamily": "Gis",
-      "identifier": "polygonPt"
-    },
-    "polyline": {
-      "codepoint": 57596,
-      "fontFamily": "Gis",
-      "identifier": "polyline"
-    },
     "polyline-dash": {
-      "codepoint": 57597,
+      "codepoint": 57394,
       "fontFamily": "Gis",
       "identifier": "polylineDash"
     },
-    "polyline-pt": {
-      "codepoint": 57598,
-      "fontFamily": "Gis",
-      "identifier": "polylinePt"
-    },
-    "position": {
-      "codepoint": 57599,
-      "fontFamily": "Gis",
-      "identifier": "position"
-    },
-    "position-man": {
-      "codepoint": 57600,
-      "fontFamily": "Gis",
-      "identifier": "positionMan"
-    },
-    "position-o": {
-      "codepoint": 57601,
-      "fontFamily": "Gis",
-      "identifier": "positionO"
-    },
-    "profile": {
-      "codepoint": 57602,
-      "fontFamily": "Gis",
-      "identifier": "profile"
-    },
-    "profile-o": {
-      "codepoint": 57603,
-      "fontFamily": "Gis",
-      "identifier": "profileO"
-    },
-    "proj-conic": {
-      "codepoint": 57604,
-      "fontFamily": "Gis",
-      "identifier": "projConic"
-    },
-    "proj-geo": {
-      "codepoint": 57605,
-      "fontFamily": "Gis",
-      "identifier": "projGeo"
-    },
-    "proj-point": {
-      "codepoint": 57606,
-      "fontFamily": "Gis",
-      "identifier": "projPoint"
-    },
-    "proj-square": {
-      "codepoint": 57607,
-      "fontFamily": "Gis",
-      "identifier": "projSquare"
-    },
-    "proj-stereo": {
-      "codepoint": 57608,
-      "fontFamily": "Gis",
-      "identifier": "projStereo"
-    },
-    "proj-utm": {
-      "codepoint": 57609,
-      "fontFamily": "Gis",
-      "identifier": "projUtm"
-    },
     "pushpin": {
-      "codepoint": 57610,
+      "codepoint": 57395,
       "fontFamily": "Gis",
       "identifier": "pushpin"
     },
-    "pyramid": {
-      "codepoint": 57611,
-      "fontFamily": "Gis",
-      "identifier": "pyramid"
-    },
     "rectangle": {
-      "codepoint": 57612,
+      "codepoint": 57396,
       "fontFamily": "Gis",
       "identifier": "rectangle"
     },
     "rectangle-o": {
-      "codepoint": 57613,
+      "codepoint": 57397,
       "fontFamily": "Gis",
       "identifier": "rectangleO"
     },
-    "rectangle-pt": {
-      "codepoint": 57614,
-      "fontFamily": "Gis",
-      "identifier": "rectanglePt"
-    },
-    "regular-shape": {
-      "codepoint": 57615,
-      "fontFamily": "Gis",
-      "identifier": "regularShape"
-    },
-    "regular-shape-o": {
-      "codepoint": 57616,
-      "fontFamily": "Gis",
-      "identifier": "regularShapeO"
-    },
-    "regular-shape-pt": {
-      "codepoint": 57617,
-      "fontFamily": "Gis",
-      "identifier": "regularShapePt"
-    },
     "revers": {
-      "codepoint": 57618,
+      "codepoint": 57398,
       "fontFamily": "Gis",
       "identifier": "revers"
     },
-    "road-map": {
-      "codepoint": 57619,
-      "fontFamily": "Gis",
-      "identifier": "roadMap"
-    },
-    "rotate": {
-      "codepoint": 57620,
-      "fontFamily": "Gis",
-      "identifier": "rotate"
-    },
-    "route": {
-      "codepoint": 57621,
-      "fontFamily": "Gis",
-      "identifier": "route"
-    },
-    "route-end": {
-      "codepoint": 57622,
-      "fontFamily": "Gis",
-      "identifier": "routeEnd"
-    },
-    "route-start": {
-      "codepoint": 57623,
-      "fontFamily": "Gis",
-      "identifier": "routeStart"
-    },
     "satellite": {
-      "codepoint": 57624,
+      "codepoint": 57399,
       "fontFamily": "Gis",
       "identifier": "satellite"
     },
-    "satellite-earth": {
-      "codepoint": 57625,
-      "fontFamily": "Gis",
-      "identifier": "satelliteEarth"
-    },
     "scale": {
-      "codepoint": 57626,
+      "codepoint": 57400,
       "fontFamily": "Gis",
       "identifier": "scale"
     },
-    "scale-poly": {
-      "codepoint": 57627,
-      "fontFamily": "Gis",
-      "identifier": "scalePoly"
-    },
-    "screen-dub": {
-      "codepoint": 57628,
-      "fontFamily": "Gis",
-      "identifier": "screenDub"
-    },
-    "screen-dub-o": {
-      "codepoint": 57629,
-      "fontFamily": "Gis",
-      "identifier": "screenDubO"
-    },
-    "screen-dub1": {
-      "codepoint": 57630,
-      "fontFamily": "Gis",
-      "identifier": "screenDub1"
-    },
-    "screen-dub2": {
-      "codepoint": 57631,
-      "fontFamily": "Gis",
-      "identifier": "screenDub2"
-    },
-    "screen-mag": {
-      "codepoint": 57632,
-      "fontFamily": "Gis",
-      "identifier": "screenMag"
-    },
     "screen-mag-alt": {
-      "codepoint": 57633,
+      "codepoint": 57401,
       "fontFamily": "Gis",
       "identifier": "screenMagAlt"
     },
-    "screen-mag-o": {
-      "codepoint": 57634,
-      "fontFamily": "Gis",
-      "identifier": "screenMagO"
-    },
     "screen-split-h": {
-      "codepoint": 57635,
+      "codepoint": 57402,
       "fontFamily": "Gis",
       "identifier": "screenSplitH"
     },
     "screen-split-v": {
-      "codepoint": 57636,
+      "codepoint": 57403,
       "fontFamily": "Gis",
       "identifier": "screenSplitV"
     },
-    "search-address": {
-      "codepoint": 57637,
-      "fontFamily": "Gis",
-      "identifier": "searchAddress"
-    },
-    "search-attribtues": {
-      "codepoint": 57638,
-      "fontFamily": "Gis",
-      "identifier": "searchAttribtues"
-    },
-    "search-coord": {
-      "codepoint": 57639,
-      "fontFamily": "Gis",
-      "identifier": "searchCoord"
-    },
-    "search-country": {
-      "codepoint": 57640,
-      "fontFamily": "Gis",
-      "identifier": "searchCountry"
-    },
-    "search-data": {
-      "codepoint": 57641,
-      "fontFamily": "Gis",
-      "identifier": "searchData"
-    },
-    "search-feature": {
-      "codepoint": 57642,
-      "fontFamily": "Gis",
-      "identifier": "searchFeature"
-    },
-    "search-globe": {
-      "codepoint": 57643,
-      "fontFamily": "Gis",
-      "identifier": "searchGlobe"
-    },
-    "search-globe-alt": {
-      "codepoint": 57644,
-      "fontFamily": "Gis",
-      "identifier": "searchGlobeAlt"
-    },
-    "search-home": {
-      "codepoint": 57645,
-      "fontFamily": "Gis",
-      "identifier": "searchHome"
-    },
-    "search-layer": {
-      "codepoint": 57646,
-      "fontFamily": "Gis",
-      "identifier": "searchLayer"
-    },
-    "search-map": {
-      "codepoint": 57647,
-      "fontFamily": "Gis",
-      "identifier": "searchMap"
-    },
-    "search-poi": {
-      "codepoint": 57648,
-      "fontFamily": "Gis",
-      "identifier": "searchPoi"
-    },
-    "search-propertie": {
-      "codepoint": 57649,
-      "fontFamily": "Gis",
-      "identifier": "searchPropertie"
-    },
-    "select-extent": {
-      "codepoint": 57650,
-      "fontFamily": "Gis",
-      "identifier": "selectExtent"
-    },
-    "shape-file": {
-      "codepoint": 57651,
-      "fontFamily": "Gis",
-      "identifier": "shapeFile"
-    },
     "signpost": {
-      "codepoint": 57652,
+      "codepoint": 57404,
       "fontFamily": "Gis",
       "identifier": "signpost"
     },
-    "simplify": {
-      "codepoint": 57653,
-      "fontFamily": "Gis",
-      "identifier": "simplify"
-    },
-    "skeletonize": {
-      "codepoint": 57654,
-      "fontFamily": "Gis",
-      "identifier": "skeletonize"
-    },
-    "sld": {
-      "codepoint": 57655,
-      "fontFamily": "Gis",
-      "identifier": "sld"
-    },
-    "snap": {
-      "codepoint": 57656,
-      "fontFamily": "Gis",
-      "identifier": "snap"
-    },
     "snap-ortho": {
-      "codepoint": 57657,
+      "codepoint": 57405,
       "fontFamily": "Gis",
       "identifier": "snapOrtho"
     },
-    "sos": {
-      "codepoint": 57658,
-      "fontFamily": "Gis",
-      "identifier": "sos"
-    },
-    "split": {
-      "codepoint": 57659,
-      "fontFamily": "Gis",
-      "identifier": "split"
-    },
-    "split-line": {
-      "codepoint": 57660,
-      "fontFamily": "Gis",
-      "identifier": "splitLine"
-    },
-    "split-polygon": {
-      "codepoint": 57661,
-      "fontFamily": "Gis",
-      "identifier": "splitPolygon"
-    },
-    "sps": {
-      "codepoint": 57662,
-      "fontFamily": "Gis",
-      "identifier": "sps"
-    },
     "square": {
-      "codepoint": 57663,
+      "codepoint": 57406,
       "fontFamily": "Gis",
       "identifier": "square"
     },
     "square-o": {
-      "codepoint": 57664,
+      "codepoint": 57407,
       "fontFamily": "Gis",
       "identifier": "squareO"
     },
-    "square-pt": {
-      "codepoint": 57665,
-      "fontFamily": "Gis",
-      "identifier": "squarePt"
-    },
     "start": {
-      "codepoint": 57666,
+      "codepoint": 57408,
       "fontFamily": "Gis",
       "identifier": "start"
     },
     "start-o": {
-      "codepoint": 57667,
+      "codepoint": 57409,
       "fontFamily": "Gis",
       "identifier": "startO"
     },
     "statistic-map": {
-      "codepoint": 57668,
+      "codepoint": 57410,
       "fontFamily": "Gis",
       "identifier": "statisticMap"
     },
-    "step": {
-      "codepoint": 57669,
-      "fontFamily": "Gis",
-      "identifier": "step"
-    },
-    "step-o": {
-      "codepoint": 57670,
-      "fontFamily": "Gis",
-      "identifier": "stepO"
-    },
-    "story-map": {
-      "codepoint": 57671,
-      "fontFamily": "Gis",
-      "identifier": "storyMap"
-    },
-    "story-map-o": {
-      "codepoint": 57672,
-      "fontFamily": "Gis",
-      "identifier": "storyMapO"
-    },
-    "story-maps": {
-      "codepoint": 57673,
-      "fontFamily": "Gis",
-      "identifier": "storyMaps"
-    },
-    "swipe-map-h": {
-      "codepoint": 57674,
-      "fontFamily": "Gis",
-      "identifier": "swipeMapH"
-    },
-    "swipe-map-v": {
-      "codepoint": 57675,
-      "fontFamily": "Gis",
-      "identifier": "swipeMapV"
-    },
-    "sym-difference": {
-      "codepoint": 57676,
-      "fontFamily": "Gis",
-      "identifier": "symDifference"
-    },
     "tacheometer": {
-      "codepoint": 57677,
+      "codepoint": 57411,
       "fontFamily": "Gis",
       "identifier": "tacheometer"
     },
-    "tag": {
-      "codepoint": 57678,
-      "fontFamily": "Gis",
-      "identifier": "tag"
-    },
-    "tag-o": {
-      "codepoint": 57679,
-      "fontFamily": "Gis",
-      "identifier": "tagO"
-    },
-    "tags": {
-      "codepoint": 57680,
-      "fontFamily": "Gis",
-      "identifier": "tags"
-    },
-    "tags-o": {
-      "codepoint": 57681,
-      "fontFamily": "Gis",
-      "identifier": "tagsO"
-    },
-    "theodolite": {
-      "codepoint": 57682,
-      "fontFamily": "Gis",
-      "identifier": "theodolite"
-    },
-    "time-map": {
-      "codepoint": 57683,
-      "fontFamily": "Gis",
-      "identifier": "timeMap"
-    },
     "timer": {
-      "codepoint": 57684,
+      "codepoint": 57412,
       "fontFamily": "Gis",
       "identifier": "timer"
     },
-    "tjs": {
-      "codepoint": 57685,
-      "fontFamily": "Gis",
-      "identifier": "tjs"
-    },
-    "topography": {
-      "codepoint": 57686,
-      "fontFamily": "Gis",
-      "identifier": "topography"
-    },
-    "topojson-file": {
-      "codepoint": 57687,
-      "fontFamily": "Gis",
-      "identifier": "topojsonFile"
-    },
-    "translate": {
-      "codepoint": 57688,
-      "fontFamily": "Gis",
-      "identifier": "translate"
-    },
-    "translate-x": {
-      "codepoint": 57689,
-      "fontFamily": "Gis",
-      "identifier": "translateX"
-    },
-    "translate-y": {
-      "codepoint": 57690,
-      "fontFamily": "Gis",
-      "identifier": "translateY"
-    },
-    "triangle-map": {
-      "codepoint": 57691,
-      "fontFamily": "Gis",
-      "identifier": "triangleMap"
-    },
-    "union": {
-      "codepoint": 57692,
-      "fontFamily": "Gis",
-      "identifier": "union"
-    },
     "voronoi-map": {
-      "codepoint": 57693,
+      "codepoint": 57413,
       "fontFamily": "Gis",
       "identifier": "voronoiMap"
-    },
-    "wcps": {
-      "codepoint": 57694,
-      "fontFamily": "Gis",
-      "identifier": "wcps"
-    },
-    "wcs": {
-      "codepoint": 57695,
-      "fontFamily": "Gis",
-      "identifier": "wcs"
-    },
-    "weather-map": {
-      "codepoint": 57696,
-      "fontFamily": "Gis",
-      "identifier": "weatherMap"
-    },
-    "wfs": {
-      "codepoint": 57697,
-      "fontFamily": "Gis",
-      "identifier": "wfs"
-    },
-    "wfs-t": {
-      "codepoint": 57698,
-      "fontFamily": "Gis",
-      "identifier": "wfsT"
-    },
-    "wmc": {
-      "codepoint": 57699,
-      "fontFamily": "Gis",
-      "identifier": "wmc"
-    },
-    "wms": {
-      "codepoint": 57700,
-      "fontFamily": "Gis",
-      "identifier": "wms"
-    },
-    "wmts": {
-      "codepoint": 57701,
-      "fontFamily": "Gis",
-      "identifier": "wmts"
-    },
-    "world-folder": {
-      "codepoint": 57702,
-      "fontFamily": "Gis",
-      "identifier": "worldFolder"
-    },
-    "world-folder-o": {
-      "codepoint": 57703,
-      "fontFamily": "Gis",
-      "identifier": "worldFolderO"
-    },
-    "world-map": {
-      "codepoint": 57704,
-      "fontFamily": "Gis",
-      "identifier": "worldMap"
-    },
-    "world-map-alt": {
-      "codepoint": 57705,
-      "fontFamily": "Gis",
-      "identifier": "worldMapAlt"
-    },
-    "world-map-alt-o": {
-      "codepoint": 57706,
-      "fontFamily": "Gis",
-      "identifier": "worldMapAltO"
-    },
-    "wps": {
-      "codepoint": 57707,
-      "fontFamily": "Gis",
-      "identifier": "wps"
-    },
-    "xyz": {
-      "codepoint": 57708,
-      "fontFamily": "Gis",
-      "identifier": "xyz"
-    },
-    "zoom-in": {
-      "codepoint": 57709,
-      "fontFamily": "Gis",
-      "identifier": "zoomIn"
-    },
-    "zoom-out": {
-      "codepoint": 57710,
-      "fontFamily": "Gis",
-      "identifier": "zoomOut"
     }
   }
 }

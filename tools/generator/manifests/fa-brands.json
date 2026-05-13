@@ -16,13 +16,13 @@
       "spdx": "CC-BY-4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/"
     },
-    "total": 461
+    "total": 460
   },
   "fonts": [
     {
       "family": "FaBrands",
-      "nextCodepoint": 57805,
-      "iconCount": 461
+      "nextCodepoint": 57804,
+      "iconCount": 460
     }
   ],
   "icons": {
@@ -711,1623 +711,1618 @@
       "fontFamily": "FaBrands",
       "identifier": "facebookSquare"
     },
-    "fantasy-flight-games": {
-      "codepoint": 57481,
-      "fontFamily": "FaBrands",
-      "identifier": "fantasyFlightGames"
-    },
     "fedex": {
-      "codepoint": 57482,
+      "codepoint": 57481,
       "fontFamily": "FaBrands",
       "identifier": "fedex"
     },
     "fedora": {
-      "codepoint": 57483,
+      "codepoint": 57482,
       "fontFamily": "FaBrands",
       "identifier": "fedora"
     },
     "figma": {
-      "codepoint": 57484,
+      "codepoint": 57483,
       "fontFamily": "FaBrands",
       "identifier": "figma"
     },
     "firefox": {
-      "codepoint": 57485,
+      "codepoint": 57484,
       "fontFamily": "FaBrands",
       "identifier": "firefox"
     },
     "firefox-browser": {
-      "codepoint": 57486,
+      "codepoint": 57485,
       "fontFamily": "FaBrands",
       "identifier": "firefoxBrowser"
     },
     "first-order": {
-      "codepoint": 57487,
+      "codepoint": 57486,
       "fontFamily": "FaBrands",
       "identifier": "firstOrder"
     },
     "first-order-alt": {
-      "codepoint": 57488,
+      "codepoint": 57487,
       "fontFamily": "FaBrands",
       "identifier": "firstOrderAlt"
     },
     "firstdraft": {
-      "codepoint": 57489,
+      "codepoint": 57488,
       "fontFamily": "FaBrands",
       "identifier": "firstdraft"
     },
     "flickr": {
-      "codepoint": 57490,
+      "codepoint": 57489,
       "fontFamily": "FaBrands",
       "identifier": "flickr"
     },
     "flipboard": {
-      "codepoint": 57491,
+      "codepoint": 57490,
       "fontFamily": "FaBrands",
       "identifier": "flipboard"
     },
     "fly": {
-      "codepoint": 57492,
+      "codepoint": 57491,
       "fontFamily": "FaBrands",
       "identifier": "fly"
     },
     "font-awesome": {
-      "codepoint": 57493,
+      "codepoint": 57492,
       "fontFamily": "FaBrands",
       "identifier": "fontAwesome"
     },
     "font-awesome-alt": {
-      "codepoint": 57494,
+      "codepoint": 57493,
       "fontFamily": "FaBrands",
       "identifier": "fontAwesomeAlt"
     },
     "font-awesome-flag": {
-      "codepoint": 57495,
+      "codepoint": 57494,
       "fontFamily": "FaBrands",
       "identifier": "fontAwesomeFlag"
     },
     "fonticons": {
-      "codepoint": 57496,
+      "codepoint": 57495,
       "fontFamily": "FaBrands",
       "identifier": "fonticons"
     },
     "fonticons-fi": {
-      "codepoint": 57497,
+      "codepoint": 57496,
       "fontFamily": "FaBrands",
       "identifier": "fonticonsFi"
     },
     "fort-awesome": {
-      "codepoint": 57498,
+      "codepoint": 57497,
       "fontFamily": "FaBrands",
       "identifier": "fortAwesome"
     },
     "fort-awesome-alt": {
-      "codepoint": 57499,
+      "codepoint": 57498,
       "fontFamily": "FaBrands",
       "identifier": "fortAwesomeAlt"
     },
     "forumbee": {
-      "codepoint": 57500,
+      "codepoint": 57499,
       "fontFamily": "FaBrands",
       "identifier": "forumbee"
     },
     "foursquare": {
-      "codepoint": 57501,
+      "codepoint": 57500,
       "fontFamily": "FaBrands",
       "identifier": "foursquare"
     },
     "free-code-camp": {
-      "codepoint": 57502,
+      "codepoint": 57501,
       "fontFamily": "FaBrands",
       "identifier": "freeCodeCamp"
     },
     "freebsd": {
-      "codepoint": 57503,
+      "codepoint": 57502,
       "fontFamily": "FaBrands",
       "identifier": "freebsd"
     },
     "fulcrum": {
-      "codepoint": 57504,
+      "codepoint": 57503,
       "fontFamily": "FaBrands",
       "identifier": "fulcrum"
     },
     "galactic-republic": {
-      "codepoint": 57505,
+      "codepoint": 57504,
       "fontFamily": "FaBrands",
       "identifier": "galacticRepublic"
     },
     "galactic-senate": {
-      "codepoint": 57506,
+      "codepoint": 57505,
       "fontFamily": "FaBrands",
       "identifier": "galacticSenate"
     },
     "get-pocket": {
-      "codepoint": 57507,
+      "codepoint": 57506,
       "fontFamily": "FaBrands",
       "identifier": "getPocket"
     },
     "gg": {
-      "codepoint": 57508,
+      "codepoint": 57507,
       "fontFamily": "FaBrands",
       "identifier": "gg"
     },
     "gg-circle": {
-      "codepoint": 57509,
+      "codepoint": 57508,
       "fontFamily": "FaBrands",
       "identifier": "ggCircle"
     },
     "git": {
-      "codepoint": 57510,
+      "codepoint": 57509,
       "fontFamily": "FaBrands",
       "identifier": "git"
     },
     "git-alt": {
-      "codepoint": 57511,
+      "codepoint": 57510,
       "fontFamily": "FaBrands",
       "identifier": "gitAlt"
     },
     "git-square": {
-      "codepoint": 57512,
+      "codepoint": 57511,
       "fontFamily": "FaBrands",
       "identifier": "gitSquare"
     },
     "github": {
-      "codepoint": 57513,
+      "codepoint": 57512,
       "fontFamily": "FaBrands",
       "identifier": "github"
     },
     "github-alt": {
-      "codepoint": 57514,
+      "codepoint": 57513,
       "fontFamily": "FaBrands",
       "identifier": "githubAlt"
     },
     "github-square": {
-      "codepoint": 57515,
+      "codepoint": 57514,
       "fontFamily": "FaBrands",
       "identifier": "githubSquare"
     },
     "gitkraken": {
-      "codepoint": 57516,
+      "codepoint": 57515,
       "fontFamily": "FaBrands",
       "identifier": "gitkraken"
     },
     "gitlab": {
-      "codepoint": 57517,
+      "codepoint": 57516,
       "fontFamily": "FaBrands",
       "identifier": "gitlab"
     },
     "gitter": {
-      "codepoint": 57518,
+      "codepoint": 57517,
       "fontFamily": "FaBrands",
       "identifier": "gitter"
     },
     "glide": {
-      "codepoint": 57519,
+      "codepoint": 57518,
       "fontFamily": "FaBrands",
       "identifier": "glide"
     },
     "glide-g": {
-      "codepoint": 57520,
+      "codepoint": 57519,
       "fontFamily": "FaBrands",
       "identifier": "glideG"
     },
     "gofore": {
-      "codepoint": 57521,
+      "codepoint": 57520,
       "fontFamily": "FaBrands",
       "identifier": "gofore"
     },
     "goodreads": {
-      "codepoint": 57522,
+      "codepoint": 57521,
       "fontFamily": "FaBrands",
       "identifier": "goodreads"
     },
     "goodreads-g": {
-      "codepoint": 57523,
+      "codepoint": 57522,
       "fontFamily": "FaBrands",
       "identifier": "goodreadsG"
     },
     "google": {
-      "codepoint": 57524,
+      "codepoint": 57523,
       "fontFamily": "FaBrands",
       "identifier": "google"
     },
     "google-drive": {
-      "codepoint": 57525,
+      "codepoint": 57524,
       "fontFamily": "FaBrands",
       "identifier": "googleDrive"
     },
     "google-pay": {
-      "codepoint": 57526,
+      "codepoint": 57525,
       "fontFamily": "FaBrands",
       "identifier": "googlePay"
     },
     "google-play": {
-      "codepoint": 57527,
+      "codepoint": 57526,
       "fontFamily": "FaBrands",
       "identifier": "googlePlay"
     },
     "google-plus": {
-      "codepoint": 57528,
+      "codepoint": 57527,
       "fontFamily": "FaBrands",
       "identifier": "googlePlus"
     },
     "google-plus-g": {
-      "codepoint": 57529,
+      "codepoint": 57528,
       "fontFamily": "FaBrands",
       "identifier": "googlePlusG"
     },
     "google-plus-square": {
-      "codepoint": 57530,
+      "codepoint": 57529,
       "fontFamily": "FaBrands",
       "identifier": "googlePlusSquare"
     },
     "google-wallet": {
-      "codepoint": 57531,
+      "codepoint": 57530,
       "fontFamily": "FaBrands",
       "identifier": "googleWallet"
     },
     "gratipay": {
-      "codepoint": 57532,
+      "codepoint": 57531,
       "fontFamily": "FaBrands",
       "identifier": "gratipay"
     },
     "grav": {
-      "codepoint": 57533,
+      "codepoint": 57532,
       "fontFamily": "FaBrands",
       "identifier": "grav"
     },
     "gripfire": {
-      "codepoint": 57534,
+      "codepoint": 57533,
       "fontFamily": "FaBrands",
       "identifier": "gripfire"
     },
     "grunt": {
-      "codepoint": 57535,
+      "codepoint": 57534,
       "fontFamily": "FaBrands",
       "identifier": "grunt"
     },
     "guilded": {
-      "codepoint": 57536,
+      "codepoint": 57535,
       "fontFamily": "FaBrands",
       "identifier": "guilded"
     },
     "gulp": {
-      "codepoint": 57537,
+      "codepoint": 57536,
       "fontFamily": "FaBrands",
       "identifier": "gulp"
     },
     "hacker-news": {
-      "codepoint": 57538,
+      "codepoint": 57537,
       "fontFamily": "FaBrands",
       "identifier": "hackerNews"
     },
     "hacker-news-square": {
-      "codepoint": 57539,
+      "codepoint": 57538,
       "fontFamily": "FaBrands",
       "identifier": "hackerNewsSquare"
     },
     "hackerrank": {
-      "codepoint": 57540,
+      "codepoint": 57539,
       "fontFamily": "FaBrands",
       "identifier": "hackerrank"
     },
     "hips": {
-      "codepoint": 57541,
+      "codepoint": 57540,
       "fontFamily": "FaBrands",
       "identifier": "hips"
     },
     "hire-a-helper": {
-      "codepoint": 57542,
+      "codepoint": 57541,
       "fontFamily": "FaBrands",
       "identifier": "hireAHelper"
     },
     "hive": {
-      "codepoint": 57543,
+      "codepoint": 57542,
       "fontFamily": "FaBrands",
       "identifier": "hive"
     },
     "hooli": {
-      "codepoint": 57544,
+      "codepoint": 57543,
       "fontFamily": "FaBrands",
       "identifier": "hooli"
     },
     "hornbill": {
-      "codepoint": 57545,
+      "codepoint": 57544,
       "fontFamily": "FaBrands",
       "identifier": "hornbill"
     },
     "hotjar": {
-      "codepoint": 57546,
+      "codepoint": 57545,
       "fontFamily": "FaBrands",
       "identifier": "hotjar"
     },
     "houzz": {
-      "codepoint": 57547,
+      "codepoint": 57546,
       "fontFamily": "FaBrands",
       "identifier": "houzz"
     },
     "html5": {
-      "codepoint": 57548,
+      "codepoint": 57547,
       "fontFamily": "FaBrands",
       "identifier": "html5"
     },
     "hubspot": {
-      "codepoint": 57549,
+      "codepoint": 57548,
       "fontFamily": "FaBrands",
       "identifier": "hubspot"
     },
     "ideal": {
-      "codepoint": 57550,
+      "codepoint": 57549,
       "fontFamily": "FaBrands",
       "identifier": "ideal"
     },
     "imdb": {
-      "codepoint": 57551,
+      "codepoint": 57550,
       "fontFamily": "FaBrands",
       "identifier": "imdb"
     },
     "innosoft": {
-      "codepoint": 57552,
+      "codepoint": 57551,
       "fontFamily": "FaBrands",
       "identifier": "innosoft"
     },
     "instagram": {
-      "codepoint": 57553,
+      "codepoint": 57552,
       "fontFamily": "FaBrands",
       "identifier": "instagram"
     },
     "instagram-square": {
-      "codepoint": 57554,
+      "codepoint": 57553,
       "fontFamily": "FaBrands",
       "identifier": "instagramSquare"
     },
     "instalod": {
-      "codepoint": 57555,
+      "codepoint": 57554,
       "fontFamily": "FaBrands",
       "identifier": "instalod"
     },
     "intercom": {
-      "codepoint": 57556,
+      "codepoint": 57555,
       "fontFamily": "FaBrands",
       "identifier": "intercom"
     },
     "internet-explorer": {
-      "codepoint": 57557,
+      "codepoint": 57556,
       "fontFamily": "FaBrands",
       "identifier": "internetExplorer"
     },
     "invision": {
-      "codepoint": 57558,
+      "codepoint": 57557,
       "fontFamily": "FaBrands",
       "identifier": "invision"
     },
     "ioxhost": {
-      "codepoint": 57559,
+      "codepoint": 57558,
       "fontFamily": "FaBrands",
       "identifier": "ioxhost"
     },
     "itch-io": {
-      "codepoint": 57560,
+      "codepoint": 57559,
       "fontFamily": "FaBrands",
       "identifier": "itchIo"
     },
     "itunes": {
-      "codepoint": 57561,
+      "codepoint": 57560,
       "fontFamily": "FaBrands",
       "identifier": "itunes"
     },
     "itunes-note": {
-      "codepoint": 57562,
+      "codepoint": 57561,
       "fontFamily": "FaBrands",
       "identifier": "itunesNote"
     },
     "java": {
-      "codepoint": 57563,
+      "codepoint": 57562,
       "fontFamily": "FaBrands",
       "identifier": "java"
     },
     "jedi-order": {
-      "codepoint": 57564,
+      "codepoint": 57563,
       "fontFamily": "FaBrands",
       "identifier": "jediOrder"
     },
     "jenkins": {
-      "codepoint": 57565,
+      "codepoint": 57564,
       "fontFamily": "FaBrands",
       "identifier": "jenkins"
     },
     "jira": {
-      "codepoint": 57566,
+      "codepoint": 57565,
       "fontFamily": "FaBrands",
       "identifier": "jira"
     },
     "joget": {
-      "codepoint": 57567,
+      "codepoint": 57566,
       "fontFamily": "FaBrands",
       "identifier": "joget"
     },
     "joomla": {
-      "codepoint": 57568,
+      "codepoint": 57567,
       "fontFamily": "FaBrands",
       "identifier": "joomla"
     },
     "js": {
-      "codepoint": 57569,
+      "codepoint": 57568,
       "fontFamily": "FaBrands",
       "identifier": "js"
     },
     "js-square": {
-      "codepoint": 57570,
+      "codepoint": 57569,
       "fontFamily": "FaBrands",
       "identifier": "jsSquare"
     },
     "jsfiddle": {
-      "codepoint": 57571,
+      "codepoint": 57570,
       "fontFamily": "FaBrands",
       "identifier": "jsfiddle"
     },
     "kaggle": {
-      "codepoint": 57572,
+      "codepoint": 57571,
       "fontFamily": "FaBrands",
       "identifier": "kaggle"
     },
     "keybase": {
-      "codepoint": 57573,
+      "codepoint": 57572,
       "fontFamily": "FaBrands",
       "identifier": "keybase"
     },
     "keycdn": {
-      "codepoint": 57574,
+      "codepoint": 57573,
       "fontFamily": "FaBrands",
       "identifier": "keycdn"
     },
     "kickstarter": {
-      "codepoint": 57575,
+      "codepoint": 57574,
       "fontFamily": "FaBrands",
       "identifier": "kickstarter"
     },
     "kickstarter-k": {
-      "codepoint": 57576,
+      "codepoint": 57575,
       "fontFamily": "FaBrands",
       "identifier": "kickstarterK"
     },
     "korvue": {
-      "codepoint": 57577,
+      "codepoint": 57576,
       "fontFamily": "FaBrands",
       "identifier": "korvue"
     },
     "laravel": {
-      "codepoint": 57578,
+      "codepoint": 57577,
       "fontFamily": "FaBrands",
       "identifier": "laravel"
     },
     "lastfm": {
-      "codepoint": 57579,
+      "codepoint": 57578,
       "fontFamily": "FaBrands",
       "identifier": "lastfm"
     },
     "lastfm-square": {
-      "codepoint": 57580,
+      "codepoint": 57579,
       "fontFamily": "FaBrands",
       "identifier": "lastfmSquare"
     },
     "leanpub": {
-      "codepoint": 57581,
+      "codepoint": 57580,
       "fontFamily": "FaBrands",
       "identifier": "leanpub"
     },
     "less": {
-      "codepoint": 57582,
+      "codepoint": 57581,
       "fontFamily": "FaBrands",
       "identifier": "less"
     },
     "line": {
-      "codepoint": 57583,
+      "codepoint": 57582,
       "fontFamily": "FaBrands",
       "identifier": "line"
     },
     "linkedin": {
-      "codepoint": 57584,
+      "codepoint": 57583,
       "fontFamily": "FaBrands",
       "identifier": "linkedin"
     },
     "linkedin-in": {
-      "codepoint": 57585,
+      "codepoint": 57584,
       "fontFamily": "FaBrands",
       "identifier": "linkedinIn"
     },
     "linode": {
-      "codepoint": 57586,
+      "codepoint": 57585,
       "fontFamily": "FaBrands",
       "identifier": "linode"
     },
     "linux": {
-      "codepoint": 57587,
+      "codepoint": 57586,
       "fontFamily": "FaBrands",
       "identifier": "linux"
     },
     "lyft": {
-      "codepoint": 57588,
+      "codepoint": 57587,
       "fontFamily": "FaBrands",
       "identifier": "lyft"
     },
     "magento": {
-      "codepoint": 57589,
+      "codepoint": 57588,
       "fontFamily": "FaBrands",
       "identifier": "magento"
     },
     "mailchimp": {
-      "codepoint": 57590,
+      "codepoint": 57589,
       "fontFamily": "FaBrands",
       "identifier": "mailchimp"
     },
     "mandalorian": {
-      "codepoint": 57591,
+      "codepoint": 57590,
       "fontFamily": "FaBrands",
       "identifier": "mandalorian"
     },
     "markdown": {
-      "codepoint": 57592,
+      "codepoint": 57591,
       "fontFamily": "FaBrands",
       "identifier": "markdown"
     },
     "mastodon": {
-      "codepoint": 57593,
+      "codepoint": 57592,
       "fontFamily": "FaBrands",
       "identifier": "mastodon"
     },
     "maxcdn": {
-      "codepoint": 57594,
+      "codepoint": 57593,
       "fontFamily": "FaBrands",
       "identifier": "maxcdn"
     },
     "mdb": {
-      "codepoint": 57595,
+      "codepoint": 57594,
       "fontFamily": "FaBrands",
       "identifier": "mdb"
     },
     "medapps": {
-      "codepoint": 57596,
+      "codepoint": 57595,
       "fontFamily": "FaBrands",
       "identifier": "medapps"
     },
     "medium": {
-      "codepoint": 57597,
+      "codepoint": 57596,
       "fontFamily": "FaBrands",
       "identifier": "medium"
     },
     "medium-m": {
-      "codepoint": 57598,
+      "codepoint": 57597,
       "fontFamily": "FaBrands",
       "identifier": "mediumM"
     },
     "medrt": {
-      "codepoint": 57599,
+      "codepoint": 57598,
       "fontFamily": "FaBrands",
       "identifier": "medrt"
     },
     "meetup": {
-      "codepoint": 57600,
+      "codepoint": 57599,
       "fontFamily": "FaBrands",
       "identifier": "meetup"
     },
     "megaport": {
-      "codepoint": 57601,
+      "codepoint": 57600,
       "fontFamily": "FaBrands",
       "identifier": "megaport"
     },
     "mendeley": {
-      "codepoint": 57602,
+      "codepoint": 57601,
       "fontFamily": "FaBrands",
       "identifier": "mendeley"
     },
     "microblog": {
-      "codepoint": 57603,
+      "codepoint": 57602,
       "fontFamily": "FaBrands",
       "identifier": "microblog"
     },
     "microsoft": {
-      "codepoint": 57604,
+      "codepoint": 57603,
       "fontFamily": "FaBrands",
       "identifier": "microsoft"
     },
     "mix": {
-      "codepoint": 57605,
+      "codepoint": 57604,
       "fontFamily": "FaBrands",
       "identifier": "mix"
     },
     "mixcloud": {
-      "codepoint": 57606,
+      "codepoint": 57605,
       "fontFamily": "FaBrands",
       "identifier": "mixcloud"
     },
     "mixer": {
-      "codepoint": 57607,
+      "codepoint": 57606,
       "fontFamily": "FaBrands",
       "identifier": "mixer"
     },
     "mizuni": {
-      "codepoint": 57608,
+      "codepoint": 57607,
       "fontFamily": "FaBrands",
       "identifier": "mizuni"
     },
     "modx": {
-      "codepoint": 57609,
+      "codepoint": 57608,
       "fontFamily": "FaBrands",
       "identifier": "modx"
     },
     "monero": {
-      "codepoint": 57610,
+      "codepoint": 57609,
       "fontFamily": "FaBrands",
       "identifier": "monero"
     },
     "napster": {
-      "codepoint": 57611,
+      "codepoint": 57610,
       "fontFamily": "FaBrands",
       "identifier": "napster"
     },
     "neos": {
-      "codepoint": 57612,
+      "codepoint": 57611,
       "fontFamily": "FaBrands",
       "identifier": "neos"
     },
     "nimblr": {
-      "codepoint": 57613,
+      "codepoint": 57612,
       "fontFamily": "FaBrands",
       "identifier": "nimblr"
     },
     "nintendo-switch": {
-      "codepoint": 57614,
+      "codepoint": 57613,
       "fontFamily": "FaBrands",
       "identifier": "nintendoSwitch"
     },
     "node": {
-      "codepoint": 57615,
+      "codepoint": 57614,
       "fontFamily": "FaBrands",
       "identifier": "node"
     },
     "node-js": {
-      "codepoint": 57616,
+      "codepoint": 57615,
       "fontFamily": "FaBrands",
       "identifier": "nodeJs"
     },
     "npm": {
-      "codepoint": 57617,
+      "codepoint": 57616,
       "fontFamily": "FaBrands",
       "identifier": "npm"
     },
     "ns8": {
-      "codepoint": 57618,
+      "codepoint": 57617,
       "fontFamily": "FaBrands",
       "identifier": "ns8"
     },
     "nutritionix": {
-      "codepoint": 57619,
+      "codepoint": 57618,
       "fontFamily": "FaBrands",
       "identifier": "nutritionix"
     },
     "octopus-deploy": {
-      "codepoint": 57620,
+      "codepoint": 57619,
       "fontFamily": "FaBrands",
       "identifier": "octopusDeploy"
     },
     "odnoklassniki": {
-      "codepoint": 57621,
+      "codepoint": 57620,
       "fontFamily": "FaBrands",
       "identifier": "odnoklassniki"
     },
     "odnoklassniki-square": {
-      "codepoint": 57622,
+      "codepoint": 57621,
       "fontFamily": "FaBrands",
       "identifier": "odnoklassnikiSquare"
     },
     "old-republic": {
-      "codepoint": 57623,
+      "codepoint": 57622,
       "fontFamily": "FaBrands",
       "identifier": "oldRepublic"
     },
     "opencart": {
-      "codepoint": 57624,
+      "codepoint": 57623,
       "fontFamily": "FaBrands",
       "identifier": "opencart"
     },
     "openid": {
-      "codepoint": 57625,
+      "codepoint": 57624,
       "fontFamily": "FaBrands",
       "identifier": "openid"
     },
     "opera": {
-      "codepoint": 57626,
+      "codepoint": 57625,
       "fontFamily": "FaBrands",
       "identifier": "opera"
     },
     "optin-monster": {
-      "codepoint": 57627,
+      "codepoint": 57626,
       "fontFamily": "FaBrands",
       "identifier": "optinMonster"
     },
     "orcid": {
-      "codepoint": 57628,
+      "codepoint": 57627,
       "fontFamily": "FaBrands",
       "identifier": "orcid"
     },
     "osi": {
-      "codepoint": 57629,
+      "codepoint": 57628,
       "fontFamily": "FaBrands",
       "identifier": "osi"
     },
     "page4": {
-      "codepoint": 57630,
+      "codepoint": 57629,
       "fontFamily": "FaBrands",
       "identifier": "page4"
     },
     "pagelines": {
-      "codepoint": 57631,
+      "codepoint": 57630,
       "fontFamily": "FaBrands",
       "identifier": "pagelines"
     },
     "palfed": {
-      "codepoint": 57632,
+      "codepoint": 57631,
       "fontFamily": "FaBrands",
       "identifier": "palfed"
     },
     "patreon": {
-      "codepoint": 57633,
+      "codepoint": 57632,
       "fontFamily": "FaBrands",
       "identifier": "patreon"
     },
     "paypal": {
-      "codepoint": 57634,
+      "codepoint": 57633,
       "fontFamily": "FaBrands",
       "identifier": "paypal"
     },
     "penny-arcade": {
-      "codepoint": 57635,
+      "codepoint": 57634,
       "fontFamily": "FaBrands",
       "identifier": "pennyArcade"
     },
     "perbyte": {
-      "codepoint": 57636,
+      "codepoint": 57635,
       "fontFamily": "FaBrands",
       "identifier": "perbyte"
     },
     "periscope": {
-      "codepoint": 57637,
+      "codepoint": 57636,
       "fontFamily": "FaBrands",
       "identifier": "periscope"
     },
     "phabricator": {
-      "codepoint": 57638,
+      "codepoint": 57637,
       "fontFamily": "FaBrands",
       "identifier": "phabricator"
     },
     "phoenix-framework": {
-      "codepoint": 57639,
+      "codepoint": 57638,
       "fontFamily": "FaBrands",
       "identifier": "phoenixFramework"
     },
     "phoenix-squadron": {
-      "codepoint": 57640,
+      "codepoint": 57639,
       "fontFamily": "FaBrands",
       "identifier": "phoenixSquadron"
     },
     "php": {
-      "codepoint": 57641,
+      "codepoint": 57640,
       "fontFamily": "FaBrands",
       "identifier": "php"
     },
     "pied-piper": {
-      "codepoint": 57642,
+      "codepoint": 57641,
       "fontFamily": "FaBrands",
       "identifier": "piedPiper"
     },
     "pied-piper-alt": {
-      "codepoint": 57643,
+      "codepoint": 57642,
       "fontFamily": "FaBrands",
       "identifier": "piedPiperAlt"
     },
     "pied-piper-hat": {
-      "codepoint": 57644,
+      "codepoint": 57643,
       "fontFamily": "FaBrands",
       "identifier": "piedPiperHat"
     },
     "pied-piper-pp": {
-      "codepoint": 57645,
+      "codepoint": 57644,
       "fontFamily": "FaBrands",
       "identifier": "piedPiperPp"
     },
     "pied-piper-square": {
-      "codepoint": 57646,
+      "codepoint": 57645,
       "fontFamily": "FaBrands",
       "identifier": "piedPiperSquare"
     },
     "pinterest": {
-      "codepoint": 57647,
+      "codepoint": 57646,
       "fontFamily": "FaBrands",
       "identifier": "pinterest"
     },
     "pinterest-p": {
-      "codepoint": 57648,
+      "codepoint": 57647,
       "fontFamily": "FaBrands",
       "identifier": "pinterestP"
     },
     "pinterest-square": {
-      "codepoint": 57649,
+      "codepoint": 57648,
       "fontFamily": "FaBrands",
       "identifier": "pinterestSquare"
     },
     "playstation": {
-      "codepoint": 57650,
+      "codepoint": 57649,
       "fontFamily": "FaBrands",
       "identifier": "playstation"
     },
     "product-hunt": {
-      "codepoint": 57651,
+      "codepoint": 57650,
       "fontFamily": "FaBrands",
       "identifier": "productHunt"
     },
     "pushed": {
-      "codepoint": 57652,
+      "codepoint": 57651,
       "fontFamily": "FaBrands",
       "identifier": "pushed"
     },
     "python": {
-      "codepoint": 57653,
+      "codepoint": 57652,
       "fontFamily": "FaBrands",
       "identifier": "python"
     },
     "qq": {
-      "codepoint": 57654,
+      "codepoint": 57653,
       "fontFamily": "FaBrands",
       "identifier": "qq"
     },
     "quinscape": {
-      "codepoint": 57655,
+      "codepoint": 57654,
       "fontFamily": "FaBrands",
       "identifier": "quinscape"
     },
     "quora": {
-      "codepoint": 57656,
+      "codepoint": 57655,
       "fontFamily": "FaBrands",
       "identifier": "quora"
     },
     "r": {
-      "codepoint": 57657,
+      "codepoint": 57656,
       "fontFamily": "FaBrands",
       "identifier": "r"
     },
     "r-project": {
-      "codepoint": 57658,
+      "codepoint": 57657,
       "fontFamily": "FaBrands",
       "identifier": "rProject"
     },
     "raspberry-pi": {
-      "codepoint": 57659,
+      "codepoint": 57658,
       "fontFamily": "FaBrands",
       "identifier": "raspberryPi"
     },
     "ravelry": {
-      "codepoint": 57660,
+      "codepoint": 57659,
       "fontFamily": "FaBrands",
       "identifier": "ravelry"
     },
     "react": {
-      "codepoint": 57661,
+      "codepoint": 57660,
       "fontFamily": "FaBrands",
       "identifier": "react"
     },
     "reacteurope": {
-      "codepoint": 57662,
+      "codepoint": 57661,
       "fontFamily": "FaBrands",
       "identifier": "reacteurope"
     },
     "readme": {
-      "codepoint": 57663,
+      "codepoint": 57662,
       "fontFamily": "FaBrands",
       "identifier": "readme"
     },
     "rebel": {
-      "codepoint": 57664,
+      "codepoint": 57663,
       "fontFamily": "FaBrands",
       "identifier": "rebel"
     },
     "red-river": {
-      "codepoint": 57665,
+      "codepoint": 57664,
       "fontFamily": "FaBrands",
       "identifier": "redRiver"
     },
     "reddit": {
-      "codepoint": 57666,
+      "codepoint": 57665,
       "fontFamily": "FaBrands",
       "identifier": "reddit"
     },
     "reddit-alien": {
-      "codepoint": 57667,
+      "codepoint": 57666,
       "fontFamily": "FaBrands",
       "identifier": "redditAlien"
     },
     "reddit-square": {
-      "codepoint": 57668,
+      "codepoint": 57667,
       "fontFamily": "FaBrands",
       "identifier": "redditSquare"
     },
     "redhat": {
-      "codepoint": 57669,
+      "codepoint": 57668,
       "fontFamily": "FaBrands",
       "identifier": "redhat"
     },
     "rendact": {
-      "codepoint": 57670,
+      "codepoint": 57669,
       "fontFamily": "FaBrands",
       "identifier": "rendact"
     },
     "renren": {
-      "codepoint": 57671,
+      "codepoint": 57670,
       "fontFamily": "FaBrands",
       "identifier": "renren"
     },
     "replyd": {
-      "codepoint": 57672,
+      "codepoint": 57671,
       "fontFamily": "FaBrands",
       "identifier": "replyd"
     },
     "researchgate": {
-      "codepoint": 57673,
+      "codepoint": 57672,
       "fontFamily": "FaBrands",
       "identifier": "researchgate"
     },
     "resolving": {
-      "codepoint": 57674,
+      "codepoint": 57673,
       "fontFamily": "FaBrands",
       "identifier": "resolving"
     },
     "rev": {
-      "codepoint": 57675,
+      "codepoint": 57674,
       "fontFamily": "FaBrands",
       "identifier": "rev"
     },
     "rocketchat": {
-      "codepoint": 57676,
+      "codepoint": 57675,
       "fontFamily": "FaBrands",
       "identifier": "rocketchat"
     },
     "rockrms": {
-      "codepoint": 57677,
+      "codepoint": 57676,
       "fontFamily": "FaBrands",
       "identifier": "rockrms"
     },
     "rust": {
-      "codepoint": 57678,
+      "codepoint": 57677,
       "fontFamily": "FaBrands",
       "identifier": "rust"
     },
     "safari": {
-      "codepoint": 57679,
+      "codepoint": 57678,
       "fontFamily": "FaBrands",
       "identifier": "safari"
     },
     "salesforce": {
-      "codepoint": 57680,
+      "codepoint": 57679,
       "fontFamily": "FaBrands",
       "identifier": "salesforce"
     },
     "sass": {
-      "codepoint": 57681,
+      "codepoint": 57680,
       "fontFamily": "FaBrands",
       "identifier": "sass"
     },
     "schlix": {
-      "codepoint": 57682,
+      "codepoint": 57681,
       "fontFamily": "FaBrands",
       "identifier": "schlix"
     },
     "scribd": {
-      "codepoint": 57683,
+      "codepoint": 57682,
       "fontFamily": "FaBrands",
       "identifier": "scribd"
     },
     "searchengin": {
-      "codepoint": 57684,
+      "codepoint": 57683,
       "fontFamily": "FaBrands",
       "identifier": "searchengin"
     },
     "sellcast": {
-      "codepoint": 57685,
+      "codepoint": 57684,
       "fontFamily": "FaBrands",
       "identifier": "sellcast"
     },
     "sellsy": {
-      "codepoint": 57686,
+      "codepoint": 57685,
       "fontFamily": "FaBrands",
       "identifier": "sellsy"
     },
     "servicestack": {
-      "codepoint": 57687,
+      "codepoint": 57686,
       "fontFamily": "FaBrands",
       "identifier": "servicestack"
     },
     "shirtsinbulk": {
-      "codepoint": 57688,
+      "codepoint": 57687,
       "fontFamily": "FaBrands",
       "identifier": "shirtsinbulk"
     },
     "shopify": {
-      "codepoint": 57689,
+      "codepoint": 57688,
       "fontFamily": "FaBrands",
       "identifier": "shopify"
     },
     "shopware": {
-      "codepoint": 57690,
+      "codepoint": 57689,
       "fontFamily": "FaBrands",
       "identifier": "shopware"
     },
     "simplybuilt": {
-      "codepoint": 57691,
+      "codepoint": 57690,
       "fontFamily": "FaBrands",
       "identifier": "simplybuilt"
     },
     "sistrix": {
-      "codepoint": 57692,
+      "codepoint": 57691,
       "fontFamily": "FaBrands",
       "identifier": "sistrix"
     },
     "sith": {
-      "codepoint": 57693,
+      "codepoint": 57692,
       "fontFamily": "FaBrands",
       "identifier": "sith"
     },
     "sketch": {
-      "codepoint": 57694,
+      "codepoint": 57693,
       "fontFamily": "FaBrands",
       "identifier": "sketch"
     },
     "skyatlas": {
-      "codepoint": 57695,
+      "codepoint": 57694,
       "fontFamily": "FaBrands",
       "identifier": "skyatlas"
     },
     "skype": {
-      "codepoint": 57696,
+      "codepoint": 57695,
       "fontFamily": "FaBrands",
       "identifier": "skype"
     },
     "slack": {
-      "codepoint": 57697,
+      "codepoint": 57696,
       "fontFamily": "FaBrands",
       "identifier": "slack"
     },
     "slack-hash": {
-      "codepoint": 57698,
+      "codepoint": 57697,
       "fontFamily": "FaBrands",
       "identifier": "slackHash"
     },
     "slideshare": {
-      "codepoint": 57699,
+      "codepoint": 57698,
       "fontFamily": "FaBrands",
       "identifier": "slideshare"
     },
     "snapchat": {
-      "codepoint": 57700,
+      "codepoint": 57699,
       "fontFamily": "FaBrands",
       "identifier": "snapchat"
     },
     "snapchat-ghost": {
-      "codepoint": 57701,
+      "codepoint": 57700,
       "fontFamily": "FaBrands",
       "identifier": "snapchatGhost"
     },
     "snapchat-square": {
-      "codepoint": 57702,
+      "codepoint": 57701,
       "fontFamily": "FaBrands",
       "identifier": "snapchatSquare"
     },
     "soundcloud": {
-      "codepoint": 57703,
+      "codepoint": 57702,
       "fontFamily": "FaBrands",
       "identifier": "soundcloud"
     },
     "sourcetree": {
-      "codepoint": 57704,
+      "codepoint": 57703,
       "fontFamily": "FaBrands",
       "identifier": "sourcetree"
     },
     "speakap": {
-      "codepoint": 57705,
+      "codepoint": 57704,
       "fontFamily": "FaBrands",
       "identifier": "speakap"
     },
     "speaker-deck": {
-      "codepoint": 57706,
+      "codepoint": 57705,
       "fontFamily": "FaBrands",
       "identifier": "speakerDeck"
     },
     "spotify": {
-      "codepoint": 57707,
+      "codepoint": 57706,
       "fontFamily": "FaBrands",
       "identifier": "spotify"
     },
     "squarespace": {
-      "codepoint": 57708,
+      "codepoint": 57707,
       "fontFamily": "FaBrands",
       "identifier": "squarespace"
     },
     "stack-exchange": {
-      "codepoint": 57709,
+      "codepoint": 57708,
       "fontFamily": "FaBrands",
       "identifier": "stackExchange"
     },
     "stack-overflow": {
-      "codepoint": 57710,
+      "codepoint": 57709,
       "fontFamily": "FaBrands",
       "identifier": "stackOverflow"
     },
     "stackpath": {
-      "codepoint": 57711,
+      "codepoint": 57710,
       "fontFamily": "FaBrands",
       "identifier": "stackpath"
     },
     "staylinked": {
-      "codepoint": 57712,
+      "codepoint": 57711,
       "fontFamily": "FaBrands",
       "identifier": "staylinked"
     },
     "steam": {
-      "codepoint": 57713,
+      "codepoint": 57712,
       "fontFamily": "FaBrands",
       "identifier": "steam"
     },
     "steam-square": {
-      "codepoint": 57714,
+      "codepoint": 57713,
       "fontFamily": "FaBrands",
       "identifier": "steamSquare"
     },
     "steam-symbol": {
-      "codepoint": 57715,
+      "codepoint": 57714,
       "fontFamily": "FaBrands",
       "identifier": "steamSymbol"
     },
     "sticker-mule": {
-      "codepoint": 57716,
+      "codepoint": 57715,
       "fontFamily": "FaBrands",
       "identifier": "stickerMule"
     },
     "strava": {
-      "codepoint": 57717,
+      "codepoint": 57716,
       "fontFamily": "FaBrands",
       "identifier": "strava"
     },
     "stripe": {
-      "codepoint": 57718,
+      "codepoint": 57717,
       "fontFamily": "FaBrands",
       "identifier": "stripe"
     },
     "stripe-s": {
-      "codepoint": 57719,
+      "codepoint": 57718,
       "fontFamily": "FaBrands",
       "identifier": "stripeS"
     },
     "studiovinari": {
-      "codepoint": 57720,
+      "codepoint": 57719,
       "fontFamily": "FaBrands",
       "identifier": "studiovinari"
     },
     "stumbleupon": {
-      "codepoint": 57721,
+      "codepoint": 57720,
       "fontFamily": "FaBrands",
       "identifier": "stumbleupon"
     },
     "stumbleupon-circle": {
-      "codepoint": 57722,
+      "codepoint": 57721,
       "fontFamily": "FaBrands",
       "identifier": "stumbleuponCircle"
     },
     "superpowers": {
-      "codepoint": 57723,
+      "codepoint": 57722,
       "fontFamily": "FaBrands",
       "identifier": "superpowers"
     },
     "supple": {
-      "codepoint": 57724,
+      "codepoint": 57723,
       "fontFamily": "FaBrands",
       "identifier": "supple"
     },
     "suse": {
-      "codepoint": 57725,
+      "codepoint": 57724,
       "fontFamily": "FaBrands",
       "identifier": "suse"
     },
     "swift": {
-      "codepoint": 57726,
+      "codepoint": 57725,
       "fontFamily": "FaBrands",
       "identifier": "swift"
     },
     "symfony": {
-      "codepoint": 57727,
+      "codepoint": 57726,
       "fontFamily": "FaBrands",
       "identifier": "symfony"
     },
     "teamspeak": {
-      "codepoint": 57728,
+      "codepoint": 57727,
       "fontFamily": "FaBrands",
       "identifier": "teamspeak"
     },
     "telegram": {
-      "codepoint": 57729,
+      "codepoint": 57728,
       "fontFamily": "FaBrands",
       "identifier": "telegram"
     },
     "telegram-plane": {
-      "codepoint": 57730,
+      "codepoint": 57729,
       "fontFamily": "FaBrands",
       "identifier": "telegramPlane"
     },
     "tencent-weibo": {
-      "codepoint": 57731,
+      "codepoint": 57730,
       "fontFamily": "FaBrands",
       "identifier": "tencentWeibo"
     },
     "the-red-yeti": {
-      "codepoint": 57732,
+      "codepoint": 57731,
       "fontFamily": "FaBrands",
       "identifier": "theRedYeti"
     },
     "themeco": {
-      "codepoint": 57733,
+      "codepoint": 57732,
       "fontFamily": "FaBrands",
       "identifier": "themeco"
     },
     "themeisle": {
-      "codepoint": 57734,
+      "codepoint": 57733,
       "fontFamily": "FaBrands",
       "identifier": "themeisle"
     },
     "think-peaks": {
-      "codepoint": 57735,
+      "codepoint": 57734,
       "fontFamily": "FaBrands",
       "identifier": "thinkPeaks"
     },
     "tiktok": {
-      "codepoint": 57736,
+      "codepoint": 57735,
       "fontFamily": "FaBrands",
       "identifier": "tiktok"
     },
     "trade-federation": {
-      "codepoint": 57737,
+      "codepoint": 57736,
       "fontFamily": "FaBrands",
       "identifier": "tradeFederation"
     },
     "trello": {
-      "codepoint": 57738,
+      "codepoint": 57737,
       "fontFamily": "FaBrands",
       "identifier": "trello"
     },
     "tripadvisor": {
-      "codepoint": 57739,
+      "codepoint": 57738,
       "fontFamily": "FaBrands",
       "identifier": "tripadvisor"
     },
     "tumblr": {
-      "codepoint": 57740,
+      "codepoint": 57739,
       "fontFamily": "FaBrands",
       "identifier": "tumblr"
     },
     "tumblr-square": {
-      "codepoint": 57741,
+      "codepoint": 57740,
       "fontFamily": "FaBrands",
       "identifier": "tumblrSquare"
     },
     "twitch": {
-      "codepoint": 57742,
+      "codepoint": 57741,
       "fontFamily": "FaBrands",
       "identifier": "twitch"
     },
     "twitter": {
-      "codepoint": 57743,
+      "codepoint": 57742,
       "fontFamily": "FaBrands",
       "identifier": "twitter"
     },
     "twitter-square": {
-      "codepoint": 57744,
+      "codepoint": 57743,
       "fontFamily": "FaBrands",
       "identifier": "twitterSquare"
     },
     "typo3": {
-      "codepoint": 57745,
+      "codepoint": 57744,
       "fontFamily": "FaBrands",
       "identifier": "typo3"
     },
     "uber": {
-      "codepoint": 57746,
+      "codepoint": 57745,
       "fontFamily": "FaBrands",
       "identifier": "uber"
     },
     "ubuntu": {
-      "codepoint": 57747,
+      "codepoint": 57746,
       "fontFamily": "FaBrands",
       "identifier": "ubuntu"
     },
     "uikit": {
-      "codepoint": 57748,
+      "codepoint": 57747,
       "fontFamily": "FaBrands",
       "identifier": "uikit"
     },
     "umbraco": {
-      "codepoint": 57749,
+      "codepoint": 57748,
       "fontFamily": "FaBrands",
       "identifier": "umbraco"
     },
     "uncharted": {
-      "codepoint": 57750,
+      "codepoint": 57749,
       "fontFamily": "FaBrands",
       "identifier": "uncharted"
     },
     "uniregistry": {
-      "codepoint": 57751,
+      "codepoint": 57750,
       "fontFamily": "FaBrands",
       "identifier": "uniregistry"
     },
     "unity": {
-      "codepoint": 57752,
+      "codepoint": 57751,
       "fontFamily": "FaBrands",
       "identifier": "unity"
     },
     "unsplash": {
-      "codepoint": 57753,
+      "codepoint": 57752,
       "fontFamily": "FaBrands",
       "identifier": "unsplash"
     },
     "untappd": {
-      "codepoint": 57754,
+      "codepoint": 57753,
       "fontFamily": "FaBrands",
       "identifier": "untappd"
     },
     "ups": {
-      "codepoint": 57755,
+      "codepoint": 57754,
       "fontFamily": "FaBrands",
       "identifier": "ups"
     },
     "usb": {
-      "codepoint": 57756,
+      "codepoint": 57755,
       "fontFamily": "FaBrands",
       "identifier": "usb"
     },
     "usps": {
-      "codepoint": 57757,
+      "codepoint": 57756,
       "fontFamily": "FaBrands",
       "identifier": "usps"
     },
     "ussunnah": {
-      "codepoint": 57758,
+      "codepoint": 57757,
       "fontFamily": "FaBrands",
       "identifier": "ussunnah"
     },
     "vaadin": {
-      "codepoint": 57759,
+      "codepoint": 57758,
       "fontFamily": "FaBrands",
       "identifier": "vaadin"
     },
     "viacoin": {
-      "codepoint": 57760,
+      "codepoint": 57759,
       "fontFamily": "FaBrands",
       "identifier": "viacoin"
     },
     "viadeo": {
-      "codepoint": 57761,
+      "codepoint": 57760,
       "fontFamily": "FaBrands",
       "identifier": "viadeo"
     },
     "viadeo-square": {
-      "codepoint": 57762,
+      "codepoint": 57761,
       "fontFamily": "FaBrands",
       "identifier": "viadeoSquare"
     },
     "viber": {
-      "codepoint": 57763,
+      "codepoint": 57762,
       "fontFamily": "FaBrands",
       "identifier": "viber"
     },
     "vimeo": {
-      "codepoint": 57764,
+      "codepoint": 57763,
       "fontFamily": "FaBrands",
       "identifier": "vimeo"
     },
     "vimeo-square": {
-      "codepoint": 57765,
+      "codepoint": 57764,
       "fontFamily": "FaBrands",
       "identifier": "vimeoSquare"
     },
     "vimeo-v": {
-      "codepoint": 57766,
+      "codepoint": 57765,
       "fontFamily": "FaBrands",
       "identifier": "vimeoV"
     },
     "vine": {
-      "codepoint": 57767,
+      "codepoint": 57766,
       "fontFamily": "FaBrands",
       "identifier": "vine"
     },
     "vk": {
-      "codepoint": 57768,
+      "codepoint": 57767,
       "fontFamily": "FaBrands",
       "identifier": "vk"
     },
     "vnv": {
-      "codepoint": 57769,
+      "codepoint": 57768,
       "fontFamily": "FaBrands",
       "identifier": "vnv"
     },
     "vuejs": {
-      "codepoint": 57770,
+      "codepoint": 57769,
       "fontFamily": "FaBrands",
       "identifier": "vuejs"
     },
     "watchman-monitoring": {
-      "codepoint": 57771,
+      "codepoint": 57770,
       "fontFamily": "FaBrands",
       "identifier": "watchmanMonitoring"
     },
     "waze": {
-      "codepoint": 57772,
+      "codepoint": 57771,
       "fontFamily": "FaBrands",
       "identifier": "waze"
     },
     "weebly": {
-      "codepoint": 57773,
+      "codepoint": 57772,
       "fontFamily": "FaBrands",
       "identifier": "weebly"
     },
     "weibo": {
-      "codepoint": 57774,
+      "codepoint": 57773,
       "fontFamily": "FaBrands",
       "identifier": "weibo"
     },
     "weixin": {
-      "codepoint": 57775,
+      "codepoint": 57774,
       "fontFamily": "FaBrands",
       "identifier": "weixin"
     },
     "whatsapp": {
-      "codepoint": 57776,
+      "codepoint": 57775,
       "fontFamily": "FaBrands",
       "identifier": "whatsapp"
     },
     "whatsapp-square": {
-      "codepoint": 57777,
+      "codepoint": 57776,
       "fontFamily": "FaBrands",
       "identifier": "whatsappSquare"
     },
     "whmcs": {
-      "codepoint": 57778,
+      "codepoint": 57777,
       "fontFamily": "FaBrands",
       "identifier": "whmcs"
     },
     "wikipedia-w": {
-      "codepoint": 57779,
+      "codepoint": 57778,
       "fontFamily": "FaBrands",
       "identifier": "wikipediaW"
     },
     "windows": {
-      "codepoint": 57780,
+      "codepoint": 57779,
       "fontFamily": "FaBrands",
       "identifier": "windows"
     },
     "wix": {
-      "codepoint": 57781,
+      "codepoint": 57780,
       "fontFamily": "FaBrands",
       "identifier": "wix"
     },
     "wizards-of-the-coast": {
-      "codepoint": 57782,
+      "codepoint": 57781,
       "fontFamily": "FaBrands",
       "identifier": "wizardsOfTheCoast"
     },
     "wodu": {
-      "codepoint": 57783,
+      "codepoint": 57782,
       "fontFamily": "FaBrands",
       "identifier": "wodu"
     },
     "wolf-pack-battalion": {
-      "codepoint": 57784,
+      "codepoint": 57783,
       "fontFamily": "FaBrands",
       "identifier": "wolfPackBattalion"
     },
     "wordpress": {
-      "codepoint": 57785,
+      "codepoint": 57784,
       "fontFamily": "FaBrands",
       "identifier": "wordpress"
     },
     "wordpress-simple": {
-      "codepoint": 57786,
+      "codepoint": 57785,
       "fontFamily": "FaBrands",
       "identifier": "wordpressSimple"
     },
     "wpbeginner": {
-      "codepoint": 57787,
+      "codepoint": 57786,
       "fontFamily": "FaBrands",
       "identifier": "wpbeginner"
     },
     "wpexplorer": {
-      "codepoint": 57788,
+      "codepoint": 57787,
       "fontFamily": "FaBrands",
       "identifier": "wpexplorer"
     },
     "wpforms": {
-      "codepoint": 57789,
+      "codepoint": 57788,
       "fontFamily": "FaBrands",
       "identifier": "wpforms"
     },
     "wpressr": {
-      "codepoint": 57790,
+      "codepoint": 57789,
       "fontFamily": "FaBrands",
       "identifier": "wpressr"
     },
     "xbox": {
-      "codepoint": 57791,
+      "codepoint": 57790,
       "fontFamily": "FaBrands",
       "identifier": "xbox"
     },
     "xing": {
-      "codepoint": 57792,
+      "codepoint": 57791,
       "fontFamily": "FaBrands",
       "identifier": "xing"
     },
     "xing-square": {
-      "codepoint": 57793,
+      "codepoint": 57792,
       "fontFamily": "FaBrands",
       "identifier": "xingSquare"
     },
     "y-combinator": {
-      "codepoint": 57794,
+      "codepoint": 57793,
       "fontFamily": "FaBrands",
       "identifier": "yCombinator"
     },
     "yahoo": {
-      "codepoint": 57795,
+      "codepoint": 57794,
       "fontFamily": "FaBrands",
       "identifier": "yahoo"
     },
     "yammer": {
-      "codepoint": 57796,
+      "codepoint": 57795,
       "fontFamily": "FaBrands",
       "identifier": "yammer"
     },
     "yandex": {
-      "codepoint": 57797,
+      "codepoint": 57796,
       "fontFamily": "FaBrands",
       "identifier": "yandex"
     },
     "yandex-international": {
-      "codepoint": 57798,
+      "codepoint": 57797,
       "fontFamily": "FaBrands",
       "identifier": "yandexInternational"
     },
     "yarn": {
-      "codepoint": 57799,
+      "codepoint": 57798,
       "fontFamily": "FaBrands",
       "identifier": "yarn"
     },
     "yelp": {
-      "codepoint": 57800,
+      "codepoint": 57799,
       "fontFamily": "FaBrands",
       "identifier": "yelp"
     },
     "yoast": {
-      "codepoint": 57801,
+      "codepoint": 57800,
       "fontFamily": "FaBrands",
       "identifier": "yoast"
     },
     "youtube": {
-      "codepoint": 57802,
+      "codepoint": 57801,
       "fontFamily": "FaBrands",
       "identifier": "youtube"
     },
     "youtube-square": {
-      "codepoint": 57803,
+      "codepoint": 57802,
       "fontFamily": "FaBrands",
       "identifier": "youtubeSquare"
     },
     "zhihu": {
-      "codepoint": 57804,
+      "codepoint": 57803,
       "fontFamily": "FaBrands",
       "identifier": "zhihu"
     }

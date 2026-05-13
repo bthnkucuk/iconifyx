@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/evil-icons/evil-icons/blob/master/LICENSE.txt"
     },
-    "total": 70
+    "total": 68
   },
   "fonts": [
     {
       "family": "Ei",
-      "nextCodepoint": 57414,
-      "iconCount": 70
+      "nextCodepoint": 57412,
+      "iconCount": 68
     }
   ],
   "icons": {
@@ -251,128 +251,118 @@
       "fontFamily": "Ei",
       "identifier": "scGooglePlus"
     },
-    "sc-instagram": {
-      "codepoint": 57389,
-      "fontFamily": "Ei",
-      "identifier": "scInstagram"
-    },
     "sc-linkedin": {
-      "codepoint": 57390,
+      "codepoint": 57389,
       "fontFamily": "Ei",
       "identifier": "scLinkedin"
     },
     "sc-odnoklassniki": {
-      "codepoint": 57391,
+      "codepoint": 57390,
       "fontFamily": "Ei",
       "identifier": "scOdnoklassniki"
     },
     "sc-pinterest": {
-      "codepoint": 57392,
+      "codepoint": 57391,
       "fontFamily": "Ei",
       "identifier": "scPinterest"
     },
     "sc-skype": {
-      "codepoint": 57393,
+      "codepoint": 57392,
       "fontFamily": "Ei",
       "identifier": "scSkype"
     },
     "sc-soundcloud": {
-      "codepoint": 57394,
+      "codepoint": 57393,
       "fontFamily": "Ei",
       "identifier": "scSoundcloud"
     },
     "sc-telegram": {
-      "codepoint": 57395,
+      "codepoint": 57394,
       "fontFamily": "Ei",
       "identifier": "scTelegram"
     },
     "sc-tumblr": {
-      "codepoint": 57396,
+      "codepoint": 57395,
       "fontFamily": "Ei",
       "identifier": "scTumblr"
     },
     "sc-twitter": {
-      "codepoint": 57397,
+      "codepoint": 57396,
       "fontFamily": "Ei",
       "identifier": "scTwitter"
     },
     "sc-vimeo": {
-      "codepoint": 57398,
+      "codepoint": 57397,
       "fontFamily": "Ei",
       "identifier": "scVimeo"
     },
     "sc-vk": {
-      "codepoint": 57399,
+      "codepoint": 57398,
       "fontFamily": "Ei",
       "identifier": "scVk"
     },
     "sc-youtube": {
-      "codepoint": 57400,
+      "codepoint": 57399,
       "fontFamily": "Ei",
       "identifier": "scYoutube"
     },
     "search": {
-      "codepoint": 57401,
+      "codepoint": 57400,
       "fontFamily": "Ei",
       "identifier": "search"
     },
     "share-apple": {
-      "codepoint": 57402,
+      "codepoint": 57401,
       "fontFamily": "Ei",
       "identifier": "shareApple"
     },
-    "share-google": {
-      "codepoint": 57403,
-      "fontFamily": "Ei",
-      "identifier": "shareGoogle"
-    },
     "spinner": {
-      "codepoint": 57404,
+      "codepoint": 57402,
       "fontFamily": "Ei",
       "identifier": "spinner"
     },
     "spinner-2": {
-      "codepoint": 57405,
+      "codepoint": 57403,
       "fontFamily": "Ei",
       "identifier": "spinner2"
     },
     "spinner-3": {
-      "codepoint": 57406,
+      "codepoint": 57404,
       "fontFamily": "Ei",
       "identifier": "spinner3"
     },
     "star": {
-      "codepoint": 57407,
+      "codepoint": 57405,
       "fontFamily": "Ei",
       "identifier": "star"
     },
     "tag": {
-      "codepoint": 57408,
+      "codepoint": 57406,
       "fontFamily": "Ei",
       "identifier": "tag"
     },
     "trash": {
-      "codepoint": 57409,
+      "codepoint": 57407,
       "fontFamily": "Ei",
       "identifier": "trash"
     },
     "trophy": {
-      "codepoint": 57410,
+      "codepoint": 57408,
       "fontFamily": "Ei",
       "identifier": "trophy"
     },
     "undo": {
-      "codepoint": 57411,
+      "codepoint": 57409,
       "fontFamily": "Ei",
       "identifier": "undo"
     },
     "unlock": {
-      "codepoint": 57412,
+      "codepoint": 57410,
       "fontFamily": "Ei",
       "identifier": "unlock"
     },
     "user": {
-      "codepoint": 57413,
+      "codepoint": 57411,
       "fontFamily": "Ei",
       "identifier": "user"
     }

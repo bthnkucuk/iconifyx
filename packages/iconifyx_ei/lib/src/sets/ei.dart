@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Alexander Madyankin and Roman Shamin
 /// License: MIT — https://github.com/evil-icons/evil-icons/blob/master/LICENSE.txt
-/// Icons: 70
+/// Icons: 68
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -331,177 +331,163 @@ class EiIcons {
     fontPackage: 'iconifyx_ei',
   ));
 
-  /// `sc-instagram`
-  static const IconifyIconData scInstagram = IconifyIconData(IconData(
-    0xe02d,
-    fontFamily: 'Ei',
-    fontPackage: 'iconifyx_ei',
-  ));
-
   /// `sc-linkedin`
   static const IconifyIconData scLinkedin = IconifyIconData(IconData(
-    0xe02e,
+    0xe02d,
     fontFamily: 'Ei',
     fontPackage: 'iconifyx_ei',
   ));
 
   /// `sc-odnoklassniki`
   static const IconifyIconData scOdnoklassniki = IconifyIconData(IconData(
-    0xe02f,
+    0xe02e,
     fontFamily: 'Ei',
     fontPackage: 'iconifyx_ei',
   ));
 
   /// `sc-pinterest`
   static const IconifyIconData scPinterest = IconifyIconData(IconData(
-    0xe030,
+    0xe02f,
     fontFamily: 'Ei',
     fontPackage: 'iconifyx_ei',
   ));
 
   /// `sc-skype`
   static const IconifyIconData scSkype = IconifyIconData(IconData(
-    0xe031,
+    0xe030,
     fontFamily: 'Ei',
     fontPackage: 'iconifyx_ei',
   ));
 
   /// `sc-soundcloud`
   static const IconifyIconData scSoundcloud = IconifyIconData(IconData(
-    0xe032,
+    0xe031,
     fontFamily: 'Ei',
     fontPackage: 'iconifyx_ei',
   ));
 
   /// `sc-telegram`
   static const IconifyIconData scTelegram = IconifyIconData(IconData(
-    0xe033,
+    0xe032,
     fontFamily: 'Ei',
     fontPackage: 'iconifyx_ei',
   ));
 
   /// `sc-tumblr`
   static const IconifyIconData scTumblr = IconifyIconData(IconData(
-    0xe034,
+    0xe033,
     fontFamily: 'Ei',
     fontPackage: 'iconifyx_ei',
   ));
 
   /// `sc-twitter`
   static const IconifyIconData scTwitter = IconifyIconData(IconData(
-    0xe035,
+    0xe034,
     fontFamily: 'Ei',
     fontPackage: 'iconifyx_ei',
   ));
 
   /// `sc-vimeo`
   static const IconifyIconData scVimeo = IconifyIconData(IconData(
-    0xe036,
+    0xe035,
     fontFamily: 'Ei',
     fontPackage: 'iconifyx_ei',
   ));
 
   /// `sc-vk`
   static const IconifyIconData scVk = IconifyIconData(IconData(
-    0xe037,
+    0xe036,
     fontFamily: 'Ei',
     fontPackage: 'iconifyx_ei',
   ));
 
   /// `sc-youtube`
   static const IconifyIconData scYoutube = IconifyIconData(IconData(
-    0xe038,
+    0xe037,
     fontFamily: 'Ei',
     fontPackage: 'iconifyx_ei',
   ));
 
   /// `search`
   static const IconifyIconData search = IconifyIconData(IconData(
-    0xe039,
+    0xe038,
     fontFamily: 'Ei',
     fontPackage: 'iconifyx_ei',
   ));
 
   /// `share-apple`
   static const IconifyIconData shareApple = IconifyIconData(IconData(
-    0xe03a,
-    fontFamily: 'Ei',
-    fontPackage: 'iconifyx_ei',
-  ));
-
-  /// `share-google`
-  static const IconifyIconData shareGoogle = IconifyIconData(IconData(
-    0xe03b,
+    0xe039,
     fontFamily: 'Ei',
     fontPackage: 'iconifyx_ei',
   ));
 
   /// `spinner`
   static const IconifyIconData spinner = IconifyIconData(IconData(
-    0xe03c,
+    0xe03a,
     fontFamily: 'Ei',
     fontPackage: 'iconifyx_ei',
   ));
 
   /// `spinner-2`
   static const IconifyIconData spinner2 = IconifyIconData(IconData(
-    0xe03d,
+    0xe03b,
     fontFamily: 'Ei',
     fontPackage: 'iconifyx_ei',
   ));
 
   /// `spinner-3`
   static const IconifyIconData spinner3 = IconifyIconData(IconData(
-    0xe03e,
+    0xe03c,
     fontFamily: 'Ei',
     fontPackage: 'iconifyx_ei',
   ));
 
   /// `star`
   static const IconifyIconData star = IconifyIconData(IconData(
-    0xe03f,
+    0xe03d,
     fontFamily: 'Ei',
     fontPackage: 'iconifyx_ei',
   ));
 
   /// `tag`
   static const IconifyIconData tag = IconifyIconData(IconData(
-    0xe040,
+    0xe03e,
     fontFamily: 'Ei',
     fontPackage: 'iconifyx_ei',
   ));
 
   /// `trash`
   static const IconifyIconData trash = IconifyIconData(IconData(
-    0xe041,
+    0xe03f,
     fontFamily: 'Ei',
     fontPackage: 'iconifyx_ei',
   ));
 
   /// `trophy`
   static const IconifyIconData trophy = IconifyIconData(IconData(
-    0xe042,
+    0xe040,
     fontFamily: 'Ei',
     fontPackage: 'iconifyx_ei',
   ));
 
   /// `undo`
   static const IconifyIconData undo = IconifyIconData(IconData(
-    0xe043,
+    0xe041,
     fontFamily: 'Ei',
     fontPackage: 'iconifyx_ei',
   ));
 
   /// `unlock`
   static const IconifyIconData unlock = IconifyIconData(IconData(
-    0xe044,
+    0xe042,
     fontFamily: 'Ei',
     fontPackage: 'iconifyx_ei',
   ));
 
   /// `user`
   static const IconifyIconData user = IconifyIconData(IconData(
-    0xe045,
+    0xe043,
     fontFamily: 'Ei',
     fontPackage: 'iconifyx_ei',
   ));

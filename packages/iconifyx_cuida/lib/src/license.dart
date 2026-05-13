@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'Apache 2.0',
   licenseSpdx: 'Apache-2.0',
   licenseUrl: 'https://github.com/Sysvale/cuida-icons/blob/main/LICENSE',
-  iconCount: 182,
+  iconCount: 72,
 );

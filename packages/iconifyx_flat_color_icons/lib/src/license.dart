@@ -10,5 +10,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   authorUrl: 'https://github.com/icons8/flat-Color-icons',
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
-  iconCount: 329,
+  iconCount: 81,
 );

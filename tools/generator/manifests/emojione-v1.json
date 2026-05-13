@@ -1,0 +1,330 @@
+{
+  "schemaVersion": 1,
+  "prefix": "emojione-v1",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Emoji",
+  "subPackage": "iconifyx_emojione_v1",
+  "info": {
+    "name": "Emoji One (v1)",
+    "author": {
+      "name": "Emoji One",
+      "url": "https://github.com/joypixels/emojione-legacy"
+    },
+    "license": {
+      "title": "CC BY-SA 4.0",
+      "spdx": "CC-BY-SA-4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "total": 60
+  },
+  "fonts": [
+    {
+      "family": "EmojioneV1",
+      "nextCodepoint": 57404,
+      "iconCount": 60
+    }
+  ],
+  "icons": {
+    "alien-monster": {
+      "codepoint": 57344,
+      "fontFamily": "EmojioneV1",
+      "identifier": "alienMonster"
+    },
+    "antenna-bars": {
+      "codepoint": 57345,
+      "fontFamily": "EmojioneV1",
+      "identifier": "antennaBars"
+    },
+    "blue-circle": {
+      "codepoint": 57346,
+      "fontFamily": "EmojioneV1",
+      "identifier": "blueCircle"
+    },
+    "crescent-moon": {
+      "codepoint": 57347,
+      "fontFamily": "EmojioneV1",
+      "identifier": "crescentMoon"
+    },
+    "cross-mark-button": {
+      "codepoint": 57348,
+      "fontFamily": "EmojioneV1",
+      "identifier": "crossMarkButton"
+    },
+    "diamond-suit": {
+      "codepoint": 57349,
+      "fontFamily": "EmojioneV1",
+      "identifier": "diamondSuit"
+    },
+    "down-arrow": {
+      "codepoint": 57350,
+      "fontFamily": "EmojioneV1",
+      "identifier": "downArrow"
+    },
+    "down-button": {
+      "codepoint": 57351,
+      "fontFamily": "EmojioneV1",
+      "identifier": "downButton"
+    },
+    "downwards-button": {
+      "codepoint": 57352,
+      "fontFamily": "EmojioneV1",
+      "identifier": "downwardsButton"
+    },
+    "eight-spoked-asterisk": {
+      "codepoint": 57353,
+      "fontFamily": "EmojioneV1",
+      "identifier": "eightSpokedAsterisk"
+    },
+    "fast-forward-button": {
+      "codepoint": 57354,
+      "fontFamily": "EmojioneV1",
+      "identifier": "fastForwardButton"
+    },
+    "flag-for-cameroon": {
+      "codepoint": 57355,
+      "fontFamily": "EmojioneV1",
+      "identifier": "flagForCameroon"
+    },
+    "flag-for-faroe-islands": {
+      "codepoint": 57356,
+      "fontFamily": "EmojioneV1",
+      "identifier": "flagForFaroeIslands"
+    },
+    "flag-for-flag-cameroon": {
+      "codepoint": 57357,
+      "fontFamily": "EmojioneV1",
+      "identifier": "flagForFlagCameroon"
+    },
+    "flag-for-flag-faroe-islands": {
+      "codepoint": 57358,
+      "fontFamily": "EmojioneV1",
+      "identifier": "flagForFlagFaroeIslands"
+    },
+    "flag-for-flag-lithuania": {
+      "codepoint": 57359,
+      "fontFamily": "EmojioneV1",
+      "identifier": "flagForFlagLithuania"
+    },
+    "flag-for-flag-mali": {
+      "codepoint": 57360,
+      "fontFamily": "EmojioneV1",
+      "identifier": "flagForFlagMali"
+    },
+    "flag-for-flag-senegal": {
+      "codepoint": 57361,
+      "fontFamily": "EmojioneV1",
+      "identifier": "flagForFlagSenegal"
+    },
+    "flag-for-flag-sweden": {
+      "codepoint": 57362,
+      "fontFamily": "EmojioneV1",
+      "identifier": "flagForFlagSweden"
+    },
+    "flag-for-flag-switzerland": {
+      "codepoint": 57363,
+      "fontFamily": "EmojioneV1",
+      "identifier": "flagForFlagSwitzerland"
+    },
+    "flag-for-flag-ukraine": {
+      "codepoint": 57364,
+      "fontFamily": "EmojioneV1",
+      "identifier": "flagForFlagUkraine"
+    },
+    "flag-for-flag-vietnam": {
+      "codepoint": 57365,
+      "fontFamily": "EmojioneV1",
+      "identifier": "flagForFlagVietnam"
+    },
+    "flag-for-lithuania": {
+      "codepoint": 57366,
+      "fontFamily": "EmojioneV1",
+      "identifier": "flagForLithuania"
+    },
+    "flag-for-mali": {
+      "codepoint": 57367,
+      "fontFamily": "EmojioneV1",
+      "identifier": "flagForMali"
+    },
+    "flag-for-senegal": {
+      "codepoint": 57368,
+      "fontFamily": "EmojioneV1",
+      "identifier": "flagForSenegal"
+    },
+    "flag-for-sweden": {
+      "codepoint": 57369,
+      "fontFamily": "EmojioneV1",
+      "identifier": "flagForSweden"
+    },
+    "flag-for-switzerland": {
+      "codepoint": 57370,
+      "fontFamily": "EmojioneV1",
+      "identifier": "flagForSwitzerland"
+    },
+    "flag-for-ukraine": {
+      "codepoint": 57371,
+      "fontFamily": "EmojioneV1",
+      "identifier": "flagForUkraine"
+    },
+    "flag-for-vietnam": {
+      "codepoint": 57372,
+      "fontFamily": "EmojioneV1",
+      "identifier": "flagForVietnam"
+    },
+    "full-moon": {
+      "codepoint": 57373,
+      "fontFamily": "EmojioneV1",
+      "identifier": "fullMoon"
+    },
+    "gem-stone": {
+      "codepoint": 57374,
+      "fontFamily": "EmojioneV1",
+      "identifier": "gemStone"
+    },
+    "high-voltage": {
+      "codepoint": 57375,
+      "fontFamily": "EmojioneV1",
+      "identifier": "highVoltage"
+    },
+    "large-blue-diamond": {
+      "codepoint": 57376,
+      "fontFamily": "EmojioneV1",
+      "identifier": "largeBlueDiamond"
+    },
+    "left-arrow": {
+      "codepoint": 57377,
+      "fontFamily": "EmojioneV1",
+      "identifier": "leftArrow"
+    },
+    "left-check-mark": {
+      "codepoint": 57378,
+      "fontFamily": "EmojioneV1",
+      "identifier": "leftCheckMark"
+    },
+    "left-right-arrow": {
+      "codepoint": 57379,
+      "fontFamily": "EmojioneV1",
+      "identifier": "leftRightArrow"
+    },
+    "left-speech-bubble": {
+      "codepoint": 57380,
+      "fontFamily": "EmojioneV1",
+      "identifier": "leftSpeechBubble"
+    },
+    "left-thought-bubble": {
+      "codepoint": 57381,
+      "fontFamily": "EmojioneV1",
+      "identifier": "leftThoughtBubble"
+    },
+    "lightning-mood": {
+      "codepoint": 57382,
+      "fontFamily": "EmojioneV1",
+      "identifier": "lightningMood"
+    },
+    "mushroom": {
+      "codepoint": 57383,
+      "fontFamily": "EmojioneV1",
+      "identifier": "mushroom"
+    },
+    "optical-disc-icon": {
+      "codepoint": 57384,
+      "fontFamily": "EmojioneV1",
+      "identifier": "opticalDiscIcon"
+    },
+    "pill": {
+      "codepoint": 57385,
+      "fontFamily": "EmojioneV1",
+      "identifier": "pill"
+    },
+    "play-button": {
+      "codepoint": 57386,
+      "fontFamily": "EmojioneV1",
+      "identifier": "playButton"
+    },
+    "prohibited-sign": {
+      "codepoint": 57387,
+      "fontFamily": "EmojioneV1",
+      "identifier": "prohibitedSign"
+    },
+    "red-circle": {
+      "codepoint": 57388,
+      "fontFamily": "EmojioneV1",
+      "identifier": "redCircle"
+    },
+    "reverse-button": {
+      "codepoint": 57389,
+      "fontFamily": "EmojioneV1",
+      "identifier": "reverseButton"
+    },
+    "right-arrow": {
+      "codepoint": 57390,
+      "fontFamily": "EmojioneV1",
+      "identifier": "rightArrow"
+    },
+    "rounded-corners": {
+      "codepoint": 57391,
+      "fontFamily": "EmojioneV1",
+      "identifier": "roundedCorners"
+    },
+    "sagittarius": {
+      "codepoint": 57392,
+      "fontFamily": "EmojioneV1",
+      "identifier": "sagittarius"
+    },
+    "small-blue-diamond": {
+      "codepoint": 57393,
+      "fontFamily": "EmojioneV1",
+      "identifier": "smallBlueDiamond"
+    },
+    "thought-balloon": {
+      "codepoint": 57394,
+      "fontFamily": "EmojioneV1",
+      "identifier": "thoughtBalloon"
+    },
+    "up-arrow": {
+      "codepoint": 57395,
+      "fontFamily": "EmojioneV1",
+      "identifier": "upArrow"
+    },
+    "up-button": {
+      "codepoint": 57396,
+      "fontFamily": "EmojioneV1",
+      "identifier": "upButton"
+    },
+    "up-down-arrow": {
+      "codepoint": 57397,
+      "fontFamily": "EmojioneV1",
+      "identifier": "upDownArrow"
+    },
+    "up-right-arrow": {
+      "codepoint": 57398,
+      "fontFamily": "EmojioneV1",
+      "identifier": "upRightArrow"
+    },
+    "upwards-button": {
+      "codepoint": 57399,
+      "fontFamily": "EmojioneV1",
+      "identifier": "upwardsButton"
+    },
+    "white-circle": {
+      "codepoint": 57400,
+      "fontFamily": "EmojioneV1",
+      "identifier": "whiteCircle"
+    },
+    "white-large-square": {
+      "codepoint": 57401,
+      "fontFamily": "EmojioneV1",
+      "identifier": "whiteLargeSquare"
+    },
+    "white-medium-small-square": {
+      "codepoint": 57402,
+      "fontFamily": "EmojioneV1",
+      "identifier": "whiteMediumSmallSquare"
+    },
+    "white-medium-square": {
+      "codepoint": 57403,
+      "fontFamily": "EmojioneV1",
+      "identifier": "whiteMediumSquare"
+    }
+  }
+}

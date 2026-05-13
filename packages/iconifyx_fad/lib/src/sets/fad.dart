@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: @fefanto
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 155
+/// Icons: 154
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -597,506 +597,499 @@ class FadIcons {
     fontPackage: 'iconifyx_fad',
   ));
 
-  /// `logo-waveform`
-  static const IconifyIconData logoWaveform = IconifyIconData(IconData(
-    0xe053,
-    fontFamily: 'Fad',
-    fontPackage: 'iconifyx_fad',
-  ));
-
   /// `loop`
   static const IconifyIconData loop = IconifyIconData(IconData(
-    0xe054,
+    0xe053,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `metronome`
   static const IconifyIconData metronome = IconifyIconData(IconData(
-    0xe055,
+    0xe054,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `microphone`
   static const IconifyIconData microphone = IconifyIconData(IconData(
-    0xe056,
+    0xe055,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `midiplug`
   static const IconifyIconData midiplug = IconifyIconData(IconData(
-    0xe057,
+    0xe056,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `modrandom`
   static const IconifyIconData modrandom = IconifyIconData(IconData(
-    0xe058,
+    0xe057,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `modsawdown`
   static const IconifyIconData modsawdown = IconifyIconData(IconData(
-    0xe059,
+    0xe058,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `modsawup`
   static const IconifyIconData modsawup = IconifyIconData(IconData(
-    0xe05a,
+    0xe059,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `modsh`
   static const IconifyIconData modsh = IconifyIconData(IconData(
-    0xe05b,
+    0xe05a,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `modsine`
   static const IconifyIconData modsine = IconifyIconData(IconData(
-    0xe05c,
+    0xe05b,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `modsquare`
   static const IconifyIconData modsquare = IconifyIconData(IconData(
-    0xe05d,
+    0xe05c,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `modtri`
   static const IconifyIconData modtri = IconifyIconData(IconData(
-    0xe05e,
+    0xe05d,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `modularplug`
   static const IconifyIconData modularplug = IconifyIconData(IconData(
-    0xe05f,
+    0xe05e,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `mono`
   static const IconifyIconData mono = IconifyIconData(IconData(
-    0xe060,
+    0xe05f,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `mute`
   static const IconifyIconData mute = IconifyIconData(IconData(
-    0xe061,
+    0xe060,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `next`
   static const IconifyIconData next = IconifyIconData(IconData(
-    0xe062,
+    0xe061,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `open`
   static const IconifyIconData open = IconifyIconData(IconData(
-    0xe063,
+    0xe062,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `paste`
   static const IconifyIconData paste = IconifyIconData(IconData(
-    0xe064,
+    0xe063,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `pause`
   static const IconifyIconData pause = IconifyIconData(IconData(
-    0xe065,
+    0xe064,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `pen`
   static const IconifyIconData pen = IconifyIconData(IconData(
-    0xe066,
+    0xe065,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `phase`
   static const IconifyIconData phase = IconifyIconData(IconData(
-    0xe067,
+    0xe066,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `play`
   static const IconifyIconData play = IconifyIconData(IconData(
-    0xe068,
+    0xe067,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `pointer`
   static const IconifyIconData pointer = IconifyIconData(IconData(
-    0xe069,
+    0xe068,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `powerswitch`
   static const IconifyIconData powerswitch = IconifyIconData(IconData(
-    0xe06a,
+    0xe069,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `preset-a`
   static const IconifyIconData presetA = IconifyIconData(IconData(
-    0xe06b,
+    0xe06a,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `preset-ab`
   static const IconifyIconData presetAb = IconifyIconData(IconData(
-    0xe06c,
+    0xe06b,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `preset-b`
   static const IconifyIconData presetB = IconifyIconData(IconData(
-    0xe06d,
+    0xe06c,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `preset-ba`
   static const IconifyIconData presetBa = IconifyIconData(IconData(
-    0xe06e,
+    0xe06d,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `prev`
   static const IconifyIconData prev = IconifyIconData(IconData(
-    0xe06f,
+    0xe06e,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `punch-in`
   static const IconifyIconData punchIn = IconifyIconData(IconData(
-    0xe070,
+    0xe06f,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `punch-out`
   static const IconifyIconData punchOut = IconifyIconData(IconData(
-    0xe071,
+    0xe070,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `ram`
   static const IconifyIconData ram = IconifyIconData(IconData(
-    0xe072,
+    0xe071,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `random-1dice`
   static const IconifyIconData random1dice = IconifyIconData(IconData(
-    0xe073,
+    0xe072,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `random-2dice`
   static const IconifyIconData random2dice = IconifyIconData(IconData(
-    0xe074,
+    0xe073,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `record`
   static const IconifyIconData record = IconifyIconData(IconData(
-    0xe075,
+    0xe074,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `redo`
   static const IconifyIconData redo = IconifyIconData(IconData(
-    0xe076,
+    0xe075,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `repeat`
   static const IconifyIconData repeat = IconifyIconData(IconData(
-    0xe077,
+    0xe076,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `repeat-one`
   static const IconifyIconData repeatOne = IconifyIconData(IconData(
-    0xe078,
+    0xe077,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `rew`
   static const IconifyIconData rew = IconifyIconData(IconData(
-    0xe079,
+    0xe078,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `roundswitch-off`
   static const IconifyIconData roundswitchOff = IconifyIconData(IconData(
-    0xe07a,
+    0xe079,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `roundswitch-on`
   static const IconifyIconData roundswitchOn = IconifyIconData(IconData(
-    0xe07b,
+    0xe07a,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `save`
   static const IconifyIconData save = IconifyIconData(IconData(
-    0xe07c,
+    0xe07b,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `saveas`
   static const IconifyIconData saveas = IconifyIconData(IconData(
-    0xe07d,
+    0xe07c,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `scissors`
   static const IconifyIconData scissors = IconifyIconData(IconData(
-    0xe07e,
+    0xe07d,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `shuffle`
   static const IconifyIconData shuffle = IconifyIconData(IconData(
-    0xe07f,
+    0xe07e,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `slider-round-1`
   static const IconifyIconData sliderRound1 = IconifyIconData(IconData(
-    0xe080,
+    0xe07f,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `slider-round-2`
   static const IconifyIconData sliderRound2 = IconifyIconData(IconData(
-    0xe081,
+    0xe080,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `slider-round-3`
   static const IconifyIconData sliderRound3 = IconifyIconData(IconData(
-    0xe082,
+    0xe081,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `sliderhandle-1`
   static const IconifyIconData sliderhandle1 = IconifyIconData(IconData(
-    0xe083,
+    0xe082,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `sliderhandle-2`
   static const IconifyIconData sliderhandle2 = IconifyIconData(IconData(
-    0xe084,
+    0xe083,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `softclip`
   static const IconifyIconData softclip = IconifyIconData(IconData(
-    0xe085,
+    0xe084,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `softclipcurve`
   static const IconifyIconData softclipcurve = IconifyIconData(IconData(
-    0xe086,
+    0xe085,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `solo`
   static const IconifyIconData solo = IconifyIconData(IconData(
-    0xe087,
+    0xe086,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `speaker`
   static const IconifyIconData speaker = IconifyIconData(IconData(
-    0xe088,
+    0xe087,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `squareswitch-off`
   static const IconifyIconData squareswitchOff = IconifyIconData(IconData(
-    0xe089,
+    0xe088,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `squareswitch-on`
   static const IconifyIconData squareswitchOn = IconifyIconData(IconData(
-    0xe08a,
+    0xe089,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `stereo`
   static const IconifyIconData stereo = IconifyIconData(IconData(
-    0xe08b,
+    0xe08a,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `stop`
   static const IconifyIconData stop = IconifyIconData(IconData(
-    0xe08c,
+    0xe08b,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `thunderbolt`
   static const IconifyIconData thunderbolt = IconifyIconData(IconData(
-    0xe08d,
+    0xe08c,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `timeselect`
   static const IconifyIconData timeselect = IconifyIconData(IconData(
-    0xe08e,
+    0xe08d,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `undo`
   static const IconifyIconData undo = IconifyIconData(IconData(
-    0xe08f,
+    0xe08e,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `unlock`
   static const IconifyIconData unlock = IconifyIconData(IconData(
-    0xe090,
+    0xe08f,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `usb`
   static const IconifyIconData usb = IconifyIconData(IconData(
-    0xe091,
+    0xe090,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `v-expand`
   static const IconifyIconData vExpand = IconifyIconData(IconData(
-    0xe092,
+    0xe091,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `vroundswitch-off`
   static const IconifyIconData vroundswitchOff = IconifyIconData(IconData(
-    0xe093,
+    0xe092,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `vroundswitch-on`
   static const IconifyIconData vroundswitchOn = IconifyIconData(IconData(
-    0xe094,
+    0xe093,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `vsquareswitch-off`
   static const IconifyIconData vsquareswitchOff = IconifyIconData(IconData(
-    0xe095,
+    0xe094,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `vsquareswitch-on`
   static const IconifyIconData vsquareswitchOn = IconifyIconData(IconData(
-    0xe096,
+    0xe095,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `waveform`
   static const IconifyIconData waveform = IconifyIconData(IconData(
-    0xe097,
+    0xe096,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `xlrplug`
   static const IconifyIconData xlrplug = IconifyIconData(IconData(
-    0xe098,
+    0xe097,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `zoomin`
   static const IconifyIconData zoomin = IconifyIconData(IconData(
-    0xe099,
+    0xe098,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));
 
   /// `zoomout`
   static const IconifyIconData zoomout = IconifyIconData(IconData(
-    0xe09a,
+    0xe099,
     fontFamily: 'Fad',
     fontPackage: 'iconifyx_fad',
   ));

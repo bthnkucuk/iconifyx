@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'BSD 3-Clause',
   licenseSpdx: 'BSD-3-Clause',
   licenseUrl: 'https://github.com/indiana-university/rivet-icons/blob/develop/LICENSE',
-  iconCount: 210,
+  iconCount: 124,
 );

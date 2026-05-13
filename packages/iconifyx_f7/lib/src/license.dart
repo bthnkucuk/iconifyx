@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/framework7io/framework7-icons/blob/master/LICENSE',
-  iconCount: 1253,
+  iconCount: 111,
 );

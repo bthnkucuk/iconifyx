@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'GPL',
   licenseSpdx: 'GPL-2.0-or-later',
   licenseUrl: 'https://github.com/WordPress/gutenberg/blob/HEAD/LICENSE.md#gnu-general-public-license-version-2',
-  iconCount: 334,
+  iconCount: 270,
 );

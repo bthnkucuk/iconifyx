@@ -16,13 +16,13 @@
       "spdx": "MIT",
       "url": "https://github.com/akveo/eva-icons/blob/master/LICENSE.txt"
     },
-    "total": 490
+    "total": 488
   },
   "fonts": [
     {
       "family": "Eva",
-      "nextCodepoint": 57834,
-      "iconCount": 490
+      "nextCodepoint": 57832,
+      "iconCount": 488
     }
   ],
   "icons": {
@@ -2386,93 +2386,83 @@
       "fontFamily": "Eva",
       "identifier": "unlockOutline"
     },
-    "upload-fill": {
-      "codepoint": 57816,
-      "fontFamily": "Eva",
-      "identifier": "uploadFill"
-    },
-    "upload-outline": {
-      "codepoint": 57817,
-      "fontFamily": "Eva",
-      "identifier": "uploadOutline"
-    },
     "video-fill": {
-      "codepoint": 57818,
+      "codepoint": 57816,
       "fontFamily": "Eva",
       "identifier": "videoFill"
     },
     "video-off-fill": {
-      "codepoint": 57819,
+      "codepoint": 57817,
       "fontFamily": "Eva",
       "identifier": "videoOffFill"
     },
     "video-off-outline": {
-      "codepoint": 57820,
+      "codepoint": 57818,
       "fontFamily": "Eva",
       "identifier": "videoOffOutline"
     },
     "video-outline": {
-      "codepoint": 57821,
+      "codepoint": 57819,
       "fontFamily": "Eva",
       "identifier": "videoOutline"
     },
     "volume-down-fill": {
-      "codepoint": 57822,
+      "codepoint": 57820,
       "fontFamily": "Eva",
       "identifier": "volumeDownFill"
     },
     "volume-down-outline": {
-      "codepoint": 57823,
+      "codepoint": 57821,
       "fontFamily": "Eva",
       "identifier": "volumeDownOutline"
     },
     "volume-mute-fill": {
-      "codepoint": 57824,
+      "codepoint": 57822,
       "fontFamily": "Eva",
       "identifier": "volumeMuteFill"
     },
     "volume-mute-outline": {
-      "codepoint": 57825,
+      "codepoint": 57823,
       "fontFamily": "Eva",
       "identifier": "volumeMuteOutline"
     },
     "volume-off-fill": {
-      "codepoint": 57826,
+      "codepoint": 57824,
       "fontFamily": "Eva",
       "identifier": "volumeOffFill"
     },
     "volume-off-outline": {
-      "codepoint": 57827,
+      "codepoint": 57825,
       "fontFamily": "Eva",
       "identifier": "volumeOffOutline"
     },
     "volume-up-fill": {
-      "codepoint": 57828,
+      "codepoint": 57826,
       "fontFamily": "Eva",
       "identifier": "volumeUpFill"
     },
     "volume-up-outline": {
-      "codepoint": 57829,
+      "codepoint": 57827,
       "fontFamily": "Eva",
       "identifier": "volumeUpOutline"
     },
     "wifi-fill": {
-      "codepoint": 57830,
+      "codepoint": 57828,
       "fontFamily": "Eva",
       "identifier": "wifiFill"
     },
     "wifi-off-fill": {
-      "codepoint": 57831,
+      "codepoint": 57829,
       "fontFamily": "Eva",
       "identifier": "wifiOffFill"
     },
     "wifi-off-outline": {
-      "codepoint": 57832,
+      "codepoint": 57830,
       "fontFamily": "Eva",
       "identifier": "wifiOffOutline"
     },
     "wifi-outline": {
-      "codepoint": 57833,
+      "codepoint": 57831,
       "fontFamily": "Eva",
       "identifier": "wifiOutline"
     }

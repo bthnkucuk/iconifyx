@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE',
-  iconCount: 20266,
+  iconCount: 4840,
 );

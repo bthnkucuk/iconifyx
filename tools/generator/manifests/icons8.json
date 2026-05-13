@@ -15,1185 +15,445 @@
       "title": "MIT",
       "spdx": "MIT"
     },
-    "total": 234
+    "total": 86
   },
   "fonts": [
     {
       "family": "Icons8",
-      "nextCodepoint": 57578,
-      "iconCount": 234
+      "nextCodepoint": 57430,
+      "iconCount": 86
     }
   ],
   "icons": {
-    "add-shopping-cart": {
-      "codepoint": 57344,
-      "fontFamily": "Icons8",
-      "identifier": "addShoppingCart"
-    },
-    "add-user": {
-      "codepoint": 57345,
-      "fontFamily": "Icons8",
-      "identifier": "addUser"
-    },
-    "adventures": {
-      "codepoint": 57346,
-      "fontFamily": "Icons8",
-      "identifier": "adventures"
-    },
-    "advertising": {
-      "codepoint": 57347,
-      "fontFamily": "Icons8",
-      "identifier": "advertising"
-    },
-    "airport": {
-      "codepoint": 57348,
-      "fontFamily": "Icons8",
-      "identifier": "airport"
-    },
     "align-center": {
-      "codepoint": 57349,
+      "codepoint": 57344,
       "fontFamily": "Icons8",
       "identifier": "alignCenter"
     },
     "align-justify": {
-      "codepoint": 57350,
+      "codepoint": 57345,
       "fontFamily": "Icons8",
       "identifier": "alignJustify"
     },
     "align-left": {
-      "codepoint": 57351,
+      "codepoint": 57346,
       "fontFamily": "Icons8",
       "identifier": "alignLeft"
     },
     "align-right": {
-      "codepoint": 57352,
+      "codepoint": 57347,
       "fontFamily": "Icons8",
       "identifier": "alignRight"
     },
-    "alphabetical-sorting": {
-      "codepoint": 57353,
-      "fontFamily": "Icons8",
-      "identifier": "alphabeticalSorting"
-    },
-    "alphabetical-sorting-2": {
-      "codepoint": 57354,
-      "fontFamily": "Icons8",
-      "identifier": "alphabeticalSorting2"
-    },
-    "amex": {
-      "codepoint": 57355,
-      "fontFamily": "Icons8",
-      "identifier": "amex"
-    },
-    "angle-down": {
-      "codepoint": 57356,
-      "fontFamily": "Icons8",
-      "identifier": "angleDown"
-    },
-    "angle-left": {
-      "codepoint": 57357,
-      "fontFamily": "Icons8",
-      "identifier": "angleLeft"
-    },
-    "angle-right": {
-      "codepoint": 57358,
-      "fontFamily": "Icons8",
-      "identifier": "angleRight"
-    },
     "angle-up": {
-      "codepoint": 57359,
+      "codepoint": 57348,
       "fontFamily": "Icons8",
       "identifier": "angleUp"
     },
-    "archive": {
-      "codepoint": 57360,
-      "fontFamily": "Icons8",
-      "identifier": "archive"
-    },
-    "area-chart": {
-      "codepoint": 57361,
-      "fontFamily": "Icons8",
-      "identifier": "areaChart"
-    },
     "arrows-long-down": {
-      "codepoint": 57362,
+      "codepoint": 57349,
       "fontFamily": "Icons8",
       "identifier": "arrowsLongDown"
     },
     "arrows-long-left": {
-      "codepoint": 57363,
+      "codepoint": 57350,
       "fontFamily": "Icons8",
       "identifier": "arrowsLongLeft"
     },
     "arrows-long-right": {
-      "codepoint": 57364,
+      "codepoint": 57351,
       "fontFamily": "Icons8",
       "identifier": "arrowsLongRight"
     },
     "arrows-long-up": {
-      "codepoint": 57365,
+      "codepoint": 57352,
       "fontFamily": "Icons8",
       "identifier": "arrowsLongUp"
     },
     "asterisk": {
-      "codepoint": 57366,
+      "codepoint": 57353,
       "fontFamily": "Icons8",
       "identifier": "asterisk"
     },
-    "audio-file": {
-      "codepoint": 57367,
-      "fontFamily": "Icons8",
-      "identifier": "audioFile"
-    },
-    "babys-room": {
-      "codepoint": 57368,
-      "fontFamily": "Icons8",
-      "identifier": "babysRoom"
-    },
-    "bank-card": {
-      "codepoint": 57369,
-      "fontFamily": "Icons8",
-      "identifier": "bankCard"
-    },
-    "banknotes": {
-      "codepoint": 57370,
-      "fontFamily": "Icons8",
-      "identifier": "banknotes"
-    },
     "bar-chart": {
-      "codepoint": 57371,
+      "codepoint": 57354,
       "fontFamily": "Icons8",
       "identifier": "barChart"
     },
     "barcode": {
-      "codepoint": 57372,
+      "codepoint": 57355,
       "fontFamily": "Icons8",
       "identifier": "barcode"
     },
-    "bed": {
-      "codepoint": 57373,
-      "fontFamily": "Icons8",
-      "identifier": "bed"
-    },
-    "binoculars": {
-      "codepoint": 57374,
-      "fontFamily": "Icons8",
-      "identifier": "binoculars"
-    },
     "bitcoin": {
-      "codepoint": 57375,
+      "codepoint": 57356,
       "fontFamily": "Icons8",
       "identifier": "bitcoin"
     },
     "bold": {
-      "codepoint": 57376,
+      "codepoint": 57357,
       "fontFamily": "Icons8",
       "identifier": "bold"
     },
-    "bookmark": {
-      "codepoint": 57377,
-      "fontFamily": "Icons8",
-      "identifier": "bookmark"
-    },
     "box": {
-      "codepoint": 57378,
+      "codepoint": 57358,
       "fontFamily": "Icons8",
       "identifier": "box"
     },
-    "briefcase": {
-      "codepoint": 57379,
-      "fontFamily": "Icons8",
-      "identifier": "briefcase"
-    },
-    "british-pound": {
-      "codepoint": 57380,
-      "fontFamily": "Icons8",
-      "identifier": "britishPound"
-    },
-    "brush": {
-      "codepoint": 57381,
-      "fontFamily": "Icons8",
-      "identifier": "brush"
-    },
-    "buy": {
-      "codepoint": 57382,
-      "fontFamily": "Icons8",
-      "identifier": "buy"
-    },
     "calculator": {
-      "codepoint": 57383,
+      "codepoint": 57359,
       "fontFamily": "Icons8",
       "identifier": "calculator"
     },
-    "camera": {
-      "codepoint": 57384,
-      "fontFamily": "Icons8",
-      "identifier": "camera"
-    },
     "cancel": {
-      "codepoint": 57385,
+      "codepoint": 57360,
       "fontFamily": "Icons8",
       "identifier": "cancel"
     },
     "cancel-2": {
-      "codepoint": 57386,
+      "codepoint": 57361,
       "fontFamily": "Icons8",
       "identifier": "cancel2"
     },
-    "cat-footprint": {
-      "codepoint": 57387,
-      "fontFamily": "Icons8",
-      "identifier": "catFootprint"
-    },
-    "checked": {
-      "codepoint": 57388,
-      "fontFamily": "Icons8",
-      "identifier": "checked"
-    },
-    "checked-2": {
-      "codepoint": 57389,
-      "fontFamily": "Icons8",
-      "identifier": "checked2"
-    },
-    "checkmark": {
-      "codepoint": 57390,
-      "fontFamily": "Icons8",
-      "identifier": "checkmark"
-    },
-    "chevron-down": {
-      "codepoint": 57391,
-      "fontFamily": "Icons8",
-      "identifier": "chevronDown"
-    },
-    "chevron-down-round": {
-      "codepoint": 57392,
-      "fontFamily": "Icons8",
-      "identifier": "chevronDownRound"
-    },
-    "chevron-left": {
-      "codepoint": 57393,
-      "fontFamily": "Icons8",
-      "identifier": "chevronLeft"
-    },
-    "chevron-left-round": {
-      "codepoint": 57394,
-      "fontFamily": "Icons8",
-      "identifier": "chevronLeftRound"
-    },
-    "chevron-right": {
-      "codepoint": 57395,
-      "fontFamily": "Icons8",
-      "identifier": "chevronRight"
-    },
-    "chevron-right-round": {
-      "codepoint": 57396,
-      "fontFamily": "Icons8",
-      "identifier": "chevronRightRound"
-    },
-    "chevron-up": {
-      "codepoint": 57397,
-      "fontFamily": "Icons8",
-      "identifier": "chevronUp"
-    },
     "chevron-up-round": {
-      "codepoint": 57398,
+      "codepoint": 57362,
       "fontFamily": "Icons8",
       "identifier": "chevronUpRound"
     },
     "circle": {
-      "codepoint": 57399,
+      "codepoint": 57363,
       "fontFamily": "Icons8",
       "identifier": "circle"
     },
     "circle-notch": {
-      "codepoint": 57400,
+      "codepoint": 57364,
       "fontFamily": "Icons8",
       "identifier": "circleNotch"
     },
     "circle-thin": {
-      "codepoint": 57401,
+      "codepoint": 57365,
       "fontFamily": "Icons8",
       "identifier": "circleThin"
     },
-    "clipboard": {
-      "codepoint": 57402,
-      "fontFamily": "Icons8",
-      "identifier": "clipboard"
-    },
-    "code-file": {
-      "codepoint": 57403,
-      "fontFamily": "Icons8",
-      "identifier": "codeFile"
-    },
-    "color-dropper": {
-      "codepoint": 57404,
-      "fontFamily": "Icons8",
-      "identifier": "colorDropper"
-    },
     "columns": {
-      "codepoint": 57405,
+      "codepoint": 57366,
       "fontFamily": "Icons8",
       "identifier": "columns"
     },
-    "comments": {
-      "codepoint": 57406,
-      "fontFamily": "Icons8",
-      "identifier": "comments"
-    },
     "compress": {
-      "codepoint": 57407,
+      "codepoint": 57367,
       "fontFamily": "Icons8",
       "identifier": "compress"
     },
-    "controller": {
-      "codepoint": 57408,
-      "fontFamily": "Icons8",
-      "identifier": "controller"
-    },
     "copy": {
-      "codepoint": 57409,
+      "codepoint": 57368,
       "fontFamily": "Icons8",
       "identifier": "copy"
     },
-    "copyright": {
-      "codepoint": 57410,
-      "fontFamily": "Icons8",
-      "identifier": "copyright"
-    },
-    "create-new": {
-      "codepoint": 57411,
-      "fontFamily": "Icons8",
-      "identifier": "createNew"
-    },
     "crop": {
-      "codepoint": 57412,
+      "codepoint": 57369,
       "fontFamily": "Icons8",
       "identifier": "crop"
     },
-    "cut": {
-      "codepoint": 57413,
-      "fontFamily": "Icons8",
-      "identifier": "cut"
-    },
     "database": {
-      "codepoint": 57414,
+      "codepoint": 57370,
       "fontFamily": "Icons8",
       "identifier": "database"
     },
-    "dining-room": {
-      "codepoint": 57415,
-      "fontFamily": "Icons8",
-      "identifier": "diningRoom"
-    },
-    "diploma-1": {
-      "codepoint": 57416,
-      "fontFamily": "Icons8",
-      "identifier": "diploma1"
-    },
-    "doctor": {
-      "codepoint": 57417,
-      "fontFamily": "Icons8",
-      "identifier": "doctor"
-    },
-    "document": {
-      "codepoint": 57418,
-      "fontFamily": "Icons8",
-      "identifier": "document"
-    },
-    "double-left": {
-      "codepoint": 57419,
-      "fontFamily": "Icons8",
-      "identifier": "doubleLeft"
-    },
-    "double-right": {
-      "codepoint": 57420,
-      "fontFamily": "Icons8",
-      "identifier": "doubleRight"
-    },
     "double-up": {
-      "codepoint": 57421,
+      "codepoint": 57371,
       "fontFamily": "Icons8",
       "identifier": "doubleUp"
     },
-    "down-arrow": {
-      "codepoint": 57422,
-      "fontFamily": "Icons8",
-      "identifier": "downArrow"
-    },
     "down-round": {
-      "codepoint": 57423,
+      "codepoint": 57372,
       "fontFamily": "Icons8",
       "identifier": "downRound"
     },
-    "down-squared": {
-      "codepoint": 57424,
-      "fontFamily": "Icons8",
-      "identifier": "downSquared"
-    },
-    "download": {
-      "codepoint": 57425,
-      "fontFamily": "Icons8",
-      "identifier": "download"
-    },
-    "download-2": {
-      "codepoint": 57426,
-      "fontFamily": "Icons8",
-      "identifier": "download2"
-    },
-    "electrical": {
-      "codepoint": 57427,
-      "fontFamily": "Icons8",
-      "identifier": "electrical"
-    },
-    "electricity": {
-      "codepoint": 57428,
-      "fontFamily": "Icons8",
-      "identifier": "electricity"
-    },
-    "eraser": {
-      "codepoint": 57429,
-      "fontFamily": "Icons8",
-      "identifier": "eraser"
-    },
     "euro": {
-      "codepoint": 57430,
+      "codepoint": 57373,
       "fontFamily": "Icons8",
       "identifier": "euro"
     },
     "exclamation-mark": {
-      "codepoint": 57431,
+      "codepoint": 57374,
       "fontFamily": "Icons8",
       "identifier": "exclamationMark"
     },
-    "export": {
-      "codepoint": 57432,
-      "fontFamily": "Icons8",
-      "identifier": "export_"
-    },
-    "fantasy": {
-      "codepoint": 57433,
-      "fontFamily": "Icons8",
-      "identifier": "fantasy"
-    },
-    "fax": {
-      "codepoint": 57434,
-      "fontFamily": "Icons8",
-      "identifier": "fax"
-    },
     "female": {
-      "codepoint": 57435,
+      "codepoint": 57375,
       "fontFamily": "Icons8",
       "identifier": "female"
     },
-    "file": {
-      "codepoint": 57436,
-      "fontFamily": "Icons8",
-      "identifier": "file"
-    },
     "film": {
-      "codepoint": 57437,
+      "codepoint": 57376,
       "fontFamily": "Icons8",
       "identifier": "film"
     },
     "filter": {
-      "codepoint": 57438,
+      "codepoint": 57377,
       "fontFamily": "Icons8",
       "identifier": "filter"
     },
     "finish-flag": {
-      "codepoint": 57439,
+      "codepoint": 57378,
       "fontFamily": "Icons8",
       "identifier": "finishFlag"
     },
-    "fire-extinguisher": {
-      "codepoint": 57440,
-      "fontFamily": "Icons8",
-      "identifier": "fireExtinguisher"
-    },
-    "folder": {
-      "codepoint": 57441,
-      "fontFamily": "Icons8",
-      "identifier": "folder"
-    },
-    "football2": {
-      "codepoint": 57442,
-      "fontFamily": "Icons8",
-      "identifier": "football2"
-    },
-    "gender": {
-      "codepoint": 57443,
-      "fontFamily": "Icons8",
-      "identifier": "gender"
-    },
     "gender-neutral-user": {
-      "codepoint": 57444,
+      "codepoint": 57379,
       "fontFamily": "Icons8",
       "identifier": "genderNeutralUser"
     },
-    "genderqueer": {
-      "codepoint": 57445,
-      "fontFamily": "Icons8",
-      "identifier": "genderqueer"
-    },
-    "generic-sorting": {
-      "codepoint": 57446,
-      "fontFamily": "Icons8",
-      "identifier": "genericSorting"
-    },
-    "generic-sorting-2": {
-      "codepoint": 57447,
-      "fontFamily": "Icons8",
-      "identifier": "genericSorting2"
-    },
     "generic-text": {
-      "codepoint": 57448,
+      "codepoint": 57380,
       "fontFamily": "Icons8",
       "identifier": "genericText"
     },
-    "gift": {
-      "codepoint": 57449,
-      "fontFamily": "Icons8",
-      "identifier": "gift"
-    },
-    "google-wallet": {
-      "codepoint": 57450,
-      "fontFamily": "Icons8",
-      "identifier": "googleWallet"
-    },
-    "gps-device": {
-      "codepoint": 57451,
-      "fontFamily": "Icons8",
-      "identifier": "gpsDevice"
-    },
     "grid": {
-      "codepoint": 57452,
+      "codepoint": 57381,
       "fontFamily": "Icons8",
       "identifier": "grid"
     },
     "grid-2": {
-      "codepoint": 57453,
+      "codepoint": 57382,
       "fontFamily": "Icons8",
       "identifier": "grid2"
     },
     "grid-3": {
-      "codepoint": 57454,
+      "codepoint": 57383,
       "fontFamily": "Icons8",
       "identifier": "grid3"
     },
     "group": {
-      "codepoint": 57455,
+      "codepoint": 57384,
       "fontFamily": "Icons8",
       "identifier": "group"
     },
     "hdd": {
-      "codepoint": 57456,
+      "codepoint": 57385,
       "fontFamily": "Icons8",
       "identifier": "hdd"
     },
     "header": {
-      "codepoint": 57457,
+      "codepoint": 57386,
       "fontFamily": "Icons8",
       "identifier": "header"
     },
     "home": {
-      "codepoint": 57458,
+      "codepoint": 57387,
       "fontFamily": "Icons8",
       "identifier": "home"
     },
     "hospital-2": {
-      "codepoint": 57459,
+      "codepoint": 57388,
       "fontFamily": "Icons8",
       "identifier": "hospital2"
     },
-    "idea": {
-      "codepoint": 57460,
-      "fontFamily": "Icons8",
-      "identifier": "idea"
-    },
-    "image-file": {
-      "codepoint": 57461,
-      "fontFamily": "Icons8",
-      "identifier": "imageFile"
-    },
-    "import": {
-      "codepoint": 57462,
-      "fontFamily": "Icons8",
-      "identifier": "import_"
-    },
     "indent": {
-      "codepoint": 57463,
+      "codepoint": 57389,
       "fontFamily": "Icons8",
       "identifier": "indent"
     },
     "info": {
-      "codepoint": 57464,
+      "codepoint": 57390,
       "fontFamily": "Icons8",
       "identifier": "info"
     },
     "insert-table": {
-      "codepoint": 57465,
+      "codepoint": 57391,
       "fontFamily": "Icons8",
       "identifier": "insertTable"
     },
-    "ipad": {
-      "codepoint": 57466,
-      "fontFamily": "Icons8",
-      "identifier": "ipad"
-    },
-    "iphone": {
-      "codepoint": 57467,
-      "fontFamily": "Icons8",
-      "identifier": "iphone"
-    },
-    "italic": {
-      "codepoint": 57468,
-      "fontFamily": "Icons8",
-      "identifier": "italic"
-    },
     "japanese-yen": {
-      "codepoint": 57469,
+      "codepoint": 57392,
       "fontFamily": "Icons8",
       "identifier": "japaneseYen"
     },
-    "key": {
-      "codepoint": 57470,
-      "fontFamily": "Icons8",
-      "identifier": "key"
-    },
-    "keyboard": {
-      "codepoint": 57471,
-      "fontFamily": "Icons8",
-      "identifier": "keyboard"
-    },
     "last-quarter": {
-      "codepoint": 57472,
+      "codepoint": 57393,
       "fontFamily": "Icons8",
       "identifier": "lastQuarter"
     },
-    "left-arrow": {
-      "codepoint": 57473,
-      "fontFamily": "Icons8",
-      "identifier": "leftArrow"
-    },
     "left-round": {
-      "codepoint": 57474,
+      "codepoint": 57394,
       "fontFamily": "Icons8",
       "identifier": "leftRound"
     },
-    "left-squared": {
-      "codepoint": 57475,
-      "fontFamily": "Icons8",
-      "identifier": "leftSquared"
-    },
-    "level-down": {
-      "codepoint": 57476,
-      "fontFamily": "Icons8",
-      "identifier": "levelDown"
-    },
     "level-up": {
-      "codepoint": 57477,
+      "codepoint": 57395,
       "fontFamily": "Icons8",
       "identifier": "levelUp"
     },
-    "library": {
-      "codepoint": 57478,
-      "fontFamily": "Icons8",
-      "identifier": "library_"
-    },
     "list": {
-      "codepoint": 57479,
+      "codepoint": 57396,
       "fontFamily": "Icons8",
       "identifier": "list"
     },
     "lock": {
-      "codepoint": 57480,
+      "codepoint": 57397,
       "fontFamily": "Icons8",
       "identifier": "lock"
     },
-    "lock-2": {
-      "codepoint": 57481,
-      "fontFamily": "Icons8",
-      "identifier": "lock2"
-    },
     "male": {
-      "codepoint": 57482,
+      "codepoint": 57398,
       "fontFamily": "Icons8",
       "identifier": "male"
     },
-    "mastercard": {
-      "codepoint": 57483,
-      "fontFamily": "Icons8",
-      "identifier": "mastercard"
-    },
     "minus": {
-      "codepoint": 57484,
+      "codepoint": 57399,
       "fontFamily": "Icons8",
       "identifier": "minus"
     },
     "monitor": {
-      "codepoint": 57485,
+      "codepoint": 57400,
       "fontFamily": "Icons8",
       "identifier": "monitor"
     },
-    "moon": {
-      "codepoint": 57486,
-      "fontFamily": "Icons8",
-      "identifier": "moon"
-    },
-    "music": {
-      "codepoint": 57487,
-      "fontFamily": "Icons8",
-      "identifier": "music"
-    },
-    "news": {
-      "codepoint": 57488,
-      "fontFamily": "Icons8",
-      "identifier": "news"
-    },
-    "notebook": {
-      "codepoint": 57489,
-      "fontFamily": "Icons8",
-      "identifier": "notebook"
-    },
-    "numbered-list": {
-      "codepoint": 57490,
-      "fontFamily": "Icons8",
-      "identifier": "numberedList"
-    },
-    "numerical-sorting-12": {
-      "codepoint": 57491,
-      "fontFamily": "Icons8",
-      "identifier": "numericalSorting12"
-    },
-    "numerical-sorting-21": {
-      "codepoint": 57492,
-      "fontFamily": "Icons8",
-      "identifier": "numericalSorting21"
-    },
-    "old-time-camera": {
-      "codepoint": 57493,
-      "fontFamily": "Icons8",
-      "identifier": "oldTimeCamera"
-    },
-    "opened-folder": {
-      "codepoint": 57494,
-      "fontFamily": "Icons8",
-      "identifier": "openedFolder"
-    },
     "organization": {
-      "codepoint": 57495,
+      "codepoint": 57401,
       "fontFamily": "Icons8",
       "identifier": "organization"
     },
     "outdent": {
-      "codepoint": 57496,
+      "codepoint": 57402,
       "fontFamily": "Icons8",
       "identifier": "outdent"
     },
     "paragraph": {
-      "codepoint": 57497,
+      "codepoint": 57403,
       "fontFamily": "Icons8",
       "identifier": "paragraph"
     },
     "parallel-tasks": {
-      "codepoint": 57498,
+      "codepoint": 57404,
       "fontFamily": "Icons8",
       "identifier": "parallelTasks"
     },
-    "paste": {
-      "codepoint": 57499,
-      "fontFamily": "Icons8",
-      "identifier": "paste"
-    },
-    "paypal": {
-      "codepoint": 57500,
-      "fontFamily": "Icons8",
-      "identifier": "paypal"
-    },
-    "pdf": {
-      "codepoint": 57501,
-      "fontFamily": "Icons8",
-      "identifier": "pdf"
-    },
-    "pencil": {
-      "codepoint": 57502,
-      "fontFamily": "Icons8",
-      "identifier": "pencil"
-    },
-    "phone": {
-      "codepoint": 57503,
-      "fontFamily": "Icons8",
-      "identifier": "phone"
-    },
     "picture": {
-      "codepoint": 57504,
+      "codepoint": 57405,
       "fontFamily": "Icons8",
       "identifier": "picture"
     },
-    "pie-chart": {
-      "codepoint": 57505,
-      "fontFamily": "Icons8",
-      "identifier": "pieChart"
-    },
-    "pin-3": {
-      "codepoint": 57506,
-      "fontFamily": "Icons8",
-      "identifier": "pin3"
-    },
     "plus": {
-      "codepoint": 57507,
+      "codepoint": 57406,
       "fontFamily": "Icons8",
       "identifier": "plus"
     },
-    "powerpoint": {
-      "codepoint": 57508,
-      "fontFamily": "Icons8",
-      "identifier": "powerpoint"
-    },
-    "price-tag": {
-      "codepoint": 57509,
-      "fontFamily": "Icons8",
-      "identifier": "priceTag"
-    },
     "puzzle": {
-      "codepoint": 57510,
+      "codepoint": 57407,
       "fontFamily": "Icons8",
       "identifier": "puzzle"
     },
     "qr-code": {
-      "codepoint": 57511,
+      "codepoint": 57408,
       "fontFamily": "Icons8",
       "identifier": "qrCode"
     },
-    "question-mark": {
-      "codepoint": 57512,
-      "fontFamily": "Icons8",
-      "identifier": "questionMark"
-    },
-    "recycling": {
-      "codepoint": 57513,
-      "fontFamily": "Icons8",
-      "identifier": "recycling"
-    },
     "refresh": {
-      "codepoint": 57514,
+      "codepoint": 57409,
       "fontFamily": "Icons8",
       "identifier": "refresh"
     },
-    "remove-user": {
-      "codepoint": 57515,
-      "fontFamily": "Icons8",
-      "identifier": "removeUser"
-    },
     "resize-diagonal": {
-      "codepoint": 57516,
+      "codepoint": 57410,
       "fontFamily": "Icons8",
       "identifier": "resizeDiagonal"
     },
     "resize-four-directions": {
-      "codepoint": 57517,
+      "codepoint": 57411,
       "fontFamily": "Icons8",
       "identifier": "resizeFourDirections"
     },
-    "resize-horizontal": {
-      "codepoint": 57518,
-      "fontFamily": "Icons8",
-      "identifier": "resizeHorizontal"
-    },
-    "resize-vertical": {
-      "codepoint": 57519,
-      "fontFamily": "Icons8",
-      "identifier": "resizeVertical"
-    },
-    "right-arrow": {
-      "codepoint": 57520,
-      "fontFamily": "Icons8",
-      "identifier": "rightArrow"
-    },
     "right-round": {
-      "codepoint": 57521,
+      "codepoint": 57412,
       "fontFamily": "Icons8",
       "identifier": "rightRound"
     },
-    "right-squared": {
-      "codepoint": 57522,
-      "fontFamily": "Icons8",
-      "identifier": "rightSquared"
-    },
-    "rotate-left": {
-      "codepoint": 57523,
-      "fontFamily": "Icons8",
-      "identifier": "rotateLeft"
-    },
-    "rotate-right": {
-      "codepoint": 57524,
-      "fontFamily": "Icons8",
-      "identifier": "rotateRight"
-    },
     "rouble": {
-      "codepoint": 57525,
+      "codepoint": 57413,
       "fontFamily": "Icons8",
       "identifier": "rouble"
     },
     "rounded-rectangle": {
-      "codepoint": 57526,
+      "codepoint": 57414,
       "fontFamily": "Icons8",
       "identifier": "roundedRectangle"
     },
     "rounded-rectangle-filled": {
-      "codepoint": 57527,
+      "codepoint": 57415,
       "fontFamily": "Icons8",
       "identifier": "roundedRectangleFilled"
     },
     "rupee": {
-      "codepoint": 57528,
+      "codepoint": 57416,
       "fontFamily": "Icons8",
       "identifier": "rupee"
     },
     "search": {
-      "codepoint": 57529,
+      "codepoint": 57417,
       "fontFamily": "Icons8",
       "identifier": "search"
     },
     "sensor": {
-      "codepoint": 57530,
+      "codepoint": 57418,
       "fontFamily": "Icons8",
       "identifier": "sensor"
     },
-    "services": {
-      "codepoint": 57531,
-      "fontFamily": "Icons8",
-      "identifier": "services"
-    },
-    "settings": {
-      "codepoint": 57532,
-      "fontFamily": "Icons8",
-      "identifier": "settings"
-    },
-    "share": {
-      "codepoint": 57533,
-      "fontFamily": "Icons8",
-      "identifier": "share"
-    },
     "shekel": {
-      "codepoint": 57534,
+      "codepoint": 57419,
       "fontFamily": "Icons8",
       "identifier": "shekel"
     },
-    "shopping-cart": {
-      "codepoint": 57535,
-      "fontFamily": "Icons8",
-      "identifier": "shoppingCart"
-    },
-    "shutdown": {
-      "codepoint": 57536,
-      "fontFamily": "Icons8",
-      "identifier": "shutdown"
-    },
-    "sort": {
-      "codepoint": 57537,
-      "fontFamily": "Icons8",
-      "identifier": "sort"
-    },
-    "sort-down": {
-      "codepoint": 57538,
-      "fontFamily": "Icons8",
-      "identifier": "sortDown"
-    },
-    "sort-left": {
-      "codepoint": 57539,
-      "fontFamily": "Icons8",
-      "identifier": "sortLeft"
-    },
-    "sort-right": {
-      "codepoint": 57540,
-      "fontFamily": "Icons8",
-      "identifier": "sortRight"
-    },
-    "sort-up": {
-      "codepoint": 57541,
-      "fontFamily": "Icons8",
-      "identifier": "sortUp"
-    },
-    "spy": {
-      "codepoint": 57542,
-      "fontFamily": "Icons8",
-      "identifier": "spy"
-    },
     "strikethrough": {
-      "codepoint": 57543,
+      "codepoint": 57420,
       "fontFamily": "Icons8",
       "identifier": "strikethrough"
     },
-    "stripe": {
-      "codepoint": 57544,
-      "fontFamily": "Icons8",
-      "identifier": "stripe"
-    },
-    "student": {
-      "codepoint": 57545,
-      "fontFamily": "Icons8",
-      "identifier": "student"
-    },
-    "subscript": {
-      "codepoint": 57546,
-      "fontFamily": "Icons8",
-      "identifier": "subscript"
-    },
-    "superscript": {
-      "codepoint": 57547,
-      "fontFamily": "Icons8",
-      "identifier": "superscript"
-    },
-    "support": {
-      "codepoint": 57548,
-      "fontFamily": "Icons8",
-      "identifier": "support"
-    },
-    "tags": {
-      "codepoint": 57549,
-      "fontFamily": "Icons8",
-      "identifier": "tags"
-    },
     "tasks": {
-      "codepoint": 57550,
+      "codepoint": 57421,
       "fontFamily": "Icons8",
       "identifier": "tasks"
     },
-    "text-height": {
-      "codepoint": 57551,
-      "fontFamily": "Icons8",
-      "identifier": "textHeight"
-    },
     "text-width": {
-      "codepoint": 57552,
+      "codepoint": 57422,
       "fontFamily": "Icons8",
       "identifier": "textWidth"
     },
     "ticket": {
-      "codepoint": 57553,
+      "codepoint": 57423,
       "fontFamily": "Icons8",
       "identifier": "ticket"
     },
-    "timeline": {
-      "codepoint": 57554,
-      "fontFamily": "Icons8",
-      "identifier": "timeline"
-    },
-    "todo-list": {
-      "codepoint": 57555,
-      "fontFamily": "Icons8",
-      "identifier": "todoList"
-    },
-    "translation": {
-      "codepoint": 57556,
-      "fontFamily": "Icons8",
-      "identifier": "translation"
-    },
-    "trash": {
-      "codepoint": 57557,
-      "fontFamily": "Icons8",
-      "identifier": "trash"
-    },
-    "trophy": {
-      "codepoint": 57558,
-      "fontFamily": "Icons8",
-      "identifier": "trophy"
-    },
-    "turkish-lira": {
-      "codepoint": 57559,
-      "fontFamily": "Icons8",
-      "identifier": "turkishLira"
-    },
-    "umbrella": {
-      "codepoint": 57560,
-      "fontFamily": "Icons8",
-      "identifier": "umbrella"
-    },
     "underline": {
-      "codepoint": 57561,
+      "codepoint": 57424,
       "fontFamily": "Icons8",
       "identifier": "underline"
     },
-    "undo": {
-      "codepoint": 57562,
-      "fontFamily": "Icons8",
-      "identifier": "undo"
-    },
-    "unlock-2": {
-      "codepoint": 57563,
-      "fontFamily": "Icons8",
-      "identifier": "unlock2"
-    },
     "up-arrow": {
-      "codepoint": 57564,
+      "codepoint": 57425,
       "fontFamily": "Icons8",
       "identifier": "upArrow"
     },
     "up-round": {
-      "codepoint": 57565,
+      "codepoint": 57426,
       "fontFamily": "Icons8",
       "identifier": "upRound"
     },
     "up-squared": {
-      "codepoint": 57566,
+      "codepoint": 57427,
       "fontFamily": "Icons8",
       "identifier": "upSquared"
     },
     "upload": {
-      "codepoint": 57567,
+      "codepoint": 57428,
       "fontFamily": "Icons8",
       "identifier": "upload"
     },
-    "upload-2": {
-      "codepoint": 57568,
-      "fontFamily": "Icons8",
-      "identifier": "upload2"
-    },
-    "us-dollar": {
-      "codepoint": 57569,
-      "fontFamily": "Icons8",
-      "identifier": "usDollar"
-    },
-    "user-female": {
-      "codepoint": 57570,
-      "fontFamily": "Icons8",
-      "identifier": "userFemale"
-    },
-    "user-male": {
-      "codepoint": 57571,
-      "fontFamily": "Icons8",
-      "identifier": "userMale"
-    },
     "video-call": {
-      "codepoint": 57572,
+      "codepoint": 57429,
       "fontFamily": "Icons8",
       "identifier": "videoCall"
-    },
-    "video-file": {
-      "codepoint": 57573,
-      "fontFamily": "Icons8",
-      "identifier": "videoFile"
-    },
-    "visa": {
-      "codepoint": 57574,
-      "fontFamily": "Icons8",
-      "identifier": "visa"
-    },
-    "won": {
-      "codepoint": 57575,
-      "fontFamily": "Icons8",
-      "identifier": "won"
-    },
-    "word": {
-      "codepoint": 57576,
-      "fontFamily": "Icons8",
-      "identifier": "word"
-    },
-    "xls": {
-      "codepoint": 57577,
-      "fontFamily": "Icons8",
-      "identifier": "xls"
     }
   }
 }

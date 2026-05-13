@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/mono-company/mono-icons/blob/master/LICENSE.md',
-  iconCount: 180,
+  iconCount: 105,
 );

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "prefix": "line-md",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Material",
+  "subPackage": "iconifyx_line_md",
+  "info": {
+    "name": "Material Line Icons",
+    "author": {
+      "name": "Vjacheslav Trushkin",
+      "url": "https://github.com/cyberalien/line-md"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/cyberalien/line-md/blob/main/license.txt"
+    },
+    "total": 2
+  },
+  "fonts": [
+    {
+      "family": "LineMd",
+      "nextCodepoint": 57346,
+      "iconCount": 2
+    }
+  ],
+  "icons": {
+    "iconify2-static": {
+      "codepoint": 57344,
+      "fontFamily": "LineMd",
+      "identifier": "iconify2Static"
+    },
+    "iconify2-static-twotone": {
+      "codepoint": 57345,
+      "fontFamily": "LineMd",
+      "identifier": "iconify2StaticTwotone"
+    }
+  }
+}

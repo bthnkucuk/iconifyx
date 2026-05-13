@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE',
-  iconCount: 1596,
+  iconCount: 141,
 );

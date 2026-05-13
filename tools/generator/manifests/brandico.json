@@ -16,13 +16,13 @@
       "spdx": "CC-BY-SA-3.0",
       "url": "https://creativecommons.org/licenses/by-sa/3.0/"
     },
-    "total": 45
+    "total": 44
   },
   "fonts": [
     {
       "family": "Brandico",
-      "nextCodepoint": 57389,
-      "iconCount": 45
+      "nextCodepoint": 57388,
+      "iconCount": 44
     }
   ],
   "icons": {
@@ -216,38 +216,33 @@
       "fontFamily": "Brandico",
       "identifier": "vimeoRect"
     },
-    "visa": {
-      "codepoint": 57382,
-      "fontFamily": "Brandico",
-      "identifier": "visa"
-    },
     "vkontakte-rect": {
-      "codepoint": 57383,
+      "codepoint": 57382,
       "fontFamily": "Brandico",
       "identifier": "vkontakteRect"
     },
     "win8": {
-      "codepoint": 57384,
+      "codepoint": 57383,
       "fontFamily": "Brandico",
       "identifier": "win8"
     },
     "wordpress": {
-      "codepoint": 57385,
+      "codepoint": 57384,
       "fontFamily": "Brandico",
       "identifier": "wordpress"
     },
     "yandex": {
-      "codepoint": 57386,
+      "codepoint": 57385,
       "fontFamily": "Brandico",
       "identifier": "yandex"
     },
     "yandex-rect": {
-      "codepoint": 57387,
+      "codepoint": 57386,
       "fontFamily": "Brandico",
       "identifier": "yandexRect"
     },
     "youku": {
-      "codepoint": 57388,
+      "codepoint": 57387,
       "fontFamily": "Brandico",
       "identifier": "youku"
     }

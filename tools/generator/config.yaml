@@ -12,6 +12,45 @@ excludedSets:
   # generic Flutter package could conflict with commercial usage; exclude.
   - custom-brand-icons
 
+# Stroke-only icon sets need an outline-the-stroke pre-pass before being
+# converted to a font, otherwise paths render as solid filled shapes (e.g.
+# a circle outline becomes a filled disc). Listed sets get sent through
+# oslllo-svg-fixer (rasterize + Potrace trace) which is slow but produces
+# correct filled outlines.
+#
+# Output is cached on disk at tools/generator/.cache/strokefill/<prefix>/ so
+# only first-time generation pays the cost; subsequent runs reuse the cache.
+strokeFillSets:
+  - lucide
+  - lucide-lab
+  - tabler
+  - iconoir
+  - mdi-light
+  - ph-thin
+  - ph-light
+  - phosphor-thin
+  - phosphor-light
+  - feather
+  - hugeicons
+  - solar
+  - jam
+  - akar-icons
+  - radix-icons
+  - heroicons-outline
+  - octicon
+  - mage
+  - hugeicons
+  - lineicons
+  - iconamoon
+  - prime
+  - basil
+  - guidance
+  - humbleicons
+  - meteor-icons
+  - sidekickicons
+  - tdesign
+  - circum
+
 # Pretty names for Iconify category strings (example app drawer headers).
 displayCategoryAliases:
   "UI 24px": "UI · 24px Grid"

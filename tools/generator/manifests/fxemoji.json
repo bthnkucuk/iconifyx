@@ -16,5185 +16,2695 @@
       "spdx": "Apache-2.0",
       "url": "https://mozilla.github.io/fxemoji/LICENSE.md"
     },
-    "total": 1034
+    "total": 536
   },
   "fonts": [
     {
       "family": "Fxemoji",
-      "nextCodepoint": 58378,
-      "iconCount": 1034
+      "nextCodepoint": 57880,
+      "iconCount": 536
     }
   ],
   "icons": {
-    "2hearts": {
-      "codepoint": 57344,
-      "fontFamily": "Fxemoji",
-      "identifier": "n2hearts"
-    },
-    "acorn": {
-      "codepoint": 57345,
-      "fontFamily": "Fxemoji",
-      "identifier": "acorn"
-    },
-    "admissiontickets": {
-      "codepoint": 57346,
-      "fontFamily": "Fxemoji",
-      "identifier": "admissiontickets"
-    },
-    "aerialtramway": {
-      "codepoint": 57347,
-      "fontFamily": "Fxemoji",
-      "identifier": "aerialtramway"
-    },
     "airplane": {
-      "codepoint": 57348,
+      "codepoint": 57344,
       "fontFamily": "Fxemoji",
       "identifier": "airplane"
     },
-    "alarmclock": {
-      "codepoint": 57349,
-      "fontFamily": "Fxemoji",
-      "identifier": "alarmclock"
-    },
-    "alien": {
-      "codepoint": 57350,
-      "fontFamily": "Fxemoji",
-      "identifier": "alien"
-    },
-    "alienmonster": {
-      "codepoint": 57351,
-      "fontFamily": "Fxemoji",
-      "identifier": "alienmonster"
-    },
     "ambulance": {
-      "codepoint": 57352,
+      "codepoint": 57345,
       "fontFamily": "Fxemoji",
       "identifier": "ambulance"
     },
     "americanfootball": {
-      "codepoint": 57353,
+      "codepoint": 57346,
       "fontFamily": "Fxemoji",
       "identifier": "americanfootball"
     },
     "americasglobe": {
-      "codepoint": 57354,
+      "codepoint": 57347,
       "fontFamily": "Fxemoji",
       "identifier": "americasglobe"
     },
     "anchor": {
-      "codepoint": 57355,
+      "codepoint": 57348,
       "fontFamily": "Fxemoji",
       "identifier": "anchor"
     },
     "anger": {
-      "codepoint": 57356,
+      "codepoint": 57349,
       "fontFamily": "Fxemoji",
       "identifier": "anger"
     },
     "angry": {
-      "codepoint": 57357,
+      "codepoint": 57350,
       "fontFamily": "Fxemoji",
       "identifier": "angry"
     },
     "anguish": {
-      "codepoint": 57358,
+      "codepoint": 57351,
       "fontFamily": "Fxemoji",
       "identifier": "anguish"
     },
     "ant": {
-      "codepoint": 57359,
+      "codepoint": 57352,
       "fontFamily": "Fxemoji",
       "identifier": "ant"
     },
-    "antennawithbars": {
-      "codepoint": 57360,
-      "fontFamily": "Fxemoji",
-      "identifier": "antennawithbars"
-    },
-    "anticlockwiseupwardsanddownwardsarrows": {
-      "codepoint": 57361,
-      "fontFamily": "Fxemoji",
-      "identifier": "anticlockwiseupwardsanddownwardsarrows"
-    },
     "aok": {
-      "codepoint": 57362,
+      "codepoint": 57353,
       "fontFamily": "Fxemoji",
       "identifier": "aok"
     },
     "aquarius": {
-      "codepoint": 57363,
+      "codepoint": 57354,
       "fontFamily": "Fxemoji",
       "identifier": "aquarius"
     },
     "aries": {
-      "codepoint": 57364,
+      "codepoint": 57355,
       "fontFamily": "Fxemoji",
       "identifier": "aries"
     },
-    "arrowrightwardsdownwards": {
-      "codepoint": 57365,
-      "fontFamily": "Fxemoji",
-      "identifier": "arrowrightwardsdownwards"
-    },
-    "arrowrightwardsupwards": {
-      "codepoint": 57366,
-      "fontFamily": "Fxemoji",
-      "identifier": "arrowrightwardsupwards"
-    },
     "articulatedlorry": {
-      "codepoint": 57367,
+      "codepoint": 57356,
       "fontFamily": "Fxemoji",
       "identifier": "articulatedlorry"
     },
     "artistpalette": {
-      "codepoint": 57368,
+      "codepoint": 57357,
       "fontFamily": "Fxemoji",
       "identifier": "artistpalette"
     },
     "asiaaustraliaglobe": {
-      "codepoint": 57369,
+      "codepoint": 57358,
       "fontFamily": "Fxemoji",
       "identifier": "asiaaustraliaglobe"
     },
     "astonished": {
-      "codepoint": 57370,
+      "codepoint": 57359,
       "fontFamily": "Fxemoji",
       "identifier": "astonished"
     },
-    "aubergine": {
-      "codepoint": 57371,
-      "fontFamily": "Fxemoji",
-      "identifier": "aubergine"
-    },
     "automatedtellermachine": {
-      "codepoint": 57372,
+      "codepoint": 57360,
       "fontFamily": "Fxemoji",
       "identifier": "automatedtellermachine"
     },
-    "automobile": {
-      "codepoint": 57373,
-      "fontFamily": "Fxemoji",
-      "identifier": "automobile"
-    },
-    "baby": {
-      "codepoint": 57374,
-      "fontFamily": "Fxemoji",
-      "identifier": "baby"
-    },
-    "babyangel": {
-      "codepoint": 57375,
-      "fontFamily": "Fxemoji",
-      "identifier": "babyangel"
-    },
     "babybottle": {
-      "codepoint": 57376,
+      "codepoint": 57361,
       "fontFamily": "Fxemoji",
       "identifier": "babybottle"
     },
     "babychick": {
-      "codepoint": 57377,
+      "codepoint": 57362,
       "fontFamily": "Fxemoji",
       "identifier": "babychick"
     },
     "babysymbol": {
-      "codepoint": 57378,
+      "codepoint": 57363,
       "fontFamily": "Fxemoji",
       "identifier": "babysymbol"
     },
     "backofenvelope": {
-      "codepoint": 57379,
+      "codepoint": 57364,
       "fontFamily": "Fxemoji",
       "identifier": "backofenvelope"
     },
     "backwithleftwardsarrow": {
-      "codepoint": 57380,
+      "codepoint": 57365,
       "fontFamily": "Fxemoji",
       "identifier": "backwithleftwardsarrow"
     },
     "bactriancamel": {
-      "codepoint": 57381,
+      "codepoint": 57366,
       "fontFamily": "Fxemoji",
       "identifier": "bactriancamel"
     },
     "baggageclaim": {
-      "codepoint": 57382,
+      "codepoint": 57367,
       "fontFamily": "Fxemoji",
       "identifier": "baggageclaim"
     },
     "balloon": {
-      "codepoint": 57383,
+      "codepoint": 57368,
       "fontFamily": "Fxemoji",
       "identifier": "balloon"
     },
-    "ballotboldscriptx": {
-      "codepoint": 57384,
-      "fontFamily": "Fxemoji",
-      "identifier": "ballotboldscriptx"
-    },
     "ballotboxboldcheck": {
-      "codepoint": 57385,
+      "codepoint": 57369,
       "fontFamily": "Fxemoji",
       "identifier": "ballotboxboldcheck"
     },
-    "ballotboxwithboldscriptx": {
-      "codepoint": 57386,
-      "fontFamily": "Fxemoji",
-      "identifier": "ballotboxwithboldscriptx"
-    },
-    "ballotboxwithcheck": {
-      "codepoint": 57387,
-      "fontFamily": "Fxemoji",
-      "identifier": "ballotboxwithcheck"
-    },
-    "ballottboxwithballott": {
-      "codepoint": 57388,
-      "fontFamily": "Fxemoji",
-      "identifier": "ballottboxwithballott"
-    },
     "ballottboxwithscriptx": {
-      "codepoint": 57389,
+      "codepoint": 57370,
       "fontFamily": "Fxemoji",
       "identifier": "ballottboxwithscriptx"
     },
     "ballottscriptx": {
-      "codepoint": 57390,
+      "codepoint": 57371,
       "fontFamily": "Fxemoji",
       "identifier": "ballottscriptx"
     },
-    "banana": {
-      "codepoint": 57391,
-      "fontFamily": "Fxemoji",
-      "identifier": "banana"
-    },
-    "bank": {
-      "codepoint": 57392,
-      "fontFamily": "Fxemoji",
-      "identifier": "bank"
-    },
     "banknotedollar": {
-      "codepoint": 57393,
+      "codepoint": 57372,
       "fontFamily": "Fxemoji",
       "identifier": "banknotedollar"
     },
     "banknoteeuro": {
-      "codepoint": 57394,
+      "codepoint": 57373,
       "fontFamily": "Fxemoji",
       "identifier": "banknoteeuro"
     },
     "banknotepound": {
-      "codepoint": 57395,
+      "codepoint": 57374,
       "fontFamily": "Fxemoji",
       "identifier": "banknotepound"
     },
     "banknoteyen": {
-      "codepoint": 57396,
+      "codepoint": 57375,
       "fontFamily": "Fxemoji",
       "identifier": "banknoteyen"
     },
-    "barberpole": {
-      "codepoint": 57397,
-      "fontFamily": "Fxemoji",
-      "identifier": "barberpole"
-    },
     "barchart": {
-      "codepoint": 57398,
+      "codepoint": 57376,
       "fontFamily": "Fxemoji",
       "identifier": "barchart"
     },
-    "baseball": {
-      "codepoint": 57399,
-      "fontFamily": "Fxemoji",
-      "identifier": "baseball"
-    },
     "basketballandhoop": {
-      "codepoint": 57400,
+      "codepoint": 57377,
       "fontFamily": "Fxemoji",
       "identifier": "basketballandhoop"
     },
-    "bath": {
-      "codepoint": 57401,
-      "fontFamily": "Fxemoji",
-      "identifier": "bath"
-    },
-    "bathtub": {
-      "codepoint": 57402,
-      "fontFamily": "Fxemoji",
-      "identifier": "bathtub"
-    },
-    "battery": {
-      "codepoint": 57403,
-      "fontFamily": "Fxemoji",
-      "identifier": "battery"
-    },
-    "beachumbrella": {
-      "codepoint": 57404,
-      "fontFamily": "Fxemoji",
-      "identifier": "beachumbrella"
-    },
     "bear": {
-      "codepoint": 57405,
+      "codepoint": 57378,
       "fontFamily": "Fxemoji",
       "identifier": "bear"
     },
-    "beating-heart": {
-      "codepoint": 57406,
-      "fontFamily": "Fxemoji",
-      "identifier": "beatingHeart"
-    },
     "beermug": {
-      "codepoint": 57407,
+      "codepoint": 57379,
       "fontFamily": "Fxemoji",
       "identifier": "beermug"
     },
     "bell": {
-      "codepoint": 57408,
+      "codepoint": 57380,
       "fontFamily": "Fxemoji",
       "identifier": "bell"
     },
     "bellcancellation": {
-      "codepoint": 57409,
+      "codepoint": 57381,
       "fontFamily": "Fxemoji",
       "identifier": "bellcancellation"
     },
-    "bentobox": {
-      "codepoint": 57410,
-      "fontFamily": "Fxemoji",
-      "identifier": "bentobox"
-    },
     "bicycle": {
-      "codepoint": 57411,
+      "codepoint": 57382,
       "fontFamily": "Fxemoji",
       "identifier": "bicycle"
     },
-    "bicyclist": {
-      "codepoint": 57412,
-      "fontFamily": "Fxemoji",
-      "identifier": "bicyclist"
-    },
-    "bikini": {
-      "codepoint": 57413,
-      "fontFamily": "Fxemoji",
-      "identifier": "bikini"
-    },
     "billiards": {
-      "codepoint": 57414,
+      "codepoint": 57383,
       "fontFamily": "Fxemoji",
       "identifier": "billiards"
     },
-    "bird": {
-      "codepoint": 57415,
-      "fontFamily": "Fxemoji",
-      "identifier": "bird"
-    },
-    "birthdaycake": {
-      "codepoint": 57416,
-      "fontFamily": "Fxemoji",
-      "identifier": "birthdaycake"
-    },
     "blackclubsuit": {
-      "codepoint": 57417,
+      "codepoint": 57384,
       "fontFamily": "Fxemoji",
       "identifier": "blackclubsuit"
     },
     "blackdiamondsuit": {
-      "codepoint": 57418,
+      "codepoint": 57385,
       "fontFamily": "Fxemoji",
       "identifier": "blackdiamondsuit"
     },
     "blackdownpointingbackhand": {
-      "codepoint": 57419,
+      "codepoint": 57386,
       "fontFamily": "Fxemoji",
       "identifier": "blackdownpointingbackhand"
     },
-    "blackdownpointingdoublearrow": {
-      "codepoint": 57420,
-      "fontFamily": "Fxemoji",
-      "identifier": "blackdownpointingdoublearrow"
-    },
     "blackdroplet": {
-      "codepoint": 57421,
+      "codepoint": 57387,
       "fontFamily": "Fxemoji",
       "identifier": "blackdroplet"
     },
-    "blackfolder": {
-      "codepoint": 57422,
-      "fontFamily": "Fxemoji",
-      "identifier": "blackfolder"
-    },
     "blackhardshellfloppy": {
-      "codepoint": 57423,
+      "codepoint": 57388,
       "fontFamily": "Fxemoji",
       "identifier": "blackhardshellfloppy"
     },
     "blackheartsuit": {
-      "codepoint": 57424,
+      "codepoint": 57389,
       "fontFamily": "Fxemoji",
       "identifier": "blackheartsuit"
     },
-    "blacklargesquare": {
-      "codepoint": 57425,
-      "fontFamily": "Fxemoji",
-      "identifier": "blacklargesquare"
-    },
-    "blackleftpointingarrow": {
-      "codepoint": 57426,
-      "fontFamily": "Fxemoji",
-      "identifier": "blackleftpointingarrow"
-    },
     "blackleftpointingbackhand": {
-      "codepoint": 57427,
+      "codepoint": 57390,
       "fontFamily": "Fxemoji",
       "identifier": "blackleftpointingbackhand"
     },
-    "blackleftpointingdoublearrow": {
-      "codepoint": 57428,
-      "fontFamily": "Fxemoji",
-      "identifier": "blackleftpointingdoublearrow"
-    },
-    "blackmediumsmallsquare": {
-      "codepoint": 57429,
-      "fontFamily": "Fxemoji",
-      "identifier": "blackmediumsmallsquare"
-    },
-    "blackmediumsquare": {
-      "codepoint": 57430,
-      "fontFamily": "Fxemoji",
-      "identifier": "blackmediumsquare"
-    },
     "blackmissingsmiley": {
-      "codepoint": 57431,
+      "codepoint": 57391,
       "fontFamily": "Fxemoji",
       "identifier": "blackmissingsmiley"
     },
-    "blacknib": {
-      "codepoint": 57432,
-      "fontFamily": "Fxemoji",
-      "identifier": "blacknib"
-    },
-    "blackpennant": {
-      "codepoint": 57433,
-      "fontFamily": "Fxemoji",
-      "identifier": "blackpennant"
-    },
-    "blackpushpin": {
-      "codepoint": 57434,
-      "fontFamily": "Fxemoji",
-      "identifier": "blackpushpin"
-    },
     "blackquestionmark": {
-      "codepoint": 57435,
+      "codepoint": 57392,
       "fontFamily": "Fxemoji",
       "identifier": "blackquestionmark"
     },
-    "blackrightpointingarrow": {
-      "codepoint": 57436,
-      "fontFamily": "Fxemoji",
-      "identifier": "blackrightpointingarrow"
-    },
     "blackrightpointingbackhand": {
-      "codepoint": 57437,
+      "codepoint": 57393,
       "fontFamily": "Fxemoji",
       "identifier": "blackrightpointingbackhand"
     },
-    "blackrightpointingdoublearrow": {
-      "codepoint": 57438,
-      "fontFamily": "Fxemoji",
-      "identifier": "blackrightpointingdoublearrow"
-    },
-    "blackrightwardsarrow": {
-      "codepoint": 57439,
-      "fontFamily": "Fxemoji",
-      "identifier": "blackrightwardsarrow"
-    },
-    "blackrosette": {
-      "codepoint": 57440,
-      "fontFamily": "Fxemoji",
-      "identifier": "blackrosette"
-    },
     "blackscissors": {
-      "codepoint": 57441,
+      "codepoint": 57394,
       "fontFamily": "Fxemoji",
       "identifier": "blackscissors"
     },
     "blackskullcrossbones": {
-      "codepoint": 57442,
+      "codepoint": 57395,
       "fontFamily": "Fxemoji",
       "identifier": "blackskullcrossbones"
     },
-    "blacksmallsquare": {
-      "codepoint": 57443,
-      "fontFamily": "Fxemoji",
-      "identifier": "blacksmallsquare"
-    },
     "blackspadesuit": {
-      "codepoint": 57444,
+      "codepoint": 57396,
       "fontFamily": "Fxemoji",
       "identifier": "blackspadesuit"
     },
-    "blacksquarebutton": {
-      "codepoint": 57445,
-      "fontFamily": "Fxemoji",
-      "identifier": "blacksquarebutton"
-    },
-    "blacktelephone": {
-      "codepoint": 57446,
-      "fontFamily": "Fxemoji",
-      "identifier": "blacktelephone"
-    },
-    "blacktouchtonetelephone": {
-      "codepoint": 57447,
-      "fontFamily": "Fxemoji",
-      "identifier": "blacktouchtonetelephone"
-    },
     "blackuniversalrecyclingsymbol": {
-      "codepoint": 57448,
+      "codepoint": 57397,
       "fontFamily": "Fxemoji",
       "identifier": "blackuniversalrecyclingsymbol"
     },
     "blackuppointingbackhand": {
-      "codepoint": 57449,
+      "codepoint": 57398,
       "fontFamily": "Fxemoji",
       "identifier": "blackuppointingbackhand"
     },
-    "blackuppointingdoublearrow": {
-      "codepoint": 57450,
-      "fontFamily": "Fxemoji",
-      "identifier": "blackuppointingdoublearrow"
-    },
-    "blackwaving": {
-      "codepoint": 57451,
-      "fontFamily": "Fxemoji",
-      "identifier": "blackwaving"
-    },
-    "blonde": {
-      "codepoint": 57452,
-      "fontFamily": "Fxemoji",
-      "identifier": "blonde"
-    },
-    "blossom": {
-      "codepoint": 57453,
-      "fontFamily": "Fxemoji",
-      "identifier": "blossom"
-    },
-    "blowfish": {
-      "codepoint": 57454,
-      "fontFamily": "Fxemoji",
-      "identifier": "blowfish"
-    },
     "bluebook": {
-      "codepoint": 57455,
+      "codepoint": 57399,
       "fontFamily": "Fxemoji",
       "identifier": "bluebook"
     },
     "boar": {
-      "codepoint": 57456,
+      "codepoint": 57400,
       "fontFamily": "Fxemoji",
       "identifier": "boar"
     },
     "bolt": {
-      "codepoint": 57457,
+      "codepoint": 57401,
       "fontFamily": "Fxemoji",
       "identifier": "bolt"
     },
-    "bomb": {
-      "codepoint": 57458,
-      "fontFamily": "Fxemoji",
-      "identifier": "bomb"
-    },
     "bookmark": {
-      "codepoint": 57459,
+      "codepoint": 57402,
       "fontFamily": "Fxemoji",
       "identifier": "bookmark"
     },
-    "bookmarktab": {
-      "codepoint": 57460,
-      "fontFamily": "Fxemoji",
-      "identifier": "bookmarktab"
-    },
-    "books": {
-      "codepoint": 57461,
-      "fontFamily": "Fxemoji",
-      "identifier": "books"
-    },
-    "boot": {
-      "codepoint": 57462,
-      "fontFamily": "Fxemoji",
-      "identifier": "boot"
-    },
-    "bouquet": {
-      "codepoint": 57463,
-      "fontFamily": "Fxemoji",
-      "identifier": "bouquet"
-    },
-    "bouquetofflowers": {
-      "codepoint": 57464,
-      "fontFamily": "Fxemoji",
-      "identifier": "bouquetofflowers"
-    },
     "bow": {
-      "codepoint": 57465,
+      "codepoint": 57403,
       "fontFamily": "Fxemoji",
       "identifier": "bow"
     },
-    "bowing": {
-      "codepoint": 57466,
-      "fontFamily": "Fxemoji",
-      "identifier": "bowing"
-    },
     "bowling": {
-      "codepoint": 57467,
+      "codepoint": 57404,
       "fontFamily": "Fxemoji",
       "identifier": "bowling"
     },
-    "boy": {
-      "codepoint": 57468,
-      "fontFamily": "Fxemoji",
-      "identifier": "boy"
-    },
-    "bread": {
-      "codepoint": 57469,
-      "fontFamily": "Fxemoji",
-      "identifier": "bread"
-    },
-    "bride": {
-      "codepoint": 57470,
-      "fontFamily": "Fxemoji",
-      "identifier": "bride"
-    },
-    "bridgeatnight": {
-      "codepoint": 57471,
-      "fontFamily": "Fxemoji",
-      "identifier": "bridgeatnight"
-    },
     "briefcase": {
-      "codepoint": 57472,
+      "codepoint": 57405,
       "fontFamily": "Fxemoji",
       "identifier": "briefcase"
     },
-    "brokenheart": {
-      "codepoint": 57473,
-      "fontFamily": "Fxemoji",
-      "identifier": "brokenheart"
-    },
     "bug": {
-      "codepoint": 57474,
+      "codepoint": 57406,
       "fontFamily": "Fxemoji",
       "identifier": "bug"
     },
-    "bullhorn": {
-      "codepoint": 57475,
-      "fontFamily": "Fxemoji",
-      "identifier": "bullhorn"
-    },
-    "bullhornwithsoundwaves": {
-      "codepoint": 57476,
-      "fontFamily": "Fxemoji",
-      "identifier": "bullhornwithsoundwaves"
-    },
     "bunny": {
-      "codepoint": 57477,
+      "codepoint": 57407,
       "fontFamily": "Fxemoji",
       "identifier": "bunny"
     },
-    "bunny-ears": {
-      "codepoint": 57478,
-      "fontFamily": "Fxemoji",
-      "identifier": "bunnyEars"
-    },
     "bunnyside": {
-      "codepoint": 57479,
+      "codepoint": 57408,
       "fontFamily": "Fxemoji",
       "identifier": "bunnyside"
     },
-    "bus": {
-      "codepoint": 57480,
-      "fontFamily": "Fxemoji",
-      "identifier": "bus"
-    },
     "busstop": {
-      "codepoint": 57481,
+      "codepoint": 57409,
       "fontFamily": "Fxemoji",
       "identifier": "busstop"
     },
     "cactus": {
-      "codepoint": 57482,
+      "codepoint": 57410,
       "fontFamily": "Fxemoji",
       "identifier": "cactus"
     },
     "calendar": {
-      "codepoint": 57483,
+      "codepoint": 57411,
       "fontFamily": "Fxemoji",
       "identifier": "calendar"
     },
-    "camera": {
-      "codepoint": 57484,
-      "fontFamily": "Fxemoji",
-      "identifier": "camera"
-    },
-    "camerawithflash": {
-      "codepoint": 57485,
-      "fontFamily": "Fxemoji",
-      "identifier": "camerawithflash"
-    },
-    "camping": {
-      "codepoint": 57486,
-      "fontFamily": "Fxemoji",
-      "identifier": "camping"
-    },
     "cancellationx": {
-      "codepoint": 57487,
+      "codepoint": 57412,
       "fontFamily": "Fxemoji",
       "identifier": "cancellationx"
     },
     "cancer": {
-      "codepoint": 57488,
+      "codepoint": 57413,
       "fontFamily": "Fxemoji",
       "identifier": "cancer"
     },
-    "candle": {
-      "codepoint": 57489,
-      "fontFamily": "Fxemoji",
-      "identifier": "candle"
-    },
     "candy": {
-      "codepoint": 57490,
+      "codepoint": 57414,
       "fontFamily": "Fxemoji",
       "identifier": "candy"
     },
     "capricorn": {
-      "codepoint": 57491,
+      "codepoint": 57415,
       "fontFamily": "Fxemoji",
       "identifier": "capricorn"
     },
-    "cardfilebox": {
-      "codepoint": 57492,
-      "fontFamily": "Fxemoji",
-      "identifier": "cardfilebox"
-    },
     "cardindex": {
-      "codepoint": 57493,
+      "codepoint": 57416,
       "fontFamily": "Fxemoji",
       "identifier": "cardindex"
     },
-    "cardindexdividers": {
-      "codepoint": 57494,
-      "fontFamily": "Fxemoji",
-      "identifier": "cardindexdividers"
-    },
-    "carouselhorse": {
-      "codepoint": 57495,
-      "fontFamily": "Fxemoji",
-      "identifier": "carouselhorse"
-    },
-    "carpstreamer": {
-      "codepoint": 57496,
-      "fontFamily": "Fxemoji",
-      "identifier": "carpstreamer"
-    },
-    "cat": {
-      "codepoint": 57497,
-      "fontFamily": "Fxemoji",
-      "identifier": "cat"
-    },
     "catside": {
-      "codepoint": 57498,
+      "codepoint": 57417,
       "fontFamily": "Fxemoji",
       "identifier": "catside"
     },
-    "cellphone": {
-      "codepoint": 57499,
-      "fontFamily": "Fxemoji",
-      "identifier": "cellphone"
-    },
     "celticcross": {
-      "codepoint": 57500,
+      "codepoint": 57418,
       "fontFamily": "Fxemoji",
       "identifier": "celticcross"
     },
     "chartdownwardstrend": {
-      "codepoint": 57501,
+      "codepoint": 57419,
       "fontFamily": "Fxemoji",
       "identifier": "chartdownwardstrend"
     },
     "chartupwardstrend": {
-      "codepoint": 57502,
+      "codepoint": 57420,
       "fontFamily": "Fxemoji",
       "identifier": "chartupwardstrend"
     },
-    "chartupwardstrendyen": {
-      "codepoint": 57503,
-      "fontFamily": "Fxemoji",
-      "identifier": "chartupwardstrendyen"
-    },
-    "cherries": {
-      "codepoint": 57504,
-      "fontFamily": "Fxemoji",
-      "identifier": "cherries"
-    },
-    "cherryblossom": {
-      "codepoint": 57505,
-      "fontFamily": "Fxemoji",
-      "identifier": "cherryblossom"
-    },
     "chicken": {
-      "codepoint": 57506,
+      "codepoint": 57421,
       "fontFamily": "Fxemoji",
       "identifier": "chicken"
     },
     "childrencrossing": {
-      "codepoint": 57507,
+      "codepoint": 57422,
       "fontFamily": "Fxemoji",
       "identifier": "childrencrossing"
     },
-    "chilipepper": {
-      "codepoint": 57508,
-      "fontFamily": "Fxemoji",
-      "identifier": "chilipepper"
-    },
     "chineseflag": {
-      "codepoint": 57509,
+      "codepoint": 57423,
       "fontFamily": "Fxemoji",
       "identifier": "chineseflag"
     },
-    "chipmunk": {
-      "codepoint": 57510,
-      "fontFamily": "Fxemoji",
-      "identifier": "chipmunk"
-    },
-    "chocolatebar": {
-      "codepoint": 57511,
-      "fontFamily": "Fxemoji",
-      "identifier": "chocolatebar"
-    },
-    "christmastree": {
-      "codepoint": 57512,
-      "fontFamily": "Fxemoji",
-      "identifier": "christmastree"
-    },
-    "church": {
-      "codepoint": 57513,
-      "fontFamily": "Fxemoji",
-      "identifier": "church"
-    },
-    "cinema": {
-      "codepoint": 57514,
-      "fontFamily": "Fxemoji",
-      "identifier": "cinema"
-    },
     "circledideographaccept": {
-      "codepoint": 57515,
+      "codepoint": 57424,
       "fontFamily": "Fxemoji",
       "identifier": "circledideographaccept"
     },
     "circledideographadvantage": {
-      "codepoint": 57516,
+      "codepoint": 57425,
       "fontFamily": "Fxemoji",
       "identifier": "circledideographadvantage"
     },
     "circledideographcongratulation": {
-      "codepoint": 57517,
+      "codepoint": 57426,
       "fontFamily": "Fxemoji",
       "identifier": "circledideographcongratulation"
     },
     "circledideographsecret": {
-      "codepoint": 57518,
+      "codepoint": 57427,
       "fontFamily": "Fxemoji",
       "identifier": "circledideographsecret"
     },
     "circledlatincapitalletterm": {
-      "codepoint": 57519,
+      "codepoint": 57428,
       "fontFamily": "Fxemoji",
       "identifier": "circledlatincapitalletterm"
     },
-    "circustent": {
-      "codepoint": 57520,
-      "fontFamily": "Fxemoji",
-      "identifier": "circustent"
-    },
-    "cityscape": {
-      "codepoint": 57521,
-      "fontFamily": "Fxemoji",
-      "identifier": "cityscape"
-    },
-    "cityscapeatdusk": {
-      "codepoint": 57522,
-      "fontFamily": "Fxemoji",
-      "identifier": "cityscapeatdusk"
-    },
-    "cjkunifiedideograph-a": {
-      "codepoint": 57523,
-      "fontFamily": "Fxemoji",
-      "identifier": "cjkunifiedideographA"
-    },
     "cjkunifiedideograph-b": {
-      "codepoint": 57524,
+      "codepoint": 57429,
       "fontFamily": "Fxemoji",
       "identifier": "cjkunifiedideographB"
     },
     "cjkunifiedideograph-c": {
-      "codepoint": 57525,
+      "codepoint": 57430,
       "fontFamily": "Fxemoji",
       "identifier": "cjkunifiedideographC"
     },
-    "cjkunifiedideograph-d": {
-      "codepoint": 57526,
-      "fontFamily": "Fxemoji",
-      "identifier": "cjkunifiedideographD"
-    },
     "cjkunifiedideograph-e": {
-      "codepoint": 57527,
+      "codepoint": 57431,
       "fontFamily": "Fxemoji",
       "identifier": "cjkunifiedideographE"
     },
     "cjkunifiedideograph-f": {
-      "codepoint": 57528,
+      "codepoint": 57432,
       "fontFamily": "Fxemoji",
       "identifier": "cjkunifiedideographF"
     },
     "cjkunifiedideograph-g": {
-      "codepoint": 57529,
+      "codepoint": 57433,
       "fontFamily": "Fxemoji",
       "identifier": "cjkunifiedideographG"
     },
     "cjkunifiedideograph-h": {
-      "codepoint": 57530,
+      "codepoint": 57434,
       "fontFamily": "Fxemoji",
       "identifier": "cjkunifiedideographH"
     },
     "cjkunifiedideograph-i": {
-      "codepoint": 57531,
+      "codepoint": 57435,
       "fontFamily": "Fxemoji",
       "identifier": "cjkunifiedideographI"
     },
     "cjkunifiedideograph-j": {
-      "codepoint": 57532,
+      "codepoint": 57436,
       "fontFamily": "Fxemoji",
       "identifier": "cjkunifiedideographJ"
     },
-    "cjkunifiedideograph-k": {
-      "codepoint": 57533,
-      "fontFamily": "Fxemoji",
-      "identifier": "cjkunifiedideographK"
-    },
-    "clamshellmobile": {
-      "codepoint": 57534,
-      "fontFamily": "Fxemoji",
-      "identifier": "clamshellmobile"
-    },
     "clap": {
-      "codepoint": 57535,
+      "codepoint": 57437,
       "fontFamily": "Fxemoji",
       "identifier": "clap"
     },
-    "clapperboard": {
-      "codepoint": 57536,
-      "fontFamily": "Fxemoji",
-      "identifier": "clapperboard"
-    },
-    "classicalbuilding": {
-      "codepoint": 57537,
-      "fontFamily": "Fxemoji",
-      "identifier": "classicalbuilding"
-    },
     "clinkingbeermugs": {
-      "codepoint": 57538,
+      "codepoint": 57438,
       "fontFamily": "Fxemoji",
       "identifier": "clinkingbeermugs"
     },
     "clipboard": {
-      "codepoint": 57539,
+      "codepoint": 57439,
       "fontFamily": "Fxemoji",
       "identifier": "clipboard"
     },
-    "clock12oclock": {
-      "codepoint": 57540,
-      "fontFamily": "Fxemoji",
-      "identifier": "clock12oclock"
-    },
-    "clock12thirty": {
-      "codepoint": 57541,
-      "fontFamily": "Fxemoji",
-      "identifier": "clock12thirty"
-    },
-    "clock1oclock": {
-      "codepoint": 57542,
-      "fontFamily": "Fxemoji",
-      "identifier": "clock1oclock"
-    },
-    "clock1thirty": {
-      "codepoint": 57543,
-      "fontFamily": "Fxemoji",
-      "identifier": "clock1thirty"
-    },
-    "clock2oclock": {
-      "codepoint": 57544,
-      "fontFamily": "Fxemoji",
-      "identifier": "clock2oclock"
-    },
-    "clock2thirty": {
-      "codepoint": 57545,
-      "fontFamily": "Fxemoji",
-      "identifier": "clock2thirty"
-    },
-    "clock3oclock": {
-      "codepoint": 57546,
-      "fontFamily": "Fxemoji",
-      "identifier": "clock3oclock"
-    },
-    "clock3thirty": {
-      "codepoint": 57547,
-      "fontFamily": "Fxemoji",
-      "identifier": "clock3thirty"
-    },
-    "clock4oclock": {
-      "codepoint": 57548,
-      "fontFamily": "Fxemoji",
-      "identifier": "clock4oclock"
-    },
-    "clock4thirty": {
-      "codepoint": 57549,
-      "fontFamily": "Fxemoji",
-      "identifier": "clock4thirty"
-    },
-    "clock5thirty": {
-      "codepoint": 57550,
-      "fontFamily": "Fxemoji",
-      "identifier": "clock5thirty"
-    },
-    "clock6oclock": {
-      "codepoint": 57551,
-      "fontFamily": "Fxemoji",
-      "identifier": "clock6oclock"
-    },
-    "clock6thirty": {
-      "codepoint": 57552,
-      "fontFamily": "Fxemoji",
-      "identifier": "clock6thirty"
-    },
-    "clock7oclock": {
-      "codepoint": 57553,
-      "fontFamily": "Fxemoji",
-      "identifier": "clock7oclock"
-    },
     "clockwisedownupcircledarrows": {
-      "codepoint": 57554,
+      "codepoint": 57440,
       "fontFamily": "Fxemoji",
       "identifier": "clockwisedownupcircledarrows"
     },
     "clockwiseleftrightarrows": {
-      "codepoint": 57555,
+      "codepoint": 57441,
       "fontFamily": "Fxemoji",
       "identifier": "clockwiseleftrightarrows"
     },
-    "clockwiserightwardsleftwardscirclearrows": {
-      "codepoint": 57556,
-      "fontFamily": "Fxemoji",
-      "identifier": "clockwiserightwardsleftwardscirclearrows"
-    },
-    "clockwiserightwardsleftwardscirclearrowsone": {
-      "codepoint": 57557,
-      "fontFamily": "Fxemoji",
-      "identifier": "clockwiserightwardsleftwardscirclearrowsone"
-    },
     "closedbook": {
-      "codepoint": 57558,
+      "codepoint": 57442,
       "fontFamily": "Fxemoji",
       "identifier": "closedbook"
     },
-    "closedmailboxlowered": {
-      "codepoint": 57559,
-      "fontFamily": "Fxemoji",
-      "identifier": "closedmailboxlowered"
-    },
-    "closedmailboxraised": {
-      "codepoint": 57560,
-      "fontFamily": "Fxemoji",
-      "identifier": "closedmailboxraised"
-    },
     "cloud": {
-      "codepoint": 57561,
+      "codepoint": 57443,
       "fontFamily": "Fxemoji",
       "identifier": "cloud"
     },
     "cocktailglass": {
-      "codepoint": 57562,
+      "codepoint": 57444,
       "fontFamily": "Fxemoji",
       "identifier": "cocktailglass"
     },
     "coldsweat": {
-      "codepoint": 57563,
+      "codepoint": 57445,
       "fontFamily": "Fxemoji",
       "identifier": "coldsweat"
     },
     "collision": {
-      "codepoint": 57564,
+      "codepoint": 57446,
       "fontFamily": "Fxemoji",
       "identifier": "collision"
     },
-    "compression": {
-      "codepoint": 57565,
-      "fontFamily": "Fxemoji",
-      "identifier": "compression"
-    },
-    "confetti": {
-      "codepoint": 57566,
-      "fontFamily": "Fxemoji",
-      "identifier": "confetti"
-    },
-    "confounded": {
-      "codepoint": 57567,
-      "fontFamily": "Fxemoji",
-      "identifier": "confounded"
-    },
     "confused": {
-      "codepoint": 57568,
+      "codepoint": 57447,
       "fontFamily": "Fxemoji",
       "identifier": "confused"
     },
-    "construct": {
-      "codepoint": 57569,
-      "fontFamily": "Fxemoji",
-      "identifier": "construct"
-    },
-    "construction": {
-      "codepoint": 57570,
-      "fontFamily": "Fxemoji",
-      "identifier": "construction"
-    },
     "constructionsign": {
-      "codepoint": 57571,
+      "codepoint": 57448,
       "fontFamily": "Fxemoji",
       "identifier": "constructionsign"
     },
-    "contact": {
-      "codepoint": 57572,
-      "fontFamily": "Fxemoji",
-      "identifier": "contact"
-    },
-    "contact2": {
-      "codepoint": 57573,
-      "fontFamily": "Fxemoji",
-      "identifier": "contact2"
-    },
     "controlknob": {
-      "codepoint": 57574,
+      "codepoint": 57449,
       "fontFamily": "Fxemoji",
       "identifier": "controlknob"
     },
-    "conveniencestore": {
-      "codepoint": 57575,
-      "fontFamily": "Fxemoji",
-      "identifier": "conveniencestore"
-    },
-    "cookedrice": {
-      "codepoint": 57576,
-      "fontFamily": "Fxemoji",
-      "identifier": "cookedrice"
-    },
     "cookie": {
-      "codepoint": 57577,
+      "codepoint": 57450,
       "fontFamily": "Fxemoji",
       "identifier": "cookie"
     },
-    "cooking": {
-      "codepoint": 57578,
-      "fontFamily": "Fxemoji",
-      "identifier": "cooking"
-    },
     "cop": {
-      "codepoint": 57579,
+      "codepoint": 57451,
       "fontFamily": "Fxemoji",
       "identifier": "cop"
     },
-    "couple": {
-      "codepoint": 57580,
-      "fontFamily": "Fxemoji",
-      "identifier": "couple"
-    },
-    "couplekiss": {
-      "codepoint": 57581,
-      "fontFamily": "Fxemoji",
-      "identifier": "couplekiss"
-    },
     "cow": {
-      "codepoint": 57582,
+      "codepoint": 57452,
       "fontFamily": "Fxemoji",
       "identifier": "cow"
     },
-    "cowface": {
-      "codepoint": 57583,
-      "fontFamily": "Fxemoji",
-      "identifier": "cowface"
-    },
     "creditcard": {
-      "codepoint": 57584,
+      "codepoint": 57453,
       "fontFamily": "Fxemoji",
       "identifier": "creditcard"
     },
     "crescentmoon": {
-      "codepoint": 57585,
+      "codepoint": 57454,
       "fontFamily": "Fxemoji",
       "identifier": "crescentmoon"
     },
-    "crocodile": {
-      "codepoint": 57586,
-      "fontFamily": "Fxemoji",
-      "identifier": "crocodile"
-    },
-    "crossedflags": {
-      "codepoint": 57587,
-      "fontFamily": "Fxemoji",
-      "identifier": "crossedflags"
-    },
     "crossmark": {
-      "codepoint": 57588,
+      "codepoint": 57455,
       "fontFamily": "Fxemoji",
       "identifier": "crossmark"
     },
-    "crown": {
-      "codepoint": 57589,
-      "fontFamily": "Fxemoji",
-      "identifier": "crown"
-    },
     "crying": {
-      "codepoint": 57590,
+      "codepoint": 57456,
       "fontFamily": "Fxemoji",
       "identifier": "crying"
     },
-    "crystalball": {
-      "codepoint": 57591,
-      "fontFamily": "Fxemoji",
-      "identifier": "crystalball"
-    },
     "curlyloop": {
-      "codepoint": 57592,
+      "codepoint": 57457,
       "fontFamily": "Fxemoji",
       "identifier": "curlyloop"
     },
     "currencyexchange": {
-      "codepoint": 57593,
+      "codepoint": 57458,
       "fontFamily": "Fxemoji",
       "identifier": "currencyexchange"
     },
-    "curryandrice": {
-      "codepoint": 57594,
-      "fontFamily": "Fxemoji",
-      "identifier": "curryandrice"
-    },
-    "custard": {
-      "codepoint": 57595,
-      "fontFamily": "Fxemoji",
-      "identifier": "custard"
-    },
-    "customs": {
-      "codepoint": 57596,
-      "fontFamily": "Fxemoji",
-      "identifier": "customs"
-    },
-    "cyclone": {
-      "codepoint": 57597,
-      "fontFamily": "Fxemoji",
-      "identifier": "cyclone"
-    },
-    "daggerknife": {
-      "codepoint": 57598,
-      "fontFamily": "Fxemoji",
-      "identifier": "daggerknife"
-    },
-    "dancer": {
-      "codepoint": 57599,
-      "fontFamily": "Fxemoji",
-      "identifier": "dancer"
-    },
-    "dango": {
-      "codepoint": 57600,
-      "fontFamily": "Fxemoji",
-      "identifier": "dango"
-    },
     "darksunglasses": {
-      "codepoint": 57601,
+      "codepoint": 57459,
       "fontFamily": "Fxemoji",
       "identifier": "darksunglasses"
     },
     "dash": {
-      "codepoint": 57602,
+      "codepoint": 57460,
       "fontFamily": "Fxemoji",
       "identifier": "dash"
     },
     "deciduoustree": {
-      "codepoint": 57603,
+      "codepoint": 57461,
       "fontFamily": "Fxemoji",
       "identifier": "deciduoustree"
     },
     "decreasefontsize": {
-      "codepoint": 57604,
+      "codepoint": 57462,
       "fontFamily": "Fxemoji",
       "identifier": "decreasefontsize"
     },
     "deliverytruck": {
-      "codepoint": 57605,
+      "codepoint": 57463,
       "fontFamily": "Fxemoji",
       "identifier": "deliverytruck"
     },
     "departmentstore": {
-      "codepoint": 57606,
+      "codepoint": 57464,
       "fontFamily": "Fxemoji",
       "identifier": "departmentstore"
     },
     "desert": {
-      "codepoint": 57607,
+      "codepoint": 57465,
       "fontFamily": "Fxemoji",
       "identifier": "desert"
     },
     "desertisland": {
-      "codepoint": 57608,
+      "codepoint": 57466,
       "fontFamily": "Fxemoji",
       "identifier": "desertisland"
     },
-    "desktopcomputer": {
-      "codepoint": 57609,
-      "fontFamily": "Fxemoji",
-      "identifier": "desktopcomputer"
-    },
     "devilhorns": {
-      "codepoint": 57610,
+      "codepoint": 57467,
       "fontFamily": "Fxemoji",
       "identifier": "devilhorns"
     },
     "diamondshapewithdotinside": {
-      "codepoint": 57611,
+      "codepoint": 57468,
       "fontFamily": "Fxemoji",
       "identifier": "diamondshapewithdotinside"
     },
-    "directhit": {
-      "codepoint": 57612,
-      "fontFamily": "Fxemoji",
-      "identifier": "directhit"
-    },
     "disappointed": {
-      "codepoint": 57613,
+      "codepoint": 57469,
       "fontFamily": "Fxemoji",
       "identifier": "disappointed"
     },
     "dissapointedrelief": {
-      "codepoint": 57614,
+      "codepoint": 57470,
       "fontFamily": "Fxemoji",
       "identifier": "dissapointedrelief"
     },
     "dizzy": {
-      "codepoint": 57615,
+      "codepoint": 57471,
       "fontFamily": "Fxemoji",
       "identifier": "dizzy"
     },
-    "dizzyface": {
-      "codepoint": 57616,
-      "fontFamily": "Fxemoji",
-      "identifier": "dizzyface"
-    },
-    "document": {
-      "codepoint": 57617,
-      "fontFamily": "Fxemoji",
-      "identifier": "document"
-    },
     "documenttextpicture": {
-      "codepoint": 57618,
+      "codepoint": 57472,
       "fontFamily": "Fxemoji",
       "identifier": "documenttextpicture"
     },
-    "documentwithpicture": {
-      "codepoint": 57619,
-      "fontFamily": "Fxemoji",
-      "identifier": "documentwithpicture"
-    },
     "documentwithtext": {
-      "codepoint": 57620,
+      "codepoint": 57473,
       "fontFamily": "Fxemoji",
       "identifier": "documentwithtext"
     },
     "dog": {
-      "codepoint": 57621,
+      "codepoint": 57474,
       "fontFamily": "Fxemoji",
       "identifier": "dog"
     },
     "dogside": {
-      "codepoint": 57622,
+      "codepoint": 57475,
       "fontFamily": "Fxemoji",
       "identifier": "dogside"
     },
     "dolphin": {
-      "codepoint": 57623,
+      "codepoint": 57476,
       "fontFamily": "Fxemoji",
       "identifier": "dolphin"
     },
     "donotlittersymbol": {
-      "codepoint": 57624,
+      "codepoint": 57477,
       "fontFamily": "Fxemoji",
       "identifier": "donotlittersymbol"
     },
-    "door": {
-      "codepoint": 57625,
-      "fontFamily": "Fxemoji",
-      "identifier": "door"
-    },
     "doublecurlyloop": {
-      "codepoint": 57626,
+      "codepoint": 57478,
       "fontFamily": "Fxemoji",
       "identifier": "doublecurlyloop"
     },
     "doubleexclaimationmark": {
-      "codepoint": 57627,
+      "codepoint": 57479,
       "fontFamily": "Fxemoji",
       "identifier": "doubleexclaimationmark"
     },
-    "doughnut": {
-      "codepoint": 57628,
-      "fontFamily": "Fxemoji",
-      "identifier": "doughnut"
-    },
     "doveofpeace": {
-      "codepoint": 57629,
+      "codepoint": 57480,
       "fontFamily": "Fxemoji",
       "identifier": "doveofpeace"
     },
     "down": {
-      "codepoint": 57630,
+      "codepoint": 57481,
       "fontFamily": "Fxemoji",
       "identifier": "down"
     },
     "downpointingredtriangle": {
-      "codepoint": 57631,
+      "codepoint": 57482,
       "fontFamily": "Fxemoji",
       "identifier": "downpointingredtriangle"
     },
-    "downpointingsmallredtrisngle": {
-      "codepoint": 57632,
-      "fontFamily": "Fxemoji",
-      "identifier": "downpointingsmallredtrisngle"
-    },
-    "dragonhead": {
-      "codepoint": 57633,
-      "fontFamily": "Fxemoji",
-      "identifier": "dragonhead"
-    },
-    "dragonside": {
-      "codepoint": 57634,
-      "fontFamily": "Fxemoji",
-      "identifier": "dragonside"
-    },
     "dress": {
-      "codepoint": 57635,
+      "codepoint": 57483,
       "fontFamily": "Fxemoji",
       "identifier": "dress"
     },
     "dromedarycamel": {
-      "codepoint": 57636,
+      "codepoint": 57484,
       "fontFamily": "Fxemoji",
       "identifier": "dromedarycamel"
     },
     "droplet": {
-      "codepoint": 57637,
+      "codepoint": 57485,
       "fontFamily": "Fxemoji",
       "identifier": "droplet"
     },
     "dvd": {
-      "codepoint": 57638,
+      "codepoint": 57486,
       "fontFamily": "Fxemoji",
       "identifier": "dvd"
     },
     "ear": {
-      "codepoint": 57639,
+      "codepoint": 57487,
       "fontFamily": "Fxemoji",
       "identifier": "ear"
     },
     "earofmaize": {
-      "codepoint": 57640,
+      "codepoint": 57488,
       "fontFamily": "Fxemoji",
       "identifier": "earofmaize"
     },
     "earofrice": {
-      "codepoint": 57641,
+      "codepoint": 57489,
       "fontFamily": "Fxemoji",
       "identifier": "earofrice"
     },
     "eightpointedblackstar": {
-      "codepoint": 57642,
+      "codepoint": 57490,
       "fontFamily": "Fxemoji",
       "identifier": "eightpointedblackstar"
     },
-    "eightspokedasterix": {
-      "codepoint": 57643,
-      "fontFamily": "Fxemoji",
-      "identifier": "eightspokedasterix"
-    },
     "electricplug": {
-      "codepoint": 57644,
+      "codepoint": 57491,
       "fontFamily": "Fxemoji",
       "identifier": "electricplug"
     },
     "electrictorch": {
-      "codepoint": 57645,
+      "codepoint": 57492,
       "fontFamily": "Fxemoji",
       "identifier": "electrictorch"
     },
-    "elephant": {
-      "codepoint": 57646,
-      "fontFamily": "Fxemoji",
-      "identifier": "elephant"
-    },
     "email": {
-      "codepoint": 57647,
+      "codepoint": 57493,
       "fontFamily": "Fxemoji",
       "identifier": "email"
     },
-    "emptydocument": {
-      "codepoint": 57648,
-      "fontFamily": "Fxemoji",
-      "identifier": "emptydocument"
-    },
     "emptynote": {
-      "codepoint": 57649,
+      "codepoint": 57494,
       "fontFamily": "Fxemoji",
       "identifier": "emptynote"
     },
     "emptynotepad": {
-      "codepoint": 57650,
+      "codepoint": 57495,
       "fontFamily": "Fxemoji",
       "identifier": "emptynotepad"
     },
     "emptynotepage": {
-      "codepoint": 57651,
+      "codepoint": 57496,
       "fontFamily": "Fxemoji",
       "identifier": "emptynotepage"
     },
-    "emptypage": {
-      "codepoint": 57652,
-      "fontFamily": "Fxemoji",
-      "identifier": "emptypage"
-    },
-    "emptypages": {
-      "codepoint": 57653,
-      "fontFamily": "Fxemoji",
-      "identifier": "emptypages"
-    },
     "endwithleftwardsarrow": {
-      "codepoint": 57654,
+      "codepoint": 57497,
       "fontFamily": "Fxemoji",
       "identifier": "endwithleftwardsarrow"
     },
     "envelope": {
-      "codepoint": 57655,
+      "codepoint": 57498,
       "fontFamily": "Fxemoji",
       "identifier": "envelope"
     },
     "envelopedownarrowabove": {
-      "codepoint": 57656,
+      "codepoint": 57499,
       "fontFamily": "Fxemoji",
       "identifier": "envelopedownarrowabove"
     },
     "envelopewithlightning": {
-      "codepoint": 57657,
+      "codepoint": 57500,
       "fontFamily": "Fxemoji",
       "identifier": "envelopewithlightning"
     },
     "europeafricaglobe": {
-      "codepoint": 57658,
+      "codepoint": 57501,
       "fontFamily": "Fxemoji",
       "identifier": "europeafricaglobe"
     },
     "europeancastle": {
-      "codepoint": 57659,
+      "codepoint": 57502,
       "fontFamily": "Fxemoji",
       "identifier": "europeancastle"
     },
-    "europeanpostoffice": {
-      "codepoint": 57660,
-      "fontFamily": "Fxemoji",
-      "identifier": "europeanpostoffice"
-    },
     "evergreen": {
-      "codepoint": 57661,
+      "codepoint": 57503,
       "fontFamily": "Fxemoji",
       "identifier": "evergreen"
     },
     "exclaimationquestionmark": {
-      "codepoint": 57662,
+      "codepoint": 57504,
       "fontFamily": "Fxemoji",
       "identifier": "exclaimationquestionmark"
     },
     "expressionless": {
-      "codepoint": 57663,
+      "codepoint": 57505,
       "fontFamily": "Fxemoji",
       "identifier": "expressionless"
     },
-    "eye": {
-      "codepoint": 57664,
-      "fontFamily": "Fxemoji",
-      "identifier": "eye"
-    },
-    "eyes": {
-      "codepoint": 57665,
-      "fontFamily": "Fxemoji",
-      "identifier": "eyes"
-    },
     "factory": {
-      "codepoint": 57666,
+      "codepoint": 57506,
       "fontFamily": "Fxemoji",
       "identifier": "factory_"
     },
-    "fallingleaf": {
-      "codepoint": 57667,
-      "fontFamily": "Fxemoji",
-      "identifier": "fallingleaf"
-    },
-    "family": {
-      "codepoint": 57668,
-      "fontFamily": "Fxemoji",
-      "identifier": "family"
-    },
     "fatherchristmas": {
-      "codepoint": 57669,
+      "codepoint": 57507,
       "fontFamily": "Fxemoji",
       "identifier": "fatherchristmas"
     },
-    "faxicon": {
-      "codepoint": 57670,
-      "fontFamily": "Fxemoji",
-      "identifier": "faxicon"
-    },
-    "faxmachine": {
-      "codepoint": 57671,
-      "fontFamily": "Fxemoji",
-      "identifier": "faxmachine"
-    },
     "fearful": {
-      "codepoint": 57672,
+      "codepoint": 57508,
       "fontFamily": "Fxemoji",
       "identifier": "fearful"
     },
     "ferriswheel": {
-      "codepoint": 57673,
+      "codepoint": 57509,
       "fontFamily": "Fxemoji",
       "identifier": "ferriswheel"
     },
-    "filecabinet": {
-      "codepoint": 57674,
-      "fontFamily": "Fxemoji",
-      "identifier": "filecabinet"
-    },
-    "filefolder": {
-      "codepoint": 57675,
-      "fontFamily": "Fxemoji",
-      "identifier": "filefolder"
-    },
-    "filmframes": {
-      "codepoint": 57676,
-      "fontFamily": "Fxemoji",
-      "identifier": "filmframes"
-    },
-    "filmprojector": {
-      "codepoint": 57677,
-      "fontFamily": "Fxemoji",
-      "identifier": "filmprojector"
-    },
     "fire": {
-      "codepoint": 57678,
+      "codepoint": 57510,
       "fontFamily": "Fxemoji",
       "identifier": "fire"
     },
     "fireengine": {
-      "codepoint": 57679,
+      "codepoint": 57511,
       "fontFamily": "Fxemoji",
       "identifier": "fireengine"
     },
     "fireworks": {
-      "codepoint": 57680,
+      "codepoint": 57512,
       "fontFamily": "Fxemoji",
       "identifier": "fireworks"
     },
     "fireworksparkler": {
-      "codepoint": 57681,
+      "codepoint": 57513,
       "fontFamily": "Fxemoji",
       "identifier": "fireworksparkler"
     },
-    "firstquartermoon": {
-      "codepoint": 57682,
-      "fontFamily": "Fxemoji",
-      "identifier": "firstquartermoon"
-    },
     "firstquartermoonface": {
-      "codepoint": 57683,
+      "codepoint": 57514,
       "fontFamily": "Fxemoji",
       "identifier": "firstquartermoonface"
     },
     "fish": {
-      "codepoint": 57684,
+      "codepoint": 57515,
       "fontFamily": "Fxemoji",
       "identifier": "fish"
     },
-    "fishcakeswirl": {
-      "codepoint": 57685,
-      "fontFamily": "Fxemoji",
-      "identifier": "fishcakeswirl"
-    },
-    "fishingpoleandfish": {
-      "codepoint": 57686,
-      "fontFamily": "Fxemoji",
-      "identifier": "fishingpoleandfish"
-    },
     "fistedhand": {
-      "codepoint": 57687,
+      "codepoint": 57516,
       "fontFamily": "Fxemoji",
       "identifier": "fistedhand"
     },
-    "flaginhole": {
-      "codepoint": 57688,
-      "fontFamily": "Fxemoji",
-      "identifier": "flaginhole"
-    },
     "flexbicep": {
-      "codepoint": 57689,
+      "codepoint": 57517,
       "fontFamily": "Fxemoji",
       "identifier": "flexbicep"
     },
-    "floppydisk2": {
-      "codepoint": 57690,
-      "fontFamily": "Fxemoji",
-      "identifier": "floppydisk2"
-    },
     "flowerplayingcards": {
-      "codepoint": 57691,
+      "codepoint": 57518,
       "fontFamily": "Fxemoji",
       "identifier": "flowerplayingcards"
     },
     "flushed": {
-      "codepoint": 57692,
+      "codepoint": 57519,
       "fontFamily": "Fxemoji",
       "identifier": "flushed"
     },
     "flyingenvelope": {
-      "codepoint": 57693,
+      "codepoint": 57520,
       "fontFamily": "Fxemoji",
       "identifier": "flyingenvelope"
     },
     "fog": {
-      "codepoint": 57694,
+      "codepoint": 57521,
       "fontFamily": "Fxemoji",
       "identifier": "fog"
     },
     "foggy": {
-      "codepoint": 57695,
+      "codepoint": 57522,
       "fontFamily": "Fxemoji",
       "identifier": "foggy"
     },
     "folder": {
-      "codepoint": 57696,
+      "codepoint": 57523,
       "fontFamily": "Fxemoji",
       "identifier": "folder"
     },
-    "footprints": {
-      "codepoint": 57697,
-      "fontFamily": "Fxemoji",
-      "identifier": "footprints"
-    },
-    "forkandknife": {
-      "codepoint": 57698,
-      "fontFamily": "Fxemoji",
-      "identifier": "forkandknife"
-    },
     "forkknife": {
-      "codepoint": 57699,
+      "codepoint": 57524,
       "fontFamily": "Fxemoji",
       "identifier": "forkknife"
     },
-    "fountain": {
-      "codepoint": 57700,
-      "fontFamily": "Fxemoji",
-      "identifier": "fountain"
-    },
     "fourleafclover": {
-      "codepoint": 57701,
+      "codepoint": 57525,
       "fontFamily": "Fxemoji",
       "identifier": "fourleafclover"
     },
     "foxcrying": {
-      "codepoint": 57702,
+      "codepoint": 57526,
       "fontFamily": "Fxemoji",
       "identifier": "foxcrying"
     },
     "foxgrin": {
-      "codepoint": 57703,
+      "codepoint": 57527,
       "fontFamily": "Fxemoji",
       "identifier": "foxgrin"
     },
-    "foxheart": {
-      "codepoint": 57704,
-      "fontFamily": "Fxemoji",
-      "identifier": "foxheart"
-    },
     "foxkissing": {
-      "codepoint": 57705,
+      "codepoint": 57528,
       "fontFamily": "Fxemoji",
       "identifier": "foxkissing"
     },
     "foxpouting": {
-      "codepoint": 57706,
+      "codepoint": 57529,
       "fontFamily": "Fxemoji",
       "identifier": "foxpouting"
     },
     "foxsmiling": {
-      "codepoint": 57707,
+      "codepoint": 57530,
       "fontFamily": "Fxemoji",
       "identifier": "foxsmiling"
     },
     "foxtearofjoy": {
-      "codepoint": 57708,
+      "codepoint": 57531,
       "fontFamily": "Fxemoji",
       "identifier": "foxtearofjoy"
     },
     "foxweary": {
-      "codepoint": 57709,
+      "codepoint": 57532,
       "fontFamily": "Fxemoji",
       "identifier": "foxweary"
     },
     "foxwry": {
-      "codepoint": 57710,
+      "codepoint": 57533,
       "fontFamily": "Fxemoji",
       "identifier": "foxwry"
     },
-    "framewithpicture": {
-      "codepoint": 57711,
-      "fontFamily": "Fxemoji",
-      "identifier": "framewithpicture"
-    },
-    "framewithtiles": {
-      "codepoint": 57712,
-      "fontFamily": "Fxemoji",
-      "identifier": "framewithtiles"
-    },
     "framewithx": {
-      "codepoint": 57713,
+      "codepoint": 57534,
       "fontFamily": "Fxemoji",
       "identifier": "framewithx"
     },
-    "franceflag": {
-      "codepoint": 57714,
-      "fontFamily": "Fxemoji",
-      "identifier": "franceflag"
-    },
-    "frenchfries": {
-      "codepoint": 57715,
-      "fontFamily": "Fxemoji",
-      "identifier": "frenchfries"
-    },
-    "friedshrimp": {
-      "codepoint": 57716,
-      "fontFamily": "Fxemoji",
-      "identifier": "friedshrimp"
-    },
     "frog": {
-      "codepoint": 57717,
+      "codepoint": 57535,
       "fontFamily": "Fxemoji",
       "identifier": "frog"
     },
     "frontfacingchick": {
-      "codepoint": 57718,
+      "codepoint": 57536,
       "fontFamily": "Fxemoji",
       "identifier": "frontfacingchick"
     },
-    "frown": {
-      "codepoint": 57719,
-      "fontFamily": "Fxemoji",
-      "identifier": "frown"
-    },
     "frownmouth": {
-      "codepoint": 57720,
+      "codepoint": 57537,
       "fontFamily": "Fxemoji",
       "identifier": "frownmouth"
     },
-    "fuelpump": {
-      "codepoint": 57721,
-      "fontFamily": "Fxemoji",
-      "identifier": "fuelpump"
-    },
     "fullmoon": {
-      "codepoint": 57722,
+      "codepoint": 57538,
       "fontFamily": "Fxemoji",
       "identifier": "fullmoon"
     },
     "fullmoonwithface": {
-      "codepoint": 57723,
+      "codepoint": 57539,
       "fontFamily": "Fxemoji",
       "identifier": "fullmoonwithface"
     },
     "gamedie": {
-      "codepoint": 57724,
+      "codepoint": 57540,
       "fontFamily": "Fxemoji",
       "identifier": "gamedie"
     },
     "gem": {
-      "codepoint": 57725,
+      "codepoint": 57541,
       "fontFamily": "Fxemoji",
       "identifier": "gem"
     },
     "gemini": {
-      "codepoint": 57726,
+      "codepoint": 57542,
       "fontFamily": "Fxemoji",
       "identifier": "gemini"
     },
-    "ghost": {
-      "codepoint": 57727,
-      "fontFamily": "Fxemoji",
-      "identifier": "ghost"
-    },
-    "girl": {
-      "codepoint": 57728,
-      "fontFamily": "Fxemoji",
-      "identifier": "girl"
-    },
-    "girlgirl": {
-      "codepoint": 57729,
-      "fontFamily": "Fxemoji",
-      "identifier": "girlgirl"
-    },
-    "girlguy": {
-      "codepoint": 57730,
-      "fontFamily": "Fxemoji",
-      "identifier": "girlguy"
-    },
     "glasses": {
-      "codepoint": 57731,
+      "codepoint": 57543,
       "fontFamily": "Fxemoji",
       "identifier": "glasses"
     },
-    "gma": {
-      "codepoint": 57732,
-      "fontFamily": "Fxemoji",
-      "identifier": "gma"
-    },
     "goat": {
-      "codepoint": 57733,
+      "codepoint": 57544,
       "fontFamily": "Fxemoji",
       "identifier": "goat"
     },
-    "golfer": {
-      "codepoint": 57734,
-      "fontFamily": "Fxemoji",
-      "identifier": "golfer"
-    },
-    "gpa": {
-      "codepoint": 57735,
-      "fontFamily": "Fxemoji",
-      "identifier": "gpa"
-    },
-    "graduationcap": {
-      "codepoint": 57736,
-      "fontFamily": "Fxemoji",
-      "identifier": "graduationcap"
-    },
-    "grapes": {
-      "codepoint": 57737,
-      "fontFamily": "Fxemoji",
-      "identifier": "grapes"
-    },
-    "greatbritainflag": {
-      "codepoint": 57738,
-      "fontFamily": "Fxemoji",
-      "identifier": "greatbritainflag"
-    },
-    "greenapple": {
-      "codepoint": 57739,
-      "fontFamily": "Fxemoji",
-      "identifier": "greenapple"
-    },
-    "greenbook": {
-      "codepoint": 57740,
-      "fontFamily": "Fxemoji",
-      "identifier": "greenbook"
-    },
     "grimacing": {
-      "codepoint": 57741,
+      "codepoint": 57545,
       "fontFamily": "Fxemoji",
       "identifier": "grimacing"
     },
     "grin": {
-      "codepoint": 57742,
+      "codepoint": 57546,
       "fontFamily": "Fxemoji",
       "identifier": "grin"
     },
     "grineyes": {
-      "codepoint": 57743,
+      "codepoint": 57547,
       "fontFamily": "Fxemoji",
       "identifier": "grineyes"
     },
     "grinsquint": {
-      "codepoint": 57744,
+      "codepoint": 57548,
       "fontFamily": "Fxemoji",
       "identifier": "grinsquint"
     },
     "grinsweat": {
-      "codepoint": 57745,
+      "codepoint": 57549,
       "fontFamily": "Fxemoji",
       "identifier": "grinsweat"
     },
     "grintears": {
-      "codepoint": 57746,
+      "codepoint": 57550,
       "fontFamily": "Fxemoji",
       "identifier": "grintears"
     },
     "grinwide": {
-      "codepoint": 57747,
+      "codepoint": 57551,
       "fontFamily": "Fxemoji",
       "identifier": "grinwide"
     },
     "grinwideeyes": {
-      "codepoint": 57748,
+      "codepoint": 57552,
       "fontFamily": "Fxemoji",
       "identifier": "grinwideeyes"
     },
-    "growingheart": {
-      "codepoint": 57749,
-      "fontFamily": "Fxemoji",
-      "identifier": "growingheart"
-    },
-    "guapimao": {
-      "codepoint": 57750,
-      "fontFamily": "Fxemoji",
-      "identifier": "guapimao"
-    },
-    "guardsman": {
-      "codepoint": 57751,
-      "fontFamily": "Fxemoji",
-      "identifier": "guardsman"
-    },
-    "guitar": {
-      "codepoint": 57752,
-      "fontFamily": "Fxemoji",
-      "identifier": "guitar"
-    },
-    "guyguy": {
-      "codepoint": 57753,
-      "fontFamily": "Fxemoji",
-      "identifier": "guyguy"
-    },
-    "haircut": {
-      "codepoint": 57754,
-      "fontFamily": "Fxemoji",
-      "identifier": "haircut"
-    },
     "halo": {
-      "codepoint": 57755,
+      "codepoint": 57553,
       "fontFamily": "Fxemoji",
       "identifier": "halo"
     },
-    "hamburger": {
-      "codepoint": 57756,
-      "fontFamily": "Fxemoji",
-      "identifier": "hamburger"
-    },
-    "hammer": {
-      "codepoint": 57757,
-      "fontFamily": "Fxemoji",
-      "identifier": "hammer"
-    },
-    "hampster": {
-      "codepoint": 57758,
-      "fontFamily": "Fxemoji",
-      "identifier": "hampster"
-    },
     "hand": {
-      "codepoint": 57759,
+      "codepoint": 57554,
       "fontFamily": "Fxemoji",
       "identifier": "hand"
     },
-    "handbag": {
-      "codepoint": 57760,
-      "fontFamily": "Fxemoji",
-      "identifier": "handbag"
-    },
-    "handheldvideocamera": {
-      "codepoint": 57761,
-      "fontFamily": "Fxemoji",
-      "identifier": "handheldvideocamera"
-    },
     "hands": {
-      "codepoint": 57762,
+      "codepoint": 57555,
       "fontFamily": "Fxemoji",
       "identifier": "hands"
     },
-    "handup": {
-      "codepoint": 57763,
-      "fontFamily": "Fxemoji",
-      "identifier": "handup"
-    },
     "harddisk": {
-      "codepoint": 57764,
+      "codepoint": 57556,
       "fontFamily": "Fxemoji",
       "identifier": "harddisk"
     },
     "hatchingchick": {
-      "codepoint": 57765,
+      "codepoint": 57557,
       "fontFamily": "Fxemoji",
       "identifier": "hatchingchick"
     },
-    "headmassage": {
-      "codepoint": 57766,
-      "fontFamily": "Fxemoji",
-      "identifier": "headmassage"
-    },
-    "headphone": {
-      "codepoint": 57767,
-      "fontFamily": "Fxemoji",
-      "identifier": "headphone"
-    },
-    "heartarrow": {
-      "codepoint": 57768,
-      "fontFamily": "Fxemoji",
-      "identifier": "heartarrow"
-    },
     "heartblue": {
-      "codepoint": 57769,
+      "codepoint": 57558,
       "fontFamily": "Fxemoji",
       "identifier": "heartblue"
     },
     "heartdecoration": {
-      "codepoint": 57770,
+      "codepoint": 57559,
       "fontFamily": "Fxemoji",
       "identifier": "heartdecoration"
     },
     "hearteyes": {
-      "codepoint": 57771,
+      "codepoint": 57560,
       "fontFamily": "Fxemoji",
       "identifier": "hearteyes"
     },
     "heartgreen": {
-      "codepoint": 57772,
+      "codepoint": 57561,
       "fontFamily": "Fxemoji",
       "identifier": "heartgreen"
     },
     "heartlefttip": {
-      "codepoint": 57773,
+      "codepoint": 57562,
       "fontFamily": "Fxemoji",
       "identifier": "heartlefttip"
     },
     "heartpurple": {
-      "codepoint": 57774,
+      "codepoint": 57563,
       "fontFamily": "Fxemoji",
       "identifier": "heartpurple"
     },
     "heartribbon": {
-      "codepoint": 57775,
+      "codepoint": 57564,
       "fontFamily": "Fxemoji",
       "identifier": "heartribbon"
     },
     "heartyellow": {
-      "codepoint": 57776,
+      "codepoint": 57565,
       "fontFamily": "Fxemoji",
       "identifier": "heartyellow"
     },
     "heavycheckmark": {
-      "codepoint": 57777,
+      "codepoint": 57566,
       "fontFamily": "Fxemoji",
       "identifier": "heavycheckmark"
     },
     "heavydivisionsign": {
-      "codepoint": 57778,
+      "codepoint": 57567,
       "fontFamily": "Fxemoji",
       "identifier": "heavydivisionsign"
     },
     "heavydollarsign": {
-      "codepoint": 57779,
+      "codepoint": 57568,
       "fontFamily": "Fxemoji",
       "identifier": "heavydollarsign"
     },
     "heavyexclaimationmarksymbol": {
-      "codepoint": 57780,
+      "codepoint": 57569,
       "fontFamily": "Fxemoji",
       "identifier": "heavyexclaimationmarksymbol"
     },
     "heavylargecircle": {
-      "codepoint": 57781,
+      "codepoint": 57570,
       "fontFamily": "Fxemoji",
       "identifier": "heavylargecircle"
     },
     "heavylatincross": {
-      "codepoint": 57782,
+      "codepoint": 57571,
       "fontFamily": "Fxemoji",
       "identifier": "heavylatincross"
     },
     "heavyminussign": {
-      "codepoint": 57783,
+      "codepoint": 57572,
       "fontFamily": "Fxemoji",
       "identifier": "heavyminussign"
     },
     "heavymultiplicationsymbol": {
-      "codepoint": 57784,
+      "codepoint": 57573,
       "fontFamily": "Fxemoji",
       "identifier": "heavymultiplicationsymbol"
     },
     "heavyplussign": {
-      "codepoint": 57785,
+      "codepoint": 57574,
       "fontFamily": "Fxemoji",
       "identifier": "heavyplussign"
     },
-    "heels": {
-      "codepoint": 57786,
-      "fontFamily": "Fxemoji",
-      "identifier": "heels"
-    },
     "helicopter": {
-      "codepoint": 57787,
+      "codepoint": 57575,
       "fontFamily": "Fxemoji",
       "identifier": "helicopter"
     },
     "herb": {
-      "codepoint": 57788,
+      "codepoint": 57576,
       "fontFamily": "Fxemoji",
       "identifier": "herb"
     },
     "hibiscus": {
-      "codepoint": 57789,
+      "codepoint": 57577,
       "fontFamily": "Fxemoji",
       "identifier": "hibiscus"
     },
     "high5": {
-      "codepoint": 57790,
+      "codepoint": 57578,
       "fontFamily": "Fxemoji",
       "identifier": "high5"
     },
     "highbrightness": {
-      "codepoint": 57791,
+      "codepoint": 57579,
       "fontFamily": "Fxemoji",
       "identifier": "highbrightness"
     },
-    "highspeedtrain": {
-      "codepoint": 57792,
-      "fontFamily": "Fxemoji",
-      "identifier": "highspeedtrain"
-    },
-    "highspeedtrainbulletnose": {
-      "codepoint": 57793,
-      "fontFamily": "Fxemoji",
-      "identifier": "highspeedtrainbulletnose"
-    },
     "hocho": {
-      "codepoint": 57794,
+      "codepoint": 57580,
       "fontFamily": "Fxemoji",
       "identifier": "hocho"
     },
-    "hole": {
-      "codepoint": 57795,
-      "fontFamily": "Fxemoji",
-      "identifier": "hole"
-    },
-    "honeybee": {
-      "codepoint": 57796,
-      "fontFamily": "Fxemoji",
-      "identifier": "honeybee"
-    },
     "honeypot": {
-      "codepoint": 57797,
+      "codepoint": 57581,
       "fontFamily": "Fxemoji",
       "identifier": "honeypot"
     },
-    "horizontaltrafficlight": {
-      "codepoint": 57798,
-      "fontFamily": "Fxemoji",
-      "identifier": "horizontaltrafficlight"
-    },
     "horse": {
-      "codepoint": 57799,
+      "codepoint": 57582,
       "fontFamily": "Fxemoji",
       "identifier": "horse"
     },
-    "horseface": {
-      "codepoint": 57800,
-      "fontFamily": "Fxemoji",
-      "identifier": "horseface"
-    },
-    "horseracing": {
-      "codepoint": 57801,
-      "fontFamily": "Fxemoji",
-      "identifier": "horseracing"
-    },
-    "hospital": {
-      "codepoint": 57802,
-      "fontFamily": "Fxemoji",
-      "identifier": "hospital"
-    },
-    "hotbeverage": {
-      "codepoint": 57803,
-      "fontFamily": "Fxemoji",
-      "identifier": "hotbeverage"
-    },
     "hotel": {
-      "codepoint": 57804,
+      "codepoint": 57583,
       "fontFamily": "Fxemoji",
       "identifier": "hotel"
     },
     "hotsprings": {
-      "codepoint": 57805,
+      "codepoint": 57584,
       "fontFamily": "Fxemoji",
       "identifier": "hotsprings"
     },
-    "hourglass": {
-      "codepoint": 57806,
-      "fontFamily": "Fxemoji",
-      "identifier": "hourglass"
-    },
-    "hourglassflowingsand": {
-      "codepoint": 57807,
-      "fontFamily": "Fxemoji",
-      "identifier": "hourglassflowingsand"
-    },
-    "housebuilding": {
-      "codepoint": 57808,
-      "fontFamily": "Fxemoji",
-      "identifier": "housebuilding"
-    },
-    "housebuildings": {
-      "codepoint": 57809,
-      "fontFamily": "Fxemoji",
-      "identifier": "housebuildings"
-    },
-    "housewithgarden": {
-      "codepoint": 57810,
-      "fontFamily": "Fxemoji",
-      "identifier": "housewithgarden"
-    },
-    "hundredpointssymbol": {
-      "codepoint": 57811,
-      "fontFamily": "Fxemoji",
-      "identifier": "hundredpointssymbol"
-    },
     "hushed": {
-      "codepoint": 57812,
+      "codepoint": 57585,
       "fontFamily": "Fxemoji",
       "identifier": "hushed"
     },
-    "icecream": {
-      "codepoint": 57813,
-      "fontFamily": "Fxemoji",
-      "identifier": "icecream"
-    },
     "imp": {
-      "codepoint": 57814,
+      "codepoint": 57586,
       "fontFamily": "Fxemoji",
       "identifier": "imp"
     },
-    "inboxtray": {
-      "codepoint": 57815,
-      "fontFamily": "Fxemoji",
-      "identifier": "inboxtray"
-    },
     "incomingenvelope": {
-      "codepoint": 57816,
+      "codepoint": 57587,
       "fontFamily": "Fxemoji",
       "identifier": "incomingenvelope"
     },
     "increasefontsize": {
-      "codepoint": 57817,
+      "codepoint": 57588,
       "fontFamily": "Fxemoji",
       "identifier": "increasefontsize"
     },
     "index": {
-      "codepoint": 57818,
+      "codepoint": 57589,
       "fontFamily": "Fxemoji",
       "identifier": "index"
     },
-    "informationsource": {
-      "codepoint": 57819,
-      "fontFamily": "Fxemoji",
-      "identifier": "informationsource"
-    },
-    "inputsymbolforlatincapitalletters": {
-      "codepoint": 57820,
-      "fontFamily": "Fxemoji",
-      "identifier": "inputsymbolforlatincapitalletters"
-    },
-    "inputsymbolforlatinletters": {
-      "codepoint": 57821,
-      "fontFamily": "Fxemoji",
-      "identifier": "inputsymbolforlatinletters"
-    },
-    "inputsymbolforlatinsmallletters": {
-      "codepoint": 57822,
-      "fontFamily": "Fxemoji",
-      "identifier": "inputsymbolforlatinsmallletters"
-    },
-    "inputsymbolfornumbers": {
-      "codepoint": 57823,
-      "fontFamily": "Fxemoji",
-      "identifier": "inputsymbolfornumbers"
-    },
-    "inputsymbolforsymbols": {
-      "codepoint": 57824,
-      "fontFamily": "Fxemoji",
-      "identifier": "inputsymbolforsymbols"
-    },
-    "italianflag": {
-      "codepoint": 57825,
-      "fontFamily": "Fxemoji",
-      "identifier": "italianflag"
-    },
-    "izakayalantern": {
-      "codepoint": 57826,
-      "fontFamily": "Fxemoji",
-      "identifier": "izakayalantern"
-    },
-    "jackolantern": {
-      "codepoint": 57827,
-      "fontFamily": "Fxemoji",
-      "identifier": "jackolantern"
-    },
     "japaneseangrymask": {
-      "codepoint": 57828,
+      "codepoint": 57590,
       "fontFamily": "Fxemoji",
       "identifier": "japaneseangrymask"
     },
     "japanesecastle": {
-      "codepoint": 57829,
+      "codepoint": 57591,
       "fontFamily": "Fxemoji",
       "identifier": "japanesecastle"
     },
-    "japanesedolls": {
-      "codepoint": 57830,
-      "fontFamily": "Fxemoji",
-      "identifier": "japanesedolls"
-    },
     "japanesepostoffice": {
-      "codepoint": 57831,
+      "codepoint": 57592,
       "fontFamily": "Fxemoji",
       "identifier": "japanesepostoffice"
     },
     "japanesesymbolforbeginner": {
-      "codepoint": 57832,
+      "codepoint": 57593,
       "fontFamily": "Fxemoji",
       "identifier": "japanesesymbolforbeginner"
     },
-    "japanflag": {
-      "codepoint": 57833,
-      "fontFamily": "Fxemoji",
-      "identifier": "japanflag"
-    },
     "jeans": {
-      "codepoint": 57834,
+      "codepoint": 57594,
       "fontFamily": "Fxemoji",
       "identifier": "jeans"
     },
     "key": {
-      "codepoint": 57835,
+      "codepoint": 57595,
       "fontFamily": "Fxemoji",
       "identifier": "key"
     },
     "keyboard": {
-      "codepoint": 57836,
+      "codepoint": 57596,
       "fontFamily": "Fxemoji",
       "identifier": "keyboard"
     },
-    "keyboardandmouse": {
-      "codepoint": 57837,
-      "fontFamily": "Fxemoji",
-      "identifier": "keyboardandmouse"
-    },
-    "kimono": {
-      "codepoint": 57838,
-      "fontFamily": "Fxemoji",
-      "identifier": "kimono"
-    },
     "kiss": {
-      "codepoint": 57839,
+      "codepoint": 57597,
       "fontFamily": "Fxemoji",
       "identifier": "kiss"
     },
     "kissclosedeyes": {
-      "codepoint": 57840,
+      "codepoint": 57598,
       "fontFamily": "Fxemoji",
       "identifier": "kissclosedeyes"
     },
     "kisseyes": {
-      "codepoint": 57841,
+      "codepoint": 57599,
       "fontFamily": "Fxemoji",
       "identifier": "kisseyes"
     },
     "kissing": {
-      "codepoint": 57842,
+      "codepoint": 57600,
       "fontFamily": "Fxemoji",
       "identifier": "kissing"
     },
-    "kissmark": {
-      "codepoint": 57843,
-      "fontFamily": "Fxemoji",
-      "identifier": "kissmark"
-    },
-    "koala": {
-      "codepoint": 57844,
-      "fontFamily": "Fxemoji",
-      "identifier": "koala"
-    },
-    "koreaflag": {
-      "codepoint": 57845,
-      "fontFamily": "Fxemoji",
-      "identifier": "koreaflag"
-    },
     "label": {
-      "codepoint": 57846,
+      "codepoint": 57601,
       "fontFamily": "Fxemoji",
       "identifier": "label"
     },
     "ladybeetle": {
-      "codepoint": 57847,
+      "codepoint": 57602,
       "fontFamily": "Fxemoji",
       "identifier": "ladybeetle"
     },
     "largebluecircle": {
-      "codepoint": 57848,
+      "codepoint": 57603,
       "fontFamily": "Fxemoji",
       "identifier": "largebluecircle"
     },
     "largebluediamond": {
-      "codepoint": 57849,
+      "codepoint": 57604,
       "fontFamily": "Fxemoji",
       "identifier": "largebluediamond"
     },
-    "largeorangediamond": {
-      "codepoint": 57850,
-      "fontFamily": "Fxemoji",
-      "identifier": "largeorangediamond"
-    },
     "largeredcircle": {
-      "codepoint": 57851,
+      "codepoint": 57605,
       "fontFamily": "Fxemoji",
       "identifier": "largeredcircle"
     },
-    "lastquartermoon": {
-      "codepoint": 57852,
-      "fontFamily": "Fxemoji",
-      "identifier": "lastquartermoon"
-    },
     "lastquartermoonface": {
-      "codepoint": 57853,
+      "codepoint": 57606,
       "fontFamily": "Fxemoji",
       "identifier": "lastquartermoonface"
     },
-    "leaffluttering": {
-      "codepoint": 57854,
-      "fontFamily": "Fxemoji",
-      "identifier": "leaffluttering"
-    },
     "ledger": {
-      "codepoint": 57855,
+      "codepoint": 57607,
       "fontFamily": "Fxemoji",
       "identifier": "ledger"
     },
     "left": {
-      "codepoint": 57856,
+      "codepoint": 57608,
       "fontFamily": "Fxemoji",
       "identifier": "left"
     },
     "leftangerbubble": {
-      "codepoint": 57857,
+      "codepoint": 57609,
       "fontFamily": "Fxemoji",
       "identifier": "leftangerbubble"
     },
-    "lefthandphone": {
-      "codepoint": 57858,
-      "fontFamily": "Fxemoji",
-      "identifier": "lefthandphone"
-    },
     "leftluggage": {
-      "codepoint": 57859,
+      "codepoint": 57610,
       "fontFamily": "Fxemoji",
       "identifier": "leftluggage"
     },
-    "leftmagnifyingglass": {
-      "codepoint": 57860,
-      "fontFamily": "Fxemoji",
-      "identifier": "leftmagnifyingglass"
-    },
-    "leftrightarrow": {
-      "codepoint": 57861,
-      "fontFamily": "Fxemoji",
-      "identifier": "leftrightarrow"
-    },
     "leftspeechbubble": {
-      "codepoint": 57862,
+      "codepoint": 57611,
       "fontFamily": "Fxemoji",
       "identifier": "leftspeechbubble"
     },
     "leftthoughtbubble": {
-      "codepoint": 57863,
+      "codepoint": 57612,
       "fontFamily": "Fxemoji",
       "identifier": "leftthoughtbubble"
     },
-    "leftwardsarrowwithhook": {
-      "codepoint": 57864,
-      "fontFamily": "Fxemoji",
-      "identifier": "leftwardsarrowwithhook"
-    },
-    "leftwardsblackarrow": {
-      "codepoint": 57865,
-      "fontFamily": "Fxemoji",
-      "identifier": "leftwardsblackarrow"
-    },
-    "leftwritinghand": {
-      "codepoint": 57866,
-      "fontFamily": "Fxemoji",
-      "identifier": "leftwritinghand"
-    },
-    "lemon": {
-      "codepoint": 57867,
-      "fontFamily": "Fxemoji",
-      "identifier": "lemon"
-    },
     "leo": {
-      "codepoint": 57868,
+      "codepoint": 57613,
       "fontFamily": "Fxemoji",
       "identifier": "leo"
     },
-    "leopardside": {
-      "codepoint": 57869,
-      "fontFamily": "Fxemoji",
-      "identifier": "leopardside"
-    },
     "levelslider": {
-      "codepoint": 57870,
+      "codepoint": 57614,
       "fontFamily": "Fxemoji",
       "identifier": "levelslider"
     },
     "libra": {
-      "codepoint": 57871,
+      "codepoint": 57615,
       "fontFamily": "Fxemoji",
       "identifier": "libra"
     },
     "lightbulb": {
-      "codepoint": 57872,
+      "codepoint": 57616,
       "fontFamily": "Fxemoji",
       "identifier": "lightbulb"
     },
     "lightningmood": {
-      "codepoint": 57873,
+      "codepoint": 57617,
       "fontFamily": "Fxemoji",
       "identifier": "lightningmood"
     },
     "lightningmoodbubble": {
-      "codepoint": 57874,
+      "codepoint": 57618,
       "fontFamily": "Fxemoji",
       "identifier": "lightningmoodbubble"
     },
-    "lightrail": {
-      "codepoint": 57875,
-      "fontFamily": "Fxemoji",
-      "identifier": "lightrail"
-    },
     "linkedpaperclips": {
-      "codepoint": 57876,
+      "codepoint": 57619,
       "fontFamily": "Fxemoji",
       "identifier": "linkedpaperclips"
     },
-    "linksymbol": {
-      "codepoint": 57877,
-      "fontFamily": "Fxemoji",
-      "identifier": "linksymbol"
-    },
     "lips": {
-      "codepoint": 57878,
+      "codepoint": 57620,
       "fontFamily": "Fxemoji",
       "identifier": "lips"
     },
-    "lipstick": {
-      "codepoint": 57879,
-      "fontFamily": "Fxemoji",
-      "identifier": "lipstick"
-    },
     "lock": {
-      "codepoint": 57880,
+      "codepoint": 57621,
       "fontFamily": "Fxemoji",
       "identifier": "lock"
     },
-    "lockandkey": {
-      "codepoint": 57881,
-      "fontFamily": "Fxemoji",
-      "identifier": "lockandkey"
-    },
-    "lockwithinkpen": {
-      "codepoint": 57882,
-      "fontFamily": "Fxemoji",
-      "identifier": "lockwithinkpen"
-    },
     "lollipop": {
-      "codepoint": 57883,
+      "codepoint": 57622,
       "fontFamily": "Fxemoji",
       "identifier": "lollipop"
     },
     "loudlycrying": {
-      "codepoint": 57884,
+      "codepoint": 57623,
       "fontFamily": "Fxemoji",
       "identifier": "loudlycrying"
     },
-    "loudspeaker": {
-      "codepoint": 57885,
-      "fontFamily": "Fxemoji",
-      "identifier": "loudspeaker"
-    },
-    "lovehotel": {
-      "codepoint": 57886,
-      "fontFamily": "Fxemoji",
-      "identifier": "lovehotel"
-    },
-    "loveletter": {
-      "codepoint": 57887,
-      "fontFamily": "Fxemoji",
-      "identifier": "loveletter"
-    },
     "lowbrightness": {
-      "codepoint": 57888,
+      "codepoint": 57624,
       "fontFamily": "Fxemoji",
       "identifier": "lowbrightness"
     },
     "lowerleftcrayon": {
-      "codepoint": 57889,
+      "codepoint": 57625,
       "fontFamily": "Fxemoji",
       "identifier": "lowerleftcrayon"
     },
-    "lowerleftfountainpen": {
-      "codepoint": 57890,
-      "fontFamily": "Fxemoji",
-      "identifier": "lowerleftfountainpen"
-    },
-    "lowerleftpaintbrush": {
-      "codepoint": 57891,
-      "fontFamily": "Fxemoji",
-      "identifier": "lowerleftpaintbrush"
-    },
-    "lowerleftpen": {
-      "codepoint": 57892,
-      "fontFamily": "Fxemoji",
-      "identifier": "lowerleftpen"
-    },
-    "lowerleftpencil": {
-      "codepoint": 57893,
-      "fontFamily": "Fxemoji",
-      "identifier": "lowerleftpencil"
-    },
     "lowerrightwhitecircle": {
-      "codepoint": 57894,
+      "codepoint": 57626,
       "fontFamily": "Fxemoji",
       "identifier": "lowerrightwhitecircle"
     },
-    "mahjong": {
-      "codepoint": 57895,
-      "fontFamily": "Fxemoji",
-      "identifier": "mahjong"
-    },
-    "makeupbag": {
-      "codepoint": 57896,
-      "fontFamily": "Fxemoji",
-      "identifier": "makeupbag"
-    },
-    "man": {
-      "codepoint": 57897,
-      "fontFamily": "Fxemoji",
-      "identifier": "man"
-    },
-    "maninbusinesssuitlevitating": {
-      "codepoint": 57898,
-      "fontFamily": "Fxemoji",
-      "identifier": "maninbusinesssuitlevitating"
-    },
-    "manltepiececlock": {
-      "codepoint": 57899,
-      "fontFamily": "Fxemoji",
-      "identifier": "manltepiececlock"
-    },
     "mansshirt": {
-      "codepoint": 57900,
+      "codepoint": 57627,
       "fontFamily": "Fxemoji",
       "identifier": "mansshirt"
     },
-    "mapleleaf": {
-      "codepoint": 57901,
-      "fontFamily": "Fxemoji",
-      "identifier": "mapleleaf"
-    },
     "markschaptersymbol": {
-      "codepoint": 57902,
+      "codepoint": 57628,
       "fontFamily": "Fxemoji",
       "identifier": "markschaptersymbol"
     },
     "maximize": {
-      "codepoint": 57903,
+      "codepoint": 57629,
       "fontFamily": "Fxemoji",
       "identifier": "maximize"
     },
-    "meatonbone": {
-      "codepoint": 57904,
-      "fontFamily": "Fxemoji",
-      "identifier": "meatonbone"
-    },
     "medicalmask": {
-      "codepoint": 57905,
+      "codepoint": 57630,
       "fontFamily": "Fxemoji",
       "identifier": "medicalmask"
     },
-    "mediumblackcircle": {
-      "codepoint": 57906,
-      "fontFamily": "Fxemoji",
-      "identifier": "mediumblackcircle"
-    },
     "mediumwhitecircle": {
-      "codepoint": 57907,
+      "codepoint": 57631,
       "fontFamily": "Fxemoji",
       "identifier": "mediumwhitecircle"
     },
     "megaphone": {
-      "codepoint": 57908,
+      "codepoint": 57632,
       "fontFamily": "Fxemoji",
       "identifier": "megaphone"
     },
     "melon": {
-      "codepoint": 57909,
+      "codepoint": 57633,
       "fontFamily": "Fxemoji",
       "identifier": "melon"
     },
-    "memo": {
-      "codepoint": 57910,
-      "fontFamily": "Fxemoji",
-      "identifier": "memo"
-    },
-    "mensrunner": {
-      "codepoint": 57911,
-      "fontFamily": "Fxemoji",
-      "identifier": "mensrunner"
-    },
-    "mensshoe": {
-      "codepoint": 57912,
-      "fontFamily": "Fxemoji",
-      "identifier": "mensshoe"
-    },
     "menssymbol": {
-      "codepoint": 57913,
+      "codepoint": 57634,
       "fontFamily": "Fxemoji",
       "identifier": "menssymbol"
     },
     "meridianglobe": {
-      "codepoint": 57914,
+      "codepoint": 57635,
       "fontFamily": "Fxemoji",
       "identifier": "meridianglobe"
     },
-    "metro": {
-      "codepoint": 57915,
-      "fontFamily": "Fxemoji",
-      "identifier": "metro"
-    },
-    "microphone": {
-      "codepoint": 57916,
-      "fontFamily": "Fxemoji",
-      "identifier": "microphone"
-    },
-    "microscope": {
-      "codepoint": 57917,
-      "fontFamily": "Fxemoji",
-      "identifier": "microscope"
-    },
-    "militarymedal": {
-      "codepoint": 57918,
-      "fontFamily": "Fxemoji",
-      "identifier": "militarymedal"
-    },
-    "milkyway": {
-      "codepoint": 57919,
-      "fontFamily": "Fxemoji",
-      "identifier": "milkyway"
-    },
     "minibus": {
-      "codepoint": 57920,
+      "codepoint": 57636,
       "fontFamily": "Fxemoji",
       "identifier": "minibus"
     },
     "minidisc": {
-      "codepoint": 57921,
+      "codepoint": 57637,
       "fontFamily": "Fxemoji",
       "identifier": "minidisc"
     },
     "minimize": {
-      "codepoint": 57922,
+      "codepoint": 57638,
       "fontFamily": "Fxemoji",
       "identifier": "minimize"
     },
     "mobilephoneoff": {
-      "codepoint": 57923,
+      "codepoint": 57639,
       "fontFamily": "Fxemoji",
       "identifier": "mobilephoneoff"
     },
     "moneybag": {
-      "codepoint": 57924,
+      "codepoint": 57640,
       "fontFamily": "Fxemoji",
       "identifier": "moneybag"
     },
     "moneywithwings": {
-      "codepoint": 57925,
+      "codepoint": 57641,
       "fontFamily": "Fxemoji",
       "identifier": "moneywithwings"
     },
-    "monkey": {
-      "codepoint": 57926,
-      "fontFamily": "Fxemoji",
-      "identifier": "monkey"
-    },
-    "monkeyface": {
-      "codepoint": 57927,
-      "fontFamily": "Fxemoji",
-      "identifier": "monkeyface"
-    },
     "monkeyhear": {
-      "codepoint": 57928,
+      "codepoint": 57642,
       "fontFamily": "Fxemoji",
       "identifier": "monkeyhear"
     },
     "monkeysee": {
-      "codepoint": 57929,
+      "codepoint": 57643,
       "fontFamily": "Fxemoji",
       "identifier": "monkeysee"
     },
-    "monkeyspeak": {
-      "codepoint": 57930,
-      "fontFamily": "Fxemoji",
-      "identifier": "monkeyspeak"
-    },
     "monorail": {
-      "codepoint": 57931,
+      "codepoint": 57644,
       "fontFamily": "Fxemoji",
       "identifier": "monorail"
     },
     "moodbubble": {
-      "codepoint": 57932,
+      "codepoint": 57645,
       "fontFamily": "Fxemoji",
       "identifier": "moodbubble"
     },
-    "moonviewingceremony": {
-      "codepoint": 57933,
-      "fontFamily": "Fxemoji",
-      "identifier": "moonviewingceremony"
-    },
-    "motorcycle": {
-      "codepoint": 57934,
-      "fontFamily": "Fxemoji",
-      "identifier": "motorcycle"
-    },
-    "mountaincableway": {
-      "codepoint": 57935,
-      "fontFamily": "Fxemoji",
-      "identifier": "mountaincableway"
-    },
-    "mountainrailway": {
-      "codepoint": 57936,
-      "fontFamily": "Fxemoji",
-      "identifier": "mountainrailway"
-    },
     "mountfuji": {
-      "codepoint": 57937,
+      "codepoint": 57646,
       "fontFamily": "Fxemoji",
       "identifier": "mountfuji"
     },
     "mouse": {
-      "codepoint": 57938,
+      "codepoint": 57647,
       "fontFamily": "Fxemoji",
       "identifier": "mouse"
     },
     "mouseside": {
-      "codepoint": 57939,
+      "codepoint": 57648,
       "fontFamily": "Fxemoji",
       "identifier": "mouseside"
     },
     "mouth": {
-      "codepoint": 57940,
+      "codepoint": 57649,
       "fontFamily": "Fxemoji",
       "identifier": "mouth"
     },
     "moviecamera": {
-      "codepoint": 57941,
+      "codepoint": 57650,
       "fontFamily": "Fxemoji",
       "identifier": "moviecamera"
     },
     "moyai": {
-      "codepoint": 57942,
+      "codepoint": 57651,
       "fontFamily": "Fxemoji",
       "identifier": "moyai"
     },
     "multiplemusicalnotes": {
-      "codepoint": 57943,
+      "codepoint": 57652,
       "fontFamily": "Fxemoji",
       "identifier": "multiplemusicalnotes"
     },
     "mushroom": {
-      "codepoint": 57944,
+      "codepoint": 57653,
       "fontFamily": "Fxemoji",
       "identifier": "mushroom"
     },
-    "musicalkeyboard": {
-      "codepoint": 57945,
-      "fontFamily": "Fxemoji",
-      "identifier": "musicalkeyboard"
-    },
     "musicalnote": {
-      "codepoint": 57946,
+      "codepoint": 57654,
       "fontFamily": "Fxemoji",
       "identifier": "musicalnote"
     },
-    "musicalscore": {
-      "codepoint": 57947,
-      "fontFamily": "Fxemoji",
-      "identifier": "musicalscore"
-    },
     "musicascend": {
-      "codepoint": 57948,
+      "codepoint": 57655,
       "fontFamily": "Fxemoji",
       "identifier": "musicascend"
     },
     "musicdescend": {
-      "codepoint": 57949,
+      "codepoint": 57656,
       "fontFamily": "Fxemoji",
       "identifier": "musicdescend"
     },
     "nailpolish": {
-      "codepoint": 57950,
+      "codepoint": 57657,
       "fontFamily": "Fxemoji",
       "identifier": "nailpolish"
     },
     "namebadge": {
-      "codepoint": 57951,
+      "codepoint": 57658,
       "fontFamily": "Fxemoji",
       "identifier": "namebadge"
     },
     "nationalpark": {
-      "codepoint": 57952,
+      "codepoint": 57659,
       "fontFamily": "Fxemoji",
       "identifier": "nationalpark"
     },
     "negativesquaredab": {
-      "codepoint": 57953,
+      "codepoint": 57660,
       "fontFamily": "Fxemoji",
       "identifier": "negativesquaredab"
     },
-    "negativesquaredcrossmark": {
-      "codepoint": 57954,
-      "fontFamily": "Fxemoji",
-      "identifier": "negativesquaredcrossmark"
-    },
     "negativesquaredlatincapitalletterp": {
-      "codepoint": 57955,
+      "codepoint": 57661,
       "fontFamily": "Fxemoji",
       "identifier": "negativesquaredlatincapitalletterp"
     },
     "negativesquaredlatincaptiala": {
-      "codepoint": 57956,
+      "codepoint": 57662,
       "fontFamily": "Fxemoji",
       "identifier": "negativesquaredlatincaptiala"
     },
     "negativesquaredlatincaptialb": {
-      "codepoint": 57957,
+      "codepoint": 57663,
       "fontFamily": "Fxemoji",
       "identifier": "negativesquaredlatincaptialb"
     },
     "negativesquaredlatincaptialo": {
-      "codepoint": 57958,
+      "codepoint": 57664,
       "fontFamily": "Fxemoji",
       "identifier": "negativesquaredlatincaptialo"
     },
     "neutral": {
-      "codepoint": 57959,
+      "codepoint": 57665,
       "fontFamily": "Fxemoji",
       "identifier": "neutral"
     },
-    "newmoon": {
-      "codepoint": 57960,
-      "fontFamily": "Fxemoji",
-      "identifier": "newmoon"
-    },
     "newmoonwithface": {
-      "codepoint": 57961,
+      "codepoint": 57666,
       "fontFamily": "Fxemoji",
       "identifier": "newmoonwithface"
     },
-    "newspaper": {
-      "codepoint": 57962,
-      "fontFamily": "Fxemoji",
-      "identifier": "newspaper"
-    },
-    "nightwithstars": {
-      "codepoint": 57963,
-      "fontFamily": "Fxemoji",
-      "identifier": "nightwithstars"
-    },
     "nobicycles": {
-      "codepoint": 57964,
+      "codepoint": 57667,
       "fontFamily": "Fxemoji",
       "identifier": "nobicycles"
     },
     "noentry": {
-      "codepoint": 57965,
+      "codepoint": 57668,
       "fontFamily": "Fxemoji",
       "identifier": "noentry"
     },
     "noentrysign": {
-      "codepoint": 57966,
+      "codepoint": 57669,
       "fontFamily": "Fxemoji",
       "identifier": "noentrysign"
     },
-    "nogesture": {
-      "codepoint": 57967,
-      "fontFamily": "Fxemoji",
-      "identifier": "nogesture"
-    },
-    "nomobilephones": {
-      "codepoint": 57968,
-      "fontFamily": "Fxemoji",
-      "identifier": "nomobilephones"
-    },
     "nomouth": {
-      "codepoint": 57969,
+      "codepoint": 57670,
       "fontFamily": "Fxemoji",
       "identifier": "nomouth"
     },
     "nonpotablewatersymbol": {
-      "codepoint": 57970,
+      "codepoint": 57671,
       "fontFamily": "Fxemoji",
       "identifier": "nonpotablewatersymbol"
     },
     "nooneunder18symbol": {
-      "codepoint": 57971,
+      "codepoint": 57672,
       "fontFamily": "Fxemoji",
       "identifier": "nooneunder18symbol"
     },
     "nopedestrians": {
-      "codepoint": 57972,
+      "codepoint": 57673,
       "fontFamily": "Fxemoji",
       "identifier": "nopedestrians"
     },
-    "nopiracy": {
-      "codepoint": 57973,
-      "fontFamily": "Fxemoji",
-      "identifier": "nopiracy"
-    },
-    "northeastarrow": {
-      "codepoint": 57974,
-      "fontFamily": "Fxemoji",
-      "identifier": "northeastarrow"
-    },
-    "northwestarrow": {
-      "codepoint": 57975,
-      "fontFamily": "Fxemoji",
-      "identifier": "northwestarrow"
-    },
     "nose": {
-      "codepoint": 57976,
+      "codepoint": 57674,
       "fontFamily": "Fxemoji",
       "identifier": "nose"
     },
     "nosmokingsymbol": {
-      "codepoint": 57977,
+      "codepoint": 57675,
       "fontFamily": "Fxemoji",
       "identifier": "nosmokingsymbol"
     },
     "notchedrightsemi3dot": {
-      "codepoint": 57978,
+      "codepoint": 57676,
       "fontFamily": "Fxemoji",
       "identifier": "notchedrightsemi3dot"
     },
     "note": {
-      "codepoint": 57979,
+      "codepoint": 57677,
       "fontFamily": "Fxemoji",
       "identifier": "note"
     },
     "notebook": {
-      "codepoint": 57980,
+      "codepoint": 57678,
       "fontFamily": "Fxemoji",
       "identifier": "notebook"
     },
-    "notebookdecorativecover": {
-      "codepoint": 57981,
-      "fontFamily": "Fxemoji",
-      "identifier": "notebookdecorativecover"
-    },
     "notepad": {
-      "codepoint": 57982,
+      "codepoint": 57679,
       "fontFamily": "Fxemoji",
       "identifier": "notepad"
     },
     "notepage": {
-      "codepoint": 57983,
+      "codepoint": 57680,
       "fontFamily": "Fxemoji",
       "identifier": "notepage"
     },
-    "nutandbolt": {
-      "codepoint": 57984,
-      "fontFamily": "Fxemoji",
-      "identifier": "nutandbolt"
-    },
     "octopus": {
-      "codepoint": 57985,
+      "codepoint": 57681,
       "fontFamily": "Fxemoji",
       "identifier": "octopus"
     },
-    "oden": {
-      "codepoint": 57986,
-      "fontFamily": "Fxemoji",
-      "identifier": "oden"
-    },
-    "officebuilding": {
-      "codepoint": 57987,
-      "fontFamily": "Fxemoji",
-      "identifier": "officebuilding"
-    },
-    "ogre": {
-      "codepoint": 57988,
-      "fontFamily": "Fxemoji",
-      "identifier": "ogre"
-    },
-    "okgesture": {
-      "codepoint": 57989,
-      "fontFamily": "Fxemoji",
-      "identifier": "okgesture"
-    },
     "oldkey": {
-      "codepoint": 57990,
+      "codepoint": 57682,
       "fontFamily": "Fxemoji",
       "identifier": "oldkey"
     },
     "oldpersonalcomputer": {
-      "codepoint": 57991,
+      "codepoint": 57683,
       "fontFamily": "Fxemoji",
       "identifier": "oldpersonalcomputer"
     },
     "omsymbol": {
-      "codepoint": 57992,
+      "codepoint": 57684,
       "fontFamily": "Fxemoji",
       "identifier": "omsymbol"
     },
     "onarrowleftright": {
-      "codepoint": 57993,
+      "codepoint": 57685,
       "fontFamily": "Fxemoji",
       "identifier": "onarrowleftright"
     },
     "oncomingautomobile": {
-      "codepoint": 57994,
+      "codepoint": 57686,
       "fontFamily": "Fxemoji",
       "identifier": "oncomingautomobile"
     },
-    "oncomingbus": {
-      "codepoint": 57995,
-      "fontFamily": "Fxemoji",
-      "identifier": "oncomingbus"
-    },
     "oncomingpolicecar": {
-      "codepoint": 57996,
+      "codepoint": 57687,
       "fontFamily": "Fxemoji",
       "identifier": "oncomingpolicecar"
     },
-    "oncomingtaxi": {
-      "codepoint": 57997,
-      "fontFamily": "Fxemoji",
-      "identifier": "oncomingtaxi"
-    },
-    "onebuttonmouse": {
-      "codepoint": 57998,
-      "fontFamily": "Fxemoji",
-      "identifier": "onebuttonmouse"
-    },
-    "openbook": {
-      "codepoint": 57999,
-      "fontFamily": "Fxemoji",
-      "identifier": "openbook"
-    },
-    "openfilefolder": {
-      "codepoint": 58000,
-      "fontFamily": "Fxemoji",
-      "identifier": "openfilefolder"
-    },
     "openfolder": {
-      "codepoint": 58001,
+      "codepoint": 57688,
       "fontFamily": "Fxemoji",
       "identifier": "openfolder"
     },
     "openlock": {
-      "codepoint": 58002,
+      "codepoint": 57689,
       "fontFamily": "Fxemoji",
       "identifier": "openlock"
     },
-    "openmailboxlowered": {
-      "codepoint": 58003,
-      "fontFamily": "Fxemoji",
-      "identifier": "openmailboxlowered"
-    },
-    "openmailboxraised": {
-      "codepoint": 58004,
-      "fontFamily": "Fxemoji",
-      "identifier": "openmailboxraised"
-    },
     "openmouth": {
-      "codepoint": 58005,
+      "codepoint": 57690,
       "fontFamily": "Fxemoji",
       "identifier": "openmouth"
     },
     "ophiuchus": {
-      "codepoint": 58006,
+      "codepoint": 57691,
       "fontFamily": "Fxemoji",
       "identifier": "ophiuchus"
     },
     "opticaldisc": {
-      "codepoint": 58007,
+      "codepoint": 57692,
       "fontFamily": "Fxemoji",
       "identifier": "opticaldisc"
     },
     "opticaldiscicon": {
-      "codepoint": 58008,
+      "codepoint": 57693,
       "fontFamily": "Fxemoji",
       "identifier": "opticaldiscicon"
     },
     "orangebook": {
-      "codepoint": 58009,
+      "codepoint": 57694,
       "fontFamily": "Fxemoji",
       "identifier": "orangebook"
     },
-    "outbox": {
-      "codepoint": 58010,
-      "fontFamily": "Fxemoji",
-      "identifier": "outbox"
-    },
     "overlap": {
-      "codepoint": 58011,
+      "codepoint": 57695,
       "fontFamily": "Fxemoji",
       "identifier": "overlap"
     },
     "ox": {
-      "codepoint": 58012,
+      "codepoint": 57696,
       "fontFamily": "Fxemoji",
       "identifier": "ox"
     },
-    "package": {
-      "codepoint": 58013,
-      "fontFamily": "Fxemoji",
-      "identifier": "package"
-    },
-    "page": {
-      "codepoint": 58014,
-      "fontFamily": "Fxemoji",
-      "identifier": "page"
-    },
     "pagefacingup": {
-      "codepoint": 58015,
+      "codepoint": 57697,
       "fontFamily": "Fxemoji",
       "identifier": "pagefacingup"
     },
-    "pager": {
-      "codepoint": 58016,
-      "fontFamily": "Fxemoji",
-      "identifier": "pager"
-    },
-    "pages": {
-      "codepoint": 58017,
-      "fontFamily": "Fxemoji",
-      "identifier": "pages"
-    },
-    "pagewithcircledtext": {
-      "codepoint": 58018,
-      "fontFamily": "Fxemoji",
-      "identifier": "pagewithcircledtext"
-    },
     "pagewithcurl": {
-      "codepoint": 58019,
+      "codepoint": 57698,
       "fontFamily": "Fxemoji",
       "identifier": "pagewithcurl"
     },
     "palmtree": {
-      "codepoint": 58020,
+      "codepoint": 57699,
       "fontFamily": "Fxemoji",
       "identifier": "palmtree"
     },
-    "pandaface": {
-      "codepoint": 58021,
-      "fontFamily": "Fxemoji",
-      "identifier": "pandaface"
-    },
     "paperclip": {
-      "codepoint": 58022,
+      "codepoint": 57700,
       "fontFamily": "Fxemoji",
       "identifier": "paperclip"
     },
     "partalternationmark": {
-      "codepoint": 58023,
+      "codepoint": 57701,
       "fontFamily": "Fxemoji",
       "identifier": "partalternationmark"
     },
-    "partypopper": {
-      "codepoint": 58024,
-      "fontFamily": "Fxemoji",
-      "identifier": "partypopper"
-    },
-    "passportcontrol": {
-      "codepoint": 58025,
-      "fontFamily": "Fxemoji",
-      "identifier": "passportcontrol"
-    },
     "pawprints": {
-      "codepoint": 58026,
+      "codepoint": 57702,
       "fontFamily": "Fxemoji",
       "identifier": "pawprints"
     },
-    "peach": {
-      "codepoint": 58027,
-      "fontFamily": "Fxemoji",
-      "identifier": "peach"
-    },
-    "pear": {
-      "codepoint": 58028,
-      "fontFamily": "Fxemoji",
-      "identifier": "pear"
-    },
-    "pencil": {
-      "codepoint": 58029,
-      "fontFamily": "Fxemoji",
-      "identifier": "pencil"
-    },
-    "penguin": {
-      "codepoint": 58030,
-      "fontFamily": "Fxemoji",
-      "identifier": "penguin"
-    },
-    "penoverstampedenvelope": {
-      "codepoint": 58031,
-      "fontFamily": "Fxemoji",
-      "identifier": "penoverstampedenvelope"
-    },
     "pensive": {
-      "codepoint": 58032,
+      "codepoint": 57703,
       "fontFamily": "Fxemoji",
       "identifier": "pensive"
     },
     "performingarts": {
-      "codepoint": 58033,
+      "codepoint": 57704,
       "fontFamily": "Fxemoji",
       "identifier": "performingarts"
     },
     "perservere": {
-      "codepoint": 58034,
+      "codepoint": 57705,
       "fontFamily": "Fxemoji",
       "identifier": "perservere"
     },
-    "personalcomputer": {
-      "codepoint": 58035,
-      "fontFamily": "Fxemoji",
-      "identifier": "personalcomputer"
-    },
-    "phonerightarrowleft": {
-      "codepoint": 58036,
-      "fontFamily": "Fxemoji",
-      "identifier": "phonerightarrowleft"
-    },
-    "phonewithpage": {
-      "codepoint": 58037,
-      "fontFamily": "Fxemoji",
-      "identifier": "phonewithpage"
-    },
     "pig": {
-      "codepoint": 58038,
+      "codepoint": 57706,
       "fontFamily": "Fxemoji",
       "identifier": "pig"
     },
     "pigside": {
-      "codepoint": 58039,
+      "codepoint": 57707,
       "fontFamily": "Fxemoji",
       "identifier": "pigside"
     },
     "pigsnout": {
-      "codepoint": 58040,
+      "codepoint": 57708,
       "fontFamily": "Fxemoji",
       "identifier": "pigsnout"
     },
-    "pill": {
-      "codepoint": 58041,
-      "fontFamily": "Fxemoji",
-      "identifier": "pill"
-    },
     "pineapple": {
-      "codepoint": 58042,
+      "codepoint": 57709,
       "fontFamily": "Fxemoji",
       "identifier": "pineapple"
     },
-    "pinedecoration": {
-      "codepoint": 58043,
-      "fontFamily": "Fxemoji",
-      "identifier": "pinedecoration"
-    },
     "pinkwallet": {
-      "codepoint": 58044,
+      "codepoint": 57710,
       "fontFamily": "Fxemoji",
       "identifier": "pinkwallet"
     },
     "pisces": {
-      "codepoint": 58045,
+      "codepoint": 57711,
       "fontFamily": "Fxemoji",
       "identifier": "pisces"
     },
     "pistol": {
-      "codepoint": 58046,
+      "codepoint": 57712,
       "fontFamily": "Fxemoji",
       "identifier": "pistol"
     },
-    "playingcardblackjoker": {
-      "codepoint": 58047,
-      "fontFamily": "Fxemoji",
-      "identifier": "playingcardblackjoker"
-    },
     "policecar": {
-      "codepoint": 58048,
+      "codepoint": 57713,
       "fontFamily": "Fxemoji",
       "identifier": "policecar"
     },
-    "policecarsrevolvinglight": {
-      "codepoint": 58049,
-      "fontFamily": "Fxemoji",
-      "identifier": "policecarsrevolvinglight"
-    },
-    "poo": {
-      "codepoint": 58050,
-      "fontFamily": "Fxemoji",
-      "identifier": "poo"
-    },
-    "poodle": {
-      "codepoint": 58051,
-      "fontFamily": "Fxemoji",
-      "identifier": "poodle"
-    },
-    "portablestereo": {
-      "codepoint": 58052,
-      "fontFamily": "Fxemoji",
-      "identifier": "portablestereo"
-    },
-    "postalhorn": {
-      "codepoint": 58053,
-      "fontFamily": "Fxemoji",
-      "identifier": "postalhorn"
-    },
-    "postbox": {
-      "codepoint": 58054,
-      "fontFamily": "Fxemoji",
-      "identifier": "postbox"
-    },
     "potablewatersystem": {
-      "codepoint": 58055,
+      "codepoint": 57714,
       "fontFamily": "Fxemoji",
       "identifier": "potablewatersystem"
     },
-    "potoffood": {
-      "codepoint": 58056,
-      "fontFamily": "Fxemoji",
-      "identifier": "potoffood"
-    },
-    "poultryleg": {
-      "codepoint": 58057,
-      "fontFamily": "Fxemoji",
-      "identifier": "poultryleg"
-    },
-    "pout": {
-      "codepoint": 58058,
-      "fontFamily": "Fxemoji",
-      "identifier": "pout"
-    },
     "pouting": {
-      "codepoint": 58059,
+      "codepoint": 57715,
       "fontFamily": "Fxemoji",
       "identifier": "pouting"
     },
     "pray": {
-      "codepoint": 58060,
+      "codepoint": 57716,
       "fontFamily": "Fxemoji",
       "identifier": "pray"
     },
-    "present": {
-      "codepoint": 58061,
-      "fontFamily": "Fxemoji",
-      "identifier": "present"
-    },
-    "princess": {
-      "codepoint": 58062,
-      "fontFamily": "Fxemoji",
-      "identifier": "princess"
-    },
     "printer": {
-      "codepoint": 58063,
+      "codepoint": 57717,
       "fontFamily": "Fxemoji",
       "identifier": "printer"
     },
-    "printericon": {
-      "codepoint": 58064,
-      "fontFamily": "Fxemoji",
-      "identifier": "printericon"
-    },
-    "pushpin": {
-      "codepoint": 58065,
-      "fontFamily": "Fxemoji",
-      "identifier": "pushpin"
-    },
-    "putlitterinitsplacesymbol": {
-      "codepoint": 58066,
-      "fontFamily": "Fxemoji",
-      "identifier": "putlitterinitsplacesymbol"
-    },
-    "racecar": {
-      "codepoint": 58067,
-      "fontFamily": "Fxemoji",
-      "identifier": "racecar"
-    },
-    "radio": {
-      "codepoint": 58068,
-      "fontFamily": "Fxemoji",
-      "identifier": "radio"
-    },
-    "radiobutton": {
-      "codepoint": 58069,
-      "fontFamily": "Fxemoji",
-      "identifier": "radiobutton"
-    },
-    "railwaycar": {
-      "codepoint": 58070,
-      "fontFamily": "Fxemoji",
-      "identifier": "railwaycar"
-    },
     "rainbow": {
-      "codepoint": 58071,
+      "codepoint": 57718,
       "fontFamily": "Fxemoji",
       "identifier": "rainbow"
     },
     "raincloud": {
-      "codepoint": 58072,
+      "codepoint": 57719,
       "fontFamily": "Fxemoji",
       "identifier": "raincloud"
     },
     "raisedfist": {
-      "codepoint": 58073,
+      "codepoint": 57720,
       "fontFamily": "Fxemoji",
       "identifier": "raisedfist"
     },
     "raisedhandpartfingers": {
-      "codepoint": 58074,
+      "codepoint": 57721,
       "fontFamily": "Fxemoji",
       "identifier": "raisedhandpartfingers"
     },
     "raisedhandsfingerssplayed": {
-      "codepoint": 58075,
+      "codepoint": 57722,
       "fontFamily": "Fxemoji",
       "identifier": "raisedhandsfingerssplayed"
     },
     "ram": {
-      "codepoint": 58076,
+      "codepoint": 57723,
       "fontFamily": "Fxemoji",
       "identifier": "ram"
     },
-    "rat": {
-      "codepoint": 58077,
-      "fontFamily": "Fxemoji",
-      "identifier": "rat"
-    },
-    "recreationalvehicle": {
-      "codepoint": 58078,
-      "fontFamily": "Fxemoji",
-      "identifier": "recreationalvehicle"
-    },
-    "redapple": {
-      "codepoint": 58079,
-      "fontFamily": "Fxemoji",
-      "identifier": "redapple"
-    },
-    "redheart": {
-      "codepoint": 58080,
-      "fontFamily": "Fxemoji",
-      "identifier": "redheart"
-    },
-    "regionalindicatorb": {
-      "codepoint": 58081,
-      "fontFamily": "Fxemoji",
-      "identifier": "regionalindicatorb"
-    },
-    "regionalindicatorc": {
-      "codepoint": 58082,
-      "fontFamily": "Fxemoji",
-      "identifier": "regionalindicatorc"
-    },
-    "regionalindicatore": {
-      "codepoint": 58083,
-      "fontFamily": "Fxemoji",
-      "identifier": "regionalindicatore"
-    },
-    "regionalindicatorf": {
-      "codepoint": 58084,
-      "fontFamily": "Fxemoji",
-      "identifier": "regionalindicatorf"
-    },
-    "regionalindicatorg": {
-      "codepoint": 58085,
-      "fontFamily": "Fxemoji",
-      "identifier": "regionalindicatorg"
-    },
-    "regionalindicatori": {
-      "codepoint": 58086,
-      "fontFamily": "Fxemoji",
-      "identifier": "regionalindicatori"
-    },
-    "regionalindicatorj": {
-      "codepoint": 58087,
-      "fontFamily": "Fxemoji",
-      "identifier": "regionalindicatorj"
-    },
-    "regionalindicatork": {
-      "codepoint": 58088,
-      "fontFamily": "Fxemoji",
-      "identifier": "regionalindicatork"
-    },
-    "regionalindicatorn": {
-      "codepoint": 58089,
-      "fontFamily": "Fxemoji",
-      "identifier": "regionalindicatorn"
-    },
-    "regionalindicatorp": {
-      "codepoint": 58090,
-      "fontFamily": "Fxemoji",
-      "identifier": "regionalindicatorp"
-    },
-    "regionalindicatorr": {
-      "codepoint": 58091,
-      "fontFamily": "Fxemoji",
-      "identifier": "regionalindicatorr"
-    },
-    "regionalindicators": {
-      "codepoint": 58092,
-      "fontFamily": "Fxemoji",
-      "identifier": "regionalindicators"
-    },
-    "regionalindicatort": {
-      "codepoint": 58093,
-      "fontFamily": "Fxemoji",
-      "identifier": "regionalindicatort"
-    },
-    "regionalindicatoru": {
-      "codepoint": 58094,
-      "fontFamily": "Fxemoji",
-      "identifier": "regionalindicatoru"
-    },
     "relieved": {
-      "codepoint": 58095,
+      "codepoint": 57724,
       "fontFamily": "Fxemoji",
       "identifier": "relieved"
     },
     "reminder": {
-      "codepoint": 58096,
+      "codepoint": 57725,
       "fontFamily": "Fxemoji",
       "identifier": "reminder"
     },
-    "restroom": {
-      "codepoint": 58097,
-      "fontFamily": "Fxemoji",
-      "identifier": "restroom"
-    },
     "reversehandmiddlefinger": {
-      "codepoint": 58098,
+      "codepoint": 57726,
       "fontFamily": "Fxemoji",
       "identifier": "reversehandmiddlefinger"
     },
     "reverseraisedhandsfingerssplayed": {
-      "codepoint": 58099,
+      "codepoint": 57727,
       "fontFamily": "Fxemoji",
       "identifier": "reverseraisedhandsfingerssplayed"
     },
     "reversethumbsdown": {
-      "codepoint": 58100,
+      "codepoint": 57728,
       "fontFamily": "Fxemoji",
       "identifier": "reversethumbsdown"
     },
     "reversethumbsup": {
-      "codepoint": 58101,
+      "codepoint": 57729,
       "fontFamily": "Fxemoji",
       "identifier": "reversethumbsup"
     },
     "reversevictoryhand": {
-      "codepoint": 58102,
+      "codepoint": 57730,
       "fontFamily": "Fxemoji",
       "identifier": "reversevictoryhand"
     },
     "revolvinghearts": {
-      "codepoint": 58103,
+      "codepoint": 57731,
       "fontFamily": "Fxemoji",
       "identifier": "revolvinghearts"
     },
-    "riceball": {
-      "codepoint": 58104,
-      "fontFamily": "Fxemoji",
-      "identifier": "riceball"
-    },
-    "ricecracker": {
-      "codepoint": 58105,
-      "fontFamily": "Fxemoji",
-      "identifier": "ricecracker"
-    },
     "right": {
-      "codepoint": 58106,
+      "codepoint": 57732,
       "fontFamily": "Fxemoji",
       "identifier": "right"
     },
     "rightangerbubble": {
-      "codepoint": 58107,
+      "codepoint": 57733,
       "fontFamily": "Fxemoji",
       "identifier": "rightangerbubble"
     },
-    "righthandphone": {
-      "codepoint": 58108,
-      "fontFamily": "Fxemoji",
-      "identifier": "righthandphone"
-    },
-    "rightmagnifyingglass": {
-      "codepoint": 58109,
-      "fontFamily": "Fxemoji",
-      "identifier": "rightmagnifyingglass"
-    },
     "rightspeaker": {
-      "codepoint": 58110,
+      "codepoint": 57734,
       "fontFamily": "Fxemoji",
       "identifier": "rightspeaker"
     },
     "rightspeaker3soundwaves": {
-      "codepoint": 58111,
+      "codepoint": 57735,
       "fontFamily": "Fxemoji",
       "identifier": "rightspeaker3soundwaves"
     },
     "rightspeechbubble": {
-      "codepoint": 58112,
+      "codepoint": 57736,
       "fontFamily": "Fxemoji",
       "identifier": "rightspeechbubble"
     },
     "rightthoughtbubble": {
-      "codepoint": 58113,
+      "codepoint": 57737,
       "fontFamily": "Fxemoji",
       "identifier": "rightthoughtbubble"
     },
-    "rightwardsarrowwithhook": {
-      "codepoint": 58114,
-      "fontFamily": "Fxemoji",
-      "identifier": "rightwardsarrowwithhook"
-    },
     "ring": {
-      "codepoint": 58115,
+      "codepoint": 57738,
       "fontFamily": "Fxemoji",
       "identifier": "ring"
     },
     "ringingbell": {
-      "codepoint": 58116,
+      "codepoint": 57739,
       "fontFamily": "Fxemoji",
       "identifier": "ringingbell"
     },
-    "roastedsweetpotato": {
-      "codepoint": 58117,
-      "fontFamily": "Fxemoji",
-      "identifier": "roastedsweetpotato"
-    },
     "rocket": {
-      "codepoint": 58118,
+      "codepoint": 57740,
       "fontFamily": "Fxemoji",
       "identifier": "rocket"
     },
-    "rolledupnewspaper": {
-      "codepoint": 58119,
-      "fontFamily": "Fxemoji",
-      "identifier": "rolledupnewspaper"
-    },
-    "rollercoaster": {
-      "codepoint": 58120,
-      "fontFamily": "Fxemoji",
-      "identifier": "rollercoaster"
-    },
     "rooster": {
-      "codepoint": 58121,
+      "codepoint": 57741,
       "fontFamily": "Fxemoji",
       "identifier": "rooster"
     },
     "rose": {
-      "codepoint": 58122,
+      "codepoint": 57742,
       "fontFamily": "Fxemoji",
       "identifier": "rose"
     },
     "rosette": {
-      "codepoint": 58123,
+      "codepoint": 57743,
       "fontFamily": "Fxemoji",
       "identifier": "rosette"
     },
-    "roundpushpin": {
-      "codepoint": 58124,
-      "fontFamily": "Fxemoji",
-      "identifier": "roundpushpin"
-    },
-    "rowboat": {
-      "codepoint": 58125,
-      "fontFamily": "Fxemoji",
-      "identifier": "rowboat"
-    },
     "rugbyfootball": {
-      "codepoint": 58126,
+      "codepoint": 57744,
       "fontFamily": "Fxemoji",
       "identifier": "rugbyfootball"
     },
-    "running": {
-      "codepoint": 58127,
-      "fontFamily": "Fxemoji",
-      "identifier": "running"
-    },
-    "runningshirt": {
-      "codepoint": 58128,
-      "fontFamily": "Fxemoji",
-      "identifier": "runningshirt"
-    },
-    "russianflag": {
-      "codepoint": 58129,
-      "fontFamily": "Fxemoji",
-      "identifier": "russianflag"
-    },
     "saggitarius": {
-      "codepoint": 58130,
+      "codepoint": 57745,
       "fontFamily": "Fxemoji",
       "identifier": "saggitarius"
     },
     "sailboat": {
-      "codepoint": 58131,
+      "codepoint": 57746,
       "fontFamily": "Fxemoji",
       "identifier": "sailboat"
     },
     "sakebottleandcup": {
-      "codepoint": 58132,
+      "codepoint": 57747,
       "fontFamily": "Fxemoji",
       "identifier": "sakebottleandcup"
     },
-    "sandals": {
-      "codepoint": 58133,
-      "fontFamily": "Fxemoji",
-      "identifier": "sandals"
-    },
     "satelliteantenna": {
-      "codepoint": 58134,
+      "codepoint": 57748,
       "fontFamily": "Fxemoji",
       "identifier": "satelliteantenna"
     },
-    "saxophone": {
-      "codepoint": 58135,
-      "fontFamily": "Fxemoji",
-      "identifier": "saxophone"
-    },
-    "school": {
-      "codepoint": 58136,
-      "fontFamily": "Fxemoji",
-      "identifier": "school"
-    },
-    "schoolsatchel": {
-      "codepoint": 58137,
-      "fontFamily": "Fxemoji",
-      "identifier": "schoolsatchel"
-    },
     "scorpius": {
-      "codepoint": 58138,
+      "codepoint": 57749,
       "fontFamily": "Fxemoji",
       "identifier": "scorpius"
     },
     "screamfear": {
-      "codepoint": 58139,
+      "codepoint": 57750,
       "fontFamily": "Fxemoji",
       "identifier": "screamfear"
     },
     "screen": {
-      "codepoint": 58140,
+      "codepoint": 57751,
       "fontFamily": "Fxemoji",
       "identifier": "screen"
     },
-    "scroll": {
-      "codepoint": 58141,
-      "fontFamily": "Fxemoji",
-      "identifier": "scroll"
-    },
-    "seat": {
-      "codepoint": 58142,
-      "fontFamily": "Fxemoji",
-      "identifier": "seat"
-    },
     "seedling": {
-      "codepoint": 58143,
+      "codepoint": 57752,
       "fontFamily": "Fxemoji",
       "identifier": "seedling"
     },
-    "shavedice": {
-      "codepoint": 58144,
-      "fontFamily": "Fxemoji",
-      "identifier": "shavedice"
-    },
-    "sheep": {
-      "codepoint": 58145,
-      "fontFamily": "Fxemoji",
-      "identifier": "sheep"
-    },
     "ship": {
-      "codepoint": 58146,
+      "codepoint": 57753,
       "fontFamily": "Fxemoji",
       "identifier": "ship"
     },
-    "shootingstar": {
-      "codepoint": 58147,
-      "fontFamily": "Fxemoji",
-      "identifier": "shootingstar"
-    },
-    "shortcake": {
-      "codepoint": 58148,
-      "fontFamily": "Fxemoji",
-      "identifier": "shortcake"
-    },
-    "shower": {
-      "codepoint": 58149,
-      "fontFamily": "Fxemoji",
-      "identifier": "shower"
-    },
     "sidewaysblackdownpointingindex": {
-      "codepoint": 58150,
+      "codepoint": 57754,
       "fontFamily": "Fxemoji",
       "identifier": "sidewaysblackdownpointingindex"
     },
     "sidewaysblackleftpointingindex": {
-      "codepoint": 58151,
+      "codepoint": 57755,
       "fontFamily": "Fxemoji",
       "identifier": "sidewaysblackleftpointingindex"
     },
     "sidewaysblackrightpointingindex": {
-      "codepoint": 58152,
+      "codepoint": 57756,
       "fontFamily": "Fxemoji",
       "identifier": "sidewaysblackrightpointingindex"
     },
     "sidewaysblackuppointingindex": {
-      "codepoint": 58153,
+      "codepoint": 57757,
       "fontFamily": "Fxemoji",
       "identifier": "sidewaysblackuppointingindex"
     },
     "sidewaysdownpointingindex": {
-      "codepoint": 58154,
+      "codepoint": 57758,
       "fontFamily": "Fxemoji",
       "identifier": "sidewaysdownpointingindex"
     },
     "sidewaysleftpointingindex": {
-      "codepoint": 58155,
+      "codepoint": 57759,
       "fontFamily": "Fxemoji",
       "identifier": "sidewaysleftpointingindex"
     },
     "sidewaysrightpointingindex": {
-      "codepoint": 58156,
+      "codepoint": 57760,
       "fontFamily": "Fxemoji",
       "identifier": "sidewaysrightpointingindex"
     },
     "sidewaysuppointingindex": {
-      "codepoint": 58157,
+      "codepoint": 57761,
       "fontFamily": "Fxemoji",
       "identifier": "sidewaysuppointingindex"
     },
     "silhouetteohjapan": {
-      "codepoint": 58158,
+      "codepoint": 57762,
       "fontFamily": "Fxemoji",
       "identifier": "silhouetteohjapan"
     },
     "sixpointedstarwithdot": {
-      "codepoint": 58159,
+      "codepoint": 57763,
       "fontFamily": "Fxemoji",
       "identifier": "sixpointedstarwithdot"
     },
-    "skiandskiboot": {
-      "codepoint": 58160,
-      "fontFamily": "Fxemoji",
-      "identifier": "skiandskiboot"
-    },
-    "skull": {
-      "codepoint": 58161,
-      "fontFamily": "Fxemoji",
-      "identifier": "skull"
-    },
-    "sleeping": {
-      "codepoint": 58162,
-      "fontFamily": "Fxemoji",
-      "identifier": "sleeping"
-    },
     "sleepy": {
-      "codepoint": 58163,
+      "codepoint": 57764,
       "fontFamily": "Fxemoji",
       "identifier": "sleepy"
     },
     "sleuthspy": {
-      "codepoint": 58164,
+      "codepoint": 57765,
       "fontFamily": "Fxemoji",
       "identifier": "sleuthspy"
     },
-    "sliceofpizza": {
-      "codepoint": 58165,
-      "fontFamily": "Fxemoji",
-      "identifier": "sliceofpizza"
-    },
     "slotmachine": {
-      "codepoint": 58166,
+      "codepoint": 57766,
       "fontFamily": "Fxemoji",
       "identifier": "slotmachine"
     },
     "smallbluediamond": {
-      "codepoint": 58167,
+      "codepoint": 57767,
       "fontFamily": "Fxemoji",
       "identifier": "smallbluediamond"
     },
     "smallfrown": {
-      "codepoint": 58168,
+      "codepoint": 57768,
       "fontFamily": "Fxemoji",
       "identifier": "smallfrown"
     },
-    "smallorangediamond": {
-      "codepoint": 58169,
-      "fontFamily": "Fxemoji",
-      "identifier": "smallorangediamond"
-    },
     "smallsmile": {
-      "codepoint": 58170,
+      "codepoint": 57769,
       "fontFamily": "Fxemoji",
       "identifier": "smallsmile"
     },
     "smileeyes": {
-      "codepoint": 58171,
+      "codepoint": 57770,
       "fontFamily": "Fxemoji",
       "identifier": "smileeyes"
     },
     "smiletongue": {
-      "codepoint": 58172,
+      "codepoint": 57771,
       "fontFamily": "Fxemoji",
       "identifier": "smiletongue"
     },
     "smirk": {
-      "codepoint": 58173,
+      "codepoint": 57772,
       "fontFamily": "Fxemoji",
       "identifier": "smirk"
     },
-    "smokingsymbol": {
-      "codepoint": 58174,
-      "fontFamily": "Fxemoji",
-      "identifier": "smokingsymbol"
-    },
-    "snail": {
-      "codepoint": 58175,
-      "fontFamily": "Fxemoji",
-      "identifier": "snail"
-    },
-    "snake": {
-      "codepoint": 58176,
-      "fontFamily": "Fxemoji",
-      "identifier": "snake"
-    },
-    "snowboarder": {
-      "codepoint": 58177,
-      "fontFamily": "Fxemoji",
-      "identifier": "snowboarder"
-    },
     "snowcloud": {
-      "codepoint": 58178,
+      "codepoint": 57773,
       "fontFamily": "Fxemoji",
       "identifier": "snowcloud"
     },
     "snowflake": {
-      "codepoint": 58179,
+      "codepoint": 57774,
       "fontFamily": "Fxemoji",
       "identifier": "snowflake"
     },
-    "snowmanwithoutsnow": {
-      "codepoint": 58180,
-      "fontFamily": "Fxemoji",
-      "identifier": "snowmanwithoutsnow"
-    },
-    "snowmountains": {
-      "codepoint": 58181,
-      "fontFamily": "Fxemoji",
-      "identifier": "snowmountains"
-    },
-    "soccerball": {
-      "codepoint": 58182,
-      "fontFamily": "Fxemoji",
-      "identifier": "soccerball"
-    },
-    "softicecream": {
-      "codepoint": 58183,
-      "fontFamily": "Fxemoji",
-      "identifier": "softicecream"
-    },
     "softshellfloppy": {
-      "codepoint": 58184,
+      "codepoint": 57775,
       "fontFamily": "Fxemoji",
       "identifier": "softshellfloppy"
     },
     "soonwithrightarrow": {
-      "codepoint": 58185,
+      "codepoint": 57776,
       "fontFamily": "Fxemoji",
       "identifier": "soonwithrightarrow"
     },
-    "southeastarrow": {
-      "codepoint": 58186,
-      "fontFamily": "Fxemoji",
-      "identifier": "southeastarrow"
-    },
-    "spaghetti": {
-      "codepoint": 58187,
-      "fontFamily": "Fxemoji",
-      "identifier": "spaghetti"
-    },
-    "spanishflag": {
-      "codepoint": 58188,
-      "fontFamily": "Fxemoji",
-      "identifier": "spanishflag"
-    },
-    "sparkle": {
-      "codepoint": 58189,
-      "fontFamily": "Fxemoji",
-      "identifier": "sparkle"
-    },
     "sparkles": {
-      "codepoint": 58190,
+      "codepoint": 57777,
       "fontFamily": "Fxemoji",
       "identifier": "sparkles"
     },
-    "sparklingheart": {
-      "codepoint": 58191,
-      "fontFamily": "Fxemoji",
-      "identifier": "sparklingheart"
-    },
     "speaker": {
-      "codepoint": 58192,
+      "codepoint": 57778,
       "fontFamily": "Fxemoji",
       "identifier": "speaker"
     },
     "speaker3soundwaves": {
-      "codepoint": 58193,
+      "codepoint": 57779,
       "fontFamily": "Fxemoji",
       "identifier": "speaker3soundwaves"
     },
     "speakercancellation": {
-      "codepoint": 58194,
+      "codepoint": 57780,
       "fontFamily": "Fxemoji",
       "identifier": "speakercancellation"
     },
     "speakeronesoundwave": {
-      "codepoint": 58195,
+      "codepoint": 57781,
       "fontFamily": "Fxemoji",
       "identifier": "speakeronesoundwave"
     },
     "speakerwith1soundwave": {
-      "codepoint": 58196,
+      "codepoint": 57782,
       "fontFamily": "Fxemoji",
       "identifier": "speakerwith1soundwave"
     },
-    "speakingheadinsilhouette": {
-      "codepoint": 58197,
-      "fontFamily": "Fxemoji",
-      "identifier": "speakingheadinsilhouette"
-    },
-    "speechbubble": {
-      "codepoint": 58198,
-      "fontFamily": "Fxemoji",
-      "identifier": "speechbubble"
-    },
     "speedboat": {
-      "codepoint": 58199,
+      "codepoint": 57783,
       "fontFamily": "Fxemoji",
       "identifier": "speedboat"
     },
     "spider": {
-      "codepoint": 58200,
+      "codepoint": 57784,
       "fontFamily": "Fxemoji",
       "identifier": "spider"
     },
     "spiderweb": {
-      "codepoint": 58201,
+      "codepoint": 57785,
       "fontFamily": "Fxemoji",
       "identifier": "spiderweb"
     },
-    "spiralcalendarpad": {
-      "codepoint": 58202,
-      "fontFamily": "Fxemoji",
-      "identifier": "spiralcalendarpad"
-    },
-    "spiralnotepad": {
-      "codepoint": 58203,
-      "fontFamily": "Fxemoji",
-      "identifier": "spiralnotepad"
-    },
     "spiralshell": {
-      "codepoint": 58204,
+      "codepoint": 57786,
       "fontFamily": "Fxemoji",
       "identifier": "spiralshell"
     },
     "sportsmedal": {
-      "codepoint": 58205,
+      "codepoint": 57787,
       "fontFamily": "Fxemoji",
       "identifier": "sportsmedal"
     },
     "spurtingwhale": {
-      "codepoint": 58206,
+      "codepoint": 57788,
       "fontFamily": "Fxemoji",
       "identifier": "spurtingwhale"
     },
     "squaredcl": {
-      "codepoint": 58207,
+      "codepoint": 57789,
       "fontFamily": "Fxemoji",
       "identifier": "squaredcl"
     },
-    "squaredcool": {
-      "codepoint": 58208,
-      "fontFamily": "Fxemoji",
-      "identifier": "squaredcool"
-    },
-    "squaredfree": {
-      "codepoint": 58209,
-      "fontFamily": "Fxemoji",
-      "identifier": "squaredfree"
-    },
-    "squaredid": {
-      "codepoint": 58210,
-      "fontFamily": "Fxemoji",
-      "identifier": "squaredid"
-    },
-    "squaredkatakanakoko": {
-      "codepoint": 58211,
-      "fontFamily": "Fxemoji",
-      "identifier": "squaredkatakanakoko"
-    },
     "squaredkatakanasa": {
-      "codepoint": 58212,
+      "codepoint": 57790,
       "fontFamily": "Fxemoji",
       "identifier": "squaredkatakanasa"
     },
-    "squarednew": {
-      "codepoint": 58213,
-      "fontFamily": "Fxemoji",
-      "identifier": "squarednew"
-    },
-    "squaredng": {
-      "codepoint": 58214,
-      "fontFamily": "Fxemoji",
-      "identifier": "squaredng"
-    },
-    "squaredok": {
-      "codepoint": 58215,
-      "fontFamily": "Fxemoji",
-      "identifier": "squaredok"
-    },
     "squaredsos": {
-      "codepoint": 58216,
+      "codepoint": 57791,
       "fontFamily": "Fxemoji",
       "identifier": "squaredsos"
     },
-    "squaredup": {
-      "codepoint": 58217,
-      "fontFamily": "Fxemoji",
-      "identifier": "squaredup"
-    },
     "squaredvs": {
-      "codepoint": 58218,
+      "codepoint": 57792,
       "fontFamily": "Fxemoji",
       "identifier": "squaredvs"
     },
-    "stadium": {
-      "codepoint": 58219,
-      "fontFamily": "Fxemoji",
-      "identifier": "stadium"
-    },
     "stampedenvelope": {
-      "codepoint": 58220,
+      "codepoint": 57793,
       "fontFamily": "Fxemoji",
       "identifier": "stampedenvelope"
     },
     "star": {
-      "codepoint": 58221,
+      "codepoint": 57794,
       "fontFamily": "Fxemoji",
       "identifier": "star"
     },
-    "station": {
-      "codepoint": 58222,
-      "fontFamily": "Fxemoji",
-      "identifier": "station"
-    },
-    "statueofliberty": {
-      "codepoint": 58223,
-      "fontFamily": "Fxemoji",
-      "identifier": "statueofliberty"
-    },
     "steamingbowl": {
-      "codepoint": 58224,
+      "codepoint": 57795,
       "fontFamily": "Fxemoji",
       "identifier": "steamingbowl"
     },
-    "steamlocomotive": {
-      "codepoint": 58225,
-      "fontFamily": "Fxemoji",
-      "identifier": "steamlocomotive"
-    },
     "stockchart": {
-      "codepoint": 58226,
+      "codepoint": 57796,
       "fontFamily": "Fxemoji",
       "identifier": "stockchart"
     },
     "stormcloud": {
-      "codepoint": 58227,
+      "codepoint": 57797,
       "fontFamily": "Fxemoji",
       "identifier": "stormcloud"
     },
     "straightruler": {
-      "codepoint": 58228,
+      "codepoint": 57798,
       "fontFamily": "Fxemoji",
       "identifier": "straightruler"
     },
-    "strawberry": {
-      "codepoint": 58229,
-      "fontFamily": "Fxemoji",
-      "identifier": "strawberry"
-    },
     "studiomic": {
-      "codepoint": 58230,
+      "codepoint": 57799,
       "fontFamily": "Fxemoji",
       "identifier": "studiomic"
     },
     "sunbehindcloud": {
-      "codepoint": 58231,
+      "codepoint": 57800,
       "fontFamily": "Fxemoji",
       "identifier": "sunbehindcloud"
     },
-    "sunflower": {
-      "codepoint": 58232,
-      "fontFamily": "Fxemoji",
-      "identifier": "sunflower"
-    },
     "sunglasses": {
-      "codepoint": 58233,
+      "codepoint": 57801,
       "fontFamily": "Fxemoji",
       "identifier": "sunglasses"
     },
     "sunraincloud": {
-      "codepoint": 58234,
+      "codepoint": 57802,
       "fontFamily": "Fxemoji",
       "identifier": "sunraincloud"
     },
     "sunrays": {
-      "codepoint": 58235,
+      "codepoint": 57803,
       "fontFamily": "Fxemoji",
       "identifier": "sunrays"
     },
     "sunrise": {
-      "codepoint": 58236,
+      "codepoint": 57804,
       "fontFamily": "Fxemoji",
       "identifier": "sunrise"
     },
     "sunriseovermountains": {
-      "codepoint": 58237,
+      "codepoint": 57805,
       "fontFamily": "Fxemoji",
       "identifier": "sunriseovermountains"
     },
-    "sunsetoverbuildings": {
-      "codepoint": 58238,
-      "fontFamily": "Fxemoji",
-      "identifier": "sunsetoverbuildings"
-    },
     "sunwithface": {
-      "codepoint": 58239,
+      "codepoint": 57806,
       "fontFamily": "Fxemoji",
       "identifier": "sunwithface"
     },
-    "surfer": {
-      "codepoint": 58240,
-      "fontFamily": "Fxemoji",
-      "identifier": "surfer"
-    },
-    "sushi": {
-      "codepoint": 58241,
-      "fontFamily": "Fxemoji",
-      "identifier": "sushi"
-    },
-    "suspensionrailway": {
-      "codepoint": 58242,
-      "fontFamily": "Fxemoji",
-      "identifier": "suspensionrailway"
-    },
     "sweat": {
-      "codepoint": 58243,
+      "codepoint": 57807,
       "fontFamily": "Fxemoji",
       "identifier": "sweat"
     },
     "sweatsplash": {
-      "codepoint": 58244,
+      "codepoint": 57808,
       "fontFamily": "Fxemoji",
       "identifier": "sweatsplash"
     },
-    "swimming": {
-      "codepoint": 58245,
-      "fontFamily": "Fxemoji",
-      "identifier": "swimming"
-    },
-    "syringe": {
-      "codepoint": 58246,
-      "fontFamily": "Fxemoji",
-      "identifier": "syringe"
-    },
-    "tanabatatree": {
-      "codepoint": 58247,
-      "fontFamily": "Fxemoji",
-      "identifier": "tanabatatree"
-    },
-    "tangerine": {
-      "codepoint": 58248,
-      "fontFamily": "Fxemoji",
-      "identifier": "tangerine"
-    },
-    "tapecartridge": {
-      "codepoint": 58249,
-      "fontFamily": "Fxemoji",
-      "identifier": "tapecartridge"
-    },
     "taurus": {
-      "codepoint": 58250,
+      "codepoint": 57809,
       "fontFamily": "Fxemoji",
       "identifier": "taurus"
     },
-    "taxi": {
-      "codepoint": 58251,
-      "fontFamily": "Fxemoji",
-      "identifier": "taxi"
-    },
-    "teacupwithouthandle": {
-      "codepoint": 58252,
-      "fontFamily": "Fxemoji",
-      "identifier": "teacupwithouthandle"
-    },
     "tearoffcalendar": {
-      "codepoint": 58253,
+      "codepoint": 57810,
       "fontFamily": "Fxemoji",
       "identifier": "tearoffcalendar"
     },
-    "telephoneonmodem": {
-      "codepoint": 58254,
-      "fontFamily": "Fxemoji",
-      "identifier": "telephoneonmodem"
-    },
-    "telephonereceiver2": {
-      "codepoint": 58255,
-      "fontFamily": "Fxemoji",
-      "identifier": "telephonereceiver2"
-    },
-    "telescope": {
-      "codepoint": 58256,
-      "fontFamily": "Fxemoji",
-      "identifier": "telescope"
-    },
-    "television": {
-      "codepoint": 58257,
-      "fontFamily": "Fxemoji",
-      "identifier": "television"
-    },
-    "ten": {
-      "codepoint": 58258,
-      "fontFamily": "Fxemoji",
-      "identifier": "ten"
-    },
-    "tennisball": {
-      "codepoint": 58259,
-      "fontFamily": "Fxemoji",
-      "identifier": "tennisball"
-    },
-    "tent": {
-      "codepoint": 58260,
-      "fontFamily": "Fxemoji",
-      "identifier": "tent"
-    },
-    "thermometer": {
-      "codepoint": 58261,
-      "fontFamily": "Fxemoji",
-      "identifier": "thermometer"
-    },
     "thoughtbaloon": {
-      "codepoint": 58262,
+      "codepoint": 57811,
       "fontFamily": "Fxemoji",
       "identifier": "thoughtbaloon"
     },
-    "threebuttonmouse": {
-      "codepoint": 58263,
-      "fontFamily": "Fxemoji",
-      "identifier": "threebuttonmouse"
-    },
     "threenetworkedcomputers": {
-      "codepoint": 58264,
+      "codepoint": 57812,
       "fontFamily": "Fxemoji",
       "identifier": "threenetworkedcomputers"
     },
     "threeraysabove": {
-      "codepoint": 58265,
+      "codepoint": 57813,
       "fontFamily": "Fxemoji",
       "identifier": "threeraysabove"
     },
     "threeraysbelow": {
-      "codepoint": 58266,
+      "codepoint": 57814,
       "fontFamily": "Fxemoji",
       "identifier": "threeraysbelow"
     },
     "threeraysleft": {
-      "codepoint": 58267,
+      "codepoint": 57815,
       "fontFamily": "Fxemoji",
       "identifier": "threeraysleft"
     },
     "threeraysright": {
-      "codepoint": 58268,
+      "codepoint": 57816,
       "fontFamily": "Fxemoji",
       "identifier": "threeraysright"
     },
     "threespeechbubbles": {
-      "codepoint": 58269,
+      "codepoint": 57817,
       "fontFamily": "Fxemoji",
       "identifier": "threespeechbubbles"
     },
     "thumbsdown": {
-      "codepoint": 58270,
+      "codepoint": 57818,
       "fontFamily": "Fxemoji",
       "identifier": "thumbsdown"
     },
     "thumbsup": {
-      "codepoint": 58271,
+      "codepoint": 57819,
       "fontFamily": "Fxemoji",
       "identifier": "thumbsup"
     },
     "ticket": {
-      "codepoint": 58272,
+      "codepoint": 57820,
       "fontFamily": "Fxemoji",
       "identifier": "ticket"
     },
-    "tie": {
-      "codepoint": 58273,
-      "fontFamily": "Fxemoji",
-      "identifier": "tie"
-    },
-    "tiger": {
-      "codepoint": 58274,
-      "fontFamily": "Fxemoji",
-      "identifier": "tiger"
-    },
-    "tigerside": {
-      "codepoint": 58275,
-      "fontFamily": "Fxemoji",
-      "identifier": "tigerside"
-    },
     "tired": {
-      "codepoint": 58276,
+      "codepoint": 57821,
       "fontFamily": "Fxemoji",
       "identifier": "tired"
     },
-    "toilet": {
-      "codepoint": 58277,
-      "fontFamily": "Fxemoji",
-      "identifier": "toilet"
-    },
     "tomato": {
-      "codepoint": 58278,
+      "codepoint": 57822,
       "fontFamily": "Fxemoji",
       "identifier": "tomato"
     },
     "tongue": {
-      "codepoint": 58279,
+      "codepoint": 57823,
       "fontFamily": "Fxemoji",
       "identifier": "tongue"
     },
-    "tongueout": {
-      "codepoint": 58280,
-      "fontFamily": "Fxemoji",
-      "identifier": "tongueout"
-    },
-    "tongueoutwink": {
-      "codepoint": 58281,
-      "fontFamily": "Fxemoji",
-      "identifier": "tongueoutwink"
-    },
-    "tongueoutwink2": {
-      "codepoint": 58282,
-      "fontFamily": "Fxemoji",
-      "identifier": "tongueoutwink2"
-    },
     "tophat": {
-      "codepoint": 58283,
+      "codepoint": 57824,
       "fontFamily": "Fxemoji",
       "identifier": "tophat"
     },
     "topwithupwardsarrow": {
-      "codepoint": 58284,
+      "codepoint": 57825,
       "fontFamily": "Fxemoji",
       "identifier": "topwithupwardsarrow"
     },
-    "tornado": {
-      "codepoint": 58285,
-      "fontFamily": "Fxemoji",
-      "identifier": "tornado"
-    },
     "toykotower": {
-      "codepoint": 58286,
+      "codepoint": 57826,
       "fontFamily": "Fxemoji",
       "identifier": "toykotower"
     },
-    "trackball": {
-      "codepoint": 58287,
-      "fontFamily": "Fxemoji",
-      "identifier": "trackball"
-    },
     "tractor": {
-      "codepoint": 58288,
+      "codepoint": 57827,
       "fontFamily": "Fxemoji",
       "identifier": "tractor"
     },
-    "train": {
-      "codepoint": 58289,
-      "fontFamily": "Fxemoji",
-      "identifier": "train"
-    },
-    "tram": {
-      "codepoint": 58290,
-      "fontFamily": "Fxemoji",
-      "identifier": "tram"
-    },
     "tramcar": {
-      "codepoint": 58291,
+      "codepoint": 57828,
       "fontFamily": "Fxemoji",
       "identifier": "tramcar"
     },
     "triangularflagonpost": {
-      "codepoint": 58292,
+      "codepoint": 57829,
       "fontFamily": "Fxemoji",
       "identifier": "triangularflagonpost"
     },
     "triangularruler": {
-      "codepoint": 58293,
+      "codepoint": 57830,
       "fontFamily": "Fxemoji",
       "identifier": "triangularruler"
     },
     "tridentemblem": {
-      "codepoint": 58294,
+      "codepoint": 57831,
       "fontFamily": "Fxemoji",
       "identifier": "tridentemblem"
     },
     "triumph": {
-      "codepoint": 58295,
+      "codepoint": 57832,
       "fontFamily": "Fxemoji",
       "identifier": "triumph"
     },
-    "trolleybus": {
-      "codepoint": 58296,
-      "fontFamily": "Fxemoji",
-      "identifier": "trolleybus"
-    },
     "trophy": {
-      "codepoint": 58297,
+      "codepoint": 57833,
       "fontFamily": "Fxemoji",
       "identifier": "trophy"
     },
-    "tropicaldrink": {
-      "codepoint": 58298,
-      "fontFamily": "Fxemoji",
-      "identifier": "tropicaldrink"
-    },
-    "tropicalfish": {
-      "codepoint": 58299,
-      "fontFamily": "Fxemoji",
-      "identifier": "tropicalfish"
-    },
     "trumpet": {
-      "codepoint": 58300,
+      "codepoint": 57834,
       "fontFamily": "Fxemoji",
       "identifier": "trumpet"
     },
-    "tulip": {
-      "codepoint": 58301,
-      "fontFamily": "Fxemoji",
-      "identifier": "tulip"
-    },
-    "turban": {
-      "codepoint": 58302,
-      "fontFamily": "Fxemoji",
-      "identifier": "turban"
-    },
     "turnedokhand": {
-      "codepoint": 58303,
+      "codepoint": 57835,
       "fontFamily": "Fxemoji",
       "identifier": "turnedokhand"
     },
     "turtle": {
-      "codepoint": 58304,
+      "codepoint": 57836,
       "fontFamily": "Fxemoji",
       "identifier": "turtle"
     },
-    "twistedrightwardsarrows": {
-      "codepoint": 58305,
-      "fontFamily": "Fxemoji",
-      "identifier": "twistedrightwardsarrows"
-    },
-    "twobuttonmouse": {
-      "codepoint": 58306,
-      "fontFamily": "Fxemoji",
-      "identifier": "twobuttonmouse"
-    },
     "twospeechbubbles": {
-      "codepoint": 58307,
+      "codepoint": 57837,
       "fontFamily": "Fxemoji",
       "identifier": "twospeechbubbles"
     },
-    "umbrella": {
-      "codepoint": 58308,
-      "fontFamily": "Fxemoji",
-      "identifier": "umbrella"
-    },
-    "umbrellawithraindrops": {
-      "codepoint": 58309,
-      "fontFamily": "Fxemoji",
-      "identifier": "umbrellawithraindrops"
-    },
     "unamused": {
-      "codepoint": 58310,
+      "codepoint": 57838,
       "fontFamily": "Fxemoji",
       "identifier": "unamused"
     },
     "up": {
-      "codepoint": 58311,
+      "codepoint": 57839,
       "fontFamily": "Fxemoji",
       "identifier": "up"
     },
-    "updownarrow": {
-      "codepoint": 58312,
-      "fontFamily": "Fxemoji",
-      "identifier": "updownarrow"
-    },
     "upperrightwhitecircle": {
-      "codepoint": 58313,
+      "codepoint": 57840,
       "fontFamily": "Fxemoji",
       "identifier": "upperrightwhitecircle"
     },
     "uppointingredtriangle": {
-      "codepoint": 58314,
+      "codepoint": 57841,
       "fontFamily": "Fxemoji",
       "identifier": "uppointingredtriangle"
     },
-    "uppointingsmallredtrisngle": {
-      "codepoint": 58315,
-      "fontFamily": "Fxemoji",
-      "identifier": "uppointingsmallredtrisngle"
-    },
-    "verticaltrafficlight": {
-      "codepoint": 58316,
-      "fontFamily": "Fxemoji",
-      "identifier": "verticaltrafficlight"
-    },
     "vibrationmode": {
-      "codepoint": 58317,
+      "codepoint": 57842,
       "fontFamily": "Fxemoji",
       "identifier": "vibrationmode"
     },
     "victoryhand": {
-      "codepoint": 58318,
+      "codepoint": 57843,
       "fontFamily": "Fxemoji",
       "identifier": "victoryhand"
     },
-    "videocasette": {
-      "codepoint": 58319,
-      "fontFamily": "Fxemoji",
-      "identifier": "videocasette"
-    },
-    "videogame": {
-      "codepoint": 58320,
-      "fontFamily": "Fxemoji",
-      "identifier": "videogame"
-    },
-    "violin": {
-      "codepoint": 58321,
-      "fontFamily": "Fxemoji",
-      "identifier": "violin"
-    },
     "virgo": {
-      "codepoint": 58322,
+      "codepoint": 57844,
       "fontFamily": "Fxemoji",
       "identifier": "virgo"
     },
-    "volcano": {
-      "codepoint": 58323,
-      "fontFamily": "Fxemoji",
-      "identifier": "volcano"
-    },
-    "waitress": {
-      "codepoint": 58324,
-      "fontFamily": "Fxemoji",
-      "identifier": "waitress"
-    },
-    "walking": {
-      "codepoint": 58325,
-      "fontFamily": "Fxemoji",
-      "identifier": "walking"
-    },
-    "waningbibbousmoon": {
-      "codepoint": 58326,
-      "fontFamily": "Fxemoji",
-      "identifier": "waningbibbousmoon"
-    },
-    "waningcrescentmoon": {
-      "codepoint": 58327,
-      "fontFamily": "Fxemoji",
-      "identifier": "waningcrescentmoon"
-    },
     "warningsign": {
-      "codepoint": 58328,
+      "codepoint": 57845,
       "fontFamily": "Fxemoji",
       "identifier": "warningsign"
     },
     "wastebasket": {
-      "codepoint": 58329,
+      "codepoint": 57846,
       "fontFamily": "Fxemoji",
       "identifier": "wastebasket"
     },
     "watch": {
-      "codepoint": 58330,
+      "codepoint": 57847,
       "fontFamily": "Fxemoji",
       "identifier": "watch"
     },
-    "waterbuffalo": {
-      "codepoint": 58331,
-      "fontFamily": "Fxemoji",
-      "identifier": "waterbuffalo"
-    },
-    "watercloset": {
-      "codepoint": 58332,
-      "fontFamily": "Fxemoji",
-      "identifier": "watercloset"
-    },
-    "watermelon": {
-      "codepoint": 58333,
-      "fontFamily": "Fxemoji",
-      "identifier": "watermelon"
-    },
     "wave": {
-      "codepoint": 58334,
+      "codepoint": 57848,
       "fontFamily": "Fxemoji",
       "identifier": "wave"
     },
     "waving": {
-      "codepoint": 58335,
+      "codepoint": 57849,
       "fontFamily": "Fxemoji",
       "identifier": "waving"
     },
     "wavydash": {
-      "codepoint": 58336,
+      "codepoint": 57850,
       "fontFamily": "Fxemoji",
       "identifier": "wavydash"
     },
-    "waxingcrescentmoon": {
-      "codepoint": 58337,
-      "fontFamily": "Fxemoji",
-      "identifier": "waxingcrescentmoon"
-    },
-    "waxinggibbousmoon": {
-      "codepoint": 58338,
-      "fontFamily": "Fxemoji",
-      "identifier": "waxinggibbousmoon"
-    },
     "weary": {
-      "codepoint": 58339,
+      "codepoint": 57851,
       "fontFamily": "Fxemoji",
       "identifier": "weary"
     },
-    "wedding": {
-      "codepoint": 58340,
-      "fontFamily": "Fxemoji",
-      "identifier": "wedding"
-    },
-    "weightlifter": {
-      "codepoint": 58341,
-      "fontFamily": "Fxemoji",
-      "identifier": "weightlifter"
-    },
     "whale": {
-      "codepoint": 58342,
+      "codepoint": 57852,
       "fontFamily": "Fxemoji",
       "identifier": "whale"
     },
     "wheelchairsymbol": {
-      "codepoint": 58343,
+      "codepoint": 57853,
       "fontFamily": "Fxemoji",
       "identifier": "wheelchairsymbol"
     },
     "whitedownpointinglefthand": {
-      "codepoint": 58344,
+      "codepoint": 57854,
       "fontFamily": "Fxemoji",
       "identifier": "whitedownpointinglefthand"
     },
     "whiteexclaimationmark": {
-      "codepoint": 58345,
+      "codepoint": 57855,
       "fontFamily": "Fxemoji",
       "identifier": "whiteexclaimationmark"
     },
     "whiteflower": {
-      "codepoint": 58346,
+      "codepoint": 57856,
       "fontFamily": "Fxemoji",
       "identifier": "whiteflower"
     },
     "whitehardshellfloppy": {
-      "codepoint": 58347,
+      "codepoint": 57857,
       "fontFamily": "Fxemoji",
       "identifier": "whitehardshellfloppy"
     },
-    "whiteheavycheckmark": {
-      "codepoint": 58348,
-      "fontFamily": "Fxemoji",
-      "identifier": "whiteheavycheckmark"
-    },
     "whitelargesquare": {
-      "codepoint": 58349,
+      "codepoint": 57858,
       "fontFamily": "Fxemoji",
       "identifier": "whitelargesquare"
     },
     "whitelatincross": {
-      "codepoint": 58350,
+      "codepoint": 57859,
       "fontFamily": "Fxemoji",
       "identifier": "whitelatincross"
     },
     "whitemediumsmallsquare": {
-      "codepoint": 58351,
+      "codepoint": 57860,
       "fontFamily": "Fxemoji",
       "identifier": "whitemediumsmallsquare"
     },
     "whitemediumsquare": {
-      "codepoint": 58352,
+      "codepoint": 57861,
       "fontFamily": "Fxemoji",
       "identifier": "whitemediumsquare"
     },
     "whitemediumstar": {
-      "codepoint": 58353,
+      "codepoint": 57862,
       "fontFamily": "Fxemoji",
       "identifier": "whitemediumstar"
     },
     "whitepennant": {
-      "codepoint": 58354,
+      "codepoint": 57863,
       "fontFamily": "Fxemoji",
       "identifier": "whitepennant"
     },
     "whitequestionmark": {
-      "codepoint": 58355,
+      "codepoint": 57864,
       "fontFamily": "Fxemoji",
       "identifier": "whitequestionmark"
     },
     "whitesmallsquare": {
-      "codepoint": 58356,
+      "codepoint": 57865,
       "fontFamily": "Fxemoji",
       "identifier": "whitesmallsquare"
     },
     "whitesmilingface": {
-      "codepoint": 58357,
+      "codepoint": 57866,
       "fontFamily": "Fxemoji",
       "identifier": "whitesmilingface"
     },
-    "whitesquarebutton": {
-      "codepoint": 58358,
-      "fontFamily": "Fxemoji",
-      "identifier": "whitesquarebutton"
-    },
     "whitestar": {
-      "codepoint": 58359,
+      "codepoint": 57867,
       "fontFamily": "Fxemoji",
       "identifier": "whitestar"
     },
     "whitesun": {
-      "codepoint": 58360,
+      "codepoint": 57868,
       "fontFamily": "Fxemoji",
       "identifier": "whitesun"
     },
     "whitesunbehindcloud": {
-      "codepoint": 58361,
+      "codepoint": 57869,
       "fontFamily": "Fxemoji",
       "identifier": "whitesunbehindcloud"
     },
     "whitesunsmallcloud": {
-      "codepoint": 58362,
+      "codepoint": 57870,
       "fontFamily": "Fxemoji",
       "identifier": "whitesunsmallcloud"
     },
     "whitetouchtonephone": {
-      "codepoint": 58363,
+      "codepoint": 57871,
       "fontFamily": "Fxemoji",
       "identifier": "whitetouchtonephone"
     },
     "windchime": {
-      "codepoint": 58364,
+      "codepoint": 57872,
       "fontFamily": "Fxemoji",
       "identifier": "windchime"
     },
-    "window": {
-      "codepoint": 58365,
-      "fontFamily": "Fxemoji",
-      "identifier": "window"
-    },
-    "wineglass": {
-      "codepoint": 58366,
-      "fontFamily": "Fxemoji",
-      "identifier": "wineglass"
-    },
     "winking": {
-      "codepoint": 58367,
+      "codepoint": 57873,
       "fontFamily": "Fxemoji",
       "identifier": "winking"
     },
-    "wiredkeyboard": {
-      "codepoint": 58368,
-      "fontFamily": "Fxemoji",
-      "identifier": "wiredkeyboard"
-    },
     "wolfface": {
-      "codepoint": 58369,
+      "codepoint": 57874,
       "fontFamily": "Fxemoji",
       "identifier": "wolfface"
     },
-    "woman": {
-      "codepoint": 58370,
-      "fontFamily": "Fxemoji",
-      "identifier": "woman"
-    },
-    "womanshat": {
-      "codepoint": 58371,
-      "fontFamily": "Fxemoji",
-      "identifier": "womanshat"
-    },
     "womansshirt": {
-      "codepoint": 58372,
+      "codepoint": 57875,
       "fontFamily": "Fxemoji",
       "identifier": "womansshirt"
     },
     "womenssymbol": {
-      "codepoint": 58373,
+      "codepoint": 57876,
       "fontFamily": "Fxemoji",
       "identifier": "womenssymbol"
     },
     "worldmap": {
-      "codepoint": 58374,
+      "codepoint": 57877,
       "fontFamily": "Fxemoji",
       "identifier": "worldmap"
     },
     "worried": {
-      "codepoint": 58375,
+      "codepoint": 57878,
       "fontFamily": "Fxemoji",
       "identifier": "worried"
     },
     "wrench": {
-      "codepoint": 58376,
+      "codepoint": 57879,
       "fontFamily": "Fxemoji",
       "identifier": "wrench"
-    },
-    "zzz": {
-      "codepoint": 58377,
-      "fontFamily": "Fxemoji",
-      "identifier": "zzz"
     }
   }
 }

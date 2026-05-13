@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/iconic/open-iconic/blob/master/ICON-LICENSE',
-  iconCount: 223,
+  iconCount: 124,
 );

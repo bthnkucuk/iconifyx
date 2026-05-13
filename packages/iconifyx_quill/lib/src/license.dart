@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/yourtempo/tempo-quill-icons/blob/main/LICENSE',
-  iconCount: 146,
+  iconCount: 104,
 );

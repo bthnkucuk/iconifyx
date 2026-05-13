@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/halfmage/majesticons/blob/main/LICENSE',
-  iconCount: 1045,
+  iconCount: 603,
 );

@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/ProCode-Software/proicons/blob/main/LICENSE',
-  iconCount: 572,
+  iconCount: 283,
 );

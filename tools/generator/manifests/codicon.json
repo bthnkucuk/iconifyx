@@ -16,2855 +16,430 @@
       "spdx": "CC-BY-4.0",
       "url": "https://github.com/microsoft/vscode-codicons/blob/main/LICENSE"
     },
-    "total": 568
+    "total": 83
   },
   "fonts": [
     {
       "family": "Codicon",
-      "nextCodepoint": 57912,
-      "iconCount": 568
+      "nextCodepoint": 57427,
+      "iconCount": 83
     }
   ],
   "icons": {
-    "account": {
-      "codepoint": 57344,
-      "fontFamily": "Codicon",
-      "identifier": "account"
-    },
-    "activate-breakpoints": {
-      "codepoint": 57345,
-      "fontFamily": "Codicon",
-      "identifier": "activateBreakpoints"
-    },
     "add": {
-      "codepoint": 57346,
+      "codepoint": 57344,
       "fontFamily": "Codicon",
       "identifier": "add"
     },
     "add-small": {
-      "codepoint": 57347,
+      "codepoint": 57345,
       "fontFamily": "Codicon",
       "identifier": "addSmall"
     },
-    "agent": {
-      "codepoint": 57348,
-      "fontFamily": "Codicon",
-      "identifier": "agent"
-    },
     "archive": {
-      "codepoint": 57349,
+      "codepoint": 57346,
       "fontFamily": "Codicon",
       "identifier": "archive"
     },
-    "arrow-both": {
-      "codepoint": 57350,
-      "fontFamily": "Codicon",
-      "identifier": "arrowBoth"
-    },
-    "arrow-circle-down": {
-      "codepoint": 57351,
-      "fontFamily": "Codicon",
-      "identifier": "arrowCircleDown"
-    },
-    "arrow-circle-left": {
-      "codepoint": 57352,
-      "fontFamily": "Codicon",
-      "identifier": "arrowCircleLeft"
-    },
-    "arrow-circle-right": {
-      "codepoint": 57353,
-      "fontFamily": "Codicon",
-      "identifier": "arrowCircleRight"
-    },
-    "arrow-circle-up": {
-      "codepoint": 57354,
-      "fontFamily": "Codicon",
-      "identifier": "arrowCircleUp"
-    },
-    "arrow-down": {
-      "codepoint": 57355,
-      "fontFamily": "Codicon",
-      "identifier": "arrowDown"
-    },
-    "arrow-left": {
-      "codepoint": 57356,
-      "fontFamily": "Codicon",
-      "identifier": "arrowLeft"
-    },
-    "arrow-right": {
-      "codepoint": 57357,
-      "fontFamily": "Codicon",
-      "identifier": "arrowRight"
-    },
-    "arrow-small-down": {
-      "codepoint": 57358,
-      "fontFamily": "Codicon",
-      "identifier": "arrowSmallDown"
-    },
-    "arrow-small-left": {
-      "codepoint": 57359,
-      "fontFamily": "Codicon",
-      "identifier": "arrowSmallLeft"
-    },
-    "arrow-small-right": {
-      "codepoint": 57360,
-      "fontFamily": "Codicon",
-      "identifier": "arrowSmallRight"
-    },
-    "arrow-small-up": {
-      "codepoint": 57361,
-      "fontFamily": "Codicon",
-      "identifier": "arrowSmallUp"
-    },
-    "arrow-swap": {
-      "codepoint": 57362,
-      "fontFamily": "Codicon",
-      "identifier": "arrowSwap"
-    },
-    "arrow-up": {
-      "codepoint": 57363,
-      "fontFamily": "Codicon",
-      "identifier": "arrowUp"
-    },
-    "ask": {
-      "codepoint": 57364,
-      "fontFamily": "Codicon",
-      "identifier": "ask"
-    },
-    "attach": {
-      "codepoint": 57365,
-      "fontFamily": "Codicon",
-      "identifier": "attach"
-    },
-    "azure": {
-      "codepoint": 57366,
-      "fontFamily": "Codicon",
-      "identifier": "azure"
-    },
-    "azure-devops": {
-      "codepoint": 57367,
-      "fontFamily": "Codicon",
-      "identifier": "azureDevops"
-    },
-    "beaker": {
-      "codepoint": 57368,
-      "fontFamily": "Codicon",
-      "identifier": "beaker"
-    },
-    "beaker-stop": {
-      "codepoint": 57369,
-      "fontFamily": "Codicon",
-      "identifier": "beakerStop"
-    },
-    "bell": {
-      "codepoint": 57370,
-      "fontFamily": "Codicon",
-      "identifier": "bell"
-    },
-    "bell-dot": {
-      "codepoint": 57371,
-      "fontFamily": "Codicon",
-      "identifier": "bellDot"
-    },
-    "bell-slash": {
-      "codepoint": 57372,
-      "fontFamily": "Codicon",
-      "identifier": "bellSlash"
-    },
-    "bell-slash-dot": {
-      "codepoint": 57373,
-      "fontFamily": "Codicon",
-      "identifier": "bellSlashDot"
-    },
     "blank": {
-      "codepoint": 57374,
+      "codepoint": 57347,
       "fontFamily": "Codicon",
       "identifier": "blank"
     },
     "bold": {
-      "codepoint": 57375,
+      "codepoint": 57348,
       "fontFamily": "Codicon",
       "identifier": "bold"
     },
-    "book": {
-      "codepoint": 57376,
-      "fontFamily": "Codicon",
-      "identifier": "book"
-    },
-    "bookmark": {
-      "codepoint": 57377,
-      "fontFamily": "Codicon",
-      "identifier": "bookmark"
-    },
-    "bracket-dot": {
-      "codepoint": 57378,
-      "fontFamily": "Codicon",
-      "identifier": "bracketDot"
-    },
-    "bracket-error": {
-      "codepoint": 57379,
-      "fontFamily": "Codicon",
-      "identifier": "bracketError"
-    },
-    "briefcase": {
-      "codepoint": 57380,
-      "fontFamily": "Codicon",
-      "identifier": "briefcase"
-    },
-    "broadcast": {
-      "codepoint": 57381,
-      "fontFamily": "Codicon",
-      "identifier": "broadcast"
-    },
     "browser": {
-      "codepoint": 57382,
+      "codepoint": 57349,
       "fontFamily": "Codicon",
       "identifier": "browser"
     },
-    "bug": {
-      "codepoint": 57383,
-      "fontFamily": "Codicon",
-      "identifier": "bug"
-    },
-    "build": {
-      "codepoint": 57384,
-      "fontFamily": "Codicon",
-      "identifier": "build"
-    },
     "calendar": {
-      "codepoint": 57385,
+      "codepoint": 57350,
       "fontFamily": "Codicon",
       "identifier": "calendar"
     },
-    "call-incoming": {
-      "codepoint": 57386,
-      "fontFamily": "Codicon",
-      "identifier": "callIncoming"
-    },
-    "call-outgoing": {
-      "codepoint": 57387,
-      "fontFamily": "Codicon",
-      "identifier": "callOutgoing"
-    },
-    "case-sensitive": {
-      "codepoint": 57388,
-      "fontFamily": "Codicon",
-      "identifier": "caseSensitive"
-    },
-    "chat-export": {
-      "codepoint": 57389,
-      "fontFamily": "Codicon",
-      "identifier": "chatExport"
-    },
-    "chat-import": {
-      "codepoint": 57390,
-      "fontFamily": "Codicon",
-      "identifier": "chatImport"
-    },
-    "chat-sparkle": {
-      "codepoint": 57391,
-      "fontFamily": "Codicon",
-      "identifier": "chatSparkle"
-    },
-    "chat-sparkle-error": {
-      "codepoint": 57392,
-      "fontFamily": "Codicon",
-      "identifier": "chatSparkleError"
-    },
-    "chat-sparkle-warning": {
-      "codepoint": 57393,
-      "fontFamily": "Codicon",
-      "identifier": "chatSparkleWarning"
-    },
-    "check": {
-      "codepoint": 57394,
-      "fontFamily": "Codicon",
-      "identifier": "check"
-    },
-    "check-all": {
-      "codepoint": 57395,
-      "fontFamily": "Codicon",
-      "identifier": "checkAll"
-    },
-    "checklist": {
-      "codepoint": 57396,
-      "fontFamily": "Codicon",
-      "identifier": "checklist"
-    },
-    "chevron-down": {
-      "codepoint": 57397,
-      "fontFamily": "Codicon",
-      "identifier": "chevronDown"
-    },
-    "chevron-left": {
-      "codepoint": 57398,
-      "fontFamily": "Codicon",
-      "identifier": "chevronLeft"
-    },
-    "chevron-right": {
-      "codepoint": 57399,
-      "fontFamily": "Codicon",
-      "identifier": "chevronRight"
-    },
-    "chevron-up": {
-      "codepoint": 57400,
-      "fontFamily": "Codicon",
-      "identifier": "chevronUp"
-    },
-    "chip": {
-      "codepoint": 57401,
-      "fontFamily": "Codicon",
-      "identifier": "chip"
-    },
-    "chrome-close": {
-      "codepoint": 57402,
-      "fontFamily": "Codicon",
-      "identifier": "chromeClose"
-    },
     "chrome-maximize": {
-      "codepoint": 57403,
+      "codepoint": 57351,
       "fontFamily": "Codicon",
       "identifier": "chromeMaximize"
     },
     "chrome-minimize": {
-      "codepoint": 57404,
+      "codepoint": 57352,
       "fontFamily": "Codicon",
       "identifier": "chromeMinimize"
     },
     "chrome-restore": {
-      "codepoint": 57405,
+      "codepoint": 57353,
       "fontFamily": "Codicon",
       "identifier": "chromeRestore"
     },
     "circle": {
-      "codepoint": 57406,
+      "codepoint": 57354,
       "fontFamily": "Codicon",
       "identifier": "circle"
     },
-    "circle-filled": {
-      "codepoint": 57407,
-      "fontFamily": "Codicon",
-      "identifier": "circleFilled"
-    },
-    "circle-large": {
-      "codepoint": 57408,
-      "fontFamily": "Codicon",
-      "identifier": "circleLarge"
-    },
-    "circle-large-filled": {
-      "codepoint": 57409,
-      "fontFamily": "Codicon",
-      "identifier": "circleLargeFilled"
-    },
-    "circle-large-outline": {
-      "codepoint": 57410,
-      "fontFamily": "Codicon",
-      "identifier": "circleLargeOutline"
-    },
     "circle-outline": {
-      "codepoint": 57411,
+      "codepoint": 57355,
       "fontFamily": "Codicon",
       "identifier": "circleOutline"
     },
-    "circle-slash": {
-      "codepoint": 57412,
-      "fontFamily": "Codicon",
-      "identifier": "circleSlash"
-    },
-    "circle-slash-compact": {
-      "codepoint": 57413,
-      "fontFamily": "Codicon",
-      "identifier": "circleSlashCompact"
-    },
-    "circle-small": {
-      "codepoint": 57414,
-      "fontFamily": "Codicon",
-      "identifier": "circleSmall"
-    },
     "circle-small-filled": {
-      "codepoint": 57415,
+      "codepoint": 57356,
       "fontFamily": "Codicon",
       "identifier": "circleSmallFilled"
     },
-    "circuit-board": {
-      "codepoint": 57416,
-      "fontFamily": "Codicon",
-      "identifier": "circuitBoard"
-    },
-    "claude": {
-      "codepoint": 57417,
-      "fontFamily": "Codicon",
-      "identifier": "claude"
-    },
-    "clear-all": {
-      "codepoint": 57418,
-      "fontFamily": "Codicon",
-      "identifier": "clearAll"
-    },
-    "clippy": {
-      "codepoint": 57419,
-      "fontFamily": "Codicon",
-      "identifier": "clippy"
-    },
     "clockface": {
-      "codepoint": 57420,
+      "codepoint": 57357,
       "fontFamily": "Codicon",
       "identifier": "clockface"
     },
-    "close": {
-      "codepoint": 57421,
-      "fontFamily": "Codicon",
-      "identifier": "close"
-    },
-    "close-all": {
-      "codepoint": 57422,
-      "fontFamily": "Codicon",
-      "identifier": "closeAll"
-    },
     "cloud": {
-      "codepoint": 57423,
+      "codepoint": 57358,
       "fontFamily": "Codicon",
       "identifier": "cloud"
     },
-    "cloud-download": {
-      "codepoint": 57424,
-      "fontFamily": "Codicon",
-      "identifier": "cloudDownload"
-    },
-    "cloud-small": {
-      "codepoint": 57425,
-      "fontFamily": "Codicon",
-      "identifier": "cloudSmall"
-    },
-    "cloud-upload": {
-      "codepoint": 57426,
-      "fontFamily": "Codicon",
-      "identifier": "cloudUpload"
-    },
-    "code": {
-      "codepoint": 57427,
-      "fontFamily": "Codicon",
-      "identifier": "code"
-    },
-    "code-oss": {
-      "codepoint": 57428,
-      "fontFamily": "Codicon",
-      "identifier": "codeOss"
-    },
-    "code-review": {
-      "codepoint": 57429,
-      "fontFamily": "Codicon",
-      "identifier": "codeReview"
-    },
-    "coffee": {
-      "codepoint": 57430,
-      "fontFamily": "Codicon",
-      "identifier": "coffee"
-    },
-    "collapse-all": {
-      "codepoint": 57431,
-      "fontFamily": "Codicon",
-      "identifier": "collapseAll"
-    },
     "collection": {
-      "codepoint": 57432,
+      "codepoint": 57359,
       "fontFamily": "Codicon",
       "identifier": "collection"
     },
-    "collection-small": {
-      "codepoint": 57433,
-      "fontFamily": "Codicon",
-      "identifier": "collectionSmall"
-    },
     "color-mode": {
-      "codepoint": 57434,
+      "codepoint": 57360,
       "fontFamily": "Codicon",
       "identifier": "colorMode"
     },
-    "combine": {
-      "codepoint": 57435,
-      "fontFamily": "Codicon",
-      "identifier": "combine"
-    },
-    "comment": {
-      "codepoint": 57436,
-      "fontFamily": "Codicon",
-      "identifier": "comment"
-    },
-    "comment-discussion": {
-      "codepoint": 57437,
-      "fontFamily": "Codicon",
-      "identifier": "commentDiscussion"
-    },
-    "comment-discussion-quote": {
-      "codepoint": 57438,
-      "fontFamily": "Codicon",
-      "identifier": "commentDiscussionQuote"
-    },
-    "comment-discussion-sparkle": {
-      "codepoint": 57439,
-      "fontFamily": "Codicon",
-      "identifier": "commentDiscussionSparkle"
-    },
-    "comment-draft": {
-      "codepoint": 57440,
-      "fontFamily": "Codicon",
-      "identifier": "commentDraft"
-    },
-    "comment-unresolved": {
-      "codepoint": 57441,
-      "fontFamily": "Codicon",
-      "identifier": "commentUnresolved"
-    },
-    "compass": {
-      "codepoint": 57442,
-      "fontFamily": "Codicon",
-      "identifier": "compass"
-    },
-    "compass-active": {
-      "codepoint": 57443,
-      "fontFamily": "Codicon",
-      "identifier": "compassActive"
-    },
-    "compass-dot": {
-      "codepoint": 57444,
-      "fontFamily": "Codicon",
-      "identifier": "compassDot"
-    },
-    "copilot": {
-      "codepoint": 57445,
-      "fontFamily": "Codicon",
-      "identifier": "copilot"
-    },
-    "copilot-blocked": {
-      "codepoint": 57446,
-      "fontFamily": "Codicon",
-      "identifier": "copilotBlocked"
-    },
-    "copilot-compact": {
-      "codepoint": 57447,
-      "fontFamily": "Codicon",
-      "identifier": "copilotCompact"
-    },
-    "copilot-error": {
-      "codepoint": 57448,
-      "fontFamily": "Codicon",
-      "identifier": "copilotError"
-    },
-    "copilot-in-progress": {
-      "codepoint": 57449,
-      "fontFamily": "Codicon",
-      "identifier": "copilotInProgress"
-    },
-    "copilot-large": {
-      "codepoint": 57450,
-      "fontFamily": "Codicon",
-      "identifier": "copilotLarge"
-    },
-    "copilot-not-connected": {
-      "codepoint": 57451,
-      "fontFamily": "Codicon",
-      "identifier": "copilotNotConnected"
-    },
-    "copilot-snooze": {
-      "codepoint": 57452,
-      "fontFamily": "Codicon",
-      "identifier": "copilotSnooze"
-    },
-    "copilot-success": {
-      "codepoint": 57453,
-      "fontFamily": "Codicon",
-      "identifier": "copilotSuccess"
-    },
-    "copilot-unavailable": {
-      "codepoint": 57454,
-      "fontFamily": "Codicon",
-      "identifier": "copilotUnavailable"
-    },
-    "copilot-warning": {
-      "codepoint": 57455,
-      "fontFamily": "Codicon",
-      "identifier": "copilotWarning"
-    },
     "copilot-warning-large": {
-      "codepoint": 57456,
+      "codepoint": 57361,
       "fontFamily": "Codicon",
       "identifier": "copilotWarningLarge"
     },
-    "copy": {
-      "codepoint": 57457,
-      "fontFamily": "Codicon",
-      "identifier": "copy"
-    },
-    "coverage": {
-      "codepoint": 57458,
-      "fontFamily": "Codicon",
-      "identifier": "coverage"
-    },
     "credit-card": {
-      "codepoint": 57459,
+      "codepoint": 57362,
       "fontFamily": "Codicon",
       "identifier": "creditCard"
     },
-    "cursor": {
-      "codepoint": 57460,
-      "fontFamily": "Codicon",
-      "identifier": "cursor"
-    },
     "dash": {
-      "codepoint": 57461,
+      "codepoint": 57363,
       "fontFamily": "Codicon",
       "identifier": "dash"
     },
-    "dashboard": {
-      "codepoint": 57462,
-      "fontFamily": "Codicon",
-      "identifier": "dashboard"
-    },
-    "database": {
-      "codepoint": 57463,
-      "fontFamily": "Codicon",
-      "identifier": "database"
-    },
-    "debug": {
-      "codepoint": 57464,
-      "fontFamily": "Codicon",
-      "identifier": "debug"
-    },
-    "debug-all": {
-      "codepoint": 57465,
-      "fontFamily": "Codicon",
-      "identifier": "debugAll"
-    },
-    "debug-alt": {
-      "codepoint": 57466,
-      "fontFamily": "Codicon",
-      "identifier": "debugAlt"
-    },
-    "debug-alt-small": {
-      "codepoint": 57467,
-      "fontFamily": "Codicon",
-      "identifier": "debugAltSmall"
-    },
     "debug-breakpoint-conditional": {
-      "codepoint": 57468,
+      "codepoint": 57364,
       "fontFamily": "Codicon",
       "identifier": "debugBreakpointConditional"
     },
     "debug-breakpoint-conditional-unverified": {
-      "codepoint": 57469,
+      "codepoint": 57365,
       "fontFamily": "Codicon",
       "identifier": "debugBreakpointConditionalUnverified"
     },
-    "debug-breakpoint-data": {
-      "codepoint": 57470,
-      "fontFamily": "Codicon",
-      "identifier": "debugBreakpointData"
-    },
-    "debug-breakpoint-data-unverified": {
-      "codepoint": 57471,
-      "fontFamily": "Codicon",
-      "identifier": "debugBreakpointDataUnverified"
-    },
-    "debug-breakpoint-function": {
-      "codepoint": 57472,
-      "fontFamily": "Codicon",
-      "identifier": "debugBreakpointFunction"
-    },
-    "debug-breakpoint-function-unverified": {
-      "codepoint": 57473,
-      "fontFamily": "Codicon",
-      "identifier": "debugBreakpointFunctionUnverified"
-    },
-    "debug-breakpoint-log": {
-      "codepoint": 57474,
-      "fontFamily": "Codicon",
-      "identifier": "debugBreakpointLog"
-    },
-    "debug-breakpoint-log-unverified": {
-      "codepoint": 57475,
-      "fontFamily": "Codicon",
-      "identifier": "debugBreakpointLogUnverified"
-    },
-    "debug-breakpoint-unsupported": {
-      "codepoint": 57476,
-      "fontFamily": "Codicon",
-      "identifier": "debugBreakpointUnsupported"
-    },
-    "debug-connected": {
-      "codepoint": 57477,
-      "fontFamily": "Codicon",
-      "identifier": "debugConnected"
-    },
-    "debug-console": {
-      "codepoint": 57478,
-      "fontFamily": "Codicon",
-      "identifier": "debugConsole"
-    },
-    "debug-continue": {
-      "codepoint": 57479,
-      "fontFamily": "Codicon",
-      "identifier": "debugContinue"
-    },
-    "debug-continue-small": {
-      "codepoint": 57480,
-      "fontFamily": "Codicon",
-      "identifier": "debugContinueSmall"
-    },
-    "debug-coverage": {
-      "codepoint": 57481,
-      "fontFamily": "Codicon",
-      "identifier": "debugCoverage"
-    },
-    "debug-disconnect": {
-      "codepoint": 57482,
-      "fontFamily": "Codicon",
-      "identifier": "debugDisconnect"
-    },
-    "debug-line-by-line": {
-      "codepoint": 57483,
-      "fontFamily": "Codicon",
-      "identifier": "debugLineByLine"
-    },
     "debug-pause": {
-      "codepoint": 57484,
+      "codepoint": 57366,
       "fontFamily": "Codicon",
       "identifier": "debugPause"
     },
-    "debug-rerun": {
-      "codepoint": 57485,
-      "fontFamily": "Codicon",
-      "identifier": "debugRerun"
-    },
-    "debug-restart": {
-      "codepoint": 57486,
-      "fontFamily": "Codicon",
-      "identifier": "debugRestart"
-    },
-    "debug-restart-frame": {
-      "codepoint": 57487,
-      "fontFamily": "Codicon",
-      "identifier": "debugRestartFrame"
-    },
-    "debug-reverse-continue": {
-      "codepoint": 57488,
-      "fontFamily": "Codicon",
-      "identifier": "debugReverseContinue"
-    },
-    "debug-stackframe": {
-      "codepoint": 57489,
-      "fontFamily": "Codicon",
-      "identifier": "debugStackframe"
-    },
-    "debug-stackframe-active": {
-      "codepoint": 57490,
-      "fontFamily": "Codicon",
-      "identifier": "debugStackframeActive"
-    },
     "debug-stackframe-dot": {
-      "codepoint": 57491,
+      "codepoint": 57367,
       "fontFamily": "Codicon",
       "identifier": "debugStackframeDot"
     },
-    "debug-start": {
-      "codepoint": 57492,
-      "fontFamily": "Codicon",
-      "identifier": "debugStart"
-    },
-    "debug-step-back": {
-      "codepoint": 57493,
-      "fontFamily": "Codicon",
-      "identifier": "debugStepBack"
-    },
-    "debug-step-into": {
-      "codepoint": 57494,
-      "fontFamily": "Codicon",
-      "identifier": "debugStepInto"
-    },
-    "debug-step-out": {
-      "codepoint": 57495,
-      "fontFamily": "Codicon",
-      "identifier": "debugStepOut"
-    },
-    "debug-step-over": {
-      "codepoint": 57496,
-      "fontFamily": "Codicon",
-      "identifier": "debugStepOver"
-    },
     "debug-stop": {
-      "codepoint": 57497,
+      "codepoint": 57368,
       "fontFamily": "Codicon",
       "identifier": "debugStop"
     },
-    "desktop-download": {
-      "codepoint": 57498,
-      "fontFamily": "Codicon",
-      "identifier": "desktopDownload"
-    },
-    "device-camera": {
-      "codepoint": 57499,
-      "fontFamily": "Codicon",
-      "identifier": "deviceCamera"
-    },
-    "device-camera-video": {
-      "codepoint": 57500,
-      "fontFamily": "Codicon",
-      "identifier": "deviceCameraVideo"
-    },
-    "device-mobile": {
-      "codepoint": 57501,
-      "fontFamily": "Codicon",
-      "identifier": "deviceMobile"
-    },
-    "diff": {
-      "codepoint": 57502,
-      "fontFamily": "Codicon",
-      "identifier": "diff"
-    },
-    "diff-added": {
-      "codepoint": 57503,
-      "fontFamily": "Codicon",
-      "identifier": "diffAdded"
-    },
-    "diff-ignored": {
-      "codepoint": 57504,
-      "fontFamily": "Codicon",
-      "identifier": "diffIgnored"
-    },
-    "diff-modified": {
-      "codepoint": 57505,
-      "fontFamily": "Codicon",
-      "identifier": "diffModified"
-    },
-    "diff-multiple": {
-      "codepoint": 57506,
-      "fontFamily": "Codicon",
-      "identifier": "diffMultiple"
-    },
-    "diff-removed": {
-      "codepoint": 57507,
-      "fontFamily": "Codicon",
-      "identifier": "diffRemoved"
-    },
-    "diff-renamed": {
-      "codepoint": 57508,
-      "fontFamily": "Codicon",
-      "identifier": "diffRenamed"
-    },
-    "diff-single": {
-      "codepoint": 57509,
-      "fontFamily": "Codicon",
-      "identifier": "diffSingle"
-    },
-    "discard": {
-      "codepoint": 57510,
-      "fontFamily": "Codicon",
-      "identifier": "discard"
-    },
-    "download": {
-      "codepoint": 57511,
-      "fontFamily": "Codicon",
-      "identifier": "download"
-    },
-    "edit": {
-      "codepoint": 57512,
-      "fontFamily": "Codicon",
-      "identifier": "edit"
-    },
-    "edit-code": {
-      "codepoint": 57513,
-      "fontFamily": "Codicon",
-      "identifier": "editCode"
-    },
-    "edit-session": {
-      "codepoint": 57514,
-      "fontFamily": "Codicon",
-      "identifier": "editSession"
-    },
-    "edit-sparkle": {
-      "codepoint": 57515,
-      "fontFamily": "Codicon",
-      "identifier": "editSparkle"
-    },
-    "editor-layout": {
-      "codepoint": 57516,
-      "fontFamily": "Codicon",
-      "identifier": "editorLayout"
-    },
     "ellipsis": {
-      "codepoint": 57517,
+      "codepoint": 57369,
       "fontFamily": "Codicon",
       "identifier": "ellipsis"
     },
-    "empty-window": {
-      "codepoint": 57518,
-      "fontFamily": "Codicon",
-      "identifier": "emptyWindow"
-    },
-    "eraser": {
-      "codepoint": 57519,
-      "fontFamily": "Codicon",
-      "identifier": "eraser"
-    },
-    "error": {
-      "codepoint": 57520,
-      "fontFamily": "Codicon",
-      "identifier": "error"
-    },
-    "error-compact": {
-      "codepoint": 57521,
-      "fontFamily": "Codicon",
-      "identifier": "errorCompact"
-    },
-    "error-small": {
-      "codepoint": 57522,
-      "fontFamily": "Codicon",
-      "identifier": "errorSmall"
-    },
-    "exclude": {
-      "codepoint": 57523,
-      "fontFamily": "Codicon",
-      "identifier": "exclude"
-    },
-    "expand-all": {
-      "codepoint": 57524,
-      "fontFamily": "Codicon",
-      "identifier": "expandAll"
-    },
-    "export": {
-      "codepoint": 57525,
-      "fontFamily": "Codicon",
-      "identifier": "export_"
-    },
-    "extensions": {
-      "codepoint": 57526,
-      "fontFamily": "Codicon",
-      "identifier": "extensions"
-    },
-    "extensions-large": {
-      "codepoint": 57527,
-      "fontFamily": "Codicon",
-      "identifier": "extensionsLarge"
-    },
-    "eye": {
-      "codepoint": 57528,
-      "fontFamily": "Codicon",
-      "identifier": "eye"
-    },
-    "eye-closed": {
-      "codepoint": 57529,
-      "fontFamily": "Codicon",
-      "identifier": "eyeClosed"
-    },
-    "feedback": {
-      "codepoint": 57530,
-      "fontFamily": "Codicon",
-      "identifier": "feedback"
-    },
     "file": {
-      "codepoint": 57531,
+      "codepoint": 57370,
       "fontFamily": "Codicon",
       "identifier": "file"
     },
-    "file-binary": {
-      "codepoint": 57532,
-      "fontFamily": "Codicon",
-      "identifier": "fileBinary"
-    },
-    "file-code": {
-      "codepoint": 57533,
-      "fontFamily": "Codicon",
-      "identifier": "fileCode"
-    },
-    "file-media": {
-      "codepoint": 57534,
-      "fontFamily": "Codicon",
-      "identifier": "fileMedia"
-    },
-    "file-pdf": {
-      "codepoint": 57535,
-      "fontFamily": "Codicon",
-      "identifier": "filePdf"
-    },
-    "file-submodule": {
-      "codepoint": 57536,
-      "fontFamily": "Codicon",
-      "identifier": "fileSubmodule"
-    },
-    "file-symlink-directory": {
-      "codepoint": 57537,
-      "fontFamily": "Codicon",
-      "identifier": "fileSymlinkDirectory"
-    },
-    "file-symlink-file": {
-      "codepoint": 57538,
-      "fontFamily": "Codicon",
-      "identifier": "fileSymlinkFile"
-    },
     "file-text": {
-      "codepoint": 57539,
+      "codepoint": 57371,
       "fontFamily": "Codicon",
       "identifier": "fileText"
     },
-    "file-zip": {
-      "codepoint": 57540,
-      "fontFamily": "Codicon",
-      "identifier": "fileZip"
-    },
-    "files": {
-      "codepoint": 57541,
-      "fontFamily": "Codicon",
-      "identifier": "files"
-    },
-    "filter": {
-      "codepoint": 57542,
-      "fontFamily": "Codicon",
-      "identifier": "filter"
-    },
-    "filter-filled": {
-      "codepoint": 57543,
-      "fontFamily": "Codicon",
-      "identifier": "filterFilled"
-    },
-    "flag": {
-      "codepoint": 57544,
-      "fontFamily": "Codicon",
-      "identifier": "flag"
-    },
-    "flame": {
-      "codepoint": 57545,
-      "fontFamily": "Codicon",
-      "identifier": "flame"
-    },
-    "fold": {
-      "codepoint": 57546,
-      "fontFamily": "Codicon",
-      "identifier": "fold"
-    },
-    "fold-down": {
-      "codepoint": 57547,
-      "fontFamily": "Codicon",
-      "identifier": "foldDown"
-    },
-    "fold-up": {
-      "codepoint": 57548,
-      "fontFamily": "Codicon",
-      "identifier": "foldUp"
-    },
-    "folder": {
-      "codepoint": 57549,
-      "fontFamily": "Codicon",
-      "identifier": "folder"
-    },
-    "folder-active": {
-      "codepoint": 57550,
-      "fontFamily": "Codicon",
-      "identifier": "folderActive"
-    },
-    "folder-compact": {
-      "codepoint": 57551,
-      "fontFamily": "Codicon",
-      "identifier": "folderCompact"
-    },
-    "folder-library": {
-      "codepoint": 57552,
-      "fontFamily": "Codicon",
-      "identifier": "folderLibrary"
-    },
-    "folder-opened": {
-      "codepoint": 57553,
-      "fontFamily": "Codicon",
-      "identifier": "folderOpened"
-    },
-    "folder-opened-compact": {
-      "codepoint": 57554,
-      "fontFamily": "Codicon",
-      "identifier": "folderOpenedCompact"
-    },
-    "forward": {
-      "codepoint": 57555,
-      "fontFamily": "Codicon",
-      "identifier": "forward"
-    },
     "game": {
-      "codepoint": 57556,
+      "codepoint": 57372,
       "fontFamily": "Codicon",
       "identifier": "game"
     },
-    "gear": {
-      "codepoint": 57557,
-      "fontFamily": "Codicon",
-      "identifier": "gear"
-    },
-    "gear-compact": {
-      "codepoint": 57558,
-      "fontFamily": "Codicon",
-      "identifier": "gearCompact"
-    },
-    "gift": {
-      "codepoint": 57559,
-      "fontFamily": "Codicon",
-      "identifier": "gift"
-    },
-    "gist": {
-      "codepoint": 57560,
-      "fontFamily": "Codicon",
-      "identifier": "gist"
-    },
-    "gist-secret": {
-      "codepoint": 57561,
-      "fontFamily": "Codicon",
-      "identifier": "gistSecret"
-    },
-    "git-branch": {
-      "codepoint": 57562,
-      "fontFamily": "Codicon",
-      "identifier": "gitBranch"
-    },
-    "git-branch-changes": {
-      "codepoint": 57563,
-      "fontFamily": "Codicon",
-      "identifier": "gitBranchChanges"
-    },
-    "git-branch-compact": {
-      "codepoint": 57564,
-      "fontFamily": "Codicon",
-      "identifier": "gitBranchCompact"
-    },
-    "git-branch-conflicts": {
-      "codepoint": 57565,
-      "fontFamily": "Codicon",
-      "identifier": "gitBranchConflicts"
-    },
-    "git-branch-staged-changes": {
-      "codepoint": 57566,
-      "fontFamily": "Codicon",
-      "identifier": "gitBranchStagedChanges"
-    },
     "git-commit": {
-      "codepoint": 57567,
+      "codepoint": 57373,
       "fontFamily": "Codicon",
       "identifier": "gitCommit"
     },
-    "git-compare": {
-      "codepoint": 57568,
-      "fontFamily": "Codicon",
-      "identifier": "gitCompare"
-    },
-    "git-fetch": {
-      "codepoint": 57569,
-      "fontFamily": "Codicon",
-      "identifier": "gitFetch"
-    },
-    "git-lens": {
-      "codepoint": 57570,
-      "fontFamily": "Codicon",
-      "identifier": "gitLens"
-    },
     "git-merge": {
-      "codepoint": 57571,
+      "codepoint": 57374,
       "fontFamily": "Codicon",
       "identifier": "gitMerge"
     },
-    "git-pull-request": {
-      "codepoint": 57572,
-      "fontFamily": "Codicon",
-      "identifier": "gitPullRequest"
-    },
-    "git-pull-request-closed": {
-      "codepoint": 57573,
-      "fontFamily": "Codicon",
-      "identifier": "gitPullRequestClosed"
-    },
-    "git-pull-request-create": {
-      "codepoint": 57574,
-      "fontFamily": "Codicon",
-      "identifier": "gitPullRequestCreate"
-    },
-    "git-pull-request-done": {
-      "codepoint": 57575,
-      "fontFamily": "Codicon",
-      "identifier": "gitPullRequestDone"
-    },
-    "git-pull-request-draft": {
-      "codepoint": 57576,
-      "fontFamily": "Codicon",
-      "identifier": "gitPullRequestDraft"
-    },
-    "git-pull-request-go-to-changes": {
-      "codepoint": 57577,
-      "fontFamily": "Codicon",
-      "identifier": "gitPullRequestGoToChanges"
-    },
-    "git-pull-request-new-changes": {
-      "codepoint": 57578,
-      "fontFamily": "Codicon",
-      "identifier": "gitPullRequestNewChanges"
-    },
-    "git-stash": {
-      "codepoint": 57579,
-      "fontFamily": "Codicon",
-      "identifier": "gitStash"
-    },
-    "git-stash-apply": {
-      "codepoint": 57580,
-      "fontFamily": "Codicon",
-      "identifier": "gitStashApply"
-    },
-    "git-stash-pop": {
-      "codepoint": 57581,
-      "fontFamily": "Codicon",
-      "identifier": "gitStashPop"
-    },
-    "github": {
-      "codepoint": 57582,
-      "fontFamily": "Codicon",
-      "identifier": "github"
-    },
-    "github-action": {
-      "codepoint": 57583,
-      "fontFamily": "Codicon",
-      "identifier": "githubAction"
-    },
-    "github-alt": {
-      "codepoint": 57584,
-      "fontFamily": "Codicon",
-      "identifier": "githubAlt"
-    },
-    "github-inverted": {
-      "codepoint": 57585,
-      "fontFamily": "Codicon",
-      "identifier": "githubInverted"
-    },
     "github-project": {
-      "codepoint": 57586,
+      "codepoint": 57375,
       "fontFamily": "Codicon",
       "identifier": "githubProject"
     },
-    "globe": {
-      "codepoint": 57587,
-      "fontFamily": "Codicon",
-      "identifier": "globe"
-    },
-    "go-to-editing-session": {
-      "codepoint": 57588,
-      "fontFamily": "Codicon",
-      "identifier": "goToEditingSession"
-    },
-    "go-to-file": {
-      "codepoint": 57589,
-      "fontFamily": "Codicon",
-      "identifier": "goToFile"
-    },
-    "go-to-search": {
-      "codepoint": 57590,
-      "fontFamily": "Codicon",
-      "identifier": "goToSearch"
-    },
-    "grabber": {
-      "codepoint": 57591,
-      "fontFamily": "Codicon",
-      "identifier": "grabber"
-    },
-    "graph": {
-      "codepoint": 57592,
-      "fontFamily": "Codicon",
-      "identifier": "graph"
-    },
-    "graph-left": {
-      "codepoint": 57593,
-      "fontFamily": "Codicon",
-      "identifier": "graphLeft"
-    },
-    "graph-line": {
-      "codepoint": 57594,
-      "fontFamily": "Codicon",
-      "identifier": "graphLine"
-    },
-    "graph-scatter": {
-      "codepoint": 57595,
-      "fontFamily": "Codicon",
-      "identifier": "graphScatter"
-    },
     "gripper": {
-      "codepoint": 57596,
+      "codepoint": 57376,
       "fontFamily": "Codicon",
       "identifier": "gripper"
     },
-    "group-by-ref-type": {
-      "codepoint": 57597,
-      "fontFamily": "Codicon",
-      "identifier": "groupByRefType"
-    },
-    "heart": {
-      "codepoint": 57598,
-      "fontFamily": "Codicon",
-      "identifier": "heart"
-    },
-    "heart-filled": {
-      "codepoint": 57599,
-      "fontFamily": "Codicon",
-      "identifier": "heartFilled"
-    },
-    "history": {
-      "codepoint": 57600,
-      "fontFamily": "Codicon",
-      "identifier": "history"
-    },
-    "home": {
-      "codepoint": 57601,
-      "fontFamily": "Codicon",
-      "identifier": "home"
-    },
-    "horizontal-rule": {
-      "codepoint": 57602,
-      "fontFamily": "Codicon",
-      "identifier": "horizontalRule"
-    },
-    "hubot": {
-      "codepoint": 57603,
-      "fontFamily": "Codicon",
-      "identifier": "hubot"
-    },
-    "inbox": {
-      "codepoint": 57604,
-      "fontFamily": "Codicon",
-      "identifier": "inbox"
-    },
-    "indent": {
-      "codepoint": 57605,
-      "fontFamily": "Codicon",
-      "identifier": "indent"
-    },
-    "index-zero": {
-      "codepoint": 57606,
-      "fontFamily": "Codicon",
-      "identifier": "indexZero"
-    },
-    "info": {
-      "codepoint": 57607,
-      "fontFamily": "Codicon",
-      "identifier": "info"
-    },
-    "insert": {
-      "codepoint": 57608,
-      "fontFamily": "Codicon",
-      "identifier": "insert"
-    },
-    "inspect": {
-      "codepoint": 57609,
-      "fontFamily": "Codicon",
-      "identifier": "inspect"
-    },
-    "issue-closed": {
-      "codepoint": 57610,
-      "fontFamily": "Codicon",
-      "identifier": "issueClosed"
-    },
-    "issue-draft": {
-      "codepoint": 57611,
-      "fontFamily": "Codicon",
-      "identifier": "issueDraft"
-    },
     "issue-reopened": {
-      "codepoint": 57612,
+      "codepoint": 57377,
       "fontFamily": "Codicon",
       "identifier": "issueReopened"
     },
     "issues": {
-      "codepoint": 57613,
+      "codepoint": 57378,
       "fontFamily": "Codicon",
       "identifier": "issues"
     },
     "italic": {
-      "codepoint": 57614,
+      "codepoint": 57379,
       "fontFamily": "Codicon",
       "identifier": "italic"
     },
-    "jersey": {
-      "codepoint": 57615,
-      "fontFamily": "Codicon",
-      "identifier": "jersey"
-    },
-    "json": {
-      "codepoint": 57616,
-      "fontFamily": "Codicon",
-      "identifier": "json"
-    },
     "kebab-vertical": {
-      "codepoint": 57617,
+      "codepoint": 57380,
       "fontFamily": "Codicon",
       "identifier": "kebabVertical"
     },
-    "key": {
-      "codepoint": 57618,
-      "fontFamily": "Codicon",
-      "identifier": "key"
-    },
-    "keyboard-tab": {
-      "codepoint": 57619,
-      "fontFamily": "Codicon",
-      "identifier": "keyboardTab"
-    },
-    "keyboard-tab-above": {
-      "codepoint": 57620,
-      "fontFamily": "Codicon",
-      "identifier": "keyboardTabAbove"
-    },
-    "keyboard-tab-below": {
-      "codepoint": 57621,
-      "fontFamily": "Codicon",
-      "identifier": "keyboardTabBelow"
-    },
-    "law": {
-      "codepoint": 57622,
-      "fontFamily": "Codicon",
-      "identifier": "law"
-    },
-    "layers": {
-      "codepoint": 57623,
-      "fontFamily": "Codicon",
-      "identifier": "layers"
-    },
-    "layers-active": {
-      "codepoint": 57624,
-      "fontFamily": "Codicon",
-      "identifier": "layersActive"
-    },
-    "layers-dot": {
-      "codepoint": 57625,
-      "fontFamily": "Codicon",
-      "identifier": "layersDot"
-    },
-    "layout": {
-      "codepoint": 57626,
-      "fontFamily": "Codicon",
-      "identifier": "layout"
-    },
     "layout-activitybar-left": {
-      "codepoint": 57627,
+      "codepoint": 57381,
       "fontFamily": "Codicon",
       "identifier": "layoutActivitybarLeft"
     },
     "layout-activitybar-right": {
-      "codepoint": 57628,
+      "codepoint": 57382,
       "fontFamily": "Codicon",
       "identifier": "layoutActivitybarRight"
     },
-    "layout-centered": {
-      "codepoint": 57629,
-      "fontFamily": "Codicon",
-      "identifier": "layoutCentered"
-    },
     "layout-menubar": {
-      "codepoint": 57630,
+      "codepoint": 57383,
       "fontFamily": "Codicon",
       "identifier": "layoutMenubar"
     },
     "layout-panel": {
-      "codepoint": 57631,
+      "codepoint": 57384,
       "fontFamily": "Codicon",
       "identifier": "layoutPanel"
     },
-    "layout-panel-center": {
-      "codepoint": 57632,
-      "fontFamily": "Codicon",
-      "identifier": "layoutPanelCenter"
-    },
-    "layout-panel-dock": {
-      "codepoint": 57633,
-      "fontFamily": "Codicon",
-      "identifier": "layoutPanelDock"
-    },
-    "layout-panel-justify": {
-      "codepoint": 57634,
-      "fontFamily": "Codicon",
-      "identifier": "layoutPanelJustify"
-    },
-    "layout-panel-left": {
-      "codepoint": 57635,
-      "fontFamily": "Codicon",
-      "identifier": "layoutPanelLeft"
-    },
-    "layout-panel-off": {
-      "codepoint": 57636,
-      "fontFamily": "Codicon",
-      "identifier": "layoutPanelOff"
-    },
-    "layout-panel-right": {
-      "codepoint": 57637,
-      "fontFamily": "Codicon",
-      "identifier": "layoutPanelRight"
-    },
     "layout-sidebar-left": {
-      "codepoint": 57638,
+      "codepoint": 57385,
       "fontFamily": "Codicon",
       "identifier": "layoutSidebarLeft"
     },
-    "layout-sidebar-left-dock": {
-      "codepoint": 57639,
-      "fontFamily": "Codicon",
-      "identifier": "layoutSidebarLeftDock"
-    },
-    "layout-sidebar-left-off": {
-      "codepoint": 57640,
-      "fontFamily": "Codicon",
-      "identifier": "layoutSidebarLeftOff"
-    },
     "layout-sidebar-right": {
-      "codepoint": 57641,
+      "codepoint": 57386,
       "fontFamily": "Codicon",
       "identifier": "layoutSidebarRight"
     },
-    "layout-sidebar-right-dock": {
-      "codepoint": 57642,
-      "fontFamily": "Codicon",
-      "identifier": "layoutSidebarRightDock"
-    },
-    "layout-sidebar-right-off": {
-      "codepoint": 57643,
-      "fontFamily": "Codicon",
-      "identifier": "layoutSidebarRightOff"
-    },
     "layout-statusbar": {
-      "codepoint": 57644,
+      "codepoint": 57387,
       "fontFamily": "Codicon",
       "identifier": "layoutStatusbar"
     },
-    "library": {
-      "codepoint": 57645,
-      "fontFamily": "Codicon",
-      "identifier": "library_"
-    },
-    "library-compact": {
-      "codepoint": 57646,
-      "fontFamily": "Codicon",
-      "identifier": "libraryCompact"
-    },
-    "lightbulb": {
-      "codepoint": 57647,
-      "fontFamily": "Codicon",
-      "identifier": "lightbulb"
-    },
-    "lightbulb-autofix": {
-      "codepoint": 57648,
-      "fontFamily": "Codicon",
-      "identifier": "lightbulbAutofix"
-    },
-    "lightbulb-empty": {
-      "codepoint": 57649,
-      "fontFamily": "Codicon",
-      "identifier": "lightbulbEmpty"
-    },
-    "link": {
-      "codepoint": 57650,
-      "fontFamily": "Codicon",
-      "identifier": "link"
-    },
-    "link-external": {
-      "codepoint": 57651,
-      "fontFamily": "Codicon",
-      "identifier": "linkExternal"
-    },
     "list-filter": {
-      "codepoint": 57652,
+      "codepoint": 57388,
       "fontFamily": "Codicon",
       "identifier": "listFilter"
     },
     "list-flat": {
-      "codepoint": 57653,
+      "codepoint": 57389,
       "fontFamily": "Codicon",
       "identifier": "listFlat"
     },
-    "list-ordered": {
-      "codepoint": 57654,
-      "fontFamily": "Codicon",
-      "identifier": "listOrdered"
-    },
     "list-selection": {
-      "codepoint": 57655,
+      "codepoint": 57390,
       "fontFamily": "Codicon",
       "identifier": "listSelection"
     },
     "list-tree": {
-      "codepoint": 57656,
+      "codepoint": 57391,
       "fontFamily": "Codicon",
       "identifier": "listTree"
     },
     "list-unordered": {
-      "codepoint": 57657,
+      "codepoint": 57392,
       "fontFamily": "Codicon",
       "identifier": "listUnordered"
     },
-    "live-share": {
-      "codepoint": 57658,
-      "fontFamily": "Codicon",
-      "identifier": "liveShare"
-    },
     "loading": {
-      "codepoint": 57659,
+      "codepoint": 57393,
       "fontFamily": "Codicon",
       "identifier": "loading"
     },
-    "location": {
-      "codepoint": 57660,
-      "fontFamily": "Codicon",
-      "identifier": "location"
-    },
-    "lock": {
-      "codepoint": 57661,
-      "fontFamily": "Codicon",
-      "identifier": "lock"
-    },
-    "lock-small": {
-      "codepoint": 57662,
-      "fontFamily": "Codicon",
-      "identifier": "lockSmall"
-    },
-    "magnet": {
-      "codepoint": 57663,
-      "fontFamily": "Codicon",
-      "identifier": "magnet"
-    },
-    "mail": {
-      "codepoint": 57664,
-      "fontFamily": "Codicon",
-      "identifier": "mail"
-    },
-    "mail-read": {
-      "codepoint": 57665,
-      "fontFamily": "Codicon",
-      "identifier": "mailRead"
-    },
-    "map": {
-      "codepoint": 57666,
-      "fontFamily": "Codicon",
-      "identifier": "map"
-    },
-    "map-filled": {
-      "codepoint": 57667,
-      "fontFamily": "Codicon",
-      "identifier": "mapFilled"
-    },
-    "map-vertical": {
-      "codepoint": 57668,
-      "fontFamily": "Codicon",
-      "identifier": "mapVertical"
-    },
-    "map-vertical-filled": {
-      "codepoint": 57669,
-      "fontFamily": "Codicon",
-      "identifier": "mapVerticalFilled"
-    },
-    "markdown": {
-      "codepoint": 57670,
-      "fontFamily": "Codicon",
-      "identifier": "markdown"
-    },
-    "mcp": {
-      "codepoint": 57671,
-      "fontFamily": "Codicon",
-      "identifier": "mcp"
-    },
-    "megaphone": {
-      "codepoint": 57672,
-      "fontFamily": "Codicon",
-      "identifier": "megaphone"
-    },
-    "mention": {
-      "codepoint": 57673,
-      "fontFamily": "Codicon",
-      "identifier": "mention"
-    },
     "menu": {
-      "codepoint": 57674,
+      "codepoint": 57394,
       "fontFamily": "Codicon",
       "identifier": "menu"
     },
-    "merge": {
-      "codepoint": 57675,
-      "fontFamily": "Codicon",
-      "identifier": "merge"
-    },
-    "merge-into": {
-      "codepoint": 57676,
-      "fontFamily": "Codicon",
-      "identifier": "mergeInto"
-    },
-    "mic": {
-      "codepoint": 57677,
-      "fontFamily": "Codicon",
-      "identifier": "mic"
-    },
     "mic-filled": {
-      "codepoint": 57678,
+      "codepoint": 57395,
       "fontFamily": "Codicon",
       "identifier": "micFilled"
     },
-    "milestone": {
-      "codepoint": 57679,
-      "fontFamily": "Codicon",
-      "identifier": "milestone"
-    },
-    "mirror": {
-      "codepoint": 57680,
-      "fontFamily": "Codicon",
-      "identifier": "mirror"
-    },
-    "mortar-board": {
-      "codepoint": 57681,
-      "fontFamily": "Codicon",
-      "identifier": "mortarBoard"
-    },
-    "move": {
-      "codepoint": 57682,
-      "fontFamily": "Codicon",
-      "identifier": "move"
-    },
-    "multiple-windows": {
-      "codepoint": 57683,
-      "fontFamily": "Codicon",
-      "identifier": "multipleWindows"
-    },
-    "music": {
-      "codepoint": 57684,
-      "fontFamily": "Codicon",
-      "identifier": "music"
-    },
-    "mute": {
-      "codepoint": 57685,
-      "fontFamily": "Codicon",
-      "identifier": "mute"
-    },
-    "new-collection": {
-      "codepoint": 57686,
-      "fontFamily": "Codicon",
-      "identifier": "newCollection"
-    },
-    "new-file": {
-      "codepoint": 57687,
-      "fontFamily": "Codicon",
-      "identifier": "newFile"
-    },
-    "new-folder": {
-      "codepoint": 57688,
-      "fontFamily": "Codicon",
-      "identifier": "newFolder"
-    },
-    "new-session": {
-      "codepoint": 57689,
-      "fontFamily": "Codicon",
-      "identifier": "newSession"
-    },
-    "newline": {
-      "codepoint": 57690,
-      "fontFamily": "Codicon",
-      "identifier": "newline"
-    },
-    "no-newline": {
-      "codepoint": 57691,
-      "fontFamily": "Codicon",
-      "identifier": "noNewline"
-    },
-    "note": {
-      "codepoint": 57692,
-      "fontFamily": "Codicon",
-      "identifier": "note"
-    },
-    "notebook": {
-      "codepoint": 57693,
-      "fontFamily": "Codicon",
-      "identifier": "notebook"
-    },
-    "notebook-template": {
-      "codepoint": 57694,
-      "fontFamily": "Codicon",
-      "identifier": "notebookTemplate"
-    },
-    "octoface": {
-      "codepoint": 57695,
-      "fontFamily": "Codicon",
-      "identifier": "octoface"
-    },
-    "open-in-product": {
-      "codepoint": 57696,
-      "fontFamily": "Codicon",
-      "identifier": "openInProduct"
-    },
-    "open-in-window": {
-      "codepoint": 57697,
-      "fontFamily": "Codicon",
-      "identifier": "openInWindow"
-    },
-    "open-preview": {
-      "codepoint": 57698,
-      "fontFamily": "Codicon",
-      "identifier": "openPreview"
-    },
-    "openai": {
-      "codepoint": 57699,
-      "fontFamily": "Codicon",
-      "identifier": "openai"
-    },
-    "organization": {
-      "codepoint": 57700,
-      "fontFamily": "Codicon",
-      "identifier": "organization"
-    },
-    "output": {
-      "codepoint": 57701,
-      "fontFamily": "Codicon",
-      "identifier": "output"
-    },
-    "package": {
-      "codepoint": 57702,
-      "fontFamily": "Codicon",
-      "identifier": "package"
-    },
-    "paintcan": {
-      "codepoint": 57703,
-      "fontFamily": "Codicon",
-      "identifier": "paintcan"
-    },
-    "pass": {
-      "codepoint": 57704,
-      "fontFamily": "Codicon",
-      "identifier": "pass"
-    },
-    "pass-filled": {
-      "codepoint": 57705,
-      "fontFamily": "Codicon",
-      "identifier": "passFilled"
-    },
-    "percentage": {
-      "codepoint": 57706,
-      "fontFamily": "Codicon",
-      "identifier": "percentage"
-    },
-    "person": {
-      "codepoint": 57707,
-      "fontFamily": "Codicon",
-      "identifier": "person"
-    },
-    "person-add": {
-      "codepoint": 57708,
-      "fontFamily": "Codicon",
-      "identifier": "personAdd"
-    },
-    "piano": {
-      "codepoint": 57709,
-      "fontFamily": "Codicon",
-      "identifier": "piano"
-    },
-    "pie-chart": {
-      "codepoint": 57710,
-      "fontFamily": "Codicon",
-      "identifier": "pieChart"
-    },
-    "pin": {
-      "codepoint": 57711,
-      "fontFamily": "Codicon",
-      "identifier": "pin"
-    },
-    "pinned": {
-      "codepoint": 57712,
-      "fontFamily": "Codicon",
-      "identifier": "pinned"
-    },
-    "pinned-dirty": {
-      "codepoint": 57713,
-      "fontFamily": "Codicon",
-      "identifier": "pinnedDirty"
-    },
-    "pinned-dirty-small": {
-      "codepoint": 57714,
-      "fontFamily": "Codicon",
-      "identifier": "pinnedDirtySmall"
-    },
-    "pinned-small": {
-      "codepoint": 57715,
-      "fontFamily": "Codicon",
-      "identifier": "pinnedSmall"
-    },
-    "play": {
-      "codepoint": 57716,
-      "fontFamily": "Codicon",
-      "identifier": "play"
-    },
-    "play-circle": {
-      "codepoint": 57717,
-      "fontFamily": "Codicon",
-      "identifier": "playCircle"
-    },
-    "plug": {
-      "codepoint": 57718,
-      "fontFamily": "Codicon",
-      "identifier": "plug"
-    },
-    "preserve-case": {
-      "codepoint": 57719,
-      "fontFamily": "Codicon",
-      "identifier": "preserveCase"
-    },
-    "preview": {
-      "codepoint": 57720,
-      "fontFamily": "Codicon",
-      "identifier": "preview"
-    },
     "primitive-square": {
-      "codepoint": 57721,
+      "codepoint": 57396,
       "fontFamily": "Codicon",
       "identifier": "primitiveSquare"
     },
     "project": {
-      "codepoint": 57722,
+      "codepoint": 57397,
       "fontFamily": "Codicon",
       "identifier": "project"
     },
-    "pulse": {
-      "codepoint": 57723,
-      "fontFamily": "Codicon",
-      "identifier": "pulse"
-    },
-    "python": {
-      "codepoint": 57724,
-      "fontFamily": "Codicon",
-      "identifier": "python"
-    },
-    "question": {
-      "codepoint": 57725,
-      "fontFamily": "Codicon",
-      "identifier": "question"
-    },
-    "quote": {
-      "codepoint": 57726,
-      "fontFamily": "Codicon",
-      "identifier": "quote"
-    },
-    "quotes": {
-      "codepoint": 57727,
-      "fontFamily": "Codicon",
-      "identifier": "quotes"
-    },
-    "radio-tower": {
-      "codepoint": 57728,
-      "fontFamily": "Codicon",
-      "identifier": "radioTower"
-    },
-    "reactions": {
-      "codepoint": 57729,
-      "fontFamily": "Codicon",
-      "identifier": "reactions"
-    },
     "record": {
-      "codepoint": 57730,
+      "codepoint": 57398,
       "fontFamily": "Codicon",
       "identifier": "record"
     },
-    "record-keys": {
-      "codepoint": 57731,
-      "fontFamily": "Codicon",
-      "identifier": "recordKeys"
-    },
-    "record-keys-compact": {
-      "codepoint": 57732,
-      "fontFamily": "Codicon",
-      "identifier": "recordKeysCompact"
-    },
     "record-small": {
-      "codepoint": 57733,
+      "codepoint": 57399,
       "fontFamily": "Codicon",
       "identifier": "recordSmall"
     },
-    "redo": {
-      "codepoint": 57734,
-      "fontFamily": "Codicon",
-      "identifier": "redo"
-    },
-    "references": {
-      "codepoint": 57735,
-      "fontFamily": "Codicon",
-      "identifier": "references"
-    },
-    "refresh": {
-      "codepoint": 57736,
-      "fontFamily": "Codicon",
-      "identifier": "refresh"
-    },
-    "regex": {
-      "codepoint": 57737,
-      "fontFamily": "Codicon",
-      "identifier": "regex"
-    },
-    "remote": {
-      "codepoint": 57738,
-      "fontFamily": "Codicon",
-      "identifier": "remote"
-    },
-    "remote-compact": {
-      "codepoint": 57739,
-      "fontFamily": "Codicon",
-      "identifier": "remoteCompact"
-    },
-    "remote-explorer": {
-      "codepoint": 57740,
-      "fontFamily": "Codicon",
-      "identifier": "remoteExplorer"
-    },
     "remove": {
-      "codepoint": 57741,
+      "codepoint": 57400,
       "fontFamily": "Codicon",
       "identifier": "remove"
     },
     "remove-small": {
-      "codepoint": 57742,
+      "codepoint": 57401,
       "fontFamily": "Codicon",
       "identifier": "removeSmall"
     },
     "rename": {
-      "codepoint": 57743,
+      "codepoint": 57402,
       "fontFamily": "Codicon",
       "identifier": "rename"
     },
-    "replace": {
-      "codepoint": 57744,
-      "fontFamily": "Codicon",
-      "identifier": "replace"
-    },
-    "replace-all": {
-      "codepoint": 57745,
-      "fontFamily": "Codicon",
-      "identifier": "replaceAll"
-    },
-    "reply": {
-      "codepoint": 57746,
-      "fontFamily": "Codicon",
-      "identifier": "reply"
-    },
-    "repo": {
-      "codepoint": 57747,
-      "fontFamily": "Codicon",
-      "identifier": "repo"
-    },
-    "repo-clone": {
-      "codepoint": 57748,
-      "fontFamily": "Codicon",
-      "identifier": "repoClone"
-    },
-    "repo-compact": {
-      "codepoint": 57749,
-      "fontFamily": "Codicon",
-      "identifier": "repoCompact"
-    },
     "repo-fetch": {
-      "codepoint": 57750,
+      "codepoint": 57403,
       "fontFamily": "Codicon",
       "identifier": "repoFetch"
     },
-    "repo-force-push": {
-      "codepoint": 57751,
-      "fontFamily": "Codicon",
-      "identifier": "repoForcePush"
-    },
     "repo-forked": {
-      "codepoint": 57752,
+      "codepoint": 57404,
       "fontFamily": "Codicon",
       "identifier": "repoForked"
     },
-    "repo-forked-compact": {
-      "codepoint": 57753,
-      "fontFamily": "Codicon",
-      "identifier": "repoForkedCompact"
-    },
-    "repo-pinned": {
-      "codepoint": 57754,
-      "fontFamily": "Codicon",
-      "identifier": "repoPinned"
-    },
     "repo-pull": {
-      "codepoint": 57755,
+      "codepoint": 57405,
       "fontFamily": "Codicon",
       "identifier": "repoPull"
     },
     "repo-push": {
-      "codepoint": 57756,
+      "codepoint": 57406,
       "fontFamily": "Codicon",
       "identifier": "repoPush"
     },
-    "repo-selected": {
-      "codepoint": 57757,
-      "fontFamily": "Codicon",
-      "identifier": "repoSelected"
-    },
-    "report": {
-      "codepoint": 57758,
-      "fontFamily": "Codicon",
-      "identifier": "report"
-    },
-    "request-changes": {
-      "codepoint": 57759,
-      "fontFamily": "Codicon",
-      "identifier": "requestChanges"
-    },
-    "robot": {
-      "codepoint": 57760,
-      "fontFamily": "Codicon",
-      "identifier": "robot"
-    },
-    "rocket": {
-      "codepoint": 57761,
-      "fontFamily": "Codicon",
-      "identifier": "rocket"
-    },
-    "root-folder": {
-      "codepoint": 57762,
-      "fontFamily": "Codicon",
-      "identifier": "rootFolder"
-    },
-    "root-folder-opened": {
-      "codepoint": 57763,
-      "fontFamily": "Codicon",
-      "identifier": "rootFolderOpened"
-    },
     "rss": {
-      "codepoint": 57764,
+      "codepoint": 57407,
       "fontFamily": "Codicon",
       "identifier": "rss"
     },
-    "ruby": {
-      "codepoint": 57765,
-      "fontFamily": "Codicon",
-      "identifier": "ruby"
-    },
-    "run-above": {
-      "codepoint": 57766,
-      "fontFamily": "Codicon",
-      "identifier": "runAbove"
-    },
-    "run-all": {
-      "codepoint": 57767,
-      "fontFamily": "Codicon",
-      "identifier": "runAll"
-    },
-    "run-all-coverage": {
-      "codepoint": 57768,
-      "fontFamily": "Codicon",
-      "identifier": "runAllCoverage"
-    },
-    "run-below": {
-      "codepoint": 57769,
-      "fontFamily": "Codicon",
-      "identifier": "runBelow"
-    },
-    "run-coverage": {
-      "codepoint": 57770,
-      "fontFamily": "Codicon",
-      "identifier": "runCoverage"
-    },
-    "run-errors": {
-      "codepoint": 57771,
-      "fontFamily": "Codicon",
-      "identifier": "runErrors"
-    },
-    "run-with-deps": {
-      "codepoint": 57772,
-      "fontFamily": "Codicon",
-      "identifier": "runWithDeps"
-    },
-    "save": {
-      "codepoint": 57773,
-      "fontFamily": "Codicon",
-      "identifier": "save"
-    },
-    "save-all": {
-      "codepoint": 57774,
-      "fontFamily": "Codicon",
-      "identifier": "saveAll"
-    },
-    "save-as": {
-      "codepoint": 57775,
-      "fontFamily": "Codicon",
-      "identifier": "saveAs"
-    },
-    "screen-cut": {
-      "codepoint": 57776,
-      "fontFamily": "Codicon",
-      "identifier": "screenCut"
-    },
-    "screen-full": {
-      "codepoint": 57777,
-      "fontFamily": "Codicon",
-      "identifier": "screenFull"
-    },
     "screen-normal": {
-      "codepoint": 57778,
+      "codepoint": 57408,
       "fontFamily": "Codicon",
       "identifier": "screenNormal"
     },
-    "search": {
-      "codepoint": 57779,
-      "fontFamily": "Codicon",
-      "identifier": "search"
-    },
-    "search-fuzzy": {
-      "codepoint": 57780,
-      "fontFamily": "Codicon",
-      "identifier": "searchFuzzy"
-    },
-    "search-large": {
-      "codepoint": 57781,
-      "fontFamily": "Codicon",
-      "identifier": "searchLarge"
-    },
-    "search-sparkle": {
-      "codepoint": 57782,
-      "fontFamily": "Codicon",
-      "identifier": "searchSparkle"
-    },
-    "search-stop": {
-      "codepoint": 57783,
-      "fontFamily": "Codicon",
-      "identifier": "searchStop"
-    },
-    "send": {
-      "codepoint": 57784,
-      "fontFamily": "Codicon",
-      "identifier": "send"
-    },
-    "send-to-remote-agent": {
-      "codepoint": 57785,
-      "fontFamily": "Codicon",
-      "identifier": "sendToRemoteAgent"
-    },
-    "server": {
-      "codepoint": 57786,
-      "fontFamily": "Codicon",
-      "identifier": "server"
-    },
-    "server-environment": {
-      "codepoint": 57787,
-      "fontFamily": "Codicon",
-      "identifier": "serverEnvironment"
-    },
-    "server-process": {
-      "codepoint": 57788,
-      "fontFamily": "Codicon",
-      "identifier": "serverProcess"
-    },
-    "session-in-progress": {
-      "codepoint": 57789,
-      "fontFamily": "Codicon",
-      "identifier": "sessionInProgress"
-    },
-    "settings": {
-      "codepoint": 57790,
-      "fontFamily": "Codicon",
-      "identifier": "settings"
-    },
-    "settings-gear": {
-      "codepoint": 57791,
-      "fontFamily": "Codicon",
-      "identifier": "settingsGear"
-    },
-    "share": {
-      "codepoint": 57792,
-      "fontFamily": "Codicon",
-      "identifier": "share"
-    },
     "share-window": {
-      "codepoint": 57793,
+      "codepoint": 57409,
       "fontFamily": "Codicon",
       "identifier": "shareWindow"
     },
-    "shield": {
-      "codepoint": 57794,
-      "fontFamily": "Codicon",
-      "identifier": "shield"
-    },
-    "shield-compact": {
-      "codepoint": 57795,
-      "fontFamily": "Codicon",
-      "identifier": "shieldCompact"
-    },
-    "sign-in": {
-      "codepoint": 57796,
-      "fontFamily": "Codicon",
-      "identifier": "signIn"
-    },
-    "sign-out": {
-      "codepoint": 57797,
-      "fontFamily": "Codicon",
-      "identifier": "signOut"
-    },
-    "skip": {
-      "codepoint": 57798,
-      "fontFamily": "Codicon",
-      "identifier": "skip"
-    },
-    "smiley": {
-      "codepoint": 57799,
-      "fontFamily": "Codicon",
-      "identifier": "smiley"
-    },
-    "snake": {
-      "codepoint": 57800,
-      "fontFamily": "Codicon",
-      "identifier": "snake"
-    },
-    "sort-precedence": {
-      "codepoint": 57801,
-      "fontFamily": "Codicon",
-      "identifier": "sortPrecedence"
-    },
-    "source-control": {
-      "codepoint": 57802,
-      "fontFamily": "Codicon",
-      "identifier": "sourceControl"
-    },
-    "sparkle": {
-      "codepoint": 57803,
-      "fontFamily": "Codicon",
-      "identifier": "sparkle"
-    },
-    "sparkle-compact": {
-      "codepoint": 57804,
-      "fontFamily": "Codicon",
-      "identifier": "sparkleCompact"
-    },
-    "sparkle-filled": {
-      "codepoint": 57805,
-      "fontFamily": "Codicon",
-      "identifier": "sparkleFilled"
-    },
-    "split-horizontal": {
-      "codepoint": 57806,
-      "fontFamily": "Codicon",
-      "identifier": "splitHorizontal"
-    },
-    "split-vertical": {
-      "codepoint": 57807,
-      "fontFamily": "Codicon",
-      "identifier": "splitVertical"
-    },
-    "squirrel": {
-      "codepoint": 57808,
-      "fontFamily": "Codicon",
-      "identifier": "squirrel"
-    },
-    "star-empty": {
-      "codepoint": 57809,
-      "fontFamily": "Codicon",
-      "identifier": "starEmpty"
-    },
-    "star-full": {
-      "codepoint": 57810,
-      "fontFamily": "Codicon",
-      "identifier": "starFull"
-    },
-    "star-half": {
-      "codepoint": 57811,
-      "fontFamily": "Codicon",
-      "identifier": "starHalf"
-    },
     "stop-circle": {
-      "codepoint": 57812,
+      "codepoint": 57410,
       "fontFamily": "Codicon",
       "identifier": "stopCircle"
     },
-    "strikethrough": {
-      "codepoint": 57813,
-      "fontFamily": "Codicon",
-      "identifier": "strikethrough"
-    },
-    "surround-with": {
-      "codepoint": 57814,
-      "fontFamily": "Codicon",
-      "identifier": "surroundWith"
-    },
-    "symbol-array": {
-      "codepoint": 57815,
-      "fontFamily": "Codicon",
-      "identifier": "symbolArray"
-    },
-    "symbol-boolean": {
-      "codepoint": 57816,
-      "fontFamily": "Codicon",
-      "identifier": "symbolBoolean"
-    },
-    "symbol-class": {
-      "codepoint": 57817,
-      "fontFamily": "Codicon",
-      "identifier": "symbolClass"
-    },
-    "symbol-color": {
-      "codepoint": 57818,
-      "fontFamily": "Codicon",
-      "identifier": "symbolColor"
-    },
-    "symbol-color-compact": {
-      "codepoint": 57819,
-      "fontFamily": "Codicon",
-      "identifier": "symbolColorCompact"
-    },
     "symbol-constant": {
-      "codepoint": 57820,
+      "codepoint": 57411,
       "fontFamily": "Codicon",
       "identifier": "symbolConstant"
     },
-    "symbol-enum": {
-      "codepoint": 57821,
-      "fontFamily": "Codicon",
-      "identifier": "symbolEnum"
-    },
-    "symbol-enum-member": {
-      "codepoint": 57822,
-      "fontFamily": "Codicon",
-      "identifier": "symbolEnumMember"
-    },
-    "symbol-event": {
-      "codepoint": 57823,
-      "fontFamily": "Codicon",
-      "identifier": "symbolEvent"
-    },
-    "symbol-field": {
-      "codepoint": 57824,
-      "fontFamily": "Codicon",
-      "identifier": "symbolField"
-    },
     "symbol-file": {
-      "codepoint": 57825,
+      "codepoint": 57412,
       "fontFamily": "Codicon",
       "identifier": "symbolFile"
     },
-    "symbol-interface": {
-      "codepoint": 57826,
-      "fontFamily": "Codicon",
-      "identifier": "symbolInterface"
-    },
-    "symbol-key": {
-      "codepoint": 57827,
-      "fontFamily": "Codicon",
-      "identifier": "symbolKey"
-    },
     "symbol-keyword": {
-      "codepoint": 57828,
+      "codepoint": 57413,
       "fontFamily": "Codicon",
       "identifier": "symbolKeyword"
     },
-    "symbol-method": {
-      "codepoint": 57829,
-      "fontFamily": "Codicon",
-      "identifier": "symbolMethod"
-    },
-    "symbol-method-arrow": {
-      "codepoint": 57830,
-      "fontFamily": "Codicon",
-      "identifier": "symbolMethodArrow"
-    },
-    "symbol-misc": {
-      "codepoint": 57831,
-      "fontFamily": "Codicon",
-      "identifier": "symbolMisc"
-    },
-    "symbol-namespace": {
-      "codepoint": 57832,
-      "fontFamily": "Codicon",
-      "identifier": "symbolNamespace"
-    },
     "symbol-numeric": {
-      "codepoint": 57833,
+      "codepoint": 57414,
       "fontFamily": "Codicon",
       "identifier": "symbolNumeric"
     },
-    "symbol-operator": {
-      "codepoint": 57834,
-      "fontFamily": "Codicon",
-      "identifier": "symbolOperator"
-    },
-    "symbol-parameter": {
-      "codepoint": 57835,
-      "fontFamily": "Codicon",
-      "identifier": "symbolParameter"
-    },
-    "symbol-property": {
-      "codepoint": 57836,
-      "fontFamily": "Codicon",
-      "identifier": "symbolProperty"
-    },
     "symbol-ruler": {
-      "codepoint": 57837,
+      "codepoint": 57415,
       "fontFamily": "Codicon",
       "identifier": "symbolRuler"
     },
     "symbol-snippet": {
-      "codepoint": 57838,
+      "codepoint": 57416,
       "fontFamily": "Codicon",
       "identifier": "symbolSnippet"
     },
-    "symbol-string": {
-      "codepoint": 57839,
-      "fontFamily": "Codicon",
-      "identifier": "symbolString"
-    },
     "symbol-structure": {
-      "codepoint": 57840,
+      "codepoint": 57417,
       "fontFamily": "Codicon",
       "identifier": "symbolStructure"
     },
-    "symbol-variable": {
-      "codepoint": 57841,
-      "fontFamily": "Codicon",
-      "identifier": "symbolVariable"
-    },
-    "sync": {
-      "codepoint": 57842,
-      "fontFamily": "Codicon",
-      "identifier": "sync_"
-    },
-    "sync-ignored": {
-      "codepoint": 57843,
-      "fontFamily": "Codicon",
-      "identifier": "syncIgnored"
-    },
     "table": {
-      "codepoint": 57844,
+      "codepoint": 57418,
       "fontFamily": "Codicon",
       "identifier": "table"
     },
-    "tag": {
-      "codepoint": 57845,
-      "fontFamily": "Codicon",
-      "identifier": "tag"
-    },
     "target": {
-      "codepoint": 57846,
+      "codepoint": 57419,
       "fontFamily": "Codicon",
       "identifier": "target"
     },
-    "tasklist": {
-      "codepoint": 57847,
-      "fontFamily": "Codicon",
-      "identifier": "tasklist"
-    },
-    "telescope": {
-      "codepoint": 57848,
-      "fontFamily": "Codicon",
-      "identifier": "telescope"
-    },
-    "terminal": {
-      "codepoint": 57849,
-      "fontFamily": "Codicon",
-      "identifier": "terminal"
-    },
-    "terminal-bash": {
-      "codepoint": 57850,
-      "fontFamily": "Codicon",
-      "identifier": "terminalBash"
-    },
-    "terminal-cmd": {
-      "codepoint": 57851,
-      "fontFamily": "Codicon",
-      "identifier": "terminalCmd"
-    },
-    "terminal-debian": {
-      "codepoint": 57852,
-      "fontFamily": "Codicon",
-      "identifier": "terminalDebian"
-    },
-    "terminal-git-bash": {
-      "codepoint": 57853,
-      "fontFamily": "Codicon",
-      "identifier": "terminalGitBash"
-    },
-    "terminal-linux": {
-      "codepoint": 57854,
-      "fontFamily": "Codicon",
-      "identifier": "terminalLinux"
-    },
-    "terminal-powershell": {
-      "codepoint": 57855,
-      "fontFamily": "Codicon",
-      "identifier": "terminalPowershell"
-    },
-    "terminal-secure": {
-      "codepoint": 57856,
-      "fontFamily": "Codicon",
-      "identifier": "terminalSecure"
-    },
     "terminal-tmux": {
-      "codepoint": 57857,
+      "codepoint": 57420,
       "fontFamily": "Codicon",
       "identifier": "terminalTmux"
     },
-    "terminal-ubuntu": {
-      "codepoint": 57858,
-      "fontFamily": "Codicon",
-      "identifier": "terminalUbuntu"
-    },
-    "text-size": {
-      "codepoint": 57859,
-      "fontFamily": "Codicon",
-      "identifier": "textSize"
-    },
-    "thinking": {
-      "codepoint": 57860,
-      "fontFamily": "Codicon",
-      "identifier": "thinking"
-    },
     "three-bars": {
-      "codepoint": 57861,
+      "codepoint": 57421,
       "fontFamily": "Codicon",
       "identifier": "threeBars"
     },
-    "thumbsdown": {
-      "codepoint": 57862,
-      "fontFamily": "Codicon",
-      "identifier": "thumbsdown"
-    },
-    "thumbsdown-filled": {
-      "codepoint": 57863,
-      "fontFamily": "Codicon",
-      "identifier": "thumbsdownFilled"
-    },
-    "thumbsup": {
-      "codepoint": 57864,
-      "fontFamily": "Codicon",
-      "identifier": "thumbsup"
-    },
-    "thumbsup-filled": {
-      "codepoint": 57865,
-      "fontFamily": "Codicon",
-      "identifier": "thumbsupFilled"
-    },
-    "tools": {
-      "codepoint": 57866,
-      "fontFamily": "Codicon",
-      "identifier": "tools"
-    },
-    "trash": {
-      "codepoint": 57867,
-      "fontFamily": "Codicon",
-      "identifier": "trash"
-    },
-    "triangle-down": {
-      "codepoint": 57868,
-      "fontFamily": "Codicon",
-      "identifier": "triangleDown"
-    },
-    "triangle-left": {
-      "codepoint": 57869,
-      "fontFamily": "Codicon",
-      "identifier": "triangleLeft"
-    },
-    "triangle-right": {
-      "codepoint": 57870,
-      "fontFamily": "Codicon",
-      "identifier": "triangleRight"
-    },
-    "triangle-up": {
-      "codepoint": 57871,
-      "fontFamily": "Codicon",
-      "identifier": "triangleUp"
-    },
-    "twitter": {
-      "codepoint": 57872,
-      "fontFamily": "Codicon",
-      "identifier": "twitter"
-    },
-    "type-hierarchy": {
-      "codepoint": 57873,
-      "fontFamily": "Codicon",
-      "identifier": "typeHierarchy"
-    },
     "type-hierarchy-sub": {
-      "codepoint": 57874,
+      "codepoint": 57422,
       "fontFamily": "Codicon",
       "identifier": "typeHierarchySub"
     },
     "type-hierarchy-super": {
-      "codepoint": 57875,
+      "codepoint": 57423,
       "fontFamily": "Codicon",
       "identifier": "typeHierarchySuper"
     },
-    "unarchive": {
-      "codepoint": 57876,
-      "fontFamily": "Codicon",
-      "identifier": "unarchive"
-    },
-    "unfold": {
-      "codepoint": 57877,
-      "fontFamily": "Codicon",
-      "identifier": "unfold"
-    },
-    "ungroup-by-ref-type": {
-      "codepoint": 57878,
-      "fontFamily": "Codicon",
-      "identifier": "ungroupByRefType"
-    },
-    "unlock": {
-      "codepoint": 57879,
-      "fontFamily": "Codicon",
-      "identifier": "unlock"
-    },
-    "unmute": {
-      "codepoint": 57880,
-      "fontFamily": "Codicon",
-      "identifier": "unmute"
-    },
-    "unverified": {
-      "codepoint": 57881,
-      "fontFamily": "Codicon",
-      "identifier": "unverified"
-    },
-    "variable-group": {
-      "codepoint": 57882,
-      "fontFamily": "Codicon",
-      "identifier": "variableGroup"
-    },
-    "verified": {
-      "codepoint": 57883,
-      "fontFamily": "Codicon",
-      "identifier": "verified"
-    },
-    "verified-filled": {
-      "codepoint": 57884,
-      "fontFamily": "Codicon",
-      "identifier": "verifiedFilled"
-    },
-    "versions": {
-      "codepoint": 57885,
-      "fontFamily": "Codicon",
-      "identifier": "versions"
-    },
     "vm": {
-      "codepoint": 57886,
+      "codepoint": 57424,
       "fontFamily": "Codicon",
       "identifier": "vm"
     },
-    "vm-active": {
-      "codepoint": 57887,
-      "fontFamily": "Codicon",
-      "identifier": "vmActive"
-    },
-    "vm-connect": {
-      "codepoint": 57888,
-      "fontFamily": "Codicon",
-      "identifier": "vmConnect"
-    },
-    "vm-outline": {
-      "codepoint": 57889,
-      "fontFamily": "Codicon",
-      "identifier": "vmOutline"
-    },
-    "vm-pending": {
-      "codepoint": 57890,
-      "fontFamily": "Codicon",
-      "identifier": "vmPending"
-    },
-    "vm-running": {
-      "codepoint": 57891,
-      "fontFamily": "Codicon",
-      "identifier": "vmRunning"
-    },
-    "vm-small": {
-      "codepoint": 57892,
-      "fontFamily": "Codicon",
-      "identifier": "vmSmall"
-    },
-    "vr": {
-      "codepoint": 57893,
-      "fontFamily": "Codicon",
-      "identifier": "vr"
-    },
-    "vscode": {
-      "codepoint": 57894,
-      "fontFamily": "Codicon",
-      "identifier": "vscode"
-    },
-    "vscode-insiders": {
-      "codepoint": 57895,
-      "fontFamily": "Codicon",
-      "identifier": "vscodeInsiders"
-    },
-    "wand": {
-      "codepoint": 57896,
-      "fontFamily": "Codicon",
-      "identifier": "wand"
-    },
-    "warning": {
-      "codepoint": 57897,
-      "fontFamily": "Codicon",
-      "identifier": "warning"
-    },
-    "watch": {
-      "codepoint": 57898,
-      "fontFamily": "Codicon",
-      "identifier": "watch"
-    },
     "whitespace": {
-      "codepoint": 57899,
+      "codepoint": 57425,
       "fontFamily": "Codicon",
       "identifier": "whitespace"
     },
-    "whole-word": {
-      "codepoint": 57900,
-      "fontFamily": "Codicon",
-      "identifier": "wholeWord"
-    },
     "window": {
-      "codepoint": 57901,
+      "codepoint": 57426,
       "fontFamily": "Codicon",
       "identifier": "window"
-    },
-    "window-active": {
-      "codepoint": 57902,
-      "fontFamily": "Codicon",
-      "identifier": "windowActive"
-    },
-    "window-compact": {
-      "codepoint": 57903,
-      "fontFamily": "Codicon",
-      "identifier": "windowCompact"
-    },
-    "word-wrap": {
-      "codepoint": 57904,
-      "fontFamily": "Codicon",
-      "identifier": "wordWrap"
-    },
-    "workspace-trusted": {
-      "codepoint": 57905,
-      "fontFamily": "Codicon",
-      "identifier": "workspaceTrusted"
-    },
-    "workspace-unknown": {
-      "codepoint": 57906,
-      "fontFamily": "Codicon",
-      "identifier": "workspaceUnknown"
-    },
-    "workspace-untrusted": {
-      "codepoint": 57907,
-      "fontFamily": "Codicon",
-      "identifier": "workspaceUntrusted"
-    },
-    "worktree": {
-      "codepoint": 57908,
-      "fontFamily": "Codicon",
-      "identifier": "worktree"
-    },
-    "worktree-small": {
-      "codepoint": 57909,
-      "fontFamily": "Codicon",
-      "identifier": "worktreeSmall"
-    },
-    "zoom-in": {
-      "codepoint": 57910,
-      "fontFamily": "Codicon",
-      "identifier": "zoomIn"
-    },
-    "zoom-out": {
-      "codepoint": 57911,
-      "fontFamily": "Codicon",
-      "identifier": "zoomOut"
     }
   }
 }

@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'Apache 2.0',
   licenseSpdx: 'Apache-2.0',
   licenseUrl: 'https://github.com/cyberalien/RemixIcon/blob/master/License',
-  iconCount: 3244,
+  iconCount: 1750,
 );

@@ -136,7 +136,9 @@ Browse every bundled set in a paginated drawer view. Filter icons by name. Tap a
 
 ## Coverage
 
-206 of 225 Iconify sets currently build successfully (300,907 live icons). 19 sets fail because of non-standard SVG path data upstream — see [CLAUDE.md](CLAUDE.md#known-failures) for the list and recovery options.
+215 of 225 Iconify sets currently build successfully (~166,000 live icons). The 10 sets that don't build are dominated by gradients, filters, or animations (color-emoji sets, `svg-spinners`, etc.) that don't translate to a monochrome TTF; see [CLAUDE.md](CLAUDE.md#known-failures) for the list.
+
+**Stroke-only sets** like Lucide, Tabler, Iconoir, Heroicons-outline, mdi-light, Phosphor-thin, Feather — these need their stroked outlines converted to filled outlines before font conversion, otherwise they render as solid blobs in the bundle. The generator handles this automatically for sets listed under `strokeFillSets` in `tools/generator/config.yaml`. First run is slow (~10–20 s per stroke set) because each icon is rasterized + Potrace-traced; subsequent runs are nearly instant thanks to disk-cached results.
 
 ## License
 

@@ -11,13 +11,36 @@ class TwoIconApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(title: const Text('Two-icon bundle size test')),
+        appBar: AppBar(title: const Text('Lucide stroke-fill verification')),
         body: Center(
-          child: Row(
-            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Icon(MdiIcons.home.data, size: 64),
-              Icon(LucideIcons.house.data, size: 64),
+              const Text('Lucide (stroke→fill processed):',
+                  style: TextStyle(fontSize: 16)),
+              const SizedBox(height: 12),
+              Wrap(
+                spacing: 16,
+                children: [
+                  Icon(LucideIcons.alarmClockCheck.data, size: 64),
+                  Icon(LucideIcons.house.data, size: 64),
+                  Icon(LucideIcons.heart.data, size: 64),
+                  Icon(LucideIcons.search.data, size: 64),
+                  Icon(LucideIcons.user.data, size: 64),
+                ],
+              ),
+              const SizedBox(height: 24),
+              const Text('Material Design Icons (already filled):',
+                  style: TextStyle(fontSize: 16)),
+              const SizedBox(height: 12),
+              Wrap(
+                spacing: 16,
+                children: [
+                  Icon(MdiIcons.home.data, size: 64),
+                  Icon(MdiIcons.heart.data, size: 64),
+                  Icon(MdiIcons.magnify.data, size: 64),
+                ],
+              ),
             ],
           ),
         ),

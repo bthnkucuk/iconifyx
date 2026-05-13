@@ -16,850 +16,220 @@
       "spdx": "OFL-1.1",
       "url": "https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL"
     },
-    "total": 167
+    "total": 41
   },
   "fonts": [
     {
       "family": "Map",
-      "nextCodepoint": 57511,
-      "iconCount": 167
+      "nextCodepoint": 57385,
+      "iconCount": 41
     }
   ],
   "icons": {
-    "abseiling": {
-      "codepoint": 57344,
-      "fontFamily": "Map",
-      "identifier": "abseiling"
-    },
     "accounting": {
-      "codepoint": 57345,
+      "codepoint": 57344,
       "fontFamily": "Map",
       "identifier": "accounting"
     },
-    "airport": {
-      "codepoint": 57346,
-      "fontFamily": "Map",
-      "identifier": "airport"
-    },
-    "amusement-park": {
-      "codepoint": 57347,
-      "fontFamily": "Map",
-      "identifier": "amusementPark"
-    },
-    "aquarium": {
-      "codepoint": 57348,
-      "fontFamily": "Map",
-      "identifier": "aquarium"
-    },
-    "archery": {
-      "codepoint": 57349,
-      "fontFamily": "Map",
-      "identifier": "archery"
-    },
     "art-gallery": {
-      "codepoint": 57350,
+      "codepoint": 57345,
       "fontFamily": "Map",
       "identifier": "artGallery"
     },
-    "assistive-listening-system": {
-      "codepoint": 57351,
-      "fontFamily": "Map",
-      "identifier": "assistiveListeningSystem"
-    },
-    "atm": {
-      "codepoint": 57352,
-      "fontFamily": "Map",
-      "identifier": "atm"
-    },
-    "audio-description": {
-      "codepoint": 57353,
-      "fontFamily": "Map",
-      "identifier": "audioDescription"
-    },
-    "bakery": {
-      "codepoint": 57354,
-      "fontFamily": "Map",
-      "identifier": "bakery"
-    },
-    "bank": {
-      "codepoint": 57355,
-      "fontFamily": "Map",
-      "identifier": "bank"
-    },
     "bar": {
-      "codepoint": 57356,
+      "codepoint": 57346,
       "fontFamily": "Map",
       "identifier": "bar"
     },
-    "baseball": {
-      "codepoint": 57357,
-      "fontFamily": "Map",
-      "identifier": "baseball"
-    },
-    "beauty-salon": {
-      "codepoint": 57358,
-      "fontFamily": "Map",
-      "identifier": "beautySalon"
-    },
-    "bicycle-store": {
-      "codepoint": 57359,
-      "fontFamily": "Map",
-      "identifier": "bicycleStore"
-    },
-    "boat-ramp": {
-      "codepoint": 57360,
-      "fontFamily": "Map",
-      "identifier": "boatRamp"
-    },
-    "boat-tour": {
-      "codepoint": 57361,
-      "fontFamily": "Map",
-      "identifier": "boatTour"
-    },
-    "boating": {
-      "codepoint": 57362,
-      "fontFamily": "Map",
-      "identifier": "boating"
-    },
     "book-store": {
-      "codepoint": 57363,
+      "codepoint": 57347,
       "fontFamily": "Map",
       "identifier": "bookStore"
     },
-    "bowling-alley": {
-      "codepoint": 57364,
-      "fontFamily": "Map",
-      "identifier": "bowlingAlley"
-    },
-    "braille": {
-      "codepoint": 57365,
-      "fontFamily": "Map",
-      "identifier": "braille"
-    },
-    "bus-station": {
-      "codepoint": 57366,
-      "fontFamily": "Map",
-      "identifier": "busStation"
-    },
-    "cafe": {
-      "codepoint": 57367,
-      "fontFamily": "Map",
-      "identifier": "cafe"
-    },
-    "campground": {
-      "codepoint": 57368,
-      "fontFamily": "Map",
-      "identifier": "campground"
-    },
-    "canoe": {
-      "codepoint": 57369,
-      "fontFamily": "Map",
-      "identifier": "canoe"
-    },
-    "car-dealer": {
-      "codepoint": 57370,
-      "fontFamily": "Map",
-      "identifier": "carDealer"
-    },
-    "car-rental": {
-      "codepoint": 57371,
-      "fontFamily": "Map",
-      "identifier": "carRental"
-    },
-    "car-repair": {
-      "codepoint": 57372,
-      "fontFamily": "Map",
-      "identifier": "carRepair"
-    },
-    "car-wash": {
-      "codepoint": 57373,
-      "fontFamily": "Map",
-      "identifier": "carWash"
-    },
-    "casino": {
-      "codepoint": 57374,
-      "fontFamily": "Map",
-      "identifier": "casino"
-    },
     "cemetery": {
-      "codepoint": 57375,
+      "codepoint": 57348,
       "fontFamily": "Map",
       "identifier": "cemetery"
     },
-    "chairlift": {
-      "codepoint": 57376,
-      "fontFamily": "Map",
-      "identifier": "chairlift"
-    },
     "church": {
-      "codepoint": 57377,
+      "codepoint": 57349,
       "fontFamily": "Map",
       "identifier": "church"
     },
     "circle": {
-      "codepoint": 57378,
+      "codepoint": 57350,
       "fontFamily": "Map",
       "identifier": "circle"
     },
-    "city-hall": {
-      "codepoint": 57379,
-      "fontFamily": "Map",
-      "identifier": "cityHall"
-    },
-    "climbing": {
-      "codepoint": 57380,
-      "fontFamily": "Map",
-      "identifier": "climbing"
-    },
-    "closed-captioning": {
-      "codepoint": 57381,
-      "fontFamily": "Map",
-      "identifier": "closedCaptioning"
-    },
-    "clothing-store": {
-      "codepoint": 57382,
-      "fontFamily": "Map",
-      "identifier": "clothingStore"
-    },
     "compass": {
-      "codepoint": 57383,
+      "codepoint": 57351,
       "fontFamily": "Map",
       "identifier": "compass"
     },
-    "convenience-store": {
-      "codepoint": 57384,
-      "fontFamily": "Map",
-      "identifier": "convenienceStore"
-    },
-    "courthouse": {
-      "codepoint": 57385,
-      "fontFamily": "Map",
-      "identifier": "courthouse"
-    },
-    "cross-country-skiing": {
-      "codepoint": 57386,
-      "fontFamily": "Map",
-      "identifier": "crossCountrySkiing"
-    },
     "crosshairs": {
-      "codepoint": 57387,
+      "codepoint": 57352,
       "fontFamily": "Map",
       "identifier": "crosshairs"
     },
-    "dentist": {
-      "codepoint": 57388,
-      "fontFamily": "Map",
-      "identifier": "dentist"
-    },
     "department-store": {
-      "codepoint": 57389,
+      "codepoint": 57353,
       "fontFamily": "Map",
       "identifier": "departmentStore"
     },
-    "diving": {
-      "codepoint": 57390,
-      "fontFamily": "Map",
-      "identifier": "diving"
-    },
     "doctor": {
-      "codepoint": 57391,
+      "codepoint": 57354,
       "fontFamily": "Map",
       "identifier": "doctor"
     },
-    "electrician": {
-      "codepoint": 57392,
-      "fontFamily": "Map",
-      "identifier": "electrician"
-    },
     "electronics-store": {
-      "codepoint": 57393,
+      "codepoint": 57355,
       "fontFamily": "Map",
       "identifier": "electronicsStore"
     },
-    "embassy": {
-      "codepoint": 57394,
-      "fontFamily": "Map",
-      "identifier": "embassy"
-    },
     "expand": {
-      "codepoint": 57395,
+      "codepoint": 57356,
       "fontFamily": "Map",
       "identifier": "expand"
     },
-    "female": {
-      "codepoint": 57396,
-      "fontFamily": "Map",
-      "identifier": "female"
-    },
-    "finance": {
-      "codepoint": 57397,
-      "fontFamily": "Map",
-      "identifier": "finance"
-    },
-    "fire-station": {
-      "codepoint": 57398,
-      "fontFamily": "Map",
-      "identifier": "fireStation"
-    },
-    "fish-cleaning": {
-      "codepoint": 57399,
-      "fontFamily": "Map",
-      "identifier": "fishCleaning"
-    },
-    "fishing-pier": {
-      "codepoint": 57400,
-      "fontFamily": "Map",
-      "identifier": "fishingPier"
-    },
     "florist": {
-      "codepoint": 57401,
+      "codepoint": 57357,
       "fontFamily": "Map",
       "identifier": "florist"
     },
-    "food": {
-      "codepoint": 57402,
-      "fontFamily": "Map",
-      "identifier": "food"
-    },
     "fullscreen": {
-      "codepoint": 57403,
+      "codepoint": 57358,
       "fontFamily": "Map",
       "identifier": "fullscreen"
     },
     "funeral-home": {
-      "codepoint": 57404,
+      "codepoint": 57359,
       "fontFamily": "Map",
       "identifier": "funeralHome"
     },
-    "furniture-store": {
-      "codepoint": 57405,
-      "fontFamily": "Map",
-      "identifier": "furnitureStore"
-    },
-    "gas-station": {
-      "codepoint": 57406,
-      "fontFamily": "Map",
-      "identifier": "gasStation"
-    },
-    "general-contractor": {
-      "codepoint": 57407,
-      "fontFamily": "Map",
-      "identifier": "generalContractor"
-    },
-    "grocery-or-supermarket": {
-      "codepoint": 57408,
-      "fontFamily": "Map",
-      "identifier": "groceryOrSupermarket"
-    },
-    "gym": {
-      "codepoint": 57409,
-      "fontFamily": "Map",
-      "identifier": "gym"
-    },
-    "hair-care": {
-      "codepoint": 57410,
-      "fontFamily": "Map",
-      "identifier": "hairCare"
-    },
-    "hang-gliding": {
-      "codepoint": 57411,
-      "fontFamily": "Map",
-      "identifier": "hangGliding"
-    },
-    "hardware-store": {
-      "codepoint": 57412,
-      "fontFamily": "Map",
-      "identifier": "hardwareStore"
-    },
     "health": {
-      "codepoint": 57413,
+      "codepoint": 57360,
       "fontFamily": "Map",
       "identifier": "health"
     },
-    "hindu-temple": {
-      "codepoint": 57414,
-      "fontFamily": "Map",
-      "identifier": "hinduTemple"
-    },
     "hospital": {
-      "codepoint": 57415,
+      "codepoint": 57361,
       "fontFamily": "Map",
       "identifier": "hospital"
     },
-    "ice-fishing": {
-      "codepoint": 57416,
-      "fontFamily": "Map",
-      "identifier": "iceFishing"
-    },
-    "ice-skating": {
-      "codepoint": 57417,
-      "fontFamily": "Map",
-      "identifier": "iceSkating"
-    },
-    "inline-skating": {
-      "codepoint": 57418,
-      "fontFamily": "Map",
-      "identifier": "inlineSkating"
-    },
-    "insurance-agency": {
-      "codepoint": 57419,
-      "fontFamily": "Map",
-      "identifier": "insuranceAgency"
-    },
-    "jet-skiing": {
-      "codepoint": 57420,
-      "fontFamily": "Map",
-      "identifier": "jetSkiing"
-    },
-    "jewelry-store": {
-      "codepoint": 57421,
-      "fontFamily": "Map",
-      "identifier": "jewelryStore"
-    },
-    "kayaking": {
-      "codepoint": 57422,
-      "fontFamily": "Map",
-      "identifier": "kayaking"
-    },
-    "laundry": {
-      "codepoint": 57423,
-      "fontFamily": "Map",
-      "identifier": "laundry"
-    },
-    "lawyer": {
-      "codepoint": 57424,
-      "fontFamily": "Map",
-      "identifier": "lawyer"
-    },
-    "library": {
-      "codepoint": 57425,
-      "fontFamily": "Map",
-      "identifier": "library_"
-    },
-    "liquor-store": {
-      "codepoint": 57426,
-      "fontFamily": "Map",
-      "identifier": "liquorStore"
-    },
-    "local-government": {
-      "codepoint": 57427,
-      "fontFamily": "Map",
-      "identifier": "localGovernment"
-    },
     "location-arrow": {
-      "codepoint": 57428,
+      "codepoint": 57362,
       "fontFamily": "Map",
       "identifier": "locationArrow"
     },
-    "locksmith": {
-      "codepoint": 57429,
-      "fontFamily": "Map",
-      "identifier": "locksmith"
-    },
-    "lodging": {
-      "codepoint": 57430,
-      "fontFamily": "Map",
-      "identifier": "lodging"
-    },
-    "low-vision-access": {
-      "codepoint": 57431,
-      "fontFamily": "Map",
-      "identifier": "lowVisionAccess"
-    },
-    "male": {
-      "codepoint": 57432,
-      "fontFamily": "Map",
-      "identifier": "male"
-    },
     "map-pin": {
-      "codepoint": 57433,
+      "codepoint": 57363,
       "fontFamily": "Map",
       "identifier": "mapPin"
     },
-    "marina": {
-      "codepoint": 57434,
-      "fontFamily": "Map",
-      "identifier": "marina"
-    },
-    "mosque": {
-      "codepoint": 57435,
-      "fontFamily": "Map",
-      "identifier": "mosque"
-    },
     "movie-rental": {
-      "codepoint": 57436,
+      "codepoint": 57364,
       "fontFamily": "Map",
       "identifier": "movieRental"
     },
     "movie-theater": {
-      "codepoint": 57437,
+      "codepoint": 57365,
       "fontFamily": "Map",
       "identifier": "movieTheater"
     },
-    "moving-company": {
-      "codepoint": 57438,
-      "fontFamily": "Map",
-      "identifier": "movingCompany"
-    },
-    "museum": {
-      "codepoint": 57439,
-      "fontFamily": "Map",
-      "identifier": "museum"
-    },
-    "natural-feature": {
-      "codepoint": 57440,
-      "fontFamily": "Map",
-      "identifier": "naturalFeature"
-    },
-    "night-club": {
-      "codepoint": 57441,
-      "fontFamily": "Map",
-      "identifier": "nightClub"
-    },
-    "open-captioning": {
-      "codepoint": 57442,
-      "fontFamily": "Map",
-      "identifier": "openCaptioning"
-    },
-    "painter": {
-      "codepoint": 57443,
-      "fontFamily": "Map",
-      "identifier": "painter"
-    },
     "park": {
-      "codepoint": 57444,
+      "codepoint": 57366,
       "fontFamily": "Map",
       "identifier": "park"
     },
     "parking": {
-      "codepoint": 57445,
+      "codepoint": 57367,
       "fontFamily": "Map",
       "identifier": "parking"
     },
-    "pet-store": {
-      "codepoint": 57446,
-      "fontFamily": "Map",
-      "identifier": "petStore"
-    },
     "pharmacy": {
-      "codepoint": 57447,
+      "codepoint": 57368,
       "fontFamily": "Map",
       "identifier": "pharmacy"
     },
-    "physiotherapist": {
-      "codepoint": 57448,
-      "fontFamily": "Map",
-      "identifier": "physiotherapist"
-    },
-    "place-of-worship": {
-      "codepoint": 57449,
-      "fontFamily": "Map",
-      "identifier": "placeOfWorship"
-    },
-    "playground": {
-      "codepoint": 57450,
-      "fontFamily": "Map",
-      "identifier": "playground"
-    },
     "plumber": {
-      "codepoint": 57451,
+      "codepoint": 57369,
       "fontFamily": "Map",
       "identifier": "plumber"
     },
     "point-of-interest": {
-      "codepoint": 57452,
+      "codepoint": 57370,
       "fontFamily": "Map",
       "identifier": "pointOfInterest"
     },
-    "police": {
-      "codepoint": 57453,
-      "fontFamily": "Map",
-      "identifier": "police"
-    },
-    "political": {
-      "codepoint": 57454,
-      "fontFamily": "Map",
-      "identifier": "political"
-    },
-    "post-box": {
-      "codepoint": 57455,
-      "fontFamily": "Map",
-      "identifier": "postBox"
-    },
-    "post-office": {
-      "codepoint": 57456,
-      "fontFamily": "Map",
-      "identifier": "postOffice"
-    },
     "postal-code": {
-      "codepoint": 57457,
+      "codepoint": 57371,
       "fontFamily": "Map",
       "identifier": "postalCode"
     },
     "postal-code-prefix": {
-      "codepoint": 57458,
+      "codepoint": 57372,
       "fontFamily": "Map",
       "identifier": "postalCodePrefix"
     },
-    "rafting": {
-      "codepoint": 57459,
-      "fontFamily": "Map",
-      "identifier": "rafting"
-    },
     "real-estate-agency": {
-      "codepoint": 57460,
+      "codepoint": 57373,
       "fontFamily": "Map",
       "identifier": "realEstateAgency"
     },
     "restaurant": {
-      "codepoint": 57461,
+      "codepoint": 57374,
       "fontFamily": "Map",
       "identifier": "restaurant"
     },
     "roofing-contractor": {
-      "codepoint": 57462,
+      "codepoint": 57375,
       "fontFamily": "Map",
       "identifier": "roofingContractor"
     },
-    "route": {
-      "codepoint": 57463,
-      "fontFamily": "Map",
-      "identifier": "route"
-    },
-    "route-pin": {
-      "codepoint": 57464,
-      "fontFamily": "Map",
-      "identifier": "routePin"
-    },
-    "rv-park": {
-      "codepoint": 57465,
-      "fontFamily": "Map",
-      "identifier": "rvPark"
-    },
-    "sailing": {
-      "codepoint": 57466,
-      "fontFamily": "Map",
-      "identifier": "sailing"
-    },
     "school": {
-      "codepoint": 57467,
+      "codepoint": 57376,
       "fontFamily": "Map",
       "identifier": "school"
     },
-    "scuba-diving": {
-      "codepoint": 57468,
-      "fontFamily": "Map",
-      "identifier": "scubaDiving"
-    },
-    "search": {
-      "codepoint": 57469,
-      "fontFamily": "Map",
-      "identifier": "search"
-    },
-    "sheild": {
-      "codepoint": 57470,
-      "fontFamily": "Map",
-      "identifier": "sheild"
-    },
-    "shopping-mall": {
-      "codepoint": 57471,
-      "fontFamily": "Map",
-      "identifier": "shoppingMall"
-    },
-    "sign-language": {
-      "codepoint": 57472,
-      "fontFamily": "Map",
-      "identifier": "signLanguage"
-    },
-    "skateboarding": {
-      "codepoint": 57473,
-      "fontFamily": "Map",
-      "identifier": "skateboarding"
-    },
-    "ski-jumping": {
-      "codepoint": 57474,
-      "fontFamily": "Map",
-      "identifier": "skiJumping"
-    },
-    "skiing": {
-      "codepoint": 57475,
-      "fontFamily": "Map",
-      "identifier": "skiing"
-    },
-    "sledding": {
-      "codepoint": 57476,
-      "fontFamily": "Map",
-      "identifier": "sledding"
-    },
-    "snow": {
-      "codepoint": 57477,
-      "fontFamily": "Map",
-      "identifier": "snow"
-    },
-    "snow-shoeing": {
-      "codepoint": 57478,
-      "fontFamily": "Map",
-      "identifier": "snowShoeing"
-    },
-    "snowboarding": {
-      "codepoint": 57479,
-      "fontFamily": "Map",
-      "identifier": "snowboarding"
-    },
-    "snowmobile": {
-      "codepoint": 57480,
-      "fontFamily": "Map",
-      "identifier": "snowmobile"
-    },
-    "spa": {
-      "codepoint": 57481,
-      "fontFamily": "Map",
-      "identifier": "spa"
-    },
     "square": {
-      "codepoint": 57482,
+      "codepoint": 57377,
       "fontFamily": "Map",
       "identifier": "square"
     },
     "square-pin": {
-      "codepoint": 57483,
+      "codepoint": 57378,
       "fontFamily": "Map",
       "identifier": "squarePin"
     },
     "square-rounded": {
-      "codepoint": 57484,
+      "codepoint": 57379,
       "fontFamily": "Map",
       "identifier": "squareRounded"
     },
-    "stadium": {
-      "codepoint": 57485,
-      "fontFamily": "Map",
-      "identifier": "stadium"
-    },
     "storage": {
-      "codepoint": 57486,
+      "codepoint": 57380,
       "fontFamily": "Map",
       "identifier": "storage"
     },
     "store": {
-      "codepoint": 57487,
+      "codepoint": 57381,
       "fontFamily": "Map",
       "identifier": "store"
     },
-    "subway-station": {
-      "codepoint": 57488,
-      "fontFamily": "Map",
-      "identifier": "subwayStation"
-    },
-    "surfing": {
-      "codepoint": 57489,
-      "fontFamily": "Map",
-      "identifier": "surfing"
-    },
-    "swimming": {
-      "codepoint": 57490,
-      "fontFamily": "Map",
-      "identifier": "swimming"
-    },
     "synagogue": {
-      "codepoint": 57491,
+      "codepoint": 57382,
       "fontFamily": "Map",
       "identifier": "synagogue"
     },
-    "taxi-stand": {
-      "codepoint": 57492,
-      "fontFamily": "Map",
-      "identifier": "taxiStand"
-    },
-    "tennis": {
-      "codepoint": 57493,
-      "fontFamily": "Map",
-      "identifier": "tennis"
-    },
-    "toilet": {
-      "codepoint": 57494,
-      "fontFamily": "Map",
-      "identifier": "toilet"
-    },
-    "train-station": {
-      "codepoint": 57495,
-      "fontFamily": "Map",
-      "identifier": "trainStation"
-    },
-    "transit-station": {
-      "codepoint": 57496,
-      "fontFamily": "Map",
-      "identifier": "transitStation"
-    },
-    "travel-agency": {
-      "codepoint": 57497,
-      "fontFamily": "Map",
-      "identifier": "travelAgency"
-    },
-    "unisex": {
-      "codepoint": 57498,
-      "fontFamily": "Map",
-      "identifier": "unisex"
-    },
-    "university": {
-      "codepoint": 57499,
-      "fontFamily": "Map",
-      "identifier": "university"
-    },
-    "veterinary-care": {
-      "codepoint": 57500,
-      "fontFamily": "Map",
-      "identifier": "veterinaryCare"
-    },
-    "volume-control-telephone": {
-      "codepoint": 57501,
-      "fontFamily": "Map",
-      "identifier": "volumeControlTelephone"
-    },
-    "waterskiing": {
-      "codepoint": 57502,
-      "fontFamily": "Map",
-      "identifier": "waterskiing"
-    },
-    "whale-watching": {
-      "codepoint": 57503,
-      "fontFamily": "Map",
-      "identifier": "whaleWatching"
-    },
-    "wheelchair": {
-      "codepoint": 57504,
-      "fontFamily": "Map",
-      "identifier": "wheelchair"
-    },
-    "wind-surfing": {
-      "codepoint": 57505,
-      "fontFamily": "Map",
-      "identifier": "windSurfing"
-    },
-    "zoo": {
-      "codepoint": 57506,
-      "fontFamily": "Map",
-      "identifier": "zoo"
-    },
     "zoom-in": {
-      "codepoint": 57507,
+      "codepoint": 57383,
       "fontFamily": "Map",
       "identifier": "zoomIn"
     },
-    "zoom-in-alt": {
-      "codepoint": 57508,
-      "fontFamily": "Map",
-      "identifier": "zoomInAlt"
-    },
     "zoom-out": {
-      "codepoint": 57509,
+      "codepoint": 57384,
       "fontFamily": "Map",
       "identifier": "zoomOut"
-    },
-    "zoom-out-alt": {
-      "codepoint": 57510,
-      "fontFamily": "Map",
-      "identifier": "zoomOutAlt"
     }
   }
 }

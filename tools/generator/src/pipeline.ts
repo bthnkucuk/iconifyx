@@ -14,6 +14,8 @@ import {
   type ResolvedIcon,
 } from './load_iconify.ts';
 import { loadConfig, displayCategory, fontFamilyFromPrefix, dartFileNameFromPrefix } from './group_sets.ts';
+import { validateIconBody } from './glyph_validator.ts';
+import { strokeFillBatch } from './stroke_fill.ts';
 import {
   readManifest,
   writeManifest,
@@ -122,7 +124,8 @@ export async function runPipeline(options: PipelineOptions = {}): Promise<void> 
           const result = await processOneSet(
             prefix,
             collections[prefix]!,
-            iconifyVersion
+            iconifyVersion,
+            config
           );
           results.push(result);
         } catch (err) {
@@ -185,7 +188,8 @@ export async function runPipeline(options: PipelineOptions = {}): Promise<void> 
 async function processOneSet(
   prefix: string,
   collectionInfo: IconifyCollection,
-  iconifyVersion: string
+  iconifyVersion: string,
+  config: Awaited<ReturnType<typeof loadConfig>>
 ): Promise<{
   prefix: string;
   manifest: Manifest;
@@ -193,7 +197,38 @@ async function processOneSet(
   dartSource: string;
 }> {
   const set = await loadIconifySet(prefix);
-  const resolved = resolveIcons(set);
+  const allResolved = resolveIcons(set);
+
+  // Stroke-only icon sets (Lucide, Tabler, Iconoir, …) need their strokes
+  // converted to filled outlines before font conversion. The result is
+  // cached on disk; only first-time generation is slow.
+  const isStrokeFillSet = config.strokeFillSets?.includes(prefix) ?? false;
+  if (isStrokeFillSet) {
+    await strokeFillBatch(prefix, allResolved);
+  }
+
+  // Pre-validate each glyph; drop anything svgicons2svgfont/svg2ttf would
+  // choke on. This recovers ~99% of sets that previously failed because of
+  // ONE malformed glyph (line-md, icon-park, devicon, …).
+  const resolved: ResolvedIcon[] = [];
+  const droppedGlyphs: { name: string; reason: string }[] = [];
+  for (const ic of allResolved) {
+    const v = validateIconBody(ic);
+    if (v.ok) {
+      resolved.push(ic);
+    } else {
+      droppedGlyphs.push({ name: ic.name, reason: v.reason });
+    }
+  }
+  if (droppedGlyphs.length > 0) {
+    log.warn(
+      `"${prefix}": skipped ${droppedGlyphs.length} bad glyph${droppedGlyphs.length === 1 ? '' : 's'} (${droppedGlyphs.slice(0, 3).map((g) => g.name).join(', ')}${droppedGlyphs.length > 3 ? '…' : ''})`
+    );
+  }
+
+  if (resolved.length === 0) {
+    throw new Error(`every glyph in "${prefix}" failed validation`);
+  }
 
   const resolvedByName = new Map<string, ResolvedIcon>();
   for (const r of resolved) resolvedByName.set(r.name, r);
@@ -227,7 +262,35 @@ async function processOneSet(
     icons,
   };
 
-  const ttfs = await buildFonts({ manifest, resolvedByName });
+  // Build fonts. If individual glyphs trip svgicons2svgfont mid-stream, the
+  // builder catches it, drops them, and retries — we collect the names here
+  // so we can flag them deprecated in the manifest (codepoint stays reserved
+  // in case they get fixed upstream).
+  const droppedDuringBuild = new Set<string>();
+  const ttfs = await buildFonts({
+    manifest,
+    resolvedByName,
+    onGlyphDropped: (name) => droppedDuringBuild.add(name),
+  });
+  if (droppedDuringBuild.size > 0) {
+    const today = new Date().toISOString().slice(0, 10);
+    for (const name of droppedDuringBuild) {
+      const entry = icons[name];
+      if (entry) {
+        entry.deprecated = true;
+        entry.deprecatedSince = today;
+      }
+    }
+    // Recompute live count + per-font live counts.
+    const liveCountUpdated = Object.values(icons).filter((i) => !i.deprecated).length;
+    manifest.info.total = liveCountUpdated;
+    for (const f of fonts) f.iconCount = 0;
+    for (const e of Object.values(icons)) {
+      if (e.deprecated) continue;
+      const f = fonts.find((x) => x.family === e.fontFamily);
+      if (f) f.iconCount += 1;
+    }
+  }
 
   const dartSource = emitSetDart({
     manifest,

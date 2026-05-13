@@ -16,2173 +16,1673 @@
       "spdx": "Unlicense",
       "url": "https://github.com/CoreyGinnivan/system-uicons/blob/master/LICENSE"
     },
-    "total": 432
+    "total": 332
   },
   "fonts": [
     {
       "family": "SystemUicons",
-      "nextCodepoint": 57776,
-      "iconCount": 432
+      "nextCodepoint": 57676,
+      "iconCount": 332
     }
   ],
   "icons": {
-    "airplay": {
-      "codepoint": 57344,
-      "fontFamily": "SystemUicons",
-      "identifier": "airplay"
-    },
-    "alarm-clock": {
-      "codepoint": 57345,
-      "fontFamily": "SystemUicons",
-      "identifier": "alarmClock"
-    },
     "align-horizontal": {
-      "codepoint": 57346,
+      "codepoint": 57344,
       "fontFamily": "SystemUicons",
       "identifier": "alignHorizontal"
     },
     "align-vertical": {
-      "codepoint": 57347,
+      "codepoint": 57345,
       "fontFamily": "SystemUicons",
       "identifier": "alignVertical"
     },
     "angle": {
-      "codepoint": 57348,
+      "codepoint": 57346,
       "fontFamily": "SystemUicons",
       "identifier": "angle"
     },
     "archive": {
-      "codepoint": 57349,
+      "codepoint": 57347,
       "fontFamily": "SystemUicons",
       "identifier": "archive"
     },
     "arrow-bottom-left": {
-      "codepoint": 57350,
+      "codepoint": 57348,
       "fontFamily": "SystemUicons",
       "identifier": "arrowBottomLeft"
     },
     "arrow-bottom-right": {
-      "codepoint": 57351,
+      "codepoint": 57349,
       "fontFamily": "SystemUicons",
       "identifier": "arrowBottomRight"
     },
     "arrow-down": {
-      "codepoint": 57352,
+      "codepoint": 57350,
       "fontFamily": "SystemUicons",
       "identifier": "arrowDown"
     },
     "arrow-down-circle": {
-      "codepoint": 57353,
+      "codepoint": 57351,
       "fontFamily": "SystemUicons",
       "identifier": "arrowDownCircle"
     },
     "arrow-left": {
-      "codepoint": 57354,
+      "codepoint": 57352,
       "fontFamily": "SystemUicons",
       "identifier": "arrowLeft"
     },
     "arrow-left-circle": {
-      "codepoint": 57355,
+      "codepoint": 57353,
       "fontFamily": "SystemUicons",
       "identifier": "arrowLeftCircle"
     },
     "arrow-right": {
-      "codepoint": 57356,
+      "codepoint": 57354,
       "fontFamily": "SystemUicons",
       "identifier": "arrowRight"
     },
     "arrow-right-circle": {
-      "codepoint": 57357,
+      "codepoint": 57355,
       "fontFamily": "SystemUicons",
       "identifier": "arrowRightCircle"
     },
     "arrow-top-left": {
-      "codepoint": 57358,
+      "codepoint": 57356,
       "fontFamily": "SystemUicons",
       "identifier": "arrowTopLeft"
     },
     "arrow-top-right": {
-      "codepoint": 57359,
+      "codepoint": 57357,
       "fontFamily": "SystemUicons",
       "identifier": "arrowTopRight"
     },
     "arrow-up": {
-      "codepoint": 57360,
+      "codepoint": 57358,
       "fontFamily": "SystemUicons",
       "identifier": "arrowUp"
     },
     "arrow-up-circle": {
-      "codepoint": 57361,
+      "codepoint": 57359,
       "fontFamily": "SystemUicons",
       "identifier": "arrowUpCircle"
     },
     "audio-wave": {
-      "codepoint": 57362,
+      "codepoint": 57360,
       "fontFamily": "SystemUicons",
       "identifier": "audioWave"
     },
-    "backspace": {
-      "codepoint": 57363,
-      "fontFamily": "SystemUicons",
-      "identifier": "backspace"
-    },
-    "backward": {
-      "codepoint": 57364,
-      "fontFamily": "SystemUicons",
-      "identifier": "backward"
-    },
-    "bag": {
-      "codepoint": 57365,
-      "fontFamily": "SystemUicons",
-      "identifier": "bag"
-    },
     "battery-75": {
-      "codepoint": 57366,
+      "codepoint": 57361,
       "fontFamily": "SystemUicons",
       "identifier": "battery75"
     },
-    "battery-charging": {
-      "codepoint": 57367,
-      "fontFamily": "SystemUicons",
-      "identifier": "batteryCharging"
-    },
     "battery-empty": {
-      "codepoint": 57368,
+      "codepoint": 57362,
       "fontFamily": "SystemUicons",
       "identifier": "batteryEmpty"
     },
     "battery-full": {
-      "codepoint": 57369,
+      "codepoint": 57363,
       "fontFamily": "SystemUicons",
       "identifier": "batteryFull"
     },
     "battery-half": {
-      "codepoint": 57370,
+      "codepoint": 57364,
       "fontFamily": "SystemUicons",
       "identifier": "batteryHalf"
     },
     "battery-low": {
-      "codepoint": 57371,
+      "codepoint": 57365,
       "fontFamily": "SystemUicons",
       "identifier": "batteryLow"
     },
-    "bell": {
-      "codepoint": 57372,
-      "fontFamily": "SystemUicons",
-      "identifier": "bell"
-    },
-    "bell-disabled": {
-      "codepoint": 57373,
-      "fontFamily": "SystemUicons",
-      "identifier": "bellDisabled"
-    },
-    "bell-ringing": {
-      "codepoint": 57374,
-      "fontFamily": "SystemUicons",
-      "identifier": "bellRinging"
-    },
-    "bell-snooze": {
-      "codepoint": 57375,
-      "fontFamily": "SystemUicons",
-      "identifier": "bellSnooze"
-    },
     "bluetooth": {
-      "codepoint": 57376,
+      "codepoint": 57366,
       "fontFamily": "SystemUicons",
       "identifier": "bluetooth"
     },
-    "book": {
-      "codepoint": 57377,
-      "fontFamily": "SystemUicons",
-      "identifier": "book"
-    },
     "book-closed": {
-      "codepoint": 57378,
+      "codepoint": 57367,
       "fontFamily": "SystemUicons",
       "identifier": "bookClosed"
     },
-    "book-text": {
-      "codepoint": 57379,
-      "fontFamily": "SystemUicons",
-      "identifier": "bookText"
-    },
     "bookmark": {
-      "codepoint": 57380,
+      "codepoint": 57368,
       "fontFamily": "SystemUicons",
       "identifier": "bookmark"
     },
     "bookmark-book": {
-      "codepoint": 57381,
+      "codepoint": 57369,
       "fontFamily": "SystemUicons",
       "identifier": "bookmarkBook"
     },
     "box": {
-      "codepoint": 57382,
+      "codepoint": 57370,
       "fontFamily": "SystemUicons",
       "identifier": "box"
     },
     "box-add": {
-      "codepoint": 57383,
+      "codepoint": 57371,
       "fontFamily": "SystemUicons",
       "identifier": "boxAdd"
     },
     "box-download": {
-      "codepoint": 57384,
+      "codepoint": 57372,
       "fontFamily": "SystemUicons",
       "identifier": "boxDownload"
     },
     "box-open": {
-      "codepoint": 57385,
+      "codepoint": 57373,
       "fontFamily": "SystemUicons",
       "identifier": "boxOpen"
     },
     "box-remove": {
-      "codepoint": 57386,
+      "codepoint": 57374,
       "fontFamily": "SystemUicons",
       "identifier": "boxRemove"
     },
-    "boxes": {
-      "codepoint": 57387,
-      "fontFamily": "SystemUicons",
-      "identifier": "boxes"
-    },
     "branch": {
-      "codepoint": 57388,
+      "codepoint": 57375,
       "fontFamily": "SystemUicons",
       "identifier": "branch"
     },
     "briefcase": {
-      "codepoint": 57389,
+      "codepoint": 57376,
       "fontFamily": "SystemUicons",
       "identifier": "briefcase"
     },
     "browser": {
-      "codepoint": 57390,
+      "codepoint": 57377,
       "fontFamily": "SystemUicons",
       "identifier": "browser"
     },
     "browser-alt": {
-      "codepoint": 57391,
+      "codepoint": 57378,
       "fontFamily": "SystemUicons",
       "identifier": "browserAlt"
     },
     "button-add": {
-      "codepoint": 57392,
+      "codepoint": 57379,
       "fontFamily": "SystemUicons",
       "identifier": "buttonAdd"
     },
     "button-minus": {
-      "codepoint": 57393,
+      "codepoint": 57380,
       "fontFamily": "SystemUicons",
       "identifier": "buttonMinus"
     },
     "calculator": {
-      "codepoint": 57394,
+      "codepoint": 57381,
       "fontFamily": "SystemUicons",
       "identifier": "calculator"
     },
     "calendar": {
-      "codepoint": 57395,
+      "codepoint": 57382,
       "fontFamily": "SystemUicons",
       "identifier": "calendar"
     },
     "calendar-add": {
-      "codepoint": 57396,
+      "codepoint": 57383,
       "fontFamily": "SystemUicons",
       "identifier": "calendarAdd"
     },
-    "calendar-date": {
-      "codepoint": 57397,
-      "fontFamily": "SystemUicons",
-      "identifier": "calendarDate"
-    },
     "calendar-day": {
-      "codepoint": 57398,
+      "codepoint": 57384,
       "fontFamily": "SystemUicons",
       "identifier": "calendarDay"
     },
     "calendar-days": {
-      "codepoint": 57399,
+      "codepoint": 57385,
       "fontFamily": "SystemUicons",
       "identifier": "calendarDays"
     },
     "calendar-last-day": {
-      "codepoint": 57400,
+      "codepoint": 57386,
       "fontFamily": "SystemUicons",
       "identifier": "calendarLastDay"
     },
     "calendar-month": {
-      "codepoint": 57401,
+      "codepoint": 57387,
       "fontFamily": "SystemUicons",
       "identifier": "calendarMonth"
     },
     "calendar-move": {
-      "codepoint": 57402,
+      "codepoint": 57388,
       "fontFamily": "SystemUicons",
       "identifier": "calendarMove"
     },
     "calendar-remove": {
-      "codepoint": 57403,
+      "codepoint": 57389,
       "fontFamily": "SystemUicons",
       "identifier": "calendarRemove"
     },
     "calendar-split": {
-      "codepoint": 57404,
+      "codepoint": 57390,
       "fontFamily": "SystemUicons",
       "identifier": "calendarSplit"
     },
     "calendar-week": {
-      "codepoint": 57405,
+      "codepoint": 57391,
       "fontFamily": "SystemUicons",
       "identifier": "calendarWeek"
     },
     "camera": {
-      "codepoint": 57406,
+      "codepoint": 57392,
       "fontFamily": "SystemUicons",
       "identifier": "camera"
     },
     "camera-alt": {
-      "codepoint": 57407,
+      "codepoint": 57393,
       "fontFamily": "SystemUicons",
       "identifier": "cameraAlt"
     },
-    "camera-noflash": {
-      "codepoint": 57408,
-      "fontFamily": "SystemUicons",
-      "identifier": "cameraNoflash"
-    },
-    "camera-noflash-alt": {
-      "codepoint": 57409,
-      "fontFamily": "SystemUicons",
-      "identifier": "cameraNoflashAlt"
-    },
     "capture": {
-      "codepoint": 57410,
+      "codepoint": 57394,
       "fontFamily": "SystemUicons",
       "identifier": "capture"
     },
     "card-timeline": {
-      "codepoint": 57411,
+      "codepoint": 57395,
       "fontFamily": "SystemUicons",
       "identifier": "cardTimeline"
     },
     "card-view": {
-      "codepoint": 57412,
+      "codepoint": 57396,
       "fontFamily": "SystemUicons",
       "identifier": "cardView"
     },
     "carousel": {
-      "codepoint": 57413,
+      "codepoint": 57397,
       "fontFamily": "SystemUicons",
       "identifier": "carousel"
     },
     "cart": {
-      "codepoint": 57414,
+      "codepoint": 57398,
       "fontFamily": "SystemUicons",
       "identifier": "cart"
     },
     "cast": {
-      "codepoint": 57415,
+      "codepoint": 57399,
       "fontFamily": "SystemUicons",
       "identifier": "cast"
     },
     "chain": {
-      "codepoint": 57416,
+      "codepoint": 57400,
       "fontFamily": "SystemUicons",
       "identifier": "chain"
     },
-    "chat-add": {
-      "codepoint": 57417,
-      "fontFamily": "SystemUicons",
-      "identifier": "chatAdd"
-    },
     "check": {
-      "codepoint": 57418,
+      "codepoint": 57401,
       "fontFamily": "SystemUicons",
       "identifier": "check"
     },
     "check-circle": {
-      "codepoint": 57419,
+      "codepoint": 57402,
       "fontFamily": "SystemUicons",
       "identifier": "checkCircle"
     },
     "check-circle-outside": {
-      "codepoint": 57420,
+      "codepoint": 57403,
       "fontFamily": "SystemUicons",
       "identifier": "checkCircleOutside"
     },
     "checkbox-checked": {
-      "codepoint": 57421,
+      "codepoint": 57404,
       "fontFamily": "SystemUicons",
       "identifier": "checkboxChecked"
     },
     "checkbox-empty": {
-      "codepoint": 57422,
+      "codepoint": 57405,
       "fontFamily": "SystemUicons",
       "identifier": "checkboxEmpty"
     },
     "chevron-close": {
-      "codepoint": 57423,
+      "codepoint": 57406,
       "fontFamily": "SystemUicons",
       "identifier": "chevronClose"
     },
     "chevron-down": {
-      "codepoint": 57424,
+      "codepoint": 57407,
       "fontFamily": "SystemUicons",
       "identifier": "chevronDown"
     },
     "chevron-down-circle": {
-      "codepoint": 57425,
+      "codepoint": 57408,
       "fontFamily": "SystemUicons",
       "identifier": "chevronDownCircle"
     },
     "chevron-down-double": {
-      "codepoint": 57426,
+      "codepoint": 57409,
       "fontFamily": "SystemUicons",
       "identifier": "chevronDownDouble"
     },
     "chevron-left": {
-      "codepoint": 57427,
+      "codepoint": 57410,
       "fontFamily": "SystemUicons",
       "identifier": "chevronLeft"
     },
     "chevron-left-circle": {
-      "codepoint": 57428,
+      "codepoint": 57411,
       "fontFamily": "SystemUicons",
       "identifier": "chevronLeftCircle"
     },
     "chevron-left-double": {
-      "codepoint": 57429,
+      "codepoint": 57412,
       "fontFamily": "SystemUicons",
       "identifier": "chevronLeftDouble"
     },
     "chevron-open": {
-      "codepoint": 57430,
+      "codepoint": 57413,
       "fontFamily": "SystemUicons",
       "identifier": "chevronOpen"
     },
     "chevron-right": {
-      "codepoint": 57431,
+      "codepoint": 57414,
       "fontFamily": "SystemUicons",
       "identifier": "chevronRight"
     },
     "chevron-right-circle": {
-      "codepoint": 57432,
+      "codepoint": 57415,
       "fontFamily": "SystemUicons",
       "identifier": "chevronRightCircle"
     },
     "chevron-right-double": {
-      "codepoint": 57433,
+      "codepoint": 57416,
       "fontFamily": "SystemUicons",
       "identifier": "chevronRightDouble"
     },
     "chevron-up": {
-      "codepoint": 57434,
+      "codepoint": 57417,
       "fontFamily": "SystemUicons",
       "identifier": "chevronUp"
     },
     "chevron-up-circle": {
-      "codepoint": 57435,
+      "codepoint": 57418,
       "fontFamily": "SystemUicons",
       "identifier": "chevronUpCircle"
     },
     "chevron-up-double": {
-      "codepoint": 57436,
+      "codepoint": 57419,
       "fontFamily": "SystemUicons",
       "identifier": "chevronUpDouble"
     },
     "circle": {
-      "codepoint": 57437,
+      "codepoint": 57420,
       "fontFamily": "SystemUicons",
       "identifier": "circle"
     },
-    "circle-menu": {
-      "codepoint": 57438,
-      "fontFamily": "SystemUicons",
-      "identifier": "circleMenu"
-    },
     "circle-split": {
-      "codepoint": 57439,
+      "codepoint": 57421,
       "fontFamily": "SystemUicons",
       "identifier": "circleSplit"
     },
-    "clipboard": {
-      "codepoint": 57440,
-      "fontFamily": "SystemUicons",
-      "identifier": "clipboard"
-    },
     "clipboard-add": {
-      "codepoint": 57441,
+      "codepoint": 57422,
       "fontFamily": "SystemUicons",
       "identifier": "clipboardAdd"
     },
     "clipboard-check": {
-      "codepoint": 57442,
+      "codepoint": 57423,
       "fontFamily": "SystemUicons",
       "identifier": "clipboardCheck"
     },
-    "clipboard-copy": {
-      "codepoint": 57443,
-      "fontFamily": "SystemUicons",
-      "identifier": "clipboardCopy"
-    },
     "clipboard-cross": {
-      "codepoint": 57444,
+      "codepoint": 57424,
       "fontFamily": "SystemUicons",
       "identifier": "clipboardCross"
     },
     "clipboard-notes": {
-      "codepoint": 57445,
+      "codepoint": 57425,
       "fontFamily": "SystemUicons",
       "identifier": "clipboardNotes"
     },
     "clipboard-remove": {
-      "codepoint": 57446,
+      "codepoint": 57426,
       "fontFamily": "SystemUicons",
       "identifier": "clipboardRemove"
     },
     "clock": {
-      "codepoint": 57447,
+      "codepoint": 57427,
       "fontFamily": "SystemUicons",
       "identifier": "clock"
     },
     "close": {
-      "codepoint": 57448,
+      "codepoint": 57428,
       "fontFamily": "SystemUicons",
       "identifier": "close"
     },
     "cloud": {
-      "codepoint": 57449,
+      "codepoint": 57429,
       "fontFamily": "SystemUicons",
       "identifier": "cloud"
     },
-    "cloud-disconnect": {
-      "codepoint": 57450,
-      "fontFamily": "SystemUicons",
-      "identifier": "cloudDisconnect"
-    },
     "cloud-download": {
-      "codepoint": 57451,
+      "codepoint": 57430,
       "fontFamily": "SystemUicons",
       "identifier": "cloudDownload"
     },
-    "cloud-download-alt": {
-      "codepoint": 57452,
-      "fontFamily": "SystemUicons",
-      "identifier": "cloudDownloadAlt"
-    },
     "cloud-upload": {
-      "codepoint": 57453,
+      "codepoint": 57431,
       "fontFamily": "SystemUicons",
       "identifier": "cloudUpload"
     },
-    "cloud-upload-alt": {
-      "codepoint": 57454,
-      "fontFamily": "SystemUicons",
-      "identifier": "cloudUploadAlt"
-    },
     "code": {
-      "codepoint": 57455,
+      "codepoint": 57432,
       "fontFamily": "SystemUicons",
       "identifier": "code"
     },
     "coffee": {
-      "codepoint": 57456,
+      "codepoint": 57433,
       "fontFamily": "SystemUicons",
       "identifier": "coffee"
     },
     "coin": {
-      "codepoint": 57457,
+      "codepoint": 57434,
       "fontFamily": "SystemUicons",
       "identifier": "coin"
     },
-    "coins": {
-      "codepoint": 57458,
-      "fontFamily": "SystemUicons",
-      "identifier": "coins"
-    },
     "compass": {
-      "codepoint": 57459,
+      "codepoint": 57435,
       "fontFamily": "SystemUicons",
       "identifier": "compass"
     },
     "component-add": {
-      "codepoint": 57460,
+      "codepoint": 57436,
       "fontFamily": "SystemUicons",
       "identifier": "componentAdd"
     },
     "contacts": {
-      "codepoint": 57461,
+      "codepoint": 57437,
       "fontFamily": "SystemUicons",
       "identifier": "contacts"
     },
     "contract": {
-      "codepoint": 57462,
+      "codepoint": 57438,
       "fontFamily": "SystemUicons",
       "identifier": "contract"
     },
-    "create": {
-      "codepoint": 57463,
-      "fontFamily": "SystemUicons",
-      "identifier": "create"
-    },
     "credit-card": {
-      "codepoint": 57464,
+      "codepoint": 57439,
       "fontFamily": "SystemUicons",
       "identifier": "creditCard"
     },
     "crop": {
-      "codepoint": 57465,
+      "codepoint": 57440,
       "fontFamily": "SystemUicons",
       "identifier": "crop"
     },
     "cross": {
-      "codepoint": 57466,
+      "codepoint": 57441,
       "fontFamily": "SystemUicons",
       "identifier": "cross"
     },
     "cross-circle": {
-      "codepoint": 57467,
+      "codepoint": 57442,
       "fontFamily": "SystemUicons",
       "identifier": "crossCircle"
     },
     "crosshair": {
-      "codepoint": 57468,
+      "codepoint": 57443,
       "fontFamily": "SystemUicons",
       "identifier": "crosshair"
     },
     "cube": {
-      "codepoint": 57469,
+      "codepoint": 57444,
       "fontFamily": "SystemUicons",
       "identifier": "cube"
     },
-    "cubes": {
-      "codepoint": 57470,
-      "fontFamily": "SystemUicons",
-      "identifier": "cubes"
-    },
     "cylinder": {
-      "codepoint": 57471,
+      "codepoint": 57445,
       "fontFamily": "SystemUicons",
       "identifier": "cylinder"
     },
     "database": {
-      "codepoint": 57472,
+      "codepoint": 57446,
       "fontFamily": "SystemUicons",
       "identifier": "database"
     },
     "diamond": {
-      "codepoint": 57473,
+      "codepoint": 57447,
       "fontFamily": "SystemUicons",
       "identifier": "diamond"
     },
     "directions": {
-      "codepoint": 57474,
+      "codepoint": 57448,
       "fontFamily": "SystemUicons",
       "identifier": "directions"
     },
     "disc": {
-      "codepoint": 57475,
+      "codepoint": 57449,
       "fontFamily": "SystemUicons",
       "identifier": "disc"
     },
-    "display": {
-      "codepoint": 57476,
-      "fontFamily": "SystemUicons",
-      "identifier": "display"
-    },
-    "display-alt": {
-      "codepoint": 57477,
-      "fontFamily": "SystemUicons",
-      "identifier": "displayAlt"
-    },
     "document": {
-      "codepoint": 57478,
+      "codepoint": 57450,
       "fontFamily": "SystemUicons",
       "identifier": "document"
     },
     "document-justified": {
-      "codepoint": 57479,
+      "codepoint": 57451,
       "fontFamily": "SystemUicons",
       "identifier": "documentJustified"
     },
     "document-list": {
-      "codepoint": 57480,
+      "codepoint": 57452,
       "fontFamily": "SystemUicons",
       "identifier": "documentList"
     },
     "document-stack": {
-      "codepoint": 57481,
+      "codepoint": 57453,
       "fontFamily": "SystemUicons",
       "identifier": "documentStack"
     },
     "document-words": {
-      "codepoint": 57482,
+      "codepoint": 57454,
       "fontFamily": "SystemUicons",
       "identifier": "documentWords"
     },
     "door": {
-      "codepoint": 57483,
+      "codepoint": 57455,
       "fontFamily": "SystemUicons",
       "identifier": "door"
     },
-    "door-alt": {
-      "codepoint": 57484,
-      "fontFamily": "SystemUicons",
-      "identifier": "doorAlt"
-    },
     "download": {
-      "codepoint": 57485,
+      "codepoint": 57456,
       "fontFamily": "SystemUicons",
       "identifier": "download"
     },
     "download-alt": {
-      "codepoint": 57486,
+      "codepoint": 57457,
       "fontFamily": "SystemUicons",
       "identifier": "downloadAlt"
     },
-    "downward": {
-      "codepoint": 57487,
-      "fontFamily": "SystemUicons",
-      "identifier": "downward"
-    },
     "drag": {
-      "codepoint": 57488,
+      "codepoint": 57458,
       "fontFamily": "SystemUicons",
       "identifier": "drag"
     },
     "drag-circle": {
-      "codepoint": 57489,
+      "codepoint": 57459,
       "fontFamily": "SystemUicons",
       "identifier": "dragCircle"
     },
     "drag-vertical": {
-      "codepoint": 57490,
+      "codepoint": 57460,
       "fontFamily": "SystemUicons",
       "identifier": "dragVertical"
     },
     "duplicate": {
-      "codepoint": 57491,
+      "codepoint": 57461,
       "fontFamily": "SystemUicons",
       "identifier": "duplicate"
     },
     "duplicate-alt": {
-      "codepoint": 57492,
+      "codepoint": 57462,
       "fontFamily": "SystemUicons",
       "identifier": "duplicateAlt"
     },
     "enter": {
-      "codepoint": 57493,
+      "codepoint": 57463,
       "fontFamily": "SystemUicons",
       "identifier": "enter"
     },
     "enter-alt": {
-      "codepoint": 57494,
+      "codepoint": 57464,
       "fontFamily": "SystemUicons",
       "identifier": "enterAlt"
     },
     "episodes": {
-      "codepoint": 57495,
+      "codepoint": 57465,
       "fontFamily": "SystemUicons",
       "identifier": "episodes"
     },
-    "exit-left": {
-      "codepoint": 57496,
-      "fontFamily": "SystemUicons",
-      "identifier": "exitLeft"
-    },
-    "exit-right": {
-      "codepoint": 57497,
-      "fontFamily": "SystemUicons",
-      "identifier": "exitRight"
-    },
     "expand": {
-      "codepoint": 57498,
+      "codepoint": 57466,
       "fontFamily": "SystemUicons",
       "identifier": "expand"
     },
     "expand-height": {
-      "codepoint": 57499,
+      "codepoint": 57467,
       "fontFamily": "SystemUicons",
       "identifier": "expandHeight"
     },
     "expand-width": {
-      "codepoint": 57500,
+      "codepoint": 57468,
       "fontFamily": "SystemUicons",
       "identifier": "expandWidth"
     },
     "external": {
-      "codepoint": 57501,
+      "codepoint": 57469,
       "fontFamily": "SystemUicons",
       "identifier": "external_"
     },
-    "eye": {
-      "codepoint": 57502,
-      "fontFamily": "SystemUicons",
-      "identifier": "eye"
-    },
     "eye-closed": {
-      "codepoint": 57503,
+      "codepoint": 57470,
       "fontFamily": "SystemUicons",
       "identifier": "eyeClosed"
     },
-    "eye-no": {
-      "codepoint": 57504,
-      "fontFamily": "SystemUicons",
-      "identifier": "eyeNo"
-    },
     "face-delighted": {
-      "codepoint": 57505,
+      "codepoint": 57471,
       "fontFamily": "SystemUicons",
       "identifier": "faceDelighted"
     },
-    "face-happy": {
-      "codepoint": 57506,
-      "fontFamily": "SystemUicons",
-      "identifier": "faceHappy"
-    },
     "face-neutral": {
-      "codepoint": 57507,
+      "codepoint": 57472,
       "fontFamily": "SystemUicons",
       "identifier": "faceNeutral"
     },
-    "face-sad": {
-      "codepoint": 57508,
-      "fontFamily": "SystemUicons",
-      "identifier": "faceSad"
-    },
     "file-download": {
-      "codepoint": 57509,
+      "codepoint": 57473,
       "fontFamily": "SystemUicons",
       "identifier": "fileDownload"
     },
     "file-upload": {
-      "codepoint": 57510,
+      "codepoint": 57474,
       "fontFamily": "SystemUicons",
       "identifier": "fileUpload"
     },
     "files-history": {
-      "codepoint": 57511,
+      "codepoint": 57475,
       "fontFamily": "SystemUicons",
       "identifier": "filesHistory"
     },
     "files-multi": {
-      "codepoint": 57512,
+      "codepoint": 57476,
       "fontFamily": "SystemUicons",
       "identifier": "filesMulti"
     },
     "files-stack": {
-      "codepoint": 57513,
+      "codepoint": 57477,
       "fontFamily": "SystemUicons",
       "identifier": "filesStack"
     },
     "film": {
-      "codepoint": 57514,
+      "codepoint": 57478,
       "fontFamily": "SystemUicons",
       "identifier": "film"
     },
     "filter": {
-      "codepoint": 57515,
+      "codepoint": 57479,
       "fontFamily": "SystemUicons",
       "identifier": "filter"
     },
     "filter-circle": {
-      "codepoint": 57516,
+      "codepoint": 57480,
       "fontFamily": "SystemUicons",
       "identifier": "filterCircle"
     },
     "filter-single": {
-      "codepoint": 57517,
+      "codepoint": 57481,
       "fontFamily": "SystemUicons",
       "identifier": "filterSingle"
     },
     "filtering": {
-      "codepoint": 57518,
+      "codepoint": 57482,
       "fontFamily": "SystemUicons",
       "identifier": "filtering"
     },
-    "fingerprint": {
-      "codepoint": 57519,
-      "fontFamily": "SystemUicons",
-      "identifier": "fingerprint"
-    },
     "flag": {
-      "codepoint": 57520,
+      "codepoint": 57483,
       "fontFamily": "SystemUicons",
       "identifier": "flag"
     },
     "flame": {
-      "codepoint": 57521,
+      "codepoint": 57484,
       "fontFamily": "SystemUicons",
       "identifier": "flame"
     },
-    "flame-alt": {
-      "codepoint": 57522,
-      "fontFamily": "SystemUicons",
-      "identifier": "flameAlt"
-    },
-    "flip-view": {
-      "codepoint": 57523,
-      "fontFamily": "SystemUicons",
-      "identifier": "flipView"
-    },
     "floppy": {
-      "codepoint": 57524,
+      "codepoint": 57485,
       "fontFamily": "SystemUicons",
       "identifier": "floppy"
     },
     "folder-add": {
-      "codepoint": 57525,
+      "codepoint": 57486,
       "fontFamily": "SystemUicons",
       "identifier": "folderAdd"
     },
     "folder-closed": {
-      "codepoint": 57526,
+      "codepoint": 57487,
       "fontFamily": "SystemUicons",
       "identifier": "folderClosed"
     },
     "folder-minus": {
-      "codepoint": 57527,
+      "codepoint": 57488,
       "fontFamily": "SystemUicons",
       "identifier": "folderMinus"
     },
     "folder-open": {
-      "codepoint": 57528,
+      "codepoint": 57489,
       "fontFamily": "SystemUicons",
       "identifier": "folderOpen"
     },
-    "fork-git": {
-      "codepoint": 57529,
-      "fontFamily": "SystemUicons",
-      "identifier": "forkGit"
-    },
-    "forward": {
-      "codepoint": 57530,
-      "fontFamily": "SystemUicons",
-      "identifier": "forward"
-    },
     "frame": {
-      "codepoint": 57531,
+      "codepoint": 57490,
       "fontFamily": "SystemUicons",
       "identifier": "frame"
     },
     "fullscreen": {
-      "codepoint": 57532,
+      "codepoint": 57491,
       "fontFamily": "SystemUicons",
       "identifier": "fullscreen"
     },
     "funnel": {
-      "codepoint": 57533,
+      "codepoint": 57492,
       "fontFamily": "SystemUicons",
       "identifier": "funnel"
     },
     "gauge": {
-      "codepoint": 57534,
+      "codepoint": 57493,
       "fontFamily": "SystemUicons",
       "identifier": "gauge"
     },
-    "gift": {
-      "codepoint": 57535,
-      "fontFamily": "SystemUicons",
-      "identifier": "gift"
-    },
     "globe": {
-      "codepoint": 57536,
+      "codepoint": 57494,
       "fontFamily": "SystemUicons",
       "identifier": "globe"
     },
     "gps": {
-      "codepoint": 57537,
+      "codepoint": 57495,
       "fontFamily": "SystemUicons",
       "identifier": "gps"
     },
     "grab": {
-      "codepoint": 57538,
+      "codepoint": 57496,
       "fontFamily": "SystemUicons",
       "identifier": "grab"
     },
     "graph-bar": {
-      "codepoint": 57539,
+      "codepoint": 57497,
       "fontFamily": "SystemUicons",
       "identifier": "graphBar"
     },
     "graph-box": {
-      "codepoint": 57540,
+      "codepoint": 57498,
       "fontFamily": "SystemUicons",
       "identifier": "graphBox"
     },
     "graph-increase": {
-      "codepoint": 57541,
+      "codepoint": 57499,
       "fontFamily": "SystemUicons",
       "identifier": "graphIncrease"
     },
     "grid": {
-      "codepoint": 57542,
+      "codepoint": 57500,
       "fontFamily": "SystemUicons",
       "identifier": "grid"
     },
     "grid-circles": {
-      "codepoint": 57543,
+      "codepoint": 57501,
       "fontFamily": "SystemUicons",
       "identifier": "gridCircles"
     },
     "grid-circles-add": {
-      "codepoint": 57544,
+      "codepoint": 57502,
       "fontFamily": "SystemUicons",
       "identifier": "gridCirclesAdd"
     },
     "grid-small": {
-      "codepoint": 57545,
+      "codepoint": 57503,
       "fontFamily": "SystemUicons",
       "identifier": "gridSmall"
     },
-    "grid-squares": {
-      "codepoint": 57546,
-      "fontFamily": "SystemUicons",
-      "identifier": "gridSquares"
-    },
-    "grid-squares-add": {
-      "codepoint": 57547,
-      "fontFamily": "SystemUicons",
-      "identifier": "gridSquaresAdd"
-    },
-    "hand": {
-      "codepoint": 57548,
-      "fontFamily": "SystemUicons",
-      "identifier": "hand"
-    },
     "harddrive": {
-      "codepoint": 57549,
+      "codepoint": 57504,
       "fontFamily": "SystemUicons",
       "identifier": "harddrive"
     },
     "hash": {
-      "codepoint": 57550,
+      "codepoint": 57505,
       "fontFamily": "SystemUicons",
       "identifier": "hash"
     },
     "heart": {
-      "codepoint": 57551,
+      "codepoint": 57506,
       "fontFamily": "SystemUicons",
       "identifier": "heart"
     },
     "heart-rate": {
-      "codepoint": 57552,
+      "codepoint": 57507,
       "fontFamily": "SystemUicons",
       "identifier": "heartRate"
     },
-    "heart-remove": {
-      "codepoint": 57553,
-      "fontFamily": "SystemUicons",
-      "identifier": "heartRemove"
-    },
     "height": {
-      "codepoint": 57554,
+      "codepoint": 57508,
       "fontFamily": "SystemUicons",
       "identifier": "height"
     },
     "hierarchy": {
-      "codepoint": 57555,
+      "codepoint": 57509,
       "fontFamily": "SystemUicons",
       "identifier": "hierarchy"
     },
     "home": {
-      "codepoint": 57556,
+      "codepoint": 57510,
       "fontFamily": "SystemUicons",
       "identifier": "home"
     },
     "home-alt": {
-      "codepoint": 57557,
+      "codepoint": 57511,
       "fontFamily": "SystemUicons",
       "identifier": "homeAlt"
     },
     "home-check": {
-      "codepoint": 57558,
+      "codepoint": 57512,
       "fontFamily": "SystemUicons",
       "identifier": "homeCheck"
     },
     "home-door": {
-      "codepoint": 57559,
+      "codepoint": 57513,
       "fontFamily": "SystemUicons",
       "identifier": "homeDoor"
     },
     "import": {
-      "codepoint": 57560,
+      "codepoint": 57514,
       "fontFamily": "SystemUicons",
       "identifier": "import_"
     },
-    "inbox": {
-      "codepoint": 57561,
-      "fontFamily": "SystemUicons",
-      "identifier": "inbox"
-    },
-    "inbox-alt": {
-      "codepoint": 57562,
-      "fontFamily": "SystemUicons",
-      "identifier": "inboxAlt"
-    },
     "info-circle": {
-      "codepoint": 57563,
+      "codepoint": 57515,
       "fontFamily": "SystemUicons",
       "identifier": "infoCircle"
     },
     "iphone-landscape": {
-      "codepoint": 57564,
+      "codepoint": 57516,
       "fontFamily": "SystemUicons",
       "identifier": "iphoneLandscape"
     },
     "iphone-portrait": {
-      "codepoint": 57565,
+      "codepoint": 57517,
       "fontFamily": "SystemUicons",
       "identifier": "iphonePortrait"
     },
     "jump-backward": {
-      "codepoint": 57566,
+      "codepoint": 57518,
       "fontFamily": "SystemUicons",
       "identifier": "jumpBackward"
     },
-    "jump-down": {
-      "codepoint": 57567,
-      "fontFamily": "SystemUicons",
-      "identifier": "jumpDown"
-    },
     "jump-forward": {
-      "codepoint": 57568,
+      "codepoint": 57519,
       "fontFamily": "SystemUicons",
       "identifier": "jumpForward"
     },
     "jump-left": {
-      "codepoint": 57569,
+      "codepoint": 57520,
       "fontFamily": "SystemUicons",
       "identifier": "jumpLeft"
     },
     "jump-right": {
-      "codepoint": 57570,
+      "codepoint": 57521,
       "fontFamily": "SystemUicons",
       "identifier": "jumpRight"
     },
     "jump-up": {
-      "codepoint": 57571,
+      "codepoint": 57522,
       "fontFamily": "SystemUicons",
       "identifier": "jumpUp"
     },
     "keyboard": {
-      "codepoint": 57572,
+      "codepoint": 57523,
       "fontFamily": "SystemUicons",
       "identifier": "keyboard"
     },
-    "laptop": {
-      "codepoint": 57573,
-      "fontFamily": "SystemUicons",
-      "identifier": "laptop"
-    },
-    "lightbulb": {
-      "codepoint": 57574,
-      "fontFamily": "SystemUicons",
-      "identifier": "lightbulb"
-    },
-    "lightbulb-on": {
-      "codepoint": 57575,
-      "fontFamily": "SystemUicons",
-      "identifier": "lightbulbOn"
-    },
     "lightning": {
-      "codepoint": 57576,
+      "codepoint": 57524,
       "fontFamily": "SystemUicons",
       "identifier": "lightning"
     },
     "lightning-alt": {
-      "codepoint": 57577,
+      "codepoint": 57525,
       "fontFamily": "SystemUicons",
       "identifier": "lightningAlt"
     },
     "lineweight": {
-      "codepoint": 57578,
+      "codepoint": 57526,
       "fontFamily": "SystemUicons",
       "identifier": "lineweight"
     },
     "link": {
-      "codepoint": 57579,
+      "codepoint": 57527,
       "fontFamily": "SystemUicons",
       "identifier": "link"
     },
     "link-alt": {
-      "codepoint": 57580,
+      "codepoint": 57528,
       "fontFamily": "SystemUicons",
       "identifier": "linkAlt"
     },
     "link-broken": {
-      "codepoint": 57581,
+      "codepoint": 57529,
       "fontFamily": "SystemUicons",
       "identifier": "linkBroken"
     },
     "link-horizontal": {
-      "codepoint": 57582,
+      "codepoint": 57530,
       "fontFamily": "SystemUicons",
       "identifier": "linkHorizontal"
     },
     "link-vertical": {
-      "codepoint": 57583,
+      "codepoint": 57531,
       "fontFamily": "SystemUicons",
       "identifier": "linkVertical"
     },
-    "list": {
-      "codepoint": 57584,
-      "fontFamily": "SystemUicons",
-      "identifier": "list"
-    },
     "list-add": {
-      "codepoint": 57585,
+      "codepoint": 57532,
       "fontFamily": "SystemUicons",
       "identifier": "listAdd"
     },
-    "list-numbered": {
-      "codepoint": 57586,
-      "fontFamily": "SystemUicons",
-      "identifier": "listNumbered"
-    },
     "loader": {
-      "codepoint": 57587,
+      "codepoint": 57533,
       "fontFamily": "SystemUicons",
       "identifier": "loader"
     },
-    "location": {
-      "codepoint": 57588,
-      "fontFamily": "SystemUicons",
-      "identifier": "location"
-    },
     "lock": {
-      "codepoint": 57589,
+      "codepoint": 57534,
       "fontFamily": "SystemUicons",
       "identifier": "lock"
     },
     "lock-open": {
-      "codepoint": 57590,
+      "codepoint": 57535,
       "fontFamily": "SystemUicons",
       "identifier": "lockOpen"
     },
     "mail": {
-      "codepoint": 57591,
+      "codepoint": 57536,
       "fontFamily": "SystemUicons",
       "identifier": "mail"
     },
     "mail-add": {
-      "codepoint": 57592,
+      "codepoint": 57537,
       "fontFamily": "SystemUicons",
       "identifier": "mailAdd"
     },
     "mail-delete": {
-      "codepoint": 57593,
+      "codepoint": 57538,
       "fontFamily": "SystemUicons",
       "identifier": "mailDelete"
     },
     "mail-minus": {
-      "codepoint": 57594,
+      "codepoint": 57539,
       "fontFamily": "SystemUicons",
       "identifier": "mailMinus"
     },
     "mail-new": {
-      "codepoint": 57595,
+      "codepoint": 57540,
       "fontFamily": "SystemUicons",
       "identifier": "mailNew"
     },
     "mail-open": {
-      "codepoint": 57596,
+      "codepoint": 57541,
       "fontFamily": "SystemUicons",
       "identifier": "mailOpen"
     },
     "mail-remove": {
-      "codepoint": 57597,
+      "codepoint": 57542,
       "fontFamily": "SystemUicons",
       "identifier": "mailRemove"
     },
     "marquee": {
-      "codepoint": 57598,
+      "codepoint": 57543,
       "fontFamily": "SystemUicons",
       "identifier": "marquee"
     },
     "maximise": {
-      "codepoint": 57599,
+      "codepoint": 57544,
       "fontFamily": "SystemUicons",
       "identifier": "maximise"
     },
     "menu-hamburger": {
-      "codepoint": 57600,
+      "codepoint": 57545,
       "fontFamily": "SystemUicons",
       "identifier": "menuHamburger"
     },
     "menu-horizontal": {
-      "codepoint": 57601,
+      "codepoint": 57546,
       "fontFamily": "SystemUicons",
       "identifier": "menuHorizontal"
     },
     "menu-vertical": {
-      "codepoint": 57602,
+      "codepoint": 57547,
       "fontFamily": "SystemUicons",
       "identifier": "menuVertical"
     },
-    "message": {
-      "codepoint": 57603,
-      "fontFamily": "SystemUicons",
-      "identifier": "message"
-    },
-    "message-writing": {
-      "codepoint": 57604,
-      "fontFamily": "SystemUicons",
-      "identifier": "messageWriting"
-    },
-    "microphone": {
-      "codepoint": 57605,
-      "fontFamily": "SystemUicons",
-      "identifier": "microphone"
-    },
-    "microphone-disabled": {
-      "codepoint": 57606,
-      "fontFamily": "SystemUicons",
-      "identifier": "microphoneDisabled"
-    },
-    "microphone-muted": {
-      "codepoint": 57607,
-      "fontFamily": "SystemUicons",
-      "identifier": "microphoneMuted"
-    },
     "midpoint": {
-      "codepoint": 57608,
+      "codepoint": 57548,
       "fontFamily": "SystemUicons",
       "identifier": "midpoint"
     },
     "mini-player": {
-      "codepoint": 57609,
+      "codepoint": 57549,
       "fontFamily": "SystemUicons",
       "identifier": "miniPlayer"
     },
     "minimise": {
-      "codepoint": 57610,
+      "codepoint": 57550,
       "fontFamily": "SystemUicons",
       "identifier": "minimise"
     },
     "minus": {
-      "codepoint": 57611,
+      "codepoint": 57551,
       "fontFamily": "SystemUicons",
       "identifier": "minus"
     },
     "minus-circle": {
-      "codepoint": 57612,
+      "codepoint": 57552,
       "fontFamily": "SystemUicons",
       "identifier": "minusCircle"
     },
     "moon": {
-      "codepoint": 57613,
+      "codepoint": 57553,
       "fontFamily": "SystemUicons",
       "identifier": "moon"
     },
     "move": {
-      "codepoint": 57614,
+      "codepoint": 57554,
       "fontFamily": "SystemUicons",
       "identifier": "move"
     },
-    "newspaper": {
-      "codepoint": 57615,
-      "fontFamily": "SystemUicons",
-      "identifier": "newspaper"
-    },
     "no-sign": {
-      "codepoint": 57616,
+      "codepoint": 57555,
       "fontFamily": "SystemUicons",
       "identifier": "noSign"
     },
     "notebook": {
-      "codepoint": 57617,
+      "codepoint": 57556,
       "fontFamily": "SystemUicons",
       "identifier": "notebook"
     },
     "notification": {
-      "codepoint": 57618,
+      "codepoint": 57557,
       "fontFamily": "SystemUicons",
       "identifier": "notification"
     },
     "nut": {
-      "codepoint": 57619,
+      "codepoint": 57558,
       "fontFamily": "SystemUicons",
       "identifier": "nut"
     },
     "pages": {
-      "codepoint": 57620,
+      "codepoint": 57559,
       "fontFamily": "SystemUicons",
       "identifier": "pages"
     },
     "panel-bottom": {
-      "codepoint": 57621,
+      "codepoint": 57560,
       "fontFamily": "SystemUicons",
       "identifier": "panelBottom"
     },
     "panel-center": {
-      "codepoint": 57622,
+      "codepoint": 57561,
       "fontFamily": "SystemUicons",
       "identifier": "panelCenter"
     },
     "panel-left": {
-      "codepoint": 57623,
+      "codepoint": 57562,
       "fontFamily": "SystemUicons",
       "identifier": "panelLeft"
     },
     "panel-right": {
-      "codepoint": 57624,
+      "codepoint": 57563,
       "fontFamily": "SystemUicons",
       "identifier": "panelRight"
     },
     "panel-sectioned": {
-      "codepoint": 57625,
+      "codepoint": 57564,
       "fontFamily": "SystemUicons",
       "identifier": "panelSectioned"
     },
     "panel-top": {
-      "codepoint": 57626,
+      "codepoint": 57565,
       "fontFamily": "SystemUicons",
       "identifier": "panelTop"
     },
     "paper": {
-      "codepoint": 57627,
+      "codepoint": 57566,
       "fontFamily": "SystemUicons",
       "identifier": "paper"
     },
     "paper-folded": {
-      "codepoint": 57628,
+      "codepoint": 57567,
       "fontFamily": "SystemUicons",
       "identifier": "paperFolded"
     },
     "paper-plane": {
-      "codepoint": 57629,
+      "codepoint": 57568,
       "fontFamily": "SystemUicons",
       "identifier": "paperPlane"
     },
     "paper-plane-alt": {
-      "codepoint": 57630,
+      "codepoint": 57569,
       "fontFamily": "SystemUicons",
       "identifier": "paperPlaneAlt"
     },
-    "paperclip": {
-      "codepoint": 57631,
-      "fontFamily": "SystemUicons",
-      "identifier": "paperclip"
-    },
     "paragraph-center": {
-      "codepoint": 57632,
+      "codepoint": 57570,
       "fontFamily": "SystemUicons",
       "identifier": "paragraphCenter"
     },
     "paragraph-end": {
-      "codepoint": 57633,
+      "codepoint": 57571,
       "fontFamily": "SystemUicons",
       "identifier": "paragraphEnd"
     },
     "paragraph-left": {
-      "codepoint": 57634,
+      "codepoint": 57572,
       "fontFamily": "SystemUicons",
       "identifier": "paragraphLeft"
     },
     "paragraph-right": {
-      "codepoint": 57635,
+      "codepoint": 57573,
       "fontFamily": "SystemUicons",
       "identifier": "paragraphRight"
     },
     "paragraph-start": {
-      "codepoint": 57636,
+      "codepoint": 57574,
       "fontFamily": "SystemUicons",
       "identifier": "paragraphStart"
     },
-    "pen": {
-      "codepoint": 57637,
-      "fontFamily": "SystemUicons",
-      "identifier": "pen"
-    },
-    "phone-landscape": {
-      "codepoint": 57638,
-      "fontFamily": "SystemUicons",
-      "identifier": "phoneLandscape"
-    },
     "phone-portrait": {
-      "codepoint": 57639,
+      "codepoint": 57575,
       "fontFamily": "SystemUicons",
       "identifier": "phonePortrait"
     },
     "picture": {
-      "codepoint": 57640,
+      "codepoint": 57576,
       "fontFamily": "SystemUicons",
       "identifier": "picture"
     },
     "pie-half": {
-      "codepoint": 57641,
+      "codepoint": 57577,
       "fontFamily": "SystemUicons",
       "identifier": "pieHalf"
     },
     "pie-quarter": {
-      "codepoint": 57642,
+      "codepoint": 57578,
       "fontFamily": "SystemUicons",
       "identifier": "pieQuarter"
     },
     "pie-third": {
-      "codepoint": 57643,
+      "codepoint": 57579,
       "fontFamily": "SystemUicons",
       "identifier": "pieThird"
     },
     "pill": {
-      "codepoint": 57644,
+      "codepoint": 57580,
       "fontFamily": "SystemUicons",
       "identifier": "pill"
     },
     "play-button": {
-      "codepoint": 57645,
+      "codepoint": 57581,
       "fontFamily": "SystemUicons",
       "identifier": "playButton"
     },
     "plus": {
-      "codepoint": 57646,
+      "codepoint": 57582,
       "fontFamily": "SystemUicons",
       "identifier": "plus"
     },
     "plus-circle": {
-      "codepoint": 57647,
+      "codepoint": 57583,
       "fontFamily": "SystemUicons",
       "identifier": "plusCircle"
     },
     "postcard": {
-      "codepoint": 57648,
+      "codepoint": 57584,
       "fontFamily": "SystemUicons",
       "identifier": "postcard"
     },
     "printer": {
-      "codepoint": 57649,
+      "codepoint": 57585,
       "fontFamily": "SystemUicons",
       "identifier": "printer"
     },
-    "projector": {
-      "codepoint": 57650,
-      "fontFamily": "SystemUicons",
-      "identifier": "projector"
-    },
     "pull-down": {
-      "codepoint": 57651,
+      "codepoint": 57586,
       "fontFamily": "SystemUicons",
       "identifier": "pullDown"
     },
     "pull-left": {
-      "codepoint": 57652,
+      "codepoint": 57587,
       "fontFamily": "SystemUicons",
       "identifier": "pullLeft"
     },
     "pull-right": {
-      "codepoint": 57653,
+      "codepoint": 57588,
       "fontFamily": "SystemUicons",
       "identifier": "pullRight"
     },
     "pull-up": {
-      "codepoint": 57654,
+      "codepoint": 57589,
       "fontFamily": "SystemUicons",
       "identifier": "pullUp"
     },
     "push-down": {
-      "codepoint": 57655,
+      "codepoint": 57590,
       "fontFamily": "SystemUicons",
       "identifier": "pushDown"
     },
     "push-left": {
-      "codepoint": 57656,
+      "codepoint": 57591,
       "fontFamily": "SystemUicons",
       "identifier": "pushLeft"
     },
     "push-right": {
-      "codepoint": 57657,
+      "codepoint": 57592,
       "fontFamily": "SystemUicons",
       "identifier": "pushRight"
     },
     "push-up": {
-      "codepoint": 57658,
+      "codepoint": 57593,
       "fontFamily": "SystemUicons",
       "identifier": "pushUp"
     },
-    "question-circle": {
-      "codepoint": 57659,
-      "fontFamily": "SystemUicons",
-      "identifier": "questionCircle"
-    },
     "radio-on": {
-      "codepoint": 57660,
+      "codepoint": 57594,
       "fontFamily": "SystemUicons",
       "identifier": "radioOn"
     },
     "receipt": {
-      "codepoint": 57661,
+      "codepoint": 57595,
       "fontFamily": "SystemUicons",
       "identifier": "receipt"
     },
     "record": {
-      "codepoint": 57662,
+      "codepoint": 57596,
       "fontFamily": "SystemUicons",
       "identifier": "record"
     },
     "redo": {
-      "codepoint": 57663,
+      "codepoint": 57597,
       "fontFamily": "SystemUicons",
       "identifier": "redo"
     },
     "refresh": {
-      "codepoint": 57664,
+      "codepoint": 57598,
       "fontFamily": "SystemUicons",
       "identifier": "refresh"
     },
     "refresh-alt": {
-      "codepoint": 57665,
+      "codepoint": 57599,
       "fontFamily": "SystemUicons",
       "identifier": "refreshAlt"
     },
     "replicate": {
-      "codepoint": 57666,
+      "codepoint": 57600,
       "fontFamily": "SystemUicons",
       "identifier": "replicate"
     },
     "replicate-alt": {
-      "codepoint": 57667,
+      "codepoint": 57601,
       "fontFamily": "SystemUicons",
       "identifier": "replicateAlt"
     },
     "reset": {
-      "codepoint": 57668,
+      "codepoint": 57602,
       "fontFamily": "SystemUicons",
       "identifier": "reset"
     },
     "reset-alt": {
-      "codepoint": 57669,
+      "codepoint": 57603,
       "fontFamily": "SystemUicons",
       "identifier": "resetAlt"
     },
     "reset-forward": {
-      "codepoint": 57670,
+      "codepoint": 57604,
       "fontFamily": "SystemUicons",
       "identifier": "resetForward"
     },
-    "reset-hard": {
-      "codepoint": 57671,
-      "fontFamily": "SystemUicons",
-      "identifier": "resetHard"
-    },
     "reset-temporary": {
-      "codepoint": 57672,
+      "codepoint": 57605,
       "fontFamily": "SystemUicons",
       "identifier": "resetTemporary"
     },
     "retweet": {
-      "codepoint": 57673,
+      "codepoint": 57606,
       "fontFamily": "SystemUicons",
       "identifier": "retweet"
     },
     "reuse": {
-      "codepoint": 57674,
+      "codepoint": 57607,
       "fontFamily": "SystemUicons",
       "identifier": "reuse"
     },
     "reverse": {
-      "codepoint": 57675,
+      "codepoint": 57608,
       "fontFamily": "SystemUicons",
       "identifier": "reverse"
     },
     "reverse-alt": {
-      "codepoint": 57676,
+      "codepoint": 57609,
       "fontFamily": "SystemUicons",
       "identifier": "reverseAlt"
     },
-    "revert": {
-      "codepoint": 57677,
-      "fontFamily": "SystemUicons",
-      "identifier": "revert"
-    },
-    "rocket": {
-      "codepoint": 57678,
-      "fontFamily": "SystemUicons",
-      "identifier": "rocket"
-    },
     "ruler": {
-      "codepoint": 57679,
+      "codepoint": 57610,
       "fontFamily": "SystemUicons",
       "identifier": "ruler"
     },
     "scale": {
-      "codepoint": 57680,
+      "codepoint": 57611,
       "fontFamily": "SystemUicons",
       "identifier": "scale"
     },
     "scale-contract": {
-      "codepoint": 57681,
+      "codepoint": 57612,
       "fontFamily": "SystemUicons",
       "identifier": "scaleContract"
     },
     "scale-extend": {
-      "codepoint": 57682,
+      "codepoint": 57613,
       "fontFamily": "SystemUicons",
       "identifier": "scaleExtend"
     },
     "scalpel": {
-      "codepoint": 57683,
+      "codepoint": 57614,
       "fontFamily": "SystemUicons",
       "identifier": "scalpel"
     },
     "search": {
-      "codepoint": 57684,
+      "codepoint": 57615,
       "fontFamily": "SystemUicons",
       "identifier": "search"
     },
     "server": {
-      "codepoint": 57685,
+      "codepoint": 57616,
       "fontFamily": "SystemUicons",
       "identifier": "server"
     },
-    "settings": {
-      "codepoint": 57686,
-      "fontFamily": "SystemUicons",
-      "identifier": "settings"
-    },
     "share": {
-      "codepoint": 57687,
+      "codepoint": 57617,
       "fontFamily": "SystemUicons",
       "identifier": "share"
     },
     "share-alt": {
-      "codepoint": 57688,
+      "codepoint": 57618,
       "fontFamily": "SystemUicons",
       "identifier": "shareAlt"
     },
     "shuffle": {
-      "codepoint": 57689,
+      "codepoint": 57619,
       "fontFamily": "SystemUicons",
       "identifier": "shuffle"
     },
-    "side-menu": {
-      "codepoint": 57690,
-      "fontFamily": "SystemUicons",
-      "identifier": "sideMenu"
-    },
     "signal-full": {
-      "codepoint": 57691,
+      "codepoint": 57620,
       "fontFamily": "SystemUicons",
       "identifier": "signalFull"
     },
     "signal-low": {
-      "codepoint": 57692,
+      "codepoint": 57621,
       "fontFamily": "SystemUicons",
       "identifier": "signalLow"
     },
     "signal-medium": {
-      "codepoint": 57693,
+      "codepoint": 57622,
       "fontFamily": "SystemUicons",
       "identifier": "signalMedium"
     },
     "signal-none": {
-      "codepoint": 57694,
+      "codepoint": 57623,
       "fontFamily": "SystemUicons",
       "identifier": "signalNone"
     },
     "slash-backward": {
-      "codepoint": 57695,
+      "codepoint": 57624,
       "fontFamily": "SystemUicons",
       "identifier": "slashBackward"
     },
     "slash-forward": {
-      "codepoint": 57696,
+      "codepoint": 57625,
       "fontFamily": "SystemUicons",
       "identifier": "slashForward"
     },
     "sliders": {
-      "codepoint": 57697,
+      "codepoint": 57626,
       "fontFamily": "SystemUicons",
       "identifier": "sliders"
     },
     "sort": {
-      "codepoint": 57698,
+      "codepoint": 57627,
       "fontFamily": "SystemUicons",
       "identifier": "sort"
     },
     "sort-alt": {
-      "codepoint": 57699,
+      "codepoint": 57628,
       "fontFamily": "SystemUicons",
       "identifier": "sortAlt"
     },
     "speaker": {
-      "codepoint": 57700,
+      "codepoint": 57629,
       "fontFamily": "SystemUicons",
       "identifier": "speaker"
     },
-    "speech-bubble": {
-      "codepoint": 57701,
-      "fontFamily": "SystemUicons",
-      "identifier": "speechBubble"
-    },
-    "speech-typing": {
-      "codepoint": 57702,
-      "fontFamily": "SystemUicons",
-      "identifier": "speechTyping"
-    },
     "split": {
-      "codepoint": 57703,
+      "codepoint": 57630,
       "fontFamily": "SystemUicons",
       "identifier": "split"
     },
     "split-three": {
-      "codepoint": 57704,
+      "codepoint": 57631,
       "fontFamily": "SystemUicons",
       "identifier": "splitThree"
     },
     "star": {
-      "codepoint": 57705,
+      "codepoint": 57632,
       "fontFamily": "SystemUicons",
       "identifier": "star"
     },
-    "sun": {
-      "codepoint": 57706,
-      "fontFamily": "SystemUicons",
-      "identifier": "sun"
-    },
     "support": {
-      "codepoint": 57707,
+      "codepoint": 57633,
       "fontFamily": "SystemUicons",
       "identifier": "support"
     },
     "swap": {
-      "codepoint": 57708,
+      "codepoint": 57634,
       "fontFamily": "SystemUicons",
       "identifier": "swap"
     },
     "switch": {
-      "codepoint": 57709,
+      "codepoint": 57635,
       "fontFamily": "SystemUicons",
       "identifier": "switch_"
     },
     "table": {
-      "codepoint": 57710,
+      "codepoint": 57636,
       "fontFamily": "SystemUicons",
       "identifier": "table"
     },
     "table-header": {
-      "codepoint": 57711,
+      "codepoint": 57637,
       "fontFamily": "SystemUicons",
       "identifier": "tableHeader"
     },
-    "tag": {
-      "codepoint": 57712,
-      "fontFamily": "SystemUicons",
-      "identifier": "tag"
-    },
-    "tag-milestone": {
-      "codepoint": 57713,
-      "fontFamily": "SystemUicons",
-      "identifier": "tagMilestone"
-    },
-    "tags": {
-      "codepoint": 57714,
-      "fontFamily": "SystemUicons",
-      "identifier": "tags"
-    },
     "target": {
-      "codepoint": 57715,
+      "codepoint": 57638,
       "fontFamily": "SystemUicons",
       "identifier": "target"
     },
     "terminal": {
-      "codepoint": 57716,
+      "codepoint": 57639,
       "fontFamily": "SystemUicons",
       "identifier": "terminal"
     },
-    "thread": {
-      "codepoint": 57717,
-      "fontFamily": "SystemUicons",
-      "identifier": "thread"
-    },
-    "thumbs-down": {
-      "codepoint": 57718,
-      "fontFamily": "SystemUicons",
-      "identifier": "thumbsDown"
-    },
-    "thumbs-up": {
-      "codepoint": 57719,
-      "fontFamily": "SystemUicons",
-      "identifier": "thumbsUp"
-    },
     "ticket": {
-      "codepoint": 57720,
+      "codepoint": 57640,
       "fontFamily": "SystemUicons",
       "identifier": "ticket"
     },
     "timeline": {
-      "codepoint": 57721,
+      "codepoint": 57641,
       "fontFamily": "SystemUicons",
       "identifier": "timeline"
     },
     "todo": {
-      "codepoint": 57722,
+      "codepoint": 57642,
       "fontFamily": "SystemUicons",
       "identifier": "todo"
     },
-    "toggle": {
-      "codepoint": 57723,
-      "fontFamily": "SystemUicons",
-      "identifier": "toggle"
-    },
-    "toggles": {
-      "codepoint": 57724,
-      "fontFamily": "SystemUicons",
-      "identifier": "toggles"
-    },
-    "translate": {
-      "codepoint": 57725,
-      "fontFamily": "SystemUicons",
-      "identifier": "translate"
-    },
     "trash": {
-      "codepoint": 57726,
+      "codepoint": 57643,
       "fontFamily": "SystemUicons",
       "identifier": "trash"
     },
-    "trash-alt": {
-      "codepoint": 57727,
-      "fontFamily": "SystemUicons",
-      "identifier": "trashAlt"
-    },
     "trophy": {
-      "codepoint": 57728,
+      "codepoint": 57644,
       "fontFamily": "SystemUicons",
       "identifier": "trophy"
     },
     "tv-mode": {
-      "codepoint": 57729,
+      "codepoint": 57645,
       "fontFamily": "SystemUicons",
       "identifier": "tvMode"
     },
     "unarchive": {
-      "codepoint": 57730,
+      "codepoint": 57646,
       "fontFamily": "SystemUicons",
       "identifier": "unarchive"
     },
     "undo": {
-      "codepoint": 57731,
+      "codepoint": 57647,
       "fontFamily": "SystemUicons",
       "identifier": "undo"
     },
     "undo-history": {
-      "codepoint": 57732,
+      "codepoint": 57648,
       "fontFamily": "SystemUicons",
       "identifier": "undoHistory"
     },
     "unlink-horizontal": {
-      "codepoint": 57733,
+      "codepoint": 57649,
       "fontFamily": "SystemUicons",
       "identifier": "unlinkHorizontal"
     },
     "unlink-vertical": {
-      "codepoint": 57734,
+      "codepoint": 57650,
       "fontFamily": "SystemUicons",
       "identifier": "unlinkVertical"
     },
     "upload": {
-      "codepoint": 57735,
+      "codepoint": 57651,
       "fontFamily": "SystemUicons",
       "identifier": "upload"
     },
     "upload-alt": {
-      "codepoint": 57736,
+      "codepoint": 57652,
       "fontFamily": "SystemUicons",
       "identifier": "uploadAlt"
     },
     "upward": {
-      "codepoint": 57737,
+      "codepoint": 57653,
       "fontFamily": "SystemUicons",
       "identifier": "upward"
     },
-    "user": {
-      "codepoint": 57738,
-      "fontFamily": "SystemUicons",
-      "identifier": "user"
-    },
-    "user-add": {
-      "codepoint": 57739,
-      "fontFamily": "SystemUicons",
-      "identifier": "userAdd"
-    },
-    "user-circle": {
-      "codepoint": 57740,
-      "fontFamily": "SystemUicons",
-      "identifier": "userCircle"
-    },
-    "user-male": {
-      "codepoint": 57741,
-      "fontFamily": "SystemUicons",
-      "identifier": "userMale"
-    },
-    "user-male-circle": {
-      "codepoint": 57742,
-      "fontFamily": "SystemUicons",
-      "identifier": "userMaleCircle"
-    },
-    "user-remove": {
-      "codepoint": 57743,
-      "fontFamily": "SystemUicons",
-      "identifier": "userRemove"
-    },
-    "users": {
-      "codepoint": 57744,
-      "fontFamily": "SystemUicons",
-      "identifier": "users"
-    },
     "venn": {
-      "codepoint": 57745,
+      "codepoint": 57654,
       "fontFamily": "SystemUicons",
       "identifier": "venn"
     },
     "version": {
-      "codepoint": 57746,
+      "codepoint": 57655,
       "fontFamily": "SystemUicons",
       "identifier": "version"
     },
     "versions": {
-      "codepoint": 57747,
+      "codepoint": 57656,
       "fontFamily": "SystemUicons",
       "identifier": "versions"
     },
     "video": {
-      "codepoint": 57748,
+      "codepoint": 57657,
       "fontFamily": "SystemUicons",
       "identifier": "video"
     },
     "volume-0": {
-      "codepoint": 57749,
+      "codepoint": 57658,
       "fontFamily": "SystemUicons",
       "identifier": "volume0"
     },
     "volume-add": {
-      "codepoint": 57750,
+      "codepoint": 57659,
       "fontFamily": "SystemUicons",
       "identifier": "volumeAdd"
     },
-    "volume-disabled": {
-      "codepoint": 57751,
-      "fontFamily": "SystemUicons",
-      "identifier": "volumeDisabled"
-    },
     "volume-high": {
-      "codepoint": 57752,
+      "codepoint": 57660,
       "fontFamily": "SystemUicons",
       "identifier": "volumeHigh"
     },
     "volume-low": {
-      "codepoint": 57753,
+      "codepoint": 57661,
       "fontFamily": "SystemUicons",
       "identifier": "volumeLow"
     },
     "volume-minus": {
-      "codepoint": 57754,
+      "codepoint": 57662,
       "fontFamily": "SystemUicons",
       "identifier": "volumeMinus"
     },
     "volume-muted": {
-      "codepoint": 57755,
+      "codepoint": 57663,
       "fontFamily": "SystemUicons",
       "identifier": "volumeMuted"
     },
     "wallet": {
-      "codepoint": 57756,
+      "codepoint": 57664,
       "fontFamily": "SystemUicons",
       "identifier": "wallet"
     },
     "warning-circle": {
-      "codepoint": 57757,
+      "codepoint": 57665,
       "fontFamily": "SystemUicons",
       "identifier": "warningCircle"
     },
     "warning-hex": {
-      "codepoint": 57758,
+      "codepoint": 57666,
       "fontFamily": "SystemUicons",
       "identifier": "warningHex"
     },
     "warning-triangle": {
-      "codepoint": 57759,
+      "codepoint": 57667,
       "fontFamily": "SystemUicons",
       "identifier": "warningTriangle"
     },
     "waves": {
-      "codepoint": 57760,
+      "codepoint": 57668,
       "fontFamily": "SystemUicons",
       "identifier": "waves"
     },
     "width": {
-      "codepoint": 57761,
+      "codepoint": 57669,
       "fontFamily": "SystemUicons",
       "identifier": "width"
     },
-    "wifi": {
-      "codepoint": 57762,
-      "fontFamily": "SystemUicons",
-      "identifier": "wifi"
-    },
-    "wifi-error": {
-      "codepoint": 57763,
-      "fontFamily": "SystemUicons",
-      "identifier": "wifiError"
-    },
-    "wifi-none": {
-      "codepoint": 57764,
-      "fontFamily": "SystemUicons",
-      "identifier": "wifiNone"
-    },
-    "window": {
-      "codepoint": 57765,
-      "fontFamily": "SystemUicons",
-      "identifier": "window"
-    },
-    "window-collapse-left": {
-      "codepoint": 57766,
-      "fontFamily": "SystemUicons",
-      "identifier": "windowCollapseLeft"
-    },
-    "window-collapse-right": {
-      "codepoint": 57767,
-      "fontFamily": "SystemUicons",
-      "identifier": "windowCollapseRight"
-    },
-    "window-content": {
-      "codepoint": 57768,
-      "fontFamily": "SystemUicons",
-      "identifier": "windowContent"
-    },
     "wrap-back": {
-      "codepoint": 57769,
+      "codepoint": 57670,
       "fontFamily": "SystemUicons",
       "identifier": "wrapBack"
     },
     "wrap-forward": {
-      "codepoint": 57770,
+      "codepoint": 57671,
       "fontFamily": "SystemUicons",
       "identifier": "wrapForward"
     },
-    "write": {
-      "codepoint": 57771,
-      "fontFamily": "SystemUicons",
-      "identifier": "write"
-    },
     "zoom-cancel": {
-      "codepoint": 57772,
+      "codepoint": 57672,
       "fontFamily": "SystemUicons",
       "identifier": "zoomCancel"
     },
     "zoom-in": {
-      "codepoint": 57773,
+      "codepoint": 57673,
       "fontFamily": "SystemUicons",
       "identifier": "zoomIn"
     },
     "zoom-out": {
-      "codepoint": 57774,
+      "codepoint": 57674,
       "fontFamily": "SystemUicons",
       "identifier": "zoomOut"
     },
     "zoom-reset": {
-      "codepoint": 57775,
+      "codepoint": 57675,
       "fontFamily": "SystemUicons",
       "identifier": "zoomReset"
     }

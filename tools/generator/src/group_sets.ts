@@ -12,6 +12,12 @@ export interface GeneratorConfig {
   excludedSets: string[];
   /** Optional friendlier names for Iconify's raw `info.category` strings. */
   displayCategoryAliases?: Record<string, string>;
+  /**
+   * Iconify prefixes whose icons need stroke-outline pre-processing before
+   * font conversion (otherwise stroke-based icons like Lucide render as
+   * solid filled shapes inside the font).
+   */
+  strokeFillSets?: string[];
 }
 
 const CONFIG_PATH = path.resolve(import.meta.dir, '..', 'config.yaml');

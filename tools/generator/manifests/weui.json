@@ -15,13 +15,13 @@
       "title": "MIT",
       "spdx": "MIT"
     },
-    "total": 162
+    "total": 64
   },
   "fonts": [
     {
       "family": "Weui",
-      "nextCodepoint": 57506,
-      "iconCount": 162
+      "nextCodepoint": 57408,
+      "iconCount": 64
     }
   ],
   "icons": {
@@ -30,810 +30,320 @@
       "fontFamily": "Weui",
       "identifier": "addFilled"
     },
-    "add-friends-filled": {
-      "codepoint": 57345,
-      "fontFamily": "Weui",
-      "identifier": "addFriendsFilled"
-    },
-    "add-friends-outlined": {
-      "codepoint": 57346,
-      "fontFamily": "Weui",
-      "identifier": "addFriendsOutlined"
-    },
     "add-outlined": {
-      "codepoint": 57347,
+      "codepoint": 57345,
       "fontFamily": "Weui",
       "identifier": "addOutlined"
     },
     "add2-filled": {
-      "codepoint": 57348,
+      "codepoint": 57346,
       "fontFamily": "Weui",
       "identifier": "add2Filled"
     },
     "add2-outlined": {
-      "codepoint": 57349,
+      "codepoint": 57347,
       "fontFamily": "Weui",
       "identifier": "add2Outlined"
     },
-    "album-filled": {
-      "codepoint": 57350,
-      "fontFamily": "Weui",
-      "identifier": "albumFilled"
-    },
-    "album-outlined": {
-      "codepoint": 57351,
-      "fontFamily": "Weui",
-      "identifier": "albumOutlined"
-    },
     "arrow-filled": {
-      "codepoint": 57352,
+      "codepoint": 57348,
       "fontFamily": "Weui",
       "identifier": "arrowFilled"
     },
-    "arrow-outlined": {
-      "codepoint": 57353,
-      "fontFamily": "Weui",
-      "identifier": "arrowOutlined"
-    },
-    "at-filled": {
-      "codepoint": 57354,
-      "fontFamily": "Weui",
-      "identifier": "atFilled"
-    },
-    "at-outlined": {
-      "codepoint": 57355,
-      "fontFamily": "Weui",
-      "identifier": "atOutlined"
-    },
     "back-filled": {
-      "codepoint": 57356,
+      "codepoint": 57349,
       "fontFamily": "Weui",
       "identifier": "backFilled"
     },
     "back-outlined": {
-      "codepoint": 57357,
+      "codepoint": 57350,
       "fontFamily": "Weui",
       "identifier": "backOutlined"
     },
     "back2-filled": {
-      "codepoint": 57358,
+      "codepoint": 57351,
       "fontFamily": "Weui",
       "identifier": "back2Filled"
     },
     "back2-outlined": {
-      "codepoint": 57359,
+      "codepoint": 57352,
       "fontFamily": "Weui",
       "identifier": "back2Outlined"
     },
-    "bellring-off-filled": {
-      "codepoint": 57360,
-      "fontFamily": "Weui",
-      "identifier": "bellringOffFilled"
-    },
-    "bellring-off-outlined": {
-      "codepoint": 57361,
-      "fontFamily": "Weui",
-      "identifier": "bellringOffOutlined"
-    },
-    "bellring-on-filled": {
-      "codepoint": 57362,
-      "fontFamily": "Weui",
-      "identifier": "bellringOnFilled"
-    },
-    "bellring-on-outlined": {
-      "codepoint": 57363,
-      "fontFamily": "Weui",
-      "identifier": "bellringOnOutlined"
-    },
-    "camera-filled": {
-      "codepoint": 57364,
-      "fontFamily": "Weui",
-      "identifier": "cameraFilled"
-    },
-    "camera-outlined": {
-      "codepoint": 57365,
-      "fontFamily": "Weui",
-      "identifier": "cameraOutlined"
-    },
     "cellphone-filled": {
-      "codepoint": 57366,
+      "codepoint": 57353,
       "fontFamily": "Weui",
       "identifier": "cellphoneFilled"
     },
     "cellphone-outlined": {
-      "codepoint": 57367,
+      "codepoint": 57354,
       "fontFamily": "Weui",
       "identifier": "cellphoneOutlined"
     },
     "clip-filled": {
-      "codepoint": 57368,
+      "codepoint": 57355,
       "fontFamily": "Weui",
       "identifier": "clipFilled"
     },
     "clip-outlined": {
-      "codepoint": 57369,
+      "codepoint": 57356,
       "fontFamily": "Weui",
       "identifier": "clipOutlined"
     },
     "close-filled": {
-      "codepoint": 57370,
+      "codepoint": 57357,
       "fontFamily": "Weui",
       "identifier": "closeFilled"
     },
     "close-outlined": {
-      "codepoint": 57371,
+      "codepoint": 57358,
       "fontFamily": "Weui",
       "identifier": "closeOutlined"
     },
     "close2-filled": {
-      "codepoint": 57372,
+      "codepoint": 57359,
       "fontFamily": "Weui",
       "identifier": "close2Filled"
     },
-    "close2-outlined": {
-      "codepoint": 57373,
-      "fontFamily": "Weui",
-      "identifier": "close2Outlined"
-    },
     "comment-filled": {
-      "codepoint": 57374,
+      "codepoint": 57360,
       "fontFamily": "Weui",
       "identifier": "commentFilled"
     },
     "comment-outlined": {
-      "codepoint": 57375,
+      "codepoint": 57361,
       "fontFamily": "Weui",
       "identifier": "commentOutlined"
     },
-    "contacts-filled": {
-      "codepoint": 57376,
-      "fontFamily": "Weui",
-      "identifier": "contactsFilled"
-    },
-    "contacts-outlined": {
-      "codepoint": 57377,
-      "fontFamily": "Weui",
-      "identifier": "contactsOutlined"
-    },
-    "copy-filled": {
-      "codepoint": 57378,
-      "fontFamily": "Weui",
-      "identifier": "copyFilled"
-    },
-    "copy-outlined": {
-      "codepoint": 57379,
-      "fontFamily": "Weui",
-      "identifier": "copyOutlined"
-    },
-    "delete-filled": {
-      "codepoint": 57380,
-      "fontFamily": "Weui",
-      "identifier": "deleteFilled"
-    },
-    "delete-on-filled": {
-      "codepoint": 57381,
-      "fontFamily": "Weui",
-      "identifier": "deleteOnFilled"
-    },
-    "delete-on-outlined": {
-      "codepoint": 57382,
-      "fontFamily": "Weui",
-      "identifier": "deleteOnOutlined"
-    },
-    "delete-outlined": {
-      "codepoint": 57383,
-      "fontFamily": "Weui",
-      "identifier": "deleteOutlined"
-    },
     "discover-filled": {
-      "codepoint": 57384,
+      "codepoint": 57362,
       "fontFamily": "Weui",
       "identifier": "discoverFilled"
     },
-    "discover-outlined": {
-      "codepoint": 57385,
-      "fontFamily": "Weui",
-      "identifier": "discoverOutlined"
-    },
-    "display-filled": {
-      "codepoint": 57386,
-      "fontFamily": "Weui",
-      "identifier": "displayFilled"
-    },
-    "display-outlined": {
-      "codepoint": 57387,
-      "fontFamily": "Weui",
-      "identifier": "displayOutlined"
-    },
     "done-filled": {
-      "codepoint": 57388,
+      "codepoint": 57363,
       "fontFamily": "Weui",
       "identifier": "doneFilled"
     },
     "done-outlined": {
-      "codepoint": 57389,
+      "codepoint": 57364,
       "fontFamily": "Weui",
       "identifier": "doneOutlined"
     },
     "done2-filled": {
-      "codepoint": 57390,
+      "codepoint": 57365,
       "fontFamily": "Weui",
       "identifier": "done2Filled"
     },
-    "done2-outlined": {
-      "codepoint": 57391,
-      "fontFamily": "Weui",
-      "identifier": "done2Outlined"
-    },
-    "download-filled": {
-      "codepoint": 57392,
-      "fontFamily": "Weui",
-      "identifier": "downloadFilled"
-    },
-    "download-outlined": {
-      "codepoint": 57393,
-      "fontFamily": "Weui",
-      "identifier": "downloadOutlined"
-    },
-    "email-filled": {
-      "codepoint": 57394,
-      "fontFamily": "Weui",
-      "identifier": "emailFilled"
-    },
     "email-outlined": {
-      "codepoint": 57395,
+      "codepoint": 57366,
       "fontFamily": "Weui",
       "identifier": "emailOutlined"
     },
-    "error-filled": {
-      "codepoint": 57396,
-      "fontFamily": "Weui",
-      "identifier": "errorFilled"
-    },
-    "error-outlined": {
-      "codepoint": 57397,
-      "fontFamily": "Weui",
-      "identifier": "errorOutlined"
-    },
     "eyes-off-filled": {
-      "codepoint": 57398,
+      "codepoint": 57367,
       "fontFamily": "Weui",
       "identifier": "eyesOffFilled"
     },
-    "eyes-off-outlined": {
-      "codepoint": 57399,
-      "fontFamily": "Weui",
-      "identifier": "eyesOffOutlined"
-    },
     "eyes-on-filled": {
-      "codepoint": 57400,
+      "codepoint": 57368,
       "fontFamily": "Weui",
       "identifier": "eyesOnFilled"
     },
     "eyes-on-outlined": {
-      "codepoint": 57401,
+      "codepoint": 57369,
       "fontFamily": "Weui",
       "identifier": "eyesOnOutlined"
     },
     "folder-filled": {
-      "codepoint": 57402,
+      "codepoint": 57370,
       "fontFamily": "Weui",
       "identifier": "folderFilled"
     },
     "folder-outlined": {
-      "codepoint": 57403,
+      "codepoint": 57371,
       "fontFamily": "Weui",
       "identifier": "folderOutlined"
     },
-    "group-detail-filled": {
-      "codepoint": 57404,
-      "fontFamily": "Weui",
-      "identifier": "groupDetailFilled"
-    },
-    "group-detail-outlined": {
-      "codepoint": 57405,
-      "fontFamily": "Weui",
-      "identifier": "groupDetailOutlined"
-    },
-    "help-filled": {
-      "codepoint": 57406,
-      "fontFamily": "Weui",
-      "identifier": "helpFilled"
-    },
-    "help-outlined": {
-      "codepoint": 57407,
-      "fontFamily": "Weui",
-      "identifier": "helpOutlined"
-    },
-    "home-filled": {
-      "codepoint": 57408,
-      "fontFamily": "Weui",
-      "identifier": "homeFilled"
-    },
-    "home-outlined": {
-      "codepoint": 57409,
-      "fontFamily": "Weui",
-      "identifier": "homeOutlined"
-    },
-    "imac-filled": {
-      "codepoint": 57410,
-      "fontFamily": "Weui",
-      "identifier": "imacFilled"
-    },
-    "imac-outlined": {
-      "codepoint": 57411,
-      "fontFamily": "Weui",
-      "identifier": "imacOutlined"
-    },
     "info-filled": {
-      "codepoint": 57412,
+      "codepoint": 57372,
       "fontFamily": "Weui",
       "identifier": "infoFilled"
     },
     "info-outlined": {
-      "codepoint": 57413,
+      "codepoint": 57373,
       "fontFamily": "Weui",
       "identifier": "infoOutlined"
     },
     "keyboard-filled": {
-      "codepoint": 57414,
+      "codepoint": 57374,
       "fontFamily": "Weui",
       "identifier": "keyboardFilled"
     },
     "keyboard-outlined": {
-      "codepoint": 57415,
+      "codepoint": 57375,
       "fontFamily": "Weui",
       "identifier": "keyboardOutlined"
     },
-    "like-filled": {
-      "codepoint": 57416,
-      "fontFamily": "Weui",
-      "identifier": "likeFilled"
-    },
-    "like-outlined": {
-      "codepoint": 57417,
-      "fontFamily": "Weui",
-      "identifier": "likeOutlined"
-    },
     "link-filled": {
-      "codepoint": 57418,
+      "codepoint": 57376,
       "fontFamily": "Weui",
       "identifier": "linkFilled"
     },
-    "link-outlined": {
-      "codepoint": 57419,
-      "fontFamily": "Weui",
-      "identifier": "linkOutlined"
-    },
-    "location-filled": {
-      "codepoint": 57420,
-      "fontFamily": "Weui",
-      "identifier": "locationFilled"
-    },
-    "location-outlined": {
-      "codepoint": 57421,
-      "fontFamily": "Weui",
-      "identifier": "locationOutlined"
-    },
-    "lock-filled": {
-      "codepoint": 57422,
-      "fontFamily": "Weui",
-      "identifier": "lockFilled"
-    },
-    "lock-outlined": {
-      "codepoint": 57423,
-      "fontFamily": "Weui",
-      "identifier": "lockOutlined"
-    },
     "max-window-filled": {
-      "codepoint": 57424,
+      "codepoint": 57377,
       "fontFamily": "Weui",
       "identifier": "maxWindowFilled"
     },
-    "max-window-outlined": {
-      "codepoint": 57425,
-      "fontFamily": "Weui",
-      "identifier": "maxWindowOutlined"
-    },
-    "me-filled": {
-      "codepoint": 57426,
-      "fontFamily": "Weui",
-      "identifier": "meFilled"
-    },
-    "me-outlined": {
-      "codepoint": 57427,
-      "fontFamily": "Weui",
-      "identifier": "meOutlined"
-    },
     "mike-filled": {
-      "codepoint": 57428,
+      "codepoint": 57378,
       "fontFamily": "Weui",
       "identifier": "mikeFilled"
     },
     "mike-outlined": {
-      "codepoint": 57429,
+      "codepoint": 57379,
       "fontFamily": "Weui",
       "identifier": "mikeOutlined"
     },
     "mike2-filled": {
-      "codepoint": 57430,
+      "codepoint": 57380,
       "fontFamily": "Weui",
       "identifier": "mike2Filled"
     },
     "mike2-outlined": {
-      "codepoint": 57431,
+      "codepoint": 57381,
       "fontFamily": "Weui",
       "identifier": "mike2Outlined"
     },
-    "mobile-contacts-filled": {
-      "codepoint": 57432,
-      "fontFamily": "Weui",
-      "identifier": "mobileContactsFilled"
-    },
-    "mobile-contacts-outlined": {
-      "codepoint": 57433,
-      "fontFamily": "Weui",
-      "identifier": "mobileContactsOutlined"
-    },
     "more-filled": {
-      "codepoint": 57434,
+      "codepoint": 57382,
       "fontFamily": "Weui",
       "identifier": "moreFilled"
     },
     "more-outlined": {
-      "codepoint": 57435,
+      "codepoint": 57383,
       "fontFamily": "Weui",
       "identifier": "moreOutlined"
     },
     "more2-filled": {
-      "codepoint": 57436,
+      "codepoint": 57384,
       "fontFamily": "Weui",
       "identifier": "more2Filled"
     },
     "more2-outlined": {
-      "codepoint": 57437,
+      "codepoint": 57385,
       "fontFamily": "Weui",
       "identifier": "more2Outlined"
     },
     "mosaic-filled": {
-      "codepoint": 57438,
+      "codepoint": 57386,
       "fontFamily": "Weui",
       "identifier": "mosaicFilled"
     },
     "mosaic-outlined": {
-      "codepoint": 57439,
+      "codepoint": 57387,
       "fontFamily": "Weui",
       "identifier": "mosaicOutlined"
     },
-    "music-filled": {
-      "codepoint": 57440,
-      "fontFamily": "Weui",
-      "identifier": "musicFilled"
-    },
-    "music-off-filled": {
-      "codepoint": 57441,
-      "fontFamily": "Weui",
-      "identifier": "musicOffFilled"
-    },
-    "music-off-outlined": {
-      "codepoint": 57442,
-      "fontFamily": "Weui",
-      "identifier": "musicOffOutlined"
-    },
-    "music-outlined": {
-      "codepoint": 57443,
-      "fontFamily": "Weui",
-      "identifier": "musicOutlined"
-    },
     "note-filled": {
-      "codepoint": 57444,
+      "codepoint": 57388,
       "fontFamily": "Weui",
       "identifier": "noteFilled"
     },
     "note-outlined": {
-      "codepoint": 57445,
+      "codepoint": 57389,
       "fontFamily": "Weui",
       "identifier": "noteOutlined"
     },
     "pad-filled": {
-      "codepoint": 57446,
+      "codepoint": 57390,
       "fontFamily": "Weui",
       "identifier": "padFilled"
     },
     "pad-outlined": {
-      "codepoint": 57447,
+      "codepoint": 57391,
       "fontFamily": "Weui",
       "identifier": "padOutlined"
     },
-    "pause-filled": {
-      "codepoint": 57448,
-      "fontFamily": "Weui",
-      "identifier": "pauseFilled"
-    },
-    "pause-outlined": {
-      "codepoint": 57449,
-      "fontFamily": "Weui",
-      "identifier": "pauseOutlined"
-    },
-    "pencil-filled": {
-      "codepoint": 57450,
-      "fontFamily": "Weui",
-      "identifier": "pencilFilled"
-    },
-    "pencil-outlined": {
-      "codepoint": 57451,
-      "fontFamily": "Weui",
-      "identifier": "pencilOutlined"
-    },
     "photo-wall-filled": {
-      "codepoint": 57452,
+      "codepoint": 57392,
       "fontFamily": "Weui",
       "identifier": "photoWallFilled"
     },
     "photo-wall-outlined": {
-      "codepoint": 57453,
+      "codepoint": 57393,
       "fontFamily": "Weui",
       "identifier": "photoWallOutlined"
     },
-    "play-filled": {
-      "codepoint": 57454,
-      "fontFamily": "Weui",
-      "identifier": "playFilled"
-    },
-    "play-outlined": {
-      "codepoint": 57455,
-      "fontFamily": "Weui",
-      "identifier": "playOutlined"
-    },
-    "play2-filled": {
-      "codepoint": 57456,
-      "fontFamily": "Weui",
-      "identifier": "play2Filled"
-    },
-    "play2-outlined": {
-      "codepoint": 57457,
-      "fontFamily": "Weui",
-      "identifier": "play2Outlined"
-    },
     "previous-filled": {
-      "codepoint": 57458,
+      "codepoint": 57394,
       "fontFamily": "Weui",
       "identifier": "previousFilled"
     },
-    "previous-outlined": {
-      "codepoint": 57459,
-      "fontFamily": "Weui",
-      "identifier": "previousOutlined"
-    },
-    "previous2-filled": {
-      "codepoint": 57460,
-      "fontFamily": "Weui",
-      "identifier": "previous2Filled"
-    },
-    "previous2-outlined": {
-      "codepoint": 57461,
-      "fontFamily": "Weui",
-      "identifier": "previous2Outlined"
-    },
     "qr-code-filled": {
-      "codepoint": 57462,
+      "codepoint": 57395,
       "fontFamily": "Weui",
       "identifier": "qrCodeFilled"
     },
     "qr-code-outlined": {
-      "codepoint": 57463,
+      "codepoint": 57396,
       "fontFamily": "Weui",
       "identifier": "qrCodeOutlined"
     },
-    "refresh-filled": {
-      "codepoint": 57464,
-      "fontFamily": "Weui",
-      "identifier": "refreshFilled"
-    },
-    "refresh-outlined": {
-      "codepoint": 57465,
-      "fontFamily": "Weui",
-      "identifier": "refreshOutlined"
-    },
-    "report-problem-filled": {
-      "codepoint": 57466,
-      "fontFamily": "Weui",
-      "identifier": "reportProblemFilled"
-    },
-    "report-problem-outlined": {
-      "codepoint": 57467,
-      "fontFamily": "Weui",
-      "identifier": "reportProblemOutlined"
-    },
     "search-filled": {
-      "codepoint": 57468,
+      "codepoint": 57397,
       "fontFamily": "Weui",
       "identifier": "searchFilled"
     },
-    "search-outlined": {
-      "codepoint": 57469,
-      "fontFamily": "Weui",
-      "identifier": "searchOutlined"
-    },
-    "sending-filled": {
-      "codepoint": 57470,
-      "fontFamily": "Weui",
-      "identifier": "sendingFilled"
-    },
-    "sending-outlined": {
-      "codepoint": 57471,
-      "fontFamily": "Weui",
-      "identifier": "sendingOutlined"
-    },
-    "setting-filled": {
-      "codepoint": 57472,
-      "fontFamily": "Weui",
-      "identifier": "settingFilled"
-    },
-    "setting-outlined": {
-      "codepoint": 57473,
-      "fontFamily": "Weui",
-      "identifier": "settingOutlined"
-    },
-    "share-filled": {
-      "codepoint": 57474,
-      "fontFamily": "Weui",
-      "identifier": "shareFilled"
-    },
-    "share-outlined": {
-      "codepoint": 57475,
-      "fontFamily": "Weui",
-      "identifier": "shareOutlined"
-    },
-    "shop-filled": {
-      "codepoint": 57476,
-      "fontFamily": "Weui",
-      "identifier": "shopFilled"
-    },
-    "shop-outlined": {
-      "codepoint": 57477,
-      "fontFamily": "Weui",
-      "identifier": "shopOutlined"
-    },
-    "star-filled": {
-      "codepoint": 57478,
-      "fontFamily": "Weui",
-      "identifier": "starFilled"
-    },
-    "star-outlined": {
-      "codepoint": 57479,
-      "fontFamily": "Weui",
-      "identifier": "starOutlined"
-    },
     "sticker-filled": {
-      "codepoint": 57480,
+      "codepoint": 57398,
       "fontFamily": "Weui",
       "identifier": "stickerFilled"
     },
     "sticker-outlined": {
-      "codepoint": 57481,
+      "codepoint": 57399,
       "fontFamily": "Weui",
       "identifier": "stickerOutlined"
     },
-    "tag-filled": {
-      "codepoint": 57482,
-      "fontFamily": "Weui",
-      "identifier": "tagFilled"
-    },
-    "tag-outlined": {
-      "codepoint": 57483,
-      "fontFamily": "Weui",
-      "identifier": "tagOutlined"
-    },
     "text-filled": {
-      "codepoint": 57484,
+      "codepoint": 57400,
       "fontFamily": "Weui",
       "identifier": "textFilled"
     },
     "text-outlined": {
-      "codepoint": 57485,
+      "codepoint": 57401,
       "fontFamily": "Weui",
       "identifier": "textOutlined"
     },
     "time-filled": {
-      "codepoint": 57486,
+      "codepoint": 57402,
       "fontFamily": "Weui",
       "identifier": "timeFilled"
     },
-    "time-outlined": {
-      "codepoint": 57487,
-      "fontFamily": "Weui",
-      "identifier": "timeOutlined"
-    },
-    "transfer-filled": {
-      "codepoint": 57488,
-      "fontFamily": "Weui",
-      "identifier": "transferFilled"
-    },
-    "transfer-outlined": {
-      "codepoint": 57489,
-      "fontFamily": "Weui",
-      "identifier": "transferOutlined"
-    },
-    "transfer-text-filled": {
-      "codepoint": 57490,
-      "fontFamily": "Weui",
-      "identifier": "transferTextFilled"
-    },
     "transfer-text-outlined": {
-      "codepoint": 57491,
+      "codepoint": 57403,
       "fontFamily": "Weui",
       "identifier": "transferTextOutlined"
     },
-    "transfer2-filled": {
-      "codepoint": 57492,
-      "fontFamily": "Weui",
-      "identifier": "transfer2Filled"
-    },
-    "transfer2-outlined": {
-      "codepoint": 57493,
-      "fontFamily": "Weui",
-      "identifier": "transfer2Outlined"
-    },
-    "tv-filled": {
-      "codepoint": 57494,
-      "fontFamily": "Weui",
-      "identifier": "tvFilled"
-    },
-    "tv-outlined": {
-      "codepoint": 57495,
-      "fontFamily": "Weui",
-      "identifier": "tvOutlined"
-    },
     "video-call-filled": {
-      "codepoint": 57496,
+      "codepoint": 57404,
       "fontFamily": "Weui",
       "identifier": "videoCallFilled"
     },
     "video-call-outlined": {
-      "codepoint": 57497,
+      "codepoint": 57405,
       "fontFamily": "Weui",
       "identifier": "videoCallOutlined"
     },
-    "voice-filled": {
-      "codepoint": 57498,
-      "fontFamily": "Weui",
-      "identifier": "voiceFilled"
-    },
-    "voice-outlined": {
-      "codepoint": 57499,
-      "fontFamily": "Weui",
-      "identifier": "voiceOutlined"
-    },
     "volume-down-filled": {
-      "codepoint": 57500,
+      "codepoint": 57406,
       "fontFamily": "Weui",
       "identifier": "volumeDownFilled"
     },
-    "volume-down-outlined": {
-      "codepoint": 57501,
-      "fontFamily": "Weui",
-      "identifier": "volumeDownOutlined"
-    },
-    "volume-off-filled": {
-      "codepoint": 57502,
-      "fontFamily": "Weui",
-      "identifier": "volumeOffFilled"
-    },
-    "volume-off-outlined": {
-      "codepoint": 57503,
-      "fontFamily": "Weui",
-      "identifier": "volumeOffOutlined"
-    },
     "volume-up-filled": {
-      "codepoint": 57504,
+      "codepoint": 57407,
       "fontFamily": "Weui",
       "identifier": "volumeUpFilled"
-    },
-    "volume-up-outlined": {
-      "codepoint": 57505,
-      "fontFamily": "Weui",
-      "identifier": "volumeUpOutlined"
     }
   }
 }

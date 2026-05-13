@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/formkit/formkit/blob/master/packages/icons/LICENSE',
-  iconCount: 144,
+  iconCount: 48,
 );

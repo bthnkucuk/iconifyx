@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'Apache 2.0',
   licenseSpdx: 'Apache-2.0',
   licenseUrl: 'https://github.com/Templarian/MaterialDesign/blob/master/LICENSE',
-  iconCount: 14001,
+  iconCount: 13565,
 );

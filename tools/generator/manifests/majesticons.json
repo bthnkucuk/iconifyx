@@ -16,5238 +16,3028 @@
       "spdx": "MIT",
       "url": "https://github.com/halfmage/majesticons/blob/main/LICENSE"
     },
-    "total": 1045
+    "total": 603
   },
   "fonts": [
     {
       "family": "Majesticons",
-      "nextCodepoint": 58389,
-      "iconCount": 1045
+      "nextCodepoint": 57947,
+      "iconCount": 603
     }
   ],
   "icons": {
-    "academic-cap": {
-      "codepoint": 57344,
-      "fontFamily": "Majesticons",
-      "identifier": "academicCap"
-    },
-    "academic-cap-line": {
-      "codepoint": 57345,
-      "fontFamily": "Majesticons",
-      "identifier": "academicCapLine"
-    },
     "add-column": {
-      "codepoint": 57346,
+      "codepoint": 57344,
       "fontFamily": "Majesticons",
       "identifier": "addColumn"
     },
     "add-column-line": {
-      "codepoint": 57347,
+      "codepoint": 57345,
       "fontFamily": "Majesticons",
       "identifier": "addColumnLine"
     },
     "add-row": {
-      "codepoint": 57348,
+      "codepoint": 57346,
       "fontFamily": "Majesticons",
       "identifier": "addRow"
     },
     "add-row-line": {
-      "codepoint": 57349,
+      "codepoint": 57347,
       "fontFamily": "Majesticons",
       "identifier": "addRowLine"
     },
     "adjustments": {
-      "codepoint": 57350,
+      "codepoint": 57348,
       "fontFamily": "Majesticons",
       "identifier": "adjustments"
     },
     "adjustments-line": {
-      "codepoint": 57351,
+      "codepoint": 57349,
       "fontFamily": "Majesticons",
       "identifier": "adjustmentsLine"
     },
-    "airplane": {
-      "codepoint": 57352,
-      "fontFamily": "Majesticons",
-      "identifier": "airplane"
-    },
-    "airplane-flight-2": {
-      "codepoint": 57353,
-      "fontFamily": "Majesticons",
-      "identifier": "airplaneFlight2"
-    },
-    "airplane-flight-2-line": {
-      "codepoint": 57354,
-      "fontFamily": "Majesticons",
-      "identifier": "airplaneFlight2Line"
-    },
-    "airplane-line": {
-      "codepoint": 57355,
-      "fontFamily": "Majesticons",
-      "identifier": "airplaneLine"
-    },
     "alert-circle": {
-      "codepoint": 57356,
+      "codepoint": 57350,
       "fontFamily": "Majesticons",
       "identifier": "alertCircle"
     },
     "alert-circle-line": {
-      "codepoint": 57357,
+      "codepoint": 57351,
       "fontFamily": "Majesticons",
       "identifier": "alertCircleLine"
     },
     "align-bottom": {
-      "codepoint": 57358,
+      "codepoint": 57352,
       "fontFamily": "Majesticons",
       "identifier": "alignBottom"
     },
     "align-bottom-line": {
-      "codepoint": 57359,
+      "codepoint": 57353,
       "fontFamily": "Majesticons",
       "identifier": "alignBottomLine"
     },
     "align-horizontal-center": {
-      "codepoint": 57360,
+      "codepoint": 57354,
       "fontFamily": "Majesticons",
       "identifier": "alignHorizontalCenter"
     },
     "align-horizontal-center-line": {
-      "codepoint": 57361,
+      "codepoint": 57355,
       "fontFamily": "Majesticons",
       "identifier": "alignHorizontalCenterLine"
     },
     "align-left": {
-      "codepoint": 57362,
+      "codepoint": 57356,
       "fontFamily": "Majesticons",
       "identifier": "alignLeft"
     },
     "align-left-line": {
-      "codepoint": 57363,
+      "codepoint": 57357,
       "fontFamily": "Majesticons",
       "identifier": "alignLeftLine"
     },
     "align-right": {
-      "codepoint": 57364,
+      "codepoint": 57358,
       "fontFamily": "Majesticons",
       "identifier": "alignRight"
     },
     "align-right-line": {
-      "codepoint": 57365,
+      "codepoint": 57359,
       "fontFamily": "Majesticons",
       "identifier": "alignRightLine"
     },
     "align-top": {
-      "codepoint": 57366,
+      "codepoint": 57360,
       "fontFamily": "Majesticons",
       "identifier": "alignTop"
     },
     "align-top-line": {
-      "codepoint": 57367,
+      "codepoint": 57361,
       "fontFamily": "Majesticons",
       "identifier": "alignTopLine"
     },
     "align-vertical-center": {
-      "codepoint": 57368,
+      "codepoint": 57362,
       "fontFamily": "Majesticons",
       "identifier": "alignVerticalCenter"
     },
     "align-vertical-center-line": {
-      "codepoint": 57369,
+      "codepoint": 57363,
       "fontFamily": "Majesticons",
       "identifier": "alignVerticalCenterLine"
     },
     "analytics": {
-      "codepoint": 57370,
+      "codepoint": 57364,
       "fontFamily": "Majesticons",
       "identifier": "analytics"
     },
     "analytics-delete": {
-      "codepoint": 57371,
+      "codepoint": 57365,
       "fontFamily": "Majesticons",
       "identifier": "analyticsDelete"
     },
     "analytics-delete-line": {
-      "codepoint": 57372,
+      "codepoint": 57366,
       "fontFamily": "Majesticons",
       "identifier": "analyticsDeleteLine"
     },
     "analytics-line": {
-      "codepoint": 57373,
+      "codepoint": 57367,
       "fontFamily": "Majesticons",
       "identifier": "analyticsLine"
     },
     "analytics-plus": {
-      "codepoint": 57374,
+      "codepoint": 57368,
       "fontFamily": "Majesticons",
       "identifier": "analyticsPlus"
     },
     "analytics-plus-line": {
-      "codepoint": 57375,
+      "codepoint": 57369,
       "fontFamily": "Majesticons",
       "identifier": "analyticsPlusLine"
     },
-    "analytics-restricted": {
-      "codepoint": 57376,
-      "fontFamily": "Majesticons",
-      "identifier": "analyticsRestricted"
-    },
     "analytics-restricted-line": {
-      "codepoint": 57377,
+      "codepoint": 57370,
       "fontFamily": "Majesticons",
       "identifier": "analyticsRestrictedLine"
     },
-    "annotation": {
-      "codepoint": 57378,
-      "fontFamily": "Majesticons",
-      "identifier": "annotation"
-    },
-    "annotation-line": {
-      "codepoint": 57379,
-      "fontFamily": "Majesticons",
-      "identifier": "annotationLine"
-    },
     "applications": {
-      "codepoint": 57380,
+      "codepoint": 57371,
       "fontFamily": "Majesticons",
       "identifier": "applications"
     },
     "applications-add": {
-      "codepoint": 57381,
+      "codepoint": 57372,
       "fontFamily": "Majesticons",
       "identifier": "applicationsAdd"
     },
     "applications-add-line": {
-      "codepoint": 57382,
+      "codepoint": 57373,
       "fontFamily": "Majesticons",
       "identifier": "applicationsAddLine"
     },
     "applications-line": {
-      "codepoint": 57383,
+      "codepoint": 57374,
       "fontFamily": "Majesticons",
       "identifier": "applicationsLine"
     },
-    "archive": {
-      "codepoint": 57384,
-      "fontFamily": "Majesticons",
-      "identifier": "archive"
-    },
     "archive-line": {
-      "codepoint": 57385,
+      "codepoint": 57375,
       "fontFamily": "Majesticons",
       "identifier": "archiveLine"
     },
     "arrow-circle-down": {
-      "codepoint": 57386,
+      "codepoint": 57376,
       "fontFamily": "Majesticons",
       "identifier": "arrowCircleDown"
     },
-    "arrow-circle-down-line": {
-      "codepoint": 57387,
-      "fontFamily": "Majesticons",
-      "identifier": "arrowCircleDownLine"
-    },
-    "arrow-circle-left": {
-      "codepoint": 57388,
-      "fontFamily": "Majesticons",
-      "identifier": "arrowCircleLeft"
-    },
     "arrow-circle-left-line": {
-      "codepoint": 57389,
+      "codepoint": 57377,
       "fontFamily": "Majesticons",
       "identifier": "arrowCircleLeftLine"
     },
-    "arrow-circle-right": {
-      "codepoint": 57390,
-      "fontFamily": "Majesticons",
-      "identifier": "arrowCircleRight"
-    },
     "arrow-circle-right-line": {
-      "codepoint": 57391,
+      "codepoint": 57378,
       "fontFamily": "Majesticons",
       "identifier": "arrowCircleRightLine"
     },
     "arrow-circle-up": {
-      "codepoint": 57392,
+      "codepoint": 57379,
       "fontFamily": "Majesticons",
       "identifier": "arrowCircleUp"
     },
-    "arrow-circle-up-line": {
-      "codepoint": 57393,
-      "fontFamily": "Majesticons",
-      "identifier": "arrowCircleUpLine"
-    },
     "arrow-down": {
-      "codepoint": 57394,
+      "codepoint": 57380,
       "fontFamily": "Majesticons",
       "identifier": "arrowDown"
     },
-    "arrow-down-circle": {
-      "codepoint": 57395,
-      "fontFamily": "Majesticons",
-      "identifier": "arrowDownCircle"
-    },
     "arrow-down-circle-line": {
-      "codepoint": 57396,
+      "codepoint": 57381,
       "fontFamily": "Majesticons",
       "identifier": "arrowDownCircleLine"
     },
     "arrow-down-line": {
-      "codepoint": 57397,
+      "codepoint": 57382,
       "fontFamily": "Majesticons",
       "identifier": "arrowDownLine"
     },
     "arrow-left": {
-      "codepoint": 57398,
+      "codepoint": 57383,
       "fontFamily": "Majesticons",
       "identifier": "arrowLeft"
     },
-    "arrow-left-circle": {
-      "codepoint": 57399,
-      "fontFamily": "Majesticons",
-      "identifier": "arrowLeftCircle"
-    },
     "arrow-left-circle-line": {
-      "codepoint": 57400,
+      "codepoint": 57384,
       "fontFamily": "Majesticons",
       "identifier": "arrowLeftCircleLine"
     },
     "arrow-left-line": {
-      "codepoint": 57401,
+      "codepoint": 57385,
       "fontFamily": "Majesticons",
       "identifier": "arrowLeftLine"
     },
     "arrow-right": {
-      "codepoint": 57402,
+      "codepoint": 57386,
       "fontFamily": "Majesticons",
       "identifier": "arrowRight"
     },
-    "arrow-right-circle": {
-      "codepoint": 57403,
-      "fontFamily": "Majesticons",
-      "identifier": "arrowRightCircle"
-    },
     "arrow-right-circle-line": {
-      "codepoint": 57404,
+      "codepoint": 57387,
       "fontFamily": "Majesticons",
       "identifier": "arrowRightCircleLine"
     },
     "arrow-right-line": {
-      "codepoint": 57405,
+      "codepoint": 57388,
       "fontFamily": "Majesticons",
       "identifier": "arrowRightLine"
     },
     "arrow-up": {
-      "codepoint": 57406,
+      "codepoint": 57389,
       "fontFamily": "Majesticons",
       "identifier": "arrowUp"
     },
-    "arrow-up-circle": {
-      "codepoint": 57407,
-      "fontFamily": "Majesticons",
-      "identifier": "arrowUpCircle"
-    },
     "arrow-up-circle-line": {
-      "codepoint": 57408,
+      "codepoint": 57390,
       "fontFamily": "Majesticons",
       "identifier": "arrowUpCircleLine"
     },
     "arrow-up-line": {
-      "codepoint": 57409,
+      "codepoint": 57391,
       "fontFamily": "Majesticons",
       "identifier": "arrowUpLine"
     },
     "arrows-collapse-full": {
-      "codepoint": 57410,
+      "codepoint": 57392,
       "fontFamily": "Majesticons",
       "identifier": "arrowsCollapseFull"
     },
     "arrows-collapse-full-line": {
-      "codepoint": 57411,
+      "codepoint": 57393,
       "fontFamily": "Majesticons",
       "identifier": "arrowsCollapseFullLine"
     },
-    "arrows-expand": {
-      "codepoint": 57412,
-      "fontFamily": "Majesticons",
-      "identifier": "arrowsExpand"
-    },
     "arrows-expand-full": {
-      "codepoint": 57413,
+      "codepoint": 57394,
       "fontFamily": "Majesticons",
       "identifier": "arrowsExpandFull"
     },
     "arrows-expand-full-line": {
-      "codepoint": 57414,
+      "codepoint": 57395,
       "fontFamily": "Majesticons",
       "identifier": "arrowsExpandFullLine"
     },
     "arrows-expand-line": {
-      "codepoint": 57415,
+      "codepoint": 57396,
       "fontFamily": "Majesticons",
       "identifier": "arrowsExpandLine"
     },
     "article": {
-      "codepoint": 57416,
+      "codepoint": 57397,
       "fontFamily": "Majesticons",
       "identifier": "article"
     },
     "article-line": {
-      "codepoint": 57417,
+      "codepoint": 57398,
       "fontFamily": "Majesticons",
       "identifier": "articleLine"
     },
     "article-search": {
-      "codepoint": 57418,
+      "codepoint": 57399,
       "fontFamily": "Majesticons",
       "identifier": "articleSearch"
     },
     "article-search-line": {
-      "codepoint": 57419,
+      "codepoint": 57400,
       "fontFamily": "Majesticons",
       "identifier": "articleSearchLine"
     },
-    "at-symbol": {
-      "codepoint": 57420,
-      "fontFamily": "Majesticons",
-      "identifier": "atSymbol"
-    },
-    "at-symbol-line": {
-      "codepoint": 57421,
-      "fontFamily": "Majesticons",
-      "identifier": "atSymbolLine"
-    },
     "atom-2": {
-      "codepoint": 57422,
+      "codepoint": 57401,
       "fontFamily": "Majesticons",
       "identifier": "atom2"
     },
     "atom-2-line": {
-      "codepoint": 57423,
+      "codepoint": 57402,
       "fontFamily": "Majesticons",
       "identifier": "atom2Line"
     },
     "attachment": {
-      "codepoint": 57424,
+      "codepoint": 57403,
       "fontFamily": "Majesticons",
       "identifier": "attachment"
     },
     "attachment-line": {
-      "codepoint": 57425,
+      "codepoint": 57404,
       "fontFamily": "Majesticons",
       "identifier": "attachmentLine"
     },
-    "award": {
-      "codepoint": 57426,
-      "fontFamily": "Majesticons",
-      "identifier": "award"
-    },
-    "award-line": {
-      "codepoint": 57427,
-      "fontFamily": "Majesticons",
-      "identifier": "awardLine"
-    },
-    "back-circle": {
-      "codepoint": 57428,
-      "fontFamily": "Majesticons",
-      "identifier": "backCircle"
-    },
     "back-circle-line": {
-      "codepoint": 57429,
+      "codepoint": 57405,
       "fontFamily": "Majesticons",
       "identifier": "backCircleLine"
     },
-    "backspace": {
-      "codepoint": 57430,
-      "fontFamily": "Majesticons",
-      "identifier": "backspace"
-    },
-    "backspace-line": {
-      "codepoint": 57431,
-      "fontFamily": "Majesticons",
-      "identifier": "backspaceLine"
-    },
-    "backward-circle": {
-      "codepoint": 57432,
-      "fontFamily": "Majesticons",
-      "identifier": "backwardCircle"
-    },
     "backward-circle-line": {
-      "codepoint": 57433,
+      "codepoint": 57406,
       "fontFamily": "Majesticons",
       "identifier": "backwardCircleLine"
     },
-    "backward-start-circle": {
-      "codepoint": 57434,
-      "fontFamily": "Majesticons",
-      "identifier": "backwardStartCircle"
-    },
     "backward-start-circle-line": {
-      "codepoint": 57435,
+      "codepoint": 57407,
       "fontFamily": "Majesticons",
       "identifier": "backwardStartCircleLine"
     },
-    "badge-check": {
-      "codepoint": 57436,
-      "fontFamily": "Majesticons",
-      "identifier": "badgeCheck"
-    },
-    "badge-check-line": {
-      "codepoint": 57437,
-      "fontFamily": "Majesticons",
-      "identifier": "badgeCheckLine"
-    },
     "ban": {
-      "codepoint": 57438,
+      "codepoint": 57408,
       "fontFamily": "Majesticons",
       "identifier": "ban"
     },
     "ban-line": {
-      "codepoint": 57439,
+      "codepoint": 57409,
       "fontFamily": "Majesticons",
       "identifier": "banLine"
     },
-    "band-aids": {
-      "codepoint": 57440,
-      "fontFamily": "Majesticons",
-      "identifier": "bandAids"
-    },
-    "band-aids-line": {
-      "codepoint": 57441,
-      "fontFamily": "Majesticons",
-      "identifier": "bandAidsLine"
-    },
     "barcode-2": {
-      "codepoint": 57442,
+      "codepoint": 57410,
       "fontFamily": "Majesticons",
       "identifier": "barcode2"
     },
     "barcode-2-line": {
-      "codepoint": 57443,
+      "codepoint": 57411,
       "fontFamily": "Majesticons",
       "identifier": "barcode2Line"
     },
-    "basket-2": {
-      "codepoint": 57444,
-      "fontFamily": "Majesticons",
-      "identifier": "basket2"
-    },
     "basket-2-line": {
-      "codepoint": 57445,
+      "codepoint": 57412,
       "fontFamily": "Majesticons",
       "identifier": "basket2Line"
     },
-    "bath-shower": {
-      "codepoint": 57446,
-      "fontFamily": "Majesticons",
-      "identifier": "bathShower"
-    },
-    "bath-shower-line": {
-      "codepoint": 57447,
-      "fontFamily": "Majesticons",
-      "identifier": "bathShowerLine"
-    },
     "battery": {
-      "codepoint": 57448,
+      "codepoint": 57413,
       "fontFamily": "Majesticons",
       "identifier": "battery"
     },
     "battery-full": {
-      "codepoint": 57449,
+      "codepoint": 57414,
       "fontFamily": "Majesticons",
       "identifier": "batteryFull"
     },
     "battery-full-line": {
-      "codepoint": 57450,
+      "codepoint": 57415,
       "fontFamily": "Majesticons",
       "identifier": "batteryFullLine"
     },
     "battery-half": {
-      "codepoint": 57451,
+      "codepoint": 57416,
       "fontFamily": "Majesticons",
       "identifier": "batteryHalf"
     },
     "battery-half-line": {
-      "codepoint": 57452,
+      "codepoint": 57417,
       "fontFamily": "Majesticons",
       "identifier": "batteryHalfLine"
     },
     "battery-line": {
-      "codepoint": 57453,
+      "codepoint": 57418,
       "fontFamily": "Majesticons",
       "identifier": "batteryLine"
     },
     "battery-low": {
-      "codepoint": 57454,
+      "codepoint": 57419,
       "fontFamily": "Majesticons",
       "identifier": "batteryLow"
     },
     "battery-low-line": {
-      "codepoint": 57455,
+      "codepoint": 57420,
       "fontFamily": "Majesticons",
       "identifier": "batteryLowLine"
     },
-    "beach": {
-      "codepoint": 57456,
-      "fontFamily": "Majesticons",
-      "identifier": "beach"
-    },
-    "beach-line": {
-      "codepoint": 57457,
-      "fontFamily": "Majesticons",
-      "identifier": "beachLine"
-    },
     "beaker": {
-      "codepoint": 57458,
+      "codepoint": 57421,
       "fontFamily": "Majesticons",
       "identifier": "beaker"
     },
-    "beaker-line": {
-      "codepoint": 57459,
-      "fontFamily": "Majesticons",
-      "identifier": "beakerLine"
-    },
     "bell": {
-      "codepoint": 57460,
+      "codepoint": 57422,
       "fontFamily": "Majesticons",
       "identifier": "bell"
     },
     "bell-line": {
-      "codepoint": 57461,
+      "codepoint": 57423,
       "fontFamily": "Majesticons",
       "identifier": "bellLine"
     },
-    "bitcoin-circle": {
-      "codepoint": 57462,
-      "fontFamily": "Majesticons",
-      "identifier": "bitcoinCircle"
-    },
-    "bitcoin-circle-line": {
-      "codepoint": 57463,
-      "fontFamily": "Majesticons",
-      "identifier": "bitcoinCircleLine"
-    },
     "bluetooth": {
-      "codepoint": 57464,
+      "codepoint": 57424,
       "fontFamily": "Majesticons",
       "identifier": "bluetooth"
     },
     "bluetooth-line": {
-      "codepoint": 57465,
+      "codepoint": 57425,
       "fontFamily": "Majesticons",
       "identifier": "bluetoothLine"
     },
     "bold": {
-      "codepoint": 57466,
+      "codepoint": 57426,
       "fontFamily": "Majesticons",
       "identifier": "bold"
     },
     "bold-line": {
-      "codepoint": 57467,
+      "codepoint": 57427,
       "fontFamily": "Majesticons",
       "identifier": "boldLine"
     },
     "book": {
-      "codepoint": 57468,
+      "codepoint": 57428,
       "fontFamily": "Majesticons",
       "identifier": "book"
     },
     "book-line": {
-      "codepoint": 57469,
+      "codepoint": 57429,
       "fontFamily": "Majesticons",
       "identifier": "bookLine"
     },
     "book-minus": {
-      "codepoint": 57470,
+      "codepoint": 57430,
       "fontFamily": "Majesticons",
       "identifier": "bookMinus"
     },
     "book-minus-line": {
-      "codepoint": 57471,
+      "codepoint": 57431,
       "fontFamily": "Majesticons",
       "identifier": "bookMinusLine"
     },
-    "book-open": {
-      "codepoint": 57472,
-      "fontFamily": "Majesticons",
-      "identifier": "bookOpen"
-    },
     "book-open-line": {
-      "codepoint": 57473,
+      "codepoint": 57432,
       "fontFamily": "Majesticons",
       "identifier": "bookOpenLine"
     },
     "book-plus": {
-      "codepoint": 57474,
+      "codepoint": 57433,
       "fontFamily": "Majesticons",
       "identifier": "bookPlus"
     },
     "book-plus-line": {
-      "codepoint": 57475,
+      "codepoint": 57434,
       "fontFamily": "Majesticons",
       "identifier": "bookPlusLine"
     },
-    "bookmark": {
-      "codepoint": 57476,
-      "fontFamily": "Majesticons",
-      "identifier": "bookmark"
-    },
-    "bookmark-book": {
-      "codepoint": 57477,
-      "fontFamily": "Majesticons",
-      "identifier": "bookmarkBook"
-    },
-    "bookmark-book-line": {
-      "codepoint": 57478,
-      "fontFamily": "Majesticons",
-      "identifier": "bookmarkBookLine"
-    },
-    "bookmark-line": {
-      "codepoint": 57479,
-      "fontFamily": "Majesticons",
-      "identifier": "bookmarkLine"
-    },
-    "bookmark-minus": {
-      "codepoint": 57480,
-      "fontFamily": "Majesticons",
-      "identifier": "bookmarkMinus"
-    },
-    "bookmark-minus-line": {
-      "codepoint": 57481,
-      "fontFamily": "Majesticons",
-      "identifier": "bookmarkMinusLine"
-    },
-    "bookmark-plus": {
-      "codepoint": 57482,
-      "fontFamily": "Majesticons",
-      "identifier": "bookmarkPlus"
-    },
-    "bookmark-plus-line": {
-      "codepoint": 57483,
-      "fontFamily": "Majesticons",
-      "identifier": "bookmarkPlusLine"
-    },
-    "box": {
-      "codepoint": 57484,
-      "fontFamily": "Majesticons",
-      "identifier": "box"
-    },
     "box-line": {
-      "codepoint": 57485,
+      "codepoint": 57435,
       "fontFamily": "Majesticons",
       "identifier": "boxLine"
     },
     "briefcase": {
-      "codepoint": 57486,
+      "codepoint": 57436,
       "fontFamily": "Majesticons",
       "identifier": "briefcase"
     },
     "briefcase-line": {
-      "codepoint": 57487,
+      "codepoint": 57437,
       "fontFamily": "Majesticons",
       "identifier": "briefcaseLine"
     },
     "browser": {
-      "codepoint": 57488,
+      "codepoint": 57438,
       "fontFamily": "Majesticons",
       "identifier": "browser"
     },
     "browser-cookie": {
-      "codepoint": 57489,
+      "codepoint": 57439,
       "fontFamily": "Majesticons",
       "identifier": "browserCookie"
     },
     "browser-cookie-line": {
-      "codepoint": 57490,
+      "codepoint": 57440,
       "fontFamily": "Majesticons",
       "identifier": "browserCookieLine"
     },
     "browser-line": {
-      "codepoint": 57491,
+      "codepoint": 57441,
       "fontFamily": "Majesticons",
       "identifier": "browserLine"
     },
-    "bug-2": {
-      "codepoint": 57492,
-      "fontFamily": "Majesticons",
-      "identifier": "bug2"
-    },
-    "bug-2-line": {
-      "codepoint": 57493,
-      "fontFamily": "Majesticons",
-      "identifier": "bug2Line"
-    },
-    "burger": {
-      "codepoint": 57494,
-      "fontFamily": "Majesticons",
-      "identifier": "burger"
-    },
-    "burger-line": {
-      "codepoint": 57495,
-      "fontFamily": "Majesticons",
-      "identifier": "burgerLine"
-    },
     "bus": {
-      "codepoint": 57496,
+      "codepoint": 57442,
       "fontFamily": "Majesticons",
       "identifier": "bus"
     },
     "bus-line": {
-      "codepoint": 57497,
+      "codepoint": 57443,
       "fontFamily": "Majesticons",
       "identifier": "busLine"
     },
-    "cake": {
-      "codepoint": 57498,
-      "fontFamily": "Majesticons",
-      "identifier": "cake"
-    },
     "cake-line": {
-      "codepoint": 57499,
+      "codepoint": 57444,
       "fontFamily": "Majesticons",
       "identifier": "cakeLine"
     },
     "calculator": {
-      "codepoint": 57500,
+      "codepoint": 57445,
       "fontFamily": "Majesticons",
       "identifier": "calculator"
     },
     "calculator-line": {
-      "codepoint": 57501,
+      "codepoint": 57446,
       "fontFamily": "Majesticons",
       "identifier": "calculatorLine"
     },
     "calendar": {
-      "codepoint": 57502,
+      "codepoint": 57447,
       "fontFamily": "Majesticons",
       "identifier": "calendar"
     },
     "calendar-line": {
-      "codepoint": 57503,
+      "codepoint": 57448,
       "fontFamily": "Majesticons",
       "identifier": "calendarLine"
     },
     "calendar-plus": {
-      "codepoint": 57504,
+      "codepoint": 57449,
       "fontFamily": "Majesticons",
       "identifier": "calendarPlus"
     },
     "calendar-plus-line": {
-      "codepoint": 57505,
+      "codepoint": 57450,
       "fontFamily": "Majesticons",
       "identifier": "calendarPlusLine"
     },
-    "camera": {
-      "codepoint": 57506,
-      "fontFamily": "Majesticons",
-      "identifier": "camera"
-    },
-    "camera-line": {
-      "codepoint": 57507,
-      "fontFamily": "Majesticons",
-      "identifier": "cameraLine"
-    },
-    "camera-off": {
-      "codepoint": 57508,
-      "fontFamily": "Majesticons",
-      "identifier": "cameraOff"
-    },
-    "camera-off-line": {
-      "codepoint": 57509,
-      "fontFamily": "Majesticons",
-      "identifier": "cameraOffLine"
-    },
     "car": {
-      "codepoint": 57510,
+      "codepoint": 57451,
       "fontFamily": "Majesticons",
       "identifier": "car"
     },
     "car-line": {
-      "codepoint": 57511,
+      "codepoint": 57452,
       "fontFamily": "Majesticons",
       "identifier": "carLine"
     },
-    "cash": {
-      "codepoint": 57512,
-      "fontFamily": "Majesticons",
-      "identifier": "cash"
-    },
     "cash-line": {
-      "codepoint": 57513,
+      "codepoint": 57453,
       "fontFamily": "Majesticons",
       "identifier": "cashLine"
     },
-    "cent-circle": {
-      "codepoint": 57514,
-      "fontFamily": "Majesticons",
-      "identifier": "centCircle"
-    },
-    "cent-circle-line": {
-      "codepoint": 57515,
-      "fontFamily": "Majesticons",
-      "identifier": "centCircleLine"
-    },
     "chart-bar": {
-      "codepoint": 57516,
+      "codepoint": 57454,
       "fontFamily": "Majesticons",
       "identifier": "chartBar"
     },
     "chart-bar-line": {
-      "codepoint": 57517,
+      "codepoint": 57455,
       "fontFamily": "Majesticons",
       "identifier": "chartBarLine"
     },
-    "chart-pie": {
-      "codepoint": 57518,
-      "fontFamily": "Majesticons",
-      "identifier": "chartPie"
-    },
-    "chart-pie-line": {
-      "codepoint": 57519,
-      "fontFamily": "Majesticons",
-      "identifier": "chartPieLine"
-    },
     "chat": {
-      "codepoint": 57520,
+      "codepoint": 57456,
       "fontFamily": "Majesticons",
       "identifier": "chat"
     },
-    "chat-2": {
-      "codepoint": 57521,
-      "fontFamily": "Majesticons",
-      "identifier": "chat2"
-    },
-    "chat-2-line": {
-      "codepoint": 57522,
-      "fontFamily": "Majesticons",
-      "identifier": "chat2Line"
-    },
-    "chat-2-text": {
-      "codepoint": 57523,
-      "fontFamily": "Majesticons",
-      "identifier": "chat2Text"
-    },
-    "chat-2-text-line": {
-      "codepoint": 57524,
-      "fontFamily": "Majesticons",
-      "identifier": "chat2TextLine"
-    },
     "chat-line": {
-      "codepoint": 57525,
+      "codepoint": 57457,
       "fontFamily": "Majesticons",
       "identifier": "chatLine"
     },
-    "chat-signal": {
-      "codepoint": 57526,
-      "fontFamily": "Majesticons",
-      "identifier": "chatSignal"
-    },
     "chat-signal-line": {
-      "codepoint": 57527,
+      "codepoint": 57458,
       "fontFamily": "Majesticons",
       "identifier": "chatSignalLine"
     },
-    "chat-status": {
-      "codepoint": 57528,
-      "fontFamily": "Majesticons",
-      "identifier": "chatStatus"
-    },
     "chat-status-line": {
-      "codepoint": 57529,
+      "codepoint": 57459,
       "fontFamily": "Majesticons",
       "identifier": "chatStatusLine"
     },
     "chat-text": {
-      "codepoint": 57530,
+      "codepoint": 57460,
       "fontFamily": "Majesticons",
       "identifier": "chatText"
     },
     "chat-text-line": {
-      "codepoint": 57531,
+      "codepoint": 57461,
       "fontFamily": "Majesticons",
       "identifier": "chatTextLine"
     },
-    "chats": {
-      "codepoint": 57532,
-      "fontFamily": "Majesticons",
-      "identifier": "chats"
-    },
-    "chats-2": {
-      "codepoint": 57533,
-      "fontFamily": "Majesticons",
-      "identifier": "chats2"
-    },
-    "chats-2-line": {
-      "codepoint": 57534,
-      "fontFamily": "Majesticons",
-      "identifier": "chats2Line"
-    },
-    "chats-line": {
-      "codepoint": 57535,
-      "fontFamily": "Majesticons",
-      "identifier": "chatsLine"
-    },
     "check": {
-      "codepoint": 57536,
+      "codepoint": 57462,
       "fontFamily": "Majesticons",
       "identifier": "check"
     },
     "check-circle": {
-      "codepoint": 57537,
+      "codepoint": 57463,
       "fontFamily": "Majesticons",
       "identifier": "checkCircle"
     },
     "check-circle-line": {
-      "codepoint": 57538,
+      "codepoint": 57464,
       "fontFamily": "Majesticons",
       "identifier": "checkCircleLine"
     },
     "check-line": {
-      "codepoint": 57539,
+      "codepoint": 57465,
       "fontFamily": "Majesticons",
       "identifier": "checkLine"
     },
     "checkbox-list": {
-      "codepoint": 57540,
+      "codepoint": 57466,
       "fontFamily": "Majesticons",
       "identifier": "checkboxList"
     },
     "checkbox-list-detail": {
-      "codepoint": 57541,
+      "codepoint": 57467,
       "fontFamily": "Majesticons",
       "identifier": "checkboxListDetail"
     },
     "checkbox-list-detail-line": {
-      "codepoint": 57542,
+      "codepoint": 57468,
       "fontFamily": "Majesticons",
       "identifier": "checkboxListDetailLine"
     },
     "checkbox-list-line": {
-      "codepoint": 57543,
+      "codepoint": 57469,
       "fontFamily": "Majesticons",
       "identifier": "checkboxListLine"
     },
-    "cheese": {
-      "codepoint": 57544,
-      "fontFamily": "Majesticons",
-      "identifier": "cheese"
-    },
-    "cheese-line": {
-      "codepoint": 57545,
-      "fontFamily": "Majesticons",
-      "identifier": "cheeseLine"
-    },
-    "chevron-double-down": {
-      "codepoint": 57546,
-      "fontFamily": "Majesticons",
-      "identifier": "chevronDoubleDown"
-    },
     "chevron-double-down-line": {
-      "codepoint": 57547,
+      "codepoint": 57470,
       "fontFamily": "Majesticons",
       "identifier": "chevronDoubleDownLine"
     },
-    "chevron-double-left": {
-      "codepoint": 57548,
-      "fontFamily": "Majesticons",
-      "identifier": "chevronDoubleLeft"
-    },
     "chevron-double-left-line": {
-      "codepoint": 57549,
+      "codepoint": 57471,
       "fontFamily": "Majesticons",
       "identifier": "chevronDoubleLeftLine"
     },
-    "chevron-double-right": {
-      "codepoint": 57550,
-      "fontFamily": "Majesticons",
-      "identifier": "chevronDoubleRight"
-    },
     "chevron-double-right-line": {
-      "codepoint": 57551,
+      "codepoint": 57472,
       "fontFamily": "Majesticons",
       "identifier": "chevronDoubleRightLine"
     },
-    "chevron-double-up": {
-      "codepoint": 57552,
-      "fontFamily": "Majesticons",
-      "identifier": "chevronDoubleUp"
-    },
     "chevron-double-up-line": {
-      "codepoint": 57553,
+      "codepoint": 57473,
       "fontFamily": "Majesticons",
       "identifier": "chevronDoubleUpLine"
     },
     "chevron-down": {
-      "codepoint": 57554,
+      "codepoint": 57474,
       "fontFamily": "Majesticons",
       "identifier": "chevronDown"
     },
     "chevron-down-circle": {
-      "codepoint": 57555,
+      "codepoint": 57475,
       "fontFamily": "Majesticons",
       "identifier": "chevronDownCircle"
     },
     "chevron-down-circle-line": {
-      "codepoint": 57556,
+      "codepoint": 57476,
       "fontFamily": "Majesticons",
       "identifier": "chevronDownCircleLine"
     },
     "chevron-down-line": {
-      "codepoint": 57557,
+      "codepoint": 57477,
       "fontFamily": "Majesticons",
       "identifier": "chevronDownLine"
     },
     "chevron-left": {
-      "codepoint": 57558,
+      "codepoint": 57478,
       "fontFamily": "Majesticons",
       "identifier": "chevronLeft"
     },
     "chevron-left-circle": {
-      "codepoint": 57559,
+      "codepoint": 57479,
       "fontFamily": "Majesticons",
       "identifier": "chevronLeftCircle"
     },
     "chevron-left-circle-line": {
-      "codepoint": 57560,
+      "codepoint": 57480,
       "fontFamily": "Majesticons",
       "identifier": "chevronLeftCircleLine"
     },
     "chevron-left-line": {
-      "codepoint": 57561,
+      "codepoint": 57481,
       "fontFamily": "Majesticons",
       "identifier": "chevronLeftLine"
     },
     "chevron-right": {
-      "codepoint": 57562,
+      "codepoint": 57482,
       "fontFamily": "Majesticons",
       "identifier": "chevronRight"
     },
     "chevron-right-circle": {
-      "codepoint": 57563,
+      "codepoint": 57483,
       "fontFamily": "Majesticons",
       "identifier": "chevronRightCircle"
     },
     "chevron-right-circle-line": {
-      "codepoint": 57564,
+      "codepoint": 57484,
       "fontFamily": "Majesticons",
       "identifier": "chevronRightCircleLine"
     },
     "chevron-right-line": {
-      "codepoint": 57565,
+      "codepoint": 57485,
       "fontFamily": "Majesticons",
       "identifier": "chevronRightLine"
     },
     "chevron-up": {
-      "codepoint": 57566,
+      "codepoint": 57486,
       "fontFamily": "Majesticons",
       "identifier": "chevronUp"
     },
     "chevron-up-circle": {
-      "codepoint": 57567,
+      "codepoint": 57487,
       "fontFamily": "Majesticons",
       "identifier": "chevronUpCircle"
     },
     "chevron-up-circle-line": {
-      "codepoint": 57568,
+      "codepoint": 57488,
       "fontFamily": "Majesticons",
       "identifier": "chevronUpCircleLine"
     },
     "chevron-up-line": {
-      "codepoint": 57569,
+      "codepoint": 57489,
       "fontFamily": "Majesticons",
       "identifier": "chevronUpLine"
     },
-    "chip": {
-      "codepoint": 57570,
-      "fontFamily": "Majesticons",
-      "identifier": "chip"
-    },
     "chip-line": {
-      "codepoint": 57571,
+      "codepoint": 57490,
       "fontFamily": "Majesticons",
       "identifier": "chipLine"
     },
-    "chromecast": {
-      "codepoint": 57572,
-      "fontFamily": "Majesticons",
-      "identifier": "chromecast"
-    },
     "chromecast-line": {
-      "codepoint": 57573,
+      "codepoint": 57491,
       "fontFamily": "Majesticons",
       "identifier": "chromecastLine"
     },
     "church": {
-      "codepoint": 57574,
+      "codepoint": 57492,
       "fontFamily": "Majesticons",
       "identifier": "church"
     },
     "church-line": {
-      "codepoint": 57575,
+      "codepoint": 57493,
       "fontFamily": "Majesticons",
       "identifier": "churchLine"
     },
-    "clipboard": {
-      "codepoint": 57576,
-      "fontFamily": "Majesticons",
-      "identifier": "clipboard"
-    },
     "clipboard-check": {
-      "codepoint": 57577,
+      "codepoint": 57494,
       "fontFamily": "Majesticons",
       "identifier": "clipboardCheck"
     },
     "clipboard-check-line": {
-      "codepoint": 57578,
+      "codepoint": 57495,
       "fontFamily": "Majesticons",
       "identifier": "clipboardCheckLine"
     },
     "clipboard-copy": {
-      "codepoint": 57579,
+      "codepoint": 57496,
       "fontFamily": "Majesticons",
       "identifier": "clipboardCopy"
     },
-    "clipboard-copy-line": {
-      "codepoint": 57580,
-      "fontFamily": "Majesticons",
-      "identifier": "clipboardCopyLine"
-    },
     "clipboard-line": {
-      "codepoint": 57581,
+      "codepoint": 57497,
       "fontFamily": "Majesticons",
       "identifier": "clipboardLine"
     },
     "clipboard-list": {
-      "codepoint": 57582,
+      "codepoint": 57498,
       "fontFamily": "Majesticons",
       "identifier": "clipboardList"
     },
-    "clipboard-list-line": {
-      "codepoint": 57583,
-      "fontFamily": "Majesticons",
-      "identifier": "clipboardListLine"
-    },
     "clipboard-minus": {
-      "codepoint": 57584,
+      "codepoint": 57499,
       "fontFamily": "Majesticons",
       "identifier": "clipboardMinus"
     },
     "clipboard-minus-line": {
-      "codepoint": 57585,
+      "codepoint": 57500,
       "fontFamily": "Majesticons",
       "identifier": "clipboardMinusLine"
     },
     "clipboard-plus": {
-      "codepoint": 57586,
+      "codepoint": 57501,
       "fontFamily": "Majesticons",
       "identifier": "clipboardPlus"
     },
     "clipboard-plus-line": {
-      "codepoint": 57587,
+      "codepoint": 57502,
       "fontFamily": "Majesticons",
       "identifier": "clipboardPlusLine"
     },
-    "clock": {
-      "codepoint": 57588,
-      "fontFamily": "Majesticons",
-      "identifier": "clock"
-    },
     "clock-line": {
-      "codepoint": 57589,
+      "codepoint": 57503,
       "fontFamily": "Majesticons",
       "identifier": "clockLine"
     },
-    "clock-plus": {
-      "codepoint": 57590,
-      "fontFamily": "Majesticons",
-      "identifier": "clockPlus"
-    },
     "clock-plus-line": {
-      "codepoint": 57591,
+      "codepoint": 57504,
       "fontFamily": "Majesticons",
       "identifier": "clockPlusLine"
     },
     "close": {
-      "codepoint": 57592,
+      "codepoint": 57505,
       "fontFamily": "Majesticons",
       "identifier": "close"
     },
     "close-circle": {
-      "codepoint": 57593,
+      "codepoint": 57506,
       "fontFamily": "Majesticons",
       "identifier": "closeCircle"
     },
     "close-circle-line": {
-      "codepoint": 57594,
+      "codepoint": 57507,
       "fontFamily": "Majesticons",
       "identifier": "closeCircleLine"
     },
     "close-line": {
-      "codepoint": 57595,
+      "codepoint": 57508,
       "fontFamily": "Majesticons",
       "identifier": "closeLine"
     },
     "cloud": {
-      "codepoint": 57596,
+      "codepoint": 57509,
       "fontFamily": "Majesticons",
       "identifier": "cloud"
     },
-    "cloud-download": {
-      "codepoint": 57597,
-      "fontFamily": "Majesticons",
-      "identifier": "cloudDownload"
-    },
-    "cloud-download-line": {
-      "codepoint": 57598,
-      "fontFamily": "Majesticons",
-      "identifier": "cloudDownloadLine"
-    },
     "cloud-line": {
-      "codepoint": 57599,
+      "codepoint": 57510,
       "fontFamily": "Majesticons",
       "identifier": "cloudLine"
     },
-    "cloud-upload": {
-      "codepoint": 57600,
-      "fontFamily": "Majesticons",
-      "identifier": "cloudUpload"
-    },
-    "cloud-upload-line": {
-      "codepoint": 57601,
-      "fontFamily": "Majesticons",
-      "identifier": "cloudUploadLine"
-    },
     "code": {
-      "codepoint": 57602,
+      "codepoint": 57511,
       "fontFamily": "Majesticons",
       "identifier": "code"
     },
     "code-block": {
-      "codepoint": 57603,
+      "codepoint": 57512,
       "fontFamily": "Majesticons",
       "identifier": "codeBlock"
     },
     "code-block-line": {
-      "codepoint": 57604,
+      "codepoint": 57513,
       "fontFamily": "Majesticons",
       "identifier": "codeBlockLine"
     },
     "code-line": {
-      "codepoint": 57605,
+      "codepoint": 57514,
       "fontFamily": "Majesticons",
       "identifier": "codeLine"
     },
-    "cog": {
-      "codepoint": 57606,
-      "fontFamily": "Majesticons",
-      "identifier": "cog"
-    },
-    "cog-line": {
-      "codepoint": 57607,
-      "fontFamily": "Majesticons",
-      "identifier": "cogLine"
-    },
-    "coins": {
-      "codepoint": 57608,
-      "fontFamily": "Majesticons",
-      "identifier": "coins"
-    },
-    "coins-line": {
-      "codepoint": 57609,
-      "fontFamily": "Majesticons",
-      "identifier": "coinsLine"
-    },
     "collection": {
-      "codepoint": 57610,
+      "codepoint": 57515,
       "fontFamily": "Majesticons",
       "identifier": "collection"
     },
-    "collection-line": {
-      "codepoint": 57611,
-      "fontFamily": "Majesticons",
-      "identifier": "collectionLine"
-    },
-    "color-swatch": {
-      "codepoint": 57612,
-      "fontFamily": "Majesticons",
-      "identifier": "colorSwatch"
-    },
     "color-swatch-line": {
-      "codepoint": 57613,
+      "codepoint": 57516,
       "fontFamily": "Majesticons",
       "identifier": "colorSwatchLine"
     },
-    "comet": {
-      "codepoint": 57614,
-      "fontFamily": "Majesticons",
-      "identifier": "comet"
-    },
-    "comet-line": {
-      "codepoint": 57615,
-      "fontFamily": "Majesticons",
-      "identifier": "cometLine"
-    },
     "comment": {
-      "codepoint": 57616,
+      "codepoint": 57517,
       "fontFamily": "Majesticons",
       "identifier": "comment"
     },
-    "comment-2": {
-      "codepoint": 57617,
-      "fontFamily": "Majesticons",
-      "identifier": "comment2"
-    },
-    "comment-2-line": {
-      "codepoint": 57618,
-      "fontFamily": "Majesticons",
-      "identifier": "comment2Line"
-    },
-    "comment-2-text": {
-      "codepoint": 57619,
-      "fontFamily": "Majesticons",
-      "identifier": "comment2Text"
-    },
-    "comment-2-text-line": {
-      "codepoint": 57620,
-      "fontFamily": "Majesticons",
-      "identifier": "comment2TextLine"
-    },
     "comment-line": {
-      "codepoint": 57621,
+      "codepoint": 57518,
       "fontFamily": "Majesticons",
       "identifier": "commentLine"
     },
     "comment-text": {
-      "codepoint": 57622,
+      "codepoint": 57519,
       "fontFamily": "Majesticons",
       "identifier": "commentText"
     },
     "comment-text-line": {
-      "codepoint": 57623,
+      "codepoint": 57520,
       "fontFamily": "Majesticons",
       "identifier": "commentTextLine"
     },
-    "comments": {
-      "codepoint": 57624,
-      "fontFamily": "Majesticons",
-      "identifier": "comments"
-    },
     "comments-2": {
-      "codepoint": 57625,
+      "codepoint": 57521,
       "fontFamily": "Majesticons",
       "identifier": "comments2"
     },
     "comments-2-line": {
-      "codepoint": 57626,
+      "codepoint": 57522,
       "fontFamily": "Majesticons",
       "identifier": "comments2Line"
     },
-    "comments-line": {
-      "codepoint": 57627,
-      "fontFamily": "Majesticons",
-      "identifier": "commentsLine"
-    },
-    "community": {
-      "codepoint": 57628,
-      "fontFamily": "Majesticons",
-      "identifier": "community"
-    },
-    "community-line": {
-      "codepoint": 57629,
-      "fontFamily": "Majesticons",
-      "identifier": "communityLine"
-    },
-    "compass": {
-      "codepoint": 57630,
-      "fontFamily": "Majesticons",
-      "identifier": "compass"
-    },
     "compass-2": {
-      "codepoint": 57631,
+      "codepoint": 57523,
       "fontFamily": "Majesticons",
       "identifier": "compass2"
     },
     "compass-2-line": {
-      "codepoint": 57632,
+      "codepoint": 57524,
       "fontFamily": "Majesticons",
       "identifier": "compass2Line"
     },
-    "compass-line": {
-      "codepoint": 57633,
-      "fontFamily": "Majesticons",
-      "identifier": "compassLine"
-    },
-    "contact": {
-      "codepoint": 57634,
-      "fontFamily": "Majesticons",
-      "identifier": "contact"
-    },
-    "contact-line": {
-      "codepoint": 57635,
-      "fontFamily": "Majesticons",
-      "identifier": "contactLine"
-    },
-    "cookie": {
-      "codepoint": 57636,
-      "fontFamily": "Majesticons",
-      "identifier": "cookie"
-    },
     "cookie-line": {
-      "codepoint": 57637,
+      "codepoint": 57525,
       "fontFamily": "Majesticons",
       "identifier": "cookieLine"
     },
-    "covid": {
-      "codepoint": 57638,
-      "fontFamily": "Majesticons",
-      "identifier": "covid"
-    },
-    "covid-exclamation": {
-      "codepoint": 57639,
-      "fontFamily": "Majesticons",
-      "identifier": "covidExclamation"
-    },
-    "covid-exclamation-line": {
-      "codepoint": 57640,
-      "fontFamily": "Majesticons",
-      "identifier": "covidExclamationLine"
-    },
-    "covid-line": {
-      "codepoint": 57641,
-      "fontFamily": "Majesticons",
-      "identifier": "covidLine"
-    },
-    "covid-off": {
-      "codepoint": 57642,
-      "fontFamily": "Majesticons",
-      "identifier": "covidOff"
-    },
-    "covid-off-line": {
-      "codepoint": 57643,
-      "fontFamily": "Majesticons",
-      "identifier": "covidOffLine"
-    },
     "cpu": {
-      "codepoint": 57644,
+      "codepoint": 57526,
       "fontFamily": "Majesticons",
       "identifier": "cpu"
     },
     "cpu-line": {
-      "codepoint": 57645,
+      "codepoint": 57527,
       "fontFamily": "Majesticons",
       "identifier": "cpuLine"
     },
     "credit-card": {
-      "codepoint": 57646,
+      "codepoint": 57528,
       "fontFamily": "Majesticons",
       "identifier": "creditCard"
     },
     "credit-card-line": {
-      "codepoint": 57647,
+      "codepoint": 57529,
       "fontFamily": "Majesticons",
       "identifier": "creditCardLine"
     },
     "creditcard": {
-      "codepoint": 57648,
+      "codepoint": 57530,
       "fontFamily": "Majesticons",
       "identifier": "creditcard"
     },
-    "creditcard-hand": {
-      "codepoint": 57649,
-      "fontFamily": "Majesticons",
-      "identifier": "creditcardHand"
-    },
-    "creditcard-hand-line": {
-      "codepoint": 57650,
-      "fontFamily": "Majesticons",
-      "identifier": "creditcardHandLine"
-    },
     "creditcard-line": {
-      "codepoint": 57651,
+      "codepoint": 57531,
       "fontFamily": "Majesticons",
       "identifier": "creditcardLine"
     },
     "creditcard-plus": {
-      "codepoint": 57652,
+      "codepoint": 57532,
       "fontFamily": "Majesticons",
       "identifier": "creditcardPlus"
     },
     "creditcard-plus-line": {
-      "codepoint": 57653,
+      "codepoint": 57533,
       "fontFamily": "Majesticons",
       "identifier": "creditcardPlusLine"
     },
-    "crown": {
-      "codepoint": 57654,
-      "fontFamily": "Majesticons",
-      "identifier": "crown"
-    },
     "crown-line": {
-      "codepoint": 57655,
+      "codepoint": 57534,
       "fontFamily": "Majesticons",
       "identifier": "crownLine"
     },
-    "cube": {
-      "codepoint": 57656,
-      "fontFamily": "Majesticons",
-      "identifier": "cube"
-    },
-    "cube-line": {
-      "codepoint": 57657,
-      "fontFamily": "Majesticons",
-      "identifier": "cubeLine"
-    },
     "cup": {
-      "codepoint": 57658,
+      "codepoint": 57535,
       "fontFamily": "Majesticons",
       "identifier": "cup"
     },
     "cup-line": {
-      "codepoint": 57659,
+      "codepoint": 57536,
       "fontFamily": "Majesticons",
       "identifier": "cupLine"
     },
     "curly-braces": {
-      "codepoint": 57660,
+      "codepoint": 57537,
       "fontFamily": "Majesticons",
       "identifier": "curlyBraces"
     },
     "curly-braces-line": {
-      "codepoint": 57661,
+      "codepoint": 57538,
       "fontFamily": "Majesticons",
       "identifier": "curlyBracesLine"
     },
-    "cursor-click": {
-      "codepoint": 57662,
-      "fontFamily": "Majesticons",
-      "identifier": "cursorClick"
-    },
-    "cursor-click-line": {
-      "codepoint": 57663,
-      "fontFamily": "Majesticons",
-      "identifier": "cursorClickLine"
-    },
     "dashboard": {
-      "codepoint": 57664,
+      "codepoint": 57539,
       "fontFamily": "Majesticons",
       "identifier": "dashboard"
     },
     "dashboard-line": {
-      "codepoint": 57665,
+      "codepoint": 57540,
       "fontFamily": "Majesticons",
       "identifier": "dashboardLine"
     },
     "data": {
-      "codepoint": 57666,
+      "codepoint": 57541,
       "fontFamily": "Majesticons",
       "identifier": "data"
     },
     "data-line": {
-      "codepoint": 57667,
+      "codepoint": 57542,
       "fontFamily": "Majesticons",
       "identifier": "dataLine"
     },
     "data-minus": {
-      "codepoint": 57668,
+      "codepoint": 57543,
       "fontFamily": "Majesticons",
       "identifier": "dataMinus"
     },
     "data-minus-line": {
-      "codepoint": 57669,
+      "codepoint": 57544,
       "fontFamily": "Majesticons",
       "identifier": "dataMinusLine"
     },
     "data-plus": {
-      "codepoint": 57670,
+      "codepoint": 57545,
       "fontFamily": "Majesticons",
       "identifier": "dataPlus"
     },
     "data-plus-line": {
-      "codepoint": 57671,
+      "codepoint": 57546,
       "fontFamily": "Majesticons",
       "identifier": "dataPlusLine"
     },
-    "database": {
-      "codepoint": 57672,
-      "fontFamily": "Majesticons",
-      "identifier": "database"
-    },
-    "database-line": {
-      "codepoint": 57673,
-      "fontFamily": "Majesticons",
-      "identifier": "databaseLine"
-    },
     "delete-bin": {
-      "codepoint": 57674,
+      "codepoint": 57547,
       "fontFamily": "Majesticons",
       "identifier": "deleteBin"
     },
     "delete-bin-line": {
-      "codepoint": 57675,
+      "codepoint": 57548,
       "fontFamily": "Majesticons",
       "identifier": "deleteBinLine"
     },
     "desktop-computer": {
-      "codepoint": 57676,
+      "codepoint": 57549,
       "fontFamily": "Majesticons",
       "identifier": "desktopComputer"
     },
     "desktop-computer-line": {
-      "codepoint": 57677,
+      "codepoint": 57550,
       "fontFamily": "Majesticons",
       "identifier": "desktopComputerLine"
     },
     "device-mobile": {
-      "codepoint": 57678,
+      "codepoint": 57551,
       "fontFamily": "Majesticons",
       "identifier": "deviceMobile"
     },
     "device-mobile-line": {
-      "codepoint": 57679,
+      "codepoint": 57552,
       "fontFamily": "Majesticons",
       "identifier": "deviceMobileLine"
     },
     "device-tablet": {
-      "codepoint": 57680,
+      "codepoint": 57553,
       "fontFamily": "Majesticons",
       "identifier": "deviceTablet"
     },
     "device-tablet-line": {
-      "codepoint": 57681,
+      "codepoint": 57554,
       "fontFamily": "Majesticons",
       "identifier": "deviceTabletLine"
     },
     "distribute-horizontal": {
-      "codepoint": 57682,
+      "codepoint": 57555,
       "fontFamily": "Majesticons",
       "identifier": "distributeHorizontal"
     },
     "distribute-horizontal-line": {
-      "codepoint": 57683,
+      "codepoint": 57556,
       "fontFamily": "Majesticons",
       "identifier": "distributeHorizontalLine"
     },
     "distribute-vertical": {
-      "codepoint": 57684,
+      "codepoint": 57557,
       "fontFamily": "Majesticons",
       "identifier": "distributeVertical"
     },
     "distribute-vertical-line": {
-      "codepoint": 57685,
+      "codepoint": 57558,
       "fontFamily": "Majesticons",
       "identifier": "distributeVerticalLine"
     },
     "divide": {
-      "codepoint": 57686,
+      "codepoint": 57559,
       "fontFamily": "Majesticons",
       "identifier": "divide"
     },
     "divide-line": {
-      "codepoint": 57687,
+      "codepoint": 57560,
       "fontFamily": "Majesticons",
       "identifier": "divideLine"
     },
-    "document": {
-      "codepoint": 57688,
-      "fontFamily": "Majesticons",
-      "identifier": "document"
-    },
-    "document-award": {
-      "codepoint": 57689,
-      "fontFamily": "Majesticons",
-      "identifier": "documentAward"
-    },
-    "document-award-line": {
-      "codepoint": 57690,
-      "fontFamily": "Majesticons",
-      "identifier": "documentAwardLine"
-    },
-    "document-line": {
-      "codepoint": 57691,
-      "fontFamily": "Majesticons",
-      "identifier": "documentLine"
-    },
     "dollar-circle": {
-      "codepoint": 57692,
+      "codepoint": 57561,
       "fontFamily": "Majesticons",
       "identifier": "dollarCircle"
     },
     "dollar-circle-line": {
-      "codepoint": 57693,
+      "codepoint": 57562,
       "fontFamily": "Majesticons",
       "identifier": "dollarCircleLine"
     },
     "door-enter": {
-      "codepoint": 57694,
+      "codepoint": 57563,
       "fontFamily": "Majesticons",
       "identifier": "doorEnter"
     },
     "door-enter-line": {
-      "codepoint": 57695,
+      "codepoint": 57564,
       "fontFamily": "Majesticons",
       "identifier": "doorEnterLine"
     },
     "door-exit": {
-      "codepoint": 57696,
+      "codepoint": 57565,
       "fontFamily": "Majesticons",
       "identifier": "doorExit"
     },
     "door-exit-line": {
-      "codepoint": 57697,
+      "codepoint": 57566,
       "fontFamily": "Majesticons",
       "identifier": "doorExitLine"
     },
     "dots-circle": {
-      "codepoint": 57698,
+      "codepoint": 57567,
       "fontFamily": "Majesticons",
       "identifier": "dotsCircle"
     },
     "dots-circle-line": {
-      "codepoint": 57699,
+      "codepoint": 57568,
       "fontFamily": "Majesticons",
       "identifier": "dotsCircleLine"
     },
     "dots-horizontal": {
-      "codepoint": 57700,
+      "codepoint": 57569,
       "fontFamily": "Majesticons",
       "identifier": "dotsHorizontal"
     },
     "dots-horizontal-line": {
-      "codepoint": 57701,
+      "codepoint": 57570,
       "fontFamily": "Majesticons",
       "identifier": "dotsHorizontalLine"
     },
     "dots-vertical": {
-      "codepoint": 57702,
+      "codepoint": 57571,
       "fontFamily": "Majesticons",
       "identifier": "dotsVertical"
     },
     "dots-vertical-line": {
-      "codepoint": 57703,
+      "codepoint": 57572,
       "fontFamily": "Majesticons",
       "identifier": "dotsVerticalLine"
     },
-    "duplicate": {
-      "codepoint": 57704,
-      "fontFamily": "Majesticons",
-      "identifier": "duplicate"
-    },
     "duplicate-line": {
-      "codepoint": 57705,
+      "codepoint": 57573,
       "fontFamily": "Majesticons",
       "identifier": "duplicateLine"
     },
-    "earth-sphere": {
-      "codepoint": 57706,
-      "fontFamily": "Majesticons",
-      "identifier": "earthSphere"
-    },
-    "earth-sphere-line": {
-      "codepoint": 57707,
-      "fontFamily": "Majesticons",
-      "identifier": "earthSphereLine"
-    },
     "edit-pen-2": {
-      "codepoint": 57708,
+      "codepoint": 57574,
       "fontFamily": "Majesticons",
       "identifier": "editPen2"
     },
-    "edit-pen-2-line": {
-      "codepoint": 57709,
-      "fontFamily": "Majesticons",
-      "identifier": "editPen2Line"
-    },
     "edit-pen-4": {
-      "codepoint": 57710,
+      "codepoint": 57575,
       "fontFamily": "Majesticons",
       "identifier": "editPen4"
     },
-    "edit-pen-4-line": {
-      "codepoint": 57711,
-      "fontFamily": "Majesticons",
-      "identifier": "editPen4Line"
-    },
     "eject": {
-      "codepoint": 57712,
+      "codepoint": 57576,
       "fontFamily": "Majesticons",
       "identifier": "eject"
     },
     "eject-line": {
-      "codepoint": 57713,
+      "codepoint": 57577,
       "fontFamily": "Majesticons",
       "identifier": "ejectLine"
     },
-    "emoji-happy": {
-      "codepoint": 57714,
-      "fontFamily": "Majesticons",
-      "identifier": "emojiHappy"
-    },
-    "emoji-happy-line": {
-      "codepoint": 57715,
-      "fontFamily": "Majesticons",
-      "identifier": "emojiHappyLine"
-    },
-    "emoji-sad": {
-      "codepoint": 57716,
-      "fontFamily": "Majesticons",
-      "identifier": "emojiSad"
-    },
-    "emoji-sad-line": {
-      "codepoint": 57717,
-      "fontFamily": "Majesticons",
-      "identifier": "emojiSadLine"
-    },
-    "eraser": {
-      "codepoint": 57718,
-      "fontFamily": "Majesticons",
-      "identifier": "eraser"
-    },
-    "eraser-line": {
-      "codepoint": 57719,
-      "fontFamily": "Majesticons",
-      "identifier": "eraserLine"
-    },
-    "etherium-circle": {
-      "codepoint": 57720,
-      "fontFamily": "Majesticons",
-      "identifier": "etheriumCircle"
-    },
     "etherium-circle-line": {
-      "codepoint": 57721,
+      "codepoint": 57578,
       "fontFamily": "Majesticons",
       "identifier": "etheriumCircleLine"
     },
-    "euro-circle": {
-      "codepoint": 57722,
-      "fontFamily": "Majesticons",
-      "identifier": "euroCircle"
-    },
     "euro-circle-line": {
-      "codepoint": 57723,
+      "codepoint": 57579,
       "fontFamily": "Majesticons",
       "identifier": "euroCircleLine"
     },
-    "exclamation": {
-      "codepoint": 57724,
-      "fontFamily": "Majesticons",
-      "identifier": "exclamation"
-    },
     "exclamation-circle": {
-      "codepoint": 57725,
+      "codepoint": 57580,
       "fontFamily": "Majesticons",
       "identifier": "exclamationCircle"
     },
     "exclamation-circle-line": {
-      "codepoint": 57726,
+      "codepoint": 57581,
       "fontFamily": "Majesticons",
       "identifier": "exclamationCircleLine"
     },
-    "exclamation-line": {
-      "codepoint": 57727,
-      "fontFamily": "Majesticons",
-      "identifier": "exclamationLine"
-    },
     "external-link": {
-      "codepoint": 57728,
+      "codepoint": 57582,
       "fontFamily": "Majesticons",
       "identifier": "externalLink"
     },
     "external-link-line": {
-      "codepoint": 57729,
+      "codepoint": 57583,
       "fontFamily": "Majesticons",
       "identifier": "externalLinkLine"
     },
-    "eye": {
-      "codepoint": 57730,
-      "fontFamily": "Majesticons",
-      "identifier": "eye"
-    },
-    "eye-line": {
-      "codepoint": 57731,
-      "fontFamily": "Majesticons",
-      "identifier": "eyeLine"
-    },
-    "eye-off": {
-      "codepoint": 57732,
-      "fontFamily": "Majesticons",
-      "identifier": "eyeOff"
-    },
-    "eye-off-line": {
-      "codepoint": 57733,
-      "fontFamily": "Majesticons",
-      "identifier": "eyeOffLine"
-    },
     "fast-forward": {
-      "codepoint": 57734,
+      "codepoint": 57584,
       "fontFamily": "Majesticons",
       "identifier": "fastForward"
     },
-    "fast-forward-line": {
-      "codepoint": 57735,
-      "fontFamily": "Majesticons",
-      "identifier": "fastForwardLine"
-    },
     "ferris-wheel": {
-      "codepoint": 57736,
+      "codepoint": 57585,
       "fontFamily": "Majesticons",
       "identifier": "ferrisWheel"
     },
     "ferris-wheel-line": {
-      "codepoint": 57737,
+      "codepoint": 57586,
       "fontFamily": "Majesticons",
       "identifier": "ferrisWheelLine"
     },
-    "file": {
-      "codepoint": 57738,
-      "fontFamily": "Majesticons",
-      "identifier": "file"
-    },
-    "file-add": {
-      "codepoint": 57739,
-      "fontFamily": "Majesticons",
-      "identifier": "fileAdd"
-    },
-    "file-add-line": {
-      "codepoint": 57740,
-      "fontFamily": "Majesticons",
-      "identifier": "fileAddLine"
-    },
-    "file-download": {
-      "codepoint": 57741,
-      "fontFamily": "Majesticons",
-      "identifier": "fileDownload"
-    },
-    "file-download-line": {
-      "codepoint": 57742,
-      "fontFamily": "Majesticons",
-      "identifier": "fileDownloadLine"
-    },
-    "file-duplicate": {
-      "codepoint": 57743,
-      "fontFamily": "Majesticons",
-      "identifier": "fileDuplicate"
-    },
-    "file-duplicate-line": {
-      "codepoint": 57744,
-      "fontFamily": "Majesticons",
-      "identifier": "fileDuplicateLine"
-    },
-    "file-line": {
-      "codepoint": 57745,
-      "fontFamily": "Majesticons",
-      "identifier": "fileLine"
-    },
-    "file-minus": {
-      "codepoint": 57746,
-      "fontFamily": "Majesticons",
-      "identifier": "fileMinus"
-    },
-    "file-minus-line": {
-      "codepoint": 57747,
-      "fontFamily": "Majesticons",
-      "identifier": "fileMinusLine"
-    },
-    "file-plus": {
-      "codepoint": 57748,
-      "fontFamily": "Majesticons",
-      "identifier": "filePlus"
-    },
-    "file-plus-line": {
-      "codepoint": 57749,
-      "fontFamily": "Majesticons",
-      "identifier": "filePlusLine"
-    },
-    "file-remove": {
-      "codepoint": 57750,
-      "fontFamily": "Majesticons",
-      "identifier": "fileRemove"
-    },
-    "file-remove-line": {
-      "codepoint": 57751,
-      "fontFamily": "Majesticons",
-      "identifier": "fileRemoveLine"
-    },
-    "file-report": {
-      "codepoint": 57752,
-      "fontFamily": "Majesticons",
-      "identifier": "fileReport"
-    },
-    "file-report-line": {
-      "codepoint": 57753,
-      "fontFamily": "Majesticons",
-      "identifier": "fileReportLine"
-    },
-    "file-search": {
-      "codepoint": 57754,
-      "fontFamily": "Majesticons",
-      "identifier": "fileSearch"
-    },
-    "file-search-line": {
-      "codepoint": 57755,
-      "fontFamily": "Majesticons",
-      "identifier": "fileSearchLine"
-    },
-    "file-text": {
-      "codepoint": 57756,
-      "fontFamily": "Majesticons",
-      "identifier": "fileText"
-    },
-    "file-text-line": {
-      "codepoint": 57757,
-      "fontFamily": "Majesticons",
-      "identifier": "fileTextLine"
-    },
     "film": {
-      "codepoint": 57758,
+      "codepoint": 57587,
       "fontFamily": "Majesticons",
       "identifier": "film"
     },
     "film-line": {
-      "codepoint": 57759,
+      "codepoint": 57588,
       "fontFamily": "Majesticons",
       "identifier": "filmLine"
     },
-    "filter": {
-      "codepoint": 57760,
-      "fontFamily": "Majesticons",
-      "identifier": "filter"
-    },
-    "filter-line": {
-      "codepoint": 57761,
-      "fontFamily": "Majesticons",
-      "identifier": "filterLine"
-    },
-    "fire": {
-      "codepoint": 57762,
-      "fontFamily": "Majesticons",
-      "identifier": "fire"
-    },
-    "fire-line": {
-      "codepoint": 57763,
-      "fontFamily": "Majesticons",
-      "identifier": "fireLine"
-    },
-    "fish": {
-      "codepoint": 57764,
-      "fontFamily": "Majesticons",
-      "identifier": "fish"
-    },
-    "fish-line": {
-      "codepoint": 57765,
-      "fontFamily": "Majesticons",
-      "identifier": "fishLine"
-    },
     "flag": {
-      "codepoint": 57766,
+      "codepoint": 57589,
       "fontFamily": "Majesticons",
       "identifier": "flag"
     },
     "flag-line": {
-      "codepoint": 57767,
+      "codepoint": 57590,
       "fontFamily": "Majesticons",
       "identifier": "flagLine"
     },
-    "flask": {
-      "codepoint": 57768,
-      "fontFamily": "Majesticons",
-      "identifier": "flask"
-    },
-    "flask-line": {
-      "codepoint": 57769,
-      "fontFamily": "Majesticons",
-      "identifier": "flaskLine"
-    },
     "flower-2": {
-      "codepoint": 57770,
+      "codepoint": 57591,
       "fontFamily": "Majesticons",
       "identifier": "flower2"
     },
     "flower-2-line": {
-      "codepoint": 57771,
+      "codepoint": 57592,
       "fontFamily": "Majesticons",
       "identifier": "flower2Line"
     },
-    "folder": {
-      "codepoint": 57772,
-      "fontFamily": "Majesticons",
-      "identifier": "folder"
-    },
-    "folder-add": {
-      "codepoint": 57773,
-      "fontFamily": "Majesticons",
-      "identifier": "folderAdd"
-    },
-    "folder-add-line": {
-      "codepoint": 57774,
-      "fontFamily": "Majesticons",
-      "identifier": "folderAddLine"
-    },
-    "folder-check": {
-      "codepoint": 57775,
-      "fontFamily": "Majesticons",
-      "identifier": "folderCheck"
-    },
-    "folder-check-line": {
-      "codepoint": 57776,
-      "fontFamily": "Majesticons",
-      "identifier": "folderCheckLine"
-    },
-    "folder-download": {
-      "codepoint": 57777,
-      "fontFamily": "Majesticons",
-      "identifier": "folderDownload"
-    },
-    "folder-download-line": {
-      "codepoint": 57778,
-      "fontFamily": "Majesticons",
-      "identifier": "folderDownloadLine"
-    },
-    "folder-line": {
-      "codepoint": 57779,
-      "fontFamily": "Majesticons",
-      "identifier": "folderLine"
-    },
-    "folder-minus": {
-      "codepoint": 57780,
-      "fontFamily": "Majesticons",
-      "identifier": "folderMinus"
-    },
-    "folder-minus-line": {
-      "codepoint": 57781,
-      "fontFamily": "Majesticons",
-      "identifier": "folderMinusLine"
-    },
-    "folder-open": {
-      "codepoint": 57782,
-      "fontFamily": "Majesticons",
-      "identifier": "folderOpen"
-    },
-    "folder-open-line": {
-      "codepoint": 57783,
-      "fontFamily": "Majesticons",
-      "identifier": "folderOpenLine"
-    },
-    "folder-plus": {
-      "codepoint": 57784,
-      "fontFamily": "Majesticons",
-      "identifier": "folderPlus"
-    },
-    "folder-plus-line": {
-      "codepoint": 57785,
-      "fontFamily": "Majesticons",
-      "identifier": "folderPlusLine"
-    },
-    "folder-remove": {
-      "codepoint": 57786,
-      "fontFamily": "Majesticons",
-      "identifier": "folderRemove"
-    },
-    "folder-remove-line": {
-      "codepoint": 57787,
-      "fontFamily": "Majesticons",
-      "identifier": "folderRemoveLine"
-    },
     "font-size": {
-      "codepoint": 57788,
+      "codepoint": 57593,
       "fontFamily": "Majesticons",
       "identifier": "fontSize"
     },
     "font-size-line": {
-      "codepoint": 57789,
+      "codepoint": 57594,
       "fontFamily": "Majesticons",
       "identifier": "fontSizeLine"
     },
-    "forward": {
-      "codepoint": 57790,
-      "fontFamily": "Majesticons",
-      "identifier": "forward"
-    },
-    "forward-circle": {
-      "codepoint": 57791,
-      "fontFamily": "Majesticons",
-      "identifier": "forwardCircle"
-    },
     "forward-circle-line": {
-      "codepoint": 57792,
+      "codepoint": 57595,
       "fontFamily": "Majesticons",
       "identifier": "forwardCircleLine"
     },
-    "forward-end-circle": {
-      "codepoint": 57793,
-      "fontFamily": "Majesticons",
-      "identifier": "forwardEndCircle"
-    },
     "forward-end-circle-line": {
-      "codepoint": 57794,
+      "codepoint": 57596,
       "fontFamily": "Majesticons",
       "identifier": "forwardEndCircleLine"
     },
-    "forward-line": {
-      "codepoint": 57795,
-      "fontFamily": "Majesticons",
-      "identifier": "forwardLine"
-    },
-    "ghost": {
-      "codepoint": 57796,
-      "fontFamily": "Majesticons",
-      "identifier": "ghost"
-    },
-    "ghost-line": {
-      "codepoint": 57797,
-      "fontFamily": "Majesticons",
-      "identifier": "ghostLine"
-    },
     "git-branch": {
-      "codepoint": 57798,
+      "codepoint": 57597,
       "fontFamily": "Majesticons",
       "identifier": "gitBranch"
     },
     "git-branch-line": {
-      "codepoint": 57799,
+      "codepoint": 57598,
       "fontFamily": "Majesticons",
       "identifier": "gitBranchLine"
     },
     "git-commit": {
-      "codepoint": 57800,
+      "codepoint": 57599,
       "fontFamily": "Majesticons",
       "identifier": "gitCommit"
     },
     "git-commit-line": {
-      "codepoint": 57801,
+      "codepoint": 57600,
       "fontFamily": "Majesticons",
       "identifier": "gitCommitLine"
     },
     "git-compare": {
-      "codepoint": 57802,
+      "codepoint": 57601,
       "fontFamily": "Majesticons",
       "identifier": "gitCompare"
     },
     "git-compare-line": {
-      "codepoint": 57803,
+      "codepoint": 57602,
       "fontFamily": "Majesticons",
       "identifier": "gitCompareLine"
     },
     "git-fork": {
-      "codepoint": 57804,
+      "codepoint": 57603,
       "fontFamily": "Majesticons",
       "identifier": "gitFork"
     },
     "git-fork-line": {
-      "codepoint": 57805,
+      "codepoint": 57604,
       "fontFamily": "Majesticons",
       "identifier": "gitForkLine"
     },
     "git-merge": {
-      "codepoint": 57806,
+      "codepoint": 57605,
       "fontFamily": "Majesticons",
       "identifier": "gitMerge"
     },
     "git-merge-line": {
-      "codepoint": 57807,
+      "codepoint": 57606,
       "fontFamily": "Majesticons",
       "identifier": "gitMergeLine"
     },
     "git-pull": {
-      "codepoint": 57808,
+      "codepoint": 57607,
       "fontFamily": "Majesticons",
       "identifier": "gitPull"
     },
     "git-pull-line": {
-      "codepoint": 57809,
+      "codepoint": 57608,
       "fontFamily": "Majesticons",
       "identifier": "gitPullLine"
     },
-    "glas-water": {
-      "codepoint": 57810,
-      "fontFamily": "Majesticons",
-      "identifier": "glasWater"
-    },
-    "glas-water-line": {
-      "codepoint": 57811,
-      "fontFamily": "Majesticons",
-      "identifier": "glasWaterLine"
-    },
-    "globe": {
-      "codepoint": 57812,
-      "fontFamily": "Majesticons",
-      "identifier": "globe"
-    },
     "globe-earth": {
-      "codepoint": 57813,
+      "codepoint": 57609,
       "fontFamily": "Majesticons",
       "identifier": "globeEarth"
     },
-    "globe-earth-2": {
-      "codepoint": 57814,
-      "fontFamily": "Majesticons",
-      "identifier": "globeEarth2"
-    },
-    "globe-earth-2-line": {
-      "codepoint": 57815,
-      "fontFamily": "Majesticons",
-      "identifier": "globeEarth2Line"
-    },
     "globe-earth-line": {
-      "codepoint": 57816,
+      "codepoint": 57610,
       "fontFamily": "Majesticons",
       "identifier": "globeEarthLine"
     },
-    "globe-grid": {
-      "codepoint": 57817,
-      "fontFamily": "Majesticons",
-      "identifier": "globeGrid"
-    },
-    "globe-grid-line": {
-      "codepoint": 57818,
-      "fontFamily": "Majesticons",
-      "identifier": "globeGridLine"
-    },
     "globe-line": {
-      "codepoint": 57819,
+      "codepoint": 57611,
       "fontFamily": "Majesticons",
       "identifier": "globeLine"
     },
-    "hand": {
-      "codepoint": 57820,
-      "fontFamily": "Majesticons",
-      "identifier": "hand"
-    },
     "hand-line": {
-      "codepoint": 57821,
+      "codepoint": 57612,
       "fontFamily": "Majesticons",
       "identifier": "handLine"
     },
     "hand-pointer": {
-      "codepoint": 57822,
+      "codepoint": 57613,
       "fontFamily": "Majesticons",
       "identifier": "handPointer"
     },
-    "hand-pointer-2": {
-      "codepoint": 57823,
-      "fontFamily": "Majesticons",
-      "identifier": "handPointer2"
-    },
     "hand-pointer-2-line": {
-      "codepoint": 57824,
+      "codepoint": 57614,
       "fontFamily": "Majesticons",
       "identifier": "handPointer2Line"
     },
-    "hand-pointer-event": {
-      "codepoint": 57825,
-      "fontFamily": "Majesticons",
-      "identifier": "handPointerEvent"
-    },
-    "hand-pointer-event-line": {
-      "codepoint": 57826,
-      "fontFamily": "Majesticons",
-      "identifier": "handPointerEventLine"
-    },
-    "hand-pointer-line": {
-      "codepoint": 57827,
-      "fontFamily": "Majesticons",
-      "identifier": "handPointerLine"
-    },
     "hard-drive": {
-      "codepoint": 57828,
+      "codepoint": 57615,
       "fontFamily": "Majesticons",
       "identifier": "hardDrive"
     },
     "hard-drive-line": {
-      "codepoint": 57829,
+      "codepoint": 57616,
       "fontFamily": "Majesticons",
       "identifier": "hardDriveLine"
     },
-    "hashtag": {
-      "codepoint": 57830,
-      "fontFamily": "Majesticons",
-      "identifier": "hashtag"
-    },
-    "hashtag-line": {
-      "codepoint": 57831,
-      "fontFamily": "Majesticons",
-      "identifier": "hashtagLine"
-    },
     "headset": {
-      "codepoint": 57832,
+      "codepoint": 57617,
       "fontFamily": "Majesticons",
       "identifier": "headset"
     },
     "headset-line": {
-      "codepoint": 57833,
+      "codepoint": 57618,
       "fontFamily": "Majesticons",
       "identifier": "headsetLine"
     },
     "heart": {
-      "codepoint": 57834,
+      "codepoint": 57619,
       "fontFamily": "Majesticons",
       "identifier": "heart"
     },
     "heart-line": {
-      "codepoint": 57835,
+      "codepoint": 57620,
       "fontFamily": "Majesticons",
       "identifier": "heartLine"
     },
     "home": {
-      "codepoint": 57836,
+      "codepoint": 57621,
       "fontFamily": "Majesticons",
       "identifier": "home"
     },
     "home-analytics": {
-      "codepoint": 57837,
+      "codepoint": 57622,
       "fontFamily": "Majesticons",
       "identifier": "homeAnalytics"
     },
     "home-analytics-line": {
-      "codepoint": 57838,
+      "codepoint": 57623,
       "fontFamily": "Majesticons",
       "identifier": "homeAnalyticsLine"
     },
     "home-line": {
-      "codepoint": 57839,
+      "codepoint": 57624,
       "fontFamily": "Majesticons",
       "identifier": "homeLine"
     },
     "home-simple": {
-      "codepoint": 57840,
+      "codepoint": 57625,
       "fontFamily": "Majesticons",
       "identifier": "homeSimple"
     },
     "home-simple-line": {
-      "codepoint": 57841,
+      "codepoint": 57626,
       "fontFamily": "Majesticons",
       "identifier": "homeSimpleLine"
     },
-    "image": {
-      "codepoint": 57842,
-      "fontFamily": "Majesticons",
-      "identifier": "image"
-    },
-    "image-circle": {
-      "codepoint": 57843,
-      "fontFamily": "Majesticons",
-      "identifier": "imageCircle"
-    },
-    "image-circle-line": {
-      "codepoint": 57844,
-      "fontFamily": "Majesticons",
-      "identifier": "imageCircleLine"
-    },
-    "image-circle-off": {
-      "codepoint": 57845,
-      "fontFamily": "Majesticons",
-      "identifier": "imageCircleOff"
-    },
-    "image-circle-off-line": {
-      "codepoint": 57846,
-      "fontFamily": "Majesticons",
-      "identifier": "imageCircleOffLine"
-    },
-    "image-circle-plus": {
-      "codepoint": 57847,
-      "fontFamily": "Majesticons",
-      "identifier": "imageCirclePlus"
-    },
-    "image-circle-plus-line": {
-      "codepoint": 57848,
-      "fontFamily": "Majesticons",
-      "identifier": "imageCirclePlusLine"
-    },
-    "image-circle-story": {
-      "codepoint": 57849,
-      "fontFamily": "Majesticons",
-      "identifier": "imageCircleStory"
-    },
-    "image-circle-story-line": {
-      "codepoint": 57850,
-      "fontFamily": "Majesticons",
-      "identifier": "imageCircleStoryLine"
-    },
-    "image-frame": {
-      "codepoint": 57851,
-      "fontFamily": "Majesticons",
-      "identifier": "imageFrame"
-    },
-    "image-frame-line": {
-      "codepoint": 57852,
-      "fontFamily": "Majesticons",
-      "identifier": "imageFrameLine"
-    },
     "image-in-picture": {
-      "codepoint": 57853,
+      "codepoint": 57627,
       "fontFamily": "Majesticons",
       "identifier": "imageInPicture"
     },
     "image-in-picture-line": {
-      "codepoint": 57854,
+      "codepoint": 57628,
       "fontFamily": "Majesticons",
       "identifier": "imageInPictureLine"
     },
-    "image-line": {
-      "codepoint": 57855,
-      "fontFamily": "Majesticons",
-      "identifier": "imageLine"
-    },
-    "image-multiple": {
-      "codepoint": 57856,
-      "fontFamily": "Majesticons",
-      "identifier": "imageMultiple"
-    },
-    "image-multiple-line": {
-      "codepoint": 57857,
-      "fontFamily": "Majesticons",
-      "identifier": "imageMultipleLine"
-    },
-    "image-off": {
-      "codepoint": 57858,
-      "fontFamily": "Majesticons",
-      "identifier": "imageOff"
-    },
-    "image-off-line": {
-      "codepoint": 57859,
-      "fontFamily": "Majesticons",
-      "identifier": "imageOffLine"
-    },
-    "image-photography": {
-      "codepoint": 57860,
-      "fontFamily": "Majesticons",
-      "identifier": "imagePhotography"
-    },
-    "image-photography-line": {
-      "codepoint": 57861,
-      "fontFamily": "Majesticons",
-      "identifier": "imagePhotographyLine"
-    },
-    "image-plus": {
-      "codepoint": 57862,
-      "fontFamily": "Majesticons",
-      "identifier": "imagePlus"
-    },
-    "image-plus-line": {
-      "codepoint": 57863,
-      "fontFamily": "Majesticons",
-      "identifier": "imagePlusLine"
-    },
     "inbox": {
-      "codepoint": 57864,
+      "codepoint": 57629,
       "fontFamily": "Majesticons",
       "identifier": "inbox"
     },
     "inbox-in": {
-      "codepoint": 57865,
+      "codepoint": 57630,
       "fontFamily": "Majesticons",
       "identifier": "inboxIn"
     },
     "inbox-in-line": {
-      "codepoint": 57866,
+      "codepoint": 57631,
       "fontFamily": "Majesticons",
       "identifier": "inboxInLine"
     },
     "inbox-line": {
-      "codepoint": 57867,
+      "codepoint": 57632,
       "fontFamily": "Majesticons",
       "identifier": "inboxLine"
     },
     "incognito": {
-      "codepoint": 57868,
+      "codepoint": 57633,
       "fontFamily": "Majesticons",
       "identifier": "incognito"
     },
     "incognito-line": {
-      "codepoint": 57869,
+      "codepoint": 57634,
       "fontFamily": "Majesticons",
       "identifier": "incognitoLine"
     },
     "info-circle": {
-      "codepoint": 57870,
+      "codepoint": 57635,
       "fontFamily": "Majesticons",
       "identifier": "infoCircle"
     },
     "info-circle-line": {
-      "codepoint": 57871,
+      "codepoint": 57636,
       "fontFamily": "Majesticons",
       "identifier": "infoCircleLine"
     },
     "information-circle": {
-      "codepoint": 57872,
+      "codepoint": 57637,
       "fontFamily": "Majesticons",
       "identifier": "informationCircle"
     },
     "information-circle-line": {
-      "codepoint": 57873,
+      "codepoint": 57638,
       "fontFamily": "Majesticons",
       "identifier": "informationCircleLine"
     },
     "iphone-old-apps": {
-      "codepoint": 57874,
+      "codepoint": 57639,
       "fontFamily": "Majesticons",
       "identifier": "iphoneOldApps"
     },
     "iphone-old-apps-line": {
-      "codepoint": 57875,
+      "codepoint": 57640,
       "fontFamily": "Majesticons",
       "identifier": "iphoneOldAppsLine"
     },
     "iphone-x-apps": {
-      "codepoint": 57876,
+      "codepoint": 57641,
       "fontFamily": "Majesticons",
       "identifier": "iphoneXApps"
     },
     "iphone-x-apps-line": {
-      "codepoint": 57877,
+      "codepoint": 57642,
       "fontFamily": "Majesticons",
       "identifier": "iphoneXAppsLine"
     },
     "italic": {
-      "codepoint": 57878,
+      "codepoint": 57643,
       "fontFamily": "Majesticons",
       "identifier": "italic"
     },
     "italic-line": {
-      "codepoint": 57879,
+      "codepoint": 57644,
       "fontFamily": "Majesticons",
       "identifier": "italicLine"
     },
-    "key": {
-      "codepoint": 57880,
-      "fontFamily": "Majesticons",
-      "identifier": "key"
-    },
-    "key-line": {
-      "codepoint": 57881,
-      "fontFamily": "Majesticons",
-      "identifier": "keyLine"
-    },
     "keyboard": {
-      "codepoint": 57882,
+      "codepoint": 57645,
       "fontFamily": "Majesticons",
       "identifier": "keyboard"
     },
     "keyboard-line": {
-      "codepoint": 57883,
+      "codepoint": 57646,
       "fontFamily": "Majesticons",
       "identifier": "keyboardLine"
     },
-    "laptop": {
-      "codepoint": 57884,
-      "fontFamily": "Majesticons",
-      "identifier": "laptop"
-    },
     "laptop-line": {
-      "codepoint": 57885,
+      "codepoint": 57647,
       "fontFamily": "Majesticons",
       "identifier": "laptopLine"
     },
-    "leaf-3-angled": {
-      "codepoint": 57886,
-      "fontFamily": "Majesticons",
-      "identifier": "leaf3Angled"
-    },
-    "leaf-3-angled-line": {
-      "codepoint": 57887,
-      "fontFamily": "Majesticons",
-      "identifier": "leaf3AngledLine"
-    },
-    "library": {
-      "codepoint": 57888,
-      "fontFamily": "Majesticons",
-      "identifier": "library_"
-    },
     "library-line": {
-      "codepoint": 57889,
+      "codepoint": 57648,
       "fontFamily": "Majesticons",
       "identifier": "libraryLine"
     },
-    "lidquid-drop-waves-2": {
-      "codepoint": 57890,
-      "fontFamily": "Majesticons",
-      "identifier": "lidquidDropWaves2"
-    },
-    "lidquid-drop-waves-2-line": {
-      "codepoint": 57891,
-      "fontFamily": "Majesticons",
-      "identifier": "lidquidDropWaves2Line"
-    },
-    "lifebuoy": {
-      "codepoint": 57892,
-      "fontFamily": "Majesticons",
-      "identifier": "lifebuoy"
-    },
-    "lifebuoy-line": {
-      "codepoint": 57893,
-      "fontFamily": "Majesticons",
-      "identifier": "lifebuoyLine"
-    },
     "light-bulb": {
-      "codepoint": 57894,
+      "codepoint": 57649,
       "fontFamily": "Majesticons",
       "identifier": "lightBulb"
     },
     "light-bulb-line": {
-      "codepoint": 57895,
+      "codepoint": 57650,
       "fontFamily": "Majesticons",
       "identifier": "lightBulbLine"
     },
     "lightbulb-shine": {
-      "codepoint": 57896,
+      "codepoint": 57651,
       "fontFamily": "Majesticons",
       "identifier": "lightbulbShine"
     },
     "lightbulb-shine-line": {
-      "codepoint": 57897,
+      "codepoint": 57652,
       "fontFamily": "Majesticons",
       "identifier": "lightbulbShineLine"
     },
     "lightning-bolt": {
-      "codepoint": 57898,
+      "codepoint": 57653,
       "fontFamily": "Majesticons",
       "identifier": "lightningBolt"
     },
     "lightning-bolt-line": {
-      "codepoint": 57899,
+      "codepoint": 57654,
       "fontFamily": "Majesticons",
       "identifier": "lightningBoltLine"
     },
     "line-height": {
-      "codepoint": 57900,
+      "codepoint": 57655,
       "fontFamily": "Majesticons",
       "identifier": "lineHeight"
     },
     "line-height-line": {
-      "codepoint": 57901,
+      "codepoint": 57656,
       "fontFamily": "Majesticons",
       "identifier": "lineHeightLine"
     },
     "link": {
-      "codepoint": 57902,
+      "codepoint": 57657,
       "fontFamily": "Majesticons",
       "identifier": "link"
     },
-    "link-circle": {
-      "codepoint": 57903,
-      "fontFamily": "Majesticons",
-      "identifier": "linkCircle"
-    },
     "link-circle-line": {
-      "codepoint": 57904,
+      "codepoint": 57658,
       "fontFamily": "Majesticons",
       "identifier": "linkCircleLine"
     },
     "link-line": {
-      "codepoint": 57905,
+      "codepoint": 57659,
       "fontFamily": "Majesticons",
       "identifier": "linkLine"
     },
-    "lira-circle": {
-      "codepoint": 57906,
-      "fontFamily": "Majesticons",
-      "identifier": "liraCircle"
-    },
     "lira-circle-line": {
-      "codepoint": 57907,
+      "codepoint": 57660,
       "fontFamily": "Majesticons",
       "identifier": "liraCircleLine"
     },
     "list-box": {
-      "codepoint": 57908,
+      "codepoint": 57661,
       "fontFamily": "Majesticons",
       "identifier": "listBox"
     },
     "list-box-line": {
-      "codepoint": 57909,
+      "codepoint": 57662,
       "fontFamily": "Majesticons",
       "identifier": "listBoxLine"
     },
-    "location-marker": {
-      "codepoint": 57910,
-      "fontFamily": "Majesticons",
-      "identifier": "locationMarker"
-    },
-    "location-marker-line": {
-      "codepoint": 57911,
-      "fontFamily": "Majesticons",
-      "identifier": "locationMarkerLine"
-    },
     "lock": {
-      "codepoint": 57912,
+      "codepoint": 57663,
       "fontFamily": "Majesticons",
       "identifier": "lock"
     },
     "lock-closed": {
-      "codepoint": 57913,
+      "codepoint": 57664,
       "fontFamily": "Majesticons",
       "identifier": "lockClosed"
     },
     "lock-closed-line": {
-      "codepoint": 57914,
+      "codepoint": 57665,
       "fontFamily": "Majesticons",
       "identifier": "lockClosedLine"
     },
     "lock-line": {
-      "codepoint": 57915,
+      "codepoint": 57666,
       "fontFamily": "Majesticons",
       "identifier": "lockLine"
     },
-    "lock-off": {
-      "codepoint": 57916,
-      "fontFamily": "Majesticons",
-      "identifier": "lockOff"
-    },
     "lock-off-line": {
-      "codepoint": 57917,
+      "codepoint": 57667,
       "fontFamily": "Majesticons",
       "identifier": "lockOffLine"
     },
-    "lock-open": {
-      "codepoint": 57918,
-      "fontFamily": "Majesticons",
-      "identifier": "lockOpen"
-    },
-    "lock-open-line": {
-      "codepoint": 57919,
-      "fontFamily": "Majesticons",
-      "identifier": "lockOpenLine"
-    },
     "login": {
-      "codepoint": 57920,
+      "codepoint": 57668,
       "fontFamily": "Majesticons",
       "identifier": "login"
     },
     "login-half-circle": {
-      "codepoint": 57921,
+      "codepoint": 57669,
       "fontFamily": "Majesticons",
       "identifier": "loginHalfCircle"
     },
     "login-half-circle-line": {
-      "codepoint": 57922,
+      "codepoint": 57670,
       "fontFamily": "Majesticons",
       "identifier": "loginHalfCircleLine"
     },
     "login-line": {
-      "codepoint": 57923,
+      "codepoint": 57671,
       "fontFamily": "Majesticons",
       "identifier": "loginLine"
     },
     "logout": {
-      "codepoint": 57924,
+      "codepoint": 57672,
       "fontFamily": "Majesticons",
       "identifier": "logout"
     },
     "logout-half-circle": {
-      "codepoint": 57925,
+      "codepoint": 57673,
       "fontFamily": "Majesticons",
       "identifier": "logoutHalfCircle"
     },
     "logout-half-circle-line": {
-      "codepoint": 57926,
+      "codepoint": 57674,
       "fontFamily": "Majesticons",
       "identifier": "logoutHalfCircleLine"
     },
     "logout-line": {
-      "codepoint": 57927,
+      "codepoint": 57675,
       "fontFamily": "Majesticons",
       "identifier": "logoutLine"
     },
     "mail": {
-      "codepoint": 57928,
+      "codepoint": 57676,
       "fontFamily": "Majesticons",
       "identifier": "mail"
     },
     "mail-line": {
-      "codepoint": 57929,
+      "codepoint": 57677,
       "fontFamily": "Majesticons",
       "identifier": "mailLine"
     },
     "mail-open": {
-      "codepoint": 57930,
+      "codepoint": 57678,
       "fontFamily": "Majesticons",
       "identifier": "mailOpen"
     },
     "mail-open-line": {
-      "codepoint": 57931,
+      "codepoint": 57679,
       "fontFamily": "Majesticons",
       "identifier": "mailOpenLine"
     },
-    "map": {
-      "codepoint": 57932,
-      "fontFamily": "Majesticons",
-      "identifier": "map"
-    },
-    "map-line": {
-      "codepoint": 57933,
-      "fontFamily": "Majesticons",
-      "identifier": "mapLine"
-    },
-    "map-marker": {
-      "codepoint": 57934,
-      "fontFamily": "Majesticons",
-      "identifier": "mapMarker"
-    },
-    "map-marker-area": {
-      "codepoint": 57935,
-      "fontFamily": "Majesticons",
-      "identifier": "mapMarkerArea"
-    },
-    "map-marker-area-line": {
-      "codepoint": 57936,
-      "fontFamily": "Majesticons",
-      "identifier": "mapMarkerAreaLine"
-    },
     "map-marker-line": {
-      "codepoint": 57937,
+      "codepoint": 57680,
       "fontFamily": "Majesticons",
       "identifier": "mapMarkerLine"
     },
-    "map-marker-path": {
-      "codepoint": 57938,
-      "fontFamily": "Majesticons",
-      "identifier": "mapMarkerPath"
-    },
     "map-marker-path-line": {
-      "codepoint": 57939,
+      "codepoint": 57681,
       "fontFamily": "Majesticons",
       "identifier": "mapMarkerPathLine"
     },
-    "map-marker-plus": {
-      "codepoint": 57940,
-      "fontFamily": "Majesticons",
-      "identifier": "mapMarkerPlus"
-    },
     "map-marker-plus-line": {
-      "codepoint": 57941,
+      "codepoint": 57682,
       "fontFamily": "Majesticons",
       "identifier": "mapMarkerPlusLine"
     },
-    "map-simple": {
-      "codepoint": 57942,
-      "fontFamily": "Majesticons",
-      "identifier": "mapSimple"
-    },
-    "map-simple-destination": {
-      "codepoint": 57943,
-      "fontFamily": "Majesticons",
-      "identifier": "mapSimpleDestination"
-    },
     "map-simple-destination-line": {
-      "codepoint": 57944,
+      "codepoint": 57683,
       "fontFamily": "Majesticons",
       "identifier": "mapSimpleDestinationLine"
     },
     "map-simple-line": {
-      "codepoint": 57945,
+      "codepoint": 57684,
       "fontFamily": "Majesticons",
       "identifier": "mapSimpleLine"
     },
-    "map-simple-marker": {
-      "codepoint": 57946,
-      "fontFamily": "Majesticons",
-      "identifier": "mapSimpleMarker"
-    },
-    "map-simple-marker-line": {
-      "codepoint": 57947,
-      "fontFamily": "Majesticons",
-      "identifier": "mapSimpleMarkerLine"
-    },
-    "map-simple-off": {
-      "codepoint": 57948,
-      "fontFamily": "Majesticons",
-      "identifier": "mapSimpleOff"
-    },
     "map-simple-off-line": {
-      "codepoint": 57949,
+      "codepoint": 57685,
       "fontFamily": "Majesticons",
       "identifier": "mapSimpleOffLine"
     },
     "maximize": {
-      "codepoint": 57950,
+      "codepoint": 57686,
       "fontFamily": "Majesticons",
       "identifier": "maximize"
     },
     "maximize-line": {
-      "codepoint": 57951,
+      "codepoint": 57687,
       "fontFamily": "Majesticons",
       "identifier": "maximizeLine"
     },
     "megaphone": {
-      "codepoint": 57952,
+      "codepoint": 57688,
       "fontFamily": "Majesticons",
       "identifier": "megaphone"
     },
-    "megaphone-line": {
-      "codepoint": 57953,
-      "fontFamily": "Majesticons",
-      "identifier": "megaphoneLine"
-    },
     "menu": {
-      "codepoint": 57954,
+      "codepoint": 57689,
       "fontFamily": "Majesticons",
       "identifier": "menu"
     },
     "menu-alt": {
-      "codepoint": 57955,
+      "codepoint": 57690,
       "fontFamily": "Majesticons",
       "identifier": "menuAlt"
     },
     "menu-alt-line": {
-      "codepoint": 57956,
+      "codepoint": 57691,
       "fontFamily": "Majesticons",
       "identifier": "menuAltLine"
     },
     "menu-expand-left": {
-      "codepoint": 57957,
+      "codepoint": 57692,
       "fontFamily": "Majesticons",
       "identifier": "menuExpandLeft"
     },
     "menu-expand-left-line": {
-      "codepoint": 57958,
+      "codepoint": 57693,
       "fontFamily": "Majesticons",
       "identifier": "menuExpandLeftLine"
     },
     "menu-expand-right": {
-      "codepoint": 57959,
+      "codepoint": 57694,
       "fontFamily": "Majesticons",
       "identifier": "menuExpandRight"
     },
     "menu-expand-right-line": {
-      "codepoint": 57960,
+      "codepoint": 57695,
       "fontFamily": "Majesticons",
       "identifier": "menuExpandRightLine"
     },
     "menu-line": {
-      "codepoint": 57961,
+      "codepoint": 57696,
       "fontFamily": "Majesticons",
       "identifier": "menuLine"
     },
-    "message": {
-      "codepoint": 57962,
-      "fontFamily": "Majesticons",
-      "identifier": "message"
-    },
-    "message-line": {
-      "codepoint": 57963,
-      "fontFamily": "Majesticons",
-      "identifier": "messageLine"
-    },
-    "messages": {
-      "codepoint": 57964,
-      "fontFamily": "Majesticons",
-      "identifier": "messages"
-    },
-    "messages-line": {
-      "codepoint": 57965,
-      "fontFamily": "Majesticons",
-      "identifier": "messagesLine"
-    },
     "microphone": {
-      "codepoint": 57966,
+      "codepoint": 57697,
       "fontFamily": "Majesticons",
       "identifier": "microphone"
     },
     "microphone-line": {
-      "codepoint": 57967,
+      "codepoint": 57698,
       "fontFamily": "Majesticons",
       "identifier": "microphoneLine"
     },
     "minimize": {
-      "codepoint": 57968,
+      "codepoint": 57699,
       "fontFamily": "Majesticons",
       "identifier": "minimize"
     },
     "minimize-line": {
-      "codepoint": 57969,
+      "codepoint": 57700,
       "fontFamily": "Majesticons",
       "identifier": "minimizeLine"
     },
     "minus": {
-      "codepoint": 57970,
+      "codepoint": 57701,
       "fontFamily": "Majesticons",
       "identifier": "minus"
     },
     "minus-circle": {
-      "codepoint": 57971,
+      "codepoint": 57702,
       "fontFamily": "Majesticons",
       "identifier": "minusCircle"
     },
     "minus-circle-line": {
-      "codepoint": 57972,
+      "codepoint": 57703,
       "fontFamily": "Majesticons",
       "identifier": "minusCircleLine"
     },
     "minus-five-circle": {
-      "codepoint": 57973,
+      "codepoint": 57704,
       "fontFamily": "Majesticons",
       "identifier": "minusFiveCircle"
     },
     "minus-five-circle-line": {
-      "codepoint": 57974,
+      "codepoint": 57705,
       "fontFamily": "Majesticons",
       "identifier": "minusFiveCircleLine"
     },
     "minus-line": {
-      "codepoint": 57975,
+      "codepoint": 57706,
       "fontFamily": "Majesticons",
       "identifier": "minusLine"
     },
     "minus-ten-circle": {
-      "codepoint": 57976,
+      "codepoint": 57707,
       "fontFamily": "Majesticons",
       "identifier": "minusTenCircle"
     },
     "minus-ten-circle-line": {
-      "codepoint": 57977,
+      "codepoint": 57708,
       "fontFamily": "Majesticons",
       "identifier": "minusTenCircleLine"
     },
     "money": {
-      "codepoint": 57978,
+      "codepoint": 57709,
       "fontFamily": "Majesticons",
       "identifier": "money"
     },
-    "money-hand": {
-      "codepoint": 57979,
-      "fontFamily": "Majesticons",
-      "identifier": "moneyHand"
-    },
-    "money-hand-line": {
-      "codepoint": 57980,
-      "fontFamily": "Majesticons",
-      "identifier": "moneyHandLine"
-    },
     "money-line": {
-      "codepoint": 57981,
+      "codepoint": 57710,
       "fontFamily": "Majesticons",
       "identifier": "moneyLine"
     },
-    "money-minus": {
-      "codepoint": 57982,
-      "fontFamily": "Majesticons",
-      "identifier": "moneyMinus"
-    },
     "money-minus-line": {
-      "codepoint": 57983,
+      "codepoint": 57711,
       "fontFamily": "Majesticons",
       "identifier": "moneyMinusLine"
     },
-    "money-plus": {
-      "codepoint": 57984,
-      "fontFamily": "Majesticons",
-      "identifier": "moneyPlus"
-    },
     "money-plus-line": {
-      "codepoint": 57985,
+      "codepoint": 57712,
       "fontFamily": "Majesticons",
       "identifier": "moneyPlusLine"
     },
     "monitor": {
-      "codepoint": 57986,
+      "codepoint": 57713,
       "fontFamily": "Majesticons",
       "identifier": "monitor"
     },
     "monitor-line": {
-      "codepoint": 57987,
+      "codepoint": 57714,
       "fontFamily": "Majesticons",
       "identifier": "monitorLine"
     },
     "moon": {
-      "codepoint": 57988,
+      "codepoint": 57715,
       "fontFamily": "Majesticons",
       "identifier": "moon"
     },
     "moon-line": {
-      "codepoint": 57989,
+      "codepoint": 57716,
       "fontFamily": "Majesticons",
       "identifier": "moonLine"
     },
     "more-menu": {
-      "codepoint": 57990,
+      "codepoint": 57717,
       "fontFamily": "Majesticons",
       "identifier": "moreMenu"
     },
     "more-menu-line": {
-      "codepoint": 57991,
+      "codepoint": 57718,
       "fontFamily": "Majesticons",
       "identifier": "moreMenuLine"
     },
     "more-menu-vertical": {
-      "codepoint": 57992,
+      "codepoint": 57719,
       "fontFamily": "Majesticons",
       "identifier": "moreMenuVertical"
     },
     "more-menu-vertical-line": {
-      "codepoint": 57993,
+      "codepoint": 57720,
       "fontFamily": "Majesticons",
       "identifier": "moreMenuVerticalLine"
     },
     "mouse": {
-      "codepoint": 57994,
+      "codepoint": 57721,
       "fontFamily": "Majesticons",
       "identifier": "mouse"
     },
     "mouse-line": {
-      "codepoint": 57995,
+      "codepoint": 57722,
       "fontFamily": "Majesticons",
       "identifier": "mouseLine"
     },
     "multiply": {
-      "codepoint": 57996,
+      "codepoint": 57723,
       "fontFamily": "Majesticons",
       "identifier": "multiply"
     },
     "multiply-line": {
-      "codepoint": 57997,
+      "codepoint": 57724,
       "fontFamily": "Majesticons",
       "identifier": "multiplyLine"
     },
     "music": {
-      "codepoint": 57998,
+      "codepoint": 57725,
       "fontFamily": "Majesticons",
       "identifier": "music"
     },
     "music-line": {
-      "codepoint": 57999,
+      "codepoint": 57726,
       "fontFamily": "Majesticons",
       "identifier": "musicLine"
     },
     "music-note": {
-      "codepoint": 58000,
+      "codepoint": 57727,
       "fontFamily": "Majesticons",
       "identifier": "musicNote"
     },
     "music-note-line": {
-      "codepoint": 58001,
+      "codepoint": 57728,
       "fontFamily": "Majesticons",
       "identifier": "musicNoteLine"
     },
-    "newspaper": {
-      "codepoint": 58002,
-      "fontFamily": "Majesticons",
-      "identifier": "newspaper"
-    },
     "newspaper-line": {
-      "codepoint": 58003,
+      "codepoint": 57729,
       "fontFamily": "Majesticons",
       "identifier": "newspaperLine"
     },
-    "next-circle": {
-      "codepoint": 58004,
-      "fontFamily": "Majesticons",
-      "identifier": "nextCircle"
-    },
     "next-circle-line": {
-      "codepoint": 58005,
+      "codepoint": 57730,
       "fontFamily": "Majesticons",
       "identifier": "nextCircleLine"
     },
-    "note-text": {
-      "codepoint": 58006,
-      "fontFamily": "Majesticons",
-      "identifier": "noteText"
-    },
-    "note-text-line": {
-      "codepoint": 58007,
-      "fontFamily": "Majesticons",
-      "identifier": "noteTextLine"
-    },
-    "note-text-minus": {
-      "codepoint": 58008,
-      "fontFamily": "Majesticons",
-      "identifier": "noteTextMinus"
-    },
-    "note-text-minus-line": {
-      "codepoint": 58009,
-      "fontFamily": "Majesticons",
-      "identifier": "noteTextMinusLine"
-    },
-    "note-text-plus": {
-      "codepoint": 58010,
-      "fontFamily": "Majesticons",
-      "identifier": "noteTextPlus"
-    },
-    "note-text-plus-line": {
-      "codepoint": 58011,
-      "fontFamily": "Majesticons",
-      "identifier": "noteTextPlusLine"
-    },
     "noteblock": {
-      "codepoint": 58012,
+      "codepoint": 57731,
       "fontFamily": "Majesticons",
       "identifier": "noteblock"
     },
     "noteblock-line": {
-      "codepoint": 58013,
+      "codepoint": 57732,
       "fontFamily": "Majesticons",
       "identifier": "noteblockLine"
     },
     "noteblock-text": {
-      "codepoint": 58014,
+      "codepoint": 57733,
       "fontFamily": "Majesticons",
       "identifier": "noteblockText"
     },
     "noteblock-text-line": {
-      "codepoint": 58015,
+      "codepoint": 57734,
       "fontFamily": "Majesticons",
       "identifier": "noteblockTextLine"
     },
     "open": {
-      "codepoint": 58016,
+      "codepoint": 57735,
       "fontFamily": "Majesticons",
       "identifier": "open"
     },
     "open-line": {
-      "codepoint": 58017,
+      "codepoint": 57736,
       "fontFamily": "Majesticons",
       "identifier": "openLine"
     },
-    "paper-airplane": {
-      "codepoint": 58018,
-      "fontFamily": "Majesticons",
-      "identifier": "paperAirplane"
-    },
-    "paper-airplane-line": {
-      "codepoint": 58019,
-      "fontFamily": "Majesticons",
-      "identifier": "paperAirplaneLine"
-    },
     "paper-clip": {
-      "codepoint": 58020,
+      "codepoint": 57737,
       "fontFamily": "Majesticons",
       "identifier": "paperClip"
     },
     "paper-clip-line": {
-      "codepoint": 58021,
+      "codepoint": 57738,
       "fontFamily": "Majesticons",
       "identifier": "paperClipLine"
     },
     "paper-fold": {
-      "codepoint": 58022,
+      "codepoint": 57739,
       "fontFamily": "Majesticons",
       "identifier": "paperFold"
     },
     "paper-fold-line": {
-      "codepoint": 58023,
+      "codepoint": 57740,
       "fontFamily": "Majesticons",
       "identifier": "paperFoldLine"
     },
     "paper-fold-text": {
-      "codepoint": 58024,
+      "codepoint": 57741,
       "fontFamily": "Majesticons",
       "identifier": "paperFoldText"
     },
     "paper-fold-text-line": {
-      "codepoint": 58025,
+      "codepoint": 57742,
       "fontFamily": "Majesticons",
       "identifier": "paperFoldTextLine"
     },
-    "paper-roll-2": {
-      "codepoint": 58026,
-      "fontFamily": "Majesticons",
-      "identifier": "paperRoll2"
-    },
     "paper-roll-2-line": {
-      "codepoint": 58027,
+      "codepoint": 57743,
       "fontFamily": "Majesticons",
       "identifier": "paperRoll2Line"
     },
     "paragraph": {
-      "codepoint": 58028,
+      "codepoint": 57744,
       "fontFamily": "Majesticons",
       "identifier": "paragraph"
     },
     "paragraph-line": {
-      "codepoint": 58029,
+      "codepoint": 57745,
       "fontFamily": "Majesticons",
       "identifier": "paragraphLine"
     },
     "pause": {
-      "codepoint": 58030,
+      "codepoint": 57746,
       "fontFamily": "Majesticons",
       "identifier": "pause"
     },
     "pause-circle": {
-      "codepoint": 58031,
+      "codepoint": 57747,
       "fontFamily": "Majesticons",
       "identifier": "pauseCircle"
     },
     "pause-circle-line": {
-      "codepoint": 58032,
+      "codepoint": 57748,
       "fontFamily": "Majesticons",
       "identifier": "pauseCircleLine"
     },
     "pause-line": {
-      "codepoint": 58033,
+      "codepoint": 57749,
       "fontFamily": "Majesticons",
       "identifier": "pauseLine"
     },
     "pencil": {
-      "codepoint": 58034,
+      "codepoint": 57750,
       "fontFamily": "Majesticons",
       "identifier": "pencil"
     },
     "pencil-alt": {
-      "codepoint": 58035,
+      "codepoint": 57751,
       "fontFamily": "Majesticons",
       "identifier": "pencilAlt"
     },
-    "pencil-alt-line": {
-      "codepoint": 58036,
-      "fontFamily": "Majesticons",
-      "identifier": "pencilAltLine"
-    },
-    "pencil-line": {
-      "codepoint": 58037,
-      "fontFamily": "Majesticons",
-      "identifier": "pencilLine"
-    },
     "percent": {
-      "codepoint": 58038,
+      "codepoint": 57752,
       "fontFamily": "Majesticons",
       "identifier": "percent"
     },
     "percent-line": {
-      "codepoint": 58039,
+      "codepoint": 57753,
       "fontFamily": "Majesticons",
       "identifier": "percentLine"
     },
-    "phone": {
-      "codepoint": 58040,
-      "fontFamily": "Majesticons",
-      "identifier": "phone"
-    },
-    "phone-dial": {
-      "codepoint": 58041,
-      "fontFamily": "Majesticons",
-      "identifier": "phoneDial"
-    },
     "phone-dial-line": {
-      "codepoint": 58042,
+      "codepoint": 57754,
       "fontFamily": "Majesticons",
       "identifier": "phoneDialLine"
     },
-    "phone-hangup": {
-      "codepoint": 58043,
-      "fontFamily": "Majesticons",
-      "identifier": "phoneHangup"
-    },
-    "phone-hangup-line": {
-      "codepoint": 58044,
-      "fontFamily": "Majesticons",
-      "identifier": "phoneHangupLine"
-    },
-    "phone-incoming": {
-      "codepoint": 58045,
-      "fontFamily": "Majesticons",
-      "identifier": "phoneIncoming"
-    },
     "phone-incoming-line": {
-      "codepoint": 58046,
+      "codepoint": 57755,
       "fontFamily": "Majesticons",
       "identifier": "phoneIncomingLine"
     },
     "phone-line": {
-      "codepoint": 58047,
+      "codepoint": 57756,
       "fontFamily": "Majesticons",
       "identifier": "phoneLine"
     },
-    "phone-missed-call": {
-      "codepoint": 58048,
-      "fontFamily": "Majesticons",
-      "identifier": "phoneMissedCall"
-    },
-    "phone-missed-call-line": {
-      "codepoint": 58049,
-      "fontFamily": "Majesticons",
-      "identifier": "phoneMissedCallLine"
-    },
-    "phone-outgoing": {
-      "codepoint": 58050,
-      "fontFamily": "Majesticons",
-      "identifier": "phoneOutgoing"
-    },
     "phone-outgoing-line": {
-      "codepoint": 58051,
+      "codepoint": 57757,
       "fontFamily": "Majesticons",
       "identifier": "phoneOutgoingLine"
     },
-    "phone-retro": {
-      "codepoint": 58052,
-      "fontFamily": "Majesticons",
-      "identifier": "phoneRetro"
-    },
-    "phone-retro-line": {
-      "codepoint": 58053,
-      "fontFamily": "Majesticons",
-      "identifier": "phoneRetroLine"
-    },
-    "phone-ring": {
-      "codepoint": 58054,
-      "fontFamily": "Majesticons",
-      "identifier": "phoneRing"
-    },
-    "phone-ring-line": {
-      "codepoint": 58055,
-      "fontFamily": "Majesticons",
-      "identifier": "phoneRingLine"
-    },
     "pill": {
-      "codepoint": 58056,
+      "codepoint": 57758,
       "fontFamily": "Majesticons",
       "identifier": "pill"
     },
     "pill-line": {
-      "codepoint": 58057,
+      "codepoint": 57759,
       "fontFamily": "Majesticons",
       "identifier": "pillLine"
     },
-    "pin": {
-      "codepoint": 58058,
-      "fontFamily": "Majesticons",
-      "identifier": "pin"
-    },
-    "pin-line": {
-      "codepoint": 58059,
-      "fontFamily": "Majesticons",
-      "identifier": "pinLine"
-    },
     "pinwheel": {
-      "codepoint": 58060,
+      "codepoint": 57760,
       "fontFamily": "Majesticons",
       "identifier": "pinwheel"
     },
     "pinwheel-line": {
-      "codepoint": 58061,
+      "codepoint": 57761,
       "fontFamily": "Majesticons",
       "identifier": "pinwheelLine"
     },
     "planet": {
-      "codepoint": 58062,
+      "codepoint": 57762,
       "fontFamily": "Majesticons",
       "identifier": "planet"
     },
-    "planet-line": {
-      "codepoint": 58063,
-      "fontFamily": "Majesticons",
-      "identifier": "planetLine"
-    },
-    "planet-ring-2": {
-      "codepoint": 58064,
-      "fontFamily": "Majesticons",
-      "identifier": "planetRing2"
-    },
-    "planet-ring-2-line": {
-      "codepoint": 58065,
-      "fontFamily": "Majesticons",
-      "identifier": "planetRing2Line"
-    },
-    "planet-rocket": {
-      "codepoint": 58066,
-      "fontFamily": "Majesticons",
-      "identifier": "planetRocket"
-    },
-    "planet-rocket-line": {
-      "codepoint": 58067,
-      "fontFamily": "Majesticons",
-      "identifier": "planetRocketLine"
-    },
-    "play-circle": {
-      "codepoint": 58068,
-      "fontFamily": "Majesticons",
-      "identifier": "playCircle"
-    },
     "play-circle-line": {
-      "codepoint": 58069,
+      "codepoint": 57763,
       "fontFamily": "Majesticons",
       "identifier": "playCircleLine"
     },
     "playlist": {
-      "codepoint": 58070,
+      "codepoint": 57764,
       "fontFamily": "Majesticons",
       "identifier": "playlist"
     },
     "playlist-line": {
-      "codepoint": 58071,
+      "codepoint": 57765,
       "fontFamily": "Majesticons",
       "identifier": "playlistLine"
     },
     "plus": {
-      "codepoint": 58072,
+      "codepoint": 57766,
       "fontFamily": "Majesticons",
       "identifier": "plus"
     },
     "plus-circle": {
-      "codepoint": 58073,
+      "codepoint": 57767,
       "fontFamily": "Majesticons",
       "identifier": "plusCircle"
     },
     "plus-circle-line": {
-      "codepoint": 58074,
+      "codepoint": 57768,
       "fontFamily": "Majesticons",
       "identifier": "plusCircleLine"
     },
     "plus-five-circle": {
-      "codepoint": 58075,
+      "codepoint": 57769,
       "fontFamily": "Majesticons",
       "identifier": "plusFiveCircle"
     },
     "plus-five-circle-line": {
-      "codepoint": 58076,
+      "codepoint": 57770,
       "fontFamily": "Majesticons",
       "identifier": "plusFiveCircleLine"
     },
     "plus-line": {
-      "codepoint": 58077,
+      "codepoint": 57771,
       "fontFamily": "Majesticons",
       "identifier": "plusLine"
     },
     "plus-minus": {
-      "codepoint": 58078,
+      "codepoint": 57772,
       "fontFamily": "Majesticons",
       "identifier": "plusMinus"
     },
     "plus-minus-2": {
-      "codepoint": 58079,
+      "codepoint": 57773,
       "fontFamily": "Majesticons",
       "identifier": "plusMinus2"
     },
     "plus-minus-2-line": {
-      "codepoint": 58080,
+      "codepoint": 57774,
       "fontFamily": "Majesticons",
       "identifier": "plusMinus2Line"
     },
     "plus-minus-line": {
-      "codepoint": 58081,
+      "codepoint": 57775,
       "fontFamily": "Majesticons",
       "identifier": "plusMinusLine"
     },
     "plus-ten-circle": {
-      "codepoint": 58082,
+      "codepoint": 57776,
       "fontFamily": "Majesticons",
       "identifier": "plusTenCircle"
     },
     "plus-ten-circle-line": {
-      "codepoint": 58083,
+      "codepoint": 57777,
       "fontFamily": "Majesticons",
       "identifier": "plusTenCircleLine"
     },
-    "pound-circle": {
-      "codepoint": 58084,
-      "fontFamily": "Majesticons",
-      "identifier": "poundCircle"
-    },
-    "pound-circle-line": {
-      "codepoint": 58085,
-      "fontFamily": "Majesticons",
-      "identifier": "poundCircleLine"
-    },
-    "presentation": {
-      "codepoint": 58086,
-      "fontFamily": "Majesticons",
-      "identifier": "presentation"
-    },
-    "presentation-chart": {
-      "codepoint": 58087,
-      "fontFamily": "Majesticons",
-      "identifier": "presentationChart"
-    },
     "presentation-chart-line": {
-      "codepoint": 58088,
+      "codepoint": 57778,
       "fontFamily": "Majesticons",
       "identifier": "presentationChartLine"
     },
     "presentation-line": {
-      "codepoint": 58089,
+      "codepoint": 57779,
       "fontFamily": "Majesticons",
       "identifier": "presentationLine"
     },
-    "presentation-line-line": {
-      "codepoint": 58090,
-      "fontFamily": "Majesticons",
-      "identifier": "presentationLineLine"
-    },
-    "presentation-play": {
-      "codepoint": 58091,
-      "fontFamily": "Majesticons",
-      "identifier": "presentationPlay"
-    },
     "presentation-play-line": {
-      "codepoint": 58092,
+      "codepoint": 57780,
       "fontFamily": "Majesticons",
       "identifier": "presentationPlayLine"
     },
     "presentation-report": {
-      "codepoint": 58093,
+      "codepoint": 57781,
       "fontFamily": "Majesticons",
       "identifier": "presentationReport"
     },
     "presentation-report-line": {
-      "codepoint": 58094,
+      "codepoint": 57782,
       "fontFamily": "Majesticons",
       "identifier": "presentationReportLine"
     },
     "printer": {
-      "codepoint": 58095,
+      "codepoint": 57783,
       "fontFamily": "Majesticons",
       "identifier": "printer"
     },
     "printer-line": {
-      "codepoint": 58096,
+      "codepoint": 57784,
       "fontFamily": "Majesticons",
       "identifier": "printerLine"
     },
     "pulse": {
-      "codepoint": 58097,
+      "codepoint": 57785,
       "fontFamily": "Majesticons",
       "identifier": "pulse"
     },
     "pulse-line": {
-      "codepoint": 58098,
+      "codepoint": 57786,
       "fontFamily": "Majesticons",
       "identifier": "pulseLine"
     },
-    "puzzle": {
-      "codepoint": 58099,
-      "fontFamily": "Majesticons",
-      "identifier": "puzzle"
-    },
-    "puzzle-line": {
-      "codepoint": 58100,
-      "fontFamily": "Majesticons",
-      "identifier": "puzzleLine"
-    },
-    "qr-code": {
-      "codepoint": 58101,
-      "fontFamily": "Majesticons",
-      "identifier": "qrCode"
-    },
     "qr-code-line": {
-      "codepoint": 58102,
+      "codepoint": 57787,
       "fontFamily": "Majesticons",
       "identifier": "qrCodeLine"
     },
     "qrcode": {
-      "codepoint": 58103,
+      "codepoint": 57788,
       "fontFamily": "Majesticons",
       "identifier": "qrcode"
     },
     "qrcode-line": {
-      "codepoint": 58104,
+      "codepoint": 57789,
       "fontFamily": "Majesticons",
       "identifier": "qrcodeLine"
     },
-    "question-circle": {
-      "codepoint": 58105,
-      "fontFamily": "Majesticons",
-      "identifier": "questionCircle"
-    },
     "question-circle-line": {
-      "codepoint": 58106,
+      "codepoint": 57790,
       "fontFamily": "Majesticons",
       "identifier": "questionCircleLine"
     },
-    "question-mark-circle": {
-      "codepoint": 58107,
-      "fontFamily": "Majesticons",
-      "identifier": "questionMarkCircle"
-    },
-    "question-mark-circle-line": {
-      "codepoint": 58108,
-      "fontFamily": "Majesticons",
-      "identifier": "questionMarkCircleLine"
-    },
     "radio-list": {
-      "codepoint": 58109,
+      "codepoint": 57791,
       "fontFamily": "Majesticons",
       "identifier": "radioList"
     },
     "radio-list-line": {
-      "codepoint": 58110,
+      "codepoint": 57792,
       "fontFamily": "Majesticons",
       "identifier": "radioListLine"
     },
-    "receipt": {
-      "codepoint": 58111,
-      "fontFamily": "Majesticons",
-      "identifier": "receipt"
-    },
-    "receipt-line": {
-      "codepoint": 58112,
-      "fontFamily": "Majesticons",
-      "identifier": "receiptLine"
-    },
-    "receipt-refund": {
-      "codepoint": 58113,
-      "fontFamily": "Majesticons",
-      "identifier": "receiptRefund"
-    },
-    "receipt-refund-line": {
-      "codepoint": 58114,
-      "fontFamily": "Majesticons",
-      "identifier": "receiptRefundLine"
-    },
     "receipt-text": {
-      "codepoint": 58115,
+      "codepoint": 57793,
       "fontFamily": "Majesticons",
       "identifier": "receiptText"
     },
     "receipt-text-line": {
-      "codepoint": 58116,
+      "codepoint": 57794,
       "fontFamily": "Majesticons",
       "identifier": "receiptTextLine"
     },
-    "redo": {
-      "codepoint": 58117,
-      "fontFamily": "Majesticons",
-      "identifier": "redo"
-    },
-    "redo-line": {
-      "codepoint": 58118,
-      "fontFamily": "Majesticons",
-      "identifier": "redoLine"
-    },
-    "refresh": {
-      "codepoint": 58119,
-      "fontFamily": "Majesticons",
-      "identifier": "refresh"
-    },
     "refresh-line": {
-      "codepoint": 58120,
+      "codepoint": 57795,
       "fontFamily": "Majesticons",
       "identifier": "refreshLine"
     },
     "reload": {
-      "codepoint": 58121,
+      "codepoint": 57796,
       "fontFamily": "Majesticons",
       "identifier": "reload"
     },
-    "reload-circle": {
-      "codepoint": 58122,
-      "fontFamily": "Majesticons",
-      "identifier": "reloadCircle"
-    },
-    "reload-circle-line": {
-      "codepoint": 58123,
-      "fontFamily": "Majesticons",
-      "identifier": "reloadCircleLine"
-    },
     "reload-line": {
-      "codepoint": 58124,
+      "codepoint": 57797,
       "fontFamily": "Majesticons",
       "identifier": "reloadLine"
     },
     "remove-column": {
-      "codepoint": 58125,
+      "codepoint": 57798,
       "fontFamily": "Majesticons",
       "identifier": "removeColumn"
     },
     "remove-column-line": {
-      "codepoint": 58126,
+      "codepoint": 57799,
       "fontFamily": "Majesticons",
       "identifier": "removeColumnLine"
     },
-    "remove-format": {
-      "codepoint": 58127,
-      "fontFamily": "Majesticons",
-      "identifier": "removeFormat"
-    },
-    "remove-format-line": {
-      "codepoint": 58128,
-      "fontFamily": "Majesticons",
-      "identifier": "removeFormatLine"
-    },
     "remove-row": {
-      "codepoint": 58129,
+      "codepoint": 57800,
       "fontFamily": "Majesticons",
       "identifier": "removeRow"
     },
     "remove-row-line": {
-      "codepoint": 58130,
+      "codepoint": 57801,
       "fontFamily": "Majesticons",
       "identifier": "removeRowLine"
     },
-    "repeat-circle": {
-      "codepoint": 58131,
-      "fontFamily": "Majesticons",
-      "identifier": "repeatCircle"
-    },
     "repeat-circle-line": {
-      "codepoint": 58132,
+      "codepoint": 57802,
       "fontFamily": "Majesticons",
       "identifier": "repeatCircleLine"
     },
-    "reply": {
-      "codepoint": 58133,
-      "fontFamily": "Majesticons",
-      "identifier": "reply"
-    },
-    "reply-all": {
-      "codepoint": 58134,
-      "fontFamily": "Majesticons",
-      "identifier": "replyAll"
-    },
-    "reply-all-line": {
-      "codepoint": 58135,
-      "fontFamily": "Majesticons",
-      "identifier": "replyAllLine"
-    },
-    "reply-line": {
-      "codepoint": 58136,
-      "fontFamily": "Majesticons",
-      "identifier": "replyLine"
-    },
     "restricted": {
-      "codepoint": 58137,
+      "codepoint": 57803,
       "fontFamily": "Majesticons",
       "identifier": "restricted"
     },
     "restricted-line": {
-      "codepoint": 58138,
+      "codepoint": 57804,
       "fontFamily": "Majesticons",
       "identifier": "restrictedLine"
     },
-    "rewind": {
-      "codepoint": 58139,
-      "fontFamily": "Majesticons",
-      "identifier": "rewind"
-    },
-    "rewind-line": {
-      "codepoint": 58140,
-      "fontFamily": "Majesticons",
-      "identifier": "rewindLine"
-    },
-    "robot": {
-      "codepoint": 58141,
-      "fontFamily": "Majesticons",
-      "identifier": "robot"
-    },
     "robot-line": {
-      "codepoint": 58142,
+      "codepoint": 57805,
       "fontFamily": "Majesticons",
       "identifier": "robotLine"
     },
-    "rocket-3-start": {
-      "codepoint": 58143,
-      "fontFamily": "Majesticons",
-      "identifier": "rocket3Start"
-    },
-    "rocket-3-start-line": {
-      "codepoint": 58144,
-      "fontFamily": "Majesticons",
-      "identifier": "rocket3StartLine"
-    },
-    "rss": {
-      "codepoint": 58145,
-      "fontFamily": "Majesticons",
-      "identifier": "rss"
-    },
-    "rss-line": {
-      "codepoint": 58146,
-      "fontFamily": "Majesticons",
-      "identifier": "rssLine"
-    },
     "rubel-circle": {
-      "codepoint": 58147,
+      "codepoint": 57806,
       "fontFamily": "Majesticons",
       "identifier": "rubelCircle"
     },
     "rubel-circle-line": {
-      "codepoint": 58148,
+      "codepoint": 57807,
       "fontFamily": "Majesticons",
       "identifier": "rubelCircleLine"
     },
     "ruler-2": {
-      "codepoint": 58149,
+      "codepoint": 57808,
       "fontFamily": "Majesticons",
       "identifier": "ruler2"
     },
     "ruler-2-line": {
-      "codepoint": 58150,
+      "codepoint": 57809,
       "fontFamily": "Majesticons",
       "identifier": "ruler2Line"
     },
-    "rupee-circle": {
-      "codepoint": 58151,
-      "fontFamily": "Majesticons",
-      "identifier": "rupeeCircle"
-    },
     "rupee-circle-line": {
-      "codepoint": 58152,
+      "codepoint": 57810,
       "fontFamily": "Majesticons",
       "identifier": "rupeeCircleLine"
     },
-    "save": {
-      "codepoint": 58153,
-      "fontFamily": "Majesticons",
-      "identifier": "save"
-    },
     "save-alt": {
-      "codepoint": 58154,
+      "codepoint": 57811,
       "fontFamily": "Majesticons",
       "identifier": "saveAlt"
     },
     "save-alt-line": {
-      "codepoint": 58155,
+      "codepoint": 57812,
       "fontFamily": "Majesticons",
       "identifier": "saveAltLine"
     },
     "save-as": {
-      "codepoint": 58156,
+      "codepoint": 57813,
       "fontFamily": "Majesticons",
       "identifier": "saveAs"
     },
     "save-as-line": {
-      "codepoint": 58157,
+      "codepoint": 57814,
       "fontFamily": "Majesticons",
       "identifier": "saveAsLine"
     },
-    "save-line": {
-      "codepoint": 58158,
-      "fontFamily": "Majesticons",
-      "identifier": "saveLine"
-    },
     "scale-light": {
-      "codepoint": 58159,
+      "codepoint": 57815,
       "fontFamily": "Majesticons",
       "identifier": "scaleLight"
     },
     "scale-light-line": {
-      "codepoint": 58160,
+      "codepoint": 57816,
       "fontFamily": "Majesticons",
       "identifier": "scaleLightLine"
     },
     "scan-fingerprint": {
-      "codepoint": 58161,
+      "codepoint": 57817,
       "fontFamily": "Majesticons",
       "identifier": "scanFingerprint"
     },
     "scan-fingerprint-line": {
-      "codepoint": 58162,
+      "codepoint": 57818,
       "fontFamily": "Majesticons",
       "identifier": "scanFingerprintLine"
     },
     "scan-user": {
-      "codepoint": 58163,
+      "codepoint": 57819,
       "fontFamily": "Majesticons",
       "identifier": "scanUser"
     },
     "scan-user-line": {
-      "codepoint": 58164,
+      "codepoint": 57820,
       "fontFamily": "Majesticons",
       "identifier": "scanUserLine"
     },
-    "scanner": {
-      "codepoint": 58165,
-      "fontFamily": "Majesticons",
-      "identifier": "scanner"
-    },
-    "scanner-line": {
-      "codepoint": 58166,
-      "fontFamily": "Majesticons",
-      "identifier": "scannerLine"
-    },
     "scissors": {
-      "codepoint": 58167,
+      "codepoint": 57821,
       "fontFamily": "Majesticons",
       "identifier": "scissors"
     },
     "scissors-line": {
-      "codepoint": 58168,
+      "codepoint": 57822,
       "fontFamily": "Majesticons",
       "identifier": "scissorsLine"
     },
-    "scooter": {
-      "codepoint": 58169,
-      "fontFamily": "Majesticons",
-      "identifier": "scooter"
-    },
-    "scooter-line": {
-      "codepoint": 58170,
-      "fontFamily": "Majesticons",
-      "identifier": "scooterLine"
-    },
     "script-prescription": {
-      "codepoint": 58171,
+      "codepoint": 57823,
       "fontFamily": "Majesticons",
       "identifier": "scriptPrescription"
     },
     "script-prescription-line": {
-      "codepoint": 58172,
+      "codepoint": 57824,
       "fontFamily": "Majesticons",
       "identifier": "scriptPrescriptionLine"
     },
     "scroll": {
-      "codepoint": 58173,
+      "codepoint": 57825,
       "fontFamily": "Majesticons",
       "identifier": "scroll"
     },
     "scroll-line": {
-      "codepoint": 58174,
+      "codepoint": 57826,
       "fontFamily": "Majesticons",
       "identifier": "scrollLine"
     },
     "scroll-text": {
-      "codepoint": 58175,
+      "codepoint": 57827,
       "fontFamily": "Majesticons",
       "identifier": "scrollText"
     },
     "scroll-text-line": {
-      "codepoint": 58176,
+      "codepoint": 57828,
       "fontFamily": "Majesticons",
       "identifier": "scrollTextLine"
     },
     "search": {
-      "codepoint": 58177,
+      "codepoint": 57829,
       "fontFamily": "Majesticons",
       "identifier": "search"
     },
     "search-circle": {
-      "codepoint": 58178,
+      "codepoint": 57830,
       "fontFamily": "Majesticons",
       "identifier": "searchCircle"
     },
     "search-circle-line": {
-      "codepoint": 58179,
+      "codepoint": 57831,
       "fontFamily": "Majesticons",
       "identifier": "searchCircleLine"
     },
     "search-line": {
-      "codepoint": 58180,
+      "codepoint": 57832,
       "fontFamily": "Majesticons",
       "identifier": "searchLine"
     },
     "search-minus": {
-      "codepoint": 58181,
+      "codepoint": 57833,
       "fontFamily": "Majesticons",
       "identifier": "searchMinus"
     },
     "search-minus-line": {
-      "codepoint": 58182,
+      "codepoint": 57834,
       "fontFamily": "Majesticons",
       "identifier": "searchMinusLine"
     },
     "search-plus": {
-      "codepoint": 58183,
+      "codepoint": 57835,
       "fontFamily": "Majesticons",
       "identifier": "searchPlus"
     },
     "search-plus-line": {
-      "codepoint": 58184,
+      "codepoint": 57836,
       "fontFamily": "Majesticons",
       "identifier": "searchPlusLine"
     },
     "search-text": {
-      "codepoint": 58185,
+      "codepoint": 57837,
       "fontFamily": "Majesticons",
       "identifier": "searchText"
     },
     "search-text-line": {
-      "codepoint": 58186,
+      "codepoint": 57838,
       "fontFamily": "Majesticons",
       "identifier": "searchTextLine"
     },
-    "selector": {
-      "codepoint": 58187,
-      "fontFamily": "Majesticons",
-      "identifier": "selector"
-    },
     "selector-line": {
-      "codepoint": 58188,
+      "codepoint": 57839,
       "fontFamily": "Majesticons",
       "identifier": "selectorLine"
     },
-    "send": {
-      "codepoint": 58189,
-      "fontFamily": "Majesticons",
-      "identifier": "send"
-    },
     "send-line": {
-      "codepoint": 58190,
+      "codepoint": 57840,
       "fontFamily": "Majesticons",
       "identifier": "sendLine"
     },
     "server": {
-      "codepoint": 58191,
+      "codepoint": 57841,
       "fontFamily": "Majesticons",
       "identifier": "server"
     },
     "server-line": {
-      "codepoint": 58192,
+      "codepoint": 57842,
       "fontFamily": "Majesticons",
       "identifier": "serverLine"
     },
-    "settings-cog": {
-      "codepoint": 58193,
-      "fontFamily": "Majesticons",
-      "identifier": "settingsCog"
-    },
-    "settings-cog-check": {
-      "codepoint": 58194,
-      "fontFamily": "Majesticons",
-      "identifier": "settingsCogCheck"
-    },
-    "settings-cog-check-line": {
-      "codepoint": 58195,
-      "fontFamily": "Majesticons",
-      "identifier": "settingsCogCheckLine"
-    },
-    "settings-cog-line": {
-      "codepoint": 58196,
-      "fontFamily": "Majesticons",
-      "identifier": "settingsCogLine"
-    },
-    "settings-cog-plus": {
-      "codepoint": 58197,
-      "fontFamily": "Majesticons",
-      "identifier": "settingsCogPlus"
-    },
-    "settings-cog-plus-line": {
-      "codepoint": 58198,
-      "fontFamily": "Majesticons",
-      "identifier": "settingsCogPlusLine"
-    },
     "share": {
-      "codepoint": 58199,
+      "codepoint": 57843,
       "fontFamily": "Majesticons",
       "identifier": "share"
     },
-    "share-circle": {
-      "codepoint": 58200,
-      "fontFamily": "Majesticons",
-      "identifier": "shareCircle"
-    },
-    "share-circle-line": {
-      "codepoint": 58201,
-      "fontFamily": "Majesticons",
-      "identifier": "shareCircleLine"
-    },
     "share-line": {
-      "codepoint": 58202,
+      "codepoint": 57844,
       "fontFamily": "Majesticons",
       "identifier": "shareLine"
     },
-    "shield": {
-      "codepoint": 58203,
-      "fontFamily": "Majesticons",
-      "identifier": "shield"
-    },
-    "shield-check": {
-      "codepoint": 58204,
-      "fontFamily": "Majesticons",
-      "identifier": "shieldCheck"
-    },
-    "shield-check-line": {
-      "codepoint": 58205,
-      "fontFamily": "Majesticons",
-      "identifier": "shieldCheckLine"
-    },
-    "shield-exclamation": {
-      "codepoint": 58206,
-      "fontFamily": "Majesticons",
-      "identifier": "shieldExclamation"
-    },
-    "shield-exclamation-line": {
-      "codepoint": 58207,
-      "fontFamily": "Majesticons",
-      "identifier": "shieldExclamationLine"
-    },
-    "shield-line": {
-      "codepoint": 58208,
-      "fontFamily": "Majesticons",
-      "identifier": "shieldLine"
-    },
-    "shield-off": {
-      "codepoint": 58209,
-      "fontFamily": "Majesticons",
-      "identifier": "shieldOff"
-    },
-    "shield-off-line": {
-      "codepoint": 58210,
-      "fontFamily": "Majesticons",
-      "identifier": "shieldOffLine"
-    },
-    "shield-plus": {
-      "codepoint": 58211,
-      "fontFamily": "Majesticons",
-      "identifier": "shieldPlus"
-    },
-    "shield-plus-line": {
-      "codepoint": 58212,
-      "fontFamily": "Majesticons",
-      "identifier": "shieldPlusLine"
-    },
-    "ship": {
-      "codepoint": 58213,
-      "fontFamily": "Majesticons",
-      "identifier": "ship"
-    },
-    "ship-line": {
-      "codepoint": 58214,
-      "fontFamily": "Majesticons",
-      "identifier": "shipLine"
-    },
-    "shooting-star": {
-      "codepoint": 58215,
-      "fontFamily": "Majesticons",
-      "identifier": "shootingStar"
-    },
-    "shooting-star-line": {
-      "codepoint": 58216,
-      "fontFamily": "Majesticons",
-      "identifier": "shootingStarLine"
-    },
     "shopping-bag": {
-      "codepoint": 58217,
+      "codepoint": 57845,
       "fontFamily": "Majesticons",
       "identifier": "shoppingBag"
     },
     "shopping-bag-line": {
-      "codepoint": 58218,
+      "codepoint": 57846,
       "fontFamily": "Majesticons",
       "identifier": "shoppingBagLine"
     },
     "shopping-cart": {
-      "codepoint": 58219,
+      "codepoint": 57847,
       "fontFamily": "Majesticons",
       "identifier": "shoppingCart"
     },
     "shopping-cart-line": {
-      "codepoint": 58220,
+      "codepoint": 57848,
       "fontFamily": "Majesticons",
       "identifier": "shoppingCartLine"
     },
-    "sim-card": {
-      "codepoint": 58221,
-      "fontFamily": "Majesticons",
-      "identifier": "simCard"
-    },
-    "sim-card-line": {
-      "codepoint": 58222,
-      "fontFamily": "Majesticons",
-      "identifier": "simCardLine"
-    },
     "sitemap": {
-      "codepoint": 58223,
+      "codepoint": 57849,
       "fontFamily": "Majesticons",
       "identifier": "sitemap"
     },
     "sitemap-line": {
-      "codepoint": 58224,
+      "codepoint": 57850,
       "fontFamily": "Majesticons",
       "identifier": "sitemapLine"
     },
-    "skull": {
-      "codepoint": 58225,
-      "fontFamily": "Majesticons",
-      "identifier": "skull"
-    },
     "skull-line": {
-      "codepoint": 58226,
+      "codepoint": 57851,
       "fontFamily": "Majesticons",
       "identifier": "skullLine"
     },
     "smartphone-apps": {
-      "codepoint": 58227,
+      "codepoint": 57852,
       "fontFamily": "Majesticons",
       "identifier": "smartphoneApps"
     },
     "smartphone-apps-line": {
-      "codepoint": 58228,
+      "codepoint": 57853,
       "fontFamily": "Majesticons",
       "identifier": "smartphoneAppsLine"
     },
-    "sort-horizontal": {
-      "codepoint": 58229,
-      "fontFamily": "Majesticons",
-      "identifier": "sortHorizontal"
-    },
     "sort-horizontal-line": {
-      "codepoint": 58230,
+      "codepoint": 57854,
       "fontFamily": "Majesticons",
       "identifier": "sortHorizontalLine"
     },
-    "sort-vertical": {
-      "codepoint": 58231,
-      "fontFamily": "Majesticons",
-      "identifier": "sortVertical"
-    },
     "sort-vertical-line": {
-      "codepoint": 58232,
+      "codepoint": 57855,
       "fontFamily": "Majesticons",
       "identifier": "sortVerticalLine"
     },
-    "sound-off": {
-      "codepoint": 58233,
-      "fontFamily": "Majesticons",
-      "identifier": "soundOff"
-    },
-    "sound-off-line": {
-      "codepoint": 58234,
-      "fontFamily": "Majesticons",
-      "identifier": "soundOffLine"
-    },
-    "sound-up": {
-      "codepoint": 58235,
-      "fontFamily": "Majesticons",
-      "identifier": "soundUp"
-    },
-    "sound-up-line": {
-      "codepoint": 58236,
-      "fontFamily": "Majesticons",
-      "identifier": "soundUpLine"
-    },
     "sparkles": {
-      "codepoint": 58237,
+      "codepoint": 57856,
       "fontFamily": "Majesticons",
       "identifier": "sparkles"
     },
-    "sparkles-line": {
-      "codepoint": 58238,
-      "fontFamily": "Majesticons",
-      "identifier": "sparklesLine"
-    },
     "speaker": {
-      "codepoint": 58239,
+      "codepoint": 57857,
       "fontFamily": "Majesticons",
       "identifier": "speaker"
     },
     "speaker-line": {
-      "codepoint": 58240,
+      "codepoint": 57858,
       "fontFamily": "Majesticons",
       "identifier": "speakerLine"
     },
-    "speakerphone": {
-      "codepoint": 58241,
-      "fontFamily": "Majesticons",
-      "identifier": "speakerphone"
-    },
     "speakerphone-line": {
-      "codepoint": 58242,
+      "codepoint": 57859,
       "fontFamily": "Majesticons",
       "identifier": "speakerphoneLine"
     },
-    "star": {
-      "codepoint": 58243,
-      "fontFamily": "Majesticons",
-      "identifier": "star"
-    },
-    "star-line": {
-      "codepoint": 58244,
-      "fontFamily": "Majesticons",
-      "identifier": "starLine"
-    },
-    "status-offline": {
-      "codepoint": 58245,
-      "fontFamily": "Majesticons",
-      "identifier": "statusOffline"
-    },
-    "status-offline-line": {
-      "codepoint": 58246,
-      "fontFamily": "Majesticons",
-      "identifier": "statusOfflineLine"
-    },
     "status-online": {
-      "codepoint": 58247,
+      "codepoint": 57860,
       "fontFamily": "Majesticons",
       "identifier": "statusOnline"
     },
     "status-online-line": {
-      "codepoint": 58248,
+      "codepoint": 57861,
       "fontFamily": "Majesticons",
       "identifier": "statusOnlineLine"
     },
     "stop-circle": {
-      "codepoint": 58249,
+      "codepoint": 57862,
       "fontFamily": "Majesticons",
       "identifier": "stopCircle"
     },
     "stop-circle-line": {
-      "codepoint": 58250,
+      "codepoint": 57863,
       "fontFamily": "Majesticons",
       "identifier": "stopCircleLine"
     },
     "strike-through": {
-      "codepoint": 58251,
+      "codepoint": 57864,
       "fontFamily": "Majesticons",
       "identifier": "strikeThrough"
     },
     "strike-through-line": {
-      "codepoint": 58252,
+      "codepoint": 57865,
       "fontFamily": "Majesticons",
       "identifier": "strikeThroughLine"
     },
     "suitcase": {
-      "codepoint": 58253,
+      "codepoint": 57866,
       "fontFamily": "Majesticons",
       "identifier": "suitcase"
     },
     "suitcase-2": {
-      "codepoint": 58254,
+      "codepoint": 57867,
       "fontFamily": "Majesticons",
       "identifier": "suitcase2"
     },
     "suitcase-2-line": {
-      "codepoint": 58255,
+      "codepoint": 57868,
       "fontFamily": "Majesticons",
       "identifier": "suitcase2Line"
     },
     "suitcase-3": {
-      "codepoint": 58256,
+      "codepoint": 57869,
       "fontFamily": "Majesticons",
       "identifier": "suitcase3"
     },
     "suitcase-3-line": {
-      "codepoint": 58257,
+      "codepoint": 57870,
       "fontFamily": "Majesticons",
       "identifier": "suitcase3Line"
     },
     "suitcase-line": {
-      "codepoint": 58258,
+      "codepoint": 57871,
       "fontFamily": "Majesticons",
       "identifier": "suitcaseLine"
     },
     "sun": {
-      "codepoint": 58259,
+      "codepoint": 57872,
       "fontFamily": "Majesticons",
       "identifier": "sun"
     },
     "sun-line": {
-      "codepoint": 58260,
+      "codepoint": 57873,
       "fontFamily": "Majesticons",
       "identifier": "sunLine"
     },
-    "support": {
-      "codepoint": 58261,
-      "fontFamily": "Majesticons",
-      "identifier": "support"
-    },
-    "support-line": {
-      "codepoint": 58262,
-      "fontFamily": "Majesticons",
-      "identifier": "supportLine"
-    },
     "t-shirt": {
-      "codepoint": 58263,
+      "codepoint": 57874,
       "fontFamily": "Majesticons",
       "identifier": "tShirt"
     },
     "t-shirt-line": {
-      "codepoint": 58264,
+      "codepoint": 57875,
       "fontFamily": "Majesticons",
       "identifier": "tShirtLine"
     },
     "table": {
-      "codepoint": 58265,
+      "codepoint": 57876,
       "fontFamily": "Majesticons",
       "identifier": "table"
     },
-    "table-heart": {
-      "codepoint": 58266,
-      "fontFamily": "Majesticons",
-      "identifier": "tableHeart"
-    },
-    "table-heart-line": {
-      "codepoint": 58267,
-      "fontFamily": "Majesticons",
-      "identifier": "tableHeartLine"
-    },
     "table-line": {
-      "codepoint": 58268,
+      "codepoint": 57877,
       "fontFamily": "Majesticons",
       "identifier": "tableLine"
     },
     "table-plus": {
-      "codepoint": 58269,
+      "codepoint": 57878,
       "fontFamily": "Majesticons",
       "identifier": "tablePlus"
     },
     "table-plus-line": {
-      "codepoint": 58270,
+      "codepoint": 57879,
       "fontFamily": "Majesticons",
       "identifier": "tablePlusLine"
     },
-    "tag": {
-      "codepoint": 58271,
-      "fontFamily": "Majesticons",
-      "identifier": "tag"
-    },
-    "tag-line": {
-      "codepoint": 58272,
-      "fontFamily": "Majesticons",
-      "identifier": "tagLine"
-    },
-    "tag-off": {
-      "codepoint": 58273,
-      "fontFamily": "Majesticons",
-      "identifier": "tagOff"
-    },
-    "tag-off-line": {
-      "codepoint": 58274,
-      "fontFamily": "Majesticons",
-      "identifier": "tagOffLine"
-    },
-    "telescope": {
-      "codepoint": 58275,
-      "fontFamily": "Majesticons",
-      "identifier": "telescope"
-    },
-    "telescope-line": {
-      "codepoint": 58276,
-      "fontFamily": "Majesticons",
-      "identifier": "telescopeLine"
-    },
-    "terminal": {
-      "codepoint": 58277,
-      "fontFamily": "Majesticons",
-      "identifier": "terminal"
-    },
-    "terminal-line": {
-      "codepoint": 58278,
-      "fontFamily": "Majesticons",
-      "identifier": "terminalLine"
-    },
     "test-tube-filled": {
-      "codepoint": 58279,
+      "codepoint": 57880,
       "fontFamily": "Majesticons",
       "identifier": "testTubeFilled"
     },
     "test-tube-filled-line": {
-      "codepoint": 58280,
+      "codepoint": 57881,
       "fontFamily": "Majesticons",
       "identifier": "testTubeFilledLine"
     },
     "text": {
-      "codepoint": 58281,
+      "codepoint": 57882,
       "fontFamily": "Majesticons",
       "identifier": "text"
     },
     "text-align-center": {
-      "codepoint": 58282,
+      "codepoint": 57883,
       "fontFamily": "Majesticons",
       "identifier": "textAlignCenter"
     },
     "text-align-center-line": {
-      "codepoint": 58283,
+      "codepoint": 57884,
       "fontFamily": "Majesticons",
       "identifier": "textAlignCenterLine"
     },
     "text-align-justify": {
-      "codepoint": 58284,
+      "codepoint": 57885,
       "fontFamily": "Majesticons",
       "identifier": "textAlignJustify"
     },
     "text-align-justify-line": {
-      "codepoint": 58285,
+      "codepoint": 57886,
       "fontFamily": "Majesticons",
       "identifier": "textAlignJustifyLine"
     },
     "text-align-left": {
-      "codepoint": 58286,
+      "codepoint": 57887,
       "fontFamily": "Majesticons",
       "identifier": "textAlignLeft"
     },
     "text-align-left-line": {
-      "codepoint": 58287,
+      "codepoint": 57888,
       "fontFamily": "Majesticons",
       "identifier": "textAlignLeftLine"
     },
     "text-align-right": {
-      "codepoint": 58288,
+      "codepoint": 57889,
       "fontFamily": "Majesticons",
       "identifier": "textAlignRight"
     },
     "text-align-right-line": {
-      "codepoint": 58289,
+      "codepoint": 57890,
       "fontFamily": "Majesticons",
       "identifier": "textAlignRightLine"
     },
     "text-line": {
-      "codepoint": 58290,
+      "codepoint": 57891,
       "fontFamily": "Majesticons",
       "identifier": "textLine"
     },
     "text-wrap": {
-      "codepoint": 58291,
+      "codepoint": 57892,
       "fontFamily": "Majesticons",
       "identifier": "textWrap"
     },
     "text-wrap-line": {
-      "codepoint": 58292,
+      "codepoint": 57893,
       "fontFamily": "Majesticons",
       "identifier": "textWrapLine"
     },
     "textbox": {
-      "codepoint": 58293,
+      "codepoint": 57894,
       "fontFamily": "Majesticons",
       "identifier": "textbox"
     },
     "textbox-line": {
-      "codepoint": 58294,
+      "codepoint": 57895,
       "fontFamily": "Majesticons",
       "identifier": "textboxLine"
     },
-    "textbox-minus": {
-      "codepoint": 58295,
-      "fontFamily": "Majesticons",
-      "identifier": "textboxMinus"
-    },
     "textbox-minus-line": {
-      "codepoint": 58296,
+      "codepoint": 57896,
       "fontFamily": "Majesticons",
       "identifier": "textboxMinusLine"
     },
-    "textbox-plus": {
-      "codepoint": 58297,
-      "fontFamily": "Majesticons",
-      "identifier": "textboxPlus"
-    },
     "textbox-plus-line": {
-      "codepoint": 58298,
+      "codepoint": 57897,
       "fontFamily": "Majesticons",
       "identifier": "textboxPlusLine"
     },
-    "thumb-down": {
-      "codepoint": 58299,
-      "fontFamily": "Majesticons",
-      "identifier": "thumbDown"
-    },
-    "thumb-down-line": {
-      "codepoint": 58300,
-      "fontFamily": "Majesticons",
-      "identifier": "thumbDownLine"
-    },
-    "thumb-up": {
-      "codepoint": 58301,
-      "fontFamily": "Majesticons",
-      "identifier": "thumbUp"
-    },
-    "thumb-up-line": {
-      "codepoint": 58302,
-      "fontFamily": "Majesticons",
-      "identifier": "thumbUpLine"
-    },
     "ticket": {
-      "codepoint": 58303,
+      "codepoint": 57898,
       "fontFamily": "Majesticons",
       "identifier": "ticket"
     },
-    "ticket-check": {
-      "codepoint": 58304,
-      "fontFamily": "Majesticons",
-      "identifier": "ticketCheck"
-    },
     "ticket-check-line": {
-      "codepoint": 58305,
+      "codepoint": 57899,
       "fontFamily": "Majesticons",
       "identifier": "ticketCheckLine"
     },
     "ticket-line": {
-      "codepoint": 58306,
+      "codepoint": 57900,
       "fontFamily": "Majesticons",
       "identifier": "ticketLine"
     },
     "ticket-text": {
-      "codepoint": 58307,
+      "codepoint": 57901,
       "fontFamily": "Majesticons",
       "identifier": "ticketText"
     },
     "ticket-text-line": {
-      "codepoint": 58308,
+      "codepoint": 57902,
       "fontFamily": "Majesticons",
       "identifier": "ticketTextLine"
     },
     "tickets": {
-      "codepoint": 58309,
+      "codepoint": 57903,
       "fontFamily": "Majesticons",
       "identifier": "tickets"
     },
     "tickets-line": {
-      "codepoint": 58310,
+      "codepoint": 57904,
       "fontFamily": "Majesticons",
       "identifier": "ticketsLine"
     },
-    "timer": {
-      "codepoint": 58311,
-      "fontFamily": "Majesticons",
-      "identifier": "timer"
-    },
     "timer-line": {
-      "codepoint": 58312,
+      "codepoint": 57905,
       "fontFamily": "Majesticons",
       "identifier": "timerLine"
     },
-    "tooltip": {
-      "codepoint": 58313,
-      "fontFamily": "Majesticons",
-      "identifier": "tooltip"
-    },
-    "tooltip-line": {
-      "codepoint": 58314,
-      "fontFamily": "Majesticons",
-      "identifier": "tooltipLine"
-    },
-    "tooltip-text": {
-      "codepoint": 58315,
-      "fontFamily": "Majesticons",
-      "identifier": "tooltipText"
-    },
-    "tooltip-text-line": {
-      "codepoint": 58316,
-      "fontFamily": "Majesticons",
-      "identifier": "tooltipTextLine"
-    },
-    "tooltips": {
-      "codepoint": 58317,
-      "fontFamily": "Majesticons",
-      "identifier": "tooltips"
-    },
-    "tooltips-2": {
-      "codepoint": 58318,
-      "fontFamily": "Majesticons",
-      "identifier": "tooltips2"
-    },
-    "tooltips-2-line": {
-      "codepoint": 58319,
-      "fontFamily": "Majesticons",
-      "identifier": "tooltips2Line"
-    },
-    "tooltips-line": {
-      "codepoint": 58320,
-      "fontFamily": "Majesticons",
-      "identifier": "tooltipsLine"
-    },
-    "translate": {
-      "codepoint": 58321,
-      "fontFamily": "Majesticons",
-      "identifier": "translate"
-    },
-    "translate-line": {
-      "codepoint": 58322,
-      "fontFamily": "Majesticons",
-      "identifier": "translateLine"
-    },
     "trash": {
-      "codepoint": 58323,
+      "codepoint": 57906,
       "fontFamily": "Majesticons",
       "identifier": "trash"
     },
     "trash-line": {
-      "codepoint": 58324,
+      "codepoint": 57907,
       "fontFamily": "Majesticons",
       "identifier": "trashLine"
     },
-    "trending-down": {
-      "codepoint": 58325,
-      "fontFamily": "Majesticons",
-      "identifier": "trendingDown"
-    },
     "trending-down-line": {
-      "codepoint": 58326,
+      "codepoint": 57908,
       "fontFamily": "Majesticons",
       "identifier": "trendingDownLine"
     },
-    "trending-up": {
-      "codepoint": 58327,
-      "fontFamily": "Majesticons",
-      "identifier": "trendingUp"
-    },
     "trending-up-line": {
-      "codepoint": 58328,
+      "codepoint": 57909,
       "fontFamily": "Majesticons",
       "identifier": "trendingUpLine"
     },
-    "truck": {
-      "codepoint": 58329,
-      "fontFamily": "Majesticons",
-      "identifier": "truck"
-    },
-    "truck-line": {
-      "codepoint": 58330,
-      "fontFamily": "Majesticons",
-      "identifier": "truckLine"
-    },
     "tv-old": {
-      "codepoint": 58331,
+      "codepoint": 57910,
       "fontFamily": "Majesticons",
       "identifier": "tvOld"
     },
     "tv-old-line": {
-      "codepoint": 58332,
+      "codepoint": 57911,
       "fontFamily": "Majesticons",
       "identifier": "tvOldLine"
     },
     "umbrella": {
-      "codepoint": 58333,
+      "codepoint": 57912,
       "fontFamily": "Majesticons",
       "identifier": "umbrella"
     },
     "umbrella-line": {
-      "codepoint": 58334,
+      "codepoint": 57913,
       "fontFamily": "Majesticons",
       "identifier": "umbrellaLine"
     },
     "underline": {
-      "codepoint": 58335,
+      "codepoint": 57914,
       "fontFamily": "Majesticons",
       "identifier": "underline"
     },
     "underline-2": {
-      "codepoint": 58336,
+      "codepoint": 57915,
       "fontFamily": "Majesticons",
       "identifier": "underline2"
     },
     "underline-2-line": {
-      "codepoint": 58337,
+      "codepoint": 57916,
       "fontFamily": "Majesticons",
       "identifier": "underline2Line"
     },
     "underline-line": {
-      "codepoint": 58338,
+      "codepoint": 57917,
       "fontFamily": "Majesticons",
       "identifier": "underlineLine"
     },
-    "undo": {
-      "codepoint": 58339,
-      "fontFamily": "Majesticons",
-      "identifier": "undo"
-    },
-    "undo-line": {
-      "codepoint": 58340,
-      "fontFamily": "Majesticons",
-      "identifier": "undoLine"
-    },
     "unlock-open": {
-      "codepoint": 58341,
+      "codepoint": 57918,
       "fontFamily": "Majesticons",
       "identifier": "unlockOpen"
     },
-    "unlock-open-line": {
-      "codepoint": 58342,
-      "fontFamily": "Majesticons",
-      "identifier": "unlockOpenLine"
-    },
     "usb": {
-      "codepoint": 58343,
+      "codepoint": 57919,
       "fontFamily": "Majesticons",
       "identifier": "usb"
     },
     "usb-line": {
-      "codepoint": 58344,
+      "codepoint": 57920,
       "fontFamily": "Majesticons",
       "identifier": "usbLine"
     },
     "user": {
-      "codepoint": 58345,
+      "codepoint": 57921,
       "fontFamily": "Majesticons",
       "identifier": "user"
     },
     "user-add": {
-      "codepoint": 58346,
+      "codepoint": 57922,
       "fontFamily": "Majesticons",
       "identifier": "userAdd"
     },
-    "user-add-line": {
-      "codepoint": 58347,
-      "fontFamily": "Majesticons",
-      "identifier": "userAddLine"
-    },
     "user-box": {
-      "codepoint": 58348,
+      "codepoint": 57923,
       "fontFamily": "Majesticons",
       "identifier": "userBox"
     },
     "user-box-line": {
-      "codepoint": 58349,
+      "codepoint": 57924,
       "fontFamily": "Majesticons",
       "identifier": "userBoxLine"
     },
-    "user-circle": {
-      "codepoint": 58350,
-      "fontFamily": "Majesticons",
-      "identifier": "userCircle"
-    },
-    "user-circle-line": {
-      "codepoint": 58351,
-      "fontFamily": "Majesticons",
-      "identifier": "userCircleLine"
-    },
-    "user-group": {
-      "codepoint": 58352,
-      "fontFamily": "Majesticons",
-      "identifier": "userGroup"
-    },
-    "user-group-line": {
-      "codepoint": 58353,
-      "fontFamily": "Majesticons",
-      "identifier": "userGroupLine"
-    },
     "user-line": {
-      "codepoint": 58354,
+      "codepoint": 57925,
       "fontFamily": "Majesticons",
       "identifier": "userLine"
     },
     "user-remove": {
-      "codepoint": 58355,
+      "codepoint": 57926,
       "fontFamily": "Majesticons",
       "identifier": "userRemove"
     },
-    "user-remove-line": {
-      "codepoint": 58356,
-      "fontFamily": "Majesticons",
-      "identifier": "userRemoveLine"
-    },
-    "users": {
-      "codepoint": 58357,
-      "fontFamily": "Majesticons",
-      "identifier": "users"
-    },
-    "users-line": {
-      "codepoint": 58358,
-      "fontFamily": "Majesticons",
-      "identifier": "usersLine"
-    },
-    "ux-circle": {
-      "codepoint": 58359,
-      "fontFamily": "Majesticons",
-      "identifier": "uxCircle"
-    },
-    "ux-circle-line": {
-      "codepoint": 58360,
-      "fontFamily": "Majesticons",
-      "identifier": "uxCircleLine"
-    },
-    "video": {
-      "codepoint": 58361,
-      "fontFamily": "Majesticons",
-      "identifier": "video"
-    },
-    "video-camera": {
-      "codepoint": 58362,
-      "fontFamily": "Majesticons",
-      "identifier": "videoCamera"
-    },
-    "video-camera-line": {
-      "codepoint": 58363,
-      "fontFamily": "Majesticons",
-      "identifier": "videoCameraLine"
-    },
     "video-line": {
-      "codepoint": 58364,
+      "codepoint": 57927,
       "fontFamily": "Majesticons",
       "identifier": "videoLine"
     },
-    "video-minus": {
-      "codepoint": 58365,
-      "fontFamily": "Majesticons",
-      "identifier": "videoMinus"
-    },
     "video-minus-line": {
-      "codepoint": 58366,
+      "codepoint": 57928,
       "fontFamily": "Majesticons",
       "identifier": "videoMinusLine"
     },
-    "video-plus": {
-      "codepoint": 58367,
-      "fontFamily": "Majesticons",
-      "identifier": "videoPlus"
-    },
     "video-plus-line": {
-      "codepoint": 58368,
+      "codepoint": 57929,
       "fontFamily": "Majesticons",
       "identifier": "videoPlusLine"
     },
     "view-boards": {
-      "codepoint": 58369,
+      "codepoint": 57930,
       "fontFamily": "Majesticons",
       "identifier": "viewBoards"
     },
     "view-boards-line": {
-      "codepoint": 58370,
+      "codepoint": 57931,
       "fontFamily": "Majesticons",
       "identifier": "viewBoardsLine"
     },
     "view-columns": {
-      "codepoint": 58371,
+      "codepoint": 57932,
       "fontFamily": "Majesticons",
       "identifier": "viewColumns"
     },
     "view-columns-line": {
-      "codepoint": 58372,
+      "codepoint": 57933,
       "fontFamily": "Majesticons",
       "identifier": "viewColumnsLine"
     },
     "view-grid": {
-      "codepoint": 58373,
+      "codepoint": 57934,
       "fontFamily": "Majesticons",
       "identifier": "viewGrid"
     },
     "view-grid-line": {
-      "codepoint": 58374,
+      "codepoint": 57935,
       "fontFamily": "Majesticons",
       "identifier": "viewGridLine"
     },
     "view-list": {
-      "codepoint": 58375,
+      "codepoint": 57936,
       "fontFamily": "Majesticons",
       "identifier": "viewList"
     },
     "view-list-line": {
-      "codepoint": 58376,
+      "codepoint": 57937,
       "fontFamily": "Majesticons",
       "identifier": "viewListLine"
     },
     "view-rows": {
-      "codepoint": 58377,
+      "codepoint": 57938,
       "fontFamily": "Majesticons",
       "identifier": "viewRows"
     },
     "view-rows-line": {
-      "codepoint": 58378,
+      "codepoint": 57939,
       "fontFamily": "Majesticons",
       "identifier": "viewRowsLine"
     },
-    "watch": {
-      "codepoint": 58379,
-      "fontFamily": "Majesticons",
-      "identifier": "watch"
-    },
     "watch-line": {
-      "codepoint": 58380,
+      "codepoint": 57940,
       "fontFamily": "Majesticons",
       "identifier": "watchLine"
     },
-    "wifi": {
-      "codepoint": 58381,
-      "fontFamily": "Majesticons",
-      "identifier": "wifi"
-    },
-    "wifi-line": {
-      "codepoint": 58382,
-      "fontFamily": "Majesticons",
-      "identifier": "wifiLine"
-    },
     "yen-circle": {
-      "codepoint": 58383,
+      "codepoint": 57941,
       "fontFamily": "Majesticons",
       "identifier": "yenCircle"
     },
     "yen-circle-line": {
-      "codepoint": 58384,
+      "codepoint": 57942,
       "fontFamily": "Majesticons",
       "identifier": "yenCircleLine"
     },
     "zoom-in": {
-      "codepoint": 58385,
+      "codepoint": 57943,
       "fontFamily": "Majesticons",
       "identifier": "zoomIn"
     },
     "zoom-in-line": {
-      "codepoint": 58386,
+      "codepoint": 57944,
       "fontFamily": "Majesticons",
       "identifier": "zoomInLine"
     },
     "zoom-out": {
-      "codepoint": 58387,
+      "codepoint": 57945,
       "fontFamily": "Majesticons",
       "identifier": "zoomOut"
     },
     "zoom-out-line": {
-      "codepoint": 58388,
+      "codepoint": 57946,
       "fontFamily": "Majesticons",
       "identifier": "zoomOutLine"
     }

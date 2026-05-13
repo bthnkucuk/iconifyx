@@ -16,3338 +16,1388 @@
       "spdx": "MIT",
       "url": "https://github.com/box-icons/boxicons/blob/main/LICENSE"
     },
-    "total": 665
+    "total": 275
   },
   "fonts": [
     {
       "family": "Bxs",
-      "nextCodepoint": 58009,
-      "iconCount": 665
+      "nextCodepoint": 57619,
+      "iconCount": 275
     }
   ],
   "icons": {
-    "add-to-queue": {
-      "codepoint": 57344,
-      "fontFamily": "Bxs",
-      "identifier": "addToQueue"
-    },
     "adjust": {
-      "codepoint": 57345,
+      "codepoint": 57344,
       "fontFamily": "Bxs",
       "identifier": "adjust"
     },
     "adjust-alt": {
-      "codepoint": 57346,
+      "codepoint": 57345,
       "fontFamily": "Bxs",
       "identifier": "adjustAlt"
     },
     "alarm": {
-      "codepoint": 57347,
+      "codepoint": 57346,
       "fontFamily": "Bxs",
       "identifier": "alarm"
     },
     "alarm-add": {
-      "codepoint": 57348,
+      "codepoint": 57347,
       "fontFamily": "Bxs",
       "identifier": "alarmAdd"
     },
     "alarm-exclamation": {
-      "codepoint": 57349,
+      "codepoint": 57348,
       "fontFamily": "Bxs",
       "identifier": "alarmExclamation"
     },
-    "alarm-off": {
-      "codepoint": 57350,
-      "fontFamily": "Bxs",
-      "identifier": "alarmOff"
-    },
     "alarm-snooze": {
-      "codepoint": 57351,
+      "codepoint": 57349,
       "fontFamily": "Bxs",
       "identifier": "alarmSnooze"
     },
-    "album": {
-      "codepoint": 57352,
-      "fontFamily": "Bxs",
-      "identifier": "album"
-    },
     "ambulance": {
-      "codepoint": 57353,
+      "codepoint": 57350,
       "fontFamily": "Bxs",
       "identifier": "ambulance"
     },
-    "analyse": {
-      "codepoint": 57354,
-      "fontFamily": "Bxs",
-      "identifier": "analyse"
-    },
-    "angry": {
-      "codepoint": 57355,
-      "fontFamily": "Bxs",
-      "identifier": "angry"
-    },
-    "arch": {
-      "codepoint": 57356,
-      "fontFamily": "Bxs",
-      "identifier": "arch"
-    },
-    "archive": {
-      "codepoint": 57357,
-      "fontFamily": "Bxs",
-      "identifier": "archive"
-    },
-    "archive-in": {
-      "codepoint": 57358,
-      "fontFamily": "Bxs",
-      "identifier": "archiveIn"
-    },
-    "archive-out": {
-      "codepoint": 57359,
-      "fontFamily": "Bxs",
-      "identifier": "archiveOut"
-    },
     "area": {
-      "codepoint": 57360,
+      "codepoint": 57351,
       "fontFamily": "Bxs",
       "identifier": "area"
     },
     "arrow-from-bottom": {
-      "codepoint": 57361,
+      "codepoint": 57352,
       "fontFamily": "Bxs",
       "identifier": "arrowFromBottom"
     },
     "arrow-from-left": {
-      "codepoint": 57362,
+      "codepoint": 57353,
       "fontFamily": "Bxs",
       "identifier": "arrowFromLeft"
     },
     "arrow-from-right": {
-      "codepoint": 57363,
+      "codepoint": 57354,
       "fontFamily": "Bxs",
       "identifier": "arrowFromRight"
     },
     "arrow-from-top": {
-      "codepoint": 57364,
+      "codepoint": 57355,
       "fontFamily": "Bxs",
       "identifier": "arrowFromTop"
     },
     "arrow-to-bottom": {
-      "codepoint": 57365,
+      "codepoint": 57356,
       "fontFamily": "Bxs",
       "identifier": "arrowToBottom"
     },
     "arrow-to-left": {
-      "codepoint": 57366,
+      "codepoint": 57357,
       "fontFamily": "Bxs",
       "identifier": "arrowToLeft"
     },
     "arrow-to-right": {
-      "codepoint": 57367,
+      "codepoint": 57358,
       "fontFamily": "Bxs",
       "identifier": "arrowToRight"
     },
     "arrow-to-top": {
-      "codepoint": 57368,
+      "codepoint": 57359,
       "fontFamily": "Bxs",
       "identifier": "arrowToTop"
     },
-    "award": {
-      "codepoint": 57369,
-      "fontFamily": "Bxs",
-      "identifier": "award"
-    },
-    "baby-carriage": {
-      "codepoint": 57370,
-      "fontFamily": "Bxs",
-      "identifier": "babyCarriage"
-    },
-    "backpack": {
-      "codepoint": 57371,
-      "fontFamily": "Bxs",
-      "identifier": "backpack"
-    },
-    "badge": {
-      "codepoint": 57372,
-      "fontFamily": "Bxs",
-      "identifier": "badge"
-    },
-    "badge-check": {
-      "codepoint": 57373,
-      "fontFamily": "Bxs",
-      "identifier": "badgeCheck"
-    },
-    "badge-dollar": {
-      "codepoint": 57374,
-      "fontFamily": "Bxs",
-      "identifier": "badgeDollar"
-    },
     "baguette": {
-      "codepoint": 57375,
+      "codepoint": 57360,
       "fontFamily": "Bxs",
       "identifier": "baguette"
     },
-    "ball": {
-      "codepoint": 57376,
-      "fontFamily": "Bxs",
-      "identifier": "ball"
-    },
     "balloon": {
-      "codepoint": 57377,
+      "codepoint": 57361,
       "fontFamily": "Bxs",
       "identifier": "balloon"
     },
     "band-aid": {
-      "codepoint": 57378,
+      "codepoint": 57362,
       "fontFamily": "Bxs",
       "identifier": "bandAid"
     },
     "bank": {
-      "codepoint": 57379,
+      "codepoint": 57363,
       "fontFamily": "Bxs",
       "identifier": "bank"
     },
     "bar-chart-alt-2": {
-      "codepoint": 57380,
+      "codepoint": 57364,
       "fontFamily": "Bxs",
       "identifier": "barChartAlt2"
     },
     "bar-chart-square": {
-      "codepoint": 57381,
+      "codepoint": 57365,
       "fontFamily": "Bxs",
       "identifier": "barChartSquare"
     },
     "barcode": {
-      "codepoint": 57382,
+      "codepoint": 57366,
       "fontFamily": "Bxs",
       "identifier": "barcode"
     },
-    "baseball": {
-      "codepoint": 57383,
-      "fontFamily": "Bxs",
-      "identifier": "baseball"
-    },
-    "basket": {
-      "codepoint": 57384,
-      "fontFamily": "Bxs",
-      "identifier": "basket"
-    },
     "basketball": {
-      "codepoint": 57385,
+      "codepoint": 57367,
       "fontFamily": "Bxs",
       "identifier": "basketball"
     },
-    "bath": {
-      "codepoint": 57386,
-      "fontFamily": "Bxs",
-      "identifier": "bath"
-    },
     "battery": {
-      "codepoint": 57387,
+      "codepoint": 57368,
       "fontFamily": "Bxs",
       "identifier": "battery"
     },
     "battery-charging": {
-      "codepoint": 57388,
+      "codepoint": 57369,
       "fontFamily": "Bxs",
       "identifier": "batteryCharging"
     },
     "battery-full": {
-      "codepoint": 57389,
+      "codepoint": 57370,
       "fontFamily": "Bxs",
       "identifier": "batteryFull"
     },
     "battery-low": {
-      "codepoint": 57390,
+      "codepoint": 57371,
       "fontFamily": "Bxs",
       "identifier": "batteryLow"
     },
-    "bed": {
-      "codepoint": 57391,
-      "fontFamily": "Bxs",
-      "identifier": "bed"
-    },
     "been-here": {
-      "codepoint": 57392,
+      "codepoint": 57372,
       "fontFamily": "Bxs",
       "identifier": "beenHere"
     },
-    "beer": {
-      "codepoint": 57393,
-      "fontFamily": "Bxs",
-      "identifier": "beer"
-    },
-    "bell": {
-      "codepoint": 57394,
-      "fontFamily": "Bxs",
-      "identifier": "bell"
-    },
-    "bell-minus": {
-      "codepoint": 57395,
-      "fontFamily": "Bxs",
-      "identifier": "bellMinus"
-    },
-    "bell-off": {
-      "codepoint": 57396,
-      "fontFamily": "Bxs",
-      "identifier": "bellOff"
-    },
-    "bell-plus": {
-      "codepoint": 57397,
-      "fontFamily": "Bxs",
-      "identifier": "bellPlus"
-    },
-    "bell-ring": {
-      "codepoint": 57398,
-      "fontFamily": "Bxs",
-      "identifier": "bellRing"
-    },
-    "bible": {
-      "codepoint": 57399,
-      "fontFamily": "Bxs",
-      "identifier": "bible"
-    },
-    "binoculars": {
-      "codepoint": 57400,
-      "fontFamily": "Bxs",
-      "identifier": "binoculars"
-    },
-    "blanket": {
-      "codepoint": 57401,
-      "fontFamily": "Bxs",
-      "identifier": "blanket"
-    },
-    "bolt": {
-      "codepoint": 57402,
-      "fontFamily": "Bxs",
-      "identifier": "bolt"
-    },
     "bolt-circle": {
-      "codepoint": 57403,
+      "codepoint": 57373,
       "fontFamily": "Bxs",
       "identifier": "boltCircle"
     },
-    "bomb": {
-      "codepoint": 57404,
-      "fontFamily": "Bxs",
-      "identifier": "bomb"
-    },
-    "bone": {
-      "codepoint": 57405,
-      "fontFamily": "Bxs",
-      "identifier": "bone"
-    },
-    "bong": {
-      "codepoint": 57406,
-      "fontFamily": "Bxs",
-      "identifier": "bong"
-    },
-    "book": {
-      "codepoint": 57407,
-      "fontFamily": "Bxs",
-      "identifier": "book"
-    },
-    "book-add": {
-      "codepoint": 57408,
-      "fontFamily": "Bxs",
-      "identifier": "bookAdd"
-    },
-    "book-alt": {
-      "codepoint": 57409,
-      "fontFamily": "Bxs",
-      "identifier": "bookAlt"
-    },
-    "book-bookmark": {
-      "codepoint": 57410,
-      "fontFamily": "Bxs",
-      "identifier": "bookBookmark"
-    },
-    "book-content": {
-      "codepoint": 57411,
-      "fontFamily": "Bxs",
-      "identifier": "bookContent"
-    },
-    "book-heart": {
-      "codepoint": 57412,
-      "fontFamily": "Bxs",
-      "identifier": "bookHeart"
-    },
-    "book-open": {
-      "codepoint": 57413,
-      "fontFamily": "Bxs",
-      "identifier": "bookOpen"
-    },
     "book-reader": {
-      "codepoint": 57414,
+      "codepoint": 57374,
       "fontFamily": "Bxs",
       "identifier": "bookReader"
     },
-    "bookmark": {
-      "codepoint": 57415,
-      "fontFamily": "Bxs",
-      "identifier": "bookmark"
-    },
-    "bookmark-alt": {
-      "codepoint": 57416,
-      "fontFamily": "Bxs",
-      "identifier": "bookmarkAlt"
-    },
-    "bookmark-alt-minus": {
-      "codepoint": 57417,
-      "fontFamily": "Bxs",
-      "identifier": "bookmarkAltMinus"
-    },
-    "bookmark-alt-plus": {
-      "codepoint": 57418,
-      "fontFamily": "Bxs",
-      "identifier": "bookmarkAltPlus"
-    },
-    "bookmark-heart": {
-      "codepoint": 57419,
-      "fontFamily": "Bxs",
-      "identifier": "bookmarkHeart"
-    },
     "bookmark-minus": {
-      "codepoint": 57420,
+      "codepoint": 57375,
       "fontFamily": "Bxs",
       "identifier": "bookmarkMinus"
     },
     "bookmark-plus": {
-      "codepoint": 57421,
+      "codepoint": 57376,
       "fontFamily": "Bxs",
       "identifier": "bookmarkPlus"
     },
-    "bookmark-star": {
-      "codepoint": 57422,
-      "fontFamily": "Bxs",
-      "identifier": "bookmarkStar"
-    },
-    "bookmarks": {
-      "codepoint": 57423,
-      "fontFamily": "Bxs",
-      "identifier": "bookmarks"
-    },
-    "bot": {
-      "codepoint": 57424,
-      "fontFamily": "Bxs",
-      "identifier": "bot"
-    },
     "bowl-hot": {
-      "codepoint": 57425,
+      "codepoint": 57377,
       "fontFamily": "Bxs",
       "identifier": "bowlHot"
     },
     "bowl-rice": {
-      "codepoint": 57426,
+      "codepoint": 57378,
       "fontFamily": "Bxs",
       "identifier": "bowlRice"
     },
     "bowling-ball": {
-      "codepoint": 57427,
+      "codepoint": 57379,
       "fontFamily": "Bxs",
       "identifier": "bowlingBall"
     },
     "box": {
-      "codepoint": 57428,
+      "codepoint": 57380,
       "fontFamily": "Bxs",
       "identifier": "box"
     },
-    "brain": {
-      "codepoint": 57429,
-      "fontFamily": "Bxs",
-      "identifier": "brain"
-    },
-    "briefcase": {
-      "codepoint": 57430,
-      "fontFamily": "Bxs",
-      "identifier": "briefcase"
-    },
-    "briefcase-alt": {
-      "codepoint": 57431,
-      "fontFamily": "Bxs",
-      "identifier": "briefcaseAlt"
-    },
-    "briefcase-alt-2": {
-      "codepoint": 57432,
-      "fontFamily": "Bxs",
-      "identifier": "briefcaseAlt2"
-    },
-    "brightness": {
-      "codepoint": 57433,
-      "fontFamily": "Bxs",
-      "identifier": "brightness"
-    },
-    "brightness-half": {
-      "codepoint": 57434,
-      "fontFamily": "Bxs",
-      "identifier": "brightnessHalf"
-    },
-    "brush": {
-      "codepoint": 57435,
-      "fontFamily": "Bxs",
-      "identifier": "brush"
-    },
-    "brush-alt": {
-      "codepoint": 57436,
-      "fontFamily": "Bxs",
-      "identifier": "brushAlt"
-    },
-    "bug": {
-      "codepoint": 57437,
-      "fontFamily": "Bxs",
-      "identifier": "bug"
-    },
-    "bug-alt": {
-      "codepoint": 57438,
-      "fontFamily": "Bxs",
-      "identifier": "bugAlt"
-    },
     "building": {
-      "codepoint": 57439,
+      "codepoint": 57381,
       "fontFamily": "Bxs",
       "identifier": "building"
     },
     "building-house": {
-      "codepoint": 57440,
+      "codepoint": 57382,
       "fontFamily": "Bxs",
       "identifier": "buildingHouse"
     },
-    "buildings": {
-      "codepoint": 57441,
-      "fontFamily": "Bxs",
-      "identifier": "buildings"
-    },
-    "bulb": {
-      "codepoint": 57442,
-      "fontFamily": "Bxs",
-      "identifier": "bulb"
-    },
-    "bullseye": {
-      "codepoint": 57443,
-      "fontFamily": "Bxs",
-      "identifier": "bullseye"
-    },
     "buoy": {
-      "codepoint": 57444,
+      "codepoint": 57383,
       "fontFamily": "Bxs",
       "identifier": "buoy"
     },
-    "bus": {
-      "codepoint": 57445,
-      "fontFamily": "Bxs",
-      "identifier": "bus"
-    },
-    "bus-school": {
-      "codepoint": 57446,
-      "fontFamily": "Bxs",
-      "identifier": "busSchool"
-    },
     "business": {
-      "codepoint": 57447,
+      "codepoint": 57384,
       "fontFamily": "Bxs",
       "identifier": "business"
     },
-    "cabinet": {
-      "codepoint": 57448,
-      "fontFamily": "Bxs",
-      "identifier": "cabinet"
-    },
     "cable-car": {
-      "codepoint": 57449,
+      "codepoint": 57385,
       "fontFamily": "Bxs",
       "identifier": "cableCar"
     },
-    "cake": {
-      "codepoint": 57450,
-      "fontFamily": "Bxs",
-      "identifier": "cake"
-    },
     "calculator": {
-      "codepoint": 57451,
+      "codepoint": 57386,
       "fontFamily": "Bxs",
       "identifier": "calculator"
     },
-    "calendar": {
-      "codepoint": 57452,
-      "fontFamily": "Bxs",
-      "identifier": "calendar"
-    },
-    "calendar-alt": {
-      "codepoint": 57453,
-      "fontFamily": "Bxs",
-      "identifier": "calendarAlt"
-    },
-    "calendar-check": {
-      "codepoint": 57454,
-      "fontFamily": "Bxs",
-      "identifier": "calendarCheck"
-    },
-    "calendar-edit": {
-      "codepoint": 57455,
-      "fontFamily": "Bxs",
-      "identifier": "calendarEdit"
-    },
-    "calendar-event": {
-      "codepoint": 57456,
-      "fontFamily": "Bxs",
-      "identifier": "calendarEvent"
-    },
-    "calendar-exclamation": {
-      "codepoint": 57457,
-      "fontFamily": "Bxs",
-      "identifier": "calendarExclamation"
-    },
-    "calendar-heart": {
-      "codepoint": 57458,
-      "fontFamily": "Bxs",
-      "identifier": "calendarHeart"
-    },
-    "calendar-minus": {
-      "codepoint": 57459,
-      "fontFamily": "Bxs",
-      "identifier": "calendarMinus"
-    },
-    "calendar-plus": {
-      "codepoint": 57460,
-      "fontFamily": "Bxs",
-      "identifier": "calendarPlus"
-    },
-    "calendar-star": {
-      "codepoint": 57461,
-      "fontFamily": "Bxs",
-      "identifier": "calendarStar"
-    },
-    "calendar-week": {
-      "codepoint": 57462,
-      "fontFamily": "Bxs",
-      "identifier": "calendarWeek"
-    },
-    "calendar-x": {
-      "codepoint": 57463,
-      "fontFamily": "Bxs",
-      "identifier": "calendarX"
-    },
-    "camera": {
-      "codepoint": 57464,
-      "fontFamily": "Bxs",
-      "identifier": "camera"
-    },
     "camera-home": {
-      "codepoint": 57465,
+      "codepoint": 57387,
       "fontFamily": "Bxs",
       "identifier": "cameraHome"
     },
-    "camera-movie": {
-      "codepoint": 57466,
-      "fontFamily": "Bxs",
-      "identifier": "cameraMovie"
-    },
-    "camera-off": {
-      "codepoint": 57467,
-      "fontFamily": "Bxs",
-      "identifier": "cameraOff"
-    },
-    "camera-plus": {
-      "codepoint": 57468,
-      "fontFamily": "Bxs",
-      "identifier": "cameraPlus"
-    },
-    "capsule": {
-      "codepoint": 57469,
-      "fontFamily": "Bxs",
-      "identifier": "capsule"
-    },
-    "captions": {
-      "codepoint": 57470,
-      "fontFamily": "Bxs",
-      "identifier": "captions"
-    },
-    "car": {
-      "codepoint": 57471,
-      "fontFamily": "Bxs",
-      "identifier": "car"
-    },
-    "car-battery": {
-      "codepoint": 57472,
-      "fontFamily": "Bxs",
-      "identifier": "carBattery"
-    },
-    "car-crash": {
-      "codepoint": 57473,
-      "fontFamily": "Bxs",
-      "identifier": "carCrash"
-    },
-    "car-garage": {
-      "codepoint": 57474,
-      "fontFamily": "Bxs",
-      "identifier": "carGarage"
-    },
-    "car-mechanic": {
-      "codepoint": 57475,
-      "fontFamily": "Bxs",
-      "identifier": "carMechanic"
-    },
-    "car-wash": {
-      "codepoint": 57476,
-      "fontFamily": "Bxs",
-      "identifier": "carWash"
-    },
-    "card": {
-      "codepoint": 57477,
-      "fontFamily": "Bxs",
-      "identifier": "card"
-    },
     "caret-down-circle": {
-      "codepoint": 57478,
+      "codepoint": 57388,
       "fontFamily": "Bxs",
       "identifier": "caretDownCircle"
     },
-    "caret-down-square": {
-      "codepoint": 57479,
-      "fontFamily": "Bxs",
-      "identifier": "caretDownSquare"
-    },
     "caret-left-circle": {
-      "codepoint": 57480,
+      "codepoint": 57389,
       "fontFamily": "Bxs",
       "identifier": "caretLeftCircle"
     },
-    "caret-left-square": {
-      "codepoint": 57481,
-      "fontFamily": "Bxs",
-      "identifier": "caretLeftSquare"
-    },
     "caret-right-circle": {
-      "codepoint": 57482,
+      "codepoint": 57390,
       "fontFamily": "Bxs",
       "identifier": "caretRightCircle"
     },
-    "caret-right-square": {
-      "codepoint": 57483,
-      "fontFamily": "Bxs",
-      "identifier": "caretRightSquare"
-    },
     "caret-up-circle": {
-      "codepoint": 57484,
+      "codepoint": 57391,
       "fontFamily": "Bxs",
       "identifier": "caretUpCircle"
     },
-    "caret-up-square": {
-      "codepoint": 57485,
-      "fontFamily": "Bxs",
-      "identifier": "caretUpSquare"
-    },
-    "carousel": {
-      "codepoint": 57486,
-      "fontFamily": "Bxs",
-      "identifier": "carousel"
-    },
-    "cart": {
-      "codepoint": 57487,
-      "fontFamily": "Bxs",
-      "identifier": "cart"
-    },
-    "cart-add": {
-      "codepoint": 57488,
-      "fontFamily": "Bxs",
-      "identifier": "cartAdd"
-    },
-    "cart-alt": {
-      "codepoint": 57489,
-      "fontFamily": "Bxs",
-      "identifier": "cartAlt"
-    },
-    "cart-download": {
-      "codepoint": 57490,
-      "fontFamily": "Bxs",
-      "identifier": "cartDownload"
-    },
     "castle": {
-      "codepoint": 57491,
+      "codepoint": 57392,
       "fontFamily": "Bxs",
       "identifier": "castle"
     },
     "cat": {
-      "codepoint": 57492,
+      "codepoint": 57393,
       "fontFamily": "Bxs",
       "identifier": "cat"
     },
     "category": {
-      "codepoint": 57493,
+      "codepoint": 57394,
       "fontFamily": "Bxs",
       "identifier": "category"
     },
     "category-alt": {
-      "codepoint": 57494,
+      "codepoint": 57395,
       "fontFamily": "Bxs",
       "identifier": "categoryAlt"
     },
-    "cctv": {
-      "codepoint": 57495,
-      "fontFamily": "Bxs",
-      "identifier": "cctv"
-    },
-    "certification": {
-      "codepoint": 57496,
-      "fontFamily": "Bxs",
-      "identifier": "certification"
-    },
-    "chalkboard": {
-      "codepoint": 57497,
-      "fontFamily": "Bxs",
-      "identifier": "chalkboard"
-    },
-    "chart": {
-      "codepoint": 57498,
-      "fontFamily": "Bxs",
-      "identifier": "chart"
-    },
-    "chat": {
-      "codepoint": 57499,
-      "fontFamily": "Bxs",
-      "identifier": "chat"
-    },
     "check-circle": {
-      "codepoint": 57500,
+      "codepoint": 57396,
       "fontFamily": "Bxs",
       "identifier": "checkCircle"
     },
-    "check-shield": {
-      "codepoint": 57501,
-      "fontFamily": "Bxs",
-      "identifier": "checkShield"
-    },
-    "check-square": {
-      "codepoint": 57502,
-      "fontFamily": "Bxs",
-      "identifier": "checkSquare"
-    },
     "checkbox": {
-      "codepoint": 57503,
+      "codepoint": 57397,
       "fontFamily": "Bxs",
       "identifier": "checkbox"
     },
     "checkbox-checked": {
-      "codepoint": 57504,
+      "codepoint": 57398,
       "fontFamily": "Bxs",
       "identifier": "checkboxChecked"
     },
     "checkbox-minus": {
-      "codepoint": 57505,
+      "codepoint": 57399,
       "fontFamily": "Bxs",
       "identifier": "checkboxMinus"
     },
     "cheese": {
-      "codepoint": 57506,
+      "codepoint": 57400,
       "fontFamily": "Bxs",
       "identifier": "cheese"
     },
     "chess": {
-      "codepoint": 57507,
+      "codepoint": 57401,
       "fontFamily": "Bxs",
       "identifier": "chess"
     },
     "chevron-down": {
-      "codepoint": 57508,
+      "codepoint": 57402,
       "fontFamily": "Bxs",
       "identifier": "chevronDown"
     },
     "chevron-down-circle": {
-      "codepoint": 57509,
+      "codepoint": 57403,
       "fontFamily": "Bxs",
       "identifier": "chevronDownCircle"
     },
-    "chevron-down-square": {
-      "codepoint": 57510,
-      "fontFamily": "Bxs",
-      "identifier": "chevronDownSquare"
-    },
     "chevron-left": {
-      "codepoint": 57511,
+      "codepoint": 57404,
       "fontFamily": "Bxs",
       "identifier": "chevronLeft"
     },
     "chevron-left-circle": {
-      "codepoint": 57512,
+      "codepoint": 57405,
       "fontFamily": "Bxs",
       "identifier": "chevronLeftCircle"
     },
-    "chevron-left-square": {
-      "codepoint": 57513,
-      "fontFamily": "Bxs",
-      "identifier": "chevronLeftSquare"
-    },
     "chevron-right": {
-      "codepoint": 57514,
+      "codepoint": 57406,
       "fontFamily": "Bxs",
       "identifier": "chevronRight"
     },
     "chevron-right-circle": {
-      "codepoint": 57515,
+      "codepoint": 57407,
       "fontFamily": "Bxs",
       "identifier": "chevronRightCircle"
     },
-    "chevron-right-square": {
-      "codepoint": 57516,
-      "fontFamily": "Bxs",
-      "identifier": "chevronRightSquare"
-    },
     "chevron-up": {
-      "codepoint": 57517,
+      "codepoint": 57408,
       "fontFamily": "Bxs",
       "identifier": "chevronUp"
     },
     "chevron-up-circle": {
-      "codepoint": 57518,
+      "codepoint": 57409,
       "fontFamily": "Bxs",
       "identifier": "chevronUpCircle"
     },
-    "chevron-up-square": {
-      "codepoint": 57519,
-      "fontFamily": "Bxs",
-      "identifier": "chevronUpSquare"
-    },
     "chevrons-down": {
-      "codepoint": 57520,
+      "codepoint": 57410,
       "fontFamily": "Bxs",
       "identifier": "chevronsDown"
     },
     "chevrons-left": {
-      "codepoint": 57521,
+      "codepoint": 57411,
       "fontFamily": "Bxs",
       "identifier": "chevronsLeft"
     },
     "chevrons-right": {
-      "codepoint": 57522,
+      "codepoint": 57412,
       "fontFamily": "Bxs",
       "identifier": "chevronsRight"
     },
     "chevrons-up": {
-      "codepoint": 57523,
+      "codepoint": 57413,
       "fontFamily": "Bxs",
       "identifier": "chevronsUp"
     },
     "chip": {
-      "codepoint": 57524,
+      "codepoint": 57414,
       "fontFamily": "Bxs",
       "identifier": "chip"
     },
-    "church": {
-      "codepoint": 57525,
-      "fontFamily": "Bxs",
-      "identifier": "church"
-    },
     "circle": {
-      "codepoint": 57526,
+      "codepoint": 57415,
       "fontFamily": "Bxs",
       "identifier": "circle"
     },
     "circle-half": {
-      "codepoint": 57527,
+      "codepoint": 57416,
       "fontFamily": "Bxs",
       "identifier": "circleHalf"
     },
     "circle-quarter": {
-      "codepoint": 57528,
+      "codepoint": 57417,
       "fontFamily": "Bxs",
       "identifier": "circleQuarter"
     },
     "circle-three-quarter": {
-      "codepoint": 57529,
+      "codepoint": 57418,
       "fontFamily": "Bxs",
       "identifier": "circleThreeQuarter"
     },
     "city": {
-      "codepoint": 57530,
+      "codepoint": 57419,
       "fontFamily": "Bxs",
       "identifier": "city"
     },
-    "clinic": {
-      "codepoint": 57531,
-      "fontFamily": "Bxs",
-      "identifier": "clinic"
-    },
     "cloud": {
-      "codepoint": 57532,
+      "codepoint": 57420,
       "fontFamily": "Bxs",
       "identifier": "cloud"
     },
     "cloud-download": {
-      "codepoint": 57533,
+      "codepoint": 57421,
       "fontFamily": "Bxs",
       "identifier": "cloudDownload"
     },
     "cloud-lightning": {
-      "codepoint": 57534,
+      "codepoint": 57422,
       "fontFamily": "Bxs",
       "identifier": "cloudLightning"
     },
     "cloud-rain": {
-      "codepoint": 57535,
+      "codepoint": 57423,
       "fontFamily": "Bxs",
       "identifier": "cloudRain"
     },
     "cloud-upload": {
-      "codepoint": 57536,
+      "codepoint": 57424,
       "fontFamily": "Bxs",
       "identifier": "cloudUpload"
     },
-    "coffee": {
-      "codepoint": 57537,
-      "fontFamily": "Bxs",
-      "identifier": "coffee"
-    },
     "coffee-alt": {
-      "codepoint": 57538,
+      "codepoint": 57425,
       "fontFamily": "Bxs",
       "identifier": "coffeeAlt"
     },
     "coffee-bean": {
-      "codepoint": 57539,
+      "codepoint": 57426,
       "fontFamily": "Bxs",
       "identifier": "coffeeBean"
     },
-    "coffee-togo": {
-      "codepoint": 57540,
-      "fontFamily": "Bxs",
-      "identifier": "coffeeTogo"
-    },
-    "cog": {
-      "codepoint": 57541,
-      "fontFamily": "Bxs",
-      "identifier": "cog"
-    },
-    "coin": {
-      "codepoint": 57542,
-      "fontFamily": "Bxs",
-      "identifier": "coin"
-    },
     "coin-stack": {
-      "codepoint": 57543,
+      "codepoint": 57427,
       "fontFamily": "Bxs",
       "identifier": "coinStack"
     },
-    "collection": {
-      "codepoint": 57544,
-      "fontFamily": "Bxs",
-      "identifier": "collection"
-    },
     "color": {
-      "codepoint": 57545,
+      "codepoint": 57428,
       "fontFamily": "Bxs",
       "identifier": "color"
     },
-    "color-fill": {
-      "codepoint": 57546,
-      "fontFamily": "Bxs",
-      "identifier": "colorFill"
-    },
-    "comment": {
-      "codepoint": 57547,
-      "fontFamily": "Bxs",
-      "identifier": "comment"
-    },
-    "comment-add": {
-      "codepoint": 57548,
-      "fontFamily": "Bxs",
-      "identifier": "commentAdd"
-    },
-    "comment-check": {
-      "codepoint": 57549,
-      "fontFamily": "Bxs",
-      "identifier": "commentCheck"
-    },
-    "comment-detail": {
-      "codepoint": 57550,
-      "fontFamily": "Bxs",
-      "identifier": "commentDetail"
-    },
-    "comment-dots": {
-      "codepoint": 57551,
-      "fontFamily": "Bxs",
-      "identifier": "commentDots"
-    },
-    "comment-edit": {
-      "codepoint": 57552,
-      "fontFamily": "Bxs",
-      "identifier": "commentEdit"
-    },
-    "comment-error": {
-      "codepoint": 57553,
-      "fontFamily": "Bxs",
-      "identifier": "commentError"
-    },
-    "comment-minus": {
-      "codepoint": 57554,
-      "fontFamily": "Bxs",
-      "identifier": "commentMinus"
-    },
-    "comment-x": {
-      "codepoint": 57555,
-      "fontFamily": "Bxs",
-      "identifier": "commentX"
-    },
     "compass": {
-      "codepoint": 57556,
+      "codepoint": 57429,
       "fontFamily": "Bxs",
       "identifier": "compass"
     },
-    "component": {
-      "codepoint": 57557,
-      "fontFamily": "Bxs",
-      "identifier": "component"
-    },
-    "confused": {
-      "codepoint": 57558,
-      "fontFamily": "Bxs",
-      "identifier": "confused"
-    },
     "contact": {
-      "codepoint": 57559,
+      "codepoint": 57430,
       "fontFamily": "Bxs",
       "identifier": "contact"
     },
-    "conversation": {
-      "codepoint": 57560,
-      "fontFamily": "Bxs",
-      "identifier": "conversation"
-    },
-    "cookie": {
-      "codepoint": 57561,
-      "fontFamily": "Bxs",
-      "identifier": "cookie"
-    },
-    "cool": {
-      "codepoint": 57562,
-      "fontFamily": "Bxs",
-      "identifier": "cool"
-    },
-    "copy": {
-      "codepoint": 57563,
-      "fontFamily": "Bxs",
-      "identifier": "copy"
-    },
-    "copy-alt": {
-      "codepoint": 57564,
-      "fontFamily": "Bxs",
-      "identifier": "copyAlt"
-    },
-    "copyright": {
-      "codepoint": 57565,
-      "fontFamily": "Bxs",
-      "identifier": "copyright"
-    },
-    "coupon": {
-      "codepoint": 57566,
-      "fontFamily": "Bxs",
-      "identifier": "coupon"
-    },
-    "credit-card": {
-      "codepoint": 57567,
-      "fontFamily": "Bxs",
-      "identifier": "creditCard"
-    },
-    "credit-card-alt": {
-      "codepoint": 57568,
-      "fontFamily": "Bxs",
-      "identifier": "creditCardAlt"
-    },
-    "credit-card-front": {
-      "codepoint": 57569,
-      "fontFamily": "Bxs",
-      "identifier": "creditCardFront"
-    },
     "cricket-ball": {
-      "codepoint": 57570,
+      "codepoint": 57431,
       "fontFamily": "Bxs",
       "identifier": "cricketBall"
     },
     "crop": {
-      "codepoint": 57571,
+      "codepoint": 57432,
       "fontFamily": "Bxs",
       "identifier": "crop"
     },
     "crown": {
-      "codepoint": 57572,
+      "codepoint": 57433,
       "fontFamily": "Bxs",
       "identifier": "crown"
     },
-    "cube": {
-      "codepoint": 57573,
-      "fontFamily": "Bxs",
-      "identifier": "cube"
-    },
-    "cube-alt": {
-      "codepoint": 57574,
-      "fontFamily": "Bxs",
-      "identifier": "cubeAlt"
-    },
-    "cuboid": {
-      "codepoint": 57575,
-      "fontFamily": "Bxs",
-      "identifier": "cuboid"
-    },
     "customize": {
-      "codepoint": 57576,
+      "codepoint": 57434,
       "fontFamily": "Bxs",
       "identifier": "customize"
     },
-    "cylinder": {
-      "codepoint": 57577,
-      "fontFamily": "Bxs",
-      "identifier": "cylinder"
-    },
     "dashboard": {
-      "codepoint": 57578,
+      "codepoint": 57435,
       "fontFamily": "Bxs",
       "identifier": "dashboard"
     },
     "data": {
-      "codepoint": 57579,
+      "codepoint": 57436,
       "fontFamily": "Bxs",
       "identifier": "data"
     },
     "detail": {
-      "codepoint": 57580,
+      "codepoint": 57437,
       "fontFamily": "Bxs",
       "identifier": "detail"
     },
-    "devices": {
-      "codepoint": 57581,
-      "fontFamily": "Bxs",
-      "identifier": "devices"
-    },
-    "diamond": {
-      "codepoint": 57582,
-      "fontFamily": "Bxs",
-      "identifier": "diamond"
-    },
-    "dice-1": {
-      "codepoint": 57583,
-      "fontFamily": "Bxs",
-      "identifier": "dice1"
-    },
-    "dice-2": {
-      "codepoint": 57584,
-      "fontFamily": "Bxs",
-      "identifier": "dice2"
-    },
-    "dice-3": {
-      "codepoint": 57585,
-      "fontFamily": "Bxs",
-      "identifier": "dice3"
-    },
-    "dice-4": {
-      "codepoint": 57586,
-      "fontFamily": "Bxs",
-      "identifier": "dice4"
-    },
-    "dice-5": {
-      "codepoint": 57587,
-      "fontFamily": "Bxs",
-      "identifier": "dice5"
-    },
-    "dice-6": {
-      "codepoint": 57588,
-      "fontFamily": "Bxs",
-      "identifier": "dice6"
-    },
-    "direction-left": {
-      "codepoint": 57589,
-      "fontFamily": "Bxs",
-      "identifier": "directionLeft"
-    },
-    "direction-right": {
-      "codepoint": 57590,
-      "fontFamily": "Bxs",
-      "identifier": "directionRight"
-    },
     "directions": {
-      "codepoint": 57591,
+      "codepoint": 57438,
       "fontFamily": "Bxs",
       "identifier": "directions"
     },
     "disc": {
-      "codepoint": 57592,
+      "codepoint": 57439,
       "fontFamily": "Bxs",
       "identifier": "disc"
     },
-    "discount": {
-      "codepoint": 57593,
-      "fontFamily": "Bxs",
-      "identifier": "discount"
-    },
     "dish": {
-      "codepoint": 57594,
+      "codepoint": 57440,
       "fontFamily": "Bxs",
       "identifier": "dish"
     },
     "dislike": {
-      "codepoint": 57595,
+      "codepoint": 57441,
       "fontFamily": "Bxs",
       "identifier": "dislike"
     },
     "dizzy": {
-      "codepoint": 57596,
+      "codepoint": 57442,
       "fontFamily": "Bxs",
       "identifier": "dizzy"
     },
-    "dock-bottom": {
-      "codepoint": 57597,
-      "fontFamily": "Bxs",
-      "identifier": "dockBottom"
-    },
-    "dock-left": {
-      "codepoint": 57598,
-      "fontFamily": "Bxs",
-      "identifier": "dockLeft"
-    },
-    "dock-right": {
-      "codepoint": 57599,
-      "fontFamily": "Bxs",
-      "identifier": "dockRight"
-    },
-    "dock-top": {
-      "codepoint": 57600,
-      "fontFamily": "Bxs",
-      "identifier": "dockTop"
-    },
     "dog": {
-      "codepoint": 57601,
+      "codepoint": 57443,
       "fontFamily": "Bxs",
       "identifier": "dog"
     },
-    "dollar-circle": {
-      "codepoint": 57602,
-      "fontFamily": "Bxs",
-      "identifier": "dollarCircle"
-    },
-    "donate-blood": {
-      "codepoint": 57603,
-      "fontFamily": "Bxs",
-      "identifier": "donateBlood"
-    },
-    "donate-heart": {
-      "codepoint": 57604,
-      "fontFamily": "Bxs",
-      "identifier": "donateHeart"
-    },
-    "door-open": {
-      "codepoint": 57605,
-      "fontFamily": "Bxs",
-      "identifier": "doorOpen"
-    },
-    "doughnut-chart": {
-      "codepoint": 57606,
-      "fontFamily": "Bxs",
-      "identifier": "doughnutChart"
-    },
-    "down-arrow": {
-      "codepoint": 57607,
-      "fontFamily": "Bxs",
-      "identifier": "downArrow"
-    },
     "down-arrow-alt": {
-      "codepoint": 57608,
+      "codepoint": 57444,
       "fontFamily": "Bxs",
       "identifier": "downArrowAlt"
     },
     "down-arrow-circle": {
-      "codepoint": 57609,
+      "codepoint": 57445,
       "fontFamily": "Bxs",
       "identifier": "downArrowCircle"
     },
     "down-arrow-square": {
-      "codepoint": 57610,
+      "codepoint": 57446,
       "fontFamily": "Bxs",
       "identifier": "downArrowSquare"
     },
     "download": {
-      "codepoint": 57611,
+      "codepoint": 57447,
       "fontFamily": "Bxs",
       "identifier": "download"
     },
-    "downvote": {
-      "codepoint": 57612,
-      "fontFamily": "Bxs",
-      "identifier": "downvote"
-    },
-    "drink": {
-      "codepoint": 57613,
-      "fontFamily": "Bxs",
-      "identifier": "drink"
-    },
     "droplet": {
-      "codepoint": 57614,
+      "codepoint": 57448,
       "fontFamily": "Bxs",
       "identifier": "droplet"
     },
     "droplet-half": {
-      "codepoint": 57615,
+      "codepoint": 57449,
       "fontFamily": "Bxs",
       "identifier": "dropletHalf"
     },
-    "dryer": {
-      "codepoint": 57616,
-      "fontFamily": "Bxs",
-      "identifier": "dryer"
-    },
-    "duplicate": {
-      "codepoint": 57617,
-      "fontFamily": "Bxs",
-      "identifier": "duplicate"
-    },
-    "edit": {
-      "codepoint": 57618,
-      "fontFamily": "Bxs",
-      "identifier": "edit"
-    },
     "edit-alt": {
-      "codepoint": 57619,
+      "codepoint": 57450,
       "fontFamily": "Bxs",
       "identifier": "editAlt"
     },
     "edit-location": {
-      "codepoint": 57620,
+      "codepoint": 57451,
       "fontFamily": "Bxs",
       "identifier": "editLocation"
     },
     "eject": {
-      "codepoint": 57621,
+      "codepoint": 57452,
       "fontFamily": "Bxs",
       "identifier": "eject"
     },
     "envelope": {
-      "codepoint": 57622,
+      "codepoint": 57453,
       "fontFamily": "Bxs",
       "identifier": "envelope"
     },
-    "envelope-open": {
-      "codepoint": 57623,
-      "fontFamily": "Bxs",
-      "identifier": "envelopeOpen"
-    },
     "eraser": {
-      "codepoint": 57624,
+      "codepoint": 57454,
       "fontFamily": "Bxs",
       "identifier": "eraser"
     },
-    "error": {
-      "codepoint": 57625,
-      "fontFamily": "Bxs",
-      "identifier": "error"
-    },
-    "error-alt": {
-      "codepoint": 57626,
-      "fontFamily": "Bxs",
-      "identifier": "errorAlt"
-    },
     "error-circle": {
-      "codepoint": 57627,
+      "codepoint": 57455,
       "fontFamily": "Bxs",
       "identifier": "errorCircle"
     },
-    "ev-station": {
-      "codepoint": 57628,
-      "fontFamily": "Bxs",
-      "identifier": "evStation"
-    },
-    "exit": {
-      "codepoint": 57629,
-      "fontFamily": "Bxs",
-      "identifier": "exit"
-    },
-    "extension": {
-      "codepoint": 57630,
-      "fontFamily": "Bxs",
-      "identifier": "extension_"
-    },
     "eyedropper": {
-      "codepoint": 57631,
+      "codepoint": 57456,
       "fontFamily": "Bxs",
       "identifier": "eyedropper"
     },
-    "face": {
-      "codepoint": 57632,
-      "fontFamily": "Bxs",
-      "identifier": "face"
-    },
-    "face-mask": {
-      "codepoint": 57633,
-      "fontFamily": "Bxs",
-      "identifier": "faceMask"
-    },
     "factory": {
-      "codepoint": 57634,
+      "codepoint": 57457,
       "fontFamily": "Bxs",
       "identifier": "factory_"
     },
     "fast-forward-circle": {
-      "codepoint": 57635,
+      "codepoint": 57458,
       "fontFamily": "Bxs",
       "identifier": "fastForwardCircle"
     },
     "file": {
-      "codepoint": 57636,
+      "codepoint": 57459,
       "fontFamily": "Bxs",
       "identifier": "file"
     },
     "file-archive": {
-      "codepoint": 57637,
+      "codepoint": 57460,
       "fontFamily": "Bxs",
       "identifier": "fileArchive"
     },
     "file-blank": {
-      "codepoint": 57638,
+      "codepoint": 57461,
       "fontFamily": "Bxs",
       "identifier": "fileBlank"
     },
-    "file-css": {
-      "codepoint": 57639,
-      "fontFamily": "Bxs",
-      "identifier": "fileCss"
-    },
-    "file-doc": {
-      "codepoint": 57640,
-      "fontFamily": "Bxs",
-      "identifier": "fileDoc"
-    },
     "file-export": {
-      "codepoint": 57641,
+      "codepoint": 57462,
       "fontFamily": "Bxs",
       "identifier": "fileExport"
     },
-    "file-find": {
-      "codepoint": 57642,
-      "fontFamily": "Bxs",
-      "identifier": "fileFind"
-    },
-    "file-gif": {
-      "codepoint": 57643,
-      "fontFamily": "Bxs",
-      "identifier": "fileGif"
-    },
-    "file-html": {
-      "codepoint": 57644,
-      "fontFamily": "Bxs",
-      "identifier": "fileHtml"
-    },
     "file-image": {
-      "codepoint": 57645,
+      "codepoint": 57463,
       "fontFamily": "Bxs",
       "identifier": "fileImage"
     },
     "file-import": {
-      "codepoint": 57646,
+      "codepoint": 57464,
       "fontFamily": "Bxs",
       "identifier": "fileImport"
     },
-    "file-jpg": {
-      "codepoint": 57647,
-      "fontFamily": "Bxs",
-      "identifier": "fileJpg"
-    },
-    "file-js": {
-      "codepoint": 57648,
-      "fontFamily": "Bxs",
-      "identifier": "fileJs"
-    },
-    "file-json": {
-      "codepoint": 57649,
-      "fontFamily": "Bxs",
-      "identifier": "fileJson"
-    },
-    "file-md": {
-      "codepoint": 57650,
-      "fontFamily": "Bxs",
-      "identifier": "fileMd"
-    },
-    "file-pdf": {
-      "codepoint": 57651,
-      "fontFamily": "Bxs",
-      "identifier": "filePdf"
-    },
     "file-plus": {
-      "codepoint": 57652,
+      "codepoint": 57465,
       "fontFamily": "Bxs",
       "identifier": "filePlus"
     },
-    "file-png": {
-      "codepoint": 57653,
-      "fontFamily": "Bxs",
-      "identifier": "filePng"
-    },
-    "file-txt": {
-      "codepoint": 57654,
-      "fontFamily": "Bxs",
-      "identifier": "fileTxt"
-    },
     "film": {
-      "codepoint": 57655,
+      "codepoint": 57466,
       "fontFamily": "Bxs",
       "identifier": "film"
     },
-    "filter-alt": {
-      "codepoint": 57656,
-      "fontFamily": "Bxs",
-      "identifier": "filterAlt"
-    },
     "first-aid": {
-      "codepoint": 57657,
+      "codepoint": 57467,
       "fontFamily": "Bxs",
       "identifier": "firstAid"
     },
     "flag": {
-      "codepoint": 57658,
+      "codepoint": 57468,
       "fontFamily": "Bxs",
       "identifier": "flag"
     },
     "flag-alt": {
-      "codepoint": 57659,
+      "codepoint": 57469,
       "fontFamily": "Bxs",
       "identifier": "flagAlt"
     },
     "flag-checkered": {
-      "codepoint": 57660,
+      "codepoint": 57470,
       "fontFamily": "Bxs",
       "identifier": "flagCheckered"
     },
-    "flame": {
-      "codepoint": 57661,
-      "fontFamily": "Bxs",
-      "identifier": "flame"
-    },
-    "flask": {
-      "codepoint": 57662,
-      "fontFamily": "Bxs",
-      "identifier": "flask"
-    },
-    "florist": {
-      "codepoint": 57663,
-      "fontFamily": "Bxs",
-      "identifier": "florist"
-    },
-    "folder": {
-      "codepoint": 57664,
-      "fontFamily": "Bxs",
-      "identifier": "folder"
-    },
-    "folder-minus": {
-      "codepoint": 57665,
-      "fontFamily": "Bxs",
-      "identifier": "folderMinus"
-    },
-    "folder-open": {
-      "codepoint": 57666,
-      "fontFamily": "Bxs",
-      "identifier": "folderOpen"
-    },
-    "folder-plus": {
-      "codepoint": 57667,
-      "fontFamily": "Bxs",
-      "identifier": "folderPlus"
-    },
-    "food-menu": {
-      "codepoint": 57668,
-      "fontFamily": "Bxs",
-      "identifier": "foodMenu"
-    },
-    "fridge": {
-      "codepoint": 57669,
-      "fontFamily": "Bxs",
-      "identifier": "fridge"
-    },
     "game": {
-      "codepoint": 57670,
+      "codepoint": 57471,
       "fontFamily": "Bxs",
       "identifier": "game"
     },
-    "gas-pump": {
-      "codepoint": 57671,
-      "fontFamily": "Bxs",
-      "identifier": "gasPump"
-    },
-    "ghost": {
-      "codepoint": 57672,
-      "fontFamily": "Bxs",
-      "identifier": "ghost"
-    },
-    "gift": {
-      "codepoint": 57673,
-      "fontFamily": "Bxs",
-      "identifier": "gift"
-    },
-    "graduation": {
-      "codepoint": 57674,
-      "fontFamily": "Bxs",
-      "identifier": "graduation"
-    },
     "grid": {
-      "codepoint": 57675,
+      "codepoint": 57472,
       "fontFamily": "Bxs",
       "identifier": "grid"
     },
     "grid-alt": {
-      "codepoint": 57676,
+      "codepoint": 57473,
       "fontFamily": "Bxs",
       "identifier": "gridAlt"
     },
-    "group": {
-      "codepoint": 57677,
-      "fontFamily": "Bxs",
-      "identifier": "group"
-    },
-    "guitar-amp": {
-      "codepoint": 57678,
-      "fontFamily": "Bxs",
-      "identifier": "guitarAmp"
-    },
     "hand": {
-      "codepoint": 57679,
+      "codepoint": 57474,
       "fontFamily": "Bxs",
       "identifier": "hand"
     },
-    "hand-down": {
-      "codepoint": 57680,
-      "fontFamily": "Bxs",
-      "identifier": "handDown"
-    },
-    "hand-left": {
-      "codepoint": 57681,
-      "fontFamily": "Bxs",
-      "identifier": "handLeft"
-    },
-    "hand-right": {
-      "codepoint": 57682,
-      "fontFamily": "Bxs",
-      "identifier": "handRight"
-    },
-    "hand-up": {
-      "codepoint": 57683,
-      "fontFamily": "Bxs",
-      "identifier": "handUp"
-    },
     "happy": {
-      "codepoint": 57684,
+      "codepoint": 57475,
       "fontFamily": "Bxs",
       "identifier": "happy"
     },
     "happy-alt": {
-      "codepoint": 57685,
+      "codepoint": 57476,
       "fontFamily": "Bxs",
       "identifier": "happyAlt"
     },
-    "happy-beaming": {
-      "codepoint": 57686,
-      "fontFamily": "Bxs",
-      "identifier": "happyBeaming"
-    },
-    "happy-heart-eyes": {
-      "codepoint": 57687,
-      "fontFamily": "Bxs",
-      "identifier": "happyHeartEyes"
-    },
     "hard-hat": {
-      "codepoint": 57688,
+      "codepoint": 57477,
       "fontFamily": "Bxs",
       "identifier": "hardHat"
     },
-    "hdd": {
-      "codepoint": 57689,
-      "fontFamily": "Bxs",
-      "identifier": "hdd"
-    },
     "heart": {
-      "codepoint": 57690,
+      "codepoint": 57478,
       "fontFamily": "Bxs",
       "identifier": "heart"
     },
-    "heart-circle": {
-      "codepoint": 57691,
-      "fontFamily": "Bxs",
-      "identifier": "heartCircle"
-    },
-    "heart-square": {
-      "codepoint": 57692,
-      "fontFamily": "Bxs",
-      "identifier": "heartSquare"
-    },
-    "help-circle": {
-      "codepoint": 57693,
-      "fontFamily": "Bxs",
-      "identifier": "helpCircle"
-    },
-    "hide": {
-      "codepoint": 57694,
-      "fontFamily": "Bxs",
-      "identifier": "hide"
-    },
-    "home": {
-      "codepoint": 57695,
-      "fontFamily": "Bxs",
-      "identifier": "home"
-    },
     "home-alt-2": {
-      "codepoint": 57696,
+      "codepoint": 57479,
       "fontFamily": "Bxs",
       "identifier": "homeAlt2"
     },
-    "home-circle": {
-      "codepoint": 57697,
-      "fontFamily": "Bxs",
-      "identifier": "homeCircle"
-    },
-    "home-heart": {
-      "codepoint": 57698,
-      "fontFamily": "Bxs",
-      "identifier": "homeHeart"
-    },
-    "home-smile": {
-      "codepoint": 57699,
-      "fontFamily": "Bxs",
-      "identifier": "homeSmile"
-    },
     "hot": {
-      "codepoint": 57700,
+      "codepoint": 57480,
       "fontFamily": "Bxs",
       "identifier": "hot"
     },
     "hotel": {
-      "codepoint": 57701,
+      "codepoint": 57481,
       "fontFamily": "Bxs",
       "identifier": "hotel"
     },
-    "hourglass": {
-      "codepoint": 57702,
-      "fontFamily": "Bxs",
-      "identifier": "hourglass"
-    },
-    "hourglass-bottom": {
-      "codepoint": 57703,
-      "fontFamily": "Bxs",
-      "identifier": "hourglassBottom"
-    },
-    "hourglass-top": {
-      "codepoint": 57704,
-      "fontFamily": "Bxs",
-      "identifier": "hourglassTop"
-    },
-    "id-card": {
-      "codepoint": 57705,
-      "fontFamily": "Bxs",
-      "identifier": "idCard"
-    },
-    "image": {
-      "codepoint": 57706,
-      "fontFamily": "Bxs",
-      "identifier": "image"
-    },
-    "image-add": {
-      "codepoint": 57707,
-      "fontFamily": "Bxs",
-      "identifier": "imageAdd"
-    },
     "image-alt": {
-      "codepoint": 57708,
+      "codepoint": 57482,
       "fontFamily": "Bxs",
       "identifier": "imageAlt"
     },
-    "inbox": {
-      "codepoint": 57709,
-      "fontFamily": "Bxs",
-      "identifier": "inbox"
-    },
     "info-circle": {
-      "codepoint": 57710,
+      "codepoint": 57483,
       "fontFamily": "Bxs",
       "identifier": "infoCircle"
     },
     "info-square": {
-      "codepoint": 57711,
+      "codepoint": 57484,
       "fontFamily": "Bxs",
       "identifier": "infoSquare"
     },
     "injection": {
-      "codepoint": 57712,
+      "codepoint": 57485,
       "fontFamily": "Bxs",
       "identifier": "injection"
     },
-    "institution": {
-      "codepoint": 57713,
-      "fontFamily": "Bxs",
-      "identifier": "institution"
-    },
     "invader": {
-      "codepoint": 57714,
+      "codepoint": 57486,
       "fontFamily": "Bxs",
       "identifier": "invader"
     },
-    "joystick": {
-      "codepoint": 57715,
-      "fontFamily": "Bxs",
-      "identifier": "joystick"
-    },
     "joystick-alt": {
-      "codepoint": 57716,
+      "codepoint": 57487,
       "fontFamily": "Bxs",
       "identifier": "joystickAlt"
     },
     "joystick-button": {
-      "codepoint": 57717,
+      "codepoint": 57488,
       "fontFamily": "Bxs",
       "identifier": "joystickButton"
     },
-    "key": {
-      "codepoint": 57718,
-      "fontFamily": "Bxs",
-      "identifier": "key"
-    },
     "keyboard": {
-      "codepoint": 57719,
+      "codepoint": 57489,
       "fontFamily": "Bxs",
       "identifier": "keyboard"
     },
-    "label": {
-      "codepoint": 57720,
-      "fontFamily": "Bxs",
-      "identifier": "label"
-    },
-    "landmark": {
-      "codepoint": 57721,
-      "fontFamily": "Bxs",
-      "identifier": "landmark"
-    },
     "landscape": {
-      "codepoint": 57722,
+      "codepoint": 57490,
       "fontFamily": "Bxs",
       "identifier": "landscape"
     },
     "laugh": {
-      "codepoint": 57723,
+      "codepoint": 57491,
       "fontFamily": "Bxs",
       "identifier": "laugh"
     },
-    "layer": {
-      "codepoint": 57724,
-      "fontFamily": "Bxs",
-      "identifier": "layer"
-    },
-    "layer-minus": {
-      "codepoint": 57725,
-      "fontFamily": "Bxs",
-      "identifier": "layerMinus"
-    },
-    "layer-plus": {
-      "codepoint": 57726,
-      "fontFamily": "Bxs",
-      "identifier": "layerPlus"
-    },
-    "layout": {
-      "codepoint": 57727,
-      "fontFamily": "Bxs",
-      "identifier": "layout"
-    },
     "leaf": {
-      "codepoint": 57728,
+      "codepoint": 57492,
       "fontFamily": "Bxs",
       "identifier": "leaf"
     },
-    "left-arrow": {
-      "codepoint": 57729,
-      "fontFamily": "Bxs",
-      "identifier": "leftArrow"
-    },
     "left-arrow-alt": {
-      "codepoint": 57730,
+      "codepoint": 57493,
       "fontFamily": "Bxs",
       "identifier": "leftArrowAlt"
     },
     "left-arrow-circle": {
-      "codepoint": 57731,
+      "codepoint": 57494,
       "fontFamily": "Bxs",
       "identifier": "leftArrowCircle"
     },
     "left-arrow-square": {
-      "codepoint": 57732,
+      "codepoint": 57495,
       "fontFamily": "Bxs",
       "identifier": "leftArrowSquare"
     },
     "left-down-arrow-circle": {
-      "codepoint": 57733,
+      "codepoint": 57496,
       "fontFamily": "Bxs",
       "identifier": "leftDownArrowCircle"
     },
     "left-top-arrow-circle": {
-      "codepoint": 57734,
+      "codepoint": 57497,
       "fontFamily": "Bxs",
       "identifier": "leftTopArrowCircle"
     },
     "lemon": {
-      "codepoint": 57735,
+      "codepoint": 57498,
       "fontFamily": "Bxs",
       "identifier": "lemon"
     },
     "like": {
-      "codepoint": 57736,
+      "codepoint": 57499,
       "fontFamily": "Bxs",
       "identifier": "like"
     },
     "location-plus": {
-      "codepoint": 57737,
+      "codepoint": 57500,
       "fontFamily": "Bxs",
       "identifier": "locationPlus"
     },
-    "lock": {
-      "codepoint": 57738,
-      "fontFamily": "Bxs",
-      "identifier": "lock"
-    },
-    "lock-alt": {
-      "codepoint": 57739,
-      "fontFamily": "Bxs",
-      "identifier": "lockAlt"
-    },
-    "lock-open": {
-      "codepoint": 57740,
-      "fontFamily": "Bxs",
-      "identifier": "lockOpen"
-    },
-    "lock-open-alt": {
-      "codepoint": 57741,
-      "fontFamily": "Bxs",
-      "identifier": "lockOpenAlt"
-    },
     "log-in": {
-      "codepoint": 57742,
+      "codepoint": 57501,
       "fontFamily": "Bxs",
       "identifier": "logIn"
     },
     "log-in-circle": {
-      "codepoint": 57743,
+      "codepoint": 57502,
       "fontFamily": "Bxs",
       "identifier": "logInCircle"
     },
     "log-out": {
-      "codepoint": 57744,
+      "codepoint": 57503,
       "fontFamily": "Bxs",
       "identifier": "logOut"
     },
     "log-out-circle": {
-      "codepoint": 57745,
+      "codepoint": 57504,
       "fontFamily": "Bxs",
       "identifier": "logOutCircle"
     },
-    "low-vision": {
-      "codepoint": 57746,
-      "fontFamily": "Bxs",
-      "identifier": "lowVision"
-    },
-    "magic-wand": {
-      "codepoint": 57747,
-      "fontFamily": "Bxs",
-      "identifier": "magicWand"
-    },
     "magnet": {
-      "codepoint": 57748,
+      "codepoint": 57505,
       "fontFamily": "Bxs",
       "identifier": "magnet"
     },
     "map": {
-      "codepoint": 57749,
+      "codepoint": 57506,
       "fontFamily": "Bxs",
       "identifier": "map"
     },
     "map-alt": {
-      "codepoint": 57750,
+      "codepoint": 57507,
       "fontFamily": "Bxs",
       "identifier": "mapAlt"
     },
-    "map-pin": {
-      "codepoint": 57751,
-      "fontFamily": "Bxs",
-      "identifier": "mapPin"
-    },
-    "mask": {
-      "codepoint": 57752,
-      "fontFamily": "Bxs",
-      "identifier": "mask"
-    },
-    "medal": {
-      "codepoint": 57753,
-      "fontFamily": "Bxs",
-      "identifier": "medal"
-    },
-    "megaphone": {
-      "codepoint": 57754,
-      "fontFamily": "Bxs",
-      "identifier": "megaphone"
-    },
-    "meh": {
-      "codepoint": 57755,
-      "fontFamily": "Bxs",
-      "identifier": "meh"
-    },
     "meh-alt": {
-      "codepoint": 57756,
+      "codepoint": 57508,
       "fontFamily": "Bxs",
       "identifier": "mehAlt"
     },
     "meh-blank": {
-      "codepoint": 57757,
+      "codepoint": 57509,
       "fontFamily": "Bxs",
       "identifier": "mehBlank"
     },
-    "memory-card": {
-      "codepoint": 57758,
-      "fontFamily": "Bxs",
-      "identifier": "memoryCard"
-    },
-    "message": {
-      "codepoint": 57759,
-      "fontFamily": "Bxs",
-      "identifier": "message"
-    },
-    "message-add": {
-      "codepoint": 57760,
-      "fontFamily": "Bxs",
-      "identifier": "messageAdd"
-    },
-    "message-alt": {
-      "codepoint": 57761,
-      "fontFamily": "Bxs",
-      "identifier": "messageAlt"
-    },
-    "message-alt-add": {
-      "codepoint": 57762,
-      "fontFamily": "Bxs",
-      "identifier": "messageAltAdd"
-    },
-    "message-alt-check": {
-      "codepoint": 57763,
-      "fontFamily": "Bxs",
-      "identifier": "messageAltCheck"
-    },
-    "message-alt-detail": {
-      "codepoint": 57764,
-      "fontFamily": "Bxs",
-      "identifier": "messageAltDetail"
-    },
-    "message-alt-dots": {
-      "codepoint": 57765,
-      "fontFamily": "Bxs",
-      "identifier": "messageAltDots"
-    },
-    "message-alt-edit": {
-      "codepoint": 57766,
-      "fontFamily": "Bxs",
-      "identifier": "messageAltEdit"
-    },
-    "message-alt-error": {
-      "codepoint": 57767,
-      "fontFamily": "Bxs",
-      "identifier": "messageAltError"
-    },
-    "message-alt-minus": {
-      "codepoint": 57768,
-      "fontFamily": "Bxs",
-      "identifier": "messageAltMinus"
-    },
-    "message-alt-x": {
-      "codepoint": 57769,
-      "fontFamily": "Bxs",
-      "identifier": "messageAltX"
-    },
-    "message-check": {
-      "codepoint": 57770,
-      "fontFamily": "Bxs",
-      "identifier": "messageCheck"
-    },
-    "message-detail": {
-      "codepoint": 57771,
-      "fontFamily": "Bxs",
-      "identifier": "messageDetail"
-    },
-    "message-dots": {
-      "codepoint": 57772,
-      "fontFamily": "Bxs",
-      "identifier": "messageDots"
-    },
-    "message-edit": {
-      "codepoint": 57773,
-      "fontFamily": "Bxs",
-      "identifier": "messageEdit"
-    },
-    "message-error": {
-      "codepoint": 57774,
-      "fontFamily": "Bxs",
-      "identifier": "messageError"
-    },
-    "message-minus": {
-      "codepoint": 57775,
-      "fontFamily": "Bxs",
-      "identifier": "messageMinus"
-    },
     "message-rounded": {
-      "codepoint": 57776,
+      "codepoint": 57510,
       "fontFamily": "Bxs",
       "identifier": "messageRounded"
     },
     "message-rounded-add": {
-      "codepoint": 57777,
+      "codepoint": 57511,
       "fontFamily": "Bxs",
       "identifier": "messageRoundedAdd"
     },
     "message-rounded-check": {
-      "codepoint": 57778,
+      "codepoint": 57512,
       "fontFamily": "Bxs",
       "identifier": "messageRoundedCheck"
     },
     "message-rounded-detail": {
-      "codepoint": 57779,
+      "codepoint": 57513,
       "fontFamily": "Bxs",
       "identifier": "messageRoundedDetail"
     },
     "message-rounded-dots": {
-      "codepoint": 57780,
+      "codepoint": 57514,
       "fontFamily": "Bxs",
       "identifier": "messageRoundedDots"
     },
     "message-rounded-edit": {
-      "codepoint": 57781,
+      "codepoint": 57515,
       "fontFamily": "Bxs",
       "identifier": "messageRoundedEdit"
     },
     "message-rounded-error": {
-      "codepoint": 57782,
+      "codepoint": 57516,
       "fontFamily": "Bxs",
       "identifier": "messageRoundedError"
     },
     "message-rounded-minus": {
-      "codepoint": 57783,
+      "codepoint": 57517,
       "fontFamily": "Bxs",
       "identifier": "messageRoundedMinus"
     },
     "message-rounded-x": {
-      "codepoint": 57784,
+      "codepoint": 57518,
       "fontFamily": "Bxs",
       "identifier": "messageRoundedX"
     },
     "message-square": {
-      "codepoint": 57785,
+      "codepoint": 57519,
       "fontFamily": "Bxs",
       "identifier": "messageSquare"
     },
     "message-square-add": {
-      "codepoint": 57786,
+      "codepoint": 57520,
       "fontFamily": "Bxs",
       "identifier": "messageSquareAdd"
     },
     "message-square-check": {
-      "codepoint": 57787,
+      "codepoint": 57521,
       "fontFamily": "Bxs",
       "identifier": "messageSquareCheck"
     },
     "message-square-detail": {
-      "codepoint": 57788,
+      "codepoint": 57522,
       "fontFamily": "Bxs",
       "identifier": "messageSquareDetail"
     },
-    "message-square-dots": {
-      "codepoint": 57789,
-      "fontFamily": "Bxs",
-      "identifier": "messageSquareDots"
-    },
     "message-square-edit": {
-      "codepoint": 57790,
+      "codepoint": 57523,
       "fontFamily": "Bxs",
       "identifier": "messageSquareEdit"
     },
     "message-square-error": {
-      "codepoint": 57791,
+      "codepoint": 57524,
       "fontFamily": "Bxs",
       "identifier": "messageSquareError"
     },
     "message-square-minus": {
-      "codepoint": 57792,
+      "codepoint": 57525,
       "fontFamily": "Bxs",
       "identifier": "messageSquareMinus"
     },
-    "message-square-x": {
-      "codepoint": 57793,
-      "fontFamily": "Bxs",
-      "identifier": "messageSquareX"
-    },
-    "message-x": {
-      "codepoint": 57794,
-      "fontFamily": "Bxs",
-      "identifier": "messageX"
-    },
-    "meteor": {
-      "codepoint": 57795,
-      "fontFamily": "Bxs",
-      "identifier": "meteor"
-    },
-    "microchip": {
-      "codepoint": 57796,
-      "fontFamily": "Bxs",
-      "identifier": "microchip"
-    },
-    "microphone": {
-      "codepoint": 57797,
-      "fontFamily": "Bxs",
-      "identifier": "microphone"
-    },
-    "microphone-alt": {
-      "codepoint": 57798,
-      "fontFamily": "Bxs",
-      "identifier": "microphoneAlt"
-    },
-    "microphone-off": {
-      "codepoint": 57799,
-      "fontFamily": "Bxs",
-      "identifier": "microphoneOff"
-    },
     "minus-circle": {
-      "codepoint": 57800,
+      "codepoint": 57526,
       "fontFamily": "Bxs",
       "identifier": "minusCircle"
     },
     "minus-square": {
-      "codepoint": 57801,
+      "codepoint": 57527,
       "fontFamily": "Bxs",
       "identifier": "minusSquare"
     },
-    "mobile": {
-      "codepoint": 57802,
-      "fontFamily": "Bxs",
-      "identifier": "mobile"
-    },
-    "mobile-vibration": {
-      "codepoint": 57803,
-      "fontFamily": "Bxs",
-      "identifier": "mobileVibration"
-    },
     "moon": {
-      "codepoint": 57804,
+      "codepoint": 57528,
       "fontFamily": "Bxs",
       "identifier": "moon"
     },
     "mouse": {
-      "codepoint": 57805,
+      "codepoint": 57529,
       "fontFamily": "Bxs",
       "identifier": "mouse"
     },
     "mouse-alt": {
-      "codepoint": 57806,
+      "codepoint": 57530,
       "fontFamily": "Bxs",
       "identifier": "mouseAlt"
     },
-    "movie": {
-      "codepoint": 57807,
-      "fontFamily": "Bxs",
-      "identifier": "movie"
-    },
-    "movie-play": {
-      "codepoint": 57808,
-      "fontFamily": "Bxs",
-      "identifier": "moviePlay"
-    },
-    "music": {
-      "codepoint": 57809,
-      "fontFamily": "Bxs",
-      "identifier": "music"
-    },
-    "navigation": {
-      "codepoint": 57810,
-      "fontFamily": "Bxs",
-      "identifier": "navigation"
-    },
-    "network-chart": {
-      "codepoint": 57811,
-      "fontFamily": "Bxs",
-      "identifier": "networkChart"
-    },
     "news": {
-      "codepoint": 57812,
+      "codepoint": 57531,
       "fontFamily": "Bxs",
       "identifier": "news"
     },
     "no-entry": {
-      "codepoint": 57813,
+      "codepoint": 57532,
       "fontFamily": "Bxs",
       "identifier": "noEntry"
     },
     "note": {
-      "codepoint": 57814,
+      "codepoint": 57533,
       "fontFamily": "Bxs",
       "identifier": "note"
     },
-    "notepad": {
-      "codepoint": 57815,
-      "fontFamily": "Bxs",
-      "identifier": "notepad"
-    },
-    "notification": {
-      "codepoint": 57816,
-      "fontFamily": "Bxs",
-      "identifier": "notification"
-    },
-    "notification-off": {
-      "codepoint": 57817,
-      "fontFamily": "Bxs",
-      "identifier": "notificationOff"
-    },
     "objects-horizontal-center": {
-      "codepoint": 57818,
+      "codepoint": 57534,
       "fontFamily": "Bxs",
       "identifier": "objectsHorizontalCenter"
     },
     "objects-horizontal-left": {
-      "codepoint": 57819,
+      "codepoint": 57535,
       "fontFamily": "Bxs",
       "identifier": "objectsHorizontalLeft"
     },
     "objects-horizontal-right": {
-      "codepoint": 57820,
+      "codepoint": 57536,
       "fontFamily": "Bxs",
       "identifier": "objectsHorizontalRight"
     },
     "objects-vertical-bottom": {
-      "codepoint": 57821,
+      "codepoint": 57537,
       "fontFamily": "Bxs",
       "identifier": "objectsVerticalBottom"
     },
     "objects-vertical-center": {
-      "codepoint": 57822,
+      "codepoint": 57538,
       "fontFamily": "Bxs",
       "identifier": "objectsVerticalCenter"
     },
     "objects-vertical-top": {
-      "codepoint": 57823,
+      "codepoint": 57539,
       "fontFamily": "Bxs",
       "identifier": "objectsVerticalTop"
     },
-    "offer": {
-      "codepoint": 57824,
-      "fontFamily": "Bxs",
-      "identifier": "offer"
-    },
-    "package": {
-      "codepoint": 57825,
-      "fontFamily": "Bxs",
-      "identifier": "package"
-    },
-    "paint": {
-      "codepoint": 57826,
-      "fontFamily": "Bxs",
-      "identifier": "paint"
-    },
-    "paint-roll": {
-      "codepoint": 57827,
-      "fontFamily": "Bxs",
-      "identifier": "paintRoll"
-    },
-    "palette": {
-      "codepoint": 57828,
-      "fontFamily": "Bxs",
-      "identifier": "palette"
-    },
-    "paper-plane": {
-      "codepoint": 57829,
-      "fontFamily": "Bxs",
-      "identifier": "paperPlane"
-    },
     "parking": {
-      "codepoint": 57830,
+      "codepoint": 57540,
       "fontFamily": "Bxs",
       "identifier": "parking"
     },
     "party": {
-      "codepoint": 57831,
+      "codepoint": 57541,
       "fontFamily": "Bxs",
       "identifier": "party"
     },
     "paste": {
-      "codepoint": 57832,
+      "codepoint": 57542,
       "fontFamily": "Bxs",
       "identifier": "paste"
     },
     "pear": {
-      "codepoint": 57833,
+      "codepoint": 57543,
       "fontFamily": "Bxs",
       "identifier": "pear"
     },
-    "pen": {
-      "codepoint": 57834,
-      "fontFamily": "Bxs",
-      "identifier": "pen"
-    },
-    "pencil": {
-      "codepoint": 57835,
-      "fontFamily": "Bxs",
-      "identifier": "pencil"
-    },
-    "phone": {
-      "codepoint": 57836,
-      "fontFamily": "Bxs",
-      "identifier": "phone"
-    },
-    "phone-call": {
-      "codepoint": 57837,
-      "fontFamily": "Bxs",
-      "identifier": "phoneCall"
-    },
-    "phone-incoming": {
-      "codepoint": 57838,
-      "fontFamily": "Bxs",
-      "identifier": "phoneIncoming"
-    },
     "phone-off": {
-      "codepoint": 57839,
+      "codepoint": 57544,
       "fontFamily": "Bxs",
       "identifier": "phoneOff"
     },
-    "phone-outgoing": {
-      "codepoint": 57840,
-      "fontFamily": "Bxs",
-      "identifier": "phoneOutgoing"
-    },
-    "photo-album": {
-      "codepoint": 57841,
-      "fontFamily": "Bxs",
-      "identifier": "photoAlbum"
-    },
     "piano": {
-      "codepoint": 57842,
+      "codepoint": 57545,
       "fontFamily": "Bxs",
       "identifier": "piano"
     },
     "pie-chart": {
-      "codepoint": 57843,
+      "codepoint": 57546,
       "fontFamily": "Bxs",
       "identifier": "pieChart"
     },
-    "pie-chart-alt": {
-      "codepoint": 57844,
-      "fontFamily": "Bxs",
-      "identifier": "pieChartAlt"
-    },
-    "pie-chart-alt-2": {
-      "codepoint": 57845,
-      "fontFamily": "Bxs",
-      "identifier": "pieChartAlt2"
-    },
-    "pin": {
-      "codepoint": 57846,
-      "fontFamily": "Bxs",
-      "identifier": "pin"
-    },
-    "pizza": {
-      "codepoint": 57847,
-      "fontFamily": "Bxs",
-      "identifier": "pizza"
-    },
     "plane": {
-      "codepoint": 57848,
+      "codepoint": 57547,
       "fontFamily": "Bxs",
       "identifier": "plane"
     },
-    "plane-alt": {
-      "codepoint": 57849,
-      "fontFamily": "Bxs",
-      "identifier": "planeAlt"
-    },
-    "plane-land": {
-      "codepoint": 57850,
-      "fontFamily": "Bxs",
-      "identifier": "planeLand"
-    },
-    "plane-take-off": {
-      "codepoint": 57851,
-      "fontFamily": "Bxs",
-      "identifier": "planeTakeOff"
-    },
-    "planet": {
-      "codepoint": 57852,
-      "fontFamily": "Bxs",
-      "identifier": "planet"
-    },
-    "playlist": {
-      "codepoint": 57853,
-      "fontFamily": "Bxs",
-      "identifier": "playlist"
-    },
     "plug": {
-      "codepoint": 57854,
+      "codepoint": 57548,
       "fontFamily": "Bxs",
       "identifier": "plug"
     },
     "plus-circle": {
-      "codepoint": 57855,
+      "codepoint": 57549,
       "fontFamily": "Bxs",
       "identifier": "plusCircle"
     },
     "plus-square": {
-      "codepoint": 57856,
+      "codepoint": 57550,
       "fontFamily": "Bxs",
       "identifier": "plusSquare"
     },
-    "pointer": {
-      "codepoint": 57857,
-      "fontFamily": "Bxs",
-      "identifier": "pointer"
-    },
-    "polygon": {
-      "codepoint": 57858,
-      "fontFamily": "Bxs",
-      "identifier": "polygon"
-    },
     "popsicle": {
-      "codepoint": 57859,
+      "codepoint": 57551,
       "fontFamily": "Bxs",
       "identifier": "popsicle"
     },
     "printer": {
-      "codepoint": 57860,
+      "codepoint": 57552,
       "fontFamily": "Bxs",
       "identifier": "printer"
     },
-    "purchase-tag": {
-      "codepoint": 57861,
-      "fontFamily": "Bxs",
-      "identifier": "purchaseTag"
-    },
-    "purchase-tag-alt": {
-      "codepoint": 57862,
-      "fontFamily": "Bxs",
-      "identifier": "purchaseTagAlt"
-    },
-    "pyramid": {
-      "codepoint": 57863,
-      "fontFamily": "Bxs",
-      "identifier": "pyramid"
-    },
-    "quote-alt-left": {
-      "codepoint": 57864,
-      "fontFamily": "Bxs",
-      "identifier": "quoteAltLeft"
-    },
-    "quote-alt-right": {
-      "codepoint": 57865,
-      "fontFamily": "Bxs",
-      "identifier": "quoteAltRight"
-    },
-    "quote-left": {
-      "codepoint": 57866,
-      "fontFamily": "Bxs",
-      "identifier": "quoteLeft"
-    },
-    "quote-right": {
-      "codepoint": 57867,
-      "fontFamily": "Bxs",
-      "identifier": "quoteRight"
-    },
-    "quote-single-left": {
-      "codepoint": 57868,
-      "fontFamily": "Bxs",
-      "identifier": "quoteSingleLeft"
-    },
-    "quote-single-right": {
-      "codepoint": 57869,
-      "fontFamily": "Bxs",
-      "identifier": "quoteSingleRight"
-    },
-    "radiation": {
-      "codepoint": 57870,
-      "fontFamily": "Bxs",
-      "identifier": "radiation"
-    },
-    "radio": {
-      "codepoint": 57871,
-      "fontFamily": "Bxs",
-      "identifier": "radio"
-    },
     "receipt": {
-      "codepoint": 57872,
+      "codepoint": 57553,
       "fontFamily": "Bxs",
       "identifier": "receipt"
     },
     "rectangle": {
-      "codepoint": 57873,
+      "codepoint": 57554,
       "fontFamily": "Bxs",
       "identifier": "rectangle"
     },
     "registered": {
-      "codepoint": 57874,
+      "codepoint": 57555,
       "fontFamily": "Bxs",
       "identifier": "registered"
     },
-    "rename": {
-      "codepoint": 57875,
-      "fontFamily": "Bxs",
-      "identifier": "rename"
-    },
     "report": {
-      "codepoint": 57876,
+      "codepoint": 57556,
       "fontFamily": "Bxs",
       "identifier": "report"
     },
     "rewind-circle": {
-      "codepoint": 57877,
+      "codepoint": 57557,
       "fontFamily": "Bxs",
       "identifier": "rewindCircle"
     },
-    "right-arrow": {
-      "codepoint": 57878,
-      "fontFamily": "Bxs",
-      "identifier": "rightArrow"
-    },
     "right-arrow-alt": {
-      "codepoint": 57879,
+      "codepoint": 57558,
       "fontFamily": "Bxs",
       "identifier": "rightArrowAlt"
     },
     "right-arrow-circle": {
-      "codepoint": 57880,
+      "codepoint": 57559,
       "fontFamily": "Bxs",
       "identifier": "rightArrowCircle"
     },
     "right-arrow-square": {
-      "codepoint": 57881,
+      "codepoint": 57560,
       "fontFamily": "Bxs",
       "identifier": "rightArrowSquare"
     },
     "right-down-arrow-circle": {
-      "codepoint": 57882,
+      "codepoint": 57561,
       "fontFamily": "Bxs",
       "identifier": "rightDownArrowCircle"
     },
     "right-top-arrow-circle": {
-      "codepoint": 57883,
+      "codepoint": 57562,
       "fontFamily": "Bxs",
       "identifier": "rightTopArrowCircle"
     },
     "rocket": {
-      "codepoint": 57884,
+      "codepoint": 57563,
       "fontFamily": "Bxs",
       "identifier": "rocket"
     },
-    "ruler": {
-      "codepoint": 57885,
-      "fontFamily": "Bxs",
-      "identifier": "ruler"
-    },
     "sad": {
-      "codepoint": 57886,
+      "codepoint": 57564,
       "fontFamily": "Bxs",
       "identifier": "sad"
     },
     "save": {
-      "codepoint": 57887,
+      "codepoint": 57565,
       "fontFamily": "Bxs",
       "identifier": "save"
     },
     "school": {
-      "codepoint": 57888,
+      "codepoint": 57566,
       "fontFamily": "Bxs",
       "identifier": "school"
     },
     "search": {
-      "codepoint": 57889,
+      "codepoint": 57567,
       "fontFamily": "Bxs",
       "identifier": "search"
     },
-    "search-alt-2": {
-      "codepoint": 57890,
-      "fontFamily": "Bxs",
-      "identifier": "searchAlt2"
-    },
-    "select-multiple": {
-      "codepoint": 57891,
-      "fontFamily": "Bxs",
-      "identifier": "selectMultiple"
-    },
-    "send": {
-      "codepoint": 57892,
-      "fontFamily": "Bxs",
-      "identifier": "send"
-    },
     "server": {
-      "codepoint": 57893,
+      "codepoint": 57568,
       "fontFamily": "Bxs",
       "identifier": "server"
     },
-    "shapes": {
-      "codepoint": 57894,
-      "fontFamily": "Bxs",
-      "identifier": "shapes"
-    },
-    "share": {
-      "codepoint": 57895,
-      "fontFamily": "Bxs",
-      "identifier": "share"
-    },
-    "share-alt": {
-      "codepoint": 57896,
-      "fontFamily": "Bxs",
-      "identifier": "shareAlt"
-    },
-    "shield": {
-      "codepoint": 57897,
-      "fontFamily": "Bxs",
-      "identifier": "shield"
-    },
-    "shield-alt-2": {
-      "codepoint": 57898,
-      "fontFamily": "Bxs",
-      "identifier": "shieldAlt2"
-    },
     "shield-minus": {
-      "codepoint": 57899,
+      "codepoint": 57569,
       "fontFamily": "Bxs",
       "identifier": "shieldMinus"
     },
     "shield-plus": {
-      "codepoint": 57900,
+      "codepoint": 57570,
       "fontFamily": "Bxs",
       "identifier": "shieldPlus"
     },
-    "shield-x": {
-      "codepoint": 57901,
-      "fontFamily": "Bxs",
-      "identifier": "shieldX"
-    },
-    "ship": {
-      "codepoint": 57902,
-      "fontFamily": "Bxs",
-      "identifier": "ship"
-    },
     "shocked": {
-      "codepoint": 57903,
+      "codepoint": 57571,
       "fontFamily": "Bxs",
       "identifier": "shocked"
     },
-    "shopping-bag": {
-      "codepoint": 57904,
-      "fontFamily": "Bxs",
-      "identifier": "shoppingBag"
-    },
     "shopping-bag-alt": {
-      "codepoint": 57905,
+      "codepoint": 57572,
       "fontFamily": "Bxs",
       "identifier": "shoppingBagAlt"
     },
-    "shopping-bags": {
-      "codepoint": 57906,
-      "fontFamily": "Bxs",
-      "identifier": "shoppingBags"
-    },
-    "show": {
-      "codepoint": 57907,
-      "fontFamily": "Bxs",
-      "identifier": "show"
-    },
     "shower": {
-      "codepoint": 57908,
+      "codepoint": 57573,
       "fontFamily": "Bxs",
       "identifier": "shower"
     },
     "skip-next-circle": {
-      "codepoint": 57909,
+      "codepoint": 57574,
       "fontFamily": "Bxs",
       "identifier": "skipNextCircle"
     },
     "skip-previous-circle": {
-      "codepoint": 57910,
+      "codepoint": 57575,
       "fontFamily": "Bxs",
       "identifier": "skipPreviousCircle"
     },
-    "skull": {
-      "codepoint": 57911,
-      "fontFamily": "Bxs",
-      "identifier": "skull"
-    },
     "sleepy": {
-      "codepoint": 57912,
+      "codepoint": 57576,
       "fontFamily": "Bxs",
       "identifier": "sleepy"
     },
-    "slideshow": {
-      "codepoint": 57913,
-      "fontFamily": "Bxs",
-      "identifier": "slideshow"
-    },
-    "smile": {
-      "codepoint": 57914,
-      "fontFamily": "Bxs",
-      "identifier": "smile"
-    },
-    "sort-alt": {
-      "codepoint": 57915,
-      "fontFamily": "Bxs",
-      "identifier": "sortAlt"
-    },
-    "spa": {
-      "codepoint": 57916,
-      "fontFamily": "Bxs",
-      "identifier": "spa"
-    },
     "speaker": {
-      "codepoint": 57917,
+      "codepoint": 57577,
       "fontFamily": "Bxs",
       "identifier": "speaker"
     },
     "spray-can": {
-      "codepoint": 57918,
+      "codepoint": 57578,
       "fontFamily": "Bxs",
       "identifier": "sprayCan"
     },
     "spreadsheet": {
-      "codepoint": 57919,
+      "codepoint": 57579,
       "fontFamily": "Bxs",
       "identifier": "spreadsheet"
     },
     "square": {
-      "codepoint": 57920,
+      "codepoint": 57580,
       "fontFamily": "Bxs",
       "identifier": "square"
     },
     "square-rounded": {
-      "codepoint": 57921,
+      "codepoint": 57581,
       "fontFamily": "Bxs",
       "identifier": "squareRounded"
     },
-    "star": {
-      "codepoint": 57922,
-      "fontFamily": "Bxs",
-      "identifier": "star"
-    },
-    "star-half": {
-      "codepoint": 57923,
-      "fontFamily": "Bxs",
-      "identifier": "starHalf"
-    },
-    "sticker": {
-      "codepoint": 57924,
-      "fontFamily": "Bxs",
-      "identifier": "sticker"
-    },
     "stopwatch": {
-      "codepoint": 57925,
+      "codepoint": 57582,
       "fontFamily": "Bxs",
       "identifier": "stopwatch"
     },
-    "store": {
-      "codepoint": 57926,
-      "fontFamily": "Bxs",
-      "identifier": "store"
-    },
-    "store-alt": {
-      "codepoint": 57927,
-      "fontFamily": "Bxs",
-      "identifier": "storeAlt"
-    },
     "sun": {
-      "codepoint": 57928,
+      "codepoint": 57583,
       "fontFamily": "Bxs",
       "identifier": "sun"
     },
     "sushi": {
-      "codepoint": 57929,
+      "codepoint": 57584,
       "fontFamily": "Bxs",
       "identifier": "sushi"
     },
-    "t-shirt": {
-      "codepoint": 57930,
-      "fontFamily": "Bxs",
-      "identifier": "tShirt"
-    },
-    "tachometer": {
-      "codepoint": 57931,
-      "fontFamily": "Bxs",
-      "identifier": "tachometer"
-    },
-    "tag": {
-      "codepoint": 57932,
-      "fontFamily": "Bxs",
-      "identifier": "tag"
-    },
-    "tag-alt": {
-      "codepoint": 57933,
-      "fontFamily": "Bxs",
-      "identifier": "tagAlt"
-    },
-    "tag-x": {
-      "codepoint": 57934,
-      "fontFamily": "Bxs",
-      "identifier": "tagX"
-    },
-    "taxi": {
-      "codepoint": 57935,
-      "fontFamily": "Bxs",
-      "identifier": "taxi"
-    },
-    "tennis-ball": {
-      "codepoint": 57936,
-      "fontFamily": "Bxs",
-      "identifier": "tennisBall"
-    },
     "terminal": {
-      "codepoint": 57937,
+      "codepoint": 57585,
       "fontFamily": "Bxs",
       "identifier": "terminal"
     },
-    "thermometer": {
-      "codepoint": 57938,
-      "fontFamily": "Bxs",
-      "identifier": "thermometer"
-    },
     "time": {
-      "codepoint": 57939,
+      "codepoint": 57586,
       "fontFamily": "Bxs",
       "identifier": "time"
     },
     "time-five": {
-      "codepoint": 57940,
+      "codepoint": 57587,
       "fontFamily": "Bxs",
       "identifier": "timeFive"
     },
     "timer": {
-      "codepoint": 57941,
+      "codepoint": 57588,
       "fontFamily": "Bxs",
       "identifier": "timer"
     },
     "tired": {
-      "codepoint": 57942,
+      "codepoint": 57589,
       "fontFamily": "Bxs",
       "identifier": "tired"
     },
     "to-top": {
-      "codepoint": 57943,
+      "codepoint": 57590,
       "fontFamily": "Bxs",
       "identifier": "toTop"
     },
     "toggle-left": {
-      "codepoint": 57944,
+      "codepoint": 57591,
       "fontFamily": "Bxs",
       "identifier": "toggleLeft"
     },
     "toggle-right": {
-      "codepoint": 57945,
+      "codepoint": 57592,
       "fontFamily": "Bxs",
       "identifier": "toggleRight"
     },
     "tone": {
-      "codepoint": 57946,
+      "codepoint": 57593,
       "fontFamily": "Bxs",
       "identifier": "tone"
     },
-    "torch": {
-      "codepoint": 57947,
-      "fontFamily": "Bxs",
-      "identifier": "torch"
-    },
-    "traffic": {
-      "codepoint": 57948,
-      "fontFamily": "Bxs",
-      "identifier": "traffic"
-    },
     "traffic-barrier": {
-      "codepoint": 57949,
+      "codepoint": 57594,
       "fontFamily": "Bxs",
       "identifier": "trafficBarrier"
     },
-    "traffic-cone": {
-      "codepoint": 57950,
-      "fontFamily": "Bxs",
-      "identifier": "trafficCone"
-    },
-    "train": {
-      "codepoint": 57951,
-      "fontFamily": "Bxs",
-      "identifier": "train"
-    },
-    "trash": {
-      "codepoint": 57952,
-      "fontFamily": "Bxs",
-      "identifier": "trash"
-    },
     "trash-alt": {
-      "codepoint": 57953,
+      "codepoint": 57595,
       "fontFamily": "Bxs",
       "identifier": "trashAlt"
     },
     "tree": {
-      "codepoint": 57954,
+      "codepoint": 57596,
       "fontFamily": "Bxs",
       "identifier": "tree"
     },
     "tree-alt": {
-      "codepoint": 57955,
+      "codepoint": 57597,
       "fontFamily": "Bxs",
       "identifier": "treeAlt"
     },
     "trophy": {
-      "codepoint": 57956,
+      "codepoint": 57598,
       "fontFamily": "Bxs",
       "identifier": "trophy"
     },
     "truck": {
-      "codepoint": 57957,
+      "codepoint": 57599,
       "fontFamily": "Bxs",
       "identifier": "truck"
     },
-    "tv": {
-      "codepoint": 57958,
-      "fontFamily": "Bxs",
-      "identifier": "tv"
-    },
     "universal-access": {
-      "codepoint": 57959,
+      "codepoint": 57600,
       "fontFamily": "Bxs",
       "identifier": "universalAccess"
     },
-    "up-arrow": {
-      "codepoint": 57960,
-      "fontFamily": "Bxs",
-      "identifier": "upArrow"
-    },
     "up-arrow-alt": {
-      "codepoint": 57961,
+      "codepoint": 57601,
       "fontFamily": "Bxs",
       "identifier": "upArrowAlt"
     },
     "up-arrow-circle": {
-      "codepoint": 57962,
+      "codepoint": 57602,
       "fontFamily": "Bxs",
       "identifier": "upArrowCircle"
     },
     "up-arrow-square": {
-      "codepoint": 57963,
+      "codepoint": 57603,
       "fontFamily": "Bxs",
       "identifier": "upArrowSquare"
     },
-    "upside-down": {
-      "codepoint": 57964,
-      "fontFamily": "Bxs",
-      "identifier": "upsideDown"
-    },
-    "upvote": {
-      "codepoint": 57965,
-      "fontFamily": "Bxs",
-      "identifier": "upvote"
-    },
     "user": {
-      "codepoint": 57966,
+      "codepoint": 57604,
       "fontFamily": "Bxs",
       "identifier": "user"
     },
-    "user-account": {
-      "codepoint": 57967,
-      "fontFamily": "Bxs",
-      "identifier": "userAccount"
-    },
-    "user-badge": {
-      "codepoint": 57968,
-      "fontFamily": "Bxs",
-      "identifier": "userBadge"
-    },
     "user-check": {
-      "codepoint": 57969,
+      "codepoint": 57605,
       "fontFamily": "Bxs",
       "identifier": "userCheck"
     },
-    "user-circle": {
-      "codepoint": 57970,
-      "fontFamily": "Bxs",
-      "identifier": "userCircle"
-    },
     "user-detail": {
-      "codepoint": 57971,
+      "codepoint": 57606,
       "fontFamily": "Bxs",
       "identifier": "userDetail"
     },
     "user-minus": {
-      "codepoint": 57972,
+      "codepoint": 57607,
       "fontFamily": "Bxs",
       "identifier": "userMinus"
     },
-    "user-pin": {
-      "codepoint": 57973,
-      "fontFamily": "Bxs",
-      "identifier": "userPin"
-    },
     "user-plus": {
-      "codepoint": 57974,
+      "codepoint": 57608,
       "fontFamily": "Bxs",
       "identifier": "userPlus"
     },
     "user-rectangle": {
-      "codepoint": 57975,
+      "codepoint": 57609,
       "fontFamily": "Bxs",
       "identifier": "userRectangle"
     },
-    "user-voice": {
-      "codepoint": 57976,
-      "fontFamily": "Bxs",
-      "identifier": "userVoice"
-    },
     "user-x": {
-      "codepoint": 57977,
+      "codepoint": 57610,
       "fontFamily": "Bxs",
       "identifier": "userX"
     },
-    "vector": {
-      "codepoint": 57978,
-      "fontFamily": "Bxs",
-      "identifier": "vector"
-    },
-    "vial": {
-      "codepoint": 57979,
-      "fontFamily": "Bxs",
-      "identifier": "vial"
-    },
-    "video": {
-      "codepoint": 57980,
-      "fontFamily": "Bxs",
-      "identifier": "video"
-    },
-    "video-off": {
-      "codepoint": 57981,
-      "fontFamily": "Bxs",
-      "identifier": "videoOff"
-    },
     "video-plus": {
-      "codepoint": 57982,
+      "codepoint": 57611,
       "fontFamily": "Bxs",
       "identifier": "videoPlus"
     },
-    "video-recording": {
-      "codepoint": 57983,
-      "fontFamily": "Bxs",
-      "identifier": "videoRecording"
-    },
     "videos": {
-      "codepoint": 57984,
+      "codepoint": 57612,
       "fontFamily": "Bxs",
       "identifier": "videos"
     },
-    "virus": {
-      "codepoint": 57985,
-      "fontFamily": "Bxs",
-      "identifier": "virus"
-    },
-    "virus-block": {
-      "codepoint": 57986,
-      "fontFamily": "Bxs",
-      "identifier": "virusBlock"
-    },
-    "volume": {
-      "codepoint": 57987,
-      "fontFamily": "Bxs",
-      "identifier": "volume"
-    },
-    "volume-full": {
-      "codepoint": 57988,
-      "fontFamily": "Bxs",
-      "identifier": "volumeFull"
-    },
-    "volume-low": {
-      "codepoint": 57989,
-      "fontFamily": "Bxs",
-      "identifier": "volumeLow"
-    },
-    "volume-mute": {
-      "codepoint": 57990,
-      "fontFamily": "Bxs",
-      "identifier": "volumeMute"
-    },
-    "wallet": {
-      "codepoint": 57991,
-      "fontFamily": "Bxs",
-      "identifier": "wallet"
-    },
-    "wallet-alt": {
-      "codepoint": 57992,
-      "fontFamily": "Bxs",
-      "identifier": "walletAlt"
-    },
-    "washer": {
-      "codepoint": 57993,
-      "fontFamily": "Bxs",
-      "identifier": "washer"
-    },
-    "watch": {
-      "codepoint": 57994,
-      "fontFamily": "Bxs",
-      "identifier": "watch"
-    },
-    "watch-alt": {
-      "codepoint": 57995,
-      "fontFamily": "Bxs",
-      "identifier": "watchAlt"
-    },
-    "webcam": {
-      "codepoint": 57996,
-      "fontFamily": "Bxs",
-      "identifier": "webcam"
-    },
     "widget": {
-      "codepoint": 57997,
+      "codepoint": 57613,
       "fontFamily": "Bxs",
       "identifier": "widget"
     },
-    "window-alt": {
-      "codepoint": 57998,
-      "fontFamily": "Bxs",
-      "identifier": "windowAlt"
-    },
-    "wine": {
-      "codepoint": 57999,
-      "fontFamily": "Bxs",
-      "identifier": "wine"
-    },
-    "wink-smile": {
-      "codepoint": 58000,
-      "fontFamily": "Bxs",
-      "identifier": "winkSmile"
-    },
-    "wink-tongue": {
-      "codepoint": 58001,
-      "fontFamily": "Bxs",
-      "identifier": "winkTongue"
-    },
     "wrench": {
-      "codepoint": 58002,
+      "codepoint": 57614,
       "fontFamily": "Bxs",
       "identifier": "wrench"
     },
     "x-circle": {
-      "codepoint": 58003,
+      "codepoint": 57615,
       "fontFamily": "Bxs",
       "identifier": "xCircle"
     },
     "x-square": {
-      "codepoint": 58004,
+      "codepoint": 57616,
       "fontFamily": "Bxs",
       "identifier": "xSquare"
     },
-    "yin-yang": {
-      "codepoint": 58005,
-      "fontFamily": "Bxs",
-      "identifier": "yinYang"
-    },
-    "zap": {
-      "codepoint": 58006,
-      "fontFamily": "Bxs",
-      "identifier": "zap"
-    },
     "zoom-in": {
-      "codepoint": 58007,
+      "codepoint": 57617,
       "fontFamily": "Bxs",
       "identifier": "zoomIn"
     },
     "zoom-out": {
-      "codepoint": 58008,
+      "codepoint": 57618,
       "fontFamily": "Bxs",
       "identifier": "zoomOut"
     }

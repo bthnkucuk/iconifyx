@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "prefix": "meteocons",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Thematic",
+  "subPackage": "iconifyx_meteocons",
+  "info": {
+    "name": "Meteocons",
+    "author": {
+      "name": "Bas Milius",
+      "url": "https://github.com/basmilius/weather-icons"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/basmilius/weather-icons/blob/dev/LICENSE"
+    },
+    "total": 5
+  },
+  "fonts": [
+    {
+      "family": "Meteocons",
+      "nextCodepoint": 57349,
+      "iconCount": 5
+    }
+  ],
+  "icons": {
+    "code-green": {
+      "codepoint": 57344,
+      "fontFamily": "Meteocons",
+      "identifier": "codeGreen"
+    },
+    "code-orange": {
+      "codepoint": 57345,
+      "fontFamily": "Meteocons",
+      "identifier": "codeOrange"
+    },
+    "code-yellow": {
+      "codepoint": 57346,
+      "fontFamily": "Meteocons",
+      "identifier": "codeYellow"
+    },
+    "moon-full": {
+      "codepoint": 57347,
+      "fontFamily": "Meteocons",
+      "identifier": "moonFull"
+    },
+    "thermometer-glass": {
+      "codepoint": 57348,
+      "fontFamily": "Meteocons",
+      "identifier": "thermometerGlass"
+    }
+  }
+}

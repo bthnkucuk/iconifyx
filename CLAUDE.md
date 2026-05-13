@@ -82,6 +82,23 @@ The OpenType cmap format 4 used internally is 16-bit. Sets that have more than 6
 
 `svg2ttf({ ts: 0 })` is mandatory. Without it, the font's creation timestamp drifts every run and CI diffs blow up. Always pass `ts: 0`. Same icon set + same `@iconify/json` version = byte-identical TTF.
 
+### 5a. Stroke-only sets need outline pre-processing.
+
+Sets where icons are drawn with `<path stroke="currentColor" fill="none" />` (Lucide, Tabler, Iconoir, Phosphor-thin, mdi-light, Feather, Heroicons-outline, …) render as solid filled shapes in a TTF unless the strokes are first expanded into closed filled outlines.
+
+The pipeline runs every icon in the `strokeFillSets` list (`tools/generator/config.yaml`) through `oslllo-svg-fixer` (rasterize + Potrace trace) before font conversion. Output is cached per-icon on disk at `tools/generator/.cache/strokefill/<prefix>/<sha1>.svg` so re-runs are nearly instant; first run for a stroke set takes ~10–20 s per ~1000 icons.
+
+If you're adding a new stroke-only Iconify set, add its prefix to `strokeFillSets` in config.yaml. Without that step, the icons will build but render as solid blobs.
+
+### 5b. Per-glyph error tolerance.
+
+The pipeline has two layers of glyph-level error tolerance so one bad SVG never fails the whole set:
+
+1. **Pre-validation** (`tools/generator/src/glyph_validator.ts`) rejects glyphs with malformed path data, non-standard SVG path commands (e.g. `N`), unsupported elements (`<animate>`, `<filter>`, `<linearGradient>`, `<radialGradient>`, etc.), or coordinates that would overflow TTF's 16-bit signed range.
+2. **Retry-on-error** (`tools/generator/src/font_builder.ts`) catches any svgicons2svgfont error after pre-validation, parses the offending glyph's name from the error message, marks it deprecated in the manifest, and retries the build. Loops up to 50× per font.
+
+Glyphs that fail either layer get `deprecated: true` in the manifest. Their codepoints stay reserved (so they auto-recover if upstream fixes the SVG in a future release) but the icon doesn't appear in the Dart class or the TTF.
+
 ### 6. Per-set package naming convention.
 
 For Iconify prefix `<p>`, the Dart package is named `iconifyx_` + `<p>` with `-` replaced by `_` (Dart package names require `[a-z][a-z0-9_]*`):
@@ -153,21 +170,18 @@ Total runtime ~80s for all 225 sets, producing ~206 per-set packages.
 
 ## Known failures (as of @iconify/json 2.2.472)
 
-19 sets fail with svgicons2svgfont SVG path parsing errors and are skipped:
+After Phase 1 (validator + retry-on-error) and Phase 2 (stroke-fill for stroke-only sets), **215 of 225 sets build successfully (165,718 live icons)**. The 10 remaining failures are sets where every icon body has properties that fundamentally don't translate to a monochrome TTF:
 
-- `line-md` — animated SVG path commands
-- `icon-park`, `icon-park-outline`, `icon-park-solid`, `icon-park-twotone` — non-standard path data
-- `glyphs-poly`, `vscode-icons`, `material-icon-theme`, `devicon`, `devicon-plain`, `logos` — assorted bad glyphs
-- `openmoji`, `emojione-v1`, `fluent-emoji` — emoji glyphs with non-standard paths
-- `flag`, `meteocons`, `gala`, `bpmn` — assorted bad glyphs
-- `wpf` — out-of-bounds glyph coordinates (yMin -56347, font format max ±32767)
+- `fluent-color`, `fluent-emoji` — gradient-heavy multi-color emoji
+- `streamline-emojis`, `streamline-freehand-color`, `streamline-ultimate-color` — gradient/filter-heavy color sets
+- `svg-spinners` — every icon is an `<animate>` element
+- `icon-park-twotone` — gradient overlays
+- `marketeq`, `gcp` — assorted gradient/filter use
+- `unjs` — `<linearGradient>` per icon
 
-These are SVG quality issues upstream, not generator bugs. Rescue path (not implemented yet): pre-process each icon body through `svgo` with `convertPathData` + `mergePaths`, or use `oslllo-svg-fixer` for stroke→fill before passing to the font builder.
+These would need a true rasterize-and-trace pipeline to "flatten" their visual to a monochrome silhouette, which is out of scope. Users who need them can lift the corresponding Iconify JSON and render via `flutter_svg` at runtime instead.
 
-If you need one of these sets, the workflow is:
-1. Identify the specific bad glyph in the error message.
-2. Patch `tools/generator/src/svg_preprocess.ts` to skip / fix that glyph.
-3. Re-run `bun run generate --set <prefix>`.
+The pre-validator + retry pipeline turns a single bad glyph from a set-killer into a small per-glyph warning — when an Iconify upstream update fixes the bad glyph, the next regen picks it up automatically.
 
 ## File ownership
 

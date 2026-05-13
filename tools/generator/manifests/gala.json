@@ -1,0 +1,311 @@
+{
+  "schemaVersion": 1,
+  "prefix": "gala",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Archive / Unmaintained",
+  "subPackage": "iconifyx_gala",
+  "info": {
+    "name": "Gala Icons",
+    "author": {
+      "name": "Jake Wells",
+      "url": "https://github.com/cyberalien/gala-icons"
+    },
+    "license": {
+      "title": "GPL",
+      "spdx": "GPL-3.0",
+      "url": "https://github.com/cyberalien/gala-icons/blob/main/LICENSE"
+    },
+    "total": 52
+  },
+  "fonts": [
+    {
+      "family": "Gala",
+      "nextCodepoint": 57399,
+      "iconCount": 52
+    }
+  ],
+  "icons": {
+    "add": {
+      "codepoint": 57344,
+      "fontFamily": "Gala",
+      "identifier": "add"
+    },
+    "airplay": {
+      "codepoint": 57345,
+      "fontFamily": "Gala",
+      "identifier": "airplay"
+    },
+    "apple": {
+      "codepoint": 57346,
+      "fontFamily": "Gala",
+      "identifier": "apple",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
+    },
+    "bag": {
+      "codepoint": 57347,
+      "fontFamily": "Gala",
+      "identifier": "bag"
+    },
+    "bell": {
+      "codepoint": 57348,
+      "fontFamily": "Gala",
+      "identifier": "bell",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
+    },
+    "book": {
+      "codepoint": 57349,
+      "fontFamily": "Gala",
+      "identifier": "book",
+      "deprecated": true,
+      "deprecatedSince": "2026-05-13"
+    },
+    "brochure": {
+      "codepoint": 57350,
+      "fontFamily": "Gala",
+      "identifier": "brochure"
+    },
+    "calendar": {
+      "codepoint": 57351,
+      "fontFamily": "Gala",
+      "identifier": "calendar"
+    },
+    "chart": {
+      "codepoint": 57352,
+      "fontFamily": "Gala",
+      "identifier": "chart"
+    },
+    "chat": {
+      "codepoint": 57353,
+      "fontFamily": "Gala",
+      "identifier": "chat"
+    },
+    "clock": {
+      "codepoint": 57354,
+      "fontFamily": "Gala",
+      "identifier": "clock"
+    },
+    "copy": {
+      "codepoint": 57355,
+      "fontFamily": "Gala",
+      "identifier": "copy"
+    },
+    "data": {
+      "codepoint": 57356,
+      "fontFamily": "Gala",
+      "identifier": "data"
+    },
+    "display": {
+      "codepoint": 57357,
+      "fontFamily": "Gala",
+      "identifier": "display"
+    },
+    "editor": {
+      "codepoint": 57358,
+      "fontFamily": "Gala",
+      "identifier": "editor"
+    },
+    "file": {
+      "codepoint": 57359,
+      "fontFamily": "Gala",
+      "identifier": "file"
+    },
+    "file-code1": {
+      "codepoint": 57360,
+      "fontFamily": "Gala",
+      "identifier": "fileCode1"
+    },
+    "file-code2": {
+      "codepoint": 57361,
+      "fontFamily": "Gala",
+      "identifier": "fileCode2"
+    },
+    "file-csv": {
+      "codepoint": 57362,
+      "fontFamily": "Gala",
+      "identifier": "fileCsv"
+    },
+    "file-doc": {
+      "codepoint": 57363,
+      "fontFamily": "Gala",
+      "identifier": "fileDoc"
+    },
+    "file-document": {
+      "codepoint": 57364,
+      "fontFamily": "Gala",
+      "identifier": "fileDocument"
+    },
+    "file-error": {
+      "codepoint": 57365,
+      "fontFamily": "Gala",
+      "identifier": "fileError"
+    },
+    "file-script": {
+      "codepoint": 57366,
+      "fontFamily": "Gala",
+      "identifier": "fileScript"
+    },
+    "file-spreadsheet": {
+      "codepoint": 57367,
+      "fontFamily": "Gala",
+      "identifier": "fileSpreadsheet"
+    },
+    "file-text": {
+      "codepoint": 57368,
+      "fontFamily": "Gala",
+      "identifier": "fileText"
+    },
+    "folder": {
+      "codepoint": 57369,
+      "fontFamily": "Gala",
+      "identifier": "folder"
+    },
+    "globe": {
+      "codepoint": 57370,
+      "fontFamily": "Gala",
+      "identifier": "globe"
+    },
+    "help": {
+      "codepoint": 57371,
+      "fontFamily": "Gala",
+      "identifier": "help"
+    },
+    "image": {
+      "codepoint": 57372,
+      "fontFamily": "Gala",
+      "identifier": "image"
+    },
+    "issue": {
+      "codepoint": 57373,
+      "fontFamily": "Gala",
+      "identifier": "issue"
+    },
+    "layer": {
+      "codepoint": 57374,
+      "fontFamily": "Gala",
+      "identifier": "layer"
+    },
+    "lock": {
+      "codepoint": 57375,
+      "fontFamily": "Gala",
+      "identifier": "lock"
+    },
+    "menu-left": {
+      "codepoint": 57376,
+      "fontFamily": "Gala",
+      "identifier": "menuLeft"
+    },
+    "menu-right": {
+      "codepoint": 57377,
+      "fontFamily": "Gala",
+      "identifier": "menuRight"
+    },
+    "mouse": {
+      "codepoint": 57378,
+      "fontFamily": "Gala",
+      "identifier": "mouse"
+    },
+    "multi": {
+      "codepoint": 57379,
+      "fontFamily": "Gala",
+      "identifier": "multi"
+    },
+    "orbit": {
+      "codepoint": 57380,
+      "fontFamily": "Gala",
+      "identifier": "orbit"
+    },
+    "portrait1": {
+      "codepoint": 57381,
+      "fontFamily": "Gala",
+      "identifier": "portrait1"
+    },
+    "portrait2": {
+      "codepoint": 57382,
+      "fontFamily": "Gala",
+      "identifier": "portrait2"
+    },
+    "radar": {
+      "codepoint": 57383,
+      "fontFamily": "Gala",
+      "identifier": "radar"
+    },
+    "remove": {
+      "codepoint": 57384,
+      "fontFamily": "Gala",
+      "identifier": "remove"
+    },
+    "search": {
+      "codepoint": 57385,
+      "fontFamily": "Gala",
+      "identifier": "search"
+    },
+    "secure": {
+      "codepoint": 57386,
+      "fontFamily": "Gala",
+      "identifier": "secure"
+    },
+    "select": {
+      "codepoint": 57387,
+      "fontFamily": "Gala",
+      "identifier": "select"
+    },
+    "settings": {
+      "codepoint": 57388,
+      "fontFamily": "Gala",
+      "identifier": "settings"
+    },
+    "shield": {
+      "codepoint": 57389,
+      "fontFamily": "Gala",
+      "identifier": "shield"
+    },
+    "sidebar-left": {
+      "codepoint": 57390,
+      "fontFamily": "Gala",
+      "identifier": "sidebarLeft"
+    },
+    "sidebar-right": {
+      "codepoint": 57391,
+      "fontFamily": "Gala",
+      "identifier": "sidebarRight"
+    },
+    "store": {
+      "codepoint": 57392,
+      "fontFamily": "Gala",
+      "identifier": "store"
+    },
+    "terminal": {
+      "codepoint": 57393,
+      "fontFamily": "Gala",
+      "identifier": "terminal"
+    },
+    "tv": {
+      "codepoint": 57394,
+      "fontFamily": "Gala",
+      "identifier": "tv"
+    },
+    "unlock": {
+      "codepoint": 57395,
+      "fontFamily": "Gala",
+      "identifier": "unlock"
+    },
+    "usb": {
+      "codepoint": 57396,
+      "fontFamily": "Gala",
+      "identifier": "usb"
+    },
+    "video": {
+      "codepoint": 57397,
+      "fontFamily": "Gala",
+      "identifier": "video"
+    },
+    "window": {
+      "codepoint": 57398,
+      "fontFamily": "Gala",
+      "identifier": "window"
+    }
+  }
+}

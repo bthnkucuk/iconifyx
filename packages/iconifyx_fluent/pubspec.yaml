@@ -1,6 +1,6 @@
 name: iconifyx_fluent
 description: >-
-  Fluent UI System Icons icons from Iconify, packaged for Flutter (20266 icons, MIT license).
+  Fluent UI System Icons icons from Iconify, packaged for Flutter (4840 icons, MIT license).
 version: 0.1.0
 publish_to: 'none'
 
@@ -20,12 +20,3 @@ flutter:
     - family: Fluent
       fonts:
         - asset: assets/fonts/Fluent.ttf
-    - family: Fluent_2
-      fonts:
-        - asset: assets/fonts/Fluent_2.ttf
-    - family: Fluent_3
-      fonts:
-        - asset: assets/fonts/Fluent_3.ttf
-    - family: Fluent_4
-      fonts:
-        - asset: assets/fonts/Fluent_4.ttf

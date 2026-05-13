@@ -15,1345 +15,315 @@
       "title": "MIT",
       "spdx": "MIT"
     },
-    "total": 266
+    "total": 60
   },
   "fonts": [
     {
       "family": "Raphael",
-      "nextCodepoint": 57610,
-      "iconCount": 266
+      "nextCodepoint": 57404,
+      "iconCount": 60
     }
   ],
   "icons": {
-    "500px": {
-      "codepoint": 57344,
-      "fontFamily": "Raphael",
-      "identifier": "n500px"
-    },
-    "acw": {
-      "codepoint": 57345,
-      "fontFamily": "Raphael",
-      "identifier": "acw"
-    },
-    "alarm": {
-      "codepoint": 57346,
-      "fontFamily": "Raphael",
-      "identifier": "alarm"
-    },
-    "android": {
-      "codepoint": 57347,
-      "fontFamily": "Raphael",
-      "identifier": "android"
-    },
-    "anonymous": {
-      "codepoint": 57348,
-      "fontFamily": "Raphael",
-      "identifier": "anonymous"
-    },
-    "apple": {
-      "codepoint": 57349,
-      "fontFamily": "Raphael",
-      "identifier": "apple"
-    },
-    "apps": {
-      "codepoint": 57350,
-      "fontFamily": "Raphael",
-      "identifier": "apps"
-    },
     "arrowalt": {
-      "codepoint": 57351,
+      "codepoint": 57344,
       "fontFamily": "Raphael",
       "identifier": "arrowalt"
     },
-    "arrowdown": {
-      "codepoint": 57352,
-      "fontFamily": "Raphael",
-      "identifier": "arrowdown"
-    },
-    "arrowleft": {
-      "codepoint": 57353,
-      "fontFamily": "Raphael",
-      "identifier": "arrowleft"
-    },
     "arrowleft2": {
-      "codepoint": 57354,
+      "codepoint": 57345,
       "fontFamily": "Raphael",
       "identifier": "arrowleft2"
     },
     "arrowleftalt": {
-      "codepoint": 57355,
+      "codepoint": 57346,
       "fontFamily": "Raphael",
       "identifier": "arrowleftalt"
     },
-    "arrowright": {
-      "codepoint": 57356,
-      "fontFamily": "Raphael",
-      "identifier": "arrowright"
-    },
     "arrowright2": {
-      "codepoint": 57357,
+      "codepoint": 57347,
       "fontFamily": "Raphael",
       "identifier": "arrowright2"
     },
-    "arrowup": {
-      "codepoint": 57358,
-      "fontFamily": "Raphael",
-      "identifier": "arrowup"
-    },
-    "aumade": {
-      "codepoint": 57359,
-      "fontFamily": "Raphael",
-      "identifier": "aumade"
-    },
     "barchart": {
-      "codepoint": 57360,
+      "codepoint": 57348,
       "fontFamily": "Raphael",
       "identifier": "barchart"
     },
-    "bell": {
-      "codepoint": 57361,
-      "fontFamily": "Raphael",
-      "identifier": "bell"
-    },
-    "biohazard": {
-      "codepoint": 57362,
-      "fontFamily": "Raphael",
-      "identifier": "biohazard"
-    },
     "bolt": {
-      "codepoint": 57363,
+      "codepoint": 57349,
       "fontFamily": "Raphael",
       "identifier": "bolt"
     },
-    "book": {
-      "codepoint": 57364,
-      "fontFamily": "Raphael",
-      "identifier": "book"
-    },
-    "bookmark": {
-      "codepoint": 57365,
-      "fontFamily": "Raphael",
-      "identifier": "bookmark"
-    },
-    "books": {
-      "codepoint": 57366,
-      "fontFamily": "Raphael",
-      "identifier": "books"
-    },
-    "brush": {
-      "codepoint": 57367,
-      "fontFamily": "Raphael",
-      "identifier": "brush"
-    },
     "bubble": {
-      "codepoint": 57368,
+      "codepoint": 57350,
       "fontFamily": "Raphael",
       "identifier": "bubble"
     },
-    "bucket": {
-      "codepoint": 57369,
-      "fontFamily": "Raphael",
-      "identifier": "bucket"
-    },
-    "bug": {
-      "codepoint": 57370,
-      "fontFamily": "Raphael",
-      "identifier": "bug"
-    },
-    "bus": {
-      "codepoint": 57371,
-      "fontFamily": "Raphael",
-      "identifier": "bus"
-    },
-    "calendar": {
-      "codepoint": 57372,
-      "fontFamily": "Raphael",
-      "identifier": "calendar"
-    },
     "calendar2": {
-      "codepoint": 57373,
+      "codepoint": 57351,
       "fontFamily": "Raphael",
       "identifier": "calendar2"
     },
-    "car": {
-      "codepoint": 57374,
-      "fontFamily": "Raphael",
-      "identifier": "car"
-    },
-    "cart": {
-      "codepoint": 57375,
-      "fontFamily": "Raphael",
-      "identifier": "cart"
-    },
-    "ccw": {
-      "codepoint": 57376,
-      "fontFamily": "Raphael",
-      "identifier": "ccw"
-    },
-    "charging": {
-      "codepoint": 57377,
-      "fontFamily": "Raphael",
-      "identifier": "charging"
-    },
-    "chat": {
-      "codepoint": 57378,
-      "fontFamily": "Raphael",
-      "identifier": "chat"
-    },
     "check": {
-      "codepoint": 57379,
+      "codepoint": 57352,
       "fontFamily": "Raphael",
       "identifier": "check"
     },
-    "checkbox": {
-      "codepoint": 57380,
-      "fontFamily": "Raphael",
-      "identifier": "checkbox"
-    },
-    "checked": {
-      "codepoint": 57381,
-      "fontFamily": "Raphael",
-      "identifier": "checked"
-    },
-    "chrome": {
-      "codepoint": 57382,
-      "fontFamily": "Raphael",
-      "identifier": "chrome"
-    },
-    "clip": {
-      "codepoint": 57383,
-      "fontFamily": "Raphael",
-      "identifier": "clip"
-    },
-    "clock": {
-      "codepoint": 57384,
-      "fontFamily": "Raphael",
-      "identifier": "clock"
-    },
-    "cloud": {
-      "codepoint": 57385,
-      "fontFamily": "Raphael",
-      "identifier": "cloud"
-    },
-    "cloud2": {
-      "codepoint": 57386,
-      "fontFamily": "Raphael",
-      "identifier": "cloud2"
-    },
-    "clouddown": {
-      "codepoint": 57387,
-      "fontFamily": "Raphael",
-      "identifier": "clouddown"
-    },
-    "cloudup": {
-      "codepoint": 57388,
-      "fontFamily": "Raphael",
-      "identifier": "cloudup"
-    },
-    "cloudy": {
-      "codepoint": 57389,
-      "fontFamily": "Raphael",
-      "identifier": "cloudy"
-    },
-    "code": {
-      "codepoint": 57390,
-      "fontFamily": "Raphael",
-      "identifier": "code"
-    },
     "codetalk": {
-      "codepoint": 57391,
+      "codepoint": 57353,
       "fontFamily": "Raphael",
       "identifier": "codetalk"
     },
-    "coffee": {
-      "codepoint": 57392,
-      "fontFamily": "Raphael",
-      "identifier": "coffee"
-    },
     "commandline": {
-      "codepoint": 57393,
+      "codepoint": 57354,
       "fontFamily": "Raphael",
       "identifier": "commandline"
     },
-    "connect": {
-      "codepoint": 57394,
-      "fontFamily": "Raphael",
-      "identifier": "connect"
-    },
-    "contract": {
-      "codepoint": 57395,
-      "fontFamily": "Raphael",
-      "identifier": "contract"
-    },
     "crop": {
-      "codepoint": 57396,
+      "codepoint": 57355,
       "fontFamily": "Raphael",
       "identifier": "crop"
     },
     "cross": {
-      "codepoint": 57397,
+      "codepoint": 57356,
       "fontFamily": "Raphael",
       "identifier": "cross"
     },
-    "crown": {
-      "codepoint": 57398,
-      "fontFamily": "Raphael",
-      "identifier": "crown"
-    },
-    "cube": {
-      "codepoint": 57399,
-      "fontFamily": "Raphael",
-      "identifier": "cube"
-    },
-    "customer": {
-      "codepoint": 57400,
-      "fontFamily": "Raphael",
-      "identifier": "customer"
-    },
-    "db": {
-      "codepoint": 57401,
-      "fontFamily": "Raphael",
-      "identifier": "db"
-    },
-    "detour": {
-      "codepoint": 57402,
-      "fontFamily": "Raphael",
-      "identifier": "detour"
-    },
-    "diagram": {
-      "codepoint": 57403,
-      "fontFamily": "Raphael",
-      "identifier": "diagram"
-    },
-    "disconnect": {
-      "codepoint": 57404,
-      "fontFamily": "Raphael",
-      "identifier": "disconnect"
-    },
     "dockbottom": {
-      "codepoint": 57405,
+      "codepoint": 57357,
       "fontFamily": "Raphael",
       "identifier": "dockbottom"
     },
     "dockleft": {
-      "codepoint": 57406,
+      "codepoint": 57358,
       "fontFamily": "Raphael",
       "identifier": "dockleft"
     },
     "dockright": {
-      "codepoint": 57407,
+      "codepoint": 57359,
       "fontFamily": "Raphael",
       "identifier": "dockright"
     },
     "docktop": {
-      "codepoint": 57408,
+      "codepoint": 57360,
       "fontFamily": "Raphael",
       "identifier": "docktop"
     },
-    "dollar": {
-      "codepoint": 57409,
-      "fontFamily": "Raphael",
-      "identifier": "dollar"
-    },
     "download": {
-      "codepoint": 57410,
+      "codepoint": 57361,
       "fontFamily": "Raphael",
       "identifier": "download"
     },
-    "dribbble": {
-      "codepoint": 57411,
-      "fontFamily": "Raphael",
-      "identifier": "dribbble"
-    },
-    "dry": {
-      "codepoint": 57412,
-      "fontFamily": "Raphael",
-      "identifier": "dry"
-    },
-    "edit": {
-      "codepoint": 57413,
-      "fontFamily": "Raphael",
-      "identifier": "edit"
-    },
-    "employee": {
-      "codepoint": 57414,
-      "fontFamily": "Raphael",
-      "identifier": "employee"
-    },
     "end": {
-      "codepoint": 57415,
+      "codepoint": 57362,
       "fontFamily": "Raphael",
       "identifier": "end"
     },
     "ethernet": {
-      "codepoint": 57416,
+      "codepoint": 57363,
       "fontFamily": "Raphael",
       "identifier": "ethernet"
     },
     "exchange": {
-      "codepoint": 57417,
+      "codepoint": 57364,
       "fontFamily": "Raphael",
       "identifier": "exchange"
     },
-    "exclamation": {
-      "codepoint": 57418,
-      "fontFamily": "Raphael",
-      "identifier": "exclamation"
-    },
     "expand": {
-      "codepoint": 57419,
+      "codepoint": 57365,
       "fontFamily": "Raphael",
       "identifier": "expand"
     },
     "export": {
-      "codepoint": 57420,
+      "codepoint": 57366,
       "fontFamily": "Raphael",
       "identifier": "export_"
     },
-    "facebook": {
-      "codepoint": 57421,
-      "fontFamily": "Raphael",
-      "identifier": "facebook"
-    },
-    "fave": {
-      "codepoint": 57422,
-      "fontFamily": "Raphael",
-      "identifier": "fave"
-    },
     "feed": {
-      "codepoint": 57423,
+      "codepoint": 57367,
       "fontFamily": "Raphael",
       "identifier": "feed"
     },
     "ff": {
-      "codepoint": 57424,
+      "codepoint": 57368,
       "fontFamily": "Raphael",
       "identifier": "ff"
     },
-    "filter": {
-      "codepoint": 57425,
-      "fontFamily": "Raphael",
-      "identifier": "filter"
-    },
-    "firefox": {
-      "codepoint": 57426,
-      "fontFamily": "Raphael",
-      "identifier": "firefox"
-    },
-    "fitocracy": {
-      "codepoint": 57427,
-      "fontFamily": "Raphael",
-      "identifier": "fitocracy"
-    },
     "flag": {
-      "codepoint": 57428,
+      "codepoint": 57369,
       "fontFamily": "Raphael",
       "identifier": "flag"
     },
     "flag-alt": {
-      "codepoint": 57429,
+      "codepoint": 57370,
       "fontFamily": "Raphael",
       "identifier": "flagAlt"
     },
     "flickr": {
-      "codepoint": 57430,
+      "codepoint": 57371,
       "fontFamily": "Raphael",
       "identifier": "flickr"
     },
-    "folder": {
-      "codepoint": 57431,
-      "fontFamily": "Raphael",
-      "identifier": "folder"
-    },
-    "font": {
-      "codepoint": 57432,
-      "fontFamily": "Raphael",
-      "identifier": "font"
-    },
-    "fork": {
-      "codepoint": 57433,
-      "fontFamily": "Raphael",
-      "identifier": "fork"
-    },
-    "fork-alt": {
-      "codepoint": 57434,
-      "fontFamily": "Raphael",
-      "identifier": "forkAlt"
-    },
-    "full-battery": {
-      "codepoint": 57435,
-      "fontFamily": "Raphael",
-      "identifier": "fullBattery"
-    },
-    "fullcube": {
-      "codepoint": 57436,
-      "fontFamily": "Raphael",
-      "identifier": "fullcube"
-    },
-    "future": {
-      "codepoint": 57437,
-      "fontFamily": "Raphael",
-      "identifier": "future"
-    },
-    "gear": {
-      "codepoint": 57438,
-      "fontFamily": "Raphael",
-      "identifier": "gear"
-    },
-    "github": {
-      "codepoint": 57439,
-      "fontFamily": "Raphael",
-      "identifier": "github"
-    },
-    "githubalt": {
-      "codepoint": 57440,
-      "fontFamily": "Raphael",
-      "identifier": "githubalt"
-    },
-    "glasses": {
-      "codepoint": 57441,
-      "fontFamily": "Raphael",
-      "identifier": "glasses"
-    },
-    "globe": {
-      "codepoint": 57442,
-      "fontFamily": "Raphael",
-      "identifier": "globe"
-    },
-    "globealt": {
-      "codepoint": 57443,
-      "fontFamily": "Raphael",
-      "identifier": "globealt"
-    },
-    "globealt2": {
-      "codepoint": 57444,
-      "fontFamily": "Raphael",
-      "identifier": "globealt2"
-    },
-    "gplus": {
-      "codepoint": 57445,
-      "fontFamily": "Raphael",
-      "identifier": "gplus"
-    },
-    "graphael": {
-      "codepoint": 57446,
-      "fontFamily": "Raphael",
-      "identifier": "graphael"
-    },
     "green": {
-      "codepoint": 57447,
+      "codepoint": 57372,
       "fontFamily": "Raphael",
       "identifier": "green"
     },
-    "hail": {
-      "codepoint": 57448,
-      "fontFamily": "Raphael",
-      "identifier": "hail"
-    },
-    "hammer": {
-      "codepoint": 57449,
-      "fontFamily": "Raphael",
-      "identifier": "hammer"
-    },
-    "hammerandscrewdriver": {
-      "codepoint": 57450,
-      "fontFamily": "Raphael",
-      "identifier": "hammerandscrewdriver"
-    },
-    "hangup": {
-      "codepoint": 57451,
-      "fontFamily": "Raphael",
-      "identifier": "hangup"
-    },
-    "help": {
-      "codepoint": 57452,
-      "fontFamily": "Raphael",
-      "identifier": "help"
-    },
-    "history": {
-      "codepoint": 57453,
-      "fontFamily": "Raphael",
-      "identifier": "history"
-    },
     "home": {
-      "codepoint": 57454,
+      "codepoint": 57373,
       "fontFamily": "Raphael",
       "identifier": "home"
     },
-    "hp": {
-      "codepoint": 57455,
-      "fontFamily": "Raphael",
-      "identifier": "hp"
-    },
     "icons": {
-      "codepoint": 57456,
+      "codepoint": 57374,
       "fontFamily": "Raphael",
       "identifier": "icons"
     },
-    "ie": {
-      "codepoint": 57457,
-      "fontFamily": "Raphael",
-      "identifier": "ie"
-    },
-    "ie9": {
-      "codepoint": 57458,
-      "fontFamily": "Raphael",
-      "identifier": "ie9"
-    },
-    "imac": {
-      "codepoint": 57459,
-      "fontFamily": "Raphael",
-      "identifier": "imac"
-    },
     "import": {
-      "codepoint": 57460,
+      "codepoint": 57375,
       "fontFamily": "Raphael",
       "identifier": "import_"
     },
     "inbox": {
-      "codepoint": 57461,
+      "codepoint": 57376,
       "fontFamily": "Raphael",
       "identifier": "inbox"
     },
-    "info": {
-      "codepoint": 57462,
-      "fontFamily": "Raphael",
-      "identifier": "info"
-    },
-    "inkscape": {
-      "codepoint": 57463,
-      "fontFamily": "Raphael",
-      "identifier": "inkscape"
-    },
-    "instagram": {
-      "codepoint": 57464,
-      "fontFamily": "Raphael",
-      "identifier": "instagram"
-    },
-    "ios": {
-      "codepoint": 57465,
-      "fontFamily": "Raphael",
-      "identifier": "ios"
-    },
-    "ipad": {
-      "codepoint": 57466,
-      "fontFamily": "Raphael",
-      "identifier": "ipad"
-    },
-    "iphone": {
-      "codepoint": 57467,
-      "fontFamily": "Raphael",
-      "identifier": "iphone"
-    },
-    "jigsaw": {
-      "codepoint": 57468,
-      "fontFamily": "Raphael",
-      "identifier": "jigsaw"
-    },
-    "jquery": {
-      "codepoint": 57469,
-      "fontFamily": "Raphael",
-      "identifier": "jquery"
-    },
-    "js": {
-      "codepoint": 57470,
-      "fontFamily": "Raphael",
-      "identifier": "js"
-    },
-    "key": {
-      "codepoint": 57471,
-      "fontFamily": "Raphael",
-      "identifier": "key"
-    },
-    "lab": {
-      "codepoint": 57472,
-      "fontFamily": "Raphael",
-      "identifier": "lab"
-    },
-    "lamp": {
-      "codepoint": 57473,
-      "fontFamily": "Raphael",
-      "identifier": "lamp"
-    },
-    "lamp-alt": {
-      "codepoint": 57474,
-      "fontFamily": "Raphael",
-      "identifier": "lampAlt"
-    },
-    "landing": {
-      "codepoint": 57475,
-      "fontFamily": "Raphael",
-      "identifier": "landing"
-    },
-    "landscape1": {
-      "codepoint": 57476,
-      "fontFamily": "Raphael",
-      "identifier": "landscape1"
-    },
-    "landscape2": {
-      "codepoint": 57477,
-      "fontFamily": "Raphael",
-      "identifier": "landscape2"
-    },
-    "linechart": {
-      "codepoint": 57478,
-      "fontFamily": "Raphael",
-      "identifier": "linechart"
-    },
     "link": {
-      "codepoint": 57479,
+      "codepoint": 57377,
       "fontFamily": "Raphael",
       "identifier": "link"
     },
-    "linkedin": {
-      "codepoint": 57480,
-      "fontFamily": "Raphael",
-      "identifier": "linkedin"
-    },
-    "linux": {
-      "codepoint": 57481,
-      "fontFamily": "Raphael",
-      "identifier": "linux"
-    },
     "list": {
-      "codepoint": 57482,
+      "codepoint": 57378,
       "fontFamily": "Raphael",
       "identifier": "list"
     },
     "loaction2": {
-      "codepoint": 57483,
+      "codepoint": 57379,
       "fontFamily": "Raphael",
       "identifier": "loaction2"
     },
     "location": {
-      "codepoint": 57484,
+      "codepoint": 57380,
       "fontFamily": "Raphael",
       "identifier": "location"
     },
-    "lock": {
-      "codepoint": 57485,
-      "fontFamily": "Raphael",
-      "identifier": "lock"
-    },
-    "locked": {
-      "codepoint": 57486,
-      "fontFamily": "Raphael",
-      "identifier": "locked"
-    },
-    "low-battery": {
-      "codepoint": 57487,
-      "fontFamily": "Raphael",
-      "identifier": "lowBattery"
-    },
-    "magic": {
-      "codepoint": 57488,
-      "fontFamily": "Raphael",
-      "identifier": "magic"
-    },
-    "magnet": {
-      "codepoint": 57489,
-      "fontFamily": "Raphael",
-      "identifier": "magnet"
-    },
     "mail": {
-      "codepoint": 57490,
+      "codepoint": 57381,
       "fontFamily": "Raphael",
       "identifier": "mail"
     },
-    "man": {
-      "codepoint": 57491,
-      "fontFamily": "Raphael",
-      "identifier": "man"
-    },
-    "merge": {
-      "codepoint": 57492,
-      "fontFamily": "Raphael",
-      "identifier": "merge"
-    },
-    "mic": {
-      "codepoint": 57493,
-      "fontFamily": "Raphael",
-      "identifier": "mic"
-    },
-    "micmute": {
-      "codepoint": 57494,
-      "fontFamily": "Raphael",
-      "identifier": "micmute"
-    },
     "minus": {
-      "codepoint": 57495,
+      "codepoint": 57382,
       "fontFamily": "Raphael",
       "identifier": "minus"
     },
-    "music": {
-      "codepoint": 57496,
-      "fontFamily": "Raphael",
-      "identifier": "music"
-    },
-    "mute": {
-      "codepoint": 57497,
-      "fontFamily": "Raphael",
-      "identifier": "mute"
-    },
     "newwindow": {
-      "codepoint": 57498,
+      "codepoint": 57383,
       "fontFamily": "Raphael",
       "identifier": "newwindow"
     },
-    "no": {
-      "codepoint": 57499,
-      "fontFamily": "Raphael",
-      "identifier": "no"
-    },
-    "nodejs": {
-      "codepoint": 57500,
-      "fontFamily": "Raphael",
-      "identifier": "nodejs"
-    },
-    "nomagnet": {
-      "codepoint": 57501,
-      "fontFamily": "Raphael",
-      "identifier": "nomagnet"
-    },
-    "notebook": {
-      "codepoint": 57502,
-      "fontFamily": "Raphael",
-      "identifier": "notebook"
-    },
-    "noview": {
-      "codepoint": 57503,
-      "fontFamily": "Raphael",
-      "identifier": "noview"
-    },
     "opensource": {
-      "codepoint": 57504,
+      "codepoint": 57384,
       "fontFamily": "Raphael",
       "identifier": "opensource"
     },
-    "opera": {
-      "codepoint": 57505,
-      "fontFamily": "Raphael",
-      "identifier": "opera"
-    },
-    "package": {
-      "codepoint": 57506,
-      "fontFamily": "Raphael",
-      "identifier": "package"
-    },
-    "page": {
-      "codepoint": 57507,
-      "fontFamily": "Raphael",
-      "identifier": "page"
-    },
-    "page2": {
-      "codepoint": 57508,
-      "fontFamily": "Raphael",
-      "identifier": "page2"
-    },
-    "paint": {
-      "codepoint": 57509,
-      "fontFamily": "Raphael",
-      "identifier": "paint"
-    },
-    "pallete": {
-      "codepoint": 57510,
-      "fontFamily": "Raphael",
-      "identifier": "pallete"
-    },
-    "palm": {
-      "codepoint": 57511,
-      "fontFamily": "Raphael",
-      "identifier": "palm"
-    },
-    "paper": {
-      "codepoint": 57512,
-      "fontFamily": "Raphael",
-      "identifier": "paper"
-    },
-    "parent": {
-      "codepoint": 57513,
-      "fontFamily": "Raphael",
-      "identifier": "parent"
-    },
-    "pc": {
-      "codepoint": 57514,
-      "fontFamily": "Raphael",
-      "identifier": "pc"
-    },
-    "pen": {
-      "codepoint": 57515,
-      "fontFamily": "Raphael",
-      "identifier": "pen"
-    },
-    "pensil": {
-      "codepoint": 57516,
-      "fontFamily": "Raphael",
-      "identifier": "pensil"
-    },
-    "people": {
-      "codepoint": 57517,
-      "fontFamily": "Raphael",
-      "identifier": "people"
-    },
-    "phone": {
-      "codepoint": 57518,
-      "fontFamily": "Raphael",
-      "identifier": "phone"
-    },
     "photo": {
-      "codepoint": 57519,
+      "codepoint": 57385,
       "fontFamily": "Raphael",
       "identifier": "photo"
     },
-    "picker": {
-      "codepoint": 57520,
-      "fontFamily": "Raphael",
-      "identifier": "picker"
-    },
     "picture": {
-      "codepoint": 57521,
+      "codepoint": 57386,
       "fontFamily": "Raphael",
       "identifier": "picture"
     },
-    "piechart": {
-      "codepoint": 57522,
-      "fontFamily": "Raphael",
-      "identifier": "piechart"
-    },
-    "plane": {
-      "codepoint": 57523,
-      "fontFamily": "Raphael",
-      "identifier": "plane"
-    },
     "play": {
-      "codepoint": 57524,
+      "codepoint": 57387,
       "fontFamily": "Raphael",
       "identifier": "play"
     },
-    "plugin": {
-      "codepoint": 57525,
-      "fontFamily": "Raphael",
-      "identifier": "plugin"
-    },
     "plus": {
-      "codepoint": 57526,
+      "codepoint": 57388,
       "fontFamily": "Raphael",
       "identifier": "plus"
     },
-    "power": {
-      "codepoint": 57527,
-      "fontFamily": "Raphael",
-      "identifier": "power"
-    },
-    "ppt": {
-      "codepoint": 57528,
-      "fontFamily": "Raphael",
-      "identifier": "ppt"
-    },
-    "printer": {
-      "codepoint": 57529,
-      "fontFamily": "Raphael",
-      "identifier": "printer"
-    },
-    "question": {
-      "codepoint": 57530,
-      "fontFamily": "Raphael",
-      "identifier": "question"
-    },
-    "question2": {
-      "codepoint": 57531,
-      "fontFamily": "Raphael",
-      "identifier": "question2"
-    },
-    "quote": {
-      "codepoint": 57532,
-      "fontFamily": "Raphael",
-      "identifier": "quote"
-    },
-    "rain": {
-      "codepoint": 57533,
-      "fontFamily": "Raphael",
-      "identifier": "rain"
-    },
-    "raphael": {
-      "codepoint": 57534,
-      "fontFamily": "Raphael",
-      "identifier": "raphael"
-    },
-    "reflecth": {
-      "codepoint": 57535,
-      "fontFamily": "Raphael",
-      "identifier": "reflecth"
-    },
-    "reflectv": {
-      "codepoint": 57536,
-      "fontFamily": "Raphael",
-      "identifier": "reflectv"
-    },
     "refresh": {
-      "codepoint": 57537,
+      "codepoint": 57389,
       "fontFamily": "Raphael",
       "identifier": "refresh"
     },
     "resize2": {
-      "codepoint": 57538,
+      "codepoint": 57390,
       "fontFamily": "Raphael",
       "identifier": "resize2"
     },
-    "roadmap": {
-      "codepoint": 57539,
-      "fontFamily": "Raphael",
-      "identifier": "roadmap"
-    },
     "rotate": {
-      "codepoint": 57540,
+      "codepoint": 57391,
       "fontFamily": "Raphael",
       "identifier": "rotate"
     },
-    "ruler": {
-      "codepoint": 57541,
-      "fontFamily": "Raphael",
-      "identifier": "ruler"
-    },
-    "run": {
-      "codepoint": 57542,
-      "fontFamily": "Raphael",
-      "identifier": "run"
-    },
     "rw": {
-      "codepoint": 57543,
+      "codepoint": 57392,
       "fontFamily": "Raphael",
       "identifier": "rw"
     },
-    "safari": {
-      "codepoint": 57544,
-      "fontFamily": "Raphael",
-      "identifier": "safari"
-    },
-    "scissors": {
-      "codepoint": 57545,
-      "fontFamily": "Raphael",
-      "identifier": "scissors"
-    },
-    "screwdriver": {
-      "codepoint": 57546,
-      "fontFamily": "Raphael",
-      "identifier": "screwdriver"
-    },
-    "search": {
-      "codepoint": 57547,
-      "fontFamily": "Raphael",
-      "identifier": "search"
-    },
     "sencha": {
-      "codepoint": 57548,
+      "codepoint": 57393,
       "fontFamily": "Raphael",
       "identifier": "sencha"
     },
-    "settings": {
-      "codepoint": 57549,
-      "fontFamily": "Raphael",
-      "identifier": "settings"
-    },
-    "settingsalt": {
-      "codepoint": 57550,
-      "fontFamily": "Raphael",
-      "identifier": "settingsalt"
-    },
-    "shuffle": {
-      "codepoint": 57551,
-      "fontFamily": "Raphael",
-      "identifier": "shuffle"
-    },
-    "skull": {
-      "codepoint": 57552,
-      "fontFamily": "Raphael",
-      "identifier": "skull"
-    },
-    "skype": {
-      "codepoint": 57553,
-      "fontFamily": "Raphael",
-      "identifier": "skype"
-    },
-    "slideshare": {
-      "codepoint": 57554,
-      "fontFamily": "Raphael",
-      "identifier": "slideshare"
-    },
-    "smallgear": {
-      "codepoint": 57555,
-      "fontFamily": "Raphael",
-      "identifier": "smallgear"
-    },
-    "smile": {
-      "codepoint": 57556,
-      "fontFamily": "Raphael",
-      "identifier": "smile"
-    },
-    "smile2": {
-      "codepoint": 57557,
-      "fontFamily": "Raphael",
-      "identifier": "smile2"
-    },
-    "snow": {
-      "codepoint": 57558,
-      "fontFamily": "Raphael",
-      "identifier": "snow"
-    },
-    "speaker": {
-      "codepoint": 57559,
-      "fontFamily": "Raphael",
-      "identifier": "speaker"
-    },
-    "split": {
-      "codepoint": 57560,
-      "fontFamily": "Raphael",
-      "identifier": "split"
-    },
     "star": {
-      "codepoint": 57561,
+      "codepoint": 57394,
       "fontFamily": "Raphael",
       "identifier": "star"
     },
-    "star2": {
-      "codepoint": 57562,
-      "fontFamily": "Raphael",
-      "identifier": "star2"
-    },
-    "star2off": {
-      "codepoint": 57563,
-      "fontFamily": "Raphael",
-      "identifier": "star2off"
-    },
-    "star3": {
-      "codepoint": 57564,
-      "fontFamily": "Raphael",
-      "identifier": "star3"
-    },
-    "star3off": {
-      "codepoint": 57565,
-      "fontFamily": "Raphael",
-      "identifier": "star3off"
-    },
     "staroff": {
-      "codepoint": 57566,
+      "codepoint": 57395,
       "fontFamily": "Raphael",
       "identifier": "staroff"
     },
     "start": {
-      "codepoint": 57567,
+      "codepoint": 57396,
       "fontFamily": "Raphael",
       "identifier": "start"
     },
-    "sticker": {
-      "codepoint": 57568,
-      "fontFamily": "Raphael",
-      "identifier": "sticker"
-    },
     "stop": {
-      "codepoint": 57569,
+      "codepoint": 57397,
       "fontFamily": "Raphael",
       "identifier": "stop"
     },
-    "stopsign": {
-      "codepoint": 57570,
-      "fontFamily": "Raphael",
-      "identifier": "stopsign"
-    },
-    "stopwatch": {
-      "codepoint": 57571,
-      "fontFamily": "Raphael",
-      "identifier": "stopwatch"
-    },
-    "sun": {
-      "codepoint": 57572,
-      "fontFamily": "Raphael",
-      "identifier": "sun"
-    },
-    "svg": {
-      "codepoint": 57573,
-      "fontFamily": "Raphael",
-      "identifier": "svg"
-    },
-    "tag": {
-      "codepoint": 57574,
-      "fontFamily": "Raphael",
-      "identifier": "tag"
-    },
-    "takeoff": {
-      "codepoint": 57575,
-      "fontFamily": "Raphael",
-      "identifier": "takeoff"
-    },
-    "talke": {
-      "codepoint": 57576,
-      "fontFamily": "Raphael",
-      "identifier": "talke"
-    },
-    "talkq": {
-      "codepoint": 57577,
-      "fontFamily": "Raphael",
-      "identifier": "talkq"
-    },
-    "taxi": {
-      "codepoint": 57578,
-      "fontFamily": "Raphael",
-      "identifier": "taxi"
-    },
-    "temp": {
-      "codepoint": 57579,
-      "fontFamily": "Raphael",
-      "identifier": "temp"
-    },
     "terminal": {
-      "codepoint": 57580,
+      "codepoint": 57398,
       "fontFamily": "Raphael",
       "identifier": "terminal"
     },
-    "thunder": {
-      "codepoint": 57581,
-      "fontFamily": "Raphael",
-      "identifier": "thunder"
-    },
-    "ticket": {
-      "codepoint": 57582,
-      "fontFamily": "Raphael",
-      "identifier": "ticket"
-    },
-    "train": {
-      "codepoint": 57583,
-      "fontFamily": "Raphael",
-      "identifier": "train"
-    },
-    "trash": {
-      "codepoint": 57584,
-      "fontFamily": "Raphael",
-      "identifier": "trash"
-    },
     "tshirt": {
-      "codepoint": 57585,
+      "codepoint": 57399,
       "fontFamily": "Raphael",
       "identifier": "tshirt"
     },
     "twitter": {
-      "codepoint": 57586,
+      "codepoint": 57400,
       "fontFamily": "Raphael",
       "identifier": "twitter"
     },
-    "twitterbird": {
-      "codepoint": 57587,
-      "fontFamily": "Raphael",
-      "identifier": "twitterbird"
-    },
-    "umbrella": {
-      "codepoint": 57588,
-      "fontFamily": "Raphael",
-      "identifier": "umbrella"
-    },
-    "undo": {
-      "codepoint": 57589,
-      "fontFamily": "Raphael",
-      "identifier": "undo"
-    },
-    "unlock": {
-      "codepoint": 57590,
-      "fontFamily": "Raphael",
-      "identifier": "unlock"
-    },
-    "usb": {
-      "codepoint": 57591,
-      "fontFamily": "Raphael",
-      "identifier": "usb"
-    },
-    "user": {
-      "codepoint": 57592,
-      "fontFamily": "Raphael",
-      "identifier": "user"
-    },
-    "users": {
-      "codepoint": 57593,
-      "fontFamily": "Raphael",
-      "identifier": "users"
-    },
     "video": {
-      "codepoint": 57594,
+      "codepoint": 57401,
       "fontFamily": "Raphael",
       "identifier": "video"
     },
     "view": {
-      "codepoint": 57595,
+      "codepoint": 57402,
       "fontFamily": "Raphael",
       "identifier": "view"
     },
-    "vim": {
-      "codepoint": 57596,
-      "fontFamily": "Raphael",
-      "identifier": "vim"
-    },
     "volume0": {
-      "codepoint": 57597,
+      "codepoint": 57403,
       "fontFamily": "Raphael",
       "identifier": "volume0"
-    },
-    "volume1": {
-      "codepoint": 57598,
-      "fontFamily": "Raphael",
-      "identifier": "volume1"
-    },
-    "volume2": {
-      "codepoint": 57599,
-      "fontFamily": "Raphael",
-      "identifier": "volume2"
-    },
-    "volume3": {
-      "codepoint": 57600,
-      "fontFamily": "Raphael",
-      "identifier": "volume3"
-    },
-    "warning": {
-      "codepoint": 57601,
-      "fontFamily": "Raphael",
-      "identifier": "warning"
-    },
-    "wheelchair": {
-      "codepoint": 57602,
-      "fontFamily": "Raphael",
-      "identifier": "wheelchair"
-    },
-    "windows": {
-      "codepoint": 57603,
-      "fontFamily": "Raphael",
-      "identifier": "windows"
-    },
-    "woman": {
-      "codepoint": 57604,
-      "fontFamily": "Raphael",
-      "identifier": "woman"
-    },
-    "wrench": {
-      "codepoint": 57605,
-      "fontFamily": "Raphael",
-      "identifier": "wrench"
-    },
-    "wrench2": {
-      "codepoint": 57606,
-      "fontFamily": "Raphael",
-      "identifier": "wrench2"
-    },
-    "wrench3": {
-      "codepoint": 57607,
-      "fontFamily": "Raphael",
-      "identifier": "wrench3"
-    },
-    "zoomin": {
-      "codepoint": 57608,
-      "fontFamily": "Raphael",
-      "identifier": "zoomin"
-    },
-    "zoomout": {
-      "codepoint": 57609,
-      "fontFamily": "Raphael",
-      "identifier": "zoomout"
     }
   }
 }

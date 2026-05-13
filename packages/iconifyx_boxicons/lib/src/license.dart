@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/box-icons/boxicons-core/blob/main/LICENSE',
-  iconCount: 3768,
+  iconCount: 3512,
 );

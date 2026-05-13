@@ -5,46 +5,98 @@ import svg2ttf from 'svg2ttf';
 import type { Manifest, ManifestFontEntry } from './manifest.ts';
 import type { ResolvedIcon } from './load_iconify.ts';
 import { iconToSvg } from './svg_preprocess.ts';
+import { log } from './log.ts';
 
 /**
- * Build one TTF per font entry in the manifest. Each entry contains
- * a list of icons assigned to that font. Returns a map of
- * `fontFamily → ttfBuffer`.
+ * Build one TTF per font entry in the manifest. Each entry contains a list of
+ * icons assigned to that font. Returns a map of `fontFamily → ttfBuffer`,
+ * plus a list of glyph names that had to be dropped because they tripped
+ * svgicons2svgfont or svg2ttf despite passing pre-validation.
+ *
+ * The dropped names are reported via the `onGlyphDropped` callback so the
+ * pipeline can flag them deprecated in the manifest (codepoint stays
+ * reserved; they just don't ship in this revision).
  */
 export interface FontBuildInput {
   manifest: Manifest;
   /** Resolved icons keyed by iconify name. */
   resolvedByName: Map<string, ResolvedIcon>;
+  /** Called for each glyph dropped during build (post-validation failure). */
+  onGlyphDropped?: (iconName: string, reason: string) => void;
 }
 
 export async function buildFonts(
   input: FontBuildInput
 ): Promise<Map<string, Buffer>> {
-  const { manifest, resolvedByName } = input;
+  const { manifest, resolvedByName, onGlyphDropped } = input;
 
   const fontsByName = new Map<string, Buffer>();
 
   for (const fontEntry of manifest.fonts) {
     if (fontEntry.iconCount === 0) continue;
 
-    // Gather the (iconName, codepoint) pairs that belong to this font.
     const members: { name: string; codepoint: number }[] = [];
     for (const [iconName, m] of Object.entries(manifest.icons)) {
       if (m.deprecated) continue;
       if (m.fontFamily !== fontEntry.family) continue;
       members.push({ name: iconName, codepoint: m.codepoint });
     }
-
     if (members.length === 0) continue;
-
-    // Sort by codepoint for determinism.
     members.sort((a, b) => a.codepoint - b.codepoint);
 
-    const ttf = await buildOneFont(fontEntry, members, resolvedByName);
-    fontsByName.set(fontEntry.family, ttf);
+    const ttf = await buildOneFontWithRetry(
+      fontEntry,
+      members,
+      resolvedByName,
+      onGlyphDropped
+    );
+    if (ttf !== null) fontsByName.set(fontEntry.family, ttf);
   }
 
   return fontsByName;
+}
+
+/**
+ * Try to build one font. If svgicons2svgfont errors on a specific glyph, the
+ * error message includes that glyph's name — drop it and retry. Loops until
+ * success or the member list runs out. Keeps a small retry cap for safety.
+ */
+async function buildOneFontWithRetry(
+  fontEntry: ManifestFontEntry,
+  initialMembers: { name: string; codepoint: number }[],
+  resolvedByName: Map<string, ResolvedIcon>,
+  onGlyphDropped: ((iconName: string, reason: string) => void) | undefined
+): Promise<Buffer | null> {
+  let members = [...initialMembers];
+  const MAX_RETRIES = Math.min(initialMembers.length, 50);
+
+  for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
+    if (members.length === 0) return null;
+    try {
+      return await buildOneFont(fontEntry, members, resolvedByName);
+    } catch (err) {
+      const fullMsg = err instanceof Error ? err.message : String(err);
+      const firstLine = fullMsg.split('\n')[0]!;
+      // svgicons2svgfont's error format includes 'parsing the glyph "X"'.
+      const nameMatch = firstLine.match(/parsing the glyph "([^"]+)"/);
+      if (!nameMatch) {
+        // Unknown error shape — give up on this font.
+        throw err;
+      }
+      const badName = nameMatch[1]!;
+      const reason = firstLine.slice(0, 160);
+      log.warn(
+        `  dropping "${badName}" from font ${fontEntry.family}: ${reason}`
+      );
+      onGlyphDropped?.(badName, reason);
+      members = members.filter((m) => m.name !== badName);
+    }
+  }
+
+  log.warn(
+    `gave up on font ${fontEntry.family} after ${MAX_RETRIES + 1} attempts; emitting empty font`
+  );
+  return null;
 }
 
 async function buildOneFont(
@@ -59,8 +111,6 @@ async function buildOneFont(
       normalize: true,
       centerHorizontally: true,
     });
-    // Swallow library logger output — it warns about empty bodies and other
-    // benign normalization decisions that we don't want flooding the console.
     (stream as unknown as { log: (...args: unknown[]) => void }).log = () => {};
 
     const chunks: Buffer[] = [];
@@ -70,8 +120,6 @@ async function buildOneFont(
     stream.on('end', () => {
       const svgFont = Buffer.concat(chunks).toString('utf8');
       try {
-        // ts: 0 fixes the font creation timestamp to make output deterministic.
-        // svg2ttf otherwise stamps Date.now() into the head table.
         const ttf = svg2ttf(svgFont, { ts: 0 });
         resolve(Buffer.from(ttf.buffer));
       } catch (err) {
@@ -87,7 +135,6 @@ async function buildOneFont(
         return;
       }
       const svg = iconToSvg(ic);
-      // svgicons2svgfont reads a Node Readable; pass a one-shot stream from the SVG string.
       const buf = Buffer.from(svg, 'utf8');
       const glyphStream = Readable.from([buf]) as Readable & {
         metadata?: { unicode: string[]; name: string };

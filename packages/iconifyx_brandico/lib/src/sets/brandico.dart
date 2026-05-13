@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Fontello
 /// License: CC BY SA — https://creativecommons.org/licenses/by-sa/3.0/
-/// Icons: 45
+/// Icons: 44
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -282,51 +282,44 @@ class BrandicoIcons {
     fontPackage: 'iconifyx_brandico',
   ));
 
-  /// `visa`
-  static const IconifyIconData visa = IconifyIconData(IconData(
-    0xe026,
-    fontFamily: 'Brandico',
-    fontPackage: 'iconifyx_brandico',
-  ));
-
   /// `vkontakte-rect`
   static const IconifyIconData vkontakteRect = IconifyIconData(IconData(
-    0xe027,
+    0xe026,
     fontFamily: 'Brandico',
     fontPackage: 'iconifyx_brandico',
   ));
 
   /// `win8`
   static const IconifyIconData win8 = IconifyIconData(IconData(
-    0xe028,
+    0xe027,
     fontFamily: 'Brandico',
     fontPackage: 'iconifyx_brandico',
   ));
 
   /// `wordpress`
   static const IconifyIconData wordpress = IconifyIconData(IconData(
-    0xe029,
+    0xe028,
     fontFamily: 'Brandico',
     fontPackage: 'iconifyx_brandico',
   ));
 
   /// `yandex`
   static const IconifyIconData yandex = IconifyIconData(IconData(
-    0xe02a,
+    0xe029,
     fontFamily: 'Brandico',
     fontPackage: 'iconifyx_brandico',
   ));
 
   /// `yandex-rect`
   static const IconifyIconData yandexRect = IconifyIconData(IconData(
-    0xe02b,
+    0xe02a,
     fontFamily: 'Brandico',
     fontPackage: 'iconifyx_brandico',
   ));
 
   /// `youku`
   static const IconifyIconData youku = IconifyIconData(IconData(
-    0xe02c,
+    0xe02b,
     fontFamily: 'Brandico',
     fontPackage: 'iconifyx_brandico',
   ));

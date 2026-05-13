@@ -1,0 +1,22 @@
+name: iconifyx_gala
+description: >-
+  Gala Icons icons from Iconify, packaged for Flutter (52 icons, GPL license).
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.3.0
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  iconifyx_core:
+    path: ../iconifyx_core
+
+flutter:
+  uses-material-design: false
+  fonts:
+    - family: Gala
+      fonts:
+        - asset: assets/fonts/Gala.ttf

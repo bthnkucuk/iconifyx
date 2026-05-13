@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'CC BY 3.0',
   licenseSpdx: 'CC-BY-3.0',
   licenseUrl: 'https://github.com/game-icons/icons/blob/master/license.txt',
-  iconCount: 4137,
+  iconCount: 4061,
 );

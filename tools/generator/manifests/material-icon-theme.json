@@ -1,0 +1,875 @@
+{
+  "schemaVersion": 1,
+  "prefix": "material-icon-theme",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Programming",
+  "subPackage": "iconifyx_material_icon_theme",
+  "info": {
+    "name": "Material Icon Theme",
+    "author": {
+      "name": "Material Extensions",
+      "url": "https://github.com/material-extensions/vscode-material-icon-theme"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/material-extensions/vscode-material-icon-theme/blob/main/LICENSE"
+    },
+    "total": 169
+  },
+  "fonts": [
+    {
+      "family": "MaterialIconTheme",
+      "nextCodepoint": 57513,
+      "iconCount": 169
+    }
+  ],
+  "icons": {
+    "3d": {
+      "codepoint": 57344,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "n3d"
+    },
+    "adonis": {
+      "codepoint": 57345,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "adonis"
+    },
+    "apiblueprint": {
+      "codepoint": 57346,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "apiblueprint"
+    },
+    "appveyor": {
+      "codepoint": 57347,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "appveyor"
+    },
+    "arduino": {
+      "codepoint": 57348,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "arduino"
+    },
+    "asciidoc": {
+      "codepoint": 57349,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "asciidoc"
+    },
+    "ballerina": {
+      "codepoint": 57350,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "ballerina"
+    },
+    "blink": {
+      "codepoint": 57351,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "blink"
+    },
+    "bucklescript": {
+      "codepoint": 57352,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "bucklescript"
+    },
+    "cadence": {
+      "codepoint": 57353,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "cadence"
+    },
+    "capacitor": {
+      "codepoint": 57354,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "capacitor"
+    },
+    "cbx": {
+      "codepoint": 57355,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "cbx"
+    },
+    "changelog": {
+      "codepoint": 57356,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "changelog"
+    },
+    "chess": {
+      "codepoint": 57357,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "chess"
+    },
+    "chrome": {
+      "codepoint": 57358,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "chrome"
+    },
+    "code-climate": {
+      "codepoint": 57359,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "codeClimate"
+    },
+    "code-climate-light": {
+      "codepoint": 57360,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "codeClimateLight"
+    },
+    "codeowners": {
+      "codepoint": 57361,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "codeowners"
+    },
+    "coffee": {
+      "codepoint": 57362,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "coffee"
+    },
+    "command": {
+      "codepoint": 57363,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "command"
+    },
+    "commitizen": {
+      "codepoint": 57364,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "commitizen"
+    },
+    "conduct": {
+      "codepoint": 57365,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "conduct"
+    },
+    "contributing": {
+      "codepoint": 57366,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "contributing"
+    },
+    "credits": {
+      "codepoint": 57367,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "credits"
+    },
+    "crystal": {
+      "codepoint": 57368,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "crystal"
+    },
+    "cursor": {
+      "codepoint": 57369,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "cursor"
+    },
+    "database": {
+      "codepoint": 57370,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "database"
+    },
+    "diff": {
+      "codepoint": 57371,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "diff"
+    },
+    "dinophp": {
+      "codepoint": 57372,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "dinophp"
+    },
+    "disc": {
+      "codepoint": 57373,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "disc"
+    },
+    "document": {
+      "codepoint": 57374,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "document"
+    },
+    "drawio": {
+      "codepoint": 57375,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "drawio"
+    },
+    "drizzle": {
+      "codepoint": 57376,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "drizzle"
+    },
+    "drone": {
+      "codepoint": 57377,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "drone"
+    },
+    "dune": {
+      "codepoint": 57378,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "dune"
+    },
+    "edge": {
+      "codepoint": 57379,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "edge"
+    },
+    "editorconfig": {
+      "codepoint": 57380,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "editorconfig"
+    },
+    "elm": {
+      "codepoint": 57381,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "elm"
+    },
+    "email": {
+      "codepoint": 57382,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "email"
+    },
+    "esbuild": {
+      "codepoint": 57383,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "esbuild"
+    },
+    "excalidraw": {
+      "codepoint": 57384,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "excalidraw"
+    },
+    "exe": {
+      "codepoint": 57385,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "exe"
+    },
+    "favicon": {
+      "codepoint": 57386,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "favicon"
+    },
+    "flow": {
+      "codepoint": 57387,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "flow"
+    },
+    "folder-archive": {
+      "codepoint": 57388,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderArchive"
+    },
+    "folder-archive-open": {
+      "codepoint": 57389,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderArchiveOpen"
+    },
+    "folder-attachment": {
+      "codepoint": 57390,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAttachment"
+    },
+    "folder-attachment-open": {
+      "codepoint": 57391,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderAttachmentOpen"
+    },
+    "folder-bloc": {
+      "codepoint": 57392,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderBloc"
+    },
+    "folder-bloc-open": {
+      "codepoint": 57393,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderBlocOpen"
+    },
+    "folder-element": {
+      "codepoint": 57394,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderElement"
+    },
+    "folder-element-open": {
+      "codepoint": 57395,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderElementOpen"
+    },
+    "folder-gemini-ai": {
+      "codepoint": 57396,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGeminiAi"
+    },
+    "folder-gemini-ai-open": {
+      "codepoint": 57397,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderGeminiAiOpen"
+    },
+    "folder-seeders": {
+      "codepoint": 57398,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSeeders"
+    },
+    "folder-seeders-open": {
+      "codepoint": 57399,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderSeedersOpen"
+    },
+    "folder-trigger": {
+      "codepoint": 57400,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTrigger"
+    },
+    "folder-trigger-open": {
+      "codepoint": 57401,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "folderTriggerOpen"
+    },
+    "fsharp": {
+      "codepoint": 57402,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "fsharp"
+    },
+    "gradle": {
+      "codepoint": 57403,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "gradle"
+    },
+    "graphcool": {
+      "codepoint": 57404,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "graphcool"
+    },
+    "gridsome": {
+      "codepoint": 57405,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "gridsome"
+    },
+    "haxe": {
+      "codepoint": 57406,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "haxe"
+    },
+    "hcl": {
+      "codepoint": 57407,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "hcl"
+    },
+    "helm": {
+      "codepoint": 57408,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "helm"
+    },
+    "hex": {
+      "codepoint": 57409,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "hex"
+    },
+    "hosts": {
+      "codepoint": 57410,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "hosts"
+    },
+    "ifanr-cloud": {
+      "codepoint": 57411,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "ifanrCloud"
+    },
+    "imba": {
+      "codepoint": 57412,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "imba"
+    },
+    "ionic": {
+      "codepoint": 57413,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "ionic"
+    },
+    "javascript": {
+      "codepoint": 57414,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "javascript"
+    },
+    "javascript-map": {
+      "codepoint": 57415,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "javascriptMap"
+    },
+    "json": {
+      "codepoint": 57416,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "json"
+    },
+    "json-schema": {
+      "codepoint": 57417,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "jsonSchema"
+    },
+    "key": {
+      "codepoint": 57418,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "key"
+    },
+    "latexmk": {
+      "codepoint": 57419,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "latexmk"
+    },
+    "lib": {
+      "codepoint": 57420,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "lib"
+    },
+    "lilypond": {
+      "codepoint": 57421,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "lilypond"
+    },
+    "liquid": {
+      "codepoint": 57422,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "liquid"
+    },
+    "lock": {
+      "codepoint": 57423,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "lock"
+    },
+    "log": {
+      "codepoint": 57424,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "log"
+    },
+    "lua": {
+      "codepoint": 57425,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "lua"
+    },
+    "lyric": {
+      "codepoint": 57426,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "lyric"
+    },
+    "macaulay2": {
+      "codepoint": 57427,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "macaulay2"
+    },
+    "markdown": {
+      "codepoint": 57428,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "markdown"
+    },
+    "markdownlint": {
+      "codepoint": 57429,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "markdownlint"
+    },
+    "matlab": {
+      "codepoint": 57430,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "matlab"
+    },
+    "mdx": {
+      "codepoint": 57431,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "mdx"
+    },
+    "merlin": {
+      "codepoint": 57432,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "merlin"
+    },
+    "minecraft": {
+      "codepoint": 57433,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "minecraft"
+    },
+    "mint": {
+      "codepoint": 57434,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "mint"
+    },
+    "moonscript": {
+      "codepoint": 57435,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "moonscript"
+    },
+    "mrpack": {
+      "codepoint": 57436,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "mrpack"
+    },
+    "ndst": {
+      "codepoint": 57437,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "ndst"
+    },
+    "ngrx-actions": {
+      "codepoint": 57438,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "ngrxActions"
+    },
+    "ngrx-effects": {
+      "codepoint": 57439,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "ngrxEffects"
+    },
+    "ngrx-entity": {
+      "codepoint": 57440,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "ngrxEntity"
+    },
+    "ngrx-state": {
+      "codepoint": 57441,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "ngrxState"
+    },
+    "nim": {
+      "codepoint": 57442,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "nim"
+    },
+    "nix": {
+      "codepoint": 57443,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "nix"
+    },
+    "nodejs": {
+      "codepoint": 57444,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "nodejs"
+    },
+    "nuxt": {
+      "codepoint": 57445,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "nuxt"
+    },
+    "objective-c": {
+      "codepoint": 57446,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "objectiveC"
+    },
+    "objective-cpp": {
+      "codepoint": 57447,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "objectiveCpp"
+    },
+    "odin": {
+      "codepoint": 57448,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "odin"
+    },
+    "otne": {
+      "codepoint": 57449,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "otne"
+    },
+    "pawn": {
+      "codepoint": 57450,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "pawn"
+    },
+    "powerpoint": {
+      "codepoint": 57451,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "powerpoint"
+    },
+    "puppet": {
+      "codepoint": 57452,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "puppet"
+    },
+    "purescript": {
+      "codepoint": 57453,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "purescript"
+    },
+    "quokka": {
+      "codepoint": 57454,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "quokka"
+    },
+    "raml": {
+      "codepoint": 57455,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "raml"
+    },
+    "razor": {
+      "codepoint": 57456,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "razor"
+    },
+    "readme": {
+      "codepoint": 57457,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "readme"
+    },
+    "remix": {
+      "codepoint": 57458,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "remix"
+    },
+    "replit": {
+      "codepoint": 57459,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "replit"
+    },
+    "roadmap": {
+      "codepoint": 57460,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "roadmap"
+    },
+    "roblox": {
+      "codepoint": 57461,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "roblox"
+    },
+    "routing": {
+      "codepoint": 57462,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "routing"
+    },
+    "ruff": {
+      "codepoint": 57463,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "ruff"
+    },
+    "salt": {
+      "codepoint": 57464,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "salt"
+    },
+    "sbt": {
+      "codepoint": 57465,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "sbt"
+    },
+    "search": {
+      "codepoint": 57466,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "search"
+    },
+    "semantic-release": {
+      "codepoint": 57467,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "semanticRelease"
+    },
+    "semantic-release-light": {
+      "codepoint": 57468,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "semanticReleaseLight"
+    },
+    "settings": {
+      "codepoint": 57469,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "settings"
+    },
+    "shader": {
+      "codepoint": 57470,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "shader"
+    },
+    "skill": {
+      "codepoint": 57471,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "skill"
+    },
+    "slim": {
+      "codepoint": 57472,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "slim"
+    },
+    "smarty": {
+      "codepoint": 57473,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "smarty"
+    },
+    "snowpack": {
+      "codepoint": 57474,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "snowpack"
+    },
+    "snowpack-light": {
+      "codepoint": 57475,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "snowpackLight"
+    },
+    "stylus": {
+      "codepoint": 57476,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "stylus"
+    },
+    "swagger": {
+      "codepoint": 57477,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "swagger"
+    },
+    "systemd": {
+      "codepoint": 57478,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "systemd"
+    },
+    "table": {
+      "codepoint": 57479,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "table"
+    },
+    "tailwindcss": {
+      "codepoint": 57480,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "tailwindcss"
+    },
+    "taskfile": {
+      "codepoint": 57481,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "taskfile"
+    },
+    "tauri": {
+      "codepoint": 57482,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "tauri"
+    },
+    "teal": {
+      "codepoint": 57483,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "teal"
+    },
+    "templ": {
+      "codepoint": 57484,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "templ"
+    },
+    "template": {
+      "codepoint": 57485,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "template"
+    },
+    "terraform": {
+      "codepoint": 57486,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "terraform"
+    },
+    "tex": {
+      "codepoint": 57487,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "tex"
+    },
+    "trigger": {
+      "codepoint": 57488,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "trigger"
+    },
+    "tune": {
+      "codepoint": 57489,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "tune"
+    },
+    "typst": {
+      "codepoint": 57490,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "typst"
+    },
+    "uiua": {
+      "codepoint": 57491,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "uiua"
+    },
+    "unity": {
+      "codepoint": 57492,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "unity"
+    },
+    "uv": {
+      "codepoint": 57493,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "uv"
+    },
+    "velocity": {
+      "codepoint": 57494,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "velocity"
+    },
+    "vercel": {
+      "codepoint": 57495,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "vercel"
+    },
+    "verified": {
+      "codepoint": 57496,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "verified"
+    },
+    "verse": {
+      "codepoint": 57497,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "verse"
+    },
+    "vim": {
+      "codepoint": 57498,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "vim"
+    },
+    "virtual": {
+      "codepoint": 57499,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "virtual"
+    },
+    "visualstudio": {
+      "codepoint": 57500,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "visualstudio"
+    },
+    "wakatime": {
+      "codepoint": 57501,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "wakatime"
+    },
+    "wakatime-light": {
+      "codepoint": 57502,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "wakatimeLight"
+    },
+    "wallaby": {
+      "codepoint": 57503,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "wallaby"
+    },
+    "watchman": {
+      "codepoint": 57504,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "watchman"
+    },
+    "webassembly": {
+      "codepoint": 57505,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "webassembly"
+    },
+    "wepy": {
+      "codepoint": 57506,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "wepy"
+    },
+    "windicss": {
+      "codepoint": 57507,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "windicss"
+    },
+    "wrangler": {
+      "codepoint": 57508,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "wrangler"
+    },
+    "xaml": {
+      "codepoint": 57509,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "xaml"
+    },
+    "xml": {
+      "codepoint": 57510,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "xml"
+    },
+    "yang": {
+      "codepoint": 57511,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "yang"
+    },
+    "zip": {
+      "codepoint": 57512,
+      "fontFamily": "MaterialIconTheme",
+      "identifier": "zip"
+    }
+  }
+}

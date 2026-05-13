@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/twbs/icons/blob/main/LICENSE.md',
-  iconCount: 2090,
+  iconCount: 490,
 );

@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'Apache 2.0',
   licenseSpdx: 'Apache-2.0',
   licenseUrl: 'https://github.com/googlefonts/noto-emoji/blob/main/svg/LICENSE',
-  iconCount: 4104,
+  iconCount: 174,
 );

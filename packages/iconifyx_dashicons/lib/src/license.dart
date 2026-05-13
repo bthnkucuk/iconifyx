@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'GPL',
   licenseSpdx: 'GPL-2.0-or-later',
   licenseUrl: 'https://github.com/WordPress/dashicons/blob/master/gpl.txt',
-  iconCount: 347,
+  iconCount: 326,
 );

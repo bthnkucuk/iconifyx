@@ -16,470 +16,135 @@
       "spdx": "MIT",
       "url": "https://github.com/fazdiu/duo-icons/blob/master/LICENSE"
     },
-    "total": 91
+    "total": 24
   },
   "fonts": [
     {
       "family": "DuoIcons",
-      "nextCodepoint": 57435,
-      "iconCount": 91
+      "nextCodepoint": 57368,
+      "iconCount": 24
     }
   ],
   "icons": {
-    "add-circle": {
-      "codepoint": 57344,
-      "fontFamily": "DuoIcons",
-      "identifier": "addCircle"
-    },
-    "airplay": {
-      "codepoint": 57345,
-      "fontFamily": "DuoIcons",
-      "identifier": "airplay"
-    },
-    "alert-octagon": {
-      "codepoint": 57346,
-      "fontFamily": "DuoIcons",
-      "identifier": "alertOctagon"
-    },
-    "alert-triangle": {
-      "codepoint": 57347,
-      "fontFamily": "DuoIcons",
-      "identifier": "alertTriangle"
-    },
     "align-bottom": {
-      "codepoint": 57348,
+      "codepoint": 57344,
       "fontFamily": "DuoIcons",
       "identifier": "alignBottom"
     },
-    "align-center": {
-      "codepoint": 57349,
-      "fontFamily": "DuoIcons",
-      "identifier": "alignCenter"
-    },
-    "android": {
-      "codepoint": 57350,
-      "fontFamily": "DuoIcons",
-      "identifier": "android"
-    },
     "app": {
-      "codepoint": 57351,
+      "codepoint": 57345,
       "fontFamily": "DuoIcons",
       "identifier": "app"
     },
     "app-dots": {
-      "codepoint": 57352,
+      "codepoint": 57346,
       "fontFamily": "DuoIcons",
       "identifier": "appDots"
     },
-    "apple": {
-      "codepoint": 57353,
-      "fontFamily": "DuoIcons",
-      "identifier": "apple"
-    },
-    "approved": {
-      "codepoint": 57354,
-      "fontFamily": "DuoIcons",
-      "identifier": "approved"
-    },
-    "appstore": {
-      "codepoint": 57355,
-      "fontFamily": "DuoIcons",
-      "identifier": "appstore"
-    },
     "award": {
-      "codepoint": 57356,
+      "codepoint": 57347,
       "fontFamily": "DuoIcons",
       "identifier": "award"
     },
-    "baby-carriage": {
-      "codepoint": 57357,
-      "fontFamily": "DuoIcons",
-      "identifier": "babyCarriage"
-    },
-    "bank": {
-      "codepoint": 57358,
-      "fontFamily": "DuoIcons",
-      "identifier": "bank"
-    },
-    "battery": {
-      "codepoint": 57359,
-      "fontFamily": "DuoIcons",
-      "identifier": "battery"
-    },
-    "bell": {
-      "codepoint": 57360,
-      "fontFamily": "DuoIcons",
-      "identifier": "bell"
-    },
-    "bell-badge": {
-      "codepoint": 57361,
-      "fontFamily": "DuoIcons",
-      "identifier": "bellBadge"
-    },
     "book": {
-      "codepoint": 57362,
+      "codepoint": 57348,
       "fontFamily": "DuoIcons",
       "identifier": "book"
     },
-    "book-2": {
-      "codepoint": 57363,
-      "fontFamily": "DuoIcons",
-      "identifier": "book2"
-    },
-    "book-3": {
-      "codepoint": 57364,
-      "fontFamily": "DuoIcons",
-      "identifier": "book3"
-    },
     "bookmark": {
-      "codepoint": 57365,
+      "codepoint": 57349,
       "fontFamily": "DuoIcons",
       "identifier": "bookmark"
     },
     "box": {
-      "codepoint": 57366,
+      "codepoint": 57350,
       "fontFamily": "DuoIcons",
       "identifier": "box"
     },
-    "box-2": {
-      "codepoint": 57367,
-      "fontFamily": "DuoIcons",
-      "identifier": "box2"
-    },
-    "bread": {
-      "codepoint": 57368,
-      "fontFamily": "DuoIcons",
-      "identifier": "bread"
-    },
-    "bridge": {
-      "codepoint": 57369,
-      "fontFamily": "DuoIcons",
-      "identifier": "bridge"
-    },
-    "briefcase": {
-      "codepoint": 57370,
-      "fontFamily": "DuoIcons",
-      "identifier": "briefcase"
-    },
     "brush": {
-      "codepoint": 57371,
+      "codepoint": 57351,
       "fontFamily": "DuoIcons",
       "identifier": "brush"
     },
-    "brush-2": {
-      "codepoint": 57372,
-      "fontFamily": "DuoIcons",
-      "identifier": "brush2"
-    },
-    "bug": {
-      "codepoint": 57373,
-      "fontFamily": "DuoIcons",
-      "identifier": "bug"
-    },
-    "building": {
-      "codepoint": 57374,
-      "fontFamily": "DuoIcons",
-      "identifier": "building"
-    },
-    "bus": {
-      "codepoint": 57375,
-      "fontFamily": "DuoIcons",
-      "identifier": "bus"
-    },
-    "cake": {
-      "codepoint": 57376,
-      "fontFamily": "DuoIcons",
-      "identifier": "cake"
-    },
     "calendar": {
-      "codepoint": 57377,
+      "codepoint": 57352,
       "fontFamily": "DuoIcons",
       "identifier": "calendar"
     },
-    "camera": {
-      "codepoint": 57378,
-      "fontFamily": "DuoIcons",
-      "identifier": "camera"
-    },
     "camera-square": {
-      "codepoint": 57379,
+      "codepoint": 57353,
       "fontFamily": "DuoIcons",
       "identifier": "cameraSquare"
     },
-    "campground": {
-      "codepoint": 57380,
-      "fontFamily": "DuoIcons",
-      "identifier": "campground"
-    },
-    "candle": {
-      "codepoint": 57381,
-      "fontFamily": "DuoIcons",
-      "identifier": "candle"
-    },
-    "car": {
-      "codepoint": 57382,
-      "fontFamily": "DuoIcons",
-      "identifier": "car"
-    },
-    "certificate": {
-      "codepoint": 57383,
-      "fontFamily": "DuoIcons",
-      "identifier": "certificate"
-    },
     "chart-pie": {
-      "codepoint": 57384,
+      "codepoint": 57354,
       "fontFamily": "DuoIcons",
       "identifier": "chartPie"
     },
     "check-circle": {
-      "codepoint": 57385,
+      "codepoint": 57355,
       "fontFamily": "DuoIcons",
       "identifier": "checkCircle"
     },
     "chip": {
-      "codepoint": 57386,
+      "codepoint": 57356,
       "fontFamily": "DuoIcons",
       "identifier": "chip"
     },
     "clapperboard": {
-      "codepoint": 57387,
+      "codepoint": 57357,
       "fontFamily": "DuoIcons",
       "identifier": "clapperboard"
     },
     "clipboard": {
-      "codepoint": 57388,
+      "codepoint": 57358,
       "fontFamily": "DuoIcons",
       "identifier": "clipboard"
     },
-    "clock": {
-      "codepoint": 57389,
-      "fontFamily": "DuoIcons",
-      "identifier": "clock"
-    },
-    "cloud-lightning": {
-      "codepoint": 57390,
-      "fontFamily": "DuoIcons",
-      "identifier": "cloudLightning"
-    },
-    "cloud-snow": {
-      "codepoint": 57391,
-      "fontFamily": "DuoIcons",
-      "identifier": "cloudSnow"
-    },
-    "coin-stack": {
-      "codepoint": 57392,
-      "fontFamily": "DuoIcons",
-      "identifier": "coinStack"
-    },
-    "compass": {
-      "codepoint": 57393,
-      "fontFamily": "DuoIcons",
-      "identifier": "compass"
-    },
-    "computer-camera": {
-      "codepoint": 57394,
-      "fontFamily": "DuoIcons",
-      "identifier": "computerCamera"
-    },
-    "computer-camera-off": {
-      "codepoint": 57395,
-      "fontFamily": "DuoIcons",
-      "identifier": "computerCameraOff"
-    },
-    "confetti": {
-      "codepoint": 57396,
-      "fontFamily": "DuoIcons",
-      "identifier": "confetti"
-    },
     "credit-card": {
-      "codepoint": 57397,
+      "codepoint": 57359,
       "fontFamily": "DuoIcons",
       "identifier": "creditCard"
     },
-    "currency-euro": {
-      "codepoint": 57398,
-      "fontFamily": "DuoIcons",
-      "identifier": "currencyEuro"
-    },
     "dashboard": {
-      "codepoint": 57399,
+      "codepoint": 57360,
       "fontFamily": "DuoIcons",
       "identifier": "dashboard"
     },
-    "discount": {
-      "codepoint": 57400,
-      "fontFamily": "DuoIcons",
-      "identifier": "discount"
-    },
-    "disk": {
-      "codepoint": 57401,
-      "fontFamily": "DuoIcons",
-      "identifier": "disk"
-    },
-    "file": {
-      "codepoint": 57402,
-      "fontFamily": "DuoIcons",
-      "identifier": "file"
-    },
     "fire": {
-      "codepoint": 57403,
+      "codepoint": 57361,
       "fontFamily": "DuoIcons",
       "identifier": "fire"
     },
     "folder-open": {
-      "codepoint": 57404,
+      "codepoint": 57362,
       "fontFamily": "DuoIcons",
       "identifier": "folderOpen"
     },
     "folder-upload": {
-      "codepoint": 57405,
+      "codepoint": 57363,
       "fontFamily": "DuoIcons",
       "identifier": "folderUpload"
     },
-    "g-translate": {
-      "codepoint": 57406,
-      "fontFamily": "DuoIcons",
-      "identifier": "gTranslate"
-    },
     "id-card": {
-      "codepoint": 57407,
+      "codepoint": 57364,
       "fontFamily": "DuoIcons",
       "identifier": "idCard"
     },
-    "info": {
-      "codepoint": 57408,
-      "fontFamily": "DuoIcons",
-      "identifier": "info"
-    },
-    "lamp": {
-      "codepoint": 57409,
-      "fontFamily": "DuoIcons",
-      "identifier": "lamp"
-    },
-    "lamp-2": {
-      "codepoint": 57410,
-      "fontFamily": "DuoIcons",
-      "identifier": "lamp2"
-    },
-    "location": {
-      "codepoint": 57411,
-      "fontFamily": "DuoIcons",
-      "identifier": "location"
-    },
-    "marker": {
-      "codepoint": 57412,
-      "fontFamily": "DuoIcons",
-      "identifier": "marker"
-    },
-    "menu": {
-      "codepoint": 57413,
-      "fontFamily": "DuoIcons",
-      "identifier": "menu"
-    },
-    "message": {
-      "codepoint": 57414,
-      "fontFamily": "DuoIcons",
-      "identifier": "message"
-    },
     "message-2": {
-      "codepoint": 57415,
+      "codepoint": 57365,
       "fontFamily": "DuoIcons",
       "identifier": "message2"
     },
-    "message-3": {
-      "codepoint": 57416,
-      "fontFamily": "DuoIcons",
-      "identifier": "message3"
-    },
-    "moon-2": {
-      "codepoint": 57417,
-      "fontFamily": "DuoIcons",
-      "identifier": "moon2"
-    },
-    "moon-stars": {
-      "codepoint": 57418,
-      "fontFamily": "DuoIcons",
-      "identifier": "moonStars"
-    },
-    "palette": {
-      "codepoint": 57419,
-      "fontFamily": "DuoIcons",
-      "identifier": "palette"
-    },
-    "rocket": {
-      "codepoint": 57420,
-      "fontFamily": "DuoIcons",
-      "identifier": "rocket"
-    },
-    "settings": {
-      "codepoint": 57421,
-      "fontFamily": "DuoIcons",
-      "identifier": "settings"
-    },
-    "shopping-bag": {
-      "codepoint": 57422,
-      "fontFamily": "DuoIcons",
-      "identifier": "shoppingBag"
-    },
-    "slideshow": {
-      "codepoint": 57423,
-      "fontFamily": "DuoIcons",
-      "identifier": "slideshow"
-    },
     "smartphone": {
-      "codepoint": 57424,
+      "codepoint": 57366,
       "fontFamily": "DuoIcons",
       "identifier": "smartphone"
     },
-    "smartphone-vibration": {
-      "codepoint": 57425,
-      "fontFamily": "DuoIcons",
-      "identifier": "smartphoneVibration"
-    },
     "smartwatch": {
-      "codepoint": 57426,
+      "codepoint": 57367,
       "fontFamily": "DuoIcons",
       "identifier": "smartwatch"
-    },
-    "sun": {
-      "codepoint": 57427,
-      "fontFamily": "DuoIcons",
-      "identifier": "sun"
-    },
-    "target": {
-      "codepoint": 57428,
-      "fontFamily": "DuoIcons",
-      "identifier": "target"
-    },
-    "toggle": {
-      "codepoint": 57429,
-      "fontFamily": "DuoIcons",
-      "identifier": "toggle"
-    },
-    "translation": {
-      "codepoint": 57430,
-      "fontFamily": "DuoIcons",
-      "identifier": "translation"
-    },
-    "upload-file": {
-      "codepoint": 57431,
-      "fontFamily": "DuoIcons",
-      "identifier": "uploadFile"
-    },
-    "user": {
-      "codepoint": 57432,
-      "fontFamily": "DuoIcons",
-      "identifier": "user"
-    },
-    "user-card": {
-      "codepoint": 57433,
-      "fontFamily": "DuoIcons",
-      "identifier": "userCard"
-    },
-    "world": {
-      "codepoint": 57434,
-      "fontFamily": "DuoIcons",
-      "identifier": "world"
     }
   }
 }

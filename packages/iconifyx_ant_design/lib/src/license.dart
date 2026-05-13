@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/ant-design/ant-design-icons/blob/master/LICENSE',
-  iconCount: 1870,
+  iconCount: 1869,
 );

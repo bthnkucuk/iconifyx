@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'CC BY 4.0',
   licenseSpdx: 'CC-BY-4.0',
   licenseUrl: 'https://github.com/CyCraft/pepicons/blob/dev/LICENSE',
-  iconCount: 1298,
+  iconCount: 355,
 );

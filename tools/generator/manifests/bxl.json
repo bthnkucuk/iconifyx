@@ -16,1518 +16,893 @@
       "spdx": "MIT",
       "url": "https://github.com/box-icons/boxicons-core/blob/main/LICENSE"
     },
-    "total": 301
+    "total": 176
   },
   "fonts": [
     {
       "family": "Bxl",
-      "nextCodepoint": 57645,
-      "iconCount": 301
+      "nextCodepoint": 57520,
+      "iconCount": 176
     }
   ],
   "icons": {
-    "500px": {
-      "codepoint": 57344,
-      "fontFamily": "Bxl",
-      "identifier": "n500px"
-    },
     "99designs": {
-      "codepoint": 57345,
+      "codepoint": 57344,
       "fontFamily": "Bxl",
       "identifier": "n99designs"
     },
     "adobe": {
-      "codepoint": 57346,
+      "codepoint": 57345,
       "fontFamily": "Bxl",
       "identifier": "adobe"
     },
-    "airbnb": {
-      "codepoint": 57347,
-      "fontFamily": "Bxl",
-      "identifier": "airbnb"
-    },
-    "algolia": {
-      "codepoint": 57348,
-      "fontFamily": "Bxl",
-      "identifier": "algolia"
-    },
-    "amazon": {
-      "codepoint": 57349,
-      "fontFamily": "Bxl",
-      "identifier": "amazon"
-    },
     "amex": {
-      "codepoint": 57350,
+      "codepoint": 57346,
       "fontFamily": "Bxl",
       "identifier": "amex"
     },
     "android": {
-      "codepoint": 57351,
+      "codepoint": 57347,
       "fontFamily": "Bxl",
       "identifier": "android"
     },
     "angular": {
-      "codepoint": 57352,
+      "codepoint": 57348,
       "fontFamily": "Bxl",
       "identifier": "angular"
     },
     "anthropic": {
-      "codepoint": 57353,
+      "codepoint": 57349,
       "fontFamily": "Bxl",
       "identifier": "anthropic"
     },
-    "apple": {
-      "codepoint": 57354,
-      "fontFamily": "Bxl",
-      "identifier": "apple"
-    },
     "apple-music": {
-      "codepoint": 57355,
+      "codepoint": 57350,
       "fontFamily": "Bxl",
       "identifier": "appleMusic"
     },
     "arc-browser": {
-      "codepoint": 57356,
+      "codepoint": 57351,
       "fontFamily": "Bxl",
       "identifier": "arcBrowser"
     },
     "artstation": {
-      "codepoint": 57357,
+      "codepoint": 57352,
       "fontFamily": "Bxl",
       "identifier": "artstation"
     },
     "asana": {
-      "codepoint": 57358,
+      "codepoint": 57353,
       "fontFamily": "Bxl",
       "identifier": "asana"
     },
-    "atlassian": {
-      "codepoint": 57359,
-      "fontFamily": "Bxl",
-      "identifier": "atlassian"
-    },
-    "atom-editor": {
-      "codepoint": 57360,
-      "fontFamily": "Bxl",
-      "identifier": "atomEditor"
-    },
-    "audible": {
-      "codepoint": 57361,
-      "fontFamily": "Bxl",
-      "identifier": "audible"
-    },
     "auth0": {
-      "codepoint": 57362,
+      "codepoint": 57354,
       "fontFamily": "Bxl",
       "identifier": "auth0"
     },
     "autodesk": {
-      "codepoint": 57363,
+      "codepoint": 57355,
       "fontFamily": "Bxl",
       "identifier": "autodesk"
     },
     "aws": {
-      "codepoint": 57364,
+      "codepoint": 57356,
       "fontFamily": "Bxl",
       "identifier": "aws"
     },
     "baidu": {
-      "codepoint": 57365,
+      "codepoint": 57357,
       "fontFamily": "Bxl",
       "identifier": "baidu"
     },
-    "bash": {
-      "codepoint": 57366,
-      "fontFamily": "Bxl",
-      "identifier": "bash"
-    },
-    "behance": {
-      "codepoint": 57367,
-      "fontFamily": "Bxl",
-      "identifier": "behance"
-    },
     "better-auth": {
-      "codepoint": 57368,
+      "codepoint": 57358,
       "fontFamily": "Bxl",
       "identifier": "betterAuth"
     },
     "bing": {
-      "codepoint": 57369,
+      "codepoint": 57359,
       "fontFamily": "Bxl",
       "identifier": "bing"
     },
-    "bitcoin": {
-      "codepoint": 57370,
-      "fontFamily": "Bxl",
-      "identifier": "bitcoin"
-    },
-    "bitcoin-logo": {
-      "codepoint": 57371,
-      "fontFamily": "Bxl",
-      "identifier": "bitcoinLogo"
-    },
-    "blender": {
-      "codepoint": 57372,
-      "fontFamily": "Bxl",
-      "identifier": "blender"
-    },
-    "blogger": {
-      "codepoint": 57373,
-      "fontFamily": "Bxl",
-      "identifier": "blogger"
-    },
     "bluesky": {
-      "codepoint": 57374,
+      "codepoint": 57360,
       "fontFamily": "Bxl",
       "identifier": "bluesky"
     },
     "bolt-b": {
-      "codepoint": 57375,
+      "codepoint": 57361,
       "fontFamily": "Bxl",
       "identifier": "boltB"
     },
-    "bootstrap": {
-      "codepoint": 57376,
-      "fontFamily": "Bxl",
-      "identifier": "bootstrap"
-    },
     "boxicons": {
-      "codepoint": 57377,
+      "codepoint": 57362,
       "fontFamily": "Bxl",
       "identifier": "boxicons"
     },
-    "brave-browser": {
-      "codepoint": 57378,
-      "fontFamily": "Bxl",
-      "identifier": "braveBrowser"
-    },
-    "bun": {
-      "codepoint": 57379,
-      "fontFamily": "Bxl",
-      "identifier": "bun"
-    },
     "buy-me-a-coffee": {
-      "codepoint": 57380,
+      "codepoint": 57363,
       "fontFamily": "Bxl",
       "identifier": "buyMeACoffee"
     },
     "c": {
-      "codepoint": 57381,
+      "codepoint": 57364,
       "fontFamily": "Bxl",
       "identifier": "c"
     },
     "c-plus-plus": {
-      "codepoint": 57382,
+      "codepoint": 57365,
       "fontFamily": "Bxl",
       "identifier": "cPlusPlus"
     },
     "c-sharp": {
-      "codepoint": 57383,
+      "codepoint": 57366,
       "fontFamily": "Bxl",
       "identifier": "cSharp"
     },
     "canva": {
-      "codepoint": 57384,
+      "codepoint": 57367,
       "fontFamily": "Bxl",
       "identifier": "canva"
     },
     "chess-com": {
-      "codepoint": 57385,
+      "codepoint": 57368,
       "fontFamily": "Bxl",
       "identifier": "chessCom"
     },
-    "chrome": {
-      "codepoint": 57386,
-      "fontFamily": "Bxl",
-      "identifier": "chrome"
-    },
     "claude-ai": {
-      "codepoint": 57387,
+      "codepoint": 57369,
       "fontFamily": "Bxl",
       "identifier": "claudeAi"
     },
     "clerk": {
-      "codepoint": 57388,
+      "codepoint": 57370,
       "fontFamily": "Bxl",
       "identifier": "clerk"
     },
     "cloudflare": {
-      "codepoint": 57389,
+      "codepoint": 57371,
       "fontFamily": "Bxl",
       "identifier": "cloudflare"
     },
-    "codepen": {
-      "codepoint": 57390,
-      "fontFamily": "Bxl",
-      "identifier": "codepen"
-    },
     "convex": {
-      "codepoint": 57391,
+      "codepoint": 57372,
       "fontFamily": "Bxl",
       "identifier": "convex"
     },
-    "creative-commons": {
-      "codepoint": 57392,
-      "fontFamily": "Bxl",
-      "identifier": "creativeCommons"
-    },
     "crunchyroll": {
-      "codepoint": 57393,
+      "codepoint": 57373,
       "fontFamily": "Bxl",
       "identifier": "crunchyroll"
     },
-    "css3": {
-      "codepoint": 57394,
-      "fontFamily": "Bxl",
-      "identifier": "css3"
-    },
     "cursor-ai": {
-      "codepoint": 57395,
+      "codepoint": 57374,
       "fontFamily": "Bxl",
       "identifier": "cursorAi"
     },
-    "dailymotion": {
-      "codepoint": 57396,
-      "fontFamily": "Bxl",
-      "identifier": "dailymotion"
-    },
     "deepmind": {
-      "codepoint": 57397,
+      "codepoint": 57375,
       "fontFamily": "Bxl",
       "identifier": "deepmind"
     },
-    "deepseek": {
-      "codepoint": 57398,
-      "fontFamily": "Bxl",
-      "identifier": "deepseek"
-    },
     "deezer": {
-      "codepoint": 57399,
+      "codepoint": 57376,
       "fontFamily": "Bxl",
       "identifier": "deezer"
     },
     "deno": {
-      "codepoint": 57400,
+      "codepoint": 57377,
       "fontFamily": "Bxl",
       "identifier": "deno"
     },
-    "dev-to": {
-      "codepoint": 57401,
-      "fontFamily": "Bxl",
-      "identifier": "devTo"
-    },
-    "deviantart": {
-      "codepoint": 57402,
-      "fontFamily": "Bxl",
-      "identifier": "deviantart"
-    },
     "devpost": {
-      "codepoint": 57403,
+      "codepoint": 57378,
       "fontFamily": "Bxl",
       "identifier": "devpost"
     },
-    "digg": {
-      "codepoint": 57404,
-      "fontFamily": "Bxl",
-      "identifier": "digg"
-    },
     "digitalocean": {
-      "codepoint": 57405,
+      "codepoint": 57379,
       "fontFamily": "Bxl",
       "identifier": "digitalocean"
     },
-    "discord": {
-      "codepoint": 57406,
-      "fontFamily": "Bxl",
-      "identifier": "discord"
-    },
     "discord-alt": {
-      "codepoint": 57407,
+      "codepoint": 57380,
       "fontFamily": "Bxl",
       "identifier": "discordAlt"
     },
-    "discourse": {
-      "codepoint": 57408,
-      "fontFamily": "Bxl",
-      "identifier": "discourse"
-    },
     "discover": {
-      "codepoint": 57409,
+      "codepoint": 57381,
       "fontFamily": "Bxl",
       "identifier": "discover"
     },
-    "django": {
-      "codepoint": 57410,
-      "fontFamily": "Bxl",
-      "identifier": "django"
-    },
     "docker": {
-      "codepoint": 57411,
+      "codepoint": 57382,
       "fontFamily": "Bxl",
       "identifier": "docker"
     },
     "dot-env": {
-      "codepoint": 57412,
+      "codepoint": 57383,
       "fontFamily": "Bxl",
       "identifier": "dotEnv"
     },
-    "dribbble": {
-      "codepoint": 57413,
-      "fontFamily": "Bxl",
-      "identifier": "dribbble"
-    },
     "drizzle-orm": {
-      "codepoint": 57414,
+      "codepoint": 57384,
       "fontFamily": "Bxl",
       "identifier": "drizzleOrm"
     },
     "dropbox": {
-      "codepoint": 57415,
+      "codepoint": 57385,
       "fontFamily": "Bxl",
       "identifier": "dropbox"
     },
-    "drupal": {
-      "codepoint": 57416,
-      "fontFamily": "Bxl",
-      "identifier": "drupal"
-    },
-    "ebay": {
-      "codepoint": 57417,
-      "fontFamily": "Bxl",
-      "identifier": "ebay"
-    },
-    "edge": {
-      "codepoint": 57418,
-      "fontFamily": "Bxl",
-      "identifier": "edge"
-    },
     "ember-js": {
-      "codepoint": 57419,
+      "codepoint": 57386,
       "fontFamily": "Bxl",
       "identifier": "emberJs"
     },
-    "etsy": {
-      "codepoint": 57420,
-      "fontFamily": "Bxl",
-      "identifier": "etsy"
-    },
     "expo": {
-      "codepoint": 57421,
+      "codepoint": 57387,
       "fontFamily": "Bxl",
       "identifier": "expo"
     },
     "express-js": {
-      "codepoint": 57422,
+      "codepoint": 57388,
       "fontFamily": "Bxl",
       "identifier": "expressJs"
     },
-    "facebook": {
-      "codepoint": 57423,
-      "fontFamily": "Bxl",
-      "identifier": "facebook"
-    },
     "facebook-circle": {
-      "codepoint": 57424,
+      "codepoint": 57389,
       "fontFamily": "Bxl",
       "identifier": "facebookCircle"
     },
-    "facebook-square": {
-      "codepoint": 57425,
-      "fontFamily": "Bxl",
-      "identifier": "facebookSquare"
-    },
     "fastapi": {
-      "codepoint": 57426,
+      "codepoint": 57390,
       "fontFamily": "Bxl",
       "identifier": "fastapi"
     },
     "fastify": {
-      "codepoint": 57427,
+      "codepoint": 57391,
       "fontFamily": "Bxl",
       "identifier": "fastify"
     },
     "figma": {
-      "codepoint": 57428,
+      "codepoint": 57392,
       "fontFamily": "Bxl",
       "identifier": "figma"
     },
     "figma-alt": {
-      "codepoint": 57429,
+      "codepoint": 57393,
       "fontFamily": "Bxl",
       "identifier": "figmaAlt"
     },
     "firebase": {
-      "codepoint": 57430,
+      "codepoint": 57394,
       "fontFamily": "Bxl",
       "identifier": "firebase"
     },
-    "firefox": {
-      "codepoint": 57431,
-      "fontFamily": "Bxl",
-      "identifier": "firefox"
-    },
     "fiverr": {
-      "codepoint": 57432,
+      "codepoint": 57395,
       "fontFamily": "Bxl",
       "identifier": "fiverr"
     },
     "flask": {
-      "codepoint": 57433,
+      "codepoint": 57396,
       "fontFamily": "Bxl",
       "identifier": "flask"
     },
     "flask-old": {
-      "codepoint": 57434,
+      "codepoint": 57397,
       "fontFamily": "Bxl",
       "identifier": "flaskOld"
     },
     "flickr": {
-      "codepoint": 57435,
+      "codepoint": 57398,
       "fontFamily": "Bxl",
       "identifier": "flickr"
     },
     "flickr-square": {
-      "codepoint": 57436,
+      "codepoint": 57399,
       "fontFamily": "Bxl",
       "identifier": "flickrSquare"
     },
     "flutter": {
-      "codepoint": 57437,
+      "codepoint": 57400,
       "fontFamily": "Bxl",
       "identifier": "flutter"
     },
-    "foursquare": {
-      "codepoint": 57438,
-      "fontFamily": "Bxl",
-      "identifier": "foursquare"
-    },
     "framer": {
-      "codepoint": 57439,
+      "codepoint": 57401,
       "fontFamily": "Bxl",
       "identifier": "framer"
     },
     "gatsby-js": {
-      "codepoint": 57440,
+      "codepoint": 57402,
       "fontFamily": "Bxl",
       "identifier": "gatsbyJs"
     },
     "gemini": {
-      "codepoint": 57441,
+      "codepoint": 57403,
       "fontFamily": "Bxl",
       "identifier": "gemini"
     },
-    "git": {
-      "codepoint": 57442,
-      "fontFamily": "Bxl",
-      "identifier": "git"
-    },
-    "github": {
-      "codepoint": 57443,
-      "fontFamily": "Bxl",
-      "identifier": "github"
-    },
     "github-copilot": {
-      "codepoint": 57444,
+      "codepoint": 57404,
       "fontFamily": "Bxl",
       "identifier": "githubCopilot"
     },
-    "gitlab": {
-      "codepoint": 57445,
-      "fontFamily": "Bxl",
-      "identifier": "gitlab"
-    },
     "gmail": {
-      "codepoint": 57446,
+      "codepoint": 57405,
       "fontFamily": "Bxl",
       "identifier": "gmail"
     },
     "go-lang": {
-      "codepoint": 57447,
+      "codepoint": 57406,
       "fontFamily": "Bxl",
       "identifier": "goLang"
     },
-    "google": {
-      "codepoint": 57448,
-      "fontFamily": "Bxl",
-      "identifier": "google"
-    },
     "google-antigravity": {
-      "codepoint": 57449,
+      "codepoint": 57407,
       "fontFamily": "Bxl",
       "identifier": "googleAntigravity"
     },
-    "google-cloud": {
-      "codepoint": 57450,
-      "fontFamily": "Bxl",
-      "identifier": "googleCloud"
-    },
     "google-pay": {
-      "codepoint": 57451,
+      "codepoint": 57408,
       "fontFamily": "Bxl",
       "identifier": "googlePay"
     },
-    "google-plus": {
-      "codepoint": 57452,
-      "fontFamily": "Bxl",
-      "identifier": "googlePlus"
-    },
-    "google-plus-circle": {
-      "codepoint": 57453,
-      "fontFamily": "Bxl",
-      "identifier": "googlePlusCircle"
-    },
     "graphql": {
-      "codepoint": 57454,
+      "codepoint": 57409,
       "fontFamily": "Bxl",
       "identifier": "graphql"
     },
     "grok": {
-      "codepoint": 57455,
+      "codepoint": 57410,
       "fontFamily": "Bxl",
       "identifier": "grok"
     },
     "groq-ai": {
-      "codepoint": 57456,
+      "codepoint": 57411,
       "fontFamily": "Bxl",
       "identifier": "groqAi"
     },
     "gsap": {
-      "codepoint": 57457,
+      "codepoint": 57412,
       "fontFamily": "Bxl",
       "identifier": "gsap"
     },
     "gumroad": {
-      "codepoint": 57458,
+      "codepoint": 57413,
       "fontFamily": "Bxl",
       "identifier": "gumroad"
     },
     "hashnode": {
-      "codepoint": 57459,
+      "codepoint": 57414,
       "fontFamily": "Bxl",
       "identifier": "hashnode"
     },
     "hcaptcha": {
-      "codepoint": 57460,
+      "codepoint": 57415,
       "fontFamily": "Bxl",
       "identifier": "hcaptcha"
     },
     "heroku": {
-      "codepoint": 57461,
+      "codepoint": 57416,
       "fontFamily": "Bxl",
       "identifier": "heroku"
     },
     "hono-js": {
-      "codepoint": 57462,
+      "codepoint": 57417,
       "fontFamily": "Bxl",
       "identifier": "honoJs"
     },
-    "html5": {
-      "codepoint": 57463,
-      "fontFamily": "Bxl",
-      "identifier": "html5"
-    },
-    "hugo": {
-      "codepoint": 57464,
-      "fontFamily": "Bxl",
-      "identifier": "hugo"
-    },
     "ibm": {
-      "codepoint": 57465,
+      "codepoint": 57418,
       "fontFamily": "Bxl",
       "identifier": "ibm"
     },
-    "imdb": {
-      "codepoint": 57466,
-      "fontFamily": "Bxl",
-      "identifier": "imdb"
-    },
-    "instagram": {
-      "codepoint": 57467,
-      "fontFamily": "Bxl",
-      "identifier": "instagram"
-    },
-    "instagram-alt": {
-      "codepoint": 57468,
-      "fontFamily": "Bxl",
-      "identifier": "instagramAlt"
-    },
-    "intercom": {
-      "codepoint": 57469,
-      "fontFamily": "Bxl",
-      "identifier": "intercom"
-    },
-    "internet-explorer": {
-      "codepoint": 57470,
-      "fontFamily": "Bxl",
-      "identifier": "internetExplorer"
-    },
-    "invision": {
-      "codepoint": 57471,
-      "fontFamily": "Bxl",
-      "identifier": "invision"
-    },
     "java": {
-      "codepoint": 57472,
+      "codepoint": 57419,
       "fontFamily": "Bxl",
       "identifier": "java"
     },
-    "javascript": {
-      "codepoint": 57473,
-      "fontFamily": "Bxl",
-      "identifier": "javascript"
-    },
-    "joomla": {
-      "codepoint": 57474,
-      "fontFamily": "Bxl",
-      "identifier": "joomla"
-    },
-    "jquery": {
-      "codepoint": 57475,
-      "fontFamily": "Bxl",
-      "identifier": "jquery"
-    },
-    "jsfiddle": {
-      "codepoint": 57476,
-      "fontFamily": "Bxl",
-      "identifier": "jsfiddle"
-    },
     "jwt": {
-      "codepoint": 57477,
+      "codepoint": 57420,
       "fontFamily": "Bxl",
       "identifier": "jwt"
     },
     "kick": {
-      "codepoint": 57478,
+      "codepoint": 57421,
       "fontFamily": "Bxl",
       "identifier": "kick"
     },
-    "kickstarter": {
-      "codepoint": 57479,
-      "fontFamily": "Bxl",
-      "identifier": "kickstarter"
-    },
     "kotlin": {
-      "codepoint": 57480,
+      "codepoint": 57422,
       "fontFamily": "Bxl",
       "identifier": "kotlin"
     },
-    "kubernetes": {
-      "codepoint": 57481,
-      "fontFamily": "Bxl",
-      "identifier": "kubernetes"
-    },
     "laravel": {
-      "codepoint": 57482,
+      "codepoint": 57423,
       "fontFamily": "Bxl",
       "identifier": "laravel"
     },
     "leetcode": {
-      "codepoint": 57483,
+      "codepoint": 57424,
       "fontFamily": "Bxl",
       "identifier": "leetcode"
     },
-    "lemon-squeezy": {
-      "codepoint": 57484,
-      "fontFamily": "Bxl",
-      "identifier": "lemonSqueezy"
-    },
-    "less": {
-      "codepoint": 57485,
-      "fontFamily": "Bxl",
-      "identifier": "less"
-    },
     "letterboxd": {
-      "codepoint": 57486,
+      "codepoint": 57425,
       "fontFamily": "Bxl",
       "identifier": "letterboxd"
     },
     "lichess": {
-      "codepoint": 57487,
+      "codepoint": 57426,
       "fontFamily": "Bxl",
       "identifier": "lichess"
     },
     "line-chat": {
-      "codepoint": 57488,
+      "codepoint": 57427,
       "fontFamily": "Bxl",
       "identifier": "lineChat"
     },
-    "linear-app": {
-      "codepoint": 57489,
-      "fontFamily": "Bxl",
-      "identifier": "linearApp"
-    },
-    "linkedin": {
-      "codepoint": 57490,
-      "fontFamily": "Bxl",
-      "identifier": "linkedin"
-    },
-    "linkedin-square": {
-      "codepoint": 57491,
-      "fontFamily": "Bxl",
-      "identifier": "linkedinSquare"
-    },
     "linktree": {
-      "codepoint": 57492,
+      "codepoint": 57428,
       "fontFamily": "Bxl",
       "identifier": "linktree"
     },
     "loom": {
-      "codepoint": 57493,
+      "codepoint": 57429,
       "fontFamily": "Bxl",
       "identifier": "loom"
     },
     "lottie-files": {
-      "codepoint": 57494,
+      "codepoint": 57430,
       "fontFamily": "Bxl",
       "identifier": "lottieFiles"
     },
     "lottie-lab": {
-      "codepoint": 57495,
+      "codepoint": 57431,
       "fontFamily": "Bxl",
       "identifier": "lottieLab"
     },
     "lovable": {
-      "codepoint": 57496,
+      "codepoint": 57432,
       "fontFamily": "Bxl",
       "identifier": "lovable"
     },
     "lyft": {
-      "codepoint": 57497,
+      "codepoint": 57433,
       "fontFamily": "Bxl",
       "identifier": "lyft"
     },
-    "magento": {
-      "codepoint": 57498,
-      "fontFamily": "Bxl",
-      "identifier": "magento"
-    },
-    "mailchimp": {
-      "codepoint": 57499,
-      "fontFamily": "Bxl",
-      "identifier": "mailchimp"
-    },
-    "markdown": {
-      "codepoint": 57500,
-      "fontFamily": "Bxl",
-      "identifier": "markdown"
-    },
-    "mastercard": {
-      "codepoint": 57501,
-      "fontFamily": "Bxl",
-      "identifier": "mastercard"
-    },
     "mastodon": {
-      "codepoint": 57502,
+      "codepoint": 57434,
       "fontFamily": "Bxl",
       "identifier": "mastodon"
     },
-    "mcp": {
-      "codepoint": 57503,
-      "fontFamily": "Bxl",
-      "identifier": "mcp"
-    },
     "medium": {
-      "codepoint": 57504,
+      "codepoint": 57435,
       "fontFamily": "Bxl",
       "identifier": "medium"
     },
-    "medium-old": {
-      "codepoint": 57505,
-      "fontFamily": "Bxl",
-      "identifier": "mediumOld"
-    },
     "medium-square": {
-      "codepoint": 57506,
+      "codepoint": 57436,
       "fontFamily": "Bxl",
       "identifier": "mediumSquare"
     },
-    "messenger": {
-      "codepoint": 57507,
-      "fontFamily": "Bxl",
-      "identifier": "messenger"
-    },
     "meta": {
-      "codepoint": 57508,
+      "codepoint": 57437,
       "fontFamily": "Bxl",
       "identifier": "meta"
     },
     "microsoft": {
-      "codepoint": 57509,
+      "codepoint": 57438,
       "fontFamily": "Bxl",
       "identifier": "microsoft"
     },
-    "microsoft-teams": {
-      "codepoint": 57510,
-      "fontFamily": "Bxl",
-      "identifier": "microsoftTeams"
-    },
-    "microsoft-windows": {
-      "codepoint": 57511,
-      "fontFamily": "Bxl",
-      "identifier": "microsoftWindows"
-    },
     "midjourney": {
-      "codepoint": 57512,
+      "codepoint": 57439,
       "fontFamily": "Bxl",
       "identifier": "midjourney"
     },
     "mongodb": {
-      "codepoint": 57513,
+      "codepoint": 57440,
       "fontFamily": "Bxl",
       "identifier": "mongodb"
     },
     "motion-js": {
-      "codepoint": 57514,
+      "codepoint": 57441,
       "fontFamily": "Bxl",
       "identifier": "motionJs"
     },
     "mozilla": {
-      "codepoint": 57515,
+      "codepoint": 57442,
       "fontFamily": "Bxl",
       "identifier": "mozilla"
     },
     "my-sql": {
-      "codepoint": 57516,
+      "codepoint": 57443,
       "fontFamily": "Bxl",
       "identifier": "mySql"
     },
     "neon-tech": {
-      "codepoint": 57517,
+      "codepoint": 57444,
       "fontFamily": "Bxl",
       "identifier": "neonTech"
     },
     "neovim": {
-      "codepoint": 57518,
+      "codepoint": 57445,
       "fontFamily": "Bxl",
       "identifier": "neovim"
     },
     "nest-js": {
-      "codepoint": 57519,
+      "codepoint": 57446,
       "fontFamily": "Bxl",
       "identifier": "nestJs"
     },
     "netlify": {
-      "codepoint": 57520,
+      "codepoint": 57447,
       "fontFamily": "Bxl",
       "identifier": "netlify"
     },
     "next-js": {
-      "codepoint": 57521,
+      "codepoint": 57448,
       "fontFamily": "Bxl",
       "identifier": "nextJs"
     },
-    "nodejs": {
-      "codepoint": 57522,
-      "fontFamily": "Bxl",
-      "identifier": "nodejs"
-    },
     "notion": {
-      "codepoint": 57523,
+      "codepoint": 57449,
       "fontFamily": "Bxl",
       "identifier": "notion"
     },
     "npm": {
-      "codepoint": 57524,
+      "codepoint": 57450,
       "fontFamily": "Bxl",
       "identifier": "npm"
     },
     "nuxt-js": {
-      "codepoint": 57525,
+      "codepoint": 57451,
       "fontFamily": "Bxl",
       "identifier": "nuxtJs"
     },
-    "ok-ru": {
-      "codepoint": 57526,
-      "fontFamily": "Bxl",
-      "identifier": "okRu"
-    },
     "ollama": {
-      "codepoint": 57527,
+      "codepoint": 57452,
       "fontFamily": "Bxl",
       "identifier": "ollama"
     },
     "openai": {
-      "codepoint": 57528,
+      "codepoint": 57453,
       "fontFamily": "Bxl",
       "identifier": "openai"
     },
     "opensea": {
-      "codepoint": 57529,
+      "codepoint": 57454,
       "fontFamily": "Bxl",
       "identifier": "opensea"
     },
-    "opera": {
-      "codepoint": 57530,
-      "fontFamily": "Bxl",
-      "identifier": "opera"
-    },
     "paddle-p": {
-      "codepoint": 57531,
+      "codepoint": 57455,
       "fontFamily": "Bxl",
       "identifier": "paddleP"
     },
     "paper-design": {
-      "codepoint": 57532,
+      "codepoint": 57456,
       "fontFamily": "Bxl",
       "identifier": "paperDesign"
     },
-    "patreon": {
-      "codepoint": 57533,
-      "fontFamily": "Bxl",
-      "identifier": "patreon"
-    },
     "payload-cms": {
-      "codepoint": 57534,
+      "codepoint": 57457,
       "fontFamily": "Bxl",
       "identifier": "payloadCms"
     },
-    "paypal": {
-      "codepoint": 57535,
-      "fontFamily": "Bxl",
-      "identifier": "paypal"
-    },
-    "periscope": {
-      "codepoint": 57536,
-      "fontFamily": "Bxl",
-      "identifier": "periscope"
-    },
     "perplexity-ai": {
-      "codepoint": 57537,
+      "codepoint": 57458,
       "fontFamily": "Bxl",
       "identifier": "perplexityAi"
     },
     "php": {
-      "codepoint": 57538,
+      "codepoint": 57459,
       "fontFamily": "Bxl",
       "identifier": "php"
     },
-    "pinterest": {
-      "codepoint": 57539,
-      "fontFamily": "Bxl",
-      "identifier": "pinterest"
-    },
-    "pinterest-alt": {
-      "codepoint": 57540,
-      "fontFamily": "Bxl",
-      "identifier": "pinterestAlt"
-    },
     "planetscale": {
-      "codepoint": 57541,
+      "codepoint": 57460,
       "fontFamily": "Bxl",
       "identifier": "planetscale"
     },
-    "play-store": {
-      "codepoint": 57542,
-      "fontFamily": "Bxl",
-      "identifier": "playStore"
-    },
     "playstation": {
-      "codepoint": 57543,
+      "codepoint": 57461,
       "fontFamily": "Bxl",
       "identifier": "playstation"
     },
-    "pocket": {
-      "codepoint": 57544,
-      "fontFamily": "Bxl",
-      "identifier": "pocket"
-    },
     "polar": {
-      "codepoint": 57545,
+      "codepoint": 57462,
       "fontFamily": "Bxl",
       "identifier": "polar"
     },
     "postgresql": {
-      "codepoint": 57546,
+      "codepoint": 57463,
       "fontFamily": "Bxl",
       "identifier": "postgresql"
     },
     "prisma-orm": {
-      "codepoint": 57547,
+      "codepoint": 57464,
       "fontFamily": "Bxl",
       "identifier": "prismaOrm"
     },
     "product-hunt": {
-      "codepoint": 57548,
+      "codepoint": 57465,
       "fontFamily": "Bxl",
       "identifier": "productHunt"
     },
-    "python": {
-      "codepoint": 57549,
-      "fontFamily": "Bxl",
-      "identifier": "python"
-    },
     "qdrant": {
-      "codepoint": 57550,
+      "codepoint": 57466,
       "fontFamily": "Bxl",
       "identifier": "qdrant"
     },
-    "qq": {
-      "codepoint": 57551,
-      "fontFamily": "Bxl",
-      "identifier": "qq"
-    },
-    "quora": {
-      "codepoint": 57552,
-      "fontFamily": "Bxl",
-      "identifier": "quora"
-    },
     "radix-ui": {
-      "codepoint": 57553,
+      "codepoint": 57467,
       "fontFamily": "Bxl",
       "identifier": "radixUi"
     },
     "railway": {
-      "codepoint": 57554,
+      "codepoint": 57468,
       "fontFamily": "Bxl",
       "identifier": "railway"
     },
     "rasberry-pi": {
-      "codepoint": 57555,
+      "codepoint": 57469,
       "fontFamily": "Bxl",
       "identifier": "rasberryPi"
     },
-    "react": {
-      "codepoint": 57556,
-      "fontFamily": "Bxl",
-      "identifier": "react"
-    },
-    "react-query": {
-      "codepoint": 57557,
-      "fontFamily": "Bxl",
-      "identifier": "reactQuery"
-    },
     "react-router": {
-      "codepoint": 57558,
+      "codepoint": 57470,
       "fontFamily": "Bxl",
       "identifier": "reactRouter"
     },
-    "redbubble": {
-      "codepoint": 57559,
-      "fontFamily": "Bxl",
-      "identifier": "redbubble"
-    },
-    "reddit": {
-      "codepoint": 57560,
-      "fontFamily": "Bxl",
-      "identifier": "reddit"
-    },
-    "redux": {
-      "codepoint": 57561,
-      "fontFamily": "Bxl",
-      "identifier": "redux"
-    },
     "remix-js": {
-      "codepoint": 57562,
+      "codepoint": 57471,
       "fontFamily": "Bxl",
       "identifier": "remixJs"
     },
     "replit": {
-      "codepoint": 57563,
+      "codepoint": 57472,
       "fontFamily": "Bxl",
       "identifier": "replit"
     },
     "resend": {
-      "codepoint": 57564,
+      "codepoint": 57473,
       "fontFamily": "Bxl",
       "identifier": "resend"
     },
     "roblox": {
-      "codepoint": 57565,
+      "codepoint": 57474,
       "fontFamily": "Bxl",
       "identifier": "roblox"
     },
     "sanity": {
-      "codepoint": 57566,
+      "codepoint": 57475,
       "fontFamily": "Bxl",
       "identifier": "sanity"
     },
-    "sass": {
-      "codepoint": 57567,
-      "fontFamily": "Bxl",
-      "identifier": "sass"
-    },
     "sentry": {
-      "codepoint": 57568,
+      "codepoint": 57476,
       "fontFamily": "Bxl",
       "identifier": "sentry"
     },
     "shadcn-ui": {
-      "codepoint": 57569,
+      "codepoint": 57477,
       "fontFamily": "Bxl",
       "identifier": "shadcnUi"
     },
-    "shopify": {
-      "codepoint": 57570,
-      "fontFamily": "Bxl",
-      "identifier": "shopify"
-    },
-    "sketch": {
-      "codepoint": 57571,
-      "fontFamily": "Bxl",
-      "identifier": "sketch"
-    },
-    "skype": {
-      "codepoint": 57572,
-      "fontFamily": "Bxl",
-      "identifier": "skype"
-    },
-    "slack": {
-      "codepoint": 57573,
-      "fontFamily": "Bxl",
-      "identifier": "slack"
-    },
-    "slack-old": {
-      "codepoint": 57574,
-      "fontFamily": "Bxl",
-      "identifier": "slackOld"
-    },
-    "snapchat": {
-      "codepoint": 57575,
-      "fontFamily": "Bxl",
-      "identifier": "snapchat"
-    },
     "socket-io": {
-      "codepoint": 57576,
+      "codepoint": 57478,
       "fontFamily": "Bxl",
       "identifier": "socketIo"
     },
-    "soundcloud": {
-      "codepoint": 57577,
-      "fontFamily": "Bxl",
-      "identifier": "soundcloud"
-    },
-    "spotify": {
-      "codepoint": 57578,
-      "fontFamily": "Bxl",
-      "identifier": "spotify"
-    },
-    "spring-boot": {
-      "codepoint": 57579,
-      "fontFamily": "Bxl",
-      "identifier": "springBoot"
-    },
-    "squarespace": {
-      "codepoint": 57580,
-      "fontFamily": "Bxl",
-      "identifier": "squarespace"
-    },
-    "sst": {
-      "codepoint": 57581,
-      "fontFamily": "Bxl",
-      "identifier": "sst"
-    },
-    "stack-overflow": {
-      "codepoint": 57582,
-      "fontFamily": "Bxl",
-      "identifier": "stackOverflow"
-    },
     "stackblitz": {
-      "codepoint": 57583,
+      "codepoint": 57479,
       "fontFamily": "Bxl",
       "identifier": "stackblitz"
     },
     "steam": {
-      "codepoint": 57584,
+      "codepoint": 57480,
       "fontFamily": "Bxl",
       "identifier": "steam"
     },
-    "stripe": {
-      "codepoint": 57585,
-      "fontFamily": "Bxl",
-      "identifier": "stripe"
-    },
     "supabase": {
-      "codepoint": 57586,
+      "codepoint": 57481,
       "fontFamily": "Bxl",
       "identifier": "supabase"
     },
     "svelte": {
-      "codepoint": 57587,
+      "codepoint": 57482,
       "fontFamily": "Bxl",
       "identifier": "svelte"
     },
     "tailwind-css": {
-      "codepoint": 57588,
+      "codepoint": 57483,
       "fontFamily": "Bxl",
       "identifier": "tailwindCss"
     },
-    "telegram": {
-      "codepoint": 57589,
-      "fontFamily": "Bxl",
-      "identifier": "telegram"
-    },
     "terraform": {
-      "codepoint": 57590,
+      "codepoint": 57484,
       "fontFamily": "Bxl",
       "identifier": "terraform"
     },
     "threads": {
-      "codepoint": 57591,
+      "codepoint": 57485,
       "fontFamily": "Bxl",
       "identifier": "threads"
     },
     "three-js": {
-      "codepoint": 57592,
+      "codepoint": 57486,
       "fontFamily": "Bxl",
       "identifier": "threeJs"
     },
     "tiktok": {
-      "codepoint": 57593,
+      "codepoint": 57487,
       "fontFamily": "Bxl",
       "identifier": "tiktok"
     },
-    "trello": {
-      "codepoint": 57594,
-      "fontFamily": "Bxl",
-      "identifier": "trello"
-    },
     "trip-advisor": {
-      "codepoint": 57595,
+      "codepoint": 57488,
       "fontFamily": "Bxl",
       "identifier": "tripAdvisor"
     },
     "trpc": {
-      "codepoint": 57596,
+      "codepoint": 57489,
       "fontFamily": "Bxl",
       "identifier": "trpc"
     },
     "trustpilot": {
-      "codepoint": 57597,
+      "codepoint": 57490,
       "fontFamily": "Bxl",
       "identifier": "trustpilot"
     },
-    "tumblr": {
-      "codepoint": 57598,
-      "fontFamily": "Bxl",
-      "identifier": "tumblr"
-    },
-    "tux": {
-      "codepoint": 57599,
-      "fontFamily": "Bxl",
-      "identifier": "tux"
-    },
     "twitch": {
-      "codepoint": 57600,
+      "codepoint": 57491,
       "fontFamily": "Bxl",
       "identifier": "twitch"
     },
-    "twitter": {
-      "codepoint": 57601,
-      "fontFamily": "Bxl",
-      "identifier": "twitter"
-    },
     "twitter-x": {
-      "codepoint": 57602,
+      "codepoint": 57492,
       "fontFamily": "Bxl",
       "identifier": "twitterX"
     },
     "typescript": {
-      "codepoint": 57603,
+      "codepoint": 57493,
       "fontFamily": "Bxl",
       "identifier": "typescript"
     },
     "uber": {
-      "codepoint": 57604,
+      "codepoint": 57494,
       "fontFamily": "Bxl",
       "identifier": "uber"
     },
     "ubuntu": {
-      "codepoint": 57605,
+      "codepoint": 57495,
       "fontFamily": "Bxl",
       "identifier": "ubuntu"
     },
     "udacity": {
-      "codepoint": 57606,
+      "codepoint": 57496,
       "fontFamily": "Bxl",
       "identifier": "udacity"
     },
     "union-pay": {
-      "codepoint": 57607,
+      "codepoint": 57497,
       "fontFamily": "Bxl",
       "identifier": "unionPay"
     },
     "unity": {
-      "codepoint": 57608,
+      "codepoint": 57498,
       "fontFamily": "Bxl",
       "identifier": "unity"
     },
     "unsplash": {
-      "codepoint": 57609,
+      "codepoint": 57499,
       "fontFamily": "Bxl",
       "identifier": "unsplash"
     },
     "upi": {
-      "codepoint": 57610,
+      "codepoint": 57500,
       "fontFamily": "Bxl",
       "identifier": "upi"
     },
     "upwork": {
-      "codepoint": 57611,
+      "codepoint": 57501,
       "fontFamily": "Bxl",
       "identifier": "upwork"
     },
     "v0": {
-      "codepoint": 57612,
+      "codepoint": 57502,
       "fontFamily": "Bxl",
       "identifier": "v0"
     },
     "venmo": {
-      "codepoint": 57613,
+      "codepoint": 57503,
       "fontFamily": "Bxl",
       "identifier": "venmo"
     },
     "vercel": {
-      "codepoint": 57614,
+      "codepoint": 57504,
       "fontFamily": "Bxl",
       "identifier": "vercel"
     },
-    "vimeo": {
-      "codepoint": 57615,
-      "fontFamily": "Bxl",
-      "identifier": "vimeo"
-    },
-    "visa": {
-      "codepoint": 57616,
-      "fontFamily": "Bxl",
-      "identifier": "visa"
-    },
     "visual-studio": {
-      "codepoint": 57617,
+      "codepoint": 57505,
       "fontFamily": "Bxl",
       "identifier": "visualStudio"
     },
     "vite-js": {
-      "codepoint": 57618,
+      "codepoint": 57506,
       "fontFamily": "Bxl",
       "identifier": "viteJs"
     },
-    "vk": {
-      "codepoint": 57619,
-      "fontFamily": "Bxl",
-      "identifier": "vk"
-    },
     "vuejs": {
-      "codepoint": 57620,
+      "codepoint": 57507,
       "fontFamily": "Bxl",
       "identifier": "vuejs"
     },
     "waze": {
-      "codepoint": 57621,
+      "codepoint": 57508,
       "fontFamily": "Bxl",
       "identifier": "waze"
     },
     "web-components": {
-      "codepoint": 57622,
+      "codepoint": 57509,
       "fontFamily": "Bxl",
       "identifier": "webComponents"
     },
     "webflow": {
-      "codepoint": 57623,
+      "codepoint": 57510,
       "fontFamily": "Bxl",
       "identifier": "webflow"
     },
-    "wechat": {
-      "codepoint": 57624,
-      "fontFamily": "Bxl",
-      "identifier": "wechat"
-    },
-    "weibo": {
-      "codepoint": 57625,
-      "fontFamily": "Bxl",
-      "identifier": "weibo"
-    },
-    "whatsapp": {
-      "codepoint": 57626,
-      "fontFamily": "Bxl",
-      "identifier": "whatsapp"
-    },
-    "whatsapp-square": {
-      "codepoint": 57627,
-      "fontFamily": "Bxl",
-      "identifier": "whatsappSquare"
-    },
-    "wikipedia": {
-      "codepoint": 57628,
-      "fontFamily": "Bxl",
-      "identifier": "wikipedia"
-    },
-    "windows": {
-      "codepoint": 57629,
-      "fontFamily": "Bxl",
-      "identifier": "windows"
-    },
     "windsurf": {
-      "codepoint": 57630,
+      "codepoint": 57511,
       "fontFamily": "Bxl",
       "identifier": "windsurf"
     },
-    "wix": {
-      "codepoint": 57631,
-      "fontFamily": "Bxl",
-      "identifier": "wix"
-    },
-    "wordpress": {
-      "codepoint": 57632,
-      "fontFamily": "Bxl",
-      "identifier": "wordpress"
-    },
     "work-os": {
-      "codepoint": 57633,
+      "codepoint": 57512,
       "fontFamily": "Bxl",
       "identifier": "workOs"
     },
     "xai": {
-      "codepoint": 57634,
+      "codepoint": 57513,
       "fontFamily": "Bxl",
       "identifier": "xai"
     },
     "xbox": {
-      "codepoint": 57635,
+      "codepoint": 57514,
       "fontFamily": "Bxl",
       "identifier": "xbox"
     },
     "xing": {
-      "codepoint": 57636,
+      "codepoint": 57515,
       "fontFamily": "Bxl",
       "identifier": "xing"
     },
-    "yahoo": {
-      "codepoint": 57637,
-      "fontFamily": "Bxl",
-      "identifier": "yahoo"
-    },
     "yarn": {
-      "codepoint": 57638,
+      "codepoint": 57516,
       "fontFamily": "Bxl",
       "identifier": "yarn"
     },
-    "yelp": {
-      "codepoint": 57639,
-      "fontFamily": "Bxl",
-      "identifier": "yelp"
-    },
-    "youtube": {
-      "codepoint": 57640,
-      "fontFamily": "Bxl",
-      "identifier": "youtube"
-    },
     "youtube-music": {
-      "codepoint": 57641,
+      "codepoint": 57517,
       "fontFamily": "Bxl",
       "identifier": "youtubeMusic"
     },
     "zen-browser": {
-      "codepoint": 57642,
+      "codepoint": 57518,
       "fontFamily": "Bxl",
       "identifier": "zenBrowser"
     },
-    "zoom": {
-      "codepoint": 57643,
-      "fontFamily": "Bxl",
-      "identifier": "zoom"
-    },
     "zoom-workplace": {
-      "codepoint": 57644,
+      "codepoint": 57519,
       "fontFamily": "Bxl",
       "identifier": "zoomWorkplace"
     }

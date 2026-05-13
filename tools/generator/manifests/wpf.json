@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "prefix": "wpf",
+  "iconifyJsonVersion": "2.2.472",
+  "lastUpdated": "2026-05-13",
+  "category": "Archive / Unmaintained",
+  "subPackage": "iconifyx_wpf",
+  "info": {
+    "name": "Icons8 Windows 8 Icons",
+    "author": {
+      "name": "Icons8",
+      "url": "https://github.com/icons8/WPF-UI-Framework"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT"
+    },
+    "total": 18
+  },
+  "fonts": [
+    {
+      "family": "Wpf",
+      "nextCodepoint": 57362,
+      "iconCount": 18
+    }
+  ],
+  "icons": {
+    "align-justify": {
+      "codepoint": 57344,
+      "fontFamily": "Wpf",
+      "identifier": "alignJustify"
+    },
+    "alignjustify": {
+      "codepoint": 57345,
+      "fontFamily": "Wpf",
+      "identifier": "alignjustify"
+    },
+    "autopilot": {
+      "codepoint": 57346,
+      "fontFamily": "Wpf",
+      "identifier": "autopilot"
+    },
+    "behance": {
+      "codepoint": 57347,
+      "fontFamily": "Wpf",
+      "identifier": "behance"
+    },
+    "charge-battery": {
+      "codepoint": 57348,
+      "fontFamily": "Wpf",
+      "identifier": "chargeBattery"
+    },
+    "chargebattery": {
+      "codepoint": 57349,
+      "fontFamily": "Wpf",
+      "identifier": "chargebattery"
+    },
+    "clapperboard": {
+      "codepoint": 57350,
+      "fontFamily": "Wpf",
+      "identifier": "clapperboard"
+    },
+    "full-battery": {
+      "codepoint": 57351,
+      "fontFamily": "Wpf",
+      "identifier": "fullBattery"
+    },
+    "fullbattery": {
+      "codepoint": 57352,
+      "fontFamily": "Wpf",
+      "identifier": "fullbattery"
+    },
+    "high-battery": {
+      "codepoint": 57353,
+      "fontFamily": "Wpf",
+      "identifier": "highBattery"
+    },
+    "highbattery": {
+      "codepoint": 57354,
+      "fontFamily": "Wpf",
+      "identifier": "highbattery"
+    },
+    "keyboard": {
+      "codepoint": 57355,
+      "fontFamily": "Wpf",
+      "identifier": "keyboard"
+    },
+    "message": {
+      "codepoint": 57356,
+      "fontFamily": "Wpf",
+      "identifier": "message"
+    },
+    "qr-code": {
+      "codepoint": 57357,
+      "fontFamily": "Wpf",
+      "identifier": "qrCode"
+    },
+    "qrcode": {
+      "codepoint": 57358,
+      "fontFamily": "Wpf",
+      "identifier": "qrcode"
+    },
+    "record": {
+      "codepoint": 57359,
+      "fontFamily": "Wpf",
+      "identifier": "record"
+    },
+    "sent": {
+      "codepoint": 57360,
+      "fontFamily": "Wpf",
+      "identifier": "sent"
+    },
+    "voicemail": {
+      "codepoint": 57361,
+      "fontFamily": "Wpf",
+      "identifier": "voicemail"
+    }
+  }
+}

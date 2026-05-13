@@ -16,1063 +16,633 @@
       "spdx": "BSD-3-Clause",
       "url": "https://github.com/indiana-university/rivet-icons/blob/develop/LICENSE"
     },
-    "total": 210
+    "total": 124
   },
   "fonts": [
     {
       "family": "RivetIcons",
-      "nextCodepoint": 57554,
-      "iconCount": 210
+      "nextCodepoint": 57468,
+      "iconCount": 124
     }
   ],
   "icons": {
-    "alarm": {
-      "codepoint": 57344,
-      "fontFamily": "RivetIcons",
-      "identifier": "alarm"
-    },
-    "alarm-solid": {
-      "codepoint": 57345,
-      "fontFamily": "RivetIcons",
-      "identifier": "alarmSolid"
-    },
-    "arrow-anchor-down-left": {
-      "codepoint": 57346,
-      "fontFamily": "RivetIcons",
-      "identifier": "arrowAnchorDownLeft"
-    },
     "arrow-anchor-down-right": {
-      "codepoint": 57347,
+      "codepoint": 57344,
       "fontFamily": "RivetIcons",
       "identifier": "arrowAnchorDownRight"
     },
-    "arrow-anchor-up-left": {
-      "codepoint": 57348,
-      "fontFamily": "RivetIcons",
-      "identifier": "arrowAnchorUpLeft"
-    },
-    "arrow-anchor-up-right": {
-      "codepoint": 57349,
-      "fontFamily": "RivetIcons",
-      "identifier": "arrowAnchorUpRight"
-    },
-    "arrow-down": {
-      "codepoint": 57350,
-      "fontFamily": "RivetIcons",
-      "identifier": "arrowDown"
-    },
     "arrow-down-left": {
-      "codepoint": 57351,
+      "codepoint": 57345,
       "fontFamily": "RivetIcons",
       "identifier": "arrowDownLeft"
     },
     "arrow-down-right": {
-      "codepoint": 57352,
+      "codepoint": 57346,
       "fontFamily": "RivetIcons",
       "identifier": "arrowDownRight"
     },
-    "arrow-left": {
-      "codepoint": 57353,
-      "fontFamily": "RivetIcons",
-      "identifier": "arrowLeft"
-    },
-    "arrow-right": {
-      "codepoint": 57354,
-      "fontFamily": "RivetIcons",
-      "identifier": "arrowRight"
-    },
-    "arrow-up": {
-      "codepoint": 57355,
-      "fontFamily": "RivetIcons",
-      "identifier": "arrowUp"
-    },
     "arrow-up-left": {
-      "codepoint": 57356,
+      "codepoint": 57347,
       "fontFamily": "RivetIcons",
       "identifier": "arrowUpLeft"
     },
     "arrow-up-right": {
-      "codepoint": 57357,
+      "codepoint": 57348,
       "fontFamily": "RivetIcons",
       "identifier": "arrowUpRight"
     },
-    "audio": {
-      "codepoint": 57358,
-      "fontFamily": "RivetIcons",
-      "identifier": "audio"
-    },
     "audio-off": {
-      "codepoint": 57359,
+      "codepoint": 57349,
       "fontFamily": "RivetIcons",
       "identifier": "audioOff"
     },
     "audio-off-solid": {
-      "codepoint": 57360,
+      "codepoint": 57350,
       "fontFamily": "RivetIcons",
       "identifier": "audioOffSolid"
     },
-    "audio-solid": {
-      "codepoint": 57361,
-      "fontFamily": "RivetIcons",
-      "identifier": "audioSolid"
-    },
     "ban": {
-      "codepoint": 57362,
+      "codepoint": 57351,
       "fontFamily": "RivetIcons",
       "identifier": "ban"
     },
     "ban-solid": {
-      "codepoint": 57363,
+      "codepoint": 57352,
       "fontFamily": "RivetIcons",
       "identifier": "banSolid"
     },
-    "bell": {
-      "codepoint": 57364,
-      "fontFamily": "RivetIcons",
-      "identifier": "bell"
-    },
-    "bell-solid": {
-      "codepoint": 57365,
-      "fontFamily": "RivetIcons",
-      "identifier": "bellSolid"
-    },
     "bookmark": {
-      "codepoint": 57366,
+      "codepoint": 57353,
       "fontFamily": "RivetIcons",
       "identifier": "bookmark"
     },
     "bookmark-solid": {
-      "codepoint": 57367,
+      "codepoint": 57354,
       "fontFamily": "RivetIcons",
       "identifier": "bookmarkSolid"
     },
     "browser-window": {
-      "codepoint": 57368,
+      "codepoint": 57355,
       "fontFamily": "RivetIcons",
       "identifier": "browserWindow"
     },
     "browser-window-solid": {
-      "codepoint": 57369,
+      "codepoint": 57356,
       "fontFamily": "RivetIcons",
       "identifier": "browserWindowSolid"
     },
     "building": {
-      "codepoint": 57370,
+      "codepoint": 57357,
       "fontFamily": "RivetIcons",
       "identifier": "building"
     },
     "building-solid": {
-      "codepoint": 57371,
+      "codepoint": 57358,
       "fontFamily": "RivetIcons",
       "identifier": "buildingSolid"
     },
     "bus": {
-      "codepoint": 57372,
+      "codepoint": 57359,
       "fontFamily": "RivetIcons",
       "identifier": "bus"
     },
     "calendar": {
-      "codepoint": 57373,
+      "codepoint": 57360,
       "fontFamily": "RivetIcons",
       "identifier": "calendar"
     },
     "calendar-solid": {
-      "codepoint": 57374,
+      "codepoint": 57361,
       "fontFamily": "RivetIcons",
       "identifier": "calendarSolid"
     },
-    "caution": {
-      "codepoint": 57375,
-      "fontFamily": "RivetIcons",
-      "identifier": "caution"
-    },
     "caution-solid": {
-      "codepoint": 57376,
+      "codepoint": 57362,
       "fontFamily": "RivetIcons",
       "identifier": "cautionSolid"
     },
     "chat": {
-      "codepoint": 57377,
+      "codepoint": 57363,
       "fontFamily": "RivetIcons",
       "identifier": "chat"
     },
     "chat-solid": {
-      "codepoint": 57378,
+      "codepoint": 57364,
       "fontFamily": "RivetIcons",
       "identifier": "chatSolid"
     },
     "check": {
-      "codepoint": 57379,
+      "codepoint": 57365,
       "fontFamily": "RivetIcons",
       "identifier": "check"
     },
     "check-all": {
-      "codepoint": 57380,
+      "codepoint": 57366,
       "fontFamily": "RivetIcons",
       "identifier": "checkAll"
     },
     "check-circle": {
-      "codepoint": 57381,
+      "codepoint": 57367,
       "fontFamily": "RivetIcons",
       "identifier": "checkCircle"
     },
     "check-circle-breakout": {
-      "codepoint": 57382,
+      "codepoint": 57368,
       "fontFamily": "RivetIcons",
       "identifier": "checkCircleBreakout"
     },
     "check-circle-solid": {
-      "codepoint": 57383,
+      "codepoint": 57369,
       "fontFamily": "RivetIcons",
       "identifier": "checkCircleSolid"
     },
-    "chevron-down": {
-      "codepoint": 57384,
-      "fontFamily": "RivetIcons",
-      "identifier": "chevronDown"
-    },
-    "chevron-left": {
-      "codepoint": 57385,
-      "fontFamily": "RivetIcons",
-      "identifier": "chevronLeft"
-    },
-    "chevron-right": {
-      "codepoint": 57386,
-      "fontFamily": "RivetIcons",
-      "identifier": "chevronRight"
-    },
-    "chevron-up": {
-      "codepoint": 57387,
-      "fontFamily": "RivetIcons",
-      "identifier": "chevronUp"
-    },
-    "chevrons-left": {
-      "codepoint": 57388,
-      "fontFamily": "RivetIcons",
-      "identifier": "chevronsLeft"
-    },
     "chevrons-right": {
-      "codepoint": 57389,
+      "codepoint": 57370,
       "fontFamily": "RivetIcons",
       "identifier": "chevronsRight"
     },
     "circle": {
-      "codepoint": 57390,
+      "codepoint": 57371,
       "fontFamily": "RivetIcons",
       "identifier": "circle"
     },
     "circle-solid": {
-      "codepoint": 57391,
+      "codepoint": 57372,
       "fontFamily": "RivetIcons",
       "identifier": "circleSolid"
     },
     "clipboard": {
-      "codepoint": 57392,
+      "codepoint": 57373,
       "fontFamily": "RivetIcons",
       "identifier": "clipboard"
     },
     "clipboard-solid": {
-      "codepoint": 57393,
+      "codepoint": 57374,
       "fontFamily": "RivetIcons",
       "identifier": "clipboardSolid"
     },
     "clock": {
-      "codepoint": 57394,
+      "codepoint": 57375,
       "fontFamily": "RivetIcons",
       "identifier": "clock"
     },
-    "clock-solid": {
-      "codepoint": 57395,
-      "fontFamily": "RivetIcons",
-      "identifier": "clockSolid"
-    },
     "close": {
-      "codepoint": 57396,
+      "codepoint": 57376,
       "fontFamily": "RivetIcons",
       "identifier": "close"
     },
     "close-circle": {
-      "codepoint": 57397,
+      "codepoint": 57377,
       "fontFamily": "RivetIcons",
       "identifier": "closeCircle"
     },
     "close-circle-solid": {
-      "codepoint": 57398,
+      "codepoint": 57378,
       "fontFamily": "RivetIcons",
       "identifier": "closeCircleSolid"
     },
-    "code": {
-      "codepoint": 57399,
-      "fontFamily": "RivetIcons",
-      "identifier": "code"
-    },
-    "collapse": {
-      "codepoint": 57400,
-      "fontFamily": "RivetIcons",
-      "identifier": "collapse"
-    },
     "copy": {
-      "codepoint": 57401,
+      "codepoint": 57379,
       "fontFamily": "RivetIcons",
       "identifier": "copy"
     },
     "copy-solid": {
-      "codepoint": 57402,
+      "codepoint": 57380,
       "fontFamily": "RivetIcons",
       "identifier": "copySolid"
     },
     "credit-card": {
-      "codepoint": 57403,
+      "codepoint": 57381,
       "fontFamily": "RivetIcons",
       "identifier": "creditCard"
     },
     "credit-card-solid": {
-      "codepoint": 57404,
+      "codepoint": 57382,
       "fontFamily": "RivetIcons",
       "identifier": "creditCardSolid"
     },
-    "css": {
-      "codepoint": 57405,
-      "fontFamily": "RivetIcons",
-      "identifier": "css"
-    },
-    "data": {
-      "codepoint": 57406,
-      "fontFamily": "RivetIcons",
-      "identifier": "data"
-    },
-    "data-solid": {
-      "codepoint": 57407,
-      "fontFamily": "RivetIcons",
-      "identifier": "dataSolid"
-    },
     "device": {
-      "codepoint": 57408,
+      "codepoint": 57383,
       "fontFamily": "RivetIcons",
       "identifier": "device"
     },
     "device-solid": {
-      "codepoint": 57409,
+      "codepoint": 57384,
       "fontFamily": "RivetIcons",
       "identifier": "deviceSolid"
     },
     "download": {
-      "codepoint": 57410,
+      "codepoint": 57385,
       "fontFamily": "RivetIcons",
       "identifier": "download"
     },
     "ellipsis": {
-      "codepoint": 57411,
+      "codepoint": 57386,
       "fontFamily": "RivetIcons",
       "identifier": "ellipsis"
     },
     "ellipsis-vertical": {
-      "codepoint": 57412,
+      "codepoint": 57387,
       "fontFamily": "RivetIcons",
       "identifier": "ellipsisVertical"
     },
     "envelope": {
-      "codepoint": 57413,
+      "codepoint": 57388,
       "fontFamily": "RivetIcons",
       "identifier": "envelope"
     },
-    "envelope-solid": {
-      "codepoint": 57414,
-      "fontFamily": "RivetIcons",
-      "identifier": "envelopeSolid"
-    },
     "exclamation-mark": {
-      "codepoint": 57415,
+      "codepoint": 57389,
       "fontFamily": "RivetIcons",
       "identifier": "exclamationMark"
     },
     "exclamation-mark-circle": {
-      "codepoint": 57416,
+      "codepoint": 57390,
       "fontFamily": "RivetIcons",
       "identifier": "exclamationMarkCircle"
     },
     "exclamation-mark-circle-solid": {
-      "codepoint": 57417,
+      "codepoint": 57391,
       "fontFamily": "RivetIcons",
       "identifier": "exclamationMarkCircleSolid"
     },
     "expand": {
-      "codepoint": 57418,
+      "codepoint": 57392,
       "fontFamily": "RivetIcons",
       "identifier": "expand"
     },
-    "eye": {
-      "codepoint": 57419,
-      "fontFamily": "RivetIcons",
-      "identifier": "eye"
-    },
-    "eye-off": {
-      "codepoint": 57420,
-      "fontFamily": "RivetIcons",
-      "identifier": "eyeOff"
-    },
-    "eye-off-solid": {
-      "codepoint": 57421,
-      "fontFamily": "RivetIcons",
-      "identifier": "eyeOffSolid"
-    },
-    "eye-solid": {
-      "codepoint": 57422,
-      "fontFamily": "RivetIcons",
-      "identifier": "eyeSolid"
-    },
-    "file": {
-      "codepoint": 57423,
-      "fontFamily": "RivetIcons",
-      "identifier": "file"
-    },
-    "file-solid": {
-      "codepoint": 57424,
-      "fontFamily": "RivetIcons",
-      "identifier": "fileSolid"
-    },
     "filter": {
-      "codepoint": 57425,
+      "codepoint": 57393,
       "fontFamily": "RivetIcons",
       "identifier": "filter"
     },
     "filter-solid": {
-      "codepoint": 57426,
+      "codepoint": 57394,
       "fontFamily": "RivetIcons",
       "identifier": "filterSolid"
     },
-    "flag": {
-      "codepoint": 57427,
-      "fontFamily": "RivetIcons",
-      "identifier": "flag"
-    },
     "flag-solid": {
-      "codepoint": 57428,
+      "codepoint": 57395,
       "fontFamily": "RivetIcons",
       "identifier": "flagSolid"
     },
-    "gear": {
-      "codepoint": 57429,
-      "fontFamily": "RivetIcons",
-      "identifier": "gear"
-    },
-    "gear-solid": {
-      "codepoint": 57430,
-      "fontFamily": "RivetIcons",
-      "identifier": "gearSolid"
-    },
-    "gears": {
-      "codepoint": 57431,
-      "fontFamily": "RivetIcons",
-      "identifier": "gears"
-    },
-    "globe": {
-      "codepoint": 57432,
-      "fontFamily": "RivetIcons",
-      "identifier": "globe"
-    },
-    "globe-solid": {
-      "codepoint": 57433,
-      "fontFamily": "RivetIcons",
-      "identifier": "globeSolid"
-    },
     "grid": {
-      "codepoint": 57434,
+      "codepoint": 57396,
       "fontFamily": "RivetIcons",
       "identifier": "grid"
     },
     "grid-horizontal": {
-      "codepoint": 57435,
+      "codepoint": 57397,
       "fontFamily": "RivetIcons",
       "identifier": "gridHorizontal"
     },
     "grid-solid": {
-      "codepoint": 57436,
+      "codepoint": 57398,
       "fontFamily": "RivetIcons",
       "identifier": "gridSolid"
     },
     "grid-vertical": {
-      "codepoint": 57437,
+      "codepoint": 57399,
       "fontFamily": "RivetIcons",
       "identifier": "gridVertical"
     },
-    "happy": {
-      "codepoint": 57438,
-      "fontFamily": "RivetIcons",
-      "identifier": "happy"
-    },
-    "happy-solid": {
-      "codepoint": 57439,
-      "fontFamily": "RivetIcons",
-      "identifier": "happySolid"
-    },
     "headphones": {
-      "codepoint": 57440,
+      "codepoint": 57400,
       "fontFamily": "RivetIcons",
       "identifier": "headphones"
     },
     "headphones-solid": {
-      "codepoint": 57441,
+      "codepoint": 57401,
       "fontFamily": "RivetIcons",
       "identifier": "headphonesSolid"
     },
-    "heart": {
-      "codepoint": 57442,
-      "fontFamily": "RivetIcons",
-      "identifier": "heart"
-    },
-    "heart-solid": {
-      "codepoint": 57443,
-      "fontFamily": "RivetIcons",
-      "identifier": "heartSolid"
-    },
-    "home": {
-      "codepoint": 57444,
-      "fontFamily": "RivetIcons",
-      "identifier": "home"
-    },
-    "home-solid": {
-      "codepoint": 57445,
-      "fontFamily": "RivetIcons",
-      "identifier": "homeSolid"
-    },
-    "image": {
-      "codepoint": 57446,
-      "fontFamily": "RivetIcons",
-      "identifier": "image"
-    },
-    "image-solid": {
-      "codepoint": 57447,
-      "fontFamily": "RivetIcons",
-      "identifier": "imageSolid"
-    },
     "inbox": {
-      "codepoint": 57448,
+      "codepoint": 57402,
       "fontFamily": "RivetIcons",
       "identifier": "inbox"
     },
-    "inbox-complete": {
-      "codepoint": 57449,
-      "fontFamily": "RivetIcons",
-      "identifier": "inboxComplete"
-    },
-    "inbox-complete-solid": {
-      "codepoint": 57450,
-      "fontFamily": "RivetIcons",
-      "identifier": "inboxCompleteSolid"
-    },
     "inbox-solid": {
-      "codepoint": 57451,
+      "codepoint": 57403,
       "fontFamily": "RivetIcons",
       "identifier": "inboxSolid"
     },
     "info-circle": {
-      "codepoint": 57452,
+      "codepoint": 57404,
       "fontFamily": "RivetIcons",
       "identifier": "infoCircle"
     },
     "info-circle-solid": {
-      "codepoint": 57453,
+      "codepoint": 57405,
       "fontFamily": "RivetIcons",
       "identifier": "infoCircleSolid"
     },
     "laptop": {
-      "codepoint": 57454,
+      "codepoint": 57406,
       "fontFamily": "RivetIcons",
       "identifier": "laptop"
     },
     "laptop-solid": {
-      "codepoint": 57455,
+      "codepoint": 57407,
       "fontFamily": "RivetIcons",
       "identifier": "laptopSolid"
     },
     "lightning": {
-      "codepoint": 57456,
+      "codepoint": 57408,
       "fontFamily": "RivetIcons",
       "identifier": "lightning"
     },
     "lightning-box": {
-      "codepoint": 57457,
+      "codepoint": 57409,
       "fontFamily": "RivetIcons",
       "identifier": "lightningBox"
     },
     "lightning-box-solid": {
-      "codepoint": 57458,
+      "codepoint": 57410,
       "fontFamily": "RivetIcons",
       "identifier": "lightningBoxSolid"
     },
-    "link": {
-      "codepoint": 57459,
-      "fontFamily": "RivetIcons",
-      "identifier": "link"
-    },
     "link-external": {
-      "codepoint": 57460,
+      "codepoint": 57411,
       "fontFamily": "RivetIcons",
       "identifier": "linkExternal"
     },
     "list": {
-      "codepoint": 57461,
+      "codepoint": 57412,
       "fontFamily": "RivetIcons",
       "identifier": "list"
     },
     "lock-closed": {
-      "codepoint": 57462,
+      "codepoint": 57413,
       "fontFamily": "RivetIcons",
       "identifier": "lockClosed"
     },
     "lock-closed-solid": {
-      "codepoint": 57463,
+      "codepoint": 57414,
       "fontFamily": "RivetIcons",
       "identifier": "lockClosedSolid"
     },
     "lock-open": {
-      "codepoint": 57464,
+      "codepoint": 57415,
       "fontFamily": "RivetIcons",
       "identifier": "lockOpen"
     },
     "lock-open-solid": {
-      "codepoint": 57465,
+      "codepoint": 57416,
       "fontFamily": "RivetIcons",
       "identifier": "lockOpenSolid"
     },
     "magnifying-glass": {
-      "codepoint": 57466,
+      "codepoint": 57417,
       "fontFamily": "RivetIcons",
       "identifier": "magnifyingGlass"
     },
-    "map-pin": {
-      "codepoint": 57467,
-      "fontFamily": "RivetIcons",
-      "identifier": "mapPin"
-    },
-    "map-pin-solid": {
-      "codepoint": 57468,
-      "fontFamily": "RivetIcons",
-      "identifier": "mapPinSolid"
-    },
-    "megaphone": {
-      "codepoint": 57469,
-      "fontFamily": "RivetIcons",
-      "identifier": "megaphone"
-    },
-    "megaphone-solid": {
-      "codepoint": 57470,
-      "fontFamily": "RivetIcons",
-      "identifier": "megaphoneSolid"
-    },
     "menu": {
-      "codepoint": 57471,
+      "codepoint": 57418,
       "fontFamily": "RivetIcons",
       "identifier": "menu"
     },
     "microphone": {
-      "codepoint": 57472,
+      "codepoint": 57419,
       "fontFamily": "RivetIcons",
       "identifier": "microphone"
     },
-    "microphone-off": {
-      "codepoint": 57473,
-      "fontFamily": "RivetIcons",
-      "identifier": "microphoneOff"
-    },
-    "microphone-off-solid": {
-      "codepoint": 57474,
-      "fontFamily": "RivetIcons",
-      "identifier": "microphoneOffSolid"
-    },
     "microphone-solid": {
-      "codepoint": 57475,
+      "codepoint": 57420,
       "fontFamily": "RivetIcons",
       "identifier": "microphoneSolid"
     },
     "minus": {
-      "codepoint": 57476,
+      "codepoint": 57421,
       "fontFamily": "RivetIcons",
       "identifier": "minus"
     },
     "minus-circle": {
-      "codepoint": 57477,
+      "codepoint": 57422,
       "fontFamily": "RivetIcons",
       "identifier": "minusCircle"
     },
     "minus-circle-solid": {
-      "codepoint": 57478,
+      "codepoint": 57423,
       "fontFamily": "RivetIcons",
       "identifier": "minusCircleSolid"
     },
     "money": {
-      "codepoint": 57479,
+      "codepoint": 57424,
       "fontFamily": "RivetIcons",
       "identifier": "money"
     },
     "neutral": {
-      "codepoint": 57480,
+      "codepoint": 57425,
       "fontFamily": "RivetIcons",
       "identifier": "neutral"
     },
     "neutral-solid": {
-      "codepoint": 57481,
+      "codepoint": 57426,
       "fontFamily": "RivetIcons",
       "identifier": "neutralSolid"
     },
-    "newspaper": {
-      "codepoint": 57482,
-      "fontFamily": "RivetIcons",
-      "identifier": "newspaper"
-    },
     "newspaper-solid": {
-      "codepoint": 57483,
+      "codepoint": 57427,
       "fontFamily": "RivetIcons",
       "identifier": "newspaperSolid"
     },
     "note": {
-      "codepoint": 57484,
+      "codepoint": 57428,
       "fontFamily": "RivetIcons",
       "identifier": "note"
     },
     "note-solid": {
-      "codepoint": 57485,
+      "codepoint": 57429,
       "fontFamily": "RivetIcons",
       "identifier": "noteSolid"
     },
     "ordered-list": {
-      "codepoint": 57486,
+      "codepoint": 57430,
       "fontFamily": "RivetIcons",
       "identifier": "orderedList"
     },
     "page-bottom": {
-      "codepoint": 57487,
+      "codepoint": 57431,
       "fontFamily": "RivetIcons",
       "identifier": "pageBottom"
     },
     "page-top": {
-      "codepoint": 57488,
+      "codepoint": 57432,
       "fontFamily": "RivetIcons",
       "identifier": "pageTop"
     },
     "parking": {
-      "codepoint": 57489,
+      "codepoint": 57433,
       "fontFamily": "RivetIcons",
       "identifier": "parking"
     },
     "parking-solid": {
-      "codepoint": 57490,
+      "codepoint": 57434,
       "fontFamily": "RivetIcons",
       "identifier": "parkingSolid"
     },
     "pause": {
-      "codepoint": 57491,
+      "codepoint": 57435,
       "fontFamily": "RivetIcons",
       "identifier": "pause"
     },
-    "pencil": {
-      "codepoint": 57492,
-      "fontFamily": "RivetIcons",
-      "identifier": "pencil"
-    },
     "pencil-solid": {
-      "codepoint": 57493,
+      "codepoint": 57436,
       "fontFamily": "RivetIcons",
       "identifier": "pencilSolid"
     },
     "phone": {
-      "codepoint": 57494,
+      "codepoint": 57437,
       "fontFamily": "RivetIcons",
       "identifier": "phone"
     },
     "phone-mobile": {
-      "codepoint": 57495,
+      "codepoint": 57438,
       "fontFamily": "RivetIcons",
       "identifier": "phoneMobile"
     },
     "phone-mobile-solid": {
-      "codepoint": 57496,
+      "codepoint": 57439,
       "fontFamily": "RivetIcons",
       "identifier": "phoneMobileSolid"
     },
-    "pin": {
-      "codepoint": 57497,
-      "fontFamily": "RivetIcons",
-      "identifier": "pin"
-    },
-    "pin-solid": {
-      "codepoint": 57498,
-      "fontFamily": "RivetIcons",
-      "identifier": "pinSolid"
-    },
-    "plane": {
-      "codepoint": 57499,
-      "fontFamily": "RivetIcons",
-      "identifier": "plane"
-    },
-    "plane-solid": {
-      "codepoint": 57500,
-      "fontFamily": "RivetIcons",
-      "identifier": "planeSolid"
-    },
     "play": {
-      "codepoint": 57501,
+      "codepoint": 57440,
       "fontFamily": "RivetIcons",
       "identifier": "play"
     },
     "play-solid": {
-      "codepoint": 57502,
+      "codepoint": 57441,
       "fontFamily": "RivetIcons",
       "identifier": "playSolid"
     },
     "plus": {
-      "codepoint": 57503,
+      "codepoint": 57442,
       "fontFamily": "RivetIcons",
       "identifier": "plus"
     },
     "plus-circle": {
-      "codepoint": 57504,
+      "codepoint": 57443,
       "fontFamily": "RivetIcons",
       "identifier": "plusCircle"
     },
     "plus-circle-solid": {
-      "codepoint": 57505,
+      "codepoint": 57444,
       "fontFamily": "RivetIcons",
       "identifier": "plusCircleSolid"
     },
     "printer": {
-      "codepoint": 57506,
+      "codepoint": 57445,
       "fontFamily": "RivetIcons",
       "identifier": "printer"
     },
     "printer-solid": {
-      "codepoint": 57507,
+      "codepoint": 57446,
       "fontFamily": "RivetIcons",
       "identifier": "printerSolid"
     },
-    "question-mark": {
-      "codepoint": 57508,
-      "fontFamily": "RivetIcons",
-      "identifier": "questionMark"
-    },
-    "question-mark-solid": {
-      "codepoint": 57509,
-      "fontFamily": "RivetIcons",
-      "identifier": "questionMarkSolid"
-    },
     "redo": {
-      "codepoint": 57510,
+      "codepoint": 57447,
       "fontFamily": "RivetIcons",
       "identifier": "redo"
     },
     "rss": {
-      "codepoint": 57511,
+      "codepoint": 57448,
       "fontFamily": "RivetIcons",
       "identifier": "rss"
     },
-    "sad": {
-      "codepoint": 57512,
-      "fontFamily": "RivetIcons",
-      "identifier": "sad"
-    },
-    "sad-solid": {
-      "codepoint": 57513,
-      "fontFamily": "RivetIcons",
-      "identifier": "sadSolid"
-    },
     "save": {
-      "codepoint": 57514,
+      "codepoint": 57449,
       "fontFamily": "RivetIcons",
       "identifier": "save"
     },
     "save-solid": {
-      "codepoint": 57515,
+      "codepoint": 57450,
       "fontFamily": "RivetIcons",
       "identifier": "saveSolid"
     },
     "settings": {
-      "codepoint": 57516,
+      "codepoint": 57451,
       "fontFamily": "RivetIcons",
       "identifier": "settings"
     },
-    "share": {
-      "codepoint": 57517,
-      "fontFamily": "RivetIcons",
-      "identifier": "share"
-    },
-    "share-solid": {
-      "codepoint": 57518,
-      "fontFamily": "RivetIcons",
-      "identifier": "shareSolid"
-    },
-    "shirt": {
-      "codepoint": 57519,
-      "fontFamily": "RivetIcons",
-      "identifier": "shirt"
-    },
-    "shirt-solid": {
-      "codepoint": 57520,
-      "fontFamily": "RivetIcons",
-      "identifier": "shirtSolid"
-    },
     "shopping-bag": {
-      "codepoint": 57521,
+      "codepoint": 57452,
       "fontFamily": "RivetIcons",
       "identifier": "shoppingBag"
     },
     "shopping-bag-solid": {
-      "codepoint": 57522,
+      "codepoint": 57453,
       "fontFamily": "RivetIcons",
       "identifier": "shoppingBagSolid"
     },
-    "shopping-cart": {
-      "codepoint": 57523,
-      "fontFamily": "RivetIcons",
-      "identifier": "shoppingCart"
-    },
-    "shopping-cart-solid": {
-      "codepoint": 57524,
-      "fontFamily": "RivetIcons",
-      "identifier": "shoppingCartSolid"
-    },
     "sidebyside": {
-      "codepoint": 57525,
+      "codepoint": 57454,
       "fontFamily": "RivetIcons",
       "identifier": "sidebyside"
     },
     "sidebyside-solid": {
-      "codepoint": 57526,
+      "codepoint": 57455,
       "fontFamily": "RivetIcons",
       "identifier": "sidebysideSolid"
     },
-    "star": {
-      "codepoint": 57527,
-      "fontFamily": "RivetIcons",
-      "identifier": "star"
-    },
-    "star-solid": {
-      "codepoint": 57528,
-      "fontFamily": "RivetIcons",
-      "identifier": "starSolid"
-    },
     "sync": {
-      "codepoint": 57529,
+      "codepoint": 57456,
       "fontFamily": "RivetIcons",
       "identifier": "sync_"
     },
-    "thumbs-down": {
-      "codepoint": 57530,
-      "fontFamily": "RivetIcons",
-      "identifier": "thumbsDown"
-    },
-    "thumbs-down-solid": {
-      "codepoint": 57531,
-      "fontFamily": "RivetIcons",
-      "identifier": "thumbsDownSolid"
-    },
-    "thumbs-up": {
-      "codepoint": 57532,
-      "fontFamily": "RivetIcons",
-      "identifier": "thumbsUp"
-    },
     "thumbs-up-solid": {
-      "codepoint": 57533,
+      "codepoint": 57457,
       "fontFamily": "RivetIcons",
       "identifier": "thumbsUpSolid"
     },
-    "transfer": {
-      "codepoint": 57534,
-      "fontFamily": "RivetIcons",
-      "identifier": "transfer"
-    },
-    "transfer-alt": {
-      "codepoint": 57535,
-      "fontFamily": "RivetIcons",
-      "identifier": "transferAlt"
-    },
-    "trash": {
-      "codepoint": 57536,
-      "fontFamily": "RivetIcons",
-      "identifier": "trash"
-    },
     "trash-solid": {
-      "codepoint": 57537,
+      "codepoint": 57458,
       "fontFamily": "RivetIcons",
       "identifier": "trashSolid"
     },
-    "undo": {
-      "codepoint": 57538,
-      "fontFamily": "RivetIcons",
-      "identifier": "undo"
-    },
-    "upload": {
-      "codepoint": 57539,
-      "fontFamily": "RivetIcons",
-      "identifier": "upload"
-    },
     "user": {
-      "codepoint": 57540,
+      "codepoint": 57459,
       "fontFamily": "RivetIcons",
       "identifier": "user"
     },
     "user-add": {
-      "codepoint": 57541,
+      "codepoint": 57460,
       "fontFamily": "RivetIcons",
       "identifier": "userAdd"
     },
     "user-add-solid": {
-      "codepoint": 57542,
+      "codepoint": 57461,
       "fontFamily": "RivetIcons",
       "identifier": "userAddSolid"
     },
     "user-group": {
-      "codepoint": 57543,
+      "codepoint": 57462,
       "fontFamily": "RivetIcons",
       "identifier": "userGroup"
     },
-    "user-group-solid": {
-      "codepoint": 57544,
-      "fontFamily": "RivetIcons",
-      "identifier": "userGroupSolid"
-    },
     "user-remove": {
-      "codepoint": 57545,
+      "codepoint": 57463,
       "fontFamily": "RivetIcons",
       "identifier": "userRemove"
     },
     "user-remove-solid": {
-      "codepoint": 57546,
+      "codepoint": 57464,
       "fontFamily": "RivetIcons",
       "identifier": "userRemoveSolid"
     },
     "user-solid": {
-      "codepoint": 57547,
+      "codepoint": 57465,
       "fontFamily": "RivetIcons",
       "identifier": "userSolid"
     },
-    "utensils": {
-      "codepoint": 57548,
-      "fontFamily": "RivetIcons",
-      "identifier": "utensils"
-    },
-    "utensils-solid": {
-      "codepoint": 57549,
-      "fontFamily": "RivetIcons",
-      "identifier": "utensilsSolid"
-    },
     "video": {
-      "codepoint": 57550,
+      "codepoint": 57466,
       "fontFamily": "RivetIcons",
       "identifier": "video"
     },
-    "video-off": {
-      "codepoint": 57551,
-      "fontFamily": "RivetIcons",
-      "identifier": "videoOff"
-    },
-    "video-off-solid": {
-      "codepoint": 57552,
-      "fontFamily": "RivetIcons",
-      "identifier": "videoOffSolid"
-    },
     "video-solid": {
-      "codepoint": 57553,
+      "codepoint": 57467,
       "fontFamily": "RivetIcons",
       "identifier": "videoSolid"
     }
