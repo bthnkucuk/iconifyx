@@ -23,6 +23,11 @@
       "family": "Gg",
       "nextCodepoint": 57914,
       "iconCount": 570
+    },
+    {
+      "family": "GgSecondary",
+      "nextCodepoint": 57914,
+      "iconCount": 10
     }
   ],
   "icons": {
@@ -1239,7 +1244,8 @@
     "format-separator": {
       "codepoint": 57586,
       "fontFamily": "Gg",
-      "identifier": "formatSeparator"
+      "identifier": "formatSeparator",
+      "duotone": true
     },
     "format-strike": {
       "codepoint": 57587,
@@ -1504,7 +1510,8 @@
     "loadbar-alt": {
       "codepoint": 57639,
       "fontFamily": "Gg",
-      "identifier": "loadbarAlt"
+      "identifier": "loadbarAlt",
+      "duotone": true
     },
     "loadbar-doc": {
       "codepoint": 57640,
@@ -1829,7 +1836,8 @@
     "overflow": {
       "codepoint": 57704,
       "fontFamily": "Gg",
-      "identifier": "overflow"
+      "identifier": "overflow",
+      "duotone": true
     },
     "password": {
       "codepoint": 57705,
@@ -1844,7 +1852,8 @@
     "path-crop": {
       "codepoint": 57707,
       "fontFamily": "Gg",
-      "identifier": "pathCrop"
+      "identifier": "pathCrop",
+      "duotone": true
     },
     "path-divide": {
       "codepoint": 57708,
@@ -1884,7 +1893,8 @@
     "patreon": {
       "codepoint": 57715,
       "fontFamily": "Gg",
-      "identifier": "patreon"
+      "identifier": "patreon",
+      "duotone": true
     },
     "performance": {
       "codepoint": 57716,
@@ -2239,12 +2249,14 @@
     "row-first": {
       "codepoint": 57786,
       "fontFamily": "Gg",
-      "identifier": "rowFirst"
+      "identifier": "rowFirst",
+      "duotone": true
     },
     "row-last": {
       "codepoint": 57787,
       "fontFamily": "Gg",
-      "identifier": "rowLast"
+      "identifier": "rowLast",
+      "duotone": true
     },
     "ruler": {
       "codepoint": 57788,
@@ -2509,7 +2521,8 @@
     "spinner": {
       "codepoint": 57840,
       "fontFamily": "Gg",
-      "identifier": "spinner"
+      "identifier": "spinner",
+      "duotone": true
     },
     "spinner-alt": {
       "codepoint": 57841,
@@ -2519,7 +2532,8 @@
     "spinner-two": {
       "codepoint": 57842,
       "fontFamily": "Gg",
-      "identifier": "spinnerTwo"
+      "identifier": "spinnerTwo",
+      "duotone": true
     },
     "spinner-two-alt": {
       "codepoint": 57843,
@@ -2624,7 +2638,8 @@
     "today": {
       "codepoint": 57863,
       "fontFamily": "Gg",
-      "identifier": "today"
+      "identifier": "today",
+      "duotone": true
     },
     "toggle-off": {
       "codepoint": 57864,

@@ -23,6 +23,11 @@
       "family": "Clarity",
       "nextCodepoint": 58407,
       "iconCount": 1063
+    },
+    {
+      "family": "ClaritySecondary",
+      "nextCodepoint": 58407,
+      "iconCount": 2
     }
   ],
   "icons": {
@@ -5129,12 +5134,14 @@
     "vm-bug-inverse-line": {
       "codepoint": 58364,
       "fontFamily": "Clarity",
-      "identifier": "vmBugInverseLine"
+      "identifier": "vmBugInverseLine",
+      "duotone": true
     },
     "vm-bug-line": {
       "codepoint": 58365,
       "fontFamily": "Clarity",
-      "identifier": "vmBugLine"
+      "identifier": "vmBugLine",
+      "duotone": true
     },
     "vm-line": {
       "codepoint": 58366,

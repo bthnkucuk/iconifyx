@@ -28,6 +28,11 @@
       "family": "Tabler_2",
       "nextCodepoint": 57722,
       "iconCount": 378
+    },
+    {
+      "family": "TablerSecondary",
+      "nextCodepoint": 63344,
+      "iconCount": 1
     }
   ],
   "icons": {
@@ -5334,7 +5339,8 @@
     "brand-parsinta": {
       "codepoint": 58404,
       "fontFamily": "Tabler",
-      "identifier": "brandParsinta"
+      "identifier": "brandParsinta",
+      "duotone": true
     },
     "brand-patreon": {
       "codepoint": 58405,

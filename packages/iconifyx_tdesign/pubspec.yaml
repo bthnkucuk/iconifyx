@@ -20,3 +20,6 @@ flutter:
     - family: Tdesign
       fonts:
         - asset: assets/fonts/Tdesign.ttf
+    - family: TdesignSecondary
+      fonts:
+        - asset: assets/fonts/TdesignSecondary.ttf

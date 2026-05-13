@@ -23,6 +23,11 @@
       "family": "MaterialIconTheme",
       "nextCodepoint": 57513,
       "iconCount": 169
+    },
+    {
+      "family": "MaterialIconThemeSecondary",
+      "nextCodepoint": 57513,
+      "iconCount": 2
     }
   ],
   "icons": {
@@ -299,12 +304,14 @@
     "folder-seeders": {
       "codepoint": 57398,
       "fontFamily": "MaterialIconTheme",
-      "identifier": "folderSeeders"
+      "identifier": "folderSeeders",
+      "duotone": true
     },
     "folder-seeders-open": {
       "codepoint": 57399,
       "fontFamily": "MaterialIconTheme",
-      "identifier": "folderSeedersOpen"
+      "identifier": "folderSeedersOpen",
+      "duotone": true
     },
     "folder-trigger": {
       "codepoint": 57400,

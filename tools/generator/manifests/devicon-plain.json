@@ -23,6 +23,11 @@
       "family": "DeviconPlain",
       "nextCodepoint": 57563,
       "iconCount": 218
+    },
+    {
+      "family": "DeviconPlainSecondary",
+      "nextCodepoint": 57563,
+      "iconCount": 0
     }
   ],
   "icons": {
@@ -1086,7 +1091,8 @@
     "weblate-wordmark": {
       "codepoint": 57555,
       "fontFamily": "DeviconPlain",
-      "identifier": "weblateWordmark"
+      "identifier": "weblateWordmark",
+      "duotone": true
     },
     "webpack": {
       "codepoint": 57556,

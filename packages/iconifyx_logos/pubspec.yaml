@@ -1,6 +1,6 @@
 name: iconifyx_logos
 description: >-
-  SVG Logos icons from Iconify, packaged for Flutter (830 icons, CC0 license).
+  SVG Logos icons from Iconify, packaged for Flutter (831 icons, CC0 license).
 version: 0.1.0
 publish_to: 'none'
 
@@ -20,3 +20,6 @@ flutter:
     - family: Logos
       fonts:
         - asset: assets/fonts/Logos.ttf
+    - family: LogosSecondary
+      fonts:
+        - asset: assets/fonts/LogosSecondary.ttf

@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Paweł Kuna
 /// License: MIT — https://github.com/tabler/tabler-icons/blob/master/LICENSE
-/// Icons: 6378 (split across 2 fonts)
+/// Icons: 6378 (split across 3 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -7436,10 +7436,17 @@ class TablerIcons {
     fontPackage: 'iconifyx_tabler',
   ));
 
-  /// `brand-parsinta`
-  static const IconifyIconData brandParsinta = IconifyIconData(IconData(
+  /// `brand-parsinta` — primary layer (full opacity)
+  static const IconifyIconData brandParsintaPrimary = IconifyIconData(IconData(
     0xe424,
     fontFamily: 'Tabler',
+    fontPackage: 'iconifyx_tabler',
+  ));
+
+  /// `brand-parsinta` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData brandParsintaSecondary = IconifyIconData(IconData(
+    0xe424,
+    fontFamily: 'TablerSecondary',
     fontPackage: 'iconifyx_tabler',
   ));
 

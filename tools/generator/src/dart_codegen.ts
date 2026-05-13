@@ -1,6 +1,7 @@
 import type { Manifest } from './manifest.ts';
 import { formatCodepoint } from './codepoint_allocator.ts';
 import { dartClassNameFromPrefix } from './group_sets.ts';
+import { secondaryFontFamily } from './manifest.ts';
 
 export interface DartCodegenInput {
   manifest: Manifest;
@@ -69,6 +70,30 @@ export function emitSetDart(input: DartCodegenInput): string {
   for (const name of names) {
     const entry = manifest.icons[name]!;
     if (entry.deprecated) continue;
+
+    if (entry.duotone) {
+      // Two const fields per duotone icon: <identifier>Primary lives in the
+      // primary font family; <identifier>Secondary at the same codepoint in
+      // the matching Secondary font. Users compose them via the
+      // IconifyDuotoneIcon widget from iconifyx_core.
+      const secFamily = secondaryFontFamily(entry.fontFamily);
+      lines.push(`  /// \`${escapeDoc(name)}\` — primary layer (full opacity)`);
+      lines.push(`  static const IconifyIconData ${entry.identifier}Primary = IconifyIconData(IconData(`);
+      lines.push(`    ${formatCodepoint(entry.codepoint)},`);
+      lines.push(`    fontFamily: '${entry.fontFamily}',`);
+      lines.push(`    fontPackage: '${fontPackage}',`);
+      lines.push(`  ));`);
+      lines.push('');
+      lines.push(`  /// \`${escapeDoc(name)}\` — secondary layer (rendered translucent by IconifyDuotoneIcon)`);
+      lines.push(`  static const IconifyIconData ${entry.identifier}Secondary = IconifyIconData(IconData(`);
+      lines.push(`    ${formatCodepoint(entry.codepoint)},`);
+      lines.push(`    fontFamily: '${secFamily}',`);
+      lines.push(`    fontPackage: '${fontPackage}',`);
+      lines.push(`  ));`);
+      lines.push('');
+      continue;
+    }
+
     lines.push(`  /// \`${escapeDoc(name)}\``);
     lines.push(`  static const IconifyIconData ${entry.identifier} = IconifyIconData(IconData(`);
     lines.push(`    ${formatCodepoint(entry.codepoint)},`);

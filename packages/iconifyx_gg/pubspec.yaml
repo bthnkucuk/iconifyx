@@ -20,3 +20,6 @@ flutter:
     - family: Gg
       fonts:
         - asset: assets/fonts/Gg.ttf
+    - family: GgSecondary
+      fonts:
+        - asset: assets/fonts/GgSecondary.ttf

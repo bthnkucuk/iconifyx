@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Astrit
 /// License: MIT — https://github.com/astrit/css.gg/blob/master/LICENSE
-/// Icons: 570
+/// Icons: 570 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -1710,10 +1710,17 @@ class GgIcons {
     fontPackage: 'iconifyx_gg',
   ));
 
-  /// `format-separator`
-  static const IconifyIconData formatSeparator = IconifyIconData(IconData(
+  /// `format-separator` — primary layer (full opacity)
+  static const IconifyIconData formatSeparatorPrimary = IconifyIconData(IconData(
     0xe0f2,
     fontFamily: 'Gg',
+    fontPackage: 'iconifyx_gg',
+  ));
+
+  /// `format-separator` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData formatSeparatorSecondary = IconifyIconData(IconData(
+    0xe0f2,
+    fontFamily: 'GgSecondary',
     fontPackage: 'iconifyx_gg',
   ));
 
@@ -2081,10 +2088,17 @@ class GgIcons {
     fontPackage: 'iconifyx_gg',
   ));
 
-  /// `loadbar-alt`
-  static const IconifyIconData loadbarAlt = IconifyIconData(IconData(
+  /// `loadbar-alt` — primary layer (full opacity)
+  static const IconifyIconData loadbarAltPrimary = IconifyIconData(IconData(
     0xe127,
     fontFamily: 'Gg',
+    fontPackage: 'iconifyx_gg',
+  ));
+
+  /// `loadbar-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData loadbarAltSecondary = IconifyIconData(IconData(
+    0xe127,
+    fontFamily: 'GgSecondary',
     fontPackage: 'iconifyx_gg',
   ));
 
@@ -2536,10 +2550,17 @@ class GgIcons {
     fontPackage: 'iconifyx_gg',
   ));
 
-  /// `overflow`
-  static const IconifyIconData overflow = IconifyIconData(IconData(
+  /// `overflow` — primary layer (full opacity)
+  static const IconifyIconData overflowPrimary = IconifyIconData(IconData(
     0xe168,
     fontFamily: 'Gg',
+    fontPackage: 'iconifyx_gg',
+  ));
+
+  /// `overflow` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData overflowSecondary = IconifyIconData(IconData(
+    0xe168,
+    fontFamily: 'GgSecondary',
     fontPackage: 'iconifyx_gg',
   ));
 
@@ -2557,10 +2578,17 @@ class GgIcons {
     fontPackage: 'iconifyx_gg',
   ));
 
-  /// `path-crop`
-  static const IconifyIconData pathCrop = IconifyIconData(IconData(
+  /// `path-crop` — primary layer (full opacity)
+  static const IconifyIconData pathCropPrimary = IconifyIconData(IconData(
     0xe16b,
     fontFamily: 'Gg',
+    fontPackage: 'iconifyx_gg',
+  ));
+
+  /// `path-crop` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData pathCropSecondary = IconifyIconData(IconData(
+    0xe16b,
+    fontFamily: 'GgSecondary',
     fontPackage: 'iconifyx_gg',
   ));
 
@@ -2613,10 +2641,17 @@ class GgIcons {
     fontPackage: 'iconifyx_gg',
   ));
 
-  /// `patreon`
-  static const IconifyIconData patreon = IconifyIconData(IconData(
+  /// `patreon` — primary layer (full opacity)
+  static const IconifyIconData patreonPrimary = IconifyIconData(IconData(
     0xe173,
     fontFamily: 'Gg',
+    fontPackage: 'iconifyx_gg',
+  ));
+
+  /// `patreon` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData patreonSecondary = IconifyIconData(IconData(
+    0xe173,
+    fontFamily: 'GgSecondary',
     fontPackage: 'iconifyx_gg',
   ));
 
@@ -3110,17 +3145,31 @@ class GgIcons {
     fontPackage: 'iconifyx_gg',
   ));
 
-  /// `row-first`
-  static const IconifyIconData rowFirst = IconifyIconData(IconData(
+  /// `row-first` — primary layer (full opacity)
+  static const IconifyIconData rowFirstPrimary = IconifyIconData(IconData(
     0xe1ba,
     fontFamily: 'Gg',
     fontPackage: 'iconifyx_gg',
   ));
 
-  /// `row-last`
-  static const IconifyIconData rowLast = IconifyIconData(IconData(
+  /// `row-first` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData rowFirstSecondary = IconifyIconData(IconData(
+    0xe1ba,
+    fontFamily: 'GgSecondary',
+    fontPackage: 'iconifyx_gg',
+  ));
+
+  /// `row-last` — primary layer (full opacity)
+  static const IconifyIconData rowLastPrimary = IconifyIconData(IconData(
     0xe1bb,
     fontFamily: 'Gg',
+    fontPackage: 'iconifyx_gg',
+  ));
+
+  /// `row-last` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData rowLastSecondary = IconifyIconData(IconData(
+    0xe1bb,
+    fontFamily: 'GgSecondary',
     fontPackage: 'iconifyx_gg',
   ));
 
@@ -3488,10 +3537,17 @@ class GgIcons {
     fontPackage: 'iconifyx_gg',
   ));
 
-  /// `spinner`
-  static const IconifyIconData spinner = IconifyIconData(IconData(
+  /// `spinner` — primary layer (full opacity)
+  static const IconifyIconData spinnerPrimary = IconifyIconData(IconData(
     0xe1f0,
     fontFamily: 'Gg',
+    fontPackage: 'iconifyx_gg',
+  ));
+
+  /// `spinner` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData spinnerSecondary = IconifyIconData(IconData(
+    0xe1f0,
+    fontFamily: 'GgSecondary',
     fontPackage: 'iconifyx_gg',
   ));
 
@@ -3502,10 +3558,17 @@ class GgIcons {
     fontPackage: 'iconifyx_gg',
   ));
 
-  /// `spinner-two`
-  static const IconifyIconData spinnerTwo = IconifyIconData(IconData(
+  /// `spinner-two` — primary layer (full opacity)
+  static const IconifyIconData spinnerTwoPrimary = IconifyIconData(IconData(
     0xe1f2,
     fontFamily: 'Gg',
+    fontPackage: 'iconifyx_gg',
+  ));
+
+  /// `spinner-two` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData spinnerTwoSecondary = IconifyIconData(IconData(
+    0xe1f2,
+    fontFamily: 'GgSecondary',
     fontPackage: 'iconifyx_gg',
   ));
 
@@ -3649,10 +3712,17 @@ class GgIcons {
     fontPackage: 'iconifyx_gg',
   ));
 
-  /// `today`
-  static const IconifyIconData today = IconifyIconData(IconData(
+  /// `today` — primary layer (full opacity)
+  static const IconifyIconData todayPrimary = IconifyIconData(IconData(
     0xe207,
     fontFamily: 'Gg',
+    fontPackage: 'iconifyx_gg',
+  ));
+
+  /// `today` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData todaySecondary = IconifyIconData(IconData(
+    0xe207,
+    fontFamily: 'GgSecondary',
     fontPackage: 'iconifyx_gg',
   ));
 

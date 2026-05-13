@@ -6,3 +6,4 @@ library;
 
 export 'src/icon_data.dart';
 export 'src/license_info.dart';
+export 'src/duotone_icon.dart';

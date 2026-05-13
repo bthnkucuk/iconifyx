@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Designmodo, Inc.
 /// License: MIT — https://github.com/designmodo/Flat-UI/blob/master/LICENSE
-/// Icons: 8
+/// Icons: 8 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -23,10 +23,17 @@ class FlatUiIcons {
     fontPackage: 'iconifyx_flat_ui',
   ));
 
-  /// `box`
-  static const IconifyIconData box = IconifyIconData(IconData(
+  /// `box` — primary layer (full opacity)
+  static const IconifyIconData boxPrimary = IconifyIconData(IconData(
     0xe001,
     fontFamily: 'FlatUi',
+    fontPackage: 'iconifyx_flat_ui',
+  ));
+
+  /// `box` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData boxSecondary = IconifyIconData(IconData(
+    0xe001,
+    fontFamily: 'FlatUiSecondary',
     fontPackage: 'iconifyx_flat_ui',
   ));
 
@@ -44,10 +51,17 @@ class FlatUiIcons {
     fontPackage: 'iconifyx_flat_ui',
   ));
 
-  /// `loop`
-  static const IconifyIconData loop = IconifyIconData(IconData(
+  /// `loop` — primary layer (full opacity)
+  static const IconifyIconData loopPrimary = IconifyIconData(IconData(
     0xe004,
     fontFamily: 'FlatUi',
+    fontPackage: 'iconifyx_flat_ui',
+  ));
+
+  /// `loop` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData loopSecondary = IconifyIconData(IconData(
+    0xe004,
+    fontFamily: 'FlatUiSecondary',
     fontPackage: 'iconifyx_flat_ui',
   ));
 
@@ -58,10 +72,17 @@ class FlatUiIcons {
     fontPackage: 'iconifyx_flat_ui',
   ));
 
-  /// `paper-bag`
-  static const IconifyIconData paperBag = IconifyIconData(IconData(
+  /// `paper-bag` — primary layer (full opacity)
+  static const IconifyIconData paperBagPrimary = IconifyIconData(IconData(
     0xe006,
     fontFamily: 'FlatUi',
+    fontPackage: 'iconifyx_flat_ui',
+  ));
+
+  /// `paper-bag` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData paperBagSecondary = IconifyIconData(IconData(
+    0xe006,
+    fontFamily: 'FlatUiSecondary',
     fontPackage: 'iconifyx_flat_ui',
   ));
 

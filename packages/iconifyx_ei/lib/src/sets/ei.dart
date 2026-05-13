@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Alexander Madyankin and Roman Shamin
 /// License: MIT — https://github.com/evil-icons/evil-icons/blob/master/LICENSE.txt
-/// Icons: 68
+/// Icons: 68 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -156,10 +156,17 @@ class EiIcons {
     fontPackage: 'iconifyx_ei',
   ));
 
-  /// `envelope`
-  static const IconifyIconData envelope = IconifyIconData(IconData(
+  /// `envelope` — primary layer (full opacity)
+  static const IconifyIconData envelopePrimary = IconifyIconData(IconData(
     0xe014,
     fontFamily: 'Ei',
+    fontPackage: 'iconifyx_ei',
+  ));
+
+  /// `envelope` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData envelopeSecondary = IconifyIconData(IconData(
+    0xe014,
+    fontFamily: 'EiSecondary',
     fontPackage: 'iconifyx_ei',
   ));
 
@@ -422,17 +429,31 @@ class EiIcons {
     fontPackage: 'iconifyx_ei',
   ));
 
-  /// `spinner`
-  static const IconifyIconData spinner = IconifyIconData(IconData(
+  /// `spinner` — primary layer (full opacity)
+  static const IconifyIconData spinnerPrimary = IconifyIconData(IconData(
     0xe03a,
     fontFamily: 'Ei',
     fontPackage: 'iconifyx_ei',
   ));
 
-  /// `spinner-2`
-  static const IconifyIconData spinner2 = IconifyIconData(IconData(
+  /// `spinner` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData spinnerSecondary = IconifyIconData(IconData(
+    0xe03a,
+    fontFamily: 'EiSecondary',
+    fontPackage: 'iconifyx_ei',
+  ));
+
+  /// `spinner-2` — primary layer (full opacity)
+  static const IconifyIconData spinner2Primary = IconifyIconData(IconData(
     0xe03b,
     fontFamily: 'Ei',
+    fontPackage: 'iconifyx_ei',
+  ));
+
+  /// `spinner-2` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData spinner2Secondary = IconifyIconData(IconData(
+    0xe03b,
+    fontFamily: 'EiSecondary',
     fontPackage: 'iconifyx_ei',
   ));
 

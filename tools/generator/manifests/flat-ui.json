@@ -23,6 +23,11 @@
       "family": "FlatUi",
       "nextCodepoint": 57352,
       "iconCount": 8
+    },
+    {
+      "family": "FlatUiSecondary",
+      "nextCodepoint": 57352,
+      "iconCount": 3
     }
   ],
   "icons": {
@@ -34,7 +39,8 @@
     "box": {
       "codepoint": 57345,
       "fontFamily": "FlatUi",
-      "identifier": "box"
+      "identifier": "box",
+      "duotone": true
     },
     "egg": {
       "codepoint": 57346,
@@ -49,7 +55,8 @@
     "loop": {
       "codepoint": 57348,
       "fontFamily": "FlatUi",
-      "identifier": "loop"
+      "identifier": "loop",
+      "duotone": true
     },
     "magicmouse": {
       "codepoint": 57349,
@@ -59,7 +66,8 @@
     "paper-bag": {
       "codepoint": 57350,
       "fontFamily": "FlatUi",
-      "identifier": "paperBag"
+      "identifier": "paperBag",
+      "duotone": true
     },
     "user-interface": {
       "codepoint": 57351,

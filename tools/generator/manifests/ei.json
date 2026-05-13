@@ -23,6 +23,11 @@
       "family": "Ei",
       "nextCodepoint": 57412,
       "iconCount": 68
+    },
+    {
+      "family": "EiSecondary",
+      "nextCodepoint": 57412,
+      "iconCount": 3
     }
   ],
   "icons": {
@@ -129,7 +134,8 @@
     "envelope": {
       "codepoint": 57364,
       "fontFamily": "Ei",
-      "identifier": "envelope"
+      "identifier": "envelope",
+      "duotone": true
     },
     "exclamation": {
       "codepoint": 57365,
@@ -319,12 +325,14 @@
     "spinner": {
       "codepoint": 57402,
       "fontFamily": "Ei",
-      "identifier": "spinner"
+      "identifier": "spinner",
+      "duotone": true
     },
     "spinner-2": {
       "codepoint": 57403,
       "fontFamily": "Ei",
-      "identifier": "spinner2"
+      "identifier": "spinner2",
+      "duotone": true
     },
     "spinner-3": {
       "codepoint": 57404,

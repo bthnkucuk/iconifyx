@@ -16,6 +16,8 @@ import {
 import { loadConfig, displayCategory, fontFamilyFromPrefix, dartFileNameFromPrefix } from './group_sets.ts';
 import { validateIconBody } from './glyph_validator.ts';
 import { strokeFillBatch } from './stroke_fill.ts';
+import { isDuotoneBody, splitDuotoneBody } from './svg_preprocess.ts';
+import { secondaryFontFamily } from './manifest.ts';
 import {
   readManifest,
   writeManifest,
@@ -199,17 +201,44 @@ async function processOneSet(
   const set = await loadIconifySet(prefix);
   const allResolved = resolveIcons(set);
 
+  // Duotone detection / split. Must happen BEFORE stroke-fill, otherwise
+  // oslllo-svg-fixer's rasterize+trace collapses the two layers into a
+  // single silhouette and the duotone signal is lost (Solar's bold-duotone
+  // variants used to fall through to single-layer rendering for this reason).
+  // For icons whose body has any element with opacity<1 (Phosphor's
+  // <path opacity=".2"/>, Solar's opacity=".5", etc.) we split the body
+  // into primary + secondary right away; the secondary is stashed in
+  // secondaryByName for the Secondary font build.
+  const secondaryByName = new Map<string, ResolvedIcon>();
+  const duotoneNames = new Set<string>();
+  for (const r of allResolved) {
+    if (!isDuotoneBody(r.body)) continue;
+    const { primary, secondary } = splitDuotoneBody(r.body);
+    if (primary.length === 0 || secondary.length === 0) continue;
+    r.body = primary;
+    secondaryByName.set(r.name, { ...r, body: secondary });
+    duotoneNames.add(r.name);
+  }
+
   // Stroke-only icon sets (Lucide, Tabler, Iconoir, …) need their strokes
   // converted to filled outlines before font conversion. The result is
-  // cached on disk; only first-time generation is slow.
+  // cached on disk; only first-time generation is slow. For duotone-aware
+  // sets like Solar we also stroke-fill the secondary layer.
   const isStrokeFillSet = config.strokeFillSets?.includes(prefix) ?? false;
   if (isStrokeFillSet) {
     await strokeFillBatch(prefix, allResolved);
+    if (secondaryByName.size > 0) {
+      await strokeFillBatch(
+        `${prefix}-secondary`,
+        [...secondaryByName.values()]
+      );
+    }
   }
 
   // Pre-validate each glyph; drop anything svgicons2svgfont/svg2ttf would
   // choke on. This recovers ~99% of sets that previously failed because of
-  // ONE malformed glyph (line-md, icon-park, devicon, …).
+  // ONE malformed glyph (line-md, icon-park, devicon, …). We validate the
+  // post-split primary body for duotone icons.
   const resolved: ResolvedIcon[] = [];
   const droppedGlyphs: { name: string; reason: string }[] = [];
   for (const ic of allResolved) {
@@ -218,6 +247,10 @@ async function processOneSet(
       resolved.push(ic);
     } else {
       droppedGlyphs.push({ name: ic.name, reason: v.reason });
+      // If this icon was registered as duotone, drop the secondary too so
+      // the codepoint isn't reserved for a non-existent secondary glyph.
+      secondaryByName.delete(ic.name);
+      duotoneNames.delete(ic.name);
     }
   }
   if (droppedGlyphs.length > 0) {
@@ -242,6 +275,34 @@ async function processOneSet(
     iconNames: resolved.map((r) => r.name),
     previous,
   });
+
+  // Mark duotone entries + add Secondary fonts to manifest. Secondary fonts
+  // mirror Primary fonts that contain at least one duotone icon. They share
+  // the same codepoint cursor (each duotone icon's secondary glyph sits at
+  // the same codepoint in the Secondary font as its primary).
+  for (const name of duotoneNames) {
+    const e = icons[name];
+    if (e && !e.deprecated) e.duotone = true;
+  }
+  const primaryFamiliesWithDuotone = new Set<string>();
+  for (const e of Object.values(icons)) {
+    if (e.duotone && !e.deprecated) primaryFamiliesWithDuotone.add(e.fontFamily);
+  }
+  for (const primaryFamily of primaryFamiliesWithDuotone) {
+    const secName = secondaryFontFamily(primaryFamily);
+    if (fonts.find((f) => f.family === secName)) continue;
+    const primaryFont = fonts.find((f) => f.family === primaryFamily);
+    if (!primaryFont) continue;
+    let dtCount = 0;
+    for (const e of Object.values(icons)) {
+      if (e.duotone && !e.deprecated && e.fontFamily === primaryFamily) dtCount += 1;
+    }
+    fonts.push({
+      family: secName,
+      nextCodepoint: primaryFont.nextCodepoint,
+      iconCount: dtCount,
+    });
+  }
 
   const liveCount = Object.values(icons).filter((i) => !i.deprecated).length;
 
@@ -270,6 +331,7 @@ async function processOneSet(
   const ttfs = await buildFonts({
     manifest,
     resolvedByName,
+    secondaryByName,
     onGlyphDropped: (name) => droppedDuringBuild.add(name),
   });
   if (droppedDuringBuild.size > 0) {

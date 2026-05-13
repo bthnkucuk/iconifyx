@@ -20,3 +20,6 @@ flutter:
     - family: GrommetIcons
       fonts:
         - asset: assets/fonts/GrommetIcons.ttf
+    - family: GrommetIconsSecondary
+      fonts:
+        - asset: assets/fonts/GrommetIconsSecondary.ttf

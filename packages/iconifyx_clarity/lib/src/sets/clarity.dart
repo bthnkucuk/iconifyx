@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: VMware
 /// License: MIT — https://github.com/vmware/clarity-assets/blob/master/LICENSE
-/// Icons: 1063
+/// Icons: 1063 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -7156,17 +7156,31 @@ class ClarityIcons {
     fontPackage: 'iconifyx_clarity',
   ));
 
-  /// `vm-bug-inverse-line`
-  static const IconifyIconData vmBugInverseLine = IconifyIconData(IconData(
+  /// `vm-bug-inverse-line` — primary layer (full opacity)
+  static const IconifyIconData vmBugInverseLinePrimary = IconifyIconData(IconData(
     0xe3fc,
     fontFamily: 'Clarity',
     fontPackage: 'iconifyx_clarity',
   ));
 
-  /// `vm-bug-line`
-  static const IconifyIconData vmBugLine = IconifyIconData(IconData(
+  /// `vm-bug-inverse-line` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData vmBugInverseLineSecondary = IconifyIconData(IconData(
+    0xe3fc,
+    fontFamily: 'ClaritySecondary',
+    fontPackage: 'iconifyx_clarity',
+  ));
+
+  /// `vm-bug-line` — primary layer (full opacity)
+  static const IconifyIconData vmBugLinePrimary = IconifyIconData(IconData(
     0xe3fd,
     fontFamily: 'Clarity',
+    fontPackage: 'iconifyx_clarity',
+  ));
+
+  /// `vm-bug-line` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData vmBugLineSecondary = IconifyIconData(IconData(
+    0xe3fd,
+    fontFamily: 'ClaritySecondary',
     fontPackage: 'iconifyx_clarity',
   ));
 

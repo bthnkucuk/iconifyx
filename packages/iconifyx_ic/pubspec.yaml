@@ -1,6 +1,6 @@
 name: iconifyx_ic
 description: >-
-  Google Material Icons icons from Iconify, packaged for Flutter (11008 icons, Apache 2.0 license).
+  Google Material Icons icons from Iconify, packaged for Flutter (11012 icons, Apache 2.0 license).
 version: 0.1.0
 publish_to: 'none'
 
@@ -23,3 +23,9 @@ flutter:
     - family: Ic_2
       fonts:
         - asset: assets/fonts/Ic_2.ttf
+    - family: Ic_2Secondary
+      fonts:
+        - asset: assets/fonts/Ic_2Secondary.ttf
+    - family: IcSecondary
+      fonts:
+        - asset: assets/fonts/IcSecondary.ttf

@@ -20,3 +20,6 @@ flutter:
     - family: SkillIcons
       fonts:
         - asset: assets/fonts/SkillIcons.ttf
+    - family: SkillIconsSecondary
+      fonts:
+        - asset: assets/fonts/SkillIconsSecondary.ttf

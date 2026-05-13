@@ -20,3 +20,6 @@ flutter:
     - family: Nrk
       fonts:
         - asset: assets/fonts/Nrk.ttf
+    - family: NrkSecondary
+      fonts:
+        - asset: assets/fonts/NrkSecondary.ttf

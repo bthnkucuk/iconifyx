@@ -20,3 +20,6 @@ flutter:
     - family: Pixelarticons
       fonts:
         - asset: assets/fonts/Pixelarticons.ttf
+    - family: PixelarticonsSecondary
+      fonts:
+        - asset: assets/fonts/PixelarticonsSecondary.ttf

@@ -28,6 +28,13 @@ export interface ManifestIconEntry {
   deprecated?: boolean;
   /** ISO date when deprecation was detected. */
   deprecatedSince?: string;
+  /**
+   * Set to true for icons that ship a secondary (translucent) layer in
+   * addition to the primary one. The secondary glyph lives at the same
+   * codepoint in the matching `<fontFamily>Secondary` font; Dart codegen
+   * emits two const fields (`<identifier>Primary` / `<identifier>Secondary`).
+   */
+  duotone?: boolean;
 }
 
 export interface ManifestFontEntry {
@@ -104,6 +111,15 @@ export async function writeManifest(manifest: Manifest): Promise<void> {
   // Pretty-print 2-space, preserve hex-readable codepoints by storing as int
   // (JSON has no native hex literal, so consumers format on read/write).
   await writeFile(filePath, JSON.stringify(sorted, null, 2) + '\n', 'utf8');
+}
+
+/**
+ * For a primary font family like "Ph" or "Ph_2", return the corresponding
+ * secondary font family name. The secondary font holds the translucent
+ * layer of any duotone icon stored in this primary font.
+ */
+export function secondaryFontFamily(primary: string): string {
+  return `${primary}Secondary`;
 }
 
 export async function listManifestPrefixes(): Promise<string[]> {

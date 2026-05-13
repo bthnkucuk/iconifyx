@@ -20,3 +20,6 @@ flutter:
     - family: Clarity
       fonts:
         - asset: assets/fonts/Clarity.ttf
+    - family: ClaritySecondary
+      fonts:
+        - asset: assets/fonts/ClaritySecondary.ttf

@@ -1,6 +1,6 @@
 name: iconifyx_stash
 description: >-
-  Stash Icons icons from Iconify, packaged for Flutter (155 icons, MIT license).
+  Stash Icons icons from Iconify, packaged for Flutter (173 icons, MIT license).
 version: 0.1.0
 publish_to: 'none'
 
@@ -20,3 +20,6 @@ flutter:
     - family: Stash
       fonts:
         - asset: assets/fonts/Stash.ttf
+    - family: StashSecondary
+      fonts:
+        - asset: assets/fonts/StashSecondary.ttf

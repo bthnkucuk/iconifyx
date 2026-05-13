@@ -22,6 +22,11 @@
       "family": "Hugeicons",
       "nextCodepoint": 62459,
       "iconCount": 5115
+    },
+    {
+      "family": "HugeiconsSecondary",
+      "nextCodepoint": 62459,
+      "iconCount": 3
     }
   ],
   "icons": {
@@ -1418,7 +1423,8 @@
     "arrow-big-right-dash": {
       "codepoint": 57622,
       "fontFamily": "Hugeicons",
-      "identifier": "arrowBigRightDash"
+      "identifier": "arrowBigRightDash",
+      "duotone": true
     },
     "arrow-big-up-dash": {
       "codepoint": 57623,
@@ -10648,7 +10654,8 @@
     "hamburger-01": {
       "codepoint": 59468,
       "fontFamily": "Hugeicons",
-      "identifier": "hamburger01"
+      "identifier": "hamburger01",
+      "duotone": true
     },
     "hamburger-02": {
       "codepoint": 59469,
@@ -18423,7 +18430,8 @@
     "right-to-left-list-bullet": {
       "codepoint": 61023,
       "fontFamily": "Hugeicons",
-      "identifier": "rightToLeftListBullet"
+      "identifier": "rightToLeftListBullet",
+      "duotone": true
     },
     "right-to-left-list-dash": {
       "codepoint": 61024,

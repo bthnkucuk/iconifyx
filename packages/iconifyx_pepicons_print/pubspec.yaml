@@ -1,6 +1,6 @@
 name: iconifyx_pepicons_print
 description: >-
-  Pepicons Print icons from Iconify, packaged for Flutter (128 icons, CC BY 4.0 license).
+  Pepicons Print icons from Iconify, packaged for Flutter (142 icons, CC BY 4.0 license).
 version: 0.1.0
 publish_to: 'none'
 
@@ -20,3 +20,6 @@ flutter:
     - family: PepiconsPrint
       fonts:
         - asset: assets/fonts/PepiconsPrint.ttf
+    - family: PepiconsPrintSecondary
+      fonts:
+        - asset: assets/fonts/PepiconsPrintSecondary.ttf

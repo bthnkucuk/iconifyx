@@ -20,3 +20,6 @@ flutter:
     - family: Hugeicons
       fonts:
         - asset: assets/fonts/Hugeicons.ttf
+    - family: HugeiconsSecondary
+      fonts:
+        - asset: assets/fonts/HugeiconsSecondary.ttf

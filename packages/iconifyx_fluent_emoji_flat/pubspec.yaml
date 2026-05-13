@@ -1,6 +1,6 @@
 name: iconifyx_fluent_emoji_flat
 description: >-
-  Fluent Emoji Flat icons from Iconify, packaged for Flutter (79 icons, MIT license).
+  Fluent Emoji Flat icons from Iconify, packaged for Flutter (80 icons, MIT license).
 version: 0.1.0
 publish_to: 'none'
 
@@ -20,3 +20,6 @@ flutter:
     - family: FluentEmojiFlat
       fonts:
         - asset: assets/fonts/FluentEmojiFlat.ttf
+    - family: FluentEmojiFlatSecondary
+      fonts:
+        - asset: assets/fonts/FluentEmojiFlatSecondary.ttf

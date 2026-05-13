@@ -23,6 +23,11 @@
       "family": "SkillIcons",
       "nextCodepoint": 57436,
       "iconCount": 92
+    },
+    {
+      "family": "SkillIconsSecondary",
+      "nextCodepoint": 57436,
+      "iconCount": 1
     }
   ],
   "icons": {
@@ -384,7 +389,8 @@
     "solidity": {
       "codepoint": 57415,
       "fontFamily": "SkillIcons",
-      "identifier": "solidity"
+      "identifier": "solidity",
+      "duotone": true
     },
     "spotify-light": {
       "codepoint": 57416,

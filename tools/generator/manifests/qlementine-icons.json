@@ -16,13 +16,18 @@
       "spdx": "MIT",
       "url": "https://github.com/oclero/qlementine-icons/blob/master/LICENSE"
     },
-    "total": 68
+    "total": 70
   },
   "fonts": [
     {
       "family": "QlementineIcons",
-      "nextCodepoint": 57412,
-      "iconCount": 68
+      "nextCodepoint": 57414,
+      "iconCount": 70
+    },
+    {
+      "family": "QlementineIconsSecondary",
+      "nextCodepoint": 57414,
+      "iconCount": 7
     }
   ],
   "icons": {
@@ -66,303 +71,320 @@
       "fontFamily": "QlementineIcons",
       "identifier": "circleFilled32"
     },
-    "fill-16": {
+    "eq-flat-16": {
       "codepoint": 57352,
+      "fontFamily": "QlementineIcons",
+      "identifier": "eqFlat16",
+      "duotone": true
+    },
+    "fill-16": {
+      "codepoint": 57353,
       "fontFamily": "QlementineIcons",
       "identifier": "fill16"
     },
     "filter-16": {
-      "codepoint": 57353,
+      "codepoint": 57354,
       "fontFamily": "QlementineIcons",
       "identifier": "filter16"
     },
     "filter-inverted-16": {
-      "codepoint": 57354,
+      "codepoint": 57355,
       "fontFamily": "QlementineIcons",
       "identifier": "filterInverted16"
     },
     "folder-filled-16": {
-      "codepoint": 57355,
+      "codepoint": 57356,
       "fontFamily": "QlementineIcons",
       "identifier": "folderFilled16"
     },
     "format-underline-16": {
-      "codepoint": 57356,
+      "codepoint": 57357,
       "fontFamily": "QlementineIcons",
       "identifier": "formatUnderline16"
     },
     "function-linear-16": {
-      "codepoint": 57357,
+      "codepoint": 57358,
       "fontFamily": "QlementineIcons",
       "identifier": "functionLinear16"
     },
     "gamepad-button-bottom-16": {
-      "codepoint": 57358,
+      "codepoint": 57359,
       "fontFamily": "QlementineIcons",
       "identifier": "gamepadButtonBottom16"
     },
     "gamepad-button-left-16": {
-      "codepoint": 57359,
+      "codepoint": 57360,
       "fontFamily": "QlementineIcons",
       "identifier": "gamepadButtonLeft16"
     },
     "gamepad-button-right-16": {
-      "codepoint": 57360,
+      "codepoint": 57361,
       "fontFamily": "QlementineIcons",
       "identifier": "gamepadButtonRight16"
     },
     "gamepad-button-top-16": {
-      "codepoint": 57361,
+      "codepoint": 57362,
       "fontFamily": "QlementineIcons",
       "identifier": "gamepadButtonTop16"
     },
     "gamepad-buttons-16": {
-      "codepoint": 57362,
+      "codepoint": 57363,
       "fontFamily": "QlementineIcons",
       "identifier": "gamepadButtons16"
     },
     "info-16": {
-      "codepoint": 57363,
+      "codepoint": 57364,
       "fontFamily": "QlementineIcons",
       "identifier": "info16"
     },
     "info-24": {
-      "codepoint": 57364,
+      "codepoint": 57365,
       "fontFamily": "QlementineIcons",
       "identifier": "info24"
     },
     "info-32": {
-      "codepoint": 57365,
+      "codepoint": 57366,
       "fontFamily": "QlementineIcons",
       "identifier": "info32"
     },
     "justify-center-16": {
-      "codepoint": 57366,
+      "codepoint": 57367,
       "fontFamily": "QlementineIcons",
       "identifier": "justifyCenter16"
     },
     "justify-fill-16": {
-      "codepoint": 57367,
+      "codepoint": 57368,
       "fontFamily": "QlementineIcons",
       "identifier": "justifyFill16"
     },
     "justify-left-16": {
-      "codepoint": 57368,
+      "codepoint": 57369,
       "fontFamily": "QlementineIcons",
       "identifier": "justifyLeft16"
     },
     "justify-right-16": {
-      "codepoint": 57369,
+      "codepoint": 57370,
       "fontFamily": "QlementineIcons",
       "identifier": "justifyRight16"
     },
     "key-cmd-16": {
-      "codepoint": 57370,
+      "codepoint": 57371,
       "fontFamily": "QlementineIcons",
       "identifier": "keyCmd16"
     },
     "menu-burger-16": {
-      "codepoint": 57371,
+      "codepoint": 57372,
       "fontFamily": "QlementineIcons",
       "identifier": "menuBurger16"
     },
     "minus-12": {
-      "codepoint": 57372,
+      "codepoint": 57373,
       "fontFamily": "QlementineIcons",
       "identifier": "minus12"
     },
     "minus-16": {
-      "codepoint": 57373,
+      "codepoint": 57374,
       "fontFamily": "QlementineIcons",
       "identifier": "minus16"
     },
     "minus-24": {
-      "codepoint": 57374,
+      "codepoint": 57375,
       "fontFamily": "QlementineIcons",
       "identifier": "minus24"
     },
     "minus-circle-16": {
-      "codepoint": 57375,
+      "codepoint": 57376,
       "fontFamily": "QlementineIcons",
       "identifier": "minusCircle16"
     },
     "minus-circle-24": {
-      "codepoint": 57376,
+      "codepoint": 57377,
       "fontFamily": "QlementineIcons",
       "identifier": "minusCircle24"
     },
     "minus-small-16": {
-      "codepoint": 57377,
+      "codepoint": 57378,
       "fontFamily": "QlementineIcons",
       "identifier": "minusSmall16"
     },
     "modified-16": {
-      "codepoint": 57378,
+      "codepoint": 57379,
       "fontFamily": "QlementineIcons",
       "identifier": "modified16"
     },
     "mono-16": {
-      "codepoint": 57379,
+      "codepoint": 57380,
       "fontFamily": "QlementineIcons",
       "identifier": "mono16"
     },
     "paragraph-16": {
-      "codepoint": 57380,
+      "codepoint": 57381,
       "fontFamily": "QlementineIcons",
       "identifier": "paragraph16"
     },
     "pause-16": {
-      "codepoint": 57381,
+      "codepoint": 57382,
       "fontFamily": "QlementineIcons",
       "identifier": "pause16"
     },
     "pause-24": {
-      "codepoint": 57382,
+      "codepoint": 57383,
       "fontFamily": "QlementineIcons",
       "identifier": "pause24"
     },
     "plus-12": {
-      "codepoint": 57383,
+      "codepoint": 57384,
       "fontFamily": "QlementineIcons",
       "identifier": "plus12"
     },
     "plus-16": {
-      "codepoint": 57384,
+      "codepoint": 57385,
       "fontFamily": "QlementineIcons",
       "identifier": "plus16"
     },
     "plus-24": {
-      "codepoint": 57385,
+      "codepoint": 57386,
       "fontFamily": "QlementineIcons",
       "identifier": "plus24"
     },
     "plus-circle-16": {
-      "codepoint": 57386,
+      "codepoint": 57387,
       "fontFamily": "QlementineIcons",
       "identifier": "plusCircle16"
     },
     "plus-circle-24": {
-      "codepoint": 57387,
+      "codepoint": 57388,
       "fontFamily": "QlementineIcons",
       "identifier": "plusCircle24"
     },
     "plus-small-16": {
-      "codepoint": 57388,
+      "codepoint": 57389,
       "fontFamily": "QlementineIcons",
       "identifier": "plusSmall16"
     },
     "quality-0-16": {
-      "codepoint": 57389,
+      "codepoint": 57390,
       "fontFamily": "QlementineIcons",
       "identifier": "quality016"
     },
     "quality-1-16": {
-      "codepoint": 57390,
-      "fontFamily": "QlementineIcons",
-      "identifier": "quality116"
-    },
-    "quality-2-16": {
       "codepoint": 57391,
       "fontFamily": "QlementineIcons",
-      "identifier": "quality216"
+      "identifier": "quality116",
+      "duotone": true
     },
-    "quality-3-16": {
+    "quality-2-16": {
       "codepoint": 57392,
       "fontFamily": "QlementineIcons",
-      "identifier": "quality316"
+      "identifier": "quality216",
+      "duotone": true
+    },
+    "quality-3-16": {
+      "codepoint": 57393,
+      "fontFamily": "QlementineIcons",
+      "identifier": "quality316",
+      "duotone": true
     },
     "quality-4-16": {
-      "codepoint": 57393,
+      "codepoint": 57394,
       "fontFamily": "QlementineIcons",
       "identifier": "quality416"
     },
     "radio-tick-16": {
-      "codepoint": 57394,
+      "codepoint": 57395,
       "fontFamily": "QlementineIcons",
       "identifier": "radioTick16"
     },
     "record-16": {
-      "codepoint": 57395,
+      "codepoint": 57396,
       "fontFamily": "QlementineIcons",
       "identifier": "record16"
     },
     "record-24": {
-      "codepoint": 57396,
+      "codepoint": 57397,
       "fontFamily": "QlementineIcons",
       "identifier": "record24"
     },
     "rss-16": {
-      "codepoint": 57397,
+      "codepoint": 57398,
       "fontFamily": "QlementineIcons",
       "identifier": "rss16"
     },
     "rss-24": {
-      "codepoint": 57398,
+      "codepoint": 57399,
       "fontFamily": "QlementineIcons",
       "identifier": "rss24"
     },
     "sliders-horizontal-24": {
-      "codepoint": 57399,
+      "codepoint": 57400,
       "fontFamily": "QlementineIcons",
       "identifier": "slidersHorizontal24"
     },
     "sliders-vertical-24": {
-      "codepoint": 57400,
+      "codepoint": 57401,
       "fontFamily": "QlementineIcons",
       "identifier": "slidersVertical24"
     },
     "snapshot-16": {
-      "codepoint": 57401,
+      "codepoint": 57402,
       "fontFamily": "QlementineIcons",
       "identifier": "snapshot16"
     },
     "stereo-left-16": {
-      "codepoint": 57402,
-      "fontFamily": "QlementineIcons",
-      "identifier": "stereoLeft16"
-    },
-    "stereo-right-16": {
       "codepoint": 57403,
       "fontFamily": "QlementineIcons",
-      "identifier": "stereoRight16"
+      "identifier": "stereoLeft16",
+      "duotone": true
+    },
+    "stereo-right-16": {
+      "codepoint": 57404,
+      "fontFamily": "QlementineIcons",
+      "identifier": "stereoRight16",
+      "duotone": true
     },
     "text-16": {
-      "codepoint": 57404,
+      "codepoint": 57405,
       "fontFamily": "QlementineIcons",
       "identifier": "text16"
     },
     "tool-24": {
-      "codepoint": 57405,
+      "codepoint": 57406,
       "fontFamily": "QlementineIcons",
       "identifier": "tool24"
     },
     "twitter-24": {
-      "codepoint": 57406,
+      "codepoint": 57407,
       "fontFamily": "QlementineIcons",
       "identifier": "twitter24"
     },
+    "ui-panels-none-16": {
+      "codepoint": 57408,
+      "fontFamily": "QlementineIcons",
+      "identifier": "uiPanelsNone16",
+      "duotone": true
+    },
     "user-16": {
-      "codepoint": 57407,
+      "codepoint": 57409,
       "fontFamily": "QlementineIcons",
       "identifier": "user16"
     },
     "user-24": {
-      "codepoint": 57408,
+      "codepoint": 57410,
       "fontFamily": "QlementineIcons",
       "identifier": "user24"
     },
     "wave-24": {
-      "codepoint": 57409,
+      "codepoint": 57411,
       "fontFamily": "QlementineIcons",
       "identifier": "wave24"
     },
     "x-16": {
-      "codepoint": 57410,
+      "codepoint": 57412,
       "fontFamily": "QlementineIcons",
       "identifier": "x16"
     },
     "x-24": {
-      "codepoint": 57411,
+      "codepoint": 57413,
       "fontFamily": "QlementineIcons",
       "identifier": "x24"
     }

@@ -23,3 +23,9 @@ flutter:
     - family: Ph_2
       fonts:
         - asset: assets/fonts/Ph_2.ttf
+    - family: Ph_2Secondary
+      fonts:
+        - asset: assets/fonts/Ph_2Secondary.ttf
+    - family: PhSecondary
+      fonts:
+        - asset: assets/fonts/PhSecondary.ttf

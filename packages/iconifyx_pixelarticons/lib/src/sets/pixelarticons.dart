@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Gerrit Halfmann
 /// License: MIT — https://github.com/halfmage/pixelarticons/blob/master/LICENSE
-/// Icons: 1099
+/// Icons: 1099 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -4846,17 +4846,31 @@ class PixelarticonsIcons {
     fontPackage: 'iconifyx_pixelarticons',
   ));
 
-  /// `mail-right`
-  static const IconifyIconData mailRight = IconifyIconData(IconData(
+  /// `mail-right` — primary layer (full opacity)
+  static const IconifyIconData mailRightPrimary = IconifyIconData(IconData(
     0xe2b2,
     fontFamily: 'Pixelarticons',
     fontPackage: 'iconifyx_pixelarticons',
   ));
 
-  /// `mail-right-sharp`
-  static const IconifyIconData mailRightSharp = IconifyIconData(IconData(
+  /// `mail-right` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData mailRightSecondary = IconifyIconData(IconData(
+    0xe2b2,
+    fontFamily: 'PixelarticonsSecondary',
+    fontPackage: 'iconifyx_pixelarticons',
+  ));
+
+  /// `mail-right-sharp` — primary layer (full opacity)
+  static const IconifyIconData mailRightSharpPrimary = IconifyIconData(IconData(
     0xe2b3,
     fontFamily: 'Pixelarticons',
+    fontPackage: 'iconifyx_pixelarticons',
+  ));
+
+  /// `mail-right-sharp` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData mailRightSharpSecondary = IconifyIconData(IconData(
+    0xe2b3,
+    fontFamily: 'PixelarticonsSecondary',
     fontPackage: 'iconifyx_pixelarticons',
   ));
 

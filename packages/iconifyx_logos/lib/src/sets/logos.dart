@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Gil Barbara
 /// License: CC0 — https://raw.githubusercontent.com/gilbarbara/logos/master/LICENSE.txt
-/// Icons: 830
+/// Icons: 831 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -1038,10 +1038,17 @@ class LogosIcons {
     fontPackage: 'iconifyx_logos',
   ));
 
-  /// `compose`
-  static const IconifyIconData compose = IconifyIconData(IconData(
+  /// `compose` — primary layer (full opacity)
+  static const IconifyIconData composePrimary = IconifyIconData(IconData(
     0xe092,
     fontFamily: 'Logos',
+    fontPackage: 'iconifyx_logos',
+  ));
+
+  /// `compose` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData composeSecondary = IconifyIconData(IconData(
+    0xe092,
+    fontFamily: 'LogosSecondary',
     fontPackage: 'iconifyx_logos',
   ));
 
@@ -1969,10 +1976,17 @@ class LogosIcons {
     fontPackage: 'iconifyx_logos',
   ));
 
-  /// `geekbot`
-  static const IconifyIconData geekbot = IconifyIconData(IconData(
+  /// `geekbot` — primary layer (full opacity)
+  static const IconifyIconData geekbotPrimary = IconifyIconData(IconData(
     0xe117,
     fontFamily: 'Logos',
+    fontPackage: 'iconifyx_logos',
+  ));
+
+  /// `geekbot` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData geekbotSecondary = IconifyIconData(IconData(
+    0xe117,
+    fontFamily: 'LogosSecondary',
     fontPackage: 'iconifyx_logos',
   ));
 
@@ -2648,17 +2662,31 @@ class LogosIcons {
     fontPackage: 'iconifyx_logos',
   ));
 
-  /// `keydb`
-  static const IconifyIconData keydb = IconifyIconData(IconData(
+  /// `keydb` — primary layer (full opacity)
+  static const IconifyIconData keydbPrimary = IconifyIconData(IconData(
     0xe178,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
-  /// `keydb-icon`
-  static const IconifyIconData keydbIcon = IconifyIconData(IconData(
+  /// `keydb` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData keydbSecondary = IconifyIconData(IconData(
+    0xe178,
+    fontFamily: 'LogosSecondary',
+    fontPackage: 'iconifyx_logos',
+  ));
+
+  /// `keydb-icon` — primary layer (full opacity)
+  static const IconifyIconData keydbIconPrimary = IconifyIconData(IconData(
     0xe179,
     fontFamily: 'Logos',
+    fontPackage: 'iconifyx_logos',
+  ));
+
+  /// `keydb-icon` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData keydbIconSecondary = IconifyIconData(IconData(
+    0xe179,
+    fontFamily: 'LogosSecondary',
     fontPackage: 'iconifyx_logos',
   ));
 
@@ -2809,3019 +2837,3061 @@ class LogosIcons {
     fontPackage: 'iconifyx_logos',
   ));
 
+  /// `leveldb` — primary layer (full opacity)
+  static const IconifyIconData leveldbPrimary = IconifyIconData(IconData(
+    0xe18f,
+    fontFamily: 'Logos',
+    fontPackage: 'iconifyx_logos',
+  ));
+
+  /// `leveldb` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData leveldbSecondary = IconifyIconData(IconData(
+    0xe18f,
+    fontFamily: 'LogosSecondary',
+    fontPackage: 'iconifyx_logos',
+  ));
+
   /// `lexical`
   static const IconifyIconData lexical = IconifyIconData(IconData(
-    0xe18f,
+    0xe190,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `lexical-icon`
   static const IconifyIconData lexicalIcon = IconifyIconData(IconData(
-    0xe190,
+    0xe191,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `librato`
   static const IconifyIconData librato = IconifyIconData(IconData(
-    0xe191,
+    0xe192,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `lightstep`
   static const IconifyIconData lightstep = IconifyIconData(IconData(
-    0xe192,
+    0xe193,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `lightstep-icon`
   static const IconifyIconData lightstepIcon = IconifyIconData(IconData(
-    0xe193,
+    0xe194,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `linkedin`
   static const IconifyIconData linkedin = IconifyIconData(IconData(
-    0xe194,
+    0xe195,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `linkedin-icon`
   static const IconifyIconData linkedinIcon = IconifyIconData(IconData(
-    0xe195,
+    0xe196,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `linux-mint`
   static const IconifyIconData linuxMint = IconifyIconData(IconData(
-    0xe196,
+    0xe197,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `loader`
   static const IconifyIconData loader = IconifyIconData(IconData(
-    0xe197,
+    0xe198,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `locent`
   static const IconifyIconData locent = IconifyIconData(IconData(
-    0xe198,
+    0xe199,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `loggly`
   static const IconifyIconData loggly = IconifyIconData(IconData(
-    0xe199,
+    0xe19a,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `lookback`
   static const IconifyIconData lookback = IconifyIconData(IconData(
-    0xe19a,
+    0xe19b,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `loom`
   static const IconifyIconData loom = IconifyIconData(IconData(
-    0xe19b,
+    0xe19c,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `loom-icon`
   static const IconifyIconData loomIcon = IconifyIconData(IconData(
-    0xe19c,
+    0xe19d,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `loopback`
   static const IconifyIconData loopback = IconifyIconData(IconData(
-    0xe19d,
+    0xe19e,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `loopback-icon`
   static const IconifyIconData loopbackIcon = IconifyIconData(IconData(
-    0xe19e,
+    0xe19f,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `losant`
   static const IconifyIconData losant = IconifyIconData(IconData(
-    0xe19f,
+    0xe1a0,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `lotus`
   static const IconifyIconData lotus = IconifyIconData(IconData(
-    0xe1a0,
+    0xe1a1,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `lucene`
   static const IconifyIconData lucene = IconifyIconData(IconData(
-    0xe1a1,
+    0xe1a2,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `lynda`
   static const IconifyIconData lynda = IconifyIconData(IconData(
-    0xe1a2,
+    0xe1a3,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `macos`
   static const IconifyIconData macos = IconifyIconData(IconData(
-    0xe1a3,
+    0xe1a4,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `mageia`
   static const IconifyIconData mageia = IconifyIconData(IconData(
-    0xe1a4,
+    0xe1a5,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `mailchimp`
   static const IconifyIconData mailchimp = IconifyIconData(IconData(
-    0xe1a5,
+    0xe1a6,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `mailgun`
   static const IconifyIconData mailgun = IconifyIconData(IconData(
-    0xe1a6,
+    0xe1a7,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `mailgun-icon`
   static const IconifyIconData mailgunIcon = IconifyIconData(IconData(
-    0xe1a7,
+    0xe1a8,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `malinajs`
   static const IconifyIconData malinajs = IconifyIconData(IconData(
-    0xe1a8,
+    0xe1a9,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `manjaro`
   static const IconifyIconData manjaro = IconifyIconData(IconData(
-    0xe1a9,
+    0xe1aa,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `mantine`
   static const IconifyIconData mantine = IconifyIconData(IconData(
-    0xe1aa,
+    0xe1ab,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `mantine-icon`
   static const IconifyIconData mantineIcon = IconifyIconData(IconData(
-    0xe1ab,
+    0xe1ac,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `maps-me`
   static const IconifyIconData mapsMe = IconifyIconData(IconData(
-    0xe1ac,
+    0xe1ad,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `mariadb-icon`
   static const IconifyIconData mariadbIcon = IconifyIconData(IconData(
-    0xe1ad,
+    0xe1ae,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `markdown`
   static const IconifyIconData markdown = IconifyIconData(IconData(
-    0xe1ae,
+    0xe1af,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `marvel`
   static const IconifyIconData marvel = IconifyIconData(IconData(
-    0xe1af,
+    0xe1b0,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `mastercard`
   static const IconifyIconData mastercard = IconifyIconData(IconData(
-    0xe1b0,
+    0xe1b1,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `material-ui`
   static const IconifyIconData materialUi = IconifyIconData(IconData(
-    0xe1b1,
+    0xe1b2,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `matter`
   static const IconifyIconData matter = IconifyIconData(IconData(
-    0xe1b2,
+    0xe1b3,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `matter-icon`
   static const IconifyIconData matterIcon = IconifyIconData(IconData(
-    0xe1b3,
+    0xe1b4,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `mattermost`
   static const IconifyIconData mattermost = IconifyIconData(IconData(
-    0xe1b4,
+    0xe1b5,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `mattermost-icon`
   static const IconifyIconData mattermostIcon = IconifyIconData(IconData(
-    0xe1b5,
+    0xe1b6,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `maxcdn`
   static const IconifyIconData maxcdn = IconifyIconData(IconData(
-    0xe1b6,
+    0xe1b7,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `mdn`
   static const IconifyIconData mdn = IconifyIconData(IconData(
-    0xe1b7,
+    0xe1b8,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `mdx`
   static const IconifyIconData mdx = IconifyIconData(IconData(
-    0xe1b8,
-    fontFamily: 'Logos',
-    fontPackage: 'iconifyx_logos',
-  ));
-
-  /// `meanio`
-  static const IconifyIconData meanio = IconifyIconData(IconData(
     0xe1b9,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
+  /// `meanio` — primary layer (full opacity)
+  static const IconifyIconData meanioPrimary = IconifyIconData(IconData(
+    0xe1ba,
+    fontFamily: 'Logos',
+    fontPackage: 'iconifyx_logos',
+  ));
+
+  /// `meanio` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData meanioSecondary = IconifyIconData(IconData(
+    0xe1ba,
+    fontFamily: 'LogosSecondary',
+    fontPackage: 'iconifyx_logos',
+  ));
+
   /// `medium`
   static const IconifyIconData medium = IconifyIconData(IconData(
-    0xe1ba,
+    0xe1bb,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `medium-icon`
   static const IconifyIconData mediumIcon = IconifyIconData(IconData(
-    0xe1bb,
+    0xe1bc,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `mesos`
   static const IconifyIconData mesos = IconifyIconData(IconData(
-    0xe1bc,
-    fontFamily: 'Logos',
-    fontPackage: 'iconifyx_logos',
-  ));
-
-  /// `metabase`
-  static const IconifyIconData metabase = IconifyIconData(IconData(
     0xe1bd,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
+  /// `metabase` — primary layer (full opacity)
+  static const IconifyIconData metabasePrimary = IconifyIconData(IconData(
+    0xe1be,
+    fontFamily: 'Logos',
+    fontPackage: 'iconifyx_logos',
+  ));
+
+  /// `metabase` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData metabaseSecondary = IconifyIconData(IconData(
+    0xe1be,
+    fontFamily: 'LogosSecondary',
+    fontPackage: 'iconifyx_logos',
+  ));
+
   /// `meteor-icon`
   static const IconifyIconData meteorIcon = IconifyIconData(IconData(
-    0xe1be,
+    0xe1bf,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `micro`
   static const IconifyIconData micro = IconifyIconData(IconData(
-    0xe1bf,
+    0xe1c0,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `micro-icon`
   static const IconifyIconData microIcon = IconifyIconData(IconData(
-    0xe1c0,
+    0xe1c1,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `micro-python`
   static const IconifyIconData microPython = IconifyIconData(IconData(
-    0xe1c1,
+    0xe1c2,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `micron`
   static const IconifyIconData micron = IconifyIconData(IconData(
-    0xe1c2,
+    0xe1c3,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `micron-icon`
   static const IconifyIconData micronIcon = IconifyIconData(IconData(
-    0xe1c3,
+    0xe1c4,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `microsoft`
   static const IconifyIconData microsoft = IconifyIconData(IconData(
-    0xe1c4,
+    0xe1c5,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `microsoft-windows`
   static const IconifyIconData microsoftWindows = IconifyIconData(IconData(
-    0xe1c5,
+    0xe1c6,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `microsoft-windows-icon`
   static const IconifyIconData microsoftWindowsIcon = IconifyIconData(IconData(
-    0xe1c6,
+    0xe1c7,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `mida`
   static const IconifyIconData mida = IconifyIconData(IconData(
-    0xe1c7,
+    0xe1c8,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `mida-icon`
   static const IconifyIconData midaIcon = IconifyIconData(IconData(
-    0xe1c8,
+    0xe1c9,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `middleman`
   static const IconifyIconData middleman = IconifyIconData(IconData(
-    0xe1c9,
+    0xe1ca,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `midjourney`
   static const IconifyIconData midjourney = IconifyIconData(IconData(
-    0xe1ca,
+    0xe1cb,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `milligram`
   static const IconifyIconData milligram = IconifyIconData(IconData(
-    0xe1cb,
+    0xe1cc,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `milvus`
   static const IconifyIconData milvus = IconifyIconData(IconData(
-    0xe1cc,
+    0xe1cd,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `milvus-icon`
   static const IconifyIconData milvusIcon = IconifyIconData(IconData(
-    0xe1cd,
+    0xe1ce,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `miro`
   static const IconifyIconData miro = IconifyIconData(IconData(
-    0xe1ce,
+    0xe1cf,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `miro-icon`
   static const IconifyIconData miroIcon = IconifyIconData(IconData(
-    0xe1cf,
+    0xe1d0,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `model-context-protocol`
   static const IconifyIconData modelContextProtocol = IconifyIconData(IconData(
-    0xe1d0,
+    0xe1d1,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `model-context-protocol-icon`
   static const IconifyIconData modelContextProtocolIcon = IconifyIconData(IconData(
-    0xe1d1,
+    0xe1d2,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `modernizr`
   static const IconifyIconData modernizr = IconifyIconData(IconData(
-    0xe1d2,
+    0xe1d3,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `monday`
   static const IconifyIconData monday = IconifyIconData(IconData(
-    0xe1d3,
+    0xe1d4,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `monday-icon`
   static const IconifyIconData mondayIcon = IconifyIconData(IconData(
-    0xe1d4,
+    0xe1d5,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `monero`
   static const IconifyIconData monero = IconifyIconData(IconData(
-    0xe1d5,
+    0xe1d6,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `mongodb`
   static const IconifyIconData mongodb = IconifyIconData(IconData(
-    0xe1d6,
+    0xe1d7,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `mongodb-icon`
   static const IconifyIconData mongodbIcon = IconifyIconData(IconData(
-    0xe1d7,
+    0xe1d8,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `moonshot-ai`
   static const IconifyIconData moonshotAi = IconifyIconData(IconData(
-    0xe1d8,
+    0xe1d9,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `moonshot-ai-icon`
   static const IconifyIconData moonshotAiIcon = IconifyIconData(IconData(
-    0xe1d9,
+    0xe1da,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `mozilla`
   static const IconifyIconData mozilla = IconifyIconData(IconData(
-    0xe1da,
+    0xe1db,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `mparticle`
   static const IconifyIconData mparticle = IconifyIconData(IconData(
-    0xe1db,
+    0xe1dc,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `mparticle-icon`
   static const IconifyIconData mparticleIcon = IconifyIconData(IconData(
-    0xe1dc,
+    0xe1dd,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `mysql-icon`
   static const IconifyIconData mysqlIcon = IconifyIconData(IconData(
-    0xe1dd,
+    0xe1de,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `myth`
   static const IconifyIconData myth = IconifyIconData(IconData(
-    0xe1de,
+    0xe1df,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `nanonets`
   static const IconifyIconData nanonets = IconifyIconData(IconData(
-    0xe1df,
+    0xe1e0,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `nasm`
   static const IconifyIconData nasm = IconifyIconData(IconData(
-    0xe1e0,
+    0xe1e1,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `nativescript`
   static const IconifyIconData nativescript = IconifyIconData(IconData(
-    0xe1e1,
+    0xe1e2,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `nats`
   static const IconifyIconData nats = IconifyIconData(IconData(
-    0xe1e2,
+    0xe1e3,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `nats-icon`
   static const IconifyIconData natsIcon = IconifyIconData(IconData(
-    0xe1e3,
+    0xe1e4,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `neo4j`
   static const IconifyIconData neo4j = IconifyIconData(IconData(
-    0xe1e4,
+    0xe1e5,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `nestjs`
   static const IconifyIconData nestjs = IconifyIconData(IconData(
-    0xe1e5,
+    0xe1e6,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `netflix`
   static const IconifyIconData netflix = IconifyIconData(IconData(
-    0xe1e6,
+    0xe1e7,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `netuitive`
   static const IconifyIconData netuitive = IconifyIconData(IconData(
-    0xe1e7,
+    0xe1e8,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `new-relic`
   static const IconifyIconData newRelic = IconifyIconData(IconData(
-    0xe1e8,
+    0xe1e9,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `new-relic-icon`
   static const IconifyIconData newRelicIcon = IconifyIconData(IconData(
-    0xe1e9,
+    0xe1ea,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `nextjs`
   static const IconifyIconData nextjs = IconifyIconData(IconData(
-    0xe1ea,
+    0xe1eb,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `ngrok`
   static const IconifyIconData ngrok = IconifyIconData(IconData(
-    0xe1eb,
+    0xe1ec,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `nhost-icon`
   static const IconifyIconData nhostIcon = IconifyIconData(IconData(
-    0xe1ec,
+    0xe1ed,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `nim-lang`
   static const IconifyIconData nimLang = IconifyIconData(IconData(
-    0xe1ed,
+    0xe1ee,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `nodal`
   static const IconifyIconData nodal = IconifyIconData(IconData(
-    0xe1ee,
+    0xe1ef,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `nodebots`
   static const IconifyIconData nodebots = IconifyIconData(IconData(
-    0xe1ef,
+    0xe1f0,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `nodejitsu`
   static const IconifyIconData nodejitsu = IconifyIconData(IconData(
-    0xe1f0,
+    0xe1f1,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `nodemon`
   static const IconifyIconData nodemon = IconifyIconData(IconData(
-    0xe1f1,
+    0xe1f2,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `nodeos`
   static const IconifyIconData nodeos = IconifyIconData(IconData(
-    0xe1f2,
+    0xe1f3,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `nodewebkit`
   static const IconifyIconData nodewebkit = IconifyIconData(IconData(
-    0xe1f3,
+    0xe1f4,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `nomad`
   static const IconifyIconData nomad = IconifyIconData(IconData(
-    0xe1f4,
+    0xe1f5,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `nomad-icon`
   static const IconifyIconData nomadIcon = IconifyIconData(IconData(
-    0xe1f5,
+    0xe1f6,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `notion`
   static const IconifyIconData notion = IconifyIconData(IconData(
-    0xe1f6,
+    0xe1f7,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `notion-icon`
   static const IconifyIconData notionIcon = IconifyIconData(IconData(
-    0xe1f7,
+    0xe1f8,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `now`
   static const IconifyIconData now = IconifyIconData(IconData(
-    0xe1f8,
+    0xe1f9,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `noysi`
   static const IconifyIconData noysi = IconifyIconData(IconData(
-    0xe1f9,
+    0xe1fa,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `nuclide`
   static const IconifyIconData nuclide = IconifyIconData(IconData(
-    0xe1fa,
+    0xe1fb,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `numpy`
   static const IconifyIconData numpy = IconifyIconData(IconData(
-    0xe1fb,
+    0xe1fc,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `nuodb`
   static const IconifyIconData nuodb = IconifyIconData(IconData(
-    0xe1fc,
+    0xe1fd,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `nuxt`
   static const IconifyIconData nuxt = IconifyIconData(IconData(
-    0xe1fd,
+    0xe1fe,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `nuxt-icon`
   static const IconifyIconData nuxtIcon = IconifyIconData(IconData(
-    0xe1fe,
+    0xe1ff,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `nvidia`
   static const IconifyIconData nvidia = IconifyIconData(IconData(
-    0xe1ff,
+    0xe200,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `oauth`
   static const IconifyIconData oauth = IconifyIconData(IconData(
-    0xe200,
+    0xe201,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `observablehq`
   static const IconifyIconData observablehq = IconifyIconData(IconData(
-    0xe201,
+    0xe202,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `octopus-deploy`
   static const IconifyIconData octopusDeploy = IconifyIconData(IconData(
-    0xe202,
+    0xe203,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `okta`
   static const IconifyIconData okta = IconifyIconData(IconData(
-    0xe203,
+    0xe204,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `okta-icon`
   static const IconifyIconData oktaIcon = IconifyIconData(IconData(
-    0xe204,
+    0xe205,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `olark`
   static const IconifyIconData olark = IconifyIconData(IconData(
-    0xe205,
+    0xe206,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `onesignal`
   static const IconifyIconData onesignal = IconifyIconData(IconData(
-    0xe206,
+    0xe207,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `openai`
   static const IconifyIconData openai = IconifyIconData(IconData(
-    0xe207,
+    0xe208,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `openai-icon`
   static const IconifyIconData openaiIcon = IconifyIconData(IconData(
-    0xe208,
+    0xe209,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `opencollective`
   static const IconifyIconData opencollective = IconifyIconData(IconData(
-    0xe209,
+    0xe20a,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `openframeworks`
   static const IconifyIconData openframeworks = IconifyIconData(IconData(
-    0xe20a,
+    0xe20b,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `opensearch`
   static const IconifyIconData opensearch = IconifyIconData(IconData(
-    0xe20b,
+    0xe20c,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `opensearch-icon`
   static const IconifyIconData opensearchIcon = IconifyIconData(IconData(
-    0xe20c,
+    0xe20d,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `opensource`
   static const IconifyIconData opensource = IconifyIconData(IconData(
-    0xe20d,
+    0xe20e,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `openstack`
   static const IconifyIconData openstack = IconifyIconData(IconData(
-    0xe20e,
+    0xe20f,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `openstack-icon`
   static const IconifyIconData openstackIcon = IconifyIconData(IconData(
-    0xe20f,
+    0xe210,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `opentelemetry`
   static const IconifyIconData opentelemetry = IconifyIconData(IconData(
-    0xe210,
+    0xe211,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `opentelemetry-icon`
   static const IconifyIconData opentelemetryIcon = IconifyIconData(IconData(
-    0xe211,
+    0xe212,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `oracle`
   static const IconifyIconData oracle = IconifyIconData(IconData(
-    0xe212,
+    0xe213,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `oshw`
   static const IconifyIconData oshw = IconifyIconData(IconData(
-    0xe213,
+    0xe214,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `osquery`
   static const IconifyIconData osquery = IconifyIconData(IconData(
-    0xe214,
+    0xe215,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `p5js`
   static const IconifyIconData p5js = IconifyIconData(IconData(
-    0xe215,
+    0xe216,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `packer`
   static const IconifyIconData packer = IconifyIconData(IconData(
-    0xe216,
+    0xe217,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `pagerduty`
   static const IconifyIconData pagerduty = IconifyIconData(IconData(
-    0xe217,
+    0xe218,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `pagerduty-icon`
   static const IconifyIconData pagerdutyIcon = IconifyIconData(IconData(
-    0xe218,
+    0xe219,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `panda`
   static const IconifyIconData panda = IconifyIconData(IconData(
-    0xe219,
+    0xe21a,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `pandacss`
   static const IconifyIconData pandacss = IconifyIconData(IconData(
-    0xe21a,
+    0xe21b,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `pandacss-icon`
   static const IconifyIconData pandacssIcon = IconifyIconData(IconData(
-    0xe21b,
+    0xe21c,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `parse`
   static const IconifyIconData parse = IconifyIconData(IconData(
-    0xe21c,
+    0xe21d,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `patreon`
   static const IconifyIconData patreon = IconifyIconData(IconData(
-    0xe21d,
+    0xe21e,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `payload`
   static const IconifyIconData payload = IconifyIconData(IconData(
-    0xe21e,
+    0xe21f,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `percy`
   static const IconifyIconData percy = IconifyIconData(IconData(
-    0xe21f,
+    0xe220,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `percy-icon`
   static const IconifyIconData percyIcon = IconifyIconData(IconData(
-    0xe220,
+    0xe221,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `perf-rocks`
   static const IconifyIconData perfRocks = IconifyIconData(IconData(
-    0xe221,
+    0xe222,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `phoenix`
   static const IconifyIconData phoenix = IconifyIconData(IconData(
-    0xe222,
+    0xe223,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `php-alt`
   static const IconifyIconData phpAlt = IconifyIconData(IconData(
-    0xe223,
+    0xe224,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `picasa`
   static const IconifyIconData picasa = IconifyIconData(IconData(
-    0xe224,
+    0xe225,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `pinecone`
   static const IconifyIconData pinecone = IconifyIconData(IconData(
-    0xe225,
+    0xe226,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `pinecone-icon`
   static const IconifyIconData pineconeIcon = IconifyIconData(IconData(
-    0xe226,
+    0xe227,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `pingdom`
   static const IconifyIconData pingdom = IconifyIconData(IconData(
-    0xe227,
+    0xe228,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `pingy`
   static const IconifyIconData pingy = IconifyIconData(IconData(
-    0xe228,
+    0xe229,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `pinterest`
   static const IconifyIconData pinterest = IconifyIconData(IconData(
-    0xe229,
+    0xe22a,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `pipedream`
   static const IconifyIconData pipedream = IconifyIconData(IconData(
-    0xe22a,
+    0xe22b,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `pipefy`
   static const IconifyIconData pipefy = IconifyIconData(IconData(
-    0xe22b,
+    0xe22c,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `pixate`
   static const IconifyIconData pixate = IconifyIconData(IconData(
-    0xe22c,
+    0xe22d,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `pixelapse`
   static const IconifyIconData pixelapse = IconifyIconData(IconData(
-    0xe22d,
+    0xe22e,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `pkg`
   static const IconifyIconData pkg = IconifyIconData(IconData(
-    0xe22e,
+    0xe22f,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `planetscale`
   static const IconifyIconData planetscale = IconifyIconData(IconData(
-    0xe22f,
+    0xe230,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `plasmic`
   static const IconifyIconData plasmic = IconifyIconData(IconData(
-    0xe230,
+    0xe231,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `posthog`
   static const IconifyIconData posthog = IconifyIconData(IconData(
-    0xe231,
+    0xe232,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `posthog-icon`
   static const IconifyIconData posthogIcon = IconifyIconData(IconData(
-    0xe232,
+    0xe233,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `postman`
   static const IconifyIconData postman = IconifyIconData(IconData(
-    0xe233,
+    0xe234,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `postman-icon`
   static const IconifyIconData postmanIcon = IconifyIconData(IconData(
-    0xe234,
+    0xe235,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `pouchdb`
   static const IconifyIconData pouchdb = IconifyIconData(IconData(
-    0xe235,
+    0xe236,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `preact`
   static const IconifyIconData preact = IconifyIconData(IconData(
-    0xe236,
+    0xe237,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `precursor`
   static const IconifyIconData precursor = IconifyIconData(IconData(
-    0xe237,
+    0xe238,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `prerender`
   static const IconifyIconData prerender = IconifyIconData(IconData(
-    0xe238,
+    0xe239,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `prerender-icon`
   static const IconifyIconData prerenderIcon = IconifyIconData(IconData(
-    0xe239,
+    0xe23a,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `prestashop`
   static const IconifyIconData prestashop = IconifyIconData(IconData(
-    0xe23a,
+    0xe23b,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `prestashop-icon`
   static const IconifyIconData prestashopIcon = IconifyIconData(IconData(
-    0xe23b,
+    0xe23c,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `presto`
   static const IconifyIconData presto = IconifyIconData(IconData(
-    0xe23c,
+    0xe23d,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `presto-icon`
   static const IconifyIconData prestoIcon = IconifyIconData(IconData(
-    0xe23d,
+    0xe23e,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `prisma`
   static const IconifyIconData prisma = IconifyIconData(IconData(
-    0xe23e,
+    0xe23f,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `processing`
   static const IconifyIconData processing = IconifyIconData(IconData(
-    0xe23f,
+    0xe240,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `processwire-icon`
   static const IconifyIconData processwireIcon = IconifyIconData(IconData(
-    0xe240,
+    0xe241,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `progress`
   static const IconifyIconData progress = IconifyIconData(IconData(
-    0xe241,
+    0xe242,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `proofy`
   static const IconifyIconData proofy = IconifyIconData(IconData(
-    0xe242,
+    0xe243,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `prospect`
   static const IconifyIconData prospect = IconifyIconData(IconData(
-    0xe243,
+    0xe244,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `protoio`
   static const IconifyIconData protoio = IconifyIconData(IconData(
-    0xe244,
+    0xe245,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `protonet`
   static const IconifyIconData protonet = IconifyIconData(IconData(
-    0xe245,
+    0xe246,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `pug`
   static const IconifyIconData pug = IconifyIconData(IconData(
-    0xe246,
+    0xe247,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `puppet`
   static const IconifyIconData puppet = IconifyIconData(IconData(
-    0xe247,
+    0xe248,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `puppet-icon`
   static const IconifyIconData puppetIcon = IconifyIconData(IconData(
-    0xe248,
+    0xe249,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `puppeteer`
   static const IconifyIconData puppeteer = IconifyIconData(IconData(
-    0xe249,
+    0xe24a,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `purescript`
   static const IconifyIconData purescript = IconifyIconData(IconData(
-    0xe24a,
+    0xe24b,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `purescript-icon`
   static const IconifyIconData purescriptIcon = IconifyIconData(IconData(
-    0xe24b,
+    0xe24c,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `pusher`
   static const IconifyIconData pusher = IconifyIconData(IconData(
-    0xe24c,
+    0xe24d,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `pusher-icon`
   static const IconifyIconData pusherIcon = IconifyIconData(IconData(
-    0xe24d,
+    0xe24e,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `pwa`
   static const IconifyIconData pwa = IconifyIconData(IconData(
-    0xe24e,
+    0xe24f,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `pyscript`
   static const IconifyIconData pyscript = IconifyIconData(IconData(
-    0xe24f,
+    0xe250,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `pytorch`
   static const IconifyIconData pytorch = IconifyIconData(IconData(
-    0xe250,
+    0xe251,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `pytorch-icon`
   static const IconifyIconData pytorchIcon = IconifyIconData(IconData(
-    0xe251,
+    0xe252,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `pyup`
   static const IconifyIconData pyup = IconifyIconData(IconData(
-    0xe252,
+    0xe253,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `qt`
   static const IconifyIconData qt = IconifyIconData(IconData(
-    0xe253,
+    0xe254,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `quora`
   static const IconifyIconData quora = IconifyIconData(IconData(
-    0xe254,
+    0xe255,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `qwen`
   static const IconifyIconData qwen = IconifyIconData(IconData(
-    0xe255,
+    0xe256,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `qwen-icon`
   static const IconifyIconData qwenIcon = IconifyIconData(IconData(
-    0xe256,
+    0xe257,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `qwik`
   static const IconifyIconData qwik = IconifyIconData(IconData(
-    0xe257,
+    0xe258,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `qwik-icon`
   static const IconifyIconData qwikIcon = IconifyIconData(IconData(
-    0xe258,
+    0xe259,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `rabbitmq`
   static const IconifyIconData rabbitmq = IconifyIconData(IconData(
-    0xe259,
+    0xe25a,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `rabbitmq-icon`
   static const IconifyIconData rabbitmqIcon = IconifyIconData(IconData(
-    0xe25a,
+    0xe25b,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `rackspace`
   static const IconifyIconData rackspace = IconifyIconData(IconData(
-    0xe25b,
+    0xe25c,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `rackspace-icon`
   static const IconifyIconData rackspaceIcon = IconifyIconData(IconData(
-    0xe25c,
+    0xe25d,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `rails`
   static const IconifyIconData rails = IconifyIconData(IconData(
-    0xe25d,
+    0xe25e,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `raml`
   static const IconifyIconData raml = IconifyIconData(IconData(
-    0xe25e,
+    0xe25f,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `rancher`
   static const IconifyIconData rancher = IconifyIconData(IconData(
-    0xe25f,
+    0xe260,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `raspberry-pi`
   static const IconifyIconData raspberryPi = IconifyIconData(IconData(
-    0xe260,
+    0xe261,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `react`
   static const IconifyIconData react = IconifyIconData(IconData(
-    0xe261,
+    0xe262,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `react-router`
   static const IconifyIconData reactRouter = IconifyIconData(IconData(
-    0xe262,
+    0xe263,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `reasonml`
   static const IconifyIconData reasonml = IconifyIconData(IconData(
-    0xe263,
+    0xe264,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `reasonml-icon`
   static const IconifyIconData reasonmlIcon = IconifyIconData(IconData(
-    0xe264,
+    0xe265,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `redhat`
   static const IconifyIconData redhat = IconifyIconData(IconData(
-    0xe265,
+    0xe266,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `redhat-icon`
   static const IconifyIconData redhatIcon = IconifyIconData(IconData(
-    0xe266,
+    0xe267,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `redspread`
   static const IconifyIconData redspread = IconifyIconData(IconData(
-    0xe267,
+    0xe268,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `redux`
   static const IconifyIconData redux = IconifyIconData(IconData(
-    0xe268,
+    0xe269,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `redux-saga`
   static const IconifyIconData reduxSaga = IconifyIconData(IconData(
-    0xe269,
+    0xe26a,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `refactor`
   static const IconifyIconData refactor = IconifyIconData(IconData(
-    0xe26a,
+    0xe26b,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `reindex`
   static const IconifyIconData reindex = IconifyIconData(IconData(
-    0xe26b,
+    0xe26c,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `relay`
   static const IconifyIconData relay = IconifyIconData(IconData(
-    0xe26c,
+    0xe26d,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `release`
   static const IconifyIconData release = IconifyIconData(IconData(
-    0xe26d,
+    0xe26e,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `remergr`
   static const IconifyIconData remergr = IconifyIconData(IconData(
-    0xe26e,
+    0xe26f,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `renovatebot`
   static const IconifyIconData renovatebot = IconifyIconData(IconData(
-    0xe26f,
+    0xe270,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `replay`
   static const IconifyIconData replay = IconifyIconData(IconData(
-    0xe270,
+    0xe271,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `replay-icon`
   static const IconifyIconData replayIcon = IconifyIconData(IconData(
-    0xe271,
+    0xe272,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `require`
   static const IconifyIconData require = IconifyIconData(IconData(
-    0xe272,
+    0xe273,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `rest-li`
   static const IconifyIconData restLi = IconifyIconData(IconData(
-    0xe273,
+    0xe274,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `risingwave`
   static const IconifyIconData risingwave = IconifyIconData(IconData(
-    0xe274,
+    0xe275,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `rocky-linux`
   static const IconifyIconData rockyLinux = IconifyIconData(IconData(
-    0xe275,
+    0xe276,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `rocky-linux-icon`
   static const IconifyIconData rockyLinuxIcon = IconifyIconData(IconData(
-    0xe276,
+    0xe277,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `rollbar`
   static const IconifyIconData rollbar = IconifyIconData(IconData(
-    0xe277,
+    0xe278,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `rollbar-icon`
   static const IconifyIconData rollbarIcon = IconifyIconData(IconData(
-    0xe278,
+    0xe279,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `runnable`
   static const IconifyIconData runnable = IconifyIconData(IconData(
-    0xe279,
+    0xe27a,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `rush-icon`
   static const IconifyIconData rushIcon = IconifyIconData(IconData(
-    0xe27a,
+    0xe27b,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `rust`
   static const IconifyIconData rust = IconifyIconData(IconData(
-    0xe27b,
+    0xe27c,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `sagui`
   static const IconifyIconData sagui = IconifyIconData(IconData(
-    0xe27c,
+    0xe27d,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `sails`
   static const IconifyIconData sails = IconifyIconData(IconData(
-    0xe27d,
+    0xe27e,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `salesforce`
   static const IconifyIconData salesforce = IconifyIconData(IconData(
-    0xe27e,
+    0xe27f,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `saltstack`
   static const IconifyIconData saltstack = IconifyIconData(IconData(
-    0xe27f,
+    0xe280,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `samsung`
   static const IconifyIconData samsung = IconifyIconData(IconData(
-    0xe280,
+    0xe281,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `scaphold`
   static const IconifyIconData scaphold = IconifyIconData(IconData(
-    0xe281,
+    0xe282,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `segment`
   static const IconifyIconData segment = IconifyIconData(IconData(
-    0xe282,
+    0xe283,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `segment-icon`
   static const IconifyIconData segmentIcon = IconifyIconData(IconData(
-    0xe283,
+    0xe284,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `selenium`
   static const IconifyIconData selenium = IconifyIconData(IconData(
-    0xe284,
+    0xe285,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `semantic-ui`
   static const IconifyIconData semanticUi = IconifyIconData(IconData(
-    0xe285,
+    0xe286,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `semantic-web`
   static const IconifyIconData semanticWeb = IconifyIconData(IconData(
-    0xe286,
+    0xe287,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `seneca`
   static const IconifyIconData seneca = IconifyIconData(IconData(
-    0xe287,
+    0xe288,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `sensu`
   static const IconifyIconData sensu = IconifyIconData(IconData(
-    0xe288,
+    0xe289,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `sensu-icon`
   static const IconifyIconData sensuIcon = IconifyIconData(IconData(
-    0xe289,
+    0xe28a,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `sentry`
   static const IconifyIconData sentry = IconifyIconData(IconData(
-    0xe28a,
+    0xe28b,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `sentry-icon`
   static const IconifyIconData sentryIcon = IconifyIconData(IconData(
-    0xe28b,
+    0xe28c,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `serveless`
   static const IconifyIconData serveless = IconifyIconData(IconData(
-    0xe28c,
+    0xe28d,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `serverless`
   static const IconifyIconData serverless = IconifyIconData(IconData(
-    0xe28d,
+    0xe28e,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `shields`
   static const IconifyIconData shields = IconifyIconData(IconData(
-    0xe28e,
+    0xe28f,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `shogun`
   static const IconifyIconData shogun = IconifyIconData(IconData(
-    0xe28f,
+    0xe290,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `sidekiq`
   static const IconifyIconData sidekiq = IconifyIconData(IconData(
-    0xe290,
+    0xe291,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `sidekiq-icon`
   static const IconifyIconData sidekiqIcon = IconifyIconData(IconData(
-    0xe291,
+    0xe292,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `signal`
   static const IconifyIconData signal = IconifyIconData(IconData(
-    0xe292,
+    0xe293,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `skaffolder`
   static const IconifyIconData skaffolder = IconifyIconData(IconData(
-    0xe293,
+    0xe294,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `sketch`
   static const IconifyIconData sketch = IconifyIconData(IconData(
-    0xe294,
+    0xe295,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `sketchapp`
   static const IconifyIconData sketchapp = IconifyIconData(IconData(
-    0xe295,
+    0xe296,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `smartling`
   static const IconifyIconData smartling = IconifyIconData(IconData(
-    0xe296,
+    0xe297,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `snowpack`
   static const IconifyIconData snowpack = IconifyIconData(IconData(
-    0xe297,
+    0xe298,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `snupps`
   static const IconifyIconData snupps = IconifyIconData(IconData(
-    0xe298,
+    0xe299,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `solarwinds`
   static const IconifyIconData solarwinds = IconifyIconData(IconData(
-    0xe299,
-    fontFamily: 'Logos',
-    fontPackage: 'iconifyx_logos',
-  ));
-
-  /// `solid`
-  static const IconifyIconData solid = IconifyIconData(IconData(
     0xe29a,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
+  /// `solid` — primary layer (full opacity)
+  static const IconifyIconData solidPrimary = IconifyIconData(IconData(
+    0xe29b,
+    fontFamily: 'Logos',
+    fontPackage: 'iconifyx_logos',
+  ));
+
+  /// `solid` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData solidSecondary = IconifyIconData(IconData(
+    0xe29b,
+    fontFamily: 'LogosSecondary',
+    fontPackage: 'iconifyx_logos',
+  ));
+
   /// `solidity`
   static const IconifyIconData solidity = IconifyIconData(IconData(
-    0xe29b,
+    0xe29c,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `sonarlint`
   static const IconifyIconData sonarlint = IconifyIconData(IconData(
-    0xe29c,
+    0xe29d,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `sourcetrail`
   static const IconifyIconData sourcetrail = IconifyIconData(IconData(
-    0xe29d,
+    0xe29e,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `spark`
   static const IconifyIconData spark = IconifyIconData(IconData(
-    0xe29e,
+    0xe29f,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `spidermonkey`
   static const IconifyIconData spidermonkey = IconifyIconData(IconData(
-    0xe29f,
+    0xe2a0,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `spidermonkey-icon`
   static const IconifyIconData spidermonkeyIcon = IconifyIconData(IconData(
-    0xe2a0,
+    0xe2a1,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `splunk`
   static const IconifyIconData splunk = IconifyIconData(IconData(
-    0xe2a1,
+    0xe2a2,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `spotify`
   static const IconifyIconData spotify = IconifyIconData(IconData(
-    0xe2a2,
+    0xe2a3,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `spotify-icon`
   static const IconifyIconData spotifyIcon = IconifyIconData(IconData(
-    0xe2a3,
+    0xe2a4,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `spree`
   static const IconifyIconData spree = IconifyIconData(IconData(
-    0xe2a4,
+    0xe2a5,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `spring`
   static const IconifyIconData spring = IconifyIconData(IconData(
-    0xe2a5,
+    0xe2a6,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `spring-icon`
   static const IconifyIconData springIcon = IconifyIconData(IconData(
-    0xe2a6,
+    0xe2a7,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `sqldep`
   static const IconifyIconData sqldep = IconifyIconData(IconData(
-    0xe2a7,
+    0xe2a8,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `stackbit`
   static const IconifyIconData stackbit = IconifyIconData(IconData(
-    0xe2a8,
+    0xe2a9,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `stackbit-icon`
   static const IconifyIconData stackbitIcon = IconifyIconData(IconData(
-    0xe2a9,
+    0xe2aa,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `stackblitz`
   static const IconifyIconData stackblitz = IconifyIconData(IconData(
-    0xe2aa,
+    0xe2ab,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `stackblitz-icon`
   static const IconifyIconData stackblitzIcon = IconifyIconData(IconData(
-    0xe2ab,
+    0xe2ac,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `stackshare`
   static const IconifyIconData stackshare = IconifyIconData(IconData(
-    0xe2ac,
+    0xe2ad,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `stately`
   static const IconifyIconData stately = IconifyIconData(IconData(
-    0xe2ad,
+    0xe2ae,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `stately-icon`
   static const IconifyIconData statelyIcon = IconifyIconData(IconData(
-    0xe2ae,
+    0xe2af,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `stenciljs`
   static const IconifyIconData stenciljs = IconifyIconData(IconData(
-    0xe2af,
+    0xe2b0,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `stenciljs-icon`
   static const IconifyIconData stenciljsIcon = IconifyIconData(IconData(
-    0xe2b0,
+    0xe2b1,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `stetho`
   static const IconifyIconData stetho = IconifyIconData(IconData(
-    0xe2b1,
+    0xe2b2,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `stitch`
   static const IconifyIconData stitch = IconifyIconData(IconData(
-    0xe2b2,
+    0xe2b3,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `stormpath`
   static const IconifyIconData stormpath = IconifyIconData(IconData(
-    0xe2b3,
+    0xe2b4,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `storyblocks`
   static const IconifyIconData storyblocks = IconifyIconData(IconData(
-    0xe2b4,
+    0xe2b5,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `storyblocks-icon`
   static const IconifyIconData storyblocksIcon = IconifyIconData(IconData(
-    0xe2b5,
+    0xe2b6,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `storyblok`
   static const IconifyIconData storyblok = IconifyIconData(IconData(
-    0xe2b6,
+    0xe2b7,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `storyblok-icon`
   static const IconifyIconData storyblokIcon = IconifyIconData(IconData(
-    0xe2b7,
+    0xe2b8,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `strider`
   static const IconifyIconData strider = IconifyIconData(IconData(
-    0xe2b8,
+    0xe2b9,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `stripe`
   static const IconifyIconData stripe = IconifyIconData(IconData(
-    0xe2b9,
+    0xe2ba,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `stylefmt`
   static const IconifyIconData stylefmt = IconifyIconData(IconData(
-    0xe2ba,
+    0xe2bb,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `stylelint`
   static const IconifyIconData stylelint = IconifyIconData(IconData(
-    0xe2bb,
+    0xe2bc,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `stylus`
   static const IconifyIconData stylus = IconifyIconData(IconData(
-    0xe2bc,
+    0xe2bd,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `subversion`
   static const IconifyIconData subversion = IconifyIconData(IconData(
-    0xe2bd,
+    0xe2be,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `survicate`
   static const IconifyIconData survicate = IconifyIconData(IconData(
-    0xe2be,
+    0xe2bf,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `survicate-icon`
   static const IconifyIconData survicateIcon = IconifyIconData(IconData(
-    0xe2bf,
+    0xe2c0,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `suse`
   static const IconifyIconData suse = IconifyIconData(IconData(
-    0xe2c0,
+    0xe2c1,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `susy`
   static const IconifyIconData susy = IconifyIconData(IconData(
-    0xe2c1,
+    0xe2c2,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `svelte`
   static const IconifyIconData svelte = IconifyIconData(IconData(
-    0xe2c2,
+    0xe2c3,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `svelte-icon`
   static const IconifyIconData svelteIcon = IconifyIconData(IconData(
-    0xe2c3,
+    0xe2c4,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `svelte-kit`
   static const IconifyIconData svelteKit = IconifyIconData(IconData(
-    0xe2c4,
+    0xe2c5,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `svg`
   static const IconifyIconData svg = IconifyIconData(IconData(
-    0xe2c5,
+    0xe2c6,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `svgator`
   static const IconifyIconData svgator = IconifyIconData(IconData(
-    0xe2c6,
+    0xe2c7,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `swr`
   static const IconifyIconData swr = IconifyIconData(IconData(
-    0xe2c7,
+    0xe2c8,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `symfony`
   static const IconifyIconData symfony = IconifyIconData(IconData(
-    0xe2c8,
+    0xe2c9,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `tapcart`
   static const IconifyIconData tapcart = IconifyIconData(IconData(
-    0xe2c9,
+    0xe2ca,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `tapcart-icon`
   static const IconifyIconData tapcartIcon = IconifyIconData(IconData(
-    0xe2ca,
+    0xe2cb,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `taskade`
   static const IconifyIconData taskade = IconifyIconData(IconData(
-    0xe2cb,
+    0xe2cc,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `taskade-icon`
   static const IconifyIconData taskadeIcon = IconifyIconData(IconData(
-    0xe2cc,
+    0xe2cd,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `tauri`
   static const IconifyIconData tauri = IconifyIconData(IconData(
-    0xe2cd,
+    0xe2ce,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `tealium`
   static const IconifyIconData tealium = IconifyIconData(IconData(
-    0xe2ce,
+    0xe2cf,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `teamgrid`
   static const IconifyIconData teamgrid = IconifyIconData(IconData(
-    0xe2cf,
+    0xe2d0,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `teamwork`
   static const IconifyIconData teamwork = IconifyIconData(IconData(
-    0xe2d0,
+    0xe2d1,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `teamwork-icon`
   static const IconifyIconData teamworkIcon = IconifyIconData(IconData(
-    0xe2d1,
+    0xe2d2,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `tectonic`
   static const IconifyIconData tectonic = IconifyIconData(IconData(
-    0xe2d2,
+    0xe2d3,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `terminal`
   static const IconifyIconData terminal = IconifyIconData(IconData(
-    0xe2d3,
+    0xe2d4,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `testlodge`
   static const IconifyIconData testlodge = IconifyIconData(IconData(
-    0xe2d4,
+    0xe2d5,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `threads`
   static const IconifyIconData threads = IconifyIconData(IconData(
-    0xe2d5,
+    0xe2d6,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `threads-icon`
   static const IconifyIconData threadsIcon = IconifyIconData(IconData(
-    0xe2d6,
+    0xe2d7,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `threejs`
   static const IconifyIconData threejs = IconifyIconData(IconData(
-    0xe2d7,
+    0xe2d8,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `thymeleaf`
   static const IconifyIconData thymeleaf = IconifyIconData(IconData(
-    0xe2d8,
+    0xe2d9,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `thymeleaf-icon`
   static const IconifyIconData thymeleafIcon = IconifyIconData(IconData(
-    0xe2d9,
+    0xe2da,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `tidal`
   static const IconifyIconData tidal = IconifyIconData(IconData(
-    0xe2da,
+    0xe2db,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `tidal-icon`
   static const IconifyIconData tidalIcon = IconifyIconData(IconData(
-    0xe2db,
+    0xe2dc,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `tiktok`
   static const IconifyIconData tiktok = IconifyIconData(IconData(
-    0xe2dc,
+    0xe2dd,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `tiktok-icon`
   static const IconifyIconData tiktokIcon = IconifyIconData(IconData(
-    0xe2dd,
+    0xe2de,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `tnw`
   static const IconifyIconData tnw = IconifyIconData(IconData(
-    0xe2de,
+    0xe2df,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `tomcat`
   static const IconifyIconData tomcat = IconifyIconData(IconData(
-    0xe2df,
+    0xe2e0,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `trac`
   static const IconifyIconData trac = IconifyIconData(IconData(
-    0xe2e0,
+    0xe2e1,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `trace`
   static const IconifyIconData trace = IconifyIconData(IconData(
-    0xe2e1,
+    0xe2e2,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `treehouse`
   static const IconifyIconData treehouse = IconifyIconData(IconData(
-    0xe2e2,
+    0xe2e3,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `treehouse-icon`
   static const IconifyIconData treehouseIcon = IconifyIconData(IconData(
-    0xe2e3,
+    0xe2e4,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `trpc`
   static const IconifyIconData trpc = IconifyIconData(IconData(
-    0xe2e4,
+    0xe2e5,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `truffle`
   static const IconifyIconData truffle = IconifyIconData(IconData(
-    0xe2e5,
+    0xe2e6,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `truffle-icon`
   static const IconifyIconData truffleIcon = IconifyIconData(IconData(
-    0xe2e6,
+    0xe2e7,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `tsnode`
   static const IconifyIconData tsnode = IconifyIconData(IconData(
-    0xe2e7,
+    0xe2e8,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `tsu`
   static const IconifyIconData tsu = IconifyIconData(IconData(
-    0xe2e8,
+    0xe2e9,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `tsuru`
   static const IconifyIconData tsuru = IconifyIconData(IconData(
-    0xe2e9,
+    0xe2ea,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `tumblr`
   static const IconifyIconData tumblr = IconifyIconData(IconData(
-    0xe2ea,
+    0xe2eb,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `tumblr-icon`
   static const IconifyIconData tumblrIcon = IconifyIconData(IconData(
-    0xe2eb,
+    0xe2ec,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `tunein`
   static const IconifyIconData tunein = IconifyIconData(IconData(
-    0xe2ec,
+    0xe2ed,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `turret`
   static const IconifyIconData turret = IconifyIconData(IconData(
-    0xe2ed,
+    0xe2ee,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `twitter`
   static const IconifyIconData twitter = IconifyIconData(IconData(
-    0xe2ee,
+    0xe2ef,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `typesense`
   static const IconifyIconData typesense = IconifyIconData(IconData(
-    0xe2ef,
+    0xe2f0,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `typesense-icon`
   static const IconifyIconData typesenseIcon = IconifyIconData(IconData(
-    0xe2f0,
+    0xe2f1,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `udacity`
   static const IconifyIconData udacity = IconifyIconData(IconData(
-    0xe2f1,
+    0xe2f2,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `udemy`
   static const IconifyIconData udemy = IconifyIconData(IconData(
-    0xe2f2,
+    0xe2f3,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `udemy-icon`
   static const IconifyIconData udemyIcon = IconifyIconData(IconData(
-    0xe2f3,
+    0xe2f4,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `umu`
   static const IconifyIconData umu = IconifyIconData(IconData(
-    0xe2f4,
+    0xe2f5,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `unito`
   static const IconifyIconData unito = IconifyIconData(IconData(
-    0xe2f5,
+    0xe2f6,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `unito-icon`
   static const IconifyIconData unitoIcon = IconifyIconData(IconData(
-    0xe2f6,
+    0xe2f7,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `unity`
   static const IconifyIconData unity = IconifyIconData(IconData(
-    0xe2f7,
+    0xe2f8,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `unrealengine`
   static const IconifyIconData unrealengine = IconifyIconData(IconData(
-    0xe2f8,
+    0xe2f9,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `unrealengine-icon`
   static const IconifyIconData unrealengineIcon = IconifyIconData(IconData(
-    0xe2f9,
+    0xe2fa,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `upstash-icon`
   static const IconifyIconData upstashIcon = IconifyIconData(IconData(
-    0xe2fa,
+    0xe2fb,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `upwork`
   static const IconifyIconData upwork = IconifyIconData(IconData(
-    0xe2fb,
+    0xe2fc,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `user-testing`
   static const IconifyIconData userTesting = IconifyIconData(IconData(
-    0xe2fc,
+    0xe2fd,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `user-testing-icon`
   static const IconifyIconData userTestingIcon = IconifyIconData(IconData(
-    0xe2fd,
+    0xe2fe,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `vaadin`
   static const IconifyIconData vaadin = IconifyIconData(IconData(
-    0xe2fe,
+    0xe2ff,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `vagrant`
   static const IconifyIconData vagrant = IconifyIconData(IconData(
-    0xe2ff,
+    0xe300,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `vagrant-icon`
   static const IconifyIconData vagrantIcon = IconifyIconData(IconData(
-    0xe300,
+    0xe301,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `vault`
   static const IconifyIconData vault = IconifyIconData(IconData(
-    0xe301,
+    0xe302,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `vault-icon`
   static const IconifyIconData vaultIcon = IconifyIconData(IconData(
-    0xe302,
+    0xe303,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `vercel`
   static const IconifyIconData vercel = IconifyIconData(IconData(
-    0xe303,
+    0xe304,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `vercel-icon`
   static const IconifyIconData vercelIcon = IconifyIconData(IconData(
-    0xe304,
+    0xe305,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `victorops`
   static const IconifyIconData victorops = IconifyIconData(IconData(
-    0xe305,
+    0xe306,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `vimeo`
   static const IconifyIconData vimeo = IconifyIconData(IconData(
-    0xe306,
+    0xe307,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `vine`
   static const IconifyIconData vine = IconifyIconData(IconData(
-    0xe307,
+    0xe308,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `visaelectron`
   static const IconifyIconData visaelectron = IconifyIconData(IconData(
-    0xe308,
+    0xe309,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `vitest`
   static const IconifyIconData vitest = IconifyIconData(IconData(
-    0xe309,
+    0xe30a,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `vultr-icon`
   static const IconifyIconData vultrIcon = IconifyIconData(IconData(
-    0xe30a,
+    0xe30b,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `w3c`
   static const IconifyIconData w3c = IconifyIconData(IconData(
-    0xe30b,
+    0xe30c,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `waffle`
   static const IconifyIconData waffle = IconifyIconData(IconData(
-    0xe30c,
+    0xe30d,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `wagtail`
   static const IconifyIconData wagtail = IconifyIconData(IconData(
-    0xe30d,
+    0xe30e,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `wakatime`
   static const IconifyIconData wakatime = IconifyIconData(IconData(
-    0xe30e,
+    0xe30f,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `walkme`
   static const IconifyIconData walkme = IconifyIconData(IconData(
-    0xe30f,
+    0xe310,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `waypoint`
   static const IconifyIconData waypoint = IconifyIconData(IconData(
-    0xe310,
+    0xe311,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `waypoint-icon`
   static const IconifyIconData waypointIcon = IconifyIconData(IconData(
-    0xe311,
+    0xe312,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `webassembly`
   static const IconifyIconData webassembly = IconifyIconData(IconData(
-    0xe312,
+    0xe313,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `webhooks`
   static const IconifyIconData webhooks = IconifyIconData(IconData(
-    0xe313,
+    0xe314,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `webpack`
   static const IconifyIconData webpack = IconifyIconData(IconData(
-    0xe314,
+    0xe315,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `websocket`
   static const IconifyIconData websocket = IconifyIconData(IconData(
-    0xe315,
+    0xe316,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `wercker`
   static const IconifyIconData wercker = IconifyIconData(IconData(
-    0xe316,
+    0xe317,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `whalar-icon`
   static const IconifyIconData whalarIcon = IconifyIconData(IconData(
-    0xe317,
+    0xe318,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `whatsapp-monochrome-icon`
   static const IconifyIconData whatsappMonochromeIcon = IconifyIconData(IconData(
-    0xe318,
+    0xe319,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `whatwg`
   static const IconifyIconData whatwg = IconifyIconData(IconData(
-    0xe319,
+    0xe31a,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `wifi`
   static const IconifyIconData wifi = IconifyIconData(IconData(
-    0xe31a,
+    0xe31b,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `winglang`
   static const IconifyIconData winglang = IconifyIconData(IconData(
-    0xe31b,
+    0xe31c,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `winglang-icon`
   static const IconifyIconData winglangIcon = IconifyIconData(IconData(
-    0xe31c,
+    0xe31d,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `wire`
   static const IconifyIconData wire = IconifyIconData(IconData(
-    0xe31d,
+    0xe31e,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `wiredtree`
   static const IconifyIconData wiredtree = IconifyIconData(IconData(
-    0xe31e,
+    0xe31f,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `woocommerce`
   static const IconifyIconData woocommerce = IconifyIconData(IconData(
-    0xe31f,
+    0xe320,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `woocommerce-icon`
   static const IconifyIconData woocommerceIcon = IconifyIconData(IconData(
-    0xe320,
+    0xe321,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `wordpress-icon-alt`
   static const IconifyIconData wordpressIconAlt = IconifyIconData(IconData(
-    0xe321,
+    0xe322,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `workboard`
   static const IconifyIconData workboard = IconifyIconData(IconData(
-    0xe322,
+    0xe323,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `wpengine`
   static const IconifyIconData wpengine = IconifyIconData(IconData(
-    0xe323,
+    0xe324,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `x`
   static const IconifyIconData x = IconifyIconData(IconData(
-    0xe324,
+    0xe325,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `x-ai`
   static const IconifyIconData xAi = IconifyIconData(IconData(
-    0xe325,
+    0xe326,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `x-ray-goggles`
   static const IconifyIconData xRayGoggles = IconifyIconData(IconData(
-    0xe326,
+    0xe327,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `xampp`
   static const IconifyIconData xampp = IconifyIconData(IconData(
-    0xe327,
+    0xe328,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `xata`
   static const IconifyIconData xata = IconifyIconData(IconData(
-    0xe328,
+    0xe329,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `xata-icon`
   static const IconifyIconData xataIcon = IconifyIconData(IconData(
-    0xe329,
+    0xe32a,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `xero`
   static const IconifyIconData xero = IconifyIconData(IconData(
-    0xe32a,
-    fontFamily: 'Logos',
-    fontPackage: 'iconifyx_logos',
-  ));
-
-  /// `xray-for-jira`
-  static const IconifyIconData xrayForJira = IconifyIconData(IconData(
     0xe32b,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
+  /// `xray-for-jira` — primary layer (full opacity)
+  static const IconifyIconData xrayForJiraPrimary = IconifyIconData(IconData(
+    0xe32c,
+    fontFamily: 'Logos',
+    fontPackage: 'iconifyx_logos',
+  ));
+
+  /// `xray-for-jira` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData xrayForJiraSecondary = IconifyIconData(IconData(
+    0xe32c,
+    fontFamily: 'LogosSecondary',
+    fontPackage: 'iconifyx_logos',
+  ));
+
   /// `xstate`
   static const IconifyIconData xstate = IconifyIconData(IconData(
-    0xe32c,
+    0xe32d,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `xtend`
   static const IconifyIconData xtend = IconifyIconData(IconData(
-    0xe32d,
+    0xe32e,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `yahoo`
   static const IconifyIconData yahoo = IconifyIconData(IconData(
-    0xe32e,
+    0xe32f,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `yaml`
   static const IconifyIconData yaml = IconifyIconData(IconData(
-    0xe32f,
+    0xe330,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `yandex-ru`
   static const IconifyIconData yandexRu = IconifyIconData(IconData(
-    0xe330,
+    0xe331,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `yarn`
   static const IconifyIconData yarn = IconifyIconData(IconData(
-    0xe331,
+    0xe332,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `ycombinator`
   static const IconifyIconData ycombinator = IconifyIconData(IconData(
-    0xe332,
+    0xe333,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `youtube-icon`
   static const IconifyIconData youtubeIcon = IconifyIconData(IconData(
-    0xe333,
+    0xe334,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `yugabyte-icon`
   static const IconifyIconData yugabyteIcon = IconifyIconData(IconData(
-    0xe334,
+    0xe335,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `zapier-icon`
   static const IconifyIconData zapierIcon = IconifyIconData(IconData(
-    0xe335,
+    0xe336,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `zend-framework`
   static const IconifyIconData zendFramework = IconifyIconData(IconData(
-    0xe336,
+    0xe337,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `zest`
   static const IconifyIconData zest = IconifyIconData(IconData(
-    0xe337,
+    0xe338,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `zoom`
   static const IconifyIconData zoom = IconifyIconData(IconData(
-    0xe338,
+    0xe339,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `zorin-os`
   static const IconifyIconData zorinOs = IconifyIconData(IconData(
-    0xe339,
+    0xe33a,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `zsh`
   static const IconifyIconData zsh = IconifyIconData(IconData(
-    0xe33a,
+    0xe33b,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `zube`
   static const IconifyIconData zube = IconifyIconData(IconData(
-    0xe33b,
+    0xe33c,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `zulip`
   static const IconifyIconData zulip = IconifyIconData(IconData(
-    0xe33c,
+    0xe33d,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));
 
   /// `zwave`
   static const IconifyIconData zwave = IconifyIconData(IconData(
-    0xe33d,
+    0xe33e,
     fontFamily: 'Logos',
     fontPackage: 'iconifyx_logos',
   ));

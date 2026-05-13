@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Norsk rikskringkasting
 /// License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-/// Icons: 187
+/// Icons: 187 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -247,10 +247,17 @@ class NrkIcons {
     fontPackage: 'iconifyx_nrk',
   ));
 
-  /// `dialogue`
-  static const IconifyIconData dialogue = IconifyIconData(IconData(
+  /// `dialogue` — primary layer (full opacity)
+  static const IconifyIconData dialoguePrimary = IconifyIconData(IconData(
     0xe021,
     fontFamily: 'Nrk',
+    fontPackage: 'iconifyx_nrk',
+  ));
+
+  /// `dialogue` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData dialogueSecondary = IconifyIconData(IconData(
+    0xe021,
+    fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
@@ -338,10 +345,17 @@ class NrkIcons {
     fontPackage: 'iconifyx_nrk',
   ));
 
-  /// `download`
-  static const IconifyIconData download = IconifyIconData(IconData(
+  /// `download` — primary layer (full opacity)
+  static const IconifyIconData downloadPrimary = IconifyIconData(IconData(
     0xe02e,
     fontFamily: 'Nrk',
+    fontPackage: 'iconifyx_nrk',
+  ));
+
+  /// `download` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData downloadSecondary = IconifyIconData(IconData(
+    0xe02e,
+    fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
@@ -359,10 +373,17 @@ class NrkIcons {
     fontPackage: 'iconifyx_nrk',
   ));
 
-  /// `edit`
-  static const IconifyIconData edit = IconifyIconData(IconData(
+  /// `edit` — primary layer (full opacity)
+  static const IconifyIconData editPrimary = IconifyIconData(IconData(
     0xe031,
     fontFamily: 'Nrk',
+    fontPackage: 'iconifyx_nrk',
+  ));
+
+  /// `edit` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData editSecondary = IconifyIconData(IconData(
+    0xe031,
+    fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
@@ -674,24 +695,45 @@ class NrkIcons {
     fontPackage: 'iconifyx_nrk',
   ));
 
-  /// `media-chromecast-1`
-  static const IconifyIconData mediaChromecast1 = IconifyIconData(IconData(
+  /// `media-chromecast-1` — primary layer (full opacity)
+  static const IconifyIconData mediaChromecast1Primary = IconifyIconData(IconData(
     0xe05e,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
-  /// `media-chromecast-2`
-  static const IconifyIconData mediaChromecast2 = IconifyIconData(IconData(
+  /// `media-chromecast-1` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData mediaChromecast1Secondary = IconifyIconData(IconData(
+    0xe05e,
+    fontFamily: 'NrkSecondary',
+    fontPackage: 'iconifyx_nrk',
+  ));
+
+  /// `media-chromecast-2` — primary layer (full opacity)
+  static const IconifyIconData mediaChromecast2Primary = IconifyIconData(IconData(
     0xe05f,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
-  /// `media-chromecast-3`
-  static const IconifyIconData mediaChromecast3 = IconifyIconData(IconData(
+  /// `media-chromecast-2` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData mediaChromecast2Secondary = IconifyIconData(IconData(
+    0xe05f,
+    fontFamily: 'NrkSecondary',
+    fontPackage: 'iconifyx_nrk',
+  ));
+
+  /// `media-chromecast-3` — primary layer (full opacity)
+  static const IconifyIconData mediaChromecast3Primary = IconifyIconData(IconData(
     0xe060,
     fontFamily: 'Nrk',
+    fontPackage: 'iconifyx_nrk',
+  ));
+
+  /// `media-chromecast-3` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData mediaChromecast3Secondary = IconifyIconData(IconData(
+    0xe060,
+    fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
@@ -709,17 +751,31 @@ class NrkIcons {
     fontPackage: 'iconifyx_nrk',
   ));
 
-  /// `media-direkte-golive`
-  static const IconifyIconData mediaDirekteGolive = IconifyIconData(IconData(
+  /// `media-direkte-golive` — primary layer (full opacity)
+  static const IconifyIconData mediaDirekteGolivePrimary = IconifyIconData(IconData(
     0xe063,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
-  /// `media-direkte-notlive`
-  static const IconifyIconData mediaDirekteNotlive = IconifyIconData(IconData(
+  /// `media-direkte-golive` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData mediaDirekteGoliveSecondary = IconifyIconData(IconData(
+    0xe063,
+    fontFamily: 'NrkSecondary',
+    fontPackage: 'iconifyx_nrk',
+  ));
+
+  /// `media-direkte-notlive` — primary layer (full opacity)
+  static const IconifyIconData mediaDirekteNotlivePrimary = IconifyIconData(IconData(
     0xe064,
     fontFamily: 'Nrk',
+    fontPackage: 'iconifyx_nrk',
+  ));
+
+  /// `media-direkte-notlive` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData mediaDirekteNotliveSecondary = IconifyIconData(IconData(
+    0xe064,
+    fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
@@ -779,10 +835,17 @@ class NrkIcons {
     fontPackage: 'iconifyx_nrk',
   ));
 
-  /// `media-media-incomplete`
-  static const IconifyIconData mediaMediaIncomplete = IconifyIconData(IconData(
+  /// `media-media-incomplete` — primary layer (full opacity)
+  static const IconifyIconData mediaMediaIncompletePrimary = IconifyIconData(IconData(
     0xe06d,
     fontFamily: 'Nrk',
+    fontPackage: 'iconifyx_nrk',
+  ));
+
+  /// `media-media-incomplete` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData mediaMediaIncompleteSecondary = IconifyIconData(IconData(
+    0xe06d,
+    fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
@@ -807,17 +870,31 @@ class NrkIcons {
     fontPackage: 'iconifyx_nrk',
   ));
 
-  /// `media-picture-in-picture`
-  static const IconifyIconData mediaPictureInPicture = IconifyIconData(IconData(
+  /// `media-picture-in-picture` — primary layer (full opacity)
+  static const IconifyIconData mediaPictureInPicturePrimary = IconifyIconData(IconData(
     0xe071,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
-  /// `media-picture-in-picture-active`
-  static const IconifyIconData mediaPictureInPictureActive = IconifyIconData(IconData(
+  /// `media-picture-in-picture` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData mediaPictureInPictureSecondary = IconifyIconData(IconData(
+    0xe071,
+    fontFamily: 'NrkSecondary',
+    fontPackage: 'iconifyx_nrk',
+  ));
+
+  /// `media-picture-in-picture-active` — primary layer (full opacity)
+  static const IconifyIconData mediaPictureInPictureActivePrimary = IconifyIconData(IconData(
     0xe072,
     fontFamily: 'Nrk',
+    fontPackage: 'iconifyx_nrk',
+  ));
+
+  /// `media-picture-in-picture-active` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData mediaPictureInPictureActiveSecondary = IconifyIconData(IconData(
+    0xe072,
+    fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
@@ -828,52 +905,101 @@ class NrkIcons {
     fontPackage: 'iconifyx_nrk',
   ));
 
-  /// `media-play-fail`
-  static const IconifyIconData mediaPlayFail = IconifyIconData(IconData(
+  /// `media-play-fail` — primary layer (full opacity)
+  static const IconifyIconData mediaPlayFailPrimary = IconifyIconData(IconData(
     0xe074,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
-  /// `media-playlist`
-  static const IconifyIconData mediaPlaylist = IconifyIconData(IconData(
+  /// `media-play-fail` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData mediaPlayFailSecondary = IconifyIconData(IconData(
+    0xe074,
+    fontFamily: 'NrkSecondary',
+    fontPackage: 'iconifyx_nrk',
+  ));
+
+  /// `media-playlist` — primary layer (full opacity)
+  static const IconifyIconData mediaPlaylistPrimary = IconifyIconData(IconData(
     0xe075,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
-  /// `media-playlist-add`
-  static const IconifyIconData mediaPlaylistAdd = IconifyIconData(IconData(
+  /// `media-playlist` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData mediaPlaylistSecondary = IconifyIconData(IconData(
+    0xe075,
+    fontFamily: 'NrkSecondary',
+    fontPackage: 'iconifyx_nrk',
+  ));
+
+  /// `media-playlist-add` — primary layer (full opacity)
+  static const IconifyIconData mediaPlaylistAddPrimary = IconifyIconData(IconData(
     0xe076,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
-  /// `media-playlist-add-later`
-  static const IconifyIconData mediaPlaylistAddLater = IconifyIconData(IconData(
+  /// `media-playlist-add` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData mediaPlaylistAddSecondary = IconifyIconData(IconData(
+    0xe076,
+    fontFamily: 'NrkSecondary',
+    fontPackage: 'iconifyx_nrk',
+  ));
+
+  /// `media-playlist-add-later` — primary layer (full opacity)
+  static const IconifyIconData mediaPlaylistAddLaterPrimary = IconifyIconData(IconData(
     0xe077,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
-  /// `media-playlist-add-next`
-  static const IconifyIconData mediaPlaylistAddNext = IconifyIconData(IconData(
+  /// `media-playlist-add-later` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData mediaPlaylistAddLaterSecondary = IconifyIconData(IconData(
+    0xe077,
+    fontFamily: 'NrkSecondary',
+    fontPackage: 'iconifyx_nrk',
+  ));
+
+  /// `media-playlist-add-next` — primary layer (full opacity)
+  static const IconifyIconData mediaPlaylistAddNextPrimary = IconifyIconData(IconData(
     0xe078,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
-  /// `media-playlist-added`
-  static const IconifyIconData mediaPlaylistAdded = IconifyIconData(IconData(
+  /// `media-playlist-add-next` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData mediaPlaylistAddNextSecondary = IconifyIconData(IconData(
+    0xe078,
+    fontFamily: 'NrkSecondary',
+    fontPackage: 'iconifyx_nrk',
+  ));
+
+  /// `media-playlist-added` — primary layer (full opacity)
+  static const IconifyIconData mediaPlaylistAddedPrimary = IconifyIconData(IconData(
     0xe079,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
-  /// `media-playlist-remove`
-  static const IconifyIconData mediaPlaylistRemove = IconifyIconData(IconData(
+  /// `media-playlist-added` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData mediaPlaylistAddedSecondary = IconifyIconData(IconData(
+    0xe079,
+    fontFamily: 'NrkSecondary',
+    fontPackage: 'iconifyx_nrk',
+  ));
+
+  /// `media-playlist-remove` — primary layer (full opacity)
+  static const IconifyIconData mediaPlaylistRemovePrimary = IconifyIconData(IconData(
     0xe07a,
     fontFamily: 'Nrk',
+    fontPackage: 'iconifyx_nrk',
+  ));
+
+  /// `media-playlist-remove` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData mediaPlaylistRemoveSecondary = IconifyIconData(IconData(
+    0xe07a,
+    fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
@@ -954,17 +1080,31 @@ class NrkIcons {
     fontPackage: 'iconifyx_nrk',
   ));
 
-  /// `media-theater`
-  static const IconifyIconData mediaTheater = IconifyIconData(IconData(
+  /// `media-theater` — primary layer (full opacity)
+  static const IconifyIconData mediaTheaterPrimary = IconifyIconData(IconData(
     0xe086,
     fontFamily: 'Nrk',
     fontPackage: 'iconifyx_nrk',
   ));
 
-  /// `media-theater-active`
-  static const IconifyIconData mediaTheaterActive = IconifyIconData(IconData(
+  /// `media-theater` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData mediaTheaterSecondary = IconifyIconData(IconData(
+    0xe086,
+    fontFamily: 'NrkSecondary',
+    fontPackage: 'iconifyx_nrk',
+  ));
+
+  /// `media-theater-active` — primary layer (full opacity)
+  static const IconifyIconData mediaTheaterActivePrimary = IconifyIconData(IconData(
     0xe087,
     fontFamily: 'Nrk',
+    fontPackage: 'iconifyx_nrk',
+  ));
+
+  /// `media-theater-active` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData mediaTheaterActiveSecondary = IconifyIconData(IconData(
+    0xe087,
+    fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
@@ -1045,10 +1185,17 @@ class NrkIcons {
     fontPackage: 'iconifyx_nrk',
   ));
 
-  /// `new-chat`
-  static const IconifyIconData newChat = IconifyIconData(IconData(
+  /// `new-chat` — primary layer (full opacity)
+  static const IconifyIconData newChatPrimary = IconifyIconData(IconData(
     0xe093,
     fontFamily: 'Nrk',
+    fontPackage: 'iconifyx_nrk',
+  ));
+
+  /// `new-chat` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData newChatSecondary = IconifyIconData(IconData(
+    0xe093,
+    fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 
@@ -1087,10 +1234,17 @@ class NrkIcons {
     fontPackage: 'iconifyx_nrk',
   ));
 
-  /// `progress`
-  static const IconifyIconData progress = IconifyIconData(IconData(
+  /// `progress` — primary layer (full opacity)
+  static const IconifyIconData progressPrimary = IconifyIconData(IconData(
     0xe099,
     fontFamily: 'Nrk',
+    fontPackage: 'iconifyx_nrk',
+  ));
+
+  /// `progress` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData progressSecondary = IconifyIconData(IconData(
+    0xe099,
+    fontFamily: 'NrkSecondary',
     fontPackage: 'iconifyx_nrk',
   ));
 

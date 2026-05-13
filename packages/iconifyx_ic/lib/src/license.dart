@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'Apache 2.0',
   licenseSpdx: 'Apache-2.0',
   licenseUrl: 'https://github.com/material-icons/material-icons/blob/master/LICENSE',
-  iconCount: 11008,
+  iconCount: 11012,
 );

@@ -140,6 +140,23 @@ Browse every bundled set in a paginated drawer view. Filter icons by name. Tap a
 
 **Stroke-only sets** like Lucide, Tabler, Iconoir, Heroicons-outline, mdi-light, Phosphor-thin, Feather — these need their stroked outlines converted to filled outlines before font conversion, otherwise they render as solid blobs in the bundle. The generator handles this automatically for sets listed under `strokeFillSets` in `tools/generator/config.yaml`. First run is slow (~10–20 s per stroke set) because each icon is rasterized + Potrace-traced; subsequent runs are nearly instant thanks to disk-cached results.
 
+**Duo-tone icons** (Phosphor `*-duotone`, Solar `*-bold-duotone`, IC family, ~36 sets total / ~5.9k icons) get split into two separate glyphs per icon — primary (full opacity) and secondary (translucent). The package emits both in a single class:
+
+```dart
+import 'package:iconifyx_ph/iconifyx_ph.dart';
+import 'package:iconifyx_core/iconifyx_core.dart';
+
+IconifyDuotoneIcon(
+  PhIcons.acornDuotonePrimary,
+  PhIcons.acornDuotoneSecondary,
+  primaryColor: Colors.blue,
+  secondaryColor: Colors.red,
+  secondaryOpacity: 0.5,
+)
+```
+
+Stack-based rendering composes the two `Icon` widgets at runtime. Tree-shake works on each layer independently.
+
 ## License
 
 The generator code (under `tools/`) and the wrapper package (`iconifyx_core`) are MIT-licensed.

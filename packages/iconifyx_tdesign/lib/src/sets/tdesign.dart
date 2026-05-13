@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: TDesign
 /// License: MIT — https://github.com/Tencent/tdesign-icons/blob/main/LICENSE
-/// Icons: 2364
+/// Icons: 2364 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -11349,10 +11349,17 @@ class TdesignIcons {
     fontPackage: 'iconifyx_tdesign',
   ));
 
-  /// `order`
-  static const IconifyIconData order = IconifyIconData(IconData(
+  /// `order` — primary layer (full opacity)
+  static const IconifyIconData orderPrimary = IconifyIconData(IconData(
     0xe653,
     fontFamily: 'Tdesign',
+    fontPackage: 'iconifyx_tdesign',
+  ));
+
+  /// `order` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData orderSecondary = IconifyIconData(IconData(
+    0xe653,
+    fontFamily: 'TdesignSecondary',
     fontPackage: 'iconifyx_tdesign',
   ));
 

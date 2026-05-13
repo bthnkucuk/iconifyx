@@ -16,13 +16,18 @@
       "spdx": "GPL-2.0-or-later",
       "url": "https://github.com/WordPress/gutenberg/blob/HEAD/LICENSE.md#gnu-general-public-license-version-2"
     },
-    "total": 270
+    "total": 271
   },
   "fonts": [
     {
       "family": "Wordpress",
-      "nextCodepoint": 57614,
-      "iconCount": 270
+      "nextCodepoint": 57615,
+      "iconCount": 271
+    },
+    {
+      "family": "WordpressSecondary",
+      "nextCodepoint": 57615,
+      "iconCount": 1
     }
   ],
   "icons": {
@@ -336,1043 +341,1049 @@
       "fontFamily": "Wordpress",
       "identifier": "copy"
     },
-    "cover": {
+    "corner-bottom-right": {
       "codepoint": 57406,
+      "fontFamily": "Wordpress",
+      "identifier": "cornerBottomRight",
+      "duotone": true
+    },
+    "cover": {
+      "codepoint": 57407,
       "fontFamily": "Wordpress",
       "identifier": "cover"
     },
     "create": {
-      "codepoint": 57407,
+      "codepoint": 57408,
       "fontFamily": "Wordpress",
       "identifier": "create"
     },
     "currency-dollar": {
-      "codepoint": 57408,
+      "codepoint": 57409,
       "fontFamily": "Wordpress",
       "identifier": "currencyDollar"
     },
     "currency-euro": {
-      "codepoint": 57409,
+      "codepoint": 57410,
       "fontFamily": "Wordpress",
       "identifier": "currencyEuro"
     },
     "currency-pound": {
-      "codepoint": 57410,
+      "codepoint": 57411,
       "fontFamily": "Wordpress",
       "identifier": "currencyPound"
     },
     "custom-link": {
-      "codepoint": 57411,
+      "codepoint": 57412,
       "fontFamily": "Wordpress",
       "identifier": "customLink"
     },
     "custom-post-type": {
-      "codepoint": 57412,
+      "codepoint": 57413,
       "fontFamily": "Wordpress",
       "identifier": "customPostType"
     },
     "desktop": {
-      "codepoint": 57413,
+      "codepoint": 57414,
       "fontFamily": "Wordpress",
       "identifier": "desktop"
     },
     "details": {
-      "codepoint": 57414,
+      "codepoint": 57415,
       "fontFamily": "Wordpress",
       "identifier": "details"
     },
     "download": {
-      "codepoint": 57415,
+      "codepoint": 57416,
       "fontFamily": "Wordpress",
       "identifier": "download"
     },
     "drafts": {
-      "codepoint": 57416,
+      "codepoint": 57417,
       "fontFamily": "Wordpress",
       "identifier": "drafts"
     },
     "drag-handle": {
-      "codepoint": 57417,
+      "codepoint": 57418,
       "fontFamily": "Wordpress",
       "identifier": "dragHandle"
     },
     "drawer-left": {
-      "codepoint": 57418,
+      "codepoint": 57419,
       "fontFamily": "Wordpress",
       "identifier": "drawerLeft"
     },
     "drawer-right": {
-      "codepoint": 57419,
+      "codepoint": 57420,
       "fontFamily": "Wordpress",
       "identifier": "drawerRight"
     },
     "envelope": {
-      "codepoint": 57420,
+      "codepoint": 57421,
       "fontFamily": "Wordpress",
       "identifier": "envelope"
     },
     "external": {
-      "codepoint": 57421,
+      "codepoint": 57422,
       "fontFamily": "Wordpress",
       "identifier": "external_"
     },
     "filter": {
-      "codepoint": 57422,
+      "codepoint": 57423,
       "fontFamily": "Wordpress",
       "identifier": "filter"
     },
     "flip-horizontal": {
-      "codepoint": 57423,
+      "codepoint": 57424,
       "fontFamily": "Wordpress",
       "identifier": "flipHorizontal"
     },
     "flip-vertical": {
-      "codepoint": 57424,
+      "codepoint": 57425,
       "fontFamily": "Wordpress",
       "identifier": "flipVertical"
     },
     "footer": {
-      "codepoint": 57425,
+      "codepoint": 57426,
       "fontFamily": "Wordpress",
       "identifier": "footer"
     },
     "format-bold": {
-      "codepoint": 57426,
+      "codepoint": 57427,
       "fontFamily": "Wordpress",
       "identifier": "formatBold"
     },
     "format-capitalize": {
-      "codepoint": 57427,
+      "codepoint": 57428,
       "fontFamily": "Wordpress",
       "identifier": "formatCapitalize"
     },
     "format-indent": {
-      "codepoint": 57428,
+      "codepoint": 57429,
       "fontFamily": "Wordpress",
       "identifier": "formatIndent"
     },
     "format-indent-rtl": {
-      "codepoint": 57429,
+      "codepoint": 57430,
       "fontFamily": "Wordpress",
       "identifier": "formatIndentRtl"
     },
     "format-italic": {
-      "codepoint": 57430,
+      "codepoint": 57431,
       "fontFamily": "Wordpress",
       "identifier": "formatItalic"
     },
     "format-list-bullets": {
-      "codepoint": 57431,
+      "codepoint": 57432,
       "fontFamily": "Wordpress",
       "identifier": "formatListBullets"
     },
     "format-list-bullets-rtl": {
-      "codepoint": 57432,
+      "codepoint": 57433,
       "fontFamily": "Wordpress",
       "identifier": "formatListBulletsRtl"
     },
     "format-list-numbered": {
-      "codepoint": 57433,
+      "codepoint": 57434,
       "fontFamily": "Wordpress",
       "identifier": "formatListNumbered"
     },
     "format-list-numbered-rtl": {
-      "codepoint": 57434,
+      "codepoint": 57435,
       "fontFamily": "Wordpress",
       "identifier": "formatListNumberedRtl"
     },
     "format-lowercase": {
-      "codepoint": 57435,
+      "codepoint": 57436,
       "fontFamily": "Wordpress",
       "identifier": "formatLowercase"
     },
     "format-ltr": {
-      "codepoint": 57436,
+      "codepoint": 57437,
       "fontFamily": "Wordpress",
       "identifier": "formatLtr"
     },
     "format-outdent": {
-      "codepoint": 57437,
+      "codepoint": 57438,
       "fontFamily": "Wordpress",
       "identifier": "formatOutdent"
     },
     "format-outdent-rtl": {
-      "codepoint": 57438,
+      "codepoint": 57439,
       "fontFamily": "Wordpress",
       "identifier": "formatOutdentRtl"
     },
     "format-rtl": {
-      "codepoint": 57439,
+      "codepoint": 57440,
       "fontFamily": "Wordpress",
       "identifier": "formatRtl"
     },
     "format-strikethrough": {
-      "codepoint": 57440,
+      "codepoint": 57441,
       "fontFamily": "Wordpress",
       "identifier": "formatStrikethrough"
     },
     "format-underline": {
-      "codepoint": 57441,
+      "codepoint": 57442,
       "fontFamily": "Wordpress",
       "identifier": "formatUnderline"
     },
     "format-uppercase": {
-      "codepoint": 57442,
+      "codepoint": 57443,
       "fontFamily": "Wordpress",
       "identifier": "formatUppercase"
     },
     "full-height": {
-      "codepoint": 57443,
+      "codepoint": 57444,
       "fontFamily": "Wordpress",
       "identifier": "fullHeight"
     },
     "fullscreen": {
-      "codepoint": 57444,
+      "codepoint": 57445,
       "fontFamily": "Wordpress",
       "identifier": "fullscreen"
     },
     "funnel": {
-      "codepoint": 57445,
+      "codepoint": 57446,
       "fontFamily": "Wordpress",
       "identifier": "funnel"
     },
     "globe": {
-      "codepoint": 57446,
+      "codepoint": 57447,
       "fontFamily": "Wordpress",
       "identifier": "globe"
     },
     "grid": {
-      "codepoint": 57447,
+      "codepoint": 57448,
       "fontFamily": "Wordpress",
       "identifier": "grid"
     },
     "group": {
-      "codepoint": 57448,
+      "codepoint": 57449,
       "fontFamily": "Wordpress",
       "identifier": "group"
     },
     "handle": {
-      "codepoint": 57449,
+      "codepoint": 57450,
       "fontFamily": "Wordpress",
       "identifier": "handle"
     },
     "header": {
-      "codepoint": 57450,
+      "codepoint": 57451,
       "fontFamily": "Wordpress",
       "identifier": "header"
     },
     "heading": {
-      "codepoint": 57451,
+      "codepoint": 57452,
       "fontFamily": "Wordpress",
       "identifier": "heading"
     },
     "heading-level-1": {
-      "codepoint": 57452,
+      "codepoint": 57453,
       "fontFamily": "Wordpress",
       "identifier": "headingLevel1"
     },
     "heading-level-2": {
-      "codepoint": 57453,
+      "codepoint": 57454,
       "fontFamily": "Wordpress",
       "identifier": "headingLevel2"
     },
     "heading-level-3": {
-      "codepoint": 57454,
+      "codepoint": 57455,
       "fontFamily": "Wordpress",
       "identifier": "headingLevel3"
     },
     "heading-level-4": {
-      "codepoint": 57455,
+      "codepoint": 57456,
       "fontFamily": "Wordpress",
       "identifier": "headingLevel4"
     },
     "heading-level-5": {
-      "codepoint": 57456,
+      "codepoint": 57457,
       "fontFamily": "Wordpress",
       "identifier": "headingLevel5"
     },
     "heading-level-6": {
-      "codepoint": 57457,
+      "codepoint": 57458,
       "fontFamily": "Wordpress",
       "identifier": "headingLevel6"
     },
     "help-filled": {
-      "codepoint": 57458,
+      "codepoint": 57459,
       "fontFamily": "Wordpress",
       "identifier": "helpFilled"
     },
     "home": {
-      "codepoint": 57459,
+      "codepoint": 57460,
       "fontFamily": "Wordpress",
       "identifier": "home"
     },
     "home-button": {
-      "codepoint": 57460,
+      "codepoint": 57461,
       "fontFamily": "Wordpress",
       "identifier": "homeButton"
     },
     "html": {
-      "codepoint": 57461,
+      "codepoint": 57462,
       "fontFamily": "Wordpress",
       "identifier": "html"
     },
     "image": {
-      "codepoint": 57462,
+      "codepoint": 57463,
       "fontFamily": "Wordpress",
       "identifier": "image"
     },
     "inbox": {
-      "codepoint": 57463,
+      "codepoint": 57464,
       "fontFamily": "Wordpress",
       "identifier": "inbox"
     },
     "info": {
-      "codepoint": 57464,
+      "codepoint": 57465,
       "fontFamily": "Wordpress",
       "identifier": "info"
     },
     "insert-after": {
-      "codepoint": 57465,
+      "codepoint": 57466,
       "fontFamily": "Wordpress",
       "identifier": "insertAfter"
     },
     "insert-before": {
-      "codepoint": 57466,
+      "codepoint": 57467,
       "fontFamily": "Wordpress",
       "identifier": "insertBefore"
     },
     "justify-bottom": {
-      "codepoint": 57467,
+      "codepoint": 57468,
       "fontFamily": "Wordpress",
       "identifier": "justifyBottom"
     },
     "justify-center": {
-      "codepoint": 57468,
+      "codepoint": 57469,
       "fontFamily": "Wordpress",
       "identifier": "justifyCenter"
     },
     "justify-center-vertical": {
-      "codepoint": 57469,
+      "codepoint": 57470,
       "fontFamily": "Wordpress",
       "identifier": "justifyCenterVertical"
     },
     "justify-left": {
-      "codepoint": 57470,
+      "codepoint": 57471,
       "fontFamily": "Wordpress",
       "identifier": "justifyLeft"
     },
     "justify-right": {
-      "codepoint": 57471,
+      "codepoint": 57472,
       "fontFamily": "Wordpress",
       "identifier": "justifyRight"
     },
     "justify-space-between": {
-      "codepoint": 57472,
+      "codepoint": 57473,
       "fontFamily": "Wordpress",
       "identifier": "justifySpaceBetween"
     },
     "justify-space-between-vertical": {
-      "codepoint": 57473,
+      "codepoint": 57474,
       "fontFamily": "Wordpress",
       "identifier": "justifySpaceBetweenVertical"
     },
     "justify-stretch": {
-      "codepoint": 57474,
+      "codepoint": 57475,
       "fontFamily": "Wordpress",
       "identifier": "justifyStretch"
     },
     "justify-stretch-vertical": {
-      "codepoint": 57475,
+      "codepoint": 57476,
       "fontFamily": "Wordpress",
       "identifier": "justifyStretchVertical"
     },
     "justify-top": {
-      "codepoint": 57476,
+      "codepoint": 57477,
       "fontFamily": "Wordpress",
       "identifier": "justifyTop"
     },
     "key": {
-      "codepoint": 57477,
+      "codepoint": 57478,
       "fontFamily": "Wordpress",
       "identifier": "key"
     },
     "keyboard": {
-      "codepoint": 57478,
+      "codepoint": 57479,
       "fontFamily": "Wordpress",
       "identifier": "keyboard"
     },
     "keyboard-close": {
-      "codepoint": 57479,
+      "codepoint": 57480,
       "fontFamily": "Wordpress",
       "identifier": "keyboardClose"
     },
     "language": {
-      "codepoint": 57480,
+      "codepoint": 57481,
       "fontFamily": "Wordpress",
       "identifier": "language"
     },
     "layout": {
-      "codepoint": 57481,
+      "codepoint": 57482,
       "fontFamily": "Wordpress",
       "identifier": "layout"
     },
     "line-dashed": {
-      "codepoint": 57482,
+      "codepoint": 57483,
       "fontFamily": "Wordpress",
       "identifier": "lineDashed"
     },
     "line-dotted": {
-      "codepoint": 57483,
+      "codepoint": 57484,
       "fontFamily": "Wordpress",
       "identifier": "lineDotted"
     },
     "line-solid": {
-      "codepoint": 57484,
+      "codepoint": 57485,
       "fontFamily": "Wordpress",
       "identifier": "lineSolid"
     },
     "link": {
-      "codepoint": 57485,
+      "codepoint": 57486,
       "fontFamily": "Wordpress",
       "identifier": "link"
     },
     "list": {
-      "codepoint": 57486,
+      "codepoint": 57487,
       "fontFamily": "Wordpress",
       "identifier": "list"
     },
     "list-item": {
-      "codepoint": 57487,
+      "codepoint": 57488,
       "fontFamily": "Wordpress",
       "identifier": "listItem"
     },
     "list-view": {
-      "codepoint": 57488,
+      "codepoint": 57489,
       "fontFamily": "Wordpress",
       "identifier": "listView"
     },
     "lock": {
-      "codepoint": 57489,
+      "codepoint": 57490,
       "fontFamily": "Wordpress",
       "identifier": "lock"
     },
     "lock-outline": {
-      "codepoint": 57490,
+      "codepoint": 57491,
       "fontFamily": "Wordpress",
       "identifier": "lockOutline"
     },
     "lock-small": {
-      "codepoint": 57491,
+      "codepoint": 57492,
       "fontFamily": "Wordpress",
       "identifier": "lockSmall"
     },
     "login": {
-      "codepoint": 57492,
+      "codepoint": 57493,
       "fontFamily": "Wordpress",
       "identifier": "login"
     },
     "map-marker": {
-      "codepoint": 57493,
+      "codepoint": 57494,
       "fontFamily": "Wordpress",
       "identifier": "mapMarker"
     },
     "math": {
-      "codepoint": 57494,
+      "codepoint": 57495,
       "fontFamily": "Wordpress",
       "identifier": "math"
     },
     "media": {
-      "codepoint": 57495,
+      "codepoint": 57496,
       "fontFamily": "Wordpress",
       "identifier": "media"
     },
     "media-and-text": {
-      "codepoint": 57496,
+      "codepoint": 57497,
       "fontFamily": "Wordpress",
       "identifier": "mediaAndText"
     },
     "menu": {
-      "codepoint": 57497,
+      "codepoint": 57498,
       "fontFamily": "Wordpress",
       "identifier": "menu"
     },
     "mobile": {
-      "codepoint": 57498,
+      "codepoint": 57499,
       "fontFamily": "Wordpress",
       "identifier": "mobile"
     },
     "more": {
-      "codepoint": 57499,
+      "codepoint": 57500,
       "fontFamily": "Wordpress",
       "identifier": "more"
     },
     "more-horizontal": {
-      "codepoint": 57500,
+      "codepoint": 57501,
       "fontFamily": "Wordpress",
       "identifier": "moreHorizontal"
     },
     "more-vertical": {
-      "codepoint": 57501,
+      "codepoint": 57502,
       "fontFamily": "Wordpress",
       "identifier": "moreVertical"
     },
     "navigation": {
-      "codepoint": 57502,
+      "codepoint": 57503,
       "fontFamily": "Wordpress",
       "identifier": "navigation"
     },
     "navigation-overlay": {
-      "codepoint": 57503,
+      "codepoint": 57504,
       "fontFamily": "Wordpress",
       "identifier": "navigationOverlay"
     },
     "next": {
-      "codepoint": 57504,
+      "codepoint": 57505,
       "fontFamily": "Wordpress",
       "identifier": "next"
     },
     "not-allowed": {
-      "codepoint": 57505,
+      "codepoint": 57506,
       "fontFamily": "Wordpress",
       "identifier": "notAllowed"
     },
     "overlay-text": {
-      "codepoint": 57506,
+      "codepoint": 57507,
       "fontFamily": "Wordpress",
       "identifier": "overlayText"
     },
     "page": {
-      "codepoint": 57507,
+      "codepoint": 57508,
       "fontFamily": "Wordpress",
       "identifier": "page"
     },
     "page-break": {
-      "codepoint": 57508,
+      "codepoint": 57509,
       "fontFamily": "Wordpress",
       "identifier": "pageBreak"
     },
     "payment": {
-      "codepoint": 57509,
+      "codepoint": 57510,
       "fontFamily": "Wordpress",
       "identifier": "payment"
     },
     "pencil": {
-      "codepoint": 57510,
+      "codepoint": 57511,
       "fontFamily": "Wordpress",
       "identifier": "pencil"
     },
     "pending": {
-      "codepoint": 57511,
+      "codepoint": 57512,
       "fontFamily": "Wordpress",
       "identifier": "pending"
     },
     "people": {
-      "codepoint": 57512,
+      "codepoint": 57513,
       "fontFamily": "Wordpress",
       "identifier": "people"
     },
     "percent": {
-      "codepoint": 57513,
+      "codepoint": 57514,
       "fontFamily": "Wordpress",
       "identifier": "percent"
     },
     "pin": {
-      "codepoint": 57514,
+      "codepoint": 57515,
       "fontFamily": "Wordpress",
       "identifier": "pin"
     },
     "plugins": {
-      "codepoint": 57515,
+      "codepoint": 57516,
       "fontFamily": "Wordpress",
       "identifier": "plugins"
     },
     "plus": {
-      "codepoint": 57516,
+      "codepoint": 57517,
       "fontFamily": "Wordpress",
       "identifier": "plus"
     },
     "plus-circle": {
-      "codepoint": 57517,
+      "codepoint": 57518,
       "fontFamily": "Wordpress",
       "identifier": "plusCircle"
     },
     "plus-circle-filled": {
-      "codepoint": 57518,
+      "codepoint": 57519,
       "fontFamily": "Wordpress",
       "identifier": "plusCircleFilled"
     },
     "position-center": {
-      "codepoint": 57519,
+      "codepoint": 57520,
       "fontFamily": "Wordpress",
       "identifier": "positionCenter"
     },
     "position-left": {
-      "codepoint": 57520,
+      "codepoint": 57521,
       "fontFamily": "Wordpress",
       "identifier": "positionLeft"
     },
     "position-right": {
-      "codepoint": 57521,
+      "codepoint": 57522,
       "fontFamily": "Wordpress",
       "identifier": "positionRight"
     },
     "post": {
-      "codepoint": 57522,
+      "codepoint": 57523,
       "fontFamily": "Wordpress",
       "identifier": "post"
     },
     "post-author": {
-      "codepoint": 57523,
+      "codepoint": 57524,
       "fontFamily": "Wordpress",
       "identifier": "postAuthor"
     },
     "post-categories": {
-      "codepoint": 57524,
+      "codepoint": 57525,
       "fontFamily": "Wordpress",
       "identifier": "postCategories"
     },
     "post-comments": {
-      "codepoint": 57525,
+      "codepoint": 57526,
       "fontFamily": "Wordpress",
       "identifier": "postComments"
     },
     "post-comments-count": {
-      "codepoint": 57526,
+      "codepoint": 57527,
       "fontFamily": "Wordpress",
       "identifier": "postCommentsCount"
     },
     "post-comments-form": {
-      "codepoint": 57527,
+      "codepoint": 57528,
       "fontFamily": "Wordpress",
       "identifier": "postCommentsForm"
     },
     "post-content": {
-      "codepoint": 57528,
+      "codepoint": 57529,
       "fontFamily": "Wordpress",
       "identifier": "postContent"
     },
     "post-excerpt": {
-      "codepoint": 57529,
+      "codepoint": 57530,
       "fontFamily": "Wordpress",
       "identifier": "postExcerpt"
     },
     "post-featured-image": {
-      "codepoint": 57530,
+      "codepoint": 57531,
       "fontFamily": "Wordpress",
       "identifier": "postFeaturedImage"
     },
     "post-list": {
-      "codepoint": 57531,
+      "codepoint": 57532,
       "fontFamily": "Wordpress",
       "identifier": "postList"
     },
     "post-terms": {
-      "codepoint": 57532,
+      "codepoint": 57533,
       "fontFamily": "Wordpress",
       "identifier": "postTerms"
     },
     "preformatted": {
-      "codepoint": 57533,
+      "codepoint": 57534,
       "fontFamily": "Wordpress",
       "identifier": "preformatted"
     },
     "previous": {
-      "codepoint": 57534,
+      "codepoint": 57535,
       "fontFamily": "Wordpress",
       "identifier": "previous"
     },
     "published": {
-      "codepoint": 57535,
+      "codepoint": 57536,
       "fontFamily": "Wordpress",
       "identifier": "published"
     },
     "pull-left": {
-      "codepoint": 57536,
+      "codepoint": 57537,
       "fontFamily": "Wordpress",
       "identifier": "pullLeft"
     },
     "pull-right": {
-      "codepoint": 57537,
+      "codepoint": 57538,
       "fontFamily": "Wordpress",
       "identifier": "pullRight"
     },
     "pullquote": {
-      "codepoint": 57538,
+      "codepoint": 57539,
       "fontFamily": "Wordpress",
       "identifier": "pullquote"
     },
     "query-pagination": {
-      "codepoint": 57539,
+      "codepoint": 57540,
       "fontFamily": "Wordpress",
       "identifier": "queryPagination"
     },
     "query-pagination-next": {
-      "codepoint": 57540,
+      "codepoint": 57541,
       "fontFamily": "Wordpress",
       "identifier": "queryPaginationNext"
     },
     "query-pagination-numbers": {
-      "codepoint": 57541,
+      "codepoint": 57542,
       "fontFamily": "Wordpress",
       "identifier": "queryPaginationNumbers"
     },
     "query-pagination-previous": {
-      "codepoint": 57542,
+      "codepoint": 57543,
       "fontFamily": "Wordpress",
       "identifier": "queryPaginationPrevious"
     },
     "quote": {
-      "codepoint": 57543,
+      "codepoint": 57544,
       "fontFamily": "Wordpress",
       "identifier": "quote"
     },
     "redo": {
-      "codepoint": 57544,
+      "codepoint": 57545,
       "fontFamily": "Wordpress",
       "identifier": "redo"
     },
     "replace": {
-      "codepoint": 57545,
+      "codepoint": 57546,
       "fontFamily": "Wordpress",
       "identifier": "replace"
     },
     "reset": {
-      "codepoint": 57546,
+      "codepoint": 57547,
       "fontFamily": "Wordpress",
       "identifier": "reset"
     },
     "resize-corner-n-e": {
-      "codepoint": 57547,
+      "codepoint": 57548,
       "fontFamily": "Wordpress",
       "identifier": "resizeCornerNE"
     },
     "resize-corner-ne": {
-      "codepoint": 57548,
+      "codepoint": 57549,
       "fontFamily": "Wordpress",
       "identifier": "resizeCornerNe"
     },
     "reusable-block": {
-      "codepoint": 57549,
+      "codepoint": 57550,
       "fontFamily": "Wordpress",
       "identifier": "reusableBlock"
     },
     "rotate-left": {
-      "codepoint": 57550,
+      "codepoint": 57551,
       "fontFamily": "Wordpress",
       "identifier": "rotateLeft"
     },
     "rotate-right": {
-      "codepoint": 57551,
+      "codepoint": 57552,
       "fontFamily": "Wordpress",
       "identifier": "rotateRight"
     },
     "row": {
-      "codepoint": 57552,
+      "codepoint": 57553,
       "fontFamily": "Wordpress",
       "identifier": "row"
     },
     "rss": {
-      "codepoint": 57553,
+      "codepoint": 57554,
       "fontFamily": "Wordpress",
       "identifier": "rss"
     },
     "scheduled": {
-      "codepoint": 57554,
+      "codepoint": 57555,
       "fontFamily": "Wordpress",
       "identifier": "scheduled"
     },
     "search": {
-      "codepoint": 57555,
+      "codepoint": 57556,
       "fontFamily": "Wordpress",
       "identifier": "search"
     },
     "separator": {
-      "codepoint": 57556,
+      "codepoint": 57557,
       "fontFamily": "Wordpress",
       "identifier": "separator"
     },
     "settings": {
-      "codepoint": 57557,
+      "codepoint": 57558,
       "fontFamily": "Wordpress",
       "identifier": "settings"
     },
     "shadow": {
-      "codepoint": 57558,
+      "codepoint": 57559,
       "fontFamily": "Wordpress",
       "identifier": "shadow"
     },
     "share": {
-      "codepoint": 57559,
+      "codepoint": 57560,
       "fontFamily": "Wordpress",
       "identifier": "share"
     },
     "shortcode": {
-      "codepoint": 57560,
+      "codepoint": 57561,
       "fontFamily": "Wordpress",
       "identifier": "shortcode"
     },
     "sidebar": {
-      "codepoint": 57561,
+      "codepoint": 57562,
       "fontFamily": "Wordpress",
       "identifier": "sidebar"
     },
     "sides-all": {
-      "codepoint": 57562,
+      "codepoint": 57563,
       "fontFamily": "Wordpress",
       "identifier": "sidesAll"
     },
     "sides-axial": {
-      "codepoint": 57563,
+      "codepoint": 57564,
       "fontFamily": "Wordpress",
       "identifier": "sidesAxial"
     },
     "sides-bottom": {
-      "codepoint": 57564,
+      "codepoint": 57565,
       "fontFamily": "Wordpress",
       "identifier": "sidesBottom"
     },
     "sides-horizontal": {
-      "codepoint": 57565,
+      "codepoint": 57566,
       "fontFamily": "Wordpress",
       "identifier": "sidesHorizontal"
     },
     "sides-left": {
-      "codepoint": 57566,
+      "codepoint": 57567,
       "fontFamily": "Wordpress",
       "identifier": "sidesLeft"
     },
     "sides-right": {
-      "codepoint": 57567,
+      "codepoint": 57568,
       "fontFamily": "Wordpress",
       "identifier": "sidesRight"
     },
     "sides-top": {
-      "codepoint": 57568,
+      "codepoint": 57569,
       "fontFamily": "Wordpress",
       "identifier": "sidesTop"
     },
     "sides-vertical": {
-      "codepoint": 57569,
+      "codepoint": 57570,
       "fontFamily": "Wordpress",
       "identifier": "sidesVertical"
     },
     "site-logo": {
-      "codepoint": 57570,
+      "codepoint": 57571,
       "fontFamily": "Wordpress",
       "identifier": "siteLogo"
     },
     "square": {
-      "codepoint": 57571,
+      "codepoint": 57572,
       "fontFamily": "Wordpress",
       "identifier": "square"
     },
     "stack": {
-      "codepoint": 57572,
+      "codepoint": 57573,
       "fontFamily": "Wordpress",
       "identifier": "stack"
     },
     "stretch-full-width": {
-      "codepoint": 57573,
+      "codepoint": 57574,
       "fontFamily": "Wordpress",
       "identifier": "stretchFullWidth"
     },
     "stretch-wide": {
-      "codepoint": 57574,
+      "codepoint": 57575,
       "fontFamily": "Wordpress",
       "identifier": "stretchWide"
     },
     "styles": {
-      "codepoint": 57575,
+      "codepoint": 57576,
       "fontFamily": "Wordpress",
       "identifier": "styles"
     },
     "subscript": {
-      "codepoint": 57576,
+      "codepoint": 57577,
       "fontFamily": "Wordpress",
       "identifier": "subscript"
     },
     "superscript": {
-      "codepoint": 57577,
+      "codepoint": 57578,
       "fontFamily": "Wordpress",
       "identifier": "superscript"
     },
     "swatch": {
-      "codepoint": 57578,
+      "codepoint": 57579,
       "fontFamily": "Wordpress",
       "identifier": "swatch"
     },
     "symbol": {
-      "codepoint": 57579,
+      "codepoint": 57580,
       "fontFamily": "Wordpress",
       "identifier": "symbol"
     },
     "symbol-filled": {
-      "codepoint": 57580,
+      "codepoint": 57581,
       "fontFamily": "Wordpress",
       "identifier": "symbolFilled"
     },
     "tab-list": {
-      "codepoint": 57581,
+      "codepoint": 57582,
       "fontFamily": "Wordpress",
       "identifier": "tabList"
     },
     "tab-panel": {
-      "codepoint": 57582,
+      "codepoint": 57583,
       "fontFamily": "Wordpress",
       "identifier": "tabPanel"
     },
     "table": {
-      "codepoint": 57583,
+      "codepoint": 57584,
       "fontFamily": "Wordpress",
       "identifier": "table"
     },
     "table-column-after": {
-      "codepoint": 57584,
+      "codepoint": 57585,
       "fontFamily": "Wordpress",
       "identifier": "tableColumnAfter"
     },
     "table-column-before": {
-      "codepoint": 57585,
+      "codepoint": 57586,
       "fontFamily": "Wordpress",
       "identifier": "tableColumnBefore"
     },
     "table-column-delete": {
-      "codepoint": 57586,
+      "codepoint": 57587,
       "fontFamily": "Wordpress",
       "identifier": "tableColumnDelete"
     },
     "table-of-contents": {
-      "codepoint": 57587,
+      "codepoint": 57588,
       "fontFamily": "Wordpress",
       "identifier": "tableOfContents"
     },
     "table-row-after": {
-      "codepoint": 57588,
+      "codepoint": 57589,
       "fontFamily": "Wordpress",
       "identifier": "tableRowAfter"
     },
     "table-row-before": {
-      "codepoint": 57589,
+      "codepoint": 57590,
       "fontFamily": "Wordpress",
       "identifier": "tableRowBefore"
     },
     "table-row-delete": {
-      "codepoint": 57590,
+      "codepoint": 57591,
       "fontFamily": "Wordpress",
       "identifier": "tableRowDelete"
     },
     "tablet": {
-      "codepoint": 57591,
+      "codepoint": 57592,
       "fontFamily": "Wordpress",
       "identifier": "tablet"
     },
     "tabs": {
-      "codepoint": 57592,
+      "codepoint": 57593,
       "fontFamily": "Wordpress",
       "identifier": "tabs"
     },
     "tabs-menu": {
-      "codepoint": 57593,
+      "codepoint": 57594,
       "fontFamily": "Wordpress",
       "identifier": "tabsMenu"
     },
     "text-color": {
-      "codepoint": 57594,
+      "codepoint": 57595,
       "fontFamily": "Wordpress",
       "identifier": "textColor"
     },
     "text-horizontal": {
-      "codepoint": 57595,
+      "codepoint": 57596,
       "fontFamily": "Wordpress",
       "identifier": "textHorizontal"
     },
     "text-vertical": {
-      "codepoint": 57596,
+      "codepoint": 57597,
       "fontFamily": "Wordpress",
       "identifier": "textVertical"
     },
     "thumbs-down": {
-      "codepoint": 57597,
+      "codepoint": 57598,
       "fontFamily": "Wordpress",
       "identifier": "thumbsDown"
     },
     "thumbs-up": {
-      "codepoint": 57598,
+      "codepoint": 57599,
       "fontFamily": "Wordpress",
       "identifier": "thumbsUp"
     },
     "time-to-read": {
-      "codepoint": 57599,
+      "codepoint": 57600,
       "fontFamily": "Wordpress",
       "identifier": "timeToRead"
     },
     "tip": {
-      "codepoint": 57600,
+      "codepoint": 57601,
       "fontFamily": "Wordpress",
       "identifier": "tip"
     },
     "title": {
-      "codepoint": 57601,
+      "codepoint": 57602,
       "fontFamily": "Wordpress",
       "identifier": "title"
     },
     "trending-down": {
-      "codepoint": 57602,
+      "codepoint": 57603,
       "fontFamily": "Wordpress",
       "identifier": "trendingDown"
     },
     "trending-up": {
-      "codepoint": 57603,
+      "codepoint": 57604,
       "fontFamily": "Wordpress",
       "identifier": "trendingUp"
     },
     "undo": {
-      "codepoint": 57604,
+      "codepoint": 57605,
       "fontFamily": "Wordpress",
       "identifier": "undo"
     },
     "ungroup": {
-      "codepoint": 57605,
+      "codepoint": 57606,
       "fontFamily": "Wordpress",
       "identifier": "ungroup"
     },
     "unlock": {
-      "codepoint": 57606,
+      "codepoint": 57607,
       "fontFamily": "Wordpress",
       "identifier": "unlock"
     },
     "unseen": {
-      "codepoint": 57607,
+      "codepoint": 57608,
       "fontFamily": "Wordpress",
       "identifier": "unseen"
     },
     "update": {
-      "codepoint": 57608,
+      "codepoint": 57609,
       "fontFamily": "Wordpress",
       "identifier": "update"
     },
     "upload": {
-      "codepoint": 57609,
+      "codepoint": 57610,
       "fontFamily": "Wordpress",
       "identifier": "upload"
     },
     "verse": {
-      "codepoint": 57610,
+      "codepoint": 57611,
       "fontFamily": "Wordpress",
       "identifier": "verse"
     },
     "video": {
-      "codepoint": 57611,
+      "codepoint": 57612,
       "fontFamily": "Wordpress",
       "identifier": "video"
     },
     "widget": {
-      "codepoint": 57612,
+      "codepoint": 57613,
       "fontFamily": "Wordpress",
       "identifier": "widget"
     },
     "wordpress": {
-      "codepoint": 57613,
+      "codepoint": 57614,
       "fontFamily": "Wordpress",
       "identifier": "wordpress"
     }

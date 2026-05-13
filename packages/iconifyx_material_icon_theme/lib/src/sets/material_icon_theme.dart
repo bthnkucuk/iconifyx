@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Material Extensions
 /// License: MIT — https://github.com/material-extensions/vscode-material-icon-theme/blob/main/LICENSE
-/// Icons: 169
+/// Icons: 169 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -394,17 +394,31 @@ class MaterialIconThemeIcons {
     fontPackage: 'iconifyx_material_icon_theme',
   ));
 
-  /// `folder-seeders`
-  static const IconifyIconData folderSeeders = IconifyIconData(IconData(
+  /// `folder-seeders` — primary layer (full opacity)
+  static const IconifyIconData folderSeedersPrimary = IconifyIconData(IconData(
     0xe036,
     fontFamily: 'MaterialIconTheme',
     fontPackage: 'iconifyx_material_icon_theme',
   ));
 
-  /// `folder-seeders-open`
-  static const IconifyIconData folderSeedersOpen = IconifyIconData(IconData(
+  /// `folder-seeders` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData folderSeedersSecondary = IconifyIconData(IconData(
+    0xe036,
+    fontFamily: 'MaterialIconThemeSecondary',
+    fontPackage: 'iconifyx_material_icon_theme',
+  ));
+
+  /// `folder-seeders-open` — primary layer (full opacity)
+  static const IconifyIconData folderSeedersOpenPrimary = IconifyIconData(IconData(
     0xe037,
     fontFamily: 'MaterialIconTheme',
+    fontPackage: 'iconifyx_material_icon_theme',
+  ));
+
+  /// `folder-seeders-open` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData folderSeedersOpenSecondary = IconifyIconData(IconData(
+    0xe037,
+    fontFamily: 'MaterialIconThemeSecondary',
     fontPackage: 'iconifyx_material_icon_theme',
   ));
 

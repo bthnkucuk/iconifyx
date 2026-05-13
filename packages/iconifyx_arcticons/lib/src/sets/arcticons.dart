@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Donnnno
 /// License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
-/// Icons: 7325 (split across 2 fonts)
+/// Icons: 7325 (split across 3 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -22045,10 +22045,17 @@ class ArcticonsIcons {
     fontPackage: 'iconifyx_arcticons',
   ));
 
-  /// `itinerary`
-  static const IconifyIconData itinerary = IconifyIconData(IconData(
+  /// `itinerary` — primary layer (full opacity)
+  static const IconifyIconData itineraryPrimary = IconifyIconData(IconData(
     0xec4b,
     fontFamily: 'Arcticons',
+    fontPackage: 'iconifyx_arcticons',
+  ));
+
+  /// `itinerary` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData itinerarySecondary = IconifyIconData(IconData(
+    0xec4b,
+    fontFamily: 'ArcticonsSecondary',
     fontPackage: 'iconifyx_arcticons',
   ));
 

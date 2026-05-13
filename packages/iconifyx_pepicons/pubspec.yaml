@@ -1,6 +1,6 @@
 name: iconifyx_pepicons
 description: >-
-  Pepicons icons from Iconify, packaged for Flutter (107 icons, CC BY 4.0 license).
+  Pepicons icons from Iconify, packaged for Flutter (113 icons, CC BY 4.0 license).
 version: 0.1.0
 publish_to: 'none'
 
@@ -20,3 +20,6 @@ flutter:
     - family: Pepicons
       fonts:
         - asset: assets/fonts/Pepicons.ttf
+    - family: PepiconsSecondary
+      fonts:
+        - asset: assets/fonts/PepiconsSecondary.ttf

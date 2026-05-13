@@ -19,8 +19,14 @@ import { log } from './log.ts';
  */
 export interface FontBuildInput {
   manifest: Manifest;
-  /** Resolved icons keyed by iconify name. */
+  /** Resolved icons keyed by iconify name. Used to populate primary fonts. */
   resolvedByName: Map<string, ResolvedIcon>;
+  /**
+   * Optional map of secondary-layer bodies for duotone icons, keyed by
+   * iconify name. Used when building a `<X>Secondary` font; non-duotone
+   * icons are absent. If omitted, no Secondary fonts are built.
+   */
+  secondaryByName?: Map<string, ResolvedIcon>;
   /** Called for each glyph dropped during build (post-validation failure). */
   onGlyphDropped?: (iconName: string, reason: string) => void;
 }
@@ -28,26 +34,38 @@ export interface FontBuildInput {
 export async function buildFonts(
   input: FontBuildInput
 ): Promise<Map<string, Buffer>> {
-  const { manifest, resolvedByName, onGlyphDropped } = input;
+  const { manifest, resolvedByName, secondaryByName, onGlyphDropped } = input;
 
   const fontsByName = new Map<string, Buffer>();
 
   for (const fontEntry of manifest.fonts) {
     if (fontEntry.iconCount === 0) continue;
 
+    // Detect whether this is a duotone Secondary font. Pattern is exactly
+    // `<primary>Secondary` (see manifest.ts:secondaryFontFamily).
+    const isSecondary = fontEntry.family.endsWith('Secondary');
+    const primaryFamily = isSecondary
+      ? fontEntry.family.slice(0, -'Secondary'.length)
+      : fontEntry.family;
+
     const members: { name: string; codepoint: number }[] = [];
     for (const [iconName, m] of Object.entries(manifest.icons)) {
       if (m.deprecated) continue;
-      if (m.fontFamily !== fontEntry.family) continue;
+      if (m.fontFamily !== primaryFamily) continue;
+      if (isSecondary && !m.duotone) continue;
       members.push({ name: iconName, codepoint: m.codepoint });
     }
     if (members.length === 0) continue;
     members.sort((a, b) => a.codepoint - b.codepoint);
 
+    const bodySource = isSecondary
+      ? (secondaryByName ?? new Map<string, ResolvedIcon>())
+      : resolvedByName;
+
     const ttf = await buildOneFontWithRetry(
       fontEntry,
       members,
-      resolvedByName,
+      bodySource,
       onGlyphDropped
     );
     if (ttf !== null) fontsByName.set(fontEntry.family, ttf);

@@ -16,135 +16,260 @@
       "spdx": "MIT",
       "url": "https://github.com/fazdiu/duo-icons/blob/master/LICENSE"
     },
-    "total": 24
+    "total": 40
   },
   "fonts": [
     {
       "family": "DuoIcons",
-      "nextCodepoint": 57368,
-      "iconCount": 24
+      "nextCodepoint": 57384,
+      "iconCount": 40
+    },
+    {
+      "family": "DuoIconsSecondary",
+      "nextCodepoint": 57384,
+      "iconCount": 40
     }
   ],
   "icons": {
     "align-bottom": {
       "codepoint": 57344,
       "fontFamily": "DuoIcons",
-      "identifier": "alignBottom"
+      "identifier": "alignBottom",
+      "duotone": true
     },
-    "app": {
+    "android": {
       "codepoint": 57345,
       "fontFamily": "DuoIcons",
-      "identifier": "app"
+      "identifier": "android",
+      "duotone": true
     },
-    "app-dots": {
+    "app": {
       "codepoint": 57346,
       "fontFamily": "DuoIcons",
-      "identifier": "appDots"
+      "identifier": "app",
+      "duotone": true
     },
-    "award": {
+    "app-dots": {
       "codepoint": 57347,
       "fontFamily": "DuoIcons",
-      "identifier": "award"
+      "identifier": "appDots",
+      "duotone": true
     },
-    "book": {
+    "approved": {
       "codepoint": 57348,
       "fontFamily": "DuoIcons",
-      "identifier": "book"
+      "identifier": "approved",
+      "duotone": true
     },
-    "bookmark": {
+    "award": {
       "codepoint": 57349,
       "fontFamily": "DuoIcons",
-      "identifier": "bookmark"
+      "identifier": "award",
+      "duotone": true
     },
-    "box": {
+    "baby-carriage": {
       "codepoint": 57350,
       "fontFamily": "DuoIcons",
-      "identifier": "box"
+      "identifier": "babyCarriage",
+      "duotone": true
     },
-    "brush": {
+    "bank": {
       "codepoint": 57351,
       "fontFamily": "DuoIcons",
-      "identifier": "brush"
+      "identifier": "bank",
+      "duotone": true
     },
-    "calendar": {
+    "book": {
       "codepoint": 57352,
       "fontFamily": "DuoIcons",
-      "identifier": "calendar"
+      "identifier": "book",
+      "duotone": true
     },
-    "camera-square": {
+    "book-3": {
       "codepoint": 57353,
       "fontFamily": "DuoIcons",
-      "identifier": "cameraSquare"
+      "identifier": "book3",
+      "duotone": true
     },
-    "chart-pie": {
+    "bookmark": {
       "codepoint": 57354,
       "fontFamily": "DuoIcons",
-      "identifier": "chartPie"
+      "identifier": "bookmark",
+      "duotone": true
     },
-    "check-circle": {
+    "box": {
       "codepoint": 57355,
       "fontFamily": "DuoIcons",
-      "identifier": "checkCircle"
+      "identifier": "box",
+      "duotone": true
     },
-    "chip": {
+    "bridge": {
       "codepoint": 57356,
       "fontFamily": "DuoIcons",
-      "identifier": "chip"
+      "identifier": "bridge",
+      "duotone": true
     },
-    "clapperboard": {
+    "brush": {
       "codepoint": 57357,
       "fontFamily": "DuoIcons",
-      "identifier": "clapperboard"
+      "identifier": "brush",
+      "duotone": true
     },
-    "clipboard": {
+    "bug": {
       "codepoint": 57358,
       "fontFamily": "DuoIcons",
-      "identifier": "clipboard"
+      "identifier": "bug",
+      "duotone": true
     },
-    "credit-card": {
+    "building": {
       "codepoint": 57359,
       "fontFamily": "DuoIcons",
-      "identifier": "creditCard"
+      "identifier": "building",
+      "duotone": true
     },
-    "dashboard": {
+    "calendar": {
       "codepoint": 57360,
       "fontFamily": "DuoIcons",
-      "identifier": "dashboard"
+      "identifier": "calendar",
+      "duotone": true
     },
-    "fire": {
+    "camera": {
       "codepoint": 57361,
       "fontFamily": "DuoIcons",
-      "identifier": "fire"
+      "identifier": "camera",
+      "duotone": true
     },
-    "folder-open": {
+    "camera-square": {
       "codepoint": 57362,
       "fontFamily": "DuoIcons",
-      "identifier": "folderOpen"
+      "identifier": "cameraSquare",
+      "duotone": true
     },
-    "folder-upload": {
+    "campground": {
       "codepoint": 57363,
       "fontFamily": "DuoIcons",
-      "identifier": "folderUpload"
+      "identifier": "campground",
+      "duotone": true
     },
-    "id-card": {
+    "chart-pie": {
       "codepoint": 57364,
       "fontFamily": "DuoIcons",
-      "identifier": "idCard"
+      "identifier": "chartPie",
+      "duotone": true
     },
-    "message-2": {
+    "check-circle": {
       "codepoint": 57365,
       "fontFamily": "DuoIcons",
-      "identifier": "message2"
+      "identifier": "checkCircle",
+      "duotone": true
     },
-    "smartphone": {
+    "chip": {
       "codepoint": 57366,
       "fontFamily": "DuoIcons",
-      "identifier": "smartphone"
+      "identifier": "chip",
+      "duotone": true
     },
-    "smartwatch": {
+    "clapperboard": {
       "codepoint": 57367,
       "fontFamily": "DuoIcons",
-      "identifier": "smartwatch"
+      "identifier": "clapperboard",
+      "duotone": true
+    },
+    "clipboard": {
+      "codepoint": 57368,
+      "fontFamily": "DuoIcons",
+      "identifier": "clipboard",
+      "duotone": true
+    },
+    "cloud-snow": {
+      "codepoint": 57369,
+      "fontFamily": "DuoIcons",
+      "identifier": "cloudSnow",
+      "duotone": true
+    },
+    "credit-card": {
+      "codepoint": 57370,
+      "fontFamily": "DuoIcons",
+      "identifier": "creditCard",
+      "duotone": true
+    },
+    "dashboard": {
+      "codepoint": 57371,
+      "fontFamily": "DuoIcons",
+      "identifier": "dashboard",
+      "duotone": true
+    },
+    "fire": {
+      "codepoint": 57372,
+      "fontFamily": "DuoIcons",
+      "identifier": "fire",
+      "duotone": true
+    },
+    "folder-open": {
+      "codepoint": 57373,
+      "fontFamily": "DuoIcons",
+      "identifier": "folderOpen",
+      "duotone": true
+    },
+    "folder-upload": {
+      "codepoint": 57374,
+      "fontFamily": "DuoIcons",
+      "identifier": "folderUpload",
+      "duotone": true
+    },
+    "id-card": {
+      "codepoint": 57375,
+      "fontFamily": "DuoIcons",
+      "identifier": "idCard",
+      "duotone": true
+    },
+    "marker": {
+      "codepoint": 57376,
+      "fontFamily": "DuoIcons",
+      "identifier": "marker",
+      "duotone": true
+    },
+    "message": {
+      "codepoint": 57377,
+      "fontFamily": "DuoIcons",
+      "identifier": "message",
+      "duotone": true
+    },
+    "message-2": {
+      "codepoint": 57378,
+      "fontFamily": "DuoIcons",
+      "identifier": "message2",
+      "duotone": true
+    },
+    "settings": {
+      "codepoint": 57379,
+      "fontFamily": "DuoIcons",
+      "identifier": "settings",
+      "duotone": true
+    },
+    "smartphone": {
+      "codepoint": 57380,
+      "fontFamily": "DuoIcons",
+      "identifier": "smartphone",
+      "duotone": true
+    },
+    "smartwatch": {
+      "codepoint": 57381,
+      "fontFamily": "DuoIcons",
+      "identifier": "smartwatch",
+      "duotone": true
+    },
+    "target": {
+      "codepoint": 57382,
+      "fontFamily": "DuoIcons",
+      "identifier": "target",
+      "duotone": true
+    },
+    "translation": {
+      "codepoint": 57383,
+      "fontFamily": "DuoIcons",
+      "identifier": "translation",
+      "duotone": true
     }
   }
 }

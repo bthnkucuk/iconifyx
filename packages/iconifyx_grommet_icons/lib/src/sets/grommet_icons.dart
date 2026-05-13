@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Grommet
 /// License: Apache 2.0 — https://www.apache.org/licenses/LICENSE-2.0
-/// Icons: 472
+/// Icons: 472 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -3257,24 +3257,45 @@ class GrommetIconsIcons {
     fontPackage: 'iconifyx_grommet_icons',
   ));
 
-  /// `wifi-low`
-  static const IconifyIconData wifiLow = IconifyIconData(IconData(
+  /// `wifi-low` — primary layer (full opacity)
+  static const IconifyIconData wifiLowPrimary = IconifyIconData(IconData(
     0xe1cf,
     fontFamily: 'GrommetIcons',
     fontPackage: 'iconifyx_grommet_icons',
   ));
 
-  /// `wifi-medium`
-  static const IconifyIconData wifiMedium = IconifyIconData(IconData(
+  /// `wifi-low` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData wifiLowSecondary = IconifyIconData(IconData(
+    0xe1cf,
+    fontFamily: 'GrommetIconsSecondary',
+    fontPackage: 'iconifyx_grommet_icons',
+  ));
+
+  /// `wifi-medium` — primary layer (full opacity)
+  static const IconifyIconData wifiMediumPrimary = IconifyIconData(IconData(
     0xe1d0,
     fontFamily: 'GrommetIcons',
     fontPackage: 'iconifyx_grommet_icons',
   ));
 
-  /// `wifi-none`
-  static const IconifyIconData wifiNone = IconifyIconData(IconData(
+  /// `wifi-medium` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData wifiMediumSecondary = IconifyIconData(IconData(
+    0xe1d0,
+    fontFamily: 'GrommetIconsSecondary',
+    fontPackage: 'iconifyx_grommet_icons',
+  ));
+
+  /// `wifi-none` — primary layer (full opacity)
+  static const IconifyIconData wifiNonePrimary = IconifyIconData(IconData(
     0xe1d1,
     fontFamily: 'GrommetIcons',
+    fontPackage: 'iconifyx_grommet_icons',
+  ));
+
+  /// `wifi-none` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData wifiNoneSecondary = IconifyIconData(IconData(
+    0xe1d1,
+    fontFamily: 'GrommetIconsSecondary',
     fontPackage: 'iconifyx_grommet_icons',
   ));
 

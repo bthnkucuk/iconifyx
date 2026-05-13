@@ -16,13 +16,18 @@
       "spdx": "MIT",
       "url": "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE"
     },
-    "total": 79
+    "total": 80
   },
   "fonts": [
     {
       "family": "FluentEmojiFlat",
-      "nextCodepoint": 57423,
-      "iconCount": 79
+      "nextCodepoint": 57424,
+      "iconCount": 80
+    },
+    {
+      "family": "FluentEmojiFlatSecondary",
+      "nextCodepoint": 57424,
+      "iconCount": 1
     }
   ],
   "icons": {
@@ -126,298 +131,304 @@
       "fontFamily": "FluentEmojiFlat",
       "identifier": "chains"
     },
-    "crescent-moon": {
+    "coin": {
       "codepoint": 57364,
+      "fontFamily": "FluentEmojiFlat",
+      "identifier": "coin",
+      "duotone": true
+    },
+    "crescent-moon": {
+      "codepoint": 57365,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "crescentMoon"
     },
     "cross-mark-button": {
-      "codepoint": 57365,
+      "codepoint": 57366,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "crossMarkButton"
     },
     "diamond-with-a-dot": {
-      "codepoint": 57366,
+      "codepoint": 57367,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "diamondWithADot"
     },
     "dim-button": {
-      "codepoint": 57367,
+      "codepoint": 57368,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "dimButton"
     },
     "dizzy": {
-      "codepoint": 57368,
+      "codepoint": 57369,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "dizzy"
     },
     "dumpling": {
-      "codepoint": 57369,
+      "codepoint": 57370,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "dumpling"
     },
     "egg": {
-      "codepoint": 57370,
+      "codepoint": 57371,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "egg"
     },
     "eight-spoked-asterisk": {
-      "codepoint": 57371,
+      "codepoint": 57372,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "eightSpokedAsterisk"
     },
     "female-sign": {
-      "codepoint": 57372,
+      "codepoint": 57373,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "femaleSign"
     },
     "full-moon": {
-      "codepoint": 57373,
+      "codepoint": 57374,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "fullMoon"
     },
     "gemini": {
-      "codepoint": 57374,
+      "codepoint": 57375,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "gemini"
     },
     "green-apple": {
-      "codepoint": 57375,
+      "codepoint": 57376,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "greenApple"
     },
     "green-circle": {
-      "codepoint": 57376,
+      "codepoint": 57377,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "greenCircle"
     },
     "green-square": {
-      "codepoint": 57377,
+      "codepoint": 57378,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "greenSquare"
     },
     "heart-decoration": {
-      "codepoint": 57378,
+      "codepoint": 57379,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "heartDecoration"
     },
     "heavy-dollar-sign": {
-      "codepoint": 57379,
+      "codepoint": 57380,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "heavyDollarSign"
     },
     "hollow-red-circle": {
-      "codepoint": 57380,
+      "codepoint": 57381,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "hollowRedCircle"
     },
     "hourglass-done": {
-      "codepoint": 57381,
+      "codepoint": 57382,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "hourglassDone"
     },
     "infinity": {
-      "codepoint": 57382,
+      "codepoint": 57383,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "infinity"
     },
     "information": {
-      "codepoint": 57383,
+      "codepoint": 57384,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "information"
     },
     "keycap-0": {
-      "codepoint": 57384,
+      "codepoint": 57385,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "keycap0"
     },
     "keycap-4": {
-      "codepoint": 57385,
+      "codepoint": 57386,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "keycap4"
     },
     "large-blue-diamond": {
-      "codepoint": 57386,
+      "codepoint": 57387,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "largeBlueDiamond"
     },
     "latin-cross": {
-      "codepoint": 57387,
+      "codepoint": 57388,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "latinCross"
     },
     "leo": {
-      "codepoint": 57388,
+      "codepoint": 57389,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "leo"
     },
     "libra": {
-      "codepoint": 57389,
+      "codepoint": 57390,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "libra"
     },
     "male-sign": {
-      "codepoint": 57390,
+      "codepoint": 57391,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "maleSign"
     },
     "map-of-japan": {
-      "codepoint": 57391,
+      "codepoint": 57392,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "mapOfJapan"
     },
     "o-button-blood-type": {
-      "codepoint": 57392,
+      "codepoint": 57393,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "oButtonBloodType"
     },
     "office-building": {
-      "codepoint": 57393,
+      "codepoint": 57394,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "officeBuilding"
     },
     "paperclip": {
-      "codepoint": 57394,
+      "codepoint": 57395,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "paperclip"
     },
     "pause-button": {
-      "codepoint": 57395,
+      "codepoint": 57396,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pauseButton"
     },
     "peace-symbol": {
-      "codepoint": 57396,
+      "codepoint": 57397,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "peaceSymbol"
     },
     "pear": {
-      "codepoint": 57397,
+      "codepoint": 57398,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "pear"
     },
     "purple-circle": {
-      "codepoint": 57398,
+      "codepoint": 57399,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "purpleCircle"
     },
     "receipt": {
-      "codepoint": 57399,
+      "codepoint": 57400,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "receipt"
     },
     "record-button": {
-      "codepoint": 57400,
+      "codepoint": 57401,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "recordButton"
     },
     "ring": {
-      "codepoint": 57401,
+      "codepoint": 57402,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "ring"
     },
     "round-pushpin": {
-      "codepoint": 57402,
+      "codepoint": 57403,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "roundPushpin"
     },
     "scorpio": {
-      "codepoint": 57403,
+      "codepoint": 57404,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "scorpio"
     },
     "screwdriver": {
-      "codepoint": 57404,
+      "codepoint": 57405,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "screwdriver"
     },
     "small-blue-diamond": {
-      "codepoint": 57405,
+      "codepoint": 57406,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "smallBlueDiamond"
     },
     "soap": {
-      "codepoint": 57406,
+      "codepoint": 57407,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "soap"
     },
     "stop-button": {
-      "codepoint": 57407,
+      "codepoint": 57408,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "stopButton"
     },
     "taurus": {
-      "codepoint": 57408,
+      "codepoint": 57409,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "taurus"
     },
     "transgender-flag": {
-      "codepoint": 57409,
+      "codepoint": 57410,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "transgenderFlag"
     },
     "virgo": {
-      "codepoint": 57410,
+      "codepoint": 57411,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "virgo"
     },
     "warning": {
-      "codepoint": 57411,
+      "codepoint": 57412,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "warning"
     },
     "white-circle": {
-      "codepoint": 57412,
+      "codepoint": 57413,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "whiteCircle"
     },
     "white-exclamation-mark": {
-      "codepoint": 57413,
+      "codepoint": 57414,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "whiteExclamationMark"
     },
     "white-flag": {
-      "codepoint": 57414,
+      "codepoint": 57415,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "whiteFlag"
     },
     "white-large-square": {
-      "codepoint": 57415,
+      "codepoint": 57416,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "whiteLargeSquare"
     },
     "white-medium-small-square": {
-      "codepoint": 57416,
+      "codepoint": 57417,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "whiteMediumSmallSquare"
     },
     "white-medium-square": {
-      "codepoint": 57417,
+      "codepoint": 57418,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "whiteMediumSquare"
     },
     "white-small-square": {
-      "codepoint": 57418,
+      "codepoint": 57419,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "whiteSmallSquare"
     },
     "white-square-button": {
-      "codepoint": 57419,
+      "codepoint": 57420,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "whiteSquareButton"
     },
     "yellow-circle": {
-      "codepoint": 57420,
+      "codepoint": 57421,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "yellowCircle"
     },
     "yellow-square": {
-      "codepoint": 57421,
+      "codepoint": 57422,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "yellowSquare"
     },
     "yin-yang": {
-      "codepoint": 57422,
+      "codepoint": 57423,
       "fontFamily": "FluentEmojiFlat",
       "identifier": "yinYang"
     }

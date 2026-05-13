@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Christopher Downer
 /// License: CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/
-/// Icons: 66
+/// Icons: 66 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -282,10 +282,17 @@ class CryptocurrencyIcons {
     fontPackage: 'iconifyx_cryptocurrency',
   ));
 
-  /// `mod`
-  static const IconifyIconData mod = IconifyIconData(IconData(
+  /// `mod` — primary layer (full opacity)
+  static const IconifyIconData modPrimary = IconifyIconData(IconData(
     0xe026,
     fontFamily: 'Cryptocurrency',
+    fontPackage: 'iconifyx_cryptocurrency',
+  ));
+
+  /// `mod` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData modSecondary = IconifyIconData(IconData(
+    0xe026,
+    fontFamily: 'CryptocurrencySecondary',
     fontPackage: 'iconifyx_cryptocurrency',
   ));
 

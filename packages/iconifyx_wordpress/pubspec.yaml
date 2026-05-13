@@ -1,6 +1,6 @@
 name: iconifyx_wordpress
 description: >-
-  WordPress Icons icons from Iconify, packaged for Flutter (270 icons, GPL license).
+  WordPress Icons icons from Iconify, packaged for Flutter (271 icons, GPL license).
 version: 0.1.0
 publish_to: 'none'
 
@@ -20,3 +20,6 @@ flutter:
     - family: Wordpress
       fonts:
         - asset: assets/fonts/Wordpress.ttf
+    - family: WordpressSecondary
+      fonts:
+        - asset: assets/fonts/WordpressSecondary.ttf

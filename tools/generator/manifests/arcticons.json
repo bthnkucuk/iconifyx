@@ -28,6 +28,11 @@
       "family": "Arcticons_2",
       "nextCodepoint": 58669,
       "iconCount": 1325
+    },
+    {
+      "family": "ArcticonsSecondary",
+      "nextCodepoint": 63344,
+      "iconCount": 1
     }
   ],
   "icons": {
@@ -15769,7 +15774,8 @@
     "itinerary": {
       "codepoint": 60491,
       "fontFamily": "Arcticons",
-      "identifier": "itinerary"
+      "identifier": "itinerary",
+      "duotone": true
     },
     "itr-ais": {
       "codepoint": 60492,

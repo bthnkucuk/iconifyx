@@ -1,6 +1,6 @@
 name: iconifyx_uim
 description: >-
-  Unicons Monochrome icons from Iconify, packaged for Flutter (142 icons, Apache 2.0 license).
+  Unicons Monochrome icons from Iconify, packaged for Flutter (167 icons, Apache 2.0 license).
 version: 0.1.0
 publish_to: 'none'
 
@@ -20,3 +20,6 @@ flutter:
     - family: Uim
       fonts:
         - asset: assets/fonts/Uim.ttf
+    - family: UimSecondary
+      fonts:
+        - asset: assets/fonts/UimSecondary.ttf

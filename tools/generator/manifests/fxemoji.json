@@ -23,6 +23,11 @@
       "family": "Fxemoji",
       "nextCodepoint": 57880,
       "iconCount": 536
+    },
+    {
+      "family": "FxemojiSecondary",
+      "nextCodepoint": 57880,
+      "iconCount": 1
     }
   ],
   "icons": {
@@ -1024,7 +1029,8 @@
     "glasses": {
       "codepoint": 57543,
       "fontFamily": "Fxemoji",
-      "identifier": "glasses"
+      "identifier": "glasses",
+      "duotone": true
     },
     "goat": {
       "codepoint": 57544,

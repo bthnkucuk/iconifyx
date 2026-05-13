@@ -23,3 +23,6 @@ flutter:
     - family: Tabler_2
       fonts:
         - asset: assets/fonts/Tabler_2.ttf
+    - family: TablerSecondary
+      fonts:
+        - asset: assets/fonts/TablerSecondary.ttf

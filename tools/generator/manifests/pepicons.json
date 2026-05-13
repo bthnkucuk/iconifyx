@@ -16,13 +16,18 @@
       "spdx": "CC-BY-4.0",
       "url": "https://github.com/CyCraft/pepicons/blob/dev/LICENSE"
     },
-    "total": 107
+    "total": 113
   },
   "fonts": [
     {
       "family": "Pepicons",
-      "nextCodepoint": 57451,
-      "iconCount": 107
+      "nextCodepoint": 57457,
+      "iconCount": 113
+    },
+    {
+      "family": "PepiconsSecondary",
+      "nextCodepoint": 57457,
+      "iconCount": 32
     }
   ],
   "icons": {
@@ -51,513 +56,575 @@
       "fontFamily": "Pepicons",
       "identifier": "calculator"
     },
-    "calendar": {
+    "calculator-print": {
       "codepoint": 57349,
+      "fontFamily": "Pepicons",
+      "identifier": "calculatorPrint",
+      "duotone": true
+    },
+    "calendar": {
+      "codepoint": 57350,
       "fontFamily": "Pepicons",
       "identifier": "calendar"
     },
     "calendar-print": {
-      "codepoint": 57350,
+      "codepoint": 57351,
       "fontFamily": "Pepicons",
-      "identifier": "calendarPrint"
+      "identifier": "calendarPrint",
+      "duotone": true
     },
     "chain": {
-      "codepoint": 57351,
+      "codepoint": 57352,
       "fontFamily": "Pepicons",
       "identifier": "chain"
     },
     "chain-print": {
-      "codepoint": 57352,
+      "codepoint": 57353,
       "fontFamily": "Pepicons",
       "identifier": "chainPrint"
     },
     "circle": {
-      "codepoint": 57353,
+      "codepoint": 57354,
       "fontFamily": "Pepicons",
       "identifier": "circle"
     },
     "circle-filled": {
-      "codepoint": 57354,
+      "codepoint": 57355,
       "fontFamily": "Pepicons",
       "identifier": "circleFilled"
     },
     "circle-print": {
-      "codepoint": 57355,
+      "codepoint": 57356,
       "fontFamily": "Pepicons",
-      "identifier": "circlePrint"
+      "identifier": "circlePrint",
+      "duotone": true
     },
     "clock": {
-      "codepoint": 57356,
+      "codepoint": 57357,
       "fontFamily": "Pepicons",
       "identifier": "clock"
     },
     "clock-print": {
-      "codepoint": 57357,
+      "codepoint": 57358,
       "fontFamily": "Pepicons",
-      "identifier": "clockPrint"
+      "identifier": "clockPrint",
+      "duotone": true
     },
     "cloud-filled": {
-      "codepoint": 57358,
+      "codepoint": 57359,
       "fontFamily": "Pepicons",
       "identifier": "cloudFilled"
     },
     "contract": {
-      "codepoint": 57359,
+      "codepoint": 57360,
       "fontFamily": "Pepicons",
       "identifier": "contract"
     },
     "controller": {
-      "codepoint": 57360,
+      "codepoint": 57361,
       "fontFamily": "Pepicons",
       "identifier": "controller"
     },
     "controller-print": {
-      "codepoint": 57361,
+      "codepoint": 57362,
       "fontFamily": "Pepicons",
-      "identifier": "controllerPrint"
+      "identifier": "controllerPrint",
+      "duotone": true
     },
     "credit-card": {
-      "codepoint": 57362,
+      "codepoint": 57363,
       "fontFamily": "Pepicons",
       "identifier": "creditCard"
     },
     "credit-card-print": {
-      "codepoint": 57363,
+      "codepoint": 57364,
       "fontFamily": "Pepicons",
-      "identifier": "creditCardPrint"
+      "identifier": "creditCardPrint",
+      "duotone": true
     },
     "division": {
-      "codepoint": 57364,
+      "codepoint": 57365,
       "fontFamily": "Pepicons",
       "identifier": "division"
     },
     "division-print": {
-      "codepoint": 57365,
+      "codepoint": 57366,
       "fontFamily": "Pepicons",
       "identifier": "divisionPrint"
     },
     "dots-x": {
-      "codepoint": 57366,
+      "codepoint": 57367,
       "fontFamily": "Pepicons",
       "identifier": "dotsX"
     },
     "dots-x-print": {
-      "codepoint": 57367,
+      "codepoint": 57368,
       "fontFamily": "Pepicons",
-      "identifier": "dotsXPrint"
+      "identifier": "dotsXPrint",
+      "duotone": true
     },
     "dots-y": {
-      "codepoint": 57368,
+      "codepoint": 57369,
       "fontFamily": "Pepicons",
       "identifier": "dotsY"
     },
     "dots-y-print": {
-      "codepoint": 57369,
+      "codepoint": 57370,
       "fontFamily": "Pepicons",
-      "identifier": "dotsYPrint"
+      "identifier": "dotsYPrint",
+      "duotone": true
     },
     "duplicate": {
-      "codepoint": 57370,
+      "codepoint": 57371,
       "fontFamily": "Pepicons",
       "identifier": "duplicate"
     },
     "duplicate-print": {
-      "codepoint": 57371,
+      "codepoint": 57372,
       "fontFamily": "Pepicons",
-      "identifier": "duplicatePrint"
+      "identifier": "duplicatePrint",
+      "duotone": true
     },
     "enter": {
-      "codepoint": 57372,
+      "codepoint": 57373,
       "fontFamily": "Pepicons",
       "identifier": "enter"
     },
     "enter-print": {
-      "codepoint": 57373,
+      "codepoint": 57374,
       "fontFamily": "Pepicons",
-      "identifier": "enterPrint"
+      "identifier": "enterPrint",
+      "duotone": true
     },
     "exclamation": {
-      "codepoint": 57374,
+      "codepoint": 57375,
       "fontFamily": "Pepicons",
       "identifier": "exclamation"
     },
     "exclamation-circle": {
-      "codepoint": 57375,
+      "codepoint": 57376,
       "fontFamily": "Pepicons",
       "identifier": "exclamationCircle"
     },
     "exclamation-circle-print": {
-      "codepoint": 57376,
+      "codepoint": 57377,
       "fontFamily": "Pepicons",
-      "identifier": "exclamationCirclePrint"
+      "identifier": "exclamationCirclePrint",
+      "duotone": true
     },
     "exclamation-filled": {
-      "codepoint": 57377,
+      "codepoint": 57378,
       "fontFamily": "Pepicons",
       "identifier": "exclamationFilled"
     },
     "exclamation-print": {
-      "codepoint": 57378,
+      "codepoint": 57379,
       "fontFamily": "Pepicons",
       "identifier": "exclamationPrint"
     },
     "expand": {
-      "codepoint": 57379,
+      "codepoint": 57380,
       "fontFamily": "Pepicons",
       "identifier": "expand"
     },
     "film-frame": {
-      "codepoint": 57380,
+      "codepoint": 57381,
       "fontFamily": "Pepicons",
       "identifier": "filmFrame"
     },
     "film-frame-print": {
-      "codepoint": 57381,
+      "codepoint": 57382,
       "fontFamily": "Pepicons",
-      "identifier": "filmFramePrint"
+      "identifier": "filmFramePrint",
+      "duotone": true
     },
     "folding-stool": {
-      "codepoint": 57382,
+      "codepoint": 57383,
       "fontFamily": "Pepicons",
       "identifier": "foldingStool"
     },
     "grab": {
-      "codepoint": 57383,
+      "codepoint": 57384,
       "fontFamily": "Pepicons",
       "identifier": "grab"
     },
     "grab-print": {
-      "codepoint": 57384,
+      "codepoint": 57385,
       "fontFamily": "Pepicons",
-      "identifier": "grabPrint"
+      "identifier": "grabPrint",
+      "duotone": true
     },
     "grid": {
-      "codepoint": 57385,
+      "codepoint": 57386,
       "fontFamily": "Pepicons",
       "identifier": "grid"
     },
     "grid-print": {
-      "codepoint": 57386,
+      "codepoint": 57387,
       "fontFamily": "Pepicons",
       "identifier": "gridPrint"
     },
     "hash": {
-      "codepoint": 57387,
+      "codepoint": 57388,
       "fontFamily": "Pepicons",
       "identifier": "hash"
     },
     "hash-print": {
-      "codepoint": 57388,
+      "codepoint": 57389,
       "fontFamily": "Pepicons",
-      "identifier": "hashPrint"
+      "identifier": "hashPrint",
+      "duotone": true
     },
     "heart": {
-      "codepoint": 57389,
+      "codepoint": 57390,
       "fontFamily": "Pepicons",
       "identifier": "heart"
     },
     "info": {
-      "codepoint": 57390,
+      "codepoint": 57391,
       "fontFamily": "Pepicons",
       "identifier": "info"
     },
     "info-circle": {
-      "codepoint": 57391,
+      "codepoint": 57392,
       "fontFamily": "Pepicons",
       "identifier": "infoCircle"
     },
     "info-circle-print": {
-      "codepoint": 57392,
+      "codepoint": 57393,
       "fontFamily": "Pepicons",
-      "identifier": "infoCirclePrint"
+      "identifier": "infoCirclePrint",
+      "duotone": true
     },
     "info-filled": {
-      "codepoint": 57393,
+      "codepoint": 57394,
       "fontFamily": "Pepicons",
       "identifier": "infoFilled"
     },
     "info-print": {
-      "codepoint": 57394,
+      "codepoint": 57395,
       "fontFamily": "Pepicons",
       "identifier": "infoPrint"
     },
     "leave": {
-      "codepoint": 57395,
+      "codepoint": 57396,
       "fontFamily": "Pepicons",
       "identifier": "leave"
     },
     "leave-print": {
-      "codepoint": 57396,
+      "codepoint": 57397,
       "fontFamily": "Pepicons",
-      "identifier": "leavePrint"
+      "identifier": "leavePrint",
+      "duotone": true
     },
     "list": {
-      "codepoint": 57397,
+      "codepoint": 57398,
       "fontFamily": "Pepicons",
       "identifier": "list"
     },
     "list-print": {
-      "codepoint": 57398,
+      "codepoint": 57399,
       "fontFamily": "Pepicons",
       "identifier": "listPrint"
     },
     "lock-closed": {
-      "codepoint": 57399,
+      "codepoint": 57400,
       "fontFamily": "Pepicons",
       "identifier": "lockClosed"
     },
     "lock-closed-print": {
-      "codepoint": 57400,
+      "codepoint": 57401,
       "fontFamily": "Pepicons",
-      "identifier": "lockClosedPrint"
+      "identifier": "lockClosedPrint",
+      "duotone": true
     },
     "lock-open": {
-      "codepoint": 57401,
+      "codepoint": 57402,
       "fontFamily": "Pepicons",
       "identifier": "lockOpen"
     },
+    "lock-open-print": {
+      "codepoint": 57403,
+      "fontFamily": "Pepicons",
+      "identifier": "lockOpenPrint",
+      "duotone": true
+    },
     "loop": {
-      "codepoint": 57402,
+      "codepoint": 57404,
       "fontFamily": "Pepicons",
       "identifier": "loop"
     },
     "loop-minus": {
-      "codepoint": 57403,
+      "codepoint": 57405,
       "fontFamily": "Pepicons",
       "identifier": "loopMinus"
     },
+    "loop-minus-print": {
+      "codepoint": 57406,
+      "fontFamily": "Pepicons",
+      "identifier": "loopMinusPrint",
+      "duotone": true
+    },
     "loop-plus": {
-      "codepoint": 57404,
+      "codepoint": 57407,
       "fontFamily": "Pepicons",
       "identifier": "loopPlus"
     },
+    "loop-plus-print": {
+      "codepoint": 57408,
+      "fontFamily": "Pepicons",
+      "identifier": "loopPlusPrint",
+      "duotone": true
+    },
+    "loop-print": {
+      "codepoint": 57409,
+      "fontFamily": "Pepicons",
+      "identifier": "loopPrint",
+      "duotone": true
+    },
     "menu": {
-      "codepoint": 57405,
+      "codepoint": 57410,
       "fontFamily": "Pepicons",
       "identifier": "menu"
     },
     "menu-print": {
-      "codepoint": 57406,
+      "codepoint": 57411,
       "fontFamily": "Pepicons",
-      "identifier": "menuPrint"
+      "identifier": "menuPrint",
+      "duotone": true
     },
     "minus": {
-      "codepoint": 57407,
+      "codepoint": 57412,
       "fontFamily": "Pepicons",
       "identifier": "minus"
     },
     "minus-print": {
-      "codepoint": 57408,
+      "codepoint": 57413,
       "fontFamily": "Pepicons",
-      "identifier": "minusPrint"
+      "identifier": "minusPrint",
+      "duotone": true
     },
     "monitor": {
-      "codepoint": 57409,
+      "codepoint": 57414,
       "fontFamily": "Pepicons",
       "identifier": "monitor"
     },
     "monitor-print": {
-      "codepoint": 57410,
+      "codepoint": 57415,
       "fontFamily": "Pepicons",
-      "identifier": "monitorPrint"
+      "identifier": "monitorPrint",
+      "duotone": true
     },
     "monitor2": {
-      "codepoint": 57411,
+      "codepoint": 57416,
       "fontFamily": "Pepicons",
       "identifier": "monitor2"
     },
     "monitor2-print": {
-      "codepoint": 57412,
+      "codepoint": 57417,
       "fontFamily": "Pepicons",
-      "identifier": "monitor2Print"
+      "identifier": "monitor2Print",
+      "duotone": true
     },
     "no-entry": {
-      "codepoint": 57413,
+      "codepoint": 57418,
       "fontFamily": "Pepicons",
       "identifier": "noEntry"
     },
     "open": {
-      "codepoint": 57414,
+      "codepoint": 57419,
       "fontFamily": "Pepicons",
       "identifier": "open"
     },
     "pause": {
-      "codepoint": 57415,
+      "codepoint": 57420,
       "fontFamily": "Pepicons",
       "identifier": "pause"
     },
     "people": {
-      "codepoint": 57416,
+      "codepoint": 57421,
       "fontFamily": "Pepicons",
       "identifier": "people"
     },
     "person": {
-      "codepoint": 57417,
+      "codepoint": 57422,
       "fontFamily": "Pepicons",
       "identifier": "person"
     },
     "person-filled": {
-      "codepoint": 57418,
+      "codepoint": 57423,
       "fontFamily": "Pepicons",
       "identifier": "personFilled"
     },
     "person-print": {
-      "codepoint": 57419,
+      "codepoint": 57424,
       "fontFamily": "Pepicons",
       "identifier": "personPrint"
     },
     "pinpoint": {
-      "codepoint": 57420,
+      "codepoint": 57425,
       "fontFamily": "Pepicons",
       "identifier": "pinpoint"
     },
     "pinpoint-filled": {
-      "codepoint": 57421,
+      "codepoint": 57426,
       "fontFamily": "Pepicons",
       "identifier": "pinpointFilled"
     },
     "pinpoint-off": {
-      "codepoint": 57422,
+      "codepoint": 57427,
       "fontFamily": "Pepicons",
       "identifier": "pinpointOff"
     },
     "pinpoint-off-filled": {
-      "codepoint": 57423,
+      "codepoint": 57428,
       "fontFamily": "Pepicons",
       "identifier": "pinpointOffFilled"
     },
     "pinpoint-print": {
-      "codepoint": 57424,
+      "codepoint": 57429,
       "fontFamily": "Pepicons",
-      "identifier": "pinpointPrint"
+      "identifier": "pinpointPrint",
+      "duotone": true
     },
     "plus": {
-      "codepoint": 57425,
+      "codepoint": 57430,
       "fontFamily": "Pepicons",
       "identifier": "plus"
     },
     "plus-print": {
-      "codepoint": 57426,
+      "codepoint": 57431,
       "fontFamily": "Pepicons",
-      "identifier": "plusPrint"
+      "identifier": "plusPrint",
+      "duotone": true
     },
     "qr-code": {
-      "codepoint": 57427,
+      "codepoint": 57432,
       "fontFamily": "Pepicons",
       "identifier": "qrCode"
     },
     "qr-code-print": {
-      "codepoint": 57428,
+      "codepoint": 57433,
       "fontFamily": "Pepicons",
       "identifier": "qrCodePrint"
     },
     "refresh": {
-      "codepoint": 57429,
+      "codepoint": 57434,
       "fontFamily": "Pepicons",
       "identifier": "refresh"
     },
     "scissors": {
-      "codepoint": 57430,
+      "codepoint": 57435,
       "fontFamily": "Pepicons",
       "identifier": "scissors"
     },
     "sliders": {
-      "codepoint": 57431,
+      "codepoint": 57436,
       "fontFamily": "Pepicons",
       "identifier": "sliders"
     },
     "sliders-print": {
-      "codepoint": 57432,
+      "codepoint": 57437,
       "fontFamily": "Pepicons",
       "identifier": "slidersPrint"
     },
     "smartphone-cutout": {
-      "codepoint": 57433,
+      "codepoint": 57438,
       "fontFamily": "Pepicons",
       "identifier": "smartphoneCutout"
     },
     "smartphone-cutout-print": {
-      "codepoint": 57434,
+      "codepoint": 57439,
       "fontFamily": "Pepicons",
-      "identifier": "smartphoneCutoutPrint"
+      "identifier": "smartphoneCutoutPrint",
+      "duotone": true
     },
     "smartphone-notch-print": {
-      "codepoint": 57435,
+      "codepoint": 57440,
       "fontFamily": "Pepicons",
-      "identifier": "smartphoneNotchPrint"
+      "identifier": "smartphoneNotchPrint",
+      "duotone": true
     },
     "smartphone2": {
-      "codepoint": 57436,
+      "codepoint": 57441,
       "fontFamily": "Pepicons",
       "identifier": "smartphone2"
     },
+    "smartphone2-print": {
+      "codepoint": 57442,
+      "fontFamily": "Pepicons",
+      "identifier": "smartphone2Print",
+      "duotone": true
+    },
     "sort": {
-      "codepoint": 57437,
+      "codepoint": 57443,
       "fontFamily": "Pepicons",
       "identifier": "sort"
     },
     "square": {
-      "codepoint": 57438,
+      "codepoint": 57444,
       "fontFamily": "Pepicons",
       "identifier": "square"
     },
     "square-filled": {
-      "codepoint": 57439,
+      "codepoint": 57445,
       "fontFamily": "Pepicons",
       "identifier": "squareFilled"
     },
     "square-print": {
-      "codepoint": 57440,
+      "codepoint": 57446,
       "fontFamily": "Pepicons",
-      "identifier": "squarePrint"
+      "identifier": "squarePrint",
+      "duotone": true
     },
     "sun": {
-      "codepoint": 57441,
+      "codepoint": 57447,
       "fontFamily": "Pepicons",
       "identifier": "sun"
     },
     "sun-filled": {
-      "codepoint": 57442,
+      "codepoint": 57448,
       "fontFamily": "Pepicons",
       "identifier": "sunFilled"
     },
     "sun-print": {
-      "codepoint": 57443,
+      "codepoint": 57449,
       "fontFamily": "Pepicons",
-      "identifier": "sunPrint"
+      "identifier": "sunPrint",
+      "duotone": true
     },
     "television": {
-      "codepoint": 57444,
+      "codepoint": 57450,
       "fontFamily": "Pepicons",
       "identifier": "television"
     },
     "times": {
-      "codepoint": 57445,
+      "codepoint": 57451,
       "fontFamily": "Pepicons",
       "identifier": "times"
     },
     "trash": {
-      "codepoint": 57446,
+      "codepoint": 57452,
       "fontFamily": "Pepicons",
       "identifier": "trash"
     },
     "triangle-down-filled": {
-      "codepoint": 57447,
+      "codepoint": 57453,
       "fontFamily": "Pepicons",
       "identifier": "triangleDownFilled"
     },
     "triangle-left-filled": {
-      "codepoint": 57448,
+      "codepoint": 57454,
       "fontFamily": "Pepicons",
       "identifier": "triangleLeftFilled"
     },
     "triangle-right-filled": {
-      "codepoint": 57449,
+      "codepoint": 57455,
       "fontFamily": "Pepicons",
       "identifier": "triangleRightFilled"
     },
     "triangle-up-filled": {
-      "codepoint": 57450,
+      "codepoint": 57456,
       "fontFamily": "Pepicons",
       "identifier": "triangleUpFilled"
     }

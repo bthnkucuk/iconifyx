@@ -1,6 +1,6 @@
 name: iconifyx_duo_icons
 description: >-
-  Duoicons icons from Iconify, packaged for Flutter (24 icons, MIT license).
+  Duoicons icons from Iconify, packaged for Flutter (40 icons, MIT license).
 version: 0.1.0
 publish_to: 'none'
 
@@ -20,3 +20,6 @@ flutter:
     - family: DuoIcons
       fonts:
         - asset: assets/fonts/DuoIcons.ttf
+    - family: DuoIconsSecondary
+      fonts:
+        - asset: assets/fonts/DuoIconsSecondary.ttf

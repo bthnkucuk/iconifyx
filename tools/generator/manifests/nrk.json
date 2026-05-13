@@ -23,6 +23,11 @@
       "family": "Nrk",
       "nextCodepoint": 57531,
       "iconCount": 187
+    },
+    {
+      "family": "NrkSecondary",
+      "nextCodepoint": 57531,
+      "iconCount": 22
     }
   ],
   "icons": {
@@ -194,7 +199,8 @@
     "dialogue": {
       "codepoint": 57377,
       "fontFamily": "Nrk",
-      "identifier": "dialogue"
+      "identifier": "dialogue",
+      "duotone": true
     },
     "dice-1": {
       "codepoint": 57378,
@@ -259,7 +265,8 @@
     "download": {
       "codepoint": 57390,
       "fontFamily": "Nrk",
-      "identifier": "download"
+      "identifier": "download",
+      "duotone": true
     },
     "downloaded": {
       "codepoint": 57391,
@@ -274,7 +281,8 @@
     "edit": {
       "codepoint": 57393,
       "fontFamily": "Nrk",
-      "identifier": "edit"
+      "identifier": "edit",
+      "duotone": true
     },
     "ellipsis": {
       "codepoint": 57394,
@@ -499,17 +507,20 @@
     "media-chromecast-1": {
       "codepoint": 57438,
       "fontFamily": "Nrk",
-      "identifier": "mediaChromecast1"
+      "identifier": "mediaChromecast1",
+      "duotone": true
     },
     "media-chromecast-2": {
       "codepoint": 57439,
       "fontFamily": "Nrk",
-      "identifier": "mediaChromecast2"
+      "identifier": "mediaChromecast2",
+      "duotone": true
     },
     "media-chromecast-3": {
       "codepoint": 57440,
       "fontFamily": "Nrk",
-      "identifier": "mediaChromecast3"
+      "identifier": "mediaChromecast3",
+      "duotone": true
     },
     "media-chromecast-active": {
       "codepoint": 57441,
@@ -524,12 +535,14 @@
     "media-direkte-golive": {
       "codepoint": 57443,
       "fontFamily": "Nrk",
-      "identifier": "mediaDirekteGolive"
+      "identifier": "mediaDirekteGolive",
+      "duotone": true
     },
     "media-direkte-notlive": {
       "codepoint": 57444,
       "fontFamily": "Nrk",
-      "identifier": "mediaDirekteNotlive"
+      "identifier": "mediaDirekteNotlive",
+      "duotone": true
     },
     "media-direktetv": {
       "codepoint": 57445,
@@ -574,7 +587,8 @@
     "media-media-incomplete": {
       "codepoint": 57453,
       "fontFamily": "Nrk",
-      "identifier": "mediaMediaIncomplete"
+      "identifier": "mediaMediaIncomplete",
+      "duotone": true
     },
     "media-next": {
       "codepoint": 57454,
@@ -594,12 +608,14 @@
     "media-picture-in-picture": {
       "codepoint": 57457,
       "fontFamily": "Nrk",
-      "identifier": "mediaPictureInPicture"
+      "identifier": "mediaPictureInPicture",
+      "duotone": true
     },
     "media-picture-in-picture-active": {
       "codepoint": 57458,
       "fontFamily": "Nrk",
-      "identifier": "mediaPictureInPictureActive"
+      "identifier": "mediaPictureInPictureActive",
+      "duotone": true
     },
     "media-play": {
       "codepoint": 57459,
@@ -609,37 +625,44 @@
     "media-play-fail": {
       "codepoint": 57460,
       "fontFamily": "Nrk",
-      "identifier": "mediaPlayFail"
+      "identifier": "mediaPlayFail",
+      "duotone": true
     },
     "media-playlist": {
       "codepoint": 57461,
       "fontFamily": "Nrk",
-      "identifier": "mediaPlaylist"
+      "identifier": "mediaPlaylist",
+      "duotone": true
     },
     "media-playlist-add": {
       "codepoint": 57462,
       "fontFamily": "Nrk",
-      "identifier": "mediaPlaylistAdd"
+      "identifier": "mediaPlaylistAdd",
+      "duotone": true
     },
     "media-playlist-add-later": {
       "codepoint": 57463,
       "fontFamily": "Nrk",
-      "identifier": "mediaPlaylistAddLater"
+      "identifier": "mediaPlaylistAddLater",
+      "duotone": true
     },
     "media-playlist-add-next": {
       "codepoint": 57464,
       "fontFamily": "Nrk",
-      "identifier": "mediaPlaylistAddNext"
+      "identifier": "mediaPlaylistAddNext",
+      "duotone": true
     },
     "media-playlist-added": {
       "codepoint": 57465,
       "fontFamily": "Nrk",
-      "identifier": "mediaPlaylistAdded"
+      "identifier": "mediaPlaylistAdded",
+      "duotone": true
     },
     "media-playlist-remove": {
       "codepoint": 57466,
       "fontFamily": "Nrk",
-      "identifier": "mediaPlaylistRemove"
+      "identifier": "mediaPlaylistRemove",
+      "duotone": true
     },
     "media-previous": {
       "codepoint": 57467,
@@ -699,12 +722,14 @@
     "media-theater": {
       "codepoint": 57478,
       "fontFamily": "Nrk",
-      "identifier": "mediaTheater"
+      "identifier": "mediaTheater",
+      "duotone": true
     },
     "media-theater-active": {
       "codepoint": 57479,
       "fontFamily": "Nrk",
-      "identifier": "mediaTheaterActive"
+      "identifier": "mediaTheaterActive",
+      "duotone": true
     },
     "media-tilgjengelighet-kommer": {
       "codepoint": 57480,
@@ -764,7 +789,8 @@
     "new-chat": {
       "codepoint": 57491,
       "fontFamily": "Nrk",
-      "identifier": "newChat"
+      "identifier": "newChat",
+      "duotone": true
     },
     "note-1-off": {
       "codepoint": 57492,
@@ -794,7 +820,8 @@
     "progress": {
       "codepoint": 57497,
       "fontFamily": "Nrk",
-      "identifier": "progress"
+      "identifier": "progress",
+      "duotone": true
     },
     "quiz": {
       "codepoint": 57498,

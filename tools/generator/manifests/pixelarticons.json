@@ -23,6 +23,11 @@
       "family": "Pixelarticons",
       "nextCodepoint": 58443,
       "iconCount": 1099
+    },
+    {
+      "family": "PixelarticonsSecondary",
+      "nextCodepoint": 58443,
+      "iconCount": 2
     }
   ],
   "icons": {
@@ -3479,12 +3484,14 @@
     "mail-right": {
       "codepoint": 58034,
       "fontFamily": "Pixelarticons",
-      "identifier": "mailRight"
+      "identifier": "mailRight",
+      "duotone": true
     },
     "mail-right-sharp": {
       "codepoint": 58035,
       "fontFamily": "Pixelarticons",
-      "identifier": "mailRightSharp"
+      "identifier": "mailRightSharp",
+      "duotone": true
     },
     "mail-sharp": {
       "codepoint": 58036,

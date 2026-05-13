@@ -11,5 +11,5 @@ const IconSetLicense iconSetLicense = IconSetLicense(
   licenseTitle: 'MIT',
   licenseSpdx: 'MIT',
   licenseUrl: 'https://github.com/fazdiu/duo-icons/blob/master/LICENSE',
-  iconCount: 24,
+  iconCount: 40,
 );

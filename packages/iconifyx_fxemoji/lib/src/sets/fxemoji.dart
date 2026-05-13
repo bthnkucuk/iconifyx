@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Mozilla
 /// License: Apache 2.0 — https://mozilla.github.io/fxemoji/LICENSE.md
-/// Icons: 536
+/// Icons: 536 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -1409,10 +1409,17 @@ class FxemojiIcons {
     fontPackage: 'iconifyx_fxemoji',
   ));
 
-  /// `glasses`
-  static const IconifyIconData glasses = IconifyIconData(IconData(
+  /// `glasses` — primary layer (full opacity)
+  static const IconifyIconData glassesPrimary = IconifyIconData(IconData(
     0xe0c7,
     fontFamily: 'Fxemoji',
+    fontPackage: 'iconifyx_fxemoji',
+  ));
+
+  /// `glasses` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData glassesSecondary = IconifyIconData(IconData(
+    0xe0c7,
+    fontFamily: 'FxemojiSecondary',
     fontPackage: 'iconifyx_fxemoji',
   ));
 

@@ -23,6 +23,11 @@
       "family": "RadixIcons",
       "nextCodepoint": 57689,
       "iconCount": 345
+    },
+    {
+      "family": "RadixIconsSecondary",
+      "nextCodepoint": 57689,
+      "iconCount": 4
     }
   ],
   "icons": {
@@ -1389,22 +1394,26 @@
     "shadow": {
       "codepoint": 57616,
       "fontFamily": "RadixIcons",
-      "identifier": "shadow"
+      "identifier": "shadow",
+      "duotone": true
     },
     "shadow-inner": {
       "codepoint": 57617,
       "fontFamily": "RadixIcons",
-      "identifier": "shadowInner"
+      "identifier": "shadowInner",
+      "duotone": true
     },
     "shadow-none": {
       "codepoint": 57618,
       "fontFamily": "RadixIcons",
-      "identifier": "shadowNone"
+      "identifier": "shadowNone",
+      "duotone": true
     },
     "shadow-outer": {
       "codepoint": 57619,
       "fontFamily": "RadixIcons",
-      "identifier": "shadowOuter"
+      "identifier": "shadowOuter",
+      "duotone": true
     },
     "share-1": {
       "codepoint": 57620,

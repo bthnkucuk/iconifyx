@@ -23,3 +23,6 @@ flutter:
     - family: Arcticons_2
       fonts:
         - asset: assets/fonts/Arcticons_2.ttf
+    - family: ArcticonsSecondary
+      fonts:
+        - asset: assets/fonts/ArcticonsSecondary.ttf

@@ -16,13 +16,18 @@
       "spdx": "CC0-1.0",
       "url": "https://creativecommons.org/publicdomain/zero/1.0/"
     },
-    "total": 48
+    "total": 49
   },
   "fonts": [
     {
       "family": "CryptocurrencyColor",
-      "nextCodepoint": 57392,
-      "iconCount": 48
+      "nextCodepoint": 57393,
+      "iconCount": 49
+    },
+    {
+      "family": "CryptocurrencyColorSecondary",
+      "nextCodepoint": 57393,
+      "iconCount": 1
     }
   ],
   "icons": {
@@ -265,6 +270,12 @@
       "codepoint": 57391,
       "fontFamily": "CryptocurrencyColor",
       "identifier": "waves"
+    },
+    "xvg": {
+      "codepoint": 57392,
+      "fontFamily": "CryptocurrencyColor",
+      "identifier": "xvg",
+      "duotone": true
     }
   }
 }

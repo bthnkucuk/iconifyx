@@ -20,3 +20,6 @@ flutter:
     - family: Ei
       fonts:
         - asset: assets/fonts/Ei.ttf
+    - family: EiSecondary
+      fonts:
+        - asset: assets/fonts/EiSecondary.ttf

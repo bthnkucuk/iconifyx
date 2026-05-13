@@ -20,3 +20,6 @@ flutter:
     - family: Cryptocurrency
       fonts:
         - asset: assets/fonts/Cryptocurrency.ttf
+    - family: CryptocurrencySecondary
+      fonts:
+        - asset: assets/fonts/CryptocurrencySecondary.ttf

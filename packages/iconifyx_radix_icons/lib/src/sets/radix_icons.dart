@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: WorkOS
 /// License: MIT — https://github.com/radix-ui/icons/blob/master/LICENSE
-/// Icons: 345
+/// Icons: 345 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -1920,31 +1920,59 @@ class RadixIconsIcons {
     fontPackage: 'iconifyx_radix_icons',
   ));
 
-  /// `shadow`
-  static const IconifyIconData shadow = IconifyIconData(IconData(
+  /// `shadow` — primary layer (full opacity)
+  static const IconifyIconData shadowPrimary = IconifyIconData(IconData(
     0xe110,
     fontFamily: 'RadixIcons',
     fontPackage: 'iconifyx_radix_icons',
   ));
 
-  /// `shadow-inner`
-  static const IconifyIconData shadowInner = IconifyIconData(IconData(
+  /// `shadow` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData shadowSecondary = IconifyIconData(IconData(
+    0xe110,
+    fontFamily: 'RadixIconsSecondary',
+    fontPackage: 'iconifyx_radix_icons',
+  ));
+
+  /// `shadow-inner` — primary layer (full opacity)
+  static const IconifyIconData shadowInnerPrimary = IconifyIconData(IconData(
     0xe111,
     fontFamily: 'RadixIcons',
     fontPackage: 'iconifyx_radix_icons',
   ));
 
-  /// `shadow-none`
-  static const IconifyIconData shadowNone = IconifyIconData(IconData(
+  /// `shadow-inner` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData shadowInnerSecondary = IconifyIconData(IconData(
+    0xe111,
+    fontFamily: 'RadixIconsSecondary',
+    fontPackage: 'iconifyx_radix_icons',
+  ));
+
+  /// `shadow-none` — primary layer (full opacity)
+  static const IconifyIconData shadowNonePrimary = IconifyIconData(IconData(
     0xe112,
     fontFamily: 'RadixIcons',
     fontPackage: 'iconifyx_radix_icons',
   ));
 
-  /// `shadow-outer`
-  static const IconifyIconData shadowOuter = IconifyIconData(IconData(
+  /// `shadow-none` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData shadowNoneSecondary = IconifyIconData(IconData(
+    0xe112,
+    fontFamily: 'RadixIconsSecondary',
+    fontPackage: 'iconifyx_radix_icons',
+  ));
+
+  /// `shadow-outer` — primary layer (full opacity)
+  static const IconifyIconData shadowOuterPrimary = IconifyIconData(IconData(
     0xe113,
     fontFamily: 'RadixIcons',
+    fontPackage: 'iconifyx_radix_icons',
+  ));
+
+  /// `shadow-outer` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData shadowOuterSecondary = IconifyIconData(IconData(
+    0xe113,
+    fontFamily: 'RadixIconsSecondary',
     fontPackage: 'iconifyx_radix_icons',
   ));
 

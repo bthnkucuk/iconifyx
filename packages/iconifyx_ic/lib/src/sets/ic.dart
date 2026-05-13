@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Material Design Authors
 /// License: Apache 2.0 — https://github.com/material-icons/material-icons/blob/master/LICENSE
-/// Icons: 11008 (split across 2 fonts)
+/// Icons: 11012 (split across 4 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -12413,10 +12413,17 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `baseline-signal-wifi-1-bar-lock`
-  static const IconifyIconData baselineSignalWifi1BarLock = IconifyIconData(IconData(
+  /// `baseline-signal-wifi-1-bar-lock` — primary layer (full opacity)
+  static const IconifyIconData baselineSignalWifi1BarLockPrimary = IconifyIconData(IconData(
     0xe6eb,
     fontFamily: 'Ic',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `baseline-signal-wifi-1-bar-lock` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData baselineSignalWifi1BarLockSecondary = IconifyIconData(IconData(
+    0xe6eb,
+    fontFamily: 'IcSecondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -12427,10 +12434,17 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `baseline-signal-wifi-2-bar-lock`
-  static const IconifyIconData baselineSignalWifi2BarLock = IconifyIconData(IconData(
+  /// `baseline-signal-wifi-2-bar-lock` — primary layer (full opacity)
+  static const IconifyIconData baselineSignalWifi2BarLockPrimary = IconifyIconData(IconData(
     0xe6ed,
     fontFamily: 'Ic',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `baseline-signal-wifi-2-bar-lock` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData baselineSignalWifi2BarLockSecondary = IconifyIconData(IconData(
+    0xe6ed,
+    fontFamily: 'IcSecondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -12441,10 +12455,17 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `baseline-signal-wifi-3-bar-lock`
-  static const IconifyIconData baselineSignalWifi3BarLock = IconifyIconData(IconData(
+  /// `baseline-signal-wifi-3-bar-lock` — primary layer (full opacity)
+  static const IconifyIconData baselineSignalWifi3BarLockPrimary = IconifyIconData(IconData(
     0xe6ef,
     fontFamily: 'Ic',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `baseline-signal-wifi-3-bar-lock` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData baselineSignalWifi3BarLockSecondary = IconifyIconData(IconData(
+    0xe6ef,
+    fontFamily: 'IcSecondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -61098,10 +61119,17 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `signal-wifi-1-bar-lock`
-  static const IconifyIconData signalWifi1BarLock = IconifyIconData(IconData(
+  /// `signal-wifi-1-bar-lock` — primary layer (full opacity)
+  static const IconifyIconData signalWifi1BarLockPrimary = IconifyIconData(IconData(
     0xeaa6,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `signal-wifi-1-bar-lock` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData signalWifi1BarLockSecondary = IconifyIconData(IconData(
+    0xeaa6,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -61112,10 +61140,17 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `signal-wifi-2-bar-lock`
-  static const IconifyIconData signalWifi2BarLock = IconifyIconData(IconData(
+  /// `signal-wifi-2-bar-lock` — primary layer (full opacity)
+  static const IconifyIconData signalWifi2BarLockPrimary = IconifyIconData(IconData(
     0xeaa8,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `signal-wifi-2-bar-lock` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData signalWifi2BarLockSecondary = IconifyIconData(IconData(
+    0xeaa8,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -61126,10 +61161,17 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `signal-wifi-3-bar-lock`
-  static const IconifyIconData signalWifi3BarLock = IconifyIconData(IconData(
+  /// `signal-wifi-3-bar-lock` — primary layer (full opacity)
+  static const IconifyIconData signalWifi3BarLockPrimary = IconifyIconData(IconData(
     0xeaaa,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `signal-wifi-3-bar-lock` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData signalWifi3BarLockSecondary = IconifyIconData(IconData(
+    0xeaaa,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -61840,24 +61882,45 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-10k`
-  static const IconifyIconData twotone10k = IconifyIconData(IconData(
+  /// `twotone-10k` — primary layer (full opacity)
+  static const IconifyIconData twotone10kPrimary = IconifyIconData(IconData(
     0xeb10,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-10mp`
-  static const IconifyIconData twotone10mp = IconifyIconData(IconData(
+  /// `twotone-10k` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone10kSecondary = IconifyIconData(IconData(
+    0xeb10,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-10mp` — primary layer (full opacity)
+  static const IconifyIconData twotone10mpPrimary = IconifyIconData(IconData(
     0xeb11,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-11mp`
-  static const IconifyIconData twotone11mp = IconifyIconData(IconData(
+  /// `twotone-10mp` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone10mpSecondary = IconifyIconData(IconData(
+    0xeb11,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-11mp` — primary layer (full opacity)
+  static const IconifyIconData twotone11mpPrimary = IconifyIconData(IconData(
     0xeb12,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-11mp` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone11mpSecondary = IconifyIconData(IconData(
+    0xeb12,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -61868,10 +61931,17 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-12mp`
-  static const IconifyIconData twotone12mp = IconifyIconData(IconData(
+  /// `twotone-12mp` — primary layer (full opacity)
+  static const IconifyIconData twotone12mpPrimary = IconifyIconData(IconData(
     0xeb14,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-12mp` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone12mpSecondary = IconifyIconData(IconData(
+    0xeb14,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -61882,66 +61952,129 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-14mp`
-  static const IconifyIconData twotone14mp = IconifyIconData(IconData(
+  /// `twotone-14mp` — primary layer (full opacity)
+  static const IconifyIconData twotone14mpPrimary = IconifyIconData(IconData(
     0xeb16,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-15mp`
-  static const IconifyIconData twotone15mp = IconifyIconData(IconData(
+  /// `twotone-14mp` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone14mpSecondary = IconifyIconData(IconData(
+    0xeb16,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-15mp` — primary layer (full opacity)
+  static const IconifyIconData twotone15mpPrimary = IconifyIconData(IconData(
     0xeb17,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-16mp`
-  static const IconifyIconData twotone16mp = IconifyIconData(IconData(
+  /// `twotone-15mp` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone15mpSecondary = IconifyIconData(IconData(
+    0xeb17,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-16mp` — primary layer (full opacity)
+  static const IconifyIconData twotone16mpPrimary = IconifyIconData(IconData(
     0xeb18,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-17mp`
-  static const IconifyIconData twotone17mp = IconifyIconData(IconData(
+  /// `twotone-16mp` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone16mpSecondary = IconifyIconData(IconData(
+    0xeb18,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-17mp` — primary layer (full opacity)
+  static const IconifyIconData twotone17mpPrimary = IconifyIconData(IconData(
     0xeb19,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-18-up-rating`
-  static const IconifyIconData twotone18UpRating = IconifyIconData(IconData(
+  /// `twotone-17mp` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone17mpSecondary = IconifyIconData(IconData(
+    0xeb19,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-18-up-rating` — primary layer (full opacity)
+  static const IconifyIconData twotone18UpRatingPrimary = IconifyIconData(IconData(
     0xeb1a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-18mp`
-  static const IconifyIconData twotone18mp = IconifyIconData(IconData(
+  /// `twotone-18-up-rating` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone18UpRatingSecondary = IconifyIconData(IconData(
+    0xeb1a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-18mp` — primary layer (full opacity)
+  static const IconifyIconData twotone18mpPrimary = IconifyIconData(IconData(
     0xeb1b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-19mp`
-  static const IconifyIconData twotone19mp = IconifyIconData(IconData(
+  /// `twotone-18mp` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone18mpSecondary = IconifyIconData(IconData(
+    0xeb1b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-19mp` — primary layer (full opacity)
+  static const IconifyIconData twotone19mpPrimary = IconifyIconData(IconData(
     0xeb1c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-1k`
-  static const IconifyIconData twotone1k = IconifyIconData(IconData(
+  /// `twotone-19mp` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone19mpSecondary = IconifyIconData(IconData(
+    0xeb1c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-1k` — primary layer (full opacity)
+  static const IconifyIconData twotone1kPrimary = IconifyIconData(IconData(
     0xeb1d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-1k-plus`
-  static const IconifyIconData twotone1kPlus = IconifyIconData(IconData(
+  /// `twotone-1k` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone1kSecondary = IconifyIconData(IconData(
+    0xeb1d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-1k-plus` — primary layer (full opacity)
+  static const IconifyIconData twotone1kPlusPrimary = IconifyIconData(IconData(
     0xeb1e,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-1k-plus` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone1kPlusSecondary = IconifyIconData(IconData(
+    0xeb1e,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -61952,59 +62085,115 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-20mp`
-  static const IconifyIconData twotone20mp = IconifyIconData(IconData(
+  /// `twotone-20mp` — primary layer (full opacity)
+  static const IconifyIconData twotone20mpPrimary = IconifyIconData(IconData(
     0xeb20,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-21mp`
-  static const IconifyIconData twotone21mp = IconifyIconData(IconData(
+  /// `twotone-20mp` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone20mpSecondary = IconifyIconData(IconData(
+    0xeb20,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-21mp` — primary layer (full opacity)
+  static const IconifyIconData twotone21mpPrimary = IconifyIconData(IconData(
     0xeb21,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-22mp`
-  static const IconifyIconData twotone22mp = IconifyIconData(IconData(
+  /// `twotone-21mp` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone21mpSecondary = IconifyIconData(IconData(
+    0xeb21,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-22mp` — primary layer (full opacity)
+  static const IconifyIconData twotone22mpPrimary = IconifyIconData(IconData(
     0xeb22,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-23mp`
-  static const IconifyIconData twotone23mp = IconifyIconData(IconData(
+  /// `twotone-22mp` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone22mpSecondary = IconifyIconData(IconData(
+    0xeb22,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-23mp` — primary layer (full opacity)
+  static const IconifyIconData twotone23mpPrimary = IconifyIconData(IconData(
     0xeb23,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-24mp`
-  static const IconifyIconData twotone24mp = IconifyIconData(IconData(
+  /// `twotone-23mp` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone23mpSecondary = IconifyIconData(IconData(
+    0xeb23,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-24mp` — primary layer (full opacity)
+  static const IconifyIconData twotone24mpPrimary = IconifyIconData(IconData(
     0xeb24,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-2k`
-  static const IconifyIconData twotone2k = IconifyIconData(IconData(
+  /// `twotone-24mp` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone24mpSecondary = IconifyIconData(IconData(
+    0xeb24,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-2k` — primary layer (full opacity)
+  static const IconifyIconData twotone2kPrimary = IconifyIconData(IconData(
     0xeb25,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-2k-plus`
-  static const IconifyIconData twotone2kPlus = IconifyIconData(IconData(
+  /// `twotone-2k` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone2kSecondary = IconifyIconData(IconData(
+    0xeb25,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-2k-plus` — primary layer (full opacity)
+  static const IconifyIconData twotone2kPlusPrimary = IconifyIconData(IconData(
     0xeb26,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-2mp`
-  static const IconifyIconData twotone2mp = IconifyIconData(IconData(
+  /// `twotone-2k-plus` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone2kPlusSecondary = IconifyIconData(IconData(
+    0xeb26,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-2mp` — primary layer (full opacity)
+  static const IconifyIconData twotone2mpPrimary = IconifyIconData(IconData(
     0xeb27,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-2mp` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone2mpSecondary = IconifyIconData(IconData(
+    0xeb27,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62036,31 +62225,59 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-3k`
-  static const IconifyIconData twotone3k = IconifyIconData(IconData(
+  /// `twotone-3k` — primary layer (full opacity)
+  static const IconifyIconData twotone3kPrimary = IconifyIconData(IconData(
     0xeb2c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-3k-plus`
-  static const IconifyIconData twotone3kPlus = IconifyIconData(IconData(
+  /// `twotone-3k` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone3kSecondary = IconifyIconData(IconData(
+    0xeb2c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-3k-plus` — primary layer (full opacity)
+  static const IconifyIconData twotone3kPlusPrimary = IconifyIconData(IconData(
     0xeb2d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-3mp`
-  static const IconifyIconData twotone3mp = IconifyIconData(IconData(
+  /// `twotone-3k-plus` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone3kPlusSecondary = IconifyIconData(IconData(
+    0xeb2d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-3mp` — primary layer (full opacity)
+  static const IconifyIconData twotone3mpPrimary = IconifyIconData(IconData(
     0xeb2e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-3p`
-  static const IconifyIconData twotone3p = IconifyIconData(IconData(
+  /// `twotone-3mp` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone3mpSecondary = IconifyIconData(IconData(
+    0xeb2e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-3p` — primary layer (full opacity)
+  static const IconifyIconData twotone3pPrimary = IconifyIconData(IconData(
     0xeb2f,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-3p` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone3pSecondary = IconifyIconData(IconData(
+    0xeb2f,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62078,24 +62295,45 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-4k`
-  static const IconifyIconData twotone4k = IconifyIconData(IconData(
+  /// `twotone-4k` — primary layer (full opacity)
+  static const IconifyIconData twotone4kPrimary = IconifyIconData(IconData(
     0xeb32,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-4k-plus`
-  static const IconifyIconData twotone4kPlus = IconifyIconData(IconData(
+  /// `twotone-4k` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone4kSecondary = IconifyIconData(IconData(
+    0xeb32,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-4k-plus` — primary layer (full opacity)
+  static const IconifyIconData twotone4kPlusPrimary = IconifyIconData(IconData(
     0xeb33,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-4mp`
-  static const IconifyIconData twotone4mp = IconifyIconData(IconData(
+  /// `twotone-4k-plus` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone4kPlusSecondary = IconifyIconData(IconData(
+    0xeb33,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-4mp` — primary layer (full opacity)
+  static const IconifyIconData twotone4mpPrimary = IconifyIconData(IconData(
     0xeb34,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-4mp` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone4mpSecondary = IconifyIconData(IconData(
+    0xeb34,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62106,24 +62344,45 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-5k`
-  static const IconifyIconData twotone5k = IconifyIconData(IconData(
+  /// `twotone-5k` — primary layer (full opacity)
+  static const IconifyIconData twotone5kPrimary = IconifyIconData(IconData(
     0xeb36,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-5k-plus`
-  static const IconifyIconData twotone5kPlus = IconifyIconData(IconData(
+  /// `twotone-5k` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone5kSecondary = IconifyIconData(IconData(
+    0xeb36,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-5k-plus` — primary layer (full opacity)
+  static const IconifyIconData twotone5kPlusPrimary = IconifyIconData(IconData(
     0xeb37,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-5mp`
-  static const IconifyIconData twotone5mp = IconifyIconData(IconData(
+  /// `twotone-5k-plus` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone5kPlusSecondary = IconifyIconData(IconData(
+    0xeb37,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-5mp` — primary layer (full opacity)
+  static const IconifyIconData twotone5mpPrimary = IconifyIconData(IconData(
     0xeb38,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-5mp` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone5mpSecondary = IconifyIconData(IconData(
+    0xeb38,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62148,87 +62407,171 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-6k`
-  static const IconifyIconData twotone6k = IconifyIconData(IconData(
+  /// `twotone-6k` — primary layer (full opacity)
+  static const IconifyIconData twotone6kPrimary = IconifyIconData(IconData(
     0xeb3c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-6k-plus`
-  static const IconifyIconData twotone6kPlus = IconifyIconData(IconData(
+  /// `twotone-6k` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone6kSecondary = IconifyIconData(IconData(
+    0xeb3c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-6k-plus` — primary layer (full opacity)
+  static const IconifyIconData twotone6kPlusPrimary = IconifyIconData(IconData(
     0xeb3d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-6mp`
-  static const IconifyIconData twotone6mp = IconifyIconData(IconData(
+  /// `twotone-6k-plus` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone6kPlusSecondary = IconifyIconData(IconData(
+    0xeb3d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-6mp` — primary layer (full opacity)
+  static const IconifyIconData twotone6mpPrimary = IconifyIconData(IconData(
     0xeb3e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-7k`
-  static const IconifyIconData twotone7k = IconifyIconData(IconData(
+  /// `twotone-6mp` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone6mpSecondary = IconifyIconData(IconData(
+    0xeb3e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-7k` — primary layer (full opacity)
+  static const IconifyIconData twotone7kPrimary = IconifyIconData(IconData(
     0xeb3f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-7k-plus`
-  static const IconifyIconData twotone7kPlus = IconifyIconData(IconData(
+  /// `twotone-7k` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone7kSecondary = IconifyIconData(IconData(
+    0xeb3f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-7k-plus` — primary layer (full opacity)
+  static const IconifyIconData twotone7kPlusPrimary = IconifyIconData(IconData(
     0xeb40,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-7mp`
-  static const IconifyIconData twotone7mp = IconifyIconData(IconData(
+  /// `twotone-7k-plus` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone7kPlusSecondary = IconifyIconData(IconData(
+    0xeb40,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-7mp` — primary layer (full opacity)
+  static const IconifyIconData twotone7mpPrimary = IconifyIconData(IconData(
     0xeb41,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-8k`
-  static const IconifyIconData twotone8k = IconifyIconData(IconData(
+  /// `twotone-7mp` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone7mpSecondary = IconifyIconData(IconData(
+    0xeb41,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-8k` — primary layer (full opacity)
+  static const IconifyIconData twotone8kPrimary = IconifyIconData(IconData(
     0xeb42,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-8k-plus`
-  static const IconifyIconData twotone8kPlus = IconifyIconData(IconData(
+  /// `twotone-8k` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone8kSecondary = IconifyIconData(IconData(
+    0xeb42,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-8k-plus` — primary layer (full opacity)
+  static const IconifyIconData twotone8kPlusPrimary = IconifyIconData(IconData(
     0xeb43,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-8mp`
-  static const IconifyIconData twotone8mp = IconifyIconData(IconData(
+  /// `twotone-8k-plus` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone8kPlusSecondary = IconifyIconData(IconData(
+    0xeb43,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-8mp` — primary layer (full opacity)
+  static const IconifyIconData twotone8mpPrimary = IconifyIconData(IconData(
     0xeb44,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-9k`
-  static const IconifyIconData twotone9k = IconifyIconData(IconData(
+  /// `twotone-8mp` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone8mpSecondary = IconifyIconData(IconData(
+    0xeb44,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-9k` — primary layer (full opacity)
+  static const IconifyIconData twotone9kPrimary = IconifyIconData(IconData(
     0xeb45,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-9k-plus`
-  static const IconifyIconData twotone9kPlus = IconifyIconData(IconData(
+  /// `twotone-9k` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone9kSecondary = IconifyIconData(IconData(
+    0xeb45,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-9k-plus` — primary layer (full opacity)
+  static const IconifyIconData twotone9kPlusPrimary = IconifyIconData(IconData(
     0xeb46,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-9mp`
-  static const IconifyIconData twotone9mp = IconifyIconData(IconData(
+  /// `twotone-9k-plus` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone9kPlusSecondary = IconifyIconData(IconData(
+    0xeb46,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-9mp` — primary layer (full opacity)
+  static const IconifyIconData twotone9mpPrimary = IconifyIconData(IconData(
     0xeb47,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-9mp` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotone9mpSecondary = IconifyIconData(IconData(
+    0xeb47,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62246,24 +62589,45 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-access-alarm`
-  static const IconifyIconData twotoneAccessAlarm = IconifyIconData(IconData(
+  /// `twotone-access-alarm` — primary layer (full opacity)
+  static const IconifyIconData twotoneAccessAlarmPrimary = IconifyIconData(IconData(
     0xeb4a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-access-alarms`
-  static const IconifyIconData twotoneAccessAlarms = IconifyIconData(IconData(
+  /// `twotone-access-alarm` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAccessAlarmSecondary = IconifyIconData(IconData(
+    0xeb4a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-access-alarms` — primary layer (full opacity)
+  static const IconifyIconData twotoneAccessAlarmsPrimary = IconifyIconData(IconData(
     0xeb4b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-access-time`
-  static const IconifyIconData twotoneAccessTime = IconifyIconData(IconData(
+  /// `twotone-access-alarms` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAccessAlarmsSecondary = IconifyIconData(IconData(
+    0xeb4b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-access-time` — primary layer (full opacity)
+  static const IconifyIconData twotoneAccessTimePrimary = IconifyIconData(IconData(
     0xeb4c,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-access-time` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAccessTimeSecondary = IconifyIconData(IconData(
+    0xeb4c,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62302,45 +62666,87 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-account-balance`
-  static const IconifyIconData twotoneAccountBalance = IconifyIconData(IconData(
+  /// `twotone-account-balance` — primary layer (full opacity)
+  static const IconifyIconData twotoneAccountBalancePrimary = IconifyIconData(IconData(
     0xeb52,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-account-balance-wallet`
-  static const IconifyIconData twotoneAccountBalanceWallet = IconifyIconData(IconData(
+  /// `twotone-account-balance` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAccountBalanceSecondary = IconifyIconData(IconData(
+    0xeb52,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-account-balance-wallet` — primary layer (full opacity)
+  static const IconifyIconData twotoneAccountBalanceWalletPrimary = IconifyIconData(IconData(
     0xeb53,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-account-box`
-  static const IconifyIconData twotoneAccountBox = IconifyIconData(IconData(
+  /// `twotone-account-balance-wallet` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAccountBalanceWalletSecondary = IconifyIconData(IconData(
+    0xeb53,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-account-box` — primary layer (full opacity)
+  static const IconifyIconData twotoneAccountBoxPrimary = IconifyIconData(IconData(
     0xeb54,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-account-circle`
-  static const IconifyIconData twotoneAccountCircle = IconifyIconData(IconData(
+  /// `twotone-account-box` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAccountBoxSecondary = IconifyIconData(IconData(
+    0xeb54,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-account-circle` — primary layer (full opacity)
+  static const IconifyIconData twotoneAccountCirclePrimary = IconifyIconData(IconData(
     0xeb55,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-account-tree`
-  static const IconifyIconData twotoneAccountTree = IconifyIconData(IconData(
+  /// `twotone-account-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAccountCircleSecondary = IconifyIconData(IconData(
+    0xeb55,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-account-tree` — primary layer (full opacity)
+  static const IconifyIconData twotoneAccountTreePrimary = IconifyIconData(IconData(
     0xeb56,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-ad-units`
-  static const IconifyIconData twotoneAdUnits = IconifyIconData(IconData(
+  /// `twotone-account-tree` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAccountTreeSecondary = IconifyIconData(IconData(
+    0xeb56,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-ad-units` — primary layer (full opacity)
+  static const IconifyIconData twotoneAdUnitsPrimary = IconifyIconData(IconData(
     0xeb57,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-ad-units` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAdUnitsSecondary = IconifyIconData(IconData(
+    0xeb57,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62358,38 +62764,73 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-add-a-photo`
-  static const IconifyIconData twotoneAddAPhoto = IconifyIconData(IconData(
+  /// `twotone-add-a-photo` — primary layer (full opacity)
+  static const IconifyIconData twotoneAddAPhotoPrimary = IconifyIconData(IconData(
     0xeb5a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-add-alarm`
-  static const IconifyIconData twotoneAddAlarm = IconifyIconData(IconData(
+  /// `twotone-add-a-photo` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAddAPhotoSecondary = IconifyIconData(IconData(
+    0xeb5a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-add-alarm` — primary layer (full opacity)
+  static const IconifyIconData twotoneAddAlarmPrimary = IconifyIconData(IconData(
     0xeb5b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-add-alert`
-  static const IconifyIconData twotoneAddAlert = IconifyIconData(IconData(
+  /// `twotone-add-alarm` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAddAlarmSecondary = IconifyIconData(IconData(
+    0xeb5b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-add-alert` — primary layer (full opacity)
+  static const IconifyIconData twotoneAddAlertPrimary = IconifyIconData(IconData(
     0xeb5c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-add-box`
-  static const IconifyIconData twotoneAddBox = IconifyIconData(IconData(
+  /// `twotone-add-alert` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAddAlertSecondary = IconifyIconData(IconData(
+    0xeb5c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-add-box` — primary layer (full opacity)
+  static const IconifyIconData twotoneAddBoxPrimary = IconifyIconData(IconData(
     0xeb5d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-add-business`
-  static const IconifyIconData twotoneAddBusiness = IconifyIconData(IconData(
+  /// `twotone-add-box` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAddBoxSecondary = IconifyIconData(IconData(
+    0xeb5d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-add-business` — primary layer (full opacity)
+  static const IconifyIconData twotoneAddBusinessPrimary = IconifyIconData(IconData(
     0xeb5e,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-add-business` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAddBusinessSecondary = IconifyIconData(IconData(
+    0xeb5e,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62407,10 +62848,17 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-add-circle`
-  static const IconifyIconData twotoneAddCircle = IconifyIconData(IconData(
+  /// `twotone-add-circle` — primary layer (full opacity)
+  static const IconifyIconData twotoneAddCirclePrimary = IconifyIconData(IconData(
     0xeb61,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-add-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAddCircleSecondary = IconifyIconData(IconData(
+    0xeb61,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62421,31 +62869,59 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-add-comment`
-  static const IconifyIconData twotoneAddComment = IconifyIconData(IconData(
+  /// `twotone-add-comment` — primary layer (full opacity)
+  static const IconifyIconData twotoneAddCommentPrimary = IconifyIconData(IconData(
     0xeb63,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-add-home`
-  static const IconifyIconData twotoneAddHome = IconifyIconData(IconData(
+  /// `twotone-add-comment` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAddCommentSecondary = IconifyIconData(IconData(
+    0xeb63,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-add-home` — primary layer (full opacity)
+  static const IconifyIconData twotoneAddHomePrimary = IconifyIconData(IconData(
     0xeb64,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-add-home-work`
-  static const IconifyIconData twotoneAddHomeWork = IconifyIconData(IconData(
+  /// `twotone-add-home` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAddHomeSecondary = IconifyIconData(IconData(
+    0xeb64,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-add-home-work` — primary layer (full opacity)
+  static const IconifyIconData twotoneAddHomeWorkPrimary = IconifyIconData(IconData(
     0xeb65,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-add-ic-call`
-  static const IconifyIconData twotoneAddIcCall = IconifyIconData(IconData(
+  /// `twotone-add-home-work` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAddHomeWorkSecondary = IconifyIconData(IconData(
+    0xeb65,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-add-ic-call` — primary layer (full opacity)
+  static const IconifyIconData twotoneAddIcCallPrimary = IconifyIconData(IconData(
     0xeb66,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-add-ic-call` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAddIcCallSecondary = IconifyIconData(IconData(
+    0xeb66,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62456,10 +62932,17 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-add-location`
-  static const IconifyIconData twotoneAddLocation = IconifyIconData(IconData(
+  /// `twotone-add-location` — primary layer (full opacity)
+  static const IconifyIconData twotoneAddLocationPrimary = IconifyIconData(IconData(
     0xeb68,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-add-location` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAddLocationSecondary = IconifyIconData(IconData(
+    0xeb68,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62470,24 +62953,45 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-add-moderator`
-  static const IconifyIconData twotoneAddModerator = IconifyIconData(IconData(
+  /// `twotone-add-moderator` — primary layer (full opacity)
+  static const IconifyIconData twotoneAddModeratorPrimary = IconifyIconData(IconData(
     0xeb6a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-add-photo-alternate`
-  static const IconifyIconData twotoneAddPhotoAlternate = IconifyIconData(IconData(
+  /// `twotone-add-moderator` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAddModeratorSecondary = IconifyIconData(IconData(
+    0xeb6a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-add-photo-alternate` — primary layer (full opacity)
+  static const IconifyIconData twotoneAddPhotoAlternatePrimary = IconifyIconData(IconData(
     0xeb6b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-add-reaction`
-  static const IconifyIconData twotoneAddReaction = IconifyIconData(IconData(
+  /// `twotone-add-photo-alternate` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAddPhotoAlternateSecondary = IconifyIconData(IconData(
+    0xeb6b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-add-reaction` — primary layer (full opacity)
+  static const IconifyIconData twotoneAddReactionPrimary = IconifyIconData(IconData(
     0xeb6c,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-add-reaction` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAddReactionSecondary = IconifyIconData(IconData(
+    0xeb6c,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62526,17 +63030,31 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-add-to-photos`
-  static const IconifyIconData twotoneAddToPhotos = IconifyIconData(IconData(
+  /// `twotone-add-to-photos` — primary layer (full opacity)
+  static const IconifyIconData twotoneAddToPhotosPrimary = IconifyIconData(IconData(
     0xeb72,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-add-to-queue`
-  static const IconifyIconData twotoneAddToQueue = IconifyIconData(IconData(
+  /// `twotone-add-to-photos` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAddToPhotosSecondary = IconifyIconData(IconData(
+    0xeb72,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-add-to-queue` — primary layer (full opacity)
+  static const IconifyIconData twotoneAddToQueuePrimary = IconifyIconData(IconData(
     0xeb73,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-add-to-queue` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAddToQueueSecondary = IconifyIconData(IconData(
+    0xeb73,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62547,10 +63065,17 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-adf-scanner`
-  static const IconifyIconData twotoneAdfScanner = IconifyIconData(IconData(
+  /// `twotone-adf-scanner` — primary layer (full opacity)
+  static const IconifyIconData twotoneAdfScannerPrimary = IconifyIconData(IconData(
     0xeb75,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-adf-scanner` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAdfScannerSecondary = IconifyIconData(IconData(
+    0xeb75,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62561,10 +63086,17 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-admin-panel-settings`
-  static const IconifyIconData twotoneAdminPanelSettings = IconifyIconData(IconData(
+  /// `twotone-admin-panel-settings` — primary layer (full opacity)
+  static const IconifyIconData twotoneAdminPanelSettingsPrimary = IconifyIconData(IconData(
     0xeb77,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-admin-panel-settings` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAdminPanelSettingsSecondary = IconifyIconData(IconData(
+    0xeb77,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62582,10 +63114,17 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-agriculture`
-  static const IconifyIconData twotoneAgriculture = IconifyIconData(IconData(
+  /// `twotone-agriculture` — primary layer (full opacity)
+  static const IconifyIconData twotoneAgriculturePrimary = IconifyIconData(IconData(
     0xeb7a,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-agriculture` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAgricultureSecondary = IconifyIconData(IconData(
+    0xeb7a,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62596,24 +63135,45 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-airline-seat-flat`
-  static const IconifyIconData twotoneAirlineSeatFlat = IconifyIconData(IconData(
+  /// `twotone-airline-seat-flat` — primary layer (full opacity)
+  static const IconifyIconData twotoneAirlineSeatFlatPrimary = IconifyIconData(IconData(
     0xeb7c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-airline-seat-flat-angled`
-  static const IconifyIconData twotoneAirlineSeatFlatAngled = IconifyIconData(IconData(
+  /// `twotone-airline-seat-flat` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAirlineSeatFlatSecondary = IconifyIconData(IconData(
+    0xeb7c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-airline-seat-flat-angled` — primary layer (full opacity)
+  static const IconifyIconData twotoneAirlineSeatFlatAngledPrimary = IconifyIconData(IconData(
     0xeb7d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-airline-seat-individual-suite`
-  static const IconifyIconData twotoneAirlineSeatIndividualSuite = IconifyIconData(IconData(
+  /// `twotone-airline-seat-flat-angled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAirlineSeatFlatAngledSecondary = IconifyIconData(IconData(
+    0xeb7d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-airline-seat-individual-suite` — primary layer (full opacity)
+  static const IconifyIconData twotoneAirlineSeatIndividualSuitePrimary = IconifyIconData(IconData(
     0xeb7e,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-airline-seat-individual-suite` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAirlineSeatIndividualSuiteSecondary = IconifyIconData(IconData(
+    0xeb7e,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62659,10 +63219,17 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-airlines`
-  static const IconifyIconData twotoneAirlines = IconifyIconData(IconData(
+  /// `twotone-airlines` — primary layer (full opacity)
+  static const IconifyIconData twotoneAirlinesPrimary = IconifyIconData(IconData(
     0xeb85,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-airlines` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAirlinesSecondary = IconifyIconData(IconData(
+    0xeb85,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62687,24 +63254,45 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-airport-shuttle`
-  static const IconifyIconData twotoneAirportShuttle = IconifyIconData(IconData(
+  /// `twotone-airport-shuttle` — primary layer (full opacity)
+  static const IconifyIconData twotoneAirportShuttlePrimary = IconifyIconData(IconData(
     0xeb89,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-alarm`
-  static const IconifyIconData twotoneAlarm = IconifyIconData(IconData(
+  /// `twotone-airport-shuttle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAirportShuttleSecondary = IconifyIconData(IconData(
+    0xeb89,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-alarm` — primary layer (full opacity)
+  static const IconifyIconData twotoneAlarmPrimary = IconifyIconData(IconData(
     0xeb8a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-alarm-add`
-  static const IconifyIconData twotoneAlarmAdd = IconifyIconData(IconData(
+  /// `twotone-alarm` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAlarmSecondary = IconifyIconData(IconData(
+    0xeb8a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-alarm-add` — primary layer (full opacity)
+  static const IconifyIconData twotoneAlarmAddPrimary = IconifyIconData(IconData(
     0xeb8b,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-alarm-add` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAlarmAddSecondary = IconifyIconData(IconData(
+    0xeb8b,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62715,17 +63303,31 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-alarm-on`
-  static const IconifyIconData twotoneAlarmOn = IconifyIconData(IconData(
+  /// `twotone-alarm-on` — primary layer (full opacity)
+  static const IconifyIconData twotoneAlarmOnPrimary = IconifyIconData(IconData(
     0xeb8d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-album`
-  static const IconifyIconData twotoneAlbum = IconifyIconData(IconData(
+  /// `twotone-alarm-on` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAlarmOnSecondary = IconifyIconData(IconData(
+    0xeb8d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-album` — primary layer (full opacity)
+  static const IconifyIconData twotoneAlbumPrimary = IconifyIconData(IconData(
     0xeb8e,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-album` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAlbumSecondary = IconifyIconData(IconData(
+    0xeb8e,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62771,10 +63373,17 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-all-inbox`
-  static const IconifyIconData twotoneAllInbox = IconifyIconData(IconData(
+  /// `twotone-all-inbox` — primary layer (full opacity)
+  static const IconifyIconData twotoneAllInboxPrimary = IconifyIconData(IconData(
     0xeb95,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-all-inbox` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAllInboxSecondary = IconifyIconData(IconData(
+    0xeb95,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62785,10 +63394,17 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-all-out`
-  static const IconifyIconData twotoneAllOut = IconifyIconData(IconData(
+  /// `twotone-all-out` — primary layer (full opacity)
+  static const IconifyIconData twotoneAllOutPrimary = IconifyIconData(IconData(
     0xeb97,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-all-out` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAllOutSecondary = IconifyIconData(IconData(
+    0xeb97,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62806,17 +63422,31 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-amp-stories`
-  static const IconifyIconData twotoneAmpStories = IconifyIconData(IconData(
+  /// `twotone-amp-stories` — primary layer (full opacity)
+  static const IconifyIconData twotoneAmpStoriesPrimary = IconifyIconData(IconData(
     0xeb9a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-analytics`
-  static const IconifyIconData twotoneAnalytics = IconifyIconData(IconData(
+  /// `twotone-amp-stories` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAmpStoriesSecondary = IconifyIconData(IconData(
+    0xeb9a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-analytics` — primary layer (full opacity)
+  static const IconifyIconData twotoneAnalyticsPrimary = IconifyIconData(IconData(
     0xeb9b,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-analytics` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAnalyticsSecondary = IconifyIconData(IconData(
+    0xeb9b,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62827,24 +63457,45 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-animation`
-  static const IconifyIconData twotoneAnimation = IconifyIconData(IconData(
+  /// `twotone-animation` — primary layer (full opacity)
+  static const IconifyIconData twotoneAnimationPrimary = IconifyIconData(IconData(
     0xeb9d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-announcement`
-  static const IconifyIconData twotoneAnnouncement = IconifyIconData(IconData(
+  /// `twotone-animation` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAnimationSecondary = IconifyIconData(IconData(
+    0xeb9d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-announcement` — primary layer (full opacity)
+  static const IconifyIconData twotoneAnnouncementPrimary = IconifyIconData(IconData(
     0xeb9e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-aod`
-  static const IconifyIconData twotoneAod = IconifyIconData(IconData(
+  /// `twotone-announcement` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAnnouncementSecondary = IconifyIconData(IconData(
+    0xeb9e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-aod` — primary layer (full opacity)
+  static const IconifyIconData twotoneAodPrimary = IconifyIconData(IconData(
     0xeb9f,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-aod` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAodSecondary = IconifyIconData(IconData(
+    0xeb9f,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62862,10 +63513,17 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-app-blocking`
-  static const IconifyIconData twotoneAppBlocking = IconifyIconData(IconData(
+  /// `twotone-app-blocking` — primary layer (full opacity)
+  static const IconifyIconData twotoneAppBlockingPrimary = IconifyIconData(IconData(
     0xeba2,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-app-blocking` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAppBlockingSecondary = IconifyIconData(IconData(
+    0xeba2,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62876,17 +63534,31 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-app-settings-alt`
-  static const IconifyIconData twotoneAppSettingsAlt = IconifyIconData(IconData(
+  /// `twotone-app-settings-alt` — primary layer (full opacity)
+  static const IconifyIconData twotoneAppSettingsAltPrimary = IconifyIconData(IconData(
     0xeba4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-app-shortcut`
-  static const IconifyIconData twotoneAppShortcut = IconifyIconData(IconData(
+  /// `twotone-app-settings-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAppSettingsAltSecondary = IconifyIconData(IconData(
+    0xeba4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-app-shortcut` — primary layer (full opacity)
+  static const IconifyIconData twotoneAppShortcutPrimary = IconifyIconData(IconData(
     0xeba5,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-app-shortcut` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAppShortcutSecondary = IconifyIconData(IconData(
+    0xeba5,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62897,10 +63569,17 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-approval`
-  static const IconifyIconData twotoneApproval = IconifyIconData(IconData(
+  /// `twotone-approval` — primary layer (full opacity)
+  static const IconifyIconData twotoneApprovalPrimary = IconifyIconData(IconData(
     0xeba7,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-approval` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneApprovalSecondary = IconifyIconData(IconData(
+    0xeba7,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62925,17 +63604,31 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-archive`
-  static const IconifyIconData twotoneArchive = IconifyIconData(IconData(
+  /// `twotone-archive` — primary layer (full opacity)
+  static const IconifyIconData twotoneArchivePrimary = IconifyIconData(IconData(
     0xebab,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-area-chart`
-  static const IconifyIconData twotoneAreaChart = IconifyIconData(IconData(
+  /// `twotone-archive` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneArchiveSecondary = IconifyIconData(IconData(
+    0xebab,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-area-chart` — primary layer (full opacity)
+  static const IconifyIconData twotoneAreaChartPrimary = IconifyIconData(IconData(
     0xebac,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-area-chart` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAreaChartSecondary = IconifyIconData(IconData(
+    0xebac,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -62960,31 +63653,59 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-arrow-circle-down`
-  static const IconifyIconData twotoneArrowCircleDown = IconifyIconData(IconData(
+  /// `twotone-arrow-circle-down` — primary layer (full opacity)
+  static const IconifyIconData twotoneArrowCircleDownPrimary = IconifyIconData(IconData(
     0xebb0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-arrow-circle-left`
-  static const IconifyIconData twotoneArrowCircleLeft = IconifyIconData(IconData(
+  /// `twotone-arrow-circle-down` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneArrowCircleDownSecondary = IconifyIconData(IconData(
+    0xebb0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-arrow-circle-left` — primary layer (full opacity)
+  static const IconifyIconData twotoneArrowCircleLeftPrimary = IconifyIconData(IconData(
     0xebb1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-arrow-circle-right`
-  static const IconifyIconData twotoneArrowCircleRight = IconifyIconData(IconData(
+  /// `twotone-arrow-circle-left` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneArrowCircleLeftSecondary = IconifyIconData(IconData(
+    0xebb1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-arrow-circle-right` — primary layer (full opacity)
+  static const IconifyIconData twotoneArrowCircleRightPrimary = IconifyIconData(IconData(
     0xebb2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-arrow-circle-up`
-  static const IconifyIconData twotoneArrowCircleUp = IconifyIconData(IconData(
+  /// `twotone-arrow-circle-right` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneArrowCircleRightSecondary = IconifyIconData(IconData(
+    0xebb2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-arrow-circle-up` — primary layer (full opacity)
+  static const IconifyIconData twotoneArrowCircleUpPrimary = IconifyIconData(IconData(
     0xebb3,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-arrow-circle-up` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneArrowCircleUpSecondary = IconifyIconData(IconData(
+    0xebb3,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -63002,10 +63723,17 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-arrow-drop-down-circle`
-  static const IconifyIconData twotoneArrowDropDownCircle = IconifyIconData(IconData(
+  /// `twotone-arrow-drop-down-circle` — primary layer (full opacity)
+  static const IconifyIconData twotoneArrowDropDownCirclePrimary = IconifyIconData(IconData(
     0xebb6,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-arrow-drop-down-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneArrowDropDownCircleSecondary = IconifyIconData(IconData(
+    0xebb6,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -63072,66 +63800,129 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-article`
-  static const IconifyIconData twotoneArticle = IconifyIconData(IconData(
+  /// `twotone-article` — primary layer (full opacity)
+  static const IconifyIconData twotoneArticlePrimary = IconifyIconData(IconData(
     0xebc0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-aspect-ratio`
-  static const IconifyIconData twotoneAspectRatio = IconifyIconData(IconData(
+  /// `twotone-article` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneArticleSecondary = IconifyIconData(IconData(
+    0xebc0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-aspect-ratio` — primary layer (full opacity)
+  static const IconifyIconData twotoneAspectRatioPrimary = IconifyIconData(IconData(
     0xebc1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-assessment`
-  static const IconifyIconData twotoneAssessment = IconifyIconData(IconData(
+  /// `twotone-aspect-ratio` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAspectRatioSecondary = IconifyIconData(IconData(
+    0xebc1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-assessment` — primary layer (full opacity)
+  static const IconifyIconData twotoneAssessmentPrimary = IconifyIconData(IconData(
     0xebc2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-assignment`
-  static const IconifyIconData twotoneAssignment = IconifyIconData(IconData(
+  /// `twotone-assessment` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAssessmentSecondary = IconifyIconData(IconData(
+    0xebc2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-assignment` — primary layer (full opacity)
+  static const IconifyIconData twotoneAssignmentPrimary = IconifyIconData(IconData(
     0xebc3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-assignment-ind`
-  static const IconifyIconData twotoneAssignmentInd = IconifyIconData(IconData(
+  /// `twotone-assignment` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAssignmentSecondary = IconifyIconData(IconData(
+    0xebc3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-assignment-ind` — primary layer (full opacity)
+  static const IconifyIconData twotoneAssignmentIndPrimary = IconifyIconData(IconData(
     0xebc4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-assignment-late`
-  static const IconifyIconData twotoneAssignmentLate = IconifyIconData(IconData(
+  /// `twotone-assignment-ind` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAssignmentIndSecondary = IconifyIconData(IconData(
+    0xebc4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-assignment-late` — primary layer (full opacity)
+  static const IconifyIconData twotoneAssignmentLatePrimary = IconifyIconData(IconData(
     0xebc5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-assignment-return`
-  static const IconifyIconData twotoneAssignmentReturn = IconifyIconData(IconData(
+  /// `twotone-assignment-late` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAssignmentLateSecondary = IconifyIconData(IconData(
+    0xebc5,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-assignment-return` — primary layer (full opacity)
+  static const IconifyIconData twotoneAssignmentReturnPrimary = IconifyIconData(IconData(
     0xebc6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-assignment-returned`
-  static const IconifyIconData twotoneAssignmentReturned = IconifyIconData(IconData(
+  /// `twotone-assignment-return` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAssignmentReturnSecondary = IconifyIconData(IconData(
+    0xebc6,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-assignment-returned` — primary layer (full opacity)
+  static const IconifyIconData twotoneAssignmentReturnedPrimary = IconifyIconData(IconData(
     0xebc7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-assignment-turned-in`
-  static const IconifyIconData twotoneAssignmentTurnedIn = IconifyIconData(IconData(
+  /// `twotone-assignment-returned` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAssignmentReturnedSecondary = IconifyIconData(IconData(
+    0xebc7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-assignment-turned-in` — primary layer (full opacity)
+  static const IconifyIconData twotoneAssignmentTurnedInPrimary = IconifyIconData(IconData(
     0xebc8,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-assignment-turned-in` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAssignmentTurnedInSecondary = IconifyIconData(IconData(
+    0xebc8,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -63142,31 +63933,59 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-assistant`
-  static const IconifyIconData twotoneAssistant = IconifyIconData(IconData(
+  /// `twotone-assistant` — primary layer (full opacity)
+  static const IconifyIconData twotoneAssistantPrimary = IconifyIconData(IconData(
     0xebca,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-assistant-direction`
-  static const IconifyIconData twotoneAssistantDirection = IconifyIconData(IconData(
+  /// `twotone-assistant` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAssistantSecondary = IconifyIconData(IconData(
+    0xebca,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-assistant-direction` — primary layer (full opacity)
+  static const IconifyIconData twotoneAssistantDirectionPrimary = IconifyIconData(IconData(
     0xebcb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-assistant-photo`
-  static const IconifyIconData twotoneAssistantPhoto = IconifyIconData(IconData(
+  /// `twotone-assistant-direction` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAssistantDirectionSecondary = IconifyIconData(IconData(
+    0xebcb,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-assistant-photo` — primary layer (full opacity)
+  static const IconifyIconData twotoneAssistantPhotoPrimary = IconifyIconData(IconData(
     0xebcc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-assured-workload`
-  static const IconifyIconData twotoneAssuredWorkload = IconifyIconData(IconData(
+  /// `twotone-assistant-photo` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAssistantPhotoSecondary = IconifyIconData(IconData(
+    0xebcc,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-assured-workload` — primary layer (full opacity)
+  static const IconifyIconData twotoneAssuredWorkloadPrimary = IconifyIconData(IconData(
     0xebcd,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-assured-workload` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAssuredWorkloadSecondary = IconifyIconData(IconData(
+    0xebcd,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -63205,59 +64024,115 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-attractions`
-  static const IconifyIconData twotoneAttractions = IconifyIconData(IconData(
+  /// `twotone-attractions` — primary layer (full opacity)
+  static const IconifyIconData twotoneAttractionsPrimary = IconifyIconData(IconData(
     0xebd3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-attribution`
-  static const IconifyIconData twotoneAttribution = IconifyIconData(IconData(
+  /// `twotone-attractions` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAttractionsSecondary = IconifyIconData(IconData(
+    0xebd3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-attribution` — primary layer (full opacity)
+  static const IconifyIconData twotoneAttributionPrimary = IconifyIconData(IconData(
     0xebd4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-audio-file`
-  static const IconifyIconData twotoneAudioFile = IconifyIconData(IconData(
+  /// `twotone-attribution` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAttributionSecondary = IconifyIconData(IconData(
+    0xebd4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-audio-file` — primary layer (full opacity)
+  static const IconifyIconData twotoneAudioFilePrimary = IconifyIconData(IconData(
     0xebd5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-audiotrack`
-  static const IconifyIconData twotoneAudiotrack = IconifyIconData(IconData(
+  /// `twotone-audio-file` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAudioFileSecondary = IconifyIconData(IconData(
+    0xebd5,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-audiotrack` — primary layer (full opacity)
+  static const IconifyIconData twotoneAudiotrackPrimary = IconifyIconData(IconData(
     0xebd6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-auto-awesome`
-  static const IconifyIconData twotoneAutoAwesome = IconifyIconData(IconData(
+  /// `twotone-audiotrack` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAudiotrackSecondary = IconifyIconData(IconData(
+    0xebd6,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-auto-awesome` — primary layer (full opacity)
+  static const IconifyIconData twotoneAutoAwesomePrimary = IconifyIconData(IconData(
     0xebd7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-auto-awesome-mosaic`
-  static const IconifyIconData twotoneAutoAwesomeMosaic = IconifyIconData(IconData(
+  /// `twotone-auto-awesome` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAutoAwesomeSecondary = IconifyIconData(IconData(
+    0xebd7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-auto-awesome-mosaic` — primary layer (full opacity)
+  static const IconifyIconData twotoneAutoAwesomeMosaicPrimary = IconifyIconData(IconData(
     0xebd8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-auto-awesome-motion`
-  static const IconifyIconData twotoneAutoAwesomeMotion = IconifyIconData(IconData(
+  /// `twotone-auto-awesome-mosaic` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAutoAwesomeMosaicSecondary = IconifyIconData(IconData(
+    0xebd8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-auto-awesome-motion` — primary layer (full opacity)
+  static const IconifyIconData twotoneAutoAwesomeMotionPrimary = IconifyIconData(IconData(
     0xebd9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-auto-delete`
-  static const IconifyIconData twotoneAutoDelete = IconifyIconData(IconData(
+  /// `twotone-auto-awesome-motion` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAutoAwesomeMotionSecondary = IconifyIconData(IconData(
+    0xebd9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-auto-delete` — primary layer (full opacity)
+  static const IconifyIconData twotoneAutoDeletePrimary = IconifyIconData(IconData(
     0xebda,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-auto-delete` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAutoDeleteSecondary = IconifyIconData(IconData(
+    0xebda,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -63275,10 +64150,17 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-auto-stories`
-  static const IconifyIconData twotoneAutoStories = IconifyIconData(IconData(
+  /// `twotone-auto-stories` — primary layer (full opacity)
+  static const IconifyIconData twotoneAutoStoriesPrimary = IconifyIconData(IconData(
     0xebdd,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-auto-stories` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneAutoStoriesSecondary = IconifyIconData(IconData(
+    0xebdd,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
@@ -63310,13764 +64192,22017 @@ class IcIcons {
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-back-hand`
-  static const IconifyIconData twotoneBackHand = IconifyIconData(IconData(
+  /// `twotone-back-hand` — primary layer (full opacity)
+  static const IconifyIconData twotoneBackHandPrimary = IconifyIconData(IconData(
     0xebe2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-backpack`
-  static const IconifyIconData twotoneBackpack = IconifyIconData(IconData(
+  /// `twotone-back-hand` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBackHandSecondary = IconifyIconData(IconData(
+    0xebe2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-backpack` — primary layer (full opacity)
+  static const IconifyIconData twotoneBackpackPrimary = IconifyIconData(IconData(
     0xebe3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-backspace`
-  static const IconifyIconData twotoneBackspace = IconifyIconData(IconData(
+  /// `twotone-backpack` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBackpackSecondary = IconifyIconData(IconData(
+    0xebe3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-backspace` — primary layer (full opacity)
+  static const IconifyIconData twotoneBackspacePrimary = IconifyIconData(IconData(
     0xebe4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-backup`
-  static const IconifyIconData twotoneBackup = IconifyIconData(IconData(
+  /// `twotone-backspace` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBackspaceSecondary = IconifyIconData(IconData(
+    0xebe4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-backup` — primary layer (full opacity)
+  static const IconifyIconData twotoneBackupPrimary = IconifyIconData(IconData(
     0xebe5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-backup-table`
-  static const IconifyIconData twotoneBackupTable = IconifyIconData(IconData(
+  /// `twotone-backup` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBackupSecondary = IconifyIconData(IconData(
+    0xebe5,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-backup-table` — primary layer (full opacity)
+  static const IconifyIconData twotoneBackupTablePrimary = IconifyIconData(IconData(
     0xebe6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-badge`
-  static const IconifyIconData twotoneBadge = IconifyIconData(IconData(
+  /// `twotone-backup-table` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBackupTableSecondary = IconifyIconData(IconData(
+    0xebe6,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-badge` — primary layer (full opacity)
+  static const IconifyIconData twotoneBadgePrimary = IconifyIconData(IconData(
     0xebe7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-balance`
-  static const IconifyIconData twotoneBalance = IconifyIconData(IconData(
+  /// `twotone-badge` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBadgeSecondary = IconifyIconData(IconData(
+    0xebe7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-bakery-dining` — primary layer (full opacity)
+  static const IconifyIconData twotoneBakeryDiningPrimary = IconifyIconData(IconData(
     0xebe8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-balcony`
-  static const IconifyIconData twotoneBalcony = IconifyIconData(IconData(
+  /// `twotone-bakery-dining` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBakeryDiningSecondary = IconifyIconData(IconData(
+    0xebe8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-balance` — primary layer (full opacity)
+  static const IconifyIconData twotoneBalancePrimary = IconifyIconData(IconData(
     0xebe9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-ballot`
-  static const IconifyIconData twotoneBallot = IconifyIconData(IconData(
+  /// `twotone-balance` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBalanceSecondary = IconifyIconData(IconData(
+    0xebe9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-balcony` — primary layer (full opacity)
+  static const IconifyIconData twotoneBalconyPrimary = IconifyIconData(IconData(
     0xebea,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-balcony` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBalconySecondary = IconifyIconData(IconData(
+    0xebea,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-ballot` — primary layer (full opacity)
+  static const IconifyIconData twotoneBallotPrimary = IconifyIconData(IconData(
+    0xebeb,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-ballot` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBallotSecondary = IconifyIconData(IconData(
+    0xebeb,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-bar-chart`
   static const IconifyIconData twotoneBarChart = IconifyIconData(IconData(
-    0xebeb,
+    0xebec,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-barcode`
   static const IconifyIconData twotoneBarcode = IconifyIconData(IconData(
-    0xebec,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-batch-prediction`
-  static const IconifyIconData twotoneBatchPrediction = IconifyIconData(IconData(
     0xebed,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-bathroom`
-  static const IconifyIconData twotoneBathroom = IconifyIconData(IconData(
+  /// `twotone-batch-prediction` — primary layer (full opacity)
+  static const IconifyIconData twotoneBatchPredictionPrimary = IconifyIconData(IconData(
     0xebee,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-battery-0-bar`
-  static const IconifyIconData twotoneBattery0Bar = IconifyIconData(IconData(
+  /// `twotone-batch-prediction` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBatchPredictionSecondary = IconifyIconData(IconData(
+    0xebee,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-bathroom` — primary layer (full opacity)
+  static const IconifyIconData twotoneBathroomPrimary = IconifyIconData(IconData(
     0xebef,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-battery-1-bar`
-  static const IconifyIconData twotoneBattery1Bar = IconifyIconData(IconData(
+  /// `twotone-bathroom` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBathroomSecondary = IconifyIconData(IconData(
+    0xebef,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-battery-0-bar` — primary layer (full opacity)
+  static const IconifyIconData twotoneBattery0BarPrimary = IconifyIconData(IconData(
     0xebf0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-battery-2-bar`
-  static const IconifyIconData twotoneBattery2Bar = IconifyIconData(IconData(
+  /// `twotone-battery-0-bar` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBattery0BarSecondary = IconifyIconData(IconData(
+    0xebf0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-battery-1-bar` — primary layer (full opacity)
+  static const IconifyIconData twotoneBattery1BarPrimary = IconifyIconData(IconData(
     0xebf1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-battery-20`
-  static const IconifyIconData twotoneBattery20 = IconifyIconData(IconData(
+  /// `twotone-battery-1-bar` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBattery1BarSecondary = IconifyIconData(IconData(
+    0xebf1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-battery-2-bar` — primary layer (full opacity)
+  static const IconifyIconData twotoneBattery2BarPrimary = IconifyIconData(IconData(
     0xebf2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-battery-3-bar`
-  static const IconifyIconData twotoneBattery3Bar = IconifyIconData(IconData(
+  /// `twotone-battery-2-bar` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBattery2BarSecondary = IconifyIconData(IconData(
+    0xebf2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-battery-20`
+  static const IconifyIconData twotoneBattery20 = IconifyIconData(IconData(
     0xebf3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-battery-30`
-  static const IconifyIconData twotoneBattery30 = IconifyIconData(IconData(
+  /// `twotone-battery-3-bar` — primary layer (full opacity)
+  static const IconifyIconData twotoneBattery3BarPrimary = IconifyIconData(IconData(
     0xebf4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-battery-4-bar`
-  static const IconifyIconData twotoneBattery4Bar = IconifyIconData(IconData(
+  /// `twotone-battery-3-bar` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBattery3BarSecondary = IconifyIconData(IconData(
+    0xebf4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-battery-30`
+  static const IconifyIconData twotoneBattery30 = IconifyIconData(IconData(
     0xebf5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-battery-5-bar`
-  static const IconifyIconData twotoneBattery5Bar = IconifyIconData(IconData(
+  /// `twotone-battery-4-bar` — primary layer (full opacity)
+  static const IconifyIconData twotoneBattery4BarPrimary = IconifyIconData(IconData(
     0xebf6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-battery-50`
-  static const IconifyIconData twotoneBattery50 = IconifyIconData(IconData(
+  /// `twotone-battery-4-bar` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBattery4BarSecondary = IconifyIconData(IconData(
+    0xebf6,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-battery-5-bar` — primary layer (full opacity)
+  static const IconifyIconData twotoneBattery5BarPrimary = IconifyIconData(IconData(
     0xebf7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-battery-6-bar`
-  static const IconifyIconData twotoneBattery6Bar = IconifyIconData(IconData(
+  /// `twotone-battery-5-bar` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBattery5BarSecondary = IconifyIconData(IconData(
+    0xebf7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-battery-50`
+  static const IconifyIconData twotoneBattery50 = IconifyIconData(IconData(
     0xebf8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-battery-6-bar` — primary layer (full opacity)
+  static const IconifyIconData twotoneBattery6BarPrimary = IconifyIconData(IconData(
+    0xebf9,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-battery-6-bar` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBattery6BarSecondary = IconifyIconData(IconData(
+    0xebf9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-battery-60`
   static const IconifyIconData twotoneBattery60 = IconifyIconData(IconData(
-    0xebf9,
+    0xebfa,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-battery-80`
   static const IconifyIconData twotoneBattery80 = IconifyIconData(IconData(
-    0xebfa,
+    0xebfb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-battery-90`
   static const IconifyIconData twotoneBattery90 = IconifyIconData(IconData(
-    0xebfb,
+    0xebfc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-battery-alert`
   static const IconifyIconData twotoneBatteryAlert = IconifyIconData(IconData(
-    0xebfc,
+    0xebfd,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-battery-charging-20`
   static const IconifyIconData twotoneBatteryCharging20 = IconifyIconData(IconData(
-    0xebfd,
+    0xebfe,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-battery-charging-30`
   static const IconifyIconData twotoneBatteryCharging30 = IconifyIconData(IconData(
-    0xebfe,
+    0xebff,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-battery-charging-50`
   static const IconifyIconData twotoneBatteryCharging50 = IconifyIconData(IconData(
-    0xebff,
+    0xec00,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-battery-charging-60`
   static const IconifyIconData twotoneBatteryCharging60 = IconifyIconData(IconData(
-    0xec00,
+    0xec01,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-battery-charging-80`
   static const IconifyIconData twotoneBatteryCharging80 = IconifyIconData(IconData(
-    0xec01,
+    0xec02,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-battery-charging-90`
   static const IconifyIconData twotoneBatteryCharging90 = IconifyIconData(IconData(
-    0xec02,
+    0xec03,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-battery-charging-full`
   static const IconifyIconData twotoneBatteryChargingFull = IconifyIconData(IconData(
-    0xec03,
+    0xec04,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-battery-full`
   static const IconifyIconData twotoneBatteryFull = IconifyIconData(IconData(
-    0xec04,
+    0xec05,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-battery-saver`
   static const IconifyIconData twotoneBatterySaver = IconifyIconData(IconData(
-    0xec05,
+    0xec06,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-battery-std`
   static const IconifyIconData twotoneBatteryStd = IconifyIconData(IconData(
-    0xec06,
+    0xec07,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-battery-unknown`
   static const IconifyIconData twotoneBatteryUnknown = IconifyIconData(IconData(
-    0xec07,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-beach-access`
-  static const IconifyIconData twotoneBeachAccess = IconifyIconData(IconData(
     0xec08,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-bed`
-  static const IconifyIconData twotoneBed = IconifyIconData(IconData(
+  /// `twotone-beach-access` — primary layer (full opacity)
+  static const IconifyIconData twotoneBeachAccessPrimary = IconifyIconData(IconData(
     0xec09,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-bedroom-baby`
-  static const IconifyIconData twotoneBedroomBaby = IconifyIconData(IconData(
+  /// `twotone-beach-access` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBeachAccessSecondary = IconifyIconData(IconData(
+    0xec09,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-bed` — primary layer (full opacity)
+  static const IconifyIconData twotoneBedPrimary = IconifyIconData(IconData(
     0xec0a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-bedroom-child`
-  static const IconifyIconData twotoneBedroomChild = IconifyIconData(IconData(
+  /// `twotone-bed` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBedSecondary = IconifyIconData(IconData(
+    0xec0a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-bedroom-baby` — primary layer (full opacity)
+  static const IconifyIconData twotoneBedroomBabyPrimary = IconifyIconData(IconData(
     0xec0b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-bedroom-parent`
-  static const IconifyIconData twotoneBedroomParent = IconifyIconData(IconData(
+  /// `twotone-bedroom-baby` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBedroomBabySecondary = IconifyIconData(IconData(
+    0xec0b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-bedroom-child` — primary layer (full opacity)
+  static const IconifyIconData twotoneBedroomChildPrimary = IconifyIconData(IconData(
     0xec0c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-bedtime`
-  static const IconifyIconData twotoneBedtime = IconifyIconData(IconData(
+  /// `twotone-bedroom-child` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBedroomChildSecondary = IconifyIconData(IconData(
+    0xec0c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-bedroom-parent` — primary layer (full opacity)
+  static const IconifyIconData twotoneBedroomParentPrimary = IconifyIconData(IconData(
     0xec0d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-bedtime-off`
-  static const IconifyIconData twotoneBedtimeOff = IconifyIconData(IconData(
+  /// `twotone-bedroom-parent` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBedroomParentSecondary = IconifyIconData(IconData(
+    0xec0d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-bedtime` — primary layer (full opacity)
+  static const IconifyIconData twotoneBedtimePrimary = IconifyIconData(IconData(
     0xec0e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-beenhere`
-  static const IconifyIconData twotoneBeenhere = IconifyIconData(IconData(
+  /// `twotone-bedtime` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBedtimeSecondary = IconifyIconData(IconData(
+    0xec0e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-bedtime-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneBedtimeOffPrimary = IconifyIconData(IconData(
     0xec0f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-bento`
-  static const IconifyIconData twotoneBento = IconifyIconData(IconData(
+  /// `twotone-bedtime-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBedtimeOffSecondary = IconifyIconData(IconData(
+    0xec0f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-beenhere` — primary layer (full opacity)
+  static const IconifyIconData twotoneBeenherePrimary = IconifyIconData(IconData(
     0xec10,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-bike-scooter`
-  static const IconifyIconData twotoneBikeScooter = IconifyIconData(IconData(
+  /// `twotone-beenhere` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBeenhereSecondary = IconifyIconData(IconData(
+    0xec10,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-bento` — primary layer (full opacity)
+  static const IconifyIconData twotoneBentoPrimary = IconifyIconData(IconData(
     0xec11,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-blender`
-  static const IconifyIconData twotoneBlender = IconifyIconData(IconData(
+  /// `twotone-bento` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBentoSecondary = IconifyIconData(IconData(
+    0xec11,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-bike-scooter`
+  static const IconifyIconData twotoneBikeScooter = IconifyIconData(IconData(
     0xec12,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-blind`
-  static const IconifyIconData twotoneBlind = IconifyIconData(IconData(
+  /// `twotone-biotech` — primary layer (full opacity)
+  static const IconifyIconData twotoneBiotechPrimary = IconifyIconData(IconData(
     0xec13,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-blinds`
-  static const IconifyIconData twotoneBlinds = IconifyIconData(IconData(
+  /// `twotone-biotech` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBiotechSecondary = IconifyIconData(IconData(
+    0xec13,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-blender` — primary layer (full opacity)
+  static const IconifyIconData twotoneBlenderPrimary = IconifyIconData(IconData(
     0xec14,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-blinds-closed`
-  static const IconifyIconData twotoneBlindsClosed = IconifyIconData(IconData(
+  /// `twotone-blender` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBlenderSecondary = IconifyIconData(IconData(
+    0xec14,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-blind`
+  static const IconifyIconData twotoneBlind = IconifyIconData(IconData(
     0xec15,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-block`
-  static const IconifyIconData twotoneBlock = IconifyIconData(IconData(
+  /// `twotone-blinds` — primary layer (full opacity)
+  static const IconifyIconData twotoneBlindsPrimary = IconifyIconData(IconData(
     0xec16,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-bloodtype`
-  static const IconifyIconData twotoneBloodtype = IconifyIconData(IconData(
+  /// `twotone-blinds` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBlindsSecondary = IconifyIconData(IconData(
+    0xec16,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-blinds-closed` — primary layer (full opacity)
+  static const IconifyIconData twotoneBlindsClosedPrimary = IconifyIconData(IconData(
     0xec17,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-blinds-closed` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBlindsClosedSecondary = IconifyIconData(IconData(
+    0xec17,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-block`
+  static const IconifyIconData twotoneBlock = IconifyIconData(IconData(
+    0xec18,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-bloodtype` — primary layer (full opacity)
+  static const IconifyIconData twotoneBloodtypePrimary = IconifyIconData(IconData(
+    0xec19,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-bloodtype` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBloodtypeSecondary = IconifyIconData(IconData(
+    0xec19,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-bluetooth`
   static const IconifyIconData twotoneBluetooth = IconifyIconData(IconData(
-    0xec18,
+    0xec1a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-bluetooth-audio`
   static const IconifyIconData twotoneBluetoothAudio = IconifyIconData(IconData(
-    0xec19,
+    0xec1b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-bluetooth-connected`
   static const IconifyIconData twotoneBluetoothConnected = IconifyIconData(IconData(
-    0xec1a,
+    0xec1c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-bluetooth-disabled`
   static const IconifyIconData twotoneBluetoothDisabled = IconifyIconData(IconData(
-    0xec1b,
+    0xec1d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-bluetooth-drive`
-  static const IconifyIconData twotoneBluetoothDrive = IconifyIconData(IconData(
-    0xec1c,
+  /// `twotone-bluetooth-drive` — primary layer (full opacity)
+  static const IconifyIconData twotoneBluetoothDrivePrimary = IconifyIconData(IconData(
+    0xec1e,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-bluetooth-drive` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBluetoothDriveSecondary = IconifyIconData(IconData(
+    0xec1e,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-bluetooth-searching`
   static const IconifyIconData twotoneBluetoothSearching = IconifyIconData(IconData(
-    0xec1d,
+    0xec1f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-blur-circular`
   static const IconifyIconData twotoneBlurCircular = IconifyIconData(IconData(
-    0xec1e,
+    0xec20,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-blur-linear`
   static const IconifyIconData twotoneBlurLinear = IconifyIconData(IconData(
-    0xec1f,
+    0xec21,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-blur-off`
   static const IconifyIconData twotoneBlurOff = IconifyIconData(IconData(
-    0xec20,
+    0xec22,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-blur-on`
   static const IconifyIconData twotoneBlurOn = IconifyIconData(IconData(
-    0xec21,
+    0xec23,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-bolt`
   static const IconifyIconData twotoneBolt = IconifyIconData(IconData(
-    0xec22,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-book`
-  static const IconifyIconData twotoneBook = IconifyIconData(IconData(
-    0xec23,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-book-online`
-  static const IconifyIconData twotoneBookOnline = IconifyIconData(IconData(
     0xec24,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-bookmark`
-  static const IconifyIconData twotoneBookmark = IconifyIconData(IconData(
+  /// `twotone-book` — primary layer (full opacity)
+  static const IconifyIconData twotoneBookPrimary = IconifyIconData(IconData(
     0xec25,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-bookmark-add`
-  static const IconifyIconData twotoneBookmarkAdd = IconifyIconData(IconData(
+  /// `twotone-book` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBookSecondary = IconifyIconData(IconData(
+    0xec25,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-book-online` — primary layer (full opacity)
+  static const IconifyIconData twotoneBookOnlinePrimary = IconifyIconData(IconData(
     0xec26,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-bookmark-added`
-  static const IconifyIconData twotoneBookmarkAdded = IconifyIconData(IconData(
+  /// `twotone-book-online` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBookOnlineSecondary = IconifyIconData(IconData(
+    0xec26,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-bookmark` — primary layer (full opacity)
+  static const IconifyIconData twotoneBookmarkPrimary = IconifyIconData(IconData(
     0xec27,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-bookmark-border`
-  static const IconifyIconData twotoneBookmarkBorder = IconifyIconData(IconData(
+  /// `twotone-bookmark` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBookmarkSecondary = IconifyIconData(IconData(
+    0xec27,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-bookmark-add` — primary layer (full opacity)
+  static const IconifyIconData twotoneBookmarkAddPrimary = IconifyIconData(IconData(
     0xec28,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-bookmark-remove`
-  static const IconifyIconData twotoneBookmarkRemove = IconifyIconData(IconData(
+  /// `twotone-bookmark-add` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBookmarkAddSecondary = IconifyIconData(IconData(
+    0xec28,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-bookmark-added` — primary layer (full opacity)
+  static const IconifyIconData twotoneBookmarkAddedPrimary = IconifyIconData(IconData(
     0xec29,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-bookmarks`
-  static const IconifyIconData twotoneBookmarks = IconifyIconData(IconData(
+  /// `twotone-bookmark-added` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBookmarkAddedSecondary = IconifyIconData(IconData(
+    0xec29,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-bookmark-border`
+  static const IconifyIconData twotoneBookmarkBorder = IconifyIconData(IconData(
     0xec2a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-bookmark-remove` — primary layer (full opacity)
+  static const IconifyIconData twotoneBookmarkRemovePrimary = IconifyIconData(IconData(
+    0xec2b,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-bookmark-remove` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBookmarkRemoveSecondary = IconifyIconData(IconData(
+    0xec2b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-bookmarks` — primary layer (full opacity)
+  static const IconifyIconData twotoneBookmarksPrimary = IconifyIconData(IconData(
+    0xec2c,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-bookmarks` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBookmarksSecondary = IconifyIconData(IconData(
+    0xec2c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-border-all`
   static const IconifyIconData twotoneBorderAll = IconifyIconData(IconData(
-    0xec2b,
+    0xec2d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-border-bottom`
   static const IconifyIconData twotoneBorderBottom = IconifyIconData(IconData(
-    0xec2c,
+    0xec2e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-border-clear`
   static const IconifyIconData twotoneBorderClear = IconifyIconData(IconData(
-    0xec2d,
+    0xec2f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-border-horizontal`
   static const IconifyIconData twotoneBorderHorizontal = IconifyIconData(IconData(
-    0xec2e,
+    0xec30,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-border-inner`
   static const IconifyIconData twotoneBorderInner = IconifyIconData(IconData(
-    0xec2f,
+    0xec31,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-border-left`
   static const IconifyIconData twotoneBorderLeft = IconifyIconData(IconData(
-    0xec30,
+    0xec32,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-border-outer`
   static const IconifyIconData twotoneBorderOuter = IconifyIconData(IconData(
-    0xec31,
+    0xec33,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-border-right`
   static const IconifyIconData twotoneBorderRight = IconifyIconData(IconData(
-    0xec32,
+    0xec34,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-border-style`
   static const IconifyIconData twotoneBorderStyle = IconifyIconData(IconData(
-    0xec33,
+    0xec35,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-border-top`
   static const IconifyIconData twotoneBorderTop = IconifyIconData(IconData(
-    0xec34,
+    0xec36,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-border-vertical`
   static const IconifyIconData twotoneBorderVertical = IconifyIconData(IconData(
-    0xec35,
+    0xec37,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-boy`
   static const IconifyIconData twotoneBoy = IconifyIconData(IconData(
-    0xec36,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-branding-watermark`
-  static const IconifyIconData twotoneBrandingWatermark = IconifyIconData(IconData(
-    0xec37,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-brightness-1`
-  static const IconifyIconData twotoneBrightness1 = IconifyIconData(IconData(
     0xec38,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-brightness-2`
-  static const IconifyIconData twotoneBrightness2 = IconifyIconData(IconData(
+  /// `twotone-branding-watermark` — primary layer (full opacity)
+  static const IconifyIconData twotoneBrandingWatermarkPrimary = IconifyIconData(IconData(
     0xec39,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-brightness-3`
-  static const IconifyIconData twotoneBrightness3 = IconifyIconData(IconData(
+  /// `twotone-branding-watermark` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBrandingWatermarkSecondary = IconifyIconData(IconData(
+    0xec39,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-brightness-1` — primary layer (full opacity)
+  static const IconifyIconData twotoneBrightness1Primary = IconifyIconData(IconData(
     0xec3a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-brightness-4`
-  static const IconifyIconData twotoneBrightness4 = IconifyIconData(IconData(
+  /// `twotone-brightness-1` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBrightness1Secondary = IconifyIconData(IconData(
+    0xec3a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-brightness-2` — primary layer (full opacity)
+  static const IconifyIconData twotoneBrightness2Primary = IconifyIconData(IconData(
     0xec3b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-brightness-5`
-  static const IconifyIconData twotoneBrightness5 = IconifyIconData(IconData(
+  /// `twotone-brightness-2` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBrightness2Secondary = IconifyIconData(IconData(
+    0xec3b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-brightness-3` — primary layer (full opacity)
+  static const IconifyIconData twotoneBrightness3Primary = IconifyIconData(IconData(
     0xec3c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-brightness-6`
-  static const IconifyIconData twotoneBrightness6 = IconifyIconData(IconData(
+  /// `twotone-brightness-3` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBrightness3Secondary = IconifyIconData(IconData(
+    0xec3c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-brightness-4` — primary layer (full opacity)
+  static const IconifyIconData twotoneBrightness4Primary = IconifyIconData(IconData(
     0xec3d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-brightness-7`
-  static const IconifyIconData twotoneBrightness7 = IconifyIconData(IconData(
+  /// `twotone-brightness-4` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBrightness4Secondary = IconifyIconData(IconData(
+    0xec3d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-brightness-5` — primary layer (full opacity)
+  static const IconifyIconData twotoneBrightness5Primary = IconifyIconData(IconData(
     0xec3e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-brightness-5` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBrightness5Secondary = IconifyIconData(IconData(
+    0xec3e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-brightness-6` — primary layer (full opacity)
+  static const IconifyIconData twotoneBrightness6Primary = IconifyIconData(IconData(
+    0xec3f,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-brightness-6` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBrightness6Secondary = IconifyIconData(IconData(
+    0xec3f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-brightness-7` — primary layer (full opacity)
+  static const IconifyIconData twotoneBrightness7Primary = IconifyIconData(IconData(
+    0xec40,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-brightness-7` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBrightness7Secondary = IconifyIconData(IconData(
+    0xec40,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-brightness-auto`
   static const IconifyIconData twotoneBrightnessAuto = IconifyIconData(IconData(
-    0xec3f,
+    0xec41,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-brightness-high`
   static const IconifyIconData twotoneBrightnessHigh = IconifyIconData(IconData(
-    0xec40,
+    0xec42,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-brightness-low`
   static const IconifyIconData twotoneBrightnessLow = IconifyIconData(IconData(
-    0xec41,
+    0xec43,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-brightness-medium`
   static const IconifyIconData twotoneBrightnessMedium = IconifyIconData(IconData(
-    0xec42,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-broadcast-on-home`
-  static const IconifyIconData twotoneBroadcastOnHome = IconifyIconData(IconData(
-    0xec43,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-broadcast-on-personal`
-  static const IconifyIconData twotoneBroadcastOnPersonal = IconifyIconData(IconData(
     0xec44,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-broken-image`
-  static const IconifyIconData twotoneBrokenImage = IconifyIconData(IconData(
+  /// `twotone-broadcast-on-home` — primary layer (full opacity)
+  static const IconifyIconData twotoneBroadcastOnHomePrimary = IconifyIconData(IconData(
     0xec45,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-browse-gallery`
-  static const IconifyIconData twotoneBrowseGallery = IconifyIconData(IconData(
+  /// `twotone-broadcast-on-home` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBroadcastOnHomeSecondary = IconifyIconData(IconData(
+    0xec45,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-broadcast-on-personal` — primary layer (full opacity)
+  static const IconifyIconData twotoneBroadcastOnPersonalPrimary = IconifyIconData(IconData(
     0xec46,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-broadcast-on-personal` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBroadcastOnPersonalSecondary = IconifyIconData(IconData(
+    0xec46,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-broken-image` — primary layer (full opacity)
+  static const IconifyIconData twotoneBrokenImagePrimary = IconifyIconData(IconData(
+    0xec47,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-broken-image` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBrokenImageSecondary = IconifyIconData(IconData(
+    0xec47,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-browse-gallery` — primary layer (full opacity)
+  static const IconifyIconData twotoneBrowseGalleryPrimary = IconifyIconData(IconData(
+    0xec48,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-browse-gallery` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBrowseGallerySecondary = IconifyIconData(IconData(
+    0xec48,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-browser-not-supported`
   static const IconifyIconData twotoneBrowserNotSupported = IconifyIconData(IconData(
-    0xec47,
+    0xec49,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-browser-updated`
   static const IconifyIconData twotoneBrowserUpdated = IconifyIconData(IconData(
-    0xec48,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-brunch-dining`
-  static const IconifyIconData twotoneBrunchDining = IconifyIconData(IconData(
-    0xec49,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-bubble-chart`
-  static const IconifyIconData twotoneBubbleChart = IconifyIconData(IconData(
     0xec4a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-bug-report`
-  static const IconifyIconData twotoneBugReport = IconifyIconData(IconData(
+  /// `twotone-brunch-dining` — primary layer (full opacity)
+  static const IconifyIconData twotoneBrunchDiningPrimary = IconifyIconData(IconData(
     0xec4b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-build`
-  static const IconifyIconData twotoneBuild = IconifyIconData(IconData(
+  /// `twotone-brunch-dining` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBrunchDiningSecondary = IconifyIconData(IconData(
+    0xec4b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-bubble-chart` — primary layer (full opacity)
+  static const IconifyIconData twotoneBubbleChartPrimary = IconifyIconData(IconData(
     0xec4c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-build-circle`
-  static const IconifyIconData twotoneBuildCircle = IconifyIconData(IconData(
+  /// `twotone-bubble-chart` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBubbleChartSecondary = IconifyIconData(IconData(
+    0xec4c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-bug-report` — primary layer (full opacity)
+  static const IconifyIconData twotoneBugReportPrimary = IconifyIconData(IconData(
     0xec4d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-bungalow`
-  static const IconifyIconData twotoneBungalow = IconifyIconData(IconData(
+  /// `twotone-bug-report` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBugReportSecondary = IconifyIconData(IconData(
+    0xec4d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-build` — primary layer (full opacity)
+  static const IconifyIconData twotoneBuildPrimary = IconifyIconData(IconData(
     0xec4e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-burst-mode`
-  static const IconifyIconData twotoneBurstMode = IconifyIconData(IconData(
+  /// `twotone-build` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBuildSecondary = IconifyIconData(IconData(
+    0xec4e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-build-circle` — primary layer (full opacity)
+  static const IconifyIconData twotoneBuildCirclePrimary = IconifyIconData(IconData(
     0xec4f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-bus-alert`
-  static const IconifyIconData twotoneBusAlert = IconifyIconData(IconData(
+  /// `twotone-build-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBuildCircleSecondary = IconifyIconData(IconData(
+    0xec4f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-bungalow` — primary layer (full opacity)
+  static const IconifyIconData twotoneBungalowPrimary = IconifyIconData(IconData(
     0xec50,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-business`
-  static const IconifyIconData twotoneBusiness = IconifyIconData(IconData(
+  /// `twotone-bungalow` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBungalowSecondary = IconifyIconData(IconData(
+    0xec50,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-burst-mode` — primary layer (full opacity)
+  static const IconifyIconData twotoneBurstModePrimary = IconifyIconData(IconData(
     0xec51,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-business-center`
-  static const IconifyIconData twotoneBusinessCenter = IconifyIconData(IconData(
+  /// `twotone-burst-mode` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBurstModeSecondary = IconifyIconData(IconData(
+    0xec51,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-bus-alert` — primary layer (full opacity)
+  static const IconifyIconData twotoneBusAlertPrimary = IconifyIconData(IconData(
     0xec52,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-cabin`
-  static const IconifyIconData twotoneCabin = IconifyIconData(IconData(
+  /// `twotone-bus-alert` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBusAlertSecondary = IconifyIconData(IconData(
+    0xec52,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-business` — primary layer (full opacity)
+  static const IconifyIconData twotoneBusinessPrimary = IconifyIconData(IconData(
     0xec53,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-business` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBusinessSecondary = IconifyIconData(IconData(
+    0xec53,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-business-center` — primary layer (full opacity)
+  static const IconifyIconData twotoneBusinessCenterPrimary = IconifyIconData(IconData(
+    0xec54,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-business-center` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneBusinessCenterSecondary = IconifyIconData(IconData(
+    0xec54,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-cabin` — primary layer (full opacity)
+  static const IconifyIconData twotoneCabinPrimary = IconifyIconData(IconData(
+    0xec55,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-cabin` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCabinSecondary = IconifyIconData(IconData(
+    0xec55,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-cable`
   static const IconifyIconData twotoneCable = IconifyIconData(IconData(
-    0xec54,
+    0xec56,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-cached`
   static const IconifyIconData twotoneCached = IconifyIconData(IconData(
-    0xec55,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-cake`
-  static const IconifyIconData twotoneCake = IconifyIconData(IconData(
-    0xec56,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-calculate`
-  static const IconifyIconData twotoneCalculate = IconifyIconData(IconData(
     0xec57,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-calendar-month`
-  static const IconifyIconData twotoneCalendarMonth = IconifyIconData(IconData(
+  /// `twotone-cake` — primary layer (full opacity)
+  static const IconifyIconData twotoneCakePrimary = IconifyIconData(IconData(
     0xec58,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-calendar-today`
-  static const IconifyIconData twotoneCalendarToday = IconifyIconData(IconData(
+  /// `twotone-cake` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCakeSecondary = IconifyIconData(IconData(
+    0xec58,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-calculate` — primary layer (full opacity)
+  static const IconifyIconData twotoneCalculatePrimary = IconifyIconData(IconData(
     0xec59,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-calendar-view-day`
-  static const IconifyIconData twotoneCalendarViewDay = IconifyIconData(IconData(
+  /// `twotone-calculate` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCalculateSecondary = IconifyIconData(IconData(
+    0xec59,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-calendar-month` — primary layer (full opacity)
+  static const IconifyIconData twotoneCalendarMonthPrimary = IconifyIconData(IconData(
     0xec5a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-calendar-view-month`
-  static const IconifyIconData twotoneCalendarViewMonth = IconifyIconData(IconData(
+  /// `twotone-calendar-month` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCalendarMonthSecondary = IconifyIconData(IconData(
+    0xec5a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-calendar-today` — primary layer (full opacity)
+  static const IconifyIconData twotoneCalendarTodayPrimary = IconifyIconData(IconData(
     0xec5b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-calendar-view-week`
-  static const IconifyIconData twotoneCalendarViewWeek = IconifyIconData(IconData(
+  /// `twotone-calendar-today` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCalendarTodaySecondary = IconifyIconData(IconData(
+    0xec5b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-calendar-view-day` — primary layer (full opacity)
+  static const IconifyIconData twotoneCalendarViewDayPrimary = IconifyIconData(IconData(
     0xec5c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-call`
-  static const IconifyIconData twotoneCall = IconifyIconData(IconData(
+  /// `twotone-calendar-view-day` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCalendarViewDaySecondary = IconifyIconData(IconData(
+    0xec5c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-calendar-view-month` — primary layer (full opacity)
+  static const IconifyIconData twotoneCalendarViewMonthPrimary = IconifyIconData(IconData(
     0xec5d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-call-end`
-  static const IconifyIconData twotoneCallEnd = IconifyIconData(IconData(
+  /// `twotone-calendar-view-month` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCalendarViewMonthSecondary = IconifyIconData(IconData(
+    0xec5d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-calendar-view-week` — primary layer (full opacity)
+  static const IconifyIconData twotoneCalendarViewWeekPrimary = IconifyIconData(IconData(
     0xec5e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-calendar-view-week` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCalendarViewWeekSecondary = IconifyIconData(IconData(
+    0xec5e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-call` — primary layer (full opacity)
+  static const IconifyIconData twotoneCallPrimary = IconifyIconData(IconData(
+    0xec5f,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-call` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCallSecondary = IconifyIconData(IconData(
+    0xec5f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-call-end` — primary layer (full opacity)
+  static const IconifyIconData twotoneCallEndPrimary = IconifyIconData(IconData(
+    0xec60,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-call-end` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCallEndSecondary = IconifyIconData(IconData(
+    0xec60,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-call-made`
   static const IconifyIconData twotoneCallMade = IconifyIconData(IconData(
-    0xec5f,
+    0xec61,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-call-merge`
   static const IconifyIconData twotoneCallMerge = IconifyIconData(IconData(
-    0xec60,
+    0xec62,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-call-missed`
   static const IconifyIconData twotoneCallMissed = IconifyIconData(IconData(
-    0xec61,
+    0xec63,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-call-missed-outgoing`
   static const IconifyIconData twotoneCallMissedOutgoing = IconifyIconData(IconData(
-    0xec62,
+    0xec64,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-call-received`
   static const IconifyIconData twotoneCallReceived = IconifyIconData(IconData(
-    0xec63,
+    0xec65,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-call-split`
   static const IconifyIconData twotoneCallSplit = IconifyIconData(IconData(
-    0xec64,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-call-to-action`
-  static const IconifyIconData twotoneCallToAction = IconifyIconData(IconData(
-    0xec65,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-camera`
-  static const IconifyIconData twotoneCamera = IconifyIconData(IconData(
     0xec66,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-camera-alt`
-  static const IconifyIconData twotoneCameraAlt = IconifyIconData(IconData(
+  /// `twotone-call-to-action` — primary layer (full opacity)
+  static const IconifyIconData twotoneCallToActionPrimary = IconifyIconData(IconData(
     0xec67,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-camera-enhance`
-  static const IconifyIconData twotoneCameraEnhance = IconifyIconData(IconData(
+  /// `twotone-call-to-action` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCallToActionSecondary = IconifyIconData(IconData(
+    0xec67,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-camera` — primary layer (full opacity)
+  static const IconifyIconData twotoneCameraPrimary = IconifyIconData(IconData(
     0xec68,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-camera-front`
-  static const IconifyIconData twotoneCameraFront = IconifyIconData(IconData(
+  /// `twotone-camera` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCameraSecondary = IconifyIconData(IconData(
+    0xec68,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-camera-alt` — primary layer (full opacity)
+  static const IconifyIconData twotoneCameraAltPrimary = IconifyIconData(IconData(
     0xec69,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-camera-indoor`
-  static const IconifyIconData twotoneCameraIndoor = IconifyIconData(IconData(
+  /// `twotone-camera-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCameraAltSecondary = IconifyIconData(IconData(
+    0xec69,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-camera-enhance` — primary layer (full opacity)
+  static const IconifyIconData twotoneCameraEnhancePrimary = IconifyIconData(IconData(
     0xec6a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-camera-outdoor`
-  static const IconifyIconData twotoneCameraOutdoor = IconifyIconData(IconData(
+  /// `twotone-camera-enhance` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCameraEnhanceSecondary = IconifyIconData(IconData(
+    0xec6a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-camera-front` — primary layer (full opacity)
+  static const IconifyIconData twotoneCameraFrontPrimary = IconifyIconData(IconData(
     0xec6b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-camera-rear`
-  static const IconifyIconData twotoneCameraRear = IconifyIconData(IconData(
+  /// `twotone-camera-front` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCameraFrontSecondary = IconifyIconData(IconData(
+    0xec6b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-camera-indoor` — primary layer (full opacity)
+  static const IconifyIconData twotoneCameraIndoorPrimary = IconifyIconData(IconData(
     0xec6c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-camera-roll`
-  static const IconifyIconData twotoneCameraRoll = IconifyIconData(IconData(
+  /// `twotone-camera-indoor` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCameraIndoorSecondary = IconifyIconData(IconData(
+    0xec6c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-camera-outdoor`
+  static const IconifyIconData twotoneCameraOutdoor = IconifyIconData(IconData(
     0xec6d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-cameraswitch`
-  static const IconifyIconData twotoneCameraswitch = IconifyIconData(IconData(
+  /// `twotone-camera-rear` — primary layer (full opacity)
+  static const IconifyIconData twotoneCameraRearPrimary = IconifyIconData(IconData(
     0xec6e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-campaign`
-  static const IconifyIconData twotoneCampaign = IconifyIconData(IconData(
+  /// `twotone-camera-rear` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCameraRearSecondary = IconifyIconData(IconData(
+    0xec6e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-camera-roll` — primary layer (full opacity)
+  static const IconifyIconData twotoneCameraRollPrimary = IconifyIconData(IconData(
     0xec6f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-cancel`
-  static const IconifyIconData twotoneCancel = IconifyIconData(IconData(
+  /// `twotone-camera-roll` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCameraRollSecondary = IconifyIconData(IconData(
+    0xec6f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-cameraswitch` — primary layer (full opacity)
+  static const IconifyIconData twotoneCameraswitchPrimary = IconifyIconData(IconData(
     0xec70,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-cancel-presentation`
-  static const IconifyIconData twotoneCancelPresentation = IconifyIconData(IconData(
+  /// `twotone-cameraswitch` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCameraswitchSecondary = IconifyIconData(IconData(
+    0xec70,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-campaign` — primary layer (full opacity)
+  static const IconifyIconData twotoneCampaignPrimary = IconifyIconData(IconData(
     0xec71,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-cancel-schedule-send`
-  static const IconifyIconData twotoneCancelScheduleSend = IconifyIconData(IconData(
+  /// `twotone-campaign` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCampaignSecondary = IconifyIconData(IconData(
+    0xec71,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-cancel` — primary layer (full opacity)
+  static const IconifyIconData twotoneCancelPrimary = IconifyIconData(IconData(
     0xec72,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-candlestick-chart`
-  static const IconifyIconData twotoneCandlestickChart = IconifyIconData(IconData(
+  /// `twotone-cancel` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCancelSecondary = IconifyIconData(IconData(
+    0xec72,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-cancel-presentation` — primary layer (full opacity)
+  static const IconifyIconData twotoneCancelPresentationPrimary = IconifyIconData(IconData(
     0xec73,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-car-crash`
-  static const IconifyIconData twotoneCarCrash = IconifyIconData(IconData(
+  /// `twotone-cancel-presentation` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCancelPresentationSecondary = IconifyIconData(IconData(
+    0xec73,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-cancel-schedule-send` — primary layer (full opacity)
+  static const IconifyIconData twotoneCancelScheduleSendPrimary = IconifyIconData(IconData(
     0xec74,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-car-rental`
-  static const IconifyIconData twotoneCarRental = IconifyIconData(IconData(
+  /// `twotone-cancel-schedule-send` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCancelScheduleSendSecondary = IconifyIconData(IconData(
+    0xec74,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-candlestick-chart` — primary layer (full opacity)
+  static const IconifyIconData twotoneCandlestickChartPrimary = IconifyIconData(IconData(
     0xec75,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-car-repair`
-  static const IconifyIconData twotoneCarRepair = IconifyIconData(IconData(
+  /// `twotone-candlestick-chart` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCandlestickChartSecondary = IconifyIconData(IconData(
+    0xec75,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-car-crash` — primary layer (full opacity)
+  static const IconifyIconData twotoneCarCrashPrimary = IconifyIconData(IconData(
     0xec76,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-card-giftcard`
-  static const IconifyIconData twotoneCardGiftcard = IconifyIconData(IconData(
+  /// `twotone-car-crash` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCarCrashSecondary = IconifyIconData(IconData(
+    0xec76,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-car-rental` — primary layer (full opacity)
+  static const IconifyIconData twotoneCarRentalPrimary = IconifyIconData(IconData(
     0xec77,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-card-membership`
-  static const IconifyIconData twotoneCardMembership = IconifyIconData(IconData(
+  /// `twotone-car-rental` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCarRentalSecondary = IconifyIconData(IconData(
+    0xec77,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-car-repair` — primary layer (full opacity)
+  static const IconifyIconData twotoneCarRepairPrimary = IconifyIconData(IconData(
     0xec78,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-card-travel`
-  static const IconifyIconData twotoneCardTravel = IconifyIconData(IconData(
+  /// `twotone-car-repair` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCarRepairSecondary = IconifyIconData(IconData(
+    0xec78,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-card-giftcard` — primary layer (full opacity)
+  static const IconifyIconData twotoneCardGiftcardPrimary = IconifyIconData(IconData(
     0xec79,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-carpenter`
-  static const IconifyIconData twotoneCarpenter = IconifyIconData(IconData(
+  /// `twotone-card-giftcard` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCardGiftcardSecondary = IconifyIconData(IconData(
+    0xec79,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-card-membership` — primary layer (full opacity)
+  static const IconifyIconData twotoneCardMembershipPrimary = IconifyIconData(IconData(
     0xec7a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-cases`
-  static const IconifyIconData twotoneCases = IconifyIconData(IconData(
+  /// `twotone-card-membership` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCardMembershipSecondary = IconifyIconData(IconData(
+    0xec7a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-card-travel` — primary layer (full opacity)
+  static const IconifyIconData twotoneCardTravelPrimary = IconifyIconData(IconData(
     0xec7b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-casino`
-  static const IconifyIconData twotoneCasino = IconifyIconData(IconData(
+  /// `twotone-card-travel` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCardTravelSecondary = IconifyIconData(IconData(
+    0xec7b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-carpenter` — primary layer (full opacity)
+  static const IconifyIconData twotoneCarpenterPrimary = IconifyIconData(IconData(
     0xec7c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-cast`
-  static const IconifyIconData twotoneCast = IconifyIconData(IconData(
+  /// `twotone-carpenter` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCarpenterSecondary = IconifyIconData(IconData(
+    0xec7c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-cases` — primary layer (full opacity)
+  static const IconifyIconData twotoneCasesPrimary = IconifyIconData(IconData(
     0xec7d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-cast-connected`
-  static const IconifyIconData twotoneCastConnected = IconifyIconData(IconData(
+  /// `twotone-cases` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCasesSecondary = IconifyIconData(IconData(
+    0xec7d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-casino` — primary layer (full opacity)
+  static const IconifyIconData twotoneCasinoPrimary = IconifyIconData(IconData(
     0xec7e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-cast-for-education`
-  static const IconifyIconData twotoneCastForEducation = IconifyIconData(IconData(
+  /// `twotone-casino` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCasinoSecondary = IconifyIconData(IconData(
+    0xec7e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-cast`
+  static const IconifyIconData twotoneCast = IconifyIconData(IconData(
     0xec7f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-castle`
-  static const IconifyIconData twotoneCastle = IconifyIconData(IconData(
+  /// `twotone-cast-connected` — primary layer (full opacity)
+  static const IconifyIconData twotoneCastConnectedPrimary = IconifyIconData(IconData(
     0xec80,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-catching-pokemon`
-  static const IconifyIconData twotoneCatchingPokemon = IconifyIconData(IconData(
+  /// `twotone-cast-connected` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCastConnectedSecondary = IconifyIconData(IconData(
+    0xec80,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-cast-for-education`
+  static const IconifyIconData twotoneCastForEducation = IconifyIconData(IconData(
     0xec81,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-category`
-  static const IconifyIconData twotoneCategory = IconifyIconData(IconData(
+  /// `twotone-castle` — primary layer (full opacity)
+  static const IconifyIconData twotoneCastlePrimary = IconifyIconData(IconData(
     0xec82,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-celebration`
-  static const IconifyIconData twotoneCelebration = IconifyIconData(IconData(
+  /// `twotone-castle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCastleSecondary = IconifyIconData(IconData(
+    0xec82,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-catching-pokemon` — primary layer (full opacity)
+  static const IconifyIconData twotoneCatchingPokemonPrimary = IconifyIconData(IconData(
     0xec83,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-catching-pokemon` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCatchingPokemonSecondary = IconifyIconData(IconData(
+    0xec83,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-category` — primary layer (full opacity)
+  static const IconifyIconData twotoneCategoryPrimary = IconifyIconData(IconData(
+    0xec84,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-category` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCategorySecondary = IconifyIconData(IconData(
+    0xec84,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-celebration` — primary layer (full opacity)
+  static const IconifyIconData twotoneCelebrationPrimary = IconifyIconData(IconData(
+    0xec85,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-celebration` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCelebrationSecondary = IconifyIconData(IconData(
+    0xec85,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-cell-tower`
   static const IconifyIconData twotoneCellTower = IconifyIconData(IconData(
-    0xec84,
+    0xec86,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-cell-wifi`
   static const IconifyIconData twotoneCellWifi = IconifyIconData(IconData(
-    0xec85,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-center-focus-strong`
-  static const IconifyIconData twotoneCenterFocusStrong = IconifyIconData(IconData(
-    0xec86,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-center-focus-weak`
-  static const IconifyIconData twotoneCenterFocusWeak = IconifyIconData(IconData(
     0xec87,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-chair`
-  static const IconifyIconData twotoneChair = IconifyIconData(IconData(
+  /// `twotone-center-focus-strong` — primary layer (full opacity)
+  static const IconifyIconData twotoneCenterFocusStrongPrimary = IconifyIconData(IconData(
     0xec88,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-chair-alt`
-  static const IconifyIconData twotoneChairAlt = IconifyIconData(IconData(
+  /// `twotone-center-focus-strong` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCenterFocusStrongSecondary = IconifyIconData(IconData(
+    0xec88,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-center-focus-weak` — primary layer (full opacity)
+  static const IconifyIconData twotoneCenterFocusWeakPrimary = IconifyIconData(IconData(
     0xec89,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-chalet`
-  static const IconifyIconData twotoneChalet = IconifyIconData(IconData(
+  /// `twotone-center-focus-weak` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCenterFocusWeakSecondary = IconifyIconData(IconData(
+    0xec89,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-chair` — primary layer (full opacity)
+  static const IconifyIconData twotoneChairPrimary = IconifyIconData(IconData(
     0xec8a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-change-circle`
-  static const IconifyIconData twotoneChangeCircle = IconifyIconData(IconData(
+  /// `twotone-chair` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneChairSecondary = IconifyIconData(IconData(
+    0xec8a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-chair-alt` — primary layer (full opacity)
+  static const IconifyIconData twotoneChairAltPrimary = IconifyIconData(IconData(
     0xec8b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-change-history`
-  static const IconifyIconData twotoneChangeHistory = IconifyIconData(IconData(
+  /// `twotone-chair-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneChairAltSecondary = IconifyIconData(IconData(
+    0xec8b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-chalet` — primary layer (full opacity)
+  static const IconifyIconData twotoneChaletPrimary = IconifyIconData(IconData(
     0xec8c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-charging-station`
-  static const IconifyIconData twotoneChargingStation = IconifyIconData(IconData(
+  /// `twotone-chalet` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneChaletSecondary = IconifyIconData(IconData(
+    0xec8c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-change-circle` — primary layer (full opacity)
+  static const IconifyIconData twotoneChangeCirclePrimary = IconifyIconData(IconData(
     0xec8d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-chat`
-  static const IconifyIconData twotoneChat = IconifyIconData(IconData(
+  /// `twotone-change-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneChangeCircleSecondary = IconifyIconData(IconData(
+    0xec8d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-change-history` — primary layer (full opacity)
+  static const IconifyIconData twotoneChangeHistoryPrimary = IconifyIconData(IconData(
     0xec8e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-chat-bubble`
-  static const IconifyIconData twotoneChatBubble = IconifyIconData(IconData(
+  /// `twotone-change-history` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneChangeHistorySecondary = IconifyIconData(IconData(
+    0xec8e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-charging-station` — primary layer (full opacity)
+  static const IconifyIconData twotoneChargingStationPrimary = IconifyIconData(IconData(
     0xec8f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-charging-station` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneChargingStationSecondary = IconifyIconData(IconData(
+    0xec8f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-chat` — primary layer (full opacity)
+  static const IconifyIconData twotoneChatPrimary = IconifyIconData(IconData(
+    0xec90,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-chat` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneChatSecondary = IconifyIconData(IconData(
+    0xec90,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-chat-bubble` — primary layer (full opacity)
+  static const IconifyIconData twotoneChatBubblePrimary = IconifyIconData(IconData(
+    0xec91,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-chat-bubble` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneChatBubbleSecondary = IconifyIconData(IconData(
+    0xec91,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-chat-bubble-outline`
   static const IconifyIconData twotoneChatBubbleOutline = IconifyIconData(IconData(
-    0xec90,
+    0xec92,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-check`
   static const IconifyIconData twotoneCheck = IconifyIconData(IconData(
-    0xec91,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-check-box`
-  static const IconifyIconData twotoneCheckBox = IconifyIconData(IconData(
-    0xec92,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-check-box-outline-blank`
-  static const IconifyIconData twotoneCheckBoxOutlineBlank = IconifyIconData(IconData(
     0xec93,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-check-circle`
-  static const IconifyIconData twotoneCheckCircle = IconifyIconData(IconData(
+  /// `twotone-check-box` — primary layer (full opacity)
+  static const IconifyIconData twotoneCheckBoxPrimary = IconifyIconData(IconData(
     0xec94,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-check-box` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCheckBoxSecondary = IconifyIconData(IconData(
+    0xec94,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-check-box-outline-blank`
+  static const IconifyIconData twotoneCheckBoxOutlineBlank = IconifyIconData(IconData(
+    0xec95,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-check-circle` — primary layer (full opacity)
+  static const IconifyIconData twotoneCheckCirclePrimary = IconifyIconData(IconData(
+    0xec96,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-check-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCheckCircleSecondary = IconifyIconData(IconData(
+    0xec96,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-check-circle-outline`
   static const IconifyIconData twotoneCheckCircleOutline = IconifyIconData(IconData(
-    0xec95,
+    0xec97,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-checklist`
   static const IconifyIconData twotoneChecklist = IconifyIconData(IconData(
-    0xec96,
+    0xec98,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-checklist-rtl`
   static const IconifyIconData twotoneChecklistRtl = IconifyIconData(IconData(
-    0xec97,
+    0xec99,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-checkroom`
   static const IconifyIconData twotoneCheckroom = IconifyIconData(IconData(
-    0xec98,
+    0xec9a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-chevron-left`
   static const IconifyIconData twotoneChevronLeft = IconifyIconData(IconData(
-    0xec99,
+    0xec9b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-chevron-right`
   static const IconifyIconData twotoneChevronRight = IconifyIconData(IconData(
-    0xec9a,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-child-friendly`
-  static const IconifyIconData twotoneChildFriendly = IconifyIconData(IconData(
-    0xec9b,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-chrome-reader-mode`
-  static const IconifyIconData twotoneChromeReaderMode = IconifyIconData(IconData(
     0xec9c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-church`
-  static const IconifyIconData twotoneChurch = IconifyIconData(IconData(
+  /// `twotone-child-friendly` — primary layer (full opacity)
+  static const IconifyIconData twotoneChildFriendlyPrimary = IconifyIconData(IconData(
     0xec9d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-circle`
-  static const IconifyIconData twotoneCircle = IconifyIconData(IconData(
+  /// `twotone-child-friendly` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneChildFriendlySecondary = IconifyIconData(IconData(
+    0xec9d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-chrome-reader-mode` — primary layer (full opacity)
+  static const IconifyIconData twotoneChromeReaderModePrimary = IconifyIconData(IconData(
     0xec9e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-circle-notifications`
-  static const IconifyIconData twotoneCircleNotifications = IconifyIconData(IconData(
+  /// `twotone-chrome-reader-mode` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneChromeReaderModeSecondary = IconifyIconData(IconData(
+    0xec9e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-church` — primary layer (full opacity)
+  static const IconifyIconData twotoneChurchPrimary = IconifyIconData(IconData(
     0xec9f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-class`
-  static const IconifyIconData twotoneClass = IconifyIconData(IconData(
+  /// `twotone-church` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneChurchSecondary = IconifyIconData(IconData(
+    0xec9f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-circle` — primary layer (full opacity)
+  static const IconifyIconData twotoneCirclePrimary = IconifyIconData(IconData(
     0xeca0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-clean-hands`
-  static const IconifyIconData twotoneCleanHands = IconifyIconData(IconData(
+  /// `twotone-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCircleSecondary = IconifyIconData(IconData(
+    0xeca0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-circle-notifications` — primary layer (full opacity)
+  static const IconifyIconData twotoneCircleNotificationsPrimary = IconifyIconData(IconData(
     0xeca1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-cleaning-services`
-  static const IconifyIconData twotoneCleaningServices = IconifyIconData(IconData(
+  /// `twotone-circle-notifications` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCircleNotificationsSecondary = IconifyIconData(IconData(
+    0xeca1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-class` — primary layer (full opacity)
+  static const IconifyIconData twotoneClassPrimary = IconifyIconData(IconData(
     0xeca2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-class` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneClassSecondary = IconifyIconData(IconData(
+    0xeca2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-clean-hands` — primary layer (full opacity)
+  static const IconifyIconData twotoneCleanHandsPrimary = IconifyIconData(IconData(
+    0xeca3,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-clean-hands` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCleanHandsSecondary = IconifyIconData(IconData(
+    0xeca3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-cleaning-services` — primary layer (full opacity)
+  static const IconifyIconData twotoneCleaningServicesPrimary = IconifyIconData(IconData(
+    0xeca4,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-cleaning-services` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCleaningServicesSecondary = IconifyIconData(IconData(
+    0xeca4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-clear`
   static const IconifyIconData twotoneClear = IconifyIconData(IconData(
-    0xeca3,
+    0xeca5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-clear-all`
   static const IconifyIconData twotoneClearAll = IconifyIconData(IconData(
-    0xeca4,
+    0xeca6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-close`
   static const IconifyIconData twotoneClose = IconifyIconData(IconData(
-    0xeca5,
+    0xeca7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-close-fullscreen`
   static const IconifyIconData twotoneCloseFullscreen = IconifyIconData(IconData(
-    0xeca6,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-closed-caption`
-  static const IconifyIconData twotoneClosedCaption = IconifyIconData(IconData(
-    0xeca7,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-closed-caption-disabled`
-  static const IconifyIconData twotoneClosedCaptionDisabled = IconifyIconData(IconData(
     0xeca8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-closed-caption-off`
-  static const IconifyIconData twotoneClosedCaptionOff = IconifyIconData(IconData(
+  /// `twotone-closed-caption` — primary layer (full opacity)
+  static const IconifyIconData twotoneClosedCaptionPrimary = IconifyIconData(IconData(
     0xeca9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-cloud`
-  static const IconifyIconData twotoneCloud = IconifyIconData(IconData(
+  /// `twotone-closed-caption` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneClosedCaptionSecondary = IconifyIconData(IconData(
+    0xeca9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-closed-caption-disabled` — primary layer (full opacity)
+  static const IconifyIconData twotoneClosedCaptionDisabledPrimary = IconifyIconData(IconData(
     0xecaa,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-cloud-circle`
-  static const IconifyIconData twotoneCloudCircle = IconifyIconData(IconData(
+  /// `twotone-closed-caption-disabled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneClosedCaptionDisabledSecondary = IconifyIconData(IconData(
+    0xecaa,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-closed-caption-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneClosedCaptionOffPrimary = IconifyIconData(IconData(
     0xecab,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-cloud-done`
-  static const IconifyIconData twotoneCloudDone = IconifyIconData(IconData(
+  /// `twotone-closed-caption-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneClosedCaptionOffSecondary = IconifyIconData(IconData(
+    0xecab,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-cloud` — primary layer (full opacity)
+  static const IconifyIconData twotoneCloudPrimary = IconifyIconData(IconData(
     0xecac,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-cloud-download`
-  static const IconifyIconData twotoneCloudDownload = IconifyIconData(IconData(
+  /// `twotone-cloud` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCloudSecondary = IconifyIconData(IconData(
+    0xecac,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-cloud-circle` — primary layer (full opacity)
+  static const IconifyIconData twotoneCloudCirclePrimary = IconifyIconData(IconData(
     0xecad,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-cloud-off`
-  static const IconifyIconData twotoneCloudOff = IconifyIconData(IconData(
+  /// `twotone-cloud-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCloudCircleSecondary = IconifyIconData(IconData(
+    0xecad,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-cloud-done` — primary layer (full opacity)
+  static const IconifyIconData twotoneCloudDonePrimary = IconifyIconData(IconData(
     0xecae,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-cloud-queue`
-  static const IconifyIconData twotoneCloudQueue = IconifyIconData(IconData(
+  /// `twotone-cloud-done` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCloudDoneSecondary = IconifyIconData(IconData(
+    0xecae,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-cloud-download` — primary layer (full opacity)
+  static const IconifyIconData twotoneCloudDownloadPrimary = IconifyIconData(IconData(
     0xecaf,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-cloud-sync`
-  static const IconifyIconData twotoneCloudSync = IconifyIconData(IconData(
+  /// `twotone-cloud-download` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCloudDownloadSecondary = IconifyIconData(IconData(
+    0xecaf,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-cloud-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneCloudOffPrimary = IconifyIconData(IconData(
     0xecb0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-cloud-upload`
-  static const IconifyIconData twotoneCloudUpload = IconifyIconData(IconData(
+  /// `twotone-cloud-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCloudOffSecondary = IconifyIconData(IconData(
+    0xecb0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-cloud-queue` — primary layer (full opacity)
+  static const IconifyIconData twotoneCloudQueuePrimary = IconifyIconData(IconData(
     0xecb1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-co-present`
-  static const IconifyIconData twotoneCoPresent = IconifyIconData(IconData(
+  /// `twotone-cloud-queue` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCloudQueueSecondary = IconifyIconData(IconData(
+    0xecb1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-cloud-sync` — primary layer (full opacity)
+  static const IconifyIconData twotoneCloudSyncPrimary = IconifyIconData(IconData(
     0xecb2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-cloud-sync` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCloudSyncSecondary = IconifyIconData(IconData(
+    0xecb2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-cloud-upload` — primary layer (full opacity)
+  static const IconifyIconData twotoneCloudUploadPrimary = IconifyIconData(IconData(
+    0xecb3,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-cloud-upload` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCloudUploadSecondary = IconifyIconData(IconData(
+    0xecb3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-co-present` — primary layer (full opacity)
+  static const IconifyIconData twotoneCoPresentPrimary = IconifyIconData(IconData(
+    0xecb4,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-co-present` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCoPresentSecondary = IconifyIconData(IconData(
+    0xecb4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-co2`
   static const IconifyIconData twotoneCo2 = IconifyIconData(IconData(
-    0xecb3,
+    0xecb5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-code`
   static const IconifyIconData twotoneCode = IconifyIconData(IconData(
-    0xecb4,
+    0xecb6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-code-off`
   static const IconifyIconData twotoneCodeOff = IconifyIconData(IconData(
-    0xecb5,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-coffee`
-  static const IconifyIconData twotoneCoffee = IconifyIconData(IconData(
-    0xecb6,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-coffee-maker`
-  static const IconifyIconData twotoneCoffeeMaker = IconifyIconData(IconData(
     0xecb7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-collections`
-  static const IconifyIconData twotoneCollections = IconifyIconData(IconData(
+  /// `twotone-coffee` — primary layer (full opacity)
+  static const IconifyIconData twotoneCoffeePrimary = IconifyIconData(IconData(
     0xecb8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-collections-bookmark`
-  static const IconifyIconData twotoneCollectionsBookmark = IconifyIconData(IconData(
+  /// `twotone-coffee` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCoffeeSecondary = IconifyIconData(IconData(
+    0xecb8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-coffee-maker` — primary layer (full opacity)
+  static const IconifyIconData twotoneCoffeeMakerPrimary = IconifyIconData(IconData(
     0xecb9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-colorize`
-  static const IconifyIconData twotoneColorize = IconifyIconData(IconData(
+  /// `twotone-coffee-maker` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCoffeeMakerSecondary = IconifyIconData(IconData(
+    0xecb9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-collections` — primary layer (full opacity)
+  static const IconifyIconData twotoneCollectionsPrimary = IconifyIconData(IconData(
     0xecba,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-comment`
-  static const IconifyIconData twotoneComment = IconifyIconData(IconData(
+  /// `twotone-collections` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCollectionsSecondary = IconifyIconData(IconData(
+    0xecba,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-collections-bookmark` — primary layer (full opacity)
+  static const IconifyIconData twotoneCollectionsBookmarkPrimary = IconifyIconData(IconData(
     0xecbb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-comment-bank`
-  static const IconifyIconData twotoneCommentBank = IconifyIconData(IconData(
+  /// `twotone-collections-bookmark` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCollectionsBookmarkSecondary = IconifyIconData(IconData(
+    0xecbb,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-colorize` — primary layer (full opacity)
+  static const IconifyIconData twotoneColorizePrimary = IconifyIconData(IconData(
     0xecbc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-comments-disabled`
-  static const IconifyIconData twotoneCommentsDisabled = IconifyIconData(IconData(
+  /// `twotone-colorize` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneColorizeSecondary = IconifyIconData(IconData(
+    0xecbc,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-comment` — primary layer (full opacity)
+  static const IconifyIconData twotoneCommentPrimary = IconifyIconData(IconData(
     0xecbd,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-comment` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCommentSecondary = IconifyIconData(IconData(
+    0xecbd,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-comment-bank` — primary layer (full opacity)
+  static const IconifyIconData twotoneCommentBankPrimary = IconifyIconData(IconData(
+    0xecbe,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-comment-bank` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCommentBankSecondary = IconifyIconData(IconData(
+    0xecbe,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-comments-disabled` — primary layer (full opacity)
+  static const IconifyIconData twotoneCommentsDisabledPrimary = IconifyIconData(IconData(
+    0xecbf,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-comments-disabled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCommentsDisabledSecondary = IconifyIconData(IconData(
+    0xecbf,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-commit`
   static const IconifyIconData twotoneCommit = IconifyIconData(IconData(
-    0xecbe,
+    0xecc0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-commute`
   static const IconifyIconData twotoneCommute = IconifyIconData(IconData(
-    0xecbf,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-compare`
-  static const IconifyIconData twotoneCompare = IconifyIconData(IconData(
-    0xecc0,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-compare-arrows`
-  static const IconifyIconData twotoneCompareArrows = IconifyIconData(IconData(
     0xecc1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-compass-calibration`
-  static const IconifyIconData twotoneCompassCalibration = IconifyIconData(IconData(
+  /// `twotone-compare` — primary layer (full opacity)
+  static const IconifyIconData twotoneComparePrimary = IconifyIconData(IconData(
     0xecc2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-compare` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCompareSecondary = IconifyIconData(IconData(
+    0xecc2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-compare-arrows`
+  static const IconifyIconData twotoneCompareArrows = IconifyIconData(IconData(
+    0xecc3,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-compass-calibration` — primary layer (full opacity)
+  static const IconifyIconData twotoneCompassCalibrationPrimary = IconifyIconData(IconData(
+    0xecc4,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-compass-calibration` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCompassCalibrationSecondary = IconifyIconData(IconData(
+    0xecc4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-compost`
   static const IconifyIconData twotoneCompost = IconifyIconData(IconData(
-    0xecc3,
+    0xecc5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-compress`
   static const IconifyIconData twotoneCompress = IconifyIconData(IconData(
-    0xecc4,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-computer`
-  static const IconifyIconData twotoneComputer = IconifyIconData(IconData(
-    0xecc5,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-confirmation-number`
-  static const IconifyIconData twotoneConfirmationNumber = IconifyIconData(IconData(
     0xecc6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-connect-without-contact`
-  static const IconifyIconData twotoneConnectWithoutContact = IconifyIconData(IconData(
+  /// `twotone-computer` — primary layer (full opacity)
+  static const IconifyIconData twotoneComputerPrimary = IconifyIconData(IconData(
     0xecc7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-connected-tv`
-  static const IconifyIconData twotoneConnectedTv = IconifyIconData(IconData(
+  /// `twotone-computer` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneComputerSecondary = IconifyIconData(IconData(
+    0xecc7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-confirmation-number` — primary layer (full opacity)
+  static const IconifyIconData twotoneConfirmationNumberPrimary = IconifyIconData(IconData(
     0xecc8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-confirmation-number` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneConfirmationNumberSecondary = IconifyIconData(IconData(
+    0xecc8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-connect-without-contact`
+  static const IconifyIconData twotoneConnectWithoutContact = IconifyIconData(IconData(
+    0xecc9,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-connected-tv` — primary layer (full opacity)
+  static const IconifyIconData twotoneConnectedTvPrimary = IconifyIconData(IconData(
+    0xecca,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-connected-tv` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneConnectedTvSecondary = IconifyIconData(IconData(
+    0xecca,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-connecting-airports`
   static const IconifyIconData twotoneConnectingAirports = IconifyIconData(IconData(
-    0xecc9,
+    0xeccb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-construction`
   static const IconifyIconData twotoneConstruction = IconifyIconData(IconData(
-    0xecca,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-contact-emergency`
-  static const IconifyIconData twotoneContactEmergency = IconifyIconData(IconData(
-    0xeccb,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-contact-mail`
-  static const IconifyIconData twotoneContactMail = IconifyIconData(IconData(
     0xeccc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-contact-page`
-  static const IconifyIconData twotoneContactPage = IconifyIconData(IconData(
+  /// `twotone-contact-emergency` — primary layer (full opacity)
+  static const IconifyIconData twotoneContactEmergencyPrimary = IconifyIconData(IconData(
     0xeccd,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-contact-phone`
-  static const IconifyIconData twotoneContactPhone = IconifyIconData(IconData(
+  /// `twotone-contact-emergency` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneContactEmergencySecondary = IconifyIconData(IconData(
+    0xeccd,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-contact-mail` — primary layer (full opacity)
+  static const IconifyIconData twotoneContactMailPrimary = IconifyIconData(IconData(
     0xecce,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-contact-support`
-  static const IconifyIconData twotoneContactSupport = IconifyIconData(IconData(
+  /// `twotone-contact-mail` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneContactMailSecondary = IconifyIconData(IconData(
+    0xecce,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-contact-page` — primary layer (full opacity)
+  static const IconifyIconData twotoneContactPagePrimary = IconifyIconData(IconData(
     0xeccf,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-contactless`
-  static const IconifyIconData twotoneContactless = IconifyIconData(IconData(
+  /// `twotone-contact-page` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneContactPageSecondary = IconifyIconData(IconData(
+    0xeccf,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-contact-phone` — primary layer (full opacity)
+  static const IconifyIconData twotoneContactPhonePrimary = IconifyIconData(IconData(
     0xecd0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-contacts`
-  static const IconifyIconData twotoneContacts = IconifyIconData(IconData(
+  /// `twotone-contact-phone` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneContactPhoneSecondary = IconifyIconData(IconData(
+    0xecd0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-contact-support` — primary layer (full opacity)
+  static const IconifyIconData twotoneContactSupportPrimary = IconifyIconData(IconData(
     0xecd1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-content-copy`
-  static const IconifyIconData twotoneContentCopy = IconifyIconData(IconData(
+  /// `twotone-contact-support` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneContactSupportSecondary = IconifyIconData(IconData(
+    0xecd1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-contactless` — primary layer (full opacity)
+  static const IconifyIconData twotoneContactlessPrimary = IconifyIconData(IconData(
     0xecd2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-content-cut`
-  static const IconifyIconData twotoneContentCut = IconifyIconData(IconData(
+  /// `twotone-contactless` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneContactlessSecondary = IconifyIconData(IconData(
+    0xecd2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-contacts` — primary layer (full opacity)
+  static const IconifyIconData twotoneContactsPrimary = IconifyIconData(IconData(
     0xecd3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-content-paste`
-  static const IconifyIconData twotoneContentPaste = IconifyIconData(IconData(
+  /// `twotone-contacts` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneContactsSecondary = IconifyIconData(IconData(
+    0xecd3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-content-copy` — primary layer (full opacity)
+  static const IconifyIconData twotoneContentCopyPrimary = IconifyIconData(IconData(
     0xecd4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-content-paste-go`
-  static const IconifyIconData twotoneContentPasteGo = IconifyIconData(IconData(
+  /// `twotone-content-copy` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneContentCopySecondary = IconifyIconData(IconData(
+    0xecd4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-content-cut`
+  static const IconifyIconData twotoneContentCut = IconifyIconData(IconData(
     0xecd5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-content-paste-off`
-  static const IconifyIconData twotoneContentPasteOff = IconifyIconData(IconData(
+  /// `twotone-content-paste` — primary layer (full opacity)
+  static const IconifyIconData twotoneContentPastePrimary = IconifyIconData(IconData(
     0xecd6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-content-paste-search`
-  static const IconifyIconData twotoneContentPasteSearch = IconifyIconData(IconData(
+  /// `twotone-content-paste` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneContentPasteSecondary = IconifyIconData(IconData(
+    0xecd6,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-content-paste-go` — primary layer (full opacity)
+  static const IconifyIconData twotoneContentPasteGoPrimary = IconifyIconData(IconData(
     0xecd7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-content-paste-go` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneContentPasteGoSecondary = IconifyIconData(IconData(
+    0xecd7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-content-paste-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneContentPasteOffPrimary = IconifyIconData(IconData(
+    0xecd8,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-content-paste-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneContentPasteOffSecondary = IconifyIconData(IconData(
+    0xecd8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-content-paste-search` — primary layer (full opacity)
+  static const IconifyIconData twotoneContentPasteSearchPrimary = IconifyIconData(IconData(
+    0xecd9,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-content-paste-search` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneContentPasteSearchSecondary = IconifyIconData(IconData(
+    0xecd9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-contrast`
   static const IconifyIconData twotoneContrast = IconifyIconData(IconData(
-    0xecd8,
+    0xecda,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-control-camera`
   static const IconifyIconData twotoneControlCamera = IconifyIconData(IconData(
-    0xecd9,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-control-point`
-  static const IconifyIconData twotoneControlPoint = IconifyIconData(IconData(
-    0xecda,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-control-point-duplicate`
-  static const IconifyIconData twotoneControlPointDuplicate = IconifyIconData(IconData(
     0xecdb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-cookie`
-  static const IconifyIconData twotoneCookie = IconifyIconData(IconData(
+  /// `twotone-control-point` — primary layer (full opacity)
+  static const IconifyIconData twotoneControlPointPrimary = IconifyIconData(IconData(
     0xecdc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-copy-all`
-  static const IconifyIconData twotoneCopyAll = IconifyIconData(IconData(
+  /// `twotone-control-point` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneControlPointSecondary = IconifyIconData(IconData(
+    0xecdc,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-control-point-duplicate` — primary layer (full opacity)
+  static const IconifyIconData twotoneControlPointDuplicatePrimary = IconifyIconData(IconData(
     0xecdd,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-corporate-fare`
-  static const IconifyIconData twotoneCorporateFare = IconifyIconData(IconData(
+  /// `twotone-control-point-duplicate` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneControlPointDuplicateSecondary = IconifyIconData(IconData(
+    0xecdd,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-cookie` — primary layer (full opacity)
+  static const IconifyIconData twotoneCookiePrimary = IconifyIconData(IconData(
     0xecde,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-cottage`
-  static const IconifyIconData twotoneCottage = IconifyIconData(IconData(
+  /// `twotone-cookie` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCookieSecondary = IconifyIconData(IconData(
+    0xecde,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-copy-all` — primary layer (full opacity)
+  static const IconifyIconData twotoneCopyAllPrimary = IconifyIconData(IconData(
     0xecdf,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-countertops`
-  static const IconifyIconData twotoneCountertops = IconifyIconData(IconData(
+  /// `twotone-copy-all` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCopyAllSecondary = IconifyIconData(IconData(
+    0xecdf,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-corporate-fare` — primary layer (full opacity)
+  static const IconifyIconData twotoneCorporateFarePrimary = IconifyIconData(IconData(
     0xece0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-create-new-folder`
-  static const IconifyIconData twotoneCreateNewFolder = IconifyIconData(IconData(
+  /// `twotone-corporate-fare` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCorporateFareSecondary = IconifyIconData(IconData(
+    0xece0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-cottage` — primary layer (full opacity)
+  static const IconifyIconData twotoneCottagePrimary = IconifyIconData(IconData(
     0xece1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-credit-card`
-  static const IconifyIconData twotoneCreditCard = IconifyIconData(IconData(
+  /// `twotone-cottage` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCottageSecondary = IconifyIconData(IconData(
+    0xece1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-countertops` — primary layer (full opacity)
+  static const IconifyIconData twotoneCountertopsPrimary = IconifyIconData(IconData(
     0xece2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-credit-card-off`
-  static const IconifyIconData twotoneCreditCardOff = IconifyIconData(IconData(
+  /// `twotone-countertops` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCountertopsSecondary = IconifyIconData(IconData(
+    0xece2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-create-new-folder` — primary layer (full opacity)
+  static const IconifyIconData twotoneCreateNewFolderPrimary = IconifyIconData(IconData(
     0xece3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-credit-score`
-  static const IconifyIconData twotoneCreditScore = IconifyIconData(IconData(
+  /// `twotone-create-new-folder` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCreateNewFolderSecondary = IconifyIconData(IconData(
+    0xece3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-credit-card` — primary layer (full opacity)
+  static const IconifyIconData twotoneCreditCardPrimary = IconifyIconData(IconData(
     0xece4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-crib`
-  static const IconifyIconData twotoneCrib = IconifyIconData(IconData(
+  /// `twotone-credit-card` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCreditCardSecondary = IconifyIconData(IconData(
+    0xece4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-credit-card-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneCreditCardOffPrimary = IconifyIconData(IconData(
     0xece5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-credit-card-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCreditCardOffSecondary = IconifyIconData(IconData(
+    0xece5,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-credit-score`
+  static const IconifyIconData twotoneCreditScore = IconifyIconData(IconData(
+    0xece6,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-crib` — primary layer (full opacity)
+  static const IconifyIconData twotoneCribPrimary = IconifyIconData(IconData(
+    0xece7,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-crib` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCribSecondary = IconifyIconData(IconData(
+    0xece7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-crisis-alert`
   static const IconifyIconData twotoneCrisisAlert = IconifyIconData(IconData(
-    0xece6,
+    0xece8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-crop`
   static const IconifyIconData twotoneCrop = IconifyIconData(IconData(
-    0xece7,
+    0xece9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-crop-16-9`
   static const IconifyIconData twotoneCrop169 = IconifyIconData(IconData(
-    0xece8,
+    0xecea,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-crop-3-2`
   static const IconifyIconData twotoneCrop32 = IconifyIconData(IconData(
-    0xece9,
+    0xeceb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-crop-5-4`
   static const IconifyIconData twotoneCrop54 = IconifyIconData(IconData(
-    0xecea,
+    0xecec,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-crop-7-5`
   static const IconifyIconData twotoneCrop75 = IconifyIconData(IconData(
-    0xeceb,
+    0xeced,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-crop-din`
   static const IconifyIconData twotoneCropDin = IconifyIconData(IconData(
-    0xecec,
+    0xecee,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-crop-free`
   static const IconifyIconData twotoneCropFree = IconifyIconData(IconData(
-    0xeced,
+    0xecef,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-crop-landscape`
   static const IconifyIconData twotoneCropLandscape = IconifyIconData(IconData(
-    0xecee,
+    0xecf0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-crop-original`
   static const IconifyIconData twotoneCropOriginal = IconifyIconData(IconData(
-    0xecef,
+    0xecf1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-crop-portrait`
   static const IconifyIconData twotoneCropPortrait = IconifyIconData(IconData(
-    0xecf0,
+    0xecf2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-crop-rotate`
   static const IconifyIconData twotoneCropRotate = IconifyIconData(IconData(
-    0xecf1,
+    0xecf3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-crop-square`
   static const IconifyIconData twotoneCropSquare = IconifyIconData(IconData(
-    0xecf2,
+    0xecf4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-cruelty-free`
-  static const IconifyIconData twotoneCrueltyFree = IconifyIconData(IconData(
-    0xecf3,
+  /// `twotone-cruelty-free` — primary layer (full opacity)
+  static const IconifyIconData twotoneCrueltyFreePrimary = IconifyIconData(IconData(
+    0xecf5,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-cruelty-free` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCrueltyFreeSecondary = IconifyIconData(IconData(
+    0xecf5,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-css`
   static const IconifyIconData twotoneCss = IconifyIconData(IconData(
-    0xecf4,
+    0xecf6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-currency-bitcoin`
   static const IconifyIconData twotoneCurrencyBitcoin = IconifyIconData(IconData(
-    0xecf5,
+    0xecf7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-currency-exchange`
   static const IconifyIconData twotoneCurrencyExchange = IconifyIconData(IconData(
-    0xecf6,
+    0xecf8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-currency-franc`
   static const IconifyIconData twotoneCurrencyFranc = IconifyIconData(IconData(
-    0xecf7,
+    0xecf9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-currency-lira`
   static const IconifyIconData twotoneCurrencyLira = IconifyIconData(IconData(
-    0xecf8,
+    0xecfa,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-currency-pound`
   static const IconifyIconData twotoneCurrencyPound = IconifyIconData(IconData(
-    0xecf9,
+    0xecfb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-currency-ruble`
   static const IconifyIconData twotoneCurrencyRuble = IconifyIconData(IconData(
-    0xecfa,
+    0xecfc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-currency-rupee`
   static const IconifyIconData twotoneCurrencyRupee = IconifyIconData(IconData(
-    0xecfb,
+    0xecfd,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-currency-yen`
   static const IconifyIconData twotoneCurrencyYen = IconifyIconData(IconData(
-    0xecfc,
+    0xecfe,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-currency-yuan`
   static const IconifyIconData twotoneCurrencyYuan = IconifyIconData(IconData(
-    0xecfd,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-curtains`
-  static const IconifyIconData twotoneCurtains = IconifyIconData(IconData(
-    0xecfe,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-curtains-closed`
-  static const IconifyIconData twotoneCurtainsClosed = IconifyIconData(IconData(
     0xecff,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-cyclone`
-  static const IconifyIconData twotoneCyclone = IconifyIconData(IconData(
+  /// `twotone-curtains` — primary layer (full opacity)
+  static const IconifyIconData twotoneCurtainsPrimary = IconifyIconData(IconData(
     0xed00,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-dangerous`
-  static const IconifyIconData twotoneDangerous = IconifyIconData(IconData(
+  /// `twotone-curtains` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCurtainsSecondary = IconifyIconData(IconData(
+    0xed00,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-curtains-closed` — primary layer (full opacity)
+  static const IconifyIconData twotoneCurtainsClosedPrimary = IconifyIconData(IconData(
     0xed01,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-dark-mode`
-  static const IconifyIconData twotoneDarkMode = IconifyIconData(IconData(
+  /// `twotone-curtains-closed` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCurtainsClosedSecondary = IconifyIconData(IconData(
+    0xed01,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-cyclone` — primary layer (full opacity)
+  static const IconifyIconData twotoneCyclonePrimary = IconifyIconData(IconData(
     0xed02,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-dashboard`
-  static const IconifyIconData twotoneDashboard = IconifyIconData(IconData(
+  /// `twotone-cyclone` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneCycloneSecondary = IconifyIconData(IconData(
+    0xed02,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-dangerous` — primary layer (full opacity)
+  static const IconifyIconData twotoneDangerousPrimary = IconifyIconData(IconData(
     0xed03,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-dashboard-customize`
-  static const IconifyIconData twotoneDashboardCustomize = IconifyIconData(IconData(
+  /// `twotone-dangerous` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDangerousSecondary = IconifyIconData(IconData(
+    0xed03,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-dark-mode` — primary layer (full opacity)
+  static const IconifyIconData twotoneDarkModePrimary = IconifyIconData(IconData(
     0xed04,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-data-array`
-  static const IconifyIconData twotoneDataArray = IconifyIconData(IconData(
+  /// `twotone-dark-mode` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDarkModeSecondary = IconifyIconData(IconData(
+    0xed04,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-dashboard` — primary layer (full opacity)
+  static const IconifyIconData twotoneDashboardPrimary = IconifyIconData(IconData(
     0xed05,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-data-exploration`
-  static const IconifyIconData twotoneDataExploration = IconifyIconData(IconData(
+  /// `twotone-dashboard` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDashboardSecondary = IconifyIconData(IconData(
+    0xed05,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-dashboard-customize` — primary layer (full opacity)
+  static const IconifyIconData twotoneDashboardCustomizePrimary = IconifyIconData(IconData(
     0xed06,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-dashboard-customize` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDashboardCustomizeSecondary = IconifyIconData(IconData(
+    0xed06,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-data-array`
+  static const IconifyIconData twotoneDataArray = IconifyIconData(IconData(
+    0xed07,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-data-exploration` — primary layer (full opacity)
+  static const IconifyIconData twotoneDataExplorationPrimary = IconifyIconData(IconData(
+    0xed08,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-data-exploration` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDataExplorationSecondary = IconifyIconData(IconData(
+    0xed08,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-data-object`
   static const IconifyIconData twotoneDataObject = IconifyIconData(IconData(
-    0xed07,
+    0xed09,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-data-saver-off`
   static const IconifyIconData twotoneDataSaverOff = IconifyIconData(IconData(
-    0xed08,
+    0xed0a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-data-saver-on`
   static const IconifyIconData twotoneDataSaverOn = IconifyIconData(IconData(
-    0xed09,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-data-thresholding`
-  static const IconifyIconData twotoneDataThresholding = IconifyIconData(IconData(
-    0xed0a,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-data-usage`
-  static const IconifyIconData twotoneDataUsage = IconifyIconData(IconData(
     0xed0b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-dataset`
-  static const IconifyIconData twotoneDataset = IconifyIconData(IconData(
+  /// `twotone-data-thresholding` — primary layer (full opacity)
+  static const IconifyIconData twotoneDataThresholdingPrimary = IconifyIconData(IconData(
     0xed0c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-dataset-linked`
-  static const IconifyIconData twotoneDatasetLinked = IconifyIconData(IconData(
+  /// `twotone-data-thresholding` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDataThresholdingSecondary = IconifyIconData(IconData(
+    0xed0c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-data-usage`
+  static const IconifyIconData twotoneDataUsage = IconifyIconData(IconData(
     0xed0d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-date-range`
-  static const IconifyIconData twotoneDateRange = IconifyIconData(IconData(
+  /// `twotone-dataset` — primary layer (full opacity)
+  static const IconifyIconData twotoneDatasetPrimary = IconifyIconData(IconData(
     0xed0e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-deblur`
-  static const IconifyIconData twotoneDeblur = IconifyIconData(IconData(
+  /// `twotone-dataset` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDatasetSecondary = IconifyIconData(IconData(
+    0xed0e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-dataset-linked` — primary layer (full opacity)
+  static const IconifyIconData twotoneDatasetLinkedPrimary = IconifyIconData(IconData(
     0xed0f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-deck`
-  static const IconifyIconData twotoneDeck = IconifyIconData(IconData(
+  /// `twotone-dataset-linked` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDatasetLinkedSecondary = IconifyIconData(IconData(
+    0xed0f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-date-range` — primary layer (full opacity)
+  static const IconifyIconData twotoneDateRangePrimary = IconifyIconData(IconData(
     0xed10,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-dehaze`
-  static const IconifyIconData twotoneDehaze = IconifyIconData(IconData(
+  /// `twotone-date-range` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDateRangeSecondary = IconifyIconData(IconData(
+    0xed10,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-deblur` — primary layer (full opacity)
+  static const IconifyIconData twotoneDeblurPrimary = IconifyIconData(IconData(
     0xed11,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-delete`
-  static const IconifyIconData twotoneDelete = IconifyIconData(IconData(
+  /// `twotone-deblur` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDeblurSecondary = IconifyIconData(IconData(
+    0xed11,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-deck` — primary layer (full opacity)
+  static const IconifyIconData twotoneDeckPrimary = IconifyIconData(IconData(
     0xed12,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-delete-forever`
-  static const IconifyIconData twotoneDeleteForever = IconifyIconData(IconData(
+  /// `twotone-deck` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDeckSecondary = IconifyIconData(IconData(
+    0xed12,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-dehaze`
+  static const IconifyIconData twotoneDehaze = IconifyIconData(IconData(
     0xed13,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-delete-outline`
-  static const IconifyIconData twotoneDeleteOutline = IconifyIconData(IconData(
+  /// `twotone-delete` — primary layer (full opacity)
+  static const IconifyIconData twotoneDeletePrimary = IconifyIconData(IconData(
     0xed14,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-delete-sweep`
-  static const IconifyIconData twotoneDeleteSweep = IconifyIconData(IconData(
+  /// `twotone-delete` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDeleteSecondary = IconifyIconData(IconData(
+    0xed14,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-delete-forever` — primary layer (full opacity)
+  static const IconifyIconData twotoneDeleteForeverPrimary = IconifyIconData(IconData(
     0xed15,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-delivery-dining`
-  static const IconifyIconData twotoneDeliveryDining = IconifyIconData(IconData(
+  /// `twotone-delete-forever` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDeleteForeverSecondary = IconifyIconData(IconData(
+    0xed15,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-delete-outline`
+  static const IconifyIconData twotoneDeleteOutline = IconifyIconData(IconData(
     0xed16,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-delete-sweep` — primary layer (full opacity)
+  static const IconifyIconData twotoneDeleteSweepPrimary = IconifyIconData(IconData(
+    0xed17,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-delete-sweep` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDeleteSweepSecondary = IconifyIconData(IconData(
+    0xed17,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-delivery-dining` — primary layer (full opacity)
+  static const IconifyIconData twotoneDeliveryDiningPrimary = IconifyIconData(IconData(
+    0xed18,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-delivery-dining` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDeliveryDiningSecondary = IconifyIconData(IconData(
+    0xed18,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-density-large`
   static const IconifyIconData twotoneDensityLarge = IconifyIconData(IconData(
-    0xed17,
+    0xed19,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-density-medium`
   static const IconifyIconData twotoneDensityMedium = IconifyIconData(IconData(
-    0xed18,
+    0xed1a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-density-small`
   static const IconifyIconData twotoneDensitySmall = IconifyIconData(IconData(
-    0xed19,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-departure-board`
-  static const IconifyIconData twotoneDepartureBoard = IconifyIconData(IconData(
-    0xed1a,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-description`
-  static const IconifyIconData twotoneDescription = IconifyIconData(IconData(
     0xed1b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-deselect`
-  static const IconifyIconData twotoneDeselect = IconifyIconData(IconData(
+  /// `twotone-departure-board` — primary layer (full opacity)
+  static const IconifyIconData twotoneDepartureBoardPrimary = IconifyIconData(IconData(
     0xed1c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-desk`
-  static const IconifyIconData twotoneDesk = IconifyIconData(IconData(
+  /// `twotone-departure-board` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDepartureBoardSecondary = IconifyIconData(IconData(
+    0xed1c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-description` — primary layer (full opacity)
+  static const IconifyIconData twotoneDescriptionPrimary = IconifyIconData(IconData(
     0xed1d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-desktop-access-disabled`
-  static const IconifyIconData twotoneDesktopAccessDisabled = IconifyIconData(IconData(
+  /// `twotone-description` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDescriptionSecondary = IconifyIconData(IconData(
+    0xed1d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-deselect`
+  static const IconifyIconData twotoneDeselect = IconifyIconData(IconData(
     0xed1e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-desktop-mac`
-  static const IconifyIconData twotoneDesktopMac = IconifyIconData(IconData(
+  /// `twotone-desk` — primary layer (full opacity)
+  static const IconifyIconData twotoneDeskPrimary = IconifyIconData(IconData(
     0xed1f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-desktop-windows`
-  static const IconifyIconData twotoneDesktopWindows = IconifyIconData(IconData(
+  /// `twotone-desk` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDeskSecondary = IconifyIconData(IconData(
+    0xed1f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-desktop-access-disabled` — primary layer (full opacity)
+  static const IconifyIconData twotoneDesktopAccessDisabledPrimary = IconifyIconData(IconData(
     0xed20,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-details`
-  static const IconifyIconData twotoneDetails = IconifyIconData(IconData(
+  /// `twotone-desktop-access-disabled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDesktopAccessDisabledSecondary = IconifyIconData(IconData(
+    0xed20,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-desktop-mac` — primary layer (full opacity)
+  static const IconifyIconData twotoneDesktopMacPrimary = IconifyIconData(IconData(
     0xed21,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-developer-board`
-  static const IconifyIconData twotoneDeveloperBoard = IconifyIconData(IconData(
+  /// `twotone-desktop-mac` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDesktopMacSecondary = IconifyIconData(IconData(
+    0xed21,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-desktop-windows` — primary layer (full opacity)
+  static const IconifyIconData twotoneDesktopWindowsPrimary = IconifyIconData(IconData(
     0xed22,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-developer-board-off`
-  static const IconifyIconData twotoneDeveloperBoardOff = IconifyIconData(IconData(
+  /// `twotone-desktop-windows` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDesktopWindowsSecondary = IconifyIconData(IconData(
+    0xed22,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-details` — primary layer (full opacity)
+  static const IconifyIconData twotoneDetailsPrimary = IconifyIconData(IconData(
     0xed23,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-details` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDetailsSecondary = IconifyIconData(IconData(
+    0xed23,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-developer-board` — primary layer (full opacity)
+  static const IconifyIconData twotoneDeveloperBoardPrimary = IconifyIconData(IconData(
+    0xed24,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-developer-board` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDeveloperBoardSecondary = IconifyIconData(IconData(
+    0xed24,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-developer-board-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneDeveloperBoardOffPrimary = IconifyIconData(IconData(
+    0xed25,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-developer-board-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDeveloperBoardOffSecondary = IconifyIconData(IconData(
+    0xed25,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-developer-mode`
   static const IconifyIconData twotoneDeveloperMode = IconifyIconData(IconData(
-    0xed24,
+    0xed26,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-device-hub`
   static const IconifyIconData twotoneDeviceHub = IconifyIconData(IconData(
-    0xed25,
+    0xed27,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-device-thermostat`
   static const IconifyIconData twotoneDeviceThermostat = IconifyIconData(IconData(
-    0xed26,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-device-unknown`
-  static const IconifyIconData twotoneDeviceUnknown = IconifyIconData(IconData(
-    0xed27,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-devices`
-  static const IconifyIconData twotoneDevices = IconifyIconData(IconData(
     0xed28,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-devices-fold`
-  static const IconifyIconData twotoneDevicesFold = IconifyIconData(IconData(
+  /// `twotone-device-unknown` — primary layer (full opacity)
+  static const IconifyIconData twotoneDeviceUnknownPrimary = IconifyIconData(IconData(
     0xed29,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-devices-other`
-  static const IconifyIconData twotoneDevicesOther = IconifyIconData(IconData(
+  /// `twotone-device-unknown` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDeviceUnknownSecondary = IconifyIconData(IconData(
+    0xed29,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-devices` — primary layer (full opacity)
+  static const IconifyIconData twotoneDevicesPrimary = IconifyIconData(IconData(
     0xed2a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-dialer-sip`
-  static const IconifyIconData twotoneDialerSip = IconifyIconData(IconData(
+  /// `twotone-devices` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDevicesSecondary = IconifyIconData(IconData(
+    0xed2a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-devices-fold` — primary layer (full opacity)
+  static const IconifyIconData twotoneDevicesFoldPrimary = IconifyIconData(IconData(
     0xed2b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-dialpad`
-  static const IconifyIconData twotoneDialpad = IconifyIconData(IconData(
+  /// `twotone-devices-fold` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDevicesFoldSecondary = IconifyIconData(IconData(
+    0xed2b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-devices-other` — primary layer (full opacity)
+  static const IconifyIconData twotoneDevicesOtherPrimary = IconifyIconData(IconData(
     0xed2c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-diamond`
-  static const IconifyIconData twotoneDiamond = IconifyIconData(IconData(
+  /// `twotone-devices-other` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDevicesOtherSecondary = IconifyIconData(IconData(
+    0xed2c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-dialer-sip` — primary layer (full opacity)
+  static const IconifyIconData twotoneDialerSipPrimary = IconifyIconData(IconData(
     0xed2d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-difference`
-  static const IconifyIconData twotoneDifference = IconifyIconData(IconData(
+  /// `twotone-dialer-sip` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDialerSipSecondary = IconifyIconData(IconData(
+    0xed2d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-dialpad`
+  static const IconifyIconData twotoneDialpad = IconifyIconData(IconData(
     0xed2e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-dining`
-  static const IconifyIconData twotoneDining = IconifyIconData(IconData(
+  /// `twotone-diamond` — primary layer (full opacity)
+  static const IconifyIconData twotoneDiamondPrimary = IconifyIconData(IconData(
     0xed2f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-dinner-dining`
-  static const IconifyIconData twotoneDinnerDining = IconifyIconData(IconData(
+  /// `twotone-diamond` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDiamondSecondary = IconifyIconData(IconData(
+    0xed2f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-difference` — primary layer (full opacity)
+  static const IconifyIconData twotoneDifferencePrimary = IconifyIconData(IconData(
     0xed30,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-directions`
-  static const IconifyIconData twotoneDirections = IconifyIconData(IconData(
+  /// `twotone-difference` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDifferenceSecondary = IconifyIconData(IconData(
+    0xed30,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-dining` — primary layer (full opacity)
+  static const IconifyIconData twotoneDiningPrimary = IconifyIconData(IconData(
     0xed31,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-directions-bike`
-  static const IconifyIconData twotoneDirectionsBike = IconifyIconData(IconData(
+  /// `twotone-dining` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDiningSecondary = IconifyIconData(IconData(
+    0xed31,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-dinner-dining` — primary layer (full opacity)
+  static const IconifyIconData twotoneDinnerDiningPrimary = IconifyIconData(IconData(
     0xed32,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-directions-boat`
-  static const IconifyIconData twotoneDirectionsBoat = IconifyIconData(IconData(
+  /// `twotone-dinner-dining` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDinnerDiningSecondary = IconifyIconData(IconData(
+    0xed32,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-directions` — primary layer (full opacity)
+  static const IconifyIconData twotoneDirectionsPrimary = IconifyIconData(IconData(
     0xed33,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-directions-boat-filled`
-  static const IconifyIconData twotoneDirectionsBoatFilled = IconifyIconData(IconData(
+  /// `twotone-directions` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDirectionsSecondary = IconifyIconData(IconData(
+    0xed33,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-directions-bike`
+  static const IconifyIconData twotoneDirectionsBike = IconifyIconData(IconData(
     0xed34,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-directions-bus`
-  static const IconifyIconData twotoneDirectionsBus = IconifyIconData(IconData(
+  /// `twotone-directions-boat` — primary layer (full opacity)
+  static const IconifyIconData twotoneDirectionsBoatPrimary = IconifyIconData(IconData(
     0xed35,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-directions-bus-filled`
-  static const IconifyIconData twotoneDirectionsBusFilled = IconifyIconData(IconData(
+  /// `twotone-directions-boat` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDirectionsBoatSecondary = IconifyIconData(IconData(
+    0xed35,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-directions-boat-filled` — primary layer (full opacity)
+  static const IconifyIconData twotoneDirectionsBoatFilledPrimary = IconifyIconData(IconData(
     0xed36,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-directions-car`
-  static const IconifyIconData twotoneDirectionsCar = IconifyIconData(IconData(
+  /// `twotone-directions-boat-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDirectionsBoatFilledSecondary = IconifyIconData(IconData(
+    0xed36,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-directions-bus` — primary layer (full opacity)
+  static const IconifyIconData twotoneDirectionsBusPrimary = IconifyIconData(IconData(
     0xed37,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-directions-car-filled`
-  static const IconifyIconData twotoneDirectionsCarFilled = IconifyIconData(IconData(
+  /// `twotone-directions-bus` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDirectionsBusSecondary = IconifyIconData(IconData(
+    0xed37,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-directions-bus-filled` — primary layer (full opacity)
+  static const IconifyIconData twotoneDirectionsBusFilledPrimary = IconifyIconData(IconData(
     0xed38,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-directions-railway`
-  static const IconifyIconData twotoneDirectionsRailway = IconifyIconData(IconData(
+  /// `twotone-directions-bus-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDirectionsBusFilledSecondary = IconifyIconData(IconData(
+    0xed38,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-directions-car` — primary layer (full opacity)
+  static const IconifyIconData twotoneDirectionsCarPrimary = IconifyIconData(IconData(
     0xed39,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-directions-railway-filled`
-  static const IconifyIconData twotoneDirectionsRailwayFilled = IconifyIconData(IconData(
+  /// `twotone-directions-car` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDirectionsCarSecondary = IconifyIconData(IconData(
+    0xed39,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-directions-car-filled` — primary layer (full opacity)
+  static const IconifyIconData twotoneDirectionsCarFilledPrimary = IconifyIconData(IconData(
     0xed3a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-directions-run`
-  static const IconifyIconData twotoneDirectionsRun = IconifyIconData(IconData(
+  /// `twotone-directions-car-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDirectionsCarFilledSecondary = IconifyIconData(IconData(
+    0xed3a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-directions-railway` — primary layer (full opacity)
+  static const IconifyIconData twotoneDirectionsRailwayPrimary = IconifyIconData(IconData(
     0xed3b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-directions-subway`
-  static const IconifyIconData twotoneDirectionsSubway = IconifyIconData(IconData(
+  /// `twotone-directions-railway` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDirectionsRailwaySecondary = IconifyIconData(IconData(
+    0xed3b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-directions-railway-filled` — primary layer (full opacity)
+  static const IconifyIconData twotoneDirectionsRailwayFilledPrimary = IconifyIconData(IconData(
     0xed3c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-directions-subway-filled`
-  static const IconifyIconData twotoneDirectionsSubwayFilled = IconifyIconData(IconData(
+  /// `twotone-directions-railway-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDirectionsRailwayFilledSecondary = IconifyIconData(IconData(
+    0xed3c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-directions-run`
+  static const IconifyIconData twotoneDirectionsRun = IconifyIconData(IconData(
     0xed3d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-directions-transit`
-  static const IconifyIconData twotoneDirectionsTransit = IconifyIconData(IconData(
+  /// `twotone-directions-subway` — primary layer (full opacity)
+  static const IconifyIconData twotoneDirectionsSubwayPrimary = IconifyIconData(IconData(
     0xed3e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-directions-transit-filled`
-  static const IconifyIconData twotoneDirectionsTransitFilled = IconifyIconData(IconData(
+  /// `twotone-directions-subway` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDirectionsSubwaySecondary = IconifyIconData(IconData(
+    0xed3e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-directions-subway-filled` — primary layer (full opacity)
+  static const IconifyIconData twotoneDirectionsSubwayFilledPrimary = IconifyIconData(IconData(
     0xed3f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-directions-walk`
-  static const IconifyIconData twotoneDirectionsWalk = IconifyIconData(IconData(
+  /// `twotone-directions-subway-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDirectionsSubwayFilledSecondary = IconifyIconData(IconData(
+    0xed3f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-directions-transit` — primary layer (full opacity)
+  static const IconifyIconData twotoneDirectionsTransitPrimary = IconifyIconData(IconData(
     0xed40,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-dirty-lens`
-  static const IconifyIconData twotoneDirtyLens = IconifyIconData(IconData(
+  /// `twotone-directions-transit` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDirectionsTransitSecondary = IconifyIconData(IconData(
+    0xed40,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-directions-transit-filled` — primary layer (full opacity)
+  static const IconifyIconData twotoneDirectionsTransitFilledPrimary = IconifyIconData(IconData(
     0xed41,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-disabled-by-default`
-  static const IconifyIconData twotoneDisabledByDefault = IconifyIconData(IconData(
+  /// `twotone-directions-transit-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDirectionsTransitFilledSecondary = IconifyIconData(IconData(
+    0xed41,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-directions-walk`
+  static const IconifyIconData twotoneDirectionsWalk = IconifyIconData(IconData(
     0xed42,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-disabled-visible`
-  static const IconifyIconData twotoneDisabledVisible = IconifyIconData(IconData(
+  /// `twotone-dirty-lens` — primary layer (full opacity)
+  static const IconifyIconData twotoneDirtyLensPrimary = IconifyIconData(IconData(
     0xed43,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-disc-full`
-  static const IconifyIconData twotoneDiscFull = IconifyIconData(IconData(
+  /// `twotone-dirty-lens` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDirtyLensSecondary = IconifyIconData(IconData(
+    0xed43,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-disabled-by-default` — primary layer (full opacity)
+  static const IconifyIconData twotoneDisabledByDefaultPrimary = IconifyIconData(IconData(
     0xed44,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-discord`
-  static const IconifyIconData twotoneDiscord = IconifyIconData(IconData(
+  /// `twotone-disabled-by-default` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDisabledByDefaultSecondary = IconifyIconData(IconData(
+    0xed44,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-disabled-visible` — primary layer (full opacity)
+  static const IconifyIconData twotoneDisabledVisiblePrimary = IconifyIconData(IconData(
     0xed45,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-discount`
-  static const IconifyIconData twotoneDiscount = IconifyIconData(IconData(
+  /// `twotone-disabled-visible` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDisabledVisibleSecondary = IconifyIconData(IconData(
+    0xed45,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-disc-full` — primary layer (full opacity)
+  static const IconifyIconData twotoneDiscFullPrimary = IconifyIconData(IconData(
     0xed46,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-display-settings`
-  static const IconifyIconData twotoneDisplaySettings = IconifyIconData(IconData(
+  /// `twotone-disc-full` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDiscFullSecondary = IconifyIconData(IconData(
+    0xed46,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-discord`
+  static const IconifyIconData twotoneDiscord = IconifyIconData(IconData(
     0xed47,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-diversity-1`
-  static const IconifyIconData twotoneDiversity1 = IconifyIconData(IconData(
+  /// `twotone-discount` — primary layer (full opacity)
+  static const IconifyIconData twotoneDiscountPrimary = IconifyIconData(IconData(
     0xed48,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-diversity-2`
-  static const IconifyIconData twotoneDiversity2 = IconifyIconData(IconData(
+  /// `twotone-discount` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDiscountSecondary = IconifyIconData(IconData(
+    0xed48,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-display-settings` — primary layer (full opacity)
+  static const IconifyIconData twotoneDisplaySettingsPrimary = IconifyIconData(IconData(
     0xed49,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-diversity-3`
-  static const IconifyIconData twotoneDiversity3 = IconifyIconData(IconData(
+  /// `twotone-display-settings` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDisplaySettingsSecondary = IconifyIconData(IconData(
+    0xed49,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-diversity-1` — primary layer (full opacity)
+  static const IconifyIconData twotoneDiversity1Primary = IconifyIconData(IconData(
     0xed4a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-divide`
-  static const IconifyIconData twotoneDivide = IconifyIconData(IconData(
+  /// `twotone-diversity-1` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDiversity1Secondary = IconifyIconData(IconData(
+    0xed4a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-diversity-2` — primary layer (full opacity)
+  static const IconifyIconData twotoneDiversity2Primary = IconifyIconData(IconData(
     0xed4b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-dns`
-  static const IconifyIconData twotoneDns = IconifyIconData(IconData(
+  /// `twotone-diversity-2` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDiversity2Secondary = IconifyIconData(IconData(
+    0xed4b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-diversity-3`
+  static const IconifyIconData twotoneDiversity3 = IconifyIconData(IconData(
     0xed4c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-divide` — primary layer (full opacity)
+  static const IconifyIconData twotoneDividePrimary = IconifyIconData(IconData(
+    0xed4d,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-divide` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDivideSecondary = IconifyIconData(IconData(
+    0xed4d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-dns` — primary layer (full opacity)
+  static const IconifyIconData twotoneDnsPrimary = IconifyIconData(IconData(
+    0xed4e,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-dns` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDnsSecondary = IconifyIconData(IconData(
+    0xed4e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-do-disturb`
   static const IconifyIconData twotoneDoDisturb = IconifyIconData(IconData(
-    0xed4d,
+    0xed4f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-do-disturb-alt`
   static const IconifyIconData twotoneDoDisturbAlt = IconifyIconData(IconData(
-    0xed4e,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-do-disturb-off`
-  static const IconifyIconData twotoneDoDisturbOff = IconifyIconData(IconData(
-    0xed4f,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-do-disturb-on`
-  static const IconifyIconData twotoneDoDisturbOn = IconifyIconData(IconData(
     0xed50,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-do-disturb-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneDoDisturbOffPrimary = IconifyIconData(IconData(
+    0xed51,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-do-disturb-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDoDisturbOffSecondary = IconifyIconData(IconData(
+    0xed51,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-do-disturb-on` — primary layer (full opacity)
+  static const IconifyIconData twotoneDoDisturbOnPrimary = IconifyIconData(IconData(
+    0xed52,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-do-disturb-on` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDoDisturbOnSecondary = IconifyIconData(IconData(
+    0xed52,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-do-not-disturb`
   static const IconifyIconData twotoneDoNotDisturb = IconifyIconData(IconData(
-    0xed51,
+    0xed53,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-do-not-disturb-alt`
   static const IconifyIconData twotoneDoNotDisturbAlt = IconifyIconData(IconData(
-    0xed52,
+    0xed54,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-do-not-disturb-off`
   static const IconifyIconData twotoneDoNotDisturbOff = IconifyIconData(IconData(
-    0xed53,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-do-not-disturb-on`
-  static const IconifyIconData twotoneDoNotDisturbOn = IconifyIconData(IconData(
-    0xed54,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-do-not-disturb-on-total-silence`
-  static const IconifyIconData twotoneDoNotDisturbOnTotalSilence = IconifyIconData(IconData(
     0xed55,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-do-not-touch`
-  static const IconifyIconData twotoneDoNotTouch = IconifyIconData(IconData(
+  /// `twotone-do-not-disturb-on` — primary layer (full opacity)
+  static const IconifyIconData twotoneDoNotDisturbOnPrimary = IconifyIconData(IconData(
     0xed56,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-dock`
-  static const IconifyIconData twotoneDock = IconifyIconData(IconData(
+  /// `twotone-do-not-disturb-on` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDoNotDisturbOnSecondary = IconifyIconData(IconData(
+    0xed56,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-do-not-disturb-on-total-silence`
+  static const IconifyIconData twotoneDoNotDisturbOnTotalSilence = IconifyIconData(IconData(
     0xed57,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-document-scanner`
-  static const IconifyIconData twotoneDocumentScanner = IconifyIconData(IconData(
+  /// `twotone-do-not-touch` — primary layer (full opacity)
+  static const IconifyIconData twotoneDoNotTouchPrimary = IconifyIconData(IconData(
     0xed58,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-domain`
-  static const IconifyIconData twotoneDomain = IconifyIconData(IconData(
+  /// `twotone-do-not-touch` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDoNotTouchSecondary = IconifyIconData(IconData(
+    0xed58,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-dock` — primary layer (full opacity)
+  static const IconifyIconData twotoneDockPrimary = IconifyIconData(IconData(
     0xed59,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-domain-add`
-  static const IconifyIconData twotoneDomainAdd = IconifyIconData(IconData(
+  /// `twotone-dock` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDockSecondary = IconifyIconData(IconData(
+    0xed59,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-document-scanner` — primary layer (full opacity)
+  static const IconifyIconData twotoneDocumentScannerPrimary = IconifyIconData(IconData(
     0xed5a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-domain-disabled`
-  static const IconifyIconData twotoneDomainDisabled = IconifyIconData(IconData(
+  /// `twotone-document-scanner` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDocumentScannerSecondary = IconifyIconData(IconData(
+    0xed5a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-domain` — primary layer (full opacity)
+  static const IconifyIconData twotoneDomainPrimary = IconifyIconData(IconData(
     0xed5b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-domain-verification`
-  static const IconifyIconData twotoneDomainVerification = IconifyIconData(IconData(
+  /// `twotone-domain` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDomainSecondary = IconifyIconData(IconData(
+    0xed5b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-domain-add` — primary layer (full opacity)
+  static const IconifyIconData twotoneDomainAddPrimary = IconifyIconData(IconData(
     0xed5c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-domain-add` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDomainAddSecondary = IconifyIconData(IconData(
+    0xed5c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-domain-disabled` — primary layer (full opacity)
+  static const IconifyIconData twotoneDomainDisabledPrimary = IconifyIconData(IconData(
+    0xed5d,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-domain-disabled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDomainDisabledSecondary = IconifyIconData(IconData(
+    0xed5d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-domain-verification` — primary layer (full opacity)
+  static const IconifyIconData twotoneDomainVerificationPrimary = IconifyIconData(IconData(
+    0xed5e,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-domain-verification` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDomainVerificationSecondary = IconifyIconData(IconData(
+    0xed5e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-done`
   static const IconifyIconData twotoneDone = IconifyIconData(IconData(
-    0xed5d,
+    0xed5f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-done-all`
   static const IconifyIconData twotoneDoneAll = IconifyIconData(IconData(
-    0xed5e,
+    0xed60,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-done-outline`
   static const IconifyIconData twotoneDoneOutline = IconifyIconData(IconData(
-    0xed5f,
+    0xed61,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-donut-large`
   static const IconifyIconData twotoneDonutLarge = IconifyIconData(IconData(
-    0xed60,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-donut-small`
-  static const IconifyIconData twotoneDonutSmall = IconifyIconData(IconData(
-    0xed61,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-door-back`
-  static const IconifyIconData twotoneDoorBack = IconifyIconData(IconData(
     0xed62,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-door-front`
-  static const IconifyIconData twotoneDoorFront = IconifyIconData(IconData(
+  /// `twotone-donut-small` — primary layer (full opacity)
+  static const IconifyIconData twotoneDonutSmallPrimary = IconifyIconData(IconData(
     0xed63,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-door-sliding`
-  static const IconifyIconData twotoneDoorSliding = IconifyIconData(IconData(
+  /// `twotone-donut-small` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDonutSmallSecondary = IconifyIconData(IconData(
+    0xed63,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-door-back` — primary layer (full opacity)
+  static const IconifyIconData twotoneDoorBackPrimary = IconifyIconData(IconData(
     0xed64,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-doorbell`
-  static const IconifyIconData twotoneDoorbell = IconifyIconData(IconData(
+  /// `twotone-door-back` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDoorBackSecondary = IconifyIconData(IconData(
+    0xed64,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-door-front` — primary layer (full opacity)
+  static const IconifyIconData twotoneDoorFrontPrimary = IconifyIconData(IconData(
     0xed65,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-door-front` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDoorFrontSecondary = IconifyIconData(IconData(
+    0xed65,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-door-sliding` — primary layer (full opacity)
+  static const IconifyIconData twotoneDoorSlidingPrimary = IconifyIconData(IconData(
+    0xed66,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-door-sliding` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDoorSlidingSecondary = IconifyIconData(IconData(
+    0xed66,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-doorbell` — primary layer (full opacity)
+  static const IconifyIconData twotoneDoorbellPrimary = IconifyIconData(IconData(
+    0xed67,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-doorbell` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDoorbellSecondary = IconifyIconData(IconData(
+    0xed67,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-double-arrow`
   static const IconifyIconData twotoneDoubleArrow = IconifyIconData(IconData(
-    0xed66,
+    0xed68,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-downhill-skiing`
   static const IconifyIconData twotoneDownhillSkiing = IconifyIconData(IconData(
-    0xed67,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-download`
-  static const IconifyIconData twotoneDownload = IconifyIconData(IconData(
-    0xed68,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-download-done`
-  static const IconifyIconData twotoneDownloadDone = IconifyIconData(IconData(
     0xed69,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-download-for-offline`
-  static const IconifyIconData twotoneDownloadForOffline = IconifyIconData(IconData(
+  /// `twotone-download` — primary layer (full opacity)
+  static const IconifyIconData twotoneDownloadPrimary = IconifyIconData(IconData(
     0xed6a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-downloading`
-  static const IconifyIconData twotoneDownloading = IconifyIconData(IconData(
+  /// `twotone-download` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDownloadSecondary = IconifyIconData(IconData(
+    0xed6a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-download-done`
+  static const IconifyIconData twotoneDownloadDone = IconifyIconData(IconData(
     0xed6b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-drafts`
-  static const IconifyIconData twotoneDrafts = IconifyIconData(IconData(
+  /// `twotone-download-for-offline` — primary layer (full opacity)
+  static const IconifyIconData twotoneDownloadForOfflinePrimary = IconifyIconData(IconData(
     0xed6c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-download-for-offline` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDownloadForOfflineSecondary = IconifyIconData(IconData(
+    0xed6c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-downloading`
+  static const IconifyIconData twotoneDownloading = IconifyIconData(IconData(
+    0xed6d,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-drafts` — primary layer (full opacity)
+  static const IconifyIconData twotoneDraftsPrimary = IconifyIconData(IconData(
+    0xed6e,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-drafts` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDraftsSecondary = IconifyIconData(IconData(
+    0xed6e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-drag-handle`
   static const IconifyIconData twotoneDragHandle = IconifyIconData(IconData(
-    0xed6d,
+    0xed6f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-drag-indicator`
   static const IconifyIconData twotoneDragIndicator = IconifyIconData(IconData(
-    0xed6e,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-draw`
-  static const IconifyIconData twotoneDraw = IconifyIconData(IconData(
-    0xed6f,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-drive-eta`
-  static const IconifyIconData twotoneDriveEta = IconifyIconData(IconData(
     0xed70,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-drive-file-move`
-  static const IconifyIconData twotoneDriveFileMove = IconifyIconData(IconData(
+  /// `twotone-draw` — primary layer (full opacity)
+  static const IconifyIconData twotoneDrawPrimary = IconifyIconData(IconData(
     0xed71,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-drive-file-move-rtl`
-  static const IconifyIconData twotoneDriveFileMoveRtl = IconifyIconData(IconData(
+  /// `twotone-draw` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDrawSecondary = IconifyIconData(IconData(
+    0xed71,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-drive-eta` — primary layer (full opacity)
+  static const IconifyIconData twotoneDriveEtaPrimary = IconifyIconData(IconData(
     0xed72,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-drive-folder-upload`
-  static const IconifyIconData twotoneDriveFolderUpload = IconifyIconData(IconData(
+  /// `twotone-drive-eta` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDriveEtaSecondary = IconifyIconData(IconData(
+    0xed72,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-drive-file-move` — primary layer (full opacity)
+  static const IconifyIconData twotoneDriveFileMovePrimary = IconifyIconData(IconData(
     0xed73,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-dry`
-  static const IconifyIconData twotoneDry = IconifyIconData(IconData(
+  /// `twotone-drive-file-move` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDriveFileMoveSecondary = IconifyIconData(IconData(
+    0xed73,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-drive-file-move-rtl` — primary layer (full opacity)
+  static const IconifyIconData twotoneDriveFileMoveRtlPrimary = IconifyIconData(IconData(
     0xed74,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-dry-cleaning`
-  static const IconifyIconData twotoneDryCleaning = IconifyIconData(IconData(
+  /// `twotone-drive-file-move-rtl` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDriveFileMoveRtlSecondary = IconifyIconData(IconData(
+    0xed74,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-drive-folder-upload` — primary layer (full opacity)
+  static const IconifyIconData twotoneDriveFolderUploadPrimary = IconifyIconData(IconData(
     0xed75,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-duo`
-  static const IconifyIconData twotoneDuo = IconifyIconData(IconData(
+  /// `twotone-drive-folder-upload` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDriveFolderUploadSecondary = IconifyIconData(IconData(
+    0xed75,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-dry` — primary layer (full opacity)
+  static const IconifyIconData twotoneDryPrimary = IconifyIconData(IconData(
     0xed76,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-dvr`
-  static const IconifyIconData twotoneDvr = IconifyIconData(IconData(
+  /// `twotone-dry` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDrySecondary = IconifyIconData(IconData(
+    0xed76,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-dry-cleaning` — primary layer (full opacity)
+  static const IconifyIconData twotoneDryCleaningPrimary = IconifyIconData(IconData(
     0xed77,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-dynamic-feed`
-  static const IconifyIconData twotoneDynamicFeed = IconifyIconData(IconData(
+  /// `twotone-dry-cleaning` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDryCleaningSecondary = IconifyIconData(IconData(
+    0xed77,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-duo`
+  static const IconifyIconData twotoneDuo = IconifyIconData(IconData(
     0xed78,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-dynamic-form`
-  static const IconifyIconData twotoneDynamicForm = IconifyIconData(IconData(
+  /// `twotone-dvr` — primary layer (full opacity)
+  static const IconifyIconData twotoneDvrPrimary = IconifyIconData(IconData(
     0xed79,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-e-mobiledata`
-  static const IconifyIconData twotoneEMobiledata = IconifyIconData(IconData(
+  /// `twotone-dvr` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDvrSecondary = IconifyIconData(IconData(
+    0xed79,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-dynamic-feed` — primary layer (full opacity)
+  static const IconifyIconData twotoneDynamicFeedPrimary = IconifyIconData(IconData(
     0xed7a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-earbuds`
-  static const IconifyIconData twotoneEarbuds = IconifyIconData(IconData(
+  /// `twotone-dynamic-feed` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDynamicFeedSecondary = IconifyIconData(IconData(
+    0xed7a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-dynamic-form` — primary layer (full opacity)
+  static const IconifyIconData twotoneDynamicFormPrimary = IconifyIconData(IconData(
     0xed7b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-earbuds-battery`
-  static const IconifyIconData twotoneEarbudsBattery = IconifyIconData(IconData(
+  /// `twotone-dynamic-form` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneDynamicFormSecondary = IconifyIconData(IconData(
+    0xed7b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-e-mobiledata`
+  static const IconifyIconData twotoneEMobiledata = IconifyIconData(IconData(
     0xed7c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-east`
-  static const IconifyIconData twotoneEast = IconifyIconData(IconData(
+  /// `twotone-earbuds` — primary layer (full opacity)
+  static const IconifyIconData twotoneEarbudsPrimary = IconifyIconData(IconData(
     0xed7d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-eco`
-  static const IconifyIconData twotoneEco = IconifyIconData(IconData(
+  /// `twotone-earbuds` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEarbudsSecondary = IconifyIconData(IconData(
+    0xed7d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-earbuds-battery` — primary layer (full opacity)
+  static const IconifyIconData twotoneEarbudsBatteryPrimary = IconifyIconData(IconData(
     0xed7e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-edgesensor-high`
-  static const IconifyIconData twotoneEdgesensorHigh = IconifyIconData(IconData(
+  /// `twotone-earbuds-battery` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEarbudsBatterySecondary = IconifyIconData(IconData(
+    0xed7e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-east`
+  static const IconifyIconData twotoneEast = IconifyIconData(IconData(
     0xed7f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-edgesensor-low`
-  static const IconifyIconData twotoneEdgesensorLow = IconifyIconData(IconData(
+  /// `twotone-eco` — primary layer (full opacity)
+  static const IconifyIconData twotoneEcoPrimary = IconifyIconData(IconData(
     0xed80,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-edit-attributes`
-  static const IconifyIconData twotoneEditAttributes = IconifyIconData(IconData(
+  /// `twotone-eco` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEcoSecondary = IconifyIconData(IconData(
+    0xed80,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-edgesensor-high` — primary layer (full opacity)
+  static const IconifyIconData twotoneEdgesensorHighPrimary = IconifyIconData(IconData(
     0xed81,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-edit-location`
-  static const IconifyIconData twotoneEditLocation = IconifyIconData(IconData(
+  /// `twotone-edgesensor-high` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEdgesensorHighSecondary = IconifyIconData(IconData(
+    0xed81,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-edgesensor-low` — primary layer (full opacity)
+  static const IconifyIconData twotoneEdgesensorLowPrimary = IconifyIconData(IconData(
     0xed82,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-edit-notifications`
-  static const IconifyIconData twotoneEditNotifications = IconifyIconData(IconData(
+  /// `twotone-edgesensor-low` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEdgesensorLowSecondary = IconifyIconData(IconData(
+    0xed82,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-edit-attributes` — primary layer (full opacity)
+  static const IconifyIconData twotoneEditAttributesPrimary = IconifyIconData(IconData(
     0xed83,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-edit-road`
-  static const IconifyIconData twotoneEditRoad = IconifyIconData(IconData(
+  /// `twotone-edit-attributes` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEditAttributesSecondary = IconifyIconData(IconData(
+    0xed83,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-edit-location` — primary layer (full opacity)
+  static const IconifyIconData twotoneEditLocationPrimary = IconifyIconData(IconData(
     0xed84,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-egg`
-  static const IconifyIconData twotoneEgg = IconifyIconData(IconData(
+  /// `twotone-edit-location` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEditLocationSecondary = IconifyIconData(IconData(
+    0xed84,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-edit-notifications` — primary layer (full opacity)
+  static const IconifyIconData twotoneEditNotificationsPrimary = IconifyIconData(IconData(
     0xed85,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-egg-alt`
-  static const IconifyIconData twotoneEggAlt = IconifyIconData(IconData(
+  /// `twotone-edit-notifications` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEditNotificationsSecondary = IconifyIconData(IconData(
+    0xed85,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-edit-road` — primary layer (full opacity)
+  static const IconifyIconData twotoneEditRoadPrimary = IconifyIconData(IconData(
     0xed86,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-eject`
-  static const IconifyIconData twotoneEject = IconifyIconData(IconData(
+  /// `twotone-edit-road` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEditRoadSecondary = IconifyIconData(IconData(
+    0xed86,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-egg` — primary layer (full opacity)
+  static const IconifyIconData twotoneEggPrimary = IconifyIconData(IconData(
     0xed87,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-egg` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEggSecondary = IconifyIconData(IconData(
+    0xed87,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-egg-alt` — primary layer (full opacity)
+  static const IconifyIconData twotoneEggAltPrimary = IconifyIconData(IconData(
+    0xed88,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-egg-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEggAltSecondary = IconifyIconData(IconData(
+    0xed88,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-eject` — primary layer (full opacity)
+  static const IconifyIconData twotoneEjectPrimary = IconifyIconData(IconData(
+    0xed89,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-eject` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEjectSecondary = IconifyIconData(IconData(
+    0xed89,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-elderly`
   static const IconifyIconData twotoneElderly = IconifyIconData(IconData(
-    0xed88,
+    0xed8a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-elderly-woman`
   static const IconifyIconData twotoneElderlyWoman = IconifyIconData(IconData(
-    0xed89,
+    0xed8b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-electric-bike`
   static const IconifyIconData twotoneElectricBike = IconifyIconData(IconData(
-    0xed8a,
+    0xed8c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-electric-bolt`
   static const IconifyIconData twotoneElectricBolt = IconifyIconData(IconData(
-    0xed8b,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-electric-car`
-  static const IconifyIconData twotoneElectricCar = IconifyIconData(IconData(
-    0xed8c,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-electric-meter`
-  static const IconifyIconData twotoneElectricMeter = IconifyIconData(IconData(
     0xed8d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-electric-moped`
-  static const IconifyIconData twotoneElectricMoped = IconifyIconData(IconData(
+  /// `twotone-electric-car` — primary layer (full opacity)
+  static const IconifyIconData twotoneElectricCarPrimary = IconifyIconData(IconData(
     0xed8e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-electric-rickshaw`
-  static const IconifyIconData twotoneElectricRickshaw = IconifyIconData(IconData(
+  /// `twotone-electric-car` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneElectricCarSecondary = IconifyIconData(IconData(
+    0xed8e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-electric-meter` — primary layer (full opacity)
+  static const IconifyIconData twotoneElectricMeterPrimary = IconifyIconData(IconData(
     0xed8f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-electric-meter` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneElectricMeterSecondary = IconifyIconData(IconData(
+    0xed8f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-electric-moped` — primary layer (full opacity)
+  static const IconifyIconData twotoneElectricMopedPrimary = IconifyIconData(IconData(
+    0xed90,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-electric-moped` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneElectricMopedSecondary = IconifyIconData(IconData(
+    0xed90,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-electric-rickshaw` — primary layer (full opacity)
+  static const IconifyIconData twotoneElectricRickshawPrimary = IconifyIconData(IconData(
+    0xed91,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-electric-rickshaw` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneElectricRickshawSecondary = IconifyIconData(IconData(
+    0xed91,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-electric-scooter`
   static const IconifyIconData twotoneElectricScooter = IconifyIconData(IconData(
-    0xed90,
+    0xed92,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-electrical-services`
   static const IconifyIconData twotoneElectricalServices = IconifyIconData(IconData(
-    0xed91,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-elevator`
-  static const IconifyIconData twotoneElevator = IconifyIconData(IconData(
-    0xed92,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-email`
-  static const IconifyIconData twotoneEmail = IconifyIconData(IconData(
     0xed93,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-emergency`
-  static const IconifyIconData twotoneEmergency = IconifyIconData(IconData(
+  /// `twotone-elevator` — primary layer (full opacity)
+  static const IconifyIconData twotoneElevatorPrimary = IconifyIconData(IconData(
     0xed94,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-emergency-recording`
-  static const IconifyIconData twotoneEmergencyRecording = IconifyIconData(IconData(
+  /// `twotone-elevator` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneElevatorSecondary = IconifyIconData(IconData(
+    0xed94,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-email` — primary layer (full opacity)
+  static const IconifyIconData twotoneEmailPrimary = IconifyIconData(IconData(
     0xed95,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-emergency-share`
-  static const IconifyIconData twotoneEmergencyShare = IconifyIconData(IconData(
+  /// `twotone-email` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEmailSecondary = IconifyIconData(IconData(
+    0xed95,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-emergency` — primary layer (full opacity)
+  static const IconifyIconData twotoneEmergencyPrimary = IconifyIconData(IconData(
     0xed96,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-emoji-emotions`
-  static const IconifyIconData twotoneEmojiEmotions = IconifyIconData(IconData(
+  /// `twotone-emergency` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEmergencySecondary = IconifyIconData(IconData(
+    0xed96,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-emergency-recording` — primary layer (full opacity)
+  static const IconifyIconData twotoneEmergencyRecordingPrimary = IconifyIconData(IconData(
     0xed97,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-emoji-events`
-  static const IconifyIconData twotoneEmojiEvents = IconifyIconData(IconData(
+  /// `twotone-emergency-recording` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEmergencyRecordingSecondary = IconifyIconData(IconData(
+    0xed97,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-emergency-share` — primary layer (full opacity)
+  static const IconifyIconData twotoneEmergencySharePrimary = IconifyIconData(IconData(
     0xed98,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-emoji-flags`
-  static const IconifyIconData twotoneEmojiFlags = IconifyIconData(IconData(
+  /// `twotone-emergency-share` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEmergencyShareSecondary = IconifyIconData(IconData(
+    0xed98,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-emoji-emotions` — primary layer (full opacity)
+  static const IconifyIconData twotoneEmojiEmotionsPrimary = IconifyIconData(IconData(
     0xed99,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-emoji-food-beverage`
-  static const IconifyIconData twotoneEmojiFoodBeverage = IconifyIconData(IconData(
+  /// `twotone-emoji-emotions` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEmojiEmotionsSecondary = IconifyIconData(IconData(
+    0xed99,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-emoji-events` — primary layer (full opacity)
+  static const IconifyIconData twotoneEmojiEventsPrimary = IconifyIconData(IconData(
     0xed9a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-emoji-events` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEmojiEventsSecondary = IconifyIconData(IconData(
+    0xed9a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-emoji-flags` — primary layer (full opacity)
+  static const IconifyIconData twotoneEmojiFlagsPrimary = IconifyIconData(IconData(
+    0xed9b,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-emoji-flags` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEmojiFlagsSecondary = IconifyIconData(IconData(
+    0xed9b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-emoji-food-beverage` — primary layer (full opacity)
+  static const IconifyIconData twotoneEmojiFoodBeveragePrimary = IconifyIconData(IconData(
+    0xed9c,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-emoji-food-beverage` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEmojiFoodBeverageSecondary = IconifyIconData(IconData(
+    0xed9c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-emoji-people`
   static const IconifyIconData twotoneEmojiPeople = IconifyIconData(IconData(
-    0xed9b,
+    0xed9d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-emoji-transportation`
   static const IconifyIconData twotoneEmojiTransportation = IconifyIconData(IconData(
-    0xed9c,
+    0xed9e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-enhanced-encryption`
-  static const IconifyIconData twotoneEnhancedEncryption = IconifyIconData(IconData(
-    0xed9d,
+  /// `twotone-enhanced-encryption` — primary layer (full opacity)
+  static const IconifyIconData twotoneEnhancedEncryptionPrimary = IconifyIconData(IconData(
+    0xed9f,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-enhanced-encryption` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEnhancedEncryptionSecondary = IconifyIconData(IconData(
+    0xed9f,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-equalizer`
   static const IconifyIconData twotoneEqualizer = IconifyIconData(IconData(
-    0xed9e,
+    0xeda0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-equals`
   static const IconifyIconData twotoneEquals = IconifyIconData(IconData(
-    0xed9f,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-error`
-  static const IconifyIconData twotoneError = IconifyIconData(IconData(
-    0xeda0,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-error-outline`
-  static const IconifyIconData twotoneErrorOutline = IconifyIconData(IconData(
     0xeda1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-escalator`
-  static const IconifyIconData twotoneEscalator = IconifyIconData(IconData(
+  /// `twotone-error` — primary layer (full opacity)
+  static const IconifyIconData twotoneErrorPrimary = IconifyIconData(IconData(
     0xeda2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-error` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneErrorSecondary = IconifyIconData(IconData(
+    0xeda2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-error-outline`
+  static const IconifyIconData twotoneErrorOutline = IconifyIconData(IconData(
+    0xeda3,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-escalator` — primary layer (full opacity)
+  static const IconifyIconData twotoneEscalatorPrimary = IconifyIconData(IconData(
+    0xeda4,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-escalator` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEscalatorSecondary = IconifyIconData(IconData(
+    0xeda4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-escalator-warning`
   static const IconifyIconData twotoneEscalatorWarning = IconifyIconData(IconData(
-    0xeda3,
+    0xeda5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-euro`
   static const IconifyIconData twotoneEuro = IconifyIconData(IconData(
-    0xeda4,
+    0xeda6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-euro-symbol`
   static const IconifyIconData twotoneEuroSymbol = IconifyIconData(IconData(
-    0xeda5,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-ev-station`
-  static const IconifyIconData twotoneEvStation = IconifyIconData(IconData(
-    0xeda6,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-event`
-  static const IconifyIconData twotoneEvent = IconifyIconData(IconData(
     0xeda7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-event-available`
-  static const IconifyIconData twotoneEventAvailable = IconifyIconData(IconData(
+  /// `twotone-ev-station` — primary layer (full opacity)
+  static const IconifyIconData twotoneEvStationPrimary = IconifyIconData(IconData(
     0xeda8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-event-busy`
-  static const IconifyIconData twotoneEventBusy = IconifyIconData(IconData(
+  /// `twotone-ev-station` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEvStationSecondary = IconifyIconData(IconData(
+    0xeda8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-event` — primary layer (full opacity)
+  static const IconifyIconData twotoneEventPrimary = IconifyIconData(IconData(
     0xeda9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-event-note`
-  static const IconifyIconData twotoneEventNote = IconifyIconData(IconData(
+  /// `twotone-event` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEventSecondary = IconifyIconData(IconData(
+    0xeda9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-event-available` — primary layer (full opacity)
+  static const IconifyIconData twotoneEventAvailablePrimary = IconifyIconData(IconData(
     0xedaa,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-event-repeat`
-  static const IconifyIconData twotoneEventRepeat = IconifyIconData(IconData(
+  /// `twotone-event-available` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEventAvailableSecondary = IconifyIconData(IconData(
+    0xedaa,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-event-busy` — primary layer (full opacity)
+  static const IconifyIconData twotoneEventBusyPrimary = IconifyIconData(IconData(
     0xedab,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-event-seat`
-  static const IconifyIconData twotoneEventSeat = IconifyIconData(IconData(
+  /// `twotone-event-busy` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEventBusySecondary = IconifyIconData(IconData(
+    0xedab,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-event-note` — primary layer (full opacity)
+  static const IconifyIconData twotoneEventNotePrimary = IconifyIconData(IconData(
     0xedac,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-event-note` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEventNoteSecondary = IconifyIconData(IconData(
+    0xedac,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-event-repeat` — primary layer (full opacity)
+  static const IconifyIconData twotoneEventRepeatPrimary = IconifyIconData(IconData(
+    0xedad,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-event-repeat` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEventRepeatSecondary = IconifyIconData(IconData(
+    0xedad,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-event-seat` — primary layer (full opacity)
+  static const IconifyIconData twotoneEventSeatPrimary = IconifyIconData(IconData(
+    0xedae,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-event-seat` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneEventSeatSecondary = IconifyIconData(IconData(
+    0xedae,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-exit-to-app`
   static const IconifyIconData twotoneExitToApp = IconifyIconData(IconData(
-    0xedad,
+    0xedaf,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-expand`
   static const IconifyIconData twotoneExpand = IconifyIconData(IconData(
-    0xedae,
+    0xedb0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-expand-circle-down`
-  static const IconifyIconData twotoneExpandCircleDown = IconifyIconData(IconData(
-    0xedaf,
+  /// `twotone-expand-circle-down` — primary layer (full opacity)
+  static const IconifyIconData twotoneExpandCircleDownPrimary = IconifyIconData(IconData(
+    0xedb1,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-expand-circle-down` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneExpandCircleDownSecondary = IconifyIconData(IconData(
+    0xedb1,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-expand-less`
   static const IconifyIconData twotoneExpandLess = IconifyIconData(IconData(
-    0xedb0,
+    0xedb2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-expand-more`
   static const IconifyIconData twotoneExpandMore = IconifyIconData(IconData(
-    0xedb1,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-explicit`
-  static const IconifyIconData twotoneExplicit = IconifyIconData(IconData(
-    0xedb2,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-explore`
-  static const IconifyIconData twotoneExplore = IconifyIconData(IconData(
     0xedb3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-explore-off`
-  static const IconifyIconData twotoneExploreOff = IconifyIconData(IconData(
+  /// `twotone-explicit` — primary layer (full opacity)
+  static const IconifyIconData twotoneExplicitPrimary = IconifyIconData(IconData(
     0xedb4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-exposure`
-  static const IconifyIconData twotoneExposure = IconifyIconData(IconData(
+  /// `twotone-explicit` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneExplicitSecondary = IconifyIconData(IconData(
+    0xedb4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-explore` — primary layer (full opacity)
+  static const IconifyIconData twotoneExplorePrimary = IconifyIconData(IconData(
     0xedb5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-explore` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneExploreSecondary = IconifyIconData(IconData(
+    0xedb5,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-explore-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneExploreOffPrimary = IconifyIconData(IconData(
+    0xedb6,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-explore-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneExploreOffSecondary = IconifyIconData(IconData(
+    0xedb6,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-exposure` — primary layer (full opacity)
+  static const IconifyIconData twotoneExposurePrimary = IconifyIconData(IconData(
+    0xedb7,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-exposure` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneExposureSecondary = IconifyIconData(IconData(
+    0xedb7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-exposure-neg-1`
   static const IconifyIconData twotoneExposureNeg1 = IconifyIconData(IconData(
-    0xedb6,
+    0xedb8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-exposure-plus-1`
   static const IconifyIconData twotoneExposurePlus1 = IconifyIconData(IconData(
-    0xedb7,
+    0xedb9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-exposure-zero`
   static const IconifyIconData twotoneExposureZero = IconifyIconData(IconData(
-    0xedb8,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-extension`
-  static const IconifyIconData twotoneExtension = IconifyIconData(IconData(
-    0xedb9,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-extension-off`
-  static const IconifyIconData twotoneExtensionOff = IconifyIconData(IconData(
     0xedba,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-face`
-  static const IconifyIconData twotoneFace = IconifyIconData(IconData(
+  /// `twotone-extension` — primary layer (full opacity)
+  static const IconifyIconData twotoneExtensionPrimary = IconifyIconData(IconData(
     0xedbb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-face-2`
-  static const IconifyIconData twotoneFace2 = IconifyIconData(IconData(
+  /// `twotone-extension` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneExtensionSecondary = IconifyIconData(IconData(
+    0xedbb,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-extension-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneExtensionOffPrimary = IconifyIconData(IconData(
     0xedbc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-face-3`
-  static const IconifyIconData twotoneFace3 = IconifyIconData(IconData(
+  /// `twotone-extension-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneExtensionOffSecondary = IconifyIconData(IconData(
+    0xedbc,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-face` — primary layer (full opacity)
+  static const IconifyIconData twotoneFacePrimary = IconifyIconData(IconData(
     0xedbd,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-face-4`
-  static const IconifyIconData twotoneFace4 = IconifyIconData(IconData(
+  /// `twotone-face` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFaceSecondary = IconifyIconData(IconData(
+    0xedbd,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-face-2` — primary layer (full opacity)
+  static const IconifyIconData twotoneFace2Primary = IconifyIconData(IconData(
     0xedbe,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-face-6`
-  static const IconifyIconData twotoneFace6 = IconifyIconData(IconData(
+  /// `twotone-face-2` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFace2Secondary = IconifyIconData(IconData(
+    0xedbe,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-face-3` — primary layer (full opacity)
+  static const IconifyIconData twotoneFace3Primary = IconifyIconData(IconData(
     0xedbf,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-face-retouching-natural`
-  static const IconifyIconData twotoneFaceRetouchingNatural = IconifyIconData(IconData(
+  /// `twotone-face-3` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFace3Secondary = IconifyIconData(IconData(
+    0xedbf,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-face-4` — primary layer (full opacity)
+  static const IconifyIconData twotoneFace4Primary = IconifyIconData(IconData(
     0xedc0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-face-retouching-off`
-  static const IconifyIconData twotoneFaceRetouchingOff = IconifyIconData(IconData(
+  /// `twotone-face-4` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFace4Secondary = IconifyIconData(IconData(
+    0xedc0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-face-6` — primary layer (full opacity)
+  static const IconifyIconData twotoneFace6Primary = IconifyIconData(IconData(
     0xedc1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-facebook`
-  static const IconifyIconData twotoneFacebook = IconifyIconData(IconData(
+  /// `twotone-face-6` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFace6Secondary = IconifyIconData(IconData(
+    0xedc1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-face-retouching-natural` — primary layer (full opacity)
+  static const IconifyIconData twotoneFaceRetouchingNaturalPrimary = IconifyIconData(IconData(
     0xedc2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-fact-check`
-  static const IconifyIconData twotoneFactCheck = IconifyIconData(IconData(
+  /// `twotone-face-retouching-natural` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFaceRetouchingNaturalSecondary = IconifyIconData(IconData(
+    0xedc2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-face-retouching-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneFaceRetouchingOffPrimary = IconifyIconData(IconData(
     0xedc3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-factory`
-  static const IconifyIconData twotoneFactory = IconifyIconData(IconData(
+  /// `twotone-face-retouching-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFaceRetouchingOffSecondary = IconifyIconData(IconData(
+    0xedc3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-facebook`
+  static const IconifyIconData twotoneFacebook = IconifyIconData(IconData(
     0xedc4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-family-restroom`
-  static const IconifyIconData twotoneFamilyRestroom = IconifyIconData(IconData(
+  /// `twotone-fact-check` — primary layer (full opacity)
+  static const IconifyIconData twotoneFactCheckPrimary = IconifyIconData(IconData(
     0xedc5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-fast-forward`
-  static const IconifyIconData twotoneFastForward = IconifyIconData(IconData(
+  /// `twotone-fact-check` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFactCheckSecondary = IconifyIconData(IconData(
+    0xedc5,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-factory` — primary layer (full opacity)
+  static const IconifyIconData twotoneFactoryPrimary = IconifyIconData(IconData(
     0xedc6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-fast-rewind`
-  static const IconifyIconData twotoneFastRewind = IconifyIconData(IconData(
+  /// `twotone-factory` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFactorySecondary = IconifyIconData(IconData(
+    0xedc6,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-family-restroom`
+  static const IconifyIconData twotoneFamilyRestroom = IconifyIconData(IconData(
     0xedc7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-fastfood`
-  static const IconifyIconData twotoneFastfood = IconifyIconData(IconData(
+  /// `twotone-fast-forward` — primary layer (full opacity)
+  static const IconifyIconData twotoneFastForwardPrimary = IconifyIconData(IconData(
     0xedc8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-favorite`
-  static const IconifyIconData twotoneFavorite = IconifyIconData(IconData(
+  /// `twotone-fast-forward` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFastForwardSecondary = IconifyIconData(IconData(
+    0xedc8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-fast-rewind` — primary layer (full opacity)
+  static const IconifyIconData twotoneFastRewindPrimary = IconifyIconData(IconData(
     0xedc9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-favorite-border`
-  static const IconifyIconData twotoneFavoriteBorder = IconifyIconData(IconData(
+  /// `twotone-fast-rewind` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFastRewindSecondary = IconifyIconData(IconData(
+    0xedc9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-fastfood` — primary layer (full opacity)
+  static const IconifyIconData twotoneFastfoodPrimary = IconifyIconData(IconData(
     0xedca,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-fax`
-  static const IconifyIconData twotoneFax = IconifyIconData(IconData(
+  /// `twotone-fastfood` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFastfoodSecondary = IconifyIconData(IconData(
+    0xedca,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-favorite` — primary layer (full opacity)
+  static const IconifyIconData twotoneFavoritePrimary = IconifyIconData(IconData(
     0xedcb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-featured-play-list`
-  static const IconifyIconData twotoneFeaturedPlayList = IconifyIconData(IconData(
+  /// `twotone-favorite` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFavoriteSecondary = IconifyIconData(IconData(
+    0xedcb,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-favorite-border`
+  static const IconifyIconData twotoneFavoriteBorder = IconifyIconData(IconData(
     0xedcc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-featured-video`
-  static const IconifyIconData twotoneFeaturedVideo = IconifyIconData(IconData(
+  /// `twotone-fax` — primary layer (full opacity)
+  static const IconifyIconData twotoneFaxPrimary = IconifyIconData(IconData(
     0xedcd,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-feed`
-  static const IconifyIconData twotoneFeed = IconifyIconData(IconData(
+  /// `twotone-fax` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFaxSecondary = IconifyIconData(IconData(
+    0xedcd,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-featured-play-list` — primary layer (full opacity)
+  static const IconifyIconData twotoneFeaturedPlayListPrimary = IconifyIconData(IconData(
     0xedce,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-feedback`
-  static const IconifyIconData twotoneFeedback = IconifyIconData(IconData(
+  /// `twotone-featured-play-list` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFeaturedPlayListSecondary = IconifyIconData(IconData(
+    0xedce,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-featured-video` — primary layer (full opacity)
+  static const IconifyIconData twotoneFeaturedVideoPrimary = IconifyIconData(IconData(
     0xedcf,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-female`
-  static const IconifyIconData twotoneFemale = IconifyIconData(IconData(
+  /// `twotone-featured-video` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFeaturedVideoSecondary = IconifyIconData(IconData(
+    0xedcf,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-feed` — primary layer (full opacity)
+  static const IconifyIconData twotoneFeedPrimary = IconifyIconData(IconData(
     0xedd0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-fence`
-  static const IconifyIconData twotoneFence = IconifyIconData(IconData(
+  /// `twotone-feed` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFeedSecondary = IconifyIconData(IconData(
+    0xedd0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-feedback` — primary layer (full opacity)
+  static const IconifyIconData twotoneFeedbackPrimary = IconifyIconData(IconData(
     0xedd1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-festival`
-  static const IconifyIconData twotoneFestival = IconifyIconData(IconData(
+  /// `twotone-feedback` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFeedbackSecondary = IconifyIconData(IconData(
+    0xedd1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-female`
+  static const IconifyIconData twotoneFemale = IconifyIconData(IconData(
     0xedd2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-fiber-dvr`
-  static const IconifyIconData twotoneFiberDvr = IconifyIconData(IconData(
+  /// `twotone-fence` — primary layer (full opacity)
+  static const IconifyIconData twotoneFencePrimary = IconifyIconData(IconData(
     0xedd3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-fiber-manual-record`
-  static const IconifyIconData twotoneFiberManualRecord = IconifyIconData(IconData(
+  /// `twotone-fence` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFenceSecondary = IconifyIconData(IconData(
+    0xedd3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-festival` — primary layer (full opacity)
+  static const IconifyIconData twotoneFestivalPrimary = IconifyIconData(IconData(
     0xedd4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-fiber-new`
-  static const IconifyIconData twotoneFiberNew = IconifyIconData(IconData(
+  /// `twotone-festival` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFestivalSecondary = IconifyIconData(IconData(
+    0xedd4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-fiber-dvr` — primary layer (full opacity)
+  static const IconifyIconData twotoneFiberDvrPrimary = IconifyIconData(IconData(
     0xedd5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-fiber-pin`
-  static const IconifyIconData twotoneFiberPin = IconifyIconData(IconData(
+  /// `twotone-fiber-dvr` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFiberDvrSecondary = IconifyIconData(IconData(
+    0xedd5,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-fiber-manual-record` — primary layer (full opacity)
+  static const IconifyIconData twotoneFiberManualRecordPrimary = IconifyIconData(IconData(
     0xedd6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-fiber-smart-record`
-  static const IconifyIconData twotoneFiberSmartRecord = IconifyIconData(IconData(
+  /// `twotone-fiber-manual-record` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFiberManualRecordSecondary = IconifyIconData(IconData(
+    0xedd6,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-fiber-new` — primary layer (full opacity)
+  static const IconifyIconData twotoneFiberNewPrimary = IconifyIconData(IconData(
     0xedd7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-file-copy`
-  static const IconifyIconData twotoneFileCopy = IconifyIconData(IconData(
+  /// `twotone-fiber-new` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFiberNewSecondary = IconifyIconData(IconData(
+    0xedd7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-fiber-pin` — primary layer (full opacity)
+  static const IconifyIconData twotoneFiberPinPrimary = IconifyIconData(IconData(
     0xedd8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-file-download`
-  static const IconifyIconData twotoneFileDownload = IconifyIconData(IconData(
+  /// `twotone-fiber-pin` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFiberPinSecondary = IconifyIconData(IconData(
+    0xedd8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-fiber-smart-record` — primary layer (full opacity)
+  static const IconifyIconData twotoneFiberSmartRecordPrimary = IconifyIconData(IconData(
     0xedd9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-file-download-done`
-  static const IconifyIconData twotoneFileDownloadDone = IconifyIconData(IconData(
+  /// `twotone-fiber-smart-record` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFiberSmartRecordSecondary = IconifyIconData(IconData(
+    0xedd9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-file-copy` — primary layer (full opacity)
+  static const IconifyIconData twotoneFileCopyPrimary = IconifyIconData(IconData(
     0xedda,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-file-download-off`
-  static const IconifyIconData twotoneFileDownloadOff = IconifyIconData(IconData(
+  /// `twotone-file-copy` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFileCopySecondary = IconifyIconData(IconData(
+    0xedda,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-file-download` — primary layer (full opacity)
+  static const IconifyIconData twotoneFileDownloadPrimary = IconifyIconData(IconData(
     0xeddb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-file-open`
-  static const IconifyIconData twotoneFileOpen = IconifyIconData(IconData(
+  /// `twotone-file-download` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFileDownloadSecondary = IconifyIconData(IconData(
+    0xeddb,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-file-download-done`
+  static const IconifyIconData twotoneFileDownloadDone = IconifyIconData(IconData(
     0xeddc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-file-present`
-  static const IconifyIconData twotoneFilePresent = IconifyIconData(IconData(
+  /// `twotone-file-download-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneFileDownloadOffPrimary = IconifyIconData(IconData(
     0xeddd,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-file-upload`
-  static const IconifyIconData twotoneFileUpload = IconifyIconData(IconData(
+  /// `twotone-file-download-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFileDownloadOffSecondary = IconifyIconData(IconData(
+    0xeddd,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-file-open` — primary layer (full opacity)
+  static const IconifyIconData twotoneFileOpenPrimary = IconifyIconData(IconData(
     0xedde,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-filter`
-  static const IconifyIconData twotoneFilter = IconifyIconData(IconData(
+  /// `twotone-file-open` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFileOpenSecondary = IconifyIconData(IconData(
+    0xedde,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-file-present` — primary layer (full opacity)
+  static const IconifyIconData twotoneFilePresentPrimary = IconifyIconData(IconData(
     0xeddf,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-filter-1`
-  static const IconifyIconData twotoneFilter1 = IconifyIconData(IconData(
+  /// `twotone-file-present` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFilePresentSecondary = IconifyIconData(IconData(
+    0xeddf,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-file-upload` — primary layer (full opacity)
+  static const IconifyIconData twotoneFileUploadPrimary = IconifyIconData(IconData(
     0xede0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-filter-2`
-  static const IconifyIconData twotoneFilter2 = IconifyIconData(IconData(
+  /// `twotone-file-upload` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFileUploadSecondary = IconifyIconData(IconData(
+    0xede0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-filter` — primary layer (full opacity)
+  static const IconifyIconData twotoneFilterPrimary = IconifyIconData(IconData(
     0xede1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-filter-3`
-  static const IconifyIconData twotoneFilter3 = IconifyIconData(IconData(
+  /// `twotone-filter` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFilterSecondary = IconifyIconData(IconData(
+    0xede1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-filter-1` — primary layer (full opacity)
+  static const IconifyIconData twotoneFilter1Primary = IconifyIconData(IconData(
     0xede2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-filter-4`
-  static const IconifyIconData twotoneFilter4 = IconifyIconData(IconData(
+  /// `twotone-filter-1` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFilter1Secondary = IconifyIconData(IconData(
+    0xede2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-filter-2` — primary layer (full opacity)
+  static const IconifyIconData twotoneFilter2Primary = IconifyIconData(IconData(
     0xede3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-filter-5`
-  static const IconifyIconData twotoneFilter5 = IconifyIconData(IconData(
+  /// `twotone-filter-2` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFilter2Secondary = IconifyIconData(IconData(
+    0xede3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-filter-3` — primary layer (full opacity)
+  static const IconifyIconData twotoneFilter3Primary = IconifyIconData(IconData(
     0xede4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-filter-6`
-  static const IconifyIconData twotoneFilter6 = IconifyIconData(IconData(
+  /// `twotone-filter-3` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFilter3Secondary = IconifyIconData(IconData(
+    0xede4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-filter-4` — primary layer (full opacity)
+  static const IconifyIconData twotoneFilter4Primary = IconifyIconData(IconData(
     0xede5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-filter-7`
-  static const IconifyIconData twotoneFilter7 = IconifyIconData(IconData(
+  /// `twotone-filter-4` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFilter4Secondary = IconifyIconData(IconData(
+    0xede5,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-filter-5` — primary layer (full opacity)
+  static const IconifyIconData twotoneFilter5Primary = IconifyIconData(IconData(
     0xede6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-filter-8`
-  static const IconifyIconData twotoneFilter8 = IconifyIconData(IconData(
+  /// `twotone-filter-5` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFilter5Secondary = IconifyIconData(IconData(
+    0xede6,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-filter-6` — primary layer (full opacity)
+  static const IconifyIconData twotoneFilter6Primary = IconifyIconData(IconData(
     0xede7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-filter-9`
-  static const IconifyIconData twotoneFilter9 = IconifyIconData(IconData(
+  /// `twotone-filter-6` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFilter6Secondary = IconifyIconData(IconData(
+    0xede7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-filter-7` — primary layer (full opacity)
+  static const IconifyIconData twotoneFilter7Primary = IconifyIconData(IconData(
     0xede8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-filter-9-plus`
-  static const IconifyIconData twotoneFilter9Plus = IconifyIconData(IconData(
+  /// `twotone-filter-7` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFilter7Secondary = IconifyIconData(IconData(
+    0xede8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-filter-8` — primary layer (full opacity)
+  static const IconifyIconData twotoneFilter8Primary = IconifyIconData(IconData(
     0xede9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-filter-b-and-w`
-  static const IconifyIconData twotoneFilterBAndW = IconifyIconData(IconData(
+  /// `twotone-filter-8` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFilter8Secondary = IconifyIconData(IconData(
+    0xede9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-filter-9` — primary layer (full opacity)
+  static const IconifyIconData twotoneFilter9Primary = IconifyIconData(IconData(
     0xedea,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-filter-center-focus`
-  static const IconifyIconData twotoneFilterCenterFocus = IconifyIconData(IconData(
+  /// `twotone-filter-9` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFilter9Secondary = IconifyIconData(IconData(
+    0xedea,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-filter-9-plus` — primary layer (full opacity)
+  static const IconifyIconData twotoneFilter9PlusPrimary = IconifyIconData(IconData(
     0xedeb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-filter-drama`
-  static const IconifyIconData twotoneFilterDrama = IconifyIconData(IconData(
+  /// `twotone-filter-9-plus` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFilter9PlusSecondary = IconifyIconData(IconData(
+    0xedeb,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-filter-b-and-w` — primary layer (full opacity)
+  static const IconifyIconData twotoneFilterBAndWPrimary = IconifyIconData(IconData(
     0xedec,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-filter-frames`
-  static const IconifyIconData twotoneFilterFrames = IconifyIconData(IconData(
+  /// `twotone-filter-b-and-w` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFilterBAndWSecondary = IconifyIconData(IconData(
+    0xedec,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-filter-center-focus`
+  static const IconifyIconData twotoneFilterCenterFocus = IconifyIconData(IconData(
     0xeded,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-filter-hdr`
-  static const IconifyIconData twotoneFilterHdr = IconifyIconData(IconData(
+  /// `twotone-filter-drama` — primary layer (full opacity)
+  static const IconifyIconData twotoneFilterDramaPrimary = IconifyIconData(IconData(
     0xedee,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-filter-drama` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFilterDramaSecondary = IconifyIconData(IconData(
+    0xedee,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-filter-frames` — primary layer (full opacity)
+  static const IconifyIconData twotoneFilterFramesPrimary = IconifyIconData(IconData(
+    0xedef,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-filter-frames` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFilterFramesSecondary = IconifyIconData(IconData(
+    0xedef,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-filter-hdr` — primary layer (full opacity)
+  static const IconifyIconData twotoneFilterHdrPrimary = IconifyIconData(IconData(
+    0xedf0,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-filter-hdr` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFilterHdrSecondary = IconifyIconData(IconData(
+    0xedf0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-filter-list`
   static const IconifyIconData twotoneFilterList = IconifyIconData(IconData(
-    0xedef,
+    0xedf1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-filter-list-off`
   static const IconifyIconData twotoneFilterListOff = IconifyIconData(IconData(
-    0xedf0,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-filter-none`
-  static const IconifyIconData twotoneFilterNone = IconifyIconData(IconData(
-    0xedf1,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-filter-tilt-shift`
-  static const IconifyIconData twotoneFilterTiltShift = IconifyIconData(IconData(
     0xedf2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-filter-vintage`
-  static const IconifyIconData twotoneFilterVintage = IconifyIconData(IconData(
+  /// `twotone-filter-none` — primary layer (full opacity)
+  static const IconifyIconData twotoneFilterNonePrimary = IconifyIconData(IconData(
     0xedf3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-find-in-page`
-  static const IconifyIconData twotoneFindInPage = IconifyIconData(IconData(
+  /// `twotone-filter-none` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFilterNoneSecondary = IconifyIconData(IconData(
+    0xedf3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-filter-tilt-shift`
+  static const IconifyIconData twotoneFilterTiltShift = IconifyIconData(IconData(
     0xedf4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-filter-vintage` — primary layer (full opacity)
+  static const IconifyIconData twotoneFilterVintagePrimary = IconifyIconData(IconData(
+    0xedf5,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-filter-vintage` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFilterVintageSecondary = IconifyIconData(IconData(
+    0xedf5,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-find-in-page` — primary layer (full opacity)
+  static const IconifyIconData twotoneFindInPagePrimary = IconifyIconData(IconData(
+    0xedf6,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-find-in-page` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFindInPageSecondary = IconifyIconData(IconData(
+    0xedf6,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-find-replace`
   static const IconifyIconData twotoneFindReplace = IconifyIconData(IconData(
-    0xedf5,
+    0xedf7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-fire-extinguisher`
   static const IconifyIconData twotoneFireExtinguisher = IconifyIconData(IconData(
-    0xedf6,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-fire-hydrant-alt`
-  static const IconifyIconData twotoneFireHydrantAlt = IconifyIconData(IconData(
-    0xedf7,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-fire-truck`
-  static const IconifyIconData twotoneFireTruck = IconifyIconData(IconData(
     0xedf8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-fireplace`
-  static const IconifyIconData twotoneFireplace = IconifyIconData(IconData(
+  /// `twotone-fire-hydrant-alt` — primary layer (full opacity)
+  static const IconifyIconData twotoneFireHydrantAltPrimary = IconifyIconData(IconData(
     0xedf9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-first-page`
-  static const IconifyIconData twotoneFirstPage = IconifyIconData(IconData(
+  /// `twotone-fire-hydrant-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFireHydrantAltSecondary = IconifyIconData(IconData(
+    0xedf9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-fire-truck` — primary layer (full opacity)
+  static const IconifyIconData twotoneFireTruckPrimary = IconifyIconData(IconData(
     0xedfa,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-fit-screen`
-  static const IconifyIconData twotoneFitScreen = IconifyIconData(IconData(
+  /// `twotone-fire-truck` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFireTruckSecondary = IconifyIconData(IconData(
+    0xedfa,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-fireplace` — primary layer (full opacity)
+  static const IconifyIconData twotoneFireplacePrimary = IconifyIconData(IconData(
     0xedfb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-fireplace` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFireplaceSecondary = IconifyIconData(IconData(
+    0xedfb,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-first-page`
+  static const IconifyIconData twotoneFirstPage = IconifyIconData(IconData(
+    0xedfc,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-fit-screen` — primary layer (full opacity)
+  static const IconifyIconData twotoneFitScreenPrimary = IconifyIconData(IconData(
+    0xedfd,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-fit-screen` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFitScreenSecondary = IconifyIconData(IconData(
+    0xedfd,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-fitbit`
   static const IconifyIconData twotoneFitbit = IconifyIconData(IconData(
-    0xedfc,
+    0xedfe,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-fitness-center`
   static const IconifyIconData twotoneFitnessCenter = IconifyIconData(IconData(
-    0xedfd,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-flag`
-  static const IconifyIconData twotoneFlag = IconifyIconData(IconData(
-    0xedfe,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-flag-circle`
-  static const IconifyIconData twotoneFlagCircle = IconifyIconData(IconData(
     0xedff,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-flag` — primary layer (full opacity)
+  static const IconifyIconData twotoneFlagPrimary = IconifyIconData(IconData(
+    0xee00,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-flag` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFlagSecondary = IconifyIconData(IconData(
+    0xee00,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-flag-circle` — primary layer (full opacity)
+  static const IconifyIconData twotoneFlagCirclePrimary = IconifyIconData(IconData(
+    0xee01,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-flag-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFlagCircleSecondary = IconifyIconData(IconData(
+    0xee01,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-flaky`
   static const IconifyIconData twotoneFlaky = IconifyIconData(IconData(
-    0xee00,
+    0xee02,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-flare`
   static const IconifyIconData twotoneFlare = IconifyIconData(IconData(
-    0xee01,
+    0xee03,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-flash-auto`
   static const IconifyIconData twotoneFlashAuto = IconifyIconData(IconData(
-    0xee02,
+    0xee04,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-flash-off`
   static const IconifyIconData twotoneFlashOff = IconifyIconData(IconData(
-    0xee03,
+    0xee05,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-flash-on`
   static const IconifyIconData twotoneFlashOn = IconifyIconData(IconData(
-    0xee04,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-flashlight-off`
-  static const IconifyIconData twotoneFlashlightOff = IconifyIconData(IconData(
-    0xee05,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-flashlight-on`
-  static const IconifyIconData twotoneFlashlightOn = IconifyIconData(IconData(
     0xee06,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-flashlight-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneFlashlightOffPrimary = IconifyIconData(IconData(
+    0xee07,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-flashlight-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFlashlightOffSecondary = IconifyIconData(IconData(
+    0xee07,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-flashlight-on` — primary layer (full opacity)
+  static const IconifyIconData twotoneFlashlightOnPrimary = IconifyIconData(IconData(
+    0xee08,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-flashlight-on` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFlashlightOnSecondary = IconifyIconData(IconData(
+    0xee08,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-flatware`
   static const IconifyIconData twotoneFlatware = IconifyIconData(IconData(
-    0xee07,
+    0xee09,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-flight`
   static const IconifyIconData twotoneFlight = IconifyIconData(IconData(
-    0xee08,
+    0xee0a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-flight-class`
-  static const IconifyIconData twotoneFlightClass = IconifyIconData(IconData(
-    0xee09,
+  /// `twotone-flight-class` — primary layer (full opacity)
+  static const IconifyIconData twotoneFlightClassPrimary = IconifyIconData(IconData(
+    0xee0b,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-flight-class` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFlightClassSecondary = IconifyIconData(IconData(
+    0xee0b,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-flight-land`
   static const IconifyIconData twotoneFlightLand = IconifyIconData(IconData(
-    0xee0a,
+    0xee0c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-flight-takeoff`
   static const IconifyIconData twotoneFlightTakeoff = IconifyIconData(IconData(
-    0xee0b,
+    0xee0d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-flip`
   static const IconifyIconData twotoneFlip = IconifyIconData(IconData(
-    0xee0c,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-flip-camera-android`
-  static const IconifyIconData twotoneFlipCameraAndroid = IconifyIconData(IconData(
-    0xee0d,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-flip-camera-ios`
-  static const IconifyIconData twotoneFlipCameraIos = IconifyIconData(IconData(
     0xee0e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-flip-camera-android` — primary layer (full opacity)
+  static const IconifyIconData twotoneFlipCameraAndroidPrimary = IconifyIconData(IconData(
+    0xee0f,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-flip-camera-android` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFlipCameraAndroidSecondary = IconifyIconData(IconData(
+    0xee0f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-flip-camera-ios` — primary layer (full opacity)
+  static const IconifyIconData twotoneFlipCameraIosPrimary = IconifyIconData(IconData(
+    0xee10,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-flip-camera-ios` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFlipCameraIosSecondary = IconifyIconData(IconData(
+    0xee10,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-flip-to-back`
   static const IconifyIconData twotoneFlipToBack = IconifyIconData(IconData(
-    0xee0f,
+    0xee11,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-flip-to-front`
   static const IconifyIconData twotoneFlipToFront = IconifyIconData(IconData(
-    0xee10,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-flood`
-  static const IconifyIconData twotoneFlood = IconifyIconData(IconData(
-    0xee11,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-flourescent`
-  static const IconifyIconData twotoneFlourescent = IconifyIconData(IconData(
     0xee12,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-fluorescent`
-  static const IconifyIconData twotoneFluorescent = IconifyIconData(IconData(
+  /// `twotone-flood` — primary layer (full opacity)
+  static const IconifyIconData twotoneFloodPrimary = IconifyIconData(IconData(
     0xee13,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-flutter-dash`
-  static const IconifyIconData twotoneFlutterDash = IconifyIconData(IconData(
+  /// `twotone-flood` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFloodSecondary = IconifyIconData(IconData(
+    0xee13,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-flourescent` — primary layer (full opacity)
+  static const IconifyIconData twotoneFlourescentPrimary = IconifyIconData(IconData(
     0xee14,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-fmd-bad`
-  static const IconifyIconData twotoneFmdBad = IconifyIconData(IconData(
+  /// `twotone-flourescent` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFlourescentSecondary = IconifyIconData(IconData(
+    0xee14,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-fluorescent` — primary layer (full opacity)
+  static const IconifyIconData twotoneFluorescentPrimary = IconifyIconData(IconData(
     0xee15,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-fmd-good`
-  static const IconifyIconData twotoneFmdGood = IconifyIconData(IconData(
+  /// `twotone-fluorescent` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFluorescentSecondary = IconifyIconData(IconData(
+    0xee15,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-flutter-dash` — primary layer (full opacity)
+  static const IconifyIconData twotoneFlutterDashPrimary = IconifyIconData(IconData(
     0xee16,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-folder`
-  static const IconifyIconData twotoneFolder = IconifyIconData(IconData(
+  /// `twotone-flutter-dash` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFlutterDashSecondary = IconifyIconData(IconData(
+    0xee16,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-fmd-bad` — primary layer (full opacity)
+  static const IconifyIconData twotoneFmdBadPrimary = IconifyIconData(IconData(
     0xee17,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-folder-copy`
-  static const IconifyIconData twotoneFolderCopy = IconifyIconData(IconData(
+  /// `twotone-fmd-bad` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFmdBadSecondary = IconifyIconData(IconData(
+    0xee17,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-fmd-good` — primary layer (full opacity)
+  static const IconifyIconData twotoneFmdGoodPrimary = IconifyIconData(IconData(
     0xee18,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-folder-delete`
-  static const IconifyIconData twotoneFolderDelete = IconifyIconData(IconData(
+  /// `twotone-fmd-good` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFmdGoodSecondary = IconifyIconData(IconData(
+    0xee18,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-folder` — primary layer (full opacity)
+  static const IconifyIconData twotoneFolderPrimary = IconifyIconData(IconData(
     0xee19,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-folder-off`
-  static const IconifyIconData twotoneFolderOff = IconifyIconData(IconData(
+  /// `twotone-folder` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFolderSecondary = IconifyIconData(IconData(
+    0xee19,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-folder-copy` — primary layer (full opacity)
+  static const IconifyIconData twotoneFolderCopyPrimary = IconifyIconData(IconData(
     0xee1a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-folder-open`
-  static const IconifyIconData twotoneFolderOpen = IconifyIconData(IconData(
+  /// `twotone-folder-copy` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFolderCopySecondary = IconifyIconData(IconData(
+    0xee1a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-folder-delete` — primary layer (full opacity)
+  static const IconifyIconData twotoneFolderDeletePrimary = IconifyIconData(IconData(
     0xee1b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-folder-shared`
-  static const IconifyIconData twotoneFolderShared = IconifyIconData(IconData(
+  /// `twotone-folder-delete` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFolderDeleteSecondary = IconifyIconData(IconData(
+    0xee1b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-folder-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneFolderOffPrimary = IconifyIconData(IconData(
     0xee1c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-folder-special`
-  static const IconifyIconData twotoneFolderSpecial = IconifyIconData(IconData(
+  /// `twotone-folder-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFolderOffSecondary = IconifyIconData(IconData(
+    0xee1c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-folder-open` — primary layer (full opacity)
+  static const IconifyIconData twotoneFolderOpenPrimary = IconifyIconData(IconData(
     0xee1d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-folder-zip`
-  static const IconifyIconData twotoneFolderZip = IconifyIconData(IconData(
+  /// `twotone-folder-open` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFolderOpenSecondary = IconifyIconData(IconData(
+    0xee1d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-folder-shared` — primary layer (full opacity)
+  static const IconifyIconData twotoneFolderSharedPrimary = IconifyIconData(IconData(
     0xee1e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-font-download`
-  static const IconifyIconData twotoneFontDownload = IconifyIconData(IconData(
+  /// `twotone-folder-shared` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFolderSharedSecondary = IconifyIconData(IconData(
+    0xee1e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-folder-special` — primary layer (full opacity)
+  static const IconifyIconData twotoneFolderSpecialPrimary = IconifyIconData(IconData(
     0xee1f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-font-download-off`
-  static const IconifyIconData twotoneFontDownloadOff = IconifyIconData(IconData(
+  /// `twotone-folder-special` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFolderSpecialSecondary = IconifyIconData(IconData(
+    0xee1f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-folder-zip` — primary layer (full opacity)
+  static const IconifyIconData twotoneFolderZipPrimary = IconifyIconData(IconData(
     0xee20,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-food-bank`
-  static const IconifyIconData twotoneFoodBank = IconifyIconData(IconData(
+  /// `twotone-folder-zip` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFolderZipSecondary = IconifyIconData(IconData(
+    0xee20,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-font-download` — primary layer (full opacity)
+  static const IconifyIconData twotoneFontDownloadPrimary = IconifyIconData(IconData(
     0xee21,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-forest`
-  static const IconifyIconData twotoneForest = IconifyIconData(IconData(
+  /// `twotone-font-download` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFontDownloadSecondary = IconifyIconData(IconData(
+    0xee21,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-font-download-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneFontDownloadOffPrimary = IconifyIconData(IconData(
     0xee22,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-font-download-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFontDownloadOffSecondary = IconifyIconData(IconData(
+    0xee22,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-food-bank` — primary layer (full opacity)
+  static const IconifyIconData twotoneFoodBankPrimary = IconifyIconData(IconData(
+    0xee23,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-food-bank` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFoodBankSecondary = IconifyIconData(IconData(
+    0xee23,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-forest` — primary layer (full opacity)
+  static const IconifyIconData twotoneForestPrimary = IconifyIconData(IconData(
+    0xee24,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-forest` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneForestSecondary = IconifyIconData(IconData(
+    0xee24,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-fork-left`
   static const IconifyIconData twotoneForkLeft = IconifyIconData(IconData(
-    0xee23,
+    0xee25,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-fork-right`
   static const IconifyIconData twotoneForkRight = IconifyIconData(IconData(
-    0xee24,
+    0xee26,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-format-align-center`
   static const IconifyIconData twotoneFormatAlignCenter = IconifyIconData(IconData(
-    0xee25,
+    0xee27,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-format-align-justify`
   static const IconifyIconData twotoneFormatAlignJustify = IconifyIconData(IconData(
-    0xee26,
+    0xee28,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-format-align-left`
   static const IconifyIconData twotoneFormatAlignLeft = IconifyIconData(IconData(
-    0xee27,
+    0xee29,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-format-align-right`
   static const IconifyIconData twotoneFormatAlignRight = IconifyIconData(IconData(
-    0xee28,
+    0xee2a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-format-bold`
   static const IconifyIconData twotoneFormatBold = IconifyIconData(IconData(
-    0xee29,
+    0xee2b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-format-clear`
   static const IconifyIconData twotoneFormatClear = IconifyIconData(IconData(
-    0xee2a,
+    0xee2c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-format-color-fill`
   static const IconifyIconData twotoneFormatColorFill = IconifyIconData(IconData(
-    0xee2b,
+    0xee2d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-format-color-reset`
-  static const IconifyIconData twotoneFormatColorReset = IconifyIconData(IconData(
-    0xee2c,
+  /// `twotone-format-color-reset` — primary layer (full opacity)
+  static const IconifyIconData twotoneFormatColorResetPrimary = IconifyIconData(IconData(
+    0xee2e,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-format-color-reset` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFormatColorResetSecondary = IconifyIconData(IconData(
+    0xee2e,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-format-color-text`
   static const IconifyIconData twotoneFormatColorText = IconifyIconData(IconData(
-    0xee2d,
+    0xee2f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-format-indent-decrease`
   static const IconifyIconData twotoneFormatIndentDecrease = IconifyIconData(IconData(
-    0xee2e,
+    0xee30,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-format-indent-increase`
   static const IconifyIconData twotoneFormatIndentIncrease = IconifyIconData(IconData(
-    0xee2f,
+    0xee31,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-format-italic`
   static const IconifyIconData twotoneFormatItalic = IconifyIconData(IconData(
-    0xee30,
+    0xee32,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-format-line-spacing`
   static const IconifyIconData twotoneFormatLineSpacing = IconifyIconData(IconData(
-    0xee31,
+    0xee33,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-format-list-bulleted`
   static const IconifyIconData twotoneFormatListBulleted = IconifyIconData(IconData(
-    0xee32,
+    0xee34,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-format-list-numbered`
   static const IconifyIconData twotoneFormatListNumbered = IconifyIconData(IconData(
-    0xee33,
+    0xee35,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-format-list-numbered-rtl`
   static const IconifyIconData twotoneFormatListNumberedRtl = IconifyIconData(IconData(
-    0xee34,
+    0xee36,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-format-overline`
   static const IconifyIconData twotoneFormatOverline = IconifyIconData(IconData(
-    0xee35,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-format-paint`
-  static const IconifyIconData twotoneFormatPaint = IconifyIconData(IconData(
-    0xee36,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-format-quote`
-  static const IconifyIconData twotoneFormatQuote = IconifyIconData(IconData(
     0xee37,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-format-shapes`
-  static const IconifyIconData twotoneFormatShapes = IconifyIconData(IconData(
+  /// `twotone-format-paint` — primary layer (full opacity)
+  static const IconifyIconData twotoneFormatPaintPrimary = IconifyIconData(IconData(
     0xee38,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-format-paint` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFormatPaintSecondary = IconifyIconData(IconData(
+    0xee38,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-format-quote` — primary layer (full opacity)
+  static const IconifyIconData twotoneFormatQuotePrimary = IconifyIconData(IconData(
+    0xee39,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-format-quote` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFormatQuoteSecondary = IconifyIconData(IconData(
+    0xee39,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-format-shapes` — primary layer (full opacity)
+  static const IconifyIconData twotoneFormatShapesPrimary = IconifyIconData(IconData(
+    0xee3a,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-format-shapes` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFormatShapesSecondary = IconifyIconData(IconData(
+    0xee3a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-format-size`
   static const IconifyIconData twotoneFormatSize = IconifyIconData(IconData(
-    0xee39,
+    0xee3b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-format-strikethrough`
   static const IconifyIconData twotoneFormatStrikethrough = IconifyIconData(IconData(
-    0xee3a,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-format-textdirection-l-to-r`
-  static const IconifyIconData twotoneFormatTextdirectionLToR = IconifyIconData(IconData(
-    0xee3b,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-format-textdirection-r-to-l`
-  static const IconifyIconData twotoneFormatTextdirectionRToL = IconifyIconData(IconData(
     0xee3c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-format-underlined`
-  static const IconifyIconData twotoneFormatUnderlined = IconifyIconData(IconData(
+  /// `twotone-format-textdirection-l-to-r` — primary layer (full opacity)
+  static const IconifyIconData twotoneFormatTextdirectionLToRPrimary = IconifyIconData(IconData(
     0xee3d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-fort`
-  static const IconifyIconData twotoneFort = IconifyIconData(IconData(
+  /// `twotone-format-textdirection-l-to-r` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFormatTextdirectionLToRSecondary = IconifyIconData(IconData(
+    0xee3d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-format-textdirection-r-to-l` — primary layer (full opacity)
+  static const IconifyIconData twotoneFormatTextdirectionRToLPrimary = IconifyIconData(IconData(
     0xee3e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-forum`
-  static const IconifyIconData twotoneForum = IconifyIconData(IconData(
+  /// `twotone-format-textdirection-r-to-l` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFormatTextdirectionRToLSecondary = IconifyIconData(IconData(
+    0xee3e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-format-underlined`
+  static const IconifyIconData twotoneFormatUnderlined = IconifyIconData(IconData(
     0xee3f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-forward`
-  static const IconifyIconData twotoneForward = IconifyIconData(IconData(
+  /// `twotone-fort` — primary layer (full opacity)
+  static const IconifyIconData twotoneFortPrimary = IconifyIconData(IconData(
     0xee40,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-fort` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFortSecondary = IconifyIconData(IconData(
+    0xee40,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-forum` — primary layer (full opacity)
+  static const IconifyIconData twotoneForumPrimary = IconifyIconData(IconData(
+    0xee41,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-forum` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneForumSecondary = IconifyIconData(IconData(
+    0xee41,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-forward` — primary layer (full opacity)
+  static const IconifyIconData twotoneForwardPrimary = IconifyIconData(IconData(
+    0xee42,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-forward` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneForwardSecondary = IconifyIconData(IconData(
+    0xee42,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-forward-10`
   static const IconifyIconData twotoneForward10 = IconifyIconData(IconData(
-    0xee41,
+    0xee43,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-forward-30`
   static const IconifyIconData twotoneForward30 = IconifyIconData(IconData(
-    0xee42,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-forward-to-inbox`
-  static const IconifyIconData twotoneForwardToInbox = IconifyIconData(IconData(
-    0xee43,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-foundation`
-  static const IconifyIconData twotoneFoundation = IconifyIconData(IconData(
     0xee44,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-free-breakfast`
-  static const IconifyIconData twotoneFreeBreakfast = IconifyIconData(IconData(
+  /// `twotone-forward-to-inbox` — primary layer (full opacity)
+  static const IconifyIconData twotoneForwardToInboxPrimary = IconifyIconData(IconData(
     0xee45,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-free-cancellation`
-  static const IconifyIconData twotoneFreeCancellation = IconifyIconData(IconData(
+  /// `twotone-forward-to-inbox` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneForwardToInboxSecondary = IconifyIconData(IconData(
+    0xee45,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-foundation` — primary layer (full opacity)
+  static const IconifyIconData twotoneFoundationPrimary = IconifyIconData(IconData(
     0xee46,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-front-hand`
-  static const IconifyIconData twotoneFrontHand = IconifyIconData(IconData(
+  /// `twotone-foundation` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFoundationSecondary = IconifyIconData(IconData(
+    0xee46,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-free-breakfast` — primary layer (full opacity)
+  static const IconifyIconData twotoneFreeBreakfastPrimary = IconifyIconData(IconData(
     0xee47,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-free-breakfast` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFreeBreakfastSecondary = IconifyIconData(IconData(
+    0xee47,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-free-cancellation` — primary layer (full opacity)
+  static const IconifyIconData twotoneFreeCancellationPrimary = IconifyIconData(IconData(
+    0xee48,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-free-cancellation` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFreeCancellationSecondary = IconifyIconData(IconData(
+    0xee48,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-front-hand` — primary layer (full opacity)
+  static const IconifyIconData twotoneFrontHandPrimary = IconifyIconData(IconData(
+    0xee49,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-front-hand` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneFrontHandSecondary = IconifyIconData(IconData(
+    0xee49,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-fullscreen`
   static const IconifyIconData twotoneFullscreen = IconifyIconData(IconData(
-    0xee48,
+    0xee4a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-fullscreen-exit`
   static const IconifyIconData twotoneFullscreenExit = IconifyIconData(IconData(
-    0xee49,
+    0xee4b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-functions`
   static const IconifyIconData twotoneFunctions = IconifyIconData(IconData(
-    0xee4a,
+    0xee4c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-g-mobiledata`
   static const IconifyIconData twotoneGMobiledata = IconifyIconData(IconData(
-    0xee4b,
+    0xee4d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-g-translate`
   static const IconifyIconData twotoneGTranslate = IconifyIconData(IconData(
-    0xee4c,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-gamepad`
-  static const IconifyIconData twotoneGamepad = IconifyIconData(IconData(
-    0xee4d,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-games`
-  static const IconifyIconData twotoneGames = IconifyIconData(IconData(
     0xee4e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-garage`
-  static const IconifyIconData twotoneGarage = IconifyIconData(IconData(
+  /// `twotone-gamepad` — primary layer (full opacity)
+  static const IconifyIconData twotoneGamepadPrimary = IconifyIconData(IconData(
     0xee4f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-gas-meter`
-  static const IconifyIconData twotoneGasMeter = IconifyIconData(IconData(
+  /// `twotone-gamepad` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneGamepadSecondary = IconifyIconData(IconData(
+    0xee4f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-games` — primary layer (full opacity)
+  static const IconifyIconData twotoneGamesPrimary = IconifyIconData(IconData(
     0xee50,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-gavel`
-  static const IconifyIconData twotoneGavel = IconifyIconData(IconData(
+  /// `twotone-games` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneGamesSecondary = IconifyIconData(IconData(
+    0xee50,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-garage` — primary layer (full opacity)
+  static const IconifyIconData twotoneGaragePrimary = IconifyIconData(IconData(
     0xee51,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-generating-tokens`
-  static const IconifyIconData twotoneGeneratingTokens = IconifyIconData(IconData(
+  /// `twotone-garage` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneGarageSecondary = IconifyIconData(IconData(
+    0xee51,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-gas-meter` — primary layer (full opacity)
+  static const IconifyIconData twotoneGasMeterPrimary = IconifyIconData(IconData(
     0xee52,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-gesture`
-  static const IconifyIconData twotoneGesture = IconifyIconData(IconData(
+  /// `twotone-gas-meter` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneGasMeterSecondary = IconifyIconData(IconData(
+    0xee52,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-gavel`
+  static const IconifyIconData twotoneGavel = IconifyIconData(IconData(
     0xee53,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-get-app`
-  static const IconifyIconData twotoneGetApp = IconifyIconData(IconData(
+  /// `twotone-generating-tokens` — primary layer (full opacity)
+  static const IconifyIconData twotoneGeneratingTokensPrimary = IconifyIconData(IconData(
     0xee54,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-gif`
-  static const IconifyIconData twotoneGif = IconifyIconData(IconData(
+  /// `twotone-generating-tokens` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneGeneratingTokensSecondary = IconifyIconData(IconData(
+    0xee54,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-gesture`
+  static const IconifyIconData twotoneGesture = IconifyIconData(IconData(
     0xee55,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-gif-box`
-  static const IconifyIconData twotoneGifBox = IconifyIconData(IconData(
+  /// `twotone-get-app` — primary layer (full opacity)
+  static const IconifyIconData twotoneGetAppPrimary = IconifyIconData(IconData(
     0xee56,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-girl`
-  static const IconifyIconData twotoneGirl = IconifyIconData(IconData(
+  /// `twotone-get-app` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneGetAppSecondary = IconifyIconData(IconData(
+    0xee56,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-gif`
+  static const IconifyIconData twotoneGif = IconifyIconData(IconData(
     0xee57,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-gite`
-  static const IconifyIconData twotoneGite = IconifyIconData(IconData(
+  /// `twotone-gif-box` — primary layer (full opacity)
+  static const IconifyIconData twotoneGifBoxPrimary = IconifyIconData(IconData(
     0xee58,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-golf-course`
-  static const IconifyIconData twotoneGolfCourse = IconifyIconData(IconData(
+  /// `twotone-gif-box` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneGifBoxSecondary = IconifyIconData(IconData(
+    0xee58,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-girl`
+  static const IconifyIconData twotoneGirl = IconifyIconData(IconData(
     0xee59,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-gpp-bad`
-  static const IconifyIconData twotoneGppBad = IconifyIconData(IconData(
+  /// `twotone-gite` — primary layer (full opacity)
+  static const IconifyIconData twotoneGitePrimary = IconifyIconData(IconData(
     0xee5a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-gpp-good`
-  static const IconifyIconData twotoneGppGood = IconifyIconData(IconData(
+  /// `twotone-gite` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneGiteSecondary = IconifyIconData(IconData(
+    0xee5a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-golf-course`
+  static const IconifyIconData twotoneGolfCourse = IconifyIconData(IconData(
     0xee5b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-gpp-maybe`
-  static const IconifyIconData twotoneGppMaybe = IconifyIconData(IconData(
+  /// `twotone-gpp-bad` — primary layer (full opacity)
+  static const IconifyIconData twotoneGppBadPrimary = IconifyIconData(IconData(
     0xee5c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-gps-fixed`
-  static const IconifyIconData twotoneGpsFixed = IconifyIconData(IconData(
+  /// `twotone-gpp-bad` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneGppBadSecondary = IconifyIconData(IconData(
+    0xee5c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-gpp-good` — primary layer (full opacity)
+  static const IconifyIconData twotoneGppGoodPrimary = IconifyIconData(IconData(
     0xee5d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-gpp-good` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneGppGoodSecondary = IconifyIconData(IconData(
+    0xee5d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-gpp-maybe` — primary layer (full opacity)
+  static const IconifyIconData twotoneGppMaybePrimary = IconifyIconData(IconData(
+    0xee5e,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-gpp-maybe` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneGppMaybeSecondary = IconifyIconData(IconData(
+    0xee5e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-gps-fixed` — primary layer (full opacity)
+  static const IconifyIconData twotoneGpsFixedPrimary = IconifyIconData(IconData(
+    0xee5f,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-gps-fixed` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneGpsFixedSecondary = IconifyIconData(IconData(
+    0xee5f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-gps-not-fixed`
   static const IconifyIconData twotoneGpsNotFixed = IconifyIconData(IconData(
-    0xee5e,
+    0xee60,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-gps-off`
   static const IconifyIconData twotoneGpsOff = IconifyIconData(IconData(
-    0xee5f,
+    0xee61,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-grade`
-  static const IconifyIconData twotoneGrade = IconifyIconData(IconData(
-    0xee60,
+  /// `twotone-grade` — primary layer (full opacity)
+  static const IconifyIconData twotoneGradePrimary = IconifyIconData(IconData(
+    0xee62,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-grade` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneGradeSecondary = IconifyIconData(IconData(
+    0xee62,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-gradient`
   static const IconifyIconData twotoneGradient = IconifyIconData(IconData(
-    0xee61,
+    0xee63,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-grading`
   static const IconifyIconData twotoneGrading = IconifyIconData(IconData(
-    0xee62,
+    0xee64,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-grain`
   static const IconifyIconData twotoneGrain = IconifyIconData(IconData(
-    0xee63,
+    0xee65,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-graphic-eq`
   static const IconifyIconData twotoneGraphicEq = IconifyIconData(IconData(
-    0xee64,
+    0xee66,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-grass`
   static const IconifyIconData twotoneGrass = IconifyIconData(IconData(
-    0xee65,
+    0xee67,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-greater-than`
   static const IconifyIconData twotoneGreaterThan = IconifyIconData(IconData(
-    0xee66,
+    0xee68,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-greater-than-equal`
   static const IconifyIconData twotoneGreaterThanEqual = IconifyIconData(IconData(
-    0xee67,
+    0xee69,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-grid-3x3`
   static const IconifyIconData twotoneGrid3x3 = IconifyIconData(IconData(
-    0xee68,
+    0xee6a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-grid-4x4`
   static const IconifyIconData twotoneGrid4x4 = IconifyIconData(IconData(
-    0xee69,
+    0xee6b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-grid-goldenratio`
   static const IconifyIconData twotoneGridGoldenratio = IconifyIconData(IconData(
-    0xee6a,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-grid-off`
-  static const IconifyIconData twotoneGridOff = IconifyIconData(IconData(
-    0xee6b,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-grid-on`
-  static const IconifyIconData twotoneGridOn = IconifyIconData(IconData(
     0xee6c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-grid-view`
-  static const IconifyIconData twotoneGridView = IconifyIconData(IconData(
+  /// `twotone-grid-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneGridOffPrimary = IconifyIconData(IconData(
     0xee6d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-group`
-  static const IconifyIconData twotoneGroup = IconifyIconData(IconData(
+  /// `twotone-grid-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneGridOffSecondary = IconifyIconData(IconData(
+    0xee6d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-grid-on` — primary layer (full opacity)
+  static const IconifyIconData twotoneGridOnPrimary = IconifyIconData(IconData(
     0xee6e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-group-add`
-  static const IconifyIconData twotoneGroupAdd = IconifyIconData(IconData(
+  /// `twotone-grid-on` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneGridOnSecondary = IconifyIconData(IconData(
+    0xee6e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-grid-view` — primary layer (full opacity)
+  static const IconifyIconData twotoneGridViewPrimary = IconifyIconData(IconData(
     0xee6f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-group-off`
-  static const IconifyIconData twotoneGroupOff = IconifyIconData(IconData(
+  /// `twotone-grid-view` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneGridViewSecondary = IconifyIconData(IconData(
+    0xee6f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-group` — primary layer (full opacity)
+  static const IconifyIconData twotoneGroupPrimary = IconifyIconData(IconData(
     0xee70,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-group-remove`
-  static const IconifyIconData twotoneGroupRemove = IconifyIconData(IconData(
+  /// `twotone-group` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneGroupSecondary = IconifyIconData(IconData(
+    0xee70,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-group-add` — primary layer (full opacity)
+  static const IconifyIconData twotoneGroupAddPrimary = IconifyIconData(IconData(
     0xee71,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-group-work`
-  static const IconifyIconData twotoneGroupWork = IconifyIconData(IconData(
+  /// `twotone-group-add` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneGroupAddSecondary = IconifyIconData(IconData(
+    0xee71,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-group-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneGroupOffPrimary = IconifyIconData(IconData(
     0xee72,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-groups`
-  static const IconifyIconData twotoneGroups = IconifyIconData(IconData(
+  /// `twotone-group-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneGroupOffSecondary = IconifyIconData(IconData(
+    0xee72,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-group-remove` — primary layer (full opacity)
+  static const IconifyIconData twotoneGroupRemovePrimary = IconifyIconData(IconData(
     0xee73,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-groups-2`
-  static const IconifyIconData twotoneGroups2 = IconifyIconData(IconData(
+  /// `twotone-group-remove` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneGroupRemoveSecondary = IconifyIconData(IconData(
+    0xee73,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-group-work` — primary layer (full opacity)
+  static const IconifyIconData twotoneGroupWorkPrimary = IconifyIconData(IconData(
     0xee74,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-groups-3`
-  static const IconifyIconData twotoneGroups3 = IconifyIconData(IconData(
+  /// `twotone-group-work` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneGroupWorkSecondary = IconifyIconData(IconData(
+    0xee74,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-groups` — primary layer (full opacity)
+  static const IconifyIconData twotoneGroupsPrimary = IconifyIconData(IconData(
     0xee75,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-groups` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneGroupsSecondary = IconifyIconData(IconData(
+    0xee75,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-groups-2` — primary layer (full opacity)
+  static const IconifyIconData twotoneGroups2Primary = IconifyIconData(IconData(
+    0xee76,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-groups-2` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneGroups2Secondary = IconifyIconData(IconData(
+    0xee76,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-groups-3` — primary layer (full opacity)
+  static const IconifyIconData twotoneGroups3Primary = IconifyIconData(IconData(
+    0xee77,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-groups-3` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneGroups3Secondary = IconifyIconData(IconData(
+    0xee77,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-h-mobiledata`
   static const IconifyIconData twotoneHMobiledata = IconifyIconData(IconData(
-    0xee76,
+    0xee78,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-h-plus-mobiledata`
   static const IconifyIconData twotoneHPlusMobiledata = IconifyIconData(IconData(
-    0xee77,
+    0xee79,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-hail`
   static const IconifyIconData twotoneHail = IconifyIconData(IconData(
-    0xee78,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-hardware`
-  static const IconifyIconData twotoneHardware = IconifyIconData(IconData(
-    0xee79,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-hd`
-  static const IconifyIconData twotoneHd = IconifyIconData(IconData(
     0xee7a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-hdr-auto`
-  static const IconifyIconData twotoneHdrAuto = IconifyIconData(IconData(
+  /// `twotone-hardware` — primary layer (full opacity)
+  static const IconifyIconData twotoneHardwarePrimary = IconifyIconData(IconData(
     0xee7b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-hdr-auto-select`
-  static const IconifyIconData twotoneHdrAutoSelect = IconifyIconData(IconData(
+  /// `twotone-hardware` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHardwareSecondary = IconifyIconData(IconData(
+    0xee7b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-hd` — primary layer (full opacity)
+  static const IconifyIconData twotoneHdPrimary = IconifyIconData(IconData(
     0xee7c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-hdr-enhanced-select`
-  static const IconifyIconData twotoneHdrEnhancedSelect = IconifyIconData(IconData(
+  /// `twotone-hd` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHdSecondary = IconifyIconData(IconData(
+    0xee7c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-hdr-auto` — primary layer (full opacity)
+  static const IconifyIconData twotoneHdrAutoPrimary = IconifyIconData(IconData(
     0xee7d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-hdr-auto` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHdrAutoSecondary = IconifyIconData(IconData(
+    0xee7d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-hdr-auto-select`
+  static const IconifyIconData twotoneHdrAutoSelect = IconifyIconData(IconData(
+    0xee7e,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-hdr-enhanced-select` — primary layer (full opacity)
+  static const IconifyIconData twotoneHdrEnhancedSelectPrimary = IconifyIconData(IconData(
+    0xee7f,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-hdr-enhanced-select` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHdrEnhancedSelectSecondary = IconifyIconData(IconData(
+    0xee7f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-hdr-off`
   static const IconifyIconData twotoneHdrOff = IconifyIconData(IconData(
-    0xee7e,
+    0xee80,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-hdr-off-select`
   static const IconifyIconData twotoneHdrOffSelect = IconifyIconData(IconData(
-    0xee7f,
+    0xee81,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-hdr-on`
   static const IconifyIconData twotoneHdrOn = IconifyIconData(IconData(
-    0xee80,
+    0xee82,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-hdr-on-select`
   static const IconifyIconData twotoneHdrOnSelect = IconifyIconData(IconData(
-    0xee81,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-hdr-plus`
-  static const IconifyIconData twotoneHdrPlus = IconifyIconData(IconData(
-    0xee82,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-hdr-strong`
-  static const IconifyIconData twotoneHdrStrong = IconifyIconData(IconData(
     0xee83,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-hdr-weak`
-  static const IconifyIconData twotoneHdrWeak = IconifyIconData(IconData(
+  /// `twotone-hdr-plus` — primary layer (full opacity)
+  static const IconifyIconData twotoneHdrPlusPrimary = IconifyIconData(IconData(
     0xee84,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-headphones`
-  static const IconifyIconData twotoneHeadphones = IconifyIconData(IconData(
+  /// `twotone-hdr-plus` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHdrPlusSecondary = IconifyIconData(IconData(
+    0xee84,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-hdr-strong` — primary layer (full opacity)
+  static const IconifyIconData twotoneHdrStrongPrimary = IconifyIconData(IconData(
     0xee85,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-headphones-battery`
-  static const IconifyIconData twotoneHeadphonesBattery = IconifyIconData(IconData(
+  /// `twotone-hdr-strong` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHdrStrongSecondary = IconifyIconData(IconData(
+    0xee85,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-hdr-weak` — primary layer (full opacity)
+  static const IconifyIconData twotoneHdrWeakPrimary = IconifyIconData(IconData(
     0xee86,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-headset`
-  static const IconifyIconData twotoneHeadset = IconifyIconData(IconData(
+  /// `twotone-hdr-weak` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHdrWeakSecondary = IconifyIconData(IconData(
+    0xee86,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-headphones` — primary layer (full opacity)
+  static const IconifyIconData twotoneHeadphonesPrimary = IconifyIconData(IconData(
     0xee87,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-headset-mic`
-  static const IconifyIconData twotoneHeadsetMic = IconifyIconData(IconData(
+  /// `twotone-headphones` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHeadphonesSecondary = IconifyIconData(IconData(
+    0xee87,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-headphones-battery` — primary layer (full opacity)
+  static const IconifyIconData twotoneHeadphonesBatteryPrimary = IconifyIconData(IconData(
     0xee88,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-headset-off`
-  static const IconifyIconData twotoneHeadsetOff = IconifyIconData(IconData(
+  /// `twotone-headphones-battery` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHeadphonesBatterySecondary = IconifyIconData(IconData(
+    0xee88,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-headset` — primary layer (full opacity)
+  static const IconifyIconData twotoneHeadsetPrimary = IconifyIconData(IconData(
     0xee89,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-health-and-safety`
-  static const IconifyIconData twotoneHealthAndSafety = IconifyIconData(IconData(
+  /// `twotone-headset` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHeadsetSecondary = IconifyIconData(IconData(
+    0xee89,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-headset-mic` — primary layer (full opacity)
+  static const IconifyIconData twotoneHeadsetMicPrimary = IconifyIconData(IconData(
     0xee8a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-headset-mic` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHeadsetMicSecondary = IconifyIconData(IconData(
+    0xee8a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-headset-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneHeadsetOffPrimary = IconifyIconData(IconData(
+    0xee8b,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-headset-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHeadsetOffSecondary = IconifyIconData(IconData(
+    0xee8b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-health-and-safety` — primary layer (full opacity)
+  static const IconifyIconData twotoneHealthAndSafetyPrimary = IconifyIconData(IconData(
+    0xee8c,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-health-and-safety` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHealthAndSafetySecondary = IconifyIconData(IconData(
+    0xee8c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-hearing`
   static const IconifyIconData twotoneHearing = IconifyIconData(IconData(
-    0xee8b,
+    0xee8d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-hearing-disabled`
   static const IconifyIconData twotoneHearingDisabled = IconifyIconData(IconData(
-    0xee8c,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-heart-broken`
-  static const IconifyIconData twotoneHeartBroken = IconifyIconData(IconData(
-    0xee8d,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-heat-pump`
-  static const IconifyIconData twotoneHeatPump = IconifyIconData(IconData(
     0xee8e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-height`
-  static const IconifyIconData twotoneHeight = IconifyIconData(IconData(
+  /// `twotone-heart-broken` — primary layer (full opacity)
+  static const IconifyIconData twotoneHeartBrokenPrimary = IconifyIconData(IconData(
     0xee8f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-help`
-  static const IconifyIconData twotoneHelp = IconifyIconData(IconData(
+  /// `twotone-heart-broken` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHeartBrokenSecondary = IconifyIconData(IconData(
+    0xee8f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-heat-pump` — primary layer (full opacity)
+  static const IconifyIconData twotoneHeatPumpPrimary = IconifyIconData(IconData(
     0xee90,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-help-center`
-  static const IconifyIconData twotoneHelpCenter = IconifyIconData(IconData(
+  /// `twotone-heat-pump` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHeatPumpSecondary = IconifyIconData(IconData(
+    0xee90,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-height`
+  static const IconifyIconData twotoneHeight = IconifyIconData(IconData(
     0xee91,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-help` — primary layer (full opacity)
+  static const IconifyIconData twotoneHelpPrimary = IconifyIconData(IconData(
+    0xee92,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-help` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHelpSecondary = IconifyIconData(IconData(
+    0xee92,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-help-center` — primary layer (full opacity)
+  static const IconifyIconData twotoneHelpCenterPrimary = IconifyIconData(IconData(
+    0xee93,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-help-center` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHelpCenterSecondary = IconifyIconData(IconData(
+    0xee93,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-help-outline`
   static const IconifyIconData twotoneHelpOutline = IconifyIconData(IconData(
-    0xee92,
+    0xee94,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-hevc`
   static const IconifyIconData twotoneHevc = IconifyIconData(IconData(
-    0xee93,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-hexagon`
-  static const IconifyIconData twotoneHexagon = IconifyIconData(IconData(
-    0xee94,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-hide-image`
-  static const IconifyIconData twotoneHideImage = IconifyIconData(IconData(
     0xee95,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-hide-source`
-  static const IconifyIconData twotoneHideSource = IconifyIconData(IconData(
+  /// `twotone-hexagon` — primary layer (full opacity)
+  static const IconifyIconData twotoneHexagonPrimary = IconifyIconData(IconData(
     0xee96,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-high-quality`
-  static const IconifyIconData twotoneHighQuality = IconifyIconData(IconData(
+  /// `twotone-hexagon` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHexagonSecondary = IconifyIconData(IconData(
+    0xee96,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-hide-image` — primary layer (full opacity)
+  static const IconifyIconData twotoneHideImagePrimary = IconifyIconData(IconData(
     0xee97,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-highlight`
-  static const IconifyIconData twotoneHighlight = IconifyIconData(IconData(
+  /// `twotone-hide-image` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHideImageSecondary = IconifyIconData(IconData(
+    0xee97,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-hide-source`
+  static const IconifyIconData twotoneHideSource = IconifyIconData(IconData(
     0xee98,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-highlight-alt`
-  static const IconifyIconData twotoneHighlightAlt = IconifyIconData(IconData(
+  /// `twotone-high-quality` — primary layer (full opacity)
+  static const IconifyIconData twotoneHighQualityPrimary = IconifyIconData(IconData(
     0xee99,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-highlight-off`
-  static const IconifyIconData twotoneHighlightOff = IconifyIconData(IconData(
+  /// `twotone-high-quality` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHighQualitySecondary = IconifyIconData(IconData(
+    0xee99,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-highlight` — primary layer (full opacity)
+  static const IconifyIconData twotoneHighlightPrimary = IconifyIconData(IconData(
     0xee9a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-highlight` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHighlightSecondary = IconifyIconData(IconData(
+    0xee9a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-highlight-alt`
+  static const IconifyIconData twotoneHighlightAlt = IconifyIconData(IconData(
+    0xee9b,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-highlight-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneHighlightOffPrimary = IconifyIconData(IconData(
+    0xee9c,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-highlight-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHighlightOffSecondary = IconifyIconData(IconData(
+    0xee9c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-hiking`
   static const IconifyIconData twotoneHiking = IconifyIconData(IconData(
-    0xee9b,
+    0xee9d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-history`
   static const IconifyIconData twotoneHistory = IconifyIconData(IconData(
-    0xee9c,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-history-edu`
-  static const IconifyIconData twotoneHistoryEdu = IconifyIconData(IconData(
-    0xee9d,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-history-toggle-off`
-  static const IconifyIconData twotoneHistoryToggleOff = IconifyIconData(IconData(
     0xee9e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-hive`
-  static const IconifyIconData twotoneHive = IconifyIconData(IconData(
+  /// `twotone-history-edu` — primary layer (full opacity)
+  static const IconifyIconData twotoneHistoryEduPrimary = IconifyIconData(IconData(
     0xee9f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-history-edu` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHistoryEduSecondary = IconifyIconData(IconData(
+    0xee9f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-history-toggle-off`
+  static const IconifyIconData twotoneHistoryToggleOff = IconifyIconData(IconData(
+    0xeea0,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-hive` — primary layer (full opacity)
+  static const IconifyIconData twotoneHivePrimary = IconifyIconData(IconData(
+    0xeea1,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-hive` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHiveSecondary = IconifyIconData(IconData(
+    0xeea1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-hls`
   static const IconifyIconData twotoneHls = IconifyIconData(IconData(
-    0xeea0,
+    0xeea2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-hls-off`
   static const IconifyIconData twotoneHlsOff = IconifyIconData(IconData(
-    0xeea1,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-holiday-village`
-  static const IconifyIconData twotoneHolidayVillage = IconifyIconData(IconData(
-    0xeea2,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-home`
-  static const IconifyIconData twotoneHome = IconifyIconData(IconData(
     0xeea3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-home-max`
-  static const IconifyIconData twotoneHomeMax = IconifyIconData(IconData(
+  /// `twotone-holiday-village` — primary layer (full opacity)
+  static const IconifyIconData twotoneHolidayVillagePrimary = IconifyIconData(IconData(
     0xeea4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-home-mini`
-  static const IconifyIconData twotoneHomeMini = IconifyIconData(IconData(
+  /// `twotone-holiday-village` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHolidayVillageSecondary = IconifyIconData(IconData(
+    0xeea4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-home` — primary layer (full opacity)
+  static const IconifyIconData twotoneHomePrimary = IconifyIconData(IconData(
     0xeea5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-home-repair-service`
-  static const IconifyIconData twotoneHomeRepairService = IconifyIconData(IconData(
+  /// `twotone-home` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHomeSecondary = IconifyIconData(IconData(
+    0xeea5,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-home-max` — primary layer (full opacity)
+  static const IconifyIconData twotoneHomeMaxPrimary = IconifyIconData(IconData(
     0xeea6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-home-work`
-  static const IconifyIconData twotoneHomeWork = IconifyIconData(IconData(
+  /// `twotone-home-max` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHomeMaxSecondary = IconifyIconData(IconData(
+    0xeea6,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-home-mini` — primary layer (full opacity)
+  static const IconifyIconData twotoneHomeMiniPrimary = IconifyIconData(IconData(
     0xeea7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-home-mini` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHomeMiniSecondary = IconifyIconData(IconData(
+    0xeea7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-home-repair-service` — primary layer (full opacity)
+  static const IconifyIconData twotoneHomeRepairServicePrimary = IconifyIconData(IconData(
+    0xeea8,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-home-repair-service` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHomeRepairServiceSecondary = IconifyIconData(IconData(
+    0xeea8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-home-work` — primary layer (full opacity)
+  static const IconifyIconData twotoneHomeWorkPrimary = IconifyIconData(IconData(
+    0xeea9,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-home-work` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHomeWorkSecondary = IconifyIconData(IconData(
+    0xeea9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-horizontal-distribute`
   static const IconifyIconData twotoneHorizontalDistribute = IconifyIconData(IconData(
-    0xeea8,
+    0xeeaa,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-horizontal-rule`
   static const IconifyIconData twotoneHorizontalRule = IconifyIconData(IconData(
-    0xeea9,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-horizontal-split`
-  static const IconifyIconData twotoneHorizontalSplit = IconifyIconData(IconData(
-    0xeeaa,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-hot-tub`
-  static const IconifyIconData twotoneHotTub = IconifyIconData(IconData(
     0xeeab,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-hotel`
-  static const IconifyIconData twotoneHotel = IconifyIconData(IconData(
+  /// `twotone-horizontal-split` — primary layer (full opacity)
+  static const IconifyIconData twotoneHorizontalSplitPrimary = IconifyIconData(IconData(
     0xeeac,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-hotel-class`
-  static const IconifyIconData twotoneHotelClass = IconifyIconData(IconData(
+  /// `twotone-horizontal-split` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHorizontalSplitSecondary = IconifyIconData(IconData(
+    0xeeac,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-hot-tub`
+  static const IconifyIconData twotoneHotTub = IconifyIconData(IconData(
     0xeead,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-hotel` — primary layer (full opacity)
+  static const IconifyIconData twotoneHotelPrimary = IconifyIconData(IconData(
+    0xeeae,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-hotel` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHotelSecondary = IconifyIconData(IconData(
+    0xeeae,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-hotel-class` — primary layer (full opacity)
+  static const IconifyIconData twotoneHotelClassPrimary = IconifyIconData(IconData(
+    0xeeaf,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-hotel-class` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHotelClassSecondary = IconifyIconData(IconData(
+    0xeeaf,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-hourglass-bottom`
   static const IconifyIconData twotoneHourglassBottom = IconifyIconData(IconData(
-    0xeeae,
+    0xeeb0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-hourglass-disabled`
   static const IconifyIconData twotoneHourglassDisabled = IconifyIconData(IconData(
-    0xeeaf,
+    0xeeb1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-hourglass-empty`
   static const IconifyIconData twotoneHourglassEmpty = IconifyIconData(IconData(
-    0xeeb0,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-hourglass-full`
-  static const IconifyIconData twotoneHourglassFull = IconifyIconData(IconData(
-    0xeeb1,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-hourglass-top`
-  static const IconifyIconData twotoneHourglassTop = IconifyIconData(IconData(
     0xeeb2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-house`
-  static const IconifyIconData twotoneHouse = IconifyIconData(IconData(
+  /// `twotone-hourglass-full` — primary layer (full opacity)
+  static const IconifyIconData twotoneHourglassFullPrimary = IconifyIconData(IconData(
     0xeeb3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-house-siding`
-  static const IconifyIconData twotoneHouseSiding = IconifyIconData(IconData(
+  /// `twotone-hourglass-full` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHourglassFullSecondary = IconifyIconData(IconData(
+    0xeeb3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-hourglass-top`
+  static const IconifyIconData twotoneHourglassTop = IconifyIconData(IconData(
     0xeeb4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-houseboat`
-  static const IconifyIconData twotoneHouseboat = IconifyIconData(IconData(
+  /// `twotone-house` — primary layer (full opacity)
+  static const IconifyIconData twotoneHousePrimary = IconifyIconData(IconData(
     0xeeb5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-how-to-reg`
-  static const IconifyIconData twotoneHowToReg = IconifyIconData(IconData(
+  /// `twotone-house` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHouseSecondary = IconifyIconData(IconData(
+    0xeeb5,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-house-siding` — primary layer (full opacity)
+  static const IconifyIconData twotoneHouseSidingPrimary = IconifyIconData(IconData(
     0xeeb6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-house-siding` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHouseSidingSecondary = IconifyIconData(IconData(
+    0xeeb6,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-houseboat` — primary layer (full opacity)
+  static const IconifyIconData twotoneHouseboatPrimary = IconifyIconData(IconData(
+    0xeeb7,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-houseboat` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHouseboatSecondary = IconifyIconData(IconData(
+    0xeeb7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-how-to-reg` — primary layer (full opacity)
+  static const IconifyIconData twotoneHowToRegPrimary = IconifyIconData(IconData(
+    0xeeb8,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-how-to-reg` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHowToRegSecondary = IconifyIconData(IconData(
+    0xeeb8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-html`
   static const IconifyIconData twotoneHtml = IconifyIconData(IconData(
-    0xeeb7,
+    0xeeb9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-http`
   static const IconifyIconData twotoneHttp = IconifyIconData(IconData(
-    0xeeb8,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-https`
-  static const IconifyIconData twotoneHttps = IconifyIconData(IconData(
-    0xeeb9,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-hub`
-  static const IconifyIconData twotoneHub = IconifyIconData(IconData(
     0xeeba,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-hvac`
-  static const IconifyIconData twotoneHvac = IconifyIconData(IconData(
+  /// `twotone-https` — primary layer (full opacity)
+  static const IconifyIconData twotoneHttpsPrimary = IconifyIconData(IconData(
     0xeebb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-ice-skating`
-  static const IconifyIconData twotoneIceSkating = IconifyIconData(IconData(
+  /// `twotone-https` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHttpsSecondary = IconifyIconData(IconData(
+    0xeebb,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-hub` — primary layer (full opacity)
+  static const IconifyIconData twotoneHubPrimary = IconifyIconData(IconData(
     0xeebc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-icecream`
-  static const IconifyIconData twotoneIcecream = IconifyIconData(IconData(
+  /// `twotone-hub` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHubSecondary = IconifyIconData(IconData(
+    0xeebc,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-hvac` — primary layer (full opacity)
+  static const IconifyIconData twotoneHvacPrimary = IconifyIconData(IconData(
     0xeebd,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-image`
-  static const IconifyIconData twotoneImage = IconifyIconData(IconData(
+  /// `twotone-hvac` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneHvacSecondary = IconifyIconData(IconData(
+    0xeebd,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-ice-skating` — primary layer (full opacity)
+  static const IconifyIconData twotoneIceSkatingPrimary = IconifyIconData(IconData(
     0xeebe,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-image-aspect-ratio`
-  static const IconifyIconData twotoneImageAspectRatio = IconifyIconData(IconData(
+  /// `twotone-ice-skating` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneIceSkatingSecondary = IconifyIconData(IconData(
+    0xeebe,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-icecream` — primary layer (full opacity)
+  static const IconifyIconData twotoneIcecreamPrimary = IconifyIconData(IconData(
     0xeebf,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-image-not-supported`
-  static const IconifyIconData twotoneImageNotSupported = IconifyIconData(IconData(
+  /// `twotone-icecream` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneIcecreamSecondary = IconifyIconData(IconData(
+    0xeebf,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-image` — primary layer (full opacity)
+  static const IconifyIconData twotoneImagePrimary = IconifyIconData(IconData(
     0xeec0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-image-search`
-  static const IconifyIconData twotoneImageSearch = IconifyIconData(IconData(
+  /// `twotone-image` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneImageSecondary = IconifyIconData(IconData(
+    0xeec0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-image-aspect-ratio` — primary layer (full opacity)
+  static const IconifyIconData twotoneImageAspectRatioPrimary = IconifyIconData(IconData(
     0xeec1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-imagesearch-roller`
-  static const IconifyIconData twotoneImagesearchRoller = IconifyIconData(IconData(
+  /// `twotone-image-aspect-ratio` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneImageAspectRatioSecondary = IconifyIconData(IconData(
+    0xeec1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-image-not-supported` — primary layer (full opacity)
+  static const IconifyIconData twotoneImageNotSupportedPrimary = IconifyIconData(IconData(
     0xeec2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-import-contacts`
-  static const IconifyIconData twotoneImportContacts = IconifyIconData(IconData(
+  /// `twotone-image-not-supported` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneImageNotSupportedSecondary = IconifyIconData(IconData(
+    0xeec2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-image-search` — primary layer (full opacity)
+  static const IconifyIconData twotoneImageSearchPrimary = IconifyIconData(IconData(
     0xeec3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-import-export`
-  static const IconifyIconData twotoneImportExport = IconifyIconData(IconData(
+  /// `twotone-image-search` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneImageSearchSecondary = IconifyIconData(IconData(
+    0xeec3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-imagesearch-roller` — primary layer (full opacity)
+  static const IconifyIconData twotoneImagesearchRollerPrimary = IconifyIconData(IconData(
     0xeec4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-important-devices`
-  static const IconifyIconData twotoneImportantDevices = IconifyIconData(IconData(
+  /// `twotone-imagesearch-roller` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneImagesearchRollerSecondary = IconifyIconData(IconData(
+    0xeec4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-import-contacts` — primary layer (full opacity)
+  static const IconifyIconData twotoneImportContactsPrimary = IconifyIconData(IconData(
     0xeec5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-inbox`
-  static const IconifyIconData twotoneInbox = IconifyIconData(IconData(
+  /// `twotone-import-contacts` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneImportContactsSecondary = IconifyIconData(IconData(
+    0xeec5,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-import-export`
+  static const IconifyIconData twotoneImportExport = IconifyIconData(IconData(
     0xeec6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-incomplete-circle`
-  static const IconifyIconData twotoneIncompleteCircle = IconifyIconData(IconData(
+  /// `twotone-important-devices` — primary layer (full opacity)
+  static const IconifyIconData twotoneImportantDevicesPrimary = IconifyIconData(IconData(
     0xeec7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-indeterminate-check-box`
-  static const IconifyIconData twotoneIndeterminateCheckBox = IconifyIconData(IconData(
+  /// `twotone-important-devices` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneImportantDevicesSecondary = IconifyIconData(IconData(
+    0xeec7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-inbox` — primary layer (full opacity)
+  static const IconifyIconData twotoneInboxPrimary = IconifyIconData(IconData(
     0xeec8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-info`
-  static const IconifyIconData twotoneInfo = IconifyIconData(IconData(
+  /// `twotone-inbox` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneInboxSecondary = IconifyIconData(IconData(
+    0xeec8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-incomplete-circle`
+  static const IconifyIconData twotoneIncompleteCircle = IconifyIconData(IconData(
     0xeec9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-input`
-  static const IconifyIconData twotoneInput = IconifyIconData(IconData(
+  /// `twotone-indeterminate-check-box` — primary layer (full opacity)
+  static const IconifyIconData twotoneIndeterminateCheckBoxPrimary = IconifyIconData(IconData(
     0xeeca,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-insert-chart`
-  static const IconifyIconData twotoneInsertChart = IconifyIconData(IconData(
+  /// `twotone-indeterminate-check-box` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneIndeterminateCheckBoxSecondary = IconifyIconData(IconData(
+    0xeeca,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-info` — primary layer (full opacity)
+  static const IconifyIconData twotoneInfoPrimary = IconifyIconData(IconData(
     0xeecb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-insert-chart-outlined`
-  static const IconifyIconData twotoneInsertChartOutlined = IconifyIconData(IconData(
+  /// `twotone-info` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneInfoSecondary = IconifyIconData(IconData(
+    0xeecb,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-input`
+  static const IconifyIconData twotoneInput = IconifyIconData(IconData(
     0xeecc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-insert-comment`
-  static const IconifyIconData twotoneInsertComment = IconifyIconData(IconData(
+  /// `twotone-insert-chart` — primary layer (full opacity)
+  static const IconifyIconData twotoneInsertChartPrimary = IconifyIconData(IconData(
     0xeecd,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-insert-drive-file`
-  static const IconifyIconData twotoneInsertDriveFile = IconifyIconData(IconData(
+  /// `twotone-insert-chart` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneInsertChartSecondary = IconifyIconData(IconData(
+    0xeecd,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-insert-chart-outlined`
+  static const IconifyIconData twotoneInsertChartOutlined = IconifyIconData(IconData(
     0xeece,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-insert-emoticon`
-  static const IconifyIconData twotoneInsertEmoticon = IconifyIconData(IconData(
+  /// `twotone-insert-comment` — primary layer (full opacity)
+  static const IconifyIconData twotoneInsertCommentPrimary = IconifyIconData(IconData(
     0xeecf,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-insert-invitation`
-  static const IconifyIconData twotoneInsertInvitation = IconifyIconData(IconData(
+  /// `twotone-insert-comment` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneInsertCommentSecondary = IconifyIconData(IconData(
+    0xeecf,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-insert-drive-file` — primary layer (full opacity)
+  static const IconifyIconData twotoneInsertDriveFilePrimary = IconifyIconData(IconData(
     0xeed0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-insert-link`
-  static const IconifyIconData twotoneInsertLink = IconifyIconData(IconData(
+  /// `twotone-insert-drive-file` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneInsertDriveFileSecondary = IconifyIconData(IconData(
+    0xeed0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-insert-emoticon` — primary layer (full opacity)
+  static const IconifyIconData twotoneInsertEmoticonPrimary = IconifyIconData(IconData(
     0xeed1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-insert-page-break`
-  static const IconifyIconData twotoneInsertPageBreak = IconifyIconData(IconData(
+  /// `twotone-insert-emoticon` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneInsertEmoticonSecondary = IconifyIconData(IconData(
+    0xeed1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-insert-invitation` — primary layer (full opacity)
+  static const IconifyIconData twotoneInsertInvitationPrimary = IconifyIconData(IconData(
     0xeed2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-insert-photo`
-  static const IconifyIconData twotoneInsertPhoto = IconifyIconData(IconData(
+  /// `twotone-insert-invitation` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneInsertInvitationSecondary = IconifyIconData(IconData(
+    0xeed2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-insert-link`
+  static const IconifyIconData twotoneInsertLink = IconifyIconData(IconData(
     0xeed3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-insights`
-  static const IconifyIconData twotoneInsights = IconifyIconData(IconData(
+  /// `twotone-insert-page-break` — primary layer (full opacity)
+  static const IconifyIconData twotoneInsertPageBreakPrimary = IconifyIconData(IconData(
     0xeed4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-install-desktop`
-  static const IconifyIconData twotoneInstallDesktop = IconifyIconData(IconData(
+  /// `twotone-insert-page-break` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneInsertPageBreakSecondary = IconifyIconData(IconData(
+    0xeed4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-insert-photo` — primary layer (full opacity)
+  static const IconifyIconData twotoneInsertPhotoPrimary = IconifyIconData(IconData(
     0xeed5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-install-mobile`
-  static const IconifyIconData twotoneInstallMobile = IconifyIconData(IconData(
+  /// `twotone-insert-photo` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneInsertPhotoSecondary = IconifyIconData(IconData(
+    0xeed5,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-insights`
+  static const IconifyIconData twotoneInsights = IconifyIconData(IconData(
     0xeed6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-integration-instructions`
-  static const IconifyIconData twotoneIntegrationInstructions = IconifyIconData(IconData(
+  /// `twotone-install-desktop` — primary layer (full opacity)
+  static const IconifyIconData twotoneInstallDesktopPrimary = IconifyIconData(IconData(
     0xeed7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-interests`
-  static const IconifyIconData twotoneInterests = IconifyIconData(IconData(
+  /// `twotone-install-desktop` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneInstallDesktopSecondary = IconifyIconData(IconData(
+    0xeed7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-install-mobile` — primary layer (full opacity)
+  static const IconifyIconData twotoneInstallMobilePrimary = IconifyIconData(IconData(
     0xeed8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-interpreter-mode`
-  static const IconifyIconData twotoneInterpreterMode = IconifyIconData(IconData(
+  /// `twotone-install-mobile` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneInstallMobileSecondary = IconifyIconData(IconData(
+    0xeed8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-integration-instructions` — primary layer (full opacity)
+  static const IconifyIconData twotoneIntegrationInstructionsPrimary = IconifyIconData(IconData(
     0xeed9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-inventory`
-  static const IconifyIconData twotoneInventory = IconifyIconData(IconData(
+  /// `twotone-integration-instructions` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneIntegrationInstructionsSecondary = IconifyIconData(IconData(
+    0xeed9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-interests` — primary layer (full opacity)
+  static const IconifyIconData twotoneInterestsPrimary = IconifyIconData(IconData(
     0xeeda,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-inventory-2`
-  static const IconifyIconData twotoneInventory2 = IconifyIconData(IconData(
+  /// `twotone-interests` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneInterestsSecondary = IconifyIconData(IconData(
+    0xeeda,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-interpreter-mode` — primary layer (full opacity)
+  static const IconifyIconData twotoneInterpreterModePrimary = IconifyIconData(IconData(
     0xeedb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-invert-colors`
-  static const IconifyIconData twotoneInvertColors = IconifyIconData(IconData(
+  /// `twotone-interpreter-mode` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneInterpreterModeSecondary = IconifyIconData(IconData(
+    0xeedb,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-inventory` — primary layer (full opacity)
+  static const IconifyIconData twotoneInventoryPrimary = IconifyIconData(IconData(
     0xeedc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-invert-colors-off`
-  static const IconifyIconData twotoneInvertColorsOff = IconifyIconData(IconData(
+  /// `twotone-inventory` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneInventorySecondary = IconifyIconData(IconData(
+    0xeedc,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-inventory-2` — primary layer (full opacity)
+  static const IconifyIconData twotoneInventory2Primary = IconifyIconData(IconData(
     0xeedd,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-ios-share`
-  static const IconifyIconData twotoneIosShare = IconifyIconData(IconData(
+  /// `twotone-inventory-2` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneInventory2Secondary = IconifyIconData(IconData(
+    0xeedd,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-invert-colors` — primary layer (full opacity)
+  static const IconifyIconData twotoneInvertColorsPrimary = IconifyIconData(IconData(
     0xeede,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-iron`
-  static const IconifyIconData twotoneIron = IconifyIconData(IconData(
+  /// `twotone-invert-colors` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneInvertColorsSecondary = IconifyIconData(IconData(
+    0xeede,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-invert-colors-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneInvertColorsOffPrimary = IconifyIconData(IconData(
     0xeedf,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-iso`
-  static const IconifyIconData twotoneIso = IconifyIconData(IconData(
+  /// `twotone-invert-colors-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneInvertColorsOffSecondary = IconifyIconData(IconData(
+    0xeedf,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-ios-share`
+  static const IconifyIconData twotoneIosShare = IconifyIconData(IconData(
     0xeee0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-iron` — primary layer (full opacity)
+  static const IconifyIconData twotoneIronPrimary = IconifyIconData(IconData(
+    0xeee1,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-iron` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneIronSecondary = IconifyIconData(IconData(
+    0xeee1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-iso` — primary layer (full opacity)
+  static const IconifyIconData twotoneIsoPrimary = IconifyIconData(IconData(
+    0xeee2,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-iso` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneIsoSecondary = IconifyIconData(IconData(
+    0xeee2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-javascript`
   static const IconifyIconData twotoneJavascript = IconifyIconData(IconData(
-    0xeee1,
+    0xeee3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-join-full`
   static const IconifyIconData twotoneJoinFull = IconifyIconData(IconData(
-    0xeee2,
+    0xeee4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-join-inner`
   static const IconifyIconData twotoneJoinInner = IconifyIconData(IconData(
-    0xeee3,
+    0xeee5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-join-left`
   static const IconifyIconData twotoneJoinLeft = IconifyIconData(IconData(
-    0xeee4,
+    0xeee6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-join-right`
   static const IconifyIconData twotoneJoinRight = IconifyIconData(IconData(
-    0xeee5,
+    0xeee7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-kayaking`
   static const IconifyIconData twotoneKayaking = IconifyIconData(IconData(
-    0xeee6,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-kebab-dining`
-  static const IconifyIconData twotoneKebabDining = IconifyIconData(IconData(
-    0xeee7,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-key`
-  static const IconifyIconData twotoneKey = IconifyIconData(IconData(
     0xeee8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-key-off`
-  static const IconifyIconData twotoneKeyOff = IconifyIconData(IconData(
+  /// `twotone-kebab-dining` — primary layer (full opacity)
+  static const IconifyIconData twotoneKebabDiningPrimary = IconifyIconData(IconData(
     0xeee9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-keyboard`
-  static const IconifyIconData twotoneKeyboard = IconifyIconData(IconData(
+  /// `twotone-kebab-dining` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneKebabDiningSecondary = IconifyIconData(IconData(
+    0xeee9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-key`
+  static const IconifyIconData twotoneKey = IconifyIconData(IconData(
     0xeeea,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-keyboard-alt`
-  static const IconifyIconData twotoneKeyboardAlt = IconifyIconData(IconData(
+  /// `twotone-key-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneKeyOffPrimary = IconifyIconData(IconData(
     0xeeeb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-key-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneKeyOffSecondary = IconifyIconData(IconData(
+    0xeeeb,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-keyboard` — primary layer (full opacity)
+  static const IconifyIconData twotoneKeyboardPrimary = IconifyIconData(IconData(
+    0xeeec,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-keyboard` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneKeyboardSecondary = IconifyIconData(IconData(
+    0xeeec,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-keyboard-alt` — primary layer (full opacity)
+  static const IconifyIconData twotoneKeyboardAltPrimary = IconifyIconData(IconData(
+    0xeeed,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-keyboard-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneKeyboardAltSecondary = IconifyIconData(IconData(
+    0xeeed,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-keyboard-arrow-down`
   static const IconifyIconData twotoneKeyboardArrowDown = IconifyIconData(IconData(
-    0xeeec,
+    0xeeee,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-keyboard-arrow-left`
   static const IconifyIconData twotoneKeyboardArrowLeft = IconifyIconData(IconData(
-    0xeeed,
+    0xeeef,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-keyboard-arrow-right`
   static const IconifyIconData twotoneKeyboardArrowRight = IconifyIconData(IconData(
-    0xeeee,
+    0xeef0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-keyboard-arrow-up`
   static const IconifyIconData twotoneKeyboardArrowUp = IconifyIconData(IconData(
-    0xeeef,
+    0xeef1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-keyboard-backspace`
   static const IconifyIconData twotoneKeyboardBackspace = IconifyIconData(IconData(
-    0xeef0,
+    0xeef2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-keyboard-capslock`
   static const IconifyIconData twotoneKeyboardCapslock = IconifyIconData(IconData(
-    0xeef1,
+    0xeef3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-keyboard-command-key`
   static const IconifyIconData twotoneKeyboardCommandKey = IconifyIconData(IconData(
-    0xeef2,
+    0xeef4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-keyboard-control-key`
   static const IconifyIconData twotoneKeyboardControlKey = IconifyIconData(IconData(
-    0xeef3,
+    0xeef5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-keyboard-double-arrow-down`
   static const IconifyIconData twotoneKeyboardDoubleArrowDown = IconifyIconData(IconData(
-    0xeef4,
+    0xeef6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-keyboard-double-arrow-left`
   static const IconifyIconData twotoneKeyboardDoubleArrowLeft = IconifyIconData(IconData(
-    0xeef5,
+    0xeef7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-keyboard-double-arrow-right`
   static const IconifyIconData twotoneKeyboardDoubleArrowRight = IconifyIconData(IconData(
-    0xeef6,
+    0xeef8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-keyboard-double-arrow-up`
   static const IconifyIconData twotoneKeyboardDoubleArrowUp = IconifyIconData(IconData(
-    0xeef7,
+    0xeef9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-keyboard-hide`
-  static const IconifyIconData twotoneKeyboardHide = IconifyIconData(IconData(
-    0xeef8,
+  /// `twotone-keyboard-hide` — primary layer (full opacity)
+  static const IconifyIconData twotoneKeyboardHidePrimary = IconifyIconData(IconData(
+    0xeefa,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-keyboard-hide` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneKeyboardHideSecondary = IconifyIconData(IconData(
+    0xeefa,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-keyboard-option-key`
   static const IconifyIconData twotoneKeyboardOptionKey = IconifyIconData(IconData(
-    0xeef9,
+    0xeefb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-keyboard-return`
   static const IconifyIconData twotoneKeyboardReturn = IconifyIconData(IconData(
-    0xeefa,
+    0xeefc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-keyboard-tab`
   static const IconifyIconData twotoneKeyboardTab = IconifyIconData(IconData(
-    0xeefb,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-keyboard-voice`
-  static const IconifyIconData twotoneKeyboardVoice = IconifyIconData(IconData(
-    0xeefc,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-king-bed`
-  static const IconifyIconData twotoneKingBed = IconifyIconData(IconData(
     0xeefd,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-kitchen`
-  static const IconifyIconData twotoneKitchen = IconifyIconData(IconData(
+  /// `twotone-keyboard-voice` — primary layer (full opacity)
+  static const IconifyIconData twotoneKeyboardVoicePrimary = IconifyIconData(IconData(
     0xeefe,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-kitesurfing`
-  static const IconifyIconData twotoneKitesurfing = IconifyIconData(IconData(
+  /// `twotone-keyboard-voice` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneKeyboardVoiceSecondary = IconifyIconData(IconData(
+    0xeefe,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-king-bed` — primary layer (full opacity)
+  static const IconifyIconData twotoneKingBedPrimary = IconifyIconData(IconData(
     0xeeff,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-label`
-  static const IconifyIconData twotoneLabel = IconifyIconData(IconData(
+  /// `twotone-king-bed` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneKingBedSecondary = IconifyIconData(IconData(
+    0xeeff,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-kitchen` — primary layer (full opacity)
+  static const IconifyIconData twotoneKitchenPrimary = IconifyIconData(IconData(
     0xef00,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-label-important`
-  static const IconifyIconData twotoneLabelImportant = IconifyIconData(IconData(
+  /// `twotone-kitchen` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneKitchenSecondary = IconifyIconData(IconData(
+    0xef00,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-kitesurfing`
+  static const IconifyIconData twotoneKitesurfing = IconifyIconData(IconData(
     0xef01,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-label-off`
-  static const IconifyIconData twotoneLabelOff = IconifyIconData(IconData(
+  /// `twotone-label` — primary layer (full opacity)
+  static const IconifyIconData twotoneLabelPrimary = IconifyIconData(IconData(
     0xef02,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-lan`
-  static const IconifyIconData twotoneLan = IconifyIconData(IconData(
+  /// `twotone-label` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLabelSecondary = IconifyIconData(IconData(
+    0xef02,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-label-important` — primary layer (full opacity)
+  static const IconifyIconData twotoneLabelImportantPrimary = IconifyIconData(IconData(
     0xef03,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-landscape`
-  static const IconifyIconData twotoneLandscape = IconifyIconData(IconData(
+  /// `twotone-label-important` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLabelImportantSecondary = IconifyIconData(IconData(
+    0xef03,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-label-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneLabelOffPrimary = IconifyIconData(IconData(
     0xef04,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-landslide`
-  static const IconifyIconData twotoneLandslide = IconifyIconData(IconData(
+  /// `twotone-label-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLabelOffSecondary = IconifyIconData(IconData(
+    0xef04,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-lan` — primary layer (full opacity)
+  static const IconifyIconData twotoneLanPrimary = IconifyIconData(IconData(
     0xef05,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-language`
-  static const IconifyIconData twotoneLanguage = IconifyIconData(IconData(
+  /// `twotone-lan` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLanSecondary = IconifyIconData(IconData(
+    0xef05,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-landscape` — primary layer (full opacity)
+  static const IconifyIconData twotoneLandscapePrimary = IconifyIconData(IconData(
     0xef06,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-laptop`
-  static const IconifyIconData twotoneLaptop = IconifyIconData(IconData(
+  /// `twotone-landscape` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLandscapeSecondary = IconifyIconData(IconData(
+    0xef06,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-landslide` — primary layer (full opacity)
+  static const IconifyIconData twotoneLandslidePrimary = IconifyIconData(IconData(
     0xef07,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-laptop-chromebook`
-  static const IconifyIconData twotoneLaptopChromebook = IconifyIconData(IconData(
+  /// `twotone-landslide` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLandslideSecondary = IconifyIconData(IconData(
+    0xef07,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-language` — primary layer (full opacity)
+  static const IconifyIconData twotoneLanguagePrimary = IconifyIconData(IconData(
     0xef08,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-laptop-mac`
-  static const IconifyIconData twotoneLaptopMac = IconifyIconData(IconData(
+  /// `twotone-language` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLanguageSecondary = IconifyIconData(IconData(
+    0xef08,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-laptop` — primary layer (full opacity)
+  static const IconifyIconData twotoneLaptopPrimary = IconifyIconData(IconData(
     0xef09,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-laptop-windows`
-  static const IconifyIconData twotoneLaptopWindows = IconifyIconData(IconData(
+  /// `twotone-laptop` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLaptopSecondary = IconifyIconData(IconData(
+    0xef09,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-laptop-chromebook` — primary layer (full opacity)
+  static const IconifyIconData twotoneLaptopChromebookPrimary = IconifyIconData(IconData(
     0xef0a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-laptop-chromebook` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLaptopChromebookSecondary = IconifyIconData(IconData(
+    0xef0a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-laptop-mac` — primary layer (full opacity)
+  static const IconifyIconData twotoneLaptopMacPrimary = IconifyIconData(IconData(
+    0xef0b,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-laptop-mac` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLaptopMacSecondary = IconifyIconData(IconData(
+    0xef0b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-laptop-windows` — primary layer (full opacity)
+  static const IconifyIconData twotoneLaptopWindowsPrimary = IconifyIconData(IconData(
+    0xef0c,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-laptop-windows` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLaptopWindowsSecondary = IconifyIconData(IconData(
+    0xef0c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-last-page`
   static const IconifyIconData twotoneLastPage = IconifyIconData(IconData(
-    0xef0b,
+    0xef0d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-launch`
   static const IconifyIconData twotoneLaunch = IconifyIconData(IconData(
-    0xef0c,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-layers`
-  static const IconifyIconData twotoneLayers = IconifyIconData(IconData(
-    0xef0d,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-layers-clear`
-  static const IconifyIconData twotoneLayersClear = IconifyIconData(IconData(
     0xef0e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-leaderboard`
-  static const IconifyIconData twotoneLeaderboard = IconifyIconData(IconData(
+  /// `twotone-layers` — primary layer (full opacity)
+  static const IconifyIconData twotoneLayersPrimary = IconifyIconData(IconData(
     0xef0f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-layers` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLayersSecondary = IconifyIconData(IconData(
+    0xef0f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-layers-clear` — primary layer (full opacity)
+  static const IconifyIconData twotoneLayersClearPrimary = IconifyIconData(IconData(
+    0xef10,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-layers-clear` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLayersClearSecondary = IconifyIconData(IconData(
+    0xef10,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-leaderboard` — primary layer (full opacity)
+  static const IconifyIconData twotoneLeaderboardPrimary = IconifyIconData(IconData(
+    0xef11,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-leaderboard` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLeaderboardSecondary = IconifyIconData(IconData(
+    0xef11,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-leak-add`
   static const IconifyIconData twotoneLeakAdd = IconifyIconData(IconData(
-    0xef10,
+    0xef12,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-leak-remove`
   static const IconifyIconData twotoneLeakRemove = IconifyIconData(IconData(
-    0xef11,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-leave-bags-at-home`
-  static const IconifyIconData twotoneLeaveBagsAtHome = IconifyIconData(IconData(
-    0xef12,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-legend-toggle`
-  static const IconifyIconData twotoneLegendToggle = IconifyIconData(IconData(
     0xef13,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-lens`
-  static const IconifyIconData twotoneLens = IconifyIconData(IconData(
+  /// `twotone-leave-bags-at-home` — primary layer (full opacity)
+  static const IconifyIconData twotoneLeaveBagsAtHomePrimary = IconifyIconData(IconData(
     0xef14,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-leave-bags-at-home` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLeaveBagsAtHomeSecondary = IconifyIconData(IconData(
+    0xef14,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-legend-toggle`
+  static const IconifyIconData twotoneLegendToggle = IconifyIconData(IconData(
+    0xef15,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-lens` — primary layer (full opacity)
+  static const IconifyIconData twotoneLensPrimary = IconifyIconData(IconData(
+    0xef16,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-lens` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLensSecondary = IconifyIconData(IconData(
+    0xef16,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-lens-blur`
   static const IconifyIconData twotoneLensBlur = IconifyIconData(IconData(
-    0xef15,
+    0xef17,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-less-than`
   static const IconifyIconData twotoneLessThan = IconifyIconData(IconData(
-    0xef16,
+    0xef18,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-less-than-equal`
   static const IconifyIconData twotoneLessThanEqual = IconifyIconData(IconData(
-    0xef17,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-library-add`
-  static const IconifyIconData twotoneLibraryAdd = IconifyIconData(IconData(
-    0xef18,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-library-add-check`
-  static const IconifyIconData twotoneLibraryAddCheck = IconifyIconData(IconData(
     0xef19,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-library-books`
-  static const IconifyIconData twotoneLibraryBooks = IconifyIconData(IconData(
+  /// `twotone-library-add` — primary layer (full opacity)
+  static const IconifyIconData twotoneLibraryAddPrimary = IconifyIconData(IconData(
     0xef1a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-library-music`
-  static const IconifyIconData twotoneLibraryMusic = IconifyIconData(IconData(
+  /// `twotone-library-add` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLibraryAddSecondary = IconifyIconData(IconData(
+    0xef1a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-library-add-check` — primary layer (full opacity)
+  static const IconifyIconData twotoneLibraryAddCheckPrimary = IconifyIconData(IconData(
     0xef1b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-light`
-  static const IconifyIconData twotoneLight = IconifyIconData(IconData(
+  /// `twotone-library-add-check` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLibraryAddCheckSecondary = IconifyIconData(IconData(
+    0xef1b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-library-books` — primary layer (full opacity)
+  static const IconifyIconData twotoneLibraryBooksPrimary = IconifyIconData(IconData(
     0xef1c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-lightbulb`
-  static const IconifyIconData twotoneLightbulb = IconifyIconData(IconData(
+  /// `twotone-library-books` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLibraryBooksSecondary = IconifyIconData(IconData(
+    0xef1c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-library-music` — primary layer (full opacity)
+  static const IconifyIconData twotoneLibraryMusicPrimary = IconifyIconData(IconData(
     0xef1d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-lightbulb-circle`
-  static const IconifyIconData twotoneLightbulbCircle = IconifyIconData(IconData(
+  /// `twotone-library-music` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLibraryMusicSecondary = IconifyIconData(IconData(
+    0xef1d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-light` — primary layer (full opacity)
+  static const IconifyIconData twotoneLightPrimary = IconifyIconData(IconData(
     0xef1e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-light` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLightSecondary = IconifyIconData(IconData(
+    0xef1e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-lightbulb` — primary layer (full opacity)
+  static const IconifyIconData twotoneLightbulbPrimary = IconifyIconData(IconData(
+    0xef1f,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-lightbulb` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLightbulbSecondary = IconifyIconData(IconData(
+    0xef1f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-lightbulb-circle` — primary layer (full opacity)
+  static const IconifyIconData twotoneLightbulbCirclePrimary = IconifyIconData(IconData(
+    0xef20,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-lightbulb-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLightbulbCircleSecondary = IconifyIconData(IconData(
+    0xef20,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-line-axis`
   static const IconifyIconData twotoneLineAxis = IconifyIconData(IconData(
-    0xef1f,
+    0xef21,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-line-style`
   static const IconifyIconData twotoneLineStyle = IconifyIconData(IconData(
-    0xef20,
+    0xef22,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-line-weight`
   static const IconifyIconData twotoneLineWeight = IconifyIconData(IconData(
-    0xef21,
+    0xef23,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-linear-scale`
   static const IconifyIconData twotoneLinearScale = IconifyIconData(IconData(
-    0xef22,
+    0xef24,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-link`
   static const IconifyIconData twotoneLink = IconifyIconData(IconData(
-    0xef23,
+    0xef25,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-link-off`
   static const IconifyIconData twotoneLinkOff = IconifyIconData(IconData(
-    0xef24,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-linked-camera`
-  static const IconifyIconData twotoneLinkedCamera = IconifyIconData(IconData(
-    0xef25,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-liquor`
-  static const IconifyIconData twotoneLiquor = IconifyIconData(IconData(
     0xef26,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-list`
-  static const IconifyIconData twotoneList = IconifyIconData(IconData(
+  /// `twotone-linked-camera` — primary layer (full opacity)
+  static const IconifyIconData twotoneLinkedCameraPrimary = IconifyIconData(IconData(
     0xef27,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-list-alt`
-  static const IconifyIconData twotoneListAlt = IconifyIconData(IconData(
+  /// `twotone-linked-camera` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLinkedCameraSecondary = IconifyIconData(IconData(
+    0xef27,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-liquor` — primary layer (full opacity)
+  static const IconifyIconData twotoneLiquorPrimary = IconifyIconData(IconData(
     0xef28,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-live-help`
-  static const IconifyIconData twotoneLiveHelp = IconifyIconData(IconData(
+  /// `twotone-liquor` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLiquorSecondary = IconifyIconData(IconData(
+    0xef28,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-list`
+  static const IconifyIconData twotoneList = IconifyIconData(IconData(
     0xef29,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-live-tv`
-  static const IconifyIconData twotoneLiveTv = IconifyIconData(IconData(
+  /// `twotone-list-alt` — primary layer (full opacity)
+  static const IconifyIconData twotoneListAltPrimary = IconifyIconData(IconData(
     0xef2a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-living`
-  static const IconifyIconData twotoneLiving = IconifyIconData(IconData(
+  /// `twotone-list-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneListAltSecondary = IconifyIconData(IconData(
+    0xef2a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-live-help` — primary layer (full opacity)
+  static const IconifyIconData twotoneLiveHelpPrimary = IconifyIconData(IconData(
     0xef2b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-activity`
-  static const IconifyIconData twotoneLocalActivity = IconifyIconData(IconData(
+  /// `twotone-live-help` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLiveHelpSecondary = IconifyIconData(IconData(
+    0xef2b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-live-tv` — primary layer (full opacity)
+  static const IconifyIconData twotoneLiveTvPrimary = IconifyIconData(IconData(
     0xef2c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-airport`
-  static const IconifyIconData twotoneLocalAirport = IconifyIconData(IconData(
+  /// `twotone-live-tv` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLiveTvSecondary = IconifyIconData(IconData(
+    0xef2c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-living` — primary layer (full opacity)
+  static const IconifyIconData twotoneLivingPrimary = IconifyIconData(IconData(
     0xef2d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-atm`
-  static const IconifyIconData twotoneLocalAtm = IconifyIconData(IconData(
+  /// `twotone-living` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLivingSecondary = IconifyIconData(IconData(
+    0xef2d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-activity` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalActivityPrimary = IconifyIconData(IconData(
     0xef2e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-bar`
-  static const IconifyIconData twotoneLocalBar = IconifyIconData(IconData(
+  /// `twotone-local-activity` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalActivitySecondary = IconifyIconData(IconData(
+    0xef2e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-airport`
+  static const IconifyIconData twotoneLocalAirport = IconifyIconData(IconData(
     0xef2f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-cafe`
-  static const IconifyIconData twotoneLocalCafe = IconifyIconData(IconData(
+  /// `twotone-local-atm` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalAtmPrimary = IconifyIconData(IconData(
     0xef30,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-car-wash`
-  static const IconifyIconData twotoneLocalCarWash = IconifyIconData(IconData(
+  /// `twotone-local-atm` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalAtmSecondary = IconifyIconData(IconData(
+    0xef30,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-bar` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalBarPrimary = IconifyIconData(IconData(
     0xef31,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-convenience-store`
-  static const IconifyIconData twotoneLocalConvenienceStore = IconifyIconData(IconData(
+  /// `twotone-local-bar` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalBarSecondary = IconifyIconData(IconData(
+    0xef31,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-cafe` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalCafePrimary = IconifyIconData(IconData(
     0xef32,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-dining`
-  static const IconifyIconData twotoneLocalDining = IconifyIconData(IconData(
+  /// `twotone-local-cafe` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalCafeSecondary = IconifyIconData(IconData(
+    0xef32,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-car-wash` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalCarWashPrimary = IconifyIconData(IconData(
     0xef33,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-drink`
-  static const IconifyIconData twotoneLocalDrink = IconifyIconData(IconData(
+  /// `twotone-local-car-wash` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalCarWashSecondary = IconifyIconData(IconData(
+    0xef33,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-convenience-store` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalConvenienceStorePrimary = IconifyIconData(IconData(
     0xef34,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-fire-department`
-  static const IconifyIconData twotoneLocalFireDepartment = IconifyIconData(IconData(
+  /// `twotone-local-convenience-store` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalConvenienceStoreSecondary = IconifyIconData(IconData(
+    0xef34,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-dining`
+  static const IconifyIconData twotoneLocalDining = IconifyIconData(IconData(
     0xef35,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-florist`
-  static const IconifyIconData twotoneLocalFlorist = IconifyIconData(IconData(
+  /// `twotone-local-drink` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalDrinkPrimary = IconifyIconData(IconData(
     0xef36,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-gas-station`
-  static const IconifyIconData twotoneLocalGasStation = IconifyIconData(IconData(
+  /// `twotone-local-drink` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalDrinkSecondary = IconifyIconData(IconData(
+    0xef36,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-fire-department` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalFireDepartmentPrimary = IconifyIconData(IconData(
     0xef37,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-hospital`
-  static const IconifyIconData twotoneLocalHospital = IconifyIconData(IconData(
+  /// `twotone-local-fire-department` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalFireDepartmentSecondary = IconifyIconData(IconData(
+    0xef37,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-florist` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalFloristPrimary = IconifyIconData(IconData(
     0xef38,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-hotel`
-  static const IconifyIconData twotoneLocalHotel = IconifyIconData(IconData(
+  /// `twotone-local-florist` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalFloristSecondary = IconifyIconData(IconData(
+    0xef38,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-gas-station` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalGasStationPrimary = IconifyIconData(IconData(
     0xef39,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-laundry-service`
-  static const IconifyIconData twotoneLocalLaundryService = IconifyIconData(IconData(
+  /// `twotone-local-gas-station` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalGasStationSecondary = IconifyIconData(IconData(
+    0xef39,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-hospital` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalHospitalPrimary = IconifyIconData(IconData(
     0xef3a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-library`
-  static const IconifyIconData twotoneLocalLibrary = IconifyIconData(IconData(
+  /// `twotone-local-hospital` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalHospitalSecondary = IconifyIconData(IconData(
+    0xef3a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-hotel` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalHotelPrimary = IconifyIconData(IconData(
     0xef3b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-mall`
-  static const IconifyIconData twotoneLocalMall = IconifyIconData(IconData(
+  /// `twotone-local-hotel` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalHotelSecondary = IconifyIconData(IconData(
+    0xef3b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-laundry-service` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalLaundryServicePrimary = IconifyIconData(IconData(
     0xef3c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-movies`
-  static const IconifyIconData twotoneLocalMovies = IconifyIconData(IconData(
+  /// `twotone-local-laundry-service` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalLaundryServiceSecondary = IconifyIconData(IconData(
+    0xef3c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-library` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalLibraryPrimary = IconifyIconData(IconData(
     0xef3d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-offer`
-  static const IconifyIconData twotoneLocalOffer = IconifyIconData(IconData(
+  /// `twotone-local-library` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalLibrarySecondary = IconifyIconData(IconData(
+    0xef3d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-mall` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalMallPrimary = IconifyIconData(IconData(
     0xef3e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-parking`
-  static const IconifyIconData twotoneLocalParking = IconifyIconData(IconData(
+  /// `twotone-local-mall` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalMallSecondary = IconifyIconData(IconData(
+    0xef3e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-movies` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalMoviesPrimary = IconifyIconData(IconData(
     0xef3f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-pharmacy`
-  static const IconifyIconData twotoneLocalPharmacy = IconifyIconData(IconData(
+  /// `twotone-local-movies` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalMoviesSecondary = IconifyIconData(IconData(
+    0xef3f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-offer` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalOfferPrimary = IconifyIconData(IconData(
     0xef40,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-phone`
-  static const IconifyIconData twotoneLocalPhone = IconifyIconData(IconData(
+  /// `twotone-local-offer` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalOfferSecondary = IconifyIconData(IconData(
+    0xef40,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-parking`
+  static const IconifyIconData twotoneLocalParking = IconifyIconData(IconData(
     0xef41,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-pizza`
-  static const IconifyIconData twotoneLocalPizza = IconifyIconData(IconData(
+  /// `twotone-local-pharmacy` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalPharmacyPrimary = IconifyIconData(IconData(
     0xef42,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-play`
-  static const IconifyIconData twotoneLocalPlay = IconifyIconData(IconData(
+  /// `twotone-local-pharmacy` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalPharmacySecondary = IconifyIconData(IconData(
+    0xef42,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-phone` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalPhonePrimary = IconifyIconData(IconData(
     0xef43,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-police`
-  static const IconifyIconData twotoneLocalPolice = IconifyIconData(IconData(
+  /// `twotone-local-phone` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalPhoneSecondary = IconifyIconData(IconData(
+    0xef43,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-pizza` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalPizzaPrimary = IconifyIconData(IconData(
     0xef44,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-post-office`
-  static const IconifyIconData twotoneLocalPostOffice = IconifyIconData(IconData(
+  /// `twotone-local-pizza` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalPizzaSecondary = IconifyIconData(IconData(
+    0xef44,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-play` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalPlayPrimary = IconifyIconData(IconData(
     0xef45,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-printshop`
-  static const IconifyIconData twotoneLocalPrintshop = IconifyIconData(IconData(
+  /// `twotone-local-play` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalPlaySecondary = IconifyIconData(IconData(
+    0xef45,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-police` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalPolicePrimary = IconifyIconData(IconData(
     0xef46,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-see`
-  static const IconifyIconData twotoneLocalSee = IconifyIconData(IconData(
+  /// `twotone-local-police` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalPoliceSecondary = IconifyIconData(IconData(
+    0xef46,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-post-office` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalPostOfficePrimary = IconifyIconData(IconData(
     0xef47,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-shipping`
-  static const IconifyIconData twotoneLocalShipping = IconifyIconData(IconData(
+  /// `twotone-local-post-office` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalPostOfficeSecondary = IconifyIconData(IconData(
+    0xef47,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-printshop` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalPrintshopPrimary = IconifyIconData(IconData(
     0xef48,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-local-taxi`
-  static const IconifyIconData twotoneLocalTaxi = IconifyIconData(IconData(
+  /// `twotone-local-printshop` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalPrintshopSecondary = IconifyIconData(IconData(
+    0xef48,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-see` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalSeePrimary = IconifyIconData(IconData(
     0xef49,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-local-see` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalSeeSecondary = IconifyIconData(IconData(
+    0xef49,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-shipping` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalShippingPrimary = IconifyIconData(IconData(
+    0xef4a,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-shipping` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalShippingSecondary = IconifyIconData(IconData(
+    0xef4a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-taxi` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocalTaxiPrimary = IconifyIconData(IconData(
+    0xef4b,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-local-taxi` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocalTaxiSecondary = IconifyIconData(IconData(
+    0xef4b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-location-city`
   static const IconifyIconData twotoneLocationCity = IconifyIconData(IconData(
-    0xef4a,
+    0xef4c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-location-disabled`
   static const IconifyIconData twotoneLocationDisabled = IconifyIconData(IconData(
-    0xef4b,
+    0xef4d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-location-off`
   static const IconifyIconData twotoneLocationOff = IconifyIconData(IconData(
-    0xef4c,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-location-on`
-  static const IconifyIconData twotoneLocationOn = IconifyIconData(IconData(
-    0xef4d,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-location-searching`
-  static const IconifyIconData twotoneLocationSearching = IconifyIconData(IconData(
     0xef4e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-lock`
-  static const IconifyIconData twotoneLock = IconifyIconData(IconData(
+  /// `twotone-location-on` — primary layer (full opacity)
+  static const IconifyIconData twotoneLocationOnPrimary = IconifyIconData(IconData(
     0xef4f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-lock-clock`
-  static const IconifyIconData twotoneLockClock = IconifyIconData(IconData(
+  /// `twotone-location-on` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLocationOnSecondary = IconifyIconData(IconData(
+    0xef4f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-location-searching`
+  static const IconifyIconData twotoneLocationSearching = IconifyIconData(IconData(
     0xef50,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-lock-open`
-  static const IconifyIconData twotoneLockOpen = IconifyIconData(IconData(
+  /// `twotone-lock` — primary layer (full opacity)
+  static const IconifyIconData twotoneLockPrimary = IconifyIconData(IconData(
     0xef51,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-lock-person`
-  static const IconifyIconData twotoneLockPerson = IconifyIconData(IconData(
+  /// `twotone-lock` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLockSecondary = IconifyIconData(IconData(
+    0xef51,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-lock-clock` — primary layer (full opacity)
+  static const IconifyIconData twotoneLockClockPrimary = IconifyIconData(IconData(
     0xef52,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-lock-clock` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLockClockSecondary = IconifyIconData(IconData(
+    0xef52,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-lock-open` — primary layer (full opacity)
+  static const IconifyIconData twotoneLockOpenPrimary = IconifyIconData(IconData(
+    0xef53,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-lock-open` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLockOpenSecondary = IconifyIconData(IconData(
+    0xef53,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-lock-person` — primary layer (full opacity)
+  static const IconifyIconData twotoneLockPersonPrimary = IconifyIconData(IconData(
+    0xef54,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-lock-person` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLockPersonSecondary = IconifyIconData(IconData(
+    0xef54,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-lock-reset`
   static const IconifyIconData twotoneLockReset = IconifyIconData(IconData(
-    0xef53,
+    0xef55,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-log-in`
   static const IconifyIconData twotoneLogIn = IconifyIconData(IconData(
-    0xef54,
+    0xef56,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-log-out`
   static const IconifyIconData twotoneLogOut = IconifyIconData(IconData(
-    0xef55,
+    0xef57,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-login`
   static const IconifyIconData twotoneLogin = IconifyIconData(IconData(
-    0xef56,
+    0xef58,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-logo-dev`
   static const IconifyIconData twotoneLogoDev = IconifyIconData(IconData(
-    0xef57,
+    0xef59,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-logout`
   static const IconifyIconData twotoneLogout = IconifyIconData(IconData(
-    0xef58,
+    0xef5a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-looks`
   static const IconifyIconData twotoneLooks = IconifyIconData(IconData(
-    0xef59,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-looks-3`
-  static const IconifyIconData twotoneLooks3 = IconifyIconData(IconData(
-    0xef5a,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-looks-4`
-  static const IconifyIconData twotoneLooks4 = IconifyIconData(IconData(
     0xef5b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-looks-5`
-  static const IconifyIconData twotoneLooks5 = IconifyIconData(IconData(
+  /// `twotone-looks-3` — primary layer (full opacity)
+  static const IconifyIconData twotoneLooks3Primary = IconifyIconData(IconData(
     0xef5c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-looks-6`
-  static const IconifyIconData twotoneLooks6 = IconifyIconData(IconData(
+  /// `twotone-looks-3` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLooks3Secondary = IconifyIconData(IconData(
+    0xef5c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-looks-4` — primary layer (full opacity)
+  static const IconifyIconData twotoneLooks4Primary = IconifyIconData(IconData(
     0xef5d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-looks-one`
-  static const IconifyIconData twotoneLooksOne = IconifyIconData(IconData(
+  /// `twotone-looks-4` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLooks4Secondary = IconifyIconData(IconData(
+    0xef5d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-looks-5` — primary layer (full opacity)
+  static const IconifyIconData twotoneLooks5Primary = IconifyIconData(IconData(
     0xef5e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-looks-two`
-  static const IconifyIconData twotoneLooksTwo = IconifyIconData(IconData(
+  /// `twotone-looks-5` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLooks5Secondary = IconifyIconData(IconData(
+    0xef5e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-looks-6` — primary layer (full opacity)
+  static const IconifyIconData twotoneLooks6Primary = IconifyIconData(IconData(
     0xef5f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-loop`
-  static const IconifyIconData twotoneLoop = IconifyIconData(IconData(
+  /// `twotone-looks-6` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLooks6Secondary = IconifyIconData(IconData(
+    0xef5f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-looks-one` — primary layer (full opacity)
+  static const IconifyIconData twotoneLooksOnePrimary = IconifyIconData(IconData(
     0xef60,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-loupe`
-  static const IconifyIconData twotoneLoupe = IconifyIconData(IconData(
+  /// `twotone-looks-one` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLooksOneSecondary = IconifyIconData(IconData(
+    0xef60,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-looks-two` — primary layer (full opacity)
+  static const IconifyIconData twotoneLooksTwoPrimary = IconifyIconData(IconData(
     0xef61,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-low-priority`
-  static const IconifyIconData twotoneLowPriority = IconifyIconData(IconData(
+  /// `twotone-looks-two` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLooksTwoSecondary = IconifyIconData(IconData(
+    0xef61,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-loop`
+  static const IconifyIconData twotoneLoop = IconifyIconData(IconData(
     0xef62,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-loyalty`
-  static const IconifyIconData twotoneLoyalty = IconifyIconData(IconData(
+  /// `twotone-loupe` — primary layer (full opacity)
+  static const IconifyIconData twotoneLoupePrimary = IconifyIconData(IconData(
     0xef63,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-loupe` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLoupeSecondary = IconifyIconData(IconData(
+    0xef63,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-low-priority`
+  static const IconifyIconData twotoneLowPriority = IconifyIconData(IconData(
+    0xef64,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-loyalty` — primary layer (full opacity)
+  static const IconifyIconData twotoneLoyaltyPrimary = IconifyIconData(IconData(
+    0xef65,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-loyalty` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLoyaltySecondary = IconifyIconData(IconData(
+    0xef65,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-lte-mobiledata`
   static const IconifyIconData twotoneLteMobiledata = IconifyIconData(IconData(
-    0xef64,
+    0xef66,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-lte-plus-mobiledata`
   static const IconifyIconData twotoneLtePlusMobiledata = IconifyIconData(IconData(
-    0xef65,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-luggage`
-  static const IconifyIconData twotoneLuggage = IconifyIconData(IconData(
-    0xef66,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-lunch-dining`
-  static const IconifyIconData twotoneLunchDining = IconifyIconData(IconData(
     0xef67,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-lyrics`
-  static const IconifyIconData twotoneLyrics = IconifyIconData(IconData(
+  /// `twotone-luggage` — primary layer (full opacity)
+  static const IconifyIconData twotoneLuggagePrimary = IconifyIconData(IconData(
     0xef68,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-macro-off`
-  static const IconifyIconData twotoneMacroOff = IconifyIconData(IconData(
+  /// `twotone-luggage` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLuggageSecondary = IconifyIconData(IconData(
+    0xef68,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-lunch-dining`
+  static const IconifyIconData twotoneLunchDining = IconifyIconData(IconData(
     0xef69,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-mail`
-  static const IconifyIconData twotoneMail = IconifyIconData(IconData(
+  /// `twotone-lyrics` — primary layer (full opacity)
+  static const IconifyIconData twotoneLyricsPrimary = IconifyIconData(IconData(
     0xef6a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-mail-lock`
-  static const IconifyIconData twotoneMailLock = IconifyIconData(IconData(
+  /// `twotone-lyrics` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneLyricsSecondary = IconifyIconData(IconData(
+    0xef6a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-macro-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneMacroOffPrimary = IconifyIconData(IconData(
     0xef6b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-macro-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMacroOffSecondary = IconifyIconData(IconData(
+    0xef6b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mail` — primary layer (full opacity)
+  static const IconifyIconData twotoneMailPrimary = IconifyIconData(IconData(
+    0xef6c,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mail` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMailSecondary = IconifyIconData(IconData(
+    0xef6c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mail-lock` — primary layer (full opacity)
+  static const IconifyIconData twotoneMailLockPrimary = IconifyIconData(IconData(
+    0xef6d,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mail-lock` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMailLockSecondary = IconifyIconData(IconData(
+    0xef6d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-mail-outline`
   static const IconifyIconData twotoneMailOutline = IconifyIconData(IconData(
-    0xef6c,
+    0xef6e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-male`
   static const IconifyIconData twotoneMale = IconifyIconData(IconData(
-    0xef6d,
+    0xef6f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-man`
   static const IconifyIconData twotoneMan = IconifyIconData(IconData(
-    0xef6e,
+    0xef70,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-man-2`
   static const IconifyIconData twotoneMan2 = IconifyIconData(IconData(
-    0xef6f,
+    0xef71,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-man-3`
   static const IconifyIconData twotoneMan3 = IconifyIconData(IconData(
-    0xef70,
+    0xef72,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-man-4`
   static const IconifyIconData twotoneMan4 = IconifyIconData(IconData(
-    0xef71,
+    0xef73,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-manage-search`
   static const IconifyIconData twotoneManageSearch = IconifyIconData(IconData(
-    0xef72,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-map`
-  static const IconifyIconData twotoneMap = IconifyIconData(IconData(
-    0xef73,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-maps-home-work`
-  static const IconifyIconData twotoneMapsHomeWork = IconifyIconData(IconData(
     0xef74,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-maps-ugc`
-  static const IconifyIconData twotoneMapsUgc = IconifyIconData(IconData(
+  /// `twotone-map` — primary layer (full opacity)
+  static const IconifyIconData twotoneMapPrimary = IconifyIconData(IconData(
     0xef75,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-margin`
-  static const IconifyIconData twotoneMargin = IconifyIconData(IconData(
+  /// `twotone-map` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMapSecondary = IconifyIconData(IconData(
+    0xef75,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-maps-home-work` — primary layer (full opacity)
+  static const IconifyIconData twotoneMapsHomeWorkPrimary = IconifyIconData(IconData(
     0xef76,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-mark-as-unread`
-  static const IconifyIconData twotoneMarkAsUnread = IconifyIconData(IconData(
+  /// `twotone-maps-home-work` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMapsHomeWorkSecondary = IconifyIconData(IconData(
+    0xef76,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-maps-ugc`
+  static const IconifyIconData twotoneMapsUgc = IconifyIconData(IconData(
     0xef77,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-mark-chat-read`
-  static const IconifyIconData twotoneMarkChatRead = IconifyIconData(IconData(
+  /// `twotone-margin` — primary layer (full opacity)
+  static const IconifyIconData twotoneMarginPrimary = IconifyIconData(IconData(
     0xef78,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-mark-chat-unread`
-  static const IconifyIconData twotoneMarkChatUnread = IconifyIconData(IconData(
+  /// `twotone-margin` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMarginSecondary = IconifyIconData(IconData(
+    0xef78,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mark-as-unread` — primary layer (full opacity)
+  static const IconifyIconData twotoneMarkAsUnreadPrimary = IconifyIconData(IconData(
     0xef79,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-mark-email-read`
-  static const IconifyIconData twotoneMarkEmailRead = IconifyIconData(IconData(
+  /// `twotone-mark-as-unread` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMarkAsUnreadSecondary = IconifyIconData(IconData(
+    0xef79,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mark-chat-read` — primary layer (full opacity)
+  static const IconifyIconData twotoneMarkChatReadPrimary = IconifyIconData(IconData(
     0xef7a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-mark-email-unread`
-  static const IconifyIconData twotoneMarkEmailUnread = IconifyIconData(IconData(
+  /// `twotone-mark-chat-read` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMarkChatReadSecondary = IconifyIconData(IconData(
+    0xef7a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mark-chat-unread` — primary layer (full opacity)
+  static const IconifyIconData twotoneMarkChatUnreadPrimary = IconifyIconData(IconData(
     0xef7b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-mark-unread-chat-alt`
-  static const IconifyIconData twotoneMarkUnreadChatAlt = IconifyIconData(IconData(
+  /// `twotone-mark-chat-unread` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMarkChatUnreadSecondary = IconifyIconData(IconData(
+    0xef7b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mark-email-read` — primary layer (full opacity)
+  static const IconifyIconData twotoneMarkEmailReadPrimary = IconifyIconData(IconData(
     0xef7c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-markunread`
-  static const IconifyIconData twotoneMarkunread = IconifyIconData(IconData(
+  /// `twotone-mark-email-read` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMarkEmailReadSecondary = IconifyIconData(IconData(
+    0xef7c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mark-email-unread` — primary layer (full opacity)
+  static const IconifyIconData twotoneMarkEmailUnreadPrimary = IconifyIconData(IconData(
     0xef7d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-markunread-mailbox`
-  static const IconifyIconData twotoneMarkunreadMailbox = IconifyIconData(IconData(
+  /// `twotone-mark-email-unread` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMarkEmailUnreadSecondary = IconifyIconData(IconData(
+    0xef7d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mark-unread-chat-alt` — primary layer (full opacity)
+  static const IconifyIconData twotoneMarkUnreadChatAltPrimary = IconifyIconData(IconData(
     0xef7e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-masks`
-  static const IconifyIconData twotoneMasks = IconifyIconData(IconData(
+  /// `twotone-mark-unread-chat-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMarkUnreadChatAltSecondary = IconifyIconData(IconData(
+    0xef7e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-markunread` — primary layer (full opacity)
+  static const IconifyIconData twotoneMarkunreadPrimary = IconifyIconData(IconData(
     0xef7f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-markunread` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMarkunreadSecondary = IconifyIconData(IconData(
+    0xef7f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-markunread-mailbox` — primary layer (full opacity)
+  static const IconifyIconData twotoneMarkunreadMailboxPrimary = IconifyIconData(IconData(
+    0xef80,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-markunread-mailbox` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMarkunreadMailboxSecondary = IconifyIconData(IconData(
+    0xef80,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-masks` — primary layer (full opacity)
+  static const IconifyIconData twotoneMasksPrimary = IconifyIconData(IconData(
+    0xef81,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-masks` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMasksSecondary = IconifyIconData(IconData(
+    0xef81,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-maximize`
   static const IconifyIconData twotoneMaximize = IconifyIconData(IconData(
-    0xef80,
+    0xef82,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-media-bluetooth-off`
   static const IconifyIconData twotoneMediaBluetoothOff = IconifyIconData(IconData(
-    0xef81,
+    0xef83,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-media-bluetooth-on`
   static const IconifyIconData twotoneMediaBluetoothOn = IconifyIconData(IconData(
-    0xef82,
+    0xef84,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-mediation`
   static const IconifyIconData twotoneMediation = IconifyIconData(IconData(
-    0xef83,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-medical-information`
-  static const IconifyIconData twotoneMedicalInformation = IconifyIconData(IconData(
-    0xef84,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-medical-services`
-  static const IconifyIconData twotoneMedicalServices = IconifyIconData(IconData(
     0xef85,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-medication`
-  static const IconifyIconData twotoneMedication = IconifyIconData(IconData(
+  /// `twotone-medical-information` — primary layer (full opacity)
+  static const IconifyIconData twotoneMedicalInformationPrimary = IconifyIconData(IconData(
     0xef86,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-meeting-room`
-  static const IconifyIconData twotoneMeetingRoom = IconifyIconData(IconData(
+  /// `twotone-medical-information` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMedicalInformationSecondary = IconifyIconData(IconData(
+    0xef86,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-medical-services` — primary layer (full opacity)
+  static const IconifyIconData twotoneMedicalServicesPrimary = IconifyIconData(IconData(
     0xef87,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-memory`
-  static const IconifyIconData twotoneMemory = IconifyIconData(IconData(
+  /// `twotone-medical-services` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMedicalServicesSecondary = IconifyIconData(IconData(
+    0xef87,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-medication` — primary layer (full opacity)
+  static const IconifyIconData twotoneMedicationPrimary = IconifyIconData(IconData(
     0xef88,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-menu`
-  static const IconifyIconData twotoneMenu = IconifyIconData(IconData(
+  /// `twotone-medication` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMedicationSecondary = IconifyIconData(IconData(
+    0xef88,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-medication-liquid` — primary layer (full opacity)
+  static const IconifyIconData twotoneMedicationLiquidPrimary = IconifyIconData(IconData(
     0xef89,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-menu-book`
-  static const IconifyIconData twotoneMenuBook = IconifyIconData(IconData(
+  /// `twotone-medication-liquid` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMedicationLiquidSecondary = IconifyIconData(IconData(
+    0xef89,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-meeting-room` — primary layer (full opacity)
+  static const IconifyIconData twotoneMeetingRoomPrimary = IconifyIconData(IconData(
     0xef8a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-meeting-room` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMeetingRoomSecondary = IconifyIconData(IconData(
+    0xef8a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-memory` — primary layer (full opacity)
+  static const IconifyIconData twotoneMemoryPrimary = IconifyIconData(IconData(
+    0xef8b,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-memory` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMemorySecondary = IconifyIconData(IconData(
+    0xef8b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-menu`
+  static const IconifyIconData twotoneMenu = IconifyIconData(IconData(
+    0xef8c,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-menu-book` — primary layer (full opacity)
+  static const IconifyIconData twotoneMenuBookPrimary = IconifyIconData(IconData(
+    0xef8d,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-menu-book` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMenuBookSecondary = IconifyIconData(IconData(
+    0xef8d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-menu-open`
   static const IconifyIconData twotoneMenuOpen = IconifyIconData(IconData(
-    0xef8b,
+    0xef8e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-merge`
   static const IconifyIconData twotoneMerge = IconifyIconData(IconData(
-    0xef8c,
+    0xef8f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-merge-type`
   static const IconifyIconData twotoneMergeType = IconifyIconData(IconData(
-    0xef8d,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-message`
-  static const IconifyIconData twotoneMessage = IconifyIconData(IconData(
-    0xef8e,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-mic`
-  static const IconifyIconData twotoneMic = IconifyIconData(IconData(
-    0xef8f,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-mic-external-off`
-  static const IconifyIconData twotoneMicExternalOff = IconifyIconData(IconData(
     0xef90,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-mic-external-on`
-  static const IconifyIconData twotoneMicExternalOn = IconifyIconData(IconData(
+  /// `twotone-message` — primary layer (full opacity)
+  static const IconifyIconData twotoneMessagePrimary = IconifyIconData(IconData(
     0xef91,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-mic-none`
-  static const IconifyIconData twotoneMicNone = IconifyIconData(IconData(
+  /// `twotone-message` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMessageSecondary = IconifyIconData(IconData(
+    0xef91,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mic` — primary layer (full opacity)
+  static const IconifyIconData twotoneMicPrimary = IconifyIconData(IconData(
     0xef92,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-mic-off`
-  static const IconifyIconData twotoneMicOff = IconifyIconData(IconData(
+  /// `twotone-mic` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMicSecondary = IconifyIconData(IconData(
+    0xef92,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mic-external-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneMicExternalOffPrimary = IconifyIconData(IconData(
     0xef93,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-microwave`
-  static const IconifyIconData twotoneMicrowave = IconifyIconData(IconData(
+  /// `twotone-mic-external-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMicExternalOffSecondary = IconifyIconData(IconData(
+    0xef93,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mic-external-on` — primary layer (full opacity)
+  static const IconifyIconData twotoneMicExternalOnPrimary = IconifyIconData(IconData(
     0xef94,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-military-tech`
-  static const IconifyIconData twotoneMilitaryTech = IconifyIconData(IconData(
+  /// `twotone-mic-external-on` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMicExternalOnSecondary = IconifyIconData(IconData(
+    0xef94,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mic-none` — primary layer (full opacity)
+  static const IconifyIconData twotoneMicNonePrimary = IconifyIconData(IconData(
     0xef95,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-minimize`
-  static const IconifyIconData twotoneMinimize = IconifyIconData(IconData(
+  /// `twotone-mic-none` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMicNoneSecondary = IconifyIconData(IconData(
+    0xef95,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mic-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneMicOffPrimary = IconifyIconData(IconData(
     0xef96,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-minor-crash`
-  static const IconifyIconData twotoneMinorCrash = IconifyIconData(IconData(
+  /// `twotone-mic-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMicOffSecondary = IconifyIconData(IconData(
+    0xef96,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-microwave` — primary layer (full opacity)
+  static const IconifyIconData twotoneMicrowavePrimary = IconifyIconData(IconData(
     0xef97,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-minus`
-  static const IconifyIconData twotoneMinus = IconifyIconData(IconData(
+  /// `twotone-microwave` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMicrowaveSecondary = IconifyIconData(IconData(
+    0xef97,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-military-tech` — primary layer (full opacity)
+  static const IconifyIconData twotoneMilitaryTechPrimary = IconifyIconData(IconData(
     0xef98,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-missed-video-call`
-  static const IconifyIconData twotoneMissedVideoCall = IconifyIconData(IconData(
+  /// `twotone-military-tech` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMilitaryTechSecondary = IconifyIconData(IconData(
+    0xef98,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-minimize`
+  static const IconifyIconData twotoneMinimize = IconifyIconData(IconData(
     0xef99,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-mms`
-  static const IconifyIconData twotoneMms = IconifyIconData(IconData(
+  /// `twotone-minor-crash` — primary layer (full opacity)
+  static const IconifyIconData twotoneMinorCrashPrimary = IconifyIconData(IconData(
     0xef9a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-minor-crash` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMinorCrashSecondary = IconifyIconData(IconData(
+    0xef9a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-minus`
+  static const IconifyIconData twotoneMinus = IconifyIconData(IconData(
+    0xef9b,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-missed-video-call` — primary layer (full opacity)
+  static const IconifyIconData twotoneMissedVideoCallPrimary = IconifyIconData(IconData(
+    0xef9c,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-missed-video-call` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMissedVideoCallSecondary = IconifyIconData(IconData(
+    0xef9c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mms` — primary layer (full opacity)
+  static const IconifyIconData twotoneMmsPrimary = IconifyIconData(IconData(
+    0xef9d,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mms` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMmsSecondary = IconifyIconData(IconData(
+    0xef9d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-mobile-friendly`
   static const IconifyIconData twotoneMobileFriendly = IconifyIconData(IconData(
-    0xef9b,
+    0xef9e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-mobile-off`
   static const IconifyIconData twotoneMobileOff = IconifyIconData(IconData(
-    0xef9c,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-mobile-screen-share`
-  static const IconifyIconData twotoneMobileScreenShare = IconifyIconData(IconData(
-    0xef9d,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-mobiledata-off`
-  static const IconifyIconData twotoneMobiledataOff = IconifyIconData(IconData(
-    0xef9e,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-mode-comment`
-  static const IconifyIconData twotoneModeComment = IconifyIconData(IconData(
     0xef9f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-mode-fan-off`
-  static const IconifyIconData twotoneModeFanOff = IconifyIconData(IconData(
+  /// `twotone-mobile-screen-share` — primary layer (full opacity)
+  static const IconifyIconData twotoneMobileScreenSharePrimary = IconifyIconData(IconData(
     0xefa0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-mode-night`
-  static const IconifyIconData twotoneModeNight = IconifyIconData(IconData(
+  /// `twotone-mobile-screen-share` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMobileScreenShareSecondary = IconifyIconData(IconData(
+    0xefa0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mobiledata-off`
+  static const IconifyIconData twotoneMobiledataOff = IconifyIconData(IconData(
     0xefa1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-mode-comment` — primary layer (full opacity)
+  static const IconifyIconData twotoneModeCommentPrimary = IconifyIconData(IconData(
+    0xefa2,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mode-comment` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneModeCommentSecondary = IconifyIconData(IconData(
+    0xefa2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mode-fan-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneModeFanOffPrimary = IconifyIconData(IconData(
+    0xefa3,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mode-fan-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneModeFanOffSecondary = IconifyIconData(IconData(
+    0xefa3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mode-night` — primary layer (full opacity)
+  static const IconifyIconData twotoneModeNightPrimary = IconifyIconData(IconData(
+    0xefa4,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mode-night` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneModeNightSecondary = IconifyIconData(IconData(
+    0xefa4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-mode-standby`
   static const IconifyIconData twotoneModeStandby = IconifyIconData(IconData(
-    0xefa2,
+    0xefa5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-model-training`
   static const IconifyIconData twotoneModelTraining = IconifyIconData(IconData(
-    0xefa3,
+    0xefa6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-monetization-on`
-  static const IconifyIconData twotoneMonetizationOn = IconifyIconData(IconData(
-    0xefa4,
+  /// `twotone-monetization-on` — primary layer (full opacity)
+  static const IconifyIconData twotoneMonetizationOnPrimary = IconifyIconData(IconData(
+    0xefa7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-money`
-  static const IconifyIconData twotoneMoney = IconifyIconData(IconData(
-    0xefa5,
+  /// `twotone-monetization-on` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMonetizationOnSecondary = IconifyIconData(IconData(
+    0xefa7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-money` — primary layer (full opacity)
+  static const IconifyIconData twotoneMoneyPrimary = IconifyIconData(IconData(
+    0xefa8,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-money` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMoneySecondary = IconifyIconData(IconData(
+    0xefa8,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-money-off`
   static const IconifyIconData twotoneMoneyOff = IconifyIconData(IconData(
-    0xefa6,
+    0xefa9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-money-off-csred`
   static const IconifyIconData twotoneMoneyOffCsred = IconifyIconData(IconData(
-    0xefa7,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-monitor`
-  static const IconifyIconData twotoneMonitor = IconifyIconData(IconData(
-    0xefa8,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-monitor-heart`
-  static const IconifyIconData twotoneMonitorHeart = IconifyIconData(IconData(
-    0xefa9,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-monitor-weight`
-  static const IconifyIconData twotoneMonitorWeight = IconifyIconData(IconData(
     0xefaa,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-monochrome-photos`
-  static const IconifyIconData twotoneMonochromePhotos = IconifyIconData(IconData(
+  /// `twotone-monitor` — primary layer (full opacity)
+  static const IconifyIconData twotoneMonitorPrimary = IconifyIconData(IconData(
     0xefab,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-mood`
-  static const IconifyIconData twotoneMood = IconifyIconData(IconData(
+  /// `twotone-monitor` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMonitorSecondary = IconifyIconData(IconData(
+    0xefab,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-monitor-heart` — primary layer (full opacity)
+  static const IconifyIconData twotoneMonitorHeartPrimary = IconifyIconData(IconData(
     0xefac,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-mood-bad`
-  static const IconifyIconData twotoneMoodBad = IconifyIconData(IconData(
+  /// `twotone-monitor-heart` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMonitorHeartSecondary = IconifyIconData(IconData(
+    0xefac,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-monitor-weight` — primary layer (full opacity)
+  static const IconifyIconData twotoneMonitorWeightPrimary = IconifyIconData(IconData(
     0xefad,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-moped`
-  static const IconifyIconData twotoneMoped = IconifyIconData(IconData(
+  /// `twotone-monitor-weight` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMonitorWeightSecondary = IconifyIconData(IconData(
+    0xefad,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-monochrome-photos` — primary layer (full opacity)
+  static const IconifyIconData twotoneMonochromePhotosPrimary = IconifyIconData(IconData(
     0xefae,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-more`
-  static const IconifyIconData twotoneMore = IconifyIconData(IconData(
+  /// `twotone-monochrome-photos` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMonochromePhotosSecondary = IconifyIconData(IconData(
+    0xefae,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mood` — primary layer (full opacity)
+  static const IconifyIconData twotoneMoodPrimary = IconifyIconData(IconData(
     0xefaf,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-mood` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMoodSecondary = IconifyIconData(IconData(
+    0xefaf,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mood-bad` — primary layer (full opacity)
+  static const IconifyIconData twotoneMoodBadPrimary = IconifyIconData(IconData(
+    0xefb0,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mood-bad` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMoodBadSecondary = IconifyIconData(IconData(
+    0xefb0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-moped` — primary layer (full opacity)
+  static const IconifyIconData twotoneMopedPrimary = IconifyIconData(IconData(
+    0xefb1,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-moped` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMopedSecondary = IconifyIconData(IconData(
+    0xefb1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-more` — primary layer (full opacity)
+  static const IconifyIconData twotoneMorePrimary = IconifyIconData(IconData(
+    0xefb2,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-more` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMoreSecondary = IconifyIconData(IconData(
+    0xefb2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-more-horiz`
   static const IconifyIconData twotoneMoreHoriz = IconifyIconData(IconData(
-    0xefb0,
+    0xefb3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-more-time`
   static const IconifyIconData twotoneMoreTime = IconifyIconData(IconData(
-    0xefb1,
+    0xefb4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-more-vert`
   static const IconifyIconData twotoneMoreVert = IconifyIconData(IconData(
-    0xefb2,
+    0xefb5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-mosque`
-  static const IconifyIconData twotoneMosque = IconifyIconData(IconData(
-    0xefb3,
+  /// `twotone-mosque` — primary layer (full opacity)
+  static const IconifyIconData twotoneMosquePrimary = IconifyIconData(IconData(
+    0xefb6,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mosque` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMosqueSecondary = IconifyIconData(IconData(
+    0xefb6,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-motion-photos-auto`
   static const IconifyIconData twotoneMotionPhotosAuto = IconifyIconData(IconData(
-    0xefb4,
+    0xefb7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-motion-photos-off`
   static const IconifyIconData twotoneMotionPhotosOff = IconifyIconData(IconData(
-    0xefb5,
+    0xefb8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-motion-photos-on`
   static const IconifyIconData twotoneMotionPhotosOn = IconifyIconData(IconData(
-    0xefb6,
+    0xefb9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-motion-photos-pause`
   static const IconifyIconData twotoneMotionPhotosPause = IconifyIconData(IconData(
-    0xefb7,
+    0xefba,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-motion-photos-paused`
   static const IconifyIconData twotoneMotionPhotosPaused = IconifyIconData(IconData(
-    0xefb8,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-motorcycle`
-  static const IconifyIconData twotoneMotorcycle = IconifyIconData(IconData(
-    0xefb9,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-mouse`
-  static const IconifyIconData twotoneMouse = IconifyIconData(IconData(
-    0xefba,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-move-down`
-  static const IconifyIconData twotoneMoveDown = IconifyIconData(IconData(
     0xefbb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-move-to-inbox`
-  static const IconifyIconData twotoneMoveToInbox = IconifyIconData(IconData(
+  /// `twotone-motorcycle` — primary layer (full opacity)
+  static const IconifyIconData twotoneMotorcyclePrimary = IconifyIconData(IconData(
     0xefbc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-move-up`
-  static const IconifyIconData twotoneMoveUp = IconifyIconData(IconData(
+  /// `twotone-motorcycle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMotorcycleSecondary = IconifyIconData(IconData(
+    0xefbc,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mouse` — primary layer (full opacity)
+  static const IconifyIconData twotoneMousePrimary = IconifyIconData(IconData(
     0xefbd,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-movie`
-  static const IconifyIconData twotoneMovie = IconifyIconData(IconData(
+  /// `twotone-mouse` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMouseSecondary = IconifyIconData(IconData(
+    0xefbd,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-move-down` — primary layer (full opacity)
+  static const IconifyIconData twotoneMoveDownPrimary = IconifyIconData(IconData(
     0xefbe,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-movie-creation`
-  static const IconifyIconData twotoneMovieCreation = IconifyIconData(IconData(
+  /// `twotone-move-down` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMoveDownSecondary = IconifyIconData(IconData(
+    0xefbe,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-move-to-inbox` — primary layer (full opacity)
+  static const IconifyIconData twotoneMoveToInboxPrimary = IconifyIconData(IconData(
     0xefbf,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-movie-filter`
-  static const IconifyIconData twotoneMovieFilter = IconifyIconData(IconData(
+  /// `twotone-move-to-inbox` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMoveToInboxSecondary = IconifyIconData(IconData(
+    0xefbf,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-move-up` — primary layer (full opacity)
+  static const IconifyIconData twotoneMoveUpPrimary = IconifyIconData(IconData(
     0xefc0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-mp`
-  static const IconifyIconData twotoneMp = IconifyIconData(IconData(
+  /// `twotone-move-up` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMoveUpSecondary = IconifyIconData(IconData(
+    0xefc0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-movie` — primary layer (full opacity)
+  static const IconifyIconData twotoneMoviePrimary = IconifyIconData(IconData(
     0xefc1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-movie` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMovieSecondary = IconifyIconData(IconData(
+    0xefc1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-movie-creation` — primary layer (full opacity)
+  static const IconifyIconData twotoneMovieCreationPrimary = IconifyIconData(IconData(
+    0xefc2,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-movie-creation` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMovieCreationSecondary = IconifyIconData(IconData(
+    0xefc2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-movie-filter` — primary layer (full opacity)
+  static const IconifyIconData twotoneMovieFilterPrimary = IconifyIconData(IconData(
+    0xefc3,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-movie-filter` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMovieFilterSecondary = IconifyIconData(IconData(
+    0xefc3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mp` — primary layer (full opacity)
+  static const IconifyIconData twotoneMpPrimary = IconifyIconData(IconData(
+    0xefc4,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-mp` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMpSecondary = IconifyIconData(IconData(
+    0xefc4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-multiline-chart`
   static const IconifyIconData twotoneMultilineChart = IconifyIconData(IconData(
-    0xefc2,
+    0xefc5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-multiple-stop`
   static const IconifyIconData twotoneMultipleStop = IconifyIconData(IconData(
-    0xefc3,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-museum`
-  static const IconifyIconData twotoneMuseum = IconifyIconData(IconData(
-    0xefc4,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-music-note`
-  static const IconifyIconData twotoneMusicNote = IconifyIconData(IconData(
-    0xefc5,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-music-off`
-  static const IconifyIconData twotoneMusicOff = IconifyIconData(IconData(
     0xefc6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-music-video`
-  static const IconifyIconData twotoneMusicVideo = IconifyIconData(IconData(
+  /// `twotone-museum` — primary layer (full opacity)
+  static const IconifyIconData twotoneMuseumPrimary = IconifyIconData(IconData(
     0xefc7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-my-location`
-  static const IconifyIconData twotoneMyLocation = IconifyIconData(IconData(
+  /// `twotone-museum` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMuseumSecondary = IconifyIconData(IconData(
+    0xefc7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-music-note` — primary layer (full opacity)
+  static const IconifyIconData twotoneMusicNotePrimary = IconifyIconData(IconData(
     0xefc8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-nat`
-  static const IconifyIconData twotoneNat = IconifyIconData(IconData(
+  /// `twotone-music-note` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMusicNoteSecondary = IconifyIconData(IconData(
+    0xefc8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-music-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneMusicOffPrimary = IconifyIconData(IconData(
     0xefc9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-nature`
-  static const IconifyIconData twotoneNature = IconifyIconData(IconData(
+  /// `twotone-music-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMusicOffSecondary = IconifyIconData(IconData(
+    0xefc9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-music-video` — primary layer (full opacity)
+  static const IconifyIconData twotoneMusicVideoPrimary = IconifyIconData(IconData(
     0xefca,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-nature-people`
-  static const IconifyIconData twotoneNaturePeople = IconifyIconData(IconData(
+  /// `twotone-music-video` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMusicVideoSecondary = IconifyIconData(IconData(
+    0xefca,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-my-location` — primary layer (full opacity)
+  static const IconifyIconData twotoneMyLocationPrimary = IconifyIconData(IconData(
     0xefcb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-my-location` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneMyLocationSecondary = IconifyIconData(IconData(
+    0xefcb,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-nat` — primary layer (full opacity)
+  static const IconifyIconData twotoneNatPrimary = IconifyIconData(IconData(
+    0xefcc,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-nat` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNatSecondary = IconifyIconData(IconData(
+    0xefcc,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-nature` — primary layer (full opacity)
+  static const IconifyIconData twotoneNaturePrimary = IconifyIconData(IconData(
+    0xefcd,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-nature` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNatureSecondary = IconifyIconData(IconData(
+    0xefcd,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-nature-people` — primary layer (full opacity)
+  static const IconifyIconData twotoneNaturePeoplePrimary = IconifyIconData(IconData(
+    0xefce,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-nature-people` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNaturePeopleSecondary = IconifyIconData(IconData(
+    0xefce,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-navigate-before`
   static const IconifyIconData twotoneNavigateBefore = IconifyIconData(IconData(
-    0xefcc,
+    0xefcf,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-navigate-next`
   static const IconifyIconData twotoneNavigateNext = IconifyIconData(IconData(
-    0xefcd,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-navigation`
-  static const IconifyIconData twotoneNavigation = IconifyIconData(IconData(
-    0xefce,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-near-me`
-  static const IconifyIconData twotoneNearMe = IconifyIconData(IconData(
-    0xefcf,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-near-me-disabled`
-  static const IconifyIconData twotoneNearMeDisabled = IconifyIconData(IconData(
     0xefd0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-navigation` — primary layer (full opacity)
+  static const IconifyIconData twotoneNavigationPrimary = IconifyIconData(IconData(
+    0xefd1,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-navigation` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNavigationSecondary = IconifyIconData(IconData(
+    0xefd1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-near-me` — primary layer (full opacity)
+  static const IconifyIconData twotoneNearMePrimary = IconifyIconData(IconData(
+    0xefd2,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-near-me` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNearMeSecondary = IconifyIconData(IconData(
+    0xefd2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-near-me-disabled` — primary layer (full opacity)
+  static const IconifyIconData twotoneNearMeDisabledPrimary = IconifyIconData(IconData(
+    0xefd3,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-near-me-disabled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNearMeDisabledSecondary = IconifyIconData(IconData(
+    0xefd3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-nearby-error`
   static const IconifyIconData twotoneNearbyError = IconifyIconData(IconData(
-    0xefd1,
+    0xefd4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-nearby-off`
   static const IconifyIconData twotoneNearbyOff = IconifyIconData(IconData(
-    0xefd2,
+    0xefd5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-nest-cam-wired-stand`
-  static const IconifyIconData twotoneNestCamWiredStand = IconifyIconData(IconData(
-    0xefd3,
+  /// `twotone-nest-cam-wired-stand` — primary layer (full opacity)
+  static const IconifyIconData twotoneNestCamWiredStandPrimary = IconifyIconData(IconData(
+    0xefd6,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-nest-cam-wired-stand` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNestCamWiredStandSecondary = IconifyIconData(IconData(
+    0xefd6,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-network-cell`
   static const IconifyIconData twotoneNetworkCell = IconifyIconData(IconData(
-    0xefd4,
+    0xefd7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-network-check`
   static const IconifyIconData twotoneNetworkCheck = IconifyIconData(IconData(
-    0xefd5,
+    0xefd8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-network-locked`
   static const IconifyIconData twotoneNetworkLocked = IconifyIconData(IconData(
-    0xefd6,
+    0xefd9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-network-ping`
   static const IconifyIconData twotoneNetworkPing = IconifyIconData(IconData(
-    0xefd7,
+    0xefda,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-network-wifi`
   static const IconifyIconData twotoneNetworkWifi = IconifyIconData(IconData(
-    0xefd8,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-network-wifi-1-bar`
-  static const IconifyIconData twotoneNetworkWifi1Bar = IconifyIconData(IconData(
-    0xefd9,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-network-wifi-2-bar`
-  static const IconifyIconData twotoneNetworkWifi2Bar = IconifyIconData(IconData(
-    0xefda,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-network-wifi-3-bar`
-  static const IconifyIconData twotoneNetworkWifi3Bar = IconifyIconData(IconData(
     0xefdb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-new-label`
-  static const IconifyIconData twotoneNewLabel = IconifyIconData(IconData(
+  /// `twotone-network-wifi-1-bar` — primary layer (full opacity)
+  static const IconifyIconData twotoneNetworkWifi1BarPrimary = IconifyIconData(IconData(
     0xefdc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-new-releases`
-  static const IconifyIconData twotoneNewReleases = IconifyIconData(IconData(
+  /// `twotone-network-wifi-1-bar` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNetworkWifi1BarSecondary = IconifyIconData(IconData(
+    0xefdc,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-network-wifi-2-bar` — primary layer (full opacity)
+  static const IconifyIconData twotoneNetworkWifi2BarPrimary = IconifyIconData(IconData(
     0xefdd,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-newspaper`
-  static const IconifyIconData twotoneNewspaper = IconifyIconData(IconData(
+  /// `twotone-network-wifi-2-bar` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNetworkWifi2BarSecondary = IconifyIconData(IconData(
+    0xefdd,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-network-wifi-3-bar` — primary layer (full opacity)
+  static const IconifyIconData twotoneNetworkWifi3BarPrimary = IconifyIconData(IconData(
     0xefde,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-next-plan`
-  static const IconifyIconData twotoneNextPlan = IconifyIconData(IconData(
+  /// `twotone-network-wifi-3-bar` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNetworkWifi3BarSecondary = IconifyIconData(IconData(
+    0xefde,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-new-label` — primary layer (full opacity)
+  static const IconifyIconData twotoneNewLabelPrimary = IconifyIconData(IconData(
     0xefdf,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-next-week`
-  static const IconifyIconData twotoneNextWeek = IconifyIconData(IconData(
+  /// `twotone-new-label` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNewLabelSecondary = IconifyIconData(IconData(
+    0xefdf,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-new-releases` — primary layer (full opacity)
+  static const IconifyIconData twotoneNewReleasesPrimary = IconifyIconData(IconData(
     0xefe0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-nfc`
-  static const IconifyIconData twotoneNfc = IconifyIconData(IconData(
+  /// `twotone-new-releases` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNewReleasesSecondary = IconifyIconData(IconData(
+    0xefe0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-newspaper`
+  static const IconifyIconData twotoneNewspaper = IconifyIconData(IconData(
     0xefe1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-night-shelter`
-  static const IconifyIconData twotoneNightShelter = IconifyIconData(IconData(
+  /// `twotone-next-plan` — primary layer (full opacity)
+  static const IconifyIconData twotoneNextPlanPrimary = IconifyIconData(IconData(
     0xefe2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-nightlife`
-  static const IconifyIconData twotoneNightlife = IconifyIconData(IconData(
+  /// `twotone-next-plan` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNextPlanSecondary = IconifyIconData(IconData(
+    0xefe2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-next-week` — primary layer (full opacity)
+  static const IconifyIconData twotoneNextWeekPrimary = IconifyIconData(IconData(
     0xefe3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-nightlight`
-  static const IconifyIconData twotoneNightlight = IconifyIconData(IconData(
+  /// `twotone-next-week` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNextWeekSecondary = IconifyIconData(IconData(
+    0xefe3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-nfc`
+  static const IconifyIconData twotoneNfc = IconifyIconData(IconData(
     0xefe4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-nightlight-round`
-  static const IconifyIconData twotoneNightlightRound = IconifyIconData(IconData(
+  /// `twotone-night-shelter` — primary layer (full opacity)
+  static const IconifyIconData twotoneNightShelterPrimary = IconifyIconData(IconData(
     0xefe5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-nights-stay`
-  static const IconifyIconData twotoneNightsStay = IconifyIconData(IconData(
+  /// `twotone-night-shelter` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNightShelterSecondary = IconifyIconData(IconData(
+    0xefe5,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-nightlife`
+  static const IconifyIconData twotoneNightlife = IconifyIconData(IconData(
     0xefe6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-no-accounts`
-  static const IconifyIconData twotoneNoAccounts = IconifyIconData(IconData(
+  /// `twotone-nightlight` — primary layer (full opacity)
+  static const IconifyIconData twotoneNightlightPrimary = IconifyIconData(IconData(
     0xefe7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-no-adult-content`
-  static const IconifyIconData twotoneNoAdultContent = IconifyIconData(IconData(
+  /// `twotone-nightlight` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNightlightSecondary = IconifyIconData(IconData(
+    0xefe7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-nightlight-round`
+  static const IconifyIconData twotoneNightlightRound = IconifyIconData(IconData(
     0xefe8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-no-backpack`
-  static const IconifyIconData twotoneNoBackpack = IconifyIconData(IconData(
+  /// `twotone-nights-stay` — primary layer (full opacity)
+  static const IconifyIconData twotoneNightsStayPrimary = IconifyIconData(IconData(
     0xefe9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-no-cell`
-  static const IconifyIconData twotoneNoCell = IconifyIconData(IconData(
+  /// `twotone-nights-stay` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNightsStaySecondary = IconifyIconData(IconData(
+    0xefe9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-no-accounts` — primary layer (full opacity)
+  static const IconifyIconData twotoneNoAccountsPrimary = IconifyIconData(IconData(
     0xefea,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-no-crash`
-  static const IconifyIconData twotoneNoCrash = IconifyIconData(IconData(
+  /// `twotone-no-accounts` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNoAccountsSecondary = IconifyIconData(IconData(
+    0xefea,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-no-adult-content`
+  static const IconifyIconData twotoneNoAdultContent = IconifyIconData(IconData(
     0xefeb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-no-drinks`
-  static const IconifyIconData twotoneNoDrinks = IconifyIconData(IconData(
+  /// `twotone-no-backpack` — primary layer (full opacity)
+  static const IconifyIconData twotoneNoBackpackPrimary = IconifyIconData(IconData(
     0xefec,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-no-encryption`
-  static const IconifyIconData twotoneNoEncryption = IconifyIconData(IconData(
+  /// `twotone-no-backpack` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNoBackpackSecondary = IconifyIconData(IconData(
+    0xefec,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-no-cell` — primary layer (full opacity)
+  static const IconifyIconData twotoneNoCellPrimary = IconifyIconData(IconData(
     0xefed,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-no-encryption-gmailerrorred`
-  static const IconifyIconData twotoneNoEncryptionGmailerrorred = IconifyIconData(IconData(
+  /// `twotone-no-cell` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNoCellSecondary = IconifyIconData(IconData(
+    0xefed,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-no-crash` — primary layer (full opacity)
+  static const IconifyIconData twotoneNoCrashPrimary = IconifyIconData(IconData(
     0xefee,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-no-flash`
-  static const IconifyIconData twotoneNoFlash = IconifyIconData(IconData(
+  /// `twotone-no-crash` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNoCrashSecondary = IconifyIconData(IconData(
+    0xefee,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-no-drinks` — primary layer (full opacity)
+  static const IconifyIconData twotoneNoDrinksPrimary = IconifyIconData(IconData(
     0xefef,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-no-food`
-  static const IconifyIconData twotoneNoFood = IconifyIconData(IconData(
+  /// `twotone-no-drinks` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNoDrinksSecondary = IconifyIconData(IconData(
+    0xefef,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-no-encryption` — primary layer (full opacity)
+  static const IconifyIconData twotoneNoEncryptionPrimary = IconifyIconData(IconData(
     0xeff0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-no-luggage`
-  static const IconifyIconData twotoneNoLuggage = IconifyIconData(IconData(
+  /// `twotone-no-encryption` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNoEncryptionSecondary = IconifyIconData(IconData(
+    0xeff0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-no-encryption-gmailerrorred` — primary layer (full opacity)
+  static const IconifyIconData twotoneNoEncryptionGmailerrorredPrimary = IconifyIconData(IconData(
     0xeff1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-no-meals`
-  static const IconifyIconData twotoneNoMeals = IconifyIconData(IconData(
+  /// `twotone-no-encryption-gmailerrorred` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNoEncryptionGmailerrorredSecondary = IconifyIconData(IconData(
+    0xeff1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-no-flash` — primary layer (full opacity)
+  static const IconifyIconData twotoneNoFlashPrimary = IconifyIconData(IconData(
     0xeff2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-no-meeting-room`
-  static const IconifyIconData twotoneNoMeetingRoom = IconifyIconData(IconData(
+  /// `twotone-no-flash` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNoFlashSecondary = IconifyIconData(IconData(
+    0xeff2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-no-food` — primary layer (full opacity)
+  static const IconifyIconData twotoneNoFoodPrimary = IconifyIconData(IconData(
     0xeff3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-no-photography`
-  static const IconifyIconData twotoneNoPhotography = IconifyIconData(IconData(
+  /// `twotone-no-food` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNoFoodSecondary = IconifyIconData(IconData(
+    0xeff3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-no-luggage` — primary layer (full opacity)
+  static const IconifyIconData twotoneNoLuggagePrimary = IconifyIconData(IconData(
     0xeff4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-no-sim`
-  static const IconifyIconData twotoneNoSim = IconifyIconData(IconData(
+  /// `twotone-no-luggage` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNoLuggageSecondary = IconifyIconData(IconData(
+    0xeff4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-no-meals`
+  static const IconifyIconData twotoneNoMeals = IconifyIconData(IconData(
     0xeff5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-no-stroller`
-  static const IconifyIconData twotoneNoStroller = IconifyIconData(IconData(
+  /// `twotone-no-meeting-room` — primary layer (full opacity)
+  static const IconifyIconData twotoneNoMeetingRoomPrimary = IconifyIconData(IconData(
     0xeff6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-no-transfer`
-  static const IconifyIconData twotoneNoTransfer = IconifyIconData(IconData(
+  /// `twotone-no-meeting-room` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNoMeetingRoomSecondary = IconifyIconData(IconData(
+    0xeff6,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-no-photography` — primary layer (full opacity)
+  static const IconifyIconData twotoneNoPhotographyPrimary = IconifyIconData(IconData(
     0xeff7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-no-photography` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNoPhotographySecondary = IconifyIconData(IconData(
+    0xeff7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-no-sim` — primary layer (full opacity)
+  static const IconifyIconData twotoneNoSimPrimary = IconifyIconData(IconData(
+    0xeff8,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-no-sim` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNoSimSecondary = IconifyIconData(IconData(
+    0xeff8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-no-stroller` — primary layer (full opacity)
+  static const IconifyIconData twotoneNoStrollerPrimary = IconifyIconData(IconData(
+    0xeff9,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-no-stroller` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNoStrollerSecondary = IconifyIconData(IconData(
+    0xeff9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-no-transfer` — primary layer (full opacity)
+  static const IconifyIconData twotoneNoTransferPrimary = IconifyIconData(IconData(
+    0xeffa,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-no-transfer` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNoTransferSecondary = IconifyIconData(IconData(
+    0xeffa,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-noise-control-off`
   static const IconifyIconData twotoneNoiseControlOff = IconifyIconData(IconData(
-    0xeff8,
+    0xeffb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-nordic-walking`
   static const IconifyIconData twotoneNordicWalking = IconifyIconData(IconData(
-    0xeff9,
+    0xeffc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-north`
   static const IconifyIconData twotoneNorth = IconifyIconData(IconData(
-    0xeffa,
+    0xeffd,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-north-east`
   static const IconifyIconData twotoneNorthEast = IconifyIconData(IconData(
-    0xeffb,
+    0xeffe,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-north-west`
   static const IconifyIconData twotoneNorthWest = IconifyIconData(IconData(
-    0xeffc,
+    0xefff,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-not-accessible`
   static const IconifyIconData twotoneNotAccessible = IconifyIconData(IconData(
-    0xeffd,
+    0xf000,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-not-equal`
   static const IconifyIconData twotoneNotEqual = IconifyIconData(IconData(
-    0xeffe,
+    0xf001,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-not-interested`
   static const IconifyIconData twotoneNotInterested = IconifyIconData(IconData(
-    0xefff,
+    0xf002,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-not-listed-location`
   static const IconifyIconData twotoneNotListedLocation = IconifyIconData(IconData(
-    0xf000,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-not-started`
-  static const IconifyIconData twotoneNotStarted = IconifyIconData(IconData(
-    0xf001,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-note`
-  static const IconifyIconData twotoneNote = IconifyIconData(IconData(
-    0xf002,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-note-add`
-  static const IconifyIconData twotoneNoteAdd = IconifyIconData(IconData(
     0xf003,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-note-alt`
-  static const IconifyIconData twotoneNoteAlt = IconifyIconData(IconData(
+  /// `twotone-not-started` — primary layer (full opacity)
+  static const IconifyIconData twotoneNotStartedPrimary = IconifyIconData(IconData(
     0xf004,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-not-started` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNotStartedSecondary = IconifyIconData(IconData(
+    0xf004,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-note` — primary layer (full opacity)
+  static const IconifyIconData twotoneNotePrimary = IconifyIconData(IconData(
+    0xf005,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-note` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNoteSecondary = IconifyIconData(IconData(
+    0xf005,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-note-add` — primary layer (full opacity)
+  static const IconifyIconData twotoneNoteAddPrimary = IconifyIconData(IconData(
+    0xf006,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-note-add` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNoteAddSecondary = IconifyIconData(IconData(
+    0xf006,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-note-alt` — primary layer (full opacity)
+  static const IconifyIconData twotoneNoteAltPrimary = IconifyIconData(IconData(
+    0xf007,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-note-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNoteAltSecondary = IconifyIconData(IconData(
+    0xf007,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-notes`
   static const IconifyIconData twotoneNotes = IconifyIconData(IconData(
-    0xf005,
+    0xf008,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-notification-add`
   static const IconifyIconData twotoneNotificationAdd = IconifyIconData(IconData(
-    0xf006,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-notification-important`
-  static const IconifyIconData twotoneNotificationImportant = IconifyIconData(IconData(
-    0xf007,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-notifications`
-  static const IconifyIconData twotoneNotifications = IconifyIconData(IconData(
-    0xf008,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-notifications-active`
-  static const IconifyIconData twotoneNotificationsActive = IconifyIconData(IconData(
     0xf009,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-notifications-none`
-  static const IconifyIconData twotoneNotificationsNone = IconifyIconData(IconData(
+  /// `twotone-notification-important` — primary layer (full opacity)
+  static const IconifyIconData twotoneNotificationImportantPrimary = IconifyIconData(IconData(
     0xf00a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-notifications-off`
-  static const IconifyIconData twotoneNotificationsOff = IconifyIconData(IconData(
+  /// `twotone-notification-important` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNotificationImportantSecondary = IconifyIconData(IconData(
+    0xf00a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-notifications` — primary layer (full opacity)
+  static const IconifyIconData twotoneNotificationsPrimary = IconifyIconData(IconData(
     0xf00b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-notifications-paused`
-  static const IconifyIconData twotoneNotificationsPaused = IconifyIconData(IconData(
+  /// `twotone-notifications` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNotificationsSecondary = IconifyIconData(IconData(
+    0xf00b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-notifications-active` — primary layer (full opacity)
+  static const IconifyIconData twotoneNotificationsActivePrimary = IconifyIconData(IconData(
     0xf00c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-numbers`
-  static const IconifyIconData twotoneNumbers = IconifyIconData(IconData(
+  /// `twotone-notifications-active` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNotificationsActiveSecondary = IconifyIconData(IconData(
+    0xf00c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-notifications-none` — primary layer (full opacity)
+  static const IconifyIconData twotoneNotificationsNonePrimary = IconifyIconData(IconData(
     0xf00d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-offline-bolt`
-  static const IconifyIconData twotoneOfflineBolt = IconifyIconData(IconData(
+  /// `twotone-notifications-none` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNotificationsNoneSecondary = IconifyIconData(IconData(
+    0xf00d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-notifications-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneNotificationsOffPrimary = IconifyIconData(IconData(
     0xf00e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-offline-pin`
-  static const IconifyIconData twotoneOfflinePin = IconifyIconData(IconData(
+  /// `twotone-notifications-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNotificationsOffSecondary = IconifyIconData(IconData(
+    0xf00e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-notifications-paused` — primary layer (full opacity)
+  static const IconifyIconData twotoneNotificationsPausedPrimary = IconifyIconData(IconData(
     0xf00f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-offline-share`
-  static const IconifyIconData twotoneOfflineShare = IconifyIconData(IconData(
+  /// `twotone-notifications-paused` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneNotificationsPausedSecondary = IconifyIconData(IconData(
+    0xf00f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-numbers`
+  static const IconifyIconData twotoneNumbers = IconifyIconData(IconData(
     0xf010,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-oil-barrel`
-  static const IconifyIconData twotoneOilBarrel = IconifyIconData(IconData(
+  /// `twotone-offline-bolt` — primary layer (full opacity)
+  static const IconifyIconData twotoneOfflineBoltPrimary = IconifyIconData(IconData(
     0xf011,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-on-device-training`
-  static const IconifyIconData twotoneOnDeviceTraining = IconifyIconData(IconData(
+  /// `twotone-offline-bolt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneOfflineBoltSecondary = IconifyIconData(IconData(
+    0xf011,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-offline-pin` — primary layer (full opacity)
+  static const IconifyIconData twotoneOfflinePinPrimary = IconifyIconData(IconData(
     0xf012,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-ondemand-video`
-  static const IconifyIconData twotoneOndemandVideo = IconifyIconData(IconData(
+  /// `twotone-offline-pin` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneOfflinePinSecondary = IconifyIconData(IconData(
+    0xf012,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-offline-share`
+  static const IconifyIconData twotoneOfflineShare = IconifyIconData(IconData(
     0xf013,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-online-prediction`
-  static const IconifyIconData twotoneOnlinePrediction = IconifyIconData(IconData(
+  /// `twotone-oil-barrel` — primary layer (full opacity)
+  static const IconifyIconData twotoneOilBarrelPrimary = IconifyIconData(IconData(
     0xf014,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-opacity`
-  static const IconifyIconData twotoneOpacity = IconifyIconData(IconData(
+  /// `twotone-oil-barrel` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneOilBarrelSecondary = IconifyIconData(IconData(
+    0xf014,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-on-device-training` — primary layer (full opacity)
+  static const IconifyIconData twotoneOnDeviceTrainingPrimary = IconifyIconData(IconData(
     0xf015,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-on-device-training` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneOnDeviceTrainingSecondary = IconifyIconData(IconData(
+    0xf015,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-ondemand-video` — primary layer (full opacity)
+  static const IconifyIconData twotoneOndemandVideoPrimary = IconifyIconData(IconData(
+    0xf016,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-ondemand-video` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneOndemandVideoSecondary = IconifyIconData(IconData(
+    0xf016,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-online-prediction`
+  static const IconifyIconData twotoneOnlinePrediction = IconifyIconData(IconData(
+    0xf017,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-opacity` — primary layer (full opacity)
+  static const IconifyIconData twotoneOpacityPrimary = IconifyIconData(IconData(
+    0xf018,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-opacity` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneOpacitySecondary = IconifyIconData(IconData(
+    0xf018,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-open-in-browser`
   static const IconifyIconData twotoneOpenInBrowser = IconifyIconData(IconData(
-    0xf016,
+    0xf019,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-open-in-full`
   static const IconifyIconData twotoneOpenInFull = IconifyIconData(IconData(
-    0xf017,
+    0xf01a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-open-in-new`
   static const IconifyIconData twotoneOpenInNew = IconifyIconData(IconData(
-    0xf018,
+    0xf01b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-open-in-new-off`
   static const IconifyIconData twotoneOpenInNewOff = IconifyIconData(IconData(
-    0xf019,
+    0xf01c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-open-with`
   static const IconifyIconData twotoneOpenWith = IconifyIconData(IconData(
-    0xf01a,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-other-houses`
-  static const IconifyIconData twotoneOtherHouses = IconifyIconData(IconData(
-    0xf01b,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-outbond`
-  static const IconifyIconData twotoneOutbond = IconifyIconData(IconData(
-    0xf01c,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-outbound`
-  static const IconifyIconData twotoneOutbound = IconifyIconData(IconData(
     0xf01d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-outbox`
-  static const IconifyIconData twotoneOutbox = IconifyIconData(IconData(
+  /// `twotone-other-houses` — primary layer (full opacity)
+  static const IconifyIconData twotoneOtherHousesPrimary = IconifyIconData(IconData(
     0xf01e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-outdoor-grill`
-  static const IconifyIconData twotoneOutdoorGrill = IconifyIconData(IconData(
+  /// `twotone-other-houses` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneOtherHousesSecondary = IconifyIconData(IconData(
+    0xf01e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-outbond` — primary layer (full opacity)
+  static const IconifyIconData twotoneOutbondPrimary = IconifyIconData(IconData(
     0xf01f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-outlet`
-  static const IconifyIconData twotoneOutlet = IconifyIconData(IconData(
+  /// `twotone-outbond` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneOutbondSecondary = IconifyIconData(IconData(
+    0xf01f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-outbound` — primary layer (full opacity)
+  static const IconifyIconData twotoneOutboundPrimary = IconifyIconData(IconData(
     0xf020,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-outbound` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneOutboundSecondary = IconifyIconData(IconData(
+    0xf020,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-outbox` — primary layer (full opacity)
+  static const IconifyIconData twotoneOutboxPrimary = IconifyIconData(IconData(
+    0xf021,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-outbox` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneOutboxSecondary = IconifyIconData(IconData(
+    0xf021,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-outdoor-grill` — primary layer (full opacity)
+  static const IconifyIconData twotoneOutdoorGrillPrimary = IconifyIconData(IconData(
+    0xf022,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-outdoor-grill` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneOutdoorGrillSecondary = IconifyIconData(IconData(
+    0xf022,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-outlet` — primary layer (full opacity)
+  static const IconifyIconData twotoneOutletPrimary = IconifyIconData(IconData(
+    0xf023,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-outlet` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneOutletSecondary = IconifyIconData(IconData(
+    0xf023,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-outlined-flag`
   static const IconifyIconData twotoneOutlinedFlag = IconifyIconData(IconData(
-    0xf021,
+    0xf024,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-output`
   static const IconifyIconData twotoneOutput = IconifyIconData(IconData(
-    0xf022,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-padding`
-  static const IconifyIconData twotonePadding = IconifyIconData(IconData(
-    0xf023,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-pages`
-  static const IconifyIconData twotonePages = IconifyIconData(IconData(
-    0xf024,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-pageview`
-  static const IconifyIconData twotonePageview = IconifyIconData(IconData(
     0xf025,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-paid`
-  static const IconifyIconData twotonePaid = IconifyIconData(IconData(
+  /// `twotone-padding` — primary layer (full opacity)
+  static const IconifyIconData twotonePaddingPrimary = IconifyIconData(IconData(
     0xf026,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-pan-tool`
-  static const IconifyIconData twotonePanTool = IconifyIconData(IconData(
+  /// `twotone-padding` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePaddingSecondary = IconifyIconData(IconData(
+    0xf026,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-pages` — primary layer (full opacity)
+  static const IconifyIconData twotonePagesPrimary = IconifyIconData(IconData(
     0xf027,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-pan-tool-alt`
-  static const IconifyIconData twotonePanToolAlt = IconifyIconData(IconData(
+  /// `twotone-pages` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePagesSecondary = IconifyIconData(IconData(
+    0xf027,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-pageview` — primary layer (full opacity)
+  static const IconifyIconData twotonePageviewPrimary = IconifyIconData(IconData(
     0xf028,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-panorama`
-  static const IconifyIconData twotonePanorama = IconifyIconData(IconData(
+  /// `twotone-pageview` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePageviewSecondary = IconifyIconData(IconData(
+    0xf028,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-paid` — primary layer (full opacity)
+  static const IconifyIconData twotonePaidPrimary = IconifyIconData(IconData(
     0xf029,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-panorama-fish-eye`
-  static const IconifyIconData twotonePanoramaFishEye = IconifyIconData(IconData(
+  /// `twotone-paid` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePaidSecondary = IconifyIconData(IconData(
+    0xf029,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-pan-tool` — primary layer (full opacity)
+  static const IconifyIconData twotonePanToolPrimary = IconifyIconData(IconData(
     0xf02a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-panorama-horizontal`
-  static const IconifyIconData twotonePanoramaHorizontal = IconifyIconData(IconData(
+  /// `twotone-pan-tool` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePanToolSecondary = IconifyIconData(IconData(
+    0xf02a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-pan-tool-alt` — primary layer (full opacity)
+  static const IconifyIconData twotonePanToolAltPrimary = IconifyIconData(IconData(
     0xf02b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-panorama-horizontal-select`
-  static const IconifyIconData twotonePanoramaHorizontalSelect = IconifyIconData(IconData(
+  /// `twotone-pan-tool-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePanToolAltSecondary = IconifyIconData(IconData(
+    0xf02b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-panorama` — primary layer (full opacity)
+  static const IconifyIconData twotonePanoramaPrimary = IconifyIconData(IconData(
     0xf02c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-panorama-photosphere`
-  static const IconifyIconData twotonePanoramaPhotosphere = IconifyIconData(IconData(
+  /// `twotone-panorama` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePanoramaSecondary = IconifyIconData(IconData(
+    0xf02c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-panorama-fish-eye` — primary layer (full opacity)
+  static const IconifyIconData twotonePanoramaFishEyePrimary = IconifyIconData(IconData(
     0xf02d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-panorama-photosphere-select`
-  static const IconifyIconData twotonePanoramaPhotosphereSelect = IconifyIconData(IconData(
+  /// `twotone-panorama-fish-eye` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePanoramaFishEyeSecondary = IconifyIconData(IconData(
+    0xf02d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-panorama-horizontal` — primary layer (full opacity)
+  static const IconifyIconData twotonePanoramaHorizontalPrimary = IconifyIconData(IconData(
     0xf02e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-panorama-vertical`
-  static const IconifyIconData twotonePanoramaVertical = IconifyIconData(IconData(
+  /// `twotone-panorama-horizontal` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePanoramaHorizontalSecondary = IconifyIconData(IconData(
+    0xf02e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-panorama-horizontal-select` — primary layer (full opacity)
+  static const IconifyIconData twotonePanoramaHorizontalSelectPrimary = IconifyIconData(IconData(
     0xf02f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-panorama-wide-angle`
-  static const IconifyIconData twotonePanoramaWideAngle = IconifyIconData(IconData(
+  /// `twotone-panorama-horizontal-select` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePanoramaHorizontalSelectSecondary = IconifyIconData(IconData(
+    0xf02f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-panorama-photosphere` — primary layer (full opacity)
+  static const IconifyIconData twotonePanoramaPhotospherePrimary = IconifyIconData(IconData(
     0xf030,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-panorama-wide-angle-select`
-  static const IconifyIconData twotonePanoramaWideAngleSelect = IconifyIconData(IconData(
+  /// `twotone-panorama-photosphere` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePanoramaPhotosphereSecondary = IconifyIconData(IconData(
+    0xf030,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-panorama-photosphere-select`
+  static const IconifyIconData twotonePanoramaPhotosphereSelect = IconifyIconData(IconData(
     0xf031,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-paragliding`
-  static const IconifyIconData twotoneParagliding = IconifyIconData(IconData(
+  /// `twotone-panorama-vertical` — primary layer (full opacity)
+  static const IconifyIconData twotonePanoramaVerticalPrimary = IconifyIconData(IconData(
     0xf032,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-park`
-  static const IconifyIconData twotonePark = IconifyIconData(IconData(
+  /// `twotone-panorama-vertical` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePanoramaVerticalSecondary = IconifyIconData(IconData(
+    0xf032,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-panorama-wide-angle` — primary layer (full opacity)
+  static const IconifyIconData twotonePanoramaWideAnglePrimary = IconifyIconData(IconData(
     0xf033,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-party-mode`
-  static const IconifyIconData twotonePartyMode = IconifyIconData(IconData(
+  /// `twotone-panorama-wide-angle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePanoramaWideAngleSecondary = IconifyIconData(IconData(
+    0xf033,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-panorama-wide-angle-select`
+  static const IconifyIconData twotonePanoramaWideAngleSelect = IconifyIconData(IconData(
     0xf034,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-paragliding` — primary layer (full opacity)
+  static const IconifyIconData twotoneParaglidingPrimary = IconifyIconData(IconData(
+    0xf035,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-paragliding` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneParaglidingSecondary = IconifyIconData(IconData(
+    0xf035,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-park` — primary layer (full opacity)
+  static const IconifyIconData twotoneParkPrimary = IconifyIconData(IconData(
+    0xf036,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-park` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneParkSecondary = IconifyIconData(IconData(
+    0xf036,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-party-mode` — primary layer (full opacity)
+  static const IconifyIconData twotonePartyModePrimary = IconifyIconData(IconData(
+    0xf037,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-party-mode` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePartyModeSecondary = IconifyIconData(IconData(
+    0xf037,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-password`
   static const IconifyIconData twotonePassword = IconifyIconData(IconData(
-    0xf035,
+    0xf038,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-pattern`
   static const IconifyIconData twotonePattern = IconifyIconData(IconData(
-    0xf036,
+    0xf039,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-pause`
   static const IconifyIconData twotonePause = IconifyIconData(IconData(
-    0xf037,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-pause-circle`
-  static const IconifyIconData twotonePauseCircle = IconifyIconData(IconData(
-    0xf038,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-pause-circle-filled`
-  static const IconifyIconData twotonePauseCircleFilled = IconifyIconData(IconData(
-    0xf039,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-pause-circle-outline`
-  static const IconifyIconData twotonePauseCircleOutline = IconifyIconData(IconData(
     0xf03a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-pause-presentation`
-  static const IconifyIconData twotonePausePresentation = IconifyIconData(IconData(
+  /// `twotone-pause-circle` — primary layer (full opacity)
+  static const IconifyIconData twotonePauseCirclePrimary = IconifyIconData(IconData(
     0xf03b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-payment`
-  static const IconifyIconData twotonePayment = IconifyIconData(IconData(
+  /// `twotone-pause-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePauseCircleSecondary = IconifyIconData(IconData(
+    0xf03b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-pause-circle-filled` — primary layer (full opacity)
+  static const IconifyIconData twotonePauseCircleFilledPrimary = IconifyIconData(IconData(
     0xf03c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-payments`
-  static const IconifyIconData twotonePayments = IconifyIconData(IconData(
+  /// `twotone-pause-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePauseCircleFilledSecondary = IconifyIconData(IconData(
+    0xf03c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-pause-circle-outline`
+  static const IconifyIconData twotonePauseCircleOutline = IconifyIconData(IconData(
     0xf03d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-pause-presentation` — primary layer (full opacity)
+  static const IconifyIconData twotonePausePresentationPrimary = IconifyIconData(IconData(
+    0xf03e,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-pause-presentation` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePausePresentationSecondary = IconifyIconData(IconData(
+    0xf03e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-payment` — primary layer (full opacity)
+  static const IconifyIconData twotonePaymentPrimary = IconifyIconData(IconData(
+    0xf03f,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-payment` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePaymentSecondary = IconifyIconData(IconData(
+    0xf03f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-payments` — primary layer (full opacity)
+  static const IconifyIconData twotonePaymentsPrimary = IconifyIconData(IconData(
+    0xf040,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-payments` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePaymentsSecondary = IconifyIconData(IconData(
+    0xf040,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-paypal`
   static const IconifyIconData twotonePaypal = IconifyIconData(IconData(
-    0xf03e,
+    0xf041,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-pedal-bike`
   static const IconifyIconData twotonePedalBike = IconifyIconData(IconData(
-    0xf03f,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-pending`
-  static const IconifyIconData twotonePending = IconifyIconData(IconData(
-    0xf040,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-pending-actions`
-  static const IconifyIconData twotonePendingActions = IconifyIconData(IconData(
-    0xf041,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-pentagon`
-  static const IconifyIconData twotonePentagon = IconifyIconData(IconData(
     0xf042,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-people`
-  static const IconifyIconData twotonePeople = IconifyIconData(IconData(
+  /// `twotone-pending` — primary layer (full opacity)
+  static const IconifyIconData twotonePendingPrimary = IconifyIconData(IconData(
     0xf043,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-people-alt`
-  static const IconifyIconData twotonePeopleAlt = IconifyIconData(IconData(
+  /// `twotone-pending` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePendingSecondary = IconifyIconData(IconData(
+    0xf043,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-pending-actions` — primary layer (full opacity)
+  static const IconifyIconData twotonePendingActionsPrimary = IconifyIconData(IconData(
     0xf044,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-people-outline`
-  static const IconifyIconData twotonePeopleOutline = IconifyIconData(IconData(
+  /// `twotone-pending-actions` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePendingActionsSecondary = IconifyIconData(IconData(
+    0xf044,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-pentagon` — primary layer (full opacity)
+  static const IconifyIconData twotonePentagonPrimary = IconifyIconData(IconData(
     0xf045,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-percent`
-  static const IconifyIconData twotonePercent = IconifyIconData(IconData(
+  /// `twotone-pentagon` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePentagonSecondary = IconifyIconData(IconData(
+    0xf045,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-people` — primary layer (full opacity)
+  static const IconifyIconData twotonePeoplePrimary = IconifyIconData(IconData(
     0xf046,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-percentage`
-  static const IconifyIconData twotonePercentage = IconifyIconData(IconData(
+  /// `twotone-people` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePeopleSecondary = IconifyIconData(IconData(
+    0xf046,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-people-alt` — primary layer (full opacity)
+  static const IconifyIconData twotonePeopleAltPrimary = IconifyIconData(IconData(
     0xf047,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-perm-camera-mic`
-  static const IconifyIconData twotonePermCameraMic = IconifyIconData(IconData(
+  /// `twotone-people-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePeopleAltSecondary = IconifyIconData(IconData(
+    0xf047,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-people-outline` — primary layer (full opacity)
+  static const IconifyIconData twotonePeopleOutlinePrimary = IconifyIconData(IconData(
     0xf048,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-perm-contact-calendar`
-  static const IconifyIconData twotonePermContactCalendar = IconifyIconData(IconData(
+  /// `twotone-people-outline` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePeopleOutlineSecondary = IconifyIconData(IconData(
+    0xf048,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-percent`
+  static const IconifyIconData twotonePercent = IconifyIconData(IconData(
     0xf049,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-perm-data-setting`
-  static const IconifyIconData twotonePermDataSetting = IconifyIconData(IconData(
+  /// `twotone-percentage` — primary layer (full opacity)
+  static const IconifyIconData twotonePercentagePrimary = IconifyIconData(IconData(
     0xf04a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-perm-device-information`
-  static const IconifyIconData twotonePermDeviceInformation = IconifyIconData(IconData(
+  /// `twotone-percentage` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePercentageSecondary = IconifyIconData(IconData(
+    0xf04a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-perm-camera-mic` — primary layer (full opacity)
+  static const IconifyIconData twotonePermCameraMicPrimary = IconifyIconData(IconData(
     0xf04b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-perm-identity`
-  static const IconifyIconData twotonePermIdentity = IconifyIconData(IconData(
+  /// `twotone-perm-camera-mic` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePermCameraMicSecondary = IconifyIconData(IconData(
+    0xf04b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-perm-contact-calendar` — primary layer (full opacity)
+  static const IconifyIconData twotonePermContactCalendarPrimary = IconifyIconData(IconData(
     0xf04c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-perm-media`
-  static const IconifyIconData twotonePermMedia = IconifyIconData(IconData(
+  /// `twotone-perm-contact-calendar` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePermContactCalendarSecondary = IconifyIconData(IconData(
+    0xf04c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-perm-data-setting`
+  static const IconifyIconData twotonePermDataSetting = IconifyIconData(IconData(
     0xf04d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-perm-phone-msg`
-  static const IconifyIconData twotonePermPhoneMsg = IconifyIconData(IconData(
+  /// `twotone-perm-device-information` — primary layer (full opacity)
+  static const IconifyIconData twotonePermDeviceInformationPrimary = IconifyIconData(IconData(
     0xf04e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-perm-scan-wifi`
-  static const IconifyIconData twotonePermScanWifi = IconifyIconData(IconData(
+  /// `twotone-perm-device-information` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePermDeviceInformationSecondary = IconifyIconData(IconData(
+    0xf04e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-perm-identity` — primary layer (full opacity)
+  static const IconifyIconData twotonePermIdentityPrimary = IconifyIconData(IconData(
     0xf04f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-person`
-  static const IconifyIconData twotonePerson = IconifyIconData(IconData(
+  /// `twotone-perm-identity` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePermIdentitySecondary = IconifyIconData(IconData(
+    0xf04f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-perm-media` — primary layer (full opacity)
+  static const IconifyIconData twotonePermMediaPrimary = IconifyIconData(IconData(
     0xf050,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-person-2`
-  static const IconifyIconData twotonePerson2 = IconifyIconData(IconData(
+  /// `twotone-perm-media` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePermMediaSecondary = IconifyIconData(IconData(
+    0xf050,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-perm-phone-msg` — primary layer (full opacity)
+  static const IconifyIconData twotonePermPhoneMsgPrimary = IconifyIconData(IconData(
     0xf051,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-person-3`
-  static const IconifyIconData twotonePerson3 = IconifyIconData(IconData(
+  /// `twotone-perm-phone-msg` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePermPhoneMsgSecondary = IconifyIconData(IconData(
+    0xf051,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-perm-scan-wifi` — primary layer (full opacity)
+  static const IconifyIconData twotonePermScanWifiPrimary = IconifyIconData(IconData(
     0xf052,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-person-4`
-  static const IconifyIconData twotonePerson4 = IconifyIconData(IconData(
+  /// `twotone-perm-scan-wifi` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePermScanWifiSecondary = IconifyIconData(IconData(
+    0xf052,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-person` — primary layer (full opacity)
+  static const IconifyIconData twotonePersonPrimary = IconifyIconData(IconData(
     0xf053,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-person-add`
-  static const IconifyIconData twotonePersonAdd = IconifyIconData(IconData(
+  /// `twotone-person` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePersonSecondary = IconifyIconData(IconData(
+    0xf053,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-person-2` — primary layer (full opacity)
+  static const IconifyIconData twotonePerson2Primary = IconifyIconData(IconData(
     0xf054,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-person-add-alt`
-  static const IconifyIconData twotonePersonAddAlt = IconifyIconData(IconData(
+  /// `twotone-person-2` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePerson2Secondary = IconifyIconData(IconData(
+    0xf054,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-person-3` — primary layer (full opacity)
+  static const IconifyIconData twotonePerson3Primary = IconifyIconData(IconData(
     0xf055,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-person-add-alt-1`
-  static const IconifyIconData twotonePersonAddAlt1 = IconifyIconData(IconData(
+  /// `twotone-person-3` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePerson3Secondary = IconifyIconData(IconData(
+    0xf055,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-person-4` — primary layer (full opacity)
+  static const IconifyIconData twotonePerson4Primary = IconifyIconData(IconData(
     0xf056,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-person-add-disabled`
-  static const IconifyIconData twotonePersonAddDisabled = IconifyIconData(IconData(
+  /// `twotone-person-4` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePerson4Secondary = IconifyIconData(IconData(
+    0xf056,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-person-add` — primary layer (full opacity)
+  static const IconifyIconData twotonePersonAddPrimary = IconifyIconData(IconData(
     0xf057,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-person-off`
-  static const IconifyIconData twotonePersonOff = IconifyIconData(IconData(
+  /// `twotone-person-add` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePersonAddSecondary = IconifyIconData(IconData(
+    0xf057,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-person-add-alt` — primary layer (full opacity)
+  static const IconifyIconData twotonePersonAddAltPrimary = IconifyIconData(IconData(
     0xf058,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-person-outline`
-  static const IconifyIconData twotonePersonOutline = IconifyIconData(IconData(
+  /// `twotone-person-add-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePersonAddAltSecondary = IconifyIconData(IconData(
+    0xf058,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-person-add-alt-1` — primary layer (full opacity)
+  static const IconifyIconData twotonePersonAddAlt1Primary = IconifyIconData(IconData(
     0xf059,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-person-pin`
-  static const IconifyIconData twotonePersonPin = IconifyIconData(IconData(
+  /// `twotone-person-add-alt-1` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePersonAddAlt1Secondary = IconifyIconData(IconData(
+    0xf059,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-person-add-disabled` — primary layer (full opacity)
+  static const IconifyIconData twotonePersonAddDisabledPrimary = IconifyIconData(IconData(
     0xf05a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-person-pin-circle`
-  static const IconifyIconData twotonePersonPinCircle = IconifyIconData(IconData(
+  /// `twotone-person-add-disabled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePersonAddDisabledSecondary = IconifyIconData(IconData(
+    0xf05a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-person-off` — primary layer (full opacity)
+  static const IconifyIconData twotonePersonOffPrimary = IconifyIconData(IconData(
     0xf05b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-person-remove`
-  static const IconifyIconData twotonePersonRemove = IconifyIconData(IconData(
+  /// `twotone-person-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePersonOffSecondary = IconifyIconData(IconData(
+    0xf05b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-person-outline` — primary layer (full opacity)
+  static const IconifyIconData twotonePersonOutlinePrimary = IconifyIconData(IconData(
     0xf05c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-person-remove-alt-1`
-  static const IconifyIconData twotonePersonRemoveAlt1 = IconifyIconData(IconData(
+  /// `twotone-person-outline` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePersonOutlineSecondary = IconifyIconData(IconData(
+    0xf05c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-person-pin` — primary layer (full opacity)
+  static const IconifyIconData twotonePersonPinPrimary = IconifyIconData(IconData(
     0xf05d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-person-search`
-  static const IconifyIconData twotonePersonSearch = IconifyIconData(IconData(
+  /// `twotone-person-pin` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePersonPinSecondary = IconifyIconData(IconData(
+    0xf05d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-person-pin-circle`
+  static const IconifyIconData twotonePersonPinCircle = IconifyIconData(IconData(
     0xf05e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-personal-injury`
-  static const IconifyIconData twotonePersonalInjury = IconifyIconData(IconData(
+  /// `twotone-person-remove` — primary layer (full opacity)
+  static const IconifyIconData twotonePersonRemovePrimary = IconifyIconData(IconData(
     0xf05f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-personal-video`
-  static const IconifyIconData twotonePersonalVideo = IconifyIconData(IconData(
+  /// `twotone-person-remove` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePersonRemoveSecondary = IconifyIconData(IconData(
+    0xf05f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-person-remove-alt-1` — primary layer (full opacity)
+  static const IconifyIconData twotonePersonRemoveAlt1Primary = IconifyIconData(IconData(
     0xf060,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-pest-control`
-  static const IconifyIconData twotonePestControl = IconifyIconData(IconData(
+  /// `twotone-person-remove-alt-1` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePersonRemoveAlt1Secondary = IconifyIconData(IconData(
+    0xf060,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-person-search` — primary layer (full opacity)
+  static const IconifyIconData twotonePersonSearchPrimary = IconifyIconData(IconData(
     0xf061,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-pest-control-rodent`
-  static const IconifyIconData twotonePestControlRodent = IconifyIconData(IconData(
+  /// `twotone-person-search` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePersonSearchSecondary = IconifyIconData(IconData(
+    0xf061,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-personal-injury` — primary layer (full opacity)
+  static const IconifyIconData twotonePersonalInjuryPrimary = IconifyIconData(IconData(
     0xf062,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-phishing`
-  static const IconifyIconData twotonePhishing = IconifyIconData(IconData(
+  /// `twotone-personal-injury` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePersonalInjurySecondary = IconifyIconData(IconData(
+    0xf062,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-personal-video` — primary layer (full opacity)
+  static const IconifyIconData twotonePersonalVideoPrimary = IconifyIconData(IconData(
     0xf063,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-phone`
-  static const IconifyIconData twotonePhone = IconifyIconData(IconData(
+  /// `twotone-personal-video` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePersonalVideoSecondary = IconifyIconData(IconData(
+    0xf063,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-pest-control` — primary layer (full opacity)
+  static const IconifyIconData twotonePestControlPrimary = IconifyIconData(IconData(
     0xf064,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-phone-android`
-  static const IconifyIconData twotonePhoneAndroid = IconifyIconData(IconData(
+  /// `twotone-pest-control` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePestControlSecondary = IconifyIconData(IconData(
+    0xf064,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-pest-control-rodent` — primary layer (full opacity)
+  static const IconifyIconData twotonePestControlRodentPrimary = IconifyIconData(IconData(
     0xf065,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-phone-bluetooth-speaker`
-  static const IconifyIconData twotonePhoneBluetoothSpeaker = IconifyIconData(IconData(
+  /// `twotone-pest-control-rodent` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePestControlRodentSecondary = IconifyIconData(IconData(
+    0xf065,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-phishing`
+  static const IconifyIconData twotonePhishing = IconifyIconData(IconData(
     0xf066,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-phone-callback`
-  static const IconifyIconData twotonePhoneCallback = IconifyIconData(IconData(
+  /// `twotone-phone` — primary layer (full opacity)
+  static const IconifyIconData twotonePhonePrimary = IconifyIconData(IconData(
     0xf067,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-phone` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePhoneSecondary = IconifyIconData(IconData(
+    0xf067,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-phone-android` — primary layer (full opacity)
+  static const IconifyIconData twotonePhoneAndroidPrimary = IconifyIconData(IconData(
+    0xf068,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-phone-android` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePhoneAndroidSecondary = IconifyIconData(IconData(
+    0xf068,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-phone-bluetooth-speaker` — primary layer (full opacity)
+  static const IconifyIconData twotonePhoneBluetoothSpeakerPrimary = IconifyIconData(IconData(
+    0xf069,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-phone-bluetooth-speaker` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePhoneBluetoothSpeakerSecondary = IconifyIconData(IconData(
+    0xf069,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-phone-callback` — primary layer (full opacity)
+  static const IconifyIconData twotonePhoneCallbackPrimary = IconifyIconData(IconData(
+    0xf06a,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-phone-callback` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePhoneCallbackSecondary = IconifyIconData(IconData(
+    0xf06a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-phone-disabled`
   static const IconifyIconData twotonePhoneDisabled = IconifyIconData(IconData(
-    0xf068,
+    0xf06b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-phone-enabled`
   static const IconifyIconData twotonePhoneEnabled = IconifyIconData(IconData(
-    0xf069,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-phone-forwarded`
-  static const IconifyIconData twotonePhoneForwarded = IconifyIconData(IconData(
-    0xf06a,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-phone-in-talk`
-  static const IconifyIconData twotonePhoneInTalk = IconifyIconData(IconData(
-    0xf06b,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-phone-iphone`
-  static const IconifyIconData twotonePhoneIphone = IconifyIconData(IconData(
     0xf06c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-phone-locked`
-  static const IconifyIconData twotonePhoneLocked = IconifyIconData(IconData(
+  /// `twotone-phone-forwarded` — primary layer (full opacity)
+  static const IconifyIconData twotonePhoneForwardedPrimary = IconifyIconData(IconData(
     0xf06d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-phone-missed`
-  static const IconifyIconData twotonePhoneMissed = IconifyIconData(IconData(
+  /// `twotone-phone-forwarded` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePhoneForwardedSecondary = IconifyIconData(IconData(
+    0xf06d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-phone-in-talk` — primary layer (full opacity)
+  static const IconifyIconData twotonePhoneInTalkPrimary = IconifyIconData(IconData(
     0xf06e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-phone-paused`
-  static const IconifyIconData twotonePhonePaused = IconifyIconData(IconData(
+  /// `twotone-phone-in-talk` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePhoneInTalkSecondary = IconifyIconData(IconData(
+    0xf06e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-phone-iphone` — primary layer (full opacity)
+  static const IconifyIconData twotonePhoneIphonePrimary = IconifyIconData(IconData(
     0xf06f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-phonelink`
-  static const IconifyIconData twotonePhonelink = IconifyIconData(IconData(
+  /// `twotone-phone-iphone` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePhoneIphoneSecondary = IconifyIconData(IconData(
+    0xf06f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-phone-locked` — primary layer (full opacity)
+  static const IconifyIconData twotonePhoneLockedPrimary = IconifyIconData(IconData(
     0xf070,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-phone-locked` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePhoneLockedSecondary = IconifyIconData(IconData(
+    0xf070,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-phone-missed` — primary layer (full opacity)
+  static const IconifyIconData twotonePhoneMissedPrimary = IconifyIconData(IconData(
+    0xf071,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-phone-missed` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePhoneMissedSecondary = IconifyIconData(IconData(
+    0xf071,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-phone-paused` — primary layer (full opacity)
+  static const IconifyIconData twotonePhonePausedPrimary = IconifyIconData(IconData(
+    0xf072,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-phone-paused` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePhonePausedSecondary = IconifyIconData(IconData(
+    0xf072,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-phonelink` — primary layer (full opacity)
+  static const IconifyIconData twotonePhonelinkPrimary = IconifyIconData(IconData(
+    0xf073,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-phonelink` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePhonelinkSecondary = IconifyIconData(IconData(
+    0xf073,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-phonelink-erase`
   static const IconifyIconData twotonePhonelinkErase = IconifyIconData(IconData(
-    0xf071,
+    0xf074,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-phonelink-lock`
   static const IconifyIconData twotonePhonelinkLock = IconifyIconData(IconData(
-    0xf072,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-phonelink-off`
-  static const IconifyIconData twotonePhonelinkOff = IconifyIconData(IconData(
-    0xf073,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-phonelink-ring`
-  static const IconifyIconData twotonePhonelinkRing = IconifyIconData(IconData(
-    0xf074,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-phonelink-setup`
-  static const IconifyIconData twotonePhonelinkSetup = IconifyIconData(IconData(
     0xf075,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-photo`
-  static const IconifyIconData twotonePhoto = IconifyIconData(IconData(
+  /// `twotone-phonelink-off` — primary layer (full opacity)
+  static const IconifyIconData twotonePhonelinkOffPrimary = IconifyIconData(IconData(
     0xf076,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-photo-album`
-  static const IconifyIconData twotonePhotoAlbum = IconifyIconData(IconData(
+  /// `twotone-phonelink-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePhonelinkOffSecondary = IconifyIconData(IconData(
+    0xf076,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-phonelink-ring` — primary layer (full opacity)
+  static const IconifyIconData twotonePhonelinkRingPrimary = IconifyIconData(IconData(
     0xf077,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-photo-camera`
-  static const IconifyIconData twotonePhotoCamera = IconifyIconData(IconData(
+  /// `twotone-phonelink-ring` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePhonelinkRingSecondary = IconifyIconData(IconData(
+    0xf077,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-phonelink-setup`
+  static const IconifyIconData twotonePhonelinkSetup = IconifyIconData(IconData(
     0xf078,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-photo-camera-back`
-  static const IconifyIconData twotonePhotoCameraBack = IconifyIconData(IconData(
+  /// `twotone-photo` — primary layer (full opacity)
+  static const IconifyIconData twotonePhotoPrimary = IconifyIconData(IconData(
     0xf079,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-photo-camera-front`
-  static const IconifyIconData twotonePhotoCameraFront = IconifyIconData(IconData(
+  /// `twotone-photo` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePhotoSecondary = IconifyIconData(IconData(
+    0xf079,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-photo-album` — primary layer (full opacity)
+  static const IconifyIconData twotonePhotoAlbumPrimary = IconifyIconData(IconData(
     0xf07a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-photo-filter`
-  static const IconifyIconData twotonePhotoFilter = IconifyIconData(IconData(
+  /// `twotone-photo-album` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePhotoAlbumSecondary = IconifyIconData(IconData(
+    0xf07a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-photo-camera` — primary layer (full opacity)
+  static const IconifyIconData twotonePhotoCameraPrimary = IconifyIconData(IconData(
     0xf07b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-photo-library`
-  static const IconifyIconData twotonePhotoLibrary = IconifyIconData(IconData(
+  /// `twotone-photo-camera` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePhotoCameraSecondary = IconifyIconData(IconData(
+    0xf07b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-photo-camera-back` — primary layer (full opacity)
+  static const IconifyIconData twotonePhotoCameraBackPrimary = IconifyIconData(IconData(
     0xf07c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-photo-size-select-actual`
-  static const IconifyIconData twotonePhotoSizeSelectActual = IconifyIconData(IconData(
+  /// `twotone-photo-camera-back` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePhotoCameraBackSecondary = IconifyIconData(IconData(
+    0xf07c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-photo-camera-front` — primary layer (full opacity)
+  static const IconifyIconData twotonePhotoCameraFrontPrimary = IconifyIconData(IconData(
     0xf07d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-photo-camera-front` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePhotoCameraFrontSecondary = IconifyIconData(IconData(
+    0xf07d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-photo-filter`
+  static const IconifyIconData twotonePhotoFilter = IconifyIconData(IconData(
+    0xf07e,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-photo-library` — primary layer (full opacity)
+  static const IconifyIconData twotonePhotoLibraryPrimary = IconifyIconData(IconData(
+    0xf07f,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-photo-library` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePhotoLibrarySecondary = IconifyIconData(IconData(
+    0xf07f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-photo-size-select-actual` — primary layer (full opacity)
+  static const IconifyIconData twotonePhotoSizeSelectActualPrimary = IconifyIconData(IconData(
+    0xf080,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-photo-size-select-actual` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePhotoSizeSelectActualSecondary = IconifyIconData(IconData(
+    0xf080,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-photo-size-select-large`
   static const IconifyIconData twotonePhotoSizeSelectLarge = IconifyIconData(IconData(
-    0xf07e,
+    0xf081,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-photo-size-select-small`
   static const IconifyIconData twotonePhotoSizeSelectSmall = IconifyIconData(IconData(
-    0xf07f,
+    0xf082,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-php`
   static const IconifyIconData twotonePhp = IconifyIconData(IconData(
-    0xf080,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-piano`
-  static const IconifyIconData twotonePiano = IconifyIconData(IconData(
-    0xf081,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-piano-off`
-  static const IconifyIconData twotonePianoOff = IconifyIconData(IconData(
-    0xf082,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-picture-as-pdf`
-  static const IconifyIconData twotonePictureAsPdf = IconifyIconData(IconData(
     0xf083,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-picture-in-picture`
-  static const IconifyIconData twotonePictureInPicture = IconifyIconData(IconData(
+  /// `twotone-piano` — primary layer (full opacity)
+  static const IconifyIconData twotonePianoPrimary = IconifyIconData(IconData(
     0xf084,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-picture-in-picture-alt`
-  static const IconifyIconData twotonePictureInPictureAlt = IconifyIconData(IconData(
+  /// `twotone-piano` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePianoSecondary = IconifyIconData(IconData(
+    0xf084,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-piano-off` — primary layer (full opacity)
+  static const IconifyIconData twotonePianoOffPrimary = IconifyIconData(IconData(
     0xf085,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-pie-chart`
-  static const IconifyIconData twotonePieChart = IconifyIconData(IconData(
+  /// `twotone-piano-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePianoOffSecondary = IconifyIconData(IconData(
+    0xf085,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-picture-as-pdf` — primary layer (full opacity)
+  static const IconifyIconData twotonePictureAsPdfPrimary = IconifyIconData(IconData(
     0xf086,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-pie-chart-outline`
-  static const IconifyIconData twotonePieChartOutline = IconifyIconData(IconData(
+  /// `twotone-picture-as-pdf` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePictureAsPdfSecondary = IconifyIconData(IconData(
+    0xf086,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-picture-in-picture` — primary layer (full opacity)
+  static const IconifyIconData twotonePictureInPicturePrimary = IconifyIconData(IconData(
     0xf087,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-pin`
-  static const IconifyIconData twotonePin = IconifyIconData(IconData(
+  /// `twotone-picture-in-picture` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePictureInPictureSecondary = IconifyIconData(IconData(
+    0xf087,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-picture-in-picture-alt` — primary layer (full opacity)
+  static const IconifyIconData twotonePictureInPictureAltPrimary = IconifyIconData(IconData(
     0xf088,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-picture-in-picture-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePictureInPictureAltSecondary = IconifyIconData(IconData(
+    0xf088,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-pie-chart` — primary layer (full opacity)
+  static const IconifyIconData twotonePieChartPrimary = IconifyIconData(IconData(
+    0xf089,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-pie-chart` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePieChartSecondary = IconifyIconData(IconData(
+    0xf089,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-pie-chart-outline`
+  static const IconifyIconData twotonePieChartOutline = IconifyIconData(IconData(
+    0xf08a,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-pin` — primary layer (full opacity)
+  static const IconifyIconData twotonePinPrimary = IconifyIconData(IconData(
+    0xf08b,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-pin` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePinSecondary = IconifyIconData(IconData(
+    0xf08b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-pin-drop`
   static const IconifyIconData twotonePinDrop = IconifyIconData(IconData(
-    0xf089,
+    0xf08c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-pin-end`
   static const IconifyIconData twotonePinEnd = IconifyIconData(IconData(
-    0xf08a,
+    0xf08d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-pin-invoke`
   static const IconifyIconData twotonePinInvoke = IconifyIconData(IconData(
-    0xf08b,
+    0xf08e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-pinch`
-  static const IconifyIconData twotonePinch = IconifyIconData(IconData(
-    0xf08c,
+  /// `twotone-pin-off` — primary layer (full opacity)
+  static const IconifyIconData twotonePinOffPrimary = IconifyIconData(IconData(
+    0xf08f,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-pin-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePinOffSecondary = IconifyIconData(IconData(
+    0xf08f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-pinch` — primary layer (full opacity)
+  static const IconifyIconData twotonePinchPrimary = IconifyIconData(IconData(
+    0xf090,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-pinch` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePinchSecondary = IconifyIconData(IconData(
+    0xf090,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-pivot-table-chart`
   static const IconifyIconData twotonePivotTableChart = IconifyIconData(IconData(
-    0xf08d,
+    0xf091,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-pix`
   static const IconifyIconData twotonePix = IconifyIconData(IconData(
-    0xf08e,
+    0xf092,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-place`
   static const IconifyIconData twotonePlace = IconifyIconData(IconData(
-    0xf08f,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-plagiarism`
-  static const IconifyIconData twotonePlagiarism = IconifyIconData(IconData(
-    0xf090,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-play-arrow`
-  static const IconifyIconData twotonePlayArrow = IconifyIconData(IconData(
-    0xf091,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-play-circle`
-  static const IconifyIconData twotonePlayCircle = IconifyIconData(IconData(
-    0xf092,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-play-circle-filled`
-  static const IconifyIconData twotonePlayCircleFilled = IconifyIconData(IconData(
     0xf093,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-play-circle-filled-white`
-  static const IconifyIconData twotonePlayCircleFilledWhite = IconifyIconData(IconData(
+  /// `twotone-plagiarism` — primary layer (full opacity)
+  static const IconifyIconData twotonePlagiarismPrimary = IconifyIconData(IconData(
     0xf094,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-play-circle-outline`
-  static const IconifyIconData twotonePlayCircleOutline = IconifyIconData(IconData(
+  /// `twotone-plagiarism` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePlagiarismSecondary = IconifyIconData(IconData(
+    0xf094,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-play-arrow` — primary layer (full opacity)
+  static const IconifyIconData twotonePlayArrowPrimary = IconifyIconData(IconData(
     0xf095,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-play-disabled`
-  static const IconifyIconData twotonePlayDisabled = IconifyIconData(IconData(
+  /// `twotone-play-arrow` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePlayArrowSecondary = IconifyIconData(IconData(
+    0xf095,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-play-circle` — primary layer (full opacity)
+  static const IconifyIconData twotonePlayCirclePrimary = IconifyIconData(IconData(
     0xf096,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-play-for-work`
-  static const IconifyIconData twotonePlayForWork = IconifyIconData(IconData(
+  /// `twotone-play-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePlayCircleSecondary = IconifyIconData(IconData(
+    0xf096,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-play-circle-filled` — primary layer (full opacity)
+  static const IconifyIconData twotonePlayCircleFilledPrimary = IconifyIconData(IconData(
     0xf097,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-play-lesson`
-  static const IconifyIconData twotonePlayLesson = IconifyIconData(IconData(
+  /// `twotone-play-circle-filled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePlayCircleFilledSecondary = IconifyIconData(IconData(
+    0xf097,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-play-circle-filled-white` — primary layer (full opacity)
+  static const IconifyIconData twotonePlayCircleFilledWhitePrimary = IconifyIconData(IconData(
     0xf098,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-play-circle-filled-white` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePlayCircleFilledWhiteSecondary = IconifyIconData(IconData(
+    0xf098,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-play-circle-outline`
+  static const IconifyIconData twotonePlayCircleOutline = IconifyIconData(IconData(
+    0xf099,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-play-disabled` — primary layer (full opacity)
+  static const IconifyIconData twotonePlayDisabledPrimary = IconifyIconData(IconData(
+    0xf09a,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-play-disabled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePlayDisabledSecondary = IconifyIconData(IconData(
+    0xf09a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-play-for-work`
+  static const IconifyIconData twotonePlayForWork = IconifyIconData(IconData(
+    0xf09b,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-play-lesson` — primary layer (full opacity)
+  static const IconifyIconData twotonePlayLessonPrimary = IconifyIconData(IconData(
+    0xf09c,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-play-lesson` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePlayLessonSecondary = IconifyIconData(IconData(
+    0xf09c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-playlist-add`
   static const IconifyIconData twotonePlaylistAdd = IconifyIconData(IconData(
-    0xf099,
+    0xf09d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-playlist-add-check`
   static const IconifyIconData twotonePlaylistAddCheck = IconifyIconData(IconData(
-    0xf09a,
+    0xf09e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-playlist-add-check-circle`
-  static const IconifyIconData twotonePlaylistAddCheckCircle = IconifyIconData(IconData(
-    0xf09b,
+  /// `twotone-playlist-add-check-circle` — primary layer (full opacity)
+  static const IconifyIconData twotonePlaylistAddCheckCirclePrimary = IconifyIconData(IconData(
+    0xf09f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-playlist-add-circle`
-  static const IconifyIconData twotonePlaylistAddCircle = IconifyIconData(IconData(
-    0xf09c,
+  /// `twotone-playlist-add-check-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePlaylistAddCheckCircleSecondary = IconifyIconData(IconData(
+    0xf09f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-playlist-add-circle` — primary layer (full opacity)
+  static const IconifyIconData twotonePlaylistAddCirclePrimary = IconifyIconData(IconData(
+    0xf0a0,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-playlist-add-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePlaylistAddCircleSecondary = IconifyIconData(IconData(
+    0xf0a0,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-playlist-play`
   static const IconifyIconData twotonePlaylistPlay = IconifyIconData(IconData(
-    0xf09d,
+    0xf0a1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-playlist-remove`
   static const IconifyIconData twotonePlaylistRemove = IconifyIconData(IconData(
-    0xf09e,
+    0xf0a2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-plus`
   static const IconifyIconData twotonePlus = IconifyIconData(IconData(
-    0xf09f,
+    0xf0a3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-plus-minus`
   static const IconifyIconData twotonePlusMinus = IconifyIconData(IconData(
-    0xf0a0,
+    0xf0a4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-plus-minus-alt`
   static const IconifyIconData twotonePlusMinusAlt = IconifyIconData(IconData(
-    0xf0a1,
+    0xf0a5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-plus-one`
   static const IconifyIconData twotonePlusOne = IconifyIconData(IconData(
-    0xf0a2,
+    0xf0a6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-podcasts`
   static const IconifyIconData twotonePodcasts = IconifyIconData(IconData(
-    0xf0a3,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-point-of-sale`
-  static const IconifyIconData twotonePointOfSale = IconifyIconData(IconData(
-    0xf0a4,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-policy`
-  static const IconifyIconData twotonePolicy = IconifyIconData(IconData(
-    0xf0a5,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-poll`
-  static const IconifyIconData twotonePoll = IconifyIconData(IconData(
-    0xf0a6,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-polyline`
-  static const IconifyIconData twotonePolyline = IconifyIconData(IconData(
     0xf0a7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-polymer`
-  static const IconifyIconData twotonePolymer = IconifyIconData(IconData(
+  /// `twotone-point-of-sale` — primary layer (full opacity)
+  static const IconifyIconData twotonePointOfSalePrimary = IconifyIconData(IconData(
     0xf0a8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-pool`
-  static const IconifyIconData twotonePool = IconifyIconData(IconData(
+  /// `twotone-point-of-sale` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePointOfSaleSecondary = IconifyIconData(IconData(
+    0xf0a8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-policy` — primary layer (full opacity)
+  static const IconifyIconData twotonePolicyPrimary = IconifyIconData(IconData(
     0xf0a9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-portable-wifi-off`
-  static const IconifyIconData twotonePortableWifiOff = IconifyIconData(IconData(
+  /// `twotone-policy` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePolicySecondary = IconifyIconData(IconData(
+    0xf0a9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-poll` — primary layer (full opacity)
+  static const IconifyIconData twotonePollPrimary = IconifyIconData(IconData(
     0xf0aa,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-portrait`
-  static const IconifyIconData twotonePortrait = IconifyIconData(IconData(
+  /// `twotone-poll` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePollSecondary = IconifyIconData(IconData(
+    0xf0aa,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-polyline` — primary layer (full opacity)
+  static const IconifyIconData twotonePolylinePrimary = IconifyIconData(IconData(
     0xf0ab,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-post-add`
-  static const IconifyIconData twotonePostAdd = IconifyIconData(IconData(
+  /// `twotone-polyline` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePolylineSecondary = IconifyIconData(IconData(
+    0xf0ab,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-polymer`
+  static const IconifyIconData twotonePolymer = IconifyIconData(IconData(
     0xf0ac,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-power`
-  static const IconifyIconData twotonePower = IconifyIconData(IconData(
+  /// `twotone-pool` — primary layer (full opacity)
+  static const IconifyIconData twotonePoolPrimary = IconifyIconData(IconData(
     0xf0ad,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-power-input`
-  static const IconifyIconData twotonePowerInput = IconifyIconData(IconData(
+  /// `twotone-pool` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePoolSecondary = IconifyIconData(IconData(
+    0xf0ad,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-portable-wifi-off`
+  static const IconifyIconData twotonePortableWifiOff = IconifyIconData(IconData(
     0xf0ae,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-power-off`
-  static const IconifyIconData twotonePowerOff = IconifyIconData(IconData(
+  /// `twotone-portrait` — primary layer (full opacity)
+  static const IconifyIconData twotonePortraitPrimary = IconifyIconData(IconData(
     0xf0af,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-portrait` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePortraitSecondary = IconifyIconData(IconData(
+    0xf0af,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-post-add`
+  static const IconifyIconData twotonePostAdd = IconifyIconData(IconData(
+    0xf0b0,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-power` — primary layer (full opacity)
+  static const IconifyIconData twotonePowerPrimary = IconifyIconData(IconData(
+    0xf0b1,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-power` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePowerSecondary = IconifyIconData(IconData(
+    0xf0b1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-power-input`
+  static const IconifyIconData twotonePowerInput = IconifyIconData(IconData(
+    0xf0b2,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-power-off` — primary layer (full opacity)
+  static const IconifyIconData twotonePowerOffPrimary = IconifyIconData(IconData(
+    0xf0b3,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-power-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePowerOffSecondary = IconifyIconData(IconData(
+    0xf0b3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-power-settings-new`
   static const IconifyIconData twotonePowerSettingsNew = IconifyIconData(IconData(
-    0xf0b0,
+    0xf0b4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-pregnant-woman`
   static const IconifyIconData twotonePregnantWoman = IconifyIconData(IconData(
-    0xf0b1,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-present-to-all`
-  static const IconifyIconData twotonePresentToAll = IconifyIconData(IconData(
-    0xf0b2,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-preview`
-  static const IconifyIconData twotonePreview = IconifyIconData(IconData(
-    0xf0b3,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-price-change`
-  static const IconifyIconData twotonePriceChange = IconifyIconData(IconData(
-    0xf0b4,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-price-check`
-  static const IconifyIconData twotonePriceCheck = IconifyIconData(IconData(
     0xf0b5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-print`
-  static const IconifyIconData twotonePrint = IconifyIconData(IconData(
+  /// `twotone-present-to-all` — primary layer (full opacity)
+  static const IconifyIconData twotonePresentToAllPrimary = IconifyIconData(IconData(
     0xf0b6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-print-disabled`
-  static const IconifyIconData twotonePrintDisabled = IconifyIconData(IconData(
+  /// `twotone-present-to-all` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePresentToAllSecondary = IconifyIconData(IconData(
+    0xf0b6,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-preview` — primary layer (full opacity)
+  static const IconifyIconData twotonePreviewPrimary = IconifyIconData(IconData(
     0xf0b7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-priority-high`
-  static const IconifyIconData twotonePriorityHigh = IconifyIconData(IconData(
+  /// `twotone-preview` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePreviewSecondary = IconifyIconData(IconData(
+    0xf0b7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-price-change` — primary layer (full opacity)
+  static const IconifyIconData twotonePriceChangePrimary = IconifyIconData(IconData(
     0xf0b8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-privacy-tip`
-  static const IconifyIconData twotonePrivacyTip = IconifyIconData(IconData(
+  /// `twotone-price-change` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePriceChangeSecondary = IconifyIconData(IconData(
+    0xf0b8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-price-check`
+  static const IconifyIconData twotonePriceCheck = IconifyIconData(IconData(
     0xf0b9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-private-connectivity`
-  static const IconifyIconData twotonePrivateConnectivity = IconifyIconData(IconData(
+  /// `twotone-print` — primary layer (full opacity)
+  static const IconifyIconData twotonePrintPrimary = IconifyIconData(IconData(
     0xf0ba,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-production-quantity-limits`
-  static const IconifyIconData twotoneProductionQuantityLimits = IconifyIconData(IconData(
+  /// `twotone-print` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePrintSecondary = IconifyIconData(IconData(
+    0xf0ba,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-print-disabled` — primary layer (full opacity)
+  static const IconifyIconData twotonePrintDisabledPrimary = IconifyIconData(IconData(
     0xf0bb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-propane`
-  static const IconifyIconData twotonePropane = IconifyIconData(IconData(
+  /// `twotone-print-disabled` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePrintDisabledSecondary = IconifyIconData(IconData(
+    0xf0bb,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-priority-high`
+  static const IconifyIconData twotonePriorityHigh = IconifyIconData(IconData(
     0xf0bc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-propane-tank`
-  static const IconifyIconData twotonePropaneTank = IconifyIconData(IconData(
+  /// `twotone-privacy-tip` — primary layer (full opacity)
+  static const IconifyIconData twotonePrivacyTipPrimary = IconifyIconData(IconData(
     0xf0bd,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-psychology`
-  static const IconifyIconData twotonePsychology = IconifyIconData(IconData(
+  /// `twotone-privacy-tip` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePrivacyTipSecondary = IconifyIconData(IconData(
+    0xf0bd,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-private-connectivity` — primary layer (full opacity)
+  static const IconifyIconData twotonePrivateConnectivityPrimary = IconifyIconData(IconData(
     0xf0be,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-psychology-alt`
-  static const IconifyIconData twotonePsychologyAlt = IconifyIconData(IconData(
+  /// `twotone-private-connectivity` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePrivateConnectivitySecondary = IconifyIconData(IconData(
+    0xf0be,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-production-quantity-limits`
+  static const IconifyIconData twotoneProductionQuantityLimits = IconifyIconData(IconData(
     0xf0bf,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-public`
-  static const IconifyIconData twotonePublic = IconifyIconData(IconData(
+  /// `twotone-propane` — primary layer (full opacity)
+  static const IconifyIconData twotonePropanePrimary = IconifyIconData(IconData(
     0xf0c0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-public-off`
-  static const IconifyIconData twotonePublicOff = IconifyIconData(IconData(
+  /// `twotone-propane` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePropaneSecondary = IconifyIconData(IconData(
+    0xf0c0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-propane-tank` — primary layer (full opacity)
+  static const IconifyIconData twotonePropaneTankPrimary = IconifyIconData(IconData(
     0xf0c1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-publish`
-  static const IconifyIconData twotonePublish = IconifyIconData(IconData(
+  /// `twotone-propane-tank` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePropaneTankSecondary = IconifyIconData(IconData(
+    0xf0c1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-psychology` — primary layer (full opacity)
+  static const IconifyIconData twotonePsychologyPrimary = IconifyIconData(IconData(
     0xf0c2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-published-with-changes`
-  static const IconifyIconData twotonePublishedWithChanges = IconifyIconData(IconData(
+  /// `twotone-psychology` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePsychologySecondary = IconifyIconData(IconData(
+    0xf0c2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-psychology-alt` — primary layer (full opacity)
+  static const IconifyIconData twotonePsychologyAltPrimary = IconifyIconData(IconData(
     0xf0c3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-punch-clock`
-  static const IconifyIconData twotonePunchClock = IconifyIconData(IconData(
+  /// `twotone-psychology-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePsychologyAltSecondary = IconifyIconData(IconData(
+    0xf0c3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-public` — primary layer (full opacity)
+  static const IconifyIconData twotonePublicPrimary = IconifyIconData(IconData(
     0xf0c4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-push-pin`
-  static const IconifyIconData twotonePushPin = IconifyIconData(IconData(
+  /// `twotone-public` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePublicSecondary = IconifyIconData(IconData(
+    0xf0c4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-public-off` — primary layer (full opacity)
+  static const IconifyIconData twotonePublicOffPrimary = IconifyIconData(IconData(
     0xf0c5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-qr-code`
-  static const IconifyIconData twotoneQrCode = IconifyIconData(IconData(
+  /// `twotone-public-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePublicOffSecondary = IconifyIconData(IconData(
+    0xf0c5,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-publish` — primary layer (full opacity)
+  static const IconifyIconData twotonePublishPrimary = IconifyIconData(IconData(
     0xf0c6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-publish` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePublishSecondary = IconifyIconData(IconData(
+    0xf0c6,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-published-with-changes`
+  static const IconifyIconData twotonePublishedWithChanges = IconifyIconData(IconData(
+    0xf0c7,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-punch-clock` — primary layer (full opacity)
+  static const IconifyIconData twotonePunchClockPrimary = IconifyIconData(IconData(
+    0xf0c8,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-punch-clock` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePunchClockSecondary = IconifyIconData(IconData(
+    0xf0c8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-push-pin` — primary layer (full opacity)
+  static const IconifyIconData twotonePushPinPrimary = IconifyIconData(IconData(
+    0xf0c9,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-push-pin` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotonePushPinSecondary = IconifyIconData(IconData(
+    0xf0c9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-qr-code` — primary layer (full opacity)
+  static const IconifyIconData twotoneQrCodePrimary = IconifyIconData(IconData(
+    0xf0ca,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-qr-code` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneQrCodeSecondary = IconifyIconData(IconData(
+    0xf0ca,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-qr-code-2`
   static const IconifyIconData twotoneQrCode2 = IconifyIconData(IconData(
-    0xf0c7,
+    0xf0cb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-qr-code-scanner`
   static const IconifyIconData twotoneQrCodeScanner = IconifyIconData(IconData(
-    0xf0c8,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-qrcode`
-  static const IconifyIconData twotoneQrcode = IconifyIconData(IconData(
-    0xf0c9,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-query-builder`
-  static const IconifyIconData twotoneQueryBuilder = IconifyIconData(IconData(
-    0xf0ca,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-query-stats`
-  static const IconifyIconData twotoneQueryStats = IconifyIconData(IconData(
-    0xf0cb,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-question-answer`
-  static const IconifyIconData twotoneQuestionAnswer = IconifyIconData(IconData(
     0xf0cc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-question-mark`
-  static const IconifyIconData twotoneQuestionMark = IconifyIconData(IconData(
+  /// `twotone-qrcode` — primary layer (full opacity)
+  static const IconifyIconData twotoneQrcodePrimary = IconifyIconData(IconData(
     0xf0cd,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-queue`
-  static const IconifyIconData twotoneQueue = IconifyIconData(IconData(
+  /// `twotone-qrcode` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneQrcodeSecondary = IconifyIconData(IconData(
+    0xf0cd,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-query-builder` — primary layer (full opacity)
+  static const IconifyIconData twotoneQueryBuilderPrimary = IconifyIconData(IconData(
     0xf0ce,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-queue-music`
-  static const IconifyIconData twotoneQueueMusic = IconifyIconData(IconData(
+  /// `twotone-query-builder` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneQueryBuilderSecondary = IconifyIconData(IconData(
+    0xf0ce,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-query-stats`
+  static const IconifyIconData twotoneQueryStats = IconifyIconData(IconData(
     0xf0cf,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-queue-play-next`
-  static const IconifyIconData twotoneQueuePlayNext = IconifyIconData(IconData(
+  /// `twotone-question-answer` — primary layer (full opacity)
+  static const IconifyIconData twotoneQuestionAnswerPrimary = IconifyIconData(IconData(
     0xf0d0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-quickreply`
-  static const IconifyIconData twotoneQuickreply = IconifyIconData(IconData(
+  /// `twotone-question-answer` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneQuestionAnswerSecondary = IconifyIconData(IconData(
+    0xf0d0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-question-mark`
+  static const IconifyIconData twotoneQuestionMark = IconifyIconData(IconData(
     0xf0d1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-quiz`
-  static const IconifyIconData twotoneQuiz = IconifyIconData(IconData(
+  /// `twotone-queue` — primary layer (full opacity)
+  static const IconifyIconData twotoneQueuePrimary = IconifyIconData(IconData(
     0xf0d2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-queue` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneQueueSecondary = IconifyIconData(IconData(
+    0xf0d2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-queue-music` — primary layer (full opacity)
+  static const IconifyIconData twotoneQueueMusicPrimary = IconifyIconData(IconData(
+    0xf0d3,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-queue-music` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneQueueMusicSecondary = IconifyIconData(IconData(
+    0xf0d3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-queue-play-next`
+  static const IconifyIconData twotoneQueuePlayNext = IconifyIconData(IconData(
+    0xf0d4,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-quickreply` — primary layer (full opacity)
+  static const IconifyIconData twotoneQuickreplyPrimary = IconifyIconData(IconData(
+    0xf0d5,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-quickreply` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneQuickreplySecondary = IconifyIconData(IconData(
+    0xf0d5,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-quiz` — primary layer (full opacity)
+  static const IconifyIconData twotoneQuizPrimary = IconifyIconData(IconData(
+    0xf0d6,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-quiz` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneQuizSecondary = IconifyIconData(IconData(
+    0xf0d6,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-quora`
   static const IconifyIconData twotoneQuora = IconifyIconData(IconData(
-    0xf0d3,
+    0xf0d7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-r-mobiledata`
   static const IconifyIconData twotoneRMobiledata = IconifyIconData(IconData(
-    0xf0d4,
+    0xf0d8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-radar`
   static const IconifyIconData twotoneRadar = IconifyIconData(IconData(
-    0xf0d5,
+    0xf0d9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-radio`
-  static const IconifyIconData twotoneRadio = IconifyIconData(IconData(
-    0xf0d6,
+  /// `twotone-radio` — primary layer (full opacity)
+  static const IconifyIconData twotoneRadioPrimary = IconifyIconData(IconData(
+    0xf0da,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-radio` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRadioSecondary = IconifyIconData(IconData(
+    0xf0da,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-radio-button-checked`
   static const IconifyIconData twotoneRadioButtonChecked = IconifyIconData(IconData(
-    0xf0d7,
+    0xf0db,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-radio-button-unchecked`
   static const IconifyIconData twotoneRadioButtonUnchecked = IconifyIconData(IconData(
-    0xf0d8,
+    0xf0dc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-railway-alert`
-  static const IconifyIconData twotoneRailwayAlert = IconifyIconData(IconData(
-    0xf0d9,
+  /// `twotone-railway-alert` — primary layer (full opacity)
+  static const IconifyIconData twotoneRailwayAlertPrimary = IconifyIconData(IconData(
+    0xf0dd,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-ramen-dining`
-  static const IconifyIconData twotoneRamenDining = IconifyIconData(IconData(
-    0xf0da,
+  /// `twotone-railway-alert` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRailwayAlertSecondary = IconifyIconData(IconData(
+    0xf0dd,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-ramen-dining` — primary layer (full opacity)
+  static const IconifyIconData twotoneRamenDiningPrimary = IconifyIconData(IconData(
+    0xf0de,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-ramen-dining` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRamenDiningSecondary = IconifyIconData(IconData(
+    0xf0de,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-ramp-left`
   static const IconifyIconData twotoneRampLeft = IconifyIconData(IconData(
-    0xf0db,
+    0xf0df,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-ramp-right`
   static const IconifyIconData twotoneRampRight = IconifyIconData(IconData(
-    0xf0dc,
+    0xf0e0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-rate-review`
-  static const IconifyIconData twotoneRateReview = IconifyIconData(IconData(
-    0xf0dd,
+  /// `twotone-rate-review` — primary layer (full opacity)
+  static const IconifyIconData twotoneRateReviewPrimary = IconifyIconData(IconData(
+    0xf0e1,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-rate-review` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRateReviewSecondary = IconifyIconData(IconData(
+    0xf0e1,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-raw-off`
   static const IconifyIconData twotoneRawOff = IconifyIconData(IconData(
-    0xf0de,
+    0xf0e2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-raw-on`
   static const IconifyIconData twotoneRawOn = IconifyIconData(IconData(
-    0xf0df,
+    0xf0e3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-read-more`
   static const IconifyIconData twotoneReadMore = IconifyIconData(IconData(
-    0xf0e0,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-real-estate-agent`
-  static const IconifyIconData twotoneRealEstateAgent = IconifyIconData(IconData(
-    0xf0e1,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-receipt`
-  static const IconifyIconData twotoneReceipt = IconifyIconData(IconData(
-    0xf0e2,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-receipt-long`
-  static const IconifyIconData twotoneReceiptLong = IconifyIconData(IconData(
-    0xf0e3,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-recent-actors`
-  static const IconifyIconData twotoneRecentActors = IconifyIconData(IconData(
     0xf0e4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-recommend`
-  static const IconifyIconData twotoneRecommend = IconifyIconData(IconData(
+  /// `twotone-real-estate-agent` — primary layer (full opacity)
+  static const IconifyIconData twotoneRealEstateAgentPrimary = IconifyIconData(IconData(
     0xf0e5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-record-voice-over`
-  static const IconifyIconData twotoneRecordVoiceOver = IconifyIconData(IconData(
+  /// `twotone-real-estate-agent` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRealEstateAgentSecondary = IconifyIconData(IconData(
+    0xf0e5,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-receipt` — primary layer (full opacity)
+  static const IconifyIconData twotoneReceiptPrimary = IconifyIconData(IconData(
     0xf0e6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-rectangle`
-  static const IconifyIconData twotoneRectangle = IconifyIconData(IconData(
+  /// `twotone-receipt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneReceiptSecondary = IconifyIconData(IconData(
+    0xf0e6,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-receipt-long` — primary layer (full opacity)
+  static const IconifyIconData twotoneReceiptLongPrimary = IconifyIconData(IconData(
     0xf0e7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-receipt-long` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneReceiptLongSecondary = IconifyIconData(IconData(
+    0xf0e7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-recent-actors` — primary layer (full opacity)
+  static const IconifyIconData twotoneRecentActorsPrimary = IconifyIconData(IconData(
+    0xf0e8,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-recent-actors` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRecentActorsSecondary = IconifyIconData(IconData(
+    0xf0e8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-recommend` — primary layer (full opacity)
+  static const IconifyIconData twotoneRecommendPrimary = IconifyIconData(IconData(
+    0xf0e9,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-recommend` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRecommendSecondary = IconifyIconData(IconData(
+    0xf0e9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-record-voice-over` — primary layer (full opacity)
+  static const IconifyIconData twotoneRecordVoiceOverPrimary = IconifyIconData(IconData(
+    0xf0ea,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-record-voice-over` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRecordVoiceOverSecondary = IconifyIconData(IconData(
+    0xf0ea,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-rectangle` — primary layer (full opacity)
+  static const IconifyIconData twotoneRectanglePrimary = IconifyIconData(IconData(
+    0xf0eb,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-rectangle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRectangleSecondary = IconifyIconData(IconData(
+    0xf0eb,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-recycling`
   static const IconifyIconData twotoneRecycling = IconifyIconData(IconData(
-    0xf0e8,
+    0xf0ec,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-reddit`
   static const IconifyIconData twotoneReddit = IconifyIconData(IconData(
-    0xf0e9,
+    0xf0ed,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-redeem`
-  static const IconifyIconData twotoneRedeem = IconifyIconData(IconData(
-    0xf0ea,
+  /// `twotone-redeem` — primary layer (full opacity)
+  static const IconifyIconData twotoneRedeemPrimary = IconifyIconData(IconData(
+    0xf0ee,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-redeem` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRedeemSecondary = IconifyIconData(IconData(
+    0xf0ee,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-redo`
   static const IconifyIconData twotoneRedo = IconifyIconData(IconData(
-    0xf0eb,
+    0xf0ef,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-reduce-capacity`
   static const IconifyIconData twotoneReduceCapacity = IconifyIconData(IconData(
-    0xf0ec,
+    0xf0f0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-refresh`
   static const IconifyIconData twotoneRefresh = IconifyIconData(IconData(
-    0xf0ed,
+    0xf0f1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-remember-me`
-  static const IconifyIconData twotoneRememberMe = IconifyIconData(IconData(
-    0xf0ee,
+  /// `twotone-remember-me` — primary layer (full opacity)
+  static const IconifyIconData twotoneRememberMePrimary = IconifyIconData(IconData(
+    0xf0f2,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-remember-me` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRememberMeSecondary = IconifyIconData(IconData(
+    0xf0f2,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-remove`
   static const IconifyIconData twotoneRemove = IconifyIconData(IconData(
-    0xf0ef,
+    0xf0f3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-remove-circle`
-  static const IconifyIconData twotoneRemoveCircle = IconifyIconData(IconData(
-    0xf0f0,
+  /// `twotone-remove-circle` — primary layer (full opacity)
+  static const IconifyIconData twotoneRemoveCirclePrimary = IconifyIconData(IconData(
+    0xf0f4,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-remove-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRemoveCircleSecondary = IconifyIconData(IconData(
+    0xf0f4,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-remove-circle-outline`
   static const IconifyIconData twotoneRemoveCircleOutline = IconifyIconData(IconData(
-    0xf0f1,
+    0xf0f5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-remove-done`
   static const IconifyIconData twotoneRemoveDone = IconifyIconData(IconData(
-    0xf0f2,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-remove-from-queue`
-  static const IconifyIconData twotoneRemoveFromQueue = IconifyIconData(IconData(
-    0xf0f3,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-remove-moderator`
-  static const IconifyIconData twotoneRemoveModerator = IconifyIconData(IconData(
-    0xf0f4,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-remove-red-eye`
-  static const IconifyIconData twotoneRemoveRedEye = IconifyIconData(IconData(
-    0xf0f5,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-remove-road`
-  static const IconifyIconData twotoneRemoveRoad = IconifyIconData(IconData(
     0xf0f6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-remove-shopping-cart`
-  static const IconifyIconData twotoneRemoveShoppingCart = IconifyIconData(IconData(
+  /// `twotone-remove-from-queue` — primary layer (full opacity)
+  static const IconifyIconData twotoneRemoveFromQueuePrimary = IconifyIconData(IconData(
     0xf0f7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-reorder`
-  static const IconifyIconData twotoneReorder = IconifyIconData(IconData(
+  /// `twotone-remove-from-queue` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRemoveFromQueueSecondary = IconifyIconData(IconData(
+    0xf0f7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-remove-moderator` — primary layer (full opacity)
+  static const IconifyIconData twotoneRemoveModeratorPrimary = IconifyIconData(IconData(
     0xf0f8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-repartition`
-  static const IconifyIconData twotoneRepartition = IconifyIconData(IconData(
+  /// `twotone-remove-moderator` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRemoveModeratorSecondary = IconifyIconData(IconData(
+    0xf0f8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-remove-red-eye` — primary layer (full opacity)
+  static const IconifyIconData twotoneRemoveRedEyePrimary = IconifyIconData(IconData(
     0xf0f9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-remove-red-eye` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRemoveRedEyeSecondary = IconifyIconData(IconData(
+    0xf0f9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-remove-road`
+  static const IconifyIconData twotoneRemoveRoad = IconifyIconData(IconData(
+    0xf0fa,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-remove-shopping-cart` — primary layer (full opacity)
+  static const IconifyIconData twotoneRemoveShoppingCartPrimary = IconifyIconData(IconData(
+    0xf0fb,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-remove-shopping-cart` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRemoveShoppingCartSecondary = IconifyIconData(IconData(
+    0xf0fb,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-reorder`
+  static const IconifyIconData twotoneReorder = IconifyIconData(IconData(
+    0xf0fc,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-repartition` — primary layer (full opacity)
+  static const IconifyIconData twotoneRepartitionPrimary = IconifyIconData(IconData(
+    0xf0fd,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-repartition` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRepartitionSecondary = IconifyIconData(IconData(
+    0xf0fd,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-repeat`
   static const IconifyIconData twotoneRepeat = IconifyIconData(IconData(
-    0xf0fa,
+    0xf0fe,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-repeat-on`
   static const IconifyIconData twotoneRepeatOn = IconifyIconData(IconData(
-    0xf0fb,
+    0xf0ff,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-repeat-one`
   static const IconifyIconData twotoneRepeatOne = IconifyIconData(IconData(
-    0xf0fc,
+    0xf100,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-repeat-one-on`
   static const IconifyIconData twotoneRepeatOneOn = IconifyIconData(IconData(
-    0xf0fd,
+    0xf101,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-replay`
   static const IconifyIconData twotoneReplay = IconifyIconData(IconData(
-    0xf0fe,
+    0xf102,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-replay-10`
   static const IconifyIconData twotoneReplay10 = IconifyIconData(IconData(
-    0xf0ff,
+    0xf103,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-replay-30`
   static const IconifyIconData twotoneReplay30 = IconifyIconData(IconData(
-    0xf100,
+    0xf104,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-replay-circle-filled`
   static const IconifyIconData twotoneReplayCircleFilled = IconifyIconData(IconData(
-    0xf101,
+    0xf105,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-reply`
   static const IconifyIconData twotoneReply = IconifyIconData(IconData(
-    0xf102,
+    0xf106,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-reply-all`
   static const IconifyIconData twotoneReplyAll = IconifyIconData(IconData(
-    0xf103,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-report`
-  static const IconifyIconData twotoneReport = IconifyIconData(IconData(
-    0xf104,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-report-gmailerrorred`
-  static const IconifyIconData twotoneReportGmailerrorred = IconifyIconData(IconData(
-    0xf105,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-report-off`
-  static const IconifyIconData twotoneReportOff = IconifyIconData(IconData(
-    0xf106,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-report-problem`
-  static const IconifyIconData twotoneReportProblem = IconifyIconData(IconData(
     0xf107,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-request-page`
-  static const IconifyIconData twotoneRequestPage = IconifyIconData(IconData(
+  /// `twotone-report` — primary layer (full opacity)
+  static const IconifyIconData twotoneReportPrimary = IconifyIconData(IconData(
     0xf108,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-request-quote`
-  static const IconifyIconData twotoneRequestQuote = IconifyIconData(IconData(
+  /// `twotone-report` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneReportSecondary = IconifyIconData(IconData(
+    0xf108,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-report-gmailerrorred`
+  static const IconifyIconData twotoneReportGmailerrorred = IconifyIconData(IconData(
     0xf109,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-report-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneReportOffPrimary = IconifyIconData(IconData(
+    0xf10a,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-report-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneReportOffSecondary = IconifyIconData(IconData(
+    0xf10a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-report-problem` — primary layer (full opacity)
+  static const IconifyIconData twotoneReportProblemPrimary = IconifyIconData(IconData(
+    0xf10b,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-report-problem` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneReportProblemSecondary = IconifyIconData(IconData(
+    0xf10b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-request-page` — primary layer (full opacity)
+  static const IconifyIconData twotoneRequestPagePrimary = IconifyIconData(IconData(
+    0xf10c,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-request-page` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRequestPageSecondary = IconifyIconData(IconData(
+    0xf10c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-request-quote` — primary layer (full opacity)
+  static const IconifyIconData twotoneRequestQuotePrimary = IconifyIconData(IconData(
+    0xf10d,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-request-quote` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRequestQuoteSecondary = IconifyIconData(IconData(
+    0xf10d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-reset-tv`
   static const IconifyIconData twotoneResetTv = IconifyIconData(IconData(
-    0xf10a,
+    0xf10e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-restart-alt`
   static const IconifyIconData twotoneRestartAlt = IconifyIconData(IconData(
-    0xf10b,
+    0xf10f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-restaurant`
   static const IconifyIconData twotoneRestaurant = IconifyIconData(IconData(
-    0xf10c,
+    0xf110,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-restaurant-menu`
   static const IconifyIconData twotoneRestaurantMenu = IconifyIconData(IconData(
-    0xf10d,
+    0xf111,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-restore`
   static const IconifyIconData twotoneRestore = IconifyIconData(IconData(
-    0xf10e,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-restore-from-trash`
-  static const IconifyIconData twotoneRestoreFromTrash = IconifyIconData(IconData(
-    0xf10f,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-restore-page`
-  static const IconifyIconData twotoneRestorePage = IconifyIconData(IconData(
-    0xf110,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-reviews`
-  static const IconifyIconData twotoneReviews = IconifyIconData(IconData(
-    0xf111,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-rice-bowl`
-  static const IconifyIconData twotoneRiceBowl = IconifyIconData(IconData(
     0xf112,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-ring-volume`
-  static const IconifyIconData twotoneRingVolume = IconifyIconData(IconData(
+  /// `twotone-restore-from-trash` — primary layer (full opacity)
+  static const IconifyIconData twotoneRestoreFromTrashPrimary = IconifyIconData(IconData(
     0xf113,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-rocket`
-  static const IconifyIconData twotoneRocket = IconifyIconData(IconData(
+  /// `twotone-restore-from-trash` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRestoreFromTrashSecondary = IconifyIconData(IconData(
+    0xf113,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-restore-page` — primary layer (full opacity)
+  static const IconifyIconData twotoneRestorePagePrimary = IconifyIconData(IconData(
     0xf114,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-rocket-launch`
-  static const IconifyIconData twotoneRocketLaunch = IconifyIconData(IconData(
+  /// `twotone-restore-page` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRestorePageSecondary = IconifyIconData(IconData(
+    0xf114,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-reviews` — primary layer (full opacity)
+  static const IconifyIconData twotoneReviewsPrimary = IconifyIconData(IconData(
     0xf115,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-roller-shades`
-  static const IconifyIconData twotoneRollerShades = IconifyIconData(IconData(
+  /// `twotone-reviews` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneReviewsSecondary = IconifyIconData(IconData(
+    0xf115,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-rice-bowl` — primary layer (full opacity)
+  static const IconifyIconData twotoneRiceBowlPrimary = IconifyIconData(IconData(
     0xf116,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-roller-shades-closed`
-  static const IconifyIconData twotoneRollerShadesClosed = IconifyIconData(IconData(
+  /// `twotone-rice-bowl` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRiceBowlSecondary = IconifyIconData(IconData(
+    0xf116,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-ring-volume` — primary layer (full opacity)
+  static const IconifyIconData twotoneRingVolumePrimary = IconifyIconData(IconData(
     0xf117,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-roller-skating`
-  static const IconifyIconData twotoneRollerSkating = IconifyIconData(IconData(
+  /// `twotone-ring-volume` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRingVolumeSecondary = IconifyIconData(IconData(
+    0xf117,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-rocket` — primary layer (full opacity)
+  static const IconifyIconData twotoneRocketPrimary = IconifyIconData(IconData(
     0xf118,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-roofing`
-  static const IconifyIconData twotoneRoofing = IconifyIconData(IconData(
+  /// `twotone-rocket` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRocketSecondary = IconifyIconData(IconData(
+    0xf118,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-rocket-launch` — primary layer (full opacity)
+  static const IconifyIconData twotoneRocketLaunchPrimary = IconifyIconData(IconData(
     0xf119,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-room`
-  static const IconifyIconData twotoneRoom = IconifyIconData(IconData(
+  /// `twotone-rocket-launch` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRocketLaunchSecondary = IconifyIconData(IconData(
+    0xf119,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-roller-shades` — primary layer (full opacity)
+  static const IconifyIconData twotoneRollerShadesPrimary = IconifyIconData(IconData(
     0xf11a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-room-service`
-  static const IconifyIconData twotoneRoomService = IconifyIconData(IconData(
+  /// `twotone-roller-shades` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRollerShadesSecondary = IconifyIconData(IconData(
+    0xf11a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-roller-shades-closed` — primary layer (full opacity)
+  static const IconifyIconData twotoneRollerShadesClosedPrimary = IconifyIconData(IconData(
     0xf11b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-rotate-90-degrees-ccw`
-  static const IconifyIconData twotoneRotate90DegreesCcw = IconifyIconData(IconData(
+  /// `twotone-roller-shades-closed` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRollerShadesClosedSecondary = IconifyIconData(IconData(
+    0xf11b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-roller-skating` — primary layer (full opacity)
+  static const IconifyIconData twotoneRollerSkatingPrimary = IconifyIconData(IconData(
     0xf11c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-rotate-90-degrees-cw`
-  static const IconifyIconData twotoneRotate90DegreesCw = IconifyIconData(IconData(
+  /// `twotone-roller-skating` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRollerSkatingSecondary = IconifyIconData(IconData(
+    0xf11c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-roofing` — primary layer (full opacity)
+  static const IconifyIconData twotoneRoofingPrimary = IconifyIconData(IconData(
     0xf11d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-roofing` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRoofingSecondary = IconifyIconData(IconData(
+    0xf11d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-room` — primary layer (full opacity)
+  static const IconifyIconData twotoneRoomPrimary = IconifyIconData(IconData(
+    0xf11e,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-room` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRoomSecondary = IconifyIconData(IconData(
+    0xf11e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-room-service` — primary layer (full opacity)
+  static const IconifyIconData twotoneRoomServicePrimary = IconifyIconData(IconData(
+    0xf11f,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-room-service` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRoomServiceSecondary = IconifyIconData(IconData(
+    0xf11f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-rotate-90-degrees-ccw` — primary layer (full opacity)
+  static const IconifyIconData twotoneRotate90DegreesCcwPrimary = IconifyIconData(IconData(
+    0xf120,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-rotate-90-degrees-ccw` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRotate90DegreesCcwSecondary = IconifyIconData(IconData(
+    0xf120,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-rotate-90-degrees-cw` — primary layer (full opacity)
+  static const IconifyIconData twotoneRotate90DegreesCwPrimary = IconifyIconData(IconData(
+    0xf121,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-rotate-90-degrees-cw` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRotate90DegreesCwSecondary = IconifyIconData(IconData(
+    0xf121,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-rotate-left`
   static const IconifyIconData twotoneRotateLeft = IconifyIconData(IconData(
-    0xf11e,
+    0xf122,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-rotate-right`
   static const IconifyIconData twotoneRotateRight = IconifyIconData(IconData(
-    0xf11f,
+    0xf123,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-roundabout-left`
   static const IconifyIconData twotoneRoundaboutLeft = IconifyIconData(IconData(
-    0xf120,
+    0xf124,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-roundabout-right`
   static const IconifyIconData twotoneRoundaboutRight = IconifyIconData(IconData(
-    0xf121,
+    0xf125,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-rounded-corner`
   static const IconifyIconData twotoneRoundedCorner = IconifyIconData(IconData(
-    0xf122,
+    0xf126,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-route`
-  static const IconifyIconData twotoneRoute = IconifyIconData(IconData(
-    0xf123,
+  /// `twotone-route` — primary layer (full opacity)
+  static const IconifyIconData twotoneRoutePrimary = IconifyIconData(IconData(
+    0xf127,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-router`
-  static const IconifyIconData twotoneRouter = IconifyIconData(IconData(
-    0xf124,
+  /// `twotone-route` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRouteSecondary = IconifyIconData(IconData(
+    0xf127,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-router` — primary layer (full opacity)
+  static const IconifyIconData twotoneRouterPrimary = IconifyIconData(IconData(
+    0xf128,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-router` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRouterSecondary = IconifyIconData(IconData(
+    0xf128,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-rowing`
   static const IconifyIconData twotoneRowing = IconifyIconData(IconData(
-    0xf125,
+    0xf129,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-rss-feed`
   static const IconifyIconData twotoneRssFeed = IconifyIconData(IconData(
-    0xf126,
+    0xf12a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-rsvp`
   static const IconifyIconData twotoneRsvp = IconifyIconData(IconData(
-    0xf127,
+    0xf12b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-rtt`
   static const IconifyIconData twotoneRtt = IconifyIconData(IconData(
-    0xf128,
+    0xf12c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-rule`
   static const IconifyIconData twotoneRule = IconifyIconData(IconData(
-    0xf129,
+    0xf12d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-rule-folder`
-  static const IconifyIconData twotoneRuleFolder = IconifyIconData(IconData(
-    0xf12a,
+  /// `twotone-rule-folder` — primary layer (full opacity)
+  static const IconifyIconData twotoneRuleFolderPrimary = IconifyIconData(IconData(
+    0xf12e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-run-circle`
-  static const IconifyIconData twotoneRunCircle = IconifyIconData(IconData(
-    0xf12b,
+  /// `twotone-rule-folder` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRuleFolderSecondary = IconifyIconData(IconData(
+    0xf12e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-run-circle` — primary layer (full opacity)
+  static const IconifyIconData twotoneRunCirclePrimary = IconifyIconData(IconData(
+    0xf12f,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-run-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneRunCircleSecondary = IconifyIconData(IconData(
+    0xf12f,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-running-with-errors`
   static const IconifyIconData twotoneRunningWithErrors = IconifyIconData(IconData(
-    0xf12c,
+    0xf130,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-rv-hookup`
   static const IconifyIconData twotoneRvHookup = IconifyIconData(IconData(
-    0xf12d,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-safety-check`
-  static const IconifyIconData twotoneSafetyCheck = IconifyIconData(IconData(
-    0xf12e,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-safety-divider`
-  static const IconifyIconData twotoneSafetyDivider = IconifyIconData(IconData(
-    0xf12f,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-sailing`
-  static const IconifyIconData twotoneSailing = IconifyIconData(IconData(
-    0xf130,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-sanitizer`
-  static const IconifyIconData twotoneSanitizer = IconifyIconData(IconData(
     0xf131,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-satellite`
-  static const IconifyIconData twotoneSatellite = IconifyIconData(IconData(
+  /// `twotone-safety-check` — primary layer (full opacity)
+  static const IconifyIconData twotoneSafetyCheckPrimary = IconifyIconData(IconData(
     0xf132,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-satellite-alt`
-  static const IconifyIconData twotoneSatelliteAlt = IconifyIconData(IconData(
+  /// `twotone-safety-check` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSafetyCheckSecondary = IconifyIconData(IconData(
+    0xf132,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-safety-divider`
+  static const IconifyIconData twotoneSafetyDivider = IconifyIconData(IconData(
     0xf133,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-save`
-  static const IconifyIconData twotoneSave = IconifyIconData(IconData(
+  /// `twotone-sailing` — primary layer (full opacity)
+  static const IconifyIconData twotoneSailingPrimary = IconifyIconData(IconData(
     0xf134,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-save-all`
-  static const IconifyIconData twotoneSaveAll = IconifyIconData(IconData(
+  /// `twotone-sailing` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSailingSecondary = IconifyIconData(IconData(
+    0xf134,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sanitizer` — primary layer (full opacity)
+  static const IconifyIconData twotoneSanitizerPrimary = IconifyIconData(IconData(
     0xf135,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-save-alt`
-  static const IconifyIconData twotoneSaveAlt = IconifyIconData(IconData(
+  /// `twotone-sanitizer` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSanitizerSecondary = IconifyIconData(IconData(
+    0xf135,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-satellite` — primary layer (full opacity)
+  static const IconifyIconData twotoneSatellitePrimary = IconifyIconData(IconData(
     0xf136,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-save-as`
-  static const IconifyIconData twotoneSaveAs = IconifyIconData(IconData(
+  /// `twotone-satellite` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSatelliteSecondary = IconifyIconData(IconData(
+    0xf136,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-satellite-alt` — primary layer (full opacity)
+  static const IconifyIconData twotoneSatelliteAltPrimary = IconifyIconData(IconData(
     0xf137,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-saved-search`
-  static const IconifyIconData twotoneSavedSearch = IconifyIconData(IconData(
+  /// `twotone-satellite-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSatelliteAltSecondary = IconifyIconData(IconData(
+    0xf137,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-save` — primary layer (full opacity)
+  static const IconifyIconData twotoneSavePrimary = IconifyIconData(IconData(
     0xf138,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-savings`
-  static const IconifyIconData twotoneSavings = IconifyIconData(IconData(
+  /// `twotone-save` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSaveSecondary = IconifyIconData(IconData(
+    0xf138,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-save-all` — primary layer (full opacity)
+  static const IconifyIconData twotoneSaveAllPrimary = IconifyIconData(IconData(
     0xf139,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-scale`
-  static const IconifyIconData twotoneScale = IconifyIconData(IconData(
+  /// `twotone-save-all` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSaveAllSecondary = IconifyIconData(IconData(
+    0xf139,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-save-alt`
+  static const IconifyIconData twotoneSaveAlt = IconifyIconData(IconData(
     0xf13a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-scanner`
-  static const IconifyIconData twotoneScanner = IconifyIconData(IconData(
+  /// `twotone-save-as` — primary layer (full opacity)
+  static const IconifyIconData twotoneSaveAsPrimary = IconifyIconData(IconData(
     0xf13b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-scatter-plot`
-  static const IconifyIconData twotoneScatterPlot = IconifyIconData(IconData(
+  /// `twotone-save-as` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSaveAsSecondary = IconifyIconData(IconData(
+    0xf13b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-saved-search`
+  static const IconifyIconData twotoneSavedSearch = IconifyIconData(IconData(
     0xf13c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-schedule`
-  static const IconifyIconData twotoneSchedule = IconifyIconData(IconData(
+  /// `twotone-savings` — primary layer (full opacity)
+  static const IconifyIconData twotoneSavingsPrimary = IconifyIconData(IconData(
     0xf13d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-schedule-send`
-  static const IconifyIconData twotoneScheduleSend = IconifyIconData(IconData(
+  /// `twotone-savings` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSavingsSecondary = IconifyIconData(IconData(
+    0xf13d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-scale` — primary layer (full opacity)
+  static const IconifyIconData twotoneScalePrimary = IconifyIconData(IconData(
     0xf13e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-schema`
-  static const IconifyIconData twotoneSchema = IconifyIconData(IconData(
+  /// `twotone-scale` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneScaleSecondary = IconifyIconData(IconData(
+    0xf13e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-scanner` — primary layer (full opacity)
+  static const IconifyIconData twotoneScannerPrimary = IconifyIconData(IconData(
     0xf13f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-school`
-  static const IconifyIconData twotoneSchool = IconifyIconData(IconData(
+  /// `twotone-scanner` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneScannerSecondary = IconifyIconData(IconData(
+    0xf13f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-scatter-plot` — primary layer (full opacity)
+  static const IconifyIconData twotoneScatterPlotPrimary = IconifyIconData(IconData(
     0xf140,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-science`
-  static const IconifyIconData twotoneScience = IconifyIconData(IconData(
+  /// `twotone-scatter-plot` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneScatterPlotSecondary = IconifyIconData(IconData(
+    0xf140,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-schedule` — primary layer (full opacity)
+  static const IconifyIconData twotoneSchedulePrimary = IconifyIconData(IconData(
     0xf141,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-score`
-  static const IconifyIconData twotoneScore = IconifyIconData(IconData(
+  /// `twotone-schedule` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneScheduleSecondary = IconifyIconData(IconData(
+    0xf141,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-schedule-send` — primary layer (full opacity)
+  static const IconifyIconData twotoneScheduleSendPrimary = IconifyIconData(IconData(
     0xf142,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-scoreboard`
-  static const IconifyIconData twotoneScoreboard = IconifyIconData(IconData(
+  /// `twotone-schedule-send` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneScheduleSendSecondary = IconifyIconData(IconData(
+    0xf142,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-schema` — primary layer (full opacity)
+  static const IconifyIconData twotoneSchemaPrimary = IconifyIconData(IconData(
     0xf143,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-screen-lock-landscape`
-  static const IconifyIconData twotoneScreenLockLandscape = IconifyIconData(IconData(
+  /// `twotone-schema` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSchemaSecondary = IconifyIconData(IconData(
+    0xf143,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-school` — primary layer (full opacity)
+  static const IconifyIconData twotoneSchoolPrimary = IconifyIconData(IconData(
     0xf144,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-screen-lock-portrait`
-  static const IconifyIconData twotoneScreenLockPortrait = IconifyIconData(IconData(
+  /// `twotone-school` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSchoolSecondary = IconifyIconData(IconData(
+    0xf144,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-science` — primary layer (full opacity)
+  static const IconifyIconData twotoneSciencePrimary = IconifyIconData(IconData(
     0xf145,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-screen-lock-rotation`
-  static const IconifyIconData twotoneScreenLockRotation = IconifyIconData(IconData(
+  /// `twotone-science` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneScienceSecondary = IconifyIconData(IconData(
+    0xf145,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-score` — primary layer (full opacity)
+  static const IconifyIconData twotoneScorePrimary = IconifyIconData(IconData(
     0xf146,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-screen-rotation`
-  static const IconifyIconData twotoneScreenRotation = IconifyIconData(IconData(
+  /// `twotone-score` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneScoreSecondary = IconifyIconData(IconData(
+    0xf146,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-scoreboard` — primary layer (full opacity)
+  static const IconifyIconData twotoneScoreboardPrimary = IconifyIconData(IconData(
     0xf147,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-screen-rotation-alt`
-  static const IconifyIconData twotoneScreenRotationAlt = IconifyIconData(IconData(
+  /// `twotone-scoreboard` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneScoreboardSecondary = IconifyIconData(IconData(
+    0xf147,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-screen-lock-landscape` — primary layer (full opacity)
+  static const IconifyIconData twotoneScreenLockLandscapePrimary = IconifyIconData(IconData(
     0xf148,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-screen-search-desktop`
-  static const IconifyIconData twotoneScreenSearchDesktop = IconifyIconData(IconData(
+  /// `twotone-screen-lock-landscape` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneScreenLockLandscapeSecondary = IconifyIconData(IconData(
+    0xf148,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-screen-lock-portrait` — primary layer (full opacity)
+  static const IconifyIconData twotoneScreenLockPortraitPrimary = IconifyIconData(IconData(
     0xf149,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-screen-share`
-  static const IconifyIconData twotoneScreenShare = IconifyIconData(IconData(
+  /// `twotone-screen-lock-portrait` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneScreenLockPortraitSecondary = IconifyIconData(IconData(
+    0xf149,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-screen-lock-rotation`
+  static const IconifyIconData twotoneScreenLockRotation = IconifyIconData(IconData(
     0xf14a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-screenshot`
-  static const IconifyIconData twotoneScreenshot = IconifyIconData(IconData(
+  /// `twotone-screen-rotation` — primary layer (full opacity)
+  static const IconifyIconData twotoneScreenRotationPrimary = IconifyIconData(IconData(
     0xf14b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-screenshot-monitor`
-  static const IconifyIconData twotoneScreenshotMonitor = IconifyIconData(IconData(
+  /// `twotone-screen-rotation` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneScreenRotationSecondary = IconifyIconData(IconData(
+    0xf14b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-screen-rotation-alt`
+  static const IconifyIconData twotoneScreenRotationAlt = IconifyIconData(IconData(
     0xf14c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-scuba-diving`
-  static const IconifyIconData twotoneScubaDiving = IconifyIconData(IconData(
+  /// `twotone-screen-search-desktop` — primary layer (full opacity)
+  static const IconifyIconData twotoneScreenSearchDesktopPrimary = IconifyIconData(IconData(
     0xf14d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-sd`
-  static const IconifyIconData twotoneSd = IconifyIconData(IconData(
+  /// `twotone-screen-search-desktop` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneScreenSearchDesktopSecondary = IconifyIconData(IconData(
+    0xf14d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-screen-share` — primary layer (full opacity)
+  static const IconifyIconData twotoneScreenSharePrimary = IconifyIconData(IconData(
     0xf14e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-sd-card`
-  static const IconifyIconData twotoneSdCard = IconifyIconData(IconData(
+  /// `twotone-screen-share` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneScreenShareSecondary = IconifyIconData(IconData(
+    0xf14e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-screenshot` — primary layer (full opacity)
+  static const IconifyIconData twotoneScreenshotPrimary = IconifyIconData(IconData(
     0xf14f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-sd-card-alert`
-  static const IconifyIconData twotoneSdCardAlert = IconifyIconData(IconData(
+  /// `twotone-screenshot` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneScreenshotSecondary = IconifyIconData(IconData(
+    0xf14f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-screenshot-monitor` — primary layer (full opacity)
+  static const IconifyIconData twotoneScreenshotMonitorPrimary = IconifyIconData(IconData(
     0xf150,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-sd-storage`
-  static const IconifyIconData twotoneSdStorage = IconifyIconData(IconData(
+  /// `twotone-screenshot-monitor` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneScreenshotMonitorSecondary = IconifyIconData(IconData(
+    0xf150,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-scuba-diving`
+  static const IconifyIconData twotoneScubaDiving = IconifyIconData(IconData(
     0xf151,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-sd` — primary layer (full opacity)
+  static const IconifyIconData twotoneSdPrimary = IconifyIconData(IconData(
+    0xf152,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sd` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSdSecondary = IconifyIconData(IconData(
+    0xf152,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sd-card` — primary layer (full opacity)
+  static const IconifyIconData twotoneSdCardPrimary = IconifyIconData(IconData(
+    0xf153,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sd-card` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSdCardSecondary = IconifyIconData(IconData(
+    0xf153,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sd-card-alert` — primary layer (full opacity)
+  static const IconifyIconData twotoneSdCardAlertPrimary = IconifyIconData(IconData(
+    0xf154,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sd-card-alert` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSdCardAlertSecondary = IconifyIconData(IconData(
+    0xf154,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sd-storage` — primary layer (full opacity)
+  static const IconifyIconData twotoneSdStoragePrimary = IconifyIconData(IconData(
+    0xf155,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sd-storage` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSdStorageSecondary = IconifyIconData(IconData(
+    0xf155,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-search`
   static const IconifyIconData twotoneSearch = IconifyIconData(IconData(
-    0xf152,
+    0xf156,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-search-off`
   static const IconifyIconData twotoneSearchOff = IconifyIconData(IconData(
-    0xf153,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-security`
-  static const IconifyIconData twotoneSecurity = IconifyIconData(IconData(
-    0xf154,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-security-update`
-  static const IconifyIconData twotoneSecurityUpdate = IconifyIconData(IconData(
-    0xf155,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-security-update-good`
-  static const IconifyIconData twotoneSecurityUpdateGood = IconifyIconData(IconData(
-    0xf156,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-security-update-warning`
-  static const IconifyIconData twotoneSecurityUpdateWarning = IconifyIconData(IconData(
     0xf157,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-security` — primary layer (full opacity)
+  static const IconifyIconData twotoneSecurityPrimary = IconifyIconData(IconData(
+    0xf158,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-security` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSecuritySecondary = IconifyIconData(IconData(
+    0xf158,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-security-update` — primary layer (full opacity)
+  static const IconifyIconData twotoneSecurityUpdatePrimary = IconifyIconData(IconData(
+    0xf159,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-security-update` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSecurityUpdateSecondary = IconifyIconData(IconData(
+    0xf159,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-security-update-good` — primary layer (full opacity)
+  static const IconifyIconData twotoneSecurityUpdateGoodPrimary = IconifyIconData(IconData(
+    0xf15a,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-security-update-good` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSecurityUpdateGoodSecondary = IconifyIconData(IconData(
+    0xf15a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-security-update-warning` — primary layer (full opacity)
+  static const IconifyIconData twotoneSecurityUpdateWarningPrimary = IconifyIconData(IconData(
+    0xf15b,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-security-update-warning` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSecurityUpdateWarningSecondary = IconifyIconData(IconData(
+    0xf15b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-segment`
   static const IconifyIconData twotoneSegment = IconifyIconData(IconData(
-    0xf158,
+    0xf15c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-select-all`
   static const IconifyIconData twotoneSelectAll = IconifyIconData(IconData(
-    0xf159,
+    0xf15d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-self-improvement`
   static const IconifyIconData twotoneSelfImprovement = IconifyIconData(IconData(
-    0xf15a,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-sell`
-  static const IconifyIconData twotoneSell = IconifyIconData(IconData(
-    0xf15b,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-send`
-  static const IconifyIconData twotoneSend = IconifyIconData(IconData(
-    0xf15c,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-send-and-archive`
-  static const IconifyIconData twotoneSendAndArchive = IconifyIconData(IconData(
-    0xf15d,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-send-time-extension`
-  static const IconifyIconData twotoneSendTimeExtension = IconifyIconData(IconData(
     0xf15e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-send-to-mobile`
-  static const IconifyIconData twotoneSendToMobile = IconifyIconData(IconData(
+  /// `twotone-sell` — primary layer (full opacity)
+  static const IconifyIconData twotoneSellPrimary = IconifyIconData(IconData(
     0xf15f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-sensor-door`
-  static const IconifyIconData twotoneSensorDoor = IconifyIconData(IconData(
+  /// `twotone-sell` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSellSecondary = IconifyIconData(IconData(
+    0xf15f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-send` — primary layer (full opacity)
+  static const IconifyIconData twotoneSendPrimary = IconifyIconData(IconData(
     0xf160,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-sensor-occupied`
-  static const IconifyIconData twotoneSensorOccupied = IconifyIconData(IconData(
+  /// `twotone-send` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSendSecondary = IconifyIconData(IconData(
+    0xf160,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-send-and-archive` — primary layer (full opacity)
+  static const IconifyIconData twotoneSendAndArchivePrimary = IconifyIconData(IconData(
     0xf161,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-sensor-window`
-  static const IconifyIconData twotoneSensorWindow = IconifyIconData(IconData(
+  /// `twotone-send-and-archive` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSendAndArchiveSecondary = IconifyIconData(IconData(
+    0xf161,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-send-time-extension` — primary layer (full opacity)
+  static const IconifyIconData twotoneSendTimeExtensionPrimary = IconifyIconData(IconData(
     0xf162,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-send-time-extension` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSendTimeExtensionSecondary = IconifyIconData(IconData(
+    0xf162,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-send-to-mobile` — primary layer (full opacity)
+  static const IconifyIconData twotoneSendToMobilePrimary = IconifyIconData(IconData(
+    0xf163,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-send-to-mobile` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSendToMobileSecondary = IconifyIconData(IconData(
+    0xf163,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sensor-door` — primary layer (full opacity)
+  static const IconifyIconData twotoneSensorDoorPrimary = IconifyIconData(IconData(
+    0xf164,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sensor-door` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSensorDoorSecondary = IconifyIconData(IconData(
+    0xf164,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sensor-occupied` — primary layer (full opacity)
+  static const IconifyIconData twotoneSensorOccupiedPrimary = IconifyIconData(IconData(
+    0xf165,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sensor-occupied` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSensorOccupiedSecondary = IconifyIconData(IconData(
+    0xf165,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sensor-window` — primary layer (full opacity)
+  static const IconifyIconData twotoneSensorWindowPrimary = IconifyIconData(IconData(
+    0xf166,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sensor-window` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSensorWindowSecondary = IconifyIconData(IconData(
+    0xf166,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-sensors`
   static const IconifyIconData twotoneSensors = IconifyIconData(IconData(
-    0xf163,
+    0xf167,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-sensors-off`
   static const IconifyIconData twotoneSensorsOff = IconifyIconData(IconData(
-    0xf164,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-sentiment-dissatisfied`
-  static const IconifyIconData twotoneSentimentDissatisfied = IconifyIconData(IconData(
-    0xf165,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-sentiment-neutral`
-  static const IconifyIconData twotoneSentimentNeutral = IconifyIconData(IconData(
-    0xf166,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-sentiment-satisfied`
-  static const IconifyIconData twotoneSentimentSatisfied = IconifyIconData(IconData(
-    0xf167,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-sentiment-satisfied-alt`
-  static const IconifyIconData twotoneSentimentSatisfiedAlt = IconifyIconData(IconData(
     0xf168,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-sentiment-slightly-dissatisfied`
-  static const IconifyIconData twotoneSentimentSlightlyDissatisfied = IconifyIconData(IconData(
+  /// `twotone-sentiment-dissatisfied` — primary layer (full opacity)
+  static const IconifyIconData twotoneSentimentDissatisfiedPrimary = IconifyIconData(IconData(
     0xf169,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-sentiment-very-dissatisfied`
-  static const IconifyIconData twotoneSentimentVeryDissatisfied = IconifyIconData(IconData(
+  /// `twotone-sentiment-dissatisfied` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSentimentDissatisfiedSecondary = IconifyIconData(IconData(
+    0xf169,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sentiment-neutral` — primary layer (full opacity)
+  static const IconifyIconData twotoneSentimentNeutralPrimary = IconifyIconData(IconData(
     0xf16a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-sentiment-very-satisfied`
-  static const IconifyIconData twotoneSentimentVerySatisfied = IconifyIconData(IconData(
+  /// `twotone-sentiment-neutral` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSentimentNeutralSecondary = IconifyIconData(IconData(
+    0xf16a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sentiment-satisfied` — primary layer (full opacity)
+  static const IconifyIconData twotoneSentimentSatisfiedPrimary = IconifyIconData(IconData(
     0xf16b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-set-meal`
-  static const IconifyIconData twotoneSetMeal = IconifyIconData(IconData(
+  /// `twotone-sentiment-satisfied` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSentimentSatisfiedSecondary = IconifyIconData(IconData(
+    0xf16b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sentiment-satisfied-alt` — primary layer (full opacity)
+  static const IconifyIconData twotoneSentimentSatisfiedAltPrimary = IconifyIconData(IconData(
     0xf16c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-settings`
-  static const IconifyIconData twotoneSettings = IconifyIconData(IconData(
+  /// `twotone-sentiment-satisfied-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSentimentSatisfiedAltSecondary = IconifyIconData(IconData(
+    0xf16c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sentiment-slightly-dissatisfied` — primary layer (full opacity)
+  static const IconifyIconData twotoneSentimentSlightlyDissatisfiedPrimary = IconifyIconData(IconData(
     0xf16d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-sentiment-slightly-dissatisfied` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSentimentSlightlyDissatisfiedSecondary = IconifyIconData(IconData(
+    0xf16d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sentiment-very-dissatisfied` — primary layer (full opacity)
+  static const IconifyIconData twotoneSentimentVeryDissatisfiedPrimary = IconifyIconData(IconData(
+    0xf16e,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sentiment-very-dissatisfied` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSentimentVeryDissatisfiedSecondary = IconifyIconData(IconData(
+    0xf16e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sentiment-very-satisfied` — primary layer (full opacity)
+  static const IconifyIconData twotoneSentimentVerySatisfiedPrimary = IconifyIconData(IconData(
+    0xf16f,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sentiment-very-satisfied` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSentimentVerySatisfiedSecondary = IconifyIconData(IconData(
+    0xf16f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-set-meal` — primary layer (full opacity)
+  static const IconifyIconData twotoneSetMealPrimary = IconifyIconData(IconData(
+    0xf170,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-set-meal` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSetMealSecondary = IconifyIconData(IconData(
+    0xf170,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-settings` — primary layer (full opacity)
+  static const IconifyIconData twotoneSettingsPrimary = IconifyIconData(IconData(
+    0xf171,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-settings` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSettingsSecondary = IconifyIconData(IconData(
+    0xf171,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-settings-accessibility`
   static const IconifyIconData twotoneSettingsAccessibility = IconifyIconData(IconData(
-    0xf16e,
+    0xf172,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-settings-backup-restore`
   static const IconifyIconData twotoneSettingsBackupRestore = IconifyIconData(IconData(
-    0xf16f,
+    0xf173,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-settings-bluetooth`
   static const IconifyIconData twotoneSettingsBluetooth = IconifyIconData(IconData(
-    0xf170,
+    0xf174,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-settings-brightness`
-  static const IconifyIconData twotoneSettingsBrightness = IconifyIconData(IconData(
-    0xf171,
+  /// `twotone-settings-brightness` — primary layer (full opacity)
+  static const IconifyIconData twotoneSettingsBrightnessPrimary = IconifyIconData(IconData(
+    0xf175,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-settings-cell`
-  static const IconifyIconData twotoneSettingsCell = IconifyIconData(IconData(
-    0xf172,
+  /// `twotone-settings-brightness` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSettingsBrightnessSecondary = IconifyIconData(IconData(
+    0xf175,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-settings-cell` — primary layer (full opacity)
+  static const IconifyIconData twotoneSettingsCellPrimary = IconifyIconData(IconData(
+    0xf176,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-settings-cell` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSettingsCellSecondary = IconifyIconData(IconData(
+    0xf176,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-settings-ethernet`
   static const IconifyIconData twotoneSettingsEthernet = IconifyIconData(IconData(
-    0xf173,
+    0xf177,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-settings-input-antenna`
   static const IconifyIconData twotoneSettingsInputAntenna = IconifyIconData(IconData(
-    0xf174,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-settings-input-component`
-  static const IconifyIconData twotoneSettingsInputComponent = IconifyIconData(IconData(
-    0xf175,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-settings-input-composite`
-  static const IconifyIconData twotoneSettingsInputComposite = IconifyIconData(IconData(
-    0xf176,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-settings-input-hdmi`
-  static const IconifyIconData twotoneSettingsInputHdmi = IconifyIconData(IconData(
-    0xf177,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-settings-input-svideo`
-  static const IconifyIconData twotoneSettingsInputSvideo = IconifyIconData(IconData(
     0xf178,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-settings-overscan`
-  static const IconifyIconData twotoneSettingsOverscan = IconifyIconData(IconData(
+  /// `twotone-settings-input-component` — primary layer (full opacity)
+  static const IconifyIconData twotoneSettingsInputComponentPrimary = IconifyIconData(IconData(
     0xf179,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-settings-phone`
-  static const IconifyIconData twotoneSettingsPhone = IconifyIconData(IconData(
+  /// `twotone-settings-input-component` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSettingsInputComponentSecondary = IconifyIconData(IconData(
+    0xf179,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-settings-input-composite` — primary layer (full opacity)
+  static const IconifyIconData twotoneSettingsInputCompositePrimary = IconifyIconData(IconData(
     0xf17a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-settings-power`
-  static const IconifyIconData twotoneSettingsPower = IconifyIconData(IconData(
+  /// `twotone-settings-input-composite` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSettingsInputCompositeSecondary = IconifyIconData(IconData(
+    0xf17a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-settings-input-hdmi` — primary layer (full opacity)
+  static const IconifyIconData twotoneSettingsInputHdmiPrimary = IconifyIconData(IconData(
     0xf17b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-settings-remote`
-  static const IconifyIconData twotoneSettingsRemote = IconifyIconData(IconData(
+  /// `twotone-settings-input-hdmi` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSettingsInputHdmiSecondary = IconifyIconData(IconData(
+    0xf17b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-settings-input-svideo` — primary layer (full opacity)
+  static const IconifyIconData twotoneSettingsInputSvideoPrimary = IconifyIconData(IconData(
     0xf17c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-settings-system-daydream`
-  static const IconifyIconData twotoneSettingsSystemDaydream = IconifyIconData(IconData(
+  /// `twotone-settings-input-svideo` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSettingsInputSvideoSecondary = IconifyIconData(IconData(
+    0xf17c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-settings-overscan` — primary layer (full opacity)
+  static const IconifyIconData twotoneSettingsOverscanPrimary = IconifyIconData(IconData(
     0xf17d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-settings-voice`
-  static const IconifyIconData twotoneSettingsVoice = IconifyIconData(IconData(
+  /// `twotone-settings-overscan` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSettingsOverscanSecondary = IconifyIconData(IconData(
+    0xf17d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-settings-phone` — primary layer (full opacity)
+  static const IconifyIconData twotoneSettingsPhonePrimary = IconifyIconData(IconData(
     0xf17e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-severe-cold`
-  static const IconifyIconData twotoneSevereCold = IconifyIconData(IconData(
+  /// `twotone-settings-phone` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSettingsPhoneSecondary = IconifyIconData(IconData(
+    0xf17e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-settings-power`
+  static const IconifyIconData twotoneSettingsPower = IconifyIconData(IconData(
     0xf17f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-shape-line`
-  static const IconifyIconData twotoneShapeLine = IconifyIconData(IconData(
+  /// `twotone-settings-remote` — primary layer (full opacity)
+  static const IconifyIconData twotoneSettingsRemotePrimary = IconifyIconData(IconData(
     0xf180,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-share`
-  static const IconifyIconData twotoneShare = IconifyIconData(IconData(
+  /// `twotone-settings-remote` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSettingsRemoteSecondary = IconifyIconData(IconData(
+    0xf180,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-settings-system-daydream` — primary layer (full opacity)
+  static const IconifyIconData twotoneSettingsSystemDaydreamPrimary = IconifyIconData(IconData(
     0xf181,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-share-arrival-time`
-  static const IconifyIconData twotoneShareArrivalTime = IconifyIconData(IconData(
+  /// `twotone-settings-system-daydream` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSettingsSystemDaydreamSecondary = IconifyIconData(IconData(
+    0xf181,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-settings-voice` — primary layer (full opacity)
+  static const IconifyIconData twotoneSettingsVoicePrimary = IconifyIconData(IconData(
     0xf182,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-share-location`
-  static const IconifyIconData twotoneShareLocation = IconifyIconData(IconData(
+  /// `twotone-settings-voice` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSettingsVoiceSecondary = IconifyIconData(IconData(
+    0xf182,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-severe-cold`
+  static const IconifyIconData twotoneSevereCold = IconifyIconData(IconData(
     0xf183,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-shield`
-  static const IconifyIconData twotoneShield = IconifyIconData(IconData(
+  /// `twotone-shape-line` — primary layer (full opacity)
+  static const IconifyIconData twotoneShapeLinePrimary = IconifyIconData(IconData(
     0xf184,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-shop`
-  static const IconifyIconData twotoneShop = IconifyIconData(IconData(
+  /// `twotone-shape-line` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneShapeLineSecondary = IconifyIconData(IconData(
+    0xf184,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-share` — primary layer (full opacity)
+  static const IconifyIconData twotoneSharePrimary = IconifyIconData(IconData(
     0xf185,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-shop-2`
-  static const IconifyIconData twotoneShop2 = IconifyIconData(IconData(
+  /// `twotone-share` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneShareSecondary = IconifyIconData(IconData(
+    0xf185,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-share-arrival-time` — primary layer (full opacity)
+  static const IconifyIconData twotoneShareArrivalTimePrimary = IconifyIconData(IconData(
     0xf186,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-shop-two`
-  static const IconifyIconData twotoneShopTwo = IconifyIconData(IconData(
+  /// `twotone-share-arrival-time` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneShareArrivalTimeSecondary = IconifyIconData(IconData(
+    0xf186,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-share-location`
+  static const IconifyIconData twotoneShareLocation = IconifyIconData(IconData(
     0xf187,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-shopify`
-  static const IconifyIconData twotoneShopify = IconifyIconData(IconData(
+  /// `twotone-shield` — primary layer (full opacity)
+  static const IconifyIconData twotoneShieldPrimary = IconifyIconData(IconData(
     0xf188,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-shopping-bag`
-  static const IconifyIconData twotoneShoppingBag = IconifyIconData(IconData(
+  /// `twotone-shield` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneShieldSecondary = IconifyIconData(IconData(
+    0xf188,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-shop` — primary layer (full opacity)
+  static const IconifyIconData twotoneShopPrimary = IconifyIconData(IconData(
     0xf189,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-shopping-basket`
-  static const IconifyIconData twotoneShoppingBasket = IconifyIconData(IconData(
+  /// `twotone-shop` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneShopSecondary = IconifyIconData(IconData(
+    0xf189,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-shop-2` — primary layer (full opacity)
+  static const IconifyIconData twotoneShop2Primary = IconifyIconData(IconData(
     0xf18a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-shop-2` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneShop2Secondary = IconifyIconData(IconData(
+    0xf18a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-shop-two` — primary layer (full opacity)
+  static const IconifyIconData twotoneShopTwoPrimary = IconifyIconData(IconData(
+    0xf18b,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-shop-two` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneShopTwoSecondary = IconifyIconData(IconData(
+    0xf18b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-shopify`
+  static const IconifyIconData twotoneShopify = IconifyIconData(IconData(
+    0xf18c,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-shopping-bag` — primary layer (full opacity)
+  static const IconifyIconData twotoneShoppingBagPrimary = IconifyIconData(IconData(
+    0xf18d,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-shopping-bag` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneShoppingBagSecondary = IconifyIconData(IconData(
+    0xf18d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-shopping-basket` — primary layer (full opacity)
+  static const IconifyIconData twotoneShoppingBasketPrimary = IconifyIconData(IconData(
+    0xf18e,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-shopping-basket` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneShoppingBasketSecondary = IconifyIconData(IconData(
+    0xf18e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-shopping-cart-checkout`
   static const IconifyIconData twotoneShoppingCartCheckout = IconifyIconData(IconData(
-    0xf18b,
+    0xf18f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-short-text`
   static const IconifyIconData twotoneShortText = IconifyIconData(IconData(
-    0xf18c,
+    0xf190,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-shortcut`
   static const IconifyIconData twotoneShortcut = IconifyIconData(IconData(
-    0xf18d,
+    0xf191,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-show-chart`
   static const IconifyIconData twotoneShowChart = IconifyIconData(IconData(
-    0xf18e,
+    0xf192,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-shower`
-  static const IconifyIconData twotoneShower = IconifyIconData(IconData(
-    0xf18f,
+  /// `twotone-shower` — primary layer (full opacity)
+  static const IconifyIconData twotoneShowerPrimary = IconifyIconData(IconData(
+    0xf193,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-shower` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneShowerSecondary = IconifyIconData(IconData(
+    0xf193,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-shuffle`
   static const IconifyIconData twotoneShuffle = IconifyIconData(IconData(
-    0xf190,
+    0xf194,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-shuffle-on`
   static const IconifyIconData twotoneShuffleOn = IconifyIconData(IconData(
-    0xf191,
+    0xf195,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-shutter-speed`
-  static const IconifyIconData twotoneShutterSpeed = IconifyIconData(IconData(
-    0xf192,
+  /// `twotone-shutter-speed` — primary layer (full opacity)
+  static const IconifyIconData twotoneShutterSpeedPrimary = IconifyIconData(IconData(
+    0xf196,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-shutter-speed` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneShutterSpeedSecondary = IconifyIconData(IconData(
+    0xf196,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-sick`
   static const IconifyIconData twotoneSick = IconifyIconData(IconData(
-    0xf193,
+    0xf197,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-cellular-0-bar`
   static const IconifyIconData twotoneSignalCellular0Bar = IconifyIconData(IconData(
-    0xf194,
+    0xf198,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-cellular-1-bar`
   static const IconifyIconData twotoneSignalCellular1Bar = IconifyIconData(IconData(
-    0xf195,
+    0xf199,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-cellular-2-bar`
   static const IconifyIconData twotoneSignalCellular2Bar = IconifyIconData(IconData(
-    0xf196,
+    0xf19a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-cellular-3-bar`
   static const IconifyIconData twotoneSignalCellular3Bar = IconifyIconData(IconData(
-    0xf197,
+    0xf19b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-cellular-4-bar`
   static const IconifyIconData twotoneSignalCellular4Bar = IconifyIconData(IconData(
-    0xf198,
+    0xf19c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-cellular-alt`
   static const IconifyIconData twotoneSignalCellularAlt = IconifyIconData(IconData(
-    0xf199,
+    0xf19d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-cellular-alt-1-bar`
   static const IconifyIconData twotoneSignalCellularAlt1Bar = IconifyIconData(IconData(
-    0xf19a,
+    0xf19e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-cellular-alt-2-bar`
   static const IconifyIconData twotoneSignalCellularAlt2Bar = IconifyIconData(IconData(
-    0xf19b,
+    0xf19f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-cellular-connected-no-internet-0-bar`
   static const IconifyIconData twotoneSignalCellularConnectedNoInternet0Bar = IconifyIconData(IconData(
-    0xf19c,
+    0xf1a0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-cellular-connected-no-internet-1-bar`
   static const IconifyIconData twotoneSignalCellularConnectedNoInternet1Bar = IconifyIconData(IconData(
-    0xf19d,
+    0xf1a1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-cellular-connected-no-internet-2-bar`
   static const IconifyIconData twotoneSignalCellularConnectedNoInternet2Bar = IconifyIconData(IconData(
-    0xf19e,
+    0xf1a2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-cellular-connected-no-internet-3-bar`
   static const IconifyIconData twotoneSignalCellularConnectedNoInternet3Bar = IconifyIconData(IconData(
-    0xf19f,
+    0xf1a3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-cellular-connected-no-internet-4-bar`
   static const IconifyIconData twotoneSignalCellularConnectedNoInternet4Bar = IconifyIconData(IconData(
-    0xf1a0,
+    0xf1a4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-signal-cellular-no-sim`
-  static const IconifyIconData twotoneSignalCellularNoSim = IconifyIconData(IconData(
-    0xf1a1,
+  /// `twotone-signal-cellular-no-sim` — primary layer (full opacity)
+  static const IconifyIconData twotoneSignalCellularNoSimPrimary = IconifyIconData(IconData(
+    0xf1a5,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-signal-cellular-no-sim` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSignalCellularNoSimSecondary = IconifyIconData(IconData(
+    0xf1a5,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-cellular-nodata`
   static const IconifyIconData twotoneSignalCellularNodata = IconifyIconData(IconData(
-    0xf1a2,
+    0xf1a6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-cellular-null`
   static const IconifyIconData twotoneSignalCellularNull = IconifyIconData(IconData(
-    0xf1a3,
+    0xf1a7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-cellular-off`
   static const IconifyIconData twotoneSignalCellularOff = IconifyIconData(IconData(
-    0xf1a4,
+    0xf1a8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-wifi-0-bar`
   static const IconifyIconData twotoneSignalWifi0Bar = IconifyIconData(IconData(
-    0xf1a5,
+    0xf1a9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-wifi-1-bar`
   static const IconifyIconData twotoneSignalWifi1Bar = IconifyIconData(IconData(
-    0xf1a6,
+    0xf1aa,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-wifi-1-bar-lock`
   static const IconifyIconData twotoneSignalWifi1BarLock = IconifyIconData(IconData(
-    0xf1a7,
+    0xf1ab,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-wifi-2-bar`
   static const IconifyIconData twotoneSignalWifi2Bar = IconifyIconData(IconData(
-    0xf1a8,
+    0xf1ac,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-wifi-2-bar-lock`
   static const IconifyIconData twotoneSignalWifi2BarLock = IconifyIconData(IconData(
-    0xf1a9,
+    0xf1ad,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-wifi-3-bar`
   static const IconifyIconData twotoneSignalWifi3Bar = IconifyIconData(IconData(
-    0xf1aa,
+    0xf1ae,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-wifi-3-bar-lock`
   static const IconifyIconData twotoneSignalWifi3BarLock = IconifyIconData(IconData(
-    0xf1ab,
+    0xf1af,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-wifi-4-bar`
   static const IconifyIconData twotoneSignalWifi4Bar = IconifyIconData(IconData(
-    0xf1ac,
+    0xf1b0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-wifi-4-bar-lock`
   static const IconifyIconData twotoneSignalWifi4BarLock = IconifyIconData(IconData(
-    0xf1ad,
+    0xf1b1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-wifi-bad`
   static const IconifyIconData twotoneSignalWifiBad = IconifyIconData(IconData(
-    0xf1ae,
+    0xf1b2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-wifi-connected-no-internet-4`
   static const IconifyIconData twotoneSignalWifiConnectedNoInternet4 = IconifyIconData(IconData(
-    0xf1af,
+    0xf1b3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-wifi-off`
   static const IconifyIconData twotoneSignalWifiOff = IconifyIconData(IconData(
-    0xf1b0,
+    0xf1b4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-wifi-statusbar-4-bar`
   static const IconifyIconData twotoneSignalWifiStatusbar4Bar = IconifyIconData(IconData(
-    0xf1b1,
+    0xf1b5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-wifi-statusbar-connected-no-internet-4`
   static const IconifyIconData twotoneSignalWifiStatusbarConnectedNoInternet4 = IconifyIconData(IconData(
-    0xf1b2,
+    0xf1b6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-signal-wifi-statusbar-null`
   static const IconifyIconData twotoneSignalWifiStatusbarNull = IconifyIconData(IconData(
-    0xf1b3,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-signpost`
-  static const IconifyIconData twotoneSignpost = IconifyIconData(IconData(
-    0xf1b4,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-sim-card`
-  static const IconifyIconData twotoneSimCard = IconifyIconData(IconData(
-    0xf1b5,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-sim-card-alert`
-  static const IconifyIconData twotoneSimCardAlert = IconifyIconData(IconData(
-    0xf1b6,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-sim-card-download`
-  static const IconifyIconData twotoneSimCardDownload = IconifyIconData(IconData(
     0xf1b7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-single-bed`
-  static const IconifyIconData twotoneSingleBed = IconifyIconData(IconData(
+  /// `twotone-signpost` — primary layer (full opacity)
+  static const IconifyIconData twotoneSignpostPrimary = IconifyIconData(IconData(
     0xf1b8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-sip`
-  static const IconifyIconData twotoneSip = IconifyIconData(IconData(
+  /// `twotone-signpost` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSignpostSecondary = IconifyIconData(IconData(
+    0xf1b8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sim-card` — primary layer (full opacity)
+  static const IconifyIconData twotoneSimCardPrimary = IconifyIconData(IconData(
     0xf1b9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-skip-next`
-  static const IconifyIconData twotoneSkipNext = IconifyIconData(IconData(
+  /// `twotone-sim-card` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSimCardSecondary = IconifyIconData(IconData(
+    0xf1b9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sim-card-alert` — primary layer (full opacity)
+  static const IconifyIconData twotoneSimCardAlertPrimary = IconifyIconData(IconData(
     0xf1ba,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-skip-previous`
-  static const IconifyIconData twotoneSkipPrevious = IconifyIconData(IconData(
+  /// `twotone-sim-card-alert` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSimCardAlertSecondary = IconifyIconData(IconData(
+    0xf1ba,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sim-card-download` — primary layer (full opacity)
+  static const IconifyIconData twotoneSimCardDownloadPrimary = IconifyIconData(IconData(
     0xf1bb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-sledding`
-  static const IconifyIconData twotoneSledding = IconifyIconData(IconData(
+  /// `twotone-sim-card-download` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSimCardDownloadSecondary = IconifyIconData(IconData(
+    0xf1bb,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-single-bed` — primary layer (full opacity)
+  static const IconifyIconData twotoneSingleBedPrimary = IconifyIconData(IconData(
     0xf1bc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-slideshow`
-  static const IconifyIconData twotoneSlideshow = IconifyIconData(IconData(
+  /// `twotone-single-bed` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSingleBedSecondary = IconifyIconData(IconData(
+    0xf1bc,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sip` — primary layer (full opacity)
+  static const IconifyIconData twotoneSipPrimary = IconifyIconData(IconData(
     0xf1bd,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-sip` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSipSecondary = IconifyIconData(IconData(
+    0xf1bd,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-skip-next` — primary layer (full opacity)
+  static const IconifyIconData twotoneSkipNextPrimary = IconifyIconData(IconData(
+    0xf1be,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-skip-next` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSkipNextSecondary = IconifyIconData(IconData(
+    0xf1be,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-skip-previous` — primary layer (full opacity)
+  static const IconifyIconData twotoneSkipPreviousPrimary = IconifyIconData(IconData(
+    0xf1bf,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-skip-previous` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSkipPreviousSecondary = IconifyIconData(IconData(
+    0xf1bf,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sledding`
+  static const IconifyIconData twotoneSledding = IconifyIconData(IconData(
+    0xf1c0,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-slideshow` — primary layer (full opacity)
+  static const IconifyIconData twotoneSlideshowPrimary = IconifyIconData(IconData(
+    0xf1c1,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-slideshow` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSlideshowSecondary = IconifyIconData(IconData(
+    0xf1c1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-slow-motion-video`
   static const IconifyIconData twotoneSlowMotionVideo = IconifyIconData(IconData(
-    0xf1be,
+    0xf1c2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-smart-button`
   static const IconifyIconData twotoneSmartButton = IconifyIconData(IconData(
-    0xf1bf,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-smart-display`
-  static const IconifyIconData twotoneSmartDisplay = IconifyIconData(IconData(
-    0xf1c0,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-smart-screen`
-  static const IconifyIconData twotoneSmartScreen = IconifyIconData(IconData(
-    0xf1c1,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-smart-toy`
-  static const IconifyIconData twotoneSmartToy = IconifyIconData(IconData(
-    0xf1c2,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-smartphone`
-  static const IconifyIconData twotoneSmartphone = IconifyIconData(IconData(
     0xf1c3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-smart-display` — primary layer (full opacity)
+  static const IconifyIconData twotoneSmartDisplayPrimary = IconifyIconData(IconData(
+    0xf1c4,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-smart-display` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSmartDisplaySecondary = IconifyIconData(IconData(
+    0xf1c4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-smart-screen` — primary layer (full opacity)
+  static const IconifyIconData twotoneSmartScreenPrimary = IconifyIconData(IconData(
+    0xf1c5,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-smart-screen` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSmartScreenSecondary = IconifyIconData(IconData(
+    0xf1c5,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-smart-toy` — primary layer (full opacity)
+  static const IconifyIconData twotoneSmartToyPrimary = IconifyIconData(IconData(
+    0xf1c6,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-smart-toy` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSmartToySecondary = IconifyIconData(IconData(
+    0xf1c6,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-smartphone` — primary layer (full opacity)
+  static const IconifyIconData twotoneSmartphonePrimary = IconifyIconData(IconData(
+    0xf1c7,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-smartphone` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSmartphoneSecondary = IconifyIconData(IconData(
+    0xf1c7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-smoke-free`
   static const IconifyIconData twotoneSmokeFree = IconifyIconData(IconData(
-    0xf1c4,
+    0xf1c8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-smoking-rooms`
   static const IconifyIconData twotoneSmokingRooms = IconifyIconData(IconData(
-    0xf1c5,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-sms`
-  static const IconifyIconData twotoneSms = IconifyIconData(IconData(
-    0xf1c6,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-sms-failed`
-  static const IconifyIconData twotoneSmsFailed = IconifyIconData(IconData(
-    0xf1c7,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-snapchat`
-  static const IconifyIconData twotoneSnapchat = IconifyIconData(IconData(
-    0xf1c8,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-snippet-folder`
-  static const IconifyIconData twotoneSnippetFolder = IconifyIconData(IconData(
     0xf1c9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-sms` — primary layer (full opacity)
+  static const IconifyIconData twotoneSmsPrimary = IconifyIconData(IconData(
+    0xf1ca,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sms` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSmsSecondary = IconifyIconData(IconData(
+    0xf1ca,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sms-failed` — primary layer (full opacity)
+  static const IconifyIconData twotoneSmsFailedPrimary = IconifyIconData(IconData(
+    0xf1cb,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sms-failed` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSmsFailedSecondary = IconifyIconData(IconData(
+    0xf1cb,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-snapchat`
+  static const IconifyIconData twotoneSnapchat = IconifyIconData(IconData(
+    0xf1cc,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-snippet-folder` — primary layer (full opacity)
+  static const IconifyIconData twotoneSnippetFolderPrimary = IconifyIconData(IconData(
+    0xf1cd,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-snippet-folder` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSnippetFolderSecondary = IconifyIconData(IconData(
+    0xf1cd,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-snooze`
   static const IconifyIconData twotoneSnooze = IconifyIconData(IconData(
-    0xf1ca,
+    0xf1ce,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-snowboarding`
   static const IconifyIconData twotoneSnowboarding = IconifyIconData(IconData(
-    0xf1cb,
+    0xf1cf,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-snowmobile`
-  static const IconifyIconData twotoneSnowmobile = IconifyIconData(IconData(
-    0xf1cc,
+  /// `twotone-snowmobile` — primary layer (full opacity)
+  static const IconifyIconData twotoneSnowmobilePrimary = IconifyIconData(IconData(
+    0xf1d0,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-snowmobile` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSnowmobileSecondary = IconifyIconData(IconData(
+    0xf1d0,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-snowshoeing`
   static const IconifyIconData twotoneSnowshoeing = IconifyIconData(IconData(
-    0xf1cd,
+    0xf1d1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-soap`
-  static const IconifyIconData twotoneSoap = IconifyIconData(IconData(
-    0xf1ce,
+  /// `twotone-soap` — primary layer (full opacity)
+  static const IconifyIconData twotoneSoapPrimary = IconifyIconData(IconData(
+    0xf1d2,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-soap` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSoapSecondary = IconifyIconData(IconData(
+    0xf1d2,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-social-distance`
   static const IconifyIconData twotoneSocialDistance = IconifyIconData(IconData(
-    0xf1cf,
+    0xf1d3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-sort`
   static const IconifyIconData twotoneSort = IconifyIconData(IconData(
-    0xf1d0,
+    0xf1d4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-sort-by-alpha`
   static const IconifyIconData twotoneSortByAlpha = IconifyIconData(IconData(
-    0xf1d1,
+    0xf1d5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-sos`
   static const IconifyIconData twotoneSos = IconifyIconData(IconData(
-    0xf1d2,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-soup-kitchen`
-  static const IconifyIconData twotoneSoupKitchen = IconifyIconData(IconData(
-    0xf1d3,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-source`
-  static const IconifyIconData twotoneSource = IconifyIconData(IconData(
-    0xf1d4,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-south`
-  static const IconifyIconData twotoneSouth = IconifyIconData(IconData(
-    0xf1d5,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-south-america`
-  static const IconifyIconData twotoneSouthAmerica = IconifyIconData(IconData(
     0xf1d6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-soup-kitchen` — primary layer (full opacity)
+  static const IconifyIconData twotoneSoupKitchenPrimary = IconifyIconData(IconData(
+    0xf1d7,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-soup-kitchen` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSoupKitchenSecondary = IconifyIconData(IconData(
+    0xf1d7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-source` — primary layer (full opacity)
+  static const IconifyIconData twotoneSourcePrimary = IconifyIconData(IconData(
+    0xf1d8,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-source` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSourceSecondary = IconifyIconData(IconData(
+    0xf1d8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-south`
+  static const IconifyIconData twotoneSouth = IconifyIconData(IconData(
+    0xf1d9,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-south-america` — primary layer (full opacity)
+  static const IconifyIconData twotoneSouthAmericaPrimary = IconifyIconData(IconData(
+    0xf1da,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-south-america` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSouthAmericaSecondary = IconifyIconData(IconData(
+    0xf1da,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-south-east`
   static const IconifyIconData twotoneSouthEast = IconifyIconData(IconData(
-    0xf1d7,
+    0xf1db,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-south-west`
   static const IconifyIconData twotoneSouthWest = IconifyIconData(IconData(
-    0xf1d8,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-spa`
-  static const IconifyIconData twotoneSpa = IconifyIconData(IconData(
-    0xf1d9,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-space-bar`
-  static const IconifyIconData twotoneSpaceBar = IconifyIconData(IconData(
-    0xf1da,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-space-dashboard`
-  static const IconifyIconData twotoneSpaceDashboard = IconifyIconData(IconData(
-    0xf1db,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-spatial-audio`
-  static const IconifyIconData twotoneSpatialAudio = IconifyIconData(IconData(
     0xf1dc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-spatial-audio-off`
-  static const IconifyIconData twotoneSpatialAudioOff = IconifyIconData(IconData(
+  /// `twotone-spa` — primary layer (full opacity)
+  static const IconifyIconData twotoneSpaPrimary = IconifyIconData(IconData(
     0xf1dd,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-spatial-tracking`
-  static const IconifyIconData twotoneSpatialTracking = IconifyIconData(IconData(
+  /// `twotone-spa` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSpaSecondary = IconifyIconData(IconData(
+    0xf1dd,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-space-bar`
+  static const IconifyIconData twotoneSpaceBar = IconifyIconData(IconData(
     0xf1de,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-speaker`
-  static const IconifyIconData twotoneSpeaker = IconifyIconData(IconData(
+  /// `twotone-space-dashboard` — primary layer (full opacity)
+  static const IconifyIconData twotoneSpaceDashboardPrimary = IconifyIconData(IconData(
     0xf1df,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-speaker-group`
-  static const IconifyIconData twotoneSpeakerGroup = IconifyIconData(IconData(
+  /// `twotone-space-dashboard` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSpaceDashboardSecondary = IconifyIconData(IconData(
+    0xf1df,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-spatial-audio` — primary layer (full opacity)
+  static const IconifyIconData twotoneSpatialAudioPrimary = IconifyIconData(IconData(
     0xf1e0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-speaker-notes`
-  static const IconifyIconData twotoneSpeakerNotes = IconifyIconData(IconData(
+  /// `twotone-spatial-audio` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSpatialAudioSecondary = IconifyIconData(IconData(
+    0xf1e0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-spatial-audio-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneSpatialAudioOffPrimary = IconifyIconData(IconData(
     0xf1e1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-speaker-notes-off`
-  static const IconifyIconData twotoneSpeakerNotesOff = IconifyIconData(IconData(
+  /// `twotone-spatial-audio-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSpatialAudioOffSecondary = IconifyIconData(IconData(
+    0xf1e1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-spatial-tracking` — primary layer (full opacity)
+  static const IconifyIconData twotoneSpatialTrackingPrimary = IconifyIconData(IconData(
     0xf1e2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-speaker-phone`
-  static const IconifyIconData twotoneSpeakerPhone = IconifyIconData(IconData(
+  /// `twotone-spatial-tracking` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSpatialTrackingSecondary = IconifyIconData(IconData(
+    0xf1e2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-speaker` — primary layer (full opacity)
+  static const IconifyIconData twotoneSpeakerPrimary = IconifyIconData(IconData(
     0xf1e3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-speaker` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSpeakerSecondary = IconifyIconData(IconData(
+    0xf1e3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-speaker-group` — primary layer (full opacity)
+  static const IconifyIconData twotoneSpeakerGroupPrimary = IconifyIconData(IconData(
+    0xf1e4,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-speaker-group` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSpeakerGroupSecondary = IconifyIconData(IconData(
+    0xf1e4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-speaker-notes` — primary layer (full opacity)
+  static const IconifyIconData twotoneSpeakerNotesPrimary = IconifyIconData(IconData(
+    0xf1e5,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-speaker-notes` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSpeakerNotesSecondary = IconifyIconData(IconData(
+    0xf1e5,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-speaker-notes-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneSpeakerNotesOffPrimary = IconifyIconData(IconData(
+    0xf1e6,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-speaker-notes-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSpeakerNotesOffSecondary = IconifyIconData(IconData(
+    0xf1e6,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-speaker-phone` — primary layer (full opacity)
+  static const IconifyIconData twotoneSpeakerPhonePrimary = IconifyIconData(IconData(
+    0xf1e7,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-speaker-phone` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSpeakerPhoneSecondary = IconifyIconData(IconData(
+    0xf1e7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-speed`
   static const IconifyIconData twotoneSpeed = IconifyIconData(IconData(
-    0xf1e4,
+    0xf1e8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-spellcheck`
   static const IconifyIconData twotoneSpellcheck = IconifyIconData(IconData(
-    0xf1e5,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-splitscreen`
-  static const IconifyIconData twotoneSplitscreen = IconifyIconData(IconData(
-    0xf1e6,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-spoke`
-  static const IconifyIconData twotoneSpoke = IconifyIconData(IconData(
-    0xf1e7,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-sports`
-  static const IconifyIconData twotoneSports = IconifyIconData(IconData(
-    0xf1e8,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-sports-bar`
-  static const IconifyIconData twotoneSportsBar = IconifyIconData(IconData(
     0xf1e9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-sports-baseball`
-  static const IconifyIconData twotoneSportsBaseball = IconifyIconData(IconData(
+  /// `twotone-splitscreen` — primary layer (full opacity)
+  static const IconifyIconData twotoneSplitscreenPrimary = IconifyIconData(IconData(
     0xf1ea,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-sports-basketball`
-  static const IconifyIconData twotoneSportsBasketball = IconifyIconData(IconData(
+  /// `twotone-splitscreen` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSplitscreenSecondary = IconifyIconData(IconData(
+    0xf1ea,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-spoke` — primary layer (full opacity)
+  static const IconifyIconData twotoneSpokePrimary = IconifyIconData(IconData(
     0xf1eb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-sports-cricket`
-  static const IconifyIconData twotoneSportsCricket = IconifyIconData(IconData(
+  /// `twotone-spoke` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSpokeSecondary = IconifyIconData(IconData(
+    0xf1eb,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sports`
+  static const IconifyIconData twotoneSports = IconifyIconData(IconData(
     0xf1ec,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-sports-esports`
-  static const IconifyIconData twotoneSportsEsports = IconifyIconData(IconData(
+  /// `twotone-sports-bar` — primary layer (full opacity)
+  static const IconifyIconData twotoneSportsBarPrimary = IconifyIconData(IconData(
     0xf1ed,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-sports-football`
-  static const IconifyIconData twotoneSportsFootball = IconifyIconData(IconData(
+  /// `twotone-sports-bar` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSportsBarSecondary = IconifyIconData(IconData(
+    0xf1ed,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sports-baseball` — primary layer (full opacity)
+  static const IconifyIconData twotoneSportsBaseballPrimary = IconifyIconData(IconData(
     0xf1ee,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-sports-golf`
-  static const IconifyIconData twotoneSportsGolf = IconifyIconData(IconData(
+  /// `twotone-sports-baseball` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSportsBaseballSecondary = IconifyIconData(IconData(
+    0xf1ee,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sports-basketball` — primary layer (full opacity)
+  static const IconifyIconData twotoneSportsBasketballPrimary = IconifyIconData(IconData(
     0xf1ef,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-sports-basketball` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSportsBasketballSecondary = IconifyIconData(IconData(
+    0xf1ef,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sports-cricket` — primary layer (full opacity)
+  static const IconifyIconData twotoneSportsCricketPrimary = IconifyIconData(IconData(
+    0xf1f0,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sports-cricket` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSportsCricketSecondary = IconifyIconData(IconData(
+    0xf1f0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sports-esports` — primary layer (full opacity)
+  static const IconifyIconData twotoneSportsEsportsPrimary = IconifyIconData(IconData(
+    0xf1f1,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sports-esports` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSportsEsportsSecondary = IconifyIconData(IconData(
+    0xf1f1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sports-football` — primary layer (full opacity)
+  static const IconifyIconData twotoneSportsFootballPrimary = IconifyIconData(IconData(
+    0xf1f2,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sports-football` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSportsFootballSecondary = IconifyIconData(IconData(
+    0xf1f2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sports-golf` — primary layer (full opacity)
+  static const IconifyIconData twotoneSportsGolfPrimary = IconifyIconData(IconData(
+    0xf1f3,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sports-golf` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSportsGolfSecondary = IconifyIconData(IconData(
+    0xf1f3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-sports-gymnastics`
   static const IconifyIconData twotoneSportsGymnastics = IconifyIconData(IconData(
-    0xf1f0,
+    0xf1f4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-sports-handball`
   static const IconifyIconData twotoneSportsHandball = IconifyIconData(IconData(
-    0xf1f1,
+    0xf1f5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-sports-hockey`
   static const IconifyIconData twotoneSportsHockey = IconifyIconData(IconData(
-    0xf1f2,
+    0xf1f6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-sports-kabaddi`
   static const IconifyIconData twotoneSportsKabaddi = IconifyIconData(IconData(
-    0xf1f3,
+    0xf1f7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-sports-martial-arts`
   static const IconifyIconData twotoneSportsMartialArts = IconifyIconData(IconData(
-    0xf1f4,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-sports-mma`
-  static const IconifyIconData twotoneSportsMma = IconifyIconData(IconData(
-    0xf1f5,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-sports-motorsports`
-  static const IconifyIconData twotoneSportsMotorsports = IconifyIconData(IconData(
-    0xf1f6,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-sports-rugby`
-  static const IconifyIconData twotoneSportsRugby = IconifyIconData(IconData(
-    0xf1f7,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-sports-score`
-  static const IconifyIconData twotoneSportsScore = IconifyIconData(IconData(
     0xf1f8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-sports-soccer`
-  static const IconifyIconData twotoneSportsSoccer = IconifyIconData(IconData(
+  /// `twotone-sports-mma` — primary layer (full opacity)
+  static const IconifyIconData twotoneSportsMmaPrimary = IconifyIconData(IconData(
     0xf1f9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-sports-tennis`
-  static const IconifyIconData twotoneSportsTennis = IconifyIconData(IconData(
+  /// `twotone-sports-mma` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSportsMmaSecondary = IconifyIconData(IconData(
+    0xf1f9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sports-motorsports` — primary layer (full opacity)
+  static const IconifyIconData twotoneSportsMotorsportsPrimary = IconifyIconData(IconData(
     0xf1fa,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-sports-volleyball`
-  static const IconifyIconData twotoneSportsVolleyball = IconifyIconData(IconData(
+  /// `twotone-sports-motorsports` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSportsMotorsportsSecondary = IconifyIconData(IconData(
+    0xf1fa,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sports-rugby` — primary layer (full opacity)
+  static const IconifyIconData twotoneSportsRugbyPrimary = IconifyIconData(IconData(
     0xf1fb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-square`
-  static const IconifyIconData twotoneSquare = IconifyIconData(IconData(
+  /// `twotone-sports-rugby` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSportsRugbySecondary = IconifyIconData(IconData(
+    0xf1fb,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sports-score`
+  static const IconifyIconData twotoneSportsScore = IconifyIconData(IconData(
     0xf1fc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-square-foot`
-  static const IconifyIconData twotoneSquareFoot = IconifyIconData(IconData(
+  /// `twotone-sports-soccer` — primary layer (full opacity)
+  static const IconifyIconData twotoneSportsSoccerPrimary = IconifyIconData(IconData(
     0xf1fd,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-sports-soccer` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSportsSoccerSecondary = IconifyIconData(IconData(
+    0xf1fd,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sports-tennis`
+  static const IconifyIconData twotoneSportsTennis = IconifyIconData(IconData(
+    0xf1fe,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sports-volleyball` — primary layer (full opacity)
+  static const IconifyIconData twotoneSportsVolleyballPrimary = IconifyIconData(IconData(
+    0xf1ff,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sports-volleyball` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSportsVolleyballSecondary = IconifyIconData(IconData(
+    0xf1ff,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-square` — primary layer (full opacity)
+  static const IconifyIconData twotoneSquarePrimary = IconifyIconData(IconData(
+    0xf200,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-square` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSquareSecondary = IconifyIconData(IconData(
+    0xf200,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-square-foot` — primary layer (full opacity)
+  static const IconifyIconData twotoneSquareFootPrimary = IconifyIconData(IconData(
+    0xf201,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-square-foot` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSquareFootSecondary = IconifyIconData(IconData(
+    0xf201,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-ssid-chart`
   static const IconifyIconData twotoneSsidChart = IconifyIconData(IconData(
-    0xf1fe,
+    0xf202,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-stacked-bar-chart`
   static const IconifyIconData twotoneStackedBarChart = IconifyIconData(IconData(
-    0xf1ff,
+    0xf203,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-stacked-line-chart`
   static const IconifyIconData twotoneStackedLineChart = IconifyIconData(IconData(
-    0xf200,
+    0xf204,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-stadium`
-  static const IconifyIconData twotoneStadium = IconifyIconData(IconData(
-    0xf201,
+  /// `twotone-stadium` — primary layer (full opacity)
+  static const IconifyIconData twotoneStadiumPrimary = IconifyIconData(IconData(
+    0xf205,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-stairs`
-  static const IconifyIconData twotoneStairs = IconifyIconData(IconData(
-    0xf202,
+  /// `twotone-stadium` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneStadiumSecondary = IconifyIconData(IconData(
+    0xf205,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-stairs` — primary layer (full opacity)
+  static const IconifyIconData twotoneStairsPrimary = IconifyIconData(IconData(
+    0xf206,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-star`
-  static const IconifyIconData twotoneStar = IconifyIconData(IconData(
-    0xf203,
+  /// `twotone-stairs` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneStairsSecondary = IconifyIconData(IconData(
+    0xf206,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-star` — primary layer (full opacity)
+  static const IconifyIconData twotoneStarPrimary = IconifyIconData(IconData(
+    0xf207,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-star` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneStarSecondary = IconifyIconData(IconData(
+    0xf207,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-star-border`
   static const IconifyIconData twotoneStarBorder = IconifyIconData(IconData(
-    0xf204,
+    0xf208,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-star-border-purple500`
   static const IconifyIconData twotoneStarBorderPurple500 = IconifyIconData(IconData(
-    0xf205,
+    0xf209,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-star-half`
   static const IconifyIconData twotoneStarHalf = IconifyIconData(IconData(
-    0xf206,
+    0xf20a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-star-outline`
   static const IconifyIconData twotoneStarOutline = IconifyIconData(IconData(
-    0xf207,
+    0xf20b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-star-purple500`
   static const IconifyIconData twotoneStarPurple500 = IconifyIconData(IconData(
-    0xf208,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-star-rate`
-  static const IconifyIconData twotoneStarRate = IconifyIconData(IconData(
-    0xf209,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-stars`
-  static const IconifyIconData twotoneStars = IconifyIconData(IconData(
-    0xf20a,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-start`
-  static const IconifyIconData twotoneStart = IconifyIconData(IconData(
-    0xf20b,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-stay-current-landscape`
-  static const IconifyIconData twotoneStayCurrentLandscape = IconifyIconData(IconData(
     0xf20c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-stay-current-portrait`
-  static const IconifyIconData twotoneStayCurrentPortrait = IconifyIconData(IconData(
+  /// `twotone-star-rate` — primary layer (full opacity)
+  static const IconifyIconData twotoneStarRatePrimary = IconifyIconData(IconData(
     0xf20d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-stay-primary-landscape`
-  static const IconifyIconData twotoneStayPrimaryLandscape = IconifyIconData(IconData(
+  /// `twotone-star-rate` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneStarRateSecondary = IconifyIconData(IconData(
+    0xf20d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-stars` — primary layer (full opacity)
+  static const IconifyIconData twotoneStarsPrimary = IconifyIconData(IconData(
     0xf20e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-stay-primary-portrait`
-  static const IconifyIconData twotoneStayPrimaryPortrait = IconifyIconData(IconData(
+  /// `twotone-stars` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneStarsSecondary = IconifyIconData(IconData(
+    0xf20e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-start`
+  static const IconifyIconData twotoneStart = IconifyIconData(IconData(
     0xf20f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-sticky-note-2`
-  static const IconifyIconData twotoneStickyNote2 = IconifyIconData(IconData(
+  /// `twotone-stay-current-landscape` — primary layer (full opacity)
+  static const IconifyIconData twotoneStayCurrentLandscapePrimary = IconifyIconData(IconData(
     0xf210,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-stop`
-  static const IconifyIconData twotoneStop = IconifyIconData(IconData(
+  /// `twotone-stay-current-landscape` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneStayCurrentLandscapeSecondary = IconifyIconData(IconData(
+    0xf210,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-stay-current-portrait` — primary layer (full opacity)
+  static const IconifyIconData twotoneStayCurrentPortraitPrimary = IconifyIconData(IconData(
     0xf211,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-stop-circle`
-  static const IconifyIconData twotoneStopCircle = IconifyIconData(IconData(
+  /// `twotone-stay-current-portrait` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneStayCurrentPortraitSecondary = IconifyIconData(IconData(
+    0xf211,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-stay-primary-landscape` — primary layer (full opacity)
+  static const IconifyIconData twotoneStayPrimaryLandscapePrimary = IconifyIconData(IconData(
     0xf212,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-stop-screen-share`
-  static const IconifyIconData twotoneStopScreenShare = IconifyIconData(IconData(
+  /// `twotone-stay-primary-landscape` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneStayPrimaryLandscapeSecondary = IconifyIconData(IconData(
+    0xf212,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-stay-primary-portrait` — primary layer (full opacity)
+  static const IconifyIconData twotoneStayPrimaryPortraitPrimary = IconifyIconData(IconData(
     0xf213,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-storage`
-  static const IconifyIconData twotoneStorage = IconifyIconData(IconData(
+  /// `twotone-stay-primary-portrait` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneStayPrimaryPortraitSecondary = IconifyIconData(IconData(
+    0xf213,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-sticky-note-2` — primary layer (full opacity)
+  static const IconifyIconData twotoneStickyNote2Primary = IconifyIconData(IconData(
     0xf214,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-store`
-  static const IconifyIconData twotoneStore = IconifyIconData(IconData(
+  /// `twotone-sticky-note-2` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneStickyNote2Secondary = IconifyIconData(IconData(
+    0xf214,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-stop` — primary layer (full opacity)
+  static const IconifyIconData twotoneStopPrimary = IconifyIconData(IconData(
     0xf215,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-store-mall-directory`
-  static const IconifyIconData twotoneStoreMallDirectory = IconifyIconData(IconData(
+  /// `twotone-stop` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneStopSecondary = IconifyIconData(IconData(
+    0xf215,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-stop-circle` — primary layer (full opacity)
+  static const IconifyIconData twotoneStopCirclePrimary = IconifyIconData(IconData(
     0xf216,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-storefront`
-  static const IconifyIconData twotoneStorefront = IconifyIconData(IconData(
+  /// `twotone-stop-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneStopCircleSecondary = IconifyIconData(IconData(
+    0xf216,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-stop-screen-share` — primary layer (full opacity)
+  static const IconifyIconData twotoneStopScreenSharePrimary = IconifyIconData(IconData(
     0xf217,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-straight`
-  static const IconifyIconData twotoneStraight = IconifyIconData(IconData(
+  /// `twotone-stop-screen-share` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneStopScreenShareSecondary = IconifyIconData(IconData(
+    0xf217,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-storage`
+  static const IconifyIconData twotoneStorage = IconifyIconData(IconData(
     0xf218,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-straighten`
-  static const IconifyIconData twotoneStraighten = IconifyIconData(IconData(
+  /// `twotone-store` — primary layer (full opacity)
+  static const IconifyIconData twotoneStorePrimary = IconifyIconData(IconData(
     0xf219,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-store` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneStoreSecondary = IconifyIconData(IconData(
+    0xf219,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-store-mall-directory` — primary layer (full opacity)
+  static const IconifyIconData twotoneStoreMallDirectoryPrimary = IconifyIconData(IconData(
+    0xf21a,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-store-mall-directory` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneStoreMallDirectorySecondary = IconifyIconData(IconData(
+    0xf21a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-storefront` — primary layer (full opacity)
+  static const IconifyIconData twotoneStorefrontPrimary = IconifyIconData(IconData(
+    0xf21b,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-storefront` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneStorefrontSecondary = IconifyIconData(IconData(
+    0xf21b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-straight`
+  static const IconifyIconData twotoneStraight = IconifyIconData(IconData(
+    0xf21c,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-straighten` — primary layer (full opacity)
+  static const IconifyIconData twotoneStraightenPrimary = IconifyIconData(IconData(
+    0xf21d,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-straighten` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneStraightenSecondary = IconifyIconData(IconData(
+    0xf21d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-stream`
   static const IconifyIconData twotoneStream = IconifyIconData(IconData(
-    0xf21a,
+    0xf21e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-streetview`
   static const IconifyIconData twotoneStreetview = IconifyIconData(IconData(
-    0xf21b,
+    0xf21f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-stroller`
-  static const IconifyIconData twotoneStroller = IconifyIconData(IconData(
-    0xf21c,
+  /// `twotone-stroller` — primary layer (full opacity)
+  static const IconifyIconData twotoneStrollerPrimary = IconifyIconData(IconData(
+    0xf220,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-style`
-  static const IconifyIconData twotoneStyle = IconifyIconData(IconData(
-    0xf21d,
+  /// `twotone-stroller` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneStrollerSecondary = IconifyIconData(IconData(
+    0xf220,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-style` — primary layer (full opacity)
+  static const IconifyIconData twotoneStylePrimary = IconifyIconData(IconData(
+    0xf221,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-style` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneStyleSecondary = IconifyIconData(IconData(
+    0xf221,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-subdirectory-arrow-left`
   static const IconifyIconData twotoneSubdirectoryArrowLeft = IconifyIconData(IconData(
-    0xf21e,
+    0xf222,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-subdirectory-arrow-right`
   static const IconifyIconData twotoneSubdirectoryArrowRight = IconifyIconData(IconData(
-    0xf21f,
+    0xf223,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-subject`
   static const IconifyIconData twotoneSubject = IconifyIconData(IconData(
-    0xf220,
+    0xf224,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-subscript`
   static const IconifyIconData twotoneSubscript = IconifyIconData(IconData(
-    0xf221,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-subscriptions`
-  static const IconifyIconData twotoneSubscriptions = IconifyIconData(IconData(
-    0xf222,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-subtitles`
-  static const IconifyIconData twotoneSubtitles = IconifyIconData(IconData(
-    0xf223,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-subtitles-off`
-  static const IconifyIconData twotoneSubtitlesOff = IconifyIconData(IconData(
-    0xf224,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-subway`
-  static const IconifyIconData twotoneSubway = IconifyIconData(IconData(
     0xf225,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-summarize`
-  static const IconifyIconData twotoneSummarize = IconifyIconData(IconData(
+  /// `twotone-subscriptions` — primary layer (full opacity)
+  static const IconifyIconData twotoneSubscriptionsPrimary = IconifyIconData(IconData(
     0xf226,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-superscript`
-  static const IconifyIconData twotoneSuperscript = IconifyIconData(IconData(
+  /// `twotone-subscriptions` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSubscriptionsSecondary = IconifyIconData(IconData(
+    0xf226,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-subtitles` — primary layer (full opacity)
+  static const IconifyIconData twotoneSubtitlesPrimary = IconifyIconData(IconData(
     0xf227,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-supervised-user-circle`
-  static const IconifyIconData twotoneSupervisedUserCircle = IconifyIconData(IconData(
+  /// `twotone-subtitles` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSubtitlesSecondary = IconifyIconData(IconData(
+    0xf227,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-subtitles-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneSubtitlesOffPrimary = IconifyIconData(IconData(
     0xf228,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-supervisor-account`
-  static const IconifyIconData twotoneSupervisorAccount = IconifyIconData(IconData(
+  /// `twotone-subtitles-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSubtitlesOffSecondary = IconifyIconData(IconData(
+    0xf228,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-subway` — primary layer (full opacity)
+  static const IconifyIconData twotoneSubwayPrimary = IconifyIconData(IconData(
     0xf229,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-support`
-  static const IconifyIconData twotoneSupport = IconifyIconData(IconData(
+  /// `twotone-subway` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSubwaySecondary = IconifyIconData(IconData(
+    0xf229,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-summarize` — primary layer (full opacity)
+  static const IconifyIconData twotoneSummarizePrimary = IconifyIconData(IconData(
     0xf22a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-summarize` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSummarizeSecondary = IconifyIconData(IconData(
+    0xf22a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-superscript`
+  static const IconifyIconData twotoneSuperscript = IconifyIconData(IconData(
+    0xf22b,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-supervised-user-circle` — primary layer (full opacity)
+  static const IconifyIconData twotoneSupervisedUserCirclePrimary = IconifyIconData(IconData(
+    0xf22c,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-supervised-user-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSupervisedUserCircleSecondary = IconifyIconData(IconData(
+    0xf22c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-supervisor-account` — primary layer (full opacity)
+  static const IconifyIconData twotoneSupervisorAccountPrimary = IconifyIconData(IconData(
+    0xf22d,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-supervisor-account` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSupervisorAccountSecondary = IconifyIconData(IconData(
+    0xf22d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-support` — primary layer (full opacity)
+  static const IconifyIconData twotoneSupportPrimary = IconifyIconData(IconData(
+    0xf22e,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-support` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSupportSecondary = IconifyIconData(IconData(
+    0xf22e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-support-agent`
   static const IconifyIconData twotoneSupportAgent = IconifyIconData(IconData(
-    0xf22b,
+    0xf22f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-surfing`
   static const IconifyIconData twotoneSurfing = IconifyIconData(IconData(
-    0xf22c,
+    0xf230,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-surround-sound`
-  static const IconifyIconData twotoneSurroundSound = IconifyIconData(IconData(
-    0xf22d,
+  /// `twotone-surround-sound` — primary layer (full opacity)
+  static const IconifyIconData twotoneSurroundSoundPrimary = IconifyIconData(IconData(
+    0xf231,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-surround-sound` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSurroundSoundSecondary = IconifyIconData(IconData(
+    0xf231,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-swap-calls`
   static const IconifyIconData twotoneSwapCalls = IconifyIconData(IconData(
-    0xf22e,
+    0xf232,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-swap-horiz`
   static const IconifyIconData twotoneSwapHoriz = IconifyIconData(IconData(
-    0xf22f,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-swap-horizontal-circle`
-  static const IconifyIconData twotoneSwapHorizontalCircle = IconifyIconData(IconData(
-    0xf230,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-swap-vert`
-  static const IconifyIconData twotoneSwapVert = IconifyIconData(IconData(
-    0xf231,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-swap-vertical-circle`
-  static const IconifyIconData twotoneSwapVerticalCircle = IconifyIconData(IconData(
-    0xf232,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-swipe`
-  static const IconifyIconData twotoneSwipe = IconifyIconData(IconData(
     0xf233,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-swipe-down`
-  static const IconifyIconData twotoneSwipeDown = IconifyIconData(IconData(
+  /// `twotone-swap-horizontal-circle` — primary layer (full opacity)
+  static const IconifyIconData twotoneSwapHorizontalCirclePrimary = IconifyIconData(IconData(
     0xf234,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-swipe-down-alt`
-  static const IconifyIconData twotoneSwipeDownAlt = IconifyIconData(IconData(
+  /// `twotone-swap-horizontal-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSwapHorizontalCircleSecondary = IconifyIconData(IconData(
+    0xf234,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-swap-vert`
+  static const IconifyIconData twotoneSwapVert = IconifyIconData(IconData(
     0xf235,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-swipe-left`
-  static const IconifyIconData twotoneSwipeLeft = IconifyIconData(IconData(
+  /// `twotone-swap-vertical-circle` — primary layer (full opacity)
+  static const IconifyIconData twotoneSwapVerticalCirclePrimary = IconifyIconData(IconData(
     0xf236,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-swipe-left-alt`
-  static const IconifyIconData twotoneSwipeLeftAlt = IconifyIconData(IconData(
+  /// `twotone-swap-vertical-circle` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSwapVerticalCircleSecondary = IconifyIconData(IconData(
+    0xf236,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-swipe` — primary layer (full opacity)
+  static const IconifyIconData twotoneSwipePrimary = IconifyIconData(IconData(
     0xf237,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-swipe-right`
-  static const IconifyIconData twotoneSwipeRight = IconifyIconData(IconData(
+  /// `twotone-swipe` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSwipeSecondary = IconifyIconData(IconData(
+    0xf237,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-swipe-down` — primary layer (full opacity)
+  static const IconifyIconData twotoneSwipeDownPrimary = IconifyIconData(IconData(
     0xf238,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-swipe-right-alt`
-  static const IconifyIconData twotoneSwipeRightAlt = IconifyIconData(IconData(
+  /// `twotone-swipe-down` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSwipeDownSecondary = IconifyIconData(IconData(
+    0xf238,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-swipe-down-alt` — primary layer (full opacity)
+  static const IconifyIconData twotoneSwipeDownAltPrimary = IconifyIconData(IconData(
     0xf239,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-swipe-up`
-  static const IconifyIconData twotoneSwipeUp = IconifyIconData(IconData(
+  /// `twotone-swipe-down-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSwipeDownAltSecondary = IconifyIconData(IconData(
+    0xf239,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-swipe-left` — primary layer (full opacity)
+  static const IconifyIconData twotoneSwipeLeftPrimary = IconifyIconData(IconData(
     0xf23a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-swipe-up-alt`
-  static const IconifyIconData twotoneSwipeUpAlt = IconifyIconData(IconData(
+  /// `twotone-swipe-left` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSwipeLeftSecondary = IconifyIconData(IconData(
+    0xf23a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-swipe-left-alt` — primary layer (full opacity)
+  static const IconifyIconData twotoneSwipeLeftAltPrimary = IconifyIconData(IconData(
     0xf23b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-swipe-vertical`
-  static const IconifyIconData twotoneSwipeVertical = IconifyIconData(IconData(
+  /// `twotone-swipe-left-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSwipeLeftAltSecondary = IconifyIconData(IconData(
+    0xf23b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-swipe-right` — primary layer (full opacity)
+  static const IconifyIconData twotoneSwipeRightPrimary = IconifyIconData(IconData(
     0xf23c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-swipe-right` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSwipeRightSecondary = IconifyIconData(IconData(
+    0xf23c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-swipe-right-alt` — primary layer (full opacity)
+  static const IconifyIconData twotoneSwipeRightAltPrimary = IconifyIconData(IconData(
+    0xf23d,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-swipe-right-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSwipeRightAltSecondary = IconifyIconData(IconData(
+    0xf23d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-swipe-up` — primary layer (full opacity)
+  static const IconifyIconData twotoneSwipeUpPrimary = IconifyIconData(IconData(
+    0xf23e,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-swipe-up` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSwipeUpSecondary = IconifyIconData(IconData(
+    0xf23e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-swipe-up-alt` — primary layer (full opacity)
+  static const IconifyIconData twotoneSwipeUpAltPrimary = IconifyIconData(IconData(
+    0xf23f,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-swipe-up-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSwipeUpAltSecondary = IconifyIconData(IconData(
+    0xf23f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-swipe-vertical` — primary layer (full opacity)
+  static const IconifyIconData twotoneSwipeVerticalPrimary = IconifyIconData(IconData(
+    0xf240,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-swipe-vertical` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSwipeVerticalSecondary = IconifyIconData(IconData(
+    0xf240,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-switch-access-shortcut`
   static const IconifyIconData twotoneSwitchAccessShortcut = IconifyIconData(IconData(
-    0xf23d,
+    0xf241,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-switch-access-shortcut-add`
   static const IconifyIconData twotoneSwitchAccessShortcutAdd = IconifyIconData(IconData(
-    0xf23e,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-switch-account`
-  static const IconifyIconData twotoneSwitchAccount = IconifyIconData(IconData(
-    0xf23f,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-switch-camera`
-  static const IconifyIconData twotoneSwitchCamera = IconifyIconData(IconData(
-    0xf240,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-switch-left`
-  static const IconifyIconData twotoneSwitchLeft = IconifyIconData(IconData(
-    0xf241,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-switch-right`
-  static const IconifyIconData twotoneSwitchRight = IconifyIconData(IconData(
     0xf242,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-switch-video`
-  static const IconifyIconData twotoneSwitchVideo = IconifyIconData(IconData(
+  /// `twotone-switch-account` — primary layer (full opacity)
+  static const IconifyIconData twotoneSwitchAccountPrimary = IconifyIconData(IconData(
     0xf243,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-synagogue`
-  static const IconifyIconData twotoneSynagogue = IconifyIconData(IconData(
+  /// `twotone-switch-account` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSwitchAccountSecondary = IconifyIconData(IconData(
+    0xf243,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-switch-camera` — primary layer (full opacity)
+  static const IconifyIconData twotoneSwitchCameraPrimary = IconifyIconData(IconData(
     0xf244,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-switch-camera` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSwitchCameraSecondary = IconifyIconData(IconData(
+    0xf244,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-switch-left` — primary layer (full opacity)
+  static const IconifyIconData twotoneSwitchLeftPrimary = IconifyIconData(IconData(
+    0xf245,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-switch-left` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSwitchLeftSecondary = IconifyIconData(IconData(
+    0xf245,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-switch-right` — primary layer (full opacity)
+  static const IconifyIconData twotoneSwitchRightPrimary = IconifyIconData(IconData(
+    0xf246,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-switch-right` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSwitchRightSecondary = IconifyIconData(IconData(
+    0xf246,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-switch-video` — primary layer (full opacity)
+  static const IconifyIconData twotoneSwitchVideoPrimary = IconifyIconData(IconData(
+    0xf247,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-switch-video` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSwitchVideoSecondary = IconifyIconData(IconData(
+    0xf247,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-synagogue` — primary layer (full opacity)
+  static const IconifyIconData twotoneSynagoguePrimary = IconifyIconData(IconData(
+    0xf248,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-synagogue` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSynagogueSecondary = IconifyIconData(IconData(
+    0xf248,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-sync`
   static const IconifyIconData twotoneSync = IconifyIconData(IconData(
-    0xf245,
+    0xf249,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-sync-alt`
   static const IconifyIconData twotoneSyncAlt = IconifyIconData(IconData(
-    0xf246,
+    0xf24a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-sync-disabled`
   static const IconifyIconData twotoneSyncDisabled = IconifyIconData(IconData(
-    0xf247,
+    0xf24b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-sync-lock`
   static const IconifyIconData twotoneSyncLock = IconifyIconData(IconData(
-    0xf248,
+    0xf24c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-sync-problem`
   static const IconifyIconData twotoneSyncProblem = IconifyIconData(IconData(
-    0xf249,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-system-security-update`
-  static const IconifyIconData twotoneSystemSecurityUpdate = IconifyIconData(IconData(
-    0xf24a,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-system-security-update-good`
-  static const IconifyIconData twotoneSystemSecurityUpdateGood = IconifyIconData(IconData(
-    0xf24b,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-system-security-update-warning`
-  static const IconifyIconData twotoneSystemSecurityUpdateWarning = IconifyIconData(IconData(
-    0xf24c,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-system-update`
-  static const IconifyIconData twotoneSystemUpdate = IconifyIconData(IconData(
     0xf24d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-system-security-update` — primary layer (full opacity)
+  static const IconifyIconData twotoneSystemSecurityUpdatePrimary = IconifyIconData(IconData(
+    0xf24e,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-system-security-update` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSystemSecurityUpdateSecondary = IconifyIconData(IconData(
+    0xf24e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-system-security-update-good` — primary layer (full opacity)
+  static const IconifyIconData twotoneSystemSecurityUpdateGoodPrimary = IconifyIconData(IconData(
+    0xf24f,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-system-security-update-good` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSystemSecurityUpdateGoodSecondary = IconifyIconData(IconData(
+    0xf24f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-system-security-update-warning` — primary layer (full opacity)
+  static const IconifyIconData twotoneSystemSecurityUpdateWarningPrimary = IconifyIconData(IconData(
+    0xf250,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-system-security-update-warning` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSystemSecurityUpdateWarningSecondary = IconifyIconData(IconData(
+    0xf250,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-system-update` — primary layer (full opacity)
+  static const IconifyIconData twotoneSystemUpdatePrimary = IconifyIconData(IconData(
+    0xf251,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-system-update` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneSystemUpdateSecondary = IconifyIconData(IconData(
+    0xf251,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-system-update-alt`
   static const IconifyIconData twotoneSystemUpdateAlt = IconifyIconData(IconData(
-    0xf24e,
+    0xf252,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-tab`
   static const IconifyIconData twotoneTab = IconifyIconData(IconData(
-    0xf24f,
+    0xf253,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-tab-unselected`
   static const IconifyIconData twotoneTabUnselected = IconifyIconData(IconData(
-    0xf250,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-table-bar`
-  static const IconifyIconData twotoneTableBar = IconifyIconData(IconData(
-    0xf251,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-table-chart`
-  static const IconifyIconData twotoneTableChart = IconifyIconData(IconData(
-    0xf252,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-table-rows`
-  static const IconifyIconData twotoneTableRows = IconifyIconData(IconData(
-    0xf253,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-table-view`
-  static const IconifyIconData twotoneTableView = IconifyIconData(IconData(
     0xf254,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-tablet`
-  static const IconifyIconData twotoneTablet = IconifyIconData(IconData(
+  /// `twotone-table-bar` — primary layer (full opacity)
+  static const IconifyIconData twotoneTableBarPrimary = IconifyIconData(IconData(
     0xf255,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-tablet-android`
-  static const IconifyIconData twotoneTabletAndroid = IconifyIconData(IconData(
+  /// `twotone-table-bar` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTableBarSecondary = IconifyIconData(IconData(
+    0xf255,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-table-chart` — primary layer (full opacity)
+  static const IconifyIconData twotoneTableChartPrimary = IconifyIconData(IconData(
     0xf256,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-tablet-mac`
-  static const IconifyIconData twotoneTabletMac = IconifyIconData(IconData(
+  /// `twotone-table-chart` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTableChartSecondary = IconifyIconData(IconData(
+    0xf256,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-table-rows` — primary layer (full opacity)
+  static const IconifyIconData twotoneTableRowsPrimary = IconifyIconData(IconData(
     0xf257,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-tag`
-  static const IconifyIconData twotoneTag = IconifyIconData(IconData(
+  /// `twotone-table-rows` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTableRowsSecondary = IconifyIconData(IconData(
+    0xf257,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-table-view` — primary layer (full opacity)
+  static const IconifyIconData twotoneTableViewPrimary = IconifyIconData(IconData(
     0xf258,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-tag-faces`
-  static const IconifyIconData twotoneTagFaces = IconifyIconData(IconData(
+  /// `twotone-table-view` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTableViewSecondary = IconifyIconData(IconData(
+    0xf258,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-tablet` — primary layer (full opacity)
+  static const IconifyIconData twotoneTabletPrimary = IconifyIconData(IconData(
     0xf259,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-takeout-dining`
-  static const IconifyIconData twotoneTakeoutDining = IconifyIconData(IconData(
+  /// `twotone-tablet` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTabletSecondary = IconifyIconData(IconData(
+    0xf259,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-tablet-android` — primary layer (full opacity)
+  static const IconifyIconData twotoneTabletAndroidPrimary = IconifyIconData(IconData(
     0xf25a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-tap-and-play`
-  static const IconifyIconData twotoneTapAndPlay = IconifyIconData(IconData(
+  /// `twotone-tablet-android` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTabletAndroidSecondary = IconifyIconData(IconData(
+    0xf25a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-tablet-mac` — primary layer (full opacity)
+  static const IconifyIconData twotoneTabletMacPrimary = IconifyIconData(IconData(
     0xf25b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-tapas`
-  static const IconifyIconData twotoneTapas = IconifyIconData(IconData(
+  /// `twotone-tablet-mac` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTabletMacSecondary = IconifyIconData(IconData(
+    0xf25b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-tag`
+  static const IconifyIconData twotoneTag = IconifyIconData(IconData(
     0xf25c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-task`
-  static const IconifyIconData twotoneTask = IconifyIconData(IconData(
+  /// `twotone-tag-faces` — primary layer (full opacity)
+  static const IconifyIconData twotoneTagFacesPrimary = IconifyIconData(IconData(
     0xf25d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-task-alt`
-  static const IconifyIconData twotoneTaskAlt = IconifyIconData(IconData(
+  /// `twotone-tag-faces` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTagFacesSecondary = IconifyIconData(IconData(
+    0xf25d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-takeout-dining` — primary layer (full opacity)
+  static const IconifyIconData twotoneTakeoutDiningPrimary = IconifyIconData(IconData(
     0xf25e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-taxi-alert`
-  static const IconifyIconData twotoneTaxiAlert = IconifyIconData(IconData(
+  /// `twotone-takeout-dining` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTakeoutDiningSecondary = IconifyIconData(IconData(
+    0xf25e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-tap-and-play`
+  static const IconifyIconData twotoneTapAndPlay = IconifyIconData(IconData(
     0xf25f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-telegram`
-  static const IconifyIconData twotoneTelegram = IconifyIconData(IconData(
+  /// `twotone-tapas` — primary layer (full opacity)
+  static const IconifyIconData twotoneTapasPrimary = IconifyIconData(IconData(
     0xf260,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-temple-buddhist`
-  static const IconifyIconData twotoneTempleBuddhist = IconifyIconData(IconData(
+  /// `twotone-tapas` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTapasSecondary = IconifyIconData(IconData(
+    0xf260,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-task` — primary layer (full opacity)
+  static const IconifyIconData twotoneTaskPrimary = IconifyIconData(IconData(
     0xf261,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-temple-hindu`
-  static const IconifyIconData twotoneTempleHindu = IconifyIconData(IconData(
+  /// `twotone-task` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTaskSecondary = IconifyIconData(IconData(
+    0xf261,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-task-alt`
+  static const IconifyIconData twotoneTaskAlt = IconifyIconData(IconData(
     0xf262,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-terminal`
-  static const IconifyIconData twotoneTerminal = IconifyIconData(IconData(
+  /// `twotone-taxi-alert` — primary layer (full opacity)
+  static const IconifyIconData twotoneTaxiAlertPrimary = IconifyIconData(IconData(
     0xf263,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-terrain`
-  static const IconifyIconData twotoneTerrain = IconifyIconData(IconData(
+  /// `twotone-taxi-alert` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTaxiAlertSecondary = IconifyIconData(IconData(
+    0xf263,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-telegram`
+  static const IconifyIconData twotoneTelegram = IconifyIconData(IconData(
     0xf264,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-temple-buddhist` — primary layer (full opacity)
+  static const IconifyIconData twotoneTempleBuddhistPrimary = IconifyIconData(IconData(
+    0xf265,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-temple-buddhist` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTempleBuddhistSecondary = IconifyIconData(IconData(
+    0xf265,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-temple-hindu` — primary layer (full opacity)
+  static const IconifyIconData twotoneTempleHinduPrimary = IconifyIconData(IconData(
+    0xf266,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-temple-hindu` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTempleHinduSecondary = IconifyIconData(IconData(
+    0xf266,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-terminal` — primary layer (full opacity)
+  static const IconifyIconData twotoneTerminalPrimary = IconifyIconData(IconData(
+    0xf267,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-terminal` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTerminalSecondary = IconifyIconData(IconData(
+    0xf267,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-terrain` — primary layer (full opacity)
+  static const IconifyIconData twotoneTerrainPrimary = IconifyIconData(IconData(
+    0xf268,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-terrain` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTerrainSecondary = IconifyIconData(IconData(
+    0xf268,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-text-decrease`
   static const IconifyIconData twotoneTextDecrease = IconifyIconData(IconData(
-    0xf265,
+    0xf269,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-text-fields`
   static const IconifyIconData twotoneTextFields = IconifyIconData(IconData(
-    0xf266,
+    0xf26a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-text-format`
   static const IconifyIconData twotoneTextFormat = IconifyIconData(IconData(
-    0xf267,
+    0xf26b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-text-increase`
   static const IconifyIconData twotoneTextIncrease = IconifyIconData(IconData(
-    0xf268,
+    0xf26c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-text-rotate-up`
   static const IconifyIconData twotoneTextRotateUp = IconifyIconData(IconData(
-    0xf269,
+    0xf26d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-text-rotate-vertical`
   static const IconifyIconData twotoneTextRotateVertical = IconifyIconData(IconData(
-    0xf26a,
+    0xf26e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-text-rotation-angledown`
   static const IconifyIconData twotoneTextRotationAngledown = IconifyIconData(IconData(
-    0xf26b,
+    0xf26f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-text-rotation-angleup`
   static const IconifyIconData twotoneTextRotationAngleup = IconifyIconData(IconData(
-    0xf26c,
+    0xf270,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-text-rotation-down`
   static const IconifyIconData twotoneTextRotationDown = IconifyIconData(IconData(
-    0xf26d,
+    0xf271,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-text-rotation-none`
   static const IconifyIconData twotoneTextRotationNone = IconifyIconData(IconData(
-    0xf26e,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-text-snippet`
-  static const IconifyIconData twotoneTextSnippet = IconifyIconData(IconData(
-    0xf26f,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-textsms`
-  static const IconifyIconData twotoneTextsms = IconifyIconData(IconData(
-    0xf270,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-texture`
-  static const IconifyIconData twotoneTexture = IconifyIconData(IconData(
-    0xf271,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-theater-comedy`
-  static const IconifyIconData twotoneTheaterComedy = IconifyIconData(IconData(
     0xf272,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-theaters`
-  static const IconifyIconData twotoneTheaters = IconifyIconData(IconData(
+  /// `twotone-text-snippet` — primary layer (full opacity)
+  static const IconifyIconData twotoneTextSnippetPrimary = IconifyIconData(IconData(
     0xf273,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-thermostat`
-  static const IconifyIconData twotoneThermostat = IconifyIconData(IconData(
+  /// `twotone-text-snippet` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTextSnippetSecondary = IconifyIconData(IconData(
+    0xf273,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-textsms` — primary layer (full opacity)
+  static const IconifyIconData twotoneTextsmsPrimary = IconifyIconData(IconData(
     0xf274,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-thermostat-auto`
-  static const IconifyIconData twotoneThermostatAuto = IconifyIconData(IconData(
+  /// `twotone-textsms` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTextsmsSecondary = IconifyIconData(IconData(
+    0xf274,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-texture`
+  static const IconifyIconData twotoneTexture = IconifyIconData(IconData(
     0xf275,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-thumb-down`
-  static const IconifyIconData twotoneThumbDown = IconifyIconData(IconData(
+  /// `twotone-theater-comedy` — primary layer (full opacity)
+  static const IconifyIconData twotoneTheaterComedyPrimary = IconifyIconData(IconData(
     0xf276,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-thumb-down-alt`
-  static const IconifyIconData twotoneThumbDownAlt = IconifyIconData(IconData(
+  /// `twotone-theater-comedy` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTheaterComedySecondary = IconifyIconData(IconData(
+    0xf276,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-theaters` — primary layer (full opacity)
+  static const IconifyIconData twotoneTheatersPrimary = IconifyIconData(IconData(
     0xf277,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-thumb-down-off-alt`
-  static const IconifyIconData twotoneThumbDownOffAlt = IconifyIconData(IconData(
+  /// `twotone-theaters` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTheatersSecondary = IconifyIconData(IconData(
+    0xf277,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-thermostat`
+  static const IconifyIconData twotoneThermostat = IconifyIconData(IconData(
     0xf278,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-thumb-up`
-  static const IconifyIconData twotoneThumbUp = IconifyIconData(IconData(
+  /// `twotone-thermostat-auto` — primary layer (full opacity)
+  static const IconifyIconData twotoneThermostatAutoPrimary = IconifyIconData(IconData(
     0xf279,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-thumb-up-alt`
-  static const IconifyIconData twotoneThumbUpAlt = IconifyIconData(IconData(
+  /// `twotone-thermostat-auto` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneThermostatAutoSecondary = IconifyIconData(IconData(
+    0xf279,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-thumb-down` — primary layer (full opacity)
+  static const IconifyIconData twotoneThumbDownPrimary = IconifyIconData(IconData(
     0xf27a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-thumb-up-off-alt`
-  static const IconifyIconData twotoneThumbUpOffAlt = IconifyIconData(IconData(
+  /// `twotone-thumb-down` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneThumbDownSecondary = IconifyIconData(IconData(
+    0xf27a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-thumb-down-alt` — primary layer (full opacity)
+  static const IconifyIconData twotoneThumbDownAltPrimary = IconifyIconData(IconData(
     0xf27b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-thumbs-up-down`
-  static const IconifyIconData twotoneThumbsUpDown = IconifyIconData(IconData(
+  /// `twotone-thumb-down-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneThumbDownAltSecondary = IconifyIconData(IconData(
+    0xf27b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-thumb-down-off-alt` — primary layer (full opacity)
+  static const IconifyIconData twotoneThumbDownOffAltPrimary = IconifyIconData(IconData(
     0xf27c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-thunderstorm`
-  static const IconifyIconData twotoneThunderstorm = IconifyIconData(IconData(
+  /// `twotone-thumb-down-off-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneThumbDownOffAltSecondary = IconifyIconData(IconData(
+    0xf27c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-thumb-up` — primary layer (full opacity)
+  static const IconifyIconData twotoneThumbUpPrimary = IconifyIconData(IconData(
     0xf27d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-tiktok`
-  static const IconifyIconData twotoneTiktok = IconifyIconData(IconData(
+  /// `twotone-thumb-up` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneThumbUpSecondary = IconifyIconData(IconData(
+    0xf27d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-thumb-up-alt` — primary layer (full opacity)
+  static const IconifyIconData twotoneThumbUpAltPrimary = IconifyIconData(IconData(
     0xf27e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-time-to-leave`
-  static const IconifyIconData twotoneTimeToLeave = IconifyIconData(IconData(
+  /// `twotone-thumb-up-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneThumbUpAltSecondary = IconifyIconData(IconData(
+    0xf27e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-thumb-up-off-alt` — primary layer (full opacity)
+  static const IconifyIconData twotoneThumbUpOffAltPrimary = IconifyIconData(IconData(
     0xf27f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-timelapse`
-  static const IconifyIconData twotoneTimelapse = IconifyIconData(IconData(
+  /// `twotone-thumb-up-off-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneThumbUpOffAltSecondary = IconifyIconData(IconData(
+    0xf27f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-thumbs-up-down` — primary layer (full opacity)
+  static const IconifyIconData twotoneThumbsUpDownPrimary = IconifyIconData(IconData(
     0xf280,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-timeline`
-  static const IconifyIconData twotoneTimeline = IconifyIconData(IconData(
+  /// `twotone-thumbs-up-down` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneThumbsUpDownSecondary = IconifyIconData(IconData(
+    0xf280,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-thunderstorm` — primary layer (full opacity)
+  static const IconifyIconData twotoneThunderstormPrimary = IconifyIconData(IconData(
     0xf281,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-timer`
-  static const IconifyIconData twotoneTimer = IconifyIconData(IconData(
+  /// `twotone-thunderstorm` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneThunderstormSecondary = IconifyIconData(IconData(
+    0xf281,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-tiktok`
+  static const IconifyIconData twotoneTiktok = IconifyIconData(IconData(
     0xf282,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-time-to-leave` — primary layer (full opacity)
+  static const IconifyIconData twotoneTimeToLeavePrimary = IconifyIconData(IconData(
+    0xf283,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-time-to-leave` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTimeToLeaveSecondary = IconifyIconData(IconData(
+    0xf283,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-timelapse` — primary layer (full opacity)
+  static const IconifyIconData twotoneTimelapsePrimary = IconifyIconData(IconData(
+    0xf284,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-timelapse` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTimelapseSecondary = IconifyIconData(IconData(
+    0xf284,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-timeline`
+  static const IconifyIconData twotoneTimeline = IconifyIconData(IconData(
+    0xf285,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-timer` — primary layer (full opacity)
+  static const IconifyIconData twotoneTimerPrimary = IconifyIconData(IconData(
+    0xf286,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-timer` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTimerSecondary = IconifyIconData(IconData(
+    0xf286,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-timer-10`
   static const IconifyIconData twotoneTimer10 = IconifyIconData(IconData(
-    0xf283,
+    0xf287,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-timer-10-select`
   static const IconifyIconData twotoneTimer10Select = IconifyIconData(IconData(
-    0xf284,
+    0xf288,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-timer-3-select`
   static const IconifyIconData twotoneTimer3Select = IconifyIconData(IconData(
-    0xf285,
+    0xf289,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-timer-off`
-  static const IconifyIconData twotoneTimerOff = IconifyIconData(IconData(
-    0xf286,
+  /// `twotone-timer-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneTimerOffPrimary = IconifyIconData(IconData(
+    0xf28a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-tips-and-updates`
-  static const IconifyIconData twotoneTipsAndUpdates = IconifyIconData(IconData(
-    0xf287,
+  /// `twotone-timer-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTimerOffSecondary = IconifyIconData(IconData(
+    0xf28a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-tips-and-updates` — primary layer (full opacity)
+  static const IconifyIconData twotoneTipsAndUpdatesPrimary = IconifyIconData(IconData(
+    0xf28b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-tire-repair`
-  static const IconifyIconData twotoneTireRepair = IconifyIconData(IconData(
-    0xf288,
+  /// `twotone-tips-and-updates` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTipsAndUpdatesSecondary = IconifyIconData(IconData(
+    0xf28b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-tire-repair` — primary layer (full opacity)
+  static const IconifyIconData twotoneTireRepairPrimary = IconifyIconData(IconData(
+    0xf28c,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-tire-repair` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTireRepairSecondary = IconifyIconData(IconData(
+    0xf28c,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-title`
   static const IconifyIconData twotoneTitle = IconifyIconData(IconData(
-    0xf289,
+    0xf28d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-toc`
   static const IconifyIconData twotoneToc = IconifyIconData(IconData(
-    0xf28a,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-today`
-  static const IconifyIconData twotoneToday = IconifyIconData(IconData(
-    0xf28b,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-toggle-off`
-  static const IconifyIconData twotoneToggleOff = IconifyIconData(IconData(
-    0xf28c,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-toggle-on`
-  static const IconifyIconData twotoneToggleOn = IconifyIconData(IconData(
-    0xf28d,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-token`
-  static const IconifyIconData twotoneToken = IconifyIconData(IconData(
     0xf28e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-toll`
-  static const IconifyIconData twotoneToll = IconifyIconData(IconData(
+  /// `twotone-today` — primary layer (full opacity)
+  static const IconifyIconData twotoneTodayPrimary = IconifyIconData(IconData(
     0xf28f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-tonality`
-  static const IconifyIconData twotoneTonality = IconifyIconData(IconData(
+  /// `twotone-today` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTodaySecondary = IconifyIconData(IconData(
+    0xf28f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-toggle-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneToggleOffPrimary = IconifyIconData(IconData(
     0xf290,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-topic`
-  static const IconifyIconData twotoneTopic = IconifyIconData(IconData(
+  /// `twotone-toggle-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneToggleOffSecondary = IconifyIconData(IconData(
+    0xf290,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-toggle-on` — primary layer (full opacity)
+  static const IconifyIconData twotoneToggleOnPrimary = IconifyIconData(IconData(
     0xf291,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-tornado`
-  static const IconifyIconData twotoneTornado = IconifyIconData(IconData(
+  /// `twotone-toggle-on` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneToggleOnSecondary = IconifyIconData(IconData(
+    0xf291,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-token` — primary layer (full opacity)
+  static const IconifyIconData twotoneTokenPrimary = IconifyIconData(IconData(
     0xf292,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-touch-app`
-  static const IconifyIconData twotoneTouchApp = IconifyIconData(IconData(
+  /// `twotone-token` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTokenSecondary = IconifyIconData(IconData(
+    0xf292,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-toll` — primary layer (full opacity)
+  static const IconifyIconData twotoneTollPrimary = IconifyIconData(IconData(
     0xf293,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-tour`
-  static const IconifyIconData twotoneTour = IconifyIconData(IconData(
+  /// `twotone-toll` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTollSecondary = IconifyIconData(IconData(
+    0xf293,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-tonality` — primary layer (full opacity)
+  static const IconifyIconData twotoneTonalityPrimary = IconifyIconData(IconData(
     0xf294,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-track-changes`
-  static const IconifyIconData twotoneTrackChanges = IconifyIconData(IconData(
+  /// `twotone-tonality` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTonalitySecondary = IconifyIconData(IconData(
+    0xf294,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-topic` — primary layer (full opacity)
+  static const IconifyIconData twotoneTopicPrimary = IconifyIconData(IconData(
     0xf295,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-traffic`
-  static const IconifyIconData twotoneTraffic = IconifyIconData(IconData(
+  /// `twotone-topic` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTopicSecondary = IconifyIconData(IconData(
+    0xf295,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-tornado` — primary layer (full opacity)
+  static const IconifyIconData twotoneTornadoPrimary = IconifyIconData(IconData(
     0xf296,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-train`
-  static const IconifyIconData twotoneTrain = IconifyIconData(IconData(
+  /// `twotone-tornado` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTornadoSecondary = IconifyIconData(IconData(
+    0xf296,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-touch-app` — primary layer (full opacity)
+  static const IconifyIconData twotoneTouchAppPrimary = IconifyIconData(IconData(
     0xf297,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-transcribe`
-  static const IconifyIconData twotoneTranscribe = IconifyIconData(IconData(
+  /// `twotone-touch-app` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTouchAppSecondary = IconifyIconData(IconData(
+    0xf297,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-tour` — primary layer (full opacity)
+  static const IconifyIconData twotoneTourPrimary = IconifyIconData(IconData(
     0xf298,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-tour` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTourSecondary = IconifyIconData(IconData(
+    0xf298,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-track-changes`
+  static const IconifyIconData twotoneTrackChanges = IconifyIconData(IconData(
+    0xf299,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-traffic` — primary layer (full opacity)
+  static const IconifyIconData twotoneTrafficPrimary = IconifyIconData(IconData(
+    0xf29a,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-traffic` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTrafficSecondary = IconifyIconData(IconData(
+    0xf29a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-train` — primary layer (full opacity)
+  static const IconifyIconData twotoneTrainPrimary = IconifyIconData(IconData(
+    0xf29b,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-train` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTrainSecondary = IconifyIconData(IconData(
+    0xf29b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-transcribe` — primary layer (full opacity)
+  static const IconifyIconData twotoneTranscribePrimary = IconifyIconData(IconData(
+    0xf29c,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-transcribe` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTranscribeSecondary = IconifyIconData(IconData(
+    0xf29c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-transform`
   static const IconifyIconData twotoneTransform = IconifyIconData(IconData(
-    0xf299,
+    0xf29d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-transgender`
   static const IconifyIconData twotoneTransgender = IconifyIconData(IconData(
-    0xf29a,
+    0xf29e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-transit-enterexit`
   static const IconifyIconData twotoneTransitEnterexit = IconifyIconData(IconData(
-    0xf29b,
+    0xf29f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-translate`
   static const IconifyIconData twotoneTranslate = IconifyIconData(IconData(
-    0xf29c,
+    0xf2a0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-travel-explore`
   static const IconifyIconData twotoneTravelExplore = IconifyIconData(IconData(
-    0xf29d,
+    0xf2a1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-trending-down`
   static const IconifyIconData twotoneTrendingDown = IconifyIconData(IconData(
-    0xf29e,
+    0xf2a2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-trending-flat`
   static const IconifyIconData twotoneTrendingFlat = IconifyIconData(IconData(
-    0xf29f,
+    0xf2a3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-trending-up`
   static const IconifyIconData twotoneTrendingUp = IconifyIconData(IconData(
-    0xf2a0,
+    0xf2a4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-trip-origin`
   static const IconifyIconData twotoneTripOrigin = IconifyIconData(IconData(
-    0xf2a1,
+    0xf2a5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-troubleshoot`
   static const IconifyIconData twotoneTroubleshoot = IconifyIconData(IconData(
-    0xf2a2,
+    0xf2a6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-try`
-  static const IconifyIconData twotoneTry = IconifyIconData(IconData(
-    0xf2a3,
+  /// `twotone-try` — primary layer (full opacity)
+  static const IconifyIconData twotoneTryPrimary = IconifyIconData(IconData(
+    0xf2a7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-tsunami`
-  static const IconifyIconData twotoneTsunami = IconifyIconData(IconData(
-    0xf2a4,
+  /// `twotone-try` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTrySecondary = IconifyIconData(IconData(
+    0xf2a7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-tsunami` — primary layer (full opacity)
+  static const IconifyIconData twotoneTsunamiPrimary = IconifyIconData(IconData(
+    0xf2a8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-tty`
-  static const IconifyIconData twotoneTty = IconifyIconData(IconData(
-    0xf2a5,
+  /// `twotone-tsunami` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTsunamiSecondary = IconifyIconData(IconData(
+    0xf2a8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-tty` — primary layer (full opacity)
+  static const IconifyIconData twotoneTtyPrimary = IconifyIconData(IconData(
+    0xf2a9,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-tty` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTtySecondary = IconifyIconData(IconData(
+    0xf2a9,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-tune`
   static const IconifyIconData twotoneTune = IconifyIconData(IconData(
-    0xf2a6,
+    0xf2aa,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-turn-left`
   static const IconifyIconData twotoneTurnLeft = IconifyIconData(IconData(
-    0xf2a7,
+    0xf2ab,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-turn-right`
   static const IconifyIconData twotoneTurnRight = IconifyIconData(IconData(
-    0xf2a8,
+    0xf2ac,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-turn-sharp-left`
   static const IconifyIconData twotoneTurnSharpLeft = IconifyIconData(IconData(
-    0xf2a9,
+    0xf2ad,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-turn-sharp-right`
   static const IconifyIconData twotoneTurnSharpRight = IconifyIconData(IconData(
-    0xf2aa,
+    0xf2ae,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-turn-slight-left`
   static const IconifyIconData twotoneTurnSlightLeft = IconifyIconData(IconData(
-    0xf2ab,
+    0xf2af,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-turn-slight-right`
   static const IconifyIconData twotoneTurnSlightRight = IconifyIconData(IconData(
-    0xf2ac,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-turned-in`
-  static const IconifyIconData twotoneTurnedIn = IconifyIconData(IconData(
-    0xf2ad,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-turned-in-not`
-  static const IconifyIconData twotoneTurnedInNot = IconifyIconData(IconData(
-    0xf2ae,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-tv`
-  static const IconifyIconData twotoneTv = IconifyIconData(IconData(
-    0xf2af,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-tv-off`
-  static const IconifyIconData twotoneTvOff = IconifyIconData(IconData(
     0xf2b0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-two-wheeler`
-  static const IconifyIconData twotoneTwoWheeler = IconifyIconData(IconData(
+  /// `twotone-turned-in` — primary layer (full opacity)
+  static const IconifyIconData twotoneTurnedInPrimary = IconifyIconData(IconData(
     0xf2b1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-type-specimen`
-  static const IconifyIconData twotoneTypeSpecimen = IconifyIconData(IconData(
+  /// `twotone-turned-in` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTurnedInSecondary = IconifyIconData(IconData(
+    0xf2b1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-turned-in-not`
+  static const IconifyIconData twotoneTurnedInNot = IconifyIconData(IconData(
     0xf2b2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-tv` — primary layer (full opacity)
+  static const IconifyIconData twotoneTvPrimary = IconifyIconData(IconData(
+    0xf2b3,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-tv` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTvSecondary = IconifyIconData(IconData(
+    0xf2b3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-tv-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneTvOffPrimary = IconifyIconData(IconData(
+    0xf2b4,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-tv-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTvOffSecondary = IconifyIconData(IconData(
+    0xf2b4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-two-wheeler`
+  static const IconifyIconData twotoneTwoWheeler = IconifyIconData(IconData(
+    0xf2b5,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-type-specimen` — primary layer (full opacity)
+  static const IconifyIconData twotoneTypeSpecimenPrimary = IconifyIconData(IconData(
+    0xf2b6,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-type-specimen` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneTypeSpecimenSecondary = IconifyIconData(IconData(
+    0xf2b6,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-u-turn-left`
   static const IconifyIconData twotoneUTurnLeft = IconifyIconData(IconData(
-    0xf2b3,
+    0xf2b7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-u-turn-right`
   static const IconifyIconData twotoneUTurnRight = IconifyIconData(IconData(
-    0xf2b4,
+    0xf2b8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-umbrella`
-  static const IconifyIconData twotoneUmbrella = IconifyIconData(IconData(
-    0xf2b5,
+  /// `twotone-umbrella` — primary layer (full opacity)
+  static const IconifyIconData twotoneUmbrellaPrimary = IconifyIconData(IconData(
+    0xf2b9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-unarchive`
-  static const IconifyIconData twotoneUnarchive = IconifyIconData(IconData(
-    0xf2b6,
+  /// `twotone-umbrella` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneUmbrellaSecondary = IconifyIconData(IconData(
+    0xf2b9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-unarchive` — primary layer (full opacity)
+  static const IconifyIconData twotoneUnarchivePrimary = IconifyIconData(IconData(
+    0xf2ba,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-unarchive` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneUnarchiveSecondary = IconifyIconData(IconData(
+    0xf2ba,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-undo`
   static const IconifyIconData twotoneUndo = IconifyIconData(IconData(
-    0xf2b7,
+    0xf2bb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-unfold-less`
   static const IconifyIconData twotoneUnfoldLess = IconifyIconData(IconData(
-    0xf2b8,
+    0xf2bc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-unfold-less-double`
   static const IconifyIconData twotoneUnfoldLessDouble = IconifyIconData(IconData(
-    0xf2b9,
+    0xf2bd,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-unfold-more`
   static const IconifyIconData twotoneUnfoldMore = IconifyIconData(IconData(
-    0xf2ba,
+    0xf2be,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-unfold-more-double`
   static const IconifyIconData twotoneUnfoldMoreDouble = IconifyIconData(IconData(
-    0xf2bb,
+    0xf2bf,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-unpublished`
-  static const IconifyIconData twotoneUnpublished = IconifyIconData(IconData(
-    0xf2bc,
+  /// `twotone-unpublished` — primary layer (full opacity)
+  static const IconifyIconData twotoneUnpublishedPrimary = IconifyIconData(IconData(
+    0xf2c0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-unsubscribe`
-  static const IconifyIconData twotoneUnsubscribe = IconifyIconData(IconData(
-    0xf2bd,
+  /// `twotone-unpublished` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneUnpublishedSecondary = IconifyIconData(IconData(
+    0xf2c0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-unsubscribe` — primary layer (full opacity)
+  static const IconifyIconData twotoneUnsubscribePrimary = IconifyIconData(IconData(
+    0xf2c1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-upcoming`
-  static const IconifyIconData twotoneUpcoming = IconifyIconData(IconData(
-    0xf2be,
+  /// `twotone-unsubscribe` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneUnsubscribeSecondary = IconifyIconData(IconData(
+    0xf2c1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-upcoming` — primary layer (full opacity)
+  static const IconifyIconData twotoneUpcomingPrimary = IconifyIconData(IconData(
+    0xf2c2,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-upcoming` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneUpcomingSecondary = IconifyIconData(IconData(
+    0xf2c2,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-update`
   static const IconifyIconData twotoneUpdate = IconifyIconData(IconData(
-    0xf2bf,
+    0xf2c3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-update-disabled`
   static const IconifyIconData twotoneUpdateDisabled = IconifyIconData(IconData(
-    0xf2c0,
+    0xf2c4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-upgrade`
   static const IconifyIconData twotoneUpgrade = IconifyIconData(IconData(
-    0xf2c1,
+    0xf2c5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-upload`
-  static const IconifyIconData twotoneUpload = IconifyIconData(IconData(
-    0xf2c2,
+  /// `twotone-upload` — primary layer (full opacity)
+  static const IconifyIconData twotoneUploadPrimary = IconifyIconData(IconData(
+    0xf2c6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-upload-file`
-  static const IconifyIconData twotoneUploadFile = IconifyIconData(IconData(
-    0xf2c3,
+  /// `twotone-upload` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneUploadSecondary = IconifyIconData(IconData(
+    0xf2c6,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-upload-file` — primary layer (full opacity)
+  static const IconifyIconData twotoneUploadFilePrimary = IconifyIconData(IconData(
+    0xf2c7,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-upload-file` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneUploadFileSecondary = IconifyIconData(IconData(
+    0xf2c7,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-usb`
   static const IconifyIconData twotoneUsb = IconifyIconData(IconData(
-    0xf2c4,
+    0xf2c8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-usb-off`
   static const IconifyIconData twotoneUsbOff = IconifyIconData(IconData(
-    0xf2c5,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-vaccines`
-  static const IconifyIconData twotoneVaccines = IconifyIconData(IconData(
-    0xf2c6,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-vape-free`
-  static const IconifyIconData twotoneVapeFree = IconifyIconData(IconData(
-    0xf2c7,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-vaping-rooms`
-  static const IconifyIconData twotoneVapingRooms = IconifyIconData(IconData(
-    0xf2c8,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-verified`
-  static const IconifyIconData twotoneVerified = IconifyIconData(IconData(
     0xf2c9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-verified-user`
-  static const IconifyIconData twotoneVerifiedUser = IconifyIconData(IconData(
+  /// `twotone-vaccines` — primary layer (full opacity)
+  static const IconifyIconData twotoneVaccinesPrimary = IconifyIconData(IconData(
     0xf2ca,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-vaccines` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVaccinesSecondary = IconifyIconData(IconData(
+    0xf2ca,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-vape-free` — primary layer (full opacity)
+  static const IconifyIconData twotoneVapeFreePrimary = IconifyIconData(IconData(
+    0xf2cb,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-vape-free` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVapeFreeSecondary = IconifyIconData(IconData(
+    0xf2cb,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-vaping-rooms` — primary layer (full opacity)
+  static const IconifyIconData twotoneVapingRoomsPrimary = IconifyIconData(IconData(
+    0xf2cc,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-vaping-rooms` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVapingRoomsSecondary = IconifyIconData(IconData(
+    0xf2cc,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-verified` — primary layer (full opacity)
+  static const IconifyIconData twotoneVerifiedPrimary = IconifyIconData(IconData(
+    0xf2cd,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-verified` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVerifiedSecondary = IconifyIconData(IconData(
+    0xf2cd,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-verified-user` — primary layer (full opacity)
+  static const IconifyIconData twotoneVerifiedUserPrimary = IconifyIconData(IconData(
+    0xf2ce,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-verified-user` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVerifiedUserSecondary = IconifyIconData(IconData(
+    0xf2ce,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-vertical-align-bottom`
   static const IconifyIconData twotoneVerticalAlignBottom = IconifyIconData(IconData(
-    0xf2cb,
+    0xf2cf,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-vertical-align-center`
   static const IconifyIconData twotoneVerticalAlignCenter = IconifyIconData(IconData(
-    0xf2cc,
+    0xf2d0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-vertical-align-top`
   static const IconifyIconData twotoneVerticalAlignTop = IconifyIconData(IconData(
-    0xf2cd,
+    0xf2d1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-vertical-distribute`
   static const IconifyIconData twotoneVerticalDistribute = IconifyIconData(IconData(
-    0xf2ce,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-vertical-shades`
-  static const IconifyIconData twotoneVerticalShades = IconifyIconData(IconData(
-    0xf2cf,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-vertical-shades-closed`
-  static const IconifyIconData twotoneVerticalShadesClosed = IconifyIconData(IconData(
-    0xf2d0,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-vertical-split`
-  static const IconifyIconData twotoneVerticalSplit = IconifyIconData(IconData(
-    0xf2d1,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-vibration`
-  static const IconifyIconData twotoneVibration = IconifyIconData(IconData(
     0xf2d2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-video-call`
-  static const IconifyIconData twotoneVideoCall = IconifyIconData(IconData(
+  /// `twotone-vertical-shades` — primary layer (full opacity)
+  static const IconifyIconData twotoneVerticalShadesPrimary = IconifyIconData(IconData(
     0xf2d3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-video-camera-back`
-  static const IconifyIconData twotoneVideoCameraBack = IconifyIconData(IconData(
+  /// `twotone-vertical-shades` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVerticalShadesSecondary = IconifyIconData(IconData(
+    0xf2d3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-vertical-shades-closed` — primary layer (full opacity)
+  static const IconifyIconData twotoneVerticalShadesClosedPrimary = IconifyIconData(IconData(
     0xf2d4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-video-camera-front`
-  static const IconifyIconData twotoneVideoCameraFront = IconifyIconData(IconData(
+  /// `twotone-vertical-shades-closed` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVerticalShadesClosedSecondary = IconifyIconData(IconData(
+    0xf2d4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-vertical-split` — primary layer (full opacity)
+  static const IconifyIconData twotoneVerticalSplitPrimary = IconifyIconData(IconData(
     0xf2d5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-video-chat`
-  static const IconifyIconData twotoneVideoChat = IconifyIconData(IconData(
+  /// `twotone-vertical-split` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVerticalSplitSecondary = IconifyIconData(IconData(
+    0xf2d5,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-vibration` — primary layer (full opacity)
+  static const IconifyIconData twotoneVibrationPrimary = IconifyIconData(IconData(
     0xf2d6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-video-file`
-  static const IconifyIconData twotoneVideoFile = IconifyIconData(IconData(
+  /// `twotone-vibration` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVibrationSecondary = IconifyIconData(IconData(
+    0xf2d6,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-video-call` — primary layer (full opacity)
+  static const IconifyIconData twotoneVideoCallPrimary = IconifyIconData(IconData(
     0xf2d7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-video-label`
-  static const IconifyIconData twotoneVideoLabel = IconifyIconData(IconData(
+  /// `twotone-video-call` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVideoCallSecondary = IconifyIconData(IconData(
+    0xf2d7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-video-camera-back` — primary layer (full opacity)
+  static const IconifyIconData twotoneVideoCameraBackPrimary = IconifyIconData(IconData(
     0xf2d8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-video-library`
-  static const IconifyIconData twotoneVideoLibrary = IconifyIconData(IconData(
+  /// `twotone-video-camera-back` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVideoCameraBackSecondary = IconifyIconData(IconData(
+    0xf2d8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-video-camera-front` — primary layer (full opacity)
+  static const IconifyIconData twotoneVideoCameraFrontPrimary = IconifyIconData(IconData(
     0xf2d9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-video-stable`
-  static const IconifyIconData twotoneVideoStable = IconifyIconData(IconData(
+  /// `twotone-video-camera-front` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVideoCameraFrontSecondary = IconifyIconData(IconData(
+    0xf2d9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-video-chat` — primary layer (full opacity)
+  static const IconifyIconData twotoneVideoChatPrimary = IconifyIconData(IconData(
     0xf2da,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-videocam`
-  static const IconifyIconData twotoneVideocam = IconifyIconData(IconData(
+  /// `twotone-video-chat` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVideoChatSecondary = IconifyIconData(IconData(
+    0xf2da,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-video-file` — primary layer (full opacity)
+  static const IconifyIconData twotoneVideoFilePrimary = IconifyIconData(IconData(
     0xf2db,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-videocam-off`
-  static const IconifyIconData twotoneVideocamOff = IconifyIconData(IconData(
+  /// `twotone-video-file` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVideoFileSecondary = IconifyIconData(IconData(
+    0xf2db,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-video-label` — primary layer (full opacity)
+  static const IconifyIconData twotoneVideoLabelPrimary = IconifyIconData(IconData(
     0xf2dc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-videogame-asset`
-  static const IconifyIconData twotoneVideogameAsset = IconifyIconData(IconData(
+  /// `twotone-video-label` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVideoLabelSecondary = IconifyIconData(IconData(
+    0xf2dc,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-video-library` — primary layer (full opacity)
+  static const IconifyIconData twotoneVideoLibraryPrimary = IconifyIconData(IconData(
     0xf2dd,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-videogame-asset-off`
-  static const IconifyIconData twotoneVideogameAssetOff = IconifyIconData(IconData(
+  /// `twotone-video-library` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVideoLibrarySecondary = IconifyIconData(IconData(
+    0xf2dd,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-video-stable` — primary layer (full opacity)
+  static const IconifyIconData twotoneVideoStablePrimary = IconifyIconData(IconData(
     0xf2de,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-view-agenda`
-  static const IconifyIconData twotoneViewAgenda = IconifyIconData(IconData(
+  /// `twotone-video-stable` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVideoStableSecondary = IconifyIconData(IconData(
+    0xf2de,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-videocam` — primary layer (full opacity)
+  static const IconifyIconData twotoneVideocamPrimary = IconifyIconData(IconData(
     0xf2df,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-view-array`
-  static const IconifyIconData twotoneViewArray = IconifyIconData(IconData(
+  /// `twotone-videocam` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVideocamSecondary = IconifyIconData(IconData(
+    0xf2df,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-videocam-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneVideocamOffPrimary = IconifyIconData(IconData(
     0xf2e0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-view-carousel`
-  static const IconifyIconData twotoneViewCarousel = IconifyIconData(IconData(
+  /// `twotone-videocam-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVideocamOffSecondary = IconifyIconData(IconData(
+    0xf2e0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-videogame-asset` — primary layer (full opacity)
+  static const IconifyIconData twotoneVideogameAssetPrimary = IconifyIconData(IconData(
     0xf2e1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-view-column`
-  static const IconifyIconData twotoneViewColumn = IconifyIconData(IconData(
+  /// `twotone-videogame-asset` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVideogameAssetSecondary = IconifyIconData(IconData(
+    0xf2e1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-videogame-asset-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneVideogameAssetOffPrimary = IconifyIconData(IconData(
     0xf2e2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-view-comfy`
-  static const IconifyIconData twotoneViewComfy = IconifyIconData(IconData(
+  /// `twotone-videogame-asset-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVideogameAssetOffSecondary = IconifyIconData(IconData(
+    0xf2e2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-view-agenda` — primary layer (full opacity)
+  static const IconifyIconData twotoneViewAgendaPrimary = IconifyIconData(IconData(
     0xf2e3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-view-comfy-alt`
-  static const IconifyIconData twotoneViewComfyAlt = IconifyIconData(IconData(
+  /// `twotone-view-agenda` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneViewAgendaSecondary = IconifyIconData(IconData(
+    0xf2e3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-view-array` — primary layer (full opacity)
+  static const IconifyIconData twotoneViewArrayPrimary = IconifyIconData(IconData(
     0xf2e4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-view-compact`
-  static const IconifyIconData twotoneViewCompact = IconifyIconData(IconData(
+  /// `twotone-view-array` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneViewArraySecondary = IconifyIconData(IconData(
+    0xf2e4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-view-carousel` — primary layer (full opacity)
+  static const IconifyIconData twotoneViewCarouselPrimary = IconifyIconData(IconData(
     0xf2e5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-view-compact-alt`
-  static const IconifyIconData twotoneViewCompactAlt = IconifyIconData(IconData(
+  /// `twotone-view-carousel` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneViewCarouselSecondary = IconifyIconData(IconData(
+    0xf2e5,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-view-column` — primary layer (full opacity)
+  static const IconifyIconData twotoneViewColumnPrimary = IconifyIconData(IconData(
     0xf2e6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-view-cozy`
-  static const IconifyIconData twotoneViewCozy = IconifyIconData(IconData(
+  /// `twotone-view-column` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneViewColumnSecondary = IconifyIconData(IconData(
+    0xf2e6,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-view-comfy` — primary layer (full opacity)
+  static const IconifyIconData twotoneViewComfyPrimary = IconifyIconData(IconData(
     0xf2e7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-view-day`
-  static const IconifyIconData twotoneViewDay = IconifyIconData(IconData(
+  /// `twotone-view-comfy` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneViewComfySecondary = IconifyIconData(IconData(
+    0xf2e7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-view-comfy-alt` — primary layer (full opacity)
+  static const IconifyIconData twotoneViewComfyAltPrimary = IconifyIconData(IconData(
     0xf2e8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-view-headline`
-  static const IconifyIconData twotoneViewHeadline = IconifyIconData(IconData(
+  /// `twotone-view-comfy-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneViewComfyAltSecondary = IconifyIconData(IconData(
+    0xf2e8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-view-compact` — primary layer (full opacity)
+  static const IconifyIconData twotoneViewCompactPrimary = IconifyIconData(IconData(
     0xf2e9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-view-in-ar`
-  static const IconifyIconData twotoneViewInAr = IconifyIconData(IconData(
+  /// `twotone-view-compact` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneViewCompactSecondary = IconifyIconData(IconData(
+    0xf2e9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-view-compact-alt` — primary layer (full opacity)
+  static const IconifyIconData twotoneViewCompactAltPrimary = IconifyIconData(IconData(
     0xf2ea,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-view-kanban`
-  static const IconifyIconData twotoneViewKanban = IconifyIconData(IconData(
+  /// `twotone-view-compact-alt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneViewCompactAltSecondary = IconifyIconData(IconData(
+    0xf2ea,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-view-cozy` — primary layer (full opacity)
+  static const IconifyIconData twotoneViewCozyPrimary = IconifyIconData(IconData(
     0xf2eb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-view-list`
-  static const IconifyIconData twotoneViewList = IconifyIconData(IconData(
+  /// `twotone-view-cozy` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneViewCozySecondary = IconifyIconData(IconData(
+    0xf2eb,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-view-day` — primary layer (full opacity)
+  static const IconifyIconData twotoneViewDayPrimary = IconifyIconData(IconData(
     0xf2ec,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-view-module`
-  static const IconifyIconData twotoneViewModule = IconifyIconData(IconData(
+  /// `twotone-view-day` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneViewDaySecondary = IconifyIconData(IconData(
+    0xf2ec,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-view-headline`
+  static const IconifyIconData twotoneViewHeadline = IconifyIconData(IconData(
     0xf2ed,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-view-quilt`
-  static const IconifyIconData twotoneViewQuilt = IconifyIconData(IconData(
+  /// `twotone-view-in-ar` — primary layer (full opacity)
+  static const IconifyIconData twotoneViewInArPrimary = IconifyIconData(IconData(
     0xf2ee,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-view-sidebar`
-  static const IconifyIconData twotoneViewSidebar = IconifyIconData(IconData(
+  /// `twotone-view-in-ar` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneViewInArSecondary = IconifyIconData(IconData(
+    0xf2ee,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-view-kanban` — primary layer (full opacity)
+  static const IconifyIconData twotoneViewKanbanPrimary = IconifyIconData(IconData(
     0xf2ef,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-view-stream`
-  static const IconifyIconData twotoneViewStream = IconifyIconData(IconData(
+  /// `twotone-view-kanban` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneViewKanbanSecondary = IconifyIconData(IconData(
+    0xf2ef,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-view-list` — primary layer (full opacity)
+  static const IconifyIconData twotoneViewListPrimary = IconifyIconData(IconData(
     0xf2f0,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-view-timeline`
-  static const IconifyIconData twotoneViewTimeline = IconifyIconData(IconData(
+  /// `twotone-view-list` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneViewListSecondary = IconifyIconData(IconData(
+    0xf2f0,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-view-module` — primary layer (full opacity)
+  static const IconifyIconData twotoneViewModulePrimary = IconifyIconData(IconData(
     0xf2f1,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-view-week`
-  static const IconifyIconData twotoneViewWeek = IconifyIconData(IconData(
+  /// `twotone-view-module` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneViewModuleSecondary = IconifyIconData(IconData(
+    0xf2f1,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-view-quilt` — primary layer (full opacity)
+  static const IconifyIconData twotoneViewQuiltPrimary = IconifyIconData(IconData(
     0xf2f2,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-vignette`
-  static const IconifyIconData twotoneVignette = IconifyIconData(IconData(
+  /// `twotone-view-quilt` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneViewQuiltSecondary = IconifyIconData(IconData(
+    0xf2f2,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-view-sidebar` — primary layer (full opacity)
+  static const IconifyIconData twotoneViewSidebarPrimary = IconifyIconData(IconData(
     0xf2f3,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-villa`
-  static const IconifyIconData twotoneVilla = IconifyIconData(IconData(
+  /// `twotone-view-sidebar` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneViewSidebarSecondary = IconifyIconData(IconData(
+    0xf2f3,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-view-stream` — primary layer (full opacity)
+  static const IconifyIconData twotoneViewStreamPrimary = IconifyIconData(IconData(
     0xf2f4,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-visibility`
-  static const IconifyIconData twotoneVisibility = IconifyIconData(IconData(
+  /// `twotone-view-stream` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneViewStreamSecondary = IconifyIconData(IconData(
+    0xf2f4,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-view-timeline` — primary layer (full opacity)
+  static const IconifyIconData twotoneViewTimelinePrimary = IconifyIconData(IconData(
     0xf2f5,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-visibility-off`
-  static const IconifyIconData twotoneVisibilityOff = IconifyIconData(IconData(
+  /// `twotone-view-timeline` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneViewTimelineSecondary = IconifyIconData(IconData(
+    0xf2f5,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-view-week` — primary layer (full opacity)
+  static const IconifyIconData twotoneViewWeekPrimary = IconifyIconData(IconData(
     0xf2f6,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-voice-chat`
-  static const IconifyIconData twotoneVoiceChat = IconifyIconData(IconData(
+  /// `twotone-view-week` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneViewWeekSecondary = IconifyIconData(IconData(
+    0xf2f6,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-vignette` — primary layer (full opacity)
+  static const IconifyIconData twotoneVignettePrimary = IconifyIconData(IconData(
     0xf2f7,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-voice-over-off`
-  static const IconifyIconData twotoneVoiceOverOff = IconifyIconData(IconData(
+  /// `twotone-vignette` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVignetteSecondary = IconifyIconData(IconData(
+    0xf2f7,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-villa` — primary layer (full opacity)
+  static const IconifyIconData twotoneVillaPrimary = IconifyIconData(IconData(
     0xf2f8,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-voicemail`
-  static const IconifyIconData twotoneVoicemail = IconifyIconData(IconData(
+  /// `twotone-villa` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVillaSecondary = IconifyIconData(IconData(
+    0xf2f8,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-visibility` — primary layer (full opacity)
+  static const IconifyIconData twotoneVisibilityPrimary = IconifyIconData(IconData(
     0xf2f9,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-volcano`
-  static const IconifyIconData twotoneVolcano = IconifyIconData(IconData(
+  /// `twotone-visibility` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVisibilitySecondary = IconifyIconData(IconData(
+    0xf2f9,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-visibility-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneVisibilityOffPrimary = IconifyIconData(IconData(
     0xf2fa,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-volume-down`
-  static const IconifyIconData twotoneVolumeDown = IconifyIconData(IconData(
+  /// `twotone-visibility-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVisibilityOffSecondary = IconifyIconData(IconData(
+    0xf2fa,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-voice-chat` — primary layer (full opacity)
+  static const IconifyIconData twotoneVoiceChatPrimary = IconifyIconData(IconData(
     0xf2fb,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-volume-mute`
-  static const IconifyIconData twotoneVolumeMute = IconifyIconData(IconData(
+  /// `twotone-voice-chat` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVoiceChatSecondary = IconifyIconData(IconData(
+    0xf2fb,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-voice-over-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneVoiceOverOffPrimary = IconifyIconData(IconData(
     0xf2fc,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-volume-off`
-  static const IconifyIconData twotoneVolumeOff = IconifyIconData(IconData(
+  /// `twotone-voice-over-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVoiceOverOffSecondary = IconifyIconData(IconData(
+    0xf2fc,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-voicemail`
+  static const IconifyIconData twotoneVoicemail = IconifyIconData(IconData(
     0xf2fd,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-volume-up`
-  static const IconifyIconData twotoneVolumeUp = IconifyIconData(IconData(
+  /// `twotone-volcano` — primary layer (full opacity)
+  static const IconifyIconData twotoneVolcanoPrimary = IconifyIconData(IconData(
     0xf2fe,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-volunteer-activism`
-  static const IconifyIconData twotoneVolunteerActivism = IconifyIconData(IconData(
+  /// `twotone-volcano` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVolcanoSecondary = IconifyIconData(IconData(
+    0xf2fe,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-volume-down` — primary layer (full opacity)
+  static const IconifyIconData twotoneVolumeDownPrimary = IconifyIconData(IconData(
     0xf2ff,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-vpn-key`
-  static const IconifyIconData twotoneVpnKey = IconifyIconData(IconData(
+  /// `twotone-volume-down` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVolumeDownSecondary = IconifyIconData(IconData(
+    0xf2ff,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-volume-mute` — primary layer (full opacity)
+  static const IconifyIconData twotoneVolumeMutePrimary = IconifyIconData(IconData(
     0xf300,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-vpn-key-off`
-  static const IconifyIconData twotoneVpnKeyOff = IconifyIconData(IconData(
+  /// `twotone-volume-mute` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVolumeMuteSecondary = IconifyIconData(IconData(
+    0xf300,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-volume-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneVolumeOffPrimary = IconifyIconData(IconData(
     0xf301,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-vpn-lock`
-  static const IconifyIconData twotoneVpnLock = IconifyIconData(IconData(
+  /// `twotone-volume-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVolumeOffSecondary = IconifyIconData(IconData(
+    0xf301,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-volume-up` — primary layer (full opacity)
+  static const IconifyIconData twotoneVolumeUpPrimary = IconifyIconData(IconData(
     0xf302,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-vrpano`
-  static const IconifyIconData twotoneVrpano = IconifyIconData(IconData(
+  /// `twotone-volume-up` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVolumeUpSecondary = IconifyIconData(IconData(
+    0xf302,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-volunteer-activism` — primary layer (full opacity)
+  static const IconifyIconData twotoneVolunteerActivismPrimary = IconifyIconData(IconData(
     0xf303,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-wallet`
-  static const IconifyIconData twotoneWallet = IconifyIconData(IconData(
+  /// `twotone-volunteer-activism` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVolunteerActivismSecondary = IconifyIconData(IconData(
+    0xf303,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-vpn-key` — primary layer (full opacity)
+  static const IconifyIconData twotoneVpnKeyPrimary = IconifyIconData(IconData(
     0xf304,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-vpn-key` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVpnKeySecondary = IconifyIconData(IconData(
+    0xf304,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-vpn-key-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneVpnKeyOffPrimary = IconifyIconData(IconData(
+    0xf305,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-vpn-key-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVpnKeyOffSecondary = IconifyIconData(IconData(
+    0xf305,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-vpn-lock` — primary layer (full opacity)
+  static const IconifyIconData twotoneVpnLockPrimary = IconifyIconData(IconData(
+    0xf306,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-vpn-lock` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVpnLockSecondary = IconifyIconData(IconData(
+    0xf306,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-vrpano` — primary layer (full opacity)
+  static const IconifyIconData twotoneVrpanoPrimary = IconifyIconData(IconData(
+    0xf307,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-vrpano` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneVrpanoSecondary = IconifyIconData(IconData(
+    0xf307,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-wallet` — primary layer (full opacity)
+  static const IconifyIconData twotoneWalletPrimary = IconifyIconData(IconData(
+    0xf308,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-wallet` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWalletSecondary = IconifyIconData(IconData(
+    0xf308,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-wallpaper`
   static const IconifyIconData twotoneWallpaper = IconifyIconData(IconData(
-    0xf305,
+    0xf309,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-warehouse`
   static const IconifyIconData twotoneWarehouse = IconifyIconData(IconData(
-    0xf306,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-warning`
-  static const IconifyIconData twotoneWarning = IconifyIconData(IconData(
-    0xf307,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-warning-amber`
-  static const IconifyIconData twotoneWarningAmber = IconifyIconData(IconData(
-    0xf308,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-wash`
-  static const IconifyIconData twotoneWash = IconifyIconData(IconData(
-    0xf309,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-watch`
-  static const IconifyIconData twotoneWatch = IconifyIconData(IconData(
     0xf30a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-watch-later`
-  static const IconifyIconData twotoneWatchLater = IconifyIconData(IconData(
+  /// `twotone-warning` — primary layer (full opacity)
+  static const IconifyIconData twotoneWarningPrimary = IconifyIconData(IconData(
     0xf30b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-watch-off`
-  static const IconifyIconData twotoneWatchOff = IconifyIconData(IconData(
+  /// `twotone-warning` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWarningSecondary = IconifyIconData(IconData(
+    0xf30b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-warning-amber`
+  static const IconifyIconData twotoneWarningAmber = IconifyIconData(IconData(
     0xf30c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-water`
-  static const IconifyIconData twotoneWater = IconifyIconData(IconData(
+  /// `twotone-wash` — primary layer (full opacity)
+  static const IconifyIconData twotoneWashPrimary = IconifyIconData(IconData(
     0xf30d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-water-damage`
-  static const IconifyIconData twotoneWaterDamage = IconifyIconData(IconData(
+  /// `twotone-wash` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWashSecondary = IconifyIconData(IconData(
+    0xf30d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-watch` — primary layer (full opacity)
+  static const IconifyIconData twotoneWatchPrimary = IconifyIconData(IconData(
     0xf30e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-water-drop`
-  static const IconifyIconData twotoneWaterDrop = IconifyIconData(IconData(
+  /// `twotone-watch` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWatchSecondary = IconifyIconData(IconData(
+    0xf30e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-watch-later` — primary layer (full opacity)
+  static const IconifyIconData twotoneWatchLaterPrimary = IconifyIconData(IconData(
     0xf30f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-watch-later` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWatchLaterSecondary = IconifyIconData(IconData(
+    0xf30f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-watch-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneWatchOffPrimary = IconifyIconData(IconData(
+    0xf310,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-watch-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWatchOffSecondary = IconifyIconData(IconData(
+    0xf310,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-water`
+  static const IconifyIconData twotoneWater = IconifyIconData(IconData(
+    0xf311,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-water-damage` — primary layer (full opacity)
+  static const IconifyIconData twotoneWaterDamagePrimary = IconifyIconData(IconData(
+    0xf312,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-water-damage` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWaterDamageSecondary = IconifyIconData(IconData(
+    0xf312,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-water-drop` — primary layer (full opacity)
+  static const IconifyIconData twotoneWaterDropPrimary = IconifyIconData(IconData(
+    0xf313,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-water-drop` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWaterDropSecondary = IconifyIconData(IconData(
+    0xf313,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-waterfall-chart`
   static const IconifyIconData twotoneWaterfallChart = IconifyIconData(IconData(
-    0xf310,
+    0xf314,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-waves`
   static const IconifyIconData twotoneWaves = IconifyIconData(IconData(
-    0xf311,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-waving-hand`
-  static const IconifyIconData twotoneWavingHand = IconifyIconData(IconData(
-    0xf312,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-wb-auto`
-  static const IconifyIconData twotoneWbAuto = IconifyIconData(IconData(
-    0xf313,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-wb-cloudy`
-  static const IconifyIconData twotoneWbCloudy = IconifyIconData(IconData(
-    0xf314,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-wb-incandescent`
-  static const IconifyIconData twotoneWbIncandescent = IconifyIconData(IconData(
     0xf315,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-wb-iridescent`
-  static const IconifyIconData twotoneWbIridescent = IconifyIconData(IconData(
+  /// `twotone-waving-hand` — primary layer (full opacity)
+  static const IconifyIconData twotoneWavingHandPrimary = IconifyIconData(IconData(
     0xf316,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-wb-shade`
-  static const IconifyIconData twotoneWbShade = IconifyIconData(IconData(
+  /// `twotone-waving-hand` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWavingHandSecondary = IconifyIconData(IconData(
+    0xf316,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-wb-auto` — primary layer (full opacity)
+  static const IconifyIconData twotoneWbAutoPrimary = IconifyIconData(IconData(
     0xf317,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-wb-sunny`
-  static const IconifyIconData twotoneWbSunny = IconifyIconData(IconData(
+  /// `twotone-wb-auto` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWbAutoSecondary = IconifyIconData(IconData(
+    0xf317,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-wb-cloudy` — primary layer (full opacity)
+  static const IconifyIconData twotoneWbCloudyPrimary = IconifyIconData(IconData(
     0xf318,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-wb-cloudy` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWbCloudySecondary = IconifyIconData(IconData(
+    0xf318,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-wb-incandescent` — primary layer (full opacity)
+  static const IconifyIconData twotoneWbIncandescentPrimary = IconifyIconData(IconData(
+    0xf319,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-wb-incandescent` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWbIncandescentSecondary = IconifyIconData(IconData(
+    0xf319,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-wb-iridescent` — primary layer (full opacity)
+  static const IconifyIconData twotoneWbIridescentPrimary = IconifyIconData(IconData(
+    0xf31a,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-wb-iridescent` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWbIridescentSecondary = IconifyIconData(IconData(
+    0xf31a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-wb-shade`
+  static const IconifyIconData twotoneWbShade = IconifyIconData(IconData(
+    0xf31b,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-wb-sunny` — primary layer (full opacity)
+  static const IconifyIconData twotoneWbSunnyPrimary = IconifyIconData(IconData(
+    0xf31c,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-wb-sunny` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWbSunnySecondary = IconifyIconData(IconData(
+    0xf31c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-wb-twilight`
   static const IconifyIconData twotoneWbTwilight = IconifyIconData(IconData(
-    0xf319,
+    0xf31d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-wc`
   static const IconifyIconData twotoneWc = IconifyIconData(IconData(
-    0xf31a,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-web`
-  static const IconifyIconData twotoneWeb = IconifyIconData(IconData(
-    0xf31b,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-web-asset`
-  static const IconifyIconData twotoneWebAsset = IconifyIconData(IconData(
-    0xf31c,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-web-asset-off`
-  static const IconifyIconData twotoneWebAssetOff = IconifyIconData(IconData(
-    0xf31d,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-web-stories`
-  static const IconifyIconData twotoneWebStories = IconifyIconData(IconData(
     0xf31e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-web` — primary layer (full opacity)
+  static const IconifyIconData twotoneWebPrimary = IconifyIconData(IconData(
+    0xf31f,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-web` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWebSecondary = IconifyIconData(IconData(
+    0xf31f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-web-asset` — primary layer (full opacity)
+  static const IconifyIconData twotoneWebAssetPrimary = IconifyIconData(IconData(
+    0xf320,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-web-asset` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWebAssetSecondary = IconifyIconData(IconData(
+    0xf320,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-web-asset-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneWebAssetOffPrimary = IconifyIconData(IconData(
+    0xf321,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-web-asset-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWebAssetOffSecondary = IconifyIconData(IconData(
+    0xf321,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-web-stories` — primary layer (full opacity)
+  static const IconifyIconData twotoneWebStoriesPrimary = IconifyIconData(IconData(
+    0xf322,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-web-stories` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWebStoriesSecondary = IconifyIconData(IconData(
+    0xf322,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-webhook`
   static const IconifyIconData twotoneWebhook = IconifyIconData(IconData(
-    0xf31f,
+    0xf323,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-wechat`
   static const IconifyIconData twotoneWechat = IconifyIconData(IconData(
-    0xf320,
+    0xf324,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-weekend`
-  static const IconifyIconData twotoneWeekend = IconifyIconData(IconData(
-    0xf321,
+  /// `twotone-weekend` — primary layer (full opacity)
+  static const IconifyIconData twotoneWeekendPrimary = IconifyIconData(IconData(
+    0xf325,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-weekend` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWeekendSecondary = IconifyIconData(IconData(
+    0xf325,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-west`
   static const IconifyIconData twotoneWest = IconifyIconData(IconData(
-    0xf322,
+    0xf326,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-whatsapp`
   static const IconifyIconData twotoneWhatsapp = IconifyIconData(IconData(
-    0xf323,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-whatshot`
-  static const IconifyIconData twotoneWhatshot = IconifyIconData(IconData(
-    0xf324,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-wheelchair-pickup`
-  static const IconifyIconData twotoneWheelchairPickup = IconifyIconData(IconData(
-    0xf325,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-where-to-vote`
-  static const IconifyIconData twotoneWhereToVote = IconifyIconData(IconData(
-    0xf326,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-widgets`
-  static const IconifyIconData twotoneWidgets = IconifyIconData(IconData(
     0xf327,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-width-full`
-  static const IconifyIconData twotoneWidthFull = IconifyIconData(IconData(
+  /// `twotone-whatshot` — primary layer (full opacity)
+  static const IconifyIconData twotoneWhatshotPrimary = IconifyIconData(IconData(
     0xf328,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-width-normal`
-  static const IconifyIconData twotoneWidthNormal = IconifyIconData(IconData(
+  /// `twotone-whatshot` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWhatshotSecondary = IconifyIconData(IconData(
+    0xf328,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-wheelchair-pickup`
+  static const IconifyIconData twotoneWheelchairPickup = IconifyIconData(IconData(
     0xf329,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-width-wide`
-  static const IconifyIconData twotoneWidthWide = IconifyIconData(IconData(
+  /// `twotone-where-to-vote` — primary layer (full opacity)
+  static const IconifyIconData twotoneWhereToVotePrimary = IconifyIconData(IconData(
     0xf32a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-where-to-vote` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWhereToVoteSecondary = IconifyIconData(IconData(
+    0xf32a,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-widgets` — primary layer (full opacity)
+  static const IconifyIconData twotoneWidgetsPrimary = IconifyIconData(IconData(
+    0xf32b,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-widgets` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWidgetsSecondary = IconifyIconData(IconData(
+    0xf32b,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-width-full` — primary layer (full opacity)
+  static const IconifyIconData twotoneWidthFullPrimary = IconifyIconData(IconData(
+    0xf32c,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-width-full` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWidthFullSecondary = IconifyIconData(IconData(
+    0xf32c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-width-normal` — primary layer (full opacity)
+  static const IconifyIconData twotoneWidthNormalPrimary = IconifyIconData(IconData(
+    0xf32d,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-width-normal` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWidthNormalSecondary = IconifyIconData(IconData(
+    0xf32d,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-width-wide` — primary layer (full opacity)
+  static const IconifyIconData twotoneWidthWidePrimary = IconifyIconData(IconData(
+    0xf32e,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-width-wide` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWidthWideSecondary = IconifyIconData(IconData(
+    0xf32e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-wifi`
   static const IconifyIconData twotoneWifi = IconifyIconData(IconData(
-    0xf32b,
+    0xf32f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-wifi-1-bar`
   static const IconifyIconData twotoneWifi1Bar = IconifyIconData(IconData(
-    0xf32c,
+    0xf330,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-wifi-2-bar`
   static const IconifyIconData twotoneWifi2Bar = IconifyIconData(IconData(
-    0xf32d,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-wifi-calling`
-  static const IconifyIconData twotoneWifiCalling = IconifyIconData(IconData(
-    0xf32e,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-wifi-calling-3`
-  static const IconifyIconData twotoneWifiCalling3 = IconifyIconData(IconData(
-    0xf32f,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-wifi-channel`
-  static const IconifyIconData twotoneWifiChannel = IconifyIconData(IconData(
-    0xf330,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-wifi-find`
-  static const IconifyIconData twotoneWifiFind = IconifyIconData(IconData(
     0xf331,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-wifi-calling` — primary layer (full opacity)
+  static const IconifyIconData twotoneWifiCallingPrimary = IconifyIconData(IconData(
+    0xf332,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-wifi-calling` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWifiCallingSecondary = IconifyIconData(IconData(
+    0xf332,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-wifi-calling-3` — primary layer (full opacity)
+  static const IconifyIconData twotoneWifiCalling3Primary = IconifyIconData(IconData(
+    0xf333,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-wifi-calling-3` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWifiCalling3Secondary = IconifyIconData(IconData(
+    0xf333,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-wifi-channel` — primary layer (full opacity)
+  static const IconifyIconData twotoneWifiChannelPrimary = IconifyIconData(IconData(
+    0xf334,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-wifi-channel` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWifiChannelSecondary = IconifyIconData(IconData(
+    0xf334,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-wifi-find` — primary layer (full opacity)
+  static const IconifyIconData twotoneWifiFindPrimary = IconifyIconData(IconData(
+    0xf335,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-wifi-find` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWifiFindSecondary = IconifyIconData(IconData(
+    0xf335,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-wifi-lock`
   static const IconifyIconData twotoneWifiLock = IconifyIconData(IconData(
-    0xf332,
+    0xf336,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-wifi-off`
   static const IconifyIconData twotoneWifiOff = IconifyIconData(IconData(
-    0xf333,
+    0xf337,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-wifi-password`
   static const IconifyIconData twotoneWifiPassword = IconifyIconData(IconData(
-    0xf334,
+    0xf338,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-wifi-protected-setup`
   static const IconifyIconData twotoneWifiProtectedSetup = IconifyIconData(IconData(
-    0xf335,
+    0xf339,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-wifi-tethering`
   static const IconifyIconData twotoneWifiTethering = IconifyIconData(IconData(
-    0xf336,
+    0xf33a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-wifi-tethering-error`
   static const IconifyIconData twotoneWifiTetheringError = IconifyIconData(IconData(
-    0xf337,
+    0xf33b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-wifi-tethering-error-rounded`
   static const IconifyIconData twotoneWifiTetheringErrorRounded = IconifyIconData(IconData(
-    0xf338,
+    0xf33c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-wifi-tethering-off`
   static const IconifyIconData twotoneWifiTetheringOff = IconifyIconData(IconData(
-    0xf339,
+    0xf33d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-wind-power`
-  static const IconifyIconData twotoneWindPower = IconifyIconData(IconData(
-    0xf33a,
+  /// `twotone-wind-power` — primary layer (full opacity)
+  static const IconifyIconData twotoneWindPowerPrimary = IconifyIconData(IconData(
+    0xf33e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-window`
-  static const IconifyIconData twotoneWindow = IconifyIconData(IconData(
-    0xf33b,
+  /// `twotone-wind-power` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWindPowerSecondary = IconifyIconData(IconData(
+    0xf33e,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-window` — primary layer (full opacity)
+  static const IconifyIconData twotoneWindowPrimary = IconifyIconData(IconData(
+    0xf33f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-wine-bar`
-  static const IconifyIconData twotoneWineBar = IconifyIconData(IconData(
-    0xf33c,
+  /// `twotone-window` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWindowSecondary = IconifyIconData(IconData(
+    0xf33f,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-wine-bar` — primary layer (full opacity)
+  static const IconifyIconData twotoneWineBarPrimary = IconifyIconData(IconData(
+    0xf340,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-wine-bar` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWineBarSecondary = IconifyIconData(IconData(
+    0xf340,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-woman`
   static const IconifyIconData twotoneWoman = IconifyIconData(IconData(
-    0xf33d,
+    0xf341,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-woman-2`
   static const IconifyIconData twotoneWoman2 = IconifyIconData(IconData(
-    0xf33e,
+    0xf342,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-wordpress`
   static const IconifyIconData twotoneWordpress = IconifyIconData(IconData(
-    0xf33f,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-work`
-  static const IconifyIconData twotoneWork = IconifyIconData(IconData(
-    0xf340,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-work-history`
-  static const IconifyIconData twotoneWorkHistory = IconifyIconData(IconData(
-    0xf341,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-work-off`
-  static const IconifyIconData twotoneWorkOff = IconifyIconData(IconData(
-    0xf342,
-    fontFamily: 'Ic_2',
-    fontPackage: 'iconifyx_ic',
-  ));
-
-  /// `twotone-work-outline`
-  static const IconifyIconData twotoneWorkOutline = IconifyIconData(IconData(
     0xf343,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-workspace-premium`
-  static const IconifyIconData twotoneWorkspacePremium = IconifyIconData(IconData(
+  /// `twotone-work` — primary layer (full opacity)
+  static const IconifyIconData twotoneWorkPrimary = IconifyIconData(IconData(
     0xf344,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-workspaces`
-  static const IconifyIconData twotoneWorkspaces = IconifyIconData(IconData(
+  /// `twotone-work` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWorkSecondary = IconifyIconData(IconData(
+    0xf344,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-work-history` — primary layer (full opacity)
+  static const IconifyIconData twotoneWorkHistoryPrimary = IconifyIconData(IconData(
     0xf345,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
+  /// `twotone-work-history` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWorkHistorySecondary = IconifyIconData(IconData(
+    0xf345,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-work-off` — primary layer (full opacity)
+  static const IconifyIconData twotoneWorkOffPrimary = IconifyIconData(IconData(
+    0xf346,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-work-off` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWorkOffSecondary = IconifyIconData(IconData(
+    0xf346,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-work-outline`
+  static const IconifyIconData twotoneWorkOutline = IconifyIconData(IconData(
+    0xf347,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-workspace-premium` — primary layer (full opacity)
+  static const IconifyIconData twotoneWorkspacePremiumPrimary = IconifyIconData(IconData(
+    0xf348,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-workspace-premium` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWorkspacePremiumSecondary = IconifyIconData(IconData(
+    0xf348,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-workspaces` — primary layer (full opacity)
+  static const IconifyIconData twotoneWorkspacesPrimary = IconifyIconData(IconData(
+    0xf349,
+    fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-workspaces` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWorkspacesSecondary = IconifyIconData(IconData(
+    0xf349,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
   /// `twotone-wrap-text`
   static const IconifyIconData twotoneWrapText = IconifyIconData(IconData(
-    0xf346,
+    0xf34a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-wrong-location`
   static const IconifyIconData twotoneWrongLocation = IconifyIconData(IconData(
-    0xf347,
+    0xf34b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-wysiwyg`
-  static const IconifyIconData twotoneWysiwyg = IconifyIconData(IconData(
-    0xf348,
+  /// `twotone-wysiwyg` — primary layer (full opacity)
+  static const IconifyIconData twotoneWysiwygPrimary = IconifyIconData(IconData(
+    0xf34c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
-  /// `twotone-yard`
-  static const IconifyIconData twotoneYard = IconifyIconData(IconData(
-    0xf349,
+  /// `twotone-wysiwyg` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneWysiwygSecondary = IconifyIconData(IconData(
+    0xf34c,
+    fontFamily: 'Ic_2Secondary',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-yard` — primary layer (full opacity)
+  static const IconifyIconData twotoneYardPrimary = IconifyIconData(IconData(
+    0xf34d,
     fontFamily: 'Ic_2',
+    fontPackage: 'iconifyx_ic',
+  ));
+
+  /// `twotone-yard` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData twotoneYardSecondary = IconifyIconData(IconData(
+    0xf34d,
+    fontFamily: 'Ic_2Secondary',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-youtube-searched-for`
   static const IconifyIconData twotoneYoutubeSearchedFor = IconifyIconData(IconData(
-    0xf34a,
+    0xf34e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-zoom-in`
   static const IconifyIconData twotoneZoomIn = IconifyIconData(IconData(
-    0xf34b,
+    0xf34f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-zoom-in-map`
   static const IconifyIconData twotoneZoomInMap = IconifyIconData(IconData(
-    0xf34c,
+    0xf350,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-zoom-out`
   static const IconifyIconData twotoneZoomOut = IconifyIconData(IconData(
-    0xf34d,
+    0xf351,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `twotone-zoom-out-map`
   static const IconifyIconData twotoneZoomOutMap = IconifyIconData(IconData(
-    0xf34e,
+    0xf352,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `unarchive`
   static const IconifyIconData unarchive = IconifyIconData(IconData(
-    0xf34f,
+    0xf353,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `undo`
   static const IconifyIconData undo = IconifyIconData(IconData(
-    0xf350,
+    0xf354,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `unfold-less`
   static const IconifyIconData unfoldLess = IconifyIconData(IconData(
-    0xf351,
+    0xf355,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `unfold-more`
   static const IconifyIconData unfoldMore = IconifyIconData(IconData(
-    0xf352,
+    0xf356,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `update`
   static const IconifyIconData update = IconifyIconData(IconData(
-    0xf353,
+    0xf357,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `usb`
   static const IconifyIconData usb = IconifyIconData(IconData(
-    0xf354,
+    0xf358,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `verified-user`
   static const IconifyIconData verifiedUser = IconifyIconData(IconData(
-    0xf355,
+    0xf359,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `vertical-align-bottom`
   static const IconifyIconData verticalAlignBottom = IconifyIconData(IconData(
-    0xf356,
+    0xf35a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `vertical-align-center`
   static const IconifyIconData verticalAlignCenter = IconifyIconData(IconData(
-    0xf357,
+    0xf35b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `vertical-align-top`
   static const IconifyIconData verticalAlignTop = IconifyIconData(IconData(
-    0xf358,
+    0xf35c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `vibration`
   static const IconifyIconData vibration = IconifyIconData(IconData(
-    0xf359,
+    0xf35d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `video-call`
   static const IconifyIconData videoCall = IconifyIconData(IconData(
-    0xf35a,
+    0xf35e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `video-label`
   static const IconifyIconData videoLabel = IconifyIconData(IconData(
-    0xf35b,
+    0xf35f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `video-library`
   static const IconifyIconData videoLibrary = IconifyIconData(IconData(
-    0xf35c,
+    0xf360,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `videocam`
   static const IconifyIconData videocam = IconifyIconData(IconData(
-    0xf35d,
+    0xf361,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `videocam-off`
   static const IconifyIconData videocamOff = IconifyIconData(IconData(
-    0xf35e,
+    0xf362,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `videogame-asset`
   static const IconifyIconData videogameAsset = IconifyIconData(IconData(
-    0xf35f,
+    0xf363,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `view-agenda`
   static const IconifyIconData viewAgenda = IconifyIconData(IconData(
-    0xf360,
+    0xf364,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `view-array`
   static const IconifyIconData viewArray = IconifyIconData(IconData(
-    0xf361,
+    0xf365,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `view-carousel`
   static const IconifyIconData viewCarousel = IconifyIconData(IconData(
-    0xf362,
+    0xf366,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `view-column`
   static const IconifyIconData viewColumn = IconifyIconData(IconData(
-    0xf363,
+    0xf367,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `view-comfy`
   static const IconifyIconData viewComfy = IconifyIconData(IconData(
-    0xf364,
+    0xf368,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `view-compact`
   static const IconifyIconData viewCompact = IconifyIconData(IconData(
-    0xf365,
+    0xf369,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `view-day`
   static const IconifyIconData viewDay = IconifyIconData(IconData(
-    0xf366,
+    0xf36a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `view-headline`
   static const IconifyIconData viewHeadline = IconifyIconData(IconData(
-    0xf367,
+    0xf36b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `view-list`
   static const IconifyIconData viewList = IconifyIconData(IconData(
-    0xf368,
+    0xf36c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `view-module`
   static const IconifyIconData viewModule = IconifyIconData(IconData(
-    0xf369,
+    0xf36d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `view-quilt`
   static const IconifyIconData viewQuilt = IconifyIconData(IconData(
-    0xf36a,
+    0xf36e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `view-stream`
   static const IconifyIconData viewStream = IconifyIconData(IconData(
-    0xf36b,
+    0xf36f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `view-week`
   static const IconifyIconData viewWeek = IconifyIconData(IconData(
-    0xf36c,
+    0xf370,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `vignette`
   static const IconifyIconData vignette = IconifyIconData(IconData(
-    0xf36d,
+    0xf371,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `visibility`
   static const IconifyIconData visibility = IconifyIconData(IconData(
-    0xf36e,
+    0xf372,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `visibility-off`
   static const IconifyIconData visibilityOff = IconifyIconData(IconData(
-    0xf36f,
+    0xf373,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `voice-chat`
   static const IconifyIconData voiceChat = IconifyIconData(IconData(
-    0xf370,
+    0xf374,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `voicemail`
   static const IconifyIconData voicemail = IconifyIconData(IconData(
-    0xf371,
+    0xf375,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `volume-down`
   static const IconifyIconData volumeDown = IconifyIconData(IconData(
-    0xf372,
+    0xf376,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `volume-mute`
   static const IconifyIconData volumeMute = IconifyIconData(IconData(
-    0xf373,
+    0xf377,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `volume-off`
   static const IconifyIconData volumeOff = IconifyIconData(IconData(
-    0xf374,
+    0xf378,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `volume-up`
   static const IconifyIconData volumeUp = IconifyIconData(IconData(
-    0xf375,
+    0xf379,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `vpn-key`
   static const IconifyIconData vpnKey = IconifyIconData(IconData(
-    0xf376,
+    0xf37a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `vpn-lock`
   static const IconifyIconData vpnLock = IconifyIconData(IconData(
-    0xf377,
+    0xf37b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `wallpaper`
   static const IconifyIconData wallpaper = IconifyIconData(IconData(
-    0xf378,
+    0xf37c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `warning`
   static const IconifyIconData warning = IconifyIconData(IconData(
-    0xf379,
+    0xf37d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `watch`
   static const IconifyIconData watch = IconifyIconData(IconData(
-    0xf37a,
+    0xf37e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `watch-later`
   static const IconifyIconData watchLater = IconifyIconData(IconData(
-    0xf37b,
+    0xf37f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `wb-auto`
   static const IconifyIconData wbAuto = IconifyIconData(IconData(
-    0xf37c,
+    0xf380,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `wb-cloudy`
   static const IconifyIconData wbCloudy = IconifyIconData(IconData(
-    0xf37d,
+    0xf381,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `wb-incandescent`
   static const IconifyIconData wbIncandescent = IconifyIconData(IconData(
-    0xf37e,
+    0xf382,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `wb-iridescent`
   static const IconifyIconData wbIridescent = IconifyIconData(IconData(
-    0xf37f,
+    0xf383,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `wb-sunny`
   static const IconifyIconData wbSunny = IconifyIconData(IconData(
-    0xf380,
+    0xf384,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `wc`
   static const IconifyIconData wc = IconifyIconData(IconData(
-    0xf381,
+    0xf385,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `web`
   static const IconifyIconData web = IconifyIconData(IconData(
-    0xf382,
+    0xf386,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `web-asset`
   static const IconifyIconData webAsset = IconifyIconData(IconData(
-    0xf383,
+    0xf387,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `weekend`
   static const IconifyIconData weekend = IconifyIconData(IconData(
-    0xf384,
+    0xf388,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `whatshot`
   static const IconifyIconData whatshot = IconifyIconData(IconData(
-    0xf385,
+    0xf389,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `widgets`
   static const IconifyIconData widgets = IconifyIconData(IconData(
-    0xf386,
+    0xf38a,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `wifi`
   static const IconifyIconData wifi = IconifyIconData(IconData(
-    0xf387,
+    0xf38b,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `wifi-lock`
   static const IconifyIconData wifiLock = IconifyIconData(IconData(
-    0xf388,
+    0xf38c,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `wifi-tethering`
   static const IconifyIconData wifiTethering = IconifyIconData(IconData(
-    0xf389,
+    0xf38d,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `work`
   static const IconifyIconData work = IconifyIconData(IconData(
-    0xf38a,
+    0xf38e,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `wrap-text`
   static const IconifyIconData wrapText = IconifyIconData(IconData(
-    0xf38b,
+    0xf38f,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `youtube-searched-for`
   static const IconifyIconData youtubeSearchedFor = IconifyIconData(IconData(
-    0xf38c,
+    0xf390,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `zoom-in`
   static const IconifyIconData zoomIn = IconifyIconData(IconData(
-    0xf38d,
+    0xf391,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `zoom-out`
   static const IconifyIconData zoomOut = IconifyIconData(IconData(
-    0xf38e,
+    0xf392,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));
 
   /// `zoom-out-map`
   static const IconifyIconData zoomOutMap = IconifyIconData(IconData(
-    0xf38f,
+    0xf393,
     fontFamily: 'Ic_2',
     fontPackage: 'iconifyx_ic',
   ));

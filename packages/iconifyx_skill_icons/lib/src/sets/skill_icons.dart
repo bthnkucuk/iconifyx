@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: tandpfun
 /// License: MIT — https://github.com/tandpfun/skill-icons/blob/main/LICENSE
-/// Icons: 92
+/// Icons: 92 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -513,10 +513,17 @@ class SkillIconsIcons {
     fontPackage: 'iconifyx_skill_icons',
   ));
 
-  /// `solidity`
-  static const IconifyIconData solidity = IconifyIconData(IconData(
+  /// `solidity` — primary layer (full opacity)
+  static const IconifyIconData solidityPrimary = IconifyIconData(IconData(
     0xe047,
     fontFamily: 'SkillIcons',
+    fontPackage: 'iconifyx_skill_icons',
+  ));
+
+  /// `solidity` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData soliditySecondary = IconifyIconData(IconData(
+    0xe047,
+    fontFamily: 'SkillIconsSecondary',
     fontPackage: 'iconifyx_skill_icons',
   ));
 

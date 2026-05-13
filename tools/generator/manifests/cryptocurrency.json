@@ -23,6 +23,11 @@
       "family": "Cryptocurrency",
       "nextCodepoint": 57410,
       "iconCount": 66
+    },
+    {
+      "family": "CryptocurrencySecondary",
+      "nextCodepoint": 57410,
+      "iconCount": 1
     }
   ],
   "icons": {
@@ -219,7 +224,8 @@
     "mod": {
       "codepoint": 57382,
       "fontFamily": "Cryptocurrency",
-      "identifier": "mod"
+      "identifier": "mod",
+      "duotone": true
     },
     "mtl": {
       "codepoint": 57383,

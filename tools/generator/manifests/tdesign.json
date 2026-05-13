@@ -23,6 +23,11 @@
       "family": "Tdesign",
       "nextCodepoint": 59708,
       "iconCount": 2364
+    },
+    {
+      "family": "TdesignSecondary",
+      "nextCodepoint": 59708,
+      "iconCount": 1
     }
   ],
   "icons": {
@@ -8124,7 +8129,8 @@
     "order": {
       "codepoint": 58963,
       "fontFamily": "Tdesign",
-      "identifier": "order"
+      "identifier": "order",
+      "duotone": true
     },
     "order-adjustment-column": {
       "codepoint": 58964,

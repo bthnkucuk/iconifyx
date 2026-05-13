@@ -1,6 +1,6 @@
 name: iconifyx_qlementine_icons
 description: >-
-  Qlementine Icons icons from Iconify, packaged for Flutter (68 icons, MIT license).
+  Qlementine Icons icons from Iconify, packaged for Flutter (70 icons, MIT license).
 version: 0.1.0
 publish_to: 'none'
 
@@ -20,3 +20,6 @@ flutter:
     - family: QlementineIcons
       fonts:
         - asset: assets/fonts/QlementineIcons.ttf
+    - family: QlementineIconsSecondary
+      fonts:
+        - asset: assets/fonts/QlementineIconsSecondary.ttf

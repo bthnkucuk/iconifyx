@@ -16,13 +16,18 @@
       "spdx": "Apache-2.0",
       "url": "https://github.com/googlefonts/noto-emoji/blob/main/svg/LICENSE"
     },
-    "total": 565
+    "total": 568
   },
   "fonts": [
     {
       "family": "NotoV1",
-      "nextCodepoint": 57909,
-      "iconCount": 565
+      "nextCodepoint": 57912,
+      "iconCount": 568
+    },
+    {
+      "family": "NotoV1Secondary",
+      "nextCodepoint": 57912,
+      "iconCount": 4
     }
   ],
   "icons": {
@@ -2034,820 +2039,839 @@
     "raised-back-of-hand": {
       "codepoint": 57745,
       "fontFamily": "NotoV1",
-      "identifier": "raisedBackOfHand"
+      "identifier": "raisedBackOfHand",
+      "duotone": true
+    },
+    "raised-back-of-hand-light-skin-tone": {
+      "codepoint": 57746,
+      "fontFamily": "NotoV1",
+      "identifier": "raisedBackOfHandLightSkinTone",
+      "duotone": true
+    },
+    "raised-back-of-hand-medium-light-skin-tone": {
+      "codepoint": 57747,
+      "fontFamily": "NotoV1",
+      "identifier": "raisedBackOfHandMediumLightSkinTone",
+      "duotone": true
+    },
+    "raised-back-of-hand-medium-skin-tone": {
+      "codepoint": 57748,
+      "fontFamily": "NotoV1",
+      "identifier": "raisedBackOfHandMediumSkinTone",
+      "duotone": true
     },
     "raised-fist": {
-      "codepoint": 57746,
+      "codepoint": 57749,
       "fontFamily": "NotoV1",
       "identifier": "raisedFist"
     },
     "raised-hand": {
-      "codepoint": 57747,
+      "codepoint": 57750,
       "fontFamily": "NotoV1",
       "identifier": "raisedHand"
     },
     "raised-hand-with-fingers-splayed": {
-      "codepoint": 57748,
+      "codepoint": 57751,
       "fontFamily": "NotoV1",
       "identifier": "raisedHandWithFingersSplayed"
     },
     "rat": {
-      "codepoint": 57749,
+      "codepoint": 57752,
       "fontFamily": "NotoV1",
       "identifier": "rat"
     },
     "record-button": {
-      "codepoint": 57750,
+      "codepoint": 57753,
       "fontFamily": "NotoV1",
       "identifier": "recordButton"
     },
     "red-paper-lantern": {
-      "codepoint": 57751,
+      "codepoint": 57754,
       "fontFamily": "NotoV1",
       "identifier": "redPaperLantern"
     },
     "registered": {
-      "codepoint": 57752,
+      "codepoint": 57755,
       "fontFamily": "NotoV1",
       "identifier": "registered"
     },
     "relieved-face": {
-      "codepoint": 57753,
+      "codepoint": 57756,
       "fontFamily": "NotoV1",
       "identifier": "relievedFace"
     },
     "reminder-ribbon": {
-      "codepoint": 57754,
+      "codepoint": 57757,
       "fontFamily": "NotoV1",
       "identifier": "reminderRibbon"
     },
     "repeat-button": {
-      "codepoint": 57755,
+      "codepoint": 57758,
       "fontFamily": "NotoV1",
       "identifier": "repeatButton"
     },
     "repeat-single-button": {
-      "codepoint": 57756,
+      "codepoint": 57759,
       "fontFamily": "NotoV1",
       "identifier": "repeatSingleButton"
     },
     "restroom": {
-      "codepoint": 57757,
+      "codepoint": 57760,
       "fontFamily": "NotoV1",
       "identifier": "restroom"
     },
     "reverse-button": {
-      "codepoint": 57758,
+      "codepoint": 57761,
       "fontFamily": "NotoV1",
       "identifier": "reverseButton"
     },
     "ribbon": {
-      "codepoint": 57759,
+      "codepoint": 57762,
       "fontFamily": "NotoV1",
       "identifier": "ribbon"
     },
     "right-anger-bubble": {
-      "codepoint": 57760,
+      "codepoint": 57763,
       "fontFamily": "NotoV1",
       "identifier": "rightAngerBubble"
     },
     "right-arrow": {
-      "codepoint": 57761,
+      "codepoint": 57764,
       "fontFamily": "NotoV1",
       "identifier": "rightArrow"
     },
     "right-arrow-curving-down": {
-      "codepoint": 57762,
+      "codepoint": 57765,
       "fontFamily": "NotoV1",
       "identifier": "rightArrowCurvingDown"
     },
     "right-arrow-curving-left": {
-      "codepoint": 57763,
+      "codepoint": 57766,
       "fontFamily": "NotoV1",
       "identifier": "rightArrowCurvingLeft"
     },
     "right-arrow-curving-up": {
-      "codepoint": 57764,
+      "codepoint": 57767,
       "fontFamily": "NotoV1",
       "identifier": "rightArrowCurvingUp"
     },
     "right-facing-fist": {
-      "codepoint": 57765,
+      "codepoint": 57768,
       "fontFamily": "NotoV1",
       "identifier": "rightFacingFist"
     },
     "roller-coaster": {
-      "codepoint": 57766,
+      "codepoint": 57769,
       "fontFamily": "NotoV1",
       "identifier": "rollerCoaster"
     },
     "rolling-on-the-floor-laughing": {
-      "codepoint": 57767,
+      "codepoint": 57770,
       "fontFamily": "NotoV1",
       "identifier": "rollingOnTheFloorLaughing"
     },
     "rooster": {
-      "codepoint": 57768,
+      "codepoint": 57771,
       "fontFamily": "NotoV1",
       "identifier": "rooster"
     },
     "rosette": {
-      "codepoint": 57769,
+      "codepoint": 57772,
       "fontFamily": "NotoV1",
       "identifier": "rosette"
     },
     "round-pushpin": {
-      "codepoint": 57770,
+      "codepoint": 57773,
       "fontFamily": "NotoV1",
       "identifier": "roundPushpin"
     },
     "sad-but-relieved-face": {
-      "codepoint": 57771,
+      "codepoint": 57774,
       "fontFamily": "NotoV1",
       "identifier": "sadButRelievedFace"
     },
     "sagittarius": {
-      "codepoint": 57772,
+      "codepoint": 57775,
       "fontFamily": "NotoV1",
       "identifier": "sagittarius"
     },
     "sailboat": {
-      "codepoint": 57773,
+      "codepoint": 57776,
       "fontFamily": "NotoV1",
       "identifier": "sailboat"
     },
     "sake": {
-      "codepoint": 57774,
+      "codepoint": 57777,
       "fontFamily": "NotoV1",
       "identifier": "sake"
     },
     "scorpio": {
-      "codepoint": 57775,
+      "codepoint": 57778,
       "fontFamily": "NotoV1",
       "identifier": "scorpio"
     },
     "scorpius": {
-      "codepoint": 57776,
+      "codepoint": 57779,
       "fontFamily": "NotoV1",
       "identifier": "scorpius"
     },
     "seven-oclock": {
-      "codepoint": 57777,
+      "codepoint": 57780,
       "fontFamily": "NotoV1",
       "identifier": "sevenOclock"
     },
     "seven-thirty": {
-      "codepoint": 57778,
+      "codepoint": 57781,
       "fontFamily": "NotoV1",
       "identifier": "sevenThirty"
     },
     "shield": {
-      "codepoint": 57779,
+      "codepoint": 57782,
       "fontFamily": "NotoV1",
       "identifier": "shield"
     },
     "ship": {
-      "codepoint": 57780,
+      "codepoint": 57783,
       "fontFamily": "NotoV1",
       "identifier": "ship"
     },
     "shortcake": {
-      "codepoint": 57781,
+      "codepoint": 57784,
       "fontFamily": "NotoV1",
       "identifier": "shortcake"
     },
     "shuffle-tracks-button": {
-      "codepoint": 57782,
+      "codepoint": 57785,
       "fontFamily": "NotoV1",
       "identifier": "shuffleTracksButton"
     },
     "sign-of-the-horns": {
-      "codepoint": 57783,
+      "codepoint": 57786,
       "fontFamily": "NotoV1",
       "identifier": "signOfTheHorns"
     },
     "six-oclock": {
-      "codepoint": 57784,
+      "codepoint": 57787,
       "fontFamily": "NotoV1",
       "identifier": "sixOclock"
     },
     "six-thirty": {
-      "codepoint": 57785,
+      "codepoint": 57788,
       "fontFamily": "NotoV1",
       "identifier": "sixThirty"
     },
     "skull": {
-      "codepoint": 57786,
+      "codepoint": 57789,
       "fontFamily": "NotoV1",
       "identifier": "skull"
     },
     "sleepy-face": {
-      "codepoint": 57787,
+      "codepoint": 57790,
       "fontFamily": "NotoV1",
       "identifier": "sleepyFace"
     },
     "slightly-frowning-face": {
-      "codepoint": 57788,
+      "codepoint": 57791,
       "fontFamily": "NotoV1",
       "identifier": "slightlyFrowningFace"
     },
     "slightly-smiling-face": {
-      "codepoint": 57789,
+      "codepoint": 57792,
       "fontFamily": "NotoV1",
       "identifier": "slightlySmilingFace"
     },
     "slot-machine": {
-      "codepoint": 57790,
+      "codepoint": 57793,
       "fontFamily": "NotoV1",
       "identifier": "slotMachine"
     },
     "small-blue-diamond": {
-      "codepoint": 57791,
+      "codepoint": 57794,
       "fontFamily": "NotoV1",
       "identifier": "smallBlueDiamond"
     },
     "smiling-face": {
-      "codepoint": 57792,
+      "codepoint": 57795,
       "fontFamily": "NotoV1",
       "identifier": "smilingFace"
     },
     "smiling-face-with-halo": {
-      "codepoint": 57793,
+      "codepoint": 57796,
       "fontFamily": "NotoV1",
       "identifier": "smilingFaceWithHalo"
     },
     "smiling-face-with-open-mouth": {
-      "codepoint": 57794,
+      "codepoint": 57797,
       "fontFamily": "NotoV1",
       "identifier": "smilingFaceWithOpenMouth"
     },
     "smiling-face-with-open-mouth-and-cold-sweat": {
-      "codepoint": 57795,
+      "codepoint": 57798,
       "fontFamily": "NotoV1",
       "identifier": "smilingFaceWithOpenMouthAndColdSweat"
     },
     "smiling-face-with-sunglasses": {
-      "codepoint": 57796,
+      "codepoint": 57799,
       "fontFamily": "NotoV1",
       "identifier": "smilingFaceWithSunglasses"
     },
     "smirking-face": {
-      "codepoint": 57797,
+      "codepoint": 57800,
       "fontFamily": "NotoV1",
       "identifier": "smirkingFace"
     },
     "snake": {
-      "codepoint": 57798,
+      "codepoint": 57801,
       "fontFamily": "NotoV1",
       "identifier": "snake"
     },
     "snowflake": {
-      "codepoint": 57799,
+      "codepoint": 57802,
       "fontFamily": "NotoV1",
       "identifier": "snowflake"
     },
     "snowman": {
-      "codepoint": 57800,
+      "codepoint": 57803,
       "fontFamily": "NotoV1",
       "identifier": "snowman"
     },
     "snowman-without-snow": {
-      "codepoint": 57801,
+      "codepoint": 57804,
       "fontFamily": "NotoV1",
       "identifier": "snowmanWithoutSnow"
     },
     "soccer-ball": {
-      "codepoint": 57802,
+      "codepoint": 57805,
       "fontFamily": "NotoV1",
       "identifier": "soccerBall"
     },
     "soon-arrow": {
-      "codepoint": 57803,
+      "codepoint": 57806,
       "fontFamily": "NotoV1",
       "identifier": "soonArrow"
     },
     "spade-suit": {
-      "codepoint": 57804,
+      "codepoint": 57807,
       "fontFamily": "NotoV1",
       "identifier": "spadeSuit"
     },
     "speaker-high-volume": {
-      "codepoint": 57805,
+      "codepoint": 57808,
       "fontFamily": "NotoV1",
       "identifier": "speakerHighVolume"
     },
     "speaker-low-volume": {
-      "codepoint": 57806,
+      "codepoint": 57809,
       "fontFamily": "NotoV1",
       "identifier": "speakerLowVolume"
     },
     "speaker-medium-volume": {
-      "codepoint": 57807,
+      "codepoint": 57810,
       "fontFamily": "NotoV1",
       "identifier": "speakerMediumVolume"
     },
     "speech-balloon": {
-      "codepoint": 57808,
+      "codepoint": 57811,
       "fontFamily": "NotoV1",
       "identifier": "speechBalloon"
     },
     "speedboat": {
-      "codepoint": 57809,
+      "codepoint": 57812,
       "fontFamily": "NotoV1",
       "identifier": "speedboat"
     },
     "spider-web": {
-      "codepoint": 57810,
+      "codepoint": 57813,
       "fontFamily": "NotoV1",
       "identifier": "spiderWeb"
     },
     "spiral-shell": {
-      "codepoint": 57811,
+      "codepoint": 57814,
       "fontFamily": "NotoV1",
       "identifier": "spiralShell"
     },
     "spoon": {
-      "codepoint": 57812,
+      "codepoint": 57815,
       "fontFamily": "NotoV1",
       "identifier": "spoon"
     },
     "spouting-whale": {
-      "codepoint": 57813,
+      "codepoint": 57816,
       "fontFamily": "NotoV1",
       "identifier": "spoutingWhale"
     },
     "squid": {
-      "codepoint": 57814,
+      "codepoint": 57817,
       "fontFamily": "NotoV1",
       "identifier": "squid"
     },
     "station": {
-      "codepoint": 57815,
+      "codepoint": 57818,
       "fontFamily": "NotoV1",
       "identifier": "station"
     },
     "statue-of-liberty": {
-      "codepoint": 57816,
+      "codepoint": 57819,
       "fontFamily": "NotoV1",
       "identifier": "statueOfLiberty"
     },
     "stop-button": {
-      "codepoint": 57817,
+      "codepoint": 57820,
       "fontFamily": "NotoV1",
       "identifier": "stopButton"
     },
     "straight-ruler": {
-      "codepoint": 57818,
+      "codepoint": 57821,
       "fontFamily": "NotoV1",
       "identifier": "straightRuler"
     },
     "sun": {
-      "codepoint": 57819,
+      "codepoint": 57822,
       "fontFamily": "NotoV1",
       "identifier": "sun"
     },
     "sun-behind-cloud": {
-      "codepoint": 57820,
+      "codepoint": 57823,
       "fontFamily": "NotoV1",
       "identifier": "sunBehindCloud"
     },
     "sun-behind-large-cloud": {
-      "codepoint": 57821,
+      "codepoint": 57824,
       "fontFamily": "NotoV1",
       "identifier": "sunBehindLargeCloud"
     },
     "sun-behind-rain-cloud": {
-      "codepoint": 57822,
+      "codepoint": 57825,
       "fontFamily": "NotoV1",
       "identifier": "sunBehindRainCloud"
     },
     "sun-behind-small-cloud": {
-      "codepoint": 57823,
+      "codepoint": 57826,
       "fontFamily": "NotoV1",
       "identifier": "sunBehindSmallCloud"
     },
     "sun-with-face": {
-      "codepoint": 57824,
+      "codepoint": 57827,
       "fontFamily": "NotoV1",
       "identifier": "sunWithFace"
     },
     "sunrise": {
-      "codepoint": 57825,
+      "codepoint": 57828,
       "fontFamily": "NotoV1",
       "identifier": "sunrise"
     },
     "sweat-droplets": {
-      "codepoint": 57826,
+      "codepoint": 57829,
       "fontFamily": "NotoV1",
       "identifier": "sweatDroplets"
     },
     "syringe": {
-      "codepoint": 57827,
+      "codepoint": 57830,
       "fontFamily": "NotoV1",
       "identifier": "syringe"
     },
     "taurus": {
-      "codepoint": 57828,
+      "codepoint": 57831,
       "fontFamily": "NotoV1",
       "identifier": "taurus"
     },
     "telephone": {
-      "codepoint": 57829,
+      "codepoint": 57832,
       "fontFamily": "NotoV1",
       "identifier": "telephone"
     },
     "telephone-receiver": {
-      "codepoint": 57830,
+      "codepoint": 57833,
       "fontFamily": "NotoV1",
       "identifier": "telephoneReceiver"
     },
     "telescope": {
-      "codepoint": 57831,
+      "codepoint": 57834,
       "fontFamily": "NotoV1",
       "identifier": "telescope"
     },
     "television": {
-      "codepoint": 57832,
+      "codepoint": 57835,
       "fontFamily": "NotoV1",
       "identifier": "television"
     },
     "ten-oclock": {
-      "codepoint": 57833,
+      "codepoint": 57836,
       "fontFamily": "NotoV1",
       "identifier": "tenOclock"
     },
     "ten-thirty": {
-      "codepoint": 57834,
+      "codepoint": 57837,
       "fontFamily": "NotoV1",
       "identifier": "tenThirty"
     },
     "tennis": {
-      "codepoint": 57835,
+      "codepoint": 57838,
       "fontFamily": "NotoV1",
       "identifier": "tennis"
     },
     "thermometer": {
-      "codepoint": 57836,
+      "codepoint": 57839,
       "fontFamily": "NotoV1",
       "identifier": "thermometer"
     },
     "thinking-face": {
-      "codepoint": 57837,
+      "codepoint": 57840,
       "fontFamily": "NotoV1",
       "identifier": "thinkingFace"
     },
     "thought-balloon": {
-      "codepoint": 57838,
+      "codepoint": 57841,
       "fontFamily": "NotoV1",
       "identifier": "thoughtBalloon"
     },
     "three-oclock": {
-      "codepoint": 57839,
+      "codepoint": 57842,
       "fontFamily": "NotoV1",
       "identifier": "threeOclock"
     },
     "three-thirty": {
-      "codepoint": 57840,
+      "codepoint": 57843,
       "fontFamily": "NotoV1",
       "identifier": "threeThirty"
     },
     "thumbs-down": {
-      "codepoint": 57841,
+      "codepoint": 57844,
       "fontFamily": "NotoV1",
       "identifier": "thumbsDown"
     },
     "thumbs-up": {
-      "codepoint": 57842,
+      "codepoint": 57845,
       "fontFamily": "NotoV1",
       "identifier": "thumbsUp"
     },
     "ticket": {
-      "codepoint": 57843,
+      "codepoint": 57846,
       "fontFamily": "NotoV1",
       "identifier": "ticket"
     },
     "tiger": {
-      "codepoint": 57844,
+      "codepoint": 57847,
       "fontFamily": "NotoV1",
       "identifier": "tiger"
     },
     "tiger-face": {
-      "codepoint": 57845,
+      "codepoint": 57848,
       "fontFamily": "NotoV1",
       "identifier": "tigerFace"
     },
     "tired-face": {
-      "codepoint": 57846,
+      "codepoint": 57849,
       "fontFamily": "NotoV1",
       "identifier": "tiredFace"
     },
     "toilet": {
-      "codepoint": 57847,
+      "codepoint": 57850,
       "fontFamily": "NotoV1",
       "identifier": "toilet"
     },
     "top-arrow": {
-      "codepoint": 57848,
+      "codepoint": 57851,
       "fontFamily": "NotoV1",
       "identifier": "topArrow"
     },
     "tornado": {
-      "codepoint": 57849,
+      "codepoint": 57852,
       "fontFamily": "NotoV1",
       "identifier": "tornado"
     },
     "trackball": {
-      "codepoint": 57850,
+      "codepoint": 57853,
       "fontFamily": "NotoV1",
       "identifier": "trackball"
     },
     "tractor": {
-      "codepoint": 57851,
+      "codepoint": 57854,
       "fontFamily": "NotoV1",
       "identifier": "tractor"
     },
     "trade-mark": {
-      "codepoint": 57852,
+      "codepoint": 57855,
       "fontFamily": "NotoV1",
       "identifier": "tradeMark"
     },
     "train": {
-      "codepoint": 57853,
+      "codepoint": 57856,
       "fontFamily": "NotoV1",
       "identifier": "train"
     },
     "triangular-flag": {
-      "codepoint": 57854,
+      "codepoint": 57857,
       "fontFamily": "NotoV1",
       "identifier": "triangularFlag"
     },
     "triangular-ruler": {
-      "codepoint": 57855,
+      "codepoint": 57858,
       "fontFamily": "NotoV1",
       "identifier": "triangularRuler"
     },
     "trolleybus": {
-      "codepoint": 57856,
+      "codepoint": 57859,
       "fontFamily": "NotoV1",
       "identifier": "trolleybus"
     },
     "twelve-oclock": {
-      "codepoint": 57857,
+      "codepoint": 57860,
       "fontFamily": "NotoV1",
       "identifier": "twelveOclock"
     },
     "twelve-thirty": {
-      "codepoint": 57858,
+      "codepoint": 57861,
       "fontFamily": "NotoV1",
       "identifier": "twelveThirty"
     },
     "two-oclock": {
-      "codepoint": 57859,
+      "codepoint": 57862,
       "fontFamily": "NotoV1",
       "identifier": "twoOclock"
     },
     "two-thirty": {
-      "codepoint": 57860,
+      "codepoint": 57863,
       "fontFamily": "NotoV1",
       "identifier": "twoThirty"
     },
     "umbrella": {
-      "codepoint": 57861,
+      "codepoint": 57864,
       "fontFamily": "NotoV1",
       "identifier": "umbrella"
     },
     "umbrella-with-rain-drops": {
-      "codepoint": 57862,
+      "codepoint": 57865,
       "fontFamily": "NotoV1",
       "identifier": "umbrellaWithRainDrops"
     },
     "unamused-face": {
-      "codepoint": 57863,
+      "codepoint": 57866,
       "fontFamily": "NotoV1",
       "identifier": "unamusedFace"
     },
     "unknown-flag": {
-      "codepoint": 57864,
+      "codepoint": 57867,
       "fontFamily": "NotoV1",
       "identifier": "unknownFlag"
     },
     "unlocked": {
-      "codepoint": 57865,
+      "codepoint": 57868,
       "fontFamily": "NotoV1",
       "identifier": "unlocked"
     },
     "up-arrow": {
-      "codepoint": 57866,
+      "codepoint": 57869,
       "fontFamily": "NotoV1",
       "identifier": "upArrow"
     },
     "up-down-arrow": {
-      "codepoint": 57867,
+      "codepoint": 57870,
       "fontFamily": "NotoV1",
       "identifier": "upDownArrow"
     },
     "up-exclamation-button": {
-      "codepoint": 57868,
+      "codepoint": 57871,
       "fontFamily": "NotoV1",
       "identifier": "upExclamationButton"
     },
     "up-left-arrow": {
-      "codepoint": 57869,
+      "codepoint": 57872,
       "fontFamily": "NotoV1",
       "identifier": "upLeftArrow"
     },
     "up-right-arrow": {
-      "codepoint": 57870,
+      "codepoint": 57873,
       "fontFamily": "NotoV1",
       "identifier": "upRightArrow"
     },
     "up-text-button": {
-      "codepoint": 57871,
+      "codepoint": 57874,
       "fontFamily": "NotoV1",
       "identifier": "upTextButton"
     },
     "upside-down-face": {
-      "codepoint": 57872,
+      "codepoint": 57875,
       "fontFamily": "NotoV1",
       "identifier": "upsideDownFace"
     },
     "video-camera": {
-      "codepoint": 57873,
+      "codepoint": 57876,
       "fontFamily": "NotoV1",
       "identifier": "videoCamera"
     },
     "videocassette": {
-      "codepoint": 57874,
+      "codepoint": 57877,
       "fontFamily": "NotoV1",
       "identifier": "videocassette"
     },
     "violin": {
-      "codepoint": 57875,
+      "codepoint": 57878,
       "fontFamily": "NotoV1",
       "identifier": "violin"
     },
     "virgo": {
-      "codepoint": 57876,
+      "codepoint": 57879,
       "fontFamily": "NotoV1",
       "identifier": "virgo"
     },
     "volleyball": {
-      "codepoint": 57877,
+      "codepoint": 57880,
       "fontFamily": "NotoV1",
       "identifier": "volleyball"
     },
     "vs-button": {
-      "codepoint": 57878,
+      "codepoint": 57881,
       "fontFamily": "NotoV1",
       "identifier": "vsButton"
     },
     "vulcan-salute": {
-      "codepoint": 57879,
+      "codepoint": 57882,
       "fontFamily": "NotoV1",
       "identifier": "vulcanSalute"
     },
     "waning-crescent-moon": {
-      "codepoint": 57880,
+      "codepoint": 57883,
       "fontFamily": "NotoV1",
       "identifier": "waningCrescentMoon"
     },
     "waning-gibbous-moon": {
-      "codepoint": 57881,
+      "codepoint": 57884,
       "fontFamily": "NotoV1",
       "identifier": "waningGibbousMoon"
     },
     "warning": {
-      "codepoint": 57882,
+      "codepoint": 57885,
       "fontFamily": "NotoV1",
       "identifier": "warning"
     },
     "wastebasket": {
-      "codepoint": 57883,
+      "codepoint": 57886,
       "fontFamily": "NotoV1",
       "identifier": "wastebasket"
     },
     "water-buffalo": {
-      "codepoint": 57884,
+      "codepoint": 57887,
       "fontFamily": "NotoV1",
       "identifier": "waterBuffalo"
     },
     "water-closet": {
-      "codepoint": 57885,
+      "codepoint": 57888,
       "fontFamily": "NotoV1",
       "identifier": "waterCloset"
     },
     "water-wave": {
-      "codepoint": 57886,
+      "codepoint": 57889,
       "fontFamily": "NotoV1",
       "identifier": "waterWave"
     },
     "wavy-dash": {
-      "codepoint": 57887,
+      "codepoint": 57890,
       "fontFamily": "NotoV1",
       "identifier": "wavyDash"
     },
     "waxing-crescent-moon": {
-      "codepoint": 57888,
+      "codepoint": 57891,
       "fontFamily": "NotoV1",
       "identifier": "waxingCrescentMoon"
     },
     "waxing-gibbous-moon": {
-      "codepoint": 57889,
+      "codepoint": 57892,
       "fontFamily": "NotoV1",
       "identifier": "waxingGibbousMoon"
     },
     "weary-face": {
-      "codepoint": 57890,
+      "codepoint": 57893,
       "fontFamily": "NotoV1",
       "identifier": "wearyFace"
     },
     "whale": {
-      "codepoint": 57891,
+      "codepoint": 57894,
       "fontFamily": "NotoV1",
       "identifier": "whale"
     },
     "wheelchair-symbol": {
-      "codepoint": 57892,
+      "codepoint": 57895,
       "fontFamily": "NotoV1",
       "identifier": "wheelchairSymbol"
     },
     "white-circle": {
-      "codepoint": 57893,
+      "codepoint": 57896,
       "fontFamily": "NotoV1",
       "identifier": "whiteCircle"
     },
     "white-exclamation-mark": {
-      "codepoint": 57894,
+      "codepoint": 57897,
       "fontFamily": "NotoV1",
       "identifier": "whiteExclamationMark"
     },
     "white-flag": {
-      "codepoint": 57895,
+      "codepoint": 57898,
       "fontFamily": "NotoV1",
       "identifier": "whiteFlag"
     },
     "white-large-square": {
-      "codepoint": 57896,
+      "codepoint": 57899,
       "fontFamily": "NotoV1",
       "identifier": "whiteLargeSquare"
     },
     "white-medium-small-square": {
-      "codepoint": 57897,
+      "codepoint": 57900,
       "fontFamily": "NotoV1",
       "identifier": "whiteMediumSmallSquare"
     },
     "white-medium-square": {
-      "codepoint": 57898,
+      "codepoint": 57901,
       "fontFamily": "NotoV1",
       "identifier": "whiteMediumSquare"
     },
     "white-small-square": {
-      "codepoint": 57899,
+      "codepoint": 57902,
       "fontFamily": "NotoV1",
       "identifier": "whiteSmallSquare"
     },
     "wind-face": {
-      "codepoint": 57900,
+      "codepoint": 57903,
       "fontFamily": "NotoV1",
       "identifier": "windFace"
     },
     "winking-face": {
-      "codepoint": 57901,
+      "codepoint": 57904,
       "fontFamily": "NotoV1",
       "identifier": "winkingFace"
     },
     "wolf": {
-      "codepoint": 57902,
+      "codepoint": 57905,
       "fontFamily": "NotoV1",
       "identifier": "wolf"
     },
     "wolf-face": {
-      "codepoint": 57903,
+      "codepoint": 57906,
       "fontFamily": "NotoV1",
       "identifier": "wolfFace"
     },
     "womens-room": {
-      "codepoint": 57904,
+      "codepoint": 57907,
       "fontFamily": "NotoV1",
       "identifier": "womensRoom"
     },
     "worried-face": {
-      "codepoint": 57905,
+      "codepoint": 57908,
       "fontFamily": "NotoV1",
       "identifier": "worriedFace"
     },
     "wrench": {
-      "codepoint": 57906,
+      "codepoint": 57909,
       "fontFamily": "NotoV1",
       "identifier": "wrench"
     },
     "writing-hand": {
-      "codepoint": 57907,
+      "codepoint": 57910,
       "fontFamily": "NotoV1",
       "identifier": "writingHand"
     },
     "zipper-mouth-face": {
-      "codepoint": 57908,
+      "codepoint": 57911,
       "fontFamily": "NotoV1",
       "identifier": "zipperMouthFace"
     }

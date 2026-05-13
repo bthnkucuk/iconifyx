@@ -23,6 +23,11 @@
       "family": "GrommetIcons",
       "nextCodepoint": 57816,
       "iconCount": 472
+    },
+    {
+      "family": "GrommetIconsSecondary",
+      "nextCodepoint": 57816,
+      "iconCount": 3
     }
   ],
   "icons": {
@@ -2344,17 +2349,20 @@
     "wifi-low": {
       "codepoint": 57807,
       "fontFamily": "GrommetIcons",
-      "identifier": "wifiLow"
+      "identifier": "wifiLow",
+      "duotone": true
     },
     "wifi-medium": {
       "codepoint": 57808,
       "fontFamily": "GrommetIcons",
-      "identifier": "wifiMedium"
+      "identifier": "wifiMedium",
+      "duotone": true
     },
     "wifi-none": {
       "codepoint": 57809,
       "fontFamily": "GrommetIcons",
-      "identifier": "wifiNone"
+      "identifier": "wifiNone",
+      "duotone": true
     },
     "windows": {
       "codepoint": 57810,

@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: Hugeicons
 /// License: MIT
-/// Icons: 5115
+/// Icons: 5115 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -1962,10 +1962,17 @@ class HugeiconsIcons {
     fontPackage: 'iconifyx_hugeicons',
   ));
 
-  /// `arrow-big-right-dash`
-  static const IconifyIconData arrowBigRightDash = IconifyIconData(IconData(
+  /// `arrow-big-right-dash` — primary layer (full opacity)
+  static const IconifyIconData arrowBigRightDashPrimary = IconifyIconData(IconData(
     0xe116,
     fontFamily: 'Hugeicons',
+    fontPackage: 'iconifyx_hugeicons',
+  ));
+
+  /// `arrow-big-right-dash` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData arrowBigRightDashSecondary = IconifyIconData(IconData(
+    0xe116,
+    fontFamily: 'HugeiconsSecondary',
     fontPackage: 'iconifyx_hugeicons',
   ));
 
@@ -14884,10 +14891,17 @@ class HugeiconsIcons {
     fontPackage: 'iconifyx_hugeicons',
   ));
 
-  /// `hamburger-01`
-  static const IconifyIconData hamburger01 = IconifyIconData(IconData(
+  /// `hamburger-01` — primary layer (full opacity)
+  static const IconifyIconData hamburger01Primary = IconifyIconData(IconData(
     0xe84c,
     fontFamily: 'Hugeicons',
+    fontPackage: 'iconifyx_hugeicons',
+  ));
+
+  /// `hamburger-01` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData hamburger01Secondary = IconifyIconData(IconData(
+    0xe84c,
+    fontFamily: 'HugeiconsSecondary',
     fontPackage: 'iconifyx_hugeicons',
   ));
 
@@ -25769,10 +25783,17 @@ class HugeiconsIcons {
     fontPackage: 'iconifyx_hugeicons',
   ));
 
-  /// `right-to-left-list-bullet`
-  static const IconifyIconData rightToLeftListBullet = IconifyIconData(IconData(
+  /// `right-to-left-list-bullet` — primary layer (full opacity)
+  static const IconifyIconData rightToLeftListBulletPrimary = IconifyIconData(IconData(
     0xee5f,
     fontFamily: 'Hugeicons',
+    fontPackage: 'iconifyx_hugeicons',
+  ));
+
+  /// `right-to-left-list-bullet` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData rightToLeftListBulletSecondary = IconifyIconData(IconData(
+    0xee5f,
+    fontFamily: 'HugeiconsSecondary',
     fontPackage: 'iconifyx_hugeicons',
   ));
 

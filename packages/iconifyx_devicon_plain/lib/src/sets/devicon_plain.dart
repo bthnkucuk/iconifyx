@@ -9,7 +9,7 @@ import 'package:iconifyx_core/iconifyx_core.dart';
 ///
 /// Author: konpa
 /// License: MIT — https://github.com/devicons/devicon/blob/master/LICENSE
-/// Icons: 218
+/// Icons: 218 (split across 2 fonts)
 ///
 /// Generated from @iconify/json v2.2.472.
 @staticIconProvider
@@ -1486,10 +1486,17 @@ class DeviconPlainIcons {
     fontPackage: 'iconifyx_devicon_plain',
   ));
 
-  /// `weblate-wordmark`
-  static const IconifyIconData weblateWordmark = IconifyIconData(IconData(
+  /// `weblate-wordmark` — primary layer (full opacity)
+  static const IconifyIconData weblateWordmarkPrimary = IconifyIconData(IconData(
     0xe0d3,
     fontFamily: 'DeviconPlain',
+    fontPackage: 'iconifyx_devicon_plain',
+  ));
+
+  /// `weblate-wordmark` — secondary layer (rendered translucent by IconifyDuotoneIcon)
+  static const IconifyIconData weblateWordmarkSecondary = IconifyIconData(IconData(
+    0xe0d3,
+    fontFamily: 'DeviconPlainSecondary',
     fontPackage: 'iconifyx_devicon_plain',
   ));
 

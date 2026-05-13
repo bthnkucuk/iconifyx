@@ -20,3 +20,6 @@ flutter:
     - family: Iconamoon
       fonts:
         - asset: assets/fonts/Iconamoon.ttf
+    - family: IconamoonSecondary
+      fonts:
+        - asset: assets/fonts/IconamoonSecondary.ttf

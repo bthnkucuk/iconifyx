@@ -90,6 +90,38 @@ The pipeline runs every icon in the `strokeFillSets` list (`tools/generator/conf
 
 If you're adding a new stroke-only Iconify set, add its prefix to `strokeFillSets` in config.yaml. Without that step, the icons will build but render as solid blobs.
 
+### 5c. Duotone icons emit two glyphs each.
+
+Many Iconify sets ship duo-tone variants (Phosphor `*-duotone`, Solar `*-bold-duotone` / `*-line-duotone`, IC family, Iconamoon, Pepicons-print, etc. — ~36 sets, ~5.9k icons total). The bodies follow a fixed convention:
+
+```html
+<g fill="currentColor">
+  <path d="…" opacity=".2"/>     <!-- secondary layer -->
+  <path d="…"/>                  <!-- primary layer -->
+</g>
+```
+
+The pipeline detects them via `isDuotoneBody` (any element with `opacity<1`) and splits each body into primary + secondary using `splitDuotoneBody` (`svg_preprocess.ts`). For every primary font that contains at least one duotone icon, the generator emits a matching `<Family>Secondary` TTF holding only the secondary layers, at the same codepoints. Dart codegen emits two const fields per duotone icon — `<identifier>Primary` and `<identifier>Secondary`.
+
+**Pipeline ordering matters:** duotone detection happens BEFORE stroke-fill. Otherwise `oslllo-svg-fixer` rasterizes the whole body and traces it back as a single silhouette, losing the duotone signal — Solar `*-bold-duotone` originally fell through to single-layer rendering for this exact reason.
+
+**Rendering** is done by `IconifyDuotoneIcon` (in `iconifyx_core`):
+
+```dart
+IconifyDuotoneIcon(
+  PhIcons.acornDuotonePrimary,
+  PhIcons.acornDuotoneSecondary,
+  size: 64,
+  primaryColor: Colors.blue,
+  secondaryColor: Colors.red,
+  secondaryOpacity: 0.5,   // default 0.4
+)
+```
+
+The widget stacks two `Icon` widgets (secondary first with reduced opacity, primary on top). Both layers default to the ambient `IconTheme` color so plain `IconifyDuotoneIcon(a, b)` Just Works inside an `IconButton` etc.
+
+Tree-shake still applies: each layer is a normal `static const IconifyIconData` field, so const_finder subsets both Primary and Secondary fonts to only the referenced codepoints.
+
 ### 5b. Per-glyph error tolerance.
 
 The pipeline has two layers of glyph-level error tolerance so one bad SVG never fails the whole set:
