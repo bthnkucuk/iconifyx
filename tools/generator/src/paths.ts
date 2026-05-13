@@ -56,6 +56,6 @@ export function metaPackageDir(): string {
   return path.join(packagesDir(), META_PACKAGE_NAME);
 }
 
-export function exampleDir(): string {
-  return path.join(metaPackageDir(), 'example');
+export function websiteDir(): string {
+  return path.join(metaPackageDir(), 'website');
 }

@@ -34,7 +34,11 @@ import {
   emitMetaLibraryFile,
 } from './pubspec_codegen.ts';
 import { emitSetThirdPartyLicense, emitSetLicenseDart } from './license_codegen.ts';
-import { emitExampleIndex, emitExamplePubspec, emitExampleApp } from './example_codegen.ts';
+import {
+  buildPacksJson,
+  buildIconsIndexJson,
+  emitWebsitePubspec,
+} from './website_codegen.ts';
 import { writeCoverageReport } from './coverage_report.ts';
 import { writeStrokeAudit } from './stroke_audit.ts';
 import type { AuditEntry } from './stroke_audit.ts';
@@ -45,7 +49,7 @@ import {
   setPackageSrcDir,
   setPackageName,
   metaPackageDir,
-  exampleDir,
+  websiteDir,
   packagesDir,
   repoRoot,
 } from './paths.ts';
@@ -195,8 +199,8 @@ export async function runPipeline(options: PipelineOptions = {}): Promise<void> 
   log.step('Writing meta package');
   await writeMetaPackage(allManifests);
 
-  log.step('Writing example app data');
-  await writeExampleData(allManifests, collections, config);
+  log.step('Writing website app data');
+  await writeWebsiteData(allManifests, collections, config, iconifyVersion);
 
   log.step('Writing coverage report');
   await writeCoverageReport({
@@ -555,10 +559,11 @@ async function writeMetaPackage(manifests: Manifest[]): Promise<void> {
   );
 }
 
-async function writeExampleData(
+async function writeWebsiteData(
   manifests: Manifest[],
   collections: Record<string, IconifyCollection>,
-  config: Awaited<ReturnType<typeof loadConfig>>
+  config: Awaited<ReturnType<typeof loadConfig>>,
+  iconifyJsonVersion: string
 ): Promise<void> {
   const entries: { manifest: Manifest; displayCategory: string }[] = [];
   for (const m of manifests) {
@@ -568,28 +573,30 @@ async function writeExampleData(
     entries.push({ manifest: m, displayCategory: cat });
   }
 
-  await mkdir(path.join(exampleDir(), 'lib'), { recursive: true });
+  const dataDir = path.join(websiteDir(), 'lib', 'data');
+  await mkdir(dataDir, { recursive: true });
+
+  // The hand-written Flutter app reads these two JSON files at startup and
+  // constructs `IconifyIconData` instances at runtime — no per-set imports.
+  const codegenInput = { entries, iconifyJsonVersion };
   await writeFile(
-    path.join(exampleDir(), 'lib', 'generated_index.dart'),
-    emitExampleIndex({ entries }),
+    path.join(dataDir, 'packs.json'),
+    buildPacksJson(codegenInput),
+    'utf8'
+  );
+  await writeFile(
+    path.join(dataDir, 'icons_index.json'),
+    buildIconsIndexJson(codegenInput),
     'utf8'
   );
 
-  // Example pubspec also includes every set package as a direct dep.
+  // Pubspec lists every per-set package as a direct path dep so their TTF
+  // assets ship with the build — even though the Dart code never imports
+  // them. The two JSON files are declared as assets.
   const setPackages = entries.map((e) => setPackageName(e.manifest.prefix));
   await writeFile(
-    path.join(exampleDir(), 'pubspec.yaml'),
-    emitExamplePubspec(setPackages),
-    'utf8'
-  );
-
-  // UI body: copied from tools/generator/templates/example_app.dart on
-  // every regen so the example app's appearance lives under generator
-  // control. The example's `main.dart` is a tiny hand-written entry
-  // that imports `app.dart` and calls `runApp(IconifyxExampleApp())`.
-  await writeFile(
-    path.join(exampleDir(), 'lib', 'app.dart'),
-    await emitExampleApp(),
+    path.join(websiteDir(), 'pubspec.yaml'),
+    emitWebsitePubspec(setPackages),
     'utf8'
   );
 }

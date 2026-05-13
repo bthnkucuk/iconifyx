@@ -35,16 +35,23 @@ icons/
 `packages/iconifyx_core/lib/src/icon_data.dart` defines:
 
 ```dart
-extension type const IconifyIconData(IconData data) {
-  // … getters only
+extension type const IconifyIconData(
+  (IconData primary, IconData? secondary) _layers
+) {
+  const IconifyIconData.solo(IconData icon) : this((icon, null));
+  const IconifyIconData.duo(IconData primary, IconData secondary)
+      : this((primary, secondary));
+  IconData get primary => _layers.$1;
+  IconData? get secondary => _layers.$2;
+  bool get isDuotone => _layers.$2 != null;
 }
 ```
 
-This is **load-bearing** for tree-shaking. Dart 3.3+ extension types erase to their representation at compile time. The kernel sees `const IconData(...)` directly, and Flutter's `const_finder` (driven by `--tree-shake-icons`) detects it.
+A single shape covers both regular icons (secondary = null) and duo-tone icons (both layers present). Named constructors `.solo` / `.duo` pick the form. This is **load-bearing** for tree-shaking. Dart 3.3+ extension types erase to their representation at compile time; the kernel sees a const Record whose fields are `const IconData(...)`, and Flutter's `const_finder` (driven by `--tree-shake-icons`) traverses records and detects every inner IconData reference.
 
-If anyone ever changes this to `final class IconifyIconData { final IconData data; … }`, tree-shaking will silently break — Flutter Issue [#63920](https://github.com/flutter/flutter/issues/63920) confirms the const_finder does **not** look inside wrapper class constructors. We chose extension type specifically because it preserves the proof to the kernel that `const IconData(0xe000, …)` exists.
+If anyone ever changes this to `final class IconifyIconData { final IconData primary; final IconData? secondary; … }`, tree-shaking will silently break — Flutter Issue [#63920](https://github.com/flutter/flutter/issues/63920) confirms the const_finder does **not** look inside wrapper class constructors. `font_awesome_flutter` ships with broken tree-shake for exactly this reason.
 
-Verified empirically (2026-05-13): a two-icon app using `MdiIcons.home` + `LucideIcons.house` shrinks both fonts containing those icons from 176 KB / 784 KB to 720 / 664 bytes respectively. See `test_apps/two_icon_test/`.
+Verified empirically (2026-05-13, `test_apps/two_icon_test/` with 9 referenced icons including 4 duotones): `PhSecondary.ttf` 91 KB → 936 bytes, `IcSecondary.ttf` 156 KB → 716 bytes. Record-based wrapper preserves tree-shake.
 
 ### 2. Generated set classes must be annotated `@staticIconProvider`.
 
@@ -52,15 +59,38 @@ Verified empirically (2026-05-13): a two-icon app using `MdiIcons.home` + `Lucid
 @staticIconProvider
 class MdiIcons {
   const MdiIcons._();
-  static const IconifyIconData home = IconifyIconData(IconData(
-    0xe000, fontFamily: 'Mdi', fontPackage: 'iconifyx_mdi',
-  ));
+
+  /// `home`
+  static const IconifyIconData home = IconifyIconData.solo(
+    IconData(0xe000, fontFamily: 'Mdi', fontPackage: 'iconifyx_mdi'),
+  );
+
+  /// `account-circle` (duo-tone)
+  static const IconifyIconData accountCircle = IconifyIconData.duo(
+    IconData(0xe123, fontFamily: 'Mdi', fontPackage: 'iconifyx_mdi'),
+    IconData(0xe123, fontFamily: 'MdiSecondary', fontPackage: 'iconifyx_mdi'),
+  );
 }
 ```
 
 `@staticIconProvider` (from `package:flutter/widgets`) tells the tree shaker that this class contains only static const icon data and can be safely scanned. Class must have **only** `static const IconifyIconData` fields plus the private `_()` constructor. No other fields, no methods.
 
 The `fontPackage` value is the **per-set package name** (`iconifyx_mdi`, not `iconifyx_general`).
+
+### 2a. Render via `IconifyIcon`, never `Icon(.data)`.
+
+```dart
+IconifyIcon(MdiIcons.home, size: 24, color: Colors.indigo)       // regular
+IconifyIcon(PhIcons.acornDuotone, size: 24)                       // duotone (auto)
+IconifyIcon.duotone(                                              // duotone (custom)
+  PhIcons.acornDuotone,
+  color: Colors.blue,
+  secondaryColor: Colors.red,
+  secondaryOpacity: 0.5,
+)
+```
+
+`IconifyIcon` in `iconifyx_core` is a polymorphic widget. The default constructor auto-detects duotone via `icon.isDuotone`; `.duotone` lets the caller customise the secondary layer. Outer shape mirrors `Icon` (`Semantics` + `SizedBox`). Duotone is rendered in a single render layer via `CustomPaint` + two `TextPainter` calls — no `Stack`. TextStyle uses `package:`, not `fontPackage:` (the latter is IconData's field; copying the name verbatim into TextStyle is a confusing compile error).
 
 ### 3. Manifests are the source of truth for codepoint stability.
 
@@ -82,15 +112,20 @@ The OpenType cmap format 4 used internally is 16-bit. Sets that have more than 6
 
 `svg2ttf({ ts: 0 })` is mandatory. Without it, the font's creation timestamp drifts every run and CI diffs blow up. Always pass `ts: 0`. Same icon set + same `@iconify/json` version = byte-identical TTF.
 
-### 5a. Stroke-only sets need outline pre-processing.
+### 5a. Stroke / evenodd sets need rasterize+trace pre-processing.
 
-Sets where icons are drawn with `<path stroke="currentColor" fill="none" />` (Lucide, Tabler, Iconoir, Phosphor-thin, mdi-light, Feather, Heroicons-outline, …) render as solid filled shapes in a TTF unless the strokes are first expanded into closed filled outlines.
+Two failure modes need the same fix:
 
-The pipeline runs every icon in the `strokeFillSets` list (`tools/generator/config.yaml`) through `oslllo-svg-fixer` (rasterize + Potrace trace) before font conversion. Output is cached per-icon on disk at `tools/generator/.cache/strokefill/<prefix>/<sha1>.svg` so re-runs are nearly instant; first run for a stroke set takes ~10–20 s per ~1000 icons.
+- **Stroke-only icons** (Lucide, Tabler, Iconoir, Phosphor-thin, mdi-light, Feather, Heroicons-outline, …): drawn with `stroke="currentColor"` + `fill="none"`. svgicons2svgfont treats strokes as zero-width geometry; an outlined circle renders as a solid disc.
+- **`fill-rule="evenodd"` icons** (gravity-ui's `car`/`bug`/`card`, parts of vscode-icons, ant-design, oui, …): the internal cutouts (rings, holes) disappear because TTF glyphs use non-zero winding by default.
 
-If you're adding a new stroke-only Iconify set, add its prefix to `strokeFillSets` in config.yaml. Without that step, the icons will build but render as solid blobs.
+`tools/generator/src/svg_preprocess.ts:rasterFillSignal()` samples the first 25 icons of every set and computes both ratios. The pipeline auto-applies the `oslllo-svg-fixer` pre-pass (rasterize → Potrace trace → filled outline) when `combinedRatio >= 0.5` OR `evenOddRatio >= 0.2`, on top of any explicit allow-list in `config.strokeFillSets`. Output is cached per-icon at `tools/generator/.cache/strokefill/<prefix>/<sha1>.svg` (gitignored, content-addressed) so re-runs are near-instant; first run for a new stroke set takes ~10–20 s per ~1000 icons.
 
-### 5c. Duotone icons emit two glyphs each.
+The audit MD `STROKE_AUDIT.md` (regenerated each build) reports per-set ratios + whether the pre-pass was applied + source (`explicit` / `auto` / `none`). Sets with high ratios that were NOT processed surface at the top — they're the manual-review queue.
+
+If a set is auto-detected incorrectly (false positive, slow regen for no gain) you can suppress by NOT adding it to `strokeFillSets` (auto-detect is the default; explicit only ADDS, doesn't remove). If a set is missed but should be processed, add it to `strokeFillSets`.
+
+### 5b. Duotone icons emit a single const + paired Secondary font.
 
 Many Iconify sets ship duo-tone variants (Phosphor `*-duotone`, Solar `*-bold-duotone` / `*-line-duotone`, IC family, Iconamoon, Pepicons-print, etc. — ~36 sets, ~5.9k icons total). The bodies follow a fixed convention:
 
@@ -101,35 +136,38 @@ Many Iconify sets ship duo-tone variants (Phosphor `*-duotone`, Solar `*-bold-du
 </g>
 ```
 
-The pipeline detects them via `isDuotoneBody` (any element with `opacity<1`) and splits each body into primary + secondary using `splitDuotoneBody` (`svg_preprocess.ts`). For every primary font that contains at least one duotone icon, the generator emits a matching `<Family>Secondary` TTF holding only the secondary layers, at the same codepoints. Dart codegen emits two const fields per duotone icon — `<identifier>Primary` and `<identifier>Secondary`.
+The pipeline detects them via `isDuotoneBody` (any element with `opacity<1`) and splits each body into primary + secondary using `splitDuotoneBody` (`svg_preprocess.ts`). For every primary font that contains at least one duotone icon, the generator emits a matching `<Family>Secondary` TTF holding only the secondary layers, at the same codepoints. Dart codegen emits ONE const per duotone icon via `IconifyIconData.duo(primaryIconData, secondaryIconData)` — the consumer-facing identifier stays the bare name (e.g. `PhIcons.acornDuotone`, not `acornDuotonePrimary`).
 
 **Pipeline ordering matters:** duotone detection happens BEFORE stroke-fill. Otherwise `oslllo-svg-fixer` rasterizes the whole body and traces it back as a single silhouette, losing the duotone signal — Solar `*-bold-duotone` originally fell through to single-layer rendering for this exact reason.
 
-**Rendering** is done by `IconifyDuotoneIcon` (in `iconifyx_core`):
+**`centerHorizontally: false`** is mandatory in `font_builder.ts`'s svgicons2svgfont stream options. Iconify SVGs are already designed to fit their viewBox; auto-centring shifts each glyph's content to its own bbox centre, so duotone layers that live in different parts of the viewBox (e.g. `ic/baseline-signal-wifi-1-bar-lock` — lock on the right, wifi bars on the left) end up overlapping in the middle instead of staying in position. Re-enabling centring is a silent visual regression for any positionally-distinct duotone icon.
 
-```dart
-IconifyDuotoneIcon(
-  PhIcons.acornDuotonePrimary,
-  PhIcons.acornDuotoneSecondary,
-  size: 64,
-  primaryColor: Colors.blue,
-  secondaryColor: Colors.red,
-  secondaryOpacity: 0.5,   // default 0.4
-)
-```
+### 5c. Per-glyph error tolerance.
 
-The widget stacks two `Icon` widgets (secondary first with reduced opacity, primary on top). Both layers default to the ambient `IconTheme` color so plain `IconifyDuotoneIcon(a, b)` Just Works inside an `IconButton` etc.
+Three layers of failure handling, all automatic:
 
-Tree-shake still applies: each layer is a normal `static const IconifyIconData` field, so const_finder subsets both Primary and Secondary fonts to only the referenced codepoints.
+1. **Pre-validation** (`tools/generator/src/glyph_validator.ts`) rejects glyphs with:
+   - Unsupported SVG elements: `<animate*>`, `<set>`, `<filter>`, `<linearGradient>`, `<radialGradient>`, `<pattern>`, `<image>`, `<foreignObject>`, `<use>`.
+   - Non-standard path commands (e.g. `N` from line-md's animated paths).
+   - Malformed `d` attributes (parsed via svg-pathdata).
+   - Coordinate-magnitude overflow: any number > `5 × max(viewBox)` would overflow TTF's 16-bit signed glyph-table limit.
 
-### 5b. Per-glyph error tolerance.
+   **Critical regex:** the coord scanner uses `/-?(?:\d+\.?\d*|\.\d+)/g`. The leading-dot alternation `|\.\d+` is non-negotiable — without it the regex tokenises SVG path data like `.778` as integer `778` and trips the bound check on perfectly valid fractional coords. Mynaui lost 1,800 icons and Elegant 99/100 to this bug before the fix. Any change to the regex must add a test covering the leading-dot case to `glyph_validator.test.ts`.
 
-The pipeline has two layers of glyph-level error tolerance so one bad SVG never fails the whole set:
+2. **Retry-on-error in font_builder** (`buildOneFontWithRetry`): catches any svgicons2svgfont error mid-stream, extracts the failing glyph's name from the error message, drops it, retries. **No retry cap** — some sets (flag, certain emoji families) need 100+ retries before the build succeeds. An earlier cap of 50 left those fonts empty in the manifest but no TTF on disk, breaking `pub get` on the example app.
 
-1. **Pre-validation** (`tools/generator/src/glyph_validator.ts`) rejects glyphs with malformed path data, non-standard SVG path commands (e.g. `N`), unsupported elements (`<animate>`, `<filter>`, `<linearGradient>`, `<radialGradient>`, etc.), or coordinates that would overflow TTF's 16-bit signed range.
-2. **Retry-on-error** (`tools/generator/src/font_builder.ts`) catches any svgicons2svgfont error after pre-validation, parses the offending glyph's name from the error message, marks it deprecated in the manifest, and retries the build. Loops up to 50× per font.
+3. **Empty-font pruning**: after the retry-driven drops, if any font entry's `iconCount` recomputed to 0, it's removed from `manifest.fonts` so `pubspec_codegen` doesn't declare an asset for a missing TTF.
 
-Glyphs that fail either layer get `deprecated: true` in the manifest. Their codepoints stay reserved (so they auto-recover if upstream fixes the SVG in a future release) but the icon doesn't appear in the Dart class or the TTF.
+Glyphs that fail any layer get `deprecated: true` in the manifest. Their codepoints stay reserved (so they auto-recover if upstream fixes the SVG in a future release) but the icon doesn't appear in the Dart class or the TTF.
+
+### 5d. Audit reports — read before manual review.
+
+Two markdown reports regenerate on every `bun run generate` at repo root:
+
+- **`COVERAGE.md`** — per-set Iconify `info.total` upstream count vs. our built (live + non-deprecated, EXCLUDING synthesised weight variants) count. Sorted by % missing. Surfaces sets where the gap warrants investigation.
+- **`STROKE_AUDIT.md`** — per-set stroke/evenodd ratios + raster-fill status + duotone-icon count. Includes a duotone visual-check checklist sorted by duotone count.
+
+Open these BEFORE manually browsing the example app — most rendering issues already show up in the audit.
 
 ### 6. Per-set package naming convention.
 
